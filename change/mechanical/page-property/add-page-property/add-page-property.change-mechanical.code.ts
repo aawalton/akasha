@@ -1,3 +1,5 @@
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import {
   refusing,
   type Said,
@@ -10,11 +12,13 @@ import {
   type Page,
   type Written,
 } from "akasha/change/modules/page-property-splicing/page-property-splicing.module.code.ts"
-import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { spelledAs } from "akasha/change/modules/value-spelling/value-spelling.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn, typeSlugIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+
+const ADD_FILE_OF_ANY_KIND = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const PAGE_PROPERTY = "page-property"
 
@@ -154,7 +158,7 @@ function writingIn(world: World, given: Asked, made: Made, spelled: Spelled): Wr
   return held
 }
 
-export function addPageProperty(world: World, given: Asked): Said {
+export async function addPageProperty(world: World, given: Asked): Promise<Said> {
   const made = madeIn(world, given)
   if (typeof made === "string") return refusing(made)
   if (given.many && given.default !== undefined) {
@@ -170,9 +174,12 @@ export function addPageProperty(world: World, given: Asked): Said {
   const pages: readonly Page[] = [...writing].map(([path, written]) => ({ path, written }))
   const edits = editsOver(world, pages)
   if (typeof edits === "string") return refusing(edits)
-  return stating([{ kind: "add", path: given.at, content: given.body }, ...edits])
+  const asked = { at: given.at, body: given.body }
+  const minted = (await reach(world, ADD_FILE_OF_ANY_KIND, asked)).said
+  if (minted.refused !== null) return minted
+  return stating([...minted.edits, ...edits])
 }
 
-export function runChange(world: World, given: Asked): Said {
-  return addPageProperty(world, given)
+export async function runChange(world: World, given: Asked): Promise<Said> {
+  return await addPageProperty(world, given)
 }

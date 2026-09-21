@@ -122,12 +122,9 @@ export const addPageProperty = {
       statement: "No file a page type generates beside the property's page is written here.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here gives the page its `id`.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here reaches a change.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The property's own page is handed to the change writing a file of any kind, which mints its `id`.",
     },
   ],
   changeKind: "change-kind/change-mechanical",
