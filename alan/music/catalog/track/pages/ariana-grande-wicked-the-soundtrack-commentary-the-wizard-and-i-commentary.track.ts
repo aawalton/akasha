@@ -4,6 +4,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndICommentary = 
   id: "01a0a6c5-4958-78b5-9823-8c49047ca2aa",
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-the-wizard-and-i-commentary",
+  grade: "C",
   ownLength: 0.7727833333333334,
   ownProgress: 0.7727833333333334,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
