@@ -9,10 +9,10 @@ import type { CompletionOverride } from "akasha/temper/player/completion/temper-
 import {
   ADDON_NAME,
   SAVED_VARIABLES_NAME,
-} from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
-import type { DailyWritStates } from "akasha/temper/player-completion-state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
-import type { SparseMotifKnowledge } from "akasha/temper/player-completion-state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
-import { charactersToPrune } from "akasha/temper/player-completion-state/modules/completion-prune-characters/completion-prune-characters.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
+import type { DailyWritStates } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
+import type { SparseMotifKnowledge } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
+import { charactersToPrune } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-prune-characters/completion-prune-characters.module.code.ts"
 
 export interface SavedNavigation {
   selectedTab: string

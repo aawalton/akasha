@@ -27,8 +27,8 @@ import {
   updateZoneCompletionActivity,
 } from "akasha/temper/addon/characters-addon/modules/characters-zone-completion/characters-zone-completion.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/catalog/world/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
-import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 function captureSmithingStations(this: void, craftSkill: number): undefined {
   if (!IsSmithingCraftingType(craftSkill)) return

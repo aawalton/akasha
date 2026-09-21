@@ -8,4 +8,4 @@
 {"propertySlug":"import","fileName":"completion-task-progress.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-task-progress.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-task-progress.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"}
-{"propertySlug":"parts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
+{"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}

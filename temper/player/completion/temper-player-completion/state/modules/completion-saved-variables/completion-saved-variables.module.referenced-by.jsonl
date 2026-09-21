@@ -35,5 +35,5 @@
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/player-completion-state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"}
-{"propertySlug":"parts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
+{"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"}
+{"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}

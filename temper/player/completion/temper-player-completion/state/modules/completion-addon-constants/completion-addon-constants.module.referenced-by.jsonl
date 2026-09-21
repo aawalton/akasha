@@ -8,5 +8,5 @@
 {"propertySlug":"import","fileName":"completion-addon-constants.module.code.ts","path":"temper/addon/characters-addon/modules/characters-migrations/characters-migrations.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-addon-constants.module.code.ts","path":"temper/addon/characters-addon/modules/characters-public-api/characters-public-api.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-addon-constants.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-addon-constants.module.code.ts","path":"temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"}
-{"propertySlug":"parts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
+{"propertySlug":"import","fileName":"completion-addon-constants.module.code.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"}
+{"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}

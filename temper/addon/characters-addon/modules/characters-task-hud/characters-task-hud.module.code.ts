@@ -50,7 +50,7 @@ import { isResettingCard } from "akasha/temper/player/completion/temper-player-c
 import {
   getSavedVariables,
   type TaskData,
-} from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 function backpackBufferSlots(): number {
   if (globalThis.TemperInventory?.isSavedVariablesReady() !== true) {

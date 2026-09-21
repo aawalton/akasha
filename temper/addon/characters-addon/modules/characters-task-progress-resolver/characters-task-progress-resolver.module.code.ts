@@ -34,8 +34,8 @@ import {
   getSavedVariables,
   type SavedCharacterEntry,
   type TaskData,
-} from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
-import type { TaskProgress } from "akasha/temper/player-completion-state/modules/completion-task-progress/completion-task-progress.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import type { TaskProgress } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.code.ts"
 
 function resolveTaskProgressForCharacter(
   charData: SavedCharacterEntry | undefined,

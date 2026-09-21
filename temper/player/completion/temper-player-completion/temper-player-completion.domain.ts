@@ -77,6 +77,7 @@ export const temperPlayerCompletion = {
     "module/skill-point-public-dungeons",
     "module/skill-point-source-types",
     "module/skill-point-zone-sources",
+    "domain/temper-player-completion-state",
   ],
   decisions: [
     {

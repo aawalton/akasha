@@ -610,7 +610,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/rules/routing/temper-items-rules-routing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/rules/temper-items-rules.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/temper-items.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/bit-codec/temper-bit-codec.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/build-codec/temper-build-codec.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/build-hash/temper-build-hash.domain.ts"}
@@ -626,6 +625,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/stat/temper-character-stat.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/temper-character.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/completion/temper-completion.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/holdings/temper-holdings.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/progress/temper-progress.domain.ts"}

@@ -5508,12 +5508,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/ttc-listing-client/ttc-listing-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/use-player/use-player.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-completion-state/modules/completion-daily-writs-state/completion-daily-writs-state.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-completion-state/modules/completion-motif-knowledge/completion-motif-knowledge.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-completion-state/modules/completion-prune-characters/completion-prune-characters.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-completion-state/modules/completion-task-progress/completion-task-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/bit-writer/bit-writer.module.ts"}
@@ -6090,6 +6084,12 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/skill-point-source-types/skill-point-source-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-daily-writs-state/completion-daily-writs-state.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-motif-knowledge/completion-motif-knowledge.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-prune-characters/completion-prune-characters.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.ts"}

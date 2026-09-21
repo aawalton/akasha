@@ -50,13 +50,13 @@ import {
   startPerfTrace,
 } from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
 import { initializeSkillPointFinder } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-init/skill-point-finder-init.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
-import { collectMotifKnowledge } from "akasha/temper/player-completion-state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
+import { collectMotifKnowledge } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 import {
   getSavedVariables,
   initializeSavedVariables,
   pruneDeletedCharacters,
-} from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 const FIRST_READ_DELAY_MS = 3000
 

@@ -1,9 +1,9 @@
 import { collectAchievements } from "akasha/temper/addon/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"
 import { stripMorphVariantFields } from "akasha/temper/capture/characters-skills-morphs-addon/modules/skill-morph-strip/skill-morph-strip.module.code.ts"
 import type { SkillLineProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
-import type { SavedVariablesData } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
+import type { SavedVariablesData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 export interface Migration {
   domain: string
