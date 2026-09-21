@@ -11,6 +11,7 @@ import {
   HELD,
   LANDED,
   puttingAt,
+  SET_TYPES,
   SHARED,
   TO,
   USES,
@@ -67,4 +68,17 @@ test("a refusal the carrying answers is the refusal answered here", async () => 
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${FROM}\` declares nothing named \`Missing\``)
+})
+
+test("carrying a value that reads a name set by a loop above it is refused", async () => {
+  const world = worldOf({ [FROM]: SET_TYPES })
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "SET_TYPES_TO_NAME" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    `\`SET_TYPES_TO_NAME\` names \`LIBSETS_SETTYPE_ARENA\`, which \`${FROM}\` declares nowhere,` +
+      " and would run before" +
+      " `for (const [setTypeId, setTypeName] of ipairs(POSSIBLE_SET_TYPES)) {`"
+  )
 })

@@ -364,6 +364,21 @@ export const STARRED = `${STARRED_LINE}
 export const AT = Utilities.questOf()
 `
 
+export const SET_TYPES = `const POSSIBLE_SET_TYPES: { [index: number]: string } = {
+  [1]: "LIBSETS_SETTYPE_ARENA",
+  [2]: "LIBSETS_SETTYPE_BATTLEGROUND",
+}
+
+for (const [setTypeId, setTypeName] of ipairs(POSSIBLE_SET_TYPES)) {
+  G[setTypeName] = setTypeId
+}
+
+export const SET_TYPES_TO_NAME: { [setType: number]: { [lang: string]: string } } = {
+  [LIBSETS_SETTYPE_ARENA]: { en: "Arena" },
+  [LIBSETS_SETTYPE_BATTLEGROUND]: { en: "Battleground" },
+}
+`
+
 function indexOf(importers: readonly string[]): World["index"] {
   return {
     importersOf: () => importers,

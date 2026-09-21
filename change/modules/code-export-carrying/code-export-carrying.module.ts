@@ -182,5 +182,14 @@ export const codeExportCarrying = {
       decisionKind: "decision-kind/absence",
       statement: "A class is no declaration carried here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An export whose value reads a name declared nowhere, below a statement that runs, is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names that name and the statement the export would run before.",
+    },
   ],
 } as const satisfies Module

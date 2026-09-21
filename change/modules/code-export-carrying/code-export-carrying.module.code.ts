@@ -18,6 +18,7 @@ import {
   withName,
   withoutNames,
 } from "akasha/change/modules/import-lines/import-lines.module.code.ts"
+import { aheadIn } from "akasha/change/modules/load-order/load-order.module.code.ts"
 import { shadowedIn } from "akasha/change/modules/name-binding/name-binding.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
@@ -368,6 +369,11 @@ function goingIn(
     if (behind !== null) {
       const said = `\`${behind}\`, which \`${at}\` declares under no export`
       return { refused: `\`${name}\` names ${said}` }
+    }
+    const ahead = aheadIn(source, declared)
+    if (ahead !== null) {
+      const said = `\`${ahead.name}\`, which \`${at}\` declares nowhere`
+      return { refused: `\`${name}\` names ${said}, and would run before \`${ahead.above}\`` }
     }
     const passage = text.slice(declared.getFullStart(), declared.getEnd())
     held.push({ name, declared, passage, carried: carriedIn(declared, of, beside) })
