@@ -1,0 +1,28 @@
+import {
+  buildNavIconSvg,
+  NAV_ICON_ACCENT,
+} from "akasha/alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.code.ts"
+import { getPageByIdSuffix } from "akasha/page/access/modules/get/get.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+
+const NAV_SLUG = toPageTypeSlug("nav")
+
+const REQUESTS_STROKE_WIDTH = 2.5
+
+export async function loader({ params }: { params: { idSuffix: string } }): Promise<Response> {
+  const idSuffix = params.idSuffix
+
+  const headers = new Headers()
+  const page = await getPageByIdSuffix({
+    pageTypeSlug: NAV_SLUG,
+    idSuffix,
+    select: ["id", "icon"],
+  })
+
+  const iconName = page && typeof page.icon === "string" ? page.icon : null
+  const svg = await buildNavIconSvg(iconName, NAV_ICON_ACCENT, REQUESTS_STROKE_WIDTH)
+
+  headers.set("Content-Type", "image/svg+xml; charset=utf-8")
+  headers.set("Cache-Control", "private, max-age=300")
+  return new Response(svg, { headers })
+}

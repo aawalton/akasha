@@ -1,0 +1,6 @@
+{"code":"tsx"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The page store comes up for a reader who is not signed in."},{"decisionKind":"decision-kind/departure","statement":"What an unsigned reader is served is settled by the gate the server holds."}]}
+{"definition":"what tells the Requests site's page store who is reading, signed in or not"}
+{"id":"01a0c537-bbe7-7ea3-aabc-220dc3ae73ca"}
+{"slug":"requests-auth-provider"}
+{"type":"page-type/module"}

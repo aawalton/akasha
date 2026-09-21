@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/atlas-web/root.tsx"}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/chess/modules/board/chess-board.module.code.tsx"}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/chess/modules/eval-bar/chess-eval-bar.module.code.tsx"}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/requests-web/root.tsx"}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/web/root.tsx"}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"page/ui/component/modules/page-badge-drawings/page-badge-drawings.module.code.ts"}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"page/ui/component/modules/page-card-drawings/page-card-drawings.module.code.ts"}

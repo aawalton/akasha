@@ -69,6 +69,7 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/music/spotify/modules/auth-cli/spotify-auth-cli.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/music/spotify/modules/client/spotify-client.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.test.tsx"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/web/modules/hls-render/hls-render.module.code.ts"}

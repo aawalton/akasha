@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/harness/handover-rr/modules/handover-leaving/handover-leaving.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/harness/handover-rr/modules/handover-reader/handover-reader.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"}
+{"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"infrastructure/network/auth-proxy/modules/proxy-reading/proxy-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"infrastructure/network/auth-proxy/modules/server/auth-proxy-server.module.code.ts"}

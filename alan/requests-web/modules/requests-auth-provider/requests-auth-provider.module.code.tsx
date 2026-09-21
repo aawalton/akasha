@@ -1,0 +1,65 @@
+"use client"
+
+import { useAppVersionCheck } from "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
+import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { reportPagesStoreStall } from "akasha/page/ui-store/modules/report-stall/report-stall.module.code.ts"
+import {
+  configurePagesStoreAuth,
+  getPagesStore,
+} from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { useEffect } from "react"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+
+const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
+const PROPERTY_DEFINITION_SLUG = toPageTypeSlug("page-property-definition")
+const AUTOMATION_SLUG = toPageTypeSlug("automation")
+
+const HYDRATE_OVERRUN_WARN_MS = 30_000
+
+interface AuthProviderProps {
+  reader: string | null
+  accountId: string | null
+  children: React.ReactNode
+}
+
+export function AuthProvider({ reader, accountId, children }: AuthProviderProps) {
+  useAppVersionCheck()
+
+  useEffect(() => {
+    const work = (async (): Promise<void> => {
+      try {
+        await configurePagesStoreAuth({ jwt: null, owner: reader })
+        const store = await getPagesStore()
+        store.acquireSlug(PAGE_TYPE_SLUG)
+        store.acquireSlug(PROPERTY_DEFINITION_SLUG)
+        store.acquireSlug(AUTOMATION_SLUG)
+        await Promise.all([
+          store.whenSlugReady(PAGE_TYPE_SLUG),
+          store.whenSlugReady(PROPERTY_DEFINITION_SLUG),
+          store.whenSlugReady(AUTOMATION_SLUG),
+        ])
+      } catch (err: unknown) {
+        console.error("[requests-auth-provider] configurePagesStoreAuth/prehydrate failed", err)
+      }
+    })()
+    let workDone = false
+    void work.then(() => {
+      workDone = true
+    })
+    const warnTimer = setTimeout(() => {
+      if (!workDone) {
+        console.warn(
+          `[requests-auth-provider] hydrate exceeded ${HYDRATE_OVERRUN_WARN_MS}ms; one of the known hang paths may be active`
+        )
+        void reportPagesStoreStall()
+      }
+    }, HYDRATE_OVERRUN_WARN_MS)
+
+    return () => {
+      clearTimeout(warnTimer)
+    }
+  }, [reader])
+
+  return <UserIdContext value={accountId}>{children}</UserIdContext>
+}

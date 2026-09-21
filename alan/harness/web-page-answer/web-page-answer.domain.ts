@@ -12,6 +12,7 @@ export const webPageAnswer = {
     "module/nav-icon-svg",
     "module/page-listing-loader",
     "module/reader-access",
+    "module/page-detail-loader",
   ],
   decisions: [
     {

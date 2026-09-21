@@ -1,0 +1,19 @@
+{"bundleDirectory":true}
+{"compileConfig":"json"}
+{"declarationDirectory":true}
+{"definition":"the routes the Requests site serves to a browser"}
+{"gitIgnore":"gitignore"}
+{"id":"01a0c537-ba4f-70c8-8138-07fe3a3ea045"}
+{"parts":["app-routes/alan-requests-web-routes","module/requests-app-id","module/requests-app-shell","module/requests-auth-provider","module/requests-handover-site","module/requests-nav-command","module/requests-nav-items","stylesheet/alan-requests-web-look"]}
+{"rootRoute":"tsx"}
+{"routeTable":"ts"}
+{"routeTypesDirectory":true}
+{"routerConfig":"ts"}
+{"server":"ts"}
+{"serverEntry":"tsx"}
+{"sidebarBoot":"js"}
+{"slug":"alan-requests-web"}
+{"toolReached":["react-dom"]}
+{"tunnelRoutes":"ts"}
+{"type":"page-type/router-app"}
+{"viteConfig":"ts"}

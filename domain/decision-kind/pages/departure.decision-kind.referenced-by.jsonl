@@ -980,6 +980,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.ts","id":"01a0640f-8510-7ab5-87bf-f593cb1eb7a7"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/reader-access/reader-access.module.ts","id":"01a0c503-1fee-74f8-8460-00ac5c1b90d6"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.ts","id":"01a0640f-8510-721d-88b0-b37b2bda4681"}
+{"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/modules/page-detail-loader/page-detail-loader.module.ts","id":"01a0c537-bbf6-7370-adb9-ace2d7253c8b"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/modules/page-listing-loader/page-listing-loader.module.ts","id":"01a08e24-787c-78b5-a972-ca859eaa4fd8"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts","id":"01a08db3-6723-70df-8ccd-9abb25c56c16"}
@@ -1085,6 +1086,15 @@
 {"propertySlug":"decision-kind","path":"alan/relating/relationship-deposit/relationship-deposit.page-type.ts","id":"01a0658d-16bc-7759-82e4-2d059f33ac84"}
 {"propertySlug":"decision-kind","path":"alan/relating/relationship-topic/relationship-topic.page-type.ts","id":"01a0658a-170f-73cd-a458-8f98d995452e"}
 {"propertySlug":"decision-kind","path":"alan/relating/relationship/relationship.page-type.ts","id":"01a06594-c6e2-7bab-9ba9-948b607cfd13"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-app-shell/requests-app-shell.module.ts","id":"01a0c537-ba8c-76cf-8c53-2c9af0c65345"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.ts","id":"01a0c537-bbe7-7ea3-aabc-220dc3ae73ca"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-handover-site/requests-handover-site.module.ts","id":"01a0c537-ba9b-797c-9ce3-0dd6a8f02f52"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-nav-items/requests-nav-items.module.ts","id":"01a0c537-baba-7ce4-8b4f-d7076df6a4cd"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-page-write/requests-api-page-write.route.ts","id":"01a0c537-bb7d-769b-ad76-62d6b52dd185"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-handover/requests-handover.route.ts","id":"01a0c537-bb25-71f7-bcbe-06ea872cea83"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-page-detail/requests-page-detail.route.ts","id":"01a0c537-bad8-7ed3-8fbf-0f2b74a75fce"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-page-listing/requests-page-listing.route.ts","id":"01a0c537-bae8-7469-9b49-1e210203179a"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-sign-in/requests-sign-in.route.ts","id":"01a0c537-baf7-7ce7-ae20-c8fed529c44d"}
 {"propertySlug":"decision-kind","path":"alan/self-care/arousal/arousal.domain.ts","id":"01a06c95-1991-726a-8273-86c28202a2f2"}
 {"propertySlug":"decision-kind","path":"alan/self/identity-statement/identity-statement.page-type.ts","id":"01a0658a-739f-7d92-aed5-20be788a960f"}
 {"propertySlug":"decision-kind","path":"alan/self/life-theme/life-theme.page-type.ts","id":"01a06575-c2c0-7479-ae1f-92956ac3d48e"}
