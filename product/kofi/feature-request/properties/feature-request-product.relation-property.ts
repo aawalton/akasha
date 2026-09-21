@@ -10,7 +10,7 @@ export const featureRequestProduct = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The product a feature request names is a part of `domain/product`.",
+      statement: "The product a feature request names serves a site of its own.",
     },
   ],
   types: "ts",

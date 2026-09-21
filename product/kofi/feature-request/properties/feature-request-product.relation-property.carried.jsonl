@@ -1,4 +1,4 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The product a feature request names is a part of `domain/product`."}]}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The product a feature request names serves a site of its own."}]}
 {"definition":"the product a feature request is for"}
 {"id":"01a0c4a6-ca45-7fb5-9213-210805796619"}
 {"propertySlug":"product"}
