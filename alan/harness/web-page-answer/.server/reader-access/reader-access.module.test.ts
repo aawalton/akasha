@@ -1,7 +1,12 @@
 import { expect, test } from "bun:test"
-import { mayRead } from "akasha/alan/harness/web-page-answer/.server/reader-access/reader-access.module.code.ts"
+import { personOf } from "akasha/alan/harness/web-page-answer/.server/reader-access/reader-access.module.code.ts"
+import { ANONYMOUS_PERSON } from "akasha/person/modules/page-type-access/page-type-access.module.code.ts"
 
-test("a signed-in reader reads every page type for now", async () => {
-  expect(await mayRead({ contributor: "one" }, "world-skill")).toBe(true)
-  expect(await mayRead({ contributor: "one" }, "person")).toBe(true)
+test("a reader no session names is the reader nobody signed in as", async () => {
+  expect(await personOf(null)).toBe(ANONYMOUS_PERSON)
+})
+
+test("a reader carrying no contributor is read the same way", async () => {
+  expect(await personOf({})).toBe(ANONYMOUS_PERSON)
+  expect(await personOf({ contributor: "" })).toBe(ANONYMOUS_PERSON)
 })

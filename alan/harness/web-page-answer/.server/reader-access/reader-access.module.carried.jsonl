@@ -1,5 +1,5 @@
 {"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reader carrying a contributor is read to the person naming that contributor."},{"decisionKind":"decision-kind/departure","statement":"A reader carrying no contributor is the reader nobody signed in as."},{"decisionKind":"decision-kind/stopgap","statement":"A signed-in reader reads every page type until every person holds the accesses that person needs."}]}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A reader carrying a contributor is read to the person naming that contributor."},{"decisionKind":"decision-kind/departure","statement":"A reader carrying no contributor is read as the reader nobody signed in as."},{"decisionKind":"decision-kind/stopgap","statement":"A reader reads a page type only where that reader's person holds an access naming it."},{"decisionKind":"decision-kind/departure","statement":"A session no person holds reads no page type."},{"decisionKind":"decision-kind/departure","statement":"A person's accesses are held for a few seconds, so one roster is one reading."}]}
 {"definition":"whether the reader a site read may read a page type"}
 {"id":"01a0c503-1fee-74f8-8460-00ac5c1b90d6"}
 {"slug":"reader-access"}

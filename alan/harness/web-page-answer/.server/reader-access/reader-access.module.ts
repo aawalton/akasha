@@ -14,12 +14,20 @@ export const readerAccess = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reader carrying no contributor is the reader nobody signed in as.",
+      statement: "A reader carrying no contributor is read as the reader nobody signed in as.",
     },
     {
       decisionKind: "decision-kind/stopgap",
       statement:
-        "A signed-in reader reads every page type until every person holds the accesses that person needs.",
+        "A reader reads a page type only where that reader's person holds an access naming it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session no person holds reads no page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person's accesses are held for a few seconds, so one roster is one reading.",
     },
   ],
 } as const satisfies Module
