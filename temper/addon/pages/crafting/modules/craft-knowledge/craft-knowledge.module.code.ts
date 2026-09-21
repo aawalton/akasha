@@ -1,7 +1,7 @@
 import * as Characters from "akasha/temper/addon/pages/crafting/modules/craft-characters/craft-characters.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/crafting/modules/crafting-state/crafting-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 

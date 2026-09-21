@@ -13,8 +13,8 @@ import {
   valueDropdown,
 } from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { header } from "akasha/temper/addon/settings-panel/modules/header/header.module.code.ts"
-import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-async/lib-async.type-declaration.d.ts"
 import "akasha/temper/addon/pages/navigation/minimap-string-ids/minimap-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"

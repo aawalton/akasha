@@ -12,7 +12,7 @@ import type {
   Lib,
 } from "akasha/temper/addon/pages/lib-gps/modules/gps-types/gps-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-chat-message/lib-chat-message.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-chat-message/lib-chat-message.type-declaration.d.ts"
 
 function createChat(this: void): LibChatMessageProxy {
   if (LibChatMessage === undefined) {

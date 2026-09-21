@@ -44,7 +44,7 @@ import type {
 } from "akasha/temper/addon/pages/lib-saved-vars/modules/saved-vars-types/saved-vars-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-lua-52/lib-lua-52.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-lua-52/lib-lua-52.type-declaration.d.ts"
 
 const CLASSNAME = "Data"
 const CLASSVERSION = 1.8

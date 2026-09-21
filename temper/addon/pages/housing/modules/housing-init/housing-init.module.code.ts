@@ -46,7 +46,7 @@ import { portToFriend } from "akasha/temper/addon/pages/housing/modules/housing-
 import type { SavedVars } from "akasha/temper/addon/pages/housing/modules/housing-types/housing-types.module.code.ts"
 import { registerUiStrings } from "akasha/temper/addon/pages/housing/modules/housing-ui-strings/housing-ui-strings.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 registerUiStrings()
 

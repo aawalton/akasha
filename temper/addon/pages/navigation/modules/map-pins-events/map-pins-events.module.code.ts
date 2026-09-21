@@ -18,7 +18,7 @@ import {
   getPinTypeId,
   STATE,
 } from "akasha/temper/addon/pages/navigation/modules/map-pins-state/map-pins-state.module.code.ts"
-import "akasha/temper/addon/library-type/bui/bui.type-declaration.d.ts"
+import "akasha/temper/addon/type/bui/bui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"

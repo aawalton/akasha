@@ -21,9 +21,9 @@ import {
   isValidMapType,
 } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-treasure/lib-treasure.type-declaration.d.ts"
+import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-treasure/lib-treasure.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"

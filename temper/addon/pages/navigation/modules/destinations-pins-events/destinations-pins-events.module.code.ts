@@ -1,6 +1,6 @@
 import { PIN_TYPES } from "akasha/temper/addon/pages/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
-import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 
 export function onPoiUpdated(this: void): undefined {
   LibMapPins.RefreshPins(PIN_TYPES.UNKNOWN)

@@ -13,8 +13,8 @@ import {
 import { initializeBrowser } from "akasha/temper/web/item-browser/modules/item-browser-tab/item-browser-tab.module.code.ts"
 import { hookExternalTooltips } from "akasha/temper/web/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts"
 import { registerUiStrings } from "akasha/temper/web/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.code.ts"
-import "akasha/temper/addon/library-type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
 
 LibExtendedJournal.Used = true
 

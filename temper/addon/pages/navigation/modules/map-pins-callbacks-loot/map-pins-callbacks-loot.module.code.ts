@@ -32,7 +32,7 @@ import { UNKNOWN_POI } from "akasha/temper/addon/pages/navigation/modules/map-pi
 import { UNKNOWN_POI_TEXTURE } from "akasha/temper/addon/pages/navigation/modules/map-pins-unknown-poi-texture/map-pins-unknown-poi-texture.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/bui/bui.type-declaration.d.ts"
+import "akasha/temper/addon/type/bui/bui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"

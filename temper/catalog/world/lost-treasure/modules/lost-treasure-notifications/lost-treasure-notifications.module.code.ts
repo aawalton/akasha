@@ -4,7 +4,7 @@ import { createLogger } from "akasha/temper/catalog/world/lost-treasure/modules/
 import { getSavedVars } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-saved-vars/lost-treasure-saved-vars.module.code.ts"
 import type { PinData } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-types/lost-treasure-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-notification/lib-notification.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-notification/lib-notification.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"

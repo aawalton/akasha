@@ -18,7 +18,7 @@ import {
   reduceUnitIds,
 } from "akasha/temper/addon/pages/combat/modules/combat-log-conversion/combat-log-conversion.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-data-encode/lib-data-encode.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-data-encode/lib-data-encode.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-saved-fights-declarations/combat-saved-fights-declarations.type-declaration.d.ts"
 

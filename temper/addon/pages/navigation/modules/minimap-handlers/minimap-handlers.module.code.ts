@@ -24,7 +24,7 @@ import {
 } from "akasha/temper/addon/pages/navigation/modules/minimap-state/minimap-state.module.code.ts"
 import { EXPORTED_UPDATE_MAP } from "akasha/temper/addon/pages/navigation/modules/minimap-update/minimap-update.module.code.ts"
 import type { LooseTable } from "akasha/temper/addon/pages/navigation/modules/minimap-view-types/minimap-view-types.module.code.ts"
-import "akasha/temper/addon/library-type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-async/lib-async.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"

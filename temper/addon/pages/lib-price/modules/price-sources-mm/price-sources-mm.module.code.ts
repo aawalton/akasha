@@ -8,7 +8,7 @@ import type {
   NormalizedPrice,
   RawPrice,
 } from "akasha/temper/addon/pages/lib-price/modules/price-types/price-types.module.code.ts"
-import "akasha/temper/addon/library-type/master-merchant/master-merchant.type-declaration.d.ts"
+import "akasha/temper/addon/type/master-merchant/master-merchant.type-declaration.d.ts"
 
 lib.CanMMPrice = function (this: void): boolean | undefined {
   return MasterMerchant !== undefined ? true : undefined

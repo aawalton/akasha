@@ -2,7 +2,7 @@ import { DEFAULTS } from "akasha/temper/addon/pages/navigation/modules/destinati
 import { getSettingsString } from "akasha/temper/addon/pages/navigation/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/addon/pages/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import { getCharacterSavedVariables } from "akasha/temper/addon/pages/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import "akasha/temper/addon/library-type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 

@@ -12,8 +12,8 @@ import {
   PINS_UNKNOWN,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import { STATE } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
-import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 
 export function onShowBook(
   this: void,

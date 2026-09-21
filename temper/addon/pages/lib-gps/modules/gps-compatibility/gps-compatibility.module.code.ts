@@ -7,7 +7,7 @@ import { lib as libv3 } from "akasha/temper/addon/pages/lib-gps/modules/gps-lib-
 import type { CompatLib } from "akasha/temper/addon/pages/lib-gps/modules/gps-types/gps-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-map-ping/lib-map-ping.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-map-ping/lib-map-ping.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-18/eso-enums-18.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"

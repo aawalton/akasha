@@ -8,7 +8,7 @@ import {
 } from "akasha/temper/addon/pages/companions/modules/companions-constants/companions-constants.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/companions/companions-saved-variables-declarations/companions-saved-variables-declarations.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/temper-saved-variables-global/temper-saved-variables-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-saved-variables-global/temper-saved-variables-global.type-declaration.d.ts"
 export interface SavedCompanionEquipmentSlot {
   displayText: string
   qualityColor: [number, number, number]

@@ -1,4 +1,4 @@
-import "akasha/temper/addon/library-type/lib-histoire/lib-histoire.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-histoire/lib-histoire.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"

@@ -11,9 +11,9 @@ import {
 import { valueDropdown } from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
 
 const PANEL_ID = "TemperMasterWritInventoryMarkerSettings"
 

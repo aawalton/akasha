@@ -5,7 +5,7 @@ import {
 import { STATE } from "akasha/temper/addon/pages/interface/modules/fco-state/fco-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-shifter-box/lib-shifter-box.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-shifter-box/lib-shifter-box.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"

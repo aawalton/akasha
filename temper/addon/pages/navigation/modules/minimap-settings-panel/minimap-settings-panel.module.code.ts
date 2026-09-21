@@ -11,7 +11,7 @@ import { buildAppearanceSettings } from "akasha/temper/addon/pages/navigation/mo
 import { buildLocationSettings } from "akasha/temper/addon/pages/navigation/modules/minimap-settings-location/minimap-settings-location.module.code.ts"
 import { header } from "akasha/temper/addon/settings-panel/modules/header/header.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
-import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 import "akasha/temper/addon/pages/navigation/minimap-string-ids/minimap-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"

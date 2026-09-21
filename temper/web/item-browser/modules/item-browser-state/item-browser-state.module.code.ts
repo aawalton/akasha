@@ -2,7 +2,7 @@ import { getData } from "akasha/temper/web/item-browser/modules/item-browser-dat
 import type { ItemBrowserVars } from "akasha/temper/web/item-browser/modules/item-browser-saved-vars/item-browser-saved-vars.module.code.ts"
 import type { ItemBrowserListInstance } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"

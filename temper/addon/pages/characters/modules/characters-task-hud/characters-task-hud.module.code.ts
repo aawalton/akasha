@@ -59,7 +59,7 @@ import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
 
 function backpackBufferSlots(): number {
   if (globalThis.TemperInventory?.isSavedVariablesReady() !== true) {

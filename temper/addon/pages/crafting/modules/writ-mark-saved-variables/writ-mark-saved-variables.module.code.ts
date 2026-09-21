@@ -2,8 +2,8 @@ import {
   DEFAULT_COLORS,
   type MarkerState,
 } from "akasha/temper/addon/pages/crafting/modules/writ-mark-constants/writ-mark-constants.module.code.ts"
-import "akasha/temper/addon/library-type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-declaration.d.ts"
 
 export interface MwimSavedVars {

@@ -13,7 +13,7 @@ import type {
 } from "akasha/temper/addon/pages/lib-price/modules/price-types/price-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/furniture-catalogue/furniture-catalogue.type-declaration.d.ts"
+import "akasha/temper/addon/type/furniture-catalogue/furniture-catalogue.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"

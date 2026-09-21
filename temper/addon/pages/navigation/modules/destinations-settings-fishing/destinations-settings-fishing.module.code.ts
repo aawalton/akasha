@@ -30,8 +30,8 @@ import {
 } from "akasha/temper/addon/pages/navigation/modules/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
 import { getIconPreviews } from "akasha/temper/addon/pages/navigation/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
 import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
-import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 
 const LMP = LibMapPins
 

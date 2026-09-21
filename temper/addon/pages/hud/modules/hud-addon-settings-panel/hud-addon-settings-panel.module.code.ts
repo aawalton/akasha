@@ -1,4 +1,4 @@
-import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 import type { HudComponentRecord } from "akasha/temper/addon/hud-component/modules/hud-component-record/hud-component-record.module.code.ts"
 import { HUD_SCENE_CATALOG } from "akasha/temper/addon/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"

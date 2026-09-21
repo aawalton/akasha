@@ -24,7 +24,7 @@ import {
 } from "akasha/temper/addon/pages/crafting/modules/potion-window-helpers/potion-window-helpers.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-main-menu/lib-main-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-main-menu/lib-main-menu.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"

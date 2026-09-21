@@ -1,5 +1,5 @@
 import type { AddonSettings } from "akasha/temper/addon/pages/interface/modules/fco-types/fco-types.module.code.ts"
-import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 export function buildLootControls(
   this: void,

@@ -23,7 +23,7 @@ import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-decl
 import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-link-handler/eso-link-handler.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 const NAME = "LibCodesCommonCode"
 const VERSION = 36

@@ -18,8 +18,8 @@ import { SETS_OF_NEWER_API_VERSION } from "akasha/temper/addon/pages/lib-sets/mo
 import { SPECIAL_BONUS_SETS } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-gen-special-bonus-sets/lib-sets-gen-special-bonus-sets.module.code.ts"
 import { ZONE_IDS_OF_NEWER_API_VERSION } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-gen-zone-ids-of-newer-api-version/lib-sets-gen-zone-ids-of-newer-api-version.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
+import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
