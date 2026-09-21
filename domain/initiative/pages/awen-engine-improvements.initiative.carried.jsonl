@@ -1,6 +1,6 @@
 {"domain":"domain/story-engine"}
 {"id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
-{"intentStack":[{"statement":"A game's interface is loaded from pages rather than built with the app."},{"statement":"A played story is drawn by that loader."},{"statement":"No story-design-note holds content another page type would carry."}]}
+{"intentStack":[{"statement":"A played story is drawn by that loader."},{"statement":"No story-design-note holds content another page type would carry."}]}
 {"persona":"persona/awen"}
 {"slug":"awen-engine-improvements"}
 {"type":"page-type/initiative"}
