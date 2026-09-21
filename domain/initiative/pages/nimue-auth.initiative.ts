@@ -7,7 +7,6 @@ export const nimueAuth = {
   domain: "domain/auth",
   persona: "persona/nimue",
   intentStack: [
-    { statement: "Nothing at alanwalton.com signs a person in with a password." },
     { statement: "Every site Alan runs signs a person in the way alanwalton.com does." },
     { statement: "No GoTrue issues a token for anything Alan runs." },
     { statement: "Nothing Alan runs keeps anything in Postgres." },
