@@ -7,6 +7,7 @@ import {
   type ViewDataJSON,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
+import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { useCreateOverride } from "akasha/page/ui/component/modules/create-override/create-override.module.code.tsx"
 import { PageCardRenderer } from "akasha/page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
@@ -85,6 +86,7 @@ export function ViewTabContent({
   const setProperty = useSetPropertyOptimistic()
   const completePage = useCompletePageOptimistic()
   const userId = useUserId()
+  const editing = useAppEditing()
 
   const { handleCreatePage, handleIconChange, handleDeletePage, handleToggleFavorite } =
     useViewRowHandlers({
@@ -242,13 +244,21 @@ export function ViewTabContent({
             pageTypeIconName={pageTypeIconName}
             pageHrefById={pageHrefById}
             pageTypeSlugById={pageTypeSlugById}
-            onIconChange={isLocked(effectiveConfig, "editRowIcon") ? undefined : handleIconChange}
-            onPropertyChange={
-              isLocked(effectiveConfig, "editRowValues") ? undefined : handlePropertyChange
+            onIconChange={
+              !editing || isLocked(effectiveConfig, "editRowIcon") ? undefined : handleIconChange
             }
-            onComplete={isLocked(effectiveConfig, "editRowValues") ? undefined : handleComplete}
-            onDelete={isLocked(effectiveConfig, "deletePage") ? undefined : handleDeletePage}
-            onToggleFavorite={handleToggleFavorite}
+            onPropertyChange={
+              !editing || isLocked(effectiveConfig, "editRowValues")
+                ? undefined
+                : handlePropertyChange
+            }
+            onComplete={
+              !editing || isLocked(effectiveConfig, "editRowValues") ? undefined : handleComplete
+            }
+            onDelete={
+              !editing || isLocked(effectiveConfig, "deletePage") ? undefined : handleDeletePage
+            }
+            onToggleFavorite={editing ? handleToggleFavorite : undefined}
           />
         )}
         renderRow={(page) => {
@@ -265,21 +275,23 @@ export function ViewTabContent({
               rowHref={rowHref}
               pageTypeSlug={rowPageTypeSlug}
               onPropertyChange={
-                isLocked(effectiveConfig, "editRowValues")
+                !editing || isLocked(effectiveConfig, "editRowValues")
                   ? undefined
                   : (propertyId, value, eventTimeStamp) =>
                       handlePropertyChange(id, propertyId, value, eventTimeStamp)
               }
               completion={completion}
               onComplete={
-                isLocked(effectiveConfig, "editRowValues")
+                !editing || isLocked(effectiveConfig, "editRowValues")
                   ? undefined
                   : (value) => handleComplete(page, value)
               }
               isFavorite={pageData.favoritedAt != null}
-              onToggleFavorite={(value) => handleToggleFavorite(id, value)}
+              onToggleFavorite={editing ? (value) => handleToggleFavorite(id, value) : undefined}
               onDelete={
-                isLocked(effectiveConfig, "deletePage") ? undefined : () => handleDeletePage(id)
+                !editing || isLocked(effectiveConfig, "deletePage")
+                  ? undefined
+                  : () => handleDeletePage(id)
               }
               pageHref={pageHrefById}
               relationHref={(propertyId) => {

@@ -4,7 +4,7 @@ export const appEditing = {
   id: "01a0c58c-04d2-7bea-9650-c9d6c4f1e22a",
   type: "page-type/module",
   slug: "app-editing",
-  definition: "whether a person edits an app's own navigation and views from the browser",
+  definition: "whether a person edits an app from the browser",
   code: "tsx",
   decisions: [
     {
