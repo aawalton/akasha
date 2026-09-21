@@ -15,6 +15,7 @@ import {
   type RenderVerdict,
 } from "akasha/code/browser/test-harness/modules/deployed-render-check/deployed-render-check.module.code.ts"
 import { createReadOnlyAnonSession } from "akasha/code/browser/test-harness/modules/read-only-harness/read-only-harness.module.code.ts"
+import { createSignedInSession } from "akasha/code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { expectAttr } from "akasha/command/argument/pages/expect-attr.argument.ts"
 import { expectAttrMode } from "akasha/command/argument/pages/expect-attr-mode.argument.ts"
@@ -30,6 +31,7 @@ import { pageType } from "akasha/command/argument/pages/page-type.argument.ts"
 import { path as pathArgument } from "akasha/command/argument/pages/path.argument.ts"
 import { rootSelector } from "akasha/command/argument/pages/root-selector.argument.ts"
 import { signInPath as signInPathArgument } from "akasha/command/argument/pages/sign-in-path.argument.ts"
+import { signedIn as signedInArgument } from "akasha/command/argument/pages/signed-in.argument.ts"
 import { timeoutMs } from "akasha/command/argument/pages/timeout-ms.argument.ts"
 import { url } from "akasha/command/argument/pages/url.argument.ts"
 import {
@@ -68,6 +70,7 @@ const TAKES = [
   pathArgument,
   rootSelector,
   signInPathArgument,
+  signedInArgument,
   timeoutMs,
   url,
 ] as const
@@ -320,7 +323,7 @@ export async function browserTestVerifyRender(
 
   let session: Session
   try {
-    session = await createReadOnlyAnonSession()
+    session = taken.signedIn ? await createSignedInSession() : await createReadOnlyAnonSession()
   } catch (thrown) {
     return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)])
   }

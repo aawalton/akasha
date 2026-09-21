@@ -14,6 +14,7 @@ import { pageType } from "akasha/command/argument/pages/page-type.argument.ts"
 import { path } from "akasha/command/argument/pages/path.argument.ts"
 import { rootSelector } from "akasha/command/argument/pages/root-selector.argument.ts"
 import { signInPath } from "akasha/command/argument/pages/sign-in-path.argument.ts"
+import { signedIn } from "akasha/command/argument/pages/signed-in.argument.ts"
 import { timeoutMs } from "akasha/command/argument/pages/timeout-ms.argument.ts"
 import { url } from "akasha/command/argument/pages/url.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
@@ -33,6 +34,7 @@ const PAGES: readonly Argument[] = [
   json,
   url,
   signInPath,
+  signedIn,
   path,
   pageType,
   rootSelector,

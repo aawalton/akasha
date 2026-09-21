@@ -61,8 +61,12 @@ export const browserTestVerifyRender = {
       statement: "A page the site sends a stranger away from is told from a page that failed.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here signs anybody in.",
+      decisionKind: "decision-kind/departure",
+      statement: "A run opens the browser as nobody unless `--signed-in` says otherwise.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`--signed-in` drives the render as the contributor Alan's person page names.",
     },
   ],
   name: "test-verify-render",
@@ -70,6 +74,7 @@ export const browserTestVerifyRender = {
     { argument: "argument/json" },
     { argument: "argument/url", required: true },
     { argument: "argument/sign-in-path" },
+    { argument: "argument/signed-in" },
     { argument: "argument/path", required: true },
     { argument: "argument/page-type", required: true },
     { argument: "argument/root-selector" },
