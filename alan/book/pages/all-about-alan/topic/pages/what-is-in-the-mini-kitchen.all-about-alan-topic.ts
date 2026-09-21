@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whatIsInTheMiniKitchen = {
+  id: "01a0c59e-3f17-74a9-bc19-28488240f2f6",
+  type: "page-type/all-about-alan-topic",
+  slug: "what-is-in-the-mini-kitchen",
+  title: "What Is In The Mini-Kitchen",
+  definition: "the food a step outside my room, and which of it still gets eaten",
+  parents: ["all-about-alan-topic/the-foods-i-can-still-manage"],
+  related: ["all-about-alan-topic/how-a-good-thing-quietly-stops"],
+  settled:
+    "Just outside my room is a mini-kitchen I share with my son Joseph. His food sitting next to mine pulls at me not at all, and I ignore it cleanly.\n\nMine in there: fruit popsicles, which I go for when I am overheated, water bottles, applesauce pouches, and a bag of chocolate-covered strawberries I have not opened, because the seal is a wall I have not got over.\n\nOrgain plant-protein smoothies were a daily habit of mine for a long time. They died when creatine, the cue that fired them, was dropped.",
+} as const satisfies AllAboutAlanTopic
