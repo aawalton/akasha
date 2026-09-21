@@ -273,6 +273,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/attribute/properties/least.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/attribute/properties/most.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/encounter/properties/experience-reward.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/encounter/properties/gate-multiplier.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/entity/properties/affinity-counter.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/entity/properties/attribute-score.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/entity/properties/base-damage.number-property.ts"}

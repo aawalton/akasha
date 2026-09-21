@@ -23,6 +23,12 @@ export const gameEncounter = {
     { pageProperty: "text-property/encounter-trigger", required: false, many: false },
     { pageProperty: "number-property/experience-reward", required: false, many: false },
     { pageProperty: "text-property/dropped-reward", required: false, many: false },
+    {
+      pageProperty: "record-property/encounter-gates",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -51,5 +57,7 @@ export const gameEncounter = {
     "text-property/encounter-trigger",
     "number-property/experience-reward",
     "text-property/dropped-reward",
+    "number-property/gate-multiplier",
+    "record-property/encounter-gates",
   ],
 } as const satisfies PageType

@@ -176,6 +176,7 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"furniture-category-ids","propertySlug":"furniture-category-ids","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"furniture-subcategory-id","propertySlug":"furniture-subcategory-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"furniture-subcategory-ids","propertySlug":"furniture-subcategory-ids","fileName":null,"folderName":null}
+{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"gate-multiplier","propertySlug":"multiplier","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"gbww-plan-year","propertySlug":"plan-year","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"gbww-reading-number","propertySlug":"reading-number","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"generator-ran-for-manifest-api-version","propertySlug":"generator-ran-for-manifest-api-version","fileName":null,"folderName":null}

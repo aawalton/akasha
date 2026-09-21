@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A gate under one shuts a strike down and a gate over one lets it through."}]}
+{"definition":"what a gate does to a strike it opens or closes on"}
+{"id":"01a0c648-438e-75d3-8dc0-9756a5727a38"}
+{"max":null}
+{"nullable":false}
+{"propertySlug":"multiplier"}
+{"slug":"gate-multiplier"}
+{"type":"page-type/number-property"}
+{"types":"ts"}
