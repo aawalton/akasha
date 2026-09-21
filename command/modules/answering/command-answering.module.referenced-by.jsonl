@@ -257,7 +257,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/queue/music-queue.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
-{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/release-progress/music-release-progress.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/repeat/music-repeat.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/repeat/music-repeat.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/music/search/music-search.command.code.ts"}

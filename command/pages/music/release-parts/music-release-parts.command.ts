@@ -1,10 +1,10 @@
 import type { Command } from "akasha/command/command.page-type.types.ts"
 
-export const musicReleaseProgress = {
+export const musicReleaseParts = {
   id: "01a0c4a2-c8c8-7210-ab1f-485b31944748",
   type: "page-type/command",
-  slug: "music-release-progress",
-  definition: "the command reading a release's listening off the tracks that release carries",
+  slug: "music-release-parts",
+  definition: "the command taking a release's own length away once its tracks carry it",
   code: "ts",
   test: "ts",
   maxWallSeconds: 600,
@@ -15,11 +15,15 @@ export const musicReleaseProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A release that is covered takes its listening from its tracks.",
+      statement: "A release that is covered states a length of its own of nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A release that is not covered is left as that release is.",
+      statement: "A release that is covered states a progress of its own of nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A release that is not covered keeps the length and the progress it states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,19 +35,7 @@ export const musicReleaseProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A release runs as far as its tracks together run.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A release every track of which is run through is finished.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A release no track of which is run into is not started.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A release between the two is part way through.",
+      statement: "A release already stating nothing of its own is left as that release is.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,9 +47,13 @@ export const musicReleaseProgress = {
     },
     {
       decisionKind: "decision-kind/absence",
+      statement: "Nothing here works out what a release runs or how far Alan is through it.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Spotify.",
     },
   ],
-  name: "release-progress",
+  name: "release-parts",
   arguments: [{ argument: "argument/json" }, { argument: "argument/plan" }],
 } as const satisfies Command

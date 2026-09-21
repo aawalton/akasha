@@ -157,7 +157,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/play/music-play.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/queue/music-queue.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/rate/music-rate.command.ts"}
-{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/release-progress/music-release-progress.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/release-parts/music-release-parts.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/repeat/music-repeat.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/search/music-search.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/seek/music-seek.command.ts"}

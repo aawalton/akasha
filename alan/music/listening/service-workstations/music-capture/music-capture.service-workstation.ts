@@ -40,7 +40,7 @@ export const musicCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run reads each covered release off its tracks once those tracks are carried.",
+      statement: "A run takes the own length off each covered release once its tracks carry it.",
     },
   ],
 } as const satisfies ServiceWorkstation

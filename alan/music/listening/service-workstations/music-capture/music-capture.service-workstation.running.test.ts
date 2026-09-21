@@ -13,9 +13,9 @@ const CAPTURE = "capture"
 
 const HEARD_TRACKS = "heard-tracks"
 
-const RELEASE_PROGRESS = "release-progress"
+const RELEASE_PARTS = "release-parts"
 
-const EVERY_STEP = [CAPTURE, HEARD_TRACKS, RELEASE_PROGRESS]
+const EVERY_STEP = [CAPTURE, HEARD_TRACKS, RELEASE_PARTS]
 
 const CALLED: string[] = []
 
@@ -39,7 +39,7 @@ const marked = await import(
 )
 
 const rolled = await import(
-  "akasha/command/pages/music/release-progress/music-release-progress.command.code.ts"
+  "akasha/command/pages/music/release-parts/music-release-parts.command.code.ts"
 )
 
 mock.module("akasha/command/pages/music/capture/music-capture.command.code.ts", () => ({
@@ -52,10 +52,10 @@ mock.module("akasha/command/pages/music/heard-tracks/music-heard-tracks.command.
   musicHeardTracks: stub(HEARD_TRACKS),
 }))
 
-mock.module(
-  "akasha/command/pages/music/release-progress/music-release-progress.command.code.ts",
-  () => ({ ...rolled, musicReleaseProgress: stub(RELEASE_PROGRESS) })
-)
+mock.module("akasha/command/pages/music/release-parts/music-release-parts.command.code.ts", () => ({
+  ...rolled,
+  musicReleaseParts: stub(RELEASE_PARTS),
+}))
 
 const running = await import(
   "akasha/alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.running.code.ts"
@@ -93,7 +93,7 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run files the plays, carries each onto its track, then reads the releases off the tracks", async () => {
+test("a run files the plays, carries each onto its track, then clears the releases covered", async () => {
   await running.runService()
   expect(CALLED).toEqual(EVERY_STEP)
 })
@@ -106,7 +106,7 @@ test("a run every step answered leaves the process alone", async () => {
 test("what each step answered is what the run says", async () => {
   answering.set(CAPTURE, () => Promise.resolve({ ...DONE, report: ["recorded\t3"] }))
   answering.set(HEARD_TRACKS, () => Promise.resolve({ ...DONE, report: ["heard\t9"] }))
-  answering.set(RELEASE_PROGRESS, () => Promise.resolve({ ...DONE, report: ["covered\t8"] }))
+  answering.set(RELEASE_PARTS, () => Promise.resolve({ ...DONE, report: ["covered\t8"] }))
   await running.runService()
   expect(TOLD).toEqual(["recorded\t3\n", "heard\t9\n", "covered\t8\n"])
 })
