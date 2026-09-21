@@ -3,7 +3,6 @@ import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
 import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import {
   heardBy,
-  keysHeardOver,
   messageOf,
   releaseOf,
   releasesOf,
@@ -23,12 +22,11 @@ const ON_ELF = { partOfCollections: ["release/sylvia-daley-elf"] }
 
 const COUNTS = {
   tracks: 9,
-  heard: 6,
+  heard: 5,
   byRelease: 3,
   byListening: 2,
-  bySibling: 1,
   already: 1,
-  unheard: 3,
+  unheard: 4,
 }
 
 function carriedWith(
@@ -116,37 +114,17 @@ test("what a track already carries beside its listening is left as it is", () =>
   expect(valuesHeard(was)["title"]).toBe("Elf")
 })
 
-test("a track key any track of which Alan heard is gathered", () => {
-  const tracks = [
-    { ...ON_PIXIE, trackKey: "elf|one|140094" },
-    { ...ON_ELF, trackKey: "fool|one|150000" },
-  ]
-  const found = keysHeardOver(tracks, FINISHED, HEARD)
-  expect([...found]).toEqual(["elf|one|140094"])
-})
-
-test("a track key no track of which Alan heard is gathered by nothing", () => {
-  expect([...keysHeardOver([{ ...ON_ELF, trackKey: "fool|one|150000" }], FINISHED, HEARD)]).toEqual(
-    []
-  )
-})
-
-test("a track Alan heard that states no key puts no key in", () => {
-  expect([...keysHeardOver([ON_PIXIE], FINISHED, HEARD)]).toEqual([])
-})
-
 test("the rows say every count the run made", () => {
   expect(rowsOf(COUNTS)).toEqual([
     "tracks\t9",
-    "heard\t6",
+    "heard\t5",
     "by-release\t3",
     "by-listening\t2",
-    "by-sibling\t1",
     "already\t1",
-    "unheard\t3",
+    "unheard\t4",
   ])
 })
 
 test("the message counts the tracks the run marks rather than the tracks it read", () => {
-  expect(messageOf(COUNTS)).toBe("mark 5 track(s) as heard")
+  expect(messageOf(COUNTS)).toBe("mark 4 track(s) as heard")
 })

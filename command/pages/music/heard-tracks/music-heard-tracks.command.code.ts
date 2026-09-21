@@ -34,8 +34,6 @@ const EXTERNAL_ID = "externalId"
 
 const PART_OF = "partOfCollections"
 
-const TRACK_KEY = "trackKey"
-
 const STATUS = "status"
 
 const OWN_LENGTH = "ownLength"
@@ -55,7 +53,6 @@ export type Counted = {
   readonly heard: number
   readonly byRelease: number
   readonly byListening: number
-  readonly bySibling: number
   readonly already: number
   readonly unheard: number
 }
@@ -110,62 +107,38 @@ export function valuesHeard(was: Value): Value {
   return { ...was, [STATUS]: COMPLETED, [OWN_PROGRESS]: minutes }
 }
 
-export function keysHeardOver(
-  tracks: readonly Value[],
-  finished: ReadonlySet<string>,
-  heardIds: ReadonlySet<string>
-): ReadonlySet<string> {
-  const held = new Set<string>()
-  for (const one of tracks) {
-    if (heardBy(one, finished, heardIds) === null) continue
-    const key = textIn(one, TRACK_KEY)
-    if (key !== null) held.add(key)
-  }
-  return held
-}
-
 export function markingIn(
   root: string,
   finished: ReadonlySet<string>,
   heardIds: ReadonlySet<string>
 ): Marking {
   const source = sourceFor(root)
-  const found = valuesOfType(root, TRACK)
-  const keysHeard = keysHeardOver(
-    found.map((one) => one.value),
-    finished,
-    heardIds
-  )
   const changes: Asking[] = []
   let tracks = 0
   let heard = 0
   let byRelease = 0
   let byListening = 0
-  let bySibling = 0
   let already = 0
   let unheard = 0
-  for (const one of found) {
+  for (const one of valuesOfType(root, TRACK)) {
     const slug = textIn(one.value, "slug")
     if (slug === null) continue
     tracks += 1
     const said = heardBy(one.value, finished, heardIds)
-    const key = textIn(one.value, TRACK_KEY)
-    const sibling = said === null && key !== null && keysHeard.has(key)
-    if (said === null && !sibling) {
+    if (said === null) {
       unheard += 1
       continue
     }
     heard += 1
     if (said === RELEASE) byRelease += 1
-    else if (said !== null) byListening += 1
-    else bySibling += 1
+    else byListening += 1
     if (textIn(one.value, STATUS) === COMPLETED) {
       already += 1
       continue
     }
     changes.push(composedEdit(root, TRACK, slug, valuesHeard(one.value), source))
   }
-  const counts = { tracks, heard, byRelease, byListening, bySibling, already, unheard }
+  const counts = { tracks, heard, byRelease, byListening, already, unheard }
   return { counts, changes }
 }
 
@@ -175,7 +148,6 @@ export function rowsOf(counts: Counted): readonly string[] {
     `heard\t${counts.heard}`,
     `by-release\t${counts.byRelease}`,
     `by-listening\t${counts.byListening}`,
-    `by-sibling\t${counts.bySibling}`,
     `already\t${counts.already}`,
     `unheard\t${counts.unheard}`,
   ]

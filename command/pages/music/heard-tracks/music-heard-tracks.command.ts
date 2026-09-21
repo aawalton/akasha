@@ -47,10 +47,6 @@ export const musicHeardTracks = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track sharing a track key with a track Alan heard is a track Alan heard.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
         "A track is heard where the listening names its Spotify id on any release carrying it.",
     },
