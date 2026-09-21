@@ -8,11 +8,6 @@ export const nimueAudioManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "A sound's bytes sit beside its page rather than under a key.",
-      workingMemory:
-        "`persist-audio.module.code.ts:68` puts the whole wav at `audio/<pageId>.wav` through `audioObjectKey`, the one audio key-maker, at `object-store-key.module.code.ts:8`. The mirror is `image-bytes.file-property.ts`, whose `propertySlug` is `bytes`, `holdsBytes` is true and `runsFileLength` is false, declared `uncommitted` on the page type so the bytes land as `<slug>.audio.bytes.uncommitted.wav`.",
-    },
-    {
       statement: "A sound's slug is its own bytes, so no sound is kept twice.",
       workingMemory:
         "`imageSlugOf` at `picture-landing.module.code.ts:38` is `image-` and the first sixteen hex of the sha256 of the bytes, which made a duplicate structurally impossible across 9,814 pages. `audio-` and sixteen hex does the same here. `isRiff` in `infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.code.ts` already reads `52 49 46 46`, which is the work `endingOf` does for a picture.",
