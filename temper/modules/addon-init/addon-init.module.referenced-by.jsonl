@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/antiquities-addon/modules/antiquities-addon-entry/antiquities-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/collections-addon/modules/collections-addon-entry/collections-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/events-addon/modules/events-addon-entry/events-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/hud-addon/modules/hud-addon-entry/hud-addon-entry.module.code.ts"}
@@ -5,7 +6,6 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/quests-addon/modules/quests-entry/quests-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/selector-addon/modules/selector-entry/selector-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/antiquities-addon/modules/antiquities-addon-entry/antiquities-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/characters-addon/modules/characters-entry/characters-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/combat-addon/modules/combat-entry/combat-entry.module.code.ts"}

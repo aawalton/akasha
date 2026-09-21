@@ -354,6 +354,12 @@
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/addon-metadata-files/addon-metadata-files.module.ts","id":"01a061a6-a945-7667-867d-9548c3e63be1"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/build-output/build-output.module.ts","id":"01a09190-5f20-7946-9db3-368a18b17537"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
+{"propertySlug":"decision-kind","path":"temper/addon/antiquities-addon/leads-global-declarations/leads-global-declarations.type-declaration.ts","id":"01a06274-b08b-7d77-84f1-e4cc639b4458"}
+{"propertySlug":"decision-kind","path":"temper/addon/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.ts","id":"01a06274-b08b-7ce4-9c42-df97b97f5da8"}
+{"propertySlug":"decision-kind","path":"temper/addon/antiquities-addon/modules/leads-global/leads-global.module.ts","id":"01a06274-b08a-7c2e-bec4-949ada692ff8"}
+{"propertySlug":"decision-kind","path":"temper/addon/antiquities-addon/modules/leads-init/leads-init.module.ts","id":"01a06274-b08a-713c-8263-d0c81956cd55"}
+{"propertySlug":"decision-kind","path":"temper/addon/antiquities-addon/modules/leads-unit-list/leads-unit-list.module.ts","id":"01a06274-b08a-7e24-bb52-b2b7aeb6d21d"}
+{"propertySlug":"decision-kind","path":"temper/addon/antiquities-addon/temper-antiquities-addon.eso-addon.ts","id":"01a06275-5d2d-7594-903b-3f31fdbba41e"}
 {"propertySlug":"decision-kind","path":"temper/addon/capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts","id":"01a06341-d9e8-7008-91c3-2fcab6b143bf"}
 {"propertySlug":"decision-kind","path":"temper/addon/capture-sales-addon/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
@@ -557,12 +563,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/trading-addon/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
-{"propertySlug":"decision-kind","path":"temper/antiquities-addon/leads-global-declarations/leads-global-declarations.type-declaration.ts","id":"01a06274-b08b-7d77-84f1-e4cc639b4458"}
-{"propertySlug":"decision-kind","path":"temper/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.ts","id":"01a06274-b08b-7ce4-9c42-df97b97f5da8"}
-{"propertySlug":"decision-kind","path":"temper/antiquities-addon/modules/leads-global/leads-global.module.ts","id":"01a06274-b08a-7c2e-bec4-949ada692ff8"}
-{"propertySlug":"decision-kind","path":"temper/antiquities-addon/modules/leads-init/leads-init.module.ts","id":"01a06274-b08a-713c-8263-d0c81956cd55"}
-{"propertySlug":"decision-kind","path":"temper/antiquities-addon/modules/leads-unit-list/leads-unit-list.module.ts","id":"01a06274-b08a-7e24-bb52-b2b7aeb6d21d"}
-{"propertySlug":"decision-kind","path":"temper/antiquities-addon/temper-antiquities-addon.eso-addon.ts","id":"01a06275-5d2d-7594-903b-3f31fdbba41e"}
 {"propertySlug":"decision-kind","path":"temper/build-deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.ts","id":"01a06365-e827-7002-bfdd-914c6a139782"}
 {"propertySlug":"decision-kind","path":"temper/build-deploy-check/modules/addon-dependency-cycle/addon-dependency-cycle.module.ts","id":"01a06297-7f6a-7306-9a6f-acca84ccb4b8"}
 {"propertySlug":"decision-kind","path":"temper/build-deploy-check/modules/addon-dependency-floor/addon-dependency-floor.module.ts","id":"01a06297-7f6a-7664-ac3d-ea7ecf537e2f"}

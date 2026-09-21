@@ -7,6 +7,10 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/sparse-array/sparse-array.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"product/smilingjenny/web/jenny-capacitor-globals/jenny-capacitor-globals.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/antiquities-addon/antiquities-addon-declarations/antiquities-addon-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/antiquities-addon/leads-global-declarations/leads-global-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/antiquities-addon/leads-undaunted-declarations/leads-undaunted-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/catalog-addon/catalog-config-global/catalog-config-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/collections-addon/collections-addon-declarations/collections-addon-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/events-addon/events-addon-declarations/events-addon-declarations.type-declaration.ts"}
@@ -108,10 +112,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-slash-commander/slash-commander-declarations/slash-commander-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-slash-commander/slash-commander-entry-declarations/slash-commander-entry-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/trading-addon/trading-globals-declarations/trading-globals-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/antiquities-addon/antiquities-addon-declarations/antiquities-addon-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/antiquities-addon/leads-global-declarations/leads-global-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/antiquities-addon/leads-undaunted-declarations/leads-undaunted-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/characters-addon/characters-config-declarations/characters-config-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/combat-addon/combat-chat-report-declarations/combat-chat-report-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/combat-addon/combat-controls-panels/combat-controls-panels.type-declaration.ts"}
