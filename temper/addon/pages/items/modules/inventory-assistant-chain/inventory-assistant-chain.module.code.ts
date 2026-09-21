@@ -18,9 +18,9 @@ export const CHAIN_ROLES: readonly ChainRole[] = ["deconstruction", "merchant", 
 
 export const CHAIN_WINDOW_MS = 120000
 
-export const VENUE_EXIT_CHECK_MS = 500
+export const VENUE_EXIT_CHECK_MS = 200
 
-export const VENUE_EXIT_SETTLE_MS = 3000
+export const VENUE_EXIT_SETTLE_MS = 750
 
 export const VENUE_EXIT_LIMIT_MS = 60000
 

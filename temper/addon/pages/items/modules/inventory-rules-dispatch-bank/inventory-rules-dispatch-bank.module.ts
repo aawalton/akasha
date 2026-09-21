@@ -35,7 +35,7 @@ export const inventoryRulesDispatchBank = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Stacking counts as under way until what it settled has been recorded.",
+      statement: "Stacking counts as under way until the bags have been stacked.",
     },
     {
       decisionKind: "decision-kind/departure",

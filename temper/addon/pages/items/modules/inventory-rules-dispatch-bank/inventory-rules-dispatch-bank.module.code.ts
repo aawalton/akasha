@@ -85,6 +85,7 @@ function stackVisitedBags(this: void, bankingBag: number): undefined {
       StackBag(bag)
     }
     recordStacking({ ran: true, bags, counts }, generation)
+    stackingBags = false
     zo_callLater(function (this: void): undefined {
       const settled: BankTraceStackingCount[] = []
       for (const one of counts) {
@@ -95,7 +96,6 @@ function stackVisitedBags(this: void, bankingBag: number): undefined {
         })
       }
       recordStacking({ ran: true, bags, counts: settled }, generation)
-      stackingBags = false
     }, STACK_SETTLE_MS)
   }, STACK_ARRIVAL_MS)
 }
