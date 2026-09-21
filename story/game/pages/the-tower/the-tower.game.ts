@@ -54,5 +54,5 @@ export const theTower = {
   ],
   defaultDice: "game-mechanic/two-d-ten",
   cardVocabulary: ["LEVEL UP", "SKILL", "AFFINITY", "CLASS", "TITLE"],
-  panels: ["game-panel/tower-hud", "game-panel/character-sheet", "game-panel/story-so-far"],
+  panels: ["game-panel/tower-hud", "game-panel/character-sheet"],
 } as const satisfies Game
