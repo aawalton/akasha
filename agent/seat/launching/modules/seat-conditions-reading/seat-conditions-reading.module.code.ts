@@ -14,6 +14,7 @@ const KEYS = [
   "subagentModel",
   "fallbackModel",
   "autoCompactWindow",
+  "idleCompactWindow",
   "effortLevel",
   "subagentSpawnDepth",
   "toolTimeout",
@@ -29,6 +30,7 @@ export interface SeatConditions {
   readonly subagentModel: string | null
   readonly fallbackModel: string | null
   readonly autoCompactWindow: string | null
+  readonly idleCompactWindow: string | null
   readonly effortLevel: string | null
   readonly subagentSpawnDepth: string | null
   readonly toolTimeout: string | null
@@ -82,6 +84,7 @@ export function readSeatConditions(): SeatConditions {
     subagentModel: stated(row, "subagentModel"),
     fallbackModel: stated(row, "fallbackModel"),
     autoCompactWindow: stated(row, "autoCompactWindow"),
+    idleCompactWindow: stated(row, "idleCompactWindow"),
     effortLevel: stated(row, "effortLevel"),
     subagentSpawnDepth: stated(row, "subagentSpawnDepth"),
     toolTimeout: stated(row, "toolTimeout"),
