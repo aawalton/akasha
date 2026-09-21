@@ -10,6 +10,7 @@ export const partOfSpeech = {
     "relation-property/part-of-speech",
     "part-of-speech/determiner",
     "part-of-speech/preposition",
+    "part-of-speech/adjective",
   ],
   extends: ["page-type/domain"],
   decisions: [

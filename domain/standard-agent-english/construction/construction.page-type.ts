@@ -16,6 +16,7 @@ export const construction = {
     "construction/preposition-with-a-noun-phrase",
     "construction/noun-with-a-preposition-phrase",
     "construction/domain-definition-as-a-noun-phrase",
+    "construction/noun-group-with-an-adjective",
   ],
   extends: ["page-type/domain"],
   properties: [
