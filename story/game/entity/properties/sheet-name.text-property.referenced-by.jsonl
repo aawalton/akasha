@@ -1,9 +1,11 @@
 {"propertySlug":"import","fileName":"sheet-name.text-property.types.ts","path":"story/game/entity/properties/entity-affinities.record-property.types.ts"}
+{"propertySlug":"import","fileName":"sheet-name.text-property.types.ts","path":"story/game/entity/properties/entity-bonds.record-property.types.ts"}
 {"propertySlug":"import","fileName":"sheet-name.text-property.types.ts","path":"story/game/entity/properties/entity-equipment.record-property.types.ts"}
 {"propertySlug":"import","fileName":"sheet-name.text-property.types.ts","path":"story/game/entity/properties/entity-skills.record-property.types.ts"}
 {"propertySlug":"import","fileName":"sheet-name.text-property.types.ts","path":"story/game/entity/properties/entity-titles.record-property.types.ts"}
 {"propertySlug":"import","fileName":"sheet-name.text-property.types.ts","path":"story/game/entity/properties/entity-traits.record-property.types.ts"}
 {"propertySlug":"page-property","path":"story/game/entity/properties/entity-affinities.record-property.ts","id":"01a0c638-e681-7f8b-9e65-06059960ba7c"}
+{"propertySlug":"page-property","path":"story/game/entity/properties/entity-bonds.record-property.ts","id":"01a0c63c-7c7c-71fc-82a7-90cbaf43aa20"}
 {"propertySlug":"page-property","path":"story/game/entity/properties/entity-equipment.record-property.ts","id":"01a0c63a-77a8-7aa8-ae8c-141b34ac194b"}
 {"propertySlug":"page-property","path":"story/game/entity/properties/entity-skills.record-property.ts","id":"01a0c638-3b18-7156-b011-d466055dd675"}
 {"propertySlug":"page-property","path":"story/game/entity/properties/entity-titles.record-property.ts","id":"01a0c637-c898-7363-adde-6f63d61cdf22"}

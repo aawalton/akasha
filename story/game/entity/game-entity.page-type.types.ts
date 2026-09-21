@@ -2,6 +2,7 @@ import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { AttributeScores } from "akasha/story/game/entity/properties/attribute-scores.record-property.types.ts"
 import type { EntityAffinities } from "akasha/story/game/entity/properties/entity-affinities.record-property.types.ts"
+import type { EntityBonds } from "akasha/story/game/entity/properties/entity-bonds.record-property.types.ts"
 import type { EntityClass } from "akasha/story/game/entity/properties/entity-class.text-property.types.ts"
 import type { EntityEquipment } from "akasha/story/game/entity/properties/entity-equipment.record-property.types.ts"
 import type { EntityGame } from "akasha/story/game/entity/properties/entity-game.relation-property.types.ts"
@@ -23,4 +24,5 @@ export type GameEntity = Page & {
   skills?: EntitySkills
   affinities?: EntityAffinities
   equipment?: EntityEquipment
+  bonds?: EntityBonds
 }

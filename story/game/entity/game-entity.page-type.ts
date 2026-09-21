@@ -34,6 +34,7 @@ export const gameEntity = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "record-property/entity-bonds", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -80,5 +81,12 @@ export const gameEntity = {
     "number-property/equipment-defense",
     "relation-property/scaled-by",
     "record-property/entity-equipment",
+    "relation-property/bound-entity",
+    "relation-property/bond-attribute",
+    "relation-property/bound-attribute",
+    "text-property/bond-direction",
+    "boolean-property/bond-grows",
+    "number-property/established-turn",
+    "record-property/entity-bonds",
   ],
 } as const satisfies PageType

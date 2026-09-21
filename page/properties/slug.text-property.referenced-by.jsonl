@@ -156,6 +156,9 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-backer.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/entity/properties/bond-attribute.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/entity/properties/bound-attribute.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/entity/properties/bound-entity.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/entity/properties/entity-game.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/entity/properties/scaled-by.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/entity/properties/scored-attribute.relation-property.types.ts"}

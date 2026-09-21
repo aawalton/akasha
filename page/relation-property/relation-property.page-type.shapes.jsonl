@@ -10,6 +10,9 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"artist","unique":null,"uniquePropertySlug":null,"slug":"artist","propertySlug":"artist","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attribute","unique":null,"uniquePropertySlug":null,"slug":"attribute","propertySlug":"attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"graph-attribute","unique":null,"uniquePropertySlug":null,"slug":"attributes","propertySlug":"attributes","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"bond-attribute","propertySlug":"attribute","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"bound-attribute","propertySlug":"bound-attribute","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-entity","unique":null,"uniquePropertySlug":null,"slug":"bound-entity","propertySlug":"entity","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"shell-script","unique":null,"uniquePropertySlug":null,"slug":"build-script","propertySlug":"build-script","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"module","unique":null,"uniquePropertySlug":null,"slug":"bundle-entry","propertySlug":"bundle-entry","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"car-make","unique":null,"uniquePropertySlug":null,"slug":"car-make","propertySlug":"car-make","fileName":null,"folderName":null}

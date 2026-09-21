@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/gap","statement":"A turn a game holds is a page, and this names that page."}]}
+{"definition":"the turn a bond was struck on"}
+{"id":"01a0c63c-5aeb-7de0-9471-3e3ffc821155"}
+{"max":null}
+{"nullable":false}
+{"propertySlug":"established-turn"}
+{"slug":"established-turn"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

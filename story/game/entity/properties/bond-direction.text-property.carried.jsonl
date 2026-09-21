@@ -1,0 +1,8 @@
+{"definition":"which way a bond runs between the two it holds"}
+{"id":"01a0c63c-0c45-76a0-a7a8-a762e244942f"}
+{"maxLength":40}
+{"nameFormat":"name-format/lower-kebab-case"}
+{"propertySlug":"direction"}
+{"slug":"bond-direction"}
+{"type":"page-type/text-property"}
+{"types":"ts"}
