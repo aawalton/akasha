@@ -724,10 +724,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/ssh-access/modules/ssh-target/ssh-target.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/auth/auth.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/claims/claims.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/protected-user/protected-user.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/user-id/user-id.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/fall-notifying/surplus-fall-notifying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.ts"}

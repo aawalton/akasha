@@ -6,13 +6,7 @@ export const supabaseAuth = {
   slug: "supabase-auth",
   definition: "signing in to Supabase, and who the signed-in user is",
 
-  parts: [
-    "module/auth",
-    "module/claims",
-    "module/protected-user",
-    "module/supabase-user",
-    "module/user-id",
-  ],
+  parts: ["module/protected-user", "module/user-id"],
   decisions: [
     {
       decisionKind: "decision-kind/absence",
