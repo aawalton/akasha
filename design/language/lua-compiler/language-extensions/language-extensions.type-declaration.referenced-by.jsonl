@@ -64,6 +64,8 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-unit-stats/combat-unit-stats.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/data-encode-decoder/data-encode-decoder.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-apply-build/companions-apply-build.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts"}
@@ -135,8 +137,6 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-data-encode/modules/data-encode-decoder/data-encode-decoder.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-data-encode/modules/data-encode-types/data-encode-types.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-shape/journal-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-tooltip-colors/journal-tooltip-colors.module.code.ts"}

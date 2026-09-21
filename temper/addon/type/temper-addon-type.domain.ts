@@ -19,7 +19,6 @@ export const temperAddonType = {
     "type-declaration/lib-chat-message",
     "type-declaration/lib-codes-common-code",
     "type-declaration/lib-custom-menu",
-    "type-declaration/lib-data-encode",
     "type-declaration/lib-debug-logger",
     "type-declaration/lib-extended-journal",
     "type-declaration/lib-gps",

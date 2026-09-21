@@ -412,6 +412,9 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.ts","id":"01a062ee-efdd-7065-b808-78f99e6b809a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.ts","id":"01a062ee-f0bd-7071-8b01-5c61376d23f5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts","id":"01a06052-2ca4-7874-a41d-3892986d9cdd"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-charset/data-encode-charset.module.ts","id":"01a06061-969f-7a3f-8f90-cd7a3e2551ba"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-decoder/data-encode-decoder.module.ts","id":"01a06061-969f-7339-89aa-da319bf80d6b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-encoder/data-encode-encoder.module.ts","id":"01a06061-969e-7a22-9872-bfd327e2b7c1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-codec-constants/companions-codec-constants.module.ts","id":"01a0611d-84d0-7633-b29f-14f7be7fd63b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-id-map/companions-id-map.module.ts","id":"01a0611d-84dd-7991-bda4-54827db48eac"}
@@ -483,10 +486,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/temper-lib-character-knowledge.temper-addon.ts","id":"01a061fa-8034-72e8-8175-6440e4c91a6d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-chat-message/temper-lib-chat-message.temper-addon.ts","id":"01a06060-0d13-746b-9617-c8f4b7d288ce"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-data-encode/modules/data-encode-charset/data-encode-charset.module.ts","id":"01a06061-969f-7a3f-8f90-cd7a3e2551ba"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-data-encode/modules/data-encode-decoder/data-encode-decoder.module.ts","id":"01a06061-969f-7339-89aa-da319bf80d6b"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-data-encode/modules/data-encode-encoder/data-encode-encoder.module.ts","id":"01a06061-969e-7a22-9872-bfd327e2b7c1"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-data-encode/temper-lib-data-encode.temper-addon.ts","id":"01a06061-969c-79fe-8013-c5a31045b336"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/temper-lib-debug-logger.temper-addon.ts","id":"01a06061-408b-7657-add9-d2dfd959f9b9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-extended-journal/temper-lib-extended-journal.temper-addon.ts","id":"01a0617d-5454-7d6e-a26b-24878ddb747f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-gps/modules/gps-lib-state/gps-lib-state.module.ts","id":"01a0614d-4763-71d6-823d-0a023d0ff5b6"}

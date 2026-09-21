@@ -17,17 +17,12 @@ import {
   recoverCombatLog,
   reduceUnitIds,
 } from "akasha/temper/addon/pages/combat/modules/combat-log-conversion/combat-log-conversion.module.code.ts"
+import { DATA_ENCODE } from "akasha/temper/addon/pages/combat/modules/data-encode-surface/data-encode-surface.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-data-encode/lib-data-encode.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-saved-fights-declarations/combat-saved-fights-declarations.type-declaration.d.ts"
 
 export const FIGHT_DATA_VERSION = 22
-
-const [LDE] = assert(
-  (globalThis as { LibDataEncode?: LibDataEncodeSurface }).LibDataEncode,
-  "LibDataEncode wasn't found"
-)
 
 let sv: FightDataSV | undefined
 
@@ -98,7 +93,7 @@ function saveFight(fight: Fight, filters?: boolean | LogFilters): undefined {
   reduceUnitIds(fightCopy)
   const stringlog = convertCombatLog(fightCopy, filters)
   const savedData: SavedFight = {
-    encodedStrings: LDE.Encode(fightCopy, true, GLOBAL_DICT),
+    encodedStrings: DATA_ENCODE.Encode(fightCopy, true, GLOBAL_DICT),
     stringlog: stringlog,
     svversion: FIGHT_DATA_VERSION,
     log: stringlog !== undefined,
@@ -119,7 +114,7 @@ function loadFight(id: number): Fight {
   }
   let loadedFight: Fight
   if (savedFight.encodedStrings !== undefined && savedFight.svversion >= 14) {
-    const [decoded] = LDE.Decode<Fight>(savedFight.encodedStrings, GLOBAL_DICT)
+    const [decoded] = DATA_ENCODE.Decode<Fight>(savedFight.encodedStrings, GLOBAL_DICT)
     loadedFight = decoded
     loadedFight.stringlog = savedFight.stringlog
     loadedFight.svversion = savedFight.svversion

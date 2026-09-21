@@ -1750,6 +1750,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts","id":"01a06052-2ca5-78e3-9cd6-62ac3cdd5bed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/collections/modules/collections-addon-loaded/collections-addon-loaded.module.ts","id":"01a0624c-a660-7bb7-a785-531905b18e57"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/collections/temper-addon-collections.temper-addon.ts","id":"01a0624c-a660-70e0-bf26-d959d1027e91"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-casts/data-encode-casts.module.ts","id":"01a06061-96a1-7301-8024-72c93d42cc87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
@@ -1803,7 +1804,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.ts","id":"01a06100-0000-7000-8000-000000000028"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.ts","id":"01a061fa-8003-7294-ab90-2fa2f73b33f0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-chat-message/modules/chat-message-casts/chat-message-casts.module.ts","id":"01a06060-0d14-7717-b700-44162c6cbf37"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-data-encode/modules/data-encode-casts/data-encode-casts.module.ts","id":"01a06061-96a1-7301-8024-72c93d42cc87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts","id":"01a0620a-a166-7f46-895d-4d74d6165dbc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-extended-journal/modules/journal-casts/journal-casts.module.ts","id":"01a0617d-544d-7f97-9ea4-d789662cd65d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-gps/modules/gps-casts/gps-casts.module.ts","id":"01a0614d-4760-77ae-8327-bdf716931de5"}
