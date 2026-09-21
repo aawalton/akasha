@@ -37,6 +37,9 @@ export const featureRequest = {
     "relation-property/feature-request-proposer",
     "module/feature-request-asking",
     "module/feature-request-propose-dialog",
+    "module/feature-request-back-dialog",
+    "module/feature-request-posting",
+    "action-button-property/feature-request-back",
   ],
   properties: [
     { pageProperty: "text-property/feature-request-ask", required: true, many: false },
@@ -54,5 +57,10 @@ export const featureRequest = {
       default: "proposed",
     },
     { pageProperty: "relation-property/feature-request-proposer", required: true, many: false },
+    {
+      pageProperty: "action-button-property/feature-request-back",
+      required: false,
+      many: false,
+    },
   ],
 } as const satisfies PageType

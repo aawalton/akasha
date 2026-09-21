@@ -9,69 +9,70 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
+import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
 import { Label } from "akasha/design/interface/primitive/modules/label/label.module.code.tsx"
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
-import { Textarea } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { readPagesAgain } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
-import { PROPOSAL_COST } from "akasha/product/kofi/contribution-point/modules/spending/contribution-point-spending.module.code.ts"
 import { featureRequest } from "akasha/product/kofi/feature-request/feature-request.page-type.ts"
 import { postedTo } from "akasha/product/kofi/feature-request/modules/posting/feature-request-posting.module.code.ts"
-import { featureRequestAsk } from "akasha/product/kofi/feature-request/properties/feature-request-ask.text-property.ts"
 import { useState } from "react"
 
-const ASK = "feature-request-ask"
+const POINTS = "feature-request-points"
 
-const OPENED =
-  "Your request is open, and the points are behind it. Alan publishes it or denies it himself, and a request he denies gives its backers their points back."
+const BACKED =
+  "Your points are behind this request. They stay there until Alan builds it or denies it."
+
+export type Backing = { readonly slug: string; readonly ask: string }
 
 function heldSays(balance: number | null): string {
-  const costs = `Opening a request costs ${PROPOSAL_COST} points.`
-  return balance === null ? costs : `You hold ${balance} points. ${costs}`
+  return balance === null ? "" : `You hold ${balance} points.`
 }
 
-export function ProposeDialog({
-  open,
+export function BackDialog({
+  backing,
   onOpenChange,
   postTo,
   balance,
-  onProposed,
 }: {
-  readonly open: boolean
+  readonly backing: Backing | null
   readonly onOpenChange: (open: boolean) => void
   readonly postTo: string
   readonly balance: number | null
-  readonly onProposed?: (slug: string) => void
 }): React.ReactNode {
-  const [ask, setAsk] = useState("")
+  const [said, setSaid] = useState("")
   const [working, setWorking] = useState(false)
   const [refused, setRefused] = useState<string | null>(null)
-  const [opened, setOpened] = useState(false)
+  const [backed, setBacked] = useState(false)
 
   const close = () => {
     onOpenChange(false)
-    setAsk("")
+    setSaid("")
     setWorking(false)
     setRefused(null)
-    setOpened(false)
+    setBacked(false)
   }
 
   const send = async () => {
+    if (backing === null) return
     setWorking(true)
     setRefused(null)
-    const landed = await postedTo(postTo, { act: "propose", ask })
+    const landed = await postedTo(postTo, {
+      act: "back",
+      request: backing.slug,
+      points: said,
+    })
     setWorking(false)
     if ("refused" in landed) {
       setRefused(landed.refused)
       return
     }
-    onProposed?.(landed.slug)
-    setOpened(true)
+    setBacked(true)
     void readPagesAgain(featureRequest.slug)
   }
 
   return (
     <Dialog
-      open={open}
+      open={backing !== null}
       onOpenChange={(next) => {
         if (next) onOpenChange(true)
         else close()
@@ -79,20 +80,22 @@ export function ProposeDialog({
     >
       <DialogContent showCloseButton>
         <DialogHeader>
-          <DialogTitle>Open a feature request</DialogTitle>
+          <DialogTitle>Back this request</DialogTitle>
         </DialogHeader>
         <DialogBody>
-          {opened ? (
-            <p className="text-secondary text-sm">{OPENED}</p>
+          {backed ? (
+            <p className="text-secondary text-sm">{BACKED}</p>
           ) : (
             <div className="flex flex-col gap-2">
-              <Label htmlFor={ASK}>What do you want Alan to build?</Label>
-              <Textarea
-                id={ASK}
-                value={ask}
+              <p className="text-secondary text-sm">{backing?.ask ?? ""}</p>
+              <Label htmlFor={POINTS}>How many points?</Label>
+              <Input
+                id={POINTS}
+                type="number"
+                min={1}
+                value={said}
                 disabled={working}
-                maxLength={featureRequestAsk.maxLength}
-                onChange={(event) => setAsk(event.target.value)}
+                onChange={(event) => setSaid(event.target.value)}
               />
               <p className="text-secondary text-sm">{heldSays(balance)}</p>
               {refused !== null && (
@@ -104,7 +107,7 @@ export function ProposeDialog({
           )}
         </DialogBody>
         <DialogFooter>
-          {opened ? (
+          {backed ? (
             <Button variant="accent" onClick={close}>
               Done
             </Button>
@@ -115,7 +118,7 @@ export function ProposeDialog({
               </Button>
               <Button
                 variant="accent"
-                disabled={working || ask.trim() === ""}
+                disabled={working || said.trim() === ""}
                 onClick={() => {
                   void send()
                 }}
@@ -123,10 +126,10 @@ export function ProposeDialog({
                 {working ? (
                   <>
                     <Spinner />
-                    Opening...
+                    Committing...
                   </>
                 ) : (
-                  `Open it for ${PROPOSAL_COST} points`
+                  "Commit the points"
                 )}
               </Button>
             </>

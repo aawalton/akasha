@@ -64,6 +64,7 @@ const WORKED = new Map<string, string>([
 ])
 
 const HELD = new Map<string, string>([
+  ["action-button-property", "never"],
   ["boolean-property", "boolean"],
   ["build-folder-property", "true"],
   ["calendar-date-property", "string"],

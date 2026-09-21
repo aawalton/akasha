@@ -7,16 +7,31 @@ import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AppEditingProvider } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { CreateOverrideProvider } from "akasha/page/ui/component/modules/create-override/create-override.module.code.tsx"
+import { registerActionVerb } from "akasha/page/ui/modules/action-verb-registry/action-verb-registry.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import {
+  BackDialog,
+  type Backing,
+} from "akasha/product/kofi/feature-request/modules/back-dialog/feature-request-back-dialog.module.code.tsx"
 import { ProposeDialog } from "akasha/product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"
 import { balanceHeldBy } from "akasha/product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"
-import { useMemo, useState } from "react"
+import { featureRequestBack } from "akasha/product/kofi/feature-request/properties/feature-request-back.action-button-property.ts"
+import { useEffect, useMemo, useState } from "react"
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
 
 const FEATURE_REQUEST = "feature-request"
 
 const PROPOSE_PATH = "/api/request-propose"
+
+function backingIn(held: Record<string, unknown>): Backing {
+  const slug = held.slug
+  const ask = held.ask
+  return {
+    slug: typeof slug === "string" ? slug : "",
+    ask: typeof ask === "string" ? ask : "",
+  }
+}
 
 export async function loader({ request }: Route.LoaderArgs) {
   const reader = await signedInAs(REQUESTS_SITE, request)
@@ -43,7 +58,14 @@ export async function loader({ request }: Route.LoaderArgs) {
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
   const [proposing, setProposing] = useState(false)
+  const [backing, setBacking] = useState<Backing | null>(null)
   const overrides = useMemo(() => ({ [FEATURE_REQUEST]: () => setProposing(true) }), [])
+
+  useEffect(() => {
+    registerActionVerb(featureRequestBack.verbId, (ctx) => {
+      setBacking(backingIn(ctx.data))
+    })
+  }, [])
 
   return (
     <AuthProvider reader={loaderData.reader} accountId={loaderData.accountId}>
@@ -57,6 +79,14 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
       <ProposeDialog
         open={proposing}
         onOpenChange={setProposing}
+        postTo={PROPOSE_PATH}
+        balance={loaderData.balance}
+      />
+      <BackDialog
+        backing={backing}
+        onOpenChange={(open) => {
+          if (!open) setBacking(null)
+        }}
         postTo={PROPOSE_PATH}
         balance={loaderData.balance}
       />
