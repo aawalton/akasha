@@ -1,6 +1,6 @@
 {"domain":"domain/music"}
 {"id":"01a0c430-3f69-7205-aa28-81d030972f66"}
-{"intentStack":[]}
+{"intentStack":[{"statement":"A track states its disc, its position and its Spotify id only per release carrying it.","workingMemory":"The consolidation left the old single fields beside the carriers that replaced them. Every reader moved onto `carriedBy`, and `bySibling` in `music heard-tracks` answers 0, so the `trackKey` sibling machinery is dead code. `track-syncing` still writes `position`, `discNumber` and `externalIdentity`. `trackKey` stays: the sync and `music merge-tracks` both match recordings by it. The track decision that one recording on two releases is two tracks goes with this."},{"statement":"One name states a grade in music.","workingMemory":"Alan asked for `grade` as the one name for this concept. The property, the data and the commands are aligned already. What is left is `alan/music/choosing/modules/rating-ladder/`, whose `MusicRating` is a second name for `Grade` and whose `MUSIC_RATINGS` is `gradeProperty.values`. Nimue holds the ladder page, which states the sixteen rungs and a color for each. `isLiked` and its `LIKED_FROM` of `B-` are a music judgement rather than a fact about the ladder."}]}
 {"persona":"persona/eppie"}
 {"slug":"eppie-music-improvements"}
 {"type":"page-type/initiative"}
