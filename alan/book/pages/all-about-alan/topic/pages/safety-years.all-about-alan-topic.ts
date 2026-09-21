@@ -7,5 +7,6 @@ export const safetyYears = {
   title: "Safety Years",
   definition: "how much safe time I have behind me",
   parents: ["all-about-alan-topic/safety-stack"],
-  settled: "It is my average safety level multiplied by years, so a year at level one is one.",
+  settled:
+    "It is my time-weighted average safety level multiplied by the duration in years, so a year at level one is one.\n\nA level is a present-tense reading. A safety year is what a stretch of time at a level is worth. I invented the unit on 2 August 2026 to re-score my past with.\n\nA coarser reading lies over the same numbers, saying what a stretch at a level amounts to rather than what it lets me do. Below zero is not functioning. Zero to two is functioning. Three to five is living. Six and above is thriving.\n\nThe line between functioning and living falls at three, the rung where I can feel happiness. Thriving starts at six, above the top of my rung ladder.",
 } as const satisfies AllAboutAlanTopic
