@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whyTheChargedFaceWins = {
+  id: "01a0c5a8-d9cb-735c-a0ea-7dd4ee2606fe",
+  type: "page-type/all-about-alan-topic",
+  slug: "why-the-charged-face-wins",
+  title: "Why The Charged Face Wins",
+  definition: "my attraction topping out on the charged face rather than the soothing one",
+  parents: ["all-about-alan-topic/what-draws-me-to-someone"],
+  related: [
+    "all-about-alan-topic/being-met",
+    "all-about-alan-topic/the-women-i-made-out-of-myself",
+  ],
+  settled:
+    "My whole system organises around safety, so the ceiling of attraction should sit on the most soothing face. It does not.\n\nThe ceiling sits on the charged register: a challenging, vivid, bold, unmistakably-someone face. In my graded persona images the top exemplars all sit there, and the soothing-safe face and the deep-meaning face both rank a tier lower.\n\nThe pricing explains it. Softness delivers safety, which I hold in relative abundance now. Retirement made the headroom, the solitude supplies it, and feminine cues raise it cheaply. Directness in an intimate context delivers being met, which is the scarcest thing I have.\n\nThe scarcer good carries the higher value-density, so the system tops out on being met, wearing aesthetics as a disguise. The face that maxes attraction is not the safest face. It is the one that most reads: someone is here, meeting you.",
+} as const satisfies AllAboutAlanTopic
