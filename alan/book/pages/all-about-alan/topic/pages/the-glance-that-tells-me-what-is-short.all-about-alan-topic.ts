@@ -1,0 +1,12 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theGlanceThatTellsMeWhatIsShort = {
+  id: "01a0c602-8818-7976-b97b-1aae79f66526",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-glance-that-tells-me-what-is-short",
+  title: "The Glance That Tells Me What Is Short",
+  definition: "one read off the panel, and the two mappings I can name off the rows",
+  parents: ["all-about-alan-topic/the-score-i-keep-on-myself"],
+  settled:
+    "Concretely: I glance at the panel. Faith is green, Health is yellow, the others sit where they sit.\n\nThe yellow is the cue. Health has not had enough today.\n\nI did not have to remember that. The light remembered it for me, and it hands me a little motivation to go and do something about it.\n\nOff the rows I can name three. Abby carries Faith. Amy carries Health, as the layer that keeps my day flowing. Ali carries Learn.",
+} as const satisfies AllAboutAlanTopic
