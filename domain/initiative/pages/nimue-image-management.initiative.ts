@@ -28,6 +28,11 @@ export const nimueImageManagement = {
       workingMemory:
         "Not met, and not worked before the migration above. `/api/image/:imageId` serves 37 persona covers, 112 generation-log rows and 14 food entries out of the SeaweedFS bucket `agent-sessions` under `images/<pageId>.png`, with a legacy `persona-images/` prefix costing a third HEAD on every miss. 54 committed pages hold a literal `/api/image/<uuid>` in `cover`, and `PageCover` writes an arbitrary pasted URL into that same field.",
     },
+    {
+      statement: "No two images akasha holds are the same bytes.",
+      workingMemory:
+        "Not met. Of 11,287 image files under `~/To Process` and `persona/pages`, 4,468 are a copy of something: 2,080 pictures are held more than once, 2,388 copies are redundant, and those redundant copies hold 3.09GB. The heaviest are 1,511 in `zimage-outputs`, 875 in `Personas`, 747 in `To Sort` and 624 in `Sorted`, and 78 of the 80 committed persona PNGs are byte-identical to a file under `~/To Process`. Measured by sha256 over every file whose size another file shares.",
+    },
   ],
   constraints: [
     "An image's bytes are a file property akasha does not commit, and the image's page is committed.",
