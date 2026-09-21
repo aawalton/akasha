@@ -96,6 +96,7 @@
 {"propertySlug":"decision-kind","path":"alan/car-research/car-trim/properties/car-year-slug.text-property.ts","id":"01a0c543-8c25-7484-9da3-144fd1373381"}
 {"propertySlug":"decision-kind","path":"alan/chess/puzzle-set/chess-puzzle-set.page-type.ts","id":"01a06582-bd62-7a9f-a011-94835eaaf909"}
 {"propertySlug":"decision-kind","path":"alan/chess/review-session/chess-review-session.page-type.ts","id":"019f1e54-024f-7c0b-9c78-d44a2a2e9f2e"}
+{"propertySlug":"decision-kind","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.ts","id":"01a0686c-fd2c-7002-a269-4f47fac2fd46"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road-account/royal-road-account.page-type.ts","id":"01a06838-e8da-73c2-8412-6234b402ec6a"}
 {"propertySlug":"decision-kind","path":"alan/collection/type/collection-type.page-type.ts","id":"01a0680f-6f00-7001-b374-6d2a9f5c6102"}
 {"propertySlug":"decision-kind","path":"alan/eso/eso.domain.ts","id":"01a0675b-16ea-77df-9153-bac46e026794"}
@@ -400,7 +401,6 @@
 {"propertySlug":"decision-kind","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-from-slugs.text-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-to-slugs.text-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}
-{"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.ts","id":"01a0686c-fd2c-7002-a269-4f47fac2fd46"}
 {"propertySlug":"decision-kind","path":"story/world/properties/character-slug.text-property.ts","id":"01a063ce-6216-7006-8542-b3d67f43dc56"}
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-slug.text-property.ts","id":"01a063ce-6216-7007-b529-a31661f9223d"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/elements/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}

@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"}
@@ -253,7 +254,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/game/panel/game-panel.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts"}

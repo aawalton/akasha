@@ -3,6 +3,7 @@ import {
   idFrom,
   syncedFrom,
 } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import { recordingRun } from "akasha/alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"
 import { minutes } from "akasha/alan/collection/unit/pages/minutes.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import {
@@ -39,7 +40,6 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { sourceFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { recordingRun } from "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"
 import {
   daysAgoYYYYMMDD,
   todayYYYYMMDD,

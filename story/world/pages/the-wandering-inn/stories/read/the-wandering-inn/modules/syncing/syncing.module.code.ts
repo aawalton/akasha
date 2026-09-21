@@ -1,4 +1,8 @@
 import {
+  type RunCounts,
+  recordingRun,
+} from "akasha/alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"
+import {
   chapterTitleOf,
   isPatronTitle,
   strippedOfTrailingNav,
@@ -13,10 +17,6 @@ import {
   openSite,
   type Site,
 } from "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.code.ts"
-import {
-  type RunCounts,
-  recordingRun,
-} from "akasha/story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"
 
 const SOURCE = "wandering-inn"
 const BETWEEN_CHAPTERS_MS = 1000

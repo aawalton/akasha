@@ -25,6 +25,7 @@ export const collection = {
     "domain/royal-road",
     "instant-property/collection-completed-at",
     "instant-property/published-at",
+    "module/sync-run-recording",
     "number-property/own-length",
     "number-property/own-progress",
     "computed-property/parts-length-in-words",

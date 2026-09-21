@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"}
@@ -67,7 +68,6 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
-{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/capture/music-capture.command.test.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts"}

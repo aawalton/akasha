@@ -20,7 +20,6 @@ export const theWanderingInn = {
     "module/chapter",
     "module/chapter-filing",
     "module/site",
-    "module/sync-run-recording",
     "module/syncing",
     "service-workstation/wandering-inn-sync",
   ],

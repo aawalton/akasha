@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/book/pages/learn-everything/modules/topic-tree/topic-tree.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"}
@@ -305,7 +306,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"}

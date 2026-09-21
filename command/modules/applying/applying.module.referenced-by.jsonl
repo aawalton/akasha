@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
+{"propertySlug":"import","fileName":"applying.module.code.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"}
@@ -25,5 +26,4 @@
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
-{"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
