@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theOneStackItIsAllIn = {
+  id: "01a0c59f-efdf-7cab-b3af-2284e50927e7",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-one-stack-it-is-all-in",
+  title: "The One Stack It Is All In",
+  definition: "three concentrations layered on the liquid money, each its own dependency",
+  parents: ["all-about-alan-topic/where-our-money-sits"],
+  related: [
+    "all-about-alan-topic/putting-two-things-with-one-company",
+    "all-about-alan-topic/which-dependency-i-deal-with-first",
+  ],
+  settled:
+    "The liquid money carries three concentrations at once, and each of them is a dependency I have to grade on its own.\n\nOne institution holds all of it.\n\nOne fund vehicle holds all of it inside that institution.\n\nAnd one asset class, international equity return, is where every dollar of expected return comes from.\n\nThe third is the one that makes the other two worse. A shock correlated across markets reaches all three layers in the same moment, so they do not offset each other at all.\n\nThis is the largest single financial dependency I have, and whatever I do about it has to be sized to that.",
+} as const satisfies AllAboutAlanTopic
