@@ -1,3 +1,4 @@
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { orchestratorCacheVolumeMounts } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
   BUN_RUNTIME_IMAGE,
@@ -19,12 +20,26 @@ function resolveMemorySpec(memory: string | { request: string; limit: string }):
   return typeof memory === "string" ? { request: memory, limit: memory } : memory
 }
 
+const SHA = /^[0-9a-f]{40}$/
+
+function commitHere(): string {
+  const done = ran(["git", "-C", import.meta.dir, "rev-parse", "HEAD"])
+  const sha = done.out.trim()
+  if (done.code !== 0 || !SHA.test(sha)) {
+    throw new Error(
+      `the commit this manifest is composed at could not be read from ${import.meta.dir}, and a pod given a branch instead would move off the commit deployed — ${done.err.trim()}`
+    )
+  }
+  return sha
+}
+
 export function orchestratorCacheInitContainer(opts: {
   gitAccessTokenRef: GitAccessTokenRef
   location: CacheLocation
   memory?: string | { request: string; limit: string }
 }): object {
   const memorySpec = resolveMemorySpec(opts.memory ?? "4Gi")
+  const commit = commitHere()
   const script = [
     "set -e",
     `mkdir -p ${ORCHESTRATOR_CACHE_MOUNT_PATH}`,
@@ -48,10 +63,10 @@ export function orchestratorCacheInitContainer(opts: {
     `      echo "init-code: origin is $HAVE but this pod is for $WANT — repointing"`,
     `      git -C ${ORCHESTRATOR_CACHE_REPO_PATH} remote set-url origin "${opts.location.cloneOriginUrl}"`,
     `    fi`,
-    `    echo "init-code: ${ORCHESTRATOR_CACHE_REPO_PATH} already cloned, fetching origin and resetting to origin/main"`,
+    `    echo "init-code: ${ORCHESTRATOR_CACHE_REPO_PATH} already cloned, fetching origin and resetting to ${commit}"`,
     `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} fetch origin --prune`,
-    `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} reset --hard origin/main`,
-    `    echo "init-code: source-sync to origin/main complete"`,
+    `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} reset --hard ${commit}`,
+    `    echo "init-code: source-sync to ${commit} complete"`,
     "  else",
     `    if [ -e ${ORCHESTRATOR_CACHE_REPO_PATH} ]; then`,
     `      echo "init-code: ${ORCHESTRATOR_CACHE_REPO_PATH} exists but HEAD is unreadable — wiping partial state"`,
@@ -59,7 +74,8 @@ export function orchestratorCacheInitContainer(opts: {
     "    fi",
     `    echo "init-code: cloning monorepo into ${ORCHESTRATOR_CACHE_REPO_PATH}"`,
     `    git clone --branch main "${opts.location.cloneOriginUrl}" ${ORCHESTRATOR_CACHE_REPO_PATH}`,
-    `    echo "init-code: clone complete"`,
+    `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} reset --hard ${commit}`,
+    `    echo "init-code: clone complete at ${commit}"`,
     "  fi",
     `  echo "init-code: running bun install --frozen-lockfile"`,
     `  cd ${ORCHESTRATOR_CACHE_REPO_PATH} && bun install --frozen-lockfile`,

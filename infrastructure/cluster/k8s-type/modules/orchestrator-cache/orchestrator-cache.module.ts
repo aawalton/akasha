@@ -9,7 +9,20 @@ export const orchestratorCache = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The checkout is fetched and reset hard to `origin/main` at every pod start.",
+      statement:
+        "The checkout is fetched and reset hard to the commit deployed at every pod start.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The commit deployed is read from the checkout this code is composed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A commit that cannot be read refuses the manifest rather than naming a branch.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pod restarting without a deploy comes back at the same commit.",
     },
     {
       decisionKind: "decision-kind/departure",
