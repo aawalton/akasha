@@ -31,22 +31,22 @@ type Held = Record<string, unknown>
 
 type Roll = {
   releases: number
-  ranked: number
+  graded: number
 }
 
 export type ArtistRow = {
   readonly slug: string
   readonly title: string
   readonly status: Status | null
-  readonly rank: MusicRating | null
+  readonly grade: MusicRating | null
   readonly releases: number
   readonly length: number
   readonly progress: number
-  readonly ranked: number
+  readonly graded: number
 }
 
 export type Rung = {
-  readonly rank: MusicRating | typeof NONE
+  readonly grade: MusicRating | typeof NONE
   readonly artists: number
 }
 
@@ -58,7 +58,7 @@ export type Artists = {
   readonly releases: number
   readonly length: number
   readonly progress: number
-  readonly ranked: number
+  readonly graded: number
 }
 
 function count(held: Held, key: string): number {
@@ -95,9 +95,9 @@ function rolledBySlug(releases: readonly Held[]): ReadonlyMap<string, Roll> {
     const named = firstIn(one, "partOfCollections")
     if (named === undefined) continue
     const slug = slugOf(named)
-    const held = rolled.get(slug) ?? { releases: 0, ranked: 0 }
+    const held = rolled.get(slug) ?? { releases: 0, graded: 0 }
     held.releases += 1
-    held.ranked += gradeOf(one) === null ? 0 : 1
+    held.graded += gradeOf(one) === null ? 0 : 1
     rolled.set(slug, held)
   }
   return rolled
@@ -115,16 +115,16 @@ export function rowsOf(
     if (slug === undefined) continue
     const stated = statusOf(one)
     if (wanted !== null && stated !== wanted) continue
-    const roll = rolled.get(slug) ?? { releases: 0, ranked: 0 }
+    const roll = rolled.get(slug) ?? { releases: 0, graded: 0 }
     rows.push({
       slug,
       title: firstIn(one, "title") ?? slug,
       status: stated,
-      rank: gradeOf(one),
+      grade: gradeOf(one),
       releases: roll.releases,
       length: count(one, "totalLength"),
       progress: count(one, "totalProgress"),
-      ranked: roll.ranked,
+      graded: roll.graded,
     })
   }
   return rows.sort((a, b) => b.length - a.length || a.title.localeCompare(b.title))
@@ -133,11 +133,11 @@ export function rowsOf(
 export function rungsOf(rows: readonly ArtistRow[]): readonly Rung[] {
   const rungs: Rung[] = []
   for (const rung of [...MUSIC_RATINGS].reverse()) {
-    const artists = rows.filter((one) => one.rank === rung).length
-    if (artists > 0) rungs.push({ rank: rung, artists })
+    const artists = rows.filter((one) => one.grade === rung).length
+    if (artists > 0) rungs.push({ grade: rung, artists })
   }
-  const ungraded = rows.filter((one) => one.rank === null).length
-  if (ungraded > 0) rungs.push({ rank: NONE, artists: ungraded })
+  const ungraded = rows.filter((one) => one.grade === null).length
+  if (ungraded > 0) rungs.push({ grade: NONE, artists: ungraded })
   return rungs
 }
 
@@ -154,7 +154,7 @@ export function artistsOf(root: string, wanted: Status | null): Artists {
     releases: rows.reduce((was, one) => was + one.releases, 0),
     length: rows.reduce((was, one) => was + one.length, 0),
     progress: rows.reduce((was, one) => was + one.progress, 0),
-    ranked: rows.reduce((was, one) => was + one.ranked, 0),
+    graded: rows.reduce((was, one) => was + one.graded, 0),
   }
 }
 
@@ -169,20 +169,20 @@ export function saidOf(data: Artists): readonly string[] {
   const titles = Math.max(0, ...data.rows.map((one) => one.title.length))
   const lines = [header]
   for (const one of data.rows) {
-    const rung = (one.rank ?? "-").padEnd(2)
+    const grade = (one.grade ?? "-").padEnd(2)
     const runs = `${Math.round(one.length)} min`.padStart(9)
     lines.push(
-      `  ${one.title.padEnd(titles)}  ${rung}  ${String(one.releases).padStart(4)} rel ${runs}  ` +
+      `  ${one.title.padEnd(titles)}  ${grade}  ${String(one.releases).padStart(4)} rel ${runs}  ` +
         `${share(one.progress, one.length).padStart(4)} heard  ` +
-        `${share(one.ranked, one.releases).padStart(4)} graded`
+        `${share(one.graded, one.releases).padStart(4)} graded`
     )
   }
   lines.push(
     "",
     `  ${data.releases} releases · ${Math.round(data.length / 60)} h · ` +
       `${Math.round(data.progress / 60)} h heard (${share(data.progress, data.length)}) · ` +
-      `${data.ranked} graded (${share(data.ranked, data.releases)})`,
-    `  ${data.rungs.map((one) => `${one.rank} ${one.artists}`).join(" · ")}`
+      `${data.graded} graded (${share(data.graded, data.releases)})`,
+    `  ${data.rungs.map((one) => `${one.grade} ${one.artists}`).join(" · ")}`
   )
   return lines
 }

@@ -53,7 +53,7 @@ test("how far through an artist Alan is comes from that artist's own totals", ()
   expect(one?.releases).toBe(2)
   expect(one?.length).toBe(100)
   expect(one?.progress).toBe(70)
-  expect(one?.ranked).toBe(1)
+  expect(one?.graded).toBe(1)
 })
 
 test("a length a release states reaches no artist total", () => {
@@ -93,9 +93,9 @@ test("artists are listed by how long each one runs, longest first", () => {
 
 test("the rungs counted are the rungs the artists listed reach", () => {
   expect(rungsOf(rowsOf(ARTISTS, RELEASES, null))).toEqual([
-    { rank: "A", artists: 1 },
-    { rank: "C", artists: 1 },
-    { rank: "none", artists: 1 },
+    { grade: "A", artists: 1 },
+    { grade: "C", artists: 1 },
+    { grade: "none", artists: 1 },
   ])
 })
 
@@ -120,18 +120,18 @@ test("an artist listed with no release is said with no share", () => {
         slug: "three",
         title: "Three",
         status: null,
-        rank: null,
+        grade: null,
         releases: 0,
         length: 0,
         progress: 0,
-        ranked: 0,
+        graded: 0,
       },
     ],
-    rungs: [{ rank: "none", artists: 1 }],
+    rungs: [{ grade: "none", artists: 1 }],
     releases: 0,
     length: 0,
     progress: 0,
-    ranked: 0,
+    graded: 0,
   })
   expect(lines.join("\n")).toContain("Three")
 })
