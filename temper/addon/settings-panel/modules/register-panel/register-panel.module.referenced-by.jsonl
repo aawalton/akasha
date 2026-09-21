@@ -8,6 +8,9 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/library/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-settings-lam/lib-sets-tip-settings-lam.module.code.ts"}
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/navigation-addon/modules/destinations-settings-init/destinations-settings-init.module.code.ts"}
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/navigation-addon/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/navigation-addon/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/crafting-addon/modules/craft-set-lam/craft-set-lam.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/crafting-addon/modules/potion-settings-menu/potion-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/crafting-addon/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}
@@ -16,9 +19,6 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/lorebook/modules/lorebooks-settings-panel/lorebooks-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/lost-treasure/modules/lost-treasure-settings/lost-treasure-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/navigation-addon/modules/destinations-settings-init/destinations-settings-init.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/navigation-addon/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/navigation-addon/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/skill-point-finder/modules/skill-point-finder-menu/skill-point-finder-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/skyshard/modules/skyshards-pc-settings/skyshards-pc-settings.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/settings-panel/temper-settings-panel.domain.ts","id":"01a06053-3636-7e00-b329-e1ac77ae851e"}

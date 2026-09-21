@@ -34,5 +34,6 @@ export const temperAddon = {
     "eso-addon/temper-interface-addon",
     "eso-addon/temper-items-addon",
     "eso-addon/temper-combat-addon",
+    "eso-addon/temper-navigation-addon",
   ],
 } as const satisfies Domain

@@ -171,7 +171,7 @@
         "temper/lorebook/modules/lorebooks-library-data*/**",
         "temper/lorebook/modules/lorebooks-shalidor-locations*/**",
         "temper/addon/library/lib-treasure/**",
-        "temper/navigation-addon/**"
+        "temper/addon/navigation-addon/**"
       ],
       "linter": {
         "rules": {
