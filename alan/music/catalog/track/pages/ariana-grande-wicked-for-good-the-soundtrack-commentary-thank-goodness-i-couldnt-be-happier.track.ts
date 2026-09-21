@@ -4,6 +4,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
   id: "01a0a6c5-0953-721e-b68b-9337ea027ba8",
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-thank-goodness-i-couldnt-be-happier",
+  grade: "C",
   ownLength: 0.56015,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
