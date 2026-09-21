@@ -5,6 +5,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriend = {
   type: "page-type/song",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend",
   rank: "S",
+  tags: ["autism"],
   externalIdentity: [
     {
       source: "musicbrainz",
