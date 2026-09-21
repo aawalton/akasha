@@ -5,7 +5,7 @@ export const typecheck = {
   type: "page-type/check-code",
   slug: "typecheck",
   definition: "the check refusing TypeScript that does not compile",
-  parts: ["module/page-narrowing", "module/program-naming"],
+  parts: ["module/page-narrowing"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -116,6 +116,14 @@ export const typecheck = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A change's program holds the declarations its files name and no others.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declaration reaches the program through an import a file it judges carries.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here lists the declarations the tree holds.",
     },
     {
       decisionKind: "decision-kind/absence",

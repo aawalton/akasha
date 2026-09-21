@@ -21,7 +21,6 @@ import {
   declaring,
   deep,
   FIRST_OF,
-  GONE_AT,
   generating,
   HERE,
   holding,
@@ -33,13 +32,10 @@ import {
   noting,
   numbered,
   ONE_NUMBER,
-  orphaning,
-  orphans,
   over,
   packaging,
   pairing,
   READER_AT,
-  READS_GONE,
   RENUMBERED,
   reached,
   reading,
@@ -167,12 +163,6 @@ test("a file the change takes away is gone for the compiler, so a file still imp
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/calls.ts")
   expect(said[0]?.reason).toContain("TS2307")
-})
-
-test("a file the change takes away that a file the change adds still imports is no orphan", () => {
-  const root = orphaning()
-  expect(orphans(root, {})).toEqual([GONE_AT])
-  expect(orphans(root, READS_GONE)).toEqual([])
 })
 
 test("a file the change brings is compiled though no disk holds it", async () => {

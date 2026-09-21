@@ -1,7 +1,6 @@
 import { mkdirSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import {
-  orphanedIn,
   reachedBy,
   refusalsOver,
 } from "akasha/check/code/pages/typecheck/typecheck.check-code.decision.code.ts"
@@ -21,7 +20,7 @@ import {
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { shadowAsked, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 export async function judged(one: Change): Promise<readonly Judged[]> {
   const cast = shadowFor(one)
@@ -231,21 +230,6 @@ export function declaring(): string {
   return root
 }
 
-export const DECLARED_AT = "akasha/eso-held.type-declaration.d.ts"
-
-export function declared(files: Readonly<Record<string, string>>): string {
-  return staged({ [DECLARED_AT]: "declare const HELD_ONE: number\n", ...files })
-}
-
-export const RELYING_AT = "akasha/eso-relies.type-declaration.d.ts"
-
-export function relying(): string {
-  return staged({
-    [DECLARED_AT]: "declare const HELD_ONE: number\n",
-    [RELYING_AT]: "declare const HELD_TWO: typeof HELD_ONE\n",
-  })
-}
-
 export const FIRST_OF =
   "export function first(held: readonly string[]): string {\n  return held[0]\n}\n"
 
@@ -318,19 +302,6 @@ export function twinned(): string {
 }
 
 export const GONE_AT = "akasha/gone.module.ts"
-
-export const READS_GONE: Readonly<Record<string, string>> = {
-  "akasha/reads-gone.ts": 'import { gone } from "./gone.module.ts"\n\nexport const said = gone\n',
-}
-
-export function orphaning(): string {
-  return staged({ [GONE_AT]: "export const gone = 1\n" })
-}
-
-export function orphans(root: string, also: Readonly<Record<string, string>>): readonly string[] {
-  const held = change(root, { [GONE_AT]: null, ...also })
-  return orphanedIn(held, shadowAsked(held).index)
-}
 
 const ROUTED_AT = "akasha/app/.react-router/types/held.d.ts"
 

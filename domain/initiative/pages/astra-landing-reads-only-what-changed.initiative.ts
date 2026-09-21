@@ -39,7 +39,7 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "A change is typechecked in a program built from the files that change reaches.",
       workingMemory:
-        "Every file names the declarations it reaches through its own imports, and no interface or function is declared in two declaration files any more, so one import carries a whole type. A declaration file cannot import the declaration whose names it spells, so `skipLibCheck` is true for a change and false for the audit, whose program holds every declaration. What is left to take out is `declaringIn` in `program-naming`, the one reader here of `shadow.listed()`, and `orphanedIn` beside it.",
+        "The program a change is judged in holds the files that change reaches and nothing else, so `program-naming` is gone and no check here reads `shadow.listed()`. Naming all 275 declarations cost 2.5s of processor a landing, four times what a compile off disk said, because the compiler is served through a virtual filesystem where every file is a callback. A file names the declarations its own declarations reach, and `skipLibCheck` is true for a change and false for the audit.",
     },
   ],
   constraints: [

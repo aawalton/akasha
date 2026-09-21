@@ -52,6 +52,21 @@ test("a name the file reaches on globalThis is named by an import of the declara
   expect(bodyAnswered(said, world, ONE)).toContain(`import "akasha/${FAR}"`)
 })
 
+test("a declaration the named declaration reaches is named by the file as well", () => {
+  const world = worldHolding(
+    {
+      [FAR]: "declare const HELD_ONE: Held\n",
+      [NEAR]: "interface Held {\n  one: number\n}\n",
+      [ONE]: SPELLS,
+    },
+    [FAR_PAGE, NEAR_PAGE]
+  )
+  const said = bodyAnswered(nameAmbientDeclarations(world, AT, 10), world, ONE)
+
+  expect(said).toContain(`import "akasha/${FAR}"`)
+  expect(said).toContain(`import "akasha/${NEAR}"`)
+})
+
 test("a name the file binds itself is left alone", () => {
   const world = worldHolding({ [FAR]: DECLARES, [ONE]: `const HELD_ONE = 1\n${SPELLS}` }, [
     FAR_PAGE,

@@ -4,7 +4,6 @@ import {
   type Minting,
   mintingIn,
 } from "akasha/check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"
-import { namingOf } from "akasha/check/code/pages/typecheck/modules/program-naming/program-naming.module.code.ts"
 import {
   holdingOver,
   textNamed,
@@ -118,13 +117,6 @@ export function rootsOf(change: Change, shadow: Shadow): readonly string[] {
     found.push(one)
   }
   return found
-}
-
-export function orphanedIn(change: Change, index: Answering): readonly string[] {
-  const gone = change.changed.filter((one) => compiled(one) && change.after(one) === null)
-  if (gone.length === 0) return []
-  const held = closureOf(importers, gone, { index, through: compiled })
-  return held.some((one) => change.after(one) !== null) ? [] : gone
 }
 
 function bodiesOf(
@@ -253,16 +245,14 @@ export function claimedIn(change: Change, index: Answering): (path: string) => b
 async function foundIn(given: Change, shadow: Shadow, whole: boolean): Promise<readonly Found[]> {
   const change = holdingOver(given)
   const reached = rootsOf(change, shadow)
-  const orphaned = orphanedIn(change, shadow.index)
-  if (reached.length === 0 && orphaned.length === 0) return []
+  if (reached.length === 0) return []
   const claimed = claimedIn(change, shadow.index)
-  const roots = reached.filter((one) => !claimed(one))
+  const named = reached.filter((one) => !claimed(one))
+  if (named.length === 0) return []
   const root = resolve(change.root)
   const beside = shadow.index.manifestsBeside(shadow.index.fileKeysAt())
   const manifests = [...new Set([...beside, ...change.changed])]
   const placed = placingOver(manifests, (one) => textOf(change.after(one)))
-  const { named, asked } = namingOf(change, shadow, roots, orphaned, claimed)
-  if (asked.length === 0) return []
   const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index), placed)
   const at = join(root, CONFIG_NAME)
   const config = configOf(root, named, whole)
@@ -282,7 +272,7 @@ async function foundIn(given: Change, shadow: Shadow, whole: boolean): Promise<r
     if (project === undefined) throw new Error(`${CONFIG_NAME} named nothing a check could read`)
     const found: Found[] = []
     const program = await project.program
-    const files = asked.map((one) => join(root, one))
+    const files = named.map((one) => join(root, one))
     for (const said of await program.getSyntacticDiagnostics(files))
       found.push(foundOf(root, said, placed))
     for (const said of await program.getSemanticDiagnostics(files))

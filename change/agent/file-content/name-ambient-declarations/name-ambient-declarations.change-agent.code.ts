@@ -80,33 +80,63 @@ function closestTo(path: string, held: readonly string[]): string {
   return best
 }
 
-export function wantedIn(
+function namesIn(
   declaring: ReadonlyMap<string, readonly string[]>,
-  path: string,
+  at: string,
   text: string
 ): readonly string[] {
-  const already = new Set(specifiersIn(path, text))
   const found = new Set<string>()
-  for (const one of identifiersIn(parsedAs(path, text))) {
-    const held = declaring.get(one.text)
-    if (held === undefined) continue
+  for (const one of identifiersIn(parsedAs(at, text))) {
+    if (!declaring.has(one.text)) continue
     if (!globallyReached(one)) {
       if (!referencing(one)) continue
       if (bindingOf(one) !== null) continue
     }
-    found.add(`${UNDER}${PARTED}${closestTo(path, held)}`)
+    found.add(one.text)
   }
-  return [...found].filter((one) => !already.has(one)).sort()
+  return [...found]
+}
+
+export function wantedIn(
+  world: World,
+  declaring: ReadonlyMap<string, readonly string[]>,
+  path: string,
+  text: string,
+  reaching: Map<string, readonly string[]> = new Map()
+): readonly string[] {
+  const already = new Set(specifiersIn(path, text))
+  const found = new Set<string>()
+  const rest = [...namesIn(declaring, path, text)]
+  while (rest.length > 0) {
+    const name = rest.pop()
+    const held = name === undefined ? undefined : declaring.get(name)
+    if (held === undefined) continue
+    const at = closestTo(path, held)
+    if (found.has(at)) continue
+    found.add(at)
+    let names = reaching.get(at)
+    if (names === undefined) {
+      const body = world.textOf(at)
+      names = body === null ? [] : namesIn(declaring, at, body)
+      reaching.set(at, names)
+    }
+    rest.push(...names)
+  }
+  return [...found]
+    .map((one) => `${UNDER}${PARTED}${one}`)
+    .filter((one) => !already.has(one))
+    .sort()
 }
 
 function namedIn(
   world: World,
   declaring: ReadonlyMap<string, readonly string[]>,
-  path: string
+  path: string,
+  reaching: Map<string, readonly string[]>
 ): readonly FileChange[] {
   const text = world.textOf(path)
   if (text === null) return []
-  const wanted = wantedIn(declaring, path, text)
+  const wanted = wantedIn(world, declaring, path, text, reaching)
   if (wanted.length === 0) return []
   const lines = wanted.map((one) => `import ${JSON.stringify(one)}`)
   const now = openedIn(text, parsedAs(path, text), lines)
@@ -121,12 +151,13 @@ export function nameAmbientDeclarations(
   but: ReadonlySet<string> = new Set()
 ): Answer {
   const declaring = declaringIn(world)
+  const reaching = new Map<string, readonly string[]>()
   const edits: FileChange[] = []
   let named = 0
   for (const path of [...world.under(at)].sort()) {
     if (named >= most) break
     if (!typed(path) || path.endsWith(DECLARED) || but.has(path)) continue
-    const found = namedIn(world, declaring, path)
+    const found = namedIn(world, declaring, path, reaching)
     if (found.length === 0) continue
     edits.push(...found)
     named += 1

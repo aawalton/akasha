@@ -33,6 +33,14 @@ export const nameAmbientDeclarations = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration named for a file is read for the names that declaration reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declaration declaring one of those names is named by that file as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The import added names one declaration file rather than a glob over declarations.",
     },
