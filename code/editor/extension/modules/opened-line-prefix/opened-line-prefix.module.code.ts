@@ -4,6 +4,8 @@ const NUMBERED = /^(\d+)([.)])([ \t]+)/
 
 const BULLET = /^([-*+])([ \t]+)/
 
+const ENDED = /^(?:\d+[.)]|[-*+])[ \t]*$/
+
 function indentOf(line: string): string {
   const found = INDENT.exec(line)
   return found === null ? "" : found[0]
@@ -11,6 +13,14 @@ function indentOf(line: string): string {
 
 function endsTheList(rest: string, marked: number): boolean {
   return rest.slice(marked).trim() === ""
+}
+
+export function indentLength(line: string): number {
+  return indentOf(line).length
+}
+
+export function endsAList(line: string): boolean {
+  return ENDED.test(line.slice(indentLength(line)))
 }
 
 export function openedLinePrefix(line: string): string {

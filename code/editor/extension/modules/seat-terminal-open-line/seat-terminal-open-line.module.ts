@@ -4,7 +4,7 @@ export const seatTerminalOpenLine = {
   id: "01a09c58-2398-7392-b878-1c1491cab780",
   type: "page-type/module",
   slug: "seat-terminal-open-line",
-  definition: "the key opening a line in a seat's terminal, sent with the prefix it carries",
+  definition: "the key opening a line in a seat's terminal, or ending the list that line sat in",
   code: "ts",
   test: "ts",
   decisions: [
@@ -73,6 +73,27 @@ export const seatTerminalOpenLine = {
       decisionKind: "decision-kind/departure",
       statement:
         "The newline and the prefix are sent as one write, so no gap is left between the two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A press on an item holding only its marker erases that marker rather than opening a line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The erasure reaches from the cursor back to the end of the item's indent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The column the cursor sits at is read off the same pane line its row is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cursor sitting no further than the indent opens a line rather than erasing.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The row tmux answers with has its trailing spacing trimmed off.",
     },
   ],
 } as const satisfies Module

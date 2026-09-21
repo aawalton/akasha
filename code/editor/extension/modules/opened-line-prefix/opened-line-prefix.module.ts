@@ -36,7 +36,7 @@ export const openedLinePrefix = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A marker with no space after it is no marker.",
+      statement: "A marker with words against it and no space between is no marker.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,6 +53,18 @@ export const openedLinePrefix = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a checkbox.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a line ends a list is answered apart from the prefix that line opens.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item ends a list whether spacing follows its marker or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How many characters a line's indent runs to is answered here.",
     },
   ],
 } as const satisfies Module

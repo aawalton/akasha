@@ -1,6 +1,10 @@
 import { spawn } from "node:child_process"
 import { seatTerminals } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
-import { openedLinePrefix } from "akasha/code/editor/extension/modules/opened-line-prefix/opened-line-prefix.module.code.ts"
+import {
+  endsAList,
+  indentLength,
+  openedLinePrefix,
+} from "akasha/code/editor/extension/modules/opened-line-prefix/opened-line-prefix.module.code.ts"
 import {
   type Editor,
   type Held,
@@ -12,7 +16,7 @@ export const OPEN_LINE_COMMAND = "opsAgentTree.openLineInSeatTerminal"
 
 const GUTTER = 2
 
-const PANE_FORMAT = "#{pane_id} #{cursor_y} #{pane_in_mode}"
+const PANE_FORMAT = "#{pane_id} #{cursor_y} #{cursor_x} #{pane_in_mode}"
 
 const NOT_IN_MODE = "0"
 
@@ -22,8 +26,18 @@ const ESCAPE = String.fromCharCode(27)
 
 const RETURN = "\r"
 
+const ERASE = String.fromCharCode(127)
+
 export function opening(prefix: string): string {
   return `${ESCAPE}${RETURN}${prefix}`
+}
+
+export function sentOn(line: string, column: number): string {
+  const marked = column - indentLength(line)
+  if (endsAList(line) && marked > 0) {
+    return ERASE.repeat(marked)
+  }
+  return opening(openedLinePrefix(line))
 }
 
 export function lineIn(row: string): string {
@@ -33,6 +47,12 @@ export function lineIn(row: string): string {
 export interface PaneAt {
   readonly pane: string
   readonly cursorY: number
+  readonly cursorX: number
+}
+
+export interface CursorLine {
+  readonly line: string
+  readonly column: number
 }
 
 export function paneIn(said: string): PaneAt | null {
@@ -40,13 +60,17 @@ export function paneIn(said: string): PaneAt | null {
   const parts = first.trim().split(" ")
   const pane = parts[0] ?? ""
   const cursorY = Number(parts[1] ?? "")
-  if (pane === "" || parts[2] !== NOT_IN_MODE) {
+  const cursorX = Number(parts[2] ?? "")
+  if (pane === "" || parts[3] !== NOT_IN_MODE) {
     return null
   }
   if (!Number.isInteger(cursorY) || cursorY < 0) {
     return null
   }
-  return { pane, cursorY }
+  if (!Number.isInteger(cursorX) || cursorX < 0) {
+    return null
+  }
+  return { pane, cursorY, cursorX }
 }
 
 export type AskTmux = (argv: readonly string[]) => Promise<string | null>
@@ -66,7 +90,7 @@ export const askTmux: AskTmux = (argv) =>
     child.on("close", (code) => settle(code === 0 ? chunks.join("") : null))
   })
 
-export async function cursorLineOf(seat: string, ask: AskTmux): Promise<string | null> {
+export async function cursorLineOf(seat: string, ask: AskTmux): Promise<CursorLine | null> {
   const panes = await ask(["list-panes", "-t", `=${seat}`, "-F", PANE_FORMAT])
   if (panes === null) {
     return null
@@ -85,7 +109,10 @@ export async function cursorLineOf(seat: string, ask: AskTmux): Promise<string |
     "-E",
     String(at.cursorY),
   ])
-  return row === null ? null : lineIn(row)
+  if (row === null) {
+    return null
+  }
+  return { line: lineIn(row), column: Math.max(0, at.cursorX - GUTTER) }
 }
 
 function held(): readonly Held[] {
@@ -103,11 +130,11 @@ export async function openLinePressed(
     return undefined
   }
   const name = seatOfTerminal(held(), terminal)
-  const line = name === undefined ? null : await cursorLineOf(name, ask)
-  if (name !== undefined && line === null) {
+  const at = name === undefined ? null : await cursorLineOf(name, ask)
+  if (name !== undefined && at === null) {
     say(`[open-line] ${name}: tmux answered no line, so the line opens carrying nothing`)
   }
-  terminal.sendText(opening(line === null ? "" : openedLinePrefix(line)), false)
+  terminal.sendText(at === null ? opening("") : sentOn(at.line, at.column), false)
   return undefined
 }
 
