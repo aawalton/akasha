@@ -1,12 +1,12 @@
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
-import { computeItemBudget } from "akasha/temper/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.code.ts"
+import { computeItemBudget } from "akasha/temper/economy/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.code.ts"
 import type {
   ItemBudget,
   PurchaseRecommendation,
   ShoppingItem,
   ShoppingPlan,
   TaggedListing,
-} from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+} from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { kioskLocationName } from "akasha/temper/trading-pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
 import {
   TTC_AGO,

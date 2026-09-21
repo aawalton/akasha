@@ -1,8 +1,8 @@
-import type { ShoppingSettings } from "akasha/temper/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
+import type { ShoppingSettings } from "akasha/temper/economy/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
 import type {
   PurchaseRecommendation,
   ShoppingPlan,
-} from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+} from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 
 type OptimizerStatus = "idle" | "searching" | "complete" | "error"
 

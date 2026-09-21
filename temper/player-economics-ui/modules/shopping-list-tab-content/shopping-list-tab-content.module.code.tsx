@@ -30,6 +30,11 @@ import {
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { Progress } from "akasha/design/interface/primitive/modules/progress-bar/progress-bar.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import {
+  needToShoppingItem,
+  needToShoppingKey,
+} from "akasha/temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
+import { isShoppingSettings } from "akasha/temper/economy/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
 import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import {
   buildCategoryGroups,
@@ -47,11 +52,6 @@ import { useCompanionShoppingData } from "akasha/temper/player-economics-ui/modu
 import type { ShoppingList } from "akasha/temper/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
 import { useShoppingOptimizer } from "akasha/temper/player-economics-ui/modules/use-shopping-optimizer/use-shopping-optimizer.module.code.ts"
 import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/modules/pricing-region-note/pricing-region-note.module.code.tsx"
-import {
-  needToShoppingItem,
-  needToShoppingKey,
-} from "akasha/temper/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
-import { isShoppingSettings } from "akasha/temper/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
 import { ShoppingCart } from "lucide-react"
 import { Fragment, useCallback, useMemo, useState } from "react"
 

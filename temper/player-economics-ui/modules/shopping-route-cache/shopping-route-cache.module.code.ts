@@ -1,6 +1,6 @@
+import type { ShoppingPlan } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import type { OptimizerState } from "akasha/temper/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { shoppingPlanSchema } from "akasha/temper/player-economics-ui/modules/shopping-plan-schema/shopping-plan-schema.module.code.ts"
-import type { ShoppingPlan } from "akasha/temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { z } from "zod"
 
 function routeStorageKey(userId: string | null): string {

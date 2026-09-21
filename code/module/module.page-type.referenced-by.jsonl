@@ -5335,6 +5335,12 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeon-champion/modules/dungeon-champion-slash/dungeon-champion-slash.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeon-champion/modules/dungeon-champion-start/dungeon-champion-start.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/shopping-settings/shopping-settings.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/armor-slots/armor-slots.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/armor-types/armor-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.ts"}
@@ -6126,12 +6132,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/shopping/modules/shopping-settings/shopping-settings.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts"}

@@ -1810,6 +1810,8 @@
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
 {"propertySlug":"decision-kind","path":"temper/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
 {"propertySlug":"decision-kind","path":"temper/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}
+{"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.ts","id":"01a060cf-b0b1-726e-9c87-8a0d3121e120"}
+{"propertySlug":"decision-kind","path":"temper/economy/shopping/temper-shopping.domain.ts","id":"01a060cf-b0ae-749c-8084-93aa1e9a4247"}
 {"propertySlug":"decision-kind","path":"temper/errors-triage/modules/errors-collect/errors-collect.module.ts","id":"01a060cd-5650-7b6e-ab6c-41d8a589a7ce"}
 {"propertySlug":"decision-kind","path":"temper/errors-triage/modules/errors-liveness/errors-liveness.module.ts","id":"01a060cd-5651-794e-9cb4-d37959543fd2"}
 {"propertySlug":"decision-kind","path":"temper/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.ts","id":"01a060cd-564f-7386-bf3f-219a42b803ca"}
@@ -1918,8 +1920,6 @@
 {"propertySlug":"decision-kind","path":"temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts","id":"01a06072-5abc-7ca4-972f-214d6d6ef964"}
 {"propertySlug":"decision-kind","path":"temper/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts","id":"01a06072-5abc-78bd-a40d-4a0c330f4651"}
 {"propertySlug":"decision-kind","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
-{"propertySlug":"decision-kind","path":"temper/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.ts","id":"01a060cf-b0b1-726e-9c87-8a0d3121e120"}
-{"propertySlug":"decision-kind","path":"temper/shopping/temper-shopping.domain.ts","id":"01a060cf-b0ae-749c-8084-93aa1e9a4247"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.ts","id":"01a060ec-584d-78d8-941c-a8b43c987a6c"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
 {"propertySlug":"decision-kind","path":"temper/trading-listing/temper-trading-listing.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}

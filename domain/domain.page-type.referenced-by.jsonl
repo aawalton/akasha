@@ -586,7 +586,12 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion-import/temper-completion-import.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion/temper-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/shopping/temper-shopping.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/temper-economy.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/market-value/temper-market-value.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/merchant-value/temper-merchant-value.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/temper-value.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment-kind/temper-equipment-kind.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment/temper-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/errors-triage/temper-errors-triage.domain.ts"}
@@ -623,7 +628,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-inventory-management-ui/temper-player-inventory-management-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/progress/temper-progress.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/shopping/temper-shopping.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-kind/temper-skill-kind.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph-access/temper-skill-morph-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph/temper-skill-morph.domain.ts"}
@@ -634,10 +638,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-listing/temper-trading-listing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-pricing/temper-trading-pricing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/upstream-data/temper-upstream-data.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/value/market-value/temper-market-value.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/value/merchant-value/temper-merchant-value.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/value/replacement-value/temper-replacement-value.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/value/temper-value.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/quote/quote.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/writing/text-writing.domain.ts"}

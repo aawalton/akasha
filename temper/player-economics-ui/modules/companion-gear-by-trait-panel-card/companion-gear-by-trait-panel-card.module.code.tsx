@@ -11,6 +11,7 @@ import {
   getQualityClassName,
   getQualityVariant,
 } from "akasha/temper/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
+import { needToShoppingKey } from "akasha/temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import {
   aggregateUnfulfilledByTraitQuality,
   type CompanionGearNeed,
@@ -28,7 +29,6 @@ import {
   type SlotPriceKey,
 } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { ShoppingList } from "akasha/temper/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
-import { needToShoppingKey } from "akasha/temper/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import type { CompanionGearPriceResult } from "akasha/temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 import { useMemo, useState } from "react"

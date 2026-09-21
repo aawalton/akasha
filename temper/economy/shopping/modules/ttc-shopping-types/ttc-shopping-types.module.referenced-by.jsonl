@@ -1,3 +1,6 @@
+{"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"}
+{"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/economy/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.code.ts"}
+{"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts"}
 {"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/player-economics-ui/modules/shopping-list-grouping/shopping-list-grouping.module.code.ts"}
 {"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/player-economics-ui/modules/shopping-optimizer-rules/shopping-optimizer-rules.module.code.ts"}
 {"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"}
@@ -7,8 +10,5 @@
 {"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/player-economics-ui/modules/shopping-sse-reader/shopping-sse-reader.module.code.ts"}
 {"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/player-economics-ui/modules/shopping-sse-reader/shopping-sse-reader.module.test.ts"}
 {"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/player-economics-ui/modules/use-shopping-optimizer/use-shopping-optimizer.module.code.ts"}
-{"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"}
-{"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.code.ts"}
-{"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts"}
 {"propertySlug":"import","fileName":"ttc-shopping-types.module.code.ts","path":"temper/web/routes/api-shopping-optimize/api-shopping-optimize.route.code.ts"}
-{"propertySlug":"parts","path":"temper/shopping/temper-shopping.domain.ts","id":"01a060cf-b0ae-749c-8084-93aa1e9a4247"}
+{"propertySlug":"parts","path":"temper/economy/shopping/temper-shopping.domain.ts","id":"01a060cf-b0ae-749c-8084-93aa1e9a4247"}
