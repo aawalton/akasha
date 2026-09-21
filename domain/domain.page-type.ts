@@ -41,7 +41,7 @@ export const domain = {
   type: "page-type/page-type",
   slug: "domain",
   definition: "a bounded area of concern",
-  extends: ["page-type/page"],
+  extends: ["page-type/term"],
   properties: [
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
     { pageProperty: "record-property/decisions", required: false, many: true, maxCount: null },
@@ -95,6 +95,10 @@ export const domain = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A seat's attributes represent the choices that seat will make.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A domain whose name is a word akasha writes states that word's part of speech.",
     },
   ],
   directives: [

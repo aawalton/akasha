@@ -7,9 +7,9 @@ import type { OutputDirectory } from "akasha/domain/properties/output-directory.
 import type { Parts } from "akasha/domain/properties/parts.relation-property.types.ts"
 import type { TunnelRoutes } from "akasha/domain/properties/tunnel-routes.code-file-property.types.ts"
 import type { TypescriptConfig } from "akasha/domain/properties/typescript-config.file-property.types.ts"
-import type { Page } from "akasha/page/page.page-type.types.ts"
+import type { Term } from "akasha/domain/standard-agent-english/term/term.page-type.types.ts"
 
-export type Domain = Page & {
+export type Domain = Term & {
   definition: Definition
   decisions?: Decisions
   directives?: Directives

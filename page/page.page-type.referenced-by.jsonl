@@ -69,7 +69,6 @@
 {"propertySlug":"extends-type","path":"code/held-addon/held-addon.page-type.ts","id":"01a0819e-eab2-7732-96da-90412118ff10"}
 {"propertySlug":"extends-type","path":"command/argument/argument.page-type.ts","id":"01a093fd-9102-76e8-958e-03d34cd41e25"}
 {"propertySlug":"extends-type","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
-{"propertySlug":"extends-type","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
 {"propertySlug":"extends-type","path":"domain/finding/finding.page-type.ts","id":"01a04bc5-f8c3-758c-b460-da70df03bb96"}
 {"propertySlug":"extends-type","path":"domain/initiative/initiative.page-type.ts","id":"01a04e58-5735-72b4-b945-56366461c776"}
 {"propertySlug":"extends-type","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
@@ -212,7 +211,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"code/held-addon/held-addon.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"command/argument/argument.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"design/interface/color/color.page-type.types.ts"}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/domain.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/finding/finding.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/initiative/initiative.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/plain-language/parser-model/parser-model.page-type.types.ts"}
