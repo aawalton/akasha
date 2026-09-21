@@ -5,4 +5,8 @@ export const noun = {
   type: "page-type/part-of-speech",
   slug: "noun",
   definition: "a word naming a thing",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "noun" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "nouns" },
+  ],
 } as const satisfies PartOfSpeech
