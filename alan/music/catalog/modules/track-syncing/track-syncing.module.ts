@@ -46,6 +46,33 @@ export const trackSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A recording already filed is found by an id one of its carriers states or by its key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A release carrying a recording already filed is added to the page already filed for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The page a recording is filed under is the one sorting first among those stating its key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track names every release carrying that track.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track states one carrier for every release carrying that track.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A release swept again replaces the carrier naming that release.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The progress and the grade a person gave a track outlive every sweep.",
     },
     {

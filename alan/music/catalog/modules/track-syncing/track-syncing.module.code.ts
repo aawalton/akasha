@@ -22,7 +22,7 @@ import {
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
-  slugsIn,
+  recordsIn,
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -35,11 +35,21 @@ const SONG = "song"
 
 const RELEASE = "release"
 
+const UNDER_RELEASE = `${RELEASE}/` as const
+
 const MINUTES = `${unit.slug}/${minutes.slug}` as const
 
 const NOT_STARTED = "not-started"
 
 const IDENTITY = "externalIdentity"
+
+const CARRIED_BY = "carriedBy"
+
+const PART_OF = "partOfCollections"
+
+const TRACK_KEY = "trackKey"
+
+const EXTERNAL_ID = "externalId"
 
 const APART = "|"
 
@@ -56,10 +66,54 @@ export function trackKeyFor(track: AlbumTrack): string {
   return [title, artists, String(track.duration_ms)].join(APART)
 }
 
+export function slugSortingFirst(mine: string | null, theirs: string): string {
+  return mine !== null && mine < theirs ? mine : theirs
+}
+
+function carrierFor(releaseSlug: string, track: AlbumTrack): Value {
+  return {
+    release: `${UNDER_RELEASE}${releaseSlug}`,
+    discNumber: track.disc_number,
+    position: track.track_number,
+    externalId: track.id,
+    externalLink: track.external_urls.spotify,
+  }
+}
+
+function carriersWith(held: unknown, fresh: Value): readonly Value[] {
+  const named = textIn(fresh, RELEASE)
+  const kept = recordsIn(held).filter((one) => textIn(one, RELEASE) !== named)
+  return [...kept, fresh].toSorted((mine, theirs) => {
+    const left = textIn(mine, RELEASE) ?? ""
+    const right = textIn(theirs, RELEASE) ?? ""
+    return left < right ? -1 : left > right ? 1 : 0
+  })
+}
+
+function releasesIn(value: Value): readonly string[] {
+  const held = value[PART_OF]
+  if (!Array.isArray(held)) return []
+  const named: string[] = []
+  for (const one of held) {
+    if (typeof one === "string" && one.startsWith(UNDER_RELEASE)) {
+      named.push(one.slice(UNDER_RELEASE.length))
+    }
+  }
+  return named
+}
+
+function collectionsWith(held: unknown, named: string): readonly string[] {
+  const kept = Array.isArray(held)
+    ? held.filter((one): one is string => typeof one === "string" && one !== "")
+    : []
+  return kept.includes(named) ? kept : [...kept, named]
+}
+
 export type Tracked = {
   readonly names: CatalogueNames
-  readonly held: ReadonlyMap<string, Value>
+  readonly held: Map<string, Value>
   readonly byRelease: Set<string>
+  readonly byKey: Map<string, string>
 }
 
 export type Editing = (pageTypeSlug: string, slug: string, values: Value) => Asking
@@ -68,15 +122,34 @@ export function tracksFiledIn(root: string): Tracked {
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []
   const held = new Map<string, Value>()
   const byRelease = new Set<string>()
+  const byKey = new Map<string, string>()
   for (const one of valuesOfType(root, TRACK)) {
     const slug = textIn(one.value, "slug")
     if (slug === null) continue
     rows.push({ slug, externalId: idFrom(one.value[IDENTITY], SOURCE) })
+    for (const carrier of recordsIn(one.value[CARRIED_BY])) {
+      rows.push({ slug, externalId: textIn(carrier, EXTERNAL_ID) })
+    }
     held.set(slug, one.value)
-    const releaseSlug = slugsIn(one.value["partOfCollections"])[0]
-    if (releaseSlug !== undefined) byRelease.add(releaseSlug)
+    for (const releaseSlug of releasesIn(one.value)) byRelease.add(releaseSlug)
+    const key = textIn(one.value, TRACK_KEY)
+    if (key === null) continue
+    byKey.set(key, slugSortingFirst(byKey.get(key) ?? null, slug))
   }
-  return { names: catalogueNamesFrom(rows), held, byRelease }
+  return { names: catalogueNamesFrom(rows), held, byRelease, byKey }
+}
+
+function trackSlugFor(tracks: Tracked, releaseSlug: string, track: AlbumTrack): string {
+  const key = trackKeyFor(track)
+  const filed = tracks.names.filed.get(track.id) ?? tracks.byKey.get(key)
+  if (filed !== undefined) {
+    tracks.names.filed.set(track.id, filed)
+    if (!tracks.byKey.has(key)) tracks.byKey.set(key, filed)
+    return filed
+  }
+  const minted = catalogueSlugFor(tracks.names, releaseSlug, track.name, track.id)
+  tracks.byKey.set(key, minted)
+  return minted
 }
 
 export function trackValues(args: {
@@ -95,7 +168,7 @@ export function trackValues(args: {
     title: args.track.name,
     trackType: trackTypeFor(args.track.name),
     trackKey: trackKeyFor(args.track),
-    partOfCollections: [`${RELEASE}/${args.releaseSlug}`],
+    partOfCollections: collectionsWith(args.was[PART_OF], `${UNDER_RELEASE}${args.releaseSlug}`),
     position: args.track.track_number,
     discNumber: args.track.disc_number,
     explicit: args.track.explicit,
@@ -105,6 +178,7 @@ export function trackValues(args: {
     })),
     ownLength: trackMinutes(args.track),
     unit: MINUTES,
+    carriedBy: carriersWith(args.was[CARRIED_BY], carrierFor(args.releaseSlug, args.track)),
     externalIdentity: identitiesWith(args.was[IDENTITY], {
       source: SOURCE,
       externalId: args.track.id,
@@ -135,26 +209,22 @@ export function trackEdits(args: {
   let tracked = 0
   let filed = 0
   for (const track of args.album.tracks.items) {
-    const slug = catalogueSlugFor(args.tracks.names, args.releaseSlug, track.name, track.id)
+    const slug = trackSlugFor(args.tracks, args.releaseSlug, track)
     const song = songForTrack(args.filing, args.artistSlug, track.name)
     if (song !== null && song.values !== null) {
       edits.push(args.edit(SONG, song.slug, song.values))
       filed += 1
     }
-    edits.push(
-      args.edit(
-        TRACK,
-        slug,
-        trackValues({
-          releaseSlug: args.releaseSlug,
-          song: song === null ? null : song.slug,
-          slug,
-          track,
-          was: args.tracks.held.get(slug) ?? {},
-          today: args.today,
-        })
-      )
-    )
+    const values = trackValues({
+      releaseSlug: args.releaseSlug,
+      song: song === null ? null : song.slug,
+      slug,
+      track,
+      was: args.tracks.held.get(slug) ?? {},
+      today: args.today,
+    })
+    args.tracks.held.set(slug, values)
+    edits.push(args.edit(TRACK, slug, values))
     tracked += 1
   }
   args.tracks.byRelease.add(args.releaseSlug)

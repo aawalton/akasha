@@ -11,6 +11,8 @@ import {
   filingOf,
 } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.test-fixtures.ts"
 import {
+  type Editing,
+  slugSortingFirst,
   type Tracked,
   trackEdits,
   trackKeyFor,
@@ -33,6 +35,8 @@ const TODAY = "2026-09-15"
 const ARTIST = "sylvia-daley"
 
 const RELEASE = "sylvia-daley-pixie"
+
+const DELUXE = "sylvia-daley-pixie-deluxe"
 
 const ELF = "sylvia-daley-pixie-elf"
 
@@ -81,7 +85,39 @@ function album(...items: readonly AlbumTrack[]): AlbumWithTracks {
 }
 
 function nothingFiled(): Tracked {
-  return { names: catalogueNamesFrom([]), held: new Map<string, Value>(), byRelease: new Set() }
+  return {
+    names: catalogueNamesFrom([]),
+    held: new Map<string, Value>(),
+    byRelease: new Set(),
+    byKey: new Map<string, string>(),
+  }
+}
+
+type Wrote = { readonly pageTypeSlug: string; readonly slug: string; readonly values: Value }
+
+function writingInto(wrote: Wrote[]): Editing {
+  return (pageTypeSlug, slug, values) => {
+    wrote.push({ pageTypeSlug, slug, values })
+    return { at: ADDS, given: { at: slug, body: "" } }
+  }
+}
+
+function syncing(
+  tracks: Tracked,
+  releaseSlug: string,
+  ...items: readonly AlbumTrack[]
+): readonly Wrote[] {
+  const wrote: Wrote[] = []
+  trackEdits({
+    releaseSlug,
+    artistSlug: ARTIST,
+    filing: filingOf([]),
+    album: album(...items),
+    tracks,
+    today: TODAY,
+    edit: writingInto(wrote),
+  })
+  return wrote.filter((one) => one.pageTypeSlug === "track")
 }
 
 test("a track arrives started by nobody and heard for none of its length", () => {
@@ -246,4 +282,85 @@ test("a release whose tracks are filed is marked so within the run that filed th
     edit: (_pageTypeSlug, slug) => ({ at: ADDS, given: { at: slug, body: "" } }),
   })
   expect(tracks.byRelease.has(RELEASE)).toBe(true)
+})
+
+test("a track states the release carrying it and where on that release it sits", () => {
+  expect(valuesFor(track("t7", "Elf", 90_000, 3))["carriedBy"]).toEqual([
+    {
+      release: "release/sylvia-daley-pixie",
+      discNumber: 1,
+      position: 3,
+      externalId: "t7",
+      externalLink: "https://open.spotify.com/track/t7",
+    },
+  ])
+})
+
+test("the page a recording is filed under is the one whose slug sorts first", () => {
+  expect(slugSortingFirst(null, "b")).toBe("b")
+  expect(slugSortingFirst("b", "a")).toBe("a")
+  expect(slugSortingFirst("a", "b")).toBe("a")
+})
+
+test("a recording a second release carries lands on the page the first release filed", () => {
+  const tracks = nothingFiled()
+  const here = syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))
+  const there = syncing(tracks, DELUXE, track("t9", "Elf", 90_000, 11, 2))
+  expect(here[0]?.slug).toBe(ELF)
+  expect(there[0]?.slug).toBe(ELF)
+})
+
+test("a track a second release carries names both releases carrying it", () => {
+  const tracks = nothingFiled()
+  syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))
+  const there = syncing(tracks, DELUXE, track("t9", "Elf", 90_000, 11, 2))
+  expect(there[0]?.values["partOfCollections"]).toEqual([
+    "release/sylvia-daley-pixie",
+    "release/sylvia-daley-pixie-deluxe",
+  ])
+})
+
+test("a track a second release carries states one carrier for each release", () => {
+  const tracks = nothingFiled()
+  syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))
+  const there = syncing(tracks, DELUXE, track("t9", "Elf", 90_000, 11, 2))
+  expect(there[0]?.values["carriedBy"]).toEqual([
+    {
+      release: "release/sylvia-daley-pixie",
+      discNumber: 1,
+      position: 3,
+      externalId: "t7",
+      externalLink: "https://open.spotify.com/track/t7",
+    },
+    {
+      release: "release/sylvia-daley-pixie-deluxe",
+      discNumber: 2,
+      position: 11,
+      externalId: "t9",
+      externalLink: "https://open.spotify.com/track/t9",
+    },
+  ])
+})
+
+test("a release synced again replaces the carrier naming that release", () => {
+  const tracks = nothingFiled()
+  syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))
+  const again = syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 4))
+  expect(again[0]?.values["carriedBy"]).toEqual([
+    {
+      release: "release/sylvia-daley-pixie",
+      discNumber: 1,
+      position: 4,
+      externalId: "t7",
+      externalLink: "https://open.spotify.com/track/t7",
+    },
+  ])
+  expect(again[0]?.values["partOfCollections"]).toEqual(["release/sylvia-daley-pixie"])
+})
+
+test("another recording under the same title takes a page of its own", () => {
+  const tracks = nothingFiled()
+  syncing(tracks, RELEASE, track("t7", "Elf", 90_000, 3))
+  const there = syncing(tracks, DELUXE, track("t9", "Elf", 91_000, 11))
+  expect(there[0]?.slug).toBe("sylvia-daley-pixie-deluxe-elf")
 })
