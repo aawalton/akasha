@@ -1,4 +1,6 @@
 import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
+import type { SkillSlotId } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
+import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import type { SkillId } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import type {
@@ -12,8 +14,6 @@ import {
 } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SkillSlotId } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
-import { skillSlots } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 
 export function getRacialSkillLineIdForRace(raceId: RaceId): SkillLineId | null {
   const raceToSkillLine: Partial<Record<RaceId, SkillLineId>> = {

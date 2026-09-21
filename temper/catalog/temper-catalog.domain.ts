@@ -19,6 +19,7 @@ export const temperCatalog = {
     "domain/temper-alchemy",
     "domain/temper-character-race",
     "domain/temper-champion-point",
+    "domain/temper-skill-kind",
   ],
   decisions: [
     {

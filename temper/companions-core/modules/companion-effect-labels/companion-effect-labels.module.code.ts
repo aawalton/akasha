@@ -1,17 +1,17 @@
+import type {
+  SpecialEffectType,
+  StatusEffectType,
+} from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import type {
+  ActivationBuffType,
+  ActivationDebuffType,
+} from "akasha/temper/catalog/skill-kind/modules/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
+import { specialEffectTypes } from "akasha/temper/catalog/skill-kind/modules/special-effect-types/special-effect-types.module.code.ts"
+import { statusEffectTypes } from "akasha/temper/catalog/skill-kind/modules/status-effect-types/status-effect-types.module.code.ts"
 import { companionActivationBuffs } from "akasha/temper/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import { companionPassiveMetrics } from "akasha/temper/companions-core/modules/companion-passive-metrics/companion-passive-metrics.module.code.ts"
 import { buffOrDebuff } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
-import type {
-  SpecialEffectType,
-  StatusEffectType,
-} from "akasha/temper/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import type {
-  ActivationBuffType,
-  ActivationDebuffType,
-} from "akasha/temper/skill-kind/modules/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
-import { specialEffectTypes } from "akasha/temper/skill-kind/modules/special-effect-types/special-effect-types.module.code.ts"
-import { statusEffectTypes } from "akasha/temper/skill-kind/modules/status-effect-types/status-effect-types.module.code.ts"
 
 const buffOrDebuffByName: Readonly<Record<string, { name: string }>> = buffOrDebuff.data
 

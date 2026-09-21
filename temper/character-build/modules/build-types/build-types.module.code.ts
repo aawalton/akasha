@@ -1,6 +1,7 @@
 import type { PotionId } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import type { ChampionPointId } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
+import type { SkillSlotId } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import type { SkillId } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/character-skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
 import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
@@ -15,7 +16,6 @@ import type { VampireStageId } from "akasha/temper/character-source/modules/vamp
 import type { Loadout } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
-import type { SkillSlotId } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 
 export interface CharacterState {
   id: BuildId

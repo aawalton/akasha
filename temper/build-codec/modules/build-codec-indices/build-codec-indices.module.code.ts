@@ -4,6 +4,10 @@ import { poisons } from "akasha/temper/catalog/alchemy/modules/poison-source/poi
 import { potions } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { championPoints } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import { races } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
+import { affixScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+import { focusScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import { signatureScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import { getSkillLineCategory } from "akasha/temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"
 import { scribedSkills } from "akasha/temper/character-skill/modules/scribed-skills/scribed-skills.module.code.ts"
@@ -28,10 +32,6 @@ import { armorSlots } from "akasha/temper/equipment-kind/modules/armor-slots/arm
 import { equipmentQualities } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
-import { affixScripts } from "akasha/temper/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
-import { focusScripts } from "akasha/temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { signatureScripts } from "akasha/temper/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
-import { skillSlots } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 
 const classIds = classes.ids
 const raceIds = races.ids

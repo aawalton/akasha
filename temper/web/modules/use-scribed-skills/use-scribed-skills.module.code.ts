@@ -1,3 +1,4 @@
+import type { FocusScriptId } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { Skill } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import {
   type SkillId,
@@ -9,7 +10,6 @@ import {
   type GrimoireId,
   grimoires,
 } from "akasha/temper/character-skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
-import type { FocusScriptId } from "akasha/temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { PendingScriptEdits } from "akasha/temper/web/modules/skills-types/skills-types.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
