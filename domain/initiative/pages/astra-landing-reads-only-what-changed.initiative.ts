@@ -23,7 +23,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "What a property carries is worked out for the pages a change names rather than across the index.",
       workingMemory:
-        "`derivedFor` is 1.08s of a 4.57s landing and `slugsOver` inside it 1.16s. Holding one reading per root for a call and one face per reading were both tried and both measured at nothing, and both were taken back out: the two faces a landing builds are over two index states, the root's and the shadow's, and the cost is the loop over every file property rather than the reads. What is left is that loop.",
+        "`derivedFor` is 1.08s of a 4.57s landing and `slugsOver` inside it 1.16s. Holding one reading per call and one face per reading both measured at nothing and were taken back out: a landing's two faces are over two index states. The cost is the loop, which loads the value of every file property page. A shape carries whether a property is generated, whether a tool resolves its paths and the group writing its file now, so the loop can read one file per page type instead.",
     },
     {
       statement: "The stylesheet sources a landing gathers are the ones its change names.",
