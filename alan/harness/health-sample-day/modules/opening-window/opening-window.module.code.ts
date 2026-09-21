@@ -148,18 +148,7 @@ export function openingInstantOn(root: string, dayStr: string): Date | Refused {
   return opening
 }
 
-function closingWithoutNext(dayStr: string, now: Date): Date {
-  const closed = eveningOf(dayStr)
-  const latest = eveningOf(dayAfter(dayStr))
-  const at = now.getTime()
-  return at > closed.getTime() && at < latest.getTime() ? now : closed
-}
-
-export function spannedWindowIn(
-  root: string,
-  dayStr: string,
-  now: Date = new Date()
-): DayWindow | Refused {
+export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refused {
   const eso = getEsoDayWindow(dayStr)
   if (eso.start.getTime() === 0 || eso.end.getTime() === 0) {
     return { refused: `'${dayStr}' is no day, so no span can be counted over it` }
@@ -167,8 +156,8 @@ export function spannedWindowIn(
   const opening = openingInstantOn(root, dayStr)
   const next = openingInstantOn(root, dayAfter(dayStr))
   return {
-    from: ("refused" in opening ? eveningOf(dayBefore(dayStr)) : opening).toISOString(),
-    to: ("refused" in next ? closingWithoutNext(dayStr, now) : next).toISOString(),
+    from: ("refused" in opening ? eso.start : opening).toISOString(),
+    to: ("refused" in next ? eso.end : next).toISOString(),
   }
 }
 

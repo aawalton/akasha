@@ -169,30 +169,31 @@ test("a day holding stretches of time and no sleep refuses", () => {
   expect(refusalIn(openingInstantOn(root, SLEPT))).toContain("when the day opened is not recorded")
 })
 
-test("a day with no sleep at all is spanned from six the previous evening in Utah", () => {
+test("a day with no sleep at all opens at the ESO reset instead", () => {
   const root = worldFiled("akasha-wake-fallback-")
   dayFiled(root, SLEPT, [SLEPT_ROWS[1]])
   expect(spannedWindowIn(root, SLEPT)).toEqual({
-    from: "2026-07-04T00:00:00.000Z",
+    from: "2026-07-04T10:00:00.000Z",
     to: "2026-07-05T04:00:00.000Z",
   })
 })
 
-test("a day long past whose next day records no sleep closes at six that evening in Utah", () => {
+test("a day whose next day records no sleep closes at the ESO reset after it", () => {
   const root = worldFiled("akasha-wake-fallback-end-")
   dayFiled(root, NEXT, [SLEPT_ROWS[1]])
-  expect(spannedWindowIn(root, SLEPT, new Date("2026-09-01T00:00:00.000Z"))).toEqual({
+  expect(spannedWindowIn(root, SLEPT)).toEqual({
     from: "2026-07-04T04:00:00.000Z",
-    to: "2026-07-05T00:00:00.000Z",
+    to: "2026-07-05T10:00:00.000Z",
   })
 })
 
-test("the day being lived closes at the moment it is read rather than at six that evening", () => {
-  const root = worldFiled("akasha-opened-lived-")
+test("a day recording no sleep at either end is the ESO day whole", () => {
+  const root = worldFiled("akasha-opened-neither-")
+  dayFiled(root, SLEPT, [SLEPT_ROWS[1]])
   dayFiled(root, NEXT, [SLEPT_ROWS[1]])
-  expect(spannedWindowIn(root, SLEPT, new Date("2026-07-05T02:00:00.000Z"))).toEqual({
-    from: "2026-07-04T04:00:00.000Z",
-    to: "2026-07-05T02:00:00.000Z",
+  expect(spannedWindowIn(root, SLEPT)).toEqual({
+    from: "2026-07-04T10:00:00.000Z",
+    to: "2026-07-05T10:00:00.000Z",
   })
 })
 

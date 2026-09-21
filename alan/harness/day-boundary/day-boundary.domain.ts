@@ -29,5 +29,14 @@ export const dayBoundary = {
       decisionKind: "decision-kind/departure",
       statement: "The day is derived in one place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A day turns where Alan's sleep says it turned, and at the ESO reset where no sleep says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The ESO reset is Alan's own turn between days rather than an arbitrary hour.",
+    },
   ],
 } as const satisfies Domain

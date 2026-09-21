@@ -62,15 +62,16 @@ export const openingWindow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day refusing a window is a day spanned from the day boundary instead.",
+      statement:
+        "Six in the evening in Utah brackets which sleep opens a day and bounds no window.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day whose next opening is not recorded closes at six that evening in Utah.",
+      statement: "A day whose next opening is not recorded closes at the ESO reset that closes it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The day being lived closes at the moment it is read rather than at a fixed hour.",
+      statement: "A day whose own opening is not recorded opens at the ESO reset that opens it.",
     },
     {
       decisionKind: "decision-kind/departure",
