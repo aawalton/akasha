@@ -5,12 +5,12 @@ export const theMarriageLeverICannotRead = {
   type: "page-type/all-about-alan-topic",
   slug: "the-marriage-lever-i-cannot-read",
   title: "The Marriage Lever I Cannot Read",
-  definition: "the marriage intervention on my safety, and the proxy I read it by",
+  definition: "the marriage intervention on my safety, and the tracking it has none of",
   parents: ["all-about-alan-topic/the-harness-around-my-safety"],
   related: [
     "all-about-alan-topic/the-budget-i-run-my-days-on",
     "all-about-alan-topic/what-holds-my-marriage",
   ],
   settled:
-    "The marriage lever has no working tracking at all. I know the lever has an impact, and my best proxy is the Charisma measure, where affordable time spent with Jen is a strong positive signal.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.",
+    "The marriage lever has no working tracking at all. I know the lever has an impact.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.",
 } as const satisfies AllAboutAlanTopic
