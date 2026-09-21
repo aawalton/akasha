@@ -1,0 +1,13 @@
+{"accountPage":"9ba554f7-cb18-48bb-a709-ec935a895ca7"}
+{"completionCardId":"skill-points"}
+{"completionItemPath":["storyZoneQuests"]}
+{"dueDate":"2026-09-21"}
+{"icon":"file-text"}
+{"id":"01a0c624-3916-7fe9-a515-b012dbb17027"}
+{"priority":"p3"}
+{"rruleAnchorFromCompletion":false}
+{"rruleRule":"FREQ=DAILY"}
+{"scope":"next_character"}
+{"slug":"story-zone-quest-skill-points"}
+{"title":"Story Zone Quest Skill Points"}
+{"type":"page-type/temper-task"}
