@@ -39,7 +39,7 @@ export const temperAddon = {
     "temper-addon/temper-crafting-addon",
     "temper-addon/temper-addon-errors",
     "temper-addon/temper-addon-events",
-    "temper-addon/temper-housing-addon",
+    "temper-addon/temper-addon-housing",
     "temper-addon/temper-addon-hud",
     "temper-addon/temper-interface-addon",
     "temper-addon/temper-items-addon",

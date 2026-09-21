@@ -1685,13 +1685,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.ts","id":"01a062d1-4a71-7f08-a4d5-3b9e7c02a1df"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-placing/addon-placing.module.ts","id":"01a090b8-6baa-7001-902c-0a3fc6d7cf83"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
-{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-build-casts/housing-build-casts.module.ts","id":"01a06113-b7cd-713c-9e44-bec20c408d8d"}
-{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-holder-types/housing-holder-types.module.ts","id":"01a06113-b7ce-7f67-beb7-a7a3ee79e25d"}
-{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-house-names/housing-house-names.module.ts","id":"01a06113-b7ce-7b9b-af21-351c6f82669b"}
-{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-state-types/housing-state-types.module.ts","id":"01a06113-b7d2-7a53-af12-f4a88f37c476"}
-{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-types/housing-types.module.ts","id":"01a06113-b7d3-78a4-80ec-95d612619454"}
-{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-visit-cards-view/housing-visit-cards-view.module.ts","id":"01a06113-b7d3-7108-b73c-002d1663f7df"}
-{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/temper-housing-addon.temper-addon.ts","id":"01a06113-b7cb-7519-aaf3-198045bc75aa"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-component-labels/hud-component-labels.module.ts","id":"01a060a4-fa3a-7e69-ab6f-7e0aaefa14c1"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-component-record/hud-component-record.module.ts","id":"01a060a4-fa39-7073-a59e-f1228678be33"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}
@@ -1731,6 +1724,13 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/errors/temper-addon-errors.temper-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/modules/next-boss-ui-strings/next-boss-ui-strings.module.ts","id":"01a06157-8357-7537-a6bd-307d783c5836"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/next-boss-declarations/next-boss-declarations.type-declaration.ts","id":"01a0620a-a165-79b6-89ee-06d189040e29"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-build-casts/housing-build-casts.module.ts","id":"01a06113-b7cd-713c-9e44-bec20c408d8d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-holder-types/housing-holder-types.module.ts","id":"01a06113-b7ce-7f67-beb7-a7a3ee79e25d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-house-names/housing-house-names.module.ts","id":"01a06113-b7ce-7b9b-af21-351c6f82669b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-state-types/housing-state-types.module.ts","id":"01a06113-b7d2-7a53-af12-f4a88f37c476"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-types/housing-types.module.ts","id":"01a06113-b7d3-78a4-80ec-95d612619454"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-visit-cards-view/housing-visit-cards-view.module.ts","id":"01a06113-b7d3-7108-b73c-002d1663f7df"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/housing/temper-addon-housing.temper-addon.ts","id":"01a06113-b7cb-7519-aaf3-198045bc75aa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-hide-plan/hud-addon-hide-plan.module.ts","id":"01a061c5-18dd-700b-9e4a-ac33f45c2a8f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-hide-targets/hud-addon-hide-targets.module.ts","id":"01a061c5-18dd-7009-859a-31630f29ad1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
