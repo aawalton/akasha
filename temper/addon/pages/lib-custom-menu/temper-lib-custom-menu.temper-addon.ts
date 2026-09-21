@@ -24,6 +24,7 @@ export const temperLibCustomMenu = {
     "module/submenu-timeout",
     "module/submenu-window",
     "type-declaration/custom-menu-declarations",
+    "module/submenu-rows",
   ],
   decisions: [
     {

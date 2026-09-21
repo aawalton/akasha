@@ -1,9 +1,5 @@
 import { asLcmLabel } from "akasha/temper/addon/pages/lib-custom-menu/modules/custom-menu-casts/custom-menu-casts.module.code.ts"
 import {
-  DEFAULT_ITEM_FONT,
-  DIVIDER,
-  HEADER_FONT,
-  MENU_ADD_OPTION_HEADER,
   SUBMENU_ITEM_MOUSE_ENTER,
   SUBMENU_ITEM_MOUSE_EXIT,
 } from "akasha/temper/addon/pages/lib-custom-menu/modules/custom-menu-constants/custom-menu-constants.module.code.ts"
@@ -14,15 +10,14 @@ import type {
 } from "akasha/temper/addon/pages/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
 import { menu } from "akasha/temper/addon/pages/lib-custom-menu/modules/eso-menu/eso-menu.module.code.ts"
 import {
-  getValueOrCallback,
   runTooltip,
   setupDivider,
   setupHeader,
 } from "akasha/temper/addon/pages/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"
 import {
-  DEFAULT_TEXT_COLOR,
-  DEFAULT_TEXT_HIGHLIGHT,
-} from "akasha/temper/addon/pages/lib-custom-menu/modules/submenu-text-colors/submenu-text-colors.module.code.ts"
+  addSubmenuItem,
+  updateSubmenuAnchors,
+} from "akasha/temper/addon/pages/lib-custom-menu/modules/submenu-rows/submenu-rows.module.code.ts"
 import {
   clearTimeout,
   setTimeout,
@@ -250,32 +245,7 @@ export function createSubmenu(this: void, name: string): Submenu {
     },
 
     UpdateAnchors() {
-      let previousItem: Control = this.control
-      const items = this.items
-      let width = 0
-      let height = 0
-      const padding = menu.menuPad
-      for (let i = 0; i < items.length; i++) {
-        const item = items[i]
-        if (item === undefined) {
-          continue
-        }
-        const [textWidth, textHeight] = item.nameLabel.GetTextDimensions()
-        width = zo_max(textWidth + padding * 2, width)
-        height = height + textHeight
-        item.ClearAnchors()
-        if (i === 0) {
-          item.SetAnchor(TOPLEFT, previousItem, TOPLEFT, padding, padding)
-          item.SetAnchor(TOPRIGHT, previousItem, TOPRIGHT, -padding, padding)
-        } else {
-          item.SetAnchor(TOPLEFT, previousItem, BOTTOMLEFT, 0, item.itemYPad ?? 0)
-          item.SetAnchor(TOPRIGHT, previousItem, BOTTOMRIGHT, 0, item.itemYPad ?? 0)
-        }
-        item.SetHidden(false)
-        item.SetDimensions(textWidth, textHeight)
-        previousItem = item
-      }
-      this.control.SetDimensions(width + padding * 2, height + padding * 2)
+      updateSubmenuAnchors(this)
     },
 
     Clear() {
@@ -290,82 +260,7 @@ export function createSubmenu(this: void, name: string): Submenu {
     },
 
     AddItem(entry, myfont, normalColor, highlightColor, itemYPad) {
-      const visible: typeof entry.visible = entry.visible !== undefined ? entry.visible : true
-      const isVisible = getValueOrCallback(visible, menu)
-      if (isVisible === false || isVisible === undefined) {
-        return
-      }
-
-      const itemType = entry.itemType ?? MENU_ADD_OPTION_LABEL
-      let item: LcmRowControl
-      if (itemType === MENU_ADD_OPTION_LABEL) {
-        const pool = entry.label !== DIVIDER ? this.itemPool : this.dividerPool
-        const [acquired] = pool.AcquireObject()
-        item = acquired
-      } else if (itemType === MENU_ADD_OPTION_CHECKBOX) {
-        const [acquired] = this.itemPool.AcquireObject()
-        item = acquired
-      } else if (itemType === MENU_ADD_OPTION_HEADER) {
-        const [acquired] = this.headerPool.AcquireObject()
-        item = acquired
-      } else {
-        error(`Unknown menu entry itemType: ${itemType}`)
-      }
-
-      item.OnSelect = entry.callback
-      item.tooltip = entry.tooltip
-      item.itemYPad = itemYPad ?? 0
-      item.index = this.items.length
-      this.items[item.index] = item
-
-      const nameControl = item.nameLabel
-      const entryFont = getValueOrCallback(entry.myfont, menu, item) ?? myfont
-      const normColor = getValueOrCallback(entry.normalColor, menu, item) ?? normalColor
-      const highColor = getValueOrCallback(entry.highlightColor, menu, item) ?? highlightColor
-      let resolvedFont: string
-      if (itemType === MENU_ADD_OPTION_HEADER) {
-        resolvedFont = entryFont ?? HEADER_FONT
-        nameControl.normalColor = normColor ?? ZO_WHITE
-      } else {
-        resolvedFont = entryFont ?? DEFAULT_ITEM_FONT
-        nameControl.normalColor = normColor ?? DEFAULT_TEXT_COLOR
-      }
-      nameControl.highlightColor = highColor ?? DEFAULT_TEXT_HIGHLIGHT
-      nameControl.SetFont(resolvedFont)
-
-      let text = getValueOrCallback(entry.label, menu, item) ?? ""
-
-      let checkboxItemControl: LcmRowControl | undefined
-      if (itemType === MENU_ADD_OPTION_CHECKBOX) {
-        const [acquired] = this.checkBoxPool.AcquireObject()
-        checkboxItemControl = acquired
-        checkboxItemControl.SetParent(item)
-        checkboxItemControl.menuIndex = item.index
-        checkboxItemControl.ClearAnchors()
-        checkboxItemControl.SetHidden(false)
-        checkboxItemControl.SetAnchor(LEFT, undefined, LEFT, 2, -1)
-        text = ` |u18:0::|u${text}`
-        ZO_CheckButton_SetCheckState(
-          checkboxItemControl,
-          getValueOrCallback(entry.checked, menu, item) ?? false
-        )
-      }
-      item.checkbox = checkboxItemControl
-
-      nameControl.SetText(text)
-      const [, textHeight] = nameControl.GetTextDimensions()
-      item.storedHeight = textHeight
-
-      const disabledValue = getValueOrCallback(entry.disabled ?? false, menu, item)
-      const enabled = disabledValue !== true
-      const colorToUse = enabled ? nameControl.normalColor : ZO_DEFAULT_DISABLED_COLOR
-      const [er, eg, eb, ea] = colorToUse.UnpackRGBA()
-      nameControl.SetColor(er, eg, eb, ea)
-      item.SetMouseEnabled(enabled)
-      if (checkboxItemControl !== undefined) {
-        checkboxItemControl.SetMouseEnabled(enabled)
-        checkboxItemControl.SetAlpha(enabled ? 1 : 0.6)
-      }
+      addSubmenuItem(this, entry, myfont, normalColor, highlightColor, itemYPad)
     },
 
     Show(parent) {
