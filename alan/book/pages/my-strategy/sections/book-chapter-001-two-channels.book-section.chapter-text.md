@@ -27,7 +27,7 @@ This is one of two standing priority orderings I run. Stated as a pair:
 
 > Accelerate Improvement > Apply Improvement
 
-The other ordering is in [003-priorities.md](003-priorities.book-chapter.md).
+The other ordering is in [003-priorities.md](book-section/my-strategy/book-chapter-003-priorities).
 
 ## Why the second channel still runs through code
 
@@ -53,4 +53,4 @@ And asked which value was moving least:
 
 ---
 
-*Recorder's reading, marked.* The link between the two channels is the load-bearing claim on this page and it is easy to read past. The ordering "Accelerate Improvement > Apply Improvement" looks like a choice to defer his life in favour of his tooling. His own account of the prosthetics says it is not that: `alan-harness` is simultaneously one of the five foundational layers of the machine *and* the layer through which any of the six values actually improves. Accelerating improvement and applying it are the same act at that layer. See [005-the-pipeline.md](005-the-pipeline.book-chapter.md), where he says four initiatives are stacked against `alan-harness` — twice any other layer.
+*Recorder's reading, marked.* The link between the two channels is the load-bearing claim on this page and it is easy to read past. The ordering "Accelerate Improvement > Apply Improvement" looks like a choice to defer his life in favour of his tooling. His own account of the prosthetics says it is not that: `alan-harness` is simultaneously one of the five foundational layers of the machine *and* the layer through which any of the six values actually improves. Accelerating improvement and applying it are the same act at that layer. See [005-the-pipeline.md](book-section/my-strategy/book-chapter-005-the-pipeline), where he says four initiatives are stacked against `alan-harness` — twice any other layer.

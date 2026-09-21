@@ -49,7 +49,7 @@ And so are some of the six values:
 
 > There are other things that feed back in. Health, how my relationship with me Wife is doing, how much I'm aware of world events (more is worse).
 
-These are not inputs from outside. They sit in the second of my [two channels](001-two-channels.book-chapter.md) — things I improve — and they feed back into my capacity while they do it:
+These are not inputs from outside. They sit in the second of my [two channels](book-section/my-strategy/book-chapter-001-two-channels) — things I improve — and they feed back into my capacity while they do it:
 
 > They are still in the second category, and basically everything in the second category has similar positive feedback mechanics, these are just some of the most prominent. The key is that to increase my benefit from those categories requires changes, generally code changes, because I need to iterate on the alan-harness to build in the digital prosthetics that compensate for the parts of my brain that don't work normally (total aphantasia, no experiential memory, no automaticity or habit-formation, for example)
 

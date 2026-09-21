@@ -47,7 +47,7 @@ Each occurrence has been scary, especially before Alan understood what was happe
 
 ### A flop day is an oscillation, not sustained -2
 
-The 2026-06-09 episode — the day after a 12-hour conversation with Jen about unfulfilled connection needs ([journal entry](../journal/2026-06-08-connection-conversation-with-jen.book-chapter.md)), miserably sick both days — added a shape the acute model didn't have. The day was not a flat -2:
+The 2026-06-09 episode — the day after a 12-hour conversation with Jen about unfulfilled connection needs ([journal entry](book-section/all-about-alan/book-chapter-2026-06-08-connection-conversation-with-jen)), miserably sick both days — added a shape the acute model didn't have. The day was not a flat -2:
 
 > I ranged from -2 to 0 over the course of the day, falling back to -2 repeatedly.
 

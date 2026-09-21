@@ -77,7 +77,7 @@ Neither policy is moderated and neither is dropped. Each gets a window, and the 
 
 > If the sun is down, I am not allowed to sleep outside of the bedroom.
 
-The two standing rules this joins — *"If it isn't affordable, I'm not allowed to do it"* and *"If I don't want to, I'm not allowed to"* — are recorded in the [2026-06-08 conversation with Jen](../journal/2026-06-08-connection-conversation-with-jen.book-chapter.md).
+The two standing rules this joins — *"If it isn't affordable, I'm not allowed to do it"* and *"If I don't want to, I'm not allowed to"* — are recorded in the [2026-06-08 conversation with Jen](book-section/all-about-alan/book-chapter-2026-06-08-connection-conversation-with-jen).
 
 ## The second worked case — connection
 

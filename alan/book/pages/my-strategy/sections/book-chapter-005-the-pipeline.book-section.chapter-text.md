@@ -65,7 +65,7 @@ And the hypothesis I drew from it:
 
 *Recorder's reading, marked.* The two corrections above are the most useful thing on this page and they run against a natural reading of the rest of it.
 
-Agent-harness instability blocks the pipes, so it is tempting to conclude that nothing else can move until it is fixed. He rejected that twice. What is blocked is specifically work that *depends on agents running autonomously*; live interactive sessions still move, and definition work still moves. Since definition is the step where selection actually happens — see [004-inboxes.md](004-inboxes.book-chapter.md) — the upstream half of the system is not blocked at all, and the four layers with empty ready queues could be filled now rather than after the blocker clears.
+Agent-harness instability blocks the pipes, so it is tempting to conclude that nothing else can move until it is fixed. He rejected that twice. What is blocked is specifically work that *depends on agents running autonomously*; live interactive sessions still move, and definition work still moves. Since definition is the step where selection actually happens — see [004-inboxes.md](book-section/my-strategy/book-chapter-004-inboxes) — the upstream half of the system is not blocked at all, and the four layers with empty ready queues could be filled now rather than after the blocker clears.
 
 He also declined the framing that the 89 ready projects represent a backlog to be cleared before anything else starts, on the grounds that they are all in one layer's queue. His replacement question is about the size of the total pipe rather than the contents of any queue.
 

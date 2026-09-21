@@ -13,7 +13,7 @@ Stated on their own:
 
 **Accelerate Improvement > Apply Improvement**
 
-The second is the one that divides my effort into [two channels](001-two-channels.book-chapter.md). The first is the one I reach for when deciding what a given piece of work should be spending its effort on.
+The second is the one that divides my effort into [two channels](book-section/my-strategy/book-chapter-001-two-channels). The first is the one I reach for when deciding what a given piece of work should be spending its effort on.
 
 ## Where they were put
 

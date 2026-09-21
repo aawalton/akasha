@@ -3,7 +3,7 @@
 
 > How Alan settled the CI case of the delivery boundary on 2026-08-11 — code that runs in CI counts as deployed, because CI runs on the cluster, but code that runs only while being tested does not. Records his reason ("a test is not a sufficient warrant for existence for code"), his ruling that the boundary is a reachability question over the dependency graph rather than a per-package judgement, and project #18789 dispatched to build the missing edges.
 
-The rule in [008](008-when-code-runs-through-the-code-repo.book-chapter.md) says where a piece of code belongs. Applying it to the tree by hand kept producing lists that did not survive contact — the namespace guess was wrong, and so was the one that followed it. The case that broke the last of them was CI, which is neither production nor my workstation. Put the question straight, I have an answer:
+The rule in [008](book-section/my-strategy/book-chapter-008-when-code-runs-through-the-code-repo) says where a piece of code belongs. Applying it to the tree by hand kept producing lists that did not survive contact — the namespace guess was wrong, and so was the one that followed it. The case that broke the last of them was CI, which is neither production nor my workstation. Put the question straight, I have an answer:
 
 > Yes, code that runs in CI absolutely counts. However, code that runs only while being tested in ci does not count. A test is not a sufficient warrant for existence for code.
 

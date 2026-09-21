@@ -1,7 +1,7 @@
 
 # What sorts a channel is what it points at
 
-> Alan's zoom-out on 2026-08-18, a week after the rest of this book was written. Records the foundational layers going from five to ten, the roughly 80% of throughput channel one is taking with about another week expected, and his correction to the channel split in [001](001-two-channels.book-chapter.md): definition work counts as channel two when it points at an area other than the foundational layers, so the channels divide by what work points at rather than by what kind of work it is. Carries his reason for deleting the change-throughput theme, which was that it stood in for a link every work item now carries directly, his ruling on the two corrections that followed — one taken and one refused — and his own statement of what this session is for, which is finding the current bottlenecks.
+> Alan's zoom-out on 2026-08-18, a week after the rest of this book was written. Records the foundational layers going from five to ten, the roughly 80% of throughput channel one is taking with about another week expected, and his correction to the channel split in [001](book-section/my-strategy/book-chapter-001-two-channels): definition work counts as channel two when it points at an area other than the foundational layers, so the channels divide by what work points at rather than by what kind of work it is. Carries his reason for deleting the change-throughput theme, which was that it stood in for a link every work item now carries directly, his ruling on the two corrections that followed — one taken and one refused — and his own statement of what this session is for, which is finding the current bottlenecks.
 
 A week after the rest of this book was written I came back to the top of it:
 
@@ -15,7 +15,7 @@ So the split is chosen and it has a horizon on it. Roughly four fifths of what I
 
 ## The channels divide by target, not by kind
 
-Both of those parallel lines are definition work, and [001](001-two-channels.book-chapter.md) has channel two reaching me through code — the harness is where the prosthetics get built. On that reading, defining what a readout is or what a world holds might be channel one wearing channel two's clothes, and the parallel throughput would be less parallel than it looks.
+Both of those parallel lines are definition work, and [001](book-section/my-strategy/book-chapter-001-two-channels) has channel two reaching me through code — the harness is where the prosthetics get built. On that reading, defining what a readout is or what a world holds might be channel one wearing channel two's clothes, and the parallel throughput would be less parallel than it looks.
 
 It is not, and the reason is that definition is not a different kind of activity from delivery:
 
@@ -23,13 +23,13 @@ It is not, and the reason is that definition is not a different kind of activity
 
 Definition is the first stage of code delivery, so it is never disqualified from channel two for being definition. What puts a piece of work in channel one is what it points at. Aim it at a foundational layer and it is channel one; aim it anywhere else and it is channel two, whatever stage it happens to be at.
 
-That is a cleaner line than the one in [001](001-two-channels.book-chapter.md), and it survives the case that broke the old one. The old line sorted by the form the work took, which is exactly what two lines of definition work aimed at a game engine and a set of readouts made useless.
+That is a cleaner line than the one in [001](book-section/my-strategy/book-chapter-001-two-channels), and it survives the case that broke the old one. The old line sorted by the form the work took, which is exactly what two lines of definition work aimed at a game engine and a set of readouts made useless.
 
 ## Five layers became ten
 
-The count in the aside is right. There are ten foundational layers now, where [006](006-the-dependency-graph.book-chapter.md) has five: domain-system, pages-system, events-system, graph-system, work-system, ops-cli, agent-harness, code-harness, infra, alan-harness.
+The count in the aside is right. There are ten foundational layers now, where [006](book-section/my-strategy/book-chapter-006-the-dependency-graph) has five: domain-system, pages-system, events-system, graph-system, work-system, ops-cli, agent-harness, code-harness, infra, alan-harness.
 
-Every one of the five that arrived landed in the same place — between domain-system and agent-harness. Nothing was appended and nothing was inserted anywhere else in the ordering. That is exactly the spot [006](006-the-dependency-graph.book-chapter.md) records as the one place the order needed a tie broken, where I said the two were both essential to every change, neither depended on the other in the ordinary way, and I settled it on which could bootstrap on a lighter harness. Read now, it does not look like a tie. It looks like five layers were sitting in that gap unnamed, and the ordering felt level because something was missing rather than because two things were equal.
+Every one of the five that arrived landed in the same place — between domain-system and agent-harness. Nothing was appended and nothing was inserted anywhere else in the ordering. That is exactly the spot [006](book-section/my-strategy/book-chapter-006-the-dependency-graph) records as the one place the order needed a tie broken, where I said the two were both essential to every change, neither depended on the other in the ordinary way, and I settled it on which could bootstrap on a lighter harness. Read now, it does not look like a tie. It looks like five layers were sitting in that gap unnamed, and the ordering felt level because something was missing rather than because two things were equal.
 
 Whether the list is done, I do not know, and it is not really what I am here for:
 

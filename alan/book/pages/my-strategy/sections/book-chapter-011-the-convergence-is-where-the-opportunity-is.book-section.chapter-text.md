@@ -1,7 +1,7 @@
 
 # The convergence is where the opportunity is
 
-> Alan's account on 2026-08-26 of where the master plan came from and what it is now, eight days after [010](010-what-sorts-a-channel-is-what-it-points-at.book-chapter.md). Records the three problems that converged on caching and the graph the day before, his reason for reading that convergence as signal rather than artifact — he had selected all three by pain — the single line he gives for what landing it buys, his answer to the capacity-above-demand reading in [010](010-what-sorts-a-channel-is-what-it-points-at.book-chapter.md), which is that his channel one adjacent possible expanded rather than that the earlier reading was wrong, the state of the work as a minimal graph carrying a few enforced and cached checks with content being imported behind them, and his own naming of the constraint: himself, working with agents, defining clearly enough at the domain level.
+> Alan's account on 2026-08-26 of where the master plan came from and what it is now, eight days after [010](book-section/my-strategy/book-chapter-010-what-sorts-a-channel-is-what-it-points-at). Records the three problems that converged on caching and the graph the day before, his reason for reading that convergence as signal rather than artifact — he had selected all three by pain — the single line he gives for what landing it buys, his answer to the capacity-above-demand reading in [010](book-section/my-strategy/book-chapter-010-what-sorts-a-channel-is-what-it-points-at), which is that his channel one adjacent possible expanded rather than that the earlier reading was wrong, the state of the work as a minimal graph carrying a few enforced and cached checks with content being imported behind them, and his own naming of the constraint: himself, working with agents, defining clearly enough at the domain level.
 
 I opened this session on what I am trying to accomplish, and rather than answer from a blank page I pointed at a piece of work:
 
@@ -21,7 +21,7 @@ The three, in my own shorthand:
 > 2. Organizing file structure -> the one affordance that cannot be solved other than folders is easy git-hash, which is used for graph concept caching
 > 3. Improved performance for the pages system -> cacheing based on the graph
 
-Three problems I had been carrying separately, each with its own shape. The repo split is the question [008](008-when-code-runs-through-the-code-repo.book-chapter.md) and [009](009-the-boundary-is-a-reachability-question.book-chapter.md) spent a whole session on. File structure is a layout question. Pages performance is a speed question. Nothing in the statement of any of them names the other two.
+Three problems I had been carrying separately, each with its own shape. The repo split is the question [008](book-section/my-strategy/book-chapter-008-when-code-runs-through-the-code-repo) and [009](book-section/my-strategy/book-chapter-009-the-boundary-is-a-reachability-question) spent a whole session on. File structure is a layout question. Pages performance is a speed question. Nothing in the statement of any of them names the other two.
 
 > All three converged on cacheing and the graph system, which resulted in the master plan which rebuilds the entire system around a concentrated core that integrates the domain system, pages system, graph system, and work system with intelligent caching.
 
@@ -45,7 +45,7 @@ Every clause is load-bearing. *All areas* rather than one at a time. *A single e
 
 ## The frontier moved
 
-[010](010-what-sorts-a-channel-is-what-it-points-at.book-chapter.md) has me saying capacity in the foundational layers is above demand, and gives that as the reason the `change-throughput` theme went. The master plan is a large channel one bet placed eight days after that. Asked how the two square:
+[010](book-section/my-strategy/book-chapter-010-what-sorts-a-channel-is-what-it-points-at) has me saying capacity in the foundational layers is above demand, and gives that as the reason the `change-throughput` theme went. The master plan is a large channel one bet placed eight days after that. Asked how the two square:
 
 > My channel one adjacent possible expanded xD
 
@@ -69,9 +69,9 @@ Asked where the constraint inside the master plan sits now:
 
 *Recorder's reading, marked.* Four things about this page.
 
-**It closes a question [010](010-what-sorts-a-channel-is-what-it-points-at.book-chapter.md) left open, and moves it.** That page ends on the reading that the constraint sits at the definition stage, which runs through him, and marks it explicitly as the interviewer's rather than his. He has now said it in his own words, unprompted by that page, which nobody had put in front of him. But he placed it somewhere else than she did. She had it in channel two, reasoning that the foundational layers had capacity to spare so the queue must be elsewhere. He names it as the constraint on the master plan, which is channel one work by his own sorting rule. The definition bottleneck is therefore not a property of either channel. It is where his throughput ends regardless of what the work points at, and the earlier placement was too narrow rather than wrong.
+**It closes a question [010](book-section/my-strategy/book-chapter-010-what-sorts-a-channel-is-what-it-points-at) left open, and moves it.** That page ends on the reading that the constraint sits at the definition stage, which runs through him, and marks it explicitly as the interviewer's rather than his. He has now said it in his own words, unprompted by that page, which nobody had put in front of him. But he placed it somewhere else than she did. She had it in channel two, reasoning that the foundational layers had capacity to spare so the queue must be elsewhere. He names it as the constraint on the master plan, which is channel one work by his own sorting rule. The definition bottleneck is therefore not a property of either channel. It is where his throughput ends regardless of what the work points at, and the earlier placement was too narrow rather than wrong.
 
-**"Capacity is above demand" should not be read forward out of [010](010-what-sorts-a-channel-is-what-it-points-at.book-chapter.md).** It reads there like a standing fact about the foundational layers, and it was true when said. This page is the case that shows it is not the kind of thing that stays true on its own: demand there is a function of his frontier, and his frontier moved in a day. Anyone reading that line as a reason not to invest in channel one is reading a measurement as a property.
+**"Capacity is above demand" should not be read forward out of [010](book-section/my-strategy/book-chapter-010-what-sorts-a-channel-is-what-it-points-at).** It reads there like a standing fact about the foundational layers, and it was true when said. This page is the case that shows it is not the kind of thing that stays true on its own: demand there is a function of his frontier, and his frontier moved in a day. Anyone reading that line as a reason not to invest in channel one is reading a measurement as a property.
 
 **The selection method is the part of this that generalises, and he did not present it as a method.** He described what happened to him — three problems at the frontier, chosen by pain, converging — and drew a conclusion about this particular convergence. Stated generally it is a way of finding load-bearing work without being able to reason down to it: pick by pain, work several at the frontier at once, and treat a meeting point as the opportunity. The book is the place where he works out what to improve next, and it does not otherwise carry a procedure for that. Whether he holds it as one is not recorded, because he was not asked.
 

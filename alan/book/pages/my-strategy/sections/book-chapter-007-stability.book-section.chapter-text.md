@@ -3,7 +3,7 @@
 
 > Alan's account of what stability is made of, stated on 2026-08-11 — preventing failures and making failures easy to fix — and the trade-off between the two. Records his judgement that for code running on his workstation, the code-repo mechanics hurt recoverability to buy prevention that is not worth nearly as much there. This is the reasoning the delivery-boundary rule was derived from.
 
-Stability is first in my priority ordering — see [003-priorities.md](003-priorities.book-chapter.md) — so what it is made of decides a lot.
+Stability is first in my priority ordering — see [003-priorities.md](book-section/my-strategy/book-chapter-003-priorities) — so what it is made of decides a lot.
 
 > Its not only that, lets talk about where stability comes from.
 
@@ -29,7 +29,7 @@ Then I rejected two framings of the question in a row:
 
 > That's also the wrong question, but its closer. I think the right question in this case is "when should code run through the code repo?" This question is concrete enough to have answers.
 
-The answer to that one is in [008-when-code-runs-through-the-code-repo.md](008-when-code-runs-through-the-code-repo.book-chapter.md).
+The answer to that one is in [008-when-code-runs-through-the-code-repo.md](book-section/my-strategy/book-chapter-008-when-code-runs-through-the-code-repo).
 
 ---
 
