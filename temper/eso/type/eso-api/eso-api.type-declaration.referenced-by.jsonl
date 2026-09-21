@@ -88,6 +88,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-saved-variables/lib-sets-core-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-set-type-queries/lib-sets-core-set-type-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-dropdown-menu/lib-sets-search-ui-shared-dropdown-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-prefilter/lib-sets-search-ui-shared-prefilter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-drop-mechanic-render-part/lib-sets-tip-drop-mechanic-render-part.module.code.ts"}
