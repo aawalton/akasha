@@ -45,7 +45,6 @@ export const temperAddon = {
     "boolean-property/addon-library",
     "temper-addon/temper-lib-addon-keybinds",
     "temper-addon/temper-lib-addon-menu",
-    "temper-addon/temper-lib-addon-menu-order-list-box",
     "temper-addon/temper-lib-async",
     "temper-addon/temper-lib-character-knowledge",
     "temper-addon/temper-lib-chat-message",

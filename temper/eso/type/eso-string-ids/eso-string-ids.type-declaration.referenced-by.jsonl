@@ -31,8 +31,6 @@
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-store/fco-mail-store.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-settings-defaults/fco-settings-defaults.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-settings/fco-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-constants/order-list-box-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-dialogs/order-list-box-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-dialogs/addon-menu-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"}

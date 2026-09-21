@@ -1785,11 +1785,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-entry/order-list-box-entry.module.ts","id":"01a06207-bdf3-79e2-9e63-14aa5448d6e1"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu-order-list-box/order-list-box-control-shapes/order-list-box-control-shapes.type-declaration.ts","id":"01a06207-bdf0-718b-9625-7685969b57ec"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu-order-list-box/order-list-box-lam-shapes/order-list-box-lam-shapes.type-declaration.ts","id":"01a06207-bdf5-7baa-a829-0e6f87895d8c"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu-order-list-box/order-list-box-published/order-list-box-published.type-declaration.ts","id":"01a06207-bdf6-7c8f-8f0c-3a655587329d"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu-order-list-box/order-list-box-shape/order-list-box-shape.type-declaration.ts","id":"01a06207-bdf8-746c-ad6e-67efcc323489"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/addon-menu-eso-combobox/addon-menu-eso-combobox.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000030"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/addon-menu-eso-controls/addon-menu-eso-controls.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000029"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.ts","id":"01a06100-0000-7000-8000-000000000031"}

@@ -447,7 +447,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/keybinder/temper-addon-keybinder.temper-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.temper-addon.ts","id":"01a06207-bdfa-77c3-9c7b-c125ea77a269"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.ts","id":"01a06100-0000-7000-8000-000000000000"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-constants/addon-menu-constants.module.ts","id":"01a06100-0000-7000-8000-000000000002"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-dialogs/addon-menu-dialogs.module.ts","id":"01a06100-0000-7000-8000-000000000003"}
