@@ -2,14 +2,14 @@
 
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { weaponSlots as weaponSlotsData } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { weaponSlots as weaponSlotsData } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import {
   type WeaponTraitId,
   weaponTraitsBuildList,
   weaponTraits as weaponTraitsData,
-} from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import {
   bulkUpdateWeaponEnchant,
   bulkUpdateWeaponQuality,

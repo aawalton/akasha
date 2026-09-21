@@ -10,9 +10,9 @@
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.types.ts"}
-{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/temper-gear/temper-potion-crafted/temper-potion-crafted.page-type.types.ts"}
-{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/temper-gear/temper-potion-crown/temper-potion-crown.page-type.types.ts"}
-{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/temper-gear/temper-potion-dropped/temper-potion-dropped.page-type.types.ts"}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.types.ts"}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.types.ts"}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/temper-skill/temper-skill.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/temper-skill/type/temper-skill-type.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/character/temper-mine/properties/set-bonuses.record-property.types.ts"}
@@ -34,10 +34,10 @@
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts","id":"01a05fc5-94cf-7f43-9797-17fbafcb401e"}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts","id":"01a05fc5-94d0-716b-82f3-5afa3e4c84e2"}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts","id":"01a05fc5-94d2-7de5-8850-22656966472e"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-potion-crafted/temper-potion-crafted.page-type.ts","id":"01a05fd1-d434-76cd-b1db-563c237e6de6"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-potion-crown/temper-potion-crown.page-type.ts","id":"01a05fd1-d434-7ce2-a20b-6926bf033e6f"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-potion-dropped/temper-potion-dropped.page-type.ts","id":"01a05fd1-d435-7e26-b0e7-584020995ebe"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-set/properties/bonuses.page-property-entry.ts","id":"01a05fd1-d437-730d-b6e2-e46b2bc06210"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts","id":"01a05fd1-d434-76cd-b1db-563c237e6de6"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts","id":"01a05fd1-d434-7ce2-a20b-6926bf033e6f"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts","id":"01a05fd1-d435-7e26-b0e7-584020995ebe"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.ts","id":"01a05fd1-d437-730d-b6e2-e46b2bc06210"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-skill/temper-grimoire/properties/affix-scripts.page-property-entry.ts","id":"01a05fca-cb80-7359-bca5-e38d0406dff4"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-skill/temper-grimoire/properties/signature-scripts.page-property-entry.ts","id":"01a05fca-cb86-72c5-aca4-0aea9d43b601"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}

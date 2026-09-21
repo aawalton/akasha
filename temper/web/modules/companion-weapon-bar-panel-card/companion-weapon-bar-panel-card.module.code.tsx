@@ -26,7 +26,7 @@ import {
   companionWeaponSlots,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { weaponSlots } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
+import { weaponSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   getQualityClassName,

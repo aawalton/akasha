@@ -1,8 +1,8 @@
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { PipelineStage } from "akasha/temper/character-stat/modules/pipeline-types/pipeline-types.module.code.ts"
 import type {
   ArmorSlotItem,

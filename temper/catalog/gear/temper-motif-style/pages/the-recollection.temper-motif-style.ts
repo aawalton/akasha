@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const theRecollection = {
+  id: "019e5a46-c4bf-77dd-a204-ed1f734b4b20",
+  type: "page-type/temper-motif-style",
+  slug: "the-recollection",
+  title: "The Recollection",
+  collectionIndex: 108,
+  sourceDescription: "Oathsworn Pit dungeon",
+} as const satisfies TemperMotifStyle

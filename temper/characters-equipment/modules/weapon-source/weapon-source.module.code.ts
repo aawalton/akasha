@@ -1,10 +1,10 @@
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import type { WeaponTraitId } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
-import { getNirnhonedWeaponBonus } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
-import type { WeaponTypeId } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { WeaponTraitId } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
+import { getNirnhonedWeaponBonus } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
+import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type {
   PoisonId,
   WeaponItem,

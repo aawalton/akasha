@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const scribesOfMora = {
+  id: "019e5a46-c4b0-7808-b34c-a2b107e316ba",
+  type: "page-type/temper-motif-style",
+  slug: "scribes-of-mora",
+  title: "Scribes of Mora",
+  collectionIndex: 103,
+  sourceDescription: "Scrivener's Hall dungeon",
+} as const satisfies TemperMotifStyle

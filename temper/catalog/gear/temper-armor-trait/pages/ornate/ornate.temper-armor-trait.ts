@@ -1,0 +1,12 @@
+import type { TemperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.types.ts"
+
+export const ornate = {
+  id: "01a05fb2-1bd0-7720-9436-969891f3e40f",
+  type: "page-type/temper-armor-trait",
+  slug: "ornate",
+  title: "Ornate",
+  key: "ornate",
+  effect: "Increases sell price",
+  esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_ORNATE",
+  displayOrder: 10,
+} as const satisfies TemperArmorTrait

@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.types.ts"
+
+export const trinimacsValor = {
+  id: "019e66e7-6a9f-79b3-a491-70e7cafef46a",
+  type: "page-type/temper-set",
+  slug: "trinimacs-valor",
+  title: "Trinimac's Valor",
+  key: "trinimacs-valor",
+  esoSetId: 218,
+  subcategoryId: "overland",
+  valid: ["*:light"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

@@ -1,0 +1,13 @@
+import type { TemperPoisonEffect } from "akasha/temper/catalog/gear/temper-poison-effect/temper-poison-effect.page-type.types.ts"
+
+export const increaseArmor = {
+  id: "019e21f7-0f66-7ae7-8005-0e1df608a596",
+  type: "page-type/temper-poison-effect",
+  slug: "increase-armor",
+  title: "Increase Physical Resistance",
+  key: "increase-armor",
+  icon: "resources/crafting_alchemy_trait_increasearmor.png",
+  isPositive: true,
+  oppositeId: "fracture",
+  effects: "jsonl",
+} as const satisfies TemperPoisonEffect

@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.types.ts"
+
+export const torugsPact = {
+  id: "019e668e-9a6d-75f2-8b1e-40cb8ea21ad4",
+  type: "page-type/temper-set",
+  slug: "torugs-pact",
+  title: "Torug's Pact",
+  key: "torugs-pact",
+  esoSetId: 75,
+  subcategoryId: "crafted",
+  valid: ["*"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

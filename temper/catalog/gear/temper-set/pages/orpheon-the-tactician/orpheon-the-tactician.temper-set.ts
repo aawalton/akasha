@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.types.ts"
+
+export const orpheonTheTactician = {
+  id: "019e66e7-6a15-76e0-9012-f200ae54bf77",
+  type: "page-type/temper-set",
+  slug: "orpheon-the-tactician",
+  title: "Orpheon the Tactician",
+  key: "orpheon-the-tactician",
+  esoSetId: 801,
+  subcategoryId: "no-type",
+  valid: ["monster"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

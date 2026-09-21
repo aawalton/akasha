@@ -4,8 +4,8 @@ import {
   type EquipmentQualityId,
   minQuality,
   resolveQuality,
-} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { getInfusedWeaponBonus } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { getInfusedWeaponBonus } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponItem } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"

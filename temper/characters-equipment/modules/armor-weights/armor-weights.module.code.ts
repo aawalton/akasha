@@ -6,15 +6,15 @@ import {
 import {
   type ArmorTypeId,
   getArmorMultiplier,
-} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type {
   ArmorWeightId,
   StandardArmorWeightId,
-} from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
   calculateNirnhonedValue,
   calculateReinforcedValue,

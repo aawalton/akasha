@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.types.ts"
+
+export const witchKnightsDefiance = {
+  id: "019e66e7-6ab5-761e-a7c5-b0ff2393d8f8",
+  type: "page-type/temper-set",
+  slug: "witch-knights-defiance",
+  title: "Witch-Knight's Defiance",
+  key: "witch-knights-defiance",
+  esoSetId: 538,
+  subcategoryId: "overland",
+  valid: ["*:medium"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

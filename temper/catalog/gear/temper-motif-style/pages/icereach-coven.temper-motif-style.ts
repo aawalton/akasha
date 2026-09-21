@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const icereachCoven = {
+  id: "019e5a46-c444-73b2-941c-a90eec758e43",
+  type: "page-type/temper-motif-style",
+  slug: "icereach-coven",
+  title: "Icereach Coven",
+  collectionIndex: 67,
+  sourceDescription: "Icereach dungeon",
+} as const satisfies TemperMotifStyle

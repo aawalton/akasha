@@ -1,5 +1,5 @@
-import type { SetId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
-import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
+import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import { setsAll } from "akasha/temper/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 

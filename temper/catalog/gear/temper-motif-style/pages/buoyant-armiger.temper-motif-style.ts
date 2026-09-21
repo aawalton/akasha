@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const buoyantArmiger = {
+  id: "019e5a46-c3ee-7526-9559-9b355f12fb2f",
+  type: "page-type/temper-motif-style",
+  slug: "buoyant-armiger",
+  title: "Buoyant Armiger",
+  collectionIndex: 35,
+  sourceDescription: "Vvardenfell and Halls of Fabrication",
+} as const satisfies TemperMotifStyle

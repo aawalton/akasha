@@ -1,6 +1,6 @@
-import type { ArmorTypeId } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
-import type { ArmorTraitId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
-import type { ArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { ArmorTypeId } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
+import type { ArmorTraitId } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
+import type { ArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
   type ArmorEnchantId,
   getArmorEnchantmentEffects,

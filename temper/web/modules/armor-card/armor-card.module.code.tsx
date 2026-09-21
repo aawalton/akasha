@@ -11,16 +11,16 @@ import {
 import {
   type ArmorSlotId,
   armorSlots,
-} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type ArmorTraitId,
   armorTraits,
   armorTraitsBuildList,
-} from "akasha/temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
-import type { StandardArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   type ArmorEnchantId,

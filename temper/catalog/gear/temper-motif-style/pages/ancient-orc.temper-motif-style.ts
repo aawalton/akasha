@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const ancientOrc = {
+  id: "019e5a46-c3b2-7de5-b05d-f28fdfe64eb7",
+  type: "page-type/temper-motif-style",
+  slug: "ancient-orc",
+  title: "Ancient Orc",
+  collectionIndex: 9,
+  sourceDescription: "Old Orsinium enemies (Wrothgar)",
+} as const satisfies TemperMotifStyle

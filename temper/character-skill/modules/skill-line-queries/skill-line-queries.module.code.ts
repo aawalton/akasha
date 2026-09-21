@@ -1,4 +1,5 @@
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
+import type { ArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
   type SkillBarId,
   skillBars,
@@ -7,7 +8,6 @@ import {
   type SkillSlotId,
   skillSlots,
 } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
-import type { ArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { Skill } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import { findSkillById } from "akasha/temper/character-skill/modules/find-skill-by-id/find-skill-by-id.module.code.ts"
 import type {

@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const houseTelvanni = {
+  id: "019e5a46-c3e8-7c17-98b1-3d55acef4fe0",
+  type: "page-type/temper-motif-style",
+  slug: "house-telvanni",
+  title: "House Telvanni",
+  collectionIndex: 33,
+  sourceDescription: "Pickpocketing and theft in Vvardenfell",
+} as const satisfies TemperMotifStyle

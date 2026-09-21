@@ -1,5 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
-import type { StandardArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   countArmorPiecesByWeight,

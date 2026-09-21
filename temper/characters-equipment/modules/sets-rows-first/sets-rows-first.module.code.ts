@@ -1,4 +1,4 @@
-import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
+import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import { SETS_DATA_000 } from "akasha/temper/characters-equipment/modules/sets-data-000/sets-data-000.module.code.ts"
 import { SETS_DATA_001 } from "akasha/temper/characters-equipment/modules/sets-data-001/sets-data-001.module.code.ts"
 import { SETS_DATA_002 } from "akasha/temper/characters-equipment/modules/sets-data-002/sets-data-002.module.code.ts"

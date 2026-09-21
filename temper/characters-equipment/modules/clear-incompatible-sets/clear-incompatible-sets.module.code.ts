@@ -1,4 +1,4 @@
-import type { SetId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type {
   Loadout,
   WeaponSlot,

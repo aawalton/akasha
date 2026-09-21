@@ -29,7 +29,7 @@ import {
   companionTraits,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionJewelrySlotItem } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { jewelrySlots } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
+import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   getQualityClassName,

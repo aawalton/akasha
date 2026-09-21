@@ -4,8 +4,8 @@ import {
   type EquipmentQualityId,
   minQuality,
   resolveQuality,
-} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { getInfusedJewelryBonus } from "akasha/temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { getInfusedJewelryBonus } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import type { JewelryItem } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import {
   TEMPER_JEWELRY_ENCHANT_QUALITY_VALUES,

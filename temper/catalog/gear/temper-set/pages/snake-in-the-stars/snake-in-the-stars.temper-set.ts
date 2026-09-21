@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.types.ts"
+
+export const snakeInTheStars = {
+  id: "019e66ec-792b-7482-9705-8ec49568aa0c",
+  type: "page-type/temper-set",
+  slug: "snake-in-the-stars",
+  title: "Snake in the Stars",
+  key: "snake-in-the-stars",
+  esoSetId: 688,
+  subcategoryId: "pvp",
+  valid: ["*:light"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

@@ -2,11 +2,11 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import {
   type EquipmentQualityId,
   resolveQuality,
-} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   JEWELRY_TRAIT_QUALITY_VALUES,
   jewelryTraits,
-} from "akasha/temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import type { JewelryItem } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 

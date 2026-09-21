@@ -2,17 +2,17 @@
 
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type JewelrySlotId,
   jewelrySlots,
-} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import {
   type JewelryTraitId,
   jewelryTraits,
   jewelryTraitsBuildList,
-} from "akasha/temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+} from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import {
   bulkUpdateJewelryEnchant,
   bulkUpdateJewelryQuality,

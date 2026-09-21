@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.types.ts"
+
+export const perfectedDolorousArena = {
+  id: "019e66e7-6a16-79e0-bf75-75f2c4f7be3e",
+  type: "page-type/temper-set",
+  slug: "perfected-dolorous-arena",
+  title: "Perfected Dolorous Arena",
+  key: "perfected-dolorous-arena",
+  esoSetId: 819,
+  subcategoryId: "no-type",
+  valid: ["*:heavy"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

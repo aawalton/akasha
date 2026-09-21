@@ -1,6 +1,6 @@
-import type { StandardArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { EquipmentPattern } from "akasha/temper/catalog/temper-gear/equipment/modules/set-patterns/set-patterns.module.code.ts"
-import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { EquipmentPattern } from "akasha/temper/catalog/gear/equipment/modules/set-patterns/set-patterns.module.code.ts"
+import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import {
   type EquipmentType,
   isJewelryType,

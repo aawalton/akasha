@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.types.ts"
+
+export const joltingArms = {
+  id: "019e66e6-a096-731b-bea0-3dda054ba36b",
+  type: "page-type/temper-set",
+  slug: "jolting-arms",
+  title: "Jolting Arms",
+  key: "jolting-arms",
+  esoSetId: 186,
+  subcategoryId: "dungeon",
+  valid: ["*:heavy"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet
