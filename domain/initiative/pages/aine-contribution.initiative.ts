@@ -16,7 +16,6 @@ export const aineContribution = {
       statement:
         "A command completes a feature request and burns its contribution points, or denies it and refunds.",
     },
-    { statement: "An account newly made holds a hundred contribution points." },
   ],
   constraints: [
     "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",
