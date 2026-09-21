@@ -2458,6 +2458,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.ts","id":"01a0823b-40b3-774c-873f-e2fb70d34da0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.ts","id":"01a08248-90ee-7792-9275-0a291dfa50af"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.ts","id":"01a08245-78cc-7f77-96bc-39695e9c2410"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/property/standard-agent-english-property.page-type.ts","id":"01a07c99-fb58-79b6-a204-a2bf1f056902"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/prose-frame/prose-frame.page-type.ts","id":"01a08241-f81d-7e21-8584-c7cc1ab6cf98"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/banned-term/banned-term.page-type.ts","id":"01a081ea-d66b-7bae-bde1-753ebd310536"}
