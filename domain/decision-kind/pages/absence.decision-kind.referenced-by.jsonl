@@ -1645,6 +1645,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/capture-sales-addon/temper-capture-sales-addon.eso-addon.ts","id":"01a060e2-3181-7c02-be71-c63b5b648d5b"}
 {"propertySlug":"decision-kind","path":"temper/addon/collections-addon/modules/collections-addon-loaded/collections-addon-loaded.module.ts","id":"01a0624c-a660-7bb7-a785-531905b18e57"}
 {"propertySlug":"decision-kind","path":"temper/addon/collections-addon/temper-collections-addon.eso-addon.ts","id":"01a0624c-a660-70e0-bf26-d959d1027e91"}
+{"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/temper-errors-addon.eso-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/modules/next-boss-ui-strings/next-boss-ui-strings.module.ts","id":"01a06157-8357-7537-a6bd-307d783c5836"}
@@ -1653,6 +1654,11 @@
 {"propertySlug":"decision-kind","path":"temper/addon/hud-addon/modules/hud-addon-hide-targets/hud-addon-hide-targets.module.ts","id":"01a061c5-18dd-7009-859a-31630f29ad1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-addon/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-addon/temper-hud-addon.eso-addon.ts","id":"01a061c5-18dd-7011-a8e7-8f6d488e9b03"}
+{"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-component-labels/hud-component-labels.module.ts","id":"01a060a4-fa3a-7e69-ab6f-7e0aaefa14c1"}
+{"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-component-record/hud-component-record.module.ts","id":"01a060a4-fa39-7073-a59e-f1228678be33"}
+{"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}
+{"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-scene-source/hud-scene-source.module.ts","id":"01a060a4-fa39-75fa-b8ed-cd9e167bd81c"}
+{"propertySlug":"decision-kind","path":"temper/addon/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lccc/modules/lccc-casts/lccc-casts.module.ts","id":"01a08d72-b007-7beb-b91e-33727605794e"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
@@ -1754,7 +1760,6 @@
 {"propertySlug":"decision-kind","path":"temper/command/modules/name-ordering/name-ordering.module.ts","id":"01a07c93-d1ce-7d75-844c-a9a61f0601d8"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/venue-trace-saying/venue-trace-saying.module.ts","id":"01a09b2e-baec-7b08-bcf7-07f61d70d416"}
 {"propertySlug":"decision-kind","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts","id":"01a07c93-f240-7b33-9d06-f8459b129064"}
-{"propertySlug":"decision-kind","path":"temper/community-addon/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
 {"propertySlug":"decision-kind","path":"temper/companions-addon/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}
 {"propertySlug":"decision-kind","path":"temper/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
@@ -1790,11 +1795,6 @@
 {"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-types/housing-types.module.ts","id":"01a06113-b7d3-78a4-80ec-95d612619454"}
 {"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-visit-cards-view/housing-visit-cards-view.module.ts","id":"01a06113-b7d3-7108-b73c-002d1663f7df"}
 {"propertySlug":"decision-kind","path":"temper/housing-addon/temper-housing-addon.eso-addon.ts","id":"01a06113-b7cb-7519-aaf3-198045bc75aa"}
-{"propertySlug":"decision-kind","path":"temper/hud-component/modules/hud-component-labels/hud-component-labels.module.ts","id":"01a060a4-fa3a-7e69-ab6f-7e0aaefa14c1"}
-{"propertySlug":"decision-kind","path":"temper/hud-component/modules/hud-component-record/hud-component-record.module.ts","id":"01a060a4-fa39-7073-a59e-f1228678be33"}
-{"propertySlug":"decision-kind","path":"temper/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}
-{"propertySlug":"decision-kind","path":"temper/hud-component/modules/hud-scene-source/hud-scene-source.module.ts","id":"01a060a4-fa39-75fa-b8ed-cd9e167bd81c"}
-{"propertySlug":"decision-kind","path":"temper/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}
 {"propertySlug":"decision-kind","path":"temper/interface-addon/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.ts","id":"01a06115-1ac5-7e5c-8d3a-faa3aae9eba1"}
 {"propertySlug":"decision-kind","path":"temper/interface-addon/modules/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.ts","id":"01a06115-1ac7-7496-8d0d-86f1548469eb"}
 {"propertySlug":"decision-kind","path":"temper/interface-addon/modules/fco-crafting-smithing/fco-crafting-smithing.module.ts","id":"01a06115-1ac7-7093-bdbd-2f2d354a8b32"}

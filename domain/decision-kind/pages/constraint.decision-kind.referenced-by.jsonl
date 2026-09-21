@@ -356,6 +356,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon-build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"decision-kind","path":"temper/addon/capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts","id":"01a06341-d9e8-7008-91c3-2fcab6b143bf"}
 {"propertySlug":"decision-kind","path":"temper/addon/capture-sales-addon/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
+{"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
+{"propertySlug":"decision-kind","path":"temper/addon/community-addon/temper-community-addon.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/modules/next-boss-constants/next-boss-constants.module.ts","id":"01a06157-8356-7a6f-9f7c-8822d3c91088"}
@@ -365,6 +367,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/modules/next-boss-gui/next-boss-gui.module.ts","id":"01a06157-8359-7e61-9d80-9e788c9ca1c7"}
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/modules/next-boss-timers/next-boss-timers.module.ts","id":"01a06157-8358-7ee9-8d50-84cac768c2cb"}
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/temper-events-addon.eso-addon.ts","id":"01a06157-835b-787b-bc13-9bd25c3742cd"}
+{"propertySlug":"decision-kind","path":"temper/addon/keybinder-addon/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
+{"propertySlug":"decision-kind","path":"temper/addon/keybinder-addon/temper-keybinder-addon.eso-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.eso-addon.ts","id":"01a06207-bdfa-77c3-9c7b-c125ea77a269"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.ts","id":"01a06100-0000-7000-8000-000000000000"}
@@ -888,8 +892,6 @@
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
 {"propertySlug":"decision-kind","path":"temper/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
-{"propertySlug":"decision-kind","path":"temper/community-addon/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
-{"propertySlug":"decision-kind","path":"temper/community-addon/temper-community-addon.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
 {"propertySlug":"decision-kind","path":"temper/companions-addon/modules/companions-codec-constants/companions-codec-constants.module.ts","id":"01a0611d-84d0-7633-b29f-14f7be7fd63b"}
 {"propertySlug":"decision-kind","path":"temper/companions-addon/modules/companions-id-map/companions-id-map.module.ts","id":"01a0611d-84dd-7991-bda4-54827db48eac"}
 {"propertySlug":"decision-kind","path":"temper/companions-addon/modules/companions-skill-map/companions-skill-map.module.ts","id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
@@ -1024,8 +1026,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-eval/modules/item-facts/item-facts.module.ts","id":"01a06137-f96c-7332-b371-6a8536a60c01"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-eval/modules/rule-condition-eval/rule-condition-eval.module.ts","id":"01a06137-f96d-7493-bbc2-36975759b675"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing-core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.ts","id":"01a06151-370a-75d2-9f60-78f57041397a"}
-{"propertySlug":"decision-kind","path":"temper/keybinder-addon/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
-{"propertySlug":"decision-kind","path":"temper/keybinder-addon/temper-keybinder-addon.eso-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
 {"propertySlug":"decision-kind","path":"temper/lib-histoire/temper-lib-histoire.eso-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.ts","id":"01a06275-c442-78e9-91db-fd3e3a781bd5"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-entries/scrollable-menu-api-entries.module.ts","id":"01a06275-c443-709d-8562-0ff2fc429904"}

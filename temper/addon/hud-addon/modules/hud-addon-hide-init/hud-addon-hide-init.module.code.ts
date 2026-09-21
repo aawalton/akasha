@@ -12,7 +12,7 @@ import {
   readComponentVisible,
   writeComponentVisible,
 } from "akasha/temper/addon/hud-addon/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
-import { HUD_SCENE_CATALOG } from "akasha/temper/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
+import { HUD_SCENE_CATALOG } from "akasha/temper/addon/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 
 const registry: HideRegistry = createHideRegistry()
 let initialized: boolean | undefined

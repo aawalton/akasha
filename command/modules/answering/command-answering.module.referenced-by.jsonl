@@ -435,9 +435,9 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"temper/addon/community-addon/modules/addon-download/addon-download.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test.ts"}
-{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"temper/community-addon/modules/addon-download/addon-download.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/modules/page-answering/page-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/alan/tracking/alan-tracking.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/finding/delete/finding-delete.command.test.ts"}

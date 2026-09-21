@@ -12,13 +12,13 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperCommunityAddonList as page } from "akasha/command/pages/temper/community/addon-list/temper-community-addon-list.command.ts"
-import { listDeployables } from "akasha/temper/addons-resolve/modules/deployable-addons/deployable-addons.module.code.ts"
 import {
   type PlannedAddon,
   planUpdates,
-} from "akasha/temper/community-addon/modules/addon-update-plan/addon-update-plan.module.code.ts"
-import { fetchCatalog } from "akasha/temper/community-addon/modules/esoui-catalog/esoui-catalog.module.code.ts"
-import { readInstalledAddons } from "akasha/temper/community-addon/modules/installed-addons/installed-addons.module.code.ts"
+} from "akasha/temper/addon/community-addon/modules/addon-update-plan/addon-update-plan.module.code.ts"
+import { fetchCatalog } from "akasha/temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.code.ts"
+import { readInstalledAddons } from "akasha/temper/addon/community-addon/modules/installed-addons/installed-addons.module.code.ts"
+import { listDeployables } from "akasha/temper/addons-resolve/modules/deployable-addons/deployable-addons.module.code.ts"
 import { addonsDir } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const NAMED = [json, codeRoot, addonsDirArgument, outdated]

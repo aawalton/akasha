@@ -20,5 +20,8 @@ export const temperAddon = {
     "domain/temper-addon-log",
     "domain/temper-narrow",
     "domain/temper-settings-panel",
+    "eso-addon/temper-keybinder-addon",
+    "domain/temper-community-addon",
+    "domain/temper-hud-component",
   ],
 } as const satisfies Domain

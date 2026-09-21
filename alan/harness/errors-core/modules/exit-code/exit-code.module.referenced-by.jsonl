@@ -138,6 +138,10 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/addon/community-addon/modules/addon-download/addon-download.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/addon/community-addon/modules/addon-download/addon-download.module.test.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/addon/community-addon/modules/install-named-addon/install-named-addon.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"}
@@ -148,10 +152,6 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.test.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/community-addon/modules/addon-download/addon-download.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/community-addon/modules/addon-download/addon-download.module.test.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/community-addon/modules/esoui-catalog/esoui-catalog.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/community-addon/modules/install-named-addon/install-named-addon.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/watcher/modules/watcher-running/watcher-running.module.code.ts"}
