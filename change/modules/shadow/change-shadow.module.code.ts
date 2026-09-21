@@ -10,6 +10,7 @@ import {
   type Replayed,
   refusing,
   replayed,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   type Naming,
@@ -148,7 +149,7 @@ function withheld(world: World, facing: Facing, said: Answer): Reached {
   if (sown.length === 0) return { said, world }
   let seen = world
   for (const path of sown) seen = tidied(seen, path)
-  return { said: { edits: held, refused: null }, world: seen }
+  return { said: telling({ edits: held, refused: null }, said.told ?? []), world: seen }
 }
 
 export async function reach(world: World, at: Reaches, given: unknown): Promise<Reached> {
