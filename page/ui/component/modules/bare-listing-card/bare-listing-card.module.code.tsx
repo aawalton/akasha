@@ -17,7 +17,6 @@ export interface BareListingCardContext {
   readonly alwaysShowPropertyIds: readonly string[]
   readonly notesProperty?: PropertyDefinition
   readonly pageTypeIconName: string | null
-  readonly rowAggregates: ReadonlyMap<string, Record<string, number | null>>
   readonly buildRowHref: (row: PageRow) => string
   readonly pageHrefById: (id: string, opts?: { targetPageTypeId?: string }) => string
   readonly makeRelationHref: (rowId: string, rowHref: string) => (propertyId: string) => string
@@ -32,8 +31,7 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
   const completion = completionShapeOf(ctx.pageTypeSlug)
   const rowHref = ctx.buildRowHref(page)
   const { _id: id, ...rest } = page
-  const fill = ctx.rowAggregates.get(id)
-  const pageData = pageRowToPageDataJSON(fill ? { ...rest, ...fill } : rest)
+  const pageData = pageRowToPageDataJSON(rest)
   const notesSlot =
     ctx.notesProperty != null ? (
       <PageCardNotes

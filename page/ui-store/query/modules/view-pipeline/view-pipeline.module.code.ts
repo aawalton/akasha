@@ -1,10 +1,7 @@
 import { type Collection, createLiveQueryCollection } from "@tanstack/db"
 import { instantIn } from "akasha/code/type/narrowing/modules/instant-in/instant-in.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import type {
-  PageDataJSON,
-  PropertyDefinition,
-} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
   asPageRecord,
@@ -95,15 +92,13 @@ function buildViewResolveCtx(
   for (const key of collectReferencedKeys(options)) keyInfo.set(key, classifyKey(key, defsById))
 
   const livePageById = new Map<string, PageRow>()
-  const allData: { readonly id: string; readonly data: PageDataJSON }[] = []
   for (const row of all) {
     const id = asPageRecord(row).id
     if (typeof id !== "string") continue
-    allData.push({ id, data: pageDataOf(row) })
     livePageById.set(id, row)
   }
 
-  return { keyInfo, defsById, livePageById, allData }
+  return { keyInfo, defsById, livePageById }
 }
 
 function deriveInstantKeys(ctx: ViewResolveCtx): readonly string[] {

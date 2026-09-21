@@ -1,9 +1,6 @@
 "use client"
 
-import type {
-  PageTypePropertiesMap,
-  PropertyDefinition,
-} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type {
   GroupGranularity,
   ViewConfig,
@@ -36,7 +33,6 @@ export interface UsePageViewProps {
   properties: readonly PropertyDefinition[]
   viewConfig: ViewConfig
   onViewConfigChange: (config: ViewConfig) => void
-  propertiesByPageType?: PageTypePropertiesMap
 }
 
 export interface UsePageViewResult {
@@ -64,20 +60,16 @@ export function usePageView({
   properties,
   viewConfig,
   onViewConfigChange,
-  propertiesByPageType,
 }: UsePageViewProps): UsePageViewResult {
   const sortOptions = useMemo(() => generateSortOptions(properties), [properties])
-  const filterDimensions = useMemo(
-    () => generateFilterDimensions(properties, propertiesByPageType),
-    [properties, propertiesByPageType]
-  )
+  const filterDimensions = useMemo(() => generateFilterDimensions(properties), [properties])
   const groupOptions = useMemo(() => generateGroupOptions(properties), [properties])
 
   const resolver = usePageResolverOptional()
 
   const filtered = useMemo(
-    () => applyView(pages, properties, viewConfig, propertiesByPageType, resolver),
-    [pages, properties, viewConfig, propertiesByPageType, resolver]
+    () => applyView(pages, properties, viewConfig, resolver),
+    [pages, properties, viewConfig, resolver]
   )
 
   const groupBy = viewConfig.groupBy ?? ""

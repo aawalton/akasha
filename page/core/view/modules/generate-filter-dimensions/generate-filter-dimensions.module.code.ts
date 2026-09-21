@@ -1,11 +1,9 @@
 import type {
-  PageTypePropertiesMap,
   PropertyDefinition,
   PropertyType,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { FilterOperatorOption } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { PROPERTY_TYPE_OPS_REGISTRY } from "akasha/page/core/property-type/modules/registry/registry.module.code.ts"
-import { resolveComputedProperty } from "akasha/page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.code.ts"
 import {
   isSelectOption,
   type SelectOption,
@@ -32,31 +30,25 @@ function readTargetPageTypeId(config: PropertyDefinition["config"]): string | un
 }
 
 export function generateFilterDimensions(
-  properties: readonly PropertyDefinition[],
-  propertiesByPageType?: PageTypePropertiesMap
+  properties: readonly PropertyDefinition[]
 ): readonly PageFilterDimension[] {
   const dims: PageFilterDimension[] = []
 
   for (const prop of properties) {
-    const effective =
-      propertiesByPageType !== undefined
-        ? resolveComputedProperty(prop, propertiesByPageType)
-        : prop
-
-    const handler = PROPERTY_TYPE_OPS_REGISTRY[effective.type]
+    const handler = PROPERTY_TYPE_OPS_REGISTRY[prop.type]
     if (!handler) continue
 
-    const operators = handler.getFilterOperators(effective)
+    const operators = handler.getFilterOperators(prop)
     const targetPageTypeId =
-      effective.type === "relation" || effective.type === "multi-relation"
-        ? readTargetPageTypeId(effective.config)
+      prop.type === "relation" || prop.type === "multi-relation"
+        ? readTargetPageTypeId(prop.config)
         : undefined
 
     const dim: PageFilterDimension = {
       id: prop.id,
       label: prop.title,
-      type: effective.type,
-      options: readOptions(effective.config),
+      type: prop.type,
+      options: readOptions(prop.config),
       operators,
       targetPageTypeId,
     }

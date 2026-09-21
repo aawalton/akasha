@@ -1,6 +1,6 @@
 import type { PropertyType } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { ACTION_BUTTON_OPS } from "akasha/page/core/property-type/modules/action-button/action-button.module.code.ts"
-import { AGGREGATE_OPS } from "akasha/page/core/property-type/modules/aggregate/aggregate.module.code.ts"
+
 import { BOOLEAN_OPS } from "akasha/page/core/property-type/modules/boolean/boolean.module.code.ts"
 import { CALENDAR_TIME_OPS } from "akasha/page/core/property-type/modules/calendar-time/calendar-time.module.code.ts"
 import { DATE_OPS } from "akasha/page/core/property-type/modules/date/date.module.code.ts"
@@ -35,7 +35,6 @@ export const PROPERTY_TYPE_OPS_REGISTRY = {
   "multi-select": MULTI_SELECT_OPS,
   relation: RELATION_OPS,
   "multi-relation": MULTI_RELATION_OPS,
-  aggregate: AGGREGATE_OPS,
 
   rrule: RRULE_OPS,
   progress: PROGRESS_OPS,

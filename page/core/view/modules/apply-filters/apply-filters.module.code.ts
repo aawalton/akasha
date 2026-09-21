@@ -1,10 +1,6 @@
-import type {
-  PageTypePropertiesMap,
-  PropertyDefinition,
-} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { FilterConfig } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { PROPERTY_TYPE_OPS_REGISTRY } from "akasha/page/core/property-type/modules/registry/registry.module.code.ts"
-import { resolveComputedProperty } from "akasha/page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.code.ts"
 import { pageHasNonEmptyContentKey } from "akasha/page/core/schema/modules/content-tier/content-tier.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
@@ -20,8 +16,7 @@ function toFilterConfig(filter: ViewFilter): FilterConfig {
 
 function buildFilterPredicate(
   filters: readonly ViewFilter[] | undefined,
-  properties: readonly PropertyDefinition[],
-  propertiesByPageType?: PageTypePropertiesMap
+  properties: readonly PropertyDefinition[]
 ): (row: Readonly<Record<string, ReadonlyJSONValue>>) => boolean {
   if (!filters || filters.length === 0) return () => true
 
@@ -41,11 +36,9 @@ function buildFilterPredicate(
       }
       continue
     }
-    const effective =
-      propertiesByPageType !== undefined ? resolveComputedProperty(def, propertiesByPageType) : def
-    const ops = PROPERTY_TYPE_OPS_REGISTRY[effective.type]
+    const ops = PROPERTY_TYPE_OPS_REGISTRY[def.type]
     if (!ops) continue
-    const valuePredicate = ops.getFilterPredicate(toFilterConfig(filter), effective)
+    const valuePredicate = ops.getFilterPredicate(toFilterConfig(filter), def)
     const propertyId = filter.propertyId
     resolved.push((row) => valuePredicate(row[propertyId] ?? null))
   }
@@ -63,10 +56,9 @@ function buildFilterPredicate(
 export function applyFilters<T extends FilterableRow>(
   items: readonly T[],
   filters: readonly ViewFilter[] | undefined,
-  properties: readonly PropertyDefinition[],
-  propertiesByPageType?: PageTypePropertiesMap
+  properties: readonly PropertyDefinition[]
 ): readonly T[] {
   if (!filters || filters.length === 0) return items.slice()
-  const predicate = buildFilterPredicate(filters, properties, propertiesByPageType)
+  const predicate = buildFilterPredicate(filters, properties)
   return items.filter((item) => predicate(item))
 }

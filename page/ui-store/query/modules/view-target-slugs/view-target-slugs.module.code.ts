@@ -13,13 +13,11 @@ export interface ViewTargetSlugs {
 function slugsForKey(
   key: string,
   primaryDefs: readonly PropertyDefinition[],
-  primaryPageTypeId: string,
-  defsByTypeId: PageTypePropertiesMap,
   slugByTypeId: ReadonlyMap<string, string | undefined>
 ): readonly string[] {
   const def = primaryDefs.find((p) => p.id === key)
   if (def === undefined) return []
-  const targetTypeIds = collectResolutionTargetTypeIds(def, primaryPageTypeId, defsByTypeId)
+  const targetTypeIds = collectResolutionTargetTypeIds(def)
   const slugs: string[] = []
   for (const typeId of targetTypeIds) {
     const slug = slugByTypeId.get(typeId)
@@ -48,26 +46,12 @@ export function deriveViewTargetSlugs(
 
   const gating = new Set<string>()
   for (const key of gatingKeys) {
-    for (const slug of slugsForKey(
-      key,
-      primaryDefs,
-      primaryPageTypeId,
-      defsByTypeId,
-      slugByTypeId
-    )) {
-      gating.add(slug)
-    }
+    for (const slug of slugsForKey(key, primaryDefs, slugByTypeId)) gating.add(slug)
   }
 
   const display = new Set<string>()
   for (const key of displayKeys) {
-    for (const slug of slugsForKey(
-      key,
-      primaryDefs,
-      primaryPageTypeId,
-      defsByTypeId,
-      slugByTypeId
-    )) {
+    for (const slug of slugsForKey(key, primaryDefs, slugByTypeId)) {
       if (!gating.has(slug)) display.add(slug)
     }
   }

@@ -2909,7 +2909,6 @@
 {"propertySlug":"decision-kind","path":"page/core/page-core.domain.ts","id":"01a05b92-a9c7-7180-bdd4-8e13e47841e5"}
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/multi-select-property/multi-select-property.module.ts","id":"01a05b92-a9c7-73ad-b512-5bf6b844a357"}
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/relation/relation.module.ts","id":"01a05b92-a9c7-7221-b4c6-4f496623711d"}
-{"propertySlug":"decision-kind","path":"page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.ts","id":"01a05b92-a9c7-7512-97a6-0038641ce4a3"}
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.ts","id":"01a0c4f9-83fa-7dde-aee6-9ce457c3ea99"}
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/select/select.module.ts","id":"01a05b92-a9c7-7a3b-8ead-0439cf3ee357"}
 {"propertySlug":"decision-kind","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.ts","id":"01a05b92-a9c7-744a-849e-167e2845f2b7"}

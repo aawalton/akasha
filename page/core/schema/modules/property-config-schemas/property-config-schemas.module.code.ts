@@ -87,38 +87,3 @@ export const multiRelationConfigSchema = z.object({
   ...RELATION_TARGET_FIELDS,
   ...BADGE_ICON_FIELD,
 })
-
-const aggregateFilterLeafSchema = z.union([
-  z.object({ op: z.literal("in"), property: z.string(), values: z.array(z.string()) }),
-  z.object({
-    op: z.literal("eq"),
-    property: z.string(),
-    value: z.union([z.string(), z.number(), z.boolean()]),
-  }),
-  z.object({ op: z.literal("is_null"), property: z.string() }),
-  z.object({ op: z.literal("is_not_null"), property: z.string() }),
-])
-
-export type AggregateFilter =
-  | { readonly op: "and"; readonly filters: readonly AggregateFilter[] }
-  | { readonly op: "or"; readonly filters: readonly AggregateFilter[] }
-  | z.infer<typeof aggregateFilterLeafSchema>
-
-export const aggregateFilterSchema: z.ZodType<AggregateFilter> = z.lazy(() =>
-  z.union([
-    z.object({ op: z.literal("and"), filters: z.array(aggregateFilterSchema) }),
-    z.object({ op: z.literal("or"), filters: z.array(aggregateFilterSchema) }),
-    aggregateFilterLeafSchema,
-  ])
-)
-
-export const aggregateConfigSchema = z.object({
-  relationPropertyId: z.string().optional(),
-  targetPropertyId: z.string().optional(),
-  function: z.enum(["sum", "count", "avg", "min", "max", "first", "count_distinct"]).optional(),
-  filter: aggregateFilterSchema.optional(),
-  format: numberFormatEnum.optional(),
-  ...NUMBER_FORMAT_SURFACE_FIELDS,
-  ...BADGE_ICON_FIELD,
-  ...BADGE_VARIANT_FIELD,
-})

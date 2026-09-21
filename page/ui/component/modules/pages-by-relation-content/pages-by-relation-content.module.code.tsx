@@ -42,7 +42,6 @@ export function PagesFilteredContent({
     targetPageType,
     targetPageTypeId,
     properties,
-    propertiesByPageType,
     pageTypeSlugById,
     pageTypeName,
     baseFilters,
@@ -53,7 +52,6 @@ export function PagesFilteredContent({
     totalCount,
     allPages,
     relatedPages,
-    rowAggregates,
     pageRows,
     serverGrouped,
     descendantUnasked,
@@ -162,7 +160,6 @@ export function PagesFilteredContent({
             notesProperty={notesProperty?.id}
             notesPropertyOptions={notesPropertyOptions}
             pageTypeId={targetPageTypeId}
-            propertiesByPageType={propertiesByPageType}
             serverGrouped={serverGrouped}
             isLoading={isLoading}
             onCreatePage={
@@ -178,7 +175,6 @@ export function PagesFilteredContent({
                 alwaysShowPropertyIds: effectiveConfig.always_show_properties ?? [],
                 notesProperty,
                 pageTypeIconName,
-                rowAggregates,
                 buildRowHref,
                 pageHrefById,
                 makeRelationHref,

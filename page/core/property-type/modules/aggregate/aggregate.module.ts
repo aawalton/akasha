@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const aggregate = {
-  id: "01a05b92-a9c7-7d3c-8a66-de6250f625b8",
-  type: "page-type/module",
-  slug: "aggregate",
-  definition: "the property type reducing a page's related pages to one number",
-  code: "ts",
-} as const satisfies Module

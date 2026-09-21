@@ -30,7 +30,6 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui-store/optimistic/modules/convergence/convergence.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui-store/optimistic/modules/optimistic-mutation/optimistic-mutation.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts"}
-{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/page-data-json/page-data-json.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx"}

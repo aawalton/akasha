@@ -1,10 +1,7 @@
 "use client"
 
 import type { PageOrder } from "akasha/page/access/modules/types/types.module.code.ts"
-import type {
-  PageTypePropertiesMap,
-  PropertyDefinition,
-} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type {
   Page,
   PageCondition,
@@ -40,7 +37,6 @@ interface GroupByArgs {
   filters?: readonly ViewFilter[]
   pageSize?: number
   properties?: readonly PropertyDefinition[]
-  propertiesByPageType?: PageTypePropertiesMap
   target?: number
   groupGranularity?: GroupGranularity
 }
@@ -68,7 +64,6 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
     filters,
     pageSize,
     properties,
-    propertiesByPageType,
     groupGranularity,
   } = args
 
@@ -77,17 +72,11 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
     const out: PageCondition[] = []
     for (const f of filters) {
       const def = properties?.find((p) => p.id === f.propertyId)
-      const conds = viewFilterToCondition(
-        f.propertyId,
-        f.operator,
-        f.value,
-        def,
-        propertiesByPageType
-      )
+      const conds = viewFilterToCondition(f.propertyId, f.operator, f.value, def)
       if (conds) out.push(...conds)
     }
     return out.length > 0 ? out : undefined
-  }, [filters, properties, propertiesByPageType])
+  }, [filters, properties])
 
   const order = useMemo<PageOrder | undefined>(() => {
     if (sortPropertyId == null) return undefined
@@ -103,8 +92,8 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
   const result = usePages(options)
 
   const filteredRows = useMemo(
-    () => applyClientViewFilters(result.rows, filters, properties, propertiesByPageType),
-    [result.rows, filters, properties, propertiesByPageType]
+    () => applyClientViewFilters(result.rows, filters, properties),
+    [result.rows, filters, properties]
   )
 
   const groups = useMemo(

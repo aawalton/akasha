@@ -65,11 +65,9 @@ export function ViewTabContent({
     isLoading,
     error,
     totalCount,
-    propertiesByPageType,
     pageTypeSlugById,
     allPages,
     relatedPages,
-    rowAggregates,
     pageHrefById,
     resolveRowSlug,
     pageRows,
@@ -204,7 +202,6 @@ export function ViewTabContent({
         pageTypeOptions={pageTypeOptions}
         isCrossType={viewConfig?.crossTypeSource != null}
         hasRowActions={viewConfig?.crossTypeSource != null}
-        propertiesByPageType={propertiesByPageType}
         onCreatePage={
           isLocked(effectiveConfig, "createPage")
             ? undefined
@@ -240,7 +237,6 @@ export function ViewTabContent({
             galleryCoverSourceId={galleryCoverSource}
             notesProperty={notesProperty}
             rowPageTypeSlug={rowPageTypeSlug}
-            rowAggregates={rowAggregates}
             pageTypeIconName={pageTypeIconName}
             pageHrefById={pageHrefById}
             pageTypeSlugById={pageTypeSlugById}
@@ -263,8 +259,7 @@ export function ViewTabContent({
         )}
         renderRow={(page) => {
           const { _id: id, ...rest } = page
-          const fill = rowAggregates.get(id)
-          const pageData = pageRowToPageDataJSON(fill ? { ...rest, ...fill } : rest)
+          const pageData = pageRowToPageDataJSON(rest)
           const viewRowHref = buildRowHref(rowPageTypeSlug, page)
           const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(id)
           return (

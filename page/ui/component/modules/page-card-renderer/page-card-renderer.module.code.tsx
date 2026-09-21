@@ -24,7 +24,6 @@ interface PageCardRendererProps {
   visibleProperties?: readonly string[]
   alwaysShowProperties?: readonly string[]
   rowPageTypeSlug?: PageTypeSlug
-  rowAggregates: ReadonlyMap<string, Record<string, number | null>>
   pageTypeIconName: string | null
   pageHrefById: (id: string, opts?: { targetPageTypeId?: string }) => string
   pageTypeSlugById?: ReadonlyMap<string, PageTypeSlug>
@@ -51,7 +50,6 @@ export function PageCardRenderer({
   visibleProperties,
   alwaysShowProperties,
   rowPageTypeSlug,
-  rowAggregates,
   pageTypeIconName,
   pageHrefById,
   pageTypeSlugById,
@@ -74,8 +72,7 @@ export function PageCardRenderer({
       ? resolveGalleryCoverUrl(page[galleryCoverSourceId])
       : null
   const { _id: id, ...rest } = page
-  const fill = rowAggregates.get(id)
-  const pageData = pageRowToPageDataJSON(fill ? { ...rest, ...fill } : rest)
+  const pageData = pageRowToPageDataJSON(rest)
   const notesSlot =
     notesProperty != null && rowPageTypeSlug != null ? (
       <PageCardNotes

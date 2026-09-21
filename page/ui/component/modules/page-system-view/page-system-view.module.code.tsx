@@ -56,7 +56,6 @@ export function PageSystemTabContent({
   onCreatePage,
   serverGrouped,
   isLoading = false,
-  propertiesByPageType,
   visibleProperties,
   hiddenPropertiesOrder,
   alwaysShowProperties,
@@ -130,7 +129,6 @@ export function PageSystemTabContent({
     properties,
     viewConfig,
     onViewConfigChange,
-    propertiesByPageType,
   })
 
   const onFiltersChange = useCallback(

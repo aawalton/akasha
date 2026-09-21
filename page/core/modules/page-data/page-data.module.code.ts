@@ -14,7 +14,6 @@ export type PropertyType =
   | "url"
   | "relation"
   | "multi-relation"
-  | "aggregate"
   | "json"
   | "rrule"
   | "progress"

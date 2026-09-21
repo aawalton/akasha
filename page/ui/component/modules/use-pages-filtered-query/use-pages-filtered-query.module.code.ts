@@ -1,7 +1,6 @@
 "use client"
 
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
-import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
@@ -16,7 +15,7 @@ import {
 } from "akasha/page/ui/component/modules/synthetic-config/synthetic-config.module.code.ts"
 import { useEffectiveListing } from "akasha/page/ui/component/modules/use-effective-listing/use-effective-listing.module.code.ts"
 import { buildPageTypeSlugMaps } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
-import { useViewRowAggregates } from "akasha/page/ui/component/view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
+
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { useGroupByPaginatedQuery } from "akasha/page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
 import {
@@ -57,20 +56,6 @@ export function usePagesFilteredQuery(args: {
     [rawProperties, lookupOptionList]
   )
 
-  const propertiesByPageType = useMemo<ReadonlyMap<string, readonly PropertyDefinition[]>>(() => {
-    const map = new Map<string, readonly PropertyDefinition[]>()
-    for (const pt of pageTypes) {
-      const { propertyDefinitions } = parsePageTypeData(pt.properties)
-      if (propertyDefinitions.length > 0) {
-        map.set(
-          pt._id,
-          propertyDefinitions.map((d) => resolveDefinitionOptions(d, lookupOptionList))
-        )
-      }
-    }
-    return map
-  }, [pageTypes, lookupOptionList])
-
   const { slugById: pageTypeSlugById } = useMemo(
     () => buildPageTypeSlugMaps(pageTypes),
     [pageTypes]
@@ -89,8 +74,8 @@ export function usePagesFilteredQuery(args: {
   )
 
   const baseConditions = useMemo(
-    () => buildBaseConditions({ baseFilters, properties, propertiesByPageType }),
-    [baseFilters, properties, propertiesByPageType]
+    () => buildBaseConditions({ baseFilters, properties }),
+    [baseFilters, properties]
   )
 
   const {
@@ -183,20 +168,9 @@ export function usePagesFilteredQuery(args: {
     pageTypeSlugById,
   })
 
-  const rowAggregates = useViewRowAggregates({
-    pages: allPages,
-    definitions: properties,
-    relatedPages,
-  })
-
   const pageRows = useMemo<PageRow[]>(
-    () =>
-      pages.map((p) => {
-        const fill = rowAggregates.get(p._id)
-        const props = fill === undefined ? p.properties : { ...p.properties, ...fill }
-        return { ...toPageDataRecord(props), _id: p._id }
-      }),
-    [pages, rowAggregates]
+    () => pages.map((p) => ({ ...toPageDataRecord(p.properties), _id: p._id })),
+    [pages]
   )
 
   const serverGrouped = useMemo<readonly ServerGroupedSection[] | undefined>(
@@ -227,7 +201,6 @@ export function usePagesFilteredQuery(args: {
     targetPageType,
     targetPageTypeId,
     properties,
-    propertiesByPageType,
     pageTypeSlugById,
     pageTypeName,
     baseFilters,
@@ -238,7 +211,6 @@ export function usePagesFilteredQuery(args: {
     totalCount,
     allPages,
     relatedPages,
-    rowAggregates,
     pageRows,
     serverGrouped,
     descendantUnasked,

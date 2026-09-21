@@ -27,8 +27,6 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"infrastructure/inference/generation/wan/modules/extend-graph/wan-extend-graph.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"page/access/modules/answer-write/answer-write.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"page/core/property-type/modules/aggregate-filter/aggregate-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"page/core/property-type/modules/aggregate/aggregate.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"page/core/property-type/modules/block-markers/block-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"page/core/property-type/modules/date-sentinels/date-sentinels.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"page/core/property-type/modules/instant/instant.module.code.ts"}

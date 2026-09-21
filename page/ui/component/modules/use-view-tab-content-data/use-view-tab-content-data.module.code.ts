@@ -21,7 +21,7 @@ import {
   resolveRowPageTypeSlug,
 } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
 import { selectViewQueryResult } from "akasha/page/ui/component/modules/view-tab-content-results/view-tab-content-results.module.code.ts"
-import { useViewRowAggregates } from "akasha/page/ui/component/view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
+
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { useGroupByPaginatedQuery } from "akasha/page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
 import { useRelatedPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
@@ -56,7 +56,6 @@ export interface ViewTabContentData {
   pageTypeSlugById: ReadonlyMap<string, PageTypeSlug>
   allPages: readonly PageWithProperties[]
   relatedPages: readonly PageWithProperties[]
-  rowAggregates: ReadonlyMap<string, Record<string, number | null>>
   pageHrefById: (id: string, opts?: { targetPageTypeId?: string }) => string
   resolveRowSlug: (id: string) => PageTypeSlug | undefined
   pageRows: readonly PageRow[]
@@ -260,12 +259,6 @@ export function useViewTabContentData({
     pageTypeSlugById,
   })
 
-  const rowAggregates = useViewRowAggregates({
-    pages: allPages,
-    definitions: properties,
-    relatedPages,
-  })
-
   const pageHrefById = useCallback(
     (id: string, opts?: { targetPageTypeId?: string }): string => {
       const match = pageById(allPages, id) ?? pageById(relatedPages, id)
@@ -293,13 +286,8 @@ export function useViewTabContentData({
   )
 
   const pageRows = useMemo<PageRow[]>(
-    () =>
-      pages.map((p) => {
-        const aggregate = rowAggregates.get(p._id)
-        const props = aggregate === undefined ? p.properties : { ...p.properties, ...aggregate }
-        return { ...toPageDataRecord(props), _id: p._id }
-      }),
-    [pages, rowAggregates]
+    () => pages.map((p) => ({ ...toPageDataRecord(p.properties), _id: p._id })),
+    [pages]
   )
 
   const serverGrouped = useMemo<readonly ServerGroupedSection[] | undefined>(
@@ -340,7 +328,6 @@ export function useViewTabContentData({
     pageTypeSlugById,
     allPages,
     relatedPages,
-    rowAggregates,
     pageHrefById,
     resolveRowSlug,
     pageRows,

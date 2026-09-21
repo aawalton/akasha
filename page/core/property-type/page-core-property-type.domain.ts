@@ -7,8 +7,6 @@ export const pageCorePropertyType = {
   definition: "what one kind of page property means",
   parts: [
     "module/action-button",
-    "module/aggregate",
-    "module/aggregate-filter",
     "module/block-markers",
     "module/block-selection",
     "module/block-shortcuts",
@@ -29,7 +27,6 @@ export const pageCorePropertyType = {
     "module/registry",
     "module/relation",
     "module/resolution-target-types",
-    "module/resolve-computed-type",
     "module/rich-document",
     "module/rich-document-ops",
     "module/rich-document-tree",

@@ -5,14 +5,10 @@ import type {
   PageTypePropertiesMap,
   PropertyDefinition,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import { computeAggregatesForPage } from "akasha/page/core/property-type/modules/aggregate/aggregate.module.code.ts"
+
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
-import {
-  toAggregateInputs,
-  toPageDataJSON,
-  toPageDataRecord,
-} from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
+import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import {
   DETAIL_EXCLUDED_IDS,
   extractPageTypeId,
@@ -125,11 +121,6 @@ export function usePageDefaultContent({
     }
     return map
   }, [pageTypes, lookupOptionList])
-  const aggregateInputs = useMemo(() => toAggregateInputs(relatedPages), [relatedPages])
-  const dataWithComputed = useMemo(() => {
-    const aggregates = computeAggregatesForPage(data, allDefinitions, aggregateInputs)
-    return toPageDataJSON({ ...toPageDataRecord(page?.properties), ...aggregates })
-  }, [page?.properties, data, allDefinitions, aggregateInputs])
 
   const setProperty = useSetPropertyOptimistic()
 
@@ -195,7 +186,6 @@ export function usePageDefaultContent({
     relatedPages,
     targetSlug,
     data,
-    dataWithComputed,
     coverUrl,
     handleCoverChange,
     displayIconName,

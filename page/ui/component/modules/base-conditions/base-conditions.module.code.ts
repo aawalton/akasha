@@ -1,7 +1,4 @@
-import type {
-  PageTypePropertiesMap,
-  PropertyDefinition,
-} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type {
   PageCondition,
   PageWhere,
@@ -12,9 +9,8 @@ import { viewFilterToCondition } from "akasha/page/ui/supabase/modules/view-filt
 export function buildBaseConditions(args: {
   baseFilters: readonly ViewFilter[]
   properties: readonly PropertyDefinition[]
-  propertiesByPageType: PageTypePropertiesMap
 }): PageWhere | undefined {
-  const { baseFilters, properties, propertiesByPageType } = args
+  const { baseFilters, properties } = args
   if (baseFilters.length === 0) return undefined
   const conditions: PageCondition[] = []
   for (const filter of baseFilters) {
@@ -23,8 +19,7 @@ export function buildBaseConditions(args: {
       filter.propertyId,
       filter.operator,
       filter.value,
-      definition,
-      propertiesByPageType
+      definition
     )
     if (translated) conditions.push(...translated)
   }

@@ -78,17 +78,11 @@ export function usePageViewQuery({
     const out: PageCondition[] = []
     for (const f of filterList) {
       const def = properties?.find((p) => p.id === f.propertyId)
-      const conds = viewFilterToCondition(
-        f.propertyId,
-        f.operator,
-        f.value,
-        def,
-        propertiesByPageType
-      )
+      const conds = viewFilterToCondition(f.propertyId, f.operator, f.value, def)
       if (conds) out.push(...conds)
     }
     return out.length > 0 ? out : undefined
-  }, [crossPredicate, viewConfig?.filters, properties, propertiesByPageType])
+  }, [crossPredicate, viewConfig?.filters, properties])
 
   const crossTypeDescriptor = useMemo<ShapeDescriptor | undefined>(() => {
     if (crossPredicate === undefined) return undefined
@@ -97,21 +91,11 @@ export function usePageViewQuery({
     }
   }, [crossPredicate])
 
-  const resolveKeys = useMemo<readonly string[] | undefined>(() => {
-    if (!properties || properties.length === 0) return undefined
-    const resolvableIds = properties.filter((p) => p.type === "aggregate").map((p) => p.id)
-    if (resolvableIds.length === 0) return undefined
-    const visible = viewConfig?.visible_properties
-    const filtered = visible ? resolvableIds.filter((id) => visible.includes(id)) : resolvableIds
-    return filtered.length > 0 ? filtered : undefined
-  }, [properties, viewConfig?.visible_properties])
-
   const result = useViewPagesSupabase({
     pageTypeId,
     pageTypeSlug,
     sorts,
     filters,
-    resolveKeys,
     properties,
     propertiesByPageType,
     viewId,
@@ -128,10 +112,9 @@ export function usePageViewQuery({
       applyClientViewFilters(
         result.rows,
         crossPredicate?.filters ?? viewConfig?.filters,
-        properties,
-        propertiesByPageType
+        properties
       ),
-    [result.rows, crossPredicate?.filters, viewConfig?.filters, properties, propertiesByPageType]
+    [result.rows, crossPredicate?.filters, viewConfig?.filters, properties]
   )
   const pages = useMemo(() => filteredRows.map((r) => toPageWithProperties(r)), [filteredRows])
   const totalCount = useMemo(

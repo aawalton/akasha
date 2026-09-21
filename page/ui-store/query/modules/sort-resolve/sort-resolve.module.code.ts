@@ -8,11 +8,7 @@ import {
   type PageDataJSON,
   type PropertyDefinition,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import {
-  type AggregateConfig,
-  type AggregateFunction,
-  computeAggregate,
-} from "akasha/page/core/property-type/modules/aggregate/aggregate.module.code.ts"
+
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   asPageRecord,
@@ -44,12 +40,9 @@ export type SortValue = number | string | boolean | null
 function asSortValue(value: unknown): SortValue {
   return value as SortValue
 }
-function asAggregateFunction(fn: string): AggregateFunction {
-  return fn as AggregateFunction
-}
 
 export interface KeyInfo {
-  readonly kind: "promoted" | "stored" | "aggregate" | "unknown"
+  readonly kind: "promoted" | "stored" | "unknown"
   readonly type?: string
 }
 
@@ -57,18 +50,7 @@ export interface ViewResolveCtx {
   readonly keyInfo: ReadonlyMap<string, KeyInfo>
   readonly defsById: ReadonlyMap<string, PropertyDefinition>
   readonly livePageById: ReadonlyMap<string, PageRow>
-  readonly allData: readonly { readonly id: string; readonly data: PageDataJSON }[]
 }
-
-const AGGREGATE_FUNCTIONS: ReadonlySet<string> = new Set([
-  "sum",
-  "count",
-  "avg",
-  "min",
-  "max",
-  "first",
-  "count_distinct",
-])
 
 export function pageDataOf(row: PageRow): PageDataJSON {
   const rec = asPageRecord(row)
@@ -90,7 +72,6 @@ export function classifyKey(
   if (isPromotedKey(key)) return { kind: "promoted" }
   const def = defsById.get(key)
   if (def === undefined) return { kind: "unknown" }
-  if (def.type === "aggregate") return { kind: "aggregate" }
   return { kind: "stored", type: def.type }
 }
 
@@ -134,34 +115,10 @@ function relationValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValu
   return asSortValue(raw)
 }
 
-function parseAggregateConfigLocal(raw: PropertyDefinition["config"]): AggregateConfig | null {
-  if (raw === undefined) return null
-  const rel = raw.relationPropertyId
-  const fn = raw.function
-  if (typeof rel !== "string") return null
-  if (typeof fn !== "string" || !AGGREGATE_FUNCTIONS.has(fn)) return null
-  const aggFn = asAggregateFunction(fn)
-  const tgt = raw.targetPropertyId
-  if (typeof tgt !== "string") {
-    if (fn === "count") return { relationPropertyId: rel, targetPropertyId: "", function: aggFn }
-    return null
-  }
-  return { relationPropertyId: rel, targetPropertyId: tgt, function: aggFn }
-}
-
-function aggregateValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValue {
-  const def = ctx.defsById.get(key)
-  const config = def === undefined ? null : parseAggregateConfigLocal(def.config)
-  if (config === null) return null
-  return computeAggregate(config, pageDataOf(row), ctx.allData)
-}
-
 function resolveSortValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValue {
   const info = ctx.keyInfo.get(key)
   if (info === undefined || info.kind === "promoted") return promotedValue(row, key)
   switch (info.kind) {
-    case "aggregate":
-      return aggregateValue(row, key, ctx)
     case "stored":
       if (info.type === "relation") return relationValue(row, key, ctx)
       if (info.type === "instant") return instantValue(row, key)

@@ -1,9 +1,7 @@
-import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import {
   asPageDataJSON,
   type PageDataJSON,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import type { AggregateInput } from "akasha/page/core/property-type/modules/aggregate/aggregate.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 
 export function toPageDataJSON(properties: Record<string, unknown> | undefined): PageDataJSON {
@@ -28,22 +26,4 @@ export function toPageDataRecord(properties: Record<string, unknown> | undefined
 
 export function pageRowToPageDataJSON(value: PageDataRecord): PageDataJSON {
   return asPageDataJSON(value)
-}
-
-function extractPageTypeId(v: unknown): string {
-  if (typeof v === "string") return v
-  if (isRecord(v) && typeof v.id === "string") return v.id
-  return ""
-}
-
-export function toAggregateInputs(
-  pages: readonly { _id: string; properties: Record<string, unknown> }[]
-): readonly AggregateInput[] {
-  return pages.map((p) => ({
-    id: p._id,
-    data: toPageDataJSON({
-      ...p.properties,
-      pageTypeId: extractPageTypeId(p.properties.pageTypeId),
-    }),
-  }))
 }

@@ -48,7 +48,6 @@ export function PageDefaultContent({
     relatedPages,
     targetSlug,
     data,
-    dataWithComputed,
     coverUrl,
     handleCoverChange,
     displayIconName,
@@ -104,7 +103,7 @@ export function PageDefaultContent({
               <ToggleSection label="Properties" defaultOpen>
                 <PageDetailProperties
                   definitions={propertyListDefs}
-                  data={dataWithComputed}
+                  data={data}
                   pageId={id}
                   pageTypeSlug={targetSlug ?? undefined}
                   onPropertyChange={handlePropertyChange}
@@ -134,15 +133,11 @@ export function PageDefaultContent({
                 })}
 
               {multiRelationDefs.map((def) => (
-                <ToggleSection
-                  key={def.id}
-                  label={def.title}
-                  hasContent={hasValue(dataWithComputed[def.id])}
-                >
+                <ToggleSection key={def.id} label={def.title} hasContent={hasValue(data[def.id])}>
                   <BadgeLayoutProvider truncate="fluid" popoverAlign="start" display={def.display}>
                     <MultiRelationPropertyBadge
                       property={def}
-                      value={dataWithComputed[def.id] ?? null}
+                      value={data[def.id] ?? null}
                       context="detail"
                       editable
                       onPropertyChange={handlePropertyChange}

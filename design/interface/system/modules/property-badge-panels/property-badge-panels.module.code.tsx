@@ -106,17 +106,6 @@ const NUMBER_SAMPLES: readonly BadgeSample[] = [
     value: 1240,
   },
   {
-    type: "aggregate",
-    property: {
-      id: "ds-property-aggregate",
-      title: "Total Weight",
-      type: "aggregate",
-      drawnBy: ["aggregate-property", "number-property", "page-property", "domain", "page"],
-      config: { format: "compact", function: "sum" },
-    },
-    value: 18450,
-  },
-  {
     type: "progress",
     property: {
       id: "ds-property-progress",

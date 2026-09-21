@@ -2,16 +2,12 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/access/modules/page-type-config/page-type-config.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/filter/modules/filter-to-condition/filter-to-condition.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/aggregate-filter/aggregate-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/aggregate/aggregate.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/multi-select-property/multi-select-property.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/number/number.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/progress/progress.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/registry/registry.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/resolution-target-types/resolution-target-types.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.test.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/rich-document/rich-document.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/select/select.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts"}
@@ -71,7 +67,6 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/use-page-calendar-state/use-page-calendar-state.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-hrefs/use-pages-filtered-hrefs.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/use-timeline-config/use-timeline-config.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
@@ -79,7 +74,6 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/component/view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/modules/action-verb-registry/action-verb-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"}

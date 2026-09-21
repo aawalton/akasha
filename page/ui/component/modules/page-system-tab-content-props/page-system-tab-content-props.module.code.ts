@@ -1,7 +1,4 @@
-import type {
-  PageTypePropertiesMap,
-  PropertyDefinition,
-} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type {
   ViewConfig,
   ViewFilter,
@@ -59,7 +56,6 @@ export interface PageSystemTabContentProps {
   onCreatePage?: (seed?: Record<string, string | number | boolean | null>) => void | Promise<void>
   serverGrouped?: readonly ServerGroupedSection[]
   isLoading?: boolean
-  propertiesByPageType?: PageTypePropertiesMap
   visibleProperties?: readonly string[]
   hiddenPropertiesOrder?: readonly string[]
   alwaysShowProperties?: readonly string[]
