@@ -327,18 +327,21 @@
     {
       "id": "damage-composition",
       "bands": [
+        "**Every derived stat is a mechanic this game names. Ask it; never work it out by hand.**",
         "```",
-        "HP    = VIT×8 + MIGHT×2",
-        "Stam  = VIT×4 + FIN×2",
-        "Focus = INT×4 + WILL×2",
-        "Init  = PER + FIN",
-        "physAtk = MIGHT×1.5 + FIN + weapon.atk",
-        "physDef = (VIT + FIN)/2 + armor.def",
-        "mentDef = WILL×1.5 + INT×0.5",
+        "HP      game-mechanic/hp-max",
+        "Stam    game-mechanic/stam-max",
+        "Focus   game-mechanic/focus-max",
+        "Init    game-mechanic/initiative",
+        "physAtk game-mechanic/phys-atk",
+        "physDef game-mechanic/phys-def",
+        "mentDef game-mechanic/ment-def",
+        "mentAtk game-mechanic/ment-atk   (mental attack power, when an enemy or PC attacks `ment`)",
         "```",
-        "Mental attack power (when an enemy/PC attacks `ment`): `INT×1.2 + WILL`."
+        "Each takes the sheet whole and answers one number: `akasha game settle --game game/the-tower --turn <n> --mechanic game-mechanic/phys-atk --reading '{\"held\":{\"might\":12,\"finesse\":9,\"weapon.atk\":4}}'`. A stat the sheet does not carry is refused rather than treated as zero, so a refusal means the reading is short a key.",
+        "The arithmetic each one does is in the code beside its page, and that code is the only place it is written. A formula copied into a doctrine or a sheet is a second place that can be wrong."
       ],
-      "title": "Damage composition (player-side derived stats)"
+      "title": "Derived stats — each is a mechanic, asked rather than computed"
     },
     {
       "id": "game:editor-roster",
