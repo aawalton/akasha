@@ -101,6 +101,7 @@ export const temperLibScrollableMenu = {
     "module/scrollable-menu-constants-combobox-callbacks",
     "module/scrollable-menu-casts-1c",
     "module/scrollable-menu-casts-2c",
+    "module/scrollable-menu-util-arrow-color",
   ],
   decisions: [
     {

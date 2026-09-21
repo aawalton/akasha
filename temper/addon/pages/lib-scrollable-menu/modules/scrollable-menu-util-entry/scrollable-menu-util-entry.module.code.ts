@@ -1,18 +1,12 @@
-import {
-  asControl,
-  asLsmCastComboBoxLikeUndefined,
-} from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
+import { asControl } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastGetDataSourceThisUnknownUnknown,
   asLsmCastGetNumSelectedEntriesThisUnknownNumber,
-  asLsmCastGetOptionsThisUnknownRecordStringUnknown,
 } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1c/scrollable-menu-casts-1c.module.code.ts"
 import {
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownUndefined,
-  asLsmCastRecordStringZoColorDef,
 } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastSetColorThisUnknownRNumberGNumberBNumberANumbe } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-2c/scrollable-menu-casts-2c.module.code.ts"
 import {
   asLsmCastThisVoidArgsUnknownUndefinedUndefined2,
   asLsmCastThisVoidAUnknownUnknown,
@@ -26,7 +20,6 @@ import {
   asLsmCastUnknownUndefined,
   asObject,
   asString,
-  asZoColorDef,
 } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 type LsmCastLocalTypeofRecursiveOverEntries = typeof recursiveOverEntries
@@ -52,10 +45,7 @@ function asLsmCastLocalTypeofRecursiveMultiSelectSubmenuOpeningContro(
   return value as LsmCastLocalTypeofRecursiveMultiSelectSubmenuOpeningContro
 }
 
-import {
-  constants,
-  getValueOrCallback,
-} from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
+import { getValueOrCallback } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
@@ -65,6 +55,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-inventory/eso-inventory.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import { subMenuArrowColor } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-arrow-color/scrollable-menu-util-arrow-color.module.code.ts"
 
 const libUtil = lib.Util
 
@@ -81,8 +72,6 @@ const ZO_ScrollList_RefreshVisible_ = asLsmCastThisVoidListControlDataToRefreshU
 )
 
 const TABLE_TYPE = "table"
-
-const colorConstants = asLsmCastRecordStringZoColorDef(constants.colors)
 
 const getDataSource = asLsmCastThisVoidDataOrControlUnknownRecordStringUnknow(libUtil.getDataSource)
 
@@ -349,43 +338,7 @@ recursiveMultiSelectSubmenuOpeningControlUpdate =
     libUtil.recursiveMultiSelectSubmenuOpeningControlUpdate
   )
 
-libUtil.subMenuArrowColor = function (
-  this: void,
-  control: Record<string, unknown>,
-  _data: unknown
-): undefined {
-  if (control.m_arrow === undefined) {
-    return
-  }
-  const comboBox = asLsmCastComboBoxLikeUndefined(control.m_owner)
-  const isMultiSelectionEnabled = comboBox?.m_enableMultiSelect || false
-  const isMultiSelectSubmenuEntrySelected =
-    (isMultiSelectionEnabled === true && control.isAnySubmenuEntrySelected) || false
-
-  const options =
-    (comboBox !== undefined &&
-      asLsmCastGetOptionsThisUnknownRecordStringUnknown(comboBox).GetOptions()) ||
-    undefined
-  const multiSelectSubmenuSelectedArrowColor =
-    (isMultiSelectSubmenuEntrySelected === true &&
-      options !== undefined &&
-      getValueOrCallback(options.multiSelectSubmenuSelectedArrowColor, options)) ||
-    colorConstants.DEFAULT_ARROW_COLOR
-  const submenuArrowColor =
-    (!isMultiSelectSubmenuEntrySelected &&
-      options !== undefined &&
-      getValueOrCallback(options.submenuArrowColor, options)) ||
-    colorConstants.DEFAULT_ARROW_COLOR
-
-  const newColor =
-    (isMultiSelectSubmenuEntrySelected === true && multiSelectSubmenuSelectedArrowColor) ||
-    (!isMultiSelectSubmenuEntrySelected && submenuArrowColor) ||
-    colorConstants.DEFAULT_ARROW_COLOR
-  if (newColor !== undefined) {
-    const [r, g, b, a] = asZoColorDef(newColor).UnpackRGBA()
-    asLsmCastSetColorThisUnknownRNumberGNumberBNumberANumbe(control.m_arrow).SetColor(r, g, b, a)
-  }
-}
+libUtil.subMenuArrowColor = subMenuArrowColor
 
 libUtil.getIsNew = function (
   this: void,

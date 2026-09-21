@@ -4289,6 +4289,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-main/scrollable-menu-main.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-public-api/scrollable-menu-public-api.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-submenu-class/scrollable-menu-submenu-class.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-arrow-color/scrollable-menu-util-arrow-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-data/scrollable-menu-util-data.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-entry-type/scrollable-menu-util-entry-type.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-entry/scrollable-menu-util-entry.module.ts"}

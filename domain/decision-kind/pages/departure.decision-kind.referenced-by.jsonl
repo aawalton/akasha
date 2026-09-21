@@ -4130,6 +4130,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-main/scrollable-menu-main.module.ts","id":"01a06275-c449-7ac7-bcea-a44c4d7ba068"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-public-api/scrollable-menu-public-api.module.ts","id":"01a06275-c449-763b-b921-cfa7dd2c3f9b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-submenu-class/scrollable-menu-submenu-class.module.ts","id":"01a06275-c449-78c6-b82b-ac1795e8c9dd"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-arrow-color/scrollable-menu-util-arrow-color.module.ts","id":"01a0c50c-bd87-7ae7-8703-f8f255e02fe4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-data/scrollable-menu-util-data.module.ts","id":"01a06275-c449-7ef3-b576-08766fcd81b5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-entry-type/scrollable-menu-util-entry-type.module.ts","id":"01a06275-c449-7779-ae6a-8ae87ffc8f8b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-entry/scrollable-menu-util-entry.module.ts","id":"01a06275-c449-773f-88d5-9e719f360ed7"}
