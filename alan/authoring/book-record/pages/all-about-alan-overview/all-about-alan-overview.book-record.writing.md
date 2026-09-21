@@ -2,7 +2,7 @@
 
 This is the orientation an `/abby` interviewer loads before the first question. Its job is narrow and specific: surface the **unusual, easy-to-miss things** about Alan — the places where a normal-person prior would mislead you — so you don't open cold and don't spend the session re-deriving the architecture.
 
-It is a distillation, not the corpus. Every section links to its canonical-home note in [`book-section/all-about-alan/notes`](book-section/all-about-alan/notes); go there for depth. Nothing here is a new claim — if a line isn't backed by a note, it doesn't belong in this file. This briefing is for the interviewer; the notes themselves are written for Future-Alan in his own voice.
+It is a distillation, not the corpus. Every section links to its canonical-home note in [`all-about-alan-topic/alan`](all-about-alan-topic/alan); go there for depth. Nothing here is a new claim — if a line isn't backed by a note, it doesn't belong in this file. This briefing is for the interviewer; the notes themselves are written for Future-Alan in his own voice.
 
 ## If you read nothing else
 
@@ -10,23 +10,23 @@ Alan's psychology is **architectural, not chosen and not trauma-response.** A si
 
 ## Current life-state
 
-Tight version; the full factual dossier (jurisdiction, household, assets, infrastructure) is [`book-section/all-about-alan/personal-context`](book-section/all-about-alan/personal-context).
+Tight version; the full factual dossier (jurisdiction, household, assets, infrastructure) is [`all-about-alan-topic/the-five-of-us`](all-about-alan-topic/the-five-of-us).
 
 - 40, retired. 16 months into an estimated 3-5 year recovery from severe autistic burnout.
 - Household of five, all AuDHD: wife Jenny (37), kids Lizzy (17), Joseph (14), Katara (11). Provo, Utah.
 
 ## The neurotype bedrock — one root, many inversions
 
-The load-bearing fact, and the one most people miss: most of Alan's coping, strengths, and constraints trace to **architecture**, not personality or choice. Start at [`book-section/all-about-alan/aphantasia-mechanism`](book-section/all-about-alan/aphantasia-mechanism) — it's the most-depended-on note in the corpus.
+The load-bearing fact, and the one most people miss: most of Alan's coping, strengths, and constraints trace to **architecture**, not personality or choice. Start at [`all-about-alan-topic/what-i-cannot-play-forward`](all-about-alan-topic/what-i-cannot-play-forward) — it's the most-depended-on note in the corpus.
 
 - **Total aphantasia.** No voluntary recall or imagination of *any* sensory or emotional content — not just images. The break is at Recall only; Perception and Encoding are intact (proof: he dreams with full senses and emotion). Feeling is encoded but cannot be read back while awake.
-- **A present-tense, stateless model.** One model of the world, present tense, continuously overwritten in place — no episodic store, no offline copy to run forward. The past survives only as compression folded into the model's structure. "Remembering" is a present-tense read of that compressed map, and it is **affectively flat** — remembered pain doesn't re-hurt, remembered joy doesn't re-warm. See [`book-section/all-about-alan/present-tense-model`](book-section/all-about-alan/present-tense-model).
+- **A present-tense, stateless model.** One model of the world, present tense, continuously overwritten in place — no episodic store, no offline copy to run forward. The past survives only as compression folded into the model's structure. "Remembering" is a present-tense read of that compressed map, and it is **affectively flat** — remembered pain doesn't re-hurt, remembered joy doesn't re-warm. See [`all-about-alan-topic/how-i-know-things`](all-about-alan-topic/how-i-know-things).
 - **The inversions that follow** (name them plainly; they run opposite to the intuitive picture):
   - *No forward simulator* → no pre-played dread to brake action → he is unusually decisive, and learns expensive limits only by hitting them.
   - *No episodic replay* → memory carries structure, no charge. This is not coldness.
   - *Statelessness* → external state is structural, not optional. He carries externally what others carry internally.
   - *Attachment is structurally impossible* — there is no affective store for a bond to accrue in. This is mechanism, **not a failure of caring** (load-bearing for the loneliness section below).
-- **Autism + ADHD.** Autism's central mechanism is nervous-system sensitivity plus non-habituation (things don't get quieter with exposure); ADHD's is executive dysfunction. AuDHD compounds both. See [`book-section/all-about-alan/autism-as-neurotype`](book-section/all-about-alan/autism-as-neurotype) and [`book-section/all-about-alan/adhd-as-neurotype`](book-section/all-about-alan/adhd-as-neurotype). He would not take a pill to remove the neurotype itself; he would trade the comorbidities — the [three-tier disability sort](book-section/all-about-alan/models-of-disability) (conceptual: refuse, the fix would end the person; physical: accept) applied to the pill question.
+- **Autism + ADHD.** Autism's central mechanism is nervous-system sensitivity plus non-habituation (things don't get quieter with exposure); ADHD's is executive dysfunction. AuDHD compounds both. See [`all-about-alan-topic/being-autistic`](all-about-alan-topic/being-autistic) and [`all-about-alan-topic/having-adhd`](all-about-alan-topic/having-adhd). He would not take a pill to remove the neurotype itself; he would trade the comorbidities — the [three-tier disability sort](all-about-alan-topic/the-three-kinds-of-trouble-it-causes) (conceptual: refuse, the fix would end the person; physical: accept) applied to the pill question.
 
 ## How he reads himself — the output-observer method
 
