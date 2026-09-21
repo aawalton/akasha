@@ -4,15 +4,14 @@ export const emeiTrustIssues = {
   id: "01a0676a-d72f-7021-8e72-6c790b4eadc3",
   type: "page-type/release",
   slug: "emei-trust-issues",
-  title: "Trust Issues",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.348,
-  ownProgress: 2.348,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2022-08-17",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiTrustIssues = {
       externalLink: "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk",
     },
   ],
+  title: "Trust Issues",
 } as const satisfies Release

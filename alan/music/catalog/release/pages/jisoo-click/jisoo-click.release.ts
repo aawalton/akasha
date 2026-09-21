@@ -4,7 +4,7 @@ export const jisooClick = {
   id: "01a0afa2-71ac-762b-a8f2-2093b3b9b8c4",
   type: "page-type/release",
   slug: "jisoo-click",
-  ownLength: 2.6515833333333334,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/jisoo"],
   position: 0,

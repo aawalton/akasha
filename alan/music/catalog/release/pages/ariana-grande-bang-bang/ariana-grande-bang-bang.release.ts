@@ -4,14 +4,13 @@ export const arianaGrandeBangBang = {
   id: "01a0676a-d718-7015-bffb-347ff1067304",
   type: "page-type/release",
   slug: "ariana-grande-bang-bang",
-  title: "Bang Bang",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 9.911767,
-  ownProgress: 9.911767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-07-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeBangBang = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Bang Bang",
 } as const satisfies Release

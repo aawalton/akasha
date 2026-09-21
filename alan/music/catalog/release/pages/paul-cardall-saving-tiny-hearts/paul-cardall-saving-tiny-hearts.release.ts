@@ -4,14 +4,13 @@ export const paulCardallSavingTinyHearts = {
   id: "01a0676a-d728-7046-8e35-ddda65c095ef",
   type: "page-type/release",
   slug: "paul-cardall-saving-tiny-hearts",
-  title: "Saving Tiny Hearts",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 53.186567,
-  ownProgress: 53.186567,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-11-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallSavingTinyHearts = {
       externalLink: "https://open.spotify.com/album/5rmINAZz8JiUVDSvktSK4v",
     },
   ],
+  title: "Saving Tiny Hearts",
 } as const satisfies Release

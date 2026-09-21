@@ -4,14 +4,13 @@ export const zaraLarssonLushLifeRetroVersion = {
   id: "01a0676a-d724-701c-8787-2dfcb718eb17",
   type: "page-type/release",
   slug: "zara-larsson-lush-life-retro-version",
-  title: "Lush Life (Retro Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.230883,
-  ownProgress: 3.230883,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-08-27",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonLushLifeRetroVersion = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Lush Life (Retro Version)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const paulCardallTheChristmasBox = {
   id: "01a0676a-d72c-703f-9e5c-527bfffa51b6",
   type: "page-type/release",
   slug: "paul-cardall-the-christmas-box",
-  title: "The Christmas Box",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 49.373267,
-  ownProgress: 49.373267,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "1997-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallTheChristmasBox = {
       externalLink: "https://open.spotify.com/album/13Gz376bMCKmwVUt3lzQHg",
     },
   ],
+  title: "The Christmas Box",
 } as const satisfies Release

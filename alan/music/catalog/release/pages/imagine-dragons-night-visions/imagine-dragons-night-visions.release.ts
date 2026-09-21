@@ -4,14 +4,13 @@ export const imagineDragonsNightVisions = {
   id: "01a0676a-d725-705b-8b5a-ef1b0c98b506",
   type: "page-type/release",
   slug: "imagine-dragons-night-visions",
-  title: "Night Visions",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 48.07795,
-  ownProgress: 48.07795,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-09-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsNightVisions = {
       externalLink: "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8",
     },
   ],
+  title: "Night Visions",
 } as const satisfies Release

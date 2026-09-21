@@ -4,14 +4,13 @@ export const zaraLarssonEndOfTime = {
   id: "01a0676a-d71d-700f-ba23-caf40fcda5ed",
   type: "page-type/release",
   slug: "zara-larsson-end-of-time",
-  title: "End Of Time",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.04155,
-  ownProgress: 3.04155,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-05-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonEndOfTime = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "End Of Time",
 } as const satisfies Release

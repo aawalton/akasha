@@ -4,14 +4,13 @@ export const thePianoGuys3Live = {
   id: "01a0676a-d723-703e-828b-c9533218b651",
   type: "page-type/release",
   slug: "the-piano-guys-3-live",
-  title: "Live!",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 55.288567,
-  ownProgress: 55.288567,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-11-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3Live = {
       externalLink: "https://open.spotify.com/album/6hoa5K74pqIBYkeaNUZKuL",
     },
   ],
+  title: "Live!",
 } as const satisfies Release

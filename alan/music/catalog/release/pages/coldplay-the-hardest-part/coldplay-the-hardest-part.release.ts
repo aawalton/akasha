@@ -4,14 +4,13 @@ export const coldplayTheHardestPart = {
   id: "01a0676a-d72d-701f-9844-1c30514b04fa",
   type: "page-type/release",
   slug: "coldplay-the-hardest-part",
-  title: "The Hardest Part",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 8.658433,
-  ownProgress: 8.658433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2006-04-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayTheHardestPart = {
       externalLink: "https://open.spotify.com/album/2dlacdThpQkKMsjHIomtu8",
     },
   ],
+  title: "The Hardest Part",
 } as const satisfies Release

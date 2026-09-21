@@ -4,7 +4,7 @@ export const alexandriaTheJesterAndTheQueen = {
   id: "01a0aa7a-82fb-714e-aa5e-526405dbb044",
   type: "page-type/release",
   slug: "alexandria-the-jester-and-the-queen",
-  ownLength: 2.81445,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alexandria"],
   position: 0,

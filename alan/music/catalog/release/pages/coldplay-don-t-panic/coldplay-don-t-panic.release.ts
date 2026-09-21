@@ -4,14 +4,13 @@ export const coldplayDonTPanic = {
   id: "01a0676a-d71c-7023-9c02-9f6e5b8f51f9",
   type: "page-type/release",
   slug: "coldplay-don-t-panic",
-  title: "Don't Panic",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 6.3922,
-  ownProgress: 6.3922,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2001-03-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayDonTPanic = {
       externalLink: "https://open.spotify.com/album/36Z4YfJRuw3r2VeHgNQbrF",
     },
   ],
+  title: "Don't Panic",
 } as const satisfies Release

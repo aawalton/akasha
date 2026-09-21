@@ -4,14 +4,13 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollens = {
   id: "01a0676a-d730-703f-9598-ee3dd9ded23f",
   type: "page-type/release",
   slug: "the-piano-guys-3-what-are-words-feat-peter-hollens-evynne-hollens",
-  title: "What Are Words (feat. Peter Hollens & Evynne Hollens)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 3.633333,
-  ownProgress: 3.633333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-05-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollens = {
       externalLink: "https://open.spotify.com/album/79KdrBJ8WgikPcPZH5KUNL",
     },
   ],
+  title: "What Are Words (feat. Peter Hollens & Evynne Hollens)",
 } as const satisfies Release

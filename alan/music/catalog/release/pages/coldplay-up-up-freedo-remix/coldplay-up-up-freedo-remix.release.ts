@@ -4,14 +4,13 @@ export const coldplayUpUpFreedoRemix = {
   id: "01a0676a-d72f-7056-9e81-190e97c77ef8",
   type: "page-type/release",
   slug: "coldplay-up-up-freedo-remix",
-  title: "Up&Up (Freedo Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.5049,
-  ownProgress: 3.5049,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-09-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayUpUpFreedoRemix = {
       externalLink: "https://open.spotify.com/album/46ElgN92j4wktUnUkxUFKR",
     },
   ],
+  title: "Up&Up (Freedo Remix)",
 } as const satisfies Release

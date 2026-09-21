@@ -4,7 +4,7 @@ export const auroraInAMinuteLiveFromTheStudioVersion = {
   id: "01a0b637-e93c-7c89-bd7d-e1dfb894c579",
   type: "page-type/release",
   slug: "aurora-in-a-minute-live-from-the-studio-version",
-  ownLength: 10.038516666666666,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,

@@ -4,14 +4,13 @@ export const sabrinaCarpenterOnMyWay = {
   id: "01a0676a-d726-7024-b45e-aed8b7d7c1d2",
   type: "page-type/release",
   slug: "sabrina-carpenter-on-my-way",
-  title: "On My Way",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.22995,
-  ownProgress: 3.22995,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-03-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterOnMyWay = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "On My Way",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const zaraLarssonUncover = {
   id: "01a0676a-d72f-7031-b5de-b97eab3f250d",
   type: "page-type/release",
   slug: "zara-larsson-uncover",
-  title: "Uncover",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 24.0787,
-  ownProgress: 24.0787,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonUncover = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Uncover",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSong = {
   id: "01a0676a-d730-7029-80e7-356df3ddfe7d",
   type: "page-type/release",
   slug: "vinny-marchi-we-are-fucked-unmotivational-song",
-  title: "We Are Fucked (unmotivational song)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.8,
-  ownProgress: 2.8,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2025-05-23",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSong = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "We Are Fucked (unmotivational song)",
 } as const satisfies Release

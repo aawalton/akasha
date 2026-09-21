@@ -4,14 +4,13 @@ export const arianaGrandeSupernatural = {
   id: "01a0676a-d72a-7049-9895-fbb43ad704e1",
   type: "page-type/release",
   slug: "ariana-grande-supernatural",
-  title: "supernatural",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 13.6183,
-  ownProgress: 13.6183,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-09-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeSupernatural = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "supernatural",
 } as const satisfies Release

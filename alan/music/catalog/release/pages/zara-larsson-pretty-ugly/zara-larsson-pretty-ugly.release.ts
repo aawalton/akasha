@@ -4,14 +4,13 @@ export const zaraLarssonPrettyUgly = {
   id: "01a0676a-d727-701b-a6f0-79a5a057d5e0",
   type: "page-type/release",
   slug: "zara-larsson-pretty-ugly",
-  title: "Pretty Ugly",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.644933,
-  ownProgress: 2.644933,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-04-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonPrettyUgly = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Pretty Ugly",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const auroraSofia = {
   id: "01a0676a-d729-7049-b745-17ff3a6278e0",
   type: "page-type/release",
   slug: "aurora-sofia",
-  title: "Sofia",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 11.233267,
-  ownProgress: 11.233267,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-06-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraSofia = {
       externalLink: "https://open.spotify.com/album/3nRt1BK66SS8O3nCvfhqm1",
     },
   ],
+  title: "Sofia",
 } as const satisfies Release

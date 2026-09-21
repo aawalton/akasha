@@ -4,15 +4,14 @@ export const vinnyMarchiCaptainPlatonic = {
   id: "01a0676a-d719-7061-99f3-8359ecfd8e7c",
   type: "page-type/release",
   slug: "vinny-marchi-captain-platonic",
-  title: "Captain Platonic",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.0246,
-  ownProgress: 2.0246,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2024-04-26",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiCaptainPlatonic = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Captain Platonic",
 } as const satisfies Release

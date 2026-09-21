@@ -4,14 +4,13 @@ export const zaraLarssonHonorTheLight = {
   id: "01a0676a-d720-705a-84ac-5bce400b7c2b",
   type: "page-type/release",
   slug: "zara-larsson-honor-the-light",
-  title: "Honor The Light",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 15.716617,
-  ownProgress: 15.716617,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-12-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonHonorTheLight = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Honor The Light",
 } as const satisfies Release

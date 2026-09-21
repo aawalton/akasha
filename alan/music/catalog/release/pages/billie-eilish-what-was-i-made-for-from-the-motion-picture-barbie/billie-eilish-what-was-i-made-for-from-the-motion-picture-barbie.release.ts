@@ -4,15 +4,14 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
   id: "01a0676a-d730-704c-a08d-ec15452dcaf6",
   type: "page-type/release",
   slug: "billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie",
-  title: 'What Was I Made For? [From The Motion Picture "Barbie"]',
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 3.70615,
-  ownProgress: 3.70615,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2023-07-13",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
       externalLink: "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd",
     },
   ],
+  title: 'What Was I Made For? [From The Motion Picture "Barbie"]',
 } as const satisfies Release

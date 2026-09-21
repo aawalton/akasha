@@ -4,14 +4,13 @@ export const auroraASoulWithNoKingRemixFeatNature = {
   id: "01a0676a-d715-7043-b6de-7f60fd5ff1a3",
   type: "page-type/release",
   slug: "aurora-a-soul-with-no-king-remix-feat-nature",
-  title: "A Soul With No King - Remix (feat. NATURE)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 5.248883,
-  ownProgress: 5.248883,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-04-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraASoulWithNoKingRemixFeatNature = {
       externalLink: "https://open.spotify.com/album/4yXbg9cdraRfkITzuRQwrU",
     },
   ],
+  title: "A Soul With No King - Remix (feat. NATURE)",
 } as const satisfies Release

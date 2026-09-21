@@ -4,14 +4,13 @@ export const paulCardallWhereCanITurnForPeace = {
   id: "01a0676a-d731-7007-92af-518692603e16",
   type: "page-type/release",
   slug: "paul-cardall-where-can-i-turn-for-peace",
-  title: "Where Can I Turn for Peace?",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 3.916667,
-  ownProgress: 3.916667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-06-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallWhereCanITurnForPeace = {
       externalLink: "https://open.spotify.com/album/6bqJzuXO1nQtmzJIQzDtXt",
     },
   ],
+  title: "Where Can I Turn for Peace?",
 } as const satisfies Release

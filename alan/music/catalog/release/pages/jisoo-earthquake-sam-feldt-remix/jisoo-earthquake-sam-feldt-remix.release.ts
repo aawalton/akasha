@@ -4,15 +4,14 @@ export const jisooEarthquakeSamFeldtRemix = {
   id: "01a0676a-d71c-704a-a17a-0ef37ee74a53",
   type: "page-type/release",
   slug: "jisoo-earthquake-sam-feldt-remix",
-  title: "earthquake (Sam Feldt remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jisoo"],
   position: 0,
-  ownLength: 2.484833,
-  ownProgress: 2.484833,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2025-03-14",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const jisooEarthquakeSamFeldtRemix = {
       lastSyncedAt: "2025-11-24",
     },
   ],
+  title: "earthquake (Sam Feldt remix)",
 } as const satisfies Release

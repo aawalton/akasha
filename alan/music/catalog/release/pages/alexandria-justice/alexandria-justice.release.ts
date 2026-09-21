@@ -4,7 +4,7 @@ export const alexandriaJustice = {
   id: "01a0aa7a-83a7-7e32-a11e-25fc19ef9472",
   type: "page-type/release",
   slug: "alexandria-justice",
-  ownLength: 3.2228833333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alexandria"],
   position: 0,

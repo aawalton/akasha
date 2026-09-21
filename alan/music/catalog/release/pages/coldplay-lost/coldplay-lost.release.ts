@@ -4,14 +4,13 @@ export const coldplayLost = {
   id: "01a0676a-d723-7067-8df1-b48a6ab724c5",
   type: "page-type/release",
   slug: "coldplay-lost",
-  title: "Lost!",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 15.829683,
-  ownProgress: 15.829683,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2008-11-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayLost = {
       externalLink: "https://open.spotify.com/album/3J6zaHMhIAWJtxhWpOdLBZ",
     },
   ],
+  title: "Lost!",
 } as const satisfies Release

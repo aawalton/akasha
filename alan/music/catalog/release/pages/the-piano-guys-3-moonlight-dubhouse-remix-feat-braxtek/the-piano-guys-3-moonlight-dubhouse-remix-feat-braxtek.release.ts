@@ -4,14 +4,13 @@ export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtek = {
   id: "01a0676a-d724-7085-ac9c-8275c351fd6b",
   type: "page-type/release",
   slug: "the-piano-guys-3-moonlight-dubhouse-remix-feat-braxtek",
-  title: "Moonlight (Dubhouse Remix) (feat. Braxtek)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 4.7717,
-  ownProgress: 4.7717,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-03-05",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtek = {
       externalLink: "https://open.spotify.com/album/6Bt10tFZyIkjWebcrReBMC",
     },
   ],
+  title: "Moonlight (Dubhouse Remix) (feat. Braxtek)",
 } as const satisfies Release

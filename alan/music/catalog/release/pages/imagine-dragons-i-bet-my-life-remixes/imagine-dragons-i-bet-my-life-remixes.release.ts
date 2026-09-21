@@ -4,14 +4,13 @@ export const imagineDragonsIBetMyLifeRemixes = {
   id: "01a0676a-d721-7002-8ee7-895ee1ccda29",
   type: "page-type/release",
   slug: "imagine-dragons-i-bet-my-life-remixes",
-  title: "I Bet My Life (Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 16.067767,
-  ownProgress: 16.067767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-01-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsIBetMyLifeRemixes = {
       externalLink: "https://open.spotify.com/album/6VTwHlsilffsneBm3LbZef",
     },
   ],
+  title: "I Bet My Life (Remixes)",
 } as const satisfies Release

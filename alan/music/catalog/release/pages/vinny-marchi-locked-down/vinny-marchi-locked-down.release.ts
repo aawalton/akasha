@@ -4,14 +4,13 @@ export const vinnyMarchiLockedDown = {
   id: "01a0676a-d723-705f-9e67-db299881a20c",
   type: "page-type/release",
   slug: "vinny-marchi-locked-down",
-  title: "LOCKED DOWN",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.38645,
-  ownProgress: 2.38645,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-05-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiLockedDown = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "LOCKED DOWN",
 } as const satisfies Release

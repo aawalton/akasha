@@ -4,14 +4,13 @@ export const thePianoGuys3Limitless = {
   id: "01a0676a-d723-7035-a9f0-56e149ebab91",
   type: "page-type/release",
   slug: "the-piano-guys-3-limitless",
-  title: "Limitless",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 55.02105,
-  ownProgress: 55.02105,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-11-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3Limitless = {
       externalLink: "https://open.spotify.com/album/4PPZ216h9xlTOsjXPUMlPw",
     },
   ],
+  title: "Limitless",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const emeiThatGirl = {
   id: "01a0676a-d72c-7015-99cd-6a56b2ce6ea9",
   type: "page-type/release",
   slug: "emei-that-girl",
-  title: "That Girl",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.340433,
-  ownProgress: 2.340433,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2022-07-13",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiThatGirl = {
       externalLink: "https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN",
     },
   ],
+  title: "That Girl",
 } as const satisfies Release

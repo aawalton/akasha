@@ -4,7 +4,7 @@ export const auroraWorldOfWarcraftAPlaceToCallHome = {
   id: "01a0b637-eacb-732f-bff0-3f8f64cf4c35",
   type: "page-type/release",
   slug: "aurora-world-of-warcraft-a-place-to-call-home",
-  ownLength: 2.1996333333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,

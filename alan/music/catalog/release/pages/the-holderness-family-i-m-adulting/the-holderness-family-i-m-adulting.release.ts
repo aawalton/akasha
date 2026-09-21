@@ -4,14 +4,13 @@ export const theHoldernessFamilyIMAdulting = {
   id: "01a0676a-d721-702f-baaa-c0030e0ded41",
   type: "page-type/release",
   slug: "the-holderness-family-i-m-adulting",
-  title: "I'm Adulting",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-holderness-family"],
   position: 0,
-  ownLength: 2.700617,
-  ownProgress: 2.700617,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-09-29",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const theHoldernessFamilyIMAdulting = {
       lastSyncedAt: "2025-11-27",
     },
   ],
+  title: "I'm Adulting",
 } as const satisfies Release

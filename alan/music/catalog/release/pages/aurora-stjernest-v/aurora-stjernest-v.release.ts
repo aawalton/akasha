@@ -4,14 +4,13 @@ export const auroraStjernestV = {
   id: "01a0676a-d72a-7020-9221-3c0ef8fcf2b4",
   type: "page-type/release",
   slug: "aurora-stjernest-v",
-  title: "Stjernestøv",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.30075,
-  ownProgress: 3.30075,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-11-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraStjernestV = {
       externalLink: "https://open.spotify.com/album/51g1ZXsMZYm2u63xiBJhc8",
     },
   ],
+  title: "Stjernestøv",
 } as const satisfies Release

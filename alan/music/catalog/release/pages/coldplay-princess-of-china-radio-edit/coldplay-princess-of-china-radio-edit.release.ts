@@ -4,14 +4,13 @@ export const coldplayPrincessOfChinaRadioEdit = {
   id: "01a0676a-d727-7020-a5f3-65841e2a3164",
   type: "page-type/release",
   slug: "coldplay-princess-of-china-radio-edit",
-  title: "Princess of China [Radio Edit]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.62625,
-  ownProgress: 3.62625,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-04-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayPrincessOfChinaRadioEdit = {
       externalLink: "https://open.spotify.com/album/5O8q5vQVJIaCuDpC01AtaP",
     },
   ],
+  title: "Princess of China [Radio Edit]",
 } as const satisfies Release

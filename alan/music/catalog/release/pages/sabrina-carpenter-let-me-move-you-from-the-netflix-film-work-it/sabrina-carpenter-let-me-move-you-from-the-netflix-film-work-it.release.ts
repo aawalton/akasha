@@ -4,14 +4,13 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkIt = {
   id: "01a0676a-d723-700e-91de-2821b4e3cb47",
   type: "page-type/release",
   slug: "sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it",
-  title: "Let Me Move You (From the Netflix film Work It)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 2.451167,
-  ownProgress: 2.451167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-07-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkIt = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Let Me Move You (From the Netflix film Work It)",
 } as const satisfies Release

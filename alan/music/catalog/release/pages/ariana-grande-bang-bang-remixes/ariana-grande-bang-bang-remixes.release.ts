@@ -4,14 +4,13 @@ export const arianaGrandeBangBangRemixes = {
   id: "01a0676a-d718-7016-b00d-a43928116d47",
   type: "page-type/release",
   slug: "ariana-grande-bang-bang-remixes",
-  title: "Bang Bang (Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 17.945533,
-  ownProgress: 17.945533,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-09-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeBangBangRemixes = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Bang Bang (Remixes)",
 } as const satisfies Release

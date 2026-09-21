@@ -4,14 +4,13 @@ export const imagineDragonsDemons = {
   id: "01a0676a-d71c-7009-92ef-e7407bcd7521",
   type: "page-type/release",
   slug: "imagine-dragons-demons",
-  title: "Demons",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 9.7402,
-  ownProgress: 9.7402,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2013-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsDemons = {
       externalLink: "https://open.spotify.com/album/3nfXIZGZlIgaLRx52fABmG",
     },
   ],
+  title: "Demons",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const alexandriaLust = {
   id: "01a0676a-d724-701d-8136-dd7ec11ba1b2",
   type: "page-type/release",
   slug: "alexandria-lust",
-  title: "Lust",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/alexandria"],
   position: 0,
-  ownLength: 1.921567,
-  ownProgress: 1.921567,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2025-10-14",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const alexandriaLust = {
       lastSyncedAt: "2025-10-18",
     },
   ],
+  title: "Lust",
 } as const satisfies Release

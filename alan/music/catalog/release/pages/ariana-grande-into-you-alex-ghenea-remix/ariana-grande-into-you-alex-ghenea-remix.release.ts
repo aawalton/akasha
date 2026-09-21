@@ -4,14 +4,13 @@ export const arianaGrandeIntoYouAlexGheneaRemix = {
   id: "01a0676a-d721-707c-9454-ea1db962075a",
   type: "page-type/release",
   slug: "ariana-grande-into-you-alex-ghenea-remix",
-  title: "Into You (Alex Ghenea Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.636,
-  ownProgress: 3.636,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-08-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeIntoYouAlexGheneaRemix = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Into You (Alex Ghenea Remix)",
 } as const satisfies Release

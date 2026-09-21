@@ -4,7 +4,7 @@ export const sylviaDaleyMyOwnRules = {
   id: "01a0a6c3-6bec-761b-8a87-895cd718779c",
   type: "page-type/release",
   slug: "sylvia-daley-my-own-rules",
-  ownLength: 2.5697833333333335,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sylvia-daley"],
   position: 0,

@@ -4,7 +4,7 @@ export const thePianoGuysRelaxingPiano = {
   id: "01a0afa1-ca4b-7cd9-ab43-fabfcdce9d9d",
   type: "page-type/release",
   slug: "the-piano-guys-relaxing-piano",
-  ownLength: 61.637766666666664,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,

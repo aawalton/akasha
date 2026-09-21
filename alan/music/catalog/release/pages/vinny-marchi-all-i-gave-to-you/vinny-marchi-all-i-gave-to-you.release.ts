@@ -4,14 +4,13 @@ export const vinnyMarchiAllIGaveToYou = {
   id: "01a0676a-d716-701a-8f65-5a1a74d04e70",
   type: "page-type/release",
   slug: "vinny-marchi-all-i-gave-to-you",
-  title: "all i gave to you",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.426867,
-  ownProgress: 3.426867,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-12-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiAllIGaveToYou = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "all i gave to you",
 } as const satisfies Release

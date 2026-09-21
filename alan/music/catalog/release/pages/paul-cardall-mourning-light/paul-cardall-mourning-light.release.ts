@@ -4,14 +4,13 @@ export const paulCardallMourningLight = {
   id: "01a0676a-d725-700d-a2bd-6d1994e027b3",
   type: "page-type/release",
   slug: "paul-cardall-mourning-light",
-  title: "Mourning Light",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 3.85,
-  ownProgress: 3.85,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-07-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallMourningLight = {
       externalLink: "https://open.spotify.com/album/7373Owl7OvEKdntWLuSkJL",
     },
   ],
+  title: "Mourning Light",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const sabrinaCarpenterFeatherSpedUp = {
   id: "01a0676a-d71d-706d-a97a-fe3bfff6b0e2",
   type: "page-type/release",
   slug: "sabrina-carpenter-feather-sped-up",
-  title: "Feather (Sped Up)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 5.643983,
-  ownProgress: 5.643983,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-08-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterFeatherSpedUp = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Feather (Sped Up)",
 } as const satisfies Release

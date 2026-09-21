@@ -4,14 +4,13 @@ export const auroraAnimalSoul = {
   id: "01a0676a-d717-7020-839e-1331ea555a1e",
   type: "page-type/release",
   slug: "aurora-animal-soul",
-  title: "Animal Soul",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.036667,
-  ownProgress: 3.036667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-05-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraAnimalSoul = {
       externalLink: "https://open.spotify.com/album/0uf9rINfXEDXVkgF2LjNDj",
     },
   ],
+  title: "Animal Soul",
 } as const satisfies Release

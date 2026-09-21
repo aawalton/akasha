@@ -4,14 +4,13 @@ export const sabrinaCarpenterSignOfTheTimes = {
   id: "01a0676a-d729-7006-9748-1abdf46cd876",
   type: "page-type/release",
   slug: "sabrina-carpenter-sign-of-the-times",
-  title: "Sign of the Times",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 4.22115,
-  ownProgress: 4.22115,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-06-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterSignOfTheTimes = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Sign of the Times",
 } as const satisfies Release

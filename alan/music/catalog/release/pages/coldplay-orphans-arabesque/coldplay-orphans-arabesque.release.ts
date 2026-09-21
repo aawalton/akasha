@@ -4,14 +4,13 @@ export const coldplayOrphansArabesque = {
   id: "01a0676a-d726-704d-8d82-9deea1d89de8",
   type: "page-type/release",
   slug: "coldplay-orphans-arabesque",
-  title: "Orphans / Arabesque",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 8.96355,
-  ownProgress: 8.96355,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-10-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayOrphansArabesque = {
       externalLink: "https://open.spotify.com/album/1SnoyXTgl1jmhfmPwpKDCI",
     },
   ],
+  title: "Orphans / Arabesque",
 } as const satisfies Release

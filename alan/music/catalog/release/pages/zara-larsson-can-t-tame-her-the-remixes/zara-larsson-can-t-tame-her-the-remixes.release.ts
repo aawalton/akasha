@@ -4,14 +4,13 @@ export const zaraLarssonCanTTameHerTheRemixes = {
   id: "01a0676a-d719-705c-b3f2-8a6fc217928c",
   type: "page-type/release",
   slug: "zara-larsson-can-t-tame-her-the-remixes",
-  title: "Can't Tame Her (The Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 15.757217,
-  ownProgress: 15.757217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-04-08",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonCanTTameHerTheRemixes = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Can't Tame Her (The Remixes)",
 } as const satisfies Release

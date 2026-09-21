@@ -4,15 +4,14 @@ export const vinnyMarchiAtmosphere = {
   id: "01a0676a-d717-703c-9932-4307a58abe3d",
   type: "page-type/release",
   slug: "vinny-marchi-atmosphere",
-  title: "Atmosphere",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.415183,
-  ownProgress: 3.415183,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2023-08-04",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiAtmosphere = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Atmosphere",
 } as const satisfies Release

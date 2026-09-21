@@ -4,14 +4,13 @@ export const coldplayProspektSMarch = {
   id: "01a0676a-d727-7028-bb81-89e5bde8c1fc",
   type: "page-type/release",
   slug: "coldplay-prospekt-s-march",
-  title: "Prospekt's March",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 27.4339,
-  ownProgress: 27.4339,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2008-06-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayProspektSMarch = {
       externalLink: "https://open.spotify.com/album/0PpuVbbyLfgq8HrESvt2d4",
     },
   ],
+  title: "Prospekt's March",
 } as const satisfies Release

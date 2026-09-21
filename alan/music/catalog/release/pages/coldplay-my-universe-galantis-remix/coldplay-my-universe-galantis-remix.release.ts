@@ -4,14 +4,13 @@ export const coldplayMyUniverseGalantisRemix = {
   id: "01a0676a-d725-703a-970e-b591f48bcbd3",
   type: "page-type/release",
   slug: "coldplay-my-universe-galantis-remix",
-  title: "My Universe (Galantis Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.748467,
-  ownProgress: 3.748467,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-10-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayMyUniverseGalantisRemix = {
       externalLink: "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP",
     },
   ],
+  title: "My Universe (Galantis Remix)",
 } as const satisfies Release

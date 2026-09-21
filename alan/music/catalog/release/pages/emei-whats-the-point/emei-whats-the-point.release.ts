@@ -4,7 +4,7 @@ export const emeiWhatsThePoint = {
   id: "01a0c43e-714f-70d1-8c35-ad6a2bffb43e",
   type: "page-type/release",
   slug: "emei-whats-the-point",
-  ownLength: 5.809033333333334,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,

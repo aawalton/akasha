@@ -4,14 +4,13 @@ export const paulCardallLive = {
   id: "01a0676a-d723-703c-81fe-1c06b72b3ca3",
   type: "page-type/release",
   slug: "paul-cardall-live",
-  title: "Live",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 46.08545,
-  ownProgress: 46.08545,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2004-05-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallLive = {
       externalLink: "https://open.spotify.com/album/2fnSyOTSrgEmbbI9mxNgsD",
     },
   ],
+  title: "Live",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const celticWoman2Lullaby = {
   id: "01a0676a-d724-7012-9607-649d6d7340c8",
   type: "page-type/release",
   slug: "celtic-woman-2-lullaby",
-  title: "Lullaby",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 29.583717,
-  ownProgress: 29.583717,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2011-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2Lullaby = {
       externalLink: "https://open.spotify.com/album/7pljjUZMChTDluIQVbdIXL",
     },
   ],
+  title: "Lullaby",
 } as const satisfies Release

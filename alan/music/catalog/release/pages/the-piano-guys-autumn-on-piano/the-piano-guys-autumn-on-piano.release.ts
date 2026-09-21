@@ -4,7 +4,7 @@ export const thePianoGuysAutumnOnPiano = {
   id: "01a0afa1-bf23-71ad-a3c9-971537b1d134",
   type: "page-type/release",
   slug: "the-piano-guys-autumn-on-piano",
-  ownLength: 46.56445,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,

@@ -4,14 +4,13 @@ export const sabrinaCarpenterChristmasTheWholeYearRound = {
   id: "01a0676a-d71a-7042-aadf-c889096fd536",
   type: "page-type/release",
   slug: "sabrina-carpenter-christmas-the-whole-year-round",
-  title: "Christmas the Whole Year Round",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 2.990433,
-  ownProgress: 2.990433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterChristmasTheWholeYearRound = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Christmas the Whole Year Round",
 } as const satisfies Release

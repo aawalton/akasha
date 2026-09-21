@@ -4,7 +4,7 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersion = {
   id: "01a0b111-186f-7b6d-b4a3-3b71ca85998b",
   type: "page-type/release",
   slug: "sabrina-carpenter-mans-best-friend-bonus-track-version",
-  ownLength: 42.2882,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,

@@ -4,14 +4,13 @@ export const auroraHalfTheWorldAway = {
   id: "01a0676a-d71f-7037-8051-36a97a55e022",
   type: "page-type/release",
   slug: "aurora-half-the-world-away",
-  title: "Half the World Away",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.302217,
-  ownProgress: 3.302217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-07-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraHalfTheWorldAway = {
       externalLink: "https://open.spotify.com/album/0oqYmoUfMV93LzLxIzN3IF",
     },
   ],
+  title: "Half the World Away",
 } as const satisfies Release

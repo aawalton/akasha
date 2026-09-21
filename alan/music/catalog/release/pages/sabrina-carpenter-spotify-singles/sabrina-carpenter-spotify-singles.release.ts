@@ -4,14 +4,13 @@ export const sabrinaCarpenterSpotifySingles = {
   id: "01a0676a-d72a-7005-abe9-b96f1df8dd60",
   type: "page-type/release",
   slug: "sabrina-carpenter-spotify-singles",
-  title: "Spotify Singles",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 6.984483,
-  ownProgress: 6.984483,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-10-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterSpotifySingles = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Spotify Singles",
 } as const satisfies Release

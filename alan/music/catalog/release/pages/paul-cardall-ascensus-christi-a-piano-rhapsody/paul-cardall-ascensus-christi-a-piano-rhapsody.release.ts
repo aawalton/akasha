@@ -4,14 +4,13 @@ export const paulCardallAscensusChristiAPianoRhapsody = {
   id: "01a0676a-d717-7037-afe8-b19dad66132a",
   type: "page-type/release",
   slug: "paul-cardall-ascensus-christi-a-piano-rhapsody",
-  title: "Ascensus Christi: A Piano Rhapsody",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 5.210733,
-  ownProgress: 5.210733,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-04-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallAscensusChristiAPianoRhapsody = {
       externalLink: "https://open.spotify.com/album/11WI4gYV1kTzrr6SGil1gj",
     },
   ],
+  title: "Ascensus Christi: A Piano Rhapsody",
 } as const satisfies Release

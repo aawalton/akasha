@@ -4,15 +4,14 @@ export const vinnyMarchiPoserRemastered = {
   id: "01a0676a-d727-700a-a528-1238f81be268",
   type: "page-type/release",
   slug: "vinny-marchi-poser-remastered",
-  title: "POSER (remastered)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 14.244317,
-  ownProgress: 14.244317,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2023-02-06",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiPoserRemastered = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "POSER (remastered)",
 } as const satisfies Release

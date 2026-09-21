@@ -4,7 +4,7 @@ export const auroraSomewhereElse = {
   id: "01a0b637-eb1f-77fb-a768-539cfdc9ca4b",
   type: "page-type/release",
   slug: "aurora-somewhere-else",
-  ownLength: 4.18955,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,

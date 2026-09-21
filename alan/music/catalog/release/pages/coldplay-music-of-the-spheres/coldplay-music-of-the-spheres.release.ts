@@ -4,14 +4,13 @@ export const coldplayMusicOfTheSpheres = {
   id: "01a0676a-d725-701d-84b5-efcebbf88ce0",
   type: "page-type/release",
   slug: "coldplay-music-of-the-spheres",
-  title: "Music Of The Spheres",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 41.843433,
-  ownProgress: 41.843433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-10-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayMusicOfTheSpheres = {
       externalLink: "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb",
     },
   ],
+  title: "Music Of The Spheres",
 } as const satisfies Release

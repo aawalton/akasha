@@ -4,14 +4,13 @@ export const sabrinaCarpenterEmailsICanTSendFwd = {
   id: "01a0676a-d71d-700a-82c6-22cb7a1ed89c",
   type: "page-type/release",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd",
-  title: "emails i can’t send fwd:",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 51.083633,
-  ownProgress: 51.083633,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-03-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterEmailsICanTSendFwd = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "emails i can’t send fwd:",
 } as const satisfies Release

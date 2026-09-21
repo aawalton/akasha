@@ -4,14 +4,13 @@ export const zaraLarssonINeedLoveFeatTrevorDaniel = {
   id: "01a0676a-d721-7038-a795-5b9d5efd9674",
   type: "page-type/release",
   slug: "zara-larsson-i-need-love-feat-trevor-daniel",
-  title: "I Need Love (feat. Trevor Daniel)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.1068,
-  ownProgress: 3.1068,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-07-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonINeedLoveFeatTrevorDaniel = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "I Need Love (feat. Trevor Daniel)",
 } as const satisfies Release

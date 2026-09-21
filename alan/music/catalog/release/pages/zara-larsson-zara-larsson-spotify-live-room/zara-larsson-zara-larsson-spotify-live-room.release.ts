@@ -4,7 +4,7 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoom = {
   id: "01a0aa7c-25b5-716a-981a-922421559e28",
   type: "page-type/release",
   slug: "zara-larsson-zara-larsson-spotify-live-room",
-  ownLength: 5.478433333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,

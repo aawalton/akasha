@@ -4,14 +4,13 @@ export const arianaGrandeBreakFree = {
   id: "01a0676a-d719-7032-bb88-d988dd2e3813",
   type: "page-type/release",
   slug: "ariana-grande-break-free",
-  title: "Break Free",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 10.536517,
-  ownProgress: 10.536517,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-07-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeBreakFree = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Break Free",
 } as const satisfies Release

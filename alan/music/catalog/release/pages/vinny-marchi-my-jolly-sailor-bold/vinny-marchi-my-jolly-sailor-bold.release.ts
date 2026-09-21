@@ -4,14 +4,13 @@ export const vinnyMarchiMyJollySailorBold = {
   id: "01a0676a-d725-702c-af0a-25953adbb1f0",
   type: "page-type/release",
   slug: "vinny-marchi-my-jolly-sailor-bold",
-  title: "My Jolly Sailor Bold",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.604333,
-  ownProgress: 3.604333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-05-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiMyJollySailorBold = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "My Jolly Sailor Bold",
 } as const satisfies Release

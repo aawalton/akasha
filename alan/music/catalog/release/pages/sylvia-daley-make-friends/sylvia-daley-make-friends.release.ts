@@ -4,7 +4,7 @@ export const sylviaDaleyMakeFriends = {
   id: "01a0a6c3-6b01-7102-a837-aac19a571b6d",
   type: "page-type/release",
   slug: "sylvia-daley-make-friends",
-  ownLength: 2.7020833333333334,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sylvia-daley"],
   position: 0,

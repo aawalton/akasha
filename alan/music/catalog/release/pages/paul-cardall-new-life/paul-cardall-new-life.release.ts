@@ -4,14 +4,13 @@ export const paulCardallNewLife = {
   id: "01a0676a-d725-7051-b250-5fc65958956b",
   type: "page-type/release",
   slug: "paul-cardall-new-life",
-  title: "New Life",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 52.614367,
-  ownProgress: 52.614367,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-02-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallNewLife = {
       externalLink: "https://open.spotify.com/album/5QJOcbjUQN8xe4AFNORN7l",
     },
   ],
+  title: "New Life",
 } as const satisfies Release

@@ -4,7 +4,7 @@ export const billieEilishIntroHitMeHardAndSoftTour = {
   id: "01a0b638-e1cd-75f7-803e-facb661b8769",
   type: "page-type/release",
   slug: "billie-eilish-intro-hit-me-hard-and-soft-tour",
-  ownLength: 1.9479666666666666,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,

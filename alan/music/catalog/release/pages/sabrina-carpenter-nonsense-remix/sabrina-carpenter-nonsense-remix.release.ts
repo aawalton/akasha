@@ -4,14 +4,13 @@ export const sabrinaCarpenterNonsenseRemix = {
   id: "01a0676a-d725-7075-8139-66440fc94aa8",
   type: "page-type/release",
   slug: "sabrina-carpenter-nonsense-remix",
-  title: "Nonsense (Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 2.927467,
-  ownProgress: 2.927467,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-03-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterNonsenseRemix = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Nonsense (Remix)",
 } as const satisfies Release

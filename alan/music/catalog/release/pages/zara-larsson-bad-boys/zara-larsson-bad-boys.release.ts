@@ -4,14 +4,13 @@ export const zaraLarssonBadBoys = {
   id: "01a0676a-d718-7005-a9d7-fe3408d4c299",
   type: "page-type/release",
   slug: "zara-larsson-bad-boys",
-  title: "Bad Boys",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 4.309317,
-  ownProgress: 4.309317,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2013-11-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonBadBoys = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Bad Boys",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const celticWoman2NollaigNaMban = {
   id: "01a0676a-d725-7073-a5c7-be5577e9732f",
   type: "page-type/release",
   slug: "celtic-woman-2-nollaig-na-mban",
-  title: "Nollaig na mBan",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 4.779383,
-  ownProgress: 4.779383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-10-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const celticWoman2NollaigNaMban = {
       lastSyncedAt: "2026-01-21",
     },
   ],
+  title: "Nollaig na mBan",
 } as const satisfies Release

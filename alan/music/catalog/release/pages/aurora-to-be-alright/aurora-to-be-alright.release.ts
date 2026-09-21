@@ -4,14 +4,13 @@ export const auroraToBeAlright = {
   id: "01a0676a-d72f-7001-afc2-84f5d037001d",
   type: "page-type/release",
   slug: "aurora-to-be-alright",
-  title: "To Be Alright",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 15.651317,
-  ownProgress: 15.651317,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-05-31",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraToBeAlright = {
       externalLink: "https://open.spotify.com/album/5Ss70sGKkEU6rHOYSRsO3A",
     },
   ],
+  title: "To Be Alright",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const celticWoman2TheGreatestJourneyEssentialCollection = {
   id: "01a0676a-d72d-701a-b92b-c45aad6ba1f1",
   type: "page-type/release",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection",
-  title: "The Greatest Journey - Essential Collection",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 64.952017,
-  ownProgress: 64.952017,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2008-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2TheGreatestJourneyEssentialCollection = {
       externalLink: "https://open.spotify.com/album/6Gcai6e7rxHo6nliZntVCs",
     },
   ],
+  title: "The Greatest Journey - Essential Collection",
 } as const satisfies Release

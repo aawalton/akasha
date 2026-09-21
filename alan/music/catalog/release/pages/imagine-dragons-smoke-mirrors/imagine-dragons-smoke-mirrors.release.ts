@@ -4,14 +4,13 @@ export const imagineDragonsSmokeMirrors = {
   id: "01a0676a-d729-7034-af15-99c3dbcd8899",
   type: "page-type/release",
   slug: "imagine-dragons-smoke-mirrors",
-  title: "Smoke + Mirrors",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 50.851517,
-  ownProgress: 50.851517,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-09-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsSmokeMirrors = {
       externalLink: "https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL",
     },
   ],
+  title: "Smoke + Mirrors",
 } as const satisfies Release

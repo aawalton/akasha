@@ -4,7 +4,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrack = {
   id: "01a0a6c5-0c02-76c5-9541-d5286e9e2ab9",
   type: "page-type/release",
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
-  ownLength: 48.617266666666666,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,

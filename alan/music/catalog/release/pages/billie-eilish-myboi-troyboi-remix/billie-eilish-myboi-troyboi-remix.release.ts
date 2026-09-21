@@ -4,15 +4,14 @@ export const billieEilishMyboiTroyboiRemix = {
   id: "01a0676a-d725-703c-a65e-57d6c2aad7a8",
   type: "page-type/release",
   slug: "billie-eilish-myboi-troyboi-remix",
-  title: "MyBoi (TroyBoi Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 3.521733,
-  ownProgress: 3.521733,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2018-03-09",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishMyboiTroyboiRemix = {
       externalLink: "https://open.spotify.com/album/5m9lO9SriYMPpXTrVIU8P5",
     },
   ],
+  title: "MyBoi (TroyBoi Remix)",
 } as const satisfies Release

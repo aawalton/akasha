@@ -4,14 +4,13 @@ export const sabrinaCarpenterVicious = {
   id: "01a0676a-d730-7003-8d7b-76333abc6c98",
   type: "page-type/release",
   slug: "sabrina-carpenter-vicious",
-  title: "Vicious",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 2.498167,
-  ownProgress: 2.498167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-07-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterVicious = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Vicious",
 } as const satisfies Release

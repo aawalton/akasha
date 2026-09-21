@@ -4,15 +4,14 @@ export const billieEilishOceanEyesTheRemixes = {
   id: "01a0676a-d726-7013-8410-b1f2102ca5f8",
   type: "page-type/release",
   slug: "billie-eilish-ocean-eyes-the-remixes",
-  title: "Ocean Eyes (The Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 14.941083,
-  ownProgress: 14.941083,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2017-01-13",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishOceanEyesTheRemixes = {
       externalLink: "https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks",
     },
   ],
+  title: "Ocean Eyes (The Remixes)",
 } as const satisfies Release

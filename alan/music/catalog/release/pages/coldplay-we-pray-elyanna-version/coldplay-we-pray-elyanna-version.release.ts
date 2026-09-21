@@ -4,14 +4,13 @@ export const coldplayWePrayElyannaVersion = {
   id: "01a0676a-d730-7036-b179-bd518bbdc133",
   type: "page-type/release",
   slug: "coldplay-we-pray-elyanna-version",
-  title: "WE PRAY (Elyanna Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 11.6703,
-  ownProgress: 11.6703,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-09-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayWePrayElyannaVersion = {
       externalLink: "https://open.spotify.com/album/7EAQXnF7TwFUHYC2UtIQq6",
     },
   ],
+  title: "WE PRAY (Elyanna Version)",
 } as const satisfies Release

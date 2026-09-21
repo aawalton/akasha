@@ -4,14 +4,13 @@ export const arianaGrandeMonopoly = {
   id: "01a0676a-d724-7080-824a-5ec9aa99ca52",
   type: "page-type/release",
   slug: "ariana-grande-monopoly",
-  title: "MONOPOLY",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 2.6431,
-  ownProgress: 2.6431,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-04-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeMonopoly = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "MONOPOLY",
 } as const satisfies Release

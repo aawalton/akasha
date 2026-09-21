@@ -4,14 +4,13 @@ export const sabrinaCarpenterEvolution = {
   id: "01a0676a-d71d-7047-abc4-0f252832fbb9",
   type: "page-type/release",
   slug: "sabrina-carpenter-evolution",
-  title: "EVOLution",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 33.42905,
-  ownProgress: 33.42905,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-10-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterEvolution = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "EVOLution",
 } as const satisfies Release

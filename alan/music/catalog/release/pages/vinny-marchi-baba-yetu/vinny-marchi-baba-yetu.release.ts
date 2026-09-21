@@ -4,7 +4,7 @@ export const vinnyMarchiBabaYetu = {
   id: "01a0b112-90c7-7ee1-a40f-11f2777eb94b",
   type: "page-type/release",
   slug: "vinny-marchi-baba-yetu",
-  ownLength: 3.6075833333333334,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,

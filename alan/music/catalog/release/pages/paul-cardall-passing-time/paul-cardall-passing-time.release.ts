@@ -4,14 +4,13 @@ export const paulCardallPassingTime = {
   id: "01a0676a-d726-7063-85c6-392341a9d0be",
   type: "page-type/release",
   slug: "paul-cardall-passing-time",
-  title: "Passing Time",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 14.059917,
-  ownProgress: 14.059917,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2013-02-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallPassingTime = {
       externalLink: "https://open.spotify.com/album/0XBLI2qaipLjefHBfBIXGT",
     },
   ],
+  title: "Passing Time",
 } as const satisfies Release

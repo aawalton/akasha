@@ -4,14 +4,13 @@ export const paulCardallSignOfAffection10thAnniversary = {
   id: "01a0676a-d729-7005-b0fd-2e1d8e70acb1",
   type: "page-type/release",
   slug: "paul-cardall-sign-of-affection-10th-anniversary",
-  title: "Sign of Affection (10th Anniversary)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 37.392183,
-  ownProgress: 37.392183,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2006-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallSignOfAffection10thAnniversary = {
       externalLink: "https://open.spotify.com/album/6VSh7aoAeo35kOZ9xu6EOO",
     },
   ],
+  title: "Sign of Affection (10th Anniversary)",
 } as const satisfies Release

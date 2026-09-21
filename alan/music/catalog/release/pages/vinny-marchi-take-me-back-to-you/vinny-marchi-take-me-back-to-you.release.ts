@@ -4,14 +4,13 @@ export const vinnyMarchiTakeMeBackToYou = {
   id: "01a0676a-d72b-7013-8add-e71c1cbf38c0",
   type: "page-type/release",
   slug: "vinny-marchi-take-me-back-to-you",
-  title: "Take Me Back To You",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.885567,
-  ownProgress: 2.885567,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-12-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiTakeMeBackToYou = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Take Me Back To You",
 } as const satisfies Release

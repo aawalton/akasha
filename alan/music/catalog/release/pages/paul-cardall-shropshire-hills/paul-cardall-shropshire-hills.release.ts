@@ -4,14 +4,13 @@ export const paulCardallShropshireHills = {
   id: "01a0676a-d728-707d-bb73-acdad60eba5f",
   type: "page-type/release",
   slug: "paul-cardall-shropshire-hills",
-  title: "Shropshire Hills",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 3.237383,
-  ownProgress: 3.237383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-07-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallShropshireHills = {
       externalLink: "https://open.spotify.com/album/15ufELGSNAoBQBAtpSfO6B",
     },
   ],
+  title: "Shropshire Hills",
 } as const satisfies Release

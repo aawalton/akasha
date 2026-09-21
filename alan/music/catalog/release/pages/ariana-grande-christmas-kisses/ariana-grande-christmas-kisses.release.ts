@@ -4,14 +4,13 @@ export const arianaGrandeChristmasKisses = {
   id: "01a0676a-d71a-703d-9594-46986cec33b1",
   type: "page-type/release",
   slug: "ariana-grande-christmas-kisses",
-  title: "Christmas Kisses",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 13.229083,
-  ownProgress: 13.229083,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2013-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeChristmasKisses = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Christmas Kisses",
 } as const satisfies Release

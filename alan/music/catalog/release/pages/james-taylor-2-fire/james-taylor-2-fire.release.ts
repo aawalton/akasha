@@ -4,14 +4,13 @@ export const jamesTaylor2Fire = {
   id: "01a0676a-d71d-707a-b549-5ae06083527b",
   type: "page-type/release",
   slug: "james-taylor-2-fire",
-  title: "Fire",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 10.066667,
-  ownProgress: 10.066667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2000-01-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2Fire = {
       externalLink: "https://open.spotify.com/album/2ATrZVFsFYoyFaOr0xtDhB",
     },
   ],
+  title: "Fire",
 } as const satisfies Release

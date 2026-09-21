@@ -4,14 +4,13 @@ export const paulCardallElizaSTheme = {
   id: "01a0676a-d71c-7064-9468-ae248ae79548",
   type: "page-type/release",
   slug: "paul-cardall-eliza-s-theme",
-  title: "Eliza's Theme",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 3.646933,
-  ownProgress: 3.646933,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-08-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallElizaSTheme = {
       externalLink: "https://open.spotify.com/album/1Ys2GeBD9F8i0b5bDnh8yL",
     },
   ],
+  title: "Eliza's Theme",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const vinnyMarchiBewareOfTheSiren = {
   id: "01a0676a-d718-7053-8c71-aff5c0ae08ee",
   type: "page-type/release",
   slug: "vinny-marchi-beware-of-the-siren",
-  title: "Beware of the Siren",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.946867,
-  ownProgress: 2.946867,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2024-06-22",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiBewareOfTheSiren = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Beware of the Siren",
 } as const satisfies Release

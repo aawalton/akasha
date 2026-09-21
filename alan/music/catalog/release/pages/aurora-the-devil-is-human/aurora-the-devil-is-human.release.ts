@@ -4,14 +4,13 @@ export const auroraTheDevilIsHuman = {
   id: "01a0676a-d72d-7001-83f8-e9bcc2db98a1",
   type: "page-type/release",
   slug: "aurora-the-devil-is-human",
-  title: "The Devil is Human",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.010217,
-  ownProgress: 3.010217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-07-08",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraTheDevilIsHuman = {
       externalLink: "https://open.spotify.com/album/39UyPPm0nKdFi4Vd9Hljzu",
     },
   ],
+  title: "The Devil is Human",
 } as const satisfies Release

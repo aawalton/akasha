@@ -4,15 +4,14 @@ export const auroraSouthernStarFeatAurora = {
   id: "01a0676a-d729-7070-99e0-03070400ad48",
   type: "page-type/release",
   slug: "aurora-southern-star-feat-aurora",
-  title: "Southern Star (feat. AURORA)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 5.079333,
-  ownProgress: 5.079333,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2025-10-23",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const auroraSouthernStarFeatAurora = {
       lastSyncedAt: "2025-10-30",
     },
   ],
+  title: "Southern Star (feat. AURORA)",
 } as const satisfies Release

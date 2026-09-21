@@ -4,14 +4,13 @@ export const imagineDragonsEyesClosed = {
   id: "01a0676a-d71d-7055-861a-b36300768c6e",
   type: "page-type/release",
   slug: "imagine-dragons-eyes-closed",
-  title: "Eyes Closed",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 3.3335,
-  ownProgress: 3.3335,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-04-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsEyesClosed = {
       externalLink: "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG",
     },
   ],
+  title: "Eyes Closed",
 } as const satisfies Release

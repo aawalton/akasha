@@ -4,14 +4,13 @@ export const imagineDragonsSharks = {
   id: "01a0676a-d728-706e-9d09-e6068d4164d8",
   type: "page-type/release",
   slug: "imagine-dragons-sharks",
-  title: "Sharks",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 3.181383,
-  ownProgress: 3.181383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-06-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsSharks = {
       externalLink: "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e",
     },
   ],
+  title: "Sharks",
 } as const satisfies Release

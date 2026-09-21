@@ -4,14 +4,13 @@ export const auroraStormEnglishVersion = {
   id: "01a0676a-d72a-7024-a58d-95f7ac543f0a",
   type: "page-type/release",
   slug: "aurora-storm-english-version",
-  title: "Storm (English Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.817017,
-  ownProgress: 3.817017,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-06-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraStormEnglishVersion = {
       externalLink: "https://open.spotify.com/album/7EAjWBnTZCl6QgQDNnPWLf",
     },
   ],
+  title: "Storm (English Version)",
 } as const satisfies Release

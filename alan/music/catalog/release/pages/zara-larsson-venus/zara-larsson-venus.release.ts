@@ -4,14 +4,13 @@ export const zaraLarssonVenus = {
   id: "01a0676a-d730-7002-add3-dc7d06f18191",
   type: "page-type/release",
   slug: "zara-larsson-venus",
-  title: "VENUS",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 39.3006,
-  ownProgress: 39.3006,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-02-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonVenus = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "VENUS",
 } as const satisfies Release

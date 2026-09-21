@@ -4,14 +4,13 @@ export const imagineDragonsShotsTheFunkHuntersRemix = {
   id: "01a0676a-d728-7079-bcf4-0b1510d5e204",
   type: "page-type/release",
   slug: "imagine-dragons-shots-the-funk-hunters-remix",
-  title: "Shots (The Funk Hunters Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 4.76555,
-  ownProgress: 4.76555,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-08-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsShotsTheFunkHuntersRemix = {
       externalLink: "https://open.spotify.com/album/3gFrDk1Gewhg25dR7XAWSl",
     },
   ],
+  title: "Shots (The Funk Hunters Remix)",
 } as const satisfies Release

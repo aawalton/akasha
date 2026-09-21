@@ -4,14 +4,13 @@ export const sabrinaCarpenterSmokeAndFire = {
   id: "01a0676a-d729-7033-8886-7e1cf9e02571",
   type: "page-type/release",
   slug: "sabrina-carpenter-smoke-and-fire",
-  title: "Smoke and Fire",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.750167,
-  ownProgress: 3.750167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-02-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterSmokeAndFire = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Smoke and Fire",
 } as const satisfies Release

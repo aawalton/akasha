@@ -4,14 +4,13 @@ export const coldplayEverglow = {
   id: "01a0676a-d71d-702e-920a-f764d26e8fc8",
   type: "page-type/release",
   slug: "coldplay-everglow",
-  title: "Everglow",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 8.821767,
-  ownProgress: 8.821767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-11-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayEverglow = {
       externalLink: "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU",
     },
   ],
+  title: "Everglow",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const vinnyMarchiCherryWine = {
   id: "01a0676a-d71a-7029-8cbf-d5839324aeff",
   type: "page-type/release",
   slug: "vinny-marchi-cherry-wine",
-  title: "Cherry Wine",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.4964,
-  ownProgress: 3.4964,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2023-06-30",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiCherryWine = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Cherry Wine",
 } as const satisfies Release

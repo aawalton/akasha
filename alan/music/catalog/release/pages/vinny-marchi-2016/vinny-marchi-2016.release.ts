@@ -4,7 +4,7 @@ export const vinnyMarchi2016 = {
   id: "01a0b112-907f-75bf-932e-7503513e5afe",
   type: "page-type/release",
   slug: "vinny-marchi-2016",
-  ownLength: 2.7021166666666665,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,

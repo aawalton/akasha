@@ -4,14 +4,13 @@ export const chaislynShadesOfPink = {
   id: "01a0676a-d728-7069-8d53-b507d8d8f6d4",
   type: "page-type/release",
   slug: "chaislyn-shades-of-pink",
-  title: "Shades of Pink",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/chaislyn"],
   position: 0,
-  ownLength: 3.564867,
-  ownProgress: 3.564867,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-02-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const chaislynShadesOfPink = {
       externalLink: "https://open.spotify.com/album/0Un5mXCszpRHXq2w3bqNWl",
     },
   ],
+  title: "Shades of Pink",
 } as const satisfies Release

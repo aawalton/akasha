@@ -4,14 +4,13 @@ export const sabrinaCarpenterSingularActI = {
   id: "01a0676a-d729-700f-9cb3-718c855cfc33",
   type: "page-type/release",
   slug: "sabrina-carpenter-singular-act-i",
-  title: "Singular Act I",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 25.064633,
-  ownProgress: 25.064633,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-11-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterSingularActI = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Singular Act I",
 } as const satisfies Release

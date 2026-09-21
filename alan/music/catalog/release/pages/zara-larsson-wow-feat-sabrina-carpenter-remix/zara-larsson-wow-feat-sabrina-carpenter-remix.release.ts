@@ -4,14 +4,13 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemix = {
   id: "01a0676a-d731-703a-b9b4-b9e1a21f7ac2",
   type: "page-type/release",
   slug: "zara-larsson-wow-feat-sabrina-carpenter-remix",
-  title: "WOW (feat. Sabrina Carpenter) [Remix]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.9942,
-  ownProgress: 2.9942,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-09-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "WOW (feat. Sabrina Carpenter) [Remix]",
 } as const satisfies Release

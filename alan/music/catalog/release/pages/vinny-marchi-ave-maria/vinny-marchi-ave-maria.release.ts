@@ -4,14 +4,13 @@ export const vinnyMarchiAveMaria = {
   id: "01a0676a-d717-7042-a4b8-20a74449fc2d",
   type: "page-type/release",
   slug: "vinny-marchi-ave-maria",
-  title: "Ave Maria",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.9335,
-  ownProgress: 3.9335,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-02-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiAveMaria = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Ave Maria",
 } as const satisfies Release

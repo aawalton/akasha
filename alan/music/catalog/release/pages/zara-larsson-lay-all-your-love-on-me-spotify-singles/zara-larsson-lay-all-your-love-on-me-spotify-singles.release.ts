@@ -4,14 +4,13 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySingles = {
   id: "01a0676a-d722-7065-9e0d-8f60bd1371bf",
   type: "page-type/release",
   slug: "zara-larsson-lay-all-your-love-on-me-spotify-singles",
-  title: "Lay All Your Love On Me - Spotify Singles",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.685417,
-  ownProgress: 2.685417,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-05-27",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySingles = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Lay All Your Love On Me - Spotify Singles",
 } as const satisfies Release

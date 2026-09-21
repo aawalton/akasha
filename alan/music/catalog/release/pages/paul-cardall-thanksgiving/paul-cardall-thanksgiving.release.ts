@@ -4,14 +4,13 @@ export const paulCardallThanksgiving = {
   id: "01a0676a-d72c-7013-af80-83eaa59785f8",
   type: "page-type/release",
   slug: "paul-cardall-thanksgiving",
-  title: "Thanksgiving",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 2.35955,
-  ownProgress: 2.35955,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-11-05",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallThanksgiving = {
       externalLink: "https://open.spotify.com/album/3G8EZFSyWjwSqjc0p2zDjs",
     },
   ],
+  title: "Thanksgiving",
 } as const satisfies Release

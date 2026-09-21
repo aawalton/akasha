@@ -4,14 +4,13 @@ export const auroraUnderStars = {
   id: "01a0676a-d72f-7033-9c44-21e453976ac8",
   type: "page-type/release",
   slug: "aurora-under-stars",
-  title: "Under Stars",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.3171,
-  ownProgress: 3.3171,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-12-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraUnderStars = {
       externalLink: "https://open.spotify.com/album/1oo0Ro40bKv7UM8lj2g3VN",
     },
   ],
+  title: "Under Stars",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const coldplayMagic = {
   id: "01a0676a-d724-7024-a49e-3ad1bac08c99",
   type: "page-type/release",
   slug: "coldplay-magic",
-  title: "Magic",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 4.750233,
-  ownProgress: 4.750233,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-03-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayMagic = {
       externalLink: "https://open.spotify.com/album/4cCfFozyo6JC8acN8uIP7u",
     },
   ],
+  title: "Magic",
 } as const satisfies Release

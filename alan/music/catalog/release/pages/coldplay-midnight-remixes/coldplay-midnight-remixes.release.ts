@@ -4,14 +4,13 @@ export const coldplayMidnightRemixes = {
   id: "01a0676a-d724-7060-b8dd-7bf28a99f787",
   type: "page-type/release",
   slug: "coldplay-midnight-remixes",
-  title: "Midnight (Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 38.3547,
-  ownProgress: 38.3547,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-05-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayMidnightRemixes = {
       externalLink: "https://open.spotify.com/album/0nh0bp0UH6N9mxlRRZhn3O",
     },
   ],
+  title: "Midnight (Remixes)",
 } as const satisfies Release

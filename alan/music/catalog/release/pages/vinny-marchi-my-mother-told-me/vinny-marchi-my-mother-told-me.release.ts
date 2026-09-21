@@ -4,15 +4,14 @@ export const vinnyMarchiMyMotherToldMe = {
   id: "01a0676a-d725-7033-a6f2-bc73b979b80c",
   type: "page-type/release",
   slug: "vinny-marchi-my-mother-told-me",
-  title: "My Mother Told Me",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.369867,
-  ownProgress: 2.369867,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2023-01-21",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiMyMotherToldMe = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "My Mother Told Me",
 } as const satisfies Release

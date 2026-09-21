@@ -4,7 +4,7 @@ export const paulCardallChasingCrowns = {
   id: "01a0b4c8-2066-70e7-a548-5761647a82cd",
   type: "page-type/release",
   slug: "paul-cardall-chasing-crowns",
-  ownLength: 68.94476666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,

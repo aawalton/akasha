@@ -4,14 +4,13 @@ export const zaraLarssonDonTWorryBoutMe = {
   id: "01a0676a-d71c-7026-95f1-d8cfc00aa730",
   type: "page-type/release",
   slug: "zara-larsson-don-t-worry-bout-me",
-  title: "Don't Worry Bout Me",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.480183,
-  ownProgress: 3.480183,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-03-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonDonTWorryBoutMe = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Don't Worry Bout Me",
 } as const satisfies Release

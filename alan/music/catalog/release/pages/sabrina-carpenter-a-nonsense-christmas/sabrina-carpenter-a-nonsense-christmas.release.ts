@@ -4,14 +4,13 @@ export const sabrinaCarpenterANonsenseChristmas = {
   id: "01a0676a-d715-7038-ac12-715067ddef5a",
   type: "page-type/release",
   slug: "sabrina-carpenter-a-nonsense-christmas",
-  title: "A Nonsense Christmas",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 5.279117,
-  ownProgress: 5.279117,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-12-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterANonsenseChristmas = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "A Nonsense Christmas",
 } as const satisfies Release

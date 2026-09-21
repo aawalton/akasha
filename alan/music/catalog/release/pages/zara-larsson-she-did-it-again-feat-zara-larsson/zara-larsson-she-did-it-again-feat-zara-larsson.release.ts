@@ -4,7 +4,7 @@ export const zaraLarssonSheDidItAgainFeatZaraLarsson = {
   id: "01a0aa7c-254b-7b82-a1d1-999a989084e6",
   type: "page-type/release",
   slug: "zara-larsson-she-did-it-again-feat-zara-larsson",
-  ownLength: 6.6883333333333335,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,

@@ -4,14 +4,13 @@ export const arianaGrandeChristmasChill = {
   id: "01a0676a-d71a-7033-8bfc-5a63842f4d36",
   type: "page-type/release",
   slug: "ariana-grande-christmas-chill",
-  title: "Christmas & Chill",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 16.57255,
-  ownProgress: 16.57255,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-12-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeChristmasChill = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Christmas & Chill",
 } as const satisfies Release

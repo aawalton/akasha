@@ -4,14 +4,13 @@ export const coldplayClocksRoyksoppTremblingHeartMix = {
   id: "01a0676a-d71b-7002-a64a-18eb074ee0a3",
   type: "page-type/release",
   slug: "coldplay-clocks-royksopp-trembling-heart-mix",
-  title: "Clocks (Royksopp Trembling Heart Mix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 5.742217,
-  ownProgress: 5.742217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2003-07-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayClocksRoyksoppTremblingHeartMix = {
       externalLink: "https://open.spotify.com/album/4yGYKNWgAGMJrhxv7OVWia",
     },
   ],
+  title: "Clocks (Royksopp Trembling Heart Mix)",
 } as const satisfies Release

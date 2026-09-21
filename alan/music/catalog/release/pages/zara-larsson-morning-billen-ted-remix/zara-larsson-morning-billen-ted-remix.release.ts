@@ -4,14 +4,13 @@ export const zaraLarssonMorningBillenTedRemix = {
   id: "01a0676a-d725-7006-af47-63e275f881c4",
   type: "page-type/release",
   slug: "zara-larsson-morning-billen-ted-remix",
-  title: "Morning (Billen Ted Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.4484,
-  ownProgress: 2.4484,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-06-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonMorningBillenTedRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Morning (Billen Ted Remix)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const jamesTaylor2Flag = {
   id: "01a0676a-d71e-700a-862e-2fe1a9c9d79f",
   type: "page-type/release",
   slug: "james-taylor-2-flag",
-  title: "Flag",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 42.551267,
-  ownProgress: 42.551267,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "1979-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2Flag = {
       externalLink: "https://open.spotify.com/album/1gFeUg5zdqdHTq48VA7PVJ",
     },
   ],
+  title: "Flag",
 } as const satisfies Release

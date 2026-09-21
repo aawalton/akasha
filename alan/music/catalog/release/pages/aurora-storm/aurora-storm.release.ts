@@ -4,14 +4,13 @@ export const auroraStorm = {
   id: "01a0676a-d72a-7023-be13-d5c3ea6db52e",
   type: "page-type/release",
   slug: "aurora-storm",
-  title: "Storm",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.7948,
-  ownProgress: 3.7948,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-06-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraStorm = {
       externalLink: "https://open.spotify.com/album/5jV393Pygg0HSUH3DRv8fL",
     },
   ],
+  title: "Storm",
 } as const satisfies Release

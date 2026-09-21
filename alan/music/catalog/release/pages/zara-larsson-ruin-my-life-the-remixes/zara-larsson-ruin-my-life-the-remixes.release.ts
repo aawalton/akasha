@@ -4,14 +4,13 @@ export const zaraLarssonRuinMyLifeTheRemixes = {
   id: "01a0676a-d728-702a-b8df-0e141f426926",
   type: "page-type/release",
   slug: "zara-larsson-ruin-my-life-the-remixes",
-  title: "Ruin My Life (The Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 21.958067,
-  ownProgress: 21.958067,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonRuinMyLifeTheRemixes = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Ruin My Life (The Remixes)",
 } as const satisfies Release

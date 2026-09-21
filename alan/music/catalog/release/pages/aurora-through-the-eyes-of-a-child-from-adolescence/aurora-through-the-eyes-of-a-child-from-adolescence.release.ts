@@ -4,14 +4,13 @@ export const auroraThroughTheEyesOfAChildFromAdolescence = {
   id: "01a0676a-d72e-7038-ab9a-9c7898f1feed",
   type: "page-type/release",
   slug: "aurora-through-the-eyes-of-a-child-from-adolescence",
-  title: "Through the Eyes of a Child (From Adolescence)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 4.57355,
-  ownProgress: 4.57355,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraThroughTheEyesOfAChildFromAdolescence = {
       externalLink: "https://open.spotify.com/album/4C3VG2uZOyX31YhVZWYzg9",
     },
   ],
+  title: "Through the Eyes of a Child (From Adolescence)",
 } as const satisfies Release

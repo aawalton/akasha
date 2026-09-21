@@ -4,14 +4,13 @@ export const paulCardallAscensus = {
   id: "01a0676a-d717-7036-98d0-2ddddc58fd96",
   type: "page-type/release",
   slug: "paul-cardall-ascensus",
-  title: "Ascensus",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 29.9369,
-  ownProgress: 29.9369,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-05-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallAscensus = {
       externalLink: "https://open.spotify.com/album/6ZUz8GuEhTlA5t6zSm7FQa",
     },
   ],
+  title: "Ascensus",
 } as const satisfies Release

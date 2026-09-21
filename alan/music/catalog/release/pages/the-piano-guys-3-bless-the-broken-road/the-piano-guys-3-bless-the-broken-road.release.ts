@@ -4,14 +4,13 @@ export const thePianoGuys3BlessTheBrokenRoad = {
   id: "01a0676a-d719-7015-9ea7-cd93c161b671",
   type: "page-type/release",
   slug: "the-piano-guys-3-bless-the-broken-road",
-  title: "Bless the Broken Road",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 3.924167,
-  ownProgress: 3.924167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-04-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3BlessTheBrokenRoad = {
       externalLink: "https://open.spotify.com/album/0lAKUFlibEe6yMQmhvMF09",
     },
   ],
+  title: "Bless the Broken Road",
 } as const satisfies Release

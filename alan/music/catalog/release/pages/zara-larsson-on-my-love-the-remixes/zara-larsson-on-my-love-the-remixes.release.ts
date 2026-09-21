@@ -4,14 +4,13 @@ export const zaraLarssonOnMyLoveTheRemixes = {
   id: "01a0676a-d726-7022-930b-4f57d3a8e45a",
   type: "page-type/release",
   slug: "zara-larsson-on-my-love-the-remixes",
-  title: "On My Love (The Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 28.975267,
-  ownProgress: 28.975267,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-12-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonOnMyLoveTheRemixes = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "On My Love (The Remixes)",
 } as const satisfies Release

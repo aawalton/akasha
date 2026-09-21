@@ -4,15 +4,14 @@ export const zaraLarssonPosterGirl = {
   id: "01a0676a-d727-700f-a72c-7ec36344b500",
   type: "page-type/release",
   slug: "zara-larsson-poster-girl",
-  title: "Poster Girl",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 37.752367,
-  ownProgress: 37.752367,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2021-03-05",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const zaraLarssonPosterGirl = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Poster Girl",
 } as const satisfies Release

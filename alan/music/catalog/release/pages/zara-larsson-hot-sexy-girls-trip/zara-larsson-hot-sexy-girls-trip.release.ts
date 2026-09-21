@@ -4,7 +4,7 @@ export const zaraLarssonHotSexyGirlsTrip = {
   id: "01a0aa7c-2429-7eaa-97e9-202ccf3097a2",
   type: "page-type/release",
   slug: "zara-larsson-hot-sexy-girls-trip",
-  ownLength: 3.4353,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,

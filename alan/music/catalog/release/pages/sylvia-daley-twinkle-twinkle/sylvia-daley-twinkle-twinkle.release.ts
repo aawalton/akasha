@@ -4,7 +4,7 @@ export const sylviaDaleyTwinkleTwinkle = {
   id: "01a0a6c3-6b56-7c38-8540-cb193753264e",
   type: "page-type/release",
   slug: "sylvia-daley-twinkle-twinkle",
-  ownLength: 2.4285666666666668,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sylvia-daley"],
   position: 0,

@@ -4,14 +4,13 @@ export const auroraMidasTouch = {
   id: "01a0676a-d724-705d-906f-e5ee461cfa45",
   type: "page-type/release",
   slug: "aurora-midas-touch",
-  title: "Midas Touch",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 2.694433,
-  ownProgress: 2.694433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-11-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraMidasTouch = {
       externalLink: "https://open.spotify.com/album/6WYWxbDRmg5FYVsNp0jhV7",
     },
   ],
+  title: "Midas Touch",
 } as const satisfies Release

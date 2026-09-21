@@ -4,15 +4,14 @@ export const vinnyMarchiTheDragonbornComes = {
   id: "01a0676a-d72d-7002-8c2d-23d6efb74d62",
   type: "page-type/release",
   slug: "vinny-marchi-the-dragonborn-comes",
-  title: "The Dragonborn Comes",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.472433,
-  ownProgress: 3.472433,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2023-02-17",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiTheDragonbornComes = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "The Dragonborn Comes",
 } as const satisfies Release

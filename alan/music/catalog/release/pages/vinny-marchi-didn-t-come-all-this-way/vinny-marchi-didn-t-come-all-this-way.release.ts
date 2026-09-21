@@ -4,15 +4,14 @@ export const vinnyMarchiDidnTComeAllThisWay = {
   id: "01a0676a-d71c-7011-bf86-bdf0ea52eea3",
   type: "page-type/release",
   slug: "vinny-marchi-didn-t-come-all-this-way",
-  title: "Didn't Come All This Way",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.5641,
-  ownProgress: 2.5641,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2024-12-20",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiDidnTComeAllThisWay = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Didn't Come All This Way",
 } as const satisfies Release

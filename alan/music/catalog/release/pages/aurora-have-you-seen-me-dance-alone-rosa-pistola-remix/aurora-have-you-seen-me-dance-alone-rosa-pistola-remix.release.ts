@@ -4,7 +4,7 @@ export const auroraHaveYouSeenMeDanceAloneRosaPistolaRemix = {
   id: "01a0b637-e98f-748b-9456-a1fa49a48b61",
   type: "page-type/release",
   slug: "aurora-have-you-seen-me-dance-alone-rosa-pistola-remix",
-  ownLength: 4.064183333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,

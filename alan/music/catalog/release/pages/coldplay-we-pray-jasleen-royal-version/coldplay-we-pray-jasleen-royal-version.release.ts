@@ -4,14 +4,13 @@ export const coldplayWePrayJasleenRoyalVersion = {
   id: "01a0676a-d730-7037-815e-943b18ea6c8a",
   type: "page-type/release",
   slug: "coldplay-we-pray-jasleen-royal-version",
-  title: "WE PRAY (Jasleen Royal Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.8901,
-  ownProgress: 3.8901,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-02-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayWePrayJasleenRoyalVersion = {
       externalLink: "https://open.spotify.com/album/7hvPIynnfNUqcj0QjJ3K1W",
     },
   ],
+  title: "WE PRAY (Jasleen Royal Version)",
 } as const satisfies Release

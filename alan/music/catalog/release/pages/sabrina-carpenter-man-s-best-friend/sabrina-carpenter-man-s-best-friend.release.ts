@@ -4,14 +4,13 @@ export const sabrinaCarpenterManSBestFriend = {
   id: "01a0676a-d724-7033-88ec-e81ee0e4b2b8",
   type: "page-type/release",
   slug: "sabrina-carpenter-man-s-best-friend",
-  title: "Man’s Best Friend",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 38.415183,
-  ownProgress: 38.415183,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-08-29",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterManSBestFriend = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Man’s Best Friend",
 } as const satisfies Release

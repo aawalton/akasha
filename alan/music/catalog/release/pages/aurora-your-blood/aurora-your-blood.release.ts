@@ -4,14 +4,13 @@ export const auroraYourBlood = {
   id: "01a0676a-d732-7023-a019-ca55a8591d4f",
   type: "page-type/release",
   slug: "aurora-your-blood",
-  title: "Your Blood",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 4.137767,
-  ownProgress: 4.137767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-11-08",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraYourBlood = {
       externalLink: "https://open.spotify.com/album/6Mrbtd9OIIh1XPiTMqHaHC",
     },
   ],
+  title: "Your Blood",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const thePianoGuys3ItSGonnaBeOkayWithCliffRichard = {
   id: "01a0676a-d722-7010-833b-3216d59a4dfb",
   type: "page-type/release",
   slug: "the-piano-guys-3-it-s-gonna-be-okay-with-cliff-richard",
-  title: "(It's Gonna Be) Okay (with Cliff Richard)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 3.503983,
-  ownProgress: 3.503983,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-04-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3ItSGonnaBeOkayWithCliffRichard = {
       externalLink: "https://open.spotify.com/album/1o1nGRSY4e3ixTYjD36GYS",
     },
   ],
+  title: "(It's Gonna Be) Okay (with Cliff Richard)",
 } as const satisfies Release

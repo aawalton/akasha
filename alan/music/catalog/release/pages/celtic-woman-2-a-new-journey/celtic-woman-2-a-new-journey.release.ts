@@ -4,14 +4,13 @@ export const celticWoman2ANewJourney = {
   id: "01a0676a-d715-7037-88d7-1bccfa64972e",
   type: "page-type/release",
   slug: "celtic-woman-2-a-new-journey",
-  title: "A New Journey",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 58.47635,
-  ownProgress: 58.47635,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2007-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2ANewJourney = {
       externalLink: "https://open.spotify.com/album/1og5dt9eliYqKQG8eBH9jf",
     },
   ],
+  title: "A New Journey",
 } as const satisfies Release

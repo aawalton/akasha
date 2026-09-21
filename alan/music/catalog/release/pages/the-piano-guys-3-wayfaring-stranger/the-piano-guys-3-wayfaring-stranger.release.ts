@@ -4,14 +4,13 @@ export const thePianoGuys3WayfaringStranger = {
   id: "01a0676a-d730-7027-9b00-31d74b13549b",
   type: "page-type/release",
   slug: "the-piano-guys-3-wayfaring-stranger",
-  title: "Wayfaring Stranger",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 3.878083,
-  ownProgress: 3.878083,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-04-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3WayfaringStranger = {
       externalLink: "https://open.spotify.com/album/0ZUIyAAGMqGNBKKaJk4vJX",
     },
   ],
+  title: "Wayfaring Stranger",
 } as const satisfies Release

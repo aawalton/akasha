@@ -4,14 +4,13 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019Remaster = {
   id: "01a0676a-d725-7016-b5c9-2513227dfef8",
   type: "page-type/release",
   slug: "james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster",
-  title: "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 37.355033,
-  ownProgress: 37.355033,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "1971-04-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019Remaster = {
       externalLink: "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX",
     },
   ],
+  title: "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
 } as const satisfies Release

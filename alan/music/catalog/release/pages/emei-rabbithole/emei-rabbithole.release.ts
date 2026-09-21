@@ -4,15 +4,14 @@ export const emeiRabbithole = {
   id: "01a0676a-d727-703d-9216-ea902e739103",
   type: "page-type/release",
   slug: "emei-rabbithole",
-  title: "RABBITHOLE",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.357383,
-  ownProgress: 2.357383,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2024-08-23",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiRabbithole = {
       externalLink: "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr",
     },
   ],
+  title: "RABBITHOLE",
 } as const satisfies Release

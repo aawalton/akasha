@@ -4,14 +4,13 @@ export const sabrinaCarpenterManchild = {
   id: "01a0676a-d724-7034-9cbc-816677090866",
   type: "page-type/release",
   slug: "sabrina-carpenter-manchild",
-  title: "Manchild",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.56075,
-  ownProgress: 3.56075,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-06-05",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterManchild = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Manchild",
 } as const satisfies Release

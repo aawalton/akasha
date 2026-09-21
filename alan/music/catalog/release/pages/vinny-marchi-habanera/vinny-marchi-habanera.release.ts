@@ -4,15 +4,14 @@ export const vinnyMarchiHabanera = {
   id: "01a0676a-d71f-7035-be3a-303582ae2178",
   type: "page-type/release",
   slug: "vinny-marchi-habanera",
-  title: "Habanera",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.180383,
-  ownProgress: 2.180383,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2023-04-28",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiHabanera = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Habanera",
 } as const satisfies Release

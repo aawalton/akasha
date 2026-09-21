@@ -4,14 +4,13 @@ export const zaraLarssonOnlyYouRemixes = {
   id: "01a0676a-d726-703c-9c11-5cea8131e17d",
   type: "page-type/release",
   slug: "zara-larsson-only-you-remixes",
-  title: "Only You + Remixes",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 14.610317,
-  ownProgress: 14.610317,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-08-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonOnlyYouRemixes = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Only You + Remixes",
 } as const satisfies Release

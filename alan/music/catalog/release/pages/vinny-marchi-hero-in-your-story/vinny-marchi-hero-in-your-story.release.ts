@@ -4,15 +4,14 @@ export const vinnyMarchiHeroInYourStory = {
   id: "01a0676a-d720-7032-b8bc-5a1f93fdb981",
   type: "page-type/release",
   slug: "vinny-marchi-hero-in-your-story",
-  title: "Hero In Your Story",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.8611,
-  ownProgress: 2.8611,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "A",
   publishedAt: "2024-05-24",
+  rank: "A",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiHeroInYourStory = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Hero In Your Story",
 } as const satisfies Release

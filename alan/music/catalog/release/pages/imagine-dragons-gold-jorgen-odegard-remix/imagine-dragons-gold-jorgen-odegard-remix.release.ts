@@ -4,14 +4,13 @@ export const imagineDragonsGoldJorgenOdegardRemix = {
   id: "01a0676a-d71f-7011-9907-866ab38701e4",
   type: "page-type/release",
   slug: "imagine-dragons-gold-jorgen-odegard-remix",
-  title: "Gold (Jorgen Odegard Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 4.114667,
-  ownProgress: 4.114667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-09-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsGoldJorgenOdegardRemix = {
       externalLink: "https://open.spotify.com/album/7e35dImdCQp3UgP6xEMoFm",
     },
   ],
+  title: "Gold (Jorgen Odegard Remix)",
 } as const satisfies Release

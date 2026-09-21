@@ -4,15 +4,14 @@ export const billieEilishMyFuture = {
   id: "01a0676a-d725-702a-bc7d-247437f76bba",
   type: "page-type/release",
   slug: "billie-eilish-my-future",
-  title: "my future",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 3.46925,
-  ownProgress: 3.46925,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2020-07-30",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishMyFuture = {
       externalLink: "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5",
     },
   ],
+  title: "my future",
 } as const satisfies Release

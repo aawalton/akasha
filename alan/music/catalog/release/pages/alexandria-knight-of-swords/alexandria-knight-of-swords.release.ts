@@ -4,7 +4,7 @@ export const alexandriaKnightOfSwords = {
   id: "01a0aa7a-8358-7e46-95ad-294b3d64fdb1",
   type: "page-type/release",
   slug: "alexandria-knight-of-swords",
-  ownLength: 2.652616666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alexandria"],
   position: 0,

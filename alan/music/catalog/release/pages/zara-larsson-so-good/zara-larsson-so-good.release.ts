@@ -4,15 +4,14 @@ export const zaraLarssonSoGood = {
   id: "01a0676a-d729-7043-a527-da914202e4c9",
   type: "page-type/release",
   slug: "zara-larsson-so-good",
-  title: "So Good",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 50.682433,
-  ownProgress: 50.682433,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2017-03-17",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const zaraLarssonSoGood = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "So Good",
 } as const satisfies Release

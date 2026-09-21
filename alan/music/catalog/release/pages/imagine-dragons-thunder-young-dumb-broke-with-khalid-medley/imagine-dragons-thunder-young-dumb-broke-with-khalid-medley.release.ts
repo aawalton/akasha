@@ -4,14 +4,13 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedley = {
   id: "01a0676a-d72e-703e-815a-db1d04ebfce3",
   type: "page-type/release",
   slug: "imagine-dragons-thunder-young-dumb-broke-with-khalid-medley",
-  title: "Thunder / Young Dumb & Broke (with Khalid) [Medley]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 4.18805,
-  ownProgress: 4.18805,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-12-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedley = {
       externalLink: "https://open.spotify.com/album/573iLAebuuBiOerLRZRaSZ",
     },
   ],
+  title: "Thunder / Young Dumb & Broke (with Khalid) [Medley]",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const auroraQueendomHarpVersion = {
   id: "01a0676a-d727-703a-a3db-d4efc9f742d9",
   type: "page-type/release",
   slug: "aurora-queendom-harp-version",
-  title: "Queendom (Harp Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.876433,
-  ownProgress: 3.876433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-06-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraQueendomHarpVersion = {
       externalLink: "https://open.spotify.com/album/1vmPWNli0hFNGxkIvfVkGw",
     },
   ],
+  title: "Queendom (Harp Version)",
 } as const satisfies Release

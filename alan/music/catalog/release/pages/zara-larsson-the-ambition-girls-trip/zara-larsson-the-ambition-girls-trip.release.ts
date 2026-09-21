@@ -4,7 +4,7 @@ export const zaraLarssonTheAmbitionGirlsTrip = {
   id: "01a0aa7c-24fb-767c-8aa9-0ab4b6adc93f",
   type: "page-type/release",
   slug: "zara-larsson-the-ambition-girls-trip",
-  ownLength: 3.2587166666666665,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,

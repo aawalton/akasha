@@ -4,14 +4,13 @@ export const zaraLarssonCrush = {
   id: "01a0676a-d71b-7042-b7a6-78e473a95da7",
   type: "page-type/release",
   slug: "zara-larsson-crush",
-  title: "Crush",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 8.761867,
-  ownProgress: 8.761867,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-08-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonCrush = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Crush",
 } as const satisfies Release

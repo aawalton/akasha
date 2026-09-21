@@ -4,14 +4,13 @@ export const zaraLarssonAllTheTimeDonDiabloRemix = {
   id: "01a0676a-d716-7026-8b1a-b9e44752cb76",
   type: "page-type/release",
   slug: "zara-larsson-all-the-time-don-diablo-remix",
-  title: "All the Time (Don Diablo Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.9436,
-  ownProgress: 2.9436,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-07-05",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonAllTheTimeDonDiabloRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "All the Time (Don Diablo Remix)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const zaraLarssonIWouldLikeGorgonCityRemix = {
   id: "01a0676a-d721-7049-bb8d-e2370d97d059",
   type: "page-type/release",
   slug: "zara-larsson-i-would-like-gorgon-city-remix",
-  title: "I Would Like (Gorgon City Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 4.39425,
-  ownProgress: 4.39425,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-12-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonIWouldLikeGorgonCityRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "I Would Like (Gorgon City Remix)",
 } as const satisfies Release

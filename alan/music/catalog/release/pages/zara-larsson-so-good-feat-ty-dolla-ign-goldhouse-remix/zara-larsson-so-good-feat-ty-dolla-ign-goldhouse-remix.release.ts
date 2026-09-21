@@ -4,14 +4,13 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemix = {
   id: "01a0676a-d729-7044-8652-6ca573faf0aa",
   type: "page-type/release",
   slug: "zara-larsson-so-good-feat-ty-dolla-ign-goldhouse-remix",
-  title: "So Good (feat. Ty Dolla $ign) [GOLDHOUSE Remix]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.429917,
-  ownProgress: 3.429917,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-03-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "So Good (feat. Ty Dolla $ign) [GOLDHOUSE Remix]",
 } as const satisfies Release

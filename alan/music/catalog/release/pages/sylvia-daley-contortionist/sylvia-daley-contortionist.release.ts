@@ -4,7 +4,7 @@ export const sylviaDaleyContortionist = {
   id: "01a0a6c3-6b9d-7a8f-802b-2247e67aa0c7",
   type: "page-type/release",
   slug: "sylvia-daley-contortionist",
-  ownLength: 2.04615,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sylvia-daley"],
   position: 0,

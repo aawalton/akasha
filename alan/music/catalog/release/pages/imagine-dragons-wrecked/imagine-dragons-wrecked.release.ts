@@ -4,14 +4,13 @@ export const imagineDragonsWrecked = {
   id: "01a0676a-d731-703e-9f4d-48f97dc45d7d",
   type: "page-type/release",
   slug: "imagine-dragons-wrecked",
-  title: "Wrecked",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 4.066733,
-  ownProgress: 4.066733,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-07-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsWrecked = {
       externalLink: "https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG",
     },
   ],
+  title: "Wrecked",
 } as const satisfies Release

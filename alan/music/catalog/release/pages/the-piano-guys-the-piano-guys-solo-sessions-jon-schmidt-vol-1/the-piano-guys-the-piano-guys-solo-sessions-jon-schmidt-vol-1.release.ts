@@ -4,7 +4,7 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1 = {
   id: "01a0afa1-c489-75c9-a909-0071a9486d98",
   type: "page-type/release",
   slug: "the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
-  ownLength: 32.44161666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,

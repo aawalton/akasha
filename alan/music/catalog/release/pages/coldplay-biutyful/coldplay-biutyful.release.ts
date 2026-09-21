@@ -4,14 +4,13 @@ export const coldplayBiutyful = {
   id: "01a0676a-d719-7011-b76e-822579b80dde",
   type: "page-type/release",
   slug: "coldplay-biutyful",
-  title: "Biutyful",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.206567,
-  ownProgress: 3.206567,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-07-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayBiutyful = {
       externalLink: "https://open.spotify.com/album/574iaZA34RiT9rM1F2s2IM",
     },
   ],
+  title: "Biutyful",
 } as const satisfies Release

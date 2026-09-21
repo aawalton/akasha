@@ -4,14 +4,13 @@ export const celticWoman2CelticWoman = {
   id: "01a0676a-d71a-700b-a15d-05dcf7a466cc",
   type: "page-type/release",
   slug: "celtic-woman-2-celtic-woman",
-  title: "Celtic Woman",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 64.724933,
-  ownProgress: 64.724933,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2005-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2CelticWoman = {
       externalLink: "https://open.spotify.com/album/1PZVqVnT0vnJaIPJDerch7",
     },
   ],
+  title: "Celtic Woman",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const jamesTaylor2Hourglass = {
   id: "01a0676a-d720-7066-8171-6d8c552cf60d",
   type: "page-type/release",
   slug: "james-taylor-2-hourglass",
-  title: "Hourglass",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 53.701483,
-  ownProgress: 53.701483,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "1997-05-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2Hourglass = {
       externalLink: "https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi",
     },
   ],
+  title: "Hourglass",
 } as const satisfies Release

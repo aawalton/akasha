@@ -4,14 +4,13 @@ export const thePianoGuys3MainTitleFromJurassicPark = {
   id: "01a0676a-d724-702b-845e-b8c6c71965cd",
   type: "page-type/release",
   slug: "the-piano-guys-3-main-title-from-jurassic-park",
-  title: 'Main Title (From "Jurassic Park")',
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 3.931133,
-  ownProgress: 3.931133,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-06-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3MainTitleFromJurassicPark = {
       externalLink: "https://open.spotify.com/album/0DeZzjVFrU1WjC29FJ5KKN",
     },
   ],
+  title: 'Main Title (From "Jurassic Park")',
 } as const satisfies Release

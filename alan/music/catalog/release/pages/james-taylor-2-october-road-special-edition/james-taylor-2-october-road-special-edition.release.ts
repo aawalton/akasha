@@ -4,14 +4,13 @@ export const jamesTaylor2OctoberRoadSpecialEdition = {
   id: "01a0676a-d726-7017-ba5b-a1740eadec17",
   type: "page-type/release",
   slug: "james-taylor-2-october-road-special-edition",
-  title: "October Road (Special Edition)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 64.671033,
-  ownProgress: 64.671033,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2000-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2OctoberRoadSpecialEdition = {
       externalLink: "https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif",
     },
   ],
+  title: "October Road (Special Edition)",
 } as const satisfies Release

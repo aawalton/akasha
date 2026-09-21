@@ -4,7 +4,7 @@ export const arianaGrandePositionsVevoOfficialLivePerformances = {
   id: "01a0a6c5-07d4-7810-a39b-2944e2c96131",
   type: "page-type/release",
   slug: "ariana-grande-positions-vevo-official-live-performances",
-  ownLength: 21.545966666666665,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,

@@ -4,15 +4,14 @@ export const billieEilishCopycatSofiTukkerRemix = {
   id: "01a0676a-d71b-7028-b84c-385f85adfb21",
   type: "page-type/release",
   slug: "billie-eilish-copycat-sofi-tukker-remix",
-  title: "COPYCAT (Sofi Tukker Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 3.3114,
-  ownProgress: 3.3114,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2018-01-12",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishCopycatSofiTukkerRemix = {
       externalLink: "https://open.spotify.com/album/5XRJoC2QtsNbAubsCrBBbG",
     },
   ],
+  title: "COPYCAT (Sofi Tukker Remix)",
 } as const satisfies Release

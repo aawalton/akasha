@@ -4,14 +4,13 @@ export const coldplayMidnightKygoRemix = {
   id: "01a0676a-d724-705e-b9b4-68209bbd87af",
   type: "page-type/release",
   slug: "coldplay-midnight-kygo-remix",
-  title: "Midnight (Kygo Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 5.27245,
-  ownProgress: 5.27245,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-06-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayMidnightKygoRemix = {
       externalLink: "https://open.spotify.com/album/7tI4UrXr27WbduHuVJlCp5",
     },
   ],
+  title: "Midnight (Kygo Remix)",
 } as const satisfies Release

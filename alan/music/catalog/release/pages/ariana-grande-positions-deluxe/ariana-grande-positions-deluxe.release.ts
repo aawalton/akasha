@@ -4,14 +4,13 @@ export const arianaGrandePositionsDeluxe = {
   id: "01a0676a-d727-700c-b606-a36f111a33f6",
   type: "page-type/release",
   slug: "ariana-grande-positions-deluxe",
-  title: "Positions (Deluxe)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 51.812883,
-  ownProgress: 51.812883,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-02-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandePositionsDeluxe = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Positions (Deluxe)",
 } as const satisfies Release

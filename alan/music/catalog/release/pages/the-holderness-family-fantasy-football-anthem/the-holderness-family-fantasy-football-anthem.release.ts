@@ -4,14 +4,13 @@ export const theHoldernessFamilyFantasyFootballAnthem = {
   id: "01a0676a-d71d-7061-b824-108a69cd65bb",
   type: "page-type/release",
   slug: "the-holderness-family-fantasy-football-anthem",
-  title: "Fantasy Football Anthem",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-holderness-family"],
   position: 0,
-  ownLength: 3.36935,
-  ownProgress: 3.36935,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-09-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const theHoldernessFamilyFantasyFootballAnthem = {
       lastSyncedAt: "2025-11-27",
     },
   ],
+  title: "Fantasy Football Anthem",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const vinnyMarchiTakeTheReins = {
   id: "01a0676a-d72b-701a-ac12-98750c510c5c",
   type: "page-type/release",
   slug: "vinny-marchi-take-the-reins",
-  title: "Take The Reins",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.669233,
-  ownProgress: 2.669233,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "A",
   publishedAt: "2024-08-16",
+  rank: "A",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiTakeTheReins = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Take The Reins",
 } as const satisfies Release

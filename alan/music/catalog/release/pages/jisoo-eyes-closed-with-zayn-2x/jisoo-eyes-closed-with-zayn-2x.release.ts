@@ -4,15 +4,14 @@ export const jisooEyesClosedWithZayn2x = {
   id: "01a0676a-d71d-7058-9156-7c522c67c169",
   type: "page-type/release",
   slug: "jisoo-eyes-closed-with-zayn-2x",
-  title: "EYES CLOSED (with ZAYN) [2X]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jisoo"],
   position: 0,
-  ownLength: 8.9517,
-  ownProgress: 8.9517,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2025-10-31",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const jisooEyesClosedWithZayn2x = {
       lastSyncedAt: "2025-11-24",
     },
   ],
+  title: "EYES CLOSED (with ZAYN) [2X]",
 } as const satisfies Release

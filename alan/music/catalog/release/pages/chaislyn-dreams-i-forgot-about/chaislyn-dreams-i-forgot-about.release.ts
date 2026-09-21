@@ -4,14 +4,13 @@ export const chaislynDreamsIForgotAbout = {
   id: "01a0676a-d71c-7039-9feb-bede978e416a",
   type: "page-type/release",
   slug: "chaislyn-dreams-i-forgot-about",
-  title: "Dreams I Forgot About",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/chaislyn"],
   position: 0,
-  ownLength: 3.531917,
-  ownProgress: 3.531917,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-04-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const chaislynDreamsIForgotAbout = {
       externalLink: "https://open.spotify.com/album/1pOhhl3FhhhcmSdK2SZ3xD",
     },
   ],
+  title: "Dreams I Forgot About",
 } as const satisfies Release

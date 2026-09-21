@@ -4,14 +4,13 @@ export const zaraLarssonPosterGirlSummerEdition = {
   id: "01a0676a-d727-7010-b030-7452f85faab8",
   type: "page-type/release",
   slug: "zara-larsson-poster-girl-summer-edition",
-  title: "Poster Girl (Summer Edition)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 63.626067,
-  ownProgress: 63.626067,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-07-08",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonPosterGirlSummerEdition = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Poster Girl (Summer Edition)",
 } as const satisfies Release

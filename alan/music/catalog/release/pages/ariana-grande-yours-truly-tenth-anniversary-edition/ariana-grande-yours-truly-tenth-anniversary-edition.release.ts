@@ -4,14 +4,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEdition = {
   id: "01a0676a-d732-7028-af23-b23d0ab534f1",
   type: "page-type/release",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition",
-  title: "Yours Truly (Tenth Anniversary Edition)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 72.037717,
-  ownProgress: 72.037717,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-08-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEdition = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Yours Truly (Tenth Anniversary Edition)",
 } as const satisfies Release

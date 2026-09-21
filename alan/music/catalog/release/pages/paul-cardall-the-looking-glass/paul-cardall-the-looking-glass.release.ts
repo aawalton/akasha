@@ -4,14 +4,13 @@ export const paulCardallTheLookingGlass = {
   id: "01a0676a-d72d-7035-a618-716eb603f071",
   type: "page-type/release",
   slug: "paul-cardall-the-looking-glass",
-  title: "The Looking Glass",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 48.3352,
-  ownProgress: 48.3352,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "1999-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallTheLookingGlass = {
       externalLink: "https://open.spotify.com/album/31tc6XnhHUP3WOWSfC2AuX",
     },
   ],
+  title: "The Looking Glass",
 } as const satisfies Release

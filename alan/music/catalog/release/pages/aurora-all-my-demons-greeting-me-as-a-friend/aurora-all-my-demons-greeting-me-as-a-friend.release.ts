@@ -4,7 +4,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriend = {
   id: "01a0b637-e8e8-77f0-9265-323ab8030966",
   type: "page-type/release",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend",
-  ownLength: 3.698,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,

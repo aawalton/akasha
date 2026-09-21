@@ -4,14 +4,13 @@ export const paulCardallSignOfTheTimes = {
   id: "01a0676a-d729-7007-8a00-6a2bb1582225",
   type: "page-type/release",
   slug: "paul-cardall-sign-of-the-times",
-  title: "Sign of the Times",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 4.18385,
-  ownProgress: 4.18385,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-06-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallSignOfTheTimes = {
       externalLink: "https://open.spotify.com/album/4SBy8zVCZXxPgVy7mCcdBU",
     },
   ],
+  title: "Sign of the Times",
 } as const satisfies Release

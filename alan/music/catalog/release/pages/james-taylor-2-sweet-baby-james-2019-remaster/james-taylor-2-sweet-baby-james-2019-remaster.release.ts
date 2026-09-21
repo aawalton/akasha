@@ -4,14 +4,13 @@ export const jamesTaylor2SweetBabyJames2019Remaster = {
   id: "01a0676a-d72a-704d-8e54-99517925d313",
   type: "page-type/release",
   slug: "james-taylor-2-sweet-baby-james-2019-remaster",
-  title: "Sweet Baby James (2019 Remaster)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 31.910817,
-  ownProgress: 31.910817,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "1970-02-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2SweetBabyJames2019Remaster = {
       externalLink: "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx",
     },
   ],
+  title: "Sweet Baby James (2019 Remaster)",
 } as const satisfies Release

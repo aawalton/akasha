@@ -4,14 +4,13 @@ export const sabrinaCarpenterAlienM22Remix = {
   id: "01a0676a-d716-7014-8fb4-f07597a7b43f",
   type: "page-type/release",
   slug: "sabrina-carpenter-alien-m-22-remix",
-  title: "Alien (M-22 Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.419983,
-  ownProgress: 3.419983,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-04-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterAlienM22Remix = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Alien (M-22 Remix)",
 } as const satisfies Release

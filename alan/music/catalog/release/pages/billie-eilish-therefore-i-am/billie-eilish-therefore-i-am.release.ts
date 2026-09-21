@@ -4,15 +4,14 @@ export const billieEilishThereforeIAm = {
   id: "01a0676a-d72e-7024-b4cc-342650686d7a",
   type: "page-type/release",
   slug: "billie-eilish-therefore-i-am",
-  title: "Therefore I Am",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 2.90535,
-  ownProgress: 2.90535,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "A",
   publishedAt: "2020-11-12",
+  rank: "A",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishThereforeIAm = {
       externalLink: "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM",
     },
   ],
+  title: "Therefore I Am",
 } as const satisfies Release

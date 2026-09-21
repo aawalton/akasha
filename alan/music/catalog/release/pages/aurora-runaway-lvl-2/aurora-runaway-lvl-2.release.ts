@@ -4,14 +4,13 @@ export const auroraRunawayLvl2 = {
   id: "01a0676a-d728-702d-aa5c-24941b5d6a7d",
   type: "page-type/release",
   slug: "aurora-runaway-lvl-2",
-  title: "Runaway (Lvl.2)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 7.711533,
-  ownProgress: 7.711533,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-05-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraRunawayLvl2 = {
       externalLink: "https://open.spotify.com/album/4MQrJZY0R1IAO4YhH7CzRZ",
     },
   ],
+  title: "Runaway (Lvl.2)",
 } as const satisfies Release

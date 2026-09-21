@@ -4,14 +4,13 @@ export const celticWoman22020thAnniversary = {
   id: "01a0676a-d714-701c-869b-87ab384cfed8",
   type: "page-type/release",
   slug: "celtic-woman-2-20-20th-anniversary",
-  title: "20 (20th Anniversary)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 68.69635,
-  ownProgress: 68.69635,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-01-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman22020thAnniversary = {
       externalLink: "https://open.spotify.com/album/3uAqoycvjKO32NMWswWJes",
     },
   ],
+  title: "20 (20th Anniversary)",
 } as const satisfies Release

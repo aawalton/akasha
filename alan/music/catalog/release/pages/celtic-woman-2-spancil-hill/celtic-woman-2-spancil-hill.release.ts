@@ -4,14 +4,13 @@ export const celticWoman2SpancilHill = {
   id: "01a0676a-d729-7071-9ab4-ad28b6812182",
   type: "page-type/release",
   slug: "celtic-woman-2-spancil-hill",
-  title: "Spancil Hill",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 3.308333,
-  ownProgress: 3.308333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-07-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2SpancilHill = {
       externalLink: "https://open.spotify.com/album/4vqPZ33aCyf4YmwYSrc0qd",
     },
   ],
+  title: "Spancil Hill",
 } as const satisfies Release

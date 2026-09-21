@@ -4,14 +4,13 @@ export const paulCardallTheCelebrateLifeConcertLive = {
   id: "01a0676a-d72c-703b-a5ed-5ab521a92bc7",
   type: "page-type/release",
   slug: "paul-cardall-the-celebrate-life-concert-live",
-  title: "The Celebrate Life Concert (Live)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 60.050133,
-  ownProgress: 60.050133,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2010-09-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallTheCelebrateLifeConcertLive = {
       externalLink: "https://open.spotify.com/album/5N3QPn6eIMFc73jfHxtCC1",
     },
   ],
+  title: "The Celebrate Life Concert (Live)",
 } as const satisfies Release

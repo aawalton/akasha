@@ -4,15 +4,14 @@ export const emeiDistracted = {
   id: "01a0676a-d71c-7015-994f-0024a278a7cc",
   type: "page-type/release",
   slug: "emei-distracted",
-  title: "Distracted",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.68,
-  ownProgress: 2.68,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2021-08-20",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiDistracted = {
       externalLink: "https://open.spotify.com/album/05pOtkIgnk3jbeEctdrQuT",
     },
   ],
+  title: "Distracted",
 } as const satisfies Release

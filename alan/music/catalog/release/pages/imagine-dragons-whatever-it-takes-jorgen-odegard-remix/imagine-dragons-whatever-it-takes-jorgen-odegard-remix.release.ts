@@ -4,14 +4,13 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemix = {
   id: "01a0676a-d730-704e-8995-168874e907c8",
   type: "page-type/release",
   slug: "imagine-dragons-whatever-it-takes-jorgen-odegard-remix",
-  title: "Whatever It Takes (Jorgen Odegard Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 3.881467,
-  ownProgress: 3.881467,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-11-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemix = {
       externalLink: "https://open.spotify.com/album/0m0eZs2dMG94vnMAJmcRSe",
     },
   ],
+  title: "Whatever It Takes (Jorgen Odegard Remix)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const paulCardallTheHymnsCollection2DiscSet = {
   id: "01a0676a-d72d-702a-ac50-78b5b5cf30eb",
   type: "page-type/release",
   slug: "paul-cardall-the-hymns-collection-2-disc-set",
-  title: "The Hymns Collection (2 Disc Set)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 104.653667,
-  ownProgress: 104.653667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2008-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallTheHymnsCollection2DiscSet = {
       externalLink: "https://open.spotify.com/album/5nMLSSi5QhzqRNAgpbLNFF",
     },
   ],
+  title: "The Hymns Collection (2 Disc Set)",
 } as const satisfies Release

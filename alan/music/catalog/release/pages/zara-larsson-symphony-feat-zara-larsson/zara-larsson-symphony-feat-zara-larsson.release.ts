@@ -4,14 +4,13 @@ export const zaraLarssonSymphonyFeatZaraLarsson = {
   id: "01a0676a-d72b-700a-82e6-010288c930b8",
   type: "page-type/release",
   slug: "zara-larsson-symphony-feat-zara-larsson",
-  title: "Symphony (feat. Zara Larsson)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.540983,
-  ownProgress: 3.540983,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-03-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonSymphonyFeatZaraLarsson = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Symphony (feat. Zara Larsson)",
 } as const satisfies Release

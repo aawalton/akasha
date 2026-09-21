@@ -4,14 +4,13 @@ export const chaislynLittleDidIKnow = {
   id: "01a0676a-d723-7038-a9a8-e5b26fe0dcf9",
   type: "page-type/release",
   slug: "chaislyn-little-did-i-know",
-  title: "Little Did I Know",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/chaislyn"],
   position: 0,
-  ownLength: 3.76075,
-  ownProgress: 3.76075,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-11-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const chaislynLittleDidIKnow = {
       externalLink: "https://open.spotify.com/album/7a8g1qUgPRFZhurR9TclvG",
     },
   ],
+  title: "Little Did I Know",
 } as const satisfies Release

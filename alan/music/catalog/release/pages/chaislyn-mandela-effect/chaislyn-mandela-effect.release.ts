@@ -4,7 +4,7 @@ export const chaislynMandelaEffect = {
   id: "01a0b9ec-95e7-763e-99c2-d6acd409af18",
   type: "page-type/release",
   slug: "chaislyn-mandela-effect",
-  ownLength: 2.8236,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/chaislyn"],
   position: 0,

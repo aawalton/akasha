@@ -4,14 +4,13 @@ export const arianaGrandeItWasAMaskedChristmas = {
   id: "01a0676a-d722-7018-b274-7eb31efdcf4b",
   type: "page-type/release",
   slug: "ariana-grande-it-was-a-masked-christmas",
-  title: "It Was A… (Masked Christmas)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.01515,
-  ownProgress: 3.01515,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-12-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeItWasAMaskedChristmas = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "It Was A… (Masked Christmas)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const imagineDragonsIBetMyLifeRiotGamesRemix = {
   id: "01a0676a-d721-7003-a894-784ee5939511",
   type: "page-type/release",
   slug: "imagine-dragons-i-bet-my-life-riot-games-remix",
-  title: "I Bet My Life (Riot Games Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 3.5131,
-  ownProgress: 3.5131,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-09-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsIBetMyLifeRiotGamesRemix = {
       externalLink: "https://open.spotify.com/album/0ebCNFubPQlnPLuHvbwgTE",
     },
   ],
+  title: "I Bet My Life (Riot Games Remix)",
 } as const satisfies Release

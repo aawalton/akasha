@@ -4,14 +4,13 @@ export const vinnyMarchiDrivingMePsycho = {
   id: "01a0676a-d71c-703b-961d-5cb57d7d375f",
   type: "page-type/release",
   slug: "vinny-marchi-driving-me-psycho",
-  title: "DRIVING ME PSYCHO",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.472683,
-  ownProgress: 3.472683,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-04-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiDrivingMePsycho = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "DRIVING ME PSYCHO",
 } as const satisfies Release

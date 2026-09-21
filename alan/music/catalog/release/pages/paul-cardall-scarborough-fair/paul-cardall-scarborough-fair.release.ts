@@ -4,14 +4,13 @@ export const paulCardallScarboroughFair = {
   id: "01a0676a-d728-7051-843f-2c249df0b190",
   type: "page-type/release",
   slug: "paul-cardall-scarborough-fair",
-  title: "Scarborough Fair",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 16.967583,
-  ownProgress: 16.967583,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2013-02-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallScarboroughFair = {
       externalLink: "https://open.spotify.com/album/4v9KdXb60N63b97C6OQbw7",
     },
   ],
+  title: "Scarborough Fair",
 } as const satisfies Release

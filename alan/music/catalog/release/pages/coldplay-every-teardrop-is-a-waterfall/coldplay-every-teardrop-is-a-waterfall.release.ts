@@ -4,14 +4,13 @@ export const coldplayEveryTeardropIsAWaterfall = {
   id: "01a0676a-d71d-7033-aafd-13ab25efa176",
   type: "page-type/release",
   slug: "coldplay-every-teardrop-is-a-waterfall",
-  title: "Every Teardrop Is a Waterfall",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 7.554733,
-  ownProgress: 7.554733,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2011-06-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayEveryTeardropIsAWaterfall = {
       externalLink: "https://open.spotify.com/album/167lFNaglzjVhEDB7smSFL",
     },
   ],
+  title: "Every Teardrop Is a Waterfall",
 } as const satisfies Release

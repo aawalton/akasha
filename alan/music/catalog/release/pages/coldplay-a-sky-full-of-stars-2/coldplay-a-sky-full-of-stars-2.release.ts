@@ -4,14 +4,13 @@ export const coldplayASkyFullOfStars2 = {
   id: "01a0676a-d715-7040-b0eb-05437f63f3e6",
   type: "page-type/release",
   slug: "coldplay-a-sky-full-of-stars-2",
-  title: "A Sky Full of Stars",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 13.382083,
-  ownProgress: 13.382083,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-06-29",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayASkyFullOfStars2 = {
       externalLink: "https://open.spotify.com/album/2jQB4YEh4xWhloG21IueUf",
     },
   ],
+  title: "A Sky Full of Stars",
 } as const satisfies Release

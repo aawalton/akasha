@@ -4,7 +4,7 @@ export const thePianoGuysClassicalForStudying = {
   id: "01a0afa1-c816-7097-b6b6-87c788e9488e",
   type: "page-type/release",
   slug: "the-piano-guys-classical-for-studying",
-  ownLength: 54.47031666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,

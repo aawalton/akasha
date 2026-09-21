@@ -4,14 +4,13 @@ export const coldplayPrincessOfChinaAndreSobotaRemix = {
   id: "01a0676a-d727-701f-9b0c-fbb98aebddc5",
   type: "page-type/release",
   slug: "coldplay-princess-of-china-andre-sobota-remix",
-  title: "Princess of China (Andre Sobota Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 5.0664,
-  ownProgress: 5.0664,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-06-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayPrincessOfChinaAndreSobotaRemix = {
       externalLink: "https://open.spotify.com/album/5GMAB2CiYfO711PUbJHMp4",
     },
   ],
+  title: "Princess of China (Andre Sobota Remix)",
 } as const satisfies Release

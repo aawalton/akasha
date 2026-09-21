@@ -4,14 +4,13 @@ export const coldplayLiveInBuenosAires = {
   id: "01a0676a-d723-704f-86dc-ef508619b6bd",
   type: "page-type/release",
   slug: "coldplay-live-in-buenos-aires",
-  title: "Live in Buenos Aires",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 114.45455,
-  ownProgress: 114.45455,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-12-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayLiveInBuenosAires = {
       externalLink: "https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2",
     },
   ],
+  title: "Live in Buenos Aires",
 } as const satisfies Release

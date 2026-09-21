@@ -4,14 +4,13 @@ export const auroraAppleTreeGeorgiaRemix = {
   id: "01a0676a-d717-702f-8ba7-3032da3a1cd1",
   type: "page-type/release",
   slug: "aurora-apple-tree-georgia-remix",
-  title: "Apple Tree (Georgia Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 11.1561,
-  ownProgress: 11.1561,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-08-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraAppleTreeGeorgiaRemix = {
       externalLink: "https://open.spotify.com/album/2Tdddwxt5OoIvLs8rl3t6N",
     },
   ],
+  title: "Apple Tree (Georgia Remix)",
 } as const satisfies Release

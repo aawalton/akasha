@@ -4,14 +4,13 @@ export const coldplaySpeedOfSound2 = {
   id: "01a0676a-d729-707a-94c6-e607029fcb24",
   type: "page-type/release",
   slug: "coldplay-speed-of-sound-2",
-  title: "Speed of Sound",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 4.749967,
-  ownProgress: 4.749967,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2005-05-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplaySpeedOfSound2 = {
       externalLink: "https://open.spotify.com/album/0tT0oYLzbDAyFfb0ilJCv4",
     },
   ],
+  title: "Speed of Sound",
 } as const satisfies Release

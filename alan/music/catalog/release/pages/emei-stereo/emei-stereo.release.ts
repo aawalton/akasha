@@ -4,15 +4,14 @@ export const emeiStereo = {
   id: "01a0676a-d72a-701e-83a3-6c79d933cc75",
   type: "page-type/release",
   slug: "emei-stereo",
-  title: "Stereo",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.457517,
-  ownProgress: 2.457517,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2025-07-11",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiStereo = {
       externalLink: "https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ",
     },
   ],
+  title: "Stereo",
 } as const satisfies Release

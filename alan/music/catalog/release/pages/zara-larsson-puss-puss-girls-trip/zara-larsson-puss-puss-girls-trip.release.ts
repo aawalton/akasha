@@ -4,7 +4,7 @@ export const zaraLarssonPussPussGirlsTrip = {
   id: "01a0aa7c-2476-776f-a2b8-bc0f3445f4d6",
   type: "page-type/release",
   slug: "zara-larsson-puss-puss-girls-trip",
-  ownLength: 3.09535,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,

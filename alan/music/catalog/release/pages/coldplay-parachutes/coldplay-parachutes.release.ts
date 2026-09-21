@@ -4,14 +4,13 @@ export const coldplayParachutes = {
   id: "01a0676a-d726-705b-8a31-c95ea7dac055",
   type: "page-type/release",
   slug: "coldplay-parachutes",
-  title: "Parachutes",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 41.927283,
-  ownProgress: 41.927283,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2000-07-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayParachutes = {
       externalLink: "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra",
     },
   ],
+  title: "Parachutes",
 } as const satisfies Release

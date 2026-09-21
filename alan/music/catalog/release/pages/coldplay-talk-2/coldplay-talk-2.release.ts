@@ -4,14 +4,13 @@ export const coldplayTalk2 = {
   id: "01a0676a-d72c-7000-bb1c-2fa7fcb2323e",
   type: "page-type/release",
   slug: "coldplay-talk-2",
-  title: "Talk",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 13.964867,
-  ownProgress: 13.964867,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2005-12-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayTalk2 = {
       externalLink: "https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS",
     },
   ],
+  title: "Talk",
 } as const satisfies Release

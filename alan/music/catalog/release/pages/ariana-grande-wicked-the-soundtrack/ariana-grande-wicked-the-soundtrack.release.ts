@@ -4,14 +4,13 @@ export const arianaGrandeWickedTheSoundtrack = {
   id: "01a0676a-d731-7019-a6f1-b595fa8757d8",
   type: "page-type/release",
   slug: "ariana-grande-wicked-the-soundtrack",
-  title: "Wicked: The Soundtrack",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 62.7328,
-  ownProgress: 62.7328,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-11-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeWickedTheSoundtrack = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Wicked: The Soundtrack",
 } as const satisfies Release

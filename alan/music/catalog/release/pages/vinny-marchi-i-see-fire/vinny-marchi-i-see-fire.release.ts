@@ -4,15 +4,14 @@ export const vinnyMarchiISeeFire = {
   id: "01a0676a-d721-703d-abd5-6a17928860f8",
   type: "page-type/release",
   slug: "vinny-marchi-i-see-fire",
-  title: "I See Fire",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.890883,
-  ownProgress: 3.890883,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2024-03-08",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiISeeFire = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "I See Fire",
 } as const satisfies Release

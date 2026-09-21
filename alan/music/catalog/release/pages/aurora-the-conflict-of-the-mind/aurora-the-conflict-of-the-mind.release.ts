@@ -4,14 +4,13 @@ export const auroraTheConflictOfTheMind = {
   id: "01a0676a-d72c-7044-8a13-f74f8146a3cb",
   type: "page-type/release",
   slug: "aurora-the-conflict-of-the-mind",
-  title: "The Conflict of the Mind",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 8.4011,
-  ownProgress: 8.4011,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-01-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraTheConflictOfTheMind = {
       externalLink: "https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE",
     },
   ],
+  title: "The Conflict of the Mind",
 } as const satisfies Release

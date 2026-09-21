@@ -4,14 +4,13 @@ export const sabrinaCarpenterSkinnyDippingAcoustic = {
   id: "01a0676a-d729-701a-9531-94e9f24f5568",
   type: "page-type/release",
   slug: "sabrina-carpenter-skinny-dipping-acoustic",
-  title: "skinny dipping (Acoustic)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 6.177283,
-  ownProgress: 6.177283,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-11-05",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterSkinnyDippingAcoustic = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "skinny dipping (Acoustic)",
 } as const satisfies Release

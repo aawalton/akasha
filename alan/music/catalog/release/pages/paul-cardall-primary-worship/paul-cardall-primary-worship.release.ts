@@ -4,14 +4,13 @@ export const paulCardallPrimaryWorship = {
   id: "01a0676a-d727-701c-8e64-f93ef7b74e7e",
   type: "page-type/release",
   slug: "paul-cardall-primary-worship",
-  title: "Primary Worship",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 52.410383,
-  ownProgress: 52.410383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2005-09-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallPrimaryWorship = {
       externalLink: "https://open.spotify.com/album/5O2gDJ3JsWX854qnmnDzyS",
     },
   ],
+  title: "Primary Worship",
 } as const satisfies Release

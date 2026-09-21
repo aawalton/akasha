@@ -4,7 +4,7 @@ export const arianaGrandePetal = {
   id: "01a0a6c5-03b4-7df3-b78a-0570d406fde1",
   type: "page-type/release",
   slug: "ariana-grande-petal",
-  ownLength: 36.22258333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,

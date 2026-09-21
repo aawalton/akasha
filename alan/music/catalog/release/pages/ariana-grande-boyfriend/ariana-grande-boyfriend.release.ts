@@ -4,14 +4,13 @@ export const arianaGrandeBoyfriend = {
   id: "01a0676a-d719-7029-b483-af6a33527d07",
   type: "page-type/release",
   slug: "ariana-grande-boyfriend",
-  title: "boyfriend",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.101767,
-  ownProgress: 3.101767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-08-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeBoyfriend = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "boyfriend",
 } as const satisfies Release

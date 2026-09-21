@@ -4,14 +4,13 @@ export const sabrinaCarpenterFirstLove = {
   id: "01a0676a-d71e-7002-8f50-251e0ee5fddb",
   type: "page-type/release",
   slug: "sabrina-carpenter-first-love",
-  title: "First Love",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.457117,
-  ownProgress: 3.457117,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-10-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterFirstLove = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "First Love",
 } as const satisfies Release

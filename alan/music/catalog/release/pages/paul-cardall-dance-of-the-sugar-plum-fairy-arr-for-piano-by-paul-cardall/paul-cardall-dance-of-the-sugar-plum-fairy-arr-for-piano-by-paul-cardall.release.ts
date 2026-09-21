@@ -4,14 +4,13 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardall = {
   id: "01a0676a-d71b-7059-a0c5-4099da267ee0",
   type: "page-type/release",
   slug: "paul-cardall-dance-of-the-sugar-plum-fairy-arr-for-piano-by-paul-cardall",
-  title: "Dance of the Sugar Plum Fairy (Arr. for piano by Paul Cardall)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 3.54985,
-  ownProgress: 3.54985,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-11-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardall = {
       externalLink: "https://open.spotify.com/album/2gEb1BYQ3x2vQrFktHCdBe",
     },
   ],
+  title: "Dance of the Sugar Plum Fairy (Arr. for piano by Paul Cardall)",
 } as const satisfies Release

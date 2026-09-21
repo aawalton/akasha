@@ -4,14 +4,13 @@ export const coldplayHigherPower = {
   id: "01a0676a-d720-703b-a588-77d391a2913d",
   type: "page-type/release",
   slug: "coldplay-higher-power",
-  title: "Higher Power",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.521567,
-  ownProgress: 3.521567,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-05-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayHigherPower = {
       externalLink: "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg",
     },
   ],
+  title: "Higher Power",
 } as const satisfies Release

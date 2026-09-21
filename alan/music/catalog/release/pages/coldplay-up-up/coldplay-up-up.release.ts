@@ -4,14 +4,13 @@ export const coldplayUpUp = {
   id: "01a0676a-d72f-7055-aeac-61973012f953",
   type: "page-type/release",
   slug: "coldplay-up-up",
-  title: "Up&Up",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.968217,
-  ownProgress: 3.968217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-04-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayUpUp = {
       externalLink: "https://open.spotify.com/album/39CemyWzo6fJbvbAyICDrj",
     },
   ],
+  title: "Up&Up",
 } as const satisfies Release

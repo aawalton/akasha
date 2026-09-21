@@ -4,15 +4,14 @@ export const vinnyMarchiComeLittleChildren = {
   id: "01a0676a-d71b-7018-8757-5eb37e3771c1",
   type: "page-type/release",
   slug: "vinny-marchi-come-little-children",
-  title: "Come Little Children",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.57475,
-  ownProgress: 2.57475,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2022-09-18",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiComeLittleChildren = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Come Little Children",
 } as const satisfies Release

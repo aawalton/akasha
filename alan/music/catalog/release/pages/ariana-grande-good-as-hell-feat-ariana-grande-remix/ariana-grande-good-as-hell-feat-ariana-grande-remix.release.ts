@@ -4,14 +4,13 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemix = {
   id: "01a0676a-d71f-701b-9186-3da3220b9b09",
   type: "page-type/release",
   slug: "ariana-grande-good-as-hell-feat-ariana-grande-remix",
-  title: "Good as Hell (feat. Ariana Grande) [Remix]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 5.312433,
-  ownProgress: 5.312433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemix = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Good as Hell (feat. Ariana Grande) [Remix]",
 } as const satisfies Release

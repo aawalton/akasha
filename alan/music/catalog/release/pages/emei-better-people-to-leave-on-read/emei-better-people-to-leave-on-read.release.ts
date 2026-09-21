@@ -4,15 +4,14 @@ export const emeiBetterPeopleToLeaveOnRead = {
   id: "01a0676a-d718-704e-af7a-1b120aed71f6",
   type: "page-type/release",
   slug: "emei-better-people-to-leave-on-read",
-  title: "Better People To Leave On Read",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.189067,
-  ownProgress: 2.189067,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2022-01-26",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiBetterPeopleToLeaveOnRead = {
       externalLink: "https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A",
     },
   ],
+  title: "Better People To Leave On Read",
 } as const satisfies Release

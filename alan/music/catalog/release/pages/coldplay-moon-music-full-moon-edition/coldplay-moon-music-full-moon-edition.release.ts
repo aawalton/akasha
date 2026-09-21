@@ -4,14 +4,13 @@ export const coldplayMoonMusicFullMoonEdition = {
   id: "01a0676a-d724-7084-a614-141103c61ffb",
   type: "page-type/release",
   slug: "coldplay-moon-music-full-moon-edition",
-  title: "Moon Music (Full Moon Edition)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 79.124383,
-  ownProgress: 79.124383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-10-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayMoonMusicFullMoonEdition = {
       externalLink: "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI",
     },
   ],
+  title: "Moon Music (Full Moon Edition)",
 } as const satisfies Release

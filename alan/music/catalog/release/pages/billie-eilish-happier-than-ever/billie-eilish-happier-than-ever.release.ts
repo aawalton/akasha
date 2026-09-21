@@ -4,15 +4,14 @@ export const billieEilishHappierThanEver = {
   id: "01a0676a-d71f-7048-8dee-be24cf239e03",
   type: "page-type/release",
   slug: "billie-eilish-happier-than-ever",
-  title: "Happier Than Ever",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 56.263317,
-  ownProgress: 56.263317,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2021-07-30",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishHappierThanEver = {
       externalLink: "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
     },
   ],
+  title: "Happier Than Ever",
 } as const satisfies Release

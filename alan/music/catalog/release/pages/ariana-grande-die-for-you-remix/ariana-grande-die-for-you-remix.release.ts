@@ -4,14 +4,13 @@ export const arianaGrandeDieForYouRemix = {
   id: "01a0676a-d71c-7012-824c-db9ca1da6fee",
   type: "page-type/release",
   slug: "ariana-grande-die-for-you-remix",
-  title: "Die For You (Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.88095,
-  ownProgress: 3.88095,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-02-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeDieForYouRemix = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Die For You (Remix)",
 } as const satisfies Release

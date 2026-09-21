@@ -4,14 +4,13 @@ export const thePianoGuys3AMillionDreams = {
   id: "01a0676a-d715-7032-8b3c-7bb7cdf70a67",
   type: "page-type/release",
   slug: "the-piano-guys-3-a-million-dreams",
-  title: "A Million Dreams",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 4.76395,
-  ownProgress: 4.76395,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-03-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3AMillionDreams = {
       externalLink: "https://open.spotify.com/album/0sj2cr7lXdkxL1OYGxZedU",
     },
   ],
+  title: "A Million Dreams",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const coldplayAdventureOfALifetimeMatomaRemix = {
   id: "01a0676a-d716-7000-9fb4-143b796d4067",
   type: "page-type/release",
   slug: "coldplay-adventure-of-a-lifetime-matoma-remix",
-  title: "Adventure of a Lifetime (Matoma Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 4.178567,
-  ownProgress: 4.178567,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-12-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayAdventureOfALifetimeMatomaRemix = {
       externalLink: "https://open.spotify.com/album/1TbYQD52H9tKtZine3mHHJ",
     },
   ],
+  title: "Adventure of a Lifetime (Matoma Remix)",
 } as const satisfies Release

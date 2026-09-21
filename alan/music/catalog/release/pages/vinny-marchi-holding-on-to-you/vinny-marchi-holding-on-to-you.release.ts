@@ -4,14 +4,13 @@ export const vinnyMarchiHoldingOnToYou = {
   id: "01a0676a-d720-704b-8c26-140c6ea6fc42",
   type: "page-type/release",
   slug: "vinny-marchi-holding-on-to-you",
-  title: "holding on to you",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.881233,
-  ownProgress: 2.881233,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-01-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiHoldingOnToYou = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "holding on to you",
 } as const satisfies Release

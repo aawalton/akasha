@@ -4,14 +4,13 @@ export const paulCardallASacredChristmasPianoCollection = {
   id: "01a0676a-d715-703e-b639-0d04f13d7b0d",
   type: "page-type/release",
   slug: "paul-cardall-a-sacred-christmas-piano-collection",
-  title: "A Sacred Christmas | Piano Collection",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 45.98845,
-  ownProgress: 45.98845,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2011-12-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallASacredChristmasPianoCollection = {
       externalLink: "https://open.spotify.com/album/5XbQNxAmdzEli5HdjGSzcy",
     },
   ],
+  title: "A Sacred Christmas | Piano Collection",
 } as const satisfies Release

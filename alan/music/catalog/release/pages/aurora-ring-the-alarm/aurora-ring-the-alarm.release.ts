@@ -4,14 +4,13 @@ export const auroraRingTheAlarm = {
   id: "01a0676a-d728-700b-a3a2-58da70a3a62f",
   type: "page-type/release",
   slug: "aurora-ring-the-alarm",
-  title: "RING THE ALARM",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 5.52355,
-  ownProgress: 5.52355,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-12-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const auroraRingTheAlarm = {
       lastSyncedAt: "2025-12-31",
     },
   ],
+  title: "RING THE ALARM",
 } as const satisfies Release

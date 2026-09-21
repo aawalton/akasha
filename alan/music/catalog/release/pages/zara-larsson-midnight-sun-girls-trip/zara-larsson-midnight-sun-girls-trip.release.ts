@@ -4,7 +4,7 @@ export const zaraLarssonMidnightSunGirlsTrip = {
   id: "01a0aa7c-2008-7037-beb1-42f6917b36e5",
   type: "page-type/release",
   slug: "zara-larsson-midnight-sun-girls-trip",
-  ownLength: 66.06976666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,

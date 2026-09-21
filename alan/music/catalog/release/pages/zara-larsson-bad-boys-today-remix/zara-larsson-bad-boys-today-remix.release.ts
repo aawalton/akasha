@@ -4,14 +4,13 @@ export const zaraLarssonBadBoysTodayRemix = {
   id: "01a0676a-d718-7006-87ad-e8012eaa096d",
   type: "page-type/release",
   slug: "zara-larsson-bad-boys-today-remix",
-  title: "Bad Boys (Today Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.592,
-  ownProgress: 2.592,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2013-12-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonBadBoysTodayRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Bad Boys (Today Remix)",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const vinnyMarchiIHeardMrRamone = {
   id: "01a0676a-d721-7021-a1b2-9b94d2b27f62",
   type: "page-type/release",
   slug: "vinny-marchi-i-heard-mr-ramone",
-  title: "I Heard Mr. Ramone",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.50075,
-  ownProgress: 3.50075,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2025-11-07",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiIHeardMrRamone = {
       lastSyncedAt: "2025-11-23",
     },
   ],
+  title: "I Heard Mr. Ramone",
 } as const satisfies Release

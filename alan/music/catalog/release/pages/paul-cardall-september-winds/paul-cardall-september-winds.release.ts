@@ -4,14 +4,13 @@ export const paulCardallSeptemberWinds = {
   id: "01a0676a-d728-7061-8838-1222364b4d1a",
   type: "page-type/release",
   slug: "paul-cardall-september-winds",
-  title: "September Winds",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 3.804167,
-  ownProgress: 3.804167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-09-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallSeptemberWinds = {
       externalLink: "https://open.spotify.com/album/3Qflkxt8CZCgRyR1dbL8cN",
     },
   ],
+  title: "September Winds",
 } as const satisfies Release

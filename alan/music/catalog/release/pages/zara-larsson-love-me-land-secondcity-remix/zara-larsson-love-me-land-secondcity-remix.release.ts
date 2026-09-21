@@ -4,14 +4,13 @@ export const zaraLarssonLoveMeLandSecondcityRemix = {
   id: "01a0676a-d723-706f-8683-4de6cd4e3e1c",
   type: "page-type/release",
   slug: "zara-larsson-love-me-land-secondcity-remix",
-  title: "Love Me Land (Secondcity Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.781683,
-  ownProgress: 3.781683,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-08-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonLoveMeLandSecondcityRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Love Me Land (Secondcity Remix)",
 } as const satisfies Release

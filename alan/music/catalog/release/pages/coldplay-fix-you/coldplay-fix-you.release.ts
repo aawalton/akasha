@@ -4,14 +4,13 @@ export const coldplayFixYou = {
   id: "01a0676a-d71e-7005-9afb-f24dc9bb3eb7",
   type: "page-type/release",
   slug: "coldplay-fix-you",
-  title: "Fix You",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 20.635467,
-  ownProgress: 20.635467,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2005-09-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayFixYou = {
       externalLink: "https://open.spotify.com/album/1skkhQGSj1VljTbaejos3f",
     },
   ],
+  title: "Fix You",
 } as const satisfies Release

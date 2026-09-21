@@ -4,15 +4,14 @@ export const emeiRegrets = {
   id: "01a0676a-d727-7061-af04-ced7663cd0c4",
   type: "page-type/release",
   slug: "emei-regrets",
-  title: "Regrets",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.03755,
-  ownProgress: 2.03755,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2022-09-28",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiRegrets = {
       externalLink: "https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR",
     },
   ],
+  title: "Regrets",
 } as const satisfies Release

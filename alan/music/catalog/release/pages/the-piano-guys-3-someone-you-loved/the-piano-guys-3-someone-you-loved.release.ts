@@ -4,14 +4,13 @@ export const thePianoGuys3SomeoneYouLoved = {
   id: "01a0676a-d729-7057-a61c-01ee3eedaf24",
   type: "page-type/release",
   slug: "the-piano-guys-3-someone-you-loved",
-  title: "Someone You Loved",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 3.385767,
-  ownProgress: 3.385767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-08-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3SomeoneYouLoved = {
       externalLink: "https://open.spotify.com/album/6ueqbqheTXOv1vkf0KUWZT",
     },
   ],
+  title: "Someone You Loved",
 } as const satisfies Release

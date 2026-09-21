@@ -4,14 +4,13 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemix = {
   id: "01a0676a-d72b-7018-9e60-a4e7fef581be",
   type: "page-type/release",
   slug: "sabrina-carpenter-take-on-the-world-from-girl-meets-world-summer-remix",
-  title: "Take On the World (From “Girl Meets World”/Summer Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 2.990883,
-  ownProgress: 2.990883,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemix = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Take On the World (From “Girl Meets World”/Summer Remix)",
 } as const satisfies Release

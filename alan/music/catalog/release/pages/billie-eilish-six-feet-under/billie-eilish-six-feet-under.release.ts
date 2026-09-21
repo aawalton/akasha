@@ -4,15 +4,14 @@ export const billieEilishSixFeetUnder = {
   id: "01a0676a-d729-7013-9a12-da54992f94ef",
   type: "page-type/release",
   slug: "billie-eilish-six-feet-under",
-  title: "Six Feet Under",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 3.160217,
-  ownProgress: 3.160217,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "A",
   publishedAt: "2016-11-17",
+  rank: "A",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishSixFeetUnder = {
       externalLink: "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY",
     },
   ],
+  title: "Six Feet Under",
 } as const satisfies Release

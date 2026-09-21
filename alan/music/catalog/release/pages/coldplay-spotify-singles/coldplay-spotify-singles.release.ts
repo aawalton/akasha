@@ -4,14 +4,13 @@ export const coldplaySpotifySingles = {
   id: "01a0676a-d72a-7001-a90f-b174fb9ec9b2",
   type: "page-type/release",
   slug: "coldplay-spotify-singles",
-  title: "Spotify Singles",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 8.366933,
-  ownProgress: 8.366933,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-02-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplaySpotifySingles = {
       externalLink: "https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr",
     },
   ],
+  title: "Spotify Singles",
 } as const satisfies Release

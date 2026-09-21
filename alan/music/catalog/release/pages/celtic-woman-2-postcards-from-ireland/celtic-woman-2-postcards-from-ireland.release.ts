@@ -4,14 +4,13 @@ export const celticWoman2PostcardsFromIreland = {
   id: "01a0676a-d727-700d-b3fa-9e7cab50ef9d",
   type: "page-type/release",
   slug: "celtic-woman-2-postcards-from-ireland",
-  title: "Postcards From Ireland",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 51.009917,
-  ownProgress: 51.009917,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-10-29",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2PostcardsFromIreland = {
       externalLink: "https://open.spotify.com/album/6MEFNhfXzOAOiBjPLiPdhm",
     },
   ],
+  title: "Postcards From Ireland",
 } as const satisfies Release

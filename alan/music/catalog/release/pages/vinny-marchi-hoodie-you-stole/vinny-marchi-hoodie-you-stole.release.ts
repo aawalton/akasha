@@ -4,14 +4,13 @@ export const vinnyMarchiHoodieYouStole = {
   id: "01a0676a-d720-705b-978a-d5734eb72b82",
   type: "page-type/release",
   slug: "vinny-marchi-hoodie-you-stole",
-  title: "Hoodie You Stole",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.833433,
-  ownProgress: 2.833433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-11-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiHoodieYouStole = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Hoodie You Stole",
 } as const satisfies Release

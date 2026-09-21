@@ -4,14 +4,13 @@ export const theHoldernessFamilyInflatablesAnthemOriginalSong = {
   id: "01a0676a-d721-7072-8139-a548f999fc58",
   type: "page-type/release",
   slug: "the-holderness-family-inflatables-anthem-original-song",
-  title: "Inflatables Anthem (Original Song)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-holderness-family"],
   position: 0,
-  ownLength: 2.6088,
-  ownProgress: 2.6088,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-12-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const theHoldernessFamilyInflatablesAnthemOriginalSong = {
       lastSyncedAt: "2025-11-27",
     },
   ],
+  title: "Inflatables Anthem (Original Song)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const sabrinaCarpenterFastTimes = {
   id: "01a0676a-d71d-7065-9e0c-386fc3425857",
   type: "page-type/release",
   slug: "sabrina-carpenter-fast-times",
-  title: "Fast Times",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 2.908983,
-  ownProgress: 2.908983,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-02-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterFastTimes = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Fast Times",
 } as const satisfies Release

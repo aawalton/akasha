@@ -4,14 +4,13 @@ export const imagineDragonsThunderWithKFlayOfficialRemix = {
   id: "01a0676a-d72e-703d-90d0-a2525c8ed08f",
   type: "page-type/release",
   slug: "imagine-dragons-thunder-with-k-flay-official-remix",
-  title: "Thunder (With K.Flay) [Official Remix]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 3.262,
-  ownProgress: 3.262,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-09-08",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsThunderWithKFlayOfficialRemix = {
       externalLink: "https://open.spotify.com/album/7eNvFPoAnO4X944LXMmICz",
     },
   ],
+  title: "Thunder (With K.Flay) [Official Remix]",
 } as const satisfies Release

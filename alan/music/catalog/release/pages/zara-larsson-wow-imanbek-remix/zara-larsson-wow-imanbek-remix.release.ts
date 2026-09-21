@@ -4,14 +4,13 @@ export const zaraLarssonWowImanbekRemix = {
   id: "01a0676a-d731-703b-87fe-4f191d1d09fe",
   type: "page-type/release",
   slug: "zara-larsson-wow-imanbek-remix",
-  title: "WOW (Imanbek Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.1238,
-  ownProgress: 3.1238,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-10-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonWowImanbekRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "WOW (Imanbek Remix)",
 } as const satisfies Release

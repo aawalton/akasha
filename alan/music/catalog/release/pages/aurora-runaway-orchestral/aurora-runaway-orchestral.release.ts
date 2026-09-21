@@ -4,14 +4,13 @@ export const auroraRunawayOrchestral = {
   id: "01a0676a-d728-702e-82fe-d6d0abfc3cdb",
   type: "page-type/release",
   slug: "aurora-runaway-orchestral",
-  title: "Runaway (Orchestral)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 8.282383,
-  ownProgress: 8.282383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-02-27",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraRunawayOrchestral = {
       externalLink: "https://open.spotify.com/album/42kpZzNwOI177DpbDyTwP7",
     },
   ],
+  title: "Runaway (Orchestral)",
 } as const satisfies Release

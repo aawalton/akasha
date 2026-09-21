@@ -4,15 +4,14 @@ export const billieEilishLovelyWithKhalid = {
   id: "01a0676a-d724-7007-9ab6-e60c29e0f753",
   type: "page-type/release",
   slug: "billie-eilish-lovely-with-khalid",
-  title: "lovely (with Khalid)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 3.336417,
-  ownProgress: 3.336417,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2018-04-19",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishLovelyWithKhalid = {
       externalLink: "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK",
     },
   ],
+  title: "lovely (with Khalid)",
 } as const satisfies Release

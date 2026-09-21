@@ -4,14 +4,13 @@ export const sabrinaCarpenterWhyAcoustic = {
   id: "01a0676a-d731-7014-91fe-d9b6e71827b3",
   type: "page-type/release",
   slug: "sabrina-carpenter-why-acoustic",
-  title: "Why (Acoustic)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.075,
-  ownProgress: 3.075,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-11-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterWhyAcoustic = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Why (Acoustic)",
 } as const satisfies Release

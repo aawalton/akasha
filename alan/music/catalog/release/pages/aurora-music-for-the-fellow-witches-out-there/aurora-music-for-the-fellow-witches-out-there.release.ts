@@ -4,14 +4,13 @@ export const auroraMusicForTheFellowWitchesOutThere = {
   id: "01a0676a-d725-701b-9da9-41ab4246bac4",
   type: "page-type/release",
   slug: "aurora-music-for-the-fellow-witches-out-there",
-  title: "MUSIC FOR THE FELLOW WITCHES OUT THERE",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 26.361183,
-  ownProgress: 26.361183,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-02-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraMusicForTheFellowWitchesOutThere = {
       externalLink: "https://open.spotify.com/album/31R3o5kDvOHm2QI7hXwIPv",
     },
   ],
+  title: "MUSIC FOR THE FELLOW WITCHES OUT THERE",
 } as const satisfies Release

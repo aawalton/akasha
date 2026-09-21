@@ -4,15 +4,14 @@ export const emeiScatterbrainDeluxe = {
   id: "01a0676a-d728-7056-bc75-7340d9b2d360",
   type: "page-type/release",
   slug: "emei-scatterbrain-deluxe",
-  title: "Scatterbrain (Deluxe)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 23.114167,
-  ownProgress: 23.114167,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2024-07-12",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiScatterbrainDeluxe = {
       externalLink: "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5",
     },
   ],
+  title: "Scatterbrain (Deluxe)",
 } as const satisfies Release

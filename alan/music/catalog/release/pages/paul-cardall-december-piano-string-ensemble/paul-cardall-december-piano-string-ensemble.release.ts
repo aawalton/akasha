@@ -4,14 +4,13 @@ export const paulCardallDecemberPianoStringEnsemble = {
   id: "01a0676a-d71c-7000-ac3a-8f3b7656e086",
   type: "page-type/release",
   slug: "paul-cardall-december-piano-string-ensemble",
-  title: "December (Piano & String Ensemble)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 45.786783,
-  ownProgress: 45.786783,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-12-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallDecemberPianoStringEnsemble = {
       externalLink: "https://open.spotify.com/album/7gPTqqmN9P8vPNjy7HJP5c",
     },
   ],
+  title: "December (Piano & String Ensemble)",
 } as const satisfies Release

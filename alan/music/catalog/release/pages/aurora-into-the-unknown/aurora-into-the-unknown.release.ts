@@ -4,14 +4,13 @@ export const auroraIntoTheUnknown = {
   id: "01a0676a-d721-707a-b90c-657f37b26c65",
   type: "page-type/release",
   slug: "aurora-into-the-unknown",
-  title: "Into the Unknown",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.332667,
-  ownProgress: 3.332667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-03-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraIntoTheUnknown = {
       externalLink: "https://open.spotify.com/album/4iSXUMDfkZMFLIEnkAWWDL",
     },
   ],
+  title: "Into the Unknown",
 } as const satisfies Release

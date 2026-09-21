@@ -4,14 +4,13 @@ export const zaraLarssonDonTLetMeBeYoursRemixes = {
   id: "01a0676a-d71c-7022-abd4-e777db65de35",
   type: "page-type/release",
   slug: "zara-larsson-don-t-let-me-be-yours-remixes",
-  title: "Don't Let Me Be Yours (Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 7.6131,
-  ownProgress: 7.6131,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-06-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonDonTLetMeBeYoursRemixes = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Don't Let Me Be Yours (Remixes)",
 } as const satisfies Release

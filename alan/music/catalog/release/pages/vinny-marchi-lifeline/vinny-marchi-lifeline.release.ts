@@ -4,14 +4,13 @@ export const vinnyMarchiLifeline = {
   id: "01a0676a-d723-702b-923b-374dcc368f4d",
   type: "page-type/release",
   slug: "vinny-marchi-lifeline",
-  title: "LIFELINE",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.404767,
-  ownProgress: 3.404767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-02-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiLifeline = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "LIFELINE",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const sabrinaCarpenterThumbsAcoustic = {
   id: "01a0676a-d72e-703b-84d8-6fc2182122a9",
   type: "page-type/release",
   slug: "sabrina-carpenter-thumbs-acoustic",
-  title: "Thumbs (Acoustic)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.404567,
-  ownProgress: 3.404567,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-04-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterThumbsAcoustic = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Thumbs (Acoustic)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const thePianoGuys3ChristmasTogether = {
   id: "01a0676a-d71a-7043-9e29-d6ef6d70d08b",
   type: "page-type/release",
   slug: "the-piano-guys-3-christmas-together",
-  title: "Christmas Together",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 47.211967,
-  ownProgress: 47.211967,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-10-27",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3ChristmasTogether = {
       externalLink: "https://open.spotify.com/album/6l7eh2iJ25bUDYHFpMZLBM",
     },
   ],
+  title: "Christmas Together",
 } as const satisfies Release

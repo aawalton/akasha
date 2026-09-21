@@ -4,7 +4,7 @@ export const thePianoGuysPeacefulSummerNights = {
   id: "01a0afa1-c5d2-789e-8e6b-d690fb00f1ae",
   type: "page-type/release",
   slug: "the-piano-guys-peaceful-summer-nights",
-  ownLength: 46.7895,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,

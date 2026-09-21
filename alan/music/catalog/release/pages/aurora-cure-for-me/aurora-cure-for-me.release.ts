@@ -4,14 +4,13 @@ export const auroraCureForMe = {
   id: "01a0676a-d71b-7044-8b0c-e41476d17179",
   type: "page-type/release",
   slug: "aurora-cure-for-me",
-  title: "Cure For Me",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 15.900883,
-  ownProgress: 15.900883,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-10-31",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraCureForMe = {
       externalLink: "https://open.spotify.com/album/4GnjvWzip3cL7P0umc2bel",
     },
   ],
+  title: "Cure For Me",
 } as const satisfies Release

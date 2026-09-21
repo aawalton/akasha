@@ -4,15 +4,14 @@ export const vinnyMarchiLeaveThisParty = {
   id: "01a0676a-d722-7069-8912-82b3ce90e916",
   type: "page-type/release",
   slug: "vinny-marchi-leave-this-party",
-  title: "Leave This Party",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.99125,
-  ownProgress: 3.99125,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2024-02-09",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiLeaveThisParty = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Leave This Party",
 } as const satisfies Release

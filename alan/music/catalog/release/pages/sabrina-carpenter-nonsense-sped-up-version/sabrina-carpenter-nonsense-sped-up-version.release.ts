@@ -4,14 +4,13 @@ export const sabrinaCarpenterNonsenseSpedUpVersion = {
   id: "01a0676a-d725-7076-ad2c-2f64ab2b2580",
   type: "page-type/release",
   slug: "sabrina-carpenter-nonsense-sped-up-version",
-  title: "Nonsense (Sped Up Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 5.019367,
-  ownProgress: 5.019367,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-11-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterNonsenseSpedUpVersion = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Nonsense (Sped Up Version)",
 } as const satisfies Release

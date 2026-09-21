@@ -4,14 +4,13 @@ export const auroraAwakening = {
   id: "01a0676a-d717-7045-97d6-242bddf1191d",
   type: "page-type/release",
   slug: "aurora-awakening",
-  title: "Awakening",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.683017,
-  ownProgress: 3.683017,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-03-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraAwakening = {
       externalLink: "https://open.spotify.com/album/5zG8EfFYGCy5rN44KJHNMl",
     },
   ],
+  title: "Awakening",
 } as const satisfies Release

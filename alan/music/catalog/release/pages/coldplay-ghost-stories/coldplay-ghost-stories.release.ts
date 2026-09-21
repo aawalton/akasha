@@ -4,14 +4,13 @@ export const coldplayGhostStories = {
   id: "01a0676a-d71e-705a-a817-a5eae62043d3",
   type: "page-type/release",
   slug: "coldplay-ghost-stories",
-  title: "Ghost Stories",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 40.301967,
-  ownProgress: 40.301967,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-05-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayGhostStories = {
       externalLink: "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr",
     },
   ],
+  title: "Ghost Stories",
 } as const satisfies Release

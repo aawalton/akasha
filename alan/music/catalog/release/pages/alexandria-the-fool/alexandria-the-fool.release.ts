@@ -4,7 +4,7 @@ export const alexandriaTheFool = {
   id: "01a0aa7a-83fc-79c9-a46d-8ba339e8dbd4",
   type: "page-type/release",
   slug: "alexandria-the-fool",
-  ownLength: 2.91935,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/alexandria"],
   position: 0,

@@ -4,14 +4,13 @@ export const coldplaySomethingJustLikeThis = {
   id: "01a0676a-d729-705b-86d9-a0e187e4eed5",
   type: "page-type/release",
   slug: "coldplay-something-just-like-this",
-  title: "Something Just Like This",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 4.1271,
-  ownProgress: 4.1271,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-02-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplaySomethingJustLikeThis = {
       externalLink: "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX",
     },
   ],
+  title: "Something Just Like This",
 } as const satisfies Release

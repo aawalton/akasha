@@ -4,14 +4,13 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrande = {
   id: "01a0676a-d72b-7008-a826-df4cf82f1c7a",
   type: "page-type/release",
   slug: "ariana-grande-sympathy-is-a-knife-featuring-ariana-grande",
-  title: "Sympathy is a knife featuring ariana grande",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 2.568767,
-  ownProgress: 2.568767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-10-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrande = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Sympathy is a knife featuring ariana grande",
 } as const satisfies Release

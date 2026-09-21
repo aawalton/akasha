@@ -4,14 +4,13 @@ export const coldplayTrueLove = {
   id: "01a0676a-d72f-701f-a15b-ecba85a7facf",
   type: "page-type/release",
   slug: "coldplay-true-love",
-  title: "True Love",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 4.1,
-  ownProgress: 4.1,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-08-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayTrueLove = {
       externalLink: "https://open.spotify.com/album/5WBIRgdTtnf2cYfoSHSLEb",
     },
   ],
+  title: "True Love",
 } as const satisfies Release

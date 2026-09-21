@@ -4,14 +4,13 @@ export const paulCardallAllISeeIsSnow = {
   id: "01a0676a-d716-701d-8413-6cf77f32ee94",
   type: "page-type/release",
   slug: "paul-cardall-all-i-see-is-snow",
-  title: "All I See Is Snow",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 4.571433,
-  ownProgress: 4.571433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-12-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallAllISeeIsSnow = {
       externalLink: "https://open.spotify.com/album/5Yd5YDAQLdqQV9R73dRPSX",
     },
   ],
+  title: "All I See Is Snow",
 } as const satisfies Release

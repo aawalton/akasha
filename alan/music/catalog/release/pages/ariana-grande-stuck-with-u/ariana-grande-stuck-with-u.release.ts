@@ -4,14 +4,13 @@ export const arianaGrandeStuckWithU = {
   id: "01a0676a-d72a-7035-8319-f8a61923fdcb",
   type: "page-type/release",
   slug: "ariana-grande-stuck-with-u",
-  title: "Stuck with U",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.808033,
-  ownProgress: 3.808033,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-05-08",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeStuckWithU = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Stuck with U",
 } as const satisfies Release

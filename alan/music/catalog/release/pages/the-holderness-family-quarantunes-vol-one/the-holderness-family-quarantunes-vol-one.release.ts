@@ -4,14 +4,13 @@ export const theHoldernessFamilyQuarantunesVolOne = {
   id: "01a0676a-d727-7037-a350-f051120ca49c",
   type: "page-type/release",
   slug: "the-holderness-family-quarantunes-vol-one",
-  title: "Quarantunes, Vol. One",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-holderness-family"],
   position: 0,
-  ownLength: 46.5096,
-  ownProgress: 46.5096,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-04-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const theHoldernessFamilyQuarantunesVolOne = {
       lastSyncedAt: "2025-11-27",
     },
   ],
+  title: "Quarantunes, Vol. One",
 } as const satisfies Release

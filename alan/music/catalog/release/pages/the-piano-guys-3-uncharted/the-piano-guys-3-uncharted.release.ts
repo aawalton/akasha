@@ -4,14 +4,13 @@ export const thePianoGuys3Uncharted = {
   id: "01a0676a-d72f-7030-84c1-844f6b67be78",
   type: "page-type/release",
   slug: "the-piano-guys-3-uncharted",
-  title: "Uncharted",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 45.456383,
-  ownProgress: 45.456383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-10-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3Uncharted = {
       externalLink: "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd",
     },
   ],
+  title: "Uncharted",
 } as const satisfies Release

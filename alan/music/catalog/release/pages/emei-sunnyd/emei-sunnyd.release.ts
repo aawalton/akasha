@@ -4,15 +4,14 @@ export const emeiSunnyd = {
   id: "01a0676a-d72a-7046-a4f7-94312fdff606",
   type: "page-type/release",
   slug: "emei-sunnyd",
-  title: "SUNNYD",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.111233,
-  ownProgress: 2.111233,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2024-10-11",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiSunnyd = {
       externalLink: "https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ",
     },
   ],
+  title: "SUNNYD",
 } as const satisfies Release

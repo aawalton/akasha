@@ -4,14 +4,13 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSong = {
   id: "01a0676a-d71a-702a-bf78-d28804b24614",
   type: "page-type/release",
   slug: "imagine-dragons-children-of-the-sky-a-starfield-song",
-  title: "Children of the Sky (a Starfield song)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 3.460183,
-  ownProgress: 3.460183,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-08-30",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSong = {
       externalLink: "https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6",
     },
   ],
+  title: "Children of the Sky (a Starfield song)",
 } as const satisfies Release

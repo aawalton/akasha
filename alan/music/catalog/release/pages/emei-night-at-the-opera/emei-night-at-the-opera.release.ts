@@ -4,7 +4,7 @@ export const emeiNightAtTheOpera = {
   id: "01a0c43e-6fb1-7af3-b04c-1aedbe7d162a",
   type: "page-type/release",
   slug: "emei-night-at-the-opera",
-  ownLength: 15.77025,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,

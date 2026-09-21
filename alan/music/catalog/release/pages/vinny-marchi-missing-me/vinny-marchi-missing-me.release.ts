@@ -4,14 +4,13 @@ export const vinnyMarchiMissingMe = {
   id: "01a0676a-d724-7078-9a6a-373c98336664",
   type: "page-type/release",
   slug: "vinny-marchi-missing-me",
-  title: "missing me.",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.308667,
-  ownProgress: 3.308667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-11-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiMissingMe = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "missing me.",
 } as const satisfies Release

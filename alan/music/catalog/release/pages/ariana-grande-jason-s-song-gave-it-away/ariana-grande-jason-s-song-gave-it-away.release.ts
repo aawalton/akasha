@@ -4,14 +4,13 @@ export const arianaGrandeJasonSSongGaveItAway = {
   id: "01a0676a-d722-7021-b9a9-aa168ed15610",
   type: "page-type/release",
   slug: "ariana-grande-jason-s-song-gave-it-away",
-  title: "Jason's Song (Gave It Away)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 4.410217,
-  ownProgress: 4.410217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-09-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeJasonSSongGaveItAway = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Jason's Song (Gave It Away)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const sabrinaCarpenterEyesWideOpen = {
   id: "01a0676a-d71d-705b-95bd-a17767768530",
   type: "page-type/release",
   slug: "sabrina-carpenter-eyes-wide-open",
-  title: "Eyes Wide Open",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 40.61795,
-  ownProgress: 40.61795,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-04-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterEyesWideOpen = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Eyes Wide Open",
 } as const satisfies Release

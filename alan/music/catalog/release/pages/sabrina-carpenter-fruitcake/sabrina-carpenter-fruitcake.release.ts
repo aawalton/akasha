@@ -4,14 +4,13 @@ export const sabrinaCarpenterFruitcake = {
   id: "01a0676a-d71e-7044-b3ef-71ee16c9300d",
   type: "page-type/release",
   slug: "sabrina-carpenter-fruitcake",
-  title: "fruitcake",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 15.772417,
-  ownProgress: 15.772417,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-11-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterFruitcake = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "fruitcake",
 } as const satisfies Release

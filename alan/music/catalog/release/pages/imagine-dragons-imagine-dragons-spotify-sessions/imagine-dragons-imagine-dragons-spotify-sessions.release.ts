@@ -4,14 +4,13 @@ export const imagineDragonsImagineDragonsSpotifySessions = {
   id: "01a0676a-d721-705b-80e1-5c718770e612",
   type: "page-type/release",
   slug: "imagine-dragons-imagine-dragons-spotify-sessions",
-  title: "Imagine Dragons (Spotify Sessions)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 16.380367,
-  ownProgress: 16.380367,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-04-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsImagineDragonsSpotifySessions = {
       externalLink: "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA",
     },
   ],
+  title: "Imagine Dragons (Spotify Sessions)",
 } as const satisfies Release

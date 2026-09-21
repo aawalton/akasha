@@ -4,14 +4,13 @@ export const zaraLarssonEndOfTimeSpinallRemix = {
   id: "01a0676a-d71d-7012-8aa1-48e02bc9104b",
   type: "page-type/release",
   slug: "zara-larsson-end-of-time-spinall-remix",
-  title: "End Of Time (SPINALL Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.68775,
-  ownProgress: 3.68775,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-07-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonEndOfTimeSpinallRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "End Of Time (SPINALL Remix)",
 } as const satisfies Release

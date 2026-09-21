@@ -4,14 +4,13 @@ export const imagineDragonsBadLiarStripped = {
   id: "01a0676a-d718-700c-8e14-819deed046a0",
   type: "page-type/release",
   slug: "imagine-dragons-bad-liar-stripped",
-  title: "Bad Liar – Stripped",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 4.22045,
-  ownProgress: 4.22045,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-05-31",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsBadLiarStripped = {
       externalLink: "https://open.spotify.com/album/58401eNNELkIVx3xiwzJFy",
     },
   ],
+  title: "Bad Liar – Stripped",
 } as const satisfies Release

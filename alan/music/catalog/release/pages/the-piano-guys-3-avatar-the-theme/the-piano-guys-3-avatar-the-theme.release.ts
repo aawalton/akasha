@@ -4,14 +4,13 @@ export const thePianoGuys3AvatarTheTheme = {
   id: "01a0676a-d717-7041-afac-c5260d418ecc",
   type: "page-type/release",
   slug: "the-piano-guys-3-avatar-the-theme",
-  title: "Avatar (The Theme)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 3.054167,
-  ownProgress: 3.054167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-06-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3AvatarTheTheme = {
       externalLink: "https://open.spotify.com/album/6owJynSJhOtUZU85CGndvN",
     },
   ],
+  title: "Avatar (The Theme)",
 } as const satisfies Release

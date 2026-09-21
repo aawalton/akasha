@@ -4,7 +4,7 @@ export const thePianoGuysSerenity = {
   id: "01a0afa2-0823-7175-8899-c88f3737037f",
   type: "page-type/release",
   slug: "the-piano-guys-serenity",
-  ownLength: 60.83968333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,

@@ -4,14 +4,13 @@ export const arianaGrandeFocus = {
   id: "01a0676a-d71e-7019-baa0-12ddc03d9b26",
   type: "page-type/release",
   slug: "ariana-grande-focus",
-  title: "Focus",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.522667,
-  ownProgress: 3.522667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-10-30",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeFocus = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Focus",
 } as const satisfies Release

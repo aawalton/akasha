@@ -4,14 +4,13 @@ export const zaraLarssonWordsFeatZaraLarsson = {
   id: "01a0676a-d731-7036-8294-05e6f453c2c3",
   type: "page-type/release",
   slug: "zara-larsson-words-feat-zara-larsson",
-  title: "Words (feat. Zara Larsson)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.37795,
-  ownProgress: 2.37795,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-04-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonWordsFeatZaraLarsson = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Words (feat. Zara Larsson)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const paulCardallTheShoresOfNormandy = {
   id: "01a0676a-d72e-7009-87fc-93946768e747",
   type: "page-type/release",
   slug: "paul-cardall-the-shores-of-normandy",
-  title: "The Shores of Normandy",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 4.3414,
-  ownProgress: 4.3414,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-06-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallTheShoresOfNormandy = {
       externalLink: "https://open.spotify.com/album/76ErnhzN5N0srD2O7RuEtU",
     },
   ],
+  title: "The Shores of Normandy",
 } as const satisfies Release

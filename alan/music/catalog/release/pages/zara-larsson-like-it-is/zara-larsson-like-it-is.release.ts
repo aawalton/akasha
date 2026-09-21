@@ -4,14 +4,13 @@ export const zaraLarssonLikeItIs = {
   id: "01a0676a-d723-7034-9205-2e2c6cf31629",
   type: "page-type/release",
   slug: "zara-larsson-like-it-is",
-  title: "Like It Is",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.051117,
-  ownProgress: 3.051117,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-03-27",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonLikeItIs = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Like It Is",
 } as const satisfies Release

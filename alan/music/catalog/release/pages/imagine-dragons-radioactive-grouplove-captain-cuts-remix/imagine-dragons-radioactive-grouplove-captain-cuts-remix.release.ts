@@ -4,14 +4,13 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemix = {
   id: "01a0676a-d727-7044-81be-6bd3513f7cc8",
   type: "page-type/release",
   slug: "imagine-dragons-radioactive-grouplove-captain-cuts-remix",
-  title: "Radioactive (Grouplove & Captain Cuts Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 4.026883,
-  ownProgress: 4.026883,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemix = {
       externalLink: "https://open.spotify.com/album/0C68H3OpnPO9RMDsLLeCDw",
     },
   ],
+  title: "Radioactive (Grouplove & Captain Cuts Remix)",
 } as const satisfies Release

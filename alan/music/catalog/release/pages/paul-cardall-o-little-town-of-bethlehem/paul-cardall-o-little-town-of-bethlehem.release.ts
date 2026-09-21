@@ -4,14 +4,13 @@ export const paulCardallOLittleTownOfBethlehem = {
   id: "01a0676a-d726-7011-82b0-e575cbe25e6c",
   type: "page-type/release",
   slug: "paul-cardall-o-little-town-of-bethlehem",
-  title: "O Little Town of Bethlehem",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 4.108517,
-  ownProgress: 4.108517,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-11-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallOLittleTownOfBethlehem = {
       externalLink: "https://open.spotify.com/album/1tAwMgWqxsk3iDVpioTUWM",
     },
   ],
+  title: "O Little Town of Bethlehem",
 } as const satisfies Release

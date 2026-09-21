@@ -4,14 +4,13 @@ export const celticWoman2OrinocoFlow = {
   id: "01a0676a-d726-704a-af17-4a7680e7f78e",
   type: "page-type/release",
   slug: "celtic-woman-2-orinoco-flow",
-  title: "Orinoco Flow",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 3.87155,
-  ownProgress: 3.87155,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-09-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2OrinocoFlow = {
       externalLink: "https://open.spotify.com/album/2dDDZ4pFNpUe6ilY0NE6ti",
     },
   ],
+  title: "Orinoco Flow",
 } as const satisfies Release

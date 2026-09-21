@@ -4,7 +4,7 @@ export const paulCardall40HymnsForGuitar = {
   id: "01a0b4c8-184d-7249-ad75-5c68d2e7b2b8",
   type: "page-type/release",
   slug: "paul-cardall-40-hymns-for-guitar",
-  ownLength: 122.26138333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,

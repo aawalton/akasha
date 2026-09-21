@@ -4,14 +4,13 @@ export const arianaGrandeDangerousWoman = {
   id: "01a0676a-d71b-7064-8497-06ce340e5b8e",
   type: "page-type/release",
   slug: "ariana-grande-dangerous-woman",
-  title: "Dangerous Woman",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 63.128367,
-  ownProgress: 63.128367,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-05-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeDangerousWoman = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Dangerous Woman",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const vinnyMarchiCouldICallYouMineCraft = {
   id: "01a0676a-d71b-702d-b8a6-e91187e2b1dd",
   type: "page-type/release",
   slug: "vinny-marchi-could-i-call-you-mine-craft",
-  title: "Could I Call You Mine (Craft)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.152967,
-  ownProgress: 3.152967,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-12-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiCouldICallYouMineCraft = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Could I Call You Mine (Craft)",
 } as const satisfies Release

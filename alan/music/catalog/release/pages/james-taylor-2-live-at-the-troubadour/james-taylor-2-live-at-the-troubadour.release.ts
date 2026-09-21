@@ -4,14 +4,13 @@ export const jamesTaylor2LiveAtTheTroubadour = {
   id: "01a0676a-d723-7048-a21f-e512425a0d51",
   type: "page-type/release",
   slug: "james-taylor-2-live-at-the-troubadour",
-  title: "Live At The Troubadour",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 63.88125,
-  ownProgress: 63.88125,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2010-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2LiveAtTheTroubadour = {
       externalLink: "https://open.spotify.com/album/0sCulNLnuzZW4TGugGi6Gv",
     },
   ],
+  title: "Live At The Troubadour",
 } as const satisfies Release

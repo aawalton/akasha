@@ -4,14 +4,13 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplay = {
   id: "01a0676a-d71d-706f-8ea5-daf26f9928c1",
   type: "page-type/release",
   slug: "coldplay-feelslikeimfallinginlove-zerb-x-coldplay",
-  title: "feelslikeimfallinginlove (Zerb x Coldplay)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.943533,
-  ownProgress: 3.943533,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-08-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplay = {
       externalLink: "https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI",
     },
   ],
+  title: "feelslikeimfallinginlove (Zerb x Coldplay)",
 } as const satisfies Release

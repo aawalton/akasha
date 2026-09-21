@@ -4,15 +4,14 @@ export const vinnyMarchiBigBadWolf = {
   id: "01a0676a-d718-7056-8258-fbf97b748be8",
   type: "page-type/release",
   slug: "vinny-marchi-big-bad-wolf",
-  title: "Big Bad Wolf",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.352533,
-  ownProgress: 2.352533,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2024-11-26",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiBigBadWolf = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Big Bad Wolf",
 } as const satisfies Release

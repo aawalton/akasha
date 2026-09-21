@@ -4,14 +4,13 @@ export const chaislynSidetracked = {
   id: "01a0676a-d729-7004-9a92-0a2bcf4a30b0",
   type: "page-type/release",
   slug: "chaislyn-sidetracked",
-  title: "Sidetracked",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/chaislyn"],
   position: 0,
-  ownLength: 2.9923,
-  ownProgress: 2.9923,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-08-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const chaislynSidetracked = {
       externalLink: "https://open.spotify.com/album/0U59gfuWk7sG0IGRV5vOws",
     },
   ],
+  title: "Sidetracked",
 } as const satisfies Release

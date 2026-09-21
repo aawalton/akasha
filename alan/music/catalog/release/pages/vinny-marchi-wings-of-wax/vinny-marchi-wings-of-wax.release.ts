@@ -4,14 +4,13 @@ export const vinnyMarchiWingsOfWax = {
   id: "01a0676a-d731-7025-8e77-f9cc69453c45",
   type: "page-type/release",
   slug: "vinny-marchi-wings-of-wax",
-  title: "Wings of Wax",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.815233,
-  ownProgress: 0,
-  unit: "unit/minutes",
-  status: "not-started",
   publishedAt: "2026-01-30",
+  status: "not-started",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiWingsOfWax = {
       lastSyncedAt: "2026-02-25",
     },
   ],
+  title: "Wings of Wax",
 } as const satisfies Release

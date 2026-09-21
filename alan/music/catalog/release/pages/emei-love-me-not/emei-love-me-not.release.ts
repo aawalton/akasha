@@ -4,15 +4,14 @@ export const emeiLoveMeNot = {
   id: "01a0676a-d723-7075-aef9-0aef5eee6f81",
   type: "page-type/release",
   slug: "emei-love-me-not",
-  title: "Love Me Not",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.33925,
-  ownProgress: 2.33925,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2024-02-09",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiLoveMeNot = {
       externalLink: "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh",
     },
   ],
+  title: "Love Me Not",
 } as const satisfies Release

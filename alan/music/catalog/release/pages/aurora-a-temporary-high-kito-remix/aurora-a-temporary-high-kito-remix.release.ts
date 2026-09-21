@@ -4,14 +4,13 @@ export const auroraATemporaryHighKitoRemix = {
   id: "01a0676a-d715-7045-8835-4f17e47bca3d",
   type: "page-type/release",
   slug: "aurora-a-temporary-high-kito-remix",
-  title: "A Temporary High (Kito Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.115333,
-  ownProgress: 3.115333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-08-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraATemporaryHighKitoRemix = {
       externalLink: "https://open.spotify.com/album/7A5pMZfyF8bQToPbSq0ZmH",
     },
   ],
+  title: "A Temporary High (Kito Remix)",
 } as const satisfies Release

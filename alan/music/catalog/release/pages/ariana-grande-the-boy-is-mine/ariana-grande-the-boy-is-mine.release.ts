@@ -4,14 +4,13 @@ export const arianaGrandeTheBoyIsMine = {
   id: "01a0676a-d72c-7035-8ddf-23e2cf11039a",
   type: "page-type/release",
   slug: "ariana-grande-the-boy-is-mine",
-  title: "the boy is mine",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 15.61205,
-  ownProgress: 15.61205,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-07-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeTheBoyIsMine = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "the boy is mine",
 } as const satisfies Release

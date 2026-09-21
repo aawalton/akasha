@@ -4,14 +4,13 @@ export const celticWoman2YouRaiseMeUp20thAnniversary = {
   id: "01a0676a-d732-7013-b858-fcb8c0618c13",
   type: "page-type/release",
   slug: "celtic-woman-2-you-raise-me-up-20th-anniversary",
-  title: "You Raise Me Up (20th Anniversary)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 4.266667,
-  ownProgress: 4.266667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-01-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2YouRaiseMeUp20thAnniversary = {
       externalLink: "https://open.spotify.com/album/7yB5To4LbALjfWCSVmekN5",
     },
   ],
+  title: "You Raise Me Up (20th Anniversary)",
 } as const satisfies Release

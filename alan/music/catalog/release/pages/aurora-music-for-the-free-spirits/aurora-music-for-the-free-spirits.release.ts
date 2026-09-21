@@ -4,14 +4,13 @@ export const auroraMusicForTheFreeSpirits = {
   id: "01a0676a-d725-701c-9ca4-8c6cf4378418",
   type: "page-type/release",
   slug: "aurora-music-for-the-free-spirits",
-  title: "MUSIC FOR THE FREE SPIRITS",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 22.6438,
-  ownProgress: 22.6438,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-02-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraMusicForTheFreeSpirits = {
       externalLink: "https://open.spotify.com/album/3rzTunDWgImuf8YQN5qlKc",
     },
   ],
+  title: "MUSIC FOR THE FREE SPIRITS",
 } as const satisfies Release

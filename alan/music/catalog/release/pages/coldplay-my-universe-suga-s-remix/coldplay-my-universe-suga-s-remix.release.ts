@@ -4,14 +4,13 @@ export const coldplayMyUniverseSugaSRemix = {
   id: "01a0676a-d725-703b-a3f8-22041c5c5bf2",
   type: "page-type/release",
   slug: "coldplay-my-universe-suga-s-remix",
-  title: "My Universe (SUGA's Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.137233,
-  ownProgress: 3.137233,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-09-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayMyUniverseSugaSRemix = {
       externalLink: "https://open.spotify.com/album/3oWWeH4gpNsJG0KyGaBoEd",
     },
   ],
+  title: "My Universe (SUGA's Remix)",
 } as const satisfies Release

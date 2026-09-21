@@ -4,14 +4,13 @@ export const arianaGrandeRainOnMeWithArianaGrande = {
   id: "01a0676a-d727-7047-b053-96bdbaa2de63",
   type: "page-type/release",
   slug: "ariana-grande-rain-on-me-with-ariana-grande",
-  title: "Rain On Me (with Ariana Grande)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.036667,
-  ownProgress: 3.036667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-05-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeRainOnMeWithArianaGrande = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Rain On Me (with Ariana Grande)",
 } as const satisfies Release

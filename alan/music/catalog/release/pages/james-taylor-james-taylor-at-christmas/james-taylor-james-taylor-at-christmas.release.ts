@@ -4,7 +4,7 @@ export const jamesTaylorJamesTaylorAtChristmas = {
   id: "01a0abeb-2c12-752a-a109-9bf25539a572",
   type: "page-type/release",
   slug: "james-taylor-james-taylor-at-christmas",
-  ownLength: 54.63015,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,

@@ -4,14 +4,13 @@ export const imagineDragonsImagineDragonsLiveLondonSessions = {
   id: "01a0676a-d721-705a-8251-a0da4b364b78",
   type: "page-type/release",
   slug: "imagine-dragons-imagine-dragons-live-london-sessions",
-  title: "Imagine Dragons (Live London Sessions)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 11.792433,
-  ownProgress: 11.792433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2013-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsImagineDragonsLiveLondonSessions = {
       externalLink: "https://open.spotify.com/album/2RQtDABXELc8EqB7pujcEi",
     },
   ],
+  title: "Imagine Dragons (Live London Sessions)",
 } as const satisfies Release

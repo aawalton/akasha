@@ -4,7 +4,7 @@ export const vinnyMarchiDowntown = {
   id: "01a0b112-903f-7804-9734-ec1a63aae58f",
   type: "page-type/release",
   slug: "vinny-marchi-downtown",
-  ownLength: 3.4022833333333335,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,

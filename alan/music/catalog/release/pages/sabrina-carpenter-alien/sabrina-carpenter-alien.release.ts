@@ -4,14 +4,13 @@ export const sabrinaCarpenterAlien = {
   id: "01a0676a-d716-7011-8b11-ab7fd0001d8c",
   type: "page-type/release",
   slug: "sabrina-carpenter-alien",
-  title: "Alien",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 2.914,
-  ownProgress: 2.914,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-03-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterAlien = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Alien",
 } as const satisfies Release

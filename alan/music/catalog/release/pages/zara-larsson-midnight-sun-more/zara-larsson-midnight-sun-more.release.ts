@@ -4,7 +4,7 @@ export const zaraLarssonMidnightSunMore = {
   id: "01a0aa7c-262a-7395-bc44-7336b5cd6ebb",
   type: "page-type/release",
   slug: "zara-larsson-midnight-sun-more",
-  ownLength: 18.843133333333334,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,

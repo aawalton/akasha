@@ -4,14 +4,13 @@ export const paulCardallNewMoonRising = {
   id: "01a0676a-d725-7052-b846-790988ab93e1",
   type: "page-type/release",
   slug: "paul-cardall-new-moon-rising",
-  title: "New Moon Rising",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 3.62155,
-  ownProgress: 3.62155,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-10-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallNewMoonRising = {
       externalLink: "https://open.spotify.com/album/3yP3aw60J3gTniESqLjTNR",
     },
   ],
+  title: "New Moon Rising",
 } as const satisfies Release

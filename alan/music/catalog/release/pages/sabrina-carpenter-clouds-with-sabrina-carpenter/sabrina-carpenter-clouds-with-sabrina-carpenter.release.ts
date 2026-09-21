@@ -4,14 +4,13 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenter = {
   id: "01a0676a-d71b-7005-ae02-987eaf23c322",
   type: "page-type/release",
   slug: "sabrina-carpenter-clouds-with-sabrina-carpenter",
-  title: "Clouds (with Sabrina Carpenter)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.081717,
-  ownProgress: 3.081717,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-10-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenter = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Clouds (with Sabrina Carpenter)",
 } as const satisfies Release

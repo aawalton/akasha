@@ -4,15 +4,14 @@ export const vinnyMarchiSoldierPoetKing = {
   id: "01a0676a-d729-704c-8b69-bee154789b48",
   type: "page-type/release",
   slug: "vinny-marchi-soldier-poet-king",
-  title: "Soldier, Poet, King",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.803767,
-  ownProgress: 2.803767,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2022-10-28",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiSoldierPoetKing = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Soldier, Poet, King",
 } as const satisfies Release

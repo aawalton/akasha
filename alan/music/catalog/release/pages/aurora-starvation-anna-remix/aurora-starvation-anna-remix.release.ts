@@ -4,14 +4,13 @@ export const auroraStarvationAnnaRemix = {
   id: "01a0676a-d72a-7019-97a4-40f02c144442",
   type: "page-type/release",
   slug: "aurora-starvation-anna-remix",
-  title: "Starvation (ANNA Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.566433,
-  ownProgress: 3.566433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-10-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraStarvationAnnaRemix = {
       externalLink: "https://open.spotify.com/album/651nEjooRVw6JJ78RAeoyK",
     },
   ],
+  title: "Starvation (ANNA Remix)",
 } as const satisfies Release

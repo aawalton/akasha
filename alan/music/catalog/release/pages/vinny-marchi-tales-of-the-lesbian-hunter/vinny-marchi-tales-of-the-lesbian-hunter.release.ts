@@ -4,15 +4,14 @@ export const vinnyMarchiTalesOfTheLesbianHunter = {
   id: "01a0676a-d72b-701d-94e3-82ac185332b1",
   type: "page-type/release",
   slug: "vinny-marchi-tales-of-the-lesbian-hunter",
-  title: "Tales of the Lesbian Hunter",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 33.544567,
-  ownProgress: 33.544567,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2025-01-31",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiTalesOfTheLesbianHunter = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Tales of the Lesbian Hunter",
 } as const satisfies Release

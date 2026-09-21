@@ -4,7 +4,7 @@ export const zaraLarssonLushLifeTheRemixes2 = {
   id: "01a0aa7c-282a-7fc7-9873-2f91d929ad30",
   type: "page-type/release",
   slug: "zara-larsson-lush-life-the-remixes-2",
-  ownLength: 17.2781,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,

@@ -4,14 +4,13 @@ export const zaraLarssonOnMyLove = {
   id: "01a0676a-d726-7020-833d-7fbca9f36d60",
   type: "page-type/release",
   slug: "zara-larsson-on-my-love",
-  title: "On My Love",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.715183,
-  ownProgress: 3.715183,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-09-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonOnMyLove = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "On My Love",
 } as const satisfies Release

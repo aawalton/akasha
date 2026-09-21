@@ -4,14 +4,13 @@ export const theHoldernessFamilyBestOfThe90s = {
   id: "01a0676a-d718-7049-ad42-7ecf1b4c35ec",
   type: "page-type/release",
   slug: "the-holderness-family-best-of-the-90s",
-  title: "Best of the 90s",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-holderness-family"],
   position: 0,
-  ownLength: 34.094483,
-  ownProgress: 34.094483,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-03-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const theHoldernessFamilyBestOfThe90s = {
       lastSyncedAt: "2025-11-27",
     },
   ],
+  title: "Best of the 90s",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const zaraLarssonSpotifySingles = {
   id: "01a0676a-d72a-7006-a6e0-69af00b651ec",
   type: "page-type/release",
   slug: "zara-larsson-spotify-singles",
-  title: "Spotify Singles",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 5.841717,
-  ownProgress: 5.841717,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-04-05",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonSpotifySingles = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Spotify Singles",
 } as const satisfies Release

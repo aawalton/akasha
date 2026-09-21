@@ -4,14 +4,13 @@ export const imagineDragonsMercuryActs12 = {
   id: "01a0676a-d724-704d-83c4-0c60085cf037",
   type: "page-type/release",
   slug: "imagine-dragons-mercury-acts-1-2",
-  title: "Mercury - Acts 1 & 2",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 102.998467,
-  ownProgress: 102.998467,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-07-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsMercuryActs12 = {
       externalLink: "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS",
     },
   ],
+  title: "Mercury - Acts 1 & 2",
 } as const satisfies Release

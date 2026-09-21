@@ -4,14 +4,13 @@ export const arianaGrandeJustLookUpFromDonTLookUp = {
   id: "01a0676a-d722-7031-8189-93b6aadd2c1b",
   type: "page-type/release",
   slug: "ariana-grande-just-look-up-from-don-t-look-up",
-  title: "Just Look Up (From Don’t Look Up)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.361117,
-  ownProgress: 3.361117,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-12-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeJustLookUpFromDonTLookUp = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Just Look Up (From Don’t Look Up)",
 } as const satisfies Release

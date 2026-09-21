@@ -4,14 +4,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEdition = {
   id: "01a0676a-d725-7027-839d-3447657af551",
   type: "page-type/release",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition",
-  title: "My Everything (Tenth Anniversary Edition)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 57.444317,
-  ownProgress: 57.444317,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-08-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeMyEverythingTenthAnniversaryEdition = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "My Everything (Tenth Anniversary Edition)",
 } as const satisfies Release

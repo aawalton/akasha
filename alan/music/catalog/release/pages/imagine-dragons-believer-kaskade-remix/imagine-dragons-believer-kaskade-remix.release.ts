@@ -4,14 +4,13 @@ export const imagineDragonsBelieverKaskadeRemix = {
   id: "01a0676a-d718-703b-9ac6-5117b7febf9f",
   type: "page-type/release",
   slug: "imagine-dragons-believer-kaskade-remix",
-  title: "Believer (Kaskade Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 3.18155,
-  ownProgress: 3.18155,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-06-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsBelieverKaskadeRemix = {
       externalLink: "https://open.spotify.com/album/2wVV49qXJai8kmCb1Czp0p",
     },
   ],
+  title: "Believer (Kaskade Remix)",
 } as const satisfies Release

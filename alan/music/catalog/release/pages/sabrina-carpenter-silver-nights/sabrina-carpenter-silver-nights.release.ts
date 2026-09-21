@@ -4,7 +4,7 @@ export const sabrinaCarpenterSilverNights = {
   id: "01a0676a-d729-700a-978b-4f0c54407eeb",
   type: "page-type/release",
   slug: "sabrina-carpenter-silver-nights",
-  ownLength: 2.442,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,

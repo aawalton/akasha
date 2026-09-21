@@ -4,15 +4,14 @@ export const vinnyMarchiJonnyRifePulledAKnife = {
   id: "01a0676a-d722-7026-8926-0268ecd1d7df",
   type: "page-type/release",
   slug: "vinny-marchi-jonny-rife-pulled-a-knife",
-  title: "Jonny Rife Pulled a Knife",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.016667,
-  ownProgress: 3.016667,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2024-10-25",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiJonnyRifePulledAKnife = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Jonny Rife Pulled a Knife",
 } as const satisfies Release

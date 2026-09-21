@@ -4,15 +4,14 @@ export const emeiCynical = {
   id: "01a0676a-d71b-7049-8655-af08f51b1bd4",
   type: "page-type/release",
   slug: "emei-cynical",
-  title: "Cynical",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.243033,
-  ownProgress: 2.243033,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2023-07-14",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiCynical = {
       externalLink: "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm",
     },
   ],
+  title: "Cynical",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const auroraCureForMeFeatSilvanaEstradaLive = {
   id: "01a0676a-d71b-7046-8576-663b80e6b21b",
   type: "page-type/release",
   slug: "aurora-cure-for-me-feat-silvana-estrada-live",
-  title: "Cure For Me (feat. Silvana Estrada) [Live]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.85475,
-  ownProgress: 3.85475,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-06-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraCureForMeFeatSilvanaEstradaLive = {
       externalLink: "https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI",
     },
   ],
+  title: "Cure For Me (feat. Silvana Estrada) [Live]",
 } as const satisfies Release

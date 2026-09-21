@@ -4,14 +4,13 @@ export const sabrinaCarpenterPleasePleasePlease = {
   id: "01a0676a-d726-7084-95f1-80f990c7a736",
   type: "page-type/release",
   slug: "sabrina-carpenter-please-please-please",
-  title: "Please Please Please",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 6.0304,
-  ownProgress: 6.0304,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-06-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterPleasePleasePlease = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Please Please Please",
 } as const satisfies Release

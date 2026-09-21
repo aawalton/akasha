@@ -4,15 +4,14 @@ export const emeiIrresponsible = {
   id: "01a0676a-d722-7003-b8e7-5e5e125ac4d3",
   type: "page-type/release",
   slug: "emei-irresponsible",
-  title: "Irresponsible",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.079183,
-  ownProgress: 2.079183,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2023-05-26",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiIrresponsible = {
       externalLink: "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd",
     },
   ],
+  title: "Irresponsible",
 } as const satisfies Release

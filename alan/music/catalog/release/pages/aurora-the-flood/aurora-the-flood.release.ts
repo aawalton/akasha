@@ -4,14 +4,13 @@ export const auroraTheFlood = {
   id: "01a0676a-d72d-7012-b11d-f11c9761fcfc",
   type: "page-type/release",
   slug: "aurora-the-flood",
-  title: "The Flood",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 4.495333,
-  ownProgress: 4.495333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-04-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraTheFlood = {
       externalLink: "https://open.spotify.com/album/3T120QCrtTGvrVN2lxc8XP",
     },
   ],
+  title: "The Flood",
 } as const satisfies Release

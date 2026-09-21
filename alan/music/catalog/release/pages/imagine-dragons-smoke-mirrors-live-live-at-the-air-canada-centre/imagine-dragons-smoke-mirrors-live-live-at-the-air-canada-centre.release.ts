@@ -4,14 +4,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentre = {
   id: "01a0676a-d729-7036-8893-7acd9ac96e1a",
   type: "page-type/release",
   slug: "imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
-  title: "Smoke + Mirrors Live (Live At The Air Canada Centre)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 88.878117,
-  ownProgress: 88.878117,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-06-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentre = {
       externalLink: "https://open.spotify.com/album/71s3w0NvaGZcoHlKtPRGjp",
     },
   ],
+  title: "Smoke + Mirrors Live (Live At The Air Canada Centre)",
 } as const satisfies Release

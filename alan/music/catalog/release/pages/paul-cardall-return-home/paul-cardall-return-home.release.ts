@@ -4,14 +4,13 @@ export const paulCardallReturnHome = {
   id: "01a0676a-d727-7071-be6b-55434119c11c",
   type: "page-type/release",
   slug: "paul-cardall-return-home",
-  title: "Return Home",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 50.622783,
-  ownProgress: 50.622783,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-09-08",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallReturnHome = {
       externalLink: "https://open.spotify.com/album/4Kn0CJ1PiNc15vCbYCIrmY",
     },
   ],
+  title: "Return Home",
 } as const satisfies Release

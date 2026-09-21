@@ -4,15 +4,14 @@ export const billieEilishEverythingIWanted = {
   id: "01a0676a-d71d-7041-ac83-71ce8e8f674f",
   type: "page-type/release",
   slug: "billie-eilish-everything-i-wanted",
-  title: "everything i wanted",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 4.090417,
-  ownProgress: 4.090417,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2019-11-13",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishEverythingIWanted = {
       externalLink: "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT",
     },
   ],
+  title: "everything i wanted",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const imagineDragonsRadioactive = {
   id: "01a0676a-d727-7042-999d-e43aa184825b",
   type: "page-type/release",
   slug: "imagine-dragons-radioactive",
-  title: "Radioactive",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 4.600667,
-  ownProgress: 4.600667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsRadioactive = {
       externalLink: "https://open.spotify.com/album/2M0IZTKgkN3ZpYluF4lKAM",
     },
   ],
+  title: "Radioactive",
 } as const satisfies Release

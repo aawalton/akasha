@@ -4,14 +4,13 @@ export const sabrinaCarpenterWhy = {
   id: "01a0676a-d731-7013-a023-6f6e2e69422c",
   type: "page-type/release",
   slug: "sabrina-carpenter-why",
-  title: "Why",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 2.8516,
-  ownProgress: 2.8516,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-07-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterWhy = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Why",
 } as const satisfies Release

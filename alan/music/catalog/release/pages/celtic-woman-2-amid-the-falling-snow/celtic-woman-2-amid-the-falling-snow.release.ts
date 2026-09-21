@@ -4,14 +4,13 @@ export const celticWoman2AmidTheFallingSnow = {
   id: "01a0676a-d717-700c-8502-3238e90b7a84",
   type: "page-type/release",
   slug: "celtic-woman-2-amid-the-falling-snow",
-  title: "Amid The Falling Snow",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 3.7171,
-  ownProgress: 3.7171,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-10-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2AmidTheFallingSnow = {
       externalLink: "https://open.spotify.com/album/7yWN3AxJLtzSl9unzlCekl",
     },
   ],
+  title: "Amid The Falling Snow",
 } as const satisfies Release

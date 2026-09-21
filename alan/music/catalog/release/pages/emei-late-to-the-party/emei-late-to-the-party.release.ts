@@ -4,15 +4,14 @@ export const emeiLateToTheParty = {
   id: "01a0676a-d722-705f-8786-cdb9e10427e6",
   type: "page-type/release",
   slug: "emei-late-to-the-party",
-  title: "Late to the Party",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.952933,
-  ownProgress: 2.952933,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2022-01-19",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiLateToTheParty = {
       externalLink: "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR",
     },
   ],
+  title: "Late to the Party",
 } as const satisfies Release

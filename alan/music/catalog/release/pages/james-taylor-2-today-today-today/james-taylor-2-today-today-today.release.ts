@@ -4,14 +4,13 @@ export const jamesTaylor2TodayTodayToday = {
   id: "01a0676a-d72f-7009-857b-ba4a7060fe02",
   type: "page-type/release",
   slug: "james-taylor-2-today-today-today",
-  title: "Today Today Today",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 3.152883,
-  ownProgress: 3.152883,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2TodayTodayToday = {
       externalLink: "https://open.spotify.com/album/4hIwvgRdkOWKcktaqciSt5",
     },
   ],
+  title: "Today Today Today",
 } as const satisfies Release

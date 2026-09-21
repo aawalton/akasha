@@ -4,7 +4,7 @@ export const thePianoGuysPianoFocus = {
   id: "01a0afa1-c241-769a-91fe-0420b164f6f4",
   type: "page-type/release",
   slug: "the-piano-guys-piano-focus",
-  ownLength: 54.12526666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,

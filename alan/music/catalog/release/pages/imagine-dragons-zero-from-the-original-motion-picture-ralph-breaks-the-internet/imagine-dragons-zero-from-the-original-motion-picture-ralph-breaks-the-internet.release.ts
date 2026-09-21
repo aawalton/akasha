@@ -4,14 +4,13 @@ export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInterne
   id: "01a0676a-d732-702a-9e0b-4b51c6e3c554",
   type: "page-type/release",
   slug: "imagine-dragons-zero-from-the-original-motion-picture-ralph-breaks-the-internet",
-  title: 'Zero (From the Original Motion Picture "Ralph Breaks The Internet")',
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 3.515567,
-  ownProgress: 3.515567,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-09-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInterne
       externalLink: "https://open.spotify.com/album/3eiAj6uPlzdAKagriQb3Hq",
     },
   ],
+  title: 'Zero (From the Original Motion Picture "Ralph Breaks The Internet")',
 } as const satisfies Release

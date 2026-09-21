@@ -4,14 +4,13 @@ export const coldplayXY = {
   id: "01a0676a-d731-7040-92d9-3e20372e2bbc",
   type: "page-type/release",
   slug: "coldplay-x-y",
-  title: "X&Y",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 62.085583,
-  ownProgress: 62.085583,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2005-06-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayXY = {
       externalLink: "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6",
     },
   ],
+  title: "X&Y",
 } as const satisfies Release

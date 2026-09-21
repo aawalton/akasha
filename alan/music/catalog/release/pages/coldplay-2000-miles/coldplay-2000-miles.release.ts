@@ -4,14 +4,13 @@ export const coldplay2000Miles = {
   id: "01a0676a-d714-7020-a32a-e7de208b06cc",
   type: "page-type/release",
   slug: "coldplay-2000-miles",
-  title: "2000 Miles",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.26195,
-  ownProgress: 3.26195,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2003-12-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplay2000Miles = {
       externalLink: "https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w",
     },
   ],
+  title: "2000 Miles",
 } as const satisfies Release

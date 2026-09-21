@@ -4,14 +4,13 @@ export const coldplayLiveFromSpotifyLondon = {
   id: "01a0676a-d723-704c-a535-e0f44163bd9c",
   type: "page-type/release",
   slug: "coldplay-live-from-spotify-london",
-  title: "Live from Spotify London",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 21.157983,
-  ownProgress: 21.157983,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-12-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayLiveFromSpotifyLondon = {
       externalLink: "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c",
     },
   ],
+  title: "Live from Spotify London",
 } as const satisfies Release

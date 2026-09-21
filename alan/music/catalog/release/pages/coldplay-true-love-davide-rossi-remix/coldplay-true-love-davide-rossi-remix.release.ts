@@ -4,14 +4,13 @@ export const coldplayTrueLoveDavideRossiRemix = {
   id: "01a0676a-d72f-7020-94ab-c63afbe89981",
   type: "page-type/release",
   slug: "coldplay-true-love-davide-rossi-remix",
-  title: "True Love (Davide Rossi Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 4.695833,
-  ownProgress: 4.695833,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-12-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayTrueLoveDavideRossiRemix = {
       externalLink: "https://open.spotify.com/album/5TJzsFUF2RUzrje51UmkhG",
     },
   ],
+  title: "True Love (Davide Rossi Remix)",
 } as const satisfies Release

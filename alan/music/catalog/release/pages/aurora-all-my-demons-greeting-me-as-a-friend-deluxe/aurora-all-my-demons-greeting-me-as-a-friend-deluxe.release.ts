@@ -4,14 +4,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxe = {
   id: "01a0676a-d716-7020-9d00-0513b4d3998c",
   type: "page-type/release",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
-  title: "All My Demons Greeting Me as a Friend (Deluxe)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 64.812117,
-  ownProgress: 64.812117,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-03-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxe = {
       externalLink: "https://open.spotify.com/album/24CyXZHXgFPncdizaeTnSq",
     },
   ],
+  title: "All My Demons Greeting Me as a Friend (Deluxe)",
 } as const satisfies Release

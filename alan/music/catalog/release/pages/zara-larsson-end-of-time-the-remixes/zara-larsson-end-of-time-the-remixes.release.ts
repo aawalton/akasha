@@ -4,14 +4,13 @@ export const zaraLarssonEndOfTimeTheRemixes = {
   id: "01a0676a-d71d-7013-8cbd-cba508be0072",
   type: "page-type/release",
   slug: "zara-larsson-end-of-time-the-remixes",
-  title: "End of Time (The Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 19.07065,
-  ownProgress: 19.07065,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-07-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonEndOfTimeTheRemixes = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "End of Time (The Remixes)",
 } as const satisfies Release

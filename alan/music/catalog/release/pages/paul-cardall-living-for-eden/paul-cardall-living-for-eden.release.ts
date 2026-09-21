@@ -4,14 +4,13 @@ export const paulCardallLivingForEden = {
   id: "01a0676a-d723-7057-841e-e58386e1e932",
   type: "page-type/release",
   slug: "paul-cardall-living-for-eden",
-  title: "Living For Eden",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 88.707,
-  ownProgress: 88.707,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2008-08-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallLivingForEden = {
       externalLink: "https://open.spotify.com/album/3ensw9MfJd2Uw2RMlNiNUP",
     },
   ],
+  title: "Living For Eden",
 } as const satisfies Release

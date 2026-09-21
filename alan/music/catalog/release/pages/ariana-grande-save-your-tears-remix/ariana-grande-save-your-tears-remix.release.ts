@@ -4,14 +4,13 @@ export const arianaGrandeSaveYourTearsRemix = {
   id: "01a0676a-d728-7044-816d-bf91b0d58e2d",
   type: "page-type/release",
   slug: "ariana-grande-save-your-tears-remix",
-  title: "Save Your Tears (Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.18355,
-  ownProgress: 3.18355,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-04-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeSaveYourTearsRemix = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Save Your Tears (Remix)",
 } as const satisfies Release

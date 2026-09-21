@@ -4,14 +4,13 @@ export const zaraLarssonAllTheTime = {
   id: "01a0676a-d716-7025-a08c-551abb96b705",
   type: "page-type/release",
   slug: "zara-larsson-all-the-time",
-  title: "All the Time",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.801867,
-  ownProgress: 3.801867,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-06-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonAllTheTime = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "All the Time",
 } as const satisfies Release

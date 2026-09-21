@@ -4,14 +4,13 @@ export const theHoldernessFamilyHotDadSummer = {
   id: "01a0676a-d720-705f-a761-df0f309088c0",
   type: "page-type/release",
   slug: "the-holderness-family-hot-dad-summer",
-  title: "Hot Dad Summer",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-holderness-family"],
   position: 0,
-  ownLength: 2.9035,
-  ownProgress: 2.9035,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-06-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const theHoldernessFamilyHotDadSummer = {
       lastSyncedAt: "2025-11-27",
     },
   ],
+  title: "Hot Dad Summer",
 } as const satisfies Release

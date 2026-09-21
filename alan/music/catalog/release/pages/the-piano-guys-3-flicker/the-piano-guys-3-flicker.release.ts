@@ -4,14 +4,13 @@ export const thePianoGuys3Flicker = {
   id: "01a0676a-d71e-7011-b32d-0341f48183e3",
   type: "page-type/release",
   slug: "the-piano-guys-3-flicker",
-  title: "Flicker",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 3.27555,
-  ownProgress: 3.27555,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-11-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3Flicker = {
       externalLink: "https://open.spotify.com/album/6f37zhIhkiLiXps8NRDbdK",
     },
   ],
+  title: "Flicker",
 } as const satisfies Release

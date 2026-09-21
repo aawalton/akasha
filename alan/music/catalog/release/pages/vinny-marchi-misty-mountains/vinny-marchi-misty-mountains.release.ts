@@ -4,15 +4,14 @@ export const vinnyMarchiMistyMountains = {
   id: "01a0676a-d724-707b-8c6a-fc025034c997",
   type: "page-type/release",
   slug: "vinny-marchi-misty-mountains",
-  title: "Misty Mountains",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.153,
-  ownProgress: 3.153,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2022-08-27",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiMistyMountains = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Misty Mountains",
 } as const satisfies Release

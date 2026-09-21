@@ -4,7 +4,7 @@ export const auroraIDrinkTheLightJengiRemix = {
   id: "01a0b637-e9e5-77b1-a26c-f3bb7ad2edad",
   type: "page-type/release",
   slug: "aurora-i-drink-the-light-jengi-remix",
-  ownLength: 5.2293666666666665,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,

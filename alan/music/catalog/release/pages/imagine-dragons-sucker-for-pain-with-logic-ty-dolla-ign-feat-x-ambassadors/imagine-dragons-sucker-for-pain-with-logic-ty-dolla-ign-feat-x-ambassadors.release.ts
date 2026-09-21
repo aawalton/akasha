@@ -4,14 +4,13 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadors = {
   id: "01a0676a-d72a-703b-9d12-4a19e6ebcbb8",
   type: "page-type/release",
   slug: "imagine-dragons-sucker-for-pain-with-logic-ty-dolla-ign-feat-x-ambassadors",
-  title: "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 4.058167,
-  ownProgress: 4.058167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-06-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadors = {
       externalLink: "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv",
     },
   ],
+  title: "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const coldplayMurder = {
   id: "01a0676a-d725-7017-9600-832c1c6efafa",
   type: "page-type/release",
   slug: "coldplay-murder",
-  title: "Murder",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 5.581317,
-  ownProgress: 5.581317,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2003-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayMurder = {
       externalLink: "https://open.spotify.com/album/67eXmDByt2bonypIe2vJsN",
     },
   ],
+  title: "Murder",
 } as const satisfies Release

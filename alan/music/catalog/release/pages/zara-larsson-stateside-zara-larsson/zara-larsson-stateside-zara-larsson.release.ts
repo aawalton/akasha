@@ -4,14 +4,13 @@ export const zaraLarssonStatesideZaraLarsson = {
   id: "01a0676a-d72a-701a-ba93-5a07f6081ead",
   type: "page-type/release",
   slug: "zara-larsson-stateside-zara-larsson",
-  title: "Stateside + Zara Larsson",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 3.07935,
-  ownProgress: 3.07935,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-09-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonStatesideZaraLarsson = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Stateside + Zara Larsson",
 } as const satisfies Release

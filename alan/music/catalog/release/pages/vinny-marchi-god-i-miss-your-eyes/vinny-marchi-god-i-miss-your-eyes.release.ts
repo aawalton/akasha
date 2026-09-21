@@ -4,14 +4,13 @@ export const vinnyMarchiGodIMissYourEyes = {
   id: "01a0676a-d71f-700b-90ff-74b893bc519b",
   type: "page-type/release",
   slug: "vinny-marchi-god-i-miss-your-eyes",
-  title: "god i miss your eyes",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.79145,
-  ownProgress: 3.79145,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-03-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiGodIMissYourEyes = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "god i miss your eyes",
 } as const satisfies Release

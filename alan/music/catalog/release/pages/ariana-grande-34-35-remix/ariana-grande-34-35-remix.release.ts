@@ -4,14 +4,13 @@ export const arianaGrande3435Remix = {
   id: "01a0676a-d715-7007-beab-b2fa6a57fe6b",
   type: "page-type/release",
   slug: "ariana-grande-34-35-remix",
-  title: "34+35 (Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.040617,
-  ownProgress: 3.040617,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-01-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrande3435Remix = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "34+35 (Remix)",
 } as const satisfies Release

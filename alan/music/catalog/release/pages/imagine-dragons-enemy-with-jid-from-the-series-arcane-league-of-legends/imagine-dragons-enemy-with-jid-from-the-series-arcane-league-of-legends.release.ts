@@ -4,14 +4,13 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegends = {
   id: "01a0676a-d71d-7016-96ac-f81a6c835bbb",
   type: "page-type/release",
   slug: "imagine-dragons-enemy-with-jid-from-the-series-arcane-league-of-legends",
-  title: "Enemy (with JID) [from the series Arcane League of Legends]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 2.889683,
-  ownProgress: 2.889683,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-10-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegends = {
       externalLink: "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b",
     },
   ],
+  title: "Enemy (with JID) [from the series Arcane League of Legends]",
 } as const satisfies Release

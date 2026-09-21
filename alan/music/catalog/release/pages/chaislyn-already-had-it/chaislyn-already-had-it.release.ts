@@ -4,14 +4,13 @@ export const chaislynAlreadyHadIt = {
   id: "01a0676a-d716-7034-96ae-ed83d4959d81",
   type: "page-type/release",
   slug: "chaislyn-already-had-it",
-  title: "Already Had It",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/chaislyn"],
   position: 0,
-  ownLength: 2.947367,
-  ownProgress: 2.947367,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-11-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const chaislynAlreadyHadIt = {
       externalLink: "https://open.spotify.com/album/270DEDp8yhMJI4lI1heuQg",
     },
   ],
+  title: "Already Had It",
 } as const satisfies Release

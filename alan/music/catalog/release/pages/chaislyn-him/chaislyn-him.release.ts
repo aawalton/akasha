@@ -4,14 +4,13 @@ export const chaislynHim = {
   id: "01a0676a-d720-7040-bd0d-71e6a55e15c7",
   type: "page-type/release",
   slug: "chaislyn-him",
-  title: "Him",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/chaislyn"],
   position: 0,
-  ownLength: 3.33515,
-  ownProgress: 3.33515,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-05-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const chaislynHim = {
       externalLink: "https://open.spotify.com/album/1TIpye2j4gh6dSKSIY6OVa",
     },
   ],
+  title: "Him",
 } as const satisfies Release

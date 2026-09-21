@@ -4,14 +4,13 @@ export const coldplayFlags = {
   id: "01a0676a-d71e-700b-a527-3cd83517f4ec",
   type: "page-type/release",
   slug: "coldplay-flags",
-  title: "Flags",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.608217,
-  ownProgress: 3.608217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-12-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayFlags = {
       externalLink: "https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9",
     },
   ],
+  title: "Flags",
 } as const satisfies Release

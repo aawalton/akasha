@@ -4,14 +4,13 @@ export const zaraLarssonMidnightSun2 = {
   id: "01a0676a-d724-7062-825e-08d1722f3cd1",
   type: "page-type/release",
   slug: "zara-larsson-midnight-sun-2",
-  title: "Midnight Sun",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 6.9332,
-  ownProgress: 6.9332,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-11-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonMidnightSun2 = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Midnight Sun",
 } as const satisfies Release

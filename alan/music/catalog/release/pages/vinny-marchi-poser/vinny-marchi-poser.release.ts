@@ -4,14 +4,13 @@ export const vinnyMarchiPoser = {
   id: "01a0676a-d727-7009-baaa-c4c054c32e29",
   type: "page-type/release",
   slug: "vinny-marchi-poser",
-  title: "POSER",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.730133,
-  ownProgress: 2.730133,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-06-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiPoser = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "POSER",
 } as const satisfies Release

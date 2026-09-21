@@ -4,14 +4,13 @@ export const paulCardallMarySLament = {
   id: "01a0676a-d724-7039-9148-e6b502f1eaec",
   type: "page-type/release",
   slug: "paul-cardall-mary-s-lament",
-  title: "Mary's Lament",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 5.118233,
-  ownProgress: 5.118233,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-08-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallMarySLament = {
       externalLink: "https://open.spotify.com/album/0FaoSeFZuGesNhvWf4fewI",
     },
   ],
+  title: "Mary's Lament",
 } as const satisfies Release

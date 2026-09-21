@@ -4,7 +4,7 @@ export const vinnyMarchiBushwickBelle = {
   id: "01a0b112-8e73-7c63-b433-581daadb9047",
   type: "page-type/release",
   slug: "vinny-marchi-bushwick-belle",
-  ownLength: 32.18631666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,

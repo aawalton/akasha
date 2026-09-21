@@ -4,14 +4,13 @@ export const celticWoman2VoicesOfAngels = {
   id: "01a0676a-d730-700b-afee-9fb598750f76",
   type: "page-type/release",
   slug: "celtic-woman-2-voices-of-angels",
-  title: "Voices Of Angels",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 64.94015,
-  ownProgress: 64.94015,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2016-11-18",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2VoicesOfAngels = {
       externalLink: "https://open.spotify.com/album/7v803jrnOG2WmjlpUTzvi7",
     },
   ],
+  title: "Voices Of Angels",
 } as const satisfies Release

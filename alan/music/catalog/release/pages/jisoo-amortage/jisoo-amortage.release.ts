@@ -4,15 +4,14 @@ export const jisooAmortage = {
   id: "01a0676a-d717-700e-97e1-25c52ba10744",
   type: "page-type/release",
   slug: "jisoo-amortage",
-  title: "AMORTAGE",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jisoo"],
   position: 0,
-  ownLength: 12.268083,
-  ownProgress: 12.268083,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2025-02-14",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const jisooAmortage = {
       lastSyncedAt: "2025-11-24",
     },
   ],
+  title: "AMORTAGE",
 } as const satisfies Release

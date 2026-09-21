@@ -4,14 +4,13 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMix = {
   id: "01a0676a-d716-7030-9fb4-b0b171644893",
   type: "page-type/release",
   slug: "sabrina-carpenter-almost-love-stargate-warehouse-mix",
-  title: "Almost Love (Stargate Warehouse Mix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.339017,
-  ownProgress: 3.339017,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-09-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMix = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Almost Love (Stargate Warehouse Mix)",
 } as const satisfies Release

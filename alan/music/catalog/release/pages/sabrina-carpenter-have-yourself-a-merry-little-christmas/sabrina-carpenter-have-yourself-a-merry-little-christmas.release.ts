@@ -4,14 +4,13 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmas = {
   id: "01a0676a-d71f-705d-8d6c-bcfe230affff",
   type: "page-type/release",
   slug: "sabrina-carpenter-have-yourself-a-merry-little-christmas",
-  title: "Have Yourself a Merry Little Christmas",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.77855,
-  ownProgress: 3.77855,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-10-27",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmas = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Have Yourself a Merry Little Christmas",
 } as const satisfies Release

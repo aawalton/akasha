@@ -4,14 +4,13 @@ export const celticWoman2HomeForChristmas = {
   id: "01a0676a-d720-7052-8abb-708db552a904",
   type: "page-type/release",
   slug: "celtic-woman-2-home-for-christmas",
-  title: "Home For Christmas",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 45.53485,
-  ownProgress: 45.53485,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2HomeForChristmas = {
       externalLink: "https://open.spotify.com/album/35BraU46wN6VdKw3qJJge4",
     },
   ],
+  title: "Home For Christmas",
 } as const satisfies Release

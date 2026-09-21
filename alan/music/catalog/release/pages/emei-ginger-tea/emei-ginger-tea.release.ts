@@ -4,14 +4,13 @@ export const emeiGingerTea = {
   id: "01a0676a-d71e-7065-a4a0-5c265dce825d",
   type: "page-type/release",
   slug: "emei-ginger-tea",
-  title: "Ginger Tea",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 3.684867,
-  ownProgress: 3.684867,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-12-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiGingerTea = {
       lastSyncedAt: "2025-12-31",
     },
   ],
+  title: "Ginger Tea",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const celticWoman2OverTheRainbow = {
   id: "01a0676a-d726-7054-8958-18173b8d9e96",
   type: "page-type/release",
   slug: "celtic-woman-2-over-the-rainbow",
-  title: "Over The Rainbow",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 3.405333,
-  ownProgress: 3.405333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-08-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2OverTheRainbow = {
       externalLink: "https://open.spotify.com/album/19ig22qPGuSgOoLoUwHYuH",
     },
   ],
+  title: "Over The Rainbow",
 } as const satisfies Release

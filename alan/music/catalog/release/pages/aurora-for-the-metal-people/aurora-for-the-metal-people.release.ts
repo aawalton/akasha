@@ -4,14 +4,13 @@ export const auroraForTheMetalPeople = {
   id: "01a0676a-d71e-7028-8325-f9459c77d694",
   type: "page-type/release",
   slug: "aurora-for-the-metal-people",
-  title: "FOR THE METAL PEOPLE",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 22.620917,
-  ownProgress: 22.620917,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-03-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraForTheMetalPeople = {
       externalLink: "https://open.spotify.com/album/3wBRFm2OnYmxcXGCWHDf1T",
     },
   ],
+  title: "FOR THE METAL PEOPLE",
 } as const satisfies Release

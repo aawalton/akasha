@@ -4,15 +4,14 @@ export const vinnyMarchiIAinTGodButIWannaBe = {
   id: "01a0676a-d721-7000-8ad5-cf946b8b5305",
   type: "page-type/release",
   slug: "vinny-marchi-i-ain-t-god-but-i-wanna-be",
-  title: "I Ain't God But I Wanna Be",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.466667,
-  ownProgress: 3.466667,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2025-05-02",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiIAinTGodButIWannaBe = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "I Ain't God But I Wanna Be",
 } as const satisfies Release

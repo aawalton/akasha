@@ -4,14 +4,13 @@ export const theHoldernessFamilyBestOf2022 = {
   id: "01a0676a-d718-7044-bfd8-d7e560767633",
   type: "page-type/release",
   slug: "the-holderness-family-best-of-2022",
-  title: "Best of 2022",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/the-holderness-family"],
   position: 0,
-  ownLength: 45.066367,
-  ownProgress: 45.066367,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-01-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const theHoldernessFamilyBestOf2022 = {
       lastSyncedAt: "2025-11-27",
     },
   ],
+  title: "Best of 2022",
 } as const satisfies Release

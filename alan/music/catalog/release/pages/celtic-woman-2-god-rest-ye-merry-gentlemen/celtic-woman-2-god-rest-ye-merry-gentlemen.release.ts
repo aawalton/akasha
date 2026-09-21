@@ -4,14 +4,13 @@ export const celticWoman2GodRestYeMerryGentlemen = {
   id: "01a0676a-d71f-700d-8692-e6dcf0cbf824",
   type: "page-type/release",
   slug: "celtic-woman-2-god-rest-ye-merry-gentlemen",
-  title: "God Rest Ye Merry Gentlemen",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 2.490533,
-  ownProgress: 2.490533,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-10-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const celticWoman2GodRestYeMerryGentlemen = {
       lastSyncedAt: "2026-01-21",
     },
   ],
+  title: "God Rest Ye Merry Gentlemen",
 } as const satisfies Release

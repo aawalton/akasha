@@ -4,14 +4,13 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemix = {
   id: "01a0676a-d727-7045-8bce-031b17730445",
   type: "page-type/release",
   slug: "ariana-grande-rain-on-me-purple-disco-machine-remix",
-  title: "Rain On Me (Purple Disco Machine Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 10.53725,
-  ownProgress: 10.53725,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-07-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemix = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Rain On Me (Purple Disco Machine Remix)",
 } as const satisfies Release

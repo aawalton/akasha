@@ -4,14 +4,13 @@ export const imagineDragonsBelieverFeatLilWayne = {
   id: "01a0676a-d718-703a-8793-774340c04749",
   type: "page-type/release",
   slug: "imagine-dragons-believer-feat-lil-wayne",
-  title: "Believer (feat. Lil Wayne)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 3.66175,
-  ownProgress: 3.66175,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-01-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsBelieverFeatLilWayne = {
       externalLink: "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT",
     },
   ],
+  title: "Believer (feat. Lil Wayne)",
 } as const satisfies Release

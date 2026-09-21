@@ -4,7 +4,7 @@ export const emeiTalkTalkTalk = {
   id: "01a0c43e-721a-7027-95e7-cf5a4f87efc0",
   type: "page-type/release",
   slug: "emei-talk-talk-talk",
-  ownLength: 3.2657666666666665,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,

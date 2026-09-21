@@ -4,14 +4,13 @@ export const paulCardallReturnHomeSoloPianoVersion = {
   id: "01a0676a-d727-7072-964a-52fc862427b4",
   type: "page-type/release",
   slug: "paul-cardall-return-home-solo-piano-version",
-  title: "Return Home (Solo Piano Version)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 48.9287,
-  ownProgress: 48.9287,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-09-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallReturnHomeSoloPianoVersion = {
       externalLink: "https://open.spotify.com/album/6YXk3jMGG67SnaUA2tvX2C",
     },
   ],
+  title: "Return Home (Solo Piano Version)",
 } as const satisfies Release

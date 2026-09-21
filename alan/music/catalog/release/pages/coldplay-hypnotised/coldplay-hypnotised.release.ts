@@ -4,14 +4,13 @@ export const coldplayHypnotised = {
   id: "01a0676a-d720-7084-b07d-4a4dbb2b86ee",
   type: "page-type/release",
   slug: "coldplay-hypnotised",
-  title: "Hypnotised",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 5.919533,
-  ownProgress: 5.919533,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-03-02",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayHypnotised = {
       externalLink: "https://open.spotify.com/album/165kxlULHc34us8oU420iw",
     },
   ],
+  title: "Hypnotised",
 } as const satisfies Release

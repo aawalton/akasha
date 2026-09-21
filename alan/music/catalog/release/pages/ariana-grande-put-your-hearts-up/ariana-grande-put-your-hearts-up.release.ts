@@ -4,14 +4,13 @@ export const arianaGrandePutYourHeartsUp = {
   id: "01a0676a-d727-7035-9f95-1ecab0ee5875",
   type: "page-type/release",
   slug: "ariana-grande-put-your-hearts-up",
-  title: "Put Your Hearts Up",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.503333,
-  ownProgress: 3.503333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2011-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandePutYourHeartsUp = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Put Your Hearts Up",
 } as const satisfies Release

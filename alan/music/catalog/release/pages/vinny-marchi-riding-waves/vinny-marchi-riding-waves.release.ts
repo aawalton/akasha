@@ -4,14 +4,13 @@ export const vinnyMarchiRidingWaves = {
   id: "01a0676a-d728-7007-aca9-2c1441ba906c",
   type: "page-type/release",
   slug: "vinny-marchi-riding-waves",
-  title: "Riding Waves",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.811183,
-  ownProgress: 2.811183,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-11-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiRidingWaves = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Riding Waves",
 } as const satisfies Release

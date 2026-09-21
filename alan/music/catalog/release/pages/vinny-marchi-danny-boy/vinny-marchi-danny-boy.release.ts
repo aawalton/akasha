@@ -4,14 +4,13 @@ export const vinnyMarchiDannyBoy = {
   id: "01a0676a-d71b-7065-8de3-b528e06ca36f",
   type: "page-type/release",
   slug: "vinny-marchi-danny-boy",
-  title: "Danny Boy",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.997517,
-  ownProgress: 2.997517,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-06-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const vinnyMarchiDannyBoy = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Danny Boy",
 } as const satisfies Release

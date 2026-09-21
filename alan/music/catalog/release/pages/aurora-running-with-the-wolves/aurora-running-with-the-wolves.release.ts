@@ -4,14 +4,13 @@ export const auroraRunningWithTheWolves = {
   id: "01a0676a-d728-7031-a07d-488cad9163a6",
   type: "page-type/release",
   slug: "aurora-running-with-the-wolves",
-  title: "Running with the Wolves",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 15.0622,
-  ownProgress: 15.0622,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2015-05-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraRunningWithTheWolves = {
       externalLink: "https://open.spotify.com/album/4QuAGL4XltYG8TEuviXlnq",
     },
   ],
+  title: "Running with the Wolves",
 } as const satisfies Release

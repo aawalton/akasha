@@ -4,14 +4,13 @@ export const arianaGrandeThankUNext = {
   id: "01a0676a-d72c-7010-9223-6fe7dc85a469",
   type: "page-type/release",
   slug: "ariana-grande-thank-u-next",
-  title: "thank u, next",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 41.17015,
-  ownProgress: 41.17015,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-02-08",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeThankUNext = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "thank u, next",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const paulCardallDecemberSoloPiano = {
   id: "01a0676a-d71c-7001-9720-a27429b8e6da",
   type: "page-type/release",
   slug: "paul-cardall-december-solo-piano",
-  title: "December (Solo Piano)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 45.757233,
-  ownProgress: 45.757233,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-12-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallDecemberSoloPiano = {
       externalLink: "https://open.spotify.com/album/4boPIzJql47Sb06GqNxHn9",
     },
   ],
+  title: "December (Solo Piano)",
 } as const satisfies Release

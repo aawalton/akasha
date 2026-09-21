@@ -4,14 +4,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLive = {
   id: "01a0676a-d71d-7029-8c75-a551fc6c33e5",
   type: "page-type/release",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
-  title: "eternal sunshine (slightly deluxe and also live)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 69.06335,
-  ownProgress: 69.06335,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-10-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLive = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "eternal sunshine (slightly deluxe and also live)",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const billieEilishSixFeetUnderTheRemixes = {
   id: "01a0676a-d729-7014-b8f0-6d48a0958e32",
   type: "page-type/release",
   slug: "billie-eilish-six-feet-under-the-remixes",
-  title: "Six Feet Under (The Remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 14.104,
-  ownProgress: 14.104,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2017-02-03",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishSixFeetUnderTheRemixes = {
       externalLink: "https://open.spotify.com/album/7Chuv69qWaXuK5eCmZ8gCi",
     },
   ],
+  title: "Six Feet Under (The Remixes)",
 } as const satisfies Release

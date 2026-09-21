@@ -4,15 +4,14 @@ export const billieEilishLoVasAOlvidarWithRosalia = {
   id: "01a0676a-d723-705c-9cbb-9a637893cdc1",
   type: "page-type/release",
   slug: "billie-eilish-lo-vas-a-olvidar-with-rosalia",
-  title: "Lo Vas A Olvidar (with ROSALÍA)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 3.391067,
-  ownProgress: 3.391067,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2021-01-21",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishLoVasAOlvidarWithRosalia = {
       externalLink: "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew",
     },
   ],
+  title: "Lo Vas A Olvidar (with ROSALÍA)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const zaraLarssonEndOfTimeJustinCarusoRemix = {
   id: "01a0676a-d71d-7010-a59a-2bb580e283ca",
   type: "page-type/release",
   slug: "zara-larsson-end-of-time-justin-caruso-remix",
-  title: "End Of Time (Justin Caruso Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.545333,
-  ownProgress: 2.545333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-06-29",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonEndOfTimeJustinCarusoRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "End Of Time (Justin Caruso Remix)",
 } as const satisfies Release

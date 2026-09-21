@@ -4,7 +4,7 @@ export const zaraLarssonEurosummerGirlsTrip = {
   id: "01a0aa7c-238e-777e-b1e3-8aa4e908d468",
   type: "page-type/release",
   slug: "zara-larsson-eurosummer-girls-trip",
-  ownLength: 2.8391,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,

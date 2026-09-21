@@ -4,14 +4,13 @@ export const sabrinaCarpenterEspressoEp = {
   id: "01a0676a-d71d-7022-9fb0-e1051ba846ec",
   type: "page-type/release",
   slug: "sabrina-carpenter-espresso-ep",
-  title: "Espresso EP",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 19.426917,
-  ownProgress: 19.426917,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-05-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterEspressoEp = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Espresso EP",
 } as const satisfies Release

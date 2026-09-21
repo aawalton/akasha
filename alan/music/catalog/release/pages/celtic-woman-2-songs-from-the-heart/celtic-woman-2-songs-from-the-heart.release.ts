@@ -4,14 +4,13 @@ export const celticWoman2SongsFromTheHeart = {
   id: "01a0676a-d729-7065-af7f-f4324801ce34",
   type: "page-type/release",
   slug: "celtic-woman-2-songs-from-the-heart",
-  title: "Songs From The Heart",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 56.0388,
-  ownProgress: 56.0388,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2009-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2SongsFromTheHeart = {
       externalLink: "https://open.spotify.com/album/4isoRF5dFRCIE9kX6LVOfb",
     },
   ],
+  title: "Songs From The Heart",
 } as const satisfies Release

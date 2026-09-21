@@ -4,14 +4,13 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
   id: "01a0676a-d72c-7019-8872-985958c9fac8",
   type: "page-type/release",
   slug: "sabrina-carpenter-that-s-not-how-this-works-feat-dan-shay-sabrina-carpenter-sabrina-s-version",
-  title: "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina’s Version]",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 5.53765,
-  ownProgress: 5.53765,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-04-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina’s Version]",
 } as const satisfies Release

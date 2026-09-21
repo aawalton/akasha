@@ -4,14 +4,13 @@ export const sabrinaCarpenterShortNSweetDeluxe = {
   id: "01a0676a-d728-7077-9031-4f58842bc7c8",
   type: "page-type/release",
   slug: "sabrina-carpenter-short-n-sweet-deluxe",
-  title: "Short n' Sweet (Deluxe)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 50.990583,
-  ownProgress: 50.990583,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-02-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterShortNSweetDeluxe = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Short n' Sweet (Deluxe)",
 } as const satisfies Release

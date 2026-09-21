@@ -4,15 +4,14 @@ export const emei9Lives = {
   id: "01a0676a-d715-7019-965d-318cb5d92e2c",
   type: "page-type/release",
   slug: "emei-9-lives",
-  title: "9 LIVES",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 7.346483,
-  ownProgress: 7.346483,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2024-11-01",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emei9Lives = {
       externalLink: "https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7",
     },
   ],
+  title: "9 LIVES",
 } as const satisfies Release

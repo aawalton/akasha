@@ -4,14 +4,13 @@ export const arianaGrandeSweetener = {
   id: "01a0676a-d72b-7003-bbc8-4f5fc2c14dd5",
   type: "page-type/release",
   slug: "ariana-grande-sweetener",
-  title: "Sweetener",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 47.531017,
-  ownProgress: 47.531017,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-08-17",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeSweetener = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Sweetener",
 } as const satisfies Release

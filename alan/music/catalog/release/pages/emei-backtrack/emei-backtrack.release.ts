@@ -4,15 +4,14 @@ export const emeiBacktrack = {
   id: "01a0676a-d718-7002-b310-3e1d3d08dcde",
   type: "page-type/release",
   slug: "emei-backtrack",
-  title: "Backtrack",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/emei"],
   position: 0,
-  ownLength: 2.647333,
-  ownProgress: 2.647333,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2022-11-29",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const emeiBacktrack = {
       externalLink: "https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy",
     },
   ],
+  title: "Backtrack",
 } as const satisfies Release

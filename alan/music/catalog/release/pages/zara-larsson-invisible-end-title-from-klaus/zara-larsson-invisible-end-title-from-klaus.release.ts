@@ -4,14 +4,13 @@ export const zaraLarssonInvisibleEndTitleFromKlaus = {
   id: "01a0676a-d721-7081-bc60-89fdaa7498a5",
   type: "page-type/release",
   slug: "zara-larsson-invisible-end-title-from-klaus",
-  title: "Invisible (End Title from Klaus)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.861933,
-  ownProgress: 2.861933,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-11-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonInvisibleEndTitleFromKlaus = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Invisible (End Title from Klaus)",
 } as const satisfies Release

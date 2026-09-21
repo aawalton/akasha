@@ -4,14 +4,13 @@ export const coldplayLetSomebodyGoKygoRemix = {
   id: "01a0676a-d723-7022-a227-ee6fb67ccaa6",
   type: "page-type/release",
   slug: "coldplay-let-somebody-go-kygo-remix",
-  title: "Let Somebody Go (Kygo Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 10.863517,
-  ownProgress: 10.863517,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-03-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayLetSomebodyGoKygoRemix = {
       externalLink: "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF",
     },
   ],
+  title: "Let Somebody Go (Kygo Remix)",
 } as const satisfies Release

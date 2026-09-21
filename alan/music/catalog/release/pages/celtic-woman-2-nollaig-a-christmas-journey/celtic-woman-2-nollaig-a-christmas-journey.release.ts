@@ -4,14 +4,13 @@ export const celticWoman2NollaigAChristmasJourney = {
   id: "01a0676a-d725-7072-a495-9bcd7da941f5",
   type: "page-type/release",
   slug: "celtic-woman-2-nollaig-a-christmas-journey",
-  title: "Nollaig – A Christmas Journey",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 49.571433,
-  ownProgress: 49.571433,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-11-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const celticWoman2NollaigAChristmasJourney = {
       lastSyncedAt: "2026-01-21",
     },
   ],
+  title: "Nollaig – A Christmas Journey",
 } as const satisfies Release

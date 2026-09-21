@@ -4,15 +4,14 @@ export const vinnyMarchiForgetMyPhone = {
   id: "01a0676a-d71e-702c-942d-7e8182c3f80c",
   type: "page-type/release",
   slug: "vinny-marchi-forget-my-phone",
-  title: "Forget My Phone",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.595067,
-  ownProgress: 2.595067,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2023-04-14",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiForgetMyPhone = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Forget My Phone",
 } as const satisfies Release

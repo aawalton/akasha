@@ -4,15 +4,14 @@ export const jisooMe = {
   id: "01a0676a-d724-703f-a8d0-76c47bdca58f",
   type: "page-type/release",
   slug: "jisoo-me",
-  title: "ME",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/jisoo"],
   position: 0,
-  ownLength: 5.610933,
-  ownProgress: 5.610933,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2023-03-31",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const jisooMe = {
       lastSyncedAt: "2025-11-24",
     },
   ],
+  title: "ME",
 } as const satisfies Release

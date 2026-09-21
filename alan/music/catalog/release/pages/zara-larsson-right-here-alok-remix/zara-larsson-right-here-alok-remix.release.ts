@@ -4,14 +4,13 @@ export const zaraLarssonRightHereAlokRemix = {
   id: "01a0676a-d728-7008-9715-1f2a3200f475",
   type: "page-type/release",
   slug: "zara-larsson-right-here-alok-remix",
-  title: "Right Here (Alok Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.583333,
-  ownProgress: 2.583333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-05-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonRightHereAlokRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Right Here (Alok Remix)",
 } as const satisfies Release

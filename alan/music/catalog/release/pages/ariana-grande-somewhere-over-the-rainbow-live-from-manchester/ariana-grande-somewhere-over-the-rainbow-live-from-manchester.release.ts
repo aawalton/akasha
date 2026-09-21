@@ -4,14 +4,13 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchester = {
   id: "01a0676a-d729-7060-852f-dfadf390bd04",
   type: "page-type/release",
   slug: "ariana-grande-somewhere-over-the-rainbow-live-from-manchester",
-  title: "Somewhere Over The Rainbow (Live From Manchester)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 4.533767,
-  ownProgress: 4.533767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-06-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchester = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Somewhere Over The Rainbow (Live From Manchester)",
 } as const satisfies Release

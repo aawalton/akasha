@@ -4,14 +4,13 @@ export const coldplayShiver = {
   id: "01a0676a-d728-7074-afcd-76f06c8dff3c",
   type: "page-type/release",
   slug: "coldplay-shiver",
-  title: "Shiver",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 15.5522,
-  ownProgress: 15.5522,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2000-03-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayShiver = {
       externalLink: "https://open.spotify.com/album/2rd83EFsdLMTyrgVizvpxX",
     },
   ],
+  title: "Shiver",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const auroraAPotionForLove = {
   id: "01a0676a-d715-703a-924b-79f07841e0fa",
   type: "page-type/release",
   slug: "aurora-a-potion-for-love",
-  title: "A Potion For Love",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.6071,
-  ownProgress: 3.6071,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-07-29",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraAPotionForLove = {
       externalLink: "https://open.spotify.com/album/54RiYX8ONUdOOxerMzADqA",
     },
   ],
+  title: "A Potion For Love",
 } as const satisfies Release

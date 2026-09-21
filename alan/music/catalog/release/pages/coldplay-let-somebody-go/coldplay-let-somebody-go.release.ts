@@ -4,14 +4,13 @@ export const coldplayLetSomebodyGo = {
   id: "01a0676a-d723-7021-99f2-6a5d1722c643",
   type: "page-type/release",
   slug: "coldplay-let-somebody-go",
-  title: "Let Somebody Go",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 7.575733,
-  ownProgress: 7.575733,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-03-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayLetSomebodyGo = {
       externalLink: "https://open.spotify.com/album/0vS8EETjc2cnCu5j32uxxq",
     },
   ],
+  title: "Let Somebody Go",
 } as const satisfies Release

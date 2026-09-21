@@ -4,14 +4,13 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakko = {
   id: "01a0676a-d729-7053-ae0d-078fcea62070",
   type: "page-type/release",
   slug: "aurora-some-type-of-skin-feat-atarashii-gakko",
-  title: "Some Type Of Skin (feat. ATARASHII GAKKO!)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.602667,
-  ownProgress: 3.602667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-02-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakko = {
       externalLink: "https://open.spotify.com/album/2rfZFPB9om95kkhwbHnwa3",
     },
   ],
+  title: "Some Type Of Skin (feat. ATARASHII GAKKO!)",
 } as const satisfies Release

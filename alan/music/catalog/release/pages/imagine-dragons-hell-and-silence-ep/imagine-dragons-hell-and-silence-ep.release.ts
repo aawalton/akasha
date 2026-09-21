@@ -4,14 +4,13 @@ export const imagineDragonsHellAndSilenceEp = {
   id: "01a0676a-d720-7028-9735-88d6bf4d3444",
   type: "page-type/release",
   slug: "imagine-dragons-hell-and-silence-ep",
-  title: "Hell And Silence EP",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 22.747733,
-  ownProgress: 22.747733,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2010-06-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsHellAndSilenceEp = {
       externalLink: "https://open.spotify.com/album/0q0BORsAWpbFNf7UqWwDbd",
     },
   ],
+  title: "Hell And Silence EP",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const sabrinaCarpenterAlienAcoustic = {
   id: "01a0676a-d716-7012-a532-d460dbb5bfbc",
   type: "page-type/release",
   slug: "sabrina-carpenter-alien-acoustic",
-  title: "Alien (Acoustic)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.410483,
-  ownProgress: 3.410483,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-05-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterAlienAcoustic = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Alien (Acoustic)",
 } as const satisfies Release

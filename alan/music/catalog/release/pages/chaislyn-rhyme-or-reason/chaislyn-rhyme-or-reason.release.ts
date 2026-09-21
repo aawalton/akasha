@@ -4,14 +4,13 @@ export const chaislynRhymeOrReason = {
   id: "01a0676a-d728-7003-b5e7-3de3a725b9a2",
   type: "page-type/release",
   slug: "chaislyn-rhyme-or-reason",
-  title: "rhyme or reason",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/chaislyn"],
   position: 0,
-  ownLength: 4.190217,
-  ownProgress: 4.190217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-02-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const chaislynRhymeOrReason = {
       externalLink: "https://open.spotify.com/album/5sVzWvkKeVITAFcpjs7HOl",
     },
   ],
+  title: "rhyme or reason",
 } as const satisfies Release

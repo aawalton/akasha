@@ -4,14 +4,13 @@ export const arianaGrandeYesAndJonasBlueRemix = {
   id: "01a0676a-d731-704e-a67d-2f6c7d4077da",
   type: "page-type/release",
   slug: "ariana-grande-yes-and-jonas-blue-remix",
-  title: "yes, and? (Jonas Blue Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.548383,
-  ownProgress: 3.548383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-01-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeYesAndJonasBlueRemix = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "yes, and? (Jonas Blue Remix)",
 } as const satisfies Release

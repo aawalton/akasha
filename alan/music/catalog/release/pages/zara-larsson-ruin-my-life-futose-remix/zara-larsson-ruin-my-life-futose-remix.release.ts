@@ -4,14 +4,13 @@ export const zaraLarssonRuinMyLifeFutoseRemix = {
   id: "01a0676a-d728-7029-bed3-837e6125dc70",
   type: "page-type/release",
   slug: "zara-larsson-ruin-my-life-futose-remix",
-  title: "Ruin My Life (Futosé Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 4.748167,
-  ownProgress: 4.748167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-11-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonRuinMyLifeFutoseRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "Ruin My Life (Futosé Remix)",
 } as const satisfies Release

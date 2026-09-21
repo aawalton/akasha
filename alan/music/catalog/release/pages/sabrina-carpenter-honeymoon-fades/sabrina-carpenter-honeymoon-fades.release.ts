@@ -4,14 +4,13 @@ export const sabrinaCarpenterHoneymoonFades = {
   id: "01a0676a-d720-7059-9265-748020dca167",
   type: "page-type/release",
   slug: "sabrina-carpenter-honeymoon-fades",
-  title: "Honeymoon Fades",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.252683,
-  ownProgress: 3.252683,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-02-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterHoneymoonFades = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Honeymoon Fades",
 } as const satisfies Release

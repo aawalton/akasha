@@ -4,15 +4,14 @@ export const vinnyMarchiBadDaysGood = {
   id: "01a0676a-d718-7007-b378-f762c22f10bc",
   type: "page-type/release",
   slug: "vinny-marchi-bad-days-good",
-  title: "Bad Days Good",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 2.65,
-  ownProgress: 2.65,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2023-11-03",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiBadDaysGood = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "Bad Days Good",
 } as const satisfies Release

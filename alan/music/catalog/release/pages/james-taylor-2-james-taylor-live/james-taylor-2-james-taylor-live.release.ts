@@ -4,14 +4,13 @@ export const jamesTaylor2JamesTaylorLive = {
   id: "01a0676a-d722-701c-bc4b-647c865f71ef",
   type: "page-type/release",
   slug: "james-taylor-2-james-taylor-live",
-  title: "James Taylor Live",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 120.068667,
-  ownProgress: 120.068667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "1993-06-30",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2JamesTaylorLive = {
       externalLink: "https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC",
     },
   ],
+  title: "James Taylor Live",
 } as const satisfies Release

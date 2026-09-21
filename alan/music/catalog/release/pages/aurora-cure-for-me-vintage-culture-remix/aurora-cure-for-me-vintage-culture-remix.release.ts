@@ -4,14 +4,13 @@ export const auroraCureForMeVintageCultureRemix = {
   id: "01a0676a-d71b-7048-a7c5-a63ca4884456",
   type: "page-type/release",
   slug: "aurora-cure-for-me-vintage-culture-remix",
-  title: "Cure For Me (Vintage Culture Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 3.501333,
-  ownProgress: 3.501333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-08-27",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraCureForMeVintageCultureRemix = {
       externalLink: "https://open.spotify.com/album/6Ji8y0F44wm0b2mze5dazW",
     },
   ],
+  title: "Cure For Me (Vintage Culture Remix)",
 } as const satisfies Release

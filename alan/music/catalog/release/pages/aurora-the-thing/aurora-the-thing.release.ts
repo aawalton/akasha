@@ -4,14 +4,13 @@ export const auroraTheThing = {
   id: "01a0676a-d72e-7015-a3b6-2367e26e899c",
   type: "page-type/release",
   slug: "aurora-the-thing",
-  title: "THE THING",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 5.635333,
-  ownProgress: 5.635333,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2026-01-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const auroraTheThing = {
       lastSyncedAt: "2026-01-31",
     },
   ],
+  title: "THE THING",
 } as const satisfies Release

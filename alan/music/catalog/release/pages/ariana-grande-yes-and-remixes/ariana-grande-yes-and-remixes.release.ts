@@ -4,14 +4,13 @@ export const arianaGrandeYesAndRemixes = {
   id: "01a0676a-d731-704f-9cbe-feaff57f4cc6",
   type: "page-type/release",
   slug: "ariana-grande-yes-and-remixes",
-  title: "yes, and? (remixes)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 12.504583,
-  ownProgress: 12.504583,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-01-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeYesAndRemixes = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "yes, and? (remixes)",
 } as const satisfies Release

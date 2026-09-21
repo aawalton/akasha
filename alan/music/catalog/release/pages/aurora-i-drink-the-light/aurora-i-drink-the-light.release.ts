@@ -4,7 +4,7 @@ export const auroraIDrinkTheLight = {
   id: "01a0b637-ea2e-7c90-a009-cc2013911eb3",
   type: "page-type/release",
   slug: "aurora-i-drink-the-light",
-  ownLength: 7.948216666666666,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,

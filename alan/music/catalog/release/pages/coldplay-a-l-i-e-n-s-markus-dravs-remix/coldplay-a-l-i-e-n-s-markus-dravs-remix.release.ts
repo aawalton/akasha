@@ -4,14 +4,13 @@ export const coldplayALIENSMarkusDravsRemix = {
   id: "01a0676a-d715-702a-8136-b9ba0786876e",
   type: "page-type/release",
   slug: "coldplay-a-l-i-e-n-s-markus-dravs-remix",
-  title: "A L I E N S (Markus Dravs Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 7.086933,
-  ownProgress: 7.086933,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2017-07-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayALIENSMarkusDravsRemix = {
       externalLink: "https://open.spotify.com/album/3pg2wMCqJzTksen01JRptU",
     },
   ],
+  title: "A L I E N S (Markus Dravs Remix)",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const sabrinaCarpenterAlienDarkHeartRemix = {
   id: "01a0676a-d716-7013-aa60-05512b58ba04",
   type: "page-type/release",
   slug: "sabrina-carpenter-alien-dark-heart-remix",
-  title: "Alien (Dark Heart Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.49055,
-  ownProgress: 3.49055,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-04-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterAlienDarkHeartRemix = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Alien (Dark Heart Remix)",
 } as const satisfies Release

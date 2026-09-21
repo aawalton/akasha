@@ -4,14 +4,13 @@ export const paulCardallAGriefObserved = {
   id: "01a0676a-d715-7026-811d-4c630326d435",
   type: "page-type/release",
   slug: "paul-cardall-a-grief-observed",
-  title: "A Grief Observed",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 3.948817,
-  ownProgress: 3.948817,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-01-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const paulCardallAGriefObserved = {
       externalLink: "https://open.spotify.com/album/0QeqfRxjPmLfILhSA0Z4Go",
     },
   ],
+  title: "A Grief Observed",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const zaraLarssonEndOfTimeKungsRemix = {
   id: "01a0676a-d71d-7011-b334-40071606799e",
   type: "page-type/release",
   slug: "zara-larsson-end-of-time-kungs-remix",
-  title: "End Of Time (Kungs Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 2.5815,
-  ownProgress: 2.5815,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2023-07-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonEndOfTimeKungsRemix = {
       lastSyncedAt: "2025-12-20",
     },
   ],
+  title: "End Of Time (Kungs Remix)",
 } as const satisfies Release

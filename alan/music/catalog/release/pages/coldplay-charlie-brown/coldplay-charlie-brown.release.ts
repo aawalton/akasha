@@ -4,14 +4,13 @@ export const coldplayCharlieBrown = {
   id: "01a0676a-d71a-701a-b033-47472563d965",
   type: "page-type/release",
   slug: "coldplay-charlie-brown",
-  title: "Charlie Brown",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 4.75265,
-  ownProgress: 4.75265,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-04-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayCharlieBrown = {
       externalLink: "https://open.spotify.com/album/6UYr6OSxWSWkE2JLTo5SnD",
     },
   ],
+  title: "Charlie Brown",
 } as const satisfies Release

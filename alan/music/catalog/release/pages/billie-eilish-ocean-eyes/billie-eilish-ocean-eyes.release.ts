@@ -4,15 +4,14 @@ export const billieEilishOceanEyes = {
   id: "01a0676a-d726-7012-bf16-98a75717e1b4",
   type: "page-type/release",
   slug: "billie-eilish-ocean-eyes",
-  title: "Ocean Eyes",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 3.342667,
-  ownProgress: 3.342667,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "A",
   publishedAt: "2016-11-18",
+  rank: "A",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishOceanEyes = {
       externalLink: "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9",
     },
   ],
+  title: "Ocean Eyes",
 } as const satisfies Release

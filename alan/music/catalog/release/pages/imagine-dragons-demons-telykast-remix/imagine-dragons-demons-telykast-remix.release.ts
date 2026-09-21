@@ -4,14 +4,13 @@ export const imagineDragonsDemonsTelykastRemix = {
   id: "01a0676a-d71c-700b-8144-d428c2b2c6c2",
   type: "page-type/release",
   slug: "imagine-dragons-demons-telykast-remix",
-  title: "Demons (TELYKast Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 2.935467,
-  ownProgress: 2.935467,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-10-22",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsDemonsTelykastRemix = {
       externalLink: "https://open.spotify.com/album/0f8xygKtxKKNfhl6hffSAd",
     },
   ],
+  title: "Demons (TELYKast Remix)",
 } as const satisfies Release

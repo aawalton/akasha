@@ -4,14 +4,13 @@ export const imagineDragonsItSTimePassionPitRemix = {
   id: "01a0676a-d722-7015-a8c7-79bfdb3af8d5",
   type: "page-type/release",
   slug: "imagine-dragons-it-s-time-passion-pit-remix",
-  title: "It's Time (Passion Pit Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 4.522883,
-  ownProgress: 4.522883,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsItSTimePassionPitRemix = {
       externalLink: "https://open.spotify.com/album/2zWuvGQMqOSn4Ij1FQLqx0",
     },
   ],
+  title: "It's Time (Passion Pit Remix)",
 } as const satisfies Release

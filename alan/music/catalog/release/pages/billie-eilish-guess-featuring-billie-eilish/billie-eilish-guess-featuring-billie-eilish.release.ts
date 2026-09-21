@@ -4,15 +4,14 @@ export const billieEilishGuessFeaturingBillieEilish = {
   id: "01a0676a-d71f-7033-a307-f5992ebec77d",
   type: "page-type/release",
   slug: "billie-eilish-guess-featuring-billie-eilish",
-  title: "Guess featuring billie eilish",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 2.388833,
-  ownProgress: 2.388833,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "C",
   publishedAt: "2024-08-01",
+  rank: "C",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishGuessFeaturingBillieEilish = {
       externalLink: "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN",
     },
   ],
+  title: "Guess featuring billie eilish",
 } as const satisfies Release

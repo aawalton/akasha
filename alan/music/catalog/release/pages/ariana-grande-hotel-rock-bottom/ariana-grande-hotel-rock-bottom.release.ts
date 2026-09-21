@@ -4,14 +4,13 @@ export const arianaGrandeHotelRockBottom = {
   id: "01a0676a-d720-7064-b8b0-9be219cbcc51",
   type: "page-type/release",
   slug: "ariana-grande-hotel-rock-bottom",
-  title: "Hotel Rock Bottom",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.26175,
-  ownProgress: 3.26175,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-07-10",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeHotelRockBottom = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "Hotel Rock Bottom",
 } as const satisfies Release

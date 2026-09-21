@@ -4,14 +4,13 @@ export const auroraToBeLoved = {
   id: "01a0676a-d72f-7003-abf1-36d94e13d1f3",
   type: "page-type/release",
   slug: "aurora-to-be-loved",
-  title: "To Be Loved",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 26.57055,
-  ownProgress: 26.57055,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-09-24",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraToBeLoved = {
       externalLink: "https://open.spotify.com/album/1RxibJSLV6FDm0TWyfA3mF",
     },
   ],
+  title: "To Be Loved",
 } as const satisfies Release

@@ -4,14 +4,13 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorld = {
   id: "01a0676a-d72b-7019-8438-addbf476c889",
   type: "page-type/release",
   slug: "sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world",
-  title: 'Take On the World (Theme Song From "Girl Meets World")',
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.210667,
-  ownProgress: 3.210667,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2014-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorld = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: 'Take On the World (Theme Song From "Girl Meets World")',
 } as const satisfies Release

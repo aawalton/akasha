@@ -4,14 +4,13 @@ export const coldplayStrawberrySwing = {
   id: "01a0676a-d72a-702d-b629-28f0123d6160",
   type: "page-type/release",
   slug: "coldplay-strawberry-swing",
-  title: "Strawberry Swing",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 4.1611,
-  ownProgress: 4.1611,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2009-09-13",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayStrawberrySwing = {
       externalLink: "https://open.spotify.com/album/5JyRcNcdZ8uf5vGH4b6ljZ",
     },
   ],
+  title: "Strawberry Swing",
 } as const satisfies Release

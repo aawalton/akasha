@@ -4,14 +4,13 @@ export const arianaGrandeYesAnd2 = {
   id: "01a0676a-d731-704c-905c-e094ec188698",
   type: "page-type/release",
   slug: "ariana-grande-yes-and-2",
-  title: "yes, and?",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/ariana-grande"],
   position: 0,
-  ownLength: 3.583233,
-  ownProgress: 3.583233,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2024-02-16",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const arianaGrandeYesAnd2 = {
       lastSyncedAt: "2025-10-02",
     },
   ],
+  title: "yes, and?",
 } as const satisfies Release

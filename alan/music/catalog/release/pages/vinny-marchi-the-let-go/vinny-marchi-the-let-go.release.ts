@@ -4,15 +4,14 @@ export const vinnyMarchiTheLetGo = {
   id: "01a0676a-d72d-7031-b902-8d6561638d2c",
   type: "page-type/release",
   slug: "vinny-marchi-the-let-go",
-  title: "The Let Go",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/vinny-marchi"],
   position: 0,
-  ownLength: 3.353967,
-  ownProgress: 3.353967,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2025-08-15",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const vinnyMarchiTheLetGo = {
       lastSyncedAt: "2025-10-24",
     },
   ],
+  title: "The Let Go",
 } as const satisfies Release

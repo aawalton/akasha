@@ -4,7 +4,7 @@ export const chaislynUnreliableNarrator = {
   id: "01a0b9ec-94f9-7af0-9f46-839732523c82",
   type: "page-type/release",
   slug: "chaislyn-unreliable-narrator",
-  ownLength: 11.581433333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/chaislyn"],
   position: 0,

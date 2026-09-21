@@ -4,14 +4,13 @@ export const zaraLarssonLushLifeMidnightSun = {
   id: "01a0676a-d724-701b-887c-d96b94fe14c3",
   type: "page-type/release",
   slug: "zara-larsson-lush-life-midnight-sun",
-  title: "Lush Life + Midnight Sun",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/zara-larsson"],
   position: 0,
-  ownLength: 6.502767,
-  ownProgress: 6.502767,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2026-01-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const zaraLarssonLushLifeMidnightSun = {
       lastSyncedAt: "2026-01-20",
     },
   ],
+  title: "Lush Life + Midnight Sun",
 } as const satisfies Release

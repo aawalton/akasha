@@ -4,15 +4,14 @@ export const billieEilishBurnWithVinceStaples = {
   id: "01a0676a-d717-7015-a0de-559d48fbe7e4",
   type: "page-type/release",
   slug: "billie-eilish-burn-with-vince-staples",
-  title: "&burn (with Vince Staples)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 2.983583,
-  ownProgress: 2.983583,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "B",
   publishedAt: "2017-12-15",
+  rank: "B",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishBurnWithVinceStaples = {
       externalLink: "https://open.spotify.com/album/6eQpKhYCtvD0TwXQVHsgC2",
     },
   ],
+  title: "&burn (with Vince Staples)",
 } as const satisfies Release

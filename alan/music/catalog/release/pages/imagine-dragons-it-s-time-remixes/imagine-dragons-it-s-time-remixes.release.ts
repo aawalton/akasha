@@ -4,14 +4,13 @@ export const imagineDragonsItSTimeRemixes = {
   id: "01a0676a-d722-7016-ba9a-585b06e93c60",
   type: "page-type/release",
   slug: "imagine-dragons-it-s-time-remixes",
-  title: "It's Time Remixes",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/imagine-dragons"],
   position: 0,
-  ownLength: 17.392217,
-  ownProgress: 17.392217,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const imagineDragonsItSTimeRemixes = {
       externalLink: "https://open.spotify.com/album/5RO33QZORXxIKqneSZNuyl",
     },
   ],
+  title: "It's Time Remixes",
 } as const satisfies Release

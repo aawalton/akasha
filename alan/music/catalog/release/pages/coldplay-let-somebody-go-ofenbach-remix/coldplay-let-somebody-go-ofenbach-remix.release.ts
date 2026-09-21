@@ -4,14 +4,13 @@ export const coldplayLetSomebodyGoOfenbachRemix = {
   id: "01a0676a-d723-7023-936a-eb63b497ac0f",
   type: "page-type/release",
   slug: "coldplay-let-somebody-go-ofenbach-remix",
-  title: "Let Somebody Go (Ofenbach Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 3.24145,
-  ownProgress: 3.24145,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-04-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayLetSomebodyGoOfenbachRemix = {
       externalLink: "https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN",
     },
   ],
+  title: "Let Somebody Go (Ofenbach Remix)",
 } as const satisfies Release

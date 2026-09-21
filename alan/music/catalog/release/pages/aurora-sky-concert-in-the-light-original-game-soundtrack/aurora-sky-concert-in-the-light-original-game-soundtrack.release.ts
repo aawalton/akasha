@@ -4,14 +4,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrack = {
   id: "01a0676a-d729-701c-a934-9c76018b9d15",
   type: "page-type/release",
   slug: "aurora-sky-concert-in-the-light-original-game-soundtrack",
-  title: "Sky: Concert in the Light (Original Game Soundtrack)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 48.919633,
-  ownProgress: 48.919633,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2022-12-07",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrack = {
       externalLink: "https://open.spotify.com/album/5TtsKcqHI5MN7rtMR19tUL",
     },
   ],
+  title: "Sky: Concert in the Light (Original Game Soundtrack)",
 } as const satisfies Release

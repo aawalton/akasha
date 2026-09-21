@@ -4,14 +4,13 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForest = {
   id: "01a0676a-d71e-7027-80df-391cc196b9a4",
   type: "page-type/release",
   slug: "aurora-for-the-humans-who-take-long-walks-in-the-forest",
-  title: "FOR THE HUMANS WHO TAKE LONG WALKS IN THE FOREST",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 23.732567,
-  ownProgress: 23.732567,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-02-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForest = {
       externalLink: "https://open.spotify.com/album/6Nc88XFETOtTJpQA4RqYGI",
     },
   ],
+  title: "FOR THE HUMANS WHO TAKE LONG WALKS IN THE FOREST",
 } as const satisfies Release

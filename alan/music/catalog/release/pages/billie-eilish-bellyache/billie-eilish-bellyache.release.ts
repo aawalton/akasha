@@ -4,15 +4,14 @@ export const billieEilishBellyache = {
   id: "01a0676a-d718-703c-85ca-98a457b2725f",
   type: "page-type/release",
   slug: "billie-eilish-bellyache",
-  title: "Bellyache",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/billie-eilish"],
   position: 0,
-  ownLength: 2.9862,
-  ownProgress: 2.9862,
-  unit: "unit/minutes",
-  status: "completed",
-  rank: "A",
   publishedAt: "2017-02-24",
+  rank: "A",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const billieEilishBellyache = {
       externalLink: "https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl",
     },
   ],
+  title: "Bellyache",
 } as const satisfies Release

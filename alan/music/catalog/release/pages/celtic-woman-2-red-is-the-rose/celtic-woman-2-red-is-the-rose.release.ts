@@ -4,14 +4,13 @@ export const celticWoman2RedIsTheRose = {
   id: "01a0676a-d727-705e-8fb6-d58f40b282f8",
   type: "page-type/release",
   slug: "celtic-woman-2-red-is-the-rose",
-  title: "Red is the Rose",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 3.579167,
-  ownProgress: 3.579167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2025-05-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const celticWoman2RedIsTheRose = {
       externalLink: "https://open.spotify.com/album/6ORQwFm62ysiizXPqM1INp",
     },
   ],
+  title: "Red is the Rose",
 } as const satisfies Release

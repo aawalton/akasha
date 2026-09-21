@@ -4,14 +4,13 @@ export const auroraTheRiverAskjellRemix = {
   id: "01a0676a-d72e-7001-8885-24bd627ba690",
   type: "page-type/release",
   slug: "aurora-the-river-askjell-remix",
-  title: "The River (Askjell Remix)",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
-  ownLength: 7.097583,
-  ownProgress: 7.097583,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2019-05-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const auroraTheRiverAskjellRemix = {
       externalLink: "https://open.spotify.com/album/4MUYZFRBTzDnA8ResJefwA",
     },
   ],
+  title: "The River (Askjell Remix)",
 } as const satisfies Release
