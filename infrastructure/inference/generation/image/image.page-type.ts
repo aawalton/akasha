@@ -6,7 +6,7 @@ export const image = {
   slug: "image",
   definition: "one picture the system has",
   extends: ["page-type/page"],
-  parts: ["file-property/image-bytes"],
+  parts: ["file-property/image-bytes", "text-property/eso-day"],
   properties: [
     {
       pageProperty: "file-property/image-bytes",

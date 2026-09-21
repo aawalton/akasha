@@ -2647,6 +2647,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/audio/audio.page-type.ts","id":"019f189b-018c-74b8-920b-845fe171aee7"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/properties/eso-day.text-property.ts","id":"01a060fb-040d-7f7f-bce8-a74c90df15bc"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/properties/image-bytes.file-property.ts","id":"01a0c5a1-0c16-7cc7-a193-157978ff825a"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/log/generation-log.page-type.ts","id":"01a01d18-306b-7000-9796-b41f285a1bad"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/log/properties/generation-audios.file-property.ts","id":"01a0685d-b81f-7b18-83d0-35da71ba6877"}
@@ -3292,7 +3293,6 @@
 {"propertySlug":"decision-kind","path":"persona/service-workstations/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts","id":"01a0786c-047b-7863-b793-0ff93be3d895"}
 {"propertySlug":"decision-kind","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
 {"propertySlug":"decision-kind","path":"persona/wallpaper/persona-wallpaper.page-type.ts","id":"01a0655b-4a9b-700c-8243-c78f27e30dd7"}
-{"propertySlug":"decision-kind","path":"persona/wallpaper/properties/eso-day.text-property.ts","id":"01a060fb-040d-7f7f-bce8-a74c90df15bc"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/archive-of-worlds-web.router-app.ts","id":"01a06582-2737-7abe-a512-ecb40685ecf4"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.ts","id":"01a0bb92-4d60-7a2d-a44a-b6ab161a858c"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-handover/archive-of-worlds-handover.route.ts","id":"01a0bb92-75ea-7d80-91b1-1a70858aeb5b"}

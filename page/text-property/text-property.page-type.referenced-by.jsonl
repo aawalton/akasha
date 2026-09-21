@@ -293,6 +293,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-subject-hash.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-folder.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-repository.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/eso-day.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/computer-model.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/host/properties/host-address.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machine/host/properties/login-user.text-property.ts"}
@@ -395,7 +396,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/value-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/voice-instruction.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/properties/voice-reference-sha256.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/wallpaper/properties/eso-day.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/properties/metric.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/contributor/properties/contributor-email-hash.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/contributor/properties/stripe-charge-id.text-property.ts"}
