@@ -9,7 +9,7 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import { resolveToggle } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import { resolveToggle } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 
 type AutomationToggleValue = "on" | "off" | "account-default"
 

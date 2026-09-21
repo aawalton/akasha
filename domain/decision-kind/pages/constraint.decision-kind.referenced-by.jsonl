@@ -804,7 +804,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/quests-addon/temper-quests-addon.eso-addon.ts","id":"01a0635f-391c-765a-af94-26f3ecd9702f"}
 {"propertySlug":"decision-kind","path":"temper/addon/settings-panel/modules/dropdown/dropdown.module.ts","id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
 {"propertySlug":"decision-kind","path":"temper/addon/trading-addon/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
-{"propertySlug":"decision-kind","path":"temper/build-support/modules/confirm-set-target/confirm-set-target.module.ts","id":"01a090a4-c227-7bc1-87d7-d7b98fe5499c"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-alliance-map/character-capture-alliance-map.module.ts","id":"01a0616b-5a16-7e5f-b792-c43a0671a8d9"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.ts","id":"01a0616b-23c3-7958-8a1f-21a8646a50db"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-class-map/character-capture-class-map.module.ts","id":"01a0616b-83c5-7863-8ef6-9a4458d16ae4"}
@@ -1121,6 +1120,7 @@
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.ts","id":"01a06108-2ff9-767b-92d7-7dbd5671e738"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.ts","id":"01a06108-2ffa-7ddc-a07c-2ee34cb56f5c"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/confirm-set-target/confirm-set-target.module.ts","id":"01a090a4-c227-7bc1-87d7-d7b98fe5499c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.ts","id":"01a0616f-8e17-7f39-850b-c2da8d153a31"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.ts","id":"01a0616f-8e14-79ec-a8cd-c4989b33053d"}

@@ -1,7 +1,6 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
-import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
   type ArmorSlotId,
   armorSlots,
@@ -14,6 +13,7 @@ import {
 } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
   type ArmorEnchantId,
   armorEnchants,

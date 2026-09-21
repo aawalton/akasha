@@ -5,7 +5,6 @@ import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-cont
 import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
-import { toBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { createEmptyCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
 import {
   decodeCompanion,
@@ -23,6 +22,7 @@ import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import { toBuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { createEmptyCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"

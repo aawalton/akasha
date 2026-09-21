@@ -14,11 +14,6 @@ import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.mo
 import { useOptimisticDeletePages } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts"
 import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
 import { useOptimisticUpsertPages } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"
-import type {
-  AutomationSettings,
-  CharacterAutomationToggles,
-  CompanionAutomationToggles,
-} from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import {
   type BackpackSettings,
   DEFAULT_BACKPACK_SETTINGS,
@@ -35,6 +30,11 @@ import {
 } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { writesFor } from "akasha/temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import type {
+  AutomationSettings,
+  CharacterAutomationToggles,
+  CompanionAutomationToggles,
+} from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

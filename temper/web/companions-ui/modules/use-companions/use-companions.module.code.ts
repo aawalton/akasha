@@ -13,12 +13,6 @@ import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/module
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import {
-  type BuildRow,
-  mapBuildRow,
-} from "akasha/temper/build-support/modules/build-row/build-row.module.code.ts"
-import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
-import type { SettableBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
-import {
   type CompanionBaseRoleId,
   companionBaseRoles,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
@@ -28,6 +22,12 @@ import {
   type CompanionBuildMetadata,
   extractCompanionMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import {
+  type BuildRow,
+  mapBuildRow,
+} from "akasha/temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts"
+import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
+import type { SettableBuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"

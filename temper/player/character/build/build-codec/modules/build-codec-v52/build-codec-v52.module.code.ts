@@ -64,13 +64,13 @@ import {
   type BitReaderState,
   makeBitReader,
   readBits,
-} from "akasha/temper/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+} from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import {
   type BitWriterState,
   bitWriterToBytes,
   makeBitWriter,
   writeBits,
-} from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+} from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"

@@ -11,7 +11,7 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import { toBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
+import { toBuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { useCompanionMetadata } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
 import { useEffect, useState } from "react"
 

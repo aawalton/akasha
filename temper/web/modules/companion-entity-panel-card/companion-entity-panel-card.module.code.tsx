@@ -8,7 +8,6 @@ import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/pan
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
@@ -23,6 +22,7 @@ import type { CompanionState } from "akasha/temper/catalog/companion/companions-
 import { getWeaponRole } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
 import { companionWeaponRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { Search, Trophy } from "lucide-react"
 

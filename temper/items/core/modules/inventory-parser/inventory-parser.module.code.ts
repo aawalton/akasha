@@ -2,7 +2,6 @@ import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { parseString } from "akasha/code/type/narrowing/modules/parse-string/parse-string.module.code.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
-import { stripEsoNameSuffix } from "akasha/temper/build-support/modules/eso-name/eso-name.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import {
@@ -27,6 +26,7 @@ import type {
   ResolvedActionSource,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { parseItemLink } from "akasha/temper/items/core/modules/item-link-parser/item-link-parser.module.code.ts"
+import { stripEsoNameSuffix } from "akasha/temper/player/character/build/build-support/modules/eso-name/eso-name.module.code.ts"
 
 function asNumber(value: unknown): number {
   return typeof value === "number" ? value : 0

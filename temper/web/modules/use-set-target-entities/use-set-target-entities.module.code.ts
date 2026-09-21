@@ -1,6 +1,5 @@
 "use client"
 
-import { confirmingTarget } from "akasha/temper/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
 import { races } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import {
   applyCharacterMetadata,
@@ -12,6 +11,7 @@ import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import { confirmingTarget } from "akasha/temper/player/character/build/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"

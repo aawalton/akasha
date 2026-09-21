@@ -35,11 +35,11 @@ import {
   WEAPON_TRAIT_BITS,
   WEAPON_TYPE_BITS,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
-import type { BitReaderState } from "akasha/temper/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
-import { readBits } from "akasha/temper/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
-import type { BitWriterState } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import { writeBits } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import { recordFromKeys } from "akasha/temper/build-hash/modules/record-from-keys/record-from-keys.module.code.ts"
+import type { BitReaderState } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import { readBits } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import type { BitWriterState } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+import { writeBits } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+import { recordFromKeys } from "akasha/temper/player/character/build/build-hash/modules/record-from-keys/record-from-keys.module.code.ts"
 import type { ArmorSlotId } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import type {
   EquipmentQualityId,

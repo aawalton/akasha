@@ -12,10 +12,10 @@ import { SearchButton } from "akasha/design/interface/pattern/modules/search-but
 import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { Tabs } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { characterUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
 import { encodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import { characterUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   useCharacterLifecycle,

@@ -17,7 +17,6 @@
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"page/index/test-fixtures/filing/index-filing.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/addon/characters-addon/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts"}
-{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/items-rules-core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/items/rules/eval/test-fixtures/check-container-fixtures/check-container-fixtures.test-fixture.ts"}
@@ -27,5 +26,6 @@
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/items/rules/routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.ts"}
+{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/player/character/build/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/web/test-fixtures/resource-loader-args-test-utils/resource-loader-args-test-utils.test-fixture.ts"}
 {"propertySlug":"parts","path":"check/test/test.domain.ts","id":"01a04f3e-eea5-79ee-8d0b-c822c492a981"}

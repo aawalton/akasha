@@ -39,8 +39,8 @@ import {
   ESO_VERSION_52,
   encodeV52,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"
-import { base64urlToBytes } from "akasha/temper/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
-import { stampedWith } from "akasha/temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.code.ts"
+import { base64urlToBytes } from "akasha/temper/player/character/build/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
+import { stampedWith } from "akasha/temper/player/character/build/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.code.ts"
 import type { StandardArmorType } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type {

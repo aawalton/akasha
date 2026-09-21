@@ -1,10 +1,5 @@
 "use client"
 
-import {
-  type BuildVisibility,
-  type SettableBuildVisibility,
-  toBuildVisibility,
-} from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import {
   applyCharacterMetadata,
@@ -14,6 +9,11 @@ import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import {
+  type BuildVisibility,
+  type SettableBuildVisibility,
+  toBuildVisibility,
+} from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"

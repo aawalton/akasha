@@ -1,6 +1,5 @@
 "use client"
 
-import { confirmingTarget } from "akasha/temper/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
 import { getBaseRoleName } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
@@ -13,6 +12,7 @@ import {
   extractCompanionMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
+import { confirmingTarget } from "akasha/temper/player/character/build/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   useCompanionLifecycle,

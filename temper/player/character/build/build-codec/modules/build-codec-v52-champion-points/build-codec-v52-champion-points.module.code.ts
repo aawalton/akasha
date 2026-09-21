@@ -3,10 +3,10 @@ import {
   getChampionPointId,
   getChampionPointIndex,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
-import type { BitReaderState } from "akasha/temper/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
-import { readBits } from "akasha/temper/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
-import type { BitWriterState } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import { writeBits } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+import type { BitReaderState } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import { readBits } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import type { BitWriterState } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+import { writeBits } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import type { ChampionPointId } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 

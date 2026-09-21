@@ -1,15 +1,3 @@
-import {
-  type BitReaderState,
-  makeBitReader,
-  readBits,
-} from "akasha/temper/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
-import {
-  type BitWriterState,
-  bitWriterToBytes,
-  makeBitWriter,
-  writeBits,
-} from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import { recordFromKeys } from "akasha/temper/build-hash/modules/record-from-keys/record-from-keys.module.code.ts"
 import type { CompanionArmorSlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {
@@ -49,6 +37,18 @@ import {
   getCompanionWeaponTypeId,
   getCompanionWeaponTypeIndex,
 } from "akasha/temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
+import {
+  type BitReaderState,
+  makeBitReader,
+  readBits,
+} from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import {
+  type BitWriterState,
+  bitWriterToBytes,
+  makeBitWriter,
+  writeBits,
+} from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
+import { recordFromKeys } from "akasha/temper/player/character/build/build-hash/modules/record-from-keys/record-from-keys.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 export const COMPANION_BUILD_TYPE = 0x02

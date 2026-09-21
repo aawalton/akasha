@@ -1,10 +1,10 @@
 "use client"
 
+import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type {
   BuildVisibility,
   SettableBuildVisibility,
-} from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
-import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
+} from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { CompanionAction } from "akasha/temper/web/modules/companion-actions/companion-actions.module.code.ts"
 import { createContext } from "react"
