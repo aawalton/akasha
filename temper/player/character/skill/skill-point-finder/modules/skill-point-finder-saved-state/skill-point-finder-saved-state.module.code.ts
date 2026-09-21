@@ -1,3 +1,4 @@
+import { copyTable } from "akasha/temper/addon/pages/characters/modules/table-functions/table-functions.module.code.ts"
 import { checkSavedVars } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts"
 import {
   requireSVar,
@@ -9,7 +10,6 @@ import type {
   Settings,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-table-functions/lib-table-functions.type-declaration.d.ts"
 
 interface LegacySettings extends Settings {
   MWC?: boolean
@@ -46,7 +46,7 @@ export function loadSettings(this: void, charId: string): undefined {
   if (checkSavedVars(sv.settings[charId])) {
     const saved = sv.settings[charId]
     if (saved !== undefined) {
-      STATE.settings = TemperTableFunctions.CopyTable(saved)
+      STATE.settings = copyTable(saved)
       backfillColor(STATE.settings.GSP, saved.GSP, "progColor", [1, 1, 1])
       backfillColor(STATE.settings.SQS, saved.SQS, "progColorSS", [0.7843, 0.3922, 0])
       backfillColor(STATE.settings.SQS, saved.SQS, "progColorZQ", [0.7843, 0.3922, 0])

@@ -1,3 +1,4 @@
+import { copyTable } from "akasha/temper/addon/pages/characters/modules/table-functions/table-functions.module.code.ts"
 import { updateDataLines } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts"
 import {
   calculateTotalPoints,
@@ -8,7 +9,6 @@ import {
   STATE,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import type { CharInfo } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
-import "akasha/temper/addon/type/lib-table-functions/lib-table-functions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -103,8 +103,8 @@ export function initSetup(this: void): undefined {
       charId: currentId,
       charName: zo_strformat("<<1>>", known !== undefined ? known.name : ""),
     })
-    sVar.settings[currentId] = TemperTableFunctions.CopyTable(STATE.settings)
-    sVar.ptsData[currentId] = TemperTableFunctions.CopyTable(STATE.ptsData)
+    sVar.settings[currentId] = copyTable(STATE.settings)
+    sVar.ptsData[currentId] = copyTable(STATE.ptsData)
   }
 
   sVar.charInfo.sort((c1, c2) => {

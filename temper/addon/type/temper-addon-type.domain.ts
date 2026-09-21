@@ -44,7 +44,6 @@ export const temperAddonType = {
     "type-declaration/lib-sets-api",
     "type-declaration/lib-shifter-box",
     "type-declaration/lib-slash-commander",
-    "type-declaration/lib-table-functions",
     "type-declaration/lib-treasure",
     "type-declaration/lib-undaunted-pledges",
     "type-declaration/master-merchant",

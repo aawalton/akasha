@@ -40,7 +40,6 @@ import { collectTraitResearch } from "akasha/temper/addon/pages/characters/modul
 import { collectTributeCardUpgrades } from "akasha/temper/addon/pages/characters/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"
 import { toggleWindow } from "akasha/temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts"
 import { collectZoneCompletion } from "akasha/temper/addon/pages/characters/modules/characters-zone-completion/characters-zone-completion.module.code.ts"
-import "akasha/temper/addon/pages/characters/modules/table-functions-entry/table-functions-entry.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,

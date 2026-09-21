@@ -3561,7 +3561,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.ts","id":"01a062ee-f050-706b-865b-cca0db9bf255"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts","id":"01a06052-2ca5-78e3-9cd6-62ac3cdd5bed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-types/table-function-types.module.ts","id":"01a06052-2ca5-7438-a4c4-749daaf6f554"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-functions-entry/table-functions-entry.module.ts","id":"01a06052-2ca6-7783-9f7b-c66a284047c9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts","id":"01a06052-2ca4-7874-a41d-3892986d9cdd"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/skill-point-finder-layout/skill-point-finder-layout.eso-interface.ts","id":"01a062e8-bed7-7011-a36b-31903e5d6972"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

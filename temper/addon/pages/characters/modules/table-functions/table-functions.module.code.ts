@@ -176,3 +176,15 @@ export const TABLE_FUNCTIONS: Lib = {
     return otherVal
   },
 }
+
+export function copyTable<T>(this: void, origTable: T): T {
+  return TABLE_FUNCTIONS.CopyTable(origTable) as T
+}
+
+export function sortTable<T>(this: void, origTable: T, column?: number): T {
+  return TABLE_FUNCTIONS.SortTable(origTable, column) as T
+}
+
+export function simpleResetTable<T>(this: void, origTable: T, value: unknown): T {
+  return TABLE_FUNCTIONS.SimpleResetTable(origTable, value) as T
+}

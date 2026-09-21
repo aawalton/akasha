@@ -1,3 +1,4 @@
+import { sortTable } from "akasha/temper/addon/pages/characters/modules/table-functions/table-functions.module.code.ts"
 import { rgbToHex } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-colors/skill-point-finder-colors.module.code.ts"
 import {
   LIST_DATA_TYPE,
@@ -16,7 +17,6 @@ import {
   getTooltipZoneTotal,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-table-functions/lib-table-functions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -132,7 +132,7 @@ export function updateDataLines(this: void): undefined {
       skyshards: GetString(USPF_GUI_SKYSHARDS),
     },
   ]
-  const sqsSorted = TemperTableFunctions.SortTable(gui.SQS, STATE.settings.SQS.sortCol)
+  const sqsSorted = sortTable(gui.SQS, STATE.settings.SQS.sortCol)
   for (const row of sqsSorted) {
     dataLinesSQS.push({
       zone: row[1],
@@ -148,7 +148,7 @@ export function updateDataLines(this: void): undefined {
     dungeon: GetString(USPF_GUI_GROUP_DUNGEON),
     progress: GetString(USPF_GUI_PROGRESS),
   }
-  const gdqSorted = TemperTableFunctions.SortTable(gui.GDQ, STATE.settings.GDQ.sortCol)
+  const gdqSorted = sortTable(gui.GDQ, STATE.settings.GDQ.sortCol)
   const splitIndex = gdqSorted.length / 2
 
   const dataLinesGDQ: ListLine[] = [gdqHeader]
@@ -177,7 +177,7 @@ export function updateDataLines(this: void): undefined {
     }
   }
 
-  const pdSorted = TemperTableFunctions.SortTable(gui.PDGBE, STATE.settings.PDB.sortCol)
+  const pdSorted = sortTable(gui.PDGBE, STATE.settings.PDB.sortCol)
   const dataLinesPDGBE: ListLine[] = [
     {
       header: true,

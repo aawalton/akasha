@@ -1,3 +1,7 @@
+import {
+  copyTable,
+  simpleResetTable,
+} from "akasha/temper/addon/pages/characters/modules/table-functions/table-functions.module.code.ts"
 import { GAME_DATA } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-game-data/skill-point-finder-game-data.module.code.ts"
 import { updateGuiTable } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-gui-table/skill-point-finder-gui-table.module.code.ts"
 import { questCompleted } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
@@ -11,7 +15,6 @@ import type {
   Settings,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-table-functions/lib-table-functions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
@@ -70,8 +73,8 @@ export function checkSavedVars(this: void, value: PointsData | Settings | undefi
   }
   if (value === undefined) {
     const sVar = requireSVar()
-    sVar.settings[charId] = TemperTableFunctions.CopyTable(STATE.settings)
-    sVar.ptsData[charId] = TemperTableFunctions.CopyTable(STATE.ptsData)
+    sVar.settings[charId] = copyTable(STATE.settings)
+    sVar.ptsData[charId] = copyTable(STATE.ptsData)
   }
   return true
 }
@@ -126,8 +129,8 @@ function setQuestPoints(this: void): undefined {
       pts.MainQ = STATE.ptsData.MainQ
       pts.tutorial = STATE.ptsData.tutorial
       pts.EndlArch = STATE.ptsData.EndlArch
-      pts.ZQ = TemperTableFunctions.CopyTable(STATE.ptsData.ZQ)
-      pts.GD = TemperTableFunctions.CopyTable(STATE.ptsData.GD)
+      pts.ZQ = copyTable(STATE.ptsData.ZQ)
+      pts.GD = copyTable(STATE.ptsData.GD)
       pts.ZQTot = STATE.ptsData.ZQTot
       pts.GDTot = STATE.ptsData.GDTot
     }
@@ -144,7 +147,7 @@ function setPublicDungeonPoints(this: void): undefined {
   if (checkSavedVars(selectedPts())) {
     const pts = selectedPts()
     if (pts !== undefined) {
-      pts.PD = TemperTableFunctions.CopyTable(STATE.ptsData.PD)
+      pts.PD = copyTable(STATE.ptsData.PD)
       pts.PDTot = STATE.ptsData.PDTot
     }
   }
@@ -174,7 +177,7 @@ function setSkyshardPoints(this: void): undefined {
   if (checkSavedVars(selectedPts())) {
     const pts = selectedPts()
     if (pts !== undefined) {
-      pts.SS = TemperTableFunctions.CopyTable(STATE.ptsData.SS)
+      pts.SS = copyTable(STATE.ptsData.SS)
       pts.numSSTot = STATE.ptsData.numSSTot
       pts.SSTot = STATE.ptsData.SSTot
     }
@@ -287,22 +290,22 @@ function setTotPoints(this: void): undefined {
 }
 
 function updateAllSavedVars(this: void): undefined {
-  requireSVar().ptsData[STATE.selectedChar] = TemperTableFunctions.CopyTable(STATE.ptsData)
+  requireSVar().ptsData[STATE.selectedChar] = copyTable(STATE.ptsData)
 }
 
 function loadData(this: void, charId: string): undefined {
   const sVar = requireSVar()
   let sVarPtsData = sVar.ptsData[charId]
   if (sVarPtsData === undefined) {
-    sVar.settings[charId] = TemperTableFunctions.CopyTable(STATE.settings)
-    sVarPtsData = TemperTableFunctions.CopyTable(STATE.ptsData)
+    sVar.settings[charId] = copyTable(STATE.settings)
+    sVarPtsData = copyTable(STATE.ptsData)
     sVar.ptsData[charId] = sVarPtsData
   }
   updateGuiTable(sVarPtsData)
 }
 
 export function refreshData(this: void): undefined {
-  STATE.ptsData = TemperTableFunctions.SimpleResetTable(STATE.ptsData, 0)
+  STATE.ptsData = simpleResetTable(STATE.ptsData, 0)
 
   setLevelPoints()
   setQuestPoints()
