@@ -12,8 +12,8 @@ import { readBits } from "akasha/temper/build-hash/modules/build-hash-bit-reader
 import type { BitWriterState } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import { writeBits } from "akasha/temper/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import { recordFromKeys } from "akasha/temper/build-hash/modules/record-from-keys/record-from-keys.module.code.ts"
-import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import type { SkillId } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import type { SkillId } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 
 export function encodeSkills(writer: BitWriterState, build: CharacterState): undefined {
   for (const slotId of skillSlotIds) {

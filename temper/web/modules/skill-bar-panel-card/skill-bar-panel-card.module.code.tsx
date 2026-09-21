@@ -8,7 +8,7 @@ import {
 import type {
   Skill,
   SkillId,
-} from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
+} from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { SkillSlotCard } from "akasha/temper/web/modules/skill-slot-card/skill-slot-card.module.code.tsx"
 import { UltimateSlotCard } from "akasha/temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.code.tsx"
 

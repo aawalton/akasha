@@ -1,5 +1,5 @@
-import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 
 export interface MorphableSkillInfo {
   baseName: string

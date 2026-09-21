@@ -47,10 +47,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/character-skills/character-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/scribed-skills/scribed-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-source/modules/alliances/alliances.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-source/modules/character-roles/character-roles.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-source/modules/curses/curses.module.code.ts"}
@@ -78,4 +74,8 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/core/modules/location-type-data/location-type-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/modules/character-class/character-class.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

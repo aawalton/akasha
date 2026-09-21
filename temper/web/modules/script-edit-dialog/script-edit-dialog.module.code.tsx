@@ -29,12 +29,12 @@ import {
   type SignatureScriptId,
   signatureScripts,
 } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
-import type { ScribedSkill } from "akasha/temper/character-skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
+import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
 import {
   getGrimoireCompatibleScripts,
   grimoires,
-} from "akasha/temper/character-skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
-import { getCombinedScriptDescription } from "akasha/temper/character-skill/modules/scribing-script-description/scribing-script-description.module.code.ts"
+} from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
+import { getCombinedScriptDescription } from "akasha/temper/player/character/skill/modules/scribing-script-description/scribing-script-description.module.code.ts"
 import type { PendingScriptEdits } from "akasha/temper/web/modules/skills-types/skills-types.module.code.ts"
 import { useMemo } from "react"
 

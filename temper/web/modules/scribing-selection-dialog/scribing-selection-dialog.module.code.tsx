@@ -16,15 +16,15 @@ import {
   type FocusScriptId,
   focusScripts,
 } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import type { ScribedSkill } from "akasha/temper/character-skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
-import { getScribedSkillName } from "akasha/temper/character-skill/modules/scribed-skills/scribed-skills.module.code.ts"
+import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+import { getEsoIconUrl } from "akasha/temper/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
+import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
+import { getScribedSkillName } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
 import {
   type GrimoireId,
   getGrimoireCompatibleScripts,
   grimoires,
-} from "akasha/temper/character-skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
-import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import { getEsoIconUrl } from "akasha/temper/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
+} from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { ArrowLeft } from "lucide-react"
 import { useState } from "react"
 

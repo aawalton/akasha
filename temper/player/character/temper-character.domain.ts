@@ -20,6 +20,8 @@ export const temperCharacter = {
     "page-type/temper-skill-bar",
     "page-type/temper-skill-point",
     "page-type/temper-weapon-bar",
+    "domain/temper-character-build",
+    "domain/temper-character-skill",
   ],
   decisions: [
     {

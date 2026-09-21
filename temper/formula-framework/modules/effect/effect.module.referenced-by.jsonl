@@ -3,9 +3,6 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"}
-{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-build/modules/race-source/race-source.module.code.ts"}
-{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-skill/modules/character-skill-template/character-skill-template.module.code.ts"}
-{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-skill/modules/scribed-skill-source/scribed-skill-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-source/modules/attributes-source/attributes-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-source/modules/curse-source/curse-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-source/modules/mundus-source/mundus-source.module.code.ts"}
@@ -34,5 +31,8 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/formula-framework/modules/effect-value-update/effect-value-update.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/formula-framework/modules/skill-source/skill-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/formula-framework/modules/source-file/source-file.module.code.ts"}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/build/modules/race-source/race-source.module.code.ts"}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"}
 {"propertySlug":"parts","path":"temper/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}

@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"skill-line-category-data.module.code.ts","path":"temper/character-skill-line/modules/skill-line-template/skill-line-template.module.code.ts"}
-{"propertySlug":"import","fileName":"skill-line-category-data.module.code.ts","path":"temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"skill-line-category-data.module.code.ts","path":"temper/player-completion/modules/completion-summary/completion-summary.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-line-category-data.module.code.ts","path":"temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"skill-line-category-data.module.code.ts","path":"temper/player/skill-morph/modules/skill-organization/skill-organization.module.code.ts"}
 {"propertySlug":"import","fileName":"skill-line-category-data.module.code.ts","path":"temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"skill-line-category-data.module.code.ts","path":"temper/web/modules/editor-tab-panels/editor-tab-panels.module.code.tsx"}

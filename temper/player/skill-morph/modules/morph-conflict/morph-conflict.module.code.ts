@@ -1,8 +1,8 @@
 import type {
   Skill,
   SkillId,
-} from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
-import { findSkillById } from "akasha/temper/character-skill/modules/find-skill-by-id/find-skill-by-id.module.code.ts"
+} from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
+import { findSkillById } from "akasha/temper/player/character/skill/modules/find-skill-by-id/find-skill-by-id.module.code.ts"
 
 function getBaseNameForSkillId(
   id: SkillId,

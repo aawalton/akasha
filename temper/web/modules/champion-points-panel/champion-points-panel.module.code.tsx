@@ -2,7 +2,7 @@
 
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import type { ChampionPointId } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
-import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { ConstellationPanelCard } from "akasha/temper/web/modules/constellation-panel-card/constellation-panel-card.module.code.tsx"
 
 interface ChampionPointsPanelProps {

@@ -1,5 +1,4 @@
 import { indexBy } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
-import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { base } from "akasha/temper/character-source/modules/base-source/base-source.module.code.ts"
 import { calculateBuffs } from "akasha/temper/character-stat/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/character-stat/modules/build-state-adapter/build-state-adapter.module.code.ts"
@@ -18,6 +17,7 @@ import {
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import { topologicalSort } from "akasha/temper/formula-framework/modules/topological-sort/topological-sort.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 
 export interface CalculationResult {
   sources: readonly EffectSource[]

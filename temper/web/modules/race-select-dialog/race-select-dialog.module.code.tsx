@@ -7,7 +7,7 @@ import {
   NO_RACE_SOURCE,
   type RaceSource,
   sortedRaces,
-} from "akasha/temper/character-build/modules/race-source/race-source.module.code.ts"
+} from "akasha/temper/player/character/build/modules/race-source/race-source.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   FilterableSelectDialog,

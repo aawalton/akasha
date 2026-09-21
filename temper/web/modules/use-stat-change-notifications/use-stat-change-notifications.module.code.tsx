@@ -1,6 +1,5 @@
 "use client"
 
-import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/character-stat/modules/build-state-adapter/build-state-adapter.module.code.ts"
 import {
   compareMetricValuesUnfiltered,
@@ -14,6 +13,7 @@ import { calculateBuildStatsByBar } from "akasha/temper/character-stat/modules/m
 import type { MetricValue } from "akasha/temper/character-stat/modules/metric-value/metric-value.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
   type StatChangeNotification,
   StatChangesDescription,

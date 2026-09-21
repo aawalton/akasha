@@ -1,12 +1,12 @@
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
-import type { Skill } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
+import { skillLineCategoriesSorted } from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
+import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import {
   getSkillCategory,
   getSkillLineName,
   getSkillLineOrder,
-} from "akasha/temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
-import { skillLineCategoriesSorted } from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
-import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import {
   groupSkillsIntoMorphPairs,
   type MorphPair,

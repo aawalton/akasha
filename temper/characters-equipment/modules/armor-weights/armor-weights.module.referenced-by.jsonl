@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"armor-weights.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"armor-weights.module.code.ts","path":"temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"armor-weights.module.code.ts","path":"temper/characters-equipment/modules/armor-source/armor-source.module.code.ts"}
+{"propertySlug":"import","fileName":"armor-weights.module.code.ts","path":"temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"armor-weights.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"armor-weights.module.code.ts","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx"}
 {"propertySlug":"parts","path":"temper/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}

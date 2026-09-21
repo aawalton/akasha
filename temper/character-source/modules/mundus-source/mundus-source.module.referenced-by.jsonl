@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/character-build/modules/build-types/build-types.module.code.ts"}
 {"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/character-stat/modules/extract-mundus/extract-mundus.module.code.ts"}
+{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts"}
 {"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/web/modules/character-panel/character-panel.module.code.tsx"}
 {"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/web/modules/consumables-panel-card/consumables-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/web/modules/mundus-select-dialog/mundus-select-dialog.module.code.tsx"}

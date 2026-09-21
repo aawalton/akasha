@@ -14,10 +14,6 @@ import { affixScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-
 import { focusScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import { signatureScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
-import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
-import { getSkillLineCategory } from "akasha/temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"
-import { scribedSkills } from "akasha/temper/character-skill/modules/scribed-skills/scribed-skills.module.code.ts"
-import { grimoires } from "akasha/temper/character-skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import { alliances } from "akasha/temper/character-source/modules/alliances/alliances.module.code.ts"
 import { curses } from "akasha/temper/character-source/modules/curses/curses.module.code.ts"
@@ -32,6 +28,10 @@ import { setsAll } from "akasha/temper/characters-equipment/modules/sets-all/set
 import { weaponEnchantments } from "akasha/temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
+import { getSkillLineCategory } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
+import { scribedSkills } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
+import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 
 const classIds = classes.ids
 const raceIds = races.ids

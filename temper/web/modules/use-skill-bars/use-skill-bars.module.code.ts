@@ -1,13 +1,13 @@
 import type { SkillSlotId } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
-import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
+import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+import { keysOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type {
   Skill,
   SkillId,
-} from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
-import { findSkillById } from "akasha/temper/character-skill/modules/find-skill-by-id/find-skill-by-id.module.code.ts"
-import { filterSkillsForBar } from "akasha/temper/character-skill/modules/skill-bar-filtering/skill-bar-filtering.module.code.ts"
-import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import { keysOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
+} from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
+import { findSkillById } from "akasha/temper/player/character/skill/modules/find-skill-by-id/find-skill-by-id.module.code.ts"
+import { filterSkillsForBar } from "akasha/temper/player/character/skill/modules/skill-bar-filtering/skill-bar-filtering.module.code.ts"
 import { areConflictingMorphs } from "akasha/temper/player/skill-morph/modules/morph-conflict/morph-conflict.module.code.ts"
 import {
   type CategoryData,

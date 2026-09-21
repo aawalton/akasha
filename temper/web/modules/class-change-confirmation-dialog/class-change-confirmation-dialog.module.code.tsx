@@ -11,18 +11,18 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
 } from "akasha/design/interface/primitive/modules/alert-dialog/alert-dialog.module.code.tsx"
-import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import type { Skill } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
-import {
-  getSkillsToRemoveOnClassChange,
-  validateSkillLinesForClass,
-} from "akasha/temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import {
   type SkillLineId,
   skillLines,
 } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
+import {
+  getSkillsToRemoveOnClassChange,
+  validateSkillLinesForClass,
+} from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 
 interface ClassChangeConfirmationDialogProps {
   open: boolean

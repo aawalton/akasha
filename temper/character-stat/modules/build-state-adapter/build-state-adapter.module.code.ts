@@ -1,4 +1,3 @@
-import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { extractAccount } from "akasha/temper/character-stat/modules/extract-account/extract-account.module.code.ts"
 import { extractArmor } from "akasha/temper/character-stat/modules/extract-armor/extract-armor.module.code.ts"
 import { extractAttributes } from "akasha/temper/character-stat/modules/extract-attributes/extract-attributes.module.code.ts"
@@ -14,6 +13,7 @@ import { extractTarget } from "akasha/temper/character-stat/modules/extract-targ
 import { extractWeapons } from "akasha/temper/character-stat/modules/extract-weapons/extract-weapons.module.code.ts"
 import type { TranslationContext } from "akasha/temper/character-stat/modules/pipeline-types/pipeline-types.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 
 export function buildStateToEffectSources(
   build: CharacterState,

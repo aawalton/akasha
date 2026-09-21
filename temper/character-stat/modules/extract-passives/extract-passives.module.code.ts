@@ -1,4 +1,3 @@
-import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import {
   resolveArmorPieceScalingEffects,
   resolveSlottedAbilityScalingEffects,
@@ -11,6 +10,7 @@ import {
 import type { PipelineStage } from "akasha/temper/character-stat/modules/pipeline-types/pipeline-types.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { SkillSource } from "akasha/temper/formula-framework/modules/skill-source/skill-source.module.code.ts"
+import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 
 export const extractPassives: PipelineStage = (build, context) => {
   const sources: SkillSource[] = []

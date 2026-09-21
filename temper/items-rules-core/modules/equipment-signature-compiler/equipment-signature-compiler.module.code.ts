@@ -16,7 +16,6 @@ import {
   PLAYER_JEWELRY_TRAIT_TO_ESO,
   PLAYER_WEAPON_TRAIT_TO_ESO,
 } from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
-import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import {
   COMPANION_QUALITY_TO_ESO,
@@ -31,6 +30,7 @@ import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 
 const PLAYER_ARMOR_SLOT_TO_EQUIP_TYPE: Record<string, number> = {
   head: ESO_EQUIP_TYPES.EQUIP_TYPE_HEAD,
