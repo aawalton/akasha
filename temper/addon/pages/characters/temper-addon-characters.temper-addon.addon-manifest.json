@@ -15,7 +15,6 @@
   ],
   "dependsOn": [
     "LibAddonMenu-2.0>=43",
-    "TemperTableFunctions",
     "TemperHud"
   ],
   "additionalLuaFiles": [

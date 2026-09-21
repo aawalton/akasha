@@ -84,6 +84,10 @@ export const temperAddonCharacters = {
     "module/characters-window",
     "module/characters-zone-completion",
     "type-declaration/characters-config-declarations",
+    "module/table-function-casts",
+    "module/table-function-types",
+    "module/table-functions",
+    "module/table-functions-entry",
   ],
   interfaces: ["eso-interface/skill-point-finder-layout"],
   decisions: [

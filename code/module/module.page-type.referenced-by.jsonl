@@ -2840,6 +2840,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-window/characters-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-zone-completion/characters-zone-completion.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-function-types/table-function-types.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-functions-entry/table-functions-entry.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/collections/modules/collections-addon-entry/collections-addon-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/collections/modules/collections-addon-global/collections-addon-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/collections/modules/collections-addon-loaded/collections-addon-loaded.module.ts"}
@@ -4257,10 +4261,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-slash-commander/modules/slash-commander-providers/slash-commander-providers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-slash-commander/modules/slash-commander-surface/slash-commander-surface.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-slash-commander/modules/slash-commander-types/slash-commander-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-table-functions/modules/table-function-casts/table-function-casts.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-table-functions/modules/table-function-types/table-function-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-table-functions/modules/table-functions-entry/table-functions-entry.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-table-functions/modules/table-functions/table-functions.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-treasure/modules/treasure-api/treasure-api.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-treasure/modules/treasure-book-ids/treasure-book-ids.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-treasure/modules/treasure-build-data/treasure-build-data.module.ts"}
