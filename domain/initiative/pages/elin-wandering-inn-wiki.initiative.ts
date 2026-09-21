@@ -11,5 +11,6 @@ export const elinWanderingInnWiki = {
       statement:
         "An anonymous reader is answered only the pages a grant names, and is refused every write.",
     },
+    { statement: "innworld.wiki serves the pages of one world and no other page akasha holds." },
   ],
 } as const satisfies Initiative
