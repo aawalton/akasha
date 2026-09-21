@@ -117,6 +117,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/count-polling/inbox-count-polling.module.ts","id":"01a069b6-bb6b-7e55-a1b8-4f2824914c87"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.ts","id":"01a079de-6d8f-7a3c-b51f-9a53ca155b81"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.ts","id":"01a069b6-bb6b-7b92-97c2-53a4f930ea5a"}
+{"propertySlug":"decision-kind","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.ts","id":"01a05bc7-9129-700d-9b3a-ba23544a6e88"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/altool/altool.module.ts","id":"01a05cee-e560-762e-9911-22cd2e9873c6"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/appium-client/appium-client.module.ts","id":"01a05cee-e560-73f4-91d5-4cabe49e4d24"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/asc-client/asc-client.module.ts","id":"01a05cee-e560-7e4e-918a-7f897a988209"}

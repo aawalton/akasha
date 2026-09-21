@@ -4,7 +4,7 @@ export const locationTraceAccess = {
   id: "01a05bc7-9129-700a-81c5-e2dfa20709ec",
   type: "page-type/domain",
   slug: "location-trace-access",
-  definition: "the shape one recorded place is carried in, and the refusal a batch of places meets",
+  definition: "the shape one recorded place is carried in, and how a batch of places is kept",
   parts: ["module/trace-insert", "module/trace-shape"],
   decisions: [
     {
@@ -16,8 +16,17 @@ export const locationTraceAccess = {
       statement: "Nothing here reads a trace back out.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here keeps a location trace.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A trace is filed under the ESO day the trace was captured in rather than the day it arrived.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A trace is read and written as a page akasha has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A batch is kept whole or the call is refused.",
     },
   ],
 } as const satisfies Domain

@@ -6,6 +6,7 @@ export const pagePropertyEntry = {
   slug: "page-property-entry",
   definition: "a page property whose values are kept one to a line beside the page",
   extends: ["page-type/page-property"],
+  parts: ["module/entry-rows"],
   properties: [
     { pageProperty: "one-of-property/properties", required: true, many: true, maxCount: null },
   ],

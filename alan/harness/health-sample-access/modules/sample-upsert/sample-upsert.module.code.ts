@@ -10,6 +10,7 @@ import type {
   HealthSample,
   HealthSampleWriteReport,
 } from "akasha/alan/harness/health-sample-access/modules/sample-shape/sample-shape.module.code.ts"
+import { entryRowsIn } from "akasha/page/property-entry/modules/entry-rows/entry-rows.module.code.ts"
 import {
   readingFor,
   writingFor,
@@ -51,11 +52,6 @@ type Held = readonly (readonly [string, HealthSample])[]
 export type ReadingFor = typeof readingFor
 
 export type WritingFor = typeof writingFor
-
-function linesIn(content: string | null): readonly string[] {
-  if (content === null) return []
-  return content.split("\n").filter((one) => one.trim() !== "")
-}
 
 const SAMPLE_ROW = z.record(z.string(), z.unknown())
 
@@ -162,7 +158,7 @@ export async function landDay(
       continue
     }
     const body = read.bodies.find((one) => one.path === path)
-    const merged = mergedInto(linesIn(body?.content ?? null), held, arrivedAt, path)
+    const merged = mergedInto(entryRowsIn(body?.content ?? null), held, arrivedAt, path)
     if (!merged.touched) return merged.tally
     const wrote = await writing({
       writer: WRITER,

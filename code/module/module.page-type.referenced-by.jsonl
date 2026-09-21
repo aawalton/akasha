@@ -2163,6 +2163,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/folding/modules/slug-of/slug-of.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/modules/folder-named/folder-named.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/property-entry/modules/entry-rows/entry-rows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/query/modules/store-page-asking/store-page-asking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/query/modules/store-questioning/store-questioning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/query/modules/store-reaching/store-reaching.module.ts"}
