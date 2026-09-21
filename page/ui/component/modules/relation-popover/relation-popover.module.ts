@@ -6,4 +6,14 @@ export const relationPopover = {
   slug: "relation-popover",
   definition: "the popover picking which pages a relation property points at",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page the relation already names is kept out of the candidates by its id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation is taken away by the value the page carries rather than by an id.",
+    },
+  ],
 } as const satisfies Module

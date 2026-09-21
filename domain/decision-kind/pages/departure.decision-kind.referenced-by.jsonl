@@ -3168,6 +3168,8 @@
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.ts","id":"01a06259-518a-7c74-bd4f-519d9f6c1719"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/property-badge/property-badge.module.ts","id":"01a0620f-82c5-700f-bcd7-80f904364925"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/property-row/property-row.module.ts","id":"01a0a0d2-ad9f-7cf3-a201-b2c2690423c7"}
+{"propertySlug":"decision-kind","path":"page/ui/component/modules/relation-display/relation-display.module.ts","id":"01a05cba-f39f-7e30-90ba-2bc9d8ac77bd"}
+{"propertySlug":"decision-kind","path":"page/ui/component/modules/relation-popover/relation-popover.module.ts","id":"01a0617e-0d2d-7007-9b42-5b4f872dbcc8"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/select-property-badge/select-property-badge.module.ts","id":"01a0620f-82c6-7001-b242-9b93b6a857fa"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.ts","id":"01a063ba-3eb6-7d77-a305-4984882f48bb"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.ts","id":"01a05cce-25ec-7573-afac-aed8bece2063"}

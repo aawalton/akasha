@@ -35,6 +35,14 @@ export const relationProperty = {
       statement:
         "A page a relation names is drawn as a chip by the page type that relation reaches.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation value is a page's address or a page's id, and a chip reads either.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chip reads its name off the page the relation reaches rather than the value.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

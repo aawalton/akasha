@@ -7,6 +7,10 @@ import {
   PopoverTrigger,
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/interface/primitive/modules/use-debounced-value/use-debounced-value.module.code.ts"
+import {
+  resolveRelationName,
+  resolveRelationPageId,
+} from "akasha/page/ui/component/modules/relation-display/relation-display.module.code.ts"
 import type { PageResolverValue } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useRelationPicker } from "akasha/page/ui/context/modules/relation-picker-context/relation-picker-context.module.code.tsx"
 import { Plus, X } from "lucide-react"
@@ -48,9 +52,14 @@ export function RelationPopover({
     enabled: open,
   })
 
+  const heldIds = useMemo(
+    () => currentIds.map((named) => resolveRelationPageId(resolver, named)),
+    [currentIds, resolver]
+  )
+
   const candidates = useMemo(
-    () => picker.pages.filter((page) => !currentIds.includes(page.id)),
-    [picker.pages, currentIds]
+    () => picker.pages.filter((page) => !heldIds.includes(page.id)),
+    [picker.pages, heldIds]
   )
 
   return (
@@ -74,16 +83,17 @@ export function RelationPopover({
       <PopoverContent align={align} className="w-64 p-2" onPointerDown={(e) => e.stopPropagation()}>
         {currentIds.length > 0 && (
           <div data-slot="current-relations">
-            {currentIds.map((id) => {
-              const title = resolver.resolve(id)?.title ?? id
+            {currentIds.map((named) => {
+              const title = resolveRelationName(resolver, named)
+              const pageId = resolveRelationPageId(resolver, named)
               return (
                 <button
-                  key={id}
+                  key={named}
                   type="button"
                   className={ROW_CLS}
                   onClick={(e) => {
                     e.stopPropagation()
-                    onPageNavigate?.(id)
+                    onPageNavigate?.(pageId)
                   }}
                 >
                   <span className="flex-1 truncate">{title}</span>
@@ -93,12 +103,12 @@ export function RelationPopover({
                     className="shrink-0 rounded p-0.5 text-tertiary hover:bg-surface-5 hover:text-primary"
                     onClick={(e) => {
                       e.stopPropagation()
-                      onRemove(id)
+                      onRemove(named)
                     }}
                     onKeyDown={(e) => {
                       if (e.key === "Enter" || e.key === " ") {
                         e.stopPropagation()
-                        onRemove(id)
+                        onRemove(named)
                       }
                     }}
                   >

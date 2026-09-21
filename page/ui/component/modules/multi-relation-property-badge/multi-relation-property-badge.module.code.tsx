@@ -17,6 +17,7 @@ import {
   getRelationId,
   type RelationValue,
   resolveRelationName,
+  resolveRelationPageId,
   resolveRelationVariant,
 } from "akasha/page/ui/component/modules/relation-display/relation-display.module.code.ts"
 import { RelationPopover } from "akasha/page/ui/component/modules/relation-popover/relation-popover.module.code.tsx"
@@ -101,7 +102,7 @@ function MultiRelationDetailBadges({
         return (
           <PageBadge
             key={`${definition.id}-${id}`}
-            pageId={id}
+            pageId={resolveRelationPageId(resolver, rv)}
             label={resolveRelationName(resolver, rv)}
             variant={resolveRelationVariant(resolver, rv, definition.accent)}
             pageTypeId={targetPageTypeId}

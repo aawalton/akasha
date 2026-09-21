@@ -10,6 +10,14 @@ export function getRelationId(value: RelationValue): string {
   return typeof value === "string" ? value : value.id
 }
 
+export function resolveRelationPageId(
+  resolver: { resolve: (named: string) => { id: string } | null } | null,
+  value: RelationValue
+): string {
+  const named = getRelationId(value)
+  return resolver?.resolve(named)?.id ?? named
+}
+
 export function resolveRelationName(
   resolver: { resolve: (id: string) => { id: string; title: string } | null } | null,
   value: RelationValue

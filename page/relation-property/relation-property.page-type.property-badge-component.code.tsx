@@ -12,6 +12,7 @@ import {
   getRelationId,
   type RelationValue,
   resolveRelationName,
+  resolveRelationPageId,
   resolveRelationVariant,
 } from "akasha/page/ui/component/modules/relation-display/relation-display.module.code.ts"
 import { RelationPopover } from "akasha/page/ui/component/modules/relation-popover/relation-popover.module.code.tsx"
@@ -95,7 +96,7 @@ function RelationCardBadgeBody({
     const inner =
       relValue !== undefined ? (
         <PageBadge
-          pageId={getRelationId(relValue)}
+          pageId={resolveRelationPageId(resolver, relValue)}
           label={resolveRelationName(resolver, relValue)}
           variant={variant}
           pageTypeId={targetPageTypeId}
@@ -120,7 +121,7 @@ function RelationCardBadgeBody({
   }
 
   if (relValue === undefined) return null
-  const relId = getRelationId(relValue)
+  const relId = resolveRelationPageId(resolver, relValue)
   return (
     <PageBadge
       pageId={relId}
@@ -158,7 +159,7 @@ function RelationDetailBody({
 
   const badge = hasValue ? (
     <PageBadge
-      pageId={getRelationId(relValue)}
+      pageId={resolveRelationPageId(resolver, relValue)}
       label={resolveRelationName(resolver, relValue)}
       variant={resolveRelationVariant(resolver, relValue, property.accent)}
       pageTypeId={targetPageTypeId}
