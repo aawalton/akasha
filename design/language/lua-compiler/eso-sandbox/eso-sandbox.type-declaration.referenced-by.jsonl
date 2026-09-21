@@ -262,6 +262,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-guild-history/fco-guild-history.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-inventory/fco-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-keybinds/fco-keybinds.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-buttons/fco-mail-buttons.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-context-menu/fco-mail-context-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-context-submenus/fco-mail-context-submenus.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-data/fco-mail-data.module.code.ts"}

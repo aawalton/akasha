@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-crafting-smithing/fco-crafting-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-dialogs/fco-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-inventory/fco-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-buttons/fco-mail-buttons.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-context-menu/fco-mail-context-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-store/fco-mail-store.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail/fco-mail.module.code.ts"}
