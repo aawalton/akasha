@@ -11,7 +11,7 @@ import {
   type BarButton,
   COLOR_SECONDARY,
   setButtonActive,
-} from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+} from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 export interface BrowserFilterBarParams {
   toolbar: Control
   searchBar: Control

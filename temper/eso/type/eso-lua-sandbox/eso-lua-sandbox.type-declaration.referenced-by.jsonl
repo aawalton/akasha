@@ -34,5 +34,5 @@
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/capture/writer/modules/run-batched/run-batched.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

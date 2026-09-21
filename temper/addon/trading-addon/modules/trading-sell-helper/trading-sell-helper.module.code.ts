@@ -29,7 +29,7 @@ import {
   createBarButton,
   PADDING_X,
   PADDING_Y,
-} from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+} from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   createSellFlow,
   type SellFlow,

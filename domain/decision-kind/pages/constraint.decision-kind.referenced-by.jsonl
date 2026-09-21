@@ -1333,7 +1333,6 @@
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
 {"propertySlug":"decision-kind","path":"temper/formula-framework/modules/eso-date/eso-date.module.ts","id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
 {"propertySlug":"decision-kind","path":"temper/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}
-{"propertySlug":"decision-kind","path":"temper/items-filters-addon/temper-items-filters-addon.domain.ts","id":"01a0614b-6734-767e-be82-2cfd13e1d6a8"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.ts","id":"01a060d9-44ca-7f34-b2bb-07aab8837d17"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/inventory-rule-compiler/inventory-rule-compiler.module.ts","id":"01a06100-3bed-7b56-8709-2a82c720204e"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/rule-template-table-01/rule-template-table-01.module.ts","id":"01a06100-3bfc-7142-8fe2-abb5978a1b49"}
@@ -1343,6 +1342,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/capture-instant/capture-instant.module.ts","id":"01a0ba6c-9beb-78b6-ae42-ea76022acdac"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
+{"propertySlug":"decision-kind","path":"temper/items/filters/addon/temper-items-filters-addon.domain.ts","id":"01a0614b-6734-767e-be82-2cfd13e1d6a8"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-eval-adapter/search-eval-adapter.module.ts","id":"01a0613a-e0a7-755c-8441-e2bc847bee09"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-item-name-filter/search-item-name-filter.module.ts","id":"01a0613a-e0a8-75a5-b44f-e3ccf7935549"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-quality-filter/search-quality-filter.module.ts","id":"01a0613a-e0ab-7528-b275-c36c451d9da6"}

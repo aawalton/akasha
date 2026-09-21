@@ -19,7 +19,7 @@ import {
   COLOR_SECONDARY,
   CONTROL_HEIGHT,
   PADDING_X,
-} from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+} from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 
 export const ROW_HEIGHT = 20
 export const ROW_GAP = 2

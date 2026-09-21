@@ -5640,9 +5640,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/source-category/source-category.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/source-file/source-file.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/topological-sort/topological-sort.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-filters-addon/modules/filter-bar/filter-bar.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-rules-core/modules/action-storage-capability/action-storage-capability.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-rules-core/modules/affected-items-tree-builder/affected-items-tree-builder.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-rules-core/modules/all-stocked-filter/all-stocked-filter.module.ts"}
@@ -5803,6 +5800,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/set-category-mappings/set-category-mappings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/shard-inventory/shard-inventory.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/saved-search/saved-search.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-armor-weight-filter/search-armor-weight-filter.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-bop-tradeable-filter/search-bop-tradeable-filter.module.ts"}
