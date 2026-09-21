@@ -7,5 +7,6 @@ export const safetyStack = {
   title: "Safety Stack",
   definition: "the layered reading of what I can handle",
   parents: ["all-about-alan-topic/alan"],
-  settled: "Each layer is built from the one below it.",
+  settled:
+    "Each layer is built from the one below it.\n\nStress is the instantaneous reading. Stress capacity is the first integral of it. Safety is the second.",
 } as const satisfies AllAboutAlanTopic
