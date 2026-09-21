@@ -32,5 +32,6 @@ export const theTower = {
     "game-mechanic/phys-atk",
     "game-mechanic/phys-def",
     "game-mechanic/stam-max",
+    "game-mechanic/attack-resolution",
   ],
 } as const satisfies Game

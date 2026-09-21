@@ -16,6 +16,7 @@ export const gameMechanic = {
     "game-mechanic/ment-def",
     "game-mechanic/phys-def",
     "game-mechanic/stam-max",
+    "game-mechanic/attack-resolution",
   ],
   decisions: [
     {

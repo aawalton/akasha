@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"game-mechanic.page-type.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.test.ts"}
+{"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/focus-max/focus-max.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/hp-max/hp-max.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/initiative/initiative.game-mechanic.ts"}

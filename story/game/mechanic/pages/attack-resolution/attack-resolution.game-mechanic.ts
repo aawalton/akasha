@@ -1,0 +1,40 @@
+import type { GameMechanic } from "akasha/story/game/mechanic/game-mechanic.page-type.types.ts"
+
+export const attackResolution = {
+  id: "01a0c47f-725d-7d9c-9fd8-45724688d64d",
+  type: "page-type/game-mechanic",
+  slug: "attack-resolution",
+  definition: "whether a strike lands, which band it lands in, and the damage it deals",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A strike's margin is the attacker's power and roll less the defender's defence.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every bonus counted into a strike names what the bonus came from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fumble misses whatever the margin is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A critical strike counts a margin of at least six.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A strike short of the defence by less than three grazes for a quarter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A strike that lands deals at least one damage.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here rolls the dice.",
+    },
+  ],
+} as const satisfies GameMechanic
