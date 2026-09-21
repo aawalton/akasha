@@ -172,6 +172,11 @@ export const temperAddon = {
       decisionKind: "decision-kind/constraint",
       statement: "The game reloads an addon only when the whole client reloads.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Being one of Temper's own libraries is a property of an addon rather than a page type.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
