@@ -5,21 +5,20 @@ export const track = {
   type: "page-type/page-type",
   slug: "track",
   definition: "one recording and every release carrying it",
-  extends: ["page-type/collection-external"],
+  extends: ["page-type/collection"],
   parts: [
     "boolean-property/explicit",
-    "number-property/disc-number",
     "record-property/track-artist",
     "relation-property/song",
     "select-property/track-type",
     "text-property/track-key",
     "record-property/carried-by",
     "relation-property/release",
+    "number-property/disc-number",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "select-property/track-type", required: false, many: false },
-    { pageProperty: "number-property/disc-number", required: false, many: false },
     { pageProperty: "boolean-property/explicit", required: false, many: false },
     {
       pageProperty: "record-property/track-artist",
@@ -69,6 +68,10 @@ export const track = {
       decisionKind: "decision-kind/absence",
       statement:
         "A track carries no prose, because what Alan says of a piece is said of its song or its artist.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A track states no disc, no position and no Spotify id of its own.",
     },
   ],
   types: "ts",
