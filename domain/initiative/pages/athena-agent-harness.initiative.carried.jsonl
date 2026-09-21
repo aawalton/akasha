@@ -1,6 +1,6 @@
 {"domain":"page-type/agent"}
 {"id":"01a0c4f5-fa20-7da0-91fe-672c1983cc30"}
-{"intentStack":[{"statement":"An agent session log is kept on the workstation and nowhere else."}]}
+{"intentStack":[]}
 {"persona":"persona/athena"}
 {"slug":"athena-agent-harness"}
 {"type":"page-type/initiative"}
