@@ -5,7 +5,13 @@ import { ResponsiveColumns } from "akasha/design/interface/layout/modules/respon
 import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { ComponentsCompoundNavPanels } from "akasha/design/interface/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
 import { ComponentsCompoundPanels } from "akasha/design/interface/system/modules/components-compound-panels/components-compound-panels.module.code.tsx"
-import { ComponentsCorePanels } from "akasha/design/interface/system/modules/components-core-panels/components-core-panels.module.code.tsx"
+import {
+  BadgesPanel,
+  ButtonsPanel,
+  CardsPanel,
+  QualityBadgesPanel,
+  RemovableBadgesPanel,
+} from "akasha/design/interface/system/modules/components-core-panels/components-core-panels.module.code.tsx"
 import { ComponentsFormControlsPanels } from "akasha/design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx"
 import { ComponentsInputCompositePanels } from "akasha/design/interface/system/modules/components-input-composite-panels/components-input-composite-panels.module.code.tsx"
 import { ComponentsInputPanels } from "akasha/design/interface/system/modules/components-input-panels/components-input-panels.module.code.tsx"
@@ -24,7 +30,11 @@ export function ComponentsTabContent() {
       <div className="flex flex-col gap-6">
         <PageTabHeader title="Components" />
         <ResponsiveColumns>
-          <ComponentsCorePanels />
+          <ButtonsPanel />
+          <BadgesPanel />
+          <QualityBadgesPanel />
+          <RemovableBadgesPanel />
+          <CardsPanel />
           <ComponentsInputPanels />
           <ComponentsOverlayPanels />
           <ComponentsFormControlsPanels />
