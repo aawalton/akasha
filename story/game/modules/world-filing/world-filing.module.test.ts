@@ -1,15 +1,23 @@
 import { expect, test } from "bun:test"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { game } from "akasha/story/game/game.page-type.ts"
-import type { Where } from "akasha/story/game/modules/row-reading/row-reading.module.code.ts"
+import {
+  rowsOf,
+  type Where,
+  whereAt,
+} from "akasha/story/game/modules/row-reading/row-reading.module.code.ts"
 import {
   conditionsIn,
   everyFiled,
   exitsIn,
+  namedIn,
+  placeLike,
   placesFiled,
   thingsIn,
 } from "akasha/story/game/modules/world-filing/world-filing.module.code.ts"
 import { theTower } from "akasha/story/game/pages/the-tower/the-tower.game.ts"
+import { entities } from "akasha/story/game/properties/entities.file-property.ts"
+import { towerFloors } from "akasha/story/game/properties/tower-floors.file-property.ts"
 
 const ROOT = process.cwd()
 
@@ -134,4 +142,20 @@ test("a kind the sheet holds rather than the row still says what the row is", ()
   const placed = everyFiled(WHERE, [{ externalId: "floor-09", sheet: { kind: "floor" } }])
   if ("refused" in placed) throw new Error(placed.refused)
   expect(placed.answered[0]?.at).toContain("locations/the-tower-floor-09")
+})
+
+test("every row the tower's own files hold as a place is read as a place", () => {
+  const found = whereAt(ROOT, GAME)
+  if ("refused" in found) throw new Error(found.refused)
+  for (const property of [entities.propertySlug, towerFloors.propertySlug]) {
+    const read = rowsOf(found.answered, property)
+    if ("refused" in read) throw new Error(read.refused)
+    for (const row of read.answered) {
+      const held = row as Record<string, unknown>
+      if (!namedIn(held).startsWith("floor-")) continue
+      expect(`${property} ${namedIn(held)} ${placeLike(held)}`).toBe(
+        `${property} ${namedIn(held)} true`
+      )
+    }
+  }
 })

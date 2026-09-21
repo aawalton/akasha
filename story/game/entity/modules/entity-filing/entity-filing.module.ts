@@ -10,7 +10,7 @@ export const entityFiling = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row holding its sheet under a key reads the same as a row holding it flat.",
+      statement: "A row holding its own under a key reads the same as a row holding it flat.",
     },
     {
       decisionKind: "decision-kind/departure",

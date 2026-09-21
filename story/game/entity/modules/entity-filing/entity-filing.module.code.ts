@@ -21,7 +21,7 @@ import {
 } from "akasha/story/game/modules/page-filing/page-filing.module.code.ts"
 import type { Where } from "akasha/story/game/modules/row-reading/row-reading.module.code.ts"
 
-const SHEET = "sheet"
+const WRAPPERS = ["sheet", "floor-data"] as const
 const PLURAL = "entities"
 const NO_CLASS = "none"
 const SOMETHING = "something"
@@ -54,8 +54,12 @@ const KEYS = [
 ] as const
 
 export function sheetIn(row: Record<string, unknown>): Record<string, unknown> {
-  const held = row[SHEET]
-  return isRecord(held) ? { ...row, ...held } : row
+  let held = row
+  for (const key of WRAPPERS) {
+    const one = row[key]
+    if (isRecord(one)) held = { ...held, ...one }
+  }
+  return held
 }
 
 export function diceAt(held: unknown): string | undefined {

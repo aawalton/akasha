@@ -48,9 +48,14 @@ function bodyFor(named: string, row: Record<string, unknown>): string {
   return composed.answered.body
 }
 
-test("a row holding its sheet under a key reads the same as a row holding it flat", () => {
+test("a row holding its own under a key reads the same as a row holding it flat", () => {
   expect(sheetIn({ a: 1, sheet: { b: 2 } })).toEqual({ a: 1, sheet: { b: 2 }, b: 2 })
   expect(sheetIn({ a: 1 })).toEqual({ a: 1 })
+})
+
+test("a place keeping its own under its own key is read through that key too", () => {
+  const held = sheetIn({ "external-id": "floor-01", "floor-data": { name: "The Threshold" } })
+  expect(held["name"]).toBe("The Threshold")
 })
 
 test("a class the old engine wrote as none is no class", () => {
