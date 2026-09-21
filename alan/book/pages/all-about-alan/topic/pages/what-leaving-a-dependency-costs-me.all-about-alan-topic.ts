@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whatLeavingADependencyCostsMe = {
+  id: "01a0c592-ae6a-75ee-971f-74f03963a729",
+  type: "page-type/all-about-alan-topic",
+  slug: "what-leaving-a-dependency-costs-me",
+  title: "What Leaving A Dependency Costs Me",
+  definition: "the money, time, learning and downstream coordination in getting out of one",
+  parents: ["all-about-alan-topic/which-dependency-i-deal-with-first"],
+  related: ["all-about-alan-topic/getting-out-from-under-a-dependency"],
+  settled:
+    "It counts money, time, learning, and the coordination cost of everything downstream of the thing.\n\nVery high is months of work or real capital. Moving house, replacing my income, replacing a software stack I have customised heavily, replacing a professional who knows my situation from the inside.\n\nHigh is weeks of work or meaningful capital. A bank with all its automatic payments, my internet, my health insurance.\n\nMedium is days. A streaming service, a recurring subscription. Low is hours or minutes. A grocery store, a brand of household good.\n\nThis is not the same as how critical the thing is. A trivial dependency can be expensive to leave when my data is locked inside it, and a critical one can have a clean alternative waiting.\n\nWhether the alternative is any good counts here. If the only other option is itself untrustworthy, leaving costs effectively infinite.\n\nEmotional cost folds in here rather than getting a factor of its own. I keep the thing mechanical on purpose.",
+} as const satisfies AllAboutAlanTopic
