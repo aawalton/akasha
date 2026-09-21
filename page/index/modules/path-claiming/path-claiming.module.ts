@@ -212,6 +212,15 @@ export const pathClaiming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A caller holding a folder's own files answers from them which page of a type sits there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller holding no folder's files answers from every page of each type asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller judging an answer hands in the pages as that answer leaves them.",
     },
     {
