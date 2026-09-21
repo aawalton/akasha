@@ -1,7 +1,7 @@
 import {
+  composedIn,
   landingTracked,
-  outsideTracked,
-  trackedIn,
+  outsideComposed,
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { MECHANICAL_KIND } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -38,7 +38,7 @@ export function strayIn(root: string, taken: Taken): readonly string[] {
     taken.filePath === undefined ? taken.removePath : [taken.filePath, ...taken.removePath]
   const said: string[] = []
   for (const one of every) {
-    if (!trackedIn(pathAt(root, one))) said.push(outsideTracked(one))
+    if (!composedIn(pathAt(root, one))) said.push(outsideComposed(one))
   }
   return said
 }

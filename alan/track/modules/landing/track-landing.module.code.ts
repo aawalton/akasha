@@ -27,6 +27,8 @@ export const FOOD_ENTRIES_AT = "alan/track/food-entry/pages/"
 
 const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
 
+const COMPOSED_AT: readonly string[] = [FOOD_ENTRIES_AT]
+
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
@@ -35,17 +37,29 @@ const NOTHING = "nothing was composed to land"
 
 const WRONG = 3
 
-export function trackedIn(path: string | null): boolean {
-  return path !== null && TRACKED_AT.some((one) => path.startsWith(one))
+function under(path: string | null, trees: readonly string[]): boolean {
+  return path !== null && trees.some((one) => path.startsWith(one))
 }
 
-export function outsideTracked(said: string): string {
-  const under = namesDrawn(TRACKED_AT, " or ")
-  return `${said} is not under ${under}, and this lands what Alan's tracking composes and nothing else`
+function outside(said: string, trees: readonly string[]): string {
+  const held = namesDrawn(trees, " or ")
+  return `${said} is not under ${held}, and this lands what Alan's tracking composes and nothing else`
 }
 
-export function strayAmong(paths: readonly string[]): readonly string[] {
-  return paths.filter((one) => !trackedIn(one)).map((one) => outsideTracked(one))
+function strayUnder(paths: readonly string[], trees: readonly string[]): readonly string[] {
+  return paths.filter((one) => !under(one, trees)).map((one) => outside(one, trees))
+}
+
+export function composedIn(path: string | null): boolean {
+  return under(path, COMPOSED_AT)
+}
+
+export function outsideComposed(said: string): string {
+  return outside(said, COMPOSED_AT)
+}
+
+export function strayComposed(paths: readonly string[]): readonly string[] {
+  return strayUnder(paths, COMPOSED_AT)
 }
 
 export type TrackingChange = {
@@ -82,7 +96,7 @@ export async function landingTracked(
   changes: readonly FileChange[],
   message: string
 ): Promise<Answer> {
-  const stray = strayAmong(changes.flatMap(pathsOf))
+  const stray = strayComposed(changes.flatMap(pathsOf))
   if (stray.length > 0) return mistaking(stray)
   const landed = await runMechanicalChange(root, askedFor(changes), message, { done })
   if ("refusals" in landed) {
@@ -108,7 +122,10 @@ export async function landTracking(
   landing: Landing = runMechanicalChange
 ): Promise<TrackingLanded> {
   if (asked.changes.length === 0) return { refused: NOTHING }
-  const stray = strayAmong(asked.changes.map((one) => one.path))
+  const stray = strayUnder(
+    asked.changes.map((one) => one.path),
+    TRACKED_AT
+  )
   if (stray.length > 0) return { refused: stray.join("\n") }
   const named = asked.changes.map((one) => changeAt(one.path, one.body))
   let landed: Applied | Refused

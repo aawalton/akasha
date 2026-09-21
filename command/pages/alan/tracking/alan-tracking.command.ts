@@ -16,11 +16,15 @@ export const alanTracking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tracked trees are Alan's days and his food entries.",
+      statement: "The tracked tree is Alan's food entries.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path outside the tracked trees is refused.",
+      statement: "A path outside that tree is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day is written by `akasha track` rather than here.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -5,7 +5,7 @@ import {
   askedFor,
   DAYS_AT,
   FOOD_ENTRIES_AT,
-  outsideTracked,
+  outsideComposed,
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
@@ -38,8 +38,6 @@ const FOOD_AT = `${FOOD_ENTRIES_AT}2026-08-22-banana/food-entry-2026-08-22-banan
 
 const ADDS = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const DAY = "the day this call composed\n"
-
 const BANANA = "one banana\n"
 
 afterAll(scratch.sweep)
@@ -58,18 +56,20 @@ function bodyAt(root: string, named: string, body: string): string {
   return at
 }
 
-test("a path under the tracked days is no stray", () => {
-  expect(strayIn(ROOT, { filePath: AT, contentFile: "held", removePath: [] })).toEqual([])
-})
-
 test("a path under the food entries is no stray", () => {
   expect(strayIn(ROOT, { filePath: FOOD_AT, contentFile: "held", removePath: [] })).toEqual([])
+})
+
+test("a path under the tracked days is a stray", () => {
+  expect(strayIn(ROOT, { filePath: AT, contentFile: "held", removePath: [] })).toEqual([
+    outsideComposed(AT),
+  ])
 })
 
 test("a path elsewhere under akasha is a stray", () => {
   const at = "command/thrumming/thrum-tracking.command.ts"
   const said = strayIn(ROOT, { filePath: at, removePath: [] })
-  expect(said).toEqual([outsideTracked(at)])
+  expect(said).toEqual([outsideComposed(at)])
 })
 
 test("a path beside the food entries rather than under them is a stray", () => {
@@ -107,20 +107,12 @@ test("the restated flag is answered as a flag this takes no spelling of", async 
 
 test("a stray path is refused before anything is composed", async () => {
   const said = await alanTracking(["--file-path", STRAY_PAGE], givenIn())
-  expect(said.refusals).toEqual([outsideTracked(STRAY_PAGE)])
+  expect(said.refusals).toEqual([outsideComposed(STRAY_PAGE)])
 })
 
-test("a day is named as the change adding a file, with the message said", () => {
-  const root = scratch.rootFor("akasha-tracking-")
-  const built = builtIn(
-    ["--file-path", AT, "--content-file", bodyAt(root, "day.txt", DAY), "--message", "held"],
-    servingIn(root),
-    inputIn,
-    MECHANICAL
-  )
-  if ("code" in built) throw new Error(built.refusals.join("\n"))
-  expect(built.message).toBe("held")
-  expect(askedFor(built.changes)).toEqual([{ at: ADDS, given: { at: AT, body: DAY } }])
+test("a day is refused, and the refusal names the tree this lands under", async () => {
+  const said = await alanTracking(["--file-path", AT, "--message", "held"], givenIn())
+  expect(said.refusals).toEqual([outsideComposed(AT)])
 })
 
 test("a second file path is refused, and the refusal says one call says it once", async () => {
@@ -141,8 +133,8 @@ const WENT_WRONG = new Error("the commit was written and the push went wrong")
 
 function takenIn(root: string): Taken {
   return {
-    filePath: AT,
-    contentFile: bodyAt(root, "threw.txt", DAY),
+    filePath: FOOD_AT,
+    contentFile: bodyAt(root, "threw.txt", BANANA),
     commitMessage: "held",
     removePath: [],
   }
@@ -172,12 +164,12 @@ test("a run that threw before it landed anything says the fault by itself", asyn
 
 test("a run that wrote twice names each write in the order it happened", async () => {
   const root = scratch.rootFor("akasha-tracking-")
-  const wrote = [`landed ${AT}`, "abc123"]
+  const wrote = [`landed ${FOOD_AT}`, "abc123"]
   const said = await trackedBy(takenIn(root), servingIn(root), throwingAfter(wrote, WENT_WRONG))
 
   expect(said.report).toEqual(wrote)
   expect(said.refusals.at(-1)).toBe(
-    `this stopped part way. What it had done by then is this: landed ${AT}; abc123. ` +
+    `this stopped part way. What it had done by then is this: landed ${FOOD_AT}; abc123. ` +
       "Nothing after that ran."
   )
 })
