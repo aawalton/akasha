@@ -7,7 +7,7 @@ export const day20260921 = {
   title: "@date:2026-09-21",
   date: "2026-09-21",
   version: "3.0",
-  nutritionPoints: 0,
+  nutritionPoints: 160,
   activeCalories: 212.46700000000007,
   wisdomWords: 0,
   intelligenceTopics: 0,
