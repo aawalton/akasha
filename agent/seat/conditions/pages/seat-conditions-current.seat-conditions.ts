@@ -14,4 +14,5 @@ export const seatConditionsCurrent = {
   resumeThresholdMinutes: 2147483647,
   resumeTokenThreshold: 2147483647,
   extendedContextAvailable: true,
+  idleCompactWindow: 350000,
 } as const satisfies SeatConditions

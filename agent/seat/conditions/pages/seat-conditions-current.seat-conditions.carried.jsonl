@@ -3,6 +3,7 @@
 {"extendedContextAvailable":true}
 {"fallbackModel":"fable"}
 {"id":"01a0157f-f2ec-7001-80d4-d83b4f922552"}
+{"idleCompactWindow":350000}
 {"model":"opus"}
 {"resumeThresholdMinutes":2147483647}
 {"resumeTokenThreshold":2147483647}

@@ -17,6 +17,7 @@ export const seatConditions = {
     "text-property/fallback-model",
     "text-property/seat-conditions-model",
     "text-property/subagent-model",
+    "number-property/idle-compact-window",
   ],
   properties: [
     {
@@ -63,6 +64,12 @@ export const seatConditions = {
       required: false,
       many: false,
       default: "false",
+    },
+    {
+      pageProperty: "number-property/idle-compact-window",
+      required: false,
+      many: false,
+      default: "350000",
     },
   ],
   decisions: [

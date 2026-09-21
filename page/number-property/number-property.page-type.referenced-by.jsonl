@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/model/account/properties/rescued-expires-at-ms.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/model/account/properties/seven-day-percent-used.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/conditions/properties/auto-compact-window.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/conditions/properties/idle-compact-window.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/conditions/properties/resume-threshold-minutes.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/conditions/properties/resume-token-threshold.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/conditions/properties/subagent-spawn-depth.number-property.ts"}
