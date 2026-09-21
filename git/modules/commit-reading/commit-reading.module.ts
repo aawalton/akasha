@@ -34,7 +34,12 @@ export const commitReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tree the reader already walked is not walked again.",
+      statement: "A reader answers what commit a base names, and trees are held under that commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tree already read under a commit is not read again, by this reader or a later one.",
     },
     {
       decisionKind: "decision-kind/departure",

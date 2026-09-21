@@ -49,8 +49,7 @@ type Reading = {
   readonly dir: string
   readonly troubleFd: number
   readonly rfd: number
-  readonly bases: Set<string>
-  readonly trees: Map<string, Walked | null>
+  readonly bases: Map<string, string>
   readonly asked: (name: string) => undefined
   readonly ended: () => undefined
   held: Buffer
@@ -92,8 +91,7 @@ function readerOn(root: string): Reading {
     dir,
     troubleFd: trouble,
     rfd,
-    bases: new Set<string>(),
-    trees: new Map<string, Walked | null>(),
+    bases: new Map<string, string>(),
     held: Buffer.alloc(HELD_AT_FIRST),
     from: 0,
     to: 0,
@@ -219,13 +217,20 @@ function walkedTo(held: Reading, base: string, at: string): Walked | null {
   return said === null ? null : entriesIn(said)
 }
 
+const TREES = new Map<string, Walked | null>()
+
+const TREES_AT_MOST = 100_000
+
 function treesAt(held: Reading, base: string, at: string): Walked | null {
-  const key = `${base}:${at}`
-  const found = held.trees.get(key)
+  const oid = held.bases.get(base)
+  if (oid === undefined) return walkedTo(held, base, at)
+  const key = `${oid}:${at}`
+  const found = TREES.get(key)
   if (found !== undefined) return found
-  const walked = walkedTo(held, base, at)
-  held.trees.set(key, walked)
-  return walked
+  const made = walkedTo(held, base, at)
+  if (TREES.size >= TREES_AT_MOST) TREES.clear()
+  TREES.set(key, made)
+  return made
 }
 
 function heldAt(held: Reading, base: string, path: string): Uint8Array | null {
@@ -238,8 +243,9 @@ function heldAt(held: Reading, base: string, path: string): Uint8Array | null {
 
 function basedOn(held: Reading, base: string): boolean {
   if (held.bases.has(base)) return true
-  if (recordOf(held, `${base}${COMMIT}`) === null) return false
-  held.bases.add(base)
+  const said = recordOf(held, `${base}${COMMIT}`)
+  if (said === null) return false
+  held.bases.set(base, said.oid)
   return true
 }
 
