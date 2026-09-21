@@ -5,4 +5,11 @@ export const temperAddonLibrary = {
   type: "page-type/domain",
   slug: "temper-addon-library",
   definition: "the libraries other people wrote that temper's add-ons run among",
+  parts: [
+    "eso-addon/temper-lib-addon-keybinds",
+    "eso-addon/temper-lib-addon-menu",
+    "eso-addon/temper-lib-addon-menu-order-list-box",
+    "eso-addon/temper-lib-alchemy-station",
+    "eso-addon/temper-lib-async",
+  ],
 } as const satisfies Domain
