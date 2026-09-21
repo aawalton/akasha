@@ -397,7 +397,8 @@ export function judgingBy(
           phase,
           one.slug,
           change.changed.length,
-          found.length
+          found.length,
+          found.some((two) => two.threw === true)
         )
         const over = ranOver(one, ceilingGroup, cost)
         const kept = sparing === null ? found : [...(await sparing(one.run, found))]

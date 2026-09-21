@@ -59,12 +59,17 @@ export type Cost = {
   readonly readBytes: number
   readonly pathsChanged: number
   readonly refusals: number
+  readonly unrun?: boolean
   readonly node?: string
 }
 
 function nodeSaid(): { readonly node?: string } {
   const said = nodeNamed()
   return said === null ? {} : { node: said }
+}
+
+function unrunSaid(unrun: boolean): { readonly unrun?: boolean } {
+  return unrun ? { unrun } : {}
 }
 
 export type Taken = {
@@ -230,7 +235,8 @@ export function costOf(
   phase: string,
   ran: string,
   pathsChanged: number,
-  refusals: number
+  refusals: number,
+  unrun = false
 ): Cost {
   return {
     runId,
@@ -249,6 +255,7 @@ export function costOf(
     readBytes: after.readBytes - before.readBytes,
     pathsChanged,
     refusals,
+    ...unrunSaid(unrun),
     ...nodeSaid(),
   }
 }

@@ -1,8 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Cost, Spawned } from "akasha/check/modules/cost/check-cost.module.code.ts"
-import { costSpawned, recordCost } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import type { Cost, Spawned, Taken } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import {
+  costOf,
+  costSpawned,
+  recordCost,
+} from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { runsRead } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { NODE_NAME } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
@@ -21,13 +25,31 @@ const HOLDER = "held-by"
 
 const GONE = "1"
 
+const RUN_ID = "01a0917b-4d0b-7000-9f2a-6c1d4e2c9b70"
+
+const TAKEN: Taken = {
+  cpu: 0,
+  childCpu: 0,
+  peak: 0,
+  resident: 0,
+  readCalls: 0,
+  writeCalls: 0,
+  readBytes: 0,
+  measured: true,
+  at: 0,
+}
+
+function refusedOnce(unrun: boolean): Cost {
+  return costOf(TAKEN, TAKEN, RUN_ID, "change", "one", 0, 1, unrun)
+}
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
 function spawned(peakBytes: number, peakMeasured = true): Spawned {
   return {
-    runId: "01a0917b-4d0b-7000-9f2a-6c1d4e2c9b70",
+    runId: RUN_ID,
     ranAt: "2026-09-12T00:00:00.000Z",
     phase: "test",
     ran: "akasha/one.module.test.ts",
@@ -76,6 +98,19 @@ test("a run on no node of the cluster's carries the key nowhere", () => {
   const cost = costSpawned(spawned(MIB))
   expect(cost.node).toBe(undefined)
   expect(Object.hasOwn(cost, "node")).toBe(false)
+})
+
+test("a line states whether a judgement the run it measures made threw", () => {
+  const cost = refusedOnce(true)
+  expect(cost.refusals).toBe(1)
+  expect(cost.unrun).toBe(true)
+})
+
+test("a run where none threw carries the key nowhere rather than carrying it false", () => {
+  const cost = refusedOnce(false)
+  expect(cost.refusals).toBe(1)
+  expect(cost.unrun).toBe(undefined)
+  expect(Object.hasOwn(cost, "unrun")).toBe(false)
 })
 
 test("a reader takes each field by name, so a line naming no node reads as one naming it", () => {

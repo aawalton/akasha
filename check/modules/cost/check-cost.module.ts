@@ -54,6 +54,19 @@ export const checkCost = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line states whether a judgement the run it measures made threw.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That state is taken from the same judgements the refusals are counted from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A line for a run where none threw carries the key nowhere rather than carrying it false.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run is timed by the processor rather than by the clock alone.",
     },
     {
