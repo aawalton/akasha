@@ -39,7 +39,12 @@ import {
   TabsPanel,
 } from "akasha/design/interface/system/modules/components-overlay-panels/components-overlay-panels.module.code.tsx"
 import { ComponentsSelectionPanels } from "akasha/design/interface/system/modules/components-selection-panels/components-selection-panels.module.code.tsx"
-import { ComponentsSkeletonPanels } from "akasha/design/interface/system/modules/components-skeleton-panels/components-skeleton-panels.module.code.tsx"
+import {
+  ListContentSkeletonPanel,
+  LoadingContainerPanel,
+  SkeletonPanel,
+  SkeletonTextPanel,
+} from "akasha/design/interface/system/modules/components-skeleton-panels/components-skeleton-panels.module.code.tsx"
 import { ComponentsSortFilterPanels } from "akasha/design/interface/system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"
 import {
   AlertPanel,
@@ -83,7 +88,10 @@ export function ComponentsTabContent() {
           <AlertPanel />
           <AvatarPanel />
           <BreadcrumbPanel />
-          <ComponentsSkeletonPanels />
+          <SkeletonPanel />
+          <SkeletonTextPanel />
+          <ListContentSkeletonPanel />
+          <LoadingContainerPanel />
           <ComponentsMenuPanels />
           <ComponentsInputCompositePanels />
           <ComponentsSelectionPanels />
