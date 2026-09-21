@@ -4,7 +4,7 @@ export const temperAddonType = {
   id: "01a06090-f5ac-7f47-be1b-dc303670f2ad",
   type: "page-type/domain",
   slug: "temper-addon-type",
-  definition: "the types a compiler reads for the libraries an Elder Scrolls Online addon calls",
+  definition: "the types a compiler reads for what an add-on leaves in the game's globals",
   parts: [
     "type-declaration/arkadius-trade-tools",
     "type-declaration/bui",
