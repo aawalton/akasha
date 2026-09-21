@@ -4,6 +4,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionGreedy = {
   id: "01a0a6c5-0636-7c53-902d-5f88d8a97f40",
   type: "page-type/track",
   slug: "ariana-grande-dangerous-woman-tenth-anniversary-edition-greedy",
+  grade: "A-",
   ownLength: 3.5814833333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
