@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A thing good for nothing says so rather than saying nothing."}]}
+{"definition":"what a thing in a place is good for, and what it is worth"}
+{"id":"01a0c645-dfc6-7a5e-90a0-d56d7f74a9bd"}
+{"maxLength":300}
+{"nameFormat":null}
+{"propertySlug":"use"}
+{"slug":"thing-use"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

@@ -3396,6 +3396,9 @@
 {"propertySlug":"decision-kind","path":"story/game/location/properties/location-conditions.record-property.ts","id":"01a0c645-074c-72ea-9eb7-28ffdb438ce9"}
 {"propertySlug":"decision-kind","path":"story/game/location/properties/location-depth.number-property.ts","id":"01a0c643-baaf-7470-8d8e-d86e077c2c54"}
 {"propertySlug":"decision-kind","path":"story/game/location/properties/location-theme.text-property.ts","id":"01a0c644-0cd0-737d-a018-b08f625629cf"}
+{"propertySlug":"decision-kind","path":"story/game/location/properties/location-things.record-property.ts","id":"01a0c646-0dc8-7dee-9127-0870839eb9fd"}
+{"propertySlug":"decision-kind","path":"story/game/location/properties/thing-status.text-property.ts","id":"01a0c645-f558-7eac-8d58-205cff99a22c"}
+{"propertySlug":"decision-kind","path":"story/game/location/properties/thing-use.text-property.ts","id":"01a0c645-dfc6-7a5e-90a0-d56d7f74a9bd"}
 {"propertySlug":"decision-kind","path":"story/game/location/properties/within-location.relation-property.ts","id":"01a0c643-9ff8-7920-b68e-f2f869684b86"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}

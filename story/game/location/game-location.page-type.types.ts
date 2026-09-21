@@ -6,6 +6,7 @@ import type { LocationDescription } from "akasha/story/game/location/properties/
 import type { LocationExhausted } from "akasha/story/game/location/properties/location-exhausted.boolean-property.types.ts"
 import type { LocationExits } from "akasha/story/game/location/properties/location-exits.text-property.types.ts"
 import type { LocationTheme } from "akasha/story/game/location/properties/location-theme.text-property.types.ts"
+import type { LocationThings } from "akasha/story/game/location/properties/location-things.record-property.types.ts"
 import type { WithinLocation } from "akasha/story/game/location/properties/within-location.relation-property.types.ts"
 import type { HoldingGame } from "akasha/story/game/properties/holding-game.relation-property.types.ts"
 import type { ListedNote } from "akasha/story/game/properties/listed-note.text-property.types.ts"
@@ -21,4 +22,5 @@ export type GameLocation = Page & {
   exhausted?: LocationExhausted
   conditions?: LocationConditions
   note?: ListedNote
+  things?: LocationThings
 }

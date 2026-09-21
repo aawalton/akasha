@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A thing nobody has touched says nothing here."}]}
+{"definition":"what has become of a thing in a place since the play reached it"}
+{"id":"01a0c645-f558-7eac-8d58-205cff99a22c"}
+{"maxLength":200}
+{"nameFormat":null}
+{"propertySlug":"status"}
+{"slug":"thing-status"}
+{"type":"page-type/text-property"}
+{"types":"ts"}

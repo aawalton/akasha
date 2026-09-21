@@ -3,9 +3,11 @@
 {"propertySlug":"import","fileName":"listed-note.text-property.types.ts","path":"story/game/entity/properties/entity-equipment.record-property.types.ts"}
 {"propertySlug":"import","fileName":"listed-note.text-property.types.ts","path":"story/game/location/game-location.page-type.types.ts"}
 {"propertySlug":"import","fileName":"listed-note.text-property.types.ts","path":"story/game/location/properties/location-conditions.record-property.types.ts"}
+{"propertySlug":"import","fileName":"listed-note.text-property.types.ts","path":"story/game/location/properties/location-things.record-property.types.ts"}
 {"propertySlug":"page-property","path":"story/game/entity/game-entity.page-type.ts","id":"01a0c631-b09e-76b0-8b33-5a7ff9d75891"}
 {"propertySlug":"page-property","path":"story/game/entity/properties/entity-bonds.record-property.ts","id":"01a0c63c-7c7c-71fc-82a7-90cbaf43aa20"}
 {"propertySlug":"page-property","path":"story/game/entity/properties/entity-equipment.record-property.ts","id":"01a0c63a-77a8-7aa8-ae8c-141b34ac194b"}
 {"propertySlug":"page-property","path":"story/game/location/game-location.page-type.ts","id":"01a0c642-a40f-7f5e-8d0d-b1f9226535ca"}
 {"propertySlug":"page-property","path":"story/game/location/properties/location-conditions.record-property.ts","id":"01a0c645-074c-72ea-9eb7-28ffdb438ce9"}
+{"propertySlug":"page-property","path":"story/game/location/properties/location-things.record-property.ts","id":"01a0c646-0dc8-7dee-9127-0870839eb9fd"}
 {"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}

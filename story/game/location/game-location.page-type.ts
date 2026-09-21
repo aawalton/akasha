@@ -24,6 +24,12 @@ export const gameLocation = {
       maxCount: null,
     },
     { pageProperty: "text-property/listed-note", required: false, many: false },
+    {
+      pageProperty: "record-property/location-things",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -53,5 +59,8 @@ export const gameLocation = {
     "text-property/location-exits",
     "boolean-property/location-exhausted",
     "record-property/location-conditions",
+    "text-property/thing-use",
+    "text-property/thing-status",
+    "record-property/location-things",
   ],
 } as const satisfies PageType
