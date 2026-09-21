@@ -1,6 +1,11 @@
 import { expect, test } from "bun:test"
+import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   bonusesIn,
+  gameSettle,
   messageFor,
   readingIn,
   rowsOf,
@@ -18,6 +23,27 @@ const CALLED = "akasha game settle"
 const GAME = namedAs(game.slug, theTower.slug, null)
 
 const CHECK = namedAs(gameMechanic.slug, attributeCheck.slug, null)
+
+const APPENDS = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
+
+const BESIDE = `${theTower.slug}.${game.slug}.mechanic-runs.jsonl`
+
+const GIVEN: Given = {
+  root: process.cwd(),
+  calledAs: CALLED,
+  from: "",
+  writer: null,
+  agentId: null,
+}
+
+const APPLIED = {
+  base: "",
+  landed: [],
+  formatted: [],
+  said: [],
+  wrong: [],
+  commit: "a-commit",
+}
 
 const ARGV = [
   "--game",
@@ -107,4 +133,37 @@ test("a run that rolled nothing names no dice and no seed", () => {
 
 test("the commit says which turn was settled by which mechanic", () => {
   expect(messageFor(RAN, GAME)).toBe(`settle turn 87 of ${GAME} by ${CHECK}`)
+})
+
+test("a settled turn is written to the game's rows, and its numbers are answered", async () => {
+  const asked: Asking[] = []
+  const answer = await gameSettle([...ARGV, "--dice", "1d20"], GIVEN, async (_root, held) => {
+    asked.push(...held)
+    return APPLIED
+  })
+  expect(answer.refusals).toEqual([])
+  const one = asked[0]
+  if (asked.length !== 1 || one === undefined || one.at !== APPENDS) {
+    throw new Error("one append and nothing else is asked for")
+  }
+  expect(one.given.at.endsWith(BESIDE)).toBe(true)
+  const row = JSON.parse(one.given.content) as MechanicRun
+  expect(row.turn).toBe(87)
+  expect(row.mechanic).toBe(CHECK)
+  expect(row.dice?.faces).toHaveLength(1)
+  expect(typeof row.seed).toBe("string")
+  expect(row.answered).toHaveProperty("margin")
+  expect(answer.report).toContain(`commit\t${APPLIED.commit}`)
+})
+
+test("a mechanic that refuses writes no row", async () => {
+  const asked: Asking[] = []
+  const argv = [...ARGV]
+  argv[5] = namedAs(gameMechanic.slug, "nothing-is-filed-here", null)
+  const answer = await gameSettle(argv, GIVEN, async (_root, held) => {
+    asked.push(...held)
+    return APPLIED
+  })
+  expect(asked).toEqual([])
+  expect(answer.refusals).not.toEqual([])
 })
