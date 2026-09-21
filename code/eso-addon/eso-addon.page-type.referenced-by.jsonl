@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-debug-logger/temper-lib-debug-logger.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-extended-journal/temper-lib-extended-journal.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-gps/temper-lib-gps.eso-addon.ts"}
+{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-histoire/temper-lib-histoire.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-main-menu/temper-lib-main-menu.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-map-data/temper-lib-map-data.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-map-ping/temper-lib-map-ping.eso-addon.ts"}
@@ -42,7 +43,6 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/housing-addon/temper-housing-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/interface-addon/temper-interface-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/items-addon/temper-items-addon.eso-addon.ts"}
-{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-histoire/temper-lib-histoire.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-scrollable-menu/temper-lib-scrollable-menu.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/navigation-addon/temper-navigation-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/trading-addon/temper-trading-addon.eso-addon.ts"}

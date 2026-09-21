@@ -92,7 +92,6 @@ export const temper = {
     "eso-addon/temper-housing-addon",
     "eso-addon/temper-interface-addon",
     "eso-addon/temper-items-addon",
-    "eso-addon/temper-lib-histoire",
     "eso-addon/temper-lib-scrollable-menu",
     "eso-addon/temper-navigation-addon",
     "eso-addon/temper-trading-addon",

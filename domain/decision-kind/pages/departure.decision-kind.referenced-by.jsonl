@@ -3582,6 +3582,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-gps/modules/gps-tamriel-o-meter/gps-tamriel-o-meter.module.ts","id":"01a0614d-4765-7fe3-9655-5d4e74a775dc"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-gps/modules/gps-world-size/gps-world-size.module.ts","id":"01a0614d-4766-7a5a-b36b-152682f53e3d"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-gps/temper-lib-gps.eso-addon.ts","id":"01a0614d-4767-7eb4-a5d6-68581039bf67"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-histoire/temper-lib-histoire.eso-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-main-menu/modules/main-menu-casts/main-menu-casts.module.ts","id":"01a0605b-c801-75ea-bec7-99b3645fcbda"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-main-menu/modules/main-menu-entry/main-menu-entry.module.ts","id":"01a0605b-c802-71af-a8cf-d954d41e3520"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.ts","id":"01a0605b-c803-7076-8256-6e18f678aa85"}
@@ -4648,7 +4649,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing/test-fixtures/inventory-management-plan-chain-property-fixtures/inventory-management-plan-chain-property-fixtures.test-fixture.ts","id":"01a06289-2676-7bb0-bf20-a5161d4bbd69"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.ts","id":"01a06289-2676-74b4-91ec-0643ccf4bba1"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.ts","id":"01a0615a-a1dc-7882-8483-be86859114a7"}
-{"propertySlug":"decision-kind","path":"temper/lib-histoire/temper-lib-histoire.eso-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.ts","id":"01a06275-c442-78e9-91db-fd3e3a781bd5"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-entries/scrollable-menu-api-entries.module.ts","id":"01a06275-c443-709d-8562-0ff2fc429904"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.ts","id":"01a06275-c443-7905-af8d-6d33bbb2d716"}

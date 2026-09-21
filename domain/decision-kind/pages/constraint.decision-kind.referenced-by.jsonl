@@ -416,6 +416,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-extended-journal/temper-lib-extended-journal.eso-addon.ts","id":"01a0617d-5454-7d6e-a26b-24878ddb747f"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-gps/modules/gps-lib-state/gps-lib-state.module.ts","id":"01a0614d-4763-71d6-823d-0a023d0ff5b6"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-gps/temper-lib-gps.eso-addon.ts","id":"01a0614d-4767-7eb4-a5d6-68581039bf67"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-histoire/temper-lib-histoire.eso-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.ts","id":"01a0605b-c803-7076-8256-6e18f678aa85"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-main-menu/temper-lib-main-menu.eso-addon.ts","id":"01a0605b-c805-73f4-b1b0-5aa7831a19d4"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-map-data/modules/map-data-index-00/map-data-index-00.module.ts","id":"01a061e1-aea3-78f7-9287-3c987cf5bf24"}
@@ -1026,7 +1027,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-eval/modules/item-facts/item-facts.module.ts","id":"01a06137-f96c-7332-b371-6a8536a60c01"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-eval/modules/rule-condition-eval/rule-condition-eval.module.ts","id":"01a06137-f96d-7493-bbc2-36975759b675"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing-core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.ts","id":"01a06151-370a-75d2-9f60-78f57041397a"}
-{"propertySlug":"decision-kind","path":"temper/lib-histoire/temper-lib-histoire.eso-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.ts","id":"01a06275-c442-78e9-91db-fd3e3a781bd5"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-entries/scrollable-menu-api-entries.module.ts","id":"01a06275-c443-709d-8562-0ff2fc429904"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.ts","id":"01a06275-c443-7905-af8d-6d33bbb2d716"}
