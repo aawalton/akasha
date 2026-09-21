@@ -86,6 +86,14 @@ export const musicCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A day page a run would leave as it is is not written again.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A write landing the body a path already holds is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run that wrote before it threw says in its refusal what that run had written.",
     },
     {

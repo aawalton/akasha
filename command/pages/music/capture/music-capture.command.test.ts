@@ -234,13 +234,22 @@ test("what is filed is read off Alan's own listens and heard tracks", () => {
   expect(filed.ledger.newestPlayedAt).not.toBe(null)
 })
 
-test("a listen appended to a day already filed keeps every row and property that day held", () => {
+test("a listen appended to a day already filed keeps every row that day held", () => {
   const changes = changesOver("2026-08-21T12:00:00.000Z")
   const was = readFileSync(join(ROOT, `${FILED_DAY}.listens.jsonl`), "utf8")
   const now = bodyAt(changes, `${FILED_DAY}.listens.jsonl`)
   expect(now.startsWith(was)).toBe(true)
   expect(now.split("\n").length).toBe(was.split("\n").length + 1)
-  const page = bodyAt(changes, `${FILED_DAY}.ts`)
+})
+
+test("a day page a run would leave as it is is not written again", () => {
+  const paths = pathsOf(changesOver("2026-08-21T12:00:00.000Z"))
+  expect(paths).not.toContain(`${FILED_DAY}.ts`)
+  expect(paths).toContain(`${FILED_DAY}.listens.jsonl`)
+})
+
+test("a day page gaining its listens keeps every property that day held", () => {
+  const page = bodyAt(changesOver("2026-09-02T12:00:00.000Z"), `${PROBE_DAY}.ts`)
   expect(page).toContain('listens: "jsonl"')
   expect(page).toContain('sessions: "jsonl"')
 })
@@ -367,8 +376,8 @@ test("an append hands in the body on disk it was composed against", () => {
 })
 
 test("a day page composed from the values that day holds hands in the body on disk", () => {
-  const at = `${FILED_DAY}.ts`
-  const changes = changesOver("2026-08-21T12:00:00.000Z")
+  const at = `${PROBE_DAY}.ts`
+  const changes = changesOver("2026-09-02T12:00:00.000Z")
 
   expect(oldAt(changes, at)).toBe(readFileSync(join(ROOT, at), "utf8"))
 })

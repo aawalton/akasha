@@ -346,7 +346,9 @@ export function changesFor(
     })
     if ("refused" in composed) return composed
     const held = textAt(join(root, composed.put.path))
-    changes.push(bodied(composed.put.path, composed.put.content, held ?? undefined))
+    if (held !== composed.put.content) {
+      changes.push(bodied(composed.put.path, composed.put.content, held ?? undefined))
+    }
     const edit = appendedBeside(root, composed.put.path, LISTENS, planned.listens.get(day) ?? [])
     if ("refused" in edit) return edit
     changes.push(edit)
