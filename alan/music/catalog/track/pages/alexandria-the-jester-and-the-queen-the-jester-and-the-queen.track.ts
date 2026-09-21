@@ -5,10 +5,10 @@ export const alexandriaTheJesterAndTheQueenTheJesterAndTheQueen = {
   type: "page-type/track",
   slug: "alexandria-the-jester-and-the-queen-the-jester-and-the-queen",
   ownLength: 2.81445,
-  ownProgress: 0,
+  ownProgress: 2.81445,
   partOfCollections: ["release/alexandria-the-jester-and-the-queen"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

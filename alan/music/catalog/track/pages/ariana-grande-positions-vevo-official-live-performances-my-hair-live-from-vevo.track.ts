@@ -5,10 +5,10 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesMyHairLiveFromVevo
   type: "page-type/track",
   slug: "ariana-grande-positions-vevo-official-live-performances-my-hair-live-from-vevo",
   ownLength: 3.2390666666666665,
-  ownProgress: 0,
+  ownProgress: 3.2390666666666665,
   partOfCollections: ["release/ariana-grande-positions-vevo-official-live-performances"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
