@@ -16,7 +16,6 @@
   "dependsOn": [
     "LibCharacterKnowledge>=300040",
     "LibAddonMenu-2.0>=43",
-    "LibAlchemyStation>=343",
     "LibAsync>=20100",
     "LibCustomMenu>=692",
     "LibMainMenu-2.0>=432",

@@ -1,3 +1,4 @@
+import type { Lib as AlchemyStation } from "akasha/temper/addon/pages/crafting/modules/alchemy-station-types/alchemy-station-types.module.code.ts"
 import type { TraitEffect } from "akasha/temper/addon/pages/crafting/modules/potion-constants/potion-constants.module.code.ts"
 import {
   FAVORITE_COLOR,
@@ -18,7 +19,6 @@ import type {
 } from "akasha/temper/addon/pages/crafting/modules/potion-types/potion-types.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-alchemy-station/lib-alchemy-station.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-main-menu/lib-main-menu.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
@@ -26,7 +26,6 @@ import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-type LibAlchemyStationSurface = LibAlchemyStationLib
 type LibMainMenu2Surface = typeof LibMainMenu2
 
 type TraitFilter = Record<string, TraitEffect>
@@ -84,7 +83,7 @@ export interface PotMaker {
   contentWindowPotion: Control
   contentWindowPoison: Control
   keybindStripDescriptor: unknown[]
-  LAS: LibAlchemyStationSurface
+  LAS: AlchemyStation
   LMM2: LibMainMenu2Surface
 
   initVar: (this: void, lang?: string) => undefined

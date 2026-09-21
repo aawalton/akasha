@@ -1,5 +1,4 @@
-import { libAlchemyStation } from "akasha/temper/addon/pages/crafting/modules/craft-libraries/craft-libraries.module.code.ts"
-
+import { ALCHEMY_STATION } from "akasha/temper/addon/pages/crafting/modules/alchemy-station/alchemy-station.module.code.ts"
 import {
   TEXTURE_POISON_DISABLED,
   TEXTURE_POISON_DOWN,
@@ -59,7 +58,7 @@ export function initializeTemperPotions(this: void): undefined {
 
   initializeSavedVariables()
 
-  PotMaker.LAS = libAlchemyStation()
+  PotMaker.LAS = ALCHEMY_STATION
   PotMaker.LAS.Init()
 
   PotMaker.contentWindowPotion = PotMaker.LAS.AddTab({

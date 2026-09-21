@@ -3650,6 +3650,9 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-summary-refresh/companions-summary-refresh.module.ts","id":"01a08871-6a01-7c73-b5a1-f0397f9ff734"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-target-build-input/companions-target-build-input.module.ts","id":"01a0611d-84e6-77f3-8e05-8b4ff7570c86"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/alchemy-station-types/alchemy-station-types.module.ts","id":"01a06054-98bd-71bf-8f8d-ba29e4db147c"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/alchemy-station/alchemy-station.module.ts","id":"01a06054-98bc-78f0-afbb-f7343cb932bb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/craft-cooking-lists/craft-cooking-lists.module.ts","id":"01a08e69-e336-7e71-b562-58e9c8e75d47"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/potion-controls-ingredients/potion-controls-ingredients.module.ts","id":"01a08e6b-e041-7bef-ba7a-afd8c380848d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/writ-i18n/writ-i18n.module.ts","id":"01a061c7-e896-7e6c-9bf8-02b9e70effd6"}
@@ -3850,11 +3853,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-submenu/addon-menu-widget-submenu.module.ts","id":"01a06100-0000-7000-8000-000000000027"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.ts","id":"01a06100-0000-7000-8000-000000000028"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/temper-lib-addon-menu.temper-addon.ts","id":"01a06292-8851-701c-9273-a19fa38175bb"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-alchemy-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-alchemy-station/modules/alchemy-station-entry/alchemy-station-entry.module.ts","id":"01a06054-98bd-734e-9a93-1ddc5661a9bc"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-alchemy-station/modules/alchemy-station-types/alchemy-station-types.module.ts","id":"01a06054-98bd-71bf-8f8d-ba29e4db147c"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-alchemy-station/modules/alchemy-station/alchemy-station.module.ts","id":"01a06054-98bc-78f0-afbb-f7343cb932bb"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-alchemy-station/temper-lib-alchemy-station.temper-addon.ts","id":"01a06054-98ba-7687-a7df-a99c3188320b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-async/modules/async-api/async-api.module.ts","id":"01a0606a-1c53-7ea1-a0eb-d07680c9af9f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-async/modules/async-casts/async-casts.module.ts","id":"01a0606a-1c54-73cf-ae99-1c6521dc4d94"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-async/modules/async-constants/async-constants.module.ts","id":"01a0606a-1c54-7a06-8b76-419e5170ac50"}

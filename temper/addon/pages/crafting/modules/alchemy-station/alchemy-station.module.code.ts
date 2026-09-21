@@ -2,9 +2,9 @@ import type {
   AlchemyDescriptor,
   LasTabData,
   Lib,
-} from "akasha/temper/addon/pages/lib-alchemy-station/modules/alchemy-station-types/alchemy-station-types.module.code.ts"
+} from "akasha/temper/addon/pages/crafting/modules/alchemy-station-types/alchemy-station-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/lib-alchemy-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/crafting/alchemy-station-declarations/alchemy-station-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-deconstruction/eso-deconstruction.type-declaration.d.ts"

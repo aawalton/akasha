@@ -14,7 +14,6 @@ export const temperAddonType = {
     "type-declaration/furniture-catalogue",
     "type-declaration/interface-addon-neighbours",
     "type-declaration/lib-addon-menu",
-    "type-declaration/lib-alchemy-station",
     "type-declaration/lib-async",
     "type-declaration/lib-character-knowledge",
     "type-declaration/lib-chat-message",

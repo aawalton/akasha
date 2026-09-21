@@ -201,6 +201,9 @@ export const temperAddonCrafting = {
     "module/craft-research-trait-icon",
     "module/craft-queue",
     "module/potion-potion-match",
+    "module/alchemy-station",
+    "module/alchemy-station-types",
+    "type-declaration/alchemy-station-declarations",
   ],
   interfaces: [
     "eso-interface/craft-store-blueprint-layout",

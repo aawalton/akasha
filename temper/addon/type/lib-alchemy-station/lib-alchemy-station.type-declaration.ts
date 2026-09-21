@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libAlchemyStation = {
-  id: "01a0616f-b192-7814-89ad-2ba2f1c14683",
-  type: "page-type/type-declaration",
-  slug: "lib-alchemy-station",
-  definition: "the tabs LibAlchemyStation adds to the alchemy station",
-  d: "ts",
-} as const satisfies TypeDeclaration
