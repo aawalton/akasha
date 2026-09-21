@@ -7,6 +7,7 @@ export const temperSkillPoint = {
   definition: "one source a character earns skill points from",
   extends: ["page-type/temper-character-thing"],
   parts: [
+    "boolean-property/pvp",
     "number-property/max-quests",
     "number-property/max-skyshards",
     "number-property/max-value",
@@ -17,6 +18,7 @@ export const temperSkillPoint = {
     { pageProperty: "number-property/max-quests", required: false, many: false },
     { pageProperty: "number-property/max-skyshards", required: false, many: false },
     { pageProperty: "number-property/max-value", required: false, many: false },
+    { pageProperty: "boolean-property/pvp", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

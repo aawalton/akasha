@@ -1,0 +1,7 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A source reached without player-versus-player territory states nothing here."}]}
+{"definition":"whether a skill point is reached only through player-versus-player territory"}
+{"id":"01a0c621-d1a9-7038-b83c-67261a3d7bce"}
+{"propertySlug":"pvp"}
+{"slug":"pvp"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

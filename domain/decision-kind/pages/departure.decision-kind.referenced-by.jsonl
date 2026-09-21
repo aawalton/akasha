@@ -5318,6 +5318,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-mine/temper-mine.page-type.ts","id":"01a05fcd-f557-7231-b2a4-ecded061b740"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-player/properties/platform.select-property.ts","id":"01a06e4f-b737-758d-9fe7-576149259344"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-player/properties/server.select-property.ts","id":"01a06e4f-b738-785a-b942-ef91c66319dc"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-point/properties/pvp.boolean-property.ts","id":"01a0c621-d1a9-7038-b83c-67261a3d7bce"}
 {"propertySlug":"decision-kind","path":"temper/player/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/completion-progress/completion-progress.module.ts","id":"01a0607a-9cbc-7106-abcd-353786bf9f09"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}

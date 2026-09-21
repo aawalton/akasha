@@ -9,4 +9,5 @@ export const ic = {
   category: "zone",
   maxQuests: 1,
   maxSkyshards: 13,
+  pvp: true,
 } as const satisfies TemperSkillPoint

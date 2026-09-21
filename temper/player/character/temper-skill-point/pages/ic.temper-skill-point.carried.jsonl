@@ -3,6 +3,7 @@
 {"key":"IC"}
 {"maxQuests":1}
 {"maxSkyshards":13}
+{"pvp":true}
 {"slug":"ic"}
 {"title":"Imperial City"}
 {"type":"page-type/temper-skill-point"}
