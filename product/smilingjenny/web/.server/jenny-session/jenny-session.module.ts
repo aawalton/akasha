@@ -19,5 +19,13 @@ export const jennySession = {
       decisionKind: "decision-kind/departure",
       statement: "Anybody else is nobody here, whoever they are elsewhere.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller carrying no cookie is sent to sign in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller signed in as somebody else is refused rather than sent round again.",
+    },
   ],
 } as const satisfies Module

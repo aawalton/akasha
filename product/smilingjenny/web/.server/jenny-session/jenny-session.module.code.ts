@@ -11,30 +11,37 @@ export type SessionReader = (request: Request) => Promise<string | null>
 
 const jennyReader: SessionReader = (request) => signedInAs(JENNY_SITE, request)
 
-async function jennySignedIn(request: Request, read: SessionReader): Promise<SignedIn | null> {
+export type Reading =
+  | { readonly admitted: true; readonly signedIn: SignedIn }
+  | { readonly admitted: false; readonly aStranger: boolean }
+
+const NOT_HERS = "This site is Jenny's, and you are signed in as somebody else."
+
+async function reading(request: Request, read: SessionReader): Promise<Reading> {
   const contributor = await read(request)
-  if (contributor === null) return null
+  if (contributor === null) return { admitted: false, aStranger: true }
   const reached = await personSlugForContributor(contributor)
-  if (!reached.ok || reached.personSlug !== JENNY) return null
-  return { contributor, headers: new Headers() }
+  if (!reached.ok || reached.personSlug !== JENNY) {
+    return { admitted: false, aStranger: false }
+  }
+  return { admitted: true, signedIn: { contributor, headers: new Headers() } }
 }
 
 export async function requireJenny(
   request: Request,
   read: SessionReader = jennyReader
 ): Promise<SignedIn> {
-  const held = await jennySignedIn(request, read)
-  if (held === null) throw redirect(JENNY_SITE.signInPath)
-  return held
+  const held = await reading(request, read)
+  if (held.admitted) return held.signedIn
+  if (held.aStranger) throw redirect(JENNY_SITE.signInPath)
+  throw new Response(NOT_HERS, { status: 403 })
 }
 
 export async function requireApiJenny(
   request: Request,
   read: SessionReader = jennyReader
 ): Promise<SignedIn> {
-  const held = await jennySignedIn(request, read)
-  if (held === null) {
-    throw Response.json({ ok: false, error: "Not signed in." }, { status: 401 })
-  }
-  return held
+  const held = await reading(request, read)
+  if (held.admitted) return held.signedIn
+  throw Response.json({ ok: false, error: "Not signed in." }, { status: 401 })
 }
