@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-options/craft-options.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-quest-tracking/craft-quest-tracking.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-controls/potion-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-search/potion-search.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
