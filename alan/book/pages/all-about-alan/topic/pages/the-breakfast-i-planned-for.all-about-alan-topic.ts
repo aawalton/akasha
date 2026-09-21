@@ -5,7 +5,7 @@ export const theBreakfastIPlannedFor = {
   type: "page-type/all-about-alan-topic",
   slug: "the-breakfast-i-planned-for",
   title: "The Breakfast I Planned For",
-  definition: "the family breakfast on 2026-06-13, and the plan I set before it",
+  definition: "the family breakfast on 13 June 2026, and the plan I set before it",
   parents: ["all-about-alan-topic/where-things-are-with-my-brother"],
   related: ["all-about-alan-topic/how-much-company-i-can-take"],
   settled:
