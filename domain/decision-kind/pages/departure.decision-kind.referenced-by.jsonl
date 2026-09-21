@@ -446,6 +446,7 @@
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-sign-in/atlas-sign-in.route.ts","id":"01a08839-e4a2-7fb1-bc8d-19574cec390b"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.ts","id":"01a0883e-5a1e-7450-ac91-ba1c3f52e21b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}
+{"propertySlug":"decision-kind","path":"alan/attribute/modules/level/attribute-level.module.ts","id":"01a0c4b0-4a14-730d-a7cf-b11505b9cc59"}
 {"propertySlug":"decision-kind","path":"alan/attribute/modules/points/attribute-points.module.ts","id":"01a081f8-593c-795e-92d9-6c2e0b74460e"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/charisma/charisma.attribute.ts","id":"01a06841-a142-7b48-90d6-bb5e2c5138dd"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/constitution/constitution.attribute.ts","id":"01a06841-a158-76c3-9089-9842c06dc7c0"}
@@ -454,7 +455,6 @@
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/luck/luck.attribute.ts","id":"01a06841-a19b-775f-8183-8af74871a217"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/strength/strength.attribute.ts","id":"01a06841-a1b4-731f-8d52-fe93c3564922"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/wisdom/wisdom.attribute.ts","id":"01a06841-a1cb-7072-8aa0-eb11c0a4258b"}
-{"propertySlug":"decision-kind","path":"alan/attribute/properties/attribute-level.computed-property.ts","id":"01a081cc-5b79-71ea-9492-1757bb05214d"}
 {"propertySlug":"decision-kind","path":"alan/attribute/properties/points-before-today.number-property.ts","id":"01a08205-3006-72d5-930b-892c6e875b17"}
 {"propertySlug":"decision-kind","path":"alan/attribute/properties/points-total.number-property.ts","id":"01a081cb-66ae-7cee-8e11-431ab034165b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-charisma/attribute-charisma.readout.ts","id":"01a06838-950f-7f4c-9f40-60cc35fa63f5"}

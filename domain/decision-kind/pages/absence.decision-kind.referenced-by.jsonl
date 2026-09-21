@@ -211,12 +211,12 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.ts","id":"01a06582-6b30-7b6f-93b3-2403a3c2ade4"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.ts","id":"01a0883e-5a1e-7450-ac91-ba1c3f52e21b"}
+{"propertySlug":"decision-kind","path":"alan/attribute/modules/level/attribute-level.module.ts","id":"01a0c4b0-4a14-730d-a7cf-b11505b9cc59"}
 {"propertySlug":"decision-kind","path":"alan/attribute/modules/points/attribute-points.module.ts","id":"01a081f8-593c-795e-92d9-6c2e0b74460e"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/constitution/constitution.attribute.ts","id":"01a06841-a158-76c3-9089-9842c06dc7c0"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/intelligence/intelligence.attribute.ts","id":"01a06841-a185-7471-8155-9b91e3f40e35"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/luck/luck.attribute.ts","id":"01a06841-a19b-775f-8183-8af74871a217"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/wisdom/wisdom.attribute.ts","id":"01a06841-a1cb-7072-8aa0-eb11c0a4258b"}
-{"propertySlug":"decision-kind","path":"alan/attribute/properties/attribute-level.computed-property.ts","id":"01a081cc-5b79-71ea-9492-1757bb05214d"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-charisma/attribute-charisma.readout.ts","id":"01a06838-950f-7f4c-9f40-60cc35fa63f5"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts","id":"01a06838-9486-7039-a5b5-f3b864bb2160"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-endurance/attribute-endurance.readout.ts","id":"01a06838-945f-7ac6-b3a4-411fa111e195"}

@@ -14,13 +14,13 @@ export const attribute = {
     "attribute/luck",
     "attribute/strength",
     "attribute/wisdom",
-    "computed-property/attribute-level",
     "domain/attribute-readout",
     "module/attribute-points",
     "number-property/points-before-today",
     "number-property/points-today",
     "number-property/points-total",
     "text-property/point-unit",
+    "module/attribute-level",
   ],
   properties: [
     { pageProperty: "code-file-property/code", required: false, many: false },
@@ -44,7 +44,6 @@ export const attribute = {
       many: false,
       uncommitted: true,
     },
-    { pageProperty: "computed-property/attribute-level", required: false, many: false },
   ],
   decisions: [
     {

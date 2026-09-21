@@ -1,4 +1,4 @@
-import { levelOf } from "akasha/alan/attribute/properties/attribute-level.computed-property.code.ts"
+import { levelOf } from "akasha/alan/attribute/modules/level/attribute-level.module.code.ts"
 import { ATTRIBUTE_OF } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
 import { totalAttributes } from "akasha/alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"

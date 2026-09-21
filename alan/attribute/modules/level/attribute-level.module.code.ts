@@ -1,8 +1,3 @@
-import type { AttributeLevel } from "akasha/alan/attribute/properties/attribute-level.computed-property.types.ts"
-import type { Work } from "akasha/page/computed-property/computed-property.page-type.ts"
-
-type Totalled = { readonly pointsTotal?: number }
-
 const RUNG = 10
 
 export function* rungs(): Generator<number> {
@@ -27,6 +22,3 @@ export function levelOf(points: number): number {
   }
   return level
 }
-
-export const work: Work<Totalled, AttributeLevel> = (page) =>
-  typeof page.pointsTotal === "number" ? levelOf(page.pointsTotal) : 0

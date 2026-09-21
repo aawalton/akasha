@@ -1,4 +1,3 @@
-import type { AttributeLevel } from "akasha/alan/attribute/properties/attribute-level.computed-property.types.ts"
 import type { PointUnit } from "akasha/alan/attribute/properties/point-unit.text-property.types.ts"
 import type { PointsBeforeToday } from "akasha/alan/attribute/properties/points-before-today.number-property.types.ts"
 import type { PointsToday } from "akasha/alan/attribute/properties/points-today.number-property.types.ts"
@@ -14,5 +13,4 @@ export type Attribute = Domain & {
   pointsBeforeToday?: PointsBeforeToday
   pointsToday?: PointsToday
   pointsTotal?: PointsTotal
-  level?: AttributeLevel
 }

@@ -2,8 +2,8 @@
 {"definition":"a capacity Alan builds through a daily habit"}
 {"extends":["page-type/domain"]}
 {"id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}
-{"parts":["attribute/charisma","attribute/constitution","attribute/endurance","attribute/intelligence","attribute/luck","attribute/strength","attribute/wisdom","computed-property/attribute-level","domain/attribute-readout","module/attribute-points","number-property/points-before-today","number-property/points-today","number-property/points-total","text-property/point-unit"]}
-{"properties":[{"pageProperty":"code-file-property/code","required":false,"many":false},{"pageProperty":"code-file-property/test","required":false,"many":false},{"pageProperty":"text-property/point-unit","required":true,"many":false},{"pageProperty":"number-property/points-before-today","required":false,"many":false,"uncommitted":true},{"pageProperty":"number-property/points-today","required":false,"many":false,"uncommitted":true},{"pageProperty":"number-property/points-total","required":false,"many":false,"uncommitted":true},{"pageProperty":"computed-property/attribute-level","required":false,"many":false}]}
+{"parts":["attribute/charisma","attribute/constitution","attribute/endurance","attribute/intelligence","attribute/luck","attribute/strength","attribute/wisdom","domain/attribute-readout","module/attribute-points","number-property/points-before-today","number-property/points-today","number-property/points-total","text-property/point-unit","module/attribute-level"]}
+{"properties":[{"pageProperty":"code-file-property/code","required":false,"many":false},{"pageProperty":"code-file-property/test","required":false,"many":false},{"pageProperty":"text-property/point-unit","required":true,"many":false},{"pageProperty":"number-property/points-before-today","required":false,"many":false,"uncommitted":true},{"pageProperty":"number-property/points-today","required":false,"many":false,"uncommitted":true},{"pageProperty":"number-property/points-total","required":false,"many":false,"uncommitted":true}]}
 {"schema":"jsonl"}
 {"slug":"attribute"}
 {"type":"page-type/page-type"}

@@ -1,1 +1,0 @@
-export type AttributeLevel = number

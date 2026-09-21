@@ -1,12 +1,10 @@
-import type { ComputedProperty } from "akasha/page/computed-property/computed-property.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const attributeLevel = {
-  id: "01a081cc-5b79-71ea-9492-1757bb05214d",
-  type: "page-type/computed-property",
+  id: "01a0c4b0-4a14-730d-a7cf-b11505b9cc59",
+  type: "page-type/module",
   slug: "attribute-level",
-  propertySlug: "level",
-  definition: "the level an attribute's total points have climbed to",
-  holds: "number",
+  definition: "the level a figure of points has climbed to",
   code: "ts",
   test: "ts",
   decisions: [
@@ -51,10 +49,6 @@ export const attributeLevel = {
       statement: "Points of zero or below are level 0.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "An attribute with no total at all is level 0.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here adds up an attribute's points.",
     },
@@ -67,5 +61,4 @@ export const attributeLevel = {
       statement: "Nothing here writes.",
     },
   ],
-  types: "ts",
-} as const satisfies ComputedProperty
+} as const satisfies Module
