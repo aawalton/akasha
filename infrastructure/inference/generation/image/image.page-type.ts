@@ -6,18 +6,23 @@ export const image = {
   slug: "image",
   definition: "one picture the system has",
   extends: ["page-type/page"],
+  parts: ["file-property/image-bytes"],
+  properties: [
+    {
+      pageProperty: "file-property/image-bytes",
+      required: true,
+      many: false,
+      uncommitted: true,
+    },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An image's bytes sit in the object store under the image's own id.",
+      statement: "An image carries its own bytes rather than a note of where those bytes are.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An image's bytes sit on disk where the image says those bytes were written.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An image records where its bytes are rather than the bytes.",
+      statement: "A page with no bytes beside it is no image.",
     },
     {
       decisionKind: "decision-kind/departure",
