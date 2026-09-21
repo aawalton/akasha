@@ -10,6 +10,8 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/router-app/modules/auth-footer/auth-footer.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/type/narrowing/modules/collapse/collapse.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/type/narrowing/modules/shape-core/shape-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.test.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"design/interface/badge/modules/button-badge/button-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"design/interface/badge/modules/input-badge/input-badge.module.code.tsx"}

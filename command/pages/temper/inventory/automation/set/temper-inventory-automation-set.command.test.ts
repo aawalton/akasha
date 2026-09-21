@@ -16,6 +16,7 @@ import {
 } from "akasha/command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts"
 import { temperInventoryAutomationSet as page } from "akasha/command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts"
 import type { AutomationSettings } from "akasha/temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const CALLED_AS = "akasha temper inventory automation set"
 

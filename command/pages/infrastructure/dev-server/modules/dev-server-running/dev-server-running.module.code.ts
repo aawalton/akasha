@@ -35,6 +35,7 @@ import {
   treeLaidDown,
   treeTakenAway,
 } from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TERM_POLL_MS = 100
 

@@ -19,6 +19,7 @@ import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts
 import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
 
 import { mobileSimType as page } from "akasha/command/pages/mobile/sim/type/mobile-sim-type.command.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const PIPED = "-"
 

@@ -17,6 +17,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 
 import { mobileSimTap as page } from "akasha/command/pages/mobile/sim/tap/mobile-sim-tap.command.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const BY_CSS = "css selector"
 

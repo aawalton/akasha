@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
+
 const ALLOWED_SECONDS = "maxWallSeconds"
 
 const SECONDS = 1000

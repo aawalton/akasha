@@ -89,6 +89,11 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"code/modules/armed-timer/armed-timer.module.test.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"code/process/modules/process-ending/process-ending.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"code/type/narrowing/modules/paced-queue/paced-queue.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"command/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/form/modules/search-multi-select/search-multi-select.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/layout/modules/loading-container/loading-container.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"}

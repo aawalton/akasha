@@ -22,6 +22,7 @@ import {
   type ToggleValue,
 } from "akasha/temper/items/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const SPACES = 2
 
