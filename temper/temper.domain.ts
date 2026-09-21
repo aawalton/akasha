@@ -11,7 +11,6 @@ export const temper = {
     "domain/temper-build-hash",
     "domain/temper-build-support",
     "domain/temper-catalog",
-    "domain/temper-character",
     "domain/temper-character-build",
     "domain/temper-character-skill",
     "domain/temper-character-skill-line",

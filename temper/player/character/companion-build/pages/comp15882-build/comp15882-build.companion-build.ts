@@ -1,0 +1,13 @@
+import type { CompanionBuild } from "akasha/temper/player/character/companion-build/companion-build.page-type.types.ts"
+
+export const comp15882Build = {
+  id: "01a06862-a02e-7e4e-987b-b39c16a46465",
+  type: "page-type/companion-build",
+  slug: "comp15882-build",
+  title: "Comp15882 Build",
+  buildHash: "AjEIJzHMcxzHMcxzExMTAzGzAAAAAAMI",
+  visibility: "private",
+  correlationId: "b5f45a19-ba1e-44e2-94ca-67cb16a46465",
+  targetCount: 3,
+  baseRoles: ["tank"],
+} as const satisfies CompanionBuild

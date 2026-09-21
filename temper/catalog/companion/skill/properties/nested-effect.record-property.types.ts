@@ -5,7 +5,7 @@ import type { EffectFormula } from "akasha/temper/catalog/companion/skill/proper
 import type { EffectStatus } from "akasha/temper/catalog/companion/skill/properties/effect-status.record-property.types.ts"
 import type { EffectTarget } from "akasha/temper/catalog/companion/skill/properties/effect-target.record-property.types.ts"
 import type { SkillEffectType } from "akasha/temper/catalog/companion/skill/properties/skill-effect-type.text-property.types.ts"
-import type { DamageType } from "akasha/temper/character/skill-activation/properties/damage-type.text-property.types.ts"
+import type { DamageType } from "akasha/temper/player/character/skill-activation/properties/damage-type.text-property.types.ts"
 
 export type NestedEffect = {
   type?: SkillEffectType

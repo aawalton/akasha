@@ -1,0 +1,8 @@
+import type { TemperSkillBar } from "akasha/temper/player/character/temper-skill-bar/temper-skill-bar.page-type.types.ts"
+
+export const primarySkillBar = {
+  id: "019e2fc4-3e94-7bfc-a0fd-8e710e9df56e",
+  type: "page-type/temper-skill-bar",
+  slug: "primary-skill-bar",
+  title: "Primary Bar",
+} as const satisfies TemperSkillBar

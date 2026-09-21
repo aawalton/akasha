@@ -116,9 +116,9 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/anchor-tier.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/read/properties/publication-status.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/wiki-entries/properties/wiki-kind.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/character/character-build/properties/build-visibility.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/character/companion-build/properties/base-roles.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/character/temper-player/properties/platform.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/character/temper-player/properties/server.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/character-build/properties/build-visibility.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/companion-build/properties/base-roles.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/temper-player/properties/platform.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/temper-player/properties/server.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/progress/temper-rule/properties/stock-scope.select-property.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

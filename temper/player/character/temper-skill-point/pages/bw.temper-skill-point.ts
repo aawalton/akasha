@@ -1,0 +1,12 @@
+import type { TemperSkillPoint } from "akasha/temper/player/character/temper-skill-point/temper-skill-point.page-type.types.ts"
+
+export const bw = {
+  id: "019e6471-1549-734c-bbd4-4ceb979e4243",
+  type: "page-type/temper-skill-point",
+  slug: "bw",
+  title: "Blackwood",
+  key: "BW",
+  category: "zone",
+  maxQuests: 3,
+  maxSkyshards: 18,
+} as const satisfies TemperSkillPoint

@@ -139,8 +139,8 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/turn-states.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/properties/prose.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-account/properties/data.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/temper-player/properties/settings.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/character/thing/properties/completion.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/eso/declaration/eso-opt-in-list/properties/tokens.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/data.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/temper-player/properties/settings.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/thing/properties/completion.file-property.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
