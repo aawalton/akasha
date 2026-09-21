@@ -190,14 +190,23 @@ export function placedIn(plan: Plan, manifest: Manifest): readonly string[] {
   return opensTheNamespace(manifest, workload) ? [] : ["-n", workload.namespace]
 }
 
-export function appliedOf(plan: Plan, manifest: Manifest): Matched {
-  const ran = runKubectlOn(
-    ["diff", "--server-side", "--force-conflicts", ...placedIn(plan, manifest), "-f", "-"],
-    manifest.yaml
-  )
+const NAMESPACE_NOT_YET_OPENED = /namespaces "[^"]+" not found/
+
+export function matchedOf(ran: Ran, manifest: Manifest): Matched {
   if (ran.code === 0) return { stands: true }
   if (ran.code === 1) return { stands: false }
+  if (NAMESPACE_NOT_YET_OPENED.test(ran.stderr)) return { stands: false }
   return { why: `kubectl diff for ${manifest.path} exited ${ran.code}: ${ran.stderr.trim()}` }
+}
+
+export function appliedOf(plan: Plan, manifest: Manifest): Matched {
+  return matchedOf(
+    runKubectlOn(
+      ["diff", "--server-side", "--force-conflicts", ...placedIn(plan, manifest), "-f", "-"],
+      manifest.yaml
+    ),
+    manifest
+  )
 }
 
 export function upAlready(workload: Workload): boolean {

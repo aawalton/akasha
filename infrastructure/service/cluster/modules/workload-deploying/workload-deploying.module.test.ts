@@ -11,6 +11,7 @@ import {
   inApplyOrder,
   type Kubectl,
   type Manifest,
+  matchedOf,
   namedIn,
   opensTheNamespace,
   placedIn,
@@ -127,6 +128,21 @@ test("what is asked whether a manifest matches is placed where the apply places 
   expect(placedIn(plan, manifest({}))).toEqual(["-n", "one"])
   const opening = manifest({ kind: "Namespace", resourceName: "one", namespace: null })
   expect(placedIn(plan, opening)).toEqual([])
+})
+
+test("a manifest asked about in a namespace not yet opened does not stand", () => {
+  const said = {
+    argv: [],
+    code: 2,
+    stdout: "",
+    stderr: 'Error from server (NotFound): namespaces "one" not found',
+  }
+  expect(matchedOf(said, manifest({}))).toEqual({ stands: false })
+})
+
+test("a diff that refused for any other reason refuses the deploy", () => {
+  const said = { argv: [], code: 2, stdout: "", stderr: "the server could not be reached" }
+  expect("why" in matchedOf(said, manifest({}))).toBe(true)
 })
 
 test("a workload carrying a pod template is waited on", () => {

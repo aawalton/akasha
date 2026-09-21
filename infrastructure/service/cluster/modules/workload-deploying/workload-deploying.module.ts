@@ -105,5 +105,10 @@ export const workloadDeploying = {
       decisionKind: "decision-kind/departure",
       statement: "A plan naming no workload is waited on by no rollout.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A manifest asked about in a namespace not yet opened is not yet applied, so a first deploy opens it.",
+    },
   ],
 } as const satisfies Module
