@@ -8,20 +8,12 @@ export const scrollableMenuConstantsCombobox = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Every multi-selection option is funnelled through one shared update function.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
       statement: "An option name absent from the mapping table is never applied.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The combobox default value for each field is declared alongside the mapping.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A negative maximum selection count is treated as no limit.",
     },
   ],
 } as const satisfies Module

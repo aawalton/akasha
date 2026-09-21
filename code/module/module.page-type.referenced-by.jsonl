@@ -5365,6 +5365,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lib-scrollable-menu/modules/scrollable-menu-combobox-class/scrollable-menu-combobox-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lib-scrollable-menu/modules/scrollable-menu-combobox-header/scrollable-menu-combobox-header.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lib-scrollable-menu/modules/scrollable-menu-combobox-options/scrollable-menu-combobox-options.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lib-scrollable-menu/modules/scrollable-menu-constants-combobox-callbacks/scrollable-menu-constants-combobox-callbacks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lib-scrollable-menu/modules/scrollable-menu-constants-combobox/scrollable-menu-constants-combobox.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lib-scrollable-menu/modules/scrollable-menu-constants-index/scrollable-menu-constants-index.module.ts"}
