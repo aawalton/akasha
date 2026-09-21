@@ -1,7 +1,6 @@
 {
   "safety": {
     "confirmActions": [
-      "sell",
       "destroy",
       "buy"
     ],
