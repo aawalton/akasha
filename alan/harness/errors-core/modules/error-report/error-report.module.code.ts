@@ -18,6 +18,7 @@ export const ErrorReportSchema = z
       "archive-of-worlds",
       "atlas",
       "smilingjenny",
+      "requests",
       "alanwalton-native",
     ]),
     url: z.string().max(2048),
