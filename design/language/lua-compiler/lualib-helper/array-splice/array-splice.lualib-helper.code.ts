@@ -1,4 +1,5 @@
 import { __TS__CountVarargs } from "akasha/design/language/lua-compiler/lualib-helper/count-varargs/count-varargs.lualib-helper.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 type LuaTableView<T> = LuaTable<number, T | undefined>
 function LuaTableView<T>(arr: unknown): LuaTableView<T> {

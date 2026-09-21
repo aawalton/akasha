@@ -18,6 +18,7 @@ import type {
 import type { SymbolInfo } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
 import type { ClassSuperInfo } from "akasha/design/language/lua-compiler/modules/visitors-class/visitors-class.module.code.ts"
 import type * as ts from "typescript"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface AllAccessorDeclarations {
   firstAccessor: ts.AccessorDeclaration

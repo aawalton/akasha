@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export function __TS__LuaIteratorSpread<TKey, TValue, TState>(
   this: (this: void, state: TState, key: TKey) => LuaMultiReturn<[TKey, TValue]>,
   state: TState,

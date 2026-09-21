@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function __TS__StringSubstring(this: string, start: number, end?: number): string {
   if (end !== end) end = 0
 

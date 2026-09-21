@@ -1,5 +1,7 @@
 import { __TS__ObjectGetOwnPropertyDescriptor } from "akasha/design/language/lua-compiler/lualib-helper/object-get-own-property-descriptor/object-get-own-property-descriptor.lualib-helper.code.ts"
 import { __TS__SetDescriptor } from "akasha/design/language/lua-compiler/lualib-helper/set-descriptor/set-descriptor.lualib-helper.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 export type LegacyDecorator<TTarget extends AnyTable, TKey extends keyof TTarget> = (
   target: TTarget,

@@ -1,4 +1,5 @@
 import { __TS__MathModf } from "akasha/design/language/lua-compiler/lualib-helper/math-modf/math-modf.lualib-helper.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const RADIX_CHARS = "0123456789abcdefghijklmnopqrstuvwxyz"
 

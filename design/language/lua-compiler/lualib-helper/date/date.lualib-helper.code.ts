@@ -1,5 +1,7 @@
 import { __TS__CivilFromDays } from "akasha/design/language/lua-compiler/lualib-helper/civil-from-days/civil-from-days.lualib-helper.code.ts"
 import { __TS__DaysFromCivil } from "akasha/design/language/lua-compiler/lualib-helper/days-from-civil/days-from-civil.lualib-helper.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 declare function GetTimeStamp(this: void): number
 declare function GetGameTimeMilliseconds(this: void): number

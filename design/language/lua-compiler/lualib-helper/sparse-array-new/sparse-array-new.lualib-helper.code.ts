@@ -1,4 +1,5 @@
 import { __TS__CountVarargs } from "akasha/design/language/lua-compiler/lualib-helper/count-varargs/count-varargs.lualib-helper.code.ts"
+import "akasha/design/language/lua-compiler/sparse-array/sparse-array.type-declaration.d.ts"
 
 function asSparseArray<T>(items: T[]): __TS__SparseArray<T> {
   return items as __TS__SparseArray<T>

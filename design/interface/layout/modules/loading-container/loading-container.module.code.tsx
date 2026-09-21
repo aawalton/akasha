@@ -1,6 +1,7 @@
 "use client"
 
 import { type ReactNode, useEffect, useState } from "react"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 type LoadingContainerProps = {
   loading: boolean

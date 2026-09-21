@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function __TS__TypeOf(this: void, value: unknown): string {
   const luaType = type(value)
   if (luaType === "table") {

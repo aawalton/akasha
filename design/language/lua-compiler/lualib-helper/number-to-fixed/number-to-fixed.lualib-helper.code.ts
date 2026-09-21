@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function __TS__NumberToFixed(this: number, fractionDigits?: number): string {
   if (Math.abs(this) >= 1e21 || this !== this) {
     return this.toString()

@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 const getmetatable = _G.getmetatable
 const rawget = _G.rawget
 

@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export function __TS__ArrayEvery<T>(
   this: T[],
   callbackfn: (value: T, index?: number, array?: any[]) => boolean,

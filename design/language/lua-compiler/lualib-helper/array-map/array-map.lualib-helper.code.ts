@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export function __TS__ArrayMap<T, U>(
   this: T[],
   callbackfn: (value: T, index?: number, array?: T[]) => U,

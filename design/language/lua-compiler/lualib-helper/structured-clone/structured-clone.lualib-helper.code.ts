@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function __TS__StructuredClone(this: void, value: any): any {
   return cloneInternal(value, new Map())
 }

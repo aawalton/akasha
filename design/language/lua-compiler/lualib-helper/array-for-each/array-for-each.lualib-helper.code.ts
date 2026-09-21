@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export function __TS__ArrayForEach<T>(
   this: T[],
   callbackFn: (value: T, index?: number, array?: any[]) => any,

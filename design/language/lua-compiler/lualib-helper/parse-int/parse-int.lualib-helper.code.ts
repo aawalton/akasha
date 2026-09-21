@@ -1,4 +1,5 @@
 import { __TS__Match } from "akasha/design/language/lua-compiler/lualib-helper/match/match.lualib-helper.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const PARSE_INT_BASE_PATTERN = "0123456789aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTvVwWxXyYzZ"
 

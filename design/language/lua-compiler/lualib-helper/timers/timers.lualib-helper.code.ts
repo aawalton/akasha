@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 function clampMs(this: void, ms: number): number {
   if (ms !== ms) return 0
   if (ms < 0) return 0

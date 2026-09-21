@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function __TS__StringCharCodeAt(this: string, index: number): number {
   if (index !== index) index = 0
   if (index < 0) return NaN

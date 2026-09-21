@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export function __TS__ArrayPushArray<T>(this: T[], items: T[]): number {
   let len = this.length
   for (const i of $range(1, items.length)) {

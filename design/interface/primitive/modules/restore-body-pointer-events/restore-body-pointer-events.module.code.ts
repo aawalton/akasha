@@ -1,3 +1,6 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+
 const OPEN_OVERLAY_SELECTOR = [
   '[data-slot="dialog-content"][data-state="open"]',
   '[data-slot="alert-dialog-content"][data-state="open"]',

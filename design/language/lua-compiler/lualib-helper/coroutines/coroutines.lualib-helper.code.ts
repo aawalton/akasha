@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 const coroutine = _G.coroutine ?? {}
 
 export const __TS__Coroutines = {

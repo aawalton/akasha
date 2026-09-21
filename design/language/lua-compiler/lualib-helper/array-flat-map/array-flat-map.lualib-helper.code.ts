@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 function isReadonlyArray<U>(value: U | readonly U[]): value is readonly U[] {
   return Array.isArray(value)
 }

@@ -1,4 +1,5 @@
 import { __TS__SetDescriptor } from "akasha/design/language/lua-compiler/lualib-helper/set-descriptor/set-descriptor.lualib-helper.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function __TS__ObjectDefineProperty<T extends object>(
   this: void,

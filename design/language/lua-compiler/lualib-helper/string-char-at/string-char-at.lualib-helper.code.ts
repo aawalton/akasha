@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function __TS__StringCharAt(this: string, pos: number): string {
   if (pos !== pos) pos = 0
   if (pos < 0) return ""

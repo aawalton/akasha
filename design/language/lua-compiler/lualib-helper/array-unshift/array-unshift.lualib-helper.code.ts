@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 export function __TS__ArrayUnshift<T>(this: T[], ...items: T[]): number {
   const numItemsToInsert = items.length
   if (numItemsToInsert === 0) return this.length

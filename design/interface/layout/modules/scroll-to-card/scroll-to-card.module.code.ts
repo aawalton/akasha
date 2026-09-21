@@ -1,3 +1,6 @@
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+
 function waitForScrollEnd(): Promise<void> {
   return new Promise((resolve) => {
     window.addEventListener("scrollend", () => resolve(), { once: true })

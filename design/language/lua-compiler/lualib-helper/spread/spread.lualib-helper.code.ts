@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 type ArrT<T> = T[]
 function asArrT<T>(value: unknown[]): ArrT<T> {
   return value as ArrT<T>

@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function __TS__StringSlice(this: string, start?: number, end?: number): string {
   if (start === undefined || start !== start) start = 0
   if (end !== end) end = 0

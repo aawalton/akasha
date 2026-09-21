@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 const SYMBOL_METATABLE = {
   __tostring(this: symbol): string {
     return `Symbol(${this.description ?? ""})`

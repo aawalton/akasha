@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function __TS__Number(this: void, value: unknown): number {
   if (typeof value === "number") {
     return value

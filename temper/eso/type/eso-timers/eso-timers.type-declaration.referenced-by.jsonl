@@ -22,6 +22,15 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"code/modules/armed-timer/armed-timer.module.test.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"code/process/modules/process-ending/process-ending.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"code/type/narrowing/modules/paced-queue/paced-queue.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/form/modules/search-multi-select/search-multi-select.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/layout/modules/loading-container/loading-container.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/pattern/modules/search-button/search-button.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/pattern/modules/use-scroll-restoration/use-scroll-restoration.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/primitive/modules/restore-body-pointer-events/restore-body-pointer-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/primitive/modules/use-debounced-callback/use-debounced-callback.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/primitive/modules/use-debounced-value/use-debounced-value.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/modules/ttc-listing-client/ttc-listing-client.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts"}

@@ -1,6 +1,7 @@
 import { __TS__CloneDescriptor } from "akasha/design/language/lua-compiler/lualib-helper/clone-descriptor/clone-descriptor.lualib-helper.code.ts"
 import { __TS__DescriptorGet } from "akasha/design/language/lua-compiler/lualib-helper/descriptor-get/descriptor-get.lualib-helper.code.ts"
 import { __TS__DescriptorSet } from "akasha/design/language/lua-compiler/lualib-helper/descriptor-set/descriptor-set.lualib-helper.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const getmetatable = _G.getmetatable
 

@@ -1,3 +1,6 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+
 const sub = string.sub
 const find = string.find
 export function __TS__StringSplit(

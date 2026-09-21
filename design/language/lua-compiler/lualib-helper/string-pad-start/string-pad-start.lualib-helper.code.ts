@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function __TS__StringPadStart(this: string, maxLength: number, fillString = " "): string {
   if (maxLength !== maxLength) maxLength = 0
   if (maxLength === -Infinity || maxLength === Infinity) {
