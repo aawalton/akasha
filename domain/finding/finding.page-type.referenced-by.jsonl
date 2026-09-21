@@ -134,7 +134,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/an-entry-shapes-row-type-is-written-by-hand-while-its-own-type-is-generated.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/an-error-page-renders-with-no-nonce-so-its-own-scripts-are-blocked.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/an-isolated-checkout-still-pushes-to-the-shared-remote.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/an-ln-onto-a-symlink-is-judged-through-the-link-rather-than-at-the-link.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/archivist-experiment-held-for-alan.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/asking-for-one-days-stretches-reads-every-days-stretches.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/audhd-provider-decision-open.finding.ts"}
