@@ -20,6 +20,7 @@ import {
   LOOPBACK,
   portFor,
 } from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const ROOT = rootOf(import.meta.dir)
 

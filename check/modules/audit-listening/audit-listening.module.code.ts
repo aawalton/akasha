@@ -4,6 +4,7 @@ import {
   portFor,
   SERVICE_PAGE_TYPE,
 } from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
+import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 
 export const SERVICE_SLUG = "audit-running"
 

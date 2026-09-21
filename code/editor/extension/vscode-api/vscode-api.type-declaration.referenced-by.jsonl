@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/modules/pull-to-refresh/pull-to-refresh.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/root.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/routes/_app-layout.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/layout/modules/balanced-columns/balanced-columns.module.code.tsx"}
