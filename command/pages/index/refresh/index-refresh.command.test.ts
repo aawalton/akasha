@@ -140,6 +140,8 @@ function headOf(root: string): string {
 
 const HELD_BY_GIT = ["status", "--porcelain"]
 
+const UNHELD_UNDER_INDEX = ["ls-files", "--others", "--exclude-standard", "--", indexNamed()]
+
 const TAKES = "is no argument `akasha index refresh` takes — it takes `--plan`"
 
 test("the word the namespace already carries is no argument this takes", () => {
@@ -377,4 +379,20 @@ test("an index file git ignores is written and left out of the commit", () => {
   expect(indexThere(root)).toBe(true)
   expect(git(root, ["ls-files", "--", indexNamed()])).toBe("")
   expect(git(root, ["ls-files", "--", "*.referenced-by.jsonl"])).not.toBe("")
+})
+
+test("an index file on disk that git does not hold is committed by the next refresh", () => {
+  const root = repoAt()
+  indexRefresh([], givenAt(root))
+  writeFileSync(
+    join(root, "b.domain.ts"),
+    bodyOf({ id: WORKTREE_ID, pageTypeSlug: "domain", slug: "b" })
+  )
+  git(root, ["add", "b.domain.ts"])
+  git(root, ["commit", "--quiet", "-m", "a page the index was told of outside a refresh"])
+  seeded(root)
+
+  expect(indexRefresh([], givenAt(root)).code).toBe(OK)
+
+  expect(git(root, UNHELD_UNDER_INDEX)).toBe("")
 })

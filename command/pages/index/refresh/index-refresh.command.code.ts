@@ -105,11 +105,21 @@ function pathOf(at: string): string {
   return referencesFiled(at) || carriedFiled(at) ? at : join(indexNamed(), at)
 }
 
+const UNHELD = ["ls-files", "--others", "--exclude-standard", "-z", "--"]
+
+const APART = "\0"
+
+function unheldUnder(root: string, folder: string): readonly string[] {
+  const said = gitTold(root, [...UNHELD, folder])
+  return said === null ? [] : said.split(APART).filter((one) => one !== "")
+}
+
 function landed(root: string, said: Refreshed): string | null {
   const drift = said.drift
   const took = new Set(drift.went.map(pathOf))
   const wrote = new Set([...drift.added, ...drift.changed].map(pathOf))
   for (const one of said.beside) wrote.add(one)
+  for (const one of unheldUnder(root, indexNamed())) wrote.add(one)
   const split = heldBack(
     root,
     [...wrote, ...took].map((path) => ({ path, body: null }))

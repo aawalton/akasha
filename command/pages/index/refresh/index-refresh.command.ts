@@ -112,6 +112,10 @@ export const indexRefresh = {
       decisionKind: "decision-kind/departure",
       statement: "A refresh that stopped part way is an operational fault.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refresh commits every path under the index that git does not hold yet.",
+    },
   ],
   name: "refresh",
   arguments: [{ argument: "argument/plan" }],
