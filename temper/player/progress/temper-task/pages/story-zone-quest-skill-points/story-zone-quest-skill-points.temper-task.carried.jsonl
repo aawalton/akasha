@@ -7,7 +7,7 @@
 {"priority":"p3"}
 {"rruleAnchorFromCompletion":false}
 {"rruleRule":"FREQ=DAILY"}
-{"scope":""}
+{"scope":"next_character"}
 {"slug":"story-zone-quest-skill-points"}
 {"title":"Story Zone Quest Skill Points"}
 {"type":"page-type/temper-task"}
