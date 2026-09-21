@@ -1,8 +1,6 @@
 import { asEventManagerLike } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import {
-  asLsmCastContextMenuObjectUndefined,
-  asLsmCastGetOptionsThisUnknownRecordStringUnknown,
-} from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
+import { asLsmCastContextMenuObjectUndefined } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
+import { asLsmCastGetOptionsThisUnknownRecordStringUnknown } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-1c/scrollable-menu-casts-1c.module.code.ts"
 import {
   asLsmCastHiddenForReasonsThisUnknownButtonIdUnknownBool,
   asLsmCastIsDropdownVisibleThisUnknownBoolean,

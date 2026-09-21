@@ -1,11 +1,10 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const scrollableMenuCasts1b = {
-  id: "01a06275-c443-74d3-95bf-8e3d22f7d594",
+export const scrollableMenuCasts1c = {
+  id: "01a0c508-3bf4-754f-bc51-3777ce7a959c",
   type: "page-type/module",
-  slug: "scrollable-menu-casts-1b",
-  definition:
-    "the narrowing helpers for shapes named from ContextMenuDropdown through FireCallbacks",
+  slug: "scrollable-menu-casts-1c",
+  definition: "the narrowing helpers for shapes named from GetAnimation through GetValue",
   code: "ts",
   decisions: [
     {
@@ -18,7 +17,7 @@ export const scrollableMenuCasts1b = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Membership of this half is decided by the alphabetical name of the target type.",
+      statement: "Membership of this part is decided by the alphabetical name of the target type.",
     },
     {
       decisionKind: "decision-kind/departure",
