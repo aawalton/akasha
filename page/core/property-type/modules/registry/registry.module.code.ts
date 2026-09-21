@@ -4,7 +4,7 @@ import { AGGREGATE_OPS } from "akasha/page/core/property-type/modules/aggregate/
 import { BOOLEAN_OPS } from "akasha/page/core/property-type/modules/boolean/boolean.module.code.ts"
 import { CALENDAR_TIME_OPS } from "akasha/page/core/property-type/modules/calendar-time/calendar-time.module.code.ts"
 import { DATE_OPS } from "akasha/page/core/property-type/modules/date/date.module.code.ts"
-import { FORMULA_OPS } from "akasha/page/core/property-type/modules/formula/formula.module.code.ts"
+
 import { INSTANT_OPS } from "akasha/page/core/property-type/modules/instant/instant.module.code.ts"
 import { JSON_OPS } from "akasha/page/core/property-type/modules/json/json.module.code.ts"
 import { MARKDOWN_OPS } from "akasha/page/core/property-type/modules/markdown/markdown.module.code.ts"
@@ -36,7 +36,7 @@ export const PROPERTY_TYPE_OPS_REGISTRY = {
   relation: RELATION_OPS,
   "multi-relation": MULTI_RELATION_OPS,
   aggregate: AGGREGATE_OPS,
-  formula: FORMULA_OPS,
+
   rrule: RRULE_OPS,
   progress: PROGRESS_OPS,
   "rich-document": RICH_DOCUMENT_OPS,

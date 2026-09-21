@@ -117,17 +117,6 @@ const NUMBER_SAMPLES: readonly BadgeSample[] = [
     value: 18450,
   },
   {
-    type: "formula",
-    property: {
-      id: "ds-property-formula",
-      title: "Share",
-      type: "formula",
-      drawnBy: ["formula-property", "number-property", "page-property", "domain", "page"],
-      config: { returnType: "number", format: "percent", percentBasis: 100, decimals: 1 },
-    },
-    value: 73.4,
-  },
-  {
     type: "progress",
     property: {
       id: "ds-property-progress",

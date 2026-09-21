@@ -122,12 +122,3 @@ export const aggregateConfigSchema = z.object({
   ...BADGE_ICON_FIELD,
   ...BADGE_VARIANT_FIELD,
 })
-
-export const formulaConfigSchema = z.object({
-  returnType: z.enum(["text", "number", "calendar-date", "boolean"]),
-  format: numberFormatEnum.optional(),
-  ...NUMBER_FORMAT_SURFACE_FIELDS,
-  ...BADGE_ICON_FIELD,
-  ...BADGE_VARIANT_FIELD,
-  live: z.boolean().optional(),
-})

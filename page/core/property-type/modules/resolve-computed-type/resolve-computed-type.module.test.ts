@@ -35,8 +35,6 @@ const NUMBER_DRAWN = ["number-property", FALLS_BACK_TO, "domain", "page"]
 
 const RELATION_DRAWN = ["relation-property", FALLS_BACK_TO, "domain", "page"]
 
-const FORMULA_DRAWN = ["formula-property", FALLS_BACK_TO, "domain", "page"]
-
 const AGGREGATE_DRAWN = ["aggregate-property", FALLS_BACK_TO, "domain", "page"]
 
 const ORDER = "page-type-order"
@@ -60,20 +58,6 @@ const ORDER_PROPERTIES: readonly PropertyDefinition[] = [
     type: "relation",
     drawnBy: RELATION_DRAWN,
     config: { targetPageTypeId: CUSTOMER },
-  },
-  {
-    id: "doubledCredit",
-    title: "Doubled Credit",
-    type: "formula",
-    drawnBy: FORMULA_DRAWN,
-    config: { returnType: "number", format: "number" },
-  },
-  {
-    id: "dueDay",
-    title: "Due Day",
-    type: "formula",
-    drawnBy: FORMULA_DRAWN,
-    config: { returnType: "calendar-date" },
   },
   {
     id: "creditSum",
@@ -103,15 +87,7 @@ test("the drawings read here are the ones beside the page types", () => {
   expect(DRAWINGS.has("number-property")).toBe(true)
   expect(DRAWINGS.has("relation-property")).toBe(true)
   expect(DRAWINGS.has(FALLS_BACK_TO)).toBe(true)
-  expect(DRAWINGS.has("formula-property")).toBe(false)
   expect(DRAWINGS.has("aggregate-property")).toBe(false)
-})
-
-test("a formula answering a number is drawn as a number", () => {
-  const one = resolved("doubledCredit")
-
-  expect(one.type).toBe("number")
-  expect(drawnAs(one)).toBe("number-property")
 })
 
 test("an aggregate is drawn as the number it works out", () => {
@@ -119,13 +95,6 @@ test("an aggregate is drawn as the number it works out", () => {
 
   expect(one.type).toBe("number")
   expect(drawnAs(one)).toBe("number-property")
-})
-
-test("a resolved type no property here carries a chain for keeps the chain it was declared by", () => {
-  const one = resolved("dueDay")
-
-  expect(one.type).toBe("calendar-date")
-  expect(one.drawnBy).toEqual(FORMULA_DRAWN)
 })
 
 test("a property that works nothing out is answered as it was handed in", () => {

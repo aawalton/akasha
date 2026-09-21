@@ -2037,7 +2037,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/date-sentinels/date-sentinels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/date/date.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/filter-utils/filter-utils.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/formula/formula.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/instant/instant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/json/json.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/markdown-shorthand/markdown-shorthand.module.ts"}

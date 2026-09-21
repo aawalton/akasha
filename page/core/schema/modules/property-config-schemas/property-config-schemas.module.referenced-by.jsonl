@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/aggregate-filter/aggregate-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/aggregate/aggregate.module.code.ts"}
-{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/formula/formula.module.code.ts"}
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/instant/instant.module.code.ts"}
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/multi-select-property/multi-select-property.module.code.ts"}
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/number/number.module.code.ts"}

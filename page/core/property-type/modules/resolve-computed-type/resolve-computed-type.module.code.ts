@@ -3,11 +3,7 @@ import type {
   PropertyDefinition,
   PropertyType,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import {
-  aggregateConfigSchema,
-  formulaConfigSchema,
-} from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
-import type * as z from "zod"
+import { aggregateConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 
 export function resolveComputedProperty(
   definition: PropertyDefinition,
@@ -19,27 +15,7 @@ export function resolveComputedProperty(
       config: resolveAggregateNumberConfig(definition),
     })
   }
-  if (definition.type === "formula") {
-    return resolveFormula(definition, propertiesByPageType)
-  }
   return definition
-}
-
-function resolveFormula(
-  definition: PropertyDefinition,
-  propertiesByPageType: PageTypePropertiesMap
-): PropertyDefinition {
-  const parsed = formulaConfigSchema.safeParse(definition.config)
-  if (!parsed.success) return definition
-  return synthesizeDefinition(definition, propertiesByPageType, {
-    type: parsed.data.returnType,
-    config: resolvedFormulaConfig(parsed.data),
-  })
-}
-
-function resolvedFormulaConfig(parsed: z.infer<typeof formulaConfigSchema>): ConfigValue {
-  const numberSurface = parsed.returnType === "number" ? numberFormatSurfaceConfig(parsed) : {}
-  return { ...numberSurface, ...badgeDisplayConfig(parsed) }
 }
 
 function resolveAggregateNumberConfig(definition: PropertyDefinition): ConfigValue {

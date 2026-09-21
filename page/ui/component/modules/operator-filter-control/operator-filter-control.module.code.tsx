@@ -308,7 +308,6 @@ function ValueInput({
       return <MultiRelationValueInput dimension={dimension} value={value} onChange={onChange} />
     case "boolean":
     case "aggregate":
-    case "formula":
     case "json":
     case "rrule":
     case "progress":

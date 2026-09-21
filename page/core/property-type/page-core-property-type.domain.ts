@@ -17,7 +17,6 @@ export const pageCorePropertyType = {
     "module/date",
     "module/date-sentinels",
     "module/filter-utils",
-    "module/formula",
     "module/instant",
     "module/json",
     "module/markdown",
