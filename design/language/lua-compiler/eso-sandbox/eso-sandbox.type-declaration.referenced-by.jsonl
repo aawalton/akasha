@@ -146,6 +146,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/ui/media/modules/page-media-player/page-media-player.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/url-property/url-property.page-type.property-badge-component.code.tsx"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"product/audhdalan/web/routes/audhdalan-safety-levels/audhdalan-safety-levels.route.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"product/smilingjenny/web/modules/jenny-shell/jenny-shell.module.code.tsx"}

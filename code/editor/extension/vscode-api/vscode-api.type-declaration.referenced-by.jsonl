@@ -101,6 +101,7 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/media/modules/playing-session-storage/playing-session-storage.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/modules/page-card-perf/page-card-perf.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/modules/view-callbacks/view-callbacks.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/archive-of-worlds/web/root.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/audhdalan/web/root.tsx"}
