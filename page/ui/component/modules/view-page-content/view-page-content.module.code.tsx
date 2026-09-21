@@ -1,6 +1,7 @@
 "use client"
 
 import { PageTitleBadges } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
+import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
 import { useLayoutSearchParams } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
@@ -205,7 +206,11 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
                   <span className="sr-only">Back</span>
                 </PagesUILink>
               )}
-              {editing ? <EditableTitle value={pageName} onSave={handleRename} /> : pageName}
+              {editing ? (
+                <EditableTitle value={pageName} onSave={handleRename} />
+              ) : (
+                <h1 className={PAGE_TITLE_CLASSES}>{pageName}</h1>
+              )}
               {}
               {activeViewConfig?.title_properties != null &&
                 activeViewConfig.title_properties.length > 0 && (
