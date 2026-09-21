@@ -66,25 +66,25 @@ async function bodiesFor(): Promise<ReadonlyMap<string, string>> {
   return held
 }
 
-async function panelsFor(named: readonly string[]): Promise<readonly Drawn[]> {
+async function panelsFor(named: readonly string[]): Promise<readonly Shown[]> {
   const slugs = slugsIn(named)
   if (slugs.length === 0) return []
   offerDrawing()
   const bodies = await bodiesFor()
-  const held: Drawn[] = []
+  const held: Shown[] = []
   for (const slug of slugs) {
     const body = bodies.get(slug)
     if (body === undefined) continue
     const drawn = await drawnFrom(body)
-    if (drawn !== null) held.push(drawn)
+    if (drawn !== null) held.push({ slug, drawn })
   }
   return held
 }
 
-const NONE: readonly Drawn[] = []
+const NONE: readonly Shown[] = []
 
-export function usePanelsDrawn(named: readonly string[]): readonly Drawn[] {
-  const [held, setHeld] = useState<readonly Drawn[]>(NONE)
+export function usePanelsDrawn(named: readonly string[]): readonly Shown[] {
+  const [held, setHeld] = useState<readonly Shown[]>(NONE)
   const keyed = named.join(" ")
 
   useEffect(() => {
