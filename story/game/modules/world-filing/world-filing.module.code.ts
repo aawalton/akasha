@@ -4,6 +4,7 @@ import { gameEncounter } from "akasha/story/game/encounter/game-encounter.page-t
 import { gameEntity } from "akasha/story/game/entity/game-entity.page-type.ts"
 import {
   entityFiled,
+  sheetIn,
   slugFor,
   someOf,
 } from "akasha/story/game/entity/modules/entity-filing/entity-filing.module.code.ts"
@@ -27,6 +28,7 @@ const CONDITIONS = ["light", "water"] as const
 const UNNAMED = "unnamed"
 const NOTES = ["designerNotes"]
 const DEPTH = "floor"
+const PLACES: ReadonlySet<string> = new Set([DEPTH, "location", "room", "area"])
 
 const LOCATION_KEYS = [
   "title",
@@ -136,8 +138,12 @@ export function metFiled(where: Where, at: string, one: Record<string, unknown>)
   })
 }
 
+export function namedIn(row: Record<string, unknown>): string {
+  return saidIn(row["external-id"]) ?? saidIn(row["externalId"]) ?? saidIn(row["id"]) ?? UNNAMED
+}
+
 export function placesFiled(where: Where, row: Record<string, unknown>): Placed {
-  const named = saidIn(row["external-id"]) ?? saidIn(row["externalId"]) ?? UNNAMED
+  const named = namedIn(row)
   const at = slugFor(where.slug, named)
   const within = namedAs(gameLocation.slug, at, null)
   const depth = countIn(row[DEPTH])
@@ -156,4 +162,34 @@ export function placesFiled(where: Where, row: Record<string, unknown>): Placed 
     found.push(one.answered)
   }
   return { answered: found }
+}
+
+export function placeLike(row: Record<string, unknown>): boolean {
+  const held = sheetIn(row)
+  const kind = saidIn(held["kind"])?.toLowerCase()
+  if (kind !== undefined && PLACES.has(kind)) return true
+  return Array.isArray(held["rooms"]) || Array.isArray(held["encounters"])
+}
+
+export function rowFiled(where: Where, row: Record<string, unknown>): Placed {
+  if (placeLike(row)) return placesFiled(where, row)
+  const one = entityFiled(where, namedIn(row), row)
+  return "refused" in one ? one : { answered: [one.answered] }
+}
+
+export function dedupedOf(found: readonly Filed[]): readonly Filed[] {
+  const held = new Map<string, Filed>()
+  for (const one of found) held.set(one.at, one)
+  return [...held.values()]
+}
+
+export function everyFiled(where: Where, rows: readonly unknown[]): Placed {
+  const found: Filed[] = []
+  for (const row of rows) {
+    if (!isRecord(row)) continue
+    const placed = rowFiled(where, row)
+    if ("refused" in placed) return placed
+    found.push(...placed.answered)
+  }
+  return { answered: dedupedOf(found) }
 }

@@ -32,5 +32,9 @@ export const worldFiling = {
       decisionKind: "decision-kind/gap",
       statement: "The gates an encounter reads a strike through come off its prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row holding rooms or encounters is a place, whatever kind it says it is.",
+    },
   ],
 } as const satisfies Module

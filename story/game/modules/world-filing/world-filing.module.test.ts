@@ -4,6 +4,7 @@ import { game } from "akasha/story/game/game.page-type.ts"
 import type { Where } from "akasha/story/game/modules/row-reading/row-reading.module.code.ts"
 import {
   conditionsIn,
+  everyFiled,
   exitsIn,
   placesFiled,
   thingsIn,
@@ -108,4 +109,29 @@ test("the place itself is inside nothing and carries the theme", () => {
   expect(place?.body).toContain('title: "The Threshold"')
   expect(place?.body).toContain("A cold stone landing")
   expect(place?.body).not.toContain("within")
+})
+
+test("a row whose kind is a place becomes a place, and any other row an entity", () => {
+  const placed = everyFiled(WHERE, [{ externalId: "alan", kind: "player" }, ROW])
+  if ("refused" in placed) throw new Error(placed.refused)
+  expect(placed.answered.map((one) => one.at)).toEqual([
+    "story/game/pages/the-tower/entities/the-tower-alan.game-entity.ts",
+    "story/game/pages/the-tower/locations/the-tower-floor-01.game-location.ts",
+    "story/game/pages/the-tower/locations/the-tower-threshold-landing.game-location.ts",
+    "story/game/pages/the-tower/encounters/the-tower-ashling-01.game-encounter.ts",
+    "story/game/pages/the-tower/entities/the-tower-ashling-01.game-entity.ts",
+  ])
+})
+
+test("a place written twice is written once, as the later row has it", () => {
+  const placed = everyFiled(WHERE, [ROW, { ...ROW, name: "The Second Threshold" }])
+  if ("refused" in placed) throw new Error(placed.refused)
+  expect(placed.answered).toHaveLength(4)
+  expect(placed.answered[0]?.body).toContain("The Second Threshold")
+})
+
+test("a kind the sheet holds rather than the row still says what the row is", () => {
+  const placed = everyFiled(WHERE, [{ externalId: "floor-09", sheet: { kind: "floor" } }])
+  if ("refused" in placed) throw new Error(placed.refused)
+  expect(placed.answered[0]?.at).toContain("locations/the-tower-floor-09")
 })
