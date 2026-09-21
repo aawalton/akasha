@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"page/view/properties/view-sorts.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"person/access/properties/person-access-narrow.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-backing.record-property.ts"}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/entity/properties/attribute-scores.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/effect-conditions.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.ts"}

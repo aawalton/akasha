@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A score names the attribute page rather than a word off the sheet."},{"decisionKind":"decision-kind/absence","statement":"No entity scores an attribute its game does not name."}]}
+{"definition":"what an entity has in each attribute its game names"}
+{"id":"01a0c634-be95-7a9e-b319-f4550a71ad2a"}
+{"properties":[{"pageProperty":"relation-property/scored-attribute","required":true,"many":false},{"pageProperty":"number-property/attribute-score","required":true,"many":false}]}
+{"propertySlug":"attributes"}
+{"slug":"attribute-scores"}
+{"type":"page-type/record-property"}
+{"types":"ts"}

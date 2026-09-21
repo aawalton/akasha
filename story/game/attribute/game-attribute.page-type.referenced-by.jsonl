@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/vitality.game-attribute.ts"}
 {"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/attribute/pages/will.game-attribute.ts"}
 {"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
+{"propertySlug":"target-page-type","path":"story/game/entity/properties/scored-attribute.relation-property.ts","id":"01a0c634-90e3-71d8-b791-bc240838dd53"}
 {"propertySlug":"target-page-type","path":"story/game/properties/game-attributes.relation-property.ts","id":"01a0c48b-86e0-7f2b-8243-18250c6f5d6d"}

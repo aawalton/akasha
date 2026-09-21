@@ -1,0 +1,8 @@
+{"definition":"what an entity has in one attribute"}
+{"id":"01a0c634-a49e-7412-a635-6e4fb133fa16"}
+{"max":null}
+{"nullable":false}
+{"propertySlug":"score"}
+{"slug":"attribute-score"}
+{"type":"page-type/number-property"}
+{"types":"ts"}

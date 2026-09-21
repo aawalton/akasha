@@ -13,6 +13,12 @@ export const gameEntity = {
     { pageProperty: "text-property/entity-kind", required: true, many: false },
     { pageProperty: "text-property/entity-class", required: false, many: false },
     { pageProperty: "number-property/entity-level", required: false, many: false },
+    {
+      pageProperty: "record-property/attribute-scores",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -39,5 +45,8 @@ export const gameEntity = {
     "text-property/entity-kind",
     "text-property/entity-class",
     "number-property/entity-level",
+    "relation-property/scored-attribute",
+    "number-property/attribute-score",
+    "record-property/attribute-scores",
   ],
 } as const satisfies PageType
