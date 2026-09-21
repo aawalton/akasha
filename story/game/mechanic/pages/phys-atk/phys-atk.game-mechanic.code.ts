@@ -1,4 +1,5 @@
 import {
+  type Reading,
   type Summed,
   summed,
   type Term,
@@ -10,8 +11,6 @@ const TERMS: readonly Term[] = [
   { of: "weapon.atk", by: 1 },
 ]
 
-export type Asking = { readonly held: Readonly<Record<string, number>> }
-
-export function runMechanic(asking: Asking): Summed {
-  return summed({ terms: TERMS, constant: 0, rounding: "none", held: asking.held })
+export function runMechanic(reading: Reading): Summed {
+  return summed({ terms: TERMS, constant: 0, rounding: "none", held: reading.held })
 }
