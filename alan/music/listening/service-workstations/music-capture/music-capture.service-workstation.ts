@@ -4,7 +4,7 @@ export const musicCapture = {
   id: "01a0c48f-9abd-747d-802b-08b86404c189",
   type: "page-type/service-workstation",
   slug: "music-capture",
-  definition: "the service filing every play Alan finished onto the day of that play",
+  definition: "the service carrying every play Alan finished into the pages that keep it",
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -29,6 +29,14 @@ export const musicCapture = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A run that filed nothing new is a run that succeeded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run files the plays and then carries each play onto the track played.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run that filed no play carries the tracks a sweep filed since the last run.",
     },
   ],
 } as const satisfies ServiceWorkstation
