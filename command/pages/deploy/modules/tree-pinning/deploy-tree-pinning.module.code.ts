@@ -16,7 +16,8 @@ export function saidOfNoTree(kind: string, why: string): string {
 }
 
 function movedTree(at: string, commit: string): boolean {
-  return told(at, ["reset", "--hard", commit]) !== null
+  if (told(at, ["reset", "--hard", commit]) === null) return false
+  return told(at, ["clean", "-fd"]) !== null
 }
 
 function madeTree(root: string, at: string, commit: string): boolean {

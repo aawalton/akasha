@@ -26,7 +26,19 @@ export const deployTreePinning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file git does not track is left where it is when the tree moves.",
+      statement: "A file git does not track goes when the tree moves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tree holds what its commit holds and nothing beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file git ignores is left, so what a build wrote there survives the move.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An index answer at a path the commit does not name goes rather than being read.",
     },
     {
       decisionKind: "decision-kind/departure",

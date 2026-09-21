@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
@@ -69,14 +69,32 @@ test("pinning again moves the tree to the second commit", () => {
   }
 })
 
-test("a file git does not track is left where it is when the tree moves", () => {
+test("a file git does not track goes when the tree moves", () => {
   const repo = madeRepo()
   try {
     const first = pinnedTree(repo.root, KIND, committed(repo.root, "first"))
     if (!("at" in first)) throw new Error("the first pinning refused")
-    writeFileSync(join(first.at, "kept.txt"), "mine")
+    writeFileSync(join(first.at, "stale.txt"), "mine")
+    mkdirSync(join(first.at, "gone"), { recursive: true })
+    writeFileSync(join(first.at, "gone", "answer.jsonl"), "{}\n")
     pinnedTree(repo.root, KIND, committed(repo.root, "second"))
-    expect(existsSync(join(first.at, "kept.txt"))).toBe(true)
+    expect(existsSync(join(first.at, "stale.txt"))).toBe(false)
+    expect(existsSync(join(first.at, "gone"))).toBe(false)
+  } finally {
+    repo.cleanup()
+  }
+})
+
+test("a file git ignores is left where it is when the tree moves", () => {
+  const repo = madeRepo()
+  try {
+    writeFileSync(join(repo.root, ".gitignore"), "built/\n")
+    const first = pinnedTree(repo.root, KIND, committed(repo.root, "first"))
+    if (!("at" in first)) throw new Error("the first pinning refused")
+    mkdirSync(join(first.at, "built"), { recursive: true })
+    writeFileSync(join(first.at, "built", "out.js"), "mine")
+    pinnedTree(repo.root, KIND, committed(repo.root, "second"))
+    expect(readFileSync(join(first.at, "built", "out.js"), "utf8")).toBe("mine")
   } finally {
     repo.cleanup()
   }
