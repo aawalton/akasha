@@ -30,8 +30,15 @@ const COUNTS = {
   unheard: 3,
 }
 
-function spotifyId(said: string): { readonly externalIdentity: readonly unknown[] } {
-  return { externalIdentity: [{ source: "spotify", externalId: said }] }
+function carriedWith(
+  releaseSlug: string,
+  ...ids: readonly string[]
+): { readonly carriedBy: readonly unknown[] } {
+  return { carriedBy: ids.map((one) => ({ release: `release/${releaseSlug}`, externalId: one })) }
+}
+
+function spotifyId(said: string): { readonly carriedBy: readonly unknown[] } {
+  return carriedWith("sylvia-daley-elf", said)
 }
 
 test("a track names the release carrying it", () => {
@@ -51,6 +58,17 @@ test("a track the heard music page names is a track Alan heard", () => {
   expect(heardBy({ ...ON_ELF, ...spotifyId("5CziXblfbYNLB4dELQrgq4") }, FINISHED, HEARD)).toBe(
     "listening"
   )
+})
+
+test("a track the listening names under any release carrying it is a track Alan heard", () => {
+  const value = {
+    ...ON_ELF,
+    carriedBy: [
+      ...carriedWith("sylvia-daley-elf", "0000000000000000000000").carriedBy,
+      ...carriedWith("sylvia-daley-pixie", "5CziXblfbYNLB4dELQrgq4").carriedBy,
+    ],
+  }
+  expect(heardBy(value, new Set(), HEARD)).toBe("listening")
 })
 
 test("a track on an unfinished release the listening never named is unheard", () => {

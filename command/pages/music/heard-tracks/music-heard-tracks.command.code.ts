@@ -1,4 +1,3 @@
-import { idFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import { composedEdit } from "akasha/change/modules/page-editing/page-editing.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
@@ -18,6 +17,7 @@ import { filedIn } from "akasha/command/pages/music/capture/music-capture.comman
 import { musicHeardTracks as page } from "akasha/command/pages/music/heard-tracks/music-heard-tracks.command.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
+  recordsIn,
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -27,9 +27,9 @@ const TRACK = "track"
 
 const RELEASE = "release"
 
-const SPOTIFY = "spotify"
+const CARRIED_BY = "carriedBy"
 
-const IDENTITY = "externalIdentity"
+const EXTERNAL_ID = "externalId"
 
 const PART_OF = "partOfCollections"
 
@@ -70,6 +70,15 @@ export function releaseOf(value: Value): string | null {
   return null
 }
 
+export function carriedIdsIn(value: Value): readonly string[] {
+  const held: string[] = []
+  for (const one of recordsIn(value[CARRIED_BY])) {
+    const said = textIn(one, EXTERNAL_ID)
+    if (said !== null) held.push(said)
+  }
+  return held
+}
+
 export function heardBy(
   value: Value,
   finished: ReadonlySet<string>,
@@ -77,8 +86,7 @@ export function heardBy(
 ): Heard {
   const release = releaseOf(value)
   if (release !== null && finished.has(release)) return RELEASE
-  const said = idFrom(value[IDENTITY], SPOTIFY)
-  return said !== null && heardIds.has(said) ? "listening" : null
+  return carriedIdsIn(value).some((one) => heardIds.has(one)) ? "listening" : null
 }
 
 export function finishedReleasesIn(root: string): ReadonlySet<string> {
