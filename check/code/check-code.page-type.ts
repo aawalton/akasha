@@ -27,7 +27,6 @@ export const checkCode = {
     "check-code/global-declared-once",
     "check-code/global-is-set-before-it-is-read",
     "check-code/hand-written-global-is-no-method",
-    "check-code/held-addon-names-a-roster-addon",
     "check-code/id-is-a-uuid-version-7",
     "check-code/identifier-matches-its-place",
     "check-code/identifier-names-one-page",
