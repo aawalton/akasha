@@ -6,6 +6,7 @@ export const visibleProperties = {
   slug: "visible-properties",
   propertySlug: "visible-properties",
   definition: "the properties a view draws",
+  namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,
   decisions: [

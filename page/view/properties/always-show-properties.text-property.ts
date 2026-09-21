@@ -6,6 +6,7 @@ export const alwaysShowProperties = {
   slug: "always-show-properties",
   propertySlug: "always-show-properties",
   definition: "the properties a view draws even where a page has no value for them",
+  namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,
   types: "ts",

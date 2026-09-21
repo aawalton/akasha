@@ -2,6 +2,7 @@
 {"id":"01a0680d-4d00-700c-a856-2e9f4b7d410d"}
 {"maxLength":100}
 {"nameFormat":null}
+{"namesAPropertyKey":true}
 {"propertySlug":"hidden-properties-order"}
 {"slug":"hidden-properties-order"}
 {"type":"page-type/text-property"}

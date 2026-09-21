@@ -6,6 +6,7 @@ export const sortKey = {
   slug: "sort-key",
   propertySlug: "key",
   definition: "a property a view orders its pages by",
+  namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,
   types: "ts",

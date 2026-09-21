@@ -6,6 +6,7 @@ export const hiddenPropertiesOrder = {
   slug: "hidden-properties-order",
   propertySlug: "hidden-properties-order",
   definition: "the properties a view hides, in the order a person would reach them",
+  namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,
   types: "ts",

@@ -6,6 +6,7 @@ export const galleryCoverSource = {
   slug: "gallery-cover-source",
   propertySlug: "gallery-cover-source",
   definition: "the property a gallery takes its picture from",
+  namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,
   types: "ts",

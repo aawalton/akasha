@@ -6,6 +6,7 @@ export const groupBy = {
   slug: "group-by",
   propertySlug: "group-by",
   definition: "the property a view gathers its pages under",
+  namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,
   types: "ts",
