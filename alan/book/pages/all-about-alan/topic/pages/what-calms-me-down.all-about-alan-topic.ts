@@ -9,5 +9,5 @@ export const whatCalmsMeDown = {
   parents: ["all-about-alan-topic/resources"],
   related: ["all-about-alan-topic/how-safety-climbs"],
   settled:
-    "The bath, slow breathing and hard exercise all seem to work by the same shift.\n\nAnything built on a felt sense, or on picturing something, has nothing in me to work with. What is left goes at the nerve directly, or through structure, ritual and the room.",
+    "The bath, slow breathing and hard exercise all seem to work by the same shift.\n\nAnything built on a felt sense, or on picturing something, has nothing in me to work with. What is left goes at the nerve directly, or through structure, ritual and the room.\n\nAt the nerve means acting on the settling system mechanically, electrically or chemically, with nothing for me to notice or decode on the way.\n\nThrough structure means concrete evidence I can check: that the threat is held, or that I am working in the world.\n\nThrough the room means a routine that runs predictably, a say in how things come out, and being able to check that nothing is signalling a threat. My house and my street are the layer that does this.",
 } as const satisfies AllAboutAlanTopic
