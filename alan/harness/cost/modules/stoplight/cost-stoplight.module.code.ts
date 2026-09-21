@@ -5,9 +5,11 @@ import {
   inPlaceOrder,
   type ReadingHeld,
   type Stoplight,
+  type Stoplighted,
   stilled,
   stoplightOf,
   type Values,
+  wireKeyed,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import { stated } from "akasha/alan/harness/readout/modules/none-left/readout-none-left.module.code.ts"
 import {
@@ -33,7 +35,7 @@ const SURPLUS_READOUT = "upkeep-surplus"
 const NO_FIGURE = ""
 
 type SurplusNow = {
-  readonly stoplight: Stoplight | null
+  readonly stoplight: Stoplighted | null
   readonly hours: number | null
 }
 
@@ -62,7 +64,7 @@ function costStoplightWith(
   row: Values,
   surplus: SurplusNow | null,
   readingHeld: ReadingHeld = readingHeldOn
-): Stoplight | null {
+): Stoplighted | null {
   const label = stated(row.label)
   const wireKey = stated(row.wireKey)
   if (label === undefined || wireKey === undefined) return null
@@ -70,7 +72,7 @@ function costStoplightWith(
   const reading = readingHeld(row)
   if (reading.held !== "fresh") {
     return {
-      habit: wireKey,
+      ...wireKeyed(HABIT, wireKey),
       label,
       tier: BELOW_EVERY_RUNG,
       reading: NO_FIGURE,
@@ -79,7 +81,7 @@ function costStoplightWith(
   }
 
   return {
-    habit: wireKey,
+    ...wireKeyed(HABIT, wireKey),
     label,
     tier: costColorAt(reading.value, surplus?.hours ?? null),
     reading: readingSaid(reading.value),
@@ -89,7 +91,7 @@ function costStoplightWith(
 
 export async function costStoplights(
   readingHeld: ReadingHeld = readingHeldOn
-): Promise<readonly Stoplight[]> {
+): Promise<readonly Stoplighted[]> {
   const asked = await askingFor({
     pageTypeSlug: READOUT,
     where: { groups: { has: COST_GROUP } },
@@ -98,7 +100,7 @@ export async function costStoplights(
 
   const surplus = await surplusNow(readingHeld)
 
-  const stoplights: Stoplight[] = []
+  const stoplights: Stoplighted[] = []
   for (const row of inPlaceOrder(asked.rows)) {
     if (stilled(row)) continue
     const one = costStoplightWith(row, surplus, readingHeld)

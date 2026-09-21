@@ -35,7 +35,6 @@ const NO_FIGURE = ""
 export type ReadingUnheld = "none"
 
 export type Stoplight = {
-  readonly habit?: string
   readonly label: string
   readonly tier: TierColor
   readonly reading: string
@@ -48,6 +47,8 @@ export type Stoplight = {
   readonly rungs?: readonly Rung[]
   readonly coloredWith?: Stoplight
 }
+
+export type Stoplighted = Stoplight & Readonly<Record<string, unknown>>
 
 export type Values = Readonly<Record<string, unknown>>
 
@@ -62,7 +63,7 @@ function scaleSlugIn(row: Values): string | undefined {
   return held === undefined ? undefined : slugOf(held)
 }
 
-function wireKeyed(wireKeyName: string, wireKey: string): Pick<Stoplight, "habit"> {
+export function wireKeyed(wireKeyName: string, wireKey: string): Readonly<Record<string, string>> {
   return { [wireKeyName]: wireKey }
 }
 
@@ -96,7 +97,7 @@ export function stoplightWith(
   rungs: readonly Rung[],
   wireKeyName: string = HABIT,
   readingHeld: ReadingHeld = readingHeldOn
-): Stoplight | null {
+): Stoplighted | null {
   const slug = stated(row.slug)
   const label = stated(row.label)
   const scaleSlug = scaleSlugIn(row)
@@ -135,7 +136,7 @@ export async function stoplightOf(
   wireKeyName: string = HABIT,
   readingHeld: ReadingHeld = readingHeldOn,
   fetcher?: Fetcher
-): Promise<Stoplight | null> {
+): Promise<Stoplighted | null> {
   const scaleSlug = scaleSlugIn(row)
   if (scaleSlug === undefined) return null
   const reading = readingHeld(row)
@@ -165,7 +166,7 @@ export async function stoplightsInGroup(
   wireKeyName: string = HABIT,
   readingHeld: ReadingHeld = readingHeldOn,
   fetcher?: Fetcher
-): Promise<readonly Stoplight[]> {
+): Promise<readonly Stoplighted[]> {
   const asked = await askingFor(
     {
       pageTypeSlug: READOUT,
@@ -177,7 +178,7 @@ export async function stoplightsInGroup(
 
   const figureOffScale = await figureOffScaleOf(groupSlug, fetcher)
 
-  const stoplights: Stoplight[] = []
+  const stoplights: Stoplighted[] = []
   for (const row of inPlaceOrder(asked.rows)) {
     if (stilled(row)) continue
     const one = await stoplightOf(row, wireKeyName, readingHeld, fetcher)

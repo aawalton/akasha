@@ -2,7 +2,7 @@ import { expect } from "bun:test"
 import { RING_CREDENTIAL_HEADER } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   answerStoplightsAdmittedBy,
-  type Stoplight,
+  type Stoplighted,
   stoplightsInGroup,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import { readingValues } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
@@ -163,8 +163,8 @@ export function storeGoes(store: ReturnType<typeof Bun.serve>): undefined {
   return undefined
 }
 
-export function figureOffScaleOn(one: Stoplight | undefined): unknown {
-  return (one as Record<string, unknown> | undefined)?.figureOffScale
+export function figureOffScaleOn(one: Stoplighted | undefined): unknown {
+  return one?.figureOffScale
 }
 
 export const WIRE_KEY_NAME = "a-key-named-only-in-this-test"
@@ -175,10 +175,10 @@ export function drawn(wireKeyName?: string): Promise<Response> {
   return answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP, wireKeyName)
 }
 
-export async function stoplights(): Promise<readonly Stoplight[]> {
+export async function stoplights(): Promise<readonly Stoplighted[]> {
   const answered = await drawn()
   expect(answered.status).toBe(200)
-  return ((await answered.json()) as { stoplights: readonly Stoplight[] }).stoplights
+  return ((await answered.json()) as { stoplights: readonly Stoplighted[] }).stoplights
 }
 
 export async function keysAnswered(wireKeyName?: string): Promise<readonly string[]> {
@@ -188,7 +188,7 @@ export async function keysAnswered(wireKeyName?: string): Promise<readonly strin
   return Object.keys(body.stoplights[0] ?? {})
 }
 
-export async function keysDrawn(): Promise<readonly (string | undefined)[]> {
+export async function keysDrawn(): Promise<readonly unknown[]> {
   return (await stoplights()).map((one) => one.habit)
 }
 
@@ -196,7 +196,7 @@ export async function oneDrawn(
   value: number,
   at: Date = new Date(),
   fallsPerHour?: number
-): Promise<Stoplight | undefined> {
+): Promise<Stoplighted | undefined> {
   relayedFor(READOUT, value, at, fallsPerHour)
   return (await stoplights())[0]
 }

@@ -7,7 +7,7 @@ import { cost as costGroup } from "akasha/alan/harness/readout/group/pages/cost/
 import { surplus as surplusGroup } from "akasha/alan/harness/readout/group/pages/surplus/surplus.readout-group.ts"
 import { upkeep as upkeepGroup } from "akasha/alan/harness/readout/group/pages/upkeep/upkeep.readout-group.ts"
 import { readoutGroup } from "akasha/alan/harness/readout/group/readout-group.page-type.ts"
-import type { Stoplight } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import type { Stoplighted } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   agedOut,
   readingsDropped,
@@ -77,10 +77,10 @@ beforeEach(() => {
 
 const drawn = () => answerCostAdmittedBy(new Request("http://a.test/"), () => null)
 
-async function oneDrawn(): Promise<Stoplight | undefined> {
+async function oneDrawn(): Promise<Stoplighted | undefined> {
   const answered = await drawn()
   expect(answered.status).toBe(200)
-  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
+  const body = (await answered.json()) as { stoplights: readonly Stoplighted[] }
   return body.stoplights[0]
 }
 

@@ -34,6 +34,10 @@ export const readoutGroupServing = {
       statement: "The key with the wire key is the key the caller names.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement: "The stoplight a caller is answered names no key of its own for the wire key.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A caller naming no key for the wire key has the wire key answered under habit.",
     },
