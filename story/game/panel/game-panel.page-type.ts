@@ -16,6 +16,7 @@ export const gamePanel = {
     "game-panel/story-so-far",
     "game-panel/aravel-hud",
     "module/panel-turning",
+    "file-property/drawn",
   ],
   decisions: [
     {
@@ -38,4 +39,5 @@ export const gamePanel = {
   types: "ts",
   schema: "jsonl",
   loadedExport: ["Panel"],
+  properties: [{ pageProperty: "file-property/drawn", required: false, many: false }],
 } as const satisfies PageType
