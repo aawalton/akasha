@@ -12,4 +12,9 @@
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-show/scrollable-menu-dropdown-class-show.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-util-entry/scrollable-menu-util-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/library/lib-shifter-box/modules/shifter-list-class/shifter-list-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/library/lib-shifter-box/modules/shifter-list-methods-rows/shifter-list-methods-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-packs/selector-packs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-search/selector-search.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library-filter/lorebooks-library-filter.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

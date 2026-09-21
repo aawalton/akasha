@@ -34,6 +34,12 @@ import {
   createSellFlow,
   type SellFlow,
 } from "akasha/temper/modules/guild-store-poster/guild-store-poster.module.code.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const DIFFERENT_QUALITY_ITEMTYPES: Record<number, true> = {
   [ITEMTYPE_GLYPH_ARMOR]: true,

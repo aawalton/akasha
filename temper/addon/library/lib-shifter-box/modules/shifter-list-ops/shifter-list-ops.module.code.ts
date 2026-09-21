@@ -14,6 +14,10 @@ import type {
   ShifterScrollList,
 } from "akasha/temper/addon/library/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"
 import { assertKeyIsNotInTable } from "akasha/temper/addon/library/lib-shifter-box/modules/shifter-validation/shifter-validation.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 function isEntriesThunk(value: unknown): value is (this: void) => unknown {
   return type(value) === "function"

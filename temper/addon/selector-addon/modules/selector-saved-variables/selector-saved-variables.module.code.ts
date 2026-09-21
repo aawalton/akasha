@@ -9,6 +9,11 @@ import type {
   SavedVariablesData,
   SelectedPackRef,
 } from "akasha/temper/addon/selector-addon/modules/selector-types/selector-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function buildDefaults(): SavedVariablesData {
   const packKeybinds: PackKeybind[] = []

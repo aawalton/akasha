@@ -10,6 +10,10 @@ import {
 } from "akasha/temper/addon/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { DRTV } from "akasha/temper/addon/navigation-addon/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getCharacterSavedVariables } from "akasha/temper/addon/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 
 export function addMiscCompassPins(this: void): undefined {
   if (GetMapType() >= MAPTYPE_WORLD) return

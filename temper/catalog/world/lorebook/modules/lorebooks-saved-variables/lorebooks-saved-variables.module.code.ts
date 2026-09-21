@@ -12,6 +12,7 @@ import {
   SAVEDVARIABLES_VERSION,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import type { LoreBooksSavedVars } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-types/lorebooks-types.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 export const DEFAULTS = {
   compassMaxDistance: 0.04,

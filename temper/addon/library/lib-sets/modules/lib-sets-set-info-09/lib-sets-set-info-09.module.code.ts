@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+
 export const LIB_SETS_SET_INFO_09: Record<number, Record<string, unknown>> = {
   [625]: {
     addTooltip: { en: "https://en.uesp.net/wiki/Online:Markyn_Ring_of_Majesty" },

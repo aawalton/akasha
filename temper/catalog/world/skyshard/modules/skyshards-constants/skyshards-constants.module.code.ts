@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+
 export const ADDON_NAME = "TemperSkyShards"
 export const SAVED_VARIABLES_NAME = "TemperSkyShards_SavedVariables"
 export const ADDON_VERSION = "10.64"

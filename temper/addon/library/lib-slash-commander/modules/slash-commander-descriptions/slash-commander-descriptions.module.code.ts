@@ -7,6 +7,12 @@ import {
 } from "akasha/temper/addon/library/lib-slash-commander/modules/slash-commander-messages/slash-commander-messages.module.code.ts"
 import { SLASH_COMMANDER } from "akasha/temper/addon/library/lib-slash-commander/modules/slash-commander-surface/slash-commander-surface.module.code.ts"
 import type { DescriptionValue } from "akasha/temper/addon/library/lib-slash-commander/modules/slash-commander-types/slash-commander-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-slash-commander/slash-commander-declarations/slash-commander-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 
 SLASH_COMMANDER.descriptions = {
   [GetString(SI_SLASH_SCRIPT)]: "Executes the specified text as Lua code",

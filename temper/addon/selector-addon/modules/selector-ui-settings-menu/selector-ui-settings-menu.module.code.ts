@@ -8,6 +8,8 @@ import {
   refreshPackDropdown,
 } from "akasha/temper/addon/selector-addon/modules/selector-ui-dropdown/selector-ui-dropdown.module.code.ts"
 import { setSettingsHandler } from "akasha/temper/addon/selector-addon/modules/selector-ui-layout/selector-ui-layout.module.code.ts"
+import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 type ToggleKey =
   | "showGlobalPacks"

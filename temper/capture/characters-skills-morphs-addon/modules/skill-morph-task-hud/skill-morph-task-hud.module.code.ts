@@ -16,6 +16,11 @@ import {
   type MorphSuggestionEntry,
   selectMorphSuggestions,
 } from "akasha/temper/player/skill-morph/modules/select-morph-suggestions/select-morph-suggestions.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 
 export type SkillMorphEnrichmentEntry = MorphSuggestionEntry
 

@@ -9,4 +9,8 @@
 {"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/library/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-debug-logger/scrollable-menu-debug-logger.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/log/modules/addon-log/addon-log.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/log/modules/library-logger/library-logger.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-logger/lost-treasure-logger.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/library-type/temper-addon-library-type.domain.ts","id":"01a06090-f5ac-7f47-be1b-dc303670f2ad"}

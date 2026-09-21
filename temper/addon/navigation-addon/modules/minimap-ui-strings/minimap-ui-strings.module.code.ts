@@ -1,3 +1,6 @@
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
 const STRINGS: Record<string, string> = {
   SI_KEYBINDINGS_CATEGORY_VOTANS_MINIMAP: "Mini Map",
   SI_BINDING_NAME_VOTANS_TOGGLE_MAP_SHOW: "Toggle Show Map",

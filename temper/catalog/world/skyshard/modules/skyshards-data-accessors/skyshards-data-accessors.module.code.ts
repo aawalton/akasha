@@ -1,5 +1,9 @@
 import { SKYSHARDS_DATA } from "akasha/temper/catalog/world/skyshard/modules/skyshards-data/skyshards-data.module.code.ts"
 import type { SkyshardPin } from "akasha/temper/catalog/world/skyshard/modules/skyshards-types/skyshards-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 
 const SKYSHARDS_ACHIEVEMENT_IDS: Record<number, boolean> = {
   [695]: true,

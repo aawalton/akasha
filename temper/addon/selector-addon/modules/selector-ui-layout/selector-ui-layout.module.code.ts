@@ -1,6 +1,13 @@
 import { ROOT_CONTROL_NAME } from "akasha/temper/addon/selector-addon/modules/selector-constants/selector-constants.module.code.ts"
 import { saveCurrentAsPack } from "akasha/temper/addon/selector-addon/modules/selector-packs/selector-packs.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/selector-addon/modules/selector-strings/selector-strings.module.code.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export interface SelectorControls {
   root: Control

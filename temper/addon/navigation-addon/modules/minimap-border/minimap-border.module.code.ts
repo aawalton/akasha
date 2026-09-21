@@ -8,6 +8,11 @@ import {
   getScene,
   noGamepad,
 } from "akasha/temper/addon/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
 holder.UpdateBorder = function (this: VotansMiniMap): undefined {
   const control = asMiniMapControl(this.background)

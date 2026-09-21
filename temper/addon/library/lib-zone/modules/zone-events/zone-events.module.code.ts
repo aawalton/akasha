@@ -7,6 +7,12 @@ import { LIB_NAME } from "akasha/temper/addon/library/lib-zone/modules/zone-cons
 import { checkMaxZoneIndicesAndIds } from "akasha/temper/addon/library/lib-zone/modules/zone-internal-helpers/zone-internal-helpers.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
 import type { SavedVarsTable } from "akasha/temper/addon/library/lib-zone/modules/zone-types/zone-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function librarySavedVariables(this: void): undefined {
   const info = lib.libraryInfo

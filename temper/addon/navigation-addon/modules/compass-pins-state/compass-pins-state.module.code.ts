@@ -1,5 +1,6 @@
 import { FOV } from "akasha/temper/addon/navigation-addon/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
 import type { CompassPinLayout } from "akasha/temper/addon/navigation-addon/modules/compass-pins-types/compass-pins-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 export const pinLayouts = new LuaTable<AnyNotNil, CompassPinLayout>()
 

@@ -12,6 +12,11 @@ import {
   getPinTypeId,
   STATE,
 } from "akasha/temper/addon/navigation-addon/modules/map-pins-state/map-pins-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
 
 const achievementsId: NumberMap = ACHIEVEMENTS_ID
 const skyShardsAchievements: IdSet = SKY_SHARDS_ACHIEVEMENTS

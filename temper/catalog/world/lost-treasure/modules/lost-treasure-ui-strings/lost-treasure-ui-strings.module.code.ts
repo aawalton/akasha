@@ -1,3 +1,9 @@
+import "akasha/temper/catalog/world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+
 export function registerUiStrings(this: void): undefined {
   const bugreportMessageLines = [
     "ARE YOU USING THE LATEST UPDATE OF LOST TREASURE?\nYour local version is %d; please compare your version with the ESOUI/Minion version first before submitting the report!",

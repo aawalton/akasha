@@ -8,6 +8,9 @@ import {
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-drop-mechanic-group-select/lib-sets-tip-drop-mechanic-group-select.module.code.ts"
 import { addZoneColor } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
 import { STATE } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 type StrTab = { [idx: number]: unknown }
 

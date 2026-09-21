@@ -1,6 +1,9 @@
 import type { TableKey } from "akasha/temper/addon/library/lib-table-functions/modules/table-function-casts/table-function-casts.module.code.ts"
 import { asMetatable } from "akasha/temper/addon/library/lib-table-functions/modules/table-function-casts/table-function-casts.module.code.ts"
 import type { Lib } from "akasha/temper/addon/library/lib-table-functions/modules/table-function-types/table-function-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const LIB_VERSION = 100
 

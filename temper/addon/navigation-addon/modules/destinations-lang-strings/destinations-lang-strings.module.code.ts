@@ -44,6 +44,8 @@ import { SETTINGS_STRINGS as SETTINGS_JP } from "akasha/temper/addon/navigation-
 import { SETTINGS_STRINGS as SETTINGS_PL } from "akasha/temper/addon/navigation-addon/modules/destinations-lang-settings-pl/destinations-lang-settings-pl.module.code.ts"
 import { SETTINGS_STRINGS as SETTINGS_RU } from "akasha/temper/addon/navigation-addon/modules/destinations-lang-settings-ru/destinations-lang-settings-ru.module.code.ts"
 import { SETTINGS_STRINGS as SETTINGS_ZH } from "akasha/temper/addon/navigation-addon/modules/destinations-lang-settings-zh/destinations-lang-settings-zh.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export interface CollectiblesData {
   CollectibleDataIndex: { KEY: number; NUMBER: number; NAME: number }

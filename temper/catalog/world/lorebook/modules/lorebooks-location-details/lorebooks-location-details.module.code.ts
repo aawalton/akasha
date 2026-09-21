@@ -1,3 +1,6 @@
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+
 export const LOCATION_DETAILS: Record<number, string> = {
   [1]: "Town",
   [2]: GetString(SI_INSTANCEDISPLAYTYPE7),

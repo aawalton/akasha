@@ -23,6 +23,11 @@ import type {
   ShifterBoxList,
   ShifterScrollList,
 } from "akasha/temper/addon/library/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 export function setMouseCursor(cursorName: number): undefined {
   WM.SetMouseCursor(cursorName)

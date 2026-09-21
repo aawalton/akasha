@@ -3,6 +3,8 @@ import {
   DEFAULTS,
   getSavedVariables,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
+import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 export function addImmersiveModeOptions(this: void, optionsTable: unknown[]): undefined {
   const immersiveChoices: readonly string[] = [

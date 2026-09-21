@@ -1,5 +1,9 @@
 import { getSettingsString } from "akasha/temper/addon/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { SetsTable } from "akasha/temper/addon/navigation-addon/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 export type SetDescription = [setHeader: string, setRequirement: string, setBonuses: string]
 

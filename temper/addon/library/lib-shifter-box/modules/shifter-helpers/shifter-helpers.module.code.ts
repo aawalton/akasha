@@ -11,6 +11,9 @@ import type {
   Valued,
 } from "akasha/temper/addon/library/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"
 import { isCallback } from "akasha/temper/addon/narrow/modules/is-callback/is-callback.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 export function getDeepClonedTable<T>(sourceTable: T | undefined): T | undefined {
   if (sourceTable === undefined) return undefined

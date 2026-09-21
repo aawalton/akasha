@@ -8,6 +8,8 @@ import type {
   LooseTable,
   MiniMapControl,
 } from "akasha/temper/addon/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 const ZONE_ALERT_MODE = {
   Always: "ALWAYS",

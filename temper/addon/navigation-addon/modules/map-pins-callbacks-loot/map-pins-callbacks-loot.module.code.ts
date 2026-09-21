@@ -30,6 +30,19 @@ import {
 } from "akasha/temper/addon/navigation-addon/modules/map-pins-state/map-pins-state.module.code.ts"
 import { UNKNOWN_POI } from "akasha/temper/addon/navigation-addon/modules/map-pins-unknown-poi/map-pins-unknown-poi.module.code.ts"
 import { UNKNOWN_POI_TEXTURE } from "akasha/temper/addon/navigation-addon/modules/map-pins-unknown-poi-texture/map-pins-unknown-poi-texture.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/bui/bui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 const lorebooks = asSubzonePinTable(LOREBOOKS)
 const chestDataTable = asSubzonePinTable(CHEST_DATA)

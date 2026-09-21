@@ -61,6 +61,7 @@ import {
   DEST_PIN_TINT_WWVAMP,
 } from "akasha/temper/addon/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 type SavedColorTable = number[]
 

@@ -8,6 +8,11 @@ import {
 import { MENU_STATE } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-settings-state/lib-sets-tip-settings-state.module.code.ts"
 import { STATE } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-misc-ids/lib-sets-misc-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-strings-2/eso-lib-sets-strings-2.type-declaration.d.ts"
 
 const lib = LibSets
 

@@ -5,6 +5,7 @@ import {
   listPacks,
   loadPack,
 } from "akasha/temper/addon/selector-addon/modules/selector-packs/selector-packs.module.code.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function tokenize(args: string): string[] {
   const tokens: string[] = []

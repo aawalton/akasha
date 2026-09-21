@@ -4,6 +4,10 @@ import {
   asDimsGetter,
 } from "akasha/temper/addon/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
 import type { LooseTable } from "akasha/temper/addon/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
 function roundGet(this: void, control: LooseTable, funcName: string): undefined {
   const org = asDimsGetter(control[funcName])

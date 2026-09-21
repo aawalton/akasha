@@ -4,6 +4,7 @@ import {
   asNumber,
 } from "akasha/temper/addon/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
 import { holder } from "akasha/temper/addon/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 
 const self = holder
 

@@ -15,6 +15,7 @@ import type {
   PinDef,
   PinTag,
 } from "akasha/temper/addon/navigation-addon/modules/map-pins-pin-types/map-pins-pin-types.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 type OptNumber = number | undefined
 type OptString = string | undefined

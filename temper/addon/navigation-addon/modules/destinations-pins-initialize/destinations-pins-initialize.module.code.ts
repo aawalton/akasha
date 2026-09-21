@@ -31,6 +31,8 @@ import {
   markSavedVarsInitialized,
 } from "akasha/temper/addon/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
 import { initSettings as InitSettings } from "akasha/temper/addon/navigation-addon/modules/destinations-settings-init/destinations-settings-init.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 export function initializeDestinations(): undefined {
   registerSettingsStrings()

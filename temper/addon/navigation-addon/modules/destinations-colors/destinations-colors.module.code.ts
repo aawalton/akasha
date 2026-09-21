@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+
 export const DEST_COLOR_YELLOW = ZO_ColorDef.New("FFFF00")
 export const DEST_COLOR_BROWN = ZO_ColorDef.New("A52A2A")
 export const DEST_COLOR_DARKGREEN = ZO_ColorDef.New("006400")

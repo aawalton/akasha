@@ -12,6 +12,9 @@ import type {
   MiniMapPinManager,
   MiniMapScene,
 } from "akasha/temper/addon/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
 
 export function asVotansMiniMap(value: unknown): VotansMiniMap {
   return value as VotansMiniMap

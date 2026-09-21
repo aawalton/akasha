@@ -4,6 +4,11 @@ import {
   applyTint,
   texturePathAt,
 } from "akasha/temper/addon/navigation-addon/modules/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/navigation-addon/destinations-preview-controls/destinations-preview-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export interface IconPreviews {
   unknownPoi: TextureControl

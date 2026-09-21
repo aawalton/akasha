@@ -1,4 +1,5 @@
 import { achievementName } from "akasha/temper/addon/navigation-addon/modules/destinations-data-runtime/destinations-data-runtime.module.code.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export const SETTINGS_STRINGS_02: Record<string, string> = {
   POITYPE_NOSEDIVER: zo_strformat(achievementName(406)),

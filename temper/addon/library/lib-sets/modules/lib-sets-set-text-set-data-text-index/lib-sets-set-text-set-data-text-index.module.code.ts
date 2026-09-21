@@ -5,6 +5,11 @@ import { collectSetTextFields } from "akasha/temper/addon/library/lib-sets/modul
 import { asSetInfoPartMap } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"
 import { applyCustomTooltipPattern } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-set-data-text-custom/lib-sets-tip-set-data-text-custom.module.code.ts"
 import { STATE } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const lib = LibSets
 

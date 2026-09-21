@@ -7,6 +7,7 @@ import {
   createSelectorControls,
   getControls,
 } from "akasha/temper/addon/selector-addon/modules/selector-ui-layout/selector-ui-layout.module.code.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const ADDONS_HOST_SCENE = "gameMenuInGame"
 

@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+
 export interface LoreBooksReportState {
   reportShown: boolean
   copyReport: string

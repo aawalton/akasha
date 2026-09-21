@@ -2,6 +2,7 @@ import { buildDerivedData } from "akasha/temper/addon/library/lib-treasure/modul
 import { LIB_NAME } from "akasha/temper/addon/library/lib-treasure/modules/treasure-constants/treasure-constants.module.code.ts"
 import { ICONS } from "akasha/temper/addon/library/lib-treasure/modules/treasure-icons/treasure-icons.module.code.ts"
 import type { LibTreasureTable } from "akasha/temper/addon/library/lib-treasure/modules/treasure-types/treasure-types.module.code.ts"
+import "akasha/temper/eso/type/eso-addon-manager/eso-addon-manager.type-declaration.d.ts"
 
 function getAddonVersion(this: void): number | undefined {
   const addOnManager = GetAddOnManager()

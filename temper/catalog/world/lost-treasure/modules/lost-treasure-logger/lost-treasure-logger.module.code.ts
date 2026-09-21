@@ -1,4 +1,5 @@
 import { ADDON_NAME } from "akasha/temper/catalog/world/lost-treasure/modules/lost-treasure-constants/lost-treasure-constants.module.code.ts"
+import "akasha/temper/addon/library-type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
 
 function requireLibDebugLogger(this: void): LibDebugLogger {
   if (LibDebugLogger === undefined) {

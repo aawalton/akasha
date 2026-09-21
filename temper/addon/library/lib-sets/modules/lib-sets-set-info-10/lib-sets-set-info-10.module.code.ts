@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+
 export const LIB_SETS_SET_INFO_10: Record<number, Record<string, unknown>> = {
   [676]: {
     addTooltip: { en: "https://en.uesp.net/wiki/Online:Mythic_Items#Syrabane.27s_Ward" },

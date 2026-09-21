@@ -4,6 +4,10 @@ import { getSettingsString } from "akasha/temper/addon/navigation-addon/modules/
 import { PIN_TYPES } from "akasha/temper/addon/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import { DRTV } from "akasha/temper/addon/navigation-addon/modules/destinations-runtime-variables/destinations-runtime-variables.module.code.ts"
 import { getCharacterSavedVariables } from "akasha/temper/addon/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 const LMP = LibMapPins
 

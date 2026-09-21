@@ -16,6 +16,12 @@ import type {
   RowData,
   ShifterBoxList,
 } from "akasha/temper/addon/library/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 ShifterBoxListProto.AddEntry = function (this: ShifterBoxList, key, value, categoryId): undefined {
   const data: MasterEntry = {

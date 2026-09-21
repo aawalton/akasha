@@ -1,5 +1,7 @@
 import { ADDON_NAME } from "akasha/temper/addon/selector-addon/modules/selector-constants/selector-constants.module.code.ts"
 import type { AddonEntry } from "akasha/temper/addon/selector-addon/modules/selector-types/selector-types.module.code.ts"
+import "akasha/temper/eso/type/eso-addon-manager/eso-addon-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 
 function manager(): AddOnManager {
   return GetAddOnManager()

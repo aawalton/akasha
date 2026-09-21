@@ -13,6 +13,10 @@ import { PRELOADED_ZONE_NAMES } from "akasha/temper/addon/library/lib-zone/modul
 import { PUBLIC_DUNGEON_MAP_IDS } from "akasha/temper/addon/library/lib-zone/modules/zone-public-dungeon-map-ids/zone-public-dungeon-map-ids.module.code.ts"
 import type { Lib } from "akasha/temper/addon/library/lib-zone/modules/zone-types/zone-types.module.code.ts"
 import { UI_STRINGS_EN } from "akasha/temper/addon/library/lib-zone/modules/zone-ui-strings/zone-ui-strings.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 
 function checkIfLanguageIsSupported(this: void, lang: string | undefined): boolean {
   if (lang === undefined) return false

@@ -12,6 +12,8 @@ import {
   PORTALS,
   STABLE,
 } from "akasha/temper/addon/navigation-addon/modules/destinations-shared-data/destinations-shared-data.module.code.ts"
+import "akasha/temper/addon/library-type/lib-map-data/lib-map-data.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 
 function redrawMapPinsOnly(pinType: string): undefined {
   LibMapPins.RefreshPins(pinType)

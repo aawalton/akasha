@@ -10,6 +10,7 @@ import {
   standardSpec,
 } from "akasha/temper/addon/navigation-addon/modules/destinations-settings-achievement-sections/destinations-settings-achievement-sections.module.code.ts"
 import { choiceAt } from "akasha/temper/addon/navigation-addon/modules/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 export function buildAchievementsSubmenu(): LamSubmenuData {
   const controls: LamControlData[] = []

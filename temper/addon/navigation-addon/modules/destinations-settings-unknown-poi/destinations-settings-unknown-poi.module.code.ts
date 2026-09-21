@@ -20,6 +20,7 @@ import {
   unpackRgb,
 } from "akasha/temper/addon/navigation-addon/modules/destinations-settings-helpers/destinations-settings-helpers.module.code.ts"
 import { getIconPreviews } from "akasha/temper/addon/navigation-addon/modules/destinations-settings-icon-previews/destinations-settings-icon-previews.module.code.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 function unknownColored(stringKey: string): string {
   return DEFAULTS.miscColorCodes.settingsTextUnknown.Colorize(getSettingsString(stringKey))

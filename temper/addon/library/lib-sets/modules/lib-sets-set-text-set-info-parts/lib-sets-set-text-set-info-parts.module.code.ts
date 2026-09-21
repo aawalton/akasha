@@ -2,6 +2,7 @@ import { asPresent } from "akasha/temper/addon/library/lib-sets/modules/lib-sets
 import type { SetTextFields } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-set-text-set-text-fields/lib-sets-set-text-set-text-fields.module.code.ts"
 import { checkTraitsNeededGiven } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 export function fillSetInfoParts(
   this: void,

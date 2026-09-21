@@ -13,6 +13,8 @@ import {
   getControls,
   setDeleteHandler,
 } from "akasha/temper/addon/selector-addon/modules/selector-ui-layout/selector-ui-layout.module.code.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 interface DropdownEntry {
   packName: string

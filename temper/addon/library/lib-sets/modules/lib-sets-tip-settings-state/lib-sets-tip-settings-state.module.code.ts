@@ -1,3 +1,6 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-constant-shapes/lib-sets-constant-shapes.type-declaration.d.ts"
+
 interface MenuState {
   lam: LibAddonMenu2Surface | undefined
   settingsMenuCreated: LuaMap<boolean, boolean>

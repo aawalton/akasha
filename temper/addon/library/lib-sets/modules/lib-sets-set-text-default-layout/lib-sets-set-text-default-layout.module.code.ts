@@ -9,6 +9,8 @@ import {
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"
 import { buildTextLinesFromTable } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
+import "akasha/temper/addon/library/lib-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 export function applyDefaultLayout(this: void, fields: SetTextFields): undefined {
   const {

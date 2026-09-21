@@ -11,6 +11,15 @@ import {
 import { INTERNAL_STATE } from "akasha/temper/addon/library/lib-zone/modules/zone-internal-state/zone-internal-state.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
 import type { Lib } from "akasha/temper/addon/library/lib-zone/modules/zone-types/zone-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
 
 function populatePoiNameTable(this: void): undefined {
   const maxZoneIndices = lib.maxZoneIndices

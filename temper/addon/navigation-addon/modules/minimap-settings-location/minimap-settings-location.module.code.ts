@@ -8,6 +8,13 @@ import {
 } from "akasha/temper/addon/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
 import type { VotansMiniMap } from "akasha/temper/addon/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
 import type { LooseTable } from "akasha/temper/addon/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon/navigation-addon/minimap-string-ids/minimap-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
 export function buildLocationSettings(self: VotansMiniMap): LamControlData[] {
   let scene: LooseTable = asAnyTable(undefined)

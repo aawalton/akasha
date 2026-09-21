@@ -10,6 +10,9 @@ import {
 import { getValueOrCallback } from "akasha/temper/addon/library/lib-shifter-box/modules/shifter-helpers/shifter-helpers.module.code.ts"
 import { allowedShifterBoxEvents } from "akasha/temper/addon/library/lib-shifter-box/modules/shifter-state/shifter-state.module.code.ts"
 import type { ShifterBoxList } from "akasha/temper/addon/library/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function errorText(textTemplate: string, ...args: unknown[]): string {
   let errorTextStr = `${LIB_IDENTIFIER}_Error: `

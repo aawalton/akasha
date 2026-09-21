@@ -7,6 +7,13 @@ import {
 import { keepDisplayTexts } from "akasha/temper/addon/library/lib-slash-commander/modules/slash-commander-display-text/slash-commander-display-text.module.code.ts"
 import { SLASH_COMMANDER } from "akasha/temper/addon/library/lib-slash-commander/modules/slash-commander-surface/slash-commander-surface.module.code.ts"
 import type { Command } from "akasha/temper/addon/library/lib-slash-commander/modules/slash-commander-types/slash-commander-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-slash-commander/slash-commander-declarations/slash-commander-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 const NO_RESULTS: string[] = []
 

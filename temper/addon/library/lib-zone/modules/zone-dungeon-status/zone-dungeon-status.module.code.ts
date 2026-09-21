@@ -2,6 +2,17 @@ import { asMapNamesTable } from "akasha/temper/addon/library/lib-zone/modules/zo
 import { INTERNAL_STATE } from "akasha/temper/addon/library/lib-zone/modules/zone-internal-state/zone-internal-state.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
 import type { Lib } from "akasha/temper/addon/library/lib-zone/modules/zone-types/zone-types.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-14/eso-enums-14.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 function getCurrentZoneAndGroupStatus(
   this: void

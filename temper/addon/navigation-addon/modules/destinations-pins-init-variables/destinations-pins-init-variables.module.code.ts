@@ -5,6 +5,7 @@ import {
   getCharacterSavedVariables,
   getSavedVariables,
 } from "akasha/temper/addon/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 interface PartialPinEntry {
   maxDistance?: number

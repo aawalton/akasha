@@ -4,6 +4,7 @@ import type {
   LibTreasureData,
   PinRecord,
 } from "akasha/temper/addon/library/lib-treasure/modules/treasure-types/treasure-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function buildDerivedData(this: void): LibTreasureData {
   const itemsData: Record<number, PinRecord> = {}

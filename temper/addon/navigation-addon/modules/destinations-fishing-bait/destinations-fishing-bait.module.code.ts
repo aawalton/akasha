@@ -1,5 +1,7 @@
 import { DEFAULTS } from "akasha/temper/addon/navigation-addon/modules/destinations-defaults/destinations-defaults.module.code.ts"
 import { getSettingsString } from "akasha/temper/addon/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 
 function findsIn(haystack: string, pattern: string): boolean {
   const [findStart] = string.find(haystack, pattern)

@@ -2,6 +2,7 @@ import { asGlobalObjectTable } from "akasha/temper/addon/library/lib-zone/module
 import { LIB_NAME } from "akasha/temper/addon/library/lib-zone/modules/zone-constants/zone-constants.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
 import { UI_STRINGS_EN } from "akasha/temper/addon/library/lib-zone/modules/zone-ui-strings/zone-ui-strings.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const globals = asGlobalObjectTable(_G)
 assert(

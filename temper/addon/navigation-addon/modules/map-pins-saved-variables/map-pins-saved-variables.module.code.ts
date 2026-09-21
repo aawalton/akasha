@@ -4,6 +4,7 @@ import {
   SV_THIEVESTROVE_NAME,
   SV_VARS_NAME,
 } from "akasha/temper/addon/navigation-addon/modules/map-pins-names/map-pins-names.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 export type ChestCoordList = (readonly number[])[]
 

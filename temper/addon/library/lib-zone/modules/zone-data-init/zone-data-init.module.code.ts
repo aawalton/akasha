@@ -1,5 +1,8 @@
 import { asSavedVarsTable } from "akasha/temper/addon/library/lib-zone/modules/zone-casts/zone-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/library/lib-zone/modules/zone-lib-state/zone-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 export function applyZoneNameFallbacks(this: void): undefined {
   const referenceZoneNamesEN = lib.preloadedZoneNames.en

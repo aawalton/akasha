@@ -1,3 +1,6 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+
 function cleanedTileTexture(): string {
   const [stripped] = string.gsub(string.lower(GetMapTileTexture()), "ui_map_", "")
   return stripped

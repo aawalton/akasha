@@ -1,6 +1,10 @@
 import { getClientLanguage } from "akasha/temper/addon/navigation-addon/modules/destinations-lang-strings/destinations-lang-strings.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/navigation-addon/modules/destinations-names/destinations-names.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 const SUPPORTED_MENU_LANGS = ["de", "en", "es", "fr", "fx", "jf", "jp", "pl", "ru", "zh"]
 

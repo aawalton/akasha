@@ -1,6 +1,7 @@
 import { CUSTOM_PINS_CHAPTERS } from "akasha/temper/addon/navigation-addon/modules/map-pins-chapters/map-pins-chapters.module.code.ts"
 import { TEXTURE_ROOT } from "akasha/temper/addon/navigation-addon/modules/map-pins-names/map-pins-names.module.code.ts"
 import type { CustomPinTable } from "akasha/temper/addon/navigation-addon/modules/map-pins-pin-types/map-pins-pin-types.module.code.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 export const CUSTOM_PINS: CustomPinTable = {
   [1]: {

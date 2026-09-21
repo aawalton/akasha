@@ -4,6 +4,10 @@ import {
   holder,
   type VotansMiniMap,
 } from "akasha/temper/addon/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/navigation-addon/navigation-declarations/navigation-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
 interface FontItem {
   name: string

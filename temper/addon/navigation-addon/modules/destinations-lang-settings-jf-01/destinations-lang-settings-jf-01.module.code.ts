@@ -1,4 +1,5 @@
 import { achievementName } from "akasha/temper/addon/navigation-addon/modules/destinations-data-runtime/destinations-data-runtime.module.code.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export const SETTINGS_STRINGS_01: Record<string, string> = {
   DEST_SETTINGS_IMPROVEMENT_HEADER: "地点改善",

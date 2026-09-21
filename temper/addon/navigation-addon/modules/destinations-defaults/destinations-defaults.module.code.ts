@@ -21,6 +21,7 @@ import {
 } from "akasha/temper/addon/navigation-addon/modules/destinations-colors/destinations-colors.module.code.ts"
 import { PIN_DEFAULTS } from "akasha/temper/addon/navigation-addon/modules/destinations-pin-defaults/destinations-pin-defaults.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/addon/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 const FILTER_DEFAULTS: Record<string, boolean> = {
   [PIN_TYPES.UNKNOWN]: true,

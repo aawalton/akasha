@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
+
 export interface MapPinsState {
   pinManager: WorldMapPinManager | undefined
   updatingMapPin: Record<number, boolean | number>

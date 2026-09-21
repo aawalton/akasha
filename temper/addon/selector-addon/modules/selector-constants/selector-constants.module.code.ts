@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
 ZO_CreateStringId("SI_BINDING_NAME_TEMPERADDONS_RELOADUI", "Reload UI")
 ZO_CreateStringId("SI_BINDING_NAME_TEMPERADDONS_SHOWACTIVEPACK", "Show active pack")
 ZO_CreateStringId("SI_BINDING_NAME_TEMPERADDONS_LOAD_PACK1", "Load pack 1")

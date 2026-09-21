@@ -1,4 +1,5 @@
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 const POTION_ITEM_ID_TO_INDEX: Record<number, number> = {
   [64710]: 1,
   [112427]: 2,

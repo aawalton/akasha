@@ -31,6 +31,13 @@ import { TIME_BREACH } from "akasha/temper/addon/navigation-addon/modules/map-pi
 import { loc } from "akasha/temper/addon/navigation-addon/modules/map-pins-ui-strings/map-pins-ui-strings.module.code.ts"
 import { VOLENDRUNG } from "akasha/temper/addon/navigation-addon/modules/map-pins-volendrung/map-pins-volendrung.module.code.ts"
 import { ZONE_ACHIEVEMENT } from "akasha/temper/addon/navigation-addon/modules/map-pins-zone-achievement/map-pins-zone-achievement.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 const timeBreach = asSubzonePinTable(TIME_BREACH)
 const shrines = asSubzonePinTable(SHRINES)

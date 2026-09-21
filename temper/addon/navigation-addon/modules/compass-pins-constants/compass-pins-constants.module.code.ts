@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export const LIB_NAME = "CustomCompassPins"
 
 export const LIB_VERSION = 138

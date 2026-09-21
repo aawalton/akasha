@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+
 export interface PinTag {
   [slot: number]: number | string | undefined
   texture?: string

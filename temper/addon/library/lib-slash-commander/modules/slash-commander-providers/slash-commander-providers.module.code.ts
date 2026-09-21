@@ -11,6 +11,11 @@ import type {
   AutoCompleteSubCommandsProviderClass,
   Command,
 } from "akasha/temper/addon/library/lib-slash-commander/modules/slash-commander-types/slash-commander-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-slash-commander/slash-commander-declarations/slash-commander-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 SLASH_COMMANDER.AutoCompleteProvider = ZO_Object.Subclass<AutoCompleteProviderClass>()
 const PROVIDER_TABLE = SLASH_COMMANDER.AutoCompleteProvider

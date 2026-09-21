@@ -4,6 +4,7 @@ import {
   toggleAutoQuest,
   toggleAutoQuestDebug,
 } from "akasha/temper/addon/quests-addon/modules/quests-auto-quest/quests-auto-quest.module.code.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function registerSlashCommands(): undefined {
   SLASH_COMMANDS["/temperautoquest"] = toggleAutoQuest

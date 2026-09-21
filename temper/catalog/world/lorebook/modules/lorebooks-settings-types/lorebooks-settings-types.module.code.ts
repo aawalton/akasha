@@ -1,3 +1,6 @@
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+
 export interface IconControl {
   SetAnchor: (
     this: IconControl,

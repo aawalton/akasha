@@ -13,6 +13,11 @@ import type {
   SavedVarsTable,
   ZoneDataEntry,
 } from "akasha/temper/addon/library/lib-zone/modules/zone-types/zone-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function initZoneScan(this: void): undefined {
   lib.GetAllZoneDataById = function (

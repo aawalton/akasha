@@ -1,3 +1,7 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
 const LSB_STRINGS: Record<string, string> = {
   LIBSHIFTERBOX_ALLREADY_LOADED: "Is already loaded",
   LIBSHIFTERBOX_EMPTY: "empty",

@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+
 export const LIB_SETS_SET_INFO_03: Record<number, Record<string, unknown>> = {
   [169]: {
     dlcId: 0,

@@ -9,6 +9,9 @@ import {
 import { STRINGS } from "akasha/temper/addon/selector-addon/modules/selector-strings/selector-strings.module.code.ts"
 import type { Pack } from "akasha/temper/addon/selector-addon/modules/selector-types/selector-types.module.code.ts"
 import { getControls } from "akasha/temper/addon/selector-addon/modules/selector-ui-layout/selector-ui-layout.module.code.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const SEARCH_STATE = { term: "", ordinal: -1 }
 

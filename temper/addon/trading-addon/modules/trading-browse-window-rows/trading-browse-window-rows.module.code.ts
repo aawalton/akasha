@@ -20,6 +20,7 @@ import {
   CONTROL_HEIGHT,
   PADDING_X,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 export const ROW_HEIGHT = 20
 export const ROW_GAP = 2

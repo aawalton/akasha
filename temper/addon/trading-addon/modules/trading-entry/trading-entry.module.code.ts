@@ -36,6 +36,9 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function registerBrowseUi(this: void): undefined {
   const ns = `${ADDON_NAME}_Browse`

@@ -5,6 +5,8 @@ import {
   getLastItemLink,
   isTooltipOfSetItem,
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 interface AnyTooltipControl {
   AddVerticalPadding?: (this: AnyTooltipControl, paddingY: number) => void

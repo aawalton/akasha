@@ -20,6 +20,12 @@ import {
   PIN_TOOLTIP_CREATOR,
   PIN_TOOLTIP_SUPRES,
 } from "akasha/temper/addon/navigation-addon/modules/map-pins-tooltips/map-pins-tooltips.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
 
 function addPin(this: void, pin: number, pinLayout: PinDef): number {
   const tooltipCreator = PIN_TOOLTIP_SUPRES[pin] === true ? undefined : PIN_TOOLTIP_CREATOR

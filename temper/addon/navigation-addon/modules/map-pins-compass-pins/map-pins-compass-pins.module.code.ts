@@ -29,6 +29,16 @@ import {
 import { getSubzone } from "akasha/temper/addon/navigation-addon/modules/map-pins-subzone/map-pins-subzone.module.code.ts"
 import { TIME_BREACH } from "akasha/temper/addon/navigation-addon/modules/map-pins-time-breach/map-pins-time-breach.module.code.ts"
 import { ZONE_ACHIEVEMENT } from "akasha/temper/addon/navigation-addon/modules/map-pins-zone-achievement/map-pins-zone-achievement.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 const bossesTable = asSubzonePinTable(BOSSES)
 const skyShardsTable = asSubzonePinTable(SKY_SHARDS)

@@ -9,6 +9,10 @@ import { PIECES_OF_HISTORY } from "akasha/temper/addon/navigation-addon/modules/
 import { PRECURSOR_ITEMS } from "akasha/temper/addon/navigation-addon/modules/map-pins-precursor-items/map-pins-precursor-items.module.code.ts"
 import { RELICS_OF_SUMMERSET } from "akasha/temper/addon/navigation-addon/modules/map-pins-relics-of-summerset/map-pins-relics-of-summerset.module.code.ts"
 import { WROTHGAR_RELICS } from "akasha/temper/addon/navigation-addon/modules/map-pins-wrothgar-relics/map-pins-wrothgar-relics.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
 
 const ancestralTombRubbing: NumberMap = ANCESTRAL_TOMB_RUBBING
 const wrothgarRelics: NumberMap = WROTHGAR_RELICS

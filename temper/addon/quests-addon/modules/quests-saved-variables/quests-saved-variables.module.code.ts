@@ -4,6 +4,7 @@ import {
   SAVED_VARIABLES_VERSION,
 } from "akasha/temper/addon/quests-addon/modules/quests-constants/quests-constants.module.code.ts"
 import type { AutoQuestTraceEntry } from "akasha/temper/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 export interface SavedVariablesData {
   autoQuest?: boolean
