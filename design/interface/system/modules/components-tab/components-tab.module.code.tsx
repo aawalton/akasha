@@ -41,7 +41,14 @@ import {
 import { ComponentsSelectionPanels } from "akasha/design/interface/system/modules/components-selection-panels/components-selection-panels.module.code.tsx"
 import { ComponentsSkeletonPanels } from "akasha/design/interface/system/modules/components-skeleton-panels/components-skeleton-panels.module.code.tsx"
 import { ComponentsSortFilterPanels } from "akasha/design/interface/system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"
-import { ComponentsTextDisplayPanels } from "akasha/design/interface/system/modules/components-text-display-panels/components-text-display-panels.module.code.tsx"
+import {
+  AlertPanel,
+  AvatarPanel,
+  BreadcrumbPanel,
+  KbdPanel,
+  SeparatorPanel,
+  TextPanel,
+} from "akasha/design/interface/system/modules/components-text-display-panels/components-text-display-panels.module.code.tsx"
 
 export function ComponentsTabContent() {
   return (
@@ -70,7 +77,12 @@ export function ComponentsTabContent() {
           <ProgressPanel />
           <TogglePanel />
           <ToggleGroupPanel />
-          <ComponentsTextDisplayPanels />
+          <TextPanel />
+          <KbdPanel />
+          <SeparatorPanel />
+          <AlertPanel />
+          <AvatarPanel />
+          <BreadcrumbPanel />
           <ComponentsSkeletonPanels />
           <ComponentsMenuPanels />
           <ComponentsInputCompositePanels />
