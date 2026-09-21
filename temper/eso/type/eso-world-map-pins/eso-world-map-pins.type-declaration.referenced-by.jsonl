@@ -5,8 +5,6 @@
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-events/crafting-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-inventory/potion-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-inventory/fco-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-map/fco-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-achievement-events/map-pins-achievement-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-chest-capture/map-pins-chest-capture.module.code.ts"}
@@ -19,6 +17,8 @@
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-gui/next-boss-gui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-inventory/fco-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-map/fco-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-events/map-data-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}

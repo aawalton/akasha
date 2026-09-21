@@ -391,8 +391,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/temper-community-addon.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
 {"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/modules/craft-defined/craft-defined.module.ts","id":"01a08de1-2f29-7d20-a437-b66d1cb3ba33"}
 {"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/temper-crafting-addon.temper-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}
-{"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/assistant-collectibles/assistant-collectibles.module.ts","id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
-{"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/fco-global/fco-global.module.ts","id":"01a06115-1ac8-7d12-a18b-e1aa7e8aafeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.ts","id":"01a06258-b530-7ef5-9ff0-40428a6c5232"}
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/temper-items-addon.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
@@ -572,6 +570,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-library-data-eu-6/housing-library-data-eu-6.module.ts","id":"01a06113-b7d0-70ae-9e5b-3ac403935f5c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-library-data-eu/housing-library-data-eu.module.ts","id":"01a06113-b7ce-77ca-bda6-f521aa196130"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-library-data-na/housing-library-data-na.module.ts","id":"01a06113-b7d1-7e85-b730-9398c3972952"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/assistant-collectibles/assistant-collectibles.module.ts","id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-global/fco-global.module.ts","id":"01a06115-1ac8-7d12-a18b-e1aa7e8aafeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.temper-addon.ts","id":"01a06207-bdfa-77c3-9c7b-c125ea77a269"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.ts","id":"01a06100-0000-7000-8000-000000000000"}

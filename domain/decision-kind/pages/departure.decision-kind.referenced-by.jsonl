@@ -3418,10 +3418,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-scene-source/hud-scene-source.module.ts","id":"01a060a4-fa39-75fa-b8ed-cd9e167bd81c"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}
-{"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/assistant-bindings/assistant-bindings.module.ts","id":"01a060e7-1bec-71bf-a376-11634f9d6337"}
-{"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/assistant-collectibles/assistant-collectibles.module.ts","id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
-{"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/assistant-entry/assistant-entry.module.ts","id":"01a060e7-1bec-7cd5-876c-cef3639abf2a"}
-{"propertySlug":"decision-kind","path":"temper/addon/interface-addon/temper-interface-addon.temper-addon.ts","id":"01a060e7-1bea-7ec8-9343-b0e442437b98"}
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/inventory-config-file/inventory-config-file.lua-module.ts","id":"01a06258-b536-7417-855d-e9bd5aa14816"}
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
@@ -3845,6 +3841,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/modules/hud-addon-visibility-version/hud-addon-visibility-version.module.ts","id":"01a061c5-18dd-7002-98bb-12e2b151ea28"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/hud/temper-addon-hud.temper-addon.ts","id":"01a061c5-18dd-7011-a8e7-8f6d488e9b03"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/assistant-bindings/assistant-bindings.module.ts","id":"01a060e7-1bec-71bf-a376-11634f9d6337"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/assistant-collectibles/assistant-collectibles.module.ts","id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/assistant-entry/assistant-entry.module.ts","id":"01a060e7-1bec-7cd5-876c-cef3639abf2a"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/temper-addon-interface.temper-addon.ts","id":"01a060e7-1bea-7ec8-9343-b0e442437b98"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-entry/addon-keybinds-entry.module.ts","id":"01a0605a-051c-7251-adf5-3039dae90ad3"}

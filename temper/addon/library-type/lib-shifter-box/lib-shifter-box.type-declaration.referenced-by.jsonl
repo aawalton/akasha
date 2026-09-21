@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"lib-shifter-box.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-collectibles/fco-collectibles.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-shifter-box.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-entry/fco-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-shifter-box.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-sounds/fco-sounds.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-shifter-box.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles/fco-collectibles.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-shifter-box.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-entry/fco-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-shifter-box.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-sounds/fco-sounds.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-shifter-box.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-box-create/shifter-box-create.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-shifter-box.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-constants/shifter-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-shifter-box.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-public-api/shifter-public-api.module.code.ts"}

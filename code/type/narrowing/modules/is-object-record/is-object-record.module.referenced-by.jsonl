@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"}
-{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/interface-addon/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/items-addon/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"}
@@ -20,6 +19,7 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/companions/modules/companions-saved-variables/companions-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/housing/modules/housing-init/housing-init.module.code.ts"}
+{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/quests-addon/modules/quests-saved-variables/quests-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-strip/skill-morph-strip.module.code.ts"}

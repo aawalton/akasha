@@ -14,11 +14,6 @@
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/rune-search/rune-search.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-smithing/writ-smithing.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-group/fco-group.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-settings-messages/quiet-settings-messages.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-mail-handler/inventory-mail-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-mail/inventory-rules-dispatch-mail.module.code.ts"}
@@ -45,6 +40,11 @@
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-globals/companions-globals.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-panel/companions-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-progress/companions-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-group/fco-group.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-settings-messages/quiet-settings-messages.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-world/quiet-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-dlc/lib-sets-const-all-dlc.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}

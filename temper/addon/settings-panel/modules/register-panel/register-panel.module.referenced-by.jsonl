@@ -2,8 +2,6 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-settings-menu/potion-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/crafting-addon/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/crafting-addon/modules/writ-settings-window/writ-settings-window.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/interface-addon/modules/fco-settings-menu/fco-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/interface-addon/modules/quiet-settings-menu/quiet-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/navigation-addon/modules/destinations-settings-init/destinations-settings-init.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/navigation-addon/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/navigation-addon/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}
@@ -12,6 +10,8 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/events/modules/next-boss-menu/next-boss-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/housing/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/interface/modules/fco-settings-menu/fco-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/interface/modules/quiet-settings-menu/quiet-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-settings-lam/lib-sets-tip-settings-lam.module.code.ts"}

@@ -1,10 +1,5 @@
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/rune-favorites/rune-favorites.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-chat/fco-chat.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-events/fco-mail-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-alerts/quiet-alerts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-strings/quiet-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-mail-handler/inventory-mail-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-mail/inventory-rules-dispatch-mail.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-combat-events/combat-action-combat-events.module.code.ts"}
@@ -19,6 +14,11 @@
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-log-strings/combat-lib-log-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-resources/combat-lib-resources.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-chat/fco-chat.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-events/fco-mail-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-alerts/quiet-alerts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-strings/quiet-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-constants/chat-message-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-16.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
