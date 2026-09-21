@@ -6,7 +6,6 @@ import type {
 } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
 import { selectNextExploration } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
 import type { MusicRating } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
-import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
@@ -17,6 +16,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicNext as page } from "akasha/command/pages/music/next/music-next.command.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -55,7 +55,7 @@ function list(held: Held, key: string): readonly string[] {
 
 function gradeOf(held: Held): MusicRating | undefined {
   const said = text(held, GRADE)
-  return MUSIC_RATINGS.find((step) => step === said)
+  return gradeProperty.values.find((step) => step === said)
 }
 
 export function undeclaredIn(root: string, pageTypeSlug: string): string | null {

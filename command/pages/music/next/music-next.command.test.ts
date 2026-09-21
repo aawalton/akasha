@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Catalog } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
 import { selectNextExploration } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
-import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   catalogIn,
@@ -11,6 +10,7 @@ import {
   selectionOf,
   undeclaredIn,
 } from "akasha/command/pages/music/next/music-next.command.code.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { indexThere } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
@@ -95,7 +95,7 @@ test("every grade read off a page is a rung of the ladder", () => {
     one.grade === undefined ? [] : [one.grade]
   )
   expect(graded.length).toBeGreaterThan(0)
-  expect(graded.every((one) => MUSIC_RATINGS.includes(one))).toBe(true)
+  expect(graded.every((one) => gradeProperty.values.includes(one))).toBe(true)
 })
 
 test("a page type nothing is filed under is named rather than read as ungraded", () => {

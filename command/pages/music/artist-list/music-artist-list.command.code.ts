@@ -1,7 +1,6 @@
 import { status as statusPage } from "akasha/alan/collection/properties/status.select-property.ts"
 import type { Status } from "akasha/alan/collection/properties/status.select-property.types.ts"
 import type { MusicRating } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
-import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { collectionStatus } from "akasha/command/argument/pages/collection-status.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
@@ -13,6 +12,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicArtistList as page } from "akasha/command/pages/music/artist-list/music-artist-list.command.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -77,7 +77,7 @@ function firstIn(held: Held, key: string): string | undefined {
 
 function gradeOf(held: Held): MusicRating | null {
   const graded = firstIn(held, "grade")
-  return MUSIC_RATINGS.find((rung) => rung === graded) ?? null
+  return gradeProperty.values.find((rung) => rung === graded) ?? null
 }
 
 function statusOf(held: Held): Status | null {
@@ -132,7 +132,7 @@ export function rowsOf(
 
 export function rungsOf(rows: readonly ArtistRow[]): readonly Rung[] {
   const rungs: Rung[] = []
-  for (const rung of [...MUSIC_RATINGS].reverse()) {
+  for (const rung of [...gradeProperty.values].reverse()) {
     const artists = rows.filter((one) => one.grade === rung).length
     if (artists > 0) rungs.push({ grade: rung, artists })
   }

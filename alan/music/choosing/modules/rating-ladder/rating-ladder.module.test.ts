@@ -2,16 +2,8 @@ import { describe, expect, test } from "bun:test"
 import {
   isLiked,
   LIKED_RATINGS,
-  MUSIC_RATINGS,
   type MusicRating,
 } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
-import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
-
-describe("MUSIC_RATINGS", () => {
-  test("is the ladder the grade property type states, rather than a second list", () => {
-    expect(MUSIC_RATINGS).toBe(gradeProperty.values)
-  })
-})
 
 describe("LIKED_RATINGS", () => {
   test("holds B- and every grade above it", () => {

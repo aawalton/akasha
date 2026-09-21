@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -46,6 +45,7 @@ import {
   PLAYER,
 } from "akasha/command/pages/music/now-playing/music-now-playing.command.code.ts"
 import { musicRate as page } from "akasha/command/pages/music/rate/music-rate.command.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import {
   listedAt,
   valuesOfType,
@@ -196,10 +196,10 @@ export function taken(argv: readonly string[], given: Given): Reading {
   if (typeof targeted !== "string") return { refused: [targeted.refused] }
   const target = targeted
   const marked = held.grade ?? null
-  if (marked !== null && !MUSIC_RATINGS.some((one) => one === marked)) {
+  if (marked !== null && !gradeProperty.values.some((one) => one === marked)) {
     return {
       refused: [
-        `\`${GRADE}\` takes a rung from \`${MUSIC_RATINGS.join("`, `")}\`, and this call names \`${marked}\``,
+        `\`${GRADE}\` takes a rung from \`${gradeProperty.values.join("`, `")}\`, and this call names \`${marked}\``,
       ],
     }
   }

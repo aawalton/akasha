@@ -1,4 +1,3 @@
-import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import { composedEdit } from "akasha/change/modules/page-editing/page-editing.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
@@ -23,6 +22,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { TARGETS } from "akasha/command/pages/music/rate/music-rate.command.code.ts"
 import { musicRateParts as page } from "akasha/command/pages/music/rate-parts/music-rate-parts.command.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import {
   listedAt,
   listedById,
@@ -157,8 +157,8 @@ export function amissIn(target: string, marked: string): string | null {
   if (!TARGETS.includes(target)) {
     return `\`${TARGET}\` takes \`${TARGETS.join("`, `")}\`, and this call names \`${target}\``
   }
-  if (!MUSIC_RATINGS.some((one) => one === marked)) {
-    return `\`${GRADE}\` takes a rung from \`${MUSIC_RATINGS.join("`, `")}\`, and this call names \`${marked}\``
+  if (!gradeProperty.values.some((one) => one === marked)) {
+    return `\`${GRADE}\` takes a rung from \`${gradeProperty.values.join("`, `")}\`, and this call names \`${marked}\``
   }
   return null
 }
