@@ -127,6 +127,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-research-tracking/craft-research-tracking.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-research-trait-icon/craft-research-trait-icon.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-research/craft-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-rune-refining/craft-rune-refining.module.code.ts"}
