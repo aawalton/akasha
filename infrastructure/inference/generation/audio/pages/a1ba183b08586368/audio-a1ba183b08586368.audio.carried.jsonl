@@ -1,0 +1,8 @@
+{"id":"01a0c64e-dd38-7dd5-a52b-4d9dc3ac7060"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-a1ba183b08586368"}
+{"text":"(The Wandering Inn store is selling new frying pan keychains! Not suitable for combat except for Fraerlings!) https://store.devwandering.wpenginepowered.com/products/frying-pan-keychain"}
+{"title":"moss-tts voice-clone @ 2026-07-17T02:54:36.215Z"}
+{"type":"page-type/audio"}

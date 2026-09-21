@@ -1,0 +1,9 @@
+{"id":"01a0c64e-dd38-70f1-885e-afa94c3912c8"}
+{"instruct":"A bright, playful young Welsh woman of about twenty, with an unmistakable musical Welsh lilt, lively pace, light and cheerful."}
+{"model":"mlx-community/VoxCPM2-bf16"}
+{"operation":"voice-design"}
+{"service":"voxcpm2"}
+{"slug":"audio-dbe3aaed10dad46c"}
+{"text":"There — do you see it now? One wrong pixel and the whole surface aches. Bring it here — we will gild it till it gleams."}
+{"title":"voxcpm2 voice-design @ 2026-07-17T06:54:49.735Z"}
+{"type":"page-type/audio"}

@@ -1,0 +1,8 @@
+{"id":"01a0c64e-dd39-7ee2-a62a-f5c3d5652122"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-14450b302ff2bce9"}
+{"text":"That's the best thing anyone has said at this table all year, and I include the night we argued about Middlemarch until one in the morning."}
+{"title":"moss-tts voice-clone @ 2026-07-17T09:50:09.301Z"}
+{"type":"page-type/audio"}

@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio93a1d7dffc24392f = {
+  id: "01a0c64e-dd37-7a2c-b64c-2749aba25d61",
+  type: "page-type/audio",
+  slug: "audio-93a1d7dffc24392f",
+  title: "moss-tts voice-clone @ 2026-07-17T02:00:38.260Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "They didn’t do a thing against that—monster. They barely stopped the one with the sword—and those Skills! Were they just—in our city? What if something had set them off?” He shuddered. Edellein nodded, eyes calm. “Yes, yes. Rather unpredictable, aren’t they? Shirka herself was about to make peace with the Goblins. Take them as, oh, auxiliary forces. Which we have done, but her army is rather temperamental. Rather—insubordinate when she chooses to be. I do remind everyone here that her vanguard is mostly intact. They were spared damage. It was only the [Slayers] who perished to a man at Goblinhome. You could say the core of 2nd Army is intact.” That caught Errif’s ear. He lowered his goblet, incredulous. “You can’t be saying—are you suggesting you intended 2nd Army to be wiped out in the High Passes?” Edellein shot to his feet instantly as the room gasped. “Not at all! I never expected the Goblin King or his minions. I say again for you all to hear: this is a tragedy. But if you are telling me, to my face, it is a disaster no one saw coming…I might disagree.” He spread his arms, and he had them. Listening as opposed to shouting, and instead of calling for his head on a platter—Edellein swung around. “I’m aware everyone wants me to step down. But I remind you that Chaldion has sacrificed more for Pallass. Who would replace me if I went? Duln is dead.” “Shirka’s alive.” That comment came from one of the [Senators], bluntly, and Edellein’s lips twitched into a scowl.",
+} as const satisfies Audio

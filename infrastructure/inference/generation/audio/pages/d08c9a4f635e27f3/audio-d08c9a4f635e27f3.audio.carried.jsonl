@@ -1,0 +1,9 @@
+{"id":"01a0c64e-dd38-7531-8b39-0498e1ae89c6"}
+{"instruct":"A composed young Welsh woman in her mid-twenties, warm and steady with a low-medium pitch, a subtle Welsh accent, calm and deliberate like a craftswoman explaining her work."}
+{"model":"mlx-community/VoxCPM2-bf16"}
+{"operation":"voice-design"}
+{"service":"voxcpm2"}
+{"slug":"audio-d08c9a4f635e27f3"}
+{"text":"There — do you see it now? One wrong pixel and the whole surface aches. Bring it here — we will gild it till it gleams."}
+{"title":"voxcpm2 voice-design @ 2026-07-17T06:55:13.703Z"}
+{"type":"page-type/audio"}

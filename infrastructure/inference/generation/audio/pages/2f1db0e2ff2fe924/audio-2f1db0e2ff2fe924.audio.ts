@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio2f1db0e2ff2fe924 = {
+  id: "01a0c64e-dd37-7773-aace-797b49accadc",
+  type: "page-type/audio",
+  slug: "audio-2f1db0e2ff2fe924",
+  title: "moss-tts voice-clone @ 2026-07-17T02:08:08.013Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "“Shirka is insubordinate. She would do whatever she deems best. By all means, reach out to her. See what her opinion is on, oh, our assets like Saliss or anything else. She has no give. Nor does she have a vision for Pallass. I do, and again, the Goblin King is dead. We did that.” “I heard it wasn’t us, but the Dragons…are we going to talk about them? What the hell—and that Harpy—” Edellein glanced at Werdin and cleared his throat. “I can’t comment on our information, Werdin, but rest assured…we have our own thoughts on the matter.” “So you know who they were?” “I can’t comment, Errif.” The Gnoll glared. “I’ve been to those briefings! I never heard of—!” “You’ve been to some of the briefings, Errif. But I can’t get into the details. I will see about releasing a report—let’s speak of the future instead.” —At some point, Errif realized he’d gone from asking Edellein when he’d step down to discussing Pallass’ future. He almost raised that obvious thought several times over the next thirty minutes. But it was…well, hard. He knew Edellein personally. The Drake had always struck him as able to articulate the positions Errif believed in. He knew everyone in the room. Replacing him would destabilize Errif’s own position, and again, with who? A lesser [General]? Now? And General Shirka was stubborn; he’d tried to get her to discuss matters amicably, and she really was intransigent on issues she disagreed on.",
+} as const satisfies Audio

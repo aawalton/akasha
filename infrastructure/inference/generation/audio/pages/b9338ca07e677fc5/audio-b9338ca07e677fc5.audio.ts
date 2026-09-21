@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audioB9338ca07e677fc5 = {
+  id: "01a0c64e-dd37-788b-8d09-d2f1d7823ecc",
+  type: "page-type/audio",
+  slug: "audio-b9338ca07e677fc5",
+  title: "moss-tts voice-clone @ 2026-07-17T01:11:27.015Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "It is not the worst moment in the history of this world.> <Say what?> The original Grand Design clarified its confusing statement. <I did not exist. I have no direct, first-hand accounting of the event save for the souls of Gnomes and Elves, which were consumed by the dead gods. However, shortly after my first moments of creation, I was able to detect many—breaches—in reality.> <Like the door we opened. Alternate realities.> <Yes. I closed them, one of my first tasks in the moments after I was awoken. It is our duty to mend such breaches and oversee the opening of them under specific circumstances.> <Such as the Blighted Kingdom’s summoning ritual, which, in hindsight, is clearly a planted artifact from the dead gods and another instance of them breaking the rules. I bet Emerrhain made it.> The Grand Design didn’t comment on this. It went on softly. <Regardless. When I awoke, the hole in the world was already there. Nations were burnt to ash. There were remains of buildings in space. I could sense the lingering presence of weapons of war, magical or otherwise, fired to and from those doors. So no. This is not the worst moment this world has ever faced.> There had been a war between realities. Multiple realities—like the Faerie King’s realm, warring with the gods of this one. That was…well, that squared with the understanding the Second Edition had of how this all came to be. But it was still sobering. <This is still the first time for us. How will it all end?",
+} as const satisfies Audio

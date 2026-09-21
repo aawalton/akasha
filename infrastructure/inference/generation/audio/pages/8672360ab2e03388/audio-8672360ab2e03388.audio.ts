@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio8672360ab2e03388 = {
+  id: "01a0c64e-dd38-7b87-967d-71cedad05461",
+  type: "page-type/audio",
+  slug: "audio-8672360ab2e03388",
+  title: "moss-tts voice-clone @ 2026-07-17T07:03:59.146Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "I am going to vote to raise the widows’ pensions for every member of the army that fell the moment the Assembly of Crafts opens! They rid the world of a terrible threat!” He talked over the Gnoll, who eventually sat as he realized he had lost his opportunity to speak. Hands shot up, and someone shouted. “Question, [Senator]!” “Go ahead.” He nodded at a Garuda with a smile, and she opened and closed her beak. “That Harpy. The Dragons—” “Confidential to High Command. I am sure they’ll have a statement soon.” “Then—our [Goblin Slayers]. I saw, during the battle, one of them change forms. Is that—do we have—?” Errif was sweating faintly under his fur, and he grinned desperately. Damn those [Goblin Slayers], and damn 2nd Army! He wasn’t thinking of the [Soldiers] who had died as people now. Just as a problem he had to fix. After all, Pallass could eminently replace them with time and funds. General Edellein even had data that showed a round of voluntary conscription would probably more than make up for the losses. Patriotism rose during such disasters; Errif smiled as he gave excuses. “—every weapon in times of need. They did battle the Goblin King, Miss. Now, ah, if the matter of General Edellein is settled? Rest assured, there will be a vote! The will of the people is heard!” He thought he had them as the district’s audience muttered, but then that damn Gnoll jumped to his feet again. “What if we want him gone now? Who the hell needs a vote?",
+} as const satisfies Audio
