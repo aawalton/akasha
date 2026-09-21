@@ -4,6 +4,7 @@ import { planRenderSettleWait } from "akasha/code/browser/command/modules/verify
 import { createReadOnlyAnonSession } from "akasha/code/browser/test-harness/modules/read-only-harness/read-only-harness.module.code.ts"
 import { createSignedInSession } from "akasha/code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { expandPanels as expandPanelsArgument } from "akasha/command/argument/pages/expand-panels.argument.ts"
 import { fullPage as fullPageArgument } from "akasha/command/argument/pages/full-page.argument.ts"
 import { height } from "akasha/command/argument/pages/height.argument.ts"
 import { hydrationSelector } from "akasha/command/argument/pages/hydration-selector.argument.ts"
@@ -20,6 +21,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { browserScreenshot as page } from "akasha/command/pages/browser/screenshot/browser-screenshot.command.ts"
 
 const TAKES = [
+  expandPanelsArgument,
   fullPageArgument,
   height,
   hydrationSelector,
@@ -36,6 +38,16 @@ const TAKES = [
 const URL_SAID = url.said
 
 const LOCAL = /^https?:\/\/localhost|^https?:\/\/127\.0\.0\.1/
+
+const CLOSED_PANEL = '[data-slot="collapsible"][data-state="closed"]'
+
+const PANEL_TRIGGER = '[data-slot="collapsible-trigger"]'
+
+const MEASURED = "[inert]"
+
+const PANEL_ROUNDS = 5
+
+const PANEL_SETTLE_MS = 400
 
 type Session = {
   readonly page: Awaited<ReturnType<typeof createReadOnlyAnonSession>>["page"]
@@ -87,6 +99,34 @@ async function settled(tab: Session["page"], at: string, wanted: Settling): Prom
   return undefined
 }
 
+function waited(ms: number): Promise<undefined> {
+  return new Promise((done) => {
+    setTimeout(() => done(undefined), ms)
+  })
+}
+
+async function opened(tab: Session["page"]): Promise<undefined> {
+  const where = { closed: CLOSED_PANEL, trigger: PANEL_TRIGGER, measured: MEASURED }
+  for (let round = 0; round < PANEL_ROUNDS; round += 1) {
+    const clicked = await tab
+      .evaluate((said: typeof where) => {
+        let count = 0
+        for (const panel of document.querySelectorAll<HTMLElement>(said.closed)) {
+          if (panel.closest(said.measured) !== null) continue
+          const trigger = panel.querySelector<HTMLElement>(said.trigger)
+          if (trigger === null) continue
+          trigger.click()
+          count += 1
+        }
+        return count
+      }, where)
+      .catch(() => 0)
+    if (clicked === 0) break
+    await waited(PANEL_SETTLE_MS)
+  }
+  return waited(PANEL_SETTLE_MS)
+}
+
 export async function browserScreenshot(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in read) return refusedBy(read.refused)
@@ -119,6 +159,7 @@ export async function browserScreenshot(argv: readonly string[], given: Given): 
       signInPath: taken.signInPath,
       timeout: taken.timeoutMs,
     })
+    if (taken.expandPanels) await opened(session.page)
     await session.page.screenshot({ path: written, fullPage: taken.fullPage })
     return told([written])
   } finally {

@@ -34,6 +34,22 @@ export const browserScreenshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "`--expand-panels` opens every panel drawn closed before the shot is taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel already open is left open rather than clicked shut.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Panels are opened again until none is left closed or five rounds are spent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The layout is given time to settle after the last panel opens.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The window is 1440 wide and 1000 tall where the call says neither.",
     },
     {
@@ -61,6 +77,7 @@ export const browserScreenshot = {
     { argument: "argument/width", default: "1440" },
     { argument: "argument/height", default: "1000" },
     { argument: "argument/full-page" },
+    { argument: "argument/expand-panels" },
     { argument: "argument/signed-in" },
     { argument: "argument/sign-in-path" },
     { argument: "argument/root-selector" },

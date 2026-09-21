@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
+import { expandPanels } from "akasha/command/argument/pages/expand-panels.argument.ts"
 import { fullPage } from "akasha/command/argument/pages/full-page.argument.ts"
 import { height } from "akasha/command/argument/pages/height.argument.ts"
 import { hydrationSelector } from "akasha/command/argument/pages/hydration-selector.argument.ts"
@@ -31,6 +32,7 @@ const PAGES: readonly Argument[] = [
   width,
   height,
   fullPage,
+  expandPanels,
   signedIn,
   signInPath,
   rootSelector,
