@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingTheFirstNoel = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-the-first-noel",
   ownLength: 2.816666666666667,
-  ownProgress: 0,
+  ownProgress: 2.816666666666667,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

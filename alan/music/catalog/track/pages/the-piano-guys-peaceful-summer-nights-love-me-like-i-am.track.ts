@@ -5,10 +5,10 @@ export const thePianoGuysPeacefulSummerNightsLoveMeLikeIAm = {
   type: "page-type/track",
   slug: "the-piano-guys-peaceful-summer-nights-love-me-like-i-am",
   ownLength: 4.5694333333333335,
-  ownProgress: 0,
+  ownProgress: 4.5694333333333335,
   partOfCollections: ["release/the-piano-guys-peaceful-summer-nights"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

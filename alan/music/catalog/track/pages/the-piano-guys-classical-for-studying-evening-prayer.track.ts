@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingEveningPrayer = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-evening-prayer",
   ownLength: 1.6443166666666666,
-  ownProgress: 0,
+  ownProgress: 1.6443166666666666,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

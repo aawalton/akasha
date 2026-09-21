@@ -5,10 +5,10 @@ export const auroraComeCloserTheThing = {
   type: "page-type/track",
   slug: "aurora-come-closer-the-thing",
   ownLength: 5.6353333333333335,
-  ownProgress: 0,
+  ownProgress: 5.6353333333333335,
   partOfCollections: ["release/aurora-come-closer"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

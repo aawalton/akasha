@@ -5,10 +5,10 @@ export const thePianoGuysRelaxingPianoClairDeLune = {
   type: "page-type/track",
   slug: "the-piano-guys-relaxing-piano-clair-de-lune",
   ownLength: 3.2080166666666665,
-  ownProgress: 0,
+  ownProgress: 3.2080166666666665,
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

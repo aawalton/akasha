@@ -5,10 +5,10 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2FightSongAmazingG
   type: "page-type/track",
   slug: "the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2-fight-song-amazing-grace",
   ownLength: 4.0823833333333335,
-  ownProgress: 0,
+  ownProgress: 4.0823833333333335,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

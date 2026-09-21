@@ -5,10 +5,10 @@ export const thePianoGuysPianoFocusEyeOfTheTiger = {
   type: "page-type/track",
   slug: "the-piano-guys-piano-focus-eye-of-the-tiger",
   ownLength: 4.046083333333334,
-  ownProgress: 0,
+  ownProgress: 4.046083333333334,
   partOfCollections: ["release/the-piano-guys-piano-focus"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

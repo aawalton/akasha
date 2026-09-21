@@ -5,10 +5,10 @@ export const thePianoGuysRelaxingPianoUnchainedMelody = {
   type: "page-type/track",
   slug: "the-piano-guys-relaxing-piano-unchained-melody",
   ownLength: 3.0182,
-  ownProgress: 0,
+  ownProgress: 3.0182,
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

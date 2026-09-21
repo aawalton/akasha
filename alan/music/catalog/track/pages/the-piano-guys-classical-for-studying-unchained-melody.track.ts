@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingUnchainedMelody = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-unchained-melody",
   ownLength: 3.0182,
-  ownProgress: 0,
+  ownProgress: 3.0182,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

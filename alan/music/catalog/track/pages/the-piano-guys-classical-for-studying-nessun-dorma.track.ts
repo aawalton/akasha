@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingNessunDorma = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-nessun-dorma",
   ownLength: 2.4590833333333335,
-  ownProgress: 0,
+  ownProgress: 2.4590833333333335,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

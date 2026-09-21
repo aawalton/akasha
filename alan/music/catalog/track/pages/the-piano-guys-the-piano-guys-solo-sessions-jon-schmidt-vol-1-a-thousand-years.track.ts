@@ -5,10 +5,10 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1AThousandYears = 
   type: "page-type/track",
   slug: "the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1-a-thousand-years",
   ownLength: 4.50735,
-  ownProgress: 0,
+  ownProgress: 4.50735,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

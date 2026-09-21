@@ -5,10 +5,10 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Perfect = {
   type: "page-type/track",
   slug: "the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1-perfect",
   ownLength: 5.141666666666667,
-  ownProgress: 0,
+  ownProgress: 5.141666666666667,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

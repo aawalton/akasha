@@ -5,10 +5,10 @@ export const thePianoGuysAutumnOnPianoIWillAlwaysLoveYou = {
   type: "page-type/track",
   slug: "the-piano-guys-autumn-on-piano-i-will-always-love-you",
   ownLength: 3.140833333333333,
-  ownProgress: 0,
+  ownProgress: 3.140833333333333,
   partOfCollections: ["release/the-piano-guys-autumn-on-piano"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

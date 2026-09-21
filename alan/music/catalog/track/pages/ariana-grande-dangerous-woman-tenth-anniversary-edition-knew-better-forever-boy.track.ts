@@ -5,10 +5,10 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionKnewBetterForeverB
   type: "page-type/track",
   slug: "ariana-grande-dangerous-woman-tenth-anniversary-edition-knew-better-forever-boy",
   ownLength: 4.986883333333333,
-  ownProgress: 0,
+  ownProgress: 4.986883333333333,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

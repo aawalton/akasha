@@ -5,10 +5,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-march-of-the-witch-hunters",
   ownLength: 2.603483333333333,
-  ownProgress: 0,
+  ownProgress: 2.603483333333333,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   position: 19,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuysSerenityStoryOfMyLife = {
   type: "page-type/track",
   slug: "the-piano-guys-serenity-story-of-my-life",
   ownLength: 4.51355,
-  ownProgress: 0,
+  ownProgress: 4.51355,
   partOfCollections: ["release/the-piano-guys-serenity"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuysAutumnOnPianoGhost = {
   type: "page-type/track",
   slug: "the-piano-guys-autumn-on-piano-ghost",
   ownLength: 3.4423,
-  ownProgress: 0,
+  ownProgress: 3.4423,
   partOfCollections: ["release/the-piano-guys-autumn-on-piano"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

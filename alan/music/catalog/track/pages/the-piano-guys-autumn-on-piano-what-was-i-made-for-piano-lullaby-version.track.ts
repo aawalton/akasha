@@ -5,10 +5,10 @@ export const thePianoGuysAutumnOnPianoWhatWasIMadeForPianoLullabyVersion = {
   type: "page-type/track",
   slug: "the-piano-guys-autumn-on-piano-what-was-i-made-for-piano-lullaby-version",
   ownLength: 3.9772333333333334,
-  ownProgress: 0,
+  ownProgress: 3.9772333333333334,
   partOfCollections: ["release/the-piano-guys-autumn-on-piano"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

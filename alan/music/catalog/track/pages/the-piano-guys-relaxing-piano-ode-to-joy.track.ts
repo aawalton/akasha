@@ -5,10 +5,10 @@ export const thePianoGuysRelaxingPianoOdeToJoy = {
   type: "page-type/track",
   slug: "the-piano-guys-relaxing-piano-ode-to-joy",
   ownLength: 1.7685166666666667,
-  ownProgress: 0,
+  ownProgress: 1.7685166666666667,
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

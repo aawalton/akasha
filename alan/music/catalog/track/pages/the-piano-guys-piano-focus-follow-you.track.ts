@@ -5,10 +5,10 @@ export const thePianoGuysPianoFocusFollowYou = {
   type: "page-type/track",
   slug: "the-piano-guys-piano-focus-follow-you",
   ownLength: 3.186,
-  ownProgress: 0,
+  ownProgress: 3.186,
   partOfCollections: ["release/the-piano-guys-piano-focus"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

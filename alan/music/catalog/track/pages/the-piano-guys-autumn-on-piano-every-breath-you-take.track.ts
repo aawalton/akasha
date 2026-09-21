@@ -5,10 +5,10 @@ export const thePianoGuysAutumnOnPianoEveryBreathYouTake = {
   type: "page-type/track",
   slug: "the-piano-guys-autumn-on-piano-every-breath-you-take",
   ownLength: 4.536833333333333,
-  ownProgress: 0,
+  ownProgress: 4.536833333333333,
   partOfCollections: ["release/the-piano-guys-autumn-on-piano"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuysRelaxingPianoWhatWasIMadeFor = {
   type: "page-type/track",
   slug: "the-piano-guys-relaxing-piano-what-was-i-made-for",
   ownLength: 4.180616666666666,
-  ownProgress: 0,
+  ownProgress: 4.180616666666666,
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

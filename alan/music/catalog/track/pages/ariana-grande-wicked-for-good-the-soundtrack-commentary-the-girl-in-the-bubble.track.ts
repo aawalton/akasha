@@ -5,10 +5,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubble 
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-the-girl-in-the-bubble",
   ownLength: 3.675,
-  ownProgress: 0,
+  ownProgress: 3.675,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   position: 21,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

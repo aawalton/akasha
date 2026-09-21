@@ -5,10 +5,10 @@ export const thePianoGuysSerenitySomeoneYouLoved = {
   type: "page-type/track",
   slug: "the-piano-guys-serenity-someone-you-loved",
   ownLength: 3.3857666666666666,
-  ownProgress: 0,
+  ownProgress: 3.3857666666666666,
   partOfCollections: ["release/the-piano-guys-serenity"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

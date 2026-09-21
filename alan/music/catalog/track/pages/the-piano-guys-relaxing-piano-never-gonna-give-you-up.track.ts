@@ -5,10 +5,10 @@ export const thePianoGuysRelaxingPianoNeverGonnaGiveYouUp = {
   type: "page-type/track",
   slug: "the-piano-guys-relaxing-piano-never-gonna-give-you-up",
   ownLength: 3.04385,
-  ownProgress: 0,
+  ownProgress: 3.04385,
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

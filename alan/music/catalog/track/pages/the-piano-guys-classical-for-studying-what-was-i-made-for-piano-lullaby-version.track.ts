@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingWhatWasIMadeForPianoLullabyVersion 
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-what-was-i-made-for-piano-lullaby-version",
   ownLength: 3.9772333333333334,
-  ownProgress: 0,
+  ownProgress: 3.9772333333333334,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

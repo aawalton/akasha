@@ -5,10 +5,10 @@ export const thePianoGuysSerenityRewriteTheStars = {
   type: "page-type/track",
   slug: "the-piano-guys-serenity-rewrite-the-stars",
   ownLength: 3.52555,
-  ownProgress: 0,
+  ownProgress: 3.52555,
   partOfCollections: ["release/the-piano-guys-serenity"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuysPeacefulSummerNightsUnchainedMelody = {
   type: "page-type/track",
   slug: "the-piano-guys-peaceful-summer-nights-unchained-melody",
   ownLength: 3.0182,
-  ownProgress: 0,
+  ownProgress: 3.0182,
   partOfCollections: ["release/the-piano-guys-peaceful-summer-nights"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

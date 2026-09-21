@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingAChangeInTheAir = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-a-change-in-the-air",
   ownLength: 5.239983333333333,
-  ownProgress: 0,
+  ownProgress: 5.239983333333333,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

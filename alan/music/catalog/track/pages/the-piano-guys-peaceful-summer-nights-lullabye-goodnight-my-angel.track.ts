@@ -5,10 +5,10 @@ export const thePianoGuysPeacefulSummerNightsLullabyeGoodnightMyAngel = {
   type: "page-type/track",
   slug: "the-piano-guys-peaceful-summer-nights-lullabye-goodnight-my-angel",
   ownLength: 3.229016666666667,
-  ownProgress: 0,
+  ownProgress: 3.229016666666667,
   partOfCollections: ["release/the-piano-guys-peaceful-summer-nights"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

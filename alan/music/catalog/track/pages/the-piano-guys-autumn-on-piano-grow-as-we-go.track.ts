@@ -5,10 +5,10 @@ export const thePianoGuysAutumnOnPianoGrowAsWeGo = {
   type: "page-type/track",
   slug: "the-piano-guys-autumn-on-piano-grow-as-we-go",
   ownLength: 4.3148,
-  ownProgress: 0,
+  ownProgress: 4.3148,
   partOfCollections: ["release/the-piano-guys-autumn-on-piano"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

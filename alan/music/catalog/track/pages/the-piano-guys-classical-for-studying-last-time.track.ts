@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingLastTime = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-last-time",
   ownLength: 3.1416666666666666,
-  ownProgress: 0,
+  ownProgress: 3.1416666666666666,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

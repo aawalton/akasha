@@ -5,10 +5,10 @@ export const chaislynUnreliableNarratorMakeBelieve = {
   type: "page-type/track",
   slug: "chaislyn-unreliable-narrator-make-believe",
   ownLength: 3.1366666666666667,
-  ownProgress: 0,
+  ownProgress: 3.1366666666666667,
   partOfCollections: ["release/chaislyn-unreliable-narrator"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

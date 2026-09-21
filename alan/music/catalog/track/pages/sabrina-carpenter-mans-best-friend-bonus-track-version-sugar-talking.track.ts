@@ -5,10 +5,10 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionSugarTalking = {
   type: "page-type/track",
   slug: "sabrina-carpenter-mans-best-friend-bonus-track-version-sugar-talking",
   ownLength: 3.0628333333333333,
-  ownProgress: 0,
+  ownProgress: 3.0628333333333333,
   partOfCollections: ["release/sabrina-carpenter-mans-best-friend-bonus-track-version"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

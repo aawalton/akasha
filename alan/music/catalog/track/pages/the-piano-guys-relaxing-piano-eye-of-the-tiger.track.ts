@@ -5,10 +5,10 @@ export const thePianoGuysRelaxingPianoEyeOfTheTiger = {
   type: "page-type/track",
   slug: "the-piano-guys-relaxing-piano-eye-of-the-tiger",
   ownLength: 4.046083333333334,
-  ownProgress: 0,
+  ownProgress: 4.046083333333334,
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

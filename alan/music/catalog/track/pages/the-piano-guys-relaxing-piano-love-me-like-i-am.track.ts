@@ -5,10 +5,10 @@ export const thePianoGuysRelaxingPianoLoveMeLikeIAm = {
   type: "page-type/track",
   slug: "the-piano-guys-relaxing-piano-love-me-like-i-am",
   ownLength: 4.5694333333333335,
-  ownProgress: 0,
+  ownProgress: 4.5694333333333335,
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

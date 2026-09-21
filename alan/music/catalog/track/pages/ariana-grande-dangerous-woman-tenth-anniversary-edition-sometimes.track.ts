@@ -5,10 +5,10 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionSometimes = {
   type: "page-type/track",
   slug: "ariana-grande-dangerous-woman-tenth-anniversary-edition-sometimes",
   ownLength: 3.7777666666666665,
-  ownProgress: 0,
+  ownProgress: 3.7777666666666665,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

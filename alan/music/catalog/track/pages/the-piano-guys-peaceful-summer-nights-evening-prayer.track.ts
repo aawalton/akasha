@@ -5,10 +5,10 @@ export const thePianoGuysPeacefulSummerNightsEveningPrayer = {
   type: "page-type/track",
   slug: "the-piano-guys-peaceful-summer-nights-evening-prayer",
   ownLength: 1.6443166666666666,
-  ownProgress: 0,
+  ownProgress: 1.6443166666666666,
   partOfCollections: ["release/the-piano-guys-peaceful-summer-nights"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

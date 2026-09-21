@@ -5,10 +5,10 @@ export const thePianoGuysPeacefulSummerNightsWhatWasIMadeForPianoLullabyVersion 
   type: "page-type/track",
   slug: "the-piano-guys-peaceful-summer-nights-what-was-i-made-for-piano-lullaby-version",
   ownLength: 3.9772333333333334,
-  ownProgress: 0,
+  ownProgress: 3.9772333333333334,
   partOfCollections: ["release/the-piano-guys-peaceful-summer-nights"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

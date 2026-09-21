@@ -5,10 +5,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoPlaceLikeHome = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-no-place-like-home",
   ownLength: 3.8538833333333335,
-  ownProgress: 0,
+  ownProgress: 3.8538833333333335,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

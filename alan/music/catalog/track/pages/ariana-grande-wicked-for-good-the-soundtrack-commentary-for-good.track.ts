@@ -5,10 +5,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGood = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-for-good",
   ownLength: 6.284966666666667,
-  ownProgress: 0,
+  ownProgress: 6.284966666666667,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   position: 23,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

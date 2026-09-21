@@ -5,10 +5,10 @@ export const zaraLarssonMidnightSunGirlsTripTheAmbition = {
   type: "page-type/track",
   slug: "zara-larsson-midnight-sun-girls-trip-the-ambition",
   ownLength: 3.5784166666666666,
-  ownProgress: 0,
+  ownProgress: 3.5784166666666666,
   partOfCollections: ["release/zara-larsson-midnight-sun-girls-trip"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

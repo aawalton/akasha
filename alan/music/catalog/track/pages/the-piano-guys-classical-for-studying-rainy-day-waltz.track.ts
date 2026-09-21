@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingRainyDayWaltz = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-rainy-day-waltz",
   ownLength: 3.7321166666666667,
-  ownProgress: 0,
+  ownProgress: 3.7321166666666667,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

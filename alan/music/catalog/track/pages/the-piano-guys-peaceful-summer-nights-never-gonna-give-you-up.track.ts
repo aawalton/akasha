@@ -5,10 +5,10 @@ export const thePianoGuysPeacefulSummerNightsNeverGonnaGiveYouUp = {
   type: "page-type/track",
   slug: "the-piano-guys-peaceful-summer-nights-never-gonna-give-you-up",
   ownLength: 3.04385,
-  ownProgress: 0,
+  ownProgress: 3.04385,
   partOfCollections: ["release/the-piano-guys-peaceful-summer-nights"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

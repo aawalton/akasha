@@ -5,10 +5,10 @@ export const thePianoGuysPianoFocusWhenYoureGone = {
   type: "page-type/track",
   slug: "the-piano-guys-piano-focus-when-youre-gone",
   ownLength: 3,
-  ownProgress: 0,
+  ownProgress: 3,
   partOfCollections: ["release/the-piano-guys-piano-focus"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

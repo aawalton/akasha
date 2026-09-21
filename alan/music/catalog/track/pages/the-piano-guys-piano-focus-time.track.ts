@@ -5,10 +5,10 @@ export const thePianoGuysPianoFocusTime = {
   type: "page-type/track",
   slug: "the-piano-guys-piano-focus-time",
   ownLength: 4.2,
-  ownProgress: 0,
+  ownProgress: 4.2,
   partOfCollections: ["release/the-piano-guys-piano-focus"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

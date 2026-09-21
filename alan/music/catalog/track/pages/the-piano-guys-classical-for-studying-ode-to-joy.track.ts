@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingOdeToJoy = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-ode-to-joy",
   ownLength: 1.7685166666666667,
-  ownProgress: 0,
+  ownProgress: 1.7685166666666667,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

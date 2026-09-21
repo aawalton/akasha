@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingEyeOfTheTiger = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-eye-of-the-tiger",
   ownLength: 4.046083333333334,
-  ownProgress: 0,
+  ownProgress: 4.046083333333334,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

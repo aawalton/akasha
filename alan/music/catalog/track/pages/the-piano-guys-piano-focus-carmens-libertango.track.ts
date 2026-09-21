@@ -5,10 +5,10 @@ export const thePianoGuysPianoFocusCarmensLibertango = {
   type: "page-type/track",
   slug: "the-piano-guys-piano-focus-carmens-libertango",
   ownLength: 2.7695833333333333,
-  ownProgress: 0,
+  ownProgress: 2.7695833333333333,
   partOfCollections: ["release/the-piano-guys-piano-focus"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

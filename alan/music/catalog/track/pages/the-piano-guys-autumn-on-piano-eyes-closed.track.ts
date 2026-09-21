@@ -5,10 +5,10 @@ export const thePianoGuysAutumnOnPianoEyesClosed = {
   type: "page-type/track",
   slug: "the-piano-guys-autumn-on-piano-eyes-closed",
   ownLength: 4.0759,
-  ownProgress: 0,
+  ownProgress: 4.0759,
   partOfCollections: ["release/the-piano-guys-autumn-on-piano"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

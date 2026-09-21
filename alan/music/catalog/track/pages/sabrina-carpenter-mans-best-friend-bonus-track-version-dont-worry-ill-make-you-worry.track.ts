@@ -5,10 +5,10 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionDontWorryIllMakeYouW
   type: "page-type/track",
   slug: "sabrina-carpenter-mans-best-friend-bonus-track-version-dont-worry-ill-make-you-worry",
   ownLength: 3.7053333333333334,
-  ownProgress: 0,
+  ownProgress: 3.7053333333333334,
   partOfCollections: ["release/sabrina-carpenter-mans-best-friend-bonus-track-version"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuysRelaxingPianoEnchanted = {
   type: "page-type/track",
   slug: "the-piano-guys-relaxing-piano-enchanted",
   ownLength: 4.9833,
-  ownProgress: 0,
+  ownProgress: 4.9833,
   partOfCollections: ["release/the-piano-guys-relaxing-piano"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

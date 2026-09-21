@@ -5,10 +5,10 @@ export const thePianoGuysAutumnOnPianoUnchainedMelody = {
   type: "page-type/track",
   slug: "the-piano-guys-autumn-on-piano-unchained-melody",
   ownLength: 3.0182,
-  ownProgress: 0,
+  ownProgress: 3.0182,
   partOfCollections: ["release/the-piano-guys-autumn-on-piano"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

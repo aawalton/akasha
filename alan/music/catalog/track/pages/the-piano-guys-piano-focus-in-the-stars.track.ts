@@ -5,10 +5,10 @@ export const thePianoGuysPianoFocusInTheStars = {
   type: "page-type/track",
   slug: "the-piano-guys-piano-focus-in-the-stars",
   ownLength: 3.6346,
-  ownProgress: 0,
+  ownProgress: 3.6346,
   partOfCollections: ["release/the-piano-guys-piano-focus"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-thank-goodness-i-couldnt-be-happier-2",
   ownLength: 5.3811,
-  ownProgress: 0,
+  ownProgress: 5.3811,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

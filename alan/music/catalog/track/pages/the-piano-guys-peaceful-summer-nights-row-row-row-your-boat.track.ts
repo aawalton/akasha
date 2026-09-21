@@ -5,10 +5,10 @@ export const thePianoGuysPeacefulSummerNightsRowRowRowYourBoat = {
   type: "page-type/track",
   slug: "the-piano-guys-peaceful-summer-nights-row-row-row-your-boat",
   ownLength: 1.6733333333333333,
-  ownProgress: 0,
+  ownProgress: 1.6733333333333333,
   partOfCollections: ["release/the-piano-guys-peaceful-summer-nights"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2FurEliseJam = {
   type: "page-type/track",
   slug: "the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2-fur-elise-jam",
   ownLength: 2.1148833333333332,
-  ownProgress: 0,
+  ownProgress: 2.1148833333333332,
   partOfCollections: ["release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

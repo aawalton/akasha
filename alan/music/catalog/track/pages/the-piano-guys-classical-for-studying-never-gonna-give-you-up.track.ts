@@ -5,10 +5,10 @@ export const thePianoGuysClassicalForStudyingNeverGonnaGiveYouUp = {
   type: "page-type/track",
   slug: "the-piano-guys-classical-for-studying-never-gonna-give-you-up",
   ownLength: 3.04385,
-  ownProgress: 0,
+  ownProgress: 3.04385,
   partOfCollections: ["release/the-piano-guys-classical-for-studying"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

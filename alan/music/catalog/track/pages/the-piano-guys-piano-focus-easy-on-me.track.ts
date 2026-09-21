@@ -5,10 +5,10 @@ export const thePianoGuysPianoFocusEasyOnMe = {
   type: "page-type/track",
   slug: "the-piano-guys-piano-focus-easy-on-me",
   ownLength: 2.9859,
-  ownProgress: 0,
+  ownProgress: 2.9859,
   partOfCollections: ["release/the-piano-guys-piano-focus"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
