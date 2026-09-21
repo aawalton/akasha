@@ -22,7 +22,34 @@ export const appHandoverSession = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A code naming a contributor no user answers to signs nobody in.",
+      statement:
+        "A code naming a contributor no user answers to opens a user from that contributor's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code naming a contributor that is no page either signs nobody in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor page holds a hash of an address rather than the address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A user opened from a contributor page takes that contributor's slug as its name and its address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That address is at handover.invalid, a domain no mail reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a holder of the handover signing key names a contributor in a code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A code that key signs is traded for a session whether or not a user was there already.",
     },
     {
       decisionKind: "decision-kind/departure",
