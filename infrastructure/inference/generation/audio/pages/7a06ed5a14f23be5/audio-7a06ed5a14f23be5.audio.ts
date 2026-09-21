@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio7a06ed5a14f23be5 = {
+  id: "01a0c64c-7eea-7126-b164-b481d0ab5449",
+  type: "page-type/audio",
+  slug: "audio-7a06ed5a14f23be5",
+  title: "moss-tts voice-clone @ 2026-07-10T19:26:27.828Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "As little foundation is there for the report that I am a teacher, and take money; this accusation has no more truth in it than the other. Although, if a man were really able to instruct mankind, to receive money for giving instruction would, in my opinion, be an honour to him. There is Gorgias of Leontium, and Prodicus of Ceos, and Hippias of Elis, who go the round of the cities, and are able to persuade the young men to leave their own citizens by whom they might be taught for nothing, and come to them whom they not only pay, but are thankful if they may be allowed to pay them. There is at this time a Parian philosopher residing in Athens, of whom I have heard; and I came to hear of him in this way:—I came across a man who has spent a world of money on the Sophists, Callias, the son of Hipponicus, and knowing that he had sons, I asked him: “Callias,” I said, “if your two sons were foals or calves, there would be no difficulty in finding some one to put over them; we should hire a trainer of horses, or a farmer probably, who would improve and perfect them in their own proper virtue and excellence; but as they are human beings, whom are you thinking of placing over them? Is there any one who understands human and political virtue? You must have thought about the matter, for you have sons; is there any one?” “There is,” he said. “Who is he?” said I; “and of what country?",
+} as const satisfies Audio

@@ -1,0 +1,8 @@
+{"id":"01a0c64c-7eea-704e-858b-bbde1e13c3ab"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-385b2bdf11af2739"}
+{"text":"Seventeen violet lanterns drifted across the harbor at midnight, and the tide answered."}
+{"title":"moss-tts voice-clone @ 2026-07-10T19:12:12.841Z"}
+{"type":"page-type/audio"}
