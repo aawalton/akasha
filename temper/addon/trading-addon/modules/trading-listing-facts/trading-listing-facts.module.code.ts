@@ -13,8 +13,8 @@ import type { ClassifiableItem } from "akasha/temper/items/core/modules/item-cat
 import {
   buildItemFactsFromInventoryItem,
   resolveStaticItemKey,
-} from "akasha/temper/items-rules-eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
-import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
+} from "akasha/temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 
 function linkToInventoryItem(itemLink: string, stackCount: number): InventoryItemData {
   const [filterTypeBroad, filterTypeSpecific] = GetItemLinkFilterTypeInfo(itemLink)

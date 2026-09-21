@@ -21,13 +21,13 @@ import {
   decideBrowseNext,
   INITIAL_BROWSE_STATE,
 } from "akasha/temper/economy/trading/listing/modules/browse-state/browse-state.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 import { buildFilterIndex } from "akasha/temper/items-filters-core/modules/search-filter-registry/search-filter-registry.module.code.ts"
 import {
   type ActiveFilterValues,
   itemPassesFilters,
 } from "akasha/temper/items-filters-core/modules/search-filter-set/search-filter-set.module.code.ts"
 import { createSearchRequestCollector } from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
-import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 
 const TRADING_HOUSE_SORT_SALE_PRICE_PER_UNIT = 3
 const TRADING_HOUSE_RESULT_SEARCH_PENDING = 14

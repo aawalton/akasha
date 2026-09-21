@@ -22,7 +22,6 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.code.ts"}
-{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.test.ts"}
@@ -43,6 +42,7 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-value/inventory-value.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-buy/inventory-management-plan-buy.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts"}

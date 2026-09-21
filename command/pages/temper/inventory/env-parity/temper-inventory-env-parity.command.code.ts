@@ -26,7 +26,7 @@ import {
   classifyInventoryForMatcher,
 } from "akasha/temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import type { WalkOutcome } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
+import type { WalkOutcome } from "akasha/temper/items/rules/eval/modules/eval-result/eval-result.module.code.ts"
 import {
   buildItemIdToCooldownGroup,
   buildWebEvalEnv,

@@ -11,7 +11,7 @@ import {
   sideOf,
   sidesAgree,
 } from "akasha/command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"
-import type { WalkOutcome } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
+import type { WalkOutcome } from "akasha/temper/items/rules/eval/modules/eval-result/eval-result.module.code.ts"
 
 const EDICT = 71779
 

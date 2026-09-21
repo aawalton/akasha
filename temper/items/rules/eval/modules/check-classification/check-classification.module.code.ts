@@ -1,0 +1,89 @@
+import { esoTraitToTemperId } from "akasha/temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"
+import { itemNameMatchesPattern } from "akasha/temper/items/core/modules/item-name-pattern/item-name-pattern.module.code.ts"
+import { SET_ESO_ID_TO_CATEGORY } from "akasha/temper/items/core/modules/set-category-mappings/set-category-mappings.module.code.ts"
+import {
+  type ConditionCheckResult,
+  misshapenList,
+} from "akasha/temper/items/rules/eval/modules/check-result/check-result.module.code.ts"
+import type { EvalContext } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+
+export function checkClassification(
+  rule: CompiledOrderedRule,
+  facts: ItemFacts,
+  _ctx: EvalContext
+): ConditionCheckResult {
+  if (
+    rule.canSell === undefined &&
+    rule.itemNamePattern === undefined &&
+    rule.canCompanionEquip === undefined &&
+    rule.traits === undefined &&
+    rule.setSourceTypes === undefined
+  ) {
+    return { kind: "skip" }
+  }
+
+  if (rule.canSell === "can-sell") {
+    if ((facts.merchantValue ?? 0) <= 0) {
+      return { kind: "fail", conditionKind: "canSell" }
+    }
+  }
+
+  if (rule.itemNamePattern !== undefined) {
+    if (!itemNameMatchesPattern(facts.itemName, rule.itemNamePattern)) {
+      return { kind: "fail", conditionKind: "itemNamePattern" }
+    }
+  }
+
+  if (rule.canCompanionEquip !== undefined) {
+    if (facts.traitType === undefined) {
+      return {
+        kind: "indeterminate",
+        conditionKind: "canCompanionEquip",
+        missingSignal: "traitType",
+      }
+    }
+    const isCompanionEquippable = facts.traitType >= 34 && facts.traitType <= 60
+    if (rule.canCompanionEquip === "can-companion-equip" && !isCompanionEquippable) {
+      return { kind: "fail", conditionKind: "canCompanionEquip" }
+    }
+    if (rule.canCompanionEquip === "cannot-companion-equip" && isCompanionEquippable) {
+      return { kind: "fail", conditionKind: "canCompanionEquip" }
+    }
+  }
+
+  if (rule.traits !== undefined) {
+    const misshapen = misshapenList("traits", rule.traits)
+    if (misshapen !== undefined) return misshapen
+  }
+
+  if (rule.setSourceTypes !== undefined) {
+    const misshapen = misshapenList("setSourceTypes", rule.setSourceTypes)
+    if (misshapen !== undefined) return misshapen
+  }
+
+  if (rule.traits !== undefined && rule.traits.length > 0) {
+    if (facts.traitType === undefined) {
+      return { kind: "indeterminate", conditionKind: "traits", missingSignal: "traitType" }
+    }
+    const temperId = esoTraitToTemperId(facts.traitType, facts.equipType)
+    if (temperId === undefined) {
+      return { kind: "fail", conditionKind: "traits", detail: "no-temper-id" }
+    }
+    if (!rule.traits.includes(temperId)) {
+      return { kind: "fail", conditionKind: "traits", detail: temperId }
+    }
+  }
+
+  if (rule.setSourceTypes !== undefined && rule.setSourceTypes.length > 0) {
+    if (facts.setId !== undefined) {
+      const category = SET_ESO_ID_TO_CATEGORY[facts.setId] ?? "no-type"
+      if (!rule.setSourceTypes.includes(category)) {
+        return { kind: "fail", conditionKind: "setSourceTypes", detail: category }
+      }
+    }
+  }
+
+  return { kind: "pass" }
+}

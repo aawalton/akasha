@@ -26,15 +26,15 @@ import {
   PLAYER_JEWELRY_ESO_TO_TRAIT,
   PLAYER_WEAPON_ESO_TO_TRAIT,
 } from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
-import type { EvalContext } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
+import type { EvalContext } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import type {
   IndeterminateReason,
   RuleEvalResult,
-} from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
+} from "akasha/temper/items/rules/eval/modules/eval-result/eval-result.module.code.ts"
 import {
   evaluateRule,
   walkRules,
-} from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
+} from "akasha/temper/items/rules/eval/modules/evaluator/evaluator.module.code.ts"
 
 const PREFIX = "[TemperRules]"
 

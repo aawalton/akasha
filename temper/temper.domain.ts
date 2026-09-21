@@ -24,7 +24,6 @@ export const temper = {
     "domain/temper-items-filters-addon",
     "domain/temper-items-filters-core",
     "domain/temper-items-rules-core",
-    "domain/temper-items-rules-eval",
     "domain/temper-items-rules-matcher",
     "domain/temper-items-rules-routing-core",
     "domain/temper-lorebook",

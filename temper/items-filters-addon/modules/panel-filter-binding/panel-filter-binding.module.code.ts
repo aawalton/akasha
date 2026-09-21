@@ -1,5 +1,6 @@
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-inventory/eso-inventory.type-declaration.d.ts"
+import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 import type { ActiveFilterValues } from "akasha/temper/items-filters-core/modules/search-filter-set/search-filter-set.module.code.ts"
 import { itemPassesFilters } from "akasha/temper/items-filters-core/modules/search-filter-set/search-filter-set.module.code.ts"
 import type {
@@ -7,7 +8,6 @@ import type {
   FilterId,
   FilterValue,
 } from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
-import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
 
 export type FactsSource = (this: void, slotData: InventoryRowSlotData) => ItemFacts | undefined
 

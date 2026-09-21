@@ -1,9 +1,9 @@
+import { checkNumeric } from "akasha/temper/items/rules/eval/modules/check-numeric/check-numeric.module.code.ts"
 import { runChecker } from "akasha/temper/items-filters-core/modules/search-eval-adapter/search-eval-adapter.module.code.ts"
 import type { FilterRangeValue } from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
 import { defineFilter } from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
 import { parseRangeValue } from "akasha/temper/items-filters-core/modules/search-range-value-parse/search-range-value-parse.module.code.ts"
 import { thresholdToServerBand } from "akasha/temper/items-filters-core/modules/search-server-narrowing/search-server-narrowing.module.code.ts"
-import { checkNumeric } from "akasha/temper/items-rules-eval/modules/check-numeric/check-numeric.module.code.ts"
 
 export const LEVEL_FILTER = defineFilter<FilterRangeValue>({
   id: "level",
