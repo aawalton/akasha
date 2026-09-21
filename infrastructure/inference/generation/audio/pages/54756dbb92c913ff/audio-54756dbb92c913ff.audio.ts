@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio54756dbb92c913ff = {
+  id: "01a0c650-56ef-737b-9255-806d7b518379",
+  type: "page-type/audio",
+  slug: "audio-54756dbb92c913ff",
+  title: "moss-tts voice-clone @ 2026-07-25T06:32:38.361Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "He wanted to shake Erin by the shoulders or drop Iuncuta Eirnos and a full strike team on Jungle Tails’ heads. But he couldn’t. So, the tired Titan of Baleros stood there, counting pairs of socks and wondering if eleven was enough. Dress socks, enchanted socks…it used to be you just hoped you had enough socks. He was so tired that when he turned and saw the door, he just ignored it. Niers Astoragon walked past the door that stood upright, despite having no hinges or anything supporting it, next to a map of Baleros. He found another pair of socks and tossed them into his bag of holding. Then his head turned back. “…Hm?” The door was gone. The Titan rubbed at his eyes, then went back to picking out socks. And oh so carefully, he adjusted his belt and made sure the enchanted dagger was ready to throw. When he turned around with some boxers, the door was standing in the center of his table. “Ah.” This time, he walked around it and triggered a silent alarm on one of his rings. A door appearing in his chambers meant whomever had sent it had bypassed enough security measures to make even Foliana trip up. But he didn’t sense instant danger…the Titan inspected the carvings on the stone door. “Hm. Harpy. The Death of Wings? If you’re here, announce yourself. I’m in a bad mood.” The tiny Fraerling’s head swept around, and his stare left a streak of soot on the maps on his blackboard, the table with the chess board. He waited—then counted. “…nineteen…twenty…ah, fuck.",
+} as const satisfies Audio

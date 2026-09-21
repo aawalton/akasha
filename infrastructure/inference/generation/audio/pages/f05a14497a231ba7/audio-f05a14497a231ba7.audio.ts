@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audioF05a14497a231ba7 = {
+  id: "01a0c650-56f0-7dc3-a459-bbb06407a5d7",
+  type: "page-type/audio",
+  slug: "audio-f05a14497a231ba7",
+  title: "moss-tts voice-clone @ 2026-07-25T07:02:52.453Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "He stared out into the void. “Nothing on the level of strategic help. You curing Foliana was enough. It’s just a mess. Jungle Tails emerging the way it did truly did surprise me. Part of it was my former [Chamberlain], Peclir Im.” He scowled, imagining that bastard, and focused on the man’s rather bland features. His balding pate. Why had he turned traitor? Something Jungle Tails could offer him, more than gold or power, Niers bet. Erin jumped when she saw Peclir appear in the void. Niers smirked as he turned to her. “That’s Peclir Im, if you should ever meet him. A dangerous man. Not physically, but sharp. He fooled me. Jungle Tails is sweeping across western Baleros; their old strongholds. My forces are pulling back, reconsolidating. It looks like, well, this.” He swept a hand, and to his delight, the continent appeared in miniature around them, filling the void. Flags and figurines appeared as well, moving—the war room maps he had practically memorized. “Hey! Stop, stop!” Erin waved her hands as the images zoomed so she could peer down at western Baleros, where red lines indicated armies—even with troop counts and dispositions, Niers’ personal notes visualized perfectly. I’d love this Skill for planning warsims. Niers created an image of ten thousand Nagas advancing on one of his burning fortresses, a composite of images he’d seen and his imagination, and then glanced at Erin. The vision of battle hung in the distance. “What?",
+} as const satisfies Audio

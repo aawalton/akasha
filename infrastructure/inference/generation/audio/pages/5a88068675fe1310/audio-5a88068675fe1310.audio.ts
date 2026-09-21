@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio5a88068675fe1310 = {
+  id: "01a0c650-56ee-79fb-abc8-d9b829357977",
+  type: "page-type/audio",
+  slug: "audio-5a88068675fe1310",
+  title: "moss-tts voice-clone @ 2026-07-25T06:04:40.285Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "She hadn’t been feeling too bad—until she’d had to perform in a ship’s cabin a few days ago. The effort and motion had made her sick to her stomach—or maybe it was getting nearer to the continent and the tides changing. Thien leaned on the railing. He didn’t say anything to her. So she broached the silence. She hated silence; it got so uncomfortable. “It was supposed to be the New Lands. Izril, mainly. We’d hit First Landing, then go south. Tour the big cities and then the Walled Cities. Liscor…” “You were going to scout The Wandering Inn, right?” Her face didn’t change, but Thien knew all her tricks. The [Popstar] and [Thespian] was a gifted actress, but she couldn’t hide everything from him. She didn’t want to, but… “That’s a no-go after the Winter Solstice.” “So, what? We’re back to keeping everyone in Safety until we find a nation that fits us? C’mon, Cara. You did a great job getting everyone, but Abebi can’t keep them corralled forever. They’re going to…leave.” “They’re welcome to leave. It’s not a prison. But Wistram’s going after them, and so are Terandrian nations. I just wish we had some place that worked.” She spat some of her drink out over the railing; a bug had found its way in. Thien shrugged, uncomfortable. “Avel was great…” “I know. But its [King] can’t keep a secret to save his life. Nor can he force other nations or spies to back off. We needed Samal or somewhere that was truly safe. It doesn’t matter. The plan changed, and here we are.",
+} as const satisfies Audio

@@ -1,0 +1,9 @@
+{"id":"01a0c650-56ee-708b-97d2-1e1bc32bf65a"}
+{"instruct":"A calm, warm female narrator with a neutral English accent, measured and clear."}
+{"model":"mlx-community/VoxCPM2-bf16"}
+{"operation":"voice-design"}
+{"service":"voxcpm2"}
+{"slug":"audio-84fb806abd56fdc1"}
+{"text":"The fleet is back. Verifying that a render actually completes."}
+{"title":"voxcpm2 voice-design @ 2026-07-25T04:48:46.505Z"}
+{"type":"page-type/audio"}

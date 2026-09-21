@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio0325b3809d258d94 = {
+  id: "01a0c650-56f0-7940-99c4-8e51ebe0c724",
+  type: "page-type/audio",
+  slug: "audio-0325b3809d258d94",
+  title: "moss-tts voice-clone @ 2026-07-25T07:08:19.957Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "A rallying point. I bet that people are looking to it as the one safe point right now.” “Yes. But it can’t hold. It won’t, Erin. Jungle Tails has hitters as hard as my [Generals]. They will take the fortress if we make a stand there, especially if we collect so many we can’t actually put them in a fortress. It’ll be land battles. Army versus army, and they’ll die fast. Faster without healing potions.” She nodded. “It’s a symbol, though. And people are losing their homes, Niers. If you give them a chance to fight and die for it—some will take it. So long as this place stands, the entire region will rally around it.” He felt a light tingle on his skin. “They’ll be slaughtered. They would do a lot of damage, but I’m avoiding that.” She peered up at him, and her hazel eyes were suddenly bleak. “Yeah. But strategically, does this make more sense?” “From a certain point of view.” He was cold, but his arms were tingling, and he felt his heart leaping. A monster’s heart—Erin turned away. “It’s their choice. It should always be their choice. If you give people the right to die for home and family, not needlessly, they will take it. If you do that—how much time does it buy? How many troops does Jungle Tails have to divert to take this spot? How much does it distract them? How much morale does it raise?” “I can’t answer that. But—I think it’s worth trying.” He murmured, and she turned away. Waved a hand, and the continent below vanished.",
+} as const satisfies Audio

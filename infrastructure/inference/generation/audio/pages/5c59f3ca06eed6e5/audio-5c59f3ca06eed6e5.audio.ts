@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio5c59f3ca06eed6e5 = {
+  id: "01a0c650-56ef-798f-8838-29197b699792",
+  type: "page-type/audio",
+  slug: "audio-5c59f3ca06eed6e5",
+  title: "moss-tts voice-clone @ 2026-07-25T06:28:29.250Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "It was another difficult day. A bad day, he would have said…but he had lived through truly bad days. Having a bird rip a leg off didn’t even rank in his Top 10. No, these were just unpleasant. And it seemed, again, as if he should say that such days and nights had increased in number, but his memory was too good. Being an adventurer and then a young [Strategist] leading mercenaries meant he had wept all his tears long ago. Niers Astoragon had buried every companion he’d loved and known save for Foliana and precious few others. His best officers and friends in the Forgotten Wing company were former enemies—and children like Perorn all grown up. No—it was just disappointing. That was the word for it. He felt like he had earned, or won, the right to more pleasantness. At least some calm. Instead, he was once more up against multiple foes. Watching the Jungle Tail company, revived, eating pieces of his territory. Fighting the Dyed Lands, witnessing the scramble for the New Lands, and wondering when the next continental war would begin and whether his company would be in a position to weather the storm. But not just the big things. Big things he could accept and even pat himself on the back for being in a position where the Forgotten Wing company were players on the board. It was the small things. Small…like thinking you were going to meet someone you’d put a lot into. Too much, really. Imagination and hopes and—too much for her to ever live up to. If it was even appropriate.",
+} as const satisfies Audio
