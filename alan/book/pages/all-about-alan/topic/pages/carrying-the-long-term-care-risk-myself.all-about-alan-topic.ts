@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const carryingTheLongTermCareRiskMyself = {
+  id: "01a0c593-d82d-7d29-a067-7e7134b54d0f",
+  type: "page-type/all-about-alan-topic",
+  slug: "carrying-the-long-term-care-risk-myself",
+  title: "Carrying The Long Term Care Risk Myself",
+  definition: "holding the cost of care on our own assets rather than buying a policy for it",
+  parents: ["all-about-alan-topic/what-i-am-insured-for"],
+  related: [
+    "all-about-alan-topic/getting-out-from-under-a-dependency",
+    "all-about-alan-topic/why-every-life-insurer-starts-at-d",
+  ],
+  settled:
+    "We buy no long-term care cover, and carrying it on our own assets is the plan rather than the absence of one.\n\nI am forty and Jen is thirty-seven, so nothing here is likely to matter for twenty years or more, and one point seven million compounding across that gap will probably keep beating what a carrier would sell us.\n\nI will re-run the sum at fifty-five to sixty. Until then the action is the review, not the purchase.",
+} as const satisfies AllAboutAlanTopic
