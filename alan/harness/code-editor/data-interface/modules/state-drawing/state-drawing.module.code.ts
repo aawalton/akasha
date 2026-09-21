@@ -31,6 +31,11 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/command-tree/command-tree.code-editor-data-interface.d.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.d.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.d.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.d.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.d.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/data-interface/pages"
 

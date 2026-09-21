@@ -35,6 +35,7 @@ import {
   slugOf,
   slugsIn,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/status-bar/status-bar.code-editor-data-interface.d.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"
 
