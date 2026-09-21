@@ -24,6 +24,8 @@ import {
   getCurrentBar,
 } from "akasha/temper/addon/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"
 import { LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE } from "akasha/temper/addon/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const inf = math.huge
 

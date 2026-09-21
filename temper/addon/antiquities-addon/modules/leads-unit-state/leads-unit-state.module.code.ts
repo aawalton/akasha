@@ -1,3 +1,5 @@
+import "akasha/temper/addon/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
+
 let units: Record<number, LeadsUnitData> = {}
 let setsMinFound: Record<number, number> = {}
 

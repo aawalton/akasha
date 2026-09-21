@@ -43,6 +43,15 @@ import {
   ZONE_TYPES,
 } from "akasha/temper/addon/antiquities-addon/modules/leads-zones/leads-zones.module.code.ts"
 import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 const leadsUnitList = ZO_SortFilterList.Subclass<UnitListClass>()
 leadsUnitList.defaults = {}

@@ -1,6 +1,8 @@
 import { getNow } from "akasha/temper/addon/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/combat-addon/modules/combat-actions-constants/combat-actions-constants.module.code.ts"
 import { recordCruxDiagnostic } from "akasha/temper/addon/combat-addon/modules/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 const CRUX_ICON_KEYWORD = "arcanist_crux"
 

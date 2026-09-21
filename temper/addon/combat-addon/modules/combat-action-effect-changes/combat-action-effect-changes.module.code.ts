@@ -20,6 +20,7 @@ import { getSelectedRole } from "akasha/temper/addon/combat-addon/modules/combat
 import { updateStackInfo } from "akasha/temper/addon/combat-addon/modules/combat-action-stacks/combat-action-stacks.module.code.ts"
 import { saveAction } from "akasha/temper/addon/combat-addon/modules/combat-action-store/combat-action-store.module.code.ts"
 import type { Effect } from "akasha/temper/addon/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 
 export interface EffectChange {
   changeType: number

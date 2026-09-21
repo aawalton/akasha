@@ -1,5 +1,6 @@
 import { mergeIdList } from "akasha/temper/addon/characters-addon/modules/characters-collector-merge/characters-collector-merge.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 
 function scanCompletedQuests(this: void): number[] {
   const completedIds: number[] = []

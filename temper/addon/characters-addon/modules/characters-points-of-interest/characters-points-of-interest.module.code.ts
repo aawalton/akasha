@@ -1,6 +1,9 @@
 import { mergeIdList } from "akasha/temper/addon/characters-addon/modules/characters-collector-merge/characters-collector-merge.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import type { SparsePoiDiscovery } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 function scanPointsOfInterest(this: void): SparsePoiDiscovery {
   const result: SparsePoiDiscovery = {}

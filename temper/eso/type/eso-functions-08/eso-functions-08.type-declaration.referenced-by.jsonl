@@ -1,4 +1,9 @@
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-tooltips/leads-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/capture-datamining-addon/modules/datamining-item-miner/datamining-item-miner.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/capture-sales-addon/modules/sales-capture/sales-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-bag-size/characters-bag-size.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-item-sets/characters-item-sets.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-skill-points/characters-skill-points.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-apply-build/companions-apply-build.module.code.ts"}

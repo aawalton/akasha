@@ -1,6 +1,11 @@
 import { UNKNOWN } from "akasha/temper/addon/antiquities-addon/modules/leads-location-types/leads-location-types.module.code.ts"
 import { LOCATIONS } from "akasha/temper/addon/antiquities-addon/modules/leads-locations/leads-locations.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/antiquities-addon/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 let lastAntiquityFound = 0
 let editBoxContent = ""

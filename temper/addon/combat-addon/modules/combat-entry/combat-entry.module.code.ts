@@ -17,6 +17,7 @@ import { resetFight } from "akasha/temper/addon/combat-addon/modules/combat-lib-
 import { getCombatLogString } from "akasha/temper/addon/combat-addon/modules/combat-lib-log-strings/combat-lib-log-strings.module.code.ts"
 import { registerStrings } from "akasha/temper/addon/combat-addon/modules/combat-strings/combat-strings.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
+import "akasha/temper/addon/combat-addon/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
 
 registerStrings()
 

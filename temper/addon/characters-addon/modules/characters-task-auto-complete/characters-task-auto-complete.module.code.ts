@@ -25,6 +25,8 @@ import type {
 } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 const AUTO_COMPLETE_UPDATE_NAME = ADDON_NAME + "_TaskAutoComplete"
 

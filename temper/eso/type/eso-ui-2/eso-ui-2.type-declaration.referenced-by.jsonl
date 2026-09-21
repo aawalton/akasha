@@ -1,3 +1,7 @@
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-list/leads-unit-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-power-lash/combat-action-power-lash.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-widget/combat-action-widget.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-bindings/companion-qol-bindings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"}

@@ -29,6 +29,15 @@ import {
 import { getEsoDayStringFromSec } from "akasha/temper/catalog/world/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-14/eso-enums-14.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 function captureSmithingStations(this: void, craftSkill: number): undefined {
   if (!IsSmithingCraftingType(craftSkill)) return

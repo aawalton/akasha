@@ -19,6 +19,11 @@ import { refineTick } from "akasha/temper/addon/combat-addon/modules/combat-acti
 import { getNow } from "akasha/temper/addon/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"
 import { handleReticleTargetChanged } from "akasha/temper/addon/combat-addon/modules/combat-action-target/combat-action-target.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/combat-addon/modules/combat-actions-constants/combat-actions-constants.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-02/eso-enums-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 
 const POWER_LASH_UPDATE = ADDON_NAME + "_PowerLash"
 const REFINE_UPDATE = ADDON_NAME + "_Update"

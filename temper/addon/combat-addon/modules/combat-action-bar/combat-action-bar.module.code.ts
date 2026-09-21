@@ -21,6 +21,8 @@ import {
   widgetUpdateWithAction,
 } from "akasha/temper/addon/combat-addon/modules/combat-action-widget/combat-action-widget.module.code.ts"
 import type { BarSettings } from "akasha/temper/addon/combat-addon/modules/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
 const QUICKSLOT_SLOT_NUM = 9
 

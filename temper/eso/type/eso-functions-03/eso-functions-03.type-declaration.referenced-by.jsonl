@@ -1,3 +1,11 @@
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-list/leads-unit-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/capture-datamining-addon/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-active-quests/characters-active-quests.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-quests/characters-quests.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-skill-points/characters-skill-points.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-core-events/combat-core-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-apply-build/companions-apply-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"}

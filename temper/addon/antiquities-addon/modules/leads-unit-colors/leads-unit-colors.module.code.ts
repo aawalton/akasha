@@ -9,6 +9,7 @@ import {
   YELLOW_TEXT_HEX,
 } from "akasha/temper/addon/antiquities-addon/modules/leads-colors/leads-colors.module.code.ts"
 import type { LeadsColor } from "akasha/temper/addon/antiquities-addon/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 const [defaultR, defaultG, defaultB, defaultA] = DEFAULT_TEXT_RGBA
 const DEFAULT_TEXT = ZO_ColorDef.New(defaultR, defaultG, defaultB, defaultA)

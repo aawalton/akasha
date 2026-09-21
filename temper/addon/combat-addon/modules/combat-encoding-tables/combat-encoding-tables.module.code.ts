@@ -33,6 +33,10 @@ import {
   LIBCOMBAT_STAT_WEAPONPENETRATION,
   LIBCOMBAT_STAT_WEAPONPOWER,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
 
 export const COMBAT_RESULT_TABLE_LOAD: Record<number, number> = {
   1: ACTION_RESULT_DAMAGE,

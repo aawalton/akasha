@@ -5,6 +5,11 @@ import type {
   TraitResearchLine,
   TraitResearchTrait,
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const CRAFTING_TYPES = [
   CRAFTING_TYPE_BLACKSMITHING,

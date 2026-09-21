@@ -6,6 +6,7 @@ import {
   readSlotAbility,
 } from "akasha/temper/addon/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"
 import { saveAction } from "akasha/temper/addon/combat-addon/modules/combat-action-store/combat-action-store.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 
 const FIRST_ABILITY_SLOT = 3
 const LAST_ABILITY_SLOT = 8

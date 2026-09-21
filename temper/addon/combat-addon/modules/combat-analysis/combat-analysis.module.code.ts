@@ -64,6 +64,14 @@ import {
   processQuickslotEvents,
 } from "akasha/temper/addon/combat-addon/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts"
 import { getDb } from "akasha/temper/addon/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-controls-title/combat-controls-title.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-string-ids/combat-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const DESIRED_TIME = 0.01
 const STEP_SIZE = 20

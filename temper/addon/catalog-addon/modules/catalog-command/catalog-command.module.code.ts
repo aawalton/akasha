@@ -2,6 +2,7 @@ import { ADDON_NAME } from "akasha/temper/addon/catalog-addon/modules/catalog-co
 import { decideClearTarget } from "akasha/temper/catalog/core/modules/clear-target/clear-target.module.code.ts"
 import { getCatalogDomains } from "akasha/temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function parseLuaCommand(captured: string | undefined): string | undefined {
   return captured

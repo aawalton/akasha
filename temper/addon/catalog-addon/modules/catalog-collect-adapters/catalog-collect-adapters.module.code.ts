@@ -2,6 +2,8 @@ import { ADDON_NAME } from "akasha/temper/addon/catalog-addon/modules/catalog-co
 import type { CatalogWalkVerdict } from "akasha/temper/catalog/core/modules/catalog-walk/catalog-walk.module.code.ts"
 import { getCatalogDomains } from "akasha/temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function runProtected(this: void, run: (this: void) => void): string | undefined {
   const [ok, err] = pcall(run)

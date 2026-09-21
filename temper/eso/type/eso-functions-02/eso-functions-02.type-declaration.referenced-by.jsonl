@@ -1,3 +1,16 @@
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-active-quests/characters-active-quests.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-list/characters-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-mount-training/characters-mount-training.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-bar/combat-action-bar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-event-handlers/combat-action-event-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-power-lash/combat-action-power-lash.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-refine/combat-action-refine.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-target/combat-action-target.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-vampire-view/combat-action-vampire-view.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-core-events/combat-core-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-saved-variables/companion-qol-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-apply-build/companions-apply-build.module.code.ts"}

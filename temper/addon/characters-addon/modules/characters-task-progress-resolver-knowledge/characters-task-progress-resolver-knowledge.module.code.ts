@@ -4,6 +4,7 @@ import { getEsoDayStringFromSec } from "akasha/temper/catalog/world/group-dungeo
 import { DAILY_WRIT_COUNT } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 import type { SavedCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 const isUnlocked = (entry: { unlocked: boolean }): boolean => entry.unlocked
 

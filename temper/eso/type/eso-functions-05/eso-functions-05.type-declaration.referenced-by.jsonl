@@ -1,3 +1,8 @@
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/catalog-addon/modules/catalog-api-test/catalog-api-test.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-events-world/characters-events-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-lore-library/characters-lore-library.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-recipes/characters-recipes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-command/companions-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-events/companions-events.module.code.ts"}

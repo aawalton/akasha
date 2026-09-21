@@ -24,6 +24,8 @@ import { updateSkillPoints } from "akasha/temper/addon/characters-addon/modules/
 import { scheduleTaskAutoCompletionCheck } from "akasha/temper/addon/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
 import { updateTraitResearch } from "akasha/temper/addon/characters-addon/modules/characters-trait-research/characters-trait-research.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 const TRAIT_RESEARCH_EVENTS = [
   { suffix: "_TraitResearchCompleted", event: EVENT_SMITHING_TRAIT_RESEARCH_COMPLETED },

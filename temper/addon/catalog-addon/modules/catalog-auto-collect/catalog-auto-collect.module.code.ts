@@ -19,6 +19,8 @@ import {
   getCatalogDomains,
 } from "akasha/temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function autoCollect(): undefined {
   const savedVars = getSavedVariables()

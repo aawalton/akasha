@@ -1,3 +1,10 @@
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/catalog-addon/modules/catalog-api-test/catalog-api-test.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-events-world/characters-events-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-grand-master-stations/characters-grand-master-stations.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-scribing/characters-scribing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-trait-research/characters-trait-research.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-event-handlers/combat-action-event-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/hud-addon/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-scribing/character-capture-scribing.module.code.ts"}

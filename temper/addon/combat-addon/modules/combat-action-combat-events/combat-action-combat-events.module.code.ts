@@ -11,6 +11,9 @@ import type {
   Action,
   Effect,
 } from "akasha/temper/addon/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 
 const CORE_MINIMUM_DURATION_MS = 2500
 

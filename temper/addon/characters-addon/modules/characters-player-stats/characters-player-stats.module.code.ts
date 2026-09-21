@@ -1,6 +1,8 @@
 import { currentCharacterEntry } from "akasha/temper/addon/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { captureCharacterBuildHash } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function captureAndSaveCharacterStats(): undefined {
   const { buildHash, curseState } = captureCharacterBuildHash()

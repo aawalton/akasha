@@ -3,6 +3,8 @@ import {
   DUAL_ZONE_COMPONENTS,
   FAKE_ZONE_IDS,
 } from "akasha/temper/addon/antiquities-addon/modules/leads-zones/leads-zones.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function specialZoneName(zoneId: number): string | undefined {
   if (zoneId === FAKE_ZONE_IDS.ALLZONES) {

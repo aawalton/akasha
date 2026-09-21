@@ -1,5 +1,9 @@
 import { currentCharacterEntry } from "akasha/temper/addon/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 const ACCOUNT_ACHIEVEMENT_CATEGORY_MAP: Record<string, Record<string, number[]>> = {}
 const CHARACTER_ACHIEVEMENT_CATEGORY_MAP: Record<string, Record<string, number[]>> = {}

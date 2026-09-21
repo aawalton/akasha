@@ -1,5 +1,9 @@
 import { isDailyCraftingWritQuest } from "akasha/temper/addon/characters-addon/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"
 import { formatProgressCount } from "akasha/temper/addon/characters-addon/modules/characters-progress-format/characters-progress-format.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export interface ActiveQuest {
   readonly name: string

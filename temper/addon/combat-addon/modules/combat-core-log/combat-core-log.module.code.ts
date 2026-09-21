@@ -1,3 +1,6 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
+
 export const LOG_LEVEL_DEBUG = "D"
 export const LOG_LEVEL_WARNING = "W"
 

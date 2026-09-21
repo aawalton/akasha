@@ -11,6 +11,7 @@ import {
   STATE,
 } from "akasha/temper/addon/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
 import type { Action } from "akasha/temper/addon/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
 const SECONDS_BEFORE_FADE_MS = 1000
 

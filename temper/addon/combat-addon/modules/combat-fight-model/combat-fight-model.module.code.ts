@@ -19,6 +19,10 @@ import type {
 } from "akasha/temper/addon/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { ABILITY_DELAY } from "akasha/temper/addon/combat-addon/modules/combat-data-tables/combat-data-tables.module.code.ts"
 import { getFormattedAbilityName } from "akasha/temper/addon/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const inf = math.huge
 

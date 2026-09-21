@@ -1,3 +1,9 @@
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-effect-changes/combat-action-effect-changes.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-events/combat-action-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-analysis/combat-analysis.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-data-tables/combat-data-tables.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-encoding-tables/combat-encoding-tables.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-core/companion-qol-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}

@@ -5,6 +5,10 @@ import {
 } from "akasha/temper/addon/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
 import { getActiveHotbarCategory } from "akasha/temper/addon/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"
 import { saveAction } from "akasha/temper/addon/combat-addon/modules/combat-action-store/combat-action-store.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 
 export function onActionUpdateCooldowns(now: number): undefined {
   const [remain, duration] = GetSlotCooldownInfo(

@@ -1,4 +1,5 @@
 import { currentCharacterEntry } from "akasha/temper/addon/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
 export function collectMountTraining(this: void): undefined {
   const charEntry = currentCharacterEntry()

@@ -1,3 +1,10 @@
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/catalog-addon/modules/catalog-api-test/catalog-api-test.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-cadwell/characters-cadwell.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-item-sets/characters-item-sets.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-event-handlers/combat-action-event-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-analysis/combat-analysis.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-core/companion-qol-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-apply-build/companions-apply-build.module.code.ts"}

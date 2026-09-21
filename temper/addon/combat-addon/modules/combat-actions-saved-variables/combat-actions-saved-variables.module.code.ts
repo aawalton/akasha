@@ -2,6 +2,7 @@ import {
   ADDON_VERSION_NUMBER,
   SAVED_VARIABLES_NAME,
 } from "akasha/temper/addon/combat-addon/modules/combat-actions-constants/combat-actions-constants.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 export interface BarSettings {
   readonly barEnabled: boolean

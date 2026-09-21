@@ -14,6 +14,10 @@ import {
   getSavedVariables,
   type TaskData,
 } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function isTaskVisible(task: TaskData): boolean {
   if (task.dueDate !== undefined && task.dueDate > getEsoDayStringFromSec(GetTimeStamp())) {

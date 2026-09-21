@@ -25,6 +25,11 @@ import {
 } from "akasha/temper/addon/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { registerSlashCommands } from "akasha/temper/addon/combat-addon/modules/combat-slash-command/combat-slash-command.module.code.ts"
 import { initializeUI } from "akasha/temper/addon/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function initializeCore(): undefined {
   const db = initializeSavedVariables()

@@ -24,6 +24,11 @@ import {
 } from "akasha/temper/addon/capture-datamining-addon/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
 import { DATAMINING_CAPTURE_DESCRIPTOR } from "akasha/temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function onPlayerActivated(): undefined {
   EVENT_MANAGER.UnregisterForEvent(ADDON_NAME, EVENT_PLAYER_ACTIVATED)

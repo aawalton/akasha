@@ -1,4 +1,14 @@
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-alerts/leads-alerts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-toggle/leads-toggle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/catalog-addon/modules/catalog-api-test/catalog-api-test.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-combat-events/combat-action-combat-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-events/combat-action-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-power-lash/combat-action-power-lash.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-slots/combat-action-slots.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-fight-model/combat-fight-model.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-10.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/antiquity-lore-catalog-capture/antiquity-lore-catalog-capture.module.code.ts"}

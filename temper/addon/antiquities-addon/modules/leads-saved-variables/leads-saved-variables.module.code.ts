@@ -2,6 +2,7 @@ import {
   DROPDOWN_DATA,
   SAVED_VARIABLES_NAME,
 } from "akasha/temper/addon/antiquities-addon/modules/leads-constants/leads-constants.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 export interface SavedVariablesData {
   DropdownChoice?: Record<string, string | undefined>

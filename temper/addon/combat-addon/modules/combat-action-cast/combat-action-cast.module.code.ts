@@ -15,6 +15,7 @@ import {
   saveAction,
 } from "akasha/temper/addon/combat-addon/modules/combat-action-store/combat-action-store.module.code.ts"
 import type { Action } from "akasha/temper/addon/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 const INHERIT_EFFECT_TAIL_MS = 500
 

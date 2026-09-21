@@ -10,6 +10,11 @@ import { initializeSavedVariables } from "akasha/temper/addon/antiquities-addon/
 import { toggleLeadsWindow } from "akasha/temper/addon/antiquities-addon/modules/leads-toggle/leads-toggle.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/antiquities-addon/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
 import { createUnitList } from "akasha/temper/addon/antiquities-addon/modules/leads-unit-list/leads-unit-list.module.code.ts"
+import "akasha/temper/addon/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function initLeads(this: void): undefined {
   initializeSavedVariables()

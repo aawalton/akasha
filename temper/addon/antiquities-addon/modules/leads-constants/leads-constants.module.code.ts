@@ -1,4 +1,8 @@
 import { STRINGS } from "akasha/temper/addon/antiquities-addon/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-10/eso-enums-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 export const ADDON_NAME = "TemperLeads"
 export const SAVED_VARIABLES_NAME = "TemperLeads_SavedVariables"

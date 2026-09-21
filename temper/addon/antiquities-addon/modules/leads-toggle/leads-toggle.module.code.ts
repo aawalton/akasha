@@ -10,6 +10,14 @@ import {
 } from "akasha/temper/addon/antiquities-addon/modules/leads-unit-state/leads-unit-state.module.code.ts"
 import { zoneDisplayName } from "akasha/temper/addon/antiquities-addon/modules/leads-zone-name/leads-zone-name.module.code.ts"
 import { FAKE_ZONE_IDS } from "akasha/temper/addon/antiquities-addon/modules/leads-zones/leads-zones.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 let alreadyRun = false
 

@@ -1,3 +1,8 @@
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-bar/combat-action-bar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-crux/combat-action-crux.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-event-handlers/combat-action-event-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-action-widget/combat-action-widget.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-apply-build/companions-apply-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-codec/companions-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-command/companions-command.module.code.ts"}

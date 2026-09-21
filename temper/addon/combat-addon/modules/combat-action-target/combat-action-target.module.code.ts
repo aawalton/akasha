@@ -2,6 +2,8 @@ import { buildAbility } from "akasha/temper/addon/combat-addon/modules/combat-ac
 import { buildEffect } from "akasha/temper/addon/combat-addon/modules/combat-action-effect/combat-action-effect.module.code.ts"
 import { matchesOldEffect } from "akasha/temper/addon/combat-addon/modules/combat-action-matching/combat-action-matching.module.code.ts"
 import { STATE } from "akasha/temper/addon/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
 const CORE_MULTIPLE_TARGET_TRACKING = true
 const CORE_MULTIPLE_TARGET_TRACKING_WITHOUT_CLEARING = true

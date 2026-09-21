@@ -14,6 +14,7 @@ import type {
   Action,
   Effect,
 } from "akasha/temper/addon/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 
 const LAST_EFFECT_ACTION_WINDOW_MS = 50
 

@@ -2,6 +2,12 @@ import { getBarSettings } from "akasha/temper/addon/combat-addon/modules/combat-
 import { onEngineUpdate } from "akasha/temper/addon/combat-addon/modules/combat-action-engine-context/combat-action-engine-context.module.code.ts"
 import { getStackLabelFont } from "akasha/temper/addon/combat-addon/modules/combat-action-fonts/combat-action-fonts.module.code.ts"
 import { vampireStageForAbilityId } from "akasha/temper/addon/combat-addon/modules/combat-action-vampire-stage/combat-action-vampire-stage.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const SUB_CONTAINERS: readonly string[] = ["Container1", "Container2"]
 

@@ -6,6 +6,7 @@ import {
 import type { TodaysPledge } from "akasha/temper/catalog/world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.code.ts"
 import { getTodaysPledges as rotationTodaysPledges } from "akasha/temper/catalog/world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.code.ts"
 import { getSoloDifficulty } from "akasha/temper/catalog/world/group-dungeon/modules/solo-difficulty/solo-difficulty.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 export type UndauntedPledge = TodaysPledge
 

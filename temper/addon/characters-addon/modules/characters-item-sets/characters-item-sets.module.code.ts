@@ -1,6 +1,11 @@
 import { resolveCategoryNames } from "akasha/temper/catalog/gear/item-set/modules/item-set-categories/item-set-categories.module.code.ts"
 import type { ItemSetProgress } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function scanPieces(itemSetId: number, totalSlots: number): { name: string; unlocked: boolean }[] {
   const pieces: { name: string; unlocked: boolean }[] = []

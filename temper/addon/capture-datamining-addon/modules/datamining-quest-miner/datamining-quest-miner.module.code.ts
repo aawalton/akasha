@@ -6,6 +6,10 @@ import {
 } from "akasha/temper/addon/capture-datamining-addon/modules/datamining-constants/datamining-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/capture-datamining-addon/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
 import type { MinedQuestEntry } from "akasha/temper/capture/datamining/modules/datamining-payload/datamining-payload.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 let questCurrentGeneration = 0
 

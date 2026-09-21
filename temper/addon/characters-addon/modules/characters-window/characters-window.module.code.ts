@@ -1,6 +1,10 @@
 import { initializeTabs } from "akasha/temper/addon/characters-addon/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 let window: TopLevelWindow | undefined
 let windowFragment: SceneFragment | undefined

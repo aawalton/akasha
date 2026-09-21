@@ -1,6 +1,12 @@
 import { getDuration } from "akasha/temper/addon/combat-addon/modules/combat-action-duration/combat-action-duration.module.code.ts"
 import { STATE } from "akasha/temper/addon/combat-addon/modules/combat-action-queue/combat-action-queue.module.code.ts"
 import type { Action } from "akasha/temper/addon/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const DRAGONKNIGHT_CLASS_ID = 1
 const FLAME_LASH_ICON_KEYWORD = "dragonknight_001_a"
