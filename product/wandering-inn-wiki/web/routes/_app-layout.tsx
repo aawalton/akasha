@@ -15,6 +15,13 @@ export default function AppLayout() {
             <main className="mx-auto max-w-5xl p-4">
               <Outlet />
             </main>
+            <footer className="mx-auto max-w-5xl p-4 text-muted-foreground text-sm">
+              Innworld is a fan wiki. The Wandering Inn, its characters and its world belong to{" "}
+              <a className="underline" href="https://wanderinginn.com">
+                pirateaba
+              </a>
+              .
+            </footer>
           </PagesUIRouterAdapter>
         </LayoutRouterAdapter>
       </AppEditingProvider>

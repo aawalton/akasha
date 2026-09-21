@@ -33,5 +33,9 @@ export const wanderingInnWikiWeb = {
       decisionKind: "decision-kind/departure",
       statement: "Which world that is is settled by the grants its reader holds rather than here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every page this site serves credits the author of the work the wiki is about.",
+    },
   ],
 } as const satisfies RouterApp
