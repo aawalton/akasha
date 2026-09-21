@@ -37,6 +37,8 @@ export const game = {
     "relation-property/game-mechanics",
     "page-type/game-attribute",
     "relation-property/game-attributes",
+    "text-property/card-vocabulary",
+    "relation-property/game-default-dice",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -79,6 +81,8 @@ export const game = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "text-property/card-vocabulary", required: false, many: true, maxCount: null },
+    { pageProperty: "relation-property/game-default-dice", required: false, many: false },
   ],
   decisions: [
     {

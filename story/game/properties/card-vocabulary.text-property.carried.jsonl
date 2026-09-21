@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A game announces only the words it names here."}]}
+{"definition":"a word the system window announces to a player of this game"}
+{"id":"01a0c490-93a4-7348-934e-965d459c9515"}
+{"maxLength":100}
+{"nameFormat":null}
+{"propertySlug":"card-vocabulary"}
+{"slug":"card-vocabulary"}
+{"type":"page-type/text-property"}
+{"types":"ts"}
