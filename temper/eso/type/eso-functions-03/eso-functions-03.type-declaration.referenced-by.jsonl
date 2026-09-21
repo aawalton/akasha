@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-overall/fco-overall.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-map-pins/quiet-map-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-world/quiet-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-assistant-chain/inventory-assistant-chain.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-explain-match-context/inventory-explain-match-context.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-item-data/inventory-item-data.module.code.ts"}

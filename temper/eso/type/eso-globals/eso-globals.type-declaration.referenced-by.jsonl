@@ -105,6 +105,7 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-settings-world/quiet-settings-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-assistant-chain/inventory-assistant-chain.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-auto-maintenance-engine/inventory-auto-maintenance-engine.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-auto-maintenance/inventory-auto-maintenance.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-bag-scanner/inventory-bag-scanner.module.code.ts"}

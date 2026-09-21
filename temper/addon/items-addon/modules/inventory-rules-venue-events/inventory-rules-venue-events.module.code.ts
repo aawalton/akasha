@@ -1,4 +1,9 @@
 import {
+  chainAtStation,
+  chainAtStationClosed,
+  chainAtStoreClosed,
+} from "akasha/temper/addon/items-addon/modules/inventory-assistant-chain/inventory-assistant-chain.module.code.ts"
+import {
   beginVenueTrace,
   finishVenueOpenHandler,
   markVenueClosed,
@@ -58,6 +63,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
     EVENT_CRAFTING_STATION_INTERACT,
     function (this: void): undefined {
       releaseBankTrace()
+      chainAtStation()
       onOpenCraftingStation()
     }
   )
@@ -95,6 +101,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
       markVenueClosed()
       flushJunkGate()
       releaseConfirmDialog()
+      chainAtStoreClosed()
     }
   )
 
@@ -104,6 +111,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
     function (this: void): undefined {
       clearWritCraftQueue()
       releaseConfirmDialog()
+      chainAtStationClosed()
     }
   )
 

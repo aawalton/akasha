@@ -169,6 +169,7 @@ export const temperItemsAddon = {
     "module/inventory-writ-master-probe-types",
     "module/inventory-writ-toggles",
     "type-declaration/inventory-config-global",
+    "module/inventory-assistant-chain",
   ],
   decisions: [
     {

@@ -1,0 +1,56 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const inventoryAssistantChain = {
+  id: "01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4",
+  type: "page-type/module",
+  slug: "inventory-assistant-chain",
+  definition: "the assistants called one after another once the ragpicker is talked to",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chain starts only where the station opened is the player's own assistant.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chain starts only where the assistant out at the time is the ragpicker.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The player summons the ragpicker, and the chain summons everyone after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A merchant is called when the station closes, and a banker when the store does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The banker is sent away when the bank closes, and nobody else is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each role names the assistants filling it, best first, and the first held wins.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A summon waits out whatever cooldown the collectible has left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A step left alone longer than the window ends the chain rather than carrying on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A leg with nothing to do is walked all the same.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here sells, deconstructs or banks anything.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Which assistant fills which role is written here rather than read from the game.",
+    },
+  ],
+} as const satisfies Module

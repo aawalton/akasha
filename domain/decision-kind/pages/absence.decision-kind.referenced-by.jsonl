@@ -1706,6 +1706,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.ts","id":"01a06115-1ad5-7d01-8cc1-694928184aab"}
 {"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/fco-skills/fco-skills.module.ts","id":"01a06115-1ad6-704a-ac3c-88cccb76abc5"}
 {"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/fco-ui/fco-ui.module.ts","id":"01a06115-1ad8-7a5e-a9fb-cd52f4b41690"}
+{"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/temper-items-addon.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

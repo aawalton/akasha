@@ -1,3 +1,4 @@
+import { chainAtBankClosed } from "akasha/temper/addon/items-addon/modules/inventory-assistant-chain/inventory-assistant-chain.module.code.ts"
 import { registerAutoMaintenanceEvents } from "akasha/temper/addon/items-addon/modules/inventory-auto-maintenance/inventory-auto-maintenance.module.code.ts"
 import {
   hideBankActionPanel,
@@ -204,6 +205,7 @@ export function registerInventoryEvents(): undefined {
       flushJunkGate()
       hideBankActionPanel()
       dispatchUseActions()
+      chainAtBankClosed()
     }
   )
 
