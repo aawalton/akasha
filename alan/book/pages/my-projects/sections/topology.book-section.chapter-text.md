@@ -5,7 +5,7 @@ Two interconnected calls: which inverter platform manages PV + battery + future 
 
 ## Inverter topology
 
-Three viable architectures at this size class (49 kWp DC / 40 kW AC / 40 kWh battery / multi-face roof / multi-year inference upside):
+Three viable architectures at this size class (49 kWp DC / 40 kW AC / multi-face roof / an optional 27–40 kWh battery / multi-year inference upside):
 
 ### Option 1 — Microinverter (Enphase IQ8 + IQ Battery)
 
@@ -35,7 +35,7 @@ Three viable architectures at this size class (49 kWp DC / 40 kW AC / 40 kWh bat
 
 Rationale:
 
-1. **Battery integration** — the planning case includes 40 kWh of battery. A hybrid inverter unifies the PV + battery + grid-tie + islanding logic into one platform with one warranty contact. Microinverter + AC-coupled battery means three vendors (Enphase PV + Enphase battery + utility interconnect) and two MPPT systems; serviceable but more interfaces to manage.
+1. **Battery optionality** — the base case buys no battery, and a hybrid inverter is what keeps 27–40 kWh addable later without rework. It unifies PV + battery + grid-tie + islanding logic into one platform with one warranty contact. Microinverter + AC-coupled battery means three vendors (Enphase PV + Enphase battery + utility interconnect) and two MPPT systems; serviceable but more interfaces to manage. Since battery $/kWh falls ~10%/yr and the bank never pays back on arbitrage alone, deferring the buy while keeping it cheap to make later is worth more than the integration itself.
 2. **Future inference upside** — the scope file requires the architecture to absorb a step in compute load without rework. Hybrid string + optimizers handles this by expanding the AC-side capacity at the inverter, not by re-wiring the module-level fleet. Per [computers.md](book-section/energy-demand/computers), the gaming room needs its own 60–80 A subpanel anyway; the hybrid inverter feeding that subpanel through the critical-loads bus is the cleanest topology.
 3. **Per-module optimization** — DC optimizers per module match microinverter's ability to handle multi-face roof and partial shading per [provo.md](book-section/efficiency-factors/provo#sensitivity-to-roof-choice) (MLPE saves 10–15% on a shaded roof vs. plain string).
 4. **Cost** — Option 3 lands ~$0.10/W cheaper than microinverters at this size, ~$5,000 saved on a 49 kWp system.
@@ -87,9 +87,9 @@ The recommended path: **400 A service + load monitoring (Emporia Vue or SPAN as 
 
 Rationale:
 
-1. **Self-sufficiency principle** — a 400 A service tolerates the unmanaged worst case. The load-shedder becomes additive optimization. A single point of management failure (SPAN firmware bug, controller crash) doesn't trip a house full of CCHP recovery + EV charging + gaming.
+1. **The shedder stays additive** — a 400 A service tolerates the unmanaged worst case, so load-shedding is an optimization rather than a safety mechanism. A single point of management failure (SPAN firmware bug, controller crash) doesn't trip a house full of CCHP recovery + EV charging + gaming.
 2. **Inference upside** — the scope flags significant compute as future-likely. Path A's 200 A constraint binds first when inference activates, forcing a second service upgrade exactly when the financial appetite for it has faded.
-3. **Cost** — Path C costs roughly Path A + $4,000. On a $170k all-in project, the marginal $4,000 buys headroom for the next 30+ years of household electrification growth.
+3. **Cost** — Path C costs roughly Path A + $4,000. On a ~$166k all-in build, the marginal $4,000 buys headroom for the next 30+ years of household electrification growth.
 
 ## Inverter-to-panel topology
 

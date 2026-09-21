@@ -17,7 +17,7 @@ The final dimension. Rank the levers that move system size and cost, then propos
 
 6. **Inverter topology (microinverter vs. hybrid string + optimizers)** — **±$5,000–$10,000** at this scale. Driven by roof-face count and shading; resolves at bid stage.
 
-7. **Battery scope (27 vs. 40 kWh)** — **±$13,000**. Trades outage ride-through and daily-shift headroom. The "right" answer is sensitive to Provo Power TOU-spread evolution; revisit if Provo Power introduces material TOU pricing.
+7. **Battery, if any** — **$0 / $27,000 / $40,000**, and outside the totals. Provo has no residential time-of-use rate, so a shifted kWh earns only the $0.063 export-versus-retail spread and the bank wears out before it pays back. Buy it for outage resilience or not at all; revisit if Provo Power ever introduces TOU pricing. See [battery.md](book-section/sizing/battery).
 
 8. **Service-panel scope (200 A + SPAN vs. 400 A)** — **±$4,000**. The 400 A path keeps the load-shedder additive; the 200 A path makes it load-bearing. The recommendation is 400 A; the cost gap is small relative to the project total.
 
@@ -42,14 +42,15 @@ The scope file flags envelope quality as a known unknown ("50-year-old construct
 |---|---|---|
 | Annual demand | **73,000 kWh/yr** | Nominal from [demand.md](book-section/sizing/demand) — mid-envelope, heavy gaming, 22k EV mi |
 | PV (DC) | **49 kWp** | At 1,500 kWh/kWp/yr realistic specific yield, ILR 1.20 → 40 kW AC |
-| Battery (usable) | **40 kWh** | 3× Powerwall 3-class units — covers daily shift + 12-hour critical-loads outage |
-| Inverter | **Hybrid string + DC optimizers** (e.g., 2× SolArk 15K-2P or equivalent) | Best at 49 kWp + 40 kWh + future inference upside per [topology.md](book-section/sizing/topology) |
+| Battery (usable) | **none in the base case** | Optional $27k/$40k line decided on its own — it buys outage resilience, not payback |
+| Inverter | **Hybrid string + DC optimizers** (e.g., 2× SolArk 15K-2P or equivalent) | Best at 49 kWp with future inference upside, and keeps a battery addable later without rework, per [topology.md](book-section/sizing/topology) |
 | Service panel | **400 A main + 4 subpanels + monitoring (not load-shedding)** | Load-shedder stays additive rather than load-bearing |
 | Roof + supplements | **House primary + detached-garage roof + pergola or ground-mount supplement (~15 kWp)** | Per [pv.md](book-section/sizing/pv#roof-area-feasibility), 49 kWp does not fit on house roof alone |
 | EV chargers | **2× 48 A hardwired EVSE** with PV-following daytime mode | Per [vehicles.md](book-section/energy-demand/vehicles#charging-peak-draw) |
-| **All-in pre-ITC** | **~$200,000** (with one supplement structure) or ~$170k (no supplement) | Per [cost.md](book-section/sizing/cost) |
-| **All-in post-ITC @ 30%** | **~$140,000** (with) / ~$120k (without) | If ITC restored; uncertain |
-| **All-in if ITC expires** | **~$200,000** | Plan against this |
+| **All-in pre-ITC** | **~$166,000** (with one supplement structure) or ~$142k (no supplement) | Per [cost.md](book-section/sizing/cost); battery excluded |
+| **All-in post-ITC @ 30%** | **~$116,000** (with) / ~$99k (without) | If ITC restored; uncertain |
+| **All-in if ITC expires** | **~$166,000** | Plan against this |
+| **Optional battery on top** | +$27,000 (27 kWh) or +$40,000 (40 kWh) | Bought for outage resilience, decided on its own |
 
 ## Why this case
 
@@ -79,7 +80,7 @@ These must close before bid finalization, in roughly this priority order:
 ## What the next iteration does
 
 1. Resolve the four open assessment items above.
-2. Send the planning case (49 kWp / 40 kWh / 400 A / hybrid string) to three competitive Utah installer bids via EnergySage.
+2. Send the planning case (49 kWp / 400 A / hybrid string, battery quoted separately) to three competitive Utah installer bids via EnergySage.
 3. Compare bids against the cost table in [cost.md](book-section/sizing/cost) — flag any quote above $2.65/W cash blended.
 4. Re-run the sizing math against actuals (measured roof, post-retrofit demand if envelope retrofit goes first, confirmed Provo Power program terms).
 5. Lock the system size against the worst case the family is willing to plan for, then sign.
