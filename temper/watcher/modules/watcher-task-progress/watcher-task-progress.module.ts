@@ -30,6 +30,10 @@ export const watcherTaskProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A task of next-character or all-characters scope rotates over the characters.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The id a character's line already had is kept rather than minted again.",
     },
     {

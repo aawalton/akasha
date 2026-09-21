@@ -205,15 +205,17 @@ async function refreshedOrSaid(
 }
 
 function taskFactsOf(task: TaskPage): TaskFacts {
+  const scope = asText(task.scope)
+  const named: TaskFacts = scope === undefined ? { slug: task.slug } : { slug: task.slug, scope }
   const card = asText(task.completionCardId)
-  if (card === undefined) return { slug: task.slug }
+  if (card === undefined) return named
   const held = task.completionItemPath
   const path = Array.isArray(held)
     ? held.filter((one): one is string => typeof one === "string")
     : []
   return path.length === 0
-    ? { slug: task.slug, completionCardId: card }
-    : { slug: task.slug, completionCardId: card, completionItemPath: path }
+    ? { ...named, completionCardId: card }
+    : { ...named, completionCardId: card, completionItemPath: path }
 }
 
 export function tasksByName(tasks: readonly TaskPage[]): Map<string, TaskPage> {

@@ -15,8 +15,15 @@ export type ProgressRow = {
 
 export type TaskFacts = {
   readonly slug: string
+  readonly scope?: string
   readonly completionCardId?: string
   readonly completionItemPath?: readonly string[]
+}
+
+const ROTATING_SCOPES: readonly string[] = ["next_character", "all_characters"]
+
+export function rotatesOverCharacters(task: TaskFacts): boolean {
+  return task.scope !== undefined && ROTATING_SCOPES.includes(task.scope)
 }
 
 export type Refreshed = {

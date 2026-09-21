@@ -58,6 +58,14 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rotating task names the character it falls to as a relation to that character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A task pinned to one character keeps the character that task already names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every reach outside this module is an argument the caller may hand in.",
     },
     {

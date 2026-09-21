@@ -29,6 +29,7 @@ import { taskBodyWith } from "akasha/temper/watcher/modules/watcher-task-landing
 import {
   bodyOfRows,
   refreshedFor,
+  rotatesOverCharacters,
   type TaskFacts,
 } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
 
@@ -218,11 +219,15 @@ export function putsFor(
     if (rows !== contentIn(bodies, rowsPath)) puts.push({ path: rowsPath, content: rows })
     const held = contentIn(bodies, page)
     if (held === null) continue
+    const falls = done.effectiveCharacter
     const body = taskBodyWith(held, {
       progress: PROGRESS_ENDING,
       progressCurrent: done.progressCurrent,
       progressTotal: done.progressTotal,
-      effectiveCharacter: done.effectiveCharacter,
+      effectiveCharacter: falls,
+      ...(falls !== null && rotatesOverCharacters(task)
+        ? { character: `${CHARACTER_TYPE}/${falls}` }
+        : {}),
     })
     if (body !== null) puts.push({ path: page, content: body })
   }

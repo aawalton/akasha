@@ -224,6 +224,46 @@ test("lines that already say what the reading says are not written again", () =>
   expect(again).toEqual([])
 })
 
+const NAMED_INDEX = {
+  characters: INDEX.characters,
+  paths: {
+    "daily-writs": {
+      current: 7,
+      total: 14,
+      effectiveCharacterId: "amerys",
+      entries: { durene: { current: 7, total: 7 }, amerys: { current: 0, total: 7 } },
+    },
+  },
+}
+
+test("a rotating task states the character it falls to as a relation", () => {
+  const puts = putsFor([{ ...TASK, scope: "next_character" }], NAMED_INDEX, PATHS, [
+    { path: PAGE_PATH, content: PAGE },
+    { path: ROWS_PATH, content: null },
+  ])
+  const page = puts.find((one) => one.path === PAGE_PATH)?.content ?? ""
+  expect(page).toContain('character: "temper-account-character/amerys",')
+  expect(page).toContain('effectiveCharacter: "amerys",')
+})
+
+test("a task pinned to one character is left naming the character it names", () => {
+  const puts = putsFor([{ ...TASK, scope: "character" }], NAMED_INDEX, PATHS, [
+    { path: PAGE_PATH, content: PAGE },
+    { path: ROWS_PATH, content: null },
+  ])
+  const page = puts.find((one) => one.path === PAGE_PATH)?.content ?? ""
+  expect(page).not.toContain("temper-account-character/")
+})
+
+test("a rotating task no character is owed states none", () => {
+  const puts = putsFor([{ ...TASK, scope: "next_character" }], INDEX, PATHS, [
+    { path: PAGE_PATH, content: PAGE },
+    { path: ROWS_PATH, content: null },
+  ])
+  const page = puts.find((one) => one.path === PAGE_PATH)?.content ?? ""
+  expect(page).not.toContain("temper-account-character/")
+})
+
 test("a task the index does not name writes nothing", () => {
   const puts = putsFor([{ slug: "crafting-writs" }], INDEX, PATHS, [
     { path: PAGE_PATH, content: PAGE },
