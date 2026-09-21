@@ -28,10 +28,5 @@ export const nimueGradeNaming = {
       workingMemory:
         "`alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts` aliases the property's own type and then writes the sixteen rungs out again as `MUSIC_RATINGS`. The page type states that the ladder is the values a property states rather than a second list. 7 files reach `MusicRating`, `MUSIC_RATINGS`, `ratingRung` or `LIKED_RATINGS`.",
     },
-    {
-      statement: "Every command taking a rung on the ladder says `--grade`.",
-      workingMemory:
-        "`command/argument/pages/rating.argument.ts` says `--rating` and takes the grade, a rung on the ladder from `F` up to `S+`, so the flag disagrees with its own description. 4 files name `--rating` or `argument/rating`.",
-    },
   ],
 } as const satisfies Initiative
