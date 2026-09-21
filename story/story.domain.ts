@@ -81,5 +81,9 @@ export const story = {
       decisionKind: "decision-kind/departure",
       statement: "The folders under the world page type mirror the folders under one world's page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No story design note holds content another page type would carry.",
+    },
   ],
 } as const satisfies Domain
