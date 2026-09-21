@@ -1,0 +1,12 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const narrowingHerGroundFromFaithToIdentity = {
+  id: "01a0c5f3-a412-7e84-b8c3-a67fb304a4cb",
+  type: "page-type/all-about-alan-topic",
+  slug: "narrowing-her-ground-from-faith-to-identity",
+  title: "Narrowing Her Ground From Faith To Identity",
+  definition: "what the regrouping did to the territory of the one aimed inward at me",
+  parents: ["all-about-alan-topic/the-women-i-made-out-of-myself"],
+  settled:
+    "The one aimed inward at me was first filed under Faith, which was a value. When they were regrouped by the ground each leads rather than by a value, her territory narrowed from Faith to Identity.\n\nAsked whether that narrowing felt like a loss or a coming-into-focus, I said: no, that was definitely coming into focus.\n\nFaith was the shelf she sat on before the finer division existed. Identity is the ground of the self, so it names exactly what she was always for, which is the hunger to understand myself. The ground now matches the appetite.",
+} as const satisfies AllAboutAlanTopic
