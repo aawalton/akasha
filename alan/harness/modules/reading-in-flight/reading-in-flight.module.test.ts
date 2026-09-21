@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { AsyncLocalStorage } from "node:async_hooks"
 import {
   type MayRead,
   readingAsTheSystem,
@@ -6,6 +7,14 @@ import {
   type WhoIsReading,
 } from "akasha/alan/harness/modules/reading-in-flight/reading-in-flight.module.code.ts"
 import { gateInScope } from "akasha/page/access/modules/read-gate/read-gate.module.code.ts"
+
+const ONE_STORE = Symbol.for("akasha.reading-in-flight.store")
+
+function storeShared(): AsyncLocalStorage<unknown> {
+  const held: unknown = Reflect.get(globalThis, ONE_STORE)
+  if (!(held instanceof AsyncLocalStorage)) throw new Error("no store is shared")
+  return held
+}
 
 const AT = new Request("https://alanwalton.com/api/nav-icon/0d4d87c8")
 
@@ -74,6 +83,19 @@ test("the reader a request names is the reader every read under it is weighed ag
     }
   )
   expect(weighed).toEqual([{ contributor: "one" }])
+})
+
+test("the reader a request names rides in a store the whole runtime shares", async () => {
+  const shared = storeShared()
+  expect(shared.getStore()).toBeUndefined()
+  await readingFor(
+    nobody,
+    AT,
+    async () => {
+      expect(shared.getStore()).not.toBeUndefined()
+    },
+    readsEverything
+  )
 })
 
 test("a read outside the request that named a reader names no reader", async () => {

@@ -6,7 +6,17 @@ import {
   type ReadGate,
 } from "akasha/page/access/modules/read-gate/read-gate.module.code.ts"
 
-const inFlight = new AsyncLocalStorage<ReadGate>()
+const ONE_STORE = Symbol.for("akasha.reading-in-flight.store")
+
+function oneStore(): AsyncLocalStorage<ReadGate> {
+  const held: unknown = Reflect.get(globalThis, ONE_STORE)
+  if (held instanceof AsyncLocalStorage) return held
+  const made = new AsyncLocalStorage<ReadGate>()
+  Reflect.set(globalThis, ONE_STORE, made)
+  return made
+}
+
+const inFlight = oneStore()
 
 gateFoundBy(() => inFlight.getStore() ?? null)
 

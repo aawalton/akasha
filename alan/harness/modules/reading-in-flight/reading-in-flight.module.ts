@@ -36,5 +36,14 @@ export const readingInFlight = {
       decisionKind: "decision-kind/departure",
       statement: "A read outside any request is the system's, as a command run by hand is.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A bundle inlines its own copy of a module the server also loads from the tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The store a reader rides in is one the runtime shares, so every copy reads the same one.",
+    },
   ],
 } as const satisfies Module
