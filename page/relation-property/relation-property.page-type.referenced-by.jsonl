@@ -1,3 +1,4 @@
+{"propertySlug":"extends-type","path":"page/multi-relation-property/multi-relation-property.page-type.ts","id":"01a0c4f3-6a9a-7368-b588-9ec85cc4ade3"}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts"}
@@ -104,6 +105,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/properties/deploys-after.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/web-app/properties/service-clusters.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/file-property/properties/file-written-by.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/multi-relation-property/multi-relation-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/nav/properties/nav-parent.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/one-of-property/properties/members.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/properties/page-page-type.relation-property.ts"}
