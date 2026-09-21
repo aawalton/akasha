@@ -6,4 +6,16 @@ export const panelToggleProvider = {
   slug: "panel-toggle-provider",
   definition: "the keystroke opening and closing every panel at once",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An app binds this keystroke once by mounting this provider at its root rather than page by page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A provider mounted inside another binds the keystroke again, and both answer one press.",
+    },
+  ],
 } as const satisfies Module

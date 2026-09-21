@@ -11,6 +11,7 @@ import { createNativeFsContentPersistence } from "akasha/alan/web/modules/conten
 import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
 import { createNativeFsPagesPersistence } from "akasha/alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
+import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
@@ -139,7 +140,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>
           <ErrorCaptureInstaller app="alanwalton" />
-          {children}
+          <PanelToggleProvider>{children}</PanelToggleProvider>
           <StatusBarSync />
           <CommandPalette />
           <ShortcutSheet />
