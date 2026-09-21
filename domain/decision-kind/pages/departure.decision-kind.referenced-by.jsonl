@@ -2899,6 +2899,7 @@
 {"propertySlug":"decision-kind","path":"page/index/test-fixtures/filing/index-filing.test-fixture.ts","id":"01a08e9f-f494-79ea-9155-8f6f56dbf41c"}
 {"propertySlug":"decision-kind","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.ts","id":"01a088b6-9456-73ee-9f1f-a92536a61b7b"}
 {"propertySlug":"decision-kind","path":"page/instant-property/instant-property.page-type.ts","id":"01a053de-99ba-762f-9c2f-ba77a8468f7a"}
+{"propertySlug":"decision-kind","path":"page/markdown-property/markdown-property.page-type.ts","id":"01a0c4f3-6a9a-7a40-b177-153e253975d5"}
 {"propertySlug":"decision-kind","path":"page/modules/address/page-address.module.ts","id":"01a04b14-4355-7352-9c98-ad67e309f5f6"}
 {"propertySlug":"decision-kind","path":"page/modules/akasha-page-values/akasha-page-values.module.ts","id":"01a068a4-60f0-7005-b761-625a83147b3e"}
 {"propertySlug":"decision-kind","path":"page/modules/beside/page-beside.module.ts","id":"01a04ea7-b2ea-7d22-ac4c-78cd0b3eaa92"}

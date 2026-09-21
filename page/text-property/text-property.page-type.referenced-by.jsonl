@@ -1,4 +1,5 @@
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/property/standard-agent-english-property.page-type.ts","id":"01a07c99-fb58-79b6-a204-a2bf1f056902"}
+{"propertySlug":"extends-type","path":"page/markdown-property/markdown-property.page-type.ts","id":"01a0c4f3-6a9a-7a40-b177-153e253975d5"}
 {"propertySlug":"import","fileName":"text-property.page-type.ts","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.ts","path":"check/modules/change-walking/change-walking.module.code.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
@@ -310,6 +311,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/file-property/properties/extensions.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/file-property/properties/file-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/index/properties/index-name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/markdown-property/markdown-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/named-extension-property/properties/extension-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/named-folder-property/properties/folder-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/nav/properties/back-href.text-property.ts"}

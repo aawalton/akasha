@@ -94,6 +94,7 @@ export const page = {
     "page-type/generator-kind",
     "page-type/index",
     "page-type/instant-property",
+    "page-type/markdown-property",
     "page-type/name-format",
     "page-type/name-place",
     "page-type/named-extension-property",
