@@ -44,6 +44,7 @@ export const person = {
     "relation-property/person-contributor",
     "page-type/access-deed",
     "person/anonymous",
+    "module/page-type-access",
   ],
   properties: [
     { pageProperty: "relation-property/answered-by", required: true, many: false },

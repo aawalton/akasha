@@ -5,6 +5,7 @@ import { accessKind } from "akasha/person/access-kind/access-kind.page-type.ts"
 import { route } from "akasha/person/access-kind/pages/route.access-kind.ts"
 import { asAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import {
+  answeringByType,
   noNap,
   recordingFetcher,
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
@@ -23,22 +24,6 @@ const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
 const ALAN_AT = `${person.slug}/${alan.slug}` as const
 
 const ROUTE_AT = `${accessKind.slug}/${route.slug}` as const
-
-function parseAsked(held: unknown): { readonly pageTypeSlug: string } {
-  const slug = asObjectRecord(held)?.["pageTypeSlug"]
-  if (typeof slug !== "string") throw new Error("the body a fetch was handed names no page type")
-  return { pageTypeSlug: slug }
-}
-
-function answeringByType(byType: Record<string, readonly Record<string, unknown>[]>): Fetcher {
-  return async (_url, init) => {
-    const body = parseAsked(JSON.parse(String(init.body)))
-    const rows = byType[body.pageTypeSlug] ?? []
-    return new Response(JSON.stringify({ rows }), {
-      headers: { "content-type": "application/json" },
-    })
-  }
-}
 
 test("an account no person states reaches no route", async () => {
   const decided = await routeAccessFor(
@@ -96,8 +81,8 @@ test("an account read to a person takes that person's grants", async () => {
 
 test("access pages that went unread open nothing", async () => {
   const fetcher: Fetcher = async (_url, init) => {
-    const body = parseAsked(JSON.parse(String(init.body)))
-    if (body.pageTypeSlug === "person") {
+    const asked = asObjectRecord(JSON.parse(String(init.body)))
+    if (asked?.["pageTypeSlug"] === "person") {
       return new Response(JSON.stringify({ rows: [{ slug: "jenny" }] }), {
         headers: { "content-type": "application/json" },
       })

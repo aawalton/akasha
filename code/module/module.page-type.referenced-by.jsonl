@@ -2477,6 +2477,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/device-token-registration/device-token-registration.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/enrolment/person-enrolment.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/health-samples-body/health-samples-body.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/page-type-access/page-type-access.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/push-apps/push-apps.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/push-permission/push-permission.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/push-register-body/push-register-body.module.ts"}

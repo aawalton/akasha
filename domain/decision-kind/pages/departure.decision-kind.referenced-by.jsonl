@@ -3145,6 +3145,7 @@
 {"propertySlug":"decision-kind","path":"person/modules/device-token-registration/device-token-registration.module.ts","id":"01a05c96-89f5-741d-a9a3-65ffde3552f4"}
 {"propertySlug":"decision-kind","path":"person/modules/enrolment/person-enrolment.module.ts","id":"01a05afe-7a0e-7ae1-ad39-ba070a334a6b"}
 {"propertySlug":"decision-kind","path":"person/modules/health-samples-body/health-samples-body.module.ts","id":"01a05b54-a90a-7911-bee0-2578b8352aa6"}
+{"propertySlug":"decision-kind","path":"person/modules/page-type-access/page-type-access.module.ts","id":"01a0c4ee-704e-775d-b32f-ddf8c29c7523"}
 {"propertySlug":"decision-kind","path":"person/modules/push-apps/push-apps.module.ts","id":"01a05c96-89f6-764e-b32f-d57a6a43bb6b"}
 {"propertySlug":"decision-kind","path":"person/modules/push-permission/push-permission.module.ts","id":"01a05b54-a909-7753-8cc3-52b02c145266"}
 {"propertySlug":"decision-kind","path":"person/modules/push-register-body/push-register-body.module.ts","id":"01a05b54-a907-7932-8f8a-8aed5987a345"}

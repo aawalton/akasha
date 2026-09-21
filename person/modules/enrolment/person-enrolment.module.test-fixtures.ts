@@ -17,6 +17,20 @@ function parseAsked(held: unknown): Record<string, unknown> {
   return one
 }
 
+export function answeringByType(
+  byType: Record<string, readonly Record<string, unknown>[]>
+): Fetcher {
+  return async (_url, init) => {
+    const asked = parseAsked(JSON.parse(String(init.body)))
+    const slug = asked["pageTypeSlug"]
+    if (typeof slug !== "string") throw new Error("the body a fetch was handed names no page type")
+    const rows = byType[slug] ?? []
+    return new Response(JSON.stringify({ rows }), {
+      headers: { "content-type": "application/json" },
+    })
+  }
+}
+
 export function recordingFetcher(): Recording {
   let asked: Record<string, unknown> = {}
   const fetcher: Fetcher = async (_url, init) => {
