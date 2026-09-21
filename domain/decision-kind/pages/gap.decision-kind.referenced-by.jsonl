@@ -389,8 +389,6 @@
 {"propertySlug":"decision-kind","path":"persona/pages/dalla/dalla.persona.ts","id":"019f22ad-945f-7a99-8f94-02bc3813d6bc"}
 {"propertySlug":"decision-kind","path":"persona/pages/ryn/ryn.persona.ts","id":"019f280a-96ef-7ec1-96c7-92d2acfc2fb7"}
 {"propertySlug":"decision-kind","path":"persona/point/persona-point.domain.ts","id":"01a0675b-16f8-7862-b5f6-3061651ce2a8"}
-{"propertySlug":"decision-kind","path":"persona/properties/desktop-wallpaper.file-property.ts","id":"01a07861-ccaa-7c89-8461-ecbc1ac81264"}
-{"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.file-property.ts","id":"01a0782e-1f17-71d7-90a2-279f0591ec44"}
 {"propertySlug":"decision-kind","path":"persona/properties/value-slug.text-property.ts","id":"01a0534e-c7e0-74c3-9eea-499d48af54db"}
 {"propertySlug":"decision-kind","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.ts","id":"01a08289-7b12-7814-8155-5442b3a1236b"}

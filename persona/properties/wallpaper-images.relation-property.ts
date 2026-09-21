@@ -15,7 +15,7 @@ export const wallpaperImages = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The desktop and mobile files beside the persona are cut from one of these pictures.",
+        "The desktop and mobile wallpapers a persona names are cut from one of these pictures.",
     },
   ],
   types: "ts",

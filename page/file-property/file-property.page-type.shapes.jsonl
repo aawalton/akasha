@@ -28,7 +28,6 @@
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"data","propertySlug":"data","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"derivation","propertySlug":"derivation","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"design-entries","propertySlug":"design-entries","fileName":null,"folderName":null}
-{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"desktop-wallpaper","propertySlug":"desktop-wallpaper","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"display-config","propertySlug":"display-config","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"docker-ignore","propertySlug":"docker-ignore","fileName":".dockerignore","folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"drawn","propertySlug":"drawn","fileName":null,"folderName":null,"generated":true}
@@ -66,7 +65,6 @@
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"markup","propertySlug":"markup","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mechanic-runs","propertySlug":"mechanic-runs","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"misconceptions","propertySlug":"misconceptions","fileName":null,"folderName":null}
-{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mobile-wallpaper","propertySlug":"mobile-wallpaper","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"model-manifest","propertySlug":"model-manifest","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"narrative-continuity","propertySlug":"narrative-continuity","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"notice-text","propertySlug":"text","fileName":null,"folderName":null}

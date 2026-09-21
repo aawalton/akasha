@@ -1,4 +1,5 @@
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
+import { endingOf } from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,
@@ -13,7 +14,13 @@ const PERSONA_PAGE_TYPE_SLUG = "persona"
 
 const WALLPAPER_KEY = "mobileWallpaper"
 
-const A_PNG = "image/png"
+const IMAGE_PAGE_TYPE_SLUG = "image"
+
+const IMAGE_OPENS = `${IMAGE_PAGE_TYPE_SLUG}/`
+
+const BYTES_KEY = "bytes"
+
+const TYPE_OF = { png: "image/png", jpg: "image/jpeg" } as const
 
 const HELD_FOR = "public, max-age=60"
 
@@ -41,18 +48,22 @@ export async function loader(): Promise<Response> {
     ]
   })
 
+  const wallpaperOf = new Map(personaRows.map((row) => [row.slug, row.wallpaper]))
   for (const slug of orderedWallpaperSlugs(personaRows)) {
+    const address = wallpaperOf.get(slug)
+    if (typeof address !== "string" || !address.startsWith(IMAGE_OPENS)) continue
     const held = await filingFor({
-      pageTypeSlug: PERSONA_PAGE_TYPE_SLUG,
-      slug,
-      key: WALLPAPER_KEY,
+      pageTypeSlug: IMAGE_PAGE_TYPE_SLUG,
+      slug: address.slice(IMAGE_OPENS.length),
+      key: BYTES_KEY,
     })
-    if ("bytes" in held) {
-      return new Response(held.bytes, {
-        status: 200,
-        headers: { "content-type": A_PNG, "cache-control": HELD_FOR },
-      })
-    }
+    if (!("bytes" in held)) continue
+    const ending = endingOf(held.bytes)
+    if (ending === null) continue
+    return new Response(held.bytes, {
+      status: 200,
+      headers: { "content-type": TYPE_OF[ending], "cache-control": HELD_FOR },
+    })
   }
   return new Response("Not Found", { status: 404 })
 }

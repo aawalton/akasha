@@ -7,9 +7,12 @@ import {
   type Said,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { followWithin } from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
-import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  listedAt,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -22,7 +25,9 @@ const PERSONA = "persona"
 
 const WALLPAPER_KEY = "desktopWallpaper"
 
-const WALLPAPER_PROPERTY = "desktop-wallpaper"
+const IMAGE = "image"
+
+const BYTES_KEY = "bytes"
 
 const PNG = "png"
 
@@ -67,10 +72,24 @@ export function everyPersonaWallpaper(root: string): readonly PersonaWallpaper[]
   return found
 }
 
+export type Placing = (root: string, address: string) => string | null
+
+export function imageBytesAt(root: string, address: string): string | null {
+  const opens = `${IMAGE}/`
+  if (!address.startsWith(opens)) return null
+  const listed = listedAt(root, IMAGE, address.slice(opens.length))
+  const page = listed.length === 1 ? listed[0]?.path : undefined
+  if (page === undefined) return null
+  const kept = uncommittedIn(root, page)
+  const ending = (kept === null ? null : textAt(kept, BYTES_KEY)) ?? PNG
+  return uncommittedBesideAt(page, BYTES_KEY, ending)
+}
+
 export function chosenIn(
   root: string,
   personas: readonly PersonaWallpaper[] = everyPersonaWallpaper(root),
-  present: (at: string) => boolean = existsSync
+  present: (at: string) => boolean = existsSync,
+  placing: Placing = imageBytesAt
 ): Chosen | null {
   const bySlug = new Map<string, PersonaWallpaper>()
   for (const persona of personas) {
@@ -79,8 +98,8 @@ export function chosenIn(
   }
   for (const slug of orderedWallpaperSlugs(personas)) {
     const persona = bySlug.get(slug)
-    if (persona === undefined) continue
-    const beside = besideAt(persona.pagePath, WALLPAPER_PROPERTY, PNG)
+    if (persona === undefined || typeof persona.wallpaper !== "string") continue
+    const beside = placing(root, persona.wallpaper)
     if (beside === null) continue
     const at = isAbsolute(beside) ? beside : join(root, beside)
     if (!present(at)) continue

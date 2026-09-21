@@ -147,6 +147,8 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/anchor-image.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/championed-domain.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/cover-images.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/desktop-wallpaper.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/mobile-wallpaper.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/origin.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/properties/wallpaper-images.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"persona/review-session/properties/session-persona.relation-property.types.ts"}

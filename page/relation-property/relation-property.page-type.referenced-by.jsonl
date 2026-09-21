@@ -142,6 +142,8 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/anchor-image.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/championed-domain.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/cover-images.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/desktop-wallpaper.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/mobile-wallpaper.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/origin.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/wallpaper-images.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/review-session/properties/session-persona.relation-property.ts"}

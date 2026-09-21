@@ -107,8 +107,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/type/properties/type-generator.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/type/properties/types.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/appearance.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/desktop-wallpaper.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/mobile-wallpaper.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/portrait.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/review-session/properties/review-session-notes.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/gate-dimensions.file-property.ts"}

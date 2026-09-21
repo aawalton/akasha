@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A persona's desktop wallpaper is an image, cut from one of her wallpapers for the monitor."},{"decisionKind":"decision-kind/departure","statement":"Whatever sets Alan's monitor reads this property rather than a path under his pictures."},{"decisionKind":"decision-kind/departure","statement":"The rung a picture was made for is kept on the image page rather than here."}]}
+{"definition":"the picture a persona is shown as on Alan's monitor"}
+{"id":"01a0c61d-e778-7592-a6cf-ae6833953348"}
+{"propertySlug":"desktop-wallpaper"}
+{"slug":"desktop-wallpaper"}
+{"targetPageType":"page-type/image"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}

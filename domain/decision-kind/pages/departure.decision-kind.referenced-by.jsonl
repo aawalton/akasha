@@ -3287,8 +3287,8 @@
 {"propertySlug":"decision-kind","path":"persona/properties/anchor-image.relation-property.ts","id":"01a0c5ea-620f-7f03-9757-5e71f545f25a"}
 {"propertySlug":"decision-kind","path":"persona/properties/appearance.file-property.ts","id":"01a0658c-fbfe-7000-a50a-efaa762bf9d7"}
 {"propertySlug":"decision-kind","path":"persona/properties/cover-images.relation-property.ts","id":"01a0c5ea-6e76-73f6-b81b-71e1f401d9e4"}
-{"propertySlug":"decision-kind","path":"persona/properties/desktop-wallpaper.file-property.ts","id":"01a07861-ccaa-7c89-8461-ecbc1ac81264"}
-{"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.file-property.ts","id":"01a0782e-1f17-71d7-90a2-279f0591ec44"}
+{"propertySlug":"decision-kind","path":"persona/properties/desktop-wallpaper.relation-property.ts","id":"01a0c61d-e778-7592-a6cf-ae6833953348"}
+{"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
 {"propertySlug":"decision-kind","path":"persona/properties/persona-relationship-level.computed-property.ts","id":"01a082dd-bbc6-70a8-b7c5-94c16ef56e98"}
 {"propertySlug":"decision-kind","path":"persona/properties/points-before-today.number-property.ts","id":"01a08205-3006-72d5-930b-892c6e875b17"}
 {"propertySlug":"decision-kind","path":"persona/properties/points-total.number-property.ts","id":"01a081cb-66ae-7cee-8e11-431ab034165b"}

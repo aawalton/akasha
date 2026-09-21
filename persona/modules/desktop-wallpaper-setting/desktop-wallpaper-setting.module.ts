@@ -27,7 +27,8 @@ export const desktopWallpaperSetting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The wallpaper Plasma is pointed at is the file beside the persona's own page.",
+      statement:
+        "Plasma is pointed at the bytes of the image the persona names as her desktop wallpaper.",
     },
     {
       decisionKind: "decision-kind/departure",

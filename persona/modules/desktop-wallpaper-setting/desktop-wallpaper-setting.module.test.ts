@@ -4,6 +4,7 @@ import {
   chosenIn,
   holdsPersona,
   type PersonaWallpaper,
+  type Placing,
   type Ran,
   roundIn,
   settingIn,
@@ -12,6 +13,8 @@ import {
 const ROOT = "/repo"
 
 const PNG = "png"
+
+const IMAGE_OPENS = "image/"
 
 const CACHE = "/cache"
 
@@ -25,16 +28,31 @@ function persona(
   wallpaper: string | null,
   lastMessagedAt: string | null
 ): PersonaWallpaper {
-  return { id, slug, wallpaper, lastMessagedAt, pagePath: `personas/${slug}/${slug}.persona.ts` }
+  return {
+    id,
+    slug,
+    wallpaper: wallpaper === null ? null : `${IMAGE_OPENS}${slug}-wallpaper`,
+    lastMessagedAt,
+    pagePath: `personas/${slug}/${slug}.persona.ts`,
+  }
 }
 
 function wallpaperAt(slug: string): string {
-  return `${ROOT}/personas/${slug}/${slug}.persona.desktop-wallpaper.png`
+  return `${ROOT}/pages/${slug}-wallpaper.image.bytes.uncommitted.png`
 }
+
+const placing: Placing = (_root, address) =>
+  address.startsWith(IMAGE_OPENS)
+    ? `${ROOT}/pages/${address.slice(IMAGE_OPENS.length)}.image.bytes.uncommitted.png`
+    : null
 
 function onDisk(...slugs: readonly string[]): (at: string) => boolean {
   const there = new Set(slugs.map(wallpaperAt))
   return (at) => there.has(at)
+}
+
+function chosen(personas: readonly PersonaWallpaper[], present: (at: string) => boolean) {
+  return chosenIn(ROOT, personas, present, placing)
 }
 
 test("the persona written to most recently is the persona chosen", () => {
@@ -43,7 +61,7 @@ test("the persona written to most recently is the persona chosen", () => {
     persona("b", "amy", PNG, "2026-09-06T19:12:00.000Z"),
     persona("c", "ali", PNG, "2026-09-06T19:06:00.000Z"),
   ]
-  expect(chosenIn(ROOT, personas, onDisk("abby", "amy", "ali"))).toEqual({
+  expect(chosen(personas, onDisk("abby", "amy", "ali"))).toEqual({
     slug: "amy",
     path: wallpaperAt("amy"),
   })
@@ -52,7 +70,7 @@ test("the persona written to most recently is the persona chosen", () => {
 test("two personas written to at the same moment are settled by their page id", () => {
   const sameMoment = "2026-09-06T19:12:00.000Z"
   const personas = [persona("b", "zeli", PNG, sameMoment), persona("a", "abby", PNG, sameMoment)]
-  expect(chosenIn(ROOT, personas, onDisk("zeli", "abby"))).toEqual({
+  expect(chosen(personas, onDisk("zeli", "abby"))).toEqual({
     slug: "abby",
     path: wallpaperAt("abby"),
   })
@@ -63,7 +81,7 @@ test("a persona carrying no desktop wallpaper is passed over", () => {
     persona("a", "akasha", null, "2026-09-06T19:59:00.000Z"),
     persona("b", "amy", PNG, "2026-09-06T19:12:00.000Z"),
   ]
-  expect(chosenIn(ROOT, personas, onDisk("akasha", "amy"))).toEqual({
+  expect(chosen(personas, onDisk("akasha", "amy"))).toEqual({
     slug: "amy",
     path: wallpaperAt("amy"),
   })
@@ -74,7 +92,7 @@ test("a persona whose declared wallpaper is not on disk is passed over", () => {
     persona("a", "akasha", PNG, "2026-09-06T19:59:00.000Z"),
     persona("b", "amy", PNG, "2026-09-06T19:12:00.000Z"),
   ]
-  expect(chosenIn(ROOT, personas, onDisk("amy"))).toEqual({
+  expect(chosen(personas, onDisk("amy"))).toEqual({
     slug: "amy",
     path: wallpaperAt("amy"),
   })
@@ -82,12 +100,12 @@ test("a persona whose declared wallpaper is not on disk is passed over", () => {
 
 test("no wallpaper on disk anywhere is chosen as nothing", () => {
   const personas = [persona("a", "amy", PNG, "2026-09-06T19:12:00.000Z")]
-  expect(chosenIn(ROOT, personas, onDisk())).toBeNull()
+  expect(chosen(personas, onDisk())).toBeNull()
 })
 
 test("a persona nobody wrote to is chosen where nobody wrote to anybody", () => {
   const personas = [persona("a", "amy", PNG, null)]
-  expect(chosenIn(ROOT, personas, onDisk("amy"))).toEqual({
+  expect(chosen(personas, onDisk("amy"))).toEqual({
     slug: "amy",
     path: wallpaperAt("amy"),
   })

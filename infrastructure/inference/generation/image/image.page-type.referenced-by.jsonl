@@ -9815,4 +9815,6 @@
 {"propertySlug":"parts","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}
 {"propertySlug":"target-page-type","path":"persona/properties/anchor-image.relation-property.ts","id":"01a0c5ea-620f-7f03-9757-5e71f545f25a"}
 {"propertySlug":"target-page-type","path":"persona/properties/cover-images.relation-property.ts","id":"01a0c5ea-6e76-73f6-b81b-71e1f401d9e4"}
+{"propertySlug":"target-page-type","path":"persona/properties/desktop-wallpaper.relation-property.ts","id":"01a0c61d-e778-7592-a6cf-ae6833953348"}
+{"propertySlug":"target-page-type","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
 {"propertySlug":"target-page-type","path":"persona/properties/wallpaper-images.relation-property.ts","id":"01a0c5ea-7c84-7389-9d04-e2eab5c35196"}

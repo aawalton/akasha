@@ -18,7 +18,7 @@ export const wallpaper = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The picture is read off the persona's own mobile wallpaper.",
+      statement: "The picture is the image the persona names as her mobile wallpaper.",
     },
     {
       decisionKind: "decision-kind/departure",
