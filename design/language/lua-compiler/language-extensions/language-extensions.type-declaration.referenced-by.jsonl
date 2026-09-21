@@ -45,7 +45,6 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/unpack/unpack.lualib-helper.lua50-code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/weak-map/weak-map.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/weak-set/weak-set.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-core-events/combat-core-events.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-lib-callbacks/combat-lib-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-lib-fight-stats/combat-lib-fight-stats.module.code.ts"}
@@ -128,6 +127,7 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-toggles/minimap-toggles.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-tweaks-dimensions/minimap-tweaks-dimensions.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-move-buttons/order-list-box-move-buttons.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-row-setup/order-list-box-row-setup.module.code.ts"}

@@ -1,9 +1,4 @@
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"code/editor/extension/modules/palette/palette.module.code.ts"}
-{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/characters-addon/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/characters-addon/modules/characters-tab-manager/characters-tab-manager.module.code.ts"}
-{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"}
-{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-hud/characters-task-hud.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/companions-addon/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/companions-addon/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/companions-addon/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts"}
@@ -15,4 +10,9 @@
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/items-addon/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
+{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"}
+{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"}
+{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.code.ts"}
 {"propertySlug":"parts","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}

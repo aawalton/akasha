@@ -1,8 +1,3 @@
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/catalog-addon/modules/catalog-api-test/catalog-api-test.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-achievements/characters-achievements.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-events-world/characters-events-world.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-lore-library/characters-lore-library.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-recipes/characters-recipes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-lib-fight/combat-lib-fight.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-command/companions-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
@@ -43,6 +38,11 @@
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-pin-add/map-pins-pin-add.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-tooltips/map-pins-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-events-world/characters-events-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-lore-library/characters-lore-library.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-recipes/characters-recipes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-dlc/lib-sets-const-all-dlc.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}

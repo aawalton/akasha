@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/characters-addon/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.test.ts"}
+{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-rapport.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-progress/completion-companion-progress.module.code.ts"}

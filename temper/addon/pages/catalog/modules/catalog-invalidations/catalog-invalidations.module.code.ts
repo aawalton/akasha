@@ -1,0 +1,33 @@
+import { ADDON_NAME } from "akasha/temper/addon/pages/catalog/modules/catalog-constants/catalog-constants.module.code.ts"
+import { getPendingInvalidation } from "akasha/temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.code.ts"
+import { applyPendingInvalidations } from "akasha/temper/catalog/core/modules/apply-invalidations/apply-invalidations.module.code.ts"
+import { getCatalogDomains } from "akasha/temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
+export function applyHostInvalidations(): undefined {
+  const savedVars = getSavedVariables()
+  const allKeys = getCatalogDomains().map((entry) => entry.key)
+  const presentDomainKeys = allKeys.filter((key) => savedVars[key] !== undefined)
+  const result = applyPendingInvalidations(
+    {
+      lastSeenInvalidateVersion: savedVars.lastSeenInvalidateVersion ?? 0,
+      completed: savedVars.completed,
+      presentDomainKeys,
+    },
+    getPendingInvalidation(),
+    allKeys
+  )
+  if (result.kind === "noop") return
+
+  const nextPresent = new Set(result.next.presentDomainKeys)
+  for (const key of allKeys) {
+    if (!nextPresent.has(key)) savedVars[key] = undefined
+  }
+  savedVars.completed = result.next.completed
+  savedVars.collectionSkips = undefined
+  savedVars.lastSeenInvalidateVersion = result.next.lastSeenInvalidateVersion
+  d(
+    `[${ADDON_NAME}] Applied side-file invalidation v${savedVars.lastSeenInvalidateVersion}; will re-collect on next login.`
+  )
+}

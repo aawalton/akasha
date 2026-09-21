@@ -1,11 +1,11 @@
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"design/language/lua-compiler/modules/lualib-builder/lualib-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"design/language/lua-compiler/modules/transformation/transformation.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"page/ui/component/modules/operator-filter-control/operator-filter-control.module.code.tsx"}
-{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/addon/characters-addon/modules/characters-skill-points/characters-skill-points.module.code.ts"}
-{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/addon/characters-addon/modules/characters-tab-manager/characters-tab-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-guild-repack/inventory-rules-dispatch-guild-repack.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/addon/items-addon/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"}
+{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/addon/pages/characters/modules/characters-skill-points/characters-skill-points.module.code.ts"}
+{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}

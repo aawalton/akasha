@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/catalog-addon/modules/catalog-auto-collect/catalog-auto-collect.module.code.ts"}
-{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/catalog-addon/modules/catalog-collect-adapters/catalog-collect-adapters.module.code.ts"}
-{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/catalog-addon/modules/catalog-command/catalog-command.module.code.ts"}
-{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/catalog-addon/modules/catalog-entry/catalog-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/catalog-addon/modules/catalog-invalidations/catalog-invalidations.module.code.ts"}
-{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/catalog-addon/modules/catalog-public-api/catalog-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-auto-collect/catalog-auto-collect.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-collect-adapters/catalog-collect-adapters.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-command/catalog-command.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-invalidations/catalog-invalidations.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-public-api/catalog-public-api.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/antiquity-lore-catalog-capture/antiquity-lore-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/cadwell-catalog-capture/cadwell-catalog-capture.module.code.ts"}
