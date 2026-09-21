@@ -1,4 +1,5 @@
 import type { Rolled } from "akasha/story/game/mechanic/modules/dice-reading/dice-reading.module.code.ts"
+import type { Bonus } from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 
 const GATE = 1
 const MARGIN_DIVISOR = 12
@@ -8,11 +9,6 @@ const GRAZE_SHORT_BY = -3
 const GRAZE_SCALE = 0.25
 const DAMAGE_FLOOR = 1
 const INTENT_MOST = 10
-
-export type Bonus = {
-  readonly from: string
-  readonly by: number
-}
 
 export type Reading = {
   readonly attackPower: number
