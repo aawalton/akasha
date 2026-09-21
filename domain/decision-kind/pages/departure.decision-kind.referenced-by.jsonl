@@ -3223,6 +3223,7 @@
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.ts","id":"01a0c4b2-cf45-7ceb-8448-9eb1b945d7ad"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-backing.record-property.ts","id":"01a0c4a7-faa9-7331-b4f4-8698261e526d"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts","id":"01a0c4a6-ca45-7fb5-9213-210805796619"}
+{"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.ts","id":"01a0c4f6-195d-79ef-8c03-3aa9a4c2c2a3"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-standing.select-property.ts","id":"01a0c4af-4fde-7ecd-9cc5-4dbeb9eaf2c5"}
 {"propertySlug":"decision-kind","path":"product/kofi/kofi.domain.ts","id":"01a0b789-a595-7afe-8aee-1d895f33815c"}
 {"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/movement/movement.module.ts","id":"01a0ba9a-9aa0-7d5a-a08f-4fd31546c134"}
