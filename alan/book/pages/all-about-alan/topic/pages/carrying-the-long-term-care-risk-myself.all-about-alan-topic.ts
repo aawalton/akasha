@@ -12,5 +12,5 @@ export const carryingTheLongTermCareRiskMyself = {
     "all-about-alan-topic/why-every-life-insurer-starts-at-d",
   ],
   settled:
-    "We buy no long-term care cover, and carrying it on our own assets is the plan rather than the absence of one.\n\nI am forty and Jen is thirty-seven, so nothing here is likely to matter for twenty years or more, and one point seven million compounding across that gap will probably keep beating what a carrier would sell us.\n\nI will re-run the sum at fifty-five to sixty. Until then the action is the review, not the purchase.",
+    "We buy no long-term care cover, and carrying it on our own assets is the plan rather than the absence of one.\n\nI am forty and Jen is thirty-seven, so nothing here is likely to matter for twenty years or more, and about one point seven million or more compounding across that gap will probably keep beating what a carrier would sell us.\n\nI will re-run the sum at fifty-five to sixty. Until then the action is the review, not the purchase.",
 } as const satisfies AllAboutAlanTopic
