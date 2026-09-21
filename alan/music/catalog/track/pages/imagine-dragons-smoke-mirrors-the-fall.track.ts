@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsSmokeMirrorsTheFall = {
+  id: "01a0c43f-d42e-77b3-9325-09e235741ff4",
+  type: "page-type/track",
+  slug: "imagine-dragons-smoke-mirrors-the-fall",
+  ownLength: 6.041333333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-smoke-mirrors"],
+  position: 13,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5QfjjXpqTmWjzm9auqzQSJ",
+      externalLink: "https://open.spotify.com/track/5QfjjXpqTmWjzm9auqzQSJ",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "The Fall",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "thefall|53XhwfbYqKCa1cC15pYq2q|362480",
+  song: "song/imagine-dragons-the-fall",
+} as const satisfies Track

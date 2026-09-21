@@ -1,0 +1,31 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsShotsEpShotsAstrolithRemix = {
+  id: "01a0c43f-dff1-7c74-9f24-d1c35eb169ee",
+  type: "page-type/track",
+  slug: "imagine-dragons-shots-ep-shots-astrolith-remix",
+  ownLength: 3.4968833333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-shots-ep"],
+  position: 2,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4dolXHE8u2znwFfzCYgphZ",
+      externalLink: "https://open.spotify.com/track/4dolXHE8u2znwFfzCYgphZ",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Shots - Astrolith Remix",
+  trackType: "remix",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [
+    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
+    { externalId: "3836OTICMPjhTMMcpPw4EC", artistName: "Broiler" },
+  ],
+  trackKey: "shotsastrolithremix|3836OTICMPjhTMMcpPw4EC,53XhwfbYqKCa1cC15pYq2q|209813",
+  song: "song/imagine-dragons-shots",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsNightVisionsDeluxeHearMe = {
+  id: "01a0c43f-d758-7362-84c9-5c989333a6a8",
+  type: "page-type/track",
+  slug: "imagine-dragons-night-visions-deluxe-hear-me",
+  ownLength: 3.8706666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
+  position: 7,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4R4sJ1jv8nxwjSl6F06yKG",
+      externalLink: "https://open.spotify.com/track/4R4sJ1jv8nxwjSl6F06yKG",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Hear Me",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "hearme|53XhwfbYqKCa1cC15pYq2q|232240",
+  song: "song/imagine-dragons-hear-me",
+} as const satisfies Track

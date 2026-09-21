@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsWokeDemo = {
+  id: "01a0c43f-b0b7-762d-bca2-c629b750c0d5",
+  type: "page-type/track",
+  slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors-woke-demo",
+  ownLength: 3.6799166666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7tKaefLpk7pSAIE12JGxj9",
+      externalLink: "https://open.spotify.com/track/7tKaefLpk7pSAIE12JGxj9",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Woke - Demo",
+  trackType: "demo",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "wokedemo|53XhwfbYqKCa1cC15pYq2q|220795",
+  song: "song/imagine-dragons-woke",
+} as const satisfies Track

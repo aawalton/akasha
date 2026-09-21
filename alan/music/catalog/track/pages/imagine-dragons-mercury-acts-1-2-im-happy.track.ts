@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsMercuryActs12ImHappy = {
+  id: "01a0c43f-c620-78bc-94cd-272aed3fd673",
+  type: "page-type/track",
+  slug: "imagine-dragons-mercury-acts-1-2-im-happy",
+  ownLength: 3.0869833333333334,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  position: 10,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0z2bufPrU83RRPRaboj3B7",
+      externalLink: "https://open.spotify.com/track/0z2bufPrU83RRPRaboj3B7",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "I'm Happy",
+  trackType: "studio",
+  discNumber: 2,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "imhappy|53XhwfbYqKCa1cC15pYq2q|185219",
+  song: "song/imagine-dragons-i-m-happy",
+} as const satisfies Track

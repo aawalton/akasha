@@ -1,0 +1,17 @@
+{"discNumber":1}
+{"explicit":false}
+{"externalIdentity":[{"source":"spotify","externalId":"2uZVfvOK7MTjBTRICYmpso","externalLink":"https://open.spotify.com/track/2uZVfvOK7MTjBTRICYmpso","lastSyncedAt":"2026-09-21"}]}
+{"id":"01a0c43f-dbec-70bd-852d-cdc0cfc09337"}
+{"ownLength":3.657233333333333}
+{"ownProgress":0}
+{"partOfCollections":["release/imagine-dragons-birds"]}
+{"position":1}
+{"slug":"imagine-dragons-birds-birds-feat-elisa"}
+{"song":"song/imagine-dragons-birds"}
+{"status":"not-started"}
+{"title":"Birds (feat. Elisa)"}
+{"trackArtist":[{"externalId":"53XhwfbYqKCa1cC15pYq2q","artistName":"Imagine Dragons"},{"externalId":"2ARH58Hit3yC6ziGdhma23","artistName":"Elisa"}]}
+{"trackKey":"birdsfeatelisa|2ARH58Hit3yC6ziGdhma23,53XhwfbYqKCa1cC15pYq2q|219434"}
+{"trackType":"studio"}
+{"type":"page-type/track"}
+{"unit":"unit/minutes"}

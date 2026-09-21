@@ -1,0 +1,31 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsRadioactiveRadioactive = {
+  id: "01a0c43f-e1e0-788f-9efe-398295939d55",
+  type: "page-type/track",
+  slug: "imagine-dragons-radioactive-radioactive",
+  ownLength: 4.600666666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-radioactive"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "69yfbpvmkIaB10msnKT7Q5",
+      externalLink: "https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Radioactive",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [
+    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
+    { externalId: "2YZyLoL8N0Wb9xBt1NhZWg", artistName: "Kendrick Lamar" },
+  ],
+  trackKey: "radioactive|2YZyLoL8N0Wb9xBt1NhZWg,53XhwfbYqKCa1cC15pYq2q|276040",
+  song: "song/imagine-dragons-radioactive",
+} as const satisfies Track

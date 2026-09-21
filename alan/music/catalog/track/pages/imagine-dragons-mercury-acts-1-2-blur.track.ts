@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsMercuryActs12Blur = {
+  id: "01a0c43f-c54f-780b-aac6-09fc8d7b8b00",
+  type: "page-type/track",
+  slug: "imagine-dragons-mercury-acts-1-2-blur",
+  ownLength: 2.9277166666666665,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  position: 5,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5i6V88QD3nt9at4915JISY",
+      externalLink: "https://open.spotify.com/track/5i6V88QD3nt9at4915JISY",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Blur",
+  trackType: "studio",
+  discNumber: 2,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "blur|53XhwfbYqKCa1cC15pYq2q|175663",
+  song: "song/imagine-dragons-blur",
+} as const satisfies Track

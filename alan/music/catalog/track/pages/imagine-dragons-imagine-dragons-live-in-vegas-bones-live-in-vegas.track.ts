@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsImagineDragonsLiveInVegasBonesLiveInVegas = {
+  id: "01a0c43f-b91c-7d03-9dc0-82eb991ae6db",
+  type: "page-type/track",
+  slug: "imagine-dragons-imagine-dragons-live-in-vegas-bones-live-in-vegas",
+  ownLength: 4.065383333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
+  position: 21,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0l9xTt0WwTpwSQCOb1zphd",
+      externalLink: "https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Bones - Live in Vegas",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "bonesliveinvegas|53XhwfbYqKCa1cC15pYq2q|243923",
+  song: "song/imagine-dragons-bones",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsMercuryActs12Monday = {
+  id: "01a0c43f-c2e6-78e0-a2cf-c305a455bdae",
+  type: "page-type/track",
+  slug: "imagine-dragons-mercury-acts-1-2-monday",
+  ownLength: 3.1316,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  position: 5,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "747LeNCUC3bF2h43E73rFh",
+      externalLink: "https://open.spotify.com/track/747LeNCUC3bF2h43E73rFh",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Monday",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "monday|53XhwfbYqKCa1cC15pYq2q|187896",
+  song: "song/imagine-dragons-monday",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsIGetCarriedAwayDemo = {
+  id: "01a0c43f-b21f-7018-aa69-c6d18e177169",
+  type: "page-type/track",
+  slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors-i-get-carried-away-demo",
+  ownLength: 3.2430666666666665,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
+  position: 6,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4I3iKBoPcd9mm9ye1BT97L",
+      externalLink: "https://open.spotify.com/track/4I3iKBoPcd9mm9ye1BT97L",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "I Get Carried Away - Demo",
+  trackType: "demo",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "igetcarriedawaydemo|53XhwfbYqKCa1cC15pYq2q|194584",
+  song: "song/imagine-dragons-i-get-carried-away",
+} as const satisfies Track

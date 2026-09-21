@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreOnTopOfTheWorldLive = {
+  id: "01a0c43f-ce00-75d1-bc3f-b99063ce8f4a",
+  type: "page-type/track",
+  slug: "imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre-on-top-of-the-world-live",
+  ownLength: 4.864883333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
+  position: 13,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "26VQ9wqGAVUU7EuZp2wVRU",
+      externalLink: "https://open.spotify.com/track/26VQ9wqGAVUU7EuZp2wVRU",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "On Top Of The World - Live",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "ontopoftheworldlive|53XhwfbYqKCa1cC15pYq2q|291893",
+  song: "song/imagine-dragons-on-top-of-the-world",
+} as const satisfies Track

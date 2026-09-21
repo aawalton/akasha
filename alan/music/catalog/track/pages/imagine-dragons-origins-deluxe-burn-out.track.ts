@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsOriginsDeluxeBurnOut = {
+  id: "01a0c43f-c97e-783e-9012-7452af00c606",
+  type: "page-type/track",
+  slug: "imagine-dragons-origins-deluxe-burn-out",
+  ownLength: 4.564666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-origins-deluxe"],
+  position: 14,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Q7zuH8VNu7aLappSusPu6",
+      externalLink: "https://open.spotify.com/track/5Q7zuH8VNu7aLappSusPu6",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Burn Out",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "burnout|53XhwfbYqKCa1cC15pYq2q|273880",
+  song: "song/imagine-dragons-burn-out",
+} as const satisfies Track

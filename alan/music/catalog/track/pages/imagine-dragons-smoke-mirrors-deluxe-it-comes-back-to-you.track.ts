@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsSmokeMirrorsDeluxeItComesBackToYou = {
+  id: "01a0c43f-d013-7e2a-9031-552473a34374",
+  type: "page-type/track",
+  slug: "imagine-dragons-smoke-mirrors-deluxe-it-comes-back-to-you",
+  ownLength: 3.6233333333333335,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
+  position: 8,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0rKlNsNmGGKGXo6tDgkHEn",
+      externalLink: "https://open.spotify.com/track/0rKlNsNmGGKGXo6tDgkHEn",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "It Comes Back To You",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "itcomesbacktoyou|53XhwfbYqKCa1cC15pYq2q|217400",
+  song: "song/imagine-dragons-it-comes-back-to-you",
+} as const satisfies Track

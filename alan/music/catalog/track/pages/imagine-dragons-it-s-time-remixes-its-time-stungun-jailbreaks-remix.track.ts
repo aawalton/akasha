@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsItSTimeRemixesItsTimeStungunJailbreaksRemix = {
+  id: "01a0c43f-e3fc-7f7d-8f47-f55253f1d21d",
+  type: "page-type/track",
+  slug: "imagine-dragons-it-s-time-remixes-its-time-stungun-jailbreaks-remix",
+  ownLength: 5.102666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
+  position: 4,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6zIdBuEa61EckkoJqSeYfc",
+      externalLink: "https://open.spotify.com/track/6zIdBuEa61EckkoJqSeYfc",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "It's Time - StunGun & JailBreaks Remix",
+  trackType: "remix",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "itstimestungunjailbreaksremix|53XhwfbYqKCa1cC15pYq2q|306160",
+  song: "song/imagine-dragons-it-s-time",
+} as const satisfies Track

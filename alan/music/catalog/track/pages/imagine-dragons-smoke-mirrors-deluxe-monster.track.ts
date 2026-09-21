@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsSmokeMirrorsDeluxeMonster = {
+  id: "01a0c43f-d1e7-7b93-a981-dee991fae9f6",
+  type: "page-type/track",
+  slug: "imagine-dragons-smoke-mirrors-deluxe-monster",
+  ownLength: 4.158216666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
+  position: 20,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Xaw1RrXP3mdooKWysuRJ8",
+      externalLink: "https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Monster",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "monster|53XhwfbYqKCa1cC15pYq2q|249493",
+  song: "song/imagine-dragons-monster",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsSmokeMirrorsDeluxeTheUnknown = {
+  id: "01a0c43f-d11e-7188-ad25-468d4ef97597",
+  type: "page-type/track",
+  slug: "imagine-dragons-smoke-mirrors-deluxe-the-unknown",
+  ownLength: 3.412,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
+  position: 15,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4DRQBzgiM3SQqO5bXXPGpb",
+      externalLink: "https://open.spotify.com/track/4DRQBzgiM3SQqO5bXXPGpb",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "The Unknown",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "theunknown|53XhwfbYqKCa1cC15pYq2q|204720",
+  song: "song/imagine-dragons-the-unknown",
+} as const satisfies Track

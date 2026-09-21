@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsMercuryActs12IDontLikeMyself = {
+  id: "01a0c43f-c524-768a-b2e3-2560a81170cb",
+  type: "page-type/track",
+  slug: "imagine-dragons-mercury-acts-1-2-i-dont-like-myself",
+  ownLength: 3.0915833333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  position: 4,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3soSAbnGLuJeARGmegvMFJ",
+      externalLink: "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "I Don't Like Myself",
+  trackType: "studio",
+  discNumber: 2,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "idontlikemyself|53XhwfbYqKCa1cC15pYq2q|185495",
+  song: "song/imagine-dragons-i-don-t-like-myself",
+} as const satisfies Track

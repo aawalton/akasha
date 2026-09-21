@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsHellAndSilenceEpIDontMind = {
+  id: "01a0c43f-e5ee-7c64-8a1b-d77b3c0c119f",
+  type: "page-type/track",
+  slug: "imagine-dragons-hell-and-silence-ep-i-dont-mind",
+  ownLength: 3.3024333333333336,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
+  position: 2,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6EnnNt3cuZPuXG44bQwqfY",
+      externalLink: "https://open.spotify.com/track/6EnnNt3cuZPuXG44bQwqfY",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "I Don't Mind",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "idontmind|53XhwfbYqKCa1cC15pYq2q|198146",
+  song: "song/imagine-dragons-i-don-t-mind",
+} as const satisfies Track

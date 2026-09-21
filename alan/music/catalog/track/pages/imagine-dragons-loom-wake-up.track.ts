@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsLoomWakeUp = {
+  id: "01a0c43f-b451-7e30-9dcb-07233255c150",
+  type: "page-type/track",
+  slug: "imagine-dragons-loom-wake-up",
+  ownLength: 2.7784333333333335,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-loom"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6BOgN046AFobs2sZV7YlRy",
+      externalLink: "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Wake Up",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "wakeup|53XhwfbYqKCa1cC15pYq2q|166706",
+  song: "song/imagine-dragons-wake-up",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreAmsterdamLive = {
+  id: "01a0c43f-cdab-7543-a008-9889cd4aae44",
+  type: "page-type/track",
+  slug: "imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre-amsterdam-live",
+  ownLength: 3.8402166666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
+  position: 11,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4bdZ1Z9j0vY01KKSBSJjPz",
+      externalLink: "https://open.spotify.com/track/4bdZ1Z9j0vY01KKSBSJjPz",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Amsterdam - Live",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "amsterdamlive|53XhwfbYqKCa1cC15pYq2q|230413",
+  song: "song/imagine-dragons-amsterdam",
+} as const satisfies Track

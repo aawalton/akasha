@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsEvolveYesterday = {
+  id: "01a0c43f-caf6-727f-b2f3-4a62514d8197",
+  type: "page-type/track",
+  slug: "imagine-dragons-evolve-yesterday",
+  ownLength: 3.41855,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-evolve"],
+  position: 8,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2SJf7W18D1AEpr8L9ATu0c",
+      externalLink: "https://open.spotify.com/track/2SJf7W18D1AEpr8L9ATu0c",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Yesterday",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "yesterday|53XhwfbYqKCa1cC15pYq2q|205113",
+  song: "song/imagine-dragons-yesterday",
+} as const satisfies Track

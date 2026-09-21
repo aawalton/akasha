@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsImagineDragonsLiveInVegasThunderLiveInVegas = {
+  id: "01a0c43f-b6bb-770c-b947-29a6b4a304ba",
+  type: "page-type/track",
+  slug: "imagine-dragons-imagine-dragons-live-in-vegas-thunder-live-in-vegas",
+  ownLength: 4.6162,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
+  position: 6,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6w9VLa9bw3XmAmZc3UPW3e",
+      externalLink: "https://open.spotify.com/track/6w9VLa9bw3XmAmZc3UPW3e",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Thunder - Live in Vegas",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "thunderliveinvegas|53XhwfbYqKCa1cC15pYq2q|276972",
+  song: "song/imagine-dragons-thunder",
+} as const satisfies Track

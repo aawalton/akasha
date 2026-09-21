@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsLoomInYourCorner = {
+  id: "01a0c43f-b4ee-71ed-a1d7-97aa9c6f378f",
+  type: "page-type/track",
+  slug: "imagine-dragons-loom-in-your-corner",
+  ownLength: 3.9982166666666665,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-loom"],
+  position: 5,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5hKE4hbAVMP38XWjRlXZPO",
+      externalLink: "https://open.spotify.com/track/5hKE4hbAVMP38XWjRlXZPO",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "In Your Corner",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "inyourcorner|53XhwfbYqKCa1cC15pYq2q|239893",
+  song: "song/imagine-dragons-in-your-corner",
+} as const satisfies Track

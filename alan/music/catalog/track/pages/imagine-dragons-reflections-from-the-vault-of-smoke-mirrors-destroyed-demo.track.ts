@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsDestroyedDemo = {
+  id: "01a0c43f-b2b6-7ee1-8803-343b65759400",
+  type: "page-type/track",
+  slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors-destroyed-demo",
+  ownLength: 3.49315,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
+  position: 8,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3EfnJ2rwpoiwR9b23gBPwg",
+      externalLink: "https://open.spotify.com/track/3EfnJ2rwpoiwR9b23gBPwg",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Destroyed - Demo",
+  trackType: "demo",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "destroyeddemo|53XhwfbYqKCa1cC15pYq2q|209589",
+  song: "song/imagine-dragons-destroyed",
+} as const satisfies Track

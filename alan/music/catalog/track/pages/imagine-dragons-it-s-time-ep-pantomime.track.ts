@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsItSTimeEpPantomime = {
+  id: "01a0c43f-e4f7-70b9-a2f8-a80099866988",
+  type: "page-type/track",
+  slug: "imagine-dragons-it-s-time-ep-pantomime",
+  ownLength: 5.041333333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
+  position: 6,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5YZbIe3e6GIZ4wbBTDeE27",
+      externalLink: "https://open.spotify.com/track/5YZbIe3e6GIZ4wbBTDeE27",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Pantomime",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "pantomime|53XhwfbYqKCa1cC15pYq2q|302480",
+  song: "song/imagine-dragons-pantomime",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsMercuryActs12FollowYou = {
+  id: "01a0c43f-c3ef-73df-9b80-34b786ec38f7",
+  type: "page-type/track",
+  slug: "imagine-dragons-mercury-acts-1-2-follow-you",
+  ownLength: 2.9273833333333332,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  position: 11,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0LtkAAEpEp1lkLX1ZvjHZb",
+      externalLink: "https://open.spotify.com/track/0LtkAAEpEp1lkLX1ZvjHZb",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Follow You",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "followyou|53XhwfbYqKCa1cC15pYq2q|175643",
+  song: "song/imagine-dragons-follow-you",
+} as const satisfies Track

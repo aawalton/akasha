@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsItSTimeEpItsTime = {
+  id: "01a0c43f-e426-73bd-b7d8-4cd628a7754b",
+  type: "page-type/track",
+  slug: "imagine-dragons-it-s-time-ep-its-time",
+  ownLength: 4.00155,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6uiXxowS3v7j7qZ4wrgJzl",
+      externalLink: "https://open.spotify.com/track/6uiXxowS3v7j7qZ4wrgJzl",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "It's Time",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "itstime|53XhwfbYqKCa1cC15pYq2q|240093",
+  song: "song/imagine-dragons-it-s-time",
+} as const satisfies Track

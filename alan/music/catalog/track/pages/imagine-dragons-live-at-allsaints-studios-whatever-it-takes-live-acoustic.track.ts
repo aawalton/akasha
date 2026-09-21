@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsLiveAtAllsaintsStudiosWhateverItTakesLiveAcoustic = {
+  id: "01a0c43f-ddf9-70d3-b9c3-dad53fd41428",
+  type: "page-type/track",
+  slug: "imagine-dragons-live-at-allsaints-studios-whatever-it-takes-live-acoustic",
+  ownLength: 3.716666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-live-at-allsaints-studios"],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0MWrQbrxEOcmTgL3ESfPTg",
+      externalLink: "https://open.spotify.com/track/0MWrQbrxEOcmTgL3ESfPTg",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Whatever It Takes - Live/Acoustic",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "whateverittakesliveacoustic|53XhwfbYqKCa1cC15pYq2q|223000",
+  song: "song/imagine-dragons-whatever-it-takes",
+} as const satisfies Track

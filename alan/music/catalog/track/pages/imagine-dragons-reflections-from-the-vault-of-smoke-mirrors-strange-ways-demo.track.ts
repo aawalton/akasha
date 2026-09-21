@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsStrangeWaysDemo = {
+  id: "01a0c43f-b1d8-72d4-b2fc-120a951d4af2",
+  type: "page-type/track",
+  slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors-strange-ways-demo",
+  ownLength: 2.5183333333333335,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
+  position: 5,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5UxcYdHHFutzDBUw3kqIvX",
+      externalLink: "https://open.spotify.com/track/5UxcYdHHFutzDBUw3kqIvX",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Strange Ways - Demo",
+  trackType: "demo",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "strangewaysdemo|53XhwfbYqKCa1cC15pYq2q|151100",
+  song: "song/imagine-dragons-strange-ways",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsImagineDragonsLiveInVegasWhateverItTakesLiveInVegas = {
+  id: "01a0c43f-b7fb-738a-bae4-c38eb1211f0f",
+  type: "page-type/track",
+  slug: "imagine-dragons-imagine-dragons-live-in-vegas-whatever-it-takes-live-in-vegas",
+  ownLength: 5.394216666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
+  position: 14,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5nASdE2ijIfq0cIG4VZCgW",
+      externalLink: "https://open.spotify.com/track/5nASdE2ijIfq0cIG4VZCgW",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Whatever It Takes - Live in Vegas",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "whateverittakesliveinvegas|53XhwfbYqKCa1cC15pYq2q|323653",
+  song: "song/imagine-dragons-whatever-it-takes",
+} as const satisfies Track

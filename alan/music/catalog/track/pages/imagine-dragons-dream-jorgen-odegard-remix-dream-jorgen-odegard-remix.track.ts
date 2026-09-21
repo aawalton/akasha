@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsDreamJorgenOdegardRemixDreamJorgenOdegardRemix = {
+  id: "01a0c43f-df4f-7298-ae7f-b4bdec34e863",
+  type: "page-type/track",
+  slug: "imagine-dragons-dream-jorgen-odegard-remix-dream-jorgen-odegard-remix",
+  ownLength: 4.608216666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-dream-jorgen-odegard-remix"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0MhOS9SC3PYkRnslxRShIG",
+      externalLink: "https://open.spotify.com/track/0MhOS9SC3PYkRnslxRShIG",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Dream - Jorgen Odegard Remix",
+  trackType: "remix",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "dreamjorgenodegardremix|53XhwfbYqKCa1cC15pYq2q|276493",
+  song: "song/imagine-dragons-dream",
+} as const satisfies Track

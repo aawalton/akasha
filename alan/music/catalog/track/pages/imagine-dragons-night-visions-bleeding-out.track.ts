@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsNightVisionsBleedingOut = {
+  id: "01a0c43f-d59e-7df6-b629-a9dea22e3125",
+  type: "page-type/track",
+  slug: "imagine-dragons-night-visions-bleeding-out",
+  ownLength: 3.6842166666666665,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-night-visions"],
+  position: 9,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6NaBDHz9C7Uz9Z9CwLXQin",
+      externalLink: "https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Bleeding Out",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "bleedingout|53XhwfbYqKCa1cC15pYq2q|221053",
+  song: "song/imagine-dragons-bleeding-out",
+} as const satisfies Track

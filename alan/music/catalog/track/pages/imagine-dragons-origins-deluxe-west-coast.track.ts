@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsOriginsDeluxeWestCoast = {
+  id: "01a0c43f-c821-7d6c-b870-0f8e1aa338c1",
+  type: "page-type/track",
+  slug: "imagine-dragons-origins-deluxe-west-coast",
+  ownLength: 3.61955,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-origins-deluxe"],
+  position: 6,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2nkoWsTZa8LKPNGdjI5uxj",
+      externalLink: "https://open.spotify.com/track/2nkoWsTZa8LKPNGdjI5uxj",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "West Coast",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "westcoast|53XhwfbYqKCa1cC15pYq2q|217173",
+  song: "song/imagine-dragons-west-coast",
+} as const satisfies Track

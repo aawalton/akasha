@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsMonicaDemo = {
+  id: "01a0c43f-b14e-733a-a4ba-c628ab4edb74",
+  type: "page-type/track",
+  slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors-monica-demo",
+  ownLength: 3.304866666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6r3jteHvR25BRmiHHJO12i",
+      externalLink: "https://open.spotify.com/track/6r3jteHvR25BRmiHHJO12i",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Monica - Demo",
+  trackType: "demo",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "monicademo|53XhwfbYqKCa1cC15pYq2q|198292",
+  song: "song/imagine-dragons-monica",
+} as const satisfies Track

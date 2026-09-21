@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsMercuryActs12ItsOk = {
+  id: "01a0c43f-c396-74dd-bc42-26b88d520c43",
+  type: "page-type/track",
+  slug: "imagine-dragons-mercury-acts-1-2-its-ok",
+  ownLength: 3.37495,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  position: 9,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0p5UWw5wVyzPOgCIx5T0tn",
+      externalLink: "https://open.spotify.com/track/0p5UWw5wVyzPOgCIx5T0tn",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "It's Ok",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "itsok|53XhwfbYqKCa1cC15pYq2q|202497",
+  song: "song/imagine-dragons-it-s-ok",
+} as const satisfies Track

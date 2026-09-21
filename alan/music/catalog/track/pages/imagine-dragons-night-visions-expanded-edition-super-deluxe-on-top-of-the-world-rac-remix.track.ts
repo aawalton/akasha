@@ -1,0 +1,31 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorldRacRemix = {
+  id: "01a0c43f-c08c-7232-947a-dcc0b6d15154",
+  type: "page-type/track",
+  slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-on-top-of-the-world-rac-remix",
+  ownLength: 3.6248833333333335,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
+  position: 4,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1SWEOa2JKgaHekBgYCP3Jt",
+      externalLink: "https://open.spotify.com/track/1SWEOa2JKgaHekBgYCP3Jt",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "On Top Of The World - RAC Remix",
+  trackType: "remix",
+  discNumber: 4,
+  explicit: false,
+  trackArtist: [
+    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
+    { externalId: "4AGwPDdh1y8hochNzHy5HC", artistName: "RAC" },
+  ],
+  trackKey: "ontopoftheworldracremix|4AGwPDdh1y8hochNzHy5HC,53XhwfbYqKCa1cC15pYq2q|217493",
+  song: "song/imagine-dragons-on-top-of-the-world",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsImagineDragonsLiveInVegasIBetMyLifeAcousticLiveInVegas = {
+  id: "01a0c43f-b7aa-7b1d-9c26-2272b48c6dcc",
+  type: "page-type/track",
+  slug: "imagine-dragons-imagine-dragons-live-in-vegas-i-bet-my-life-acoustic-live-in-vegas",
+  ownLength: 3.761,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
+  position: 12,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5QXqQloyCOtu9rdGN7iRre",
+      externalLink: "https://open.spotify.com/track/5QXqQloyCOtu9rdGN7iRre",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "I Bet My Life (Acoustic) - Live in Vegas",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "ibetmylifeacousticliveinvegas|53XhwfbYqKCa1cC15pYq2q|225660",
+  song: "song/imagine-dragons-i-bet-my-life",
+} as const satisfies Track

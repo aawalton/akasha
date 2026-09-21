@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeMyFault = {
+  id: "01a0c43f-bbec-7c30-b6dd-93fa49bde838",
+  type: "page-type/track",
+  slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-my-fault",
+  ownLength: 2.95355,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "29Vuv3tN7hh5iNZvE5gbKw",
+      externalLink: "https://open.spotify.com/track/29Vuv3tN7hh5iNZvE5gbKw",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "My Fault",
+  trackType: "studio",
+  discNumber: 2,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "myfault|53XhwfbYqKCa1cC15pYq2q|177213",
+  song: "song/imagine-dragons-my-fault",
+} as const satisfies Track

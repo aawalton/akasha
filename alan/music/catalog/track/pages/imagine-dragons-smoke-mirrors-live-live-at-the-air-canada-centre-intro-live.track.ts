@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreIntroLive = {
+  id: "01a0c43f-cbca-7397-adbc-0290afd842e3",
+  type: "page-type/track",
+  slug: "imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre-intro-live",
+  ownLength: 2.0946666666666665,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "66xWQEHTW6cl4DOEB3Oe40",
+      externalLink: "https://open.spotify.com/track/66xWQEHTW6cl4DOEB3Oe40",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Intro - Live",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "introlive|53XhwfbYqKCa1cC15pYq2q|125680",
+  song: "song/imagine-dragons-intro",
+} as const satisfies Track

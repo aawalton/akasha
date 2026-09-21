@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsImagineDragonsLiveInVegasFollowYouLiveInVegas = {
+  id: "01a0c43f-b710-7d69-b3b5-066a5800b1c5",
+  type: "page-type/track",
+  slug: "imagine-dragons-imagine-dragons-live-in-vegas-follow-you-live-in-vegas",
+  ownLength: 3.6592333333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
+  position: 8,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2q7AolZJ1mCow1nDBlUDd4",
+      externalLink: "https://open.spotify.com/track/2q7AolZJ1mCow1nDBlUDd4",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Follow You - Live in Vegas",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "followyouliveinvegas|53XhwfbYqKCa1cC15pYq2q|219554",
+  song: "song/imagine-dragons-follow-you",
+} as const satisfies Track

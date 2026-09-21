@@ -23,7 +23,7 @@ export const imagineDragons = {
       source: "spotify",
       externalId: "53XhwfbYqKCa1cC15pYq2q",
       externalLink: "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
-      lastSyncedAt: "2026-03-02",
+      lastSyncedAt: "2026-09-21",
     },
   ],
   title: "Imagine Dragons",

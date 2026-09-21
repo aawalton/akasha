@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsEvolveRiseUp = {
+  id: "01a0c43f-caa7-7028-9e44-5523020824c4",
+  type: "page-type/track",
+  slug: "imagine-dragons-evolve-rise-up",
+  ownLength: 3.862,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-evolve"],
+  position: 6,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3zT2616WcD9Df5m21OsCX0",
+      externalLink: "https://open.spotify.com/track/3zT2616WcD9Df5m21OsCX0",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Rise Up",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "riseup|53XhwfbYqKCa1cC15pYq2q|231720",
+  song: "song/imagine-dragons-rise-up",
+} as const satisfies Track

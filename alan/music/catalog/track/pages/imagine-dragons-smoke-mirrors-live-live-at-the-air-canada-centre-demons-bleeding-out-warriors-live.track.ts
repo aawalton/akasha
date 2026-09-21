@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreDemonsBleedingOutWarriorsLive = {
+  id: "01a0c43f-cd81-7772-ba0f-3e80d7459abe",
+  type: "page-type/track",
+  slug: "imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre-demons-bleeding-out-warriors-live",
+  ownLength: 4.9877666666666665,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
+  position: 10,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "54j7jZuU8cyVoq0dM4J6GV",
+      externalLink: "https://open.spotify.com/track/54j7jZuU8cyVoq0dM4J6GV",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Demons / Bleeding Out / Warriors - Live",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "demonsbleedingoutwarriorslive|53XhwfbYqKCa1cC15pYq2q|299266",
+  song: "song/imagine-dragons-demons-bleeding-out-warriors",
+} as const satisfies Track

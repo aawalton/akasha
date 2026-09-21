@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsSmokeMirrorsDeluxePolaroid = {
+  id: "01a0c43f-cfc9-7d06-8953-7153d4eb9450",
+  type: "page-type/track",
+  slug: "imagine-dragons-smoke-mirrors-deluxe-polaroid",
+  ownLength: 3.83355,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
+  position: 6,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Ng999MKVY9ikd8FtGaNnz",
+      externalLink: "https://open.spotify.com/track/6Ng999MKVY9ikd8FtGaNnz",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Polaroid",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "polaroid|53XhwfbYqKCa1cC15pYq2q|230013",
+  song: "song/imagine-dragons-polaroid",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsEvolveWhateverItTakes = {
+  id: "01a0c43f-ca27-71bc-8dee-384916b3dadd",
+  type: "page-type/track",
+  slug: "imagine-dragons-evolve-whatever-it-takes",
+  ownLength: 3.354,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-evolve"],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Qn5zhYkTa37e91HC1D7lb",
+      externalLink: "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Whatever It Takes",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "whateverittakes|53XhwfbYqKCa1cC15pYq2q|201240",
+  song: "song/imagine-dragons-whatever-it-takes",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsMercuryActs12Sirens = {
+  id: "01a0c43f-c68b-7e62-abe4-fa7d5726d5df",
+  type: "page-type/track",
+  slug: "imagine-dragons-mercury-acts-1-2-sirens",
+  ownLength: 2.5885333333333334,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  position: 13,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3IkEM7cjZ8FZtmVFq1q03c",
+      externalLink: "https://open.spotify.com/track/3IkEM7cjZ8FZtmVFq1q03c",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Sirens",
+  trackType: "studio",
+  discNumber: 2,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "sirens|53XhwfbYqKCa1cC15pYq2q|155312",
+  song: "song/imagine-dragons-sirens",
+} as const satisfies Track

@@ -1,0 +1,30 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInternetZeroFromThe = {
+  id: "01a0c43f-dc91-7d60-8fca-d60435869f27",
+  type: "page-type/track",
+  slug: "imagine-dragons-zero-from-the-original-motion-picture-ralph-breaks-the-internet-zero-from-the",
+  ownLength: 3.5155666666666665,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/imagine-dragons-zero-from-the-original-motion-picture-ralph-breaks-the-internet",
+  ],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0cDwUAF7yQrOLRcFfJpSc2",
+      externalLink: "https://open.spotify.com/track/0cDwUAF7yQrOLRcFfJpSc2",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: 'Zero - From the Original Motion Picture "Ralph Breaks The Internet"',
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "zerofromtheoriginalmotionpictureralphbreakstheinternet|53XhwfbYqKCa1cC15pYq2q|210934",
+  song: "song/imagine-dragons-zero-from-the-original-motion-picture-ralph-breaks-the-internet",
+} as const satisfies Track

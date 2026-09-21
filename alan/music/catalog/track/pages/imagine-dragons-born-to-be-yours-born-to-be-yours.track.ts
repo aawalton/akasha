@@ -1,0 +1,31 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsBornToBeYoursBornToBeYours = {
+  id: "01a0c43f-dcbb-7d84-97c0-309de27c6061",
+  type: "page-type/track",
+  slug: "imagine-dragons-born-to-be-yours-born-to-be-yours",
+  ownLength: 3.222,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-born-to-be-yours"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0WVAQaxrT0wsGEG4BCVSn2",
+      externalLink: "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Born To Be Yours",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [
+    { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },
+    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
+  ],
+  trackKey: "borntobeyours|23fqKkggKUBHNkbKtXEls4,53XhwfbYqKCa1cC15pYq2q|193320",
+  song: "song/imagine-dragons-born-to-be-yours",
+} as const satisfies Track

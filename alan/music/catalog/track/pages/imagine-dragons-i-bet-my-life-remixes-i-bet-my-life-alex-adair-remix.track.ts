@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsIBetMyLifeRemixesIBetMyLifeAlexAdairRemix = {
+  id: "01a0c43f-e10e-785b-a669-07afc92e73dd",
+  type: "page-type/track",
+  slug: "imagine-dragons-i-bet-my-life-remixes-i-bet-my-life-alex-adair-remix",
+  ownLength: 3.171333333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-i-bet-my-life-remixes"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3bnEhDlFFXeCyyYhbRszW7",
+      externalLink: "https://open.spotify.com/track/3bnEhDlFFXeCyyYhbRszW7",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "I Bet My Life - Alex Adair Remix",
+  trackType: "remix",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "ibetmylifealexadairremix|53XhwfbYqKCa1cC15pYq2q|190280",
+  song: "song/imagine-dragons-i-bet-my-life",
+} as const satisfies Track

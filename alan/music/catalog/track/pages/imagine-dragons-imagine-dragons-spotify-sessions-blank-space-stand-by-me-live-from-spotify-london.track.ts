@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsImagineDragonsSpotifySessionsBlankSpaceStandByMeLiveFromSpotifyLondon = {
+  id: "01a0c43f-e08d-7a8d-b504-98eaa2acf306",
+  type: "page-type/track",
+  slug: "imagine-dragons-imagine-dragons-spotify-sessions-blank-space-stand-by-me-live-from-spotify-london",
+  ownLength: 5.057216666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
+  position: 2,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Dbgo1HE3DErIBNDIO4Hyd",
+      externalLink: "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Blank Space/Stand By Me - Live From Spotify London",
+  trackType: "live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "blankspacestandbymelivefromspotifylondon|53XhwfbYqKCa1cC15pYq2q|303433",
+  song: "song/imagine-dragons-blank-space-stand-by-me",
+} as const satisfies Track

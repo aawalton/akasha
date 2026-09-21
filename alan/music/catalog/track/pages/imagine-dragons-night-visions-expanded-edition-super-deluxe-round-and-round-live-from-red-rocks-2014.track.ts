@@ -1,0 +1,29 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRoundAndRoundLiveFromRedRocks2014 =
+  {
+    id: "01a0c43f-be30-784c-aae9-6a60f46bf979",
+    type: "page-type/track",
+    slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-round-and-round-live-from-red-rocks-2014",
+    ownLength: 3.63355,
+    ownProgress: 0,
+    partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
+    position: 4,
+    status: "not-started",
+    unit: "unit/minutes",
+    externalIdentity: [
+      {
+        source: "spotify",
+        externalId: "1Y5bExVU5hWC3gMuqB52Rd",
+        externalLink: "https://open.spotify.com/track/1Y5bExVU5hWC3gMuqB52Rd",
+        lastSyncedAt: "2026-09-21",
+      },
+    ],
+    title: "Round And Round - Live From Red Rocks / 2014",
+    trackType: "live",
+    discNumber: 3,
+    explicit: false,
+    trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+    trackKey: "roundandroundlivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|218013",
+    song: "song/imagine-dragons-round-and-round",
+  } as const satisfies Track

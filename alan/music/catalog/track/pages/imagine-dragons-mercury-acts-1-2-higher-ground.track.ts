@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsMercuryActs12HigherGround = {
+  id: "01a0c43f-c57a-7415-8c0a-418b80ef22da",
+  type: "page-type/track",
+  slug: "imagine-dragons-mercury-acts-1-2-higher-ground",
+  ownLength: 2.6973666666666665,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
+  position: 6,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "66N0XT7yr2VuFxrMc8piUy",
+      externalLink: "https://open.spotify.com/track/66N0XT7yr2VuFxrMc8piUy",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Higher Ground",
+  trackType: "studio",
+  discNumber: 2,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "higherground|53XhwfbYqKCa1cC15pYq2q|161842",
+  song: "song/imagine-dragons-higher-ground",
+} as const satisfies Track

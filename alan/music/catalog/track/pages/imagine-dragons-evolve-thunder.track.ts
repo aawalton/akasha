@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsEvolveThunder = {
+  id: "01a0c43f-cb4a-736a-860e-29da33939bee",
+  type: "page-type/track",
+  slug: "imagine-dragons-evolve-thunder",
+  ownLength: 3.1191,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-evolve"],
+  position: 10,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1zB4vmk8tFRmM9UULNzbLB",
+      externalLink: "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Thunder",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "thunder|53XhwfbYqKCa1cC15pYq2q|187146",
+  song: "song/imagine-dragons-thunder",
+} as const satisfies Track

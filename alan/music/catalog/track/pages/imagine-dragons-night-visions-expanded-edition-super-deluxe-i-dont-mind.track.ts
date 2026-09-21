@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeIDontMind = {
+  id: "01a0c43f-bd05-725b-9ce0-cab15694cea3",
+  type: "page-type/track",
+  slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-i-dont-mind",
+  ownLength: 3.2948833333333334,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
+  position: 10,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0YvtHBWXqr8dfxqfT5GgWC",
+      externalLink: "https://open.spotify.com/track/0YvtHBWXqr8dfxqfT5GgWC",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "I Don't Mind",
+  trackType: "studio",
+  discNumber: 2,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "idontmind|53XhwfbYqKCa1cC15pYq2q|197693",
+  song: "song/imagine-dragons-i-don-t-mind",
+} as const satisfies Track

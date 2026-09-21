@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsItSTimeRemixesItsTimeJailbreaksRemix = {
+  id: "01a0c43f-e3d2-731b-9689-3c6abc3105be",
+  type: "page-type/track",
+  slug: "imagine-dragons-it-s-time-remixes-its-time-jailbreaks-remix",
+  ownLength: 4.432,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6InHoevC1UiGD9gNyJvX8i",
+      externalLink: "https://open.spotify.com/track/6InHoevC1UiGD9gNyJvX8i",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "It's Time - JailBreaks Remix",
+  trackType: "remix",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackKey: "itstimejailbreaksremix|53XhwfbYqKCa1cC15pYq2q|265920",
+  song: "song/imagine-dragons-it-s-time",
+} as const satisfies Track

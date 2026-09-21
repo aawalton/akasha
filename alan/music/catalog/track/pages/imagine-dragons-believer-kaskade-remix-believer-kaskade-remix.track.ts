@@ -1,0 +1,31 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const imagineDragonsBelieverKaskadeRemixBelieverKaskadeRemix = {
+  id: "01a0c43f-de41-77ae-8958-6d04a8dc3c41",
+  type: "page-type/track",
+  slug: "imagine-dragons-believer-kaskade-remix-believer-kaskade-remix",
+  ownLength: 3.18155,
+  ownProgress: 0,
+  partOfCollections: ["release/imagine-dragons-believer-kaskade-remix"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6aiHF2IbJr6lG4Vu9em8KF",
+      externalLink: "https://open.spotify.com/track/6aiHF2IbJr6lG4Vu9em8KF",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Believer - Kaskade Remix",
+  trackType: "remix",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [
+    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
+    { externalId: "6TQj5BFPooTa08A7pk8AQ1", artistName: "Kaskade" },
+  ],
+  trackKey: "believerkaskaderemix|53XhwfbYqKCa1cC15pYq2q,6TQj5BFPooTa08A7pk8AQ1|190893",
+  song: "song/imagine-dragons-believer",
+} as const satisfies Track
