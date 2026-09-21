@@ -7,10 +7,6 @@ export const awenEngineImprovements = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   intentStack: [
-    {
-      statement:
-        "A mechanic a game needs and no page holds becomes a page in the turn that needs it.",
-    },
     { statement: "A game's interface is loaded from pages rather than built with the app." },
     { statement: "A played story is drawn by that loader." },
     { statement: "No story-design-note holds content another page type would carry." },
