@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-05.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-core/companion-qol-core.module.code.ts"}
