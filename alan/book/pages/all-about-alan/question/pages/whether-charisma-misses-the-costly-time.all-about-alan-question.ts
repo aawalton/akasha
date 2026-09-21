@@ -5,5 +5,5 @@ export const whetherCharismaMissesTheCostlyTime = {
   type: "page-type/all-about-alan-question",
   slug: "whether-charisma-misses-the-costly-time",
   topic: "all-about-alan-topic/the-marriage-lever-i-cannot-read",
-  ask: "My Charisma proxy reads affordable time with Jen. Does the time that moves the marriage sit inside the affordable band, or is the costly time the time that counts?",
+  ask: "My Charisma readout counts hours with anyone where my safety is a level above the difficulty. Can that serve as my marriage proxy, or does the time that moves the marriage cost more than that?",
 } as const satisfies AllAboutAlanQuestion
