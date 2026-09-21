@@ -123,6 +123,7 @@ export async function proposedBy(given: Proposal): Promise<Landed> {
         slug,
         values: {
           slug,
+          title: ask,
           ask,
           product: given.product,
           proposer: backer,

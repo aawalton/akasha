@@ -8,4 +8,4 @@
 {"type":"page-type/view"}
 {"viewPlace":0}
 {"viewSorts":[{"key":"title","descending":false}]}
-{"visibleProperties":["product","ask"]}
+{"visibleProperties":["product"]}

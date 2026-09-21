@@ -29,6 +29,10 @@ export const featureRequestWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A request is named by its ask, so every listing draws the ask as the title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A request is named against every feature request slug the pages hold.",
     },
     {

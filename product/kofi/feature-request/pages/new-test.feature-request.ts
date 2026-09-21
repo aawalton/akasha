@@ -16,4 +16,5 @@ export const newTest = {
   standing: "published",
   proposer:
     "contributor/contributor-9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4",
+  title: "New Test",
 } as const satisfies FeatureRequest

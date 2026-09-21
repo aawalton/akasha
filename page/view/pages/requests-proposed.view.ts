@@ -11,5 +11,5 @@ export const requestsProposed = {
   layout: "list",
   narrows: [{ key: "standing", comparison: "is", values: ["proposed"] }],
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["product", "ask"],
+  visibleProperties: ["product"],
 } as const satisfies View

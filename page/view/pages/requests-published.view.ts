@@ -11,5 +11,5 @@ export const requestsPublished = {
   layout: "cards",
   narrows: [{ key: "standing", comparison: "is", values: ["published"] }],
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["product", "ask", "back"],
+  visibleProperties: ["product", "back"],
 } as const satisfies View

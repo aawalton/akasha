@@ -11,5 +11,5 @@ export const requestsDenied = {
   layout: "list",
   narrows: [{ key: "standing", comparison: "is", values: ["denied"] }],
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["product", "ask"],
+  visibleProperties: ["product"],
 } as const satisfies View

@@ -11,5 +11,5 @@ export const requestsCompleted = {
   layout: "list",
   narrows: [{ key: "standing", comparison: "is", values: ["completed"] }],
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["product", "ask"],
+  visibleProperties: ["product"],
 } as const satisfies View
