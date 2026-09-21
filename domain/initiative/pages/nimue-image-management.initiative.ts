@@ -8,11 +8,6 @@ export const nimueImageManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every image akasha holds is reached through one mechanism.",
-      workingMemory:
-        "Four are in use. Bytes in the SeaweedFS bucket `agent-sessions` under `images/<pageId>.png`, served at `/api/image/:imageId` behind a sign-in. Bytes beside the page as a png file property. A path read against a named root. An absolute path. Keys are all worked out in `object-store-key.module.code.ts`, which also reads a legacy `persona-images/` prefix, so a miss costs three HEADs.",
-    },
-    {
       statement: "Every image an agent made outlives the machine that made it.",
       workingMemory:
         "999 generation-log rows were made by a run and name an absolute path: 970 under `~/Pictures/Generated`, which does not exist on this workstation, and 9 under `/tmp`. Only 112 of the 3,872 rows carry a `cover`, so only those have bytes in the object store. `akasha inference generate` writes where the caller says and persists only where asked.",
