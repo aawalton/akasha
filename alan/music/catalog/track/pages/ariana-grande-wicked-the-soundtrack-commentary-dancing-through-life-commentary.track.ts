@@ -4,6 +4,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
   id: "01a0a6c5-4a13-72b9-b9f4-c2cfeb88eeb1",
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-dancing-through-life-commentary",
+  grade: "C",
   ownLength: 1.4135833333333334,
   ownProgress: 1.4135833333333334,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
