@@ -20,19 +20,19 @@ import type { ErrorEntry } from "akasha/temper/capture/error/modules/errors-payl
 import {
   collectEntries,
   SAVED_VARIABLES_NAME,
-} from "akasha/temper/errors-triage/modules/errors-collect/errors-collect.module.code.ts"
+} from "akasha/temper/capture/errors-triage/modules/errors-collect/errors-collect.module.code.ts"
 import {
   classifyLiveness,
   DEFAULT_STALE_AFTER_HOURS,
   extractOwningAddonCandidates,
   type Ownership,
-} from "akasha/temper/errors-triage/modules/errors-liveness/errors-liveness.module.code.ts"
-import { rootSchema } from "akasha/temper/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.code.ts"
-import type { InferredCulprit } from "akasha/temper/errors-triage/modules/errors-triage/errors-triage.module.code.ts"
+} from "akasha/temper/capture/errors-triage/modules/errors-liveness/errors-liveness.module.code.ts"
+import { rootSchema } from "akasha/temper/capture/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.code.ts"
+import type { InferredCulprit } from "akasha/temper/capture/errors-triage/modules/errors-triage/errors-triage.module.code.ts"
 import {
   gatherTriage,
   readDeployedBuildId,
-} from "akasha/temper/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts"
+} from "akasha/temper/capture/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 

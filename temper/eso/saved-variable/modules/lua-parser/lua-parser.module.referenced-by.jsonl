@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"command/pages/temper/inventory/master/consumable-trace/temper-inventory-master-consumable-trace.command.code.ts"}
-{"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/capture-datamining-reader/modules/mined-data-parse/mined-data-parse.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"}
+{"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"}

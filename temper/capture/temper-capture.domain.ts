@@ -16,5 +16,6 @@ export const temperCapture = {
     "domain/temper-characters-capture-addon",
     "domain/temper-characters-skills-morphs-addon",
     "domain/temper-completion-import",
+    "domain/temper-errors-triage",
   ],
 } as const satisfies Domain

@@ -6,7 +6,7 @@ import type {
 import {
   minedItemSchema,
   minedQuestSchema,
-} from "akasha/temper/capture-datamining-reader/modules/saved-variables-schema/saved-variables-schema.module.code.ts"
+} from "akasha/temper/capture/datamining/reader/modules/saved-variables-schema/saved-variables-schema.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import type { z } from "zod"

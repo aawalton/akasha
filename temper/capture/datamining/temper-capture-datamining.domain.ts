@@ -5,7 +5,11 @@ export const temperCaptureDatamining = {
   type: "page-type/domain",
   slug: "temper-capture-datamining",
   definition: "the shape a sweep of every item and quest id writes where the game saves it",
-  parts: ["module/datamining-descriptor", "module/datamining-payload"],
+  parts: [
+    "module/datamining-descriptor",
+    "module/datamining-payload",
+    "domain/temper-capture-datamining-reader",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
