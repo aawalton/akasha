@@ -10,13 +10,9 @@ export const authProxy = {
     "manifest/auth-proxy-manifests",
     "module/auth-proxy-config",
     "module/auth-proxy-server",
-    "module/cors",
-    "module/cors-core",
     "module/proxy",
-    "module/proxy-core",
     "module/proxy-reading",
     "module/route-map-core",
-    "module/ws-bridge",
   ],
   decisions: [
     {

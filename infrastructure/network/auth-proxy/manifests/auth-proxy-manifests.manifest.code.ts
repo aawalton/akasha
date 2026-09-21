@@ -38,7 +38,6 @@ const SELECTOR_LABELS = {
 const ROUTE_MAP_VALUE = JSON.stringify({
   "grafana.alanwalton.com": "http://grafana.grafana.svc.cluster.local:3000",
   "git.alanwalton.com": "http://git-transport.git.svc.cluster.local:3000",
-  "supabase.alanwalton.com": "http://supabase-studio.supabase-studio.svc.cluster.local:3000",
 })
 
 const CONTRIBUTOR_PREFIX = "contributor/"
@@ -52,94 +51,6 @@ const ADMITTED_VALUE = JSON.stringify({
 })
 
 const SECRETS_NAME = `${APP_NAME}-secrets`
-
-type PathRoute = {
-  host: string
-  prefix: string
-  target: string
-  stripPrefix: boolean
-  websocket?: boolean
-  stub?: { body: string }
-}
-
-const PATH_ROUTES: readonly PathRoute[] = [
-  {
-    host: "supabase.alanwalton.com",
-    prefix: "/rest/v1",
-    target: "http://postgrest.postgrest.svc.cluster.local:3000",
-    stripPrefix: true,
-  },
-  {
-    host: "supabase.alanwalton.com",
-    prefix: "/auth/v1",
-    target: "http://gotrue.gotrue.svc.cluster.local:9999",
-    stripPrefix: true,
-  },
-  {
-    host: "supabase.alanwalton.com",
-    prefix: "/realtime/v1",
-    target: "ws://realtime.supabase-realtime.svc.cluster.local:4000/socket",
-    stripPrefix: true,
-    websocket: true,
-  },
-  {
-    host: "supabase.alanwalton.com",
-    prefix: "/favicon",
-    target: "http://supabase-studio.supabase-studio.svc.cluster.local:3000",
-    stripPrefix: false,
-  },
-  {
-    host: "supabase.alanwalton.com",
-    prefix: "/api/platform/notifications",
-    target: "stub://",
-    stripPrefix: false,
-    stub: { body: "[]" },
-  },
-  {
-    host: "supabase.alanwalton.com",
-    prefix: "/api/platform/functions",
-    target: "stub://",
-    stripPrefix: false,
-    stub: { body: "[]" },
-  },
-  {
-    host: `${APP_NAME}.${NAMESPACE}.svc.cluster.local:${PORT}`,
-    prefix: "/rest/v1",
-    target: "http://postgrest.postgrest.svc.cluster.local:3000",
-    stripPrefix: true,
-  },
-  {
-    host: `${APP_NAME}.${NAMESPACE}.svc.cluster.local:${PORT}`,
-    prefix: "/auth/v1",
-    target: "http://gotrue.gotrue.svc.cluster.local:9999",
-    stripPrefix: true,
-  },
-  {
-    host: `${APP_NAME}.${NAMESPACE}.svc.cluster.local:${PORT}`,
-    prefix: "/realtime/v1",
-    target: "ws://realtime.supabase-realtime.svc.cluster.local:4000/socket",
-    stripPrefix: true,
-    websocket: true,
-  },
-]
-
-const PATH_ROUTES_VALUE = JSON.stringify(PATH_ROUTES)
-
-const CORS_ALLOWED_ORIGINS_VALUE = [
-  "https://alanwalton.com",
-  "capacitor://localhost",
-  "https://dev.alanwalton.com",
-  "https://studio.alanwalton.com",
-  "https://atlas.alanwalton.com",
-  "http://localhost:3010",
-  "https://tempereso.com",
-  "https://www.tempereso.com",
-  "https://dev.tempereso.com",
-  "https://archiveofworlds.app",
-  "https://www.archiveofworlds.app",
-  "https://dev.archiveofworlds.app",
-  "https://smilingjenny.me",
-].join(",")
 
 function deploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
@@ -188,14 +99,7 @@ function deploymentYaml(): string {
               env: [
                 { name: "PORT", value: String(PORT) },
                 { name: "ROUTE_MAP", value: ROUTE_MAP_VALUE },
-                { name: "PATH_ROUTES", value: PATH_ROUTES_VALUE },
                 { name: "ADMITTED", value: ADMITTED_VALUE },
-                { name: "CORS_ALLOWED_ORIGINS", value: CORS_ALLOWED_ORIGINS_VALUE },
-                {
-                  name: "CORS_ALLOWED_ORIGIN_PATTERNS",
-                  value: "^http://localhost:3[0-6][0-9]{2}$",
-                },
-                { name: "CORS_PATH_PREFIXES", value: "/auth/v1" },
               ],
               envFrom: [{ secretRef: { name: SECRETS_NAME } }],
               volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],

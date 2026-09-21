@@ -19,9 +19,5 @@ export const proxy = {
       decisionKind: "decision-kind/departure",
       statement: "A body is passed on still compressed.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No websocket target is sent on from here.",
-    },
   ],
 } as const satisfies Module

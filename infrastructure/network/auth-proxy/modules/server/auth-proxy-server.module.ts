@@ -14,14 +14,6 @@ export const authProxyServer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A few paths answer with a canned empty body rather than a not-found.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A path route is looked for before the host's own route is.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A browser with no session is sent to sign in and anything else is refused.",
     },
     {

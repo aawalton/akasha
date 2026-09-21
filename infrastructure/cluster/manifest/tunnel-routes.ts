@@ -11,11 +11,7 @@ export const routes: TunnelRoute[] = [
     hostname: "grafana.alanwalton.com",
     service: "http://auth-proxy.auth-proxy.svc.cluster.local:3080",
   },
-  {
-    name: "supabase",
-    hostname: "supabase.alanwalton.com",
-    service: "http://auth-proxy.auth-proxy.svc.cluster.local:3080",
-  },
+
   {
     name: "s3",
     hostname: "s3.alanwalton.com",
