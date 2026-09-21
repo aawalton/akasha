@@ -149,6 +149,10 @@ export const changeAnswer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the two bodies share at their opening is not counted again at their close.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The body such an edit is worked out from is read off the tree.",
     },
     {

@@ -77,6 +77,9 @@ export type Changes = {
   "change-agent/divide-page-property": Parameters<
     typeof import("akasha/change/agent/file/divide-page-property/divide-page-property.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/gather-interface-declarations": Parameters<
+    typeof import("akasha/change/agent/file-content/gather-interface-declarations/gather-interface-declarations.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/move-code-export": Parameters<
     typeof import("akasha/change/agent/file-content/move-code-export/move-code-export.change-agent.code.ts")["runChange"]
   >[1]

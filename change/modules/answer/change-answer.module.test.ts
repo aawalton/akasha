@@ -383,3 +383,7 @@ test("the splice between two bodies that read alike replaces nothing", () => {
 test("the splice onto a body holding nothing puts the whole body in", () => {
   expect(splicedTo("", "one")).toEqual({ from: 0, to: 0, put: "one" })
 })
+
+test("what the two bodies share at their opening is not counted again at their close", () => {
+  expect(splicedTo("one one two", "one two")).toEqual({ from: 4, to: 8, put: "" })
+})

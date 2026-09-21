@@ -165,10 +165,9 @@ export function splicedIn(
 export function splicedTo(was: string, now: string): Splice {
   let from = 0
   while (from < was.length && was[from] === now[from]) from += 1
+  const room = Math.min(was.length, now.length) - from
   let back = 0
-  while (back < was.length - from && was[was.length - 1 - back] === now[now.length - 1 - back]) {
-    back += 1
-  }
+  while (back < room && was[was.length - 1 - back] === now[now.length - 1 - back]) back += 1
   return { from, to: was.length - back, put: now.slice(from, now.length - back) }
 }
 
