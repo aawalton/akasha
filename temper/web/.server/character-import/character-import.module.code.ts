@@ -1,8 +1,8 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { races } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import type {
@@ -13,6 +13,8 @@ import type {
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+
 export type ImportCharacterResult =
   | { buildId: BuildId; buildName: string }
   | { error: "not-authenticated" }
@@ -24,15 +26,12 @@ export async function importCharacterFromHash(
   hash: BuildHash,
   esoCharacterId?: EsoCharacterId
 ): Promise<{ result: ImportCharacterResult; headers: Headers }> {
-  const { user, headers: authHeaders } = await getUser(request)
-  if (!user) {
-    return { result: { error: "not-authenticated" }, headers: authHeaders }
-  }
-
-  const userId = user.id
-  const { headers } = createServerClient(request)
-  for (const value of authHeaders.getSetCookie()) {
-    headers.append("Set-Cookie", value)
+  const headers = new Headers()
+  const reader = await signedInAs(TEMPER_SITE, request)
+  const reached = reader === null ? null : await accountOfContributor(reader)
+  const userId = reached?.ok === true ? reached.account : null
+  if (userId === null) {
+    return { result: { error: "not-authenticated" }, headers }
   }
 
   const buildState = decodeBuild(hash)

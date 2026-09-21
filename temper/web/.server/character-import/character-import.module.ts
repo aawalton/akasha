@@ -31,9 +31,5 @@ export const characterImport = {
       decisionKind: "decision-kind/departure",
       statement: "The build name is the race and the class rather than the name the hash had.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The cookies the sign-in set are carried onto the answer.",
-    },
   ],
 } as const satisfies Module
