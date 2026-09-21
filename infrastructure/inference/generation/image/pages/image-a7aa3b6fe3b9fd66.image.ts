@@ -1,0 +1,8 @@
+import type { Image } from "akasha/infrastructure/inference/generation/image/image.page-type.types.ts"
+
+export const imageA7aa3b6fe3b9fd66 = {
+  id: "01a0c5f2-eb25-708e-8d9a-6a9216a5640e",
+  type: "page-type/image",
+  slug: "image-a7aa3b6fe3b9fd66",
+  persona: "persona/abby",
+} as const satisfies Image
