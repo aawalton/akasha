@@ -3926,6 +3926,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-dims/scrollable-menu-combobox-base-dims.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-hidden-clicks/scrollable-menu-combobox-base-hidden-clicks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-hidden-reasons/scrollable-menu-combobox-base-hidden-reasons.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-hidden-shapes/scrollable-menu-combobox-base-hidden-shapes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-hidden/scrollable-menu-combobox-base-hidden.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-highlight/scrollable-menu-combobox-base-highlight.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-icons/scrollable-menu-combobox-base-icons.module.ts"}

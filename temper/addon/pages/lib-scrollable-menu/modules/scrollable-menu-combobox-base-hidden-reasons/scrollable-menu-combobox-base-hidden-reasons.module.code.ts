@@ -29,16 +29,6 @@ import {
 } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 import { contextMenuClickFlags } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-hidden-clicks/scrollable-menu-combobox-base-hidden-clicks.module.code.ts"
 
-type LsmCastLocalContextMenuLike3 = ContextMenuLike
-function asLsmCastLocalContextMenuLike3(value: unknown): LsmCastLocalContextMenuLike3 {
-  return value as LsmCastLocalContextMenuLike3
-}
-
-type LsmCastLocalDropdownObjectLike = DropdownObjectLike
-function asLsmCastLocalDropdownObjectLike(value: unknown): LsmCastLocalDropdownObjectLike {
-  return value as LsmCastLocalDropdownObjectLike
-}
-
 import {
   getContextMenu,
   lib,
@@ -50,6 +40,13 @@ import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-library-sh
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import {
+  asBoolean,
+  asLsmCastLocalContextMenuLike3,
+  asLsmCastLocalDropdownObjectLike,
+  asLsmCloseContextMenuAndSuppressClickCheck,
+  asLsmWasTextSearchContextMenuEntryClickedCheck,
+} from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-base-hidden-shapes/scrollable-menu-combobox-base-hidden-shapes.module.code.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)
@@ -82,21 +79,6 @@ const getContextMenuReference = asLsmCastThisVoidContextMenuObject(libUtil.getCo
 const classes = asLsmCastRecordStringUnknown(lib.classes)
 const comboBox_base = asComboBoxBaseClass(classes.comboboxBaseClass)
 
-function asBoolean(this: void, value: boolean): boolean {
-  return value
-}
-
-interface ContextMenuLike {
-  IsDropdownVisible: (this: void) => boolean
-  m_container?: unknown
-  m_dropdownObject: { WasTextSearchContextMenuEntryClicked: (this: void) => boolean }
-}
-
-interface DropdownObjectLike {
-  IsOwnedByComboBox: (this: void, comboBox: unknown) => boolean
-  WasTextSearchContextMenuEntryClicked: (this: void) => boolean
-}
-
 function getMouseOverHiddenForInfo(
   this: void
 ): LuaMultiReturn<
@@ -112,31 +94,6 @@ function getMouseOverHiddenForInfo(
   const comboBox = getComboBox(owningWindow || mocCtrl)
 
   return $multi(owningWindow, mocCtrl, comboBox, getControlData(mocCtrl))
-}
-
-type LsmCloseContextMenuAndSuppressClickCheck = (
-  this: void,
-  checkOnlyMultiSelectionAtContextMenu: unknown,
-  isMouseOverOwningDropdown: unknown,
-  clickedEntryBelongsToContextMenu: unknown
-) => boolean | undefined
-function asLsmCloseContextMenuAndSuppressClickCheck(
-  value: unknown
-): LsmCloseContextMenuAndSuppressClickCheck {
-  return value as LsmCloseContextMenuAndSuppressClickCheck
-}
-
-type LsmWasTextSearchContextMenuEntryClickedCheck = (
-  this: void,
-  selfVar: ComboBoxBase,
-  mocCtrl: Record<string, unknown> | undefined,
-  wasTextSearchContextMenuEntryClicked: unknown,
-  isContextMenu: unknown
-) => unknown
-function asLsmWasTextSearchContextMenuEntryClickedCheck(
-  value: unknown
-): LsmWasTextSearchContextMenuEntryClickedCheck {
-  return value as LsmWasTextSearchContextMenuEntryClickedCheck
 }
 
 comboBox_base.HiddenForReasons = function (
