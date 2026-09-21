@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-taken-out-of-service-reads-exactly-as-one-that-never-judged.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-check-that-could-not-run-is-counted-as-a-refusal-in-its-own-cost-log.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-checks-ceiling-fires-on-a-busy-machine-rather-than-on-a-check-that-slowed.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-checks-ceiling-is-charged-the-settle-every-check-shares.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-citations-line-number-goes-stale-within-hours-and-a-repoint-does-nothing-for-it.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-command-stopped-at-its-ceiling-is-killed-before-its-cleanup-runs.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-compaction-costs-twenty-six-pages-re-read-before-a-change-lands.finding.ts"}
