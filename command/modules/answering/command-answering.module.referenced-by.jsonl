@@ -288,6 +288,8 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/read/read.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/refresh/message/refresh-message.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/refresh/persona/refresh-persona.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/request/publish/request-publish.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/request/publish/request-publish.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.test.ts"}
@@ -462,6 +464,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/mobile/sim/tap/mobile-sim-tap.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/model-account/add/model-account-add.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/request/publish/request-publish.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.test.ts"}

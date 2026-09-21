@@ -116,6 +116,7 @@ export const command = {
     "select-property/said-as",
     "text-property/entry-default",
     "text-property/level-name",
+    "namespace/request",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

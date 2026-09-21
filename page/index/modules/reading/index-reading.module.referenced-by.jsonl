@@ -185,6 +185,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/page/secret/show/page-secret-show.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/page/tree/page-tree.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/page/tree/page-tree.command.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/request/publish/request-publish.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts"}

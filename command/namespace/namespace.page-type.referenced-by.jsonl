@@ -47,6 +47,7 @@
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/page/page.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/page/secret/page-secret.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/refresh/refresh.namespace.ts"}
+{"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/request/request.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/seat/seat.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/seat/supervisor/seat-supervisor.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/sms/sms.namespace.ts"}
