@@ -24,6 +24,14 @@ export const signedInHarness = {
       statement: "The signing key is read from its secret page rather than from the environment.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The site trades a session only for a contributor it already holds a user for.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The site holds a user only for as long as the site has been running.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement:
         "The signing key is never written, logged, carried into a refusal, or handed to the browser.",

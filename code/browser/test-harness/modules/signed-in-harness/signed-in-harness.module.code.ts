@@ -43,6 +43,8 @@ const VALUE_KEY = "value"
 
 const VERIFIER_BYTES = 32
 
+const UNAUTHORIZED = 401
+
 const SECOND_MS = 1000
 
 const SITE_HOST = new URL(HANDOVER_ISSUER).hostname
@@ -133,6 +135,13 @@ async function cookiesTraded(code: string, verifier: string): Promise<readonly C
     headers: { "content-type": "application/json" },
     body: JSON.stringify({ code, verifier }),
   })
+  if (answer.status === UNAUTHORIZED) {
+    throw new Error(
+      `${EXCHANGE_AT} answered ${UNAUTHORIZED}, so no session was traded for: the site hands ` +
+        "one to a contributor it holds a user for, and it holds a user only for a person whose " +
+        "sign-in it has taken since that site last started"
+    )
+  }
   if (!answer.ok) {
     throw new Error(`${EXCHANGE_AT} answered ${answer.status}, so no session was traded for`)
   }
