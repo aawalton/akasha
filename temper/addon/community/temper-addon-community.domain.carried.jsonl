@@ -2,5 +2,5 @@
 {"definition":"addons other people wrote, fetched from ESOUI and kept current"}
 {"id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
 {"parts":["module/addon-download","module/addon-update-plan","module/esoui-catalog","module/install-named-addon","module/installed-addons"]}
-{"slug":"temper-community-addon"}
+{"slug":"temper-addon-community"}
 {"type":"page-type/domain"}

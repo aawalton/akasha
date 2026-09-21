@@ -386,8 +386,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.ts","id":"01a061a6-a945-7667-867d-9548c3e63be1"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/build-output/build-output.module.ts","id":"01a09190-5f20-7946-9db3-368a18b17537"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
-{"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
-{"propertySlug":"decision-kind","path":"temper/addon/community-addon/temper-community-addon.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
+{"propertySlug":"decision-kind","path":"temper/addon/community/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
+{"propertySlug":"decision-kind","path":"temper/addon/community/temper-addon-community.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
 {"propertySlug":"decision-kind","path":"temper/addon/log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
 {"propertySlug":"decision-kind","path":"temper/addon/narrow/modules/is-callback/is-callback.module.ts","id":"01a08e19-c569-71cc-8644-64f32991852e"}
 {"propertySlug":"decision-kind","path":"temper/addon/narrow/modules/lua-string-contains/lua-string-contains.module.ts","id":"01a08e17-f876-773e-b52a-6d8f314fa4fa"}

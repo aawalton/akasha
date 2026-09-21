@@ -5,7 +5,7 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import {
   parseManifestVersion,
   readInstalledAddons,
-} from "akasha/temper/addon/community-addon/modules/installed-addons/installed-addons.module.code.ts"
+} from "akasha/temper/addon/community/modules/installed-addons/installed-addons.module.code.ts"
 
 const scratch = scratchWorld()
 

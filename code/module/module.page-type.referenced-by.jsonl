@@ -2679,11 +2679,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/consolidation-migrations/consolidation-migrations.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/global-name-dependents/global-name-dependents.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community-addon/modules/addon-download/addon-download.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community-addon/modules/addon-update-plan/addon-update-plan.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community-addon/modules/install-named-addon/install-named-addon.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community-addon/modules/installed-addons/installed-addons.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community/modules/addon-download/addon-download.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community/modules/addon-update-plan/addon-update-plan.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community/modules/esoui-catalog/esoui-catalog.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community/modules/install-named-addon/install-named-addon.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community/modules/installed-addons/installed-addons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/hud-component/modules/hud-component-labels/hud-component-labels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/hud-component/modules/hud-component-record/hud-component-record.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/hud-component/modules/hud-controls/hud-controls.module.ts"}

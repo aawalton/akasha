@@ -20,19 +20,19 @@ import {
   clearedSaid,
   downloadAndInstall,
   laidSaid,
-} from "akasha/temper/addon/community-addon/modules/addon-download/addon-download.module.code.ts"
+} from "akasha/temper/addon/community/modules/addon-download/addon-download.module.code.ts"
 import {
   distinctUids,
   type PlannedAddon,
   planUpdates,
   selectTargets,
   unknownOnlyDirs,
-} from "akasha/temper/addon/community-addon/modules/addon-update-plan/addon-update-plan.module.code.ts"
+} from "akasha/temper/addon/community/modules/addon-update-plan/addon-update-plan.module.code.ts"
 import {
   fetchCatalog,
   fetchFileDetails,
-} from "akasha/temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.code.ts"
-import { readInstalledAddons } from "akasha/temper/addon/community-addon/modules/installed-addons/installed-addons.module.code.ts"
+} from "akasha/temper/addon/community/modules/esoui-catalog/esoui-catalog.module.code.ts"
+import { readInstalledAddons } from "akasha/temper/addon/community/modules/installed-addons/installed-addons.module.code.ts"
 import { addonsDir } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const NAMED = [json, codeRoot, addonsDirArgument, force, onlyArgument]

@@ -1694,7 +1694,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.ts","id":"01a062d1-4a70-7b3c-9e21-6d0a51f4c7e8"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.ts","id":"01a062d1-4a71-7f08-a4d5-3b9e7c02a1df"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-placing/addon-placing.module.ts","id":"01a090b8-6baa-7001-902c-0a3fc6d7cf83"}
-{"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
+{"propertySlug":"decision-kind","path":"temper/addon/community/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-component-labels/hud-component-labels.module.ts","id":"01a060a4-fa3a-7e69-ab6f-7e0aaefa14c1"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-component-record/hud-component-record.module.ts","id":"01a060a4-fa39-7073-a59e-f1228678be33"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}

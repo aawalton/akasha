@@ -1,5 +1,5 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { CatalogEntry } from "akasha/temper/addon/community-addon/modules/addon-update-plan/addon-update-plan.module.code.ts"
+import type { CatalogEntry } from "akasha/temper/addon/community/modules/addon-update-plan/addon-update-plan.module.code.ts"
 import { z } from "zod"
 
 const FILELIST_URL = "https://api.mmoui.com/v3/game/ESO/filelist.json"

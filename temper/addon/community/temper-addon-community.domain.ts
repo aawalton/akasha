@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const temperCommunityAddon = {
+export const temperAddonCommunity = {
   id: "01a06069-b78d-7c82-89e1-869e95dd5dc4",
   type: "page-type/domain",
-  slug: "temper-community-addon",
+  slug: "temper-addon-community",
   definition: "addons other people wrote, fetched from ESOUI and kept current",
   parts: [
     "module/addon-download",

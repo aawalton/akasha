@@ -264,8 +264,8 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/addon/community-addon/modules/addon-download/addon-download.module.code.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/addon/community-addon/modules/installed-addons/installed-addons.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/addon/community/modules/addon-download/addon-download.module.code.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/addon/community/modules/installed-addons/installed-addons.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/command/modules/inventory-config-reading/inventory-config-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"temper/command/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.test.ts"}
