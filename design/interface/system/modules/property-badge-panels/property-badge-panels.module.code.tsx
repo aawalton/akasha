@@ -174,17 +174,6 @@ const SELECTION_SAMPLES: readonly BadgeSample[] = [
     value: ["review", "landed"],
   },
   {
-    type: "path-select",
-    property: {
-      id: "ds-property-path-select",
-      title: "Folder",
-      type: "path-select",
-      drawnBy: ["path-select-property", "page-property", "domain", "page"],
-      config: { providerId: "design-system", separator: " / " },
-    },
-    value: "engineering/design/tokens",
-  },
-  {
     type: "boolean",
     property: {
       id: "ds-property-boolean",
@@ -394,9 +383,8 @@ export function SelectionPropertyBadgesPanel() {
     <PanelCard id="ds-selection-property-badges" collapsible title="Selection Property Badges">
       <p className="text-secondary text-sm">
         An option names a color page, and the chip is drawn in the shade the badge keeps for that
-        color. <code>path-select</code> reaches no drawing of its own, so the fallback badge draws
-        the text its value holds. <code>multi-select</code> takes the select drawing off the page
-        type it extends, and draws a chip for each option chosen.
+        color. <code>multi-select</code> takes the select drawing off the page type it extends, and
+        draws a chip for each option chosen.
       </p>
       <SampleRows samples={SELECTION_SAMPLES} />
     </PanelCard>

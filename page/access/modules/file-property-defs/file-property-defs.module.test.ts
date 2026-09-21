@@ -7,7 +7,6 @@ const DRAWN = [
   "number",
   "select",
   "multi-select",
-  "path-select",
   "calendar-date",
   "calendar-time",
   "instant",

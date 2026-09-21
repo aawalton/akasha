@@ -25,7 +25,6 @@ export const pageCorePropertyType = {
     "module/multi-relation",
     "module/multi-select-property",
     "module/number",
-    "module/path-select",
     "module/progress",
     "module/property-type-ops",
     "module/registry",

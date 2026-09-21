@@ -7,7 +7,6 @@ export type PropertyType =
   | "number"
   | "select"
   | "multi-select"
-  | "path-select"
   | "calendar-date"
   | "calendar-time"
   | "instant"

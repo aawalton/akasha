@@ -246,7 +246,6 @@ const TRANSLATORS = {
     }
     return null
   },
-  path_starts_with: () => null,
   is_complete: () => null,
   is_incomplete: () => null,
   gte_percent: () => null,

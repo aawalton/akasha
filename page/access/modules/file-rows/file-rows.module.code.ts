@@ -102,7 +102,6 @@ function coerceByType(value: unknown, type: string): unknown {
       return parseJsonText(value)
     case "multi-select":
     case "multi-relation":
-    case "path-select":
       return Array.isArray(value) ? value : [value]
     default:
       return value

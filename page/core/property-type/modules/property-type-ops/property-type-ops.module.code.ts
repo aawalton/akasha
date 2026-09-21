@@ -18,7 +18,6 @@ export type FilterOperator =
   | "not_includes"
   | "is_between"
   | "is_relative_to_today"
-  | "path_starts_with"
   | "is_complete"
   | "is_incomplete"
   | "gte_percent"

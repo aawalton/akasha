@@ -56,14 +56,6 @@ export const multiSelectConfigSchema = z.object({
   ...BADGE_ICON_FIELD,
 })
 
-export const pathSelectConfigSchema = z.object({
-  providerId: z.string(),
-  requiredDepth: z.number().int().nonnegative().optional(),
-  maxDepth: z.number().int().positive().optional(),
-  separator: z.string().optional(),
-  ...BADGE_ICON_FIELD,
-})
-
 const instantFormatEnum = z.enum([
   "relative",
   "absolute-date-time",

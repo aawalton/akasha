@@ -2045,7 +2045,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/multi-relation/multi-relation.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/multi-select-property/multi-select-property.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/number/number.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/path-select/path-select.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/progress/progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/property-type-ops/property-type-ops.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/registry/registry.module.ts"}

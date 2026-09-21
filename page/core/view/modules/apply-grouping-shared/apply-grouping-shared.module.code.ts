@@ -45,7 +45,6 @@ export interface GroupedResult {
 const GROUPABLE_BY_TYPE = {
   select: true,
   "multi-select": true,
-  "path-select": true,
   boolean: true,
   relation: true,
   "multi-relation": true,

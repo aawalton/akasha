@@ -136,7 +136,6 @@ function propertyValueDisplayLength(
     case "url":
     case "json":
     case "boolean":
-    case "path-select":
     case "relation":
     case "multi-relation":
     case "rollup":

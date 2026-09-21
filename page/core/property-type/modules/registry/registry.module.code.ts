@@ -11,7 +11,6 @@ import { MARKDOWN_OPS } from "akasha/page/core/property-type/modules/markdown/ma
 import { MULTI_RELATION_OPS } from "akasha/page/core/property-type/modules/multi-relation/multi-relation.module.code.ts"
 import { MULTI_SELECT_OPS } from "akasha/page/core/property-type/modules/multi-select-property/multi-select-property.module.code.ts"
 import { NUMBER_OPS } from "akasha/page/core/property-type/modules/number/number.module.code.ts"
-import { PATH_SELECT_OPS } from "akasha/page/core/property-type/modules/path-select/path-select.module.code.ts"
 import { PROGRESS_OPS } from "akasha/page/core/property-type/modules/progress/progress.module.code.ts"
 import type { PropertyTypeOps } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { RELATION_OPS } from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
@@ -34,7 +33,6 @@ export const PROPERTY_TYPE_OPS_REGISTRY = {
   json: JSON_OPS,
   select: SELECT_OPS,
   "multi-select": MULTI_SELECT_OPS,
-  "path-select": PATH_SELECT_OPS,
   relation: RELATION_OPS,
   "multi-relation": MULTI_RELATION_OPS,
   rollup: ROLLUP_OPS,
