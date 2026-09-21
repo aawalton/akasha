@@ -83,7 +83,6 @@ export const alanWeb = {
     "module/readout-guarding",
     "module/rewrite-hls-playlist",
     "module/route-access-holding",
-    "module/serve-image-object",
     "module/shell-ensure-rendition",
     "module/shell-media-src",
     "module/signed-in-redirect",

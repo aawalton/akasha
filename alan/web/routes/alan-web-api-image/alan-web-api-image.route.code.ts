@@ -1,10 +1,34 @@
 import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
-import {
-  resolveServableImage,
-  serveResolvedImage,
-} from "akasha/alan/web/.server/serve-image-object/serve-image-object.module.code.ts"
-import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
+import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import {
+  askingFor,
+  filingFor,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+
+const IMAGE_PAGE_TYPE_SLUG = "image"
+
+const BYTES_KEY = "bytes"
+
+const A_PNG = "image/png"
+
+const HELD_FOR = "private, max-age=300, must-revalidate"
+
+function ifNoneMatchSatisfied(header: string | null, etag: string): boolean {
+  if (header === null) return false
+  return header.split(",").some((candidate) => candidate.trim() === etag)
+}
+
+async function slugOf(imageId: string): Promise<string | null> {
+  const asked = await askingFor({
+    pageTypeSlug: IMAGE_PAGE_TYPE_SLUG,
+    where: { id: { is: imageId } },
+    keys: ["slug"],
+  })
+  if ("refused" in asked) return null
+  const row = asked.rows[0]
+  return row === undefined ? null : stringIn(row.slug)
+}
 
 export async function loader({
   params,
@@ -16,16 +40,21 @@ export async function loader({
   const { user, headers } = await readAlanUser(request)
   if (!user) return new Response("Unauthorized", { status: 401, headers })
 
-  const imageId = params.imageId
-  if (!lowerUuid(imageId.toLowerCase())) return new Response("Not Found", { status: 404, headers })
+  const imageId = params.imageId.toLowerCase()
+  if (!lowerUuid(imageId)) return new Response("Not Found", { status: 404, headers })
 
-  const store = seaweedFSObjectStoreFromEnv()
-  if (!store) return new Response("Object store unavailable", { status: 503, headers })
+  const slug = await slugOf(imageId)
+  if (slug === null) return new Response("Not Found", { status: 404, headers })
 
-  const resolved = await resolveServableImage(store, imageId)
-  if (resolved === null) return new Response("Not Found", { status: 404, headers })
-  return serveResolvedImage(store, resolved, request, {
-    headers,
-    cacheControl: "private, max-age=300, must-revalidate",
-  })
+  const etag = `"${slug}"`
+  headers.set("Cache-Control", HELD_FOR)
+  headers.set("ETag", etag)
+  if (ifNoneMatchSatisfied(request.headers.get("If-None-Match"), etag)) {
+    return new Response(null, { status: 304, headers })
+  }
+
+  const held = await filingFor({ pageTypeSlug: IMAGE_PAGE_TYPE_SLUG, slug, key: BYTES_KEY })
+  if ("refused" in held) return new Response("Not Found", { status: 404, headers })
+  headers.set("Content-Type", A_PNG)
+  return new Response(held.bytes, { headers })
 }

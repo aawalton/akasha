@@ -831,7 +831,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/picture-answering/picture-answering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/readout-guarding/readout-guarding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/route-access-holding/route-access-holding.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/serve-image-object/serve-image-object.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-app-id/alan-app-id.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts"}
