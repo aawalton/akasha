@@ -7,5 +7,11 @@ export const turns = {
   propertySlug: "turns",
   definition: "every turn a game has been played through",
   extensions: ["jsonl"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A turn row holds no snapshot of the state that turn left behind.",
+    },
+  ],
   types: "ts",
 } as const satisfies FileProperty

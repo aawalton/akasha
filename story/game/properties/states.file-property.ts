@@ -7,5 +7,11 @@ export const states = {
   propertySlug: "states",
   definition: "what a game's world has been at, sitting by sitting",
   extensions: ["jsonl"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A state row holds what is so now rather than everything that led to it.",
+    },
+  ],
   types: "ts",
 } as const satisfies FileProperty

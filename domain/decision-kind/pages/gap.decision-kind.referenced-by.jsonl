@@ -398,6 +398,8 @@
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
 {"propertySlug":"decision-kind","path":"story/game/panel/pages/character-sheet/character-sheet.game-panel.ts","id":"01a0c4a2-c666-7d73-9def-422c118760d9"}
 {"propertySlug":"decision-kind","path":"story/game/properties/resolution-mechanism.file-property.ts","id":"01a0673c-8e0e-7013-ae6f-047f588f0390"}
+{"propertySlug":"decision-kind","path":"story/game/properties/states.file-property.ts","id":"01a0673c-8e0e-7016-9a4f-051e3200a488"}
+{"propertySlug":"decision-kind","path":"story/game/properties/turns.file-property.ts","id":"01a0673c-8e0e-7014-8deb-3231aa6c6114"}
 {"propertySlug":"decision-kind","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-from-slugs.text-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-to-slugs.text-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}
