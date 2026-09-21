@@ -1,6 +1,6 @@
 {"id":"01a0c4b3-a499-7229-bed2-198981b838ae"}
 {"layout":"list"}
-{"narrows":[{"key":"feature-request-standing","comparison":"is","values":["proposed"]}]}
+{"narrows":[{"key":"standing","comparison":"is","values":["proposed"]}]}
 {"nav":"nav/requests"}
 {"pageType":"page-type/feature-request"}
 {"slug":"requests-waiting"}
@@ -8,4 +8,4 @@
 {"type":"page-type/view"}
 {"viewPlace":1}
 {"viewSorts":[{"key":"title","descending":false}]}
-{"visibleProperties":["feature-request-product","feature-request-ask"]}
+{"visibleProperties":["product","ask"]}

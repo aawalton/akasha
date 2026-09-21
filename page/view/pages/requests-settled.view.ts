@@ -9,7 +9,7 @@ export const requestsSettled = {
   pageType: "page-type/feature-request",
   viewPlace: 2,
   layout: "list",
-  narrows: [{ key: "feature-request-standing", comparison: "in", values: ["completed", "denied"] }],
+  narrows: [{ key: "standing", comparison: "in", values: ["completed", "denied"] }],
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["feature-request-product", "feature-request-standing"],
+  visibleProperties: ["product", "standing"],
 } as const satisfies View

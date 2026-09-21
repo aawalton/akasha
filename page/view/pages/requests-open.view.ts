@@ -9,7 +9,7 @@ export const requestsOpen = {
   pageType: "page-type/feature-request",
   viewPlace: 0,
   layout: "cards",
-  narrows: [{ key: "feature-request-standing", comparison: "is", values: ["published"] }],
+  narrows: [{ key: "standing", comparison: "is", values: ["published"] }],
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["feature-request-product", "feature-request-ask"],
+  visibleProperties: ["product", "ask"],
 } as const satisfies View

@@ -9,7 +9,7 @@ export const requestsWaiting = {
   pageType: "page-type/feature-request",
   viewPlace: 1,
   layout: "list",
-  narrows: [{ key: "feature-request-standing", comparison: "is", values: ["proposed"] }],
+  narrows: [{ key: "standing", comparison: "is", values: ["proposed"] }],
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["feature-request-product", "feature-request-ask"],
+  visibleProperties: ["product", "ask"],
 } as const satisfies View
