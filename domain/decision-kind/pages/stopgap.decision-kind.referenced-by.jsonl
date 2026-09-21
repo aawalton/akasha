@@ -14,7 +14,6 @@
 {"propertySlug":"decision-kind","path":"alan/car-research/car-trim/properties/car-year-slug.text-property.ts","id":"01a0c543-8c25-7484-9da3-144fd1373381"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.ts","id":"01a06579-f3d9-7006-8368-78fe6c117de7"}
-{"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.ts","id":"01a06580-196a-7001-8989-3755d6f4c2ed"}
 {"propertySlug":"decision-kind","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.ts","id":"01a08c11-e71f-7f8f-b343-d87bac283b1c"}
 {"propertySlug":"decision-kind","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts","id":"01a069bc-1aa3-790c-bb5e-db2397ad19ed"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/reading/inbox-reading.module.ts","id":"01a069bf-3919-77bc-a8a7-66b02d4185bf"}

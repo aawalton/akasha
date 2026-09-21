@@ -12,12 +12,12 @@ export const syncRun = {
       statement: "One item failing makes the whole run fail.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "No `sync-run` row is opened or settled.",
+      decisionKind: "decision-kind/departure",
+      statement: "A row is opened before the sync runs and settled once the sync has ended.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The run happens and is said aloud rather than refused for holding no row.",
+      statement: "The row is opened and settled by the module every sync records runs through.",
     },
   ],
 } as const satisfies Module

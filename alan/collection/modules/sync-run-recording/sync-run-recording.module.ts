@@ -43,11 +43,7 @@ export const syncRunRecording = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "Run recording is reached by the wandering inn sync alone.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The great courses and royal road syncs record no run.",
+      statement: "The royal road and provo library syncs record no run.",
     },
     {
       decisionKind: "decision-kind/departure",

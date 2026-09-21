@@ -1,22 +1,11 @@
 import type { SyncResult } from "akasha/alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
-
-const SYNC_RUN_SLUG = "sync-run"
-
-const NO_ROW_ROAD =
-  "a `sync-run` row is inside a page's body rather than at a path of its own, the store answers " +
-  "for `akasha/` alone, and this record is `pages/sync/<source>.sync.runs.jsonl` outside it, so " +
-  "no keyed write and no `writeFiles` reaches it. systemd holds the start, the end and the exit " +
-  "status of this run; the journal holds its summary"
+import { recordingRun } from "akasha/alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"
 
 export async function trackSyncRun(
   source: string,
   syncFn: () => Promise<SyncResult>
 ): Promise<void> {
-  console.warn(
-    `trackSyncRun(${source}): no \`${SYNC_RUN_SLUG}\` row was opened or settled — ${NO_ROW_ROAD}`
-  )
-
-  const result = await syncFn()
+  const result = await recordingRun(source, syncFn)
 
   if (result.failed > 0) {
     throw new Error(
