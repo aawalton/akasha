@@ -14,7 +14,12 @@ import {
 } from "akasha/design/interface/system/modules/components-core-panels/components-core-panels.module.code.tsx"
 import { ComponentsFormControlsPanels } from "akasha/design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx"
 import { ComponentsInputCompositePanels } from "akasha/design/interface/system/modules/components-input-composite-panels/components-input-composite-panels.module.code.tsx"
-import { ComponentsInputPanels } from "akasha/design/interface/system/modules/components-input-panels/components-input-panels.module.code.tsx"
+import {
+  InputPanelCardPanel,
+  InputsPanel,
+  SelectPanel,
+  TextareaPanel,
+} from "akasha/design/interface/system/modules/components-input-panels/components-input-panels.module.code.tsx"
 import { ComponentsItemDisplayPanels } from "akasha/design/interface/system/modules/components-item-display-panels/components-item-display-panels.module.code.tsx"
 import { ComponentsListGridPanels } from "akasha/design/interface/system/modules/components-list-grid-panels/components-list-grid-panels.module.code.tsx"
 import { ComponentsMenuPanels } from "akasha/design/interface/system/modules/components-menu-panels/components-menu-panels.module.code.tsx"
@@ -35,7 +40,10 @@ export function ComponentsTabContent() {
           <QualityBadgesPanel />
           <RemovableBadgesPanel />
           <CardsPanel />
-          <ComponentsInputPanels />
+          <InputsPanel />
+          <InputPanelCardPanel />
+          <TextareaPanel />
+          <SelectPanel />
           <ComponentsOverlayPanels />
           <ComponentsFormControlsPanels />
           <ComponentsTextDisplayPanels />
