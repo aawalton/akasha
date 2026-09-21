@@ -4,7 +4,7 @@
 {"categoryId":"all"}
 {"conditions":"jsonl"}
 {"description":"Sells any sellable item with guild-store value (marketValue) < 5000g to a vendor, excluding legendary (quality 5) items. Value-axis sibling of valuable-nothing (list >= 5000)."}
-{"displayOrder":75}
+{"displayOrder":76}
 {"fromTemplate":"temper-rule-template/low-quality-sell"}
 {"goal":"temper-rule-goal/sell"}
 {"id":"01a0728b-4fbd-73c3-94ce-4ab4d817fb29"}

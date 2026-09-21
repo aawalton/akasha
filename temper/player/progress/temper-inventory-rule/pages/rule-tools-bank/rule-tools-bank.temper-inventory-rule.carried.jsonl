@@ -5,7 +5,7 @@
 {"description":"Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping."}
 {"destination":"bank"}
 {"destinationChain":"jsonl"}
-{"displayOrder":60}
+{"displayOrder":61}
 {"fromTemplate":"temper-rule-template/tools-bank"}
 {"goal":"temper-rule-goal/hoard"}
 {"id":"01a0728b-6d6f-721e-a2cd-e61cc89fdac5"}

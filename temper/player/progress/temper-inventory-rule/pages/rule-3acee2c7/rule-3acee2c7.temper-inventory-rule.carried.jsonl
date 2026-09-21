@@ -4,7 +4,7 @@
 {"categoryId":"recipes"}
 {"conditions":"jsonl"}
 {"description":"Disposal spine step 5: known-by-all recipes to merchant; valuable ones list first via fc1c9638. Closes gap A1."}
-{"displayOrder":78}
+{"displayOrder":79}
 {"id":"01a0728a-d6fe-779d-9a67-78895194f7f3"}
 {"slug":"rule-3acee2c7"}
 {"title":"Sell known recipes"}

@@ -4,7 +4,7 @@
 {"categoryId":"food"}
 {"conditions":"jsonl"}
 {"description":"Spine step 6, food parallel to drink (Alan 2026-07-05: food and drink parallel)."}
-{"displayOrder":82}
+{"displayOrder":83}
 {"id":"01a0728a-d6fd-7737-87c7-04ad0183a259"}
 {"slug":"rule-0b8c6920"}
 {"title":"Destroy unsellable low food"}

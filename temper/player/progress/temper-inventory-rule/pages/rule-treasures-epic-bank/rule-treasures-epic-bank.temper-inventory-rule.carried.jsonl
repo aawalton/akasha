@@ -5,7 +5,7 @@
 {"conditions":"jsonl"}
 {"description":"Banks epic quality or higher treasures for safekeeping or later sale."}
 {"destination":"bank"}
-{"displayOrder":61}
+{"displayOrder":62}
 {"fromTemplate":"temper-rule-template/treasures-epic-bank"}
 {"goal":"temper-rule-goal/hoard"}
 {"id":"01a0728b-8ec0-751b-8b72-78d2913de4d2"}

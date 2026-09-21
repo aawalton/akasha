@@ -9,7 +9,7 @@ export const rule90d1aa3b = {
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "scripts",
-  displayOrder: 77,
+  displayOrder: 78,
   action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-09-12T15:33:39.566Z",

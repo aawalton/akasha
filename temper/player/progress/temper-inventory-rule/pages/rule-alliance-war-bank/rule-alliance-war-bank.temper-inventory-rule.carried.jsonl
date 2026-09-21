@@ -4,7 +4,7 @@
 {"categoryId":"alliance-war"}
 {"description":"Deposits Alliance War items (siege equipment, forward camps, repair kits, etc.) in the bank for safekeeping."}
 {"destination":"bank"}
-{"displayOrder":64}
+{"displayOrder":65}
 {"fromTemplate":"temper-rule-template/alliance-war-bank"}
 {"goal":"temper-rule-goal/hoard"}
 {"id":"01a0728b-10d0-7dba-bd15-daddc405eed9"}

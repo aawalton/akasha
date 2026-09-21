@@ -4,7 +4,7 @@
 {"categoryId":"equipment"}
 {"conditions":"jsonl"}
 {"description":"Deconstructs non-crafted equipment that wasn't caught by higher-priority rules. Place below equip, research, and inspire rules to only deconstruct what's left over."}
-{"displayOrder":54}
+{"displayOrder":55}
 {"fromTemplate":"temper-rule-template/equipment-deconstruct"}
 {"goal":"temper-rule-goal/hoard"}
 {"id":"01a0728b-2e7d-7daa-bb9a-488382afbb59"}

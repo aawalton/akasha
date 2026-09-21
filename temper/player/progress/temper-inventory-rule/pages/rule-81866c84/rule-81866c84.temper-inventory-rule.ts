@@ -11,7 +11,7 @@ export const rule81866c84 = {
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   categoryId: "equipment",
-  displayOrder: 83,
+  displayOrder: 54,
   action: "temper-item-action/fence-launder",
   active: false,
   updatedAt: "2026-09-21T22:15:29.958Z",

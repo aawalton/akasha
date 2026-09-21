@@ -4,7 +4,7 @@
 {"categoryId":"food"}
 {"conditions":"jsonl"}
 {"description":"Sells normal (white) quality non-crafted food. Crafted and higher-quality food is kept."}
-{"displayOrder":73}
+{"displayOrder":74}
 {"fromTemplate":"temper-rule-template/food-normal-sell"}
 {"goal":"temper-rule-goal/sell"}
 {"id":"01a0728b-2e7d-7562-9c53-0b79515d7535"}

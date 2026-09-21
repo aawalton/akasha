@@ -4,7 +4,7 @@
 {"categoryId":"equipment"}
 {"conditions":"jsonl"}
 {"description":"Launders stolen equipment that no higher-priority rule claimed, so it can be deconstructed. Place directly before equipment-deconstruct."}
-{"displayOrder":83}
+{"displayOrder":54}
 {"goal":"temper-rule-goal/hoard"}
 {"id":"01a0c609-dc26-764b-9227-20d9dae9a377"}
 {"slug":"rule-81866c84"}

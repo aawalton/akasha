@@ -4,7 +4,7 @@
 {"categoryId":"treasures"}
 {"conditions":"jsonl"}
 {"description":"Sells stolen treasures at a fence. Stolen treasures can't be sold to normal merchants."}
-{"displayOrder":68}
+{"displayOrder":69}
 {"fromTemplate":"temper-rule-template/treasures-stolen-fence"}
 {"goal":"temper-rule-goal/sell"}
 {"id":"01a0728b-8ec1-7536-8fc5-234be5e73ba0"}

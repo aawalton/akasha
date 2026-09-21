@@ -4,7 +4,7 @@
 {"categoryId":"trash"}
 {"conditions":"jsonl"}
 {"description":"Sells items categorized as trash. These have no crafting or collectible value."}
-{"displayOrder":65}
+{"displayOrder":66}
 {"fromTemplate":"temper-rule-template/trash-sell"}
 {"goal":"temper-rule-goal/sell"}
 {"id":"01a0728b-6d6f-7ad9-99e1-27e4b6415eed"}
