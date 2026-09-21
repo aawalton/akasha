@@ -25,4 +25,13 @@ export const coldplayTroubleShiverJoWhileyLunchtimeSocial = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "shiverjowhileylunchtimesocial|4gzpq5DPGxSnKTe4SA8HAU|261360",
   song: "song/coldplay-shiver-jo-whiley-lunchtime-social",
+  carriedBy: [
+    {
+      release: "release/coldplay-trouble",
+      discNumber: 1,
+      position: 3,
+      externalId: "3Hpx4F7A30l7FiQddY6aYw",
+      externalLink: "https://open.spotify.com/track/3Hpx4F7A30l7FiQddY6aYw",
+    },
+  ],
 } as const satisfies Track

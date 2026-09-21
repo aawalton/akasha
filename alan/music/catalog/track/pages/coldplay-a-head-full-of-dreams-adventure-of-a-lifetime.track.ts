@@ -25,4 +25,13 @@ export const coldplayAHeadFullOfDreamsAdventureOfALifetime = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "adventureofalifetime|4gzpq5DPGxSnKTe4SA8HAU|263786",
   song: "song/coldplay-adventure-of-a-lifetime",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-head-full-of-dreams",
+      discNumber: 1,
+      position: 5,
+      externalId: "69uxyAqqPIsUyTO8txoP2M",
+      externalLink: "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M",
+    },
+  ],
 } as const satisfies Track

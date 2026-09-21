@@ -25,4 +25,13 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSipMyChardonayNay = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "sipmychardonaynay|6tITG4T8LpC0msapZ4wXGA|135549",
   song: "song/the-holderness-family-sip-my-chardonay-nay",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-the-greatest-hits-vol-one",
+      discNumber: 1,
+      position: 3,
+      externalId: "2qAguyMOcz0osgyCfTRdYK",
+      externalLink: "https://open.spotify.com/track/2qAguyMOcz0osgyCfTRdYK",
+    },
+  ],
 } as const satisfies Track

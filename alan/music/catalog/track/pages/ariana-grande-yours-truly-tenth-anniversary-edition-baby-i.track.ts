@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBabyI = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "babyi|66CXWjxzNUsdJxJ2JdwvnR|197602",
   song: "song/ariana-grande-baby-i",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 2,
+      externalId: "6qT31f20CXWq0zkz4BME32",
+      externalLink: "https://open.spotify.com/track/6qT31f20CXWq0zkz4BME32",
+    },
+  ],
 } as const satisfies Track

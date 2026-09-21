@@ -25,4 +25,13 @@ export const celticWoman2PostcardsFromIrelandWhereSheepMaySafelyGraze = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "wheresheepmaysafelygraze|6NWtt9pNOL2Gx7kBykdE5x|238946",
   song: "song/celtic-woman-where-sheep-may-safely-graze",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-postcards-from-ireland",
+      discNumber: 1,
+      position: 7,
+      externalId: "1FMHgf3kWpGJ5JjWuTJWBP",
+      externalLink: "https://open.spotify.com/track/1FMHgf3kWpGJ5JjWuTJWBP",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const paulCardallTheBrokenMiracleMyHeartBeatsForYou = {
   ],
   trackKey: "myheartbeatsforyou|2C9n4tQgNLhHPhSCmdsQnk,7FQRbf8gbKw8KZQZAJWxH2|214146",
   song: "song/paul-cardall-my-heart-beats-for-you",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 12,
+      externalId: "6lBlcWYG8i6yMjaP8E7UAh",
+      externalLink: "https://open.spotify.com/track/6lBlcWYG8i6yMjaP8E7UAh",
+    },
+  ],
 } as const satisfies Track

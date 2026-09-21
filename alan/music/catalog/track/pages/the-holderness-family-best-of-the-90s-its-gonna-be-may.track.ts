@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sItsGonnaBeMay = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "itsgonnabemay|6tITG4T8LpC0msapZ4wXGA|109035",
   song: "song/the-holderness-family-its-gonna-be-may",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 4,
+      externalId: "4DVvbcl2Grx8nowT4FMQzc",
+      externalLink: "https://open.spotify.com/track/4DVvbcl2Grx8nowT4FMQzc",
+    },
+  ],
 } as const satisfies Track

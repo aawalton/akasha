@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sLoseMyMind = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "losemymind|6tITG4T8LpC0msapZ4wXGA|122096",
   song: "song/the-holderness-family-lose-my-mind",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 5,
+      externalId: "4YRzOCeziKIVFtSm3bJASP",
+      externalLink: "https://open.spotify.com/track/4YRzOCeziKIVFtSm3bJASP",
+    },
+  ],
 } as const satisfies Track

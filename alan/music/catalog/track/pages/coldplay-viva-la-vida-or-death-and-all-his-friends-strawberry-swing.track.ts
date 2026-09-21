@@ -25,4 +25,13 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsStrawberrySwing = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "strawberryswing|4gzpq5DPGxSnKTe4SA8HAU|249666",
   song: "song/coldplay-strawberry-swing",
+  carriedBy: [
+    {
+      release: "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
+      discNumber: 1,
+      position: 9,
+      externalId: "2dphvmoLEXdk8hOYxmHlI3",
+      externalLink: "https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2HomecomingLiveFromIrelandHomecomingLamentLive2017 = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "homecominglamentlive2017|6NWtt9pNOL2Gx7kBykdE5x|122040",
   song: "song/celtic-woman-homecoming-lament",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-homecoming-live-from-ireland",
+      discNumber: 1,
+      position: 1,
+      externalId: "0u18slAayRFU0pI759JkAr",
+      externalLink: "https://open.spotify.com/track/0u18slAayRFU0pI759JkAr",
+    },
+  ],
 } as const satisfies Track

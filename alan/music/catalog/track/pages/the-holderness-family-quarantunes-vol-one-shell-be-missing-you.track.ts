@@ -25,4 +25,13 @@ export const theHoldernessFamilyQuarantunesVolOneShellBeMissingYou = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "shellbemissingyou|6tITG4T8LpC0msapZ4wXGA|190458",
   song: "song/the-holderness-family-shell-be-missing-you",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-quarantunes-vol-one",
+      discNumber: 1,
+      position: 8,
+      externalId: "44wKstbNKVptFK0KDcLIB2",
+      externalLink: "https://open.spotify.com/track/44wKstbNKVptFK0KDcLIB2",
+    },
+  ],
 } as const satisfies Track

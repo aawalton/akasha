@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveSheThinksIStillCare = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "shethinksistillcare|0vn7UBvSQECKJm2817Yf1P|205066",
   song: "song/james-taylor-she-thinks-i-still-care",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 7,
+      externalId: "20UrRG4y5WtNQakxyq3UjM",
+      externalLink: "https://open.spotify.com/track/20UrRG4y5WtNQakxyq3UjM",
+    },
+  ],
 } as const satisfies Track

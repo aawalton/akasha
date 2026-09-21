@@ -29,4 +29,13 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeDiamondPistolsRemix
   trackKey:
     "dontworryboutmediamondpistolsremix|1OzGBMZ8rp73R6DWx0IUr5,1Xylc3o4UrD53lo9CvFvVg|240000",
   song: "song/zara-larsson-don-t-worry-bout-me",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-don-t-worry-bout-me-remixes",
+      discNumber: 1,
+      position: 3,
+      externalId: "0u3dPRxI7Brk5z1x7VNqB2",
+      externalLink: "https://open.spotify.com/track/0u3dPRxI7Brk5z1x7VNqB2",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3ChillMyGirl = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "mygirl|0jW6R8CVyVohuUJVcuweDI|236418",
   song: "song/the-piano-guys-my-girl",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-chill",
+      discNumber: 1,
+      position: 1,
+      externalId: "4WBnIZM50ar3cWplqV4TI4",
+      externalLink: "https://open.spotify.com/track/4WBnIZM50ar3cWplqV4TI4",
+    },
+  ],
 } as const satisfies Track

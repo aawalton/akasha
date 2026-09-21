@@ -28,4 +28,13 @@ export const jamesTaylor2FireFire = {
   ],
   trackKey: "fire|0vn7UBvSQECKJm2817Yf1P,1DJVvIcjKhdedkuGRzW7PG|305000",
   song: "song/james-taylor-fire",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-fire",
+      discNumber: 1,
+      position: 1,
+      externalId: "3cavUWhdiwvVTylTP7j3Y9",
+      externalLink: "https://open.spotify.com/track/3cavUWhdiwvVTylTP7j3Y9",
+    },
+  ],
 } as const satisfies Track

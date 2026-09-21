@@ -28,4 +28,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheSeedOutro = {
   ],
   trackKey: "theseedoutro|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|95000",
   song: "song/aurora-the-seed-outro",
+  carriedBy: [
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 13,
+      externalId: "1lOxQB2VgyPc2keooAwIdW",
+      externalLink: "https://open.spotify.com/track/1lOxQB2VgyPc2keooAwIdW",
+    },
+  ],
 } as const satisfies Track

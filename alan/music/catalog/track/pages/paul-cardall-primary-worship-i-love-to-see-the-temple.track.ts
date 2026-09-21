@@ -25,4 +25,13 @@ export const paulCardallPrimaryWorshipILoveToSeeTheTemple = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ilovetoseethetemple|7FQRbf8gbKw8KZQZAJWxH2|266506",
   song: "song/paul-cardall-i-love-to-see-the-temple",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-primary-worship",
+      discNumber: 1,
+      position: 2,
+      externalId: "2nH8J4CrISwwvbZL1pTTdY",
+      externalLink: "https://open.spotify.com/track/2nH8J4CrISwwvbZL1pTTdY",
+    },
+  ],
 } as const satisfies Track

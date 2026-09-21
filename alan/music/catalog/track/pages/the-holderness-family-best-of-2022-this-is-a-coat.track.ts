@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2022ThisIsACoat = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "thisisacoat|6tITG4T8LpC0msapZ4wXGA|199848",
   song: "song/the-holderness-family-this-is-a-coat",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2022",
+      discNumber: 1,
+      position: 2,
+      externalId: "2cYnyCnlMwtNGPGHk1GaKH",
+      externalLink: "https://open.spotify.com/track/2cYnyCnlMwtNGPGHk1GaKH",
+    },
+  ],
 } as const satisfies Track

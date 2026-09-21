@@ -25,4 +25,13 @@ export const vinnyMarchiLovelessAndModernLanguageLovelessAndModernLanguage = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lovelessandmodernlanguage|5USAMqcbMAzF3HBmeD5pJF|219536",
   song: "song/vinny-marchi-loveless-and-modern-language",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-loveless-and-modern-language",
+      discNumber: 1,
+      position: 1,
+      externalId: "1Uvh2rj7jS5Om4vaJNhtfs",
+      externalLink: "https://open.spotify.com/track/1Uvh2rj7jS5Om4vaJNhtfs",
+    },
+  ],
 } as const satisfies Track

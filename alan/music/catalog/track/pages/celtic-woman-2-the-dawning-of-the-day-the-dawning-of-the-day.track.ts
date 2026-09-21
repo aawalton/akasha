@@ -25,4 +25,13 @@ export const celticWoman2TheDawningOfTheDayTheDawningOfTheDay = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thedawningoftheday|6NWtt9pNOL2Gx7kBykdE5x|234240",
   song: "song/celtic-woman-the-dawning-of-the-day",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-dawning-of-the-day",
+      discNumber: 1,
+      position: 1,
+      externalId: "5KtBf7166ymhpPE1oE2GDx",
+      externalLink: "https://open.spotify.com/track/5KtBf7166ymhpPE1oE2GDx",
+    },
+  ],
 } as const satisfies Track

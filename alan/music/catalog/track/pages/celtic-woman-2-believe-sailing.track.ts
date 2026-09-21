@@ -31,4 +31,13 @@ export const celticWoman2BelieveSailing = {
   trackKey:
     "sailing|2fJCHSiF0CwzZ2vuYWtt2p,3hrMT5rIVrS20YswyQ6nlj,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|247346",
   song: "song/celtic-woman-sailing",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-believe",
+      discNumber: 1,
+      position: 3,
+      externalId: "0TDJpZ46CA64iDJSxYKJZX",
+      externalLink: "https://open.spotify.com/track/0TDJpZ46CA64iDJSxYKJZX",
+    },
+  ],
 } as const satisfies Track

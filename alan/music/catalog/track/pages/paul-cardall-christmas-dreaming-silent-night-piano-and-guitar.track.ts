@@ -28,4 +28,13 @@ export const paulCardallChristmasDreamingSilentNightPianoAndGuitar = {
   ],
   trackKey: "silentnightpianoandguitar|2pzgrbowKM8SGmdK3YMcGq,7FQRbf8gbKw8KZQZAJWxH2|265584",
   song: "song/paul-cardall-silent-night-piano-and-guitar",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas-dreaming",
+      discNumber: 1,
+      position: 3,
+      externalId: "44wneGYLtJgJK1wTw4QAMS",
+      externalLink: "https://open.spotify.com/track/44wneGYLtJgJK1wTw4QAMS",
+    },
+  ],
 } as const satisfies Track

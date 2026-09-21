@@ -25,4 +25,13 @@ export const celticWoman2SoloBridgeOverTroubleWaters = {
   trackArtist: [{ externalId: "1Qqfmc13NiDOMzVbTFRl8I", artistName: "Lisa Lambe" }],
   trackKey: "bridgeovertroublewaters|1Qqfmc13NiDOMzVbTFRl8I|243043",
   song: "song/celtic-woman-bridge-over-trouble-waters",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-solo",
+      discNumber: 1,
+      position: 10,
+      externalId: "54K8Zg1UwTDk4COxZ9Bosm",
+      externalLink: "https://open.spotify.com/track/54K8Zg1UwTDk4COxZ9Bosm",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayMyloXylotoUsAgainstTheWorld = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "usagainsttheworld|4gzpq5DPGxSnKTe4SA8HAU|239767",
   song: "song/coldplay-us-against-the-world",
+  carriedBy: [
+    {
+      release: "release/coldplay-mylo-xyloto",
+      discNumber: 1,
+      position: 5,
+      externalId: "5zyfzNnBzN7f7PVkJFnW2g",
+      externalLink: "https://open.spotify.com/track/5zyfzNnBzN7f7PVkJFnW2g",
+    },
+  ],
 } as const satisfies Track

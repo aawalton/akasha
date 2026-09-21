@@ -28,4 +28,13 @@ export const imagineDragonsShotsEpShotsAstrolithRemix = {
   ],
   trackKey: "shotsastrolithremix|3836OTICMPjhTMMcpPw4EC,53XhwfbYqKCa1cC15pYq2q|209813",
   song: "song/imagine-dragons-shots",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-shots-ep",
+      discNumber: 1,
+      position: 2,
+      externalId: "4dolXHE8u2znwFfzCYgphZ",
+      externalLink: "https://open.spotify.com/track/4dolXHE8u2znwFfzCYgphZ",
+    },
+  ],
 } as const satisfies Track

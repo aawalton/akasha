@@ -28,4 +28,13 @@ export const paulCardallTheBrokenMiracleSomeKindOfWonderful = {
   ],
   trackKey: "somekindofwonderful|1Fj0R2t4HaJa3oUe8azB8R,7FQRbf8gbKw8KZQZAJWxH2|232253",
   song: "song/paul-cardall-some-kind-of-wonderful",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 13,
+      externalId: "4YlxofC4t2BKQ0KeLsb879",
+      externalLink: "https://open.spotify.com/track/4YlxofC4t2BKQ0KeLsb879",
+    },
+  ],
 } as const satisfies Track

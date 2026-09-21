@@ -28,4 +28,13 @@ export const auroraStormEnglishVersionStormEnglishVersion = {
   ],
   trackKey: "stormenglishversion|1WgXqy2Dd70QQOU7Ay074N,5a5vu4RzsAHdKN0aYyblZ8|229021",
   song: "song/aurora-storm",
+  carriedBy: [
+    {
+      release: "release/aurora-storm-english-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "4YiLuz7hZ6ysG5iJxNlDmX",
+      externalLink: "https://open.spotify.com/track/4YiLuz7hZ6ysG5iJxNlDmX",
+    },
+  ],
 } as const satisfies Track

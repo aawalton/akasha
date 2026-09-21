@@ -25,4 +25,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirl = {
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "imnotthatgirl|46UMQ0cW8ToR8egkBRwAxZ|237043",
   song: "song/ariana-grande-i-m-not-that-girl",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 17,
+      externalId: "6rb68bdowIv6oB1CRvuUBE",
+      externalLink: "https://open.spotify.com/track/6rb68bdowIv6oB1CRvuUBE",
+    },
+  ],
 } as const satisfies Track

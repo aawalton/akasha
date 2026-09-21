@@ -25,4 +25,13 @@ export const arianaGrandePetalHateThatIMadeYouLoveMe = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "hatethatimadeyouloveme|66CXWjxzNUsdJxJ2JdwvnR|197949",
   song: "song/ariana-grande-hate-that-i-made-you-love-me",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-petal",
+      discNumber: 1,
+      position: 2,
+      externalId: "3iy2QuCtCzpWnR6tia39AB",
+      externalLink: "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
+    },
+  ],
 } as const satisfies Track

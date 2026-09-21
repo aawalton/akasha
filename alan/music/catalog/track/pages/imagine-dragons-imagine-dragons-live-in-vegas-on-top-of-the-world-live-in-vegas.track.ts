@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsLiveInVegasOnTopOfTheWorldLiveInVegas =
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ontopoftheworldliveinvegas|53XhwfbYqKCa1cC15pYq2q|227851",
   song: "song/imagine-dragons-on-top-of-the-world",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-live-in-vegas",
+      discNumber: 1,
+      position: 20,
+      externalId: "3Usx0QtbyiNtzTksvofjD8",
+      externalLink: "https://open.spotify.com/track/3Usx0QtbyiNtzTksvofjD8",
+    },
+  ],
 } as const satisfies Track

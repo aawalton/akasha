@@ -25,4 +25,13 @@ export const paulCardallANewCreationIntoTheWilderness = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "intothewilderness|7FQRbf8gbKw8KZQZAJWxH2|179866",
   song: "song/paul-cardall-into-the-wilderness",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-new-creation",
+      discNumber: 1,
+      position: 3,
+      externalId: "0kzXntjXY53n2repbVJzyp",
+      externalLink: "https://open.spotify.com/track/0kzXntjXY53n2repbVJzyp",
+    },
+  ],
 } as const satisfies Track

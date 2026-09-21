@@ -25,4 +25,13 @@ export const auroraWhatHappenedToTheHeartStarvation = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "starvation|1WgXqy2Dd70QQOU7Ay074N|207613",
   song: "song/aurora-starvation",
+  carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 13,
+      externalId: "6rtwjJHMx7pNd6xAnT8nK8",
+      externalLink: "https://open.spotify.com/track/6rtwjJHMx7pNd6xAnT8nK8",
+    },
+  ],
 } as const satisfies Track

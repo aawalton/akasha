@@ -28,4 +28,13 @@ export const emeiStereoStereo = {
   ],
   trackKey: "stereo|4Q6nIcaBED8qUel8bBx6Cr,7E2aQQjErJocovYFjYLzWU|147451",
   song: "song/emei-stereo",
+  carriedBy: [
+    {
+      release: "release/emei-stereo",
+      discNumber: 1,
+      position: 1,
+      externalId: "65crqZhjAbaM6bmNCgDf9M",
+      externalLink: "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M",
+    },
+  ],
 } as const satisfies Track

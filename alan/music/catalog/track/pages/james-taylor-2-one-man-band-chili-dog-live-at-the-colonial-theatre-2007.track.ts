@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandChiliDogLiveAtTheColonialTheatre2007 = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "chilidogliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|117306",
   song: "song/james-taylor-chili-dog",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 13,
+      externalId: "0NBiqV06SvLbsUBTPemCRT",
+      externalLink: "https://open.spotify.com/track/0NBiqV06SvLbsUBTPemCRT",
+    },
+  ],
 } as const satisfies Track

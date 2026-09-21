@@ -25,4 +25,13 @@ export const paulCardallChillCollectionLessComplicated = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "lesscomplicated|7FQRbf8gbKw8KZQZAJWxH2|260048",
   song: "song/paul-cardall-less-complicated",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chill-collection",
+      discNumber: 1,
+      position: 3,
+      externalId: "1g5FjnHwDGG2j2YuW9QcM4",
+      externalLink: "https://open.spotify.com/track/1g5FjnHwDGG2j2YuW9QcM4",
+    },
+  ],
 } as const satisfies Track

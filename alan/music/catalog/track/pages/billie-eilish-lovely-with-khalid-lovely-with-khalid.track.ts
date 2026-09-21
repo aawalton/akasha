@@ -28,4 +28,13 @@ export const billieEilishLovelyWithKhalidLovelyWithKhalid = {
   ],
   trackKey: "lovelywithkhalid|6LuN9FCkKOj5PcnpouEgny,6qqNVTkY8uBg9cP3Jd7DAH|200185",
   song: "song/billie-eilish-lovely",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-lovely-with-khalid",
+      discNumber: 1,
+      position: 1,
+      externalId: "0u2P5u6lvoDfwTYjAADbn4",
+      externalLink: "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4",
+    },
+  ],
 } as const satisfies Track

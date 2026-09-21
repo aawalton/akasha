@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeTheBoyIsMine = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "theboyismine|66CXWjxzNUsdJxJ2JdwvnR|173639",
   song: "song/ariana-grande-the-boy-is-mine",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "19nGr45kS0vRbuWeEnarRW",
+      externalLink: "https://open.spotify.com/track/19nGr45kS0vRbuWeEnarRW",
+    },
+  ],
 } as const satisfies Track

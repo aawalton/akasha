@@ -25,4 +25,13 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmasHaveYourselfAMerry
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "haveyourselfamerrylittlechristmas|74KM79TiuVKeVCqs8QtB0B|226713",
   song: "song/coldplay-have-yourself-a-merry-little-christmas",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-have-yourself-a-merry-little-christmas",
+      discNumber: 1,
+      position: 1,
+      externalId: "3raNSxsive7mKRQvSAoAmE",
+      externalLink: "https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE",
+    },
+  ],
 } as const satisfies Track

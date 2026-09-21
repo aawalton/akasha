@@ -25,4 +25,13 @@ export const thePianoGuys3AvatarTheThemeAvatarTheTheme = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "avatarthetheme|0jW6R8CVyVohuUJVcuweDI|183250",
   song: "song/the-piano-guys-avatar-the-theme",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-avatar-the-theme",
+      discNumber: 1,
+      position: 1,
+      externalId: "5lDXNxaigYgrUDxmONHdq6",
+      externalLink: "https://open.spotify.com/track/5lDXNxaigYgrUDxmONHdq6",
+    },
+  ],
 } as const satisfies Track

@@ -29,4 +29,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackWonderful = {
   ],
   trackKey: "wonderful|0O1n2TpXR4XizmHi7aY0l8,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|285456",
   song: "song/ariana-grande-wonderful",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack",
+      discNumber: 1,
+      position: 5,
+      externalId: "0fn8RZiNxBfRHRLX8UJI9T",
+      externalLink: "https://open.spotify.com/track/0fn8RZiNxBfRHRLX8UJI9T",
+    },
+  ],
 } as const satisfies Track

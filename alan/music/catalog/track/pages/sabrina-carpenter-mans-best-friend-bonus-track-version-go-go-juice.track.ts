@@ -25,4 +25,13 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionGoGoJuice = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "gogojuice|74KM79TiuVKeVCqs8QtB0B|193316",
   song: "song/sabrina-carpenter-go-go-juice",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+      discNumber: 1,
+      position: 9,
+      externalId: "2bsgJXHOlkBaI3bFqHgy6k",
+      externalLink: "https://open.spotify.com/track/2bsgJXHOlkBaI3bFqHgy6k",
+    },
+  ],
 } as const satisfies Track

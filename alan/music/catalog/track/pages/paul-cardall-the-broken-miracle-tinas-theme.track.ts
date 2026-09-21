@@ -25,4 +25,13 @@ export const paulCardallTheBrokenMiracleTinasTheme = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "tinastheme|7FQRbf8gbKw8KZQZAJWxH2|219693",
   song: "song/paul-cardall-tinas-theme",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 15,
+      externalId: "6mWeUh9FaEEXy6rWaLYQh2",
+      externalLink: "https://open.spotify.com/track/6mWeUh9FaEEXy6rWaLYQh2",
+    },
+  ],
 } as const satisfies Track

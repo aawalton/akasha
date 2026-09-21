@@ -25,4 +25,13 @@ export const alexandriaAlwaysAnAngelAlwaysAnAngel = {
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "alwaysanangel|0SQG4wPVUlfbmbGQfqB47y|116250",
   song: "song/alexandria-always-an-angel",
+  carriedBy: [
+    {
+      release: "release/alexandria-always-an-angel",
+      discNumber: 1,
+      position: 1,
+      externalId: "5CziXblfbYNLB4dELQrgq4",
+      externalLink: "https://open.spotify.com/track/5CziXblfbYNLB4dELQrgq4",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2HomeForChristmasSantaClausIsComingToTown = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "santaclausiscomingtotown|6NWtt9pNOL2Gx7kBykdE5x|253640",
   song: "song/celtic-woman-santa-claus-is-coming-to-town",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-home-for-christmas",
+      discNumber: 1,
+      position: 3,
+      externalId: "1bk61Zg7tK0UVDVdypdFPj",
+      externalLink: "https://open.spotify.com/track/1bk61Zg7tK0UVDVdypdFPj",
+    },
+  ],
 } as const satisfies Track

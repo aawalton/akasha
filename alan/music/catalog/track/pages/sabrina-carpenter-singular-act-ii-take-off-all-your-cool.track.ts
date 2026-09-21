@@ -25,4 +25,13 @@ export const sabrinaCarpenterSingularActIiTakeOffAllYourCool = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "takeoffallyourcool|74KM79TiuVKeVCqs8QtB0B|183755",
   song: "song/sabrina-carpenter-take-off-all-your-cool",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-ii",
+      discNumber: 1,
+      position: 5,
+      externalId: "27B9H3cOefm9lWDfh9A0gj",
+      externalLink: "https://open.spotify.com/track/27B9H3cOefm9lWDfh9A0gj",
+    },
+  ],
 } as const satisfies Track

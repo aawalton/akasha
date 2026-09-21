@@ -25,4 +25,13 @@ export const jamesTaylor2InThePocket2019RemasterEverybodyHasTheBlues2019Remaster
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "everybodyhastheblues2019remaster|0vn7UBvSQECKJm2817Yf1P|123080",
   song: "song/james-taylor-everybody-has-the-blues",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-in-the-pocket-2019-remaster",
+      discNumber: 1,
+      position: 5,
+      externalId: "4fY1GZCQbpASqFxv8r3pyA",
+      externalLink: "https://open.spotify.com/track/4fY1GZCQbpASqFxv8r3pyA",
+    },
+  ],
 } as const satisfies Track

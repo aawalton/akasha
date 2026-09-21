@@ -28,4 +28,13 @@ export const zaraLarssonOnMyLoveExtendedVersionOnMyLoveExtendedVersion = {
   ],
   trackKey: "onmyloveextendedversion|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg|286829",
   song: "song/zara-larsson-on-my-love",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-on-my-love-extended-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "2iZgtLFKqhpjhB5xSnHM8U",
+      externalLink: "https://open.spotify.com/track/2iZgtLFKqhpjhB5xSnHM8U",
+    },
+  ],
 } as const satisfies Track

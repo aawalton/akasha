@@ -31,4 +31,13 @@ export const thePianoGuys3MoreThanWordsMoreThanWords = {
   trackKey:
     "morethanwords|0jW6R8CVyVohuUJVcuweDI,3konlNIREmuxZRIFKSPKmK,5aIqB5nVVvmFsvSdExz408,703RcPLoxfMOHihd6uJxSd|235880",
   song: "song/the-piano-guys-more-than-words",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-more-than-words",
+      discNumber: 1,
+      position: 1,
+      externalId: "0zwXHa7rZ5RhPJcF1QyX3o",
+      externalLink: "https://open.spotify.com/track/0zwXHa7rZ5RhPJcF1QyX3o",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYouICanDreamOfYou =
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "icandreamofyou|0vn7UBvSQECKJm2817Yf1P|198373",
   song: "song/james-taylor-i-can-dream-of-you",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-shower-the-people-single-edit-i-can-dream-of-you",
+      discNumber: 1,
+      position: 2,
+      externalId: "7EPUSTgzcXVOTkBIsXjTcz",
+      externalLink: "https://open.spotify.com/track/7EPUSTgzcXVOTkBIsXjTcz",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallLiveHymnMedleyLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "hymnmedleylive|7FQRbf8gbKw8KZQZAJWxH2|413626",
   song: "song/paul-cardall-hymn-medley",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-live",
+      discNumber: 1,
+      position: 6,
+      externalId: "7elrfeozVMW4ykryUqqKUc",
+      externalLink: "https://open.spotify.com/track/7elrfeozVMW4ykryUqqKUc",
+    },
+  ],
 } as const satisfies Track

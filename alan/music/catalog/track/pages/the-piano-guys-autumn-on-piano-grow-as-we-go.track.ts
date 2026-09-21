@@ -30,4 +30,13 @@ export const thePianoGuysAutumnOnPianoGrowAsWeGo = {
   trackKey:
     "growaswego|0jW6R8CVyVohuUJVcuweDI,0rNPZyO8TwKKCnysRUzksl,2LpGg3qukmprl5BSlBk6HM|258888",
   song: "song/the-piano-guys-grow-as-we-go",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-autumn-on-piano",
+      discNumber: 1,
+      position: 2,
+      externalId: "78oxoexZ4dj7KfbTbEhw1M",
+      externalLink: "https://open.spotify.com/track/78oxoexZ4dj7KfbTbEhw1M",
+    },
+  ],
 } as const satisfies Track

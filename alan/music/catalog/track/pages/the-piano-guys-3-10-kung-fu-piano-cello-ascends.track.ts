@@ -25,4 +25,13 @@ export const thePianoGuys310KungFuPianoCelloAscends = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "kungfupianocelloascends|0jW6R8CVyVohuUJVcuweDI|242823",
   song: "song/the-piano-guys-kung-fu-piano-cello-ascends",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-10",
+      discNumber: 2,
+      position: 6,
+      externalId: "6CR8JUW0AOPTGhCrz0P6dC",
+      externalLink: "https://open.spotify.com/track/6CR8JUW0AOPTGhCrz0P6dC",
+    },
+  ],
 } as const satisfies Track

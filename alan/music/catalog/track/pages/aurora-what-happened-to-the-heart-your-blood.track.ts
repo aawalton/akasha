@@ -25,4 +25,13 @@ export const auroraWhatHappenedToTheHeartYourBlood = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "yourblood|1WgXqy2Dd70QQOU7Ay074N|247493",
   song: "song/aurora-your-blood",
+  carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 3,
+      externalId: "6PbC1xivXYIWLXHDIC2Qd2",
+      externalLink: "https://open.spotify.com/track/6PbC1xivXYIWLXHDIC2Qd2",
+    },
+  ],
 } as const satisfies Track

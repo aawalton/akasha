@@ -25,4 +25,13 @@ export const paulCardallHymnsVol2MoreHolinessGiveMe = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "moreholinessgiveme|7FQRbf8gbKw8KZQZAJWxH2|188586",
   song: "song/paul-cardall-more-holiness-give-me",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-hymns-vol-2",
+      discNumber: 1,
+      position: 2,
+      externalId: "0M5HsaX3uVfmjpvVZCQXJL",
+      externalLink: "https://open.spotify.com/track/0M5HsaX3uVfmjpvVZCQXJL",
+    },
+  ],
 } as const satisfies Track

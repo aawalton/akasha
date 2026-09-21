@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionImmigrantShipsSoloPianoVersion
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "immigrantshipssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|193500",
   song: "song/paul-cardall-immigrant-ships",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "2W8Iz7tNk4paeaNk2qrbXs",
+      externalLink: "https://open.spotify.com/track/2W8Iz7tNk4paeaNk2qrbXs",
+    },
+  ],
 } as const satisfies Track

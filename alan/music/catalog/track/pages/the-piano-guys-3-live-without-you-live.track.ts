@@ -28,4 +28,13 @@ export const thePianoGuys3LiveWithoutYouLive = {
   ],
   trackKey: "withoutyoulive|0jW6R8CVyVohuUJVcuweDI,7EIbKyiLnEJ1Y074UIUyZJ|225413",
   song: "song/the-piano-guys-without-you",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-live",
+      discNumber: 1,
+      position: 6,
+      externalId: "60BIoMVVWN8RA3UYXIK6SE",
+      externalLink: "https://open.spotify.com/track/60BIoMVVWN8RA3UYXIK6SE",
+    },
+  ],
 } as const satisfies Track

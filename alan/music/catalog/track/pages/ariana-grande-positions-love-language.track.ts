@@ -25,4 +25,13 @@ export const arianaGrandePositionsLoveLanguage = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "lovelanguage|66CXWjxzNUsdJxJ2JdwvnR|179860",
   song: "song/ariana-grande-love-language",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 11,
+      externalId: "6NYtLvyThMT0oALFdJFdzq",
+      externalLink: "https://open.spotify.com/track/6NYtLvyThMT0oALFdJFdzq",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiTheDragonbornComesTheDragonbornComes = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thedragonborncomes|5USAMqcbMAzF3HBmeD5pJF|208346",
   song: "song/vinny-marchi-the-dragonborn-comes",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-the-dragonborn-comes",
+      discNumber: 1,
+      position: 1,
+      externalId: "0iYSkRJhBwOuaBo5Ie7mNt",
+      externalLink: "https://open.spotify.com/track/0iYSkRJhBwOuaBo5Ie7mNt",
+    },
+  ],
 } as const satisfies Track

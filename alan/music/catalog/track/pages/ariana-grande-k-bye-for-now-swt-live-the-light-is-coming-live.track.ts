@@ -28,4 +28,13 @@ export const arianaGrandeKByeForNowSwtLiveTheLightIsComingLive = {
   ],
   trackKey: "thelightiscominglive|0hCNtLu0JehylgoiP8L4Gh,66CXWjxzNUsdJxJ2JdwvnR|130071",
   song: "song/ariana-grande-the-light-is-coming",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-k-bye-for-now-swt-live",
+      discNumber: 1,
+      position: 26,
+      externalId: "0mQVABspENyHvpVqRpnkxJ",
+      externalLink: "https://open.spotify.com/track/0mQVABspENyHvpVqRpnkxJ",
+    },
+  ],
 } as const satisfies Track

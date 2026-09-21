@@ -25,4 +25,13 @@ export const paulCardallDailyDevotionsTheSpiritOfGod = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thespiritofgod|7FQRbf8gbKw8KZQZAJWxH2|184680",
   song: "song/paul-cardall-the-spirit-of-god",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-daily-devotions",
+      discNumber: 1,
+      position: 4,
+      externalId: "0oJ7XrfOn5P6OUu0RfWIKc",
+      externalLink: "https://open.spotify.com/track/0oJ7XrfOn5P6OUu0RfWIKc",
+    },
+  ],
 } as const satisfies Track

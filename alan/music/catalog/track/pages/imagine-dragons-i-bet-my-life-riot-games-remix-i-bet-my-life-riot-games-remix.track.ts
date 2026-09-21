@@ -25,4 +25,13 @@ export const imagineDragonsIBetMyLifeRiotGamesRemixIBetMyLifeRiotGamesRemix = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ibetmyliferiotgamesremix|53XhwfbYqKCa1cC15pYq2q|210786",
   song: "song/imagine-dragons-i-bet-my-life",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-i-bet-my-life-riot-games-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "3bz7aRHigA8TVOYcMt3SG7",
+      externalLink: "https://open.spotify.com/track/3bz7aRHigA8TVOYcMt3SG7",
+    },
+  ],
 } as const satisfies Track

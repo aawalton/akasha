@@ -25,4 +25,13 @@ export const billieEilishOceanEyesOceanEyes = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "oceaneyes|6qqNVTkY8uBg9cP3Jd7DAH|200560",
   song: "song/billie-eilish-ocean-eyes",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-ocean-eyes",
+      discNumber: 1,
+      position: 1,
+      externalId: "2uIX8YMNjGMD7441kqyyNU",
+      externalLink: "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU",
+    },
+  ],
 } as const satisfies Track

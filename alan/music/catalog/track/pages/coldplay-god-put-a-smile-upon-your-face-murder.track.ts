@@ -25,4 +25,13 @@ export const coldplayGodPutASmileUponYourFaceMurder = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "murder|4gzpq5DPGxSnKTe4SA8HAU|334879",
   song: "song/coldplay-murder",
+  carriedBy: [
+    {
+      release: "release/coldplay-god-put-a-smile-upon-your-face",
+      discNumber: 1,
+      position: 2,
+      externalId: "6FNYoIM6xtaH1mBlLwDMvM",
+      externalLink: "https://open.spotify.com/track/6FNYoIM6xtaH1mBlLwDMvM",
+    },
+  ],
 } as const satisfies Track

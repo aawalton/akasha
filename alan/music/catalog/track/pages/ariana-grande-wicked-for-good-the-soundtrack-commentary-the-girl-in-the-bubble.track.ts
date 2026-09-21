@@ -25,4 +25,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubble 
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thegirlinthebubble|66CXWjxzNUsdJxJ2JdwvnR|220500",
   song: "song/ariana-grande-the-girl-in-the-bubble",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 21,
+      externalId: "0vxvOnxZQMOyieSKFHHWVK",
+      externalLink: "https://open.spotify.com/track/0vxvOnxZQMOyieSKFHHWVK",
+    },
+  ],
 } as const satisfies Track

@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAwakening 
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "awakening|6NWtt9pNOL2Gx7kBykdE5x|315706",
   song: "song/celtic-woman-awakening",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 2,
+      externalId: "3J8sej95TwAwTjxXLdtsYs",
+      externalLink: "https://open.spotify.com/track/3J8sej95TwAwTjxXLdtsYs",
+    },
+  ],
 } as const satisfies Track

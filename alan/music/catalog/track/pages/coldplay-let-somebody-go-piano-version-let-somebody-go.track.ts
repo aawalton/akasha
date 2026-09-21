@@ -28,4 +28,13 @@ export const coldplayLetSomebodyGoPianoVersionLetSomebodyGo = {
   ],
   trackKey: "letsomebodygo|0C8ZW7ezQVs4URX5aX7Kqx,4gzpq5DPGxSnKTe4SA8HAU|241595",
   song: "song/coldplay-let-somebody-go",
+  carriedBy: [
+    {
+      release: "release/coldplay-let-somebody-go-piano-version",
+      discNumber: 1,
+      position: 4,
+      externalId: "2tFbT0atd7zQxTqa2l1Pf1",
+      externalLink: "https://open.spotify.com/track/2tFbT0atd7zQxTqa2l1Pf1",
+    },
+  ],
 } as const satisfies Track

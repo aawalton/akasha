@@ -25,4 +25,13 @@ export const coldplayLiveInBuenosAiresInMyPlaceLiveInBuenosAires = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "inmyplaceliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|277800",
   song: "song/coldplay-in-my-place",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-in-buenos-aires",
+      discNumber: 1,
+      position: 19,
+      externalId: "0o7htzPrB8bP0jnyjiqUdj",
+      externalLink: "https://open.spotify.com/track/0o7htzPrB8bP0jnyjiqUdj",
+    },
+  ],
 } as const satisfies Track

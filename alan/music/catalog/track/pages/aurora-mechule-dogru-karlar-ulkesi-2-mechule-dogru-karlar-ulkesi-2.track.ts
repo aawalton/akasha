@@ -28,4 +28,13 @@ export const auroraMechuleDogruKarlarUlkesi2MechuleDogruKarlarUlkesi2 = {
   ],
   trackKey: "mechuledogrukarlarulkesi2|1WgXqy2Dd70QQOU7Ay074N,6zLutmgjmoKvrsH5hyqNz1|194866",
   song: "song/aurora-mechule-dogru-karlar-ulkesi-2",
+  carriedBy: [
+    {
+      release: "release/aurora-mechule-dogru-karlar-ulkesi-2",
+      discNumber: 1,
+      position: 1,
+      externalId: "6jzD6GYJTxHZOsknJGDzlf",
+      externalLink: "https://open.spotify.com/track/6jzD6GYJTxHZOsknJGDzlf",
+    },
+  ],
 } as const satisfies Track

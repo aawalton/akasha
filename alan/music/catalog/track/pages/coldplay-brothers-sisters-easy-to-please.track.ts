@@ -25,4 +25,13 @@ export const coldplayBrothersSistersEasyToPlease = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "easytoplease|4gzpq5DPGxSnKTe4SA8HAU|181960",
   song: "song/coldplay-easy-to-please",
+  carriedBy: [
+    {
+      release: "release/coldplay-brothers-sisters",
+      discNumber: 1,
+      position: 2,
+      externalId: "6KHZ9SElsSmjQI7B9D0e4P",
+      externalLink: "https://open.spotify.com/track/6KHZ9SElsSmjQI7B9D0e4P",
+    },
+  ],
 } as const satisfies Track

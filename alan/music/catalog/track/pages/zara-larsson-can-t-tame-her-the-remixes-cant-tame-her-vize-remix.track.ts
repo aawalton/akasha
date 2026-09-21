@@ -28,4 +28,13 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerVizeRemix = {
   ],
   trackKey: "canttamehervizeremix|09agIJMxCD2k87ys9Al0f0,1Xylc3o4UrD53lo9CvFvVg|173333",
   song: "song/zara-larsson-can-t-tame-her",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-can-t-tame-her-the-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "6hK4hq1UY914pSvHz60Xe1",
+      externalLink: "https://open.spotify.com/track/6hK4hq1UY914pSvHz60Xe1",
+    },
+  ],
 } as const satisfies Track

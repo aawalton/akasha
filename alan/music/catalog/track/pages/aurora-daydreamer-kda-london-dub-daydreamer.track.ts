@@ -25,4 +25,13 @@ export const auroraDaydreamerKdaLondonDubDaydreamer = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "daydreamer|1WgXqy2Dd70QQOU7Ay074N|219057",
   song: "song/aurora-daydreamer",
+  carriedBy: [
+    {
+      release: "release/aurora-daydreamer-kda-london-dub",
+      discNumber: 1,
+      position: 2,
+      externalId: "6mXBvy0clDLb7M484mFVWy",
+      externalLink: "https://open.spotify.com/track/6mXBvy0clDLb7M484mFVWy",
+    },
+  ],
 } as const satisfies Track

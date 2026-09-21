@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetJesusTheVeryThoughtOfThee = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesustheverythoughtofthee|7FQRbf8gbKw8KZQZAJWxH2|157387",
   song: "song/paul-cardall-jesus-the-very-thought-of-thee",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 26,
+      externalId: "1sTKkLuYjMCsGkzXEBkami",
+      externalLink: "https://open.spotify.com/track/1sTKkLuYjMCsGkzXEBkami",
+    },
+  ],
 } as const satisfies Track

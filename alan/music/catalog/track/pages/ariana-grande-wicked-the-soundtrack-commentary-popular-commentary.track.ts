@@ -28,4 +28,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryPopularCommentary = {
   ],
   trackKey: "popularcommentary|66CXWjxzNUsdJxJ2JdwvnR,7daPb40K64rRtF36wd3ZOk|71687",
   song: "song/ariana-grande-popular-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 14,
+      externalId: "4WGWIXSxCHqmGMAp0XROt2",
+      externalLink: "https://open.spotify.com/track/4WGWIXSxCHqmGMAp0XROt2",
+    },
+  ],
 } as const satisfies Track

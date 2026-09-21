@@ -25,4 +25,13 @@ export const auroraStjernestVStjernestV = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "stjernestv|1WgXqy2Dd70QQOU7Ay074N|198045",
   song: "song/aurora-stjernest-v",
+  carriedBy: [
+    {
+      release: "release/aurora-stjernest-v",
+      discNumber: 1,
+      position: 1,
+      externalId: "2g7kOfDm0QfGHICnvJfP0e",
+      externalLink: "https://open.spotify.com/track/2g7kOfDm0QfGHICnvJfP0e",
+    },
+  ],
 } as const satisfies Track

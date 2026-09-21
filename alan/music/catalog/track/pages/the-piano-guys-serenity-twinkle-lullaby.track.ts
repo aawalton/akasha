@@ -25,4 +25,13 @@ export const thePianoGuysSerenityTwinkleLullaby = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "twinklelullaby|0jW6R8CVyVohuUJVcuweDI|111280",
   song: "song/the-piano-guys-twinkle-lullaby",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-serenity",
+      discNumber: 1,
+      position: 1,
+      externalId: "0irl0h2oBUI8MvGy3pWyvz",
+      externalLink: "https://open.spotify.com/track/0irl0h2oBUI8MvGy3pWyvz",
+    },
+  ],
 } as const satisfies Track

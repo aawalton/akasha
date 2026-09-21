@@ -25,4 +25,13 @@ export const celticWoman2HomecomingLiveFromIrelandMoGhileMearMyGallantStarLive20
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemearmygallantstarlive2017|6NWtt9pNOL2Gx7kBykdE5x|249786",
   song: "song/celtic-woman-mo-ghile-mear-my-gallant-star",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-homecoming-live-from-ireland",
+      discNumber: 1,
+      position: 2,
+      externalId: "3FimRF5OddXLuyc9nIDEA8",
+      externalLink: "https://open.spotify.com/track/3FimRF5OddXLuyc9nIDEA8",
+    },
+  ],
 } as const satisfies Track

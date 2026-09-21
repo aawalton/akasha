@@ -25,4 +25,13 @@ export const jamesTaylor2FlagIsThatTheWayYouLook = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "isthatthewayyoulook|0vn7UBvSQECKJm2817Yf1P|117666",
   song: "song/james-taylor-is-that-the-way-you-look",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-flag",
+      discNumber: 1,
+      position: 6,
+      externalId: "0ZO2cyWuY147d7gjtzIZIU",
+      externalLink: "https://open.spotify.com/track/0ZO2cyWuY147d7gjtzIZIU",
+    },
+  ],
 } as const satisfies Track

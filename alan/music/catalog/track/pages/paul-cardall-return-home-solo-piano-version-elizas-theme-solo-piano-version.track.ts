@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionElizasThemeSoloPianoVersion = 
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "elizasthemesolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|220250",
   song: "song/paul-cardall-elizas-theme",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 7,
+      externalId: "73v2Bip0bMiF2c176LRF4U",
+      externalLink: "https://open.spotify.com/track/73v2Bip0bMiF2c176LRF4U",
+    },
+  ],
 } as const satisfies Track

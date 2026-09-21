@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysGodIsLove = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godislove|7FQRbf8gbKw8KZQZAJWxH2|174733",
   song: "song/paul-cardall-god-is-love",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 14,
+      externalId: "1Bv1PmRZdTcA8Rp0PJUK3q",
+      externalLink: "https://open.spotify.com/track/1Bv1PmRZdTcA8Rp0PJUK3q",
+    },
+  ],
 } as const satisfies Track

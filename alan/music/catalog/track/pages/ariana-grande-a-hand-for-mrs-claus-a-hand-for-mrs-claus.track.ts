@@ -28,4 +28,13 @@ export const arianaGrandeAHandForMrsClausAHandForMrsClaus = {
   ],
   trackKey: "ahandformrsclaus|66CXWjxzNUsdJxJ2JdwvnR,73Np75Wv2tju61Eo9Zw4IR|149040",
   song: "song/ariana-grande-a-hand-for-mrs-claus",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-a-hand-for-mrs-claus",
+      discNumber: 1,
+      position: 1,
+      externalId: "51WKo14W3ePwu4bvn8bBLF",
+      externalLink: "https://open.spotify.com/track/51WKo14W3ePwu4bvn8bBLF",
+    },
+  ],
 } as const satisfies Track

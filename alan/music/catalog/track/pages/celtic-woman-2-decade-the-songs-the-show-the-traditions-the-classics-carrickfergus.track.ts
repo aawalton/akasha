@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsCarrickfer
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "carrickfergus|6NWtt9pNOL2Gx7kBykdE5x|223226",
   song: "song/celtic-woman-carrickfergus",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 10,
+      externalId: "4TEK0trgxTkYUD83cjULtF",
+      externalLink: "https://open.spotify.com/track/4TEK0trgxTkYUD83cjULtF",
+    },
+  ],
 } as const satisfies Track

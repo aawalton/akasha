@@ -28,4 +28,13 @@ export const thePianoGuys3RollingInTheDeepRollingInTheDeepVocalVersion = {
   ],
   trackKey: "rollinginthedeepvocalversion|0jW6R8CVyVohuUJVcuweDI,29beZlklJNMaRN3MS40ZYq|240973",
   song: "song/the-piano-guys-rolling-in-the-deep",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-rolling-in-the-deep",
+      discNumber: 1,
+      position: 1,
+      externalId: "2N3Bp4QU3JeqqQiL2geJqV",
+      externalLink: "https://open.spotify.com/track/2N3Bp4QU3JeqqQiL2geJqV",
+    },
+  ],
 } as const satisfies Track

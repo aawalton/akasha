@@ -25,4 +25,13 @@ export const paulCardallASacredChristmasPianoCollectionDoYouHearWhatIHear = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "doyouhearwhatihear|7FQRbf8gbKw8KZQZAJWxH2|248868",
   song: "song/paul-cardall-do-you-hear-what-i-hear",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-sacred-christmas-piano-collection",
+      discNumber: 1,
+      position: 7,
+      externalId: "2c1094QkzeidXSiqpH4kWD",
+      externalLink: "https://open.spotify.com/track/2c1094QkzeidXSiqpH4kWD",
+    },
+  ],
 } as const satisfies Track

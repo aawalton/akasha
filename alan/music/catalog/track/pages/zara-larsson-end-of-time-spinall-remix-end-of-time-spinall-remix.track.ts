@@ -28,4 +28,13 @@ export const zaraLarssonEndOfTimeSpinallRemixEndOfTimeSpinallRemix = {
   ],
   trackKey: "endoftimespinallremix|1Xylc3o4UrD53lo9CvFvVg,2NtQA3PY9chI8l65ejZLTP|221265",
   song: "song/zara-larsson-end-of-time",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-end-of-time-spinall-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "0WXBYjKws5OWbuZ15F2vQQ",
+      externalLink: "https://open.spotify.com/track/0WXBYjKws5OWbuZ15F2vQQ",
+    },
+  ],
 } as const satisfies Track

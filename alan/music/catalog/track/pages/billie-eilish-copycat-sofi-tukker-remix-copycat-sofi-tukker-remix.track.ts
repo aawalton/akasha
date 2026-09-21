@@ -28,4 +28,13 @@ export const billieEilishCopycatSofiTukkerRemixCopycatSofiTukkerRemix = {
   ],
   trackKey: "copycatsofitukkerremix|586uxXMyD5ObPuzjtrzO1Q,6qqNVTkY8uBg9cP3Jd7DAH|198684",
   song: "song/billie-eilish-copycat",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-copycat-sofi-tukker-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "2njUxZ4151DWIrfIK3loFj",
+      externalLink: "https://open.spotify.com/track/2njUxZ4151DWIrfIK3loFj",
+    },
+  ],
 } as const satisfies Track

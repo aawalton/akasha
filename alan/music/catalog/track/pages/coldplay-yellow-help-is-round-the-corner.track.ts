@@ -25,4 +25,13 @@ export const coldplayYellowHelpIsRoundTheCorner = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "helpisroundthecorner|4gzpq5DPGxSnKTe4SA8HAU|156160",
   song: "song/coldplay-help-is-round-the-corner",
+  carriedBy: [
+    {
+      release: "release/coldplay-yellow",
+      discNumber: 1,
+      position: 2,
+      externalId: "1AmYC6YsrtkxpTfiv3nFBn",
+      externalLink: "https://open.spotify.com/track/1AmYC6YsrtkxpTfiv3nFBn",
+    },
+  ],
 } as const satisfies Track

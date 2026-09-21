@@ -25,4 +25,13 @@ export const paulCardallReturnHomeFathersAndDaughters = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fathersanddaughters|7FQRbf8gbKw8KZQZAJWxH2|255957",
   song: "song/paul-cardall-fathers-and-daughters",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 13,
+      externalId: "0r4QxqLge2Ytkobw95s0t6",
+      externalLink: "https://open.spotify.com/track/0r4QxqLge2Ytkobw95s0t6",
+    },
+  ],
 } as const satisfies Track

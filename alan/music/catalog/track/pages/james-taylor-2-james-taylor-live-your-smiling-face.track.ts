@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveYourSmilingFace = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "yoursmilingface|0vn7UBvSQECKJm2817Yf1P|173506",
   song: "song/james-taylor-your-smiling-face",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 4,
+      externalId: "0qWeTfa2rF6Q0KICiGjr3j",
+      externalLink: "https://open.spotify.com/track/0qWeTfa2rF6Q0KICiGjr3j",
+    },
+  ],
 } as const satisfies Track

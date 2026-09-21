@@ -25,4 +25,13 @@ export const paulCardallSavingTinyHeartsEyeToEye = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "eyetoeye|7FQRbf8gbKw8KZQZAJWxH2|269066",
   song: "song/paul-cardall-eye-to-eye",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-saving-tiny-hearts",
+      discNumber: 1,
+      position: 11,
+      externalId: "6RyZT7kfXy8ajOCpzjHVlt",
+      externalLink: "https://open.spotify.com/track/6RyZT7kfXy8ajOCpzjHVlt",
+    },
+  ],
 } as const satisfies Track

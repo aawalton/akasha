@@ -25,4 +25,13 @@ export const thePianoGuys3GhostRainyDayWaltz = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "rainydaywaltz|0jW6R8CVyVohuUJVcuweDI|223927",
   song: "song/the-piano-guys-rainy-day-waltz",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-ghost",
+      discNumber: 1,
+      position: 2,
+      externalId: "59ihFAedQDTHRbpzSZRr7f",
+      externalLink: "https://open.spotify.com/track/59ihFAedQDTHRbpzSZRr7f",
+    },
+  ],
 } as const satisfies Track

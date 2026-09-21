@@ -25,4 +25,13 @@ export const paulCardallReturnHomeAnEveningInParis = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "aneveninginparis|7FQRbf8gbKw8KZQZAJWxH2|308138",
   song: "song/paul-cardall-an-evening-in-paris",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 4,
+      externalId: "6Usay1Fv5Ni9D2c3kBR0Ml",
+      externalLink: "https://open.spotify.com/track/6Usay1Fv5Ni9D2c3kBR0Ml",
+    },
+  ],
 } as const satisfies Track

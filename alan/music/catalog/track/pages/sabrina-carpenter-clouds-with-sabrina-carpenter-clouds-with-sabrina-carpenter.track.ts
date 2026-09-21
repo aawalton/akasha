@@ -28,4 +28,13 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenterCloudsWithSabrinaCarpente
   ],
   trackKey: "cloudswithsabrinacarpenter|1oDUPFTxn5JyS8MxUe9ko4,74KM79TiuVKeVCqs8QtB0B|184903",
   song: "song/sabrina-carpenter-clouds",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-clouds-with-sabrina-carpenter",
+      discNumber: 1,
+      position: 1,
+      externalId: "06Kyj7sv2HzZPu4Vt4wfcO",
+      externalLink: "https://open.spotify.com/track/06Kyj7sv2HzZPu4Vt4wfcO",
+    },
+  ],
 } as const satisfies Track

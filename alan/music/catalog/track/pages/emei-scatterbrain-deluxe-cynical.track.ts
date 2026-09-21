@@ -25,4 +25,13 @@ export const emeiScatterbrainDeluxeCynical = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "cynical|7E2aQQjErJocovYFjYLzWU|134545",
   song: "song/emei-cynical",
+  carriedBy: [
+    {
+      release: "release/emei-scatterbrain-deluxe",
+      discNumber: 1,
+      position: 6,
+      externalId: "7cPZrpNtQryhEjeJ4j4MkL",
+      externalLink: "https://open.spotify.com/track/7cPZrpNtQryhEjeJ4j4MkL",
+    },
+  ],
 } as const satisfies Track

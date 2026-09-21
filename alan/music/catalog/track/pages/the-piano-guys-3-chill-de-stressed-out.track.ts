@@ -25,4 +25,13 @@ export const thePianoGuys3ChillDeStressedOut = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "destressedout|0jW6R8CVyVohuUJVcuweDI|182419",
   song: "song/the-piano-guys-de-stressed-out",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-chill",
+      discNumber: 1,
+      position: 4,
+      externalId: "2F4bPSfiRgGWTX8vKO8Fk3",
+      externalLink: "https://open.spotify.com/track/2F4bPSfiRgGWTX8vKO8Fk3",
+    },
+  ],
 } as const satisfies Track

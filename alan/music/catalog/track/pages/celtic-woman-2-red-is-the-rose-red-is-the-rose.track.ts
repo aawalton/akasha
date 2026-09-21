@@ -25,4 +25,13 @@ export const celticWoman2RedIsTheRoseRedIsTheRose = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "redistherose|6NWtt9pNOL2Gx7kBykdE5x|214750",
   song: "song/celtic-woman-red-is-the-rose",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-red-is-the-rose",
+      discNumber: 1,
+      position: 1,
+      externalId: "5tNWMr9JroElwx6vp4JVMA",
+      externalLink: "https://open.spotify.com/track/5tNWMr9JroElwx6vp4JVMA",
+    },
+  ],
 } as const satisfies Track

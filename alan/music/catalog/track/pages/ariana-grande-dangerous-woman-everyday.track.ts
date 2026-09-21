@@ -28,4 +28,13 @@ export const arianaGrandeDangerousWomanEveryday = {
   ],
   trackKey: "everyday|1RyvyyTE3xzB2ZywiAwp0i,66CXWjxzNUsdJxJ2JdwvnR|194840",
   song: "song/ariana-grande-everyday",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman",
+      discNumber: 1,
+      position: 9,
+      externalId: "53SfB4huCgiRGmwzJdEo1u",
+      externalLink: "https://open.spotify.com/track/53SfB4huCgiRGmwzJdEo1u",
+    },
+  ],
 } as const satisfies Track

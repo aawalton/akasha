@@ -32,4 +32,13 @@ export const arianaGrandeWickedTheSoundtrackOneShortDay = {
   trackKey:
     "oneshortday|26el8XoLgjuWJJBXCVdHjX,3DgcBA7P0ji5co7Z1Gfp2Q,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,73Np75Wv2tju61Eo9Zw4IR|392668",
   song: "song/ariana-grande-one-short-day",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 9,
+      externalId: "5FzyDdVHJ0Gzu4rUwShfzx",
+      externalLink: "https://open.spotify.com/track/5FzyDdVHJ0Gzu4rUwShfzx",
+    },
+  ],
 } as const satisfies Track

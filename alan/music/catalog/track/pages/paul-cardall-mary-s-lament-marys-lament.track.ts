@@ -25,4 +25,13 @@ export const paulCardallMarySLamentMarysLament = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "maryslament|7FQRbf8gbKw8KZQZAJWxH2|307094",
   song: "song/paul-cardall-marys-lament",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-mary-s-lament",
+      discNumber: 1,
+      position: 1,
+      externalId: "1c0qW5ZeDyKno7IgL5F5zI",
+      externalLink: "https://open.spotify.com/track/1c0qW5ZeDyKno7IgL5F5zI",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const sabrinaCarpenterManSBestFriendMyManOnWillpower = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "mymanonwillpower|74KM79TiuVKeVCqs8QtB0B|197817",
   song: "song/sabrina-carpenter-my-man-on-willpower",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-man-s-best-friend",
+      discNumber: 1,
+      position: 3,
+      externalId: "3EMfeKtNK4q4k3sVjwg5Yy",
+      externalLink: "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy",
+    },
+  ],
 } as const satisfies Track

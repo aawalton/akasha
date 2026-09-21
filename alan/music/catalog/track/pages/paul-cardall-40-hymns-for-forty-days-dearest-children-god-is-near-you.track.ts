@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysDearestChildrenGodIsNearYou = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "dearestchildrengodisnearyou|7FQRbf8gbKw8KZQZAJWxH2|120500",
   song: "song/paul-cardall-dearest-children-god-is-near-you",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 16,
+      externalId: "5BFZraiPWiVWvoKOPgwR8O",
+      externalLink: "https://open.spotify.com/track/5BFZraiPWiVWvoKOPgwR8O",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionNeverGettingLaid = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "nevergettinglaid|74KM79TiuVKeVCqs8QtB0B|208211",
   song: "song/sabrina-carpenter-never-getting-laid",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+      discNumber: 1,
+      position: 7,
+      externalId: "5wIQSTbtONKXUjxMeXDyGL",
+      externalLink: "https://open.spotify.com/track/5wIQSTbtONKXUjxMeXDyGL",
+    },
+  ],
 } as const satisfies Track

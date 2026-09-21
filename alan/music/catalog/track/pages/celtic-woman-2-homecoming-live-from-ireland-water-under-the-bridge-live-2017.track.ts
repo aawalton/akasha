@@ -25,4 +25,13 @@ export const celticWoman2HomecomingLiveFromIrelandWaterUnderTheBridgeLive2017 = 
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "waterunderthebridgelive2017|6NWtt9pNOL2Gx7kBykdE5x|229480",
   song: "song/celtic-woman-water-under-the-bridge",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-homecoming-live-from-ireland",
+      discNumber: 1,
+      position: 10,
+      externalId: "2dfYBpBffYOixFTXDe2J5W",
+      externalLink: "https://open.spotify.com/track/2dfYBpBffYOixFTXDe2J5W",
+    },
+  ],
 } as const satisfies Track

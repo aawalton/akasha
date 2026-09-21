@@ -28,4 +28,13 @@ export const imagineDragonsMercuryActs12ContinualFeatCoryHenry = {
   ],
   trackKey: "continualfeatcoryhenry|21SOnTj5ECwVXeBUTRcP3s,53XhwfbYqKCa1cC15pYq2q|229507",
   song: "song/imagine-dragons-continual",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-mercury-acts-1-2",
+      discNumber: 2,
+      position: 17,
+      externalId: "2EhE42VQTKvn6ok6wtA9U8",
+      externalLink: "https://open.spotify.com/track/2EhE42VQTKvn6ok6wtA9U8",
+    },
+  ],
 } as const satisfies Track

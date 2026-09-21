@@ -25,4 +25,13 @@ export const thePianoGuysAutumnOnPianoWhatWasIMadeForPianoLullabyVersion = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "whatwasimadeforpianolullabyversion|0jW6R8CVyVohuUJVcuweDI|238634",
   song: "song/billie-eilish-what-was-i-made-for",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-autumn-on-piano",
+      discNumber: 1,
+      position: 3,
+      externalId: "1mTa8bJ5y708BkQrMIhaaQ",
+      externalLink: "https://open.spotify.com/track/1mTa8bJ5y708BkQrMIhaaQ",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3WondersStoryOfMyLife = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "storyofmylife|0jW6R8CVyVohuUJVcuweDI|270813",
   song: "song/the-piano-guys-story-of-my-life",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wonders",
+      discNumber: 1,
+      position: 1,
+      externalId: "71I9xjigtEcEYcbZgtvG1J",
+      externalLink: "https://open.spotify.com/track/71I9xjigtEcEYcbZgtvG1J",
+    },
+  ],
 } as const satisfies Track

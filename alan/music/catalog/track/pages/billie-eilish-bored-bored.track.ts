@@ -25,4 +25,13 @@ export const billieEilishBoredBored = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "bored|6qqNVTkY8uBg9cP3Jd7DAH|180933",
   song: "song/billie-eilish-bored",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-bored",
+      discNumber: 1,
+      position: 1,
+      externalId: "04sN26COy28wTXYj3dMoiZ",
+      externalLink: "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ",
+    },
+  ],
 } as const satisfies Track

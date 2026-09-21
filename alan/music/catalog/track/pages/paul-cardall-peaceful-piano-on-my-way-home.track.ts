@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoOnMyWayHome = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "onmywayhome|7FQRbf8gbKw8KZQZAJWxH2|231840",
   song: "song/paul-cardall-on-my-way-home",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 5,
+      externalId: "6vxYsKo97A6jXyAHwNV61x",
+      externalLink: "https://open.spotify.com/track/6vxYsKo97A6jXyAHwNV61x",
+    },
+  ],
 } as const satisfies Track

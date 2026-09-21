@@ -30,4 +30,14 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
   ],
   trackKey: "thatsnothowthisworksfeatdanshay|6VuMaDnrHyPL1p4EHjYLi7,7z5WFjZAIYejWy0NI5lv4T|165619",
   song: "song/sabrina-carpenter-thats-not-how-this-works",
+  carriedBy: [
+    {
+      release:
+        "release/sabrina-carpenter-that-s-not-how-this-works-feat-dan-shay-sabrina-carpenter-sabrina-s-version",
+      discNumber: 1,
+      position: 2,
+      externalId: "78igyKiVngWy0bT2elK8aN",
+      externalLink: "https://open.spotify.com/track/78igyKiVngWy0bT2elK8aN",
+    },
+  ],
 } as const satisfies Track

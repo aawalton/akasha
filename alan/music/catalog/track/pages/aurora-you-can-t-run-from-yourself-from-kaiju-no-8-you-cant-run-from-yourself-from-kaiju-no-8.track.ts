@@ -25,4 +25,13 @@ export const auroraYouCanTRunFromYourselfFromKaijuNo8YouCantRunFromYourselfFromK
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "youcantrunfromyourselffromkaijuno8|1WgXqy2Dd70QQOU7Ay074N|136720",
   song: "song/aurora-you-cant-run-from-yourself-from-kaiju-no-8",
+  carriedBy: [
+    {
+      release: "release/aurora-you-can-t-run-from-yourself-from-kaiju-no-8",
+      discNumber: 1,
+      position: 1,
+      externalId: "67u7sw6ZJR8yOyX3dwoeBV",
+      externalLink: "https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV",
+    },
+  ],
 } as const satisfies Track

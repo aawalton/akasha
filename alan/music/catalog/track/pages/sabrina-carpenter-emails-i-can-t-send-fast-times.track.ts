@@ -25,4 +25,13 @@ export const sabrinaCarpenterEmailsICanTSendFastTimes = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "fasttimes|74KM79TiuVKeVCqs8QtB0B|174539",
   song: "song/sabrina-carpenter-fast-times",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 10,
+      externalId: "6n05BgVkxxz2k5ICZYa2PH",
+      externalLink: "https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH",
+    },
+  ],
 } as const satisfies Track

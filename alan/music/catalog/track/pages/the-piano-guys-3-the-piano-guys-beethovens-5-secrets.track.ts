@@ -34,4 +34,13 @@ export const thePianoGuys3ThePianoGuysBeethovens5Secrets = {
   trackKey:
     "beethovens5secrets|0jW6R8CVyVohuUJVcuweDI,0rUC7g0r3Q9pfNeeVioxzC,3ewlE33E3BBy5izrlsaR0G,6k7qMS96A3GiN8ZvZgo3u6|309783",
   song: "song/the-piano-guys-beethovens-5-secrets",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys",
+      discNumber: 1,
+      position: 4,
+      externalId: "7xPQY7skgsujvvVyoE5lBi",
+      externalLink: "https://open.spotify.com/track/7xPQY7skgsujvvVyoE5lBi",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const sabrinaCarpenterEvolutionFeelsLikeLoneliness = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "feelslikeloneliness|74KM79TiuVKeVCqs8QtB0B|200573",
   song: "song/sabrina-carpenter-feels-like-loneliness",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-evolution",
+      discNumber: 1,
+      position: 2,
+      externalId: "0QTOY1FBKwC7jA33N8cLSi",
+      externalLink: "https://open.spotify.com/track/0QTOY1FBKwC7jA33N8cLSi",
+    },
+  ],
 } as const satisfies Track

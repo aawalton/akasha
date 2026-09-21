@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsYoullBeInM
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "youllbeinmyheart|6NWtt9pNOL2Gx7kBykdE5x|242200",
   song: "song/celtic-woman-youll-be-in-my-heart",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 11,
+      externalId: "1a3BkG3GWGFJfalsW7WTLM",
+      externalLink: "https://open.spotify.com/track/1a3BkG3GWGFJfalsW7WTLM",
+    },
+  ],
 } as const satisfies Track

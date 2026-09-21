@@ -33,4 +33,13 @@ export const coldplayWePrayJasleenRoyalVersionWePrayJasleenRoyalVersion = {
   trackKey:
     "weprayjasleenroyalversion|0jIWKlfmD4Ew7HeVVrq03g,3wcj11K77LjEY1PkEazffa,4gzpq5DPGxSnKTe4SA8HAU,6eXZu6O7nAUA5z6vLV8NKI,74OaRjmyh0XyRZsQQQ5l7c,7vXDAI8JwjW531ouMGbfcp|233406",
   song: "song/coldplay-we-pray",
+  carriedBy: [
+    {
+      release: "release/coldplay-we-pray-jasleen-royal-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "0TPWRwZqAvE3aqVuQx8CQm",
+      externalLink: "https://open.spotify.com/track/0TPWRwZqAvE3aqVuQx8CQm",
+    },
+  ],
 } as const satisfies Track

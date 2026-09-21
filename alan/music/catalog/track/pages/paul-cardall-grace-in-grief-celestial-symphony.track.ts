@@ -25,4 +25,13 @@ export const paulCardallGraceInGriefCelestialSymphony = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "celestialsymphony|7FQRbf8gbKw8KZQZAJWxH2|312875",
   song: "song/paul-cardall-celestial-symphony",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-grace-in-grief",
+      discNumber: 1,
+      position: 3,
+      externalId: "7hgDwWRa1M4Zb95eWGxZ5L",
+      externalLink: "https://open.spotify.com/track/7hgDwWRa1M4Zb95eWGxZ5L",
+    },
+  ],
 } as const satisfies Track

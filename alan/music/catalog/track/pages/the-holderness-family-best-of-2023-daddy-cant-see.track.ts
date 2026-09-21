@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2023DaddyCantSee = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "daddycantsee|6tITG4T8LpC0msapZ4wXGA|126888",
   song: "song/the-holderness-family-daddy-cant-see",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2023",
+      discNumber: 1,
+      position: 3,
+      externalId: "5iHpIoY6IjTnoqVTUpz27m",
+      externalLink: "https://open.spotify.com/track/5iHpIoY6IjTnoqVTUpz27m",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2CoversWichitaLineman = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "wichitalineman|0vn7UBvSQECKJm2817Yf1P|221226",
   song: "song/james-taylor-wichita-lineman",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 3,
+      externalId: "368v5JTGPeCAUtqoyZyBRY",
+      externalLink: "https://open.spotify.com/track/368v5JTGPeCAUtqoyZyBRY",
+    },
+  ],
 } as const satisfies Track

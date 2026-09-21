@@ -25,4 +25,13 @@ export const jamesTaylor2NeverDieYoungHomeByAnotherWay = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "homebyanotherway|0vn7UBvSQECKJm2817Yf1P|230800",
   song: "song/james-taylor-home-by-another-way",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-never-die-young",
+      discNumber: 1,
+      position: 8,
+      externalId: "1FcDdDUOtMyoljOkxNuYOr",
+      externalLink: "https://open.spotify.com/track/1FcDdDUOtMyoljOkxNuYOr",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayTheBlueRoomBiggerStronger = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "biggerstronger|4gzpq5DPGxSnKTe4SA8HAU|289133",
   song: "song/coldplay-bigger-stronger",
+  carriedBy: [
+    {
+      release: "release/coldplay-the-blue-room",
+      discNumber: 1,
+      position: 1,
+      externalId: "5DJtltTQQvcFhP65SFqKxq",
+      externalLink: "https://open.spotify.com/track/5DJtltTQQvcFhP65SFqKxq",
+    },
+  ],
 } as const satisfies Track

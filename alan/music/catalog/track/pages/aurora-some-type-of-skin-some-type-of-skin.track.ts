@@ -25,4 +25,13 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkin = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "sometypeofskin|1WgXqy2Dd70QQOU7Ay074N|192573",
   song: "song/aurora-some-type-of-skin",
+  carriedBy: [
+    {
+      release: "release/aurora-some-type-of-skin",
+      discNumber: 1,
+      position: 1,
+      externalId: "4dOsAea74AXaO3cOMhJ41f",
+      externalLink: "https://open.spotify.com/track/4dOsAea74AXaO3cOMhJ41f",
+    },
+  ],
 } as const satisfies Track

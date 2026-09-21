@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysRedeemerOfIsrael = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "redeemerofisrael|7FQRbf8gbKw8KZQZAJWxH2|137013",
   song: "song/paul-cardall-redeemer-of-israel",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 39,
+      externalId: "5jw3dVvxB0UA6mgB0Tb5q4",
+      externalLink: "https://open.spotify.com/track/5jw3dVvxB0UA6mgB0Tb5q4",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2SweetBabyJames2019RemasterAnywhereLikeHeaven2019Remaste
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "anywherelikeheaven2019remaster|0vn7UBvSQECKJm2817Yf1P|207226",
   song: "song/james-taylor-anywhere-like-heaven",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-sweet-baby-james-2019-remaster",
+      discNumber: 1,
+      position: 9,
+      externalId: "4G9b4sc68Sx0mIdEO59VMM",
+      externalLink: "https://open.spotify.com/track/4G9b4sc68Sx0mIdEO59VMM",
+    },
+  ],
 } as const satisfies Track

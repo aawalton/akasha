@@ -25,4 +25,13 @@ export const thePianoGuysSerenityRewriteTheStars = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "rewritethestars|0jW6R8CVyVohuUJVcuweDI|211533",
   song: "song/the-piano-guys-rewrite-the-stars",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-serenity",
+      discNumber: 1,
+      position: 4,
+      externalId: "3wliVjxGl2X28AQ6h1udXW",
+      externalLink: "https://open.spotify.com/track/3wliVjxGl2X28AQ6h1udXW",
+    },
+  ],
 } as const satisfies Track

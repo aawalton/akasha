@@ -25,4 +25,13 @@ export const sabrinaCarpenterEyesWideOpenBestThingIGot = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "bestthingigot|74KM79TiuVKeVCqs8QtB0B|199280",
   song: "song/sabrina-carpenter-best-thing-i-got",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-eyes-wide-open",
+      discNumber: 1,
+      position: 12,
+      externalId: "66g4mn8jSks0Hu1zEcc81G",
+      externalLink: "https://open.spotify.com/track/66g4mn8jSks0Hu1zEcc81G",
+    },
+  ],
 } as const satisfies Track

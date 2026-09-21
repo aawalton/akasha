@@ -28,4 +28,13 @@ export const paulCardallTheBrokenMiracleChange = {
   ],
   trackKey: "change|2MA2dqcGvuj6b7lZwppAb6,7FQRbf8gbKw8KZQZAJWxH2|299146",
   song: "song/paul-cardall-change",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 11,
+      externalId: "4rz27o0e5okXItB0XFrfGY",
+      externalLink: "https://open.spotify.com/track/4rz27o0e5okXItB0XFrfGY",
+    },
+  ],
 } as const satisfies Track

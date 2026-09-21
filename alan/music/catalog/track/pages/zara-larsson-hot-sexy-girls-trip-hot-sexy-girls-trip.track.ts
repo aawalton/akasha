@@ -28,4 +28,13 @@ export const zaraLarssonHotSexyGirlsTripHotSexyGirlsTrip = {
   ],
   trackKey: "hotsexygirlstrip|1Xylc3o4UrD53lo9CvFvVg,3SozjO3Lat463tQICI9LcE|206118",
   song: "song/zara-larsson-hot-sexy-girls-trip",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-hot-sexy-girls-trip",
+      discNumber: 1,
+      position: 1,
+      externalId: "56XRMsd36CU26THxIrVRJG",
+      externalLink: "https://open.spotify.com/track/56XRMsd36CU26THxIrVRJG",
+    },
+  ],
 } as const satisfies Track

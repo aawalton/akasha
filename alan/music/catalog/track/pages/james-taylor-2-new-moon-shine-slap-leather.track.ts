@@ -25,4 +25,13 @@ export const jamesTaylor2NewMoonShineSlapLeather = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "slapleather|0vn7UBvSQECKJm2817Yf1P|117866",
   song: "song/james-taylor-slap-leather",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-new-moon-shine",
+      discNumber: 1,
+      position: 6,
+      externalId: "5pxaiDJQNRoZrT3uEbGMOD",
+      externalLink: "https://open.spotify.com/track/5pxaiDJQNRoZrT3uEbGMOD",
+    },
+  ],
 } as const satisfies Track

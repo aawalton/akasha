@@ -28,4 +28,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "yesandinstrumental|66CXWjxzNUsdJxJ2JdwvnR|214994",
     song: "song/ariana-grande-yes-and",
+    carriedBy: [
+      {
+        release:
+          "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+        discNumber: 1,
+        position: 28,
+        externalId: "1UEdCLsd7JSYpyNGUFbvY2",
+        externalLink: "https://open.spotify.com/track/1UEdCLsd7JSYpyNGUFbvY2",
+      },
+    ],
   } as const satisfies Track

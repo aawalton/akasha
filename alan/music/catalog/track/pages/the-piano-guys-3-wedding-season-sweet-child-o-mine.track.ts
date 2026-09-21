@@ -25,4 +25,13 @@ export const thePianoGuys3WeddingSeasonSweetChildOMine = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "sweetchildomine|0jW6R8CVyVohuUJVcuweDI|259750",
   song: "song/the-piano-guys-sweet-child-o-mine",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 19,
+      externalId: "4UgC41unZZbIlLTCGtChqX",
+      externalLink: "https://open.spotify.com/track/4UgC41unZZbIlLTCGtChqX",
+    },
+  ],
 } as const satisfies Track

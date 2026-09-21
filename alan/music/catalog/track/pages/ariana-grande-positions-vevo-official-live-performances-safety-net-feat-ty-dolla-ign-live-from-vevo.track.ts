@@ -30,4 +30,13 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesSafetyNetFeatTyDol
     trackKey:
       "safetynetfeattydollaignlivefromvevo|66CXWjxzNUsdJxJ2JdwvnR,7c0XG5cIJTrrAgEC3ULPiq|211921",
     song: "song/ariana-grande-safety-net",
+    carriedBy: [
+      {
+        release: "release/ariana-grande-positions-vevo-official-live-performances",
+        discNumber: 1,
+        position: 3,
+        externalId: "2RDVgpDvzwDLEZXCOmgy4J",
+        externalLink: "https://open.spotify.com/track/2RDVgpDvzwDLEZXCOmgy4J",
+      },
+    ],
   } as const satisfies Track

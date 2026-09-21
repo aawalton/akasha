@@ -25,4 +25,13 @@ export const paulCardallAncestorsMountainMeadows = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "mountainmeadows|7FQRbf8gbKw8KZQZAJWxH2|268080",
   song: "song/paul-cardall-mountain-meadows",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ancestors",
+      discNumber: 1,
+      position: 7,
+      externalId: "7CCB6ro1J0M2slGILexluE",
+      externalLink: "https://open.spotify.com/track/7CCB6ro1J0M2slGILexluE",
+    },
+  ],
 } as const satisfies Track

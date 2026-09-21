@@ -25,4 +25,13 @@ export const chaislynUnreliableNarratorMandelaEffect = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "mandelaeffect|3zmbniiciaBAJlSX1Bzq9R|169416",
   song: "song/chaislyn-mandela-effect",
+  carriedBy: [
+    {
+      release: "release/chaislyn-unreliable-narrator",
+      discNumber: 1,
+      position: 3,
+      externalId: "2uy5dgGrxlwxofUuV9VeAd",
+      externalLink: "https://open.spotify.com/track/2uy5dgGrxlwxofUuV9VeAd",
+    },
+  ],
 } as const satisfies Track

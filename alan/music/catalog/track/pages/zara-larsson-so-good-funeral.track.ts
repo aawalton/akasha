@@ -25,4 +25,13 @@ export const zaraLarssonSoGoodFuneral = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "funeral|1Xylc3o4UrD53lo9CvFvVg|215640",
   song: "song/zara-larsson-funeral",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 13,
+      externalId: "75gU1E0ou9Kf8GBVwGs1Xk",
+      externalLink: "https://open.spotify.com/track/75gU1E0ou9Kf8GBVwGs1Xk",
+    },
+  ],
 } as const satisfies Track

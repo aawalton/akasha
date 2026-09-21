@@ -25,4 +25,13 @@ export const paulCardallChasingCrownsBeBornInMe = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "beborninme|7FQRbf8gbKw8KZQZAJWxH2|217000",
   song: "song/paul-cardall-be-born-in-me",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chasing-crowns",
+      discNumber: 1,
+      position: 12,
+      externalId: "3wg10xhrSRKJ9R6e9UY5Pj",
+      externalLink: "https://open.spotify.com/track/3wg10xhrSRKJ9R6e9UY5Pj",
+    },
+  ],
 } as const satisfies Track

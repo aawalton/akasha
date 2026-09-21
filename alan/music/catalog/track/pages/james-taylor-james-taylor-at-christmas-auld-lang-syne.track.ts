@@ -25,4 +25,13 @@ export const jamesTaylorJamesTaylorAtChristmasAuldLangSyne = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "auldlangsyne|0vn7UBvSQECKJm2817Yf1P|216760",
   song: "song/james-taylor-auld-lang-syne",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 12,
+      externalId: "0kxQeYiUnr68WfKoFccZsL",
+      externalLink: "https://open.spotify.com/track/0kxQeYiUnr68WfKoFccZsL",
+    },
+  ],
 } as const satisfies Track

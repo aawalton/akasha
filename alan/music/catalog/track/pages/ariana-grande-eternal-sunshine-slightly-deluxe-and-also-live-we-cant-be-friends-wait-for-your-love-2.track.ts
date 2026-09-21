@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveWeCantBeFriends
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "wecantbefriendswaitforyourloveliveversion|66CXWjxzNUsdJxJ2JdwvnR|204069",
   song: "song/ariana-grande-we-can-t-be-friends-wait-for-your-love",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 23,
+      externalId: "5ozhji2Nka62WG9XnjcKvN",
+      externalLink: "https://open.spotify.com/track/5ozhji2Nka62WG9XnjcKvN",
+    },
+  ],
 } as const satisfies Track

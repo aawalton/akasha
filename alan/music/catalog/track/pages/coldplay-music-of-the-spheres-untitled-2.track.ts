@@ -25,4 +25,13 @@ export const coldplayMusicOfTheSpheresUntitled2 = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "|4gzpq5DPGxSnKTe4SA8HAU|53033",
   song: "song/coldplay-untitled-4",
+  carriedBy: [
+    {
+      release: "release/coldplay-music-of-the-spheres",
+      discNumber: 1,
+      position: 4,
+      externalId: "1danObd53GynoY83wRz3Ua",
+      externalLink: "https://open.spotify.com/track/1danObd53GynoY83wRz3Ua",
+    },
+  ],
 } as const satisfies Track

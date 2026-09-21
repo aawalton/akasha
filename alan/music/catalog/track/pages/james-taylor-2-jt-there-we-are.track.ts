@@ -25,4 +25,13 @@ export const jamesTaylor2JtThereWeAre = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thereweare|0vn7UBvSQECKJm2817Yf1P|180883",
   song: "song/james-taylor-there-we-are",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-jt",
+      discNumber: 1,
+      position: 2,
+      externalId: "0riYVboaeTLyxByQccC80s",
+      externalLink: "https://open.spotify.com/track/0riYVboaeTLyxByQccC80s",
+    },
+  ],
 } as const satisfies Track

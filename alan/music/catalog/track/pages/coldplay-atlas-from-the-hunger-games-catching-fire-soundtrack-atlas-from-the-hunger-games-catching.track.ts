@@ -26,4 +26,13 @@ export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrackAtlasFromTheHu
     trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
     trackKey: "atlasfromthehungergamescatchingfiresoundtrack|4gzpq5DPGxSnKTe4SA8HAU|236093",
     song: "song/coldplay-atlas-from-the-hunger-games-catching-fire-soundtrack",
+    carriedBy: [
+      {
+        release: "release/coldplay-atlas-from-the-hunger-games-catching-fire-soundtrack",
+        discNumber: 1,
+        position: 1,
+        externalId: "2DI0fZ4QZmLtapszYaoG6F",
+        externalLink: "https://open.spotify.com/track/2DI0fZ4QZmLtapszYaoG6F",
+      },
+    ],
   } as const satisfies Track

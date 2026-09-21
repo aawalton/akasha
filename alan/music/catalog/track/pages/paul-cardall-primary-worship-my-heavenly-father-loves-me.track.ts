@@ -25,4 +25,13 @@ export const paulCardallPrimaryWorshipMyHeavenlyFatherLovesMe = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "myheavenlyfatherlovesme|7FQRbf8gbKw8KZQZAJWxH2|302146",
   song: "song/paul-cardall-my-heavenly-father-loves-me",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-primary-worship",
+      discNumber: 1,
+      position: 6,
+      externalId: "3QoatG0uXnkS9TeazMyHlH",
+      externalLink: "https://open.spotify.com/track/3QoatG0uXnkS9TeazMyHlH",
+    },
+  ],
 } as const satisfies Track

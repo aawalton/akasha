@@ -25,4 +25,13 @@ export const paulCardallSacredPianoUnseenWorld = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "unseenworld|7FQRbf8gbKw8KZQZAJWxH2|391400",
   song: "song/paul-cardall-unseen-world",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-sacred-piano",
+      discNumber: 1,
+      position: 1,
+      externalId: "6FNBOe4NKxqcJPFQ4YhGor",
+      externalLink: "https://open.spotify.com/track/6FNBOe4NKxqcJPFQ4YhGor",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3PopOnPianoPerfect = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "perfect|0jW6R8CVyVohuUJVcuweDI|308500",
   song: "song/the-piano-guys-perfect",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-pop-on-piano",
+      discNumber: 1,
+      position: 13,
+      externalId: "7sflRilNpQtJr7LKbFImet",
+      externalLink: "https://open.spotify.com/track/7sflRilNpQtJr7LKbFImet",
+    },
+  ],
 } as const satisfies Track

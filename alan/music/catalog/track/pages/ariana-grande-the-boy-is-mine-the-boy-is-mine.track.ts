@@ -25,4 +25,13 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMine = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "theboyismine|66CXWjxzNUsdJxJ2JdwvnR|173639",
   song: "song/ariana-grande-the-boy-is-mine",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-the-boy-is-mine",
+      discNumber: 1,
+      position: 1,
+      externalId: "38JweSPC9JTirnqgFOchCM",
+      externalLink: "https://open.spotify.com/track/38JweSPC9JTirnqgFOchCM",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInsideOutr
   ],
   trackKey: "allissoftinsideoutro|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|54000",
   song: "song/aurora-all-is-soft-inside-outro",
+  carriedBy: [
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 8,
+      externalId: "0OkDj7EUtZ60T2vMAR0gjZ",
+      externalLink: "https://open.spotify.com/track/0OkDj7EUtZ60T2vMAR0gjZ",
+    },
+  ],
 } as const satisfies Track

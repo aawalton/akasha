@@ -25,4 +25,13 @@ export const vinnyMarchiRidingWavesRidingWaves = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "ridingwaves|5USAMqcbMAzF3HBmeD5pJF|168671",
   song: "song/vinny-marchi-riding-waves",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-riding-waves",
+      discNumber: 1,
+      position: 1,
+      externalId: "2BWukQpMZk2o1TOLEqq8VB",
+      externalLink: "https://open.spotify.com/track/2BWukQpMZk2o1TOLEqq8VB",
+    },
+  ],
 } as const satisfies Track

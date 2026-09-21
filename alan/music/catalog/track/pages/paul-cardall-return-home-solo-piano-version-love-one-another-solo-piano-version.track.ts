@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionLoveOneAnotherSoloPianoVersion
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "loveoneanothersolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|242000",
   song: "song/paul-cardall-love-one-another",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 3,
+      externalId: "6a23gUikVqQVIEKHIxO8Aw",
+      externalLink: "https://open.spotify.com/track/6a23gUikVqQVIEKHIxO8Aw",
+    },
+  ],
 } as const satisfies Track

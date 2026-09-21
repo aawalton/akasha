@@ -25,4 +25,13 @@ export const arianaGrandeChristmasKissesLastChristmas = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "lastchristmas|66CXWjxzNUsdJxJ2JdwvnR|203653",
   song: "song/taylor-swift-last-christmas",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-christmas-kisses",
+      discNumber: 1,
+      position: 1,
+      externalId: "5xDrO9DEDJGUQGfyoHvgDJ",
+      externalLink: "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ",
+    },
+  ],
 } as const satisfies Track

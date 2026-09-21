@@ -25,4 +25,13 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterYouCanCloseYou
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youcancloseyoureyes2019remaster|0vn7UBvSQECKJm2817Yf1P|149263",
   song: "song/james-taylor-you-can-close-your-eyes",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster",
+      discNumber: 1,
+      position: 8,
+      externalId: "2cNELi1hzt3eWwYHYkJKub",
+      externalLink: "https://open.spotify.com/track/2cNELi1hzt3eWwYHYkJKub",
+    },
+  ],
 } as const satisfies Track

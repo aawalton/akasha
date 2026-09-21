@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandShowerThePeopleLiveAtTheColonialTheatre2007 =
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "showerthepeopleliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|296373",
   song: "song/james-taylor-shower-the-people",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 14,
+      externalId: "1LK8aN7MNr2vau6yyOWEC5",
+      externalLink: "https://open.spotify.com/track/1LK8aN7MNr2vau6yyOWEC5",
+    },
+  ],
 } as const satisfies Track

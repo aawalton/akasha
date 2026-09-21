@@ -25,4 +25,13 @@ export const sabrinaCarpenterEyesWideOpenCantBlameAGirlForTrying = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "cantblameagirlfortrying|74KM79TiuVKeVCqs8QtB0B|169306",
   song: "song/sabrina-carpenter-cant-blame-a-girl-for-trying",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-eyes-wide-open",
+      discNumber: 1,
+      position: 2,
+      externalId: "5K7fGxZQB0K5sPKhLe9e07",
+      externalLink: "https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07",
+    },
+  ],
 } as const satisfies Track

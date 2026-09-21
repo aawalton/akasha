@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMayItBe = 
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "mayitbe|6NWtt9pNOL2Gx7kBykdE5x|228240",
   song: "song/celtic-woman-may-it-be",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 12,
+      externalId: "7AsWhzj5nIlWTlOMdzBM5B",
+      externalLink: "https://open.spotify.com/track/7AsWhzj5nIlWTlOMdzBM5B",
+    },
+  ],
 } as const satisfies Track

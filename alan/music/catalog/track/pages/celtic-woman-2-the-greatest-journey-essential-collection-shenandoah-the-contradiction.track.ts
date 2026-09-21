@@ -25,4 +25,13 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionShenandoahTheContr
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "shenandoahthecontradiction|6NWtt9pNOL2Gx7kBykdE5x|242369",
   song: "song/celtic-woman-shenandoah-the-contradiction",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-greatest-journey-essential-collection",
+      discNumber: 1,
+      position: 9,
+      externalId: "4RGO5V94jxXC7cUwGZN7wg",
+      externalLink: "https://open.spotify.com/track/4RGO5V94jxXC7cUwGZN7wg",
+    },
+  ],
 } as const satisfies Track

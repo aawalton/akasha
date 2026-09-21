@@ -25,4 +25,13 @@ export const coldplayTheHardestPartHowYouSeeTheWorldLiveFromEarlsCourt = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "howyouseetheworldlivefromearlscourt|4gzpq5DPGxSnKTe4SA8HAU|256626",
   song: "song/coldplay-how-you-see-the-world",
+  carriedBy: [
+    {
+      release: "release/coldplay-the-hardest-part",
+      discNumber: 1,
+      position: 2,
+      externalId: "0hCYORw7uzYRXdrZ88vN2t",
+      externalLink: "https://open.spotify.com/track/0hCYORw7uzYRXdrZ88vN2t",
+    },
+  ],
 } as const satisfies Track

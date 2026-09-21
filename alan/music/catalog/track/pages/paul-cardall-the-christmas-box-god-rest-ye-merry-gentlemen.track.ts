@@ -25,4 +25,13 @@ export const paulCardallTheChristmasBoxGodRestYeMerryGentlemen = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godrestyemerrygentlemen|7FQRbf8gbKw8KZQZAJWxH2|141173",
   song: "song/paul-cardall-god-rest-ye-merry-gentlemen",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-christmas-box",
+      discNumber: 1,
+      position: 15,
+      externalId: "5MnwEK433rqNFJ8gh1x90V",
+      externalLink: "https://open.spotify.com/track/5MnwEK433rqNFJ8gh1x90V",
+    },
+  ],
 } as const satisfies Track

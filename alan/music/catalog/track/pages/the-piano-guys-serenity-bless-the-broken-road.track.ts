@@ -28,4 +28,13 @@ export const thePianoGuysSerenityBlessTheBrokenRoad = {
   ],
   trackKey: "blessthebrokenroad|0jW6R8CVyVohuUJVcuweDI,2YQ4MY2VwOMv43C0GemUY5|235440",
   song: "song/the-piano-guys-bless-the-broken-road",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-serenity",
+      discNumber: 1,
+      position: 7,
+      externalId: "1Ihys8VEEtMJ5L12E82GHq",
+      externalLink: "https://open.spotify.com/track/1Ihys8VEEtMJ5L12E82GHq",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const arianaGrandePetalWarningSignsInterlude = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "warningsignsinterlude|66CXWjxzNUsdJxJ2JdwvnR|77342",
   song: "song/ariana-grande-warning-signs-interlude",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-petal",
+      discNumber: 1,
+      position: 8,
+      externalId: "0cJRr7kw5FkV5e8ejEB2j6",
+      externalLink: "https://open.spotify.com/track/0cJRr7kw5FkV5e8ejEB2j6",
+    },
+  ],
 } as const satisfies Track

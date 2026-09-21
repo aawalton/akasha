@@ -28,4 +28,13 @@ export const coldplayPrincessOfChinaPrincessOfChinaInvisibleMenRemix = {
   ],
   trackKey: "princessofchinainvisiblemenremix|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|226626",
   song: "song/coldplay-princess-of-china",
+  carriedBy: [
+    {
+      release: "release/coldplay-princess-of-china",
+      discNumber: 1,
+      position: 2,
+      externalId: "2f3XEVeU7g6vZgK2BmyIg8",
+      externalLink: "https://open.spotify.com/track/2f3XEVeU7g6vZgK2BmyIg8",
+    },
+  ],
 } as const satisfies Track

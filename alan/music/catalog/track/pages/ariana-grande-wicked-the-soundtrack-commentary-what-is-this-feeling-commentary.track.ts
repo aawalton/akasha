@@ -28,4 +28,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeelingCommentar
   ],
   trackKey: "whatisthisfeelingcommentary|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|55463",
   song: "song/ariana-grande-what-is-this-feeling-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 8,
+      externalId: "1PI2oZgPiJoyPsTKED1YVD",
+      externalLink: "https://open.spotify.com/track/1PI2oZgPiJoyPsTKED1YVD",
+    },
+  ],
 } as const satisfies Track

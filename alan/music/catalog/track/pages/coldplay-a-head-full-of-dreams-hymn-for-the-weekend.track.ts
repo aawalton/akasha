@@ -25,4 +25,13 @@ export const coldplayAHeadFullOfDreamsHymnForTheWeekend = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "hymnfortheweekend|4gzpq5DPGxSnKTe4SA8HAU|258266",
   song: "song/coldplay-hymn-for-the-weekend",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-head-full-of-dreams",
+      discNumber: 1,
+      position: 3,
+      externalId: "3RiPr603aXAoi4GHyXx0uy",
+      externalLink: "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy",
+    },
+  ],
 } as const satisfies Track

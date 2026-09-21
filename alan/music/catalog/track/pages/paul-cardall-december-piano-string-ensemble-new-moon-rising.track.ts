@@ -25,4 +25,13 @@ export const paulCardallDecemberPianoStringEnsembleNewMoonRising = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "newmoonrising|7FQRbf8gbKw8KZQZAJWxH2|217293",
   song: "song/paul-cardall-new-moon-rising",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-december-piano-string-ensemble",
+      discNumber: 1,
+      position: 3,
+      externalId: "1q07To1TuNfMYxVfFPW7TV",
+      externalLink: "https://open.spotify.com/track/1q07To1TuNfMYxVfFPW7TV",
+    },
+  ],
 } as const satisfies Track

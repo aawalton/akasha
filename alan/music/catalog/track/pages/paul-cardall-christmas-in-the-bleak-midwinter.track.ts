@@ -28,4 +28,13 @@ export const paulCardallChristmasInTheBleakMidwinter = {
   ],
   trackKey: "inthebleakmidwinter|1GKYNY4rIPnOuTfC0J1IWw,7FQRbf8gbKw8KZQZAJWxH2|280132",
   song: "song/paul-cardall-in-the-bleak-midwinter",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas",
+      discNumber: 1,
+      position: 2,
+      externalId: "3WzsXVs2coPBkiLw3RqAGN",
+      externalLink: "https://open.spotify.com/track/3WzsXVs2coPBkiLw3RqAGN",
+    },
+  ],
 } as const satisfies Track

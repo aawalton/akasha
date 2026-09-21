@@ -25,4 +25,13 @@ export const arianaGrandeThankUNextGhostin = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "ghostin|66CXWjxzNUsdJxJ2JdwvnR|271466",
   song: "song/ariana-grande-ghostin",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-thank-u-next",
+      discNumber: 1,
+      position: 8,
+      externalId: "2vdBo4ALPYbHRUPKgtE5iC",
+      externalLink: "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC",
+    },
+  ],
 } as const satisfies Track

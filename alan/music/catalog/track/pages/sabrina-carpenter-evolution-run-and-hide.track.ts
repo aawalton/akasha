@@ -25,4 +25,13 @@ export const sabrinaCarpenterEvolutionRunAndHide = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "runandhide|74KM79TiuVKeVCqs8QtB0B|209640",
   song: "song/sabrina-carpenter-run-and-hide",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-evolution",
+      discNumber: 1,
+      position: 5,
+      externalId: "24fhYqs2KtWbHfY4Ngdf5U",
+      externalLink: "https://open.spotify.com/track/24fhYqs2KtWbHfY4Ngdf5U",
+    },
+  ],
 } as const satisfies Track

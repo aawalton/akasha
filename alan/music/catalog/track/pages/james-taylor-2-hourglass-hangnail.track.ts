@@ -25,4 +25,13 @@ export const jamesTaylor2HourglassHangnail = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "hangnail|0vn7UBvSQECKJm2817Yf1P|141333",
   song: "song/james-taylor-hangnail",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-hourglass",
+      discNumber: 1,
+      position: 13,
+      externalId: "7onpA2Bnovg4a2mhcbOrMf",
+      externalLink: "https://open.spotify.com/track/7onpA2Bnovg4a2mhcbOrMf",
+    },
+  ],
 } as const satisfies Track

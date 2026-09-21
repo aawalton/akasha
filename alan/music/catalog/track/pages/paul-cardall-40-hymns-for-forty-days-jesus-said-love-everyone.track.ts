@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysJesusSaidLoveEveryone = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesussaidloveeveryone|7FQRbf8gbKw8KZQZAJWxH2|158626",
   song: "song/paul-cardall-jesus-said-love-everyone",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 11,
+      externalId: "0DPCYcHiucUcV320481g42",
+      externalLink: "https://open.spotify.com/track/0DPCYcHiucUcV320481g42",
+    },
+  ],
 } as const satisfies Track

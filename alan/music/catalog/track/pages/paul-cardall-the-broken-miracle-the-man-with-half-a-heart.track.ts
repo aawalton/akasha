@@ -28,4 +28,13 @@ export const paulCardallTheBrokenMiracleTheManWithHalfAHeart = {
   ],
   trackKey: "themanwithhalfaheart|0Bvs8yPjrQSbmVIRqSg1Sp,7FQRbf8gbKw8KZQZAJWxH2|259385",
   song: "song/paul-cardall-the-man-with-half-a-heart",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 3,
+      externalId: "7Jx5SMT5AWkKm6n8ZIdheO",
+      externalLink: "https://open.spotify.com/track/7Jx5SMT5AWkKm6n8ZIdheO",
+    },
+  ],
 } as const satisfies Track

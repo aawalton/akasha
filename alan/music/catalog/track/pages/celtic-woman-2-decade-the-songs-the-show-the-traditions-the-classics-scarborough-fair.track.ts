@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsScarboroug
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "scarboroughfair|6NWtt9pNOL2Gx7kBykdE5x|197386",
   song: "song/celtic-woman-scarborough-fair",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 7,
+      externalId: "4zQG5FEPqMmpcfYpnV70gg",
+      externalLink: "https://open.spotify.com/track/4zQG5FEPqMmpcfYpnV70gg",
+    },
+  ],
 } as const satisfies Track

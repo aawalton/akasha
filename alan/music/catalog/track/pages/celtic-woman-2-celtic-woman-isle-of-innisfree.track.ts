@@ -25,4 +25,13 @@ export const celticWoman2CelticWomanIsleOfInnisfree = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "isleofinnisfree|6NWtt9pNOL2Gx7kBykdE5x|206466",
   song: "song/celtic-woman-isle-of-innisfree",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-celtic-woman",
+      discNumber: 1,
+      position: 3,
+      externalId: "1HKHNnDfN0jGMMl27Tmu9N",
+      externalLink: "https://open.spotify.com/track/1HKHNnDfN0jGMMl27Tmu9N",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2SweetBabyJames2019RemasterOhBabyDontYouLooseYourLipOnMe
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ohbabydontyoulooseyourliponme2019remaster|0vn7UBvSQECKJm2817Yf1P|109293",
   song: "song/james-taylor-oh-baby-dont-you-loose-your-lip-on-me",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-sweet-baby-james-2019-remaster",
+      discNumber: 1,
+      position: 10,
+      externalId: "3oIO9p1JREoHLDwLWOwYhN",
+      externalLink: "https://open.spotify.com/track/3oIO9p1JREoHLDwLWOwYhN",
+    },
+  ],
 } as const satisfies Track

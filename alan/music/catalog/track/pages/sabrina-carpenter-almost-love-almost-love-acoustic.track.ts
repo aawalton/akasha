@@ -25,4 +25,13 @@ export const sabrinaCarpenterAlmostLoveAlmostLoveAcoustic = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "almostloveacoustic|74KM79TiuVKeVCqs8QtB0B|227964",
   song: "song/sabrina-carpenter-almost-love",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-almost-love",
+      discNumber: 1,
+      position: 3,
+      externalId: "08qOK7vtuiypjql1M4dFnU",
+      externalLink: "https://open.spotify.com/track/08qOK7vtuiypjql1M4dFnU",
+    },
+  ],
 } as const satisfies Track

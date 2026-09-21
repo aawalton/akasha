@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2023IsSheAtTheGame = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "issheatthegame|6tITG4T8LpC0msapZ4wXGA|141480",
   song: "song/the-holderness-family-is-she-at-the-game",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2023",
+      discNumber: 1,
+      position: 4,
+      externalId: "4zxy3SfQBjg5YLkqit6eB8",
+      externalLink: "https://open.spotify.com/track/4zxy3SfQBjg5YLkqit6eB8",
+    },
+  ],
 } as const satisfies Track

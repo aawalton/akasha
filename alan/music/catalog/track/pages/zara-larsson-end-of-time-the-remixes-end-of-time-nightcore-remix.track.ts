@@ -25,4 +25,13 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeNightcoreRemix = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "endoftimenightcoreremix|1Xylc3o4UrD53lo9CvFvVg|195793",
   song: "song/zara-larsson-end-of-time",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-end-of-time-the-remixes",
+      discNumber: 1,
+      position: 4,
+      externalId: "742FLNTVra78jxqtu367bW",
+      externalLink: "https://open.spotify.com/track/742FLNTVra78jxqtu367bW",
+    },
+  ],
 } as const satisfies Track

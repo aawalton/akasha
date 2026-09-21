@@ -25,4 +25,13 @@ export const sabrinaCarpenterShortNSweetDeluxeCouldntMakeItAnyHarder = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "couldntmakeitanyharder|74KM79TiuVKeVCqs8QtB0B|179857",
   song: "song/sabrina-carpenter-couldnt-make-it-any-harder",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-short-n-sweet-deluxe",
+      discNumber: 1,
+      position: 15,
+      externalId: "5YwBaDW36fztKNnoiHQar3",
+      externalLink: "https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3",
+    },
+  ],
 } as const satisfies Track

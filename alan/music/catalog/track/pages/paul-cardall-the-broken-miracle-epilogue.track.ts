@@ -25,4 +25,13 @@ export const paulCardallTheBrokenMiracleEpilogue = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "epilogue|7FQRbf8gbKw8KZQZAJWxH2|86146",
   song: "song/paul-cardall-epilogue",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 19,
+      externalId: "2MN8n7m7cWwZqnRW2RxbWc",
+      externalLink: "https://open.spotify.com/track/2MN8n7m7cWwZqnRW2RxbWc",
+    },
+  ],
 } as const satisfies Track

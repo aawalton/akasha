@@ -25,4 +25,13 @@ export const thePianoGuysPianoFocusTheStoryteller = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thestoryteller|0jW6R8CVyVohuUJVcuweDI|280714",
   song: "song/the-piano-guys-the-storyteller",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 3,
+      externalId: "2JzswEgUwjTwkZ1ZqmDuti",
+      externalLink: "https://open.spotify.com/track/2JzswEgUwjTwkZ1ZqmDuti",
+    },
+  ],
 } as const satisfies Track

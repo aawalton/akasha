@@ -25,4 +25,13 @@ export const vinnyMarchiLeaveThisPartyLeaveThisParty = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "leavethisparty|5USAMqcbMAzF3HBmeD5pJF|239475",
   song: "song/vinny-marchi-leave-this-party",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-leave-this-party",
+      discNumber: 1,
+      position: 1,
+      externalId: "2knVmukUYh6iltBr9cvvBV",
+      externalLink: "https://open.spotify.com/track/2knVmukUYh6iltBr9cvvBV",
+    },
+  ],
 } as const satisfies Track

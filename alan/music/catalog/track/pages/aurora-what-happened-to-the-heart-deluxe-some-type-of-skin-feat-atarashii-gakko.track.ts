@@ -28,4 +28,13 @@ export const auroraWhatHappenedToTheHeartDeluxeSomeTypeOfSkinFeatAtarashiiGakko 
   ],
   trackKey: "sometypeofskinfeatatarashiigakko|1WgXqy2Dd70QQOU7Ay074N,4OfU76YhPU04wlmbVFFgTJ|216160",
   song: "song/aurora-some-type-of-skin",
+  carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart-deluxe",
+      discNumber: 1,
+      position: 21,
+      externalId: "6NRN8ZtyP4vs0n8nL46zrq",
+      externalLink: "https://open.spotify.com/track/6NRN8ZtyP4vs0n8nL46zrq",
+    },
+  ],
 } as const satisfies Track

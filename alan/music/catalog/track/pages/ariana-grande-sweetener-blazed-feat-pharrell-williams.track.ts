@@ -28,4 +28,13 @@ export const arianaGrandeSweetenerBlazedFeatPharrellWilliams = {
   ],
   trackKey: "blazedfeatpharrellwilliams|2RdwBSPQiwcmiDo9kixcl8,66CXWjxzNUsdJxJ2JdwvnR|196360",
   song: "song/ariana-grande-blazed",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-sweetener",
+      discNumber: 1,
+      position: 2,
+      externalId: "4mLkiFppf8Xvem6BSY34qw",
+      externalLink: "https://open.spotify.com/track/4mLkiFppf8Xvem6BSY34qw",
+    },
+  ],
 } as const satisfies Track

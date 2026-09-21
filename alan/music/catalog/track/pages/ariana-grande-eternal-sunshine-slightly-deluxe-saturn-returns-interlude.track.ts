@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeSaturnReturnsInterlude = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "saturnreturnsinterlude|66CXWjxzNUsdJxJ2JdwvnR|42166",
   song: "song/ariana-grande-saturn-returns-interlude",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+      discNumber: 1,
+      position: 4,
+      externalId: "0go0Gvkh1a57FMud7h1SXd",
+      externalLink: "https://open.spotify.com/track/0go0Gvkh1a57FMud7h1SXd",
+    },
+  ],
 } as const satisfies Track

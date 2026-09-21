@@ -25,4 +25,13 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLoveHasBrought
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "lovehasbroughtmearound2019remaster|0vn7UBvSQECKJm2817Yf1P|164933",
   song: "song/james-taylor-love-has-brought-me-around",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster",
+      discNumber: 1,
+      position: 1,
+      externalId: "3pBT9fBuv5xBPMS1itj6p9",
+      externalLink: "https://open.spotify.com/track/3pBT9fBuv5xBPMS1itj6p9",
+    },
+  ],
 } as const satisfies Track

@@ -30,4 +30,13 @@ export const coldplayMyUniverseGalantisRemixMyUniverseGalantisRemix = {
   trackKey:
     "myuniversegalantisremix|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU,4sTQVOfp9vEMCemLw50sbu|224908",
   song: "song/coldplay-my-universe",
+  carriedBy: [
+    {
+      release: "release/coldplay-my-universe-galantis-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1DlczmjByrS4qxRVfGjpqN",
+      externalLink: "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN",
+    },
+  ],
 } as const satisfies Track

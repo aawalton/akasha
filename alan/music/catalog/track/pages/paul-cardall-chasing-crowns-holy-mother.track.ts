@@ -25,4 +25,13 @@ export const paulCardallChasingCrownsHolyMother = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "holymother|7FQRbf8gbKw8KZQZAJWxH2|182640",
   song: "song/paul-cardall-holy-mother",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chasing-crowns",
+      discNumber: 1,
+      position: 11,
+      externalId: "6dDKGfHm1bePhGD5F2tbh3",
+      externalLink: "https://open.spotify.com/track/6dDKGfHm1bePhGD5F2tbh3",
+    },
+  ],
 } as const satisfies Track

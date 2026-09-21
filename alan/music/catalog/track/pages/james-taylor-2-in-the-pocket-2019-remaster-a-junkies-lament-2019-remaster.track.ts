@@ -25,4 +25,13 @@ export const jamesTaylor2InThePocket2019RemasterAJunkiesLament2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ajunkieslament2019remaster|0vn7UBvSQECKJm2817Yf1P|210426",
   song: "song/james-taylor-a-junkies-lament",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-in-the-pocket-2019-remaster",
+      discNumber: 1,
+      position: 2,
+      externalId: "6NEnkY2bw0TqowThQLsiAZ",
+      externalLink: "https://open.spotify.com/track/6NEnkY2bw0TqowThQLsiAZ",
+    },
+  ],
 } as const satisfies Track

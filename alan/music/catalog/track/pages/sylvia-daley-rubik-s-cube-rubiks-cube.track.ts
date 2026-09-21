@@ -25,4 +25,13 @@ export const sylviaDaleyRubikSCubeRubiksCube = {
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "rubikscube|03dXd2zBbBJvX60Oap8Lgo|152039",
   song: "song/sylvia-daley-rubiks-cube",
+  carriedBy: [
+    {
+      release: "release/sylvia-daley-rubik-s-cube",
+      discNumber: 1,
+      position: 1,
+      externalId: "1MMxAQ4nxkNdCzai0UdlPq",
+      externalLink: "https://open.spotify.com/track/1MMxAQ4nxkNdCzai0UdlPq",
+    },
+  ],
 } as const satisfies Track

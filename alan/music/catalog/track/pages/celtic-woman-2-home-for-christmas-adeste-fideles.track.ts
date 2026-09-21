@@ -25,4 +25,13 @@ export const celticWoman2HomeForChristmasAdesteFideles = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "adestefideles|6NWtt9pNOL2Gx7kBykdE5x|260120",
   song: "song/celtic-woman-adeste-fideles",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-home-for-christmas",
+      discNumber: 1,
+      position: 8,
+      externalId: "2Uy1mimDi2YYZMNyENsh02",
+      externalLink: "https://open.spotify.com/track/2Uy1mimDi2YYZMNyENsh02",
+    },
+  ],
 } as const satisfies Track

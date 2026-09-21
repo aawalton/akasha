@@ -25,4 +25,13 @@ export const thePianoGuysSerenityAThousandYears = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "athousandyears|0jW6R8CVyVohuUJVcuweDI|275973",
   song: "song/evynne-hollens-a-thousand-years",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-serenity",
+      discNumber: 1,
+      position: 12,
+      externalId: "4LqIdsI9UU5YJOJQCAqztR",
+      externalLink: "https://open.spotify.com/track/4LqIdsI9UU5YJOJQCAqztR",
+    },
+  ],
 } as const satisfies Track

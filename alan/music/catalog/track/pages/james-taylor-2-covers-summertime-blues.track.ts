@@ -25,4 +25,13 @@ export const jamesTaylor2CoversSummertimeBlues = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "summertimeblues|0vn7UBvSQECKJm2817Yf1P|159853",
   song: "song/james-taylor-summertime-blues",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 11,
+      externalId: "6m1Ff8NSiHXTa4YjOAesqE",
+      externalLink: "https://open.spotify.com/track/6m1Ff8NSiHXTa4YjOAesqE",
+    },
+  ],
 } as const satisfies Track

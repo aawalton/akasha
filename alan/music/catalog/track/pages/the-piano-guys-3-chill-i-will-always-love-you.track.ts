@@ -25,4 +25,13 @@ export const thePianoGuys3ChillIWillAlwaysLoveYou = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "iwillalwaysloveyou|0jW6R8CVyVohuUJVcuweDI|188450",
   song: "song/the-piano-guys-i-will-always-love-you",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-chill",
+      discNumber: 1,
+      position: 6,
+      externalId: "5qlnkOSg4oT0iCVNJQQqSU",
+      externalLink: "https://open.spotify.com/track/5qlnkOSg4oT0iCVNJQQqSU",
+    },
+  ],
 } as const satisfies Track

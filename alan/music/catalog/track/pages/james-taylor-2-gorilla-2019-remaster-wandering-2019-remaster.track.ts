@@ -25,4 +25,13 @@ export const jamesTaylor2Gorilla2019RemasterWandering2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "wandering2019remaster|0vn7UBvSQECKJm2817Yf1P|161160",
   song: "song/james-taylor-wandering",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-gorilla-2019-remaster",
+      discNumber: 1,
+      position: 4,
+      externalId: "6tdfq7Dpicx0kyDuvOfiVV",
+      externalLink: "https://open.spotify.com/track/6tdfq7Dpicx0kyDuvOfiVV",
+    },
+  ],
 } as const satisfies Track

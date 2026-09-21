@@ -25,4 +25,13 @@ export const paulCardallChristmasJesusOnceOfHumbleBirth = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesusonceofhumblebirth|7FQRbf8gbKw8KZQZAJWxH2|204352",
   song: "song/paul-cardall-jesus-once-of-humble-birth",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas",
+      discNumber: 1,
+      position: 4,
+      externalId: "760lIPYoI1ljcDtqpevslk",
+      externalLink: "https://open.spotify.com/track/760lIPYoI1ljcDtqpevslk",
+    },
+  ],
 } as const satisfies Track

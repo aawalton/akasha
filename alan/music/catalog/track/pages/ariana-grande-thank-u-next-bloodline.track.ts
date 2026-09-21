@@ -25,4 +25,13 @@ export const arianaGrandeThankUNextBloodline = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "bloodline|66CXWjxzNUsdJxJ2JdwvnR|216893",
   song: "song/ariana-grande-bloodline",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-thank-u-next",
+      discNumber: 1,
+      position: 4,
+      externalId: "2hloaUoRonYssMuqLCBLTX",
+      externalLink: "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX",
+    },
+  ],
 } as const satisfies Track

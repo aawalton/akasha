@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarGreatIsThyFaithfullness = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "greatisthyfaithfullness|7FQRbf8gbKw8KZQZAJWxH2|174875",
   song: "song/paul-cardall-great-is-thy-faithfullness",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 25,
+      externalId: "5t4BcjcZdJuYQEfBvBehha",
+      externalLink: "https://open.spotify.com/track/5t4BcjcZdJuYQEfBvBehha",
+    },
+  ],
 } as const satisfies Track

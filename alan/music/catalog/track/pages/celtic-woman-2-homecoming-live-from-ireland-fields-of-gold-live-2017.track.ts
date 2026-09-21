@@ -25,4 +25,13 @@ export const celticWoman2HomecomingLiveFromIrelandFieldsOfGoldLive2017 = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "fieldsofgoldlive2017|6NWtt9pNOL2Gx7kBykdE5x|223369",
   song: "song/celtic-woman-fields-of-gold",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-homecoming-live-from-ireland",
+      discNumber: 1,
+      position: 8,
+      externalId: "0isJbwU1OkjsMLvJvxFExF",
+      externalLink: "https://open.spotify.com/track/0isJbwU1OkjsMLvJvxFExF",
+    },
+  ],
 } as const satisfies Track

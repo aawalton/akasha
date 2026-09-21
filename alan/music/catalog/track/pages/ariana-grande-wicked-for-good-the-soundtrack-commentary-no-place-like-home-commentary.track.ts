@@ -25,4 +25,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoPlaceLikeHomeComm
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "noplacelikehomecommentary|46UMQ0cW8ToR8egkBRwAxZ|41861",
   song: "song/ariana-grande-no-place-like-home-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 6,
+      externalId: "7jCUml0R1F8TRi7dXyYoLc",
+      externalLink: "https://open.spotify.com/track/7jCUml0R1F8TRi7dXyYoLc",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoDanceOfTheForgotten = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "danceoftheforgotten|7FQRbf8gbKw8KZQZAJWxH2|184786",
   song: "song/paul-cardall-dance-of-the-forgotten",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 11,
+      externalId: "06C3k3I4a9Sdm49uOfPee9",
+      externalLink: "https://open.spotify.com/track/06C3k3I4a9Sdm49uOfPee9",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylorJamesTaylorAtChristmasSomeChildrenSeeHim = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "somechildrenseehim|0vn7UBvSQECKJm2817Yf1P|277480",
   song: "song/james-taylor-some-children-see-him",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 8,
+      externalId: "4zS3kmX48QjBtz8El0kNqk",
+      externalLink: "https://open.spotify.com/track/4zS3kmX48QjBtz8El0kNqk",
+    },
+  ],
 } as const satisfies Track

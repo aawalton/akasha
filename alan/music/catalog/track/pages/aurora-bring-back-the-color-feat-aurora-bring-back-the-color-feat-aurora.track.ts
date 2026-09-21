@@ -28,4 +28,13 @@ export const auroraBringBackTheColorFeatAuroraBringBackTheColorFeatAurora = {
   ],
   trackKey: "bringbackthecolorfeataurora|0jNDKefhfSbLR9sFvcPLHo,1WgXqy2Dd70QQOU7Ay074N|168545",
   song: "song/aurora-bring-back-the-color",
+  carriedBy: [
+    {
+      release: "release/aurora-bring-back-the-color-feat-aurora",
+      discNumber: 1,
+      position: 1,
+      externalId: "575i9kr1iypkCZyfJuoAlZ",
+      externalLink: "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ",
+    },
+  ],
 } as const satisfies Track

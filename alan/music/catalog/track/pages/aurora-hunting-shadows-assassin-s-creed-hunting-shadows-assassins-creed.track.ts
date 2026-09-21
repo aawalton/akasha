@@ -28,4 +28,13 @@ export const auroraHuntingShadowsAssassinSCreedHuntingShadowsAssassinsCreed = {
   ],
   trackKey: "huntingshadowsassassinscreed|1WgXqy2Dd70QQOU7Ay074N,5ct8AlcDgWMp4O25vbcjpC|176586",
   song: "song/aurora-hunting-shadows-assassins-creed",
+  carriedBy: [
+    {
+      release: "release/aurora-hunting-shadows-assassin-s-creed",
+      discNumber: 1,
+      position: 1,
+      externalId: "1aYGPbw7A1JKDuXyuSMQ4Z",
+      externalLink: "https://open.spotify.com/track/1aYGPbw7A1JKDuXyuSMQ4Z",
+    },
+  ],
 } as const satisfies Track

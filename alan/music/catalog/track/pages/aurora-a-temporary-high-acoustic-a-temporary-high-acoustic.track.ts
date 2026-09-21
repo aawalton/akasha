@@ -25,4 +25,13 @@ export const auroraATemporaryHighAcousticATemporaryHighAcoustic = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "atemporaryhighacoustic|1WgXqy2Dd70QQOU7Ay074N|169946",
   song: "song/aurora-a-temporary-high",
+  carriedBy: [
+    {
+      release: "release/aurora-a-temporary-high-acoustic",
+      discNumber: 1,
+      position: 1,
+      externalId: "0sxdMxtyQ3qImoSh1FqiL9",
+      externalLink: "https://open.spotify.com/track/0sxdMxtyQ3qImoSh1FqiL9",
+    },
+  ],
 } as const satisfies Track

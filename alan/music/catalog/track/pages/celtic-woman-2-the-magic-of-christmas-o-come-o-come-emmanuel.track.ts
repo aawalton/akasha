@@ -25,4 +25,13 @@ export const celticWoman2TheMagicOfChristmasOComeOComeEmmanuel = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "ocomeocomeemmanuel|6NWtt9pNOL2Gx7kBykdE5x|249053",
   song: "song/celtic-woman-o-come-o-come-emmanuel",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-magic-of-christmas",
+      discNumber: 1,
+      position: 5,
+      externalId: "3pm9tOzFF2lUKsvV52mnr0",
+      externalLink: "https://open.spotify.com/track/3pm9tOzFF2lUKsvV52mnr0",
+    },
+  ],
 } as const satisfies Track

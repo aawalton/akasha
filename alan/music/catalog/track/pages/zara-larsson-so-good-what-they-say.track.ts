@@ -25,4 +25,13 @@ export const zaraLarssonSoGoodWhatTheySay = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "whattheysay|1Xylc3o4UrD53lo9CvFvVg|218953",
   song: "song/zara-larsson-what-they-say",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 1,
+      externalId: "1TOiDnIY8HgPyDLSR08QXq",
+      externalLink: "https://open.spotify.com/track/1TOiDnIY8HgPyDLSR08QXq",
+    },
+  ],
 } as const satisfies Track

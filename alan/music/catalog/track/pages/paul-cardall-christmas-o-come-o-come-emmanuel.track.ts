@@ -25,4 +25,13 @@ export const paulCardallChristmasOComeOComeEmmanuel = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ocomeocomeemmanuel|7FQRbf8gbKw8KZQZAJWxH2|254772",
   song: "song/paul-cardall-o-come-o-come-emmanuel",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas",
+      discNumber: 1,
+      position: 3,
+      externalId: "0MAMeuBzELX6ydhBMg1eEO",
+      externalLink: "https://open.spotify.com/track/0MAMeuBzELX6ydhBMg1eEO",
+    },
+  ],
 } as const satisfies Track

@@ -29,4 +29,13 @@ export const auroraComeCloserPlease = {
   ],
   trackKey: "please|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|31000",
   song: "song/aurora-please",
+  carriedBy: [
+    {
+      release: "release/aurora-come-closer",
+      discNumber: 1,
+      position: 1,
+      externalId: "4kdiZfBFDWQXbDfMK51HDf",
+      externalLink: "https://open.spotify.com/track/4kdiZfBFDWQXbDfMK51HDf",
+    },
+  ],
 } as const satisfies Track

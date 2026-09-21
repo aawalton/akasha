@@ -28,4 +28,13 @@ export const sabrinaCarpenterSignOfTheTimesSignOfTheTimes = {
   ],
   trackKey: "signofthetimes|2TL8gYTNgD6nXkyuUdDrMg,74KM79TiuVKeVCqs8QtB0B|253269",
   song: "song/sabrina-carpenter-sign-of-the-times",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-sign-of-the-times",
+      discNumber: 1,
+      position: 1,
+      externalId: "3h0RJYaohnvXg5SmWD1dZF",
+      externalLink: "https://open.spotify.com/track/3h0RJYaohnvXg5SmWD1dZF",
+    },
+  ],
 } as const satisfies Track

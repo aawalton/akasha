@@ -28,4 +28,13 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenterYouNeedMeNowFeatSabrinaCar
   ],
   trackKey: "youneedmenowfeatsabrinacarpenter|3uwAm6vQy7kWPS2bciKWx9,74KM79TiuVKeVCqs8QtB0B|186377",
   song: "song/girl-in-red-you-need-me-now",
+  carriedBy: [
+    {
+      release: "release/girl-in-red-you-need-me-now-feat-sabrina-carpenter",
+      discNumber: 1,
+      position: 1,
+      externalId: "3zPGZBbZEGqu7eY7R0NkqI",
+      externalLink: "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const imagineDragonsLoomGodsDontPray = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "godsdontpray|53XhwfbYqKCa1cC15pYq2q|169893",
   song: "song/imagine-dragons-gods-don-t-pray",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-loom",
+      discNumber: 1,
+      position: 6,
+      externalId: "1QO4QjFDpibHdYoOlTGH6x",
+      externalLink: "https://open.spotify.com/track/1QO4QjFDpibHdYoOlTGH6x",
+    },
+  ],
 } as const satisfies Track

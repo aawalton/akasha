@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveImperfectForYou
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "imperfectforyouliveversion|66CXWjxzNUsdJxJ2JdwvnR|186201",
   song: "song/ariana-grande-imperfect-for-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 24,
+      externalId: "4nQLt9m4p0fLUMOogvV6ZN",
+      externalLink: "https://open.spotify.com/track/4nQLt9m4p0fLUMOogvV6ZN",
+    },
+  ],
 } as const satisfies Track

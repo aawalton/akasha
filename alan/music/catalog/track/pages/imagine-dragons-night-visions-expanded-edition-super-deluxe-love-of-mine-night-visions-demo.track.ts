@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeLoveOfMineNight
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "loveofminenightvisionsdemo|53XhwfbYqKCa1cC15pYq2q|249995",
   song: "song/imagine-dragons-love-of-mine",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 2,
+      position: 12,
+      externalId: "7I1y2CPR4JPc9jE87L8Goi",
+      externalLink: "https://open.spotify.com/track/7I1y2CPR4JPc9jE87L8Goi",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2BeforeThisWorldMontana = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "montana|0vn7UBvSQECKJm2817Yf1P|205520",
   song: "song/james-taylor-montana",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-before-this-world",
+      discNumber: 1,
+      position: 5,
+      externalId: "59ozpIwaP8CoDMpQwKdRLs",
+      externalLink: "https://open.spotify.com/track/59ozpIwaP8CoDMpQwKdRLs",
+    },
+  ],
 } as const satisfies Track

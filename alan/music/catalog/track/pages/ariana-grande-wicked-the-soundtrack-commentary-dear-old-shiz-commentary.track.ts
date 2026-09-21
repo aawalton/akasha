@@ -25,4 +25,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDearOldShizCommentary = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "dearoldshizcommentary|66CXWjxzNUsdJxJ2JdwvnR|41303",
   song: "song/ariana-grande-dear-old-shiz-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 4,
+      externalId: "6AVyPemIr495w204rKASwR",
+      externalLink: "https://open.spotify.com/track/6AVyPemIr495w204rKASwR",
+    },
+  ],
 } as const satisfies Track

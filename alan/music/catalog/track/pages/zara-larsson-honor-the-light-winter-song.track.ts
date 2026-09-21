@@ -25,4 +25,13 @@ export const zaraLarssonHonorTheLightWinterSong = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "wintersong|1Xylc3o4UrD53lo9CvFvVg|185066",
   song: "song/zara-larsson-winter-song",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-honor-the-light",
+      discNumber: 1,
+      position: 2,
+      externalId: "7b8X4P8McVS0RKAKhqtY1Y",
+      externalLink: "https://open.spotify.com/track/7b8X4P8McVS0RKAKhqtY1Y",
+    },
+  ],
 } as const satisfies Track

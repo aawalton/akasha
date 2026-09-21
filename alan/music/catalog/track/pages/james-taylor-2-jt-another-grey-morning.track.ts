@@ -25,4 +25,13 @@ export const jamesTaylor2JtAnotherGreyMorning = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "anothergreymorning|0vn7UBvSQECKJm2817Yf1P|164271",
   song: "song/james-taylor-another-grey-morning",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-jt",
+      discNumber: 1,
+      position: 4,
+      externalId: "3eC5kxXAJ24pVZQkdi8r6U",
+      externalLink: "https://open.spotify.com/track/3eC5kxXAJ24pVZQkdi8r6U",
+    },
+  ],
 } as const satisfies Track

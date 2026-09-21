@@ -29,4 +29,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionAlmostIsNeverEnoughWit
   trackKey:
     "almostisneverenoughwithnathansykes|2Rf4X6m0oayCJhaJ5K63GQ,66CXWjxzNUsdJxJ2JdwvnR|327775",
   song: "song/ariana-grande-almost-is-never-enough",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 10,
+      externalId: "1YGd0ZaBGQjOdApv3fpnow",
+      externalLink: "https://open.spotify.com/track/1YGd0ZaBGQjOdApv3fpnow",
+    },
+  ],
 } as const satisfies Track

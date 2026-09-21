@@ -28,4 +28,13 @@ export const auroraWhatHappenedToTheHeartMyNameFeatAneBrun = {
   ],
   trackKey: "mynamefeatanebrun|1WgXqy2Dd70QQOU7Ay074N,2L3kwZFd16zjHz9a5kEPAm|199586",
   song: "song/aurora-my-name",
+  carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 11,
+      externalId: "1CnkJJM3nMGhNMe5QQEv7e",
+      externalLink: "https://open.spotify.com/track/1CnkJJM3nMGhNMe5QQEv7e",
+    },
+  ],
 } as const satisfies Track

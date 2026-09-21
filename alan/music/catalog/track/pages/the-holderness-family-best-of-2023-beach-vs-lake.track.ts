@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2023BeachVsLake = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "beachvslake|6tITG4T8LpC0msapZ4wXGA|174048",
   song: "song/the-holderness-family-beach-vs-lake",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2023",
+      discNumber: 1,
+      position: 2,
+      externalId: "5uDBlfN8WCxV2mL01PSuoc",
+      externalLink: "https://open.spotify.com/track/5uDBlfN8WCxV2mL01PSuoc",
+    },
+  ],
 } as const satisfies Track

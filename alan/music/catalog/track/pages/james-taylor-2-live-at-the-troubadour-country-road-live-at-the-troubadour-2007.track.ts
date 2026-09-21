@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourCountryRoadLiveAtTheTroubadour2007 =
   trackKey:
     "countryroadliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|229026",
   song: "song/james-taylor-country-road",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 9,
+      externalId: "6WF8qmRCnjEMDugZPjJlPE",
+      externalLink: "https://open.spotify.com/track/6WF8qmRCnjEMDugZPjJlPE",
+    },
+  ],
 } as const satisfies Track

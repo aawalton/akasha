@@ -25,4 +25,13 @@ export const auroraForTheMetalPeopleAppleTree = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "appletree|1WgXqy2Dd70QQOU7Ay074N|188102",
   song: "song/aurora-apple-tree",
+  carriedBy: [
+    {
+      release: "release/aurora-for-the-metal-people",
+      discNumber: 1,
+      position: 6,
+      externalId: "6zwPdwW9HepDJBBCblybMC",
+      externalLink: "https://open.spotify.com/track/6zwPdwW9HepDJBBCblybMC",
+    },
+  ],
 } as const satisfies Track

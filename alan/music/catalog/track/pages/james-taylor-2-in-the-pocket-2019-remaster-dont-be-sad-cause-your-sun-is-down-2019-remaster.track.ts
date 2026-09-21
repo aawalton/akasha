@@ -25,4 +25,13 @@ export const jamesTaylor2InThePocket2019RemasterDontBeSadCauseYourSunIsDown2019R
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "dontbesadcauseyoursunisdown2019remaster|0vn7UBvSQECKJm2817Yf1P|209466",
   song: "song/james-taylor-dont-be-sad-cause-your-sun-is-down",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-in-the-pocket-2019-remaster",
+      discNumber: 1,
+      position: 9,
+      externalId: "1ZdTAagUKXRcgF9xx5dhs4",
+      externalLink: "https://open.spotify.com/track/1ZdTAagUKXRcgF9xx5dhs4",
+    },
+  ],
 } as const satisfies Track

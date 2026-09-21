@@ -28,4 +28,13 @@ export const coldplayMyUniverse2MyUniverse = {
   ],
   trackKey: "myuniverse|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU|228000",
   song: "song/coldplay-my-universe",
+  carriedBy: [
+    {
+      release: "release/coldplay-my-universe-2",
+      discNumber: 1,
+      position: 1,
+      externalId: "3FeVmId7tL5YN8B7R3imoM",
+      externalLink: "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM",
+    },
+  ],
 } as const satisfies Track

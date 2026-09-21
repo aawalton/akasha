@@ -25,4 +25,13 @@ export const celticWoman2VoicesOfAngelsATimeForUs = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "atimeforus|6NWtt9pNOL2Gx7kBykdE5x|241560",
   song: "song/celtic-woman-a-time-for-us",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-voices-of-angels",
+      discNumber: 1,
+      position: 11,
+      externalId: "6nx5LQp5d9Yh1Pf0NTDsE9",
+      externalLink: "https://open.spotify.com/track/6nx5LQp5d9Yh1Pf0NTDsE9",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2NewMoonShineIveGotToStopThinkinBoutThat = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ivegottostopthinkinboutthat|0vn7UBvSQECKJm2817Yf1P|239866",
   song: "song/james-taylor-ive-got-to-stop-thinkin-bout-that",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-new-moon-shine",
+      discNumber: 1,
+      position: 3,
+      externalId: "2i5hAQ1umHhu9ZEhie2XkJ",
+      externalLink: "https://open.spotify.com/track/2i5hAQ1umHhu9ZEhie2XkJ",
+    },
+  ],
 } as const satisfies Track

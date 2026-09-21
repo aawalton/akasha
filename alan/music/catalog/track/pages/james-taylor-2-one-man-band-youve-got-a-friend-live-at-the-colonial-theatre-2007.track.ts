@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandYouveGotAFriendLiveAtTheColonialTheatre2007 =
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youvegotafriendliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|301986",
   song: "song/james-taylor-youve-got-a-friend",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 9,
+      externalId: "2MDdot6YoIIvIC24EzOjQ7",
+      externalLink: "https://open.spotify.com/track/2MDdot6YoIIvIC24EzOjQ7",
+    },
+  ],
 } as const satisfies Track

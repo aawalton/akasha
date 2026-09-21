@@ -25,4 +25,13 @@ export const jamesTaylor2OtherCoversGetAJob = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "getajob|0vn7UBvSQECKJm2817Yf1P|248053",
   song: "song/james-taylor-get-a-job",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-other-covers",
+      discNumber: 1,
+      position: 2,
+      externalId: "6McHJCgsMfx0jWeMAeawyH",
+      externalLink: "https://open.spotify.com/track/6McHJCgsMfx0jWeMAeawyH",
+    },
+  ],
 } as const satisfies Track

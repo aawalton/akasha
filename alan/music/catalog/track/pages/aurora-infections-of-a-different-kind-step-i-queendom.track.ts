@@ -25,4 +25,13 @@ export const auroraInfectionsOfADifferentKindStepIQueendom = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "queendom|1WgXqy2Dd70QQOU7Ay074N|206640",
   song: "song/aurora-queendom",
+  carriedBy: [
+    {
+      release: "release/aurora-infections-of-a-different-kind-step-i",
+      discNumber: 1,
+      position: 1,
+      externalId: "3nXcufQxUfluhkX4rvMlGi",
+      externalLink: "https://open.spotify.com/track/3nXcufQxUfluhkX4rvMlGi",
+    },
+  ],
 } as const satisfies Track

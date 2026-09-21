@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveThatLonesomeRoad = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thatlonesomeroad|0vn7UBvSQECKJm2817Yf1P|166226",
   song: "song/james-taylor-that-lonesome-road",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 15,
+      externalId: "72Pnc2r7k6TA0SLzapYV2u",
+      externalLink: "https://open.spotify.com/track/72Pnc2r7k6TA0SLzapYV2u",
+    },
+  ],
 } as const satisfies Track

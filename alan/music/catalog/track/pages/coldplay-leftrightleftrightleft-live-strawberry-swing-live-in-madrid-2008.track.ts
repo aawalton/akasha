@@ -25,4 +25,13 @@ export const coldplayLeftrightleftrightleftLiveStrawberrySwingLiveInMadrid2008 =
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "strawberryswingliveinmadrid2008|4gzpq5DPGxSnKTe4SA8HAU|256440",
   song: "song/coldplay-strawberry-swing",
+  carriedBy: [
+    {
+      release: "release/coldplay-leftrightleftrightleft-live",
+      discNumber: 1,
+      position: 4,
+      externalId: "7jcMXBdTIXP1tf9cNXA4Mt",
+      externalLink: "https://open.spotify.com/track/7jcMXBdTIXP1tf9cNXA4Mt",
+    },
+  ],
 } as const satisfies Track

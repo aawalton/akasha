@@ -25,4 +25,13 @@ export const arianaGrandeOneLastTimeOneLastTime = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "onelasttime|66CXWjxzNUsdJxJ2JdwvnR|197278",
   song: "song/ariana-grande-one-last-time",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-one-last-time",
+      discNumber: 1,
+      position: 1,
+      externalId: "1043bXNgWDCWM2rhvieIh9",
+      externalLink: "https://open.spotify.com/track/1043bXNgWDCWM2rhvieIh9",
+    },
+  ],
 } as const satisfies Track

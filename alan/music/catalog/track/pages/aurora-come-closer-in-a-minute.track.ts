@@ -29,4 +29,13 @@ export const auroraComeCloserInAMinute = {
   ],
   trackKey: "inaminute|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|314253",
   song: "song/aurora-in-a-minute",
+  carriedBy: [
+    {
+      release: "release/aurora-come-closer",
+      discNumber: 1,
+      position: 12,
+      externalId: "3v37hY20GcvOr9NnldJIIO",
+      externalLink: "https://open.spotify.com/track/3v37hY20GcvOr9NnldJIIO",
+    },
+  ],
 } as const satisfies Track

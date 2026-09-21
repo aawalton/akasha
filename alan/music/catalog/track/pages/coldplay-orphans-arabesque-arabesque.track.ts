@@ -25,4 +25,13 @@ export const coldplayOrphansArabesqueArabesque = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "arabesque|4gzpq5DPGxSnKTe4SA8HAU|340280",
   song: "song/coldplay-arabesque",
+  carriedBy: [
+    {
+      release: "release/coldplay-orphans-arabesque",
+      discNumber: 1,
+      position: 2,
+      externalId: "2Z1HknKRrvUv5cheidF8Ag",
+      externalLink: "https://open.spotify.com/track/2Z1HknKRrvUv5cheidF8Ag",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylorJamesTaylorAtChristmasGoTellItOnTheMountain = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "gotellitonthemountain|0vn7UBvSQECKJm2817Yf1P|221413",
   song: "song/james-taylor-go-tell-it-on-the-mountain",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 2,
+      externalId: "7e2OOzTpgL4iRbd2C0XmdS",
+      externalLink: "https://open.spotify.com/track/7e2OOzTpgL4iRbd2C0XmdS",
+    },
+  ],
 } as const satisfies Track

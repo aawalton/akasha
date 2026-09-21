@@ -28,4 +28,13 @@ export const zaraLarssonMidnightSunGirlsTripCrushGirlsTrip = {
   ],
   trackKey: "crushgirlstrip|0phkgcpVchB7IJFJ7KcSP1,1Xylc3o4UrD53lo9CvFvVg|201146",
   song: "song/zara-larsson-crush-girls-trip",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-midnight-sun-girls-trip",
+      discNumber: 1,
+      position: 5,
+      externalId: "7GQf4BFganVt4GnLwdMztg",
+      externalLink: "https://open.spotify.com/track/7GQf4BFganVt4GnLwdMztg",
+    },
+  ],
 } as const satisfies Track

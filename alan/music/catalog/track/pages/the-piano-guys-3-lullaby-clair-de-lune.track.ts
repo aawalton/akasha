@@ -25,4 +25,13 @@ export const thePianoGuys3LullabyClairDeLune = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "clairdelune|0jW6R8CVyVohuUJVcuweDI|192481",
   song: "song/the-piano-guys-clair-de-lune",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-lullaby",
+      discNumber: 1,
+      position: 2,
+      externalId: "5rJxlS00sApDRlU20qKV8B",
+      externalLink: "https://open.spotify.com/track/5rJxlS00sApDRlU20qKV8B",
+    },
+  ],
 } as const satisfies Track

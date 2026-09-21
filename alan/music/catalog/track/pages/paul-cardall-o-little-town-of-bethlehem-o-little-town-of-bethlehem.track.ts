@@ -25,4 +25,13 @@ export const paulCardallOLittleTownOfBethlehemOLittleTownOfBethlehem = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "olittletownofbethlehem|7FQRbf8gbKw8KZQZAJWxH2|246511",
   song: "song/paul-cardall-o-little-town-of-bethlehem",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-o-little-town-of-bethlehem",
+      discNumber: 1,
+      position: 1,
+      externalId: "0ryvX7jOw6YLTAMp0QDUTe",
+      externalLink: "https://open.spotify.com/track/0ryvX7jOw6YLTAMp0QDUTe",
+    },
+  ],
 } as const satisfies Track

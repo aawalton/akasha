@@ -28,4 +28,13 @@ export const coldplayMidnightRemixesMidnightJonHopkinsRemix = {
   ],
   trackKey: "midnightjonhopkinsremix|4gzpq5DPGxSnKTe4SA8HAU,7yxi31szvlbwvKq9dYOmFI|605739",
   song: "song/coldplay-midnight",
+  carriedBy: [
+    {
+      release: "release/coldplay-midnight-remixes",
+      discNumber: 1,
+      position: 4,
+      externalId: "5PKa9j9Fqmu2qQZMCQxN0w",
+      externalLink: "https://open.spotify.com/track/5PKa9j9Fqmu2qQZMCQxN0w",
+    },
+  ],
 } as const satisfies Track

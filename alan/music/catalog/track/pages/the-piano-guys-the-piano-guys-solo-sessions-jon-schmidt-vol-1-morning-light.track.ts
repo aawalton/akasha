@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1MorningLight = {
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "morninglight|2YQ4MY2VwOMv43C0GemUY5|321776",
   song: "song/the-piano-guys-morning-light",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
+      discNumber: 1,
+      position: 3,
+      externalId: "6mDyhLTDhgZ0SL5o5BNMXc",
+      externalLink: "https://open.spotify.com/track/6mDyhLTDhgZ0SL5o5BNMXc",
+    },
+  ],
 } as const satisfies Track

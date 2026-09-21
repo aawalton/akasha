@@ -25,4 +25,13 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSongChildrenOfTheSkyAStarfi
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "childrenoftheskyastarfieldsong|53XhwfbYqKCa1cC15pYq2q|207611",
   song: "song/imagine-dragons-children-of-the-sky-a-starfield-song",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-children-of-the-sky-a-starfield-song",
+      discNumber: 1,
+      position: 1,
+      externalId: "1W7ughJhjRaANaAUcxTfnC",
+      externalLink: "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC",
+    },
+  ],
 } as const satisfies Track

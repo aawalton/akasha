@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe2000sMyMilkDuds = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "mymilkduds|6tITG4T8LpC0msapZ4wXGA|67320",
   song: "song/the-holderness-family-my-milk-duds",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-2000s",
+      discNumber: 1,
+      position: 5,
+      externalId: "05YUsvsElWNtUi22qCefPW",
+      externalLink: "https://open.spotify.com/track/05YUsvsElWNtUi22qCefPW",
+    },
+  ],
 } as const satisfies Track

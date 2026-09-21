@@ -25,4 +25,13 @@ export const coldplayASkyFullOfStars2AllYourFriends = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "allyourfriends|4gzpq5DPGxSnKTe4SA8HAU|211813",
   song: "song/coldplay-all-your-friends",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-sky-full-of-stars-2",
+      discNumber: 1,
+      position: 2,
+      externalId: "5RcZ84RmZ0TVTZQR3fWHoG",
+      externalLink: "https://open.spotify.com/track/5RcZ84RmZ0TVTZQR3fWHoG",
+    },
+  ],
 } as const satisfies Track

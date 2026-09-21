@@ -25,4 +25,13 @@ export const paulCardallTheLookingGlassAKissOfTheSunlight = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "akissofthesunlight|7FQRbf8gbKw8KZQZAJWxH2|228666",
   song: "song/paul-cardall-a-kiss-of-the-sunlight",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-looking-glass",
+      discNumber: 1,
+      position: 7,
+      externalId: "4ugj4jTTfq9hdSy61mzSEv",
+      externalLink: "https://open.spotify.com/track/4ugj4jTTfq9hdSy61mzSEv",
+    },
+  ],
 } as const satisfies Track

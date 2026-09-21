@@ -25,4 +25,13 @@ export const paulCardallSongsOfPraiseDeeper = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "deeper|7FQRbf8gbKw8KZQZAJWxH2|215053",
   song: "song/paul-cardall-deeper",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-songs-of-praise",
+      discNumber: 1,
+      position: 7,
+      externalId: "6tC5rqZb9iuIAxVS30HHAq",
+      externalLink: "https://open.spotify.com/track/6tC5rqZb9iuIAxVS30HHAq",
+    },
+  ],
 } as const satisfies Track

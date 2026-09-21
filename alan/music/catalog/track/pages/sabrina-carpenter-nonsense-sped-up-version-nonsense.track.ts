@@ -25,4 +25,13 @@ export const sabrinaCarpenterNonsenseSpedUpVersionNonsense = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "nonsense|74KM79TiuVKeVCqs8QtB0B|163648",
   song: "song/sabrina-carpenter-nonsense",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-nonsense-sped-up-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "3pbND1eOWU5LjVSdWWe8UF",
+      externalLink: "https://open.spotify.com/track/3pbND1eOWU5LjVSdWWe8UF",
+    },
+  ],
 } as const satisfies Track

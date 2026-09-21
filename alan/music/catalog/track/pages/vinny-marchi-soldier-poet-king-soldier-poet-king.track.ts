@@ -25,4 +25,13 @@ export const vinnyMarchiSoldierPoetKingSoldierPoetKing = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "soldierpoetking|5USAMqcbMAzF3HBmeD5pJF|168226",
   song: "song/vinny-marchi-soldier-poet-king",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-soldier-poet-king",
+      discNumber: 1,
+      position: 1,
+      externalId: "37LtlWBxtMrNLoAFJYIc23",
+      externalLink: "https://open.spotify.com/track/37LtlWBxtMrNLoAFJYIc23",
+    },
+  ],
 } as const satisfies Track

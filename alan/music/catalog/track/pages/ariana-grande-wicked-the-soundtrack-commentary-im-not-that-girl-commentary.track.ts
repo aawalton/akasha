@@ -28,4 +28,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirlCommentary = 
   ],
   trackKey: "imnotthatgirlcommentary|1e6BRnFiiwNZl04xu1yqmi,2NqTD8XByzWPCUQQmza0xP|73031",
   song: "song/ariana-grande-im-not-that-girl-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 16,
+      externalId: "45TCAYRwaDK3MS27W3yg5W",
+      externalLink: "https://open.spotify.com/track/45TCAYRwaDK3MS27W3yg5W",
+    },
+  ],
 } as const satisfies Track

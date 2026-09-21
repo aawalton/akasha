@@ -25,4 +25,13 @@ export const auroraAppleTreeGeorgiaRemixTheRiver = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theriver|1WgXqy2Dd70QQOU7Ay074N|217853",
   song: "song/aurora-the-river",
+  carriedBy: [
+    {
+      release: "release/aurora-apple-tree-georgia-remix",
+      discNumber: 1,
+      position: 3,
+      externalId: "5AoPD50ECugPNfyDBPhF4M",
+      externalLink: "https://open.spotify.com/track/5AoPD50ECugPNfyDBPhF4M",
+    },
+  ],
 } as const satisfies Track

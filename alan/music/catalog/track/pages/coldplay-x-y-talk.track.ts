@@ -25,4 +25,13 @@ export const coldplayXYTalk = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "talk|4gzpq5DPGxSnKTe4SA8HAU|311291",
   song: "song/coldplay-talk",
+  carriedBy: [
+    {
+      release: "release/coldplay-x-y",
+      discNumber: 1,
+      position: 5,
+      externalId: "4wzt5Rrk3W98pHXAqutuJw",
+      externalLink: "https://open.spotify.com/track/4wzt5Rrk3W98pHXAqutuJw",
+    },
+  ],
 } as const satisfies Track

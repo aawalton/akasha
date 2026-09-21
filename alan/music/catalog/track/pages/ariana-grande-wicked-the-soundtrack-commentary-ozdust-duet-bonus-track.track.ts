@@ -25,4 +25,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrack = {
   trackArtist: [{ externalId: "0bVjGR347nlhO79Z3i881P", artistName: "The Wicked Orchestra" }],
   trackKey: "ozdustduetbonustrack|0bVjGR347nlhO79Z3i881P|131863",
   song: "song/ariana-grande-ozdust-duet-bonus-track",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 25,
+      externalId: "3EvXAIsBTsyHu7mVcpgQNm",
+      externalLink: "https://open.spotify.com/track/3EvXAIsBTsyHu7mVcpgQNm",
+    },
+  ],
 } as const satisfies Track

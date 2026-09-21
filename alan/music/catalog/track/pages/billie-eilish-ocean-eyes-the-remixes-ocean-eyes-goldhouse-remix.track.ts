@@ -28,4 +28,13 @@ export const billieEilishOceanEyesTheRemixesOceanEyesGoldhouseRemix = {
   ],
   trackKey: "oceaneyesgoldhouseremix|670UISOh9XV1zlq5z5IfoY,6qqNVTkY8uBg9cP3Jd7DAH|213600",
   song: "song/billie-eilish-ocean-eyes",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-ocean-eyes-the-remixes",
+      discNumber: 1,
+      position: 3,
+      externalId: "1JbuC7uZm0P1PyX7N7gDEM",
+      externalLink: "https://open.spotify.com/track/1JbuC7uZm0P1PyX7N7gDEM",
+    },
+  ],
 } as const satisfies Track

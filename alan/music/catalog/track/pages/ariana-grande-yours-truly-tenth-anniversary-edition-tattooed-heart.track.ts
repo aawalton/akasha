@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeart = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "tattooedheart|66CXWjxzNUsdJxJ2JdwvnR|194707",
   song: "song/ariana-grande-tattooed-heart",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 4,
+      externalId: "4HBDccZgvC769vqQ2QHjji",
+      externalLink: "https://open.spotify.com/track/4HBDccZgvC769vqQ2QHjji",
+    },
+  ],
 } as const satisfies Track

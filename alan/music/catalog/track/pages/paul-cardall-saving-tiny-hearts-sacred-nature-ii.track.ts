@@ -25,4 +25,13 @@ export const paulCardallSavingTinyHeartsSacredNatureIi = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sacrednatureii|7FQRbf8gbKw8KZQZAJWxH2|236000",
   song: "song/paul-cardall-sacred-nature-ii",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-saving-tiny-hearts",
+      discNumber: 1,
+      position: 12,
+      externalId: "0TWchb60HAhwj0Gs5V60No",
+      externalLink: "https://open.spotify.com/track/0TWchb60HAhwj0Gs5V60No",
+    },
+  ],
 } as const satisfies Track

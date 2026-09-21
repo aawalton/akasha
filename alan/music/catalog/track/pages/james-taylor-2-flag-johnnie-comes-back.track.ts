@@ -25,4 +25,13 @@ export const jamesTaylor2FlagJohnnieComesBack = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "johnniecomesback|0vn7UBvSQECKJm2817Yf1P|234000",
   song: "song/james-taylor-johnnie-comes-back",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-flag",
+      discNumber: 1,
+      position: 2,
+      externalId: "0gRgLB1nTW0Yb9mgWQuvDn",
+      externalLink: "https://open.spotify.com/track/0gRgLB1nTW0Yb9mgWQuvDn",
+    },
+  ],
 } as const satisfies Track

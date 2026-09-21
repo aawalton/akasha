@@ -25,4 +25,13 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoAllTheGoodGirlsGoToHell =
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "allthegoodgirlsgotohell|6qqNVTkY8uBg9cP3Jd7DAH|168839",
   song: "song/billie-eilish-all-the-good-girls-go-to-hell",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-when-we-all-fall-asleep-where-do-we-go",
+      discNumber: 1,
+      position: 5,
+      externalId: "6IRdLKIyS4p7XNiP8r6rsx",
+      externalLink: "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx",
+    },
+  ],
 } as const satisfies Track

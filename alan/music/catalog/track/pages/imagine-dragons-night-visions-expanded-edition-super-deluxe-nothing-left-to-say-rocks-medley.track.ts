@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeNothingLeftToSa
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "nothinglefttosayrocksmedley|53XhwfbYqKCa1cC15pYq2q|539506",
   song: "song/imagine-dragons-nothing-left-to-say-rocks-medley",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 1,
+      position: 11,
+      externalId: "3yFptysXs0OS6N6brZLAaC",
+      externalLink: "https://open.spotify.com/track/3yFptysXs0OS6N6brZLAaC",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallNewLifeSweetIsTheWork = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweetisthework|7FQRbf8gbKw8KZQZAJWxH2|91853",
   song: "song/paul-cardall-sweet-is-the-work",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-new-life",
+      discNumber: 1,
+      position: 12,
+      externalId: "5T7c86PLe0GaySMXJAk0b2",
+      externalLink: "https://open.spotify.com/track/5T7c86PLe0GaySMXJAk0b2",
+    },
+  ],
 } as const satisfies Track

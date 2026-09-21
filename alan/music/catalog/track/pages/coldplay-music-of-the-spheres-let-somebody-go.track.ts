@@ -28,4 +28,13 @@ export const coldplayMusicOfTheSpheresLetSomebodyGo = {
   ],
   trackKey: "letsomebodygo|0C8ZW7ezQVs4URX5aX7Kqx,4gzpq5DPGxSnKTe4SA8HAU|241595",
   song: "song/coldplay-let-somebody-go",
+  carriedBy: [
+    {
+      release: "release/coldplay-music-of-the-spheres",
+      discNumber: 1,
+      position: 5,
+      externalId: "4cGqn0E8JCSY9gQllQj4Mf",
+      externalLink: "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf",
+    },
+  ],
 } as const satisfies Track

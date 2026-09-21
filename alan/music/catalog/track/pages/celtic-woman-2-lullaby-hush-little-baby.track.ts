@@ -28,4 +28,13 @@ export const celticWoman2LullabyHushLittleBaby = {
   ],
   trackKey: "hushlittlebaby|4VdV1ro3dBSsu1cRGwbFD3,6NWtt9pNOL2Gx7kBykdE5x|50173",
   song: "song/celtic-woman-hush-little-baby",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-lullaby",
+      discNumber: 1,
+      position: 10,
+      externalId: "25AkNO6z4a2pQ3Uy4rKvA7",
+      externalLink: "https://open.spotify.com/track/25AkNO6z4a2pQ3Uy4rKvA7",
+    },
+  ],
 } as const satisfies Track

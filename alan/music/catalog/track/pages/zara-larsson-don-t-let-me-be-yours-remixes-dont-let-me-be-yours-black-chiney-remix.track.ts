@@ -28,4 +28,13 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursBlackChineyRemix 
   ],
   trackKey: "dontletmebeyoursblackchineyremix|1Xylc3o4UrD53lo9CvFvVg,3sKnxPwlgaR3gWa8Cz4WrE|205777",
   song: "song/zara-larsson-don-t-let-me-be-yours",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-don-t-let-me-be-yours-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "0vbrGWBa1l1laD8Qd0XnqY",
+      externalLink: "https://open.spotify.com/track/0vbrGWBa1l1laD8Qd0XnqY",
+    },
+  ],
 } as const satisfies Track

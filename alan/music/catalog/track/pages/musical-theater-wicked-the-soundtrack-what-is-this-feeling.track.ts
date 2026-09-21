@@ -28,4 +28,13 @@ export const musicalTheaterWickedTheSoundtrackWhatIsThisFeeling = {
   ],
   trackKey: "whatisthisfeeling|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|228947",
   song: "song/ariana-grande-what-is-this-feeling",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 4,
+      externalId: "7eGuPhpdS8sBjPJNuAShUX",
+      externalLink: "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX",
+    },
+  ],
 } as const satisfies Track

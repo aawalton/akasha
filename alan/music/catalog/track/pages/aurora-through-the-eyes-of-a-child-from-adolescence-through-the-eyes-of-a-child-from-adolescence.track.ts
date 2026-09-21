@@ -25,4 +25,13 @@ export const auroraThroughTheEyesOfAChildFromAdolescenceThroughTheEyesOfAChildFr
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "throughtheeyesofachildfromadolescence|1WgXqy2Dd70QQOU7Ay074N|274413",
   song: "song/aurora-through-the-eyes-of-a-child-from-adolescence",
+  carriedBy: [
+    {
+      release: "release/aurora-through-the-eyes-of-a-child-from-adolescence",
+      discNumber: 1,
+      position: 1,
+      externalId: "1k97wN3j5X9fUleZOSTAoY",
+      externalLink: "https://open.spotify.com/track/1k97wN3j5X9fUleZOSTAoY",
+    },
+  ],
 } as const satisfies Track

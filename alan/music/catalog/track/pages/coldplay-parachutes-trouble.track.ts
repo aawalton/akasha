@@ -25,4 +25,13 @@ export const coldplayParachutesTrouble = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "trouble|4gzpq5DPGxSnKTe4SA8HAU|273426",
   song: "song/coldplay-trouble",
+  carriedBy: [
+    {
+      release: "release/coldplay-parachutes",
+      discNumber: 1,
+      position: 6,
+      externalId: "0R8P9KfGJCDULmlEoBagcO",
+      externalLink: "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO",
+    },
+  ],
 } as const satisfies Track

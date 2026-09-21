@@ -25,4 +25,13 @@ export const thePianoGuys3ChillAbrahamLincolnTribute = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "abrahamlincolntribute|0jW6R8CVyVohuUJVcuweDI|274682",
   song: "song/the-piano-guys-abraham-lincoln-tribute",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-chill",
+      discNumber: 1,
+      position: 8,
+      externalId: "2ahakOtTjLhMkHU3nRqkmV",
+      externalLink: "https://open.spotify.com/track/2ahakOtTjLhMkHU3nRqkmV",
+    },
+  ],
 } as const satisfies Track

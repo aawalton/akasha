@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysSweetHourOfPrayer = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweethourofprayer|7FQRbf8gbKw8KZQZAJWxH2|256413",
   song: "song/paul-cardall-sweet-hour-of-prayer",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 4,
+      externalId: "5zlD1ahAJnKSO1Fp419PWl",
+      externalLink: "https://open.spotify.com/track/5zlD1ahAJnKSO1Fp419PWl",
+    },
+  ],
 } as const satisfies Track

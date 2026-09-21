@@ -25,4 +25,13 @@ export const vinnyMarchiLifelineLifeline = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lifeline|5USAMqcbMAzF3HBmeD5pJF|204286",
   song: "song/vinny-marchi-lifeline",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-lifeline",
+      discNumber: 1,
+      position: 1,
+      externalId: "5fXqQoYXs7VDmJCywveVet",
+      externalLink: "https://open.spotify.com/track/5fXqQoYXs7VDmJCywveVet",
+    },
+  ],
 } as const satisfies Track

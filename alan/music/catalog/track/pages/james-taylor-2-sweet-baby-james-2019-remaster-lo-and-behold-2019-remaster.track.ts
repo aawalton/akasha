@@ -25,4 +25,13 @@ export const jamesTaylor2SweetBabyJames2019RemasterLoAndBehold2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "loandbehold2019remaster|0vn7UBvSQECKJm2817Yf1P|158733",
   song: "song/james-taylor-lo-and-behold",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-sweet-baby-james-2019-remaster",
+      discNumber: 1,
+      position: 2,
+      externalId: "5VzGCjWLJtnfLzz8a6uHSS",
+      externalLink: "https://open.spotify.com/track/5VzGCjWLJtnfLzz8a6uHSS",
+    },
+  ],
 } as const satisfies Track

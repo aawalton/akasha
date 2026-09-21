@@ -25,4 +25,13 @@ export const coldplaySpotifySinglesDayNNiteSpotifySingles = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "daynnitespotifysingles|4gzpq5DPGxSnKTe4SA8HAU|258862",
   song: "song/coldplay-day-n-nite-spotify-singles",
+  carriedBy: [
+    {
+      release: "release/coldplay-spotify-singles",
+      discNumber: 1,
+      position: 2,
+      externalId: "6M0tj2hONdMEveSWg3JdQG",
+      externalLink: "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG",
+    },
+  ],
 } as const satisfies Track

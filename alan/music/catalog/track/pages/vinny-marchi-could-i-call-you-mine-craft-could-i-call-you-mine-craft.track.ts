@@ -25,4 +25,13 @@ export const vinnyMarchiCouldICallYouMineCraftCouldICallYouMineCraft = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "couldicallyouminecraft|5USAMqcbMAzF3HBmeD5pJF|189178",
   song: "song/vinny-marchi-could-i-call-you-mine",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-could-i-call-you-mine-craft",
+      discNumber: 1,
+      position: 1,
+      externalId: "15PicWRj00doMuDMZ9QHRU",
+      externalLink: "https://open.spotify.com/track/15PicWRj00doMuDMZ9QHRU",
+    },
+  ],
 } as const satisfies Track

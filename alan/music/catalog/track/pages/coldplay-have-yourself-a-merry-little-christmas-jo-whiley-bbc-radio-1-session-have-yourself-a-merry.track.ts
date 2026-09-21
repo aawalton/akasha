@@ -28,4 +28,14 @@ export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1SessionHa
   trackKey:
     "haveyourselfamerrylittlechristmasjowhileybbcradio1session|4gzpq5DPGxSnKTe4SA8HAU|139208",
   song: "song/coldplay-have-yourself-a-merry-little-christmas",
+  carriedBy: [
+    {
+      release:
+        "release/coldplay-have-yourself-a-merry-little-christmas-jo-whiley-bbc-radio-1-session",
+      discNumber: 1,
+      position: 1,
+      externalId: "4cLMJLCJS4tXQoH416h77P",
+      externalLink: "https://open.spotify.com/track/4cLMJLCJS4tXQoH416h77P",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarGabrielsOboe = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "gabrielsoboe|7FQRbf8gbKw8KZQZAJWxH2|153000",
   song: "song/paul-cardall-gabriels-oboe",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 33,
+      externalId: "4OA0vYJWu3WMa8Z12ex6ri",
+      externalLink: "https://open.spotify.com/track/4OA0vYJWu3WMa8Z12ex6ri",
+    },
+  ],
 } as const satisfies Track

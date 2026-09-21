@@ -25,4 +25,13 @@ export const jamesTaylor2NeverDieYoungTBone = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "tbone|0vn7UBvSQECKJm2817Yf1P|227666",
   song: "song/james-taylor-t-bone",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-never-die-young",
+      discNumber: 1,
+      position: 2,
+      externalId: "1GaH6RseIkZEnYVFYIIyGn",
+      externalLink: "https://open.spotify.com/track/1GaH6RseIkZEnYVFYIIyGn",
+    },
+  ],
 } as const satisfies Track

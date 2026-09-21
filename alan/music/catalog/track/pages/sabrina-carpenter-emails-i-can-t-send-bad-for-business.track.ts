@@ -25,4 +25,13 @@ export const sabrinaCarpenterEmailsICanTSendBadForBusiness = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "badforbusiness|74KM79TiuVKeVCqs8QtB0B|188337",
   song: "song/sabrina-carpenter-bad-for-business",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 12,
+      externalId: "38bbpkFcxgjupISR0K94UU",
+      externalLink: "https://open.spotify.com/track/38bbpkFcxgjupISR0K94UU",
+    },
+  ],
 } as const satisfies Track

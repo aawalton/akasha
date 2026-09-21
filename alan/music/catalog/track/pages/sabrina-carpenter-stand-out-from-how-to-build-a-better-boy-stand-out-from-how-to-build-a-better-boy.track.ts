@@ -25,4 +25,13 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoyStandOutFromHowToBu
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "standoutfromhowtobuildabetterboy|74KM79TiuVKeVCqs8QtB0B|208826",
   song: "song/sabrina-carpenter-stand-out-from-how-to-build-a-better-boy",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-stand-out-from-how-to-build-a-better-boy",
+      discNumber: 1,
+      position: 1,
+      externalId: "00OKDIsSQbx8rd5Al7fKNw",
+      externalLink: "https://open.spotify.com/track/00OKDIsSQbx8rd5Al7fKNw",
+    },
+  ],
 } as const satisfies Track

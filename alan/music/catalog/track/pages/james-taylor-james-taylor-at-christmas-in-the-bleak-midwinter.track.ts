@@ -25,4 +25,13 @@ export const jamesTaylorJamesTaylorAtChristmasInTheBleakMidwinter = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "inthebleakmidwinter|0vn7UBvSQECKJm2817Yf1P|250600",
   song: "song/james-taylor-in-the-bleak-midwinter",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 11,
+      externalId: "3cGF0agMmTUIXcvJf22YWb",
+      externalLink: "https://open.spotify.com/track/3cGF0agMmTUIXcvJf22YWb",
+    },
+  ],
 } as const satisfies Track

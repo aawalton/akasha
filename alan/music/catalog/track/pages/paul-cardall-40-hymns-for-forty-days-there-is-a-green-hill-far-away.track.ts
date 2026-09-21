@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysThereIsAGreenHillFarAway = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thereisagreenhillfaraway|7FQRbf8gbKw8KZQZAJWxH2|95773",
   song: "song/paul-cardall-there-is-a-green-hill-far-away",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 38,
+      externalId: "6fXrUEIvubp9wKFPvfHvtb",
+      externalLink: "https://open.spotify.com/track/6fXrUEIvubp9wKFPvfHvtb",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const paulCardallTheCelebrateLifeConcertLiveJerusalemLive = {
   ],
   trackKey: "jerusalemlive|0do1x1rbJllT74h9mwoB2U,7FQRbf8gbKw8KZQZAJWxH2|359654",
   song: "song/paul-cardall-jerusalem",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-celebrate-life-concert-live",
+      discNumber: 1,
+      position: 13,
+      externalId: "7emFfTaoWmPcJpRVxLpzk6",
+      externalLink: "https://open.spotify.com/track/7emFfTaoWmPcJpRVxLpzk6",
+    },
+  ],
 } as const satisfies Track

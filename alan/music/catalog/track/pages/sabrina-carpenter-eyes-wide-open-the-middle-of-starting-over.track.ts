@@ -25,4 +25,13 @@ export const sabrinaCarpenterEyesWideOpenTheMiddleOfStartingOver = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "themiddleofstartingover|74KM79TiuVKeVCqs8QtB0B|212760",
   song: "song/sabrina-carpenter-the-middle-of-starting-over",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-eyes-wide-open",
+      discNumber: 1,
+      position: 3,
+      externalId: "5wX5skuafFdeF31vpM6Krl",
+      externalLink: "https://open.spotify.com/track/5wX5skuafFdeF31vpM6Krl",
+    },
+  ],
 } as const satisfies Track

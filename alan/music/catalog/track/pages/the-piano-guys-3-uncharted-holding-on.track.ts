@@ -25,4 +25,13 @@ export const thePianoGuys3UnchartedHoldingOn = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "holdingon|0jW6R8CVyVohuUJVcuweDI|206500",
   song: "song/the-piano-guys-holding-on",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 8,
+      externalId: "4NtdfercTqkeThHmZwMrtZ",
+      externalLink: "https://open.spotify.com/track/4NtdfercTqkeThHmZwMrtZ",
+    },
+  ],
 } as const satisfies Track

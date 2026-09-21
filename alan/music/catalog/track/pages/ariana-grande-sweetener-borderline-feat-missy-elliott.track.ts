@@ -28,4 +28,13 @@ export const arianaGrandeSweetenerBorderlineFeatMissyElliott = {
   ],
   trackKey: "borderlinefeatmissyelliott|2wIVse2owClT7go1WT98tk,66CXWjxzNUsdJxJ2JdwvnR|177533",
   song: "song/ariana-grande-borderline",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-sweetener",
+      discNumber: 1,
+      position: 11,
+      externalId: "4b7mLZQWsy0rLnrMtPA9fQ",
+      externalLink: "https://open.spotify.com/track/4b7mLZQWsy0rLnrMtPA9fQ",
+    },
+  ],
 } as const satisfies Track

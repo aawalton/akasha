@@ -25,4 +25,13 @@ export const coldplayEverydayLifeTroubleInTown = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "troubleintown|4gzpq5DPGxSnKTe4SA8HAU|278906",
   song: "song/coldplay-trouble-in-town",
+  carriedBy: [
+    {
+      release: "release/coldplay-everyday-life",
+      discNumber: 1,
+      position: 3,
+      externalId: "45PqOIkZ9PdCjsCJQYzx9G",
+      externalLink: "https://open.spotify.com/track/45PqOIkZ9PdCjsCJQYzx9G",
+    },
+  ],
 } as const satisfies Track

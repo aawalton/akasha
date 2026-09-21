@@ -25,4 +25,13 @@ export const paulCardallGraceInGriefBeThouMyVision = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bethoumyvision|7FQRbf8gbKw8KZQZAJWxH2|248500",
   song: "song/paul-cardall-be-thou-my-vision",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-grace-in-grief",
+      discNumber: 1,
+      position: 7,
+      externalId: "7waugxgzyhXxlwY7tOVKL4",
+      externalLink: "https://open.spotify.com/track/7waugxgzyhXxlwY7tOVKL4",
+    },
+  ],
 } as const satisfies Track

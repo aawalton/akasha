@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandCountryRoadLiveAtTheColonialTheatre2007 = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "countryroadliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|248746",
   song: "song/james-taylor-country-road",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 6,
+      externalId: "1JBLddQDxTFXCzJ0eMQlDz",
+      externalLink: "https://open.spotify.com/track/1JBLddQDxTFXCzJ0eMQlDz",
+    },
+  ],
 } as const satisfies Track

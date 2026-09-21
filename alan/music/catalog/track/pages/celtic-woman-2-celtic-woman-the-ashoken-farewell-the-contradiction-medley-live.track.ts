@@ -25,4 +25,13 @@ export const celticWoman2CelticWomanTheAshokenFarewellTheContradictionMedleyLive
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theashokenfarewellthecontradictionmedleylive|6NWtt9pNOL2Gx7kBykdE5x|250186",
   song: "song/celtic-woman-the-ashoken-farewell-the-contradiction",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-celtic-woman",
+      discNumber: 1,
+      position: 17,
+      externalId: "5aztSYUb1PkH6MfgnZSDhi",
+      externalLink: "https://open.spotify.com/track/5aztSYUb1PkH6MfgnZSDhi",
+    },
+  ],
 } as const satisfies Track

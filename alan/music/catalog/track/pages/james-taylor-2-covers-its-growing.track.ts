@@ -25,4 +25,13 @@ export const jamesTaylor2CoversItsGrowing = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "itsgrowing|0vn7UBvSQECKJm2817Yf1P|247893",
   song: "song/james-taylor-its-growing",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 1,
+      externalId: "68Qf4tPdL93soTR5wpcDGN",
+      externalLink: "https://open.spotify.com/track/68Qf4tPdL93soTR5wpcDGN",
+    },
+  ],
 } as const satisfies Track

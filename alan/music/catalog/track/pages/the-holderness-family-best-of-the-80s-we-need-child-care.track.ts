@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe80sWeNeedChildCare = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "weneedchildcare|6tITG4T8LpC0msapZ4wXGA|79020",
   song: "song/the-holderness-family-we-need-child-care",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-80s",
+      discNumber: 1,
+      position: 7,
+      externalId: "3ajuCyzHI97T4U3oDI6Yez",
+      externalLink: "https://open.spotify.com/track/3ajuCyzHI97T4U3oDI6Yez",
+    },
+  ],
 } as const satisfies Track

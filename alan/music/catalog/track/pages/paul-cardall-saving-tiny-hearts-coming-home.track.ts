@@ -25,4 +25,13 @@ export const paulCardallSavingTinyHeartsComingHome = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "cominghome|7FQRbf8gbKw8KZQZAJWxH2|125120",
   song: "song/paul-cardall-coming-home",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-saving-tiny-hearts",
+      discNumber: 1,
+      position: 7,
+      externalId: "63xHa6HYrRwNb2zNdSJwAf",
+      externalLink: "https://open.spotify.com/track/63xHa6HYrRwNb2zNdSJwAf",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiMyJollySailorBoldMyJollySailorBold = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "myjollysailorbold|5USAMqcbMAzF3HBmeD5pJF|216260",
   song: "song/vinny-marchi-my-jolly-sailor-bold",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-my-jolly-sailor-bold",
+      discNumber: 1,
+      position: 1,
+      externalId: "3GV5meKmvfxrcfJl4EErQc",
+      externalLink: "https://open.spotify.com/track/3GV5meKmvfxrcfJl4EErQc",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarAbideWithMeTisEventide = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "abidewithmetiseventide|7FQRbf8gbKw8KZQZAJWxH2|210261",
   song: "song/paul-cardall-abide-with-me-tis-eventide",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 7,
+      externalId: "3JHgSe1b5OMn3IoUp359Iw",
+      externalLink: "https://open.spotify.com/track/3JHgSe1b5OMn3IoUp359Iw",
+    },
+  ],
 } as const satisfies Track

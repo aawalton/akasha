@@ -25,4 +25,13 @@ export const paulCardallLiveDavesFarewellLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "davesfarewelllive|7FQRbf8gbKw8KZQZAJWxH2|215733",
   song: "song/paul-cardall-daves-farewell",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-live",
+      discNumber: 1,
+      position: 13,
+      externalId: "2ECRrUUmcf5yyxTPblqXEk",
+      externalLink: "https://open.spotify.com/track/2ECRrUUmcf5yyxTPblqXEk",
+    },
+  ],
 } as const satisfies Track

@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourFireAndRainLiveAtTheTroubadour2007 =
   trackKey:
     "fireandrainliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|344720",
   song: "song/james-taylor-fire-and-rain",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 10,
+      externalId: "1YrrJ55wVGkpgEds42meUC",
+      externalLink: "https://open.spotify.com/track/1YrrJ55wVGkpgEds42meUC",
+    },
+  ],
 } as const satisfies Track

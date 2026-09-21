@@ -25,4 +25,13 @@ export const paulCardallSignOfAffection10thAnniversaryGoneHome = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "gonehome|7FQRbf8gbKw8KZQZAJWxH2|151640",
   song: "song/paul-cardall-gone-home",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-sign-of-affection-10th-anniversary",
+      discNumber: 1,
+      position: 10,
+      externalId: "7fYLQizPh2T6EehACzOxue",
+      externalLink: "https://open.spotify.com/track/7fYLQizPh2T6EehACzOxue",
+    },
+  ],
 } as const satisfies Track

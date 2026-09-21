@@ -25,4 +25,13 @@ export const paulCardallChasingCrownsYouWereMade = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "youweremade|7FQRbf8gbKw8KZQZAJWxH2|191625",
   song: "song/paul-cardall-you-were-made",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chasing-crowns",
+      discNumber: 1,
+      position: 16,
+      externalId: "58yRNKsc60QuW7xZcQqnmg",
+      externalLink: "https://open.spotify.com/track/58yRNKsc60QuW7xZcQqnmg",
+    },
+  ],
 } as const satisfies Track

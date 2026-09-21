@@ -25,4 +25,13 @@ export const paulCardallLiveFragileLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fragilelive|7FQRbf8gbKw8KZQZAJWxH2|170346",
   song: "song/paul-cardall-fragile",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-live",
+      discNumber: 1,
+      position: 4,
+      externalId: "7pMcj48agTjNSkRqOTZJ7q",
+      externalLink: "https://open.spotify.com/track/7pMcj48agTjNSkRqOTZJ7q",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const billieEilishMyboiTroyboiRemixMyboiTroyboiRemix = {
   ],
   trackKey: "myboitroyboiremix|0tvpihdAsKiNnP6sWS3jUI,6qqNVTkY8uBg9cP3Jd7DAH|211304",
   song: "song/billie-eilish-myboi",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-myboi-troyboi-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1T3E8z6VMXSsACrBSQHTkN",
+      externalLink: "https://open.spotify.com/track/1T3E8z6VMXSsACrBSQHTkN",
+    },
+  ],
 } as const satisfies Track

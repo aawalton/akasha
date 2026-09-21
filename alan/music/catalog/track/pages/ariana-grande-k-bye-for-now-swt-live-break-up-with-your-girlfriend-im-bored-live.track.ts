@@ -25,4 +25,13 @@ export const arianaGrandeKByeForNowSwtLiveBreakUpWithYourGirlfriendImBoredLive =
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "breakupwithyourgirlfriendimboredlive|66CXWjxzNUsdJxJ2JdwvnR|223872",
   song: "song/ariana-grande-break-up-with-your-girlfriend-i-m-bored",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-k-bye-for-now-swt-live",
+      discNumber: 1,
+      position: 4,
+      externalId: "56feSEETtLwNjY5Xz8XbKI",
+      externalLink: "https://open.spotify.com/track/56feSEETtLwNjY5Xz8XbKI",
+    },
+  ],
 } as const satisfies Track

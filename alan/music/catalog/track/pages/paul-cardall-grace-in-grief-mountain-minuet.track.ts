@@ -25,4 +25,13 @@ export const paulCardallGraceInGriefMountainMinuet = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "mountainminuet|7FQRbf8gbKw8KZQZAJWxH2|245202",
   song: "song/paul-cardall-mountain-minuet",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-grace-in-grief",
+      discNumber: 1,
+      position: 2,
+      externalId: "3rZ6aWM8fHbt92NeWyckS7",
+      externalLink: "https://open.spotify.com/track/3rZ6aWM8fHbt92NeWyckS7",
+    },
+  ],
 } as const satisfies Track

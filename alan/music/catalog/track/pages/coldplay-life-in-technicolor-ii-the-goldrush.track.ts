@@ -25,4 +25,13 @@ export const coldplayLifeInTechnicolorIiTheGoldrush = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "thegoldrush|4gzpq5DPGxSnKTe4SA8HAU|149253",
   song: "song/coldplay-the-goldrush",
+  carriedBy: [
+    {
+      release: "release/coldplay-life-in-technicolor-ii",
+      discNumber: 1,
+      position: 3,
+      externalId: "7jWasg4ilKcOwcrGPI0CT1",
+      externalLink: "https://open.spotify.com/track/7jWasg4ilKcOwcrGPI0CT1",
+    },
+  ],
 } as const satisfies Track

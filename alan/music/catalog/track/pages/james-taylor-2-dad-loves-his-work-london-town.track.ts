@@ -25,4 +25,13 @@ export const jamesTaylor2DadLovesHisWorkLondonTown = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "londontown|0vn7UBvSQECKJm2817Yf1P|233933",
   song: "song/james-taylor-london-town",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-dad-loves-his-work",
+      discNumber: 1,
+      position: 10,
+      externalId: "1SPNhTQgsFuw6UavXrPcJS",
+      externalLink: "https://open.spotify.com/track/1SPNhTQgsFuw6UavXrPcJS",
+    },
+  ],
 } as const satisfies Track

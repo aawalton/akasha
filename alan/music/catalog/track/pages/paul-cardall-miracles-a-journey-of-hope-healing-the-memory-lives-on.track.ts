@@ -25,4 +25,13 @@ export const paulCardallMiraclesAJourneyOfHopeHealingTheMemoryLivesOn = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thememoryliveson|7FQRbf8gbKw8KZQZAJWxH2|251453",
   song: "song/paul-cardall-the-memory-lives-on",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-miracles-a-journey-of-hope-healing",
+      discNumber: 1,
+      position: 10,
+      externalId: "1lHlwZUnL3qHpL7Z82HDUz",
+      externalLink: "https://open.spotify.com/track/1lHlwZUnL3qHpL7Z82HDUz",
+    },
+  ],
 } as const satisfies Track

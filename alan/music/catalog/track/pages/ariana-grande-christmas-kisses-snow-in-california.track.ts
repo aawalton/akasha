@@ -25,4 +25,13 @@ export const arianaGrandeChristmasKissesSnowInCalifornia = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "snowincalifornia|66CXWjxzNUsdJxJ2JdwvnR|206373",
   song: "song/ariana-grande-snow-in-california",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-christmas-kisses",
+      discNumber: 1,
+      position: 3,
+      externalId: "6Uc4EHr3ktYmLfLDY7LifJ",
+      externalLink: "https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ",
+    },
+  ],
 } as const satisfies Track

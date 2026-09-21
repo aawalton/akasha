@@ -25,4 +25,13 @@ export const zaraLarssonMidnightSunGirlsTripGirlsGirl = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "girlsgirl|1Xylc3o4UrD53lo9CvFvVg|178241",
   song: "song/zara-larsson-girl-s-girl",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-midnight-sun-girls-trip",
+      discNumber: 2,
+      position: 4,
+      externalId: "0QKxuZ3TKrRlhLeEkhNdaH",
+      externalLink: "https://open.spotify.com/track/0QKxuZ3TKrRlhLeEkhNdaH",
+    },
+  ],
 } as const satisfies Track

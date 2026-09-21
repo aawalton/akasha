@@ -34,4 +34,13 @@ export const thePianoGuys3SoFarSoGoodBeethovens5Secrets = {
   trackKey:
     "beethovens5secrets|0jW6R8CVyVohuUJVcuweDI,0rUC7g0r3Q9pfNeeVioxzC,3ewlE33E3BBy5izrlsaR0G,6k7qMS96A3GiN8ZvZgo3u6|309666",
   song: "song/the-piano-guys-beethovens-5-secrets",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-so-far-so-good",
+      discNumber: 1,
+      position: 6,
+      externalId: "2USO0g3wAxT0wX3Be7w1TM",
+      externalLink: "https://open.spotify.com/track/2USO0g3wAxT0wX3Be7w1TM",
+    },
+  ],
 } as const satisfies Track

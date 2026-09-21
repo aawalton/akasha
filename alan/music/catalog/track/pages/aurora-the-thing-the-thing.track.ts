@@ -29,4 +29,13 @@ export const auroraTheThingTheThing = {
   ],
   trackKey: "thething|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|338120",
   song: "song/aurora-the-thing",
+  carriedBy: [
+    {
+      release: "release/aurora-the-thing",
+      discNumber: 1,
+      position: 1,
+      externalId: "43EE1xyVwIskJP13cJZJ6j",
+      externalLink: "https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3DonTYouWorryChildInstrumentalDontYouWorryChildInstrume
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "dontyouworrychildinstrumental|0jW6R8CVyVohuUJVcuweDI|243000",
   song: "song/the-piano-guys-dont-you-worry-child",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-don-t-you-worry-child-instrumental",
+      discNumber: 1,
+      position: 1,
+      externalId: "4eTP2iZTCyNEsBYVppRLWt",
+      externalLink: "https://open.spotify.com/track/4eTP2iZTCyNEsBYVppRLWt",
+    },
+  ],
 } as const satisfies Track

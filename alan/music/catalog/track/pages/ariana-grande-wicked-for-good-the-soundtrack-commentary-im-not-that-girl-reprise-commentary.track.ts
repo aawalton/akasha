@@ -28,4 +28,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryImNotThatGirlRepris
   ],
   trackKey: "imnotthatgirlreprisecommentary|66CXWjxzNUsdJxJ2JdwvnR,7daPb40K64rRtF36wd3ZOk|67448",
   song: "song/ariana-grande-im-not-that-girl-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 12,
+      externalId: "0PgjgNTWuLohrfadp5SJRW",
+      externalLink: "https://open.spotify.com/track/0PgjgNTWuLohrfadp5SJRW",
+    },
+  ],
 } as const satisfies Track

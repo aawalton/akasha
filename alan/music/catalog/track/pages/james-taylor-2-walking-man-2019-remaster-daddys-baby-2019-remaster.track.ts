@@ -25,4 +25,13 @@ export const jamesTaylor2WalkingMan2019RemasterDaddysBaby2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "daddysbaby2019remaster|0vn7UBvSQECKJm2817Yf1P|158493",
   song: "song/james-taylor-daddys-baby",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-walking-man-2019-remaster",
+      discNumber: 1,
+      position: 5,
+      externalId: "086iQBwuFsfXITwiBZpbIi",
+      externalLink: "https://open.spotify.com/track/086iQBwuFsfXITwiBZpbIi",
+    },
+  ],
 } as const satisfies Track

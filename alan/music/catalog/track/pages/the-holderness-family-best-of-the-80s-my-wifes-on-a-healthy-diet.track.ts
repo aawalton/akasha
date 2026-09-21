@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe80sMyWifesOnAHealthyDiet = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "mywifesonahealthydiet|6tITG4T8LpC0msapZ4wXGA|149786",
   song: "song/the-holderness-family-my-wifes-on-a-healthy-diet",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-80s",
+      discNumber: 1,
+      position: 5,
+      externalId: "51jUIXjfDoHvqMVRIRFlSu",
+      externalLink: "https://open.spotify.com/track/51jUIXjfDoHvqMVRIRFlSu",
+    },
+  ],
 } as const satisfies Track

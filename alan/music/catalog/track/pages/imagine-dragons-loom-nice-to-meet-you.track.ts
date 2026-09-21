@@ -25,4 +25,13 @@ export const imagineDragonsLoomNiceToMeetYou = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "nicetomeetyou|53XhwfbYqKCa1cC15pYq2q|190773",
   song: "song/imagine-dragons-nice-to-meet-you",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-loom",
+      discNumber: 1,
+      position: 2,
+      externalId: "6KmrCHbuNOsdoeDOpwetr7",
+      externalLink: "https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const coldplayAdventureOfALifetimeYottoRemixAdventureOfALifetimeYottoRemi
   ],
   trackKey: "adventureofalifetimeyottoremix|4gzpq5DPGxSnKTe4SA8HAU,5Dyfxq0ZrFjjeFBdSNxDbo|229867",
   song: "song/coldplay-adventure-of-a-lifetime",
+  carriedBy: [
+    {
+      release: "release/coldplay-adventure-of-a-lifetime-yotto-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "3ivkGuXGHASgnWz4bsj8Gs",
+      externalLink: "https://open.spotify.com/track/3ivkGuXGHASgnWz4bsj8Gs",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDeskChampionOfTheWorldLiveA
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "championoftheworldliveatnprstinydesk|4gzpq5DPGxSnKTe4SA8HAU|216333",
   song: "song/coldplay-champion-of-the-world",
+  carriedBy: [
+    {
+      release: "release/coldplay-champion-of-the-world-live-at-npr-s-tiny-desk",
+      discNumber: 1,
+      position: 1,
+      externalId: "46mtcgDcwjjcherBLHMWH3",
+      externalLink: "https://open.spotify.com/track/46mtcgDcwjjcherBLHMWH3",
+    },
+  ],
 } as const satisfies Track

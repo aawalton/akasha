@@ -25,4 +25,13 @@ export const vinnyMarchiWingsOfWaxWingsOfWax = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "wingsofwax|5USAMqcbMAzF3HBmeD5pJF|228914",
   song: "song/vinny-marchi-wings-of-wax",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-wings-of-wax",
+      discNumber: 1,
+      position: 1,
+      externalId: "1PDdKCwJ7dM8YTQOApRPUk",
+      externalLink: "https://open.spotify.com/track/1PDdKCwJ7dM8YTQOApRPUk",
+    },
+  ],
 } as const satisfies Track

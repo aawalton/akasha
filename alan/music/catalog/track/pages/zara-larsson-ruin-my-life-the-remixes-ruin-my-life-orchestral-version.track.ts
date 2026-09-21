@@ -25,4 +25,13 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeOrchestralVersion = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "ruinmylifeorchestralversion|1Xylc3o4UrD53lo9CvFvVg|283275",
   song: "song/zara-larsson-ruin-my-life",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-ruin-my-life-the-remixes",
+      discNumber: 1,
+      position: 5,
+      externalId: "6vvVOiNm48TGdmEtYqYqcz",
+      externalLink: "https://open.spotify.com/track/6vvVOiNm48TGdmEtYqYqcz",
+    },
+  ],
 } as const satisfies Track

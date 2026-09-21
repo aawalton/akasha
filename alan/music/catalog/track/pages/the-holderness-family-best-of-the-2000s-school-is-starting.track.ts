@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe2000sSchoolIsStarting = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "schoolisstarting|6tITG4T8LpC0msapZ4wXGA|106560",
   song: "song/the-holderness-family-school-is-starting",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-2000s",
+      discNumber: 1,
+      position: 1,
+      externalId: "3IxNnqjPHILvRUdAfM3e7J",
+      externalLink: "https://open.spotify.com/track/3IxNnqjPHILvRUdAfM3e7J",
+    },
+  ],
 } as const satisfies Track

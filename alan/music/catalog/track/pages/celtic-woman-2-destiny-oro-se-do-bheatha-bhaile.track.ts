@@ -25,4 +25,13 @@ export const celticWoman2DestinyOroSeDoBheathaBhaile = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "orosedobheathabhaile|6NWtt9pNOL2Gx7kBykdE5x|192580",
   song: "song/celtic-woman-oro-se-do-bheatha-bhaile",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-destiny",
+      discNumber: 1,
+      position: 9,
+      externalId: "38Q5JKMcmMZ0VTeklj1R6t",
+      externalLink: "https://open.spotify.com/track/38Q5JKMcmMZ0VTeklj1R6t",
+    },
+  ],
 } as const satisfies Track

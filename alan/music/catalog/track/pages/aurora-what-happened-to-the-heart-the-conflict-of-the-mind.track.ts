@@ -25,4 +25,13 @@ export const auroraWhatHappenedToTheHeartTheConflictOfTheMind = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theconflictofthemind|1WgXqy2Dd70QQOU7Ay074N|254613",
   song: "song/aurora-the-conflict-of-the-mind",
+  carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 4,
+      externalId: "0mwf9Wp3U2wENjzG5dk7cG",
+      externalLink: "https://open.spotify.com/track/0mwf9Wp3U2wENjzG5dk7cG",
+    },
+  ],
 } as const satisfies Track

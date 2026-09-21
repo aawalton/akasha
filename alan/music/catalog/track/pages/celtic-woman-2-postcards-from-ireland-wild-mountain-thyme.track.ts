@@ -25,4 +25,13 @@ export const celticWoman2PostcardsFromIrelandWildMountainThyme = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "wildmountainthyme|6NWtt9pNOL2Gx7kBykdE5x|236546",
   song: "song/celtic-woman-wild-mountain-thyme",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-postcards-from-ireland",
+      discNumber: 1,
+      position: 4,
+      externalId: "5F6wbEdCUtA35r93xRUhiZ",
+      externalLink: "https://open.spotify.com/track/5F6wbEdCUtA35r93xRUhiZ",
+    },
+  ],
 } as const satisfies Track

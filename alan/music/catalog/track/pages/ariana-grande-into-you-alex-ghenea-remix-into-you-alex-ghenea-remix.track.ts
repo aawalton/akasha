@@ -30,4 +30,13 @@ export const arianaGrandeIntoYouAlexGheneaRemixIntoYouAlexGheneaRemix = {
   trackKey:
     "intoyoualexghenearemix|1mGISDumAyOoK6epKA8gq1,4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|218160",
   song: "song/ariana-grande-into-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-into-you-alex-ghenea-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5SFVZUBkSjXookoHpCYBop",
+      externalLink: "https://open.spotify.com/track/5SFVZUBkSjXookoHpCYBop",
+    },
+  ],
 } as const satisfies Track

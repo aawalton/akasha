@@ -25,4 +25,13 @@ export const billieEilishGuitarSongsThe30th = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "the30th|6qqNVTkY8uBg9cP3Jd7DAH|216448",
   song: "song/billie-eilish-the-30th",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-guitar-songs",
+      discNumber: 1,
+      position: 2,
+      externalId: "5SHpuW2qjkQtFRpE6P9Nks",
+      externalLink: "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks",
+    },
+  ],
 } as const satisfies Track

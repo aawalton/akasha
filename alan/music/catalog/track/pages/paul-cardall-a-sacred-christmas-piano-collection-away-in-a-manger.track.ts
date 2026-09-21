@@ -25,4 +25,13 @@ export const paulCardallASacredChristmasPianoCollectionAwayInAManger = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "awayinamanger|7FQRbf8gbKw8KZQZAJWxH2|267023",
   song: "song/celtic-woman-away-in-a-manger",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-sacred-christmas-piano-collection",
+      discNumber: 1,
+      position: 10,
+      externalId: "5NuMb8GfvDDwl4d98B3GY9",
+      externalLink: "https://open.spotify.com/track/5NuMb8GfvDDwl4d98B3GY9",
+    },
+  ],
 } as const satisfies Track

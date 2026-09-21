@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveIntroEndOfTheWo
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "introendoftheworldliveversion|66CXWjxzNUsdJxJ2JdwvnR|102710",
   song: "song/ariana-grande-intro-end-of-the-world",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 18,
+      externalId: "1AVcvrXkUdtukUYN4307oC",
+      externalLink: "https://open.spotify.com/track/1AVcvrXkUdtukUYN4307oC",
+    },
+  ],
 } as const satisfies Track

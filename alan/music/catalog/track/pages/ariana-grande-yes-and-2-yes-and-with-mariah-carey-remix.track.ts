@@ -28,4 +28,13 @@ export const arianaGrandeYesAnd2YesAndWithMariahCareyRemix = {
   ],
   trackKey: "yesandwithmariahcareyremix|4iHNK0tOyZPYnBU7nGAgpQ,66CXWjxzNUsdJxJ2JdwvnR|214994",
   song: "song/ariana-grande-yes-and",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yes-and-2",
+      discNumber: 1,
+      position: 1,
+      externalId: "5LBv48NNyHsknRYwFWC361",
+      externalLink: "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361",
+    },
+  ],
 } as const satisfies Track

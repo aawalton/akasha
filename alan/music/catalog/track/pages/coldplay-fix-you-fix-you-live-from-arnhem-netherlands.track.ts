@@ -25,4 +25,13 @@ export const coldplayFixYouFixYouLiveFromArnhemNetherlands = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "fixyoulivefromarnhemnetherlands|4gzpq5DPGxSnKTe4SA8HAU|368596",
   song: "song/coldplay-fix-you",
+  carriedBy: [
+    {
+      release: "release/coldplay-fix-you",
+      discNumber: 1,
+      position: 4,
+      externalId: "13wWKawWOKggu7wI15jmFT",
+      externalLink: "https://open.spotify.com/track/13wWKawWOKggu7wI15jmFT",
+    },
+  ],
 } as const satisfies Track

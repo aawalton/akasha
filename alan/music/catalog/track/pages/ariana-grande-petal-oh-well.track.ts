@@ -25,4 +25,13 @@ export const arianaGrandePetalOhWell = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "ohwell|66CXWjxzNUsdJxJ2JdwvnR|196166",
   song: "song/ariana-grande-oh-well",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-petal",
+      discNumber: 1,
+      position: 5,
+      externalId: "5DZOKNtaoVEssXu9ltcMjx",
+      externalLink: "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx",
+    },
+  ],
 } as const satisfies Track

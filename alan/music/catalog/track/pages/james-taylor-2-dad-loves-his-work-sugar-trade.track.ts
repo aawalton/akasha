@@ -25,4 +25,13 @@ export const jamesTaylor2DadLovesHisWorkSugarTrade = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sugartrade|0vn7UBvSQECKJm2817Yf1P|168466",
   song: "song/james-taylor-sugar-trade",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-dad-loves-his-work",
+      discNumber: 1,
+      position: 9,
+      externalId: "1uzu2Ll2NoqPOPzXMxlqJ5",
+      externalLink: "https://open.spotify.com/track/1uzu2Ll2NoqPOPzXMxlqJ5",
+    },
+  ],
 } as const satisfies Track

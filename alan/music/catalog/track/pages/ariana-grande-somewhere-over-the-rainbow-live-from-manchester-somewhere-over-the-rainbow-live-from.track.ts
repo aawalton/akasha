@@ -26,4 +26,13 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchesterSomewhereOverT
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "somewhereovertherainbowlivefrommanchester|66CXWjxzNUsdJxJ2JdwvnR|272026",
     song: "song/ariana-grande-somewhere-over-the-rainbow",
+    carriedBy: [
+      {
+        release: "release/ariana-grande-somewhere-over-the-rainbow-live-from-manchester",
+        discNumber: 1,
+        position: 1,
+        externalId: "2yueE1lZ8V8HX1deAFA5MF",
+        externalLink: "https://open.spotify.com/track/2yueE1lZ8V8HX1deAFA5MF",
+      },
+    ],
   } as const satisfies Track

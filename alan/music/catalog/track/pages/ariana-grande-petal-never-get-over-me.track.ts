@@ -25,4 +25,13 @@ export const arianaGrandePetalNeverGetOverMe = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "nevergetoverme|66CXWjxzNUsdJxJ2JdwvnR|228857",
   song: "song/ariana-grande-never-get-over-me",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-petal",
+      discNumber: 1,
+      position: 10,
+      externalId: "55srcWA7TioKV0LZVNXltY",
+      externalLink: "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY",
+    },
+  ],
 } as const satisfies Track

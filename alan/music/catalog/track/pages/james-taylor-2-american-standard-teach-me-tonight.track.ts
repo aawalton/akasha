@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardTeachMeTonight = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "teachmetonight|0vn7UBvSQECKJm2817Yf1P|178800",
   song: "song/james-taylor-teach-me-tonight",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 3,
+      externalId: "2hVZIMjwyAWegOM0795wYx",
+      externalLink: "https://open.spotify.com/track/2hVZIMjwyAWegOM0795wYx",
+    },
+  ],
 } as const satisfies Track

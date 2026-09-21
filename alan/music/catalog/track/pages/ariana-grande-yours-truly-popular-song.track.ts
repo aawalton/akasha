@@ -28,4 +28,13 @@ export const arianaGrandeYoursTrulyPopularSong = {
   ],
   trackKey: "popularsong|5MmVJVhhYKQ86izuGHzJYA,66CXWjxzNUsdJxJ2JdwvnR|200213",
   song: "song/ariana-grande-popular-song",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 11,
+      externalId: "3iugMJEdfE58OpI7WGM38w",
+      externalLink: "https://open.spotify.com/track/3iugMJEdfE58OpI7WGM38w",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3PopOnPianoLoseYouToLoveMe = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "loseyoutoloveme|0jW6R8CVyVohuUJVcuweDI|297818",
   song: "song/the-piano-guys-lose-you-to-love-me",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-pop-on-piano",
+      discNumber: 1,
+      position: 4,
+      externalId: "3Lw00ZkPlcvclWykdkbG1V",
+      externalLink: "https://open.spotify.com/track/3Lw00ZkPlcvclWykdkbG1V",
+    },
+  ],
 } as const satisfies Track

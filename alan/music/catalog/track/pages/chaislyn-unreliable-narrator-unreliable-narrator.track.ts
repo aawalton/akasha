@@ -25,4 +25,13 @@ export const chaislynUnreliableNarratorUnreliableNarrator = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "unreliablenarrator|3zmbniiciaBAJlSX1Bzq9R|165452",
   song: "song/chaislyn-unreliable-narrator",
+  carriedBy: [
+    {
+      release: "release/chaislyn-unreliable-narrator",
+      discNumber: 1,
+      position: 2,
+      externalId: "4L3QYmuuoqKcxmQUQl48mo",
+      externalLink: "https://open.spotify.com/track/4L3QYmuuoqKcxmQUQl48mo",
+    },
+  ],
 } as const satisfies Track

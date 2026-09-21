@@ -25,4 +25,13 @@ export const jamesTaylor2WalkingMan2019RemasterThePromisedLand2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thepromisedland2019remaster|0vn7UBvSQECKJm2817Yf1P|243893",
   song: "song/james-taylor-the-promised-land",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-walking-man-2019-remaster",
+      discNumber: 1,
+      position: 9,
+      externalId: "7r5oc8knyWUi58G38pAAM4",
+      externalLink: "https://open.spotify.com/track/7r5oc8knyWUi58G38pAAM4",
+    },
+  ],
 } as const satisfies Track

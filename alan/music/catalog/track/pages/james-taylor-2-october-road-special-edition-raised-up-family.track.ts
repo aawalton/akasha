@@ -25,4 +25,13 @@ export const jamesTaylor2OctoberRoadSpecialEditionRaisedUpFamily = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "raisedupfamily|0vn7UBvSQECKJm2817Yf1P|279466",
   song: "song/james-taylor-raised-up-family",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-october-road-special-edition",
+      discNumber: 1,
+      position: 8,
+      externalId: "2d86vRYBgTl4oJ28WrpiKw",
+      externalLink: "https://open.spotify.com/track/2d86vRYBgTl4oJ28WrpiKw",
+    },
+  ],
 } as const satisfies Track

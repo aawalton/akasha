@@ -28,4 +28,13 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionLeaveMeLonely = {
   ],
   trackKey: "leavemelonely|4ylR3zwA0zaapAu94fktwa,66CXWjxzNUsdJxJ2JdwvnR|229677",
   song: "song/ariana-grande-leave-me-lonely",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 8,
+      externalId: "3z8MkhnA2WVfzoCrt3bM5j",
+      externalLink: "https://open.spotify.com/track/3z8MkhnA2WVfzoCrt3bM5j",
+    },
+  ],
 } as const satisfies Track

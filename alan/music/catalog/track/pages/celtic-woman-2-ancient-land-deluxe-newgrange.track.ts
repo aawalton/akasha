@@ -25,4 +25,13 @@ export const celticWoman2AncientLandDeluxeNewgrange = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "newgrange|6NWtt9pNOL2Gx7kBykdE5x|225573",
   song: "song/celtic-woman-newgrange",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land-deluxe",
+      discNumber: 1,
+      position: 19,
+      externalId: "7iZmfIu4NdCIVJC36AfvVB",
+      externalLink: "https://open.spotify.com/track/7iZmfIu4NdCIVJC36AfvVB",
+    },
+  ],
 } as const satisfies Track

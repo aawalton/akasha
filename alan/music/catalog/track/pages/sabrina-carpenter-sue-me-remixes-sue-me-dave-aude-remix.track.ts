@@ -28,4 +28,13 @@ export const sabrinaCarpenterSueMeRemixesSueMeDaveAudeRemix = {
   ],
   trackKey: "suemedaveauderemix|1vWImodgVqIgTUkekGEfR9,74KM79TiuVKeVCqs8QtB0B|229687",
   song: "song/sabrina-carpenter-sue-me",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-sue-me-remixes",
+      discNumber: 1,
+      position: 5,
+      externalId: "3WjGTNxFlIDjo9mjmToKf3",
+      externalLink: "https://open.spotify.com/track/3WjGTNxFlIDjo9mjmToKf3",
+    },
+  ],
 } as const satisfies Track

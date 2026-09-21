@@ -25,4 +25,13 @@ export const jamesTaylor2CoversOnBroadway = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "onbroadway|0vn7UBvSQECKJm2817Yf1P|251360",
   song: "song/james-taylor-on-broadway",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 10,
+      externalId: "1ts4gAyAd4pLMJDdwp9wCS",
+      externalLink: "https://open.spotify.com/track/1ts4gAyAd4pLMJDdwp9wCS",
+    },
+  ],
 } as const satisfies Track

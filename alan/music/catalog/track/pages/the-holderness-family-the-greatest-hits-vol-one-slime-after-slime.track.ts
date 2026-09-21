@@ -25,4 +25,13 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSlimeAfterSlime = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "slimeafterslime|6tITG4T8LpC0msapZ4wXGA|139363",
   song: "song/the-holderness-family-slime-after-slime",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-the-greatest-hits-vol-one",
+      discNumber: 1,
+      position: 7,
+      externalId: "1HYpqD3KHwflY5509YDwzA",
+      externalLink: "https://open.spotify.com/track/1HYpqD3KHwflY5509YDwzA",
+    },
+  ],
 } as const satisfies Track

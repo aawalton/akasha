@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineIntroEndOfTheWorld = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "introendoftheworld|66CXWjxzNUsdJxJ2JdwvnR|92400",
   song: "song/ariana-grande-intro-end-of-the-world",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine",
+      discNumber: 1,
+      position: 1,
+      externalId: "2o1pb13quMReXZqE7jWsgq",
+      externalLink: "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3PicturesAtAnExhibitionPicturesAtAnExhibition = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "picturesatanexhibition|0jW6R8CVyVohuUJVcuweDI|240250",
   song: "song/the-piano-guys-pictures-at-an-exhibition",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-pictures-at-an-exhibition",
+      discNumber: 1,
+      position: 1,
+      externalId: "38v6v6pstbCepnNydKEiee",
+      externalLink: "https://open.spotify.com/track/38v6v6pstbCepnNydKEiee",
+    },
+  ],
 } as const satisfies Track

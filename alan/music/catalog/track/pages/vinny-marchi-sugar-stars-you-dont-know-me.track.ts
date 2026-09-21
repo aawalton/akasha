@@ -25,4 +25,13 @@ export const vinnyMarchiSugarStarsYouDontKnowMe = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "youdontknowme|5USAMqcbMAzF3HBmeD5pJF|185002",
   song: "song/vinny-marchi-you-dont-know-me",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-sugar-stars",
+      discNumber: 1,
+      position: 9,
+      externalId: "687gCgyJRoArwBfmxK7Qcd",
+      externalLink: "https://open.spotify.com/track/687gCgyJRoArwBfmxK7Qcd",
+    },
+  ],
 } as const satisfies Track

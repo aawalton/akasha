@@ -25,4 +25,13 @@ export const jamesTaylor2BeforeThisWorldWildMountainThyme = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "wildmountainthyme|0vn7UBvSQECKJm2817Yf1P|176920",
   song: "song/james-taylor-wild-mountain-thyme",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-before-this-world",
+      discNumber: 1,
+      position: 10,
+      externalId: "16WXV9PnrHQQInXfVmbJhI",
+      externalLink: "https://open.spotify.com/track/16WXV9PnrHQQInXfVmbJhI",
+    },
+  ],
 } as const satisfies Track

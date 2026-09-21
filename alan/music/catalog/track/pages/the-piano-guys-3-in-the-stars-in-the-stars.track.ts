@@ -25,4 +25,13 @@ export const thePianoGuys3InTheStarsInTheStars = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "inthestars|0jW6R8CVyVohuUJVcuweDI|218076",
   song: "song/the-piano-guys-in-the-stars",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-in-the-stars",
+      discNumber: 1,
+      position: 1,
+      externalId: "4zkLrc401RiE6YuekwE7Ju",
+      externalLink: "https://open.spotify.com/track/4zkLrc401RiE6YuekwE7Ju",
+    },
+  ],
 } as const satisfies Track

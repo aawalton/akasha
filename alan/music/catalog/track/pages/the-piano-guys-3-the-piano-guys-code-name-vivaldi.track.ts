@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuysCodeNameVivaldi = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "codenamevivaldi|0jW6R8CVyVohuUJVcuweDI|246877",
   song: "song/the-piano-guys-code-name-vivaldi",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys",
+      discNumber: 1,
+      position: 3,
+      externalId: "5WKDDrq02f0mH3G1ZYmozK",
+      externalLink: "https://open.spotify.com/track/5WKDDrq02f0mH3G1ZYmozK",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const sabrinaCarpenterFruitcakeCindyLouWho = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "cindylouwho|74KM79TiuVKeVCqs8QtB0B|121360",
   song: "song/sabrina-carpenter-cindy-lou-who",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-fruitcake",
+      discNumber: 1,
+      position: 4,
+      externalId: "15WQ0CnYIbWNCWvwp7IlYr",
+      externalLink: "https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2NollaigAChristmasJourneyInTheBleakMidwinterGoinHomeMedl
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "inthebleakmidwintergoinhomemedley|6NWtt9pNOL2Gx7kBykdE5x|272575",
   song: "song/celtic-woman-in-the-bleak-midwinter-goin-home-medley",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-nollaig-a-christmas-journey",
+      discNumber: 1,
+      position: 11,
+      externalId: "01Ui24mgdrUrLxgkrGN8ZJ",
+      externalLink: "https://open.spotify.com/track/01Ui24mgdrUrLxgkrGN8ZJ",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const vinnyMarchiBushwickBelleNoDiggityDum = {
   ],
   trackKey: "nodiggitydum|0ZM2ioGGBOZ3NPTSUbuimj,5USAMqcbMAzF3HBmeD5pJF|187890",
   song: "song/vinny-marchi-no-diggity-dum",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-bushwick-belle",
+      discNumber: 1,
+      position: 6,
+      externalId: "5G3w4MRoOmzMHV8dj2HUMS",
+      externalLink: "https://open.spotify.com/track/5G3w4MRoOmzMHV8dj2HUMS",
+    },
+  ],
 } as const satisfies Track

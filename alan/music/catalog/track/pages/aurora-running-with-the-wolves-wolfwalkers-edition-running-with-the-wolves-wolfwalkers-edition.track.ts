@@ -25,4 +25,13 @@ export const auroraRunningWithTheWolvesWolfwalkersEditionRunningWithTheWolvesWol
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runningwiththewolveswolfwalkersedition|1WgXqy2Dd70QQOU7Ay074N|166546",
   song: "song/aurora-running-with-the-wolves-wolfwalkers-edition",
+  carriedBy: [
+    {
+      release: "release/aurora-running-with-the-wolves-wolfwalkers-edition",
+      discNumber: 1,
+      position: 1,
+      externalId: "7kKUKS8UJPiKiG3MserZOf",
+      externalLink: "https://open.spotify.com/track/7kKUKS8UJPiKiG3MserZOf",
+    },
+  ],
 } as const satisfies Track

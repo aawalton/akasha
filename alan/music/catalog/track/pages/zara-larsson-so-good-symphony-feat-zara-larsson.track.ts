@@ -28,4 +28,13 @@ export const zaraLarssonSoGoodSymphonyFeatZaraLarsson = {
   ],
   trackKey: "symphonyfeatzaralarsson|1Xylc3o4UrD53lo9CvFvVg,6MDME20pz9RveH9rEXvrOM|212553",
   song: "song/zara-larsson-symphony",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 15,
+      externalId: "4SPLWgCPoKwULz2UTM8TKg",
+      externalLink: "https://open.spotify.com/track/4SPLWgCPoKwULz2UTM8TKg",
+    },
+  ],
 } as const satisfies Track

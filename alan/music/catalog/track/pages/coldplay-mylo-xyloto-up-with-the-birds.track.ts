@@ -25,4 +25,13 @@ export const coldplayMyloXylotoUpWithTheBirds = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "upwiththebirds|4gzpq5DPGxSnKTe4SA8HAU|225653",
   song: "song/coldplay-up-with-the-birds",
+  carriedBy: [
+    {
+      release: "release/coldplay-mylo-xyloto",
+      discNumber: 1,
+      position: 14,
+      externalId: "5lIFsEWj9IjNEALbHnPosE",
+      externalLink: "https://open.spotify.com/track/5lIFsEWj9IjNEALbHnPosE",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const imagineDragonsStarsWillAlignStarsWillAlign = {
   ],
   trackKey: "starswillalign|23fqKkggKUBHNkbKtXEls4,53XhwfbYqKCa1cC15pYq2q|234366",
   song: "song/imagine-dragons-stars-will-align",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-stars-will-align",
+      discNumber: 1,
+      position: 1,
+      externalId: "5REMa10O4aA2mLtYyflWxs",
+      externalLink: "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs",
+    },
+  ],
 } as const satisfies Track

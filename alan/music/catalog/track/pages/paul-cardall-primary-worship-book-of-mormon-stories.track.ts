@@ -25,4 +25,13 @@ export const paulCardallPrimaryWorshipBookOfMormonStories = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bookofmormonstories|7FQRbf8gbKw8KZQZAJWxH2|407333",
   song: "song/paul-cardall-book-of-mormon-stories",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-primary-worship",
+      discNumber: 1,
+      position: 8,
+      externalId: "55taYRw24dlfSN7MU7ErH2",
+      externalLink: "https://open.spotify.com/track/55taYRw24dlfSN7MU7ErH2",
+    },
+  ],
 } as const satisfies Track

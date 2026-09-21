@@ -28,4 +28,13 @@ export const arianaGrandeLoveMeHarderLoveMeHarder = {
   ],
   trackKey: "lovemeharder|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|236041",
   song: "song/ariana-grande-love-me-harder",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-love-me-harder",
+      discNumber: 1,
+      position: 1,
+      externalId: "7HE1FnMtSsRotzIAQPXpr5",
+      externalLink: "https://open.spotify.com/track/7HE1FnMtSsRotzIAQPXpr5",
+    },
+  ],
 } as const satisfies Track

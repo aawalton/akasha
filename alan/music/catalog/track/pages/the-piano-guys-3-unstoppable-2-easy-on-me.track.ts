@@ -25,4 +25,13 @@ export const thePianoGuys3Unstoppable2EasyOnMe = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "easyonme|0jW6R8CVyVohuUJVcuweDI|179154",
   song: "song/the-piano-guys-easy-on-me",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-unstoppable-2",
+      discNumber: 1,
+      position: 6,
+      externalId: "3gXgHus2I2Z2LzUgISqCap",
+      externalLink: "https://open.spotify.com/track/3gXgHus2I2Z2LzUgISqCap",
+    },
+  ],
 } as const satisfies Track

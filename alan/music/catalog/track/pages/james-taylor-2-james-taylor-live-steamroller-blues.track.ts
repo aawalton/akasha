@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveSteamrollerBlues = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "steamrollerblues|0vn7UBvSQECKJm2817Yf1P|324026",
   song: "song/james-taylor-steamroller-blues",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 8,
+      externalId: "1I2RS5C10KUMY5Cbx1Etzs",
+      externalLink: "https://open.spotify.com/track/1I2RS5C10KUMY5Cbx1Etzs",
+    },
+  ],
 } as const satisfies Track

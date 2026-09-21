@@ -25,4 +25,13 @@ export const jamesTaylor2JtIWasOnlyTellingALie = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "iwasonlytellingalie|0vn7UBvSQECKJm2817Yf1P|205027",
   song: "song/james-taylor-i-was-only-telling-a-lie",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-jt",
+      discNumber: 1,
+      position: 8,
+      externalId: "1o8KPosoFJDZseZwCVKSqj",
+      externalLink: "https://open.spotify.com/track/1o8KPosoFJDZseZwCVKSqj",
+    },
+  ],
 } as const satisfies Track

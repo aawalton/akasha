@@ -25,4 +25,13 @@ export const sabrinaCarpenterViciousVicious = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "vicious|74KM79TiuVKeVCqs8QtB0B|149890",
   song: "song/sabrina-carpenter-vicious",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-vicious",
+      discNumber: 1,
+      position: 1,
+      externalId: "77Gyctcku69jSlSSYhZEkh",
+      externalLink: "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh",
+    },
+  ],
 } as const satisfies Track

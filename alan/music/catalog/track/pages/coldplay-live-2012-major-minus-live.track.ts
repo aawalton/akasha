@@ -25,4 +25,13 @@ export const coldplayLive2012MajorMinusLive = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "majorminuslive|4gzpq5DPGxSnKTe4SA8HAU|219973",
   song: "song/coldplay-major-minus",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-2012",
+      discNumber: 1,
+      position: 4,
+      externalId: "4WyX6hwqB1forx046ilrg2",
+      externalLink: "https://open.spotify.com/track/4WyX6hwqB1forx046ilrg2",
+    },
+  ],
 } as const satisfies Track

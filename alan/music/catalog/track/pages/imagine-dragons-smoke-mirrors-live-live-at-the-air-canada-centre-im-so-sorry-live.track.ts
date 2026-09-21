@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreImSoSorryLive
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "imsosorrylive|53XhwfbYqKCa1cC15pYq2q|308040",
   song: "song/imagine-dragons-i-m-so-sorry",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
+      discNumber: 1,
+      position: 7,
+      externalId: "6G5qJLquJDyfZgaw3NyfvN",
+      externalLink: "https://open.spotify.com/track/6G5qJLquJDyfZgaw3NyfvN",
+    },
+  ],
 } as const satisfies Track

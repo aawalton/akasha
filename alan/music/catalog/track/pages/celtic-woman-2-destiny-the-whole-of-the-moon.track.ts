@@ -25,4 +25,13 @@ export const celticWoman2DestinyTheWholeOfTheMoon = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thewholeofthemoon|6NWtt9pNOL2Gx7kBykdE5x|245338",
   song: "song/celtic-woman-the-whole-of-the-moon",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-destiny",
+      discNumber: 1,
+      position: 4,
+      externalId: "1RQVzWVC9Z8zGpSZx9Yxcy",
+      externalLink: "https://open.spotify.com/track/1RQVzWVC9Z8zGpSZx9Yxcy",
+    },
+  ],
 } as const satisfies Track

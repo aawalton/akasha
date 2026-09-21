@@ -28,4 +28,13 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionEveryday = {
   ],
   trackKey: "everyday|1RyvyyTE3xzB2ZywiAwp0i,66CXWjxzNUsdJxJ2JdwvnR|194833",
   song: "song/ariana-grande-everyday",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 9,
+      externalId: "28OUThncuwdC6uasRvZd9w",
+      externalLink: "https://open.spotify.com/track/28OUThncuwdC6uasRvZd9w",
+    },
+  ],
 } as const satisfies Track

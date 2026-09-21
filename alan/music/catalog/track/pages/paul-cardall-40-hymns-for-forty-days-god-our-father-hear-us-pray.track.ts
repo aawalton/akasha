@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysGodOurFatherHearUsPray = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godourfatherhearuspray|7FQRbf8gbKw8KZQZAJWxH2|161013",
   song: "song/paul-cardall-god-our-father-hear-us-pray",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 31,
+      externalId: "4b208xlMaap6C7JDHdWrAI",
+      externalLink: "https://open.spotify.com/track/4b208xlMaap6C7JDHdWrAI",
+    },
+  ],
 } as const satisfies Track

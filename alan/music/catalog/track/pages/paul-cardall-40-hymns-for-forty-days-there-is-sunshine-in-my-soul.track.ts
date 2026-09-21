@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysThereIsSunshineInMySoul = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thereissunshineinmysoul|7FQRbf8gbKw8KZQZAJWxH2|189306",
   song: "song/paul-cardall-there-is-sunshine-in-my-soul",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 5,
+      externalId: "5dfFDyvrkAIZHS78ztPcHS",
+      externalLink: "https://open.spotify.com/track/5dfFDyvrkAIZHS78ztPcHS",
+    },
+  ],
 } as const satisfies Track

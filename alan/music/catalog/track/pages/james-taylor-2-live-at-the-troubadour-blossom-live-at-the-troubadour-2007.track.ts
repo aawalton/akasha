@@ -28,4 +28,13 @@ export const jamesTaylor2LiveAtTheTroubadourBlossomLiveAtTheTroubadour2007 = {
   ],
   trackKey: "blossomliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|189773",
   song: "song/james-taylor-blossom",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 1,
+      externalId: "0TtyTyOnVLJnpAWwg9o1PY",
+      externalLink: "https://open.spotify.com/track/0TtyTyOnVLJnpAWwg9o1PY",
+    },
+  ],
 } as const satisfies Track

@@ -29,4 +29,13 @@ export const auroraCureForMeCureForMeVintageCultureExtendedRemix = {
   trackKey:
     "cureformevintagecultureextendedremix|1WgXqy2Dd70QQOU7Ay074N,28uJnu5EsrGml2tBd7y8ts|328960",
   song: "song/aurora-cure-for-me",
+  carriedBy: [
+    {
+      release: "release/aurora-cure-for-me",
+      discNumber: 1,
+      position: 4,
+      externalId: "2uouDDgLfWNeHCHTYvGV3d",
+      externalLink: "https://open.spotify.com/track/2uouDDgLfWNeHCHTYvGV3d",
+    },
+  ],
 } as const satisfies Track

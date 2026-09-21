@@ -28,4 +28,14 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveAcousticLiveFromJungleCit
   trackKey:
     "wecantbefriendswaitforyourloveacousticlivefromjunglecitystudios|66CXWjxzNUsdJxJ2JdwvnR|187781",
   song: "song/ariana-grande-we-can-t-be-friends-wait-for-your-love",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-we-can-t-be-friends-wait-for-your-love-acoustic-live-from-jungle-city-studios",
+      discNumber: 1,
+      position: 1,
+      externalId: "23itJEBZlued974YuPPLlq",
+      externalLink: "https://open.spotify.com/track/23itJEBZlued974YuPPLlq",
+    },
+  ],
 } as const satisfies Track

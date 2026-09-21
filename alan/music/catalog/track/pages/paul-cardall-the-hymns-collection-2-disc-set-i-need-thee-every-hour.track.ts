@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetINeedTheeEveryHour = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ineedtheeeveryhour|7FQRbf8gbKw8KZQZAJWxH2|202631",
   song: "song/paul-cardall-i-need-thee-every-hour",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 15,
+      externalId: "5nApOAbU8R0LgZkOk6wSeH",
+      externalLink: "https://open.spotify.com/track/5nApOAbU8R0LgZkOk6wSeH",
+    },
+  ],
 } as const satisfies Track

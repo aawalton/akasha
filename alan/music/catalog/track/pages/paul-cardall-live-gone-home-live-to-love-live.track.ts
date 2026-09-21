@@ -25,4 +25,13 @@ export const paulCardallLiveGoneHomeLiveToLoveLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "gonehomelivetolovelive|7FQRbf8gbKw8KZQZAJWxH2|246853",
   song: "song/paul-cardall-gone-home-live-to-love",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-live",
+      discNumber: 1,
+      position: 1,
+      externalId: "6hqxxYa2FCv9iWLp3hMtrp",
+      externalLink: "https://open.spotify.com/track/6hqxxYa2FCv9iWLp3hMtrp",
+    },
+  ],
 } as const satisfies Track

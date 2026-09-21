@@ -28,4 +28,13 @@ export const sabrinaCarpenterAlmostLoveAlmostLoveR3habRemix = {
   ],
   trackKey: "almostlover3habremix|6cEuCEZu7PAE9ZSzLLc2oQ,74KM79TiuVKeVCqs8QtB0B|176395",
   song: "song/sabrina-carpenter-almost-love",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-almost-love",
+      discNumber: 1,
+      position: 2,
+      externalId: "1ECM0BN6esXwgbAlnw4UDh",
+      externalLink: "https://open.spotify.com/track/1ECM0BN6esXwgbAlnw4UDh",
+    },
+  ],
 } as const satisfies Track

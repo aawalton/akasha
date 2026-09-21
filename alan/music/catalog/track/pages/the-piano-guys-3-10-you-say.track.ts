@@ -25,4 +25,13 @@ export const thePianoGuys310YouSay = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "yousay|0jW6R8CVyVohuUJVcuweDI|310540",
   song: "song/the-piano-guys-you-say",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-10",
+      discNumber: 1,
+      position: 1,
+      externalId: "0MosvoiclHAgGZKlpSqYBd",
+      externalLink: "https://open.spotify.com/track/0MosvoiclHAgGZKlpSqYBd",
+    },
+  ],
 } as const satisfies Track

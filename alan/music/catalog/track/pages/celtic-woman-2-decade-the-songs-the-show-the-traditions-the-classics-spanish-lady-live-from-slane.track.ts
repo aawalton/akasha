@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSpanishLad
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "spanishladylivefromslanecastle|6NWtt9pNOL2Gx7kBykdE5x|142946",
   song: "song/celtic-woman-spanish-lady",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 11,
+      externalId: "1D37OZkLm9CTAudTRVKATc",
+      externalLink: "https://open.spotify.com/track/1D37OZkLm9CTAudTRVKATc",
+    },
+  ],
 } as const satisfies Track

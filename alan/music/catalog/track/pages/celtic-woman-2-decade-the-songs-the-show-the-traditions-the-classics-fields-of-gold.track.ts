@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsFieldsOfGo
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "fieldsofgold|6NWtt9pNOL2Gx7kBykdE5x|229653",
   song: "song/celtic-woman-fields-of-gold",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 4,
+      externalId: "1Fpsx72oxur3RVwrVEYLiY",
+      externalLink: "https://open.spotify.com/track/1Fpsx72oxur3RVwrVEYLiY",
+    },
+  ],
 } as const satisfies Track

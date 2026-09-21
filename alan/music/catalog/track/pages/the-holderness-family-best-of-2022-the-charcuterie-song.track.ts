@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2022TheCharcuterieSong = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "thecharcuteriesong|6tITG4T8LpC0msapZ4wXGA|123648",
   song: "song/the-holderness-family-the-charcuterie-song",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2022",
+      discNumber: 1,
+      position: 3,
+      externalId: "7qGDs1gmV4vvzYIjkCRqR5",
+      externalLink: "https://open.spotify.com/track/7qGDs1gmV4vvzYIjkCRqR5",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBad = {
   ],
   trackKey: "somethingbad|0pHTIdyC4DAsoMhpSufQaz,46UMQ0cW8ToR8egkBRwAxZ|108300",
   song: "song/ariana-grande-something-bad",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 11,
+      externalId: "7KwGGUydPNh0h5V5Zy6OBB",
+      externalLink: "https://open.spotify.com/track/7KwGGUydPNh0h5V5Zy6OBB",
+    },
+  ],
 } as const satisfies Track

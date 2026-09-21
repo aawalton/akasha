@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "dandelion|66CXWjxzNUsdJxJ2JdwvnR|204815",
   song: "song/ariana-grande-dandelion",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+      discNumber: 1,
+      position: 17,
+      externalId: "5Be4ZEXxEpupMrnQHYdokm",
+      externalLink: "https://open.spotify.com/track/5Be4ZEXxEpupMrnQHYdokm",
+    },
+  ],
 } as const satisfies Track

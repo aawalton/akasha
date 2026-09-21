@@ -28,4 +28,13 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemixAintMyFaultFeatLilYachtyRem
   ],
   trackKey: "aintmyfaultfeatlilyachtyremix|1Xylc3o4UrD53lo9CvFvVg,6icQOAFXDZKsumw3YXyusw|238360",
   song: "song/zara-larsson-ain-t-my-fault",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-ain-t-my-fault-feat-lil-yachty-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "4Un6pB4KZKekFh3SVIa9qB",
+      externalLink: "https://open.spotify.com/track/4Un6pB4KZKekFh3SVIa9qB",
+    },
+  ],
 } as const satisfies Track

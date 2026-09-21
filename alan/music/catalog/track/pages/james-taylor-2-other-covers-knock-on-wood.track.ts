@@ -25,4 +25,13 @@ export const jamesTaylor2OtherCoversKnockOnWood = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "knockonwood|0vn7UBvSQECKJm2817Yf1P|232133",
   song: "song/james-taylor-knock-on-wood",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-other-covers",
+      discNumber: 1,
+      position: 7,
+      externalId: "1AOJ3y1KKpt19Mzd1MyiJT",
+      externalLink: "https://open.spotify.com/track/1AOJ3y1KKpt19Mzd1MyiJT",
+    },
+  ],
 } as const satisfies Track

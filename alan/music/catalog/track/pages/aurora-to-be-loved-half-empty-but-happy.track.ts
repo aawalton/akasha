@@ -25,4 +25,13 @@ export const auroraToBeLovedHalfEmptyButHappy = {
   trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
   trackKey: "halfemptybuthappy|3NABmtfO8G8s96WFGhbR7F|243602",
   song: "song/aurora-half-empty-but-happy",
+  carriedBy: [
+    {
+      release: "release/aurora-to-be-loved",
+      discNumber: 1,
+      position: 4,
+      externalId: "67wNjh1nTci8GuATIhJWut",
+      externalLink: "https://open.spotify.com/track/67wNjh1nTci8GuATIhJWut",
+    },
+  ],
 } as const satisfies Track

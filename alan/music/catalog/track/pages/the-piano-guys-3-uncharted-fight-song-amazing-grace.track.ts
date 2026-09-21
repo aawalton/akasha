@@ -25,4 +25,13 @@ export const thePianoGuys3UnchartedFightSongAmazingGrace = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "fightsongamazinggrace|0jW6R8CVyVohuUJVcuweDI|244812",
   song: "song/the-piano-guys-fight-song-amazing-grace",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 1,
+      externalId: "0enLtCNBPxgqHQJ68Uk1H8",
+      externalLink: "https://open.spotify.com/track/0enLtCNBPxgqHQJ68Uk1H8",
+    },
+  ],
 } as const satisfies Track

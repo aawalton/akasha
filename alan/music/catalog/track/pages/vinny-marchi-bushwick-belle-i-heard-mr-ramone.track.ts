@@ -25,4 +25,13 @@ export const vinnyMarchiBushwickBelleIHeardMrRamone = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "iheardmrramone|5USAMqcbMAzF3HBmeD5pJF|211025",
   song: "song/vinny-marchi-i-heard-mr-ramone",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-bushwick-belle",
+      discNumber: 1,
+      position: 5,
+      externalId: "69ovIJT5vlgHuG33UWWfiB",
+      externalLink: "https://open.spotify.com/track/69ovIJT5vlgHuG33UWWfiB",
+    },
+  ],
 } as const satisfies Track

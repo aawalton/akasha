@@ -31,4 +31,13 @@ export const celticWoman2BelieveTeirAbhaileRiu = {
   trackKey:
     "teirabhaileriu|4Jl3FibWLX8mi6TtTryovX,4gpWwMQpb2Brtj1zqsJRBf,6NWtt9pNOL2Gx7kBykdE5x,7mJ7vUZmcgRob2PKidv21k|243493",
   song: "song/celtic-woman-teir-abhaile-riu",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-believe",
+      discNumber: 1,
+      position: 10,
+      externalId: "1S0fo7ROyH5zMOpiFNlAe9",
+      externalLink: "https://open.spotify.com/track/1S0fo7ROyH5zMOpiFNlAe9",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraWhatHappenedToTheHeartDeluxeWhenTheDarkDressesLightly = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "whenthedarkdresseslightly|1WgXqy2Dd70QQOU7Ay074N|214800",
   song: "song/aurora-when-the-dark-dresses-lightly",
+  carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "5oiQhhz11SXKO8jMlGGAEw",
+      externalLink: "https://open.spotify.com/track/5oiQhhz11SXKO8jMlGGAEw",
+    },
+  ],
 } as const satisfies Track

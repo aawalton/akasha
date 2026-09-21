@@ -25,4 +25,13 @@ export const arianaGrandeDangerousWomanSometimes = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "sometimes|66CXWjxzNUsdJxJ2JdwvnR|226666",
   song: "song/ariana-grande-sometimes",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman",
+      discNumber: 1,
+      position: 10,
+      externalId: "7IqSduDsieo2epoqA97NxC",
+      externalLink: "https://open.spotify.com/track/7IqSduDsieo2epoqA97NxC",
+    },
+  ],
 } as const satisfies Track

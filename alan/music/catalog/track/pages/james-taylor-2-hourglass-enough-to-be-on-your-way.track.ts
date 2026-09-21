@@ -25,4 +25,13 @@ export const jamesTaylor2HourglassEnoughToBeOnYourWay = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "enoughtobeonyourway|0vn7UBvSQECKJm2817Yf1P|326933",
   song: "song/james-taylor-enough-to-be-on-your-way",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-hourglass",
+      discNumber: 1,
+      position: 2,
+      externalId: "153KKNnw2TZh4L1FiqggRp",
+      externalLink: "https://open.spotify.com/track/153KKNnw2TZh4L1FiqggRp",
+    },
+  ],
 } as const satisfies Track

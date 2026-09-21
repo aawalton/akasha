@@ -28,4 +28,13 @@ export const paulCardallChristmasDreamingGreensleevesClassicalGuitar = {
   ],
   trackKey: "greensleevesclassicalguitar|2pzgrbowKM8SGmdK3YMcGq,7FQRbf8gbKw8KZQZAJWxH2|186965",
   song: "song/paul-cardall-greensleeves-classical-guitar",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas-dreaming",
+      discNumber: 1,
+      position: 2,
+      externalId: "48S0eiHKHZ9UghvRTnCCKB",
+      externalLink: "https://open.spotify.com/track/48S0eiHKHZ9UghvRTnCCKB",
+    },
+  ],
 } as const satisfies Track

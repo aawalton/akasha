@@ -25,4 +25,13 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForestLittleBoyInTheGrass = 
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "littleboyinthegrass|1WgXqy2Dd70QQOU7Ay074N|256480",
   song: "song/aurora-little-boy-in-the-grass",
+  carriedBy: [
+    {
+      release: "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
+      discNumber: 1,
+      position: 2,
+      externalId: "0RulNsOPRZL2wzVcuwSdVt",
+      externalLink: "https://open.spotify.com/track/0RulNsOPRZL2wzVcuwSdVt",
+    },
+  ],
 } as const satisfies Track

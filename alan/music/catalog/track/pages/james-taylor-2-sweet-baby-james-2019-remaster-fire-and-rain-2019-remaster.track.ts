@@ -25,4 +25,13 @@ export const jamesTaylor2SweetBabyJames2019RemasterFireAndRain2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "fireandrain2019remaster|0vn7UBvSQECKJm2817Yf1P|203613",
   song: "song/james-taylor-fire-and-rain",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-sweet-baby-james-2019-remaster",
+      discNumber: 1,
+      position: 7,
+      externalId: "1oht5GevPN9t1T3kG1m1GO",
+      externalLink: "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO",
+    },
+  ],
 } as const satisfies Track

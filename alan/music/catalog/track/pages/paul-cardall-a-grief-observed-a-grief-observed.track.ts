@@ -25,4 +25,13 @@ export const paulCardallAGriefObservedAGriefObserved = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "agriefobserved|7FQRbf8gbKw8KZQZAJWxH2|236929",
   song: "song/paul-cardall-a-grief-observed",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-grief-observed",
+      discNumber: 1,
+      position: 1,
+      externalId: "59TA85SubQlrlPYOvtq53u",
+      externalLink: "https://open.spotify.com/track/59TA85SubQlrlPYOvtq53u",
+    },
+  ],
 } as const satisfies Track

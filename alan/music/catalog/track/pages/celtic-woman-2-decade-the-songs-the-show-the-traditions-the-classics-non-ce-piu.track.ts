@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNonCePiu =
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "noncepiu|6NWtt9pNOL2Gx7kBykdE5x|288453",
   song: "song/celtic-woman-non-ce-piu",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 4,
+      position: 2,
+      externalId: "3krhDuoSwDBli8vcqX6RLy",
+      externalLink: "https://open.spotify.com/track/3krhDuoSwDBli8vcqX6RLy",
+    },
+  ],
 } as const satisfies Track

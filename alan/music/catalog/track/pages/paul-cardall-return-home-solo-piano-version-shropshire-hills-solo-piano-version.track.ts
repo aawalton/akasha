@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionShropshireHillsSoloPianoVersio
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "shropshirehillssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|190500",
   song: "song/paul-cardall-shropshire-hills",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 2,
+      externalId: "2PTwV9XFza4C5zHU3QokHz",
+      externalLink: "https://open.spotify.com/track/2PTwV9XFza4C5zHU3QokHz",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsDeluxeItComesBackToYou = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itcomesbacktoyou|53XhwfbYqKCa1cC15pYq2q|217400",
   song: "song/imagine-dragons-it-comes-back-to-you",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "0rKlNsNmGGKGXo6tDgkHEn",
+      externalLink: "https://open.spotify.com/track/0rKlNsNmGGKGXo6tDgkHEn",
+    },
+  ],
 } as const satisfies Track

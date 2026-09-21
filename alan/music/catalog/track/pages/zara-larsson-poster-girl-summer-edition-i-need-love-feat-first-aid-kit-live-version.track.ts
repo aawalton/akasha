@@ -29,4 +29,13 @@ export const zaraLarssonPosterGirlSummerEditionINeedLoveFeatFirstAidKitLiveVersi
   trackKey:
     "ineedlovefeatfirstaidkitliveversion|1Xylc3o4UrD53lo9CvFvVg,21egYD1eInY6bGFcniCRT1|200992",
   song: "song/zara-larsson-i-need-love",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-poster-girl-summer-edition",
+      discNumber: 1,
+      position: 15,
+      externalId: "69khRvQgywgLfdnhhObdPD",
+      externalLink: "https://open.spotify.com/track/69khRvQgywgLfdnhhObdPD",
+    },
+  ],
 } as const satisfies Track

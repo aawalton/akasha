@@ -25,4 +25,13 @@ export const auroraInfectionsOfADifferentKindStepIForgottenLove = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "forgottenlove|1WgXqy2Dd70QQOU7Ay074N|206469",
   song: "song/aurora-forgotten-love",
+  carriedBy: [
+    {
+      release: "release/aurora-infections-of-a-different-kind-step-i",
+      discNumber: 1,
+      position: 2,
+      externalId: "5xIHiW4TVNaROuRkYsgBti",
+      externalLink: "https://open.spotify.com/track/5xIHiW4TVNaROuRkYsgBti",
+    },
+  ],
 } as const satisfies Track

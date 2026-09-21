@@ -25,4 +25,13 @@ export const billieEilishDontSmileAtMeCopycat = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "copycat|6qqNVTkY8uBg9cP3Jd7DAH|194711",
   song: "song/billie-eilish-copycat",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-dont-smile-at-me",
+      discNumber: 1,
+      position: 1,
+      externalId: "5w7wuzMzsDer96KqxafeRK",
+      externalLink: "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiConceptsOfAManConceptsOfAMan = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "conceptsofaman|5USAMqcbMAzF3HBmeD5pJF|72502",
   song: "song/vinny-marchi-concepts-of-a-man",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-concepts-of-a-man",
+      discNumber: 1,
+      position: 1,
+      externalId: "6tBldAkFhuoTSvKUCI8mJ6",
+      externalLink: "https://open.spotify.com/track/6tBldAkFhuoTSvKUCI8mJ6",
+    },
+  ],
 } as const satisfies Track

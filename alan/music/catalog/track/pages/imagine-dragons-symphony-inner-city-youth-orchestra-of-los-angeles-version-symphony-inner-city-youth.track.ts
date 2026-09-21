@@ -28,4 +28,14 @@ export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersionSym
     trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
     trackKey: "symphonyinnercityyouthorchestraoflosangelesversion|53XhwfbYqKCa1cC15pYq2q|188688",
     song: "song/imagine-dragons-symphony",
+    carriedBy: [
+      {
+        release:
+          "release/imagine-dragons-symphony-inner-city-youth-orchestra-of-los-angeles-version",
+        discNumber: 1,
+        position: 1,
+        externalId: "6qJqN1SbjwxAEoDkjfnAwr",
+        externalLink: "https://open.spotify.com/track/6qJqN1SbjwxAEoDkjfnAwr",
+      },
+    ],
   } as const satisfies Track

@@ -29,4 +29,13 @@ export const jamesTaylorJamesTaylorAtChristmasBabyItsColdOutsideFeatNatalieCole 
   trackKey:
     "babyitscoldoutsidefeatnataliecole|0vn7UBvSQECKJm2817Yf1P,5tTsrGPwQRWUsHR2Xf7Ke9|257680",
   song: "song/sia-baby-it-s-cold-outside",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 5,
+      externalId: "47xnyhYDKv1iXrgFIFoUWL",
+      externalLink: "https://open.spotify.com/track/47xnyhYDKv1iXrgFIFoUWL",
+    },
+  ],
 } as const satisfies Track

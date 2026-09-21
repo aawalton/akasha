@@ -25,4 +25,13 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSongWeAreFuckedUnmotivationalSo
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "wearefuckedunmotivationalsong|5USAMqcbMAzF3HBmeD5pJF|168000",
   song: "song/vinny-marchi-we-are-fucked-unmotivational-song",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-we-are-fucked-unmotivational-song",
+      discNumber: 1,
+      position: 1,
+      externalId: "6Gr7e1oGkSI1yKU50mRArD",
+      externalLink: "https://open.spotify.com/track/6Gr7e1oGkSI1yKU50mRArD",
+    },
+  ],
 } as const satisfies Track

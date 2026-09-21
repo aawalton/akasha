@@ -30,4 +30,13 @@ export const thePianoGuys3AFamilyChristmasWinterWind = {
   trackKey:
     "winterwind|0jW6R8CVyVohuUJVcuweDI,2YQ4MY2VwOMv43C0GemUY5,67CqEIMpWuNb6MnpTKjlFv|266725",
   song: "song/the-piano-guys-winter-wind",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 11,
+      externalId: "6vp9J0CECnsA3PRxasHhEM",
+      externalLink: "https://open.spotify.com/track/6vp9J0CECnsA3PRxasHhEM",
+    },
+  ],
 } as const satisfies Track

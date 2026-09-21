@@ -25,4 +25,13 @@ export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRomaWhenIWasOlderMus
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "wheniwasoldermusicinspiredbythefilmroma|6qqNVTkY8uBg9cP3Jd7DAH|270519",
   song: "song/billie-eilish-when-i-was-older-music-inspired-by-the-film-roma",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-when-i-was-older-music-inspired-by-the-film-roma",
+      discNumber: 1,
+      position: 1,
+      externalId: "7tGEAA1f8MydT7eVbbO9Zy",
+      externalLink: "https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy",
+    },
+  ],
 } as const satisfies Track

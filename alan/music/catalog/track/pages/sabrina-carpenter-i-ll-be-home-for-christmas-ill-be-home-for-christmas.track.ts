@@ -30,4 +30,13 @@ export const sabrinaCarpenterILlBeHomeForChristmasIllBeHomeForChristmas = {
   trackKey:
     "illbehomeforchristmas|5uLFfLEAeIwKrgRtpfKAzq,6KxBixTtWRYyojmIvlFvjD,74KM79TiuVKeVCqs8QtB0B|215132",
   song: "song/sabrina-carpenter-ill-be-home-for-christmas",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-i-ll-be-home-for-christmas",
+      discNumber: 1,
+      position: 1,
+      externalId: "4xrSZaNoi4OisFTGYlhPYu",
+      externalLink: "https://open.spotify.com/track/4xrSZaNoi4OisFTGYlhPYu",
+    },
+  ],
 } as const satisfies Track

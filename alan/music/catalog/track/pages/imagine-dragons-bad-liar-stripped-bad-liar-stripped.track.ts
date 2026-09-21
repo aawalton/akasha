@@ -25,4 +25,13 @@ export const imagineDragonsBadLiarStrippedBadLiarStripped = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "badliarstripped|53XhwfbYqKCa1cC15pYq2q|253227",
   song: "song/imagine-dragons-bad-liar",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-bad-liar-stripped",
+      discNumber: 1,
+      position: 1,
+      externalId: "6hFi0gXP8KItwMqfBgf44b",
+      externalLink: "https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b",
+    },
+  ],
 } as const satisfies Track

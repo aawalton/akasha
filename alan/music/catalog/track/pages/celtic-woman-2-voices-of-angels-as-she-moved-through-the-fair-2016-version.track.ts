@@ -25,4 +25,13 @@ export const celticWoman2VoicesOfAngelsAsSheMovedThroughTheFair2016Version = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "asshemovedthroughthefair2016version|6NWtt9pNOL2Gx7kBykdE5x|235520",
   song: "song/celtic-woman-as-she-moved-through-the-fair",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-voices-of-angels",
+      discNumber: 1,
+      position: 3,
+      externalId: "5eKY9pUabjeoaNcSULVXT7",
+      externalLink: "https://open.spotify.com/track/5eKY9pUabjeoaNcSULVXT7",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2DestinyHowCanIKeepFromSinging = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "howcanikeepfromsinging|6NWtt9pNOL2Gx7kBykdE5x|257735",
   song: "song/celtic-woman-how-can-i-keep-from-singing",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-destiny",
+      discNumber: 1,
+      position: 6,
+      externalId: "2WQ4s7VUTkqHfZF9t1mbEr",
+      externalLink: "https://open.spotify.com/track/2WQ4s7VUTkqHfZF9t1mbEr",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallHymnsDayOfRest = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "dayofrest|7FQRbf8gbKw8KZQZAJWxH2|157466",
   song: "song/paul-cardall-day-of-rest",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-hymns",
+      discNumber: 1,
+      position: 11,
+      externalId: "49Sb1o9kyyJLrfaXCzq2jX",
+      externalLink: "https://open.spotify.com/track/49Sb1o9kyyJLrfaXCzq2jX",
+    },
+  ],
 } as const satisfies Track

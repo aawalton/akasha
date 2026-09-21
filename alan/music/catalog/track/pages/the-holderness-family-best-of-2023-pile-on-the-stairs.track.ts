@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2023PileOnTheStairs = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "pileonthestairs|6tITG4T8LpC0msapZ4wXGA|172848",
   song: "song/the-holderness-family-pile-on-the-stairs",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2023",
+      discNumber: 1,
+      position: 14,
+      externalId: "5H783MhgupDfz1PqtSijBi",
+      externalLink: "https://open.spotify.com/track/5H783MhgupDfz1PqtSijBi",
+    },
+  ],
 } as const satisfies Track

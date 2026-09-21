@@ -25,4 +25,13 @@ export const paulCardallDecemberSoloPianoLeavingNazarethSoloPianoVersion = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "leavingnazarethsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|235546",
   song: "song/paul-cardall-leaving-nazareth",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-december-solo-piano",
+      discNumber: 1,
+      position: 8,
+      externalId: "4FY5NhkPsymD2bk1VZAcef",
+      externalLink: "https://open.spotify.com/track/4FY5NhkPsymD2bk1VZAcef",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const emei9Lives9Lives = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "9lives|7E2aQQjErJocovYFjYLzWU|182255",
   song: "song/emei-9-lives",
+  carriedBy: [
+    {
+      release: "release/emei-9-lives",
+      discNumber: 1,
+      position: 1,
+      externalId: "64APtv04ls8z8Cjv6iGUsY",
+      externalLink: "https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY",
+    },
+  ],
 } as const satisfies Track

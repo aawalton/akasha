@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyPiano = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "piano|66CXWjxzNUsdJxJ2JdwvnR|234426",
   song: "song/ariana-grande-piano",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 6,
+      externalId: "1xCqIXCApBgcjwRLostpKl",
+      externalLink: "https://open.spotify.com/track/1xCqIXCApBgcjwRLostpKl",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallHymnsVol2HowGentleGodsCommand = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "howgentlegodscommand|7FQRbf8gbKw8KZQZAJWxH2|140080",
   song: "song/paul-cardall-how-gentle-gods-command",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-hymns-vol-2",
+      discNumber: 1,
+      position: 12,
+      externalId: "3RnjXBwWa0q8D0zLRzEEEq",
+      externalLink: "https://open.spotify.com/track/3RnjXBwWa0q8D0zLRzEEEq",
+    },
+  ],
 } as const satisfies Track

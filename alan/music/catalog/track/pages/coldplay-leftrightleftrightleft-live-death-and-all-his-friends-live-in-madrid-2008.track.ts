@@ -25,4 +25,13 @@ export const coldplayLeftrightleftrightleftLiveDeathAndAllHisFriendsLiveInMadrid
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "deathandallhisfriendsliveinmadrid2008|4gzpq5DPGxSnKTe4SA8HAU|264426",
   song: "song/coldplay-death-and-all-his-friends",
+  carriedBy: [
+    {
+      release: "release/coldplay-leftrightleftrightleft-live",
+      discNumber: 1,
+      position: 9,
+      externalId: "23l7E14oZQJ9tkIy5tdeRi",
+      externalLink: "https://open.spotify.com/track/23l7E14oZQJ9tkIy5tdeRi",
+    },
+  ],
 } as const satisfies Track

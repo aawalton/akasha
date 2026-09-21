@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2ForTheBeautyOfThe
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "forthebeautyoftheearth|2YQ4MY2VwOMv43C0GemUY5|293327",
   song: "song/the-piano-guys-for-the-beauty-of-the-earth",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 1,
+      externalId: "5LqSVbPOO3teRo9evw1NuG",
+      externalLink: "https://open.spotify.com/track/5LqSVbPOO3teRo9evw1NuG",
+    },
+  ],
 } as const satisfies Track

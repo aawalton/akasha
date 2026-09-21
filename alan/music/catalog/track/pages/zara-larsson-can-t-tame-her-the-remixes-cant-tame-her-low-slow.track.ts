@@ -25,4 +25,13 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerLowSlow = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "canttameherlowslow|1Xylc3o4UrD53lo9CvFvVg|224917",
   song: "song/zara-larsson-cant-tame-her-low-slow",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-can-t-tame-her-the-remixes",
+      discNumber: 1,
+      position: 5,
+      externalId: "3UrYwt4X7xVIx6ZD5ZsUyY",
+      externalLink: "https://open.spotify.com/track/3UrYwt4X7xVIx6ZD5ZsUyY",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2WalkingMan2019RemasterHelloOldFriend2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "hellooldfriend2019remaster|0vn7UBvSQECKJm2817Yf1P|168426",
   song: "song/james-taylor-hello-old-friend",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-walking-man-2019-remaster",
+      discNumber: 1,
+      position: 7,
+      externalId: "6tbfQIRUHsKnv76JQxsy9b",
+      externalLink: "https://open.spotify.com/track/6tbfQIRUHsKnv76JQxsy9b",
+    },
+  ],
 } as const satisfies Track

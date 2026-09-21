@@ -25,4 +25,13 @@ export const paulCardallSavingTinyHeartsTime = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "time|7FQRbf8gbKw8KZQZAJWxH2|191626",
   song: "song/paul-cardall-time",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-saving-tiny-hearts",
+      discNumber: 1,
+      position: 6,
+      externalId: "0KzGkaHpOkqY38zsnbs1Fs",
+      externalLink: "https://open.spotify.com/track/0KzGkaHpOkqY38zsnbs1Fs",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallAscensusAscensusChristiHarpMotif = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ascensuschristiharpmotif|7FQRbf8gbKw8KZQZAJWxH2|39500",
   song: "song/paul-cardall-ascensus-christi-harp-motif",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ascensus",
+      discNumber: 1,
+      position: 8,
+      externalId: "1VqeXzj6mMs5GWB2B3XHOe",
+      externalLink: "https://open.spotify.com/track/1VqeXzj6mMs5GWB2B3XHOe",
+    },
+  ],
 } as const satisfies Track

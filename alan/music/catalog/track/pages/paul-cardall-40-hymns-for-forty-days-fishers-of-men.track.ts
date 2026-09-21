@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysFishersOfMen = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fishersofmen|7FQRbf8gbKw8KZQZAJWxH2|176200",
   song: "song/paul-cardall-fishers-of-men",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 29,
+      externalId: "1wwIkJ6Hnr2nqT2RA1ycxD",
+      externalLink: "https://open.spotify.com/track/1wwIkJ6Hnr2nqT2RA1ycxD",
+    },
+  ],
 } as const satisfies Track

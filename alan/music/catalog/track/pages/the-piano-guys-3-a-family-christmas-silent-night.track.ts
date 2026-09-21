@@ -28,4 +28,13 @@ export const thePianoGuys3AFamilyChristmasSilentNight = {
   ],
   trackKey: "silentnight|0jW6R8CVyVohuUJVcuweDI,395Z91yDQ05pkMbRKik18y|210127",
   song: "song/celtic-woman-silent-night",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 12,
+      externalId: "48O4tCMl9OJqyLLhd7u7hF",
+      externalLink: "https://open.spotify.com/track/48O4tCMl9OJqyLLhd7u7hF",
+    },
+  ],
 } as const satisfies Track

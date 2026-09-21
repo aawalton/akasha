@@ -25,4 +25,13 @@ export const thePianoGuys3ClassicalMovieSoundtracksKungFuPianoCelloAscends = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "kungfupianocelloascends|0jW6R8CVyVohuUJVcuweDI|242823",
   song: "song/the-piano-guys-kung-fu-piano-cello-ascends",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-classical-movie-soundtracks",
+      discNumber: 1,
+      position: 3,
+      externalId: "3AJkijY8fS8mFae3TvZQM3",
+      externalLink: "https://open.spotify.com/track/3AJkijY8fS8mFae3TvZQM3",
+    },
+  ],
 } as const satisfies Track

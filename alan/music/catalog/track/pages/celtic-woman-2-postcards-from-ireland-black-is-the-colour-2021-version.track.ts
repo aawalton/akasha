@@ -25,4 +25,13 @@ export const celticWoman2PostcardsFromIrelandBlackIsTheColour2021Version = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "blackisthecolour2021version|6NWtt9pNOL2Gx7kBykdE5x|213773",
   song: "song/celtic-woman-black-is-the-colour",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-postcards-from-ireland",
+      discNumber: 1,
+      position: 13,
+      externalId: "3uZSzpNdr2fXZYCG7BwGbs",
+      externalLink: "https://open.spotify.com/track/3uZSzpNdr2fXZYCG7BwGbs",
+    },
+  ],
 } as const satisfies Track

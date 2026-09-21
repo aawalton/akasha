@@ -25,4 +25,13 @@ export const paulCardallLivingForEdenWasatch = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "wasatch|7FQRbf8gbKw8KZQZAJWxH2|216480",
   song: "song/paul-cardall-wasatch",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-living-for-eden",
+      discNumber: 1,
+      position: 4,
+      externalId: "3KkSOna76u6Lh7AMniVilR",
+      externalLink: "https://open.spotify.com/track/3KkSOna76u6Lh7AMniVilR",
+    },
+  ],
 } as const satisfies Track

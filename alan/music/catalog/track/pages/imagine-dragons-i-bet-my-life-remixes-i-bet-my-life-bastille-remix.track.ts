@@ -25,4 +25,13 @@ export const imagineDragonsIBetMyLifeRemixesIBetMyLifeBastilleRemix = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ibetmylifebastilleremix|53XhwfbYqKCa1cC15pYq2q|236493",
   song: "song/imagine-dragons-i-bet-my-life",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-i-bet-my-life-remixes",
+      discNumber: 1,
+      position: 2,
+      externalId: "07StfwrWJqEC1GA31tY8h0",
+      externalLink: "https://open.spotify.com/track/07StfwrWJqEC1GA31tY8h0",
+    },
+  ],
 } as const satisfies Track

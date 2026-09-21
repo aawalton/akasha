@@ -28,4 +28,13 @@ export const sabrinaCarpenterAlienAlien = {
   ],
   trackKey: "alien|1HBjj22wzbscIZ9sEb5dyf,74KM79TiuVKeVCqs8QtB0B|174840",
   song: "song/sabrina-carpenter-alien",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-alien",
+      discNumber: 1,
+      position: 1,
+      externalId: "0RUTnY2B3s05fZuCHsNaUP",
+      externalLink: "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP",
+    },
+  ],
 } as const satisfies Track

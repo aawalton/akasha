@@ -26,4 +26,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveDontWannaBreakU
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "dontwannabreakupagainliveversion|66CXWjxzNUsdJxJ2JdwvnR|174251",
     song: "song/ariana-grande-don-t-wanna-break-up-again",
+    carriedBy: [
+      {
+        release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+        discNumber: 1,
+        position: 19,
+        externalId: "6y5A3vRHBYWRsZHN6eWrng",
+        externalLink: "https://open.spotify.com/track/6y5A3vRHBYWRsZHN6eWrng",
+      },
+    ],
   } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2Gorilla2019RemasterLighthouse2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "lighthouse2019remaster|0vn7UBvSQECKJm2817Yf1P|196040",
   song: "song/james-taylor-lighthouse",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-gorilla-2019-remaster",
+      discNumber: 1,
+      position: 8,
+      externalId: "4fZu63uf6TgH6AsYt8VEJt",
+      externalLink: "https://open.spotify.com/track/4fZu63uf6TgH6AsYt8VEJt",
+    },
+  ],
 } as const satisfies Track

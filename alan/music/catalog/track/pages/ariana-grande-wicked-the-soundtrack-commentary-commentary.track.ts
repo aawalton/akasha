@@ -25,4 +25,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryCommentary = {
   trackArtist: [{ externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" }],
   trackKey: "commentary|7daPb40K64rRtF36wd3ZOk|33902",
   song: "song/ariana-grande-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 1,
+      externalId: "78dJ6gU0WQuxmvsYaUnIQ5",
+      externalLink: "https://open.spotify.com/track/78dJ6gU0WQuxmvsYaUnIQ5",
+    },
+  ],
 } as const satisfies Track

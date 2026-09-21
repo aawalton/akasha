@@ -25,4 +25,13 @@ export const jamesTaylor2OneManDog2019RemasterMescalito2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "mescalito2019remaster|0vn7UBvSQECKJm2817Yf1P|28909",
   song: "song/james-taylor-mescalito",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-dog-2019-remaster",
+      discNumber: 1,
+      position: 16,
+      externalId: "4uYNu7C8rBzGTvjCjjNMef",
+      externalLink: "https://open.spotify.com/track/4uYNu7C8rBzGTvjCjjNMef",
+    },
+  ],
 } as const satisfies Track

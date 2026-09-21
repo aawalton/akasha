@@ -25,4 +25,13 @@ export const vinnyMarchiTheBastardInTheKitchenTheBastardInTheKitchen = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thebastardinthekitchen|5USAMqcbMAzF3HBmeD5pJF|113423",
   song: "song/vinny-marchi-the-bastard-in-the-kitchen",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-the-bastard-in-the-kitchen",
+      discNumber: 1,
+      position: 1,
+      externalId: "1MCJ6nr7QZOQ6ICsc34Ewq",
+      externalLink: "https://open.spotify.com/track/1MCJ6nr7QZOQ6ICsc34Ewq",
+    },
+  ],
 } as const satisfies Track

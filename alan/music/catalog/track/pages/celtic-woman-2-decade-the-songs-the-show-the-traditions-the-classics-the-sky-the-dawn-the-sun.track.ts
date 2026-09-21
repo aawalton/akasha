@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheSkyTheD
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theskythedawnthesun|6NWtt9pNOL2Gx7kBykdE5x|322426",
   song: "song/celtic-woman-the-sky-the-dawn-the-sun",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 1,
+      externalId: "5ZQjRmlCaM6VN3i115AGO2",
+      externalLink: "https://open.spotify.com/track/5ZQjRmlCaM6VN3i115AGO2",
+    },
+  ],
 } as const satisfies Track

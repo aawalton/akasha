@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionCastlesAndCathedralsSoloPianoV
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "castlesandcathedralssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|290000",
   song: "song/paul-cardall-castles-and-cathedrals",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 6,
+      externalId: "79zcJhC8R2CYd3GC0ZcAxk",
+      externalLink: "https://open.spotify.com/track/79zcJhC8R2CYd3GC0ZcAxk",
+    },
+  ],
 } as const satisfies Track

@@ -30,4 +30,13 @@ export const thePianoGuys3AFamilyChristmasAwayInAManger = {
   trackKey:
     "awayinamanger|0IyFf7sJynolp1a7Ck79u9,0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|191896",
   song: "song/celtic-woman-away-in-a-manger",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 9,
+      externalId: "4AdyjF5Db6nVtSkHSQVe7m",
+      externalLink: "https://open.spotify.com/track/4AdyjF5Db6nVtSkHSQVe7m",
+    },
+  ],
 } as const satisfies Track

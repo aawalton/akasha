@@ -28,4 +28,13 @@ export const billieEilishBadGuyWithJustinBieberBadGuyWithJustinBieber = {
   ],
   trackKey: "badguywithjustinbieber|1uNFoZAHBGtllmzznpCI3s,6qqNVTkY8uBg9cP3Jd7DAH|194839",
   song: "song/billie-eilish-bad-guy",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-bad-guy-with-justin-bieber",
+      discNumber: 1,
+      position: 1,
+      externalId: "3yNZ5r3LKfdmjoS3gkhUCT",
+      externalLink: "https://open.spotify.com/track/3yNZ5r3LKfdmjoS3gkhUCT",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarTheOldRuggedCross = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "theoldruggedcross|7FQRbf8gbKw8KZQZAJWxH2|172250",
   song: "song/paul-cardall-the-old-rugged-cross",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 22,
+      externalId: "1PcUnQqgPpPjtSLkITcamA",
+      externalLink: "https://open.spotify.com/track/1PcUnQqgPpPjtSLkITcamA",
+    },
+  ],
 } as const satisfies Track

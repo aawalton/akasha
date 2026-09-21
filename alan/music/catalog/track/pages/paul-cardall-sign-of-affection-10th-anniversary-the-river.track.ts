@@ -25,4 +25,13 @@ export const paulCardallSignOfAffection10thAnniversaryTheRiver = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "theriver|7FQRbf8gbKw8KZQZAJWxH2|259906",
   song: "song/paul-cardall-the-river",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-sign-of-affection-10th-anniversary",
+      discNumber: 1,
+      position: 4,
+      externalId: "5SLkB32r1Gn2qS3Z3erdss",
+      externalLink: "https://open.spotify.com/track/5SLkB32r1Gn2qS3Z3erdss",
+    },
+  ],
 } as const satisfies Track

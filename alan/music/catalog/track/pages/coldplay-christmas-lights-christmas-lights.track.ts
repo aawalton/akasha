@@ -25,4 +25,13 @@ export const coldplayChristmasLightsChristmasLights = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "christmaslights|4gzpq5DPGxSnKTe4SA8HAU|242495",
   song: "song/coldplay-christmas-lights",
+  carriedBy: [
+    {
+      release: "release/coldplay-christmas-lights",
+      discNumber: 1,
+      position: 1,
+      externalId: "4fzyvSu73BhGvi96p2zwjL",
+      externalLink: "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL",
+    },
+  ],
 } as const satisfies Track

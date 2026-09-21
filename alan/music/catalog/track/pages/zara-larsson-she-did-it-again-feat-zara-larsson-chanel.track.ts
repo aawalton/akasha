@@ -25,4 +25,13 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonChanel = {
   trackArtist: [{ externalId: "3SozjO3Lat463tQICI9LcE", artistName: "Tyla" }],
   trackKey: "chanel|3SozjO3Lat463tQICI9LcE|188059",
   song: "song/zara-larsson-chanel",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-she-did-it-again-feat-zara-larsson",
+      discNumber: 1,
+      position: 2,
+      externalId: "6NAGWS1utZVyCy1pOnZSFN",
+      externalLink: "https://open.spotify.com/track/6NAGWS1utZVyCy1pOnZSFN",
+    },
+  ],
 } as const satisfies Track

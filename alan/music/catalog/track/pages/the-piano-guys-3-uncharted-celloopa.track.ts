@@ -25,4 +25,13 @@ export const thePianoGuys3UnchartedCelloopa = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "celloopa|0jW6R8CVyVohuUJVcuweDI|166687",
   song: "song/the-piano-guys-celloopa",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 6,
+      externalId: "2phRXHs8UKSvVvhoOQhjJt",
+      externalLink: "https://open.spotify.com/track/2phRXHs8UKSvVvhoOQhjJt",
+    },
+  ],
 } as const satisfies Track

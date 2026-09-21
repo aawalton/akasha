@@ -25,4 +25,13 @@ export const coldplayXYSwallowedInTheSea = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "swallowedinthesea|4gzpq5DPGxSnKTe4SA8HAU|239001",
   song: "song/coldplay-swallowed-in-the-sea",
+  carriedBy: [
+    {
+      release: "release/coldplay-x-y",
+      discNumber: 1,
+      position: 11,
+      externalId: "2u2WL5N3KnQnykOZi3fxL6",
+      externalLink: "https://open.spotify.com/track/2u2WL5N3KnQnykOZi3fxL6",
+    },
+  ],
 } as const satisfies Track

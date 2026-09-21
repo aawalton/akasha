@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarINeedTheeEveryHour = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ineedtheeeveryhour|7FQRbf8gbKw8KZQZAJWxH2|223000",
   song: "song/paul-cardall-i-need-thee-every-hour",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 5,
+      externalId: "6bgO9jWxDZxBpX8l8QbSPK",
+      externalLink: "https://open.spotify.com/track/6bgO9jWxDZxBpX8l8QbSPK",
+    },
+  ],
 } as const satisfies Track

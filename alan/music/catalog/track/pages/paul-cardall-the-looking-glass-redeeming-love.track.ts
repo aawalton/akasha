@@ -25,4 +25,13 @@ export const paulCardallTheLookingGlassRedeemingLove = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "redeeminglove|7FQRbf8gbKw8KZQZAJWxH2|260200",
   song: "song/paul-cardall-redeeming-love",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-looking-glass",
+      discNumber: 1,
+      position: 14,
+      externalId: "1lPQTXNCMSEufL5Bk6hJ2z",
+      externalLink: "https://open.spotify.com/track/1lPQTXNCMSEufL5Bk6hJ2z",
+    },
+  ],
 } as const satisfies Track

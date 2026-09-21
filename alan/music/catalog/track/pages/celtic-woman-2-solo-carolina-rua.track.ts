@@ -25,4 +25,13 @@ export const celticWoman2SoloCarolinaRua = {
   trackArtist: [{ externalId: "77xijq3ky5eW45DosksSNb", artistName: "Lynn Hillary" }],
   trackKey: "carolinarua|77xijq3ky5eW45DosksSNb|170086",
   song: "song/celtic-woman-carolina-rua",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-solo",
+      discNumber: 1,
+      position: 3,
+      externalId: "5P7JsyPiiD6c3zP4YqvoDn",
+      externalLink: "https://open.spotify.com/track/5P7JsyPiiD6c3zP4YqvoDn",
+    },
+  ],
 } as const satisfies Track

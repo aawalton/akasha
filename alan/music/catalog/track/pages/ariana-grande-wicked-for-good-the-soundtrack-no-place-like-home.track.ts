@@ -25,4 +25,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackNoPlaceLikeHome = {
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "noplacelikehome|46UMQ0cW8ToR8egkBRwAxZ|231233",
   song: "song/ariana-grande-no-place-like-home",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack",
+      discNumber: 1,
+      position: 3,
+      externalId: "4ksMhBwCDJJEaAbuQKYXJz",
+      externalLink: "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz",
+    },
+  ],
 } as const satisfies Track

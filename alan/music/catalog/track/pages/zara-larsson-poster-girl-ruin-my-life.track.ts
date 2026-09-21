@@ -25,4 +25,13 @@ export const zaraLarssonPosterGirlRuinMyLife = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "ruinmylife|1Xylc3o4UrD53lo9CvFvVg|190051",
   song: "song/zara-larsson-ruin-my-life",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-poster-girl",
+      discNumber: 1,
+      position: 9,
+      externalId: "4nyY8oVjbX2d4qzlpiVM5n",
+      externalLink: "https://open.spotify.com/track/4nyY8oVjbX2d4qzlpiVM5n",
+    },
+  ],
 } as const satisfies Track

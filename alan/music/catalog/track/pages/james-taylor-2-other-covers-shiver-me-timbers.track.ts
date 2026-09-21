@@ -25,4 +25,13 @@ export const jamesTaylor2OtherCoversShiverMeTimbers = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "shivermetimbers|0vn7UBvSQECKJm2817Yf1P|259493",
   song: "song/james-taylor-shiver-me-timbers",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-other-covers",
+      discNumber: 1,
+      position: 4,
+      externalId: "0i9yAHlCCzP8p3mFWxLDNG",
+      externalLink: "https://open.spotify.com/track/0i9yAHlCCzP8p3mFWxLDNG",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeSweetenerTheLightIsComingFeatNickiMinaj = {
   ],
   trackKey: "thelightiscomingfeatnickiminaj|0hCNtLu0JehylgoiP8L4Gh,66CXWjxzNUsdJxJ2JdwvnR|228373",
   song: "song/ariana-grande-the-light-is-coming",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-sweetener",
+      discNumber: 1,
+      position: 3,
+      externalId: "0sdbFOyfgAhAhWq8DpzkaW",
+      externalLink: "https://open.spotify.com/track/0sdbFOyfgAhAhWq8DpzkaW",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2NewMoonShineTheFrozenMan = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thefrozenman|0vn7UBvSQECKJm2817Yf1P|234240",
   song: "song/james-taylor-the-frozen-man",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-new-moon-shine",
+      discNumber: 1,
+      position: 5,
+      externalId: "1eh6QSEBkWZSVTt6HT7wDU",
+      externalLink: "https://open.spotify.com/track/1eh6QSEBkWZSVTt6HT7wDU",
+    },
+  ],
 } as const satisfies Track

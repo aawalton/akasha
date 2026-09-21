@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2022EveryTripToCostco = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "everytriptocostco|6tITG4T8LpC0msapZ4wXGA|162840",
   song: "song/the-holderness-family-every-trip-to-costco",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2022",
+      discNumber: 1,
+      position: 8,
+      externalId: "02y1w6xPZ3ZZw2ALka1svz",
+      externalLink: "https://open.spotify.com/track/02y1w6xPZ3ZZw2ALka1svz",
+    },
+  ],
 } as const satisfies Track

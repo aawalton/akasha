@@ -25,4 +25,13 @@ export const paulCardallPassingTimeHappierTimes = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "happiertimes|7FQRbf8gbKw8KZQZAJWxH2|88137",
   song: "song/paul-cardall-happier-times",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-passing-time",
+      discNumber: 1,
+      position: 3,
+      externalId: "5kGWSULTUdLHiIGraVpybl",
+      externalLink: "https://open.spotify.com/track/5kGWSULTUdLHiIGraVpybl",
+    },
+  ],
 } as const satisfies Track

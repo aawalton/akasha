@@ -25,4 +25,13 @@ export const coldplayARushOfBloodToTheHeadTheScientist = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "thescientist|4gzpq5DPGxSnKTe4SA8HAU|309600",
   song: "song/coldplay-the-scientist",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-rush-of-blood-to-the-head",
+      discNumber: 1,
+      position: 4,
+      externalId: "75JFxkI2RXiU7L9VXzMkle",
+      externalLink: "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle",
+    },
+  ],
 } as const satisfies Track

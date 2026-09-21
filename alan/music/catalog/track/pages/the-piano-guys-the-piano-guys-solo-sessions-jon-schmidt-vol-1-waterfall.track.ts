@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Waterfall = {
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "waterfall|2YQ4MY2VwOMv43C0GemUY5|187010",
   song: "song/the-piano-guys-waterfall",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
+      discNumber: 1,
+      position: 1,
+      externalId: "6NEiZJnTplS7AiLrw4XZkH",
+      externalLink: "https://open.spotify.com/track/6NEiZJnTplS7AiLrw4XZkH",
+    },
+  ],
 } as const satisfies Track

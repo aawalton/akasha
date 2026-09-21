@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreHopelessOpusL
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "hopelessopuslive|53XhwfbYqKCa1cC15pYq2q|344573",
   song: "song/imagine-dragons-hopeless-opus",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
+      discNumber: 1,
+      position: 12,
+      externalId: "7w6awjzpU2uIaEP2GnNQq6",
+      externalLink: "https://open.spotify.com/track/7w6awjzpU2uIaEP2GnNQq6",
+    },
+  ],
 } as const satisfies Track

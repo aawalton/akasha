@@ -25,4 +25,13 @@ export const arianaGrandeProblemProblemInstrumental = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "probleminstrumental|66CXWjxzNUsdJxJ2JdwvnR|193369",
   song: "song/ariana-grande-problem",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-problem",
+      discNumber: 1,
+      position: 3,
+      externalId: "2D7Rl4LQ9oeI3Ah4aKctGK",
+      externalLink: "https://open.spotify.com/track/2D7Rl4LQ9oeI3Ah4aKctGK",
+    },
+  ],
 } as const satisfies Track

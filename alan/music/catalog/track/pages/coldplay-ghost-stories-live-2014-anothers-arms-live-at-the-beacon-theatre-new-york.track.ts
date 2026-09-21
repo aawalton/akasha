@@ -25,4 +25,13 @@ export const coldplayGhostStoriesLive2014AnothersArmsLiveAtTheBeaconTheatreNewYo
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "anothersarmsliveatthebeacontheatrenewyork|4gzpq5DPGxSnKTe4SA8HAU|235880",
   song: "song/coldplay-anothers-arms",
+  carriedBy: [
+    {
+      release: "release/coldplay-ghost-stories-live-2014",
+      discNumber: 1,
+      position: 6,
+      externalId: "79fUOcp3p5YCkBD6ILl6Tz",
+      externalLink: "https://open.spotify.com/track/79fUOcp3p5YCkBD6ILl6Tz",
+    },
+  ],
 } as const satisfies Track

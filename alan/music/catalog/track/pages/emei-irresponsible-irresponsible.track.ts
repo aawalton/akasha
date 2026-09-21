@@ -25,4 +25,13 @@ export const emeiIrresponsibleIrresponsible = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "irresponsible|7E2aQQjErJocovYFjYLzWU|124751",
   song: "song/emei-irresponsible",
+  carriedBy: [
+    {
+      release: "release/emei-irresponsible",
+      discNumber: 1,
+      position: 1,
+      externalId: "60SugyNV4FdewZfktXfXte",
+      externalLink: "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte",
+    },
+  ],
 } as const satisfies Track

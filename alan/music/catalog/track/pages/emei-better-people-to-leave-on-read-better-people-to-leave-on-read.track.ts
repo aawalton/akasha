@@ -25,4 +25,13 @@ export const emeiBetterPeopleToLeaveOnReadBetterPeopleToLeaveOnRead = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "betterpeopletoleaveonread|7E2aQQjErJocovYFjYLzWU|131344",
   song: "song/emei-better-people-to-leave-on-read",
+  carriedBy: [
+    {
+      release: "release/emei-better-people-to-leave-on-read",
+      discNumber: 1,
+      position: 1,
+      externalId: "7szJfhzlrGh2hkNwEPDWpn",
+      externalLink: "https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn",
+    },
+  ],
 } as const satisfies Track

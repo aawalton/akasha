@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarAmazingGrace = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "amazinggrace|7FQRbf8gbKw8KZQZAJWxH2|208500",
   song: "song/paul-cardall-amazing-grace",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 11,
+      externalId: "5mZacuPQMg3lwMq2OSDsCf",
+      externalLink: "https://open.spotify.com/track/5mZacuPQMg3lwMq2OSDsCf",
+    },
+  ],
 } as const satisfies Track

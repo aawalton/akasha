@@ -25,4 +25,13 @@ export const coldplayDonTPanicYouOnlyLiveTwiceLiveFromNorway = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "youonlylivetwicelivefromnorway|4gzpq5DPGxSnKTe4SA8HAU|246666",
   song: "song/coldplay-you-only-live-twice",
+  carriedBy: [
+    {
+      release: "release/coldplay-don-t-panic",
+      discNumber: 1,
+      position: 2,
+      externalId: "3YdUe6oSvMydx3ph6ZPbPY",
+      externalLink: "https://open.spotify.com/track/3YdUe6oSvMydx3ph6ZPbPY",
+    },
+  ],
 } as const satisfies Track

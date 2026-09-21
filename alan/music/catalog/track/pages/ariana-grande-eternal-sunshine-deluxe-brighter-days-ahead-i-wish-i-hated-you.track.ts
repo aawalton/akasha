@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadIWishIHatedYou = 
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "iwishihatedyou|66CXWjxzNUsdJxJ2JdwvnR|153633",
   song: "song/ariana-grande-i-wish-i-hated-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
+      discNumber: 1,
+      position: 11,
+      externalId: "6XIcW7JmkYlnHLWtn2qyxZ",
+      externalLink: "https://open.spotify.com/track/6XIcW7JmkYlnHLWtn2qyxZ",
+    },
+  ],
 } as const satisfies Track

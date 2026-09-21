@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsDeluxeEveryNight = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "everynight|53XhwfbYqKCa1cC15pYq2q|215533",
   song: "song/imagine-dragons-every-night",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "2ICyhgONt8SyBo9R8vIelt",
+      externalLink: "https://open.spotify.com/track/2ICyhgONt8SyBo9R8vIelt",
+    },
+  ],
 } as const satisfies Track

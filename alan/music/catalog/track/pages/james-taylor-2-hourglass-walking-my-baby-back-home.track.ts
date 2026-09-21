@@ -25,4 +25,13 @@ export const jamesTaylor2HourglassWalkingMyBabyBackHome = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "walkingmybabybackhome|0vn7UBvSQECKJm2817Yf1P|147533",
   song: "song/james-taylor-walking-my-baby-back-home",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-hourglass",
+      discNumber: 1,
+      position: 12,
+      externalId: "2fNirB5RbToIiDQLRN0Krq",
+      externalLink: "https://open.spotify.com/track/2fNirB5RbToIiDQLRN0Krq",
+    },
+  ],
 } as const satisfies Track

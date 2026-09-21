@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarLeadKindlyLight = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "leadkindlylight|7FQRbf8gbKw8KZQZAJWxH2|217088",
   song: "song/paul-cardall-lead-kindly-light",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 18,
+      externalId: "2kfr5YNeF6mXLkJjhgj83N",
+      externalLink: "https://open.spotify.com/track/2kfr5YNeF6mXLkJjhgj83N",
+    },
+  ],
 } as const satisfies Track

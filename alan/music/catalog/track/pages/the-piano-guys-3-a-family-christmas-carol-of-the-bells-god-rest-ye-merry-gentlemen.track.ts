@@ -30,4 +30,13 @@ export const thePianoGuys3AFamilyChristmasCarolOfTheBellsGodRestYeMerryGentlemen
   trackKey:
     "carolofthebellsgodrestyemerrygentlemen|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf,6lBN3Tzt61u8i9AJoAhKzF|201918",
   song: "song/the-piano-guys-carol-of-the-bells-god-rest-ye-merry-gentlemen",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 4,
+      externalId: "7r6am67jCRvroqkkE2TS8y",
+      externalLink: "https://open.spotify.com/track/7r6am67jCRvroqkkE2TS8y",
+    },
+  ],
 } as const satisfies Track

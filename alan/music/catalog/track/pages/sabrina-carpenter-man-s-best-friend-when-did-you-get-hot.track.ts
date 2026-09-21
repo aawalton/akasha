@@ -25,4 +25,13 @@ export const sabrinaCarpenterManSBestFriendWhenDidYouGetHot = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "whendidyougethot|74KM79TiuVKeVCqs8QtB0B|145398",
   song: "song/sabrina-carpenter-when-did-you-get-hot",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-man-s-best-friend",
+      discNumber: 1,
+      position: 8,
+      externalId: "0je57Uq5eTk1wrPzn9sWbl",
+      externalLink: "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl",
+    },
+  ],
 } as const satisfies Track

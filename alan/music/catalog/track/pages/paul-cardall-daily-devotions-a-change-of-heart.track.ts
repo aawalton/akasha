@@ -25,4 +25,13 @@ export const paulCardallDailyDevotionsAChangeOfHeart = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "achangeofheart|7FQRbf8gbKw8KZQZAJWxH2|278106",
   song: "song/paul-cardall-a-change-of-heart",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-daily-devotions",
+      discNumber: 1,
+      position: 7,
+      externalId: "59BW5SssTprev1iWJPSk6I",
+      externalLink: "https://open.spotify.com/track/59BW5SssTprev1iWJPSk6I",
+    },
+  ],
 } as const satisfies Track

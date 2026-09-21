@@ -25,4 +25,13 @@ export const arianaGrandePetalBadThingBunnyHop = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "badthingbunnyhop|66CXWjxzNUsdJxJ2JdwvnR|208024",
   song: "song/ariana-grande-bad-thing-bunny-hop",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-petal",
+      discNumber: 1,
+      position: 11,
+      externalId: "4zmXWmILSBkn7gTvIyCiNi",
+      externalLink: "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraAnimalSoulAnimalSoul = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "animalsoul|1WgXqy2Dd70QQOU7Ay074N|182200",
   song: "song/aurora-animal-soul",
+  carriedBy: [
+    {
+      release: "release/aurora-animal-soul",
+      discNumber: 1,
+      position: 1,
+      externalId: "6KLkPSUno2eKn6L23liMbf",
+      externalLink: "https://open.spotify.com/track/6KLkPSUno2eKn6L23liMbf",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallBeCalmBrainHealthyMusicSweetEscape = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweetescape|7FQRbf8gbKw8KZQZAJWxH2|188613",
   song: "song/paul-cardall-sweet-escape",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-be-calm-brain-healthy-music",
+      discNumber: 1,
+      position: 4,
+      externalId: "7bwd9S6n7kHPHKj2Tal7Fo",
+      externalLink: "https://open.spotify.com/track/7bwd9S6n7kHPHKj2Tal7Fo",
+    },
+  ],
 } as const satisfies Track

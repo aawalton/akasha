@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourItsTooLateLiveAtTheTroubadour2007 = 
   trackKey:
     "itstoolateliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|299040",
   song: "song/james-taylor-its-too-late",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 5,
+      externalId: "2GUEXn64HZhMo6sdzjLPdg",
+      externalLink: "https://open.spotify.com/track/2GUEXn64HZhMo6sdzjLPdg",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiTheHighSongTheHighSong = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thehighsong|5USAMqcbMAzF3HBmeD5pJF|149506",
   song: "song/vinny-marchi-the-high-song",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-the-high-song",
+      discNumber: 1,
+      position: 1,
+      externalId: "6iphhfUPPomm0AOepLnqqq",
+      externalLink: "https://open.spotify.com/track/6iphhfUPPomm0AOepLnqqq",
+    },
+  ],
 } as const satisfies Track

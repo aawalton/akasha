@@ -25,4 +25,13 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionGreenTheWholeYearR
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "greenthewholeyearround|6NWtt9pNOL2Gx7kBykdE5x|286733",
   song: "song/celtic-woman-green-the-whole-year-round",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-greatest-journey-essential-collection",
+      discNumber: 1,
+      position: 12,
+      externalId: "4rFo4MQb4tUTcPs5RW9dSy",
+      externalLink: "https://open.spotify.com/track/4rFo4MQb4tUTcPs5RW9dSy",
+    },
+  ],
 } as const satisfies Track

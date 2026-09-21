@@ -25,4 +25,13 @@ export const paulCardallReturnHomeIBelieveInChrist = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ibelieveinchrist|7FQRbf8gbKw8KZQZAJWxH2|228884",
   song: "song/paul-cardall-i-believe-in-christ",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 10,
+      externalId: "1yqSZF8f62VudWGWSqBi7g",
+      externalLink: "https://open.spotify.com/track/1yqSZF8f62VudWGWSqBi7g",
+    },
+  ],
 } as const satisfies Track

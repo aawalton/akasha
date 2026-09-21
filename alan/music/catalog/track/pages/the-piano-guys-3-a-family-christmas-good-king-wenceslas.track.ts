@@ -28,4 +28,13 @@ export const thePianoGuys3AFamilyChristmasGoodKingWenceslas = {
   ],
   trackKey: "goodkingwenceslas|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|232463",
   song: "song/the-piano-guys-good-king-wenceslas",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 3,
+      externalId: "7bhwnZvz6oDszzeGAFG6kn",
+      externalLink: "https://open.spotify.com/track/7bhwnZvz6oDszzeGAFG6kn",
+    },
+  ],
 } as const satisfies Track

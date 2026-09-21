@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheBlessin
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theblessing|6NWtt9pNOL2Gx7kBykdE5x|229760",
   song: "song/celtic-woman-the-blessing",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 4,
+      position: 3,
+      externalId: "4KZQeUZS84p9oo7gBJuG6l",
+      externalLink: "https://open.spotify.com/track/4KZQeUZS84p9oo7gBJuG6l",
+    },
+  ],
 } as const satisfies Track

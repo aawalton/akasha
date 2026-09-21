@@ -25,4 +25,13 @@ export const jamesTaylor2CoversSomeDaysYouGottaDance = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "somedaysyougottadance|0vn7UBvSQECKJm2817Yf1P|159413",
   song: "song/james-taylor-some-days-you-gotta-dance",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 5,
+      externalId: "7wsuB1hxiDdWBVC9D5NZXn",
+      externalLink: "https://open.spotify.com/track/7wsuB1hxiDdWBVC9D5NZXn",
+    },
+  ],
 } as const satisfies Track

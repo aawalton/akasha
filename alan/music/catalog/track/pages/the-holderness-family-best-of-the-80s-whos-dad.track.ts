@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe80sWhosDad = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "whosdad|6tITG4T8LpC0msapZ4wXGA|123662",
   song: "song/the-holderness-family-whos-dad",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-80s",
+      discNumber: 1,
+      position: 10,
+      externalId: "7nL9bbnt55XuJp2A5VA1QH",
+      externalLink: "https://open.spotify.com/track/7nL9bbnt55XuJp2A5VA1QH",
+    },
+  ],
 } as const satisfies Track

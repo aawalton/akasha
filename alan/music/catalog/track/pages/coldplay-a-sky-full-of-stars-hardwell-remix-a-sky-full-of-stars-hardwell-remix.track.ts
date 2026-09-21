@@ -28,4 +28,13 @@ export const coldplayASkyFullOfStarsHardwellRemixASkyFullOfStarsHardwellRemix = 
   ],
   trackKey: "askyfullofstarshardwellremix|4gzpq5DPGxSnKTe4SA8HAU,6BrvowZBreEkXzJQMpL174|313124",
   song: "song/coldplay-a-sky-full-of-stars",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-sky-full-of-stars-hardwell-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "0WZVGXO8FYpK8v1IDxlOyE",
+      externalLink: "https://open.spotify.com/track/0WZVGXO8FYpK8v1IDxlOyE",
+    },
+  ],
 } as const satisfies Track

@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWalkingThe
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "walkingthenighttheworldfallsaway|6NWtt9pNOL2Gx7kBykdE5x|403373",
   song: "song/celtic-woman-walking-the-night-the-world-falls-away",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 6,
+      externalId: "3UBX0ysWycKWiinU7GfoZX",
+      externalLink: "https://open.spotify.com/track/3UBX0ysWycKWiinU7GfoZX",
+    },
+  ],
 } as const satisfies Track

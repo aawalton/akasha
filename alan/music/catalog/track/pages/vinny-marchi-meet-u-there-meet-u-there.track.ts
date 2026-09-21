@@ -25,4 +25,13 @@ export const vinnyMarchiMeetUThereMeetUThere = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "meetuthere|5USAMqcbMAzF3HBmeD5pJF|168000",
   song: "song/vinny-marchi-meet-u-there",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-meet-u-there",
+      discNumber: 1,
+      position: 1,
+      externalId: "0EalDy2yJzKpjUfIxlcXgS",
+      externalLink: "https://open.spotify.com/track/0EalDy2yJzKpjUfIxlcXgS",
+    },
+  ],
 } as const satisfies Track

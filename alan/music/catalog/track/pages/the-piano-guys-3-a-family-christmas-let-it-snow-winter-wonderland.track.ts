@@ -32,4 +32,13 @@ export const thePianoGuys3AFamilyChristmasLetItSnowWinterWonderland = {
   trackKey:
     "letitsnowwinterwonderland|0jW6R8CVyVohuUJVcuweDI,1OfAveO4qZ0tTDBqEzFwuf,3vAPM1qiCuClMH5DNbAgtC,4us59Bx720z6eLFe7FeoEA,6JvUOG4JFmgNW6jjwm71uU|208838",
   song: "song/the-piano-guys-let-it-snow-winter-wonderland",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 6,
+      externalId: "7h8WFgo7wjWVlEA3PxaFa5",
+      externalLink: "https://open.spotify.com/track/7h8WFgo7wjWVlEA3PxaFa5",
+    },
+  ],
 } as const satisfies Track

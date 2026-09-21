@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysWhereYouThere = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "whereyouthere|7FQRbf8gbKw8KZQZAJWxH2|317133",
   song: "song/paul-cardall-where-you-there",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 23,
+      externalId: "20yGfhdzsj6ZlSs5Adx0aj",
+      externalLink: "https://open.spotify.com/track/20yGfhdzsj6ZlSs5Adx0aj",
+    },
+  ],
 } as const satisfies Track

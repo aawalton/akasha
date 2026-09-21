@@ -25,4 +25,13 @@ export const zaraLarssonVenusEndOfTime = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "endoftime|1Xylc3o4UrD53lo9CvFvVg|209803",
   song: "song/zara-larsson-end-of-time",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-venus",
+      discNumber: 1,
+      position: 7,
+      externalId: "42od6nOeV32g5uNwz17xq5",
+      externalLink: "https://open.spotify.com/track/42od6nOeV32g5uNwz17xq5",
+    },
+  ],
 } as const satisfies Track

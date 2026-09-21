@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionS
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "saturnreturnsinterlude|66CXWjxzNUsdJxJ2JdwvnR|42166",
   song: "song/ariana-grande-saturn-returns-interlude",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+      discNumber: 1,
+      position: 4,
+      externalId: "0X5CV5S0wv4BipEwvfjvLx",
+      externalLink: "https://open.spotify.com/track/0X5CV5S0wv4BipEwvfjvLx",
+    },
+  ],
 } as const satisfies Track

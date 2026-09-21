@@ -25,4 +25,13 @@ export const jamesTaylor2OctoberRoadSpecialEditionHaveYourselfAMerryLittleChrist
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "haveyourselfamerrylittlechristmas|0vn7UBvSQECKJm2817Yf1P|230333",
   song: "song/coldplay-have-yourself-a-merry-little-christmas",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-october-road-special-edition",
+      discNumber: 1,
+      position: 12,
+      externalId: "0wS1neX5YLHnLL0UCSymoQ",
+      externalLink: "https://open.spotify.com/track/0wS1neX5YLHnLL0UCSymoQ",
+    },
+  ],
 } as const satisfies Track

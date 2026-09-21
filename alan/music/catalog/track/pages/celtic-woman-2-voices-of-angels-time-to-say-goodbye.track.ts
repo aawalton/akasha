@@ -25,4 +25,13 @@ export const celticWoman2VoicesOfAngelsTimeToSayGoodbye = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "timetosaygoodbye|6NWtt9pNOL2Gx7kBykdE5x|241506",
   song: "song/celtic-woman-time-to-say-goodbye",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-voices-of-angels",
+      discNumber: 1,
+      position: 7,
+      externalId: "6KcfjZ4H6jENORB7V8xCSy",
+      externalLink: "https://open.spotify.com/track/6KcfjZ4H6jENORB7V8xCSy",
+    },
+  ],
 } as const satisfies Track

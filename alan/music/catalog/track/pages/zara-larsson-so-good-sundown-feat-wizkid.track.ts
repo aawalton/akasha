@@ -28,4 +28,13 @@ export const zaraLarssonSoGoodSundownFeatWizkid = {
   ],
   trackKey: "sundownfeatwizkid|1Xylc3o4UrD53lo9CvFvVg,3tVQdUvClmAT7URs9V3rsp|205780",
   song: "song/zara-larsson-sundown",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 8,
+      externalId: "1yQ8woSt5tJ7pGJyQGuc2q",
+      externalLink: "https://open.spotify.com/track/1yQ8woSt5tJ7pGJyQGuc2q",
+    },
+  ],
 } as const satisfies Track

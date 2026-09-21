@@ -25,4 +25,13 @@ export const thePianoGuysPianoFocusGoldenHour = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "goldenhour|0jW6R8CVyVohuUJVcuweDI|158571",
   song: "song/the-piano-guys-golden-hour",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 14,
+      externalId: "4bcYfAnZB7sm4Pblu2TqyX",
+      externalLink: "https://open.spotify.com/track/4bcYfAnZB7sm4Pblu2TqyX",
+    },
+  ],
 } as const satisfies Track

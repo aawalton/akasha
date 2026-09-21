@@ -25,4 +25,13 @@ export const theHoldernessFamilyQuarantunesVolOneOdeToZoom = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "odetozoom|6tITG4T8LpC0msapZ4wXGA|178546",
   song: "song/the-holderness-family-ode-to-zoom",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-quarantunes-vol-one",
+      discNumber: 1,
+      position: 5,
+      externalId: "0KAQrw260uusQxE5bmIRfE",
+      externalLink: "https://open.spotify.com/track/0KAQrw260uusQxE5bmIRfE",
+    },
+  ],
 } as const satisfies Track

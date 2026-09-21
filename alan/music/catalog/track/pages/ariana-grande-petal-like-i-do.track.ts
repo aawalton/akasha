@@ -25,4 +25,13 @@ export const arianaGrandePetalLikeIDo = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "likeido|66CXWjxzNUsdJxJ2JdwvnR|167333",
   song: "song/ariana-grande-like-i-do",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-petal",
+      discNumber: 1,
+      position: 9,
+      externalId: "3d1oTMjtfVySbAYQp3v4MU",
+      externalLink: "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU",
+    },
+  ],
 } as const satisfies Track

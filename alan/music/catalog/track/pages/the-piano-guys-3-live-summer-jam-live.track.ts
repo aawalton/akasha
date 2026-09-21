@@ -25,4 +25,13 @@ export const thePianoGuys3LiveSummerJamLive = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "summerjamlive|0jW6R8CVyVohuUJVcuweDI|220173",
   song: "song/the-piano-guys-summer-jam",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-live",
+      discNumber: 1,
+      position: 8,
+      externalId: "5eqn01HUwtVcyNS9MxULzW",
+      externalLink: "https://open.spotify.com/track/5eqn01HUwtVcyNS9MxULzW",
+    },
+  ],
 } as const satisfies Track

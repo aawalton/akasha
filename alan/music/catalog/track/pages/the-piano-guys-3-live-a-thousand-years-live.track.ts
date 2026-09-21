@@ -28,4 +28,13 @@ export const thePianoGuys3LiveAThousandYearsLive = {
   ],
   trackKey: "athousandyearslive|0jW6R8CVyVohuUJVcuweDI,3behdijGrqvmGolVpLXTLz|278640",
   song: "song/evynne-hollens-a-thousand-years",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-live",
+      discNumber: 1,
+      position: 17,
+      externalId: "3JFrIRgNqkrwITPR5Y1DUd",
+      externalLink: "https://open.spotify.com/track/3JFrIRgNqkrwITPR5Y1DUd",
+    },
+  ],
 } as const satisfies Track

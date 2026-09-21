@@ -31,4 +31,13 @@ export const celticWoman2BelieveTheWaterIsWide = {
   trackKey:
     "thewateriswide|1U5zgr455OGyIkLNXvDdrf,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|210693",
   song: "song/celtic-woman-the-water-is-wide",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-believe",
+      discNumber: 1,
+      position: 5,
+      externalId: "7GqjjfpDHXw1zwujFeT1HI",
+      externalLink: "https://open.spotify.com/track/7GqjjfpDHXw1zwujFeT1HI",
+    },
+  ],
 } as const satisfies Track

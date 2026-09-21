@@ -31,4 +31,13 @@ export const auroraHaveYouSeenMeDanceAloneRosaPistolaRemixHaveYouSeenMeDanceAlon
   trackKey:
     "haveyouseenmedancealonerosapistolaremix|06fEHseCklFEuDgM5dccHX,1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|243851",
   song: "song/aurora-have-you-seen-me-dance-alone",
+  carriedBy: [
+    {
+      release: "release/aurora-have-you-seen-me-dance-alone-rosa-pistola-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "6Ni3ftx7WG99FOcLKROIQ2",
+      externalLink: "https://open.spotify.com/track/6Ni3ftx7WG99FOcLKROIQ2",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayMurderMurder = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "murder|4gzpq5DPGxSnKTe4SA8HAU|334879",
   song: "song/coldplay-murder",
+  carriedBy: [
+    {
+      release: "release/coldplay-murder",
+      discNumber: 1,
+      position: 1,
+      externalId: "41qujRJ7RG759UklwNHStb",
+      externalLink: "https://open.spotify.com/track/41qujRJ7RG759UklwNHStb",
+    },
+  ],
 } as const satisfies Track

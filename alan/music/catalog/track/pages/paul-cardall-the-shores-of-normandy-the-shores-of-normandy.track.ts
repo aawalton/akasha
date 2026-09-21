@@ -25,4 +25,13 @@ export const paulCardallTheShoresOfNormandyTheShoresOfNormandy = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "theshoresofnormandy|7FQRbf8gbKw8KZQZAJWxH2|260484",
   song: "song/paul-cardall-the-shores-of-normandy",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-shores-of-normandy",
+      discNumber: 1,
+      position: 1,
+      externalId: "2z3XBCX19Hyugl3Cj4yaVs",
+      externalLink: "https://open.spotify.com/track/2z3XBCX19Hyugl3Cj4yaVs",
+    },
+  ],
 } as const satisfies Track

@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourCarolinaInMyMindLiveAtTheTroubadour2
   trackKey:
     "carolinainmymindliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|256493",
   song: "song/james-taylor-carolina-in-my-mind",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 4,
+      externalId: "69y5Ccc4CVtL96cHzvgQEy",
+      externalLink: "https://open.spotify.com/track/69y5Ccc4CVtL96cHzvgQEy",
+    },
+  ],
 } as const satisfies Track

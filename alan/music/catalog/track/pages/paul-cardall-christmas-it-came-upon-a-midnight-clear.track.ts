@@ -25,4 +25,13 @@ export const paulCardallChristmasItCameUponAMidnightClear = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "itcameuponamidnightclear|7FQRbf8gbKw8KZQZAJWxH2|194643",
   song: "song/paul-cardall-it-came-upon-a-midnight-clear",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas",
+      discNumber: 1,
+      position: 5,
+      externalId: "1xFa1EIjMAr3GtKVwICs5z",
+      externalLink: "https://open.spotify.com/track/1xFa1EIjMAr3GtKVwICs5z",
+    },
+  ],
 } as const satisfies Track

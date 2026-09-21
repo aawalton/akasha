@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysJesusWantsMeForASunbeam = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesuswantsmeforasunbeam|7FQRbf8gbKw8KZQZAJWxH2|131306",
   song: "song/paul-cardall-jesus-wants-me-for-a-sunbeam",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 8,
+      externalId: "7CVn0F1URnFGUPmonQP0Ri",
+      externalLink: "https://open.spotify.com/track/7CVn0F1URnFGUPmonQP0Ri",
+    },
+  ],
 } as const satisfies Track

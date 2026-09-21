@@ -30,4 +30,13 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemixRainOnMePurpleDiscoMachi
   trackKey:
     "rainonmepurplediscomachineremixedit|1HY2Jd0NmPuamShAr6KMms,2WBJQGf1bT1kxuoqziH5g4,66CXWjxzNUsdJxJ2JdwvnR|238048",
   song: "song/ariana-grande-rain-on-me",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-rain-on-me-purple-disco-machine-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "0dj5O3Nc6ONKWNd8mErvND",
+      externalLink: "https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2BallroomOfRomanceBallroomOfRomance = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "ballroomofromance|6NWtt9pNOL2Gx7kBykdE5x|196093",
   song: "song/celtic-woman-ballroom-of-romance",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-ballroom-of-romance",
+      discNumber: 1,
+      position: 1,
+      externalId: "3BrK8g4YmVdZJDJ2JYJUB0",
+      externalLink: "https://open.spotify.com/track/3BrK8g4YmVdZJDJ2JYJUB0",
+    },
+  ],
 } as const satisfies Track

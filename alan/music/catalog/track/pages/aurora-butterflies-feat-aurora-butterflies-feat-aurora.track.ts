@@ -28,4 +28,13 @@ export const auroraButterfliesFeatAuroraButterfliesFeatAurora = {
   ],
   trackKey: "butterfliesfeataurora|1WgXqy2Dd70QQOU7Ay074N,2txHhyCwHjUEpJjWrEyqyX|130666",
   song: "song/aurora-butterflies",
+  carriedBy: [
+    {
+      release: "release/aurora-butterflies-feat-aurora",
+      discNumber: 1,
+      position: 1,
+      externalId: "1dWUBCoztAMZcqec1CAE6z",
+      externalLink: "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z",
+    },
+  ],
 } as const satisfies Track

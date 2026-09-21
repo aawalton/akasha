@@ -31,4 +31,13 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorldTakeOnTheW
   trackKey:
     "takeontheworldthemesongfromgirlmeetsworld|45af7IeC0N5gQ9cyoIFyS6,74KM79TiuVKeVCqs8QtB0B|192640",
   song: "song/sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world",
+      discNumber: 1,
+      position: 1,
+      externalId: "5lz0NiPw32Gq4kMIUJvuw2",
+      externalLink: "https://open.spotify.com/track/5lz0NiPw32Gq4kMIUJvuw2",
+    },
+  ],
 } as const satisfies Track

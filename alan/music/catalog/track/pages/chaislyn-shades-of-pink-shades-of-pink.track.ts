@@ -25,4 +25,13 @@ export const chaislynShadesOfPinkShadesOfPink = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "shadesofpink|3zmbniiciaBAJlSX1Bzq9R|213892",
   song: "song/chaislyn-shades-of-pink",
+  carriedBy: [
+    {
+      release: "release/chaislyn-shades-of-pink",
+      discNumber: 1,
+      position: 1,
+      externalId: "1fETHQlDrWcGYBJ7dz69Gq",
+      externalLink: "https://open.spotify.com/track/1fETHQlDrWcGYBJ7dz69Gq",
+    },
+  ],
 } as const satisfies Track

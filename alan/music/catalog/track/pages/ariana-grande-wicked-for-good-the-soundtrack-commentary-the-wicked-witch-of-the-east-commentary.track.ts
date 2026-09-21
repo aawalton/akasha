@@ -25,4 +25,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
   trackArtist: [{ externalId: "6uGIoRQUqP4ncxyg6HksA1", artistName: "Marissa Bode" }],
   trackKey: "thewickedwitchoftheeastcommentary|6uGIoRQUqP4ncxyg6HksA1|21886",
   song: "song/ariana-grande-the-wicked-witch-of-the-east-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 8,
+      externalId: "0h0QY6boVj3py8y9yZbkI4",
+      externalLink: "https://open.spotify.com/track/0h0QY6boVj3py8y9yZbkI4",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3Unstoppable2Enchanted = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "enchanted|0jW6R8CVyVohuUJVcuweDI|298998",
   song: "song/the-piano-guys-enchanted",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-unstoppable-2",
+      discNumber: 1,
+      position: 5,
+      externalId: "1DxQeLfb2xKynvproGlLwy",
+      externalLink: "https://open.spotify.com/track/1DxQeLfb2xKynvproGlLwy",
+    },
+  ],
 } as const satisfies Track

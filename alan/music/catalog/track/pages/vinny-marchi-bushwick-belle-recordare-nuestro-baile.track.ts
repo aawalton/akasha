@@ -25,4 +25,13 @@ export const vinnyMarchiBushwickBelleRecordareNuestroBaile = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "recordarenuestrobaile|5USAMqcbMAzF3HBmeD5pJF|220119",
   song: "song/vinny-marchi-recordare-nuestro-baile",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-bushwick-belle",
+      discNumber: 1,
+      position: 3,
+      externalId: "28zGfJ9GZpOjCTpvbO0gry",
+      externalLink: "https://open.spotify.com/track/28zGfJ9GZpOjCTpvbO0gry",
+    },
+  ],
 } as const satisfies Track

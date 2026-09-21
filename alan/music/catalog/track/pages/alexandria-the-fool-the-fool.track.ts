@@ -25,4 +25,13 @@ export const alexandriaTheFoolTheFool = {
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "thefool|0SQG4wPVUlfbmbGQfqB47y|175161",
   song: "song/alexandria-the-fool",
+  carriedBy: [
+    {
+      release: "release/alexandria-the-fool",
+      discNumber: 1,
+      position: 1,
+      externalId: "5OkXA7ru3aZrY92m800aSc",
+      externalLink: "https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc",
+    },
+  ],
 } as const satisfies Track

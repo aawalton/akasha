@@ -30,4 +30,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDearOldShiz = {
   trackKey:
     "dearoldshiz|32zfWhZAXwCpm5edh16fqj,3eLZo1bSslvsu0zNhtmMM4,66CXWjxzNUsdJxJ2JdwvnR|71734",
   song: "song/ariana-grande-dear-old-shiz",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 5,
+      externalId: "2ewsJv4Klm34vqbXgQkxkF",
+      externalLink: "https://open.spotify.com/track/2ewsJv4Klm34vqbXgQkxkF",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiAtmosphereAtmosphere = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "atmosphere|5USAMqcbMAzF3HBmeD5pJF|204911",
   song: "song/vinny-marchi-atmosphere",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-atmosphere",
+      discNumber: 1,
+      position: 1,
+      externalId: "6FAz7xrWdeXGentftxyqd5",
+      externalLink: "https://open.spotify.com/track/6FAz7xrWdeXGentftxyqd5",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallASacredChristmasPianoCollectionOurLittleAngel = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ourlittleangel|7FQRbf8gbKw8KZQZAJWxH2|178938",
   song: "song/paul-cardall-our-little-angel",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-sacred-christmas-piano-collection",
+      discNumber: 1,
+      position: 3,
+      externalId: "5r37KfoFIhOEPmIA71IUdC",
+      externalLink: "https://open.spotify.com/track/5r37KfoFIhOEPmIA71IUdC",
+    },
+  ],
 } as const satisfies Track

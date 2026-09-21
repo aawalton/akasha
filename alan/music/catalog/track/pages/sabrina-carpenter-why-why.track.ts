@@ -25,4 +25,13 @@ export const sabrinaCarpenterWhyWhy = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "why|74KM79TiuVKeVCqs8QtB0B|171096",
   song: "song/sabrina-carpenter-why",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-why",
+      discNumber: 1,
+      position: 1,
+      externalId: "1byScELwcJffsdL5QWa6Yk",
+      externalLink: "https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk",
+    },
+  ],
 } as const satisfies Track

@@ -31,4 +31,13 @@ export const auroraWorldOfWarcraftAPlaceToCallHomeAPlaceToCallHome = {
   trackKey:
     "aplacetocallhome|1WgXqy2Dd70QQOU7Ay074N,2dlo6TFsxQawXjxytNerod,5ZU7xWKgKq5T47aBVHBeMs,6UJ3pPsN7xzsz0Cneucy59|131978",
   song: "song/aurora-a-place-to-call-home",
+  carriedBy: [
+    {
+      release: "release/aurora-world-of-warcraft-a-place-to-call-home",
+      discNumber: 1,
+      position: 1,
+      externalId: "0rIcVjhuC7B4IGg7C0AVNd",
+      externalLink: "https://open.spotify.com/track/0rIcVjhuC7B4IGg7C0AVNd",
+    },
+  ],
 } as const satisfies Track

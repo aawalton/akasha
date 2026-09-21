@@ -25,4 +25,13 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesMyHairLiveFromVevo
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "myhairlivefromvevo|66CXWjxzNUsdJxJ2JdwvnR|194344",
   song: "song/ariana-grande-my-hair",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions-vevo-official-live-performances",
+      discNumber: 1,
+      position: 4,
+      externalId: "7GDBfNaLnvPKz0TSQnuHpZ",
+      externalLink: "https://open.spotify.com/track/7GDBfNaLnvPKz0TSQnuHpZ",
+    },
+  ],
 } as const satisfies Track

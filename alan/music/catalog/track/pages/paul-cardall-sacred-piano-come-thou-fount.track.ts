@@ -25,4 +25,13 @@ export const paulCardallSacredPianoComeThouFount = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comethoufount|7FQRbf8gbKw8KZQZAJWxH2|157253",
   song: "song/paul-cardall-come-thou-fount",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-sacred-piano",
+      discNumber: 1,
+      position: 7,
+      externalId: "10reGqkbhWnp4mk7fS8zI0",
+      externalLink: "https://open.spotify.com/track/10reGqkbhWnp4mk7fS8zI0",
+    },
+  ],
 } as const satisfies Track

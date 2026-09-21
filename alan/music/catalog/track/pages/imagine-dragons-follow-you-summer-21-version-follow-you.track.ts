@@ -25,4 +25,13 @@ export const imagineDragonsFollowYouSummer21VersionFollowYou = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "followyou|53XhwfbYqKCa1cC15pYq2q|175643",
   song: "song/imagine-dragons-follow-you",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-follow-you-summer-21-version",
+      discNumber: 1,
+      position: 2,
+      externalId: "2rnZVDY6fPaTUjskifkok3",
+      externalLink: "https://open.spotify.com/track/2rnZVDY6fPaTUjskifkok3",
+    },
+  ],
 } as const satisfies Track

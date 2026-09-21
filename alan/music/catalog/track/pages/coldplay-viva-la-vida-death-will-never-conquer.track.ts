@@ -25,4 +25,13 @@ export const coldplayVivaLaVidaDeathWillNeverConquer = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "deathwillneverconquer|4gzpq5DPGxSnKTe4SA8HAU|77853",
   song: "song/coldplay-death-will-never-conquer",
+  carriedBy: [
+    {
+      release: "release/coldplay-viva-la-vida",
+      discNumber: 1,
+      position: 2,
+      externalId: "5XXjAYhslP3i0eDc8LSxDU",
+      externalLink: "https://open.spotify.com/track/5XXjAYhslP3i0eDc8LSxDU",
+    },
+  ],
 } as const satisfies Track

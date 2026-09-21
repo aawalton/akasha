@@ -25,4 +25,13 @@ export const sabrinaCarpenterFeatherSpedUpFeather = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "feather|74KM79TiuVKeVCqs8QtB0B|185552",
   song: "song/sabrina-carpenter-feather",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-feather-sped-up",
+      discNumber: 1,
+      position: 1,
+      externalId: "1V7sKms8MbsSYYtecDE2CW",
+      externalLink: "https://open.spotify.com/track/1V7sKms8MbsSYYtecDE2CW",
+    },
+  ],
 } as const satisfies Track

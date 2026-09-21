@@ -25,4 +25,13 @@ export const coldplayVivaLaVidaProspektSMarchEditionNowMyFeetWontTouchTheGround 
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "nowmyfeetwonttouchtheground|4gzpq5DPGxSnKTe4SA8HAU|147521",
   song: "song/coldplay-now-my-feet-wont-touch-the-ground",
+  carriedBy: [
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 8,
+      externalId: "4PA4J8GvCN8RuE39wJ1QT1",
+      externalLink: "https://open.spotify.com/track/4PA4J8GvCN8RuE39wJ1QT1",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraInfectionsOfADifferentKindStepIInfectionsOfADifferentKind = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "infectionsofadifferentkind|1WgXqy2Dd70QQOU7Ay074N|326909",
   song: "song/aurora-infections-of-a-different-kind",
+  carriedBy: [
+    {
+      release: "release/aurora-infections-of-a-different-kind-step-i",
+      discNumber: 1,
+      position: 8,
+      externalId: "4qG51V8PWSpARAjrUCYzM6",
+      externalLink: "https://open.spotify.com/track/4qG51V8PWSpARAjrUCYzM6",
+    },
+  ],
 } as const satisfies Track

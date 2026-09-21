@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2022OdeToPickleball = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "odetopickleball|6tITG4T8LpC0msapZ4wXGA|187488",
   song: "song/the-holderness-family-ode-to-pickleball",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2022",
+      discNumber: 1,
+      position: 15,
+      externalId: "7mOMNeL1n7X2v8aykLUqJv",
+      externalLink: "https://open.spotify.com/track/7mOMNeL1n7X2v8aykLUqJv",
+    },
+  ],
 } as const satisfies Track

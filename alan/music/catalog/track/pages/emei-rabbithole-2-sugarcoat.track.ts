@@ -25,4 +25,13 @@ export const emeiRabbithole2Sugarcoat = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "sugarcoat|7E2aQQjErJocovYFjYLzWU|150270",
   song: "song/emei-sugarcoat",
+  carriedBy: [
+    {
+      release: "release/emei-rabbithole-2",
+      discNumber: 1,
+      position: 4,
+      externalId: "7ds2cvPKeRrbIVHTctkBc4",
+      externalLink: "https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4",
+    },
+  ],
 } as const satisfies Track

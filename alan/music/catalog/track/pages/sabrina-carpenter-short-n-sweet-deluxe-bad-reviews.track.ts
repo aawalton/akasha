@@ -25,4 +25,13 @@ export const sabrinaCarpenterShortNSweetDeluxeBadReviews = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "badreviews|74KM79TiuVKeVCqs8QtB0B|141393",
   song: "song/sabrina-carpenter-bad-reviews",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-short-n-sweet-deluxe",
+      discNumber: 1,
+      position: 17,
+      externalId: "1Y66A5zH3iPOWCDIuSDQR5",
+      externalLink: "https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5",
+    },
+  ],
 } as const satisfies Track

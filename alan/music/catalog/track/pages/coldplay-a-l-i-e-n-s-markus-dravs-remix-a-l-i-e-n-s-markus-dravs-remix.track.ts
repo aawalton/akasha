@@ -28,4 +28,13 @@ export const coldplayALIENSMarkusDravsRemixALIENSMarkusDravsRemix = {
   ],
   trackKey: "aliensmarkusdravsremix|4gzpq5DPGxSnKTe4SA8HAU,4hiaR1Y9EIWosXGKZlTNr5|425216",
   song: "song/coldplay-a-l-i-e-n-s",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-l-i-e-n-s-markus-dravs-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5XQGVOIgKyXhcv9TrQQAH0",
+      externalLink: "https://open.spotify.com/track/5XQGVOIgKyXhcv9TrQQAH0",
+    },
+  ],
 } as const satisfies Track

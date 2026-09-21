@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBreakYourHeartRightB
   ],
   trackKey: "breakyourheartrightback|66CXWjxzNUsdJxJ2JdwvnR,73sIBHcqh3Z3NyqHKZ7FOL|253390",
   song: "song/ariana-grande-break-your-heart-right-back",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 8,
+      externalId: "50TJobiTvboJbFoSykLsYF",
+      externalLink: "https://open.spotify.com/track/50TJobiTvboJbFoSykLsYF",
+    },
+  ],
 } as const satisfies Track

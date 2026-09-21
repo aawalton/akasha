@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarThereIsAGreenHillFarAway = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thereisagreenhillfaraway|7FQRbf8gbKw8KZQZAJWxH2|234000",
   song: "song/paul-cardall-there-is-a-green-hill-far-away",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 17,
+      externalId: "2FhvAVWD2Vpl8zx5iBUZDH",
+      externalLink: "https://open.spotify.com/track/2FhvAVWD2Vpl8zx5iBUZDH",
+    },
+  ],
 } as const satisfies Track

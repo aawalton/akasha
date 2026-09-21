@@ -25,4 +25,13 @@ export const zaraLarsson1StillInMyBlood = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "stillinmyblood|1Xylc3o4UrD53lo9CvFvVg|191378",
   song: "song/zara-larsson-still-in-my-blood",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-1",
+      discNumber: 1,
+      position: 11,
+      externalId: "74fg5ykWIhis0NLxDOwqgQ",
+      externalLink: "https://open.spotify.com/track/74fg5ykWIhis0NLxDOwqgQ",
+    },
+  ],
 } as const satisfies Track

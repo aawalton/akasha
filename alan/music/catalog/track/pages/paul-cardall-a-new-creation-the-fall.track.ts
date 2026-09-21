@@ -25,4 +25,13 @@ export const paulCardallANewCreationTheFall = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thefall|7FQRbf8gbKw8KZQZAJWxH2|322480",
   song: "song/paul-cardall-the-fall",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-new-creation",
+      discNumber: 1,
+      position: 2,
+      externalId: "55aQ3WzLa2LEGbv8k3whgD",
+      externalLink: "https://open.spotify.com/track/55aQ3WzLa2LEGbv8k3whgD",
+    },
+  ],
 } as const satisfies Track

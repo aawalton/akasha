@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoDeepWaters = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "deepwaters|7FQRbf8gbKw8KZQZAJWxH2|205146",
   song: "song/paul-cardall-deep-waters",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 3,
+      externalId: "4Wjgkn2ccF4Fm0Pe1Q5gb3",
+      externalLink: "https://open.spotify.com/track/4Wjgkn2ccF4Fm0Pe1Q5gb3",
+    },
+  ],
 } as const satisfies Track

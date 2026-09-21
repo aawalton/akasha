@@ -25,4 +25,13 @@ export const emeiWhatsThePointWhatsThePoint = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "whatsthepoint|7E2aQQjErJocovYFjYLzWU|163754",
   song: "song/emei-whats-the-point",
+  carriedBy: [
+    {
+      release: "release/emei-whats-the-point",
+      discNumber: 1,
+      position: 1,
+      externalId: "5yYGr8R31sQLOMVIgNCnrN",
+      externalLink: "https://open.spotify.com/track/5yYGr8R31sQLOMVIgNCnrN",
+    },
+  ],
 } as const satisfies Track

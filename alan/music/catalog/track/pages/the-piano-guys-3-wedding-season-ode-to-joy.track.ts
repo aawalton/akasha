@@ -25,4 +25,13 @@ export const thePianoGuys3WeddingSeasonOdeToJoy = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "odetojoy|0jW6R8CVyVohuUJVcuweDI|106111",
   song: "song/the-piano-guys-ode-to-joy",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 10,
+      externalId: "2ZLfgQqOFzz5UUMJEpAcRc",
+      externalLink: "https://open.spotify.com/track/2ZLfgQqOFzz5UUMJEpAcRc",
+    },
+  ],
 } as const satisfies Track

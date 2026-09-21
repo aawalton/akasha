@@ -28,4 +28,13 @@ export const imagineDragonsBirdsBirdsFeatElisa = {
   ],
   trackKey: "birdsfeatelisa|2ARH58Hit3yC6ziGdhma23,53XhwfbYqKCa1cC15pYq2q|219434",
   song: "song/imagine-dragons-birds",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-birds",
+      discNumber: 1,
+      position: 1,
+      externalId: "2uZVfvOK7MTjBTRICYmpso",
+      externalLink: "https://open.spotify.com/track/2uZVfvOK7MTjBTRICYmpso",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const auroraTheGodsWeCanTouchEverythingMatters = {
   ],
   trackKey: "everythingmatters|1WgXqy2Dd70QQOU7Ay074N,6e3pZKXUxrPfnUPJ960Hd9|213906",
   song: "song/aurora-everything-matters",
+  carriedBy: [
+    {
+      release: "release/aurora-the-gods-we-can-touch",
+      discNumber: 1,
+      position: 2,
+      externalId: "4X00YoOQUD49hwdXmWBXHM",
+      externalLink: "https://open.spotify.com/track/4X00YoOQUD49hwdXmWBXHM",
+    },
+  ],
 } as const satisfies Track

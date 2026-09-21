@@ -25,4 +25,13 @@ export const zaraLarssonBadBoysTodayRemixBadBoysTodayRemix = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "badboystodayremix|1Xylc3o4UrD53lo9CvFvVg|155520",
   song: "song/zara-larsson-bad-boys",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-bad-boys-today-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1Go2mkW0NdmZA5QnNB7kfr",
+      externalLink: "https://open.spotify.com/track/1Go2mkW0NdmZA5QnNB7kfr",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysUponTheCrossOfCalvary = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "uponthecrossofcalvary|7FQRbf8gbKw8KZQZAJWxH2|63466",
   song: "song/paul-cardall-upon-the-cross-of-calvary",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 34,
+      externalId: "1XM61LJ3uVtdmDpJztSt28",
+      externalLink: "https://open.spotify.com/track/1XM61LJ3uVtdmDpJztSt28",
+    },
+  ],
 } as const satisfies Track

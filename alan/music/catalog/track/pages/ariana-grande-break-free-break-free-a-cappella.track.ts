@@ -25,4 +25,13 @@ export const arianaGrandeBreakFreeBreakFreeACappella = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "breakfreeacappella|66CXWjxzNUsdJxJ2JdwvnR|203028",
   song: "song/ariana-grande-break-free",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-break-free",
+      discNumber: 1,
+      position: 2,
+      externalId: "1VGnGcB9mBywGac3H9yoQj",
+      externalLink: "https://open.spotify.com/track/1VGnGcB9mBywGac3H9yoQj",
+    },
+  ],
 } as const satisfies Track

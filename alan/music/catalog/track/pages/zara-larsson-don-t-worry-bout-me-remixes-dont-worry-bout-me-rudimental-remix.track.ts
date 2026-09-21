@@ -28,4 +28,13 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeRudimentalRemix = {
   ],
   trackKey: "dontworryboutmerudimentalremix|1Xylc3o4UrD53lo9CvFvVg,4WN5naL3ofxrVBgFpguzKo|193137",
   song: "song/zara-larsson-don-t-worry-bout-me",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-don-t-worry-bout-me-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "0YftavVa8tCdwosp2yR1PQ",
+      externalLink: "https://open.spotify.com/track/0YftavVa8tCdwosp2yR1PQ",
+    },
+  ],
 } as const satisfies Track

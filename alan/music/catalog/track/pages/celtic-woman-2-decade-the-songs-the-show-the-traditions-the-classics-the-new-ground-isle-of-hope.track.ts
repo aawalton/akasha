@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheNewGrou
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thenewgroundisleofhope|6NWtt9pNOL2Gx7kBykdE5x|401026",
   song: "song/celtic-woman-the-new-ground-isle-of-hope",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 13,
+      externalId: "1kkpB8n82z5URqcFHGIViU",
+      externalLink: "https://open.spotify.com/track/1kkpB8n82z5URqcFHGIViU",
+    },
+  ],
 } as const satisfies Track

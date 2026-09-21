@@ -25,4 +25,13 @@ export const celticWoman2PostcardsFromIrelandTheCalmOfTheDayTheBanshee = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thecalmofthedaythebanshee|6NWtt9pNOL2Gx7kBykdE5x|177226",
   song: "song/celtic-woman-the-calm-of-the-day-the-banshee",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-postcards-from-ireland",
+      discNumber: 1,
+      position: 11,
+      externalId: "0C3j3ga7ve7n1Wr6I3tQ9x",
+      externalLink: "https://open.spotify.com/track/0C3j3ga7ve7n1Wr6I3tQ9x",
+    },
+  ],
 } as const satisfies Track

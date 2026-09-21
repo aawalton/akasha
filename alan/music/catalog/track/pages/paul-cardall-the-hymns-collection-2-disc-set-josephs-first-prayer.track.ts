@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetJosephsFirstPrayer = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "josephsfirstprayer|7FQRbf8gbKw8KZQZAJWxH2|201195",
   song: "song/paul-cardall-josephs-first-prayer",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 1,
+      externalId: "3FlK2rWJsNeBOD734jROoU",
+      externalLink: "https://open.spotify.com/track/3FlK2rWJsNeBOD734jROoU",
+    },
+  ],
 } as const satisfies Track

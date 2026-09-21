@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "theboyismineinstrumental|66CXWjxzNUsdJxJ2JdwvnR|173639",
   song: "song/ariana-grande-the-boy-is-mine",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+      discNumber: 1,
+      position: 27,
+      externalId: "19M4ufzkx9YLQEVhPEDxZm",
+      externalLink: "https://open.spotify.com/track/19M4ufzkx9YLQEVhPEDxZm",
+    },
+  ],
 } as const satisfies Track

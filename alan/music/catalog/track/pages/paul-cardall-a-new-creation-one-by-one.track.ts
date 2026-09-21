@@ -25,4 +25,13 @@ export const paulCardallANewCreationOneByOne = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "onebyone|7FQRbf8gbKw8KZQZAJWxH2|376040",
   song: "song/paul-cardall-one-by-one",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-new-creation",
+      discNumber: 1,
+      position: 9,
+      externalId: "6OHDaQfpRUWTjY5jOe7Yth",
+      externalLink: "https://open.spotify.com/track/6OHDaQfpRUWTjY5jOe7Yth",
+    },
+  ],
 } as const satisfies Track

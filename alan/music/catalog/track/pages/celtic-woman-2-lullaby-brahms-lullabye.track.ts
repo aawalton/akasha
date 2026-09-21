@@ -25,4 +25,13 @@ export const celticWoman2LullabyBrahmsLullabye = {
   trackArtist: [{ externalId: "34sL9HIOU50t8u0IQMZeze", artistName: "Chloe Agnew" }],
   trackKey: "brahmslullabye|34sL9HIOU50t8u0IQMZeze|138720",
   song: "song/celtic-woman-brahms-lullabye",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-lullaby",
+      discNumber: 1,
+      position: 9,
+      externalId: "3OoNjzwr7Ifo3drIAPlNYy",
+      externalLink: "https://open.spotify.com/track/3OoNjzwr7Ifo3drIAPlNYy",
+    },
+  ],
 } as const satisfies Track

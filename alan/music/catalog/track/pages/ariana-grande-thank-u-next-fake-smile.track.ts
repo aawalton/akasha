@@ -25,4 +25,13 @@ export const arianaGrandeThankUNextFakeSmile = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "fakesmile|66CXWjxzNUsdJxJ2JdwvnR|208880",
   song: "song/ariana-grande-fake-smile",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-thank-u-next",
+      discNumber: 1,
+      position: 5,
+      externalId: "3wFLWP0FcIqHK1wb1CPthQ",
+      externalLink: "https://open.spotify.com/track/3wFLWP0FcIqHK1wb1CPthQ",
+    },
+  ],
 } as const satisfies Track

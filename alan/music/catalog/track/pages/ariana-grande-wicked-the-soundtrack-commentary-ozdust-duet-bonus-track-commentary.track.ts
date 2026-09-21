@@ -28,4 +28,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrackCommen
   ],
   trackKey: "ozdustduetbonustrackcommentary|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|88320",
   song: "song/ariana-grande-ozdust-duet-bonus-track-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 24,
+      externalId: "58eg6kFZP3JLPoKOGCD6Ln",
+      externalLink: "https://open.spotify.com/track/58eg6kFZP3JLPoKOGCD6Ln",
+    },
+  ],
 } as const satisfies Track

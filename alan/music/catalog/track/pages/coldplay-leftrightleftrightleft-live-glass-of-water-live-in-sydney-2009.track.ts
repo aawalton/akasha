@@ -25,4 +25,13 @@ export const coldplayLeftrightleftrightleftLiveGlassOfWaterLiveInSydney2009 = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "glassofwaterliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|284240",
   song: "song/coldplay-glass-of-water",
+  carriedBy: [
+    {
+      release: "release/coldplay-leftrightleftrightleft-live",
+      discNumber: 1,
+      position: 1,
+      externalId: "6MR1HlTg8ARX1MqntlbDpr",
+      externalLink: "https://open.spotify.com/track/6MR1HlTg8ARX1MqntlbDpr",
+    },
+  ],
 } as const satisfies Track

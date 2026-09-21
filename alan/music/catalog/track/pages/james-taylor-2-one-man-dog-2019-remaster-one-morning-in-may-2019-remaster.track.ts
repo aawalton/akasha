@@ -25,4 +25,13 @@ export const jamesTaylor2OneManDog2019RemasterOneMorningInMay2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "onemorninginmay2019remaster|0vn7UBvSQECKJm2817Yf1P|174068",
   song: "song/james-taylor-one-morning-in-may",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-dog-2019-remaster",
+      discNumber: 1,
+      position: 10,
+      externalId: "58pmSGZbirKUCc5Zk2sIQr",
+      externalLink: "https://open.spotify.com/track/58pmSGZbirKUCc5Zk2sIQr",
+    },
+  ],
 } as const satisfies Track

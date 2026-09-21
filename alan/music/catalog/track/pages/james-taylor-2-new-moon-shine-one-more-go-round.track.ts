@@ -25,4 +25,13 @@ export const jamesTaylor2NewMoonShineOneMoreGoRound = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "onemoregoround|0vn7UBvSQECKJm2817Yf1P|280826",
   song: "song/james-taylor-one-more-go-round",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-new-moon-shine",
+      discNumber: 1,
+      position: 8,
+      externalId: "6XLh9yBr6Dxif6s6dkyNyi",
+      externalLink: "https://open.spotify.com/track/6XLh9yBr6Dxif6s6dkyNyi",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const billieEilishHappierThanEverThereforeIAm = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "thereforeiam|6qqNVTkY8uBg9cP3Jd7DAH|173539",
   song: "song/billie-eilish-therefore-i-am",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-happier-than-ever",
+      discNumber: 1,
+      position: 14,
+      externalId: "20R4HfKloPKgXDqU7UKk3x",
+      externalLink: "https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x",
+    },
+  ],
 } as const satisfies Track

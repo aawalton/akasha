@@ -28,4 +28,13 @@ export const coldplayHigherPowerTiestoRemixHigherPowerTiestoRemix = {
   ],
   trackKey: "higherpowertiestoremix|2o5jDhtHVPhrJdv3cEQ99Z,4gzpq5DPGxSnKTe4SA8HAU|229565",
   song: "song/coldplay-higher-power",
+  carriedBy: [
+    {
+      release: "release/coldplay-higher-power-tiesto-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "04zCkONaIDxTx2gDjV1yCd",
+      externalLink: "https://open.spotify.com/track/04zCkONaIDxTx2gDjV1yCd",
+    },
+  ],
 } as const satisfies Track

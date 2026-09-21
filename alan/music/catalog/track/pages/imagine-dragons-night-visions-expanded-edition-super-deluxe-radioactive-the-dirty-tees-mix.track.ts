@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveTheD
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "radioactivethedirtyteesmix|53XhwfbYqKCa1cC15pYq2q|328440",
   song: "song/imagine-dragons-radioactive",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 6,
+      externalId: "1vOnrbY7NwnmBRsXCyvH9Y",
+      externalLink: "https://open.spotify.com/track/1vOnrbY7NwnmBRsXCyvH9Y",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallANewCreationWhereTheresLove = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "wherethereslove|7FQRbf8gbKw8KZQZAJWxH2|224226",
   song: "song/paul-cardall-where-theres-love",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-new-creation",
+      discNumber: 1,
+      position: 12,
+      externalId: "2bBUannItBxVnfl5KecDhn",
+      externalLink: "https://open.spotify.com/track/2bBUannItBxVnfl5KecDhn",
+    },
+  ],
 } as const satisfies Track

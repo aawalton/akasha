@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyHoneymoonAvenue = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "honeymoonavenue|66CXWjxzNUsdJxJ2JdwvnR|339733",
   song: "song/ariana-grande-honeymoon-avenue",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 1,
+      externalId: "2ofOe2OaXFpZF5ETbsc7Qu",
+      externalLink: "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu",
+    },
+  ],
 } as const satisfies Track

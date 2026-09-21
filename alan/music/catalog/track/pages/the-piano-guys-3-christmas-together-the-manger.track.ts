@@ -25,4 +25,13 @@ export const thePianoGuys3ChristmasTogetherTheManger = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "themanger|0jW6R8CVyVohuUJVcuweDI|240437",
   song: "song/the-piano-guys-the-manger",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-christmas-together",
+      discNumber: 1,
+      position: 11,
+      externalId: "5Azhx9AoHz79HY7YbIt7ds",
+      externalLink: "https://open.spotify.com/track/5Azhx9AoHz79HY7YbIt7ds",
+    },
+  ],
 } as const satisfies Track

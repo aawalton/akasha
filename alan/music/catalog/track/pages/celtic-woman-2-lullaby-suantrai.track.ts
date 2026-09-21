@@ -28,4 +28,13 @@ export const celticWoman2LullabySuantrai = {
   ],
   trackKey: "suantrai|0qxZhSelTxAwGRfUvYNudz,6NWtt9pNOL2Gx7kBykdE5x|199280",
   song: "song/celtic-woman-suantrai",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-lullaby",
+      discNumber: 1,
+      position: 6,
+      externalId: "3ZsLzQDFMekdRZlnM0dC0P",
+      externalLink: "https://open.spotify.com/track/3ZsLzQDFMekdRZlnM0dC0P",
+    },
+  ],
 } as const satisfies Track

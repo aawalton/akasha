@@ -25,4 +25,13 @@ export const jamesTaylor2CoversNotFadeAway = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "notfadeaway|0vn7UBvSQECKJm2817Yf1P|165746",
   song: "song/james-taylor-not-fade-away",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 12,
+      externalId: "7t5fb6craNhAoPuz4dbIkE",
+      externalLink: "https://open.spotify.com/track/7t5fb6craNhAoPuz4dbIkE",
+    },
+  ],
 } as const satisfies Track

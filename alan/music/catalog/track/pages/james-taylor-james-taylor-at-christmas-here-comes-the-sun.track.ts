@@ -28,4 +28,13 @@ export const jamesTaylorJamesTaylorAtChristmasHereComesTheSun = {
   ],
   trackKey: "herecomesthesun|0vn7UBvSQECKJm2817Yf1P,5Dl3HXZjG6ZOWT5cV375lk|170706",
   song: "song/coldplay-here-comes-the-sun",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 13,
+      externalId: "5Uf5kobSFxwPZYlqAc4y7F",
+      externalLink: "https://open.spotify.com/track/5Uf5kobSFxwPZYlqAc4y7F",
+    },
+  ],
 } as const satisfies Track

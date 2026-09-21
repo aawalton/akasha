@@ -25,4 +25,13 @@ export const paulCardallChristmasBringATorchJeanetteIsabella = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bringatorchjeanetteisabella|7FQRbf8gbKw8KZQZAJWxH2|228661",
   song: "song/paul-cardall-bring-a-torch-jeanette-isabella",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas",
+      discNumber: 1,
+      position: 9,
+      externalId: "2C8wlvRv2i46AiVVanRZw9",
+      externalLink: "https://open.spotify.com/track/2C8wlvRv2i46AiVVanRZw9",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
   ],
   trackKey: "dancingthroughlifecommentary|2Je7IdIHe8UvZbLXdapQ26,66CXWjxzNUsdJxJ2JdwvnR|84815",
   song: "song/ariana-grande-dancing-through-life-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 12,
+      externalId: "2J3wJpOo3120U3hjHpnDOt",
+      externalLink: "https://open.spotify.com/track/2J3wJpOo3120U3hjHpnDOt",
+    },
+  ],
 } as const satisfies Track

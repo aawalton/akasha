@@ -25,4 +25,13 @@ export const auroraTheGodsWeCanTouchBloodInTheWine = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "bloodinthewine|1WgXqy2Dd70QQOU7Ay074N|209960",
   song: "song/aurora-blood-in-the-wine",
+  carriedBy: [
+    {
+      release: "release/aurora-the-gods-we-can-touch",
+      discNumber: 1,
+      position: 13,
+      externalId: "76cIh6IWGLs4GNlg8RC4vC",
+      externalLink: "https://open.spotify.com/track/76cIh6IWGLs4GNlg8RC4vC",
+    },
+  ],
 } as const satisfies Track

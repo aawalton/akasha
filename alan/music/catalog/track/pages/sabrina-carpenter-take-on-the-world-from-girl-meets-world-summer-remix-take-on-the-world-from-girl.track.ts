@@ -31,4 +31,13 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemixTakeOnTh
   trackKey:
     "takeontheworldfromgirlmeetsworldsummerremixmusicfromthetvseries|45af7IeC0N5gQ9cyoIFyS6,74KM79TiuVKeVCqs8QtB0B|179453",
   song: "song/sabrina-carpenter-take-on-the-world",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-take-on-the-world-from-girl-meets-world-summer-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "7MK9eaTSGwGdKA4N7IPdDN",
+      externalLink: "https://open.spotify.com/track/7MK9eaTSGwGdKA4N7IPdDN",
+    },
+  ],
 } as const satisfies Track

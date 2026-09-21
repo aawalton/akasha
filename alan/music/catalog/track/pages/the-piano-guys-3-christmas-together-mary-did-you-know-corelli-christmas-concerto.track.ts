@@ -25,4 +25,13 @@ export const thePianoGuys3ChristmasTogetherMaryDidYouKnowCorelliChristmasConcert
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "marydidyouknowcorellichristmasconcerto|0jW6R8CVyVohuUJVcuweDI|241250",
   song: "song/the-piano-guys-mary-did-you-know-corelli-christmas-concerto",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-christmas-together",
+      discNumber: 1,
+      position: 3,
+      externalId: "5Jzn6KVh61KqDjRKpIeDlW",
+      externalLink: "https://open.spotify.com/track/5Jzn6KVh61KqDjRKpIeDlW",
+    },
+  ],
 } as const satisfies Track

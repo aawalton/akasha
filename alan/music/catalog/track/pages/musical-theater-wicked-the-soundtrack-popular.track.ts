@@ -25,4 +25,13 @@ export const musicalTheaterWickedTheSoundtrackPopular = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "popular|66CXWjxzNUsdJxJ2JdwvnR|241501",
   song: "song/ariana-grande-popular",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 7,
+      externalId: "3i8fIJNV0yuC4kXT3SkVBZ",
+      externalLink: "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ",
+    },
+  ],
 } as const satisfies Track

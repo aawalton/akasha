@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsDeluxeWhoWeAre = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "whoweare|53XhwfbYqKCa1cC15pYq2q|249346",
   song: "song/imagine-dragons-who-we-are",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-deluxe",
+      discNumber: 1,
+      position: 21,
+      externalId: "2x2SotEkKozaFh6H1aVnOZ",
+      externalLink: "https://open.spotify.com/track/2x2SotEkKozaFh6H1aVnOZ",
+    },
+  ],
 } as const satisfies Track

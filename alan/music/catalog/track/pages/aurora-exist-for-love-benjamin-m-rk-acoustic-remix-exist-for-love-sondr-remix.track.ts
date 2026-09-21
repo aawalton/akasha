@@ -28,4 +28,13 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveSondrRemix = 
   ],
   trackKey: "existforlovesondrremix|1WgXqy2Dd70QQOU7Ay074N,4hbnUamwrCHpv4wQTwvCIc|258306",
   song: "song/aurora-exist-for-love",
+  carriedBy: [
+    {
+      release: "release/aurora-exist-for-love-benjamin-m-rk-acoustic-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "1f5Ry4cYAI3Op7WPXbNVZs",
+      externalLink: "https://open.spotify.com/track/1f5Ry4cYAI3Op7WPXbNVZs",
+    },
+  ],
 } as const satisfies Track

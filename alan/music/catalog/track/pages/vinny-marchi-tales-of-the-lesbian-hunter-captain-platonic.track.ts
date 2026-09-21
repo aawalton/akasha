@@ -25,4 +25,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterCaptainPlatonic = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "captainplatonic|5USAMqcbMAzF3HBmeD5pJF|121476",
   song: "song/vinny-marchi-captain-platonic",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 3,
+      externalId: "1dasDI7zosTvvGBibN4itg",
+      externalLink: "https://open.spotify.com/track/1dasDI7zosTvvGBibN4itg",
+    },
+  ],
 } as const satisfies Track

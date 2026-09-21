@@ -25,4 +25,13 @@ export const imagineDragonsLoomTakeMeToTheBeach = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "takemetothebeach|53XhwfbYqKCa1cC15pYq2q|167080",
   song: "song/imagine-dragons-take-me-to-the-beach",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-loom",
+      discNumber: 1,
+      position: 4,
+      externalId: "2Wop6FEmIstWTMeQb0TXcw",
+      externalLink: "https://open.spotify.com/track/2Wop6FEmIstWTMeQb0TXcw",
+    },
+  ],
 } as const satisfies Track

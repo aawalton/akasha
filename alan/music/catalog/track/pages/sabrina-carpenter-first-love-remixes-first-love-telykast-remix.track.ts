@@ -30,4 +30,13 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveTelykastRemix = {
   trackKey:
     "firstlovetelykastremix|3hyEbRtp617pNCuuQjyOmc,74KM79TiuVKeVCqs8QtB0B,7vWC03wqXwUqjPON8hc1tz|212210",
   song: "song/sabrina-carpenter-first-love",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-first-love-remixes",
+      discNumber: 1,
+      position: 2,
+      externalId: "5qJuG66jfxUgzfl6l195FO",
+      externalLink: "https://open.spotify.com/track/5qJuG66jfxUgzfl6l195FO",
+    },
+  ],
 } as const satisfies Track

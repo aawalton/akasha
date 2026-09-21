@@ -25,4 +25,13 @@ export const thePianoGuys3WhatWasIMadeForWhatWasIMadeFor = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "whatwasimadefor|0jW6R8CVyVohuUJVcuweDI|250837",
   song: "song/billie-eilish-what-was-i-made-for",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-what-was-i-made-for",
+      discNumber: 1,
+      position: 1,
+      externalId: "5bSTsb0QAGyEfga4E65DY8",
+      externalLink: "https://open.spotify.com/track/5bSTsb0QAGyEfga4E65DY8",
+    },
+  ],
 } as const satisfies Track

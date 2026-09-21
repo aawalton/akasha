@@ -25,4 +25,13 @@ export const paulCardallNewLifeLifeAndDeath = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "lifeanddeath|7FQRbf8gbKw8KZQZAJWxH2|334320",
   song: "song/paul-cardall-life-and-death",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-new-life",
+      discNumber: 1,
+      position: 4,
+      externalId: "6ld6TrelktnNxPwIE44Ke2",
+      externalLink: "https://open.spotify.com/track/6ld6TrelktnNxPwIE44Ke2",
+    },
+  ],
 } as const satisfies Track

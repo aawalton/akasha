@@ -25,4 +25,13 @@ export const thePianoGuys3WondersLetItGo = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "letitgo|0jW6R8CVyVohuUJVcuweDI|241840",
   song: "song/the-piano-guys-let-it-go",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wonders",
+      discNumber: 1,
+      position: 2,
+      externalId: "1wpyVNJcutD5uYyjDreWaW",
+      externalLink: "https://open.spotify.com/track/1wpyVNJcutD5uYyjDreWaW",
+    },
+  ],
 } as const satisfies Track

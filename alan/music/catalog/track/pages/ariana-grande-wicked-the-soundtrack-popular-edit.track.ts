@@ -25,4 +25,13 @@ export const arianaGrandeWickedTheSoundtrackPopularEdit = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "popularedit|66CXWjxzNUsdJxJ2JdwvnR|173915",
   song: "song/ariana-grande-popular",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 13,
+      externalId: "5othwA5v4eG9PAF2GdGazz",
+      externalLink: "https://open.spotify.com/track/5othwA5v4eG9PAF2GdGazz",
+    },
+  ],
 } as const satisfies Track

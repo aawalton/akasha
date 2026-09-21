@@ -25,4 +25,13 @@ export const coldplayTalkTalkFrancoisKDub = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "talkfrancoiskdub|4gzpq5DPGxSnKTe4SA8HAU|543613",
   song: "song/coldplay-talk-francois-k-dub",
+  carriedBy: [
+    {
+      release: "release/coldplay-talk",
+      discNumber: 1,
+      position: 2,
+      externalId: "34vsOHBZ1iMFANaeXaRF1Q",
+      externalLink: "https://open.spotify.com/track/34vsOHBZ1iMFANaeXaRF1Q",
+    },
+  ],
 } as const satisfies Track

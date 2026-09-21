@@ -25,4 +25,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryASentimentalMan = {
   trackArtist: [{ externalId: "0O1n2TpXR4XizmHi7aY0l8", artistName: "Jeff Goldblum" }],
   trackKey: "asentimentalman|0O1n2TpXR4XizmHi7aY0l8|132621",
   song: "song/ariana-grande-a-sentimental-man",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 21,
+      externalId: "4w2RjYBQrzWwK2W8rov3fk",
+      externalLink: "https://open.spotify.com/track/4w2RjYBQrzWwK2W8rov3fk",
+    },
+  ],
 } as const satisfies Track

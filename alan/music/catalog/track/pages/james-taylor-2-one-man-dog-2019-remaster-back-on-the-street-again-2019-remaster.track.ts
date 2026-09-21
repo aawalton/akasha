@@ -25,4 +25,13 @@ export const jamesTaylor2OneManDog2019RemasterBackOnTheStreetAgain2019Remaster =
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "backonthestreetagain2019remaster|0vn7UBvSQECKJm2817Yf1P|181505",
   song: "song/james-taylor-back-on-the-street-again",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-dog-2019-remaster",
+      discNumber: 1,
+      position: 7,
+      externalId: "7ryq3Jl6DeIicF0ohRpIjm",
+      externalLink: "https://open.spotify.com/track/7ryq3Jl6DeIicF0ohRpIjm",
+    },
+  ],
 } as const satisfies Track

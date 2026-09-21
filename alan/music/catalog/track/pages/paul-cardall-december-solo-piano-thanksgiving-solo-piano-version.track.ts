@@ -25,4 +25,13 @@ export const paulCardallDecemberSoloPianoThanksgivingSoloPianoVersion = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thanksgivingsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|142186",
   song: "song/paul-cardall-thanksgiving",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-december-solo-piano",
+      discNumber: 1,
+      position: 6,
+      externalId: "4Mu3C8paeo7gtJvmPWf2NH",
+      externalLink: "https://open.spotify.com/track/4Mu3C8paeo7gtJvmPWf2NH",
+    },
+  ],
 } as const satisfies Track

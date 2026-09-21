@@ -25,4 +25,13 @@ export const sabrinaCarpenterSpotifySinglesIKnewYouWereTroubleSpotifySingles = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "iknewyouweretroublespotifysingles|74KM79TiuVKeVCqs8QtB0B|233617",
   song: "song/sabrina-carpenter-i-knew-you-were-trouble-spotify-singles",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-spotify-singles",
+      discNumber: 1,
+      position: 1,
+      externalId: "30QYxvXOJZhGBF6DvpNb8w",
+      externalLink: "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w",
+    },
+  ],
 } as const satisfies Track

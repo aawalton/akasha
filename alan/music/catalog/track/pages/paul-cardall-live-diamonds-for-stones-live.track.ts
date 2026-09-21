@@ -25,4 +25,13 @@ export const paulCardallLiveDiamondsForStonesLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "diamondsforstoneslive|7FQRbf8gbKw8KZQZAJWxH2|171693",
   song: "song/paul-cardall-diamonds-for-stones",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-live",
+      discNumber: 1,
+      position: 2,
+      externalId: "15jegJyQcjozdMXvqBsseV",
+      externalLink: "https://open.spotify.com/track/15jegJyQcjozdMXvqBsseV",
+    },
+  ],
 } as const satisfies Track

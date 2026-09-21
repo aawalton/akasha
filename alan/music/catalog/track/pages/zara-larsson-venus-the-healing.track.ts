@@ -25,4 +25,13 @@ export const zaraLarssonVenusTheHealing = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "thehealing|1Xylc3o4UrD53lo9CvFvVg|190967",
   song: "song/zara-larsson-the-healing",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-venus",
+      discNumber: 1,
+      position: 12,
+      externalId: "7pDWvRIbO3fDbLMpFjuEtP",
+      externalLink: "https://open.spotify.com/track/7pDWvRIbO3fDbLMpFjuEtP",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraMidasTouchMidasTouch = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "midastouch|1WgXqy2Dd70QQOU7Ay074N|161666",
   song: "song/aurora-midas-touch",
+  carriedBy: [
+    {
+      release: "release/aurora-midas-touch",
+      discNumber: 1,
+      position: 1,
+      externalId: "3X1LFB1AFXohRiWa1Cryuv",
+      externalLink: "https://open.spotify.com/track/3X1LFB1AFXohRiWa1Cryuv",
+    },
+  ],
 } as const satisfies Track

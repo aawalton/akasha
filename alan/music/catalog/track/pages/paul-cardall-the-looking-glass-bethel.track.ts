@@ -25,4 +25,13 @@ export const paulCardallTheLookingGlassBethel = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bethel|7FQRbf8gbKw8KZQZAJWxH2|180800",
   song: "song/paul-cardall-bethel",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-looking-glass",
+      discNumber: 1,
+      position: 1,
+      externalId: "5bEjG91Nn6KoxX8FGDUbHn",
+      externalLink: "https://open.spotify.com/track/5bEjG91Nn6KoxX8FGDUbHn",
+    },
+  ],
 } as const satisfies Track

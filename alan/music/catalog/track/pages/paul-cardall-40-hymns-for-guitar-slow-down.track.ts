@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarSlowDown = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "slowdown|7FQRbf8gbKw8KZQZAJWxH2|121514",
   song: "song/paul-cardall-slow-down",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 34,
+      externalId: "0xymtjLptn73r0GkPdJWzc",
+      externalLink: "https://open.spotify.com/track/0xymtjLptn73r0GkPdJWzc",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeStuckWithUStuckWithUWithJustinBieber = {
   ],
   trackKey: "stuckwithuwithjustinbieber|1uNFoZAHBGtllmzznpCI3s,66CXWjxzNUsdJxJ2JdwvnR|228482",
   song: "song/ariana-grande-stuck-with-u",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-stuck-with-u",
+      discNumber: 1,
+      position: 1,
+      externalId: "4HBZA5flZLE435QTztThqH",
+      externalLink: "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH",
+    },
+  ],
 } as const satisfies Track

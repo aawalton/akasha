@@ -25,4 +25,13 @@ export const billieEilishHitMeHardAndSoftTheGreatest = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "thegreatest|6qqNVTkY8uBg9cP3Jd7DAH|293840",
   song: "song/billie-eilish-the-greatest",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-hit-me-hard-and-soft",
+      discNumber: 1,
+      position: 6,
+      externalId: "6TGd66r0nlPaYm3KIoI7ET",
+      externalLink: "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET",
+    },
+  ],
 } as const satisfies Track

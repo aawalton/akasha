@@ -25,4 +25,13 @@ export const coldplaySpeedOfSoundThingsIDontUnderstand = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "thingsidontunderstand|4gzpq5DPGxSnKTe4SA8HAU|295626",
   song: "song/coldplay-things-i-dont-understand",
+  carriedBy: [
+    {
+      release: "release/coldplay-speed-of-sound",
+      discNumber: 1,
+      position: 2,
+      externalId: "5AeARoYmk0okMRWAlPHLzj",
+      externalLink: "https://open.spotify.com/track/5AeARoYmk0okMRWAlPHLzj",
+    },
+  ],
 } as const satisfies Track

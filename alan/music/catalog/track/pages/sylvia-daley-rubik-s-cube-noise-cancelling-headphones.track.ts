@@ -25,4 +25,13 @@ export const sylviaDaleyRubikSCubeNoiseCancellingHeadphones = {
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "noisecancellingheadphones|03dXd2zBbBJvX60Oap8Lgo|177462",
   song: "song/sylvia-daley-noise-cancelling-headphones",
+  carriedBy: [
+    {
+      release: "release/sylvia-daley-rubik-s-cube",
+      discNumber: 1,
+      position: 2,
+      externalId: "7HNTjdPI8rPPnJMllHZmoR",
+      externalLink: "https://open.spotify.com/track/7HNTjdPI8rPPnJMllHZmoR",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForestRunningWithTheWolves =
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runningwiththewolves|1WgXqy2Dd70QQOU7Ay074N|194760",
   song: "song/aurora-running-with-the-wolves",
+  carriedBy: [
+    {
+      release: "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
+      discNumber: 1,
+      position: 5,
+      externalId: "3bfjYEPrxfnVumLzf4Z7PG",
+      externalLink: "https://open.spotify.com/track/3bfjYEPrxfnVumLzf4Z7PG",
+    },
+  ],
 } as const satisfies Track

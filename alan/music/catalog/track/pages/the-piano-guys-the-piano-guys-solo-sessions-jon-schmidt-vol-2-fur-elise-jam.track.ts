@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2FurEliseJam = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "furelisejam|0jW6R8CVyVohuUJVcuweDI|126893",
   song: "song/the-piano-guys-fur-elise-jam",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 7,
+      externalId: "121xDi99fhyvOQy8MLOuKm",
+      externalLink: "https://open.spotify.com/track/121xDi99fhyvOQy8MLOuKm",
+    },
+  ],
 } as const satisfies Track

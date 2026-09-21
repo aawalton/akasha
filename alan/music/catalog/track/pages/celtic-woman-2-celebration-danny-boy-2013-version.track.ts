@@ -25,4 +25,13 @@ export const celticWoman2CelebrationDannyBoy2013Version = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "dannyboy2013version|6NWtt9pNOL2Gx7kBykdE5x|197693",
   song: "song/celtic-woman-danny-boy",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-celebration",
+      discNumber: 1,
+      position: 12,
+      externalId: "32nusAofV3372piP7Thg8w",
+      externalLink: "https://open.spotify.com/track/32nusAofV3372piP7Thg8w",
+    },
+  ],
 } as const satisfies Track

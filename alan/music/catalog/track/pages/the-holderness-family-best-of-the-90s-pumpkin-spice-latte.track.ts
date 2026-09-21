@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sPumpkinSpiceLatte = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "pumpkinspicelatte|6tITG4T8LpC0msapZ4wXGA|161358",
   song: "song/the-holderness-family-pumpkin-spice-latte",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 10,
+      externalId: "638rN57DGb8f3NthQJxkdA",
+      externalLink: "https://open.spotify.com/track/638rN57DGb8f3NthQJxkdA",
+    },
+  ],
 } as const satisfies Track

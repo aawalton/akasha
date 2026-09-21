@@ -25,4 +25,13 @@ export const auroraMusicForTheFreeSpiritsQueendom = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "queendom|1WgXqy2Dd70QQOU7Ay074N|206640",
   song: "song/aurora-queendom",
+  carriedBy: [
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 5,
+      externalId: "5GPyOwkaw56kiRI1gZNBtf",
+      externalLink: "https://open.spotify.com/track/5GPyOwkaw56kiRI1gZNBtf",
+    },
+  ],
 } as const satisfies Track

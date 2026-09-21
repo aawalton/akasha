@@ -25,4 +25,13 @@ export const jamesTaylor2FlagSleepComeFreeMe = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sleepcomefreeme|0vn7UBvSQECKJm2817Yf1P|282133",
   song: "song/james-taylor-sleep-come-free-me",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-flag",
+      discNumber: 1,
+      position: 12,
+      externalId: "0mSw24Am5LDB04h7DdThjU",
+      externalLink: "https://open.spotify.com/track/0mSw24Am5LDB04h7DdThjU",
+    },
+  ],
 } as const satisfies Track

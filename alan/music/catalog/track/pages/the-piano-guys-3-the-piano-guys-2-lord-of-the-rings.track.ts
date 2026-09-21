@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuys2LordOfTheRings = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "lordoftherings|0jW6R8CVyVohuUJVcuweDI|339375",
   song: "song/the-piano-guys-lord-of-the-rings",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys-2",
+      discNumber: 1,
+      position: 4,
+      externalId: "7frDwJ4Fe57hNs0gtHAMR4",
+      externalLink: "https://open.spotify.com/track/7frDwJ4Fe57hNs0gtHAMR4",
+    },
+  ],
 } as const satisfies Track

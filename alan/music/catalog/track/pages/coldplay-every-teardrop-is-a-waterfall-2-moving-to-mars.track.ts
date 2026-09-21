@@ -25,4 +25,13 @@ export const coldplayEveryTeardropIsAWaterfall2MovingToMars = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "movingtomars|4gzpq5DPGxSnKTe4SA8HAU|258873",
   song: "song/coldplay-moving-to-mars",
+  carriedBy: [
+    {
+      release: "release/coldplay-every-teardrop-is-a-waterfall-2",
+      discNumber: 1,
+      position: 3,
+      externalId: "0kuv7BqWNDprDao3Tb5flN",
+      externalLink: "https://open.spotify.com/track/0kuv7BqWNDprDao3Tb5flN",
+    },
+  ],
 } as const satisfies Track

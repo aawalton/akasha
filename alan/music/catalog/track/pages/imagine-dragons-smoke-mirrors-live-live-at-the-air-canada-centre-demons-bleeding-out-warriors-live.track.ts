@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreDemonsBleedin
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "demonsbleedingoutwarriorslive|53XhwfbYqKCa1cC15pYq2q|299266",
   song: "song/imagine-dragons-demons-bleeding-out-warriors",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
+      discNumber: 1,
+      position: 10,
+      externalId: "54j7jZuU8cyVoq0dM4J6GV",
+      externalLink: "https://open.spotify.com/track/54j7jZuU8cyVoq0dM4J6GV",
+    },
+  ],
 } as const satisfies Track

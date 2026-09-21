@@ -28,4 +28,13 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursAobeatsRemix = {
   ],
   trackKey: "dontletmebeyoursaobeatsremix|1Xylc3o4UrD53lo9CvFvVg,2tfyKNBwTB41ArvliXX1zA|251009",
   song: "song/zara-larsson-don-t-let-me-be-yours",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-don-t-let-me-be-yours-remixes",
+      discNumber: 1,
+      position: 2,
+      externalId: "3cIK52LNUYrLb6TOD4Ouq0",
+      externalLink: "https://open.spotify.com/track/3cIK52LNUYrLb6TOD4Ouq0",
+    },
+  ],
 } as const satisfies Track

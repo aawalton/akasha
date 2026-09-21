@@ -25,4 +25,13 @@ export const jamesTaylor2OtherCoversOhWhatABeautifulMorning = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ohwhatabeautifulmorning|0vn7UBvSQECKJm2817Yf1P|190786",
   song: "song/james-taylor-oh-what-a-beautiful-morning",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-other-covers",
+      discNumber: 1,
+      position: 1,
+      externalId: "1Yh3EzhORIQsrVtsE6dCIo",
+      externalLink: "https://open.spotify.com/track/1Yh3EzhORIQsrVtsE6dCIo",
+    },
+  ],
 } as const satisfies Track

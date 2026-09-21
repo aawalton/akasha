@@ -25,4 +25,13 @@ export const chaislynUnreliableNarratorCarbonCopy = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "carboncopy|3zmbniiciaBAJlSX1Bzq9R|171818",
   song: "song/chaislyn-carbon-copy",
+  carriedBy: [
+    {
+      release: "release/chaislyn-unreliable-narrator",
+      discNumber: 1,
+      position: 4,
+      externalId: "3PPVYdmZIgwDoLUxE0HFeR",
+      externalLink: "https://open.spotify.com/track/3PPVYdmZIgwDoLUxE0HFeR",
+    },
+  ],
 } as const satisfies Track

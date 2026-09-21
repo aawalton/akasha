@@ -25,4 +25,13 @@ export const paulCardallChasingCrownsColors = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "colors|7FQRbf8gbKw8KZQZAJWxH2|264000",
   song: "song/paul-cardall-colors",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chasing-crowns",
+      discNumber: 1,
+      position: 19,
+      externalId: "68S8a6Se88ncgPP9ssKs2x",
+      externalLink: "https://open.spotify.com/track/68S8a6Se88ncgPP9ssKs2x",
+    },
+  ],
 } as const satisfies Track

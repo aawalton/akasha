@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionIBelieveInChristSoloPianoVersi
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ibelieveinchristsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|243236",
   song: "song/paul-cardall-i-believe-in-christ",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 10,
+      externalId: "0ZSACM2GJre0FA8xjJwGNH",
+      externalLink: "https://open.spotify.com/track/0ZSACM2GJre0FA8xjJwGNH",
+    },
+  ],
 } as const satisfies Track

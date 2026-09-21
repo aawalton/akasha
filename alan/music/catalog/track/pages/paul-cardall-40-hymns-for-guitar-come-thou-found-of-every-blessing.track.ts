@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarComeThouFoundOfEveryBlessing = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comethoufoundofeveryblessing|7FQRbf8gbKw8KZQZAJWxH2|205000",
   song: "song/paul-cardall-come-thou-found-of-every-blessing",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 3,
+      externalId: "1bzTvyPvR3pBpLgBR9hd9O",
+      externalLink: "https://open.spotify.com/track/1bzTvyPvR3pBpLgBR9hd9O",
+    },
+  ],
 } as const satisfies Track

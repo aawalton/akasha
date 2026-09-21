@@ -25,4 +25,13 @@ export const emeiRabbithole2AllTheseKids = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "allthesekids|7E2aQQjErJocovYFjYLzWU|117091",
   song: "song/emei-all-these-kids",
+  carriedBy: [
+    {
+      release: "release/emei-rabbithole-2",
+      discNumber: 1,
+      position: 2,
+      externalId: "4RgD26YY5ohlaMkkIqHh0J",
+      externalLink: "https://open.spotify.com/track/4RgD26YY5ohlaMkkIqHh0J",
+    },
+  ],
 } as const satisfies Track

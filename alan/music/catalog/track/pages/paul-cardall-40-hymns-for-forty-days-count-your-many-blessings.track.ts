@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysCountYourManyBlessings = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "countyourmanyblessings|7FQRbf8gbKw8KZQZAJWxH2|142866",
   song: "song/paul-cardall-count-your-many-blessings",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 6,
+      externalId: "6bnthVtkdamKn9D2DY5HXE",
+      externalLink: "https://open.spotify.com/track/6bnthVtkdamKn9D2DY5HXE",
+    },
+  ],
 } as const satisfies Track

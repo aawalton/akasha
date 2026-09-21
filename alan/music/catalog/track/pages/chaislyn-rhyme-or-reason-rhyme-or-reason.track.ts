@@ -25,4 +25,13 @@ export const chaislynRhymeOrReasonRhymeOrReason = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "rhymeorreason|3zmbniiciaBAJlSX1Bzq9R|251413",
   song: "song/chaislyn-rhyme-or-reason",
+  carriedBy: [
+    {
+      release: "release/chaislyn-rhyme-or-reason",
+      discNumber: 1,
+      position: 1,
+      externalId: "6NTYphxIdN60YEL8XPomHo",
+      externalLink: "https://open.spotify.com/track/6NTYphxIdN60YEL8XPomHo",
+    },
+  ],
 } as const satisfies Track

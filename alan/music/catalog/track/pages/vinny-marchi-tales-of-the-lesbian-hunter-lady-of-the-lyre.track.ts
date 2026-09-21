@@ -25,4 +25,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterLadyOfTheLyre = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "ladyofthelyre|5USAMqcbMAzF3HBmeD5pJF|155859",
   song: "song/vinny-marchi-lady-of-the-lyre",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 1,
+      externalId: "7yKYTBUeWuKaV2INlfzKgu",
+      externalLink: "https://open.spotify.com/track/7yKYTBUeWuKaV2INlfzKgu",
+    },
+  ],
 } as const satisfies Track

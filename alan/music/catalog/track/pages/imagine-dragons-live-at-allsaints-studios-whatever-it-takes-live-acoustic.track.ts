@@ -25,4 +25,13 @@ export const imagineDragonsLiveAtAllsaintsStudiosWhateverItTakesLiveAcoustic = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "whateverittakesliveacoustic|53XhwfbYqKCa1cC15pYq2q|223000",
   song: "song/imagine-dragons-whatever-it-takes",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-live-at-allsaints-studios",
+      discNumber: 1,
+      position: 3,
+      externalId: "0MWrQbrxEOcmTgL3ESfPTg",
+      externalLink: "https://open.spotify.com/track/0MWrQbrxEOcmTgL3ESfPTg",
+    },
+  ],
 } as const satisfies Track

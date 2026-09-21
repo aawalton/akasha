@@ -25,4 +25,13 @@ export const emeiLateToThePartyLateToTheParty = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "latetotheparty|7E2aQQjErJocovYFjYLzWU|177176",
   song: "song/emei-late-to-the-party",
+  carriedBy: [
+    {
+      release: "release/emei-late-to-the-party",
+      discNumber: 1,
+      position: 1,
+      externalId: "7hdMPlOGOngKH3mj4pVLcG",
+      externalLink: "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG",
+    },
+  ],
 } as const satisfies Track

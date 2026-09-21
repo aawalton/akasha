@@ -31,4 +31,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveGrou
     trackKey:
       "radioactivegrouplovecaptaincutsremix|0rlKkLkpsCnJbZethGBfAk,3kVUvbeRdcrqQ3oHk5hPdx,53XhwfbYqKCa1cC15pYq2q|240666",
     song: "song/imagine-dragons-radioactive",
+    carriedBy: [
+      {
+        release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+        discNumber: 4,
+        position: 1,
+        externalId: "0Htv7EQoiOtmpAoYciJZ3n",
+        externalLink: "https://open.spotify.com/track/0Htv7EQoiOtmpAoYciJZ3n",
+      },
+    ],
   } as const satisfies Track

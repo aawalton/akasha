@@ -25,4 +25,13 @@ export const celticWoman2CelticWomanSiDoMhaimeoILive = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "sidomhaimeoilive|6NWtt9pNOL2Gx7kBykdE5x|133253",
   song: "song/celtic-woman-si-do-mhaimeo-i",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-celtic-woman",
+      discNumber: 1,
+      position: 18,
+      externalId: "7BsL26icVm1H53xLAw5tvC",
+      externalLink: "https://open.spotify.com/track/7BsL26icVm1H53xLAw5tvC",
+    },
+  ],
 } as const satisfies Track

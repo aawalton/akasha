@@ -25,4 +25,13 @@ export const coldplayGhostStoriesTrueLove = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "truelove|4gzpq5DPGxSnKTe4SA8HAU|246000",
   song: "song/coldplay-true-love",
+  carriedBy: [
+    {
+      release: "release/coldplay-ghost-stories",
+      discNumber: 1,
+      position: 4,
+      externalId: "0fQuzbQNLcD1ofo7B2NcFI",
+      externalLink: "https://open.spotify.com/track/0fQuzbQNLcD1ofo7B2NcFI",
+    },
+  ],
 } as const satisfies Track

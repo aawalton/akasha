@@ -28,4 +28,13 @@ export const zaraLarssonPosterGirlSummerEditionRightHereAlokRemix = {
   ],
   trackKey: "rightherealokremix|0NGAZxHanS9e0iNHpR8f2W,1Xylc3o4UrD53lo9CvFvVg|155000",
   song: "song/zara-larsson-right-here",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-poster-girl-summer-edition",
+      discNumber: 1,
+      position: 18,
+      externalId: "60EwQMdrQsIPNI4QYJN8N8",
+      externalLink: "https://open.spotify.com/track/60EwQMdrQsIPNI4QYJN8N8",
+    },
+  ],
 } as const satisfies Track

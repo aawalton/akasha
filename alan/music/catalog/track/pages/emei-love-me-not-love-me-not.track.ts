@@ -25,4 +25,13 @@ export const emeiLoveMeNotLoveMeNot = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "lovemenot|7E2aQQjErJocovYFjYLzWU|140355",
   song: "song/emei-love-me-not",
+  carriedBy: [
+    {
+      release: "release/emei-love-me-not",
+      discNumber: 1,
+      position: 1,
+      externalId: "6UumSbVp1ae6IfcOWDo1oL",
+      externalLink: "https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL",
+    },
+  ],
 } as const satisfies Track

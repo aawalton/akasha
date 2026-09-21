@@ -28,4 +28,13 @@ export const imagineDragonsThunderWithKFlayOfficialRemixThunderWithKFlayOfficial
   ],
   trackKey: "thunderwithkflayofficialremix|0pCNk4D3E2xtszsm6hMsWr,53XhwfbYqKCa1cC15pYq2q|195720",
   song: "song/imagine-dragons-thunder",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-thunder-with-k-flay-official-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "2nNtzvg3ZybWW1Tjqi4NFf",
+      externalLink: "https://open.spotify.com/track/2nNtzvg3ZybWW1Tjqi4NFf",
+    },
+  ],
 } as const satisfies Track

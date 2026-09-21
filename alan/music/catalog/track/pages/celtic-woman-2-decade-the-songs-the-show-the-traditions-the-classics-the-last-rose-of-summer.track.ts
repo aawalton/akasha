@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheLastRos
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thelastroseofsummer|6NWtt9pNOL2Gx7kBykdE5x|216933",
   song: "song/celtic-woman-the-last-rose-of-summer",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 4,
+      position: 1,
+      externalId: "6UXrLdeXmMGvPTK4cNkgak",
+      externalLink: "https://open.spotify.com/track/6UXrLdeXmMGvPTK4cNkgak",
+    },
+  ],
 } as const satisfies Track

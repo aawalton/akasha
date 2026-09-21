@@ -28,4 +28,13 @@ export const jamesTaylor2FireFoxyLady = {
   ],
   trackKey: "foxylady|0vn7UBvSQECKJm2817Yf1P,1DJVvIcjKhdedkuGRzW7PG|299000",
   song: "song/james-taylor-foxy-lady",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-fire",
+      discNumber: 1,
+      position: 2,
+      externalId: "5DM5WjP3EslUWgJaOpGGmT",
+      externalLink: "https://open.spotify.com/track/5DM5WjP3EslUWgJaOpGGmT",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const imagineDragonsMercuryActs12TheyDontKnowYouLikeIDo = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "theydontknowyoulikeido|53XhwfbYqKCa1cC15pYq2q|257875",
   song: "song/imagine-dragons-they-don-t-know-you-like-i-do",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-mercury-acts-1-2",
+      discNumber: 2,
+      position: 18,
+      externalId: "7KGwRAF99Ryell3B2T4DKy",
+      externalLink: "https://open.spotify.com/track/7KGwRAF99Ryell3B2T4DKy",
+    },
+  ],
 } as const satisfies Track

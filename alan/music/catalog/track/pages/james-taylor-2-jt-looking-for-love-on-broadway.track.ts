@@ -25,4 +25,13 @@ export const jamesTaylor2JtLookingForLoveOnBroadway = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "lookingforloveonbroadway|0vn7UBvSQECKJm2817Yf1P|141797",
   song: "song/james-taylor-looking-for-love-on-broadway",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-jt",
+      discNumber: 1,
+      position: 9,
+      externalId: "0aYkXRhGQLINhdv69RSmVK",
+      externalLink: "https://open.spotify.com/track/0aYkXRhGQLINhdv69RSmVK",
+    },
+  ],
 } as const satisfies Track

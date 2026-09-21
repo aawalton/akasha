@@ -25,4 +25,13 @@ export const paulCardallChillCollectionWasatch = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "wasatch|7FQRbf8gbKw8KZQZAJWxH2|216555",
   song: "song/paul-cardall-wasatch",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chill-collection",
+      discNumber: 1,
+      position: 14,
+      externalId: "0wxIiI84nGdKiahikYCuwy",
+      externalLink: "https://open.spotify.com/track/0wxIiI84nGdKiahikYCuwy",
+    },
+  ],
 } as const satisfies Track

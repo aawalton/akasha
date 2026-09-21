@@ -25,4 +25,13 @@ export const vinnyMarchiJonnyRifePulledAKnifeJonnyRifePulledAKnife = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "jonnyrifepulledaknife|5USAMqcbMAzF3HBmeD5pJF|181000",
   song: "song/vinny-marchi-jonny-rife-pulled-a-knife",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-jonny-rife-pulled-a-knife",
+      discNumber: 1,
+      position: 1,
+      externalId: "1s0sieFucHsh8RGshCbX9j",
+      externalLink: "https://open.spotify.com/track/1s0sieFucHsh8RGshCbX9j",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackPleaseMammy = {
   trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
   trackKey: "pleasemammy|5kjb55jtwPnbYXXDvP4x7R|107066",
   song: "song/aurora-please-mammy",
+  carriedBy: [
+    {
+      release: "release/aurora-wolfwalkers-original-motion-picture-soundtrack",
+      discNumber: 1,
+      position: 11,
+      externalId: "2UFzjMoVu3OlfMheLAAvhg",
+      externalLink: "https://open.spotify.com/track/2UFzjMoVu3OlfMheLAAvhg",
+    },
+  ],
 } as const satisfies Track

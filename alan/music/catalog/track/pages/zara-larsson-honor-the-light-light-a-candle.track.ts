@@ -25,4 +25,13 @@ export const zaraLarssonHonorTheLightLightACandle = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "lightacandle|1Xylc3o4UrD53lo9CvFvVg|190733",
   song: "song/zara-larsson-light-a-candle",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-honor-the-light",
+      discNumber: 1,
+      position: 4,
+      externalId: "7pNPlw6Jojwm0WnotDNSJx",
+      externalLink: "https://open.spotify.com/track/7pNPlw6Jojwm0WnotDNSJx",
+    },
+  ],
 } as const satisfies Track

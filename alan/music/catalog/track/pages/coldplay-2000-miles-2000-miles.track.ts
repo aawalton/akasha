@@ -25,4 +25,13 @@ export const coldplay2000Miles2000Miles = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "2000miles|4gzpq5DPGxSnKTe4SA8HAU|195717",
   song: "song/coldplay-2000-miles",
+  carriedBy: [
+    {
+      release: "release/coldplay-2000-miles",
+      discNumber: 1,
+      position: 1,
+      externalId: "5v1SC5d3F8VHwqkXx53f7d",
+      externalLink: "https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d",
+    },
+  ],
 } as const satisfies Track

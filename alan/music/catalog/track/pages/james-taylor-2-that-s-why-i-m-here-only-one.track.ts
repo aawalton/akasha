@@ -25,4 +25,13 @@ export const jamesTaylor2ThatSWhyIMHereOnlyOne = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "onlyone|0vn7UBvSQECKJm2817Yf1P|258266",
   song: "song/james-taylor-only-one",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-that-s-why-i-m-here",
+      discNumber: 1,
+      position: 9,
+      externalId: "05re487C0a3bJNZnPfDqMp",
+      externalLink: "https://open.spotify.com/track/05re487C0a3bJNZnPfDqMp",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2SongsFromTheHeartYoullBeInMyHeart = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "youllbeinmyheart|6NWtt9pNOL2Gx7kBykdE5x|243573",
   song: "song/celtic-woman-youll-be-in-my-heart",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-songs-from-the-heart",
+      discNumber: 1,
+      position: 10,
+      externalId: "5jgHQfMXmSu4hx8bXxKW0n",
+      externalLink: "https://open.spotify.com/track/5jgHQfMXmSu4hx8bXxKW0n",
+    },
+  ],
 } as const satisfies Track

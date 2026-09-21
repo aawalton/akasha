@@ -25,4 +25,13 @@ export const coldplayLiveFromSpotifyLondonAdventureOfALifetimeLiveFromSpotifyLon
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "adventureofalifetimelivefromspotifylondon|4gzpq5DPGxSnKTe4SA8HAU|258613",
   song: "song/coldplay-adventure-of-a-lifetime",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-from-spotify-london",
+      discNumber: 1,
+      position: 3,
+      externalId: "2XiSB3m4WSkxD3xIUrYHfV",
+      externalLink: "https://open.spotify.com/track/2XiSB3m4WSkxD3xIUrYHfV",
+    },
+  ],
 } as const satisfies Track

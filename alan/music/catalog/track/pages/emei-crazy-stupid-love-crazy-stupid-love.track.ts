@@ -25,4 +25,13 @@ export const emeiCrazyStupidLoveCrazyStupidLove = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "crazystupidlove|7E2aQQjErJocovYFjYLzWU|156333",
   song: "song/emei-crazy-stupid-love",
+  carriedBy: [
+    {
+      release: "release/emei-crazy-stupid-love",
+      discNumber: 1,
+      position: 1,
+      externalId: "5ChgblPPPwyuGhga3msdns",
+      externalLink: "https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns",
+    },
+  ],
 } as const satisfies Track

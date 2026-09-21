@@ -28,4 +28,13 @@ export const auroraCureForMeFeatSilvanaEstradaLiveCureForMeFeatSilvanaEstradaLiv
   ],
   trackKey: "cureformefeatsilvanaestradalive|1WgXqy2Dd70QQOU7Ay074N,72VywtXEoONiBLNu3ibGI7|231285",
   song: "song/aurora-cure-for-me",
+  carriedBy: [
+    {
+      release: "release/aurora-cure-for-me-feat-silvana-estrada-live",
+      discNumber: 1,
+      position: 1,
+      externalId: "6PzoioDNJ88Vpgd9ZmyOVG",
+      externalLink: "https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG",
+    },
+  ],
 } as const satisfies Track

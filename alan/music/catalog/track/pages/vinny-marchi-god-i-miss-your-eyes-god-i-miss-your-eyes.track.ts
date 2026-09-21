@@ -25,4 +25,13 @@ export const vinnyMarchiGodIMissYourEyesGodIMissYourEyes = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "godimissyoureyes|5USAMqcbMAzF3HBmeD5pJF|227487",
   song: "song/vinny-marchi-god-i-miss-your-eyes",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-god-i-miss-your-eyes",
+      discNumber: 1,
+      position: 1,
+      externalId: "0cctSPZcjtBZTYpmx4z2DR",
+      externalLink: "https://open.spotify.com/track/0cctSPZcjtBZTYpmx4z2DR",
+    },
+  ],
 } as const satisfies Track

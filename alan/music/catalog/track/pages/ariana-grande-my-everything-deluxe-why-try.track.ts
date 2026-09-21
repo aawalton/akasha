@@ -25,4 +25,13 @@ export const arianaGrandeMyEverythingDeluxeWhyTry = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "whytry|66CXWjxzNUsdJxJ2JdwvnR|211880",
   song: "song/ariana-grande-why-try",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-deluxe",
+      discNumber: 1,
+      position: 4,
+      externalId: "40fHWRL8bKcl5J4t4OKUiW",
+      externalLink: "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW",
+    },
+  ],
 } as const satisfies Track

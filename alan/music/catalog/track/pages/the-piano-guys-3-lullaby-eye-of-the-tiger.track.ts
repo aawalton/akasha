@@ -25,4 +25,13 @@ export const thePianoGuys3LullabyEyeOfTheTiger = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "eyeofthetiger|0jW6R8CVyVohuUJVcuweDI|242765",
   song: "song/the-piano-guys-eye-of-the-tiger",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-lullaby",
+      discNumber: 1,
+      position: 1,
+      externalId: "1cc4zvf99J2lceYa6bk8ln",
+      externalLink: "https://open.spotify.com/track/1cc4zvf99J2lceYa6bk8ln",
+    },
+  ],
 } as const satisfies Track

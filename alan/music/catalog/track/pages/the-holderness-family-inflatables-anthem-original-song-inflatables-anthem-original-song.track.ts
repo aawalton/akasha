@@ -25,4 +25,13 @@ export const theHoldernessFamilyInflatablesAnthemOriginalSongInflatablesAnthemOr
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "inflatablesanthemoriginalsong|6tITG4T8LpC0msapZ4wXGA|156528",
   song: "song/the-holderness-family-inflatables-anthem-original-song",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-inflatables-anthem-original-song",
+      discNumber: 1,
+      position: 1,
+      externalId: "40NDWvKdxlPwPNGIqyogAK",
+      externalLink: "https://open.spotify.com/track/40NDWvKdxlPwPNGIqyogAK",
+    },
+  ],
 } as const satisfies Track

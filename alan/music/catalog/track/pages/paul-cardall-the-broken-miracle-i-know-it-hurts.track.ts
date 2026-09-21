@@ -28,4 +28,13 @@ export const paulCardallTheBrokenMiracleIKnowItHurts = {
   ],
   trackKey: "iknowithurts|5XCujjq919BFXTnjyyDpiE,7FQRbf8gbKw8KZQZAJWxH2|221920",
   song: "song/paul-cardall-i-know-it-hurts",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 6,
+      externalId: "3Lb9AmT71mBtCnrLC21BGx",
+      externalLink: "https://open.spotify.com/track/3Lb9AmT71mBtCnrLC21BGx",
+    },
+  ],
 } as const satisfies Track

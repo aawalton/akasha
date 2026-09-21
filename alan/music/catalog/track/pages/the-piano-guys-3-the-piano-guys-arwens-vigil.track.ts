@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuysArwensVigil = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "arwensvigil|0jW6R8CVyVohuUJVcuweDI|235679",
   song: "song/the-piano-guys-arwens-vigil",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys",
+      discNumber: 1,
+      position: 7,
+      externalId: "0nIO6lmFEdRPyQi4uJaHon",
+      externalLink: "https://open.spotify.com/track/0nIO6lmFEdRPyQi4uJaHon",
+    },
+  ],
 } as const satisfies Track

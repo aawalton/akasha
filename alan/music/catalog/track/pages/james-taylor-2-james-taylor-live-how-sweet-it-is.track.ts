@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveHowSweetItIs = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "howsweetitis|0vn7UBvSQECKJm2817Yf1P|419733",
   song: "song/james-taylor-how-sweet-it-is",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 14,
+      externalId: "4BiqtG2bW4JrNRd2T2mr0j",
+      externalLink: "https://open.spotify.com/track/4BiqtG2bW4JrNRd2T2mr0j",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayYellowNoMoreKeepingMyFeetOnTheGround = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "nomorekeepingmyfeetontheground|4gzpq5DPGxSnKTe4SA8HAU|271173",
   song: "song/coldplay-no-more-keeping-my-feet-on-the-ground",
+  carriedBy: [
+    {
+      release: "release/coldplay-yellow",
+      discNumber: 1,
+      position: 3,
+      externalId: "7dmCmBBaWAQlCBAkcqMu99",
+      externalLink: "https://open.spotify.com/track/7dmCmBBaWAQlCBAkcqMu99",
+    },
+  ],
 } as const satisfies Track

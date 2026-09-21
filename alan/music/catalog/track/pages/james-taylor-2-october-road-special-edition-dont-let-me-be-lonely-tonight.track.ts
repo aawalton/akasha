@@ -28,4 +28,13 @@ export const jamesTaylor2OctoberRoadSpecialEditionDontLetMeBeLonelyTonight = {
   ],
   trackKey: "dontletmebelonelytonight|0vn7UBvSQECKJm2817Yf1P,5IkynsVZoak9UR2Xt8qsMj|282933",
   song: "song/james-taylor-dont-let-me-be-lonely-tonight",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-october-road-special-edition",
+      discNumber: 1,
+      position: 13,
+      externalId: "6K7JqasElx9wkiCjrh3YCl",
+      externalLink: "https://open.spotify.com/track/6K7JqasElx9wkiCjrh3YCl",
+    },
+  ],
 } as const satisfies Track

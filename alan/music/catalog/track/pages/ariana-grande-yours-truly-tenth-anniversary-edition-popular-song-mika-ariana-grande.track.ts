@@ -28,4 +28,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionPopularSongMikaArianaG
   ],
   trackKey: "popularsongmikaarianagrande|5MmVJVhhYKQ86izuGHzJYA,66CXWjxzNUsdJxJ2JdwvnR|200201",
   song: "song/ariana-grande-popular-song-mika-ariana-grande",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 11,
+      externalId: "4AzzUUIBICXrr5OYfs2u2C",
+      externalLink: "https://open.spotify.com/track/4AzzUUIBICXrr5OYfs2u2C",
+    },
+  ],
 } as const satisfies Track

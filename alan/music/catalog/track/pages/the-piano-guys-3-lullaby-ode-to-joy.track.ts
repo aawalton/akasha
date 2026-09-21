@@ -25,4 +25,13 @@ export const thePianoGuys3LullabyOdeToJoy = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "odetojoy|0jW6R8CVyVohuUJVcuweDI|106111",
   song: "song/the-piano-guys-ode-to-joy",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-lullaby",
+      discNumber: 1,
+      position: 12,
+      externalId: "3xgOuXgX8txPONEVoD5Hqd",
+      externalLink: "https://open.spotify.com/track/3xgOuXgX8txPONEVoD5Hqd",
+    },
+  ],
 } as const satisfies Track

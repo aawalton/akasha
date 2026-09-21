@@ -28,4 +28,13 @@ export const arianaGrandePositionsDeluxeSafetyNetFeatTyDollaIgn = {
   ],
   trackKey: "safetynetfeattydollaign|66CXWjxzNUsdJxJ2JdwvnR,7c0XG5cIJTrrAgEC3ULPiq|208457",
   song: "song/ariana-grande-safety-net",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions-deluxe",
+      discNumber: 1,
+      position: 7,
+      externalId: "53Z8fbdVNus9Kiu7tWIBEC",
+      externalLink: "https://open.spotify.com/track/53Z8fbdVNus9Kiu7tWIBEC",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionProblem = {
   ],
   trackKey: "problem|5yG7ZAZafVaAlMTeBybKAL,66CXWjxzNUsdJxJ2JdwvnR|193993",
   song: "song/ariana-grande-problem",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 2,
+      externalId: "4jwPNgd0ux1wE4TgETVIT3",
+      externalLink: "https://open.spotify.com/track/4jwPNgd0ux1wE4TgETVIT3",
+    },
+  ],
 } as const satisfies Track

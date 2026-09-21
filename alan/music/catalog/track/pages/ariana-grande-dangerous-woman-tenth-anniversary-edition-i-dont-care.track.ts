@@ -25,4 +25,13 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionIDontCare = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "idontcare|66CXWjxzNUsdJxJ2JdwvnR|178032",
   song: "song/ariana-grande-i-don-t-care",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 11,
+      externalId: "1neFBSwRU3dzKYTcGJcLuI",
+      externalLink: "https://open.spotify.com/track/1neFBSwRU3dzKYTcGJcLuI",
+    },
+  ],
 } as const satisfies Track

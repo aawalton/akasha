@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarMoonlightSonata = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "moonlightsonata|7FQRbf8gbKw8KZQZAJWxH2|283000",
   song: "song/paul-cardall-moonlight-sonata",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 19,
+      externalId: "1zhEK6t7T5uACpRjmJ6JBu",
+      externalLink: "https://open.spotify.com/track/1zhEK6t7T5uACpRjmJ6JBu",
+    },
+  ],
 } as const satisfies Track

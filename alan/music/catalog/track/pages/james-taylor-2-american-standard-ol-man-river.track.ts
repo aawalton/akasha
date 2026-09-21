@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardOlManRiver = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "olmanriver|0vn7UBvSQECKJm2817Yf1P|173533",
   song: "song/james-taylor-ol-man-river",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 12,
+      externalId: "1Kz5feZb5jE6skMT6R9vkd",
+      externalLink: "https://open.spotify.com/track/1Kz5feZb5jE6skMT6R9vkd",
+    },
+  ],
 } as const satisfies Track

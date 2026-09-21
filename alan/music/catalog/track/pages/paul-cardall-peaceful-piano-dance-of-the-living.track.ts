@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoDanceOfTheLiving = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "danceoftheliving|7FQRbf8gbKw8KZQZAJWxH2|215266",
   song: "song/paul-cardall-dance-of-the-living",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 16,
+      externalId: "4CufJg21ZFLZwGYmik66nE",
+      externalLink: "https://open.spotify.com/track/4CufJg21ZFLZwGYmik66nE",
+    },
+  ],
 } as const satisfies Track

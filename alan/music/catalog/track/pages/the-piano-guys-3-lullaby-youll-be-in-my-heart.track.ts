@@ -25,4 +25,13 @@ export const thePianoGuys3LullabyYoullBeInMyHeart = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "youllbeinmyheart|0jW6R8CVyVohuUJVcuweDI|247409",
   song: "song/the-piano-guys-youll-be-in-my-heart",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-lullaby",
+      discNumber: 1,
+      position: 6,
+      externalId: "2tPPk70bDRfegwHFJXc0f0",
+      externalLink: "https://open.spotify.com/track/2tPPk70bDRfegwHFJXc0f0",
+    },
+  ],
 } as const satisfies Track

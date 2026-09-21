@@ -25,4 +25,13 @@ export const jamesTaylor2BeforeThisWorldFarAfghanistan = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "farafghanistan|0vn7UBvSQECKJm2817Yf1P|244466",
   song: "song/james-taylor-far-afghanistan",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-before-this-world",
+      discNumber: 1,
+      position: 9,
+      externalId: "1Bq2ZlIYehQx9FRReuL6pP",
+      externalLink: "https://open.spotify.com/track/1Bq2ZlIYehQx9FRReuL6pP",
+    },
+  ],
 } as const satisfies Track

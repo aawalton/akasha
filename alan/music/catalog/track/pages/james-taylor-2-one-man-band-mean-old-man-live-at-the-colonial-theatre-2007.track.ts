@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandMeanOldManLiveAtTheColonialTheatre2007 = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "meanoldmanliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|222600",
   song: "song/james-taylor-mean-old-man",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 4,
+      externalId: "47chNYHzUVQwFFN7k6lLa2",
+      externalLink: "https://open.spotify.com/track/47chNYHzUVQwFFN7k6lLa2",
+    },
+  ],
 } as const satisfies Track

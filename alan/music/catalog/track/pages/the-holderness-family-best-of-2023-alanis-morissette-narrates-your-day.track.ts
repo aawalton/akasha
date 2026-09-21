@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2023AlanisMorissetteNarratesYourDay = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "alanismorissettenarratesyourday|6tITG4T8LpC0msapZ4wXGA|268511",
   song: "song/the-holderness-family-alanis-morissette-narrates-your-day",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2023",
+      discNumber: 1,
+      position: 1,
+      externalId: "2fhqHaD4jJoYzeXAY6vJD9",
+      externalLink: "https://open.spotify.com/track/2fhqHaD4jJoYzeXAY6vJD9",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackQueendom = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "queendom|1WgXqy2Dd70QQOU7Ay074N|206640",
   song: "song/aurora-queendom",
+  carriedBy: [
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 16,
+      externalId: "4KL2R4rnk43g8a2t0ZObhb",
+      externalLink: "https://open.spotify.com/track/4KL2R4rnk43g8a2t0ZObhb",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayBiutyfulBiutyful = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "biutyful|4gzpq5DPGxSnKTe4SA8HAU|192394",
   song: "song/coldplay-biutyful",
+  carriedBy: [
+    {
+      release: "release/coldplay-biutyful",
+      discNumber: 1,
+      position: 1,
+      externalId: "4TcCbhzD4caTdkkvkS45oa",
+      externalLink: "https://open.spotify.com/track/4TcCbhzD4caTdkkvkS45oa",
+    },
+  ],
 } as const satisfies Track

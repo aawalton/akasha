@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe80sMakingLunchOutOfNothingAtAll = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "makinglunchoutofnothingatall|6tITG4T8LpC0msapZ4wXGA|162246",
   song: "song/the-holderness-family-making-lunch-out-of-nothing-at-all",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-80s",
+      discNumber: 1,
+      position: 9,
+      externalId: "3gqNWYzOxhrYw3JlYSfsp6",
+      externalLink: "https://open.spotify.com/track/3gqNWYzOxhrYw3JlYSfsp6",
+    },
+  ],
 } as const satisfies Track

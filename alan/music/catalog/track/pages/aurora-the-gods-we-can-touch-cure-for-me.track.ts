@@ -25,4 +25,13 @@ export const auroraTheGodsWeCanTouchCureForMe = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "cureforme|1WgXqy2Dd70QQOU7Ay074N|201640",
   song: "song/aurora-cure-for-me",
+  carriedBy: [
+    {
+      release: "release/aurora-the-gods-we-can-touch",
+      discNumber: 1,
+      position: 4,
+      externalId: "33WTgxRdPBQQpVCMXpNxhO",
+      externalLink: "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman22020thAnniversaryDannyBoy20thAnniversary = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "dannyboy20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|213746",
   song: "song/celtic-woman-danny-boy-20th-anniversary",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-20-20th-anniversary",
+      discNumber: 1,
+      position: 11,
+      externalId: "3mnphqcNGZkoBPybFbkHAO",
+      externalLink: "https://open.spotify.com/track/3mnphqcNGZkoBPybFbkHAO",
+    },
+  ],
 } as const satisfies Track

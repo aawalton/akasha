@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeChaChingTillWeG
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "chachingtillwegrowolder|53XhwfbYqKCa1cC15pYq2q|248693",
   song: "song/imagine-dragons-cha-ching-till-we-grow-older",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 2,
+      position: 1,
+      externalId: "1tByBikovzQU6SVRQvBkN8",
+      externalLink: "https://open.spotify.com/track/1tByBikovzQU6SVRQvBkN8",
+    },
+  ],
 } as const satisfies Track

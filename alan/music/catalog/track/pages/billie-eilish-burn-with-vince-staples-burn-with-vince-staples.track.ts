@@ -28,4 +28,13 @@ export const billieEilishBurnWithVinceStaplesBurnWithVinceStaples = {
   ],
   trackKey: "burnwithvincestaples|68kEuyFKyqrdQQLLsmiatm,6qqNVTkY8uBg9cP3Jd7DAH|179015",
   song: "song/billie-eilish-burn",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-burn-with-vince-staples",
+      discNumber: 1,
+      position: 1,
+      externalId: "7uX3gufAoBVqKVoD3dBLLD",
+      externalLink: "https://open.spotify.com/track/7uX3gufAoBVqKVoD3dBLLD",
+    },
+  ],
 } as const satisfies Track

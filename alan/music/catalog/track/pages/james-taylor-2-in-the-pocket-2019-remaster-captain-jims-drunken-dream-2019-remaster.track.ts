@@ -25,4 +25,13 @@ export const jamesTaylor2InThePocket2019RemasterCaptainJimsDrunkenDream2019Remas
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "captainjimsdrunkendream2019remaster|0vn7UBvSQECKJm2817Yf1P|243546",
   song: "song/james-taylor-captain-jims-drunken-dream",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-in-the-pocket-2019-remaster",
+      discNumber: 1,
+      position: 8,
+      externalId: "52yNglQvFD0UL8kOIM5FsS",
+      externalLink: "https://open.spotify.com/track/52yNglQvFD0UL8kOIM5FsS",
+    },
+  ],
 } as const satisfies Track

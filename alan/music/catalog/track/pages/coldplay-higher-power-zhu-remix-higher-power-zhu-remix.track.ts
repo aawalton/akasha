@@ -28,4 +28,13 @@ export const coldplayHigherPowerZhuRemixHigherPowerZhuRemix = {
   ],
   trackKey: "higherpowerzhuremix|28j8lBWDdDSHSSt5oPlsX2,4gzpq5DPGxSnKTe4SA8HAU|286093",
   song: "song/coldplay-higher-power",
+  carriedBy: [
+    {
+      release: "release/coldplay-higher-power-zhu-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1YLGtZjDKyY0Qkv4QlX31b",
+      externalLink: "https://open.spotify.com/track/1YLGtZjDKyY0Qkv4QlX31b",
+    },
+  ],
 } as const satisfies Track

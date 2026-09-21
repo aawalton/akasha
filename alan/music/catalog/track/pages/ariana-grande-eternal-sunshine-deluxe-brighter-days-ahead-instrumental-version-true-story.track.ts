@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "truestory|66CXWjxzNUsdJxJ2JdwvnR|163278",
   song: "song/ariana-grande-true-story",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+      discNumber: 1,
+      position: 7,
+      externalId: "7lYX895hzlbCgpBejGtVCq",
+      externalLink: "https://open.spotify.com/track/7lYX895hzlbCgpBejGtVCq",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2NeverDieYoungSunOnTheMoon = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sunonthemoon|0vn7UBvSQECKJm2817Yf1P|249600",
   song: "song/james-taylor-sun-on-the-moon",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-never-die-young",
+      discNumber: 1,
+      position: 6,
+      externalId: "5f92CdAUMKkxn1Bo7CBs53",
+      externalLink: "https://open.spotify.com/track/5f92CdAUMKkxn1Bo7CBs53",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBreakFree = {
   ],
   trackKey: "breakfree|2qxJFvFYMEDqd7ui6kSAcq,66CXWjxzNUsdJxJ2JdwvnR|214843",
   song: "song/ariana-grande-break-free",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 5,
+      externalId: "7qQKhhQkLGxDKeF0EY2uH6",
+      externalLink: "https://open.spotify.com/track/7qQKhhQkLGxDKeF0EY2uH6",
+    },
+  ],
 } as const satisfies Track

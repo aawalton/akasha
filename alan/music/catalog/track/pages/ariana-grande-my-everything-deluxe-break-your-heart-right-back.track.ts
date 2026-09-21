@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingDeluxeBreakYourHeartRightBack = {
   ],
   trackKey: "breakyourheartrightback|66CXWjxzNUsdJxJ2JdwvnR,73sIBHcqh3Z3NyqHKZ7FOL|253386",
   song: "song/ariana-grande-break-your-heart-right-back",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "0HGcQDbRen8luCnwH53sNl",
+      externalLink: "https://open.spotify.com/track/0HGcQDbRen8luCnwH53sNl",
+    },
+  ],
 } as const satisfies Track

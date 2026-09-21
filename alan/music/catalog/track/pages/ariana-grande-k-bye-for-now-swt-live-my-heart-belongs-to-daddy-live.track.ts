@@ -25,4 +25,13 @@ export const arianaGrandeKByeForNowSwtLiveMyHeartBelongsToDaddyLive = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "myheartbelongstodaddylive|66CXWjxzNUsdJxJ2JdwvnR|107321",
   song: "song/ariana-grande-my-heart-belongs-to-daddy",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-k-bye-for-now-swt-live",
+      discNumber: 1,
+      position: 28,
+      externalId: "3HUJw4KvL5baIwuh0wWPoh",
+      externalLink: "https://open.spotify.com/track/3HUJw4KvL5baIwuh0wWPoh",
+    },
+  ],
 } as const satisfies Track

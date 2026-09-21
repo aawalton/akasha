@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe2000sBadSitter = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "badsitter|6tITG4T8LpC0msapZ4wXGA|126576",
   song: "song/the-holderness-family-bad-sitter",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-2000s",
+      discNumber: 1,
+      position: 9,
+      externalId: "42AAlTcntyAJU3J6HCjLVV",
+      externalLink: "https://open.spotify.com/track/42AAlTcntyAJU3J6HCjLVV",
+    },
+  ],
 } as const satisfies Track

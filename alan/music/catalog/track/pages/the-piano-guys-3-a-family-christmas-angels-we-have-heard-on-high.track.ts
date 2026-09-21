@@ -28,4 +28,13 @@ export const thePianoGuys3AFamilyChristmasAngelsWeHaveHeardOnHigh = {
   ],
   trackKey: "angelswehaveheardonhigh|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|212741",
   song: "song/the-piano-guys-angels-we-have-heard-on-high",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 1,
+      externalId: "2S96r2pepRxVn0bw74dcZn",
+      externalLink: "https://open.spotify.com/track/2S96r2pepRxVn0bw74dcZn",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2AsaSFancyRoxySNewShoesAsasFancyRoxysNewShoes = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "asasfancyroxysnewshoes|6NWtt9pNOL2Gx7kBykdE5x|216750",
   song: "song/celtic-woman-asas-fancy-roxys-new-shoes",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-asa-s-fancy-roxy-s-new-shoes",
+      discNumber: 1,
+      position: 1,
+      externalId: "4tNBSmMW7t9AfmtfLF3hel",
+      externalLink: "https://open.spotify.com/track/4tNBSmMW7t9AfmtfLF3hel",
+    },
+  ],
 } as const satisfies Track

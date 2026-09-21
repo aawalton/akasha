@@ -28,4 +28,13 @@ export const coldplayPrincessOfChinaPrincessOfChinaRadioEdit = {
   ],
   trackKey: "princessofchinaradioedit|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|217575",
   song: "song/coldplay-princess-of-china",
+  carriedBy: [
+    {
+      release: "release/coldplay-princess-of-china",
+      discNumber: 1,
+      position: 1,
+      externalId: "6XJ2PVp2Vs9G2j5B2Cbbnb",
+      externalLink: "https://open.spotify.com/track/6XJ2PVp2Vs9G2j5B2Cbbnb",
+    },
+  ],
 } as const satisfies Track

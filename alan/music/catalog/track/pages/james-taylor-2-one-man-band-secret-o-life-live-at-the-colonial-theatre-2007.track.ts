@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandSecretOLifeLiveAtTheColonialTheatre2007 = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "secretolifeliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|222253",
   song: "song/james-taylor-secret-o-life",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 11,
+      externalId: "49xjxUcpztWSNrYG35qHed",
+      externalLink: "https://open.spotify.com/track/49xjxUcpztWSNrYG35qHed",
+    },
+  ],
 } as const satisfies Track

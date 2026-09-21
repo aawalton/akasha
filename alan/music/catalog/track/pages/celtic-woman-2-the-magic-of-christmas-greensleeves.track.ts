@@ -25,4 +25,13 @@ export const celticWoman2TheMagicOfChristmasGreensleeves = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "greensleeves|6NWtt9pNOL2Gx7kBykdE5x|216906",
   song: "song/celtic-woman-greensleeves",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-magic-of-christmas",
+      discNumber: 1,
+      position: 9,
+      externalId: "5E0QjQR6LUqVdz47O7a0Mt",
+      externalLink: "https://open.spotify.com/track/5E0QjQR6LUqVdz47O7a0Mt",
+    },
+  ],
 } as const satisfies Track

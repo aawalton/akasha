@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "theboyismineacappella|66CXWjxzNUsdJxJ2JdwvnR|163985",
   song: "song/ariana-grande-the-boy-is-mine",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+      discNumber: 1,
+      position: 27,
+      externalId: "0poF0mfvsUmW3ib7jaHDPP",
+      externalLink: "https://open.spotify.com/track/0poF0mfvsUmW3ib7jaHDPP",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraMusicForTheFreeSpiritsGentleEarthquakes = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "gentleearthquakes|1WgXqy2Dd70QQOU7Ay074N|227328",
   song: "song/aurora-gentle-earthquakes",
+  carriedBy: [
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 3,
+      externalId: "38c50wSqNxBTAA525vUOJH",
+      externalLink: "https://open.spotify.com/track/38c50wSqNxBTAA525vUOJH",
+    },
+  ],
 } as const satisfies Track

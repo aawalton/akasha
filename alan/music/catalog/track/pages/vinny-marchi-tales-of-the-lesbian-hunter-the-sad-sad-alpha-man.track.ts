@@ -25,4 +25,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheSadSadAlphaMan = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thesadsadalphaman|5USAMqcbMAzF3HBmeD5pJF|132877",
   song: "song/vinny-marchi-the-sad-sad-alpha-man",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 4,
+      externalId: "5RYTElFWkjRgwhJWBWHVXk",
+      externalLink: "https://open.spotify.com/track/5RYTElFWkjRgwhJWBWHVXk",
+    },
+  ],
 } as const satisfies Track

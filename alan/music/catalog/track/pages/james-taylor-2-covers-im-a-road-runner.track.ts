@@ -25,4 +25,13 @@ export const jamesTaylor2CoversImARoadRunner = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "imaroadrunner|0vn7UBvSQECKJm2817Yf1P|197586",
   song: "song/james-taylor-im-a-road-runner",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 2,
+      externalId: "1WhUsyBScyAZBLL9FHVKfG",
+      externalLink: "https://open.spotify.com/track/1WhUsyBScyAZBLL9FHVKfG",
+    },
+  ],
 } as const satisfies Track

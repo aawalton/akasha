@@ -25,4 +25,13 @@ export const sabrinaCarpenterEyesWideOpenWhiteFlag = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "whiteflag|74KM79TiuVKeVCqs8QtB0B|198386",
   song: "song/sabrina-carpenter-white-flag",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-eyes-wide-open",
+      discNumber: 1,
+      position: 11,
+      externalId: "6xQdHOX1Tq3IrKsQdLs0nc",
+      externalLink: "https://open.spotify.com/track/6xQdHOX1Tq3IrKsQdLs0nc",
+    },
+  ],
 } as const satisfies Track

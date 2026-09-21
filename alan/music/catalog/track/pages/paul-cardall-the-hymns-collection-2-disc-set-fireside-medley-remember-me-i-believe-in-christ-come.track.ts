@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetFiresideMedleyRememberMeIBelie
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "firesidemedleyremembermeibelieveinchristcomethoufou|7FQRbf8gbKw8KZQZAJWxH2|285283",
   song: "song/paul-cardall-fireside-medley-remember-me-i-believe-in-christ-come-thou-fou",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 17,
+      externalId: "6RGQGGy8hyJkeFAfksL6ny",
+      externalLink: "https://open.spotify.com/track/6RGQGGy8hyJkeFAfksL6ny",
+    },
+  ],
 } as const satisfies Track

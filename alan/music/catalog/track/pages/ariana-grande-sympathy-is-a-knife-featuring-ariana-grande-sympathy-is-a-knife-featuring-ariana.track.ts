@@ -29,4 +29,13 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrandeSympathyIsAKnifeFe
   trackKey:
     "sympathyisaknifefeaturingarianagrande|25uiPmTg16RbhZWAqwLBy5,66CXWjxzNUsdJxJ2JdwvnR|154126",
   song: "song/ariana-grande-sympathy-is-a-knife-featuring-ariana-grande",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-sympathy-is-a-knife-featuring-ariana-grande",
+      discNumber: 1,
+      position: 1,
+      externalId: "6xrTHtSg2SDBLilLxhbhof",
+      externalLink: "https://open.spotify.com/track/6xrTHtSg2SDBLilLxhbhof",
+    },
+  ],
 } as const satisfies Track

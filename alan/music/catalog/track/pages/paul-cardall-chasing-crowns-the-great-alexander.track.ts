@@ -25,4 +25,13 @@ export const paulCardallChasingCrownsTheGreatAlexander = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thegreatalexander|7FQRbf8gbKw8KZQZAJWxH2|198250",
   song: "song/paul-cardall-the-great-alexander",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chasing-crowns",
+      discNumber: 1,
+      position: 6,
+      externalId: "5FaANEG8jIuo7aoGumJWFP",
+      externalLink: "https://open.spotify.com/track/5FaANEG8jIuo7aoGumJWFP",
+    },
+  ],
 } as const satisfies Track

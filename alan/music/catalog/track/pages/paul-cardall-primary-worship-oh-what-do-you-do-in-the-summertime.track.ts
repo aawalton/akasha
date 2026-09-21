@@ -25,4 +25,13 @@ export const paulCardallPrimaryWorshipOhWhatDoYouDoInTheSummertime = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ohwhatdoyoudointhesummertime|7FQRbf8gbKw8KZQZAJWxH2|172187",
   song: "song/paul-cardall-oh-what-do-you-do-in-the-summertime",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-primary-worship",
+      discNumber: 1,
+      position: 9,
+      externalId: "6oWPlg1iMPyQH4eZhNk89J",
+      externalLink: "https://open.spotify.com/track/6oWPlg1iMPyQH4eZhNk89J",
+    },
+  ],
 } as const satisfies Track

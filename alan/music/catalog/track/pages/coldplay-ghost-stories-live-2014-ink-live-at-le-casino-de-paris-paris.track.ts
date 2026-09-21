@@ -25,4 +25,13 @@ export const coldplayGhostStoriesLive2014InkLiveAtLeCasinoDeParisParis = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "inkliveatlecasinodeparisparis|4gzpq5DPGxSnKTe4SA8HAU|249360",
   song: "song/coldplay-ink",
+  carriedBy: [
+    {
+      release: "release/coldplay-ghost-stories-live-2014",
+      discNumber: 1,
+      position: 3,
+      externalId: "29G1awyCr8RHz9EsTwqC6P",
+      externalLink: "https://open.spotify.com/track/29G1awyCr8RHz9EsTwqC6P",
+    },
+  ],
 } as const satisfies Track

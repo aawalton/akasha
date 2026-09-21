@@ -25,4 +25,13 @@ export const celticWoman2SongsFromTheHeartTheMoonsAHarshMistress = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "themoonsaharshmistress|6NWtt9pNOL2Gx7kBykdE5x|196813",
   song: "song/celtic-woman-the-moons-a-harsh-mistress",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-songs-from-the-heart",
+      discNumber: 1,
+      position: 9,
+      externalId: "4XBl78krtFcbi9Tz8NQp9a",
+      externalLink: "https://open.spotify.com/track/4XBl78krtFcbi9Tz8NQp9a",
+    },
+  ],
 } as const satisfies Track

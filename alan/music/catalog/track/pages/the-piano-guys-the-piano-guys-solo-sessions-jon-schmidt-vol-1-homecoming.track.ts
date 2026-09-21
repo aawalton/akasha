@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Homecoming = {
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "homecoming|2YQ4MY2VwOMv43C0GemUY5|163603",
   song: "song/the-piano-guys-homecoming",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
+      discNumber: 1,
+      position: 5,
+      externalId: "0y6v115En3hn0bVw5wiMLV",
+      externalLink: "https://open.spotify.com/track/0y6v115En3hn0bVw5wiMLV",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const auroraQueendomRemixesQueendomShuraRemix = {
   ],
   trackKey: "queendomshuraremix|1WgXqy2Dd70QQOU7Ay074N,1qpR5mURxk3d8f6mww6uKT|306266",
   song: "song/aurora-queendom",
+  carriedBy: [
+    {
+      release: "release/aurora-queendom-remixes",
+      discNumber: 1,
+      position: 3,
+      externalId: "7vlg4UScIgNzzYON63Hzo3",
+      externalLink: "https://open.spotify.com/track/7vlg4UScIgNzzYON63Hzo3",
+    },
+  ],
 } as const satisfies Track

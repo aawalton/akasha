@@ -25,4 +25,13 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsWokeDemo = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "wokedemo|53XhwfbYqKCa1cC15pYq2q|220795",
   song: "song/imagine-dragons-woke",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors",
+      discNumber: 1,
+      position: 1,
+      externalId: "7tKaefLpk7pSAIE12JGxj9",
+      externalLink: "https://open.spotify.com/track/7tKaefLpk7pSAIE12JGxj9",
+    },
+  ],
 } as const satisfies Track

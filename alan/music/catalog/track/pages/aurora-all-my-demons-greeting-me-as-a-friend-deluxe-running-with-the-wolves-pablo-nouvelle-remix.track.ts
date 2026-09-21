@@ -29,4 +29,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolvesPablo
   trackKey:
     "runningwiththewolvespablonouvelleremix|1WgXqy2Dd70QQOU7Ay074N,2OIJq28O1lXrZ2x3NGSk8P|230266",
   song: "song/aurora-running-with-the-wolves",
+  carriedBy: [
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+      discNumber: 1,
+      position: 17,
+      externalId: "7CjF1ORcxvgOqzmlAvqVIl",
+      externalLink: "https://open.spotify.com/track/7CjF1ORcxvgOqzmlAvqVIl",
+    },
+  ],
 } as const satisfies Track

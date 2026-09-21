@@ -25,4 +25,13 @@ export const thePianoGuys3GhostSeptember = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "september|0jW6R8CVyVohuUJVcuweDI|204830",
   song: "song/the-piano-guys-september",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-ghost",
+      discNumber: 1,
+      position: 3,
+      externalId: "3YhMQUrVVeuTNHfl3nI5QF",
+      externalLink: "https://open.spotify.com/track/3YhMQUrVVeuTNHfl3nI5QF",
+    },
+  ],
 } as const satisfies Track

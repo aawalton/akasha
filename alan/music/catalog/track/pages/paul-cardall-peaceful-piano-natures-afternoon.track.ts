@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoNaturesAfternoon = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "naturesafternoon|7FQRbf8gbKw8KZQZAJWxH2|184146",
   song: "song/paul-cardall-natures-afternoon",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 17,
+      externalId: "6cXVYNqcoEvYXtJmxFSsh9",
+      externalLink: "https://open.spotify.com/track/6cXVYNqcoEvYXtJmxFSsh9",
+    },
+  ],
 } as const satisfies Track

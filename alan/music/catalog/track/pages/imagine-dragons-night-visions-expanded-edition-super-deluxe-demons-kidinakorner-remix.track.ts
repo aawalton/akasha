@@ -31,4 +31,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsKidinakor
   trackKey:
     "demonskidinakornerremix|0vjlH9sbJOZyhDjhvajQpY,4XcwuarQvItfOFjloYb5kw,53XhwfbYqKCa1cC15pYq2q,6se7gLvI94GpX7A0g94tV7|200946",
   song: "song/imagine-dragons-demons",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 10,
+      externalId: "0u3E4VJOH8TpQ9GohtNfoF",
+      externalLink: "https://open.spotify.com/track/0u3E4VJOH8TpQ9GohtNfoF",
+    },
+  ],
 } as const satisfies Track

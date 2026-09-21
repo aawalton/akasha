@@ -25,4 +25,13 @@ export const theHoldernessFamilyTheGreatestHitsVolOneAllAboutThatBaste = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "allaboutthatbaste|6tITG4T8LpC0msapZ4wXGA|115696",
   song: "song/the-holderness-family-all-about-that-baste",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-the-greatest-hits-vol-one",
+      discNumber: 1,
+      position: 2,
+      externalId: "4gltuvkyeafN47iuzHiJOS",
+      externalLink: "https://open.spotify.com/track/4gltuvkyeafN47iuzHiJOS",
+    },
+  ],
 } as const satisfies Track

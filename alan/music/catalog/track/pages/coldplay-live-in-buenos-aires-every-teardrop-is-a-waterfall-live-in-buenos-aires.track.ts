@@ -25,4 +25,13 @@ export const coldplayLiveInBuenosAiresEveryTeardropIsAWaterfallLiveInBuenosAires
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everyteardropisawaterfallliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|244306",
   song: "song/coldplay-every-teardrop-is-a-waterfall",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-in-buenos-aires",
+      discNumber: 1,
+      position: 3,
+      externalId: "4Q0yfgpERfkp59Pf2tdI4q",
+      externalLink: "https://open.spotify.com/track/4Q0yfgpERfkp59Pf2tdI4q",
+    },
+  ],
 } as const satisfies Track

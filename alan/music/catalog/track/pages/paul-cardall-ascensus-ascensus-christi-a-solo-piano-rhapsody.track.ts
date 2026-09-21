@@ -25,4 +25,13 @@ export const paulCardallAscensusAscensusChristiASoloPianoRhapsody = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ascensuschristiasolopianorhapsody|7FQRbf8gbKw8KZQZAJWxH2|309930",
   song: "song/paul-cardall-ascensus-christi-a-solo-piano-rhapsody",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ascensus",
+      discNumber: 1,
+      position: 4,
+      externalId: "6ZHABq7sgQbHokugswxKpG",
+      externalLink: "https://open.spotify.com/track/6ZHABq7sgQbHokugswxKpG",
+    },
+  ],
 } as const satisfies Track

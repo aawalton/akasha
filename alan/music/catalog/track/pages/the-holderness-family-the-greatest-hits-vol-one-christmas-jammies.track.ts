@@ -25,4 +25,13 @@ export const theHoldernessFamilyTheGreatestHitsVolOneChristmasJammies = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "christmasjammies|6tITG4T8LpC0msapZ4wXGA|202031",
   song: "song/the-holderness-family-christmas-jammies",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-the-greatest-hits-vol-one",
+      discNumber: 1,
+      position: 1,
+      externalId: "3ME26Zye2lrCm6GS6Ji3l9",
+      externalLink: "https://open.spotify.com/track/3ME26Zye2lrCm6GS6Ji3l9",
+    },
+  ],
 } as const satisfies Track

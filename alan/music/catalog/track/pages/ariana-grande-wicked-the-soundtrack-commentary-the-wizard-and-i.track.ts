@@ -28,4 +28,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndI = {
   ],
   trackKey: "thewizardandi|46UMQ0cW8ToR8egkBRwAxZ,5IaJcuBeBkVqhGAzxMciwu|336858",
   song: "song/ariana-grande-the-wizard-and-i",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 7,
+      externalId: "7f5TtZfS8rDAsDHS9E6fou",
+      externalLink: "https://open.spotify.com/track/7f5TtZfS8rDAsDHS9E6fou",
+    },
+  ],
 } as const satisfies Track

@@ -30,4 +30,13 @@ export const auroraInAMinuteLiveFromTheStudioVersionInAMinuteLiveFromTheStudioVe
   trackKey:
     "inaminutelivefromthestudioversion|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|602311",
   song: "song/aurora-in-a-minute",
+  carriedBy: [
+    {
+      release: "release/aurora-in-a-minute-live-from-the-studio-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "49Svtm8RA6SWUHO5Fiv7uv",
+      externalLink: "https://open.spotify.com/track/49Svtm8RA6SWUHO5Fiv7uv",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2023ComfortZone = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "comfortzone|6tITG4T8LpC0msapZ4wXGA|113520",
   song: "song/the-holderness-family-comfort-zone",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2023",
+      discNumber: 1,
+      position: 12,
+      externalId: "3bjHRhjP7fIz83k2Jrg7IO",
+      externalLink: "https://open.spotify.com/track/3bjHRhjP7fIz83k2Jrg7IO",
+    },
+  ],
 } as const satisfies Track

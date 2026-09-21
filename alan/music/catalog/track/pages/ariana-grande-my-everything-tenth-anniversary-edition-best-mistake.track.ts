@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBestMistake = {
   ],
   trackKey: "bestmistake|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|233734",
   song: "song/ariana-grande-best-mistake",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 6,
+      externalId: "3uDFCbWt1T19sz8zhBuaUc",
+      externalLink: "https://open.spotify.com/track/3uDFCbWt1T19sz8zhBuaUc",
+    },
+  ],
 } as const satisfies Track

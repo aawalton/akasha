@@ -25,4 +25,13 @@ export const thePianoGuysPeacefulSummerNightsClairDeLune = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "clairdelune|0jW6R8CVyVohuUJVcuweDI|192481",
   song: "song/the-piano-guys-clair-de-lune",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-peaceful-summer-nights",
+      discNumber: 1,
+      position: 3,
+      externalId: "1SKnbLdtfMo9Al355kGvCE",
+      externalLink: "https://open.spotify.com/track/1SKnbLdtfMo9Al355kGvCE",
+    },
+  ],
 } as const satisfies Track

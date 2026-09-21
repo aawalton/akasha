@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreRadioactiveLi
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "radioactivelive|53XhwfbYqKCa1cC15pYq2q|461106",
   song: "song/imagine-dragons-radioactive",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
+      discNumber: 1,
+      position: 17,
+      externalId: "0mO71IEhEaXyQP5YpRdswm",
+      externalLink: "https://open.spotify.com/track/0mO71IEhEaXyQP5YpRdswm",
+    },
+  ],
 } as const satisfies Track

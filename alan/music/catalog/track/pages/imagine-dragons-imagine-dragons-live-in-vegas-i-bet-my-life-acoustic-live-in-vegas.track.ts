@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsLiveInVegasIBetMyLifeAcousticLiveInVega
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ibetmylifeacousticliveinvegas|53XhwfbYqKCa1cC15pYq2q|225660",
   song: "song/imagine-dragons-i-bet-my-life",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-live-in-vegas",
+      discNumber: 1,
+      position: 12,
+      externalId: "5QXqQloyCOtu9rdGN7iRre",
+      externalLink: "https://open.spotify.com/track/5QXqQloyCOtu9rdGN7iRre",
+    },
+  ],
 } as const satisfies Track

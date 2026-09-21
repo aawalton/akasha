@@ -28,4 +28,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWickedC
   ],
   trackKey: "everydaymorewickedcommentary|6VAUVq50O85s387FLQJi2B,7daPb40K64rRtF36wd3ZOk|47529",
   song: "song/ariana-grande-every-day-more-wicked-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 2,
+      externalId: "2CXTNa5x4ZxtDfh26k0rMu",
+      externalLink: "https://open.spotify.com/track/2CXTNa5x4ZxtDfh26k0rMu",
+    },
+  ],
 } as const satisfies Track

@@ -29,4 +29,13 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemixHostileGovernmentTakeov
   trackKey:
     "hostilegovernmenttakeoveredmremix|5HIe287SJPUFnR5TNjmhk5,5USAMqcbMAzF3HBmeD5pJF|159416",
   song: "song/vinny-marchi-hostile-government-takeover",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-hostile-government-takeover-edm-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1Ztfx8ORaPdsvSZeHRglgr",
+      externalLink: "https://open.spotify.com/track/1Ztfx8ORaPdsvSZeHRglgr",
+    },
+  ],
 } as const satisfies Track

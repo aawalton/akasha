@@ -25,4 +25,13 @@ export const paulCardallAncestorsTheLastLeaf = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thelastleaf|7FQRbf8gbKw8KZQZAJWxH2|134920",
   song: "song/paul-cardall-the-last-leaf",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ancestors",
+      discNumber: 1,
+      position: 15,
+      externalId: "6rjT1zD3DfW4EPOQmjzJOf",
+      externalLink: "https://open.spotify.com/track/6rjT1zD3DfW4EPOQmjzJOf",
+    },
+  ],
 } as const satisfies Track

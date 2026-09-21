@@ -25,4 +25,13 @@ export const zaraLarssonSoGoodMakeThatMoneyGirl = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "makethatmoneygirl|1Xylc3o4UrD53lo9CvFvVg|198887",
   song: "song/zara-larsson-make-that-money-girl",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 10,
+      externalId: "1DJY8zj0Cbglv1kMjDivke",
+      externalLink: "https://open.spotify.com/track/1DJY8zj0Cbglv1kMjDivke",
+    },
+  ],
 } as const satisfies Track

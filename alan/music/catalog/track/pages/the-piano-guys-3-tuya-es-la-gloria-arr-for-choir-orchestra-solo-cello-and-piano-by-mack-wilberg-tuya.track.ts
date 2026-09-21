@@ -34,4 +34,14 @@ export const thePianoGuys3TuyaEsLaGloriaArrForChoirOrchestraSoloCelloAndPianoByM
   trackKey:
     "tuyaeslagloriaarrforchoirorchestrasolocelloandpianobymackwilberg|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5,1U5zgr455OGyIkLNXvDdrf,2Zpql3RdMQjunbDKk1bIiz,4kAIRZipPTtTbZBTudxcEA|237031",
   song: "song/the-piano-guys-tuya-es-la-gloria-arr-for-choir-orchestra-solo-cello-and-piano-by-mack-wilberg",
+  carriedBy: [
+    {
+      release:
+        "release/the-piano-guys-3-tuya-es-la-gloria-arr-for-choir-orchestra-solo-cello-and-piano-by-mack-wilberg",
+      discNumber: 1,
+      position: 1,
+      externalId: "53GLRYxfnu3ijM9lqfKxol",
+      externalLink: "https://open.spotify.com/track/53GLRYxfnu3ijM9lqfKxol",
+    },
+  ],
 } as const satisfies Track

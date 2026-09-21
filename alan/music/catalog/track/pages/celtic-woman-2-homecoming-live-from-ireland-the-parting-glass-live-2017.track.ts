@@ -25,4 +25,13 @@ export const celticWoman2HomecomingLiveFromIrelandThePartingGlassLive2017 = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thepartingglasslive2017|6NWtt9pNOL2Gx7kBykdE5x|305213",
   song: "song/celtic-woman-the-parting-glass",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-homecoming-live-from-ireland",
+      discNumber: 1,
+      position: 16,
+      externalId: "0Qfrr2n3HZbIRSaAkGOReM",
+      externalLink: "https://open.spotify.com/track/0Qfrr2n3HZbIRSaAkGOReM",
+    },
+  ],
 } as const satisfies Track

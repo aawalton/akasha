@@ -25,4 +25,13 @@ export const auroraCureForMeCureForMeAcoustic = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "cureformeacoustic|1WgXqy2Dd70QQOU7Ay074N|213373",
   song: "song/aurora-cure-for-me",
+  carriedBy: [
+    {
+      release: "release/aurora-cure-for-me",
+      discNumber: 1,
+      position: 2,
+      externalId: "2tkCvlBzMD6XXQbacxNB1v",
+      externalLink: "https://open.spotify.com/track/2tkCvlBzMD6XXQbacxNB1v",
+    },
+  ],
 } as const satisfies Track

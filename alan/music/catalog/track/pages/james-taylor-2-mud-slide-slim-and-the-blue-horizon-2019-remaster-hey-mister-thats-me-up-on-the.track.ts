@@ -25,4 +25,13 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterHeyMisterThats
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "heymisterthatsmeuponthejukebox2019remaster|0vn7UBvSQECKJm2817Yf1P|228093",
   song: "song/james-taylor-hey-mister-thats-me-up-on-the-jukebox",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster",
+      discNumber: 1,
+      position: 7,
+      externalId: "5ef8E6XIpIScVQ4OqjY40Q",
+      externalLink: "https://open.spotify.com/track/5ef8E6XIpIScVQ4OqjY40Q",
+    },
+  ],
 } as const satisfies Track

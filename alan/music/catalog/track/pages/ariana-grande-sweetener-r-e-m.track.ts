@@ -25,4 +25,13 @@ export const arianaGrandeSweetenerREM = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "rem|66CXWjxzNUsdJxJ2JdwvnR|245666",
   song: "song/ariana-grande-r-e-m",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-sweetener",
+      discNumber: 1,
+      position: 4,
+      externalId: "1xWH8zYtDeS9mW1JJG23VZ",
+      externalLink: "https://open.spotify.com/track/1xWH8zYtDeS9mW1JJG23VZ",
+    },
+  ],
 } as const satisfies Track

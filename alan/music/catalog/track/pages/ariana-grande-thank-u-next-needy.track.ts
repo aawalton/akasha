@@ -25,4 +25,13 @@ export const arianaGrandeThankUNextNeedy = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "needy|66CXWjxzNUsdJxJ2JdwvnR|171573",
   song: "song/ariana-grande-needy",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-thank-u-next",
+      discNumber: 1,
+      position: 2,
+      externalId: "1TEL6MlSSVLSdhOSddidlJ",
+      externalLink: "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ",
+    },
+  ],
 } as const satisfies Track

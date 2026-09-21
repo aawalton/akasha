@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2023WeWereMostlyClowns = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "weweremostlyclowns|6tITG4T8LpC0msapZ4wXGA|129550",
   song: "song/the-holderness-family-we-were-mostly-clowns",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2023",
+      discNumber: 1,
+      position: 5,
+      externalId: "3DXHiMEJk4qW7LSvCoRb19",
+      externalLink: "https://open.spotify.com/track/3DXHiMEJk4qW7LSvCoRb19",
+    },
+  ],
 } as const satisfies Track

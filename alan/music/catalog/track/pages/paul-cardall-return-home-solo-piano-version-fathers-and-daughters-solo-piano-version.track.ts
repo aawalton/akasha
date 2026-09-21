@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionFathersAndDaughtersSoloPianoVe
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fathersanddaughterssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|246125",
   song: "song/paul-cardall-fathers-and-daughters",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 13,
+      externalId: "2toqVyhOm5zuY3wPvsUp5r",
+      externalLink: "https://open.spotify.com/track/2toqVyhOm5zuY3wPvsUp5r",
+    },
+  ],
 } as const satisfies Track

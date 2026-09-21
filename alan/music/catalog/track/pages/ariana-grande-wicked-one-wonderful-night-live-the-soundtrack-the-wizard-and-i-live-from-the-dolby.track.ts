@@ -29,4 +29,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackTheWizardAndILi
   trackKey:
     "thewizardandilivefromthedolbytheatre|0O1n2TpXR4XizmHi7aY0l8,46UMQ0cW8ToR8egkBRwAxZ|353015",
   song: "song/ariana-grande-the-wizard-and-i",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+      discNumber: 1,
+      position: 2,
+      externalId: "77FVwIjrWlgLEVacsARg3Q",
+      externalLink: "https://open.spotify.com/track/77FVwIjrWlgLEVacsARg3Q",
+    },
+  ],
 } as const satisfies Track

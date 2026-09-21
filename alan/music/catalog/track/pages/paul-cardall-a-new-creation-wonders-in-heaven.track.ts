@@ -25,4 +25,13 @@ export const paulCardallANewCreationWondersInHeaven = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "wondersinheaven|7FQRbf8gbKw8KZQZAJWxH2|252666",
   song: "song/paul-cardall-wonders-in-heaven",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-new-creation",
+      discNumber: 1,
+      position: 4,
+      externalId: "6dMieZZFdIMtiNLpnw3f04",
+      externalLink: "https://open.spotify.com/track/6dMieZZFdIMtiNLpnw3f04",
+    },
+  ],
 } as const satisfies Track

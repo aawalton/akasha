@@ -25,4 +25,13 @@ export const arianaGrandeMyEverythingDeluxeJustALittleBitOfYourHeart = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "justalittlebitofyourheart|66CXWjxzNUsdJxJ2JdwvnR|232586",
   song: "song/ariana-grande-just-a-little-bit-of-your-heart",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-deluxe",
+      discNumber: 1,
+      position: 10,
+      externalId: "5lvnGiTAH9BVlJLHc0DXZz",
+      externalLink: "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const billieEilishBitchesBrokenHeartsBitchesBrokenHearts = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "bitchesbrokenhearts|6qqNVTkY8uBg9cP3Jd7DAH|176471",
   song: "song/billie-eilish-bitches-broken-hearts",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-bitches-broken-hearts",
+      discNumber: 1,
+      position: 1,
+      externalId: "5t3Vk8bRKylx4fjj7qlbib",
+      externalLink: "https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib",
+    },
+  ],
 } as const satisfies Track

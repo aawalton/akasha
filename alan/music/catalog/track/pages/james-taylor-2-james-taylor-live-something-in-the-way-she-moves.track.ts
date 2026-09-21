@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveSomethingInTheWaySheMoves = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "somethinginthewayshemoves|0vn7UBvSQECKJm2817Yf1P|210200",
   song: "song/james-taylor-something-in-the-way-she-moves",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 3,
+      externalId: "63ImfYU7j6yDEk11eIQUKv",
+      externalLink: "https://open.spotify.com/track/63ImfYU7j6yDEk11eIQUKv",
+    },
+  ],
 } as const satisfies Track

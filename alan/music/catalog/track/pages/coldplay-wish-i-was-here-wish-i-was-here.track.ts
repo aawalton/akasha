@@ -28,4 +28,13 @@ export const coldplayWishIWasHereWishIWasHere = {
   ],
   trackKey: "wishiwashere|4gzpq5DPGxSnKTe4SA8HAU,6G7OerKc3eBO9sVkRNopFC|190893",
   song: "song/coldplay-wish-i-was-here",
+  carriedBy: [
+    {
+      release: "release/coldplay-wish-i-was-here",
+      discNumber: 1,
+      position: 1,
+      externalId: "13doQ9lWZT2avl2iZJFV1b",
+      externalLink: "https://open.spotify.com/track/13doQ9lWZT2avl2iZJFV1b",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardItsOnlyAPaperMoon = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "itsonlyapapermoon|0vn7UBvSQECKJm2817Yf1P|191893",
   song: "song/james-taylor-its-only-a-paper-moon",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 13,
+      externalId: "5hDZjGuwlmGEgbPf0yjj4z",
+      externalLink: "https://open.spotify.com/track/5hDZjGuwlmGEgbPf0yjj4z",
+    },
+  ],
 } as const satisfies Track

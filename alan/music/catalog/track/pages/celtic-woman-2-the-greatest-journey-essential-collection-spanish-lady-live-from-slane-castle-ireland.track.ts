@@ -26,4 +26,13 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionSpanishLadyLiveFro
     trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
     trackKey: "spanishladylivefromslanecastleireland2006|6NWtt9pNOL2Gx7kBykdE5x|142946",
     song: "song/celtic-woman-spanish-lady",
+    carriedBy: [
+      {
+        release: "release/celtic-woman-2-the-greatest-journey-essential-collection",
+        discNumber: 1,
+        position: 18,
+        externalId: "3cYf2KMiQBCSPiGUgwP8dW",
+        externalLink: "https://open.spotify.com/track/3cYf2KMiQBCSPiGUgwP8dW",
+      },
+    ],
   } as const satisfies Track

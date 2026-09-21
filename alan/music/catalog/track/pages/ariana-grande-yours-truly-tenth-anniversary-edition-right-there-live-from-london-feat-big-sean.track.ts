@@ -29,4 +29,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereLiveFromLond
   trackKey:
     "righttherelivefromlondonfeatbigsean|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|196927",
   song: "song/ariana-grande-right-there",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 18,
+      externalId: "5J9jzskSfbSF7sTCWyoF93",
+      externalLink: "https://open.spotify.com/track/5J9jzskSfbSF7sTCWyoF93",
+    },
+  ],
 } as const satisfies Track

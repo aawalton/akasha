@@ -25,4 +25,13 @@ export const sabrinaCarpenterFruitcakeANonsenseChristmas = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "anonsensechristmas|74KM79TiuVKeVCqs8QtB0B|153099",
   song: "song/sabrina-carpenter-a-nonsense-christmas",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-fruitcake",
+      discNumber: 1,
+      position: 1,
+      externalId: "73ye7F9Ub51dQ3CrnCHFhr",
+      externalLink: "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr",
+    },
+  ],
 } as const satisfies Track

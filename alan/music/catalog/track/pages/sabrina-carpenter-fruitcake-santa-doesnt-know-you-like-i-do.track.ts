@@ -25,4 +25,13 @@ export const sabrinaCarpenterFruitcakeSantaDoesntKnowYouLikeIDo = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "santadoesntknowyoulikeido|74KM79TiuVKeVCqs8QtB0B|189753",
   song: "song/sabrina-carpenter-santa-doesnt-know-you-like-i-do",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-fruitcake",
+      discNumber: 1,
+      position: 3,
+      externalId: "5mi0HQrZMhRb2MRdFiUP6v",
+      externalLink: "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v",
+    },
+  ],
 } as const satisfies Track

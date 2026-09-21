@@ -25,4 +25,13 @@ export const auroraTheGodsWeCanTouchTheForbiddenFruitsOfEden = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theforbiddenfruitsofeden|1WgXqy2Dd70QQOU7Ay074N|40453",
   song: "song/aurora-the-forbidden-fruits-of-eden",
+  carriedBy: [
+    {
+      release: "release/aurora-the-gods-we-can-touch",
+      discNumber: 1,
+      position: 1,
+      externalId: "2Wvy4FbsgOel1rv13tpzCP",
+      externalLink: "https://open.spotify.com/track/2Wvy4FbsgOel1rv13tpzCP",
+    },
+  ],
 } as const satisfies Track

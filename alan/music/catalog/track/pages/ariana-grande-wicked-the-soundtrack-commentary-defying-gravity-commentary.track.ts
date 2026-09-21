@@ -30,4 +30,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDefyingGravityCommentary =
   trackKey:
     "defyinggravitycommentary|1e6BRnFiiwNZl04xu1yqmi,46UMQ0cW8ToR8egkBRwAxZ,7daPb40K64rRtF36wd3ZOk|150480",
   song: "song/ariana-grande-defying-gravity-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 22,
+      externalId: "64wc7msgpMJQaS2nLlxeFi",
+      externalLink: "https://open.spotify.com/track/64wc7msgpMJQaS2nLlxeFi",
+    },
+  ],
 } as const satisfies Track

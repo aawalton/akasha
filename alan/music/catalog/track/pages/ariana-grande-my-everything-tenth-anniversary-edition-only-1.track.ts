@@ -25,4 +25,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionOnly1 = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "only1|66CXWjxzNUsdJxJ2JdwvnR|193976",
   song: "song/ariana-grande-only-1",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 14,
+      externalId: "0dIMoAWQxrC2prw2TKNCvw",
+      externalLink: "https://open.spotify.com/track/0dIMoAWQxrC2prw2TKNCvw",
+    },
+  ],
 } as const satisfies Track

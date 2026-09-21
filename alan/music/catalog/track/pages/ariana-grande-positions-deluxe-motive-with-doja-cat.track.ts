@@ -28,4 +28,13 @@ export const arianaGrandePositionsDeluxeMotiveWithDojaCat = {
   ],
   trackKey: "motivewithdojacat|5cj0lLjcoR7YOSnhnX0Po5,66CXWjxzNUsdJxJ2JdwvnR|167989",
   song: "song/ariana-grande-motive",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions-deluxe",
+      discNumber: 1,
+      position: 3,
+      externalId: "5VipERQ1ofCowecoFg2MVU",
+      externalLink: "https://open.spotify.com/track/5VipERQ1ofCowecoFg2MVU",
+    },
+  ],
 } as const satisfies Track

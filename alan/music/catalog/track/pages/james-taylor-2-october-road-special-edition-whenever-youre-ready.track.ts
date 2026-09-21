@@ -25,4 +25,13 @@ export const jamesTaylor2OctoberRoadSpecialEditionWheneverYoureReady = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "wheneveryoureready|0vn7UBvSQECKJm2817Yf1P|254040",
   song: "song/james-taylor-whenever-youre-ready",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-october-road-special-edition",
+      discNumber: 1,
+      position: 4,
+      externalId: "731Ow0ya5jEEEHe2hwH729",
+      externalLink: "https://open.spotify.com/track/731Ow0ya5jEEEHe2hwH729",
+    },
+  ],
 } as const satisfies Track

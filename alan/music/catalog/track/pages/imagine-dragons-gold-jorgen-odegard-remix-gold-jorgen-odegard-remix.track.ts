@@ -28,4 +28,13 @@ export const imagineDragonsGoldJorgenOdegardRemixGoldJorgenOdegardRemix = {
   ],
   trackKey: "goldjorgenodegardremix|53XhwfbYqKCa1cC15pYq2q,7CqltXhCBv0seWSgUsJcPV|246880",
   song: "song/imagine-dragons-gold",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-gold-jorgen-odegard-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1yN8sa0MAn11upEsSJupAB",
+      externalLink: "https://open.spotify.com/track/1yN8sa0MAn11upEsSJupAB",
+    },
+  ],
 } as const satisfies Track

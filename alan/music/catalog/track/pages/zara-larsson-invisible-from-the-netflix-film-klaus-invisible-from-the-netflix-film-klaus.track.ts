@@ -25,4 +25,13 @@ export const zaraLarssonInvisibleFromTheNetflixFilmKlausInvisibleFromTheNetflixF
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "invisiblefromthenetflixfilmklaus|1Xylc3o4UrD53lo9CvFvVg|173975",
   song: "song/zara-larsson-invisible-from-the-netflix-film-klaus",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-invisible-from-the-netflix-film-klaus",
+      discNumber: 1,
+      position: 1,
+      externalId: "62z2Su8BBGvR50aOvdjPzW",
+      externalLink: "https://open.spotify.com/track/62z2Su8BBGvR50aOvdjPzW",
+    },
+  ],
 } as const satisfies Track

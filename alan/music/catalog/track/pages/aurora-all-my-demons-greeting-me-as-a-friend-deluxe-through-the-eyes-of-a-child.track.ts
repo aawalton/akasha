@@ -25,4 +25,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeThroughTheEyesOfAChild = 
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "throughtheeyesofachild|1WgXqy2Dd70QQOU7Ay074N|274413",
   song: "song/aurora-through-the-eyes-of-a-child",
+  carriedBy: [
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+      discNumber: 1,
+      position: 7,
+      externalId: "68MIw6ec5E2SKRDGDDCh8q",
+      externalLink: "https://open.spotify.com/track/68MIw6ec5E2SKRDGDDCh8q",
+    },
+  ],
 } as const satisfies Track

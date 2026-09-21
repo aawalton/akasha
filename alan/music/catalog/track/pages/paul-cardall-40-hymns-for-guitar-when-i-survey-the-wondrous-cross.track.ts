@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarWhenISurveyTheWondrousCross = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "whenisurveythewondrouscross|7FQRbf8gbKw8KZQZAJWxH2|178000",
   song: "song/paul-cardall-when-i-survey-the-wondrous-cross",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 10,
+      externalId: "4NENozMAHnXJ4Y1wuWS9eP",
+      externalLink: "https://open.spotify.com/track/4NENozMAHnXJ4Y1wuWS9eP",
+    },
+  ],
 } as const satisfies Track

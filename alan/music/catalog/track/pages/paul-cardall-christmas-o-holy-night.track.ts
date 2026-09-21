@@ -28,4 +28,13 @@ export const paulCardallChristmasOHolyNight = {
   ],
   trackKey: "oholynight|3qfrrrSO7utFdJkM2tvMRb,7FQRbf8gbKw8KZQZAJWxH2|427881",
   song: "song/celtic-woman-o-holy-night",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas",
+      discNumber: 1,
+      position: 8,
+      externalId: "50YWeUtsdF8sc5sijyZ6Gi",
+      externalLink: "https://open.spotify.com/track/50YWeUtsdF8sc5sijyZ6Gi",
+    },
+  ],
 } as const satisfies Track

@@ -26,4 +26,13 @@ export const coldplayLeftrightleftrightleftLiveTheHardestPartPostcardsFromFarAwa
     trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
     trackKey: "thehardestpartpostcardsfromfarawayliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|255213",
     song: "song/coldplay-the-hardest-part-postcards-from-far-away",
+    carriedBy: [
+      {
+        release: "release/coldplay-leftrightleftrightleft-live",
+        discNumber: 1,
+        position: 5,
+        externalId: "3Pgiemb2bwxrVBYoUIhtsw",
+        externalLink: "https://open.spotify.com/track/3Pgiemb2bwxrVBYoUIhtsw",
+      },
+    ],
   } as const satisfies Track

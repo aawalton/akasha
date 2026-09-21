@@ -25,4 +25,13 @@ export const billieEilishHitMeHardAndSoftTheDiner = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "thediner|6qqNVTkY8uBg9cP3Jd7DAH|186346",
   song: "song/billie-eilish-the-diner",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-hit-me-hard-and-soft",
+      discNumber: 1,
+      position: 8,
+      externalId: "1LLUoftvmTjVNBHZoQyveF",
+      externalLink: "https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF",
+    },
+  ],
 } as const satisfies Track

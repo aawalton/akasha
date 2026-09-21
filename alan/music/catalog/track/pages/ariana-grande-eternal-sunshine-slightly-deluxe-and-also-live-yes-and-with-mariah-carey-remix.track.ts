@@ -28,4 +28,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveYesAndWithMaria
   ],
   trackKey: "yesandwithmariahcareyremix|4iHNK0tOyZPYnBU7nGAgpQ,66CXWjxzNUsdJxJ2JdwvnR|214994",
   song: "song/ariana-grande-yes-and",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 14,
+      externalId: "11U6LlwAzp6mrS2JNWYXt1",
+      externalLink: "https://open.spotify.com/track/11U6LlwAzp6mrS2JNWYXt1",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2InThePocket2019RemasterShowerThePeople2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "showerthepeople2019remaster|0vn7UBvSQECKJm2817Yf1P|273306",
   song: "song/james-taylor-shower-the-people",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-in-the-pocket-2019-remaster",
+      discNumber: 1,
+      position: 1,
+      externalId: "1Pwcxq35Hl2kqwUVd5XCRg",
+      externalLink: "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg",
+    },
+  ],
 } as const satisfies Track

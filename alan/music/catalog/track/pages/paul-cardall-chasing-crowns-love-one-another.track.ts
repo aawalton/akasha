@@ -25,4 +25,13 @@ export const paulCardallChasingCrownsLoveOneAnother = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "loveoneanother|7FQRbf8gbKw8KZQZAJWxH2|179000",
   song: "song/paul-cardall-love-one-another",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chasing-crowns",
+      discNumber: 1,
+      position: 17,
+      externalId: "0OdKeYxyuesBpMnG99FdMg",
+      externalLink: "https://open.spotify.com/track/0OdKeYxyuesBpMnG99FdMg",
+    },
+  ],
 } as const satisfies Track

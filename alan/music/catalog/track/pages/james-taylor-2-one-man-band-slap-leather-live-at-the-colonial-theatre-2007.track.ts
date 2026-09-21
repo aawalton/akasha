@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandSlapLeatherLiveAtTheColonialTheatre2007 = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "slapleatherliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|187373",
   song: "song/james-taylor-slap-leather",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 7,
+      externalId: "4qgL4rkQnSZqjSXqNM8yp7",
+      externalLink: "https://open.spotify.com/track/4qgL4rkQnSZqjSXqNM8yp7",
+    },
+  ],
 } as const satisfies Track

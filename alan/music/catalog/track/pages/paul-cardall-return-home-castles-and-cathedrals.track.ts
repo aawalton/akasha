@@ -25,4 +25,13 @@ export const paulCardallReturnHomeCastlesAndCathedrals = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "castlesandcathedrals|7FQRbf8gbKw8KZQZAJWxH2|298176",
   song: "song/paul-cardall-castles-and-cathedrals",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 6,
+      externalId: "1YNU9Vt6Ql5ljrvyJNsGVs",
+      externalLink: "https://open.spotify.com/track/1YNU9Vt6Ql5ljrvyJNsGVs",
+    },
+  ],
 } as const satisfies Track

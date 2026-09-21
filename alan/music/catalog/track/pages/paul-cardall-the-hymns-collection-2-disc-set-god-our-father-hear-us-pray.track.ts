@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetGodOurFatherHearUsPray = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godourfatherhearuspray|7FQRbf8gbKw8KZQZAJWxH2|181394",
   song: "song/paul-cardall-god-our-father-hear-us-pray",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 22,
+      externalId: "2s7jFvm0GAmB1ssf0I59pi",
+      externalLink: "https://open.spotify.com/track/2s7jFvm0GAmB1ssf0I59pi",
+    },
+  ],
 } as const satisfies Track

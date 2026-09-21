@@ -25,4 +25,13 @@ export const auroraRunningWithTheWolvesRunaway = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runaway|1WgXqy2Dd70QQOU7Ay074N|248826",
   song: "song/aurora-runaway",
+  carriedBy: [
+    {
+      release: "release/aurora-running-with-the-wolves",
+      discNumber: 1,
+      position: 1,
+      externalId: "6zxmJ2iyP8sPGVEc37w5E8",
+      externalLink: "https://open.spotify.com/track/6zxmJ2iyP8sPGVEc37w5E8",
+    },
+  ],
 } as const satisfies Track

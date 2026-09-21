@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardSitDownYoureRockinTheBoat = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sitdownyourerockintheboat|0vn7UBvSQECKJm2817Yf1P|251013",
   song: "song/james-taylor-sit-down-youre-rockin-the-boat",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 6,
+      externalId: "0xRu9IgSv2VuGQ27se3fNZ",
+      externalLink: "https://open.spotify.com/track/0xRu9IgSv2VuGQ27se3fNZ",
+    },
+  ],
 } as const satisfies Track

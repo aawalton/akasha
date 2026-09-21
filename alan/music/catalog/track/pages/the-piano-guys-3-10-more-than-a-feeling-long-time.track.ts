@@ -28,4 +28,13 @@ export const thePianoGuys310MoreThanAFeelingLongTime = {
   ],
   trackKey: "morethanafeelinglongtime|0jW6R8CVyVohuUJVcuweDI,5S1qHHFKZRXRC4qjiPXyzN|307055",
   song: "song/the-piano-guys-more-than-a-feeling-long-time",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-10",
+      discNumber: 1,
+      position: 4,
+      externalId: "7HCwlk7B71Bi8f8oce9kc4",
+      externalLink: "https://open.spotify.com/track/7HCwlk7B71Bi8f8oce9kc4",
+    },
+  ],
 } as const satisfies Track

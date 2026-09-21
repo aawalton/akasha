@@ -25,4 +25,13 @@ export const vinnyMarchiDidnTComeAllThisWayDidntComeAllThisWay = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "didntcomeallthisway|5USAMqcbMAzF3HBmeD5pJF|153846",
   song: "song/vinny-marchi-didnt-come-all-this-way",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-didn-t-come-all-this-way",
+      discNumber: 1,
+      position: 1,
+      externalId: "3YKqgzI9qKZDpzUoptGANJ",
+      externalLink: "https://open.spotify.com/track/3YKqgzI9qKZDpzUoptGANJ",
+    },
+  ],
 } as const satisfies Track

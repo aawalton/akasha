@@ -25,4 +25,13 @@ export const sylviaDaleyContortionistContortionist = {
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "contortionist|03dXd2zBbBJvX60Oap8Lgo|122769",
   song: "song/sylvia-daley-contortionist",
+  carriedBy: [
+    {
+      release: "release/sylvia-daley-contortionist",
+      discNumber: 1,
+      position: 1,
+      externalId: "3o6bfCuJobW53Bm0BuycAh",
+      externalLink: "https://open.spotify.com/track/3o6bfCuJobW53Bm0BuycAh",
+    },
+  ],
 } as const satisfies Track

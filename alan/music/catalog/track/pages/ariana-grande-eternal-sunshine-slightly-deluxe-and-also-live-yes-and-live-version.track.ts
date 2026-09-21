@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveYesAndLiveVersi
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "yesandliveversion|66CXWjxzNUsdJxJ2JdwvnR|199448",
   song: "song/ariana-grande-yes-and",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 22,
+      externalId: "5sRczgK1xkskY6HICpEKHa",
+      externalLink: "https://open.spotify.com/track/5sRczgK1xkskY6HICpEKHa",
+    },
+  ],
 } as const satisfies Track

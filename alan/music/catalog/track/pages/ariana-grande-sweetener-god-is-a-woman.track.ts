@@ -25,4 +25,13 @@ export const arianaGrandeSweetenerGodIsAWoman = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "godisawoman|66CXWjxzNUsdJxJ2JdwvnR|197546",
   song: "song/ariana-grande-god-is-a-woman",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-sweetener",
+      discNumber: 1,
+      position: 5,
+      externalId: "5OCJzvD7sykQEKHH7qAC3C",
+      externalLink: "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C",
+    },
+  ],
 } as const satisfies Track

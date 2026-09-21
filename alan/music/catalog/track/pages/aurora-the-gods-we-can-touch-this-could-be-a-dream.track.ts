@@ -25,4 +25,13 @@ export const auroraTheGodsWeCanTouchThisCouldBeADream = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "thiscouldbeadream|1WgXqy2Dd70QQOU7Ay074N|248733",
   song: "song/aurora-this-could-be-a-dream",
+  carriedBy: [
+    {
+      release: "release/aurora-the-gods-we-can-touch",
+      discNumber: 1,
+      position: 14,
+      externalId: "00mbTg6YY97wy8DLQzOkNZ",
+      externalLink: "https://open.spotify.com/track/00mbTg6YY97wy8DLQzOkNZ",
+    },
+  ],
 } as const satisfies Track

@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMyLaganLov
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "mylaganlove|6NWtt9pNOL2Gx7kBykdE5x|170360",
   song: "song/celtic-woman-my-lagan-love",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 14,
+      externalId: "7EA2OnLvsAW0eVQetMhwU0",
+      externalLink: "https://open.spotify.com/track/7EA2OnLvsAW0eVQetMhwU0",
+    },
+  ],
 } as const satisfies Track

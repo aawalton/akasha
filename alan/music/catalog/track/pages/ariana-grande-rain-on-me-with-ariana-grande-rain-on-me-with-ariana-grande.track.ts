@@ -28,4 +28,13 @@ export const arianaGrandeRainOnMeWithArianaGrandeRainOnMeWithArianaGrande = {
   ],
   trackKey: "rainonmewitharianagrande|1HY2Jd0NmPuamShAr6KMms,66CXWjxzNUsdJxJ2JdwvnR|182200",
   song: "song/ariana-grande-rain-on-me",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-rain-on-me-with-ariana-grande",
+      discNumber: 1,
+      position: 1,
+      externalId: "24ySl2hOPGCDcxBxFIqWBu",
+      externalLink: "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu",
+    },
+  ],
 } as const satisfies Track

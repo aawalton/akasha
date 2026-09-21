@@ -25,4 +25,13 @@ export const celticWoman2VoicesOfAngelsAcrossTheWorld = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "acrosstheworld|6NWtt9pNOL2Gx7kBykdE5x|215373",
   song: "song/celtic-woman-across-the-world",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-voices-of-angels",
+      discNumber: 1,
+      position: 12,
+      externalId: "3MB57zlaE9q7rUvyew2Dcc",
+      externalLink: "https://open.spotify.com/track/3MB57zlaE9q7rUvyew2Dcc",
+    },
+  ],
 } as const satisfies Track

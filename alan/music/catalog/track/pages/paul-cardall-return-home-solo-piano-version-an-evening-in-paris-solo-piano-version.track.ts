@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionAnEveningInParisSoloPianoVersi
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "aneveninginparissolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|305029",
   song: "song/paul-cardall-an-evening-in-paris",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 4,
+      externalId: "51JI0PwpbncKDQG6ZOTwwl",
+      externalLink: "https://open.spotify.com/track/51JI0PwpbncKDQG6ZOTwwl",
+    },
+  ],
 } as const satisfies Track

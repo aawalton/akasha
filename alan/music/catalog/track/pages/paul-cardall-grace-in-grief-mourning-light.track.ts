@@ -25,4 +25,13 @@ export const paulCardallGraceInGriefMourningLight = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "mourninglight|7FQRbf8gbKw8KZQZAJWxH2|231000",
   song: "song/paul-cardall-mourning-light",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-grace-in-grief",
+      discNumber: 1,
+      position: 6,
+      externalId: "072NDoeUR97KLlyuMY0z0S",
+      externalLink: "https://open.spotify.com/track/072NDoeUR97KLlyuMY0z0S",
+    },
+  ],
 } as const satisfies Track

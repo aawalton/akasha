@@ -25,4 +25,13 @@ export const thePianoGuysClassicalForStudyingWhatWasIMadeForPianoLullabyVersion 
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "whatwasimadeforpianolullabyversion|0jW6R8CVyVohuUJVcuweDI|238634",
   song: "song/billie-eilish-what-was-i-made-for",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-classical-for-studying",
+      discNumber: 1,
+      position: 6,
+      externalId: "7cnczRdL6Nj5fb5OpBRc1T",
+      externalLink: "https://open.spotify.com/track/7cnczRdL6Nj5fb5OpBRc1T",
+    },
+  ],
 } as const satisfies Track

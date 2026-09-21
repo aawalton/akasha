@@ -25,4 +25,13 @@ export const alexandriaKnightOfSwordsKnightOfSwords = {
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "knightofswords|0SQG4wPVUlfbmbGQfqB47y|159157",
   song: "song/alexandria-knight-of-swords",
+  carriedBy: [
+    {
+      release: "release/alexandria-knight-of-swords",
+      discNumber: 1,
+      position: 1,
+      externalId: "4zb9HntzQrJZzljjGSLCM2",
+      externalLink: "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2",
+    },
+  ],
 } as const satisfies Track

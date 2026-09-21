@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsImagineDr
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "demonsimaginedragonsremix|53XhwfbYqKCa1cC15pYq2q|196533",
   song: "song/imagine-dragons-demons",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 7,
+      externalId: "3oZ404aSb0PoRFTKCYrAHf",
+      externalLink: "https://open.spotify.com/track/3oZ404aSb0PoRFTKCYrAHf",
+    },
+  ],
 } as const satisfies Track

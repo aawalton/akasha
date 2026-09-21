@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2OurSaviorsLove = 
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "oursaviorslove|2YQ4MY2VwOMv43C0GemUY5|223136",
   song: "song/the-piano-guys-our-saviors-love",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 5,
+      externalId: "37sn9XyJDUdCRs5fEBBwFh",
+      externalLink: "https://open.spotify.com/track/37sn9XyJDUdCRs5fEBBwFh",
+    },
+  ],
 } as const satisfies Track

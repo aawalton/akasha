@@ -25,4 +25,13 @@ export const thePianoGuys3TheFirstNoelTheFirstNoel = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thefirstnoel|0jW6R8CVyVohuUJVcuweDI|169000",
   song: "song/the-piano-guys-the-first-noel",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-first-noel",
+      discNumber: 1,
+      position: 1,
+      externalId: "7EbQF0Tt5n7xgn62gJjGbi",
+      externalLink: "https://open.spotify.com/track/7EbQF0Tt5n7xgn62gJjGbi",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysIsraelIsraelGodIsCalling = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "israelisraelgodiscalling|7FQRbf8gbKw8KZQZAJWxH2|252173",
   song: "song/paul-cardall-israel-israel-god-is-calling",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 1,
+      externalId: "1Dk0vALECQKicMkhjoTqdT",
+      externalLink: "https://open.spotify.com/track/1Dk0vALECQKicMkhjoTqdT",
+    },
+  ],
 } as const satisfies Track

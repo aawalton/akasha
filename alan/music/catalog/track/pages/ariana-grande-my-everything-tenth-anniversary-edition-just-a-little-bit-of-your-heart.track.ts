@@ -25,4 +25,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionJustALittleBitOfYour
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "justalittlebitofyourheart|66CXWjxzNUsdJxJ2JdwvnR|232681",
   song: "song/ariana-grande-just-a-little-bit-of-your-heart",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 10,
+      externalId: "1Navul75J8qZT3o2ocljkG",
+      externalLink: "https://open.spotify.com/track/1Navul75J8qZT3o2ocljkG",
+    },
+  ],
 } as const satisfies Track

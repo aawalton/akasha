@@ -28,4 +28,13 @@ export const thePianoGuys3ClassicalLoveRomanceYouAreTheReason = {
   ],
   trackKey: "youarethereason|0jW6R8CVyVohuUJVcuweDI,5vvlfKQdn6amTImsjy9Si5|235230",
   song: "song/the-piano-guys-you-are-the-reason",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-classical-love-romance",
+      discNumber: 1,
+      position: 8,
+      externalId: "3VWrExAhooCiHKcvGeKnZy",
+      externalLink: "https://open.spotify.com/track/3VWrExAhooCiHKcvGeKnZy",
+    },
+  ],
 } as const satisfies Track

@@ -31,4 +31,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackEveryDayMoreWicked = {
   trackKey:
     "everydaymorewicked|3eLZo1bSslvsu0zNhtmMM4,46UMQ0cW8ToR8egkBRwAxZ,5IaJcuBeBkVqhGAzxMciwu,66CXWjxzNUsdJxJ2JdwvnR|288766",
   song: "song/ariana-grande-every-day-more-wicked",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack",
+      discNumber: 1,
+      position: 1,
+      externalId: "6RO76UK0g0r1BJqpk3VwXJ",
+      externalLink: "https://open.spotify.com/track/6RO76UK0g0r1BJqpk3VwXJ",
+    },
+  ],
 } as const satisfies Track

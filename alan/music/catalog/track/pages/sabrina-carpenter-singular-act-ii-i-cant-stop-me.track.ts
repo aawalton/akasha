@@ -28,4 +28,13 @@ export const sabrinaCarpenterSingularActIiICantStopMe = {
   ],
   trackKey: "icantstopme|6cK3NBO6uP7hh0oyuVELFl,74KM79TiuVKeVCqs8QtB0B|222101",
   song: "song/sabrina-carpenter-i-cant-stop-me",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-ii",
+      discNumber: 1,
+      position: 3,
+      externalId: "1AVVv4FgNLxQlV64j7dfP1",
+      externalLink: "https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1",
+    },
+  ],
 } as const satisfies Track

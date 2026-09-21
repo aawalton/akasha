@@ -25,4 +25,13 @@ export const imagineDragonsItSTimeEpLookHowFarWeveCome = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "lookhowfarwevecome|53XhwfbYqKCa1cC15pYq2q|247973",
   song: "song/imagine-dragons-look-how-far-we-ve-come",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-it-s-time-ep",
+      discNumber: 1,
+      position: 7,
+      externalId: "0uB4bNmZDCSY6ieUdJyDPq",
+      externalLink: "https://open.spotify.com/track/0uB4bNmZDCSY6ieUdJyDPq",
+    },
+  ],
 } as const satisfies Track

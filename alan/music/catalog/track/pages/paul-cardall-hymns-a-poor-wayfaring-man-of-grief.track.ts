@@ -25,4 +25,13 @@ export const paulCardallHymnsAPoorWayfaringManOfGrief = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "apoorwayfaringmanofgrief|7FQRbf8gbKw8KZQZAJWxH2|179240",
   song: "song/paul-cardall-a-poor-wayfaring-man-of-grief",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-hymns",
+      discNumber: 1,
+      position: 10,
+      externalId: "2Vq7TPmzLII0tzSzC5vohu",
+      externalLink: "https://open.spotify.com/track/2Vq7TPmzLII0tzSzC5vohu",
+    },
+  ],
 } as const satisfies Track

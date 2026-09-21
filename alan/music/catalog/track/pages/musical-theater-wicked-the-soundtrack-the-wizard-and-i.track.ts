@@ -28,4 +28,13 @@ export const musicalTheaterWickedTheSoundtrackTheWizardAndI = {
   ],
   trackKey: "thewizardandi|46UMQ0cW8ToR8egkBRwAxZ,5IaJcuBeBkVqhGAzxMciwu|336858",
   song: "song/cynthia-erivo-the-wizard-and-i",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 3,
+      externalId: "4mxj6SQ7BxfQ90CBTbxcwH",
+      externalLink: "https://open.spotify.com/track/4mxj6SQ7BxfQ90CBTbxcwH",
+    },
+  ],
 } as const satisfies Track

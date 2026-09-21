@@ -25,4 +25,13 @@ export const sylviaDaleySecureSecure = {
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "secure|03dXd2zBbBJvX60Oap8Lgo|186477",
   song: "song/sylvia-daley-secure",
+  carriedBy: [
+    {
+      release: "release/sylvia-daley-secure",
+      discNumber: 1,
+      position: 1,
+      externalId: "66RIcMxYr824yGrWTFdwEo",
+      externalLink: "https://open.spotify.com/track/66RIcMxYr824yGrWTFdwEo",
+    },
+  ],
 } as const satisfies Track

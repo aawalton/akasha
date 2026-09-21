@@ -25,4 +25,13 @@ export const thePianoGuysPianoFocusWhenYoureGone = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "whenyouregone|0jW6R8CVyVohuUJVcuweDI|180000",
   song: "song/the-piano-guys-when-youre-gone",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 6,
+      externalId: "56XGOjaT2JGsf8JOEz76XU",
+      externalLink: "https://open.spotify.com/track/56XGOjaT2JGsf8JOEz76XU",
+    },
+  ],
 } as const satisfies Track

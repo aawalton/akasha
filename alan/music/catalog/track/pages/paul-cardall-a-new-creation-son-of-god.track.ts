@@ -28,4 +28,13 @@ export const paulCardallANewCreationSonOfGod = {
   ],
   trackKey: "sonofgod|77dRSdJKCKDOen5hjPYO0D,7FQRbf8gbKw8KZQZAJWxH2|243186",
   song: "song/paul-cardall-son-of-god",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-new-creation",
+      discNumber: 1,
+      position: 5,
+      externalId: "5oo5GpimvkCxTYDrwIPTH9",
+      externalLink: "https://open.spotify.com/track/5oo5GpimvkCxTYDrwIPTH9",
+    },
+  ],
 } as const satisfies Track

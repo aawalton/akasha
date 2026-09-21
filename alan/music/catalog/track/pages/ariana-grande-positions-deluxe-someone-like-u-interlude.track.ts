@@ -25,4 +25,13 @@ export const arianaGrandePositionsDeluxeSomeoneLikeUInterlude = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "someonelikeuinterlude|66CXWjxzNUsdJxJ2JdwvnR|76742",
   song: "song/ariana-grande-someone-like-u-interlude",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions-deluxe",
+      discNumber: 1,
+      position: 15,
+      externalId: "3Os1431WclqyKxWqMzRESE",
+      externalLink: "https://open.spotify.com/track/3Os1431WclqyKxWqMzRESE",
+    },
+  ],
 } as const satisfies Track

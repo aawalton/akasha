@@ -25,4 +25,13 @@ export const imagineDragonsOriginsDeluxeZeroFromTheOriginalMotionPictureRalphBre
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "zerofromtheoriginalmotionpictureralphbreakstheinternet|53XhwfbYqKCa1cC15pYq2q|210933",
   song: "song/imagine-dragons-zero-from-the-original-motion-picture-ralph-breaks-the-internet",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-origins-deluxe",
+      discNumber: 1,
+      position: 7,
+      externalId: "2bzitsPcImYC6DZWvvLCQi",
+      externalLink: "https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi",
+    },
+  ],
 } as const satisfies Track

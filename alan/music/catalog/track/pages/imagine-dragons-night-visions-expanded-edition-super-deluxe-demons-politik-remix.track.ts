@@ -28,4 +28,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsPolitikRe
   ],
   trackKey: "demonspolitikremix|1eHQF7PdDPMui44jY2npaU,53XhwfbYqKCa1cC15pYq2q|263520",
   song: "song/imagine-dragons-demons",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 9,
+      externalId: "4FkGL9u1m7ZLTuscWTbTbo",
+      externalLink: "https://open.spotify.com/track/4FkGL9u1m7ZLTuscWTbTbo",
+    },
+  ],
 } as const satisfies Track

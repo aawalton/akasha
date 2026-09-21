@@ -25,4 +25,13 @@ export const thePianoGuys3ChristmasTogetherGloriaHarkTheHeraldAngelsSing = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "gloriaharktheheraldangelssing|0jW6R8CVyVohuUJVcuweDI|233875",
   song: "song/the-piano-guys-gloria-hark-the-herald-angels-sing",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-christmas-together",
+      discNumber: 1,
+      position: 6,
+      externalId: "1nsQQvRuYSDQHmVDfXPqjx",
+      externalLink: "https://open.spotify.com/track/1nsQQvRuYSDQHmVDfXPqjx",
+    },
+  ],
 } as const satisfies Track

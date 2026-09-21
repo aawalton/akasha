@@ -25,4 +25,13 @@ export const paulCardallChasingCrownsWindsOfChange = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "windsofchange|7FQRbf8gbKw8KZQZAJWxH2|216250",
   song: "song/paul-cardall-winds-of-change",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chasing-crowns",
+      discNumber: 1,
+      position: 8,
+      externalId: "78QcjBxEiLVY3FqcY82Exp",
+      externalLink: "https://open.spotify.com/track/78QcjBxEiLVY3FqcY82Exp",
+    },
+  ],
 } as const satisfies Track

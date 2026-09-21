@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreForeverYoungS
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "foreveryoungsmokeandmirrorslive|53XhwfbYqKCa1cC15pYq2q|503333",
   song: "song/imagine-dragons-forever-young-smoke-and-mirrors",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
+      discNumber: 1,
+      position: 5,
+      externalId: "7gVK8oQQ2eagRxxIq9GrX1",
+      externalLink: "https://open.spotify.com/track/7gVK8oQQ2eagRxxIq9GrX1",
+    },
+  ],
 } as const satisfies Track

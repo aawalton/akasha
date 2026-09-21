@@ -30,4 +30,13 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemixSoGoodFeatTyDollaIgnGo
   trackKey:
     "sogoodfeattydollaigngoldhouseremix|1Xylc3o4UrD53lo9CvFvVg,670UISOh9XV1zlq5z5IfoY,7c0XG5cIJTrrAgEC3ULPiq|205795",
   song: "song/zara-larsson-so-good",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good-feat-ty-dolla-ign-goldhouse-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "6a5lVwA7y5s0IJ1jNrROGC",
+      externalLink: "https://open.spotify.com/track/6a5lVwA7y5s0IJ1jNrROGC",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3WondersBecauseOfYou = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "becauseofyou|0jW6R8CVyVohuUJVcuweDI|242853",
   song: "song/the-piano-guys-because-of-you",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wonders",
+      discNumber: 1,
+      position: 11,
+      externalId: "7KDCIv5nMgL5f5u6xbUVZq",
+      externalLink: "https://open.spotify.com/track/7KDCIv5nMgL5f5u6xbUVZq",
+    },
+  ],
 } as const satisfies Track

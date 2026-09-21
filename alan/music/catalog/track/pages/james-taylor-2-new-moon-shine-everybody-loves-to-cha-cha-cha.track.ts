@@ -25,4 +25,13 @@ export const jamesTaylor2NewMoonShineEverybodyLovesToChaChaCha = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "everybodylovestochachacha|0vn7UBvSQECKJm2817Yf1P|216733",
   song: "song/james-taylor-everybody-loves-to-cha-cha-cha",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-new-moon-shine",
+      discNumber: 1,
+      position: 9,
+      externalId: "7LEbRfOPOuGpZXlH53di52",
+      externalLink: "https://open.spotify.com/track/7LEbRfOPOuGpZXlH53di52",
+    },
+  ],
 } as const satisfies Track

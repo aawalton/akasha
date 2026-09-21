@@ -25,4 +25,13 @@ export const sabrinaCarpenterManSBestFriendDontWorryIllMakeYouWorry = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "dontworryillmakeyouworry|74KM79TiuVKeVCqs8QtB0B|222320",
   song: "song/sabrina-carpenter-dont-worry-ill-make-you-worry",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-man-s-best-friend",
+      discNumber: 1,
+      position: 10,
+      externalId: "21IVPfi81m6ywNgOvqTj1i",
+      externalLink: "https://open.spotify.com/track/21IVPfi81m6ywNgOvqTj1i",
+    },
+  ],
 } as const satisfies Track

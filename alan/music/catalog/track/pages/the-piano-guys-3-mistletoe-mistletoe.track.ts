@@ -25,4 +25,13 @@ export const thePianoGuys3MistletoeMistletoe = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "mistletoe|0jW6R8CVyVohuUJVcuweDI|286881",
   song: "song/the-piano-guys-mistletoe",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-mistletoe",
+      discNumber: 1,
+      position: 1,
+      externalId: "6NevrElzbORLw5rn3Je0eQ",
+      externalLink: "https://open.spotify.com/track/6NevrElzbORLw5rn3Je0eQ",
+    },
+  ],
 } as const satisfies Track

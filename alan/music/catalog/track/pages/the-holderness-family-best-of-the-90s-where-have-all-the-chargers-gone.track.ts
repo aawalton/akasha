@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sWhereHaveAllTheChargersGone = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "wherehaveallthechargersgone|6tITG4T8LpC0msapZ4wXGA|120476",
   song: "song/the-holderness-family-where-have-all-the-chargers-gone",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 1,
+      externalId: "4MaRLnVaGtPbgAajmKtIMO",
+      externalLink: "https://open.spotify.com/track/4MaRLnVaGtPbgAajmKtIMO",
+    },
+  ],
 } as const satisfies Track

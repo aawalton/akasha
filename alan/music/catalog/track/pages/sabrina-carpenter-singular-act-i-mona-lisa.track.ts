@@ -25,4 +25,13 @@ export const sabrinaCarpenterSingularActIMonaLisa = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "monalisa|74KM79TiuVKeVCqs8QtB0B|138453",
   song: "song/sabrina-carpenter-mona-lisa",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-i",
+      discNumber: 1,
+      position: 7,
+      externalId: "7Gq4tfeuWPjr6WQiB7aBXz",
+      externalLink: "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz",
+    },
+  ],
 } as const satisfies Track

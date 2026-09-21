@@ -25,4 +25,13 @@ export const thePianoGuys3WeddingSeasonThankGodIDoBeStillMySoul = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thankgodidobestillmysoul|0jW6R8CVyVohuUJVcuweDI|247180",
   song: "song/the-piano-guys-thank-god-i-do-be-still-my-soul",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 9,
+      externalId: "0FtyyOUezoRTJnIUtGaRzT",
+      externalLink: "https://open.spotify.com/track/0FtyyOUezoRTJnIUtGaRzT",
+    },
+  ],
 } as const satisfies Track

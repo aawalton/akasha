@@ -25,4 +25,13 @@ export const imagineDragonsMercuryActs12FerrisWheel = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ferriswheel|53XhwfbYqKCa1cC15pYq2q|203875",
   song: "song/imagine-dragons-ferris-wheel",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-mercury-acts-1-2",
+      discNumber: 2,
+      position: 11,
+      externalId: "1qaWM3wK6aZZALpAPVdZ6D",
+      externalLink: "https://open.spotify.com/track/1qaWM3wK6aZZALpAPVdZ6D",
+    },
+  ],
 } as const satisfies Track

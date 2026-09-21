@@ -25,4 +25,13 @@ export const theHoldernessFamilyHotDadSummerHotDadSummer = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "hotdadsummer|6tITG4T8LpC0msapZ4wXGA|174210",
   song: "song/the-holderness-family-hot-dad-summer",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-hot-dad-summer",
+      discNumber: 1,
+      position: 1,
+      externalId: "0NCJnJ3Io64jF10uXasrw9",
+      externalLink: "https://open.spotify.com/track/0NCJnJ3Io64jF10uXasrw9",
+    },
+  ],
 } as const satisfies Track

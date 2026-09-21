@@ -25,4 +25,13 @@ export const celticWoman2HomecomingLiveFromIrelandTheKeshInnLive2017 = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thekeshinnlive2017|6NWtt9pNOL2Gx7kBykdE5x|183680",
   song: "song/celtic-woman-the-kesh-inn",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-homecoming-live-from-ireland",
+      discNumber: 1,
+      position: 14,
+      externalId: "6Iohp4BGpNoL2aebCuSLii",
+      externalLink: "https://open.spotify.com/track/6Iohp4BGpNoL2aebCuSLii",
+    },
+  ],
 } as const satisfies Track

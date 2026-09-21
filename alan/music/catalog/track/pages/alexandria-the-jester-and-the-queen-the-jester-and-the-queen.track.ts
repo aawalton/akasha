@@ -25,4 +25,13 @@ export const alexandriaTheJesterAndTheQueenTheJesterAndTheQueen = {
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "thejesterandthequeen|0SQG4wPVUlfbmbGQfqB47y|168867",
   song: "song/alexandria-the-jester-and-the-queen",
+  carriedBy: [
+    {
+      release: "release/alexandria-the-jester-and-the-queen",
+      discNumber: 1,
+      position: 1,
+      externalId: "3G3CnxD8B5esKcEML6faW8",
+      externalLink: "https://open.spotify.com/track/3G3CnxD8B5esKcEML6faW8",
+    },
+  ],
 } as const satisfies Track

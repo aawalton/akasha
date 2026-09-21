@@ -25,4 +25,13 @@ export const billieEilishGuitarSongsTv = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "tv|6qqNVTkY8uBg9cP3Jd7DAH|281380",
   song: "song/billie-eilish-tv",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-guitar-songs",
+      discNumber: 1,
+      position: 1,
+      externalId: "3GYlZ7tbxLOxe6ewMNVTkw",
+      externalLink: "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw",
+    },
+  ],
 } as const satisfies Track

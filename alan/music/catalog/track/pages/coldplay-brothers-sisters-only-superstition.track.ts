@@ -25,4 +25,13 @@ export const coldplayBrothersSistersOnlySuperstition = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "onlysuperstition|4gzpq5DPGxSnKTe4SA8HAU|228666",
   song: "song/coldplay-only-superstition",
+  carriedBy: [
+    {
+      release: "release/coldplay-brothers-sisters",
+      discNumber: 1,
+      position: 3,
+      externalId: "4eJNA83TrqZ3S6LSyK8rSf",
+      externalLink: "https://open.spotify.com/track/4eJNA83TrqZ3S6LSyK8rSf",
+    },
+  ],
 } as const satisfies Track

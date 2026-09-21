@@ -25,4 +25,13 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMixAlmostLoveStargateWar
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "almostlovestargatewarehousemix|74KM79TiuVKeVCqs8QtB0B|200341",
   song: "song/sabrina-carpenter-almost-love",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-almost-love-stargate-warehouse-mix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5SQPsKDOYDtAt64IZYPcXu",
+      externalLink: "https://open.spotify.com/track/5SQPsKDOYDtAt64IZYPcXu",
+    },
+  ],
 } as const satisfies Track

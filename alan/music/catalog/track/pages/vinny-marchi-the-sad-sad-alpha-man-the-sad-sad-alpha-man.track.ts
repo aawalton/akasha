@@ -25,4 +25,13 @@ export const vinnyMarchiTheSadSadAlphaManTheSadSadAlphaMan = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thesadsadalphaman|5USAMqcbMAzF3HBmeD5pJF|132877",
   song: "song/vinny-marchi-the-sad-sad-alpha-man",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-the-sad-sad-alpha-man",
+      discNumber: 1,
+      position: 1,
+      externalId: "0SW7UyvrGTN2neA8F8ZzeW",
+      externalLink: "https://open.spotify.com/track/0SW7UyvrGTN2neA8F8ZzeW",
+    },
+  ],
 } as const satisfies Track

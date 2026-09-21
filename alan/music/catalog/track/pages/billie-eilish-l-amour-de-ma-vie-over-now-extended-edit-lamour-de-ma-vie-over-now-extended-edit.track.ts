@@ -25,4 +25,13 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEditLamourDeMaVieOverNowExt
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "lamourdemavieovernowextendededit|6qqNVTkY8uBg9cP3Jd7DAH|271969",
   song: "song/billie-eilish-l-amour-de-ma-vie",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-l-amour-de-ma-vie-over-now-extended-edit",
+      discNumber: 1,
+      position: 1,
+      externalId: "2Y6U158gVXfvqNWOLdis0R",
+      externalLink: "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R",
+    },
+  ],
 } as const satisfies Track

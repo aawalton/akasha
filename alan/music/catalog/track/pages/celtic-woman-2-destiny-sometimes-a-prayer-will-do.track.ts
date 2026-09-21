@@ -25,4 +25,13 @@ export const celticWoman2DestinySometimesAPrayerWillDo = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "sometimesaprayerwilldo|6NWtt9pNOL2Gx7kBykdE5x|280455",
   song: "song/celtic-woman-sometimes-a-prayer-will-do",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-destiny",
+      discNumber: 1,
+      position: 10,
+      externalId: "1C3cHftfOvHgpPehwkzIq3",
+      externalLink: "https://open.spotify.com/track/1C3cHftfOvHgpPehwkzIq3",
+    },
+  ],
 } as const satisfies Track

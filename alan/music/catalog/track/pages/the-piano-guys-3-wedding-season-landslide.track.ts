@@ -25,4 +25,13 @@ export const thePianoGuys3WeddingSeasonLandslide = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "landslide|0jW6R8CVyVohuUJVcuweDI|135974",
   song: "song/the-piano-guys-landslide",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 2,
+      externalId: "0P9KEqFuLQZVdGPNf5NRm6",
+      externalLink: "https://open.spotify.com/track/0P9KEqFuLQZVdGPNf5NRm6",
+    },
+  ],
 } as const satisfies Track

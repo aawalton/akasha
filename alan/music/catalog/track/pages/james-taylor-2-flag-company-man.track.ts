@@ -25,4 +25,13 @@ export const jamesTaylor2FlagCompanyMan = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "companyman|0vn7UBvSQECKJm2817Yf1P|224973",
   song: "song/james-taylor-company-man",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-flag",
+      discNumber: 1,
+      position: 1,
+      externalId: "7EaGgLksAtCzApLfPxJjtS",
+      externalLink: "https://open.spotify.com/track/7EaGgLksAtCzApLfPxJjtS",
+    },
+  ],
 } as const satisfies Track

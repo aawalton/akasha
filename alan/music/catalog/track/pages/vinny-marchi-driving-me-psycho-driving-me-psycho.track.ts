@@ -25,4 +25,13 @@ export const vinnyMarchiDrivingMePsychoDrivingMePsycho = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "drivingmepsycho|5USAMqcbMAzF3HBmeD5pJF|208361",
   song: "song/vinny-marchi-driving-me-psycho",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-driving-me-psycho",
+      discNumber: 1,
+      position: 1,
+      externalId: "2jwxG2fGcgTRirSDOXTEqO",
+      externalLink: "https://open.spotify.com/track/2jwxG2fGcgTRirSDOXTEqO",
+    },
+  ],
 } as const satisfies Track

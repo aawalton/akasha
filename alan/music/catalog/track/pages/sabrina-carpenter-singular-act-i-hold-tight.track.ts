@@ -28,4 +28,13 @@ export const sabrinaCarpenterSingularActIHoldTight = {
   ],
   trackKey: "holdtight|5PsYkefUonoeM9VCnpf5zd,74KM79TiuVKeVCqs8QtB0B|175160",
   song: "song/sabrina-carpenter-hold-tight",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-i",
+      discNumber: 1,
+      position: 3,
+      externalId: "72DnQlaqdNhz9QJZXfYe6L",
+      externalLink: "https://open.spotify.com/track/72DnQlaqdNhz9QJZXfYe6L",
+    },
+  ],
 } as const satisfies Track

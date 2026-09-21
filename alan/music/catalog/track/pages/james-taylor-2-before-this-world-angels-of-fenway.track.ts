@@ -25,4 +25,13 @@ export const jamesTaylor2BeforeThisWorldAngelsOfFenway = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "angelsoffenway|0vn7UBvSQECKJm2817Yf1P|198093",
   song: "song/james-taylor-angels-of-fenway",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-before-this-world",
+      discNumber: 1,
+      position: 3,
+      externalId: "44qKSCnfLOYTP0op4uQ530",
+      externalLink: "https://open.spotify.com/track/44qKSCnfLOYTP0op4uQ530",
+    },
+  ],
 } as const satisfies Track

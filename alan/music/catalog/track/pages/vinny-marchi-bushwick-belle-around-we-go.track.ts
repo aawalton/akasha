@@ -25,4 +25,13 @@ export const vinnyMarchiBushwickBelleAroundWeGo = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "aroundwego|5USAMqcbMAzF3HBmeD5pJF|173423",
   song: "song/vinny-marchi-around-we-go",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-bushwick-belle",
+      discNumber: 1,
+      position: 7,
+      externalId: "2WPlD94fcn593aogYP0vLm",
+      externalLink: "https://open.spotify.com/track/2WPlD94fcn593aogYP0vLm",
+    },
+  ],
 } as const satisfies Track

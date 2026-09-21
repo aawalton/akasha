@@ -25,4 +25,13 @@ export const coldplayGhostStoriesLive2014OceansLiveAtEWerkCologne = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "oceansliveatewerkcologne|4gzpq5DPGxSnKTe4SA8HAU|268786",
   song: "song/coldplay-oceans-live-at-e-werk-cologne",
+  carriedBy: [
+    {
+      release: "release/coldplay-ghost-stories-live-2014",
+      discNumber: 1,
+      position: 7,
+      externalId: "2OKnY0cqro0qsOijOondrr",
+      externalLink: "https://open.spotify.com/track/2OKnY0cqro0qsOijOondrr",
+    },
+  ],
 } as const satisfies Track

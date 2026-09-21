@@ -25,4 +25,13 @@ export const sabrinaCarpenterSkinnyDippingAcousticSkinnyDippingAcoustic = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "skinnydippingacoustic|74KM79TiuVKeVCqs8QtB0B|192887",
   song: "song/sabrina-carpenter-skinny-dipping",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-skinny-dipping-acoustic",
+      discNumber: 1,
+      position: 1,
+      externalId: "1KnwbBxKijjT8EmAryC71R",
+      externalLink: "https://open.spotify.com/track/1KnwbBxKijjT8EmAryC71R",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardPenniesFromHeaven = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "penniesfromheaven|0vn7UBvSQECKJm2817Yf1P|172240",
   song: "song/james-taylor-pennies-from-heaven",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 10,
+      externalId: "2n7ObUjqWJ1k8GVhpHSbxM",
+      externalLink: "https://open.spotify.com/track/2n7ObUjqWJ1k8GVhpHSbxM",
+    },
+  ],
 } as const satisfies Track

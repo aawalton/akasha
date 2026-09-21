@@ -25,4 +25,13 @@ export const paulCardallTheChristmasBoxTheWidowsMansion = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thewidowsmansion|7FQRbf8gbKw8KZQZAJWxH2|207506",
   song: "song/paul-cardall-the-widows-mansion",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-christmas-box",
+      discNumber: 1,
+      position: 4,
+      externalId: "2bGjRctbOVEeOBgYiHlQNi",
+      externalLink: "https://open.spotify.com/track/2bGjRctbOVEeOBgYiHlQNi",
+    },
+  ],
 } as const satisfies Track

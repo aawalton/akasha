@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreOnTopOfTheWor
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ontopoftheworldlive|53XhwfbYqKCa1cC15pYq2q|291893",
   song: "song/imagine-dragons-on-top-of-the-world",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
+      discNumber: 1,
+      position: 13,
+      externalId: "26VQ9wqGAVUU7EuZp2wVRU",
+      externalLink: "https://open.spotify.com/track/26VQ9wqGAVUU7EuZp2wVRU",
+    },
+  ],
 } as const satisfies Track

@@ -29,4 +29,13 @@ export const zaraLarssonLikeItIsLikeItIs = {
   ],
   trackKey: "likeitis|1Xylc3o4UrD53lo9CvFvVg,23fqKkggKUBHNkbKtXEls4,5LHRHt1k9lMyONurDHEdrp|183067",
   song: "song/zara-larsson-like-it-is",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-like-it-is",
+      discNumber: 1,
+      position: 1,
+      externalId: "3frUvGrmGcay91lvFbOgsN",
+      externalLink: "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN",
+    },
+  ],
 } as const satisfies Track

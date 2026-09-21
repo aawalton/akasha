@@ -25,4 +25,13 @@ export const arianaGrandePositionsNasty = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "nasty|66CXWjxzNUsdJxJ2JdwvnR|200732",
   song: "song/ariana-grande-nasty",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 9,
+      externalId: "0sci7ppTZFm4mjcH3nu8yO",
+      externalLink: "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO",
+    },
+  ],
 } as const satisfies Track

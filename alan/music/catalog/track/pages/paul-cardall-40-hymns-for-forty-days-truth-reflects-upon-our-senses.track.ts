@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysTruthReflectsUponOurSenses = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "truthreflectsuponoursenses|7FQRbf8gbKw8KZQZAJWxH2|88000",
   song: "song/paul-cardall-truth-reflects-upon-our-senses",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 37,
+      externalId: "7KQBKhsZfLR6bBg7rMlEBD",
+      externalLink: "https://open.spotify.com/track/7KQBKhsZfLR6bBg7rMlEBD",
+    },
+  ],
 } as const satisfies Track

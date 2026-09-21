@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeTiptoeLiveFromR
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "tiptoelivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|334853",
   song: "song/imagine-dragons-tiptoe",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 3,
+      position: 6,
+      externalId: "2enMkSSbfRpTJgXmPL5kUP",
+      externalLink: "https://open.spotify.com/track/2enMkSSbfRpTJgXmPL5kUP",
+    },
+  ],
 } as const satisfies Track

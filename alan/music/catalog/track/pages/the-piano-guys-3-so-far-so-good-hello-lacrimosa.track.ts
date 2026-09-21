@@ -25,4 +25,13 @@ export const thePianoGuys3SoFarSoGoodHelloLacrimosa = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "hellolacrimosa|0jW6R8CVyVohuUJVcuweDI|231619",
   song: "song/the-piano-guys-hello-lacrimosa",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-so-far-so-good",
+      discNumber: 1,
+      position: 10,
+      externalId: "4MPDpYXCgo66NCbUbdch88",
+      externalLink: "https://open.spotify.com/track/4MPDpYXCgo66NCbUbdch88",
+    },
+  ],
 } as const satisfies Track

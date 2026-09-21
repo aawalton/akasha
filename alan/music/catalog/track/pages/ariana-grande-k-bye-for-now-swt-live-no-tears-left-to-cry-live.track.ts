@@ -25,4 +25,13 @@ export const arianaGrandeKByeForNowSwtLiveNoTearsLeftToCryLive = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "notearslefttocrylive|66CXWjxzNUsdJxJ2JdwvnR|233416",
   song: "song/ariana-grande-no-tears-left-to-cry",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-k-bye-for-now-swt-live",
+      discNumber: 1,
+      position: 31,
+      externalId: "32VSdGCv8wkAjUkVha9YBf",
+      externalLink: "https://open.spotify.com/track/32VSdGCv8wkAjUkVha9YBf",
+    },
+  ],
 } as const satisfies Track

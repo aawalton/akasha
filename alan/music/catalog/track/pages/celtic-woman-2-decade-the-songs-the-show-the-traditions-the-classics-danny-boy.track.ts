@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsDannyBoy =
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "dannyboy|6NWtt9pNOL2Gx7kBykdE5x|206120",
   song: "song/celtic-woman-danny-boy",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 5,
+      externalId: "3q7S29Eu7AnJF9B1K8PhjP",
+      externalLink: "https://open.spotify.com/track/3q7S29Eu7AnJF9B1K8PhjP",
+    },
+  ],
 } as const satisfies Track

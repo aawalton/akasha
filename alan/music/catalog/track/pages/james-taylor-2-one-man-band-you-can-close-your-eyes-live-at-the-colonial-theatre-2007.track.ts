@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandYouCanCloseYourEyesLiveAtTheColonialTheatre20
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youcancloseyoureyesliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|188613",
   song: "song/james-taylor-you-can-close-your-eyes",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 19,
+      externalId: "3JNr523fPaLjJpi4QkmWjr",
+      externalLink: "https://open.spotify.com/track/3JNr523fPaLjJpi4QkmWjr",
+    },
+  ],
 } as const satisfies Track

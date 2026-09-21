@@ -25,4 +25,13 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheSkyAndTheDawnAn
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theskyandthedawnandthesun|6NWtt9pNOL2Gx7kBykdE5x|319146",
   song: "song/celtic-woman-the-sky-and-the-dawn-and-the-sun",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-greatest-journey-essential-collection",
+      discNumber: 1,
+      position: 14,
+      externalId: "6i6ZXAJwrZU3Xq2xRO8bll",
+      externalLink: "https://open.spotify.com/track/6i6ZXAJwrZU3Xq2xRO8bll",
+    },
+  ],
 } as const satisfies Track

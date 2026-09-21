@@ -25,4 +25,13 @@ export const auroraToBeLovedAutumnAutumn = {
   trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
   trackKey: "autumnautumn|3NABmtfO8G8s96WFGhbR7F|293304",
   song: "song/aurora-autumn-autumn",
+  carriedBy: [
+    {
+      release: "release/aurora-to-be-loved",
+      discNumber: 1,
+      position: 2,
+      externalId: "5toCpRrSrRH4eMcy9xAcIn",
+      externalLink: "https://open.spotify.com/track/5toCpRrSrRH4eMcy9xAcIn",
+    },
+  ],
 } as const satisfies Track

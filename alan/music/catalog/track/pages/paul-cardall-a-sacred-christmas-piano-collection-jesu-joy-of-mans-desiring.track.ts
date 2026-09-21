@@ -25,4 +25,13 @@ export const paulCardallASacredChristmasPianoCollectionJesuJoyOfMansDesiring = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesujoyofmansdesiring|7FQRbf8gbKw8KZQZAJWxH2|281547",
   song: "song/paul-cardall-jesu-joy-of-mans-desiring",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-sacred-christmas-piano-collection",
+      discNumber: 1,
+      position: 5,
+      externalId: "4GQvQzBu4FkQV90SxNDAVv",
+      externalLink: "https://open.spotify.com/track/4GQvQzBu4FkQV90SxNDAVv",
+    },
+  ],
 } as const satisfies Track

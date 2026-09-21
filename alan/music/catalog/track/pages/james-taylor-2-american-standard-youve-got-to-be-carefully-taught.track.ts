@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardYouveGotToBeCarefullyTaught = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youvegottobecarefullytaught|0vn7UBvSQECKJm2817Yf1P|146346",
   song: "song/james-taylor-youve-got-to-be-carefully-taught",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 8,
+      externalId: "0voioalGy7GVkuzCrdZpsT",
+      externalLink: "https://open.spotify.com/track/0voioalGy7GVkuzCrdZpsT",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiHaveYourselfAMerryLittleChristmasHaveYourselfAMerryLittl
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "haveyourselfamerrylittlechristmas|5USAMqcbMAzF3HBmeD5pJF|162069",
   song: "song/vinny-marchi-have-yourself-a-merry-little-christmas",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-have-yourself-a-merry-little-christmas",
+      discNumber: 1,
+      position: 1,
+      externalId: "4J0yz27YNvbYnVsVk4xA5d",
+      externalLink: "https://open.spotify.com/track/4J0yz27YNvbYnVsVk4xA5d",
+    },
+  ],
 } as const satisfies Track

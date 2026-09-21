@@ -25,4 +25,13 @@ export const paulCardallTheBrokenMiracleABeautifulMind = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "abeautifulmind|7FQRbf8gbKw8KZQZAJWxH2|68146",
   song: "song/paul-cardall-a-beautiful-mind",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 7,
+      externalId: "3cZX04frpYwTKh0YSZxdcF",
+      externalLink: "https://open.spotify.com/track/3cZX04frpYwTKh0YSZxdcF",
+    },
+  ],
 } as const satisfies Track

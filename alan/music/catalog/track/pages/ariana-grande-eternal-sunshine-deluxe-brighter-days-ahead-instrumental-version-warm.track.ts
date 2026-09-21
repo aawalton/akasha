@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "warm|66CXWjxzNUsdJxJ2JdwvnR|201905",
   song: "song/ariana-grande-warm",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+      discNumber: 1,
+      position: 16,
+      externalId: "3DUX8Y8wkKET3BU0MzykkO",
+      externalLink: "https://open.spotify.com/track/3DUX8Y8wkKET3BU0MzykkO",
+    },
+  ],
 } as const satisfies Track

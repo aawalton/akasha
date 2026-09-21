@@ -25,4 +25,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackThankGoodnessLi
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thankgoodnesslivefromthedolbytheatre|66CXWjxzNUsdJxJ2JdwvnR|240800",
   song: "song/ariana-grande-thank-goodness",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+      discNumber: 1,
+      position: 7,
+      externalId: "4ZjwFYORhwx5sL3lZAHaMs",
+      externalLink: "https://open.spotify.com/track/4ZjwFYORhwx5sL3lZAHaMs",
+    },
+  ],
 } as const satisfies Track

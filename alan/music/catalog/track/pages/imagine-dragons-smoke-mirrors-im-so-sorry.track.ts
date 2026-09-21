@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsImSoSorry = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "imsosorry|53XhwfbYqKCa1cC15pYq2q|230200",
   song: "song/imagine-dragons-i-m-so-sorry",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors",
+      discNumber: 1,
+      position: 4,
+      externalId: "4o74y4XY1ypNZkZtZkK8Wi",
+      externalLink: "https://open.spotify.com/track/4o74y4XY1ypNZkZtZkK8Wi",
+    },
+  ],
 } as const satisfies Track

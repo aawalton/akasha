@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2022MidwestVsSouthRapBattle = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "midwestvssouthrapbattle|6tITG4T8LpC0msapZ4wXGA|192023",
   song: "song/the-holderness-family-midwest-vs-south-rap-battle",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2022",
+      discNumber: 1,
+      position: 10,
+      externalId: "7BBqaaVmoJA6Lt4IsZtLgf",
+      externalLink: "https://open.spotify.com/track/7BBqaaVmoJA6Lt4IsZtLgf",
+    },
+  ],
 } as const satisfies Track

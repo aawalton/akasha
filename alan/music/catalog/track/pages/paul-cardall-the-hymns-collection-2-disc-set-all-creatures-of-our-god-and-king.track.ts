@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetAllCreaturesOfOurGodAndKing = 
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "allcreaturesofourgodandking|7FQRbf8gbKw8KZQZAJWxH2|188160",
   song: "song/paul-cardall-all-creatures-of-our-god-and-king",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 24,
+      externalId: "5ZyfRu4Ji0DcanU5q4lDYr",
+      externalLink: "https://open.spotify.com/track/5ZyfRu4Ji0DcanU5q4lDYr",
+    },
+  ],
 } as const satisfies Track

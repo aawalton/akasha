@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyTattooedHeart = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "tattooedheart|66CXWjxzNUsdJxJ2JdwvnR|194706",
   song: "song/ariana-grande-tattooed-heart",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 4,
+      externalId: "5yxghrFKJbU7pcaUFEv1Sg",
+      externalLink: "https://open.spotify.com/track/5yxghrFKJbU7pcaUFEv1Sg",
+    },
+  ],
 } as const satisfies Track

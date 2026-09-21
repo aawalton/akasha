@@ -28,4 +28,13 @@ export const celticWoman2LullabyBabyMine = {
   ],
   trackKey: "babymine|34sL9HIOU50t8u0IQMZeze,6NWtt9pNOL2Gx7kBykdE5x|190226",
   song: "song/celtic-woman-baby-mine",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-lullaby",
+      discNumber: 1,
+      position: 3,
+      externalId: "5xzgVOaAbIP7Q1891QkK3u",
+      externalLink: "https://open.spotify.com/track/5xzgVOaAbIP7Q1891QkK3u",
+    },
+  ],
 } as const satisfies Track

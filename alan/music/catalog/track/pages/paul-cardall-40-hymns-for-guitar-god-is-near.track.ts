@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarGodIsNear = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godisnear|7FQRbf8gbKw8KZQZAJWxH2|140629",
   song: "song/paul-cardall-god-is-near",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 30,
+      externalId: "35bfa5hCk0EPOX6NWFSZzP",
+      externalLink: "https://open.spotify.com/track/35bfa5hCk0EPOX6NWFSZzP",
+    },
+  ],
 } as const satisfies Track

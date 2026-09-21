@@ -25,4 +25,13 @@ export const auroraTheRiverAskjellRemixTheRiver = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theriver|1WgXqy2Dd70QQOU7Ay074N|217853",
   song: "song/aurora-the-river",
+  carriedBy: [
+    {
+      release: "release/aurora-the-river-askjell-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "5UTa5NNuq3kyPz8BoTBJpt",
+      externalLink: "https://open.spotify.com/track/5UTa5NNuq3kyPz8BoTBJpt",
+    },
+  ],
 } as const satisfies Track

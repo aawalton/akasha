@@ -28,4 +28,13 @@ export const sabrinaCarpenterSkinQuarterheadRemixSkinQuarterheadRemix = {
   ],
   trackKey: "skinquarterheadremix|2h6hAChW74hB9HvrNoK1RY,74KM79TiuVKeVCqs8QtB0B|187000",
   song: "song/sabrina-carpenter-skin",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-skin-quarterhead-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "3DNziCcqRd2v8uQWwec1GW",
+      externalLink: "https://open.spotify.com/track/3DNziCcqRd2v8uQWwec1GW",
+    },
+  ],
 } as const satisfies Track

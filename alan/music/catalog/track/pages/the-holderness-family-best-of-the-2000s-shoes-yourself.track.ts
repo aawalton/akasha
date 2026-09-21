@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe2000sShoesYourself = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "shoesyourself|6tITG4T8LpC0msapZ4wXGA|97128",
   song: "song/the-holderness-family-shoes-yourself",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-2000s",
+      discNumber: 1,
+      position: 8,
+      externalId: "0tlRrL2aG3ktFrKMbBe9oq",
+      externalLink: "https://open.spotify.com/track/0tlRrL2aG3ktFrKMbBe9oq",
+    },
+  ],
 } as const satisfies Track

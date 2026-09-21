@@ -25,4 +25,13 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackThisIsIntolerable =
   trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
   trackKey: "thisisintolerable|5kjb55jtwPnbYXXDvP4x7R|217840",
   song: "song/aurora-this-is-intolerable",
+  carriedBy: [
+    {
+      release: "release/aurora-wolfwalkers-original-motion-picture-soundtrack",
+      discNumber: 1,
+      position: 10,
+      externalId: "1j5nX7cT3rglENz5Jpvw0x",
+      externalLink: "https://open.spotify.com/track/1j5nX7cT3rglENz5Jpvw0x",
+    },
+  ],
 } as const satisfies Track

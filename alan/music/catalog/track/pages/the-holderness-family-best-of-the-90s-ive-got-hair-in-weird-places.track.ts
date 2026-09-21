@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sIveGotHairInWeirdPlaces = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "ivegothairinweirdplaces|6tITG4T8LpC0msapZ4wXGA|151928",
   song: "song/the-holderness-family-ive-got-hair-in-weird-places",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 3,
+      externalId: "3dZbLovMBxH232fKcapHQg",
+      externalLink: "https://open.spotify.com/track/3dZbLovMBxH232fKcapHQg",
+    },
+  ],
 } as const satisfies Track

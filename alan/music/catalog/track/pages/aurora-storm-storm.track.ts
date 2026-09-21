@@ -28,4 +28,13 @@ export const auroraStormStorm = {
   ],
   trackKey: "storm|1WgXqy2Dd70QQOU7Ay074N,5a5vu4RzsAHdKN0aYyblZ8|227688",
   song: "song/aurora-storm",
+  carriedBy: [
+    {
+      release: "release/aurora-storm",
+      discNumber: 1,
+      position: 1,
+      externalId: "7AsYl5LgI6yHEGNnXZYQO4",
+      externalLink: "https://open.spotify.com/track/7AsYl5LgI6yHEGNnXZYQO4",
+    },
+  ],
 } as const satisfies Track

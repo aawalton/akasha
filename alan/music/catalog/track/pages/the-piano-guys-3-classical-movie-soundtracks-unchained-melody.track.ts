@@ -25,4 +25,13 @@ export const thePianoGuys3ClassicalMovieSoundtracksUnchainedMelody = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "unchainedmelody|0jW6R8CVyVohuUJVcuweDI|181092",
   song: "song/the-piano-guys-unchained-melody",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-classical-movie-soundtracks",
+      discNumber: 1,
+      position: 8,
+      externalId: "5ksdc8zfcYpd4nAX0j1NfR",
+      externalLink: "https://open.spotify.com/track/5ksdc8zfcYpd4nAX0j1NfR",
+    },
+  ],
 } as const satisfies Track

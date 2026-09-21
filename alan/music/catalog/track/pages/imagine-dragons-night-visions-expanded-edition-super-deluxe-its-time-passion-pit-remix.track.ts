@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimePassionP
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimepassionpitremix|53XhwfbYqKCa1cC15pYq2q|271373",
   song: "song/imagine-dragons-it-s-time",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 2,
+      externalId: "4cgYFocBQtEuf5fN0ODjTP",
+      externalLink: "https://open.spotify.com/track/4cgYFocBQtEuf5fN0ODjTP",
+    },
+  ],
 } as const satisfies Track

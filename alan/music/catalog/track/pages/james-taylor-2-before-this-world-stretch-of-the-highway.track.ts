@@ -25,4 +25,13 @@ export const jamesTaylor2BeforeThisWorldStretchOfTheHighway = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "stretchofthehighway|0vn7UBvSQECKJm2817Yf1P|332226",
   song: "song/james-taylor-stretch-of-the-highway",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-before-this-world",
+      discNumber: 1,
+      position: 4,
+      externalId: "08KqE9veXI1H9kQgVVEXDx",
+      externalLink: "https://open.spotify.com/track/08KqE9veXI1H9kQgVVEXDx",
+    },
+  ],
 } as const satisfies Track

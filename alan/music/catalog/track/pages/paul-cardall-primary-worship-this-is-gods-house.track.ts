@@ -25,4 +25,13 @@ export const paulCardallPrimaryWorshipThisIsGodsHouse = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thisisgodshouse|7FQRbf8gbKw8KZQZAJWxH2|181040",
   song: "song/paul-cardall-this-is-gods-house",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-primary-worship",
+      discNumber: 1,
+      position: 7,
+      externalId: "7swicSuzbwMJWxwEOtIIZ6",
+      externalLink: "https://open.spotify.com/track/7swicSuzbwMJWxwEOtIIZ6",
+    },
+  ],
 } as const satisfies Track

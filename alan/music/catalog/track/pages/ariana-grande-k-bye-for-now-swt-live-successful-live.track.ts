@@ -25,4 +25,13 @@ export const arianaGrandeKByeForNowSwtLiveSuccessfulLive = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "successfullive|66CXWjxzNUsdJxJ2JdwvnR|125631",
   song: "song/ariana-grande-successful",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-k-bye-for-now-swt-live",
+      discNumber: 1,
+      position: 8,
+      externalId: "7bfnkOya2SV8LLTsYmRQJR",
+      externalLink: "https://open.spotify.com/track/7bfnkOya2SV8LLTsYmRQJR",
+    },
+  ],
 } as const satisfies Track

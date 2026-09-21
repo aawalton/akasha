@@ -25,4 +25,13 @@ export const arianaGrandePetalStay = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "stay|66CXWjxzNUsdJxJ2JdwvnR|148420",
   song: "song/ariana-grande-stay",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-petal",
+      discNumber: 1,
+      position: 4,
+      externalId: "0QltPqkR4dnhbINyBOU5SY",
+      externalLink: "https://open.spotify.com/track/0QltPqkR4dnhbINyBOU5SY",
+    },
+  ],
 } as const satisfies Track

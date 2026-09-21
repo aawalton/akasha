@@ -29,4 +29,13 @@ export const celticWoman2NollaigAChristmasJourneyTheBellsOfDublinChristmasEveNav
   trackKey:
     "thebellsofdublinchristmasevenavaninthesnowmedley|6NWtt9pNOL2Gx7kBykdE5x,7fUaaesLcfVUXc7Ar89ZMf|217947",
   song: "song/celtic-woman-the-bells-of-dublin-christmas-eve-navan-in-the-snow-medley",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-nollaig-a-christmas-journey",
+      discNumber: 1,
+      position: 12,
+      externalId: "64oqpQUk5FPIsP4OFF4cGa",
+      externalLink: "https://open.spotify.com/track/64oqpQUk5FPIsP4OFF4cGa",
+    },
+  ],
 } as const satisfies Track

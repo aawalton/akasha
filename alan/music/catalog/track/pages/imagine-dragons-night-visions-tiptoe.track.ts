@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsTiptoe = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "tiptoe|53XhwfbYqKCa1cC15pYq2q|193000",
   song: "song/imagine-dragons-tiptoe",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions",
+      discNumber: 1,
+      position: 2,
+      externalId: "3dw0A0cbqT6Oy2V8KfGwIT",
+      externalLink: "https://open.spotify.com/track/3dw0A0cbqT6Oy2V8KfGwIT",
+    },
+  ],
 } as const satisfies Track

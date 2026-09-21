@@ -25,4 +25,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheBastardInTheKitchen = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thebastardinthekitchen|5USAMqcbMAzF3HBmeD5pJF|113423",
   song: "song/vinny-marchi-the-bastard-in-the-kitchen",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 5,
+      externalId: "144U5cAZUYgDELPZWQ5ql1",
+      externalLink: "https://open.spotify.com/track/144U5cAZUYgDELPZWQ5ql1",
+    },
+  ],
 } as const satisfies Track

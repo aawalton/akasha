@@ -25,4 +25,13 @@ export const paulCardallSacredPianoReverentlyQuietly = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "reverentlyquietly|7FQRbf8gbKw8KZQZAJWxH2|189213",
   song: "song/paul-cardall-reverently-quietly",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-sacred-piano",
+      discNumber: 1,
+      position: 15,
+      externalId: "2lphskZNhDQLdfid5Le2Gm",
+      externalLink: "https://open.spotify.com/track/2lphskZNhDQLdfid5Le2Gm",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackHowlsTheWolfMollsSo
   trackArtist: [{ externalId: "6YtMPqKR0zhZ5OPv3RrJNx", artistName: "Kíla" }],
   trackKey: "howlsthewolfmollssongwolfrunfree|6YtMPqKR0zhZ5OPv3RrJNx|117000",
   song: "song/aurora-howls-the-wolf-molls-song-wolf-run-free",
+  carriedBy: [
+    {
+      release: "release/aurora-wolfwalkers-original-motion-picture-soundtrack",
+      discNumber: 1,
+      position: 7,
+      externalId: "20QeXpfRB5GWK46PlXr1In",
+      externalLink: "https://open.spotify.com/track/20QeXpfRB5GWK46PlXr1In",
+    },
+  ],
 } as const satisfies Track

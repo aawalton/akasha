@@ -25,4 +25,13 @@ export const celticWoman2SoloYoullBeInMyHeart = {
   trackArtist: [{ externalId: "0BPyH0yYOcGiI6MzXi8lRZ", artistName: "Alex" }],
   trackKey: "youllbeinmyheart|0BPyH0yYOcGiI6MzXi8lRZ|239505",
   song: "song/celtic-woman-youll-be-in-my-heart",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-solo",
+      discNumber: 1,
+      position: 9,
+      externalId: "2OGJRbX3ZrO5w5gpUUEJ2Y",
+      externalLink: "https://open.spotify.com/track/2OGJRbX3ZrO5w5gpUUEJ2Y",
+    },
+  ],
 } as const satisfies Track

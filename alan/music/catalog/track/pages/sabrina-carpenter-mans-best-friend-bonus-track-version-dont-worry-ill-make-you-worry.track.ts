@@ -25,4 +25,13 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionDontWorryIllMakeYouW
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "dontworryillmakeyouworry|74KM79TiuVKeVCqs8QtB0B|222320",
   song: "song/sabrina-carpenter-dont-worry-ill-make-you-worry",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+      discNumber: 1,
+      position: 10,
+      externalId: "0pIHXFbB6V8DIzRRDR64IJ",
+      externalLink: "https://open.spotify.com/track/0pIHXFbB6V8DIzRRDR64IJ",
+    },
+  ],
 } as const satisfies Track

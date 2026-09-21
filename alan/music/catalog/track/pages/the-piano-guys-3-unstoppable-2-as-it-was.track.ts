@@ -25,4 +25,13 @@ export const thePianoGuys3Unstoppable2AsItWas = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "asitwas|0jW6R8CVyVohuUJVcuweDI|161724",
   song: "song/the-piano-guys-as-it-was",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-unstoppable-2",
+      discNumber: 1,
+      position: 2,
+      externalId: "0dZR2mNYHcX0qJNl2bVgYH",
+      externalLink: "https://open.spotify.com/track/0dZR2mNYHcX0qJNl2bVgYH",
+    },
+  ],
 } as const satisfies Track

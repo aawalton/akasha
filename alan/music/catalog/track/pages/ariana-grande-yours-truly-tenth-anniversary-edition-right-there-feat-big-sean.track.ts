@@ -28,4 +28,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereFeatBigSean 
   ],
   trackKey: "righttherefeatbigsean|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|247081",
   song: "song/ariana-grande-right-there",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 3,
+      externalId: "5aKqhRdBmC5Qp2c3oek9ft",
+      externalLink: "https://open.spotify.com/track/5aKqhRdBmC5Qp2c3oek9ft",
+    },
+  ],
 } as const satisfies Track

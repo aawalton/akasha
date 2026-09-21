@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionLjubjlanaSoloPianoVersion = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ljubjlanasolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|233812",
   song: "song/paul-cardall-ljubjlana",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 11,
+      externalId: "2Eri4gLzpPpRALlY6ALVeQ",
+      externalLink: "https://open.spotify.com/track/2Eri4gLzpPpRALlY6ALVeQ",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const auroraATemporaryHighKitoRemixATemporaryHighKitoRemix = {
   ],
   trackKey: "atemporaryhighkitoremix|1WgXqy2Dd70QQOU7Ay074N,3FLUBwpAnaIlIKeaBfsxFe|186920",
   song: "song/aurora-a-temporary-high",
+  carriedBy: [
+    {
+      release: "release/aurora-a-temporary-high-kito-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "58542V08lKKhMHfkdU2Ugo",
+      externalLink: "https://open.spotify.com/track/58542V08lKKhMHfkdU2Ugo",
+    },
+  ],
 } as const satisfies Track

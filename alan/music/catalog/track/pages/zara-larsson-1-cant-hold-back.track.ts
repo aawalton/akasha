@@ -25,4 +25,13 @@ export const zaraLarsson1CantHoldBack = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "cantholdback|1Xylc3o4UrD53lo9CvFvVg|220819",
   song: "song/zara-larsson-can-t-hold-back",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-1",
+      discNumber: 1,
+      position: 6,
+      externalId: "6XtuvafYJpfFyKi0ijqggr",
+      externalLink: "https://open.spotify.com/track/6XtuvafYJpfFyKi0ijqggr",
+    },
+  ],
 } as const satisfies Track

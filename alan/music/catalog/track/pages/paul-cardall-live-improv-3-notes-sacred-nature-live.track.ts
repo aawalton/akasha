@@ -25,4 +25,13 @@ export const paulCardallLiveImprov3NotesSacredNatureLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "improv3notessacrednaturelive|7FQRbf8gbKw8KZQZAJWxH2|149133",
   song: "song/paul-cardall-improv-3-notes-sacred-nature",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-live",
+      discNumber: 1,
+      position: 8,
+      externalId: "2lGApXgZscSryj2mFzi3Ny",
+      externalLink: "https://open.spotify.com/track/2lGApXgZscSryj2mFzi3Ny",
+    },
+  ],
 } as const satisfies Track

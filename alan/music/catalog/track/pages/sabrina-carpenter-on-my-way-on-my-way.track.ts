@@ -29,4 +29,13 @@ export const sabrinaCarpenterOnMyWayOnMyWay = {
   ],
   trackKey: "onmyway|329e4yvIujISKGKz1BZZbO,74KM79TiuVKeVCqs8QtB0B,7vk5e3vY1uw9plTHJAMwjN|193797",
   song: "song/sabrina-carpenter-on-my-way",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-on-my-way",
+      discNumber: 1,
+      position: 1,
+      externalId: "4n7jnSxVLd8QioibtTDBDq",
+      externalLink: "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq",
+    },
+  ],
 } as const satisfies Track

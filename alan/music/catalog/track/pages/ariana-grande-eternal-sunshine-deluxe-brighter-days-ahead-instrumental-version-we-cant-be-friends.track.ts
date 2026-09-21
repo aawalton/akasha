@@ -28,4 +28,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "wecantbefriendswaitforyourlove|66CXWjxzNUsdJxJ2JdwvnR|228639",
     song: "song/ariana-grande-we-can-t-be-friends-wait-for-your-love",
+    carriedBy: [
+      {
+        release:
+          "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+        discNumber: 1,
+        position: 10,
+        externalId: "0eJby3xIvMhXJaAfZKhffc",
+        externalLink: "https://open.spotify.com/track/0eJby3xIvMhXJaAfZKhffc",
+      },
+    ],
   } as const satisfies Track

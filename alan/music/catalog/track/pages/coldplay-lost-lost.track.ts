@@ -25,4 +25,13 @@ export const coldplayLostLost = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "lost|4gzpq5DPGxSnKTe4SA8HAU|235053",
   song: "song/coldplay-lost",
+  carriedBy: [
+    {
+      release: "release/coldplay-lost",
+      discNumber: 1,
+      position: 1,
+      externalId: "55Qm6iVvo1OMeoXc8elnmj",
+      externalLink: "https://open.spotify.com/track/55Qm6iVvo1OMeoXc8elnmj",
+    },
+  ],
 } as const satisfies Track

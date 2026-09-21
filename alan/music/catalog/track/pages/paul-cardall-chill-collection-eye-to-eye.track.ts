@@ -25,4 +25,13 @@ export const paulCardallChillCollectionEyeToEye = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "eyetoeye|7FQRbf8gbKw8KZQZAJWxH2|269139",
   song: "song/paul-cardall-eye-to-eye",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chill-collection",
+      discNumber: 1,
+      position: 9,
+      externalId: "454DD5AAy0B5RemhQybJEJ",
+      externalLink: "https://open.spotify.com/track/454DD5AAy0B5RemhQybJEJ",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeBubbleNightVisi
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "bubblenightvisionsdemo|53XhwfbYqKCa1cC15pYq2q|202698",
   song: "song/imagine-dragons-bubble",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 2,
+      position: 13,
+      externalId: "4n1NdHdorunkuC2nQJX6ld",
+      externalLink: "https://open.spotify.com/track/4n1NdHdorunkuC2nQJX6ld",
+    },
+  ],
 } as const satisfies Track

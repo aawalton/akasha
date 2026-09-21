@@ -25,4 +25,13 @@ export const auroraADifferentKindOfHumanStepIiAppleTree = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "appletree|1WgXqy2Dd70QQOU7Ay074N|188102",
   song: "song/aurora-apple-tree",
+  carriedBy: [
+    {
+      release: "release/aurora-a-different-kind-of-human-step-ii",
+      discNumber: 1,
+      position: 9,
+      externalId: "11GFNnNtxUr6jkgY08D9WT",
+      externalLink: "https://open.spotify.com/track/11GFNnNtxUr6jkgY08D9WT",
+    },
+  ],
 } as const satisfies Track

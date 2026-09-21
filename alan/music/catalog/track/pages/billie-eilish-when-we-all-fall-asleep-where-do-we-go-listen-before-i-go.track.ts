@@ -25,4 +25,13 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoListenBeforeIGo = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "listenbeforeigo|6qqNVTkY8uBg9cP3Jd7DAH|242652",
   song: "song/billie-eilish-listen-before-i-go",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-when-we-all-fall-asleep-where-do-we-go",
+      discNumber: 1,
+      position: 12,
+      externalId: "0tMSssfxAL2oV8Vri0mFHE",
+      externalLink: "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuysClassicalForStudyingLoveMeLikeIAm = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "lovemelikeiam|0jW6R8CVyVohuUJVcuweDI|274166",
   song: "song/the-piano-guys-love-me-like-i-am",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-classical-for-studying",
+      discNumber: 1,
+      position: 16,
+      externalId: "6VdYc4CO8q9deMtf1SOjjW",
+      externalLink: "https://open.spotify.com/track/6VdYc4CO8q9deMtf1SOjjW",
+    },
+  ],
 } as const satisfies Track

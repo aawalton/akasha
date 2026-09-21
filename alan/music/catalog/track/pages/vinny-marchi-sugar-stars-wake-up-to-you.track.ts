@@ -25,4 +25,13 @@ export const vinnyMarchiSugarStarsWakeUpToYou = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "wakeuptoyou|5USAMqcbMAzF3HBmeD5pJF|118666",
   song: "song/vinny-marchi-wake-up-to-you",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-sugar-stars",
+      discNumber: 1,
+      position: 6,
+      externalId: "5niBirkmu67BDhhezZwX6Q",
+      externalLink: "https://open.spotify.com/track/5niBirkmu67BDhhezZwX6Q",
+    },
+  ],
 } as const satisfies Track

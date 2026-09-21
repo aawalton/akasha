@@ -28,4 +28,13 @@ export const arianaGrandeYesAndJonasBlueRemixYesAndJonasBlueRemix = {
   ],
   trackKey: "yesandjonasblueremix|1HBjj22wzbscIZ9sEb5dyf,66CXWjxzNUsdJxJ2JdwvnR|212903",
   song: "song/ariana-grande-yes-and",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yes-and-jonas-blue-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "3oVfohX6LdBkD568rzE8Y7",
+      externalLink: "https://open.spotify.com/track/3oVfohX6LdBkD568rzE8Y7",
+    },
+  ],
 } as const satisfies Track

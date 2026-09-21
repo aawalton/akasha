@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveNewHymn = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "newhymn|0vn7UBvSQECKJm2817Yf1P|180826",
   song: "song/james-taylor-new-hymn",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 15,
+      externalId: "4mspGeMQumiTR3u46ySXRf",
+      externalLink: "https://open.spotify.com/track/4mspGeMQumiTR3u46ySXRf",
+    },
+  ],
 } as const satisfies Track

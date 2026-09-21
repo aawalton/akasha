@@ -25,4 +25,13 @@ export const auroraWhatHappenedToTheHeartInvisibleWounds = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "invisiblewounds|1WgXqy2Dd70QQOU7Ay074N|299306",
   song: "song/aurora-invisible-wounds",
+  carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart",
+      discNumber: 1,
+      position: 16,
+      externalId: "6dk6rhO9mEwR0Je8pNvYI7",
+      externalLink: "https://open.spotify.com/track/6dk6rhO9mEwR0Je8pNvYI7",
+    },
+  ],
 } as const satisfies Track

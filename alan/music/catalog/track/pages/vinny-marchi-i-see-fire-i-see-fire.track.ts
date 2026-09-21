@@ -28,4 +28,13 @@ export const vinnyMarchiISeeFireISeeFire = {
   ],
   trackKey: "iseefire|0ZM2ioGGBOZ3NPTSUbuimj,5USAMqcbMAzF3HBmeD5pJF|233453",
   song: "song/vinny-marchi-i-see-fire",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-i-see-fire",
+      discNumber: 1,
+      position: 1,
+      externalId: "2eqMCwauppMk6KPj66Mv8l",
+      externalLink: "https://open.spotify.com/track/2eqMCwauppMk6KPj66Mv8l",
+    },
+  ],
 } as const satisfies Track

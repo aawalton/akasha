@@ -25,4 +25,13 @@ export const paulCardallNewLifeJourneyWithin = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "journeywithin|7FQRbf8gbKw8KZQZAJWxH2|230706",
   song: "song/paul-cardall-journey-within",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-new-life",
+      discNumber: 1,
+      position: 6,
+      externalId: "4AUxtPG7iQogzKibwivfe8",
+      externalLink: "https://open.spotify.com/track/4AUxtPG7iQogzKibwivfe8",
+    },
+  ],
 } as const satisfies Track

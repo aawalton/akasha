@@ -25,4 +25,13 @@ export const celticWoman2SoloToWhereYouAre = {
   trackArtist: [{ externalId: "71POUphzXd95FKPipXjtE0", artistName: "Chloe" }],
   trackKey: "towhereyouare|71POUphzXd95FKPipXjtE0|233848",
   song: "song/celtic-woman-to-where-you-are",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-solo",
+      discNumber: 1,
+      position: 1,
+      externalId: "5RbXE7mq9xKfDD9RttPFro",
+      externalLink: "https://open.spotify.com/track/5RbXE7mq9xKfDD9RttPFro",
+    },
+  ],
 } as const satisfies Track

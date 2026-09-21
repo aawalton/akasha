@@ -28,4 +28,13 @@ export const arianaGrandeHotelRockBottomHotelRockBottomFeatArianaGrande = {
   ],
   trackKey: "hotelrockbottomfeatarianagrande|31hoObE1mECmBt2P64uqLK,66CXWjxzNUsdJxJ2JdwvnR|195705",
   song: "song/ariana-grande-hotel-rock-bottom",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-hotel-rock-bottom",
+      discNumber: 1,
+      position: 1,
+      externalId: "4qkPVF5w9mnpVKEb3izXjI",
+      externalLink: "https://open.spotify.com/track/4qkPVF5w9mnpVKEb3izXjI",
+    },
+  ],
 } as const satisfies Track

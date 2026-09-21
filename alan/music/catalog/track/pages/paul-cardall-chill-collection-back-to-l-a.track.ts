@@ -25,4 +25,13 @@ export const paulCardallChillCollectionBackToLA = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "backtola|7FQRbf8gbKw8KZQZAJWxH2|124160",
   song: "song/paul-cardall-back-to-l-a",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chill-collection",
+      discNumber: 1,
+      position: 16,
+      externalId: "6TzJRZIMdLXP6ZevAJLnKT",
+      externalLink: "https://open.spotify.com/track/6TzJRZIMdLXP6ZevAJLnKT",
+    },
+  ],
 } as const satisfies Track

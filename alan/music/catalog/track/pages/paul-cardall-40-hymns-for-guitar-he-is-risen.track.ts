@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarHeIsRisen = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "heisrisen|7FQRbf8gbKw8KZQZAJWxH2|110592",
   song: "song/paul-cardall-he-is-risen",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 39,
+      externalId: "4kx86Rr5p8lEBlh8RtRSac",
+      externalLink: "https://open.spotify.com/track/4kx86Rr5p8lEBlh8RtRSac",
+    },
+  ],
 } as const satisfies Track

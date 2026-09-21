@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsDeluxeRoundAndRound = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "roundandround|53XhwfbYqKCa1cC15pYq2q|196933",
   song: "song/imagine-dragons-round-and-round",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-deluxe",
+      discNumber: 1,
+      position: 13,
+      externalId: "6pLhhL7EzoVWoyvyTBjqP6",
+      externalLink: "https://open.spotify.com/track/6pLhhL7EzoVWoyvyTBjqP6",
+    },
+  ],
 } as const satisfies Track

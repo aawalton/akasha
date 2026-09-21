@@ -25,4 +25,13 @@ export const paulCardallAncestorsTheGathering = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thegathering|7FQRbf8gbKw8KZQZAJWxH2|204840",
   song: "song/paul-cardall-the-gathering",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ancestors",
+      discNumber: 1,
+      position: 2,
+      externalId: "4DQoiSDwYMZZF2uKNAAF9E",
+      externalLink: "https://open.spotify.com/track/4DQoiSDwYMZZF2uKNAAF9E",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const paulCardallAllISeeIsSnowAllISeeIsSnow = {
   ],
   trackKey: "alliseeissnow|0Bvs8yPjrQSbmVIRqSg1Sp,7FQRbf8gbKw8KZQZAJWxH2|274286",
   song: "song/paul-cardall-all-i-see-is-snow",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-all-i-see-is-snow",
+      discNumber: 1,
+      position: 1,
+      externalId: "0hLYsEm1A4F6bwimy8Zb3n",
+      externalLink: "https://open.spotify.com/track/0hLYsEm1A4F6bwimy8Zb3n",
+    },
+  ],
 } as const satisfies Track

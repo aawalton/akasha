@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeLiveLond
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimelivelondonsessions2013|53XhwfbYqKCa1cC15pYq2q|249880",
   song: "song/imagine-dragons-it-s-time",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 3,
+      position: 12,
+      externalId: "52HVk5Cw67IQ3OJaOCMsit",
+      externalLink: "https://open.spotify.com/track/52HVk5Cw67IQ3OJaOCMsit",
+    },
+  ],
 } as const satisfies Track

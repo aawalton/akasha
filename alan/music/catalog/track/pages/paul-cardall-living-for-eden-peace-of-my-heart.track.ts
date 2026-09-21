@@ -25,4 +25,13 @@ export const paulCardallLivingForEdenPeaceOfMyHeart = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "peaceofmyheart|7FQRbf8gbKw8KZQZAJWxH2|237626",
   song: "song/paul-cardall-peace-of-my-heart",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-living-for-eden",
+      discNumber: 1,
+      position: 2,
+      externalId: "1lF2ZATmKEQyad1QQMnlcD",
+      externalLink: "https://open.spotify.com/track/1lF2ZATmKEQyad1QQMnlcD",
+    },
+  ],
 } as const satisfies Track

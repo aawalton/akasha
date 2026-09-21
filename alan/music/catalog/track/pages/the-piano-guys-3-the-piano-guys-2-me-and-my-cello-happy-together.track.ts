@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuys2MeAndMyCelloHappyTogether = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "meandmycellohappytogether|0jW6R8CVyVohuUJVcuweDI|186125",
   song: "song/the-piano-guys-me-and-my-cello-happy-together",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys-2",
+      discNumber: 1,
+      position: 10,
+      externalId: "6amWzecM9lo2uYpVOQCkEZ",
+      externalLink: "https://open.spotify.com/track/6amWzecM9lo2uYpVOQCkEZ",
+    },
+  ],
 } as const satisfies Track

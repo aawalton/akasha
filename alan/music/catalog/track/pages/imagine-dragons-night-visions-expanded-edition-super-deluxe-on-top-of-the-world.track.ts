@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorld
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ontopoftheworld|53XhwfbYqKCa1cC15pYq2q|192280",
   song: "song/imagine-dragons-on-top-of-the-world",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 1,
+      position: 5,
+      externalId: "70smu7ojvXHycIMfw8BSBc",
+      externalLink: "https://open.spotify.com/track/70smu7ojvXHycIMfw8BSBc",
+    },
+  ],
 } as const satisfies Track

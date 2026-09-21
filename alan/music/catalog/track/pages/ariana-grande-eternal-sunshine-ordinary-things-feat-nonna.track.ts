@@ -28,4 +28,13 @@ export const arianaGrandeEternalSunshineOrdinaryThingsFeatNonna = {
   ],
   trackKey: "ordinarythingsfeatnonna|66CXWjxzNUsdJxJ2JdwvnR,6maPmKkdwM4eyhz5O4lbkP|168500",
   song: "song/ariana-grande-ordinary-things",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine",
+      discNumber: 1,
+      position: 13,
+      externalId: "4mHM5d2fK3n8xgymjf92w2",
+      externalLink: "https://open.spotify.com/track/4mHM5d2fK3n8xgymjf92w2",
+    },
+  ],
 } as const satisfies Track

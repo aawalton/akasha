@@ -28,4 +28,13 @@ export const coldplayTrueLoveDavideRossiRemixTrueLoveDavideRossiRemix = {
   ],
   trackKey: "truelovedaviderossiremix|3n5USfahZSYCaiIYW58Mmy,4gzpq5DPGxSnKTe4SA8HAU|281750",
   song: "song/coldplay-true-love",
+  carriedBy: [
+    {
+      release: "release/coldplay-true-love-davide-rossi-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "4CRLyVo5LyxF8SwMeJgkhw",
+      externalLink: "https://open.spotify.com/track/4CRLyVo5LyxF8SwMeJgkhw",
+    },
+  ],
 } as const satisfies Track

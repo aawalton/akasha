@@ -25,4 +25,13 @@ export const emeiScatterbrain2DontKnowAboutTheWorld = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "dontknowabouttheworld|7E2aQQjErJocovYFjYLzWU|143696",
   song: "song/emei-dont-know-about-the-world",
+  carriedBy: [
+    {
+      release: "release/emei-scatterbrain-2",
+      discNumber: 1,
+      position: 7,
+      externalId: "7xil2jjcEh4kaU3XXoAPh8",
+      externalLink: "https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8",
+    },
+  ],
 } as const satisfies Track

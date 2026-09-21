@@ -25,4 +25,13 @@ export const theHoldernessFamilyTheGreatestHitsVolOneInDaTub = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "indatub|6tITG4T8LpC0msapZ4wXGA|132048",
   song: "song/the-holderness-family-in-da-tub",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-the-greatest-hits-vol-one",
+      discNumber: 1,
+      position: 11,
+      externalId: "2eFpMxUtCNBJyk4IjDvxkD",
+      externalLink: "https://open.spotify.com/track/2eFpMxUtCNBJyk4IjDvxkD",
+    },
+  ],
 } as const satisfies Track

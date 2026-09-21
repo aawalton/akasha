@@ -25,4 +25,13 @@ export const vinnyMarchiBigBadWolfBigBadWolf = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "bigbadwolf|5USAMqcbMAzF3HBmeD5pJF|141152",
   song: "song/vinny-marchi-big-bad-wolf",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-big-bad-wolf",
+      discNumber: 1,
+      position: 1,
+      externalId: "3IsEapFmPMrn3lSOyayXhr",
+      externalLink: "https://open.spotify.com/track/3IsEapFmPMrn3lSOyayXhr",
+    },
+  ],
 } as const satisfies Track

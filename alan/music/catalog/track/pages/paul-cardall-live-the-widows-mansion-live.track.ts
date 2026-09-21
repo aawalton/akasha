@@ -25,4 +25,13 @@ export const paulCardallLiveTheWidowsMansionLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thewidowsmansionlive|7FQRbf8gbKw8KZQZAJWxH2|217906",
   song: "song/paul-cardall-the-widows-mansion",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-live",
+      discNumber: 1,
+      position: 12,
+      externalId: "6mLCMAGsrFjEJkNf1xBDbj",
+      externalLink: "https://open.spotify.com/track/6mLCMAGsrFjEJkNf1xBDbj",
+    },
+  ],
 } as const satisfies Track

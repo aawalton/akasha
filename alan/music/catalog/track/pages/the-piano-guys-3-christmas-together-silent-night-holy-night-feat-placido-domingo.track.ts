@@ -29,4 +29,13 @@ export const thePianoGuys3ChristmasTogetherSilentNightHolyNightFeatPlacidoDoming
   trackKey:
     "silentnightholynightfeatplacidodomingo|0jW6R8CVyVohuUJVcuweDI,4pU3BpenOZFEBzORx2YBJW|209125",
   song: "song/the-piano-guys-silent-night-holy-night",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-christmas-together",
+      discNumber: 1,
+      position: 9,
+      externalId: "6L4RnRbVdspEJ8HMibsiNH",
+      externalLink: "https://open.spotify.com/track/6L4RnRbVdspEJ8HMibsiNH",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const emeiEndOfAnEraTrustIssues = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "trustissues|7E2aQQjErJocovYFjYLzWU|140880",
   song: "song/emei-trust-issues",
+  carriedBy: [
+    {
+      release: "release/emei-end-of-an-era",
+      discNumber: 1,
+      position: 3,
+      externalId: "1w9C1Oza8HfR93yN43CSLG",
+      externalLink: "https://open.spotify.com/track/1w9C1Oza8HfR93yN43CSLG",
+    },
+  ],
 } as const satisfies Track

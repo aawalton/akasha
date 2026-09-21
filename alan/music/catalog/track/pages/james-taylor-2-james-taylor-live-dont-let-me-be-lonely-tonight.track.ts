@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveDontLetMeBeLonelyTonight = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "dontletmebelonelytonight|0vn7UBvSQECKJm2817Yf1P|191640",
   song: "song/james-taylor-dont-let-me-be-lonely-tonight",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 6,
+      externalId: "6LvPaXUdrEidPYrz16WUjQ",
+      externalLink: "https://open.spotify.com/track/6LvPaXUdrEidPYrz16WUjQ",
+    },
+  ],
 } as const satisfies Track

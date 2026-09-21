@@ -25,4 +25,13 @@ export const paulCardallTheBrokenMiracleFamily = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "family|7FQRbf8gbKw8KZQZAJWxH2|135826",
   song: "song/paul-cardall-family",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 4,
+      externalId: "1S6aYw1vn3LV0jpoBpjnXv",
+      externalLink: "https://open.spotify.com/track/1S6aYw1vn3LV0jpoBpjnXv",
+    },
+  ],
 } as const satisfies Track

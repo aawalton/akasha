@@ -25,4 +25,13 @@ export const jamesTaylor2CoversWhyBabyWhy = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "whybabywhy|0vn7UBvSQECKJm2817Yf1P|160680",
   song: "song/james-taylor-why-baby-why",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 4,
+      externalId: "4D4nerNiBRsxjVyNdzWJcX",
+      externalLink: "https://open.spotify.com/track/4D4nerNiBRsxjVyNdzWJcX",
+    },
+  ],
 } as const satisfies Track

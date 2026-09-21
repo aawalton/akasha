@@ -25,4 +25,13 @@ export const paulCardallHymnsGodBeWithYouTillWeMeetAgain = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godbewithyoutillwemeetagain|7FQRbf8gbKw8KZQZAJWxH2|197680",
   song: "song/paul-cardall-god-be-with-you-till-we-meet-again",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-hymns",
+      discNumber: 1,
+      position: 16,
+      externalId: "4qAki0ljBVUyozI8yz9lqe",
+      externalLink: "https://open.spotify.com/track/4qAki0ljBVUyozI8yz9lqe",
+    },
+  ],
 } as const satisfies Track

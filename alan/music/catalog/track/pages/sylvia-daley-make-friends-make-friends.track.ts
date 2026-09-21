@@ -25,4 +25,13 @@ export const sylviaDaleyMakeFriendsMakeFriends = {
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "makefriends|03dXd2zBbBJvX60Oap8Lgo|162125",
   song: "song/sylvia-daley-make-friends",
+  carriedBy: [
+    {
+      release: "release/sylvia-daley-make-friends",
+      discNumber: 1,
+      position: 1,
+      externalId: "3qbJ0mWGjdVPAZJO565Zfo",
+      externalLink: "https://open.spotify.com/track/3qbJ0mWGjdVPAZJO565Zfo",
+    },
+  ],
 } as const satisfies Track

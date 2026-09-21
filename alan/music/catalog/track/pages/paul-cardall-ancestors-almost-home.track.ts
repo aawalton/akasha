@@ -25,4 +25,13 @@ export const paulCardallAncestorsAlmostHome = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "almosthome|7FQRbf8gbKw8KZQZAJWxH2|133802",
   song: "song/paul-cardall-almost-home",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ancestors",
+      discNumber: 1,
+      position: 12,
+      externalId: "3SixQfC0NUXp1gcnHHw9qu",
+      externalLink: "https://open.spotify.com/track/3SixQfC0NUXp1gcnHHw9qu",
+    },
+  ],
 } as const satisfies Track

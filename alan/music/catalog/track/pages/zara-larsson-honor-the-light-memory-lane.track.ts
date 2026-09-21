@@ -25,4 +25,13 @@ export const zaraLarssonHonorTheLightMemoryLane = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "memorylane|1Xylc3o4UrD53lo9CvFvVg|192133",
   song: "song/zara-larsson-memory-lane",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-honor-the-light",
+      discNumber: 1,
+      position: 1,
+      externalId: "0oQWZIDgY33kE8kEp6fEne",
+      externalLink: "https://open.spotify.com/track/0oQWZIDgY33kE8kEp6fEne",
+    },
+  ],
 } as const satisfies Track

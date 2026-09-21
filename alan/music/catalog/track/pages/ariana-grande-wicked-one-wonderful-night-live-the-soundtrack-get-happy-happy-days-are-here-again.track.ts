@@ -29,4 +29,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackGetHappyHappyDa
   trackKey:
     "gethappyhappydaysarehereagainlivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|199290",
   song: "song/ariana-grande-get-happy-happy-days-are-here-again",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+      discNumber: 1,
+      position: 9,
+      externalId: "0MP4nheWCUxoztTK5yqb3g",
+      externalLink: "https://open.spotify.com/track/0MP4nheWCUxoztTK5yqb3g",
+    },
+  ],
 } as const satisfies Track

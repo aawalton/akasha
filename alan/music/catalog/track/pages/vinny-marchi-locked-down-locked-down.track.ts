@@ -25,4 +25,13 @@ export const vinnyMarchiLockedDownLockedDown = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lockeddown|5USAMqcbMAzF3HBmeD5pJF|143187",
   song: "song/vinny-marchi-locked-down",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-locked-down",
+      discNumber: 1,
+      position: 1,
+      externalId: "6Zcfkqfod1trj4MQ8Rvsac",
+      externalLink: "https://open.spotify.com/track/6Zcfkqfod1trj4MQ8Rvsac",
+    },
+  ],
 } as const satisfies Track

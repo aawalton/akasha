@@ -28,4 +28,13 @@ export const arianaGrandeDieForYouRemixDieForYouRemix = {
   ],
   trackKey: "dieforyouremix|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|232857",
   song: "song/ariana-grande-die-for-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-die-for-you-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "7oDd86yk8itslrA9HRP2ki",
+      externalLink: "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWayFeatMacMiller = 
   ],
   trackKey: "thewayfeatmacmiller|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|227033",
   song: "song/ariana-grande-the-way",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 8,
+      externalId: "1Onx2O64wzyA7ZzOsBBqBJ",
+      externalLink: "https://open.spotify.com/track/1Onx2O64wzyA7ZzOsBBqBJ",
+    },
+  ],
 } as const satisfies Track

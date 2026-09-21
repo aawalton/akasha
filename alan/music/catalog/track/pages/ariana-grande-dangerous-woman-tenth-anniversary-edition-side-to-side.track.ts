@@ -28,4 +28,13 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionSideToSide = {
   ],
   trackKey: "sidetoside|0hCNtLu0JehylgoiP8L4Gh,66CXWjxzNUsdJxJ2JdwvnR|226178",
   song: "song/ariana-grande-side-to-side",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 5,
+      externalId: "7maih5X07qAqHxiPtN2mo3",
+      externalLink: "https://open.spotify.com/track/7maih5X07qAqHxiPtN2mo3",
+    },
+  ],
 } as const satisfies Track

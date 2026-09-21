@@ -25,4 +25,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterTakeTheReins = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "takethereins|5USAMqcbMAzF3HBmeD5pJF|160125",
   song: "song/vinny-marchi-take-the-reins",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 6,
+      externalId: "1ib3QJM5JM2nMWkQpVEkDZ",
+      externalLink: "https://open.spotify.com/track/1ib3QJM5JM2nMWkQpVEkDZ",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarODivineRedeemer = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "odivineredeemer|7FQRbf8gbKw8KZQZAJWxH2|131072",
   song: "song/paul-cardall-o-divine-redeemer",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 38,
+      externalId: "0tTeCs9ClMmeFQYy5hFRAu",
+      externalLink: "https://open.spotify.com/track/0tTeCs9ClMmeFQYy5hFRAu",
+    },
+  ],
 } as const satisfies Track

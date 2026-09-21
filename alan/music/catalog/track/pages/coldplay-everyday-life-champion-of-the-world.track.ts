@@ -25,4 +25,13 @@ export const coldplayEverydayLifeChampionOfTheWorld = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "championoftheworld|4gzpq5DPGxSnKTe4SA8HAU|257546",
   song: "song/coldplay-champion-of-the-world",
+  carriedBy: [
+    {
+      release: "release/coldplay-everyday-life",
+      discNumber: 2,
+      position: 7,
+      externalId: "6mf7BNgXs8JipPr2QILnyN",
+      externalLink: "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN",
+    },
+  ],
 } as const satisfies Track

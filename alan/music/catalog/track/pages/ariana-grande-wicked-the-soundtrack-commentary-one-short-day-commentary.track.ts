@@ -30,4 +30,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDayCommentary = {
   trackKey:
     "oneshortdaycommentary|1e6BRnFiiwNZl04xu1yqmi,46UMQ0cW8ToR8egkBRwAxZ,7daPb40K64rRtF36wd3ZOk|147480",
   song: "song/ariana-grande-one-short-day-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 18,
+      externalId: "1yF9QdRIImROyKlGT98C6e",
+      externalLink: "https://open.spotify.com/track/1yF9QdRIImROyKlGT98C6e",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandSomethingInTheWaySheMovesLiveAtTheColonialThe
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "somethinginthewayshemovesliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|227773",
   song: "song/james-taylor-something-in-the-way-she-moves",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 1,
+      externalId: "6fDsFmqQne09t0nT1LYrSU",
+      externalLink: "https://open.spotify.com/track/6fDsFmqQne09t0nT1LYrSU",
+    },
+  ],
 } as const satisfies Track

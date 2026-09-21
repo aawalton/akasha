@@ -25,4 +25,13 @@ export const theHoldernessFamilyIMAdultingImAdulting = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "imadulting|6tITG4T8LpC0msapZ4wXGA|162037",
   song: "song/the-holderness-family-im-adulting",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-i-m-adulting",
+      discNumber: 1,
+      position: 1,
+      externalId: "5RhYHzs3wb8U0fTGZqobND",
+      externalLink: "https://open.spotify.com/track/5RhYHzs3wb8U0fTGZqobND",
+    },
+  ],
 } as const satisfies Track

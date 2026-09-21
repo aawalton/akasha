@@ -25,4 +25,13 @@ export const coldplayTheBlueRoomSeeYouSoon = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "seeyousoon|4gzpq5DPGxSnKTe4SA8HAU|171373",
   song: "song/coldplay-see-you-soon",
+  carriedBy: [
+    {
+      release: "release/coldplay-the-blue-room",
+      discNumber: 1,
+      position: 3,
+      externalId: "1uKzAldJYlwje9HstlwTie",
+      externalLink: "https://open.spotify.com/track/1uKzAldJYlwje9HstlwTie",
+    },
+  ],
 } as const satisfies Track

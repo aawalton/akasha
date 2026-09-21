@@ -25,4 +25,13 @@ export const celticWoman2LullabyWhenYouWishUponAStar = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "whenyouwishuponastar|6NWtt9pNOL2Gx7kBykdE5x|197106",
   song: "song/celtic-woman-when-you-wish-upon-a-star",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-lullaby",
+      discNumber: 1,
+      position: 1,
+      externalId: "2Evxt7ypAfSlfCbE5qFcXl",
+      externalLink: "https://open.spotify.com/track/2Evxt7ypAfSlfCbE5qFcXl",
+    },
+  ],
 } as const satisfies Track

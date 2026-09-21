@@ -25,4 +25,13 @@ export const sabrinaCarpenterEmailsICanTSendHowManyThings = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "howmanythings|74KM79TiuVKeVCqs8QtB0B|243880",
   song: "song/sabrina-carpenter-how-many-things",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 7,
+      externalId: "4yC3v03vIGfmV6Rag568mV",
+      externalLink: "https://open.spotify.com/track/4yC3v03vIGfmV6Rag568mV",
+    },
+  ],
 } as const satisfies Track

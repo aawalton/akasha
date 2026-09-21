@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourYouveGotAFriendLiveAtTheTroubadour20
   trackKey:
     "youvegotafriendliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|351600",
   song: "song/james-taylor-youve-got-a-friend",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 13,
+      externalId: "7jNvvrEFtIQYnaukWx5ZSu",
+      externalLink: "https://open.spotify.com/track/7jNvvrEFtIQYnaukWx5ZSu",
+    },
+  ],
 } as const satisfies Track

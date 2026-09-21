@@ -25,4 +25,13 @@ export const paulCardallScarboroughFairStateOfMind = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "stateofmind|7FQRbf8gbKw8KZQZAJWxH2|253936",
   song: "song/paul-cardall-state-of-mind",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-scarborough-fair",
+      discNumber: 1,
+      position: 2,
+      externalId: "5Gvm4u2PkIjUgjcVohPLGM",
+      externalLink: "https://open.spotify.com/track/5Gvm4u2PkIjUgjcVohPLGM",
+    },
+  ],
 } as const satisfies Track

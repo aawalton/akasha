@@ -25,4 +25,13 @@ export const celticWoman2SoloDownByTheSallyGardens = {
   trackArtist: [{ externalId: "5oLAxXGiZCQwR8FuXcTDJM", artistName: "Órla Fallon" }],
   trackKey: "downbythesallygardens|5oLAxXGiZCQwR8FuXcTDJM|212056",
   song: "song/celtic-woman-down-by-the-sally-gardens",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-solo",
+      discNumber: 1,
+      position: 6,
+      externalId: "5RUlTrMBaHeWcLZ8YSC0jn",
+      externalLink: "https://open.spotify.com/track/5RUlTrMBaHeWcLZ8YSC0jn",
+    },
+  ],
 } as const satisfies Track

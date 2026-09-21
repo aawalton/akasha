@@ -25,4 +25,13 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbieWhatWasIMadeFo
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "whatwasimadeforfromthemotionpicturebarbie|6qqNVTkY8uBg9cP3Jd7DAH|222369",
   song: "song/billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie",
+      discNumber: 1,
+      position: 1,
+      externalId: "6wf7Yu7cxBSPrRlWeSeK0Q",
+      externalLink: "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q",
+    },
+  ],
 } as const satisfies Track

@@ -30,4 +30,13 @@ export const auroraIDrinkTheLightIDrinkTheLight = {
   trackKey:
     "idrinkthelight|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|476893",
   song: "song/aurora-i-drink-the-light",
+  carriedBy: [
+    {
+      release: "release/aurora-i-drink-the-light",
+      discNumber: 1,
+      position: 1,
+      externalId: "4ytjR8q5geAVO7EQM9Gjzd",
+      externalLink: "https://open.spotify.com/track/4ytjR8q5geAVO7EQM9Gjzd",
+    },
+  ],
 } as const satisfies Track

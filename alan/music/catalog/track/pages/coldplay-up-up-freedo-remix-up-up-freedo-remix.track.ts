@@ -28,4 +28,13 @@ export const coldplayUpUpFreedoRemixUpUpFreedoRemix = {
   ],
   trackKey: "upupfreedoremix|2b6Cbp1cgD0hwisrGbKsZJ,4gzpq5DPGxSnKTe4SA8HAU|210294",
   song: "song/coldplay-up-up",
+  carriedBy: [
+    {
+      release: "release/coldplay-up-up-freedo-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "2KIgC0WnwwcDPgv8ClxXfi",
+      externalLink: "https://open.spotify.com/track/2KIgC0WnwwcDPgv8ClxXfi",
+    },
+  ],
 } as const satisfies Track

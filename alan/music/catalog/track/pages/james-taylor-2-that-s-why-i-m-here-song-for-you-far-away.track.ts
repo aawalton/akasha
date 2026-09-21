@@ -25,4 +25,13 @@ export const jamesTaylor2ThatSWhyIMHereSongForYouFarAway = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "songforyoufaraway|0vn7UBvSQECKJm2817Yf1P|176266",
   song: "song/james-taylor-song-for-you-far-away",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-that-s-why-i-m-here",
+      discNumber: 1,
+      position: 2,
+      externalId: "1seIRIDefTYT2tIa1i7ZgB",
+      externalLink: "https://open.spotify.com/track/1seIRIDefTYT2tIa1i7ZgB",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2InThePocket2019RemasterWomansGottaHaveIt2019Remaster = 
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "womansgottahaveit2019remaster|0vn7UBvSQECKJm2817Yf1P|260213",
   song: "song/james-taylor-womans-gotta-have-it",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-in-the-pocket-2019-remaster",
+      discNumber: 1,
+      position: 7,
+      externalId: "4ZzstN4DuvBuzn9lv7Qj9E",
+      externalLink: "https://open.spotify.com/track/4ZzstN4DuvBuzn9lv7Qj9E",
+    },
+  ],
 } as const satisfies Track

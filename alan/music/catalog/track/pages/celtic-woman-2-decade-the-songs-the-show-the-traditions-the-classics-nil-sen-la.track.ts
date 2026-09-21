@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNilSenLa =
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "nilsenla|6NWtt9pNOL2Gx7kBykdE5x|215106",
   song: "song/celtic-woman-nil-sen-la",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 9,
+      externalId: "13dEX45vSmJb75Y7mByKX4",
+      externalLink: "https://open.spotify.com/track/13dEX45vSmJb75Y7mByKX4",
+    },
+  ],
 } as const satisfies Track

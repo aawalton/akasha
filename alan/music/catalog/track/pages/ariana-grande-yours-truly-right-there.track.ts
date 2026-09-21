@@ -28,4 +28,13 @@ export const arianaGrandeYoursTrulyRightThere = {
   ],
   trackKey: "rightthere|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|247080",
   song: "song/ariana-grande-right-there",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 3,
+      externalId: "3yiopxxeHuwcpAg4e57Zjt",
+      externalLink: "https://open.spotify.com/track/3yiopxxeHuwcpAg4e57Zjt",
+    },
+  ],
 } as const satisfies Track

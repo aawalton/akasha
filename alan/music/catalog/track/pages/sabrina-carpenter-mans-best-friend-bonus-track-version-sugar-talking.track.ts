@@ -25,4 +25,13 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionSugarTalking = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "sugartalking|74KM79TiuVKeVCqs8QtB0B|183770",
   song: "song/sabrina-carpenter-sugar-talking",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+      discNumber: 1,
+      position: 4,
+      externalId: "5S7V849ZlfD5yh6Q7VNIwp",
+      externalLink: "https://open.spotify.com/track/5S7V849ZlfD5yh6Q7VNIwp",
+    },
+  ],
 } as const satisfies Track

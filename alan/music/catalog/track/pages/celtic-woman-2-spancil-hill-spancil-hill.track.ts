@@ -25,4 +25,13 @@ export const celticWoman2SpancilHillSpancilHill = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "spancilhill|6NWtt9pNOL2Gx7kBykdE5x|198500",
   song: "song/celtic-woman-spancil-hill",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-spancil-hill",
+      discNumber: 1,
+      position: 1,
+      externalId: "2GLg6Dlgw13oYmAPi4c45m",
+      externalLink: "https://open.spotify.com/track/2GLg6Dlgw13oYmAPi4c45m",
+    },
+  ],
 } as const satisfies Track

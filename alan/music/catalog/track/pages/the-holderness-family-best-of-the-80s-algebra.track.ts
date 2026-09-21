@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe80sAlgebra = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "algebra|6tITG4T8LpC0msapZ4wXGA|145422",
   song: "song/the-holderness-family-algebra",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-80s",
+      discNumber: 1,
+      position: 6,
+      externalId: "1FTOAZGCDYcIZDlnNzzG14",
+      externalLink: "https://open.spotify.com/track/1FTOAZGCDYcIZDlnNzzG14",
+    },
+  ],
 } as const satisfies Track

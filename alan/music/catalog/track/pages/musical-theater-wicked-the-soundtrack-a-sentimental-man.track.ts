@@ -25,4 +25,13 @@ export const musicalTheaterWickedTheSoundtrackASentimentalMan = {
   trackArtist: [{ externalId: "0O1n2TpXR4XizmHi7aY0l8", artistName: "Jeff Goldblum" }],
   trackKey: "asentimentalman|0O1n2TpXR4XizmHi7aY0l8|132621",
   song: "song/jeff-goldblum-a-sentimental-man",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 10,
+      externalId: "2Nox49biysRuKoIaDWMemm",
+      externalLink: "https://open.spotify.com/track/2Nox49biysRuKoIaDWMemm",
+    },
+  ],
 } as const satisfies Track

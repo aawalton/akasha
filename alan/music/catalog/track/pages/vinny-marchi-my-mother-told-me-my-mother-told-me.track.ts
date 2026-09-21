@@ -25,4 +25,13 @@ export const vinnyMarchiMyMotherToldMeMyMotherToldMe = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "mymothertoldme|5USAMqcbMAzF3HBmeD5pJF|142192",
   song: "song/vinny-marchi-my-mother-told-me",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-my-mother-told-me",
+      discNumber: 1,
+      position: 1,
+      externalId: "3Y4nQSWnC0U9Sin2ZQ5Fbx",
+      externalLink: "https://open.spotify.com/track/3Y4nQSWnC0U9Sin2ZQ5Fbx",
+    },
+  ],
 } as const satisfies Track

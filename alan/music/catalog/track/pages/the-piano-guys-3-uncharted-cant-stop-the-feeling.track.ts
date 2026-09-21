@@ -25,4 +25,13 @@ export const thePianoGuys3UnchartedCantStopTheFeeling = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "cantstopthefeeling|0jW6R8CVyVohuUJVcuweDI|182750",
   song: "song/the-piano-guys-cant-stop-the-feeling",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 9,
+      externalId: "7LfVbcoCLy1u3zKUwO9VxN",
+      externalLink: "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN",
+    },
+  ],
 } as const satisfies Track

@@ -30,4 +30,13 @@ export const arianaGrandeSideToSideRemixesSideToSideSlushiiRemix = {
   trackKey:
     "sidetosideslushiiremix|0hCNtLu0JehylgoiP8L4Gh,41rVuRHYAiH7ltBTHVR9We,66CXWjxzNUsdJxJ2JdwvnR|202440",
   song: "song/ariana-grande-side-to-side",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-side-to-side-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "27WOAkJrAYagnYj7Y2tsFw",
+      externalLink: "https://open.spotify.com/track/27WOAkJrAYagnYj7Y2tsFw",
+    },
+  ],
 } as const satisfies Track

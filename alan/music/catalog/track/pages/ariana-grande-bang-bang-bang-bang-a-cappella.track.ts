@@ -30,4 +30,13 @@ export const arianaGrandeBangBangBangBangACappella = {
   trackKey:
     "bangbangacappella|0hCNtLu0JehylgoiP8L4Gh,2gsggkzM5R49q6jpPvazou,66CXWjxzNUsdJxJ2JdwvnR|196966",
   song: "song/ariana-grande-bang-bang",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-bang-bang",
+      discNumber: 1,
+      position: 2,
+      externalId: "6yVBEzJYg7olnFeH0vNsTw",
+      externalLink: "https://open.spotify.com/track/6yVBEzJYg7olnFeH0vNsTw",
+    },
+  ],
 } as const satisfies Track

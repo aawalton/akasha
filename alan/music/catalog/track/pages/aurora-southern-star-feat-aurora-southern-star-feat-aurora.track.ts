@@ -28,4 +28,13 @@ export const auroraSouthernStarFeatAuroraSouthernStarFeatAurora = {
   ],
   trackKey: "southernstarfeataurora|1WgXqy2Dd70QQOU7Ay074N,3jzXlBF2157k4exx7idecs|304760",
   song: "song/aurora-southern-star",
+  carriedBy: [
+    {
+      release: "release/aurora-southern-star-feat-aurora",
+      discNumber: 1,
+      position: 1,
+      externalId: "4rDNGiBF4tZbCDeeTH42II",
+      externalLink: "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II",
+    },
+  ],
 } as const satisfies Track

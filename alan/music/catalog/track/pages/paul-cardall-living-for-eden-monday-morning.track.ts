@@ -25,4 +25,13 @@ export const paulCardallLivingForEdenMondayMorning = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "mondaymorning|7FQRbf8gbKw8KZQZAJWxH2|171960",
   song: "song/paul-cardall-monday-morning",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-living-for-eden",
+      discNumber: 1,
+      position: 17,
+      externalId: "50gOseqJMbnVLmmHHFd1SF",
+      externalLink: "https://open.spotify.com/track/50gOseqJMbnVLmmHHFd1SF",
+    },
+  ],
 } as const satisfies Track

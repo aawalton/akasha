@@ -29,4 +29,13 @@ export const arianaGrandeBrandNewYouFrom13ALittleMoreHomeworkFeatGrahamPhillipsS
   trackKey:
     "alittlemorehomeworkfeatgrahamphillipssingleversion|66CXWjxzNUsdJxJ2JdwvnR,7cx3SW07K49VaNuC71o4vj|302733",
   song: "song/ariana-grande-a-little-more-homework",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-brand-new-you-from-13",
+      discNumber: 1,
+      position: 2,
+      externalId: "5RNKIGhRllNHGjroVDPXat",
+      externalLink: "https://open.spotify.com/track/5RNKIGhRllNHGjroVDPXat",
+    },
+  ],
 } as const satisfies Track

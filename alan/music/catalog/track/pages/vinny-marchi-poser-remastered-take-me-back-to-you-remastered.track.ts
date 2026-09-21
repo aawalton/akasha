@@ -25,4 +25,13 @@ export const vinnyMarchiPoserRemasteredTakeMeBackToYouRemastered = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "takemebacktoyouremastered|5USAMqcbMAzF3HBmeD5pJF|173134",
   song: "song/vinny-marchi-take-me-back-to-you",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-poser-remastered",
+      discNumber: 1,
+      position: 2,
+      externalId: "68LNdp6KKujvDnUtnrKT2h",
+      externalLink: "https://open.spotify.com/track/68LNdp6KKujvDnUtnrKT2h",
+    },
+  ],
 } as const satisfies Track

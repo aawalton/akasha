@@ -25,4 +25,13 @@ export const coldplayXYTwistedLogic = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "twistedlogic|4gzpq5DPGxSnKTe4SA8HAU|271860",
   song: "song/coldplay-twisted-logic",
+  carriedBy: [
+    {
+      release: "release/coldplay-x-y",
+      discNumber: 1,
+      position: 12,
+      externalId: "6kevl5fnM7GRJ2K2rBBnxq",
+      externalLink: "https://open.spotify.com/track/6kevl5fnM7GRJ2K2rBBnxq",
+    },
+  ],
 } as const satisfies Track

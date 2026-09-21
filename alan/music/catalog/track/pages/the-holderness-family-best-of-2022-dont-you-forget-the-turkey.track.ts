@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2022DontYouForgetTheTurkey = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "dontyouforgettheturkey|6tITG4T8LpC0msapZ4wXGA|187776",
   song: "song/the-holderness-family-dont-you-forget-the-turkey",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2022",
+      discNumber: 1,
+      position: 16,
+      externalId: "2k5qFoLqkuQDFYJjXWJEmS",
+      externalLink: "https://open.spotify.com/track/2k5qFoLqkuQDFYJjXWJEmS",
+    },
+  ],
 } as const satisfies Track

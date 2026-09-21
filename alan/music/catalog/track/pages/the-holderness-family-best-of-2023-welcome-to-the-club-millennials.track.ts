@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2023WelcomeToTheClubMillennials = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "welcometotheclubmillennials|6tITG4T8LpC0msapZ4wXGA|158471",
   song: "song/the-holderness-family-welcome-to-the-club-millennials",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2023",
+      discNumber: 1,
+      position: 9,
+      externalId: "1A40m9XJuZQVw0f2OYRbfI",
+      externalLink: "https://open.spotify.com/track/1A40m9XJuZQVw0f2OYRbfI",
+    },
+  ],
 } as const satisfies Track

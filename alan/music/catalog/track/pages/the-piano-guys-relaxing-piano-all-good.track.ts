@@ -25,4 +25,13 @@ export const thePianoGuysRelaxingPianoAllGood = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "allgood|0jW6R8CVyVohuUJVcuweDI|143443",
   song: "song/the-piano-guys-all-good",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-relaxing-piano",
+      discNumber: 1,
+      position: 10,
+      externalId: "7ztlfchcq5H30fAlneiRIS",
+      externalLink: "https://open.spotify.com/track/7ztlfchcq5H30fAlneiRIS",
+    },
+  ],
 } as const satisfies Track

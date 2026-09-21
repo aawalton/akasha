@@ -28,4 +28,13 @@ export const jamesTaylorJamesTaylorAtChristmasWinterWonderlandFeatChrisBotti = {
   ],
   trackKey: "winterwonderlandfeatchrisbotti|0vn7UBvSQECKJm2817Yf1P,3eFo5fMv53RYZBYlvT5Z6a|213826",
   song: "song/james-taylor-winter-wonderland",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 1,
+      externalId: "5lShdVp1NzcR6xu1Pl3Oc6",
+      externalLink: "https://open.spotify.com/track/5lShdVp1NzcR6xu1Pl3Oc6",
+    },
+  ],
 } as const satisfies Track

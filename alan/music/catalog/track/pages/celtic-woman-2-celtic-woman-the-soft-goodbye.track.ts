@@ -25,4 +25,13 @@ export const celticWoman2CelticWomanTheSoftGoodbye = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thesoftgoodbye|6NWtt9pNOL2Gx7kBykdE5x|239120",
   song: "song/celtic-woman-the-soft-goodbye",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-celtic-woman",
+      discNumber: 1,
+      position: 15,
+      externalId: "30TNRTx436onqMfH6YHiG3",
+      externalLink: "https://open.spotify.com/track/30TNRTx436onqMfH6YHiG3",
+    },
+  ],
 } as const satisfies Track

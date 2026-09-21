@@ -25,4 +25,13 @@ export const paulCardallReturnHomeImmigrantShips = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "immigrantships|7FQRbf8gbKw8KZQZAJWxH2|206442",
   song: "song/paul-cardall-immigrant-ships",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 1,
+      externalId: "5I9sO4QS6sO4mDjxmoxT8b",
+      externalLink: "https://open.spotify.com/track/5I9sO4QS6sO4mDjxmoxT8b",
+    },
+  ],
 } as const satisfies Track

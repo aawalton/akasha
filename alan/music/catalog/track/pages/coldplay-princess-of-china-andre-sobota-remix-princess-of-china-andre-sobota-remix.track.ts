@@ -30,4 +30,13 @@ export const coldplayPrincessOfChinaAndreSobotaRemixPrincessOfChinaAndreSobotaRe
   trackKey:
     "princessofchinaandresobotaremix|0Tdo9YdoMdoj41B2KNTywZ,4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|303984",
   song: "song/coldplay-princess-of-china",
+  carriedBy: [
+    {
+      release: "release/coldplay-princess-of-china-andre-sobota-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "0aGxRgaGbcT95BZZCWqYOQ",
+      externalLink: "https://open.spotify.com/track/0aGxRgaGbcT95BZZCWqYOQ",
+    },
+  ],
 } as const satisfies Track

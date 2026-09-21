@@ -25,4 +25,13 @@ export const paulCardallAncestorsHeartsOfMothers = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "heartsofmothers|7FQRbf8gbKw8KZQZAJWxH2|199338",
   song: "song/paul-cardall-hearts-of-mothers",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ancestors",
+      discNumber: 1,
+      position: 4,
+      externalId: "4047I6yARvsP9jhEjLcf2W",
+      externalLink: "https://open.spotify.com/track/4047I6yARvsP9jhEjLcf2W",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayXYTheHardestPart = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "thehardestpart|4gzpq5DPGxSnKTe4SA8HAU|262880",
   song: "song/coldplay-the-hardest-part",
+  carriedBy: [
+    {
+      release: "release/coldplay-x-y",
+      discNumber: 1,
+      position: 10,
+      externalId: "4Tw9JYF9HOuPRyccNWMgwf",
+      externalLink: "https://open.spotify.com/track/4Tw9JYF9HOuPRyccNWMgwf",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallSignOfTheTimesSignOfTheTimes = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "signofthetimes|7FQRbf8gbKw8KZQZAJWxH2|251031",
   song: "song/paul-cardall-sign-of-the-times",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-sign-of-the-times",
+      discNumber: 1,
+      position: 1,
+      externalId: "6zoDUTcV8tJ0UOCYGuQSPT",
+      externalLink: "https://open.spotify.com/track/6zoDUTcV8tJ0UOCYGuQSPT",
+    },
+  ],
 } as const satisfies Track

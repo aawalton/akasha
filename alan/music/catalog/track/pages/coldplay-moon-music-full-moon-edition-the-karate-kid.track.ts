@@ -25,4 +25,13 @@ export const coldplayMoonMusicFullMoonEditionTheKarateKid = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "thekaratekid|4gzpq5DPGxSnKTe4SA8HAU|175466",
   song: "song/coldplay-the-karate-kid",
+  carriedBy: [
+    {
+      release: "release/coldplay-moon-music-full-moon-edition",
+      discNumber: 2,
+      position: 3,
+      externalId: "0cZEkGxb0V9MbpzHzpKp9F",
+      externalLink: "https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F",
+    },
+  ],
 } as const satisfies Track

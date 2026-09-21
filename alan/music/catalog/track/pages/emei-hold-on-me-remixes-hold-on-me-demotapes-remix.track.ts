@@ -30,4 +30,13 @@ export const emeiHoldOnMeRemixesHoldOnMeDemotapesRemix = {
   trackKey:
     "holdonmedemotapesremix|5jAMCwdNHWr7JThxtMuEyy,7E2aQQjErJocovYFjYLzWU,7J3jiKIiROsYOlJeEml34X|146250",
   song: "song/emei-hold-on-me",
+  carriedBy: [
+    {
+      release: "release/emei-hold-on-me-remixes",
+      discNumber: 1,
+      position: 2,
+      externalId: "0j0ufA8RydnwtqaSbqe1fS",
+      externalLink: "https://open.spotify.com/track/0j0ufA8RydnwtqaSbqe1fS",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const billieEilishIntroHitMeHardAndSoftTourIntroHitMeHardAndSoftTour = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "introhitmehardandsofttour|6qqNVTkY8uBg9cP3Jd7DAH|116878",
   song: "song/billie-eilish-intro",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-intro-hit-me-hard-and-soft-tour",
+      discNumber: 1,
+      position: 1,
+      externalId: "43ZbuNZJFbgGsYR5zq5ZKd",
+      externalLink: "https://open.spotify.com/track/43ZbuNZJFbgGsYR5zq5ZKd",
+    },
+  ],
 } as const satisfies Track

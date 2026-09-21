@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysComeYeChildrenOfTheLord = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comeyechildrenofthelord|7FQRbf8gbKw8KZQZAJWxH2|169973",
   song: "song/paul-cardall-come-ye-children-of-the-lord",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 3,
+      externalId: "5ZBUHifxU9DrG3AUqA8uee",
+      externalLink: "https://open.spotify.com/track/5ZBUHifxU9DrG3AUqA8uee",
+    },
+  ],
 } as const satisfies Track

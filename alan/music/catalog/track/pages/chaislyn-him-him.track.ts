@@ -25,4 +25,13 @@ export const chaislynHimHim = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "him|3zmbniiciaBAJlSX1Bzq9R|200109",
   song: "song/chaislyn-him",
+  carriedBy: [
+    {
+      release: "release/chaislyn-him",
+      discNumber: 1,
+      position: 1,
+      externalId: "5YY8JhkNdV8BjMWMVOVQsm",
+      externalLink: "https://open.spotify.com/track/5YY8JhkNdV8BjMWMVOVQsm",
+    },
+  ],
 } as const satisfies Track

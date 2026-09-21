@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoSilverleafWinds = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "silverleafwinds|7FQRbf8gbKw8KZQZAJWxH2|173080",
   song: "song/paul-cardall-silverleaf-winds",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 9,
+      externalId: "6w1c1Wg6Phl6wpE9eHRzAB",
+      externalLink: "https://open.spotify.com/track/6w1c1Wg6Phl6wpE9eHRzAB",
+    },
+  ],
 } as const satisfies Track

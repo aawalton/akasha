@@ -25,4 +25,13 @@ export const celticWoman2HomecomingLiveFromIrelandArdUiChuainSadhbhNiBhruinneall
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "arduichuainsadhbhnibhruinneallaighlive2017|6NWtt9pNOL2Gx7kBykdE5x|261586",
   song: "song/celtic-woman-ard-ui-chuain-sadhbh-ni-bhruinneallaigh",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-homecoming-live-from-ireland",
+      discNumber: 1,
+      position: 12,
+      externalId: "7iVDlqWsTYVYzFJQ3hrS7C",
+      externalLink: "https://open.spotify.com/track/7iVDlqWsTYVYzFJQ3hrS7C",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraADifferentKindOfHumanStepIiSoullessCreatures = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "soullesscreatures|1WgXqy2Dd70QQOU7Ay074N|302045",
   song: "song/aurora-soulless-creatures",
+  carriedBy: [
+    {
+      release: "release/aurora-a-different-kind-of-human-step-ii",
+      discNumber: 1,
+      position: 6,
+      externalId: "5kOoS00ZvYZ9Mvpe1dZEor",
+      externalLink: "https://open.spotify.com/track/5kOoS00ZvYZ9Mvpe1dZEor",
+    },
+  ],
 } as const satisfies Track

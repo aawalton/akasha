@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWhenYouBel
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "whenyoubelieve|6NWtt9pNOL2Gx7kBykdE5x|270706",
   song: "song/celtic-woman-when-you-believe",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 10,
+      externalId: "78CeW6MxnnSYezbNE1rQp7",
+      externalLink: "https://open.spotify.com/track/78CeW6MxnnSYezbNE1rQp7",
+    },
+  ],
 } as const satisfies Track

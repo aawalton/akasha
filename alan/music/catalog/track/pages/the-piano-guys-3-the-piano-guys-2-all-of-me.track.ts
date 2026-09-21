@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuys2AllOfMe = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "allofme|0jW6R8CVyVohuUJVcuweDI|182750",
   song: "song/the-piano-guys-all-of-me",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys-2",
+      discNumber: 1,
+      position: 6,
+      externalId: "4mmFIKwzAA4ReWyLWzRHIE",
+      externalLink: "https://open.spotify.com/track/4mmFIKwzAA4ReWyLWzRHIE",
+    },
+  ],
 } as const satisfies Track

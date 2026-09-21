@@ -25,4 +25,13 @@ export const paulCardallSongsOfPraiseProdigal = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "prodigal|7FQRbf8gbKw8KZQZAJWxH2|301346",
   song: "song/paul-cardall-prodigal",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-songs-of-praise",
+      discNumber: 1,
+      position: 8,
+      externalId: "0BpCQv9S9ofb0pvQGZ5Rc1",
+      externalLink: "https://open.spotify.com/track/0BpCQv9S9ofb0pvQGZ5Rc1",
+    },
+  ],
 } as const satisfies Track

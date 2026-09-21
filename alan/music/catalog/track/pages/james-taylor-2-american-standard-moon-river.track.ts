@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardMoonRiver = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "moonriver|0vn7UBvSQECKJm2817Yf1P|193213",
   song: "song/james-taylor-moon-river",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 2,
+      externalId: "46RxitOCzS5JhvDwongOS0",
+      externalLink: "https://open.spotify.com/track/46RxitOCzS5JhvDwongOS0",
+    },
+  ],
 } as const satisfies Track

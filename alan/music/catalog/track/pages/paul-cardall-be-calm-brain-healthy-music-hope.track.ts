@@ -25,4 +25,13 @@ export const paulCardallBeCalmBrainHealthyMusicHope = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "hope|7FQRbf8gbKw8KZQZAJWxH2|195709",
   song: "song/paul-cardall-hope",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-be-calm-brain-healthy-music",
+      discNumber: 1,
+      position: 3,
+      externalId: "62XGS6zCAV51NUtuYGHP0V",
+      externalLink: "https://open.spotify.com/track/62XGS6zCAV51NUtuYGHP0V",
+    },
+  ],
 } as const satisfies Track

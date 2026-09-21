@@ -25,4 +25,13 @@ export const zaraLarssonInvisibleEndTitleFromKlausInvisibleEndTitleFromKlaus = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "invisibleendtitlefromklaus|1Xylc3o4UrD53lo9CvFvVg|171716",
   song: "song/zara-larsson-invisible-end-title-from-klaus",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-invisible-end-title-from-klaus",
+      discNumber: 1,
+      position: 1,
+      externalId: "33dJ9qPTAHONK1on4DrW6l",
+      externalLink: "https://open.spotify.com/track/33dJ9qPTAHONK1on4DrW6l",
+    },
+  ],
 } as const satisfies Track

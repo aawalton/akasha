@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveEternalSunshine
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "eternalsunshineliveversion|66CXWjxzNUsdJxJ2JdwvnR|206327",
   song: "song/ariana-grande-eternal-sunshine",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 20,
+      externalId: "4SbTZNOYhRMHdlwGA2QQfq",
+      externalLink: "https://open.spotify.com/track/4SbTZNOYhRMHdlwGA2QQfq",
+    },
+  ],
 } as const satisfies Track

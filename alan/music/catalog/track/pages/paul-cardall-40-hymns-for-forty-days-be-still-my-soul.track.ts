@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysBeStillMySoul = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bestillmysoul|7FQRbf8gbKw8KZQZAJWxH2|210426",
   song: "song/paul-cardall-be-still-my-soul",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 2,
+      externalId: "7dB33GYX93rSu4b1z71wDk",
+      externalLink: "https://open.spotify.com/track/7dB33GYX93rSu4b1z71wDk",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLove = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "existforlove|1WgXqy2Dd70QQOU7Ay074N|252716",
   song: "song/aurora-exist-for-love",
+  carriedBy: [
+    {
+      release: "release/aurora-exist-for-love-benjamin-m-rk-acoustic-remix",
+      discNumber: 1,
+      position: 4,
+      externalId: "5yvNl953ZqDHZcfDtu38Pw",
+      externalLink: "https://open.spotify.com/track/5yvNl953ZqDHZcfDtu38Pw",
+    },
+  ],
 } as const satisfies Track

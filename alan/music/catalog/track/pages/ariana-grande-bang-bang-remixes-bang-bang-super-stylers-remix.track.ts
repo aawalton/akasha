@@ -31,4 +31,13 @@ export const arianaGrandeBangBangRemixesBangBangSuperStylersRemix = {
   trackKey:
     "bangbangsuperstylersremix|0hCNtLu0JehylgoiP8L4Gh,2gsggkzM5R49q6jpPvazou,5XDGvLfZrbqMrKnPbWKoxI,66CXWjxzNUsdJxJ2JdwvnR|213880",
   song: "song/ariana-grande-bang-bang",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-bang-bang-remixes",
+      discNumber: 1,
+      position: 5,
+      externalId: "2ZXwop8iShW8kkQwlReYu1",
+      externalLink: "https://open.spotify.com/track/2ZXwop8iShW8kkQwlReYu1",
+    },
+  ],
 } as const satisfies Track

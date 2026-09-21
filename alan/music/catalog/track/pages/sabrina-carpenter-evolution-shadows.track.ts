@@ -25,4 +25,13 @@ export const sabrinaCarpenterEvolutionShadows = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "shadows|74KM79TiuVKeVCqs8QtB0B|172426",
   song: "song/sabrina-carpenter-shadows",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-evolution",
+      discNumber: 1,
+      position: 8,
+      externalId: "65RTUeyKsXuiIocxEzYhMY",
+      externalLink: "https://open.spotify.com/track/65RTUeyKsXuiIocxEzYhMY",
+    },
+  ],
 } as const satisfies Track

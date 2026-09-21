@@ -30,4 +30,13 @@ export const zaraLarssonSaturnsReturnGirlsTripSaturnsReturnGirlsTrip = {
   trackKey:
     "saturnsreturngirlstrip|1Xylc3o4UrD53lo9CvFvVg,2s2ztYpVGqV3BWDbAcd35h,3gfV2LBMvIE9gjpvowt11B|377507",
   song: "song/zara-larsson-saturns-return-girls-trip",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-saturns-return-girls-trip",
+      discNumber: 1,
+      position: 1,
+      externalId: "3YzOIbiLi4Bl8ufSwbQlPf",
+      externalLink: "https://open.spotify.com/track/3YzOIbiLi4Bl8ufSwbQlPf",
+    },
+  ],
 } as const satisfies Track

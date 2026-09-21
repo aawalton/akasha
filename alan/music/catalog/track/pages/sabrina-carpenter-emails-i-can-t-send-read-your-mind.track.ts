@@ -25,4 +25,13 @@ export const sabrinaCarpenterEmailsICanTSendReadYourMind = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "readyourmind|74KM79TiuVKeVCqs8QtB0B|207849",
   song: "song/sabrina-carpenter-read-your-mind",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 3,
+      externalId: "4Wos0h9ECU2Z3oJMTQxpbc",
+      externalLink: "https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc",
+    },
+  ],
 } as const satisfies Track

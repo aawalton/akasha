@@ -30,4 +30,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
   trackKey:
     "thewickedwitchoftheeast|0yF5IqIHlPDti2mfZtHe3K,46UMQ0cW8ToR8egkBRwAxZ,6uGIoRQUqP4ncxyg6HksA1|203330",
   song: "song/ariana-grande-the-wicked-witch-of-the-east",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 9,
+      externalId: "2p2NnUoSZr5v6IJgihY3Nb",
+      externalLink: "https://open.spotify.com/track/2p2NnUoSZr5v6IJgihY3Nb",
+    },
+  ],
 } as const satisfies Track

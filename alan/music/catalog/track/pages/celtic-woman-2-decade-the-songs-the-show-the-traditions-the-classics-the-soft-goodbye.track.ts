@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheSoftGoo
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thesoftgoodbye|6NWtt9pNOL2Gx7kBykdE5x|239133",
   song: "song/celtic-woman-the-soft-goodbye",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 15,
+      externalId: "4x6JeeYwP5rmcMzzhetOw7",
+      externalLink: "https://open.spotify.com/track/4x6JeeYwP5rmcMzzhetOw7",
+    },
+  ],
 } as const satisfies Track

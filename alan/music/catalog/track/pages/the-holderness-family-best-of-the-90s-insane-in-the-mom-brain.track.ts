@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sInsaneInTheMomBrain = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "insaneinthemombrain|6tITG4T8LpC0msapZ4wXGA|94641",
   song: "song/the-holderness-family-insane-in-the-mom-brain",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 2,
+      externalId: "7mxl7yQPkzQdYyvLaqyn87",
+      externalLink: "https://open.spotify.com/track/7mxl7yQPkzQdYyvLaqyn87",
+    },
+  ],
 } as const satisfies Track

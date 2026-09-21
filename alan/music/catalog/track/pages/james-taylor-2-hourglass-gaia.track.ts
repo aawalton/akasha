@@ -25,4 +25,13 @@ export const jamesTaylor2HourglassGaia = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "gaia|0vn7UBvSQECKJm2817Yf1P|328866",
   song: "song/james-taylor-gaia",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-hourglass",
+      discNumber: 1,
+      position: 4,
+      externalId: "4HvUn2UZobWGX6BLijuaru",
+      externalLink: "https://open.spotify.com/track/4HvUn2UZobWGX6BLijuaru",
+    },
+  ],
 } as const satisfies Track

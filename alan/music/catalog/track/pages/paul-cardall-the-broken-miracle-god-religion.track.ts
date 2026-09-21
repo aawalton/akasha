@@ -25,4 +25,13 @@ export const paulCardallTheBrokenMiracleGodReligion = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godreligion|7FQRbf8gbKw8KZQZAJWxH2|159173",
   song: "song/paul-cardall-god-religion",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 5,
+      externalId: "2Kpc9XSuml0TEwvs3kABns",
+      externalLink: "https://open.spotify.com/track/2Kpc9XSuml0TEwvs3kABns",
+    },
+  ],
 } as const satisfies Track

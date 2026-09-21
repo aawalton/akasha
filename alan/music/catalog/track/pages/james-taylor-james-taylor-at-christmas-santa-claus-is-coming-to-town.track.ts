@@ -25,4 +25,13 @@ export const jamesTaylorJamesTaylorAtChristmasSantaClausIsComingToTown = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "santaclausiscomingtotown|0vn7UBvSQECKJm2817Yf1P|177520",
   song: "song/james-taylor-santa-claus-is-coming-to-town",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 3,
+      externalId: "3EEptKuQOHKaMFFQIL5ZBz",
+      externalLink: "https://open.spotify.com/track/3EEptKuQOHKaMFFQIL5ZBz",
+    },
+  ],
 } as const satisfies Track

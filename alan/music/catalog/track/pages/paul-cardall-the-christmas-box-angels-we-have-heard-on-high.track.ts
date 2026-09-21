@@ -25,4 +25,13 @@ export const paulCardallTheChristmasBoxAngelsWeHaveHeardOnHigh = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "angelswehaveheardonhigh|7FQRbf8gbKw8KZQZAJWxH2|164200",
   song: "song/paul-cardall-angels-we-have-heard-on-high",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-christmas-box",
+      discNumber: 1,
+      position: 1,
+      externalId: "4eUxxbgCyTXzzrQrhYnxt2",
+      externalLink: "https://open.spotify.com/track/4eUxxbgCyTXzzrQrhYnxt2",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuysAutumnOnPianoEnchanted = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "enchanted|0jW6R8CVyVohuUJVcuweDI|298998",
   song: "song/the-piano-guys-enchanted",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-autumn-on-piano",
+      discNumber: 1,
+      position: 11,
+      externalId: "4L73kXMdZ7OKydIpzXEnIc",
+      externalLink: "https://open.spotify.com/track/4L73kXMdZ7OKydIpzXEnIc",
+    },
+  ],
 } as const satisfies Track

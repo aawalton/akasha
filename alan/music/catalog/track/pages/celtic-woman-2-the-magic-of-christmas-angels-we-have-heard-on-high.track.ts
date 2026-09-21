@@ -25,4 +25,13 @@ export const celticWoman2TheMagicOfChristmasAngelsWeHaveHeardOnHigh = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "angelswehaveheardonhigh|6NWtt9pNOL2Gx7kBykdE5x|274946",
   song: "song/celtic-woman-angels-we-have-heard-on-high",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-magic-of-christmas",
+      discNumber: 1,
+      position: 2,
+      externalId: "0q0tzfeahbBejmyGlNJxHM",
+      externalLink: "https://open.spotify.com/track/0q0tzfeahbBejmyGlNJxHM",
+    },
+  ],
 } as const satisfies Track

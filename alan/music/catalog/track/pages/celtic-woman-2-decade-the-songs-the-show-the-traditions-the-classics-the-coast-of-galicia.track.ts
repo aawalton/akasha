@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheCoastOf
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thecoastofgalicia|6NWtt9pNOL2Gx7kBykdE5x|215893",
   song: "song/celtic-woman-the-coast-of-galicia",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 12,
+      externalId: "74z0ObOUixCAh2rsGL50tt",
+      externalLink: "https://open.spotify.com/track/74z0ObOUixCAh2rsGL50tt",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetInHumilityOurSavior = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "inhumilityoursavior|7FQRbf8gbKw8KZQZAJWxH2|285910",
   song: "song/paul-cardall-in-humility-our-savior",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 28,
+      externalId: "2gPtoFCRNjYS8KHqaxTe4l",
+      externalLink: "https://open.spotify.com/track/2gPtoFCRNjYS8KHqaxTe4l",
+    },
+  ],
 } as const satisfies Track

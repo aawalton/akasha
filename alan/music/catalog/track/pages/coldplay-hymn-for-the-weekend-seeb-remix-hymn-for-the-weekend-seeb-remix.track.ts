@@ -28,4 +28,13 @@ export const coldplayHymnForTheWeekendSeebRemixHymnForTheWeekendSeebRemix = {
   ],
   trackKey: "hymnfortheweekendseebremix|4gzpq5DPGxSnKTe4SA8HAU,5iNrZmtVMtYev5M9yoWpEq|212647",
   song: "song/coldplay-hymn-for-the-weekend",
+  carriedBy: [
+    {
+      release: "release/coldplay-hymn-for-the-weekend-seeb-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "6s3GEN8wK0OMzzzZbXj0fu",
+      externalLink: "https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu",
+    },
+  ],
 } as const satisfies Track

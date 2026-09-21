@@ -25,4 +25,13 @@ export const jamesTaylor2CoversHoundDog = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "hounddog|0vn7UBvSQECKJm2817Yf1P|183053",
   song: "song/james-taylor-hound-dog",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 8,
+      externalId: "2kqpwVLLYRuiYm8J8M4RrZ",
+      externalLink: "https://open.spotify.com/track/2kqpwVLLYRuiYm8J8M4RrZ",
+    },
+  ],
 } as const satisfies Track

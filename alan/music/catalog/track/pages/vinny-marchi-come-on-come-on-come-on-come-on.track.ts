@@ -25,4 +25,13 @@ export const vinnyMarchiComeOnComeOnComeOnComeOn = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "comeoncomeon|5USAMqcbMAzF3HBmeD5pJF|148925",
   song: "song/vinny-marchi-come-on-come-on",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-come-on-come-on",
+      discNumber: 1,
+      position: 1,
+      externalId: "29rPm1HkHaoKlGGIaD0lXi",
+      externalLink: "https://open.spotify.com/track/29rPm1HkHaoKlGGIaD0lXi",
+    },
+  ],
 } as const satisfies Track

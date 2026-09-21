@@ -25,4 +25,13 @@ export const thePianoGuysAutumnOnPianoEveryBreathYouTake = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "everybreathyoutake|0jW6R8CVyVohuUJVcuweDI|272210",
   song: "song/the-piano-guys-every-breath-you-take",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-autumn-on-piano",
+      discNumber: 1,
+      position: 1,
+      externalId: "5OvCeYiBG0maA4xyyIZ2YD",
+      externalLink: "https://open.spotify.com/track/5OvCeYiBG0maA4xyyIZ2YD",
+    },
+  ],
 } as const satisfies Track

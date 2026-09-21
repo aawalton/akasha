@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandFireAndRainLiveAtTheColonialTheatre2007 = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "fireandrainliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|292146",
   song: "song/james-taylor-fire-and-rain",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 17,
+      externalId: "0ke0GsCog414QuHroDYQAv",
+      externalLink: "https://open.spotify.com/track/0ke0GsCog414QuHroDYQAv",
+    },
+  ],
 } as const satisfies Track

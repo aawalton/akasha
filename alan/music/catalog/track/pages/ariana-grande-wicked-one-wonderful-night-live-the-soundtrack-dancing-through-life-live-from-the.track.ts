@@ -30,4 +30,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDancingThroughL
   trackKey:
     "dancingthroughlifelivefromthedolbytheatre|0yF5IqIHlPDti2mfZtHe3K,6uGIoRQUqP4ncxyg6HksA1,7znzgTbLilllmlnY4CzazN|358056",
   song: "song/ariana-grande-dancing-through-life",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+      discNumber: 1,
+      position: 6,
+      externalId: "4ibWyjAok4H00w93AGM4ZK",
+      externalLink: "https://open.spotify.com/track/4ibWyjAok4H00w93AGM4ZK",
+    },
+  ],
 } as const satisfies Track

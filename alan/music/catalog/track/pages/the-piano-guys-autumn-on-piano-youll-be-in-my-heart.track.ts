@@ -25,4 +25,13 @@ export const thePianoGuysAutumnOnPianoYoullBeInMyHeart = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "youllbeinmyheart|0jW6R8CVyVohuUJVcuweDI|247409",
   song: "song/the-piano-guys-youll-be-in-my-heart",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-autumn-on-piano",
+      discNumber: 1,
+      position: 9,
+      externalId: "3jk6mKKYESmxddccvJBKYl",
+      externalLink: "https://open.spotify.com/track/3jk6mKKYESmxddccvJBKYl",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2OtherCoversWasntThatAMightyStorm = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "wasntthatamightystorm|0vn7UBvSQECKJm2817Yf1P|255760",
   song: "song/james-taylor-wasnt-that-a-mighty-storm",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-other-covers",
+      discNumber: 1,
+      position: 5,
+      externalId: "5Fo974j6cWnEtMlV95YKaV",
+      externalLink: "https://open.spotify.com/track/5Fo974j6cWnEtMlV95YKaV",
+    },
+  ],
 } as const satisfies Track

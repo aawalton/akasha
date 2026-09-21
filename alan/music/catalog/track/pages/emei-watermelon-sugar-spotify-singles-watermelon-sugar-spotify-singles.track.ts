@@ -25,4 +25,13 @@ export const emeiWatermelonSugarSpotifySinglesWatermelonSugarSpotifySingles = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "watermelonsugarspotifysingles|7E2aQQjErJocovYFjYLzWU|129656",
   song: "song/emei-watermelon-sugar-spotify-singles",
+  carriedBy: [
+    {
+      release: "release/emei-watermelon-sugar-spotify-singles",
+      discNumber: 1,
+      position: 1,
+      externalId: "0kIsnEg0TzJTsb6wTVHSeG",
+      externalLink: "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG",
+    },
+  ],
 } as const satisfies Track

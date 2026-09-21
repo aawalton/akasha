@@ -32,4 +32,13 @@ export const musicalTheaterWickedTheSoundtrackDancingThroughLife = {
   trackKey:
     "dancingthroughlife|0yF5IqIHlPDti2mfZtHe3K,2Je7IdIHe8UvZbLXdapQ26,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,6uGIoRQUqP4ncxyg6HksA1|587364",
   song: "song/jonathan-bailey-dancing-through-life",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 6,
+      externalId: "6qo8v2y2MHUSPLs7VBc6cG",
+      externalLink: "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG",
+    },
+  ],
 } as const satisfies Track

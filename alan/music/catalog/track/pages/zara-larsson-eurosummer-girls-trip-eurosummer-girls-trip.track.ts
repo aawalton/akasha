@@ -28,4 +28,13 @@ export const zaraLarssonEurosummerGirlsTripEurosummerGirlsTrip = {
   ],
   trackKey: "eurosummergirlstrip|0EmeFodog0BfCgMzAIvKQp,1Xylc3o4UrD53lo9CvFvVg|170346",
   song: "song/zara-larsson-eurosummer-girls-trip",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-eurosummer-girls-trip",
+      discNumber: 1,
+      position: 1,
+      externalId: "5tmEfi2Es0G7B3pVRESEnw",
+      externalLink: "https://open.spotify.com/track/5tmEfi2Es0G7B3pVRESEnw",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2BeforeThisWorldTodayTodayToday = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "todaytodaytoday|0vn7UBvSQECKJm2817Yf1P|189173",
   song: "song/james-taylor-today-today-today",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-before-this-world",
+      discNumber: 1,
+      position: 1,
+      externalId: "64ZiNwBPlvQpfMLwxddu1z",
+      externalLink: "https://open.spotify.com/track/64ZiNwBPlvQpfMLwxddu1z",
+    },
+  ],
 } as const satisfies Track

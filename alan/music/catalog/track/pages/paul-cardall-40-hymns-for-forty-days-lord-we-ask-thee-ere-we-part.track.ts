@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysLordWeAskTheeEreWePart = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "lordweasktheeerewepart|7FQRbf8gbKw8KZQZAJWxH2|160506",
   song: "song/paul-cardall-lord-we-ask-thee-ere-we-part",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 19,
+      externalId: "26MWqFYCl7hjzaYIzxZTSa",
+      externalLink: "https://open.spotify.com/track/26MWqFYCl7hjzaYIzxZTSa",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe2000sHotOutHere = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "hotouthere|6tITG4T8LpC0msapZ4wXGA|124776",
   song: "song/the-holderness-family-hot-out-here",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-2000s",
+      discNumber: 1,
+      position: 2,
+      externalId: "1eSQTixZg5XDh6Iz5miiAE",
+      externalLink: "https://open.spotify.com/track/1eSQTixZg5XDh6Iz5miiAE",
+    },
+  ],
 } as const satisfies Track

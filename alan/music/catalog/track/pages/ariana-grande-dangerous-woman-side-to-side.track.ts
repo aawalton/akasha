@@ -28,4 +28,13 @@ export const arianaGrandeDangerousWomanSideToSide = {
   ],
   trackKey: "sidetoside|0hCNtLu0JehylgoiP8L4Gh,66CXWjxzNUsdJxJ2JdwvnR|226173",
   song: "song/ariana-grande-side-to-side",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman",
+      discNumber: 1,
+      position: 5,
+      externalId: "4HeCFqiB1rBqGqvE10rF1a",
+      externalLink: "https://open.spotify.com/track/4HeCFqiB1rBqGqvE10rF1a",
+    },
+  ],
 } as const satisfies Track

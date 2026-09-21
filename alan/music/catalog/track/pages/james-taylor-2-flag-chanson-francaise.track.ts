@@ -25,4 +25,13 @@ export const jamesTaylor2FlagChansonFrancaise = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "chansonfrancaise|0vn7UBvSQECKJm2817Yf1P|121906",
   song: "song/james-taylor-chanson-francaise",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-flag",
+      discNumber: 1,
+      position: 11,
+      externalId: "1tzcT5sLgvckDDbHnHdouQ",
+      externalLink: "https://open.spotify.com/track/1tzcT5sLgvckDDbHnHdouQ",
+    },
+  ],
 } as const satisfies Track

@@ -30,4 +30,13 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisArmnhmrRem
   trackKey:
     "somethingjustlikethisarmnhmrremix|0P2bZXPyjHYRW4guHVAFl1,4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|224320",
   song: "song/coldplay-something-just-like-this",
+  carriedBy: [
+    {
+      release: "release/coldplay-something-just-like-this-remixes",
+      discNumber: 1,
+      position: 6,
+      externalId: "2f3dQn9jfUwkgnPreXgByt",
+      externalLink: "https://open.spotify.com/track/2f3dQn9jfUwkgnPreXgByt",
+    },
+  ],
 } as const satisfies Track

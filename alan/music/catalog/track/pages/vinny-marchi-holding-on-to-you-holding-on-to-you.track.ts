@@ -25,4 +25,13 @@ export const vinnyMarchiHoldingOnToYouHoldingOnToYou = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "holdingontoyou|5USAMqcbMAzF3HBmeD5pJF|172874",
   song: "song/vinny-marchi-holding-on-to-you",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-holding-on-to-you",
+      discNumber: 1,
+      position: 1,
+      externalId: "3wolug0v3hQzxr6IZgNRZd",
+      externalLink: "https://open.spotify.com/track/3wolug0v3hQzxr6IZgNRZd",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraTheWomanIAmAcousticTheWomanIAmAcoustic = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "thewomaniamacoustic|1WgXqy2Dd70QQOU7Ay074N|210800",
   song: "song/aurora-the-woman-i-am",
+  carriedBy: [
+    {
+      release: "release/aurora-the-woman-i-am-acoustic",
+      discNumber: 1,
+      position: 1,
+      externalId: "1bNpATzXUSB6N8xUhUtiWo",
+      externalLink: "https://open.spotify.com/track/1bNpATzXUSB6N8xUhUtiWo",
+    },
+  ],
 } as const satisfies Track

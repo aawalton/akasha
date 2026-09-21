@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sByeByeBye = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "byebyebye|6tITG4T8LpC0msapZ4wXGA|144640",
   song: "song/the-holderness-family-bye-bye-bye",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 8,
+      externalId: "5DdkU39g2myZPnRPz86H65",
+      externalLink: "https://open.spotify.com/track/5DdkU39g2myZPnRPz86H65",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraTheGodsWeCanTouchHeathens = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "heathens|1WgXqy2Dd70QQOU7Ay074N|225093",
   song: "song/aurora-heathens",
+  carriedBy: [
+    {
+      release: "release/aurora-the-gods-we-can-touch",
+      discNumber: 1,
+      position: 7,
+      externalId: "1wtFmvGQtqWahPLVTlrr0K",
+      externalLink: "https://open.spotify.com/track/1wtFmvGQtqWahPLVTlrr0K",
+    },
+  ],
 } as const satisfies Track

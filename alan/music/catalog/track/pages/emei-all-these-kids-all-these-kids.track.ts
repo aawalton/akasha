@@ -25,4 +25,13 @@ export const emeiAllTheseKidsAllTheseKids = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "allthesekids|7E2aQQjErJocovYFjYLzWU|117091",
   song: "song/emei-all-these-kids",
+  carriedBy: [
+    {
+      release: "release/emei-all-these-kids",
+      discNumber: 1,
+      position: 1,
+      externalId: "4GCMUoBhLMELZ9yf1xHQbc",
+      externalLink: "https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc",
+    },
+  ],
 } as const satisfies Track

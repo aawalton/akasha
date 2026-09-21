@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheButterf
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thebutterfly|6NWtt9pNOL2Gx7kBykdE5x|180226",
   song: "song/celtic-woman-the-butterfly",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 4,
+      externalId: "51KJG8koxoIVNcuQeYINQp",
+      externalLink: "https://open.spotify.com/track/51KJG8koxoIVNcuQeYINQp",
+    },
+  ],
 } as const satisfies Track

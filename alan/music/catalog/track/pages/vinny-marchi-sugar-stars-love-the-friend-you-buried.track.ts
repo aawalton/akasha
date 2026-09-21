@@ -25,4 +25,13 @@ export const vinnyMarchiSugarStarsLoveTheFriendYouBuried = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lovethefriendyouburied|5USAMqcbMAzF3HBmeD5pJF|198748",
   song: "song/vinny-marchi-love-the-friend-you-buried",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-sugar-stars",
+      discNumber: 1,
+      position: 8,
+      externalId: "3RjCKCctSwmabMFIjP1Eqk",
+      externalLink: "https://open.spotify.com/track/3RjCKCctSwmabMFIjP1Eqk",
+    },
+  ],
 } as const satisfies Track

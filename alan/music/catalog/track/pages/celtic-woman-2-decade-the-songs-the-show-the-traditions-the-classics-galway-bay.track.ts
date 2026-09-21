@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsGalwayBay 
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "galwaybay|6NWtt9pNOL2Gx7kBykdE5x|254573",
   song: "song/celtic-woman-galway-bay",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 8,
+      externalId: "6zejBHVBDEgxapGkqT9fJ0",
+      externalLink: "https://open.spotify.com/track/6zejBHVBDEgxapGkqT9fJ0",
+    },
+  ],
 } as const satisfies Track

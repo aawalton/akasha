@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoOutOfTheAshes = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "outoftheashes|7FQRbf8gbKw8KZQZAJWxH2|221373",
   song: "song/paul-cardall-out-of-the-ashes",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 13,
+      externalId: "401671bNrYWakt7WxNohsG",
+      externalLink: "https://open.spotify.com/track/401671bNrYWakt7WxNohsG",
+    },
+  ],
 } as const satisfies Track

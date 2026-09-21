@@ -28,4 +28,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryAsLongAsYoureMine =
   ],
   trackKey: "aslongasyouremine|2Je7IdIHe8UvZbLXdapQ26,46UMQ0cW8ToR8egkBRwAxZ|246573",
   song: "song/ariana-grande-as-long-as-youre-mine",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 15,
+      externalId: "6teApADZl7JnENHdkAQ4Gm",
+      externalLink: "https://open.spotify.com/track/6teApADZl7JnENHdkAQ4Gm",
+    },
+  ],
 } as const satisfies Track

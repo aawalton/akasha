@@ -25,4 +25,13 @@ export const arianaGrandeKByeForNowSwtLiveRaindropsAnAngelCriedLive = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "raindropsanangelcriedlive|66CXWjxzNUsdJxJ2JdwvnR|43251",
   song: "song/ariana-grande-raindrops-an-angel-cried",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-k-bye-for-now-swt-live",
+      discNumber: 1,
+      position: 1,
+      externalId: "5SyCD1ic378B4rYWhDmuvo",
+      externalLink: "https://open.spotify.com/track/5SyCD1ic378B4rYWhDmuvo",
+    },
+  ],
 } as const satisfies Track

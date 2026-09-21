@@ -25,4 +25,13 @@ export const jamesTaylor2FlagUpOnTheRoof = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "upontheroof|0vn7UBvSQECKJm2817Yf1P|260066",
   song: "song/james-taylor-up-on-the-roof",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-flag",
+      discNumber: 1,
+      position: 10,
+      externalId: "2mFTBNC08f6Jfre31ynXlw",
+      externalLink: "https://open.spotify.com/track/2mFTBNC08f6Jfre31ynXlw",
+    },
+  ],
 } as const satisfies Track

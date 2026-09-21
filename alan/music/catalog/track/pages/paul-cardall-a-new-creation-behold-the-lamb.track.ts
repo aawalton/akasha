@@ -25,4 +25,13 @@ export const paulCardallANewCreationBeholdTheLamb = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "beholdthelamb|7FQRbf8gbKw8KZQZAJWxH2|92333",
   song: "song/paul-cardall-behold-the-lamb",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-new-creation",
+      discNumber: 1,
+      position: 6,
+      externalId: "2eoKgh60xFf7P5lIrjKgmd",
+      externalLink: "https://open.spotify.com/track/2eoKgh60xFf7P5lIrjKgmd",
+    },
+  ],
 } as const satisfies Track

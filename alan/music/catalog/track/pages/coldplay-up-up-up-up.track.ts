@@ -25,4 +25,13 @@ export const coldplayUpUpUpUp = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "upup|4gzpq5DPGxSnKTe4SA8HAU|238093",
   song: "song/coldplay-up-up",
+  carriedBy: [
+    {
+      release: "release/coldplay-up-up",
+      discNumber: 1,
+      position: 1,
+      externalId: "4a8pP5X2lxwU5aprY44jLn",
+      externalLink: "https://open.spotify.com/track/4a8pP5X2lxwU5aprY44jLn",
+    },
+  ],
 } as const satisfies Track

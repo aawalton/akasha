@@ -25,4 +25,13 @@ export const jamesTaylor2WalkingMan2019RemasterLetItAllFallDown2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "letitallfalldown2019remaster|0vn7UBvSQECKJm2817Yf1P|214600",
   song: "song/james-taylor-let-it-all-fall-down",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-walking-man-2019-remaster",
+      discNumber: 1,
+      position: 3,
+      externalId: "6tQQJUYPP9xNqkRg0cQdk6",
+      externalLink: "https://open.spotify.com/track/6tQQJUYPP9xNqkRg0cQdk6",
+    },
+  ],
 } as const satisfies Track

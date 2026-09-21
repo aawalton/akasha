@@ -29,4 +29,13 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinSofiaKourtesisRemix = {
   trackKey:
     "sometypeofskinsofiakourtesisremix|1WgXqy2Dd70QQOU7Ay074N,7wXTWO45lqpUejDkike0Gf|204693",
   song: "song/aurora-some-type-of-skin",
+  carriedBy: [
+    {
+      release: "release/aurora-some-type-of-skin",
+      discNumber: 1,
+      position: 3,
+      externalId: "3JESF4y5o29QYebTheGju0",
+      externalLink: "https://open.spotify.com/track/3JESF4y5o29QYebTheGju0",
+    },
+  ],
 } as const satisfies Track

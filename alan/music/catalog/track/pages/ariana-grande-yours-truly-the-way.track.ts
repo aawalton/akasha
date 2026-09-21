@@ -28,4 +28,13 @@ export const arianaGrandeYoursTrulyTheWay = {
   ],
   trackKey: "theway|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|227026",
   song: "song/ariana-grande-the-way",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 8,
+      externalId: "06EL94D0TA27Ik0Ke5usbj",
+      externalLink: "https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj",
+    },
+  ],
 } as const satisfies Track

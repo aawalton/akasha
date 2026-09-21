@@ -28,4 +28,13 @@ export const imagineDragonsBornToBeYoursBornToBeYours = {
   ],
   trackKey: "borntobeyours|23fqKkggKUBHNkbKtXEls4,53XhwfbYqKCa1cC15pYq2q|193320",
   song: "song/imagine-dragons-born-to-be-yours",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-born-to-be-yours",
+      discNumber: 1,
+      position: 1,
+      externalId: "0WVAQaxrT0wsGEG4BCVSn2",
+      externalLink: "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2",
+    },
+  ],
 } as const satisfies Track

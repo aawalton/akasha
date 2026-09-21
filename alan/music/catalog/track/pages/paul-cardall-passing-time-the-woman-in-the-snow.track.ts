@@ -25,4 +25,13 @@ export const paulCardallPassingTimeTheWomanInTheSnow = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thewomaninthesnow|7FQRbf8gbKw8KZQZAJWxH2|223137",
   song: "song/paul-cardall-the-woman-in-the-snow",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-passing-time",
+      discNumber: 1,
+      position: 5,
+      externalId: "05pIB1M8VNrVW8rUZroN6B",
+      externalLink: "https://open.spotify.com/track/05pIB1M8VNrVW8rUZroN6B",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuys2CharlieBrownMedley = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "charliebrownmedley|0jW6R8CVyVohuUJVcuweDI|184000",
   song: "song/the-piano-guys-charlie-brown-medley",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys-2",
+      discNumber: 1,
+      position: 9,
+      externalId: "1JTKFpBQZDTyBmJMz2CK6t",
+      externalLink: "https://open.spotify.com/track/1JTKFpBQZDTyBmJMz2CK6t",
+    },
+  ],
 } as const satisfies Track

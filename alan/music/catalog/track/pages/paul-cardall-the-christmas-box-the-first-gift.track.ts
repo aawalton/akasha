@@ -25,4 +25,13 @@ export const paulCardallTheChristmasBoxTheFirstGift = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thefirstgift|7FQRbf8gbKw8KZQZAJWxH2|135733",
   song: "song/paul-cardall-the-first-gift",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-christmas-box",
+      discNumber: 1,
+      position: 16,
+      externalId: "2Obpswn9eT5D6ueJH84kBu",
+      externalLink: "https://open.spotify.com/track/2Obpswn9eT5D6ueJH84kBu",
+    },
+  ],
 } as const satisfies Track

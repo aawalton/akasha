@@ -25,4 +25,13 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionWeAlmostBrokeUpAgain
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "wealmostbrokeupagainlastnight|74KM79TiuVKeVCqs8QtB0B|203379",
   song: "song/sabrina-carpenter-we-almost-broke-up-again-last-night",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+      discNumber: 1,
+      position: 5,
+      externalId: "69PnLdSIrV0lfKOW2wN551",
+      externalLink: "https://open.spotify.com/track/69PnLdSIrV0lfKOW2wN551",
+    },
+  ],
 } as const satisfies Track

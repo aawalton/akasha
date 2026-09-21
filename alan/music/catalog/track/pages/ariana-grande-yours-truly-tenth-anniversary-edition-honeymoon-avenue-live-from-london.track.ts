@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenueLiveFro
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "honeymoonavenuelivefromlondon|66CXWjxzNUsdJxJ2JdwvnR|295544",
   song: "song/ariana-grande-honeymoon-avenue",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 14,
+      externalId: "1ucNmUIwlCSNjla3a1qpfL",
+      externalLink: "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL",
+    },
+  ],
 } as const satisfies Track

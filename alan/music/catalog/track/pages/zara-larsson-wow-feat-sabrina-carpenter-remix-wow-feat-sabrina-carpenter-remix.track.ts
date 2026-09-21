@@ -28,4 +28,13 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemixWowFeatSabrinaCarpenterRemix
   ],
   trackKey: "wowfeatsabrinacarpenterremix|1Xylc3o4UrD53lo9CvFvVg,74KM79TiuVKeVCqs8QtB0B|179652",
   song: "song/zara-larsson-wow",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-wow-feat-sabrina-carpenter-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5WokFKscrfGEGGLPTu3jgO",
+      externalLink: "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO",
+    },
+  ],
 } as const satisfies Track

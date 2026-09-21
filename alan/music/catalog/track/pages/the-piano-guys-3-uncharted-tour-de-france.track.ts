@@ -25,4 +25,13 @@ export const thePianoGuys3UnchartedTourDeFrance = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "tourdefrance|0jW6R8CVyVohuUJVcuweDI|215625",
   song: "song/the-piano-guys-tour-de-france",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 10,
+      externalId: "28FzX6iJyT6c29jdP1uRZL",
+      externalLink: "https://open.spotify.com/track/28FzX6iJyT6c29jdP1uRZL",
+    },
+  ],
 } as const satisfies Track

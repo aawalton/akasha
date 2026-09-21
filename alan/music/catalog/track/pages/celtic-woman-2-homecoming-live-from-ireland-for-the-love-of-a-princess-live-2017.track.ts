@@ -25,4 +25,13 @@ export const celticWoman2HomecomingLiveFromIrelandForTheLoveOfAPrincessLive2017 
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "fortheloveofaprincesslive2017|6NWtt9pNOL2Gx7kBykdE5x|232440",
   song: "song/celtic-woman-for-the-love-of-a-princess",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-homecoming-live-from-ireland",
+      discNumber: 1,
+      position: 7,
+      externalId: "6JiXJ3BROFzFSTX5EmBYYO",
+      externalLink: "https://open.spotify.com/track/6JiXJ3BROFzFSTX5EmBYYO",
+    },
+  ],
 } as const satisfies Track

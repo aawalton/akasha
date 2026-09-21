@@ -25,4 +25,13 @@ export const auroraHalfTheWorldAwayHalfTheWorldAway = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "halftheworldaway|1WgXqy2Dd70QQOU7Ay074N|198133",
   song: "song/aurora-half-the-world-away",
+  carriedBy: [
+    {
+      release: "release/aurora-half-the-world-away",
+      discNumber: 1,
+      position: 1,
+      externalId: "1YiGzpKfesDgYODFyxmjcE",
+      externalLink: "https://open.spotify.com/track/1YiGzpKfesDgYODFyxmjcE",
+    },
+  ],
 } as const satisfies Track

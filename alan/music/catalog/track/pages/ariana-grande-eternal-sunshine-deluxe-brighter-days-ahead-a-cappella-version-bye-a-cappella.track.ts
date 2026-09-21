@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionB
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "byeacappella|66CXWjxzNUsdJxJ2JdwvnR|164391",
   song: "song/ariana-grande-bye",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+      discNumber: 1,
+      position: 21,
+      externalId: "1mecPNzAoBtbHrD9V95LtG",
+      externalLink: "https://open.spotify.com/track/1mecPNzAoBtbHrD9V95LtG",
+    },
+  ],
 } as const satisfies Track

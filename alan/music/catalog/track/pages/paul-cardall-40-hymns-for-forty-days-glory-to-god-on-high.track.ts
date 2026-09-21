@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysGloryToGodOnHigh = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "glorytogodonhigh|7FQRbf8gbKw8KZQZAJWxH2|152880",
   song: "song/paul-cardall-glory-to-god-on-high",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 20,
+      externalId: "284ibIhRiPz4qTk25hXker",
+      externalLink: "https://open.spotify.com/track/284ibIhRiPz4qTk25hXker",
+    },
+  ],
 } as const satisfies Track

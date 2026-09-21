@@ -25,4 +25,13 @@ export const coldplayVivaLaVidaProspektSMarchEditionGlassOfWater = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "glassofwater|4gzpq5DPGxSnKTe4SA8HAU|284905",
   song: "song/coldplay-glass-of-water",
+  carriedBy: [
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 3,
+      externalId: "0Y27miOkWnVymvOIA19BgU",
+      externalLink: "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU",
+    },
+  ],
 } as const satisfies Track

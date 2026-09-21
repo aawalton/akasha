@@ -25,4 +25,13 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHell = {
   trackArtist: [{ externalId: "56oDRnqbIiwx4mymNEv7dS", artistName: "Lizzo" }],
   trackKey: "goodashell|56oDRnqbIiwx4mymNEv7dS|159735",
   song: "song/ariana-grande-good-as-hell",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-good-as-hell-feat-ariana-grande-remix",
+      discNumber: 1,
+      position: 2,
+      externalId: "0UiuknFvxHL5jGnD8LpoaO",
+      externalLink: "https://open.spotify.com/track/0UiuknFvxHL5jGnD8LpoaO",
+    },
+  ],
 } as const satisfies Track

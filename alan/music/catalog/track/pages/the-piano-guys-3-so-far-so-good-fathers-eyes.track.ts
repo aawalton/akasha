@@ -25,4 +25,13 @@ export const thePianoGuys3SoFarSoGoodFathersEyes = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "fatherseyes|0jW6R8CVyVohuUJVcuweDI|234844",
   song: "song/the-piano-guys-fathers-eyes",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-so-far-so-good",
+      discNumber: 1,
+      position: 5,
+      externalId: "3YSwdpFAYzm5C0OQlenezw",
+      externalLink: "https://open.spotify.com/track/3YSwdpFAYzm5C0OQlenezw",
+    },
+  ],
 } as const satisfies Track

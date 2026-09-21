@@ -32,4 +32,13 @@ export const thePianoGuys3WayfaringStrangerWayfaringStranger = {
   trackKey:
     "wayfaringstranger|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5,1U5zgr455OGyIkLNXvDdrf,2Zpql3RdMQjunbDKk1bIiz,4kAIRZipPTtTbZBTudxcEA|232685",
   song: "song/the-piano-guys-wayfaring-stranger",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wayfaring-stranger",
+      discNumber: 1,
+      position: 1,
+      externalId: "0CPQpB7u7ieoxNwy2l2go1",
+      externalLink: "https://open.spotify.com/track/0CPQpB7u7ieoxNwy2l2go1",
+    },
+  ],
 } as const satisfies Track

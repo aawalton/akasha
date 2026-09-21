@@ -31,4 +31,13 @@ export const celticWoman2BelieveFollowOn = {
   trackKey:
     "followon|2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x,7lauB9o5ZYmU5lTBOw7w8L|289733",
   song: "song/celtic-woman-follow-on",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-believe",
+      discNumber: 1,
+      position: 8,
+      externalId: "4LSRTd4t15VC10F6gxgq0X",
+      externalLink: "https://open.spotify.com/track/4LSRTd4t15VC10F6gxgq0X",
+    },
+  ],
 } as const satisfies Track

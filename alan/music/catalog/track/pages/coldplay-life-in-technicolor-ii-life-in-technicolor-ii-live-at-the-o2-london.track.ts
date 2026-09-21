@@ -25,4 +25,13 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIiLiveAtTheO2London = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "lifeintechnicoloriiliveattheo2london|4gzpq5DPGxSnKTe4SA8HAU|216813",
   song: "song/coldplay-life-in-technicolor-ii",
+  carriedBy: [
+    {
+      release: "release/coldplay-life-in-technicolor-ii",
+      discNumber: 1,
+      position: 2,
+      externalId: "5kUpX8qTX6yXBJHK8UwBEF",
+      externalLink: "https://open.spotify.com/track/5kUpX8qTX6yXBJHK8UwBEF",
+    },
+  ],
 } as const satisfies Track

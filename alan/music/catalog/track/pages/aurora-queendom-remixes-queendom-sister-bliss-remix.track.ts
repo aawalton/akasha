@@ -28,4 +28,13 @@ export const auroraQueendomRemixesQueendomSisterBlissRemix = {
   ],
   trackKey: "queendomsisterblissremix|1WgXqy2Dd70QQOU7Ay074N,4tc9NREea7ncB7JzqdBsj5|378560",
   song: "song/aurora-queendom",
+  carriedBy: [
+    {
+      release: "release/aurora-queendom-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "15hCjVhqcEBlMxmjhu0o4x",
+      externalLink: "https://open.spotify.com/track/15hCjVhqcEBlMxmjhu0o4x",
+    },
+  ],
 } as const satisfies Track

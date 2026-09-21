@@ -25,4 +25,13 @@ export const sabrinaCarpenterEmailsICanTSendFwdOpposite = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "opposite|74KM79TiuVKeVCqs8QtB0B|168170",
   song: "song/sabrina-carpenter-opposite",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send-fwd",
+      discNumber: 1,
+      position: 14,
+      externalId: "27Jko74ZSVY1kwt0vMY6Pu",
+      externalLink: "https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu",
+    },
+  ],
 } as const satisfies Track

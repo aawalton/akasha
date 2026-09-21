@@ -25,4 +25,13 @@ export const sabrinaCarpenterEyesWideOpenRightNow = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "rightnow|74KM79TiuVKeVCqs8QtB0B|215226",
   song: "song/sabrina-carpenter-right-now",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-eyes-wide-open",
+      discNumber: 1,
+      position: 9,
+      externalId: "3hqJdqziOPbu422kXaOyII",
+      externalLink: "https://open.spotify.com/track/3hqJdqziOPbu422kXaOyII",
+    },
+  ],
 } as const satisfies Track

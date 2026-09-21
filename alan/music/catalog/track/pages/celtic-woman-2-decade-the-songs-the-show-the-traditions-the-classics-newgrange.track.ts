@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNewgrange 
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "newgrange|6NWtt9pNOL2Gx7kBykdE5x|187880",
   song: "song/celtic-woman-newgrange",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 4,
+      externalId: "27wPXrr3lC7X5iEkTqOmaB",
+      externalLink: "https://open.spotify.com/track/27wPXrr3lC7X5iEkTqOmaB",
+    },
+  ],
 } as const satisfies Track

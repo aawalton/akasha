@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTeirAbhail
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "teirabhaileriu|6NWtt9pNOL2Gx7kBykdE5x|244413",
   song: "song/celtic-woman-teir-abhaile-riu",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 5,
+      externalId: "0AmA8MQue1LBuYZSAdBMsj",
+      externalLink: "https://open.spotify.com/track/0AmA8MQue1LBuYZSAdBMsj",
+    },
+  ],
 } as const satisfies Track

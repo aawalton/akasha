@@ -25,4 +25,13 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "theworldturnedupsidedown|4gzpq5DPGxSnKTe4SA8HAU|272626",
   song: "song/coldplay-the-world-turned-upside-down",
+  carriedBy: [
+    {
+      release: "release/coldplay-fix-you-2",
+      discNumber: 1,
+      position: 2,
+      externalId: "29RjYJw9AahhQJaZgdPy2E",
+      externalLink: "https://open.spotify.com/track/29RjYJw9AahhQJaZgdPy2E",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayMoonMusicFullMoonEditionFeelslikeimfallinginlove = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "feelslikeimfallinginlove|4gzpq5DPGxSnKTe4SA8HAU|236230",
   song: "song/coldplay-feelslikeimfallinginlove",
+  carriedBy: [
+    {
+      release: "release/coldplay-moon-music-full-moon-edition",
+      discNumber: 1,
+      position: 2,
+      externalId: "5VSqvL5NLxBr7uMNfjwLt8",
+      externalLink: "https://open.spotify.com/track/5VSqvL5NLxBr7uMNfjwLt8",
+    },
+  ],
 } as const satisfies Track

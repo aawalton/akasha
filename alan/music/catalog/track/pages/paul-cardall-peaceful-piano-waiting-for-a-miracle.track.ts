@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoWaitingForAMiracle = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "waitingforamiracle|7FQRbf8gbKw8KZQZAJWxH2|215840",
   song: "song/paul-cardall-waiting-for-a-miracle",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 7,
+      externalId: "0O40EaaeL2hNMyX6U7L58N",
+      externalLink: "https://open.spotify.com/track/0O40EaaeL2hNMyX6U7L58N",
+    },
+  ],
 } as const satisfies Track

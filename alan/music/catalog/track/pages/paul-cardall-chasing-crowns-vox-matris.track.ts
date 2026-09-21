@@ -25,4 +25,13 @@ export const paulCardallChasingCrownsVoxMatris = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "voxmatris|7FQRbf8gbKw8KZQZAJWxH2|204000",
   song: "song/paul-cardall-vox-matris",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chasing-crowns",
+      discNumber: 1,
+      position: 13,
+      externalId: "6nOU97dwMTIdACrvQxF0DI",
+      externalLink: "https://open.spotify.com/track/6nOU97dwMTIdACrvQxF0DI",
+    },
+  ],
 } as const satisfies Track

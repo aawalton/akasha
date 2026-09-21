@@ -25,4 +25,13 @@ export const paulCardallChristmasHymnsCarolOfTheBells = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "carolofthebells|7FQRbf8gbKw8KZQZAJWxH2|326653",
   song: "song/paul-cardall-carol-of-the-bells",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas-hymns",
+      discNumber: 1,
+      position: 2,
+      externalId: "3pvJZWw19gTR7143IAYG7P",
+      externalLink: "https://open.spotify.com/track/3pvJZWw19gTR7143IAYG7P",
+    },
+  ],
 } as const satisfies Track

@@ -30,4 +30,13 @@ export const paulCardallChristmasDreamingJesuJoyOfMansDesiringBwv147ClassicalGui
   trackKey:
     "jesujoyofmansdesiringbwv147classicalguitar|2pzgrbowKM8SGmdK3YMcGq,3Lggrcbnv6PpisEqEVzjBr,7FQRbf8gbKw8KZQZAJWxH2|245957",
   song: "song/paul-cardall-jesu-joy-of-mans-desiring-bwv-147-classical-guitar",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas-dreaming",
+      discNumber: 1,
+      position: 1,
+      externalId: "5pjDo73OlMhv7qMY1JbYAG",
+      externalLink: "https://open.spotify.com/track/5pjDo73OlMhv7qMY1JbYAG",
+    },
+  ],
 } as const satisfies Track

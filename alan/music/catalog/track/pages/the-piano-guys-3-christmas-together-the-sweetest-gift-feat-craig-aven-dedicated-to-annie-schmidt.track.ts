@@ -29,4 +29,13 @@ export const thePianoGuys3ChristmasTogetherTheSweetestGiftFeatCraigAvenDedicated
   trackKey:
     "thesweetestgiftfeatcraigavendedicatedtoannieschmidt|0jW6R8CVyVohuUJVcuweDI,5gkAJbXodeD5sDQMdoBTrK|300062",
   song: "song/the-piano-guys-the-sweetest-gift-dedicated-to-annie-schmidt",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-christmas-together",
+      discNumber: 1,
+      position: 12,
+      externalId: "2Dp6T20e98MUI18h351Mty",
+      externalLink: "https://open.spotify.com/track/2Dp6T20e98MUI18h351Mty",
+    },
+  ],
 } as const satisfies Track

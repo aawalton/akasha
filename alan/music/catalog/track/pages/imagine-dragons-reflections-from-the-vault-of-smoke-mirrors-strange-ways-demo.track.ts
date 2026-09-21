@@ -25,4 +25,13 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsStrangeWaysDemo 
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "strangewaysdemo|53XhwfbYqKCa1cC15pYq2q|151100",
   song: "song/imagine-dragons-strange-ways",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors",
+      discNumber: 1,
+      position: 5,
+      externalId: "5UxcYdHHFutzDBUw3kqIvX",
+      externalLink: "https://open.spotify.com/track/5UxcYdHHFutzDBUw3kqIvX",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const arianaGrandeDangerousWomanIDontCare = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "idontcare|66CXWjxzNUsdJxJ2JdwvnR|178026",
   song: "song/ariana-grande-i-don-t-care",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman",
+      discNumber: 1,
+      position: 11,
+      externalId: "7xagQoIf776ukUlgH4TyyB",
+      externalLink: "https://open.spotify.com/track/7xagQoIf776ukUlgH4TyyB",
+    },
+  ],
 } as const satisfies Track

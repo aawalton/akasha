@@ -25,4 +25,13 @@ export const celticWoman2SoloHomeAndTheHeartland = {
   trackArtist: [{ externalId: "4VdV1ro3dBSsu1cRGwbFD3", artistName: "Lisa Kelly" }],
   trackKey: "homeandtheheartland|4VdV1ro3dBSsu1cRGwbFD3|200840",
   song: "song/celtic-woman-home-and-the-heartland",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-solo",
+      discNumber: 1,
+      position: 2,
+      externalId: "7BEHPIeAh2iuQqkOh3H2If",
+      externalLink: "https://open.spotify.com/track/7BEHPIeAh2iuQqkOh3H2If",
+    },
+  ],
 } as const satisfies Track

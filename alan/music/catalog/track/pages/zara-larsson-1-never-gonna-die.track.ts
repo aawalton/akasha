@@ -25,4 +25,13 @@ export const zaraLarsson1NeverGonnaDie = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "nevergonnadie|1Xylc3o4UrD53lo9CvFvVg|226282",
   song: "song/zara-larsson-never-gonna-die",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-1",
+      discNumber: 1,
+      position: 4,
+      externalId: "2iAsEQ50dfeAm5BRuSYdjR",
+      externalLink: "https://open.spotify.com/track/2iAsEQ50dfeAm5BRuSYdjR",
+    },
+  ],
 } as const satisfies Track

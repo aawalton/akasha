@@ -25,4 +25,13 @@ export const arianaGrandeSupernaturalSupernatural = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "supernatural|66CXWjxzNUsdJxJ2JdwvnR|163381",
   song: "song/ariana-grande-supernatural",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-supernatural",
+      discNumber: 1,
+      position: 1,
+      externalId: "5Tfrr45yeatPJJts3NkOBS",
+      externalLink: "https://open.spotify.com/track/5Tfrr45yeatPJJts3NkOBS",
+    },
+  ],
 } as const satisfies Track

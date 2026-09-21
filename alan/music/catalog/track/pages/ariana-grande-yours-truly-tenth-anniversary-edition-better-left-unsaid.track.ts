@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBetterLeftUnsaid = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "betterleftunsaid|66CXWjxzNUsdJxJ2JdwvnR|212838",
   song: "song/ariana-grande-better-left-unsaid",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 12,
+      externalId: "7v289GXTGa7BuLL6l1Y5ZA",
+      externalLink: "https://open.spotify.com/track/7v289GXTGa7BuLL6l1Y5ZA",
+    },
+  ],
 } as const satisfies Track

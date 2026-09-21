@@ -28,4 +28,13 @@ export const arianaGrandePositionsDeluxeOffTheTableWithTheWeeknd = {
   ],
   trackKey: "offthetablewiththeweeknd|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|239949",
   song: "song/ariana-grande-off-the-table",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions-deluxe",
+      discNumber: 1,
+      position: 5,
+      externalId: "1qKdid2S9fZdSrzLaCcjcF",
+      externalLink: "https://open.spotify.com/track/1qKdid2S9fZdSrzLaCcjcF",
+    },
+  ],
 } as const satisfies Track

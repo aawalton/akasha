@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionDaydreaminLiveFromLond
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "daydreaminlivefromlondon|66CXWjxzNUsdJxJ2JdwvnR|210300",
   song: "song/ariana-grande-daydreamin",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 15,
+      externalId: "63ahDGtV2EGSs6etOGrnkc",
+      externalLink: "https://open.spotify.com/track/63ahDGtV2EGSs6etOGrnkc",
+    },
+  ],
 } as const satisfies Track

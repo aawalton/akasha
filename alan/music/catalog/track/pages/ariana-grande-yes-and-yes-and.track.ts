@@ -25,4 +25,13 @@ export const arianaGrandeYesAndYesAnd = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "yesand|66CXWjxzNUsdJxJ2JdwvnR|214994",
   song: "song/ariana-grande-yes-and",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yes-and",
+      discNumber: 1,
+      position: 1,
+      externalId: "2ckw25vIQjnbN03XRwp55B",
+      externalLink: "https://open.spotify.com/track/2ckw25vIQjnbN03XRwp55B",
+    },
+  ],
 } as const satisfies Track

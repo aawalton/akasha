@@ -28,4 +28,13 @@ export const arianaGrandeBoyfriendBoyfriendWithSocialHouse = {
   ],
   trackKey: "boyfriendwithsocialhouse|5UjifI1TYefXWn9GdqDOHl,66CXWjxzNUsdJxJ2JdwvnR|186106",
   song: "song/ariana-grande-boyfriend",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-boyfriend",
+      discNumber: 1,
+      position: 1,
+      externalId: "0Ryd8975WihbObpp5cPW1t",
+      externalLink: "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t",
+    },
+  ],
 } as const satisfies Track

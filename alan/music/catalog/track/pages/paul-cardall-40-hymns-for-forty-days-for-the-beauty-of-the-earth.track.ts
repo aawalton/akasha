@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysForTheBeautyOfTheEarth = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "forthebeautyoftheearth|7FQRbf8gbKw8KZQZAJWxH2|104280",
   song: "song/paul-cardall-for-the-beauty-of-the-earth",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 13,
+      externalId: "5Hi7rALbqAeCYflbVjettL",
+      externalLink: "https://open.spotify.com/track/5Hi7rALbqAeCYflbVjettL",
+    },
+  ],
 } as const satisfies Track

@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAveMaria20
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "avemaria2011version|6NWtt9pNOL2Gx7kBykdE5x|258906",
   song: "song/celtic-woman-ave-maria",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 4,
+      position: 4,
+      externalId: "55xAkealJ5OuJ1osXkOeKX",
+      externalLink: "https://open.spotify.com/track/55xAkealJ5OuJ1osXkOeKX",
+    },
+  ],
 } as const satisfies Track

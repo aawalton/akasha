@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandMyTravelingStarLiveAtTheColonialTheatre2007 =
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "mytravelingstarliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|251426",
   song: "song/james-taylor-my-traveling-star",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 8,
+      externalId: "51v2EI90hWgZ8QtgWHxb0R",
+      externalLink: "https://open.spotify.com/track/51v2EI90hWgZ8QtgWHxb0R",
+    },
+  ],
 } as const satisfies Track

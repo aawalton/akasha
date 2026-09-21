@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe80sCantHelpWithHomeworkAnymore = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "canthelpwithhomeworkanymore|6tITG4T8LpC0msapZ4wXGA|214895",
   song: "song/the-holderness-family-cant-help-with-homework-anymore",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-80s",
+      discNumber: 1,
+      position: 12,
+      externalId: "5IiiaxhKeJnrO14HunkCtE",
+      externalLink: "https://open.spotify.com/track/5IiiaxhKeJnrO14HunkCtE",
+    },
+  ],
 } as const satisfies Track

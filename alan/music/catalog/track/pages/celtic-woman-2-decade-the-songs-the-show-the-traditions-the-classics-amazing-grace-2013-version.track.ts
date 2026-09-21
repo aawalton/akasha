@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAmazingGra
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "amazinggrace2013version|6NWtt9pNOL2Gx7kBykdE5x|349000",
   song: "song/celtic-woman-amazing-grace",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 8,
+      externalId: "2UiX54lWfiuAhRe3lElARZ",
+      externalLink: "https://open.spotify.com/track/2UiX54lWfiuAhRe3lElARZ",
+    },
+  ],
 } as const satisfies Track

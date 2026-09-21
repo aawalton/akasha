@@ -28,4 +28,13 @@ export const jamesTaylor2DadLovesHisWorkHerTownTooWithJDSouther = {
   ],
   trackKey: "hertowntoowithjdsouther|0I7UnRLIdCD310ZBgeuqh5,0vn7UBvSQECKJm2817Yf1P|274440",
   song: "song/james-taylor-her-town-too",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-dad-loves-his-work",
+      discNumber: 1,
+      position: 2,
+      externalId: "3ukAkL7aLVrDf7x2XiUkNZ",
+      externalLink: "https://open.spotify.com/track/3ukAkL7aLVrDf7x2XiUkNZ",
+    },
+  ],
 } as const satisfies Track

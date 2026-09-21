@@ -25,4 +25,13 @@ export const celticWoman2AncientLandDeluxeOrinocoFlow = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "orinocoflow|6NWtt9pNOL2Gx7kBykdE5x|232293",
   song: "song/celtic-woman-orinoco-flow",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land-deluxe",
+      discNumber: 1,
+      position: 20,
+      externalId: "7EVQbKJwWOzJSoYcph8mdE",
+      externalLink: "https://open.spotify.com/track/7EVQbKJwWOzJSoYcph8mdE",
+    },
+  ],
 } as const satisfies Track

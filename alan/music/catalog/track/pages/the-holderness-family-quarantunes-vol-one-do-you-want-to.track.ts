@@ -25,4 +25,13 @@ export const theHoldernessFamilyQuarantunesVolOneDoYouWantTo = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "doyouwantto|6tITG4T8LpC0msapZ4wXGA|185469",
   song: "song/the-holderness-family-do-you-want-to",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-quarantunes-vol-one",
+      discNumber: 1,
+      position: 10,
+      externalId: "5pveiSpWfJflILC0oZ6ygE",
+      externalLink: "https://open.spotify.com/track/5pveiSpWfJflILC0oZ6ygE",
+    },
+  ],
 } as const satisfies Track

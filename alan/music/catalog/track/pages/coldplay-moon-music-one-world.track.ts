@@ -25,4 +25,13 @@ export const coldplayMoonMusicOneWorld = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "oneworld|4gzpq5DPGxSnKTe4SA8HAU|407656",
   song: "song/coldplay-one-world",
+  carriedBy: [
+    {
+      release: "release/coldplay-moon-music",
+      discNumber: 1,
+      position: 10,
+      externalId: "7HFJpnjKUS7LGl8NiyfUE3",
+      externalLink: "https://open.spotify.com/track/7HFJpnjKUS7LGl8NiyfUE3",
+    },
+  ],
 } as const satisfies Track

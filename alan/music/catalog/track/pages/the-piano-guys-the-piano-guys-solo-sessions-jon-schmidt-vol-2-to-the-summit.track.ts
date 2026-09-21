@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2ToTheSummit = {
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "tothesummit|2YQ4MY2VwOMv43C0GemUY5|306964",
   song: "song/the-piano-guys-to-the-summit",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 6,
+      externalId: "0tRKhRuFAfUNgBLrktesNA",
+      externalLink: "https://open.spotify.com/track/0tRKhRuFAfUNgBLrktesNA",
+    },
+  ],
 } as const satisfies Track

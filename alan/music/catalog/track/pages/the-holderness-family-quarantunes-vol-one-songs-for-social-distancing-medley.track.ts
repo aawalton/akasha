@@ -25,4 +25,13 @@ export const theHoldernessFamilyQuarantunesVolOneSongsForSocialDistancingMedley 
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "songsforsocialdistancingmedley|6tITG4T8LpC0msapZ4wXGA|271177",
   song: "song/the-holderness-family-songs-for-social-distancing-medley",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-quarantunes-vol-one",
+      discNumber: 1,
+      position: 7,
+      externalId: "0bmdtHgl6tEvriTYIk3jov",
+      externalLink: "https://open.spotify.com/track/0bmdtHgl6tEvriTYIk3jov",
+    },
+  ],
 } as const satisfies Track

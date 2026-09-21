@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuys2Waterfall = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "waterfall|0jW6R8CVyVohuUJVcuweDI|184000",
   song: "song/the-piano-guys-waterfall",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys-2",
+      discNumber: 1,
+      position: 8,
+      externalId: "1XZR9unh2oXTn5aWG60ipY",
+      externalLink: "https://open.spotify.com/track/1XZR9unh2oXTn5aWG60ipY",
+    },
+  ],
 } as const satisfies Track

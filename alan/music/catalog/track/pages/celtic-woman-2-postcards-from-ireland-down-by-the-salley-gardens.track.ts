@@ -25,4 +25,13 @@ export const celticWoman2PostcardsFromIrelandDownByTheSalleyGardens = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "downbythesalleygardens|6NWtt9pNOL2Gx7kBykdE5x|250506",
   song: "song/celtic-woman-down-by-the-salley-gardens",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-postcards-from-ireland",
+      discNumber: 1,
+      position: 6,
+      externalId: "53zDmCSWRBJ63keLbMFUns",
+      externalLink: "https://open.spotify.com/track/53zDmCSWRBJ63keLbMFUns",
+    },
+  ],
 } as const satisfies Track

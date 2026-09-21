@@ -25,4 +25,13 @@ export const jamesTaylor2DadLovesHisWorkThatLonesomeRoad = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thatlonesomeroad|0vn7UBvSQECKJm2817Yf1P|141400",
   song: "song/james-taylor-that-lonesome-road",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-dad-loves-his-work",
+      discNumber: 1,
+      position: 11,
+      externalId: "04RAcppX0YjUqDYWy4nAix",
+      externalLink: "https://open.spotify.com/track/04RAcppX0YjUqDYWy4nAix",
+    },
+  ],
 } as const satisfies Track

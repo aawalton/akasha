@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2023StupidMentalHealthWalk = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "stupidmentalhealthwalk|6tITG4T8LpC0msapZ4wXGA|103800",
   song: "song/the-holderness-family-stupid-mental-health-walk",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2023",
+      discNumber: 1,
+      position: 8,
+      externalId: "37jT0vOT9Tv0bp9Aw5MeMd",
+      externalLink: "https://open.spotify.com/track/37jT0vOT9Tv0bp9Aw5MeMd",
+    },
+  ],
 } as const satisfies Track

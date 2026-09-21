@@ -25,4 +25,13 @@ export const vinnyMarchiHabaneraHabanera = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "habanera|5USAMqcbMAzF3HBmeD5pJF|130823",
   song: "song/vinny-marchi-habanera",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-habanera",
+      discNumber: 1,
+      position: 1,
+      externalId: "0YUjPFQEdInqgaZduX6UwV",
+      externalLink: "https://open.spotify.com/track/0YUjPFQEdInqgaZduX6UwV",
+    },
+  ],
 } as const satisfies Track

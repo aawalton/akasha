@@ -25,4 +25,13 @@ export const imagineDragonsEvolveWalkingTheWire = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "walkingthewire|53XhwfbYqKCa1cC15pYq2q|232906",
   song: "song/imagine-dragons-walking-the-wire",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-evolve",
+      discNumber: 1,
+      position: 5,
+      externalId: "1y3bE5i57eUm3hfLAc7h08",
+      externalLink: "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08",
+    },
+  ],
 } as const satisfies Track

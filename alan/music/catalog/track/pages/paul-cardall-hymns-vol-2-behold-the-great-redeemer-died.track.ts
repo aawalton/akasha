@@ -25,4 +25,13 @@ export const paulCardallHymnsVol2BeholdTheGreatRedeemerDied = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "beholdthegreatredeemerdied|7FQRbf8gbKw8KZQZAJWxH2|241386",
   song: "song/paul-cardall-behold-the-great-redeemer-died",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-hymns-vol-2",
+      discNumber: 1,
+      position: 3,
+      externalId: "4Z1pp0ExQ36cTX2bg3dAFZ",
+      externalLink: "https://open.spotify.com/track/4Z1pp0ExQ36cTX2bg3dAFZ",
+    },
+  ],
 } as const satisfies Track

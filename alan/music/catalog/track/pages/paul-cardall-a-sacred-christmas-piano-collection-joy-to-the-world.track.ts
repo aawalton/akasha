@@ -25,4 +25,13 @@ export const paulCardallASacredChristmasPianoCollectionJoyToTheWorld = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "joytotheworld|7FQRbf8gbKw8KZQZAJWxH2|133093",
   song: "song/celtic-woman-joy-to-the-world",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-sacred-christmas-piano-collection",
+      discNumber: 1,
+      position: 12,
+      externalId: "1Cu4Xc1z7C25cVjKFTmA1M",
+      externalLink: "https://open.spotify.com/track/1Cu4Xc1z7C25cVjKFTmA1M",
+    },
+  ],
 } as const satisfies Track

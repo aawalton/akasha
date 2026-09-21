@@ -30,4 +30,13 @@ export const auroraComeCloserWavelengths = {
   trackKey:
     "wavelengths|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|327346",
   song: "song/aurora-wavelengths",
+  carriedBy: [
+    {
+      release: "release/aurora-come-closer",
+      discNumber: 1,
+      position: 9,
+      externalId: "5RKxMGzcvhdXtBQjOAC4Fu",
+      externalLink: "https://open.spotify.com/track/5RKxMGzcvhdXtBQjOAC4Fu",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsChaChingTillWeGrowOlder = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "chachingtillwegrowolder|53XhwfbYqKCa1cC15pYq2q|248800",
   song: "song/imagine-dragons-cha-ching-till-we-grow-older",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions",
+      discNumber: 1,
+      position: 12,
+      externalId: "1OppUXF0ZsVATRbEyHOTyA",
+      externalLink: "https://open.spotify.com/track/1OppUXF0ZsVATRbEyHOTyA",
+    },
+  ],
 } as const satisfies Track

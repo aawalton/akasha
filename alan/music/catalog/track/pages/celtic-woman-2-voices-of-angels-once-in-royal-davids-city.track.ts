@@ -25,4 +25,13 @@ export const celticWoman2VoicesOfAngelsOnceInRoyalDavidsCity = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "onceinroyaldavidscity|6NWtt9pNOL2Gx7kBykdE5x|248520",
   song: "song/celtic-woman-once-in-royal-davids-city",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-voices-of-angels",
+      discNumber: 1,
+      position: 16,
+      externalId: "1PMpwx5soGesi1tZ2RM9po",
+      externalLink: "https://open.spotify.com/track/1PMpwx5soGesi1tZ2RM9po",
+    },
+  ],
 } as const satisfies Track

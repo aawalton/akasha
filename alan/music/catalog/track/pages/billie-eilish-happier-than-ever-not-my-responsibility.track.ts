@@ -25,4 +25,13 @@ export const billieEilishHappierThanEverNotMyResponsibility = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "notmyresponsibility|6qqNVTkY8uBg9cP3Jd7DAH|227679",
   song: "song/billie-eilish-not-my-responsibility",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-happier-than-ever",
+      discNumber: 1,
+      position: 9,
+      externalId: "4T2zre0jqstNJ5Gt0WG9lz",
+      externalLink: "https://open.spotify.com/track/4T2zre0jqstNJ5Gt0WG9lz",
+    },
+  ],
 } as const satisfies Track

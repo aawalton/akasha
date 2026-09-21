@@ -28,4 +28,13 @@ export const coldplaySomethingJustLikeThisTokyoRemixSomethingJustLikeThisTokyoRe
   ],
   trackKey: "somethingjustlikethistokyoremix|4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|272986",
   song: "song/coldplay-something-just-like-this",
+  carriedBy: [
+    {
+      release: "release/coldplay-something-just-like-this-tokyo-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5ffwnb6hqsKZp8cG6q90OW",
+      externalLink: "https://open.spotify.com/track/5ffwnb6hqsKZp8cG6q90OW",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiBushwickBelleBeforeWeSayGoodbye = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "beforewesaygoodbye|5USAMqcbMAzF3HBmeD5pJF|132057",
   song: "song/vinny-marchi-before-we-say-goodbye",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-bushwick-belle",
+      discNumber: 1,
+      position: 10,
+      externalId: "1yfOUAMTpkTDdBVBxhacy7",
+      externalLink: "https://open.spotify.com/track/1yfOUAMTpkTDdBVBxhacy7",
+    },
+  ],
 } as const satisfies Track

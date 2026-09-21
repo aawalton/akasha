@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBeyondTheS
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "beyondthesea|6NWtt9pNOL2Gx7kBykdE5x|202773",
   song: "song/celtic-woman-beyond-the-sea",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 12,
+      externalId: "41m0atnB0zTTwo7lnxEZzx",
+      externalLink: "https://open.spotify.com/track/41m0atnB0zTTwo7lnxEZzx",
+    },
+  ],
 } as const satisfies Track

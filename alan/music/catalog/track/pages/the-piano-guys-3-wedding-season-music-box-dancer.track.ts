@@ -25,4 +25,13 @@ export const thePianoGuys3WeddingSeasonMusicBoxDancer = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "musicboxdancer|0jW6R8CVyVohuUJVcuweDI|162976",
   song: "song/the-piano-guys-music-box-dancer",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 7,
+      externalId: "4SY0d35f02KvJFsgErPS6h",
+      externalLink: "https://open.spotify.com/track/4SY0d35f02KvJFsgErPS6h",
+    },
+  ],
 } as const satisfies Track

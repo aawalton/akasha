@@ -25,4 +25,13 @@ export const paulCardallTheChristmasBoxTheDen = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "theden|7FQRbf8gbKw8KZQZAJWxH2|135493",
   song: "song/paul-cardall-the-den",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-christmas-box",
+      discNumber: 1,
+      position: 6,
+      externalId: "3XD6ZjndAIEUCUcqQkVdHg",
+      externalLink: "https://open.spotify.com/track/3XD6ZjndAIEUCUcqQkVdHg",
+    },
+  ],
 } as const satisfies Track

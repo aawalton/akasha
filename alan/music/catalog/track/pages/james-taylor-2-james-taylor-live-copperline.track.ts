@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveCopperline = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "copperline|0vn7UBvSQECKJm2817Yf1P|279266",
   song: "song/james-taylor-copperline",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 8,
+      externalId: "3GuCDFyTO1FDhWgbhCkg0A",
+      externalLink: "https://open.spotify.com/track/3GuCDFyTO1FDhWgbhCkg0A",
+    },
+  ],
 } as const satisfies Track

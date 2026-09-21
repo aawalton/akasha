@@ -25,4 +25,13 @@ export const arianaGrandeThankUNext7Rings = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "7rings|66CXWjxzNUsdJxJ2JdwvnR|178626",
   song: "song/ariana-grande-7-rings",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-thank-u-next",
+      discNumber: 1,
+      position: 10,
+      externalId: "6ocbgoVGwYJhOv1GgI9NsF",
+      externalLink: "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
+    },
+  ],
 } as const satisfies Track

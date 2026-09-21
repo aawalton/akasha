@@ -25,4 +25,13 @@ export const paulCardallAncestorsFathersBlessing = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fathersblessing|7FQRbf8gbKw8KZQZAJWxH2|150875",
   song: "song/paul-cardall-fathers-blessing",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ancestors",
+      discNumber: 1,
+      position: 3,
+      externalId: "0ox8o0CzqcrrPtyvegnJ5w",
+      externalLink: "https://open.spotify.com/track/0ox8o0CzqcrrPtyvegnJ5w",
+    },
+  ],
 } as const satisfies Track

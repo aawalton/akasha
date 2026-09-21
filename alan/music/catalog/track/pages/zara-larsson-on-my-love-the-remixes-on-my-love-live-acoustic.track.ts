@@ -28,4 +28,13 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveLiveAcoustic = {
   ],
   trackKey: "onmyloveliveacoustic|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg|224428",
   song: "song/zara-larsson-on-my-love",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-on-my-love-the-remixes",
+      discNumber: 1,
+      position: 5,
+      externalId: "3SgfNBqzHqp8iHyXMzUTyy",
+      externalLink: "https://open.spotify.com/track/3SgfNBqzHqp8iHyXMzUTyy",
+    },
+  ],
 } as const satisfies Track

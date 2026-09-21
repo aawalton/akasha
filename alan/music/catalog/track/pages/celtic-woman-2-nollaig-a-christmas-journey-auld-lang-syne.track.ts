@@ -25,4 +25,13 @@ export const celticWoman2NollaigAChristmasJourneyAuldLangSyne = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "auldlangsyne|6NWtt9pNOL2Gx7kBykdE5x|290390",
   song: "song/celtic-woman-auld-lang-syne",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-nollaig-a-christmas-journey",
+      discNumber: 1,
+      position: 13,
+      externalId: "1t79LXQPNraqRkd3pl540N",
+      externalLink: "https://open.spotify.com/track/1t79LXQPNraqRkd3pl540N",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const billieEilishSixFeetUnderSixFeetUnder = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "sixfeetunder|6qqNVTkY8uBg9cP3Jd7DAH|189613",
   song: "song/billie-eilish-six-feet-under",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-six-feet-under",
+      discNumber: 1,
+      position: 1,
+      externalId: "2VlLbhGLVJgdOW7kKdWWFc",
+      externalLink: "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc",
+    },
+  ],
 } as const satisfies Track

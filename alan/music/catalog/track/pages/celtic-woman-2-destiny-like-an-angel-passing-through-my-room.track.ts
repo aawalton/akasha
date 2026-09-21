@@ -25,4 +25,13 @@ export const celticWoman2DestinyLikeAnAngelPassingThroughMyRoom = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "likeanangelpassingthroughmyroom|6NWtt9pNOL2Gx7kBykdE5x|316051",
   song: "song/celtic-woman-like-an-angel-passing-through-my-room",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-destiny",
+      discNumber: 1,
+      position: 14,
+      externalId: "3GHWScApxbXmNopwKIlMfS",
+      externalLink: "https://open.spotify.com/track/3GHWScApxbXmNopwKIlMfS",
+    },
+  ],
 } as const satisfies Track

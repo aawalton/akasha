@@ -25,4 +25,13 @@ export const jamesTaylor2OneManDog2019RemasterNobodyButYou2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "nobodybutyou2019remaster|0vn7UBvSQECKJm2817Yf1P|177307",
   song: "song/james-taylor-nobody-but-you",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-dog-2019-remaster",
+      discNumber: 1,
+      position: 2,
+      externalId: "3vfzNcxMkG1l4notrqbvZd",
+      externalLink: "https://open.spotify.com/track/3vfzNcxMkG1l4notrqbvZd",
+    },
+  ],
 } as const satisfies Track

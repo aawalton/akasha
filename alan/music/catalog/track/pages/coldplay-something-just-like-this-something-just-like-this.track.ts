@@ -28,4 +28,13 @@ export const coldplaySomethingJustLikeThisSomethingJustLikeThis = {
   ],
   trackKey: "somethingjustlikethis|4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|247626",
   song: "song/coldplay-something-just-like-this",
+  carriedBy: [
+    {
+      release: "release/coldplay-something-just-like-this",
+      discNumber: 1,
+      position: 1,
+      externalId: "1dNIEtp7AY3oDAKCGg2XkH",
+      externalLink: "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH",
+    },
+  ],
 } as const satisfies Track

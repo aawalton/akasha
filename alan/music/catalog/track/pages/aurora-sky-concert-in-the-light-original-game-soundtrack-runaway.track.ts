@@ -25,4 +25,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackRunaway = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runaway|1WgXqy2Dd70QQOU7Ay074N|250000",
   song: "song/aurora-runaway",
+  carriedBy: [
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 5,
+      externalId: "1bgZ0ikpLnlq8Th8BacqgG",
+      externalLink: "https://open.spotify.com/track/1bgZ0ikpLnlq8Th8BacqgG",
+    },
+  ],
 } as const satisfies Track

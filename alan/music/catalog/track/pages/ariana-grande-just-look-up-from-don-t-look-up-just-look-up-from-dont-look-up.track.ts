@@ -28,4 +28,13 @@ export const arianaGrandeJustLookUpFromDonTLookUpJustLookUpFromDontLookUp = {
   ],
   trackKey: "justlookupfromdontlookup|0fA0VVWsXO9YnASrzqfmYu,66CXWjxzNUsdJxJ2JdwvnR|201667",
   song: "song/ariana-grande-just-look-up-from-dont-look-up",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-just-look-up-from-don-t-look-up",
+      discNumber: 1,
+      position: 1,
+      externalId: "3QPBocWfIcOCdFFvmqn60F",
+      externalLink: "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F",
+    },
+  ],
 } as const satisfies Track

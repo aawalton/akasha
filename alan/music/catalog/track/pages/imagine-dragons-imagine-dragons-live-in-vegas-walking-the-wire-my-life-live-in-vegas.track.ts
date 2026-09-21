@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsLiveInVegasWalkingTheWireMyLifeLiveInVe
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "walkingthewiremylifeliveinvegas|53XhwfbYqKCa1cC15pYq2q|392099",
   song: "song/imagine-dragons-walking-the-wire-my-life",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-live-in-vegas",
+      discNumber: 1,
+      position: 23,
+      externalId: "79Dw44YYmsTgYgGqvGyhAe",
+      externalLink: "https://open.spotify.com/track/79Dw44YYmsTgYgGqvGyhAe",
+    },
+  ],
 } as const satisfies Track

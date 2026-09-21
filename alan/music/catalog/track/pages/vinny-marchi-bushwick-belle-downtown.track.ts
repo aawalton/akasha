@@ -25,4 +25,13 @@ export const vinnyMarchiBushwickBelleDowntown = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "downtown|5USAMqcbMAzF3HBmeD5pJF|204137",
   song: "song/vinny-marchi-downtown",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-bushwick-belle",
+      discNumber: 1,
+      position: 2,
+      externalId: "4LQKy6ifOt6doOH157akvv",
+      externalLink: "https://open.spotify.com/track/4LQKy6ifOt6doOH157akvv",
+    },
+  ],
 } as const satisfies Track

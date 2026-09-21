@@ -25,4 +25,13 @@ export const musicalTheaterWickedTheSoundtrackOzdustDuetBonusTrack = {
   trackArtist: [{ externalId: "0bVjGR347nlhO79Z3i881P", artistName: "The Wicked Orchestra" }],
   trackKey: "ozdustduetbonustrack|0bVjGR347nlhO79Z3i881P|131863",
   song: "song/the-wicked-orchestra-ozdust-duet-bonus-track",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 12,
+      externalId: "5oUggqlg7zOto1unBbj393",
+      externalLink: "https://open.spotify.com/track/5oUggqlg7zOto1unBbj393",
+    },
+  ],
 } as const satisfies Track

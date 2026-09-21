@@ -25,4 +25,13 @@ export const coldplayMusicOfTheSpheresPeopleOfThePride = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "peopleofthepride|4gzpq5DPGxSnKTe4SA8HAU|217266",
   song: "song/coldplay-people-of-the-pride",
+  carriedBy: [
+    {
+      release: "release/coldplay-music-of-the-spheres",
+      discNumber: 1,
+      position: 7,
+      externalId: "5ophZLHA9mwSZhQSmboyDN",
+      externalLink: "https://open.spotify.com/track/5ophZLHA9mwSZhQSmboyDN",
+    },
+  ],
 } as const satisfies Track

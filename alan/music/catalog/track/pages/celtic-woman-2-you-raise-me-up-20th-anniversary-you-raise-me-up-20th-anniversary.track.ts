@@ -25,4 +25,13 @@ export const celticWoman2YouRaiseMeUp20thAnniversaryYouRaiseMeUp20thAnniversary 
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "youraisemeup20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|256000",
   song: "song/celtic-woman-you-raise-me-up-20th-anniversary",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-you-raise-me-up-20th-anniversary",
+      discNumber: 1,
+      position: 1,
+      externalId: "6pWsCoyfUgcfC3OiHe1DF9",
+      externalLink: "https://open.spotify.com/track/6pWsCoyfUgcfC3OiHe1DF9",
+    },
+  ],
 } as const satisfies Track

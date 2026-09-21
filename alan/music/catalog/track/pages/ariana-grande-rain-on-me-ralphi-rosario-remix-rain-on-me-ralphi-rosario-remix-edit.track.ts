@@ -30,4 +30,13 @@ export const arianaGrandeRainOnMeRalphiRosarioRemixRainOnMeRalphiRosarioRemixEdi
   trackKey:
     "rainonmeralphirosarioremixedit|0c5584rnmlOvkMpJtpBLTh,1HY2Jd0NmPuamShAr6KMms,66CXWjxzNUsdJxJ2JdwvnR|238080",
   song: "song/ariana-grande-rain-on-me",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-rain-on-me-ralphi-rosario-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5QWJYANfFO2WieIDFTRwWL",
+      externalLink: "https://open.spotify.com/track/5QWJYANfFO2WieIDFTRwWL",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const jisooEyesClosedWithZayn2xEyesClosedWithZayn05x = {
   ],
   trackKey: "eyesclosedwithzayn05x|5ZsFI1h6hIdQRw2ti0hz81,6UZ0ba50XreR4TM8u322gs|189405",
   song: "song/jisoo-eyes-closed-0-5x",
+  carriedBy: [
+    {
+      release: "release/jisoo-eyes-closed-with-zayn-2x",
+      discNumber: 1,
+      position: 2,
+      externalId: "0eOpWsum2W5l1KLxJ4QVcM",
+      externalLink: "https://open.spotify.com/track/0eOpWsum2W5l1KLxJ4QVcM",
+    },
+  ],
 } as const satisfies Track

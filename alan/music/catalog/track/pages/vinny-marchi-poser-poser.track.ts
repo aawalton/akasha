@@ -25,4 +25,13 @@ export const vinnyMarchiPoserPoser = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "poser|5USAMqcbMAzF3HBmeD5pJF|163808",
   song: "song/vinny-marchi-poser",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-poser",
+      discNumber: 1,
+      position: 1,
+      externalId: "3YAVYFHT3DPMpYK326yat3",
+      externalLink: "https://open.spotify.com/track/3YAVYFHT3DPMpYK326yat3",
+    },
+  ],
 } as const satisfies Track

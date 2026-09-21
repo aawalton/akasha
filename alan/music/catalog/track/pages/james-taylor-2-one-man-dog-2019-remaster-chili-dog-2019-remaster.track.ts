@@ -25,4 +25,13 @@ export const jamesTaylor2OneManDog2019RemasterChiliDog2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "chilidog2019remaster|0vn7UBvSQECKJm2817Yf1P|95313",
   song: "song/james-taylor-chili-dog",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-dog-2019-remaster",
+      discNumber: 1,
+      position: 3,
+      externalId: "3JPCUpXLBko82JQr2AJq4j",
+      externalLink: "https://open.spotify.com/track/3JPCUpXLBko82JQr2AJq4j",
+    },
+  ],
 } as const satisfies Track

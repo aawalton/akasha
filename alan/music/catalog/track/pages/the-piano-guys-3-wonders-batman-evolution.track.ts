@@ -25,4 +25,13 @@ export const thePianoGuys3WondersBatmanEvolution = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "batmanevolution|0jW6R8CVyVohuUJVcuweDI|249546",
   song: "song/the-piano-guys-batman-evolution",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wonders",
+      discNumber: 1,
+      position: 7,
+      externalId: "6ibZXyBDdozPtgmqM0mPvm",
+      externalLink: "https://open.spotify.com/track/6ibZXyBDdozPtgmqM0mPvm",
+    },
+  ],
 } as const satisfies Track

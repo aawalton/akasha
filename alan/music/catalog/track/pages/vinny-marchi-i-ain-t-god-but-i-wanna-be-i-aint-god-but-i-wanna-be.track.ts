@@ -25,4 +25,13 @@ export const vinnyMarchiIAinTGodButIWannaBeIAintGodButIWannaBe = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "iaintgodbutiwannabe|5USAMqcbMAzF3HBmeD5pJF|208000",
   song: "song/vinny-marchi-i-aint-god-but-i-wanna-be",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-i-ain-t-god-but-i-wanna-be",
+      discNumber: 1,
+      position: 1,
+      externalId: "6NJ6U8vhvrakwAaofH9YVQ",
+      externalLink: "https://open.spotify.com/track/6NJ6U8vhvrakwAaofH9YVQ",
+    },
+  ],
 } as const satisfies Track

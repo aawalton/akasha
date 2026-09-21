@@ -25,4 +25,13 @@ export const coldplayLive2003GodPutASmileUponYourFaceLiveInSydney = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "godputasmileuponyourfaceliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|296760",
   song: "song/coldplay-god-put-a-smile-upon-your-face",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-2003",
+      discNumber: 1,
+      position: 2,
+      externalId: "6R2ZKXEdEEYXiODsC9Fr4L",
+      externalLink: "https://open.spotify.com/track/6R2ZKXEdEEYXiODsC9Fr4L",
+    },
+  ],
 } as const satisfies Track

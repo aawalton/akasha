@@ -25,4 +25,13 @@ export const coldplayLive2003EverythingsNotLostLiveInSydney = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everythingsnotlostliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|527826",
   song: "song/coldplay-everythings-not-lost",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-2003",
+      discNumber: 1,
+      position: 7,
+      externalId: "7IWbp0yWEF8nNjMLbKF0pU",
+      externalLink: "https://open.spotify.com/track/7IWbp0yWEF8nNjMLbKF0pU",
+    },
+  ],
 } as const satisfies Track

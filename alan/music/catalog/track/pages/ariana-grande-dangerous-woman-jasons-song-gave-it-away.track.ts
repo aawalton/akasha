@@ -25,4 +25,13 @@ export const arianaGrandeDangerousWomanJasonsSongGaveItAway = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "jasonssonggaveitaway|66CXWjxzNUsdJxJ2JdwvnR|264640",
   song: "song/ariana-grande-jasons-song-gave-it-away",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman",
+      discNumber: 1,
+      position: 17,
+      externalId: "0kngSEayfCOjR8w83R7vAT",
+      externalLink: "https://open.spotify.com/track/0kngSEayfCOjR8w83R7vAT",
+    },
+  ],
 } as const satisfies Track

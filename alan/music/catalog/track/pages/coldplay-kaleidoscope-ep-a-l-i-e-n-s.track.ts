@@ -25,4 +25,13 @@ export const coldplayKaleidoscopeEpALIENS = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "aliens|4gzpq5DPGxSnKTe4SA8HAU|282426",
   song: "song/coldplay-a-l-i-e-n-s",
+  carriedBy: [
+    {
+      release: "release/coldplay-kaleidoscope-ep",
+      discNumber: 1,
+      position: 3,
+      externalId: "2bS2ADg123NZWfTUsjra8a",
+      externalLink: "https://open.spotify.com/track/2bS2ADg123NZWfTUsjra8a",
+    },
+  ],
 } as const satisfies Track

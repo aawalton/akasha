@@ -28,4 +28,13 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMeLive = {
   ],
   trackKey: "santacantyouhearmelive|3BmGtnKgCSGYIUhmivXKWX,66CXWjxzNUsdJxJ2JdwvnR|225578",
   song: "song/kelly-clarkson-santa-cant-you-hear-me",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-santa-can-t-you-hear-me-live",
+      discNumber: 1,
+      position: 1,
+      externalId: "5ahXNwWh68Oohss2j2jDnl",
+      externalLink: "https://open.spotify.com/track/5ahXNwWh68Oohss2j2jDnl",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayLiveInBuenosAiresGodPutASmileUponYourFaceLiveInBuenosAires 
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "godputasmileuponyourfaceliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|274053",
   song: "song/coldplay-god-put-a-smile-upon-your-face",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-in-buenos-aires",
+      discNumber: 1,
+      position: 5,
+      externalId: "2q8WO601qIwLwV4DgXDCiO",
+      externalLink: "https://open.spotify.com/track/2q8WO601qIwLwV4DgXDCiO",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2AChristmasCelebrationDingDongMerrilyOnHigh = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "dingdongmerrilyonhigh|6NWtt9pNOL2Gx7kBykdE5x|166986",
   song: "song/celtic-woman-ding-dong-merrily-on-high",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-a-christmas-celebration",
+      discNumber: 1,
+      position: 3,
+      externalId: "06SJ2wV2M3xRw4Eag4HvOm",
+      externalLink: "https://open.spotify.com/track/06SJ2wV2M3xRw4Eag4HvOm",
+    },
+  ],
 } as const satisfies Track

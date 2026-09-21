@@ -25,4 +25,13 @@ export const celticWoman2VoicesOfAngelsMoGhileMearMyGallantStar = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemearmygallantstar|6NWtt9pNOL2Gx7kBykdE5x|216893",
   song: "song/celtic-woman-mo-ghile-mear-my-gallant-star",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-voices-of-angels",
+      discNumber: 1,
+      position: 4,
+      externalId: "5mc5e6EN95pywzdd9cpIWn",
+      externalLink: "https://open.spotify.com/track/5mc5e6EN95pywzdd9cpIWn",
+    },
+  ],
 } as const satisfies Track

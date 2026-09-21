@@ -28,4 +28,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheLightBeyond = {
   ],
   trackKey: "thelightbeyond|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|201000",
   song: "song/aurora-the-light-beyond",
+  carriedBy: [
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 15,
+      externalId: "2sKihqEADHU38Eu3LQFqAR",
+      externalLink: "https://open.spotify.com/track/2sKihqEADHU38Eu3LQFqAR",
+    },
+  ],
 } as const satisfies Track

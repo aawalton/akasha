@@ -25,4 +25,13 @@ export const coldplayClocksAnimals = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "animals|4gzpq5DPGxSnKTe4SA8HAU|333266",
   song: "song/coldplay-animals",
+  carriedBy: [
+    {
+      release: "release/coldplay-clocks",
+      discNumber: 1,
+      position: 3,
+      externalId: "59tjfzA98dum1TXhJ4XWoe",
+      externalLink: "https://open.spotify.com/track/59tjfzA98dum1TXhJ4XWoe",
+    },
+  ],
 } as const satisfies Track

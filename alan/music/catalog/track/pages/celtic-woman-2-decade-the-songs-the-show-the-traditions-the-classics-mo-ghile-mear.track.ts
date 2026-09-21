@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMoGhileMea
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemear|6NWtt9pNOL2Gx7kBykdE5x|290893",
   song: "song/celtic-woman-mo-ghile-mear",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 1,
+      externalId: "2nDYhkqz66SaPSZbAUwxbP",
+      externalLink: "https://open.spotify.com/track/2nDYhkqz66SaPSZbAUwxbP",
+    },
+  ],
 } as const satisfies Track

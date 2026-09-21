@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsLiveInVegasWhateverItTakesLiveInVegas =
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "whateverittakesliveinvegas|53XhwfbYqKCa1cC15pYq2q|323653",
   song: "song/imagine-dragons-whatever-it-takes",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-live-in-vegas",
+      discNumber: 1,
+      position: 14,
+      externalId: "5nASdE2ijIfq0cIG4VZCgW",
+      externalLink: "https://open.spotify.com/track/5nASdE2ijIfq0cIG4VZCgW",
+    },
+  ],
 } as const satisfies Track

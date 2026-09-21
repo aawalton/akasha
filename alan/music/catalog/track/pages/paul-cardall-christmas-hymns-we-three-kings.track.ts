@@ -25,4 +25,13 @@ export const paulCardallChristmasHymnsWeThreeKings = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "wethreekings|7FQRbf8gbKw8KZQZAJWxH2|322320",
   song: "song/paul-cardall-we-three-kings",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas-hymns",
+      discNumber: 1,
+      position: 4,
+      externalId: "4j7ifaHv7N34zbP3Gxo5mn",
+      externalLink: "https://open.spotify.com/track/4j7ifaHv7N34zbP3Gxo5mn",
+    },
+  ],
 } as const satisfies Track

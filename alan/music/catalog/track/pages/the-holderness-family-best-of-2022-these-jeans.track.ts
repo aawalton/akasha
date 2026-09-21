@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOf2022TheseJeans = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "thesejeans|6tITG4T8LpC0msapZ4wXGA|179903",
   song: "song/the-holderness-family-these-jeans",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-2022",
+      discNumber: 1,
+      position: 13,
+      externalId: "1DQ5mGJxNgIdl3wZSdyWn4",
+      externalLink: "https://open.spotify.com/track/1DQ5mGJxNgIdl3wZSdyWn4",
+    },
+  ],
 } as const satisfies Track

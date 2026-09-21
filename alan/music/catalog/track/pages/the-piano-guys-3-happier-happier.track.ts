@@ -25,4 +25,13 @@ export const thePianoGuys3HappierHappier = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "happier|0jW6R8CVyVohuUJVcuweDI|224400",
   song: "song/the-piano-guys-happier",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-happier",
+      discNumber: 1,
+      position: 1,
+      externalId: "2BDB6Mf9m4qhgxZzv03ziX",
+      externalLink: "https://open.spotify.com/track/2BDB6Mf9m4qhgxZzv03ziX",
+    },
+  ],
 } as const satisfies Track

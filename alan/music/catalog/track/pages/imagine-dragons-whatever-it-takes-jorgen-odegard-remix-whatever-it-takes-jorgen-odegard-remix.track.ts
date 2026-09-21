@@ -29,4 +29,13 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemixWhateverItTakesJorge
   trackKey:
     "whateverittakesjorgenodegardremix|53XhwfbYqKCa1cC15pYq2q,7CqltXhCBv0seWSgUsJcPV|232888",
   song: "song/imagine-dragons-whatever-it-takes",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-whatever-it-takes-jorgen-odegard-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "6EOPpeRq5Qd1VBHd6GO2y5",
+      externalLink: "https://open.spotify.com/track/6EOPpeRq5Qd1VBHd6GO2y5",
+    },
+  ],
 } as const satisfies Track

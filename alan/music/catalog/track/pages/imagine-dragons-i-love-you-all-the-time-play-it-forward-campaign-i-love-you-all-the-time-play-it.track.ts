@@ -25,4 +25,13 @@ export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaignILoveYouAllThe
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "iloveyouallthetimeplayitforwardcampaign|53XhwfbYqKCa1cC15pYq2q|187243",
   song: "song/imagine-dragons-i-love-you-all-the-time-play-it-forward-campaign",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-i-love-you-all-the-time-play-it-forward-campaign",
+      discNumber: 1,
+      position: 1,
+      externalId: "2POOvCjR09X41UNUWm12dT",
+      externalLink: "https://open.spotify.com/track/2POOvCjR09X41UNUWm12dT",
+    },
+  ],
 } as const satisfies Track

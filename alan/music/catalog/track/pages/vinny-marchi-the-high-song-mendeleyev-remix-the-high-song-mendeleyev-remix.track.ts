@@ -28,4 +28,13 @@ export const vinnyMarchiTheHighSongMendeleyevRemixTheHighSongMendeleyevRemix = {
   ],
   trackKey: "thehighsongmendeleyevremix|0FKcwtkjwm5zCD72XpSYox,5USAMqcbMAzF3HBmeD5pJF|138833",
   song: "song/vinny-marchi-the-high-song",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-the-high-song-mendeleyev-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5Tw1HRQT0UnkCrnmO5wvBI",
+      externalLink: "https://open.spotify.com/track/5Tw1HRQT0UnkCrnmO5wvBI",
+    },
+  ],
 } as const satisfies Track

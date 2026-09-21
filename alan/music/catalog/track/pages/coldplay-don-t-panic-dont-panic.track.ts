@@ -25,4 +25,13 @@ export const coldplayDonTPanicDontPanic = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "dontpanic|4gzpq5DPGxSnKTe4SA8HAU|136866",
   song: "song/coldplay-dont-panic",
+  carriedBy: [
+    {
+      release: "release/coldplay-don-t-panic",
+      discNumber: 1,
+      position: 1,
+      externalId: "62XuJOHM33VyWgKwNoj6w9",
+      externalLink: "https://open.spotify.com/track/62XuJOHM33VyWgKwNoj6w9",
+    },
+  ],
 } as const satisfies Track

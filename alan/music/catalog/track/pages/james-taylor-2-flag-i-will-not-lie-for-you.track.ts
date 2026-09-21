@@ -25,4 +25,13 @@ export const jamesTaylor2FlagIWillNotLieForYou = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "iwillnotlieforyou|0vn7UBvSQECKJm2817Yf1P|194800",
   song: "song/james-taylor-i-will-not-lie-for-you",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-flag",
+      discNumber: 1,
+      position: 4,
+      externalId: "6SWenTaB4PNj8DCY8TY8Nu",
+      externalLink: "https://open.spotify.com/track/6SWenTaB4PNj8DCY8TY8Nu",
+    },
+  ],
 } as const satisfies Track

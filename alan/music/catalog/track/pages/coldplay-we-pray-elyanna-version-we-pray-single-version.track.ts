@@ -32,4 +32,13 @@ export const coldplayWePrayElyannaVersionWePraySingleVersion = {
   trackKey:
     "wepraysingleversion|0jIWKlfmD4Ew7HeVVrq03g,3wcj11K77LjEY1PkEazffa,4gzpq5DPGxSnKTe4SA8HAU,6eXZu6O7nAUA5z6vLV8NKI,7vXDAI8JwjW531ouMGbfcp|233406",
   song: "song/coldplay-we-pray",
+  carriedBy: [
+    {
+      release: "release/coldplay-we-pray-elyanna-version",
+      discNumber: 1,
+      position: 3,
+      externalId: "62vegKSQtJU9DnfF5txpDN",
+      externalLink: "https://open.spotify.com/track/62vegKSQtJU9DnfF5txpDN",
+    },
+  ],
 } as const satisfies Track

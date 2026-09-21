@@ -29,4 +29,13 @@ export const coldplayMusicOfTheSpheresUntitled3 = {
   ],
   trackKey: "|0FPWyyf6MD4QZTj3aypD3O,0QWrMNukfcVOmgEU0FEDyD,4gzpq5DPGxSnKTe4SA8HAU|188966",
   song: "song/coldplay-untitled-3",
+  carriedBy: [
+    {
+      release: "release/coldplay-music-of-the-spheres",
+      discNumber: 1,
+      position: 6,
+      externalId: "3oTYv0yShT4sjuPncoUXfK",
+      externalLink: "https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK",
+    },
+  ],
 } as const satisfies Track

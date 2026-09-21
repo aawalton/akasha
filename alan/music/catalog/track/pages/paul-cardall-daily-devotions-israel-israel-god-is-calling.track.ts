@@ -25,4 +25,13 @@ export const paulCardallDailyDevotionsIsraelIsraelGodIsCalling = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "israelisraelgodiscalling|7FQRbf8gbKw8KZQZAJWxH2|188920",
   song: "song/paul-cardall-israel-israel-god-is-calling",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-daily-devotions",
+      discNumber: 1,
+      position: 6,
+      externalId: "7qJGUnJMkl6wPzx1xPPlCD",
+      externalLink: "https://open.spotify.com/track/7qJGUnJMkl6wPzx1xPPlCD",
+    },
+  ],
 } as const satisfies Track

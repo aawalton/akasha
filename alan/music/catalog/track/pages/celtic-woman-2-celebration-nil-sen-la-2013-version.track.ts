@@ -25,4 +25,13 @@ export const celticWoman2CelebrationNilSenLa2013Version = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "nilsenla2013version|6NWtt9pNOL2Gx7kBykdE5x|217640",
   song: "song/celtic-woman-nil-sen-la",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-celebration",
+      discNumber: 1,
+      position: 10,
+      externalId: "0dTkLDUctTTMikRBssTBZN",
+      externalLink: "https://open.spotify.com/track/0dTkLDUctTTMikRBssTBZN",
+    },
+  ],
 } as const satisfies Track

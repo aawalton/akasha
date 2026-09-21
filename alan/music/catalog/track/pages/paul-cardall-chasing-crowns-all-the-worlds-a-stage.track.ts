@@ -25,4 +25,13 @@ export const paulCardallChasingCrownsAllTheWorldsAStage = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "alltheworldsastage|7FQRbf8gbKw8KZQZAJWxH2|158458",
   song: "song/paul-cardall-all-the-worlds-a-stage",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chasing-crowns",
+      discNumber: 1,
+      position: 4,
+      externalId: "4dZUIaLH3L2LHsbcWekTEE",
+      externalLink: "https://open.spotify.com/track/4dZUIaLH3L2LHsbcWekTEE",
+    },
+  ],
 } as const satisfies Track

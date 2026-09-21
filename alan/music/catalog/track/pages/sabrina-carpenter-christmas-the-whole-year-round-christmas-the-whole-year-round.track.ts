@@ -25,4 +25,13 @@ export const sabrinaCarpenterChristmasTheWholeYearRoundChristmasTheWholeYearRoun
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "christmasthewholeyearround|74KM79TiuVKeVCqs8QtB0B|179426",
   song: "song/sabrina-carpenter-christmas-the-whole-year-round",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-christmas-the-whole-year-round",
+      discNumber: 1,
+      position: 1,
+      externalId: "065CI94mu3IZwqPU4BX4Cb",
+      externalLink: "https://open.spotify.com/track/065CI94mu3IZwqPU4BX4Cb",
+    },
+  ],
 } as const satisfies Track

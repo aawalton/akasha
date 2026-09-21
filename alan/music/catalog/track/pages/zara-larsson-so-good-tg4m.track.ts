@@ -25,4 +25,13 @@ export const zaraLarssonSoGoodTg4m = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "tg4m|1Xylc3o4UrD53lo9CvFvVg|172896",
   song: "song/zara-larsson-tg4m",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 5,
+      externalId: "4uoumbAMEMaKdtiv763jKz",
+      externalLink: "https://open.spotify.com/track/4uoumbAMEMaKdtiv763jKz",
+    },
+  ],
 } as const satisfies Track

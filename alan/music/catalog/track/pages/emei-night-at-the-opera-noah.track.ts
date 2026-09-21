@@ -25,4 +25,13 @@ export const emeiNightAtTheOperaNoah = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "noah|7E2aQQjErJocovYFjYLzWU|159929",
   song: "song/emei-noah",
+  carriedBy: [
+    {
+      release: "release/emei-night-at-the-opera",
+      discNumber: 1,
+      position: 3,
+      externalId: "1Ez185Inp2jiQWtcvtAQXl",
+      externalLink: "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl",
+    },
+  ],
 } as const satisfies Track

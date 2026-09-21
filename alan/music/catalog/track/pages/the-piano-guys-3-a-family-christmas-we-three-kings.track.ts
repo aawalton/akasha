@@ -28,4 +28,13 @@ export const thePianoGuys3AFamilyChristmasWeThreeKings = {
   ],
   trackKey: "wethreekings|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|195529",
   song: "song/the-piano-guys-we-three-kings",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 8,
+      externalId: "4xwQXoPQP2RJ6j98vgJgVV",
+      externalLink: "https://open.spotify.com/track/4xwQXoPQP2RJ6j98vgJgVV",
+    },
+  ],
 } as const satisfies Track

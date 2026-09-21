@@ -25,4 +25,13 @@ export const arianaGrandePositionsPov = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "pov|66CXWjxzNUsdJxJ2JdwvnR|201882",
   song: "song/ariana-grande-pov",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 14,
+      externalId: "3UoULw70kMsiVXxW0L3A33",
+      externalLink: "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33",
+    },
+  ],
 } as const satisfies Track

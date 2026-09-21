@@ -25,4 +25,13 @@ export const jamesTaylor2OtherCoversInTheMidnightHour = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "inthemidnighthour|0vn7UBvSQECKJm2817Yf1P|194200",
   song: "song/james-taylor-in-the-midnight-hour",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-other-covers",
+      discNumber: 1,
+      position: 6,
+      externalId: "0IqfR9NSTljo3wFjqHRpGy",
+      externalLink: "https://open.spotify.com/track/0IqfR9NSTljo3wFjqHRpGy",
+    },
+  ],
 } as const satisfies Track

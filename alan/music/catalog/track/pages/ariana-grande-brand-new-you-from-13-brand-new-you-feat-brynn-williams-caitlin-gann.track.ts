@@ -30,4 +30,13 @@ export const arianaGrandeBrandNewYouFrom13BrandNewYouFeatBrynnWilliamsCaitlinGan
   trackKey:
     "brandnewyoufeatbrynnwilliamscaitlingann|1hnnj2WandO6I4kQCqS3ct,5Wy5gqWzDpWspwIYLokJY5,66CXWjxzNUsdJxJ2JdwvnR|188093",
   song: "song/ariana-grande-brand-new-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-brand-new-you-from-13",
+      discNumber: 1,
+      position: 1,
+      externalId: "1magKwGDsyU3RGjpo0BfPe",
+      externalLink: "https://open.spotify.com/track/1magKwGDsyU3RGjpo0BfPe",
+    },
+  ],
 } as const satisfies Track

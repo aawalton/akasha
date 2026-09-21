@@ -25,4 +25,13 @@ export const theHoldernessFamilyTheGreatestHitsVolOneBabyGotClass = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "babygotclass|6tITG4T8LpC0msapZ4wXGA|132048",
   song: "song/the-holderness-family-baby-got-class",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-the-greatest-hits-vol-one",
+      discNumber: 1,
+      position: 6,
+      externalId: "7x5Is4tQFjbWP9qpw32P3x",
+      externalLink: "https://open.spotify.com/track/7x5Is4tQFjbWP9qpw32P3x",
+    },
+  ],
 } as const satisfies Track

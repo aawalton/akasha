@@ -31,4 +31,13 @@ export const celticWoman2BelieveASpacemanCameTraveling = {
   trackKey:
     "aspacemancametraveling|2RpHsROrX075xfIwHn6B2U,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|227880",
   song: "song/celtic-woman-a-spaceman-came-traveling",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-believe",
+      discNumber: 1,
+      position: 12,
+      externalId: "6x4h0DcOY2l4QMzmFOZr8o",
+      externalLink: "https://open.spotify.com/track/6x4h0DcOY2l4QMzmFOZr8o",
+    },
+  ],
 } as const satisfies Track

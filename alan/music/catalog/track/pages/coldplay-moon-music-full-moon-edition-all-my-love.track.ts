@@ -25,4 +25,13 @@ export const coldplayMoonMusicFullMoonEditionAllMyLove = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "allmylove|4gzpq5DPGxSnKTe4SA8HAU|222647",
   song: "song/coldplay-all-my-love",
+  carriedBy: [
+    {
+      release: "release/coldplay-moon-music-full-moon-edition",
+      discNumber: 1,
+      position: 9,
+      externalId: "1mAMlMxsUBQ4qqQ8FVdjt8",
+      externalLink: "https://open.spotify.com/track/1mAMlMxsUBQ4qqQ8FVdjt8",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveTrafficJam = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "trafficjam|0vn7UBvSQECKJm2817Yf1P|130493",
   song: "song/james-taylor-traffic-jam",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 2,
+      externalId: "3QIksrsEQrP9UXhPxNxSG0",
+      externalLink: "https://open.spotify.com/track/3QIksrsEQrP9UXhPxNxSG0",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackConstellation = {
   ],
   trackKey: "constellation|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|89000",
   song: "song/aurora-constellation",
+  carriedBy: [
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 17,
+      externalId: "35HcxxpcvShWS020vHKjAj",
+      externalLink: "https://open.spotify.com/track/35HcxxpcvShWS020vHKjAj",
+    },
+  ],
 } as const satisfies Track

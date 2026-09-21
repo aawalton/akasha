@@ -28,4 +28,13 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeFutoseRemix = {
   ],
   trackKey: "ruinmylifefutoseremix|1Xylc3o4UrD53lo9CvFvVg,6FeeyXqknRHo5IhqaqKe4L|284890",
   song: "song/zara-larsson-ruin-my-life",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-ruin-my-life-the-remixes",
+      discNumber: 1,
+      position: 3,
+      externalId: "64eknQZcDCUqCagbPeOZF9",
+      externalLink: "https://open.spotify.com/track/64eknQZcDCUqCagbPeOZF9",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraRunningWithTheWolvesRunningWithTheWolves = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runningwiththewolves|1WgXqy2Dd70QQOU7Ay074N|194760",
   song: "song/aurora-running-with-the-wolves",
+  carriedBy: [
+    {
+      release: "release/aurora-running-with-the-wolves",
+      discNumber: 1,
+      position: 2,
+      externalId: "0HuV6zFVx1cGQ9P7H2wnNS",
+      externalLink: "https://open.spotify.com/track/0HuV6zFVx1cGQ9P7H2wnNS",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallDailyDevotionsHowGreatThouArt = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "howgreatthouart|7FQRbf8gbKw8KZQZAJWxH2|205346",
   song: "song/paul-cardall-how-great-thou-art",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-daily-devotions",
+      discNumber: 1,
+      position: 8,
+      externalId: "7FPzzAixjzW9zNWDujBJ2u",
+      externalLink: "https://open.spotify.com/track/7FPzzAixjzW9zNWDujBJ2u",
+    },
+  ],
 } as const satisfies Track

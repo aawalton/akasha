@@ -25,4 +25,13 @@ export const paulCardallChristmasOnceInRoyalDavidsCity = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "onceinroyaldavidscity|7FQRbf8gbKw8KZQZAJWxH2|188677",
   song: "song/celtic-woman-once-in-royal-davids-city",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas",
+      discNumber: 1,
+      position: 10,
+      externalId: "3s6CksBSoshnJ6lMhyq5At",
+      externalLink: "https://open.spotify.com/track/3s6CksBSoshnJ6lMhyq5At",
+    },
+  ],
 } as const satisfies Track

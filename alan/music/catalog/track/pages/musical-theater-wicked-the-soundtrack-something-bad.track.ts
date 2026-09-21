@@ -28,4 +28,13 @@ export const musicalTheaterWickedTheSoundtrackSomethingBad = {
   ],
   trackKey: "somethingbad|0pHTIdyC4DAsoMhpSufQaz,46UMQ0cW8ToR8egkBRwAxZ|108300",
   song: "song/peter-dinklage-something-bad",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 5,
+      externalId: "5E2ASK5znLzoizBy4njhM4",
+      externalLink: "https://open.spotify.com/track/5E2ASK5znLzoizBy4njhM4",
+    },
+  ],
 } as const satisfies Track

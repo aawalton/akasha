@@ -25,4 +25,13 @@ export const thePianoGuys3AsItWasCrescendo = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "crescendo|0jW6R8CVyVohuUJVcuweDI|194166",
   song: "song/the-piano-guys-crescendo",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-as-it-was",
+      discNumber: 1,
+      position: 2,
+      externalId: "3T6g8ClHPujXB8EUABssls",
+      externalLink: "https://open.spotify.com/track/3T6g8ClHPujXB8EUABssls",
+    },
+  ],
 } as const satisfies Track

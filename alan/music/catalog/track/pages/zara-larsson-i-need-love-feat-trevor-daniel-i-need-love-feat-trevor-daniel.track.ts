@@ -28,4 +28,13 @@ export const zaraLarssonINeedLoveFeatTrevorDanielINeedLoveFeatTrevorDaniel = {
   ],
   trackKey: "ineedlovefeattrevordaniel|1Xylc3o4UrD53lo9CvFvVg,7uaIm6Pw7xplS8Dy06V6pT|186408",
   song: "song/zara-larsson-i-need-love",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-i-need-love-feat-trevor-daniel",
+      discNumber: 1,
+      position: 1,
+      externalId: "1ZDcSX1KLQU5MAHWItlc8Z",
+      externalLink: "https://open.spotify.com/track/1ZDcSX1KLQU5MAHWItlc8Z",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const thePianoGuys3AFamilyChristmasOComeOComeEmmanuel = {
   ],
   trackKey: "ocomeocomeemmanuel|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|305108",
   song: "song/kelly-clarkson-o-come-o-come-emmanuel",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 2,
+      externalId: "0YwlC9RkXUNATmbP4N6hsb",
+      externalLink: "https://open.spotify.com/track/0YwlC9RkXUNATmbP4N6hsb",
+    },
+  ],
 } as const satisfies Track

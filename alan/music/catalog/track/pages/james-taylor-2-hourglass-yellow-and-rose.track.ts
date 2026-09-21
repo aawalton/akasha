@@ -25,4 +25,13 @@ export const jamesTaylor2HourglassYellowAndRose = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "yellowandrose|0vn7UBvSQECKJm2817Yf1P|293600",
   song: "song/james-taylor-yellow-and-rose",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-hourglass",
+      discNumber: 1,
+      position: 10,
+      externalId: "7pX7MnSkQ2zJ0OhZbJy21C",
+      externalLink: "https://open.spotify.com/track/7pX7MnSkQ2zJ0OhZbJy21C",
+    },
+  ],
 } as const satisfies Track

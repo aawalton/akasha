@@ -25,4 +25,13 @@ export const coldplayMyloXylotoDontLetItBreakYourHeart = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "dontletitbreakyourheart|4gzpq5DPGxSnKTe4SA8HAU|234106",
   song: "song/coldplay-dont-let-it-break-your-heart",
+  carriedBy: [
+    {
+      release: "release/coldplay-mylo-xyloto",
+      discNumber: 1,
+      position: 13,
+      externalId: "69ho6gqRw1Rjy56tXlvnqk",
+      externalLink: "https://open.spotify.com/track/69ho6gqRw1Rjy56tXlvnqk",
+    },
+  ],
 } as const satisfies Track

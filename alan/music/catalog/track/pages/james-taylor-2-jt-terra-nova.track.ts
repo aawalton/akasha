@@ -25,4 +25,13 @@ export const jamesTaylor2JtTerraNova = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "terranova|0vn7UBvSQECKJm2817Yf1P|272401",
   song: "song/james-taylor-terra-nova",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-jt",
+      discNumber: 1,
+      position: 10,
+      externalId: "6vZBA5RNdiNWC92Zuo59y9",
+      externalLink: "https://open.spotify.com/track/6vZBA5RNdiNWC92Zuo59y9",
+    },
+  ],
 } as const satisfies Track

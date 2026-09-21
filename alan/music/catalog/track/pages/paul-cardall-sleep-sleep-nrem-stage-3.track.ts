@@ -25,4 +25,13 @@ export const paulCardallSleepSleepNremStage3 = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sleepnremstage3|7FQRbf8gbKw8KZQZAJWxH2|1231214",
   song: "song/paul-cardall-sleep-nrem-stage-3",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-sleep",
+      discNumber: 1,
+      position: 3,
+      externalId: "2YaTch92r8xyQNUEoBhxk8",
+      externalLink: "https://open.spotify.com/track/2YaTch92r8xyQNUEoBhxk8",
+    },
+  ],
 } as const satisfies Track

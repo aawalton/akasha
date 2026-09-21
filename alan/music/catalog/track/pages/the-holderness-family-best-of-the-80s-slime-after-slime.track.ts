@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe80sSlimeAfterSlime = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "slimeafterslime|6tITG4T8LpC0msapZ4wXGA|122488",
   song: "song/the-holderness-family-slime-after-slime",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-80s",
+      discNumber: 1,
+      position: 1,
+      externalId: "6XA29KZGUCpinE7kGrsjaE",
+      externalLink: "https://open.spotify.com/track/6XA29KZGUCpinE7kGrsjaE",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const imagineDragonsLiveAtAllsaintsStudiosHandInMyPocketLiveAcousticCover
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "handinmypocketliveacousticcover|53XhwfbYqKCa1cC15pYq2q|185500",
   song: "song/imagine-dragons-hand-in-my-pocket",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-live-at-allsaints-studios",
+      discNumber: 1,
+      position: 4,
+      externalId: "0uHu5YqMcuILdSqBz8MaKo",
+      externalLink: "https://open.spotify.com/track/0uHu5YqMcuILdSqBz8MaKo",
+    },
+  ],
 } as const satisfies Track

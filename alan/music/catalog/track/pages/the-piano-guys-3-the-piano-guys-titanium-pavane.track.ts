@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuysTitaniumPavane = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "titaniumpavane|0jW6R8CVyVohuUJVcuweDI|290436",
   song: "song/the-piano-guys-titanium-pavane",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys",
+      discNumber: 1,
+      position: 1,
+      externalId: "4lAZaMGhx9Di03Vz9tfNzy",
+      externalLink: "https://open.spotify.com/track/4lAZaMGhx9Di03Vz9tfNzy",
+    },
+  ],
 } as const satisfies Track

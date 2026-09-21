@@ -25,4 +25,13 @@ export const alexandriaPixiePixie = {
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "pixie|0SQG4wPVUlfbmbGQfqB47y|208888",
   song: "song/alexandria-pixie",
+  carriedBy: [
+    {
+      release: "release/alexandria-pixie",
+      discNumber: 1,
+      position: 1,
+      externalId: "1IAS4hF2QOiDWsv0HDVL1H",
+      externalLink: "https://open.spotify.com/track/1IAS4hF2QOiDWsv0HDVL1H",
+    },
+  ],
 } as const satisfies Track

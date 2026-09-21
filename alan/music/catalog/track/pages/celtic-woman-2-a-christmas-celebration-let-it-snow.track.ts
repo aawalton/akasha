@@ -25,4 +25,13 @@ export const celticWoman2AChristmasCelebrationLetItSnow = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "letitsnow|6NWtt9pNOL2Gx7kBykdE5x|150573",
   song: "song/celtic-woman-let-it-snow",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-a-christmas-celebration",
+      discNumber: 1,
+      position: 15,
+      externalId: "44FJNOq0COMcht2LWn21FW",
+      externalLink: "https://open.spotify.com/track/44FJNOq0COMcht2LWn21FW",
+    },
+  ],
 } as const satisfies Track

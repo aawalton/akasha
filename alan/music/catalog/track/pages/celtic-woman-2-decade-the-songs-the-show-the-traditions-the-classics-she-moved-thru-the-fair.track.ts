@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSheMovedTh
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "shemovedthruthefair|6NWtt9pNOL2Gx7kBykdE5x|210920",
   song: "song/celtic-woman-she-moved-thru-the-fair",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 13,
+      externalId: "1iB8fvVxL0wSgOhinsd5FS",
+      externalLink: "https://open.spotify.com/track/1iB8fvVxL0wSgOhinsd5FS",
+    },
+  ],
 } as const satisfies Track

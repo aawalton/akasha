@@ -28,4 +28,13 @@ export const zaraLarssonOnlyYouRemixesOnlyYouKreamRemix = {
   ],
   trackKey: "onlyyoukreamremix|0DdDnziut7wOo6cAYWVZC5,1Xylc3o4UrD53lo9CvFvVg|207373",
   song: "song/zara-larsson-only-you",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-only-you-remixes",
+      discNumber: 1,
+      position: 4,
+      externalId: "5mMchLiMiVmZETS4sp0Yfk",
+      externalLink: "https://open.spotify.com/track/5mMchLiMiVmZETS4sp0Yfk",
+    },
+  ],
 } as const satisfies Track

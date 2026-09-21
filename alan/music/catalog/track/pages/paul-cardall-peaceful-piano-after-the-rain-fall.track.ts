@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoAfterTheRainFall = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "aftertherainfall|7FQRbf8gbKw8KZQZAJWxH2|280986",
   song: "song/paul-cardall-after-the-rain-fall",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 8,
+      externalId: "4INuKoAd77rfgdGSMuOBRT",
+      externalLink: "https://open.spotify.com/track/4INuKoAd77rfgdGSMuOBRT",
+    },
+  ],
 } as const satisfies Track

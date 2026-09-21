@@ -25,4 +25,13 @@ export const thePianoGuys310ThinkingOutLoud = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thinkingoutloud|0jW6R8CVyVohuUJVcuweDI|232636",
   song: "song/the-piano-guys-thinking-out-loud",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-10",
+      discNumber: 1,
+      position: 5,
+      externalId: "55Kunp4OMnygqTnW7jgua4",
+      externalLink: "https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4",
+    },
+  ],
 } as const satisfies Track

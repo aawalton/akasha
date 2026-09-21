@@ -25,4 +25,13 @@ export const paulCardallSignOfAffection10thAnniversaryIntroMist = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "intromist|7FQRbf8gbKw8KZQZAJWxH2|242200",
   song: "song/paul-cardall-intro-mist",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-sign-of-affection-10th-anniversary",
+      discNumber: 1,
+      position: 6,
+      externalId: "1T7sxJoV7dR2VIZVpLJUP3",
+      externalLink: "https://open.spotify.com/track/1T7sxJoV7dR2VIZVpLJUP3",
+    },
+  ],
 } as const satisfies Track

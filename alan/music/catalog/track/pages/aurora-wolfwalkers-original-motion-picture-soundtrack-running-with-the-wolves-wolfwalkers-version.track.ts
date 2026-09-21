@@ -26,4 +26,13 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRunningWithTheWolve
     trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
     trackKey: "runningwiththewolveswolfwalkersversion|1WgXqy2Dd70QQOU7Ay074N|167866",
     song: "song/aurora-running-with-the-wolves",
+    carriedBy: [
+      {
+        release: "release/aurora-wolfwalkers-original-motion-picture-soundtrack",
+        discNumber: 1,
+        position: 3,
+        externalId: "5KF4xocBjejdsiztbvSW83",
+        externalLink: "https://open.spotify.com/track/5KF4xocBjejdsiztbvSW83",
+      },
+    ],
   } as const satisfies Track

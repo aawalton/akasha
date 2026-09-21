@@ -25,4 +25,13 @@ export const vinnyMarchiCherryWineCherryWine = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "cherrywine|5USAMqcbMAzF3HBmeD5pJF|209784",
   song: "song/vinny-marchi-cherry-wine",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-cherry-wine",
+      discNumber: 1,
+      position: 1,
+      externalId: "6ElnQSxqO4p88afe629nbK",
+      externalLink: "https://open.spotify.com/track/6ElnQSxqO4p88afe629nbK",
+    },
+  ],
 } as const satisfies Track

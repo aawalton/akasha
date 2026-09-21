@@ -25,4 +25,13 @@ export const celticWoman2ANewJourneyLasciaChioPianga = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "lasciachiopianga|6NWtt9pNOL2Gx7kBykdE5x|211453",
   song: "song/celtic-woman-lascia-chio-pianga",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-a-new-journey",
+      discNumber: 1,
+      position: 11,
+      externalId: "6tZdUFMmkQRLzGhBZpwdQD",
+      externalLink: "https://open.spotify.com/track/6tZdUFMmkQRLzGhBZpwdQD",
+    },
+  ],
 } as const satisfies Track

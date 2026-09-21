@@ -25,4 +25,13 @@ export const vinnyMarchiBabaYetuBabaYetu = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "babayetu|5USAMqcbMAzF3HBmeD5pJF|216455",
   song: "song/vinny-marchi-baba-yetu",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-baba-yetu",
+      discNumber: 1,
+      position: 1,
+      externalId: "5vk0vzanBvEcQ4GpNdNxZM",
+      externalLink: "https://open.spotify.com/track/5vk0vzanBvEcQ4GpNdNxZM",
+    },
+  ],
 } as const satisfies Track

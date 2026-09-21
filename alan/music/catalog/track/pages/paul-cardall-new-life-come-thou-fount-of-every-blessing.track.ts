@@ -25,4 +25,13 @@ export const paulCardallNewLifeComeThouFountOfEveryBlessing = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comethoufountofeveryblessing|7FQRbf8gbKw8KZQZAJWxH2|194173",
   song: "song/paul-cardall-come-thou-fount-of-every-blessing",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-new-life",
+      discNumber: 1,
+      position: 15,
+      externalId: "3FnDtsMD16NhP9m8dmkp6u",
+      externalLink: "https://open.spotify.com/track/3FnDtsMD16NhP9m8dmkp6u",
+    },
+  ],
 } as const satisfies Track

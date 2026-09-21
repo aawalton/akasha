@@ -25,4 +25,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInside = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "allissoftinside|1WgXqy2Dd70QQOU7Ay074N|308943",
   song: "song/aurora-all-is-soft-inside",
+  carriedBy: [
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 7,
+      externalId: "2JxOYhsVogz7yv8i4633db",
+      externalLink: "https://open.spotify.com/track/2JxOYhsVogz7yv8i4633db",
+    },
+  ],
 } as const satisfies Track

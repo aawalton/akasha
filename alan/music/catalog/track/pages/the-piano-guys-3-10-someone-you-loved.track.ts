@@ -25,4 +25,13 @@ export const thePianoGuys310SomeoneYouLoved = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "someoneyouloved|0jW6R8CVyVohuUJVcuweDI|203142",
   song: "song/the-piano-guys-someone-you-loved",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-10",
+      discNumber: 1,
+      position: 7,
+      externalId: "2sindV5MPoBIkAW02OFtHF",
+      externalLink: "https://open.spotify.com/track/2sindV5MPoBIkAW02OFtHF",
+    },
+  ],
 } as const satisfies Track

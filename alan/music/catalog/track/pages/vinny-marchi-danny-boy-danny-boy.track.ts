@@ -25,4 +25,13 @@ export const vinnyMarchiDannyBoyDannyBoy = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "dannyboy|5USAMqcbMAzF3HBmeD5pJF|179851",
   song: "song/vinny-marchi-danny-boy",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-danny-boy",
+      discNumber: 1,
+      position: 1,
+      externalId: "2xWqyjYrRSTnuL2gd6Mp56",
+      externalLink: "https://open.spotify.com/track/2xWqyjYrRSTnuL2gd6Mp56",
+    },
+  ],
 } as const satisfies Track

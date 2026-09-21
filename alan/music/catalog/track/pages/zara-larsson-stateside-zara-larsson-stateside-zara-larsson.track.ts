@@ -28,4 +28,13 @@ export const zaraLarssonStatesideZaraLarssonStatesideZaraLarsson = {
   ],
   trackKey: "statesidezaralarsson|1Xylc3o4UrD53lo9CvFvVg,78rUTD7y6Cy67W1RVzYs7t|184761",
   song: "song/zara-larsson-stateside-zara-larsson",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-stateside-zara-larsson",
+      discNumber: 1,
+      position: 1,
+      externalId: "7tM3yPeSBxnIIQlkz22vId",
+      externalLink: "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId",
+    },
+  ],
 } as const satisfies Track

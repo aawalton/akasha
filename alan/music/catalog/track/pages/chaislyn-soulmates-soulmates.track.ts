@@ -25,4 +25,13 @@ export const chaislynSoulmatesSoulmates = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "soulmates|3zmbniiciaBAJlSX1Bzq9R|271136",
   song: "song/chaislyn-soulmates",
+  carriedBy: [
+    {
+      release: "release/chaislyn-soulmates",
+      discNumber: 1,
+      position: 1,
+      externalId: "55yTx3urNg5CKnNb9CeX59",
+      externalLink: "https://open.spotify.com/track/55yTx3urNg5CKnNb9CeX59",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallChristmasHarkTheHeraldAngelsSing = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "harktheheraldangelssing|7FQRbf8gbKw8KZQZAJWxH2|222000",
   song: "song/paul-cardall-hark-the-herald-angels-sing",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas",
+      discNumber: 1,
+      position: 1,
+      externalId: "3GmEeSXzkh2DcbYvFUDfcY",
+      externalLink: "https://open.spotify.com/track/3GmEeSXzkh2DcbYvFUDfcY",
+    },
+  ],
 } as const satisfies Track

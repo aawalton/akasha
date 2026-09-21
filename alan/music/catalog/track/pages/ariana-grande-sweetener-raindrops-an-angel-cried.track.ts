@@ -25,4 +25,13 @@ export const arianaGrandeSweetenerRaindropsAnAngelCried = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "raindropsanangelcried|66CXWjxzNUsdJxJ2JdwvnR|37640",
   song: "song/ariana-grande-raindrops-an-angel-cried",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-sweetener",
+      discNumber: 1,
+      position: 1,
+      externalId: "0v2LUO8oTHnkjQ8MmKuXyk",
+      externalLink: "https://open.spotify.com/track/0v2LUO8oTHnkjQ8MmKuXyk",
+    },
+  ],
 } as const satisfies Track

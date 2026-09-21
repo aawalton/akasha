@@ -25,4 +25,13 @@ export const vinnyMarchiSugarStarsLullabyForTheAnxious = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lullabyfortheanxious|5USAMqcbMAzF3HBmeD5pJF|191843",
   song: "song/vinny-marchi-lullaby-for-the-anxious",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-sugar-stars",
+      discNumber: 1,
+      position: 4,
+      externalId: "3cjOwkLUUasPNEIK02OhpD",
+      externalLink: "https://open.spotify.com/track/3cjOwkLUUasPNEIK02OhpD",
+    },
+  ],
 } as const satisfies Track

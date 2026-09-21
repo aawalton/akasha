@@ -28,4 +28,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "imperfectforyouinstrumental|66CXWjxzNUsdJxJ2JdwvnR|182566",
     song: "song/ariana-grande-imperfect-for-you",
+    carriedBy: [
+      {
+        release:
+          "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+        discNumber: 1,
+        position: 31,
+        externalId: "7G0oYXBPOEZUSOAHctUM2U",
+        externalLink: "https://open.spotify.com/track/7G0oYXBPOEZUSOAHctUM2U",
+      },
+    ],
   } as const satisfies Track

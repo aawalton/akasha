@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoTheGrowingSeason = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thegrowingseason|7FQRbf8gbKw8KZQZAJWxH2|279240",
   song: "song/paul-cardall-the-growing-season",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 6,
+      externalId: "55ukNZ9zHGdljRa7aIhipl",
+      externalLink: "https://open.spotify.com/track/55ukNZ9zHGdljRa7aIhipl",
+    },
+  ],
 } as const satisfies Track

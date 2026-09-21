@@ -28,4 +28,13 @@ export const celticWoman2NollaigAChristmasJourneyCodailALinbh = {
   ],
   trackKey: "codailalinbh|0KT1pvlMlEkRJVQ1TKHhdj,6NWtt9pNOL2Gx7kBykdE5x|203725",
   song: "song/celtic-woman-codail-a-linbh",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-nollaig-a-christmas-journey",
+      discNumber: 1,
+      position: 5,
+      externalId: "0xEnEultWHNEkzN0nFEwJ0",
+      externalLink: "https://open.spotify.com/track/0xEnEultWHNEkzN0nFEwJ0",
+    },
+  ],
 } as const satisfies Track

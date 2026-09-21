@@ -25,4 +25,13 @@ export const sabrinaCarpenterEvolutionAllWeHaveIsLove = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "allwehaveislove|74KM79TiuVKeVCqs8QtB0B|182293",
   song: "song/sabrina-carpenter-all-we-have-is-love",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-evolution",
+      discNumber: 1,
+      position: 10,
+      externalId: "4WFWvM4zjMgjQxmP21ezfO",
+      externalLink: "https://open.spotify.com/track/4WFWvM4zjMgjQxmP21ezfO",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallFaithfulTheNoise = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thenoise|7FQRbf8gbKw8KZQZAJWxH2|322240",
   song: "song/paul-cardall-the-noise",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-faithful",
+      discNumber: 1,
+      position: 3,
+      externalId: "30eZMtwcCRfXfOoDuRqEts",
+      externalLink: "https://open.spotify.com/track/30eZMtwcCRfXfOoDuRqEts",
+    },
+  ],
 } as const satisfies Track

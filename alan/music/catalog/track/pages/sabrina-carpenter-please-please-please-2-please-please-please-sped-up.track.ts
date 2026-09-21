@@ -25,4 +25,13 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseSpedUp = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "pleasepleasepleasespedup|74KM79TiuVKeVCqs8QtB0B|152403",
   song: "song/sabrina-carpenter-please-please-please",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-please-please-please-2",
+      discNumber: 1,
+      position: 4,
+      externalId: "4EryTXqW5cvf5yqITZEm7b",
+      externalLink: "https://open.spotify.com/track/4EryTXqW5cvf5yqITZEm7b",
+    },
+  ],
 } as const satisfies Track

@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "hampsteadinstrumental|66CXWjxzNUsdJxJ2JdwvnR|216264",
   song: "song/ariana-grande-hampstead",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+      discNumber: 1,
+      position: 38,
+      externalId: "2BiRBX5shWBv0EK3OkoveU",
+      externalLink: "https://open.spotify.com/track/2BiRBX5shWBv0EK3OkoveU",
+    },
+  ],
 } as const satisfies Track

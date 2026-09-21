@@ -28,4 +28,13 @@ export const arianaGrandeBreakFreeBreakFree = {
   ],
   trackKey: "breakfree|2qxJFvFYMEDqd7ui6kSAcq,66CXWjxzNUsdJxJ2JdwvnR|214843",
   song: "song/ariana-grande-break-free",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-break-free",
+      discNumber: 1,
+      position: 1,
+      externalId: "2lOgTEwxmRPBtjp60opyRN",
+      externalLink: "https://open.spotify.com/track/2lOgTEwxmRPBtjp60opyRN",
+    },
+  ],
 } as const satisfies Track

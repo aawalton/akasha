@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsLiveInVegasImHappyLiveInVegas = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "imhappyliveinvegas|53XhwfbYqKCa1cC15pYq2q|217509",
   song: "song/imagine-dragons-i-m-happy",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-live-in-vegas",
+      discNumber: 1,
+      position: 18,
+      externalId: "5zq2QfbXqkHORdJZI9z8O1",
+      externalLink: "https://open.spotify.com/track/5zq2QfbXqkHORdJZI9z8O1",
+    },
+  ],
 } as const satisfies Track

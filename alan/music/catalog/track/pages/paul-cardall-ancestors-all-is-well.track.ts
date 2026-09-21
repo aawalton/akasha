@@ -25,4 +25,13 @@ export const paulCardallAncestorsAllIsWell = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "alliswell|7FQRbf8gbKw8KZQZAJWxH2|169320",
   song: "song/paul-cardall-all-is-well",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ancestors",
+      discNumber: 1,
+      position: 13,
+      externalId: "2AyCNfJNdFWBikXDqzNqGX",
+      externalLink: "https://open.spotify.com/track/2AyCNfJNdFWBikXDqzNqGX",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const sabrinaCarpenterHoneymoonFadesHoneymoonFades = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "honeymoonfades|74KM79TiuVKeVCqs8QtB0B|195161",
   song: "song/sabrina-carpenter-honeymoon-fades",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-honeymoon-fades",
+      discNumber: 1,
+      position: 1,
+      externalId: "2o2R6ghiVJfAqEXnlmOihz",
+      externalLink: "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz",
+    },
+  ],
 } as const satisfies Track

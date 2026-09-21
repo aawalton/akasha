@@ -29,4 +29,13 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeZacSamuelDubRemixExtended = {
   trackKey:
     "lushlifezacsamueldubremixextended|1Xylc3o4UrD53lo9CvFvVg,3imlibJrwqYv8gqII7u4r0|300166",
   song: "song/zara-larsson-lush-life",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-lush-life-the-remixes-2",
+      discNumber: 1,
+      position: 4,
+      externalId: "7vXM4Skh0byTtP6vIFUAMn",
+      externalLink: "https://open.spotify.com/track/7vXM4Skh0byTtP6vIFUAMn",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandSchoolSongLiveAtTheColonialTheatre2007 = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "schoolsongliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|87560",
   song: "song/james-taylor-school-song",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 5,
+      externalId: "2s18y5OmCMbCtvF24S6Zvm",
+      externalLink: "https://open.spotify.com/track/2s18y5OmCMbCtvF24S6Zvm",
+    },
+  ],
 } as const satisfies Track

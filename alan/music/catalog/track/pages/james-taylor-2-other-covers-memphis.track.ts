@@ -25,4 +25,13 @@ export const jamesTaylor2OtherCoversMemphis = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "memphis|0vn7UBvSQECKJm2817Yf1P|190733",
   song: "song/james-taylor-memphis",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-other-covers",
+      discNumber: 1,
+      position: 3,
+      externalId: "4bRejQ7pYFZ4v1qAggqiA2",
+      externalLink: "https://open.spotify.com/track/4bRejQ7pYFZ4v1qAggqiA2",
+    },
+  ],
 } as const satisfies Track

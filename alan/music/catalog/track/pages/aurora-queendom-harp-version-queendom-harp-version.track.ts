@@ -25,4 +25,13 @@ export const auroraQueendomHarpVersionQueendomHarpVersion = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "queendomharpversion|1WgXqy2Dd70QQOU7Ay074N|232586",
   song: "song/aurora-queendom",
+  carriedBy: [
+    {
+      release: "release/aurora-queendom-harp-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "4BLPi4X7AeORpjP3yjJq95",
+      externalLink: "https://open.spotify.com/track/4BLPi4X7AeORpjP3yjJq95",
+    },
+  ],
 } as const satisfies Track

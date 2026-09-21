@@ -25,4 +25,13 @@ export const thePianoGuys3WhenYouReGoneTheStoryteller = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thestoryteller|0jW6R8CVyVohuUJVcuweDI|280714",
   song: "song/the-piano-guys-the-storyteller",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-when-you-re-gone",
+      discNumber: 1,
+      position: 2,
+      externalId: "74carSriOwIN8PTWoE9bJ1",
+      externalLink: "https://open.spotify.com/track/74carSriOwIN8PTWoE9bJ1",
+    },
+  ],
 } as const satisfies Track

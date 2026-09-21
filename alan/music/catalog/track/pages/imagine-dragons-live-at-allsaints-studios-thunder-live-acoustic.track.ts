@@ -25,4 +25,13 @@ export const imagineDragonsLiveAtAllsaintsStudiosThunderLiveAcoustic = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "thunderliveacoustic|53XhwfbYqKCa1cC15pYq2q|214000",
   song: "song/imagine-dragons-thunder",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-live-at-allsaints-studios",
+      discNumber: 1,
+      position: 1,
+      externalId: "2mZrKpdrNUA4oZJWzTunqZ",
+      externalLink: "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ",
+    },
+  ],
 } as const satisfies Track

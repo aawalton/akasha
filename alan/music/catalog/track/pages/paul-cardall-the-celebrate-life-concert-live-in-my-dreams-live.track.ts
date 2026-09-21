@@ -28,4 +28,13 @@ export const paulCardallTheCelebrateLifeConcertLiveInMyDreamsLive = {
   ],
   trackKey: "inmydreamslive|7FQRbf8gbKw8KZQZAJWxH2,7muihwIKkXMGBY7gcIvPJI|228023",
   song: "song/paul-cardall-in-my-dreams",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-celebrate-life-concert-live",
+      discNumber: 1,
+      position: 5,
+      externalId: "3LQtkryY5TRd6Gfd6jPzxJ",
+      externalLink: "https://open.spotify.com/track/3LQtkryY5TRd6Gfd6jPzxJ",
+    },
+  ],
 } as const satisfies Track

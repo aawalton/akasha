@@ -25,4 +25,13 @@ export const paulCardallChillCollectionTheNoise = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thenoise|7FQRbf8gbKw8KZQZAJWxH2|322298",
   song: "song/paul-cardall-the-noise",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-chill-collection",
+      discNumber: 1,
+      position: 13,
+      externalId: "3Nl1snmIZWnq08DofhpaKr",
+      externalLink: "https://open.spotify.com/track/3Nl1snmIZWnq08DofhpaKr",
+    },
+  ],
 } as const satisfies Track

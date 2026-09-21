@@ -26,4 +26,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackOvertureNoOneMo
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "overturenoonemournsthewickedlivefromthedolbytheatre|66CXWjxzNUsdJxJ2JdwvnR|414605",
     song: "song/ariana-grande-overture-no-one-mourns-the-wicked",
+    carriedBy: [
+      {
+        release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+        discNumber: 1,
+        position: 1,
+        externalId: "0I75hgf7ihukbrjyKIyiVL",
+        externalLink: "https://open.spotify.com/track/0I75hgf7ihukbrjyKIyiVL",
+      },
+    ],
   } as const satisfies Track

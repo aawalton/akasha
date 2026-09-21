@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsSpotifySessionsIBetMyLifeLiveFromSpotif
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ibetmylifelivefromspotifylondon|53XhwfbYqKCa1cC15pYq2q|228340",
   song: "song/imagine-dragons-i-bet-my-life",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-spotify-sessions",
+      discNumber: 1,
+      position: 1,
+      externalId: "2N7zevcCCMxGt9TDG29dcF",
+      externalLink: "https://open.spotify.com/track/2N7zevcCCMxGt9TDG29dcF",
+    },
+  ],
 } as const satisfies Track

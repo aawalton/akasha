@@ -25,4 +25,13 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionIntoYou = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "intoyou|66CXWjxzNUsdJxJ2JdwvnR|244444",
   song: "song/ariana-grande-into-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 4,
+      externalId: "4Bsd7hSLYvqaZFRyaWiw1E",
+      externalLink: "https://open.spotify.com/track/4Bsd7hSLYvqaZFRyaWiw1E",
+    },
+  ],
 } as const satisfies Track

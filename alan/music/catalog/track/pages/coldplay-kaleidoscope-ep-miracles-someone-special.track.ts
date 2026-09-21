@@ -28,4 +28,13 @@ export const coldplayKaleidoscopeEpMiraclesSomeoneSpecial = {
   ],
   trackKey: "miraclessomeonespecial|0c173mlxpT3dSFRgMO8XPh,4gzpq5DPGxSnKTe4SA8HAU|276906",
   song: "song/coldplay-miracles-someone-special",
+  carriedBy: [
+    {
+      release: "release/coldplay-kaleidoscope-ep",
+      discNumber: 1,
+      position: 2,
+      externalId: "6uJwPeBGb3swi85TSr9iIz",
+      externalLink: "https://open.spotify.com/track/6uJwPeBGb3swi85TSr9iIz",
+    },
+  ],
 } as const satisfies Track

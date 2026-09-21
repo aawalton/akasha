@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuysMoonlight = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "moonlight|0jW6R8CVyVohuUJVcuweDI|208500",
   song: "song/the-piano-guys-moonlight",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys",
+      discNumber: 1,
+      position: 8,
+      externalId: "5CY78JEFsq8TkwxCI5MZbn",
+      externalLink: "https://open.spotify.com/track/5CY78JEFsq8TkwxCI5MZbn",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallPrimaryWorshipBaptism = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "baptism|7FQRbf8gbKw8KZQZAJWxH2|220413",
   song: "song/paul-cardall-baptism",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-primary-worship",
+      discNumber: 1,
+      position: 1,
+      externalId: "3OrEC0ZOxqN2WhG7Pr5DPz",
+      externalLink: "https://open.spotify.com/track/3OrEC0ZOxqN2WhG7Pr5DPz",
+    },
+  ],
 } as const satisfies Track

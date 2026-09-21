@@ -25,4 +25,13 @@ export const thePianoGuys3LimitlessWalkingTheWireLargo = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "walkingthewirelargo|0jW6R8CVyVohuUJVcuweDI|258066",
   song: "song/the-piano-guys-walking-the-wire-largo",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-limitless",
+      discNumber: 1,
+      position: 7,
+      externalId: "4yTkWs4AFydRawAHnUvZwG",
+      externalLink: "https://open.spotify.com/track/4yTkWs4AFydRawAHnUvZwG",
+    },
+  ],
 } as const satisfies Track

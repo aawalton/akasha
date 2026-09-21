@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuysTheCelloSong = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thecellosong|0jW6R8CVyVohuUJVcuweDI|196707",
   song: "song/the-piano-guys-the-cello-song",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys",
+      discNumber: 1,
+      position: 11,
+      externalId: "5uEcslrmFzkDqTaFB26yj2",
+      externalLink: "https://open.spotify.com/track/5uEcslrmFzkDqTaFB26yj2",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraRunawayGuitarAcousticRunawayGuitarAcoustic = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runawayguitaracoustic|1WgXqy2Dd70QQOU7Ay074N|259799",
   song: "song/aurora-runaway",
+  carriedBy: [
+    {
+      release: "release/aurora-runaway-guitar-acoustic",
+      discNumber: 1,
+      position: 1,
+      externalId: "7zfV4jqXVfM7vzd0uojGZN",
+      externalLink: "https://open.spotify.com/track/7zfV4jqXVfM7vzd0uojGZN",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionLoveMeHarder = {
   ],
   trackKey: "lovemeharder|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|236041",
   song: "song/ariana-grande-love-me-harder",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 9,
+      externalId: "2Pm40TLDw6G78thGOdsJW7",
+      externalLink: "https://open.spotify.com/track/2Pm40TLDw6G78thGOdsJW7",
+    },
+  ],
 } as const satisfies Track

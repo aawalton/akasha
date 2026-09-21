@@ -25,4 +25,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeBlackWaterLilies = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "blackwaterlilies|1WgXqy2Dd70QQOU7Ay074N|282840",
   song: "song/aurora-black-water-lilies",
+  carriedBy: [
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+      discNumber: 1,
+      position: 12,
+      externalId: "1K9e0CRpBTQhAyn7OTBTjk",
+      externalLink: "https://open.spotify.com/track/1K9e0CRpBTQhAyn7OTBTjk",
+    },
+  ],
 } as const satisfies Track

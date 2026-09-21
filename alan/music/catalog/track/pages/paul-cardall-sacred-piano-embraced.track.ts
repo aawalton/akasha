@@ -25,4 +25,13 @@ export const paulCardallSacredPianoEmbraced = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "embraced|7FQRbf8gbKw8KZQZAJWxH2|191293",
   song: "song/paul-cardall-embraced",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-sacred-piano",
+      discNumber: 1,
+      position: 14,
+      externalId: "7zIfL3Gs8IwKCWuAre4XP6",
+      externalLink: "https://open.spotify.com/track/7zIfL3Gs8IwKCWuAre4XP6",
+    },
+  ],
 } as const satisfies Track

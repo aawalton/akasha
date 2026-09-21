@@ -25,4 +25,13 @@ export const paulCardallReturnHomeShropshireHills = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "shropshirehills|7FQRbf8gbKw8KZQZAJWxH2|194243",
   song: "song/paul-cardall-shropshire-hills",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 2,
+      externalId: "1ChwEFivNa0DbN6DkC2LCR",
+      externalLink: "https://open.spotify.com/track/1ChwEFivNa0DbN6DkC2LCR",
+    },
+  ],
 } as const satisfies Track

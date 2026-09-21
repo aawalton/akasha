@@ -29,4 +29,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWaySpanglishVersion
   trackKey:
     "thewayspanglishversionfeatmacmiller|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|226838",
   song: "song/ariana-grande-the-way",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 13,
+      externalId: "3HAQ4fEd3opmo09LJIHOX2",
+      externalLink: "https://open.spotify.com/track/3HAQ4fEd3opmo09LJIHOX2",
+    },
+  ],
 } as const satisfies Track

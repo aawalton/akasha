@@ -25,4 +25,13 @@ export const emeiBacktrackBacktrack = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "backtrack|7E2aQQjErJocovYFjYLzWU|158840",
   song: "song/emei-backtrack",
+  carriedBy: [
+    {
+      release: "release/emei-backtrack",
+      discNumber: 1,
+      position: 1,
+      externalId: "6XFtHhrlPKL4qEVDVMOcd6",
+      externalLink: "https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6",
+    },
+  ],
 } as const satisfies Track

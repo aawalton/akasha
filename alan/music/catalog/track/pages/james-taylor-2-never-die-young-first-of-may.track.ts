@@ -25,4 +25,13 @@ export const jamesTaylor2NeverDieYoungFirstOfMay = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "firstofmay|0vn7UBvSQECKJm2817Yf1P|241200",
   song: "song/james-taylor-first-of-may",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-never-die-young",
+      discNumber: 1,
+      position: 10,
+      externalId: "08lmf4weog2lDvgOfPMuEu",
+      externalLink: "https://open.spotify.com/track/08lmf4weog2lDvgOfPMuEu",
+    },
+  ],
 } as const satisfies Track

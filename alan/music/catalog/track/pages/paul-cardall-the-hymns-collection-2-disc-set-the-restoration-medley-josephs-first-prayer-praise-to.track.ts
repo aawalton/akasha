@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetTheRestorationMedleyJosephsFir
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "therestorationmedleyjosephsfirstprayerpraisetotheman|7FQRbf8gbKw8KZQZAJWxH2|463516",
   song: "song/paul-cardall-the-restoration-medley-josephs-first-prayer-praise-to-the-man",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 31,
+      externalId: "7rDewz1wd7BWAjJc5eH5vw",
+      externalLink: "https://open.spotify.com/track/7rDewz1wd7BWAjJc5eH5vw",
+    },
+  ],
 } as const satisfies Track

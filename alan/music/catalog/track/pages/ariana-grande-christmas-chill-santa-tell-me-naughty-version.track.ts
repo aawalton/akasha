@@ -25,4 +25,13 @@ export const arianaGrandeChristmasChillSantaTellMeNaughtyVersion = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "santatellmenaughtyversion|66CXWjxzNUsdJxJ2JdwvnR|203493",
   song: "song/ariana-grande-santa-tell-me",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-christmas-chill",
+      discNumber: 1,
+      position: 7,
+      externalId: "6V2JPFiAeqfZjM3A8VNr5q",
+      externalLink: "https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q",
+    },
+  ],
 } as const satisfies Track

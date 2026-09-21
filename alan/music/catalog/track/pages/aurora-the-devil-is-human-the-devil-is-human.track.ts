@@ -25,4 +25,13 @@ export const auroraTheDevilIsHumanTheDevilIsHuman = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "thedevilishuman|1WgXqy2Dd70QQOU7Ay074N|180613",
   song: "song/aurora-the-devil-is-human",
+  carriedBy: [
+    {
+      release: "release/aurora-the-devil-is-human",
+      discNumber: 1,
+      position: 1,
+      externalId: "2nLEh1IAezKeXKCGfYULmX",
+      externalLink: "https://open.spotify.com/track/2nLEh1IAezKeXKCGfYULmX",
+    },
+  ],
 } as const satisfies Track

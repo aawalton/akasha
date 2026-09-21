@@ -25,4 +25,13 @@ export const sabrinaCarpenterThumbsAcousticThumbsAcoustic = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "thumbsacoustic|74KM79TiuVKeVCqs8QtB0B|204274",
   song: "song/sabrina-carpenter-thumbs",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-thumbs-acoustic",
+      discNumber: 1,
+      position: 1,
+      externalId: "1soAeZZbjaECAC5IH0CNiL",
+      externalLink: "https://open.spotify.com/track/1soAeZZbjaECAC5IH0CNiL",
+    },
+  ],
 } as const satisfies Track

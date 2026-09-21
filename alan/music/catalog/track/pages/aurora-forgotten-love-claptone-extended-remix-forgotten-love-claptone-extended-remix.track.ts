@@ -29,4 +29,13 @@ export const auroraForgottenLoveClaptoneExtendedRemixForgottenLoveClaptoneExtend
   trackKey:
     "forgottenloveclaptoneextendedremix|1WgXqy2Dd70QQOU7Ay074N,4mncDFjVLUa3s025Tct3Ry|404383",
   song: "song/aurora-forgotten-love",
+  carriedBy: [
+    {
+      release: "release/aurora-forgotten-love-claptone-extended-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "3JbXpyrMyRAI6SoV8a87Bs",
+      externalLink: "https://open.spotify.com/track/3JbXpyrMyRAI6SoV8a87Bs",
+    },
+  ],
 } as const satisfies Track

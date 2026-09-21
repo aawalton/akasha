@@ -28,4 +28,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsTelykastR
   ],
   trackKey: "demonstelykastremix|53XhwfbYqKCa1cC15pYq2q,7vWC03wqXwUqjPON8hc1tz|176128",
   song: "song/imagine-dragons-demons",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 3,
+      externalId: "3WyXiL13ibqml4O6YnfQxB",
+      externalLink: "https://open.spotify.com/track/3WyXiL13ibqml4O6YnfQxB",
+    },
+  ],
 } as const satisfies Track

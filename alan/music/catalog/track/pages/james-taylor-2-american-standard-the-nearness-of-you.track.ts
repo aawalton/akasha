@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardTheNearnessOfYou = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thenearnessofyou|0vn7UBvSQECKJm2817Yf1P|232346",
   song: "song/james-taylor-the-nearness-of-you",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 7,
+      externalId: "2bIzGu5WuGhhH1d5hU5Rmh",
+      externalLink: "https://open.spotify.com/track/2bIzGu5WuGhhH1d5hU5Rmh",
+    },
+  ],
 } as const satisfies Track

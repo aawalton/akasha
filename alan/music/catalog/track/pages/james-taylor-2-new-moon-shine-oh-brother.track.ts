@@ -25,4 +25,13 @@ export const jamesTaylor2NewMoonShineOhBrother = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ohbrother|0vn7UBvSQECKJm2817Yf1P|263240",
   song: "song/james-taylor-oh-brother",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-new-moon-shine",
+      discNumber: 1,
+      position: 11,
+      externalId: "3JzFww5xW3CDGAN6JbELbI",
+      externalLink: "https://open.spotify.com/track/3JzFww5xW3CDGAN6JbELbI",
+    },
+  ],
 } as const satisfies Track

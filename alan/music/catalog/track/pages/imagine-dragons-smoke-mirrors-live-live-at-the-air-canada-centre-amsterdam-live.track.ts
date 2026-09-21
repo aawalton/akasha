@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreAmsterdamLive
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "amsterdamlive|53XhwfbYqKCa1cC15pYq2q|230413",
   song: "song/imagine-dragons-amsterdam",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
+      discNumber: 1,
+      position: 11,
+      externalId: "4bdZ1Z9j0vY01KKSBSJjPz",
+      externalLink: "https://open.spotify.com/track/4bdZ1Z9j0vY01KKSBSJjPz",
+    },
+  ],
 } as const satisfies Track

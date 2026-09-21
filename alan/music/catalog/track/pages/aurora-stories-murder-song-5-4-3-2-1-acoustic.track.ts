@@ -25,4 +25,13 @@ export const auroraStoriesMurderSong54321Acoustic = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "murdersong54321acoustic|1WgXqy2Dd70QQOU7Ay074N|218666",
   song: "song/aurora-murder-song-5-4-3-2-1",
+  carriedBy: [
+    {
+      release: "release/aurora-stories",
+      discNumber: 1,
+      position: 3,
+      externalId: "5Gvpkv6naXRlhiZGUk5Bze",
+      externalLink: "https://open.spotify.com/track/5Gvpkv6naXRlhiZGUk5Bze",
+    },
+  ],
 } as const satisfies Track

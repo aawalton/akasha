@@ -25,4 +25,13 @@ export const paulCardallNewLifeRestlessHope = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "restlesshope|7FQRbf8gbKw8KZQZAJWxH2|137200",
   song: "song/paul-cardall-restless-hope",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-new-life",
+      discNumber: 1,
+      position: 8,
+      externalId: "0k9om25NDDRTCrxqzUTdVo",
+      externalLink: "https://open.spotify.com/track/0k9om25NDDRTCrxqzUTdVo",
+    },
+  ],
 } as const satisfies Track

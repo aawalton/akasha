@@ -28,4 +28,13 @@ export const auroraExistForLoveRemixesExistForLoveDjBorisRemix = {
   ],
   trackKey: "existforlovedjborisremix|0CwEv3FWLZi5UomNNYUn0u,1WgXqy2Dd70QQOU7Ay074N|236320",
   song: "song/aurora-exist-for-love",
+  carriedBy: [
+    {
+      release: "release/aurora-exist-for-love-remixes",
+      discNumber: 1,
+      position: 2,
+      externalId: "2iizfBZwGwBg0tyMaxFCtA",
+      externalLink: "https://open.spotify.com/track/2iizfBZwGwBg0tyMaxFCtA",
+    },
+  ],
 } as const satisfies Track

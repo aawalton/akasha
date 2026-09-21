@@ -25,4 +25,13 @@ export const celticWoman2TheMagicOfChristmasCarolOfTheBells = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "carolofthebells|6NWtt9pNOL2Gx7kBykdE5x|204040",
   song: "song/celtic-woman-carol-of-the-bells",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-magic-of-christmas",
+      discNumber: 1,
+      position: 11,
+      externalId: "0g1QIgjXadbcKdJnkFU5qB",
+      externalLink: "https://open.spotify.com/track/0g1QIgjXadbcKdJnkFU5qB",
+    },
+  ],
 } as const satisfies Track

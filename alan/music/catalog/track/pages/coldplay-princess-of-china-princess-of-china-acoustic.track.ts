@@ -28,4 +28,13 @@ export const coldplayPrincessOfChinaPrincessOfChinaAcoustic = {
   ],
   trackKey: "princessofchinaacoustic|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|206693",
   song: "song/coldplay-princess-of-china",
+  carriedBy: [
+    {
+      release: "release/coldplay-princess-of-china",
+      discNumber: 1,
+      position: 4,
+      externalId: "2tKqZsc0epdLrsNUT6y0Ls",
+      externalLink: "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls",
+    },
+  ],
 } as const satisfies Track

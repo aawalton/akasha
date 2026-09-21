@@ -25,4 +25,13 @@ export const coldplayAHeadFullOfDreamsAHeadFullOfDreams = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "aheadfullofdreams|4gzpq5DPGxSnKTe4SA8HAU|223773",
   song: "song/coldplay-a-head-full-of-dreams",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-head-full-of-dreams",
+      discNumber: 1,
+      position: 1,
+      externalId: "6f49kbOuQSOsStBpyGvQfA",
+      externalLink: "https://open.spotify.com/track/6f49kbOuQSOsStBpyGvQfA",
+    },
+  ],
 } as const satisfies Track

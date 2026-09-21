@@ -30,4 +30,13 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesOffTheTableWithThe
     trackKey:
       "offthetablewiththeweekndlivefromvevo|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|250132",
     song: "song/ariana-grande-off-the-table",
+    carriedBy: [
+      {
+        release: "release/ariana-grande-positions-vevo-official-live-performances",
+        discNumber: 1,
+        position: 6,
+        externalId: "0byLdLL737OkLJ6WRhi85Z",
+        externalLink: "https://open.spotify.com/track/0byLdLL737OkLJ6WRhi85Z",
+      },
+    ],
   } as const satisfies Track

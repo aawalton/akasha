@@ -28,4 +28,13 @@ export const imagineDragonsBonesTwocolorsRemixBonesTwocolorsRemix = {
   ],
   trackKey: "bonestwocolorsremix|53XhwfbYqKCa1cC15pYq2q,7ACEUD7UsmmXrnj4OLt8f9|256092",
   song: "song/imagine-dragons-bones",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-bones-twocolors-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "2czjUxrgctplH7SDrJLGGb",
+      externalLink: "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb",
+    },
+  ],
 } as const satisfies Track

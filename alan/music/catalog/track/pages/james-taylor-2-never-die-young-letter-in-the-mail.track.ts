@@ -25,4 +25,13 @@ export const jamesTaylor2NeverDieYoungLetterInTheMail = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "letterinthemail|0vn7UBvSQECKJm2817Yf1P|281133",
   song: "song/james-taylor-letter-in-the-mail",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-never-die-young",
+      discNumber: 1,
+      position: 9,
+      externalId: "1o2dvnqMGxeCQWw6MJRhn9",
+      externalLink: "https://open.spotify.com/track/1o2dvnqMGxeCQWw6MJRhn9",
+    },
+  ],
 } as const satisfies Track

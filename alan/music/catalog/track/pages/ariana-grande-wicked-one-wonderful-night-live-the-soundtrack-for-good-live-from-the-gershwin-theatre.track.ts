@@ -32,4 +32,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackForGoodLiveFrom
     trackKey:
       "forgoodlivefromthegershwintheatre|3DgcBA7P0ji5co7Z1Gfp2Q,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,73Np75Wv2tju61Eo9Zw4IR|271695",
     song: "song/ariana-grande-for-good",
+    carriedBy: [
+      {
+        release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+        discNumber: 1,
+        position: 10,
+        externalId: "2zS3syUBiTkYqJRm9Tn52h",
+        externalLink: "https://open.spotify.com/track/2zS3syUBiTkYqJRm9Tn52h",
+      },
+    ],
   } as const satisfies Track

@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe80sIStillHaventFoundWhatImLookingFor = 
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "istillhaventfoundwhatimlookingfor|6tITG4T8LpC0msapZ4wXGA|169168",
   song: "song/the-holderness-family-i-still-havent-found-what-im-looking-for",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-80s",
+      discNumber: 1,
+      position: 8,
+      externalId: "4vdLzkw6wsUVQtHJnvCdbN",
+      externalLink: "https://open.spotify.com/track/4vdLzkw6wsUVQtHJnvCdbN",
+    },
+  ],
 } as const satisfies Track

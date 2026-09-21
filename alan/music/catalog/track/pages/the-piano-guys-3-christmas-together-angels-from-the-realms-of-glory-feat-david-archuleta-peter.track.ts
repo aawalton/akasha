@@ -30,4 +30,13 @@ export const thePianoGuys3ChristmasTogetherAngelsFromTheRealmsOfGloryFeatDavidAr
   trackKey:
     "angelsfromtherealmsofgloryfeatdavidarchuletapeterhollens|0jW6R8CVyVohuUJVcuweDI,2C9n4tQgNLhHPhSCmdsQnk,7EIbKyiLnEJ1Y074UIUyZJ|245812",
   song: "song/the-piano-guys-angels-from-the-realms-of-glory",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-christmas-together",
+      discNumber: 1,
+      position: 1,
+      externalId: "64zMg4hZVgyIRuZimF7olj",
+      externalLink: "https://open.spotify.com/track/64zMg4hZVgyIRuZimF7olj",
+    },
+  ],
 } as const satisfies Track

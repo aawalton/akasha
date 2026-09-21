@@ -28,4 +28,13 @@ export const imagineDragonsDemonsTelykastRemixDemonsTelykastRemix = {
   ],
   trackKey: "demonstelykastremix|53XhwfbYqKCa1cC15pYq2q,7vWC03wqXwUqjPON8hc1tz|176128",
   song: "song/imagine-dragons-demons",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-demons-telykast-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "72jFYj77ULwaxXA5qelI2w",
+      externalLink: "https://open.spotify.com/track/72jFYj77ULwaxXA5qelI2w",
+    },
+  ],
 } as const satisfies Track

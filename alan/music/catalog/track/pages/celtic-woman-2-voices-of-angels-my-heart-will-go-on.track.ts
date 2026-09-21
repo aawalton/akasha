@@ -25,4 +25,13 @@ export const celticWoman2VoicesOfAngelsMyHeartWillGoOn = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "myheartwillgoon|6NWtt9pNOL2Gx7kBykdE5x|261040",
   song: "song/celtic-woman-my-heart-will-go-on",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-voices-of-angels",
+      discNumber: 1,
+      position: 1,
+      externalId: "3K9VhfnAyqfEQKC5y6yDVP",
+      externalLink: "https://open.spotify.com/track/3K9VhfnAyqfEQKC5y6yDVP",
+    },
+  ],
 } as const satisfies Track

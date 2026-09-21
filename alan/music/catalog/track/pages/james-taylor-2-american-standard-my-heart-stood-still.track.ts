@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardMyHeartStoodStill = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "myheartstoodstill|0vn7UBvSQECKJm2817Yf1P|207053",
   song: "song/james-taylor-my-heart-stood-still",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 11,
+      externalId: "5NbEQEE3DUOVVyeD1VyHIL",
+      externalLink: "https://open.spotify.com/track/5NbEQEE3DUOVVyeD1VyHIL",
+    },
+  ],
 } as const satisfies Track

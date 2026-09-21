@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysDidYouThinkToPray = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "didyouthinktopray|7FQRbf8gbKw8KZQZAJWxH2|182133",
   song: "song/paul-cardall-did-you-think-to-pray",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 32,
+      externalId: "6XcEJy7WbNcX6OhqxBepWz",
+      externalLink: "https://open.spotify.com/track/6XcEJy7WbNcX6OhqxBepWz",
+    },
+  ],
 } as const satisfies Track

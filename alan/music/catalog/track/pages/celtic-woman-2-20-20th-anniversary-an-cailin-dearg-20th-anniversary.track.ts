@@ -25,4 +25,13 @@ export const celticWoman22020thAnniversaryAnCailinDearg20thAnniversary = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "ancailindearg20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|241000",
   song: "song/celtic-woman-an-cailin-dearg-20th-anniversary",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-20-20th-anniversary",
+      discNumber: 1,
+      position: 16,
+      externalId: "7d2yPlAFMeF7FhYfZaCPp6",
+      externalLink: "https://open.spotify.com/track/7d2yPlAFMeF7FhYfZaCPp6",
+    },
+  ],
 } as const satisfies Track

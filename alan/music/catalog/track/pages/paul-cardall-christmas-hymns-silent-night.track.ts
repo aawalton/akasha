@@ -25,4 +25,13 @@ export const paulCardallChristmasHymnsSilentNight = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "silentnight|7FQRbf8gbKw8KZQZAJWxH2|231493",
   song: "song/celtic-woman-silent-night",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas-hymns",
+      discNumber: 1,
+      position: 8,
+      externalId: "6ce32lzE9vBNyXkdmsX17x",
+      externalLink: "https://open.spotify.com/track/6ce32lzE9vBNyXkdmsX17x",
+    },
+  ],
 } as const satisfies Track

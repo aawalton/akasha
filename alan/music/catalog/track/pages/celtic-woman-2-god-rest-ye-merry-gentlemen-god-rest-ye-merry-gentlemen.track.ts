@@ -25,4 +25,13 @@ export const celticWoman2GodRestYeMerryGentlemenGodRestYeMerryGentlemen = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "godrestyemerrygentlemen|6NWtt9pNOL2Gx7kBykdE5x|149432",
   song: "song/celtic-woman-god-rest-ye-merry-gentlemen",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-god-rest-ye-merry-gentlemen",
+      discNumber: 1,
+      position: 1,
+      externalId: "6Stw8C62q16ITZRctjljRl",
+      externalLink: "https://open.spotify.com/track/6Stw8C62q16ITZRctjljRl",
+    },
+  ],
 } as const satisfies Track

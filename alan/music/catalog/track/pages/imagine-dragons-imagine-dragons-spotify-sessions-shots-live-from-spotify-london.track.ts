@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsSpotifySessionsShotsLiveFromSpotifyLond
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "shotslivefromspotifylondon|53XhwfbYqKCa1cC15pYq2q|212810",
   song: "song/imagine-dragons-shots",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-spotify-sessions",
+      discNumber: 1,
+      position: 3,
+      externalId: "2OmymQ2ONrm6iQJLX9qnmp",
+      externalLink: "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp",
+    },
+  ],
 } as const satisfies Track

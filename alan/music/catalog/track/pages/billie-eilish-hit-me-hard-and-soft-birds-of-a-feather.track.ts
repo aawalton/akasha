@@ -25,4 +25,13 @@ export const billieEilishHitMeHardAndSoftBirdsOfAFeather = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "birdsofafeather|6qqNVTkY8uBg9cP3Jd7DAH|210373",
   song: "song/billie-eilish-birds-of-a-feather",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-hit-me-hard-and-soft",
+      discNumber: 1,
+      position: 4,
+      externalId: "6dOtVTDdiauQNBQEDOtlAB",
+      externalLink: "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+    },
+  ],
 } as const satisfies Track

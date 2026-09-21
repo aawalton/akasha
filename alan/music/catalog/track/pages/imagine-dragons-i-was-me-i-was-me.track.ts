@@ -25,4 +25,13 @@ export const imagineDragonsIWasMeIWasMe = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "iwasme|53XhwfbYqKCa1cC15pYq2q|196013",
   song: "song/imagine-dragons-i-was-me",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-i-was-me",
+      discNumber: 1,
+      position: 1,
+      externalId: "27eKJ4RlK36novSUJQXlVH",
+      externalLink: "https://open.spotify.com/track/27eKJ4RlK36novSUJQXlVH",
+    },
+  ],
 } as const satisfies Track

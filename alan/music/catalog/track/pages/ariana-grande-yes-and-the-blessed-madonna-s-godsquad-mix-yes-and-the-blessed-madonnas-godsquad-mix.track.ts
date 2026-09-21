@@ -29,4 +29,13 @@ export const arianaGrandeYesAndTheBlessedMadonnaSGodsquadMixYesAndTheBlessedMado
   trackKey:
     "yesandtheblessedmadonnasgodsquadmix|4TvhRzxIL1le2PWCeUqxQw,66CXWjxzNUsdJxJ2JdwvnR|301982",
   song: "song/ariana-grande-yes-and",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yes-and-the-blessed-madonna-s-godsquad-mix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5jvgyMX8IQwzpGeWi6P4Xo",
+      externalLink: "https://open.spotify.com/track/5jvgyMX8IQwzpGeWi6P4Xo",
+    },
+  ],
 } as const satisfies Track

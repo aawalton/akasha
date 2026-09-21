@@ -25,4 +25,13 @@ export const thePianoGuys3LimitlessEpiphany = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "epiphany|0jW6R8CVyVohuUJVcuweDI|281999",
   song: "song/the-piano-guys-epiphany",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-limitless",
+      discNumber: 1,
+      position: 9,
+      externalId: "06XspRiZpjqVdXVdJNVxzB",
+      externalLink: "https://open.spotify.com/track/06XspRiZpjqVdXVdJNVxzB",
+    },
+  ],
 } as const satisfies Track

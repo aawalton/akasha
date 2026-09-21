@@ -28,4 +28,13 @@ export const thePianoGuys3ThePianoGuysPeponiParadise = {
   ],
   trackKey: "peponiparadise|0jW6R8CVyVohuUJVcuweDI,6SraGCznFUAZ3zb4zVe3DM|250762",
   song: "song/the-piano-guys-peponi-paradise",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys",
+      discNumber: 1,
+      position: 2,
+      externalId: "20ig2hDnHXETisuRBR4wVB",
+      externalLink: "https://open.spotify.com/track/20ig2hDnHXETisuRBR4wVB",
+    },
+  ],
 } as const satisfies Track

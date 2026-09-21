@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "dontwannabreakupagain|66CXWjxzNUsdJxJ2JdwvnR|174006",
   song: "song/ariana-grande-don-t-wanna-break-up-again",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+      discNumber: 1,
+      position: 3,
+      externalId: "3d4NRTVASm8UCwczC3EtsL",
+      externalLink: "https://open.spotify.com/track/3d4NRTVASm8UCwczC3EtsL",
+    },
+  ],
 } as const satisfies Track

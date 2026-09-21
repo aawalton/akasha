@@ -25,4 +25,13 @@ export const celticWoman2SoloCaledonia = {
   trackArtist: [{ externalId: "1qvS1CTPZHz1KyE2jx92pQ", artistName: "Susan" }],
   trackKey: "caledonia|1qvS1CTPZHz1KyE2jx92pQ|298028",
   song: "song/celtic-woman-caledonia",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-solo",
+      discNumber: 1,
+      position: 7,
+      externalId: "3VN1kN5fncIRWeMNonl0sr",
+      externalLink: "https://open.spotify.com/track/3VN1kN5fncIRWeMNonl0sr",
+    },
+  ],
 } as const satisfies Track

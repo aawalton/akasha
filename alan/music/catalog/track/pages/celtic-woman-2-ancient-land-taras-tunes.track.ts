@@ -25,4 +25,13 @@ export const celticWoman2AncientLandTarasTunes = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "tarastunes|6NWtt9pNOL2Gx7kBykdE5x|254933",
   song: "song/celtic-woman-taras-tunes",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-ancient-land",
+      discNumber: 1,
+      position: 11,
+      externalId: "3aGiYndzAVhVa51kIe1bTd",
+      externalLink: "https://open.spotify.com/track/3aGiYndzAVhVa51kIe1bTd",
+    },
+  ],
 } as const satisfies Track

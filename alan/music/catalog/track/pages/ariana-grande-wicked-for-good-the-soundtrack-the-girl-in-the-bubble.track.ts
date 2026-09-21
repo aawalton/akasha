@@ -25,4 +25,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackTheGirlInTheBubble = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thegirlinthebubble|66CXWjxzNUsdJxJ2JdwvnR|220500",
   song: "song/ariana-grande-the-girl-in-the-bubble",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack",
+      discNumber: 1,
+      position: 10,
+      externalId: "6Wxn79EwKPQvYerlctheGx",
+      externalLink: "https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx",
+    },
+  ],
 } as const satisfies Track

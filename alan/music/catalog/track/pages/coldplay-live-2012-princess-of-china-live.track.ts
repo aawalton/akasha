@@ -25,4 +25,13 @@ export const coldplayLive2012PrincessOfChinaLive = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "princessofchinalive|4gzpq5DPGxSnKTe4SA8HAU|228960",
   song: "song/coldplay-princess-of-china",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-2012",
+      discNumber: 1,
+      position: 7,
+      externalId: "0t1nm5TmszvLLVAOLiOrH8",
+      externalLink: "https://open.spotify.com/track/0t1nm5TmszvLLVAOLiOrH8",
+    },
+  ],
 } as const satisfies Track

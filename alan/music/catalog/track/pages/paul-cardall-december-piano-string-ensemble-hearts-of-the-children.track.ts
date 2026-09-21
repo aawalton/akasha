@@ -25,4 +25,13 @@ export const paulCardallDecemberPianoStringEnsembleHeartsOfTheChildren = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "heartsofthechildren|7FQRbf8gbKw8KZQZAJWxH2|149626",
   song: "song/paul-cardall-hearts-of-the-children",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-december-piano-string-ensemble",
+      discNumber: 1,
+      position: 10,
+      externalId: "09nZ8cbwomZ3Im4jqfTMSN",
+      externalLink: "https://open.spotify.com/track/09nZ8cbwomZ3Im4jqfTMSN",
+    },
+  ],
 } as const satisfies Track

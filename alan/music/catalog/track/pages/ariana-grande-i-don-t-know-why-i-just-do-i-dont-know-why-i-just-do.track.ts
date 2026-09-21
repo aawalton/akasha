@@ -31,4 +31,13 @@ export const arianaGrandeIDonTKnowWhyIJustDoIDontKnowWhyIJustDo = {
   ],
   trackKey: "idontknowwhyijustdo|66CXWjxzNUsdJxJ2JdwvnR,7lbrnX0ng1Il12RdEU1Ohu|224826",
   song: "song/ariana-grande-i-dont-know-why-i-just-do",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-i-don-t-know-why-i-just-do",
+      discNumber: 1,
+      position: 1,
+      externalId: "0MF0kprFLhr2KtqNjgN7bw",
+      externalLink: "https://open.spotify.com/track/0MF0kprFLhr2KtqNjgN7bw",
+    },
+  ],
 } as const satisfies Track

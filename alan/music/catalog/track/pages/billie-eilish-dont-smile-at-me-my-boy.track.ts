@@ -25,4 +25,13 @@ export const billieEilishDontSmileAtMeMyBoy = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "myboy|6qqNVTkY8uBg9cP3Jd7DAH|170852",
   song: "song/billie-eilish-my-boy",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-dont-smile-at-me",
+      discNumber: 1,
+      position: 3,
+      externalId: "1RGasjWLZ4qMN7wbtkLa3u",
+      externalLink: "https://open.spotify.com/track/1RGasjWLZ4qMN7wbtkLa3u",
+    },
+  ],
 } as const satisfies Track

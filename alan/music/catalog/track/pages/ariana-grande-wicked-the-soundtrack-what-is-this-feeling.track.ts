@@ -28,4 +28,13 @@ export const arianaGrandeWickedTheSoundtrackWhatIsThisFeeling = {
   ],
   trackKey: "whatisthisfeeling|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|228947",
   song: "song/ariana-grande-what-is-this-feeling",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 4,
+      externalId: "6nC9vcKeasXw3JhNuGKL6v",
+      externalLink: "https://open.spotify.com/track/6nC9vcKeasXw3JhNuGKL6v",
+    },
+  ],
 } as const satisfies Track

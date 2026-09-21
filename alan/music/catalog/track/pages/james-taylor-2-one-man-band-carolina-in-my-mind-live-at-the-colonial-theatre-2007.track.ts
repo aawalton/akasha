@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandCarolinaInMyMindLiveAtTheColonialTheatre2007 
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "carolinainmymindliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|304093",
   song: "song/james-taylor-carolina-in-my-mind",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 16,
+      externalId: "1Zi2jUaZUAG6h9mvyUxFS1",
+      externalLink: "https://open.spotify.com/track/1Zi2jUaZUAG6h9mvyUxFS1",
+    },
+  ],
 } as const satisfies Track

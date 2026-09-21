@@ -25,4 +25,13 @@ export const coldplayShiverCarefulWhereYouStand = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "carefulwhereyoustand|4gzpq5DPGxSnKTe4SA8HAU|285026",
   song: "song/coldplay-careful-where-you-stand",
+  carriedBy: [
+    {
+      release: "release/coldplay-shiver",
+      discNumber: 1,
+      position: 3,
+      externalId: "6V3U7whxAMRzOLTli2zt26",
+      externalLink: "https://open.spotify.com/track/6V3U7whxAMRzOLTli2zt26",
+    },
+  ],
 } as const satisfies Track

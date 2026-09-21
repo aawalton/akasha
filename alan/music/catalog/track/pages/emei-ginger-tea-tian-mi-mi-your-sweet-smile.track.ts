@@ -25,4 +25,13 @@ export const emeiGingerTeaTianMiMiYourSweetSmile = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "tianmimiyoursweetsmile|7E2aQQjErJocovYFjYLzWU|63866",
   song: "song/emei-tian-mi-mi-your-sweet-smile",
+  carriedBy: [
+    {
+      release: "release/emei-ginger-tea",
+      discNumber: 1,
+      position: 2,
+      externalId: "1wYBTmZ8tBfm7kX3RYkYLZ",
+      externalLink: "https://open.spotify.com/track/1wYBTmZ8tBfm7kX3RYkYLZ",
+    },
+  ],
 } as const satisfies Track

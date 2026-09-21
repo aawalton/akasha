@@ -25,4 +25,13 @@ export const arianaGrandePetalBigFeelings = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "bigfeelings|66CXWjxzNUsdJxJ2JdwvnR|173622",
   song: "song/ariana-grande-big-feelings",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-petal",
+      discNumber: 1,
+      position: 6,
+      externalId: "6MFSqc8pzXlwfzXqWZEKd4",
+      externalLink: "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayXYWhatIf = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "whatif|4gzpq5DPGxSnKTe4SA8HAU|298519",
   song: "song/coldplay-what-if",
+  carriedBy: [
+    {
+      release: "release/coldplay-x-y",
+      discNumber: 1,
+      position: 2,
+      externalId: "39qRdHcl2tizWbzlM9kUlN",
+      externalLink: "https://open.spotify.com/track/39qRdHcl2tizWbzlM9kUlN",
+    },
+  ],
 } as const satisfies Track

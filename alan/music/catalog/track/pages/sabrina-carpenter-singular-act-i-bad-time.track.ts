@@ -25,4 +25,13 @@ export const sabrinaCarpenterSingularActIBadTime = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "badtime|74KM79TiuVKeVCqs8QtB0B|184533",
   song: "song/sabrina-carpenter-bad-time",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-i",
+      discNumber: 1,
+      position: 6,
+      externalId: "1YqPDOmooQQIXsRSdbRrwI",
+      externalLink: "https://open.spotify.com/track/1YqPDOmooQQIXsRSdbRrwI",
+    },
+  ],
 } as const satisfies Track

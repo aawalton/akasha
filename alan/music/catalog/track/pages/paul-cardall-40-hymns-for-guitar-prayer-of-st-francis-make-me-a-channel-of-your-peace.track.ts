@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarPrayerOfStFrancisMakeMeAChannelOfYourPea
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "prayerofstfrancismakemeachannelofyourpeace|7FQRbf8gbKw8KZQZAJWxH2|167500",
   song: "song/paul-cardall-prayer-of-st-francis-make-me-a-channel-of-your-peace",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 28,
+      externalId: "4qOz8CJXArpPBEx8WNvogW",
+      externalLink: "https://open.spotify.com/track/4qOz8CJXArpPBEx8WNvogW",
+    },
+  ],
 } as const satisfies Track

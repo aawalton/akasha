@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourUpOnTheRoofLiveAtTheTroubadour2007 =
   trackKey:
     "upontheroofliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|249146",
   song: "song/james-taylor-up-on-the-roof",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 14,
+      externalId: "1MqlbA03Ck33ObMeGkfkZD",
+      externalLink: "https://open.spotify.com/track/1MqlbA03Ck33ObMeGkfkZD",
+    },
+  ],
 } as const satisfies Track

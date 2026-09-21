@@ -25,4 +25,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackThroughTheEyesOfACh
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "throughtheeyesofachild|1WgXqy2Dd70QQOU7Ay074N|274000",
   song: "song/aurora-through-the-eyes-of-a-child",
+  carriedBy: [
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 14,
+      externalId: "1SwfVvuuSt9RLBLkv9ZQaN",
+      externalLink: "https://open.spotify.com/track/1SwfVvuuSt9RLBLkv9ZQaN",
+    },
+  ],
 } as const satisfies Track

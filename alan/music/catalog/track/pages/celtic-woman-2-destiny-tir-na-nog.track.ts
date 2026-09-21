@@ -28,4 +28,13 @@ export const celticWoman2DestinyTirNaNog = {
   ],
   trackKey: "tirnanog|46CaFQ5mdimxfNmTILDBlk,6NWtt9pNOL2Gx7kBykdE5x|188724",
   song: "song/celtic-woman-tir-na-nog",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-destiny",
+      discNumber: 1,
+      position: 8,
+      externalId: "6obm5ubZCFaxTw44EonarI",
+      externalLink: "https://open.spotify.com/track/6obm5ubZCFaxTw44EonarI",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyLovinIt = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "lovinit|66CXWjxzNUsdJxJ2JdwvnR|180693",
   song: "song/ariana-grande-lovin-it",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 5,
+      externalId: "7EpKfPAURnG9OCVer0S30N",
+      externalLink: "https://open.spotify.com/track/7EpKfPAURnG9OCVer0S30N",
+    },
+  ],
 } as const satisfies Track

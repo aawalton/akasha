@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "twilightzoneinstrumental|66CXWjxzNUsdJxJ2JdwvnR|198320",
   song: "song/ariana-grande-twilight-zone",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+      discNumber: 1,
+      position: 34,
+      externalId: "2QZB1C9qniDhS6iqxBG8y6",
+      externalLink: "https://open.spotify.com/track/2QZB1C9qniDhS6iqxBG8y6",
+    },
+  ],
 } as const satisfies Track

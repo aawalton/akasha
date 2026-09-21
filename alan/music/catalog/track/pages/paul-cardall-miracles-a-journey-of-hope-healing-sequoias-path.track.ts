@@ -25,4 +25,13 @@ export const paulCardallMiraclesAJourneyOfHopeHealingSequoiasPath = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sequoiaspath|7FQRbf8gbKw8KZQZAJWxH2|225480",
   song: "song/paul-cardall-sequoias-path",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-miracles-a-journey-of-hope-healing",
+      discNumber: 1,
+      position: 7,
+      externalId: "7MyakuivAkXDZ4xs76pUjk",
+      externalLink: "https://open.spotify.com/track/7MyakuivAkXDZ4xs76pUjk",
+    },
+  ],
 } as const satisfies Track

@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheCall = 
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thecall|6NWtt9pNOL2Gx7kBykdE5x|258026",
   song: "song/celtic-woman-the-call",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 5,
+      externalId: "45ueDihg42SDdpYM8IQUHq",
+      externalLink: "https://open.spotify.com/track/45ueDihg42SDdpYM8IQUHq",
+    },
+  ],
 } as const satisfies Track

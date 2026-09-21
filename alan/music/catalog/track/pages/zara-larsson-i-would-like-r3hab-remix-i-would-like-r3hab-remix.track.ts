@@ -28,4 +28,13 @@ export const zaraLarssonIWouldLikeR3habRemixIWouldLikeR3habRemix = {
   ],
   trackKey: "iwouldliker3habremix|1Xylc3o4UrD53lo9CvFvVg,6cEuCEZu7PAE9ZSzLLc2oQ|146999",
   song: "song/zara-larsson-i-would-like",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-i-would-like-r3hab-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "6gXTlkZQjtNo5j3Kp86H4G",
+      externalLink: "https://open.spotify.com/track/6gXTlkZQjtNo5j3Kp86H4G",
+    },
+  ],
 } as const satisfies Track

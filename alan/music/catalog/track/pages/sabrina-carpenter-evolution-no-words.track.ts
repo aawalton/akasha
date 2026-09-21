@@ -25,4 +25,13 @@ export const sabrinaCarpenterEvolutionNoWords = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "nowords|74KM79TiuVKeVCqs8QtB0B|212586",
   song: "song/sabrina-carpenter-no-words",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-evolution",
+      discNumber: 1,
+      position: 4,
+      externalId: "7gnUZFwdWMCaLNPDbGaq0Y",
+      externalLink: "https://open.spotify.com/track/7gnUZFwdWMCaLNPDbGaq0Y",
+    },
+  ],
 } as const satisfies Track

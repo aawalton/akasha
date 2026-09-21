@@ -29,4 +29,13 @@ export const thePianoGuys3ChristmasTogetherOLittleOneSweetBwv493FeatTheKingsSing
   trackKey:
     "olittleonesweetbwv493featthekingssingers|0jW6R8CVyVohuUJVcuweDI,5lR7yDVN4z9kahOiUSlMhe|223062",
   song: "song/the-piano-guys-o-little-one-sweet-bwv-493",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-christmas-together",
+      discNumber: 1,
+      position: 7,
+      externalId: "0dqw7sD9DQhXutlWif9WNO",
+      externalLink: "https://open.spotify.com/track/0dqw7sD9DQhXutlWif9WNO",
+    },
+  ],
 } as const satisfies Track

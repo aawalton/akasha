@@ -25,4 +25,13 @@ export const jamesTaylorJamesTaylorAtChristmasWhoComesThisNight = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "whocomesthisnight|0vn7UBvSQECKJm2817Yf1P|250013",
   song: "song/james-taylor-who-comes-this-night",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 10,
+      externalId: "3jwg2SQAmvywVvK0ASpgyL",
+      externalLink: "https://open.spotify.com/track/3jwg2SQAmvywVvK0ASpgyL",
+    },
+  ],
 } as const satisfies Track

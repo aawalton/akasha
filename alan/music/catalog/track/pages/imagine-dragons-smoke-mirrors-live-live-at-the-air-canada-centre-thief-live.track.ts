@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreThiefLive = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "thieflive|53XhwfbYqKCa1cC15pYq2q|241613",
   song: "song/imagine-dragons-thief",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
+      discNumber: 1,
+      position: 8,
+      externalId: "4X0A7YUETkhn9On4OzVJqc",
+      externalLink: "https://open.spotify.com/track/4X0A7YUETkhn9On4OzVJqc",
+    },
+  ],
 } as const satisfies Track

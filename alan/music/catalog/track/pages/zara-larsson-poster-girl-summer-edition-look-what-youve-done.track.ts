@@ -25,4 +25,13 @@ export const zaraLarssonPosterGirlSummerEditionLookWhatYouveDone = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "lookwhatyouvedone|1Xylc3o4UrD53lo9CvFvVg|181354",
   song: "song/zara-larsson-look-what-you-ve-done",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-poster-girl-summer-edition",
+      discNumber: 1,
+      position: 8,
+      externalId: "4bsOYodM01jQ2sx6hMc9BR",
+      externalLink: "https://open.spotify.com/track/4bsOYodM01jQ2sx6hMc9BR",
+    },
+  ],
 } as const satisfies Track

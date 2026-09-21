@@ -25,4 +25,13 @@ export const auroraIntoTheUnknownIntoTheUnknown = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "intotheunknown|1WgXqy2Dd70QQOU7Ay074N|199960",
   song: "song/aurora-into-the-unknown",
+  carriedBy: [
+    {
+      release: "release/aurora-into-the-unknown",
+      discNumber: 1,
+      position: 1,
+      externalId: "0O2szuaez7BKxS8SH7RkV4",
+      externalLink: "https://open.spotify.com/track/0O2szuaez7BKxS8SH7RkV4",
+    },
+  ],
 } as const satisfies Track

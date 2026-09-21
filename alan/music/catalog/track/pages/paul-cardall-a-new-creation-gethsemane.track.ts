@@ -28,4 +28,13 @@ export const paulCardallANewCreationGethsemane = {
   ],
   trackKey: "gethsemane|6WfsgevyXjoFI4tT5ghvhV,7FQRbf8gbKw8KZQZAJWxH2|214400",
   song: "song/paul-cardall-gethsemane",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-new-creation",
+      discNumber: 1,
+      position: 8,
+      externalId: "067fdHLUlMJYn9gav9gExG",
+      externalLink: "https://open.spotify.com/track/067fdHLUlMJYn9gav9gExG",
+    },
+  ],
 } as const satisfies Track

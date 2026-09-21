@@ -30,4 +30,13 @@ export const auroraComeCloserRingTheAlarm = {
   trackKey:
     "ringthealarm|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|331413",
   song: "song/aurora-ring-the-alarm",
+  carriedBy: [
+    {
+      release: "release/aurora-come-closer",
+      discNumber: 1,
+      position: 4,
+      externalId: "3i3Qa9DLMVeexn7ighFoVS",
+      externalLink: "https://open.spotify.com/track/3i3Qa9DLMVeexn7ighFoVS",
+    },
+  ],
 } as const satisfies Track

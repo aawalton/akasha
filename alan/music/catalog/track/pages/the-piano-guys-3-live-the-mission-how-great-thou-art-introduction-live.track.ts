@@ -25,4 +25,13 @@ export const thePianoGuys3LiveTheMissionHowGreatThouArtIntroductionLive = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "themissionhowgreatthouartintroductionlive|0jW6R8CVyVohuUJVcuweDI|67146",
   song: "song/the-piano-guys-the-mission-how-great-thou-art-introduction",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-live",
+      discNumber: 1,
+      position: 14,
+      externalId: "0YmcZZikYnbYIHVQtZTuLU",
+      externalLink: "https://open.spotify.com/track/0YmcZZikYnbYIHVQtZTuLU",
+    },
+  ],
 } as const satisfies Track

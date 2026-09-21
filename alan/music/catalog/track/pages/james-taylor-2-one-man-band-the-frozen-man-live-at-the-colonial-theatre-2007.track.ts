@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandTheFrozenManLiveAtTheColonialTheatre2007 = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thefrozenmanliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|307173",
   song: "song/james-taylor-the-frozen-man",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 3,
+      externalId: "0GXJb7j9SUIBh3GBigxj0U",
+      externalLink: "https://open.spotify.com/track/0GXJb7j9SUIBh3GBigxj0U",
+    },
+  ],
 } as const satisfies Track

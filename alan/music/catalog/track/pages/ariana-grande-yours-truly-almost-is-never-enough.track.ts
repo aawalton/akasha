@@ -28,4 +28,13 @@ export const arianaGrandeYoursTrulyAlmostIsNeverEnough = {
   ],
   trackKey: "almostisneverenough|2Rf4X6m0oayCJhaJ5K63GQ,66CXWjxzNUsdJxJ2JdwvnR|327773",
   song: "song/ariana-grande-almost-is-never-enough",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 10,
+      externalId: "63bo7NDoWdMFXufhsYOxwG",
+      externalLink: "https://open.spotify.com/track/63bo7NDoWdMFXufhsYOxwG",
+    },
+  ],
 } as const satisfies Track

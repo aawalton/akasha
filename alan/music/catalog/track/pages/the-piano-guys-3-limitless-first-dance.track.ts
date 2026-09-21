@@ -25,4 +25,13 @@ export const thePianoGuys3LimitlessFirstDance = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "firstdance|0jW6R8CVyVohuUJVcuweDI|276363",
   song: "song/the-piano-guys-first-dance",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-limitless",
+      discNumber: 1,
+      position: 12,
+      externalId: "0g7tfERffxAbZy6q1BmykR",
+      externalLink: "https://open.spotify.com/track/0g7tfERffxAbZy6q1BmykR",
+    },
+  ],
 } as const satisfies Track

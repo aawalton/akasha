@@ -25,4 +25,13 @@ export const thePianoGuys3YesterdayYesterday = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "yesterday|0jW6R8CVyVohuUJVcuweDI|208312",
   song: "song/the-piano-guys-yesterday",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-yesterday",
+      discNumber: 1,
+      position: 1,
+      externalId: "4JLEnOgHaQD2yXkoI6iu65",
+      externalLink: "https://open.spotify.com/track/4JLEnOgHaQD2yXkoI6iu65",
+    },
+  ],
 } as const satisfies Track

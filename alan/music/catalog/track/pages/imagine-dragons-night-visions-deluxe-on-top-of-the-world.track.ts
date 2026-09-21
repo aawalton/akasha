@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsDeluxeOnTopOfTheWorld = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ontopoftheworld|53XhwfbYqKCa1cC15pYq2q|189840",
   song: "song/imagine-dragons-on-top-of-the-world",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-deluxe",
+      discNumber: 1,
+      position: 5,
+      externalId: "6KuHjfXHkfnIjdmcIvt9r0",
+      externalLink: "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0",
+    },
+  ],
 } as const satisfies Track

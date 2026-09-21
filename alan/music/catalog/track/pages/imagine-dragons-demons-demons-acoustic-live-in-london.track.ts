@@ -25,4 +25,13 @@ export const imagineDragonsDemonsDemonsAcousticLiveInLondon = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "demonsacousticliveinlondon|53XhwfbYqKCa1cC15pYq2q|187786",
   song: "song/imagine-dragons-demons",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-demons",
+      discNumber: 1,
+      position: 3,
+      externalId: "744NOOjzsy9kSxh2HimEBk",
+      externalLink: "https://open.spotify.com/track/744NOOjzsy9kSxh2HimEBk",
+    },
+  ],
 } as const satisfies Track

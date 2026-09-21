@@ -25,4 +25,13 @@ export const paulCardallPrimaryWorshipJesusSaidLoveEveryone = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesussaidloveeveryone|7FQRbf8gbKw8KZQZAJWxH2|248093",
   song: "song/paul-cardall-jesus-said-love-everyone",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-primary-worship",
+      discNumber: 1,
+      position: 4,
+      externalId: "1I6lt3sSqBu6MwFoGR44XK",
+      externalLink: "https://open.spotify.com/track/1I6lt3sSqBu6MwFoGR44XK",
+    },
+  ],
 } as const satisfies Track

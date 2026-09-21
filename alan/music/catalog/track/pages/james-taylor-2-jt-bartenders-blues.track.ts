@@ -25,4 +25,13 @@ export const jamesTaylor2JtBartendersBlues = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "bartendersblues|0vn7UBvSQECKJm2817Yf1P|252448",
   song: "song/james-taylor-bartenders-blues",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-jt",
+      discNumber: 1,
+      position: 5,
+      externalId: "1Pm0IxpzPNGF9O6fvYyP2q",
+      externalLink: "https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q",
+    },
+  ],
 } as const satisfies Track

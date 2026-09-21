@@ -25,4 +25,13 @@ export const auroraForTheMetalPeopleUnderTheWater = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "underthewater|1WgXqy2Dd70QQOU7Ay074N|264600",
   song: "song/aurora-under-the-water",
+  carriedBy: [
+    {
+      release: "release/aurora-for-the-metal-people",
+      discNumber: 1,
+      position: 1,
+      externalId: "2NNWSsNGoJI57E1l0DwiXY",
+      externalLink: "https://open.spotify.com/track/2NNWSsNGoJI57E1l0DwiXY",
+    },
+  ],
 } as const satisfies Track

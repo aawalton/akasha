@@ -25,4 +25,13 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterMachineGunKell
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "machinegunkelly2019remaster|0vn7UBvSQECKJm2817Yf1P|157163",
   song: "song/james-taylor-machine-gun-kelly",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster",
+      discNumber: 1,
+      position: 9,
+      externalId: "0XMEFaM6o1Kzkm4ps2LnQU",
+      externalLink: "https://open.spotify.com/track/0XMEFaM6o1Kzkm4ps2LnQU",
+    },
+  ],
 } as const satisfies Track

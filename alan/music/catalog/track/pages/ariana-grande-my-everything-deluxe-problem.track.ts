@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingDeluxeProblem = {
   ],
   trackKey: "problem|5yG7ZAZafVaAlMTeBybKAL,66CXWjxzNUsdJxJ2JdwvnR|193920",
   song: "song/ariana-grande-problem",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-deluxe",
+      discNumber: 1,
+      position: 2,
+      externalId: "7vS3Y0IKjde7Xg85LWIEdP",
+      externalLink: "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP",
+    },
+  ],
 } as const satisfies Track

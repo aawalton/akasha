@@ -28,4 +28,13 @@ export const zaraLarssonSoGoodNeverForgetYou = {
   ],
   trackKey: "neverforgetyou|1Xylc3o4UrD53lo9CvFvVg,7uMh23xWiuR7zsNkuNcm2G|212574",
   song: "song/zara-larsson-never-forget-you",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 7,
+      externalId: "6hmhG1b4LEyNuashVvuIAo",
+      externalLink: "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
+    },
+  ],
 } as const satisfies Track

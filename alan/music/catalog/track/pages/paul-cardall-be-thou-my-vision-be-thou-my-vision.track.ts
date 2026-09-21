@@ -25,4 +25,13 @@ export const paulCardallBeThouMyVisionBeThouMyVision = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bethoumyvision|7FQRbf8gbKw8KZQZAJWxH2|248500",
   song: "song/paul-cardall-be-thou-my-vision",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-be-thou-my-vision",
+      discNumber: 1,
+      position: 1,
+      externalId: "7uTkqzfkBDocIB8J89gNxa",
+      externalLink: "https://open.spotify.com/track/7uTkqzfkBDocIB8J89gNxa",
+    },
+  ],
 } as const satisfies Track

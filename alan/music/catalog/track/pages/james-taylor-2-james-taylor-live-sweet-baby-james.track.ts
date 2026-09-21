@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveSweetBabyJames = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sweetbabyjames|0vn7UBvSQECKJm2817Yf1P|251373",
   song: "song/james-taylor-sweet-baby-james",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 1,
+      externalId: "6sMFBGi63uil2HDqUEpCq3",
+      externalLink: "https://open.spotify.com/track/6sMFBGi63uil2HDqUEpCq3",
+    },
+  ],
 } as const satisfies Track

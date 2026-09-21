@@ -25,4 +25,13 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveWeCantBeFriendsWaitForYou
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "wecantbefriendswaitforyourlovestringversion|66CXWjxzNUsdJxJ2JdwvnR|222442",
   song: "song/ariana-grande-we-can-t-be-friends-wait-for-your-love",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-we-can-t-be-friends-wait-for-your-love",
+      discNumber: 1,
+      position: 4,
+      externalId: "2TJYfqZ24XmBt3lKsfQj4N",
+      externalLink: "https://open.spotify.com/track/2TJYfqZ24XmBt3lKsfQj4N",
+    },
+  ],
 } as const satisfies Track

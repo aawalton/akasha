@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveIWillFollow = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "iwillfollow|0vn7UBvSQECKJm2817Yf1P|237333",
   song: "song/james-taylor-i-will-follow",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 13,
+      externalId: "5XG30JWRg0y9QXGEXHXAEk",
+      externalLink: "https://open.spotify.com/track/5XG30JWRg0y9QXGEXHXAEk",
+    },
+  ],
 } as const satisfies Track

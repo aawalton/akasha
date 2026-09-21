@@ -25,4 +25,13 @@ export const thePianoGuysClassicalForStudyingNessunDorma = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "nessundorma|0jW6R8CVyVohuUJVcuweDI|147545",
   song: "song/the-piano-guys-nessun-dorma",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-classical-for-studying",
+      discNumber: 1,
+      position: 2,
+      externalId: "6KVkNZ0lbDYYqJFTUokrdI",
+      externalLink: "https://open.spotify.com/track/6KVkNZ0lbDYYqJFTUokrdI",
+    },
+  ],
 } as const satisfies Track

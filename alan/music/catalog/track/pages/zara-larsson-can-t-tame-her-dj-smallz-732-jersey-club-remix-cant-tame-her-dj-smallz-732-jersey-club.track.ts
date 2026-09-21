@@ -29,4 +29,13 @@ export const zaraLarssonCanTTameHerDjSmallz732JerseyClubRemixCantTameHerDjSmallz
   trackKey:
     "canttameherdjsmallz732jerseyclubremix|1Xylc3o4UrD53lo9CvFvVg,6GrHfxMFCXCdIhN9DrAxjK|150792",
   song: "song/zara-larsson-can-t-tame-her",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-can-t-tame-her-dj-smallz-732-jersey-club-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "55MRmcpfl4J09kfuvXWfW1",
+      externalLink: "https://open.spotify.com/track/55MRmcpfl4J09kfuvXWfW1",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const zaraLarssonVenusYouLoveWhoYouLove = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "youlovewhoyoulove|1Xylc3o4UrD53lo9CvFvVg|185743",
   song: "song/zara-larsson-you-love-who-you-love",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-venus",
+      discNumber: 1,
+      position: 6,
+      externalId: "3bWHOxTJpHL6fyATpYFQXl",
+      externalLink: "https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl",
+    },
+  ],
 } as const satisfies Track

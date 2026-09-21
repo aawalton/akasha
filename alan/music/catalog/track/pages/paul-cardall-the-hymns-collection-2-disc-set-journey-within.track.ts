@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetJourneyWithin = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "journeywithin|7FQRbf8gbKw8KZQZAJWxH2|287843",
   song: "song/paul-cardall-journey-within",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 30,
+      externalId: "0yEuKEB3TxbnitRtjOnaRb",
+      externalLink: "https://open.spotify.com/track/0yEuKEB3TxbnitRtjOnaRb",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallTheCelebrateLifeConcertLiveWithoutYouLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "withoutyoulive|7FQRbf8gbKw8KZQZAJWxH2|139547",
   song: "song/paul-cardall-without-you",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-celebrate-life-concert-live",
+      discNumber: 1,
+      position: 3,
+      externalId: "68LlWKYaJ69ZdugM5zMJOx",
+      externalLink: "https://open.spotify.com/track/68LlWKYaJ69ZdugM5zMJOx",
+    },
+  ],
 } as const satisfies Track

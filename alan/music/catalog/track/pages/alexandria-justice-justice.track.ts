@@ -25,4 +25,13 @@ export const alexandriaJusticeJustice = {
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "justice|0SQG4wPVUlfbmbGQfqB47y|193373",
   song: "song/alexandria-justice",
+  carriedBy: [
+    {
+      release: "release/alexandria-justice",
+      discNumber: 1,
+      position: 1,
+      externalId: "0isMBNGbFrpvGhStVQLWJK",
+      externalLink: "https://open.spotify.com/track/0isMBNGbFrpvGhStVQLWJK",
+    },
+  ],
 } as const satisfies Track

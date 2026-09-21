@@ -25,4 +25,13 @@ export const alexandriaFireAndIceFireAndIce = {
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "fireandice|0SQG4wPVUlfbmbGQfqB47y|140094",
   song: "song/alexandria-fire-and-ice",
+  carriedBy: [
+    {
+      release: "release/alexandria-fire-and-ice",
+      discNumber: 1,
+      position: 1,
+      externalId: "10sQMYrMaRMAjgQqU0rT9m",
+      externalLink: "https://open.spotify.com/track/10sQMYrMaRMAjgQqU0rT9m",
+    },
+  ],
 } as const satisfies Track

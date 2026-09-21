@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveShedALittleLight = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "shedalittlelight|0vn7UBvSQECKJm2817Yf1P|256133",
   song: "song/james-taylor-shed-a-little-light",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 6,
+      externalId: "2HBZXNL42YtnkERUEJRRto",
+      externalLink: "https://open.spotify.com/track/2HBZXNL42YtnkERUEJRRto",
+    },
+  ],
 } as const satisfies Track

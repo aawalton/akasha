@@ -29,4 +29,13 @@ export const arianaGrandeYesAndRemixesYesAndTheBlessedMadonnasGodsquadMix = {
   trackKey:
     "yesandtheblessedmadonnasgodsquadmix|4TvhRzxIL1le2PWCeUqxQw,66CXWjxzNUsdJxJ2JdwvnR|301982",
   song: "song/ariana-grande-yes-and",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yes-and-remixes",
+      discNumber: 1,
+      position: 3,
+      externalId: "1GxNDaFx9411X1g7cCf55E",
+      externalLink: "https://open.spotify.com/track/1GxNDaFx9411X1g7cCf55E",
+    },
+  ],
 } as const satisfies Track

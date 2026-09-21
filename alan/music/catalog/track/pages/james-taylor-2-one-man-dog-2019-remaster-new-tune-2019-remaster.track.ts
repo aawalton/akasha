@@ -25,4 +25,13 @@ export const jamesTaylor2OneManDog2019RemasterNewTune2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "newtune2019remaster|0vn7UBvSQECKJm2817Yf1P|96715",
   song: "song/james-taylor-new-tune",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-dog-2019-remaster",
+      discNumber: 1,
+      position: 6,
+      externalId: "3UwaAy0t6KtETvGdoCjowX",
+      externalLink: "https://open.spotify.com/track/3UwaAy0t6KtETvGdoCjowX",
+    },
+  ],
 } as const satisfies Track

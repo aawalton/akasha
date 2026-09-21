@@ -25,4 +25,13 @@ export const thePianoGuys3ClassicalMovieSoundtracksLetItGo = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "letitgo|0jW6R8CVyVohuUJVcuweDI|240642",
   song: "song/the-piano-guys-let-it-go",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-classical-movie-soundtracks",
+      discNumber: 1,
+      position: 2,
+      externalId: "0XajTLrpinn5abx0IsQyru",
+      externalLink: "https://open.spotify.com/track/0XajTLrpinn5abx0IsQyru",
+    },
+  ],
 } as const satisfies Track

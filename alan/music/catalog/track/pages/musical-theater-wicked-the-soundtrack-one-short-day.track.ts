@@ -32,4 +32,13 @@ export const musicalTheaterWickedTheSoundtrackOneShortDay = {
   trackKey:
     "oneshortday|26el8XoLgjuWJJBXCVdHjX,3DgcBA7P0ji5co7Z1Gfp2Q,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,73Np75Wv2tju61Eo9Zw4IR|392668",
   song: "song/cynthia-erivo-one-short-day",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 9,
+      externalId: "4jNerIJa2IOeL5gVDvMNLW",
+      externalLink: "https://open.spotify.com/track/4jNerIJa2IOeL5gVDvMNLW",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterPlacesInMyPast
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "placesinmypast2019remaster|0vn7UBvSQECKJm2817Yf1P|121920",
   song: "song/james-taylor-places-in-my-past",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster",
+      discNumber: 1,
+      position: 3,
+      externalId: "6LpSMfQTSQBxWSufEnxMgA",
+      externalLink: "https://open.spotify.com/track/6LpSMfQTSQBxWSufEnxMgA",
+    },
+  ],
 } as const satisfies Track

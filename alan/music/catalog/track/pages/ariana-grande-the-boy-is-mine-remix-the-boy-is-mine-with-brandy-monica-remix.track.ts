@@ -30,4 +30,13 @@ export const arianaGrandeTheBoyIsMineRemixTheBoyIsMineWithBrandyMonicaRemix = {
   trackKey:
     "theboyisminewithbrandymonicaremix|05oH07COxkXKIMt6mIPRee,66CXWjxzNUsdJxJ2JdwvnR,6nzxy2wXs6tLgzEtqOkEi2|213384",
   song: "song/ariana-grande-the-boy-is-mine",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-the-boy-is-mine-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "52anJ914oylWdT3CytSMYF",
+      externalLink: "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF",
+    },
+  ],
 } as const satisfies Track

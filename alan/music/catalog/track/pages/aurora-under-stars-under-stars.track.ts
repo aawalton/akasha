@@ -25,4 +25,13 @@ export const auroraUnderStarsUnderStars = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "understars|1WgXqy2Dd70QQOU7Ay074N|199026",
   song: "song/aurora-under-stars",
+  carriedBy: [
+    {
+      release: "release/aurora-under-stars",
+      discNumber: 1,
+      position: 1,
+      externalId: "2LFgK4Uk09LgP6Ta0ne8YF",
+      externalLink: "https://open.spotify.com/track/2LFgK4Uk09LgP6Ta0ne8YF",
+    },
+  ],
 } as const satisfies Track

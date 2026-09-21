@@ -25,4 +25,13 @@ export const emeiScatterbrainDeluxeAgreeToDisagree = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "agreetodisagree|7E2aQQjErJocovYFjYLzWU|142307",
   song: "song/emei-agree-to-disagree",
+  carriedBy: [
+    {
+      release: "release/emei-scatterbrain-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "4oD9gB11wTctdCMMzmuZWH",
+      externalLink: "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH",
+    },
+  ],
 } as const satisfies Track

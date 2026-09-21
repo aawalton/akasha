@@ -25,4 +25,13 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomHowDeepIsYourLoveLiveSpotifyLi
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "howdeepisyourlovelivespotifyliveroom|1Xylc3o4UrD53lo9CvFvVg|132166",
   song: "song/zara-larsson-how-deep-is-your-love",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-zara-larsson-spotify-live-room",
+      discNumber: 1,
+      position: 2,
+      externalId: "2yI5b5B4pwmahsOMGTgua1",
+      externalLink: "https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1",
+    },
+  ],
 } as const satisfies Track

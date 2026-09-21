@@ -25,4 +25,13 @@ export const auroraRunningWithTheWolvesLittleBoyInTheGrass = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "littleboyinthegrass|1WgXqy2Dd70QQOU7Ay074N|256480",
   song: "song/aurora-little-boy-in-the-grass",
+  carriedBy: [
+    {
+      release: "release/aurora-running-with-the-wolves",
+      discNumber: 1,
+      position: 4,
+      externalId: "2eOPAKk6XUELsl3FSgRmh7",
+      externalLink: "https://open.spotify.com/track/2eOPAKk6XUELsl3FSgRmh7",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const coldplayMoonMusicFullMoonEditionGoodFeelings = {
   ],
   trackKey: "goodfeelings|3ZpEKRjHaHANcpk10u6Ntq,4gzpq5DPGxSnKTe4SA8HAU|217380",
   song: "song/coldplay-good-feelings",
+  carriedBy: [
+    {
+      release: "release/coldplay-moon-music-full-moon-edition",
+      discNumber: 1,
+      position: 5,
+      externalId: "4nmIcNQjEGez4zeJfm5I1F",
+      externalLink: "https://open.spotify.com/track/4nmIcNQjEGez4zeJfm5I1F",
+    },
+  ],
 } as const satisfies Track

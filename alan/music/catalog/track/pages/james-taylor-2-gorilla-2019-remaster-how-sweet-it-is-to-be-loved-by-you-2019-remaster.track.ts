@@ -25,4 +25,13 @@ export const jamesTaylor2Gorilla2019RemasterHowSweetItIsToBeLovedByYou2019Remast
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "howsweetitistobelovedbyyou2019remaster|0vn7UBvSQECKJm2817Yf1P|216386",
   song: "song/james-taylor-how-sweet-it-is-to-be-loved-by-you",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-gorilla-2019-remaster",
+      discNumber: 1,
+      position: 3,
+      externalId: "75Nlnd9AJ4CYrLXgWGsuTF",
+      externalLink: "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF",
+    },
+  ],
 } as const satisfies Track

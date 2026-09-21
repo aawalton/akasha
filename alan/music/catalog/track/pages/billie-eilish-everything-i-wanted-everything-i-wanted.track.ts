@@ -25,4 +25,13 @@ export const billieEilishEverythingIWantedEverythingIWanted = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "everythingiwanted|6qqNVTkY8uBg9cP3Jd7DAH|245425",
   song: "song/billie-eilish-everything-i-wanted",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-everything-i-wanted",
+      discNumber: 1,
+      position: 1,
+      externalId: "3ZCTVFBt2Brf31RLEnCkWJ",
+      externalLink: "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const imagineDragonsMercuryActs12MyLife = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "mylife|53XhwfbYqKCa1cC15pYq2q|224512",
   song: "song/imagine-dragons-my-life",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-mercury-acts-1-2",
+      discNumber: 1,
+      position: 2,
+      externalId: "0E0kxko3i9b5JxxMoGH3At",
+      externalLink: "https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At",
+    },
+  ],
 } as const satisfies Track

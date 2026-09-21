@@ -30,4 +30,13 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveSaviRemix = {
   trackKey:
     "firstlovesaviremix|1H72fTOUAUl0WQ4kH5DPVW,3hyEbRtp617pNCuuQjyOmc,74KM79TiuVKeVCqs8QtB0B|205000",
   song: "song/sabrina-carpenter-first-love",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-first-love-remixes",
+      discNumber: 1,
+      position: 3,
+      externalId: "1TMmQ5JK4EewfiIAISLpzl",
+      externalLink: "https://open.spotify.com/track/1TMmQ5JK4EewfiIAISLpzl",
+    },
+  ],
 } as const satisfies Track

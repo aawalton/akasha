@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1AThousandYears = 
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "athousandyears|0jW6R8CVyVohuUJVcuweDI|270441",
   song: "song/evynne-hollens-a-thousand-years",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
+      discNumber: 1,
+      position: 7,
+      externalId: "08fRXYBpsLdN3r7RvFLpof",
+      externalLink: "https://open.spotify.com/track/08fRXYBpsLdN3r7RvFLpof",
+    },
+  ],
 } as const satisfies Track

@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsFollowOn =
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "followon|6NWtt9pNOL2Gx7kBykdE5x|291213",
   song: "song/celtic-woman-follow-on",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 10,
+      externalId: "1Xi4S7ZvEMbzq2jSUAoqbf",
+      externalLink: "https://open.spotify.com/track/1Xi4S7ZvEMbzq2jSUAoqbf",
+    },
+  ],
 } as const satisfies Track

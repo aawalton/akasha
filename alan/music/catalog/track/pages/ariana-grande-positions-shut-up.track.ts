@@ -25,4 +25,13 @@ export const arianaGrandePositionsShutUp = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "shutup|66CXWjxzNUsdJxJ2JdwvnR|157710",
   song: "song/ariana-grande-shut-up",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions",
+      discNumber: 1,
+      position: 1,
+      externalId: "3ko9jEHNt4O5fjKN65ULJp",
+      externalLink: "https://open.spotify.com/track/3ko9jEHNt4O5fjKN65ULJp",
+    },
+  ],
 } as const satisfies Track

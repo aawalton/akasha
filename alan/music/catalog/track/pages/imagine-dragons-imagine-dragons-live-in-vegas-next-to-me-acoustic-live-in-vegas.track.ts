@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsLiveInVegasNextToMeAcousticLiveInVegas 
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "nexttomeacousticliveinvegas|53XhwfbYqKCa1cC15pYq2q|234171",
   song: "song/imagine-dragons-next-to-me",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-live-in-vegas",
+      discNumber: 1,
+      position: 11,
+      externalId: "2MIZjqSTq0hZSUuDV4gMqp",
+      externalLink: "https://open.spotify.com/track/2MIZjqSTq0hZSUuDV4gMqp",
+    },
+  ],
 } as const satisfies Track

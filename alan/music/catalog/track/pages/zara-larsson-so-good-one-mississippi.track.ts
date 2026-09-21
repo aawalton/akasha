@@ -25,4 +25,13 @@ export const zaraLarssonSoGoodOneMississippi = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "onemississippi|1Xylc3o4UrD53lo9CvFvVg|187970",
   song: "song/zara-larsson-one-mississippi",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 12,
+      externalId: "7oArXBmMlLCtZdUkXWQZGs",
+      externalLink: "https://open.spotify.com/track/7oArXBmMlLCtZdUkXWQZGs",
+    },
+  ],
 } as const satisfies Track

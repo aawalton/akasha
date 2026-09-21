@@ -25,4 +25,13 @@ export const jamesTaylor2OneManDog2019RemasterDance2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "dance2019remaster|0vn7UBvSQECKJm2817Yf1P|126402",
   song: "song/james-taylor-dance",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-dog-2019-remaster",
+      discNumber: 1,
+      position: 17,
+      externalId: "2vFiLltVBIwmg27WYx2w9o",
+      externalLink: "https://open.spotify.com/track/2vFiLltVBIwmg27WYx2w9o",
+    },
+  ],
 } as const satisfies Track

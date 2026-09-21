@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveIWishIHatedYou 
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "iwishihatedyou|66CXWjxzNUsdJxJ2JdwvnR|153633",
   song: "song/ariana-grande-i-wish-i-hated-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 11,
+      externalId: "07IzLNKVhhGrLQ971uezZ8",
+      externalLink: "https://open.spotify.com/track/07IzLNKVhhGrLQ971uezZ8",
+    },
+  ],
 } as const satisfies Track

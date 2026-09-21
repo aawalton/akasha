@@ -25,4 +25,13 @@ export const celticWoman2CelticWomanSheMovedThruTheFair = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "shemovedthruthefair|6NWtt9pNOL2Gx7kBykdE5x|210920",
   song: "song/celtic-woman-she-moved-thru-the-fair",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-celtic-woman",
+      discNumber: 1,
+      position: 11,
+      externalId: "5LaSMvbGDfAlZEabjLixR6",
+      externalLink: "https://open.spotify.com/track/5LaSMvbGDfAlZEabjLixR6",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBeMyBaby = {
   ],
   trackKey: "bemybaby|2LZDXcxJWgsJfKXZv9a5eG,66CXWjxzNUsdJxJ2JdwvnR|217050",
   song: "song/ariana-grande-be-my-baby",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 7,
+      externalId: "0BFkaHSK8Irpp9KX7XUsvd",
+      externalLink: "https://open.spotify.com/track/0BFkaHSK8Irpp9KX7XUsvd",
+    },
+  ],
 } as const satisfies Track

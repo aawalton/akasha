@@ -25,4 +25,13 @@ export const sabrinaCarpenterEmailsICanTSendFwdAlreadyOver = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "alreadyover|74KM79TiuVKeVCqs8QtB0B|170827",
   song: "song/sabrina-carpenter-already-over",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send-fwd",
+      discNumber: 1,
+      position: 6,
+      externalId: "443Rp7TCj7n3SNDkmRIQb6",
+      externalLink: "https://open.spotify.com/track/443Rp7TCj7n3SNDkmRIQb6",
+    },
+  ],
 } as const satisfies Track

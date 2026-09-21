@@ -28,4 +28,13 @@ export const zaraLarssonTalkToMeZaraTalkToMeZara = {
   ],
   trackKey: "talktomezara|1Xylc3o4UrD53lo9CvFvVg,6UE7nl9mha6s8z0wFQFIZ2|193350",
   song: "song/zara-larsson-talk-to-me-zara",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-talk-to-me-zara",
+      discNumber: 1,
+      position: 1,
+      externalId: "58bQU5JRk0sBMUMdRy7sjk",
+      externalLink: "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk",
+    },
+  ],
 } as const satisfies Track

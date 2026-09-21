@@ -28,4 +28,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveOrdinaryThingsF
   ],
   trackKey: "ordinarythingsfeatnonna|66CXWjxzNUsdJxJ2JdwvnR,6maPmKkdwM4eyhz5O4lbkP|168500",
   song: "song/ariana-grande-ordinary-things",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 13,
+      externalId: "0TRiAXUwYAHo4sQKMgcZZG",
+      externalLink: "https://open.spotify.com/track/0TRiAXUwYAHo4sQKMgcZZG",
+    },
+  ],
 } as const satisfies Track

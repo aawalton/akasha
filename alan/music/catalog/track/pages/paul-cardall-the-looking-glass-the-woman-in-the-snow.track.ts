@@ -25,4 +25,13 @@ export const paulCardallTheLookingGlassTheWomanInTheSnow = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thewomaninthesnow|7FQRbf8gbKw8KZQZAJWxH2|223066",
   song: "song/paul-cardall-the-woman-in-the-snow",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-looking-glass",
+      discNumber: 1,
+      position: 6,
+      externalId: "4M8VhwqKbckxnCHeG71eYO",
+      externalLink: "https://open.spotify.com/track/4M8VhwqKbckxnCHeG71eYO",
+    },
+  ],
 } as const satisfies Track

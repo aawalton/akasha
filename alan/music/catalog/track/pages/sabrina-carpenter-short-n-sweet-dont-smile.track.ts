@@ -25,4 +25,13 @@ export const sabrinaCarpenterShortNSweetDontSmile = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "dontsmile|74KM79TiuVKeVCqs8QtB0B|206295",
   song: "song/sabrina-carpenter-dont-smile",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-short-n-sweet",
+      discNumber: 1,
+      position: 12,
+      externalId: "09LrGvT9KsACH66RHYMDyR",
+      externalLink: "https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR",
+    },
+  ],
 } as const satisfies Track

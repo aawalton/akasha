@@ -25,4 +25,13 @@ export const paulCardallDecemberPianoStringEnsembleHushLittleBabyTheMockingBirdS
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "hushlittlebabythemockingbirdsong|7FQRbf8gbKw8KZQZAJWxH2|146453",
   song: "song/paul-cardall-hush-little-baby-the-mocking-bird-song",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-december-piano-string-ensemble",
+      discNumber: 1,
+      position: 9,
+      externalId: "0596fiCmvgBVgnGrMbgzGS",
+      externalLink: "https://open.spotify.com/track/0596fiCmvgBVgnGrMbgzGS",
+    },
+  ],
 } as const satisfies Track

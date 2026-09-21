@@ -28,4 +28,13 @@ export const thePianoGuys3MainTitleFromJurassicParkJurassicParkTheme = {
   ],
   trackKey: "jurassicparktheme|0jW6R8CVyVohuUJVcuweDI,3dRfiJ2650SZu6GbydcHNb|235868",
   song: "song/the-piano-guys-jurassic-park-theme",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-main-title-from-jurassic-park",
+      discNumber: 1,
+      position: 1,
+      externalId: "5F6nH9kNbB48FusY2hFH01",
+      externalLink: "https://open.spotify.com/track/5F6nH9kNbB48FusY2hFH01",
+    },
+  ],
 } as const satisfies Track

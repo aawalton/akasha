@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetGodTheEternalFather = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godtheeternalfather|7FQRbf8gbKw8KZQZAJWxH2|158563",
   song: "song/paul-cardall-god-the-eternal-father",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 2,
+      externalId: "4JLwtpx0hjrbHeSmr8CtpL",
+      externalLink: "https://open.spotify.com/track/4JLwtpx0hjrbHeSmr8CtpL",
+    },
+  ],
 } as const satisfies Track

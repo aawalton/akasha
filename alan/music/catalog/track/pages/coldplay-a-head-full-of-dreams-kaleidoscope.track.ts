@@ -25,4 +25,13 @@ export const coldplayAHeadFullOfDreamsKaleidoscope = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "kaleidoscope|4gzpq5DPGxSnKTe4SA8HAU|111853",
   song: "song/coldplay-kaleidoscope",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-head-full-of-dreams",
+      discNumber: 1,
+      position: 7,
+      externalId: "7IX7VAXujvcZ3e1PG7sGP7",
+      externalLink: "https://open.spotify.com/track/7IX7VAXujvcZ3e1PG7sGP7",
+    },
+  ],
 } as const satisfies Track

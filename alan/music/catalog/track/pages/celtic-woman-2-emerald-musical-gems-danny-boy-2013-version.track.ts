@@ -25,4 +25,13 @@ export const celticWoman2EmeraldMusicalGemsDannyBoy2013Version = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "dannyboy2013version|6NWtt9pNOL2Gx7kBykdE5x|195693",
   song: "song/celtic-woman-danny-boy",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-emerald-musical-gems",
+      discNumber: 1,
+      position: 9,
+      externalId: "79E0Ru8wBp6vmZmUnEH1DR",
+      externalLink: "https://open.spotify.com/track/79E0Ru8wBp6vmZmUnEH1DR",
+    },
+  ],
 } as const satisfies Track

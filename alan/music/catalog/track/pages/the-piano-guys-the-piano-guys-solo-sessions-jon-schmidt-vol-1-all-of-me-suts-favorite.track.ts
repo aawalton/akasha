@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1AllOfMeSutsFavori
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "allofmesutsfavorite|2YQ4MY2VwOMv43C0GemUY5|187114",
   song: "song/the-piano-guys-all-of-me-suts-favorite",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-1",
+      discNumber: 1,
+      position: 2,
+      externalId: "2NMO8yzWawxeZGG4xYJF2Z",
+      externalLink: "https://open.spotify.com/track/2NMO8yzWawxeZGG4xYJF2Z",
+    },
+  ],
 } as const satisfies Track

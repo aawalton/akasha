@@ -25,4 +25,13 @@ export const thePianoGuys3AvengersPortalsAvengersPortals = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "avengersportals|0jW6R8CVyVohuUJVcuweDI|177000",
   song: "song/the-piano-guys-avengers-portals",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-avengers-portals",
+      discNumber: 1,
+      position: 1,
+      externalId: "2mJ5eyF4dXoo4t5QghoIQr",
+      externalLink: "https://open.spotify.com/track/2mJ5eyF4dXoo4t5QghoIQr",
+    },
+  ],
 } as const satisfies Track

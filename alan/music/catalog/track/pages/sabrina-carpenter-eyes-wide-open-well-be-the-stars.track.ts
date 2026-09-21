@@ -25,4 +25,13 @@ export const sabrinaCarpenterEyesWideOpenWellBeTheStars = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "wellbethestars|74KM79TiuVKeVCqs8QtB0B|186880",
   song: "song/sabrina-carpenter-well-be-the-stars",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-eyes-wide-open",
+      discNumber: 1,
+      position: 4,
+      externalId: "7lqkNvVxJdYDCSAwSJNzHs",
+      externalLink: "https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs",
+    },
+  ],
 } as const satisfies Track

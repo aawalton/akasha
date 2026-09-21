@@ -25,4 +25,13 @@ export const paulCardallPrimaryWorshipReverentlyQuietly = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "reverentlyquietly|7FQRbf8gbKw8KZQZAJWxH2|189213",
   song: "song/paul-cardall-reverently-quietly",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-primary-worship",
+      discNumber: 1,
+      position: 11,
+      externalId: "626e9Py1Awti5VQYrGW7WO",
+      externalLink: "https://open.spotify.com/track/626e9Py1Awti5VQYrGW7WO",
+    },
+  ],
 } as const satisfies Track

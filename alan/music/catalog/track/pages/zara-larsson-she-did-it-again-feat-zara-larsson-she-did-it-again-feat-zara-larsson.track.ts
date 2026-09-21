@@ -28,4 +28,13 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonSheDidItAgainFeatZaraLarsson
   ],
   trackKey: "shediditagainfeatzaralarsson|1Xylc3o4UrD53lo9CvFvVg,3SozjO3Lat463tQICI9LcE|213241",
   song: "song/zara-larsson-she-did-it-again",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-she-did-it-again-feat-zara-larsson",
+      discNumber: 1,
+      position: 1,
+      externalId: "3jucj0h0tajme6rUEadmWN",
+      externalLink: "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN",
+    },
+  ],
 } as const satisfies Track

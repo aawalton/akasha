@@ -25,4 +25,13 @@ export const vinnyMarchiSugarStarsMayItBe = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "mayitbe|5USAMqcbMAzF3HBmeD5pJF|192908",
   song: "song/vinny-marchi-may-it-be",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-sugar-stars",
+      discNumber: 1,
+      position: 10,
+      externalId: "5gGvxZp05Lj0aXFVRtin3E",
+      externalLink: "https://open.spotify.com/track/5gGvxZp05Lj0aXFVRtin3E",
+    },
+  ],
 } as const satisfies Track

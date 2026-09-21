@@ -28,4 +28,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "introendoftheworld|66CXWjxzNUsdJxJ2JdwvnR|92400",
     song: "song/ariana-grande-intro-end-of-the-world",
+    carriedBy: [
+      {
+        release:
+          "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+        discNumber: 1,
+        position: 1,
+        externalId: "5rz6BhAIYq45Iw94xQRSJe",
+        externalLink: "https://open.spotify.com/track/5rz6BhAIYq45Iw94xQRSJe",
+      },
+    ],
   } as const satisfies Track

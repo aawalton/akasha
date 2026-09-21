@@ -25,4 +25,13 @@ export const imagineDragonsHellAndSilenceEpSelene = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "selene|53XhwfbYqKCa1cC15pYq2q|245546",
   song: "song/imagine-dragons-selene",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-hell-and-silence-ep",
+      discNumber: 1,
+      position: 4,
+      externalId: "4eGXwNXHtH8GLohrZtqB3p",
+      externalLink: "https://open.spotify.com/track/4eGXwNXHtH8GLohrZtqB3p",
+    },
+  ],
 } as const satisfies Track

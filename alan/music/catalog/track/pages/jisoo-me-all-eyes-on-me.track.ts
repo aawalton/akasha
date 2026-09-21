@@ -25,4 +25,13 @@ export const jisooMeAllEyesOnMe = {
   trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
   trackKey: "alleyesonme|6UZ0ba50XreR4TM8u322gs|163522",
   song: "song/jisoo-all-eyes-on-me",
+  carriedBy: [
+    {
+      release: "release/jisoo-me",
+      discNumber: 1,
+      position: 2,
+      externalId: "2YXswOX5aKv6OHRKUcAMLQ",
+      externalLink: "https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ",
+    },
+  ],
 } as const satisfies Track

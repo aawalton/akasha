@@ -25,4 +25,13 @@ export const coldplayKaleidoscopeEpAllICanThinkAboutIsYou = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "allicanthinkaboutisyou|4gzpq5DPGxSnKTe4SA8HAU|274586",
   song: "song/coldplay-all-i-can-think-about-is-you",
+  carriedBy: [
+    {
+      release: "release/coldplay-kaleidoscope-ep",
+      discNumber: 1,
+      position: 1,
+      externalId: "6V6goat94tTJOWXXKZstNX",
+      externalLink: "https://open.spotify.com/track/6V6goat94tTJOWXXKZstNX",
+    },
+  ],
 } as const satisfies Track

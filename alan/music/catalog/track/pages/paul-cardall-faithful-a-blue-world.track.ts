@@ -25,4 +25,13 @@ export const paulCardallFaithfulABlueWorld = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ablueworld|7FQRbf8gbKw8KZQZAJWxH2|296720",
   song: "song/paul-cardall-a-blue-world",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-faithful",
+      discNumber: 1,
+      position: 6,
+      externalId: "1K0NL2Sxe1acIY8239sZRb",
+      externalLink: "https://open.spotify.com/track/1K0NL2Sxe1acIY8239sZRb",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jisooClickClick = {
   trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
   trackKey: "click|6UZ0ba50XreR4TM8u322gs|159095",
   song: "song/jisoo-click",
+  carriedBy: [
+    {
+      release: "release/jisoo-click",
+      discNumber: 1,
+      position: 1,
+      externalId: "1zyNO73bPNPC6KBi3raNmZ",
+      externalLink: "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ",
+    },
+  ],
 } as const satisfies Track

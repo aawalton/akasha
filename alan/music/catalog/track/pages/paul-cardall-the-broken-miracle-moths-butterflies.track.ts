@@ -25,4 +25,13 @@ export const paulCardallTheBrokenMiracleMothsButterflies = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "mothsbutterflies|7FQRbf8gbKw8KZQZAJWxH2|303360",
   song: "song/paul-cardall-moths-butterflies",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 2,
+      externalId: "525AFUqIN1FdZz5kjv8pGA",
+      externalLink: "https://open.spotify.com/track/525AFUqIN1FdZz5kjv8pGA",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const auroraParamourFeatAuroraParamourFeatAurora = {
   ],
   trackKey: "paramourfeataurora|1WgXqy2Dd70QQOU7Ay074N,7gXb99Sf9nNmpNYeAgIQFG|168433",
   song: "song/aurora-paramour",
+  carriedBy: [
+    {
+      release: "release/aurora-paramour-feat-aurora",
+      discNumber: 1,
+      position: 1,
+      externalId: "1erjalqVwLQT2t1ZWcas9P",
+      externalLink: "https://open.spotify.com/track/1erjalqVwLQT2t1ZWcas9P",
+    },
+  ],
 } as const satisfies Track

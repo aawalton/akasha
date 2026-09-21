@@ -25,4 +25,13 @@ export const jamesTaylorJamesTaylorAtChristmasMonBeauSapin = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "monbeausapin|0vn7UBvSQECKJm2817Yf1P|187813",
   song: "song/james-taylor-mon-beau-sapin",
+  carriedBy: [
+    {
+      release: "release/james-taylor-james-taylor-at-christmas",
+      discNumber: 1,
+      position: 14,
+      externalId: "0SEtLXirpHg7m50arIBfPi",
+      externalLink: "https://open.spotify.com/track/0SEtLXirpHg7m50arIBfPi",
+    },
+  ],
 } as const satisfies Track

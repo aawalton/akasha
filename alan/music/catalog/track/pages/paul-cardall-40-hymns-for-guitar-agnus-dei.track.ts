@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarAgnusDei = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "agnusdei|7FQRbf8gbKw8KZQZAJWxH2|139264",
   song: "song/paul-cardall-agnus-dei",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 37,
+      externalId: "1o5UMg4uhzIRw15bUl6r9I",
+      externalLink: "https://open.spotify.com/track/1o5UMg4uhzIRw15bUl6r9I",
+    },
+  ],
 } as const satisfies Track

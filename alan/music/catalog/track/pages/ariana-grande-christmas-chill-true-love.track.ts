@@ -25,4 +25,13 @@ export const arianaGrandeChristmasChillTrueLove = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "truelove|66CXWjxzNUsdJxJ2JdwvnR|166237",
   song: "song/ariana-grande-true-love",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-christmas-chill",
+      discNumber: 1,
+      position: 5,
+      externalId: "02E2iNkWn6VTWWfbwrN7tY",
+      externalLink: "https://open.spotify.com/track/02E2iNkWn6VTWWfbwrN7tY",
+    },
+  ],
 } as const satisfies Track

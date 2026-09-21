@@ -28,4 +28,13 @@ export const zaraLarssonPosterGirlTalkAboutLoveFeatYoungThug = {
   ],
   trackKey: "talkaboutlovefeatyoungthug|1Xylc3o4UrD53lo9CvFvVg,50co4Is1HCEo8bhOyUWKpn|199774",
   song: "song/zara-larsson-talk-about-love",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-poster-girl",
+      discNumber: 1,
+      position: 2,
+      externalId: "5UkMXb3IfK9fTCCrMr0v9A",
+      externalLink: "https://open.spotify.com/track/5UkMXb3IfK9fTCCrMr0v9A",
+    },
+  ],
 } as const satisfies Track

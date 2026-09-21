@@ -28,4 +28,13 @@ export const sabrinaCarpenterNonsenseRemixNonsenseWithCoiLerayRemix = {
   ],
   trackKey: "nonsensewithcoilerayremix|6AMd49uBDJfhf30Ak2QR5s,74KM79TiuVKeVCqs8QtB0B|175648",
   song: "song/sabrina-carpenter-nonsense",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-nonsense-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "0DD4vkP9qDiej99eUCG4jC",
+      externalLink: "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsDemonsLiveLondonSessi
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "demonslivelondonsessions2013|53XhwfbYqKCa1cC15pYq2q|187506",
   song: "song/imagine-dragons-demons",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-live-london-sessions",
+      discNumber: 1,
+      position: 3,
+      externalId: "1Jle5IfWWuetgt8fvW2Q69",
+      externalLink: "https://open.spotify.com/track/1Jle5IfWWuetgt8fvW2Q69",
+    },
+  ],
 } as const satisfies Track

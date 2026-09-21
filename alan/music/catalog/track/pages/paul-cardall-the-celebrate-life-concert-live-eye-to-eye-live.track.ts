@@ -25,4 +25,13 @@ export const paulCardallTheCelebrateLifeConcertLiveEyeToEyeLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "eyetoeyelive|7FQRbf8gbKw8KZQZAJWxH2|232386",
   song: "song/paul-cardall-eye-to-eye",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-celebrate-life-concert-live",
+      discNumber: 1,
+      position: 9,
+      externalId: "5fsc0oB7bEEDgHwfmY8cCh",
+      externalLink: "https://open.spotify.com/track/5fsc0oB7bEEDgHwfmY8cCh",
+    },
+  ],
 } as const satisfies Track

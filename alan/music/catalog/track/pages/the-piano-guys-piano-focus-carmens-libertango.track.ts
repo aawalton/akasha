@@ -25,4 +25,13 @@ export const thePianoGuysPianoFocusCarmensLibertango = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "carmenslibertango|0jW6R8CVyVohuUJVcuweDI|166175",
   song: "song/the-piano-guys-carmens-libertango",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-piano-focus",
+      discNumber: 1,
+      position: 15,
+      externalId: "1RU6q7tbSBR3eppziMdkG8",
+      externalLink: "https://open.spotify.com/track/1RU6q7tbSBR3eppziMdkG8",
+    },
+  ],
 } as const satisfies Track

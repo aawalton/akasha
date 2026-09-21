@@ -25,4 +25,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDefyingGravityL
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "defyinggravitylivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ|224018",
   song: "song/ariana-grande-defying-gravity",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+      discNumber: 1,
+      position: 8,
+      externalId: "1aevzuJq0SwENM2dwPT5Wg",
+      externalLink: "https://open.spotify.com/track/1aevzuJq0SwENM2dwPT5Wg",
+    },
+  ],
 } as const satisfies Track

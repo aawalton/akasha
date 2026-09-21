@@ -25,4 +25,13 @@ export const paulCardallTheBrokenMiracleForBetterOrWorse = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "forbetterorworse|7FQRbf8gbKw8KZQZAJWxH2|159760",
   song: "song/paul-cardall-for-better-or-worse",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 10,
+      externalId: "1pgILP7O7CjVOtzs26TNkP",
+      externalLink: "https://open.spotify.com/track/1pgILP7O7CjVOtzs26TNkP",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2ChristmasCardsFromIrelandISawThreeShips = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "isawthreeships|6NWtt9pNOL2Gx7kBykdE5x|178373",
   song: "song/celtic-woman-i-saw-three-ships",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-christmas-cards-from-ireland",
+      discNumber: 1,
+      position: 3,
+      externalId: "346w1VQCWAjpx9i0zAEHMj",
+      externalLink: "https://open.spotify.com/track/346w1VQCWAjpx9i0zAEHMj",
+    },
+  ],
 } as const satisfies Track

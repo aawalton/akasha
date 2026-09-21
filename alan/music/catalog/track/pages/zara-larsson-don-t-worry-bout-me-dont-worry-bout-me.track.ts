@@ -25,4 +25,13 @@ export const zaraLarssonDonTWorryBoutMeDontWorryBoutMe = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "dontworryboutme|1Xylc3o4UrD53lo9CvFvVg|208811",
   song: "song/zara-larsson-don-t-worry-bout-me",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-don-t-worry-bout-me",
+      discNumber: 1,
+      position: 1,
+      externalId: "507tQXutCPYNFkpOq8tmKF",
+      externalLink: "https://open.spotify.com/track/507tQXutCPYNFkpOq8tmKF",
+    },
+  ],
 } as const satisfies Track

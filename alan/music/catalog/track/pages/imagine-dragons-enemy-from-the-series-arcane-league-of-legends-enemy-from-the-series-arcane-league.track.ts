@@ -30,4 +30,13 @@ export const imagineDragonsEnemyFromTheSeriesArcaneLeagueOfLegendsEnemyFromTheSe
   trackKey:
     "enemyfromtheseriesarcaneleagueoflegends|47mIJdHORyRerp4os813jD,53XhwfbYqKCa1cC15pYq2q,57nPqD7z62gDdq37US9XJR|173381",
   song: "song/imagine-dragons-enemy-from-the-series-arcane-league-of-legends",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-enemy-from-the-series-arcane-league-of-legends",
+      discNumber: 1,
+      position: 1,
+      externalId: "5UlnuulVAVmmesw4VzqHdG",
+      externalLink: "https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG",
+    },
+  ],
 } as const satisfies Track

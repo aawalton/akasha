@@ -25,4 +25,13 @@ export const paulCardallHymnsComeComeYeSaints = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comecomeyesaints|7FQRbf8gbKw8KZQZAJWxH2|250400",
   song: "song/paul-cardall-come-come-ye-saints",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-hymns",
+      discNumber: 1,
+      position: 14,
+      externalId: "7q8oa4YYFYCxVa6gKNj2tU",
+      externalLink: "https://open.spotify.com/track/7q8oa4YYFYCxVa6gKNj2tU",
+    },
+  ],
 } as const satisfies Track

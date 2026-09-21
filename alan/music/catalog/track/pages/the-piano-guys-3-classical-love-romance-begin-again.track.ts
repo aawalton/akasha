@@ -25,4 +25,13 @@ export const thePianoGuys3ClassicalLoveRomanceBeginAgain = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "beginagain|0jW6R8CVyVohuUJVcuweDI|245506",
   song: "song/taylor-swift-begin-again",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-classical-love-romance",
+      discNumber: 1,
+      position: 5,
+      externalId: "1qSF2qBpQrsgGztDQfTPrR",
+      externalLink: "https://open.spotify.com/track/1qSF2qBpQrsgGztDQfTPrR",
+    },
+  ],
 } as const satisfies Track

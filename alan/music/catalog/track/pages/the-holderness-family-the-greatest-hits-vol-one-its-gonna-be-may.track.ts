@@ -25,4 +25,13 @@ export const theHoldernessFamilyTheGreatestHitsVolOneItsGonnaBeMay = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "itsgonnabemay|6tITG4T8LpC0msapZ4wXGA|109035",
   song: "song/the-holderness-family-its-gonna-be-may",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-the-greatest-hits-vol-one",
+      discNumber: 1,
+      position: 8,
+      externalId: "6UrzAgrD4bg1Bauj0lQ3WE",
+      externalLink: "https://open.spotify.com/track/6UrzAgrD4bg1Bauj0lQ3WE",
+    },
+  ],
 } as const satisfies Track

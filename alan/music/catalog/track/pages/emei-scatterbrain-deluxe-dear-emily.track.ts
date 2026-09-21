@@ -25,4 +25,13 @@ export const emeiScatterbrainDeluxeDearEmily = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "dearemily|7E2aQQjErJocovYFjYLzWU|162937",
   song: "song/emei-dear-emily",
+  carriedBy: [
+    {
+      release: "release/emei-scatterbrain-deluxe",
+      discNumber: 1,
+      position: 4,
+      externalId: "6JKdddBaYpm92OVGtlddkE",
+      externalLink: "https://open.spotify.com/track/6JKdddBaYpm92OVGtlddkE",
+    },
+  ],
 } as const satisfies Track

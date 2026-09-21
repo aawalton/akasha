@@ -25,4 +25,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterJonnyRifePulledAKnife = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "jonnyrifepulledaknife|5USAMqcbMAzF3HBmeD5pJF|181000",
   song: "song/vinny-marchi-jonny-rife-pulled-a-knife",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 13,
+      externalId: "2RM5EdNddpjmgUHQ5rpDBs",
+      externalLink: "https://open.spotify.com/track/2RM5EdNddpjmgUHQ5rpDBs",
+    },
+  ],
 } as const satisfies Track

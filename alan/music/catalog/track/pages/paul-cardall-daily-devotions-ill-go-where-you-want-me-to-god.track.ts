@@ -25,4 +25,13 @@ export const paulCardallDailyDevotionsIllGoWhereYouWantMeToGod = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "illgowhereyouwantmetogod|7FQRbf8gbKw8KZQZAJWxH2|160973",
   song: "song/paul-cardall-ill-go-where-you-want-me-to-god",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-daily-devotions",
+      discNumber: 1,
+      position: 10,
+      externalId: "7vP5JAQMkFPle7Wz0geZZm",
+      externalLink: "https://open.spotify.com/track/7vP5JAQMkFPle7Wz0geZZm",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2APoorWayfaringMan
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "apoorwayfaringmanofgrief|2YQ4MY2VwOMv43C0GemUY5|476315",
   song: "song/the-piano-guys-a-poor-wayfaring-man-of-grief",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 3,
+      externalId: "0e6Ax8RLh9irqhyxfuTmYt",
+      externalLink: "https://open.spotify.com/track/0e6Ax8RLh9irqhyxfuTmYt",
+    },
+  ],
 } as const satisfies Track

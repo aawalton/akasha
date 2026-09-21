@@ -25,4 +25,13 @@ export const sylviaDaleyMyOwnRulesMyOwnRules = {
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "myownrules|03dXd2zBbBJvX60Oap8Lgo|154187",
   song: "song/sylvia-daley-my-own-rules",
+  carriedBy: [
+    {
+      release: "release/sylvia-daley-my-own-rules",
+      discNumber: 1,
+      position: 1,
+      externalId: "4FcR7G0OXj6sBOGHnDCWkF",
+      externalLink: "https://open.spotify.com/track/4FcR7G0OXj6sBOGHnDCWkF",
+    },
+  ],
 } as const satisfies Track

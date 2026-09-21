@@ -25,4 +25,13 @@ export const celticWoman2AChristmasCelebrationTheLittleDrummerBoy = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thelittledrummerboy|6NWtt9pNOL2Gx7kBykdE5x|226693",
   song: "song/celtic-woman-the-little-drummer-boy",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-a-christmas-celebration",
+      discNumber: 1,
+      position: 13,
+      externalId: "2Hzd1CvlV8srxrVu4bdsxy",
+      externalLink: "https://open.spotify.com/track/2Hzd1CvlV8srxrVu4bdsxy",
+    },
+  ],
 } as const satisfies Track

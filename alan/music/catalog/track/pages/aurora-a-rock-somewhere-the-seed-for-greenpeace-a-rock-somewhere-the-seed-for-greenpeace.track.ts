@@ -29,4 +29,13 @@ export const auroraARockSomewhereTheSeedForGreenpeaceARockSomewhereTheSeedForGre
   trackKey:
     "arocksomewheretheseedforgreenpeace|0QWrMNukfcVOmgEU0FEDyD,1WgXqy2Dd70QQOU7Ay074N|358246",
   song: "song/aurora-a-rock-somewhere-the-seed-for-greenpeace",
+  carriedBy: [
+    {
+      release: "release/aurora-a-rock-somewhere-the-seed-for-greenpeace",
+      discNumber: 1,
+      position: 1,
+      externalId: "0XL3TycRDynBXUfVm9feRH",
+      externalLink: "https://open.spotify.com/track/0XL3TycRDynBXUfVm9feRH",
+    },
+  ],
 } as const satisfies Track

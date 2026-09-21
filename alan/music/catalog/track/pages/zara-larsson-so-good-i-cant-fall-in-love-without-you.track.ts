@@ -25,4 +25,13 @@ export const zaraLarssonSoGoodICantFallInLoveWithoutYou = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "icantfallinlovewithoutyou|1Xylc3o4UrD53lo9CvFvVg|177844",
   song: "song/zara-larsson-i-can-t-fall-in-love-without-you",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good",
+      discNumber: 1,
+      position: 14,
+      externalId: "4VPXFi4vFTtS9wHe6oMQaT",
+      externalLink: "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT",
+    },
+  ],
 } as const satisfies Track

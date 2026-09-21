@@ -28,4 +28,13 @@ export const zaraLarssonWowImanbekRemixWowImanbekRemix = {
   ],
   trackKey: "wowimanbekremix|1Xylc3o4UrD53lo9CvFvVg,5rGrDvrLOV2VV8SCFVGWlj|187428",
   song: "song/zara-larsson-wow",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-wow-imanbek-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "07dzaQfXNcQPVm149RGlMg",
+      externalLink: "https://open.spotify.com/track/07dzaQfXNcQPVm149RGlMg",
+    },
+  ],
 } as const satisfies Track

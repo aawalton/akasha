@@ -28,4 +28,13 @@ export const coldplayOrphansMuziRemixOrphansMuziRemix = {
   ],
   trackKey: "orphansmuziremix|4fd3n8zcAmsG2up1QWDNj5,4gzpq5DPGxSnKTe4SA8HAU|221160",
   song: "song/coldplay-orphans",
+  carriedBy: [
+    {
+      release: "release/coldplay-orphans-muzi-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "5x5SYDpamwxXJG675ArNMr",
+      externalLink: "https://open.spotify.com/track/5x5SYDpamwxXJG675ArNMr",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2DestinyTheHillsOfIreland = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thehillsofireland|6NWtt9pNOL2Gx7kBykdE5x|192042",
   song: "song/celtic-woman-the-hills-of-ireland",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-destiny",
+      discNumber: 1,
+      position: 16,
+      externalId: "52Mclc4OjcfWvFl7UL8miX",
+      externalLink: "https://open.spotify.com/track/52Mclc4OjcfWvFl7UL8miX",
+    },
+  ],
 } as const satisfies Track

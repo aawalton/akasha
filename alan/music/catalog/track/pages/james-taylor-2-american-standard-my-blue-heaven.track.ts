@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardMyBlueHeaven = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "myblueheaven|0vn7UBvSQECKJm2817Yf1P|163160",
   song: "song/james-taylor-my-blue-heaven",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 1,
+      externalId: "0DTzNcTTUZRFhJqMcBh34s",
+      externalLink: "https://open.spotify.com/track/0DTzNcTTUZRFhJqMcBh34s",
+    },
+  ],
 } as const satisfies Track

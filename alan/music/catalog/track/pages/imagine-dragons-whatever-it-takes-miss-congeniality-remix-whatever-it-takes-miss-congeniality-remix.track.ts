@@ -30,4 +30,13 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemixWhateverItTakesMi
     trackKey:
       "whateverittakesmisscongenialityremix|2iihIjipKKOFSJfxrn3gcE,53XhwfbYqKCa1cC15pYq2q|346586",
     song: "song/imagine-dragons-whatever-it-takes",
+    carriedBy: [
+      {
+        release: "release/imagine-dragons-whatever-it-takes-miss-congeniality-remix",
+        discNumber: 1,
+        position: 1,
+        externalId: "5jS8NWRE77LVJm9mCbpamU",
+        externalLink: "https://open.spotify.com/track/5jS8NWRE77LVJm9mCbpamU",
+      },
+    ],
   } as const satisfies Track

@@ -25,4 +25,13 @@ export const sabrinaCarpenterSingularActIPrfct = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "prfct|74KM79TiuVKeVCqs8QtB0B|166533",
   song: "song/sabrina-carpenter-prfct",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-i",
+      discNumber: 1,
+      position: 5,
+      externalId: "75wU86jr8iIiBVfD3kU3cU",
+      externalLink: "https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallLivingForEdenTwinkleLittleStar = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "twinklelittlestar|7FQRbf8gbKw8KZQZAJWxH2|140408",
   song: "song/paul-cardall-twinkle-little-star",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-living-for-eden",
+      discNumber: 1,
+      position: 23,
+      externalId: "0zU8NyP59Rrpzlsztw8YXp",
+      externalLink: "https://open.spotify.com/track/0zU8NyP59Rrpzlsztw8YXp",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const vinnyMarchiMistyMountainsMistyMountains = {
   ],
   trackKey: "mistymountains|5USAMqcbMAzF3HBmeD5pJF,7fLnGsF79xujfrOZmPMuEG|189180",
   song: "song/vinny-marchi-misty-mountains",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-misty-mountains",
+      discNumber: 1,
+      position: 1,
+      externalId: "6VWrUuAb8Bp51fBinsoziz",
+      externalLink: "https://open.spotify.com/track/6VWrUuAb8Bp51fBinsoziz",
+    },
+  ],
 } as const satisfies Track

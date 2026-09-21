@@ -28,4 +28,13 @@ export const billieEilishGuessFeaturingBillieEilishGuessFeaturingBillieEilish = 
   ],
   trackKey: "guessfeaturingbillieeilish|25uiPmTg16RbhZWAqwLBy5,6qqNVTkY8uBg9cP3Jd7DAH|143330",
   song: "song/billie-eilish-guess-featuring-billie-eilish",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-guess-featuring-billie-eilish",
+      discNumber: 1,
+      position: 1,
+      externalId: "3WOhcATHxK2SLNeP5W3v1v",
+      externalLink: "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v",
+    },
+  ],
 } as const satisfies Track

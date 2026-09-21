@@ -25,4 +25,13 @@ export const paulCardallTheLookingGlassFaithInSpring = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "faithinspring|7FQRbf8gbKw8KZQZAJWxH2|143093",
   song: "song/paul-cardall-faith-in-spring",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-looking-glass",
+      discNumber: 1,
+      position: 11,
+      externalId: "28DUyTFjufXwQE961pinzv",
+      externalLink: "https://open.spotify.com/track/28DUyTFjufXwQE961pinzv",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2Gorilla2019RemasterIWasAFoolToCare2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "iwasafooltocare2019remaster|0vn7UBvSQECKJm2817Yf1P|200960",
   song: "song/james-taylor-i-was-a-fool-to-care",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-gorilla-2019-remaster",
+      discNumber: 1,
+      position: 7,
+      externalId: "5bvMNadqECwmWB0rb7wnQ4",
+      externalLink: "https://open.spotify.com/track/5bvMNadqECwmWB0rb7wnQ4",
+    },
+  ],
 } as const satisfies Track

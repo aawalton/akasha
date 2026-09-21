@@ -25,4 +25,13 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkItLetMeMoveYouFro
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "letmemoveyoufromthenetflixfilmworkit|74KM79TiuVKeVCqs8QtB0B|147070",
   song: "song/sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it",
+      discNumber: 1,
+      position: 1,
+      externalId: "0roOLcll6SSTYZwsQFmXqP",
+      externalLink: "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP",
+    },
+  ],
 } as const satisfies Track

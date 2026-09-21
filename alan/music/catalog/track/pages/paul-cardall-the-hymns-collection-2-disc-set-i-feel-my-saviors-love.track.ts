@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetIFeelMySaviorsLove = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ifeelmysaviorslove|7FQRbf8gbKw8KZQZAJWxH2|215954",
   song: "song/paul-cardall-i-feel-my-saviors-love",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 23,
+      externalId: "0J2iAVDeU1pwuc8gMYsrWp",
+      externalLink: "https://open.spotify.com/track/0J2iAVDeU1pwuc8gMYsrWp",
+    },
+  ],
 } as const satisfies Track

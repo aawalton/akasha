@@ -25,4 +25,13 @@ export const arianaGrandeChristmasKissesLoveIsEverything = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "loveiseverything|66CXWjxzNUsdJxJ2JdwvnR|212786",
   song: "song/ariana-grande-love-is-everything",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-christmas-kisses",
+      discNumber: 1,
+      position: 2,
+      externalId: "25tkPPlBrYCXkSIAASibtL",
+      externalLink: "https://open.spotify.com/track/25tkPPlBrYCXkSIAASibtL",
+    },
+  ],
 } as const satisfies Track

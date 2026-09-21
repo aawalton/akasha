@@ -25,4 +25,13 @@ export const auroraStoriesItHappenedQuiet = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "ithappenedquiet|1WgXqy2Dd70QQOU7Ay074N|249107",
   song: "song/aurora-it-happened-quiet",
+  carriedBy: [
+    {
+      release: "release/aurora-stories",
+      discNumber: 1,
+      position: 1,
+      externalId: "69ndwWhZqfsimvVor5eno0",
+      externalLink: "https://open.spotify.com/track/69ndwWhZqfsimvVor5eno0",
+    },
+  ],
 } as const satisfies Track

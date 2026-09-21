@@ -36,4 +36,13 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadorsSucke
   trackKey:
     "suckerforpainwithwizkhalifaimaginedragonslogictydollaignfeatxambassadors|137W8MRPWKqSmrBGDBFSop,3NPpFNZtSTHheNBaWC82rB,4xRYI6VqpkE3UwrDrAZL8L,53XhwfbYqKCa1cC15pYq2q,55Aa2cqylxrFIXC767Z865,7c0XG5cIJTrrAgEC3ULPiq|243490",
   song: "song/imagine-dragons-sucker-for-pain",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-sucker-for-pain-with-logic-ty-dolla-ign-feat-x-ambassadors",
+      discNumber: 1,
+      position: 1,
+      externalId: "4dASQiO1Eoo3RJvt74FtXB",
+      externalLink: "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+    },
+  ],
 } as const satisfies Track

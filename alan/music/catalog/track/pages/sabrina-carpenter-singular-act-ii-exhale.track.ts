@@ -25,4 +25,13 @@ export const sabrinaCarpenterSingularActIiExhale = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "exhale|74KM79TiuVKeVCqs8QtB0B|164708",
   song: "song/sabrina-carpenter-exhale",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-ii",
+      discNumber: 1,
+      position: 7,
+      externalId: "6CagMrZXJUdGGIw6Eaepos",
+      externalLink: "https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos",
+    },
+  ],
 } as const satisfies Track

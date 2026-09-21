@@ -28,4 +28,13 @@ export const coldplayKaleidoscopeEpSomethingJustLikeThisTokyoRemix = {
   ],
   trackKey: "somethingjustlikethistokyoremix|4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|273746",
   song: "song/coldplay-something-just-like-this",
+  carriedBy: [
+    {
+      release: "release/coldplay-kaleidoscope-ep",
+      discNumber: 1,
+      position: 4,
+      externalId: "255wsg35VRYqBK7uBtYOUz",
+      externalLink: "https://open.spotify.com/track/255wsg35VRYqBK7uBtYOUz",
+    },
+  ],
 } as const satisfies Track

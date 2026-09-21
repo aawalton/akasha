@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2PreludeMyLittleGi
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "preludemylittlegirl|2YQ4MY2VwOMv43C0GemUY5|267128",
   song: "song/the-piano-guys-prelude-my-little-girl",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 4,
+      externalId: "4xCaFcsJGOLm6b3CADiofW",
+      externalLink: "https://open.spotify.com/track/4xCaFcsJGOLm6b3CADiofW",
+    },
+  ],
 } as const satisfies Track

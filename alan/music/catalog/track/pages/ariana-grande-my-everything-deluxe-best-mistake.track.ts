@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingDeluxeBestMistake = {
   ],
   trackKey: "bestmistake|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|233733",
   song: "song/ariana-grande-best-mistake",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-deluxe",
+      discNumber: 1,
+      position: 6,
+      externalId: "70yhaHLp9STtzI2Kzba6Tr",
+      externalLink: "https://open.spotify.com/track/70yhaHLp9STtzI2Kzba6Tr",
+    },
+  ],
 } as const satisfies Track

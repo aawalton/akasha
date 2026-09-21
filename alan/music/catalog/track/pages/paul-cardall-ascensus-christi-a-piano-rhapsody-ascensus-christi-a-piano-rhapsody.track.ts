@@ -25,4 +25,13 @@ export const paulCardallAscensusChristiAPianoRhapsodyAscensusChristiAPianoRhapso
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ascensuschristiapianorhapsody|7FQRbf8gbKw8KZQZAJWxH2|312644",
   song: "song/paul-cardall-ascensus-christi-a-piano-rhapsody",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ascensus-christi-a-piano-rhapsody",
+      discNumber: 1,
+      position: 1,
+      externalId: "6qFE5hiVBno3VJCFAZRiCv",
+      externalLink: "https://open.spotify.com/track/6qFE5hiVBno3VJCFAZRiCv",
+    },
+  ],
 } as const satisfies Track

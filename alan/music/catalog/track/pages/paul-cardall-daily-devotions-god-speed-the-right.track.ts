@@ -25,4 +25,13 @@ export const paulCardallDailyDevotionsGodSpeedTheRight = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godspeedtheright|7FQRbf8gbKw8KZQZAJWxH2|114506",
   song: "song/paul-cardall-god-speed-the-right",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-daily-devotions",
+      discNumber: 1,
+      position: 12,
+      externalId: "4CIBwKZ5lDoa2F9MLCVCgK",
+      externalLink: "https://open.spotify.com/track/4CIBwKZ5lDoa2F9MLCVCgK",
+    },
+  ],
 } as const satisfies Track

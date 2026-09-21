@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sISawTheSign = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "isawthesign|6tITG4T8LpC0msapZ4wXGA|166426",
   song: "song/the-holderness-family-i-saw-the-sign",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 6,
+      externalId: "5x02A8uOkDe3XwXYTbkpp3",
+      externalLink: "https://open.spotify.com/track/5x02A8uOkDe3XwXYTbkpp3",
+    },
+  ],
 } as const satisfies Track

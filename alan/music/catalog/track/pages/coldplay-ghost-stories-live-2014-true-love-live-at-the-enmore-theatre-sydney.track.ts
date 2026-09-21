@@ -25,4 +25,13 @@ export const coldplayGhostStoriesLive2014TrueLoveLiveAtTheEnmoreTheatreSydney = 
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "trueloveliveattheenmoretheatresydney|4gzpq5DPGxSnKTe4SA8HAU|260026",
   song: "song/coldplay-true-love",
+  carriedBy: [
+    {
+      release: "release/coldplay-ghost-stories-live-2014",
+      discNumber: 1,
+      position: 4,
+      externalId: "4KmOOVu1sdBLKJbfEm4p1X",
+      externalLink: "https://open.spotify.com/track/4KmOOVu1sdBLKJbfEm4p1X",
+    },
+  ],
 } as const satisfies Track

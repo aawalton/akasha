@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsGranuailes
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "granuailesdance|6NWtt9pNOL2Gx7kBykdE5x|221906",
   song: "song/celtic-woman-granuailes-dance",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 8,
+      externalId: "5g4ojnCYRDPAyVEfZGPQqd",
+      externalLink: "https://open.spotify.com/track/5g4ojnCYRDPAyVEfZGPQqd",
+    },
+  ],
 } as const satisfies Track

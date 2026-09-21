@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe2000sItsNotRice = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "itsnotrice|6tITG4T8LpC0msapZ4wXGA|179711",
   song: "song/the-holderness-family-its-not-rice",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-2000s",
+      discNumber: 1,
+      position: 4,
+      externalId: "6gXXiv85d5blzpePnNYVLQ",
+      externalLink: "https://open.spotify.com/track/6gXXiv85d5blzpePnNYVLQ",
+    },
+  ],
 } as const satisfies Track

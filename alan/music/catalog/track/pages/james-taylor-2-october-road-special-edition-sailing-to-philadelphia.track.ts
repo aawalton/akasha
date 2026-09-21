@@ -28,4 +28,13 @@ export const jamesTaylor2OctoberRoadSpecialEditionSailingToPhiladelphia = {
   ],
   trackKey: "sailingtophiladelphia|0FI0kxP0BWurTz8cB8BBug,0vn7UBvSQECKJm2817Yf1P|328906",
   song: "song/james-taylor-sailing-to-philadelphia",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-october-road-special-edition",
+      discNumber: 1,
+      position: 15,
+      externalId: "3SSdgcic8a3hVaPytpQsiJ",
+      externalLink: "https://open.spotify.com/track/3SSdgcic8a3hVaPytpQsiJ",
+    },
+  ],
 } as const satisfies Track

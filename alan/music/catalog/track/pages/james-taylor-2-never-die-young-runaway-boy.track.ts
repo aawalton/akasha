@@ -25,4 +25,13 @@ export const jamesTaylor2NeverDieYoungRunawayBoy = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "runawayboy|0vn7UBvSQECKJm2817Yf1P|255933",
   song: "song/james-taylor-runaway-boy",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-never-die-young",
+      discNumber: 1,
+      position: 4,
+      externalId: "2d2rnhj1TolgOQnhOslfdE",
+      externalLink: "https://open.spotify.com/track/2d2rnhj1TolgOQnhOslfdE",
+    },
+  ],
 } as const satisfies Track

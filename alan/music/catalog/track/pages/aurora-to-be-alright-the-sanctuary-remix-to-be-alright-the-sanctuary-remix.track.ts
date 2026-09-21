@@ -28,4 +28,13 @@ export const auroraToBeAlrightTheSanctuaryRemixToBeAlrightTheSanctuaryRemix = {
   ],
   trackKey: "tobealrightthesanctuaryremix|1WgXqy2Dd70QQOU7Ay074N,3c7DW1zmCGBdgHy8HllzV2|226449",
   song: "song/aurora-to-be-alright",
+  carriedBy: [
+    {
+      release: "release/aurora-to-be-alright-the-sanctuary-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "4K09m6T7nrlYMTuXWxqCCu",
+      externalLink: "https://open.spotify.com/track/4K09m6T7nrlYMTuXWxqCCu",
+    },
+  ],
 } as const satisfies Track

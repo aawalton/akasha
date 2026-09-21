@@ -25,4 +25,13 @@ export const imagineDragonsLoomFireInTheseHills = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "fireinthesehills|53XhwfbYqKCa1cC15pYq2q|219280",
   song: "song/imagine-dragons-fire-in-these-hills",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-loom",
+      discNumber: 1,
+      position: 9,
+      externalId: "2Morv8EWzWFsfbqG8vdUfy",
+      externalLink: "https://open.spotify.com/track/2Morv8EWzWFsfbqG8vdUfy",
+    },
+  ],
 } as const satisfies Track

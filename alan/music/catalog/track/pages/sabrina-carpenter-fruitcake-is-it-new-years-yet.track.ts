@@ -25,4 +25,13 @@ export const sabrinaCarpenterFruitcakeIsItNewYearsYet = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "isitnewyearsyet|74KM79TiuVKeVCqs8QtB0B|158580",
   song: "song/sabrina-carpenter-is-it-new-years-yet",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-fruitcake",
+      discNumber: 1,
+      position: 5,
+      externalId: "48xGcNwekbGcux5rIjKPQM",
+      externalLink: "https://open.spotify.com/track/48xGcNwekbGcux5rIjKPQM",
+    },
+  ],
 } as const satisfies Track

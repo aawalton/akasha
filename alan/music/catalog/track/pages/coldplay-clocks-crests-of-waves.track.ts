@@ -25,4 +25,13 @@ export const coldplayClocksCrestsOfWaves = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "crestsofwaves|4gzpq5DPGxSnKTe4SA8HAU|219826",
   song: "song/coldplay-crests-of-waves",
+  carriedBy: [
+    {
+      release: "release/coldplay-clocks",
+      discNumber: 1,
+      position: 2,
+      externalId: "5ZMqdwtZvvNrpUUTijZem6",
+      externalLink: "https://open.spotify.com/track/5ZMqdwtZvvNrpUUTijZem6",
+    },
+  ],
 } as const satisfies Track

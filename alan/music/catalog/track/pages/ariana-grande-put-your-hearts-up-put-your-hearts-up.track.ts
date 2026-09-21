@@ -25,4 +25,13 @@ export const arianaGrandePutYourHeartsUpPutYourHeartsUp = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "putyourheartsup|66CXWjxzNUsdJxJ2JdwvnR|210200",
   song: "song/ariana-grande-put-your-hearts-up",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-put-your-hearts-up",
+      discNumber: 1,
+      position: 1,
+      externalId: "1Rp8zCRpkHyEDqaUczfMZA",
+      externalLink: "https://open.spotify.com/track/1Rp8zCRpkHyEDqaUczfMZA",
+    },
+  ],
 } as const satisfies Track

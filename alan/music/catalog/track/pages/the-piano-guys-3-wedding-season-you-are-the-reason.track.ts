@@ -28,4 +28,13 @@ export const thePianoGuys3WeddingSeasonYouAreTheReason = {
   ],
   trackKey: "youarethereason|0jW6R8CVyVohuUJVcuweDI,5vvlfKQdn6amTImsjy9Si5|235230",
   song: "song/the-piano-guys-you-are-the-reason",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wedding-season",
+      discNumber: 1,
+      position: 15,
+      externalId: "1oUzdnQof2tsyTAzFtc6qa",
+      externalLink: "https://open.spotify.com/track/1oUzdnQof2tsyTAzFtc6qa",
+    },
+  ],
 } as const satisfies Track

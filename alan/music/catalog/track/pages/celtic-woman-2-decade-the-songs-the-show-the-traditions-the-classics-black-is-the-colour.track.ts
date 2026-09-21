@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBlackIsThe
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "blackisthecolour|6NWtt9pNOL2Gx7kBykdE5x|224346",
   song: "song/celtic-woman-black-is-the-colour",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 2,
+      externalId: "6Y2RJbWTyZFrKtjKqdEhRe",
+      externalLink: "https://open.spotify.com/track/6Y2RJbWTyZFrKtjKqdEhRe",
+    },
+  ],
 } as const satisfies Track

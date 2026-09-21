@@ -25,4 +25,13 @@ export const celticWoman2WaterUnderTheBridgeWaterUnderTheBridge1Mic1Take = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "waterunderthebridge1mic1take|6NWtt9pNOL2Gx7kBykdE5x|224000",
   song: "song/celtic-woman-water-under-the-bridge",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-water-under-the-bridge",
+      discNumber: 1,
+      position: 1,
+      externalId: "4ql5YPraLJJgibIbqxTxIG",
+      externalLink: "https://open.spotify.com/track/4ql5YPraLJJgibIbqxTxIG",
+    },
+  ],
 } as const satisfies Track

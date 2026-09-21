@@ -28,4 +28,13 @@ export const zaraLarssonMidnightSunBundleMidnightSunAlexChapmanRemix = {
   ],
   trackKey: "midnightsunalexchapmanremix|1Xylc3o4UrD53lo9CvFvVg,3c8wfedCs5BJGHcFyusyeh|193743",
   song: "song/zara-larsson-midnight-sun",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-midnight-sun-bundle",
+      discNumber: 1,
+      position: 2,
+      externalId: "1LFBygPkUZyFE0U7hJDWOb",
+      externalLink: "https://open.spotify.com/track/1LFBygPkUZyFE0U7hJDWOb",
+    },
+  ],
 } as const satisfies Track

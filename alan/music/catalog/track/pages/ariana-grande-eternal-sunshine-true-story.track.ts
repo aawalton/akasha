@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineTrueStory = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "truestory|66CXWjxzNUsdJxJ2JdwvnR|163278",
   song: "song/ariana-grande-true-story",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine",
+      discNumber: 1,
+      position: 7,
+      externalId: "14kyXBpg91RVq8bNRDS1q2",
+      externalLink: "https://open.spotify.com/track/14kyXBpg91RVq8bNRDS1q2",
+    },
+  ],
 } as const satisfies Track

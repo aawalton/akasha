@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandLineEmUpLiveAtTheColonialTheatre2007 = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "lineemupliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|279293",
   song: "song/james-taylor-line-em-up",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 12,
+      externalId: "6N7KLX1EBt8zE7M5vUOdEQ",
+      externalLink: "https://open.spotify.com/track/6N7KLX1EBt8zE7M5vUOdEQ",
+    },
+  ],
 } as const satisfies Track

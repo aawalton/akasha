@@ -28,4 +28,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubbleC
   ],
   trackKey: "thegirlinthebubblecommentary|66CXWjxzNUsdJxJ2JdwvnR,6VAUVq50O85s387FLQJi2B|68483",
   song: "song/ariana-grande-the-girl-in-the-bubble-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 20,
+      externalId: "6RrRAqLZAzNi25rP8dnuut",
+      externalLink: "https://open.spotify.com/track/6RrRAqLZAzNi25rP8dnuut",
+    },
+  ],
 } as const satisfies Track

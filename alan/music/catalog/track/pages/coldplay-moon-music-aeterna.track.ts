@@ -25,4 +25,13 @@ export const coldplayMoonMusicAeterna = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "aeterna|4gzpq5DPGxSnKTe4SA8HAU|253028",
   song: "song/coldplay-aeterna",
+  carriedBy: [
+    {
+      release: "release/coldplay-moon-music",
+      discNumber: 1,
+      position: 8,
+      externalId: "4EGl6H86WFalKVWSXbheb2",
+      externalLink: "https://open.spotify.com/track/4EGl6H86WFalKVWSXbheb2",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveYouveGotAFriendLive = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youvegotafriendlive|0vn7UBvSQECKJm2817Yf1P|308773",
   song: "song/james-taylor-youve-got-a-friend",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 14,
+      externalId: "66YWkE311b4O7gUjlB5NXy",
+      externalLink: "https://open.spotify.com/track/66YWkE311b4O7gUjlB5NXy",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkay = {
   ],
   trackKey: "itsgonnabeokay|0jW6R8CVyVohuUJVcuweDI,1RTHEDesKGANeFDXyDJBQU|210803",
   song: "song/the-piano-guys-its-gonna-be-okay",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-so-far-so-good",
+      discNumber: 1,
+      position: 13,
+      externalId: "0haid7kVyi8UKd5b5ElSOU",
+      externalLink: "https://open.spotify.com/track/0haid7kVyi8UKd5b5ElSOU",
+    },
+  ],
 } as const satisfies Track

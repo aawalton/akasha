@@ -28,4 +28,13 @@ export const arianaGrandeChristmasKissesSantaBaby = {
   ],
   trackKey: "santababy|66CXWjxzNUsdJxJ2JdwvnR,7pLntWGInZPQxc4kXxzzjB|170933",
   song: "song/taylor-swift-santa-baby",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-christmas-kisses",
+      discNumber: 1,
+      position: 4,
+      externalId: "6YJdPrH3i2POzu7hdHIRrb",
+      externalLink: "https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2NollaigAChristmasJourneyHaveYourselfAMerryLittleChristm
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "haveyourselfamerrylittlechristmas|6NWtt9pNOL2Gx7kBykdE5x|181450",
   song: "song/coldplay-have-yourself-a-merry-little-christmas",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-nollaig-a-christmas-journey",
+      discNumber: 1,
+      position: 3,
+      externalId: "1ynMuQjOC3UMXLr9N70tuP",
+      externalLink: "https://open.spotify.com/track/1ynMuQjOC3UMXLr9N70tuP",
+    },
+  ],
 } as const satisfies Track

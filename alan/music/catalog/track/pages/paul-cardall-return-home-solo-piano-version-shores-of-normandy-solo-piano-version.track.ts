@@ -25,4 +25,13 @@ export const paulCardallReturnHomeSoloPianoVersionShoresOfNormandySoloPianoVersi
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "shoresofnormandysolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|247330",
   song: "song/paul-cardall-shores-of-normandy",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home-solo-piano-version",
+      discNumber: 1,
+      position: 8,
+      externalId: "7fUvIk2JPkkq6hW91PsPZN",
+      externalLink: "https://open.spotify.com/track/7fUvIk2JPkkq6hW91PsPZN",
+    },
+  ],
 } as const satisfies Track

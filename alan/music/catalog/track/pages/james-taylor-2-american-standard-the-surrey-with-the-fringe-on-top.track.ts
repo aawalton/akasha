@@ -25,4 +25,13 @@ export const jamesTaylor2AmericanStandardTheSurreyWithTheFringeOnTop = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thesurreywiththefringeontop|0vn7UBvSQECKJm2817Yf1P|200040",
   song: "song/james-taylor-the-surrey-with-the-fringe-on-top",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-american-standard",
+      discNumber: 1,
+      position: 14,
+      externalId: "3kJJtv9juaxcspjbC1bNXT",
+      externalLink: "https://open.spotify.com/track/3kJJtv9juaxcspjbC1bNXT",
+    },
+  ],
 } as const satisfies Track

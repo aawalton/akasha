@@ -28,4 +28,13 @@ export const celticWoman2NollaigNaMbanNollaigNaMban = {
   ],
   trackKey: "nollaignamban|0KT1pvlMlEkRJVQ1TKHhdj,6NWtt9pNOL2Gx7kBykdE5x|286763",
   song: "song/celtic-woman-nollaig-na-mban",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-nollaig-na-mban",
+      discNumber: 1,
+      position: 1,
+      externalId: "2qWuetc3xVFmKJ7s2CSVjK",
+      externalLink: "https://open.spotify.com/track/2qWuetc3xVFmKJ7s2CSVjK",
+    },
+  ],
 } as const satisfies Track

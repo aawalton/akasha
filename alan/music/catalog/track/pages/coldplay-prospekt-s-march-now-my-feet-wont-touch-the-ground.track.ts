@@ -25,4 +25,13 @@ export const coldplayProspektSMarchNowMyFeetWontTouchTheGround = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "nowmyfeetwonttouchtheground|4gzpq5DPGxSnKTe4SA8HAU|147521",
   song: "song/coldplay-now-my-feet-wont-touch-the-ground",
+  carriedBy: [
+    {
+      release: "release/coldplay-prospekt-s-march",
+      discNumber: 1,
+      position: 8,
+      externalId: "0nSfoEVGexB65mxj8aRDYK",
+      externalLink: "https://open.spotify.com/track/0nSfoEVGexB65mxj8aRDYK",
+    },
+  ],
 } as const satisfies Track

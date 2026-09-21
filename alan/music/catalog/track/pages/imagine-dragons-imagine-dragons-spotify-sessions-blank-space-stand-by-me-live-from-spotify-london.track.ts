@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsSpotifySessionsBlankSpaceStandByMeLiveF
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "blankspacestandbymelivefromspotifylondon|53XhwfbYqKCa1cC15pYq2q|303433",
   song: "song/imagine-dragons-blank-space-stand-by-me",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-spotify-sessions",
+      discNumber: 1,
+      position: 2,
+      externalId: "3Dbgo1HE3DErIBNDIO4Hyd",
+      externalLink: "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd",
+    },
+  ],
 } as const satisfies Track

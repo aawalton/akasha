@@ -25,4 +25,13 @@ export const thePianoGuys3UnchartedASkyFullOfStars = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "askyfullofstars|0jW6R8CVyVohuUJVcuweDI|248000",
   song: "song/the-piano-guys-a-sky-full-of-stars",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 2,
+      externalId: "7k0KOplnvXm5GUkw7RXYg0",
+      externalLink: "https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0",
+    },
+  ],
 } as const satisfies Track

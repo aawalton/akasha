@@ -25,4 +25,13 @@ export const jamesTaylor2BeforeThisWorldBeforeThisWorldJollySpringtime = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "beforethisworldjollyspringtime|0vn7UBvSQECKJm2817Yf1P|334573",
   song: "song/james-taylor-before-this-world-jolly-springtime",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-before-this-world",
+      discNumber: 1,
+      position: 8,
+      externalId: "1ZeSPuU3yAMXDRXpi9pvqC",
+      externalLink: "https://open.spotify.com/track/1ZeSPuU3yAMXDRXpi9pvqC",
+    },
+  ],
 } as const satisfies Track

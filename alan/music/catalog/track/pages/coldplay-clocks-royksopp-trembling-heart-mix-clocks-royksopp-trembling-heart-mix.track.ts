@@ -28,4 +28,13 @@ export const coldplayClocksRoyksoppTremblingHeartMixClocksRoyksoppTremblingHeart
   ],
   trackKey: "clocksroyksopptremblingheartmix|4gzpq5DPGxSnKTe4SA8HAU,5nPOO9iTcrs9k6yFffPxjH|344533",
   song: "song/coldplay-clocks",
+  carriedBy: [
+    {
+      release: "release/coldplay-clocks-royksopp-trembling-heart-mix",
+      discNumber: 1,
+      position: 1,
+      externalId: "0oRqEiG7nvVXTjx8g5gme9",
+      externalLink: "https://open.spotify.com/track/0oRqEiG7nvVXTjx8g5gme9",
+    },
+  ],
 } as const satisfies Track

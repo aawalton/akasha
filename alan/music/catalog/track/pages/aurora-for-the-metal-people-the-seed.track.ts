@@ -25,4 +25,13 @@ export const auroraForTheMetalPeopleTheSeed = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theseed|1WgXqy2Dd70QQOU7Ay074N|266969",
   song: "song/aurora-the-seed",
+  carriedBy: [
+    {
+      release: "release/aurora-for-the-metal-people",
+      discNumber: 1,
+      position: 2,
+      externalId: "2HIkVjn7Mttukqxz7KQxlP",
+      externalLink: "https://open.spotify.com/track/2HIkVjn7Mttukqxz7KQxlP",
+    },
+  ],
 } as const satisfies Track

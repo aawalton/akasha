@@ -25,4 +25,13 @@ export const paulCardallPassingTimeTopaz = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "topaz|7FQRbf8gbKw8KZQZAJWxH2|162246",
   song: "song/paul-cardall-topaz",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-passing-time",
+      discNumber: 1,
+      position: 2,
+      externalId: "2lqMU0UTaAt3Q0P4tucF1n",
+      externalLink: "https://open.spotify.com/track/2lqMU0UTaAt3Q0P4tucF1n",
+    },
+  ],
 } as const satisfies Track

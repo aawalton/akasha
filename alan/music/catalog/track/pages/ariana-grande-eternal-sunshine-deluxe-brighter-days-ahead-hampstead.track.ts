@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadHampstead = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "hampstead|66CXWjxzNUsdJxJ2JdwvnR|216264",
   song: "song/ariana-grande-hampstead",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead",
+      discNumber: 1,
+      position: 19,
+      externalId: "4D2DFuqs2PwLiHbcf6CX47",
+      externalLink: "https://open.spotify.com/track/4D2DFuqs2PwLiHbcf6CX47",
+    },
+  ],
 } as const satisfies Track

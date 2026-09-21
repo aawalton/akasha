@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sResolutions = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "resolutions|6tITG4T8LpC0msapZ4wXGA|182047",
   song: "song/the-holderness-family-resolutions",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 13,
+      externalId: "0qR2WF5ux995rg6Mn4p9Kt",
+      externalLink: "https://open.spotify.com/track/0qR2WF5ux995rg6Mn4p9Kt",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarTheLordsPrayer = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thelordsprayer|7FQRbf8gbKw8KZQZAJWxH2|184416",
   song: "song/paul-cardall-the-lords-prayer",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 24,
+      externalId: "6L0qypNnRoRFv54HjvZOsS",
+      externalLink: "https://open.spotify.com/track/6L0qypNnRoRFv54HjvZOsS",
+    },
+  ],
 } as const satisfies Track

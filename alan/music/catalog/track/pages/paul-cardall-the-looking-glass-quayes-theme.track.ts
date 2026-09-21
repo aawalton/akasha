@@ -25,4 +25,13 @@ export const paulCardallTheLookingGlassQuayesTheme = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "quayestheme|7FQRbf8gbKw8KZQZAJWxH2|226626",
   song: "song/paul-cardall-quayes-theme",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-looking-glass",
+      discNumber: 1,
+      position: 9,
+      externalId: "29Hnf236RAcKaL9pUaryDB",
+      externalLink: "https://open.spotify.com/track/29Hnf236RAcKaL9pUaryDB",
+    },
+  ],
 } as const satisfies Track

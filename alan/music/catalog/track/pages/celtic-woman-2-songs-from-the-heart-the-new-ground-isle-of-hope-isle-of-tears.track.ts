@@ -25,4 +25,13 @@ export const celticWoman2SongsFromTheHeartTheNewGroundIsleOfHopeIsleOfTears = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thenewgroundisleofhopeisleoftears|6NWtt9pNOL2Gx7kBykdE5x|401293",
   song: "song/celtic-woman-the-new-ground-isle-of-hope-isle-of-tears",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-songs-from-the-heart",
+      discNumber: 1,
+      position: 6,
+      externalId: "58j9LzawdJh2d7iSagG10v",
+      externalLink: "https://open.spotify.com/track/58j9LzawdJh2d7iSagG10v",
+    },
+  ],
 } as const satisfies Track

@@ -30,4 +30,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackWhatIsThisFeeli
     trackKey:
       "whatisthisfeelingdearoldshizlivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|262449",
     song: "song/ariana-grande-what-is-this-feeling-dear-old-shiz",
+    carriedBy: [
+      {
+        release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+        discNumber: 1,
+        position: 3,
+        externalId: "1FyZp6tp9oA3KFl9RJvYHR",
+        externalLink: "https://open.spotify.com/track/1FyZp6tp9oA3KFl9RJvYHR",
+      },
+    ],
   } as const satisfies Track

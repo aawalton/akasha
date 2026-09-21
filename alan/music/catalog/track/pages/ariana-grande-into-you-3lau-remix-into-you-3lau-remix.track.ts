@@ -28,4 +28,13 @@ export const arianaGrandeIntoYou3lauRemixIntoYou3lauRemix = {
   ],
   trackKey: "intoyou3lauremix|4YLQaW1UU3mrVetC8gNkg5,66CXWjxzNUsdJxJ2JdwvnR|197146",
   song: "song/ariana-grande-into-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-into-you-3lau-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1cfVkL84XmRON3Gl9jDXKI",
+      externalLink: "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI",
+    },
+  ],
 } as const satisfies Track

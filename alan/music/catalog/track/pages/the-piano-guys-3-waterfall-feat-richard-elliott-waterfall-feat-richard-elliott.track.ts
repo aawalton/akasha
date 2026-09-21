@@ -30,4 +30,13 @@ export const thePianoGuys3WaterfallFeatRichardElliottWaterfallFeatRichardElliott
   trackKey:
     "waterfallfeatrichardelliott|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5,50Bzsa2Le4qOPs6lrfKuzY|187296",
   song: "song/the-piano-guys-waterfall",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-waterfall-feat-richard-elliott",
+      discNumber: 1,
+      position: 1,
+      externalId: "04yTIa8owaSc7Yd25h76sX",
+      externalLink: "https://open.spotify.com/track/04yTIa8owaSc7Yd25h76sX",
+    },
+  ],
 } as const satisfies Track

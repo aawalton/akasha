@@ -25,4 +25,13 @@ export const jamesTaylor2WalkingMan2019RemasterMigration2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "migration2019remaster|0vn7UBvSQECKJm2817Yf1P|196706",
   song: "song/james-taylor-migration",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-walking-man-2019-remaster",
+      discNumber: 1,
+      position: 8,
+      externalId: "0TSRDYGihXBNPxe02JDpqU",
+      externalLink: "https://open.spotify.com/track/0TSRDYGihXBNPxe02JDpqU",
+    },
+  ],
 } as const satisfies Track

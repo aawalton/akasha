@@ -25,4 +25,13 @@ export const arianaGrandePositionsDeluxeJustLikeMagic = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "justlikemagic|66CXWjxzNUsdJxJ2JdwvnR|149900",
   song: "song/ariana-grande-just-like-magic",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions-deluxe",
+      discNumber: 1,
+      position: 4,
+      externalId: "1N9hFgcgWYbGINUKjhvcK6",
+      externalLink: "https://open.spotify.com/track/1N9hFgcgWYbGINUKjhvcK6",
+    },
+  ],
 } as const satisfies Track

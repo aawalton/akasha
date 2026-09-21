@@ -28,4 +28,13 @@ export const imagineDragonsRadioactiveRadioactive = {
   ],
   trackKey: "radioactive|2YZyLoL8N0Wb9xBt1NhZWg,53XhwfbYqKCa1cC15pYq2q|276040",
   song: "song/imagine-dragons-radioactive",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-radioactive",
+      discNumber: 1,
+      position: 1,
+      externalId: "69yfbpvmkIaB10msnKT7Q5",
+      externalLink: "https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5",
+    },
+  ],
 } as const satisfies Track

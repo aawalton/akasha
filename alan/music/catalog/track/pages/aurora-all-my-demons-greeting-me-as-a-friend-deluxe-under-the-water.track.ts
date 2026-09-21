@@ -25,4 +25,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeUnderTheWater = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "underthewater|1WgXqy2Dd70QQOU7Ay074N|264600",
   song: "song/aurora-under-the-water",
+  carriedBy: [
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+      discNumber: 1,
+      position: 11,
+      externalId: "1x7yqEoQel8Gu6F7thDbCQ",
+      externalLink: "https://open.spotify.com/track/1x7yqEoQel8Gu6F7thDbCQ",
+    },
+  ],
 } as const satisfies Track

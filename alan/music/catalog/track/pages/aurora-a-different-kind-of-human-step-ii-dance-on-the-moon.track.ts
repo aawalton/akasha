@@ -25,4 +25,13 @@ export const auroraADifferentKindOfHumanStepIiDanceOnTheMoon = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "danceonthemoon|1WgXqy2Dd70QQOU7Ay074N|216294",
   song: "song/aurora-dance-on-the-moon",
+  carriedBy: [
+    {
+      release: "release/aurora-a-different-kind-of-human-step-ii",
+      discNumber: 1,
+      position: 3,
+      externalId: "4isOzW5MBwEI7RenDclFBx",
+      externalLink: "https://open.spotify.com/track/4isOzW5MBwEI7RenDclFBx",
+    },
+  ],
 } as const satisfies Track

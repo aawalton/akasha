@@ -25,4 +25,13 @@ export const coldplayTheScientistTheScientist = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "thescientist|4gzpq5DPGxSnKTe4SA8HAU|311426",
   song: "song/coldplay-the-scientist",
+  carriedBy: [
+    {
+      release: "release/coldplay-the-scientist",
+      discNumber: 1,
+      position: 1,
+      externalId: "2LTl1pU074hnzAdy0SpHAb",
+      externalLink: "https://open.spotify.com/track/2LTl1pU074hnzAdy0SpHAb",
+    },
+  ],
 } as const satisfies Track

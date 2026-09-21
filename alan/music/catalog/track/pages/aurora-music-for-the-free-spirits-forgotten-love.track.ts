@@ -25,4 +25,13 @@ export const auroraMusicForTheFreeSpiritsForgottenLove = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "forgottenlove|1WgXqy2Dd70QQOU7Ay074N|206469",
   song: "song/aurora-forgotten-love",
+  carriedBy: [
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 4,
+      externalId: "2SMINEktkFpOB4goizKsi6",
+      externalLink: "https://open.spotify.com/track/2SMINEktkFpOB4goizKsi6",
+    },
+  ],
 } as const satisfies Track

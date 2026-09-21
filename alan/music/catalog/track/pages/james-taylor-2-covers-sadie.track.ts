@@ -25,4 +25,13 @@ export const jamesTaylor2CoversSadie = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sadie|0vn7UBvSQECKJm2817Yf1P|274813",
   song: "song/james-taylor-sadie",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 9,
+      externalId: "0zo20NxWO8ZbcYpwSFykRo",
+      externalLink: "https://open.spotify.com/track/0zo20NxWO8ZbcYpwSFykRo",
+    },
+  ],
 } as const satisfies Track

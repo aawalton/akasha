@@ -29,4 +29,13 @@ export const sabrinaCarpenterShortNSweetDeluxePleasePleasePleaseFeatDollyParton 
   trackKey:
     "pleasepleasepleasefeatdollyparton|32vWCbZh0xZ4o9gkz4PsEU,74KM79TiuVKeVCqs8QtB0B|184136",
   song: "song/sabrina-carpenter-please-please-please",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-short-n-sweet-deluxe",
+      discNumber: 1,
+      position: 14,
+      externalId: "6nrSo5ZWhsai0oeX257rRF",
+      externalLink: "https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF",
+    },
+  ],
 } as const satisfies Track

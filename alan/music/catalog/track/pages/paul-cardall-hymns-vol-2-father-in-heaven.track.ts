@@ -25,4 +25,13 @@ export const paulCardallHymnsVol2FatherInHeaven = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fatherinheaven|7FQRbf8gbKw8KZQZAJWxH2|212880",
   song: "song/paul-cardall-father-in-heaven",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-hymns-vol-2",
+      discNumber: 1,
+      position: 10,
+      externalId: "7pEspvJQyPRyAnnUwCMeM0",
+      externalLink: "https://open.spotify.com/track/7pEspvJQyPRyAnnUwCMeM0",
+    },
+  ],
 } as const satisfies Track

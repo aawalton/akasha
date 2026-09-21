@@ -25,4 +25,13 @@ export const sabrinaCarpenterShortNSweetCoincidence = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "coincidence|74KM79TiuVKeVCqs8QtB0B|164202",
   song: "song/sabrina-carpenter-coincidence",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-short-n-sweet",
+      discNumber: 1,
+      position: 5,
+      externalId: "5oIVNm56t6OIf9ZjdEG3ud",
+      externalLink: "https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud",
+    },
+  ],
 } as const satisfies Track

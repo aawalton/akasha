@@ -25,4 +25,13 @@ export const jisooAmortageTears = {
   trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
   trackKey: "tears|6UZ0ba50XreR4TM8u322gs|182221",
   song: "song/jisoo-tears",
+  carriedBy: [
+    {
+      release: "release/jisoo-amortage",
+      discNumber: 1,
+      position: 3,
+      externalId: "08fvSPSKjoF4vmoEtcGain",
+      externalLink: "https://open.spotify.com/track/08fvSPSKjoF4vmoEtcGain",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackExhaleInhale = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "exhaleinhale|1WgXqy2Dd70QQOU7Ay074N|212626",
   song: "song/aurora-exhale-inhale",
+  carriedBy: [
+    {
+      release: "release/aurora-sky-concert-in-the-light-original-game-soundtrack",
+      discNumber: 1,
+      position: 2,
+      externalId: "1EUMm6cYTtCJLTTxiEk6HI",
+      externalLink: "https://open.spotify.com/track/1EUMm6cYTtCJLTTxiEk6HI",
+    },
+  ],
 } as const satisfies Track

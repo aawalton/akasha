@@ -25,4 +25,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackImNotThatGirlLi
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "imnotthatgirllivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ|238235",
   song: "song/ariana-grande-i-m-not-that-girl",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+      discNumber: 1,
+      position: 5,
+      externalId: "79YKWu7xOkPcNqstLTld2l",
+      externalLink: "https://open.spotify.com/track/79YKWu7xOkPcNqstLTld2l",
+    },
+  ],
 } as const satisfies Track

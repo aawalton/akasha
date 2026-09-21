@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsHarrysGame
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "harrysgame|6NWtt9pNOL2Gx7kBykdE5x|151453",
   song: "song/celtic-woman-harrys-game",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 9,
+      externalId: "3L2rHEfG9ph0GuCm30KfBO",
+      externalLink: "https://open.spotify.com/track/3L2rHEfG9ph0GuCm30KfBO",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuysAutumnOnPianoEyesClosed = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "eyesclosed|0jW6R8CVyVohuUJVcuweDI|244554",
   song: "song/the-piano-guys-eyes-closed",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-autumn-on-piano",
+      discNumber: 1,
+      position: 8,
+      externalId: "2VVmlrQyuxfVfVVhhZHvkU",
+      externalLink: "https://open.spotify.com/track/2VVmlrQyuxfVfVVhhZHvkU",
+    },
+  ],
 } as const satisfies Track

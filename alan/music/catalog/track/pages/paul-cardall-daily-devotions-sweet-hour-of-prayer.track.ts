@@ -25,4 +25,13 @@ export const paulCardallDailyDevotionsSweetHourOfPrayer = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweethourofprayer|7FQRbf8gbKw8KZQZAJWxH2|213120",
   song: "song/paul-cardall-sweet-hour-of-prayer",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-daily-devotions",
+      discNumber: 1,
+      position: 1,
+      externalId: "6GdMLWsKV4tSeCd3p47CGV",
+      externalLink: "https://open.spotify.com/track/6GdMLWsKV4tSeCd3p47CGV",
+    },
+  ],
 } as const satisfies Track

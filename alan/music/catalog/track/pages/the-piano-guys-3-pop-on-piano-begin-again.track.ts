@@ -25,4 +25,13 @@ export const thePianoGuys3PopOnPianoBeginAgain = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "beginagain|0jW6R8CVyVohuUJVcuweDI|245506",
   song: "song/taylor-swift-begin-again",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-pop-on-piano",
+      discNumber: 1,
+      position: 10,
+      externalId: "3M6uWdYTUPOh5bXqdgCKL7",
+      externalLink: "https://open.spotify.com/track/3M6uWdYTUPOh5bXqdgCKL7",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const zaraLarssonLushLifeTheRemixesLushLifeFeatTinieTempah = {
   ],
   trackKey: "lushlifefeattinietempah|0Tob4H0FLtEONHU1MjpUEp,1Xylc3o4UrD53lo9CvFvVg|201032",
   song: "song/zara-larsson-lush-life",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-lush-life-the-remixes",
+      discNumber: 1,
+      position: 6,
+      externalId: "0ARnwmw366uvSoB5n9dfVj",
+      externalLink: "https://open.spotify.com/track/0ARnwmw366uvSoB5n9dfVj",
+    },
+  ],
 } as const satisfies Track

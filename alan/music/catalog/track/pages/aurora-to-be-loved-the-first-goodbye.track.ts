@@ -25,4 +25,13 @@ export const auroraToBeLovedTheFirstGoodbye = {
   trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
   trackKey: "thefirstgoodbye|3NABmtfO8G8s96WFGhbR7F|210779",
   song: "song/aurora-the-first-goodbye",
+  carriedBy: [
+    {
+      release: "release/aurora-to-be-loved",
+      discNumber: 1,
+      position: 1,
+      externalId: "27iuXGU1GaQfX3Qb2tshNN",
+      externalLink: "https://open.spotify.com/track/27iuXGU1GaQfX3Qb2tshNN",
+    },
+  ],
 } as const satisfies Track

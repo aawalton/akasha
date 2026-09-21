@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuysRollingInTheDeep = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "rollinginthedeep|0jW6R8CVyVohuUJVcuweDI|232132",
   song: "song/the-piano-guys-rolling-in-the-deep",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys",
+      discNumber: 1,
+      position: 12,
+      externalId: "6hDR1ByLjs6y7YNwQm5K4a",
+      externalLink: "https://open.spotify.com/track/6hDR1ByLjs6y7YNwQm5K4a",
+    },
+  ],
 } as const satisfies Track

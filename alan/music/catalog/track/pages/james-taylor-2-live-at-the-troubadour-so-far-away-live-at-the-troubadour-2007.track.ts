@@ -28,4 +28,13 @@ export const jamesTaylor2LiveAtTheTroubadourSoFarAwayLiveAtTheTroubadour2007 = {
   ],
   trackKey: "sofarawayliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|282000",
   song: "song/james-taylor-so-far-away",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 2,
+      externalId: "631GjjCfWKM0lq3lCY50sH",
+      externalLink: "https://open.spotify.com/track/631GjjCfWKM0lq3lCY50sH",
+    },
+  ],
 } as const satisfies Track

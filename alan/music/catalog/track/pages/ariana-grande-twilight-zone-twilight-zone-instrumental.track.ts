@@ -25,4 +25,13 @@ export const arianaGrandeTwilightZoneTwilightZoneInstrumental = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "twilightzoneinstrumental|66CXWjxzNUsdJxJ2JdwvnR|198320",
   song: "song/ariana-grande-twilight-zone",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-twilight-zone",
+      discNumber: 1,
+      position: 3,
+      externalId: "1uaUWonU8uJKnKHaYiZNPD",
+      externalLink: "https://open.spotify.com/track/1uaUWonU8uJKnKHaYiZNPD",
+    },
+  ],
 } as const satisfies Track

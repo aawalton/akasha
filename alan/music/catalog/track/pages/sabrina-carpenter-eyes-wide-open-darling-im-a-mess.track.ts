@@ -25,4 +25,13 @@ export const sabrinaCarpenterEyesWideOpenDarlingImAMess = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "darlingimamess|74KM79TiuVKeVCqs8QtB0B|179053",
   song: "song/sabrina-carpenter-darling-im-a-mess",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-eyes-wide-open",
+      discNumber: 1,
+      position: 10,
+      externalId: "6rdKHwxWa9aqWyoGf1r20v",
+      externalLink: "https://open.spotify.com/track/6rdKHwxWa9aqWyoGf1r20v",
+    },
+  ],
 } as const satisfies Track

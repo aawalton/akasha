@@ -25,4 +25,13 @@ export const imagineDragonsOriginsDeluxeBurnOut = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "burnout|53XhwfbYqKCa1cC15pYq2q|273880",
   song: "song/imagine-dragons-burn-out",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-origins-deluxe",
+      discNumber: 1,
+      position: 14,
+      externalId: "5Q7zuH8VNu7aLappSusPu6",
+      externalLink: "https://open.spotify.com/track/5Q7zuH8VNu7aLappSusPu6",
+    },
+  ],
 } as const satisfies Track

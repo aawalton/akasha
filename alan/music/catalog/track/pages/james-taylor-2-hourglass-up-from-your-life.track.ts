@@ -25,4 +25,13 @@ export const jamesTaylor2HourglassUpFromYourLife = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "upfromyourlife|0vn7UBvSQECKJm2817Yf1P|314773",
   song: "song/james-taylor-up-from-your-life",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-hourglass",
+      discNumber: 1,
+      position: 9,
+      externalId: "3McJMHQcLIxOhl4GFVOkKX",
+      externalLink: "https://open.spotify.com/track/3McJMHQcLIxOhl4GFVOkKX",
+    },
+  ],
 } as const satisfies Track

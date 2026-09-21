@@ -25,4 +25,13 @@ export const paulCardallLivingForEdenSweetHourOfPrayer = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweethourofprayer|7FQRbf8gbKw8KZQZAJWxH2|191137",
   song: "song/paul-cardall-sweet-hour-of-prayer",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-living-for-eden",
+      discNumber: 1,
+      position: 22,
+      externalId: "6TAj9AlhfJHud6rYIcvaJY",
+      externalLink: "https://open.spotify.com/track/6TAj9AlhfJHud6rYIcvaJY",
+    },
+  ],
 } as const satisfies Track

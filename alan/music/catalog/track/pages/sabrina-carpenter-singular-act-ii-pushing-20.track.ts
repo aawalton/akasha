@@ -25,4 +25,13 @@ export const sabrinaCarpenterSingularActIiPushing20 = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "pushing20|74KM79TiuVKeVCqs8QtB0B|166233",
   song: "song/sabrina-carpenter-pushing-20",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-ii",
+      discNumber: 1,
+      position: 2,
+      externalId: "1xMHC2XPuDyBWU1ULY7eMA",
+      externalLink: "https://open.spotify.com/track/1xMHC2XPuDyBWU1ULY7eMA",
+    },
+  ],
 } as const satisfies Track

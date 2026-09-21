@@ -25,4 +25,13 @@ export const paulCardallReturnHomeLjubljanaHeartOfSlovenia = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ljubljanaheartofslovenia|7FQRbf8gbKw8KZQZAJWxH2|235437",
   song: "song/paul-cardall-ljubljana-heart-of-slovenia",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 11,
+      externalId: "2BlkpB6QXr9BQAwphy7i7A",
+      externalLink: "https://open.spotify.com/track/2BlkpB6QXr9BQAwphy7i7A",
+    },
+  ],
 } as const satisfies Track

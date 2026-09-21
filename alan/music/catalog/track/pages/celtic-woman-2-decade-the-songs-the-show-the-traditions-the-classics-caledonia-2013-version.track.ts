@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsCaledonia2
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "caledonia2013version|6NWtt9pNOL2Gx7kBykdE5x|300320",
   song: "song/celtic-woman-caledonia",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 2,
+      externalId: "6ampjuLgFmtj0I3GWWkDVu",
+      externalLink: "https://open.spotify.com/track/6ampjuLgFmtj0I3GWWkDVu",
+    },
+  ],
 } as const satisfies Track

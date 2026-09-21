@@ -25,4 +25,13 @@ export const thePianoGuys3DoYouHearWhatIHearDoYouHearWhatIHear = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "doyouhearwhatihear|0jW6R8CVyVohuUJVcuweDI|200217",
   song: "song/the-piano-guys-do-you-hear-what-i-hear",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-do-you-hear-what-i-hear",
+      discNumber: 1,
+      position: 1,
+      externalId: "0Wnkid6KiAXEVIOr8ufniq",
+      externalLink: "https://open.spotify.com/track/0Wnkid6KiAXEVIOr8ufniq",
+    },
+  ],
 } as const satisfies Track

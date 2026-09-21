@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarHallelujah = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "hallelujah|7FQRbf8gbKw8KZQZAJWxH2|259413",
   song: "song/paul-cardall-hallelujah",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 14,
+      externalId: "2MxiUcXADDlkxVxijM1l8y",
+      externalLink: "https://open.spotify.com/track/2MxiUcXADDlkxVxijM1l8y",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarJesusPaidItAll = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesuspaiditall|7FQRbf8gbKw8KZQZAJWxH2|170000",
   song: "song/paul-cardall-jesus-paid-it-all",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 23,
+      externalId: "1aBsv1kFKPLhZR8IfLRGoC",
+      externalLink: "https://open.spotify.com/track/1aBsv1kFKPLhZR8IfLRGoC",
+    },
+  ],
 } as const satisfies Track

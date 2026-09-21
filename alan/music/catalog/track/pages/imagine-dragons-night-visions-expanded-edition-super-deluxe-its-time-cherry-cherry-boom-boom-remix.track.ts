@@ -26,4 +26,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeCherryCh
     trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
     trackKey: "itstimecherrycherryboomboomremix|53XhwfbYqKCa1cC15pYq2q|315666",
     song: "song/imagine-dragons-it-s-time",
+    carriedBy: [
+      {
+        release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+        discNumber: 4,
+        position: 8,
+        externalId: "3fxqbZnzOOluRdp9v8eaJf",
+        externalLink: "https://open.spotify.com/track/3fxqbZnzOOluRdp9v8eaJf",
+      },
+    ],
   } as const satisfies Track

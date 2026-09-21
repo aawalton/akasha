@@ -28,4 +28,13 @@ export const zaraLarssonWordsFeatZaraLarssonWordsFeatZaraLarsson = {
   ],
   trackKey: "wordsfeatzaralarsson|1Xylc3o4UrD53lo9CvFvVg,4AVFqumd2ogHFlRbKIjp1t|142677",
   song: "song/zara-larsson-words",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-words-feat-zara-larsson",
+      discNumber: 1,
+      position: 1,
+      externalId: "1bgKMxPQU7JIZEhNsM1vFs",
+      externalLink: "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs",
+    },
+  ],
 } as const satisfies Track

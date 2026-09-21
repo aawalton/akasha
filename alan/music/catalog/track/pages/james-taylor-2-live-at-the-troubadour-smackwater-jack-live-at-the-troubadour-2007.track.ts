@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourSmackwaterJackLiveAtTheTroubadour200
   trackKey:
     "smackwaterjackliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|325253",
   song: "song/james-taylor-smackwater-jack",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 6,
+      externalId: "5dl17YVPSzLUo0PZID2sH0",
+      externalLink: "https://open.spotify.com/track/5dl17YVPSzLUo0PZID2sH0",
+    },
+  ],
 } as const satisfies Track

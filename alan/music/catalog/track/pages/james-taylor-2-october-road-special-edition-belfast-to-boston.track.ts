@@ -25,4 +25,13 @@ export const jamesTaylor2OctoberRoadSpecialEditionBelfastToBoston = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "belfasttoboston|0vn7UBvSQECKJm2817Yf1P|255640",
   song: "song/james-taylor-belfast-to-boston",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-october-road-special-edition",
+      discNumber: 1,
+      position: 5,
+      externalId: "1Xvy3CAs2B4cuV6UvKq8Ke",
+      externalLink: "https://open.spotify.com/track/1Xvy3CAs2B4cuV6UvKq8Ke",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const zaraLarssonBadBoysBadBoysDoItYourselfVersion = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "badboysdoityourselfversion|1Xylc3o4UrD53lo9CvFvVg|129346",
   song: "song/zara-larsson-bad-boys",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-bad-boys",
+      discNumber: 1,
+      position: 2,
+      externalId: "2mJaEVfZ2RFxsIWF00lcER",
+      externalLink: "https://open.spotify.com/track/2mJaEVfZ2RFxsIWF00lcER",
+    },
+  ],
 } as const satisfies Track

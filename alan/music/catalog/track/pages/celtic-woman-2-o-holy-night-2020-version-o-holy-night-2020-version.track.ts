@@ -25,4 +25,13 @@ export const celticWoman2OHolyNight2020VersionOHolyNight2020Version = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "oholynight2020version|6NWtt9pNOL2Gx7kBykdE5x|219011",
   song: "song/celtic-woman-o-holy-night",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-o-holy-night-2020-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "1AQwRFLmCRpRmBOpGV3J10",
+      externalLink: "https://open.spotify.com/track/1AQwRFLmCRpRmBOpGV3J10",
+    },
+  ],
 } as const satisfies Track

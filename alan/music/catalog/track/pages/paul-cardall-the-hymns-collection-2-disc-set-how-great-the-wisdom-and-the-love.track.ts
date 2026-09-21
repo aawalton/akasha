@@ -25,4 +25,13 @@ export const paulCardallTheHymnsCollection2DiscSetHowGreatTheWisdomAndTheLove = 
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "howgreatthewisdomandthelove|7FQRbf8gbKw8KZQZAJWxH2|146520",
   song: "song/paul-cardall-how-great-the-wisdom-and-the-love",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-hymns-collection-2-disc-set",
+      discNumber: 1,
+      position: 4,
+      externalId: "57RYbsL8CQdKf0S99yEJRK",
+      externalLink: "https://open.spotify.com/track/57RYbsL8CQdKf0S99yEJRK",
+    },
+  ],
 } as const satisfies Track

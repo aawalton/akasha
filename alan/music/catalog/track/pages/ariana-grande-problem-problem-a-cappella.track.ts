@@ -28,4 +28,13 @@ export const arianaGrandeProblemProblemACappella = {
   ],
   trackKey: "problemacappella|5yG7ZAZafVaAlMTeBybKAL,66CXWjxzNUsdJxJ2JdwvnR|191468",
   song: "song/ariana-grande-problem",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-problem",
+      discNumber: 1,
+      position: 2,
+      externalId: "4rKmu5d1xtcGDKktcq2E7c",
+      externalLink: "https://open.spotify.com/track/4rKmu5d1xtcGDKktcq2E7c",
+    },
+  ],
 } as const satisfies Track

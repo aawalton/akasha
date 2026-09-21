@@ -25,4 +25,13 @@ export const paulCardallNewLifeTheTraveler = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thetraveler|7FQRbf8gbKw8KZQZAJWxH2|101826",
   song: "song/paul-cardall-the-traveler",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-new-life",
+      discNumber: 1,
+      position: 1,
+      externalId: "1oMBWc9ad1NGtGufOkB5X2",
+      externalLink: "https://open.spotify.com/track/1oMBWc9ad1NGtGufOkB5X2",
+    },
+  ],
 } as const satisfies Track

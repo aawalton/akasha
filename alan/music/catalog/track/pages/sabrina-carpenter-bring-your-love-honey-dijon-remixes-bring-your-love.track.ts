@@ -28,4 +28,13 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLove = {
   ],
   trackKey: "bringyourlove|6tbjWDEIzxoDsBA1FuhfPW,74KM79TiuVKeVCqs8QtB0B|222161",
   song: "song/sabrina-carpenter-bring-your-love",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-bring-your-love-honey-dijon-remixes",
+      discNumber: 1,
+      position: 3,
+      externalId: "22iqm6UrX42j3EPZAYYWP3",
+      externalLink: "https://open.spotify.com/track/22iqm6UrX42j3EPZAYYWP3",
+    },
+  ],
 } as const satisfies Track

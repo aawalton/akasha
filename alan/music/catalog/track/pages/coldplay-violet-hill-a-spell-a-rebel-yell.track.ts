@@ -25,4 +25,13 @@ export const coldplayVioletHillASpellARebelYell = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "aspellarebelyell|4gzpq5DPGxSnKTe4SA8HAU|168253",
   song: "song/coldplay-a-spell-a-rebel-yell",
+  carriedBy: [
+    {
+      release: "release/coldplay-violet-hill",
+      discNumber: 1,
+      position: 2,
+      externalId: "59Mg99pBZJFtvgSKIQTMMw",
+      externalLink: "https://open.spotify.com/track/59Mg99pBZJFtvgSKIQTMMw",
+    },
+  ],
 } as const satisfies Track

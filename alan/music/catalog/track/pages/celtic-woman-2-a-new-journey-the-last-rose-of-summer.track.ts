@@ -25,4 +25,13 @@ export const celticWoman2ANewJourneyTheLastRoseOfSummer = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thelastroseofsummer|6NWtt9pNOL2Gx7kBykdE5x|216200",
   song: "song/celtic-woman-the-last-rose-of-summer",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-a-new-journey",
+      discNumber: 1,
+      position: 9,
+      externalId: "7Gy3PeLK5vXJAnTti847mF",
+      externalLink: "https://open.spotify.com/track/7Gy3PeLK5vXJAnTti847mF",
+    },
+  ],
 } as const satisfies Track

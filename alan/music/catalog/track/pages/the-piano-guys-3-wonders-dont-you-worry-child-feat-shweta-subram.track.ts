@@ -29,4 +29,13 @@ export const thePianoGuys3WondersDontYouWorryChildFeatShwetaSubram = {
   trackKey:
     "dontyouworrychildfeatshwetasubram|0jW6R8CVyVohuUJVcuweDI,4dyQjiS1hL6towoj5SgUSB|243413",
   song: "song/the-piano-guys-dont-you-worry-child",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-wonders",
+      discNumber: 1,
+      position: 8,
+      externalId: "7yWWGHEE0BHHcQYl4JPRtJ",
+      externalLink: "https://open.spotify.com/track/7yWWGHEE0BHHcQYl4JPRtJ",
+    },
+  ],
 } as const satisfies Track

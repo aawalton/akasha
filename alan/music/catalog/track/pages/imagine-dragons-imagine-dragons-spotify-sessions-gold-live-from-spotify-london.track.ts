@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsSpotifySessionsGoldLiveFromSpotifyLondo
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "goldlivefromspotifylondon|53XhwfbYqKCa1cC15pYq2q|238239",
   song: "song/imagine-dragons-gold",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-spotify-sessions",
+      discNumber: 1,
+      position: 4,
+      externalId: "33FLvaIp4eA2MopG2XJJB8",
+      externalLink: "https://open.spotify.com/track/33FLvaIp4eA2MopG2XJJB8",
+    },
+  ],
 } as const satisfies Track

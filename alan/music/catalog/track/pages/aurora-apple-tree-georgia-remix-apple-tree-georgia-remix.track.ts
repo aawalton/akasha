@@ -28,4 +28,13 @@ export const auroraAppleTreeGeorgiaRemixAppleTreeGeorgiaRemix = {
   ],
   trackKey: "appletreegeorgiaremix|06knYh538h5SI7OAEF8ek3,1WgXqy2Dd70QQOU7Ay074N|263411",
   song: "song/aurora-apple-tree",
+  carriedBy: [
+    {
+      release: "release/aurora-apple-tree-georgia-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "71V3Yv1FWouWHXgXXEIIhn",
+      externalLink: "https://open.spotify.com/track/71V3Yv1FWouWHXgXXEIIhn",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsDeluxeBleedingOut = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "bleedingout|53XhwfbYqKCa1cC15pYq2q|221053",
   song: "song/imagine-dragons-bleeding-out",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-deluxe",
+      discNumber: 1,
+      position: 9,
+      externalId: "2auTfKFcoQd7z2uFCeuaww",
+      externalLink: "https://open.spotify.com/track/2auTfKFcoQd7z2uFCeuaww",
+    },
+  ],
 } as const satisfies Track

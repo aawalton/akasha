@@ -25,4 +25,13 @@ export const paulCardallReturnHomeLandOfOurAncestors = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "landofourancestors|7FQRbf8gbKw8KZQZAJWxH2|193914",
   song: "song/paul-cardall-land-of-our-ancestors",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-return-home",
+      discNumber: 1,
+      position: 9,
+      externalId: "1hd4bCb8YIGuCNQk66c9mZ",
+      externalLink: "https://open.spotify.com/track/1hd4bCb8YIGuCNQk66c9mZ",
+    },
+  ],
 } as const satisfies Track

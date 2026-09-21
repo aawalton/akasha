@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveCarolinaInMyMind = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "carolinainmymind|0vn7UBvSQECKJm2817Yf1P|301666",
   song: "song/james-taylor-carolina-in-my-mind",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 12,
+      externalId: "2Fv3LSqbgv5lrdClrc6XKc",
+      externalLink: "https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc",
+    },
+  ],
 } as const satisfies Track

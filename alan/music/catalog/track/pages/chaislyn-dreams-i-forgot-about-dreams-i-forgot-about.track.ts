@@ -25,4 +25,13 @@ export const chaislynDreamsIForgotAboutDreamsIForgotAbout = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "dreamsiforgotabout|3zmbniiciaBAJlSX1Bzq9R|211915",
   song: "song/chaislyn-dreams-i-forgot-about",
+  carriedBy: [
+    {
+      release: "release/chaislyn-dreams-i-forgot-about",
+      discNumber: 1,
+      position: 1,
+      externalId: "3vIPyVKMrCPfGKWNFTOdNO",
+      externalLink: "https://open.spotify.com/track/3vIPyVKMrCPfGKWNFTOdNO",
+    },
+  ],
 } as const satisfies Track

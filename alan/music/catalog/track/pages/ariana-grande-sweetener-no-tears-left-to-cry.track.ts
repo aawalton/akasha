@@ -25,4 +25,13 @@ export const arianaGrandeSweetenerNoTearsLeftToCry = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "notearslefttocry|66CXWjxzNUsdJxJ2JdwvnR|205920",
   song: "song/ariana-grande-no-tears-left-to-cry",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-sweetener",
+      discNumber: 1,
+      position: 10,
+      externalId: "2qT1uLXPVPzGgFOx4jtEuo",
+      externalLink: "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo",
+    },
+  ],
 } as const satisfies Track

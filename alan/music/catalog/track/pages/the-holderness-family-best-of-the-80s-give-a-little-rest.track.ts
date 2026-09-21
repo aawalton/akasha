@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe80sGiveALittleRest = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "givealittlerest|6tITG4T8LpC0msapZ4wXGA|119300",
   song: "song/the-holderness-family-give-a-little-rest",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-80s",
+      discNumber: 1,
+      position: 4,
+      externalId: "5j4nM7HZu3RimAkmoJFUCn",
+      externalLink: "https://open.spotify.com/track/5j4nM7HZu3RimAkmoJFUCn",
+    },
+  ],
 } as const satisfies Track

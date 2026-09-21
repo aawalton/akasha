@@ -25,4 +25,13 @@ export const celticWoman2EmeraldMusicalGemsAmazingGrace = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "amazinggrace|6NWtt9pNOL2Gx7kBykdE5x|350413",
   song: "song/celtic-woman-amazing-grace",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-emerald-musical-gems",
+      discNumber: 1,
+      position: 4,
+      externalId: "5U5rysvkfySNqq6JzQ9apC",
+      externalLink: "https://open.spotify.com/track/5U5rysvkfySNqq6JzQ9apC",
+    },
+  ],
 } as const satisfies Track

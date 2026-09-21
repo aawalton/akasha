@@ -25,4 +25,13 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoYouShouldSeeMeInACrown = 
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "youshouldseemeinacrown|6qqNVTkY8uBg9cP3Jd7DAH|180952",
   song: "song/billie-eilish-you-should-see-me-in-a-crown",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-when-we-all-fall-asleep-where-do-we-go",
+      discNumber: 1,
+      position: 4,
+      externalId: "3XF5xLJHOQQRbWya6hBp7d",
+      externalLink: "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d",
+    },
+  ],
 } as const satisfies Track

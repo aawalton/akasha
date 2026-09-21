@@ -25,4 +25,13 @@ export const coldplayVivaLaVidaProspektSMarchEditionLoversInJapanOsakaSunMix = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "loversinjapanosakasunmix|4gzpq5DPGxSnKTe4SA8HAU|238240",
   song: "song/coldplay-lovers-in-japan",
+  carriedBy: [
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 7,
+      externalId: "1wV03IHNBW0ZkT5lBCScXb",
+      externalLink: "https://open.spotify.com/track/1wV03IHNBW0ZkT5lBCScXb",
+    },
+  ],
 } as const satisfies Track

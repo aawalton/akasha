@@ -25,4 +25,13 @@ export const imagineDragonsOriginsDeluxeBulletInAGun = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "bulletinagun|53XhwfbYqKCa1cC15pYq2q|204853",
   song: "song/imagine-dragons-bullet-in-a-gun",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-origins-deluxe",
+      discNumber: 1,
+      position: 8,
+      externalId: "3R4Xk37WTagjzODMNEQLvs",
+      externalLink: "https://open.spotify.com/track/3R4Xk37WTagjzODMNEQLvs",
+    },
+  ],
 } as const satisfies Track

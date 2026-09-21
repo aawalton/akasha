@@ -28,4 +28,13 @@ export const thePianoGuys3TheMissionHowGreatThouArtTheMissionHowGreatThouArt = {
   ],
   trackKey: "themissionhowgreatthouart|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5|201557",
   song: "song/the-piano-guys-the-mission-how-great-thou-art",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-mission-how-great-thou-art",
+      discNumber: 1,
+      position: 1,
+      externalId: "2KhWdTFxVY18HQxK9RtKeF",
+      externalLink: "https://open.spotify.com/track/2KhWdTFxVY18HQxK9RtKeF",
+    },
+  ],
 } as const satisfies Track

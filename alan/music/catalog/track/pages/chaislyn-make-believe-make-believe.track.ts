@@ -25,4 +25,13 @@ export const chaislynMakeBelieveMakeBelieve = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "makebelieve|3zmbniiciaBAJlSX1Bzq9R|188200",
   song: "song/chaislyn-make-believe",
+  carriedBy: [
+    {
+      release: "release/chaislyn-make-believe",
+      discNumber: 1,
+      position: 1,
+      externalId: "2HAbEAz1TTAzdUcpDxuDDj",
+      externalLink: "https://open.spotify.com/track/2HAbEAz1TTAzdUcpDxuDDj",
+    },
+  ],
 } as const satisfies Track

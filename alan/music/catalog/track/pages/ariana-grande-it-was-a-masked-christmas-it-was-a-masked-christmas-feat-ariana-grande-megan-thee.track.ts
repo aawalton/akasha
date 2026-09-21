@@ -30,4 +30,13 @@ export const arianaGrandeItWasAMaskedChristmasItWasAMaskedChristmasFeatArianaGra
   trackKey:
     "itwasamaskedchristmasfeatarianagrandemegantheestallion|181bsRPaVXVlUKXrxwZfHK,66CXWjxzNUsdJxJ2JdwvnR,7mAcgRMD6EfCKHO6cIkDOP|180909",
   song: "song/ariana-grande-it-was-a-masked-christmas",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-it-was-a-masked-christmas",
+      discNumber: 1,
+      position: 1,
+      externalId: "0vGVNj5Fmn4TU4foavNZG1",
+      externalLink: "https://open.spotify.com/track/0vGVNj5Fmn4TU4foavNZG1",
+    },
+  ],
 } as const satisfies Track

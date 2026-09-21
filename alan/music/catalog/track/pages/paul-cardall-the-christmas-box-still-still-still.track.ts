@@ -25,4 +25,13 @@ export const paulCardallTheChristmasBoxStillStillStill = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "stillstillstill|7FQRbf8gbKw8KZQZAJWxH2|138200",
   song: "song/paul-cardall-still-still-still",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-christmas-box",
+      discNumber: 1,
+      position: 13,
+      externalId: "2Wb98m8lm2krd0sKP3NnE5",
+      externalLink: "https://open.spotify.com/track/2Wb98m8lm2krd0sKP3NnE5",
+    },
+  ],
 } as const satisfies Track

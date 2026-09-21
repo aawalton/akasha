@@ -25,4 +25,13 @@ export const sabrinaCarpenterManSBestFriendWeAlmostBrokeUpAgainLastNight = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "wealmostbrokeupagainlastnight|74KM79TiuVKeVCqs8QtB0B|203378",
   song: "song/sabrina-carpenter-we-almost-broke-up-again-last-night",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-man-s-best-friend",
+      discNumber: 1,
+      position: 5,
+      externalId: "6wkYQMrFfb0huLB5Qn19Iv",
+      externalLink: "https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv",
+    },
+  ],
 } as const satisfies Track

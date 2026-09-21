@@ -28,4 +28,13 @@ export const vinnyMarchiComeLittleChildrenComeLittleChildren = {
   ],
   trackKey: "comelittlechildren|0Sl22kYbJDXJoZvmOKe4XQ,5USAMqcbMAzF3HBmeD5pJF|154485",
   song: "song/vinny-marchi-come-little-children",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-come-little-children",
+      discNumber: 1,
+      position: 1,
+      externalId: "5YQuo1ly8Hdv4gHZYygFI1",
+      externalLink: "https://open.spotify.com/track/5YQuo1ly8Hdv4gHZYygFI1",
+    },
+  ],
 } as const satisfies Track

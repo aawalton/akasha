@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoSweetSurrender = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweetsurrender|7FQRbf8gbKw8KZQZAJWxH2|181093",
   song: "song/paul-cardall-sweet-surrender",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 4,
+      externalId: "1d26cF9yQ6BDROI8yfarIt",
+      externalLink: "https://open.spotify.com/track/1d26cF9yQ6BDROI8yfarIt",
+    },
+  ],
 } as const satisfies Track

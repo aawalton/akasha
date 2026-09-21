@@ -25,4 +25,13 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentrePolaroidLive 
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "polaroidlive|53XhwfbYqKCa1cC15pYq2q|305826",
   song: "song/imagine-dragons-polaroid",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
+      discNumber: 1,
+      position: 6,
+      externalId: "2ix3yloi4ImDqwkN17NUei",
+      externalLink: "https://open.spotify.com/track/2ix3yloi4ImDqwkN17NUei",
+    },
+  ],
 } as const satisfies Track

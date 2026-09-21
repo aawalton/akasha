@@ -25,4 +25,13 @@ export const emeiGingerTeaGingerTea = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "gingertea|7E2aQQjErJocovYFjYLzWU|157226",
   song: "song/emei-ginger-tea",
+  carriedBy: [
+    {
+      release: "release/emei-ginger-tea",
+      discNumber: 1,
+      position: 1,
+      externalId: "4jBCtBR2iSffMZPh3Bdk2L",
+      externalLink: "https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L",
+    },
+  ],
 } as const satisfies Track

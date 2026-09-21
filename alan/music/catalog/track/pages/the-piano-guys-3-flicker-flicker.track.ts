@@ -25,4 +25,13 @@ export const thePianoGuys3FlickerFlicker = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "flicker|0jW6R8CVyVohuUJVcuweDI|196533",
   song: "song/the-piano-guys-flicker",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-flicker",
+      discNumber: 1,
+      position: 1,
+      externalId: "4IOl3FjbQ5gOysdEXhJlV2",
+      externalLink: "https://open.spotify.com/track/4IOl3FjbQ5gOysdEXhJlV2",
+    },
+  ],
 } as const satisfies Track

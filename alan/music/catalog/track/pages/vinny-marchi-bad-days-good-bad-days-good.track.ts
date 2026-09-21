@@ -28,4 +28,13 @@ export const vinnyMarchiBadDaysGoodBadDaysGood = {
   ],
   trackKey: "baddaysgood|5USAMqcbMAzF3HBmeD5pJF,64ADBorxGiCOn7wiXxQfYB|159000",
   song: "song/vinny-marchi-bad-days-good",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-bad-days-good",
+      discNumber: 1,
+      position: 1,
+      externalId: "0Rjy1m7fY46sKHPY7wvuGM",
+      externalLink: "https://open.spotify.com/track/0Rjy1m7fY46sKHPY7wvuGM",
+    },
+  ],
 } as const satisfies Track

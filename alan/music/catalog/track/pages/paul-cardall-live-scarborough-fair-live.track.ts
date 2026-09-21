@@ -25,4 +25,13 @@ export const paulCardallLiveScarboroughFairLive = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "scarboroughfairlive|7FQRbf8gbKw8KZQZAJWxH2|169266",
   song: "song/paul-cardall-scarborough-fair",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-live",
+      discNumber: 1,
+      position: 9,
+      externalId: "33fMR35WpgByInrsvZdyL5",
+      externalLink: "https://open.spotify.com/track/33fMR35WpgByInrsvZdyL5",
+    },
+  ],
 } as const satisfies Track

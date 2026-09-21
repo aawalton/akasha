@@ -25,4 +25,13 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterSoldiers2019Re
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "soldiers2019remaster|0vn7UBvSQECKJm2817Yf1P|75240",
   song: "song/james-taylor-soldiers",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster",
+      discNumber: 1,
+      position: 5,
+      externalId: "3f3Nk2e5tLq3zCR55hNcfN",
+      externalLink: "https://open.spotify.com/track/3f3Nk2e5tLq3zCR55hNcfN",
+    },
+  ],
 } as const satisfies Track

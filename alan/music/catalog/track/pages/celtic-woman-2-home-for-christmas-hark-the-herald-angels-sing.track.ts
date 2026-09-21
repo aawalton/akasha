@@ -25,4 +25,13 @@ export const celticWoman2HomeForChristmasHarkTheHeraldAngelsSing = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "harktheheraldangelssing|6NWtt9pNOL2Gx7kBykdE5x|301853",
   song: "song/celtic-woman-hark-the-herald-angels-sing",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-home-for-christmas",
+      discNumber: 1,
+      position: 2,
+      externalId: "0nszPNNnV2LbAipp6A1Zs3",
+      externalLink: "https://open.spotify.com/track/0nszPNNnV2LbAipp6A1Zs3",
+    },
+  ],
 } as const satisfies Track

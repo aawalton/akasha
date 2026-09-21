@@ -25,4 +25,13 @@ export const sabrinaCarpenterEyesWideOpenYourLovesLike = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "yourloveslike|74KM79TiuVKeVCqs8QtB0B|209080",
   song: "song/sabrina-carpenter-your-loves-like",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-eyes-wide-open",
+      discNumber: 1,
+      position: 6,
+      externalId: "1fVnTuUKlhkFqZ6HXV56s6",
+      externalLink: "https://open.spotify.com/track/1fVnTuUKlhkFqZ6HXV56s6",
+    },
+  ],
 } as const satisfies Track

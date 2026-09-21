@@ -32,4 +32,13 @@ export const thePianoGuys3AFamilyChristmasWhereAreYouChristmasFeatSarahSchmidt =
   trackKey:
     "whereareyouchristmasfeatsarahschmidt|0jW6R8CVyVohuUJVcuweDI,1Mq5WQehpxWHq4S2KTB3HI,2LpGg3qukmprl5BSlBk6HM,3PhL2Vdao2v8SS8AptuhAr,4iHNK0tOyZPYnBU7nGAgpQ|237470",
   song: "song/the-piano-guys-where-are-you-christmas",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-family-christmas",
+      discNumber: 1,
+      position: 5,
+      externalId: "6insm53ZpCzFSOrMPwnAeT",
+      externalLink: "https://open.spotify.com/track/6insm53ZpCzFSOrMPwnAeT",
+    },
+  ],
 } as const satisfies Track

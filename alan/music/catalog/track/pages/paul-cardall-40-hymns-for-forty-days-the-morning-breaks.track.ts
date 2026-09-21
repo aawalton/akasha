@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysTheMorningBreaks = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "themorningbreaks|7FQRbf8gbKw8KZQZAJWxH2|115720",
   song: "song/paul-cardall-the-morning-breaks",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 25,
+      externalId: "25J1EDD1Up25EUTJGFD4mI",
+      externalLink: "https://open.spotify.com/track/25J1EDD1Up25EUTJGFD4mI",
+    },
+  ],
 } as const satisfies Track

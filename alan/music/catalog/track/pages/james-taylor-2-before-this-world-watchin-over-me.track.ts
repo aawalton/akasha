@@ -25,4 +25,13 @@ export const jamesTaylor2BeforeThisWorldWatchinOverMe = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "watchinoverme|0vn7UBvSQECKJm2817Yf1P|247680",
   song: "song/james-taylor-watchin-over-me",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-before-this-world",
+      discNumber: 1,
+      position: 6,
+      externalId: "0STxFgJBkPlJXEI2dlr0rw",
+      externalLink: "https://open.spotify.com/track/0STxFgJBkPlJXEI2dlr0rw",
+    },
+  ],
 } as const satisfies Track

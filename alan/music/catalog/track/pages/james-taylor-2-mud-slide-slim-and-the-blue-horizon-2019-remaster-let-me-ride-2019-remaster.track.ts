@@ -25,4 +25,13 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLetMeRide2019R
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "letmeride2019remaster|0vn7UBvSQECKJm2817Yf1P|164133",
   song: "song/james-taylor-let-me-ride",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster",
+      discNumber: 1,
+      position: 11,
+      externalId: "095LP9En9jWNJ9ETwUKnOP",
+      externalLink: "https://open.spotify.com/track/095LP9En9jWNJ9ETwUKnOP",
+    },
+  ],
 } as const satisfies Track

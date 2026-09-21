@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheParting
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thepartingglass|6NWtt9pNOL2Gx7kBykdE5x|256786",
   song: "song/celtic-woman-the-parting-glass",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 15,
+      externalId: "4GrSOtphVKCSE8NIvFjfbw",
+      externalLink: "https://open.spotify.com/track/4GrSOtphVKCSE8NIvFjfbw",
+    },
+  ],
 } as const satisfies Track

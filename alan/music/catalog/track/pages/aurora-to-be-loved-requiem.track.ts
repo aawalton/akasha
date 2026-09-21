@@ -25,4 +25,13 @@ export const auroraToBeLovedRequiem = {
   trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
   trackKey: "requiem|3NABmtfO8G8s96WFGhbR7F|388091",
   song: "song/aurora-requiem",
+  carriedBy: [
+    {
+      release: "release/aurora-to-be-loved",
+      discNumber: 1,
+      position: 5,
+      externalId: "4JT0A22SYMNP1ceiVrCxIc",
+      externalLink: "https://open.spotify.com/track/4JT0A22SYMNP1ceiVrCxIc",
+    },
+  ],
 } as const satisfies Track

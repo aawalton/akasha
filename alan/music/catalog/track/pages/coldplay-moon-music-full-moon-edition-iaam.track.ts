@@ -25,4 +25,13 @@ export const coldplayMoonMusicFullMoonEditionIaam = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "iaam|4gzpq5DPGxSnKTe4SA8HAU|183371",
   song: "song/coldplay-iaam",
+  carriedBy: [
+    {
+      release: "release/coldplay-moon-music-full-moon-edition",
+      discNumber: 1,
+      position: 7,
+      externalId: "2uaihUX7HbKyXBpFxOUT2a",
+      externalLink: "https://open.spotify.com/track/2uaihUX7HbKyXBpFxOUT2a",
+    },
+  ],
 } as const satisfies Track

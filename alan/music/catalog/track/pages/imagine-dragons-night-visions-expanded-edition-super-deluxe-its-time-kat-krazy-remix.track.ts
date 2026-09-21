@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeKatKrazy
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimekatkrazyremix|53XhwfbYqKCa1cC15pYq2q|208013",
   song: "song/imagine-dragons-it-s-time",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 12,
+      externalId: "39C0J5Gcd5jWiVA67hCKxV",
+      externalLink: "https://open.spotify.com/track/39C0J5Gcd5jWiVA67hCKxV",
+    },
+  ],
 } as const satisfies Track

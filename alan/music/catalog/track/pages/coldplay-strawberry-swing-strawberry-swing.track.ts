@@ -25,4 +25,13 @@ export const coldplayStrawberrySwingStrawberrySwing = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "strawberryswing|4gzpq5DPGxSnKTe4SA8HAU|249666",
   song: "song/coldplay-strawberry-swing",
+  carriedBy: [
+    {
+      release: "release/coldplay-strawberry-swing",
+      discNumber: 1,
+      position: 1,
+      externalId: "06inBM2SUiyg3nGDC2KvUG",
+      externalLink: "https://open.spotify.com/track/06inBM2SUiyg3nGDC2KvUG",
+    },
+  ],
 } as const satisfies Track

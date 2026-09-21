@@ -25,4 +25,13 @@ export const auroraMusicForTheFellowWitchesOutThereSoftUniverse = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "softuniverse|1WgXqy2Dd70QQOU7Ay074N|239533",
   song: "song/aurora-soft-universe",
+  carriedBy: [
+    {
+      release: "release/aurora-music-for-the-fellow-witches-out-there",
+      discNumber: 1,
+      position: 3,
+      externalId: "0pDtBBDUDnBwd6TKPu0lzS",
+      externalLink: "https://open.spotify.com/track/0pDtBBDUDnBwd6TKPu0lzS",
+    },
+  ],
 } as const satisfies Track

@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAWomansHea
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "awomansheart|6NWtt9pNOL2Gx7kBykdE5x|265946",
   song: "song/celtic-woman-a-womans-heart",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 6,
+      externalId: "2XnYpumTkwxh5bd3yLNRjH",
+      externalLink: "https://open.spotify.com/track/2XnYpumTkwxh5bd3yLNRjH",
+    },
+  ],
 } as const satisfies Track

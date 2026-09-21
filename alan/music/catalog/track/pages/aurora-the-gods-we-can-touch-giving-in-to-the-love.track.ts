@@ -25,4 +25,13 @@ export const auroraTheGodsWeCanTouchGivingInToTheLove = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "givingintothelove|1WgXqy2Dd70QQOU7Ay074N|181333",
   song: "song/aurora-giving-in-to-the-love",
+  carriedBy: [
+    {
+      release: "release/aurora-the-gods-we-can-touch",
+      discNumber: 1,
+      position: 3,
+      externalId: "1YKRI4Uqw9HNEqMoQvhQom",
+      externalLink: "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom",
+    },
+  ],
 } as const satisfies Track

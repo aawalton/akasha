@@ -28,4 +28,13 @@ export const vinnyMarchiAveMariaAveMaria = {
   ],
   trackKey: "avemaria|2p0UyoPfYfI76PCStuXfOP,5USAMqcbMAzF3HBmeD5pJF|236010",
   song: "song/vinny-marchi-ave-maria",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-ave-maria",
+      discNumber: 1,
+      position: 1,
+      externalId: "5TjhimqQne160MIG1iaCdv",
+      externalLink: "https://open.spotify.com/track/5TjhimqQne160MIG1iaCdv",
+    },
+  ],
 } as const satisfies Track

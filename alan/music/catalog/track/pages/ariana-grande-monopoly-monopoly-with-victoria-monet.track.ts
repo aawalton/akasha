@@ -28,4 +28,13 @@ export const arianaGrandeMonopolyMonopolyWithVictoriaMonet = {
   ],
   trackKey: "monopolywithvictoriamonet|63XBtGSEZINSyXylZxEUbv,66CXWjxzNUsdJxJ2JdwvnR|158586",
   song: "song/ariana-grande-monopoly",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-monopoly",
+      discNumber: 1,
+      position: 1,
+      externalId: "6tsOcBnaKgzK22yEiqRh8P",
+      externalLink: "https://open.spotify.com/track/6tsOcBnaKgzK22yEiqRh8P",
+    },
+  ],
 } as const satisfies Track

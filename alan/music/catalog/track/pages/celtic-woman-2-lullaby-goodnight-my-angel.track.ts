@@ -25,4 +25,13 @@ export const celticWoman2LullabyGoodnightMyAngel = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "goodnightmyangel|6NWtt9pNOL2Gx7kBykdE5x|194773",
   song: "song/celtic-woman-goodnight-my-angel",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-lullaby",
+      discNumber: 1,
+      position: 4,
+      externalId: "5bNTYrQBhfZ3v2TuS2hyfB",
+      externalLink: "https://open.spotify.com/track/5bNTYrQBhfZ3v2TuS2hyfB",
+    },
+  ],
 } as const satisfies Track

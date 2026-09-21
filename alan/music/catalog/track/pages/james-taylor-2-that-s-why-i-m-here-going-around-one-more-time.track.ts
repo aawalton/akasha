@@ -25,4 +25,13 @@ export const jamesTaylor2ThatSWhyIMHereGoingAroundOneMoreTime = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "goingaroundonemoretime|0vn7UBvSQECKJm2817Yf1P|202973",
   song: "song/james-taylor-going-around-one-more-time",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-that-s-why-i-m-here",
+      discNumber: 1,
+      position: 5,
+      externalId: "4gIdlxBwb0oXlsBCqjQYVR",
+      externalLink: "https://open.spotify.com/track/4gIdlxBwb0oXlsBCqjQYVR",
+    },
+  ],
 } as const satisfies Track

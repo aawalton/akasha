@@ -25,4 +25,13 @@ export const paulCardallSongsOfPraiseComeThouFount = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comethoufount|7FQRbf8gbKw8KZQZAJWxH2|140773",
   song: "song/paul-cardall-come-thou-fount",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-songs-of-praise",
+      discNumber: 1,
+      position: 1,
+      externalId: "1LJg1ICfSlgpUcMXCe4KSz",
+      externalLink: "https://open.spotify.com/track/1LJg1ICfSlgpUcMXCe4KSz",
+    },
+  ],
 } as const satisfies Track

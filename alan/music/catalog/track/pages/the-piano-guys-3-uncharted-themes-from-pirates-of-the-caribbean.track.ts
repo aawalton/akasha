@@ -32,4 +32,13 @@ export const thePianoGuys3UnchartedThemesFromPiratesOfTheCaribbean = {
   trackKey:
     "themesfrompiratesofthecaribbean|0jW6R8CVyVohuUJVcuweDI,1tFJb0qH8ONTajXavG35J2,2YQ4MY2VwOMv43C0GemUY5,3TaTCYiv3QcamWjvRCcz6Q,67CqEIMpWuNb6MnpTKjlFv|380000",
   song: "song/the-piano-guys-themes-from-pirates-of-the-caribbean",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 5,
+      externalId: "73Iw6SsjJJASNSjkcAYgZY",
+      externalLink: "https://open.spotify.com/track/73Iw6SsjJJASNSjkcAYgZY",
+    },
+  ],
 } as const satisfies Track

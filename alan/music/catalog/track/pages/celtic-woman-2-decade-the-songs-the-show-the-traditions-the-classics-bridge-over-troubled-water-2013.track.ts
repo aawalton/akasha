@@ -28,4 +28,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBridgeOver
     trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
     trackKey: "bridgeovertroubledwater2013version|6NWtt9pNOL2Gx7kBykdE5x|179080",
     song: "song/celtic-woman-bridge-over-troubled-water",
+    carriedBy: [
+      {
+        release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+        discNumber: 1,
+        position: 11,
+        externalId: "4G0tTJs3B86KmyxBeq3Sz1",
+        externalLink: "https://open.spotify.com/track/4G0tTJs3B86KmyxBeq3Sz1",
+      },
+    ],
   } as const satisfies Track

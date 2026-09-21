@@ -25,4 +25,13 @@ export const celticWoman2PostcardsFromIrelandTheLakesOfPontchartrain = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thelakesofpontchartrain|6NWtt9pNOL2Gx7kBykdE5x|236106",
   song: "song/celtic-woman-the-lakes-of-pontchartrain",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-postcards-from-ireland",
+      discNumber: 1,
+      position: 9,
+      externalId: "0giHDV0WqC9QPhnh2HrxZH",
+      externalLink: "https://open.spotify.com/track/0giHDV0WqC9QPhnh2HrxZH",
+    },
+  ],
 } as const satisfies Track

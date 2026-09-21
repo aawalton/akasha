@@ -28,4 +28,13 @@ export const arianaGrande7RingsRemix7RingsFeat2ChainzRemix = {
   ],
   trackKey: "7ringsfeat2chainzremix|17lzZA2AlOHwCwFALHttmp,66CXWjxzNUsdJxJ2JdwvnR|178640",
   song: "song/ariana-grande-7-rings",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-7-rings-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "6AyI8UGx8Y4peb7pLOy2pf",
+      externalLink: "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf",
+    },
+  ],
 } as const satisfies Track

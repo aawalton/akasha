@@ -30,4 +30,13 @@ export const musicalTheaterWickedTheSoundtrackDearOldShiz = {
   trackKey:
     "dearoldshiz|32zfWhZAXwCpm5edh16fqj,3eLZo1bSslvsu0zNhtmMM4,66CXWjxzNUsdJxJ2JdwvnR|71734",
   song: "song/wicked-movie-cast-dear-old-shiz",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 2,
+      externalId: "4HAhrqmjZ6ltgVdPF8K6wn",
+      externalLink: "https://open.spotify.com/track/4HAhrqmjZ6ltgVdPF8K6wn",
+    },
+  ],
 } as const satisfies Track

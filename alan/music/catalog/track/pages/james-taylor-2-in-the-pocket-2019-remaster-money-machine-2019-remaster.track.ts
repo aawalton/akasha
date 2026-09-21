@@ -25,4 +25,13 @@ export const jamesTaylor2InThePocket2019RemasterMoneyMachine2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "moneymachine2019remaster|0vn7UBvSQECKJm2817Yf1P|275906",
   song: "song/james-taylor-money-machine",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-in-the-pocket-2019-remaster",
+      discNumber: 1,
+      position: 3,
+      externalId: "1iEzr3BJv8KK2pdz3pgnuX",
+      externalLink: "https://open.spotify.com/track/1iEzr3BJv8KK2pdz3pgnuX",
+    },
+  ],
 } as const satisfies Track

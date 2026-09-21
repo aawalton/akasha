@@ -25,4 +25,13 @@ export const coldplayLive2012ClocksLive = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "clockslive|4gzpq5DPGxSnKTe4SA8HAU|284960",
   song: "song/coldplay-clocks",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-2012",
+      discNumber: 1,
+      position: 13,
+      externalId: "7LIQNY8P7ZGxilKVX88MF1",
+      externalLink: "https://open.spotify.com/track/7LIQNY8P7ZGxilKVX88MF1",
+    },
+  ],
 } as const satisfies Track

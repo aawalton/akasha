@@ -25,4 +25,13 @@ export const vinnyMarchiMissingMeMissingMe = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "missingme|5USAMqcbMAzF3HBmeD5pJF|198520",
   song: "song/vinny-marchi-missing-me",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-missing-me",
+      discNumber: 1,
+      position: 1,
+      externalId: "4SVHyFLX8rWfmW8nnUzymu",
+      externalLink: "https://open.spotify.com/track/4SVHyFLX8rWfmW8nnUzymu",
+    },
+  ],
 } as const satisfies Track

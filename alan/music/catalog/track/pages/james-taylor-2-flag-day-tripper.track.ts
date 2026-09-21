@@ -25,4 +25,13 @@ export const jamesTaylor2FlagDayTripper = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "daytripper|0vn7UBvSQECKJm2817Yf1P|264400",
   song: "song/james-taylor-day-tripper",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-flag",
+      discNumber: 1,
+      position: 3,
+      externalId: "45goHlfgQSRpaJyMccZ8AT",
+      externalLink: "https://open.spotify.com/track/45goHlfgQSRpaJyMccZ8AT",
+    },
+  ],
 } as const satisfies Track

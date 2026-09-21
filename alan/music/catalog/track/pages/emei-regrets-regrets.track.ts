@@ -25,4 +25,13 @@ export const emeiRegretsRegrets = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "regrets|7E2aQQjErJocovYFjYLzWU|122253",
   song: "song/emei-regrets",
+  carriedBy: [
+    {
+      release: "release/emei-regrets",
+      discNumber: 1,
+      position: 1,
+      externalId: "64l8UD4BRovWTSyrLqManD",
+      externalLink: "https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD",
+    },
+  ],
 } as const satisfies Track

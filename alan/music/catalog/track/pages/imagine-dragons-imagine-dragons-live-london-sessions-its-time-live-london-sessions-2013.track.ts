@@ -25,4 +25,13 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsItsTimeLiveLondonSess
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimelivelondonsessions2013|53XhwfbYqKCa1cC15pYq2q|249880",
   song: "song/imagine-dragons-it-s-time",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-imagine-dragons-live-london-sessions",
+      discNumber: 1,
+      position: 2,
+      externalId: "42M35GsUidMAgXfH1mPUa3",
+      externalLink: "https://open.spotify.com/track/42M35GsUidMAgXfH1mPUa3",
+    },
+  ],
 } as const satisfies Track

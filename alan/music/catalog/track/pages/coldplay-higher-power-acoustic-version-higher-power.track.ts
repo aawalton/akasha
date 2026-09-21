@@ -25,4 +25,13 @@ export const coldplayHigherPowerAcousticVersionHigherPower = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "higherpower|4gzpq5DPGxSnKTe4SA8HAU|211294",
   song: "song/coldplay-higher-power",
+  carriedBy: [
+    {
+      release: "release/coldplay-higher-power-acoustic-version",
+      discNumber: 1,
+      position: 2,
+      externalId: "77jJZBmiozygu5IYfPun2B",
+      externalLink: "https://open.spotify.com/track/77jJZBmiozygu5IYfPun2B",
+    },
+  ],
 } as const satisfies Track

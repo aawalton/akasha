@@ -25,4 +25,13 @@ export const celticWoman2SoloCaptainH = {
   trackArtist: [{ externalId: "0gPFpb7bIqk1nyr0m75g7s", artistName: "Mairead" }],
   trackKey: "captainh|0gPFpb7bIqk1nyr0m75g7s|182532",
   song: "song/celtic-woman-captain-h",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-solo",
+      discNumber: 1,
+      position: 5,
+      externalId: "5Gwxm3rH2fdIZqrfM7JhtA",
+      externalLink: "https://open.spotify.com/track/5Gwxm3rH2fdIZqrfM7JhtA",
+    },
+  ],
 } as const satisfies Track

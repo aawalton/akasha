@@ -25,4 +25,13 @@ export const sabrinaCarpenterSingularActIiLookingAtMe = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "lookingatme|74KM79TiuVKeVCqs8QtB0B|181120",
   song: "song/sabrina-carpenter-looking-at-me",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-ii",
+      discNumber: 1,
+      position: 9,
+      externalId: "59tskctgqUmjCWAwhzYAFm",
+      externalLink: "https://open.spotify.com/track/59tskctgqUmjCWAwhzYAFm",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3UnchartedHelloLacrimosa = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "hellolacrimosa|0jW6R8CVyVohuUJVcuweDI|231750",
   song: "song/the-piano-guys-hello-lacrimosa",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 3,
+      externalId: "5KaNi4AEXhiqfouONO5fM0",
+      externalLink: "https://open.spotify.com/track/5KaNi4AEXhiqfouONO5fM0",
+    },
+  ],
 } as const satisfies Track

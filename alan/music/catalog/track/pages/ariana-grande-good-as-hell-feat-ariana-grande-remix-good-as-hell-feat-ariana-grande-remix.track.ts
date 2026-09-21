@@ -28,4 +28,13 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHellFeatArianaGran
   ],
   trackKey: "goodashellfeatarianagranderemix|56oDRnqbIiwx4mymNEv7dS,66CXWjxzNUsdJxJ2JdwvnR|159011",
   song: "song/ariana-grande-good-as-hell",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-good-as-hell-feat-ariana-grande-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "07Oz5StQ7GRoygNLaXs2pd",
+      externalLink: "https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd",
+    },
+  ],
 } as const satisfies Track

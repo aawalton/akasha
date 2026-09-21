@@ -28,4 +28,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeSupernaturalWithTroyeSivan
   ],
   trackKey: "supernaturalwithtroyesivanremix|3WGpXCj9YhhfX11TToZcXP,66CXWjxzNUsdJxJ2JdwvnR|163381",
   song: "song/ariana-grande-supernatural",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+      discNumber: 1,
+      position: 14,
+      externalId: "3iJOkxYP59kFJ5OLgHo4Tp",
+      externalLink: "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp",
+    },
+  ],
 } as const satisfies Track

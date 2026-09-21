@@ -25,4 +25,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321Acoustic =
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "murdersong54321acoustic|1WgXqy2Dd70QQOU7Ay074N|218666",
   song: "song/aurora-murder-song-5-4-3-2-1",
+  carriedBy: [
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+      discNumber: 1,
+      position: 14,
+      externalId: "2TtVg8AfRcdqkGObjiQ3Fx",
+      externalLink: "https://open.spotify.com/track/2TtVg8AfRcdqkGObjiQ3Fx",
+    },
+  ],
 } as const satisfies Track

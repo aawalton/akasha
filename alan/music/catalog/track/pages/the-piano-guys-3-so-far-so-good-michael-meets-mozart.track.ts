@@ -25,4 +25,13 @@ export const thePianoGuys3SoFarSoGoodMichaelMeetsMozart = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "michaelmeetsmozart|0jW6R8CVyVohuUJVcuweDI|318680",
   song: "song/the-piano-guys-michael-meets-mozart",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-so-far-so-good",
+      discNumber: 1,
+      position: 8,
+      externalId: "2ro0V80w0BSF53D8fCI983",
+      externalLink: "https://open.spotify.com/track/2ro0V80w0BSF53D8fCI983",
+    },
+  ],
 } as const satisfies Track

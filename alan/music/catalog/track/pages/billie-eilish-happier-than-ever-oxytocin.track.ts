@@ -25,4 +25,13 @@ export const billieEilishHappierThanEverOxytocin = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "oxytocin|6qqNVTkY8uBg9cP3Jd7DAH|210232",
   song: "song/billie-eilish-oxytocin",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-happier-than-ever",
+      discNumber: 1,
+      position: 5,
+      externalId: "4t2OeILB07eMGTXSUbMPEu",
+      externalLink: "https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu",
+    },
+  ],
 } as const satisfies Track

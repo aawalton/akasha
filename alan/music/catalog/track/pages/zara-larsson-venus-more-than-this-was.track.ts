@@ -25,4 +25,13 @@ export const zaraLarssonVenusMoreThanThisWas = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "morethanthiswas|1Xylc3o4UrD53lo9CvFvVg|193855",
   song: "song/zara-larsson-more-than-this-was",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-venus",
+      discNumber: 1,
+      position: 2,
+      externalId: "6CwrlA656MPLMRFgZZsvuD",
+      externalLink: "https://open.spotify.com/track/6CwrlA656MPLMRFgZZsvuD",
+    },
+  ],
 } as const satisfies Track

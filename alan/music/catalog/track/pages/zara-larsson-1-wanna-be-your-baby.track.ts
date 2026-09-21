@@ -25,4 +25,13 @@ export const zaraLarsson1WannaBeYourBaby = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "wannabeyourbaby|1Xylc3o4UrD53lo9CvFvVg|184847",
   song: "song/zara-larsson-wanna-be-your-baby",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-1",
+      discNumber: 1,
+      position: 2,
+      externalId: "5D8VLjaTQLbf8H7aNdA4Bz",
+      externalLink: "https://open.spotify.com/track/5D8VLjaTQLbf8H7aNdA4Bz",
+    },
+  ],
 } as const satisfies Track

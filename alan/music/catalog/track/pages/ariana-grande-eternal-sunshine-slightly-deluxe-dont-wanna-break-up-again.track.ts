@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeDontWannaBreakUpAgain = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "dontwannabreakupagain|66CXWjxzNUsdJxJ2JdwvnR|174006",
   song: "song/ariana-grande-don-t-wanna-break-up-again",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe",
+      discNumber: 1,
+      position: 3,
+      externalId: "3K6TfJcMDBhZmYrK2oI8If",
+      externalLink: "https://open.spotify.com/track/3K6TfJcMDBhZmYrK2oI8If",
+    },
+  ],
 } as const satisfies Track

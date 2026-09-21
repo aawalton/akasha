@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeHearMeSpectorRe
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "hearmespectorremix|53XhwfbYqKCa1cC15pYq2q|258733",
   song: "song/imagine-dragons-hear-me",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 5,
+      externalId: "2OZxZyMoKgVQZYeEtnOTPF",
+      externalLink: "https://open.spotify.com/track/2OZxZyMoKgVQZYeEtnOTPF",
+    },
+  ],
 } as const satisfies Track

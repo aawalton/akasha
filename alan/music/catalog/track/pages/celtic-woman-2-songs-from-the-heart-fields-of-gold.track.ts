@@ -25,4 +25,13 @@ export const celticWoman2SongsFromTheHeartFieldsOfGold = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "fieldsofgold|6NWtt9pNOL2Gx7kBykdE5x|229640",
   song: "song/celtic-woman-fields-of-gold",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-songs-from-the-heart",
+      discNumber: 1,
+      position: 1,
+      externalId: "1nE3flyqkY3H3sicuO44OP",
+      externalLink: "https://open.spotify.com/track/1nE3flyqkY3H3sicuO44OP",
+    },
+  ],
 } as const satisfies Track

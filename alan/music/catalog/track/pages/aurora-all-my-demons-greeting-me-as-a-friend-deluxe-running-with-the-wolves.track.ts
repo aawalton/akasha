@@ -25,4 +25,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolves = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runningwiththewolves|1WgXqy2Dd70QQOU7Ay074N|194760",
   song: "song/aurora-running-with-the-wolves",
+  carriedBy: [
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+      discNumber: 1,
+      position: 3,
+      externalId: "2gbOc5OxpVb38W0MMwBw56",
+      externalLink: "https://open.spotify.com/track/2gbOc5OxpVb38W0MMwBw56",
+    },
+  ],
 } as const satisfies Track

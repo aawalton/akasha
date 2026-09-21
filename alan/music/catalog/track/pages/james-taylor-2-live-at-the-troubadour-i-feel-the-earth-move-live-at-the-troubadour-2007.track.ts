@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourIFeelTheEarthMoveLiveAtTheTroubadour
   trackKey:
     "ifeeltheearthmoveliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|245173",
   song: "song/james-taylor-i-feel-the-earth-move",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 12,
+      externalId: "2ofc2V7Fxcso5CjReIPggZ",
+      externalLink: "https://open.spotify.com/track/2ofc2V7Fxcso5CjReIPggZ",
+    },
+  ],
 } as const satisfies Track

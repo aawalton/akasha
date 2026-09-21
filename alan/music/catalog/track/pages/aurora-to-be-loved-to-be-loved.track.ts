@@ -28,4 +28,13 @@ export const auroraToBeLovedToBeLoved = {
   ],
   trackKey: "tobeloved|1WgXqy2Dd70QQOU7Ay074N,3NABmtfO8G8s96WFGhbR7F|228594",
   song: "song/aurora-to-be-loved",
+  carriedBy: [
+    {
+      release: "release/aurora-to-be-loved",
+      discNumber: 1,
+      position: 3,
+      externalId: "1YSvsbCHSwyGKX7wNtV4ld",
+      externalLink: "https://open.spotify.com/track/1YSvsbCHSwyGKX7wNtV4ld",
+    },
+  ],
 } as const satisfies Track

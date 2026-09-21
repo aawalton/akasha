@@ -28,4 +28,13 @@ export const musicalTheaterWickedTheSoundtrackDefyingGravity = {
   ],
   trackKey: "defyinggravity|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|459766",
   song: "song/cynthia-erivo-defying-gravity",
+  carriedBy: [
+    {
+      release: "release/musical-theater-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 11,
+      externalId: "5QMrH5nszZZR3nefIj6Mar",
+      externalLink: "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar",
+    },
+  ],
 } as const satisfies Track

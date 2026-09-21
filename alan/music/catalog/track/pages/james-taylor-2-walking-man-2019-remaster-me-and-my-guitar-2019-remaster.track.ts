@@ -25,4 +25,13 @@ export const jamesTaylor2WalkingMan2019RemasterMeAndMyGuitar2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "meandmyguitar2019remaster|0vn7UBvSQECKJm2817Yf1P|214346",
   song: "song/james-taylor-me-and-my-guitar",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-walking-man-2019-remaster",
+      discNumber: 1,
+      position: 4,
+      externalId: "1sfMaoPwqGJWCZIByyZAfr",
+      externalLink: "https://open.spotify.com/track/1sfMaoPwqGJWCZIByyZAfr",
+    },
+  ],
 } as const satisfies Track

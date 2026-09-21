@@ -25,4 +25,13 @@ export const coldplayAHeadFullOfDreamsColourSpectrum = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "colourspectrum|4gzpq5DPGxSnKTe4SA8HAU|60106",
   song: "song/coldplay-colour-spectrum",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-head-full-of-dreams",
+      discNumber: 1,
+      position: 10,
+      externalId: "3VqiD8Yvk6bKwqS1e64PHB",
+      externalLink: "https://open.spotify.com/track/3VqiD8Yvk6bKwqS1e64PHB",
+    },
+  ],
 } as const satisfies Track

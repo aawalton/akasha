@@ -25,4 +25,13 @@ export const jamesTaylor2HourglassJumpUpBehindMe = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "jumpupbehindme|0vn7UBvSQECKJm2817Yf1P|208306",
   song: "song/james-taylor-jump-up-behind-me",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-hourglass",
+      discNumber: 1,
+      position: 6,
+      externalId: "2di380jNR8DLZ72ZdN06e6",
+      externalLink: "https://open.spotify.com/track/2di380jNR8DLZ72ZdN06e6",
+    },
+  ],
 } as const satisfies Track

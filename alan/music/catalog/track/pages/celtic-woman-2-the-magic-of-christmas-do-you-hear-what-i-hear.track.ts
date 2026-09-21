@@ -25,4 +25,13 @@ export const celticWoman2TheMagicOfChristmasDoYouHearWhatIHear = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "doyouhearwhatihear|6NWtt9pNOL2Gx7kBykdE5x|233693",
   song: "song/celtic-woman-do-you-hear-what-i-hear",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-magic-of-christmas",
+      discNumber: 1,
+      position: 3,
+      externalId: "1A34igERx51lCZMxkoUGMz",
+      externalLink: "https://open.spotify.com/track/1A34igERx51lCZMxkoUGMz",
+    },
+  ],
 } as const satisfies Track

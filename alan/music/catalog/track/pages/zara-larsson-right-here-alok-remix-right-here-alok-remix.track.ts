@@ -28,4 +28,13 @@ export const zaraLarssonRightHereAlokRemixRightHereAlokRemix = {
   ],
   trackKey: "rightherealokremix|0NGAZxHanS9e0iNHpR8f2W,1Xylc3o4UrD53lo9CvFvVg|155000",
   song: "song/zara-larsson-right-here",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-right-here-alok-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "4hmhWjYjHszUdYzeUpYCUs",
+      externalLink: "https://open.spotify.com/track/4hmhWjYjHszUdYzeUpYCUs",
+    },
+  ],
 } as const satisfies Track

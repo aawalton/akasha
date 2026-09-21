@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarAveMaria = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "avemaria|7FQRbf8gbKw8KZQZAJWxH2|213000",
   song: "song/paul-cardall-ave-maria",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 12,
+      externalId: "5eeNMimzxqWafuRr8fZbZu",
+      externalLink: "https://open.spotify.com/track/5eeNMimzxqWafuRr8fZbZu",
+    },
+  ],
 } as const satisfies Track

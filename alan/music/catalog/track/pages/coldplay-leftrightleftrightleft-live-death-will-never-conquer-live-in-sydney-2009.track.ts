@@ -25,4 +25,13 @@ export const coldplayLeftrightleftrightleftLiveDeathWillNeverConquerLiveInSydney
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "deathwillneverconquerliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|99306",
   song: "song/coldplay-death-will-never-conquer",
+  carriedBy: [
+    {
+      release: "release/coldplay-leftrightleftrightleft-live",
+      discNumber: 1,
+      position: 7,
+      externalId: "34jtZbCoyKjyuG1MmfgXzX",
+      externalLink: "https://open.spotify.com/track/34jtZbCoyKjyuG1MmfgXzX",
+    },
+  ],
 } as const satisfies Track

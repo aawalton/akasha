@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeartLiveFromL
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "tattooedheartlivefromlondon|66CXWjxzNUsdJxJ2JdwvnR|193998",
   song: "song/ariana-grande-tattooed-heart",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 17,
+      externalId: "5JVMTPWkg7U14ga4up1rSm",
+      externalLink: "https://open.spotify.com/track/5JVMTPWkg7U14ga4up1rSm",
+    },
+  ],
 } as const satisfies Track

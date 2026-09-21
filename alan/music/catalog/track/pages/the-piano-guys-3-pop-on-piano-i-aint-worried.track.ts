@@ -25,4 +25,13 @@ export const thePianoGuys3PopOnPianoIAintWorried = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "iaintworried|0jW6R8CVyVohuUJVcuweDI|160107",
   song: "song/the-piano-guys-i-aint-worried",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-pop-on-piano",
+      discNumber: 1,
+      position: 3,
+      externalId: "35BKBdt0wS8uN70d9gGVUe",
+      externalLink: "https://open.spotify.com/track/35BKBdt0wS8uN70d9gGVUe",
+    },
+  ],
 } as const satisfies Track

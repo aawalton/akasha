@@ -25,4 +25,13 @@ export const jamesTaylor2NewMoonShineTheWaterIsWide = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thewateriswide|0vn7UBvSQECKJm2817Yf1P|180800",
   song: "song/james-taylor-the-water-is-wide",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-new-moon-shine",
+      discNumber: 1,
+      position: 12,
+      externalId: "6NaQl05UuL6ZHw6ptdyhdE",
+      externalLink: "https://open.spotify.com/track/6NaQl05UuL6ZHw6ptdyhdE",
+    },
+  ],
 } as const satisfies Track

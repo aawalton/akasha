@@ -25,4 +25,13 @@ export const paulCardallMourningLightMourningLight = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "mourninglight|7FQRbf8gbKw8KZQZAJWxH2|231000",
   song: "song/paul-cardall-mourning-light",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-mourning-light",
+      discNumber: 1,
+      position: 1,
+      externalId: "1gCWCSVLsvJAK79Srw7FX7",
+      externalLink: "https://open.spotify.com/track/1gCWCSVLsvJAK79Srw7FX7",
+    },
+  ],
 } as const satisfies Track

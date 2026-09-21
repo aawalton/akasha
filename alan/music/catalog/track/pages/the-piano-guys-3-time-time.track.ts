@@ -25,4 +25,13 @@ export const thePianoGuys3TimeTime = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "time|0jW6R8CVyVohuUJVcuweDI|252000",
   song: "song/the-piano-guys-time",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-time",
+      discNumber: 1,
+      position: 1,
+      externalId: "1EVJvqORoxiNMgjScE7fhl",
+      externalLink: "https://open.spotify.com/track/1EVJvqORoxiNMgjScE7fhl",
+    },
+  ],
 } as const satisfies Track

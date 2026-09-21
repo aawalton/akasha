@@ -25,4 +25,13 @@ export const thePianoGuys3UnchartedIndianaJonesAndTheArabianNights = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "indianajonesandthearabiannights|0jW6R8CVyVohuUJVcuweDI|206312",
   song: "song/the-piano-guys-indiana-jones-and-the-arabian-nights",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 12,
+      externalId: "3cttLo7IxWWiMHwsj9teQG",
+      externalLink: "https://open.spotify.com/track/3cttLo7IxWWiMHwsj9teQG",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const auroraTheFloodTheFlood = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theflood|1WgXqy2Dd70QQOU7Ay074N|269720",
   song: "song/aurora-the-flood",
+  carriedBy: [
+    {
+      release: "release/aurora-the-flood",
+      discNumber: 1,
+      position: 1,
+      externalId: "4wwpOIY2XXfYW2A8bS6djJ",
+      externalLink: "https://open.spotify.com/track/4wwpOIY2XXfYW2A8bS6djJ",
+    },
+  ],
 } as const satisfies Track

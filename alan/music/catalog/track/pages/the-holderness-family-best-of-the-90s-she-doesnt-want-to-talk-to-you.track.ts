@@ -25,4 +25,13 @@ export const theHoldernessFamilyBestOfThe90sSheDoesntWantToTalkToYou = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "shedoesntwanttotalktoyou|6tITG4T8LpC0msapZ4wXGA|113972",
   song: "song/the-holderness-family-she-doesnt-want-to-talk-to-you",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-best-of-the-90s",
+      discNumber: 1,
+      position: 9,
+      externalId: "6s1coWypzu3MrKA6TiSOJR",
+      externalLink: "https://open.spotify.com/track/6s1coWypzu3MrKA6TiSOJR",
+    },
+  ],
 } as const satisfies Track

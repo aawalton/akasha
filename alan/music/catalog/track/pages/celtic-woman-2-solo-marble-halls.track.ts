@@ -25,4 +25,13 @@ export const celticWoman2SoloMarbleHalls = {
   trackArtist: [{ externalId: "0nBRo87bTZegzYDnIiWkH7", artistName: "Méav" }],
   trackKey: "marblehalls|0nBRo87bTZegzYDnIiWkH7|229529",
   song: "song/celtic-woman-marble-halls",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-solo",
+      discNumber: 1,
+      position: 4,
+      externalId: "6LCBjVwYVocM0x6c6SDByH",
+      externalLink: "https://open.spotify.com/track/6LCBjVwYVocM0x6c6SDByH",
+    },
+  ],
 } as const satisfies Track

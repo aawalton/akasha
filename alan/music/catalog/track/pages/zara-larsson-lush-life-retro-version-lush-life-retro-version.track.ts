@@ -25,4 +25,13 @@ export const zaraLarssonLushLifeRetroVersionLushLifeRetroVersion = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "lushliferetroversion|1Xylc3o4UrD53lo9CvFvVg|193853",
   song: "song/zara-larsson-lush-life",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-lush-life-retro-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "4O5ygqTjiXLWo9HASGsk8E",
+      externalLink: "https://open.spotify.com/track/4O5ygqTjiXLWo9HASGsk8E",
+    },
+  ],
 } as const satisfies Track

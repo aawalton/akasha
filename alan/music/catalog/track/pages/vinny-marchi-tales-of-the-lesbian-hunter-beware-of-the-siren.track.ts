@@ -25,4 +25,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterBewareOfTheSiren = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "bewareofthesiren|5USAMqcbMAzF3HBmeD5pJF|178239",
   song: "song/vinny-marchi-beware-of-the-siren",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 9,
+      externalId: "7BA7IU3c0oItfFL5DHOiSD",
+      externalLink: "https://open.spotify.com/track/7BA7IU3c0oItfFL5DHOiSD",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const arianaGrandeYoursTrulyYoullNeverKnow = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "youllneverknow|66CXWjxzNUsdJxJ2JdwvnR|214280",
   song: "song/ariana-grande-you-ll-never-know",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-yours-truly",
+      discNumber: 1,
+      position: 9,
+      externalId: "4PqIj0WOfPAq4QAvisjgpd",
+      externalLink: "https://open.spotify.com/track/4PqIj0WOfPAq4QAvisjgpd",
+    },
+  ],
 } as const satisfies Track

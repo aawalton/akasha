@@ -25,4 +25,13 @@ export const paulCardallChristmasHymnsWhatChildIsThis = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "whatchildisthis|7FQRbf8gbKw8KZQZAJWxH2|286533",
   song: "song/paul-cardall-what-child-is-this",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas-hymns",
+      discNumber: 1,
+      position: 7,
+      externalId: "5iecWfAO5gbQ5bZoCHZ3xH",
+      externalLink: "https://open.spotify.com/track/5iecWfAO5gbQ5bZoCHZ3xH",
+    },
+  ],
 } as const satisfies Track

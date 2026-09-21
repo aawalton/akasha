@@ -25,4 +25,13 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySinglesLayAllYourLoveOnMeSpotif
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "layallyourloveonmespotifysingles|1Xylc3o4UrD53lo9CvFvVg|161125",
   song: "song/zara-larsson-lay-all-your-love-on-me-spotify-singles",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-lay-all-your-love-on-me-spotify-singles",
+      discNumber: 1,
+      position: 1,
+      externalId: "2vaxUyVWNoA2L272YHEy70",
+      externalLink: "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70",
+    },
+  ],
 } as const satisfies Track

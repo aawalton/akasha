@@ -28,4 +28,13 @@ export const sabrinaCarpenterBringYourLoveBringYourLove = {
   ],
   trackKey: "bringyourlove|6tbjWDEIzxoDsBA1FuhfPW,74KM79TiuVKeVCqs8QtB0B|216400",
   song: "song/sabrina-carpenter-bring-your-love",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-bring-your-love",
+      discNumber: 1,
+      position: 1,
+      externalId: "0Wr7vTGp9vF3YCG4EASz1e",
+      externalLink: "https://open.spotify.com/track/0Wr7vTGp9vF3YCG4EASz1e",
+    },
+  ],
 } as const satisfies Track

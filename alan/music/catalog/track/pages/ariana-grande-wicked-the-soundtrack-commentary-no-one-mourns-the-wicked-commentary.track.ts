@@ -25,4 +25,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryNoOneMournsTheWickedCommen
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "noonemournsthewickedcommentary|66CXWjxzNUsdJxJ2JdwvnR|55703",
   song: "song/ariana-grande-no-one-mourns-the-wicked-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 2,
+      externalId: "0oXlSRVJbrFtoCxLtoGPjK",
+      externalLink: "https://open.spotify.com/track/0oXlSRVJbrFtoCxLtoGPjK",
+    },
+  ],
 } as const satisfies Track

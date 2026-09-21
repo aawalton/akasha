@@ -25,4 +25,13 @@ export const coldplayHypnotisedHypnotised = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "hypnotised|4gzpq5DPGxSnKTe4SA8HAU|355172",
   song: "song/coldplay-hypnotised",
+  carriedBy: [
+    {
+      release: "release/coldplay-hypnotised",
+      discNumber: 1,
+      position: 1,
+      externalId: "5LXj9Ch3O9ATm1NoHT8GXn",
+      externalLink: "https://open.spotify.com/track/5LXj9Ch3O9ATm1NoHT8GXn",
+    },
+  ],
 } as const satisfies Track

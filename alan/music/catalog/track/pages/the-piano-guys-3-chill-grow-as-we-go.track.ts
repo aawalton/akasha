@@ -30,4 +30,13 @@ export const thePianoGuys3ChillGrowAsWeGo = {
   trackKey:
     "growaswego|0jW6R8CVyVohuUJVcuweDI,0rNPZyO8TwKKCnysRUzksl,2LpGg3qukmprl5BSlBk6HM|258888",
   song: "song/the-piano-guys-grow-as-we-go",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-chill",
+      discNumber: 1,
+      position: 12,
+      externalId: "631NzqPL2I4XHsK76E9390",
+      externalLink: "https://open.spotify.com/track/631NzqPL2I4XHsK76E9390",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysNowLetUsRejoice = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "nowletusrejoice|7FQRbf8gbKw8KZQZAJWxH2|159266",
   song: "song/paul-cardall-now-let-us-rejoice",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 21,
+      externalId: "4iNJhO94xlnU5X9nXSKN8k",
+      externalLink: "https://open.spotify.com/track/4iNJhO94xlnU5X9nXSKN8k",
+    },
+  ],
 } as const satisfies Track

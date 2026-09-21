@@ -25,4 +25,13 @@ export const paulCardallPeacefulPianoWhenMorningComes = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "whenmorningcomes|7FQRbf8gbKw8KZQZAJWxH2|184986",
   song: "song/paul-cardall-when-morning-comes",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-peaceful-piano",
+      discNumber: 1,
+      position: 2,
+      externalId: "0nku2WnTle72iE8OrNyDwT",
+      externalLink: "https://open.spotify.com/track/0nku2WnTle72iE8OrNyDwT",
+    },
+  ],
 } as const satisfies Track

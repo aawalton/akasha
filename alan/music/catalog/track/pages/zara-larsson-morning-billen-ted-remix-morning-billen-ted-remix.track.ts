@@ -28,4 +28,13 @@ export const zaraLarssonMorningBillenTedRemixMorningBillenTedRemix = {
   ],
   trackKey: "morningbillentedremix|1Xylc3o4UrD53lo9CvFvVg,5PoZtBo8xZKqPWlZrIDq82|146904",
   song: "song/zara-larsson-morning",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-morning-billen-ted-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "64qOMCzbwD6yrgBYBPJMA3",
+      externalLink: "https://open.spotify.com/track/64qOMCzbwD6yrgBYBPJMA3",
+    },
+  ],
 } as const satisfies Track

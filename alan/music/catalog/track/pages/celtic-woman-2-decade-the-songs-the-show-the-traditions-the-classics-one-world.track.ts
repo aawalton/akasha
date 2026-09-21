@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsOneWorld =
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "oneworld|6NWtt9pNOL2Gx7kBykdE5x|229146",
   song: "song/celtic-woman-one-world",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 2,
+      position: 7,
+      externalId: "1RcV03h1cRe3ANB79OLWfI",
+      externalLink: "https://open.spotify.com/track/1RcV03h1cRe3ANB79OLWfI",
+    },
+  ],
 } as const satisfies Track

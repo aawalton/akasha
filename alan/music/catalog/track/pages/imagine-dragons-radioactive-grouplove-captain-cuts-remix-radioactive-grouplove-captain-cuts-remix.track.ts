@@ -31,4 +31,13 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemixRadioactiveGroupl
     trackKey:
       "radioactivegrouplovecaptaincutsremix|0rlKkLkpsCnJbZethGBfAk,3kVUvbeRdcrqQ3oHk5hPdx,53XhwfbYqKCa1cC15pYq2q|241613",
     song: "song/imagine-dragons-radioactive",
+    carriedBy: [
+      {
+        release: "release/imagine-dragons-radioactive-grouplove-captain-cuts-remix",
+        discNumber: 1,
+        position: 1,
+        externalId: "4RE6keayatk5kVgKOGDcmy",
+        externalLink: "https://open.spotify.com/track/4RE6keayatk5kVgKOGDcmy",
+      },
+    ],
   } as const satisfies Track

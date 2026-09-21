@@ -25,4 +25,13 @@ export const jamesTaylor2ThatSWhyIMHereTheManWhoShotLibertyValance = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "themanwhoshotlibertyvalance|0vn7UBvSQECKJm2817Yf1P|225160",
   song: "song/james-taylor-the-man-who-shot-liberty-valance",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-that-s-why-i-m-here",
+      discNumber: 1,
+      position: 11,
+      externalId: "7q9NdaKCxuYyTLdhlSfRQV",
+      externalLink: "https://open.spotify.com/track/7q9NdaKCxuYyTLdhlSfRQV",
+    },
+  ],
 } as const satisfies Track

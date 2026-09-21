@@ -28,4 +28,13 @@ export const zaraLarssonSoGoodTheWildRemixSoGoodTheWildRemix = {
   ],
   trackKey: "sogoodthewildremix|1Xylc3o4UrD53lo9CvFvVg,74lRkEloOvori8dZJjNEjd|225453",
   song: "song/zara-larsson-so-good",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-so-good-the-wild-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1XPsn0zoLrEUuDMfPh4ADU",
+      externalLink: "https://open.spotify.com/track/1XPsn0zoLrEUuDMfPh4ADU",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallChristmasHymnsGoodKingWenceslas = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "goodkingwenceslas|7FQRbf8gbKw8KZQZAJWxH2|276480",
   song: "song/paul-cardall-good-king-wenceslas",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-christmas-hymns",
+      discNumber: 1,
+      position: 9,
+      externalId: "6I41mwhctSO8WovoygCOEr",
+      externalLink: "https://open.spotify.com/track/6I41mwhctSO8WovoygCOEr",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const arianaGrandeChristmasChillWinterThings = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "winterthings|66CXWjxzNUsdJxJ2JdwvnR|158662",
   song: "song/ariana-grande-winter-things",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-christmas-chill",
+      discNumber: 1,
+      position: 6,
+      externalId: "2LdWTutlhGH6Zqpp7IAiZc",
+      externalLink: "https://open.spotify.com/track/2LdWTutlhGH6Zqpp7IAiZc",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3LiveU2LoopWithOrWithoutYouIntroductionLive = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "u2loopwithorwithoutyouintroductionlive|0jW6R8CVyVohuUJVcuweDI|40186",
   song: "song/the-piano-guys-u2-loop-with-or-without-you-introduction",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-live",
+      discNumber: 1,
+      position: 4,
+      externalId: "54FXWJRrbRgH4zex8ZKjxd",
+      externalLink: "https://open.spotify.com/track/54FXWJRrbRgH4zex8ZKjxd",
+    },
+  ],
 } as const satisfies Track

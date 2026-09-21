@@ -26,4 +26,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRoundAndRoundLi
     trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
     trackKey: "roundandroundlivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|218013",
     song: "song/imagine-dragons-round-and-round",
+    carriedBy: [
+      {
+        release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+        discNumber: 3,
+        position: 4,
+        externalId: "1Y5bExVU5hWC3gMuqB52Rd",
+        externalLink: "https://open.spotify.com/track/1Y5bExVU5hWC3gMuqB52Rd",
+      },
+    ],
   } as const satisfies Track

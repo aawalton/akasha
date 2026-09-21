@@ -25,4 +25,13 @@ export const chaislynMrNiceTryMrNiceTry = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "mrnicetry|3zmbniiciaBAJlSX1Bzq9R|189568",
   song: "song/chaislyn-mr-nice-try",
+  carriedBy: [
+    {
+      release: "release/chaislyn-mr-nice-try",
+      discNumber: 1,
+      position: 1,
+      externalId: "1q9C6rbft5EB5I4TtfAcTZ",
+      externalLink: "https://open.spotify.com/track/1q9C6rbft5EB5I4TtfAcTZ",
+    },
+  ],
 } as const satisfies Track

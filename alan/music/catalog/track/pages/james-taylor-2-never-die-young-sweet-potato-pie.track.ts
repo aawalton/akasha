@@ -25,4 +25,13 @@ export const jamesTaylor2NeverDieYoungSweetPotatoPie = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sweetpotatopie|0vn7UBvSQECKJm2817Yf1P|210826",
   song: "song/james-taylor-sweet-potato-pie",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-never-die-young",
+      discNumber: 1,
+      position: 7,
+      externalId: "49E3znGU6pKjxpjch2oCCM",
+      externalLink: "https://open.spotify.com/track/49E3znGU6pKjxpjch2oCCM",
+    },
+  ],
 } as const satisfies Track

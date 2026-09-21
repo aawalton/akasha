@@ -27,4 +27,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWhenYouWis
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "whenyouwishuponastar|6NWtt9pNOL2Gx7kBykdE5x|197453",
   song: "song/celtic-woman-when-you-wish-upon-a-star",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 1,
+      position: 7,
+      externalId: "36Xmw9OP6JQ0tLjyzBdQHo",
+      externalLink: "https://open.spotify.com/track/36Xmw9OP6JQ0tLjyzBdQHo",
+    },
+  ],
 } as const satisfies Track

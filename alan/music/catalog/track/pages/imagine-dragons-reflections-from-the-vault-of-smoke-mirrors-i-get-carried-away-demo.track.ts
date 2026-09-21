@@ -25,4 +25,13 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsIGetCarriedAwayD
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "igetcarriedawaydemo|53XhwfbYqKCa1cC15pYq2q|194584",
   song: "song/imagine-dragons-i-get-carried-away",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors",
+      discNumber: 1,
+      position: 6,
+      externalId: "4I3iKBoPcd9mm9ye1BT97L",
+      externalLink: "https://open.spotify.com/track/4I3iKBoPcd9mm9ye1BT97L",
+    },
+  ],
 } as const satisfies Track

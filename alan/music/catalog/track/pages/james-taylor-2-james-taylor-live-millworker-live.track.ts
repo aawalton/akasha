@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveMillworkerLive = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "millworkerlive|0vn7UBvSQECKJm2817Yf1P|265626",
   song: "song/james-taylor-millworker",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 10,
+      externalId: "3MNM77pnlKCuizCYMk7KkK",
+      externalLink: "https://open.spotify.com/track/3MNM77pnlKCuizCYMk7KkK",
+    },
+  ],
 } as const satisfies Track

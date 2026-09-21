@@ -25,4 +25,13 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForestWinterBird = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "winterbird|1WgXqy2Dd70QQOU7Ay074N|244146",
   song: "song/aurora-winter-bird",
+  carriedBy: [
+    {
+      release: "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
+      discNumber: 1,
+      position: 4,
+      externalId: "65YJcdYBAMw3RsvZK3TEvl",
+      externalLink: "https://open.spotify.com/track/65YJcdYBAMw3RsvZK3TEvl",
+    },
+  ],
 } as const satisfies Track

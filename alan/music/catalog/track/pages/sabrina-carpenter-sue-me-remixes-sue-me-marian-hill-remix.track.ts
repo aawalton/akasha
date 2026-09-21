@@ -28,4 +28,13 @@ export const sabrinaCarpenterSueMeRemixesSueMeMarianHillRemix = {
   ],
   trackKey: "suememarianhillremix|1xHQO9GJIW9OXHxGBISYc5,74KM79TiuVKeVCqs8QtB0B|216842",
   song: "song/sabrina-carpenter-sue-me",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-sue-me-remixes",
+      discNumber: 1,
+      position: 4,
+      externalId: "2zAqDXHqTTcTDXgxPsA4DH",
+      externalLink: "https://open.spotify.com/track/2zAqDXHqTTcTDXgxPsA4DH",
+    },
+  ],
 } as const satisfies Track

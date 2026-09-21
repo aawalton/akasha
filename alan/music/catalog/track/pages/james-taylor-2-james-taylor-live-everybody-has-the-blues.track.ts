@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveEverybodyHasTheBlues = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "everybodyhastheblues|0vn7UBvSQECKJm2817Yf1P|153933",
   song: "song/james-taylor-everybody-has-the-blues",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 7,
+      externalId: "1clezMVAmwn9KcXDEkTeq0",
+      externalLink: "https://open.spotify.com/track/1clezMVAmwn9KcXDEkTeq0",
+    },
+  ],
 } as const satisfies Track

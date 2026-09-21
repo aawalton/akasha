@@ -25,4 +25,13 @@ export const vinnyMarchiHeroInYourStoryHeroInYourStory = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "heroinyourstory|5USAMqcbMAzF3HBmeD5pJF|171666",
   song: "song/vinny-marchi-hero-in-your-story",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-hero-in-your-story",
+      discNumber: 1,
+      position: 1,
+      externalId: "3Wnovz4rElq4aYr8cxbqYO",
+      externalLink: "https://open.spotify.com/track/3Wnovz4rElq4aYr8cxbqYO",
+    },
+  ],
 } as const satisfies Track

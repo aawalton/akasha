@@ -28,4 +28,13 @@ export const thePianoGuys3ChristmasTogetherOHolyNightAveMariaFeatLexiWalker = {
   ],
   trackKey: "oholynightavemariafeatlexiwalker|0jW6R8CVyVohuUJVcuweDI,6C2Jmyv6fdiRAbcadxmNtS|317750",
   song: "song/the-piano-guys-o-holy-night-ave-maria",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-christmas-together",
+      discNumber: 1,
+      position: 2,
+      externalId: "0cvwnLZWF80kX9hZwNylOr",
+      externalLink: "https://open.spotify.com/track/0cvwnLZWF80kX9hZwNylOr",
+    },
+  ],
 } as const satisfies Track

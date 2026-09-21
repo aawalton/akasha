@@ -25,4 +25,13 @@ export const auroraWalkingInTheAirWalkingInTheAir = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "walkingintheair|1WgXqy2Dd70QQOU7Ay074N|209053",
   song: "song/aurora-walking-in-the-air",
+  carriedBy: [
+    {
+      release: "release/aurora-walking-in-the-air",
+      discNumber: 1,
+      position: 1,
+      externalId: "1ZWaiAcAc7BTsrTgwTXmnn",
+      externalLink: "https://open.spotify.com/track/1ZWaiAcAc7BTsrTgwTXmnn",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayGhostStoriesLive2014MidnightLiveAtTheRoyalAlbertHallLondon 
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "midnightliveattheroyalalberthalllondon|4gzpq5DPGxSnKTe4SA8HAU|288666",
   song: "song/coldplay-midnight",
+  carriedBy: [
+    {
+      release: "release/coldplay-ghost-stories-live-2014",
+      discNumber: 1,
+      position: 5,
+      externalId: "5lsz74yVLAvt3anpHZHCTS",
+      externalLink: "https://open.spotify.com/track/5lsz74yVLAvt3anpHZHCTS",
+    },
+  ],
 } as const satisfies Track

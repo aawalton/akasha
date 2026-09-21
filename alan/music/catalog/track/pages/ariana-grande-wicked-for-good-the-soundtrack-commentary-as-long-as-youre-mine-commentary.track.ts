@@ -25,4 +25,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryAsLongAsYoureMineCo
   trackArtist: [{ externalId: "2Je7IdIHe8UvZbLXdapQ26", artistName: "Jonathan Bailey" }],
   trackKey: "aslongasyoureminecommentary|2Je7IdIHe8UvZbLXdapQ26|64960",
   song: "song/ariana-grande-as-long-as-youre-mine-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 14,
+      externalId: "2RcddMBBIEgg1zstAKHCbD",
+      externalLink: "https://open.spotify.com/track/2RcddMBBIEgg1zstAKHCbD",
+    },
+  ],
 } as const satisfies Track

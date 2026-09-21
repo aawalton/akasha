@@ -28,4 +28,13 @@ export const imagineDragonsLoomEyesClosedFeatJBalvin = {
   ],
   trackKey: "eyesclosedfeatjbalvin|1vyhD5VmyZ7KMfW5gqLgo5,53XhwfbYqKCa1cC15pYq2q|200013",
   song: "song/imagine-dragons-eyes-closed",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-loom",
+      discNumber: 1,
+      position: 10,
+      externalId: "2jP56WTCglcD8lBh9wwTUA",
+      externalLink: "https://open.spotify.com/track/2jP56WTCglcD8lBh9wwTUA",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayVivaLaVidaProspektSMarchEditionVivaLaVida = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "vivalavida|4gzpq5DPGxSnKTe4SA8HAU|242373",
   song: "song/coldplay-viva-la-vida",
+  carriedBy: [
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 1,
+      position: 7,
+      externalId: "3zzwBtusqxBiGRsGpsnN3F",
+      externalLink: "https://open.spotify.com/track/3zzwBtusqxBiGRsGpsnN3F",
+    },
+  ],
 } as const satisfies Track

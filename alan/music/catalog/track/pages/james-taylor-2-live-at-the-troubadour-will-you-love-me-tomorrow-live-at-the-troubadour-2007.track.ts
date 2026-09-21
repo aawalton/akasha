@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourWillYouLoveMeTomorrowLiveAtTheTrouba
   trackKey:
     "willyoulovemetomorrowliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|252653",
   song: "song/james-taylor-will-you-love-me-tomorrow",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 8,
+      externalId: "4Q97xsSBdgO3a35uQ2n9UD",
+      externalLink: "https://open.spotify.com/track/4Q97xsSBdgO3a35uQ2n9UD",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheLesbianHunterVsTheSadSadAlphaM
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thelesbianhuntervsthesadsadalphaman|5USAMqcbMAzF3HBmeD5pJF|150090",
   song: "song/vinny-marchi-the-lesbian-hunter-vs-the-sad-sad-alpha-man",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 8,
+      externalId: "5qU65Gw7v1U498o1rb6NAq",
+      externalLink: "https://open.spotify.com/track/5qU65Gw7v1U498o1rb6NAq",
+    },
+  ],
 } as const satisfies Track

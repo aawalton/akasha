@@ -25,4 +25,13 @@ export const vinnyMarchiTalesOfTheLesbianHunterDidntComeAllThisWay = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "didntcomeallthisway|5USAMqcbMAzF3HBmeD5pJF|153846",
   song: "song/vinny-marchi-didnt-come-all-this-way",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-tales-of-the-lesbian-hunter",
+      discNumber: 1,
+      position: 10,
+      externalId: "4CoIGoKauG5COr0s5LKccj",
+      externalLink: "https://open.spotify.com/track/4CoIGoKauG5COr0s5LKccj",
+    },
+  ],
 } as const satisfies Track

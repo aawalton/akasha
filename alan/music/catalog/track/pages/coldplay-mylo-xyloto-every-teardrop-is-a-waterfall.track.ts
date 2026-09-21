@@ -25,4 +25,13 @@ export const coldplayMyloXylotoEveryTeardropIsAWaterfall = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everyteardropisawaterfall|4gzpq5DPGxSnKTe4SA8HAU|240796",
   song: "song/coldplay-every-teardrop-is-a-waterfall",
+  carriedBy: [
+    {
+      release: "release/coldplay-mylo-xyloto",
+      discNumber: 1,
+      position: 7,
+      externalId: "2U8g9wVcUu9wsg6i7sFSv8",
+      externalLink: "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayFlagsFlags = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "flags|4gzpq5DPGxSnKTe4SA8HAU|216493",
   song: "song/coldplay-flags",
+  carriedBy: [
+    {
+      release: "release/coldplay-flags",
+      discNumber: 1,
+      position: 1,
+      externalId: "2RZ8SjEJYJHZ8YCUzls77w",
+      externalLink: "https://open.spotify.com/track/2RZ8SjEJYJHZ8YCUzls77w",
+    },
+  ],
 } as const satisfies Track

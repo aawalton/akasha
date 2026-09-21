@@ -28,4 +28,13 @@ export const auroraASoulWithNoKingRemixFeatNatureASoulWithNoKingRemixFeatNature 
   ],
   trackKey: "asoulwithnokingremixfeatnature|1WgXqy2Dd70QQOU7Ay074N,1clB4n7uMUiSx5ZZ0FQoM1|314933",
   song: "song/aurora-a-soul-with-no-king",
+  carriedBy: [
+    {
+      release: "release/aurora-a-soul-with-no-king-remix-feat-nature",
+      discNumber: 1,
+      position: 1,
+      externalId: "60CiRIp2jsubVeNcDrHujn",
+      externalLink: "https://open.spotify.com/track/60CiRIp2jsubVeNcDrHujn",
+    },
+  ],
 } as const satisfies Track

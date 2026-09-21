@@ -25,4 +25,13 @@ export const auroraThankUThankU = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "thanku|1WgXqy2Dd70QQOU7Ay074N|242773",
   song: "song/aurora-thank-u",
+  carriedBy: [
+    {
+      release: "release/aurora-thank-u",
+      discNumber: 1,
+      position: 1,
+      externalId: "1w5J5CBuvT36kt2OtHa8ts",
+      externalLink: "https://open.spotify.com/track/1w5J5CBuvT36kt2OtHa8ts",
+    },
+  ],
 } as const satisfies Track

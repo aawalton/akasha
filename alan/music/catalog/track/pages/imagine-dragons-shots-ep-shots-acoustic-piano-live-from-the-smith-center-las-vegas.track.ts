@@ -29,4 +29,13 @@ export const imagineDragonsShotsEpShotsAcousticPianoLiveFromTheSmithCenterLasVeg
   trackKey:
     "shotsacousticpianolivefromthesmithcenterlasvegas|3836OTICMPjhTMMcpPw4EC,53XhwfbYqKCa1cC15pYq2q|261706",
   song: "song/imagine-dragons-shots",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-shots-ep",
+      discNumber: 1,
+      position: 3,
+      externalId: "2rO73AKiqSQef9hvYkOKB1",
+      externalLink: "https://open.spotify.com/track/2rO73AKiqSQef9hvYkOKB1",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoWishYouWereGay = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "wishyouweregay|6qqNVTkY8uBg9cP3Jd7DAH|221543",
   song: "song/billie-eilish-wish-you-were-gay",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-when-we-all-fall-asleep-where-do-we-go",
+      discNumber: 1,
+      position: 6,
+      externalId: "3Fj47GNK2kUF0uaEDgXLaD",
+      externalLink: "https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiAllIGaveToYouAllIGaveToYou = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "alligavetoyou|5USAMqcbMAzF3HBmeD5pJF|205612",
   song: "song/vinny-marchi-all-i-gave-to-you",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-all-i-gave-to-you",
+      discNumber: 1,
+      position: 1,
+      externalId: "3nBq6cQwrsAiSGaR4b5drk",
+      externalLink: "https://open.spotify.com/track/3nBq6cQwrsAiSGaR4b5drk",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const arianaGrandeKByeForNowSwtLiveBreakYourHeartRightBackLive = {
   ],
   trackKey: "breakyourheartrightbacklive|66CXWjxzNUsdJxJ2JdwvnR,73sIBHcqh3Z3NyqHKZ7FOL|134875",
   song: "song/ariana-grande-break-your-heart-right-back",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-k-bye-for-now-swt-live",
+      discNumber: 1,
+      position: 18,
+      externalId: "1qfOSlQohddqAOGl3f8snd",
+      externalLink: "https://open.spotify.com/track/1qfOSlQohddqAOGl3f8snd",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayGhostStoriesLive2014MagicLiveAtTheEnmoreTheatreSydney = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "magicliveattheenmoretheatresydney|4gzpq5DPGxSnKTe4SA8HAU|292146",
   song: "song/coldplay-magic",
+  carriedBy: [
+    {
+      release: "release/coldplay-ghost-stories-live-2014",
+      discNumber: 1,
+      position: 2,
+      externalId: "3bVwuZb0nYvAMn3roElQnY",
+      externalLink: "https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY",
+    },
+  ],
 } as const satisfies Track

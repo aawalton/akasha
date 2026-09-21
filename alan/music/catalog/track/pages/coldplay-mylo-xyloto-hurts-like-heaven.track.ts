@@ -25,4 +25,13 @@ export const coldplayMyloXylotoHurtsLikeHeaven = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "hurtslikeheaven|4gzpq5DPGxSnKTe4SA8HAU|242253",
   song: "song/coldplay-hurts-like-heaven",
+  carriedBy: [
+    {
+      release: "release/coldplay-mylo-xyloto",
+      discNumber: 1,
+      position: 2,
+      externalId: "6WF4hzdGXvXd1joERSXJjm",
+      externalLink: "https://open.spotify.com/track/6WF4hzdGXvXd1joERSXJjm",
+    },
+  ],
 } as const satisfies Track

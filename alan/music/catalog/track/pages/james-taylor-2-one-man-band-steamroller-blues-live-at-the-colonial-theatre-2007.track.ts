@@ -25,4 +25,13 @@ export const jamesTaylor2OneManBandSteamrollerBluesLiveAtTheColonialTheatre2007 
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "steamrollerbluesliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|359560",
   song: "song/james-taylor-steamroller-blues",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-one-man-band",
+      discNumber: 1,
+      position: 10,
+      externalId: "0SGatwiYB2UnNXS0Duzr1e",
+      externalLink: "https://open.spotify.com/track/0SGatwiYB2UnNXS0Duzr1e",
+    },
+  ],
 } as const satisfies Track

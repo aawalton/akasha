@@ -29,4 +29,13 @@ export const auroraSofiaSofia = {
   ],
   trackKey: "sofia|1WgXqy2Dd70QQOU7Ay074N,3NABmtfO8G8s96WFGhbR7F,5jOiYJPp5e84cnK2KO1aNz|437317",
   song: "song/aurora-sofia",
+  carriedBy: [
+    {
+      release: "release/aurora-sofia",
+      discNumber: 1,
+      position: 1,
+      externalId: "6ZKgNecNAfYBhkti1IxwSw",
+      externalLink: "https://open.spotify.com/track/6ZKgNecNAfYBhkti1IxwSw",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayLive2012UsAgainstTheWorldLive = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "usagainsttheworldlive|4gzpq5DPGxSnKTe4SA8HAU|232200",
   song: "song/coldplay-us-against-the-world",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-2012",
+      discNumber: 1,
+      position: 12,
+      externalId: "6i8gAfT84lsvS8R7ggDZKe",
+      externalLink: "https://open.spotify.com/track/6i8gAfT84lsvS8R7ggDZKe",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackPopularLiveFrom
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "popularlivefromthedolbytheatre|66CXWjxzNUsdJxJ2JdwvnR|354873",
   song: "song/ariana-grande-popular",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack",
+      discNumber: 1,
+      position: 4,
+      externalId: "42xoTXs449Ib4iGXgDih2E",
+      externalLink: "https://open.spotify.com/track/42xoTXs449Ib4iGXgDih2E",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionMoGhileMearLiveFro
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemearlivefromslanecastleireland2006|6NWtt9pNOL2Gx7kBykdE5x|304946",
   song: "song/celtic-woman-mo-ghile-mear",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-greatest-journey-essential-collection",
+      discNumber: 1,
+      position: 17,
+      externalId: "2poDVzmVg006o2TIDr36Je",
+      externalLink: "https://open.spotify.com/track/2poDVzmVg006o2TIDr36Je",
+    },
+  ],
 } as const satisfies Track

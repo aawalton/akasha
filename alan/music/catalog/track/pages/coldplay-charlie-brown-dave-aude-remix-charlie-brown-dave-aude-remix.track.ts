@@ -28,4 +28,13 @@ export const coldplayCharlieBrownDaveAudeRemixCharlieBrownDaveAudeRemix = {
   ],
   trackKey: "charliebrowndaveauderemix|1vWImodgVqIgTUkekGEfR9,4gzpq5DPGxSnKTe4SA8HAU|403842",
   song: "song/coldplay-charlie-brown",
+  carriedBy: [
+    {
+      release: "release/coldplay-charlie-brown-dave-aude-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1CrVfs67axZhcTa4ZxCk6M",
+      externalLink: "https://open.spotify.com/track/1CrVfs67axZhcTa4ZxCk6M",
+    },
+  ],
 } as const satisfies Track

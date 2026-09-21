@@ -25,4 +25,13 @@ export const zaraLarssonSpotifySinglesSexualRecordedAtSpotifyStudiosNyc = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "sexualrecordedatspotifystudiosnyc|1Xylc3o4UrD53lo9CvFvVg|189056",
   song: "song/zara-larsson-sexual-recorded-at-spotify-studios-nyc",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-spotify-singles",
+      discNumber: 1,
+      position: 2,
+      externalId: "7zqLBFKCBkk5IfbgKgH4VZ",
+      externalLink: "https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ",
+    },
+  ],
 } as const satisfies Track

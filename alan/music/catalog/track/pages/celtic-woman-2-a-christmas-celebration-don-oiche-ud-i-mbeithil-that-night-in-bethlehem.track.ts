@@ -25,4 +25,13 @@ export const celticWoman2AChristmasCelebrationDonOicheUdIMbeithilThatNightInBeth
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "donoicheudimbeithilthatnightinbethlehem|6NWtt9pNOL2Gx7kBykdE5x|164280",
   song: "song/celtic-woman-don-oiche-ud-i-mbeithil-that-night-in-bethlehem",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-a-christmas-celebration",
+      discNumber: 1,
+      position: 11,
+      externalId: "2XPFAlKkeBHbhhEumMOVZY",
+      externalLink: "https://open.spotify.com/track/2XPFAlKkeBHbhhEumMOVZY",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3ChristmasTogetherLittleDrummerBoyDoYouHearWhatIHear = 
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "littledrummerboydoyouhearwhatihear|0jW6R8CVyVohuUJVcuweDI|234062",
   song: "song/the-piano-guys-little-drummer-boy-do-you-hear-what-i-hear",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-christmas-together",
+      discNumber: 1,
+      position: 8,
+      externalId: "2RdEm8jQC4HCGLBzc7827w",
+      externalLink: "https://open.spotify.com/track/2RdEm8jQC4HCGLBzc7827w",
+    },
+  ],
 } as const satisfies Track

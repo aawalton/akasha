@@ -25,4 +25,13 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsCemeteriesOfLondon = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "cemeteriesoflondon|4gzpq5DPGxSnKTe4SA8HAU|201106",
   song: "song/coldplay-cemeteries-of-london",
+  carriedBy: [
+    {
+      release: "release/coldplay-viva-la-vida-or-death-and-all-his-friends",
+      discNumber: 1,
+      position: 2,
+      externalId: "03uqdEuopXPSCg4MvgA2fI",
+      externalLink: "https://open.spotify.com/track/03uqdEuopXPSCg4MvgA2fI",
+    },
+  ],
 } as const satisfies Track

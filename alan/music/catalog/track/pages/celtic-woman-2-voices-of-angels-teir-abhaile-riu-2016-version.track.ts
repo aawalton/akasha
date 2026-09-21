@@ -25,4 +25,13 @@ export const celticWoman2VoicesOfAngelsTeirAbhaileRiu2016Version = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "teirabhaileriu2016version|6NWtt9pNOL2Gx7kBykdE5x|233466",
   song: "song/celtic-woman-teir-abhaile-riu",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-voices-of-angels",
+      discNumber: 1,
+      position: 13,
+      externalId: "3jZHA8XNMHWDiRKEAoXNED",
+      externalLink: "https://open.spotify.com/track/3jZHA8XNMHWDiRKEAoXNED",
+    },
+  ],
 } as const satisfies Track

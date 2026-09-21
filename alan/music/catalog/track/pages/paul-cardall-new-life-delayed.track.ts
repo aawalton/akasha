@@ -25,4 +25,13 @@ export const paulCardallNewLifeDelayed = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "delayed|7FQRbf8gbKw8KZQZAJWxH2|179720",
   song: "song/paul-cardall-delayed",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-new-life",
+      discNumber: 1,
+      position: 3,
+      externalId: "5lfE6xJbmgrcqcEF6ehzqy",
+      externalLink: "https://open.spotify.com/track/5lfE6xJbmgrcqcEF6ehzqy",
+    },
+  ],
 } as const satisfies Track

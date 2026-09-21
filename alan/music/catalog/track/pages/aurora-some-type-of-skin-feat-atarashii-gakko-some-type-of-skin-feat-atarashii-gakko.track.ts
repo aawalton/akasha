@@ -28,4 +28,13 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakkoSomeTypeOfSkinFeatAtarashiiGa
   ],
   trackKey: "sometypeofskinfeatatarashiigakko|1WgXqy2Dd70QQOU7Ay074N,4OfU76YhPU04wlmbVFFgTJ|216160",
   song: "song/aurora-some-type-of-skin",
+  carriedBy: [
+    {
+      release: "release/aurora-some-type-of-skin-feat-atarashii-gakko",
+      discNumber: 1,
+      position: 1,
+      externalId: "7KUSXRkYdYI4nQDLrwQNrZ",
+      externalLink: "https://open.spotify.com/track/7KUSXRkYdYI4nQDLrwQNrZ",
+    },
+  ],
 } as const satisfies Track

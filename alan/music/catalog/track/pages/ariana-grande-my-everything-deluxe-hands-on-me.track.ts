@@ -28,4 +28,13 @@ export const arianaGrandeMyEverythingDeluxeHandsOnMe = {
   ],
   trackKey: "handsonme|5dHt1vcEm9qb8fCyLcB3HL,66CXWjxzNUsdJxJ2JdwvnR|192226",
   song: "song/ariana-grande-hands-on-me",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-my-everything-deluxe",
+      discNumber: 1,
+      position: 11,
+      externalId: "1rNop31kdDmSj3Ds6xhIeS",
+      externalLink: "https://open.spotify.com/track/1rNop31kdDmSj3Ds6xhIeS",
+    },
+  ],
 } as const satisfies Track

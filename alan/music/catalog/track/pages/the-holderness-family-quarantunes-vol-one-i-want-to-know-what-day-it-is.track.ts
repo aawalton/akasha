@@ -25,4 +25,13 @@ export const theHoldernessFamilyQuarantunesVolOneIWantToKnowWhatDayItIs = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "iwanttoknowwhatdayitis|6tITG4T8LpC0msapZ4wXGA|226638",
   song: "song/the-holderness-family-i-want-to-know-what-day-it-is",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-quarantunes-vol-one",
+      discNumber: 1,
+      position: 3,
+      externalId: "4Hs2b73YOpMYOG4bHiD5BT",
+      externalLink: "https://open.spotify.com/track/4Hs2b73YOpMYOG4bHiD5BT",
+    },
+  ],
 } as const satisfies Track

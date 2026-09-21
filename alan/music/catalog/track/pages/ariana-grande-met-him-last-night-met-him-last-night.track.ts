@@ -28,4 +28,13 @@ export const arianaGrandeMetHimLastNightMetHimLastNight = {
   ],
   trackKey: "methimlastnight|66CXWjxzNUsdJxJ2JdwvnR,6S2OmqARrzebs0tKUEyXyp|204631",
   song: "song/ariana-grande-met-him-last-night",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-met-him-last-night",
+      discNumber: 1,
+      position: 1,
+      externalId: "71NBvIYtWygMmp7XgQXbvz",
+      externalLink: "https://open.spotify.com/track/71NBvIYtWygMmp7XgQXbvz",
+    },
+  ],
 } as const satisfies Track

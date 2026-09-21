@@ -25,4 +25,13 @@ export const billieEilishHitMeHardAndSoftLamourDeMaVie = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "lamourdemavie|6qqNVTkY8uBg9cP3Jd7DAH|333986",
   song: "song/billie-eilish-l-amour-de-ma-vie",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-hit-me-hard-and-soft",
+      discNumber: 1,
+      position: 7,
+      externalId: "6fPan2saHdFaIHuTSatORv",
+      externalLink: "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv",
+    },
+  ],
 } as const satisfies Track

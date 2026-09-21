@@ -25,4 +25,13 @@ export const vinnyMarchiReasonToLetGoReasonToLetGo = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "reasontoletgo|5USAMqcbMAzF3HBmeD5pJF|211470",
   song: "song/vinny-marchi-reason-to-let-go",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-reason-to-let-go",
+      discNumber: 1,
+      position: 1,
+      externalId: "1w9ZAflleuPDEVhdY2cOHV",
+      externalLink: "https://open.spotify.com/track/1w9ZAflleuPDEVhdY2cOHV",
+    },
+  ],
 } as const satisfies Track

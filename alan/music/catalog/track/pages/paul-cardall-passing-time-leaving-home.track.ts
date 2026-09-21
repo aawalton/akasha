@@ -25,4 +25,13 @@ export const paulCardallPassingTimeLeavingHome = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "leavinghome|7FQRbf8gbKw8KZQZAJWxH2|131395",
   song: "song/paul-cardall-leaving-home",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-passing-time",
+      discNumber: 1,
+      position: 4,
+      externalId: "1ICi7X5G3e1DM0F3woWhp1",
+      externalLink: "https://open.spotify.com/track/1ICi7X5G3e1DM0F3woWhp1",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const alexandriaFallenAngelFallenAngel = {
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "fallenangel|0SQG4wPVUlfbmbGQfqB47y|165744",
   song: "song/alexandria-fallen-angel",
+  carriedBy: [
+    {
+      release: "release/alexandria-fallen-angel",
+      discNumber: 1,
+      position: 1,
+      externalId: "3seBiwK70S9YrmolLWJiVp",
+      externalLink: "https://open.spotify.com/track/3seBiwK70S9YrmolLWJiVp",
+    },
+  ],
 } as const satisfies Track

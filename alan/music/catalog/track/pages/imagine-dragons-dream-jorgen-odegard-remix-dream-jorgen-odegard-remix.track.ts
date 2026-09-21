@@ -25,4 +25,13 @@ export const imagineDragonsDreamJorgenOdegardRemixDreamJorgenOdegardRemix = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "dreamjorgenodegardremix|53XhwfbYqKCa1cC15pYq2q|276493",
   song: "song/imagine-dragons-dream",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-dream-jorgen-odegard-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "0MhOS9SC3PYkRnslxRShIG",
+      externalLink: "https://open.spotify.com/track/0MhOS9SC3PYkRnslxRShIG",
+    },
+  ],
 } as const satisfies Track

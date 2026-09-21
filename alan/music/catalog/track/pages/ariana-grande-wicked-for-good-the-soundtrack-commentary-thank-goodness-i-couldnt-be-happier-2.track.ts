@@ -30,4 +30,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
   trackKey:
     "thankgoodnessicouldntbehappier|3eLZo1bSslvsu0zNhtmMM4,5IaJcuBeBkVqhGAzxMciwu,66CXWjxzNUsdJxJ2JdwvnR|322866",
   song: "song/ariana-grande-thank-goodness-i-couldnt-be-happier",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 5,
+      externalId: "49Cba2Z41IgTT5py8iT86J",
+      externalLink: "https://open.spotify.com/track/49Cba2Z41IgTT5py8iT86J",
+    },
+  ],
 } as const satisfies Track

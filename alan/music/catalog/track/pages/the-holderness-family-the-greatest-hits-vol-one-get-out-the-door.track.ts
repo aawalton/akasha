@@ -25,4 +25,13 @@ export const theHoldernessFamilyTheGreatestHitsVolOneGetOutTheDoor = {
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "getoutthedoor|6tITG4T8LpC0msapZ4wXGA|127164",
   song: "song/the-holderness-family-get-out-the-door",
+  carriedBy: [
+    {
+      release: "release/the-holderness-family-the-greatest-hits-vol-one",
+      discNumber: 1,
+      position: 12,
+      externalId: "5ylfCoFvdhfBqccUSkb0ih",
+      externalLink: "https://open.spotify.com/track/5ylfCoFvdhfBqccUSkb0ih",
+    },
+  ],
 } as const satisfies Track

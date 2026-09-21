@@ -29,4 +29,13 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplayFeelslikeimfallinginlo
   trackKey:
     "feelslikeimfallinginlovezerbxcoldplay|4gzpq5DPGxSnKTe4SA8HAU,6mDl7lQiLxT0iQ8LYhAlWy|236612",
   song: "song/coldplay-feelslikeimfallinginlove-zerb-x-coldplay",
+  carriedBy: [
+    {
+      release: "release/coldplay-feelslikeimfallinginlove-zerb-x-coldplay",
+      discNumber: 1,
+      position: 1,
+      externalId: "4cVUwET6QBkiWUdGVNSYPt",
+      externalLink: "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const sabrinaCarpenterSingularActIDiamondsAreForever = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "diamondsareforever|74KM79TiuVKeVCqs8QtB0B|229533",
   song: "song/sabrina-carpenter-diamonds-are-forever",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-i",
+      discNumber: 1,
+      position: 8,
+      externalId: "2KTdmzSdPipwFYdUdilmi3",
+      externalLink: "https://open.spotify.com/track/2KTdmzSdPipwFYdUdilmi3",
+    },
+  ],
 } as const satisfies Track

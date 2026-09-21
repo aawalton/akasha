@@ -28,4 +28,13 @@ export const auroraIWentTooFarMkRemixRadioVersionIWentTooFarMkRemixRadioVersion 
   ],
   trackKey: "iwenttoofarmkremixradioversion|1WgXqy2Dd70QQOU7Ay074N,1yqxFtPHKcGcv6SXZNdyT9|237070",
   song: "song/aurora-i-went-too-far",
+  carriedBy: [
+    {
+      release: "release/aurora-i-went-too-far-mk-remix-radio-version",
+      discNumber: 1,
+      position: 1,
+      externalId: "0zrbWqn3uZ1vv2RwdNimjv",
+      externalLink: "https://open.spotify.com/track/0zrbWqn3uZ1vv2RwdNimjv",
+    },
+  ],
 } as const satisfies Track

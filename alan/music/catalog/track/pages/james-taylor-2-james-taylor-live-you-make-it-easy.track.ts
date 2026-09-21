@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveYouMakeItEasy = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youmakeiteasy|0vn7UBvSQECKJm2817Yf1P|303706",
   song: "song/james-taylor-you-make-it-easy",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 11,
+      externalId: "09Wl0w02eHc6ssOKS3vk3g",
+      externalLink: "https://open.spotify.com/track/09Wl0w02eHc6ssOKS3vk3g",
+    },
+  ],
 } as const satisfies Track

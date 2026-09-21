@@ -25,4 +25,13 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionPieJesu = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "piejesu|6NWtt9pNOL2Gx7kBykdE5x|208706",
   song: "song/celtic-woman-pie-jesu",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-the-greatest-journey-essential-collection",
+      discNumber: 1,
+      position: 2,
+      externalId: "07g1Xm2m7z6veTCniGDdNP",
+      externalLink: "https://open.spotify.com/track/07g1Xm2m7z6veTCniGDdNP",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesPovLiveFromVevo = 
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "povlivefromvevo|66CXWjxzNUsdJxJ2JdwvnR|195291",
   song: "song/ariana-grande-pov",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions-vevo-official-live-performances",
+      discNumber: 1,
+      position: 1,
+      externalId: "3S4M1sWuIY6ZD4Q7IaGm09",
+      externalLink: "https://open.spotify.com/track/3S4M1sWuIY6ZD4Q7IaGm09",
+    },
+  ],
 } as const satisfies Track

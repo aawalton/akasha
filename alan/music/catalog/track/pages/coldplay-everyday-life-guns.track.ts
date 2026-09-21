@@ -25,4 +25,13 @@ export const coldplayEverydayLifeGuns = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "guns|4gzpq5DPGxSnKTe4SA8HAU|115080",
   song: "song/coldplay-guns",
+  carriedBy: [
+    {
+      release: "release/coldplay-everyday-life",
+      discNumber: 2,
+      position: 1,
+      externalId: "6VzRvCbolqcUswaSPm48rI",
+      externalLink: "https://open.spotify.com/track/6VzRvCbolqcUswaSPm48rI",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const billieEilishNoTimeToDieNoTimeToDie = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "notimetodie|6qqNVTkY8uBg9cP3Jd7DAH|242265",
   song: "song/billie-eilish-no-time-to-die",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-no-time-to-die",
+      discNumber: 1,
+      position: 1,
+      externalId: "73SpzrcaHk0RQPFP73vqVR",
+      externalLink: "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiSugarStarsFutureMe = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "futureme|5USAMqcbMAzF3HBmeD5pJF|200625",
   song: "song/vinny-marchi-future-me",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-sugar-stars",
+      discNumber: 1,
+      position: 5,
+      externalId: "63Q6vuZWEOvu1oIVOB6BJH",
+      externalLink: "https://open.spotify.com/track/63Q6vuZWEOvu1oIVOB6BJH",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2NewMoonShineDownInTheHole = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "downinthehole|0vn7UBvSQECKJm2817Yf1P|315160",
   song: "song/james-taylor-down-in-the-hole",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-new-moon-shine",
+      discNumber: 1,
+      position: 2,
+      externalId: "015PThyoU4QD0siLoLpRmr",
+      externalLink: "https://open.spotify.com/track/015PThyoU4QD0siLoLpRmr",
+    },
+  ],
 } as const satisfies Track

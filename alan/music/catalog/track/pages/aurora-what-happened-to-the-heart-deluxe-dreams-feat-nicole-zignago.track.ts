@@ -28,4 +28,13 @@ export const auroraWhatHappenedToTheHeartDeluxeDreamsFeatNicoleZignago = {
   ],
   trackKey: "dreamsfeatnicolezignago|1WgXqy2Dd70QQOU7Ay074N,3wvB1waB73AEUljz3Gl5Ph|264120",
   song: "song/aurora-dreams",
+  carriedBy: [
+    {
+      release: "release/aurora-what-happened-to-the-heart-deluxe",
+      discNumber: 1,
+      position: 20,
+      externalId: "3kE7DXuzZrIIQsscx6oDVi",
+      externalLink: "https://open.spotify.com/track/3kE7DXuzZrIIQsscx6oDVi",
+    },
+  ],
 } as const satisfies Track

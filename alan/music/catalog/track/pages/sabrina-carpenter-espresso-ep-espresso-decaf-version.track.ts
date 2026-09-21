@@ -25,4 +25,13 @@ export const sabrinaCarpenterEspressoEpEspressoDecafVersion = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "espressodecafversion|74KM79TiuVKeVCqs8QtB0B|194716",
   song: "song/sabrina-carpenter-espresso",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-espresso-ep",
+      discNumber: 1,
+      position: 4,
+      externalId: "78WaYdbN5qHNbUcTXYoiAJ",
+      externalLink: "https://open.spotify.com/track/78WaYdbN5qHNbUcTXYoiAJ",
+    },
+  ],
 } as const satisfies Track

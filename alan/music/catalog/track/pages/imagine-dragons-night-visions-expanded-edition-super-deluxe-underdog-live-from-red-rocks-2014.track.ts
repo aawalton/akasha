@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeUnderdogLiveFro
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "underdoglivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|257600",
   song: "song/imagine-dragons-underdog",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 3,
+      position: 10,
+      externalId: "7cD55yByyIRQuoXuagsblY",
+      externalLink: "https://open.spotify.com/track/7cD55yByyIRQuoXuagsblY",
+    },
+  ],
 } as const satisfies Track

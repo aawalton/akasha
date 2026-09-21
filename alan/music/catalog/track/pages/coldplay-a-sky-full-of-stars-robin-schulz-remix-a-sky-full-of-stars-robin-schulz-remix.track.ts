@@ -28,4 +28,13 @@ export const coldplayASkyFullOfStarsRobinSchulzRemixASkyFullOfStarsRobinSchulzRe
   ],
   trackKey: "askyfullofstarsrobinschulzremix|3t5xRXzsuZmMDkQzgOX35S,4gzpq5DPGxSnKTe4SA8HAU|363020",
   song: "song/coldplay-a-sky-full-of-stars",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-sky-full-of-stars-robin-schulz-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "67X1qaDvAeH6vsG5iFiOyp",
+      externalLink: "https://open.spotify.com/track/67X1qaDvAeH6vsG5iFiOyp",
+    },
+  ],
 } as const satisfies Track

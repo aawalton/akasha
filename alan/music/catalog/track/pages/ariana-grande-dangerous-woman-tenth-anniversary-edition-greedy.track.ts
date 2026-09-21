@@ -25,4 +25,13 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionGreedy = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "greedy|66CXWjxzNUsdJxJ2JdwvnR|214889",
   song: "song/ariana-grande-greedy",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 7,
+      externalId: "7tH0eZNUkdI3OiSfzXxgCr",
+      externalLink: "https://open.spotify.com/track/7tH0eZNUkdI3OiSfzXxgCr",
+    },
+  ],
 } as const satisfies Track

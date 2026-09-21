@@ -32,4 +32,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     trackKey:
       "ordinarythingsfeatnonnainstrumental|66CXWjxzNUsdJxJ2JdwvnR,6maPmKkdwM4eyhz5O4lbkP|167223",
     song: "song/ariana-grande-ordinary-things",
+    carriedBy: [
+      {
+        release:
+          "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+        discNumber: 1,
+        position: 32,
+        externalId: "3lrdiU2zG8mrTGUAAKO7QB",
+        externalLink: "https://open.spotify.com/track/3lrdiU2zG8mrTGUAAKO7QB",
+      },
+    ],
   } as const satisfies Track

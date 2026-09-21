@@ -30,4 +30,13 @@ export const paulCardallTheBrokenMiracleWeCouldBeKind = {
   trackKey:
     "wecouldbekind|1PdisgvacJ6lqkRwiCasuU,3nNqVtVWWbakB2px2HphUw,7FQRbf8gbKw8KZQZAJWxH2|192546",
   song: "song/paul-cardall-we-could-be-kind",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 18,
+      externalId: "6m5zkdFC91eeX8lcXZt1vn",
+      externalLink: "https://open.spotify.com/track/6m5zkdFC91eeX8lcXZt1vn",
+    },
+  ],
 } as const satisfies Track

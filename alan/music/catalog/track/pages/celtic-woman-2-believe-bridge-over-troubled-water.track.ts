@@ -31,4 +31,13 @@ export const celticWoman2BelieveBridgeOverTroubledWater = {
   trackKey:
     "bridgeovertroubledwater|2CvCyf1gEVhI0mX6aFXmVI,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|243280",
   song: "song/celtic-woman-bridge-over-troubled-water",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-believe",
+      discNumber: 1,
+      position: 6,
+      externalId: "65Q3jlvZkSp55H7mlDJlAz",
+      externalLink: "https://open.spotify.com/track/65Q3jlvZkSp55H7mlDJlAz",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallASacredChristmasPianoCollectionTheFirstNoel = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thefirstnoel|7FQRbf8gbKw8KZQZAJWxH2|164832",
   song: "song/paul-cardall-the-first-noel",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-a-sacred-christmas-piano-collection",
+      discNumber: 1,
+      position: 9,
+      externalId: "4kGRP2a9RzSpbX5E2SkSo8",
+      externalLink: "https://open.spotify.com/track/4kGRP2a9RzSpbX5E2SkSo8",
+    },
+  ],
 } as const satisfies Track

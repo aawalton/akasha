@@ -28,4 +28,13 @@ export const billieEilishOceanEyesTheRemixesOceanEyesAstronomyyRemix = {
   ],
   trackKey: "oceaneyesastronomyyremix|3EpmmPtV7DduqNmeqaADIm,6qqNVTkY8uBg9cP3Jd7DAH|296266",
   song: "song/billie-eilish-ocean-eyes",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-ocean-eyes-the-remixes",
+      discNumber: 1,
+      position: 1,
+      externalId: "6NOq79ynBpBi6BSJMdgReN",
+      externalLink: "https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN",
+    },
+  ],
 } as const satisfies Track

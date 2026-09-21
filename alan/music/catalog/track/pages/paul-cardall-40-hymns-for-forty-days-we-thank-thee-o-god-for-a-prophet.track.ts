@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysWeThankTheeOGodForAProphet = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "wethanktheeogodforaprophet|7FQRbf8gbKw8KZQZAJWxH2|261560",
   song: "song/paul-cardall-we-thank-thee-o-god-for-a-prophet",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 35,
+      externalId: "3rYUPEbT1B3GBWhNEemwBA",
+      externalLink: "https://open.spotify.com/track/3rYUPEbT1B3GBWhNEemwBA",
+    },
+  ],
 } as const satisfies Track

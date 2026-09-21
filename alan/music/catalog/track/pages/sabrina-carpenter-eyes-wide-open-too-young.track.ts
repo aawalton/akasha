@@ -25,4 +25,13 @@ export const sabrinaCarpenterEyesWideOpenTooYoung = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "tooyoung|74KM79TiuVKeVCqs8QtB0B|254346",
   song: "song/sabrina-carpenter-too-young",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-eyes-wide-open",
+      discNumber: 1,
+      position: 7,
+      externalId: "694MyEbGgAtoEVYqdtfvp2",
+      externalLink: "https://open.spotify.com/track/694MyEbGgAtoEVYqdtfvp2",
+    },
+  ],
 } as const satisfies Track

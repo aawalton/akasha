@@ -25,4 +25,13 @@ export const coldplayGhostStoriesInk = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "ink|4gzpq5DPGxSnKTe4SA8HAU|228373",
   song: "song/coldplay-ink",
+  carriedBy: [
+    {
+      release: "release/coldplay-ghost-stories",
+      discNumber: 1,
+      position: 3,
+      externalId: "6c6W25YoDGjTq3qSPOga5t",
+      externalLink: "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t",
+    },
+  ],
 } as const satisfies Track

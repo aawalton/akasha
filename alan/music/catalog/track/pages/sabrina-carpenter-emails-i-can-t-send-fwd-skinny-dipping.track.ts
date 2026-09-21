@@ -25,4 +25,13 @@ export const sabrinaCarpenterEmailsICanTSendFwdSkinnyDipping = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "skinnydipping|74KM79TiuVKeVCqs8QtB0B|177750",
   song: "song/sabrina-carpenter-skinny-dipping",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send-fwd",
+      discNumber: 1,
+      position: 11,
+      externalId: "436RVcyrHyXdqYNWGYMxx5",
+      externalLink: "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5",
+    },
+  ],
 } as const satisfies Track

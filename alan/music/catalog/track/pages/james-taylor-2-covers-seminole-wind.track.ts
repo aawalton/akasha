@@ -25,4 +25,13 @@ export const jamesTaylor2CoversSeminoleWind = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "seminolewind|0vn7UBvSQECKJm2817Yf1P|290066",
   song: "song/james-taylor-seminole-wind",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-covers",
+      discNumber: 1,
+      position: 6,
+      externalId: "0uI444jTIkIFECHgc5LAEY",
+      externalLink: "https://open.spotify.com/track/0uI444jTIkIFECHgc5LAEY",
+    },
+  ],
 } as const satisfies Track

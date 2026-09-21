@@ -25,4 +25,13 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSaturnReturnsIn
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "saturnreturnsinterlude|66CXWjxzNUsdJxJ2JdwvnR|42166",
   song: "song/ariana-grande-saturn-returns-interlude",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
+      discNumber: 1,
+      position: 4,
+      externalId: "3TZzy5oBF3JQ7U1iZtfN5v",
+      externalLink: "https://open.spotify.com/track/3TZzy5oBF3JQ7U1iZtfN5v",
+    },
+  ],
 } as const satisfies Track

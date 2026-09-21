@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveRidingOnARailroad = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ridingonarailroad|0vn7UBvSQECKJm2817Yf1P|161866",
   song: "song/james-taylor-riding-on-a-railroad",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 2,
+      externalId: "1YC1s1vxqzcyPHaitLrXxv",
+      externalLink: "https://open.spotify.com/track/1YC1s1vxqzcyPHaitLrXxv",
+    },
+  ],
 } as const satisfies Track

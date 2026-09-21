@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveSlapLeatherLive = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "slapleatherlive|0vn7UBvSQECKJm2817Yf1P|128893",
   song: "song/james-taylor-slap-leather",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 2,
+      position: 9,
+      externalId: "67tQdAHqvaXIx7wvlsFkoq",
+      externalLink: "https://open.spotify.com/track/67tQdAHqvaXIx7wvlsFkoq",
+    },
+  ],
 } as const satisfies Track

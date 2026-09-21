@@ -25,4 +25,13 @@ export const jamesTaylor2JamesTaylorLiveHandyMan = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "handyman|0vn7UBvSQECKJm2817Yf1P|211533",
   song: "song/james-taylor-handy-man",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-james-taylor-live",
+      discNumber: 1,
+      position: 3,
+      externalId: "2kuTmskJFZW1L3FMMJFSFp",
+      externalLink: "https://open.spotify.com/track/2kuTmskJFZW1L3FMMJFSFp",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const sabrinaCarpenterSingularActIiInMyBed = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "inmybed|74KM79TiuVKeVCqs8QtB0B|189980",
   song: "song/sabrina-carpenter-in-my-bed",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-singular-act-ii",
+      discNumber: 1,
+      position: 1,
+      externalId: "1FjD1jpm51dH5LzLvrDVPY",
+      externalLink: "https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY",
+    },
+  ],
 } as const satisfies Track

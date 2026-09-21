@@ -28,4 +28,13 @@ export const zaraLarssonAmmunitionDennisRemixAmmunitionDennisRemix = {
   ],
   trackKey: "ammunitiondennisremix|1Xylc3o4UrD53lo9CvFvVg,6xlRSRMLgZbsSNd0BMobwy|138965",
   song: "song/zara-larsson-ammunition",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-ammunition-dennis-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1tA2Y5VFexNrBU9RfBTRf9",
+      externalLink: "https://open.spotify.com/track/1tA2Y5VFexNrBU9RfBTRf9",
+    },
+  ],
 } as const satisfies Track

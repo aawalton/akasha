@@ -25,4 +25,13 @@ export const billieEilishComeOutAndPlayComeOutAndPlay = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "comeoutandplay|6qqNVTkY8uBg9cP3Jd7DAH|210375",
   song: "song/billie-eilish-come-out-and-play",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-come-out-and-play",
+      discNumber: 1,
+      position: 1,
+      externalId: "7wC5eZcFS1Q1BsQ35DU6H4",
+      externalLink: "https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayARushOfBloodToTheHeadGodPutASmileUponYourFace = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "godputasmileuponyourface|4gzpq5DPGxSnKTe4SA8HAU|297306",
   song: "song/coldplay-god-put-a-smile-upon-your-face",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-rush-of-blood-to-the-head",
+      discNumber: 1,
+      position: 3,
+      externalId: "4hf0hL4kWyjWztZzVsM39V",
+      externalLink: "https://open.spotify.com/track/4hf0hL4kWyjWztZzVsM39V",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const imagineDragonsShotsTheFunkHuntersRemixShotsTheFunkHuntersRemix = {
   ],
   trackKey: "shotsthefunkhuntersremix|53XhwfbYqKCa1cC15pYq2q,5xwd7lKJeb2opUvYZnXFut|285933",
   song: "song/imagine-dragons-shots",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-shots-the-funk-hunters-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "4XrUtF4qrDlZBB4Wg9efTP",
+      externalLink: "https://open.spotify.com/track/4XrUtF4qrDlZBB4Wg9efTP",
+    },
+  ],
 } as const satisfies Track

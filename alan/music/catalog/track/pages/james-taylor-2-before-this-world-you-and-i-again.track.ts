@@ -25,4 +25,13 @@ export const jamesTaylor2BeforeThisWorldYouAndIAgain = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youandiagain|0vn7UBvSQECKJm2817Yf1P|232906",
   song: "song/james-taylor-you-and-i-again",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-before-this-world",
+      discNumber: 1,
+      position: 2,
+      externalId: "2AtohPw33TZyaHSFpVgwd3",
+      externalLink: "https://open.spotify.com/track/2AtohPw33TZyaHSFpVgwd3",
+    },
+  ],
 } as const satisfies Track

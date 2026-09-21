@@ -25,4 +25,13 @@ export const coldplayGhostStoriesLive2014AlwaysInMyHeadLiveAtTheRoyalAlbertHallL
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "alwaysinmyheadliveattheroyalalberthalllondon|4gzpq5DPGxSnKTe4SA8HAU|237266",
   song: "song/coldplay-always-in-my-head",
+  carriedBy: [
+    {
+      release: "release/coldplay-ghost-stories-live-2014",
+      discNumber: 1,
+      position: 1,
+      externalId: "0zM6Zj4Iao1tJFHWc2PsrL",
+      externalLink: "https://open.spotify.com/track/0zM6Zj4Iao1tJFHWc2PsrL",
+    },
+  ],
 } as const satisfies Track

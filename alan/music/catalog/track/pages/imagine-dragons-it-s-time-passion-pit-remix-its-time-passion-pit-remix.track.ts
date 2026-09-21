@@ -25,4 +25,13 @@ export const imagineDragonsItSTimePassionPitRemixItsTimePassionPitRemix = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimepassionpitremix|53XhwfbYqKCa1cC15pYq2q|271373",
   song: "song/imagine-dragons-it-s-time",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-it-s-time-passion-pit-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "6vRPkStwQmUrs13jpDG6Sd",
+      externalLink: "https://open.spotify.com/track/6vRPkStwQmUrs13jpDG6Sd",
+    },
+  ],
 } as const satisfies Track

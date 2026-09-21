@@ -28,4 +28,13 @@ export const emeiSunnydSunnyd = {
   ],
   trackKey: "sunnyd|0vqJkZ0RpLZixt3lTmD8vP,7E2aQQjErJocovYFjYLzWU|126674",
   song: "song/emei-sunnyd",
+  carriedBy: [
+    {
+      release: "release/emei-sunnyd",
+      discNumber: 1,
+      position: 1,
+      externalId: "4vnauoJf6OYYU73jPUJbZa",
+      externalLink: "https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa",
+    },
+  ],
 } as const satisfies Track

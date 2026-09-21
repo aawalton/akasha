@@ -25,4 +25,13 @@ export const jamesTaylor2ThatSWhyIMHereOnlyADreamInRio = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "onlyadreaminrio|0vn7UBvSQECKJm2817Yf1P|299440",
   song: "song/james-taylor-only-a-dream-in-rio",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-that-s-why-i-m-here",
+      discNumber: 1,
+      position: 3,
+      externalId: "2eVNfxXYOd6qam9LJvHEh1",
+      externalLink: "https://open.spotify.com/track/2eVNfxXYOd6qam9LJvHEh1",
+    },
+  ],
 } as const satisfies Track

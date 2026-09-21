@@ -25,4 +25,13 @@ export const zaraLarsson1WeakHeart = {
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "weakheart|1Xylc3o4UrD53lo9CvFvVg|179938",
   song: "song/zara-larsson-weak-heart",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-1",
+      discNumber: 1,
+      position: 7,
+      externalId: "4gmO89eAVOQeudq2EVhqyq",
+      externalLink: "https://open.spotify.com/track/4gmO89eAVOQeudq2EVhqyq",
+    },
+  ],
 } as const satisfies Track

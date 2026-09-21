@@ -28,4 +28,13 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderGazzoRemix = {
   ],
   trackKey: "sixfeetundergazzoremix|5st4KKihmnSMLRsxWOs2x3,6qqNVTkY8uBg9cP3Jd7DAH|208000",
   song: "song/billie-eilish-six-feet-under",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-six-feet-under-the-remixes",
+      discNumber: 1,
+      position: 2,
+      externalId: "3UHa28GclZhNqqlaNFzKKY",
+      externalLink: "https://open.spotify.com/track/3UHa28GclZhNqqlaNFzKKY",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const paulCardallTheBrokenMiracleFindingMyWay = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "findingmyway|7FQRbf8gbKw8KZQZAJWxH2|263080",
   song: "song/paul-cardall-finding-my-way",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-the-broken-miracle",
+      discNumber: 1,
+      position: 14,
+      externalId: "7L7yuHRdDG5B5QHus6wSwb",
+      externalLink: "https://open.spotify.com/track/7L7yuHRdDG5B5QHus6wSwb",
+    },
+  ],
 } as const satisfies Track

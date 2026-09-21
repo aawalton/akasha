@@ -25,4 +25,13 @@ export const celticWoman2EmeraldMusicalGemsBridgeOverTroubledWater = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "bridgeovertroubledwater|6NWtt9pNOL2Gx7kBykdE5x|179173",
   song: "song/celtic-woman-bridge-over-troubled-water",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-emerald-musical-gems",
+      discNumber: 1,
+      position: 7,
+      externalId: "5ix4ibWOrhbrG0kNQfJUyf",
+      externalLink: "https://open.spotify.com/track/5ix4ibWOrhbrG0kNQfJUyf",
+    },
+  ],
 } as const satisfies Track

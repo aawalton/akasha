@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarUnaccompaniedCelloSuiteNo1InGMajor = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "unaccompaniedcellosuiteno1ingmajor|7FQRbf8gbKw8KZQZAJWxH2|169301",
   song: "song/paul-cardall-unaccompanied-cello-suite-no-1-in-g-major",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 32,
+      externalId: "3ncmfAjfSAKECuuF0w30rG",
+      externalLink: "https://open.spotify.com/track/3ncmfAjfSAKECuuF0w30rG",
+    },
+  ],
 } as const satisfies Track

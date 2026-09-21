@@ -25,4 +25,13 @@ export const paulCardallDailyDevotionsStrangers = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "strangers|7FQRbf8gbKw8KZQZAJWxH2|210826",
   song: "song/paul-cardall-strangers",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-daily-devotions",
+      discNumber: 1,
+      position: 5,
+      externalId: "5p2qIFYuKWcn3MROp7dCaK",
+      externalLink: "https://open.spotify.com/track/5p2qIFYuKWcn3MROp7dCaK",
+    },
+  ],
 } as const satisfies Track

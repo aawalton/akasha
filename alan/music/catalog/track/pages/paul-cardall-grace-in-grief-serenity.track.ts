@@ -25,4 +25,13 @@ export const paulCardallGraceInGriefSerenity = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "serenity|7FQRbf8gbKw8KZQZAJWxH2|207500",
   song: "song/paul-cardall-serenity",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-grace-in-grief",
+      discNumber: 1,
+      position: 5,
+      externalId: "5AdKBr5FSUxqiXXdD3k0a8",
+      externalLink: "https://open.spotify.com/track/5AdKBr5FSUxqiXXdD3k0a8",
+    },
+  ],
 } as const satisfies Track

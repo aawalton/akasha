@@ -30,4 +30,13 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSiuilARun 
   ],
   trackKey: "siuilarun|5oLAxXGiZCQwR8FuXcTDJM,6NWtt9pNOL2Gx7kBykdE5x|227200",
   song: "song/celtic-woman-siuil-a-run",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
+      discNumber: 3,
+      position: 6,
+      externalId: "2Ct5kro7Pzxhf5JSXtdE32",
+      externalLink: "https://open.spotify.com/track/2Ct5kro7Pzxhf5JSXtdE32",
+    },
+  ],
 } as const satisfies Track

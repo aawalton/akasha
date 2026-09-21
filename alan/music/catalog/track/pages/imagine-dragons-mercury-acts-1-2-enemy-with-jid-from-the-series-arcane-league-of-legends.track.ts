@@ -31,4 +31,13 @@ export const imagineDragonsMercuryActs12EnemyWithJidFromTheSeriesArcaneLeagueOfL
   trackKey:
     "enemywithjidfromtheseriesarcaneleagueoflegends|47mIJdHORyRerp4os813jD,53XhwfbYqKCa1cC15pYq2q,57nPqD7z62gDdq37US9XJR,6U3ybJ9UHNKEdsH7ktGBZ7|173381",
   song: "song/imagine-dragons-enemy-from-the-series-arcane-league-of-legends",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-mercury-acts-1-2",
+      discNumber: 1,
+      position: 1,
+      externalId: "3CIyK1V4JEJkg02E4EJnDl",
+      externalLink: "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
+    },
+  ],
 } as const satisfies Track

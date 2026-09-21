@@ -27,4 +27,14 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "iwishihatedyou|66CXWjxzNUsdJxJ2JdwvnR|153633",
   song: "song/ariana-grande-i-wish-i-hated-you",
+  carriedBy: [
+    {
+      release:
+        "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+      discNumber: 1,
+      position: 11,
+      externalId: "5O0gryVdUiFrLptRqdPIUc",
+      externalLink: "https://open.spotify.com/track/5O0gryVdUiFrLptRqdPIUc",
+    },
+  ],
 } as const satisfies Track

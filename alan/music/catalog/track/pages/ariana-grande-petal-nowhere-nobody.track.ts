@@ -25,4 +25,13 @@ export const arianaGrandePetalNowhereNobody = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "nowherenobody|66CXWjxzNUsdJxJ2JdwvnR|172001",
   song: "song/ariana-grande-nowhere-nobody",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-petal",
+      discNumber: 1,
+      position: 12,
+      externalId: "5JbnupagBhD0AanbkCELdH",
+      externalLink: "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH",
+    },
+  ],
 } as const satisfies Track

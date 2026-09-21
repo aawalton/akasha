@@ -25,4 +25,13 @@ export const sabrinaCarpenterSueMeACappellaSueMeACappella = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "suemeacappella|74KM79TiuVKeVCqs8QtB0B|202538",
   song: "song/sabrina-carpenter-sue-me",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-sue-me-a-cappella",
+      discNumber: 1,
+      position: 1,
+      externalId: "1GlBABlFOcIIlSEYcnOP3b",
+      externalLink: "https://open.spotify.com/track/1GlBABlFOcIIlSEYcnOP3b",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const auroraStarvationAnnaRemixStarvationAnnaRemix = {
   ],
   trackKey: "starvationannaremix|1WgXqy2Dd70QQOU7Ay074N,3wkaDi2HJV3eCaBJ4iH6om|213986",
   song: "song/aurora-starvation",
+  carriedBy: [
+    {
+      release: "release/aurora-starvation-anna-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "7jUSeUGV45yIv4DriLMlNV",
+      externalLink: "https://open.spotify.com/track/7jUSeUGV45yIv4DriLMlNV",
+    },
+  ],
 } as const satisfies Track

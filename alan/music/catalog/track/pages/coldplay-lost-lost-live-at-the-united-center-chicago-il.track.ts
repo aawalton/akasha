@@ -25,4 +25,13 @@ export const coldplayLostLostLiveAtTheUnitedCenterChicagoIl = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "lostliveattheunitedcenterchicagoil|4gzpq5DPGxSnKTe4SA8HAU|235773",
   song: "song/coldplay-lost",
+  carriedBy: [
+    {
+      release: "release/coldplay-lost",
+      discNumber: 1,
+      position: 3,
+      externalId: "69joApFuCALBP6TPrK9bgL",
+      externalLink: "https://open.spotify.com/track/69joApFuCALBP6TPrK9bgL",
+    },
+  ],
 } as const satisfies Track

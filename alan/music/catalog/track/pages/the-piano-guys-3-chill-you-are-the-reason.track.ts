@@ -28,4 +28,13 @@ export const thePianoGuys3ChillYouAreTheReason = {
   ],
   trackKey: "youarethereason|0jW6R8CVyVohuUJVcuweDI,5vvlfKQdn6amTImsjy9Si5|235230",
   song: "song/the-piano-guys-you-are-the-reason",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-chill",
+      discNumber: 1,
+      position: 10,
+      externalId: "39kcQDf6iV6RG7sq2shJBk",
+      externalLink: "https://open.spotify.com/track/39kcQDf6iV6RG7sq2shJBk",
+    },
+  ],
 } as const satisfies Track

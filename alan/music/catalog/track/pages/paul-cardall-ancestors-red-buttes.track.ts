@@ -25,4 +25,13 @@ export const paulCardallAncestorsRedButtes = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "redbuttes|7FQRbf8gbKw8KZQZAJWxH2|210261",
   song: "song/paul-cardall-red-buttes",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-ancestors",
+      discNumber: 1,
+      position: 10,
+      externalId: "4XN97BWKDHKmcee14vToq7",
+      externalLink: "https://open.spotify.com/track/4XN97BWKDHKmcee14vToq7",
+    },
+  ],
 } as const satisfies Track

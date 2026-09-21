@@ -30,4 +30,13 @@ export const thePianoGuys3AMillionDreamsAMillionDreams = {
   trackKey:
     "amilliondreams|0jW6R8CVyVohuUJVcuweDI,0qKRRwXdVtrVIEdPFr8vvo,1A2uplrPcSu6bqDaRp7Xs9|285837",
   song: "song/evynne-hollens-a-million-dreams",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-a-million-dreams",
+      discNumber: 1,
+      position: 1,
+      externalId: "3Jj5Jho1NVrUXi9j6Nunf1",
+      externalLink: "https://open.spotify.com/track/3Jj5Jho1NVrUXi9j6Nunf1",
+    },
+  ],
 } as const satisfies Track

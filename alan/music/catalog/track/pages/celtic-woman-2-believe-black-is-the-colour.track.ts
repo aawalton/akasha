@@ -31,4 +31,13 @@ export const celticWoman2BelieveBlackIsTheColour = {
   trackKey:
     "blackisthecolour|1U5zgr455OGyIkLNXvDdrf,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|224346",
   song: "song/celtic-woman-black-is-the-colour",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-believe",
+      discNumber: 1,
+      position: 7,
+      externalId: "14DxJejYv2S2TjFNCjaZB9",
+      externalLink: "https://open.spotify.com/track/14DxJejYv2S2TjFNCjaZB9",
+    },
+  ],
 } as const satisfies Track

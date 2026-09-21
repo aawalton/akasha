@@ -25,4 +25,13 @@ export const arianaGrandeDangerousWomanThinkingBoutYou = {
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thinkingboutyou|66CXWjxzNUsdJxJ2JdwvnR|200386",
   song: "song/ariana-grande-thinking-bout-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman",
+      discNumber: 1,
+      position: 15,
+      externalId: "28tmK8wkE9y1UHdBKLd0nA",
+      externalLink: "https://open.spotify.com/track/28tmK8wkE9y1UHdBKLd0nA",
+    },
+  ],
 } as const satisfies Track

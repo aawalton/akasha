@@ -25,4 +25,13 @@ export const celticWoman2ANewJourneyTheSkyAndTheDawnAndTheSun = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theskyandthedawnandthesun|6NWtt9pNOL2Gx7kBykdE5x|319706",
   song: "song/celtic-woman-the-sky-and-the-dawn-and-the-sun",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-a-new-journey",
+      discNumber: 1,
+      position: 1,
+      externalId: "2YgW2VVOwQItMkKW07fMt8",
+      externalLink: "https://open.spotify.com/track/2YgW2VVOwQItMkKW07fMt8",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuys3TheSnowQueenMoldauTheSnowQueenMoldau = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thesnowqueenmoldau|0jW6R8CVyVohuUJVcuweDI|295500",
   song: "song/the-piano-guys-the-snow-queen-moldau",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-snow-queen-moldau",
+      discNumber: 1,
+      position: 1,
+      externalId: "0vsdIPjKb8veutD9Vn17Dx",
+      externalLink: "https://open.spotify.com/track/0vsdIPjKb8veutD9Vn17Dx",
+    },
+  ],
 } as const satisfies Track

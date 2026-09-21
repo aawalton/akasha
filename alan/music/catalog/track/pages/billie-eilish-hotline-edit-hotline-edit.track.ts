@@ -25,4 +25,13 @@ export const billieEilishHotlineEditHotlineEdit = {
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "hotlineedit|6qqNVTkY8uBg9cP3Jd7DAH|60719",
   song: "song/billie-eilish-hotline",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-hotline-edit",
+      discNumber: 1,
+      position: 1,
+      externalId: "0WFryfbNKPXVtVQlz5dZ8H",
+      externalLink: "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H",
+    },
+  ],
 } as const satisfies Track

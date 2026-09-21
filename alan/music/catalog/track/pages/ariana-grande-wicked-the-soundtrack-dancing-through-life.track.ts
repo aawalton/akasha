@@ -32,4 +32,13 @@ export const arianaGrandeWickedTheSoundtrackDancingThroughLife = {
   trackKey:
     "dancingthroughlife|0yF5IqIHlPDti2mfZtHe3K,2Je7IdIHe8UvZbLXdapQ26,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,6uGIoRQUqP4ncxyg6HksA1|587364",
   song: "song/ariana-grande-dancing-through-life",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack",
+      discNumber: 1,
+      position: 6,
+      externalId: "2ivc7aWOeWTxCeWKdf8Tds",
+      externalLink: "https://open.spotify.com/track/2ivc7aWOeWTxCeWKdf8Tds",
+    },
+  ],
 } as const satisfies Track

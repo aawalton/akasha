@@ -28,4 +28,13 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionLetMeLoveYou = {
   ],
   trackKey: "letmeloveyou|55Aa2cqylxrFIXC767Z865,66CXWjxzNUsdJxJ2JdwvnR|223871",
   song: "song/ariana-grande-let-me-love-you",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-dangerous-woman-tenth-anniversary-edition",
+      discNumber: 1,
+      position: 6,
+      externalId: "1gBeG7MWAJJaCcQdWkRO3T",
+      externalLink: "https://open.spotify.com/track/1gBeG7MWAJJaCcQdWkRO3T",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const thePianoGuysPeacefulSummerNightsNeverGonnaGiveYouUp = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "nevergonnagiveyouup|0jW6R8CVyVohuUJVcuweDI|182631",
   song: "song/the-piano-guys-never-gonna-give-you-up",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-peaceful-summer-nights",
+      discNumber: 1,
+      position: 6,
+      externalId: "3Jru3GCiD7n2JPfQZvjXoC",
+      externalLink: "https://open.spotify.com/track/3Jru3GCiD7n2JPfQZvjXoC",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndICommentary = 
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "thewizardandicommentary|46UMQ0cW8ToR8egkBRwAxZ|46367",
   song: "song/ariana-grande-the-wizard-and-i-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 6,
+      externalId: "6jjHITTvyWcUboN8o7Pvcz",
+      externalLink: "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const vinnyMarchiPoserRemasteredLyingHereAloneRemastered = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lyingherealoneremastered|5USAMqcbMAzF3HBmeD5pJF|160431",
   song: "song/vinny-marchi-lying-here-alone",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-poser-remastered",
+      discNumber: 1,
+      position: 5,
+      externalId: "1HFvtpQGvdDOEWdOxjPVSw",
+      externalLink: "https://open.spotify.com/track/1HFvtpQGvdDOEWdOxjPVSw",
+    },
+  ],
 } as const satisfies Track

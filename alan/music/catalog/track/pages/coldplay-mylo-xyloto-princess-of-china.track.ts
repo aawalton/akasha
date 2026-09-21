@@ -28,4 +28,13 @@ export const coldplayMyloXylotoPrincessOfChina = {
   ],
   trackKey: "princessofchina|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|239215",
   song: "song/coldplay-princess-of-china",
+  carriedBy: [
+    {
+      release: "release/coldplay-mylo-xyloto",
+      discNumber: 1,
+      position: 10,
+      externalId: "4HXOBjwv2RnLpGG4xWOO6N",
+      externalLink: "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const coldplayEveryTeardropIsAWaterfallMajorMinus = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "majorminus|4gzpq5DPGxSnKTe4SA8HAU|210284",
   song: "song/coldplay-major-minus",
+  carriedBy: [
+    {
+      release: "release/coldplay-every-teardrop-is-a-waterfall",
+      discNumber: 1,
+      position: 2,
+      externalId: "6hREuBpEXpgXosiUuFQfqd",
+      externalLink: "https://open.spotify.com/track/6hREuBpEXpgXosiUuFQfqd",
+    },
+  ],
 } as const satisfies Track

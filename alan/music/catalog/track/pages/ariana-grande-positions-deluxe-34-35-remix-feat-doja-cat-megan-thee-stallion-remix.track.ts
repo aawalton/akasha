@@ -30,4 +30,13 @@ export const arianaGrandePositionsDeluxe3435RemixFeatDojaCatMeganTheeStallionRem
   trackKey:
     "3435remixfeatdojacatmegantheestallionremix|181bsRPaVXVlUKXrxwZfHK,5cj0lLjcoR7YOSnhnX0Po5,66CXWjxzNUsdJxJ2JdwvnR|182437",
   song: "song/ariana-grande-34-35-remix",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-positions-deluxe",
+      discNumber: 1,
+      position: 17,
+      externalId: "2sQH02O2HBCPJCztBrCWNa",
+      externalLink: "https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa",
+    },
+  ],
 } as const satisfies Track

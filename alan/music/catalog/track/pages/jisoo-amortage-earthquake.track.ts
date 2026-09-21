@@ -25,4 +25,13 @@ export const jisooAmortageEarthquake = {
   trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
   trackKey: "earthquake|6UZ0ba50XreR4TM8u322gs|190806",
   song: "song/jisoo-earthquake",
+  carriedBy: [
+    {
+      release: "release/jisoo-amortage",
+      discNumber: 1,
+      position: 1,
+      externalId: "10zywlg5b0gQOC3q1A7ADx",
+      externalLink: "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx",
+    },
+  ],
 } as const satisfies Track

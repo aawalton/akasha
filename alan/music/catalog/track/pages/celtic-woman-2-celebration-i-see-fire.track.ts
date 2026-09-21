@@ -25,4 +25,13 @@ export const celticWoman2CelebrationISeeFire = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "iseefire|6NWtt9pNOL2Gx7kBykdE5x|309093",
   song: "song/celtic-woman-i-see-fire",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-celebration",
+      discNumber: 1,
+      position: 11,
+      externalId: "2IS1snn7mqeQB2CYCvsPQo",
+      externalLink: "https://open.spotify.com/track/2IS1snn7mqeQB2CYCvsPQo",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const sabrinaCarpenterEmailsICanTSendTornadoWarnings = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "tornadowarnings|74KM79TiuVKeVCqs8QtB0B|204179",
   song: "song/sabrina-carpenter-tornado-warnings",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-emails-i-can-t-send",
+      discNumber: 1,
+      position: 4,
+      externalId: "5kcuHw8WtxauIWI5crMcLM",
+      externalLink: "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM",
+    },
+  ],
 } as const satisfies Track

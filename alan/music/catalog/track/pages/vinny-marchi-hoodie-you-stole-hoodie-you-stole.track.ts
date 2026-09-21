@@ -25,4 +25,13 @@ export const vinnyMarchiHoodieYouStoleHoodieYouStole = {
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "hoodieyoustole|5USAMqcbMAzF3HBmeD5pJF|170006",
   song: "song/vinny-marchi-hoodie-you-stole",
+  carriedBy: [
+    {
+      release: "release/vinny-marchi-hoodie-you-stole",
+      discNumber: 1,
+      position: 1,
+      externalId: "30hutwjA6GTQYmXKMVtzWI",
+      externalLink: "https://open.spotify.com/track/30hutwjA6GTQYmXKMVtzWI",
+    },
+  ],
 } as const satisfies Track

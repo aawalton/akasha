@@ -25,4 +25,13 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionTears = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "tears|74KM79TiuVKeVCqs8QtB0B|160183",
   song: "song/sabrina-carpenter-tears",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-mans-best-friend-bonus-track-version",
+      discNumber: 1,
+      position: 2,
+      externalId: "5P9vEHtAeviz31Flyv6enq",
+      externalLink: "https://open.spotify.com/track/5P9vEHtAeviz31Flyv6enq",
+    },
+  ],
 } as const satisfies Track

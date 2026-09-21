@@ -25,4 +25,13 @@ export const coldplayColoraturaColoratura = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "coloratura|4gzpq5DPGxSnKTe4SA8HAU|618960",
   song: "song/coldplay-coloratura",
+  carriedBy: [
+    {
+      release: "release/coldplay-coloratura",
+      discNumber: 1,
+      position: 1,
+      externalId: "6P2Y4KnF2x8uwZV2cZWA8t",
+      externalLink: "https://open.spotify.com/track/6P2Y4KnF2x8uwZV2cZWA8t",
+    },
+  ],
 } as const satisfies Track

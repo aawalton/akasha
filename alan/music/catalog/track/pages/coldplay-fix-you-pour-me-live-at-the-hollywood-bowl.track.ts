@@ -25,4 +25,13 @@ export const coldplayFixYouPourMeLiveAtTheHollywoodBowl = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "pourmeliveatthehollywoodbowl|4gzpq5DPGxSnKTe4SA8HAU|301373",
   song: "song/coldplay-pour-me",
+  carriedBy: [
+    {
+      release: "release/coldplay-fix-you",
+      discNumber: 1,
+      position: 2,
+      externalId: "1Ipyg911kDvQPCNIah49Jp",
+      externalLink: "https://open.spotify.com/track/1Ipyg911kDvQPCNIah49Jp",
+    },
+  ],
 } as const satisfies Track

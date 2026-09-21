@@ -28,4 +28,13 @@ export const coldplayHigherPowerAlyxAnderRemixHigherPowerAlyxAnderRemix = {
   ],
   trackKey: "higherpoweralyxanderremix|4gxmaAX3cWO9PUVmEYVAhd,4gzpq5DPGxSnKTe4SA8HAU|153629",
   song: "song/coldplay-higher-power",
+  carriedBy: [
+    {
+      release: "release/coldplay-higher-power-alyx-ander-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "2NAmYjYKmqYQzLxFtszJ9Z",
+      externalLink: "https://open.spotify.com/track/2NAmYjYKmqYQzLxFtszJ9Z",
+    },
+  ],
 } as const satisfies Track

@@ -28,4 +28,13 @@ export const billieEilishBellyacheMarianHillRemixBellyacheMarianHillRemix = {
   ],
   trackKey: "bellyachemarianhillremix|1xHQO9GJIW9OXHxGBISYc5,6qqNVTkY8uBg9cP3Jd7DAH|220800",
   song: "song/billie-eilish-bellyache",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-bellyache-marian-hill-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "61X077SWMs5aAGQHhf4pd0",
+      externalLink: "https://open.spotify.com/track/61X077SWMs5aAGQHhf4pd0",
+    },
+  ],
 } as const satisfies Track

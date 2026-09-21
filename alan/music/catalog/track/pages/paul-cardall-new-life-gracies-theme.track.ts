@@ -25,4 +25,13 @@ export const paulCardallNewLifeGraciesTheme = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "graciestheme|7FQRbf8gbKw8KZQZAJWxH2|341693",
   song: "song/paul-cardall-gracies-theme",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-new-life",
+      discNumber: 1,
+      position: 5,
+      externalId: "6Pii4GK1kaVUeoxmBB0rUr",
+      externalLink: "https://open.spotify.com/track/6Pii4GK1kaVUeoxmBB0rUr",
+    },
+  ],
 } as const satisfies Track

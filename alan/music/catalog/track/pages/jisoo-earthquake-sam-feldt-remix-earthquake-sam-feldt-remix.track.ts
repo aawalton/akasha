@@ -28,4 +28,13 @@ export const jisooEarthquakeSamFeldtRemixEarthquakeSamFeldtRemix = {
   ],
   trackKey: "earthquakesamfeldtremix|20gsENnposVs2I4rQ5kvrf,6UZ0ba50XreR4TM8u322gs|149090",
   song: "song/jisoo-earthquake",
+  carriedBy: [
+    {
+      release: "release/jisoo-earthquake-sam-feldt-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "2f7PtCTGJCdGhLSv3prGWw",
+      externalLink: "https://open.spotify.com/track/2f7PtCTGJCdGhLSv3prGWw",
+    },
+  ],
 } as const satisfies Track

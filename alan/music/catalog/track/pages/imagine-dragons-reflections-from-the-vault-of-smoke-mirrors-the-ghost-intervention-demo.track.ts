@@ -25,4 +25,13 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsTheGhostInterven
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "theghostinterventiondemo|53XhwfbYqKCa1cC15pYq2q|193881",
   song: "song/imagine-dragons-the-ghost-intervention",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors",
+      discNumber: 1,
+      position: 2,
+      externalId: "6pe63pLHeyXRoSBoOiQJep",
+      externalLink: "https://open.spotify.com/track/6pe63pLHeyXRoSBoOiQJep",
+    },
+  ],
 } as const satisfies Track

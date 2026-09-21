@@ -25,4 +25,13 @@ export const thePianoGuysClassicalForStudyingNeverGonnaGiveYouUp = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "nevergonnagiveyouup|0jW6R8CVyVohuUJVcuweDI|182631",
   song: "song/the-piano-guys-never-gonna-give-you-up",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-classical-for-studying",
+      discNumber: 1,
+      position: 9,
+      externalId: "0V2tTn2sKjxbbzmcr7RJio",
+      externalLink: "https://open.spotify.com/track/0V2tTn2sKjxbbzmcr7RJio",
+    },
+  ],
 } as const satisfies Track

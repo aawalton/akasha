@@ -25,4 +25,13 @@ export const coldplayARushOfBloodToTheHeadWarningSign = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "warningsign|4gzpq5DPGxSnKTe4SA8HAU|331133",
   song: "song/coldplay-warning-sign",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-rush-of-blood-to-the-head",
+      discNumber: 1,
+      position: 8,
+      externalId: "4bPkBHKLKd9WHizsvM2zV3",
+      externalLink: "https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3",
+    },
+  ],
 } as const satisfies Track

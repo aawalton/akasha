@@ -31,4 +31,13 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoGoodDeedCommentar
   trackKey:
     "nogooddeedcommentary|1e6BRnFiiwNZl04xu1yqmi,46UMQ0cW8ToR8egkBRwAxZ,6VAUVq50O85s387FLQJi2B,7daPb40K64rRtF36wd3ZOk|101110",
   song: "song/ariana-grande-no-good-deed-commentary",
+  carriedBy: [
+    {
+      release: "release/ariana-grande-wicked-for-good-the-soundtrack-commentary",
+      discNumber: 1,
+      position: 16,
+      externalId: "0nWt2oMdKKczyGLprffFbh",
+      externalLink: "https://open.spotify.com/track/0nWt2oMdKKczyGLprffFbh",
+    },
+  ],
 } as const satisfies Track

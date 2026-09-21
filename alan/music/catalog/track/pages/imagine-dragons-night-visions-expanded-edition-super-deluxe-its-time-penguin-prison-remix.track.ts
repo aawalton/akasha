@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimePenguinP
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimepenguinprisonremix|53XhwfbYqKCa1cC15pYq2q|263440",
   song: "song/imagine-dragons-it-s-time",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 11,
+      externalId: "1XIRdNn3L1s9lfgbhK3RYp",
+      externalLink: "https://open.spotify.com/track/1XIRdNn3L1s9lfgbhK3RYp",
+    },
+  ],
 } as const satisfies Track

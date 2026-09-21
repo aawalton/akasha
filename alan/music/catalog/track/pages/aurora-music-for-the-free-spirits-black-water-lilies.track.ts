@@ -25,4 +25,13 @@ export const auroraMusicForTheFreeSpiritsBlackWaterLilies = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "blackwaterlilies|1WgXqy2Dd70QQOU7Ay074N|282840",
   song: "song/aurora-black-water-lilies",
+  carriedBy: [
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 1,
+      externalId: "2S9LrtRLhwGENhHWUIwKVN",
+      externalLink: "https://open.spotify.com/track/2S9LrtRLhwGENhHWUIwKVN",
+    },
+  ],
 } as const satisfies Track

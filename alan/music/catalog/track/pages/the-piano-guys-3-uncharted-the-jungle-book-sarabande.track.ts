@@ -25,4 +25,13 @@ export const thePianoGuys3UnchartedTheJungleBookSarabande = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thejunglebooksarabande|0jW6R8CVyVohuUJVcuweDI|222125",
   song: "song/the-piano-guys-the-jungle-book-sarabande",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-uncharted",
+      discNumber: 1,
+      position: 7,
+      externalId: "6ekMALFUBI4AaxazzS3hiC",
+      externalLink: "https://open.spotify.com/track/6ekMALFUBI4AaxazzS3hiC",
+    },
+  ],
 } as const satisfies Track

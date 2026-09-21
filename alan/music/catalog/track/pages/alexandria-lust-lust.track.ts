@@ -28,4 +28,13 @@ export const alexandriaLustLust = {
   ],
   trackKey: "lust|0SQG4wPVUlfbmbGQfqB47y,3HedFe4b2Nqeg1CEzmt6ZI|115294",
   song: "song/alexandria-lust",
+  carriedBy: [
+    {
+      release: "release/alexandria-lust",
+      discNumber: 1,
+      position: 1,
+      externalId: "2Tf3o75XkU0IS06tYgEuvn",
+      externalLink: "https://open.spotify.com/track/2Tf3o75XkU0IS06tYgEuvn",
+    },
+  ],
 } as const satisfies Track

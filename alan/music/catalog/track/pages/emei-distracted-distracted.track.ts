@@ -25,4 +25,13 @@ export const emeiDistractedDistracted = {
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "distracted|7E2aQQjErJocovYFjYLzWU|160800",
   song: "song/emei-distracted",
+  carriedBy: [
+    {
+      release: "release/emei-distracted",
+      discNumber: 1,
+      position: 1,
+      externalId: "3cajPGP49WC0dxOsRmS1WY",
+      externalLink: "https://open.spotify.com/track/3cajPGP49WC0dxOsRmS1WY",
+    },
+  ],
 } as const satisfies Track

@@ -25,4 +25,13 @@ export const jamesTaylor2InThePocket2019RemasterGoldenMoments2019Remaster = {
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "goldenmoments2019remaster|0vn7UBvSQECKJm2817Yf1P|216480",
   song: "song/james-taylor-golden-moments",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-in-the-pocket-2019-remaster",
+      discNumber: 1,
+      position: 12,
+      externalId: "06MDrTQI0z0CszwVp9EVQ8",
+      externalLink: "https://open.spotify.com/track/06MDrTQI0z0CszwVp9EVQ8",
+    },
+  ],
 } as const satisfies Track

@@ -29,4 +29,13 @@ export const jamesTaylor2LiveAtTheTroubadourSomethingInTheWaySheMovesLiveAtTheTr
   trackKey:
     "somethinginthewayshemovesliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|244106",
   song: "song/james-taylor-something-in-the-way-she-moves",
+  carriedBy: [
+    {
+      release: "release/james-taylor-2-live-at-the-troubadour",
+      discNumber: 1,
+      position: 7,
+      externalId: "2Iiy1VZNcFIA8PsPls9ZRY",
+      externalLink: "https://open.spotify.com/track/2Iiy1VZNcFIA8PsPls9ZRY",
+    },
+  ],
 } as const satisfies Track

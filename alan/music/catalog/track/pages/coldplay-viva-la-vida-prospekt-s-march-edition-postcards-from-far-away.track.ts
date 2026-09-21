@@ -25,4 +25,13 @@ export const coldplayVivaLaVidaProspektSMarchEditionPostcardsFromFarAway = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "postcardsfromfaraway|4gzpq5DPGxSnKTe4SA8HAU|48128",
   song: "song/coldplay-postcards-from-far-away",
+  carriedBy: [
+    {
+      release: "release/coldplay-viva-la-vida-prospekt-s-march-edition",
+      discNumber: 2,
+      position: 2,
+      externalId: "4sbbpL1WwwGRr6xWk2y0Hk",
+      externalLink: "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk",
+    },
+  ],
 } as const satisfies Track

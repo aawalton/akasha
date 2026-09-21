@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuys2JustTheWayYouAre = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "justthewayyouare|0jW6R8CVyVohuUJVcuweDI|261875",
   song: "song/the-piano-guys-just-the-way-you-are",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys-2",
+      discNumber: 1,
+      position: 7,
+      externalId: "3wGQULikds23nGCvIJf5G4",
+      externalLink: "https://open.spotify.com/track/3wGQULikds23nGCvIJf5G4",
+    },
+  ],
 } as const satisfies Track

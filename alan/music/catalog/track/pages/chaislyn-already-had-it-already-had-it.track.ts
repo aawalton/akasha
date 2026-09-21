@@ -25,4 +25,13 @@ export const chaislynAlreadyHadItAlreadyHadIt = {
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "alreadyhadit|3zmbniiciaBAJlSX1Bzq9R|176842",
   song: "song/chaislyn-already-had-it",
+  carriedBy: [
+    {
+      release: "release/chaislyn-already-had-it",
+      discNumber: 1,
+      position: 1,
+      externalId: "7CxobBUd6b6ft1p5o81qXF",
+      externalLink: "https://open.spotify.com/track/7CxobBUd6b6ft1p5o81qXF",
+    },
+  ],
 } as const satisfies Track

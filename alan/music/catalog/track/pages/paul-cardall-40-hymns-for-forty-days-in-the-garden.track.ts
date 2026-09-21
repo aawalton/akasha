@@ -25,4 +25,13 @@ export const paulCardall40HymnsForFortyDaysInTheGarden = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "inthegarden|7FQRbf8gbKw8KZQZAJWxH2|123360",
   song: "song/paul-cardall-in-the-garden",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-forty-days",
+      discNumber: 1,
+      position: 18,
+      externalId: "6zna6DjHTVokUeVUjCK242",
+      externalLink: "https://open.spotify.com/track/6zna6DjHTVokUeVUjCK242",
+    },
+  ],
 } as const satisfies Track

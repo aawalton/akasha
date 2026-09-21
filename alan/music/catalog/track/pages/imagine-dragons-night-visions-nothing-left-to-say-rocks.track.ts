@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsNothingLeftToSayRocks = {
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "nothinglefttosayrocks|53XhwfbYqKCa1cC15pYq2q|536080",
   song: "song/imagine-dragons-nothing-left-to-say-rocks",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions",
+      discNumber: 1,
+      position: 11,
+      externalId: "7cBhzkTWSpHBGAiCZzSika",
+      externalLink: "https://open.spotify.com/track/7cBhzkTWSpHBGAiCZzSika",
+    },
+  ],
 } as const satisfies Track

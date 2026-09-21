@@ -25,4 +25,13 @@ export const celticWoman2ChristmasCardsFromIrelandSilentNight2022Version = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "silentnight2022version|6NWtt9pNOL2Gx7kBykdE5x|212093",
   song: "song/celtic-woman-silent-night",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-christmas-cards-from-ireland",
+      discNumber: 1,
+      position: 4,
+      externalId: "7wL7uezzWgMfz9MfJ0nUNz",
+      externalLink: "https://open.spotify.com/track/7wL7uezzWgMfz9MfJ0nUNz",
+    },
+  ],
 } as const satisfies Track

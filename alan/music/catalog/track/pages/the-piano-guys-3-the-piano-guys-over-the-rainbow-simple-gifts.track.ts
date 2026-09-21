@@ -25,4 +25,13 @@ export const thePianoGuys3ThePianoGuysOverTheRainbowSimpleGifts = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "overtherainbowsimplegifts|0jW6R8CVyVohuUJVcuweDI|224190",
   song: "song/the-piano-guys-over-the-rainbow-simple-gifts",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-the-piano-guys",
+      discNumber: 1,
+      position: 5,
+      externalId: "3TgaPzOX2706KUeTyA7DFx",
+      externalLink: "https://open.spotify.com/track/3TgaPzOX2706KUeTyA7DFx",
+    },
+  ],
 } as const satisfies Track

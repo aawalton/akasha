@@ -25,4 +25,13 @@ export const celticWoman2DestinyBeanPhaidin = {
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "beanphaidin|6NWtt9pNOL2Gx7kBykdE5x|210389",
   song: "song/celtic-woman-bean-phaidin",
+  carriedBy: [
+    {
+      release: "release/celtic-woman-2-destiny",
+      discNumber: 1,
+      position: 11,
+      externalId: "4Fge3caJzss3mKMVtbehur",
+      externalLink: "https://open.spotify.com/track/4Fge3caJzss3mKMVtbehur",
+    },
+  ],
 } as const satisfies Track

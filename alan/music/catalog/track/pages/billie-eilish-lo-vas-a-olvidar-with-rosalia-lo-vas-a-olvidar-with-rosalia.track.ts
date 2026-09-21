@@ -28,4 +28,13 @@ export const billieEilishLoVasAOlvidarWithRosaliaLoVasAOlvidarWithRosalia = {
   ],
   trackKey: "lovasaolvidarwithrosalia|6qqNVTkY8uBg9cP3Jd7DAH,7ltDVBr6mKbRvohxheJ9h1|203464",
   song: "song/billie-eilish-lo-vas-a-olvidar",
+  carriedBy: [
+    {
+      release: "release/billie-eilish-lo-vas-a-olvidar-with-rosalia",
+      discNumber: 1,
+      position: 1,
+      externalId: "0psS4i5YooJrXfDnGvWRLi",
+      externalLink: "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi",
+    },
+  ],
 } as const satisfies Track

@@ -32,4 +32,13 @@ export const coldplayMoonMusicFullMoonEditionWePrayBeOurGuest = {
   trackKey:
     "wepraybeourguest|0jIWKlfmD4Ew7HeVVrq03g,3wcj11K77LjEY1PkEazffa,4gzpq5DPGxSnKTe4SA8HAU,6eXZu6O7nAUA5z6vLV8NKI,7vXDAI8JwjW531ouMGbfcp|233320",
   song: "song/coldplay-we-pray-be-our-guest",
+  carriedBy: [
+    {
+      release: "release/coldplay-moon-music-full-moon-edition",
+      discNumber: 2,
+      position: 4,
+      externalId: "0dlJ9E3QZZ78a9cUns9VCO",
+      externalLink: "https://open.spotify.com/track/0dlJ9E3QZZ78a9cUns9VCO",
+    },
+  ],
 } as const satisfies Track

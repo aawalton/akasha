@@ -25,4 +25,13 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeLiveFrom
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimelivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|324453",
   song: "song/imagine-dragons-it-s-time",
+  carriedBy: [
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 3,
+      position: 11,
+      externalId: "0WTImvzkB7q2b7zV0ZoKFQ",
+      externalLink: "https://open.spotify.com/track/0WTImvzkB7q2b7zV0ZoKFQ",
+    },
+  ],
 } as const satisfies Track

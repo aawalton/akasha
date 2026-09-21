@@ -25,4 +25,13 @@ export const coldplayLive2012HurtsLikeHeavenLive = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "hurtslikeheavenlive|4gzpq5DPGxSnKTe4SA8HAU|256333",
   song: "song/coldplay-hurts-like-heaven",
+  carriedBy: [
+    {
+      release: "release/coldplay-live-2012",
+      discNumber: 1,
+      position: 2,
+      externalId: "1mw50a4DGRhkdMX7nOoLE4",
+      externalLink: "https://open.spotify.com/track/1mw50a4DGRhkdMX7nOoLE4",
+    },
+  ],
 } as const satisfies Track

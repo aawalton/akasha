@@ -25,4 +25,13 @@ export const coldplayAHeadFullOfDreamsArmyOfOne = {
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "armyofone|4gzpq5DPGxSnKTe4SA8HAU|376826",
   song: "song/coldplay-army-of-one",
+  carriedBy: [
+    {
+      release: "release/coldplay-a-head-full-of-dreams",
+      discNumber: 1,
+      position: 8,
+      externalId: "4giCxIFPZNQIP4bIZM4sqH",
+      externalLink: "https://open.spotify.com/track/4giCxIFPZNQIP4bIZM4sqH",
+    },
+  ],
 } as const satisfies Track

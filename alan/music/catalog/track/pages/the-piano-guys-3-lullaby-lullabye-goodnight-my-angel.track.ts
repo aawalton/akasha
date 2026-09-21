@@ -25,4 +25,13 @@ export const thePianoGuys3LullabyLullabyeGoodnightMyAngel = {
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "lullabyegoodnightmyangel|0jW6R8CVyVohuUJVcuweDI|193741",
   song: "song/the-piano-guys-lullabye-goodnight-my-angel",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-3-lullaby",
+      discNumber: 1,
+      position: 11,
+      externalId: "7fOq6Qb9sDwtFi3RAAoETZ",
+      externalLink: "https://open.spotify.com/track/7fOq6Qb9sDwtFi3RAAoETZ",
+    },
+  ],
 } as const satisfies Track

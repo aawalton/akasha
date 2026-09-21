@@ -25,4 +25,13 @@ export const paulCardallHymnsJesusOfNazarethSaviorAndKing = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesusofnazarethsaviorandking|7FQRbf8gbKw8KZQZAJWxH2|141506",
   song: "song/paul-cardall-jesus-of-nazareth-savior-and-king",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-hymns",
+      discNumber: 1,
+      position: 3,
+      externalId: "7tSWvZeMaPuXzHYD2qkqOp",
+      externalLink: "https://open.spotify.com/track/7tSWvZeMaPuXzHYD2qkqOp",
+    },
+  ],
 } as const satisfies Track

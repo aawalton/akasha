@@ -28,4 +28,13 @@ export const zaraLarssonAllTheTimeDonDiabloRemixAllTheTimeDonDiabloRemix = {
   ],
   trackKey: "allthetimedondiabloremix|1Xylc3o4UrD53lo9CvFvVg,1l2ekx5skC4gJH8djERwh1|176616",
   song: "song/zara-larsson-all-the-time",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-all-the-time-don-diablo-remix",
+      discNumber: 1,
+      position: 1,
+      externalId: "1z1Hg7Vb0AhHDiEmnDE79l",
+      externalLink: "https://open.spotify.com/track/1z1Hg7Vb0AhHDiEmnDE79l",
+    },
+  ],
 } as const satisfies Track

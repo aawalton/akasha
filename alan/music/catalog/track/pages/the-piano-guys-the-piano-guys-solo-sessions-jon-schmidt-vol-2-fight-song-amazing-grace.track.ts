@@ -25,4 +25,13 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2FightSongAmazingG
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "fightsongamazinggrace|0jW6R8CVyVohuUJVcuweDI|244943",
   song: "song/the-piano-guys-fight-song-amazing-grace",
+  carriedBy: [
+    {
+      release: "release/the-piano-guys-the-piano-guys-solo-sessions-jon-schmidt-vol-2",
+      discNumber: 1,
+      position: 8,
+      externalId: "4akhw7G1pADAGzt92FaLpX",
+      externalLink: "https://open.spotify.com/track/4akhw7G1pADAGzt92FaLpX",
+    },
+  ],
 } as const satisfies Track

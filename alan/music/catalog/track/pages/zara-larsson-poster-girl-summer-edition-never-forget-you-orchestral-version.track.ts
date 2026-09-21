@@ -25,4 +25,13 @@ export const zaraLarssonPosterGirlSummerEditionNeverForgetYouOrchestralVersion =
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "neverforgetyouorchestralversion|1Xylc3o4UrD53lo9CvFvVg|229605",
   song: "song/zara-larsson-never-forget-you",
+  carriedBy: [
+    {
+      release: "release/zara-larsson-poster-girl-summer-edition",
+      discNumber: 1,
+      position: 17,
+      externalId: "63ZOvLyyZDv0wUqILovbpv",
+      externalLink: "https://open.spotify.com/track/63ZOvLyyZDv0wUqILovbpv",
+    },
+  ],
 } as const satisfies Track

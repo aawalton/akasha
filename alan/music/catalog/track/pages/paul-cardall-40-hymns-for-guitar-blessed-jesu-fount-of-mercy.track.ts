@@ -25,4 +25,13 @@ export const paulCardall40HymnsForGuitarBlessedJesuFountOfMercy = {
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "blessedjesufountofmercy|7FQRbf8gbKw8KZQZAJWxH2|151552",
   song: "song/paul-cardall-blessed-jesu-fount-of-mercy",
+  carriedBy: [
+    {
+      release: "release/paul-cardall-40-hymns-for-guitar",
+      discNumber: 1,
+      position: 40,
+      externalId: "4RlECzDcXWfGA2Pi7ccZ15",
+      externalLink: "https://open.spotify.com/track/4RlECzDcXWfGA2Pi7ccZ15",
+    },
+  ],
 } as const satisfies Track

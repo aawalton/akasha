@@ -25,4 +25,13 @@ export const auroraMusicForTheFreeSpiritsDaydreamer = {
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "daydreamer|1WgXqy2Dd70QQOU7Ay074N|219057",
   song: "song/aurora-daydreamer",
+  carriedBy: [
+    {
+      release: "release/aurora-music-for-the-free-spirits",
+      discNumber: 1,
+      position: 6,
+      externalId: "3FsLarRsV6BltfZozdd8Hh",
+      externalLink: "https://open.spotify.com/track/3FsLarRsV6BltfZozdd8Hh",
+    },
+  ],
 } as const satisfies Track

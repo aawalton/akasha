@@ -25,4 +25,13 @@ export const sabrinaCarpenterSmokeAndFireSmokeAndFire = {
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "smokeandfire|74KM79TiuVKeVCqs8QtB0B|225010",
   song: "song/sabrina-carpenter-smoke-and-fire",
+  carriedBy: [
+    {
+      release: "release/sabrina-carpenter-smoke-and-fire",
+      discNumber: 1,
+      position: 1,
+      externalId: "67zT3NI4tTOj8GreXetF6s",
+      externalLink: "https://open.spotify.com/track/67zT3NI4tTOj8GreXetF6s",
+    },
+  ],
 } as const satisfies Track
