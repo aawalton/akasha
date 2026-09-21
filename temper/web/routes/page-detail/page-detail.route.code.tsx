@@ -6,14 +6,6 @@ import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { createEmptyCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
-import type {
-  CharacterBuildMetadata,
-  CompanionBuildMetadata,
-} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
-import {
-  applyCharacterMetadata,
-  applyCompanionMetadata,
-} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import {
   decodeBuild,
   encodeBuild,
@@ -31,6 +23,14 @@ import {
   buildId as toBuildId,
 } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
+import type {
+  CharacterBuildMetadata,
+  CompanionBuildMetadata,
+} from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
+import {
+  applyCharacterMetadata,
+  applyCompanionMetadata,
+} from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { CharacterEditor } from "akasha/temper/web/modules/character-editor/character-editor.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/modules/companion-editor/companion-editor.module.code.tsx"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"

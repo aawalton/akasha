@@ -12,10 +12,6 @@ import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.mo
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import {
-  type CharacterBuildMetadata,
-  extractCharacterMetadata,
-} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { encodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import {
   type BuildRow,
@@ -29,6 +25,10 @@ import {
   type RoleId,
   characterRoles as roles,
 } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
+import {
+  type CharacterBuildMetadata,
+  extractCharacterMetadata,
+} from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 

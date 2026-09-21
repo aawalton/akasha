@@ -25,13 +25,13 @@ import {
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import { applyCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   useAllCharacterList,
   useCharacterLifecycle,
 } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
+import { applyCharacterMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import {
   BuildsBrowseTab,

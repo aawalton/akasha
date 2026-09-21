@@ -12,7 +12,6 @@ import { SearchButton } from "akasha/design/interface/pattern/modules/search-but
 import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { Tabs } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { extractCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { encodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { characterUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
@@ -20,6 +19,7 @@ import {
   useCharacterLifecycle,
   useCharacterList,
 } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
+import { extractCharacterMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { CharacterEditorHeader } from "akasha/temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"
 import { CharacterEditorTabsList } from "akasha/temper/web/modules/character-editor-tabs-list/character-editor-tabs-list.module.code.tsx"
 import { ClassChangeConfirmationDialog } from "akasha/temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"

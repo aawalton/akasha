@@ -11,7 +11,6 @@ export const temper = {
     "module/addon-init",
     "module/assert-schema-matches-payload",
     "module/auto-quest-trace",
-    "module/build-metadata",
     "module/character-class",
     "module/chat-entry-text",
     "module/descriptor",

@@ -2,11 +2,6 @@
 
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
-  applyCompanionMetadata,
-  type CompanionBuildMetadata,
-  extractCompanionMetadata,
-} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
-import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
@@ -15,6 +10,11 @@ import {
   type useAllCompanionList,
   useCompanionLifecycle,
 } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
+import {
+  applyCompanionMetadata,
+  type CompanionBuildMetadata,
+  extractCompanionMetadata,
+} from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import type { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useCallback, useState, useTransition } from "react"
 

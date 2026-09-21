@@ -12,7 +12,7 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import type { ProfileMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import type { ProfileMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import {
   type CraftBagAccessValue,
   fromCraftBagAccessValue,

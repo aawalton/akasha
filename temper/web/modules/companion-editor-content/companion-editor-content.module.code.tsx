@@ -16,7 +16,6 @@ import {
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { extractCompanionMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { encodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
@@ -24,6 +23,7 @@ import {
   useCompanionLifecycle,
   useCompanionList,
 } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
+import { extractCompanionMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { CompanionAutomationPanelCard } from "akasha/temper/web/modules/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx"
 import { CompanionEditorHeader } from "akasha/temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx"
 import { CompanionEquipmentPanel } from "akasha/temper/web/modules/companion-equipment-panel/companion-equipment-panel.module.code.tsx"

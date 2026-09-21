@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/modules/build-metadata/build-metadata.module.code.ts"}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts"}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
+{"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/web/modules/build-metadata/build-metadata.module.code.ts"}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/web/modules/builds-browse-tab/builds-browse-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/web/modules/character-entity-panel-card/character-entity-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/web/modules/character-list-card-with-handle/character-list-card-with-handle.module.code.tsx"}

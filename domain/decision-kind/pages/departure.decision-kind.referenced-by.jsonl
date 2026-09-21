@@ -5030,7 +5030,6 @@
 {"propertySlug":"decision-kind","path":"temper/modules/addon-init/addon-init.module.ts","id":"01a060ae-335f-75cf-867a-8b88bb3db05e"}
 {"propertySlug":"decision-kind","path":"temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts","id":"01a06075-b052-7e77-979b-c9bea93f7ba3"}
 {"propertySlug":"decision-kind","path":"temper/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
-{"propertySlug":"decision-kind","path":"temper/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
 {"propertySlug":"decision-kind","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
 {"propertySlug":"decision-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"decision-kind","path":"temper/modules/explain-walk/explain-walk.module.ts","id":"01a06036-188c-735e-bae8-be4f3d907a2f"}
@@ -5414,6 +5413,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/look/temper-web-look.stylesheet.ts","id":"01a0640f-850f-7bfd-8070-ae903b54ddb0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-progress/account-progress.module.ts","id":"01a06421-f74b-7ac7-a2c3-4120a9e80006"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.ts","id":"01a06432-b190-7bdd-9689-8a19b01cb487"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.ts","id":"01a06421-f74b-7d4b-bfa1-cf2d5df70013"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-progress/character-progress.module.ts","id":"01a06421-f74b-78cf-a4a8-43342bc70016"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.ts","id":"01a06591-9eb0-7000-9053-bdd9b8e2dcfd"}

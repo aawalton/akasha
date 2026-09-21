@@ -13,10 +13,10 @@ import {
   mapBaseRolesToDisplayRoles,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import { applyCompanionMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
+import { applyCompanionMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { CompanionsBuildBrowseTab } from "akasha/temper/web/modules/companions-build-browse-tab/companions-build-browse-tab.module.code.tsx"
 import type { FilterValues } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { CompanionsLeaderboardTab } from "akasha/temper/web/modules/companions-leaderboard-tab/companions-leaderboard-tab.module.code.tsx"

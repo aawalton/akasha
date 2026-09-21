@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
-{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/modules/build-metadata/build-metadata.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-champion-points/build-codec-v52-champion-points.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-skills/build-codec-v52-skills.module.code.ts"}
@@ -13,6 +12,7 @@
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/web/modules/build-metadata/build-metadata.module.code.ts"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/web/modules/builds-browse-tab/builds-browse-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/web/modules/champion-points-panel/champion-points-panel.module.code.tsx"}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/web/modules/character-actions/character-actions.module.code.ts"}

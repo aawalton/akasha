@@ -2,10 +2,6 @@
 
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import {
-  applyCharacterMetadata,
-  type CharacterBuildMetadata,
-} from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
-import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
@@ -19,6 +15,10 @@ import type { BuildId } from "akasha/temper/player/character/formula-framework/m
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { useCharacter as useCharacterZero } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
+import {
+  applyCharacterMetadata,
+  type CharacterBuildMetadata,
+} from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import type { CharacterAction } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
 import { CHARACTER_ACTIONS } from "akasha/temper/web/modules/character-actions/character-actions.module.code.ts"
 import { characterReducer } from "akasha/temper/web/modules/character-reducer/character-reducer.module.code.ts"

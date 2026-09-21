@@ -15,11 +15,11 @@
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/modules/build-metadata/build-metadata.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/build-metadata/build-metadata.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/companion-actions/companion-actions.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/companion-context/companion-context.module.code.tsx"}
