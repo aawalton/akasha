@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"alan/web/alanwalton-web/alanwalton-web.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/cluster/manifest/cert-manager-synth/cert-manager-synth.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/cluster/manifest/cloudnative-pg-synth/cloudnative-pg-synth.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/cluster/manifest/cluster-reach-synth/cluster-reach-synth.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/cluster/manifest/metallb-synth/metallb-synth.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/container-image/buildkit-prune/buildkit-prune.manifest.ts"}
@@ -22,10 +21,8 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/postgres-annual-dump/manifests/postgres-annual-dump-manifests.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/backup-assets/seaweedfs-backup-assets.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/backup-bulk/seaweedfs-backup-bulk.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/backup-cnpg/seaweedfs-backup-cnpg.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/etcd-snapshot/seaweedfs-etcd-snapshot.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/maintenance/seaweedfs-maintenance.manifest.ts"}
@@ -33,11 +30,8 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/prune-sessions/seaweedfs-prune-sessions.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/backup/retention/gfs-promoter/gfs-promoter.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/backup/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/database/postgres-cnpg/postgres-cnpg.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/kube-state-metrics/kube-state-metrics.manifest.ts"}

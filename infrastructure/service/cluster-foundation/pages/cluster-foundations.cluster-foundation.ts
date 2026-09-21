@@ -8,7 +8,6 @@ export const clusterFoundations = {
   manifest: [
     "manifest/app-namespaces-synth",
     "manifest/cert-manager-synth",
-    "manifest/cloudnative-pg-synth",
     "manifest/cluster-reach-synth",
     "manifest/deploy-account",
     "manifest/metallb-synth",

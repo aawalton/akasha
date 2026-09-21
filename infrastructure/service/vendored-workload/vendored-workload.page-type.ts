@@ -7,11 +7,9 @@ export const vendoredWorkload = {
   definition: "a workload the cluster runs that this repository writes no manifest for",
   extends: ["page-type/service"],
   parts: [
-    "vendored-workload/barman-cloud",
     "vendored-workload/cert-manager",
     "vendored-workload/cert-manager-cainjector",
     "vendored-workload/cert-manager-webhook",
-    "vendored-workload/cnpg-controller-manager",
     "vendored-workload/coredns",
     "vendored-workload/kube-flannel",
     "vendored-workload/kube-proxy",

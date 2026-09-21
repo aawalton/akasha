@@ -37,7 +37,6 @@ function opening(given: string | Reading): readonly string[] {
     '  "oven/bun:1.3.14-debian"',
     '  "alpine:3.21"',
     '  "debian:bookworm-slim"',
-    '  "postgres:17.4-alpine"',
     ")",
     "",
     'KUBECTL_DIGEST="bitnami/kubectl@sha256:6e2cdb22d6ab7264ea198c717f555e30536b54029d26c8781b9f25f78951b564"',

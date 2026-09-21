@@ -133,7 +133,6 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/workstation/upscale-workstation.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.test.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/storage/backup/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/index/modules/building/index-building.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/index/modules/building/index-building.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.code.ts"}

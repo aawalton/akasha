@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/ddns-headscale/ddns-headscale.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/eso-rig/eso-rig.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/gfs-promoter/gfs-promoter.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/git-transport-janitor/git-transport-janitor.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/git-transport/git-transport.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/grafana/grafana.service-cluster.ts"}
@@ -20,16 +19,12 @@
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/nvidia-device-plugin/nvidia-device-plugin.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/page-forwarder/page-forwarder.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/pod-janitor/pod-janitor.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/postgres-annual-dump/postgres-annual-dump.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/postgres-cnpg/postgres-cnpg.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/prometheus/prometheus.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/promtail/promtail.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/registry-gc/registry-gc.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/registry/registry.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-backup-assets/seaweedfs-backup-assets.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-backup-bulk/seaweedfs-backup-bulk.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-backup-cnpg/seaweedfs-backup-cnpg.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-backup-longtail/seaweedfs-backup-longtail.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-etcd-snapshot/seaweedfs-etcd-snapshot.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-filer/seaweedfs-filer.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/seaweedfs-maintenance/seaweedfs-maintenance.service-cluster.ts"}

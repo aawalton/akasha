@@ -1,9 +1,0 @@
-import type { ContainerRecipe } from "akasha/code/container-recipe/container-recipe.page-type.types.ts"
-
-export const postgresCnpgImage = {
-  id: "01a0685d-ab5d-737f-8ad6-6ecbb49de6e6",
-  type: "page-type/container-recipe",
-  slug: "postgres-cnpg-image",
-  definition: "the CloudNativePG image the Postgres cluster runs, its extensions built in",
-  recipe: "dockerfile",
-} as const satisfies ContainerRecipe

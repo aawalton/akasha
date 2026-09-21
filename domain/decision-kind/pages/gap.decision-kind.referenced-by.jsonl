@@ -327,7 +327,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.ts","id":"01a0821e-fce6-7373-89a1-600a7260bb4f"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.ts","id":"01a08c77-e4ed-7a27-8a82-acaacd3068bd"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
-{"propertySlug":"decision-kind","path":"infrastructure/storage/database/database.domain.ts","id":"01a0658b-0f02-739d-a425-d0d2ab58c103"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"decision-kind","path":"page/access/modules/capture-error/capture-error.module.ts","id":"01a05bd6-c529-7e1b-b455-c42e0f069da5"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-page-type-config/file-page-type-config.module.ts","id":"01a05bd6-c52f-7e97-a8ea-067913e34725"}

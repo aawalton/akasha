@@ -10,7 +10,6 @@ export const clusterManifest = {
   parts: [
     "manifest/app-namespaces-synth",
     "manifest/cert-manager-synth",
-    "manifest/cloudnative-pg-synth",
     "manifest/cluster-reach-synth",
     "manifest/metallb-synth",
     "module/orphan-resource-audit",

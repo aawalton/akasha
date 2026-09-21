@@ -1,8 +1,6 @@
-{"propertySlug":"import","fileName":"vendored-workload.page-type.types.ts","path":"infrastructure/service/vendored-workload/pages/barman-cloud.vendored-workload.ts"}
 {"propertySlug":"import","fileName":"vendored-workload.page-type.types.ts","path":"infrastructure/service/vendored-workload/pages/cert-manager-cainjector.vendored-workload.ts"}
 {"propertySlug":"import","fileName":"vendored-workload.page-type.types.ts","path":"infrastructure/service/vendored-workload/pages/cert-manager-webhook.vendored-workload.ts"}
 {"propertySlug":"import","fileName":"vendored-workload.page-type.types.ts","path":"infrastructure/service/vendored-workload/pages/cert-manager.vendored-workload.ts"}
-{"propertySlug":"import","fileName":"vendored-workload.page-type.types.ts","path":"infrastructure/service/vendored-workload/pages/cnpg-controller-manager.vendored-workload.ts"}
 {"propertySlug":"import","fileName":"vendored-workload.page-type.types.ts","path":"infrastructure/service/vendored-workload/pages/coredns.vendored-workload.ts"}
 {"propertySlug":"import","fileName":"vendored-workload.page-type.types.ts","path":"infrastructure/service/vendored-workload/pages/kube-flannel.vendored-workload.ts"}
 {"propertySlug":"import","fileName":"vendored-workload.page-type.types.ts","path":"infrastructure/service/vendored-workload/pages/kube-proxy.vendored-workload.ts"}

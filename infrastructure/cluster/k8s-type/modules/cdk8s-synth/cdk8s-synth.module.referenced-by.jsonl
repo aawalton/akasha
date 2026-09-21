@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/cert-manager-synth/cert-manager-synth.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/cloudnative-pg-synth/cloudnative-pg-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/cluster-reach-synth/cluster-reach-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/metallb-synth/metallb-synth.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/container-image/buildkit-prune/buildkit-prune.manifest.code.ts"}
@@ -28,7 +27,6 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/postgres-annual-dump/manifests/postgres-annual-dump-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/filer/seaweedfs-filer.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/master/seaweedfs-master.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/modules/backup-manifests/seaweedfs-backup-manifests.module.code.ts"}
@@ -40,14 +38,8 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/modules/prune-manifests/seaweedfs-prune-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/s3-gateway/seaweedfs-s3-gateway.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/seaweedfs/volume/seaweedfs-volume.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/backup/retention/gfs-promoter/gfs-promoter.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/backup/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/database/postgres-cnpg/modules/cnpg-cluster/cnpg-cluster.module.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/database/postgres-cnpg/modules/cnpg-object-store/cnpg-object-store.module.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/database/postgres-cnpg/modules/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts"}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/database/postgres-cnpg/postgres-cnpg.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.code.ts"}

@@ -5,6 +5,5 @@
 {"propertySlug":"import","fileName":"recipe-page.module.code.ts","path":"infrastructure/inference/generation/upscale/image/upscale-image.container-recipe.composing.code.ts"}
 {"propertySlug":"import","fileName":"recipe-page.module.code.ts","path":"infrastructure/inference/generation/wan/image/wan-image.container-recipe.composing.code.ts"}
 {"propertySlug":"import","fileName":"recipe-page.module.code.ts","path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.code.ts"}
-{"propertySlug":"import","fileName":"recipe-page.module.code.ts","path":"infrastructure/postgres-annual-dump/image/postgres-annual-dump-image.container-recipe.composing.code.ts"}
 {"propertySlug":"import","fileName":"recipe-page.module.code.ts","path":"temper/watcher/image/temper-watcher-image.container-recipe.composing.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/container-image/container-image.domain.ts","id":"01a0675b-16dc-759d-9b19-cf1118f36276"}

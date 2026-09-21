@@ -17,7 +17,6 @@ export const COMPONENT_BACKUP = "backup"
 
 const BACKUP_NODE = "node-06"
 const BACKUP_HOST_PATH = "/var/lib/seaweedfs-backup"
-export const CNPG_NAMESPACE = "seaweedfs-backup-cnpg"
 export const BULK_NAMESPACE = "seaweedfs-backup-bulk"
 const BACKUP_CAPACITY = "500Gi"
 const BACKUP_MOUNT = "/backup"
@@ -147,16 +146,6 @@ function backupCronJobYaml(config: BackupCronJobConfig): string {
         },
       },
     },
-  })
-}
-
-export function backupCnpgCronJobYaml(): string {
-  return backupCronJobYaml({
-    name: "seaweedfs-backup-cnpg",
-    namespace: CNPG_NAMESPACE,
-    schedule: "7,22,37,52 * * * *",
-    buckets: ["postgres-cnpg-backups"],
-    memoryLimit: "512Mi",
   })
 }
 
