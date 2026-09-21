@@ -38,6 +38,11 @@ export const noCodeComments = {
       decisionKind: "decision-kind/constraint",
       statement: "A shebang is trivia the parser takes before any comment.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A body whose every slash sits inside a string it opens and shuts is parsed by nothing here.",
+    },
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },

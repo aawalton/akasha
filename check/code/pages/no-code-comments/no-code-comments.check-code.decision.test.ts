@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   commentsIn,
+  couldCarryOne,
   found,
   styleCommentsIn,
 } from "akasha/check/code/pages/no-code-comments/no-code-comments.check-code.decision.code.ts"
@@ -149,4 +150,28 @@ test("a suppression a stylesheet linter parses is let through", () => {
 test("every comment a stylesheet carries is reported, one reason each", () => {
   const body = ["/* one */", ".held {", "  color: red;", "}", "/* two */"].join("\n")
   expect(found(STYLE_AT, `${body}\n`)).toHaveLength(2)
+})
+
+test("a body whose every slash sits inside a string carries no comment and is parsed by nothing", () => {
+  const body = 'export const AT = "https://example.com//held"\n'
+  expect(couldCarryOne(AT, body)).toBe(false)
+  expect(found(AT, body)).toEqual([])
+})
+
+test("a comment past a string, a template or a regex carrying slashes is still found", () => {
+  const each = [
+    'export const AT = "https://example.com" // held',
+    "export const AT = `https://one/${two}//three` // held",
+    "export const AT = /['\"]/ // held",
+    'export const AT = "a ` b" // held',
+    "export const AT = `${1 /* held */}`",
+  ]
+  for (const one of each) {
+    expect(couldCarryOne(AT, `${one}\n`)).toBe(true)
+    expect(found(AT, `${one}\n`)).toHaveLength(1)
+  }
+})
+
+test("a body read as JSX is parsed rather than scanned", () => {
+  expect(couldCarryOne("one/one.module.code.tsx", 'export const AT = "held"\n')).toBe(true)
 })

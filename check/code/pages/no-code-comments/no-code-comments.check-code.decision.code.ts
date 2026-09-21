@@ -147,8 +147,77 @@ function couldOpenOne(text: string): boolean {
   return text.includes(LINE_OPENED) || text.includes(OPENED)
 }
 
+const SLASH = "/"
+
+const BRACE_OPENED = "{"
+
+const BRACE_CLOSED = "}"
+
+const DOLLAR = "$"
+
+const TSX = ".tsx"
+
+type Reading = "code" | "single" | "double" | "template"
+
+const OPENS: ReadonlyMap<string, Reading> = new Map([
+  ["'", "single"],
+  ['"', "double"],
+  ["`", "template"],
+])
+
+const SHUTS: ReadonlyMap<Reading, string> = new Map([
+  ["single", "'"],
+  ["double", '"'],
+  ["template", "`"],
+])
+
+export function couldCarryOne(path: string, text: string): boolean {
+  if (path.endsWith(TSX)) return true
+  const nesting: number[] = []
+  let state: Reading = "code"
+  let at = 0
+  while (at < text.length) {
+    const one = text.charAt(at)
+    if (state === "code") {
+      if (one === SLASH) return true
+      const opened = OPENS.get(one)
+      if (opened !== undefined) {
+        state = opened
+        at += 1
+        continue
+      }
+      if (one === BRACE_CLOSED && nesting.at(-1) === 0) {
+        nesting.pop()
+        state = "template"
+        at += 1
+        continue
+      }
+      const last = nesting.length - 1
+      if (last >= 0 && (one === BRACE_OPENED || one === BRACE_CLOSED)) {
+        nesting[last] = (nesting[last] ?? 0) + (one === BRACE_OPENED ? 1 : -1)
+      }
+      at += 1
+      continue
+    }
+    if (one === ESCAPE) {
+      at += 2
+      continue
+    }
+    if (state === "template" && one === DOLLAR && text.charAt(at + 1) === BRACE_OPENED) {
+      nesting.push(0)
+      state = "code"
+      at += 2
+      continue
+    }
+    if (one === SHUTS.get(state) || (state !== "template" && one === BREAK)) state = "code"
+    at += 1
+  }
+  return false
+}
+
 export function found(path: string, text: string): readonly string[] {
   if (!couldOpenOne(text)) return []
   if (styleNamed(path)) return refusalsFor(styleCommentsIn(text))
+  if (!couldCarryOne(path, text)) return []
   return refusalsFor(commentsIn(path, text))
 }
