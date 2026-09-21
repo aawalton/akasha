@@ -47,6 +47,10 @@ export const gameMechanic = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing a mechanic reads lies outside the values handed in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mechanic a game needs and no page holds is written in the turn that needs it.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
