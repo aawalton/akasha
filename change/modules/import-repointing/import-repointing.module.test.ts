@@ -9,18 +9,26 @@ import {
 } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import {
   CONFIG,
+  DECLARED,
+  DECLARED_AT,
   IMAGES,
   LOOK,
   RECIPES,
+  REFERRING,
+  REFERRING_DEEPER,
+  REFERRING_MOVED,
   ROOTS,
   ROOTS_AT,
   ROOTS_MOVED,
+  SANDBOX,
+  SANDBOX_AT,
   SERVICE,
   SHELL,
   TOKENS,
   TOKENS_AT,
   TOKENS_IMPORT,
   TOKENS_IMPORT_AT,
+  UNDER_MOVED,
   WATCHER,
   WATCHER_AT,
   WRAPPED,
@@ -285,16 +293,6 @@ const RAN = `. "$AKASHA_ROOT/code-system/ios-apps/stage/stage.module.code.ts"\n`
 
 const RAN_AT = `. "$AKASHA_ROOT/code/ios-apps/stage/stage.module.code.ts"\n`
 
-const HELD_BODY = `export const one = 1\n`
-
-const UNDER_MOVED: Readonly<Record<string, string>> = {
-  "code-system/ios-apps/held.module.code.ts": HELD_BODY,
-  "code-system/ios-apps/stage/stage.module.code.ts": HELD_BODY,
-  "code-system/one.ts": HELD_BODY,
-  "code-system/one/one.module.code.ts": HELD_BODY,
-  "code-system/router-apps/held/held.component.code.tsx": HELD_BODY,
-}
-
 function carriedOver(at: string, text: string): Answer {
   const world = worldOf({ ...UNDER_MOVED, [at]: text })
 
@@ -397,6 +395,18 @@ test("a run that is a path this repository has is left alone though its ending m
   expect(gathered([repointed(world, { was: TABLE, now: TABLE, carried: MOVING })]).edits).toEqual(
     []
   )
+})
+
+test("a file named by a triple-slash reference is respelled from where the body lands", () => {
+  const moved = new Map([[SANDBOX, SANDBOX_AT]])
+
+  expect(bodyIn(SANDBOX, SANDBOX_AT, REFERRING, moved)).toBe(REFERRING_DEEPER)
+})
+
+test("a file named by a triple-slash reference follows that file where it moves", () => {
+  const moved = new Map([[DECLARED, DECLARED_AT]])
+
+  expect(bodyIn(SANDBOX, SANDBOX, REFERRING, moved)).toBe(REFERRING_MOVED)
 })
 
 test("a URL holding the folder's name is left alone", () => {

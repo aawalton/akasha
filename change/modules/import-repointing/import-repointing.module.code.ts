@@ -31,6 +31,8 @@ const ROOT = "akasha/"
 
 const RELATIVE = /^\.\.?\//
 
+const REFERENCED = /\/\/\/\s*<reference\s+path\s*=\s*(?:"([^"]*)"|'([^']*)')/g
+
 const LINES = "\n"
 
 const MAPPED = new WeakMap<Readonly<Record<string, string>>, ReadonlyMap<string, string>>()
@@ -173,6 +175,23 @@ function spliced(now: string, text: string, held: Rewritten): Said {
   return "refused" in held ? refusing(held.refused) : stating(splicing(now, text, held.splices))
 }
 
+type Referred = {
+  readonly from: number
+  readonly to: number
+  readonly said: string
+}
+
+function referredIn(text: string): readonly Referred[] {
+  const found: Referred[] = []
+  for (const one of text.matchAll(REFERENCED)) {
+    const said = one[1] ?? one[2]
+    if (said === undefined) continue
+    const from = one.index + one[0].length - said.length - 1
+    found.push({ from, to: from + said.length, said })
+  }
+  return found
+}
+
 export function changeImports(
   was: string,
   now: string,
@@ -190,6 +209,11 @@ export function changeImports(
       (held ? null : withinFor(was, dir, one.text, landing, known))
     if (next === null || next === one.text) continue
     splices.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
+  }
+  for (const one of referredIn(text)) {
+    const next = nextFor(was, now, dir, one.said, landing, true)
+    if (next === null || next === one.said) continue
+    splices.push({ from: one.from, to: one.to, put: next })
   }
   const runtime = runtimeOver(was, now, text, landing, known)
   if ("refused" in runtime) return refusing(runtime.refused)

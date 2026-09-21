@@ -195,6 +195,10 @@ export const importRepointing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file a triple-slash reference names follows what moved as a specifier does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change wanting these edits reads them here rather than from another change.",
     },
   ],
