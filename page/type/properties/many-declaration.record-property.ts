@@ -16,6 +16,7 @@ export const manyDeclaration = {
     { pageProperty: "boolean-property/secret", required: false, many: false },
     { pageProperty: "relation-property/unique", required: false, many: false },
     { pageProperty: "relation-property/unique-property", required: false, many: false },
+    { pageProperty: "boolean-property/list-repeats", required: false, many: false },
   ],
   decisions: [
     {

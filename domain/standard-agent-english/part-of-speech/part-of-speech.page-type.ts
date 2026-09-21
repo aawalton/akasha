@@ -11,6 +11,7 @@ export const partOfSpeech = {
     "part-of-speech/determiner",
     "part-of-speech/preposition",
     "part-of-speech/adjective",
+    "part-of-speech/conjunction",
   ],
   extends: ["page-type/domain"],
   decisions: [

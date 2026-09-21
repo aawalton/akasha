@@ -95,6 +95,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/frame-focus-mode.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/full-bleed.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/header-show-cover.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/list-repeats.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/mark-read-on-end.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/mortal.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/required.boolean-property.ts"}

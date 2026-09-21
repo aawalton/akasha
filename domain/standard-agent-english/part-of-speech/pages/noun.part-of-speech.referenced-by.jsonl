@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
 {"propertySlug":"part-of-speech","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/adjective.part-of-speech.ts","id":"01a0c5f9-2164-7ac3-93fa-caec20932926"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/conjunction.part-of-speech.ts","id":"01a0c60f-289f-7bbf-be7b-ae0e872a03e0"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/noun.part-of-speech.ts","id":"01a0c564-f7af-72fe-a45d-895e26d8b701"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}

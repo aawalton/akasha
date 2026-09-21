@@ -71,6 +71,7 @@ export const pageType = {
     "text-property/sequence-order-by",
     "true-property/many-valued",
     "text-property/loaded-export",
+    "boolean-property/list-repeats",
   ],
   extends: ["page-type/domain"],
   properties: [

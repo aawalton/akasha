@@ -39,6 +39,7 @@ test("a page type carries the properties it declares itself", () => {
       maxLength: null,
       uncommitted: false,
       secret: false,
+      repeats: false,
     },
   ])
 })

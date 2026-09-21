@@ -21,7 +21,13 @@ export const construction = {
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "relation-property/phrase-kind", required: true, many: false },
-    { pageProperty: "one-of-property/written-from", required: true, many: true, maxCount: null },
+    {
+      pageProperty: "one-of-property/written-from",
+      required: true,
+      many: true,
+      maxCount: null,
+      repeats: true,
+    },
     { pageProperty: "text-property/admits", required: true, many: true, maxCount: null },
     { pageProperty: "text-property/refuses", required: false, many: true, maxCount: null },
   ],

@@ -48,6 +48,7 @@ export type Carried = {
   readonly fixed?: string
   readonly uncommitted: boolean
   readonly secret: boolean
+  readonly repeats?: boolean
 }
 
 export type Source = {
@@ -160,6 +161,7 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
       fixed: textAt(one, "fixed") ?? undefined,
       uncommitted: one["uncommitted"] === true,
       secret: one["secret"] === true,
+      repeats: one["repeats"] === true,
     })
   }
   return carried

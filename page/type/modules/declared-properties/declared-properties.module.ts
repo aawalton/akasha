@@ -123,5 +123,9 @@ export const declaredProperties = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here walks the pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declaration saying its list repeats a value is answered with that saying.",
+    },
   ],
 } as const satisfies Module

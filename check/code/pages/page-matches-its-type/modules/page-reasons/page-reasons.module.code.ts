@@ -85,7 +85,7 @@ export function reasonsIn(
     if (one.many && listed && one.maxCount !== null && held.length > one.maxCount) {
       said.push(`holds ${held.length} of \`${slug}\`, over the count of ${one.maxCount}`)
     }
-    if (one.many && listed) {
+    if (one.many && listed && one.repeats !== true) {
       const twice = twiceIn(held, slug)
       if (twice !== null) said.push(twice)
     }

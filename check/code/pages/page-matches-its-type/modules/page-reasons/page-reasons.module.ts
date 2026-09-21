@@ -60,5 +60,9 @@ export const pageReasons = {
       statement:
         "A record whose property names members is judged against the member whose fields it fits.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A list whose declaration says the list repeats is not judged for its repeats.",
+    },
   ],
 } as const satisfies Module

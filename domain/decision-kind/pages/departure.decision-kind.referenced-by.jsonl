@@ -2481,6 +2481,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.ts","id":"01a08248-90ee-7792-9275-0a291dfa50af"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.ts","id":"01a08245-78cc-7f77-96bc-39695e9c2410"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/adjective.part-of-speech.ts","id":"01a0c5f9-2164-7ac3-93fa-caec20932926"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/conjunction.part-of-speech.ts","id":"01a0c60f-289f-7bbf-be7b-ae0e872a03e0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
@@ -3132,6 +3133,7 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/header-fields.text-property.ts","id":"01a0683a-620a-7905-b43d-ad803b4fae71"}
 {"propertySlug":"decision-kind","path":"page/type/properties/image-media.record-property.ts","id":"01a062b8-8775-7002-af76-179b0e1a6c4c"}
 {"propertySlug":"decision-kind","path":"page/type/properties/length-property-id.text-property.ts","id":"01a0683a-620a-7c9f-8c62-ed7e2e10a9ca"}
+{"propertySlug":"decision-kind","path":"page/type/properties/list-repeats.boolean-property.ts","id":"01a0c612-d86d-7c56-8264-84dffa72b070"}
 {"propertySlug":"decision-kind","path":"page/type/properties/load-scroll.text-property.ts","id":"01a0683a-620a-720b-9442-1f4e5f29ea33"}
 {"propertySlug":"decision-kind","path":"page/type/properties/loaded-export.text-property.ts","id":"01a0b86a-b8c8-7c0c-a118-b4007378118e"}
 {"propertySlug":"decision-kind","path":"page/type/properties/many-declaration.record-property.ts","id":"01a090a6-984a-7b9d-99e6-299e1fff2958"}
