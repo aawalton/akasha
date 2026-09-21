@@ -6,5 +6,17 @@ export const eppieMusicImprovements = {
   slug: "eppie-music-improvements",
   domain: "domain/music",
   persona: "persona/eppie",
-  intentStack: [],
+  intentStack: [
+    {
+      statement: "Every listen is tracked against a track rather than a release or a song.",
+      workingMemory:
+        "Mostly met. 3,665 of 4,059 track pages carry the listening, back-filled by `akasha music heard-tracks` from the releases Alan had marked finished, and the hourly `music-capture` service runs that command after each capture, so a new play reaches its track. Coverage is what is left: track pages exist for about a dozen artists, so a play of anything else reaches the day's listens and the heard music page and no track. `spotify-sync` files the rest on a thirty-day share of the artists followed.\n",
+    },
+    {
+      statement:
+        "A release reads its listening off the tracks it carries rather than holding its own.",
+      workingMemory:
+        "Part met. `akasha music release-progress` reads a covered release's status and progress off its tracks, and the hourly `music-capture` service runs it last. A release is covered where its tracks run as long as the release runs: 828 of 3,130 are and read that way, 2,302 are not and keep what they hold, which is the gate stopping thin coverage from unwinding what Alan marked finished. This completes as `spotify-sync` files the remaining tracks.\n",
+    },
+  ],
 } as const satisfies Initiative
