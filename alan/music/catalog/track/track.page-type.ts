@@ -57,6 +57,14 @@ export const track = {
       statement:
         "A track states what kind of recording it is, and the song it names states nothing of that.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track names every release carrying that track, and where on each one it sits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track states the id Spotify gives it on each release carrying that track.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
