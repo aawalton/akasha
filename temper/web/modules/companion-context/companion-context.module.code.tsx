@@ -2,10 +2,6 @@
 
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
-  decodeCompanion,
-  encodeCompanion,
-} from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
-import {
   applyCompanionMetadata,
   type CompanionBuildMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
@@ -13,6 +9,10 @@ import {
   type BuildVisibility,
   toBuildVisibility,
 } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
+import {
+  decodeCompanion,
+  encodeCompanion,
+} from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompanion as useCompanionZero } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"

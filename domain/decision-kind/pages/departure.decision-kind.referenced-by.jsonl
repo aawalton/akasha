@@ -4696,7 +4696,6 @@
 {"propertySlug":"decision-kind","path":"temper/command/modules/venue-trace-saying/venue-trace-saying.module.ts","id":"01a09b2e-baec-7b08-bcf7-07f61d70d416"}
 {"propertySlug":"decision-kind","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}
 {"propertySlug":"decision-kind","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts","id":"01a07c93-f240-7b33-9d06-f8459b129064"}
-{"propertySlug":"decision-kind","path":"temper/companion-codec/temper-companion-codec.domain.ts","id":"01a062e7-4dda-7f1d-8fd9-fe2d9062ea42"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts","id":"01a060cf-b0b2-743e-9d82-ea94a110b9cb"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/shopping-settings/shopping-settings.module.ts","id":"01a060cf-b0b1-75a2-8041-f9ae780018d3"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.ts","id":"01a060cf-b0af-7945-b272-f1393abf11ca"}
@@ -5055,6 +5054,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/import-redirect/import-redirect.module.ts","id":"01a09097-3491-7938-9cab-3a376e69de9f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.ts","id":"01a0609f-53fa-76c3-b842-f36808ca5db3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/temper-build-support.domain.ts","id":"01a0609f-53f7-7460-afb2-168bb75adada"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/companion-codec/temper-companion-codec.domain.ts","id":"01a062e7-4dda-7f1d-8fd9-fe2d9062ea42"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/modules/race-source/race-source.module.ts","id":"01a061a7-9bb3-769a-973c-5b550c916d32"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/character-build.page-type.ts","id":"01a06835-fae8-7243-8c39-219aa5e07daf"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-character-name.text-property.ts","id":"01a0a545-7c20-7000-8e8e-c96525a19c3e"}

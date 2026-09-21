@@ -5,7 +5,7 @@ import {
   decodeV49,
   ESO_VERSION_49,
   encodeV49,
-} from "akasha/temper/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts"
+} from "akasha/temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts"
 import {
   base64urlToBytes,
   bytesToBase64url,

@@ -36,7 +36,7 @@ import {
   getCompanionTraitIndex,
   getCompanionWeaponTypeId,
   getCompanionWeaponTypeIndex,
-} from "akasha/temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
+} from "akasha/temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
 import {
   type BitReaderState,
   makeBitReader,

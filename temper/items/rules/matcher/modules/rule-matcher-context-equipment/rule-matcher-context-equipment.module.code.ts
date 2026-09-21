@@ -1,4 +1,3 @@
-import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import {
   compileWantedCompanionEquipmentForBuild,
   compileWantedEquipmentForBuild,
@@ -19,6 +18,7 @@ import {
   resolveCharacterToggles,
   resolveCompanionToggles,
 } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 export function compileWantedEquipment(

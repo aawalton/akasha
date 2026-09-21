@@ -5208,9 +5208,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/master-writ-probe-reading/master-writ-probe-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/name-ordering/name-ordering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/venue-trace-saying/venue-trace-saying.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companion-codec/modules/companion-codec/companion-codec.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/shopping-settings/shopping-settings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.ts"}
@@ -5614,6 +5611,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-support/modules/eso-name/eso-name.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-support/modules/import-redirect/import-redirect.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/modules/build-types/build-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/modules/race-source/race-source.module.ts"}

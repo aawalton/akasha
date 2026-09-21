@@ -2,7 +2,7 @@
 {"propertySlug":"import","fileName":"companion-skill-slots.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-skill-slots.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-skill-slots.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-skill-slots.module.code.ts","path":"temper/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-skill-slots.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-skill-slots.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-skill-slots.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-skill-slots.module.code.ts","path":"temper/web/modules/companion-skill-bar-panel-card/companion-skill-bar-panel-card.module.code.tsx"}

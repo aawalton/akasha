@@ -12,7 +12,7 @@ import {
   decodeCompanion,
   ESO_VERSION_48,
   encodeCompanion,
-} from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
+} from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import {
   getCompanionArmorWeightId,
   getCompanionId,
@@ -20,11 +20,11 @@ import {
   getCompanionSkillId,
   getCompanionTraitId,
   getCompanionWeaponTypeId,
-} from "akasha/temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
+} from "akasha/temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
 import {
   ESO_VERSION_49,
   encodeV49,
-} from "akasha/temper/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts"
+} from "akasha/temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts"
 import { base64urlToBytes } from "akasha/temper/player/character/build/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
 import { stampedWith } from "akasha/temper/player/character/build/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.code.ts"
 import {
