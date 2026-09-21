@@ -40,4 +40,14 @@ export const theTower = {
     "game-mechanic/phys-attack",
     "game-mechanic/leveling",
   ],
+  attributes: [
+    "game-attribute/finesse",
+    "game-attribute/intellect",
+    "game-attribute/luck",
+    "game-attribute/might",
+    "game-attribute/perception",
+    "game-attribute/presence",
+    "game-attribute/vitality",
+    "game-attribute/will",
+  ],
 } as const satisfies Game
