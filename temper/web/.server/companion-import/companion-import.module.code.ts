@@ -1,9 +1,9 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
-import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
+import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
@@ -13,6 +13,7 @@ import type {
 } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { extractCompanionMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 
 export type ImportCompanionResult =
   | { buildId: BuildId; buildName: string }
@@ -24,15 +25,12 @@ export async function importCompanionFromHash(
   request: Request,
   hash: BuildHash
 ): Promise<{ result: ImportCompanionResult; headers: Headers }> {
-  const { user, headers: authHeaders } = await getUser(request)
-  if (!user) {
-    return { result: { error: "not-authenticated" }, headers: authHeaders }
-  }
-
-  const userId = user.id
-  const { headers } = createServerClient(request)
-  for (const value of authHeaders.getSetCookie()) {
-    headers.append("Set-Cookie", value)
+  const headers = new Headers()
+  const reader = await signedInAs(TEMPER_SITE, request)
+  const reached = reader === null ? null : await accountOfContributor(reader)
+  const userId = reached?.ok === true ? reached.account : null
+  if (userId === null) {
+    return { result: { error: "not-authenticated" }, headers }
   }
 
   const buildState = decodeCompanion(hash)
