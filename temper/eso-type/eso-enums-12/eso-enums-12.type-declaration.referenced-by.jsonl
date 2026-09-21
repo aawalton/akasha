@@ -15,6 +15,6 @@
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-build/character-capture-build.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso-type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

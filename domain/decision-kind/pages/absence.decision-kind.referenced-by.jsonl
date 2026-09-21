@@ -1771,6 +1771,7 @@
 {"propertySlug":"decision-kind","path":"temper/build-support/temper-build-support.domain.ts","id":"01a0609f-53f7-7460-afb2-168bb75adada"}
 {"propertySlug":"decision-kind","path":"temper/capture-datamining-reader/modules/saved-variables-schema/saved-variables-schema.module.ts","id":"01a0609d-90df-725b-9ebe-3417953f530a"}
 {"propertySlug":"decision-kind","path":"temper/capture-datamining-reader/temper-capture-datamining-reader.domain.ts","id":"01a0609d-90dd-75fe-af4b-e55cf72da4b3"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.ts","id":"01a0608a-15b1-7b7c-a207-279aad7165d2"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-payload/datamining-payload.module.ts","id":"01a0608a-15b1-7c8a-abad-1fed4e8585a6"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/temper-capture-datamining.domain.ts","id":"01a0608a-15b0-78f6-8e8e-282460347005"}
@@ -1796,7 +1797,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.ts","id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
-{"propertySlug":"decision-kind","path":"temper/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.ts","id":"01a06360-7480-7001-8431-aa4304c430ae"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.ts","id":"01a06333-1bcc-79b7-bb9c-18d82e7b134a"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.ts","id":"01a06333-1bcc-7c92-9074-8986a87d036f"}
