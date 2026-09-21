@@ -48,6 +48,11 @@ export const nimueImageManagement = {
       workingMemory:
         "`~/To Process/Sorted` holds the grade as a folder and nowhere else: S+ 1, S 19, S- 29, A+ 97, A 160, A- 299, B+ 402, B 222, B- 166, 1,395 files in all. A migration reading only bytes loses every mark. 624 of those files are byte-identical to a file elsewhere in the tree, so a dedup keeping an arbitrary copy loses the mark too, and the graded copy is the one to keep. `To Sort` holds 1,520 files carrying no mark.",
     },
+    {
+      statement: "Every image page and its bytes sit in one folder.",
+      workingMemory:
+        "Today they are scattered over four page types in three trees: 39 anchors under `persona/anchor-image/pages`, 38 covers under `persona/cover-image/pages`, 44 wallpapers under `persona/wallpaper/pages`, the `image` page type under `infrastructure/inference/generation/image` with no pages at all, and 80 committed PNGs beside persona pages under `persona/pages`. One folder is within what akasha already does: `alan/music/catalog/track/pages` holds 8,118 entries.",
+    },
   ],
   constraints: [
     "An image's bytes are a file property akasha does not commit, and the image's page is committed.",
