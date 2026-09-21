@@ -2,6 +2,8 @@
 {"definition":"a text property whose value Standard Agent English judges"}
 {"extends":["page-type/text-property"]}
 {"id":"01a07c99-fb58-79b6-a204-a2bf1f056902"}
+{"parts":["relation-property/start-symbol"]}
+{"properties":[{"pageProperty":"relation-property/start-symbol","required":false,"many":false}]}
 {"schema":"jsonl"}
 {"shapes":"jsonl"}
 {"slug":"standard-agent-english-property"}

@@ -145,6 +145,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"contributor","unique":null,"uniquePropertySlug":null,"slug":"sign-in-contributor","propertySlug":"contributor","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"song","unique":null,"uniquePropertySlug":null,"slug":"song","propertySlug":"song","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-special-effect-type","unique":null,"uniquePropertySlug":null,"slug":"special-effect","propertySlug":"special-effect","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"phrase-kind","unique":null,"uniquePropertySlug":null,"slug":"start-symbol","propertySlug":"start-symbol","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"sub-statements","propertySlug":"sub-statements","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"subagent-kind","unique":null,"uniquePropertySlug":null,"slug":"subagent-kind","propertySlug":"subagent-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"shell-script","unique":null,"uniquePropertySlug":null,"slug":"sync-script","propertySlug":"sync-script","fileName":null,"folderName":null}

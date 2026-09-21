@@ -27,4 +27,6 @@ export const standardAgentEnglishProperty = {
   types: "ts",
   schema: "jsonl",
   shapes: "jsonl",
+  properties: [{ pageProperty: "relation-property/start-symbol", required: false, many: false }],
+  parts: ["relation-property/start-symbol"],
 } as const satisfies PageType
