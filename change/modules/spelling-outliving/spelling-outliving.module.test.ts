@@ -27,10 +27,13 @@ const LONGER = "akasha/one/longer.module.code.ts"
 
 const SOWN = "akasha/one/sown.module.code.ts"
 
+const KEPT = "akasha/one/bare.module.uncommitted.ts"
+
 const HELD: Readonly<Record<string, string>> = {
   [BARE]: 'export const was = "held-day"\n',
   [LONGER]: 'export const was = "held-day-slug"\n',
   [SOWN]: 'export const was = "held-day"\n',
+  [KEPT]: 'export const bareModuleUncommitted = { "was": "held-day" } as const\n',
 }
 
 const nothing = (): boolean => false
@@ -50,6 +53,10 @@ test("a file spelling the old name whole is named", () => {
 
 test("a longer name holding the old name is passed over", () => {
   expect(namedIn(survivedIn(worldHolding(), WAS, nothing))).not.toContain(LONGER)
+})
+
+test("a sidecar of uncommitted values is left out", () => {
+  expect(namedIn(survivedIn(worldHolding(), WAS, nothing))).not.toContain(KEPT)
 })
 
 test("a file a generator writes is left out", () => {

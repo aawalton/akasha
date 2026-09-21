@@ -7,6 +7,7 @@ import {
   facingOn,
   generatedIn,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
+import { uncommittedSpelled } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 const APART = "[A-Za-z0-9-]"
@@ -51,7 +52,7 @@ export function survivedIn(
   const held = wholeWord(was)
   const named: string[] = []
   for (const path of found) {
-    if (generated(path)) continue
+    if (uncommittedSpelled(path) || generated(path)) continue
     const text = readableIn(world, path)
     if (text === null || !held.test(text)) continue
     named.push(path)

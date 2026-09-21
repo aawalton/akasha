@@ -27,6 +27,10 @@ export const spellingOutliving = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sidecar of uncommitted values is left out, its own writer writing it again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name in more files than the ceiling is counted rather than named.",
     },
     {
