@@ -5,7 +5,7 @@ export const dalla = {
   type: "page-type/seat",
   slug: "dalla",
   persona: "persona/dalla",
-  assignmentSlug: "initiative/dalla-worktrees",
+  assignmentSlug: "initiative/dalla-resource-management",
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
