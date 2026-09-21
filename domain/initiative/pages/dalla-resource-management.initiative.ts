@@ -80,7 +80,6 @@ export const dallaResourceManagement = {
       statement:
         "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
     },
-    { statement: "`tests-pass` runs under a processor ceiling matched to its cost." },
     { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
     {
       statement: "Every check an agent runs has a memory ceiling of its own.",
