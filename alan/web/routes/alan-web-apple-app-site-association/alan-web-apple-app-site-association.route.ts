@@ -4,7 +4,7 @@ export const alanWebAppleAppSiteAssociation = {
   id: "01a0bbaa-1f47-7bfa-b982-1825d476f17e",
   type: "page-type/route",
   slug: "alan-web-apple-app-site-association",
-  definition: "what Apple reads before it lets a link or a passkey reach the app",
+  definition: "what Apple reads before it lets a link reach the app",
   code: "ts",
   urlPath: ".well-known/apple-app-site-association",
   decisions: [
@@ -31,8 +31,8 @@ export const alanWebAppleAppSiteAssociation = {
         "One path opens the app, so every other address on this site stays in the browser that opened it.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Web credentials are declared before any passkey exists.",
+      decisionKind: "decision-kind/absence",
+      statement: "No web credential is declared, because the provider holds every passkey.",
     },
   ],
 } as const satisfies Route

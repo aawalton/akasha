@@ -8,11 +8,6 @@ export const nimueAuth = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "A contributor signs in with a passkey.",
-      workingMemory:
-        "A passkey needs its credential kept, so the stateless cookie does not survive it: the plugin wants `user` and `session` models too, and any adapter turns off the JWE refresh. The way out is taking the ceremony alone and issuing our own cookie. Each site is its own relying party, avoiding Related Origin Requests. With no database it falls back to memory and loses every credential. The app is alanwalton.com in a webview, so a passkey there wants an Associated Domains entitlement and an AASA file.",
-    },
-    {
       statement: "A person signing in to a product sees that product's own name.",
       workingMemory:
         "Branding in Google Cloud belongs to the project rather than to the client, so one project across every site shows one name on every consent screen. A product named on its own needs a project of its own, with its own client, its own secrets and its own consent screen. One project serves all of them until then.",

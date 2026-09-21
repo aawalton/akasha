@@ -11,7 +11,6 @@ const ASSOCIATION = {
       },
     ],
   },
-  webcredentials: { apps: [APP_ID] },
 }
 
 const AS_JSON = "application/json"

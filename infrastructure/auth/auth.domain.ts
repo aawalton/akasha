@@ -77,6 +77,15 @@ export const auth = {
     { decisionKind: "decision-kind/departure", statement: "A contributor signs in with Google." },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A passkey is held by the provider, and no site here is a relying party.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "Nothing here reads a passkey, so a person signing in with one signs in as Google.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "No site asks supabase who a caller is.",
     },
     {
