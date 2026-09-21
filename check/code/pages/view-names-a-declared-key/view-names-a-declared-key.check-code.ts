@@ -56,7 +56,37 @@ export const viewNamesADeclaredKey = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every view is judged rather than the views a change names.",
+      statement: "An audit judges every view the index files.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change judges the views that change could have made stale.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view the change writes is among those.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view listing a page type the change writes is among those.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view listing a page type under one the change writes is among those.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A view listing a page type that carries a page property the change writes is among those.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change writing the view page type or a property of it reaches every view.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "What a change costs here follows the change and the type graph, not how many views there are.",
     },
     {
       decisionKind: "decision-kind/departure",

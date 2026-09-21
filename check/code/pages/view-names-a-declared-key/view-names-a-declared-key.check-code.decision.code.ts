@@ -1,4 +1,7 @@
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { type Parted, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -8,6 +11,7 @@ import {
   viewKeying,
   viewKinds,
 } from "akasha/page/view/modules/key-naming/key-naming.module.code.ts"
+import { viewPageType } from "akasha/page/view/properties/view-page-type.relation-property.ts"
 
 export type Viewing = {
   readonly path: string
@@ -19,15 +23,90 @@ export type Naming = {
   readonly at: string
 }
 
-export function viewsIn(shadow: Shadow): readonly Viewing[] {
+const PAGE_TYPE = "page-type"
+
+const PAGE_PROPERTY = "page-property"
+
+const LISTS = viewPageType.slug
+
+const NO_KINDS: ReadonlySet<string> = new Set()
+
+type Kinding = {
+  readonly views: ReadonlySet<string>
+  readonly properties: ReadonlySet<string>
+}
+
+const KINDING = new WeakMap<Answering, Kinding>()
+
+function kindingIn(index: Answering): Kinding {
+  const found = KINDING.get(index)
+  if (found !== undefined) return found
+  const made = { views: viewKinds(index), properties: index.kindsUnder(PAGE_PROPERTY) }
+  KINDING.set(index, made)
+  return made
+}
+
+function viewingAt(shadow: Shadow, paths: Iterable<string>): readonly Viewing[] {
   const found: Viewing[] = []
-  for (const kind of viewKinds(shadow.index)) {
-    for (const one of shadow.index.everyOfType(kind)) {
-      const value = shadow.pageOf(one.path)
-      if (value !== null) found.push({ path: one.path, value })
+  for (const path of [...new Set(paths)].sort()) {
+    const value = shadow.pageOf(path)
+    if (value !== null) found.push({ path, value })
+  }
+  return found
+}
+
+export function viewsIn(shadow: Shadow): readonly Viewing[] {
+  const found: string[] = []
+  for (const kind of kindingIn(shadow.index).views) {
+    for (const one of shadow.index.everyOfType(kind)) found.push(one.path)
+  }
+  return viewingAt(shadow, found)
+}
+
+function kindsMoved(index: Answering, said: Parted): ReadonlySet<string> | null {
+  if (said.pageType === PAGE_TYPE) return index.kindsUnder(said.slug)
+  if (!kindingIn(index).properties.has(said.pageType)) return null
+  return index.typesCarrying(`${said.pageType}/${said.slug}`)
+}
+
+function listingKind(index: Answering, kind: string, found: Set<string>): undefined {
+  const views = kindingIn(index).views
+  if (views.has(kind)) {
+    for (const one of index.everyOfType(kind)) found.add(one.path)
+  }
+  for (const listed of index.listedAt(PAGE_TYPE, kind)) {
+    for (const one of index.namersAt(listed.path)) {
+      if (one.propertySlug !== LISTS) continue
+      if (views.has(partedIn(one.path)?.pageType ?? "")) found.add(one.path)
     }
   }
-  return found.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+}
+
+function reachedBy(
+  change: Change,
+  shadow: Shadow,
+  path: string,
+  said: Parted,
+  found: Set<string>
+): undefined {
+  const now = kindsMoved(shadow.index, said)
+  if (now === null) return
+  const stale = now.size === 0 && change.after(path) === null
+  const index = stale ? shadow.before() : shadow.index
+  const kinds = stale ? (kindsMoved(index, said) ?? NO_KINDS) : now
+  for (const kind of kinds) listingKind(index, kind, found)
+}
+
+export function viewsReachedBy(change: Change, shadow: Shadow): readonly Viewing[] {
+  const views = kindingIn(shadow.index).views
+  const found = new Set<string>()
+  for (const path of change.changed) {
+    const said = partedIn(path)
+    if (said === null || said.sections.length > 0) continue
+    if (views.has(said.pageType)) found.add(path)
+    reachedBy(change, shadow, path, said, found)
+  }
+  return viewingAt(shadow, found)
 }
 
 function recordIn(held: unknown): Value | null {
