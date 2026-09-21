@@ -6085,6 +6085,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/recipe-entries-36/recipe-entries-36.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/recipe-entries-37/recipe-entries-37.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/recipe-types/recipe-types.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/skill-morphs-checker/skill-morphs-checker.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/skill-morphs-resolver/skill-morphs-resolver.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/applicable-eso-skill-lines/applicable-eso-skill-lines.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/build-morph-entry/build-morph-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.ts"}
@@ -6098,11 +6103,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/skill-morph-progress-paths/skill-morph-progress-paths.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/skill-organization/skill-organization.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-morph-access/modules/character-skill-morph-transform/character-skill-morph-transform.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-morph-access/modules/morph-completion-shapes/morph-completion-shapes.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-morph-access/modules/skill-morphs-checker/skill-morphs-checker.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-morph-access/modules/skill-morphs-resolver/skill-morphs-resolver.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-config-file/watcher-config-file.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-config/watcher-config.module.ts"}

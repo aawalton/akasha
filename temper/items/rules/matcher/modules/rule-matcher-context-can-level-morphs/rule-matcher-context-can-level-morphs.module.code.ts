@@ -3,8 +3,8 @@ import type { CompletionCharacterInput } from "akasha/temper/items/rules/core/mo
 import type {
   MorphCharacterCompletion,
   MorphCharacterRow,
-} from "akasha/temper/skill-morph-access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
-import { computeCharacterCanLevelMorphs } from "akasha/temper/skill-morph-access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts"
+} from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
+import { computeCharacterCanLevelMorphs } from "akasha/temper/player/skill-morph/access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts"
 
 function isMorphCharacterCompletion(value: unknown): value is MorphCharacterCompletion {
   return isObjectRecord(value)

@@ -1,3 +1,7 @@
+import {
+  ESO_CLASS_ID_TO_CLASS_ID,
+  ESO_RACE_ID_TO_RACE_ID,
+} from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import { transformAccountLoreUnion } from "akasha/temper/player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
@@ -20,10 +24,6 @@ import type {
   CharacterTraitResearchProgress,
   CompletionCharacter,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import {
-  ESO_CLASS_ID_TO_CLASS_ID,
-  ESO_RACE_ID_TO_RACE_ID,
-} from "akasha/temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 
 const MAX_CHARACTER_LEVEL = 50
 const MAX_ALLIANCE_RANK = 50

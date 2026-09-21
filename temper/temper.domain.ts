@@ -11,7 +11,6 @@ export const temper = {
     "domain/temper-command",
     "domain/temper-player-completion",
     "domain/temper-player-completion-state",
-    "domain/temper-skill-morph-access",
     "module/addon-init",
     "module/assert-schema-matches-payload",
     "module/auto-quest-trace",

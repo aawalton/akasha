@@ -19,6 +19,7 @@ export const temperSkillMorph = {
     "module/skill-morph-progress-paths",
     "module/skill-organization",
     "module/subclassing-morph-progress",
+    "domain/temper-skill-morph-access",
   ],
   decisions: [
     {

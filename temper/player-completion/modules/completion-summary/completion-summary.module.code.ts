@@ -5,6 +5,10 @@ import {
   skillLines,
 } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import { getRacialSkillLineIdForRace } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
+import {
+  EXCLUDED_CATEGORIES,
+  EXCLUDED_SKILL_LINES,
+} from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import {
   buildMorphRankMap,
@@ -29,10 +33,6 @@ import type {
   CharacterZoneCompletionProgress,
   CompletionCharacter,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import {
-  EXCLUDED_CATEGORIES,
-  EXCLUDED_SKILL_LINES,
-} from "akasha/temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 
 interface CharacterTotals {
   name: string

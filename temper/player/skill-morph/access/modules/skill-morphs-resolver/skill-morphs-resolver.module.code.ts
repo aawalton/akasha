@@ -1,13 +1,13 @@
-import { computeCharacterMorphProgress } from "akasha/temper/player/skill-morph/modules/character-morph-progress/character-morph-progress.module.code.ts"
-import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
-import { resolveSkillMorphProgressByPath } from "akasha/temper/player/skill-morph/modules/skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
   ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID,
   getApplicableSkillLineIds,
-} from "akasha/temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
-import type { MorphCharacterRow } from "akasha/temper/skill-morph-access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
+} from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
+import type { MorphCharacterRow } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
+import { computeCharacterMorphProgress } from "akasha/temper/player/skill-morph/modules/character-morph-progress/character-morph-progress.module.code.ts"
+import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
+import { resolveSkillMorphProgressByPath } from "akasha/temper/player/skill-morph/modules/skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts"
 
 interface TaskProgress {
   current: number

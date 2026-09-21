@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
-{"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/web/modules/character-actions/character-actions.module.code.ts"}
