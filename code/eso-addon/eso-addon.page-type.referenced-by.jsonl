@@ -46,6 +46,5 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/quests-addon/temper-quests-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/selector-addon/temper-selector-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/trading-addon/temper-trading-addon.eso-addon.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/the-forty-eight-eso-addons-are-packages-by-three-mechanisms-rather-than-by-one-declaration.finding.ts","id":"01a08834-91c7-7e6b-8a04-3f9d6e21b57c"}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"target-page-type","path":"code/held-addon/properties/eso-addon.relation-property.ts","id":"01a0819d-6872-7b9e-8c67-c011834d8ab8"}
