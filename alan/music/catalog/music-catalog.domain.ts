@@ -45,5 +45,10 @@ export const musicCatalog = {
       decisionKind: "decision-kind/absence",
       statement: "No song waits on a record in MusicBrainz to be filed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A release reads its listening off the tracks it carries rather than holding its own.",
+    },
   ],
 } as const satisfies Domain

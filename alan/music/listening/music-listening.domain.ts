@@ -8,5 +8,9 @@ export const musicListening = {
   parts: ["page-type/heard-music", "service-workstation/music-capture"],
   decisions: [
     { decisionKind: "decision-kind/departure", statement: "Listen history syncs every hour." },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every listen is tracked against a track rather than a release or a song.",
+    },
   ],
 } as const satisfies Domain
