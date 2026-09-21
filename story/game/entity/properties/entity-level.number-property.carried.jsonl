@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An entity in a game that levels nobody says no level."}]}
+{"definition":"how far this one has come up its game's ladder"}
+{"id":"01a0c633-ff8f-783d-ba86-1f1ce92d4b42"}
+{"max":null}
+{"nullable":false}
+{"propertySlug":"level"}
+{"slug":"entity-level"}
+{"type":"page-type/number-property"}
+{"types":"ts"}
