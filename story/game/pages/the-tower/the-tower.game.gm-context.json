@@ -300,8 +300,9 @@
     {
       "id": "flat-leveling",
       "bands": [
-        "**The rule: character `level` advances +1 per floor cleared. There is no XP.** Leveling IS the floor-clear",
-        "ding — applied on chapter close at a floor boundary, one level per floor, no exceptions.",
+        "**The rule: `game-mechanic/leveling` settles the level. There is no XP.** It takes `{\"floorsCleared\":n}` and",
+        "answers the level and the attribute points earned. Leveling IS the floor-clear ding — applied on chapter",
+        "close at a floor boundary, one level per floor, no exceptions. Ask the mechanic; do not count it out.",
         "**No XP, no curve, no `xp` / `xpMax`.** XP was removed by design: it was a fiction that added load without",
         "value, calibrated to deliver exactly one level per floor anyway, so the floor boundary is the honest unit.",
         "Nothing in the engine derives from xp/xpMax (audited 2026-06-24).",
