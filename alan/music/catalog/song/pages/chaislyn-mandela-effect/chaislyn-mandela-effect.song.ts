@@ -4,6 +4,7 @@ export const chaislynMandelaEffect = {
   id: "01a0ba64-abfc-755a-981b-ef673d20b024",
   type: "page-type/song",
   slug: "chaislyn-mandela-effect",
+  rank: "A+",
   title: "Mandela Effect",
   artist: "artist/chaislyn",
   performed: true,
