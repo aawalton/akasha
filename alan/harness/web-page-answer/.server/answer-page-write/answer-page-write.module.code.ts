@@ -1,3 +1,4 @@
+import { mayWrite } from "akasha/alan/harness/web-page-answer/.server/reader-access/reader-access.module.code.ts"
 import type { ReadUser } from "akasha/page/access/modules/answer/answer.module.code.ts"
 import {
   readPageWrite,
@@ -36,6 +37,11 @@ export async function answerPageWrite(
   const asked = readPageWrite(body)
   if (asked === null) {
     return Response.json({ error: TAKES }, { status: 400, headers })
+  }
+  const pageTypeSlug = String(asked.args["pageTypeSlug"])
+  const reach = await mayWrite(user, pageTypeSlug)
+  if (!reach.permitted) {
+    return Response.json({ error: reach.why }, { status: 403, headers })
   }
   try {
     return Response.json({ result: await runPageWrite(asked) }, { headers })

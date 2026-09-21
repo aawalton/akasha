@@ -29,5 +29,9 @@ export const readerAccess = {
       decisionKind: "decision-kind/departure",
       statement: "A person's accesses are held for a few seconds, so one roster is one reading.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An access carrying a narrow lets its holder read and never write.",
+    },
   ],
 } as const satisfies Module

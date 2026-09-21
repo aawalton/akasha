@@ -23,5 +23,10 @@ export const answerPageWrite = {
       decisionKind: "decision-kind/departure",
       statement: "A write that throws is answered as a bad request rather than as a failure.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A writer writes a page type only where that writer's person holds an access naming it.",
+    },
   ],
 } as const satisfies Module

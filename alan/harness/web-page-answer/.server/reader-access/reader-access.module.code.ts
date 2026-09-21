@@ -6,6 +6,7 @@ import {
 import {
   ANONYMOUS_PERSON,
   DEEDS,
+  type Deed,
   type Grant,
   pageTypeGrantsFor,
   type Reach,
@@ -55,7 +56,7 @@ const READS_NOTHING: Reach = {
   why: "no person holds the session this was asked under",
 }
 
-export async function mayRead(user: object | null, pageTypeSlug: string): Promise<Reach> {
+async function reachFor(user: object | null, pageTypeSlug: string, deed: Deed): Promise<Reach> {
   const personSlug = await personOf(user)
   if (personSlug === null) return READS_NOTHING
   const grants = await heldIn(grantsHeld, personSlug, async () => {
@@ -64,5 +65,21 @@ export async function mayRead(user: object | null, pageTypeSlug: string): Promis
     console.warn(`[reader-access] the access pages went unread: ${held.why}`)
     return []
   })
-  return reachOf(grants, pageTypeSlug, DEEDS.READ, personSlug)
+  return reachOf(grants, pageTypeSlug, deed, personSlug)
+}
+
+export function mayRead(user: object | null, pageTypeSlug: string): Promise<Reach> {
+  return reachFor(user, pageTypeSlug, DEEDS.READ)
+}
+
+export function narrowedWrite(reach: Reach): string | null {
+  if (!reach.permitted) return null
+  if (reach.narrows === null) return null
+  return "the access naming this page type for writing carries a narrow, and a write is not held to one"
+}
+
+export async function mayWrite(user: object | null, pageTypeSlug: string): Promise<Reach> {
+  const reach = await reachFor(user, pageTypeSlug, DEEDS.WRITE)
+  const why = narrowedWrite(reach)
+  return why === null ? reach : { permitted: false, why }
 }
