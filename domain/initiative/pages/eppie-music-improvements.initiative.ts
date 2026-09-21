@@ -6,5 +6,12 @@ export const eppieMusicImprovements = {
   slug: "eppie-music-improvements",
   domain: "domain/music",
   persona: "persona/eppie",
-  intentStack: [],
+  intentStack: [
+    {
+      statement:
+        "A Spotify playlist holds the music Alan has not heard by the artists Alan follows.",
+      workingMemory:
+        "Not started. The unheard pool reads off the collection rollup: a release short of its own length under a followed artist. `SPOTIFY_SCOPES` in `spotify-scopes.module.code.ts` holds five read scopes and no `playlist-modify-private`, and a test asserts that exact list, so adding the scope changes both and Alan must re-run the PKCE consent. Creating a playlist also needs Alan's Spotify user id, which `GET /me` answers and nothing reads yet.",
+    },
+  ],
 } as const satisfies Initiative
