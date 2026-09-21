@@ -172,6 +172,11 @@ export const game = {
       decisionKind: "decision-kind/departure",
       statement: "Every mechanic a game is played by is a page carrying the code that runs it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A game's interface is loaded from the panels that game names rather than built with the app.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
