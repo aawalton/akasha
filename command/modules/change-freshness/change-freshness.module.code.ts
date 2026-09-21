@@ -20,6 +20,11 @@ export const PUT_BACK = "so writing it would put back what moved in between"
 
 export const ALREADY_HELD = "already holds this body, so this change writes nothing"
 
+export const AGAIN_WORKED =
+  "nothing was written — a body worked out by machine was worked out against an older commit," +
+  " and another landing has moved it since. No edit is kept for such a path, so there is nothing" +
+  " to drop — apply again, and it is worked out afresh against the commit at HEAD."
+
 function sameBytes(one: Uint8Array | null, two: Uint8Array | null): boolean {
   if (one === null || two === null) return one === two
   return Buffer.from(one).equals(Buffer.from(two))
@@ -103,10 +108,13 @@ function unfreshPast(
   const held = paths.filter((one) => !machine.grouped.has(one))
   const moved = named === null || named === base ? [] : movedBetween(root, named, base, held)
   if (named !== null && moved.length > 0) {
+    const worked = moved.some((one) => machine.wrote.has(one))
+    const own = moved.some((one) => !machine.wrote.has(one))
     return [
       `${moved.join(", ")} — read against \`${named}\`, and what is at \`${base}\` is not ` +
         `what was read, ${PUT_BACK}`,
-      tail,
+      ...(own ? [tail] : []),
+      ...(worked ? [AGAIN_WORKED] : []),
     ]
   }
   const stirred = movedOnDisk(

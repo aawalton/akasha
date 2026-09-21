@@ -7,6 +7,7 @@ import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.co
 import { modulePropertyGroup } from "akasha/code/module-property-group/module-property-group.page-type.ts"
 import { scripting } from "akasha/code/shell-script/properties/scripting.module-property-group.ts"
 import {
+  AGAIN_WORKED,
   commitNamed,
   groupsWrote,
   machineWrote,
@@ -353,6 +354,29 @@ test("a path a machine generates is held to the commit named", () => {
   git(root, ["commit", "--quiet", "-m", "meanwhile"])
   const said = unfresh(root, read, headOf(root), [GENERATED_AT], [], "tail", groupsAt(root))
   expect(said?.join("\n") ?? "").toContain(GENERATED_AT)
+})
+
+test("a refusal over a path a machine generates says to apply again rather than to drop", () => {
+  const root = repoWithGroup()
+  const read = headOf(root)
+  writeFileSync(join(root, GENERATED_AT), "generated again\n")
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "meanwhile"])
+  const said = unfresh(root, read, headOf(root), [GENERATED_AT], [], "tail", groupsAt(root))
+  expect(said?.at(-1)).toBe(AGAIN_WORKED)
+  expect(said).not.toContain("tail")
+})
+
+test("a refusal over a path an agent wrote and one a machine generates says both", () => {
+  const root = repoWithGroup()
+  const read = headOf(root)
+  writeFileSync(join(root, AT), "moved as well\n")
+  writeFileSync(join(root, GENERATED_AT), "generated again\n")
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "meanwhile"])
+  const said = unfresh(root, read, headOf(root), [AT, GENERATED_AT], [], "tail", groupsAt(root))
+  expect(said?.at(-2)).toBe("tail")
+  expect(said?.at(-1)).toBe(AGAIN_WORKED)
 })
 
 test("a reading of a path a machine generates is held to nothing", () => {

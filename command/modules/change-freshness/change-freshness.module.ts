@@ -71,6 +71,14 @@ export const changeFreshness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A refusal over such a body says to apply again rather than to drop an edit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal over both kinds of path at once says what to do about each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Which paths a machine generates is read from the index rather than from the change.",
     },
