@@ -15,9 +15,9 @@ export const aineRequests = {
     },
     {
       statement:
-        "A `Requests` nav item on alanwalton.com shows the open, the waiting and the settled.",
+        "A `Requests` nav item on alanwalton.com has a view for each standing a request is at.",
       workingMemory:
-        "The three views read `standing`: open is `published`, most points first; waiting is `proposed`, which is what needs Alan; settled is `completed` beside `denied`. Alan asked for up to three views and left which three open.",
+        "The views are Proposed, Published, Completed and Denied, in that order, each narrowing `standing` to its own value. A view narrows by the key a page spells rather than by the property's slug, so `standing` rather than `feature-request-standing`. Alan asked for the views to match the standings rather than bundle them.",
     },
   ],
   constraints: [
