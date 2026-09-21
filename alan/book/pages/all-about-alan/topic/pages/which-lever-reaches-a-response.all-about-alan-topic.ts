@@ -12,5 +12,5 @@ export const whichLeverReachesAResponse = {
     "all-about-alan-topic/digging-up-an-old-belief",
   ],
   settled:
-    "One kind runs through a belief. Rewrite the belief and the behaviour changes on the next go.\n\nThe other fires before any thought loads, so understanding it does nothing at all.\n\nA won argument does not switch off a rule running below it. Five of mine still fire.\n\nNo framework moves me until it yields a concrete use that lands in my map.\n\nFor the below-thought kind I expand only on a surplus and re-ask whether it is safe now, holding dangerous provisionally true.",
+    "One kind runs through a belief. Rewrite the belief and the behaviour changes on the next go.\n\nThe other fires before any thought loads, so understanding it does nothing at all.\n\nA won argument does not switch off a rule running below it. Five of mine still fire.\n\nNo framework moves me until it yields a concrete use that lands in my map.\n\nFor the below-thought kind I expand only on a surplus and re-ask whether it is safe now, holding dangerous provisionally true.\n\nMost of my attention goes to whatever is bottlenecking me, but every part of understanding myself earns its keep, because knowing how I work is what tells me which lever will move me.",
 } as const satisfies AllAboutAlanTopic
