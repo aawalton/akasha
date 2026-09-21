@@ -4,6 +4,7 @@ import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-contextmen
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-dropdown-shapes/scrollable-menu-dropdown-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-util-shapes/scrollable-menu-util-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export type LsmCastContextMenuDropdownUndefined = ContextMenuDropdown | undefined
 export function asLsmCastContextMenuDropdownUndefined(
