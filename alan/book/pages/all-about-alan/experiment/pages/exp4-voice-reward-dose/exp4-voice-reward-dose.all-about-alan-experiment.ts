@@ -5,6 +5,6 @@ export const exp4VoiceRewardDose = {
   type: "page-type/all-about-alan-experiment",
   slug: "exp4-voice-reward-dose",
   title: "Exp 4 — Voice-Reward Dose",
-  definition: "how much reward Alan feels from praise read to him in a cloned voice",
+  definition: "how much reward I feel from praise read to me in a cloned voice",
   lineSet: "json",
 } as const satisfies AllAboutAlanExperiment
