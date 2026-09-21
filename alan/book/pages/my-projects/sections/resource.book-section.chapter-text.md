@@ -63,7 +63,7 @@ A grid-tied system in Provo over-produces summer months and under-produces winte
 | Latitude | Fixed | 40.27°N — sets seasonal swing and optimal tilt |
 | Elevation | Fixed | +5–10% direct-beam bonus vs. sea-level at same latitude |
 | Cloud climatology | Fixed | Wasatch Front has clear summer skies; winter inversion (PM2.5) is the main resource killer in Dec–Feb |
-| Inversion-event soiling | Partial | Affects soiling, not resource (see [losses.md](losses.book-chapter.md)) |
+| Inversion-event soiling | Partial | Affects soiling, not resource (see [losses.md](book-section/efficiency-factors/losses)) |
 
 Nothing about resource is in Alan's control. It's the boundary condition.
 

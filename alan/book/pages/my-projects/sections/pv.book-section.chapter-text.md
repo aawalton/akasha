@@ -5,16 +5,16 @@ The DC kWp the system needs equals annual demand ÷ effective specific yield. Pi
 
 ## Specific-yield derive
 
-Anchor: **1,700 kWh/kWp/yr** at 30° tilt, true south, premium modules, MLPE, year 1 ([provo.md](../efficiency-factors/provo.book-chapter.md#optimal-install-anchor-case)).
+Anchor: **1,700 kWh/kWp/yr** at 30° tilt, true south, premium modules, MLPE, year 1 ([provo.md](book-section/efficiency-factors/provo#optimal-install-anchor-case)).
 
 Real-roof derate stack for this site (assumptions are placeholders until the roof study; refresh once measurements land):
 
 | Factor | Derate | Source |
 |---|---|---|
-| Azimuth: SSW (~210°) at ~25° tilt vs. due-S 30° | × 0.96 | [orientation.md](../efficiency-factors/orientation.book-chapter.md#combined-tilt--azimuth-derate) |
-| Shading: 5–10% with MLPE (per-module MPPT recovers most of it) | × 0.97 | [losses.md](../efficiency-factors/losses.book-chapter.md#shading) |
-| Snow: Provo override (~2% vs. PVWatts 0%) | × 0.98 | [losses.md](../efficiency-factors/losses.book-chapter.md#snow) |
-| Mid-life degradation (year ~15 avg, premium tier-1 0.35%/yr) | × 0.94 | [degradation-system.md](../efficiency-factors/degradation-system.book-chapter.md#module-degradation-year-over-year) |
+| Azimuth: SSW (~210°) at ~25° tilt vs. due-S 30° | × 0.96 | [orientation.md](book-section/efficiency-factors/orientation#combined-tilt--azimuth-derate) |
+| Shading: 5–10% with MLPE (per-module MPPT recovers most of it) | × 0.97 | [losses.md](book-section/efficiency-factors/losses#shading) |
+| Snow: Provo override (~2% vs. PVWatts 0%) | × 0.98 | [losses.md](book-section/efficiency-factors/losses#snow) |
+| Mid-life degradation (year ~15 avg, premium tier-1 0.35%/yr) | × 0.94 | [degradation-system.md](book-section/efficiency-factors/degradation-system#module-degradation-year-over-year) |
 | Module premium tier vs. anchor (already at anchor) | × 1.00 | — |
 
 Effective specific yield = 1,700 × 0.96 × 0.97 × 0.98 × 0.94 = **~1,460 kWh/kWp/yr** at mid-life on the realistic-roof case.
@@ -44,7 +44,7 @@ Planning column (1,500 kWh/kWp/yr): low → 32 kWp, nominal → **49 kWp**, high
 
 ## Inverter Loading Ratio (ILR)
 
-Per [degradation-system.md](../efficiency-factors/degradation-system.book-chapter.md#dcac-ratio-inverter-loading-ratio): residential sweet spot is ILR 1.15–1.25, ~1.5–2.5% clipping in Provo's clear-sky climate, net positive on annual kWh vs. ILR 1.00.
+Per [degradation-system.md](book-section/efficiency-factors/degradation-system#dcac-ratio-inverter-loading-ratio): residential sweet spot is ILR 1.15–1.25, ~1.5–2.5% clipping in Provo's clear-sky climate, net positive on annual kWh vs. ILR 1.00.
 
 For the 49 kWp DC planning case at **ILR 1.20**: AC inverter rating = 49 ÷ 1.20 = **41 kW AC**. Round to 40 kW. Slight under-sizing on AC saves inverter $$ at the cost of a couple percent of summer-noon energy — acceptable.
 
@@ -89,14 +89,14 @@ Ranked by typical $/kWp and headache:
 
 1. **Detached-garage roof** — if it exists or can be added. Best $/kWp; same inverter, same interconnect, modest extra labor.
 2. **Solar pergola / covered patio** — purpose-built south-facing tilt-optimized structure. Adds shade where you might want it, ~$1.50–$2.50/W upcharge over rooftop, but a clean 30°-S orientation.
-3. **Ground-mount array** — best per-panel yield (cooler, no shading, optimal tilt) but needs land, trench, conduit, perimeter fencing if HOA/permit demands it. Adds ~$0.40–$0.70/W vs. rooftop per [pricing/levers.md](../pricing/levers.book-chapter.md).
+3. **Ground-mount array** — best per-panel yield (cooler, no shading, optimal tilt) but needs land, trench, conduit, perimeter fencing if HOA/permit demands it. Adds ~$0.40–$0.70/W vs. rooftop per [pricing/levers.md](book-section/pricing/levers).
 4. **Carport over driveway** — combines EV-charging shelter with PV; emerging architectural pattern.
 
 **Recommendation**: assume the house roof alone hosts ~25–35 kWp at best. The remaining 15–25 kWp for the nominal case must come from one of the release valves above. The roof study will resolve this; until then, **budget for at least one supplement structure in the bid scope**.
 
 ## What the bids must report
 
-Per [provo.md](../efficiency-factors/provo.book-chapter.md#what-to-ask-installer-bids), require each bid to state:
+Per [provo.md](book-section/efficiency-factors/provo#what-to-ask-installer-bids), require each bid to state:
 
 - PVWatts year-1 modeled kWh and the System Losses % used.
 - Total Solar Resource Fraction (TSRF) per roof face.
@@ -109,4 +109,4 @@ Bids that promise >1,650 kWh/kWp/yr at year 1 on a non-optimum roof should be ch
 
 ## Carry-forward
 
-The 49 kWp DC / 40 kW AC nominal case feeds [battery.md](battery.book-chapter.md) (PV-to-evening daily shift), [topology.md](topology.book-chapter.md) (inverter platform sizing), and [cost.md](cost.book-chapter.md) ($/W × kWp). The roof-area gap motivates the supplement-structure line in [cost.md](cost.book-chapter.md).
+The 49 kWp DC / 40 kW AC nominal case feeds [battery.md](book-section/sizing/battery) (PV-to-evening daily shift), [topology.md](book-section/sizing/topology) (inverter platform sizing), and [cost.md](book-section/sizing/cost) ($/W × kWp). The roof-area gap motivates the supplement-structure line in [cost.md](book-section/sizing/cost).

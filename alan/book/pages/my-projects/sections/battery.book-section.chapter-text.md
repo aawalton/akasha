@@ -1,7 +1,7 @@
 
 # Battery Sizing
 
-Architecture pivot per [scope.md](../scope.book-chapter.md): grid plays the seasonal-storage role. Battery's job is reduced to two functions:
+Architecture pivot per [scope.md](book-section/solar-power/scope): grid plays the seasonal-storage role. Battery's job is reduced to two functions:
 
 1. **Daily smoothing** — shift midday PV surplus into evening load.
 2. **Short-duration outage resilience** — ride a few hours to a couple of days, depending on what we're willing to spend.
@@ -10,7 +10,7 @@ Both functions are bounded by hours-to-days, not months. That's a 20–40 kWh jo
 
 ## TOU spread check (do we even need daily smoothing?)
 
-Provo City Power residential is flat-rate today (per [orientation.md](../efficiency-factors/orientation.book-chapter.md#west-facing-tou-consideration)); the avoided-cost export credit under Schedule 1.1 (−$0.06742/kWh) is the load-bearing tariff for this project, not a TOU spread. **Material TOU price spread for arbitrage is not present in 2026** — confirm with the most-current Provo Power Schedule 1.1 / 1.2 rates before final sizing.
+Provo City Power residential is flat-rate today (per [orientation.md](book-section/efficiency-factors/orientation#west-facing-tou-consideration)); the avoided-cost export credit under Schedule 1.1 (−$0.06742/kWh) is the load-bearing tariff for this project, not a TOU spread. **Material TOU price spread for arbitrage is not present in 2026** — confirm with the most-current Provo Power Schedule 1.1 / 1.2 rates before final sizing.
 
 Without TOU spread, the dollar value of "daily shifting" is the difference between the export-credit rate and the retail rate (the avoided retail cost on the self-consumed kWh). If Provo Power's export credit is at or near retail, the dollar incentive is small — the battery is then mostly an outage-resilience asset, not an arbitrage asset.
 
@@ -18,7 +18,7 @@ Without TOU spread, the dollar value of "daily shifting" is the difference betwe
 
 Goal: capture midday PV surplus and discharge it during the evening / overnight loads that don't align with the solar curve.
 
-Evening-and-overnight load shape on a typical day (planning case from [demand.md](demand.book-chapter.md)):
+Evening-and-overnight load shape on a typical day (planning case from [demand.md](book-section/sizing/demand)):
 
 | Time | Load | Source |
 |---|---|---|
@@ -35,7 +35,7 @@ kWh in the "needs to come from solar via battery, not from grid" window (roughly
 
 But not all of this needs battery — much can be supplied by PV during shoulder hours (4–7 PM with low-angle sun). Realistic battery throughput per evening: **30–40 kWh**.
 
-A 40 kWh usable battery cycles ~1 cycle/day in summer, ~0.5 cycle/day in winter (winter PV doesn't fill it). Lifecycle math: 4,000+ cycles at 80% DoD across all current LFP chemistry — 10+ year warranty across all Powerwall 3 / IQ Battery 5P / Franklin aPower products per [pricing/components.md](../pricing/components.book-chapter.md#battery--separate-line-item).
+A 40 kWh usable battery cycles ~1 cycle/day in summer, ~0.5 cycle/day in winter (winter PV doesn't fill it). Lifecycle math: 4,000+ cycles at 80% DoD across all current LFP chemistry — 10+ year warranty across all Powerwall 3 / IQ Battery 5P / Franklin aPower products per [pricing/components.md](book-section/pricing/components#battery--separate-line-item).
 
 ## Function 2 — Outage resilience
 
@@ -55,7 +55,7 @@ A 30–40 kWh usable bank rides this case clean.
 
 ### Case B — worst-case multi-day winter outage with heat full bore
 
-Winter day at design temp without load shedding, planning value from [hvac.md](../energy-demand/hvac.book-chapter.md#peak-heating-demand-kw): heat pump ~18 kW peak, ~10 kW average across 24 hours including defrost. Full house load floor:
+Winter day at design temp without load shedding, planning value from [hvac.md](book-section/energy-demand/hvac#peak-heating-demand-kw): heat pump ~18 kW peak, ~10 kW average across 24 hours including defrost. Full house load floor:
 
 - Heat (mid-envelope @ -2°F design): 240 kWh/day if HP runs hard
 - DHW: 13 kWh/day
@@ -76,7 +76,7 @@ Riding 2 days: **300 kWh usable**. Riding 3 days: 450 kWh. That's a $300k–$450
 
 The economic break is clearly between 12-hour and 1-day. Spend $25–40k to cover the realistic outage case; rely on grid restoration or (separate decision) a small propane standby gen for the rare multi-day winter event. The standby gen is not load-bearing for energy self-sufficiency under the annual-net-zero architecture.
 
-## Battery cost per [pricing/components.md](../pricing/components.book-chapter.md#battery--separate-line-item)
+## Battery cost per [pricing/components.md](book-section/pricing/components#battery--separate-line-item)
 
 | Product | Usable kWh per unit | Typical installed $ | $/kWh |
 |---|---|---|---|
@@ -104,9 +104,9 @@ High-demand variant: keep **40 kWh** — the marginal kWh past 40 is buying outa
 ## What gets traded away (explicitly)
 
 - **Multi-day winter ride-through** — not budgeted. A 2-day December outage at full heat is on the grid, not the battery. Critical-loads load-shedding stretches a 40 kWh bank to ~36 hours of frost-safe (low setback) operation, but no longer.
-- **EV charging during outage** — not budgeted. The two L2 chargers are load-shed first. (Mitigation: bidirectional-capable BEVs like Lightning / Cybertruck can flip into V2H — see [vehicles.md](../energy-demand/vehicles.book-chapter.md#failure-modes--self-sufficiency-tradeoff).)
+- **EV charging during outage** — not budgeted. The two L2 chargers are load-shed first. (Mitigation: bidirectional-capable BEVs like Lightning / Cybertruck can flip into V2H — see [vehicles.md](book-section/energy-demand/vehicles#failure-modes--self-sufficiency-tradeoff).)
 - **Sustained inference workload during outage** — explicitly not protected. The PCs go to the load-shed bucket.
 
 ## Carry-forward
 
-Battery sizing closes at **40 kWh usable / $40,000 installed**. The inverter must be hybrid (capable of charging the battery from PV and discharging to AC loads) — see [topology.md](topology.book-chapter.md). Cost lands in [cost.md](cost.book-chapter.md).
+Battery sizing closes at **40 kWh usable / $40,000 installed**. The inverter must be hybrid (capable of charging the battery from PV and discharging to AC loads) — see [topology.md](book-section/sizing/topology). Cost lands in [cost.md](book-section/sizing/cost).

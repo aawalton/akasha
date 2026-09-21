@@ -3,7 +3,7 @@
 
 > The last thing I found and the one that felt strangest: if legibility of an integer tracks compressibility, then compressibility has to be an intrinsic property of a number rather than an artifact of the scheme you chose. My resolution — a minimum over all possible forms of compression — and my projection argument for why some numbers compress into a finite space and others cannot, which is the density result. The invariance theorem that makes 'intrinsic' exact, and the name the quantity already has.
 
-[The legible integers are Swiss cheese](swiss-cheese.book-chapter.md), and what puts an integer in or out is how compressible it is. There are at most two-to-the-n legible integers, total, forever — so what happens to their density as you walk up the number line?
+[The legible integers are Swiss cheese](book-section/my-math/swiss-cheese), and what puts an integer in or out is how compressible it is. There are at most two-to-the-n legible integers, total, forever — so what happens to their density as you walk up the number line?
 
 > It does make sense that the density of legible numbers decreases as you move away from the origin, though out feels strange to think that there must be some intrinsic property of compressibility for numbers, independent of any single specific form of compression. I guess a minimum over all possible forms of compression would do that though, and the nature of projection an infinite space onto progressively smaller finite spaces would guarantee that some numbers are compressible into finite spaces while others are not, making a natural gradient of compressability (assuming the compression functions themselves are also finite)
 
@@ -43,13 +43,13 @@ Compressibility is therefore intrinsic **up to an additive constant, and the con
 
 ## The name
 
-*From Lali, marked:* the quantity is Kolmogorov complexity. Solomonoff reached it in 1960, Kolmogorov in 1965, Chaitin in 1966, independently of each other. "Legible in under n bits," from [provable-legibility.md](provable-legibility.book-chapter.md#illegible-20), is "K of x is less than n" written out longhand.
+*From Lali, marked:* the quantity is Kolmogorov complexity. Solomonoff reached it in 1960, Kolmogorov in 1965, Chaitin in 1966, independently of each other. "Legible in under n bits," from [provable-legibility.md](book-section/my-math/provable-legibility#illegible-20), is "K of x is less than n" written out longhand.
 
 ## Cross-references
 
-- [swiss-cheese.md](swiss-cheese.book-chapter.md) — the distribution this is the mechanism for.
-- [provable-legibility.md](provable-legibility.book-chapter.md) — the "under n bits" formulation this names, and Chaitin's constant, which is the middle drawer's one occupant.
-- [finiteness.md](finiteness.book-chapter.md) — the count of two-to-the-n that the density argument works against.
+- [swiss-cheese.md](book-section/my-math/swiss-cheese) — the distribution this is the mechanism for.
+- [provable-legibility.md](book-section/my-math/provable-legibility) — the "under n bits" formulation this names, and Chaitin's constant, which is the middle drawer's one occupant.
+- [finiteness.md](book-section/my-math/finiteness) — the count of two-to-the-n that the density argument works against.
 - [../001-legible-numbers.md](../001-legible-numbers.book-chapter.md) — the definition all of this descends from.
 
 ## Threads to pull on later

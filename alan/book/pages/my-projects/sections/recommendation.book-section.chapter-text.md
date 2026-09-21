@@ -5,7 +5,7 @@ The final dimension. Rank the levers that move system size and cost, then propos
 
 ## Sensitivity — ranked by leverage on the nominal case
 
-1. **House envelope retrofit** — single biggest controllable lever. Per [hvac.md](../energy-demand/hvac.book-chapter.md), moving from mid-tier envelope (16,500 kWh heating) to well-insulated (9,500 kWh) cuts ~7,000 kWh/yr. That's ~4.7 kWp of PV at planning yield = **~$11,000 in PV** plus possibly the entire supplement-structure line item ($22,500). Combined PV-side savings: **~$30,000+**. Retrofit cost for a 6000 sq ft 1970s home (blower-door fix, attic R-49, wall blow-in if feasible, window upgrades): **$30,000–$80,000**. A break-even, with the retrofit also delivering comfort and resilience gains that don't show up in PV cost. **Aggressive envelope retrofit could cut PV by 5–7 kWp and save ~$25–35k.** Worth doing before final PV sizing.
+1. **House envelope retrofit** — single biggest controllable lever. Per [hvac.md](book-section/energy-demand/hvac), moving from mid-tier envelope (16,500 kWh heating) to well-insulated (9,500 kWh) cuts ~7,000 kWh/yr. That's ~4.7 kWp of PV at planning yield = **~$11,000 in PV** plus possibly the entire supplement-structure line item ($22,500). Combined PV-side savings: **~$30,000+**. Retrofit cost for a 6000 sq ft 1970s home (blower-door fix, attic R-49, wall blow-in if feasible, window upgrades): **$30,000–$80,000**. A break-even, with the retrofit also delivering comfort and resilience gains that don't show up in PV cost. **Aggressive envelope retrofit could cut PV by 5–7 kWp and save ~$25–35k.** Worth doing before final PV sizing.
 
 2. **Demand scenario itself (low → high)** — the demand spread (48k–87k kWh/yr) is itself a 26 kWp / $80,000 PV swing. The envelope retrofit, gaming-intensity assumption, and inference-activation question collectively determine which row of the demand table the project actually lands on.
 
@@ -40,14 +40,14 @@ The scope file flags envelope quality as a known unknown ("50-year-old construct
 
 | Dimension | Value | Rationale |
 |---|---|---|
-| Annual demand | **73,000 kWh/yr** | Nominal from [demand.md](demand.book-chapter.md) — mid-envelope, heavy gaming, 22k EV mi |
+| Annual demand | **73,000 kWh/yr** | Nominal from [demand.md](book-section/sizing/demand) — mid-envelope, heavy gaming, 22k EV mi |
 | PV (DC) | **49 kWp** | At 1,500 kWh/kWp/yr realistic specific yield, ILR 1.20 → 40 kW AC |
 | Battery (usable) | **40 kWh** | 3× Powerwall 3-class units — covers daily shift + 12-hour critical-loads outage |
-| Inverter | **Hybrid string + DC optimizers** (e.g., 2× SolArk 15K-2P or equivalent) | Best at 49 kWp + 40 kWh + future inference upside per [topology.md](topology.book-chapter.md) |
+| Inverter | **Hybrid string + DC optimizers** (e.g., 2× SolArk 15K-2P or equivalent) | Best at 49 kWp + 40 kWh + future inference upside per [topology.md](book-section/sizing/topology) |
 | Service panel | **400 A main + 4 subpanels + monitoring (not load-shedding)** | Self-sufficiency principle: load-shedder additive, not load-bearing |
-| Roof + supplements | **House primary + detached-garage roof + pergola or ground-mount supplement (~15 kWp)** | Per [pv.md](pv.book-chapter.md#roof-area-feasibility), 49 kWp does not fit on house roof alone |
-| EV chargers | **2× 48 A hardwired EVSE** with PV-following daytime mode | Per [vehicles.md](../energy-demand/vehicles.book-chapter.md#charging-peak-draw) |
-| **All-in pre-ITC** | **~$200,000** (with one supplement structure) or ~$170k (no supplement) | Per [cost.md](cost.book-chapter.md) |
+| Roof + supplements | **House primary + detached-garage roof + pergola or ground-mount supplement (~15 kWp)** | Per [pv.md](book-section/sizing/pv#roof-area-feasibility), 49 kWp does not fit on house roof alone |
+| EV chargers | **2× 48 A hardwired EVSE** with PV-following daytime mode | Per [vehicles.md](book-section/energy-demand/vehicles#charging-peak-draw) |
+| **All-in pre-ITC** | **~$200,000** (with one supplement structure) or ~$170k (no supplement) | Per [cost.md](book-section/sizing/cost) |
 | **All-in post-ITC @ 30%** | **~$140,000** (with) / ~$120k (without) | If ITC restored; uncertain |
 | **All-in if ITC expires** | **~$200,000** | Plan against this |
 
@@ -63,11 +63,11 @@ Three things this case optimizes for:
 
 What this case **does not** optimize for:
 
-- **Pure-island self-sufficiency** — explicitly out of scope per [scope.md](../scope.book-chapter.md); the Provo Power grid is the seasonal battery.
-- **Multi-day winter outage ride-through** — explicitly traded away in [battery.md](battery.book-chapter.md); rely on grid restoration or a separate (out-of-this-project) propane standby gen.
+- **Pure-island self-sufficiency** — explicitly out of scope per [scope.md](book-section/solar-power/scope); the Provo Power grid is the seasonal battery.
+- **Multi-day winter outage ride-through** — explicitly traded away in [battery.md](book-section/sizing/battery); rely on grid restoration or a separate (out-of-this-project) propane standby gen.
 - **All-12-PCs-inference workload** — would push demand to ~120,000 kWh/yr and require either oversized PV or scoped-out inference plan; flag for a future re-architecture.
 
-## Open assessment items (carry forward from [scope.md](../scope.book-chapter.md))
+## Open assessment items (carry forward from [scope.md](book-section/solar-power/scope))
 
 These must close before bid finalization, in roughly this priority order:
 
@@ -80,7 +80,7 @@ These must close before bid finalization, in roughly this priority order:
 
 1. Resolve the four open assessment items above.
 2. Send the planning case (49 kWp / 40 kWh / 400 A / hybrid string) to three competitive Utah installer bids via EnergySage.
-3. Compare bids against the cost table in [cost.md](cost.book-chapter.md) — flag any quote above $2.65/W cash blended.
+3. Compare bids against the cost table in [cost.md](book-section/sizing/cost) — flag any quote above $2.65/W cash blended.
 4. Re-run the sizing math against actuals (measured roof, post-retrofit demand if envelope retrofit goes first, confirmed Provo Power program terms).
 5. Lock the system size against the worst case the family is willing to plan for, then sign.
 

@@ -11,7 +11,7 @@ What this means for envelope retrofits in 2026:
 
 - No federal 30%-of-cost credit on insulation, air sealing, doors, windows.
 - No federal $150 home-energy-audit credit.
-- No federal $2,000 heat-pump credit. (The §25D residential clean energy credit for PV was also affected by OBBBA on a separate schedule — verify in [pricing.md](../pricing.book-chapter.md) before sizing the PV economics.)
+- No federal $2,000 heat-pump credit. (The §25D residential clean energy credit for PV was also affected by OBBBA on a separate schedule — verify in [pricing.md](book-section/solar-power/pricing) before sizing the PV economics.)
 
 There is **no replacement federal credit** for envelope retrofit costs incurred in 2026. Plan accordingly.
 

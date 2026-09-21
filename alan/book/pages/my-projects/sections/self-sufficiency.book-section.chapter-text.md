@@ -1,7 +1,7 @@
 
 # Self-Sufficiency Implications
 
-The annual energy budget in [totals.md](totals.book-chapter.md) is necessary but not sufficient — self-sufficiency is a *time-aligned* problem. Demand and PV production are misaligned across hours (gaming runs into the night) and seasons (heating peaks when PV troughs). This file works through the alignment math.
+The annual energy budget in [totals.md](book-section/energy-demand/totals) is necessary but not sufficient — self-sufficiency is a *time-aligned* problem. Demand and PV production are misaligned across hours (gaming runs into the night) and seasons (heating peaks when PV troughs). This file works through the alignment math.
 
 ## Daily autonomy — battery sizing
 
@@ -24,7 +24,7 @@ For a typical low-PV winter day (~30% of normal production), demand minus partia
 
 ## Winter shortfall — the core PV-sizing tension
 
-Provo monthly GHI swing (from [efficiency-factors.md](../efficiency-factors.book-chapter.md)):
+Provo monthly GHI swing (from [efficiency-factors.md](book-section/solar-power/efficiency-factors)):
 
 | Month | GHI (kWh/m²/day) | Relative to peak |
 |---|---|---|
@@ -35,7 +35,7 @@ Provo monthly GHI swing (from [efficiency-factors.md](../efficiency-factors.book
 
 PV production tracks GHI plus seasonal cell-temperature efficiency gains (cold December cells produce ~5% more per unit GHI than hot August cells). Net production swing: **~2.0× summer:winter**.
 
-Demand swing (from [totals.md](totals.book-chapter.md)): **~1.73× winter:summer**.
+Demand swing (from [totals.md](book-section/energy-demand/totals)): **~1.73× winter:summer**.
 
 **Both peaks oppose each other.** Demand peaks when production troughs. Net annual production matching annual demand still leaves a winter deficit.
 

@@ -3,7 +3,7 @@
 
 > Two claims about illegible numbers that look alike and are not. 'No illegible number is interesting' is legibility restated in different words once 'interesting' is defined carefully. 'Nobody's favourite number is illegible' is a real consequence, because it runs on a premise about minds rather than about numbers — holding a number is representing it, and minds are made of universe. Also the slide I made getting there, and what happens to 'some integers are illegible' in the union.
 
-Once the [hierarchy](the-hierarchy.book-chapter.md) is in place, take the union of the whole tower and ask what is still illegible relative to all of it. That set is the one this page is about.
+Once the [hierarchy](book-section/my-math/the-hierarchy) is in place, take the union of the whole tower and ask what is still illegible relative to all of it. That set is the one this page is about.
 
 > I'm interested in this idea of the union, since that might bring back some of the interesting aspects of illegible numbers, since in theory, each truth-predicate representation can be evaluated in a larger context.
 
@@ -45,7 +45,7 @@ Having a favourite number is not a representation. Nobody can read your favourit
 
 ## The smallest illegible number
 
-"There is no smallest illegible number" was offered as a special case of the interesting theorem. It survives, but its domain matters and it is sharpened considerably later — over the reals it is true for a boring reason and over the positive integers for a good one. That is worked in [provable-legibility.md](provable-legibility.book-chapter.md#the-smallest-illegible-integer).
+"There is no smallest illegible number" was offered as a special case of the interesting theorem. It survives, but its domain matters and it is sharpened considerably later — over the reals it is true for a boring reason and over the positive integers for a good one. That is worked in [provable-legibility.md](book-section/my-math/provable-legibility#the-smallest-illegible-integer).
 
 ## Some integers are illegible
 
@@ -53,16 +53,16 @@ Having a favourite number is not a representation. Nobody can read your favourit
 
 Both halves of that are right. In any single finite frame the legible set is finite, so some integers are outside it, and a larger frame can see that. In the union, every integer is legible.
 
-*From Lali, marked:* the reason the union catches every integer is the **bigger** ladder rather than the stronger one — more storage means longer numerals, so every integer is eventually written down. The stronger ladder adds no integers at all. The two ladders are set out in [the-hierarchy.md](the-hierarchy.book-chapter.md#the-two-ladders), and I had merged them here without noticing.
+*From Lali, marked:* the reason the union catches every integer is the **bigger** ladder rather than the stronger one — more storage means longer numerals, so every integer is eventually written down. The stronger ladder adds no integers at all. The two ladders are set out in [the-hierarchy.md](book-section/my-math/the-hierarchy#the-two-ladders), and I had merged them here without noticing.
 
-What the picture of *which* integers are legible in a single frame actually looks like is not what I assumed, and that is [swiss-cheese.md](swiss-cheese.book-chapter.md).
+What the picture of *which* integers are legible in a single frame actually looks like is not what I assumed, and that is [swiss-cheese.md](book-section/my-math/swiss-cheese).
 
 ## Cross-references
 
-- [the-hierarchy.md](the-hierarchy.book-chapter.md) — the union this page quantifies over, and the two ladders I merged.
+- [the-hierarchy.md](book-section/my-math/the-hierarchy) — the union this page quantifies over, and the two ladders I merged.
 - [../001-legible-numbers.md](../001-legible-numbers.book-chapter.md) — the correspondence condition that makes a favourite not a representation.
-- [provable-legibility.md](provable-legibility.book-chapter.md) — where these three claims are transferred to provable legibility, and where two of the three break.
-- [swiss-cheese.md](swiss-cheese.book-chapter.md) — which integers are legible in a single frame.
+- [provable-legibility.md](book-section/my-math/provable-legibility) — where these three claims are transferred to provable legibility, and where two of the three break.
+- [swiss-cheese.md](book-section/my-math/swiss-cheese) — which integers are legible in a single frame.
 
 ## Threads to pull on later
 

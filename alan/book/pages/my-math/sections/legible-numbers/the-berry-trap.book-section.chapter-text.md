@@ -3,7 +3,7 @@
 
 > The paradox: a finite legible set has a largest member, so 'the largest legible number plus one' must be legible because I just gave it a name — therefore the set has no largest member. The wrong conclusion I drew (that there is a third category of number, neither legible nor illegible), the approximability line I tried and watched fail, and the resolution: the phrase is not a rule of interpretation at all. I had written the condition that kills it two moves before I needed it, and did not turn it on my own description.
 
-The [finiteness result](finiteness.book-chapter.md) has an immediate consequence that looks like it destroys the whole notion.
+The [finiteness result](book-section/my-math/finiteness) has an immediate consequence that looks like it destroys the whole notion.
 
 > Well, this is where the paradox comes in. If the set if legible numbers is finite, then it must have a largest member. However, if it has a largest member, then the number "the largest legible number plus one" must be legible (because I just gave it a name), therefore the set of legible numbers must not have a largest member.
 >
@@ -59,7 +59,7 @@ I had assumed the first from my very first move, and had never turned around and
 
 Walk down the branch where neither works and everything settles quietly.
 
-The set of legible numbers is finite, so it has a largest member. That is just what finite sets do. That member is a perfectly ordinary legible number, legible by way of some representation that has nothing to do with the English phrase. The number one greater than it is not in the set, so it is illegible, exactly as [the counting argument](finiteness.book-chapter.md) said. And the phrase "the largest legible number plus one" is **not a rule of interpretation at all** — it is "fluff" wearing a lab coat.
+The set of legible numbers is finite, so it has a largest member. That is just what finite sets do. That member is a perfectly ordinary legible number, legible by way of some representation that has nothing to do with the English phrase. The number one greater than it is not in the set, so it is illegible, exactly as [the counting argument](book-section/my-math/finiteness) said. And the phrase "the largest legible number plus one" is **not a rule of interpretation at all** — it is "fluff" wearing a lab coat.
 
 Nothing contradicts anything. The finite set stays finite, the maximum stays put, and the paradox has nothing left to run on.
 
@@ -69,14 +69,14 @@ I did not take the resolution on trust. What I wanted was the difference itself:
 
 > how you asked the question implies that "the largest legible number" itself is not a valid representation, but can ONLY be a member of the set of legible numbers through an independent representation. What makes the independent representation and this one fundamentally different?
 
-That question is answered in [no-self-decoder.md](no-self-decoder.book-chapter.md), and answering it is what turns the paradox into a theorem.
+That question is answered in [no-self-decoder.md](book-section/my-math/no-self-decoder), and answering it is what turns the paradox into a theorem.
 
 ## Cross-references
 
 - [../001-legible-numbers.md](../001-legible-numbers.book-chapter.md) — the correspondence condition that kills the phrase, written before it was needed.
-- [finiteness.md](finiteness.book-chapter.md) — the largest member the paradox runs on, and why the resolution leaves it standing.
-- [no-self-decoder.md](no-self-decoder.book-chapter.md) — the answer to the question this page ends on, and the theorem the paradox becomes.
-- [provable-legibility.md](provable-legibility.book-chapter.md) — the same construction run over provability rather than truth, which is where it stops making a mess and starts biting.
+- [finiteness.md](book-section/my-math/finiteness) — the largest member the paradox runs on, and why the resolution leaves it standing.
+- [no-self-decoder.md](book-section/my-math/no-self-decoder) — the answer to the question this page ends on, and the theorem the paradox becomes.
+- [provable-legibility.md](book-section/my-math/provable-legibility) — the same construction run over provability rather than truth, which is where it stops making a mess and starts biting.
 
 ## Threads to pull on later
 

@@ -106,4 +106,4 @@ For apples-to-apples comparison:
 - [Solar Energy Local — 84604 Provo](https://www.solarenergylocal.com/states/utah/84604/) — NSRDB-derived monthly summary.
 - [Provo City Power Electric Rates](https://www.provo.gov/1178/Electric-Rates) — residential tariff and net-metering policy.
 - [PVWatts v5 Manual](https://pvwatts.nrel.gov/downloads/pvwattsv5.pdf) — algorithm documentation, still substantively current for v8.
-- See sibling files: [resource.md](resource.book-chapter.md), [orientation.md](orientation.book-chapter.md), [losses.md](losses.book-chapter.md), [degradation-system.md](degradation-system.book-chapter.md).
+- See sibling files: [resource.md](book-section/efficiency-factors/resource), [orientation.md](book-section/efficiency-factors/orientation), [losses.md](book-section/efficiency-factors/losses), [degradation-system.md](book-section/efficiency-factors/degradation-system).

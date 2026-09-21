@@ -22,10 +22,10 @@ Additional high-impact decisions: skip the battery on first install (residential
 
 ## Sub-Files
 
-- [pricing/total-retail.md](pricing/total-retail.book-chapter.md) — National and Utah $/W, cash vs financed, sources.
-- [pricing/components.md](pricing/components.book-chapter.md) — NREL 2024 benchmark component table; what fraction goes to each piece.
-- [pricing/levers.md](pricing/levers.book-chapter.md) — Levers that move the price up or down for a specific quote.
-- [pricing/cost-curve.md](pricing/cost-curve.book-chapter.md) — Year-by-year cost-curve history; modules, inverters, batteries, soft costs.
+- [pricing/total-retail.md](book-section/pricing/total-retail) — National and Utah $/W, cash vs financed, sources.
+- [pricing/components.md](book-section/pricing/components) — NREL 2024 benchmark component table; what fraction goes to each piece.
+- [pricing/levers.md](book-section/pricing/levers) — Levers that move the price up or down for a specific quote.
+- [pricing/cost-curve.md](book-section/pricing/cost-curve) — Year-by-year cost-curve history; modules, inverters, batteries, soft costs.
 
 ## Two Cost-Curve Facts to Anchor Expectations
 

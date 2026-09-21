@@ -3,11 +3,11 @@
 
 Research compiled May 2026 covering local Utah, regional Intermountain West, and national installers confirmed serving Provo / Utah County (84604). Sources: SolarReviews, EnergySage, BBB, ConsumerAffairs, BestCompany, Utah DOPL, and company sites. The list is split by scale for scannability:
 
-- [Local Utah installers](installers/local.book-chapter.md) — HQ in Utah, primary footprint along the Wasatch Front
-- [Regional installers](installers/regional.book-chapter.md) — Utah-HQ or neighboring state, covers multiple Intermountain West states
-- [National installers](installers/national.book-chapter.md) — multi-state operators with Utah presence (often through subcontracted or rebranded crews)
-- [Defunct / red-flag operators](installers/defunct.book-chapter.md) — companies recently exited, revoked, bankrupt, or under enforcement
-- [Summary observations](installers/observations.book-chapter.md) — patterns, standouts, and risks
+- [Local Utah installers](book-section/installers/local) — HQ in Utah, primary footprint along the Wasatch Front
+- [Regional installers](book-section/installers/regional) — Utah-HQ or neighboring state, covers multiple Intermountain West states
+- [National installers](book-section/installers/national) — multi-state operators with Utah presence (often through subcontracted or rebranded crews)
+- [Defunct / red-flag operators](book-section/installers/defunct) — companies recently exited, revoked, bankrupt, or under enforcement
+- [Summary observations](book-section/installers/observations) — patterns, standouts, and risks
 
 Quick orientation:
 

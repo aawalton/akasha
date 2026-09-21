@@ -39,7 +39,7 @@ Apples-to-apples bid specification:
 1. **Blower door:** report CFM50, ACH50, and a leakage map by sub-floor / location from the IR pass.
 2. **Insulation survey:** R-value estimates by assembly (attic flat, attic slopes, walls by orientation, basement walls, rim joist) plus a visible-defects list.
 3. **Duct test:** CFM25 total leakage, CFM25 leakage-to-outside, leakage as % of nominal air-handler CFM.
-4. **Manual J:** room-by-room sensible + latent loads at the [Provo design conditions in hvac.md](../energy-demand/hvac.book-chapter.md) (-2°F winter, 97°F/64°F MCWB summer). Report the assumed ACH50 input — should match the measured value, not a code default.
+4. **Manual J:** room-by-room sensible + latent loads at the [Provo design conditions in hvac.md](book-section/energy-demand/hvac) (-2°F winter, 97°F/64°F MCWB summer). Report the assumed ACH50 input — should match the measured value, not a code default.
 5. **Retrofit prioritization:** list of measures with estimated cost, estimated heating-load reduction, and dollars-per-percent-reduction. Reject auditors who can't produce this table.
 6. **Post-retrofit verification:** quote upfront for a second blower door + duct test after the retrofit, so the heat-pump installer has a measured post-retrofit ACH50 to feed back into Manual J.
 

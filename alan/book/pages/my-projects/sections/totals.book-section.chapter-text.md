@@ -7,26 +7,26 @@ Roll-up of all categories. Numbers use the planning (conservative) value from ea
 
 | Category | Source | Nominal kWh/yr | High kWh/yr | Notes |
 |---|---|---|---|---|
-| Space heating | [hvac.md](hvac.book-chapter.md) | 18,000 | 22,000 | CCHP, between well-insulated and existing |
-| Space cooling | [hvac.md](hvac.book-chapter.md) | 3,500 | 4,500 | Inverter HP, plus mini-split for gaming room |
-| Domestic hot water | [water-and-appliances.md](water-and-appliances.book-chapter.md) | 4,800 | 5,500 | Resistance tanks (HPWH would save ~3,000) |
-| Cooking (range + oven) | [water-and-appliances.md](water-and-appliances.book-chapter.md) | 1,700 | 2,300 | Induction, heavy use |
-| Refrigeration (2 units) | [water-and-appliances.md](water-and-appliances.book-chapter.md) | 1,100 | 1,400 | Main + secondary |
-| Clothes dryer | [water-and-appliances.md](water-and-appliances.book-chapter.md) | 1,500 | 1,800 | Vented resistance |
-| Dishwasher + washer + microwave/small | [water-and-appliances.md](water-and-appliances.book-chapter.md) | 1,450 | 1,800 | |
-| Lighting | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | 1,200 | 1,500 | LED, large floor area |
-| Networking / servers / cameras | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | 1,800 | 2,200 | Always-on |
-| TVs / audio | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | 700 | 900 | |
-| Phone / device charging | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | 400 | 600 | |
-| Garage / shop / motors | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | 500 | 1,500 | Heavy if real workshop |
-| Outdoor lighting | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | 300 | 400 | |
-| 12 gaming PCs | [computers.md](computers.book-chapter.md) | **30,000** | **34,000** | Heavy planning case |
-| Two EVs | [vehicles.md](vehicles.book-chapter.md) | **11,000** | **15,000** | 28k mi @ 3.0 mi/kWh +10% cold |
+| Space heating | [hvac.md](book-section/energy-demand/hvac) | 18,000 | 22,000 | CCHP, between well-insulated and existing |
+| Space cooling | [hvac.md](book-section/energy-demand/hvac) | 3,500 | 4,500 | Inverter HP, plus mini-split for gaming room |
+| Domestic hot water | [water-and-appliances.md](book-section/energy-demand/water-and-appliances) | 4,800 | 5,500 | Resistance tanks (HPWH would save ~3,000) |
+| Cooking (range + oven) | [water-and-appliances.md](book-section/energy-demand/water-and-appliances) | 1,700 | 2,300 | Induction, heavy use |
+| Refrigeration (2 units) | [water-and-appliances.md](book-section/energy-demand/water-and-appliances) | 1,100 | 1,400 | Main + secondary |
+| Clothes dryer | [water-and-appliances.md](book-section/energy-demand/water-and-appliances) | 1,500 | 1,800 | Vented resistance |
+| Dishwasher + washer + microwave/small | [water-and-appliances.md](book-section/energy-demand/water-and-appliances) | 1,450 | 1,800 | |
+| Lighting | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | 1,200 | 1,500 | LED, large floor area |
+| Networking / servers / cameras | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | 1,800 | 2,200 | Always-on |
+| TVs / audio | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | 700 | 900 | |
+| Phone / device charging | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | 400 | 600 | |
+| Garage / shop / motors | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | 500 | 1,500 | Heavy if real workshop |
+| Outdoor lighting | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | 300 | 400 | |
+| 12 gaming PCs | [computers.md](book-section/energy-demand/computers) | **30,000** | **34,000** | Heavy planning case |
+| Two EVs | [vehicles.md](book-section/energy-demand/vehicles) | **11,000** | **15,000** | 28k mi @ 3.0 mi/kWh +10% cold |
 | **Subtotal (confirmed loads)** | | **77,950** | **94,400** | |
-| Flag-load: hot tub (if present) | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | +3,500 | +5,000 | Ask Alan |
-| Flag-load: home lab (if present) | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | +2,000 | +13,000 | Ask Alan, very wide range |
-| Flag-load: well / irrigation pump | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | +1,000 | +1,500 | Ask Alan |
-| Flag-load: steam humidifier | [lights-and-plugs.md](lights-and-plugs.book-chapter.md) | +800 | +1,500 | Ask Alan |
+| Flag-load: hot tub (if present) | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | +3,500 | +5,000 | Ask Alan |
+| Flag-load: home lab (if present) | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | +2,000 | +13,000 | Ask Alan, very wide range |
+| Flag-load: well / irrigation pump | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | +1,000 | +1,500 | Ask Alan |
+| Flag-load: steam humidifier | [lights-and-plugs.md](book-section/energy-demand/lights-and-plugs) | +800 | +1,500 | Ask Alan |
 
 **Headline (confirmed loads only)**:
 - **Nominal: ~78,000 kWh/yr**
@@ -58,7 +58,7 @@ Combining seasonal categories (HVAC, DHW, EVs) with flat categories (gaming, app
 
 - **Worst month: January, ~8,800 kWh** (~290 kWh/day average, ~12 kW continuous load floor).
 - **Best month: May, ~5,100 kWh** (~165 kWh/day).
-- **Ratio: 1.73×** — but PV production swing in Provo is ~2.0× (Aug peak / Dec trough). **The demand swing is less severe than the production swing**, which means net-zero annual sizing strands ~25–30% of winter demand. See [self-sufficiency.md](self-sufficiency.book-chapter.md).
+- **Ratio: 1.73×** — but PV production swing in Provo is ~2.0× (Aug peak / Dec trough). **The demand swing is less severe than the production swing**, which means net-zero annual sizing strands ~25–30% of winter demand. See [self-sufficiency.md](book-section/energy-demand/self-sufficiency).
 
 ## Peak demand stack
 

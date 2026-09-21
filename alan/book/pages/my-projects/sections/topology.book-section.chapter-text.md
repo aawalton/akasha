@@ -13,7 +13,7 @@ Three viable architectures at this size class (49 kWp DC / 40 kW AC / 40 kWh bat
 - Battery: Enphase IQ Battery 5P stacked (8 units for 40 kWh).
 - Per-module MPPT; per-module monitoring.
 - Pros: best for shaded and multi-face roofs; no single point of failure; 25-year inverter warranty; clean AC-coupled architecture.
-- Cons: ~$0.15–0.30/W premium over string per [pricing/components.md](../pricing/components.book-chapter.md#inverter-choice--separate-line-item-impact); 49 kWp × ~120 modules × 1 microinverter each adds up; IQ Battery 5P is the most expensive per-kWh option in [battery.md](battery.book-chapter.md).
+- Cons: ~$0.15–0.30/W premium over string per [pricing/components.md](book-section/pricing/components#inverter-choice--separate-line-item-impact); 49 kWp × ~120 modules × 1 microinverter each adds up; IQ Battery 5P is the most expensive per-kWh option in [battery.md](book-section/sizing/battery).
 - Scale at 49 kWp: 120+ microinverters is a large fleet. Reliable but the unit count is real.
 
 ### Option 2 — String + DC optimizers (SolarEdge HD-Wave)
@@ -36,8 +36,8 @@ Three viable architectures at this size class (49 kWp DC / 40 kW AC / 40 kWh bat
 Rationale:
 
 1. **Battery integration** — the planning case includes 40 kWh of battery. A hybrid inverter unifies the PV + battery + grid-tie + islanding logic into one platform with one warranty contact. Microinverter + AC-coupled battery means three vendors (Enphase PV + Enphase battery + utility interconnect) and two MPPT systems; serviceable but more interfaces to manage.
-2. **Future inference upside** — the scope file requires the architecture to absorb a step in compute load without rework. Hybrid string + optimizers handles this by expanding the AC-side capacity at the inverter, not by re-wiring the module-level fleet. Per [computers.md](../energy-demand/computers.book-chapter.md), the gaming room needs its own 60–80 A subpanel anyway; the hybrid inverter feeding that subpanel through the critical-loads bus is the cleanest topology.
-3. **Per-module optimization** — DC optimizers per module match microinverter's ability to handle multi-face roof and partial shading per [provo.md](../efficiency-factors/provo.book-chapter.md#sensitivity-to-roof-choice) (MLPE saves 10–15% on a shaded roof vs. plain string).
+2. **Future inference upside** — the scope file requires the architecture to absorb a step in compute load without rework. Hybrid string + optimizers handles this by expanding the AC-side capacity at the inverter, not by re-wiring the module-level fleet. Per [computers.md](book-section/energy-demand/computers), the gaming room needs its own 60–80 A subpanel anyway; the hybrid inverter feeding that subpanel through the critical-loads bus is the cleanest topology.
+3. **Per-module optimization** — DC optimizers per module match microinverter's ability to handle multi-face roof and partial shading per [provo.md](book-section/efficiency-factors/provo#sensitivity-to-roof-choice) (MLPE saves 10–15% on a shaded roof vs. plain string).
 4. **Cost** — Option 3 lands ~$0.10/W cheaper than microinverters at this size, ~$5,000 saved on a 49 kWp system.
 
 Two units in parallel (e.g., 2× SolArk 15K-2P giving 30 kW AC, or scale to 2× 20 kW class units for the full 40 kW AC) handles the planning case and gives N+1 resilience if one fails. Confirm specific product selection at bid stage — the market is moving quickly.
@@ -52,7 +52,7 @@ If the chosen installer has deep SolarEdge experience and discounted inventory, 
 
 ## Service panel decision
 
-Restating peak demand from [demand.md](demand.book-chapter.md) (carried forward from [energy-demand/totals.md](../energy-demand/totals.book-chapter.md)):
+Restating peak demand from [demand.md](book-section/sizing/demand) (carried forward from [energy-demand/totals.md](book-section/energy-demand/totals)):
 
 - Realistic managed peak: **25–35 kW**
 - Worst-case unmanaged coincident: **~55 kW**
@@ -75,7 +75,7 @@ Restating peak demand from [demand.md](demand.book-chapter.md) (carried forward 
 
 The recommended path: **400 A service + load monitoring (Emporia Vue or SPAN as monitoring only) without making the shedder load-bearing.**
 
-- Panel: 400 A main, with 4 subpanels per the topology in [energy-demand/totals.md](../energy-demand/totals.book-chapter.md#subpanel-topology-suggestion):
+- Panel: 400 A main, with 4 subpanels per the topology in [energy-demand/totals.md](book-section/energy-demand/totals#subpanel-topology-suggestion):
   - 120 A gaming-room subpanel (PCs, mini-split, ventilation)
   - 80 A garage / EV subpanel (two EVSEs + workshop)
   - 100 A HVAC + DHW critical-loads subpanel (wired through the battery for outage islanding)
@@ -101,4 +101,4 @@ Rationale:
 
 - Inverter topology: hybrid string + DC optimizers, 40 kW AC, ILR ~1.22.
 - Service: 400 A main + 4 subpanels + load monitoring.
-- Costs land in [cost.md](cost.book-chapter.md).
+- Costs land in [cost.md](book-section/sizing/cost).

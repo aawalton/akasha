@@ -1,13 +1,13 @@
 
 # Heating-Load Reduction → PV Sizing Math
 
-This file converts the retrofit-leverage table from [retrofits.md](retrofits.book-chapter.md) into PV-sizing and HVAC-equipment-sizing deltas, then compares the three project orderings.
+This file converts the retrofit-leverage table from [retrofits.md](book-section/envelope/retrofits) into PV-sizing and HVAC-equipment-sizing deltas, then compares the three project orderings.
 
 ## Inputs (anchors)
 
-- **Baseline heating load (1970s envelope, leaky case):** 22,000 kWh/yr electric on a CCHP, from [hvac.md "Existing leaky case"](../energy-demand/hvac.book-chapter.md#annual-heating-energy--bin-temperature-integration).
-- **Provo specific yield (anchor case):** 1,700 kWh/kWp/yr, from [provo.md](../efficiency-factors/provo.book-chapter.md#optimal-install-anchor-case).
-- **PV installed cost:** ~$2.50/W ≡ $2,500/kWp, from [pricing.md](../pricing.book-chapter.md) (consult that file for current bracket).
+- **Baseline heating load (1970s envelope, leaky case):** 22,000 kWh/yr electric on a CCHP, from [hvac.md "Existing leaky case"](book-section/energy-demand/hvac#annual-heating-energy--bin-temperature-integration).
+- **Provo specific yield (anchor case):** 1,700 kWh/kWp/yr, from [provo.md](book-section/efficiency-factors/provo#optimal-install-anchor-case).
+- **PV installed cost:** ~$2.50/W ≡ $2,500/kWp, from [pricing.md](book-section/solar-power/pricing) (consult that file for current bracket).
 - **Heat pump equipment cost step:** ~$8,000–12,000 per outdoor unit installed for a 4–5-ton CCHP multi-zone, $5,000–15,000 step between a 2-outdoor-unit and 1-outdoor-unit configuration at the 6000 sq ft scale ([NEEP CCHP installed-cost survey](https://neep.org/heating-electrification/ccashp-specification-product-list)).
 
 ## Retrofit → kWh saved
@@ -43,7 +43,7 @@ The 22,000 → 13,000 kWh/yr load reduction also cuts the **design heat load** r
 
 ## Plus: lifetime kWh on the bill
 
-The 9,000 kWh/yr saved doesn't disappear once the PV is sized to match — under [Provo City Power's Schedule 1.1 net-metering program](../scope.book-chapter.md#utility-constraints-the-corrections), each kWh that doesn't leave the array as winter draw stays as summer export credit, which has real value at the net-metering reset. Even if the credit value compresses to wholesale, 9,000 kWh/yr × 25 yr × $0.04/kWh ≈ **$9,000 over the system life** in raw export value, with upside if retail net-metering survives.
+The 9,000 kWh/yr saved doesn't disappear once the PV is sized to match — under [Provo City Power's Schedule 1.1 net-metering program](book-section/solar-power/scope#utility-constraints-the-corrections), each kWh that doesn't leave the array as winter draw stays as summer export credit, which has real value at the net-metering reset. Even if the credit value compresses to wholesale, 9,000 kWh/yr × 25 yr × $0.04/kWh ≈ **$9,000 over the system life** in raw export value, with upside if retail net-metering survives.
 
 ## Three-way ordering comparison
 
@@ -53,7 +53,7 @@ The 9,000 kWh/yr saved doesn't disappear once the PV is sized to match — under
 | **B. Envelope-first, then PV** | ~25 kWp post-retrofit | Retrofit $10k + lower PV + smaller HVAC | Low ongoing | Yes | Highest — sequencing delays |
 | **C. Parallel (single project)** | ~25 kWp | Same as B, possibly bundled-contractor discount | Low ongoing | Yes, **if** Manual J input gets updated mid-project | Moderate |
 
-**Option A is the lazy answer.** Net-metering masks the ongoing kWh penalty on the bill, but the up-front PV oversize is ~$13k worse than B/C, the HVAC is ~$5–15k worse, and the house has higher peak winter draw (which fights with EV charging and morning cooking for service-panel headroom, per [hvac.md "Peak heating demand"](../energy-demand/hvac.book-chapter.md#peak-heating-demand-kw)).
+**Option A is the lazy answer.** Net-metering masks the ongoing kWh penalty on the bill, but the up-front PV oversize is ~$13k worse than B/C, the HVAC is ~$5–15k worse, and the house has higher peak winter draw (which fights with EV charging and morning cooking for service-panel headroom, per [hvac.md "Peak heating demand"](book-section/energy-demand/hvac#peak-heating-demand-kw)).
 
 **Option B is the safe sequential play.** Cost-optimal but slowest. Audit and retrofit run Q1–Q2; post-retrofit Manual J lands Q3; HVAC and PV bid in Q3–Q4 against the verified load. Calendar risk: 6–9 months from kickoff to PV-on-roof.
 

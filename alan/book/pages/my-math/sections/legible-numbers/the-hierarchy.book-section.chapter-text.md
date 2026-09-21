@@ -3,7 +3,7 @@
 
 > Legibility is not a property of a number but a relation between a number and a universe, and every use of the word carries an index. My resolution by a larger universe, the overshoot I made stating it and the two corrections it took, the stratification being by vocabulary rather than by size, the tower having no top and its union being countable anyway, the two different ladders — bigger and stronger — and my ontological objection to the whole tower, which stands.
 
-[No universe decodes itself](no-self-decoder.book-chapter.md). The obvious next question is what happens if you let a *larger* universe do the surveying, and this is the first stretch of the session where I got where I was going without being pulled.
+[No universe decodes itself](book-section/my-math/no-self-decoder). The obvious next question is what happens if you let a *larger* universe do the surveying, and this is the first stretch of the session where I got where I was going without being pulled.
 
 ## A larger universe can survey a smaller one
 
@@ -67,7 +67,7 @@ The guess in that last sentence — that strict monotonic increase in expressive
 
 *From Lali, marked.* Take the union rather than the top, since there is no top. Countably many levels, each finite or even each countably infinite; union them all and you have a countable set. The reals are uncountable.
 
-**The hierarchy runs forever and never touches all but a measure-zero sliver of the number line.** So [the very first conclusion](finiteness.book-chapter.md) — almost every real is illegible — survives the paradox, survives the resolution, and survives an infinite tower of ever-larger universes stacked on top of each other.
+**The hierarchy runs forever and never touches all but a measure-zero sliver of the number line.** So [the very first conclusion](book-section/my-math/finiteness) — almost every real is illegible — survives the paradox, survives the resolution, and survives an infinite tower of ever-larger universes stacked on top of each other.
 
 ### Ordinal levels, and the toll
 
@@ -104,14 +104,14 @@ The thing I actually got stuck on was not the mathematics:
 
 So the hierarchy is not a posit. It is sitting in front of us, and the next rung down can be built in an afternoon. We occupy some rung of it, and everything below us we can see clean through. What remains uncomfortable is the top rung, which is ours, and which nothing can evaluate.
 
-That is where [provable-legibility.md](provable-legibility.book-chapter.md) starts.
+That is where [provable-legibility.md](book-section/my-math/provable-legibility) starts.
 
 ## Cross-references
 
-- [no-self-decoder.md](no-self-decoder.book-chapter.md) — the theorem this page is the escape route from.
-- [finiteness.md](finiteness.book-chapter.md) — the conclusion that survives the whole tower.
-- [provable-legibility.md](provable-legibility.book-chapter.md) — what can be said from inside the top rung, once the ladder upward is given up on.
-- [swiss-cheese.md](swiss-cheese.book-chapter.md) — the bigger ladder's effect on the integers, and why the picture of *which* integers is not the one it looks like.
+- [no-self-decoder.md](book-section/my-math/no-self-decoder) — the theorem this page is the escape route from.
+- [finiteness.md](book-section/my-math/finiteness) — the conclusion that survives the whole tower.
+- [provable-legibility.md](book-section/my-math/provable-legibility) — what can be said from inside the top rung, once the ladder upward is given up on.
+- [swiss-cheese.md](book-section/my-math/swiss-cheese) — the bigger ladder's effect on the integers, and why the picture of *which* integers is not the one it looks like.
 
 ## Threads to pull on later
 

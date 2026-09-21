@@ -35,14 +35,14 @@ The pair **state and rule** is what the arguments range over from here. A repres
 
 In the order I found them:
 
-- [finiteness.md](legible-numbers/finiteness.book-chapter.md) — the legible set is finite, and its complement is uncountable. The first result, and the only one that survived every later revision untouched.
-- [the-berry-trap.md](legible-numbers/the-berry-trap.book-chapter.md) — "the largest legible number plus one," the false conclusion I drew from it, and the resolution: the phrase is not a representation at all.
-- [no-self-decoder.md](legible-numbers/no-self-decoder.book-chapter.md) — no universe can contain a complete decoder of its own representations. The paradox read backwards as a proof.
-- [the-hierarchy.md](legible-numbers/the-hierarchy.book-chapter.md) — legibility indexed to a universe, bounded self-reference against unbounded, the union of the whole tower still countable, and the ladder pointed downward at bounded subsystems.
-- [what-can-be-said.md](legible-numbers/what-can-be-said.book-chapter.md) — nothing unique can be said about an illegible number, nobody's favourite number is illegible, and which of those two is a real result.
-- [provable-legibility.md](legible-numbers/provable-legibility.book-chapter.md) — the split between being legible and being provably legible, and the constraint theorems that replace the paradoxes.
-- [swiss-cheese.md](legible-numbers/swiss-cheese.book-chapter.md) — the legible integers are not an interval. They are full of holes, and the holes start early.
-- [compressibility.md](legible-numbers/compressibility.book-chapter.md) — legibility of an integer tracks how compressible it is, compressibility is intrinsic, and the density of legible integers falls away as you walk up the line.
+- [finiteness.md](book-section/my-math/finiteness) — the legible set is finite, and its complement is uncountable. The first result, and the only one that survived every later revision untouched.
+- [the-berry-trap.md](book-section/my-math/the-berry-trap) — "the largest legible number plus one," the false conclusion I drew from it, and the resolution: the phrase is not a representation at all.
+- [no-self-decoder.md](book-section/my-math/no-self-decoder) — no universe can contain a complete decoder of its own representations. The paradox read backwards as a proof.
+- [the-hierarchy.md](book-section/my-math/the-hierarchy) — legibility indexed to a universe, bounded self-reference against unbounded, the union of the whole tower still countable, and the ladder pointed downward at bounded subsystems.
+- [what-can-be-said.md](book-section/my-math/what-can-be-said) — nothing unique can be said about an illegible number, nobody's favourite number is illegible, and which of those two is a real result.
+- [provable-legibility.md](book-section/my-math/provable-legibility) — the split between being legible and being provably legible, and the constraint theorems that replace the paradoxes.
+- [swiss-cheese.md](book-section/my-math/swiss-cheese) — the legible integers are not an interval. They are full of holes, and the holes start early.
+- [compressibility.md](book-section/my-math/compressibility) — legibility of an integer tracks how compressible it is, compressibility is intrinsic, and the density of legible integers falls away as you walk up the line.
 
 ## How this was found, and what is mine in it
 
@@ -62,5 +62,5 @@ The **wrong turns are kept**. Alan went wrong at least five times, corrected him
 
 ## Threads to pull on later
 
-- **The status of "this universe" in the definition.** Alan's definition indexes legibility to *this* universe from the first sentence, and [the-hierarchy.md](legible-numbers/the-hierarchy.book-chapter.md) makes the index explicit. Whether the notion is meant to be about physics at all, or whether the physics is scaffolding for a claim about description, is never settled in the session.
+- **The status of "this universe" in the definition.** Alan's definition indexes legibility to *this* universe from the first sentence, and [the-hierarchy.md](book-section/my-math/the-hierarchy) makes the index explicit. Whether the notion is meant to be about physics at all, or whether the physics is scaffolding for a claim about description, is never settled in the session.
 - **The reals as the target set.** "real numbers for now" is Alan's own hedge, made in his second message and never revisited. What the notion does over the complex numbers, or over an arbitrary set, is untouched.

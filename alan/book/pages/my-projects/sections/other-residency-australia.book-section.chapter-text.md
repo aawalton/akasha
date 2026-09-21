@@ -5,14 +5,14 @@ Major reforms under the Albanese Labor government (2022–2026) reshaped most st
 
 Each stream is written up in its own file under `australia/`:
 
-- [Skilled Stream](australia/skilled-stream.book-chapter.md) — points-tested (189/190/491), employer-sponsored (482 SID / 186 / 494), and the National Innovation Visa (858).
-- [Business / Investment Stream](australia/business-investment.book-chapter.md) — BIIP (incl. SIV) closed 31 Jul 2024; what remains and what replaced it.
-- [Family Stream](australia/family-stream.book-chapter.md) — partner (309/100, 820/801), parent (103/143), and other family visas, with backlogs.
-- [Humanitarian / Protection Stream](australia/humanitarian.book-chapter.md) — offshore refugee (200–204), onshore protection (866), phasing-out temporary protection.
-- [Student / Graduate Stream](australia/student-graduate.book-chapter.md) — student (500) and Temporary Graduate (485), with the 2024 GS-test and cap changes.
-- [Visitor / Working Holiday](australia/visitor-working-holiday.book-chapter.md) — Work and Holiday (462), Working Holiday (417), Visitor (600), and the digital-nomad gap.
-- [Special Category](australia/special-category.book-chapter.md) — the NZ-citizen SCV (444) and its direct-citizenship path.
-- [Bridging Visas](australia/bridging-visas.book-chapter.md) — BVA–BVE status-maintenance visas.
+- [Skilled Stream](book-section/other-residency-australia/skilled-stream) — points-tested (189/190/491), employer-sponsored (482 SID / 186 / 494), and the National Innovation Visa (858).
+- [Business / Investment Stream](book-section/other-residency-australia/business-investment) — BIIP (incl. SIV) closed 31 Jul 2024; what remains and what replaced it.
+- [Family Stream](book-section/other-residency-australia/family-stream) — partner (309/100, 820/801), parent (103/143), and other family visas, with backlogs.
+- [Humanitarian / Protection Stream](book-section/other-residency-australia/humanitarian) — offshore refugee (200–204), onshore protection (866), phasing-out temporary protection.
+- [Student / Graduate Stream](book-section/other-residency-australia/student-graduate) — student (500) and Temporary Graduate (485), with the 2024 GS-test and cap changes.
+- [Visitor / Working Holiday](book-section/other-residency-australia/visitor-working-holiday) — Work and Holiday (462), Working Holiday (417), Visitor (600), and the digital-nomad gap.
+- [Special Category](book-section/other-residency-australia/special-category) — the NZ-citizen SCV (444) and its direct-citizenship path.
+- [Bridging Visas](book-section/other-residency-australia/bridging-visas) — BVA–BVE status-maintenance visas.
 
 ## Recent / Flag-Worthy Changes (2024–2026)
 

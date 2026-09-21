@@ -1,11 +1,11 @@
 
 # Revised Annual Demand (Iteration 2)
 
-The prior demand totals in [energy-demand/totals.md](../energy-demand/totals.book-chapter.md) carried four "if applicable" flag-loads: hot tub, separate server room / home lab, well pump, steam humidifier. The scope file resolves them; this file restates the totals with those answers applied.
+The prior demand totals in [energy-demand/totals.md](book-section/energy-demand/totals) carried four "if applicable" flag-loads: hot tub, separate server room / home lab, well pump, steam humidifier. The scope file resolves them; this file restates the totals with those answers applied.
 
 ## Iteration-2 scope answers
 
-From [scope.md](../scope.book-chapter.md):
+From [scope.md](book-section/solar-power/scope):
 
 | Flag-load | Status | kWh adjustment |
 |---|---|---|
@@ -20,7 +20,7 @@ The first three were *not* in the original 77,950 nominal subtotal — they were
 
 ## Recomputed annual kWh
 
-Starting from [energy-demand/totals.md](../energy-demand/totals.book-chapter.md) confirmed-loads subtotals, adjusting EV miles per [energy-demand/vehicles.md](../energy-demand/vehicles.book-chapter.md) (low-mileage scenario is 22,000 mi × 3.7 mi/kWh wall = 5,900 kWh; round to 6,000 with light cold-weather buffer):
+Starting from [energy-demand/totals.md](book-section/energy-demand/totals) confirmed-loads subtotals, adjusting EV miles per [energy-demand/vehicles.md](book-section/energy-demand/vehicles) (low-mileage scenario is 22,000 mi × 3.7 mi/kWh wall = 5,900 kWh; round to 6,000 with light cold-weather buffer):
 
 ### Low scenario (~48,000 kWh/yr)
 
@@ -45,7 +45,7 @@ Drivers: well-insulated post-retrofit envelope, HPWH in conditioned space, moder
 
 ### Nominal scenario — planning value (~73,000 kWh/yr)
 
-Drivers: mid-tier envelope (between well-insulated and existing), resistance DHW (self-sufficiency-favored per [water-and-appliances.md](../energy-demand/water-and-appliances.book-chapter.md)), heavy gaming planning value (30,000 kWh/yr from [computers.md](../energy-demand/computers.book-chapter.md)), 22k EV mi.
+Drivers: mid-tier envelope (between well-insulated and existing), resistance DHW (self-sufficiency-favored per [water-and-appliances.md](book-section/energy-demand/water-and-appliances)), heavy gaming planning value (30,000 kWh/yr from [computers.md](book-section/energy-demand/computers)), 22k EV mi.
 
 | Category | kWh |
 |---|---|
@@ -93,7 +93,7 @@ Drivers: leaky envelope (no retrofit), resistance DHW, heavy gaming, 22k EV mi, 
 
 | Source | Nominal kWh | High kWh |
 |---|---|---|
-| [energy-demand/totals.md](../energy-demand/totals.book-chapter.md) — confirmed loads | 77,950 | 94,400 |
+| [energy-demand/totals.md](book-section/energy-demand/totals) — confirmed loads | 77,950 | 94,400 |
 | Iteration 2 — flags resolved, EV cut to low-end miles | **73,000** | **87,000** |
 | Δ | −5,000 (−6%) | −7,400 (−8%) |
 
@@ -103,12 +103,12 @@ The cut is modest but real: the EV reduction is the only mechanical change, and 
 
 The scope file flags that the 12 PCs will eventually host "significant inference" workloads, and that the system must accommodate the upward step without PV/interconnection/service-panel rework.
 
-From [computers.md](../energy-demand/computers.book-chapter.md), a sustained-compute system runs at ~900 W × 20 hr/day vs. 600 W × 12 hr/day for the heavy-gaming planning case. A single PC promoted to sustained inference adds ~(900×20 − 600×12) × 365 = (18,000 − 7,200) × 365 = ~3,940 kWh/yr above the heavy gaming line.
+From [computers.md](book-section/energy-demand/computers), a sustained-compute system runs at ~900 W × 20 hr/day vs. 600 W × 12 hr/day for the heavy-gaming planning case. A single PC promoted to sustained inference adds ~(900×20 − 600×12) × 365 = (18,000 − 7,200) × 365 = ~3,940 kWh/yr above the heavy gaming line.
 
 | Fraction of 12 PCs running inference 24/7 | Annual upside (kWh) |
 |---|---|
 | 1 of 12 | +3,900 |
-| 4 of 12 (the "training rigs" mix in [computers.md](../energy-demand/computers.book-chapter.md)) | +15,600 |
+| 4 of 12 (the "training rigs" mix in [computers.md](book-section/energy-demand/computers)) | +15,600 |
 | 12 of 12 | +47,000 |
 
 A realistic "significant inference" case is 4 of 12 running 24/7 at ~900 W → **+15,600 kWh/yr** on top of nominal = ~88,600 kWh/yr.
@@ -117,17 +117,17 @@ A realistic "significant inference" case is 4 of 12 running 24/7 at ~900 W → *
 
 ## Monthly distribution carryover
 
-The monthly shape from [energy-demand/totals.md](../energy-demand/totals.book-chapter.md) is preserved — flag-load removal doesn't change month-shape, and the EV cut spreads evenly across months with mild winter weighting. The annual-net-zero math depends only on the annual total against Provo's specific yield, so the monthly table doesn't drive sizing here. (It does drive battery sizing — see [battery.md](battery.book-chapter.md).)
+The monthly shape from [energy-demand/totals.md](book-section/energy-demand/totals) is preserved — flag-load removal doesn't change month-shape, and the EV cut spreads evenly across months with mild winter weighting. The annual-net-zero math depends only on the annual total against Provo's specific yield, so the monthly table doesn't drive sizing here. (It does drive battery sizing — see [battery.md](book-section/sizing/battery).)
 
 ## Peak demand (unchanged from totals.md)
 
-Realistic managed peak: 25–35 kW. Worst-case unmanaged: ~55 kW. Service-panel implication carries forward to [topology.md](topology.book-chapter.md).
+Realistic managed peak: 25–35 kW. Worst-case unmanaged: ~55 kW. Service-panel implication carries forward to [topology.md](book-section/sizing/topology).
 
 ## What pushes these numbers
 
 In order of leverage on the nominal 73,000 kWh:
 
-1. **Envelope retrofit** — moving heating from 16,500 to 9,500 kWh would cut total by ~7,000 kWh (10%). The single biggest controllable lever. See [recommendation.md](recommendation.book-chapter.md) for the dollar tradeoff.
+1. **Envelope retrofit** — moving heating from 16,500 to 9,500 kWh would cut total by ~7,000 kWh (10%). The single biggest controllable lever. See [recommendation.md](book-section/sizing/recommendation) for the dollar tradeoff.
 2. **Inference activation** — +15,600 kWh if 4 of 12 PCs go to sustained compute.
 3. **DHW choice** — switching to HPWH cuts ~3,000 kWh (~4%). Loses the solar-dump-load benefit of resistance.
 4. **EV mileage** — each extra 5,000 mi/yr at planning efficiency adds ~1,700 kWh.
@@ -135,4 +135,4 @@ In order of leverage on the nominal 73,000 kWh:
 
 ## Carry-forward
 
-The next file ([pv.md](pv.book-chapter.md)) uses these three annual-kWh anchors (48k / 73k / 87k) against Provo specific yield to size DC kWp. The peak-demand stack carries into [topology.md](topology.book-chapter.md). The hourly evening-load shape carries into [battery.md](battery.book-chapter.md).
+The next file ([pv.md](book-section/sizing/pv)) uses these three annual-kWh anchors (48k / 73k / 87k) against Provo specific yield to size DC kWp. The peak-demand stack carries into [topology.md](book-section/sizing/topology). The hourly evening-load shape carries into [battery.md](book-section/sizing/battery).

@@ -46,10 +46,10 @@ A 6000 sq ft, 9-ft-ceiling house at 10 ACH50 leaks ~9,000 CFM50, which integrate
 
 ## What this baseline implies for sizing
 
-Plugging the 1970s defaults into the [hvac.md heat-loss table](../energy-demand/hvac.book-chapter.md#heat-loss--design-day-envelope-load-btuh):
+Plugging the 1970s defaults into the [hvac.md heat-loss table](book-section/energy-demand/hvac#heat-loss--design-day-envelope-load-btuh):
 
 - R-11 walls, R-19 attic, U-0.55 windows, 10 ACH50 puts the house at the **"Existing leaky" 9.0 W/ft²** row → 54 kW design heat load, 184,000 Btu/h, **19,000–22,000 kWh/yr** of heating electric on a CCHP.
 - The "Well-insulated" row at 4.5 W/ft² (9,500–11,000 kWh/yr) is what a comprehensive retrofit can plausibly approach, though not fully reach without exterior continuous insulation.
 - The realistic post-retrofit target is **~6.0 W/ft² ("code-min new build" row)** — 36 kW design, 123,000 Btu/h, **13,000–15,000 kWh/yr** — achievable with air seal + attic top-up + rim + duct seal + dense-pack walls, without touching windows or siding.
 
-That 22,000 → 14,000 kWh/yr delta is the size of the prize for the retrofit-vs-PV-oversize tradeoff in [math.md](math.book-chapter.md).
+That 22,000 → 14,000 kWh/yr delta is the size of the prize for the retrofit-vs-PV-oversize tradeoff in [math.md](book-section/envelope/math).

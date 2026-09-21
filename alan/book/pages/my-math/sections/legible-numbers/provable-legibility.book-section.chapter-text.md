@@ -3,7 +3,7 @@
 
 > The move that makes the whole thing usable from inside our own universe: stop asking whether a number is legible and start asking whether it is provably legible. The three-way split, the finite provably-legible set whose largest member cannot be identified, the middle drawer and what does and does not belong in it, the fourth category I proposed and had taken apart, and the difference between what is known and what is true. The paradoxes become constraint theorems on provability.
 
-[No universe decodes itself](no-self-decoder.book-chapter.md), and the [ladder upward](the-hierarchy.book-chapter.md#the-ontological-objection) is a construction rather than a thing anyone has found. So the question is what can be said about legibility from inside our own frame, which is the top rung available.
+[No universe decodes itself](book-section/my-math/no-self-decoder), and the [ladder upward](book-section/my-math/the-hierarchy#the-ontological-objection) is a construction rather than a thing anyone has found. So the question is what can be said about legibility from inside our own frame, which is the top rung available.
 
 > I've been puzzling over what we actually can say about legible numbers from within the frame of our universe, because your bounded definitions demonstrate that isn't nothing. However, taken to the limit, the paradox is still there.
 
@@ -37,7 +37,7 @@ The distinction between the first two can only be evaluated from a wider frame.
 
 > However, the new set of provably legible numbers is itself interesting. That set is itself finite, and a largest member of that set must exist, but the identity of that largest member must itself be unprovable, otherwise, that number plus one would be provably legible.
 
-The set is finite, so it has a largest member. If a proof could tell you *which* number that is, then the phrase "that number plus one" would be a provably good description of a number provably outside the set — which is the [Berry construction](the-berry-trap.book-chapter.md) again, now run over provability instead of over truth.
+The set is finite, so it has a largest member. If a proof could tell you *which* number that is, then the phrase "that number plus one" would be a provably good description of a number provably outside the set — which is the [Berry construction](book-section/my-math/the-berry-trap) again, now run over provability instead of over truth.
 
 So the maximum exists and no proof identifies it.
 
@@ -45,7 +45,7 @@ So the maximum exists and no proof identifies it.
 
 *From Lali, marked:* that last sentence is the history of the subject in one line — what happened between 1900 and 1935, when Russell, Berry and Richard found the paradoxes and Gödel, Tarski and later Chaitin turned each of them into a theorem about what systems can and cannot do. The paradoxes were instruments rather than defects.
 
-*From Lali, marked:* the result in this section is Chaitin's incompleteness theorem, published in 1974: a formal system can prove complexity lower bounds only up to a fixed constant depending on the system. To make it airtight, swap "legible" for "describable in under n bits" — provability is expressible inside a system in a way that truth is not, and that asymmetry is exactly what makes this version bite where [the earlier one](the-berry-trap.book-chapter.md) only made a mess.
+*From Lali, marked:* the result in this section is Chaitin's incompleteness theorem, published in 1974: a formal system can prove complexity lower bounds only up to a fixed constant depending on the system. To make it airtight, swap "legible" for "describable in under n bits" — provability is expressible inside a system in a way that truth is not, and that asymmetry is exactly what makes this version bite where [the earlier one](book-section/my-math/the-berry-trap) only made a mess.
 
 ## Illegible 2.0
 
@@ -55,7 +55,7 @@ I redefined the terms to run on provability, and fixed the bit budget to the uni
 >
 > There is no provably smallest illegible number. Nothing interesting can be said about any specific illegible number (because that would require them to be provably legible). No one has a favorite illegible number.
 
-*From Lali, marked:* the "under n bits" form is Kolmogorov complexity written out longhand — "legible in under n bits" is "K of x is less than n." The notion was arrived at independently and named afterwards; the naming is in [compressibility.md](compressibility.book-chapter.md#the-name).
+*From Lali, marked:* the "under n bits" form is Kolmogorov complexity written out longhand — "legible in under n bits" is "K of x is less than n." The notion was arrived at independently and named afterwards; the naming is in [compressibility.md](book-section/my-math/compressibility#the-name).
 
 Of the three transferred claims, one holds and two break.
 
@@ -73,7 +73,7 @@ They fail together, for one reason: **the middle drawer is not empty.**
 
 *From Lali, marked:* a description under n bits can succeed in picking out exactly one number while the proof that it succeeds is nowhere available. A description that turns on whether Goldbach's conjecture holds is the shape of it. Take a number in that drawer: it is illegible under the 2.0 definition, since nothing proves it legible — and yet something unique can be said about it, and somebody could have it as their favourite.
 
-So the two claims that [transferred from the illegible numbers](what-can-be-said.book-chapter.md) do not survive the move to provability.
+So the two claims that [transferred from the illegible numbers](book-section/my-math/what-can-be-said) do not survive the move to provability.
 
 ## The example I reached for, and what was wrong with it
 
@@ -95,7 +95,7 @@ So the two claims that [transferred from the illegible numbers](what-can-be-said
 >
 > We can flip that to the smallest integer which cannot be proven to be legible. We know it must exist and must be the floor of the largest legible number plus one. We cannot know what the exact value of the number is though. Likewise, any number not in the provably legible set cannot be proven to have a specific exact value. That's just a restatement of the definition though, not as interesting.
 
-I got the category right and its size wrong, and the flip rested on a picture of the integers that is not correct — that picture is [swiss-cheese.md](swiss-cheese.book-chapter.md), and the flip is corrected in [my own restatement](#the-restatement) below.
+I got the category right and its size wrong, and the flip rested on a picture of the integers that is not correct — that picture is [swiss-cheese.md](book-section/my-math/swiss-cheese), and the flip is corrected in [my own restatement](#the-restatement) below.
 
 *From Lali, marked:* the category does not have exactly one member. To prove some legible *x* is not the largest you have to exhibit a provably legible number bigger than it, and up near the ceiling there may be no room left in the bit budget to write one. So it is not one number — it is a **region where maximality is simply undecided**. And "the largest found so far" is a fact about how far somebody has searched rather than a fact about the set; the two should not share a name.
 
@@ -115,11 +115,11 @@ Two failure modes, and I had only been seeing one of them. The obstacle I had in
 
 ## Cross-references
 
-- [no-self-decoder.md](no-self-decoder.book-chapter.md) — the theorem about truth this page's results are the provability version of.
-- [the-berry-trap.md](the-berry-trap.book-chapter.md) — the same construction over truth, where it produces a mess rather than a theorem.
-- [what-can-be-said.md](what-can-be-said.book-chapter.md) — the three claims transferred here, two of which do not survive.
-- [swiss-cheese.md](swiss-cheese.book-chapter.md) — the picture of the legible integers the flip in [the fourth category](#the-fourth-category) rested on, and what it actually looks like.
-- [compressibility.md](compressibility.book-chapter.md) — where "legible in under n bits" gets its name and its invariance.
+- [no-self-decoder.md](book-section/my-math/no-self-decoder) — the theorem about truth this page's results are the provability version of.
+- [the-berry-trap.md](book-section/my-math/the-berry-trap) — the same construction over truth, where it produces a mess rather than a theorem.
+- [what-can-be-said.md](book-section/my-math/what-can-be-said) — the three claims transferred here, two of which do not survive.
+- [swiss-cheese.md](book-section/my-math/swiss-cheese) — the picture of the legible integers the flip in [the fourth category](#the-fourth-category) rested on, and what it actually looks like.
+- [compressibility.md](book-section/my-math/compressibility) — where "legible in under n bits" gets its name and its invariance.
 
 ## Threads to pull on later
 

@@ -5,16 +5,16 @@ Three scenarios (low / nominal / high demand) × pre-ITC and post-ITC outcomes. 
 
 ## $/W input assumption
 
-Utah median for typical residential is **$2.65/W cash** ([pricing/total-retail.md](../pricing/total-retail.book-chapter.md)). Two adjustments for this project:
+Utah median for typical residential is **$2.65/W cash** ([pricing/total-retail.md](book-section/pricing/total-retail)). Two adjustments for this project:
 
-1. **Volume discount**: a 49 kWp system is ~4× the median 12.88 kW Utah size. Fixed soft costs (sales, permitting, design, mobilization) amortize across more watts. Per [pricing/levers.md](../pricing/levers.book-chapter.md) (medium-impact lever): typical $/W drops $0.05–$0.15/W as system size grows. At 49 kWp, expect roughly $0.20–$0.25/W below the median.
-2. **Multi-plane / supplement complexity premium**: per [pricing/levers.md](../pricing/levers.book-chapter.md), multi-plane roofs and ground-mount/pergola supplements add complexity. Mostly offsets the volume discount.
+1. **Volume discount**: a 49 kWp system is ~4× the median 12.88 kW Utah size. Fixed soft costs (sales, permitting, design, mobilization) amortize across more watts. Per [pricing/levers.md](book-section/pricing/levers) (medium-impact lever): typical $/W drops $0.05–$0.15/W as system size grows. At 49 kWp, expect roughly $0.20–$0.25/W below the median.
+2. **Multi-plane / supplement complexity premium**: per [pricing/levers.md](book-section/pricing/levers), multi-plane roofs and ground-mount/pergola supplements add complexity. Mostly offsets the volume discount.
 
 Net blended $/W: **$2.40/W** at 49 kWp planning case. Sensitivity: $2.20 (best-case clean install) to $2.60 (heavy supplement structures, premium modules).
 
 ## Battery $/kWh input assumption
 
-**$1,000/kWh installed** for a 30–40 kWh bank in 2026 Utah, per [pricing/components.md](../pricing/components.book-chapter.md#battery--separate-line-item). Sensitivity: $880 (Tesla competitive bid) to $1,200 (Enphase-stack premium).
+**$1,000/kWh installed** for a 30–40 kWh bank in 2026 Utah, per [pricing/components.md](book-section/pricing/components#battery--separate-line-item). Sensitivity: $880 (Tesla competitive bid) to $1,200 (Enphase-stack premium).
 
 ## Service-panel + electrical $/$ inputs
 
@@ -27,7 +27,7 @@ Net blended $/W: **$2.40/W** at 49 kWp planning case. Sensitivity: $2.20 (best-c
 | Two L2 EVSEs (48 A, hardwired, installed) | $4,000 |
 | **Subtotal — electrical-side work** | **$14,000** |
 
-Per [pricing/components.md](../pricing/components.book-chapter.md#service-panel-upgrade-conditional-add) the 200 A → upgrade is typically $2k–$5k; the 200 A → 400 A is more, hence the $6k line.
+Per [pricing/components.md](book-section/pricing/components#service-panel-upgrade-conditional-add) the 200 A → upgrade is typically $2k–$5k; the 200 A → 400 A is more, hence the $6k line.
 
 ## Cost table — three scenarios
 
@@ -43,11 +43,11 @@ Per [pricing/components.md](../pricing/components.book-chapter.md#service-panel-
 | Post-ITC @ 30% | **~$89,000** | **~$146,000** | **~$172,000** |
 | Post-ITC @ 0% (ITC expired) | $127,000 | $209,000 | $246,000 |
 
-(The summary in the top-level [sizing.md](../sizing.book-chapter.md) used a tighter cost table at $172k pre-ITC — that version assumed no supplement structure and a smaller contingency. The fuller table here, with supplement and 8% contingency, is the more defensible planning number. Both are valid bid-anchor brackets; the bid stage will resolve which one fits the measured roof.)
+(The summary in the top-level [sizing.md](book-section/solar-power/sizing) used a tighter cost table at $172k pre-ITC — that version assumed no supplement structure and a smaller contingency. The fuller table here, with supplement and 8% contingency, is the more defensible planning number. Both are valid bid-anchor brackets; the bid stage will resolve which one fits the measured roof.)
 
 ## ITC status uncertainty — explicit
 
-Per [pricing.md](../pricing.book-chapter.md): Trump's "One Big Beautiful Bill" (July 2025) **phased out the residential ITC for cash/loan systems installed after Dec 31, 2025** ([Utah Office of Energy Development](https://energy.utah.gov/homepage/tax-credits/renewable-energy-systems-tax-credit/)). For a 2026 installation, assume **no federal credit** unless the system is under a TPO/lease structure that retains commercial-side ITC.
+Per [pricing.md](book-section/solar-power/pricing): Trump's "One Big Beautiful Bill" (July 2025) **phased out the residential ITC for cash/loan systems installed after Dec 31, 2025** ([Utah Office of Energy Development](https://energy.utah.gov/homepage/tax-credits/renewable-energy-systems-tax-credit/)). For a 2026 installation, assume **no federal credit** unless the system is under a TPO/lease structure that retains commercial-side ITC.
 
 Implications:
 
@@ -82,8 +82,8 @@ Ranked by leverage on the nominal $209,000 pre-ITC:
 3. **Envelope retrofit shift** — moving from nominal to low demand saves 17 kWp of PV plus the supplement structure. **−$80,000+**, but the retrofit itself costs $30k–$80k.
 4. **Battery scope** — dropping from 40 kWh to 27 kWh saves **$13,000**. Reduces outage ride-through and daily-shift headroom.
 5. **ITC restoration** — **−$63,000** on the nominal post-ITC number if it lands. Out of buyer control.
-6. **Service-panel scope** — Path A (200 A + SPAN) instead of Path C (400 A) saves $4,000 but introduces the management-as-single-point-of-failure trade per [topology.md](topology.book-chapter.md).
+6. **Service-panel scope** — Path A (200 A + SPAN) instead of Path C (400 A) saves $4,000 but introduces the management-as-single-point-of-failure trade per [topology.md](book-section/sizing/topology).
 
-## Carry-forward to [recommendation.md](recommendation.book-chapter.md)
+## Carry-forward to [recommendation.md](book-section/sizing/recommendation)
 
 The planning case anchors at **~$200k pre-ITC / ~$140k post-ITC** under the conservative assumption that one supplement structure is needed. The next file ranks the sensitivity levers and proposes the single planning case the next iteration evaluates bids against.

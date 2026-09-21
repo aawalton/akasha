@@ -1,7 +1,7 @@
 
 # Retrofit Packages — Leverage Ranking
 
-For the [1970s 6000 sq ft baseline](baseline.book-chapter.md), here are the standard retrofit measures with current Utah-market pricing, expected heating-load reduction, and dollars-per-percent. **Cost per % reduction is the ranking metric** — lower is better.
+For the [1970s 6000 sq ft baseline](book-section/envelope/baseline), here are the standard retrofit measures with current Utah-market pricing, expected heating-load reduction, and dollars-per-percent. **Cost per % reduction is the ranking metric** — lower is better.
 
 ## Leverage table
 
@@ -38,8 +38,8 @@ It doesn't reduce the *envelope* heat-loss number — it reduces the *delivered*
 
 ## Recommended package
 
-The high-leverage four — rows 1, 2, 3, 4 — totaling **$8,000–15,000** delivers **30–45% heating-load reduction** without disturbing siding, drywall, or windows. This is the package the [math.md](math.book-chapter.md) economics are built around.
+The high-leverage four — rows 1, 2, 3, 4 — totaling **$8,000–15,000** delivers **30–45% heating-load reduction** without disturbing siding, drywall, or windows. This is the package the [math.md](book-section/envelope/math) economics are built around.
 
-Optional row 5 (wall dense-pack) adds another 10–20% reduction at **$4,000–10,000** and is the right next move if the audit shows the existing wall batts have severely degraded. It pushes the total retrofit toward the "code-min new build" envelope row in [hvac.md](../energy-demand/hvac.book-chapter.md#heat-loss--design-day-envelope-load-btuh).
+Optional row 5 (wall dense-pack) adds another 10–20% reduction at **$4,000–10,000** and is the right next move if the audit shows the existing wall batts have severely degraded. It pushes the total retrofit toward the "code-min new build" envelope row in [hvac.md](book-section/energy-demand/hvac#heat-loss--design-day-envelope-load-btuh).
 
 Defer rows 6, 7, 8 unless they're triggered by an unrelated need (basement finish, siding replacement, window failure).

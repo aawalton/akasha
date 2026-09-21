@@ -28,7 +28,7 @@ I did not trust it:
 
 > I feel like there must be a gap in this argument so far due to what it implies , but I haven't found it yet.
 
-There was no gap in it. The trouble I could feel coming was real, but it was somewhere else — it was in a phrase I had already helped myself to without applying my own condition to it, and it is worked in [the-berry-trap.md](the-berry-trap.book-chapter.md).
+There was no gap in it. The trouble I could feel coming was real, but it was somewhere else — it was in a phrase I had already helped myself to without applying my own condition to it, and it is worked in [the-berry-trap.md](book-section/my-math/the-berry-trap).
 
 ## Planck discreteness is not load-bearing
 
@@ -40,20 +40,20 @@ I assumed discreteness. That the assumption can be weakened is Lali's, and I did
 
 *Recorder's reading, marked.* Worth stating in one place, because it is the reason this page comes first and nothing later displaces it. The conclusion *almost every real is illegible* survived:
 
-- the paradox in [the-berry-trap.md](the-berry-trap.book-chapter.md), which looked at the time like it destroyed the notion;
+- the paradox in [the-berry-trap.md](book-section/my-math/the-berry-trap), which looked at the time like it destroyed the notion;
 - the resolution of that paradox, which removed a phrase from the legible set rather than adding one;
-- the whole [metalanguage hierarchy](the-hierarchy.book-chapter.md), including an infinite tower of ever-larger universes — because [the union of countably many countable levels is still countable](the-hierarchy.book-chapter.md#the-union-is-still-countable), and the reals are not.
+- the whole [metalanguage hierarchy](book-section/my-math/the-hierarchy), including an infinite tower of ever-larger universes — because [the union of countably many countable levels is still countable](book-section/my-math/the-hierarchy#the-union-is-still-countable), and the reals are not.
 
 Nothing in the session touched it. Every later result is a constraint on what can be *said* about the legible set, and none of them moves its size.
 
 ## Cross-references
 
 - [../001-legible-numbers.md](../001-legible-numbers.book-chapter.md) — the definition and the correspondence condition link 3 depends on.
-- [the-berry-trap.md](the-berry-trap.book-chapter.md) — the paradox that runs on this result's "finite sets have a largest member," and why it does not damage it.
-- [the-hierarchy.md → the union is still countable](the-hierarchy.book-chapter.md#the-union-is-still-countable) — the tower of universes this conclusion outlives.
-- [swiss-cheese.md](swiss-cheese.book-chapter.md) — finiteness restricted to the integers, and the picture of *which* integers that I had to correct.
+- [the-berry-trap.md](book-section/my-math/the-berry-trap) — the paradox that runs on this result's "finite sets have a largest member," and why it does not damage it.
+- [the-hierarchy.md → the union is still countable](book-section/my-math/the-hierarchy#the-union-is-still-countable) — the tower of universes this conclusion outlives.
+- [swiss-cheese.md](book-section/my-math/swiss-cheese) — finiteness restricted to the integers, and the picture of *which* integers that I had to correct.
 
 ## Threads to pull on later
 
-- **The holographic figure.** *From Lali, marked:* the holographic bound puts our universe at something like 10^122 bits, treated as an order of magnitude rather than a measurement. It is used in [provable-legibility.md](provable-legibility.book-chapter.md) and [swiss-cheese.md](swiss-cheese.book-chapter.md) as the value of *n*. Nothing in the session checks it.
+- **The holographic figure.** *From Lali, marked:* the holographic bound puts our universe at something like 10^122 bits, treated as an order of magnitude rather than a measurement. It is used in [provable-legibility.md](book-section/my-math/provable-legibility) and [swiss-cheese.md](book-section/my-math/swiss-cheese) as the value of *n*. Nothing in the session checks it.
 - **Whether "accessible" is the right bound.** The parenthesis "must be accessible to have a rule of interpretation" does real work in link 3, and it is stated rather than argued. What the notion looks like under a weaker accessibility requirement is untouched.

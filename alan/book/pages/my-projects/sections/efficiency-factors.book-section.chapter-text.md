@@ -9,11 +9,11 @@ Split into five sub-files; each is capped at 200 lines and covers one band of th
 
 | # | File | Covers |
 |---|------|--------|
-| 1 | [resource.md](efficiency-factors/resource.book-chapter.md) | Solar resource at location: GHI, DNI, peak sun hours, monthly variation, altitude bonus |
-| 2 | [orientation.md](efficiency-factors/orientation.book-chapter.md) | Plane-of-array irradiance: tilt, azimuth, combined derate tables |
-| 3 | [losses.md](efficiency-factors/losses.book-chapter.md) | Shading, soiling, snow, temperature, mismatch, DC/AC wiring, inverter, availability |
-| 4 | [degradation-system.md](efficiency-factors/degradation-system.book-chapter.md) | Module degradation, DC/AC ratio (ILR) & clipping, albedo, snow load, UV/altitude |
-| 5 | [provo.md](efficiency-factors/provo.book-chapter.md) | Provo-specific anchor numbers, PVWatts inputs, sensitivity ranges |
+| 1 | [resource.md](book-section/efficiency-factors/resource) | Solar resource at location: GHI, DNI, peak sun hours, monthly variation, altitude bonus |
+| 2 | [orientation.md](book-section/efficiency-factors/orientation) | Plane-of-array irradiance: tilt, azimuth, combined derate tables |
+| 3 | [losses.md](book-section/efficiency-factors/losses) | Shading, soiling, snow, temperature, mismatch, DC/AC wiring, inverter, availability |
+| 4 | [degradation-system.md](book-section/efficiency-factors/degradation-system) | Module degradation, DC/AC ratio (ILR) & clipping, albedo, snow load, UV/altitude |
+| 5 | [provo.md](book-section/efficiency-factors/provo) | Provo-specific anchor numbers, PVWatts inputs, sensitivity ranges |
 
 ## How the factors combine
 
@@ -45,11 +45,11 @@ The system AC energy formula PVWatts uses (simplified):
 E_AC = POA_kWh/m²/yr × η_module × A_module × (1 − temp_derate) × (1 − sys_losses) × η_inverter × (1 − clip_loss) × (1 − wiring_AC)
 ```
 
-For quick mental math: **specific yield (kWh/kWp/yr)** = total AC kWh ÷ DC nameplate kW. Provo, optimal install: ~1,650–1,750 kWh/kWp/yr (see [provo.md](efficiency-factors/provo.book-chapter.md)).
+For quick mental math: **specific yield (kWh/kWp/yr)** = total AC kWh ÷ DC nameplate kW. Provo, optimal install: ~1,650–1,750 kWh/kWp/yr (see [provo.md](book-section/efficiency-factors/provo)).
 
 ## Reading order
 
-If skimming: start with [provo.md](efficiency-factors/provo.book-chapter.md) for the headline number and sensitivities. If sizing: read in order 1→5; each section's "Alan's value" sub-section tells you what to measure or look up when the time comes.
+If skimming: start with [provo.md](book-section/efficiency-factors/provo) for the headline number and sensitivities. If sizing: read in order 1→5; each section's "Alan's value" sub-section tells you what to measure or look up when the time comes.
 
 ## Sources (recurring)
 
