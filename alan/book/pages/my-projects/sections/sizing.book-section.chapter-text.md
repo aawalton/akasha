@@ -11,7 +11,7 @@ This file is the index plus the headline planning case. Math is split into six s
 |---|------|--------|
 | 1 | [demand.md](book-section/sizing/demand) | Iteration-2 revised annual demand: flag-loads removed, low-end EV miles applied, inference upside flagged but excluded from base case. |
 | 2 | [pv.md](book-section/sizing/pv) | DC kWp from specific yield × real-roof derate × mid-life degradation × ILR; demand × yield sensitivity table. |
-| 3 | [battery.md](book-section/sizing/battery) | Daily PV → evening shifting plus outage resilience. Recommendation, cost, what gets traded away. |
+| 3 | [battery.md](book-section/sizing/battery) | Daily PV → evening shifting plus outage resilience, as an optional line of its own. Three buys, cost, what gets traded away. |
 | 4 | [topology.md](book-section/sizing/topology) | Inverter topology (microinverter vs string + optimizers vs hybrid string + battery) and service-panel decision (200 A + SPAN vs 400 A). |
 | 5 | [cost.md](book-section/sizing/cost) | Total cost stack at low / nominal / high demand, pre-ITC and post-ITC, with the ITC status uncertainty called out. |
 | 6 | [recommendation.md](book-section/sizing/recommendation) | Sensitivity levers ranked by leverage and the single planning case that the next iteration evaluates bids against. |
@@ -49,7 +49,7 @@ The grid carries the seasonal deficit, so battery sizing covers only (a) daily P
 - Daily shift: ~30–40 kWh — covers gaming PCs (~50 kWh/evening) and DHW/cook through the post-sunset window.
 - Outage resilience (load-shedded critical-loads only — HVAC + DHW + fridge + lights, ~120 kWh/day): 30–40 kWh rides a single Provo evening outage clean; 2-day winter ride-through needs 240 kWh, which is disproportionate. Accept that edge case and rely on grid + (optional, separate) gen.
 
-**Recommendation: 27–40 kWh usable (2–3× Powerwall 3-class units).** Full math: [battery.md](book-section/sizing/battery).
+**The battery is an optional line of its own, not part of the PV case.** Provo has no residential time-of-use rate, so a shifted kWh is worth only the $0.063 export-versus-retail spread — $600–$800/yr against $40,000, on a bank that wears out in 10–11 years. Buy $0, $27,000 or $40,000 for outage resilience, decided separately. Full math: [battery.md](book-section/sizing/battery).
 
 ## Headline topology and service
 
@@ -67,13 +67,13 @@ At Utah $/W for a 50 kWp system (volume discount off the $2.65/W EnergySage medi
 | Line | $ |
 |---|---|
 | PV (49 kWp @ $2.40/W) | $118,000 |
-| Battery (40 kWh, ~$1,000/kWh installed) | $40,000 |
 | 400 A service upgrade | $6,000 |
 | Subpanels + load management | $4,000 |
 | Two L2 EVSEs (48 A, installed) | $4,000 |
-| **Pre-ITC total** | **~$172,000** |
-| Post-ITC @ 30% (if ITC survives 2026) | **~$120,000** |
-| Post-ITC @ 0% (ITC expired) | $172,000 |
+| **Pre-ITC total** | **~$132,000** |
+| Post-ITC @ 30% (if ITC survives 2026) | **~$92,000** |
+| Post-ITC @ 0% (ITC expired) | $132,000 |
+| *Optional battery, 27–40 kWh, decided on its own* | *+$27,000 – $40,000* |
 
 ITC status for residential cash/loan installs after Dec 31, 2025 is **uncertain** per [pricing.md](book-section/solar-power/pricing) — verify currency before signing. Full table for all three scenarios: [cost.md](book-section/sizing/cost).
 
@@ -85,11 +85,11 @@ One case for the next iteration to evaluate bids against:
 |---|---|
 | PV (DC) | **49 kWp** (~120 modules @ 410 W) |
 | Inverter (AC) | **40 kW** hybrid string + DC optimizers, ILR ~1.22 |
-| Battery (usable) | **40 kWh** (3× Powerwall 3 or equivalent) |
+| Battery (usable) | **optional** — $0, 27 kWh or 40 kWh, priced and decided on its own |
 | Service panel | **400 A** main with 4× subpanels (gaming, EV, HVAC/DHW critical, general) |
 | Roof | Primary house roof + detached-garage roof; ground-mount/pergola if measured area shorts |
-| All-in net of 30% ITC | **~$120,000** |
-| All-in without ITC | **~$172,000** |
+| All-in net of 30% ITC | **~$92,000** |
+| All-in without ITC | **~$132,000** |
 
 Rationale and what would move this number: [recommendation.md](book-section/sizing/recommendation).
 

@@ -31,19 +31,21 @@ Per [pricing/components.md](book-section/pricing/components#service-panel-upgrad
 
 ## Cost table — three scenarios
 
-| Line | Low (32 kWp / 27 kWh) | Nominal (49 kWp / 40 kWh) | High (58 kWp / 40 kWh) |
+The battery is **not in these totals**. It does not pay for itself under Provo's flat tariff, so it is priced on its own below and decided on its own per [battery.md](book-section/sizing/battery).
+
+| Line | Low (32 kWp) | Nominal (49 kWp) | High (58 kWp) |
 |---|---|---|---|
 | PV @ $2.40/W | $76,800 | $117,600 | $139,200 |
-| Battery @ $1,000/kWh | $27,000 | $40,000 | $40,000 |
 | 400 A service + subpanels + monitoring | $9,700 | $9,700 | $9,700 |
 | Two L2 EVSEs | $4,000 | $4,000 | $4,000 |
 | Supplement structure (pergola or ground-mount) at $1.50/W premium on 15 kWp portion | $0 | $22,500 | $34,500 |
-| Contingency (8%) | $9,400 | $15,500 | $18,200 |
-| **Pre-ITC total** | **~$127,000** | **~$209,000** | **~$246,000** |
-| Post-ITC @ 30% | **~$89,000** | **~$146,000** | **~$172,000** |
-| Post-ITC @ 0% (ITC expired) | $127,000 | $209,000 | $246,000 |
+| Contingency (8%) | $7,200 | $12,300 | $15,000 |
+| **Pre-ITC total** | **~$98,000** | **~$166,000** | **~$202,000** |
+| Post-ITC @ 30% | **~$68,000** | **~$116,000** | **~$142,000** |
+| Post-ITC @ 0% (ITC expired) | $98,000 | $166,000 | $202,000 |
+| *Optional battery @ $1,000/kWh* | *+$27,000 (27 kWh)* | *+$40,000 (40 kWh)* | *+$40,000 (40 kWh)* |
 
-(The summary in the top-level [sizing.md](book-section/solar-power/sizing) used a tighter cost table at $172k pre-ITC — that version assumed no supplement structure and a smaller contingency. The fuller table here, with supplement and 8% contingency, is the more defensible planning number. Both are valid bid-anchor brackets; the bid stage will resolve which one fits the measured roof.)
+(The summary in the top-level [sizing.md](book-section/solar-power/sizing) uses a tighter table at $132k pre-ITC — that version assumes no supplement structure and a smaller contingency. The fuller table here, with supplement and 8% contingency, is the more defensible planning number. Both are valid bid-anchor brackets; the bid stage will resolve which one fits the measured roof.)
 
 ## ITC status uncertainty — explicit
 
@@ -62,11 +64,11 @@ Useful cross-check against simply paying Provo Power retail for 25 years:
 
 | Scenario | 25-yr energy delivered (kWh) | All-in pre-ITC | $/kWh delivered (no ITC) | $/kWh delivered (30% ITC) |
 |---|---|---|---|---|
-| Low | 32 kWp × 1,500 × 22.5 (degradation-aware) ≈ 1.08 M | $127,000 | $0.118 | $0.082 |
-| Nominal | 49 × 1,500 × 22.5 ≈ 1.65 M | $209,000 | $0.127 | $0.089 |
-| High | 58 × 1,500 × 22.5 ≈ 1.96 M | $246,000 | $0.126 | $0.088 |
+| Low | 32 kWp × 1,500 × 22.5 (degradation-aware) ≈ 1.08 M | $98,000 | $0.091 | $0.063 |
+| Nominal | 49 × 1,500 × 22.5 ≈ 1.65 M | $166,000 | $0.101 | $0.070 |
+| High | 58 × 1,500 × 22.5 ≈ 1.96 M | $202,000 | $0.103 | $0.072 |
 
-Provo Power residential retail (Schedule 1) is currently $0.07–$0.13/kWh across its three tiers, with the marginal rate at $0.13/kWh above 1,000 kWh/mo (verify; rate schedules update yearly). The nominal-case all-in $/kWh delivered without ITC is roughly at parity with retail electricity. With ITC the system is a clear win on price; without ITC it's a wash on price and a win on resilience + self-sufficiency.
+Provo Power residential retail (Schedule 1) is currently $0.07–$0.13/kWh across its three tiers, with the marginal rate at $0.13/kWh above 1,000 kWh/mo (verify; rate schedules update yearly). This house sits deep in the third tier, so the kWh the array displaces are $0.13 ones. At ~$0.10/kWh delivered with no ITC the array beats the marginal tier outright, and with ITC it beats every tier. Adding the battery back would push the nominal case to ~$0.125/kWh — back to parity — which is the whole reason it is priced separately.
 
 Two things this $/kWh number does *not* include:
 
@@ -75,15 +77,16 @@ Two things this $/kWh number does *not* include:
 
 ## What moves the cost most
 
-Ranked by leverage on the nominal $209,000 pre-ITC:
+Ranked by leverage on the nominal $166,000 pre-ITC:
 
-1. **Supplement structure necessity** — if measured roof area fits 49 kWp directly, the $22,500 pergola/ground-mount line goes to zero. **−$22,500 (−11%)**.
+1. **Supplement structure necessity** — if measured roof area fits 49 kWp directly, the $22,500 pergola/ground-mount line goes to zero. **−$22,500 (−14%)**.
 2. **$/W blended outcome** — bid spread $2.20–$2.60. Each $0.10/W is **±$5,000** on the PV portion alone.
-3. **Envelope retrofit shift** — moving from nominal to low demand saves 17 kWp of PV plus the supplement structure. **−$80,000+**, but the retrofit itself costs $30k–$80k.
-4. **Battery scope** — dropping from 40 kWh to 27 kWh saves **$13,000**. Reduces outage ride-through and daily-shift headroom.
-5. **ITC restoration** — **−$63,000** on the nominal post-ITC number if it lands. Out of buyer control.
-6. **Service-panel scope** — Path A (200 A + SPAN) instead of Path C (400 A) saves $4,000 but introduces the management-as-single-point-of-failure trade per [topology.md](book-section/sizing/topology).
+3. **Envelope retrofit shift** — moving from nominal to low demand saves 17 kWp of PV plus the supplement structure. **−$68,000**, but the retrofit itself costs $30k–$80k.
+4. **ITC restoration** — **−$50,000** on the nominal post-ITC number if it lands. Out of buyer control.
+5. **Service-panel scope** — Path A (200 A + SPAN) instead of Path C (400 A) saves $4,000 but introduces the management-as-single-point-of-failure trade per [topology.md](book-section/sizing/topology).
+
+The battery is the largest single discretionary number in the whole stack at **$0 / $27,000 / $40,000**, and it sits outside this ranking because it is outside the totals.
 
 ## Carry-forward to [recommendation.md](book-section/sizing/recommendation)
 
-The planning case anchors at **~$200k pre-ITC / ~$140k post-ITC** under the conservative assumption that one supplement structure is needed. The next file ranks the sensitivity levers and proposes the single planning case the next iteration evaluates bids against.
+The planning case anchors at **~$166k pre-ITC / ~$116k post-ITC**, battery excluded, under the conservative assumption that one supplement structure is needed. The next file ranks the sensitivity levers and proposes the single planning case the next iteration evaluates bids against.
