@@ -18,11 +18,6 @@ export const nimueImageManagement = {
         "Met for every image page: `file-property/image-bytes` is an uncommitted png beside each, written by plain copy since the guard lets an ignored path through, and a jpg is converted on the way in. Still elsewhere: 167 objects in the SeaweedFS bucket `agent-sessions` under `images/`, 38 of them persona covers that are pages already, which `/api/image/:imageId` serves; and 80 committed PNGs beside persona pages as `desktop-wallpaper` and `mobile-wallpaper`, byte-identical to image pages.",
     },
     {
-      statement: "An image states the grade Alan marked it.",
-      workingMemory:
-        "`grade` is a grade property, `Alan's mark for how good a thing is`, on a ladder from `F` up to `S+` stated once on `page/grade-property/grade-property.page-type.ts` with a color for each rung. It is declared on `page` itself and optional, so every page may state one and `image` needs no declaration of its own. What is left here is that no image is a page yet, so nothing carries a grade.",
-    },
-    {
       statement: "No two images akasha holds are the same bytes.",
       workingMemory:
         "Among image pages it holds by construction: a slug is `image-` and the first sixteen hex of the sha256 of the bytes, so a second copy is the same page. Still doubled: the 80 committed PNGs beside persona pages, each byte-identical to an image page, which go once `desktop-wallpaper` and `mobile-wallpaper` are relations to images; and 38 persona covers held again in the object store.",
