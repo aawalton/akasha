@@ -45,7 +45,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "An apply spends its own processor on the change rather than on reading the checkout.",
       workingMemory:
-        "An apply of one path is 2.10s of wall and 2.74s of processor, from 4.53s and 8.69s, and makes 64,000 read calls where it made 935,132. The checks are 1.43s of that, and four of the forty-six are 89% of them: typecheck, folder-matches-a-shape, extension-host-reaches-no-bun-code and file-length. `claimedUp` listed every page of a type to learn which page claims one folder, and now reads that folder: folder-matches-a-shape is 0.133s from 0.346s.",
+        "An apply of one path is 2.10s of wall and 2.74s of processor, from 4.53s and 8.69s. The checks are 1.43s of that, and four of the forty-six are 89% of them: typecheck, folder-matches-a-shape, extension-host-reaches-no-bun-code and file-length. The page claiming a file is looked for in that file's own folder, and the page types beneath one are read from what they extend rather than from a reference file for each.",
     },
   ],
   constraints: [
