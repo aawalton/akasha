@@ -3,7 +3,7 @@
 {"extends":["page-type/module"]}
 {"id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"loadedExport":["runMechanic"]}
-{"parts":["game-mechanic/linear-stat"]}
+{"parts":["game-mechanic/linear-stat","module/mechanic-running"]}
 {"schema":"jsonl"}
 {"slug":"game-mechanic"}
 {"type":"page-type/page-type"}
