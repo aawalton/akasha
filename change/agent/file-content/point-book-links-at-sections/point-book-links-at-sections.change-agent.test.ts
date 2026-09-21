@@ -37,6 +37,16 @@ const GAMMA_PAGE = `${SECTIONS}/notes/gamma.${bookSection.slug}.ts`
 
 const NUMBERED_PAGE = `${SECTIONS}/notes/book-chapter-001-delta.${bookSection.slug}.ts`
 
+const FAMILY_PAGE = `${SECTIONS}/eu-citizenship-estonia.${bookSection.slug}.ts`
+
+const FAMILY_TEXT = `${SECTIONS}/eu-citizenship-estonia.${bookSection.slug}.chapter-text.md`
+
+const KIN_PAGE = `${SECTIONS}/eu-residency-estonia.${bookSection.slug}.ts`
+
+const FLAT_PAGE = `${SECTIONS}/eu-residency-summary.${bookSection.slug}.ts`
+
+const WHOLE_PAGE = `${SECTIONS}/legible-numbers.${bookSection.slug}.ts`
+
 const TWIN_PAGE = `${SECTIONS}/other/gamma.${bookSection.slug}.ts`
 
 const PAGES: Readonly<Record<string, Readonly<Record<string, string>>>> = {
@@ -44,6 +54,10 @@ const PAGES: Readonly<Record<string, Readonly<Record<string, string>>>> = {
   [BETA_PAGE]: { slug: "beta", sectionOf: IN_BOOK },
   [GAMMA_PAGE]: { slug: "gamma", sectionOf: IN_BOOK },
   [NUMBERED_PAGE]: { slug: "book-chapter-001-delta", sectionOf: IN_BOOK },
+  [FAMILY_PAGE]: { slug: "eu-citizenship-estonia", sectionOf: IN_BOOK },
+  [KIN_PAGE]: { slug: "eu-residency-estonia", sectionOf: IN_BOOK },
+  [FLAT_PAGE]: { slug: "eu-residency-summary", sectionOf: IN_BOOK },
+  [WHOLE_PAGE]: { slug: "legible-numbers", sectionOf: IN_BOOK },
 }
 
 const TWINNED: Readonly<Record<string, Readonly<Record<string, string>>>> = {
@@ -126,6 +140,42 @@ test("a name reaching no section is tried again under the chapter prefix", () =>
   )
 
   expect(said).toBe(`see [delta](${addressOf("book-chapter-001-delta")})\n`)
+})
+
+test("a chain of folders is tried as one name joined the way a slug joins words", () => {
+  const world = worldOver({}, PAGES)
+
+  const said = pointedIn(
+    sectionsIn(world),
+    ALPHA_TEXT,
+    "see [s](eu-residency/summary.book-chapter.md)\n"
+  )
+
+  expect(said).toBe(`see [s](${addressOf("eu-residency-summary")})\n`)
+})
+
+test("a link climbing out is read against the folders its own name was flattened out of", () => {
+  const world = worldOver({}, PAGES)
+
+  const said = pointedIn(
+    sectionsIn(world),
+    FAMILY_TEXT,
+    "see [e](../residency/estonia.book-chapter.md)\n"
+  )
+
+  expect(said).toBe(`see [e](${addressOf("eu-residency-estonia")})\n`)
+})
+
+test("a name opening with a number is tried with that number taken off", () => {
+  const world = worldOver({}, PAGES)
+
+  const said = pointedIn(
+    sectionsIn(world),
+    ALPHA_TEXT,
+    "see [n](../001-legible-numbers.book-chapter.md)\n"
+  )
+
+  expect(said).toBe(`see [n](${addressOf("legible-numbers")})\n`)
 })
 
 test("a path climbing out of its folder reaches the folder above", () => {

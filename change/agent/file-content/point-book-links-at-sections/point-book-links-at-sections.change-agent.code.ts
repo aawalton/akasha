@@ -20,7 +20,11 @@ const CHAPTER = "book-chapter"
 
 const SPELLED = `.${CHAPTER}.md`
 
-const PREFIX = `${CHAPTER}-`
+const DASHED = "-"
+
+const PREFIX = `${CHAPTER}${DASHED}`
+
+const NUMBERED = /^\d+-(.+)$/
 
 const KINDS: readonly string[] = ["*.md"]
 
@@ -111,9 +115,10 @@ export function sectionsIn(world: World): Sections {
 export function pointedIn(sections: Sections, path: string, text: string): string | null {
   const from = sections.at.get(pageBeside(path))
   const book = from === undefined ? null : (sections.bookOf.get(from) ?? null)
+  const own = from === undefined ? null : slugIn(from)
   let moved = false
   const now = text.replace(LINKED, (whole, target: string, anchor: string | undefined) => {
-    const address = reachedBy(sections, path, target, book)
+    const address = reachedBy(sections, path, target, book, own)
     if (address === null) return whole
     moved = true
     return `](${address}${anchor ?? ""})`
@@ -132,19 +137,50 @@ function namesTried(target: string): readonly string[] {
   return [target, `${folder}${PREFIX}${nameOf(target)}`]
 }
 
+export function flattened(target: string): string {
+  const parts: string[] = []
+  for (const one of target.split(APART_BY)) {
+    if (one === "" || one === "." || one === "..") continue
+    parts.push(one)
+  }
+  return parts.join(DASHED)
+}
+
+function unnumbered(name: string): string | null {
+  const said = NUMBERED.exec(name)
+  return said?.[1] ?? null
+}
+
+function waysTo(name: string): readonly string[] {
+  const said = [name, `${PREFIX}${name}`]
+  const bare = unnumbered(name)
+  if (bare !== null) said.push(bare)
+  return said
+}
+
+function slugsTried(target: string, own: string | null): readonly string[] {
+  const said: string[] = [...waysTo(nameOf(target)), ...waysTo(flattened(target))]
+  if (own !== null) {
+    const under = joined(folderOf(own.split(DASHED).join(APART_BY)), target)
+    said.push(...waysTo(flattened(under)))
+  }
+  return said
+}
+
 function reachedBy(
   sections: Sections,
   path: string,
   target: string,
-  book: string | null
+  book: string | null,
+  own: string | null
 ): string | null {
   for (const one of namesTried(target)) {
     const found = sections.at.get(`${joined(folderOf(path), one)}${PAGE_ENDING}`)
     if (found !== undefined) return found
   }
   if (book === null) return null
-  for (const one of namesTried(target)) {
-    const held = sections.named.get(`${book}${APART_BY}${nameOf(one)}`)
+  for (const one of slugsTried(target, own)) {
+    const held = sections.named.get(`${book}${APART_BY}${one}`)
     if (held !== undefined && held.length === 1) return held[0] ?? null
   }
   return null

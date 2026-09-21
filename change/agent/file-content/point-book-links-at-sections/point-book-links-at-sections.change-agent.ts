@@ -59,6 +59,18 @@ export const pointBookLinksAtSections = {
       statement:
         "A name reaching no section is tried again under the prefix a numbered section is slugged with.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chain of folders is also tried as one name, joined the way a slug joins words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section's own name is read as the folders that section was flattened out of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name opening with a number is also tried with that number taken off.",
+    },
   ],
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,
