@@ -5,6 +5,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackForGoodLiveFrom
     id: "01a0a6c5-0d57-7a7b-ad52-8b5703bc7234",
     type: "page-type/track",
     slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-for-good-live-from-the-gershwin-theatre",
+    grade: "C",
     ownLength: 4.52825,
     ownProgress: 0,
     partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
