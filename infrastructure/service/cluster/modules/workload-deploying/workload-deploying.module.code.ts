@@ -191,7 +191,10 @@ export function placedIn(plan: Plan, manifest: Manifest): readonly string[] {
 }
 
 export function appliedOf(plan: Plan, manifest: Manifest): Matched {
-  const ran = runKubectlOn(["diff", ...placedIn(plan, manifest), "-f", "-"], manifest.yaml)
+  const ran = runKubectlOn(
+    ["diff", "--server-side", "--force-conflicts", ...placedIn(plan, manifest), "-f", "-"],
+    manifest.yaml
+  )
   if (ran.code === 0) return { stands: true }
   if (ran.code === 1) return { stands: false }
   return { why: `kubectl diff for ${manifest.path} exited ${ran.code}: ${ran.stderr.trim()}` }

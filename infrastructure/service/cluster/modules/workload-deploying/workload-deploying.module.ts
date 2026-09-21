@@ -82,6 +82,15 @@ export const workloadDeploying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Asking whether a manifest already matches merges that manifest the way the apply merges it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field a manifest no longer states is a manifest that no longer matches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A plan may name no workload, so what is applied is the manifests alone.",
     },
     {
