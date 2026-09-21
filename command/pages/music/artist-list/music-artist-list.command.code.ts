@@ -15,6 +15,11 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { musicArtistList as page } from "akasha/command/pages/music/artist-list/music-artist-list.command.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  carriedFor,
+  computedInto,
+  gatheredFor,
+} from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 
 const ARTIST = "artist"
 
@@ -26,8 +31,6 @@ type Held = Record<string, unknown>
 
 type Roll = {
   releases: number
-  length: number
-  progress: number
   ranked: number
 }
 
@@ -92,10 +95,8 @@ function rolledBySlug(releases: readonly Held[]): ReadonlyMap<string, Roll> {
     const named = firstIn(one, "partOfCollections")
     if (named === undefined) continue
     const slug = slugOf(named)
-    const held = rolled.get(slug) ?? { releases: 0, length: 0, progress: 0, ranked: 0 }
+    const held = rolled.get(slug) ?? { releases: 0, ranked: 0 }
     held.releases += 1
-    held.length += count(one, "ownLength")
-    held.progress += count(one, "ownProgress")
     held.ranked += rankOf(one) === null ? 0 : 1
     rolled.set(slug, held)
   }
@@ -114,15 +115,15 @@ export function rowsOf(
     if (slug === undefined) continue
     const stated = statusOf(one)
     if (wanted !== null && stated !== wanted) continue
-    const roll = rolled.get(slug) ?? { releases: 0, length: 0, progress: 0, ranked: 0 }
+    const roll = rolled.get(slug) ?? { releases: 0, ranked: 0 }
     rows.push({
       slug,
       title: firstIn(one, "title") ?? slug,
       status: stated,
       rank: rankOf(one),
       releases: roll.releases,
-      length: roll.length,
-      progress: roll.progress,
+      length: count(one, "totalLength"),
+      progress: count(one, "totalProgress"),
       ranked: roll.ranked,
     })
   }
@@ -141,7 +142,8 @@ export function rungsOf(rows: readonly ArtistRow[]): readonly Rung[] {
 }
 
 export function artistsOf(root: string, wanted: Status | null): Artists {
-  const artists = valuesOfType(root, ARTIST).map((one) => one.value as Held)
+  const counted = computedInto(root, gatheredFor(root, ARTIST, carriedFor(root, ARTIST)))
+  const artists = counted.rows.map((one) => one.value as Held)
   const releases = valuesOfType(root, RELEASE).map((one) => one.value as Held)
   const rows = rowsOf(artists, releases, wanted)
   return {

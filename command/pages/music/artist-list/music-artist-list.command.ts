@@ -8,11 +8,15 @@ export const musicArtistList = {
     "the command listing the artists Alan keeps, what he graded each and how far he is in",
   code: "ts",
   test: "ts",
+  maxWallSeconds: 300,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "How far through an artist Alan is, is added up from the releases naming that artist.",
+      statement: "How far through an artist Alan is, is read off that artist's own totals.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here adds a length up over the pages an artist holds.",
     },
     {
       decisionKind: "decision-kind/departure",
