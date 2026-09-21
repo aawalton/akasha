@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "267 are left, and the count rises as other seats file more. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad, and has taken 14. Next is `car-trim-declares-two-of-the-sixty-nine-properties-its-rows-carry`. The 56 under `alan-book/all-about-alan` are still unread. Verify each against the tree before putting it to Alan; several were already dead.\n",
+        "262 are left, and the count rises as other seats file more. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad, and has taken 21. Next is `book-dependencies-have-alternatives`, entry 28 of 275. The queue is inside the 56 under `alan-book/all-about-alan`, which are Alan's own notes rather than code. Verify each against the tree first; several were already dead, and the migration moved every path their evidence names.\n",
     },
   ],
   constraints: [
