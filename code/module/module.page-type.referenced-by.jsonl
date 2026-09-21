@@ -6375,7 +6375,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/character-import/character-import.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/companion-import/companion-import.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/served-watcher-version/served-watcher-version.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/supabase-service-client/supabase-service-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/watcher-dir/watcher-dir.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/account-achievements-panel-card/account-achievements-panel-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/account-collectibles-panel-card/account-collectibles-panel-card.module.ts"}
@@ -6440,8 +6439,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/characters-tab-filters/characters-tab-filters.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/characters-tab-panels/characters-tab-panels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/cli-link-content/cli-link-content.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/cli-link-failure/cli-link-failure.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/companion-actions/companion-actions.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.ts"}

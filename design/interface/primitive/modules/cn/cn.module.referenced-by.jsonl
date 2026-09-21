@@ -129,7 +129,6 @@
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/character-editor-tabs-list/character-editor-tabs-list.module.code.tsx"}
-{"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/cli-link-content/cli-link-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/companion-editor-content/companion-editor-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx"}

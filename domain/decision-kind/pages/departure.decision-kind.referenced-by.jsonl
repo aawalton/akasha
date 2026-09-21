@@ -5363,7 +5363,6 @@
 {"propertySlug":"decision-kind","path":"temper/web/.server/character-import/character-import.module.ts","id":"01a0640f-8510-7c04-b799-f12ba75125ab"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/companion-import/companion-import.module.ts","id":"01a0640f-8510-72bd-a455-0d889d0077fd"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/served-watcher-version/served-watcher-version.module.ts","id":"01a0640f-850f-75fc-8894-4e1d0d24e30c"}
-{"propertySlug":"decision-kind","path":"temper/web/.server/supabase-service-client/supabase-service-client.module.ts","id":"01a0640f-8510-7fb7-b3bd-04ccc6376a67"}
 {"propertySlug":"decision-kind","path":"temper/web/.server/watcher-dir/watcher-dir.module.ts","id":"01a0640f-850f-7f75-abe1-b02d6a21efda"}
 {"propertySlug":"decision-kind","path":"temper/web/look/temper-web-look.stylesheet.ts","id":"01a0640f-850f-7bfd-8070-ae903b54ddb0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-progress/account-progress.module.ts","id":"01a06421-f74b-7ac7-a2c3-4120a9e80006"}
