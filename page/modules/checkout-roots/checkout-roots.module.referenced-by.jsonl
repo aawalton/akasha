@@ -100,6 +100,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/surplus/modules/reading/surplus-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/track/daily/modules/day-opening/day-opening.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/track/daily/modules/day-opening/day-opening.module.test.ts"}

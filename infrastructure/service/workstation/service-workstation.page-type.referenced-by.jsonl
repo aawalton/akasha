@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/surplus/relay-service/surplus-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/surplus/service-workstations/fall-notifier/surplus-fall-notifier.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/track/daily/active-calories-service/active-calories-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/track/daily/topic-words-service/topic-words-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts"}

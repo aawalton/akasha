@@ -5,5 +5,5 @@ export const musicListening = {
   type: "page-type/domain",
   slug: "music-listening",
   definition: "what has been listened to",
-  parts: ["page-type/heard-music"],
+  parts: ["page-type/heard-music", "service-workstation/music-capture"],
 } as const satisfies Domain
