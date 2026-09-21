@@ -1,0 +1,8 @@
+{"definition":"what beating an encounter is worth towards the next level"}
+{"id":"01a0c647-dd96-740e-bbb3-973d342ad2bd"}
+{"max":null}
+{"nullable":false}
+{"propertySlug":"experience"}
+{"slug":"experience-reward"}
+{"type":"page-type/number-property"}
+{"types":"ts"}
