@@ -62,7 +62,8 @@ export const check = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The other phases judge only the changed pages.",
+      statement:
+        "The other phases judge the pages a change could have made false rather than every page.",
     },
     {
       decisionKind: "decision-kind/departure",

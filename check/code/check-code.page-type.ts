@@ -139,7 +139,8 @@ export const checkCode = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The change phase judges only the paths a change has.",
+      statement:
+        "The change phase judges what a change could have made false rather than the paths it has.",
     },
     {
       decisionKind: "decision-kind/departure",
