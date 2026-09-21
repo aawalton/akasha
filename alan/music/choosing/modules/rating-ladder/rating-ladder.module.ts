@@ -4,13 +4,17 @@ export const ratingLadder = {
   id: "01a06281-4d9d-7001-9db5-f9ea87db3f71",
   type: "page-type/module",
   slug: "rating-ladder",
-  definition: "the grades Alan gives, ordered from worst to best",
+  definition: "where a grade sits on the ladder, and which grades Alan likes",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The ladder runs from `F` up to `S+` in sixteen rungs.",
+      statement: "The ladder is the values the `grade` property states, in the order stated.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No rung is written out here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -23,14 +27,6 @@ export const ratingLadder = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A grade of `B-` or better is liked.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Nine of the sixteen grades are liked.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No grade is named here that the rating property does not admit.",
     },
   ],
 } as const satisfies Module

@@ -1,25 +1,9 @@
+import { grade } from "akasha/page/properties/grade.grade-property.ts"
 import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
 
 export type MusicRating = Grade
 
-export const MUSIC_RATINGS = [
-  "F",
-  "D-",
-  "D",
-  "D+",
-  "C-",
-  "C",
-  "C+",
-  "B-",
-  "B",
-  "B+",
-  "A-",
-  "A",
-  "A+",
-  "S-",
-  "S",
-  "S+",
-] as const satisfies readonly Grade[]
+export const MUSIC_RATINGS = grade.values
 
 const LIKED_FROM: MusicRating = "B-"
 

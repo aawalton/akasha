@@ -6,37 +6,11 @@ import {
   type MusicRating,
   ratingRung,
 } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
+import { grade } from "akasha/page/properties/grade.grade-property.ts"
 
 describe("MUSIC_RATINGS", () => {
-  test("runs from F up to S+ in sixteen rungs", () => {
-    expect(MUSIC_RATINGS.length).toBe(16)
-    expect(MUSIC_RATINGS[0]).toBe("F")
-    expect(MUSIC_RATINGS[15]).toBe("S+")
-  })
-
-  test("names each grade once", () => {
-    expect(new Set(MUSIC_RATINGS).size).toBe(16)
-  })
-
-  test("orders the ladder worst to best", () => {
-    expect([...MUSIC_RATINGS]).toEqual([
-      "F",
-      "D-",
-      "D",
-      "D+",
-      "C-",
-      "C",
-      "C+",
-      "B-",
-      "B",
-      "B+",
-      "A-",
-      "A",
-      "A+",
-      "S-",
-      "S",
-      "S+",
-    ])
+  test("is the ladder the grade property states, rather than a second list", () => {
+    expect(MUSIC_RATINGS).toBe(grade.values)
   })
 })
 
