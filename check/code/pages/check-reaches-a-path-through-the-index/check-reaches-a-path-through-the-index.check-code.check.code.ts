@@ -32,6 +32,7 @@ export function facingFor(shadow: Shadow): Facing {
   if (found !== undefined) return found
   const index = shadow.index
   const carried = new Map<string, Carried>()
+  const kinds = new Map<string, ReadonlySet<string>>()
   const made: Facing = {
     kindsUnder: (of) => index.kindsUnder(of),
     everyOfType: (kind) => index.everyOfType(kind),
@@ -41,6 +42,13 @@ export function facingFor(shadow: Shadow): Facing {
       if (held !== undefined) return held
       const one = index.carryingOf(named)
       carried.set(named, one)
+      return one
+    },
+    typesCarrying: (named) => {
+      const held = kinds.get(named)
+      if (held !== undefined) return held
+      const one = index.typesCarrying(named)
+      kinds.set(named, one)
       return one
     },
     root: shadow.root,

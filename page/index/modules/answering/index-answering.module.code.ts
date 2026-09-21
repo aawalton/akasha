@@ -23,6 +23,7 @@ import {
 import {
   type Declaring,
   declaringOf,
+  typesCarrying,
 } from "akasha/page/index/modules/property-declaring/property-declaring.module.code.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
@@ -112,6 +113,7 @@ export type Answering = {
   readonly sourceIn: () => Source
   readonly typeSlugById: (id: string) => string | null
   readonly typeSlugOf: (id: string) => string
+  readonly typesCarrying: (named: string) => ReadonlySet<string>
   readonly uncommittedFiledAt: () => UncommittedBy
   readonly valueAt: (path: string) => Value | null
   readonly valuesByPath: (pageTypeSlug: string) => ReadonlyMap<string, Value>
@@ -162,6 +164,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     sourceIn: heldOnce(() => sourceIn(reading, pageOf)),
     typeSlugById: (id) => typeSlugById(reading, id),
     typeSlugOf: (id) => typeSlugOf(reading, id),
+    typesCarrying: (named) => typesCarrying(reading, named),
     uncommittedFiledAt: heldOnce(() => uncommittedFiledAt(reading)),
     valueAt: (path) => pageOf(path),
     valuesByPath: (pageTypeSlug) => valuesByPath(reading, pageTypeSlug),
