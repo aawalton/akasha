@@ -14,7 +14,7 @@ export const akashaFindingsToZero = {
     },
   ],
   constraints: [
-    "A finding is taken up one at a time, in LC_ALL=C alpha order, and read fully before the next is read.",
+    "A finding is taken up one at a time, in the order the Findings panel draws, and read fully before the next is read.",
     "No sweep is made over the findings as a whole.",
     "The first run is taken alone, and drops every finding that is a clear removal.",
     "A finding that is no clear removal is kept for the second run.",
