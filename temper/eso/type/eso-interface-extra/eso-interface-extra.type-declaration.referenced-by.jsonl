@@ -20,9 +20,9 @@
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-settings-world/quiet-settings-world.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-strings/quiet-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-world/quiet-world.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-window/journal-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-status-window-debug/histoire-status-window-debug.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/library/lib-notification/modules/notification-provider-link/notification-provider-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/library/lib-notification/modules/notification-row-overrides/notification-row-overrides.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-window/journal-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-debug/histoire-status-window-debug.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-notifications/lost-treasure-notifications.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

@@ -27,9 +27,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-camera/quiet-camera.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-events/inventory-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-init/keybinder-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-shape/journal-shape.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-window/journal-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/library/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"}
@@ -50,4 +47,7 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-list-methods/order-list-box-list-methods.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-shape/journal-shape.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-window/journal-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

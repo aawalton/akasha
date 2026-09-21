@@ -60,6 +60,10 @@ export const temperAddon = {
     "temper-addon/temper-lib-chat-message",
     "temper-addon/temper-lib-custom-menu",
     "temper-addon/temper-lib-data-encode",
+    "temper-addon/temper-lib-debug-logger",
+    "temper-addon/temper-lib-extended-journal",
+    "temper-addon/temper-lib-gps",
+    "temper-addon/temper-lib-histoire",
   ],
   extends: ["page-type/service"],
   properties: [

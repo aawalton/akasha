@@ -2,6 +2,6 @@
 {"propertySlug":"import","fileName":"eso-link-handler.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-init/next-boss-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-link-handler.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-state/next-boss-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-link-handler.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-link-handler.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-startup/histoire-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-link-handler.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-link-handler.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-startup/histoire-startup.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}
