@@ -5,6 +5,7 @@ export const arianaGrande3435 = {
   type: "page-type/song",
   slug: "ariana-grande-34-35",
   rank: "A+",
+  tags: ["attraction"],
   externalIdentity: [
     {
       source: "musicbrainz",
