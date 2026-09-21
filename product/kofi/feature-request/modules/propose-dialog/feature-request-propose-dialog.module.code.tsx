@@ -12,7 +12,9 @@ import {
 import { Label } from "akasha/design/interface/primitive/modules/label/label.module.code.tsx"
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
 import { Textarea } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
+import { readPagesAgain } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { PROPOSAL_COST } from "akasha/product/kofi/contribution-point/modules/spending/contribution-point-spending.module.code.ts"
+import { featureRequest } from "akasha/product/kofi/feature-request/feature-request.page-type.ts"
 import { featureRequestAsk } from "akasha/product/kofi/feature-request/properties/feature-request-ask.text-property.ts"
 import { useState } from "react"
 
@@ -81,6 +83,7 @@ export function ProposeDialog({
       if (typeof said.slug === "string") onProposed?.(said.slug)
       setWorking(false)
       setOpened(true)
+      void readPagesAgain(featureRequest.slug)
     } catch {
       setRefused(WENT_WRONG)
       setWorking(false)

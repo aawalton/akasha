@@ -41,5 +41,9 @@ export const pageUiStore = {
       decisionKind: "decision-kind/gap",
       statement: "Nothing here is proved by a test of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type written outside the store is read again on being asked to.",
+    },
   ],
 } as const satisfies Domain

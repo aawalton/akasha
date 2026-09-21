@@ -71,6 +71,11 @@ export async function awaitPagesStoreReady(): Promise<PagesStore> {
   return store
 }
 
+export async function readPagesAgain(pageTypeSlug: string): Promise<void> {
+  const store = await getPagesStore()
+  await store.readSlugAgain(pageTypeSlug)
+}
+
 export function configureContentPersistence(port: ContentPagePersistencePort | null): undefined {
   contentPersistencePort = port
 }

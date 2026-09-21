@@ -20,6 +20,7 @@ export interface FetchAttachDeps {
   readonly onShapeLive: (shapeKey: string) => undefined
   readonly fetchImpl: FetchImpl
   readonly pollMs: number
+  readonly readingAgain: Map<string, () => Promise<void>>
 }
 
 export interface FetchPlan {
@@ -184,10 +185,13 @@ export function attachFetch(deps: FetchAttachDeps, pageTypeSlug: string): () => 
     })
   }
 
+  deps.readingAgain.set(shapeKey, poll)
+
   tick()
 
   return () => {
     stopped = true
+    deps.readingAgain.delete(shapeKey)
     if (timer !== null) {
       clearTimeout(timer)
       timer = null

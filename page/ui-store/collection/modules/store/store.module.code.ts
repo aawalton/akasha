@@ -83,6 +83,7 @@ export interface PagesStore {
   readonly isFilteredReady: (shapeKey: string) => boolean
   readonly whenFilteredReady: (shapeKey: string) => Promise<void>
   readonly setAuth: (args: StoreAuthArgs) => undefined
+  readonly readSlugAgain: (slug: string) => Promise<void>
   readonly whenHydrated: Promise<void>
 }
 
@@ -111,6 +112,7 @@ export function createPagesStore(
   }
   onMutation = scheduleSave
   const deliveredByShape = new Map<string, Set<string>>()
+  const readingAgain = new Map<string, () => Promise<void>>()
 
   let token: string | null = null
   let signedIn = false
@@ -243,6 +245,7 @@ export function createPagesStore(
         onShapeLive: markLive,
         fetchImpl,
         pollMs,
+        readingAgain,
       },
       pageTypeSlug
     )
@@ -322,6 +325,7 @@ export function createPagesStore(
     releaseFilteredStream: (shapeKey) => releaseShapeIn(registry, shapeKey),
     isFilteredReady: (shapeKey) => isShapeReadyIn(registry, shapeKey),
     whenFilteredReady: (shapeKey) => whenShapeReadyIn(registry, shapeKey),
+    readSlugAgain: (slug) => readingAgain.get(slug)?.() ?? Promise.resolve(),
     setAuth: (args) => {
       const told = args.owner !== undefined
       const incoming = told

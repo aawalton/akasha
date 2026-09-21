@@ -31,5 +31,10 @@ export const featureRequestProposeDialog = {
       decisionKind: "decision-kind/departure",
       statement: "Where the post goes is handed in, so this reaches no route of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A request that opened is read into the store at once rather than at the next poll.",
+    },
   ],
 } as const satisfies Module
