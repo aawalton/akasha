@@ -24,7 +24,6 @@ export const temper = {
     "module/saved-variables-reader",
     "module/ttc-listing-client",
     "module/unpack-color",
-    "module/use-player",
     "page-type/temper-thing",
     "router-app/temper-web",
     "service-workstation/temper-watcher",

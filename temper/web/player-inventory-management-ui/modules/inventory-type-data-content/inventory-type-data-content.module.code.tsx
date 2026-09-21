@@ -23,7 +23,7 @@ import {
   groupInventoryByType,
 } from "akasha/temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
-import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
+import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import {
   useInventory,
   usePriceExtract,

@@ -5545,7 +5545,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/ttc-listing-client/ttc-listing-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/use-player/use-player.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/bit-writer/bit-writer.module.ts"}
@@ -6505,6 +6504,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-partner-build-url/use-partner-build-url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-passive-filter/use-passive-filter.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-plan-set-target/use-plan-set-target.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-player/use-player.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-scribed-skills/use-scribed-skills.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-skill-bars/use-skill-bars.module.ts"}

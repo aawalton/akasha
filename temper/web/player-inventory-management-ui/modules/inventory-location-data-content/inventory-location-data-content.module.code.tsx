@@ -16,7 +16,7 @@ import { Button } from "akasha/design/interface/primitive/modules/button/button.
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { lookupCurrencyConversionRates } from "akasha/temper/economy/trading/pricing/modules/currency-price-lookup/currency-price-lookup.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
-import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
+import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import {
   useInventory,
   usePriceExtract,

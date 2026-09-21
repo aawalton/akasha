@@ -326,5 +326,6 @@ export const temperWeb = {
     "domain/temper-player-completion-skills-morphs-ui",
     "domain/temper-player-economics-ui",
     "domain/temper-player-inventory-management-ui",
+    "module/use-player",
   ],
 } as const satisfies RouterApp
