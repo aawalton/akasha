@@ -56,6 +56,7 @@ export const alanHarness = {
     "domain/better-auth-rr",
     "domain/handover-rr",
     "module/reading-in-flight",
+    "module/router-app-serving",
   ],
   decisions: [
     {
