@@ -1276,6 +1276,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/refresh/message/refresh-message.command.ts","id":"01a082fe-341d-7593-8cfd-8216a7e94c2c"}
 {"propertySlug":"decision-kind","path":"command/pages/refresh/persona/refresh-persona.command.ts","id":"01a082e7-c8d0-7100-993a-5d7b2a70490d"}
 {"propertySlug":"decision-kind","path":"command/pages/request/complete/request-complete.command.ts","id":"01a0c501-03d8-743f-94e6-9e585b39559a"}
+{"propertySlug":"decision-kind","path":"command/pages/request/deny/request-deny.command.ts","id":"01a0c4f6-195d-7865-b1b0-9b857ebc4b64"}
 {"propertySlug":"decision-kind","path":"command/pages/request/modules/reaching/request-reaching.module.ts","id":"01a0c501-03d8-7c26-8ae6-7aec90409155"}
 {"propertySlug":"decision-kind","path":"command/pages/request/publish/request-publish.command.ts","id":"01a0c501-03d8-75ca-9ff4-136d081ccca4"}
 {"propertySlug":"decision-kind","path":"command/pages/seat/messaged/seat-messaged.command.ts","id":"01a0780e-7f14-71fd-ac09-b12de342c207"}

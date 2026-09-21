@@ -170,6 +170,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/measure/performance/measure-performance.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/warrant-saying/warrant-saying.module.code.ts"}

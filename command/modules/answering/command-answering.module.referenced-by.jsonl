@@ -290,6 +290,8 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/refresh/persona/refresh-persona.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/request/complete/request-complete.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/request/complete/request-complete.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/request/deny/request-deny.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/request/publish/request-publish.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/request/publish/request-publish.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts"}
@@ -467,6 +469,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/mobile/sim/tap/mobile-sim-tap.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/model-account/add/model-account-add.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/request/complete/request-complete.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/request/deny/request-deny.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/request/publish/request-publish.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.test.ts"}
