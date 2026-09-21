@@ -3256,6 +3256,7 @@
 {"propertySlug":"decision-kind","path":"story/engine/doctrine/properties/policies.file-property.ts","id":"01a06590-c57a-759d-9dcc-73c83dba1a1a"}
 {"propertySlug":"decision-kind","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
 {"propertySlug":"decision-kind","path":"story/story.domain.ts","id":"01a06d72-54b4-7352-b7db-4c705f35a431"}

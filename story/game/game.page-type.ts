@@ -33,6 +33,7 @@ export const game = {
     "text-property/reader-framing",
     "text-property/themes",
     "text-property/tone",
+    "page-type/game-mechanic",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

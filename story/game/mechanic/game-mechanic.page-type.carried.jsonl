@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A mechanic is reached by the address that mechanic is filed under."},{"decisionKind":"decision-kind/departure","statement":"A mechanic's code is handed what that mechanic reads and answers what changes."},{"decisionKind":"decision-kind/departure","statement":"A mechanic handed the same values answers the same."},{"decisionKind":"decision-kind/absence","statement":"Nothing a mechanic's code reaches lies outside the values handed in."},{"decisionKind":"decision-kind/gap","statement":"A game names the mechanics that game is played by."}]}
+{"definition":"a rule of play reached by name, whose code settles what that rule does"}
+{"extends":["page-type/module"]}
+{"id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
+{"loadedExport":["runMechanic"]}
+{"schema":"jsonl"}
+{"slug":"game-mechanic"}
+{"type":"page-type/page-type"}
+{"types":"ts"}
