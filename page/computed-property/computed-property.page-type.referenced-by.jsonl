@@ -8,6 +8,8 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/own-progress-in-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/own-remaining-in-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/own-remaining.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/parts-length-in-words.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/parts-progress-in-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/parts-remaining-in-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-length-in-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-length.computed-property.code.ts"}
@@ -53,6 +55,8 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/own-progress-in-words.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/own-remaining-in-words.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/own-remaining.computed-property.ts"}
+{"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/parts-length-in-words.computed-property.ts"}
+{"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/parts-progress-in-words.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/parts-remaining-in-words.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/total-length-in-words.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/total-length.computed-property.ts"}

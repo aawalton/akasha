@@ -30,8 +30,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/place/location/properties/review-rating.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/properties/own-length.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/properties/own-progress.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/properties/parts-length-in-words.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/properties/parts-progress-in-words.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/properties/position.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/sync-run/properties/created-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/sync-run/properties/duration-ms.number-property.ts"}

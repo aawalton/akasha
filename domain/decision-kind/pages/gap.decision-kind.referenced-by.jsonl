@@ -94,8 +94,6 @@
 {"propertySlug":"decision-kind","path":"alan/authoring/book-record/properties/record-book-slug.text-property.ts","id":"01a0657d-b91d-7100-a6a6-4e66e1a75ab3"}
 {"propertySlug":"decision-kind","path":"alan/chess/puzzle-set/chess-puzzle-set.page-type.ts","id":"01a06582-bd62-7a9f-a011-94835eaaf909"}
 {"propertySlug":"decision-kind","path":"alan/chess/review-session/chess-review-session.page-type.ts","id":"019f1e54-024f-7c0b-9c78-d44a2a2e9f2e"}
-{"propertySlug":"decision-kind","path":"alan/collection/properties/parts-length-in-words.number-property.ts","id":"01a06959-98a7-7ab5-991b-44150f978745"}
-{"propertySlug":"decision-kind","path":"alan/collection/properties/parts-progress-in-words.number-property.ts","id":"01a06959-98a7-7e83-8ec2-6370d810f6b3"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road-account/royal-road-account.page-type.ts","id":"01a06838-e8da-73c2-8412-6234b402ec6a"}
 {"propertySlug":"decision-kind","path":"alan/collection/type/collection-type.page-type.ts","id":"01a0680f-6f00-7001-b374-6d2a9f5c6102"}
 {"propertySlug":"decision-kind","path":"alan/eso/eso.domain.ts","id":"01a0675b-16ea-77df-9153-bac46e026794"}
