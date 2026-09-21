@@ -10,7 +10,7 @@ export const legerdemainSkillLine = {
   character: "yvlon-byres",
   completionCardId: "skill-lines",
   completionItemPath: ["111"],
-  dueDate: "2026-09-20",
+  dueDate: "2026-09-23",
   rruleRule: "FREQ=DAILY;INTERVAL=1",
   rruleAnchorFromCompletion: false,
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
