@@ -6,4 +6,15 @@ export const keyboardRegistry = {
   slug: "keyboard-registry",
   definition: "what a key binding has and how a key event is matched against it",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two registrations of one id are described once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The last registration of an id describes it, and the first sets where it sits.",
+    },
+  ],
 } as const satisfies Module

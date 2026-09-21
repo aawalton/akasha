@@ -71,7 +71,7 @@ const MODIFIER_ALIASES: Record<string, "mod" | "ctrl" | "meta" | "alt" | "shift"
   shift: "shift",
 }
 
-export function parseChord(chord: string): ParsedChord {
+function parseChord(chord: string): ParsedChord {
   const parsed: ParsedChord = {
     key: "",
     mod: false,
@@ -145,7 +145,27 @@ function formatKeyLabel(key: string): string {
   return key.charAt(0).toUpperCase() + key.slice(1)
 }
 
-export function formatChord(parsed: ParsedChord, os: OS): string {
+export function describeBindings(
+  bindings: readonly KeyBinding[],
+  os: OS
+): readonly KeyBindingDescriptor[] {
+  const byId = new Map<string, KeyBindingDescriptor>()
+  for (const binding of bindings) {
+    const chord = parseChord(binding.chord)
+    byId.set(binding.id, {
+      id: binding.id,
+      label: binding.label,
+      chord,
+      display: formatChord(chord, os),
+      group: binding.group,
+      layer: binding.layer,
+      scope: binding.scope,
+    })
+  }
+  return [...byId.values()]
+}
+
+function formatChord(parsed: ParsedChord, os: OS): string {
   const wantMeta = parsed.meta || (parsed.mod && resolveMod(os) === "meta")
   const wantCtrl = parsed.ctrl || (parsed.mod && resolveMod(os) === "ctrl")
   const keyLabel = formatKeyLabel(parsed.key)

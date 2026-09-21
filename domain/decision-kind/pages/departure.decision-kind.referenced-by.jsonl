@@ -2336,6 +2336,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/filter-changing/filter-changing.module.ts","id":"01a090ec-d6a6-7001-9492-6e84f3f7dfe4"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
+{"propertySlug":"decision-kind","path":"design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.ts","id":"01a05be9-d4c7-787e-a190-6647b46fad91"}
 {"propertySlug":"decision-kind","path":"design/interface/primitive/modules/listener-set/listener-set.module.ts","id":"01a07cd7-ff21-7b3f-a03a-2ca0fd18a8b8"}
 {"propertySlug":"decision-kind","path":"design/interface/primitive/modules/use-number-draft/use-number-draft.module.ts","id":"01a08e03-e1bc-73b8-a5dc-0d022694948e"}
 {"propertySlug":"decision-kind","path":"design/interface/system/design-interface-system.domain.ts","id":"01a05c95-564a-7ba2-ab36-d818c559b389"}

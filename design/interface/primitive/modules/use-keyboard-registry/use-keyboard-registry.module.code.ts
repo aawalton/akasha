@@ -1,13 +1,12 @@
 "use client"
 
 import {
-  formatChord,
+  describeBindings,
   type KeyBinding,
   type KeyBindingDescriptor,
   type KeyEventFacts,
   matchBindings,
   type OS,
-  parseChord,
   selectBindingsById,
 } from "akasha/design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.code.ts"
 import { useEffect, useRef, useSyncExternalStore } from "react"
@@ -195,19 +194,7 @@ export function triggerBinding(id: string): undefined {
 
 function getDescriptors(): readonly KeyBindingDescriptor[] {
   if (descriptorCache === null) {
-    const os = getOs()
-    descriptorCache = [...registrations.values()].map((registration) => {
-      const parsed = parseChord(registration.chord)
-      return {
-        id: registration.id,
-        label: registration.label,
-        chord: parsed,
-        display: formatChord(parsed, os),
-        group: registration.group,
-        layer: registration.layer,
-        scope: registration.scope,
-      }
-    })
+    descriptorCache = [...describeBindings([...registrations.values()], getOs())]
   }
   return descriptorCache
 }
