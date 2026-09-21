@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const aDependencyThatOnlyExistsForAnotherOne = {
+  id: "01a0c590-9aa8-7258-9c7a-98ce52acc6ec",
+  type: "page-type/all-about-alan-topic",
+  slug: "a-dependency-that-only-exists-for-another-one",
+  title: "A Dependency That Only Exists For Another One",
+  definition: "a thing I depend on solely because of something else I depend on",
+  parents: ["all-about-alan-topic/getting-out-from-under-a-dependency"],
+  related: ["all-about-alan-topic/how-i-grade-an-organisation"],
+  settled:
+    "Some of what I lean on is only there to serve something else I lean on.\n\nVenmo sits downstream of Facebook Marketplace. If Marketplace leaves the graph the Venmo need shrinks with it.\n\nThe Costco card has to be a Citi card, because Citi is the only issuer Costco works with. So trusting Costco at B buys me a Citi dependency at D. Untangling it means either giving up the cashback or carrying the Citi card as the price of Costco.\n\nSo I cannot weigh a downstream one on its own. Its real weight is set by the upstream need that created it.\n\nMy ranking still treats each one separately, which is a gap in the ranking.",
+} as const satisfies AllAboutAlanTopic
