@@ -81,6 +81,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rolling-writer-appends-into-a-part-name-already-taken-rather-than-refusing.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-running-service-writes-pages-its-page-type-refuses.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rust-crate-page-holds-no-git-ignore.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-scope-cpu-weight-drop-in-loses-to-the-foreground-booster.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-scratch-folders-node-modules-is-the-repositorys-own-node-modules.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-scratch-root-outlives-the-run-that-made-it-whenever-that-run-is-killed.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-scratch-script-carries-every-guarded-call-past-every-hook.finding.ts"}
@@ -205,6 +206,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/service-watching-shares-one-launch-path-with-every-service-it-reports-on.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/six-to-twentyseven-unreconciled.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/some-loads-cannot-be-declared.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/spotify-asks-the-kernel-for-realtime-rather-than-asking-rtkit.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/ssdi-asset-compliance-unconfirmed.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/streaming-subscriptions-unreviewed.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/structured-page-edit-acts-are-being-routed-around-for-change-file.finding.ts"}

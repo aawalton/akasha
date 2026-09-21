@@ -13,8 +13,6 @@
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/seats-slice/seats-slice.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/smallest-audio-chunk/smallest-audio-chunk.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/spotify-audio-chunk/spotify-audio-chunk.provisioned-file.ts"}
-{"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/spotify-realtime-access/spotify-realtime-access.provisioned-file.ts"}
-{"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/spotify-scope-share/spotify-scope-share.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/swap-used-limit/swap-used-limit.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/swapfile-unit/swapfile-unit.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-config/tmux-config.provisioned-file.ts"}
