@@ -64,6 +64,7 @@
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}

@@ -27,6 +27,7 @@
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown/addon-menu-widget-dropdown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}

@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-public-api/custom-menu-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.code.ts"}

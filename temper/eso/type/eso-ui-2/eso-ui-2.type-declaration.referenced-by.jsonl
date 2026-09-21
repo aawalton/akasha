@@ -132,6 +132,7 @@
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-window/journal-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-cache-status-bar/histoire-cache-status-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-linked-icon/histoire-status-linked-icon.module.code.ts"}

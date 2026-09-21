@@ -84,6 +84,7 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-factories/menu-row-factories.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-casts/journal-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-shape/journal-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
