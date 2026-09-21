@@ -5,5 +5,5 @@ export const temperEconomy = {
   type: "page-type/domain",
   slug: "temper-economy",
   definition: "what a thing is worth in Tamriel, and the trade in it",
-  parts: ["domain/temper-value", "domain/temper-shopping"],
+  parts: ["domain/temper-value", "domain/temper-shopping", "domain/temper-trading"],
 } as const satisfies Domain
