@@ -9,7 +9,7 @@ export const elinWanderingInnWiki = {
   intentStack: [
     {
       statement:
-        "innworld.wiki serves the pages of one world, read-only, and no other page akasha holds.",
+        "An anonymous reader is answered only the pages a grant names, and is refused every write.",
     },
   ],
 } as const satisfies Initiative
