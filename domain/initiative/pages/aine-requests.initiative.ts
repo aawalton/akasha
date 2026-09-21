@@ -9,9 +9,9 @@ export const aineRequests = {
   intentStack: [
     {
       statement:
-        "Every product serves the feature requests for that product at `requests` under its own domain.",
+        "Temper, alanwalton and smilingjenny each serve their feature requests at `requests`.",
       workingMemory:
-        "A product serves a path of its own only by a router app: a route page stating its `urlPath` beside a `.route.code.tsx`, named in that app's `.app-routes.ts` parts and in its `routes.ts` table, reached over the hostname that app's `tunnel-routes.ts` states. `product/audhdalan/web/routes/audhdalan-safety-levels` is the shape. archive-of-worlds, audhdalan and smilingjenny each have a router app; product-game, kofi and wandering-inn-wiki have none, so `requests` has nowhere to land there.",
+        "The three are tempereso.com, alanwalton.com and smilingjenny.me. A site serves a path of its own only by a router app: a route page stating its `urlPath` beside a `.route.code.tsx`, named in that app's `.app-routes.ts` parts and in its `routes.ts` table, reached over the hostname that app's `tunnel-routes.ts` states. `product/audhdalan/web/routes/audhdalan-safety-levels` is the shape. Temper and alanwalton are no part of `domain/product`.",
     },
   ],
   constraints: [
