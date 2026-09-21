@@ -1830,7 +1830,6 @@
 {"propertySlug":"decision-kind","path":"temper/command/modules/venue-trace-saying/venue-trace-saying.module.ts","id":"01a09b2e-baec-7b08-bcf7-07f61d70d416"}
 {"propertySlug":"decision-kind","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts","id":"01a07c93-f240-7b33-9d06-f8459b129064"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
-{"propertySlug":"decision-kind","path":"temper/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.ts","id":"01a060cf-b0b1-726e-9c87-8a0d3121e120"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/temper-shopping.domain.ts","id":"01a060cf-b0ae-749c-8084-93aa1e9a4247"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/listing/temper-trading-listing.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}
@@ -1981,6 +1980,7 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-upload-retry/watcher-upload-retry.module.ts","id":"01a0633f-8d1e-708b-a8d1-f73b5552b672"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-version/watcher-version.module.ts","id":"01a06370-eddf-7a1c-97ea-eec451828f6a"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.ts","id":"01a0674e-d7f8-75c9-a6ee-f3a19f736aca"}
+{"propertySlug":"decision-kind","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-filter-types/companions-filter-types.module.ts","id":"01a06421-2527-72cf-81cf-35554408ce56"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/format-time-ago/format-time-ago.module.ts","id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-build-status/watcher-build-status.module.ts","id":"01a0640f-8510-74a0-a7e6-a020f4b468ed"}

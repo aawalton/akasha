@@ -8,10 +8,6 @@ import {
 import { getBaseRoleName } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import {
-  useCompanionLifecycle,
-  useCompanionList,
-} from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   applyCompanionMetadata,
@@ -19,6 +15,10 @@ import {
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
+import {
+  useCompanionLifecycle,
+  useCompanionList,
+} from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
 import { useMemo, useState, useTransition } from "react"
 

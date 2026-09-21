@@ -9,13 +9,13 @@ import {
   encodeCompanion,
 } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { useCompanion as useCompanionZero } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   applyCompanionMetadata,
   type CompanionBuildMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import { useCompanion as useCompanionZero } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import type { CompanionAction } from "akasha/temper/web/modules/companion-actions/companion-actions.module.code.ts"
 import { COMPANION_ACTIONS } from "akasha/temper/web/modules/companion-actions/companion-actions.module.code.ts"
 import {

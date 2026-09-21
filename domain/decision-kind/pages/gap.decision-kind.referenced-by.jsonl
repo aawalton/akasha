@@ -755,12 +755,6 @@
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts","id":"01a0673e-3ddf-7001-acad-9b0751ef4567"}
 {"propertySlug":"decision-kind","path":"temper/holdings/temper-sale/properties/guild-name.text-property.ts","id":"01a0685d-89aa-7d2f-948c-fbca509592a2"}
 {"propertySlug":"decision-kind","path":"temper/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.ts","id":"01a06038-b7a4-79d6-aa24-39870ef827c8"}
-{"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-items-1/item-browser-items-1.module.ts","id":"01a06178-371e-7a90-9ee3-643e246e6a36"}
-{"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-items-2/item-browser-items-2.module.ts","id":"01a06178-371f-7d1f-8642-f4b81de71247"}
-{"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-items-3/item-browser-items-3.module.ts","id":"01a06178-371f-75d6-801d-356fb33ed5a5"}
-{"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-items/item-browser-items.module.ts","id":"01a06178-371f-7441-8cab-2f74d08e70ab"}
-{"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.ts","id":"01a06178-3723-7d81-a3cf-41427a52afb3"}
-{"propertySlug":"decision-kind","path":"temper/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.ts","id":"01a060d9-498b-744f-8dc9-b2222b4f4b29"}
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
@@ -816,6 +810,12 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.ts","id":"01a08258-933d-7198-bd62-1be9c3a4e475"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.ts","id":"01a0640f-8510-7490-bf5f-876df0d09100"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.ts","id":"01a063c7-b025-7d65-8dfd-3914b90eaf4e"}
+{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-1/item-browser-items-1.module.ts","id":"01a06178-371e-7a90-9ee3-643e246e6a36"}
+{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-2/item-browser-items-2.module.ts","id":"01a06178-371f-7d1f-8642-f4b81de71247"}
+{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-3/item-browser-items-3.module.ts","id":"01a06178-371f-75d6-801d-356fb33ed5a5"}
+{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items/item-browser-items.module.ts","id":"01a06178-371f-7441-8cab-2f74d08e70ab"}
+{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.ts","id":"01a06178-3723-7d81-a3cf-41427a52afb3"}
+{"propertySlug":"decision-kind","path":"temper/web/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.ts","id":"01a082a9-b67b-7606-b042-c4f5c9e5d6ac"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.ts","id":"01a082aa-3e30-76e3-bcc6-cec49c69facc"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-pricing-extract/api-watcher-upsert-pricing-extract.route.ts","id":"01a082fe-11cd-7a65-b8ed-c1dfdf1595f5"}

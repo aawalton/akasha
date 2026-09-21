@@ -318,5 +318,7 @@ export const temperWeb = {
     "module/zone-completion-progress-panel-card",
     "stylesheet/temper-web-look",
     "domain/temper-skills-panel",
+    "domain/temper-item-browser",
+    "domain/temper-companions-ui",
   ],
 } as const satisfies RouterApp

@@ -7,10 +7,6 @@ import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-r
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { companionEquipmentQualities } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
-import {
-  getQualityClassName,
-  getQualityVariant,
-} from "akasha/temper/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { needToShoppingKey } from "akasha/temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import type { CompanionGearPriceResult } from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
@@ -31,6 +27,10 @@ import {
   type SlotPriceKey,
 } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { ShoppingList } from "akasha/temper/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
+import {
+  getQualityClassName,
+  getQualityVariant,
+} from "akasha/temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { useMemo, useState } from "react"
 
 interface CompanionGearByTraitPanelCardProps {

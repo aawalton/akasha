@@ -5,10 +5,6 @@ import {
   encodeCompanion,
 } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
-import {
-  type useAllCompanionList,
-  useCompanionLifecycle,
-} from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   applyCompanionMetadata,
@@ -16,6 +12,10 @@ import {
   extractCompanionMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import type { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
+import {
+  type useAllCompanionList,
+  useCompanionLifecycle,
+} from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { useCallback, useState, useTransition } from "react"
 
 interface UsePlanSetTargetArgs {

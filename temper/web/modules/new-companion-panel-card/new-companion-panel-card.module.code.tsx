@@ -4,7 +4,7 @@ import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/pan
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import { useNewCompanion } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
+import { useNewCompanion } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { Plus } from "lucide-react"
 
 export function NewCompanionPanelCard() {

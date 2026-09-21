@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/companions-core/modules/companion-factory/companion-factory.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/companions-core/modules/companion-types/companion-types.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/companions-core/modules/reference-build-data/reference-build-data.module.code.ts"}
-{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/companions-ui/modules/use-companions/use-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/completion/modules/completion-progress/completion-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/items-rules-matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/items-rules-matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"}
@@ -20,6 +19,7 @@
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}
+{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/character-context/character-context.module.code.tsx"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/character-editor-content/character-editor-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/character-editor/character-editor.module.code.tsx"}

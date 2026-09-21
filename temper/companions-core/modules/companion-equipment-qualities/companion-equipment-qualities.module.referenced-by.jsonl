@@ -7,11 +7,11 @@
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/companions-core/modules/companion-types/companion-types.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/companions-core/modules/companion-weapon-base-values/companion-weapon-base-values.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/player-economics-ui/modules/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/web/modules/companion-jewelry-panel-card/companion-jewelry-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.code.tsx"}
