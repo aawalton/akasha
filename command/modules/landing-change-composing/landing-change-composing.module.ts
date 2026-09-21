@@ -72,5 +72,9 @@ export const landingChangeComposing = {
       decisionKind: "decision-kind/departure",
       statement: "The body a fold weighs its rows against is the first a row for that path names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path the tree holds no body at is left the body this change composed for it.",
+    },
   ],
 } as const satisfies Module

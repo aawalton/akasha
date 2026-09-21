@@ -9,8 +9,33 @@ import {
   repoWith,
   scratch,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import {
+  besideBefore,
+  besideRebased,
+} from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 
 afterAll(scratch.sweep)
+
+const BYTES = new TextEncoder()
+
+const TEXT = new TextDecoder()
+
+const REFERENCED = "akasha/a.domain.referenced-by.jsonl"
+
+const naming = (slug: string): string =>
+  `{"propertySlug":"import","path":"akasha/${slug}.domain.ts"}`
+
+test("a beside file the tree no longer holds leaves the body this landing composed alone", () => {
+  const root = scratch.rootFor("akasha-composing-")
+  const was = `${naming("one")}\n${naming("two")}\n`
+  const then = `${naming("new")}\n${naming("one")}\n${naming("two")}\n`
+  const held = besideBefore([
+    { kind: "replace", path: REFERENCED, contentFrom: was, contentTo: then },
+  ])
+  const said = besideRebased(root, [{ path: REFERENCED, body: BYTES.encode(then) }], held)
+  const body = said[0]?.body
+  expect(body === undefined || body === null ? null : TEXT.decode(body)).toBe(then)
+})
 
 const BESIDE = "akasha/a.page-type.shapes.jsonl"
 

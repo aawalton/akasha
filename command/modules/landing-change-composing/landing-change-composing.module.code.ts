@@ -155,12 +155,7 @@ function keyedIn(lines: readonly string[], rowing: Rowing): Map<string, string> 
   return held
 }
 
-function rowsMerged(
-  was: string | null,
-  mine: string,
-  now: string | null,
-  rowing: Rowing
-): string | null {
+function rowsMerged(was: string | null, mine: string, now: string, rowing: Rowing): string | null {
   const had = keyedIn(rowsIn(was), rowing)
   const kept = keyedIn(rowsIn(mine), rowing)
   const tree = keyedIn(rowsIn(now), rowing)
@@ -186,14 +181,10 @@ export function besideRebased(
   return edits.map((one) => {
     const rowing = rowingFor(one.path)
     if (one.body === null || rowing === null || !before.has(one.path)) return one
-    const mine = TEXT.decode(one.body)
     const now = diskAt(root, one.path)
-    const said = rowsMerged(
-      before.get(one.path) ?? null,
-      mine,
-      now === null ? null : TEXT.decode(now),
-      rowing
-    )
+    if (now === null) return one
+    const mine = TEXT.decode(one.body)
+    const said = rowsMerged(before.get(one.path) ?? null, mine, TEXT.decode(now), rowing)
     if (said === null || said === "" || said === mine) return one
     return { path: one.path, body: BYTES.encode(said) }
   })
