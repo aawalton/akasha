@@ -1,0 +1,10 @@
+{"content":"conf"}
+{"decisions":[{"decisionKind":"decision-kind/constraint","statement":"The window Alan is looking at is raised to a share of ten thousand."},{"decisionKind":"decision-kind/constraint","statement":"An app holding the share systemd ships is left a hundredth of that window's."},{"decisionKind":"decision-kind/departure","statement":"Spotify holds a share of the same order as the window Alan is looking at."},{"decisionKind":"decision-kind/departure","statement":"The share reaches every launch, since what Spotify runs under ends in a number."}]}
+{"definition":"the share Spotify holds against the window Alan is looking at"}
+{"id":"01a0c527-5ba5-74d9-9c88-f302e660a76f"}
+{"installPath":"~/.config/systemd/user/app-flatpak-com.spotify.Client-.scope.d/10-share.conf"}
+{"onlyOn":"linux"}
+{"placedBy":"link"}
+{"reloadWith":"systemctl --user daemon-reload"}
+{"slug":"spotify-scope-share"}
+{"type":"page-type/provisioned-file"}
