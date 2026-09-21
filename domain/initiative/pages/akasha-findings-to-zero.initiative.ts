@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "294 are left. The first run is working down the `page-type/change` block in panel order, the largest, and takes up `a-retirement-orphans-prose-and-the-repair-is-a-rewrite-not-a-repoint` next. The 56 under `alan-book/all-about-alan` are passed over unread, being Alan's own notes. Most findings die because what they say stopped being true: the folder went, the page gained the decision, another lane landed the mend.\n",
+        "289 are left. The first run has finished `page-type/change` in panel order and is inside `page-type/command`, taking up `commands-disagree-on-which-word-comes-first` next. The 56 under `alan-book/all-about-alan` are passed over unread, being Alan's own notes. Most findings die because what they say stopped being true: the folder went, the page gained the decision, another lane landed the mend.\n",
     },
   ],
   constraints: [
