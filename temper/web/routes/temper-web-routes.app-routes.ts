@@ -48,6 +48,7 @@ export const temperWebRoutes = {
     "route/temper-companion-build-hash",
     "route/temper-handover",
     "route/temper-page-listing",
+    "route/temper-requests",
     "route/temper-user-completion",
     "route/watcher",
   ],
