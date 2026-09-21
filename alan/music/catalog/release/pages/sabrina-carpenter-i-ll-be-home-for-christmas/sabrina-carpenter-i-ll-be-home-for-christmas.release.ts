@@ -4,14 +4,13 @@ export const sabrinaCarpenterILlBeHomeForChristmas = {
   id: "01a0676a-d721-7029-b61e-08bf3dea1442",
   type: "page-type/release",
   slug: "sabrina-carpenter-i-ll-be-home-for-christmas",
-  title: "I'll Be Home For Christmas",
+  ownLength: 3.585533,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 3.585533,
-  ownProgress: 3.585533,
-  unit: "unit/minutes",
-  status: "in-progress",
   publishedAt: "2012-12-19",
+  status: "not-started",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterILlBeHomeForChristmas = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "I'll Be Home For Christmas",
 } as const satisfies Release

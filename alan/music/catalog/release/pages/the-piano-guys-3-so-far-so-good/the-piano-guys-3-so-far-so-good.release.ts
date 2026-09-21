@@ -4,14 +4,13 @@ export const thePianoGuys3SoFarSoGood = {
   id: "01a0676a-d729-7042-ad81-76852ba91d4a",
   type: "page-type/release",
   slug: "the-piano-guys-3-so-far-so-good",
-  title: "So Far, So Good",
+  ownLength: 51.949267,
+  ownProgress: 52.00658333333333,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 51.949267,
-  ownProgress: 51.949267,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2012-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const thePianoGuys3SoFarSoGood = {
       externalLink: "https://open.spotify.com/album/1hMT6Q6mbvD1KlOccOM5cR",
     },
   ],
+  title: "So Far, So Good",
 } as const satisfies Release

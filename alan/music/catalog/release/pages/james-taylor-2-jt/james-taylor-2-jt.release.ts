@@ -4,14 +4,13 @@ export const jamesTaylor2Jt = {
   id: "01a0676a-d722-702c-8054-101c71933d00",
   type: "page-type/release",
   slug: "james-taylor-2-jt",
-  title: "JT",
+  ownLength: 37.85215,
+  ownProgress: 38.02811666666666,
   partOfCollections: ["artist/james-taylor"],
   position: 0,
-  ownLength: 37.85215,
-  ownProgress: 37.85215,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "1977-01-01",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const jamesTaylor2Jt = {
       externalLink: "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn",
     },
   ],
+  title: "JT",
 } as const satisfies Release

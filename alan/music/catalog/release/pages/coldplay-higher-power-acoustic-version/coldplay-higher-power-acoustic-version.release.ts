@@ -4,14 +4,13 @@ export const coldplayHigherPowerAcousticVersion = {
   id: "01a0676a-d720-703c-89fc-88fcd10d8224",
   type: "page-type/release",
   slug: "coldplay-higher-power-acoustic-version",
-  title: "Higher Power (Acoustic Version)",
+  ownLength: 7.018467,
+  ownProgress: 7.09535,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 7.018467,
-  ownProgress: 7.018467,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-06-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayHigherPowerAcousticVersion = {
       externalLink: "https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By",
     },
   ],
+  title: "Higher Power (Acoustic Version)",
 } as const satisfies Release

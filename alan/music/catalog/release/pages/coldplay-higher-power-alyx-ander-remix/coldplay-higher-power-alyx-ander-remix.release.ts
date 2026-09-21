@@ -4,14 +4,13 @@ export const coldplayHigherPowerAlyxAnderRemix = {
   id: "01a0676a-d720-703d-8f28-a962aaae23d3",
   type: "page-type/release",
   slug: "coldplay-higher-power-alyx-ander-remix",
-  title: "Higher Power (Alyx Ander Remix)",
+  ownLength: 6.005167,
+  ownProgress: 6.082050000000001,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 6.005167,
-  ownProgress: 6.005167,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-07-05",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayHigherPowerAlyxAnderRemix = {
       externalLink: "https://open.spotify.com/album/5QuWXn0Hco1qqQh3xbZQWW",
     },
   ],
+  title: "Higher Power (Alyx Ander Remix)",
 } as const satisfies Release

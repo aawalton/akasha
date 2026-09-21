@@ -4,14 +4,13 @@ export const coldplayMyUniverse = {
   id: "01a0676a-d725-7037-8ce6-ef50a6855036",
   type: "page-type/release",
   slug: "coldplay-my-universe",
-  title: "My Universe",
+  ownLength: 12.146383,
+  ownProgress: 12.176416666666668,
   partOfCollections: ["artist/coldplay"],
   position: 0,
-  ownLength: 12.146383,
-  ownProgress: 12.146383,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2021-09-27",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const coldplayMyUniverse = {
       externalLink: "https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG",
     },
   ],
+  title: "My Universe",
 } as const satisfies Release

@@ -5,7 +5,7 @@ export const thePianoGuys3Unstoppable2 = {
   type: "page-type/release",
   slug: "the-piano-guys-3-unstoppable-2",
   ownLength: 4.1673,
-  ownProgress: 53.75405,
+  ownProgress: 57.92135000000001,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
   publishedAt: "2022-11-04",

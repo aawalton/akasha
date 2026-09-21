@@ -4,14 +4,13 @@ export const sabrinaCarpenterSilverNights = {
   id: "01a0676a-d729-700a-978b-4f0c54407eeb",
   type: "page-type/release",
   slug: "sabrina-carpenter-silver-nights",
-  title: "Silver Nights",
+  ownLength: 2.442,
+  ownProgress: 0,
   partOfCollections: ["artist/sabrina-carpenter"],
   position: 0,
-  ownLength: 2.442,
-  ownProgress: 2.442,
-  unit: "unit/minutes",
-  status: "in-progress",
   publishedAt: "2014-01-01",
+  status: "not-started",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const sabrinaCarpenterSilverNights = {
       lastSyncedAt: "2025-12-24",
     },
   ],
+  title: "Silver Nights",
 } as const satisfies Release
