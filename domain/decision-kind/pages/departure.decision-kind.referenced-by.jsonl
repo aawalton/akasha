@@ -2883,6 +2883,7 @@
 {"propertySlug":"decision-kind","path":"page/access/modules/routing-core/routing-core.module.ts","id":"01a05bd6-c535-767d-b8ac-7e540084e42d"}
 {"propertySlug":"decision-kind","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}
 {"propertySlug":"decision-kind","path":"page/action-button-property/action-button-property.page-type.ts","id":"01a0a038-58f8-77ef-9a9c-55d8f5e3d9ad"}
+{"propertySlug":"decision-kind","path":"page/action-button-property/properties/action-button-verb.text-property.ts","id":"01a0c5fb-5db6-7c79-af84-a877d7d23ada"}
 {"propertySlug":"decision-kind","path":"page/address-kind/in-page-property/in-page-property.page-address-kind.ts","id":"01a0731d-f940-7d5d-ade6-7b2d21f69025"}
 {"propertySlug":"decision-kind","path":"page/address-kind/in-page-type/in-page-type.page-address-kind.ts","id":"01a0731d-f93f-7a75-9681-507d854cc958"}
 {"propertySlug":"decision-kind","path":"page/address-kind/in-page/in-page.page-address-kind.ts","id":"01a0731d-f93e-7ca8-8fdd-a8a5e083664d"}

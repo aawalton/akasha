@@ -6,10 +6,16 @@ export const actionButtonProperty = {
   slug: "action-button-property",
   definition: "a page property drawn as a button running a verb over the page",
   extends: ["page-type/page-property"],
+  parts: ["text-property/action-button-verb"],
+  properties: [{ pageProperty: "text-property/action-button-verb", required: true, many: false }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "The value of such a property is the button rather than anything the page holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which verb the button runs is stated on the property rather than by a browser.",
     },
   ],
   types: "ts",

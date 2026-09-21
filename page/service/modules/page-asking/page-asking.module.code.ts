@@ -78,6 +78,7 @@ export type Declared = {
   readonly targetSlug: string | null
   readonly slugProperty: string | null
   readonly mayBeGone: boolean
+  readonly verbId: string | null
 }
 
 export type Shape = {
@@ -146,6 +147,8 @@ const VALUES = "values"
 
 const OPTION_COLORS = "optionColors"
 
+const VERB_ID = "verbId"
+
 function statedBy(climbed: readonly Value[], key: string): unknown {
   for (const one of climbed) {
     const held = one[key]
@@ -177,6 +180,7 @@ function declaredOf(
     targetSlug: page === undefined ? null : slugAt(page, TARGET_PAGE_TYPE),
     slugProperty: one.propertySlug,
     mayBeGone: !one.required,
+    verbId: page === undefined ? null : textAt(page, VERB_ID),
   }
 }
 

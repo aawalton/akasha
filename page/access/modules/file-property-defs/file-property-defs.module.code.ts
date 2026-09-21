@@ -20,6 +20,7 @@ export type Declaration = {
   readonly targetSlug: string | null
   readonly slugProperty: string | null
   readonly mayBeGone: boolean
+  readonly verbId: string | null
 }
 
 export type PageTypeShape = {
@@ -128,6 +129,7 @@ const RENDERED_AS: Readonly<Record<string, string>> = {
   "select-property": "select",
   "text-property": RENDERED_PLAIN,
   "url-property": "url",
+  "action-button-property": "action-button",
 }
 
 export function renderedType(pageTypeSlug: string): string {
@@ -141,6 +143,7 @@ function definitionOf(one: Declaration): PropertyDefinition {
   const options = optionsFrom(one.values)
   if (options !== null) config.options = coloredIn(options, coloredBy(one.optionColors))
   if (one.targetSlug !== null) config.targetPageTypeSlug = one.targetSlug
+  if (one.verbId !== null) config.verbId = one.verbId
   const stated = Object.keys(config).length !== 0
   return {
     id: camelizeKey(one.key),

@@ -62,5 +62,9 @@ export const filePropertyDefs = {
       decisionKind: "decision-kind/departure",
       statement: "A relation's definition names the page type it reaches by that page type's slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An action button's definition names the verb its property's page states.",
+    },
   ],
 } as const satisfies Module

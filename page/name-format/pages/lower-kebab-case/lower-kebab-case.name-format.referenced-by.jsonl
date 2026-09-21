@@ -32,6 +32,7 @@
 {"propertySlug":"name-format","path":"infrastructure/service/inference/properties/inference-host.text-property.ts","id":"01a09094-7525-73c0-bc06-d3cdd15b053b"}
 {"propertySlug":"name-format","path":"infrastructure/service/inference/properties/lifecycle.text-property.ts","id":"01a09095-243b-7ce0-9a35-68fd9e450733"}
 {"propertySlug":"name-format","path":"infrastructure/service/web-app/properties/secret-resource.text-property.ts","id":"01a08cfa-dafb-7b31-884e-718e64f5308b"}
+{"propertySlug":"name-format","path":"page/action-button-property/properties/action-button-verb.text-property.ts","id":"01a0c5fb-5db6-7c79-af84-a877d7d23ada"}
 {"propertySlug":"name-format","path":"page/file-property/properties/extensions.text-property.ts","id":"01a08e1f-408a-7ae7-a4d9-21cdd5a19500"}
 {"propertySlug":"name-format","path":"page/index/properties/index-name.text-property.ts","id":"01a04ef3-160f-7845-bc55-4507fdef6109"}
 {"propertySlug":"name-format","path":"page/name-place/pages/file-role.name-place.ts","id":"01a04fd0-c6e8-7989-926c-76c5d7b35075"}
