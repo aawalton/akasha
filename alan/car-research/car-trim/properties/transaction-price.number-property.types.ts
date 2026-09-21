@@ -1,0 +1,1 @@
+export type TransactionPrice = number

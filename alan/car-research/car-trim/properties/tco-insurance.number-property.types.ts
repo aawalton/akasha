@@ -1,0 +1,1 @@
+export type TcoInsurance = number
