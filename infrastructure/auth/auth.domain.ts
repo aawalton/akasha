@@ -77,6 +77,19 @@ export const auth = {
     { decisionKind: "decision-kind/departure", statement: "A contributor signs in with Google." },
     {
       decisionKind: "decision-kind/departure",
+      statement: "No site asks supabase who a caller is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person page holds the account that person signed in under before Google.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a site keeps for a reader is kept under that account rather than the contributor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An app's code is bound to a secret the app keeps and never sends.",
     },
   ],
