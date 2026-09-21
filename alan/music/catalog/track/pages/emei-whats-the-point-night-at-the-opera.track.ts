@@ -5,10 +5,10 @@ export const emeiWhatsThePointNightAtTheOpera = {
   type: "page-type/track",
   slug: "emei-whats-the-point-night-at-the-opera",
   ownLength: 3.0798,
-  ownProgress: 0,
+  ownProgress: 3.0798,
   partOfCollections: ["release/emei-whats-the-point"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

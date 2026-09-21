@@ -5,10 +5,10 @@ export const jamesTaylorJamesTaylorAtChristmasWinterWonderlandFeatChrisBotti = {
   type: "page-type/track",
   slug: "james-taylor-james-taylor-at-christmas-winter-wonderland-feat-chris-botti",
   ownLength: 3.5637666666666665,
-  ownProgress: 0,
+  ownProgress: 3.5637666666666665,
   partOfCollections: ["release/james-taylor-james-taylor-at-christmas"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

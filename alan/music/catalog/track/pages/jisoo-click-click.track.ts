@@ -5,10 +5,10 @@ export const jisooClickClick = {
   type: "page-type/track",
   slug: "jisoo-click-click",
   ownLength: 2.6515833333333334,
-  ownProgress: 0,
+  ownProgress: 2.6515833333333334,
   partOfCollections: ["release/jisoo-click"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

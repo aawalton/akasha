@@ -5,10 +5,10 @@ export const alexandriaTheFoolTheFool = {
   type: "page-type/track",
   slug: "alexandria-the-fool-the-fool",
   ownLength: 2.91935,
-  ownProgress: 0,
+  ownProgress: 2.91935,
   partOfCollections: ["release/alexandria-the-fool"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

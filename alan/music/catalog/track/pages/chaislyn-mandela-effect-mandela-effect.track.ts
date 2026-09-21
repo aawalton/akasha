@@ -5,10 +5,10 @@ export const chaislynMandelaEffectMandelaEffect = {
   type: "page-type/track",
   slug: "chaislyn-mandela-effect-mandela-effect",
   ownLength: 2.8236,
-  ownProgress: 0,
+  ownProgress: 2.8236,
   partOfCollections: ["release/chaislyn-mandela-effect"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

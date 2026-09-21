@@ -5,10 +5,10 @@ export const chaislynUnreliableNarratorMandelaEffect = {
   type: "page-type/track",
   slug: "chaislyn-unreliable-narrator-mandela-effect",
   ownLength: 2.8236,
-  ownProgress: 0,
+  ownProgress: 2.8236,
   partOfCollections: ["release/chaislyn-unreliable-narrator"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

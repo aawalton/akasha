@@ -5,10 +5,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendAllMyDemonsGreetingMeAsAFriend 
   type: "page-type/track",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-all-my-demons-greeting-me-as-a-friend",
   ownLength: 3.698,
-  ownProgress: 0,
+  ownProgress: 3.698,
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

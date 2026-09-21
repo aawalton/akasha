@@ -5,10 +5,10 @@ export const emeiNightAtTheOperaNightAtTheOpera = {
   type: "page-type/track",
   slug: "emei-night-at-the-opera-night-at-the-opera",
   ownLength: 3.0798,
-  ownProgress: 0,
+  ownProgress: 3.0798,
   partOfCollections: ["release/emei-night-at-the-opera"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

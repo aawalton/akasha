@@ -5,10 +5,10 @@ export const alexandriaKnightOfSwordsKnightOfSwords = {
   type: "page-type/track",
   slug: "alexandria-knight-of-swords-knight-of-swords",
   ownLength: 2.652616666666667,
-  ownProgress: 0,
+  ownProgress: 2.652616666666667,
   partOfCollections: ["release/alexandria-knight-of-swords"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
