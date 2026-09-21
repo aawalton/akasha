@@ -7,10 +7,13 @@ export const awenEngineImprovements = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   intentStack: [
+    { statement: "Every mechanic a game uses is a page carrying the code that runs it." },
     {
       statement:
-        "A turn, a rulebook and a mechanic designed as one replace what the engine holds now.",
+        "A mechanic a game needs and no page holds becomes a page in the turn that needs it.",
     },
+    { statement: "A game's interface is loaded from pages rather than built with the app." },
+    { statement: "A played story is drawn by that loader." },
     { statement: "No story-design-note holds content another page type would carry." },
   ],
 } as const satisfies Initiative
