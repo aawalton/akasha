@@ -179,6 +179,10 @@ export const game = {
       statement:
         "A game's interface is loaded from the panels that game names rather than built with the app.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No check of whether the machinery works takes a turn in a game being played.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
