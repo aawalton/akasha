@@ -1,5 +1,6 @@
-import { libSlashCommander } from "akasha/temper/addon/pages/crafting/modules/craft-libraries/craft-libraries.module.code.ts"
+import { SLASH_COMMANDER } from "akasha/temper/addon/pages/crafting/modules/slash-commander-surface/slash-commander-surface.module.code.ts"
 import { strOrKey as wwStr } from "akasha/temper/addon/pages/crafting/modules/writ-i18n/writ-i18n.module.code.ts"
+import "akasha/temper/addon/pages/crafting/modules/slash-commander-init/slash-commander-init.module.code.ts"
 import "akasha/temper/addon/pages/crafting/modules/writ-public-api/writ-public-api.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
@@ -85,56 +86,51 @@ export function slashCommand(this: void, arg1: string): undefined {
 }
 
 export function registerSlashCommands(this: void): undefined {
-  const lsc = libSlashCommander()
-  if (lsc !== undefined) {
-    const cmd = lsc.Register(
-      "/temperwrit",
-      function (this: void, arg: string) {
-        slashCommand(arg)
-      },
-      wwStr("slash_writworthy_desc")
-    )
+  const cmd = SLASH_COMMANDER.Register(
+    "/temperwrit",
+    function (this: void, arg?: string) {
+      slashCommand(arg ?? "")
+    },
+    wwStr("slash_writworthy_desc")
+  )
 
-    const subForget = cmd.RegisterSubCommand()
-    subForget.AddAlias(wwStr("slash_forget"))
-    subForget.SetCallback(() => {
-      slashCommand(wwStr("slash_forget"))
+  const subForget = cmd.RegisterSubCommand()
+  subForget.AddAlias(wwStr("slash_forget"))
+  subForget.SetCallback(() => {
+    slashCommand(wwStr("slash_forget"))
+  })
+  subForget.SetDescription(wwStr("slash_forget_desc"))
+
+  const subCount = cmd.RegisterSubCommand()
+  subCount.AddAlias(wwStr("slash_count"))
+  subCount.SetCallback(() => {
+    slashCommand(wwStr("slash_count"))
+  })
+  subCount.SetDescription(wwStr("slash_count_desc"))
+
+  const subPort = cmd.RegisterSubCommand()
+  subPort.AddAlias(wwStr("slash_port"))
+  subPort.SetCallback(() => {
+    slashCommand(wwStr("slash_port"))
+  })
+  subPort.SetDescription(wwStr("slash_port_desc"))
+
+  if (GetDisplayName() === "@ziggr") {
+    const subDiscover = cmd.RegisterSubCommand()
+    subDiscover.AddAlias(wwStr("slash_discover"))
+    subDiscover.SetCallback(() => {
+      slashCommand(wwStr("slash_discover"))
     })
-    subForget.SetDescription(wwStr("slash_forget_desc"))
+    subDiscover.SetDescription(wwStr("slash_discover_desc"))
+  }
 
-    const subCount = cmd.RegisterSubCommand()
-    subCount.AddAlias(wwStr("slash_count"))
-    subCount.SetCallback(() => {
-      slashCommand(wwStr("slash_count"))
+  if (TemperWrit.AQAddKeyBind !== undefined) {
+    const subAuto = cmd.RegisterSubCommand()
+    subAuto.AddAlias(wwStr("slash_auto"))
+    subAuto.SetCallback(() => {
+      slashCommand(wwStr("slash_auto"))
     })
-    subCount.SetDescription(wwStr("slash_count_desc"))
-
-    const subPort = cmd.RegisterSubCommand()
-    subPort.AddAlias(wwStr("slash_port"))
-    subPort.SetCallback(() => {
-      slashCommand(wwStr("slash_port"))
-    })
-    subPort.SetDescription(wwStr("slash_port_desc"))
-
-    if (GetDisplayName() === "@ziggr") {
-      const subDiscover = cmd.RegisterSubCommand()
-      subDiscover.AddAlias(wwStr("slash_discover"))
-      subDiscover.SetCallback(() => {
-        slashCommand(wwStr("slash_discover"))
-      })
-      subDiscover.SetDescription(wwStr("slash_discover_desc"))
-    }
-
-    if (TemperWrit.AQAddKeyBind !== undefined) {
-      const subAuto = cmd.RegisterSubCommand()
-      subAuto.AddAlias(wwStr("slash_auto"))
-      subAuto.SetCallback(() => {
-        slashCommand(wwStr("slash_auto"))
-      })
-      subAuto.SetDescription(wwStr("slash_auto_desc"))
-    }
-  } else {
-    SLASH_COMMANDS["/temperwrit"] = slashCommand
+    subAuto.SetDescription(wwStr("slash_auto_desc"))
   }
 
   globalThis.TemperHud?.registerCommand({

@@ -421,6 +421,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-skill-map/companions-skill-map.module.ts","id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/craft-defined/craft-defined.module.ts","id":"01a08de1-2f29-7d20-a437-b66d1cb3ba33"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/slash-command/slash-command.module.ts","id":"01a06066-8401-7395-abd7-61fa46d501e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/temper-addon-crafting.temper-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
@@ -633,8 +634,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-veteran-breakdown/lib-sets-tip-veteran-breakdown.module.ts","id":"01a06231-8f1e-737c-a36f-8ed525388bae"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/temper-lib-sets.temper-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-shifter-box/temper-lib-shifter-box.temper-addon.ts","id":"01a06187-3642-7d90-9056-320280df2e42"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-slash-commander/modules/slash-command/slash-command.module.ts","id":"01a06066-8401-7395-abd7-61fa46d501e7"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-slash-commander/temper-lib-slash-commander.temper-addon.ts","id":"01a06066-8400-790c-a2ed-5c212c9cdab7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-treasure/modules/treasure-pins-data-00/treasure-pins-data-00.module.ts","id":"01a061d5-d0b9-7759-a22d-cab177782406"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-treasure/modules/treasure-pins-data-02/treasure-pins-data-02.module.ts","id":"01a061d5-d0bb-7d2b-a06c-4d990aedb41c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-treasure/modules/treasure-pins-data-03/treasure-pins-data-03.module.ts","id":"01a061d5-d0bc-7fec-a1f4-90a1ae3ec44e"}

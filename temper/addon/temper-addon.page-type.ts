@@ -62,7 +62,6 @@ export const temperAddon = {
     "temper-addon/temper-lib-scrollable-menu",
     "temper-addon/temper-lib-sets",
     "temper-addon/temper-lib-shifter-box",
-    "temper-addon/temper-lib-slash-commander",
     "temper-addon/temper-lib-treasure",
     "temper-addon/temper-lib-zone",
     "domain/temper-addon-shared",
