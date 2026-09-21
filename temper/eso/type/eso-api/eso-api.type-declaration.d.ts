@@ -209,3 +209,10 @@ interface MainMenuKeyboard {
 interface MainMenuKeyboard {
   ShowScene: (this: MainMenuKeyboard, sceneName: string) => void
 }
+
+declare function GetNumAchievements(
+  categoryIndex: number,
+  subcategoryIndex: number | undefined
+): number
+
+declare function ZO_Enchanting_GetVisibleEnchanting(): ZO_VisibleEnchanting | undefined

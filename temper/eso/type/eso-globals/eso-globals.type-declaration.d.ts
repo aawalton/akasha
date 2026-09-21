@@ -37,10 +37,6 @@ declare function zo_round(value: number): number
 
 declare function zo_floor(value: number): number
 
-declare function zo_min(a: number, b: number): number
-
-declare function zo_max(a: number, b: number): number
-
 declare function zo_ceil(value: number): number
 
 declare function zo_abs(value: number): number
@@ -166,3 +162,5 @@ declare function GetScriptProfilerClosureInfo(
 declare function GetScriptProfilerNumCFunctions(this: void): number
 
 declare function GetScriptProfilerCFunctionInfo(this: void, recordDataIndex: number): string
+
+declare function GetString(this: void, stringVariablePrefix?: string, contextId?: number): string

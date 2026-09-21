@@ -15,12 +15,6 @@ declare const COLOR_PICKER: ColorPicker
 
 declare function zo_strlower(s: string): string
 
-declare function zo_strgsub(
-  s: string,
-  pattern: string,
-  replacement: (this: void, match: string) => string
-): string
-
 interface ObjectPool<T> {
   AcquireObject: () => LuaMultiReturn<[T, number]>
   ReleaseAllObjects: () => void

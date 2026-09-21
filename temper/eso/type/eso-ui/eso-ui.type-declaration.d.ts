@@ -519,3 +519,10 @@ interface WindowManager {
 interface WindowManager {
   GetFocusControl: () => Control | undefined
 }
+
+declare function GetControl<T extends Control = Control>(name: string): T | undefined
+
+declare function GetControl<T extends Control = Control>(
+  control: Control | string,
+  suffix: string | number
+): T | undefined

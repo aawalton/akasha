@@ -8,10 +8,6 @@ declare function ZO_FormatTime(
   precision?: number,
   direction?: number
 ): string
-declare function GetNumAchievements(
-  categoryIndex: number,
-  subcategoryIndex: number | undefined
-): number
 declare function GetNumAchievementSubCategories(categoryIndex: number): number
 declare function ZO_GetAchievementIds(
   categoryIndex: number,
@@ -145,7 +141,6 @@ interface ZO_VisibleEnchanting {
   aspectLength?: number
   [key: string]: unknown
 }
-declare function ZO_Enchanting_GetVisibleEnchanting(): ZO_VisibleEnchanting | undefined
 
 declare const ZO_LinkHandler_OnLinkMouseUp: (link: string, button: number, control: Control) => void
 

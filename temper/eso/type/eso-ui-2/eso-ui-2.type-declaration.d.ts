@@ -1,9 +1,3 @@
-declare function GetControl<T extends Control = Control>(name: string): T | undefined
-declare function GetControl<T extends Control = Control>(
-  control: Control | string,
-  suffix: string | number
-): T | undefined
-
 declare function CreateControlFromVirtual<T extends Control = Control>(
   name: string,
   parent: Control | undefined,
@@ -43,3 +37,13 @@ interface ZoColorDef {
   UnpackRGB: () => LuaMultiReturn<[red: number, green: number, blue: number]>
   UnpackRGBA: () => LuaMultiReturn<[red: number, green: number, blue: number, alpha: number]>
 }
+
+declare function zo_max(a: number, b: number): number
+
+declare function zo_min(a: number, b: number): number
+
+declare function zo_strgsub(
+  s: string,
+  pattern: string,
+  replacement: (this: void, match: string) => string
+): string

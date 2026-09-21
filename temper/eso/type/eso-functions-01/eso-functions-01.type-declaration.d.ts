@@ -2,7 +2,6 @@ type Id64 = string & { readonly __brand: "Id64" }
 declare const ReloadUI: (this: void, guiName?: string) => void
 declare function GetCVar(this: void, CVarName?: string): string
 declare const SetCVar: (this: void, CVarName?: string, value?: string) => void
-declare function GetString(this: void, stringVariablePrefix?: string, contextId?: number): string
 declare function IsShiftKeyDown(this: void): boolean
 declare function IsControlKeyDown(this: void): boolean
 declare function IsAltKeyDown(this: void): boolean
