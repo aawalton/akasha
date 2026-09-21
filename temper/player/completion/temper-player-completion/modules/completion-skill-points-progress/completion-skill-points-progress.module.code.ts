@@ -111,6 +111,11 @@ export function resolveSkillPointItemProgress(
       if (!zone || zone.maxQuests === 0) return undefined
       return { current: sp ? (sp.zoneQuests[key] ?? 0) : 0, total: zone.maxQuests }
     }
+    case "storyZoneQuests": {
+      const zone = SKILL_POINT_STORY_ZONE_SOURCES.find((z) => z.key === key)
+      if (!zone) return undefined
+      return { current: sp ? (sp.zoneQuests[key] ?? 0) : 0, total: zone.maxQuests }
+    }
     case "groupDungeons": {
       const dungeon = SKILL_POINT_GROUP_DUNGEON_SOURCES.find((d) => d.key === key)
       if (!dungeon) return undefined

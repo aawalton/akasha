@@ -159,6 +159,11 @@ export const COMPLETION_CARD_CHECKERS: Partial<Record<CharacterCardId, Completio
           )
         }
         case "storyZoneQuests": {
+          if (sourceKey !== undefined) {
+            const zone = SKILL_POINT_STORY_ZONE_SOURCES.find((entry) => entry.key === sourceKey)
+            if (!zone) return false
+            return (skillPoints.zoneQuests[sourceKey] ?? 0) >= zone.maxQuests
+          }
           return SKILL_POINT_STORY_ZONE_SOURCES.every(
             (zone) => (skillPoints.zoneQuests[zone.key] ?? 0) >= zone.maxQuests
           )
@@ -189,7 +194,7 @@ export const COMPLETION_CARD_CHECKERS: Partial<Record<CharacterCardId, Completio
           options: [
             { value: "general", label: "General" },
             { value: "skyshards", label: "Skyshards" },
-            { value: "zoneQuests", label: "Zone Quests" },
+            { value: "storyZoneQuests", label: "Story Zone Quests" },
             { value: "groupDungeons", label: "Group Dungeons" },
             { value: "publicDungeons", label: "Public Dungeons" },
           ],
@@ -219,6 +224,14 @@ export const COMPLETION_CARD_CHECKERS: Partial<Record<CharacterCardId, Completio
               options: SKILL_POINT_ZONE_SOURCES.filter((zone) => zone.maxQuests > 0).map(
                 (zone) => ({ value: zone.key, label: zone.label })
               ),
+            }
+          case "storyZoneQuests":
+            return {
+              label: "Zone",
+              options: SKILL_POINT_STORY_ZONE_SOURCES.map((zone) => ({
+                value: zone.key,
+                label: zone.label,
+              })),
             }
           case "groupDungeons":
             return {

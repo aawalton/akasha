@@ -1,5 +1,5 @@
 {"code":"ts"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A card the registry does not name has no checker and reads as unmeasured."},{"decisionKind":"decision-kind/departure","statement":"A card stating no picker is one leaf at the empty path."},{"decisionKind":"decision-kind/departure","statement":"The story zone quest branch is named by a task rather than offered by a picker."},{"decisionKind":"decision-kind/constraint","statement":"A branch the picker offers is counted again in the whole card."}]}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A card the registry does not name has no checker and reads as unmeasured."},{"decisionKind":"decision-kind/departure","statement":"A card stating no picker is one leaf at the empty path."},{"decisionKind":"decision-kind/constraint","statement":"A branch the picker offers is counted again in the whole card."},{"decisionKind":"decision-kind/departure","statement":"The zone branch the picker offers is the story zones rather than every zone."},{"decisionKind":"decision-kind/departure","statement":"A page naming the whole zone-quest branch is still answered."}]}
 {"definition":"what answers whether a character has finished each completion card"}
 {"id":"01a0640c-1e9a-73f9-8755-c19243c58c9d"}
 {"slug":"completion-card-checkers"}

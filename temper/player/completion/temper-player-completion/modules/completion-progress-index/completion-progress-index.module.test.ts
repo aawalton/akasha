@@ -109,6 +109,18 @@ describe("buildCrossCharacterCompletionIndex", () => {
     expect(Object.keys(index.characters).sort()).toEqual(["c1", "c2"])
   })
 
+  test("emits the story zone quest path, so a task naming it falls to a character", () => {
+    const roster = [
+      mkRosterEntry("c1", "Alpha", 1, CHAR_EMPTY),
+      mkRosterEntry("c2", "Beta", 2, CHAR_EMPTY),
+    ]
+    const index = buildCrossCharacterCompletionIndex(roster, EMPTY_ACCOUNT)
+    const entry = index.paths["skill-points/storyZoneQuests"]
+    if (!entry) throw new Error("skill-points/storyZoneQuests missing")
+    expect(entry.total).toBeGreaterThan(0)
+    expect(entry.effectiveCharacterId).toBe("c1")
+  })
+
   test("emits a skill-morphs path for a roster entry with class, race and skill data", () => {
     const roster = [mkRosterEntry("c1", "Alpha", 1, CHAR_MORPHS)]
     const entry = buildCrossCharacterCompletionIndex(roster, EMPTY_ACCOUNT).paths["skill-morphs"]

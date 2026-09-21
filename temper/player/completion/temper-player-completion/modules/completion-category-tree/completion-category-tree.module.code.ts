@@ -184,8 +184,8 @@ export const COMPLETION_CATEGORY_TREE_STATIC = {
           name: "Skyshards",
         },
         {
-          id: "zoneQuests",
-          name: "Zone Quests",
+          id: "storyZoneQuests",
+          name: "Story Zone Quests",
         },
         {
           id: "groupDungeons",

@@ -1,8 +1,8 @@
 {"displayOrder":2}
 {"id":"01a05fcb-e4c5-775e-ade3-50db435e9170"}
-{"nodeId":"zoneQuests"}
+{"nodeId":"storyZoneQuests"}
 {"parent":"characters-skill-points"}
-{"slug":"characters-skill-points-zonequests"}
+{"slug":"characters-skill-points-storyzonequests"}
 {"tab":"characters"}
-{"title":"Zone Quests"}
+{"title":"Story Zone Quests"}
 {"type":"page-type/temper-completion-category"}
