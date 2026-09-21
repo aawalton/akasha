@@ -70,5 +70,9 @@ export const designInterfaceSystem = {
       decisionKind: "decision-kind/departure",
       statement: "Every panel the gallery draws is a child of the column layout on its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The gallery draws the badge of every display variant the property system has.",
+    },
   ],
 } as const satisfies Domain
