@@ -25,7 +25,7 @@ export const nimueImageManagement = {
     {
       statement: "An image states the grade Alan marked it.",
       workingMemory:
-        "`grade` is already a rank property, `Alan's mark for how well a picture caught the persona`, on a ladder from F to S+. It is declared on `persona-anchor-image` alone, and `image.page-type.ts` declares no properties at all. Alan's word for this is rating and the repository's word is grade; one name is kept rather than two, so grade is the name.",
+        "`grade` is a grade property, `Alan's mark for how good a thing is`, on a ladder from `F` up to `S+` stated once on `page/grade-property/grade-property.page-type.ts` with a color for each rung. It is declared on `page` itself and optional, so every page may state one and `image` needs no declaration of its own. What is left here is that no image is a page yet, so nothing carries a grade.",
     },
     {
       statement: "No two images akasha holds are the same bytes.",
