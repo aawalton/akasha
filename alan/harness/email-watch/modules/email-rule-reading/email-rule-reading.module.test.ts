@@ -8,7 +8,7 @@ describe("rulesOf", () => {
   const rules = rulesOf("alan", ROOT)
 
   test("reads every rule of both kinds", () => {
-    expect(rules.filter((one) => one.kind === "code")).toHaveLength(54)
+    expect(rules.filter((one) => one.kind === "code")).toHaveLength(55)
     expect(rules.filter((one) => one.kind === "agent")).toHaveLength(54)
   })
 
