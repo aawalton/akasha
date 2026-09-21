@@ -17,17 +17,12 @@ const HELD = "json"
 
 const INSTRUCTIONS_TOKEN = "$INSTRUCTIONS"
 
-const STORAGE_STATE_TOKEN = "$STORAGE_STATE"
-
-const PLAYWRIGHT = "playwright"
-
 const DeclaredServer = z.object({
   type: z.literal("stdio"),
   command: z.string(),
   args: z.array(z.string()),
   forwardEnv: z.array(z.string()).optional(),
   secretEnv: z.array(z.string()).optional(),
-  storageState: z.string().optional(),
 })
 
 const Declaration = z.record(z.string(), DeclaredServer)
@@ -50,13 +45,11 @@ function declaration(): Declared {
   return Declaration.parse(JSON.parse(readFileSync(at, "utf8")))
 }
 
-function resolved(value: string, storageState: string | null): string {
+function resolved(value: string): string {
   const withRoot = value.startsWith(INSTRUCTIONS_TOKEN)
     ? `${ownRepoRoot()}${value.slice(INSTRUCTIONS_TOKEN.length)}`
     : value
-  const withStorage =
-    storageState === null ? withRoot : withRoot.split(STORAGE_STATE_TOKEN).join(storageState)
-  return expandHome(withStorage, HOME_DIR)
+  return expandHome(withRoot, HOME_DIR)
 }
 
 function forwardedEnvArgs(keys: readonly string[]): readonly string[] {
@@ -74,28 +67,12 @@ function secretEnv(keys: readonly string[]): Record<string, string | undefined> 
   return env
 }
 
-function storageStatePathOf(server: string): string | null {
-  const declared = declaration()[server]
-  if (declared === undefined || declared.storageState === undefined) return null
-  return resolved(declared.storageState, null)
-}
-
-export function playwrightStorageStatePath(): string {
-  const path = storageStatePathOf(PLAYWRIGHT)
-  if (path === null) {
-    throw new Error(`${declaredAt()} states no storage state for \`${PLAYWRIGHT}\``)
-  }
-  return path
-}
-
 export function getMcpServerRegistry(): Record<string, McpServerConfig> {
   const registry: Record<string, McpServerConfig> = {}
   for (const [name, declared] of Object.entries(declaration())) {
-    const storageState =
-      declared.storageState === undefined ? null : resolved(declared.storageState, null)
     const args = [
       ...(declared.forwardEnv === undefined ? [] : forwardedEnvArgs(declared.forwardEnv)),
-      ...declared.args.map((one) => resolved(one, storageState)),
+      ...declared.args.map((one) => resolved(one)),
     ]
     registry[name] = {
       type: "stdio",
