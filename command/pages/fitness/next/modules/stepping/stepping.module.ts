@@ -15,7 +15,7 @@ export const stepping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A session is raised, then mobilised, then ramped, then worked.",
+      statement: "A session is raised, then mobilised, then worked.",
     },
     {
       decisionKind: "decision-kind/departure",

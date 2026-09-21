@@ -101,8 +101,6 @@ export type Bounds = {
   readonly ceiling: number
   readonly newnessLeft: number
   readonly repsCap: number
-  readonly warmupShare: number
-  readonly warmupReps: number
   readonly raising: number
   readonly raiseSeconds: number
   readonly mobilising: number
@@ -242,11 +240,7 @@ export function outIn(
   return held
 }
 
-export function doneOn(
-  sets: readonly Value[],
-  day: string,
-  nearFailure: number
-): readonly string[] {
+function doneOn(sets: readonly Value[], day: string, nearFailure: number): readonly string[] {
   const named: string[] = []
   for (const one of sets) {
     if (dayOf(one) !== day || !nearFailureIn(one, nearFailure)) continue
@@ -307,7 +301,6 @@ export function offerOf(
   out: ReadonlySet<string>,
   warmth: Warmth = {
     warm: false,
-    ramped: new Set(),
     raised: new Map(),
     turn: 0,
     done: new Set(),
@@ -343,13 +336,10 @@ export function offerOf(
     weight: mark?.weight ?? null,
     reps: climb.reps,
   }
-  const warmup = warmupFor(best.one, mark?.weight ?? null, loads, week.movements, {
+  const warmup = warmupFor(best.one, week.movements, {
     warm: warmth.warm,
-    ramped: warmth.ramped.has(best.one.slug),
     raising: bounds.raising,
     mobilising: bounds.mobilising,
-    share: bounds.warmupShare,
-    reps: bounds.warmupReps,
     seconds: bounds.raiseSeconds,
     covered,
     raised: warmth.raised,
@@ -402,7 +392,7 @@ export type Next = {
   readonly resting: boolean
 }
 
-export function focusIn(root: string, today: string): string | null {
+function focusIn(root: string, today: string): string | null {
   const weekday = weekdayOn(today)
   if (weekday === null) return null
   return focusOn(
@@ -411,7 +401,7 @@ export function focusIn(root: string, today: string): string | null {
   )
 }
 
-export function nextIn(root: string, now: Date): Next {
+function nextIn(root: string, now: Date): Next {
   const today = getMountainMorningDayStr(now)
   const focus = focusIn(root, today)
   if (focus === RESTING) return { offer: null, resting: true }
@@ -431,8 +421,6 @@ export function nextIn(root: string, now: Date): Next {
     ceiling: selectionPolicy.weeklySetCeiling,
     newnessLeft: newnessLeftIn(done, marks, selectionPolicy.noveltyCapPerSession),
     repsCap: selectionPolicy.repsBeforeSlowing,
-    warmupShare: selectionPolicy.warmupLoadShare,
-    warmupReps: selectionPolicy.warmupReps,
     raising: selectionPolicy.minutesRaising,
     raiseSeconds: selectionPolicy.secondsPerRaise,
     mobilising: selectionPolicy.mobilisingMovements,

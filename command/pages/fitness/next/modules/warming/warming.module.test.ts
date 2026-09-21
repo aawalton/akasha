@@ -32,8 +32,6 @@ const SEPTEMBER_EIGHTEENTH = `${day.slug}/${day20260918.slug}` as const
 
 const HAMMER_CURLS_AT = `${strengthExercise.slug}/${hammerCurls.slug}` as const
 
-const LOADS = [3, 5, 8, 10, 15, 20, 25, 30]
-
 const BENCH = movement(dumbbellBenchPress.slug, { muscles: ["chest", "triceps"] })
 
 const MOVING = movement("dynamic-chest-stretch", {
@@ -85,8 +83,6 @@ const COVERED = new Set(["dumbbell"])
 const WARMING = {
   raising: 5,
   mobilising: 2,
-  share: 0.5,
-  reps: 10,
   seconds: 60,
   covered: COVERED,
   raised: new Map<string, string>(),
@@ -96,13 +92,12 @@ const WARMING = {
   easyReps: 10,
 }
 
-const COLD = { ...WARMING, warm: false, ramped: false }
+const COLD = { ...WARMING, warm: false }
 
 test("Alan is warm where a set of his falls inside the window handed in", () => {
   const sets = [{ setPerformedAt: "2026-09-18T16:52:00.000Z", exercise: HAMMER_CURLS_AT }]
   const held = warmthIn(sets, NOW, 15, TODAY)
   expect(held.warm).toBe(true)
-  expect(held.ramped).toEqual(new Set([hammerCurls.slug]))
 })
 
 test("a set older than the window leaves Alan cold", () => {
@@ -204,41 +199,25 @@ test("the movements offered are those sharing a muscle with the movement to come
   expect(mobilisingFor(MOVEMENTS, ["calves"], 2)).toEqual([])
 })
 
-test("a cold Alan raises, mobilises and ramps", () => {
-  const held = warmupFor(BENCH, 30, LOADS, MOVEMENTS, COLD)
+test("a cold Alan raises and mobilises", () => {
+  const held = warmupFor(BENCH, MOVEMENTS, COLD)
   expect(held).toEqual({
     raise: { minutes: 5, movements: [PRESSING, SQUATTING] },
     mobilise: [MOVING],
-    ramp: { weight: 15, reps: 10 },
     easyReps: 10,
   })
 })
 
 test("a mobilise Alan performed today is gone from the warmup", () => {
   const done = new Set([MOVING.slug])
-  expect(warmupFor(BENCH, 30, LOADS, MOVEMENTS, { ...COLD, done })?.mobilise).toEqual([])
+  expect(warmupFor(BENCH, MOVEMENTS, { ...COLD, done })?.mobilise).toEqual([])
 })
 
 test("a raise paid in full today is no raise to offer", () => {
-  const held = warmupFor(BENCH, 30, LOADS, MOVEMENTS, { ...COLD, raisedToday: 5 })
+  const held = warmupFor(BENCH, MOVEMENTS, { ...COLD, raisedToday: 5 })
   expect(held?.raise).toBe(null)
 })
 
-test("an Alan already warm is owed the ramp alone", () => {
-  const held = warmupFor(BENCH, 30, LOADS, MOVEMENTS, { ...COLD, warm: true })
-  expect(held).toEqual({
-    raise: null,
-    mobilise: [],
-    ramp: { weight: 15, reps: 10 },
-    easyReps: 10,
-  })
-})
-
-test("a movement ramped inside the window is owed no warmup at all", () => {
-  expect(warmupFor(BENCH, 30, LOADS, MOVEMENTS, { ...COLD, warm: true, ramped: true })).toBe(null)
-})
-
-test("a movement with no working weight ramps on reps alone", () => {
-  const held = warmupFor(BENCH, null, LOADS, MOVEMENTS, { ...COLD, warm: true })
-  expect(held?.ramp).toEqual({ weight: null, reps: 10 })
+test("an Alan already warm is owed no warmup at all", () => {
+  expect(warmupFor(BENCH, MOVEMENTS, { ...COLD, warm: true })).toBe(null)
 })

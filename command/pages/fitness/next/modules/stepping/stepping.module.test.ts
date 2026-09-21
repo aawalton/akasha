@@ -18,16 +18,13 @@ const WORK: Work = {
   reps: 20,
 }
 
-const RAMP = { weight: 15, reps: 10 }
-
 const WHOLE: Warmup = {
   raise: { minutes: 5, movements: [SQUATS] },
   mobilise: [OPENING],
-  ramp: RAMP,
   easyReps: 12,
 }
 
-const RAMPING: Warmup = { ...WHOLE, raise: null, mobilise: [] }
+const PAID: Warmup = { ...WHOLE, raise: null, mobilise: [] }
 
 test("the step Alan is on is the raise at the head of the run", () => {
   const step = stepFor(WHOLE, WORK)
@@ -52,15 +49,10 @@ test("a raise Alan has paid gives the step over to the mobilise", () => {
   ])
 })
 
-test("a warmup paid down to the ramp is the ramp", () => {
-  const step = stepFor(RAMPING, WORK)
-  expect(step.kind).toBe("ramp")
-  expect(steppedOf(step)).toEqual(["Dumbbell Bench Press", "  ramp: 15 lb, 10 easy reps"])
-})
-
-test("a ramp with no load is said on its reps alone", () => {
-  const step = stepFor({ ...RAMPING, ramp: { weight: null, reps: 10 } }, WORK)
-  expect(steppedOf(step)).toEqual(["Dumbbell Bench Press", "  ramp: 10 easy reps"])
+test("a warmup paid down to nothing gives the step over to the work", () => {
+  const step = stepFor(PAID, WORK)
+  expect(step.kind).toBe("work")
+  expect(steppedOf(step)).toEqual(["Dumbbell Bench Press", "  30 lb, 20 reps"])
 })
 
 test("an Alan owed no warmup is on the working set", () => {

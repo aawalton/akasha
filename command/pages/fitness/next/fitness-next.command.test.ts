@@ -77,8 +77,6 @@ function bounds(over: Partial<Bounds> = {}): Bounds {
     ceiling: 12,
     newnessLeft: 0,
     repsCap: 20,
-    warmupShare: 0.5,
-    warmupReps: 10,
     raising: 5,
     raiseSeconds: 60,
     mobilising: 2,
@@ -89,7 +87,6 @@ function bounds(over: Partial<Bounds> = {}): Bounds {
 
 const WARM: Warmth = {
   warm: true,
-  ramped: new Set(["dumbbell-bench-press"]),
   raised: new Map(),
   turn: 0,
   done: new Set(),
@@ -267,7 +264,7 @@ test("a cold Alan is put on the raise rather than on the work behind it", () => 
   expect(saidOf(offer)).toEqual(["5 minutes easy, until you are breathing and damp"])
 })
 
-test("a movement ramped inside the window puts Alan on the working set", () => {
+test("an Alan warm inside the window puts Alan on the working set", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, WARM)
   expect(offer?.step.kind).toBe("work")
   const said = saidOf(offer)
@@ -275,11 +272,11 @@ test("a movement ramped inside the window puts Alan on the working set", () => {
   expect(said[1]).toBe("  30 lb, 20 reps")
 })
 
-test("an Alan warm but unramped is put on the ramp", () => {
-  const warm = { ...WARM, ramped: new Set<string>() }
-  const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, warm)
-  expect(offer?.step.kind).toBe("ramp")
-  expect(saidOf(offer)[1]).toBe("  ramp: 10 lb, 10 easy reps")
+test("no ramp comes between the warmup and the working set", () => {
+  for (const warmth of [WARM, undefined]) {
+    const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, warmth)
+    expect(offer?.step.kind).not.toBe("ramp")
+  }
 })
 
 test("what a muscle is owed is weighed and never said", () => {

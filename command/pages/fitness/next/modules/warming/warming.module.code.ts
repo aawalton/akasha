@@ -2,7 +2,6 @@ import {
   MS_PER_DAY,
   parseDay,
 } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
-import { easedTo } from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import {
   dayOf,
   type Movement,
@@ -29,11 +28,6 @@ const MS_PER_MINUTE = 60_000
 
 const SECONDS_PER_MINUTE = 60
 
-export type Ramp = {
-  readonly weight: number | null
-  readonly reps: number
-}
-
 export type Raise = {
   readonly minutes: number
   readonly movements: readonly Movement[]
@@ -42,13 +36,11 @@ export type Raise = {
 export type Warmup = {
   readonly raise: Raise | null
   readonly mobilise: readonly Movement[]
-  readonly ramp: Ramp
   readonly easyReps: number
 }
 
 export type Warmth = {
   readonly warm: boolean
-  readonly ramped: ReadonlySet<string>
   readonly raised: ReadonlyMap<string, string>
   readonly turn: number
   readonly done: ReadonlySet<string>
@@ -57,11 +49,8 @@ export type Warmth = {
 
 export type Warming = {
   readonly warm: boolean
-  readonly ramped: boolean
   readonly raising: number
   readonly mobilising: number
-  readonly share: number
-  readonly reps: number
   readonly seconds: number
   readonly covered: ReadonlySet<string>
   readonly raised: ReadonlyMap<string, string>
@@ -88,7 +77,7 @@ export function raisedIn(sets: readonly Value[]): ReadonlyMap<string, string> {
   return held
 }
 
-export function turnOf(day: string): number {
+function turnOf(day: string): number {
   const parsed = parseDay(day)
   if (parsed === null) return 0
   const [year, month, of] = parsed
@@ -98,7 +87,6 @@ export function turnOf(day: string): number {
 export function warmthIn(sets: readonly Value[], now: Date, minutes: number, day: string): Warmth {
   const to = now.getTime()
   const from = to - minutes * MS_PER_MINUTE
-  const ramped = new Set<string>()
   const done = new Set<string>()
   let warm = false
   let raisedToday = 0
@@ -115,9 +103,8 @@ export function warmthIn(sets: readonly Value[], now: Date, minutes: number, day
     const held = Date.parse(at)
     if (!Number.isFinite(held) || held < from || held > to) continue
     warm = true
-    if (named !== null) ramped.add(named)
   }
-  return { warm, ramped, raised: raisedIn(sets), turn: turnOf(day), done, raisedToday }
+  return { warm, raised: raisedIn(sets), turn: turnOf(day), done, raisedToday }
 }
 
 export function movingIn(movements: ReadonlyMap<string, Movement>): readonly Movement[] {
@@ -194,25 +181,16 @@ export function raisingFor(
 
 export function warmupFor(
   one: Movement,
-  working: number | null,
-  loads: readonly number[],
   movements: ReadonlyMap<string, Movement>,
   given: Warming
 ): Warmup | null {
-  if (given.warm && given.ramped) return null
-  const ramp: Ramp = {
-    weight: working === null ? null : easedTo(loads, working * given.share),
-    reps: given.reps,
-  }
-  const easyReps = given.easyReps
-  if (given.warm) return { raise: null, mobilise: [], ramp, easyReps }
+  if (given.warm) return null
   const run = raisingFor(movements, one.muscles, given)
   return {
     raise: raisesLeftIn(given) === 0 ? null : { minutes: given.raising, movements: run },
     mobilise: mobilisingFor(movements, one.muscles, given.mobilising).filter(
       (each) => !given.done.has(each.slug)
     ),
-    ramp,
-    easyReps,
+    easyReps: given.easyReps,
   }
 }

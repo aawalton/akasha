@@ -10,7 +10,7 @@ export const warming = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A warmup raises the temperature, mobilises the muscles, then ramps the movement.",
+      statement: "A warmup raises the temperature and mobilises the muscles.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -18,11 +18,11 @@ export const warming = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An Alan already warm is owed the ramp alone, the raise having been paid.",
+      statement: "An Alan already warm is owed no warmup at all.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A movement ramped inside the window is owed no warmup at all.",
+      decisionKind: "decision-kind/absence",
+      statement: "No set of the working movement is offered under its working load.",
     },
     {
       decisionKind: "decision-kind/departure",

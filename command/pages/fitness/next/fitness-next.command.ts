@@ -158,21 +158,11 @@ export const fitnessNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A warmup raises the temperature, mobilises the muscles, then ramps the movement itself.",
+      statement: "A warmup raises the temperature and mobilises the muscles.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A warmup set takes the heaviest load Alan owns at or under a share of the working weight.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A load under the lightest Alan owns is answered with the lightest Alan owns.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A movement with no working weight yet is warmed up with easy reps and no load.",
+      decisionKind: "decision-kind/absence",
+      statement: "No ramp set comes between the warmup and the working set.",
     },
     {
       decisionKind: "decision-kind/departure",

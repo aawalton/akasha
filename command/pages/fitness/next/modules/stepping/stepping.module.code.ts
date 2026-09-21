@@ -4,7 +4,7 @@ import {
   type Warmup,
 } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
 
-export type StepKind = "mobilise" | "raise" | "ramp" | "work"
+export type StepKind = "mobilise" | "raise" | "work"
 
 export type Step = {
   readonly kind: StepKind
@@ -43,14 +43,6 @@ export function stepFor(warmup: Warmup | null, work: Work): Step {
     if (one !== undefined) return easedFor(one, "raise", warmup.easyReps)
     const moving = warmup.mobilise[0]
     if (moving !== undefined) return easedFor(moving, "mobilise", warmup.easyReps)
-    return {
-      ...BARE,
-      kind: "ramp",
-      movement: work.movement,
-      title: work.title,
-      weight: warmup.ramp.weight,
-      reps: warmup.ramp.reps,
-    }
   }
   return {
     ...BARE,
@@ -71,13 +63,6 @@ export function steppedOf(step: Step): readonly string[] {
   if (step.kind === "raise") return [lead, `  ${easy}`]
   if (step.kind === "mobilise") return [lead, `  ${easy}, through the whole range`]
   const reps = String(step.reps)
-  if (step.kind === "ramp")
-    return [
-      lead,
-      step.weight === null
-        ? `  ramp: ${reps} easy reps`
-        : `  ramp: ${String(step.weight)} lb, ${reps} easy reps`,
-    ]
   if (step.weight === null)
     return [lead, "  find a load that takes you near failure inside eight to twelve reps"]
   return [
