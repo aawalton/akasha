@@ -6,4 +6,10 @@ export const markdownRenderer = {
   slug: "markdown-renderer",
   definition: "Markdown rendered as elements, with mentions resolved and headings sectioned.",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A link whose address names a page is drawn as a link to where that page is read.",
+    },
+  ],
 } as const satisfies Module
