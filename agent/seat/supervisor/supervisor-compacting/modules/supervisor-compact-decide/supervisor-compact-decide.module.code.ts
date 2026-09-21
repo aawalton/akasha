@@ -1,26 +1,29 @@
-export const COMPACT_AT_TOKENS = 350_000
-
 export type CompactObservation = {
   readonly idle: boolean
   readonly compacting: boolean
   readonly contextTokens: number | null
+  readonly ceiling: number | null
 }
 
-export type CompactReading = Pick<CompactObservation, "compacting" | "contextTokens">
+export type CompactReading = Omit<CompactObservation, "idle">
 
-export function pastCompactCeiling(contextTokens: number | null): boolean {
-  return contextTokens !== null && contextTokens >= COMPACT_AT_TOKENS
+export function pastCompactCeiling(contextTokens: number | null, ceiling: number | null): boolean {
+  return contextTokens !== null && ceiling !== null && contextTokens >= ceiling
 }
 
 export function worthProbing(reading: CompactReading, asked: boolean): boolean {
-  return !asked && !reading.compacting && pastCompactCeiling(reading.contextTokens)
+  return !asked && !reading.compacting && pastCompactCeiling(reading.contextTokens, reading.ceiling)
 }
 
 export function shouldCompact(obs: CompactObservation, asked: boolean): boolean {
   return worthProbing(obs, asked) && obs.idle
 }
 
-export function stillAsked(asked: boolean, contextTokens: number | null): boolean {
+export function stillAsked(
+  asked: boolean,
+  contextTokens: number | null,
+  ceiling: number | null
+): boolean {
   if (!asked) return false
-  return contextTokens === null || pastCompactCeiling(contextTokens)
+  return contextTokens === null || pastCompactCeiling(contextTokens, ceiling)
 }

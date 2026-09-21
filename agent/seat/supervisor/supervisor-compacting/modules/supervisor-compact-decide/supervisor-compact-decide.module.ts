@@ -10,7 +10,8 @@ export const supervisorCompactDecide = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The context ceiling is three hundred and fifty thousand tokens.",
+      statement:
+        "The context ceiling is the count a seat's conditions state an idle seat is compacted at.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -36,6 +37,10 @@ export const supervisorCompactDecide = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a process or a port or a page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A ceiling that could not be read asks no seat to compact.",
     },
   ],
 } as const satisfies Module

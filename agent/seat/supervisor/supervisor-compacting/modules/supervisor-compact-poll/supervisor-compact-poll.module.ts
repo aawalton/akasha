@@ -32,5 +32,10 @@ export const supervisorCompactPoll = {
       decisionKind: "decision-kind/departure",
       statement: "An ask the pane refused is no ask, so the next beat asks again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The ceiling is read afresh on every beat, so a conditions page rewritten holds at once.",
+    },
   ],
 } as const satisfies Module

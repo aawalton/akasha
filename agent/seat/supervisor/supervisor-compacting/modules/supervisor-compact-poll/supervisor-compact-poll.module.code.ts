@@ -1,4 +1,5 @@
 import { sendLineToSeatPane } from "akasha/agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import { readSeatConditions } from "akasha/agent/seat/launching/modules/seat-conditions-reading/seat-conditions-reading.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { pendingOf } from "akasha/agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"
 import {
@@ -16,11 +17,22 @@ const POLL_NAME = "auto-compact"
 
 const COMPACT_LINE = "/compact"
 
-function tokensOf(agentId: string): number | null {
-  const held = contextTokensOf(agentId)
+function countIn(held: string | null): number | null {
   if (held === null) return null
-  const count = Number.parseInt(held.value, 10)
+  const count = Number.parseInt(held, 10)
   return Number.isSafeInteger(count) ? count : null
+}
+
+function tokensOf(agentId: string): number | null {
+  return countIn(contextTokensOf(agentId)?.value ?? null)
+}
+
+function ceilingNow(): number | null {
+  try {
+    return countIn(readSeatConditions().idleCompactWindow)
+  } catch {
+    return null
+  }
 }
 
 function compactingOf(agentId: string): boolean {
@@ -34,12 +46,14 @@ export function autoCompactPoll(args: {
   idleRule: IdleRuleSource
   log: (line: string) => void
   readTokens?: (agentId: string) => number | null
+  readCeiling?: () => number | null
   readCompacting?: (agentId: string) => boolean
   readSeatName?: (agentId: string) => string | null
   sendLine?: (seatName: string, line: string) => Promise<boolean>
   observe?: () => Promise<IdleObservation>
 }): HeartbeatPoll {
   const readTokens = args.readTokens ?? tokensOf
+  const readCeiling = args.readCeiling ?? ceilingNow
   const readCompacting = args.readCompacting ?? compactingOf
   const readSeatName = args.readSeatName ?? seatNameForAgent
   const sendLine = args.sendLine ?? sendLineToSeatPane
@@ -65,11 +79,12 @@ export function autoCompactPoll(args: {
         return
       }
       const contextTokens = readTokens(agentId)
-      asked = stillAsked(asked, contextTokens)
+      const ceiling = readCeiling()
+      asked = stillAsked(asked, contextTokens, ceiling)
       const compacting = readCompacting(agentId)
-      if (!worthProbing({ compacting, contextTokens }, asked)) return
+      if (!worthProbing({ compacting, contextTokens, ceiling }, asked)) return
       const { value: verdict } = await args.idleRule.preservingRestart(await observe())
-      if (!shouldCompact({ idle: verdict.idle, compacting, contextTokens }, asked)) return
+      if (!shouldCompact({ idle: verdict.idle, compacting, contextTokens, ceiling }, asked)) return
       const seatName = readSeatName(agentId)
       if (seatName === null) return
       asked = await sendLine(seatName, COMPACT_LINE)

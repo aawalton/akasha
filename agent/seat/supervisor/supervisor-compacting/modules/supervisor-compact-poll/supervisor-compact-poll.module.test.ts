@@ -21,6 +21,7 @@ function ruleSaying(idle: boolean): IdleRuleSource {
 
 function pollOver(opts: {
   tokens: number | null
+  ceiling?: number | null
   compacting?: boolean
   idle?: boolean
   sent?: boolean
@@ -33,6 +34,7 @@ function pollOver(opts: {
     idleRule: ruleSaying(opts.idle ?? true),
     log: () => undefined,
     readTokens: () => opts.tokens,
+    readCeiling: () => (opts.ceiling === undefined ? 350_000 : opts.ceiling),
     readCompacting: () => opts.compacting ?? false,
     readSeatName: () => "thea",
     observe: () => Promise.resolve(QUIET),
@@ -52,6 +54,18 @@ test("an idle seat past the ceiling is asked to compact on the beat", async () =
 test("a seat under the ceiling is asked nothing", async () => {
   const asks: string[] = []
   await pollOver({ tokens: 100_000, asks }).run()
+  expect(asks).toEqual([])
+})
+
+test("a seat whose conditions could not be read is asked nothing", async () => {
+  const asks: string[] = []
+  await pollOver({ tokens: 400_000, ceiling: null, asks }).run()
+  expect(asks).toEqual([])
+})
+
+test("a ceiling the conditions raised leaves a seat that was over the old one alone", async () => {
+  const asks: string[] = []
+  await pollOver({ tokens: 400_000, ceiling: 900_000, asks }).run()
   expect(asks).toEqual([])
 })
 
@@ -93,6 +107,7 @@ test("a supervisor with no agent asks nothing", async () => {
     idleRule: ruleSaying(true),
     log: () => undefined,
     readTokens: () => 400_000,
+    readCeiling: () => 350_000,
     readCompacting: () => false,
     readSeatName: () => "thea",
     observe: () => Promise.resolve(QUIET),
