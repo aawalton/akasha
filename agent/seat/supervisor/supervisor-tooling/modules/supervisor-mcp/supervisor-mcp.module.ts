@@ -9,15 +9,7 @@ export const supervisorMcp = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A dynamic import reaches the browser storage-state export.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A tree holding no playwright boots.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A supervisor whose browser MCP cannot be seeded boots without offering that MCP.",
+      statement: "A server the registry declares is offered rather than opened to be tried first.",
     },
   ],
 } as const satisfies Module

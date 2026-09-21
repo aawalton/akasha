@@ -29,7 +29,6 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/supervisor-mcp/supervisor-mcp.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/usage/modules/typing-minutes/typing-minutes.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/monarch/eval/modules/run/monarch-eval-run.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/monarch/modules/amazon-notes/monarch-amazon-notes.module.code.ts"}

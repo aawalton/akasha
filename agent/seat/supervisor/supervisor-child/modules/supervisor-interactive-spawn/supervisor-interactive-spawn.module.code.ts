@@ -67,7 +67,7 @@ export async function buildIterationSpawnOpts(args: {
   proxy: InteractiveSessionBoot["proxy"]
   resolveSeatSpawnDecisions: SeatSpawnDecider
 }): Promise<{
-  iterMcpPath: Awaited<ReturnType<typeof resolveMcpConfig>>
+  iterMcpPath: ReturnType<typeof resolveMcpConfig>
   spawnOpts: Parameters<typeof spawnClaudeChild>[0]
   bootPromptPath: string | null
 }> {
@@ -86,7 +86,7 @@ export async function buildIterationSpawnOpts(args: {
     resolveSeatSpawnDecisions,
   } = args
 
-  const iterMcpPath = await resolveMcpConfig(mcpConfigNonce, { configDir, cwd })
+  const iterMcpPath = resolveMcpConfig(mcpConfigNonce, { configDir, cwd })
   if (iterMcpPath != null) {
     console.log(`${LOG} MCP config: ${iterMcpPath}`)
   }
