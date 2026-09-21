@@ -13,5 +13,5 @@ export const whatMakesAPersonExpensive = {
     "all-about-alan-topic/why-people-read-as-unsafe",
   ],
   settled:
-    "Conflict is the single biggest factor in what a person's company costs me.\n\nLizzy is usually a two, and I think that is because she is very conflict-avoidant.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.",
+    "Lizzy is usually a two. That was counted out of my session tracking rather than recalled, so it is a reading of the record rather than something I said.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.",
 } as const satisfies AllAboutAlanTopic
