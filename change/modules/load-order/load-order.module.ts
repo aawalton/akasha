@@ -49,7 +49,7 @@ export const loadOrder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which names a body binds is read from `bound-names` rather than here.",
+      statement: "Which names a body binds is read from `name-binding` rather than here.",
     },
     {
       decisionKind: "decision-kind/absence",

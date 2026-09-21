@@ -151,7 +151,7 @@ export const codeExportCarrying = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Which names a declaration and a body bind is read from `bound-names` rather than here.",
+        "Which names a declaration and a body bind is read from `name-binding` rather than here.",
     },
     {
       decisionKind: "decision-kind/absence",
