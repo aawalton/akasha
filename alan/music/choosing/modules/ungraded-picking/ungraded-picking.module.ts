@@ -14,11 +14,11 @@ export const ungradedPicking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track stating a rank is never picked.",
+      statement: "A track stating the grade Alan gave it is never picked.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track stating an empty rank is picked.",
+      statement: "A track stating an empty grade is picked.",
     },
     {
       decisionKind: "decision-kind/departure",

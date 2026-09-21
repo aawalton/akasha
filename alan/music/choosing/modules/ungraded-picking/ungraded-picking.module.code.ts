@@ -8,10 +8,10 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const RANK = "rank"
+const GRADE = "grade"
 
 export function graded(track: Value): boolean {
-  return textIn(track, RANK) !== null
+  return textIn(track, GRADE) !== null
 }
 
 export function ungraded(track: Value): boolean {

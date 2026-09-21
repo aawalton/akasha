@@ -18,12 +18,12 @@ const RELEASES: readonly Value[] = [
   },
 ]
 
-function trackMade(slug: string, status: string, rank?: string): Value {
+function trackMade(slug: string, status: string, grade?: string): Value {
   return {
     slug,
     title: slug,
     status,
-    ...(rank === undefined ? {} : { rank }),
+    ...(grade === undefined ? {} : { grade }),
     carriedBy: [
       {
         release: `${release.slug}/one-first`,
@@ -44,16 +44,16 @@ test("a track Alan has not heard is never picked", () => {
   expect(slugsOf(tracks)).toEqual(["b"])
 })
 
-test("a track stating a rank is never picked", () => {
+test("a track stating the grade Alan gave it is never picked", () => {
   const tracks = [trackMade("a", "completed", "A-"), trackMade("b", "completed")]
   expect(slugsOf(tracks)).toEqual(["b"])
 })
 
-test("a track stating an empty rank is picked", () => {
+test("a track stating an empty grade is picked", () => {
   expect(slugsOf([trackMade("a", "completed", "")])).toEqual(["a"])
 })
 
-test("a track carries a grade where that track states a rank", () => {
+test("a track carries a grade where that track states one", () => {
   expect(graded(trackMade("a", "completed", "S"))).toBe(true)
   expect(graded(trackMade("a", "completed"))).toBe(false)
   expect(graded(trackMade("a", "completed", ""))).toBe(false)
