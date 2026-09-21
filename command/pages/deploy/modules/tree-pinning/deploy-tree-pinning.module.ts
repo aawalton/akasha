@@ -30,15 +30,15 @@ export const deployTreePinning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tree pinned at a commit carries the index the pages at that commit imply.",
+      statement: "A tree pinned at a commit carries the index that commit carries.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here builds an index.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A tree git will not make or move is refused by naming the kind and the commit.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A tree whose index will not build is refused the same way.",
     },
     {
       decisionKind: "decision-kind/absence",

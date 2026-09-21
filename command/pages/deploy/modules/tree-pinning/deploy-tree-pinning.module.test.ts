@@ -6,7 +6,6 @@ import {
   pinnedTree,
   treeIn,
 } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
-import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -65,18 +64,6 @@ test("pinning again moves the tree to the second commit", () => {
     expect("at" in pinned).toBe(true)
     if (!("at" in pinned)) return
     expect(readFileSync(join(pinned.at, "one.txt"), "utf8")).toBe("second")
-  } finally {
-    repo.cleanup()
-  }
-})
-
-test("a tree pinned at a commit carries an index of its own", () => {
-  const repo = madeRepo()
-  try {
-    const pinned = pinnedTree(repo.root, KIND, committed(repo.root, "first"))
-    expect("at" in pinned).toBe(true)
-    if (!("at" in pinned)) return
-    expect(existsSync(indexIn(pinned.at))).toBe(true)
   } finally {
     repo.cleanup()
   }

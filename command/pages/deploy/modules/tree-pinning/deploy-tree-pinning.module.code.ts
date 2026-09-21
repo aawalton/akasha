@@ -3,8 +3,6 @@ import { dirname, join } from "node:path"
 import { GIT_AT, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
-import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
-import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 export type Pinned = { readonly at: string } | { readonly refused: string }
 
@@ -27,15 +25,6 @@ function madeTree(root: string, at: string, commit: string): boolean {
   return told(root, ["worktree", "add", "--detach", at, commit]) !== null
 }
 
-function indexedTree(at: string): string | null {
-  try {
-    refreshedFrom(at, indexIn(at), at)
-    return null
-  } catch (thrown) {
-    return thrown instanceof Error ? thrown.message : String(thrown)
-  }
-}
-
 export function pinnedTree(root: string, kind: string, commit: string): Pinned {
   const at = treeIn(root, kind)
   if (at === null) return { refused: saidOfNoTree(kind, `git names no folder under ${root}`) }
@@ -46,7 +35,5 @@ export function pinnedTree(root: string, kind: string, commit: string): Pinned {
   } else if (!madeTree(root, at, commit)) {
     return { refused: saidOfNoTree(kind, `no tree could be made at ${at} for ${commit}`) }
   }
-  const wrong = indexedTree(at)
-  if (wrong === null) return { at }
-  return { refused: saidOfNoTree(kind, `the index under ${at} would not build — ${wrong}`) }
+  return { at }
 }
