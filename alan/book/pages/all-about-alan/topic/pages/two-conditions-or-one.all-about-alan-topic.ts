@@ -12,5 +12,5 @@ export const twoConditionsOrOne = {
     "all-about-alan-topic/how-i-get-anything-done",
   ],
   settled:
-    "My executive function takes a hit from each, and only the ADHD side has anything aimed at it.",
+    "My executive function takes a hit from each, and only the ADHD side has anything aimed at it.\n\nThe autism half of that damage usually goes uncredited. The ADHD side is the visible one, so it gets the blame for both.",
 } as const satisfies AllAboutAlanTopic
