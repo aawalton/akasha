@@ -47,6 +47,15 @@ export const heldAddon = {
       statement: "The name a page here states is judged against the addon manifests the tree has.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A held addon states the Temper addon shipping its code rather than an addon of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "More than one held addon states the same Temper addon.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "Every addon the temper port has is a page here.",
     },
