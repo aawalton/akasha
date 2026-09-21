@@ -1,4 +1,6 @@
 import type { WritFields } from "akasha/temper/addon/crafting-addon/modules/writ-types/writ-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 
 export function toWritFields(itemLink: string): WritFields {
   const x = [...ZO_LinkHandler_ParseLink(itemLink)]

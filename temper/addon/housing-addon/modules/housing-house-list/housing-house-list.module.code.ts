@@ -9,6 +9,8 @@ import {
   portToFriend,
 } from "akasha/temper/addon/housing-addon/modules/housing-state/housing-state.module.code.ts"
 import type { PurchasedHouse } from "akasha/temper/addon/housing-addon/modules/housing-types/housing-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 interface ListSlider {
   IsHidden: (this: ListSlider) => boolean

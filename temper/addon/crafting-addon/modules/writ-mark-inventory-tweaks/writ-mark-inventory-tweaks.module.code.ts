@@ -5,6 +5,10 @@ import {
 import { INVENTORY_TYPES } from "akasha/temper/addon/crafting-addon/modules/writ-mark-constants/writ-mark-constants.module.code.ts"
 import { safeGetTabFilterInfo } from "akasha/temper/addon/crafting-addon/modules/writ-mark-safe-tab-filter/writ-mark-safe-tab-filter.module.code.ts"
 import { areInventoryTweaksEnabled } from "akasha/temper/addon/crafting-addon/modules/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-inventory/eso-inventory.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 let INITIALIZED_TWEAKS = false
 

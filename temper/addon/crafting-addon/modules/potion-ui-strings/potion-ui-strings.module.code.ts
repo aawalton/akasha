@@ -1,4 +1,7 @@
 import type { Language } from "akasha/temper/addon/crafting-addon/modules/potion-types/potion-types.module.code.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export const EN_LANGUAGE: Language = {
   name: "en",

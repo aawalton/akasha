@@ -56,6 +56,9 @@ import {
   finishPerfTrace,
   startPerfTrace,
 } from "akasha/temper/modules/perf-trace/perf-trace.module.code.ts"
+import "akasha/temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 function registerCompanionSceneCallbacks(): undefined {
   const companionScenes = [

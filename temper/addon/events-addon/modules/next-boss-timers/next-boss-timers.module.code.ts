@@ -13,6 +13,8 @@ import {
   SPAWNTIME_EVENT,
 } from "akasha/temper/addon/events-addon/modules/next-boss-constants/next-boss-constants.module.code.ts"
 import { ICT } from "akasha/temper/addon/events-addon/modules/next-boss-state/next-boss-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/events-addon/next-boss-declarations/next-boss-declarations.type-declaration.d.ts"
 
 function respawnFor(this: void, district: string): number {
   return ICT.timetable[district] ?? 0

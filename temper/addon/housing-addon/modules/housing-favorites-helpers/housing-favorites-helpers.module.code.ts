@@ -4,6 +4,7 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import { portToFriend } from "akasha/temper/addon/housing-addon/modules/housing-state/housing-state.module.code.ts"
 import type { Favorite } from "akasha/temper/addon/housing-addon/modules/housing-types/housing-types.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 interface ScrollPanelHolder {
   scrollPanel: Control

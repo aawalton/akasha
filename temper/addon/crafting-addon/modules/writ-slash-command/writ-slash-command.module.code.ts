@@ -1,6 +1,13 @@
 import { libSlashCommander } from "akasha/temper/addon/crafting-addon/modules/craft-libraries/craft-libraries.module.code.ts"
 import { strOrKey as wwStr } from "akasha/temper/addon/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts"
 import "akasha/temper/addon/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-writ-slash/eso-writ-slash.type-declaration.d.ts"
 
 export function forget(this: void): undefined {
   const sc = TemperWrit.savedChariables

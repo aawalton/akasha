@@ -28,6 +28,12 @@ import {
   updateForceOfNatureData,
   updateZenData,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-units/combat-lib-units.module.code.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const GROUP_EFFECT_NONE = 0
 const GROUP_EFFECT_IN = 1

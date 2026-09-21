@@ -26,6 +26,13 @@ import {
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 import { getNewStats } from "akasha/temper/addon/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
 import { getSlottedAbilityId } from "akasha/temper/addon/combat-addon/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 
 export const ID_TO_REDUCED_SLOT: Record<number, number> = {}
 

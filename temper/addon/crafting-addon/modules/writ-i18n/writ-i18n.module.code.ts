@@ -7,6 +7,12 @@ import { SET } from "akasha/temper/addon/crafting-addon/modules/writ-i18n-set/wr
 import { SHORTEN } from "akasha/temper/addon/crafting-addon/modules/writ-ui-strings-shorten/writ-ui-strings-shorten.module.code.ts"
 import { STATIC_STRINGS } from "akasha/temper/addon/crafting-addon/modules/writ-ui-strings-static/writ-ui-strings-static.module.code.ts"
 import "akasha/temper/addon/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export interface StrHow {
   name: string

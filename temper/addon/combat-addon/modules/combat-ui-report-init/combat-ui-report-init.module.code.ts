@@ -48,6 +48,15 @@ import {
 import { updateFightStatsPanelRight } from "akasha/temper/addon/combat-addon/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"
 import { updateTitlePanel } from "akasha/temper/addon/combat-addon/modules/combat-ui-title-panel/combat-ui-title-panel.module.code.ts"
 import { updateUnitPanel } from "akasha/temper/addon/combat-addon/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-ui-state-declarations/combat-ui-state-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/library/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function maxStatName(this: void): string {
   const [, magicka] = GetUnitPower("player", COMBAT_MECHANIC_FLAGS_MAGICKA)

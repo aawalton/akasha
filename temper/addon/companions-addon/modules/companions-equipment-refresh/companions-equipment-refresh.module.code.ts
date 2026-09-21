@@ -50,6 +50,7 @@ import {
   isSelectedCompanionActive,
 } from "akasha/temper/addon/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
 function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
   if (!equipState) return

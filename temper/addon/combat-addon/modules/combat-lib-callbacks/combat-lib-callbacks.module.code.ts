@@ -3,6 +3,9 @@ import {
   LIBCOMBAT_EVENT_MIN,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import type { CombatEventCallback } from "akasha/temper/addon/combat-addon/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const CALLBACK_LISTS: Record<number, CombatEventCallback[]> = {}
 

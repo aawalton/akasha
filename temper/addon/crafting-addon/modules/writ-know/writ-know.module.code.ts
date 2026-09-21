@@ -12,6 +12,8 @@ import {
   color,
 } from "akasha/temper/addon/crafting-addon/modules/writ-util/writ-util.module.code.ts"
 import "akasha/temper/addon/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
 
 export function newKnow(args: KnowArgs): Know {
   const o: Know = {

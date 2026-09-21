@@ -7,6 +7,9 @@ import "akasha/temper/eso/type/eso-world-map-zoom/eso-world-map-zoom.type-declar
 
 import { MAP_ID_IMPERIAL_CITY } from "akasha/temper/addon/events-addon/modules/next-boss-constants/next-boss-constants.module.code.ts"
 import { ICT } from "akasha/temper/addon/events-addon/modules/next-boss-state/next-boss-state.module.code.ts"
+import "akasha/temper/addon/events-addon/next-boss-declarations/next-boss-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 export function initUi(this: void): undefined {
   ICT.ui = {

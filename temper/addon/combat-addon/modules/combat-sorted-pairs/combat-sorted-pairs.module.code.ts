@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export function spairs<TKey extends string | number, TValue>(
   t: Record<TKey, TValue>,
   order?: (this: void, t: Record<TKey, TValue>, a: TKey, b: TKey) => boolean

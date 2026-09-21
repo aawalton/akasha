@@ -21,6 +21,10 @@ import {
   getCurrentFight,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 import { checkUnit } from "akasha/temper/addon/combat-addon/modules/combat-lib-units/combat-lib-units.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 const SPECIAL_RESULTS_INVERSE: Record<string, number | undefined> = {
   ACTION_RESULT_BLADETURN: ACTION_RESULT_BLADETURN,

@@ -2,6 +2,11 @@ import * as RecipeCooking from "akasha/temper/addon/crafting-addon/modules/craft
 import * as RuneCrafting from "akasha/temper/addon/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 import { asCsCookButton } from "akasha/temper/addon/crafting-addon/modules/rune-furniture-recipes/rune-furniture-recipes.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 
 export function runeShowFavorites(): undefined {
   const tt = STATE.Loc.TT

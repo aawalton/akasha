@@ -1,4 +1,5 @@
 import { CHAMPION_POINTS_TEXTURE } from "akasha/temper/addon/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 
 export interface RuneGlyphDef {
   1: number

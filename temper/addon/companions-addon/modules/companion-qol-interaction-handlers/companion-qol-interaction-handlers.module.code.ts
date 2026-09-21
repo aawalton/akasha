@@ -23,6 +23,7 @@ import {
   onStealthStateChanged,
 } from "akasha/temper/addon/companions-addon/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"
 import { FCOCO } from "akasha/temper/addon/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import "akasha/temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.d.ts"
 
 FCOCO.Player_Activated = function (this: void, _eventId: number, _waFirst?: boolean): undefined {
   FCOCO.UpdateCompass()

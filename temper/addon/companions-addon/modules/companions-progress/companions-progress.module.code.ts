@@ -7,6 +7,7 @@ import {
   ensureCompanionEntry,
   type SavedCompanionEntry,
 } from "akasha/temper/addon/companions-addon/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
+import "akasha/temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.d.ts"
 
 function getActiveCompanionEntry(): SavedCompanionEntry | undefined {
   if (!HasActiveCompanion()) return undefined

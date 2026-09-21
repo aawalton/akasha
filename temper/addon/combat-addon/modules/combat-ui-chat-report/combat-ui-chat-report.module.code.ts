@@ -12,6 +12,15 @@ import {
 } from "akasha/temper/addon/combat-addon/modules/combat-ui-chat-numbers/combat-ui-chat-numbers.module.code.ts"
 import { getSelections } from "akasha/temper/addon/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import { optionalNumberValue } from "akasha/temper/addon/combat-addon/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-controls-panels/combat-controls-panels.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-controls-report/combat-controls-report.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 
 const POSTTOCHAT_MODE_NONE = 0
 export const POSTTOCHAT_MODE_SINGLE = 1

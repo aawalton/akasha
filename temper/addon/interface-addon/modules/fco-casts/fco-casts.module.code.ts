@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+
 export type StringRecord = Record<string, unknown>
 
 export function asStringRecord(value: unknown): StringRecord {

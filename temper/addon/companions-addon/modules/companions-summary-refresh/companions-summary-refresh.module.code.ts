@@ -50,6 +50,8 @@ import {
   summaryState,
 } from "akasha/temper/addon/companions-addon/modules/companions-summary-panel/companions-summary-panel.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
+import "akasha/temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 
 const COLOR_GREEN = GREEN
 const COLOR_GOLD: [number, number, number] = [0.98, 0.86, 0.24]

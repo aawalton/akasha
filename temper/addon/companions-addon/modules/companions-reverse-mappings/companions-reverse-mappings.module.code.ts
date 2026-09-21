@@ -7,6 +7,9 @@ import {
   QUALITY_TO_INDEX,
   WEAPON_TRAIT_TO_INDEX,
 } from "akasha/temper/player/character/build/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 
 const INDEX_TO_ARMOR_WEIGHT: string[] = ["", "Light", "Medium", "Heavy"]
 

@@ -8,6 +8,8 @@ import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.
 import { asNumber } from "akasha/temper/addon/companions-addon/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
 import { FCOCO } from "akasha/temper/addon/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.d.ts"
 
 FCOCO.buildAddonMenu = function (this: void): boolean | undefined {
   const settings = FCOCO.settingsVars.settings

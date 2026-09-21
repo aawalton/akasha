@@ -9,6 +9,8 @@ import {
   getPtfSavedVars,
   portToFriend,
 } from "akasha/temper/addon/housing-addon/modules/housing-state/housing-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 function parseLuaCapture(captured: string | undefined): string | undefined {
   return captured

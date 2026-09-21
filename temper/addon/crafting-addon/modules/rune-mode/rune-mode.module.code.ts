@@ -10,6 +10,10 @@ import { runeShowCategory } from "akasha/temper/addon/crafting-addon/modules/run
 import { runeShowRefine } from "akasha/temper/addon/crafting-addon/modules/rune-glyph-refining/rune-glyph-refining.module.code.ts"
 import { runeSearch } from "akasha/temper/addon/crafting-addon/modules/rune-search/rune-search.module.code.ts"
 import { runeShowWrit } from "akasha/temper/addon/crafting-addon/modules/rune-writs/rune-writs.module.code.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-deconstruction/eso-deconstruction.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enchanting-station/eso-enchanting-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function runeShowMode(atStationOnly?: boolean): undefined {
   if (atStationOnly === undefined) {

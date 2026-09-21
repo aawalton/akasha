@@ -7,6 +7,11 @@ import {
 } from "akasha/temper/addon/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { resizeReport } from "akasha/temper/addon/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 function getRawAccountWideSettings(): Record<string, unknown> {
   const accountTable = globalThis.TemperCombat_Save?.Default?.[GetDisplayName()]?.["$AccountWide"]

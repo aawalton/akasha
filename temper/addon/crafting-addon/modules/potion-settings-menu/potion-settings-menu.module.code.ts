@@ -5,6 +5,13 @@ import {
 } from "akasha/temper/addon/crafting-addon/modules/potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "akasha/temper/addon/crafting-addon/modules/potion-state/potion-state.module.code.ts"
 import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import "akasha/temper/addon/library-type/crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/fcois/fcois.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 interface LAM2PanelData {
   type: "panel"

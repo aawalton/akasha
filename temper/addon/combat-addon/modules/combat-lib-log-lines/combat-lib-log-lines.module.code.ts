@@ -15,6 +15,7 @@ import {
   LIBCOMBAT_EVENT_RESOURCES,
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export type RawLogLine = readonly (number | string | undefined)[]
 

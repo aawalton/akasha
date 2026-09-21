@@ -29,6 +29,12 @@ import type {
   GroupRecapData,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 import { processDeathRecaps } from "akasha/temper/addon/combat-addon/modules/combat-lib-unit-cache/combat-lib-unit-cache.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function getCritBonusFromCP(cpData: CPData): number {
   const greenDiscipline = cpData[1]

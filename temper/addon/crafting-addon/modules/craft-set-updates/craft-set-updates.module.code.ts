@@ -3,6 +3,7 @@ import type { LangSuboptions } from "akasha/temper/addon/crafting-addon/modules/
 import { repairStored } from "akasha/temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import { updatePanelIcon } from "akasha/temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 type DropdownOptionName =
   | "overviewstyle"

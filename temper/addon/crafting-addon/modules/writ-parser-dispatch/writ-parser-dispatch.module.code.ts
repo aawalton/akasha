@@ -15,6 +15,15 @@ import {
 } from "akasha/temper/addon/crafting-addon/modules/writ-util/writ-util.module.code.ts"
 import { toWritFields } from "akasha/temper/addon/crafting-addon/modules/writ-writ-fields/writ-writ-fields.module.code.ts"
 import "akasha/temper/addon/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 
 type ParserFactory = (this: void) => Parser
 

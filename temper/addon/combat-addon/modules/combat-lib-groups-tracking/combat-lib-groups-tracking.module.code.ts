@@ -32,6 +32,11 @@ import {
   onTFSChanged,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
 import { onTrialDummy } from "akasha/temper/addon/combat-addon/modules/combat-lib-units/combat-lib-units.module.code.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-02/eso-enums-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 createEventGroup(
   "Effects",

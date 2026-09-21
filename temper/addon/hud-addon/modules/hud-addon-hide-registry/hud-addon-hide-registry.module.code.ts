@@ -21,6 +21,7 @@ import type {
   HideRegistration,
 } from "akasha/temper/addon/hud-addon/modules/hud-addon-hide-types/hud-addon-hide-types.module.code.ts"
 import { HUD_SCENE_CATALOG } from "akasha/temper/addon/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 export interface HideRegistry {
   register: (this: void, registration: HideRegistration) => undefined

@@ -35,6 +35,10 @@ import {
   setSelectedCompanionId,
 } from "akasha/temper/addon/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 export function registerCompanionEvents(): undefined {
   EVENT_MANAGER.RegisterForEvent(
     ADDON_NAME + "_CompanionActivated",

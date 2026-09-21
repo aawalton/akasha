@@ -24,6 +24,9 @@ import {
   countSlots,
   updateUnitStats,
 } from "akasha/temper/addon/combat-addon/modules/combat-unit-stats/combat-unit-stats.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function getStackData(instance: EffectInstance | undefined, stacks: number): EffectStackData {
   const stackData = instance !== undefined ? instance[stacks] : undefined

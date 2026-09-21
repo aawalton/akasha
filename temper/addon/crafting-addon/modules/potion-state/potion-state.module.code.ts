@@ -16,6 +16,13 @@ import type {
   Quest,
   Reagent,
 } from "akasha/temper/addon/crafting-addon/modules/potion-types/potion-types.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-alchemy-station/lib-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-main-menu/lib-main-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 type LibAlchemyStationSurface = LibAlchemyStationLib
 type LibMainMenu2Surface = typeof LibMainMenu2

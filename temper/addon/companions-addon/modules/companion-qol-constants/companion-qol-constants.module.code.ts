@@ -8,6 +8,7 @@ import type {
   AddonVars,
   CompanionInfo,
 } from "akasha/temper/addon/companions-addon/modules/companion-qol-types/companion-qol-types.module.code.ts"
+import "akasha/temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.d.ts"
 
 const ADDON_VARS: AddonVars = {
   addonVersion: 0.17,

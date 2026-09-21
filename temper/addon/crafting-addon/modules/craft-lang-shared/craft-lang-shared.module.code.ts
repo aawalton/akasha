@@ -1,3 +1,6 @@
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+
 export const LMB = "|t16:16:TemperCrafting/DDS/lmb.dds|t"
 export const RMB = "|t16:16:TemperCrafting/DDS/rmb.dds|t"
 export const MMB = "|t16:16:TemperCrafting/DDS/mmb.dds|t"

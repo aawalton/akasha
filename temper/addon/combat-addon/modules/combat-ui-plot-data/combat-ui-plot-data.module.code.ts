@@ -22,6 +22,9 @@ import {
   YAXIS_RIGHT,
 } from "akasha/temper/addon/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
 import { getFightData } from "akasha/temper/addon/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 type GraphData = Record<number, number | undefined>
 

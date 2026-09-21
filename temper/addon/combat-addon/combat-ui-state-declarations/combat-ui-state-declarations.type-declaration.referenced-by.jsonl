@@ -1,1 +1,11 @@
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-fight-list/combat-ui-fight-list.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-nav-select/combat-ui-nav-select.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-nav/combat-ui-nav.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-plot/combat-ui-plot.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-selection/combat-ui-selection.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-state-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

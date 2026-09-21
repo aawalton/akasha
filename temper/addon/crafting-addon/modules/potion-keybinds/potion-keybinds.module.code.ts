@@ -3,6 +3,15 @@ import { updateKeyStrip } from "akasha/temper/addon/crafting-addon/modules/potio
 import { getAccountSettings } from "akasha/temper/addon/crafting-addon/modules/potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "akasha/temper/addon/crafting-addon/modules/potion-state/potion-state.module.code.ts"
 import { showAnnoucement } from "akasha/temper/addon/crafting-addon/modules/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 
 interface KeybindButtonDescriptor {
   name: (this: void) => string

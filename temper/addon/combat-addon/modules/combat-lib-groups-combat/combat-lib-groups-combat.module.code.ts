@@ -42,6 +42,12 @@ import {
 import { getCurrentSkillBars } from "akasha/temper/addon/combat-addon/modules/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"
 import { setIsInPortalWorld } from "akasha/temper/addon/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 import { onGroupChange } from "akasha/temper/addon/combat-addon/modules/combat-lib-units/combat-lib-units.module.code.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-02/eso-enums-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const EVENT_ACTION_SLOT_ABILITY_SLOTTED_EFFECTIVE = EVENT_HOTBAR_SLOT_CHANGE_REQUESTED
 

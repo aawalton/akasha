@@ -65,6 +65,9 @@ import { toSet } from "akasha/temper/addon/crafting-addon/modules/crafting-helpe
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 import { runeShowMode } from "akasha/temper/addon/crafting-addon/modules/rune-mode/rune-mode.module.code.ts"
 import { runeView } from "akasha/temper/addon/crafting-addon/modules/rune-panel/rune-panel.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 interface TemperCraftingApi {
   Title: string

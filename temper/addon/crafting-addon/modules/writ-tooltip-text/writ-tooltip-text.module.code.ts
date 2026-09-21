@@ -15,6 +15,10 @@ import {
   decaret,
   toMoney,
 } from "akasha/temper/addon/crafting-addon/modules/writ-util/writ-util.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-writ-tooltip/eso-writ-tooltip.type-declaration.d.ts"
 
 export interface TooltipTarget<S = unknown> {
   AddLine: (this: TooltipTarget<S>, text: string, style?: S) => undefined

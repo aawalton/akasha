@@ -1,4 +1,8 @@
 import { STRINGS_2 } from "akasha/temper/addon/combat-addon/modules/combat-strings-table/combat-strings-table.module.code.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 
 const STRINGS_1: Record<string, string> = {
   SI_TEMPER_COMBAT_SEP_COLOR: "FFAAAAAA",

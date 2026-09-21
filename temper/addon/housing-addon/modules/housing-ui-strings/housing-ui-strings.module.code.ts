@@ -2,6 +2,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { HOUSES_SEED } from "akasha/temper/addon/housing-addon/modules/housing-house-names/housing-house-names.module.code.ts"
 import { portToFriend } from "akasha/temper/addon/housing-addon/modules/housing-state/housing-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const PORT_TO_FAVORITE_PREFIX = "Port to favorite #"
 const PORT_TO_FAVORITE_MY_HOUSE_INSIDE_PREFIX = "Port to my house #"

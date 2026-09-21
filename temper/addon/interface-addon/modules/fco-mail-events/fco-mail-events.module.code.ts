@@ -16,6 +16,12 @@ import {
 } from "akasha/temper/addon/interface-addon/modules/fco-mail-store/fco-mail-store.module.code.ts"
 import { STATE } from "akasha/temper/addon/interface-addon/modules/fco-state/fco-state.module.code.ts"
 import { throttledUpdate } from "akasha/temper/addon/interface-addon/modules/fco-utils/fco-utils.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const addonName = STATE.addonVars.addonName
 const addonPrefix = `[${addonName}]`

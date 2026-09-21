@@ -36,6 +36,10 @@ import type {
   SlotUpgrade,
   UpgradeScanResult,
 } from "akasha/temper/addon/companions-addon/modules/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 let APPLY_GENERATION = 0
 

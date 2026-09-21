@@ -1,3 +1,6 @@
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-inventory/eso-inventory.type-declaration.d.ts"
+
 export const ADDON_NAME = "TemperMasterWritInventoryMarker"
 export const ADDON_TITLE = "Master Writ Inventory Marker"
 

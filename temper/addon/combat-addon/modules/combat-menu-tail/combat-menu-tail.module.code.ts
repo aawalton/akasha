@@ -12,6 +12,11 @@ import {
   toggleLiveReport,
   updateLiveReport,
 } from "akasha/temper/addon/combat-addon/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function buildMenuOptionsTail(
   db: TemperCombatSettings,

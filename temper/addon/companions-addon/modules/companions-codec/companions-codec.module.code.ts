@@ -32,6 +32,8 @@ import {
   getWeaponTraitIndex,
   getWeaponTypeIndex,
 } from "akasha/temper/player/character/build/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 
 export const ARMOR_SLOTS = [
   EQUIP_SLOT_HEAD,

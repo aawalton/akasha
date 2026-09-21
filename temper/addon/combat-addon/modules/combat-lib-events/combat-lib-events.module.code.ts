@@ -21,6 +21,12 @@ import {
   EVENT_GROUP_ACTIVE,
   SLOT_SKILLS,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-02/eso-enums-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export type RegisteredEventCallback = (this: void, eventCode: number, ...args: never[]) => void
 

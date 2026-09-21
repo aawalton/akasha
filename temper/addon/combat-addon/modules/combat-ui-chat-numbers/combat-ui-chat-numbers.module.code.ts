@@ -6,6 +6,11 @@ import type {
 import type { UnitEntry } from "akasha/temper/addon/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
 import { LAST_FIGHTS } from "akasha/temper/addon/combat-addon/modules/combat-selection/combat-selection.module.code.ts"
 import { optionalNumberValue } from "akasha/temper/addon/combat-addon/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export type ChatReportData = (CurrentData & { units: Record<number, UnitEntry> }) | CmxFight
 

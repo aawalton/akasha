@@ -3,6 +3,7 @@ import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.
 
 import { createCommandRegistry } from "akasha/temper/addon/hud-addon/modules/hud-addon-command-registry/hud-addon-command-registry.module.code.ts"
 import type { TemperCommand } from "akasha/temper/addon/hud-addon/modules/hud-addon-types/hud-addon-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const registry = createCommandRegistry()
 

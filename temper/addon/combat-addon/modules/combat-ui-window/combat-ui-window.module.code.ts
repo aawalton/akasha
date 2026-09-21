@@ -17,6 +17,14 @@ import {
   UNCOLLAPSED_BUFFS,
   type UpdatableControl,
 } from "akasha/temper/addon/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import "akasha/temper/addon/combat-addon/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-ui-state-declarations/combat-ui-state-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function toggleFightReport(this: void): undefined {
   const db = getDb()

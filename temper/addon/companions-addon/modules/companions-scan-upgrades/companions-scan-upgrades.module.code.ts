@@ -25,6 +25,8 @@ import {
   getQualityFromIndex,
   getWeaponTraitFromIndex,
 } from "akasha/temper/addon/companions-addon/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
 export interface SlotUpgrade {
   bagSlot: number

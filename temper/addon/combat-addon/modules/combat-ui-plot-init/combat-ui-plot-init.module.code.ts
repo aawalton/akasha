@@ -35,6 +35,15 @@ import {
   PLOT_FUNCTIONS,
 } from "akasha/temper/addon/combat-addon/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"
 import { editLabelStart } from "akasha/temper/addon/combat-addon/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-controls-panels/combat-controls-panels.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 const PLOT_DEFAULT_FUNCTION: Record<
   number,

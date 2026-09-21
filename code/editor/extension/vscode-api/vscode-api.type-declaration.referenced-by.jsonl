@@ -1,3 +1,17 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build-deploy-check/modules/addon-hook-eager-capture/addon-hook-eager-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/build-deploy-check/modules/addon-sandbox-load/addon-sandbox-load.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-chat-numbers/combat-ui-chat-numbers.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-main-menu/potion-main-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-state/potion-state.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-log/writ-log.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-traceback/errors-addon-traceback.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-comboboxes/housing-comboboxes.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-dropdowns/housing-dropdowns.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-favorites-render/housing-favorites-render.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-holder-types/housing-holder-types.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-library-tab/housing-library-tab.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/hud-addon/modules/hud-addon-command-registry/hud-addon-command-registry.module.code.ts"}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

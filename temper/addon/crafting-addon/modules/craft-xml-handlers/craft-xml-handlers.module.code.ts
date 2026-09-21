@@ -5,6 +5,10 @@ import { runeSetValue } from "akasha/temper/addon/crafting-addon/modules/craft-r
 import { controlShow } from "akasha/temper/addon/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 import { runeShowMode } from "akasha/temper/addon/crafting-addon/modules/rune-mode/rune-mode.module.code.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 
 export type CoordKey = "style" | "recipe" | "blueprint" | "rune" | "cook" | "overview"
 export type AnchorKey = "button" | "questbox" | "position"

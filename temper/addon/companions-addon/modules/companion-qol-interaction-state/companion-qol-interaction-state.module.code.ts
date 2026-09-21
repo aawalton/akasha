@@ -12,6 +12,7 @@ import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { asNumber } from "akasha/temper/addon/companions-addon/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
 import { FCOCO } from "akasha/temper/addon/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 export const INTERACTIONS: {
   companionWasSummonedBefore: boolean

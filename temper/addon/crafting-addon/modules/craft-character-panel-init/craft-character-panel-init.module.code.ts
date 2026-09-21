@@ -4,6 +4,10 @@ import * as Options from "akasha/temper/addon/crafting-addon/modules/craft-optio
 import type { CsTooltipOwner } from "akasha/temper/addon/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/addon/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const trackingFlag = (tracking: Record<string, boolean>, char: string): boolean => {
   const current = tracking[char]

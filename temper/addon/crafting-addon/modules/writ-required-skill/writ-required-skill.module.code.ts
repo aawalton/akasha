@@ -9,6 +9,12 @@ import type { Know } from "akasha/temper/addon/crafting-addon/modules/writ-types
 import { KNOW } from "akasha/temper/addon/crafting-addon/modules/writ-types/writ-types.module.code.ts"
 import { decaret } from "akasha/temper/addon/crafting-addon/modules/writ-util/writ-util.module.code.ts"
 import "akasha/temper/addon/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 interface SkillIndexRow {
   id: number

@@ -4,6 +4,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { FCOCO } from "akasha/temper/addon/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function registerUiStrings(this: void): undefined {
   const companionStr = GetString(SI_UNIT_FRAME_NAME_COMPANION)

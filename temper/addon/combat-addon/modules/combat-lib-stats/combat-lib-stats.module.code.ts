@@ -26,6 +26,13 @@ import {
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 import { getShadowBonus } from "akasha/temper/addon/combat-addon/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
 import type { Fight } from "akasha/temper/addon/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function getStat(stat: number | undefined): number {
   if (stat === undefined) {

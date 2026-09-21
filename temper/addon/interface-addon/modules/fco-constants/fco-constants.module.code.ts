@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"
+
 export const ADDON_NAME = "TemperFCOChangeStuff"
 
 export const SAVED_VARIABLES_NAME = "TemperFCOChangeStuff_SavedVariables"

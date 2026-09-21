@@ -12,6 +12,9 @@ import {
   clearResultList,
   showFilterPage,
 } from "akasha/temper/addon/crafting-addon/modules/potion-window-helpers/potion-window-helpers.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 interface HideShowControlView {
   Hide: (this: HideShowControlView) => undefined

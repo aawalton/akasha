@@ -6,6 +6,7 @@ import type {
   Favorite,
   PlayerSettings,
 } from "akasha/temper/addon/crafting-addon/modules/potion-types/potion-types.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 let playerSettings: PlayerSettings | undefined
 let accountSettings: AccountSettings | undefined

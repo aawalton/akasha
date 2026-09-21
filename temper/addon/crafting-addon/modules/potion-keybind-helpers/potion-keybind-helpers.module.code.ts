@@ -1,4 +1,8 @@
 import { PotMaker } from "akasha/temper/addon/crafting-addon/modules/potion-state/potion-state.module.code.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 type KeybindDescriptorArray = KeybindButtonGroupDescriptor[]
 function asKeybindDescriptorArray(value: unknown): KeybindDescriptorArray {

@@ -7,6 +7,7 @@ import {
   postToChat,
 } from "akasha/temper/addon/combat-addon/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"
 import { toggleReport } from "akasha/temper/addon/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function slashCommandFunction(this: void, extra: string): undefined {
   if (extra === "reset") {

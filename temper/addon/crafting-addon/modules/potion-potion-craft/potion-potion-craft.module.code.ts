@@ -2,6 +2,14 @@ import { getPlayerSettings } from "akasha/temper/addon/crafting-addon/modules/po
 import { PotMaker } from "akasha/temper/addon/crafting-addon/modules/potion-state/potion-state.module.code.ts"
 import { isThirdAlchemySlotUnlocked } from "akasha/temper/addon/crafting-addon/modules/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"
 import type { Potion } from "akasha/temper/addon/crafting-addon/modules/potion-types/potion-types.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-03/eso-enums-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-filters/eso-world-map-filters.type-declaration.d.ts"
 
 function swapSound(
   this: void,

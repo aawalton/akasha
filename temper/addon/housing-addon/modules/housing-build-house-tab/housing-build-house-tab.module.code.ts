@@ -14,6 +14,9 @@ import {
   nilName,
 } from "akasha/temper/addon/housing-addon/modules/housing-build-casts/housing-build-casts.module.code.ts"
 import { portToFriend } from "akasha/temper/addon/housing-addon/modules/housing-state/housing-state.module.code.ts"
+import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function buildHouseTab(this: void): undefined {
   const c = controlsTree(portToFriend.controls)

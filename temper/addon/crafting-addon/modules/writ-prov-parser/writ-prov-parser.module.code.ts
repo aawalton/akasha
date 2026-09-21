@@ -16,6 +16,9 @@ import type {
 } from "akasha/temper/addon/crafting-addon/modules/writ-types/writ-types.module.code.ts"
 import { KNOW } from "akasha/temper/addon/crafting-addon/modules/writ-types/writ-types.module.code.ts"
 import { toWritFields } from "akasha/temper/addon/crafting-addon/modules/writ-writ-fields/writ-writ-fields.module.code.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 
 interface ProvisioningParser extends Parser {
   recipe: Recipe | undefined

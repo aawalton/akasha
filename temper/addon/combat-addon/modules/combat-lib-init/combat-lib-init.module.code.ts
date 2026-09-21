@@ -12,6 +12,13 @@ import {
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-state/combat-lib-state.module.code.ts"
 import { initAdvancedStats } from "akasha/temper/addon/combat-addon/modules/combat-lib-stats/combat-lib-stats.module.code.ts"
 import { initStatusEffectBonuses } from "akasha/temper/addon/combat-addon/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 
 export function initializeLibCombat(): undefined {
   DATA.inCombat = IsUnitInCombat("player")

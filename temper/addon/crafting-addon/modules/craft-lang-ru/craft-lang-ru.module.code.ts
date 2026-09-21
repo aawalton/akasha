@@ -6,6 +6,7 @@ import {
   ornate,
   RMB,
 } from "akasha/temper/addon/crafting-addon/modules/craft-lang-shared/craft-lang-shared.module.code.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 
 export const RU: LangTable = {
   options: {

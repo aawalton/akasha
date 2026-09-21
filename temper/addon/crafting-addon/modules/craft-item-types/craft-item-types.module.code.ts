@@ -1,3 +1,6 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+
 const RAW_ITEM_TYPE_LIST: number[] = [
   ITEMTYPE_BLACKSMITHING_RAW_MATERIAL,
   ITEMTYPE_CLOTHIER_RAW_MATERIAL,

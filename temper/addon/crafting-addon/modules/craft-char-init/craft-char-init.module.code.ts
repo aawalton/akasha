@@ -1,3 +1,7 @@
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+
 export interface CharacterData {
   income: Record<number, number>
   favorites: Record<number, Record<string, Record<number, number> | undefined>>

@@ -22,6 +22,8 @@ import { initData } from "akasha/temper/addon/events-addon/modules/next-boss-dat
 import { setupBroadcast } from "akasha/temper/addon/events-addon/modules/next-boss-events/next-boss-events.module.code.ts"
 import { initUi } from "akasha/temper/addon/events-addon/modules/next-boss-gui/next-boss-gui.module.code.ts"
 import { ICT } from "akasha/temper/addon/events-addon/modules/next-boss-state/next-boss-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/events-addon/next-boss-declarations/next-boss-declarations.type-declaration.d.ts"
 
 export function initNextBoss(this: void): undefined {
   initData()

@@ -5,6 +5,7 @@ import type {
   UnitCache,
   UnitEntry,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export type CombatEventCallback = (this: void, eventId: number, ...args: never[]) => void
 

@@ -1,3 +1,7 @@
+import "akasha/temper/addon/library-type/lib-alchemy-station/lib-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-slash-commander/lib-slash-commander.type-declaration.d.ts"
+
 interface CraftLibraryTable {
   LibAsync: LibAsyncLib
   LibAlchemyStation: LibAlchemyStationLib

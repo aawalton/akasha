@@ -1,3 +1,6 @@
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+
 export function asBoolean(value: unknown): boolean {
   return value as boolean
 }

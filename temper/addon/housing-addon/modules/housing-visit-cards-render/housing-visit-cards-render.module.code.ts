@@ -11,6 +11,7 @@ import {
   asVcControls,
   asVcEntryButton,
 } from "akasha/temper/addon/housing-addon/modules/housing-visit-cards-view/housing-visit-cards-view.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 const wm = WINDOW_MANAGER
 

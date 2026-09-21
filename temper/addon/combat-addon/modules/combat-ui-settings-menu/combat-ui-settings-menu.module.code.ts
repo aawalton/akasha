@@ -24,6 +24,15 @@ import {
   getSelections,
 } from "akasha/temper/addon/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import { updateReport } from "akasha/temper/addon/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-string-ids-menus/combat-string-ids-menus.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 function toggleShowIds(this: void): undefined {
   const db = getDb()

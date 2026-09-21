@@ -2,6 +2,17 @@ import { TRAIT_EFFECT } from "akasha/temper/addon/crafting-addon/modules/potion-
 import { buildReagentsById } from "akasha/temper/addon/crafting-addon/modules/potion-reagent-data/potion-reagent-data.module.code.ts"
 import { getAccountSettings } from "akasha/temper/addon/crafting-addon/modules/potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "akasha/temper/addon/crafting-addon/modules/potion-state/potion-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/fcois/fcois.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 function asSaveResult(this: void, value: unknown): LuaMultiReturn<[boolean, string | undefined]> {
   return value as LuaMultiReturn<[boolean, string | undefined]>

@@ -1,4 +1,7 @@
 import { SHOW_TRAIT_HIDDEN_COLUMNS } from "akasha/temper/addon/crafting-addon/modules/writ-mark-constants/writ-mark-constants.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 
 export function safeGetTabFilterInfo(
   this: void,

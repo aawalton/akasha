@@ -2,6 +2,8 @@ import { findLink } from "akasha/temper/addon/crafting-addon/modules/writ-link-d
 import { FALLBACK_PRICE as FALLBACK_PRICE_STATIC } from "akasha/temper/addon/crafting-addon/modules/writ-price-data-table/writ-price-data-table.module.code.ts"
 import { toWritFields } from "akasha/temper/addon/crafting-addon/modules/writ-writ-fields/writ-writ-fields.module.code.ts"
 import "akasha/temper/addon/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
 
 const FALLBACK_PRICE: Record<string | number, number | boolean> = {}
 for (const [name, price] of pairs(FALLBACK_PRICE_STATIC)) {

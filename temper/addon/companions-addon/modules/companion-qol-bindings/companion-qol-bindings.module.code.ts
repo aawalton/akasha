@@ -9,6 +9,8 @@ import {
   asRecord,
 } from "akasha/temper/addon/companions-addon/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
 import { FCOCO } from "akasha/temper/addon/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.d.ts"
 
 export function registerBindingStringIds(this: void): undefined {
   if (!FCOCO.isCompanionUnlocked) {

@@ -10,6 +10,7 @@ import {
   TRAIT_NAMES,
   WEAPON_TYPE_NAMES,
 } from "akasha/temper/addon/companions-addon/modules/companions-display-names/companions-display-names.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 export function formatArmorSlot(slot: number): string {
   const itemLink = GetItemLink(BAG_COMPANION_WORN, slot, LINK_STYLE_DEFAULT)
   if (itemLink === "") return "Empty"

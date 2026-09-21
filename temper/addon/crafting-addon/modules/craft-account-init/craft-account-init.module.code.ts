@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
 export interface AccountPlayerEntry {
   race: number
   class: number

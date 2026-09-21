@@ -1,2 +1,10 @@
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-research/craft-research.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-rune-refining/craft-rune-refining.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-events/crafting-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-inventory/potion-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-gui/next-boss-gui.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-inventory/fco-inventory.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

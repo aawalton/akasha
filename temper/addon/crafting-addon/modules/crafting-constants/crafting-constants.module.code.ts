@@ -1,3 +1,6 @@
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+
 export const ADDON_NAME = "TemperCrafting"
 
 export const MAXCRAFT = 999

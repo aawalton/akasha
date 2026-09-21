@@ -5,6 +5,11 @@ import { FOODDRINK_TO_RECIPE_ITEM_ID } from "akasha/temper/addon/crafting-addon/
 import type { MatList } from "akasha/temper/addon/crafting-addon/modules/writ-types/writ-types.module.code.ts"
 import { fail } from "akasha/temper/addon/crafting-addon/modules/writ-util/writ-util.module.code.ts"
 import "akasha/temper/addon/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 export interface Recipe {
   class: string

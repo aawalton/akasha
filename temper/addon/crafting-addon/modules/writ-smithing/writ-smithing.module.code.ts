@@ -4,6 +4,14 @@ import type { SmithingParser } from "akasha/temper/addon/crafting-addon/modules/
 import { smithingInit } from "akasha/temper/addon/crafting-addon/modules/writ-smith-schema/writ-smith-schema.module.code.ts"
 import type { School } from "akasha/temper/addon/crafting-addon/modules/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
 import "akasha/temper/addon/crafting-addon/modules/writ-public-api/writ-public-api.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 interface MotifEntry {
   pages_id?: number

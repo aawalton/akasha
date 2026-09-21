@@ -1,4 +1,5 @@
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function migrateStudiesShape(): undefined {
   const studies = STATE.Account.crafting.studies

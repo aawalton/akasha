@@ -1,4 +1,5 @@
 import type { ControlFields } from "akasha/temper/addon/crafting-addon/modules/potion-types/potion-types.module.code.ts"
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 type ControlWithFields = Control & ControlFields
 

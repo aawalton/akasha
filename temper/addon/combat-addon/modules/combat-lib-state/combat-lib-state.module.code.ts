@@ -7,6 +7,7 @@ import type {
   Fight,
   LibCombatData,
 } from "akasha/temper/addon/combat-addon/modules/combat-lib-types/combat-lib-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export const DATA: LibCombatData = {
   skillBars: {},

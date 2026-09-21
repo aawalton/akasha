@@ -1,5 +1,7 @@
 import { createBindings } from "akasha/temper/addon/interface-addon/modules/assistant-bindings/assistant-bindings.module.code.ts"
 import { ASSISTANT_COLLECTIBLES } from "akasha/temper/addon/interface-addon/modules/assistant-collectibles/assistant-collectibles.module.code.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 const ADDON_NAME = "TemperPersonalAssistant"
 

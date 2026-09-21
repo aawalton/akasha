@@ -8,6 +8,9 @@ import type {
   School,
   TraitSet,
 } from "akasha/temper/addon/crafting-addon/modules/writ-smith-schema-types/writ-smith-schema-types.module.code.ts"
+import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 
 const JEWELRY_CRAFTING_TYPE = CRAFTING_TYPE_JEWELRYCRAFTING
 

@@ -1,3 +1,5 @@
+import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
+
 export type GlobalTable = Record<string, unknown>
 
 export type MaybeControl = Control | undefined
