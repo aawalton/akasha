@@ -16,6 +16,7 @@
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"effect-status","propertySlug":"status","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"effect-target","propertySlug":"target","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"email-rule-matches","propertySlug":"matches","fileName":null,"folderName":null}
+{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"entity-traits","propertySlug":"traits","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"external-identity","propertySlug":"external-identity","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"feature-request-backing","propertySlug":"backing","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"follows","propertySlug":"follows","fileName":null,"folderName":null}

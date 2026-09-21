@@ -3375,6 +3375,7 @@
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-game.relation-property.ts","id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-kind.text-property.ts","id":"01a0c632-9753-7529-a95f-ebc4de76b7df"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-level.number-property.ts","id":"01a0c633-ff8f-783d-ba86-1f1ce92d4b42"}
+{"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-traits.record-property.ts","id":"01a0c637-533c-7d20-91d2-bcd683e32b4e"}
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}
