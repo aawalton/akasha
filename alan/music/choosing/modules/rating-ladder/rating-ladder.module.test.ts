@@ -1,18 +1,18 @@
 import { describe, expect, test } from "bun:test"
 import {
   isLiked,
-  LIKED_RATINGS,
+  LIKED_GRADES,
 } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
 
-describe("LIKED_RATINGS", () => {
+describe("LIKED_GRADES", () => {
   test("holds B- and every grade above it", () => {
     const liked: Grade[] = ["B-", "B", "B+", "A-", "A", "A+", "S-", "S", "S+"]
-    expect([...LIKED_RATINGS].sort()).toEqual(liked.sort())
+    expect([...LIKED_GRADES].sort()).toEqual(liked.sort())
   })
 
   test("holds nine of the sixteen grades", () => {
-    expect(LIKED_RATINGS.size).toBe(9)
+    expect(LIKED_GRADES.size).toBe(9)
   })
 })
 
