@@ -7,5 +7,5 @@ export const requests = {
   title: "Requests",
   icon: "Lightbulb",
   navPlace: 14,
-  appSlug: "alanwalton",
+  appSlug: "requests",
 } as const satisfies Nav
