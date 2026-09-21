@@ -46,5 +46,6 @@ export const astraLandingReadsOnlyWhatChanged = {
     "A file already carrying what would be written again is left alone: `keepDelta`, `reconcile` and `wholeInto` each compare before writing, and the profile bears that out.",
     "The checks are most of what an apply spends, so a check reading the whole tree to judge one file is the thing to find.",
     "A landing is measured from the rows beside the apply page rather than from a clock an agent reads.",
+    "Nothing the typecheck a change runs reads or names scales with the repository rather than with the files that change names.",
   ],
 } as const satisfies Initiative
