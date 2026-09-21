@@ -10,6 +10,17 @@ export const GATHERED: Bounded = {
   page: BURNS_AT,
 }
 
+export const SLOWER = "node-05"
+
+export const SPENT_ON_THE_SLOWER_NODE: readonly (readonly [string, number, number])[] = [
+  ["lint-clean", 573.314, 420],
+  ["typecheck", 373.865, 300],
+  ["no-unused-exports", 132.132, 120],
+  ["page-matches-its-type", 65.027, 60],
+  ["no-page-address-spelled", 33.719, 30],
+  ["no-class", 15.424, 15],
+]
+
 export function costing(own: number, child: number): Cost {
   return {
     runId: "one",

@@ -23,6 +23,15 @@ export const runCeiling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A ceiling is weighed only against a run on the node that ceiling's seconds were measured on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run naming no node is weighed against its ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A group stating no ceiling answers nothing however long its run took.",
     },
     {
