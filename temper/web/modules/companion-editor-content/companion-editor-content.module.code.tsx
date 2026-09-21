@@ -21,7 +21,6 @@ import type { CompanionState } from "akasha/temper/companions-core/modules/compa
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { extractCompanionMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
-import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
   useCompanionLifecycle,
   useCompanionList,
@@ -45,6 +44,7 @@ import {
 import { useCompanionPartnerBuildUrl } from "akasha/temper/web/modules/use-companion-partner-build-url/use-companion-partner-build-url.module.code.ts"
 import { useCompanionSetTarget } from "akasha/temper/web/modules/use-companion-set-target/use-companion-set-target.module.code.ts"
 import { useCompanionUpdate } from "akasha/temper/web/modules/use-companion-update/use-companion-update.module.code.ts"
+import { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"

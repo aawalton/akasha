@@ -16,7 +16,7 @@ import {
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
-} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
+} from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 
 interface OverallSummaryPanelCardProps {
   accountSummary: AccountSummaryData

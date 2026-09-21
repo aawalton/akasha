@@ -1362,12 +1362,7 @@
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-shalidor-locations-18/lorebooks-shalidor-locations-18.module.ts","id":"01a06181-3843-77d5-8ed3-8892b3a40b9c"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.ts","id":"01a06184-3d7c-7388-9f04-084ca5cea38a"}
 {"propertySlug":"decision-kind","path":"temper/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
-{"propertySlug":"decision-kind","path":"temper/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.ts","id":"01a06270-883d-7000-98b7-a23674b65603"}
-{"propertySlug":"decision-kind","path":"temper/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.ts","id":"01a06270-883d-7001-a3e2-19a44697e51c"}
 {"propertySlug":"decision-kind","path":"temper/player-completion-state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
-{"propertySlug":"decision-kind","path":"temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.ts","id":"01a06267-372c-7002-bf32-c613086380b1"}
-{"propertySlug":"decision-kind","path":"temper/player-completion-ui/modules/use-completion/use-completion.module.ts","id":"01a06363-f687-70fb-8023-b311dc463a1b"}
-{"propertySlug":"decision-kind","path":"temper/player-completion-ui/temper-player-completion-ui.domain.ts","id":"01a06267-372c-7003-8a9e-15b2f42d8750"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/activity-categories/activity-categories.module.ts","id":"01a06108-2fe7-758c-947c-5275babdadb5"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.ts","id":"01a06108-2fe9-7e94-a80a-0620a87e49b2"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/companion-quest-data/companion-quest-data.module.ts","id":"01a06121-f0ce-7862-9eb6-795c99701a24"}
@@ -1418,6 +1413,11 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-bodies/use-completion-bodies.module.ts","id":"01a076b9-598a-7c82-b905-b629a56a823f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.ts","id":"01a06421-f74b-780d-8790-490781880039"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}
+{"propertySlug":"decision-kind","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.ts","id":"01a06270-883d-7000-98b7-a23674b65603"}
+{"propertySlug":"decision-kind","path":"temper/web/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.ts","id":"01a06270-883d-7001-a3e2-19a44697e51c"}
+{"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.ts","id":"01a06267-372c-7002-bf32-c613086380b1"}
+{"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.ts","id":"01a06363-f687-70fb-8023-b311dc463a1b"}
+{"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/temper-player-completion-ui.domain.ts","id":"01a06267-372c-7003-8a9e-15b2f42d8750"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-ask/api-ask.route.ts","id":"01a082a0-4e24-772e-9707-d1ad4af1da6b"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-page-types/api-page-types.route.ts","id":"01a082a1-3e0e-70ae-b0f8-e98da5841a11"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-page-write/api-page-write.route.ts","id":"01a082a1-9eab-776d-b29b-3c1448c8d5fa"}

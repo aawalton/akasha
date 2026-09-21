@@ -6,6 +6,7 @@ import {
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -13,8 +14,7 @@ import {
   type CompletionSortMode,
   createNodeFilter,
   withActivityCategories,
-} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
-import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
+} from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 
 const MAX_VARIANT_RANK = 4
 

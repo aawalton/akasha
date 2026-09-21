@@ -29,12 +29,6 @@ import {
   isCharacterMeasured,
   isCompanionMeasured,
 } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
-import { CompletionActivityModeContext } from "akasha/temper/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
-import type {
-  CompletionFilter,
-  CompletionSortMode,
-} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
-import { CompletionSearchContext } from "akasha/temper/player-completion-ui/modules/completion-search-context/completion-search-context.module.code.tsx"
 import { CompletionAccountTab } from "akasha/temper/web/modules/completion-account-tab/completion-account-tab.module.code.tsx"
 import { CompletionCharactersTab } from "akasha/temper/web/modules/completion-characters-tab/completion-characters-tab.module.code.tsx"
 import { CompletionCompanionsTab } from "akasha/temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx"
@@ -54,6 +48,12 @@ import {
 } from "akasha/temper/web/modules/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 import { useCompletionFilters } from "akasha/temper/web/modules/use-completion-filters/use-completion-filters.module.code.ts"
 import { useCompletionProgress } from "akasha/temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts"
+import { CompletionActivityModeContext } from "akasha/temper/web/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
+import type {
+  CompletionFilter,
+  CompletionSortMode,
+} from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
+import { CompletionSearchContext } from "akasha/temper/web/player-completion-ui/modules/completion-search-context/completion-search-context.module.code.tsx"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 

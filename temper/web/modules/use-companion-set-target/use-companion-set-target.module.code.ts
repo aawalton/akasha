@@ -14,12 +14,12 @@ import {
   extractCompanionMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
-import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
   useCompanionLifecycle,
   useCompanionList,
 } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
+import { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useMemo, useState, useTransition } from "react"
 
 interface UseCompanionSetTargetArgs {

@@ -11,11 +11,11 @@ import {
   type CompanionBuildMetadata,
   extractCompanionMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
-import type { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
   type useAllCompanionList,
   useCompanionLifecycle,
 } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
+import type { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useCallback, useState, useTransition } from "react"
 
 interface UsePlanSetTargetArgs {

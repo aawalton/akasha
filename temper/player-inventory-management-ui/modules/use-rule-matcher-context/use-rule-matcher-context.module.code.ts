@@ -8,12 +8,12 @@ import {
   buildDerivedContext,
   mergeInventoryContext,
 } from "akasha/temper/items-rules-matcher/modules/rule-matcher-context/rule-matcher-context.module.code.ts"
+import { useCharacterList } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
+import { useCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import {
   useCompletionCharacters,
   useCompletionCompanions,
-} from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
-import { useCharacterList } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
-import { useCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
+} from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useMemo } from "react"
 
 export function useRuleMatcherContext(

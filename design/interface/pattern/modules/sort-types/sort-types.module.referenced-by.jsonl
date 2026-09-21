@@ -4,9 +4,6 @@
 {"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"design/interface/system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"page/ui/component/modules/group-by-picker/group-by-picker.module.code.tsx"}
 {"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"page/ui/component/modules/view-settings-options/view-settings-options.module.code.ts"}
-{"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/player-inventory-management-ui/modules/inventory-filter-bar/inventory-filter-bar.module.code.tsx"}
 {"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"}
@@ -76,4 +73,7 @@
 {"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/web/modules/use-completion-filters/use-completion-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/web/modules/zone-completion-progress-panel-card/zone-completion-progress-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"sort-types.module.code.ts","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"}
 {"propertySlug":"parts","path":"design/interface/pattern/design-interface-pattern.domain.ts","id":"01a05c51-8287-7dba-82e4-64786876e805"}

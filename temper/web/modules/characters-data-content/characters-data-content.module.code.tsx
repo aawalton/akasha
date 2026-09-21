@@ -28,7 +28,6 @@ import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { applyCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
-import { useCompletionCharactersByUser } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
   useAllCharacterList,
   useCharacterLifecycle,
@@ -49,6 +48,7 @@ import {
   PlanTab,
   usePlanEntities,
 } from "akasha/temper/web/modules/plan-tab/plan-tab.module.code.tsx"
+import { useCompletionCharactersByUser } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
 

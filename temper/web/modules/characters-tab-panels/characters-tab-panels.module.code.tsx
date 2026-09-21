@@ -2,11 +2,6 @@ import { ResponsiveColumns } from "akasha/design/interface/layout/modules/respon
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import { SkillMorphsProgressPanelCard } from "akasha/temper/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"
-import type {
-  CompletionFilter,
-  CompletionSortMode,
-} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { AllianceRankPanelCard } from "akasha/temper/web/modules/alliance-rank-panel-card/alliance-rank-panel-card.module.code.tsx"
 import { CadwellProgressPanelCard } from "akasha/temper/web/modules/cadwell-progress-panel-card/cadwell-progress-panel-card.module.code.tsx"
 import { CharacterAchievementsPanelCard } from "akasha/temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.code.tsx"
@@ -26,6 +21,11 @@ import { SkillLinesProgressPanelCard } from "akasha/temper/web/modules/skill-lin
 import { SkillPointsProgressPanelCard } from "akasha/temper/web/modules/skill-points-progress-panel-card/skill-points-progress-panel-card.module.code.tsx"
 import { TraitResearchProgressPanelCard } from "akasha/temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.code.tsx"
 import { ZoneCompletionProgressPanelCard } from "akasha/temper/web/modules/zone-completion-progress-panel-card/zone-completion-progress-panel-card.module.code.tsx"
+import { SkillMorphsProgressPanelCard } from "akasha/temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"
+import type {
+  CompletionFilter,
+  CompletionSortMode,
+} from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 
 interface CharactersTabPanelsProps {
   characterProgress: CharacterProgressData

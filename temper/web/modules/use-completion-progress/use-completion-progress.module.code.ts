@@ -12,14 +12,6 @@ import type {
 } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { composeCompletionCategoryTree } from "akasha/temper/player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
 import type { CompletionCategoryTree } from "akasha/temper/player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
-import {
-  useAccountCompletion,
-  useAccountCompletionByUser,
-  useCompletionCharacters,
-  useCompletionCharactersByUser,
-  useCompletionCompanions,
-  useCompletionCompanionsByUser,
-} from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import type { AccountProgressData } from "akasha/temper/web/modules/account-progress/account-progress.module.code.ts"
 import { useAccountProgress } from "akasha/temper/web/modules/account-progress/account-progress.module.code.ts"
 import type { CharacterProgressData } from "akasha/temper/web/modules/character-progress/character-progress.module.code.ts"
@@ -28,6 +20,14 @@ import type { CompanionProgressData } from "akasha/temper/web/modules/companion-
 import { useCompanionProgress } from "akasha/temper/web/modules/companion-progress/companion-progress.module.code.ts"
 import { useCompletionBodies } from "akasha/temper/web/modules/use-completion-bodies/use-completion-bodies.module.code.ts"
 import { useCompletionCatalogs } from "akasha/temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.code.ts"
+import {
+  useAccountCompletion,
+  useAccountCompletionByUser,
+  useCompletionCharacters,
+  useCompletionCharactersByUser,
+  useCompletionCompanions,
+  useCompletionCompanionsByUser,
+} from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useMemo } from "react"
 
 const CHARACTER_TYPE = "temper-account-character"

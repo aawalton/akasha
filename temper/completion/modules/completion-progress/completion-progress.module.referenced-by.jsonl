@@ -17,7 +17,6 @@
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/completion/modules/completion-record/completion-record.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.test.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"}
@@ -64,4 +63,5 @@
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/web/modules/grand-master-stations-panel-card/grand-master-stations-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/web/modules/use-temper-import/use-temper-import.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"}
 {"propertySlug":"parts","path":"temper/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}

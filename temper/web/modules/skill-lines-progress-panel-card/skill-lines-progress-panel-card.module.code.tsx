@@ -15,17 +15,17 @@ import type {
   SkillLineProgressEntry,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import {
+  EXCLUDED_CATEGORIES,
+  EXCLUDED_SKILL_LINES,
+} from "akasha/temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
+import {
   type CompletionFilter,
   type CompletionNode,
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
   withActivityCategories,
-} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
-import {
-  EXCLUDED_CATEGORIES,
-  EXCLUDED_SKILL_LINES,
-} from "akasha/temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
+} from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 
 interface SkillLinesProgressPanelCardProps {
   id?: CharacterCardId

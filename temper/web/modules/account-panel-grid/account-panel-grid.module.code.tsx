@@ -3,11 +3,6 @@ import { scrollToCard } from "akasha/design/interface/layout/modules/scroll-to-c
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import { SubclassingSkillMorphsPanelCard } from "akasha/temper/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"
-import type {
-  CompletionFilter,
-  CompletionSortMode,
-} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { AccountAchievementsPanelCard } from "akasha/temper/web/modules/account-achievements-panel-card/account-achievements-panel-card.module.code.tsx"
 import { AccountCollectiblesPanelCard } from "akasha/temper/web/modules/account-collectibles-panel-card/account-collectibles-panel-card.module.code.tsx"
 import { AccountPoiPanelCard } from "akasha/temper/web/modules/account-poi-panel-card/account-poi-panel-card.module.code.tsx"
@@ -26,6 +21,11 @@ import { GrandMasterStationsPanelCard } from "akasha/temper/web/modules/grand-ma
 import { ItemSetsProgressPanelCard } from "akasha/temper/web/modules/item-sets-progress-panel-card/item-sets-progress-panel-card.module.code.tsx"
 import { LoreLibraryPanelCard } from "akasha/temper/web/modules/lore-library-panel-card/lore-library-panel-card.module.code.tsx"
 import { SubclassingSkillLinesPanelCard } from "akasha/temper/web/modules/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.code.tsx"
+import { SubclassingSkillMorphsPanelCard } from "akasha/temper/web/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"
+import type {
+  CompletionFilter,
+  CompletionSortMode,
+} from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 
 interface AccountPanelGridProps {
   accountSummary: AccountSummaryData

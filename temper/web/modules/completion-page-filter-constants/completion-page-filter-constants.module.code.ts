@@ -1,7 +1,7 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { SortOption } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { ACTIVITY_CATEGORIES } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import type { CompletionSortMode } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
+import type { CompletionSortMode } from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 
 export const VALID_TABS = new Set(["summary", "account", "characters", "companions"])
 export const VALID_STATUSES = new Set(["not-started", "in-progress", "done"])

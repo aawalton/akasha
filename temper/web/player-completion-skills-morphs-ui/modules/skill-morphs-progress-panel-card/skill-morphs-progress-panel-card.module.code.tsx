@@ -10,6 +10,11 @@ import { classes } from "akasha/temper/modules/character-class/character-class.m
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import type { CompletionCharacter } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import type {
+  CharacterSkillMorphProgress,
+  MorphableSkillDetail,
+} from "akasha/temper/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
+import { morphableSkillLineIds } from "akasha/temper/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -17,12 +22,7 @@ import {
   type CompletionSortMode,
   createNodeFilter,
   withActivityCategories,
-} from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
-import type {
-  CharacterSkillMorphProgress,
-  MorphableSkillDetail,
-} from "akasha/temper/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
-import { morphableSkillLineIds } from "akasha/temper/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
+} from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 
 interface SkillMorphsProgressPanelCardProps {
   id?: CharacterCardId

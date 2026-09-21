@@ -17,7 +17,6 @@ import { characterUrl } from "akasha/temper/build-support/modules/build-url/buil
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
-import { useCompletionCharacters } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
   useCharacterLifecycle,
   useCharacterList,
@@ -45,6 +44,7 @@ import {
 } from "akasha/temper/web/modules/use-passive-filter/use-passive-filter.module.code.ts"
 import { useSetTargetEntities } from "akasha/temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts"
 import { useStatChangeNotifications } from "akasha/temper/web/modules/use-stat-change-notifications/use-stat-change-notifications.module.code.tsx"
+import { useCompletionCharacters } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 

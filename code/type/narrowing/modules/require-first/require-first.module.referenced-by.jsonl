@@ -16,7 +16,6 @@
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/formula-framework/modules/random-from/random-from.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/items-rules-core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"}
@@ -36,4 +35,5 @@
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/web/modules/skill-points-progress-panel-card/skill-points-progress-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/web/modules/zone-completion-progress-panel-card/zone-completion-progress-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}
