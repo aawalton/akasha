@@ -42,6 +42,5 @@
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/the-stoplight-type-names-habit-while-the-inboxes-feed-sends-inbox.finding.ts","id":"01a0826d-707a-7c4a-a803-99c6bfa00637"}
 {"propertySlug":"parts","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/color-from.relation-property.ts","id":"01a063bd-a526-7595-8a5b-3e28242bfe2b"}
