@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theSongIHadNotUnderstood = {
+  id: "01a0c629-151f-7457-95cd-9bf519c7c494",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-song-i-had-not-understood",
+  title: "The Song I Had Not Understood",
+  definition: "a song I had known for years landing differently once I read what it was about",
+  parents: ["all-about-alan-topic/how-a-song-reaches-me"],
+  related: ["all-about-alan-topic/the-two-medicines-a-song-can-carry"],
+  settled:
+    "A song I had heard over a dozen times, across twenty years of living with suicidal ideation, had its rescue buried just under the surface. I had never seen what it was about. Reading that layer once made it land far harder than it ever had.\n\nIt is landing harder this year for a recovery reason. This year I am finally starting to feel alive again.",
+} as const satisfies AllAboutAlanTopic
