@@ -68,6 +68,7 @@
 {"propertySlug":"decision-kind","path":"persona/properties/last-messaged-at.text-property.ts","id":"01a05398-caad-7428-b9a6-ec3a8f09470c"}
 {"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.file-property.ts","id":"01a0782e-1f17-71d7-90a2-279f0591ec44"}
 {"propertySlug":"decision-kind","path":"persona/properties/value-slug.text-property.ts","id":"01a0534e-c7e0-74c3-9eea-499d48af54db"}
+{"propertySlug":"decision-kind","path":"story/game/properties/rulebook.file-property.ts","id":"01a0673c-8e0e-7012-9530-56ad5cd13631"}
 {"propertySlug":"decision-kind","path":"story/world/properties/character-slug.text-property.ts","id":"01a063ce-6216-7006-8542-b3d67f43dc56"}
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-slug.text-property.ts","id":"01a063ce-6216-7007-b529-a31661f9223d"}
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/modules/next-boss-state/next-boss-state.module.ts","id":"01a06157-8356-706b-948b-6f8dae0434bf"}
