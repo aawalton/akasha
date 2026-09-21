@@ -1,13 +1,13 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
-import { buffOrDebuff } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import { buffOrDebuff } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import {
   type BuffOrDebuffEffect,
   type Effect,
   isBuffOrDebuffEffect,
   isMetricEffect,
   type MetricEffect,
-} from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import { formatPercent } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import { formatPercent } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
 import {
   getMetricDisplayName,
   metrics,

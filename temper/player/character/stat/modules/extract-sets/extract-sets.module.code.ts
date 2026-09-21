@@ -7,12 +7,12 @@ import type {
   ArmorSlotItem,
   JewelrySlotItem,
   WeaponSlotItem,
-} from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import {
   createSetSource,
   type SetSource,
-} from "akasha/temper/characters-equipment/modules/set-source/set-source.module.code.ts"
-import { valuesOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts"
+import { valuesOf } from "akasha/temper/player/character/formula-framework/modules/record-parts/record-parts.module.code.ts"
 import type { PipelineStage } from "akasha/temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"
 
 function getSetInfo(

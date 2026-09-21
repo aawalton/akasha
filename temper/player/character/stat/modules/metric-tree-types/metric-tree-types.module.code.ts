@@ -1,4 +1,4 @@
-import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 
 interface SubcategoryNode {
   type: "subcategory"

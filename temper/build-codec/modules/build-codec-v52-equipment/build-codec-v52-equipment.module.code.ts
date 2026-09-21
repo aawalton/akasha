@@ -46,13 +46,13 @@ import type {
   EquipmentQualityOptionId,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { JewelrySlotId } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
   WeaponSlot,
   WeaponSlotItem,
-} from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
-import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 
 export function encodeEquipment(writer: BitWriterState, build: CharacterState): undefined {
   const equipment = build.equipment

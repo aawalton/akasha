@@ -1,10 +1,10 @@
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
-import type { BuffOrDebuffSource } from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import type { BuffOrDebuffSource } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import {
   type EffectSource,
   isNamedSource,
-} from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import {
   filterEffectsBySearch,
   groupEffectsBySubcategory,

@@ -5,14 +5,14 @@ import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { races } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
+import { extractCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
 import type {
   BuildHash,
   BuildId,
   EsoCharacterId,
-} from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { extractCharacterMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
-import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 
 export type ImportCharacterResult =

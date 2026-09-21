@@ -7,8 +7,8 @@ import {
   type RaceId,
   races,
 } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   type RoleId,
   characterRoles as roles,

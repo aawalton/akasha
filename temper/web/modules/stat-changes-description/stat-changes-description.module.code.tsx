@@ -2,7 +2,7 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import {
   type BuffOrDebuffId,
   buffOrDebuff,
-} from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { MetricChange } from "akasha/temper/player/character/stat/modules/compare-stats/compare-stats.module.code.ts"
 import { getMetricDisplayName } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 import { Minus, Plus, TrendingDown, TrendingUp } from "lucide-react"

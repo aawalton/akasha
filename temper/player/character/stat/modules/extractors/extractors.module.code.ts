@@ -1,6 +1,6 @@
-import { isMetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import { isMetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 
 export function getAttributeEffects(
   metricId: MetricId | readonly MetricId[],

@@ -1,5 +1,5 @@
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
-import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import type { MetricTemplate } from "akasha/temper/player/character/stat/modules/metric-template/metric-template.module.code.ts"
 import { METRICS_DATA_01 } from "akasha/temper/player/character/stat/modules/metrics-data-01/metrics-data-01.module.code.ts"
 import { METRICS_DATA_02 } from "akasha/temper/player/character/stat/modules/metrics-data-02/metrics-data-02.module.code.ts"

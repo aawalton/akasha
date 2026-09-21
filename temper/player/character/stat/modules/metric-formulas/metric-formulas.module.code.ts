@@ -1,10 +1,10 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
-import { evaluateArithmeticNode } from "akasha/temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
-import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
-import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
-import { sourceCategories } from "akasha/temper/formula-framework/modules/source-category/source-category.module.code.ts"
+import { evaluateArithmeticNode } from "akasha/temper/player/character/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
+import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
+import { sourceCategories } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
 import {
   getAttributeEffects,
   getConditionalChanceEffects,

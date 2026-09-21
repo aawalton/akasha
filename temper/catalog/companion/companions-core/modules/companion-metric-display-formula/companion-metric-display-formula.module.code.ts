@@ -12,14 +12,14 @@ import {
 import {
   convertArithmeticToDisplay,
   type DisplayResult,
-} from "akasha/temper/formula-framework/modules/display-formula-convert/display-formula-convert.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/display-formula-convert/display-formula-convert.module.code.ts"
 import type {
   DisplayFormulaNode,
   NumberFormat,
-} from "akasha/temper/formula-framework/modules/display-formula-node/display-formula-node.module.code.ts"
-import { formatDecimal } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
-import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
-import { sourceCategories } from "akasha/temper/formula-framework/modules/source-category/source-category.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/display-formula-node/display-formula-node.module.code.ts"
+import { formatDecimal } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
+import { sourceCategories } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
 
 function getContributionsByCategory(
   sources: readonly CompanionEffectSource[],

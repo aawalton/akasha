@@ -1,5 +1,5 @@
 import type { SkillSource } from "akasha/temper/catalog/skill-kind/modules/skills-source/skills-source.module.code.ts"
-import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
+import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillByGrimoireAndFocus } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"

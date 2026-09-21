@@ -13,8 +13,8 @@ import {
   extractPrimaryTargeting,
   updateDescriptionWithCalculatedValues,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
-import { getEsoIconUrl } from "akasha/temper/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
-import { formatAbbreviated } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
+import { getEsoIconUrl } from "akasha/temper/player/character/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
+import { formatAbbreviated } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
 import { CollapsibleSkillCard } from "akasha/temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 import { ConstraintBadges } from "akasha/temper/web/modules/constraint-badges/constraint-badges.module.code.tsx"
 import { EffectBadge } from "akasha/temper/web/modules/effect-badge/effect-badge.module.code.tsx"

@@ -2,21 +2,21 @@
 
 import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
-import { convertIconPathToUrl } from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
-import { canClassEquipSet } from "akasha/temper/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"
+import { convertIconPathToUrl } from "akasha/temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
+import { canClassEquipSet } from "akasha/temper/player/character/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"
 import {
   createSetSelectConfig,
   getMaxBonusPieceCount,
   NO_SET_SOURCE,
-} from "akasha/temper/characters-equipment/modules/set-select-helpers/set-select-helpers.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/set-select-helpers/set-select-helpers.module.code.ts"
 import {
   isSetSourceId,
   type SetSource,
   type SetSourceId,
-} from "akasha/temper/characters-equipment/modules/set-source/set-source.module.code.ts"
-import { isSetsAllId } from "akasha/temper/characters-equipment/modules/sets-all/sets-all.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
-import { typedPartialRecordKeys } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts"
+import { isSetsAllId } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
+import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
+import { typedPartialRecordKeys } from "akasha/temper/player/character/formula-framework/modules/record-parts/record-parts.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { FilterableSelectDialog } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { Shield } from "lucide-react"

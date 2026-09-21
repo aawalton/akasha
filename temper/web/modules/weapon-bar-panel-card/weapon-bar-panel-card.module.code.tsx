@@ -15,24 +15,24 @@ import {
   bulkUpdateWeaponQuality,
   bulkUpdateWeaponSet,
   bulkUpdateWeaponTrait,
-} from "akasha/temper/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"
-import type { WeaponBars } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
-import { getWeaponMythicSlots } from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"
+import type { WeaponBars } from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
+import { getWeaponMythicSlots } from "akasha/temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   type WeaponEnchantmentId,
   weaponEnchantments,
-} from "akasha/temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
 import {
   getWeaponItem,
   isShieldSlot,
   isWeaponSlot,
   shouldHideWeaponSlot,
-} from "akasha/temper/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
 import {
   removeWeaponItem,
   updateWeaponItem,
-} from "akasha/temper/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
-import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
+import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,

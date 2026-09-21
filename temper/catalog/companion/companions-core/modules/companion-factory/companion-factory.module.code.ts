@@ -13,8 +13,8 @@ import {
   TWO_HANDED_MELEE_WEAPONS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { randomFrom } from "akasha/temper/formula-framework/modules/random-from/random-from.module.code.ts"
+import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { randomFrom } from "akasha/temper/player/character/formula-framework/modules/random-from/random-from.module.code.ts"
 
 const ACTUAL_COMPANIONS = companions.ids.filter((id) => id !== "no-companion")
 

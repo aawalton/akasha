@@ -1,6 +1,6 @@
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import { redirectingWith } from "akasha/temper/build-support/modules/import-redirect/import-redirect.module.code.ts"
-import { buildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { importCompanionFromHash } from "akasha/temper/web/.server/companion-import/companion-import.module.code.ts"
 import { z } from "zod"
 

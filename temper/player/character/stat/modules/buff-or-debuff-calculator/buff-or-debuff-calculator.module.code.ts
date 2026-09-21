@@ -1,12 +1,12 @@
 import {
   type BuffOrDebuffSource,
   buffOrDebuff,
-} from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
-import { isBuffOrDebuffEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import { isBuffOrDebuffEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import {
   type EffectSource,
   isNamedSource,
-} from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { getBuffOrDebuffId } from "akasha/temper/player/character/stat/modules/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 
 export function calculateBuffs(sources: readonly EffectSource[]): readonly BuffOrDebuffSource[] {

@@ -11,15 +11,10 @@ import {
 } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { toBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { createEmptyCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
-import { setsAll } from "akasha/temper/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
-import {
-  buildHash as toBuildHash,
-  buildId as toBuildId,
-} from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type {
   CharacterBuildMetadata,
   CompanionBuildMetadata,
@@ -30,6 +25,11 @@ import {
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { createEmptyCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
+import {
+  buildHash as toBuildHash,
+  buildId as toBuildId,
+} from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { CharacterEditor } from "akasha/temper/web/modules/character-editor/character-editor.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/modules/companion-editor/companion-editor.module.code.tsx"

@@ -1,5 +1,5 @@
-import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import type { SkillSource } from "akasha/temper/formula-framework/modules/skill-source/skill-source.module.code.ts"
+import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import type { SkillSource } from "akasha/temper/player/character/formula-framework/modules/skill-source/skill-source.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import {
   resolveArmorPieceScalingEffects,

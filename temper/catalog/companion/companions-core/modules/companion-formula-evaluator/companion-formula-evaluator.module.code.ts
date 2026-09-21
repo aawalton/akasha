@@ -4,8 +4,8 @@ import type { CompanionEffectSource } from "akasha/temper/catalog/companion/comp
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionFormulaNode } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-template/companion-metric-template.module.code.ts"
 import { companionMetrics } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
-import { evaluateArithmeticNode } from "akasha/temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
-import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
+import { evaluateArithmeticNode } from "akasha/temper/player/character/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 
 interface CompanionFormulaContext {
   metricValues: Map<CompanionMetricId, number>

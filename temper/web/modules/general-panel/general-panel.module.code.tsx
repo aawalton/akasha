@@ -1,8 +1,8 @@
 "use client"
 
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { BuildDescriptionPanelCard } from "akasha/temper/web/modules/build-description-panel-card/build-description-panel-card.module.code.tsx"
 import { BuildInfoPanelCard } from "akasha/temper/web/modules/build-info-panel-card/build-info-panel-card.module.code.tsx"
 import { CharacterManagementPanelCard } from "akasha/temper/web/modules/character-management-panel-card/character-management-panel-card.module.code.tsx"

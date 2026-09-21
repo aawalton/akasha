@@ -1,0 +1,180 @@
+import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { weaponBars } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
+import { weaponSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
+import type { SetId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
+import type { WeaponTraitId } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
+import type {
+  Loadout,
+  WeaponBars,
+} from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
+import { isSetValidForSlot } from "akasha/temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+import type { WeaponEnchantmentId } from "akasha/temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
+import {
+  getWeaponItem,
+  isWeaponSlot,
+  shouldHideWeaponSlot,
+} from "akasha/temper/player/character/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
+import { updateWeaponItem } from "akasha/temper/player/character/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
+
+export function bulkUpdateWeaponTrait(
+  equipment: Loadout,
+  oldValue: WeaponTraitId,
+  newValue: WeaponTraitId
+): Partial<Loadout> {
+  let result: Partial<Loadout> = {}
+
+  const weaponEquipment: WeaponBars = {
+    "primary-weapon-bar": equipment["primary-weapon-bar"],
+    "backup-weapon-bar": equipment["backup-weapon-bar"],
+  }
+
+  for (const slotConfig of weaponSlots.list) {
+    if (slotConfig.id === "poison") continue
+
+    for (const barConfig of weaponBars.list) {
+      const slot = getWeaponItem(weaponEquipment, slotConfig.id, barConfig.id)
+      const isHidden = shouldHideWeaponSlot(weaponEquipment, slotConfig.id, barConfig.id)
+
+      if (isHidden || !isWeaponSlot(slot)) {
+        continue
+      }
+
+      if (slot.data.trait === oldValue) {
+        const update = updateWeaponItem(weaponEquipment, slotConfig.id, barConfig.id, {
+          trait: newValue,
+        })
+        result = { ...result, ...update }
+        equipment = { ...equipment, ...update }
+        weaponEquipment[barConfig.id] = equipment[barConfig.id]
+      }
+    }
+  }
+
+  return result
+}
+
+export function bulkUpdateWeaponEnchant(
+  equipment: Loadout,
+  oldValue: WeaponEnchantmentId,
+  newValue: WeaponEnchantmentId
+): Partial<Loadout> {
+  let result: Partial<Loadout> = {}
+
+  const weaponEquipment: WeaponBars = {
+    "primary-weapon-bar": equipment["primary-weapon-bar"],
+    "backup-weapon-bar": equipment["backup-weapon-bar"],
+  }
+
+  for (const slotConfig of weaponSlots.list) {
+    if (slotConfig.id === "poison") continue
+
+    for (const barConfig of weaponBars.list) {
+      const slot = getWeaponItem(weaponEquipment, slotConfig.id, barConfig.id)
+      const isHidden = shouldHideWeaponSlot(weaponEquipment, slotConfig.id, barConfig.id)
+
+      if (isHidden || !isWeaponSlot(slot)) {
+        continue
+      }
+
+      if (slot.data.enchantment === oldValue) {
+        const update = updateWeaponItem(weaponEquipment, slotConfig.id, barConfig.id, {
+          enchantment: newValue,
+        })
+        result = { ...result, ...update }
+        equipment = { ...equipment, ...update }
+        weaponEquipment[barConfig.id] = equipment[barConfig.id]
+      }
+    }
+  }
+
+  return result
+}
+
+export function bulkUpdateWeaponSet(
+  equipment: Loadout,
+  oldValue: SetId,
+  newValue: SetId,
+  availableSets: readonly SetTemplate[]
+): Partial<Loadout> {
+  let result: Partial<Loadout> = {}
+  const newSet = newValue !== "no-set" ? availableSets.find((s) => s.id === newValue) : null
+
+  const shouldUpdate = (current: string | null | undefined) => (current ?? "no-set") === oldValue
+
+  const weaponEquipment: WeaponBars = {
+    "primary-weapon-bar": equipment["primary-weapon-bar"],
+    "backup-weapon-bar": equipment["backup-weapon-bar"],
+  }
+
+  for (const slotConfig of weaponSlots.list) {
+    if (slotConfig.id === "poison") continue
+
+    for (const barConfig of weaponBars.list) {
+      const slot = getWeaponItem(weaponEquipment, slotConfig.id, barConfig.id)
+      const isHidden = shouldHideWeaponSlot(weaponEquipment, slotConfig.id, barConfig.id)
+
+      if (isHidden) {
+        continue
+      }
+
+      if (slot.itemType === "empty") continue
+
+      const currentSet = slot.data.set
+      if (shouldUpdate(currentSet)) {
+        const equipmentType = isWeaponSlot(slot) ? slot.data.type : "shield"
+
+        if (!newSet || isSetValidForSlot(newSet, slotConfig.id, equipmentType, null)) {
+          const update = updateWeaponItem(weaponEquipment, slotConfig.id, barConfig.id, {
+            set: newValue,
+            type: "no-type",
+          })
+          result = { ...result, ...update }
+          equipment = { ...equipment, ...update }
+          weaponEquipment[barConfig.id] = equipment[barConfig.id]
+        }
+      }
+    }
+  }
+
+  return result
+}
+
+export function bulkUpdateWeaponQuality(
+  equipment: Loadout,
+  oldValue: EquipmentQualityOptionId,
+  newValue: EquipmentQualityOptionId
+): Partial<Loadout> {
+  let result: Partial<Loadout> = {}
+
+  const weaponEquipment: WeaponBars = {
+    "primary-weapon-bar": equipment["primary-weapon-bar"],
+    "backup-weapon-bar": equipment["backup-weapon-bar"],
+  }
+
+  for (const slotConfig of weaponSlots.list) {
+    if (slotConfig.id === "poison") continue
+
+    for (const barConfig of weaponBars.list) {
+      const slot = getWeaponItem(weaponEquipment, slotConfig.id, barConfig.id)
+      const isHidden = shouldHideWeaponSlot(weaponEquipment, slotConfig.id, barConfig.id)
+
+      if (isHidden || !isWeaponSlot(slot)) {
+        continue
+      }
+
+      const currentQuality = slot.data.quality ?? "no-quality"
+      if (currentQuality === "mythic" && oldValue !== "mythic") continue
+      if (currentQuality === oldValue) {
+        const update = updateWeaponItem(weaponEquipment, slotConfig.id, barConfig.id, {
+          quality: newValue,
+        })
+        result = { ...result, ...update }
+        equipment = { ...equipment, ...update }
+        weaponEquipment[barConfig.id] = equipment[barConfig.id]
+      }
+    }
+  }
+
+  return result
+}

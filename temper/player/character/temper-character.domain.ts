@@ -24,6 +24,8 @@ export const temperCharacter = {
     "domain/temper-character-skill",
     "domain/temper-character-source",
     "domain/temper-character-stat",
+    "domain/temper-characters-equipment",
+    "domain/temper-formula-framework",
   ],
   decisions: [
     {

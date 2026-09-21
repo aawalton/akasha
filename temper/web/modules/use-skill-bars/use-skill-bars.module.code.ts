@@ -1,7 +1,7 @@
 import type { SkillSlotId } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import { keysOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { keysOf } from "akasha/temper/player/character/formula-framework/modules/record-parts/record-parts.module.code.ts"
 import type {
   Skill,
   SkillId,

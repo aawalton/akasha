@@ -10,9 +10,9 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { characterUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
-import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 
 interface LiveOnlyBuild {
   id: string

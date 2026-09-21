@@ -13,9 +13,9 @@ import type { FoodOrDrinkId } from "akasha/temper/player/character/source/module
 import type { MundusId } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
 import type { TargetArmorId } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 import type { VampireStageId } from "akasha/temper/player/character/source/modules/vampire-stages/vampire-stages.module.code.ts"
-import type { Loadout } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
-import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
+import type { Loadout } from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
+import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 
 export interface CharacterState {
   id: BuildId

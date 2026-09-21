@@ -9,14 +9,14 @@
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts"}
-{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"}
-{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/formula-framework/modules/display-formula-convert/display-formula-convert.module.code.ts"}
-{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/formula-framework/modules/random-from/random-from.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/items-rules-core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"}
+{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"}
+{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/formula-framework/modules/display-formula-convert/display-formula-convert.module.code.ts"}
+{"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/formula-framework/modules/random-from/random-from.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/player/character/stat/modules/metric-formulas/metric-formulas.module.code.ts"}
 {"propertySlug":"import","fileName":"require-first.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}

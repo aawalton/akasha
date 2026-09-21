@@ -1,5 +1,5 @@
-import { POWER_LEVEL_BASE } from "akasha/temper/formula-framework/modules/base-stat/base-stat.module.code.ts"
-import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import { POWER_LEVEL_BASE } from "akasha/temper/player/character/formula-framework/modules/base-stat/base-stat.module.code.ts"
+import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import type { MetricTemplate } from "akasha/temper/player/character/stat/modules/metric-template/metric-template.module.code.ts"
 
 export const METRICS_DATA_12: Partial<Record<MetricId, MetricTemplate>> = {

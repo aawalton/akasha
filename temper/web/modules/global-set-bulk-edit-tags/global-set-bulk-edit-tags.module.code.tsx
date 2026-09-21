@@ -8,24 +8,24 @@ import { weaponBars } from "akasha/temper/catalog/gear/equipment/kind/modules/we
 import { weaponSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
   bulkUpdateAllQuality,
   bulkUpdateAllSets,
-} from "akasha/temper/characters-equipment/modules/bulk-update-functions/bulk-update-functions.module.code.ts"
-import type { WeaponBars } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/bulk-update-functions/bulk-update-functions.module.code.ts"
+import type { WeaponBars } from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import {
   getMythicSlots,
   getWeaponMythicSlots,
-} from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   getWeaponItem,
   isShieldSlot,
   isWeaponSlot,
   shouldHideWeaponSlot,
-} from "akasha/temper/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
-import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
-import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
+import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
+import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,

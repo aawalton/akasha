@@ -49,7 +49,7 @@ import {
   getCompanionWeaponTypeId,
   getCompanionWeaponTypeIndex,
 } from "akasha/temper/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"
-import { buildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 export const COMPANION_BUILD_TYPE = 0x02
 

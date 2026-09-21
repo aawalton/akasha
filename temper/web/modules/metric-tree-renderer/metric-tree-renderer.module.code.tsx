@@ -1,5 +1,5 @@
 import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
-import { formatStatValue } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
+import { formatStatValue } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
 import {
   isMetricNode,
   isSubcategoryNode,

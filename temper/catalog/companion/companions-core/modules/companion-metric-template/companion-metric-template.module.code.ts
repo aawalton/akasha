@@ -8,7 +8,7 @@ import type {
   MaxNode,
   MinNode,
   MultiplyNode,
-} from "akasha/temper/formula-framework/modules/arithmetic-node/arithmetic-node.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/arithmetic-node/arithmetic-node.module.code.ts"
 
 type CompanionMetricRefNode = {
   type: "metric-ref"

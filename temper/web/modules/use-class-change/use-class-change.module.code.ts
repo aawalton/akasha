@@ -1,6 +1,6 @@
-import { clearIncompatibleSets } from "akasha/temper/characters-equipment/modules/clear-incompatible-sets/clear-incompatible-sets.module.code.ts"
-import { getSetIdsClassCannotEquip } from "akasha/temper/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
+import { clearIncompatibleSets } from "akasha/temper/player/character/characters-equipment/modules/clear-incompatible-sets/clear-incompatible-sets.module.code.ts"
+import { getSetIdsClassCannotEquip } from "akasha/temper/player/character/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"
+import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,

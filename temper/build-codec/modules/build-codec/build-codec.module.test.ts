@@ -42,16 +42,16 @@ import {
 import { base64urlToBytes } from "akasha/temper/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
 import { stampedWith } from "akasha/temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.code.ts"
 import type { StandardArmorType } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
   WeaponSlotItem,
-} from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import {
   buildHash,
   buildId,
-} from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 
 const CHARACTER_BUILD_TYPE = 1
 

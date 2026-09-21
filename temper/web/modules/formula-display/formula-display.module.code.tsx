@@ -2,8 +2,8 @@
 
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import { toLatex } from "akasha/temper/formula-framework/modules/display-formula-latex/display-formula-latex.module.code.ts"
-import type { DisplayFormulaNode } from "akasha/temper/formula-framework/modules/display-formula-node/display-formula-node.module.code.ts"
+import { toLatex } from "akasha/temper/player/character/formula-framework/modules/display-formula-latex/display-formula-latex.module.code.ts"
+import type { DisplayFormulaNode } from "akasha/temper/player/character/formula-framework/modules/display-formula-node/display-formula-node.module.code.ts"
 import katex from "katex"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { createPortal } from "react-dom"

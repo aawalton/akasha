@@ -31,26 +31,26 @@ import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/
 import {
   type ArmorEnchantId,
   armorEnchants,
-} from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,
-} from "akasha/temper/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import type {
   WeaponSlotItem,
   WeaponSlotUpdateParams,
-} from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import {
   getValidSetsForSlot,
   getValidTypesForSet,
   isShieldValidForSet,
-} from "akasha/temper/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import {
   type WeaponEnchantmentId,
   weaponEnchantments,
-} from "akasha/temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
-import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
+import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
+import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   AVAILABLE_QUALITY_OPTIONS,

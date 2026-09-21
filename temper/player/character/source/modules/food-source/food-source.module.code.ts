@@ -1,4 +1,4 @@
-import { createSourceFile } from "akasha/temper/formula-framework/modules/source-file/source-file.module.code.ts"
+import { createSourceFile } from "akasha/temper/player/character/formula-framework/modules/source-file/source-file.module.code.ts"
 import type { FoodOrDrinkTemplate } from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 
 const FOOD = {

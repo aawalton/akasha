@@ -5,8 +5,8 @@ import { fitnessPassives } from "akasha/temper/catalog/champion-point/modules/fi
 import { fitnessSlottables } from "akasha/temper/catalog/champion-point/modules/fitness-slottables/fitness-slottables.module.code.ts"
 import { warfarePassives } from "akasha/temper/catalog/champion-point/modules/warfare-passives/warfare-passives.module.code.ts"
 import { warfareSlottables } from "akasha/temper/catalog/champion-point/modules/warfare-slottables/warfare-slottables.module.code.ts"
-import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
+import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import type { EffectSourceInterface } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 
 type ChampionPointSubcategoryId =
   | "craft-passives"

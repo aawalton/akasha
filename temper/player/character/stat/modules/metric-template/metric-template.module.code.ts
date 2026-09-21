@@ -1,4 +1,4 @@
-import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
 import type { MetricValueType } from "akasha/temper/player/character/stat/modules/metric-value-types/metric-value-types.module.code.ts"
 

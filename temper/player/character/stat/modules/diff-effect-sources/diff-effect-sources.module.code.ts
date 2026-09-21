@@ -1,14 +1,14 @@
 import {
   type BuffOrDebuffId,
   buffOrDebuff,
-} from "akasha/temper/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
-import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import {
   isBuffOrDebuffEffect,
   isMetricEffect,
-} from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import { metrics } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 
 interface EffectSourceDiff {

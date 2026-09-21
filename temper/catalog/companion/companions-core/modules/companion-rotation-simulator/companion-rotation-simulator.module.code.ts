@@ -27,7 +27,7 @@ import {
   SIMULATION_TICK_INTERVAL,
   ULTIMATE_GENERATION_RATE,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
-import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
+import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 
 export function simulateCompanionRotation(
   skillIds: readonly CompanionSkillId[],

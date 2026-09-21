@@ -3,7 +3,7 @@ import { redirectingWith } from "akasha/temper/build-support/modules/import-redi
 import {
   buildHash,
   esoCharacterId as toEsoCharacterId,
-} from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+} from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { importCharacterFromHash } from "akasha/temper/web/.server/character-import/character-import.module.code.ts"
 import { z } from "zod"
 

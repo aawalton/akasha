@@ -17,17 +17,17 @@ import type { SetId as SetsAllId } from "akasha/temper/catalog/gear/equipment/mo
 import {
   type ArmorEnchantId,
   armorEnchants,
-} from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
-import { standardArmorWeights } from "akasha/temper/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
+import { standardArmorWeights } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import {
   bulkUpdateArmorEnchant,
   bulkUpdateArmorQuality,
   bulkUpdateArmorSet,
   bulkUpdateArmorTrait,
   bulkUpdateArmorWeight,
-} from "akasha/temper/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"
-import { mergeItemData } from "akasha/temper/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
-import { getMythicSlots } from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
+} from "akasha/temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"
+import { mergeItemData } from "akasha/temper/player/character/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
+import { getMythicSlots } from "akasha/temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
