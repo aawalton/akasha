@@ -4,7 +4,8 @@ export const seatToggles = {
   id: "01a0686b-bfe9-7373-bdd9-fdc5b5f86ce5",
   type: "page-type/module",
   slug: "seat-toggles",
-  definition: "the steps a run or a reset asks of a seat, and the line a terminal attaches by",
+  definition:
+    "the steps a run, a restart or a reset asks of a seat, and the line a terminal attaches by",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -48,6 +49,14 @@ export const seatToggles = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here performs a step.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A restart cycles the seat in place, whatever place that seat has.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A restart attaches no terminal, the seat keeping the session it is in.",
     },
   ],
 } as const satisfies Module

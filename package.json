@@ -56,6 +56,7 @@
       { "command": "opsGapTree.refreshNow", "title": "Ops Gaps: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsAgentTree.runStop", "category": "Ops Agents", "title": "Stop" },
       { "command": "opsAgentTree.runResume", "category": "Ops Agents", "title": "Resume" },
+      { "command": "opsAgentTree.runRestart", "category": "Ops Agents", "title": "Restart" },
       { "command": "opsAgentTree.runReset", "category": "Ops Agents", "title": "Reset" },
       { "command": "opsAgentTree.stopSubagent", "category": "Ops Agents", "title": "Stop" },
       { "command": "opsAgentTree.copySeatName", "category": "Ops Agents", "title": "Copy Seat Name" },
@@ -103,7 +104,8 @@
       "view/item/context": [
         { "command": "opsAgentTree.runStop", "when": "view == opsAgentTree && viewItem =~ /^seat\\.running\\./", "group": "2_run@1" },
         { "command": "opsAgentTree.runResume", "when": "view == opsAgentTree && viewItem =~ /^seat\\.stopped\\./", "group": "2_run@1" },
-        { "command": "opsAgentTree.runReset", "when": "view == opsAgentTree && viewItem =~ /^seat\\./", "group": "2_run@2" },
+        { "command": "opsAgentTree.runRestart", "when": "view == opsAgentTree && viewItem =~ /^seat\\.running\\./", "group": "2_run@2" },
+        { "command": "opsAgentTree.runReset", "when": "view == opsAgentTree && viewItem =~ /^seat\\./", "group": "2_run@3" },
         { "command": "opsAgentTree.stopSubagent", "when": "view == opsAgentTree && viewItem == subagent.running", "group": "2_run@1" },
         { "command": "opsAgentTree.copySeatName", "when": "view == opsAgentTree && viewItem =~ /^seat\\./", "group": "6_copypath@1" },
         { "command": "opsAgentTree.openPage", "when": "view == opsAgentTree", "group": "0_open@1" },
@@ -116,7 +118,8 @@
       "editor/title/context/replace": [
         { "command": "opsAgentTree.runStop", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsRunning", "group": "2_run@1" },
         { "command": "opsAgentTree.runResume", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsStopped", "group": "2_run@1" },
-        { "command": "opsAgentTree.runReset", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabs", "group": "2_run@2" },
+        { "command": "opsAgentTree.runRestart", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabsRunning", "group": "2_run@2" },
+        { "command": "opsAgentTree.runReset", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabs", "group": "2_run@3" },
         { "command": "opsAgentTree.copySeatName", "when": "resourceScheme == 'vscode-terminal' && resourceFilename in opsAgentTree.seatTabs", "group": "6_copypath@1" }
       ]
     },

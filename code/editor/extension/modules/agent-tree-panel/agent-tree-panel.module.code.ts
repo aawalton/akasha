@@ -16,6 +16,7 @@ import {
   OPEN_PAGE_COMMAND,
   REFRESH_COMMAND,
   RUN_RESET_COMMAND,
+  RUN_RESTART_COMMAND,
   RUN_RESUME_COMMAND,
   RUN_STOP_COMMAND,
   STOP_SUBAGENT_COMMAND,
@@ -48,6 +49,7 @@ import {
 import { tabInstanceIds } from "akasha/code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"
 import {
   planReset,
+  planRestart,
   planRunToggle,
   type SeatStep,
   type SeatToggleState,
@@ -239,6 +241,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     ),
     vscode.commands.registerCommand(RUN_RESUME_COMMAND, (n: unknown) =>
       runPlan(n, planRunToggle, "run-resume")
+    ),
+    vscode.commands.registerCommand(RUN_RESTART_COMMAND, (n: unknown) =>
+      runPlan(n, planRestart, "run-restart")
     ),
     vscode.commands.registerCommand(RUN_RESET_COMMAND, (n: unknown) =>
       runPlan(n, planReset, "run-reset")

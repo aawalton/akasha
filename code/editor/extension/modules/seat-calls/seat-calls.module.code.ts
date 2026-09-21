@@ -5,6 +5,8 @@ import { exportedAs } from "akasha/page/modules/export-name/page-export-name.mod
 
 const FORCED = "--force"
 
+const NOW = "--now"
+
 const NOTICED = "--notice"
 
 const EDITOR_REVIVE = "editor-revive"
@@ -25,6 +27,10 @@ function asking(one: { readonly slug: string }, args: readonly string[]): SeatCa
 
 export function stopCall(name: string): SeatCall {
   return asking(seatSupervisorStop, [name, FORCED])
+}
+
+export function restartCall(name: string): SeatCall {
+  return asking(seatResume, [name, NOW, FORCED])
 }
 
 export function resetCall(name: string): SeatCall {

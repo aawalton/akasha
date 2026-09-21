@@ -31,5 +31,9 @@ export const seatActConfirm = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here asks anything of Alan.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A restart is confirmed as a stop is, the turn being lost either way.",
+    },
   ],
 } as const satisfies Module

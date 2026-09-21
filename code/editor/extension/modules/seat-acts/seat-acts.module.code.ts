@@ -8,6 +8,7 @@ import type { ToggleTarget } from "akasha/code/editor/extension/modules/invoked-
 import {
   interactiveCall,
   resetCall,
+  restartCall,
   revivingCall,
   type SeatCall,
   stopCall,
@@ -54,6 +55,9 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
       return resumeInteractive(seat)
     case "attach":
       return attachTerminal(seat, attachCommandLine(seat.name))
+    case "restart":
+      await runSeat(restartCall(seat.name))
+      return undefined
     case "reset":
       await runSeat(resetCall(seat.name))
       return undefined

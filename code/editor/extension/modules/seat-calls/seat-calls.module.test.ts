@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   interactiveCall,
   resetCall,
+  restartCall,
   revivingCall,
   type SeatCall,
   stopCall,
@@ -13,6 +14,7 @@ const SEAT = "aranya"
 const EVERY: readonly SeatCall[] = [
   stopCall(SEAT),
   resetCall(SEAT),
+  restartCall(SEAT),
   revivingCall(SEAT),
   interactiveCall(SEAT),
 ]
@@ -31,6 +33,10 @@ test("a reset names the seat and nothing else", () => {
   expect(resetCall(SEAT).args).toEqual([SEAT])
 })
 
+test("a restart cycles the seat without waiting and without being held back", () => {
+  expect(restartCall(SEAT).args).toEqual([SEAT, "--now", "--force"])
+})
+
 test("a revive names the notice rather than carrying that notice's words", () => {
   expect(revivingCall(SEAT).args).toEqual([SEAT, "--notice", "editor-revive"])
 })
@@ -42,6 +48,11 @@ test("a resume into a terminal states the interactive mode", () => {
 test("a revive and an interactive resume are the one command, asked differently", () => {
   expect(revivingCall(SEAT).slug).toBe(interactiveCall(SEAT).slug)
   expect(revivingCall(SEAT).args).not.toEqual(interactiveCall(SEAT).args)
+})
+
+test("a restart and a resume are the one command, asked differently", () => {
+  expect(restartCall(SEAT).slug).toBe(interactiveCall(SEAT).slug)
+  expect(restartCall(SEAT).args).not.toEqual(interactiveCall(SEAT).args)
 })
 
 test("a stop, a reset and a resume are three commands", () => {

@@ -3,6 +3,7 @@ import { SEAT_TAB_KEY_NAMES } from "akasha/code/editor/extension/modules/seat-ta
 import {
   attachCommandLine,
   planReset,
+  planRestart,
   planRunToggle,
   seatContextValue,
   seatNameAccepted,
@@ -24,6 +25,10 @@ describe("the steps a toggle plans", () => {
       { kind: "resume-interactive" },
     ])
     expect(planRunToggle({ running: false, place: "headless" })).toEqual([{ kind: "revive" }])
+  })
+
+  test("a restart cycles the seat in place and attaches nothing", () => {
+    expect(planRestart()).toEqual([{ kind: "restart" }])
   })
 
   test("a reset attaches only where the seat is interactive", () => {
@@ -50,11 +55,12 @@ describe("the name a seat is attached by", () => {
 })
 
 describe("the menus the manifest hangs on a row", () => {
-  test("a running interactive seat is offered stop, reset, copy and open", () => {
+  test("a running interactive seat is offered stop, restart, reset, copy and open", () => {
     expect([...shownFor(true, "interactive")].sort()).toEqual([
       "opsAgentTree.copySeatName",
       "opsAgentTree.openPage",
       "opsAgentTree.runReset",
+      "opsAgentTree.runRestart",
       "opsAgentTree.runStop",
     ])
   })

@@ -3,7 +3,7 @@ import type {
   SeatToggleState,
 } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 
-export type SeatAct = "run-stop" | "run-resume" | "run-reset"
+export type SeatAct = "run-stop" | "run-resume" | "run-restart" | "run-reset"
 
 export interface TurnLossPrompt {
   readonly message: string
@@ -14,6 +14,7 @@ export interface TurnLossPrompt {
 const ACT_WORDS: Record<SeatAct, { readonly question: string; readonly confirm: string }> = {
   "run-stop": { question: "stop", confirm: "Stop" },
   "run-resume": { question: "resume", confirm: "Resume" },
+  "run-restart": { question: "restart", confirm: "Restart" },
   "run-reset": { question: "reset", confirm: "Reset" },
 }
 
@@ -34,7 +35,9 @@ export function confirmTurnLoss(
   if (!state.running) {
     return undefined
   }
-  if (!steps.some((s) => s.kind === "stop" || s.kind === "resume-interactive")) {
+  if (
+    !steps.some((s) => s.kind === "stop" || s.kind === "resume-interactive" || s.kind === "restart")
+  ) {
     return undefined
   }
   const words = ACT_WORDS[act]

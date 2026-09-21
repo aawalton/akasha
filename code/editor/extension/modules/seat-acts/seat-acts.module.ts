@@ -56,5 +56,10 @@ export const seatActs = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here asks whether the act should happen.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat Alan restarts from a panel is restarted rather than refused for being busy.",
+    },
   ],
 } as const satisfies Module

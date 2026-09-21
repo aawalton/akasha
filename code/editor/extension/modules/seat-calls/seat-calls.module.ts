@@ -48,5 +48,13 @@ export const seatCalls = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the editor.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A restart is the resume asked to act now rather than at the turn's end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A restart goes through where subagents are working under the seat.",
+    },
   ],
 } as const satisfies Module
