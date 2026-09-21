@@ -8,6 +8,7 @@ import {
 } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { z } from "zod"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const KOKORO_VOICE = "af_heart"
 

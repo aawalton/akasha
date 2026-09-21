@@ -25,6 +25,7 @@ import {
 } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/alan/atlas-web/look/alan-atlas-web-look.stylesheet.styles.css"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const GUARD: HandoverGuardConfig = {
   signInPaths: ["/sign-in", "/sign-up"],

@@ -13,6 +13,7 @@ import { PlayingSessionProvider } from "akasha/page/ui/media/modules/playing-ses
 import { useMemo } from "react"
 import { Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export const loader = appLayoutLoader
 

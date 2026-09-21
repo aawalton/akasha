@@ -5,6 +5,7 @@ import { downloadChapter } from "akasha/alan/web/modules/offline-downloads/offli
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { useState } from "react"
 import { useSearchParams } from "react-router"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 type Status = "idle" | "downloading" | "done" | "error"
 

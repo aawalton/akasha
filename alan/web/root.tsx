@@ -37,6 +37,7 @@ import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
 import "akasha/alan/web/modules/declared-effects/declared-effects.module.code.ts"
 import { NavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { StatusBarSync } from "akasha/alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 configurePagesPersistence(isNativeShell() ? createNativeFsPagesPersistence() : null)
 

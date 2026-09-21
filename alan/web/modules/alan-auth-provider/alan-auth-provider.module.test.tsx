@@ -2,6 +2,7 @@ import { beforeEach, expect, mock, test } from "bun:test"
 import { render } from "@testing-library/react"
 import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { act, useContext, useEffect } from "react"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const READER = "contributor/alan"
 

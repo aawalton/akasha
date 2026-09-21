@@ -4,6 +4,7 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { usePlayingSession } from "akasha/page/ui/media/modules/playing-session-context/playing-session-context.module.code.tsx"
 import { Pause, Play, RotateCcw, RotateCw } from "lucide-react"
 import { useNavigate } from "react-router"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const SEEK_SECONDS = 30
 

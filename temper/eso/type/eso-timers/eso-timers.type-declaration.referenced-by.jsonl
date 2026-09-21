@@ -1,3 +1,9 @@
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/atlas-web/server.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/chess/modules/board/chess-board.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/chess/modules/engine/chess-engine.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/chess/modules/puzzle-lichess/chess-puzzle-lichess.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/eso/wallpaper/modules/download/eso-wallpaper-download.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.code.ts"}
@@ -10,6 +16,14 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/harness/readout/modules/watching/readout-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/harness/readout/modules/watching/readout-watching.module.test.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/music/spotify/modules/auth-cli/spotify-auth-cli.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/music/spotify/modules/client/spotify-client.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.test.tsx"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/web/modules/hls-render/hls-render.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/web/modules/kokoro-render/kokoro-render.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/web/routes/alan-web-api-media-stream/alan-web-api-media-stream.route.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"code/editor/extension/modules/activation/activation.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"code/editor/extension/modules/command-server-client/command-server-client.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts"}

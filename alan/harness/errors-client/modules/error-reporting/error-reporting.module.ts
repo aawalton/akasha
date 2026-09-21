@@ -11,5 +11,13 @@ export const errorReporting = {
       decisionKind: "decision-kind/absence",
       statement: "A report that fails to send raises nothing to the caller.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A report goes to the site that served the page rather than to a named origin.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The release a report names is the one its caller hands in.",
+    },
   ],
 } as const satisfies Module

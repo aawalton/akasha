@@ -1,38 +1,19 @@
 import type { ErrorReport } from "akasha/alan/harness/errors-core/modules/error-report/error-report.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export type ReportErrorInput = Omit<ErrorReport, "url" | "userAgent">
 
-const REPORTING = { origin: "", releaseSha: "" }
-
-export function setErrorReportOrigin(origin: string): undefined {
-  REPORTING.origin = origin
-  return undefined
-}
-
-export function setReleaseSha(sha: string): undefined {
-  REPORTING.releaseSha = sha
-  return undefined
-}
-
-function resolveReportReleaseSha(
-  inputReleaseSha: string | undefined,
-  defaultSha: string
-): string | undefined {
-  if (inputReleaseSha !== undefined) return inputReleaseSha
-  return defaultSha !== "" ? defaultSha : undefined
-}
+const SINK_AT = "/api/errors"
 
 export function reportError(input: ReportErrorInput): undefined {
   if (typeof window === "undefined") return
   try {
-    const resolvedReleaseSha = resolveReportReleaseSha(input.releaseSha, REPORTING.releaseSha)
     const report: ErrorReport = {
       ...input,
       url: window.location.href,
       userAgent: navigator.userAgent,
-      ...(resolvedReleaseSha !== undefined ? { releaseSha: resolvedReleaseSha } : {}),
     }
-    void fetch(`${REPORTING.origin}/api/errors`, {
+    void fetch(SINK_AT, {
       method: "POST",
       keepalive: true,
       headers: { "Content-Type": "application/json" },

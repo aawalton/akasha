@@ -31,6 +31,7 @@ import {
   type Row,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const ROOT = akashaRoot()
 const STORY_PAGE_TYPE = "story-read"
