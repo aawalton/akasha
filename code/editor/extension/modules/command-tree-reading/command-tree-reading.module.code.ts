@@ -1,3 +1,5 @@
+import "akasha/alan/harness/code-editor/data-interface/pages/command-tree/command-tree.code-editor-data-interface.d.ts"
+
 export function countRows(nodes: readonly CommandTreeRow[]): number {
   let total = 0
   for (const node of nodes) {

@@ -1,3 +1,5 @@
+import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
+
 const INTENT_MARK = "#"
 
 export type Holding =

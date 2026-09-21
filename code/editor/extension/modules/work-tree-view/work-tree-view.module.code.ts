@@ -9,6 +9,7 @@ import {
   turnColorIn,
 } from "akasha/code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts"
 import * as vscode from "vscode"
+import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
 const WORK_SCHEME = "ops-work"
 

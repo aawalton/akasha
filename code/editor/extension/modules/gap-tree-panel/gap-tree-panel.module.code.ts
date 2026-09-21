@@ -13,6 +13,7 @@ import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/ha
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import { deletingGap } from "akasha/code/editor/extension/modules/tree-row-deleting/tree-row-deleting.module.code.ts"
 import * as vscode from "vscode"
+import "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "gap-tree"
 const SLUG = "gap-tree"

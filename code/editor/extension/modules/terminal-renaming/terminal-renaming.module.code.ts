@@ -17,6 +17,7 @@ import {
 } from "akasha/code/editor/extension/modules/terminal-pids/terminal-pids.module.code.ts"
 import { syncTerminal } from "akasha/code/editor/extension/modules/terminal-sync/terminal-sync.module.code.ts"
 import * as vscode from "vscode"
+import "akasha/alan/harness/code-editor/data-interface/pages/terminal-tabs/terminal-tabs.code-editor-data-interface.d.ts"
 
 const FEATURE = "terminal-rename"
 const SLUG = "terminal-tabs"

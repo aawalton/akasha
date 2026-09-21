@@ -23,6 +23,7 @@ import {
 import type { UsageReading } from "akasha/code/editor/extension/modules/status-bar-usage/status-bar-usage.module.code.ts"
 import type { WorkstationReading } from "akasha/code/editor/extension/modules/status-bar-workstation/status-bar-workstation.module.code.ts"
 import * as vscode from "vscode"
+import "akasha/alan/harness/code-editor/data-interface/pages/status-bar/status-bar.code-editor-data-interface.d.ts"
 
 const FEATURE = "status-bar"
 const SLUG = "status-bar"

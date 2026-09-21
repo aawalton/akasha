@@ -15,6 +15,7 @@ import {
 } from "akasha/code/editor/extension/modules/page-tree-reading/page-tree-reading.module.code.ts"
 import { createPageTree } from "akasha/code/editor/extension/modules/page-tree-view/page-tree-view.module.code.ts"
 import * as vscode from "vscode"
+import "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "page-tree"
 const SLUG = "page-tree"

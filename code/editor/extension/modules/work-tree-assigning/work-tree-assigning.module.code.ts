@@ -10,6 +10,7 @@ import {
 import { shownSaid } from "akasha/code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.code.ts"
 import { initiativeAssign } from "akasha/command/pages/initiative/assign/initiative-assign.command.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
 const ASSIGN_SLUG = initiativeAssign.slug
 

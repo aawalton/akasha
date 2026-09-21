@@ -5,6 +5,8 @@ import {
 import { findingDelete } from "akasha/command/pages/finding/delete/finding-delete.command.ts"
 import { gapDelete } from "akasha/command/pages/gap/delete/gap-delete.command.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.d.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.d.ts"
 
 const FINDING_SLUG = findingDelete.slug
 

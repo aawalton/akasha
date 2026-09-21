@@ -18,6 +18,7 @@ import {
   createServiceTree,
 } from "akasha/code/editor/extension/modules/service-tree-view/service-tree-view.module.code.ts"
 import * as vscode from "vscode"
+import "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "service-tree"
 const SLUG = "service-tree"

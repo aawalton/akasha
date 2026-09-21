@@ -50,6 +50,7 @@ import {
   createWorkTree,
 } from "akasha/code/editor/extension/modules/work-tree-view/work-tree-view.module.code.ts"
 import * as vscode from "vscode"
+import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "work-tree"
 const SLUG = "work-tree"

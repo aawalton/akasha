@@ -1,3 +1,5 @@
+import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
+
 export function countRows(nodes: readonly WorkTreeRow[]): number {
   let total = 0
   for (const node of nodes) {

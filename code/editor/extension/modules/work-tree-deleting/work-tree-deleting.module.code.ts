@@ -9,6 +9,7 @@ import {
 import { initiativeDelete } from "akasha/command/pages/initiative/delete/initiative-delete.command.ts"
 import { initiativeDeleteIntent } from "akasha/command/pages/initiative/delete-intent/initiative-delete-intent.command.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
 const INTENT_SLUG = initiativeDeleteIntent.slug
 
