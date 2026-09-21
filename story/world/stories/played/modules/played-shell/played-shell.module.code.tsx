@@ -8,14 +8,12 @@ import {
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { usePanelsDrawn } from "akasha/story/game/panel/modules/panel-loading/panel-loading.module.code.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
 import { StorySoFar } from "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx"
 import { useGameBeside } from "akasha/story/world/stories/played/modules/game-beside/game-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
-import {
-  PlayedPanels,
-  panelsAsked,
-} from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
+import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import {
   PLAYED_CHAPTER_PAGE_TYPE_SLUG,
   PLAYED_CHAPTER_STORY_KEY,
@@ -89,6 +87,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const display = beside.kind === "read" ? beside.beside.display : null
   const state = beside.kind === "read" ? beside.beside.state : null
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
+  const shown = usePanelsDrawn(beside.kind === "read" ? beside.beside.panels : [])
 
   const modules = useMemo(() => panelsDrawnHere(display?.modules ?? null), [display])
   const runTurns = useMemo(() => playedTurnsOf(tail.drawn, prose), [tail, prose])
@@ -108,8 +107,8 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   if (chapters.isLoading || turns.isLoading) return null
   if (tail.drawn.length === 0) return null
 
-  const hasPanels = panelsAsked(modules)
-  const panels = <PlayedPanels modules={modules} envelope={envelope} />
+  const hasPanels = shown.length > 0
+  const panels = <PlayedPanels shown={shown} envelope={envelope} />
 
   return (
     <div className={hasPanels ? WIDE_PAGE : NARROW_PAGE}>
