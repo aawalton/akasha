@@ -12,7 +12,7 @@ import {
   gatherTriage,
   readDeployedBuildId,
 } from "akasha/temper/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import {
   loadErrorCursor,
   saveErrorCursor,

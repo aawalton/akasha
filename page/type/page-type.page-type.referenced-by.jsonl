@@ -517,7 +517,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/character/temper-skill-point/temper-skill-point.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/character/temper-weapon-bar/temper-weapon-bar.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/character/thing/temper-character-thing.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/eso-declaration/eso-opt-in-list/eso-opt-in-list.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/eso/declaration/eso-opt-in-list/eso-opt-in-list.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/holdings/temper-guild-trader/temper-guild-trader.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts"}

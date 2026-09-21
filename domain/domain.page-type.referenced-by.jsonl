@@ -83,7 +83,7 @@
 {"propertySlug":"extends-type","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}
 {"propertySlug":"extends-type","path":"persona/origin-kind/origin-kind.page-type.ts","id":"01a05361-6286-7dcd-a5b1-16a97d9c1932"}
 {"propertySlug":"extends-type","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
-{"propertySlug":"extends-type","path":"temper/eso-declaration/eso-opt-in-list/eso-opt-in-list.page-type.ts","id":"01a081b0-6ef0-79f7-8191-4b78fb717423"}
+{"propertySlug":"extends-type","path":"temper/eso/declaration/eso-opt-in-list/eso-opt-in-list.page-type.ts","id":"01a081b0-6ef0-79f7-8191-4b78fb717423"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts"}
@@ -586,10 +586,12 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment-kind/temper-equipment-kind.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment/temper-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/errors-triage/temper-errors-triage.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-declaration/eso-opt-in-list/eso-opt-in-list.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-declaration/temper-eso-declaration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-type/temper-eso-type.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/declaration/eso-opt-in-list/eso-opt-in-list.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/declaration/temper-eso-declaration.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/path/temper-eso-path.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/temper-eso.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/formula-framework/temper-formula-framework.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts"}
@@ -611,7 +613,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lccc/temper-lccc.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lorebook/temper-lorebook.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lost-treasure/temper-lost-treasure.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lua-runner/temper-lua-runner.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/narrow/temper-narrow.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion-skills-morphs-ui/temper-player-completion-skills-morphs-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts"}
@@ -620,7 +621,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-economics-ui/temper-player-economics-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-inventory-management-ui/temper-player-inventory-management-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/progress/temper-progress.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/saved-variable/temper-saved-variable.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/settings-panel/temper-settings-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/shopping/temper-shopping.domain.ts"}

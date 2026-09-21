@@ -145,9 +145,9 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/addon-build/modules/lua-build-command/lua-build-command.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso-declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts"}

@@ -15,9 +15,9 @@ import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.c
 import { numSaid } from "akasha/command/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 import { temperInventoryMasterConsumableTrace as page } from "akasha/command/pages/temper/inventory/master/consumable-trace/temper-inventory-master-consumable-trace.command.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { savedVariablesRootSchema } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
-import { luaArrayOrEmpty } from "akasha/temper/saved-variable/modules/lua-array/lua-array.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
+import { savedVariablesRootSchema } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
+import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
 
 const INVENTORY_LUA = "TemperInventory.lua"

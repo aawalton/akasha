@@ -1,5 +1,5 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
 
 const SAVED_VARIABLES_TOP_LEVEL = "TemperCatalog_SavedVariables"

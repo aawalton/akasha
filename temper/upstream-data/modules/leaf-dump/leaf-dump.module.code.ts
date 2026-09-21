@@ -1,5 +1,5 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
-import { luaNumberString } from "akasha/temper/lua-runner/modules/lua-number-string/lua-number-string.module.code.ts"
+import { luaNumberString } from "akasha/temper/eso/lua-runner/modules/lua-number-string/lua-number-string.module.code.ts"
 
 const NUMERIC_KEY = /^-?\d+(\.\d+)?$/
 

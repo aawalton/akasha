@@ -1,6 +1,6 @@
 import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { savedVariablesRootSchema } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
+import { savedVariablesRootSchema } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import type { z } from "zod"
 
 const FILE_NAME = "TemperInventory.lua"
