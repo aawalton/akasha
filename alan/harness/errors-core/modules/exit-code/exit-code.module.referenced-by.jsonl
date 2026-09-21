@@ -102,7 +102,6 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/music/transfer/music-transfer.command.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/music/upcoming/music-upcoming.command.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/music/volume/music-volume.command.test.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/refresh/attribute/refresh-attribute.command.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.test.ts"}

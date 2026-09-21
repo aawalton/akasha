@@ -73,7 +73,6 @@
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/page/secret/set/page-secret-set.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/page/secret/show/page-secret-show.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/read/read.command.code.ts"}
-{"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/refresh/attribute/refresh-attribute.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/refresh/message/refresh-message.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/refresh/persona/refresh-persona.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts"}

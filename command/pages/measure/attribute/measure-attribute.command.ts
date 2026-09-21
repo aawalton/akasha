@@ -10,7 +10,8 @@ export const measureAttribute = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each total is read off the attribute's page rather than worked out here.",
+      statement:
+        "Each total is added up over the days Alan tracked rather than read off the attribute's page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,7 +31,7 @@ export const measureAttribute = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A level is read from the attribute's level property rather than worked out here.",
+      statement: "A level is worked out from the total by the ladder the level property carries.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,10 +57,6 @@ export const measureAttribute = {
       decisionKind: "decision-kind/departure",
       statement:
         "An attribute with no total is left out of the lines rather than shown at level 0.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "A run adds no day up and asks no store what Alan tracked.",
     },
     {
       decisionKind: "decision-kind/departure",

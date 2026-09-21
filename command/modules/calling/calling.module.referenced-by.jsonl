@@ -355,8 +355,6 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/read/modules/long-answering/long-answering.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/read/read.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/read/read.command.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/refresh/attribute/refresh-attribute.command.code.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/refresh/attribute/refresh-attribute.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/refresh/message/refresh-message.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/refresh/message/refresh-message.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/refresh/persona/refresh-persona.command.code.ts"}
