@@ -5,7 +5,7 @@ export const akasha = {
   type: "page-type/seat",
   slug: "akasha",
   persona: "persona/akasha",
-  assignmentSlug: "domain/akasha",
+  assignmentSlug: "initiative/akasha-findings-to-zero",
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
