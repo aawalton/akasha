@@ -4,6 +4,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWickedC
   id: "01a0a6c5-090d-72b2-b6dc-000f373a9586",
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-every-day-more-wicked-commentary",
+  grade: "C",
   ownLength: 0.79215,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
