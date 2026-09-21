@@ -19,7 +19,6 @@ export const temperAddon = {
     "relation-property/bundle-entry",
     "relation-property/eso-interfaces",
     "relation-property/lua-modules",
-    "domain/temper-addon-library",
     "domain/temper-addon-library-type",
     "domain/temper-addon-build",
     "domain/temper-addon-log",
