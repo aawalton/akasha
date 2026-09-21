@@ -38,5 +38,6 @@ export const theTower = {
     "game-mechanic/ment-atk",
     "game-mechanic/ment-attack",
     "game-mechanic/phys-attack",
+    "game-mechanic/leveling",
   ],
 } as const satisfies Game

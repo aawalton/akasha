@@ -24,6 +24,7 @@ export const gameMechanic = {
     "game-mechanic/ment-atk",
     "game-mechanic/ment-attack",
     "game-mechanic/phys-attack",
+    "game-mechanic/leveling",
   ],
   decisions: [
     {

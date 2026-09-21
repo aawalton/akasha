@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/focus-max/focus-max.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/hp-max/hp-max.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/initiative/initiative.game-mechanic.ts"}
+{"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/leveling/leveling.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/ment-atk/ment-atk.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/ment-attack/ment-attack.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/ment-def/ment-def.game-mechanic.ts"}
