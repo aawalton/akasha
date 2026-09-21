@@ -8,11 +8,6 @@ export const nimueImageManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every image akasha holds sits beside its page as a file property.",
-      workingMemory:
-        "Met for every image page: `file-property/image-bytes` is an uncommitted png beside each, written by plain copy since the guard lets an ignored path through, and a jpg is converted on the way in. Still elsewhere: 167 objects in the SeaweedFS bucket `agent-sessions` under `images/`, 38 of them persona covers that are pages already, which `/api/image/:imageId` serves; and 80 committed PNGs beside persona pages as `desktop-wallpaper` and `mobile-wallpaper`, byte-identical to image pages.",
-    },
-    {
       statement: "No two images akasha holds are the same bytes.",
       workingMemory:
         "Among image pages it holds by construction: a slug is `image-` and the first sixteen hex of the sha256 of the bytes, so a second copy is the same page. Still doubled: the 80 committed PNGs beside persona pages, each byte-identical to an image page, which go once `desktop-wallpaper` and `mobile-wallpaper` are relations to images; and 38 persona covers held again in the object store.",
