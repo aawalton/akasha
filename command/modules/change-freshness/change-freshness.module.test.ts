@@ -8,6 +8,7 @@ import { modulePropertyGroup } from "akasha/code/module-property-group/module-pr
 import { scripting } from "akasha/code/shell-script/properties/scripting.module-property-group.ts"
 import {
   commitNamed,
+  groupsWrote,
   machineWrote,
   movedOnDisk,
   PUT_BACK,
@@ -344,13 +345,25 @@ test("a path a machine generates is one a machine wrote, though no group writes 
   expect([...machineWrote(groupsAt(root), [GENERATED_AT, AT])]).toEqual([GENERATED_AT])
 })
 
-test("a path a machine generates is held neither to a reading nor to the commit named", () => {
+test("a path a machine generates is held to the commit named", () => {
   const root = repoWithGroup()
   const read = headOf(root)
   writeFileSync(join(root, GENERATED_AT), "generated again\n")
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "meanwhile"])
+  const said = unfresh(root, read, headOf(root), [GENERATED_AT], [], "tail", groupsAt(root))
+  expect(said?.join("\n") ?? "").toContain(GENERATED_AT)
+})
+
+test("a reading of a path a machine generates is held to nothing", () => {
+  const root = repoWithGroup()
+  writeFileSync(join(root, GENERATED_AT), "generated again\n")
   const held = [asRead(GENERATED_AT, blobIdOf(bytes("generated once\n")))]
-  const said = unfresh(root, read, headOf(root), [GENERATED_AT], held, "tail", groupsAt(root))
-  expect(said).toBe(null)
+  expect(unfresh(root, null, headOf(root), [], held, "tail", groupsAt(root))).toBe(null)
+})
+
+test("the file a group writes is the only path of the three a group wrote", () => {
+  const root = repoWithGroup()
+
+  expect([...groupsWrote(groupsAt(root), [GROUP_AT, GROUP_CODE, GENERATED_AT])]).toEqual([GROUP_AT])
 })

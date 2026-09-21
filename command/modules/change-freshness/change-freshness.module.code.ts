@@ -11,6 +11,7 @@ import {
   type Facing,
   facingOn,
   generatedIn,
+  writerAt,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 
 const NONE: ReadonlySet<string> = new Set()
@@ -54,23 +55,44 @@ function movedBetween(
   return moved.sort()
 }
 
+export type Machine = {
+  readonly wrote: ReadonlySet<string>
+  readonly grouped: ReadonlySet<string>
+}
+
+const NOTHING: Machine = { wrote: NONE, grouped: NONE }
+
 export function machineWrote(given: Facing, paths: Iterable<string>): ReadonlySet<string> {
   const made = new Set<string>()
   for (const one of paths) if (generatedIn(given, one)) made.add(one)
   return made
 }
 
-function groupWrote(root: string, paths: readonly string[]): ReadonlySet<string> {
-  if (paths.length === 0) return NONE
+export function groupsWrote(given: Facing, paths: Iterable<string>): ReadonlySet<string> {
+  const made = new Set<string>()
+  for (const one of paths) {
+    try {
+      if (writerAt(given, one) !== null) made.add(one)
+    } catch {}
+  }
+  return made
+}
+
+function machineIn(given: Facing, paths: readonly string[]): Machine {
+  return { wrote: machineWrote(given, paths), grouped: groupsWrote(given, paths) }
+}
+
+function groupWrote(root: string, paths: readonly string[]): Machine {
+  if (paths.length === 0) return NOTHING
   try {
-    return machineWrote(facingOn(root), paths)
+    return machineIn(facingOn(root), paths)
   } catch {
-    return NONE
+    return NOTHING
   }
 }
 
 function unfreshPast(
-  machine: ReadonlySet<string>,
+  machine: Machine,
   root: string,
   named: string | null,
   base: string,
@@ -78,7 +100,7 @@ function unfreshPast(
   asRead: readonly Reading[],
   tail: string
 ): readonly string[] | null {
-  const held = paths.filter((one) => !machine.has(one))
+  const held = paths.filter((one) => !machine.grouped.has(one))
   const moved = named === null || named === base ? [] : movedBetween(root, named, base, held)
   if (named !== null && moved.length > 0) {
     return [
@@ -90,7 +112,7 @@ function unfreshPast(
   const stirred = movedOnDisk(
     root,
     base,
-    asRead.filter((one) => !machine.has(one.path))
+    asRead.filter((one) => !machine.wrote.has(one.path))
   )
   if (stirred.length === 0) return null
   return [`${stirred.join(", ")} — what is on disk is not the body you read, ${PUT_BACK}`, tail]
@@ -101,9 +123,9 @@ export function machineOver(
   paths: readonly string[],
   asRead: readonly Reading[],
   given: Facing | null
-): ReadonlySet<string> {
+): Machine {
   const pathed = [...paths, ...asRead.map((one) => one.path)]
-  return given === null ? groupWrote(root, pathed) : machineWrote(given, pathed)
+  return given === null ? groupWrote(root, pathed) : machineIn(given, pathed)
 }
 
 export function unfresh(
@@ -114,7 +136,7 @@ export function unfresh(
   asRead: readonly Reading[],
   tail: string,
   given: Facing | null = null,
-  machine: ReadonlySet<string> | null = null
+  machine: Machine | null = null
 ): readonly string[] | null {
   const held = machine ?? machineOver(root, paths, asRead, given)
   return unfreshPast(held, root, named, base, paths, asRead, tail)

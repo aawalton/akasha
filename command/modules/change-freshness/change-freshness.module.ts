@@ -54,11 +54,20 @@ export const changeFreshness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A path a machine generates is held neither to a reading nor to the commit a change names.",
+        "A path a machine generates is held to the commit a change names though not to a reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path a group writes is held neither to a reading nor to the commit named.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "A path a machine generates carries no work of an agent's to be written over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A body a machine generates whole carries rows of other pages, which a stale body puts back.",
     },
     {
       decisionKind: "decision-kind/departure",
