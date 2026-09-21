@@ -54,6 +54,11 @@ export const pointBookLinksAtSections = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a body of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name reaching no section is tried again under the prefix a numbered section is slugged with.",
+    },
   ],
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 120,

@@ -35,12 +35,15 @@ const BETA_PAGE = `${SECTIONS}/notes/beta.${bookSection.slug}.ts`
 
 const GAMMA_PAGE = `${SECTIONS}/notes/gamma.${bookSection.slug}.ts`
 
+const NUMBERED_PAGE = `${SECTIONS}/notes/book-chapter-001-delta.${bookSection.slug}.ts`
+
 const TWIN_PAGE = `${SECTIONS}/other/gamma.${bookSection.slug}.ts`
 
 const PAGES: Readonly<Record<string, Readonly<Record<string, string>>>> = {
   [ALPHA_PAGE]: { slug: "alpha", sectionOf: IN_BOOK },
   [BETA_PAGE]: { slug: "beta", sectionOf: IN_BOOK },
   [GAMMA_PAGE]: { slug: "gamma", sectionOf: IN_BOOK },
+  [NUMBERED_PAGE]: { slug: "book-chapter-001-delta", sectionOf: IN_BOOK },
 }
 
 const TWINNED: Readonly<Record<string, Readonly<Record<string, string>>>> = {
@@ -111,6 +114,18 @@ test("a body holding no such link is answered as nothing to write", () => {
   const world = worldOver({}, PAGES)
 
   expect(pointedIn(sectionsIn(world), ALPHA_TEXT, "see [beta](notes/beta.md)\n")).toBeNull()
+})
+
+test("a name reaching no section is tried again under the chapter prefix", () => {
+  const world = worldOver({}, PAGES)
+
+  const said = pointedIn(
+    sectionsIn(world),
+    ALPHA_TEXT,
+    "see [delta](notes/001-delta.book-chapter.md)\n"
+  )
+
+  expect(said).toBe(`see [delta](${addressOf("book-chapter-001-delta")})\n`)
 })
 
 test("a path climbing out of its folder reaches the folder above", () => {

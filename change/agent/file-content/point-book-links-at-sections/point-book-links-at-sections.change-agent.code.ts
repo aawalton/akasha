@@ -16,7 +16,11 @@ import { textAt } from "akasha/page/modules/value-reading/page-value-reading.mod
 
 const AT_MOST = "at-most"
 
-const SPELLED = ".book-chapter.md"
+const CHAPTER = "book-chapter"
+
+const SPELLED = `.${CHAPTER}.md`
+
+const PREFIX = `${CHAPTER}-`
 
 const KINDS: readonly string[] = ["*.md"]
 
@@ -122,18 +126,28 @@ function pageBeside(path: string): string {
   return cut === -1 ? path : `${path.slice(0, cut)}${PAGE_ENDING}`
 }
 
+function namesTried(target: string): readonly string[] {
+  const at = target.lastIndexOf(APART_BY)
+  const folder = at === -1 ? "" : target.slice(0, at + 1)
+  return [target, `${folder}${PREFIX}${nameOf(target)}`]
+}
+
 function reachedBy(
   sections: Sections,
   path: string,
   target: string,
   book: string | null
 ): string | null {
-  const beside = `${joined(folderOf(path), target)}${PAGE_ENDING}`
-  const found = sections.at.get(beside)
-  if (found !== undefined) return found
+  for (const one of namesTried(target)) {
+    const found = sections.at.get(`${joined(folderOf(path), one)}${PAGE_ENDING}`)
+    if (found !== undefined) return found
+  }
   if (book === null) return null
-  const held = sections.named.get(`${book}${APART_BY}${nameOf(target)}`)
-  return held !== undefined && held.length === 1 ? (held[0] ?? null) : null
+  for (const one of namesTried(target)) {
+    const held = sections.named.get(`${book}${APART_BY}${nameOf(one)}`)
+    if (held !== undefined && held.length === 1) return held[0] ?? null
+  }
+  return null
 }
 
 export async function pointBookLinksAtSections(
