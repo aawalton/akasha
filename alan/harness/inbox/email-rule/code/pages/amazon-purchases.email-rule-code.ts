@@ -23,6 +23,7 @@ export const amazonPurchases = {
         "return request confirmed",
         "advance refund issued",
         "partial refund confirmed",
+        "refund on order",
         "cancelled successfully",
         "saved additional money on your amazon pre-order",
       ],
