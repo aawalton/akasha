@@ -1,0 +1,12 @@
+import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
+
+export const creatingAPropertyPageDemandsTheIdThatPageCreationForbidsItToState = {
+  id: "01a0c501-2672-7cfa-9ec8-e666dd26e93c",
+  type: "page-type/finding",
+  slug: "creating-a-property-page-demands-the-id-that-page-creation-forbids-it-to-state",
+  domain: "page-type/page",
+  claim:
+    "`add-page-property` refuses a body that states no `id`, and takes no `id` of its own, so the only way past it is for the agent to mint a UUIDv7 by hand and write it into the page. The id property decides the opposite — that a page being created states no id — and every other way of creating a page mints one. An agent following the decision is refused, and an agent following the refusal writes by hand the one value the repository generates.",
+  evidence:
+    '`page/properties/id.text-property.ts` states `generator: "generator-kind/uuid-v7"` and decides `A page being created states no id of its own.`\n\nThat decision holds for `add-file`. Creating `domain/finding/pages/a-folder-move-rewrites-one-half-of-a-fixture-whose-two-literals-must-agree.finding.ts` from a body whose first property was `type` and which stated no id landed at `7871d0366d3`, and the landing minted the id itself, filing `.index/page/id/80/01a0c4ff-d2f8-72ad-a71e-838de5d20a80.jsonl`. `add-file` does take an `id`, so an agent may hand one over, but need not.\n\n`add-page-property` does not. Asked for its keys it answers `at`, `body`, `part-of`, `on`, `required`, `many`, `default` — there is no `id` among them. Handed a body stating no id it refuses with `temper/addon/properties/addon-library.boolean-property.ts — does not state \\`id\\`, which \\`page-type/boolean-property\\` requires`. The property landed only once an agent minted a UUIDv7 by hand, and `temper/addon/properties/addon-library.boolean-property.ts` now carries `id: "01a0c4d0-afa1-7690-adee-dfdbfa46efd2"` written that way.\n\nWhat makes it costly rather than merely odd: a hand-minted UUIDv7 carries a timestamp the agent invented, so the one field whose whole point is that nothing chooses it is the one field an agent chooses. The decision is read first — the id property\'s page is owed over any page stating the property — so the agent meets the decision, writes the body the decision describes, and is then refused by the change.\n\nThe condition a mend would meet: `add-page-property` mints the id as `add-file` does, or the id property records that a page created by this one change states its own id.',
+} as const satisfies Finding
