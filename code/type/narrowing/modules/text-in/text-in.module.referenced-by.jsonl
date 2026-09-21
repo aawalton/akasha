@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"person/modules/enrolment/person-enrolment.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/kofi/stripe/modules/movement/movement.module.code.ts"}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

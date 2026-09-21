@@ -21,6 +21,7 @@ export const wanderingInnWikiWeb = {
     "app-routes/wandering-inn-wiki-web-routes",
     "manifest/wandering-inn-wiki-web-manifests",
     "module/innworld-reader",
+    "module/innworld-reading",
     "stylesheet/wandering-inn-wiki-web-look",
   ],
   toolReached: ["react-dom"],
