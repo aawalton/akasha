@@ -134,6 +134,18 @@ export const change = {
       statement:
         "One root manifest is the only manifest, so no change adds a manifest or a way into one.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No edit a change lands reaches a page that change does not name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A derived file a landing writes is derived from the change's own files alone.",
+    },
+    {
+      decisionKind: "decision-kind/upkeep",
+      statement: "A derived file left stale that way is mended by a refresh rather than a landing.",
+    },
   ],
   directives: [
     {
