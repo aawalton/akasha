@@ -5,7 +5,7 @@ export const whatMyEnvelopeAllowedInMay2026 = {
   type: "page-type/all-about-alan-topic",
   slug: "what-my-envelope-allowed-in-may-2026",
   title: "What My Envelope Allowed In May 2026",
-  definition: "the affordability rule run on my baseline as it read on 2026-05-11",
+  definition: "the affordability rule run on my baseline as it read on 11 May 2026",
   parents: ["all-about-alan-topic/starting-once-against-committing-to-it"],
   related: ["all-about-alan-topic/how-hard-a-thing-counts-as"],
   settled:
