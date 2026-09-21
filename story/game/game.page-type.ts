@@ -116,10 +116,6 @@ export const game = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game's rulebook settles the effect of an action.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
         "A game character is a character a player runs rather than a character the game runs.",
     },
