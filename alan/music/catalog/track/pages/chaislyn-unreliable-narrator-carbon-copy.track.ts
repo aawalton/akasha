@@ -4,6 +4,7 @@ export const chaislynUnreliableNarratorCarbonCopy = {
   id: "01a0b9ec-95bc-7c6b-a076-a3dcb146d000",
   type: "page-type/track",
   slug: "chaislyn-unreliable-narrator-carbon-copy",
+  grade: "A",
   ownLength: 2.8636333333333335,
   ownProgress: 0,
   partOfCollections: ["release/chaislyn-unreliable-narrator"],
