@@ -1,8 +1,8 @@
 import { existsSync } from "node:fs"
 import { join, relative } from "node:path"
-import { bindings } from "akasha/code/eso-addon/properties/bindings.file-property.ts"
+import { bindings } from "akasha/temper/addon/properties/bindings.file-property.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { readEsoAddonPage } from "akasha/temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
+import { readTemperAddonPage } from "akasha/temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
 
 export const GAME_METADATA_DIR = "metadata"
 
@@ -20,7 +20,7 @@ function metadataFileIn(dir: string, named: string): string | null {
 export async function addonBindingsPathIn(repoRoot: string, dir: string): Promise<string | null> {
   const found = metadataFileIn(dir, BINDINGS_FILE_NAME)
   if (found !== null) return found
-  const page = readEsoAddonPage(repoRoot, dir)
+  const page = readTemperAddonPage(repoRoot, dir)
   if (page === null || page.bindings === null) return null
   throw new Error(
     `addonBindingsPathIn: the page in ${dir} claims a ${BINDINGS_FILE_NAME}, and no such file is beside that page or under ${GAME_METADATA_DIR}/`

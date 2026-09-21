@@ -14,4 +14,4 @@
 {"propertySlug":"import","fileName":"destinations-pins-stores.module.code.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-slash-command/destinations-pins-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"destinations-pins-stores.module.code.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"destinations-pins-stores.module.code.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/navigation-addon/temper-navigation-addon.eso-addon.ts","id":"01a06269-2b19-7da5-9012-2ba4d1bba677"}
+{"propertySlug":"parts","path":"temper/addon/navigation-addon/temper-navigation-addon.temper-addon.ts","id":"01a06269-2b19-7da5-9012-2ba4d1bba677"}

@@ -28,13 +28,13 @@ const CHOSEN = saidForPart([runWindow], page.arguments[0]?.argument ?? "")
 
 const NO_WINDOW = "5y"
 
-const ADDON = "eso-addon"
+const ADDON = "temper-addon"
 
 const ADDON_SLUG = "held-addon"
 
-const ADDON_PAGE = "temper/held-addon/held-addon.eso-addon.ts"
+const ADDON_PAGE = "temper/held-addon/held-addon.temper-addon.ts"
 
-const ADDON_ROWS = "temper/held-addon/held-addon.eso-addon.entries.uncommitted.jsonl"
+const ADDON_ROWS = "temper/held-addon/held-addon.temper-addon.entries.uncommitted.jsonl"
 
 const WHOLE = "service-workstation"
 

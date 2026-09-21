@@ -5,7 +5,7 @@ export const libCharacterKnowledge = {
   type: "page-type/held-addon",
   slug: "lib-character-knowledge",
   addonName: "LibCharacterKnowledge",
-  esoAddon: "eso-addon/temper-lib-character-knowledge",
+  esoAddon: "temper-addon/temper-lib-character-knowledge",
   addonKind: "library",
   heldBy: 13239,
   adjacents: ["held-addon/temper-crafting"],

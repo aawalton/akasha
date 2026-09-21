@@ -6,7 +6,7 @@ export const esoAddon = {
   slug: "eso-addon",
   propertySlug: "eso-addon",
   definition: "the addon page the port holds",
-  targetPageType: "page-type/eso-addon",
+  targetPageType: "page-type/temper-addon",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

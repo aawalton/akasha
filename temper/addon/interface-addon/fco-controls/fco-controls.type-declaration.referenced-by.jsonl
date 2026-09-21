@@ -2,4 +2,4 @@
 {"propertySlug":"import","fileName":"fco-controls.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-panel-features/fco-panel-features.module.code.ts"}
 {"propertySlug":"import","fileName":"fco-controls.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-settings-menu/fco-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"fco-controls.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-skills/fco-skills.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/interface-addon/temper-interface-addon.eso-addon.ts","id":"01a060e7-1bea-7ec8-9343-b0e442437b98"}
+{"propertySlug":"parts","path":"temper/addon/interface-addon/temper-interface-addon.temper-addon.ts","id":"01a060e7-1bea-7ec8-9343-b0e442437b98"}

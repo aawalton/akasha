@@ -7,4 +7,4 @@
 {"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-header/lib-sets-core-header.module.code.ts"}
 {"propertySlug":"import","fileName":"order-list-box-lam-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-shifter-box/modules/shifter-public-api/shifter-public-api.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.eso-addon.ts","id":"01a06207-bdfa-77c3-9c7b-c125ea77a269"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.temper-addon.ts","id":"01a06207-bdfa-77c3-9c7b-c125ea77a269"}

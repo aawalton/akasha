@@ -7,4 +7,4 @@
 {"propertySlug":"import","fileName":"lib-sets-constant-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-debug-casts/lib-sets-debug-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-constant-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-constant-shapes.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-settings-state/lib-sets-tip-settings-state.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.eso-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.temper-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}

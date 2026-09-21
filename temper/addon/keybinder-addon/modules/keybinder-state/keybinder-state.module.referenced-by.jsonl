@@ -6,4 +6,4 @@
 {"propertySlug":"import","fileName":"keybinder-state.module.code.ts","path":"temper/addon/keybinder-addon/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"keybinder-state.module.code.ts","path":"temper/addon/keybinder-addon/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
 {"propertySlug":"import","fileName":"keybinder-state.module.code.ts","path":"temper/addon/keybinder-addon/modules/keybinder-share/keybinder-share.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/keybinder-addon/temper-keybinder-addon.eso-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
+{"propertySlug":"parts","path":"temper/addon/keybinder-addon/temper-keybinder-addon.temper-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}

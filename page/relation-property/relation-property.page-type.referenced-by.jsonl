@@ -74,9 +74,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/runner/properties/reached.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/target/subtype/properties/change-target-subtype-parent.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"check/model/properties/model-tests.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/eso-addon/properties/bundle-entry.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/eso-addon/properties/eso-interfaces.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/eso-addon/properties/lua-modules.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/held-addon/properties/adjacents.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/held-addon/properties/eso-addon.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-app/properties/build-script.relation-property.ts"}
@@ -140,7 +137,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/wallpaper-notification/properties/notification-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-backer.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/panel/properties/drawn-in.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/game-attributes.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/game-default-dice.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/properties/game-mechanics.relation-property.ts"}
@@ -152,6 +148,9 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/properties/world.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/read-chapter-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/written/chapters/properties/written-chapter-story.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/bundle-entry.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/eso-interfaces.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/lua-modules.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/world/temper-dungeon/properties/quest-giver.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/character-roles.relation-property.ts"}

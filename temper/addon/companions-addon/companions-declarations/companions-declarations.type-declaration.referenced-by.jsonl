@@ -10,4 +10,4 @@
 {"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-progress/companions-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-selector/companions-selector.module.code.ts"}
 {"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
+{"propertySlug":"parts","path":"temper/addon/companions-addon/temper-companions-addon.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}

@@ -84,4 +84,4 @@
 {"propertySlug":"import","fileName":"lib-sets-casts.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-set-data-text-custom/lib-sets-tip-set-data-text-custom.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-casts.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-settings-lam/lib-sets-tip-settings-lam.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-casts.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-veteran-breakdown/lib-sets-tip-veteran-breakdown.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.eso-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.temper-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}

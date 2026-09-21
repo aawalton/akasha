@@ -226,7 +226,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/component-property-group/component-property-group.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/component/component.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/container-recipe/container-recipe.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/eso-addon/eso-addon.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/eso-interface/eso-interface.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/file-kind-domain/file-kind-domain.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/file-purpose/file-purpose.page-type.ts"}
@@ -383,7 +382,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/game.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/mechanic/game-mechanic.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/panel/game-panel.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/game/panel/panel-place/panel-place.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/builds/story-build.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/characters/world-character.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/decisions/story-decision.page-type.ts"}
@@ -420,6 +418,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/stories/written/story-written.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/world.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/addon/temper-addon.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"}

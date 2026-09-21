@@ -22,7 +22,7 @@ const GIVEN: Given = {
 const NESTED = "TemperNested"
 const NESTED_LEAF = "temper-nested-addon"
 const NESTED_DIR = `akasha/temper/${NESTED_LEAF}`
-const NESTED_PAGE = `${NESTED_DIR}/${NESTED_LEAF}.eso-addon.ts`
+const NESTED_PAGE = `${NESTED_DIR}/${NESTED_LEAF}.temper-addon.ts`
 
 function fixtureFor(): string {
   const root = scratch.rootFor("temper-resolve-root-")
@@ -37,7 +37,7 @@ function fixtureFor(): string {
     join(nested, "package.json"),
     JSON.stringify({ name: `@akasha/${NESTED_LEAF}`, dependencies: {} })
   )
-  valueAlsoFiled(root, "eso-addon", [{ path: NESTED_PAGE, value: { slug: NESTED_LEAF } }])
+  valueAlsoFiled(root, "temper-addon", [{ path: NESTED_PAGE, value: { slug: NESTED_LEAF } }])
   return root
 }
 

@@ -21,4 +21,4 @@
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/characters-addon/modules/characters-trait-research/characters-trait-research.module.code.ts"}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/characters-addon/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/characters-addon/modules/characters-zone-completion/characters-zone-completion.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/characters-addon/temper-characters-addon.eso-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
+{"propertySlug":"parts","path":"temper/addon/characters-addon/temper-characters-addon.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

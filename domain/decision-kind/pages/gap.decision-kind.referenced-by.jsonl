@@ -405,7 +405,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.ts","id":"01a062d1-4a70-7b3c-9e21-6d0a51f4c7e8"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"decision-kind","path":"temper/addon/characters-addon/modules/characters-scribing-sources/characters-scribing-sources.module.ts","id":"01a062ed-39c9-700c-9df3-7f4288c3c504"}
-{"propertySlug":"decision-kind","path":"temper/addon/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
+{"propertySlug":"decision-kind","path":"temper/addon/companions-addon/temper-companions-addon.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-context-menu/housing-context-menu.module.ts","id":"01a06128-d5ca-706a-a06b-ee7f1746eb74"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-library-data-eu-1/housing-library-data-eu-1.module.ts","id":"01a06113-b7cf-7517-a675-86cd3606cdca"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-library-data-eu-2/housing-library-data-eu-2.module.ts","id":"01a06113-b7cf-7691-8127-82c12d1a84ff"}
@@ -416,7 +416,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-library-data-eu/housing-library-data-eu.module.ts","id":"01a06113-b7ce-77ca-bda6-f521aa196130"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-library-data-na/housing-library-data-na.module.ts","id":"01a06113-b7d1-7e85-b730-9398c3972952"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-ui-strings/housing-ui-strings.module.ts","id":"01a06128-d5d5-7969-b568-4feea14f801b"}
-{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/temper-housing-addon.eso-addon.ts","id":"01a06113-b7cb-7519-aaf3-198045bc75aa"}
+{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/temper-housing-addon.temper-addon.ts","id":"01a06113-b7cb-7519-aaf3-198045bc75aa"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.ts","id":"01a06275-c448-784f-b2c1-a28462d70542"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.ts","id":"01a0617b-4b73-706b-9bf0-e2b177ca28eb"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/modules/lib-sets-core-api-armor-weapon-equip-class/lib-sets-core-api-armor-weapon-equip-class.module.ts","id":"01a06231-8f1d-717e-ad62-dd5ee6472601"}

@@ -5,7 +5,7 @@ export const libAddonMenu = {
   type: "page-type/held-addon",
   slug: "lib-addon-menu",
   addonName: "LibAddonMenu-2.0",
-  esoAddon: "eso-addon/temper-lib-addon-menu",
+  esoAddon: "temper-addon/temper-lib-addon-menu",
   addonKind: "library",
   heldBy: 13212,
   adjacents: [

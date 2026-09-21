@@ -5,4 +5,4 @@
 {"propertySlug":"import","fileName":"custom-menu-types.module.code.ts","path":"temper/addon/library/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-types.module.code.ts","path":"temper/addon/library/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-types.module.code.ts","path":"temper/addon/library/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-custom-menu/temper-lib-custom-menu.eso-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}

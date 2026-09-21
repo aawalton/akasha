@@ -5,7 +5,7 @@ export const temperErrors = {
   type: "page-type/held-addon",
   slug: "temper-errors",
   addonName: "TemperErrors",
-  esoAddon: "eso-addon/temper-errors-addon",
+  esoAddon: "temper-addon/temper-errors-addon",
   addonKind: "native",
   heldBy: 13133,
   tiClean: true,

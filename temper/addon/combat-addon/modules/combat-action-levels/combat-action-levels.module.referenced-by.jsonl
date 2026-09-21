@@ -5,4 +5,4 @@
 {"propertySlug":"import","fileName":"combat-action-levels.module.code.ts","path":"temper/addon/combat-addon/modules/combat-action-priority/combat-action-priority.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-action-levels.module.code.ts","path":"temper/addon/combat-addon/modules/combat-action-stacks/combat-action-stacks.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-action-levels.module.code.ts","path":"temper/addon/combat-addon/modules/combat-action-types/combat-action-types.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
+{"propertySlug":"parts","path":"temper/addon/combat-addon/temper-combat-addon.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

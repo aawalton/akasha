@@ -74,7 +74,7 @@ function addonIn(root: string, name: string, held: Held): string {
   const dir = join(root, at)
   const value =
     held.entry === null ? { slug: held.folder } : { slug: held.folder, bundleEntry: held.entry }
-  valueAlsoFiled(root, "eso-addon", [{ path: `${at}/${held.folder}.eso-addon.ts`, value }])
+  valueAlsoFiled(root, "temper-addon", [{ path: `${at}/${held.folder}.temper-addon.ts`, value }])
   if (held.entry !== null) {
     const page = `${at}/${held.entry}/${held.entry}.module.ts`
     listedAndValued(root, "module", held.entry, page, idFor())
@@ -87,8 +87,8 @@ function addonIn(root: string, name: string, held: Held): string {
   )
   const names = held.entry === null ? "" : `  bundleEntry: "${held.entry}",\n`
   writeFileSync(
-    join(dir, `${held.folder}.eso-addon.ts`),
-    `export const page = {\n  pageTypeSlug: "eso-addon",\n  slug: "${held.folder}",\n${names}}\n`
+    join(dir, `${held.folder}.temper-addon.ts`),
+    `export const page = {\n  pageTypeSlug: "temper-addon",\n  slug: "${held.folder}",\n${names}}\n`
   )
   if (held.declares !== undefined) {
     writeFileSync(join(dir, `${held.folder}-globals.d.ts`), held.declares)

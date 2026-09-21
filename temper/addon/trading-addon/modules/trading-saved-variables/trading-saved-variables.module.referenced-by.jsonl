@@ -5,4 +5,4 @@
 {"propertySlug":"import","fileName":"trading-saved-variables.module.code.ts","path":"temper/addon/trading-addon/modules/trading-saved-search-store/trading-saved-search-store.module.code.ts"}
 {"propertySlug":"import","fileName":"trading-saved-variables.module.code.ts","path":"temper/addon/trading-addon/modules/trading-sell-price-store/trading-sell-price-store.module.code.ts"}
 {"propertySlug":"import","fileName":"trading-saved-variables.module.code.ts","path":"temper/addon/trading-addon/trading-globals-declarations/trading-globals-declarations.type-declaration.d.ts"}
-{"propertySlug":"parts","path":"temper/addon/trading-addon/temper-trading-addon.eso-addon.ts","id":"01a06160-2a58-7de9-8f4a-dbca3806b485"}
+{"propertySlug":"parts","path":"temper/addon/trading-addon/temper-trading-addon.temper-addon.ts","id":"01a06160-2a58-7de9-8f4a-dbca3806b485"}

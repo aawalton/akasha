@@ -17,7 +17,7 @@ export const emberTemperFileStructure = {
       statement:
         "The page type an add-on is sits in temper, and every add-on temper ships is a page of it.",
       workingMemory:
-        "Not met. The page type is `eso-addon`, defined at `code/eso-addon/`, and `temper-addon` is a domain at `temper/addon/`. All 48 eso-addon pages in the repository are temper's, so nothing outside temper reads that page type. A page type carries one `pages` folder, so it is unsettled whether the 26 library add-ons share it with the 20 the player runs, or the library becomes a page type of its own.",
+        "Not met. The page type is `eso-addon`, defined at `temper/addon/`, and `temper-addon` is a domain at `temper/addon/`. All 48 eso-addon pages in the repository are temper's, so nothing outside temper reads that page type. A page type carries one `pages` folder, so it is unsettled whether the 26 library add-ons share it with the 20 the player runs, or the library becomes a page type of its own.",
     },
   ],
 } as const satisfies Initiative

@@ -24,7 +24,6 @@ export const code = {
     "page-type/component",
     "page-type/component-property-group",
     "page-type/container-recipe",
-    "page-type/eso-addon",
     "page-type/eso-interface",
     "page-type/file-kind-domain",
     "page-type/file-purpose",

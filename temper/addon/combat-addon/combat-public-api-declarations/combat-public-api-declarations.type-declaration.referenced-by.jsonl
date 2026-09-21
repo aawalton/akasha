@@ -15,4 +15,4 @@
 {"propertySlug":"import","fileName":"combat-public-api-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-public-api-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-public-api-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
+{"propertySlug":"parts","path":"temper/addon/combat-addon/temper-combat-addon.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

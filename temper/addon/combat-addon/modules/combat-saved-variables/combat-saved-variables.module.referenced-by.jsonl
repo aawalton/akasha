@@ -33,4 +33,4 @@
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/combat-addon/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/combat-addon/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
+{"propertySlug":"parts","path":"temper/addon/combat-addon/temper-combat-addon.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

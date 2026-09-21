@@ -1,7 +1,7 @@
 {"addonKind":"ported"}
 {"addonName":"TemperInterface"}
 {"adjacents":["held-addon/temper-hud","held-addon/lib-addon-menu-order-list-box","held-addon/lib-shifter-box"]}
-{"esoAddon":"eso-addon/temper-interface-addon"}
+{"esoAddon":"temper-addon/temper-interface-addon"}
 {"heldBy":15148}
 {"id":"01a081a1-dfaa-7a8a-bceb-a6e01d594896"}
 {"slug":"temper-interface"}

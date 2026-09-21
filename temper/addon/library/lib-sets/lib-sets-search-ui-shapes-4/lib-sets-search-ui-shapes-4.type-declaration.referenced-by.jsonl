@@ -9,4 +9,4 @@
 {"propertySlug":"import","fileName":"lib-sets-search-ui-shapes-4.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-shared-rowmenu/lib-sets-search-ui-shared-rowmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-search-ui-shapes-4.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-set-text-set-data-text-index/lib-sets-set-text-set-data-text-index.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-search-ui-shapes-4.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-casts/lib-sets-tip-casts.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.eso-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.temper-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}

@@ -6636,4 +6636,4 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/today/today.module.ts"}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
-{"propertySlug":"target-page-type","path":"code/eso-addon/properties/bundle-entry.relation-property.ts","id":"01a060e4-5184-70a7-91ff-37d5b94a8d86"}
+{"propertySlug":"target-page-type","path":"temper/addon/properties/bundle-entry.relation-property.ts","id":"01a060e4-5184-70a7-91ff-37d5b94a8d86"}

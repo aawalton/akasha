@@ -17,11 +17,11 @@ export const temperAddonsResolve = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An addon is a folder with an `eso-addon` page and an addon manifest.",
+      statement: "An addon is a folder with a `temper-addon` page and an addon manifest.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An addon is found by asking the index for every `eso-addon` page.",
+      statement: "An addon is found by asking the index for every `temper-addon` page.",
     },
     {
       decisionKind: "decision-kind/departure",

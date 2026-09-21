@@ -7,4 +7,4 @@
 {"propertySlug":"import","fileName":"inventory-bank-trace.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-bank-trace.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-bank-trace.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/items-addon/temper-items-addon.eso-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
+{"propertySlug":"parts","path":"temper/addon/items-addon/temper-items-addon.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

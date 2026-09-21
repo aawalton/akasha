@@ -2,4 +2,4 @@
 {"propertySlug":"import","fileName":"inventory-rules-dispatch-bank-paced-confirm.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"inventory-rules-dispatch-bank-paced-confirm.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.test.ts"}
 {"propertySlug":"import","fileName":"inventory-rules-dispatch-bank-paced-confirm.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-bank/inventory-rules-dispatch-bank.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/items-addon/temper-items-addon.eso-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
+{"propertySlug":"parts","path":"temper/addon/items-addon/temper-items-addon.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

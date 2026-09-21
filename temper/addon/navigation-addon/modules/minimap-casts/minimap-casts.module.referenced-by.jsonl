@@ -17,4 +17,4 @@
 {"propertySlug":"import","fileName":"minimap-casts.module.code.ts","path":"temper/addon/navigation-addon/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"minimap-casts.module.code.ts","path":"temper/addon/navigation-addon/modules/minimap-tweaks-shared/minimap-tweaks-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"minimap-casts.module.code.ts","path":"temper/addon/navigation-addon/modules/minimap-update/minimap-update.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/navigation-addon/temper-navigation-addon.eso-addon.ts","id":"01a06269-2b19-7da5-9012-2ba4d1bba677"}
+{"propertySlug":"parts","path":"temper/addon/navigation-addon/temper-navigation-addon.temper-addon.ts","id":"01a06269-2b19-7da5-9012-2ba4d1bba677"}

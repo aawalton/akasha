@@ -8,4 +8,4 @@
 {"propertySlug":"import","fileName":"zone-lib-state.module.code.ts","path":"temper/addon/library/lib-zone/modules/zone-public-api/zone-public-api.module.code.ts"}
 {"propertySlug":"import","fileName":"zone-lib-state.module.code.ts","path":"temper/addon/library/lib-zone/modules/zone-queries/zone-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"zone-lib-state.module.code.ts","path":"temper/addon/library/lib-zone/modules/zone-scan/zone-scan.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-zone/temper-lib-zone.eso-addon.ts","id":"01a061e7-9339-786d-9b8b-dd5d2b7a609c"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-zone/temper-lib-zone.temper-addon.ts","id":"01a061e7-9339-786d-9b8b-dd5d2b7a609c"}

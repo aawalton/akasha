@@ -5,7 +5,7 @@ export const temperHousing = {
   type: "page-type/held-addon",
   slug: "temper-housing",
   addonName: "TemperHousing",
-  esoAddon: "eso-addon/temper-housing-addon",
+  esoAddon: "temper-addon/temper-housing-addon",
   addonKind: "ported",
   heldBy: 15146,
   tiClean: true,

@@ -17,4 +17,4 @@
 {"propertySlug":"import","fileName":"lib-sets-core-casts-tables.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-perfected-sets/lib-sets-core-perfected-sets.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-core-casts-tables.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-set-checking/lib-sets-core-set-checking.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-core-casts-tables.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-set-type-queries/lib-sets-core-set-type-queries.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.eso-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.temper-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}

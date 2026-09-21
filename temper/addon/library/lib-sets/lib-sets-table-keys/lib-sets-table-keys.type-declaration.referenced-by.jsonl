@@ -21,4 +21,4 @@
 {"propertySlug":"import","fileName":"lib-sets-table-keys.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-shared-helpers/lib-sets-search-ui-shared-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-table-keys.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-shared-prefilter/lib-sets-search-ui-shared-prefilter.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-table-keys.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-drop-mechanic-collect/lib-sets-tip-drop-mechanic-collect.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.eso-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.temper-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}

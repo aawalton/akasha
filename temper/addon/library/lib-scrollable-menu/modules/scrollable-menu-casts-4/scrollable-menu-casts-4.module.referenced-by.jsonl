@@ -50,4 +50,4 @@
 {"propertySlug":"import","fileName":"scrollable-menu-casts-4.module.code.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-util-menu/scrollable-menu-util-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"scrollable-menu-casts-4.module.code.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-util-tooltip/scrollable-menu-util-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"scrollable-menu-casts-4.module.code.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-util-visible/scrollable-menu-util-visible.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-scrollable-menu/temper-lib-scrollable-menu.eso-addon.ts","id":"01a06275-c44a-71b2-a8e1-108e1c1dfd4b"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-scrollable-menu/temper-lib-scrollable-menu.temper-addon.ts","id":"01a06275-c44a-71b2-a8e1-108e1c1dfd4b"}

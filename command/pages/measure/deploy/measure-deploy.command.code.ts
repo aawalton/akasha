@@ -22,11 +22,11 @@ const WHOLE = "service-workstation"
 
 const KINDS: readonly string[] = [
   "container-recipe",
-  "eso-addon",
   "ios-app",
   "service-cluster",
   "service-inference",
   "service-workstation",
+  "temper-addon",
   "web-app",
 ]
 

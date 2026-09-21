@@ -69,7 +69,7 @@ test("a tick putting nothing up says how many were weighed, up to date, waiting 
 test("a tick with nothing up to date does not read like a tick with everything up to date", () => {
   const every = [candidate("one"), candidate("two")]
   const current = saidOfNothing(
-    "eso-addon",
+    "temper-addon",
     every,
     NOW,
     new Map([
@@ -77,7 +77,7 @@ test("a tick with nothing up to date does not read like a tick with everything u
       ["two", false],
     ])
   )
-  const stuck = saidOfNothing("eso-addon", every, NOW, new Map())
+  const stuck = saidOfNothing("temper-addon", every, NOW, new Map())
   expect(current).toContain("2 of those up to date")
   expect(stuck).toContain("0 of those up to date")
   expect(current).not.toBe(stuck)

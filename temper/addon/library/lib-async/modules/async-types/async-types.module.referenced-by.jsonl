@@ -8,4 +8,4 @@
 {"propertySlug":"import","fileName":"async-types.module.code.ts","path":"temper/addon/library/lib-async/modules/async-task-loops/async-task-loops.module.code.ts"}
 {"propertySlug":"import","fileName":"async-types.module.code.ts","path":"temper/addon/library/lib-async/modules/async-task-sort/async-task-sort.module.code.ts"}
 {"propertySlug":"import","fileName":"async-types.module.code.ts","path":"temper/addon/library/lib-async/modules/async-task-timer/async-task-timer.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-async/temper-lib-async.eso-addon.ts","id":"01a0606a-1c52-7326-b2c4-11a5a0c5c3fa"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-async/temper-lib-async.temper-addon.ts","id":"01a0606a-1c52-7326-b2c4-11a5a0c5c3fa"}

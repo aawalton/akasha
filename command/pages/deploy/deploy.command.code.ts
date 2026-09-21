@@ -55,11 +55,11 @@ import {
   CLUSTER_FOUNDATION,
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
-  ESO_ADDON,
   INFERENCE_SERVICE,
   IOS_APP,
   kindNamed,
   type Named as Read,
+  TEMPER_ADDON,
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
@@ -87,7 +87,7 @@ const NAMED: Readonly<Record<string, string>> = {
   [WEB_APP]: "a web app",
   [CONTAINER_RECIPE]: "a container recipe",
   [INFERENCE_SERVICE]: "an inference service",
-  [ESO_ADDON]: "an ESO addon",
+  [TEMPER_ADDON]: "an ESO addon",
   [CLUSTER_FOUNDATION]: "a cluster foundation",
 }
 
@@ -111,7 +111,7 @@ const PINNED: ReadonlySet<string> = new Set([
   CONTAINER_RECIPE,
   CLUSTER_SERVICE,
   WEB_APP,
-  ESO_ADDON,
+  TEMPER_ADDON,
   CLUSTER_FOUNDATION,
 ])
 
@@ -166,7 +166,7 @@ async function putUp(
   if (read.kind === INFERENCE_SERVICE) {
     return await putUpInferenceService(given.root, slug, at, up)
   }
-  if (read.kind === ESO_ADDON) return await putUpAddon(at, slug, read.pagePath, up)
+  if (read.kind === TEMPER_ADDON) return await putUpAddon(at, slug, read.pagePath, up)
   if (read.kind === CLUSTER_FOUNDATION) {
     return await appliedFoundation(given.root, slug, at, up)
   }

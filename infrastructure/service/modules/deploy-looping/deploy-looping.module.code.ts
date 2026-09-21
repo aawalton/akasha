@@ -12,10 +12,10 @@ import { heldNow } from "akasha/command/pages/deploy/modules/holding/deploy-hold
 import {
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
-  ESO_ADDON,
   INFERENCE_SERVICE,
   IOS_APP,
   type Kind,
+  TEMPER_ADDON,
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
@@ -210,7 +210,7 @@ export async function ticked(
 export const EVERY_KIND: readonly Kind[] = [
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
-  ESO_ADDON,
+  TEMPER_ADDON,
   INFERENCE_SERVICE,
   IOS_APP,
   WEB_APP,

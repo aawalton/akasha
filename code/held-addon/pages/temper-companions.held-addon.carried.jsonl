@@ -1,7 +1,7 @@
 {"addonKind":"native"}
 {"addonName":"TemperCompanions"}
 {"adjacents":["held-addon/temper-characters"]}
-{"esoAddon":"eso-addon/temper-companions-addon"}
+{"esoAddon":"temper-addon/temper-companions-addon"}
 {"heldBy":13024}
 {"id":"01a081a0-b067-71a4-aa1c-3509bc37c485"}
 {"slug":"temper-companions"}

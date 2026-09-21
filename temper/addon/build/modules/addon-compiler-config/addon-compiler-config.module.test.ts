@@ -18,7 +18,7 @@ const SCRATCH = scratchWorld()
 
 afterAll(SCRATCH.sweep)
 
-const ESO_ADDON = "eso-addon"
+const TEMPER_ADDON = "temper-addon"
 
 const DECLARATION = "type-declaration"
 
@@ -30,7 +30,7 @@ const MODULE = "module"
 
 const NAMING_UNDER = `akasha/temper/addon/library/${NAMING_LEAF}`
 
-const NAMING_PAGE = `${NAMING_UNDER}/${NAMING_LEAF}.eso-addon.ts`
+const NAMING_PAGE = `${NAMING_UNDER}/${NAMING_LEAF}.temper-addon.ts`
 
 const ENTRY_UNDER = `${NAMING_UNDER}/modules/${ENTRY_LEAF}`
 
@@ -51,7 +51,7 @@ function addonFolderNaming(entrySlug: string | null): { root: string; dir: strin
   writeFileSync(join(root, ENTRY_CODE), "export const ONE = 1\n")
   const value =
     entrySlug === null ? { slug: NAMING_LEAF } : { slug: NAMING_LEAF, bundleEntry: entrySlug }
-  valueAlsoFiled(root, ESO_ADDON, [{ path: NAMING_PAGE, value }])
+  valueAlsoFiled(root, TEMPER_ADDON, [{ path: NAMING_PAGE, value }])
   return { root, dir }
 }
 
@@ -135,20 +135,20 @@ function addonReaching(
   mkdirSync(dir, { recursive: true })
   mkdirSync(held, { recursive: true })
   writeFileSync(
-    join(dir, "collections-addon.eso-addon.addon-manifest.json"),
+    join(dir, "collections-addon.temper-addon.addon-manifest.json"),
     JSON.stringify({ name: "TemperCollections", dependsOn: [`${dependedOn}>=3`] })
   )
   writeFileSync(
-    join(held, "lib-lorebooks.eso-addon.addon-manifest.json"),
+    join(held, "lib-lorebooks.temper-addon.addon-manifest.json"),
     JSON.stringify({ name: heldName })
   )
-  valueAlsoFiled(root, ESO_ADDON, [
+  valueAlsoFiled(root, TEMPER_ADDON, [
     {
-      path: "temper/addon/collections-addon/collections-addon.eso-addon.ts",
+      path: "temper/addon/collections-addon/collections-addon.temper-addon.ts",
       value: { slug: "collections-addon", addonManifest: "json" },
     },
     {
-      path: "temper/addon/library/lib-lorebooks/lib-lorebooks.eso-addon.ts",
+      path: "temper/addon/library/lib-lorebooks/lib-lorebooks.temper-addon.ts",
       value: { slug: "lib-lorebooks", addonManifest: "json" },
     },
   ])
@@ -188,9 +188,9 @@ test("the written settings reach every declaration an addon this addon depends o
 
 test("a temper folder holding declarations and no addon page is read by every addon", () => {
   const root = SCRATCH.rootFor("temper-addon-declaring-")
-  valueAlsoFiled(root, ESO_ADDON, [
+  valueAlsoFiled(root, TEMPER_ADDON, [
     {
-      path: "temper/addon/characters-addon/characters-addon.eso-addon.ts",
+      path: "temper/addon/characters-addon/characters-addon.temper-addon.ts",
       value: { slug: "characters-addon" },
     },
   ])
@@ -213,9 +213,9 @@ test("a temper folder holding declarations and no addon page is read by every ad
 
 test("an addon sitting deeper reaches the folders of declarations that sit beside no addon", () => {
   const root = SCRATCH.rootFor("temper-addon-deeper-")
-  valueAlsoFiled(root, ESO_ADDON, [
+  valueAlsoFiled(root, TEMPER_ADDON, [
     {
-      path: "temper/addon/library/lib-media-provider/lib-media-provider.eso-addon.ts",
+      path: "temper/addon/library/lib-media-provider/lib-media-provider.temper-addon.ts",
       value: { slug: "lib-media-provider" },
     },
   ])

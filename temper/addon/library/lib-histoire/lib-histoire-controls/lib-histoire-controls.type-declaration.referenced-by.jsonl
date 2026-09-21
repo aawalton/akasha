@@ -1,4 +1,4 @@
 {"propertySlug":"import","fileName":"lib-histoire-controls.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-dialogs/histoire-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-histoire-controls.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-histoire-controls.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-status-window/histoire-status-window.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-histoire/temper-lib-histoire.eso-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-histoire/temper-lib-histoire.temper-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}

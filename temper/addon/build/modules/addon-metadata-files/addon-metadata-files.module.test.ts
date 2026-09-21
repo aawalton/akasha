@@ -21,13 +21,13 @@ const ADDON_LEAF = "temper-companions-addon"
 
 const ADDON_DIR = `akasha/temper/${ADDON_LEAF}`
 
-const ADDON_PAGE = `${ADDON_DIR}/${ADDON_LEAF}.eso-addon.ts`
+const ADDON_PAGE = `${ADDON_DIR}/${ADDON_LEAF}.temper-addon.ts`
 
 function addonPageFiled(said: Readonly<Record<string, string>>): Stating {
   const root = SCRATCH.rootFor("temper-addon-metadata-")
   const dir = join(root, ADDON_DIR)
   mkdirSync(dir, { recursive: true })
-  valueAlsoFiled(root, "eso-addon", [{ path: ADDON_PAGE, value: { slug: ADDON_LEAF, ...said } }])
+  valueAlsoFiled(root, "temper-addon", [{ path: ADDON_PAGE, value: { slug: ADDON_LEAF, ...said } }])
   return { root, dir }
 }
 

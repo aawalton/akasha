@@ -10,7 +10,7 @@ const SCRATCH = scratchWorld()
 
 afterAll(SCRATCH.sweep)
 
-const ESO_ADDON = "eso-addon"
+const TEMPER_ADDON = "temper-addon"
 
 const UNDER = "temper/held"
 
@@ -27,14 +27,14 @@ function folderHolding(slugs: readonly string[], names: readonly string[] = []):
   const root = SCRATCH.rootFor("temper-addon-manifest-")
   const dir = join(root, UNDER)
   mkdirSync(dir, { recursive: true })
-  noneOfTypeFiled(root, ESO_ADDON)
+  noneOfTypeFiled(root, TEMPER_ADDON)
   for (const name of names) writeFileSync(join(dir, name), "{}")
   valueAlsoFiled(
     root,
-    ESO_ADDON,
+    TEMPER_ADDON,
     slugs.map((slug, at) => ({
-      path: `${UNDER}/${slug}.${ESO_ADDON}.ts`,
-      value: { id: idOf(at), pageTypeSlug: ESO_ADDON, slug, addonManifest: "json" },
+      path: `${UNDER}/${slug}.${TEMPER_ADDON}.ts`,
+      value: { id: idOf(at), pageTypeSlug: TEMPER_ADDON, slug, addonManifest: "json" },
     }))
   )
   return { root, dir }
@@ -48,15 +48,15 @@ test("an addon folder outside akasha states itself in a file named addon.json", 
 test("an akasha package states itself in the manifest file beside its own page", () => {
   const { root, dir } = folderHolding(["temper-lib-async"])
   expect(addonManifestPathIn(root, dir)).toBe(
-    join(dir, `temper-lib-async.${ESO_ADDON}.addon-manifest.json`)
+    join(dir, `temper-lib-async.${TEMPER_ADDON}.addon-manifest.json`)
   )
 })
 
 test("the page is asked of the index rather than found by reading the folder", () => {
   const { root, dir } = folderHolding(["temper-lib-async"])
-  writeFileSync(join(dir, `temper-lib-gps.${ESO_ADDON}.addon-manifest.json`), "{}")
+  writeFileSync(join(dir, `temper-lib-gps.${TEMPER_ADDON}.addon-manifest.json`), "{}")
   expect(addonManifestPathIn(root, dir)).toBe(
-    join(dir, `temper-lib-async.${ESO_ADDON}.addon-manifest.json`)
+    join(dir, `temper-lib-async.${TEMPER_ADDON}.addon-manifest.json`)
   )
 })
 

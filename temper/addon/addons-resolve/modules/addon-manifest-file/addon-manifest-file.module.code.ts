@@ -9,7 +9,7 @@ const GAME_MANIFEST_NAME = "addon.json"
 
 const ADDON_MANIFEST = "addon-manifest"
 
-const ESO_ADDON = "eso-addon"
+const TEMPER_ADDON = "temper-addon"
 
 const OUTSIDE = ".."
 
@@ -18,7 +18,7 @@ export function addonFilePathIn(root: string, dir: string, propertySlug: string)
   if (rel === "" || rel === OUTSIDE || rel.startsWith(`${OUTSIDE}/`)) return null
   const key = exportedAs(propertySlug)
   const found: string[] = []
-  for (const one of valuesOfType(root, ESO_ADDON)) {
+  for (const one of valuesOfType(root, TEMPER_ADDON)) {
     if (dirname(one.path) !== rel) continue
     const held = textAt(one.value, key)
     const made = held === null ? null : besideAt(one.path, propertySlug, held)
@@ -29,7 +29,7 @@ export function addonFilePathIn(root: string, dir: string, propertySlug: string)
   if (first === undefined) return null
   if (found.length > 1) {
     throw new Error(
-      `${dir} holds ${String(found.length)} \`${ESO_ADDON}\` pages carrying a \`${propertySlug}\` (${found.join(", ")}) — one folder holds one addon, so which of them the game reads cannot be worked out`
+      `${dir} holds ${String(found.length)} \`${TEMPER_ADDON}\` pages carrying a \`${propertySlug}\` (${found.join(", ")}) — one folder holds one addon, so which of them the game reads cannot be worked out`
     )
   }
   return join(root, first)

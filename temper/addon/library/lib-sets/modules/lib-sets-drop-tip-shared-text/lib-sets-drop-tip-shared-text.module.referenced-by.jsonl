@@ -7,4 +7,4 @@
 {"propertySlug":"import","fileName":"lib-sets-drop-tip-shared-text.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-drop-tip-tooltips-pl/lib-sets-drop-tip-tooltips-pl.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-drop-tip-shared-text.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-drop-tip-tooltips-ru/lib-sets-drop-tip-tooltips-ru.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-sets-drop-tip-shared-text.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-drop-tip-tooltips-zh/lib-sets-drop-tip-tooltips-zh.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.eso-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-sets/temper-lib-sets.temper-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}

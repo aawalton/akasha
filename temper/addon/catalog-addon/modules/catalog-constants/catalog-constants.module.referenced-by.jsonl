@@ -4,4 +4,4 @@
 {"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/catalog-addon/modules/catalog-command/catalog-command.module.code.ts"}
 {"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/catalog-addon/modules/catalog-entry/catalog-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"catalog-constants.module.code.ts","path":"temper/addon/catalog-addon/modules/catalog-invalidations/catalog-invalidations.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/catalog-addon/temper-catalog-addon.eso-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}
+{"propertySlug":"parts","path":"temper/addon/catalog-addon/temper-catalog-addon.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}

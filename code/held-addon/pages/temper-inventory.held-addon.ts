@@ -5,7 +5,7 @@ export const temperInventory = {
   type: "page-type/held-addon",
   slug: "temper-inventory",
   addonName: "TemperInventory",
-  esoAddon: "eso-addon/temper-items-addon",
+  esoAddon: "temper-addon/temper-items-addon",
   addonKind: "native",
   heldBy: 13037,
   adjacents: [

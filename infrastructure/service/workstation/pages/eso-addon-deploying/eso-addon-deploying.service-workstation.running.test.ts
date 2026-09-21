@@ -39,7 +39,7 @@ test("a run turns one tick over the ESO addon kind rather than any other", async
   TICKED.length = 0
   answer = { said: ["put `temper-lib-async` up"], wrong: [] }
   await running.runService()
-  expect(TICKED).toEqual(["eso-addon"])
+  expect(TICKED).toEqual(["temper-addon"])
 })
 
 test("a tick that went wrong is thrown, so a failed run is a failed unit", async () => {

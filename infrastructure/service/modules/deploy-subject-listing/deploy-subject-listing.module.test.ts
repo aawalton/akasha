@@ -83,7 +83,7 @@ test("a container recipe naming no repository is no subject, since a deploy has 
 
 test("a page of any other kind is a subject whether or not it names a repository", () => {
   expect(pushedNowhere("service-cluster", {})).toBe(false)
-  expect(pushedNowhere("eso-addon", null)).toBe(false)
+  expect(pushedNowhere("temper-addon", null)).toBe(false)
 })
 
 test("every ios app is a subject named by its slug, waiting the cooldown its page states", () => {

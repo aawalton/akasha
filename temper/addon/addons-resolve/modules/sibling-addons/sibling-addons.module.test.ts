@@ -16,7 +16,7 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-const ESO_ADDON = "eso-addon"
+const TEMPER_ADDON = "temper-addon"
 
 const UNDER = "temper/held"
 
@@ -29,18 +29,18 @@ function addonDir(slug: string | null): Held {
   const root = scratch.rootFor("temper-sibling-")
   const dir = join(root, UNDER)
   mkdirSync(dir, { recursive: true })
-  noneOfTypeFiled(root, ESO_ADDON)
+  noneOfTypeFiled(root, TEMPER_ADDON)
   valueAlsoFiled(
     root,
-    ESO_ADDON,
+    TEMPER_ADDON,
     slug === null
       ? []
       : [
           {
-            path: `${UNDER}/${slug}.${ESO_ADDON}.ts`,
+            path: `${UNDER}/${slug}.${TEMPER_ADDON}.ts`,
             value: {
               id: "01a06060-0000-7000-8000-000000000001",
-              pageTypeSlug: ESO_ADDON,
+              pageTypeSlug: TEMPER_ADDON,
               slug,
               siblingManifest: "json",
             },
@@ -83,7 +83,7 @@ test("a sibling's source sits in a siblings folder inside the addon", () => {
 test("a sibling's manifest is carried by the page of the addon shipping it", () => {
   const { root, dir } = addonDir("temper-lib-zone")
   writeFileSync(
-    join(dir, `temper-lib-zone.${ESO_ADDON}.sibling-manifest.json`),
+    join(dir, `temper-lib-zone.${TEMPER_ADDON}.sibling-manifest.json`),
     JSON.stringify({ "LibZone-1.0": "## Title: LibZone-1.0\r\n" })
   )
   expect([...siblingManifestsIn(root, dir)]).toEqual([["LibZone-1.0", "## Title: LibZone-1.0\r\n"]])
@@ -98,7 +98,7 @@ test("an addon whose page carries no sibling manifest ships no sibling", () => {
 test("a manifest the addon's page does not carry ships no sibling", () => {
   const { root, dir } = addonDir(null)
   writeFileSync(
-    join(dir, `temper-lib-zone.${ESO_ADDON}.sibling-manifest.json`),
+    join(dir, `temper-lib-zone.${TEMPER_ADDON}.sibling-manifest.json`),
     JSON.stringify({ "LibZone-1.0": "## Title: LibZone-1.0\r\n" })
   )
   expect(siblingManifestsIn(root, dir).size).toBe(0)

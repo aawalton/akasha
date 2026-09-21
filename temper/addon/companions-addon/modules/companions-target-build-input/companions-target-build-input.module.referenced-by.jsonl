@@ -3,4 +3,4 @@
 {"propertySlug":"import","fileName":"companions-target-build-input.module.code.ts","path":"temper/addon/companions-addon/modules/companions-events/companions-events.module.code.ts"}
 {"propertySlug":"import","fileName":"companions-target-build-input.module.code.ts","path":"temper/addon/companions-addon/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"companions-target-build-input.module.code.ts","path":"temper/addon/companions-addon/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
+{"propertySlug":"parts","path":"temper/addon/companions-addon/temper-companions-addon.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}

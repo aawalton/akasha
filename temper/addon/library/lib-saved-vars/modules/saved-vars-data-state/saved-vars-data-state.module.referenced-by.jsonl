@@ -4,4 +4,4 @@
 {"propertySlug":"import","fileName":"saved-vars-data-state.module.code.ts","path":"temper/addon/library/lib-saved-vars/modules/saved-vars-data-migrate/saved-vars-data-migrate.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-vars-data-state.module.code.ts","path":"temper/addon/library/lib-saved-vars/modules/saved-vars-data-settings/saved-vars-data-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-vars-data-state.module.code.ts","path":"temper/addon/library/lib-saved-vars/modules/saved-vars-data/saved-vars-data.module.code.ts"}
-{"propertySlug":"parts","path":"temper/addon/library/lib-saved-vars/temper-lib-saved-vars.eso-addon.ts","id":"01a06177-abf7-7c8b-83f6-be2b40de177e"}
+{"propertySlug":"parts","path":"temper/addon/library/lib-saved-vars/temper-lib-saved-vars.temper-addon.ts","id":"01a06177-abf7-7c8b-83f6-be2b40de177e"}

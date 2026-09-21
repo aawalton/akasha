@@ -9,7 +9,7 @@ const DEFAULT_REPO_ROOT = rootOf(import.meta.dir)
 
 const ADDONS_REL_ROOT = "temper/addons"
 
-const ESO_ADDON = "eso-addon"
+const TEMPER_ADDON = "temper-addon"
 
 function repoRelOf(repoRoot: string, dir: string): string {
   return relative(repoRoot, dir).split(sep).join("/")
@@ -46,7 +46,7 @@ function readAddonJson(root: string, dir: string): { name?: string } | null {
 
 function listExternalAddonRelDirs(repoRoot: string): readonly string[] {
   const found: string[] = []
-  for (const one of valuesOfType(repoRoot, ESO_ADDON)) {
+  for (const one of valuesOfType(repoRoot, TEMPER_ADDON)) {
     const rel = dirname(one.path)
     if (rel === ADDONS_REL_ROOT || rel.startsWith(`${ADDONS_REL_ROOT}/`)) continue
     if (readAddonJson(repoRoot, join(repoRoot, rel)) === null) continue

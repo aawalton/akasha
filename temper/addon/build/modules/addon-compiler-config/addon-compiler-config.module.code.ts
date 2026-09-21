@@ -9,7 +9,7 @@ import { addonManifestPathIn } from "akasha/temper/addon/addons-resolve/modules/
 
 export const TSCONFIG_NAME = "tsconfig.json"
 
-const ESO_ADDON_TYPE = "eso-addon"
+const TEMPER_ADDON_TYPE = "temper-addon"
 
 const DECLARATION_TYPE = "type-declaration"
 
@@ -77,7 +77,7 @@ function reachedIn(repoRoot: string): Reached {
   const valueAt = new Map<string, Value>()
   const namedAt = new Map<string, string>()
   const addonUnder = new Set<string>()
-  for (const one of valuesOfType(repoRoot, ESO_ADDON_TYPE)) {
+  for (const one of valuesOfType(repoRoot, TEMPER_ADDON_TYPE)) {
     const folder = dirname(one.path)
     const dir = join(repoRoot, folder)
     if (valueAt.has(dir)) continue
@@ -124,14 +124,14 @@ export function declaringDirs(repoRoot: string): readonly string[] {
   return reachedIn(repoRoot).declaring
 }
 
-export type EsoAddonPage = {
+export type TemperAddonPage = {
   readonly slug: string
   readonly bundleEntry: string | null
   readonly bindings: string | null
   readonly luaModules: readonly string[]
 }
 
-export function readEsoAddonPage(repoRoot: string, dir: string): EsoAddonPage | null {
+export function readTemperAddonPage(repoRoot: string, dir: string): TemperAddonPage | null {
   const value = reachedIn(repoRoot).valueAt.get(dir)
   if (value === undefined) return null
   const slug = value.slug
@@ -212,7 +212,7 @@ export async function compilerConfigPathFor(
 ): Promise<string | null> {
   const beside = join(addonDir, TSCONFIG_NAME)
   if (existsSync(beside)) return beside
-  const page = readEsoAddonPage(repoRoot, addonDir)
+  const page = readTemperAddonPage(repoRoot, addonDir)
   if (page === null || page.bundleEntry === null) return null
   const entryPath = bundleEntryPathIn(repoRoot, page.bundleEntry)
   if (!existsSync(entryPath)) {

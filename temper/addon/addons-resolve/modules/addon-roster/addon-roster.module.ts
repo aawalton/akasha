@@ -13,7 +13,7 @@ export const addonRoster = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An addon elsewhere is found by asking the index for every `eso-addon` page.",
+      statement: "An addon elsewhere is found by asking the index for every `temper-addon` page.",
     },
     {
       decisionKind: "decision-kind/departure",

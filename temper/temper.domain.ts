@@ -29,11 +29,11 @@ export const temper = {
     "router-app/temper-web",
     "service-workstation/temper-watcher",
     "domain/temper-eso",
-    "domain/temper-addon",
     "domain/temper-capture",
     "domain/temper-economy",
     "domain/temper-items",
     "domain/temper-player",
+    "page-type/temper-addon",
   ],
   decisions: [
     {
