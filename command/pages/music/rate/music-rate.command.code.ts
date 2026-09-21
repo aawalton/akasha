@@ -37,13 +37,17 @@ import {
   filledIn,
 } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { carriedIdsIn } from "akasha/command/pages/music/heard-tracks/music-heard-tracks.command.code.ts"
 import {
   envelopeFor,
-  type NowPlayingEnvelope,
   type NowPlayingReader,
   PLAYER,
 } from "akasha/command/pages/music/now-playing/music-now-playing.command.code.ts"
+import {
+  type Finding,
+  playingNamed,
+  type Refusal,
+  slugCarried,
+} from "akasha/command/pages/music/rate/modules/track-naming/track-naming.module.code.ts"
 import { musicRate as page } from "akasha/command/pages/music/rate/music-rate.command.ts"
 import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import {
@@ -54,7 +58,6 @@ import { exportedAs } from "akasha/page/modules/export-name/page-export-name.mod
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
-  textIn,
   textsAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -81,12 +84,6 @@ const TAGS = "tags"
 const GRADE_KEY = "grade"
 
 const SLUG = slugArgument.said
-
-const PLAYING = nowPlaying.said
-
-const NO_DEVICE = `no Spotify device is active, so nothing is playing for \`${PLAYING}\` to grade`
-
-const NOT_PLAYING = `Spotify names no track playing, so nothing is there for \`${PLAYING}\` to grade`
 
 const WHOLE = true
 
@@ -142,10 +139,6 @@ export type Taken = {
 }
 
 export type Reading = Taken | { readonly refused: readonly string[] }
-
-export type Refusal = { readonly refused: string }
-
-export type Finding = (externalId: string) => string | null
 
 function strayedIn(target: string, prose: ReadonlyMap<string, string>): readonly string[] {
   const said: string[] = []
@@ -226,29 +219,11 @@ export function taken(argv: readonly string[], given: Given): Reading {
   return { target, slug: named, grade: marked, prose, tags, json: held.json }
 }
 
-export function slugCarried(tracks: readonly Value[], externalId: string): string | null {
-  for (const one of tracks) {
-    if (carriedIdsIn(one).includes(externalId)) return textIn(one, "slug")
-  }
-  return null
-}
-
 export function slugCarrying(root: string, externalId: string): string | null {
   return slugCarried(
     valuesOfType(root, TRACK).map((one) => one.value),
     externalId
   )
-}
-
-export function playingNamed(found: Finding, envelope: NowPlayingEnvelope): string | Refusal {
-  if (!envelope.activeDevice) return { refused: NO_DEVICE }
-  const track = envelope.track
-  if (track === null || track.id === null) return { refused: NOT_PLAYING }
-  const slug = found(track.id)
-  if (slug !== null) return slug
-  return {
-    refused: `no track page carries the Spotify id \`${track.id}\`, which Spotify is playing as \`${track.name}\``,
-  }
 }
 
 export function taggedOver(was: Value, said: readonly string[]): readonly string[] {

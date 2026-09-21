@@ -12,10 +12,15 @@ import type { Refused } from "akasha/command/modules/landing/landing.module.code
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import type {
   NowPlayingCurrent,
-  NowPlayingEnvelope,
   NowPlayingReader,
   NowPlayingState,
 } from "akasha/command/pages/music/now-playing/music-now-playing.command.code.ts"
+import {
+  LENGTH_MS,
+  PLAYING_ID,
+  PLAYING_TITLE,
+  TRACK_SLUG,
+} from "akasha/command/pages/music/rate/modules/track-naming/track-naming.module.test-fixtures.ts"
 import {
   ARTIST,
   musicRate,
@@ -56,8 +61,6 @@ export function bodyAt(at: string): string {
   return readFileSync(join(ROOT, at), "utf8")
 }
 
-export const TRACK_SLUG = "alexandria-always-an-angel-always-an-angel"
-
 export const TRACK_AT = `alan/music/catalog/track/pages/${TRACK_SLUG}.track.ts`
 
 export const RELEASE_SLUG = "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"
@@ -76,30 +79,6 @@ export function takingOf(argv: readonly string[]) {
     throw new Error(`\`${argv.join(" ")}\` was refused — ${held.refused.join("; ")}`)
   }
   return held
-}
-
-export const PLAYING_ID = "5CziXblfbYNLB4dELQrgq4"
-
-export const PLAYING_TITLE = "Always an Angel"
-
-const LENGTH_MS = 116250
-
-export function finding(externalId: string): string | null {
-  return externalId === PLAYING_ID ? TRACK_SLUG : null
-}
-
-export function playing(
-  id: string | null,
-  name: string,
-  isPlaying: boolean = true
-): NowPlayingEnvelope {
-  return {
-    activeDevice: true,
-    isPlaying,
-    device: "the study",
-    progress_ms: 1000,
-    track: id === null ? null : { name, uri: `spotify:track:${id}`, id, duration_ms: LENGTH_MS },
-  }
 }
 
 const ITEM = {

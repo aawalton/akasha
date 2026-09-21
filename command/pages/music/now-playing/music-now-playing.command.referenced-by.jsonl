@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"music-now-playing.command.code.ts","path":"command/pages/music/now-playing/music-now-playing.command.test.ts"}
+{"propertySlug":"import","fileName":"music-now-playing.command.code.ts","path":"command/pages/music/rate/modules/track-naming/track-naming.module.code.ts"}
+{"propertySlug":"import","fileName":"music-now-playing.command.code.ts","path":"command/pages/music/rate/modules/track-naming/track-naming.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"music-now-playing.command.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"music-now-playing.command.code.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"music-now-playing.command.ts","path":"command/pages/music/now-playing/music-now-playing.command.code.ts"}

@@ -8,6 +8,7 @@ export const musicRate = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
+  parts: ["module/track-naming"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -40,18 +41,6 @@ export const musicRate = {
     {
       decisionKind: "decision-kind/departure",
       statement: "What Spotify is playing is a track, so such a call names no target.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The track graded is the one whose carrier holds the id Spotify says.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A player holding a track rather than playing it is read the same way.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A refusal over what is playing says the Spotify id and the title Spotify gives.",
     },
     {
       decisionKind: "decision-kind/departure",
