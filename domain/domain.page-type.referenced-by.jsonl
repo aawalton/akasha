@@ -567,12 +567,12 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-point.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/character-race/temper-character-race.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/core/temper-catalog-core.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/effect/temper-effect.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/skill-kind/temper-skill-kind.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-catalog.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-companion/companions-core/temper-companions-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-companion/temper-companion.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-effect/temper-effect.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/kind/temper-equipment-kind.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/temper-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-gear/item-set/temper-item-set.domain.ts"}

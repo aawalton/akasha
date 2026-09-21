@@ -1,0 +1,10 @@
+import type { TemperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.types.ts"
+
+export const overcharged = {
+  id: "01a05fc6-42c9-7a91-b98c-6d2ae95129b5",
+  type: "page-type/temper-debuff-other",
+  slug: "overcharged",
+  title: "Overcharged",
+  key: "overcharged",
+  description: "Applies Minor Magickasteal to enemies",
+} as const satisfies TemperDebuffOther

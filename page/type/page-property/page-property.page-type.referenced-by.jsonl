@@ -137,6 +137,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-to-slugs.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/named-events/properties/event-aliases.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/read/properties/external-tags.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/effect/temper-curse/properties/eso-curse-ids.number-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-companion/base-role/properties/valid-armor-weights.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-companion/base-role/properties/valid-trait-ids.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-companion/base-role/properties/valid-weapon-role-ids.text-property.types.ts"}
@@ -147,7 +148,6 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-companion/skill/properties/valid-roles.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-companion/weapon-role/properties/valid-main-hand-weapon-types.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-companion/weapon-role/properties/valid-off-hand-weapon-types.text-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-effect/temper-curse/properties/eso-curse-ids.number-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-gear/temper-motif-style/properties/drop-sources.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-gear/temper-potion-crafted/properties/reagent-names.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/temper-gear/temper-potion-crafted/properties/recipes.record-property.types.ts"}

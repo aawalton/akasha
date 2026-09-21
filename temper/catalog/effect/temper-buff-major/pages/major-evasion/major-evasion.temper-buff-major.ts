@@ -1,0 +1,11 @@
+import type { TemperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.types.ts"
+
+export const majorEvasion = {
+  id: "01a05fc5-f6b8-7eed-9a2d-daeecb4ff402",
+  type: "page-type/temper-buff-major",
+  slug: "major-evasion",
+  title: "Major Evasion",
+  key: "major-evasion",
+  description: "Reduces damage from area attacks by 20%",
+  effects: "jsonl",
+} as const satisfies TemperBuffMajor

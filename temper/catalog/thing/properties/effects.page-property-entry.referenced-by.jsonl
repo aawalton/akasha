@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/temper-effect/temper-buff-major/temper-buff-major.page-type.types.ts"}
-{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/temper-effect/temper-buff-minor/temper-buff-minor.page-type.types.ts"}
-{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/temper-effect/temper-debuff-major/temper-debuff-major.page-type.types.ts"}
+{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.types.ts"}
+{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.types.ts"}
+{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.types.ts"}
 {"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-effect/temper-buff-major/temper-buff-major.page-type.ts","id":"01a05fc5-94ce-7166-8475-467d3eb17bf9"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-effect/temper-buff-minor/temper-buff-minor.page-type.ts","id":"01a05fc5-94ce-7bed-8828-2d7236ba09a9"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-effect/temper-debuff-major/temper-debuff-major.page-type.ts","id":"01a05fc5-94cf-7021-9a7d-21e4794bdc95"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts","id":"01a05fc5-94ce-7166-8475-467d3eb17bf9"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts","id":"01a05fc5-94ce-7bed-8828-2d7236ba09a9"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts","id":"01a05fc5-94cf-7021-9a7d-21e4794bdc95"}
 {"propertySlug":"page-property","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
 {"propertySlug":"parts","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}

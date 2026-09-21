@@ -4345,6 +4345,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/domain-registry/domain-registry.module.ts","id":"01a06071-0c79-71aa-8f49-de4128d97c66"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.ts","id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-curse/properties/eso-curse-ids.number-property.ts","id":"01a05fc5-94cd-7c97-9330-6c78011127fa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.ts","id":"01a060ce-b8cc-7704-9bd1-cd4631423a3c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.ts","id":"01a060ce-b8cb-776b-b2b7-0589a741c9c4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
@@ -4438,7 +4439,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/nested-effect.record-property.ts","id":"01a06196-037c-704b-a0d5-349064c3a709"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
-{"propertySlug":"decision-kind","path":"temper/catalog/temper-effect/temper-curse/properties/eso-curse-ids.number-property.ts","id":"01a05fc5-94cd-7c97-9330-6c78011127fa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.ts","id":"01a0610f-45b9-7cd1-b86c-956394916d9b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.ts","id":"01a060f0-3eac-71f4-ab24-ac7b5ad15139"}

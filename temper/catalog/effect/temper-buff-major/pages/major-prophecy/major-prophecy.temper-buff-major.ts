@@ -1,0 +1,11 @@
+import type { TemperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.types.ts"
+
+export const majorProphecy = {
+  id: "01a05fc5-f6ba-7d80-ae6d-744402fa840f",
+  type: "page-type/temper-buff-major",
+  slug: "major-prophecy",
+  title: "Major Prophecy",
+  key: "major-prophecy",
+  description: "Increases Spell Critical by 2629",
+  effects: "jsonl",
+} as const satisfies TemperBuffMajor

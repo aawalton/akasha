@@ -1,0 +1,11 @@
+import type { TemperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.types.ts"
+
+export const majorBreach = {
+  id: "01a05fc6-42c0-7fff-b0a0-4526f19bc5d5",
+  type: "page-type/temper-debuff-major",
+  slug: "major-breach",
+  title: "Major Breach",
+  key: "major-breach",
+  description: "Reduces Physical and Spell Resistance by 5948",
+  effects: "jsonl",
+} as const satisfies TemperDebuffMajor
