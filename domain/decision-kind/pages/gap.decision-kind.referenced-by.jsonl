@@ -407,6 +407,7 @@
 {"propertySlug":"decision-kind","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/addon-load-order/addon-load-order.module.ts","id":"01a062d1-4a70-7b3c-9e21-6d0a51f4c7e8"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
+{"propertySlug":"decision-kind","path":"temper/addon/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.ts","id":"01a0617b-4b73-706b-9bf0-e2b177ca28eb"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/modules/lib-sets-core-api-armor-weapon-equip-class/lib-sets-core-api-armor-weapon-equip-class.module.ts","id":"01a06231-8f1d-717e-ad62-dd5ee6472601"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/modules/lib-sets-core-api-wayshrine-dlc-settype/lib-sets-core-api-wayshrine-dlc-settype.module.ts","id":"01a06231-8f1c-7200-9fb9-2df4b2450fce"}
@@ -690,7 +691,6 @@
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.ts","id":"01a068e2-226d-7781-8c70-c328fa164cff"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}
-{"propertySlug":"decision-kind","path":"temper/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-bulk-update-equipment/companion-bulk-update-equipment.module.ts","id":"01a06152-c2c5-7e0c-8688-41d1ac8871ea"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.ts","id":"01a06152-c2c7-72a3-af73-86de77280931"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.ts","id":"01a06108-0766-785a-9dd2-ef09e0ab69e2"}

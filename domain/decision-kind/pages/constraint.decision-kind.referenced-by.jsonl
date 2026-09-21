@@ -364,6 +364,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/capture-sales-addon/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/temper-community-addon.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
+{"propertySlug":"decision-kind","path":"temper/addon/companions-addon/modules/companions-codec-constants/companions-codec-constants.module.ts","id":"01a0611d-84d0-7633-b29f-14f7be7fd63b"}
+{"propertySlug":"decision-kind","path":"temper/addon/companions-addon/modules/companions-id-map/companions-id-map.module.ts","id":"01a0611d-84dd-7991-bda4-54827db48eac"}
+{"propertySlug":"decision-kind","path":"temper/addon/companions-addon/modules/companions-skill-map/companions-skill-map.module.ts","id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
+{"propertySlug":"decision-kind","path":"temper/addon/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/modules/next-boss-constants/next-boss-constants.module.ts","id":"01a06157-8356-7a6f-9f7c-8822d3c91088"}
@@ -894,10 +898,6 @@
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
 {"propertySlug":"decision-kind","path":"temper/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
-{"propertySlug":"decision-kind","path":"temper/companions-addon/modules/companions-codec-constants/companions-codec-constants.module.ts","id":"01a0611d-84d0-7633-b29f-14f7be7fd63b"}
-{"propertySlug":"decision-kind","path":"temper/companions-addon/modules/companions-id-map/companions-id-map.module.ts","id":"01a0611d-84dd-7991-bda4-54827db48eac"}
-{"propertySlug":"decision-kind","path":"temper/companions-addon/modules/companions-skill-map/companions-skill-map.module.ts","id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
-{"propertySlug":"decision-kind","path":"temper/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.ts","id":"01a06152-c2c3-745e-9ada-68a8820c6c2f"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-bulk-update-equipment/companion-bulk-update-equipment.module.ts","id":"01a06152-c2c5-7e0c-8688-41d1ac8871ea"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.ts","id":"01a06152-c2c7-7dff-b7bf-68a31c3744ce"}

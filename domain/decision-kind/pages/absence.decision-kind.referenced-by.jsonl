@@ -1651,6 +1651,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/collections-addon/modules/collections-addon-loaded/collections-addon-loaded.module.ts","id":"01a0624c-a660-7bb7-a785-531905b18e57"}
 {"propertySlug":"decision-kind","path":"temper/addon/collections-addon/temper-collections-addon.eso-addon.ts","id":"01a0624c-a660-70e0-bf26-d959d1027e91"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
+{"propertySlug":"decision-kind","path":"temper/addon/companions-addon/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}
+{"propertySlug":"decision-kind","path":"temper/addon/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/temper-errors-addon.eso-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/modules/next-boss-ui-strings/next-boss-ui-strings.module.ts","id":"01a06157-8357-7537-a6bd-307d783c5836"}
@@ -1762,8 +1764,6 @@
 {"propertySlug":"decision-kind","path":"temper/command/modules/name-ordering/name-ordering.module.ts","id":"01a07c93-d1ce-7d75-844c-a9a61f0601d8"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/venue-trace-saying/venue-trace-saying.module.ts","id":"01a09b2e-baec-7b08-bcf7-07f61d70d416"}
 {"propertySlug":"decision-kind","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts","id":"01a07c93-f240-7b33-9d06-f8459b129064"}
-{"propertySlug":"decision-kind","path":"temper/companions-addon/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}
-{"propertySlug":"decision-kind","path":"temper/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
 {"propertySlug":"decision-kind","path":"temper/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
 {"propertySlug":"decision-kind","path":"temper/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}

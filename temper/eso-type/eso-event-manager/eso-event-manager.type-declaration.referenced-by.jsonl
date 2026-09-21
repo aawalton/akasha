@@ -1,3 +1,7 @@
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-events/companions-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-events/next-boss-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-init/next-boss-init.module.code.ts"}
@@ -9,10 +13,6 @@
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-events/trading-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-events/companions-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/housing-addon/modules/housing-context-menu/housing-context-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/housing-addon/modules/housing-init/housing-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/modules/addon-init/addon-init.module.code.ts"}

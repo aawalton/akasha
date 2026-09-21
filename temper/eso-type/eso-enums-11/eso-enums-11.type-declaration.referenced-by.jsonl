@@ -1,9 +1,9 @@
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-display-names/companions-display-names.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-display-names/companions-display-names.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/game-catalog-capture-addon/modules/companion-equipment-catalog-capture/companion-equipment-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/game-catalog-capture-addon/modules/weapon-type-constants/weapon-type-constants.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso-type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

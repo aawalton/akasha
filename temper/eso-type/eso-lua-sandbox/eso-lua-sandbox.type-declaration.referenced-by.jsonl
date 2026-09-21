@@ -1,3 +1,11 @@
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-bindings/companion-qol-bindings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-rapport/companion-qol-rapport.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-traceback/errors-addon-traceback.module.code.ts"}
@@ -13,14 +21,6 @@
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/capture-writer/modules/run-batched/run-batched.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-bindings/companion-qol-bindings.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-rapport/companion-qol-rapport.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/companions-addon/modules/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/companions-addon/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/housing-addon/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/housing-addon/modules/housing-comboboxes/housing-comboboxes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/housing-addon/modules/housing-dropdowns/housing-dropdowns.module.code.ts"}
