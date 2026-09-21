@@ -1,0 +1,10 @@
+{"game":"game/partners"}
+{"id":"01a0c663-0cb5-7259-8c11-40de259f150b"}
+{"kind":"partner"}
+{"level":3}
+{"note":"Traveling cook of quietly legendary rank; followed the kitchen's song for a week."}
+{"revealGate":9999}
+{"skills":[{"name":"Cooking","progress":0,"effect":"none stated"},{"name":"Provisioning","progress":0,"effect":"none stated"},{"name":"Hearthlore","progress":0,"effect":"none stated"},{"name":"Comfort","progress":0,"effect":"none stated"}]}
+{"slug":"partners-natalie"}
+{"title":"Natalie"}
+{"type":"page-type/game-entity"}
