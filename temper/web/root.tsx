@@ -56,6 +56,7 @@ const GUARD: HandoverGuardConfig = {
     /^\/character-build\/h\//,
     /^\/$/,
     /^\/handover$/,
+    /^\/requests$/,
   ],
   atRoot: { reader: HOME_PATH },
 }
