@@ -11,8 +11,8 @@ export const animeAndShowsWatching = {
   layout: "cards",
   narrows: [{ key: "status", comparison: "in", values: ["In Progress", "Following"] }],
   viewSorts: [
-    { key: "progress", descending: true },
+    { key: "own-progress", descending: true },
     { key: "title", descending: false },
   ],
-  visibleProperties: ["status", "progress", "length"],
+  visibleProperties: ["status", "own-progress", "own-length"],
 } as const satisfies View

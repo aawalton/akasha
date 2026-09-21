@@ -6,4 +6,4 @@
 {"title":"All"}
 {"type":"page-type/view"}
 {"viewPlace":0}
-{"viewSorts":[{"key":"sort-name","descending":false},{"key":"title","descending":false}]}
+{"viewSorts":[{"key":"title","descending":false}]}

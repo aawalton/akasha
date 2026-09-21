@@ -8,4 +8,4 @@
 {"type":"page-type/view"}
 {"viewPlace":2}
 {"viewSorts":[{"key":"completed-at","descending":true}]}
-{"visibleProperties":["status","rating","completed-at"]}
+{"visibleProperties":["status","grade","completed-at"]}

@@ -11,5 +11,5 @@ export const booksCompleted = {
   layout: "cards",
   narrows: [{ key: "status", comparison: "is", values: ["Completed"] }],
   viewSorts: [{ key: "completed-at", descending: true }],
-  visibleProperties: ["status", "rating", "completed-at"],
+  visibleProperties: ["status", "grade", "completed-at"],
 } as const satisfies View

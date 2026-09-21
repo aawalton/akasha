@@ -12,5 +12,5 @@ export const animeAndShowsAllByStatus = {
   viewSorts: [{ key: "title", descending: false }],
   groupSorts: [{ key: "status", descending: true }],
   groupBy: "status",
-  visibleProperties: ["status", "progress"],
+  visibleProperties: ["status", "own-progress"],
 } as const satisfies View

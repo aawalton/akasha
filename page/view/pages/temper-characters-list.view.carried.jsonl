@@ -8,4 +8,4 @@
 {"title":"List"}
 {"type":"page-type/view"}
 {"viewPlace":0}
-{"viewSorts":[{"key":"sort-order","descending":false}]}
+{"viewSorts":[{"key":"display-order","descending":false}]}

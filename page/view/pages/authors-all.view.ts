@@ -9,8 +9,5 @@ export const authorsAll = {
   pageType: "page-type/ki-author",
   viewPlace: 0,
   layout: "cards",
-  viewSorts: [
-    { key: "sort-name", descending: false },
-    { key: "title", descending: false },
-  ],
+  viewSorts: [{ key: "title", descending: false }],
 } as const satisfies View

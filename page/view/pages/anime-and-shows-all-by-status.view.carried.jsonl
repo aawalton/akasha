@@ -9,4 +9,4 @@
 {"type":"page-type/view"}
 {"viewPlace":3}
 {"viewSorts":[{"key":"title","descending":false}]}
-{"visibleProperties":["status","progress"]}
+{"visibleProperties":["status","own-progress"]}

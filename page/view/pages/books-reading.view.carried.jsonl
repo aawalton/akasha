@@ -8,4 +8,4 @@
 {"type":"page-type/view"}
 {"viewPlace":0}
 {"viewSorts":[{"key":"title","descending":false}]}
-{"visibleProperties":["status","rating","length"]}
+{"visibleProperties":["status","grade","own-length"]}

@@ -12,5 +12,5 @@ export const booksAllByStatus = {
   viewSorts: [{ key: "title", descending: false }],
   groupSorts: [{ key: "status", descending: true }],
   groupBy: "status",
-  visibleProperties: ["status", "rating"],
+  visibleProperties: ["status", "grade"],
 } as const satisfies View

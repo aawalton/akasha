@@ -8,7 +8,7 @@ export const temperCharactersList = {
   nav: "nav/temper-characters",
   pageType: "page-type/temper-account-character",
   viewPlace: 0,
-  viewSorts: [{ key: "sort-order", descending: false }],
+  viewSorts: [{ key: "display-order", descending: false }],
   pageSize: 12,
   itemPageSize: 12,
   groupPageSize: 6,

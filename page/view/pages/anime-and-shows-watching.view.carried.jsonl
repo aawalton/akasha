@@ -7,5 +7,5 @@
 {"title":"Watching"}
 {"type":"page-type/view"}
 {"viewPlace":0}
-{"viewSorts":[{"key":"progress","descending":true},{"key":"title","descending":false}]}
-{"visibleProperties":["status","progress","length"]}
+{"viewSorts":[{"key":"own-progress","descending":true},{"key":"title","descending":false}]}
+{"visibleProperties":["status","own-progress","own-length"]}
