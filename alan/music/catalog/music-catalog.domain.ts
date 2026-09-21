@@ -58,5 +58,13 @@ export const musicCatalog = {
       decisionKind: "decision-kind/departure",
       statement: "A track carries the grade Alan gives the recording he heard.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No grade a track carries is read up into the song that track records.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A song keeps the grade Alan gave that song, whatever its recordings carry.",
+    },
   ],
 } as const satisfies Domain
