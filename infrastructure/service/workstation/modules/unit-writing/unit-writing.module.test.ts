@@ -16,8 +16,6 @@ const PAGE_PATH =
 const RUNS_TYPESCRIPT =
   "bun akasha/service-system/service-workstation/held-listening/held-listening.module.code.ts"
 
-const LOADED_SLUG = "sweep-log-days"
-
 const BASE = {
   id: "01a05a51-0000-7000-8000-00000000000a",
   type: "service-workstation",
@@ -208,29 +206,14 @@ test("the accuracy a scheduled service states is written on that service's timer
   expect(text).toContain("AccuracySec=1")
 })
 
-test("a unit the loader starts is ordered after the pages service and wants it", () => {
-  const text = serviceUnitText(pageOf({ slug: LOADED_SLUG }))
-  expect(text).toContain("After=page-service.service")
-  expect(text).toContain("Wants=page-service.service")
-  expect(text.indexOf("After=")).toBeLessThan(text.indexOf("[Service]"))
-})
-
-test("a unit the loader does not start is ordered against the pages service by nothing", () => {
+test("a unit is ordered against nothing its own service's page leaves unnamed", () => {
   expect(serviceUnitText(pageOf({}))).not.toContain("page-service")
+  expect(serviceUnitText(pageOf({ slug: "sweep-log-days" }))).not.toContain("page-service")
 })
 
-test("what a loader-run service states it is ordered against joins the pages service", () => {
-  const text = serviceUnitText(
-    pageOf({ slug: LOADED_SLUG, systemd: { after: ["network-online.target"] } })
-  )
-  expect(text).toContain("After=network-online.target")
+test("a service stating the pages service is ordered against it and written it once", () => {
+  const text = serviceUnitText(pageOf({ systemd: { after: ["page-service.service"] } }))
   expect(text).toContain("After=page-service.service")
-})
-
-test("a loader-run service stating the pages service is written it once", () => {
-  const text = serviceUnitText(
-    pageOf({ slug: LOADED_SLUG, systemd: { after: ["page-service.service"] } })
-  )
   expect(text.split("After=page-service.service").length - 1).toBe(1)
 })
 
@@ -245,11 +228,7 @@ test("a service handed no origin has that name nowhere in its unit", () => {
 })
 
 test("every unit runs its command in the checkout, so a bare specifier resolves there", () => {
-  for (const one of [
-    pageOf({}),
-    pageOf({ slug: LOADED_SLUG }),
-    pageOf({ systemd: { schedule: "daily" } }),
-  ]) {
+  for (const one of [pageOf({}), pageOf({ systemd: { schedule: "daily" } })]) {
     expect(serviceUnitText(one)).toContain("WorkingDirectory=%h/repos/akasha")
   }
 })

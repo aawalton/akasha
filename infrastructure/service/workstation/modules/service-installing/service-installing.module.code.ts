@@ -11,7 +11,6 @@ import {
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
-import { STAGING } from "akasha/infrastructure/service/workstation/modules/service-loading/service-loading.module.code.ts"
 import {
   installedUnitName,
   isScheduled,
@@ -24,10 +23,9 @@ import {
   timerUnitName,
   timerUnitText,
 } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
-import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
+const STAGING = ".local/state/workstation-services"
 const SYSTEMD = ".config/systemd/user"
-const A_FILE = "file"
 
 export type Ran = {
   readonly code: number
@@ -36,7 +34,6 @@ export type Ran = {
 
 export type Plan = {
   readonly write: ReadonlyMap<string, string>
-  readonly beside?: ReadonlyMap<string, string>
   readonly enable: readonly string[]
   readonly stop: readonly string[]
   readonly remove: readonly string[]
@@ -125,8 +122,7 @@ function pagesFirst(a: string, b: string): number {
 export function planFor(
   services: readonly Service[],
   owned: readonly string[],
-  restarting: ReadonlySet<string> = new Set(),
-  beside: ReadonlyMap<string, string> = new Map()
+  restarting: ReadonlySet<string> = new Set()
 ): Plan {
   const write = new Map<string, string>()
   const enable: string[] = []
@@ -145,7 +141,6 @@ export function planFor(
   const remove = owned.filter((one) => !ours.has(one)).sort()
   return {
     write,
-    beside,
     enable: enable.sort(),
     stop: stop.sort(),
     remove,
@@ -200,10 +195,6 @@ export function installing(
     if (done.code === 0) did.push(what)
     else refused.push(`${what}: ${done.out.slice(0, 200)}`)
   }
-
-  const beside = plan.beside ?? new Map<string, string>()
-  for (const [name, text] of beside) writeStaged(home, name, text)
-  if (beside.size > 0) did.push(`wrote ${counted(beside.size, A_FILE)} beside the units`)
 
   for (const [name, text] of plan.write) {
     writeStaged(home, name, text)

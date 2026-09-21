@@ -1,5 +1,4 @@
 import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { loadedHere } from "akasha/infrastructure/service/workstation/modules/service-loading/service-loading.module.code.ts"
 import type { ServiceWorkstation } from "akasha/infrastructure/service/workstation/service-workstation.page-type.types.ts"
 import { ORIGIN_ENV } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
@@ -78,10 +77,6 @@ function orderingLines(given: Service): readonly string[] {
   const stated = given.service.systemd
   const after = new Set(stated?.after ?? [])
   const wants = new Set(stated?.wants ?? [])
-  if (loadedHere(given.service.slug)) {
-    after.add(PAGES_UNIT)
-    wants.add(PAGES_UNIT)
-  }
   const lines: string[] = []
   for (const one of after) lines.push(`After=${one}`)
   for (const one of wants) lines.push(`Wants=${one}`)

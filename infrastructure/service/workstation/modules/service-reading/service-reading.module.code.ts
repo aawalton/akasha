@@ -8,10 +8,6 @@ import {
   LOOPBACK,
   portFor,
 } from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
-import {
-  loadedHere,
-  loaderRun,
-} from "akasha/infrastructure/service/workstation/modules/service-loading/service-loading.module.code.ts"
 import { serviceRunning } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.ts"
 import type {
   Service,
@@ -90,7 +86,6 @@ function runsFrom(
 ): readonly string[] | Refused | null {
   const slug = textAt(value, "slug")
   if (slug === null) return null
-  if (loadedHere(slug)) return [loaderRun(slug)]
   const said = commandOf(root, { code: RUNNER, arguments: [slug] }, codeAt)
   return "refused" in said ? said : [said.command]
 }

@@ -104,8 +104,8 @@ export const unitWriting = {
       statement: "An exit code a service states joins that exit rather than replacing it.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A unit the loader starts is ordered after the pages service and wants it.",
+      decisionKind: "decision-kind/absence",
+      statement: "A unit is ordered against nothing its own service's page leaves unnamed.",
     },
     {
       decisionKind: "decision-kind/departure",

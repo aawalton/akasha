@@ -31,16 +31,8 @@ export const servicePuttingUp = {
       statement: "A home directory nothing states refuses the call.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The loader and one manifest for each service are written where the units are.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A manifest carries the closure the deploy read for that service.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The port the loader reaches is the one the pages service's own page states.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing but a unit and a timer is written where the units sit.",
     },
     {
       decisionKind: "decision-kind/departure",

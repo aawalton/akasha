@@ -46,20 +46,12 @@ export const serviceReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The command line is composed the same way for every service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "The command line is composed the same way for every service the loader is not named for.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A service the loader is named for starts the loader and names itself to it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The tree a deploy pinned reaches no command line the loader composes.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A service is named there by its slug rather than by the file holding its code.",
+        "A service is named on that command line by its slug rather than by the file holding its code.",
     },
     {
       decisionKind: "decision-kind/departure",

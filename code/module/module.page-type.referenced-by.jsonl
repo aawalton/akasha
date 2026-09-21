@@ -1888,7 +1888,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-checkout/service-checkout.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-health/service-health.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-loading/service-loading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.ts"}
