@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/collections-addon/lorebooks-report-layout/lorebooks-report-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/collections-addon/lost-treasure-map-layout/lost-treasure-map-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/events-addon/next-boss-layout/next-boss-layout.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/interface-addon/fcocs-virtuals/fcocs-virtuals.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/lam-order-list-box-markup/lam-order-list-box-markup.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-extended-journal/journal-controls/journal-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-histoire/histoire-guild-history-cache-controls/histoire-guild-history-cache-controls.eso-interface.ts"}
@@ -34,7 +35,6 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/crafting-addon/craft-store-rune-layout/craft-store-rune-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/crafting-addon/craft-store-style-layout/craft-store-style-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/crafting-addon/potion-maker-layout/potion-maker-layout.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/interface-addon/fcocs-virtuals/fcocs-virtuals.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/items-addon/inventory-browser-layout/inventory-browser-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/lib-scrollable-menu/scrollable-menu-controls/scrollable-menu-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/navigation-addon/minimap-animations/minimap-animations.eso-interface.ts"}

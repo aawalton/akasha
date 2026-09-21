@@ -23,6 +23,11 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/housing-addon/housing-declarations/housing-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/housing-addon/housing-ptf-publish-declarations/housing-ptf-publish-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/housing-addon/housing-publish-declarations/housing-publish-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/interface-addon/assistant-entry-declarations/assistant-entry-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/interface-addon/fco-controls/fco-controls.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/interface-addon/fco-global-declarations/fco-global-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/interface-addon/interface-global-declarations/interface-global-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/interface-addon/quiet-camera-keybind-declarations/quiet-camera-keybind-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/keybinder-addon/keybinder-declarations/keybinder-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/arkadius-trade-tools/arkadius-trade-tools.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/bui/bui.type-declaration.ts"}
@@ -237,11 +242,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-type/eso-writ/eso-writ.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-type/lua-length/lua-length.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/interface-addon/assistant-entry-declarations/assistant-entry-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/interface-addon/fco-controls/fco-controls.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/interface-addon/fco-global-declarations/fco-global-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/interface-addon/interface-global-declarations/interface-global-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/interface-addon/quiet-camera-keybind-declarations/quiet-camera-keybind-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/item-browser/item-browser-global-declarations/item-browser-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/items-addon/inventory-config-global/inventory-config-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lib-scrollable-menu/scrollable-menu-api-shapes/scrollable-menu-api-shapes.type-declaration.ts"}
