@@ -5,7 +5,7 @@ export const elin = {
   type: "page-type/seat",
   slug: "elin",
   persona: "persona/elin",
-  assignmentSlug: "page-type/collection",
+  assignmentSlug: "initiative/elin-wandering-inn-wiki",
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
