@@ -7,5 +7,6 @@
 {"properties":[{"pageProperty":"text-property/id","required":true,"many":false},{"pageProperty":"relation-property/page-page-type","required":false,"many":false},{"pageProperty":"text-property/slug","required":true,"many":false},{"pageProperty":"text-property/title","required":false,"many":false},{"pageProperty":"text-property/description","required":false,"many":false},{"pageProperty":"text-property/cover","required":false,"many":false},{"pageProperty":"file-property/entries","required":false,"many":false,"uncommitted":true,"default":"jsonl"},{"pageProperty":"file-property/referenced-by","required":false,"many":false,"default":"jsonl"},{"pageProperty":"file-property/carried","required":false,"many":false,"default":"jsonl"},{"pageProperty":"grade-property/grade","required":false,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"page"}
+{"spellings":[{"partOfSpeech":"part-of-speech/noun","spelling":"page"},{"partOfSpeech":"part-of-speech/noun","spelling":"pages"}]}
 {"type":"page-type/page-type"}
 {"types":"ts"}

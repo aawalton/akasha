@@ -222,4 +222,8 @@ export const page = {
   ],
   types: "ts",
   schema: "jsonl",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "page" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "pages" },
+  ],
 } as const satisfies PageType
