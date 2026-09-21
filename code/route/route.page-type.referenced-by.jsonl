@@ -116,7 +116,6 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/addon-bundle-version/addon-bundle-version.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/addon-bundle/addon-bundle.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/api-ask/api-ask.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/api-cli-link-mint/api-cli-link-mint.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/api-errors/api-errors.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/api-items-search/api-items-search.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/api-items/api-items.route.ts"}
@@ -135,7 +134,6 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/api-watcher-worker-version/api-watcher-worker-version.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/catalog/catalog.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/character-versions/character-versions.route.ts"}
-{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/cli-link/cli-link.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/companion-versions/companion-versions.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/completion/completion.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/data-import/data-import.route.ts"}
