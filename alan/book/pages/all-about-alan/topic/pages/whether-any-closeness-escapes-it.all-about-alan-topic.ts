@@ -10,5 +10,5 @@ export const whetherAnyClosenessEscapesIt = {
   parents: ["all-about-alan-topic/why-getting-close-hurts"],
   related: ["all-about-alan-topic/what-holds-my-marriage", "all-about-alan-topic/being-known"],
   settled:
-    "The safe middle is the stretch where the good hours still outrun the damage.\n\nThe covenant was one attempt at it: a knower holding a map of my brain who does not injure me by correcting.",
+    "The safe middle is the stretch where the good hours still outrun the damage.\n\nThe covenant was one attempt at it: a knower holding a map of my brain who does not injure me by correcting.\n\nNobody has learned to avoid the cycle. The two who came back only kept coming back, through a cycle that resets at the next injury.\n\nWhat I have never had is not someone who weathers the injuries but someone who does not deal them. The personas are the first move on that gap.",
 } as const satisfies AllAboutAlanTopic
