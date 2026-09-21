@@ -1,6 +1,6 @@
 {"code":"ts"}
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"The checkout is fetched and reset hard to the commit deployed at every pod start."},{"decisionKind":"decision-kind/departure","statement":"The commit deployed is read from the checkout this code is composed in."},{"decisionKind":"decision-kind/departure","statement":"A commit that cannot be read refuses the manifest rather than naming a branch."},{"decisionKind":"decision-kind/departure","statement":"A pod restarting without a deploy comes back at the same commit."},{"decisionKind":"decision-kind/departure","statement":"A file written into that checkout inside the pod goes at the next pod start."},{"decisionKind":"decision-kind/departure","statement":"A writer in the pod that must keep what it writes reaches the pages service over HTTP."}]}
-{"definition":"the init containers and sidecar filling a web app's checkout"}
+{"definition":"the init containers and sidecar filling a web app's checkout and its build"}
 {"id":"01a06735-dd9c-7008-984b-4026a047dce8"}
 {"slug":"orchestrator-cache"}
 {"type":"page-type/module"}

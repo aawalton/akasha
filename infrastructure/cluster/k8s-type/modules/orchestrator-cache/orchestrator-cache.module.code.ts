@@ -1,5 +1,8 @@
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { orchestratorCacheVolumeMounts } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
+import {
+  orchestratorCacheEntrypointPath,
+  orchestratorCacheVolumeMounts,
+} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
   BUN_RUNTIME_IMAGE,
   type CacheLocation,
@@ -103,6 +106,47 @@ export function orchestratorCacheInitContainer(opts: {
     resources: {
       requests: { cpu: "200m", memory: memorySpec.request },
       limits: { memory: memorySpec.limit },
+    },
+    securityContext: {
+      runAsNonRoot: true,
+      runAsUser: 1000,
+      readOnlyRootFilesystem: true,
+      allowPrivilegeEscalation: false,
+      capabilities: { drop: ["ALL"] },
+    },
+    volumeMounts: orchestratorCacheVolumeMounts(),
+  }
+}
+
+export function webBuildInitContainer(opts: { packagePath: string; secretName: string }): object {
+  const script = [
+    "set -e",
+    `cd ${orchestratorCacheEntrypointPath(opts.packagePath)}`,
+    "if [ -f build/server/index.js ]; then",
+    '  echo "init-build: a build is beside the server already"',
+    "  exit 0",
+    "fi",
+    `NEXT_PUBLIC_BUILD_SHA=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD)`,
+    "VITE_BUILD_SHA=$NEXT_PUBLIC_BUILD_SHA",
+    "export NEXT_PUBLIC_BUILD_SHA VITE_BUILD_SHA",
+    `echo "init-build: building ${opts.packagePath} at $NEXT_PUBLIC_BUILD_SHA"`,
+    `${ORCHESTRATOR_CACHE_REPO_PATH}/node_modules/.bin/react-router build`,
+    'echo "init-build: build complete"',
+  ].join("\n")
+
+  return {
+    name: "init-build",
+    image: BUN_RUNTIME_IMAGE,
+    imagePullPolicy: "IfNotPresent",
+    command: ["sh", "-c", script],
+    envFrom: [{ secretRef: { name: opts.secretName } }],
+    env: [
+      { name: "HOME", value: CONTAINER_TMP_PATH },
+      { name: "NODE_ENV", value: "production" },
+    ],
+    resources: {
+      requests: { cpu: "500m", memory: "1Gi" },
+      limits: { memory: "4Gi" },
     },
     securityContext: {
       runAsNonRoot: true,

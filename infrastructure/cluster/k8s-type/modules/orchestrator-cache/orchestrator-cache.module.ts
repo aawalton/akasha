@@ -4,7 +4,7 @@ export const orchestratorCache = {
   id: "01a06735-dd9c-7008-984b-4026a047dce8",
   type: "page-type/module",
   slug: "orchestrator-cache",
-  definition: "the init containers and sidecar filling a web app's checkout",
+  definition: "the init containers and sidecar filling a web app's checkout and its build",
   code: "ts",
   decisions: [
     {

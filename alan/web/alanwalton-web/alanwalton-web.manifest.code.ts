@@ -6,6 +6,7 @@ import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
+  webBuildInitContainer,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   orchestratorCacheEntrypointPath,
@@ -15,7 +16,6 @@ import {
 import {
   ALANWALTON_WEB_CACHE,
   BUN_RUNTIME_IMAGE,
-  CONTAINER_TMP_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
@@ -26,6 +26,7 @@ const APP_NAME = alanwaltonWeb.resourceName
 const SECRET_NAME = "alanwalton-secrets"
 const LOGIN_SECRET_NAME = "alanwalton-login-secrets"
 const S3_CREDS_SECRET_NAME = "alanwalton-s3-creds"
+const PACKAGE_PATH = "alan/web"
 
 const RESOURCE_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -44,47 +45,6 @@ const GIT_ACCESS_TOKEN_REF = {
   secretName: SECRET_NAME,
   secretKey: "GIT_ACCESS_TOKEN",
 } as const
-
-function webBuildInitContainer(): object {
-  const script = [
-    "set -e",
-    `cd ${orchestratorCacheEntrypointPath("alan/web")}`,
-    "if [ -f build/server/index.js ]; then",
-    '  echo "init-build: a build is beside the server already"',
-    "  exit 0",
-    "fi",
-    `NEXT_PUBLIC_BUILD_SHA=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD)`,
-    "VITE_BUILD_SHA=$NEXT_PUBLIC_BUILD_SHA",
-    "export NEXT_PUBLIC_BUILD_SHA VITE_BUILD_SHA",
-    'echo "init-build: building alan/web at $NEXT_PUBLIC_BUILD_SHA"',
-    `${ORCHESTRATOR_CACHE_REPO_PATH}/node_modules/.bin/react-router build`,
-    'echo "init-build: build complete"',
-  ].join("\n")
-
-  return {
-    name: "init-build",
-    image: BUN_RUNTIME_IMAGE,
-    imagePullPolicy: "IfNotPresent",
-    command: ["sh", "-c", script],
-    envFrom: [{ secretRef: { name: SECRET_NAME } }],
-    env: [
-      { name: "HOME", value: CONTAINER_TMP_PATH },
-      { name: "NODE_ENV", value: "production" },
-    ],
-    resources: {
-      requests: { cpu: "500m", memory: "1Gi" },
-      limits: { memory: "4Gi" },
-    },
-    securityContext: {
-      runAsNonRoot: true,
-      runAsUser: 1000,
-      readOnlyRootFilesystem: true,
-      allowPrivilegeEscalation: false,
-      capabilities: { drop: ["ALL"] },
-    },
-    volumeMounts: orchestratorCacheVolumeMounts(),
-  }
-}
 
 function webDeploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
@@ -118,14 +78,14 @@ function webDeploymentYaml(): string {
               location: ALANWALTON_WEB_CACHE,
               memory: { request: "256Mi", limit: "2Gi" },
             }),
-            webBuildInitContainer(),
+            webBuildInitContainer({ packagePath: PACKAGE_PATH, secretName: SECRET_NAME }),
           ],
           containers: [
             {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("alan/web"),
+              workingDir: orchestratorCacheEntrypointPath(PACKAGE_PATH),
               command: ["bun", "run", "server.ts"],
               ports: [{ containerPort: alanwaltonWeb.containerPort, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],

@@ -6,6 +6,7 @@ import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
+  webBuildInitContainer,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   orchestratorCacheEntrypointPath,
@@ -14,7 +15,6 @@ import {
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
   BUN_RUNTIME_IMAGE,
-  CONTAINER_TMP_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
   REQUESTS_WEB_CACHE,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
@@ -43,47 +43,6 @@ const GIT_ACCESS_TOKEN_REF = {
   secretKey: "GIT_ACCESS_TOKEN",
 } as const
 
-function webBuildInitContainer(): object {
-  const script = [
-    "set -e",
-    `cd ${orchestratorCacheEntrypointPath(PACKAGE_PATH)}`,
-    "if [ -f build/server/index.js ]; then",
-    '  echo "init-build: a build is beside the server already"',
-    "  exit 0",
-    "fi",
-    `NEXT_PUBLIC_BUILD_SHA=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD)`,
-    "VITE_BUILD_SHA=$NEXT_PUBLIC_BUILD_SHA",
-    "export NEXT_PUBLIC_BUILD_SHA VITE_BUILD_SHA",
-    `echo "init-build: building ${PACKAGE_PATH} at $NEXT_PUBLIC_BUILD_SHA"`,
-    `${ORCHESTRATOR_CACHE_REPO_PATH}/node_modules/.bin/react-router build`,
-    'echo "init-build: build complete"',
-  ].join("\n")
-
-  return {
-    name: "init-build",
-    image: BUN_RUNTIME_IMAGE,
-    imagePullPolicy: "IfNotPresent",
-    command: ["sh", "-c", script],
-    envFrom: [{ secretRef: { name: SECRET_NAME } }],
-    env: [
-      { name: "HOME", value: CONTAINER_TMP_PATH },
-      { name: "NODE_ENV", value: "production" },
-    ],
-    resources: {
-      requests: { cpu: "500m", memory: "1Gi" },
-      limits: { memory: "4Gi" },
-    },
-    securityContext: {
-      runAsNonRoot: true,
-      runAsUser: 1000,
-      readOnlyRootFilesystem: true,
-      allowPrivilegeEscalation: false,
-      capabilities: { drop: ["ALL"] },
-    },
-    volumeMounts: orchestratorCacheVolumeMounts(),
-  }
-}
-
 function webDeploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
     apiVersion: "apps/v1",
@@ -107,7 +66,7 @@ function webDeploymentYaml(): string {
               location: REQUESTS_WEB_CACHE,
               memory: { request: "256Mi", limit: "2Gi" },
             }),
-            webBuildInitContainer(),
+            webBuildInitContainer({ packagePath: PACKAGE_PATH, secretName: SECRET_NAME }),
           ],
           containers: [
             {
