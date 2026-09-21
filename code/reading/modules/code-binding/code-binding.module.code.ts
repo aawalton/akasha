@@ -1,6 +1,8 @@
 import { scoping } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
+const GLOBALLY = "globalThis"
+
 export type Bound = {
   readonly scope: ts.Node
   readonly declared: ts.Node
@@ -66,6 +68,12 @@ export function referencing(node: ts.Identifier): boolean {
   if (ts.isMethodDeclaration(up) || ts.isPropertyDeclaration(up)) return up.name !== node
   if (ts.isPropertySignature(up) || ts.isMethodSignature(up)) return up.name !== node
   return true
+}
+
+export function globallyReached(named: ts.Identifier): boolean {
+  const up = named.parent
+  if (up === undefined || !ts.isPropertyAccessExpression(up)) return false
+  return up.name === named && ts.isIdentifier(up.expression) && up.expression.text === GLOBALLY
 }
 
 export function identifiersIn(node: ts.Node): readonly ts.Identifier[] {

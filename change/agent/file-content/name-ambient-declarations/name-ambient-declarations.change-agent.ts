@@ -21,6 +21,10 @@ export const nameAmbientDeclarations = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A name a file reaches on `globalThis` is looked for in a declaration too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The declarations are read from the index rather than looked for in the tree.",
     },
     {

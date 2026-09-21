@@ -36,6 +36,10 @@ export const codeBinding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A name written after `globalThis` is answered as reached on the global object.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name inside an import or export specifier reads as no reference.",
     },
     {

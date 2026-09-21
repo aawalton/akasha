@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   bindingOf,
   declaredIn,
+  globallyReached,
   identifiersIn,
   referencing,
 } from "akasha/code/reading/modules/code-binding/code-binding.module.code.ts"
@@ -71,4 +72,15 @@ test("a name written where a property is named reads as no reference", () => {
 test("a name inside an import specifier reads as no reference", () => {
   const source = sourceOf('import { eight } from "akasha/one/six.module.code.ts"\n')
   expect(referencing(lastNamed(source, "eight"))).toBe(false)
+})
+
+test("a name written after globalThis is answered as reached on the global object", () => {
+  const source = sourceOf("globalThis.thirteen = 1\n")
+  expect(globallyReached(lastNamed(source, "thirteen"))).toBe(true)
+})
+
+test("a name written after another object is not reached on the global object", () => {
+  const source = sourceOf("held.fourteen = 1\n")
+  expect(globallyReached(lastNamed(source, "fourteen"))).toBe(false)
+  expect(globallyReached(lastNamed(source, "held"))).toBe(false)
 })

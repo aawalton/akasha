@@ -42,6 +42,16 @@ test("a name nothing in the file binds is named by an import of the declaration 
   expect(bodyAnswered(said, world, ONE)).toBe(`import "akasha/${FAR}"\n\n${SPELLS}`)
 })
 
+test("a name the file reaches on globalThis is named by an import of the declaration", () => {
+  const world = worldHolding(
+    { [FAR]: "declare var HELD_ONE: number\n", [ONE]: "globalThis.HELD_ONE = 1\n" },
+    [FAR_PAGE]
+  )
+  const said = nameAmbientDeclarations(world, AT, 10)
+
+  expect(bodyAnswered(said, world, ONE)).toContain(`import "akasha/${FAR}"`)
+})
+
 test("a name the file binds itself is left alone", () => {
   const world = worldHolding({ [FAR]: DECLARES, [ONE]: `const HELD_ONE = 1\n${SPELLS}` }, [
     FAR_PAGE,

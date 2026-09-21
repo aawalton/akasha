@@ -14,6 +14,7 @@ import { leftAloneIn } from "akasha/change/modules/value-carrying/value-carrying
 import {
   bindingOf,
   declaredIn,
+  globallyReached,
   identifiersIn,
   referencing,
 } from "akasha/code/reading/modules/code-binding/code-binding.module.code.ts"
@@ -87,8 +88,10 @@ export function wantedIn(
   for (const one of identifiersIn(parsedAs(path, text))) {
     const held = declaring.get(one.text)
     if (held === undefined) continue
-    if (!referencing(one)) continue
-    if (bindingOf(one) !== null) continue
+    if (!globallyReached(one)) {
+      if (!referencing(one)) continue
+      if (bindingOf(one) !== null) continue
+    }
     found.add(`${UNDER}${PARTED}${closestTo(path, held)}`)
   }
   return [...found].filter((one) => !already.has(one)).sort()
