@@ -6,10 +6,5 @@ export const eppieMusicImprovements = {
   slug: "eppie-music-improvements",
   domain: "domain/music",
   persona: "persona/eppie",
-  intentStack: [
-    {
-      statement:
-        "A release reads its listening off the tracks it carries rather than holding its own.",
-    },
-  ],
+  intentStack: [],
 } as const satisfies Initiative
