@@ -1081,7 +1081,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/alan/picture/alan-picture.command.ts","id":"01a09c65-6c45-74f6-9f46-fbb5c1eb8702"}
 {"propertySlug":"decision-kind","path":"command/pages/alan/tracking/alan-tracking.command.ts","id":"01a06057-f714-707b-acab-a560208ffcd3"}
 {"propertySlug":"decision-kind","path":"command/pages/audit/audit.command.ts","id":"01a04fba-6d24-7935-80d4-8a1433dc03d4"}
-{"propertySlug":"decision-kind","path":"command/pages/browser/test-storage-state/browser-test-storage-state.command.ts","id":"01a06862-06c8-7002-8a7a-7c207e2c7cd4"}
 {"propertySlug":"decision-kind","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.ts","id":"01a06862-06c8-7001-8a4c-2018f029da13"}
 {"propertySlug":"decision-kind","path":"command/pages/change/apply/change-apply.command.ts","id":"01a08179-6ebf-724c-8698-aa6e02645d0e"}
 {"propertySlug":"decision-kind","path":"command/pages/change/drop/change-drop.command.ts","id":"01a08175-75cb-75dc-a288-942c054573f9"}

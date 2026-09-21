@@ -5,6 +5,6 @@ export const browser = {
   type: "page-type/namespace",
   slug: "browser",
   definition: "a site driven through the test harness",
-  parts: ["command/browser-test-storage-state", "command/browser-test-verify-render"],
+  parts: ["command/browser-test-verify-render"],
   name: "browser",
 } as const satisfies Namespace
