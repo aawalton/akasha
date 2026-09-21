@@ -40,7 +40,7 @@ import {
   claimsOf,
   type IsThere,
   type Paging,
-  pagingOf,
+  pagingBy,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Carried } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Known } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
@@ -365,7 +365,7 @@ export function judgingOver(given: Reading): Judging {
   const stated = index.fileKeysAt()
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
-  const paging = pagingOf(index.everyOfType)
+  const paging = pagingBy((folder) => given.shadow.listed(folder))
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {

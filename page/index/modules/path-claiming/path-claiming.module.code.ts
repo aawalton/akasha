@@ -279,6 +279,21 @@ export function pagingOf(ofType: OfType): Paging {
   }
 }
 
+export type Listing = (folder: string) => readonly string[]
+
+export function pagingBy(listed: Listing): Paging {
+  return (folder, types) => {
+    let found: string | null = null
+    for (const at of listed(folder)) {
+      const said = partedIn(at)
+      if (said === null || said.sections.length > 0 || said.held !== HELD) continue
+      if (!types.has(said.pageType) || folderOf(at) !== folder) continue
+      if (found === null || at < found) found = at
+    }
+    return found
+  }
+}
+
 const UNDER = "/"
 
 function claimedIn(
