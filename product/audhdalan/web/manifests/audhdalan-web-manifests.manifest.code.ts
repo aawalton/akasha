@@ -6,6 +6,7 @@ import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
+  webBuildInitContainer,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   orchestratorCacheEntrypointPath,
@@ -22,6 +23,7 @@ import { audhdalanWeb } from "akasha/infrastructure/service/cluster/pages/audhda
 const NAMESPACE = audhdalanWeb.namespace
 const APP_NAME = audhdalanWeb.resourceName
 const SECRET_NAME = "audhdalan-secrets"
+const PACKAGE_PATH = "product/audhdalan/web"
 
 const RESOURCE_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -64,13 +66,14 @@ function webDeploymentYaml(): string {
               location: AUDHDALAN_WEB_CACHE,
               memory: { request: "256Mi", limit: "2Gi" },
             }),
+            webBuildInitContainer({ packagePath: PACKAGE_PATH, secretName: SECRET_NAME }),
           ],
           containers: [
             {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("product/audhdalan/web"),
+              workingDir: orchestratorCacheEntrypointPath(PACKAGE_PATH),
               command: ["bun", "run", "server.ts"],
               ports: [{ containerPort: audhdalanWeb.containerPort, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
