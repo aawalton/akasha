@@ -57,7 +57,6 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-mark-safe-tab-filter/writ-mark-safe-tab-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-parser-dispatch/writ-parser-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-required-skill/writ-required-skill.module.code.ts"}
-{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-codec/lccc-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-color/lccc-color.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/log/modules/addon-log/addon-log.module.code.ts"}
@@ -130,6 +129,7 @@
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master/inventory-writ-crafting-master.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-detection/inventory-writ-detection.module.code.ts"}
+{"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-move-buttons/order-list-box-move-buttons.module.code.ts"}
 {"propertySlug":"import","fileName":"language-extensions.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-row-setup/order-list-box-row-setup.module.code.ts"}

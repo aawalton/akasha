@@ -12,10 +12,6 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-reagents/potion-reagents.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-parser-dispatch/writ-parser-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-slash-command/writ-slash-command.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-init/keybinder-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-share/keybinder-share.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-slash-command/destinations-pins-slash-command.module.code.ts"}
@@ -121,6 +117,10 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-detection/inventory-writ-detection.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-master-probe/inventory-writ-master-probe.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-share/keybinder-share.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}

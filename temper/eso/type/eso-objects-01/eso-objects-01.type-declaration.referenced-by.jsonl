@@ -2,8 +2,6 @@
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-style-rows/craft-style-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-state/keybinder-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-buff-panel-update/combat-ui-buff-panel-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"}
@@ -32,6 +30,8 @@
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-state/keybinder-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"}

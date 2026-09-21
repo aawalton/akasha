@@ -1,10 +1,10 @@
-{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-binding-fns/keybinder-binding-fns.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-filter/keybinder-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-init/keybinder-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-binding-fns/keybinder-binding-fns.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-filter/keybinder-filter.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-keybindings.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-load/addon-keybinds-load.module.code.ts"}

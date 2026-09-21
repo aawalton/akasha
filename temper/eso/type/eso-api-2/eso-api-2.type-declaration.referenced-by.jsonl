@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-keybinds/potion-keybinds.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-tooltip/writ-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-writ-fields/writ-writ-fields.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-binding-fns/keybinder-binding-fns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-mode/minimap-mode.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-ui-strings/minimap-ui-strings.module.code.ts"}
@@ -69,6 +68,7 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-binding-fns/keybinder-binding-fns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-menu-entry/addon-keybinds-menu-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-dialogs/order-list-box-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-entry-methods/order-list-box-entry-methods.module.code.ts"}

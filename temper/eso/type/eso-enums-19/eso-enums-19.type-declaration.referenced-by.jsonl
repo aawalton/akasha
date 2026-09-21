@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-keybinds/potion-keybinds.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-tooltips/potion-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-init/minimap-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
@@ -44,6 +43,7 @@
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-constants/order-list-box-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-dialogs/order-list-box-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-drag-methods/order-list-box-drag-methods.module.code.ts"}

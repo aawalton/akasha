@@ -3,9 +3,6 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-events/potion-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-init/potion-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-main-menu/potion-main-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-init/keybinder-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-share/keybinder-share.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-initialize/destinations-pins-initialize.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-language/destinations-pins-language.module.code.ts"}
@@ -76,6 +73,9 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-refine/inventory-rules-dispatch-refine.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-share/keybinder-share.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-drag-methods/order-list-box-drag-methods.module.code.ts"}

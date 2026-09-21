@@ -33,9 +33,6 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-prov-parser/writ-prov-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-smith-parser-ops/writ-smith-parser-ops.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-smith-schema-data/writ-smith-schema-data.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-init/keybinder-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}
@@ -146,6 +143,9 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master/inventory-writ-crafting-master.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-provisioning/inventory-writ-crafting-provisioning.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-build/order-list-box-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-dialogs/order-list-box-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-drag-methods/order-list-box-drag-methods.module.code.ts"}

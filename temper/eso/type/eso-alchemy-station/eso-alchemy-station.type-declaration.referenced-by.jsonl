@@ -20,9 +20,9 @@
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-ui-strings/potion-ui-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-windows/potion-windows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-checkbox/addon-menu-widget-checkbox.module.code.ts"}

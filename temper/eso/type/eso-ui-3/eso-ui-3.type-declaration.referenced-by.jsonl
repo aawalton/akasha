@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-tooltips/potion-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-windows/potion-windows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-tooltip/writ-tooltip.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-tooltips/map-pins-tooltips.module.code.ts"}
@@ -70,6 +69,7 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-lock-icon/inventory-tooltip-lock-icon.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-tooltips/addon-menu-widget-dropdown-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown/addon-menu-widget-dropdown.module.code.ts"}
