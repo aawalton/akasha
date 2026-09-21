@@ -4,6 +4,7 @@ import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/modules/lib-sets-const-dropmechanics/lib-sets-const-dropmechanics.module.code.ts"
+import "akasha/temper/addon/pages/lib-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 
 const lib = LibSets
 
