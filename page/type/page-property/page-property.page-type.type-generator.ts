@@ -117,6 +117,14 @@ function chosenIn(path: string, slug: string): Written {
   }
 }
 
+function ladderIn(shadow: Shadow, kind: string): Written | null {
+  const listed = shadow.index.listedAt(PAGE_TYPE, kind)[0]
+  if (listed === undefined) return null
+  const value = shadow.pageOf(listed.path)
+  if (value === null || !Array.isArray(value[VALUES])) return null
+  return chosenIn(listed.path, kind)
+}
+
 function endedIn(value: Record<string, unknown>): Written | null {
   const held = value[EXTENSIONS]
   if (!Array.isArray(held) || held.length === 0) return null
@@ -183,7 +191,10 @@ function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   if (held !== undefined) return { held, imports: [] }
   if (asked.kind === RELATION) return memberIn(shadow, SLUG_AT)
   if (asked.kind === RECORD) return recordIn(shadow, asked)
-  if (CHOSEN.has(asked.kind)) return chosenIn(asked.path, asked.slug)
+  if (CHOSEN.has(asked.kind)) {
+    if (Array.isArray(asked.value[VALUES])) return chosenIn(asked.path, asked.slug)
+    return ladderIn(shadow, asked.kind)
+  }
   if (shadow.index.kindsUnder(FILE_PROPERTY).has(asked.kind)) return endedIn(asked.value)
   if (asked.kind === ONE_OF) return oneOfIn(shadow, asked.value)
   if (asked.kind !== COMPUTED) return null

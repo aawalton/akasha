@@ -67,6 +67,11 @@ export const pageProperty = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A property choosing from a set states that set, or takes the set its page type states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The two answer to different reaches.",
     },
     {
