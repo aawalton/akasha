@@ -3511,6 +3511,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.ts","id":"01a062d1-4a71-7f08-a4d5-3b9e7c02a1df"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.ts","id":"01a061a6-a945-7667-867d-9548c3e63be1"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-placing/addon-placing.module.ts","id":"01a090b8-6baa-7001-902c-0a3fc6d7cf83"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.ts","id":"01a0c4e2-1f00-7a10-9b42-6c1d0f3a8e55"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/build-output/build-output.module.ts","id":"01a09190-5f20-7946-9db3-368a18b17537"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/consolidation-migrations/consolidation-migrations.module.ts","id":"01a06038-2cc2-79bf-bf75-d6b79d64ce35"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/global-name-dependents/global-name-dependents.module.ts","id":"01a06038-2cc1-77dd-90fd-2e476aa73f6c"}

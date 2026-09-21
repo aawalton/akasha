@@ -1,0 +1,49 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const addonSweeping = {
+  id: "01a0c4e2-1f00-7a10-9b42-6c1d0f3a8e55",
+  type: "page-type/module",
+  slug: "addon-sweeping",
+  definition: "the folders in the game the deploy wrote for addons it ships no longer, taken away",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The marker the deploy writes is the only evidence a folder is the deploy's to take away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder carrying the marker that no addon page names any more is taken away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder carrying no marker is left where it is, whatever that folder is named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder the sweep could not read is left where it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder a manifest names as a sibling counts as shipped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sweep that finds no addon at all takes nothing away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sweep says how many folders it weighed and how many it took away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder that would not go is refused rather than reported gone.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here is compiled and nothing here is placed.",
+    },
+  ],
+} as const satisfies Module

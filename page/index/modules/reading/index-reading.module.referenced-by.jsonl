@@ -418,6 +418,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/type/modules/type-turning/type-turning.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addon/build/resolve/modules/sibling-addons/sibling-addons.module.test.ts"}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

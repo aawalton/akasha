@@ -9,6 +9,7 @@ import {
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import { compiledAddon } from "akasha/temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts"
 import { placedAddon } from "akasha/temper/addon/build/modules/addon-placing/addon-placing.module.code.ts"
+import { sweptStaleAddons } from "akasha/temper/addon/build/modules/addon-sweeping/addon-sweeping.module.code.ts"
 import { listAllAddons } from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
 
 export async function putUpAddon(
@@ -37,5 +38,9 @@ export async function putUpAddon(
   report.push(...placed.lines)
   if (placed.refusals.length > 0) return answeredWith(report, placed.refusals, OPERATIONAL)
   up.push(`${name}, placed where the game reads it`)
+
+  const swept = sweptStaleAddons(codeAt)
+  report.push(...swept.lines)
+  if (swept.refusals.length > 0) return answeredWith(report, swept.refusals, OPERATIONAL)
   return told(report)
 }

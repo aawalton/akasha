@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/capture/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/catalog/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"}

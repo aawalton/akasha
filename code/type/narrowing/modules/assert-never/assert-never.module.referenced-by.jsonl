@@ -53,6 +53,7 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-dependency-floor/addon-dependency-floor.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/build/deploy-check/modules/cli-args/cli-args.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/build/resolve/modules/folder-ownership/folder-ownership.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}

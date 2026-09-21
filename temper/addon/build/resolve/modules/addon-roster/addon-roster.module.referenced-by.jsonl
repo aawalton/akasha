@@ -15,5 +15,6 @@
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/resolve/modules/deployable-addons/deployable-addons.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts","id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}

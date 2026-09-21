@@ -39,5 +39,9 @@ export const deployAddonInstalling = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here is packed and nothing here leaves this machine.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game's folder is swept of what no addon ships after the addon is placed.",
+    },
   ],
 } as const satisfies Module

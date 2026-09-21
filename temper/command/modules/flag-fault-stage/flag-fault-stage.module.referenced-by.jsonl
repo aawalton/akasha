@@ -5,5 +5,6 @@
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts"}
+{"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"temper/command/modules/flag-fault-stage/flag-fault-stage.module.test.ts"}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}
