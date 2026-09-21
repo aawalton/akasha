@@ -1,9 +1,9 @@
 {"propertySlug":"import","fileName":"noun-group.phrase-kind.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"noun-group.phrase-kind.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.ts","id":"01a0c576-2e1a-7996-8a94-9a7d80b20c55"}
-{"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/bare-noun.construction.ts","id":"01a0c57b-3cf2-71e2-96ca-ef11ec720706"}
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-group-with-an-adjective.construction.ts","id":"01a0c5f9-391e-719d-9f02-bb4b63c6b37a"}
-{"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-with-a-preposition-phrase.construction.ts","id":"01a0c593-5e0a-7a00-be0b-096d9a7ee6bb"}
+{"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-alone.construction.ts","id":"01a0c620-6a9c-787c-8e9b-8cbfd5e20a22"}
+{"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-preposition-phrase.construction.ts","id":"01a0c593-5e0a-7a00-be0b-096d9a7ee6bb"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-alone.construction.ts","id":"01a0c57f-2d90-7475-a1a4-587ac08f0ec0"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-with-a-determiner.construction.ts","id":"01a0c58c-287b-70be-abf3-05d84f4c124b"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-with-an-adjective.construction.ts","id":"01a0c5f9-391e-719d-9f02-bb4b63c6b37a"}

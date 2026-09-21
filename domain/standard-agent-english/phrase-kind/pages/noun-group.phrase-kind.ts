@@ -4,7 +4,7 @@ export const nounGroup = {
   id: "01a0c57e-fcdb-7371-b035-b4d46532dfce",
   type: "page-type/phrase-kind",
   slug: "noun-group",
-  definition: "a noun with the words describing it, before a determiner",
+  definition: "a noun run with the words describing it, before a determiner",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -2,7 +2,7 @@
 {"definition":"which sort one phrase is"}
 {"extends":["page-type/domain"]}
 {"id":"01a0c576-2e1a-7996-8a94-9a7d80b20c55"}
-{"parts":["phrase-kind/noun-phrase","phrase-kind/noun-group","phrase-kind/preposition-phrase","phrase-kind/domain-definition"]}
+{"parts":["phrase-kind/noun-phrase","phrase-kind/noun-group","phrase-kind/preposition-phrase","phrase-kind/domain-definition","phrase-kind/noun-run"]}
 {"schema":"jsonl"}
 {"slug":"phrase-kind"}
 {"type":"page-type/page-type"}

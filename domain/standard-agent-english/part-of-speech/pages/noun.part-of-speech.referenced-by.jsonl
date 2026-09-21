@@ -52,4 +52,4 @@
 {"propertySlug":"part-of-speech","path":"infrastructure/machine/machine.domain.ts","id":"01a06596-0000-7000-8000-000000000301"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/bare-noun.construction.ts","id":"01a0c57b-3cf2-71e2-96ca-ef11ec720706"}
-{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-with-a-preposition-phrase.construction.ts","id":"01a0c593-5e0a-7a00-be0b-096d9a7ee6bb"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-with-a-noun-run.construction.ts","id":"01a0c620-5515-7a60-90a8-f4786eeb2912"}

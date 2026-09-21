@@ -2487,6 +2487,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/noun-group.phrase-kind.ts","id":"01a0c57e-fcdb-7371-b035-b4d46532dfce"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/noun-run.phrase-kind.ts","id":"01a0c61f-fd05-7af5-b494-15e0c3ced279"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/pages/preposition-phrase.phrase-kind.ts","id":"01a0c591-7122-76ec-abd4-2e48a1601678"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.ts","id":"01a0c576-2e1a-7996-8a94-9a7d80b20c55"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/property/properties/start-symbol.relation-property.ts","id":"01a0c595-f8ed-761d-b0c8-7fd9abecd9ba"}

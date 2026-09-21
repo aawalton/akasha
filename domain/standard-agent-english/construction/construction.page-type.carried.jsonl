@@ -2,7 +2,7 @@
 {"definition":"one way a phrase kind is written"}
 {"extends":["page-type/domain"]}
 {"id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
-{"parts":["construction/bare-noun","one-of-property/written-from","relation-property/phrase-kind","text-property/admits","text-property/refuses","construction/noun-group-alone","construction/noun-group-with-a-determiner","construction/preposition-with-a-noun-phrase","construction/noun-with-a-preposition-phrase","construction/domain-definition-as-a-noun-phrase","construction/noun-group-with-an-adjective","construction/domain-definition-with-a-conjunction"]}
+{"parts":["construction/bare-noun","one-of-property/written-from","relation-property/phrase-kind","text-property/admits","text-property/refuses","construction/noun-group-alone","construction/noun-group-with-a-determiner","construction/preposition-with-a-noun-phrase","construction/noun-run-with-a-preposition-phrase","construction/domain-definition-as-a-noun-phrase","construction/noun-group-with-an-adjective","construction/domain-definition-with-a-conjunction","construction/noun-with-a-noun-run","construction/noun-run-alone"]}
 {"properties":[{"pageProperty":"relation-property/phrase-kind","required":true,"many":false},{"pageProperty":"one-of-property/written-from","required":true,"many":true,"maxCount":null,"repeats":true},{"pageProperty":"text-property/admits","required":true,"many":true,"maxCount":null},{"pageProperty":"text-property/refuses","required":false,"many":true,"maxCount":null}]}
 {"schema":"jsonl"}
 {"slug":"construction"}

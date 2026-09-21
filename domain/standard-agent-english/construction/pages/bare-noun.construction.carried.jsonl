@@ -1,7 +1,7 @@
 {"admits":["markdown","arousal","code"]}
-{"definition":"a noun group written from one noun and nothing else"}
+{"definition":"a noun run written from one noun and nothing else"}
 {"id":"01a0c57b-3cf2-71e2-96ca-ef11ec720706"}
-{"phraseKind":"phrase-kind/noun-group"}
+{"phraseKind":"phrase-kind/noun-run"}
 {"refuses":["the code","versioned text"]}
 {"slug":"bare-noun"}
 {"type":"page-type/construction"}

@@ -14,10 +14,12 @@ export const construction = {
     "construction/noun-group-alone",
     "construction/noun-group-with-a-determiner",
     "construction/preposition-with-a-noun-phrase",
-    "construction/noun-with-a-preposition-phrase",
+    "construction/noun-run-with-a-preposition-phrase",
     "construction/domain-definition-as-a-noun-phrase",
     "construction/noun-group-with-an-adjective",
     "construction/domain-definition-with-a-conjunction",
+    "construction/noun-with-a-noun-run",
+    "construction/noun-run-alone",
   ],
   extends: ["page-type/domain"],
   properties: [

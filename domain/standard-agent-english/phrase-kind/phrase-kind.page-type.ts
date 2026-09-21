@@ -10,6 +10,7 @@ export const phraseKind = {
     "phrase-kind/noun-group",
     "phrase-kind/preposition-phrase",
     "phrase-kind/domain-definition",
+    "phrase-kind/noun-run",
   ],
   extends: ["page-type/domain"],
   decisions: [

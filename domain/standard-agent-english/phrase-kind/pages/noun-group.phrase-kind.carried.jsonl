@@ -1,5 +1,5 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"A noun group takes a word describing it and never takes a determiner."},{"decisionKind":"decision-kind/departure","statement":"A noun group takes one preposition phrase and never two, so no phrase has a second parse."}]}
-{"definition":"a noun with the words describing it, before a determiner"}
+{"definition":"a noun run with the words describing it, before a determiner"}
 {"id":"01a0c57e-fcdb-7371-b035-b4d46532dfce"}
 {"slug":"noun-group"}
 {"type":"page-type/phrase-kind"}
