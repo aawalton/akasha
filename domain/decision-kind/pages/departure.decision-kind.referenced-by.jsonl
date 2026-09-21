@@ -3247,6 +3247,7 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts","id":"01a0c463-4e89-7883-b6e9-8377856c3e09"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts","id":"01a0c47f-725d-7d9c-9fd8-45724688d64d"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts","id":"01a0c473-6eee-71da-89a1-85de833a7921"}
+{"propertySlug":"decision-kind","path":"story/game/properties/game-attributes.relation-property.ts","id":"01a0c48b-86e0-7f2b-8243-18250c6f5d6d"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-mechanics.relation-property.ts","id":"01a0c458-8d2c-7f1e-9a41-8200c8c04433"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}

@@ -36,6 +36,7 @@ export const game = {
     "page-type/game-mechanic",
     "relation-property/game-mechanics",
     "page-type/game-attribute",
+    "relation-property/game-attributes",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -68,6 +69,12 @@ export const game = {
     { pageProperty: "file-property/tower-sessions", required: false, many: false },
     {
       pageProperty: "relation-property/game-mechanics",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "relation-property/game-attributes",
       required: false,
       many: true,
       maxCount: null,
