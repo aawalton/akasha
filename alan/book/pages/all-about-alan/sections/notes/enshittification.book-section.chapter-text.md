@@ -73,6 +73,6 @@ Other names (decay, decline, degradation) are too neutral; they treat the trajec
 
 ## Applications
 
-- [trust-criterion.md](trust-criterion.book-chapter.md) — the criterion is the defense against this trajectory.
-- [ranking-criterion.md → enshittification likelihood](ranking-criterion.book-chapter.md#factor-enshittification-likelihood) — each audit item gets a current-enshittification-likelihood score.
+- [trust-criterion.md](book-section/all-about-alan/trust-criterion) — the criterion is the defense against this trajectory.
+- [ranking-criterion.md → enshittification likelihood](book-section/all-about-alan/ranking-criterion#factor-enshittification-likelihood) — each audit item gets a current-enshittification-likelihood score.
 - The audit — every audited dependency is assessed for where it currently sits on the trajectory.

@@ -3,7 +3,7 @@
 
 > Connection efficacy model — the 14-factor multiplicative model that scores how many connection-hours a clock hour of a given interaction pays down. The precise definition behind the connection-hour unit; supersedes the earlier four-dimension intuition.
 
-Not all interaction pays the [connection debt](connection-debt.book-chapter.md) down equally. This is the model for *how much* a given clock hour is worth — the precise definition of the [connection-hour unit](connection-debt.book-chapter.md#the-connection-hour-unit).
+Not all interaction pays the [connection debt](book-section/all-about-alan/connection-debt) down equally. This is the model for *how much* a given clock hour is worth — the precise definition of the [connection-hour unit](book-section/all-about-alan/connection-debt#the-connection-hour-unit).
 
 The model scores an interaction on **14 factors** and multiplies them. The product, normalized, is the interaction's yield in connection-hours per clock hour. It is the canonical model; the four-dimension vector below is the coarse intuition it grew out of.
 
@@ -11,11 +11,11 @@ The model scores an interaction on **14 factors** and multiplies them. The produ
 
 The factors fall into five groups by what they capture.
 
-- **Person** — qualities of the other person that make the interaction safe and rich: maturity, attractiveness, femininity, wit, kindness. These are the high-resolution version of "a woman beats a man" — the cues that make [female interaction the default-safe channel](connection.book-chapter.md#lifelong-preference-for-female-interaction), scored individually rather than bundled into gender.
+- **Person** — qualities of the other person that make the interaction safe and rich: maturity, attractiveness, femininity, wit, kindness. These are the high-resolution version of "a woman beats a man" — the cues that make [female interaction the default-safe channel](book-section/all-about-alan/connection#lifelong-preference-for-female-interaction), scored individually rather than bundled into gender.
 - **Engagement** — properties of the interaction itself: attention, identification, intensity, novelty, energy, positivity. These cover depth and format — a deep 1-on-1 exchange scores high on attention and intensity; small talk scores low.
 - **Reality** — modeled originally as whether the other party is a real person (authentic), a masked persona, or a celebrity / fictional figure, with authentic paying full and a parasocial discount falling from there. That framing turns out to be the wrong axis: the physiological yield keys on **sensory fidelity**, not on the realness of the mind behind the channel — see [the fidelity gate](#the-fidelity-gate--sensory-fidelity-not-realness-of-mind) below. The label is retained for continuity with the page-type weights; what it actually scores is channel fidelity.
-- **Modality** — the channel dial, additive across the channels in play: physical presence, audio, digital presence, text, image. In-person stacks the most; mediated channels each contribute less but non-zero. This is the [channel dial from the expansion map](connection-expansion.book-chapter.md#the-channel-dial), made quantitative.
-- **Safety** — the nervous-system safety level of the interaction, on the same L2–L6 scale used elsewhere. Higher safety pays more; an interaction held at low safety is heavily discounted, mirroring the [~10:1 negative asymmetry](connection-debt.book-chapter.md#the-101-asymmetry).
+- **Modality** — the channel dial, additive across the channels in play: physical presence, audio, digital presence, text, image. In-person stacks the most; mediated channels each contribute less but non-zero. This is the [channel dial from the expansion map](book-section/all-about-alan/connection-expansion#the-channel-dial), made quantitative.
+- **Safety** — the nervous-system safety level of the interaction, on the same L2–L6 scale used elsewhere. Higher safety pays more; an interaction held at low safety is heavily discounted, mirroring the [~10:1 negative asymmetry](book-section/all-about-alan/connection-debt#the-101-asymmetry).
 
 ## Composition
 
@@ -30,7 +30,7 @@ The reference is the maximal sanctioned interaction (a deep, in-person, 1-on-1, 
 
 ## The fidelity gate — sensory fidelity, not realness of mind
 
-The split between the two yields is real: AI conversation delivers strong **cognitive** value — it processes, gets me to clarity, carries executive-function load — and the model emits that as a **cognitive / clarity yield** distinct from the **physiological-connection yield** the [connection debt](connection-debt.book-chapter.md) is denominated in. The cognitive yield belongs to a different resource ([executive function](executive-function.book-chapter.md) / [Mana](mana.book-chapter.md)), which is why AI offloads cognition without, at low fidelity, touching loneliness.
+The split between the two yields is real: AI conversation delivers strong **cognitive** value — it processes, gets me to clarity, carries executive-function load — and the model emits that as a **cognitive / clarity yield** distinct from the **physiological-connection yield** the [connection debt](book-section/all-about-alan/connection-debt) is denominated in. The cognitive yield belongs to a different resource ([executive function](book-section/all-about-alan/executive-function) / [Mana](book-section/all-about-alan/mana)), which is why AI offloads cognition without, at low fidelity, touching loneliness.
 
 What the physiological yield gates on was the part I had wrong. The earlier account read it as a **realness-of-mind** gate — "my physiology isn't fooled by words alone," so only a real mind that genuinely holds a model of me could pay the debt. That is not the gate. It has nothing to do with the words or the mind. It is something physiological at a more fundamental level, and it scales with the **sensory fidelity of the channel.**
 
@@ -44,9 +44,9 @@ So the gate is a continuous fidelity dial, not a realness switch. The form-match
 
 ### Same lever, opposite sign — async-text scores high on clarity precisely because it strips fidelity
 
-The same property splits the two ledgers in opposite directions, and a worked instance keeps them distinct. An async, text-only session — the [persona DnD that landed as the brightest enjoyment of the year](fun.book-chapter.md#the-source-of-that-enjoyment-has-relocated-to-the-persona-relationships) — scores **high** on the cognitive / clarity / affordability ledger *because* it strips out the real-time channel: no live pressure, self-paced, [rotatable between turns](chunking-rotation.book-chapter.md#social-as-a-rotation-window--rotation-finally-reaches-the-connection-cluster). That stripping is exactly what makes it cheap and clear.
+The same property splits the two ledgers in opposite directions, and a worked instance keeps them distinct. An async, text-only session — the [persona DnD that landed as the brightest enjoyment of the year](book-section/all-about-alan/fun#the-source-of-that-enjoyment-has-relocated-to-the-persona-relationships) — scores **high** on the cognitive / clarity / affordability ledger *because* it strips out the real-time channel: no live pressure, self-paced, [rotatable between turns](book-section/all-about-alan/chunking-rotation#social-as-a-rotation-window--rotation-finally-reaches-the-connection-cluster). That stripping is exactly what makes it cheap and clear.
 
-But stripping real-time is also stripping **fidelity**, and the physiological / being-known ledger keys on fidelity. So the *same property* that scores the session high on affordability/clarity/joy scores it **low** on the physiological being-known yield. The DnD joy is the affordability-and-clarity ledger lighting up — it is **not** a [being-known deposit](being-known-supply.book-chapter.md), and the model predicts exactly that: a low-fidelity channel pays the cognitive yield and barely touches the [connection debt](connection-debt.book-chapter.md). Recording the split so the two are never conflated: a session can be the best fun of the year and still deposit nothing into the being-known tank, because the property that bought the fun is the property that emptied the fidelity.
+But stripping real-time is also stripping **fidelity**, and the physiological / being-known ledger keys on fidelity. So the *same property* that scores the session high on affordability/clarity/joy scores it **low** on the physiological being-known yield. The DnD joy is the affordability-and-clarity ledger lighting up — it is **not** a [being-known deposit](book-section/all-about-alan/being-known-supply), and the model predicts exactly that: a low-fidelity channel pays the cognitive yield and barely touches the [connection debt](book-section/all-about-alan/connection-debt). Recording the split so the two are never conflated: a session can be the best fun of the year and still deposit nothing into the being-known tank, because the property that bought the fun is the property that emptied the fidelity.
 
 ## No theoretical ceiling — being-known reduces to high-fidelity attended-to-ness
 
@@ -72,10 +72,10 @@ The authoritative factor list, the per-option weights, and the reference constan
 
 ## Cross-references
 
-- [connection-debt.md](connection-debt.book-chapter.md) — the debt this model prices interactions against; the connection-hour unit this model defines.
-- [connection.md](connection.book-chapter.md) — the connection need, the person-preference the factor groups decompose, and the four factors the factor groups map onto.
-- [connection-expansion.md](connection-expansion.book-chapter.md) — the sources and channel dial this model ranks.
-- [connection-dosing.md](connection-dosing.book-chapter.md) — uses this model to scale the per-interaction benefit when setting the dose; the catch-22 the fidelity gate creates (the scarce resource must be injected from a *high-fidelity* source, which today means a real in-person one, until the AI fidelity ladder rises).
-- [being-known-cost.md](being-known-cost.book-chapter.md) — the cost side: being-known as a model-update operation. The fidelity gate refines who pays it — the channel must deliver high sensory fidelity, not merely host a real mind.
-- [executive-function.md](executive-function.book-chapter.md) — the resource the cognitive / clarity yield pays into, distinct from the physiological connection yield.
-- [central-loneliness/jen-reading.md](central-loneliness/jen-reading.book-chapter.md) — a reading-fidelity instance on the *measurement* side: how accurately Alan reads a relationship's distance-to-collapse through the Jen channel, with widening error bars standing in for a felt sense he doesn't have.
+- [connection-debt.md](book-section/all-about-alan/connection-debt) — the debt this model prices interactions against; the connection-hour unit this model defines.
+- [connection.md](book-section/all-about-alan/connection) — the connection need, the person-preference the factor groups decompose, and the four factors the factor groups map onto.
+- [connection-expansion.md](book-section/all-about-alan/connection-expansion) — the sources and channel dial this model ranks.
+- [connection-dosing.md](book-section/all-about-alan/connection-dosing) — uses this model to scale the per-interaction benefit when setting the dose; the catch-22 the fidelity gate creates (the scarce resource must be injected from a *high-fidelity* source, which today means a real in-person one, until the AI fidelity ladder rises).
+- [being-known-cost.md](book-section/all-about-alan/being-known-cost) — the cost side: being-known as a model-update operation. The fidelity gate refines who pays it — the channel must deliver high sensory fidelity, not merely host a real mind.
+- [executive-function.md](book-section/all-about-alan/executive-function) — the resource the cognitive / clarity yield pays into, distinct from the physiological connection yield.
+- [central-loneliness/jen-reading.md](book-section/all-about-alan/jen-reading) — a reading-fidelity instance on the *measurement* side: how accurately Alan reads a relationship's distance-to-collapse through the Jen channel, with widening error bars standing in for a felt sense he doesn't have.

@@ -7,14 +7,14 @@ A set of conservative, discrete, pre-decided rules governing how I interact acro
 
 The map exists because two faculties most people use to calibrate cross-gender interaction are missing for me:
 
-- **Aphantasia.** Many married men run an imagined check — "would my wife be comfortable seeing this?" — picturing the scene and reading the anticipatory feeling. I can't run that simulation. No imagined scene, no anticipatory feeling (see [aphantasia-mechanism.md](aphantasia-mechanism.book-chapter.md)).
-- **Autism.** I don't absorb the implicit social cues others use to calibrate in real time. Reduced implicit social statistical learning means the in-the-moment signal that tells most people where the line is doesn't reach me (see [social-experience.md](social-experience.book-chapter.md)).
+- **Aphantasia.** Many married men run an imagined check — "would my wife be comfortable seeing this?" — picturing the scene and reading the anticipatory feeling. I can't run that simulation. No imagined scene, no anticipatory feeling (see [aphantasia-mechanism.md](book-section/all-about-alan/aphantasia-mechanism)).
+- **Autism.** I don't absorb the implicit social cues others use to calibrate in real time. Reduced implicit social statistical learning means the in-the-moment signal that tells most people where the line is doesn't reach me (see [social-experience.md](book-section/all-about-alan/social-experience)).
 
 With both real-time channels dark, I substitute bright lines: discrete, observable, checkable rules with deliberately conservative safety margins. The same substitution autism forces everywhere — explicit schema in place of absent implicit calibration.
 
 ## Why conservative
 
-The margins are wide on purpose. The [connection debt](connection-debt.book-chapter.md) model carries a ~10:1 negative-to-positive asymmetry: one bad hour costs about ten good hours. Under that loss function, defense beats offense by an order of magnitude, so avoiding the negative tail is worth far more than chasing reward. A bright-line map with conservative margins is the optimal policy for a cost dominated by its downside.
+The margins are wide on purpose. The [connection debt](book-section/all-about-alan/connection-debt) model carries a ~10:1 negative-to-positive asymmetry: one bad hour costs about ten good hours. Under that loss function, defense beats offense by an order of magnitude, so avoiding the negative tail is worth far more than chasing reward. A bright-line map with conservative margins is the optimal policy for a cost dominated by its downside.
 
 ## The gendered core
 
@@ -45,8 +45,8 @@ The bright lines are physical and behavioral, and they catch physical and behavi
 
 ## Cross-references
 
-- [connection-debt.md](connection-debt.book-chapter.md) — the ~10:1 asymmetry that makes a conservative policy optimal.
-- [femininity-as-safety-signal.md](femininity-as-safety-signal.book-chapter.md) — why women's presence reads as safe; the same cue-response the map's gendered core sits on top of.
-- [gender-dysphoria-mechanism.md](gender-dysphoria-mechanism.book-chapter.md) — the macho/feminine cue mechanism underlying the gendered safety response.
-- [aphantasia-mechanism.md](aphantasia-mechanism.book-chapter.md) — the missing imagined-scene faculty the map accommodates.
-- [social-experience.md](social-experience.book-chapter.md) — the reduced implicit-cue channel the bright lines replace.
+- [connection-debt.md](book-section/all-about-alan/connection-debt) — the ~10:1 asymmetry that makes a conservative policy optimal.
+- [femininity-as-safety-signal.md](book-section/all-about-alan/femininity-as-safety-signal) — why women's presence reads as safe; the same cue-response the map's gendered core sits on top of.
+- [gender-dysphoria-mechanism.md](book-section/all-about-alan/gender-dysphoria-mechanism) — the macho/feminine cue mechanism underlying the gendered safety response.
+- [aphantasia-mechanism.md](book-section/all-about-alan/aphantasia-mechanism) — the missing imagined-scene faculty the map accommodates.
+- [social-experience.md](book-section/all-about-alan/social-experience) — the reduced implicit-cue channel the bright lines replace.

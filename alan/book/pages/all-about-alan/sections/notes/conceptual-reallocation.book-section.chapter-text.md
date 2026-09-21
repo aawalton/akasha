@@ -8,7 +8,7 @@
 
 ## Forced abstraction buys transfer learning for free
 
-The advantage isn't a separate gift — it falls out of the deficit. Because Alan can't store the particular ([recognition-vs-recall.md](recognition-vs-recall.book-chapter.md): no inverting a hash back to the original), he is **forced to generalize to an abstraction to encode a solution at all.** He literally can't "just remember how I solved a particular problem" — the particular doesn't persist. The only thing that survives encoding is the generalized form.
+The advantage isn't a separate gift — it falls out of the deficit. Because Alan can't store the particular ([recognition-vs-recall.md](book-section/all-about-alan/recognition-vs-recall): no inverting a hash back to the original), he is **forced to generalize to an abstraction to encode a solution at all.** He literally can't "just remember how I solved a particular problem" — the particular doesn't persist. The only thing that survives encoding is the generalized form.
 
 The benefit follows mechanically: encoding a solution *requires* producing the generalized abstraction, so once it's encoded he *has* the generalized abstraction — and transfer learning is free. There's nothing extra to do to make a solution transfer across domains; the abstraction is the only thing that was ever stored.
 
@@ -24,6 +24,6 @@ The clock-hand bridge was slower and more error-prone in close cases than direct
 
 ## Cross-references
 
-- [recognition-vs-recall.md](recognition-vs-recall.book-chapter.md) — the one-directional hash that forces the abstraction: no stored particular to invert, so only the generalized form survives encoding.
-- [conceptual-cognition.md](conceptual-cognition.book-chapter.md) — the conceptual channel the reallocated process runs on.
-- [reduced-chaining.md](reduced-chaining.book-chapter.md) — the disadvantage-side counterpart: the same conceptual-only reallocation leaves only conceptual triggers for chaining to new ideas, no sensory or emotional ones, which is what makes asking questions roughly 10x harder.
+- [recognition-vs-recall.md](book-section/all-about-alan/recognition-vs-recall) — the one-directional hash that forces the abstraction: no stored particular to invert, so only the generalized form survives encoding.
+- [conceptual-cognition.md](book-section/all-about-alan/conceptual-cognition) — the conceptual channel the reallocated process runs on.
+- [reduced-chaining.md](book-section/all-about-alan/reduced-chaining) — the disadvantage-side counterpart: the same conceptual-only reallocation leaves only conceptual triggers for chaining to new ideas, no sensory or emotional ones, which is what makes asking questions roughly 10x harder.

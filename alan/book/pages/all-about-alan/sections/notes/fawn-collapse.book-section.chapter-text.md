@@ -7,7 +7,7 @@ Around age 20 I hit a hard choice between two things that had, until then, both 
 
 > At around age 20, I hit a hard choice between continuing to apply social cues to avoid punishment and raw physiological survival, my fawn response almost killed me medically. That broke fawn as a safe way to avoid punishment and rapidly flipped me from Upholder to Rebel.
 
-[Fawn](stress-responses.book-chapter.md) — the mode that presents as people-pleasing rather than visible dysregulation — had been my working strategy for avoiding punishment. Running it hard enough, for long enough, to keep the punishment away brought me to a physiological breaking point. The body's demand for survival overrode the social strategy that was endangering it. Fawn didn't just stop working; it became **unsafe to continue running**, and the break was medical, not merely emotional.
+[Fawn](book-section/all-about-alan/stress-responses) — the mode that presents as people-pleasing rather than visible dysregulation — had been my working strategy for avoiding punishment. Running it hard enough, for long enough, to keep the punishment away brought me to a physiological breaking point. The body's demand for survival overrode the social strategy that was endangering it. Fawn didn't just stop working; it became **unsafe to continue running**, and the break was medical, not merely emotional.
 
 ## The flip — Upholder to Rebel
 
@@ -19,6 +19,6 @@ The collapse left a standing epistemic rule, not just a mood change: *"Just beca
 
 ## Cross-references
 
-- [stress-responses.md](stress-responses.book-chapter.md) — fawn's place in the broader five-mode taxonomy; this note is the one dated, near-fatal instance of fawn, not the general mode description.
-- [perfection-is-safe/origin.md → renegotiation status](perfection-is-safe/origin.book-chapter.md#renegotiation-status--five-still-active-two-broken) — a structurally identical sibling event: two survival rules "overthrown by an uprising," retired all at once rather than re-compressed belief-by-belief — the same event-shape as the Upholder-to-Rebel flip here.
-- [emotional-archaeology.md → a second pathway](emotional-archaeology.book-chapter.md#a-second-pathway--retiring-a-rule-by-overthrowing-its-class) — the named mechanism both this collapse and the origin.md case instantiate: a rule-class retired by overthrow, not by re-compressing one belief inside it.
+- [stress-responses.md](book-section/all-about-alan/stress-responses) — fawn's place in the broader five-mode taxonomy; this note is the one dated, near-fatal instance of fawn, not the general mode description.
+- [perfection-is-safe/origin.md → renegotiation status](book-section/all-about-alan/origin#renegotiation-status--five-still-active-two-broken) — a structurally identical sibling event: two survival rules "overthrown by an uprising," retired all at once rather than re-compressed belief-by-belief — the same event-shape as the Upholder-to-Rebel flip here.
+- [emotional-archaeology.md → a second pathway](book-section/all-about-alan/emotional-archaeology#a-second-pathway--retiring-a-rule-by-overthrowing-its-class) — the named mechanism both this collapse and the origin.md case instantiate: a rule-class retired by overthrow, not by re-compressing one belief inside it.
