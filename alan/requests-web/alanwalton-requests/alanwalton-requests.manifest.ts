@@ -1,0 +1,20 @@
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts"
+
+export const alanwaltonRequests = {
+  id: "01a0c537-bb9a-7f52-80cb-5669e5691b07",
+  type: "page-type/manifest",
+  slug: "alanwalton-requests",
+  definition: "the deployment and service drawing the Requests site",
+  code: "ts",
+  generatedDirectory: true,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pod builds the site itself where no build is beside the server already.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The pod template carries the hash of no secret.",
+    },
+  ],
+} as const satisfies Manifest

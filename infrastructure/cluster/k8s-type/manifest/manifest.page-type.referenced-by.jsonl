@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"alan/atlas-web/alanwalton-atlas/alanwalton-atlas.manifest.ts"}
+{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"alan/requests-web/alanwalton-requests/alanwalton-requests.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"alan/web/alanwalton-web/alanwalton-web.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/cluster/manifest/cert-manager-synth/cert-manager-synth.manifest.ts"}

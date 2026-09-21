@@ -23,6 +23,7 @@ export const webApp = {
     "web-app/audhdalan-web",
     "web-app/smilingjenny-web",
     "web-app/temper-web",
+    "web-app/alanwalton-requests-web",
   ],
   properties: [
     { pageProperty: "text-property/source-directory", required: true, many: false },

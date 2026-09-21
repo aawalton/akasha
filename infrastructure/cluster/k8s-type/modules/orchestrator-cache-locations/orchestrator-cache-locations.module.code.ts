@@ -60,6 +60,14 @@ export const ATLAS_WEB_CACHE: CacheLocation = {
     "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
 } as const
 
+export const REQUESTS_WEB_CACHE: CacheLocation = {
+  backing: "hostPath",
+  hostPath: "/var/requests-web-cache",
+  hostPathType: "DirectoryOrCreate",
+  cloneOriginUrl:
+    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
+} as const
+
 export const ORCHESTRATOR_CACHE_MOUNT_PATH = "/app"
 
 export const ORCHESTRATOR_CACHE_REPO_PATH = "/app/repo"

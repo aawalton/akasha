@@ -63,6 +63,7 @@ export const serviceCluster = {
     "text-property/resource-kind",
     "text-property/resource-name",
     "text-property/service-cluster-schedule",
+    "service-cluster/alanwalton-requests",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },

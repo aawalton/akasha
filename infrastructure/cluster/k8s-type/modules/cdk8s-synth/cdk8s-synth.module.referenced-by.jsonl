@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"alan/atlas-web/alanwalton-atlas/alanwalton-atlas.manifest.code.ts"}
+{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"alan/requests-web/alanwalton-requests/alanwalton-requests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"alan/web/alanwalton-web/alanwalton-web.manifest.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.code.ts"}
