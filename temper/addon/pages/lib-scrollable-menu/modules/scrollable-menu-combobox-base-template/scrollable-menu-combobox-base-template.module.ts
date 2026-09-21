@@ -4,7 +4,7 @@ export const scrollableMenuComboboxBaseTemplate = {
   id: "01a06275-c446-7cbe-bc6c-f699e056c835",
   type: "page-type/module",
   slug: "scrollable-menu-combobox-base-template",
-  definition: "the default XML row template and highlight template for each entry type",
+  definition: "the row templates a combo box registers with its dropdown",
   code: "ts",
   decisions: [
     {
