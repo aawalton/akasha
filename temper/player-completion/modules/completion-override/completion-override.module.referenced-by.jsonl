@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/characters-addon/modules/characters-config/characters-config.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/addon/characters-addon/modules/characters-config/characters-config.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.test.ts"}

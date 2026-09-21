@@ -1651,6 +1651,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build-deploy-check/modules/repo-root/repo-root.module.ts","id":"01a06287-7841-7b94-a9bc-853c9c556746"}
 {"propertySlug":"decision-kind","path":"temper/addon/capture-sales-addon/modules/sales-addon-name/sales-addon-name.module.ts","id":"01a060e2-3181-7b51-b345-f0965034e14a"}
 {"propertySlug":"decision-kind","path":"temper/addon/capture-sales-addon/temper-capture-sales-addon.eso-addon.ts","id":"01a060e2-3181-7c02-be71-c63b5b648d5b"}
+{"propertySlug":"decision-kind","path":"temper/addon/characters-addon/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts","id":"01a062ed-3979-7008-b38a-d2d8bc3af92b"}
+{"propertySlug":"decision-kind","path":"temper/addon/characters-addon/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.ts","id":"01a062ed-398d-7009-a4a9-bb8458c10c02"}
 {"propertySlug":"decision-kind","path":"temper/addon/collections-addon/modules/collections-addon-loaded/collections-addon-loaded.module.ts","id":"01a0624c-a660-7bb7-a785-531905b18e57"}
 {"propertySlug":"decision-kind","path":"temper/addon/collections-addon/temper-collections-addon.eso-addon.ts","id":"01a0624c-a660-70e0-bf26-d959d1027e91"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
@@ -1748,8 +1750,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.ts","id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog-core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}
 {"propertySlug":"decision-kind","path":"temper/catalog-side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
-{"propertySlug":"decision-kind","path":"temper/characters-addon/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts","id":"01a062ed-3979-7008-b38a-d2d8bc3af92b"}
-{"propertySlug":"decision-kind","path":"temper/characters-addon/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.ts","id":"01a062ed-398d-7009-a4a9-bb8458c10c02"}
 {"propertySlug":"decision-kind","path":"temper/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/characters-character-ui/modules/use-characters/use-characters.module.ts","id":"01a06360-7480-7001-8431-aa4304c430ae"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.ts","id":"01a06333-1bcc-79b7-bb9c-18d82e7b134a"}

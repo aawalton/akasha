@@ -16,8 +16,8 @@
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"infrastructure/container-image/test-fixtures/recipe-proving/recipe-proving.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"page/index/test-fixtures/filing/index-filing.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.ts"}
+{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/addon/characters-addon/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts"}
-{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/characters-addon/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/items-rules-core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/items-rules-eval/test-fixtures/check-container-fixtures/check-container-fixtures.test-fixture.ts"}

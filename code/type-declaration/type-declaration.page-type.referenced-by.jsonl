@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/antiquities-addon/leads-undaunted-declarations/leads-undaunted-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/catalog-addon/catalog-config-global/catalog-config-global.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/characters-addon/characters-config-declarations/characters-config-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/collections-addon/collections-addon-declarations/collections-addon-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/companions-addon/companion-qol-globals-declarations/companion-qol-globals-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/companions-addon/companions-declarations/companions-declarations.type-declaration.ts"}
@@ -118,7 +119,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-slash-commander/slash-commander-declarations/slash-commander-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-slash-commander/slash-commander-entry-declarations/slash-commander-entry-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/trading-addon/trading-globals-declarations/trading-globals-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/characters-addon/characters-config-declarations/characters-config-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/combat-addon/combat-chat-report-declarations/combat-chat-report-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/combat-addon/combat-controls-panels/combat-controls-panels.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/combat-addon/combat-controls-report/combat-controls-report.type-declaration.ts"}
