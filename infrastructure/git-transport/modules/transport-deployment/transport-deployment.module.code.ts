@@ -137,8 +137,8 @@ export function deploymentYaml(): string {
               envFrom: [{ secretRef: { name: "git-transport-secrets" } }],
               volumeMounts: [...sourceCacheMounts, ssdMount],
               resources: {
-                requests: { cpu: "1", memory: "3Gi" },
-                limits: { cpu: "16", memory: "3Gi" },
+                requests: { cpu: "1", memory: "8Gi" },
+                limits: { cpu: "16", memory: "8Gi" },
               },
               securityContext: {
                 runAsNonRoot: true,

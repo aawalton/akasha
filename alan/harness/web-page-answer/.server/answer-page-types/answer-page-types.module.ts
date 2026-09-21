@@ -6,4 +6,18 @@ export const answerPageTypes = {
   slug: "answer-page-types",
   definition: "the page types answered to a browser",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type is named here where the reader holds an access reaching it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The same accesses settle this roster and the pages of a type, so the two agree.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A browser reads no page type this leaves out, so leaving one out serves nothing.",
+    },
+  ],
 } as const satisfies Module

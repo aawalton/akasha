@@ -147,6 +147,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/safety/modules/reading/safety-reading.module.ts","id":"01a069bc-9375-7eee-b662-6f844c8880b6"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts","id":"01a0697e-ded3-7147-92a2-3c8650eaf635"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.ts","id":"01a0697e-ded3-7adb-9d6e-f852cfc9ffd7"}
+{"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/answer-page-types/answer-page-types.module.ts","id":"01a0640f-8510-78d4-a12e-20e2f4f3927a"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/modules/offline-reading/offline-reading.module.ts","id":"01a0657b-06ac-7293-a09b-01ff92f25730"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.ts","id":"01a06262-ff4c-7001-86ff-443d16400dc0"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/lrclib-client/lrclib-client.module.ts","id":"01a06262-ff4c-7004-99a6-b15f63fddbd0"}
@@ -302,6 +303,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.ts","id":"01a06866-58f8-7e1d-aa92-5be1e93a86f2"}
 {"propertySlug":"decision-kind","path":"infrastructure/eso-rig/probe/eso-rig-probe.python-module.ts","id":"01a06866-58f8-770f-b723-c2388b0115da"}
 {"propertySlug":"decision-kind","path":"infrastructure/git-transport/git-transport.domain.ts","id":"01a06816-2f11-7be3-9bd7-706fac3996ff"}
+{"propertySlug":"decision-kind","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.ts","id":"01a06816-2f11-7368-876c-6dd1f691b8bf"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/comfy/z-image-turbo/z-image-turbo.domain.ts","id":"01a06553-a9b6-7dda-a90b-f47bdd7d29c8"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.ts","id":"01a09137-9598-7e34-814d-cf5126c347b6"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/upscale/upscale.domain.ts","id":"01a06815-9efd-7040-a13c-1048a109ba86"}

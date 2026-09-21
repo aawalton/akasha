@@ -32,6 +32,14 @@ export const transportDeployment = {
       statement: "The server runs the code out of the source cache the sidecar keeps current.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "Serving a whole repository to a cold reader costs the server several gigabytes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The server holds enough memory to serve a cold reader the whole repository.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "Where that code sits in the cache is asked of the index rather than spelled.",
     },
