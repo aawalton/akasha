@@ -1,12 +1,13 @@
-import { refreshSession } from "akasha/alan/harness/supabase-rr/modules/session-refresh/session-refresh.module.code.ts"
-import { signOutLoader } from "akasha/alan/harness/supabase-rr/modules/sign-out-route/sign-out-route.module.code.ts"
-import { SIGN_IN_PATH } from "akasha/product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"
-import { redirect } from "react-router"
+import {
+  leaveHandover,
+  leavingShown,
+} from "akasha/alan/harness/handover-rr/modules/handover-leaving/handover-leaving.module.code.ts"
+import { JENNY_SITE } from "akasha/product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.code.ts"
 
-export async function action({ request }: { request: Request }) {
-  const { supabase, headers } = await refreshSession(request)
-  await supabase.auth.signOut()
-  return redirect(SIGN_IN_PATH, { headers })
+export async function action() {
+  return leaveHandover(JENNY_SITE)
 }
 
-export const loader = signOutLoader
+export function loader() {
+  return leavingShown(JENNY_SITE)
+}

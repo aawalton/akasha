@@ -6,4 +6,18 @@ export const jennySession = {
   slug: "jenny-session",
   definition: "who a request is served as, and where a caller signed in as nobody is sent",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request is read as the contributor this site's own handover cookie names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor is Jenny where the person naming that contributor is Jenny.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Anybody else is nobody here, whoever they are elsewhere.",
+    },
+  ],
 } as const satisfies Module

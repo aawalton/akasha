@@ -21,6 +21,7 @@ export const smilingjennyWeb = {
     "app-routes/smilingjenny-web-routes",
     "manifest/smilingjenny-web-manifests",
     "module/jenny-capacitor-bridge",
+    "module/jenny-handover-site",
     "module/jenny-push-registration-sync",
     "module/jenny-ring-credential",
     "module/jenny-session",

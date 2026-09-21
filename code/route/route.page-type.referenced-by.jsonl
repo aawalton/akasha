@@ -106,6 +106,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-push-register/jenny-api-push-register.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-handover/jenny-handover.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-home/jenny-home.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.ts"}

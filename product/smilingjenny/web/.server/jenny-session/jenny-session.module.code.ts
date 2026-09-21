@@ -1,37 +1,40 @@
-import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.code.ts"
-import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
+import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
+import { personSlugForContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import { JENNY_SITE } from "akasha/product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.code.ts"
 import { redirect } from "react-router"
 
-export const SIGN_IN_PATH = "/sign-in"
+const JENNY = "jenny"
 
-const JENNY_USER_ID = "9bc63b11-d301-4a51-8839-7371336262c7"
+export type SignedIn = { contributor: string; headers: Headers }
 
-export type SignedIn = { user: SupabaseUser; headers: Headers }
+export type SessionReader = (request: Request) => Promise<string | null>
 
-export type SessionReader = (
-  request: Request
-) => Promise<{ user: SupabaseUser | null; headers: Headers }>
+const jennyReader: SessionReader = (request) => signedInAs(JENNY_SITE, request)
 
-function isJenny(user: SupabaseUser | null): user is SupabaseUser {
-  return user !== null && user.id === JENNY_USER_ID
+async function jennySignedIn(request: Request, read: SessionReader): Promise<SignedIn | null> {
+  const contributor = await read(request)
+  if (contributor === null) return null
+  const reached = await personSlugForContributor(contributor)
+  if (!reached.ok || reached.personSlug !== JENNY) return null
+  return { contributor, headers: new Headers() }
 }
 
 export async function requireJenny(
   request: Request,
-  read: SessionReader = getUser
+  read: SessionReader = jennyReader
 ): Promise<SignedIn> {
-  const { user, headers } = await read(request)
-  if (!isJenny(user)) throw redirect(SIGN_IN_PATH, { headers })
-  return { user, headers }
+  const held = await jennySignedIn(request, read)
+  if (held === null) throw redirect(JENNY_SITE.signInPath)
+  return held
 }
 
 export async function requireApiJenny(
   request: Request,
-  read: SessionReader = getUser
+  read: SessionReader = jennyReader
 ): Promise<SignedIn> {
-  const { user, headers } = await read(request)
-  if (!isJenny(user)) {
+  const held = await jennySignedIn(request, read)
+  if (held === null) {
     throw Response.json({ ok: false, error: "Not signed in." }, { status: 401 })
   }
-  return { user, headers }
+  return held
 }

@@ -30,9 +30,7 @@ const serverBuild = asServerBuild(await import(join(BUILD_DIR, "server", "index.
 
 const handler = createRequestHandler(serverBuild, "production")
 
-const CSP_CONFIG: AppCspConfig = {
-  connectSrc: ["https://supabase.alanwalton.com"],
-}
+const CSP_CONFIG: AppCspConfig = {}
 
 const PORT_SCHEMA = z.coerce.number().int().positive().max(65535).default(3000)
 const HOST_SCHEMA = z.string().min(1).default("0.0.0.0")

@@ -12,6 +12,7 @@ export const smilingjennyWebRoutes = {
     "route/jenny-api-push-register",
     "route/jenny-categorization",
     "route/jenny-cost",
+    "route/jenny-handover",
     "route/jenny-home",
     "route/jenny-readout-relay",
     "route/jenny-safety-level",
