@@ -39,7 +39,7 @@ export const astraLandingReadsOnlyWhatChanged = {
   ],
   constraints: [
     "A file already carrying what would be written again is left alone: `keepDelta`, `reconcile` and `wholeInto` each compare before writing, and the profile bears that out.",
-    "The checks were 5.68s of a two-minute landing and are 1.74s of a 4.78s one, so they are a third of what is left rather than a rounding error.",
+    "The checks are most of what an apply spends, so a check reading the whole tree to judge one file is the thing to find.",
     "A landing is measured from the rows beside the apply page rather than from a clock an agent reads.",
   ],
 } as const satisfies Initiative
