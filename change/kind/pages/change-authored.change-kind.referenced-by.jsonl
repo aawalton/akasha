@@ -6,4 +6,5 @@
 {"propertySlug":"change-kind","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.ts","id":"01a081ee-d2ea-7846-af0b-049ae0500371"}
 {"propertySlug":"change-kind","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
 {"propertySlug":"change-kind","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.ts","id":"01a0c496-2b97-76ff-8b10-c786cbff7340"}
+{"propertySlug":"change-kind","path":"change/agent/file/carry-roll-rows/carry-roll-rows.change-agent.ts","id":"01a0c4ba-3957-7eb6-bf35-9bbc1c9d7114"}
 {"propertySlug":"parts","path":"change/kind/change-kind.page-type.ts","id":"01a05e11-d3f8-72af-b104-6cdd1255b0eb"}

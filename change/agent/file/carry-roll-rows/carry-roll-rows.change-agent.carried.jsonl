@@ -1,0 +1,13 @@
+{"changeKind":"change-kind/change-authored"}
+{"changeMode":"change-mode/change-mode-add"}
+{"changeTargetSubtype":"change-target-subtype/file"}
+{"changeTargetType":"change-target-type/file"}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A carried row keeps the old row whole as what the mechanic was handed."},{"decisionKind":"decision-kind/departure","statement":"The mechanic a row names is read from the fields that row already has."},{"decisionKind":"decision-kind/departure","statement":"A row holding a mode is a strike, and one holding a difficulty is a check."},{"decisionKind":"decision-kind/departure","statement":"A row spending an attribute point is the levelling the game already has."},{"decisionKind":"decision-kind/departure","statement":"Each carried row follows the row before it by that row's hash."},{"decisionKind":"decision-kind/absence","statement":"Nothing is worked out again, so no carried row gains an answer it never had."}]}
+{"definition":"rows of an older roll log carried into the log of mechanics a game has run"}
+{"id":"01a0c4ba-3957-7eb6-bf35-9bbc1c9d7114"}
+{"maxCpuSeconds":60}
+{"maxMemoryMb":1024}
+{"slug":"carry-roll-rows"}
+{"temporary":true}
+{"type":"page-type/change-agent"}
