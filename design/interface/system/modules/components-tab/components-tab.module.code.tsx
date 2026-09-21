@@ -23,7 +23,13 @@ import {
 import { ComponentsItemDisplayPanels } from "akasha/design/interface/system/modules/components-item-display-panels/components-item-display-panels.module.code.tsx"
 import { ComponentsListGridPanels } from "akasha/design/interface/system/modules/components-list-grid-panels/components-list-grid-panels.module.code.tsx"
 import { ComponentsMenuPanels } from "akasha/design/interface/system/modules/components-menu-panels/components-menu-panels.module.code.tsx"
-import { ComponentsOverlayPanels } from "akasha/design/interface/system/modules/components-overlay-panels/components-overlay-panels.module.code.tsx"
+import {
+  DialogPanel,
+  PopoverPanel,
+  SheetPanel,
+  TablePanel,
+  TabsPanel,
+} from "akasha/design/interface/system/modules/components-overlay-panels/components-overlay-panels.module.code.tsx"
 import { ComponentsSelectionPanels } from "akasha/design/interface/system/modules/components-selection-panels/components-selection-panels.module.code.tsx"
 import { ComponentsSkeletonPanels } from "akasha/design/interface/system/modules/components-skeleton-panels/components-skeleton-panels.module.code.tsx"
 import { ComponentsSortFilterPanels } from "akasha/design/interface/system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"
@@ -44,7 +50,11 @@ export function ComponentsTabContent() {
           <InputPanelCardPanel />
           <TextareaPanel />
           <SelectPanel />
-          <ComponentsOverlayPanels />
+          <DialogPanel />
+          <SheetPanel />
+          <PopoverPanel />
+          <TabsPanel />
+          <TablePanel />
           <ComponentsFormControlsPanels />
           <ComponentsTextDisplayPanels />
           <ComponentsSkeletonPanels />
