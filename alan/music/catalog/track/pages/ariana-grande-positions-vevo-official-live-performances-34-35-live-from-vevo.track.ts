@@ -5,10 +5,10 @@ export const arianaGrandePositionsVevoOfficialLivePerformances3435LiveFromVevo =
   type: "page-type/track",
   slug: "ariana-grande-positions-vevo-official-live-performances-34-35-live-from-vevo",
   ownLength: 2.99915,
-  ownProgress: 0,
+  ownProgress: 2.99915,
   partOfCollections: ["release/ariana-grande-positions-vevo-official-live-performances"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

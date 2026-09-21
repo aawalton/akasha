@@ -6,10 +6,10 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackPopularLiveFrom
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-popular-live-from-the-dolby-theatre",
   grade: "B+",
   ownLength: 5.91455,
-  ownProgress: 0,
+  ownProgress: 5.91455,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

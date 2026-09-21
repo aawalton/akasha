@@ -6,10 +6,10 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesOffTheTableWithThe
     type: "page-type/track",
     slug: "ariana-grande-positions-vevo-official-live-performances-off-the-table-with-the-weeknd-live-from-vevo",
     ownLength: 4.168866666666666,
-    ownProgress: 0,
+    ownProgress: 4.168866666666666,
     partOfCollections: ["release/ariana-grande-positions-vevo-official-live-performances"],
     position: 6,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

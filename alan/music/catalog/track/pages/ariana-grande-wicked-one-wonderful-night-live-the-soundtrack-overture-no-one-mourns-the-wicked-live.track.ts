@@ -5,12 +5,12 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackOvertureNoOneMo
     id: "01a0a6c5-0c2f-7c50-be31-7f751cc01010",
     type: "page-type/track",
     slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-overture-no-one-mourns-the-wicked-live",
+    grade: "B-",
     ownLength: 6.910083333333334,
-    ownProgress: 0,
+    ownProgress: 6.910083333333334,
     partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
     position: 1,
-    grade: "B-",
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {
