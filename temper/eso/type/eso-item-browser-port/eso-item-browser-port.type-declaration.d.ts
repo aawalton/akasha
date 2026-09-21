@@ -12,8 +12,3 @@ declare const ZO_DEFAULT_TEXT: ZoColorDef
 declare const ItemBrowserFrame: Control
 
 declare const CURT_CHAOTIC_CREATIA: number
-
-interface ComboBoxItem {
-  id?: number
-  data?: unknown
-}

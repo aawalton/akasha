@@ -32,3 +32,7 @@ interface SimpleAnimationTimeline {
 interface EsoAchievementsManager {
   popup: { Hide: () => undefined }
 }
+
+interface EsoAchievementsManager {
+  ShowAchievementPopup: (...args: unknown[]) => undefined
+}

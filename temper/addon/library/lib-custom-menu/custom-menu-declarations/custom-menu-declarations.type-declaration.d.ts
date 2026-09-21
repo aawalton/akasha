@@ -40,14 +40,6 @@ declare const GROUP_LIST: SocialListOwner
 
 declare const GUILD_ROSTER_KEYBOARD: SocialListOwner
 
-interface Control {
-  CreateControl: <T extends Control = Control>(name: string, controlType: number) => T
-  GetDrawLayer: () => number
-  GetDrawTier: () => number
-  GetDrawLevel: () => number
-  SetClampedToScreen: (clamped: boolean) => void
-}
-
 interface TooltipControl {
   GetOwner: () => Control | undefined
 }

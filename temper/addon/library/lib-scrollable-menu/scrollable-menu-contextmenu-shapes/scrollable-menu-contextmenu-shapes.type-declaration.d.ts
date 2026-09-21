@@ -43,37 +43,6 @@ interface ContextMenuClass {
   RunSpecialCallback: (this: ContextMenuObject, callbackName?: string) => unknown
 }
 
-interface ContextMenuObject {
-  data?: unknown[]
-  contextMenuOptions?: LsmComboBoxOptions
-  contextMenuIssuingControl?: unknown
-  openingControl?: Control
-  m_dropdown?: ContextMenuDropdown
-  m_name?: string
-  m_selectedItemData?: unknown
-  optionsChanged?: unknown
-
-  RefreshSortedItems: (this: unknown) => undefined
-
-  AddContextMenuItem: (this: ContextMenuObject, itemEntry: unknown) => number
-  HighlightOpeningControl: (this: ContextMenuObject) => undefined
-  SetContextMenuOptions: (this: ContextMenuObject, options?: LsmComboBoxOptions) => undefined
-  ClearItems: (this: ContextMenuObject) => undefined
-  ShowContextMenu: (this: ContextMenuObject, parentControl?: Control) => undefined
-  RegisterSpecialCallback: (
-    this: ContextMenuObject,
-    uniqueAddonName?: string,
-    callbackName?: string,
-    specialCallbackData?: Record<string, unknown>
-  ) => boolean
-  UnregisterSpecialCallback: (
-    this: ContextMenuObject,
-    uniqueAddonName?: string,
-    callbackName?: string
-  ) => boolean | undefined
-  RunSpecialCallback: (this: ContextMenuObject, callbackName?: string) => unknown
-}
-
 interface ContextMenuComboBox {
   m_submenu?: {
     IsDropdownVisible: (this: void) => boolean

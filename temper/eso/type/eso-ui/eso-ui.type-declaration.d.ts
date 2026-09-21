@@ -320,3 +320,63 @@ interface ButtonControl {
   SetNormalFontColor: (r: number, g: number, b: number, a: number) => undefined
   SetMouseOverFontColor: (r: number, g: number, b: number, a: number) => undefined
 }
+
+interface ChatWindow {
+  buffer: ChatWindowBuffer
+}
+
+interface Control {
+  SetSimpleAnchorParent: (...args: unknown[]) => undefined
+  EnableMouseButton: (button: number, enabled: boolean) => undefined
+}
+
+interface Control {
+  SetInheritScale: (inherit: boolean) => undefined
+}
+
+interface Control {
+  CreateControl: <T extends Control = Control>(name: string, controlType: number) => T
+  GetDrawLayer: () => number
+  GetDrawTier: () => number
+  GetDrawLevel: () => number
+  SetClampedToScreen: (clamped: boolean) => void
+}
+
+interface Control {
+  RegisterForEvent: <T extends unknown[] = unknown[]>(
+    event: number,
+    callback: (this: void, ...args: T) => void
+  ) => void
+  UnregisterForEvent: (event: number) => void
+  SetTexture: (texturePath: string) => void
+}
+
+interface Control {
+  SetInheritAlpha: (inherit: boolean) => undefined
+}
+
+interface Control {
+  GetCenter: () => LuaMultiReturn<[x: number, y: number]>
+  SetHeight: (height: number) => void
+  GetResizeToFitDescendents: () => boolean
+}
+
+interface Control {
+  GetScreenRect: () => LuaMultiReturn<[left: number, top: number, right: number, bottom: number]>
+}
+
+interface Control {
+  initialized?: boolean
+  statusBar?: unknown
+  animation?: ZoTimeline
+  menuButton?: Control
+  SetAutoRectClipChildren: (enabled: boolean) => void
+  SetResizeToFitConstrains: (constrains: AnchorConstrains) => void
+  SetResizeToFitPadding: (width: number, height: number) => void
+  SetHitInsets: (left: number, top: number, right: number, bottom: number) => void
+  GetOwningWindow: () => Control
+}
+
+interface Control {
+  SetClampedToScreenInsets: (left: number, top: number, right: number, bottom: number) => void
+}

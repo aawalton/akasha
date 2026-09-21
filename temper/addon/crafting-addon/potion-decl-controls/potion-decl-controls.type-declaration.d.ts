@@ -68,11 +68,6 @@ declare const TemperPotionsBagButtonTexture: TextureControl
 
 declare const TemperPotionsBankButtonTexture: TextureControl
 
-interface Control {
-  SetSimpleAnchorParent: (...args: unknown[]) => undefined
-  EnableMouseButton: (button: number, enabled: boolean) => undefined
-}
-
 interface TooltipControl {
   AddHeaderLine: (...args: unknown[]) => undefined
 }

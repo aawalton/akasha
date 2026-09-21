@@ -101,40 +101,6 @@ interface ComboBoxClassStatic {
   [key: string]: unknown
 }
 
-interface ComboBoxObject {
-  visibleRows?: number
-  m_name?: string
-  m_openDropdown?: unknown
-  m_selectedItemText?: unknown
-  m_preshowDropdownFn?: unknown
-  filterString?: string
-  defaults?: Record<string, unknown>
-  optionsChanged?: unknown
-  updatedOptions?: Record<string, unknown>
-
-  AddMenuItems: (this: unknown) => undefined
-
-  UpdateMetatable: (
-    this: ComboBoxObject,
-    parent: Control,
-    comboBoxContainer: Control,
-    options: LsmComboBoxOptions | undefined
-  ) => undefined
-  GetUniqueName: (this: ComboBoxObject) => string | undefined
-  GetMenuPrefix: (this: ComboBoxObject) => string
-  GetSubMenuOpeningSide: (this: ComboBoxObject) => string | undefined
-  HideOnMouseEnter: (this: ComboBoxObject) => undefined
-  HideOnMouseExit: (this: ComboBoxObject, mocCtrl?: unknown) => boolean | undefined
-  IsAutomaticRefreshEnabled: (
-    this: ComboBoxObject
-  ) => LuaMultiReturn<[unknown, unknown]> | undefined
-  SetDefaults: (this: ComboBoxObject) => undefined
-  ResetToDefaults: (this: ComboBoxObject, initExistingComboBox?: unknown) => undefined
-  SetOption: (this: ComboBoxObject, LSMOptionsKey: string, doDebugNow?: boolean) => undefined
-  UpdateResults: (this: ComboBoxObject, comingFromFilters?: unknown) => undefined
-  ShowDropdownInternal: (this: ComboBoxObject) => undefined
-}
-
 interface LsmComboBoxContainer extends Omit<Control, "GetName" | "GetNamedChild" | "GetWidth"> {
   m_comboBox?: ComboBoxObject
   GetName: () => string

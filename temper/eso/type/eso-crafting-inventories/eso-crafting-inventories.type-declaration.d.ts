@@ -2,10 +2,6 @@ declare const SI_BULLET: number
 
 declare function ZO_PopupTooltip_Hide(): undefined
 
-interface EsoAchievementsManager {
-  ShowAchievementPopup: (...args: unknown[]) => undefined
-}
-
 declare const ACHIEVEMENTS: EsoAchievementsManager
 
 declare const ZO_SmithingTopLevelImprovementPanelInventoryBackpack: ZoScrollListControl

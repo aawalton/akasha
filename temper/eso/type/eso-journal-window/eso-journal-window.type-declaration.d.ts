@@ -49,11 +49,6 @@ interface MainMenuKeyboard {
   lastCategory: number
 }
 
-interface KeybindStripObject {
-  AddKeybindButton: (this: KeybindStripObject, descriptor: object) => void
-  RemoveKeybindButton: (this: KeybindStripObject, descriptor: object) => void
-}
-
 interface TooltipControl {
   SetCollectible: (
     this: TooltipControl,

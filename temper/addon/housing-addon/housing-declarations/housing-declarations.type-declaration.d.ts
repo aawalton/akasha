@@ -11,7 +11,3 @@ interface CollectibleDataObject {
   GetFormattedName: (this: CollectibleDataObject) => string
   GetHouseLocation: (this: CollectibleDataObject) => string
 }
-
-interface CollectibleDataManager {
-  GetAllCollectibleDataObjects: (this: CollectibleDataManager) => CollectibleDataObject[]
-}

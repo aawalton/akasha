@@ -1,9 +1,5 @@
 declare function GetUIMousePosition(): LuaMultiReturn<[x: number, y: number]>
 
-interface Control {
-  GetScreenRect: () => LuaMultiReturn<[left: number, top: number, right: number, bottom: number]>
-}
-
 declare const AnchorMenu: (control: Control, offsetY?: number) => void
 
 interface ColorPicker {
@@ -16,12 +12,6 @@ interface ColorPicker {
   ) => void
 }
 declare const COLOR_PICKER: ColorPicker
-
-interface ChatTextEntry {
-  SetText: (text: string) => void
-  Open: (text?: string) => void
-  FadeIn: () => void
-}
 interface SharedChatSystem {
   Maximize: () => void
 }
@@ -204,3 +194,8 @@ interface ZoGamepadEntryDataClass {
 }
 
 declare const ZO_GamepadEntryData: ZoGamepadEntryDataClass
+
+interface ComboBoxItem {
+  id?: number
+  data?: unknown
+}

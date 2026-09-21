@@ -1,7 +1,3 @@
-interface Control {
-  SetClampedToScreenInsets: (left: number, top: number, right: number, bottom: number) => void
-}
-
 declare const CreateFont: (this: void, name: string, definition: string) => FontObject
 
 declare const GetWindowManager: (this: void) => WindowManager

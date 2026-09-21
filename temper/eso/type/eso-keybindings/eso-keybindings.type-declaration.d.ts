@@ -154,10 +154,6 @@ declare function ZO_TriStateCheckButton_SetState(
   state: number
 ): undefined
 
-interface Control {
-  SetInheritAlpha: (inherit: boolean) => undefined
-}
-
 interface WindowManager {
   GetFocusControl: () => Control | undefined
 }

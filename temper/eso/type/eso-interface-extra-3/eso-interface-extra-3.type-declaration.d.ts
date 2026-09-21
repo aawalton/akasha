@@ -294,3 +294,11 @@ declare const ZO_StablePanelSpeedTrainRowTrainButton: Control
 declare const ZO_StablePanelStaminaTrainRowTrainButton: Control
 
 declare const ZO_StablePanelCarryTrainRowTrainButton: Control
+
+interface CollectibleDataManager {
+  GetAllCollectibleDataObjects: (this: CollectibleDataManager) => CollectibleDataObject[]
+}
+
+interface EsoInventoryContainer {
+  data: EsoInventorySlot[]
+}

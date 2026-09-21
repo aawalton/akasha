@@ -81,3 +81,12 @@ declare const WORLD_MAP_SCENE: {
   UnregisterCallback: (event: string, callback?: (...args: never[]) => void) => void
   AddFragment: (fragment: SceneFragment) => void
 }
+
+interface InventorySlotData {
+  bagId: number
+  uniqueId: string
+  uid?: string
+  quality: number
+  lnk?: string
+  lootId?: number
+}

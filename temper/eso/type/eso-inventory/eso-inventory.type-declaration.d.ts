@@ -44,3 +44,7 @@ declare const INVENTORY_HOUSE_BANK: number
 declare const INVENTORY_CRAFT_BAG: number
 
 declare const ZO_ScrollList_RefreshVisible: (this: void, list: Control) => void
+
+interface InventoryRowSlotData {
+  lootId?: number
+}

@@ -84,10 +84,6 @@ declare const MAIL_MANAGER_GAMEPAD: {
   inbox: { GetActiveMailId: (this: unknown) => Id64 }
 }
 
-interface ErrorFrameSingleton {
-  OnUIError: (this: ErrorFrameSingleton, errString: string) => undefined
-}
-
 declare const ZO_ERROR_FRAME: ErrorFrameSingleton
 
 declare const ZO_LeaderboardScoreProvider: object

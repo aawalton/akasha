@@ -31,3 +31,11 @@ declare const FCOIS: FcoisApi | undefined
 declare const ItemSaver_IsItemSaved:
   | ((this: void, bagId: number, slotIndex: number) => boolean)
   | undefined
+
+interface FcoisApi {
+  addonVars: FcoisAddonVars
+  IsEnchantingLocked: (this: void, bagId: number, slotIndex: number) => boolean
+  IsJewelryResearchLocked: (this: void, bagId: number, slotIndex: number) => boolean
+  IsResearchLocked: (this: void, bagId: number, slotIndex: number) => boolean
+  IsAlchemyDestroyLocked: (this: void, bagId: number, slotIndex: number) => boolean
+}

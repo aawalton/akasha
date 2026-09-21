@@ -85,25 +85,8 @@ declare const ZO_WorldMapQuestsData_Singleton: WorldMapQuestsDataSingleton
 
 declare const GAMEPAD_TREASURE_MAP_INVENTORY_SCENE: Scene
 
-interface Control {
-  RegisterForEvent: <T extends unknown[] = unknown[]>(
-    event: number,
-    callback: (this: void, ...args: T) => void
-  ) => void
-  UnregisterForEvent: (event: number) => void
-  SetTexture: (texturePath: string) => void
-}
-
 interface SceneManager {
   GetCurrentSceneName: (this: SceneManager) => string
-}
-
-interface GamepadMapLocationTooltip {
-  LayoutStringLine: (
-    this: GamepadMapLocationTooltip,
-    section: GamepadTooltipSection,
-    text: string
-  ) => void
 }
 
 declare const GuiMouse: Control

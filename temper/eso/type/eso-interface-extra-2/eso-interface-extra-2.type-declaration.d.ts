@@ -282,3 +282,9 @@ interface NotificationsListRow {
 interface NotificationsList {
   data: ReadonlyArray<NotificationsListRow>
 }
+
+interface CenterScreenAnnounceMessageParams {
+  SetSound: (sound: string | undefined) => undefined
+  MarkSuppressIconFrame: () => undefined
+  MarkShowImmediately: () => undefined
+}

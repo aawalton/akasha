@@ -175,3 +175,8 @@ interface MainMenuKeyboard {
 }
 
 declare const ZO_LoreLibrary: Control
+
+interface KeybindStripObject {
+  AddKeybindButton: (this: KeybindStripObject, descriptor: object) => void
+  RemoveKeybindButton: (this: KeybindStripObject, descriptor: object) => void
+}

@@ -34,12 +34,6 @@ interface SceneManager {
 
 declare const ZO_Options_OnMouseExit: (control: Control) => void
 
-interface Control {
-  GetCenter: () => LuaMultiReturn<[x: number, y: number]>
-  SetHeight: (height: number) => void
-  GetResizeToFitDescendents: () => boolean
-}
-
 interface TextureControl {
   GetColor: () => LuaMultiReturn<[r: number, g: number, b: number, a: number]>
 }

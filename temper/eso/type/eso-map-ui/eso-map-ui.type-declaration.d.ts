@@ -65,3 +65,11 @@ interface GamepadMapLocationTooltip {
 }
 declare const ZO_MapLocationTooltip_Gamepad: GamepadMapLocationTooltip
 declare const ZO_WorldMap_GetMapDungeonDifficulty: (this: void) => number
+
+interface GamepadMapLocationTooltip {
+  LayoutStringLine: (
+    this: GamepadMapLocationTooltip,
+    section: GamepadTooltipSection,
+    text: string
+  ) => void
+}

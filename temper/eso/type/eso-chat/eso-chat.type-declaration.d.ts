@@ -40,3 +40,15 @@ interface ChatRouter {
 declare const CHAT_ROUTER: ChatRouter
 
 declare const StartChatInput: (text?: string, channel?: number, target?: string) => void
+
+interface ChatRouter {
+  GetRegisteredMessageFormatters: () => ChatFormatterTable
+  RegisterMessageFormatter: (key: string, formatter: ChatMessageFormatter) => void
+  registeredMessageFormatters: ChatFormatterTable
+}
+
+interface ChatTextEntry {
+  SetText: (text: string) => void
+  Open: (text?: string) => void
+  FadeIn: () => void
+}

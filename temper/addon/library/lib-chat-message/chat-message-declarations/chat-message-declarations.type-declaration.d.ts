@@ -34,16 +34,6 @@ declare const ZO_LinkHandler_CreateLinkWithoutBrackets: (
   ...data: unknown[]
 ) => string
 
-interface ChatRouter {
-  GetRegisteredMessageFormatters: () => ChatFormatterTable
-  RegisterMessageFormatter: (key: string, formatter: ChatMessageFormatter) => void
-  registeredMessageFormatters: ChatFormatterTable
-}
-
-interface ChatWindow {
-  buffer: ChatWindowBuffer
-}
-
 interface KeyboardChatSystem {
   windowPool: ChatWindowPool
   GetEditControl: () => ChatEditControl

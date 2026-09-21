@@ -30,18 +30,6 @@ interface ZoTimeline {
   PlayFromEnd: (this: ZoTimeline, time?: number) => void
 }
 
-interface Control {
-  initialized?: boolean
-  statusBar?: unknown
-  animation?: ZoTimeline
-  menuButton?: Control
-  SetAutoRectClipChildren: (enabled: boolean) => void
-  SetResizeToFitConstrains: (constrains: AnchorConstrains) => void
-  SetResizeToFitPadding: (width: number, height: number) => void
-  SetHitInsets: (left: number, top: number, right: number, bottom: number) => void
-  GetOwningWindow: () => Control
-}
-
 interface ErrorFrameSingleton {
   suppressErrorDialog: boolean
   titleControl: LabelControl
@@ -131,3 +119,7 @@ declare const ZO_Scroll_SetUseFadeGradient: (
 ) => void
 
 declare const ZO_ComboBoxDropdown_Keyboard: ZoComboBoxDropdownKeyboardClass
+
+interface ErrorFrameSingleton {
+  OnUIError: (this: ErrorFrameSingleton, errString: string) => undefined
+}

@@ -1,13 +1,5 @@
 declare const TemperWritInventoryList: { singleton?: TemperWritInventoryListSingleton } | undefined
 
-interface Control {
-  SetInheritScale: (inherit: boolean) => undefined
-}
-
-interface InventoryRowSlotData {
-  lootId?: number
-}
-
 interface MailInbox {
   RefreshAttachmentSlots?: (this: MailInbox) => undefined
   GetMailData: (this: MailInbox, mailId: Id64, isMailFromGuild: boolean) => MailData

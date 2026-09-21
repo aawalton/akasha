@@ -31,3 +31,14 @@ interface XmlOwningWindowLike {
   object?: Record<string, unknown> | undefined
   [key: string]: unknown
 }
+
+interface EventManagerLike {
+  RegisterForUpdate: (
+    this: EventManagerLike,
+    namespace: string,
+    interval: number,
+    callback: (this: void) => undefined
+  ) => undefined
+  UnregisterForUpdate: (this: EventManagerLike, namespace: string) => undefined
+  [key: string]: unknown
+}

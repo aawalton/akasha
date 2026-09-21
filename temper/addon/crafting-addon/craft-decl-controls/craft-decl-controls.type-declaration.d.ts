@@ -286,32 +286,9 @@ interface CsTooltipCraftField {
   GetText: () => string
 }
 
-interface InventorySlotData {
-  bagId: number
-  uniqueId: string
-  uid?: string
-  quality: number
-  lnk?: string
-  lootId?: number
-}
-
-interface FcoisApi {
-  addonVars: FcoisAddonVars
-  IsEnchantingLocked: (this: void, bagId: number, slotIndex: number) => boolean
-  IsJewelryResearchLocked: (this: void, bagId: number, slotIndex: number) => boolean
-  IsResearchLocked: (this: void, bagId: number, slotIndex: number) => boolean
-  IsAlchemyDestroyLocked: (this: void, bagId: number, slotIndex: number) => boolean
-}
-
 interface ScaleAnimation extends ZO_Animation {
   SetStartScale: (scale: number) => undefined
   SetEndScale: (scale: number) => undefined
-}
-
-interface CenterScreenAnnounceMessageParams {
-  SetSound: (sound: string | undefined) => undefined
-  MarkSuppressIconFrame: () => undefined
-  MarkShowImmediately: () => undefined
 }
 
 declare const _: string | undefined

@@ -9,9 +9,6 @@ interface EsoInventorySlotData {
 interface EsoInventorySlot {
   data: EsoInventorySlotData
 }
-interface EsoInventoryContainer {
-  data: EsoInventorySlot[]
-}
 
 declare const ZO_PlayerInventoryBackpack: EsoInventoryContainer
 declare const ZO_PlayerBankBackpack: EsoInventoryContainer
