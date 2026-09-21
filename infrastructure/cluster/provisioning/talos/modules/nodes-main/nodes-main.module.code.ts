@@ -124,22 +124,7 @@ export const MAIN_NODES: Readonly<Record<string, NodeIntent>> = {
       ...gpuHardwareLabels({ vramUsableMib: 11165, computeCapability: "6.1" }),
     },
     extraMounts: [],
-    userVolumes: [
-      {
-        name: "postgres-data",
-        diskSelector: "!system_disk && disk.size > 100u * GiB",
-        minSize: "100GB",
-        grow: false,
-        filesystem: "xfs",
-      },
-      {
-        name: "postgres-wal",
-        diskSelector: "!system_disk && disk.size > 100u * GiB",
-        minSize: "20GB",
-        grow: false,
-        filesystem: "xfs",
-      },
-    ],
+    userVolumes: [],
   },
   "node-05": {
     id: "node-05",
