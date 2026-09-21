@@ -7,4 +7,6 @@ export const howSomethingJoinsTheRotation = {
   title: "How Something Joins The Rotation",
   definition: "what gets into the set I am working through, and what leaves it",
   parents: ["all-about-alan-topic/small-bites-of-many-things"],
+  settled:
+    "An option runs through four stages, and my foods and my ways of moving both run the same four.\n\nIt is discovered first. A rule I set does much of that work: every shop, I buy one new thing to try.\n\nThen it qualifies, which means it actually works. I want it, I can afford it, nothing in me recoils from it, and the irreducible cost of starting it is low.\n\nThen it is retained, and retention takes two things at once. It has to keep working, and it has to stay in my awareness. Losing the second loses the option as surely as losing the first.\n\nThen it goes, either disqualified by a bad run of it or simply forgotten.\n\nQualifying is not the same as happening. A qualified, retained option still sits there until something present fires it.\n",
 } as const satisfies AllAboutAlanTopic
