@@ -17,7 +17,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "Whether a type generator turns is answered from the change rather than from a reading of the index.",
       workingMemory:
-        "`turnsFor` in `type-generating.module.code.ts` is 465ms, down from 3.63s, almost all of it still `readByGenerated` in `type-turning.module.code.ts`. `turnedBy` answers one yes or no for the whole checkout, so any page type edit writes all 2,324 `.types.ts` bodies again rather than the ones that turned. `readByGenerated` builds `facingOn(root)`, a second face over the root, though `preparing` builds one of its own eighteen lines later.",
+        "`turnsFor` in `type-generating.module.code.ts` is 465ms, almost all of it `readByGenerated` in `type-turning.module.code.ts`. `turnedBy` answers one yes or no for the whole checkout, so any page type edit writes all 2,324 `.types.ts` bodies again rather than the ones that turned. `readByGenerated` builds `facingOn(root)`, a second face over the root, though `preparing` builds one of its own eighteen lines later.",
     },
     {
       statement:
