@@ -11,9 +11,5 @@ export const sessionWatch = {
       decisionKind: "decision-kind/departure",
       statement: "A transcript found is recorded on the seat that owns it.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A transcript stays on the workstation that wrote it.",
-    },
   ],
 } as const satisfies Module
