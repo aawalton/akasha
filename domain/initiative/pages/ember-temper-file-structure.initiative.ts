@@ -6,18 +6,5 @@ export const emberTemperFileStructure = {
   slug: "ember-temper-file-structure",
   domain: "domain/temper",
   persona: "persona/ember",
-  intentStack: [
-    {
-      statement:
-        "Every add-on temper ships is named for the branch it sits under rather than for the kind it is.",
-      workingMemory:
-        "Not met. Nineteen add-on pages and one domain still read `temper-<what>-addon`, so nothing strips and each folder keeps its whole name. Named `temper-addon-<what>`, the folder is `<what>` and every path beneath it loses the rest. Path length is not cosmetic: three modules crossed the 15,000 byte ceiling because their imports grew, and two had to be divided. The in-game name is the manifest's `name`, so a rename reaches no saved variables, but it does leave a stale export name.\n",
-    },
-    {
-      statement:
-        "The page type an add-on is sits in temper, and every add-on temper ships is a page of it.",
-      workingMemory:
-        "Nearly met. The page type is `temper-addon`, and all 48 add-on pages are of it. Whether an add-on is one of Temper's own libraries is the `library` property on that page type rather than a page type of its own, so all 48 share one `pages` folder. Every library has moved to `temper/addon/pages/<what>/`; sixteen player-facing ones are still at `temper/addon/<what>-addon/`. An add-on is both a part and a page under `pages/`, because the page type extends `page-type/service`.\n",
-    },
-  ],
+  intentStack: [],
 } as const satisfies Initiative
