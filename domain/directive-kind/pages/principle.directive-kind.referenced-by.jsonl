@@ -12,6 +12,7 @@
 {"propertySlug":"directive-kind","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
 {"propertySlug":"directive-kind","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
 {"propertySlug":"directive-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
+{"propertySlug":"directive-kind","path":"design/play/design-play.domain.ts","id":"01a0c5e7-5da4-75d2-b817-cfeb27a8d865"}
 {"propertySlug":"directive-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
 {"propertySlug":"directive-kind","path":"page/naming/naming.domain.ts","id":"01a05341-b9a9-7d68-88b3-142e3e3ecd4d"}
 {"propertySlug":"directive-kind","path":"person/pages/alan/alan.person.ts","id":"01a053fe-00ef-7d9b-9231-0340262cf86e"}

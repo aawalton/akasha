@@ -208,5 +208,75 @@ export const designPlay = {
       statement:
         "A mechanic that invalidates the best line found un-solves the game and revives play.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Consistency and difference are one bargain: what a thing is settles what it does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Consistency is felt as safety and difference as arousal, and fun is felt on both.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "directive-kind/principle",
+      name: "Choices That Matter",
+      act: "Give the player choices with real consequences toward the objective and no obvious best one.",
+      warrant:
+        "Making choices parts play from media, and a meaningless one is media in play's dress.",
+      aids: [
+        "A choice that changes only how a thing looks is cosmetic.",
+        "A choice with a known best answer is solved.",
+        "A choice whose consequences the player cannot see is blind.",
+        "Dominance answers to what the player knows, never to what is knowable.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/principle",
+      name: "Clear Abstractions",
+      act: "Draw every abstraction boundary on purpose.",
+      warrant:
+        "That a line is drawn cleanly beats where it falls, and half-consistency is the undrawn tell.",
+      aids: [
+        "One rarity curve over items, skills and classes is right where rarity is one thing.",
+        "Where rarity is three things, one curve is an opportunity missed.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/principle",
+      name: "Reliable Consistency",
+      act: "Make the same thing look the same and act the same everywhere it is seen.",
+      warrant: "A player learns a game only where what a thing is predicts what that thing does.",
+      aids: [
+        "Consistency is what makes a choice legible.",
+        "This is what a player feels as safety.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/principle",
+      name: "Interesting Differences",
+      act: "Make genuinely different things work differently.",
+      warrant:
+        "A pattern repeated across things that are really distinct is an opportunity missed.",
+      aids: [
+        "Repeat the shared grammar and differentiate what is distinct.",
+        "Difference is what makes a choice real.",
+        "This is what a player feels as arousal.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/principle",
+      name: "Honest Preference Development",
+      act: "Let play develop what a player wants honestly.",
+      warrant: "Rigging what a player wants corrupts the half of play that holds its value.",
+      aids: [
+        "Fear of missing out and a reward on a variable schedule rig it.",
+        "Randomness alone does not, a draw being a way to pace exploration.",
+        "This is worst where it is extractive, and it is no absolute ban.",
+        "Judge a mechanic by what it gives the whole game rather than by playing it alone.",
+      ],
+    },
   ],
 } as const satisfies Domain
