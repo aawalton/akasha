@@ -13,6 +13,7 @@ export const construction = {
     "text-property/refuses",
     "construction/noun-group-alone",
     "construction/noun-group-with-a-determiner",
+    "construction/preposition-with-a-noun-phrase",
   ],
   extends: ["page-type/domain"],
   properties: [
