@@ -7,8 +7,8 @@ import {
   spelling,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { maxQuality } from "akasha/temper/progress/temper-condition-field/pages/max-quality.temper-condition-field.ts"
-import { temperConditionField } from "akasha/temper/progress/temper-condition-field/temper-condition-field.page-type.ts"
+import { maxQuality } from "akasha/temper/player/progress/temper-condition-field/pages/max-quality.temper-condition-field.ts"
+import { temperConditionField } from "akasha/temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts"
 
 const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 

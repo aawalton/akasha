@@ -1,4 +1,4 @@
-{"propertySlug":"extends-type","path":"temper/progress/temper-task-progress/temper-task-progress.page-type.ts","id":"01a0a000-4b34-7137-9a7d-61ff29b56e1b"}
+{"propertySlug":"extends-type","path":"temper/player/progress/temper-task-progress/temper-task-progress.page-type.ts","id":"01a0a000-4b34-7137-9a7d-61ff29b56e1b"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.ts","path":"page/index/modules/reaching/reaching.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"agent/model/test/properties/cases.page-property-entry.ts"}
@@ -49,7 +49,7 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-mine/properties/quests.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/progress/temper-rule/properties/conditions.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/progress/temper-task-progress/temper-task-progress.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/conditions.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-task-progress/temper-task-progress.page-type.types.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

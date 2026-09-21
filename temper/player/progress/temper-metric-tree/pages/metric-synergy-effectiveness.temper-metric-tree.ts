@@ -1,0 +1,12 @@
+import type { TemperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.types.ts"
+
+export const metricSynergyEffectiveness = {
+  id: "019e2fcd-5ab8-79eb-aed9-82bb2ef5a050",
+  type: "page-type/temper-metric-tree",
+  slug: "metric-synergy-effectiveness",
+  title: "Synergy Effectiveness",
+  nodeId: "synergy-effectiveness",
+  nodeType: "metric",
+  displayOrder: 1,
+  parent: "category-other",
+} as const satisfies TemperMetricTree

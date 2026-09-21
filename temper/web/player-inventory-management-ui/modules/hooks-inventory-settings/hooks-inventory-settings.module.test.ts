@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { heldFromRows } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import { sell } from "akasha/temper/progress/temper-item-action/pages/sell.temper-item-action.ts"
-import { temperItemAction } from "akasha/temper/progress/temper-item-action/temper-item-action.page-type.ts"
+import { sell } from "akasha/temper/player/progress/temper-item-action/pages/sell.temper-item-action.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 import {
   isRulesUnreadWrite,
   RULES_UNREAD_WRITE,

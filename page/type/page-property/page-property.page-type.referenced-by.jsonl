@@ -171,7 +171,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-account-character/properties/character-roles.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/progress/thing/properties/completion-item-path.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/progress/thing/properties/completion-item-path.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"alan/track/tracking-field/tracking-field.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/action-button-property/action-button-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/boolean-property/boolean-property.page-type.types.ts"}

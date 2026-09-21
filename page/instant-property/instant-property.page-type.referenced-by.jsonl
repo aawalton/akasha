@@ -59,9 +59,9 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/last-full-scan-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/last-scanned-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/mined-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/progress/temper-inventory-rule/properties/updated-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/progress/temper-task/properties/completed-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/progress/temper-task/properties/last-completed-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/progress/temper-watcher-enrolment/properties/token-created-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/progress/temper-watcher-enrolment/properties/token-last-used-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/updated-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/completed-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/last-completed-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-created-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-last-used-at.instant-property.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

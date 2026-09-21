@@ -9,9 +9,9 @@ import {
   ruleFromPage,
   rulesFromPages,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import { sell } from "akasha/temper/progress/temper-item-action/pages/sell.temper-item-action.ts"
-import { stock } from "akasha/temper/progress/temper-item-action/pages/stock.temper-item-action.ts"
-import { temperItemAction } from "akasha/temper/progress/temper-item-action/temper-item-action.page-type.ts"
+import { sell } from "akasha/temper/player/progress/temper-item-action/pages/sell.temper-item-action.ts"
+import { stock } from "akasha/temper/player/progress/temper-item-action/pages/stock.temper-item-action.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 
 const PAGE: RulePage = {
   slug: "rule-gold-stock",

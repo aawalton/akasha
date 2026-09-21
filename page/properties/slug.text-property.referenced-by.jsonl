@@ -159,10 +159,10 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-account-character/properties/character-roles.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/progress/temper-inventory-rule/properties/from-template.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/progress/temper-rule/properties/action.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/progress/temper-rule/properties/condition-field.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/progress/temper-rule/properties/goal.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/from-template.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/action.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/condition-field.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/goal.relation-property.types.ts"}
 {"propertySlug":"page-property","path":"alan/library/reading/book-section/book-section.page-type.ts","id":"01a0658d-fe50-7001-976d-fd0d35660d1d"}
 {"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"page-property","path":"person/email/gmail-mailbox/properties/processed-messages/processed-messages.page-property-entry.ts","id":"01a06862-a0bc-72d6-b90f-dad9388f4920"}

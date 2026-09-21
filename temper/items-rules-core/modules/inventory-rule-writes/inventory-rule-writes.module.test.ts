@@ -7,10 +7,10 @@ import {
   valuesFor,
   writesFor,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
-import { known } from "akasha/temper/progress/temper-condition-field/pages/known.temper-condition-field.ts"
-import { temperConditionField } from "akasha/temper/progress/temper-condition-field/temper-condition-field.page-type.ts"
-import { sell } from "akasha/temper/progress/temper-item-action/pages/sell.temper-item-action.ts"
-import { temperItemAction } from "akasha/temper/progress/temper-item-action/temper-item-action.page-type.ts"
+import { known } from "akasha/temper/player/progress/temper-condition-field/pages/known.temper-condition-field.ts"
+import { temperConditionField } from "akasha/temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts"
+import { sell } from "akasha/temper/player/progress/temper-item-action/pages/sell.temper-item-action.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 
 const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 

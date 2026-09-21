@@ -2,7 +2,7 @@ import { inboxesEmail } from "akasha/alan/harness/inbox/readouts/inboxes-email/i
 import { inboxesTasks } from "akasha/alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts"
 import { carryEachReading } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
 import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
-import { inboxesTemperTasks } from "akasha/temper/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts"
+import { inboxesTemperTasks } from "akasha/temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts"
 
 const TO = "https://alanwalton.com"
 

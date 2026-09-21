@@ -29,7 +29,6 @@ export const temper = {
     "domain/temper-lorebook",
     "domain/temper-player-completion",
     "domain/temper-player-completion-state",
-    "domain/temper-progress",
     "domain/temper-skill-morph-access",
     "domain/temper-skill-point-finder",
     "module/addon-init",

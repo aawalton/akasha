@@ -1,0 +1,9 @@
+import type { TemperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.types.ts"
+
+export const characterEquip = {
+  id: "01a071f0-4c82-73e1-9946-1dc48e9b2d78",
+  type: "page-type/temper-item-action",
+  slug: "character-equip",
+  title: "Equip on character",
+  description: "Equips the item on the character the rule names.",
+} as const satisfies TemperItemAction

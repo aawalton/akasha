@@ -402,10 +402,10 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-skill-point/properties/max-quests.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-skill-point/properties/max-skyshards.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-skill-point/properties/max-value.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/progress/temper-completion-override/properties/floor.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/progress/temper-inventory-rule/properties/target-quantity.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/progress/temper-task/properties/character-sort-order.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/progress/temper-task/properties/progress-current.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/progress/temper-task/properties/progress-total.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-completion-override/properties/floor.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/target-quantity.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/character-sort-order.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/progress-current.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/progress-total.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/thing/properties/display-order.number-property.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

@@ -1,9 +1,0 @@
-import type { TemperItemAction } from "akasha/temper/progress/temper-item-action/temper-item-action.page-type.types.ts"
-
-export const fenceLaunder = {
-  id: "01a071f0-4c84-7b4d-8467-1404cf41193c",
-  type: "page-type/temper-item-action",
-  slug: "fence-launder",
-  title: "Launder",
-  description: "Launders a stolen item at a fence.",
-} as const satisfies TemperItemAction

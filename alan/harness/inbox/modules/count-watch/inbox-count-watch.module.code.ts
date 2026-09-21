@@ -41,7 +41,7 @@ const COUNTED_TYPES: readonly string[] = [TO_DO_PAGE_TYPE_SLUG, TEMPER_TASK_PAGE
 
 const TO_DOS_AT = "alan/track/to-do/pages"
 
-const TEMPER_TASKS_AT = "temper/progress/temper-task/pages"
+const TEMPER_TASKS_AT = "temper/player/progress/temper-task/pages"
 
 export const NO_SITE_NAMED =
   "no site was named, so a count taken here would be carried nowhere. Name the origin of the " +

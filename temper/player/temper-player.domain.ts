@@ -5,5 +5,10 @@ export const temperPlayer = {
   type: "page-type/domain",
   slug: "temper-player",
   definition: "the account a player plays, and what it has done",
-  parts: ["domain/temper-character", "domain/temper-skill-morph", "domain/temper-completion"],
+  parts: [
+    "domain/temper-character",
+    "domain/temper-skill-morph",
+    "domain/temper-completion",
+    "domain/temper-progress",
+  ],
 } as const satisfies Domain
