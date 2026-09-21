@@ -1,15 +1,15 @@
 "use client"
 
-import type { CompanionEffectSource } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
-import type { CompanionMetricId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
-import type { CompanionMetricValue } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
+import type { CompanionEffectSource } from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionMetricValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import {
   type CompanionFormulaStats,
   extractNonSoothingHealingDoneSources,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { computeSoothingHealingDone } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-soothing-healing/companion-soothing-healing.module.code.ts"
-import type { CompanionScalingMetricId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
-import type { RotationResult } from "akasha/temper/catalog/temper-companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { computeSoothingHealingDone } from "akasha/temper/catalog/companion/companions-core/modules/companion-soothing-healing/companion-soothing-healing.module.code.ts"
+import type { CompanionScalingMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
+import type { RotationResult } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { useCompanion } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
 import { useCompanionStatsCalculation } from "akasha/temper/web/modules/use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts"
 import { createContext, type ReactNode, useMemo } from "react"

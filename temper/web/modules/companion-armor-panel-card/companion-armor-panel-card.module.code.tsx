@@ -15,17 +15,17 @@ import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/r
 import {
   type CompanionArmorSlotId,
   companionArmorSlots,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
-import type { CompanionArmorWeight } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
-import { getCompanionArmorIcon } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
-import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { companionEquipmentQualities } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { AVAILABLE_QUALITY_OPTIONS } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import { getCompanionArmorIcon } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
+import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { companionEquipmentQualities } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { AVAILABLE_QUALITY_OPTIONS } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import {
   type CompanionTraitId,
   companionTraits,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
-import type { CompanionArmorSlotItem } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-types/companion-types.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import type { CompanionArmorSlotItem } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { armorSlots } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {

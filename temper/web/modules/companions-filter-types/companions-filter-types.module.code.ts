@@ -1,10 +1,10 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
-import { companionBaseRoles } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { companionBaseRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionId,
   companions,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   type TargetArmorId,
   targetArmor,

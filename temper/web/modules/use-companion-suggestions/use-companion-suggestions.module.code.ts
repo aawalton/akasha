@@ -1,8 +1,8 @@
 import {
   type CompanionSuggestion,
   generateSuggestions,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"
-import type { CompanionState } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-types/companion-types.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"
+import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { useMemo } from "react"
 
 export function useCompanionSuggestions(build: CompanionState): readonly CompanionSuggestion[] {

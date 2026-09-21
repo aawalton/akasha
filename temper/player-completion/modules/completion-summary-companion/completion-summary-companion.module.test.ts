@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { CompanionId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import { buildCompanionSummary } from "akasha/temper/player-completion/modules/completion-summary-companion/completion-summary-companion.module.code.ts"

@@ -1,4 +1,4 @@
-import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 
 export function getQualityVariant(
   quality: CompanionEquipmentQualityId,

@@ -1,9 +1,9 @@
 "use client"
 
 import { confirmingTarget } from "akasha/temper/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
-import { getBaseRoleName } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionState } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { companions as companionsData } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+import { getBaseRoleName } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
+import { companions as companionsData } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,

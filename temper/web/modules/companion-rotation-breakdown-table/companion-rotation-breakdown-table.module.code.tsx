@@ -18,11 +18,11 @@ import {
 import {
   buildSlotData,
   computeRotationTotals,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"
 import {
   type RotationBreakdownRowId,
   rotationBreakdownRows,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts"
 import type { SkillBreakdownTableProps } from "akasha/temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
 import { SkillColumnHeader } from "akasha/temper/web/modules/companion-rotation-skill-column-header/companion-rotation-skill-column-header.module.code.tsx"
 

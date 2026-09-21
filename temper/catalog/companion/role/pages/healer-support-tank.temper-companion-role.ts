@@ -1,0 +1,9 @@
+import type { TemperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.types.ts"
+
+export const healerSupportTank = {
+  id: "01a05fcd-70fe-7d15-8482-c87e34eca858",
+  type: "page-type/temper-companion-role",
+  slug: "healer-support-tank",
+  key: "healer+support+tank",
+  title: "Healer + Support + Tank",
+} as const satisfies TemperCompanionRole

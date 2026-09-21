@@ -10,14 +10,14 @@ import {
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import type { CompanionBaseRoleId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionEffectSource } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
-import { companionMetricToDisplayFormula } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts"
-import type { CompanionMetricId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionEffectSource } from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
+import { companionMetricToDisplayFormula } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   type CompanionMetricValue,
   getCompanionMetricName,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { FormulaDisplay } from "akasha/temper/web/modules/formula-display/formula-display.module.code.tsx"
 
 interface CompanionStatExplanationDialogProps {

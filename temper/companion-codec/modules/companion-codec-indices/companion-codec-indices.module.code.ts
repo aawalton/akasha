@@ -1,11 +1,11 @@
 import { bitsNeeded } from "akasha/code/type/narrowing/modules/bits-needed/bits-needed.module.code.ts"
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
-import type { CompanionArmorWeight } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
-import { companionEquipmentQualities } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { companionSkills } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
-import { companionTraits } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
-import { companionWeaponTypes } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companions } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import { companionEquipmentQualities } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+import { companionTraits } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 
 const companionIds = companions.ids
 

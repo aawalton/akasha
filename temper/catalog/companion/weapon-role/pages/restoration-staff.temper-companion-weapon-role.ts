@@ -1,0 +1,11 @@
+import type { TemperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.types.ts"
+
+export const restorationStaff = {
+  id: "01a05fcd-ea72-7636-b9d7-d1afc3c60823",
+  type: "page-type/temper-companion-weapon-role",
+  slug: "restoration-staff",
+  key: "restoration-staff",
+  title: "Restoration Staff",
+  weaponSkillLineId: "weapon-restoration-staff",
+  validMainHandWeaponTypes: ["restoration-staff"],
+} as const satisfies TemperCompanionWeaponRole

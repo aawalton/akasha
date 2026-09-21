@@ -1,0 +1,86 @@
+import type { CompanionArmorSlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import type { CompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import type { CompanionJewelrySlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import type { CompanionSkillSlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
+import type { CompanionSkillId } from "akasha/temper/catalog/companion/companions-core/modules/companion-skills/companion-skills.module.code.ts"
+import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import type { CompanionWeaponSlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+import type { CompanionWeaponTypeId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import type { TargetArmorId } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
+import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
+
+interface CompanionArmorItem {
+  type: CompanionArmorSlotId
+  weight: CompanionArmorWeight
+  trait: CompanionTraitId
+  quality: CompanionEquipmentQualityId
+}
+
+interface CompanionJewelryItem {
+  type: CompanionJewelrySlotId
+  trait: CompanionTraitId
+  quality: CompanionEquipmentQualityId
+}
+
+interface CompanionWeaponItem {
+  slot: CompanionWeaponSlotId
+  type: CompanionWeaponTypeId
+  trait: CompanionTraitId
+  quality: CompanionEquipmentQualityId
+}
+
+export type CompanionArmorSlotItem =
+  | { itemType: "armor"; data: CompanionArmorItem }
+  | { itemType: "empty"; data: null }
+
+export type CompanionJewelrySlotItem =
+  | { itemType: "jewelry"; data: CompanionJewelryItem }
+  | { itemType: "empty"; data: null }
+
+export type CompanionWeaponSlotItem =
+  | { itemType: "weapon"; data: CompanionWeaponItem }
+  | { itemType: "empty"; data: null }
+
+export type CompanionTargetArmorId = TargetArmorId
+
+export type CompanionTargetHealthId = "full" | "execute"
+
+type TestCompanionCategory = "class-skills" | "shared-skills"
+
+interface CompanionRotationConfig {
+  cycleDuration: number
+  ultimateThreshold: number
+}
+
+export const DEFAULT_COMPANION_ROTATION_CONFIG: CompanionRotationConfig = {
+  cycleDuration: 600,
+  ultimateThreshold: 100,
+}
+
+export interface CompanionState {
+  id: BuildId
+  name: string
+  description: string
+  isTestBuild?: boolean
+  testCategory?: TestCompanionCategory
+  companion: {
+    id: CompanionId
+    baseRoles: readonly CompanionBaseRoleId[]
+  }
+  equipment: {
+    armor: Record<CompanionArmorSlotId, CompanionArmorSlotItem>
+    jewelry: Record<CompanionJewelrySlotId, CompanionJewelrySlotItem>
+    weapons: Record<CompanionWeaponSlotId, CompanionWeaponSlotItem>
+  }
+  skills: {
+    "skill-bar": Record<CompanionSkillSlotId, CompanionSkillId>
+  }
+  target: {
+    armor: CompanionTargetArmorId
+    targetCount: number
+    targetHealth: CompanionTargetHealthId
+  }
+}

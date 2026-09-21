@@ -20,8 +20,8 @@ import { companionUrl } from "akasha/temper/build-support/modules/build-url/buil
 import {
   displayRolesToLabel,
   type RankedEntry,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
-import type { CompanionId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { LEADERBOARD_COLUMNS } from "akasha/temper/web/modules/leaderboard-columns/leaderboard-columns.module.code.ts"
 

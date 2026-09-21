@@ -1,8 +1,8 @@
 "use client"
 
-import type { CompanionStatsResult } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
-import type { CompanionState } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import type { CompanionId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+import type { CompanionStatsResult } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
+import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { usePlayerByUserId } from "akasha/temper/modules/use-player/use-player.module.code.ts"
 import { CompanionListPanelCard } from "akasha/temper/web/modules/companion-list-panel-card/companion-list-panel-card.module.code.tsx"
 

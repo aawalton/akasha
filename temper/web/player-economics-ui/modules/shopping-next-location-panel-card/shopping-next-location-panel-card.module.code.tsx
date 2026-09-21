@@ -7,7 +7,7 @@ import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-r
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
-import { companionTraits } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import { companionTraits } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"
 import { kioskLocationName } from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
 import { formatGold } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"

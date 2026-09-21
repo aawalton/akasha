@@ -5,7 +5,7 @@ import { askComposed } from "akasha/page/query/modules/store-spelled-asking/stor
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
 import { parseSavedVariablesContent } from "akasha/temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
-import { getCompanionIdByDefId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+import { getCompanionIdByDefId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,

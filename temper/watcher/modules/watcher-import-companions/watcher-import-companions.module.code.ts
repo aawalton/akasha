@@ -1,12 +1,12 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
-import { companionRoles } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-roles/companion-roles.module.code.ts"
-import type { CompanionState } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import type { CompanionId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+import { companionRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-roles/companion-roles.module.code.ts"
+import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   companions,
   getCompanionIdByDefId,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,

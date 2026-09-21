@@ -26,7 +26,7 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
-import { getCompanionName } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+import { getCompanionName } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { CompanionListCardWithHandle } from "akasha/temper/web/modules/companion-list-card-with-handle/companion-list-card-with-handle.module.code.tsx"
 import {
   CompanionsFilterBar,

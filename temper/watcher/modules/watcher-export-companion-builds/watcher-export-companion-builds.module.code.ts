@@ -4,7 +4,7 @@ import type { Page } from "akasha/page/core/modules/page-types/page-types.module
 import {
   companions,
   getDefIdByCompanionId,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import type { CompanionsConfigFileInputs } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 import {
   numericKeyedBlock,

@@ -1798,13 +1798,13 @@
 {"propertySlug":"decision-kind","path":"temper/capture/sale/modules/sales-payload/sales-payload.module.ts","id":"01a0608a-15b3-7095-b65b-bb44a69a01c0"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/temper-capture-sale.domain.ts","id":"01a0608a-15b3-7222-9758-3efaaecd469e"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/batch-config/batch-config.module.ts","id":"01a06071-0c77-7e96-8044-2bad3e05b280"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/catalog-payload/catalog-payload.module.ts","id":"01a06071-0c78-7ec6-a529-55cd1d262309"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/domain-registry/domain-registry.module.ts","id":"01a06071-0c79-71aa-8f49-de4128d97c66"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.ts","id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
-{"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/leaf-dump/leaf-dump.module.ts","id":"01a06282-dfc3-7f7d-baf2-78aa71fd248e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-verify/libsets-upstream-verify.module.ts","id":"01a060d0-ca2a-7b19-860d-b24372089328"}

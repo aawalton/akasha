@@ -1,9 +1,0 @@
-import type { TemperCompanionActivationBuff } from "akasha/temper/catalog/temper-companion/activation-buff/temper-companion-activation-buff.page-type.types.ts"
-
-export const staminaRecovery = {
-  id: "01a05fcd-70f6-773b-b229-1127611ec5cd",
-  type: "page-type/temper-companion-activation-buff",
-  slug: "stamina-recovery",
-  key: "stamina-recovery",
-  title: "Stamina Recovery",
-} as const satisfies TemperCompanionActivationBuff

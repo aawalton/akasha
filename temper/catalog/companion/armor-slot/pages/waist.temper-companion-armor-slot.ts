@@ -1,0 +1,10 @@
+import type { TemperCompanionArmorSlot } from "akasha/temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.types.ts"
+
+export const waist = {
+  id: "01a05fcd-ea69-7aa2-967d-f12579d56772",
+  type: "page-type/temper-companion-armor-slot",
+  slug: "waist",
+  key: "waist",
+  title: "Waist",
+  equipType: 8,
+} as const satisfies TemperCompanionArmorSlot

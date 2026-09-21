@@ -1,8 +1,8 @@
-import type { CompanionId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   companions,
   getCompanionIdByDefId,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   type SkillLineId,
   skillLines,

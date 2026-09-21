@@ -4,7 +4,7 @@ import {
   type BuildVisibility,
   toBuildVisibility,
 } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
-import type { CompanionState } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-types/companion-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,

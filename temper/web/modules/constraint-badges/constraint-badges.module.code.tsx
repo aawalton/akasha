@@ -1,10 +1,10 @@
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import type { EffectCondition } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import {
   formatEnemyType,
   formatStatusType,
   formatWeaponType,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
+import type { EffectCondition } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type { BadgeVariant } from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
 
 interface ConstraintBadgesProps {

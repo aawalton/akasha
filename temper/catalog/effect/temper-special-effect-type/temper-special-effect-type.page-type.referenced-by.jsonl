@@ -9,4 +9,4 @@
 {"propertySlug":"import","fileName":"temper-special-effect-type.page-type.types.ts","path":"temper/catalog/effect/temper-special-effect-type/pages/pull-to-caster.temper-special-effect-type.ts"}
 {"propertySlug":"import","fileName":"temper-special-effect-type.page-type.types.ts","path":"temper/catalog/effect/temper-special-effect-type/pages/reflect-all.temper-special-effect-type.ts"}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}
-{"propertySlug":"target-page-type","path":"temper/catalog/temper-companion/skill/properties/special-effect.relation-property.ts","id":"01a08ece-83bb-74f4-bd4f-f9b0672a0047"}
+{"propertySlug":"target-page-type","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.ts","id":"01a08ece-83bb-74f4-bd4f-f9b0672a0047"}

@@ -1,13 +1,13 @@
-import { companionArmorSlots } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
+import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {
   ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
   ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
   ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
-} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
-import { companionJewelrySlots } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import type { CompanionState } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { companionWeaponTypes } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companions as companionsData } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
+import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions as companionsData } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { armorSlots } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import { resolveQuality } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"

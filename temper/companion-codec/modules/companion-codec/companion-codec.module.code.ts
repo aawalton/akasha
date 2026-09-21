@@ -2,8 +2,8 @@ import {
   base64urlToBytes,
   bytesToBase64url,
 } from "akasha/temper/build-hash/modules/build-hash-base64url/build-hash-base64url.module.code.ts"
-import type { CompanionState } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { registerCompanionDecoder } from "akasha/temper/catalog/temper-companion/companions-core/modules/reference-build-data/reference-build-data.module.code.ts"
+import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
+import { registerCompanionDecoder } from "akasha/temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.code.ts"
 import {
   COMPANION_BUILD_TYPE,
   decodeV49,

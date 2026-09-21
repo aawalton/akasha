@@ -10,7 +10,7 @@ import {
   encodeBuild,
 } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { toBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
-import { createEmptyCompanion } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
+import { createEmptyCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
 import { createEmptyCharacter } from "akasha/temper/character-build/modules/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
