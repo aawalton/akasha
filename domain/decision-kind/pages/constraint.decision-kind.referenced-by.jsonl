@@ -595,6 +595,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-set-scan-run/lib-sets-debug-debug-set-scan-run.module.ts","id":"01a0623c-2df7-774b-b28f-3e28f57b8014"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-set-scan/lib-sets-debug-debug-set-scan.module.ts","id":"01a0623c-2df7-7642-8643-ff60b0ac0a6c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.ts","id":"01a0623c-2df7-753c-824c-7675ce095ff4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-scan-report/lib-sets-debug-scan-report.module.ts","id":"01a0c514-b1a1-7002-b5cf-cfa8a286e6f5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-gen-set-data-preloaded/lib-sets-gen-set-data-preloaded.module.ts","id":"01a061dd-1562-75b4-97b2-c821be9c1a17"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-gen-set-info/lib-sets-gen-set-info.module.ts","id":"01a061fc-cee5-75d4-9e8c-3b140c7e89cc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.ts","id":"01a0623e-53a1-7955-ac07-165fbac5661b"}
