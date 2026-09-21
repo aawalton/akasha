@@ -99,7 +99,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/music/capture/music-capture.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/page/secret/list/page-secret-list.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/page/secret/set/page-secret-set.command.test.ts"}

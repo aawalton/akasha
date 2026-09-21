@@ -2,85 +2,45 @@ import { expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type {
-  Asking,
-  Landing,
-} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { throwingAfter } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.test-fixtures.ts"
 import {
   OPERATIONAL,
   partWay,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
-import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { refusingWith } from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
-import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
-import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   ARTIST,
   musicRate,
+  playingNamed,
   SONG,
   saidOf,
+  slugCarried,
   TRACK,
   taken,
   valuesFor,
   WRITE,
 } from "akasha/command/pages/music/rate/music-rate.command.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-
-const scratch = scratchWorld()
-
-const ROOT = rootOf(process.cwd())
-
-const GIVEN: Given = { root: ROOT, calledAs: "akasha", from: ".", writer: null, agentId: null }
-
-const RATED = "aurora"
-
-const RATED_AT = `alan/music/catalog/artist/pages/${RATED}/${RATED}.artist.ts`
-
-const REACTION_AT = `alan/music/catalog/artist/pages/${RATED}/${RATED}.artist.reaction.txt`
-
-const REACTION = "she sings it plainly"
-
-const TRACK_SLUG = "alexandria-always-an-angel-always-an-angel"
-
-const TRACK_AT = `alan/music/catalog/track/pages/${TRACK_SLUG}.track.ts`
-
-const LANDED: Applied = {
-  base: "2222222222222222222222222222222222222222",
-  landed: [RATED_AT, REACTION_AT],
-  formatted: [],
-  said: [],
-  wrong: [],
-  commit: "3333333333333333333333333333333333333333",
-}
-
-type Reached = { readonly asked: readonly Asking[]; readonly said: string }
-
-type Reach = { readonly landing: Landing; readonly reached: Reached[] }
-
-function reaching(answer: Applied | Refused = LANDED): Reach {
-  const reached: Reached[] = []
-  return {
-    reached,
-    landing: async (_root, asked, said) => {
-      reached.push({ asked, said })
-      return answer
-    },
-  }
-}
-
-function pathsIn(asked: readonly Asking[]): readonly string[] {
-  return asked.map((one) => ("at" in one.given ? one.given.at : ""))
-}
-
-function gradingAurora(reach: Reach) {
-  return musicRate(
-    ["--target", ARTIST, "--slug", RATED, "--grade", "A", "--reaction", REACTION],
-    GIVEN,
-    reach.landing
-  )
-}
+import {
+  finding,
+  GIVEN,
+  gradingAurora,
+  gradingThrowing,
+  LANDED,
+  PLAYER,
+  PLAYING_ID,
+  PLAYING_TITLE,
+  pathsIn,
+  playing,
+  RATED,
+  RATED_AT,
+  REACTION,
+  REACTION_AT,
+  ROOT,
+  reaching,
+  SILENT,
+  scratch,
+  TRACK_AT,
+  TRACK_SLUG,
+} from "akasha/command/pages/music/rate/music-rate.command.test-fixtures.ts"
 
 const refusalsOf = refusingWith((argv: readonly string[]) => taken(argv, GIVEN))
 
@@ -97,10 +57,18 @@ function takingOf(argv: readonly string[]) {
 }
 
 test("every refusal a call earns arrives on its own line rather than joined into one", () => {
-  expect(refusalsOf(["--slug", "a", "--reaction", "x", "--reaction-file", "y"])).toEqual([
-    "`akasha` takes `--target`, and nothing said it",
+  expect(
+    refusalsOf(["--slug", "a", "--now-playing", "--reaction", "x", "--reaction-file", "y"])
+  ).toEqual([
+    "`--slug` and `--now-playing` are never said together, and this call says both",
     "`--reaction` and `--reaction-file` are never said together, and this call says both",
   ])
+})
+
+test("a slug with no target is refused, because nothing says which sort of page it names", () => {
+  const said = refusalOf(["--slug", "a", "--grade", "A"])
+  expect(said).toContain("`--target`")
+  expect(said).toContain("`--slug`")
 })
 
 test("a flag this takes nothing of is refused", () => {
@@ -179,7 +147,96 @@ test("a track named by its slug is written the way a song named by its slug is",
 })
 
 test("a call naming no slug is refused", () => {
-  expect(refusalOf(["--target", SONG, "--grade", "A"])).toContain("`--slug`")
+  const said = refusalOf(["--target", SONG, "--grade", "A"])
+  expect(said).toContain("`--slug`")
+  expect(said).toContain("`--now-playing`")
+})
+
+test("a call saying what is playing names a track and no slug", () => {
+  const held = takingOf(["--now-playing", "--grade", "A+", "--tag", "attraction"])
+  expect(held.target).toBe(TRACK)
+  expect(held.slug).toBe(null)
+  expect(held.grade).toBe("A+")
+  expect(held.tags).toEqual(["attraction"])
+})
+
+test("a target said beside what is playing is refused", () => {
+  const said = refusalOf(["--now-playing", "--target", TRACK, "--grade", "A"])
+  expect(said).toContain("never said together")
+})
+
+test("prose said beside what is playing is refused", () => {
+  const said = refusalOf(["--now-playing", "--insights", "x"])
+  expect(said).toContain("`--insights`")
+})
+
+test("the track playing is the one whose carrier holds the id Spotify says", () => {
+  expect(playingNamed(finding, playing(PLAYING_ID, PLAYING_TITLE))).toBe(TRACK_SLUG)
+})
+
+test("no active device refuses rather than grading", () => {
+  const found = playingNamed(finding, { activeDevice: false, track: null })
+  expect(found).toEqual({
+    refused: "no Spotify device is active, so nothing is playing for `--now-playing` to grade",
+  })
+})
+
+test("a device holding no track refuses rather than grading", () => {
+  const found = playingNamed(finding, playing(null, PLAYING_TITLE))
+  expect(found).toEqual({
+    refused: "Spotify names no track playing, so nothing is there for `--now-playing` to grade",
+  })
+})
+
+test("a playing track no page carries is refused with its Spotify id and its title", () => {
+  const found = playingNamed(finding, playing("0000000000000000000000", "Nowhere"))
+  expect(found).toEqual({
+    refused:
+      "no track page carries the Spotify id `0000000000000000000000`, which Spotify is playing as `Nowhere`",
+  })
+})
+
+test("a track held rather than played is graded the same way", () => {
+  expect(playingNamed(finding, playing(PLAYING_ID, PLAYING_TITLE, false))).toBe(TRACK_SLUG)
+})
+
+test("a track is found by any of the ids its carriers hold", () => {
+  const tracks = [
+    { slug: "one", carriedBy: [{ externalId: "aaa" }] },
+    { slug: "two", carriedBy: [{ externalId: "bbb" }, { externalId: PLAYING_ID }] },
+  ]
+  expect(slugCarried(tracks, PLAYING_ID)).toBe("two")
+  expect(slugCarried(tracks, "ccc")).toBe(null)
+})
+
+test("one call grades what is playing without naming any page", async () => {
+  const reach = reaching({ ...LANDED, landed: [TRACK_AT] })
+  const said = await musicRate(
+    ["--now-playing", "--grade", "S+", "--tag", "attraction", "--json"],
+    GIVEN,
+    reach.landing,
+    PLAYER
+  )
+  expect(said.refusals).toEqual([])
+  expect(JSON.parse(said.report[0] ?? "")).toEqual({
+    target: TRACK,
+    slug: TRACK_SLUG,
+    grade: "S+",
+  })
+  const one = reach.reached[0]
+  if (one === undefined) throw new Error("the landing was never reached")
+  expect(pathsIn(one.asked)).toEqual([TRACK_AT])
+  const written = one.asked[0]?.given
+  const body = written !== undefined && "body" in written ? written.body : ""
+  expect(body).toContain('rank: "S+"')
+  expect(body).toContain('tags: ["attraction"]')
+})
+
+test("a call over a silent player refuses and reaches no landing", async () => {
+  const reach = reaching()
+  const said = await musicRate(["--now-playing", "--grade", "A"], GIVEN, reach.landing, SILENT)
+  expect(said.refusals[0]).toContain("no Spotify device is active")
+  expect(reach.reached).toEqual([])
 })
 
 test("a grade off the ladder is refused", () => {
@@ -273,9 +330,9 @@ test("the values carry the grade and mark the prose beside the page", () => {
 
 test("what is recorded is said as a line or as JSON", () => {
   const held = takingOf(["--target", SONG, "--slug", "a", "--grade", "B"])
-  expect(saidOf(held)).toBe(`Recorded ${SONG} a`)
+  expect(saidOf(held, "a")).toBe(`Recorded ${SONG} a`)
   const asJson = takingOf(["--target", SONG, "--slug", "a", "--grade", "B", "--json"])
-  expect(JSON.parse(saidOf(asJson))).toEqual({ target: SONG, slug: "a", grade: "B" })
+  expect(JSON.parse(saidOf(asJson, "a"))).toEqual({ target: SONG, slug: "a", grade: "B" })
 })
 
 test("the page and its prose are named to the landing at the change writing any path", async () => {
@@ -318,16 +375,6 @@ test("a landing answering something wrong is answered as a refusal", async () =>
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual(["the install would not take"])
 })
-
-const GAVE_OUT = new Error("the grade landed and the push gave out")
-
-function gradingThrowing(wrote: readonly string[]) {
-  return musicRate(
-    ["--target", ARTIST, "--slug", RATED, "--grade", "A", "--reaction", REACTION],
-    GIVEN,
-    throwingAfter(wrote, GAVE_OUT)
-  )
-}
 
 test("a run that landed the grade and then threw names that commit", async () => {
   const said = await gradingThrowing(["abc123"])

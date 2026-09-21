@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"music-heard-tracks.command.code.ts","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"music-heard-tracks.command.code.ts","path":"command/pages/music/heard-tracks/music-heard-tracks.command.test.ts"}
 {"propertySlug":"import","fileName":"music-heard-tracks.command.code.ts","path":"command/pages/music/merge-tracks/music-merge-tracks.command.code.ts"}
+{"propertySlug":"import","fileName":"music-heard-tracks.command.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"music-heard-tracks.command.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"music-heard-tracks.command.code.ts","path":"command/pages/music/track-carriers/music-track-carriers.command.code.ts"}
 {"propertySlug":"import","fileName":"music-heard-tracks.command.ts","path":"command/pages/music/heard-tracks/music-heard-tracks.command.code.ts"}

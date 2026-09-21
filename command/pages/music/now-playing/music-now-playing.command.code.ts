@@ -82,6 +82,13 @@ export function lineOf(envelope: NowPlayingEnvelope): string {
   return `${mark} ${envelope.track?.name ?? NOTHING} · ${envelope.device}`
 }
 
+export const PLAYER: NowPlayingReader = { getPlaybackState, getCurrentlyPlaying }
+
+export async function envelopeFor(read: NowPlayingReader): Promise<NowPlayingEnvelope> {
+  const [state, current] = await Promise.all([read.getPlaybackState(), read.getCurrentlyPlaying()])
+  return envelopeOf(state, current)
+}
+
 export async function nowPlayingWith(
   read: NowPlayingReader,
   argv: readonly string[],
@@ -89,11 +96,10 @@ export async function nowPlayingWith(
 ): Promise<Answer> {
   const taking = takenFor(argv, calledAs, page, [json])
   if ("refused" in taking) return refusedBy(taking.refused)
-  const [state, current] = await Promise.all([read.getPlaybackState(), read.getCurrentlyPlaying()])
-  const envelope = envelopeOf(state, current)
+  const envelope = await envelopeFor(read)
   return told(taking.taken.json ? [JSON.stringify(envelope)] : [lineOf(envelope)])
 }
 
 export function musicNowPlaying(argv: readonly string[], given: Given): Promise<Answer> {
-  return nowPlayingWith({ getPlaybackState, getCurrentlyPlaying }, argv, given.calledAs)
+  return nowPlayingWith(PLAYER, argv, given.calledAs)
 }

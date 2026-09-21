@@ -17,7 +17,7 @@
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/pages/music/capture/music-capture.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}
-{"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
+{"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"git/modules/committing/committing.module.test.ts"}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"git/modules/holding/holding.module.test.ts"}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}

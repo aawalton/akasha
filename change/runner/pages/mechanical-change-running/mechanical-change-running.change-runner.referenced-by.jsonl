@@ -49,7 +49,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/merge-tracks/music-merge-tracks.command.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
-{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/track-carriers/music-track-carriers.command.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/type-tracks/music-type-tracks.command.code.ts"}
@@ -68,5 +68,5 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/capture/music-capture.command.test.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts"}
-{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts"}
 {"propertySlug":"parts","path":"change/runner/change-runner.page-type.ts","id":"01a077c2-3a15-7c14-8900-ecb0624ff450"}

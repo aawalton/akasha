@@ -333,7 +333,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/play/music-play.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/queue/music-queue.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/repeat/music-repeat.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/search/music-search.command.code.ts"}

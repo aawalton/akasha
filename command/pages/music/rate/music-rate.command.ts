@@ -8,6 +8,7 @@ export const musicRate = {
     "the command recording Alan's grade and what he said onto a track, a song or an artist",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -28,6 +29,26 @@ export const musicRate = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A page is named by its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call names a page by its slug or says to grade what Spotify is playing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What Spotify is playing is a track, so such a call names no target.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The track graded is the one whose carrier holds the id Spotify says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A player holding a track rather than playing it is read the same way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal over what is playing says the Spotify id and the title Spotify gives.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,7 +99,12 @@ export const musicRate = {
   name: "rate",
   arguments: [
     { argument: "argument/json" },
-    { argument: "argument/slug", required: true },
+    {
+      argument: "argument/slug",
+      notWith: ["argument/now-playing"],
+      oneOf: ["argument/now-playing"],
+    },
+    { argument: "argument/now-playing", notWith: ["argument/slug"], oneOf: ["argument/slug"] },
     { argument: "argument/grade" },
     { argument: "argument/tag", repeats: true },
     { argument: "argument/reaction-file" },
@@ -87,6 +113,6 @@ export const musicRate = {
     { argument: "argument/reaction", notWith: ["argument/reaction-file"] },
     { argument: "argument/personal-connections", notWith: ["argument/personal-connections-file"] },
     { argument: "argument/insights", notWith: ["argument/insights-file"] },
-    { argument: "argument/grade-target", required: true },
+    { argument: "argument/grade-target", notWith: ["argument/now-playing"] },
   ],
 } as const satisfies Command

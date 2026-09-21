@@ -181,7 +181,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/measure/round/measure-round.command.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/measure/test/measure-test.command.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.code.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/read/modules/body-owing/body-owing.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/read/modules/differing/differing.module.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/read/modules/differing/differing.module.test.ts"}

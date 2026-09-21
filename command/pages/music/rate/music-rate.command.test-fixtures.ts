@@ -1,0 +1,137 @@
+import type {
+  Asking,
+  Landing,
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { throwingAfter } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.test-fixtures.ts"
+import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import type {
+  NowPlayingCurrent,
+  NowPlayingEnvelope,
+  NowPlayingReader,
+  NowPlayingState,
+} from "akasha/command/pages/music/now-playing/music-now-playing.command.code.ts"
+import { ARTIST, musicRate } from "akasha/command/pages/music/rate/music-rate.command.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+
+export const scratch = scratchWorld()
+
+export const ROOT = rootOf(process.cwd())
+
+export const GIVEN: Given = {
+  root: ROOT,
+  calledAs: "akasha",
+  from: ".",
+  writer: null,
+  agentId: null,
+}
+
+export const RATED = "aurora"
+
+export const RATED_AT = `alan/music/catalog/artist/pages/${RATED}/${RATED}.artist.ts`
+
+export const REACTION_AT = `alan/music/catalog/artist/pages/${RATED}/${RATED}.artist.reaction.txt`
+
+export const REACTION = "she sings it plainly"
+
+export const TRACK_SLUG = "alexandria-always-an-angel-always-an-angel"
+
+export const TRACK_AT = `alan/music/catalog/track/pages/${TRACK_SLUG}.track.ts`
+
+export const PLAYING_ID = "5CziXblfbYNLB4dELQrgq4"
+
+export const PLAYING_TITLE = "Always an Angel"
+
+const LENGTH_MS = 116250
+
+export function finding(externalId: string): string | null {
+  return externalId === PLAYING_ID ? TRACK_SLUG : null
+}
+
+export function playing(
+  id: string | null,
+  name: string,
+  isPlaying: boolean = true
+): NowPlayingEnvelope {
+  return {
+    activeDevice: true,
+    isPlaying,
+    device: "the study",
+    progress_ms: 1000,
+    track: id === null ? null : { name, uri: `spotify:track:${id}`, id, duration_ms: LENGTH_MS },
+  }
+}
+
+const ITEM = {
+  name: PLAYING_TITLE,
+  uri: `spotify:track:${PLAYING_ID}`,
+  id: PLAYING_ID,
+  duration_ms: LENGTH_MS,
+}
+
+const STATE: NowPlayingState = {
+  is_playing: true,
+  device: { name: "the study" },
+  progress_ms: 1000,
+  item: ITEM,
+}
+
+const CURRENT: NowPlayingCurrent = { item: ITEM, progress_ms: 1000 }
+
+export const PLAYER: NowPlayingReader = {
+  getPlaybackState: async () => STATE,
+  getCurrentlyPlaying: async () => CURRENT,
+}
+
+export const SILENT: NowPlayingReader = {
+  getPlaybackState: async () => null,
+  getCurrentlyPlaying: async () => null,
+}
+
+export const LANDED: Applied = {
+  base: "2222222222222222222222222222222222222222",
+  landed: [RATED_AT, REACTION_AT],
+  formatted: [],
+  said: [],
+  wrong: [],
+  commit: "3333333333333333333333333333333333333333",
+}
+
+type Reached = { readonly asked: readonly Asking[]; readonly said: string }
+
+export type Reach = { readonly landing: Landing; readonly reached: Reached[] }
+
+export function reaching(answer: Applied | Refused = LANDED): Reach {
+  const reached: Reached[] = []
+  return {
+    reached,
+    landing: async (_root, asked, said) => {
+      reached.push({ asked, said })
+      return answer
+    },
+  }
+}
+
+export function pathsIn(asked: readonly Asking[]): readonly string[] {
+  return asked.map((one) => ("at" in one.given ? one.given.at : ""))
+}
+
+export function gradingAurora(reach: Reach) {
+  return musicRate(
+    ["--target", ARTIST, "--slug", RATED, "--grade", "A", "--reaction", REACTION],
+    GIVEN,
+    reach.landing
+  )
+}
+
+const GAVE_OUT = new Error("the grade landed and the push gave out")
+
+export function gradingThrowing(wrote: readonly string[]) {
+  return musicRate(
+    ["--target", ARTIST, "--slug", RATED, "--grade", "A", "--reaction", REACTION],
+    GIVEN,
+    throwingAfter(wrote, GAVE_OUT)
+  )
+}
