@@ -30,4 +30,38 @@ export const alanRequestsWeb = {
     "manifest/alanwalton-requests",
   ],
   toolReached: ["react-dom"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This site is open to a reader who has not signed in, and its guard says so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What such a reader reaches is every access `person/anonymous` holds and nothing else.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Anonymous access is one holder across every site, so each narrow here is public everywhere.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type this site draws takes two accesses: one on the type, one narrowing `page-type` to it.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A listing reads its page type first, so a type outside that narrow is refused whatever else is held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Opening a feature request costs points, so it goes by a route of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other write here is refused to a reader who has not signed in.",
+    },
+  ],
 } as const satisfies RouterApp
