@@ -24,7 +24,7 @@ export const definitionIsWrittenInTheGrammar = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page of the domain page type is judged, and a page under that type is not.",
+      statement: "A page of the domain page type is judged, and so is a page of any type under it.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -12,8 +12,10 @@ export function definitionIsWrittenInTheGrammar(root: string): readonly Judged[]
   const rules = rulesIn(shadow.index)
   const lexicon = lexiconIn(shadow.index)
   const said: Judged[] = []
-  for (const [path, value] of shadow.index.valuesByPath(shadow.index.typeSlugOf(DOMAIN_TYPE))) {
-    said.push(...reasonsIn(path, value, rules, lexicon))
+  for (const kind of shadow.index.kindsUnder(shadow.index.typeSlugOf(DOMAIN_TYPE))) {
+    for (const [path, value] of shadow.index.valuesByPath(kind)) {
+      said.push(...reasonsIn(path, value, rules, lexicon))
+    }
   }
   return said
 }
