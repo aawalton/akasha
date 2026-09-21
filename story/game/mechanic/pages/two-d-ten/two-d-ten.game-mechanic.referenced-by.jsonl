@@ -1,3 +1,15 @@
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-companion-aelwyn.game-entity.ts","id":"01a0c65d-20f2-7d6d-8bc5-147bdf3ac4e8"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-companion-ali.game-entity.ts","id":"01a0c65d-210a-73c1-8e22-4619078da7cb"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-companion-aura.game-entity.ts","id":"01a0c65d-2123-76d9-b41a-c99a9ae8a6d6"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-counterweight-colossus-01.game-entity.ts","id":"01a0c65d-1f25-72f9-9c81-c2b7785dbf05"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-drowned-sentry-01.game-entity.ts","id":"01a0c65d-1d73-79f4-b240-e0ecb8edded0"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-gloomward-stalker-01.game-entity.ts","id":"01a0c65d-1ef8-7bd3-87a8-c99427efabb5"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-hollow-cantor-01.game-entity.ts","id":"01a0c65d-1e43-7975-98c6-68cd8bc039c3"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-leech-glut-01.game-entity.ts","id":"01a0c65d-1daa-7af5-8e2c-53c26770239d"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-plinth-golem-01.game-entity.ts","id":"01a0c65d-1e73-79c5-a690-2e0117fdd3bb"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-the-host-01.game-entity.ts","id":"01a0c65d-20a0-737c-aee1-8e83a25d45b3"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-the-welcomer-01.game-entity.ts","id":"01a0c65d-204f-7574-9795-0ed331527e41"}
+{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-the-welcomers-pair-01.game-entity.ts","id":"01a0c65d-207a-7542-8c76-30e85cbd594b"}
 {"propertySlug":"game-default-dice","path":"story/game/pages/harem-hotel/harem-hotel.game.ts","id":"01a0673f-a3d6-7001-854b-30d81fd19b31"}
 {"propertySlug":"game-default-dice","path":"story/game/pages/the-tower/the-tower.game.ts","id":"01a0673f-a3d7-7000-afc1-88181be588cb"}
 {"propertySlug":"game-mechanics","path":"story/game/pages/harem-hotel/harem-hotel.game.ts","id":"01a0673f-a3d6-7001-854b-30d81fd19b31"}

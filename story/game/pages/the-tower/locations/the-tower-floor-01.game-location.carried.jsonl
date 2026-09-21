@@ -1,0 +1,9 @@
+{"depth":1}
+{"exits":["ascending stair (sealed until the floor is cleared)"]}
+{"game":"game/the-tower"}
+{"id":"01a0c65d-1f37-73dc-a2a2-1ad32314a0f0"}
+{"note":"First fight: winnable for a mind-heavy/physically-weak build. Brute force works but is mediocre; reading the core (intent 7+) ends it fast. Teaches the intent mechanic without a fail-state trap. Stakes are real (Ashling can chunk ~25-30/hit) but Alan out-HPs and out-damages it if he engages the core."}
+{"slug":"the-tower-floor-01"}
+{"theme":"A cold stone landing at the tower's base. Damp, lightless but for a faint glow further in. The air tastes of old ash. One iron door, ajar."}
+{"title":"The Threshold"}
+{"type":"page-type/game-location"}

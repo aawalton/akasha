@@ -1,0 +1,14 @@
+{"attributes":[{"attribute":"game-attribute/finesse","score":16},{"attribute":"game-attribute/intellect","score":5},{"attribute":"game-attribute/luck","score":7},{"attribute":"game-attribute/might","score":13},{"attribute":"game-attribute/perception","score":16},{"attribute":"game-attribute/presence","score":6},{"attribute":"game-attribute/vitality","score":9},{"attribute":"game-attribute/will","score":7}]}
+{"baseDamage":12}
+{"class":"Dark-hunter"}
+{"dice":"game-mechanic/two-d-ten"}
+{"equipment":[{"name":"armor","slot":"armor","defense":0},{"name":"weapon","slot":"weapon","attack":4}]}
+{"game":"game/the-tower"}
+{"id":"01a0c65d-1ef8-7bd3-87a8-c99427efabb5"}
+{"kind":"enemy"}
+{"level":3}
+{"note":"computed by engine: VIT8(72)+MIGHT2(26) = 98 HP. physDef 12.5, physAtk 39.5, Init 32. HP is moderate — the threat is the dark + the ambush, not the HP wall."}
+{"slug":"the-tower-gloomward-stalker-01"}
+{"title":"Gloomward Stalker"}
+{"type":"page-type/game-entity"}
+{"typicalIntent":2}
