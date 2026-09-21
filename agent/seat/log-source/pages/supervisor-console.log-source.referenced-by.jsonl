@@ -38,6 +38,7 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aura-2026-09-15/supervisor-console-aura-2026-09-15.seat-log-day.ts","id":"01a0a6b8-4328-75c6-86c5-e6f2b1e0419b"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-aura-2026-09-16/supervisor-console-aura-2026-09-16.seat-log-day.ts","id":"01a0a786-2770-7a6b-bb0b-31cab32dbbc5"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-awen-2026-09-19/supervisor-console-awen-2026-09-19.seat-log-day.ts","id":"01a0b706-febd-7d67-b4a7-984aba035955"}
+{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-awen-2026-09-21/supervisor-console-awen-2026-09-21.seat-log-day.ts","id":"01a0c42d-da9b-76f1-b6d4-4181637726d3"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-dalla-2026-09-14/supervisor-console-dalla-2026-09-14.seat-log-day.ts","id":"01a09d39-0246-7382-b860-c63f1bd9d6d9"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-dalla-2026-09-15/supervisor-console-dalla-2026-09-15.seat-log-day.ts","id":"01a0a2b2-d4e0-7afd-8d00-5fec1550752d"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-dalla-2026-09-16/supervisor-console-dalla-2026-09-16.seat-log-day.ts","id":"01a0a785-a1a4-7d23-80b1-46838bb9b9c1"}
@@ -56,7 +57,6 @@
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-eppie-2026-09-15/supervisor-console-eppie-2026-09-15.seat-log-day.ts","id":"01a0a56d-f2b0-708e-8665-de61f78d3310"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-eppie-2026-09-18/supervisor-console-eppie-2026-09-18.seat-log-day.ts","id":"01a0b6bd-5960-7900-bde6-9a0228769781"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-eppie-2026-09-19/supervisor-console-eppie-2026-09-19.seat-log-day.ts","id":"01a0b725-cccd-7a1a-a7d7-88dfde54e339"}
-{"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-eppie-2026-09-21/supervisor-console-eppie-2026-09-21.seat-log-day.ts","id":"01a0c42d-cf98-7f84-8a1e-381ba7ed23c2"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-mari-2026-09-14/supervisor-console-mari-2026-09-14.seat-log-day.ts","id":"01a0a035-2aa2-73c8-ba17-551b5b3fb6e0"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-nimue-2026-09-14/supervisor-console-nimue-2026-09-14.seat-log-day.ts","id":"01a0a0ad-218c-7d54-9d3e-51199a01dd23"}
 {"propertySlug":"log-source","path":"agent/seat/log-day/pages/supervisor-console-nimue-2026-09-15/supervisor-console-nimue-2026-09-15.seat-log-day.ts","id":"01a0a517-c81e-704b-b007-51a5ca003758"}
