@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/eppie/eppie.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/nimue/nimue.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/olwen/olwen.seat.ts"}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ryn/ryn.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/thea/thea.seat.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-resumed-subagent-runs-before-its-page-lands-and-the-refusal-reads-as-permanent.finding.ts","id":"01a0914c-261e-768e-978f-ed20b3c7333b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-scratch-world-landing-leaves-no-id-while-every-live-subagent-page-carries-one.finding.ts","id":"01a08225-fa5f-7802-b93f-82b97af23dcb"}
