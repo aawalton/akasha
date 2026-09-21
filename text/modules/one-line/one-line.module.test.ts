@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { oneLine } from "akasha/text/writing/modules/one-line/one-line.module.code.ts"
+import { oneLine } from "akasha/text/modules/one-line/one-line.module.code.ts"
 
 test("a break inside the text becomes one space, so a sentence over two lines reads as one", () => {
   expect(oneLine("Expected identifier\n  but found end of file")).toBe(

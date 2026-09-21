@@ -9,7 +9,6 @@ export const textWriting = {
     "module/capitalize",
     "module/counted",
     "module/name-drawing",
-    "module/one-line",
     "module/pad-two",
     "module/seconds",
     "module/shortened",

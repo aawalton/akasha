@@ -5,5 +5,5 @@ export const text = {
   type: "page-type/domain",
   slug: "text",
   definition: "the text an agent reads",
-  parts: ["domain/quote", "domain/text-writing"],
+  parts: ["domain/quote", "domain/text-writing", "module/one-line"],
 } as const satisfies Domain
