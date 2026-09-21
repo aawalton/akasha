@@ -2023,6 +2023,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/modules/page-types/page-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/modules/resolve-badge-variant/resolve-badge-variant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/modules/task-lifecycle/task-lifecycle.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/modules/titled-as/titled-as.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/action-button/action-button.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/aggregate-filter/aggregate-filter.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/aggregate/aggregate.module.ts"}

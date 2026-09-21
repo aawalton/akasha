@@ -2910,6 +2910,7 @@
 {"propertySlug":"decision-kind","path":"page/core/filter/modules/property-path/property-path.module.ts","id":"01a09c21-fff4-7f57-818b-b875ff41c6ce"}
 {"propertySlug":"decision-kind","path":"page/core/modules/as-json/as-json.module.ts","id":"01a05cc0-fc8b-72c7-b9e9-7a512a9927d8"}
 {"propertySlug":"decision-kind","path":"page/core/modules/task-lifecycle/task-lifecycle.module.ts","id":"01a05b92-a9c7-7218-a6a2-fd22347d97b9"}
+{"propertySlug":"decision-kind","path":"page/core/modules/titled-as/titled-as.module.ts","id":"01a0c63a-a537-7b76-8461-838ca8ebcd02"}
 {"propertySlug":"decision-kind","path":"page/core/page-core.domain.ts","id":"01a05b92-a9c7-7180-bdd4-8e13e47841e5"}
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/multi-select-property/multi-select-property.module.ts","id":"01a05b92-a9c7-73ad-b512-5bf6b844a357"}
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/path-select/path-select.module.ts","id":"01a05b92-a9c7-754f-841a-7b3154e215d2"}

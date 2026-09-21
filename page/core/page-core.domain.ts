@@ -22,6 +22,7 @@ export const pageCore = {
     "module/page-types",
     "module/resolve-badge-variant",
     "module/task-lifecycle",
+    "module/titled-as",
   ],
   decisions: [
     {
@@ -42,10 +43,7 @@ export const pageCore = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here draws a screen.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here is proved by a test of its own.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement: "The icon index is written by a command no page here names.",
