@@ -119,10 +119,42 @@ test("prose named for a track is refused, because a track carries none", () => {
   expect(said).toContain(`--target ${SONG}`)
 })
 
-test("a track call recording nothing names the grade and no prose", () => {
+test("a track call recording nothing names the grade and the tag and no prose", () => {
   expect(refusalOf(["--target", TRACK, "--slug", "a"])).toBe(
-    "nothing is recorded by this call — name `--grade`"
+    "nothing is recorded by this call — name `--grade` or `--tag`"
   )
+})
+
+test("a call naming a tag and no grade records something", () => {
+  const held = takingOf(["--target", TRACK, "--slug", TRACK_SLUG, "--tag", "attraction"])
+  expect(held.grade).toBe(null)
+  expect(held.tags).toEqual(["attraction"])
+})
+
+test("a tag is added to the tags already carried rather than written over them", () => {
+  const held = takingOf([
+    "--target",
+    SONG,
+    "--slug",
+    "mitski-nobody",
+    "--tag",
+    "longing",
+    "--tag",
+    "attraction",
+  ])
+  const values = valuesFor({ slug: "mitski-nobody", tags: ["attraction", "night"] }, held)
+  expect(values["tags"]).toEqual(["attraction", "night", "longing"])
+})
+
+test("a page carrying no tag takes the tags the call names", () => {
+  const held = takingOf(["--target", SONG, "--slug", "mitski-nobody", "--tag", "longing"])
+  expect(valuesFor({ slug: "mitski-nobody" }, held)["tags"]).toEqual(["longing"])
+})
+
+test("a call naming no tag leaves the tags carried as they are", () => {
+  const held = takingOf(["--target", SONG, "--slug", "mitski-nobody", "--grade", "A"])
+  const values = valuesFor({ slug: "mitski-nobody", tags: ["attraction"] }, held)
+  expect(values["tags"]).toEqual(["attraction"])
 })
 
 test("the values carry a track's grade under the name a song carries it under", () => {

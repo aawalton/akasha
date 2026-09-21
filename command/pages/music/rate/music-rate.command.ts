@@ -19,6 +19,14 @@ export const musicRate = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A tag is added to the tags a page carries rather than written over them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tag already carried is left where it is rather than carried twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page is named by its slug.",
     },
     {
@@ -72,6 +80,7 @@ export const musicRate = {
     { argument: "argument/json" },
     { argument: "argument/slug", required: true },
     { argument: "argument/grade" },
+    { argument: "argument/tag", repeats: true },
     { argument: "argument/reaction-file" },
     { argument: "argument/personal-connections-file" },
     { argument: "argument/insights-file" },

@@ -18,6 +18,7 @@ import { personalConnectionsFile } from "akasha/command/argument/pages/personal-
 import { reaction } from "akasha/command/argument/pages/reaction.argument.ts"
 import { reactionFile } from "akasha/command/argument/pages/reaction-file.argument.ts"
 import { slug as slugArgument } from "akasha/command/argument/pages/slug.argument.ts"
+import { tag } from "akasha/command/argument/pages/tag.argument.ts"
 import {
   answeredWith,
   answering,
@@ -41,7 +42,10 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  textsAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 export const ARTIST = "artist"
@@ -55,6 +59,12 @@ const TXT = "txt"
 const TARGET = gradeTarget.said
 
 const GRADE = grade.said
+
+const TAG = tag.said
+
+const TAGS = "tags"
+
+const RANK = "rank"
 
 const WHOLE = true
 
@@ -76,6 +86,7 @@ const TAKES = [
   json,
   slugArgument,
   grade,
+  tag,
   reactionFile,
   personalConnectionsFile,
   insightsFile,
@@ -102,6 +113,7 @@ export type Taken = {
   readonly slug: string
   readonly grade: string | null
   readonly prose: ReadonlyMap<string, string>
+  readonly tags: readonly string[]
   readonly json: boolean
 }
 
@@ -121,16 +133,17 @@ function strayedIn(target: string, prose: ReadonlyMap<string, string>): readonly
 function wrongIn(
   target: string,
   marked: string | null,
-  prose: ReadonlyMap<string, string>
+  prose: ReadonlyMap<string, string>,
+  tags: readonly string[]
 ): string | null {
   const strayed = strayedIn(target, prose)
   if (strayed.length > 0) {
     return `${strayed.join(" and ")} rather than to \`${TARGET} ${target}\``
   }
-  if (marked !== null || prose.size > 0) return null
-  const own = (PROSE_OF.get(target) ?? []).map((one) => `\`--${one}\``)
-  const naming = own.length === 0 ? "" : ` or ${own.join(" or ")}`
-  return `nothing is recorded by this call — name \`${GRADE}\`${naming}`
+  if (marked !== null || prose.size > 0 || tags.length > 0) return null
+  const own = PROSE_OF.get(target) ?? []
+  const naming = [GRADE, TAG, ...own.map((one) => `--${one}`)].map((one) => `\`${one}\``)
+  return `nothing is recorded by this call — name ${naming.join(" or ")}`
 }
 
 export function taken(argv: readonly string[], given: Given): Reading {
@@ -170,14 +183,22 @@ export function taken(argv: readonly string[], given: Given): Reading {
     const key = keys[at]
     if (key !== undefined && one.text !== undefined) prose.set(key, one.text)
   }
-  const wrong = wrongIn(target, marked, prose)
+  const tags = held.tag
+  const wrong = wrongIn(target, marked, prose, tags)
   if (wrong !== null) return { refused: [wrong] }
-  return { target, slug: held.slug, grade: marked, prose, json: held.json }
+  return { target, slug: held.slug, grade: marked, prose, tags, json: held.json }
+}
+
+export function taggedOver(was: Value, said: readonly string[]): readonly string[] {
+  const held = [...(textsAt(was, TAGS) ?? [])]
+  for (const one of said) if (!held.includes(one)) held.push(one)
+  return held
 }
 
 export function valuesFor(was: Value, held: Taken): Value {
   const values: Value = { ...was }
-  if (held.grade !== null) values["rank"] = held.grade
+  if (held.grade !== null) values[RANK] = held.grade
+  if (held.tags.length > 0) values[TAGS] = taggedOver(was, held.tags)
   for (const one of held.prose.keys()) values[exportedAs(one)] = TXT
   return values
 }
