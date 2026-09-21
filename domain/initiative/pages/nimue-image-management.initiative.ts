@@ -33,6 +33,11 @@ export const nimueImageManagement = {
       workingMemory:
         "Not met. Of 11,287 image files under `~/To Process` and `persona/pages`, 4,468 are a copy of something: 2,080 pictures are held more than once, 2,388 copies are redundant, and those redundant copies hold 3.09GB. The heaviest are 1,511 in `zimage-outputs`, 875 in `Personas`, 747 in `To Sort` and 624 in `Sorted`, and 78 of the 80 committed persona PNGs are byte-identical to a file under `~/To Process`. Measured by sha256 over every file whose size another file shares.",
     },
+    {
+      statement: "Every image akasha holds is a page.",
+      workingMemory:
+        "Not met. `image.page-type.ts` declares no properties, while `persist-image.module.code.ts` writes title, engine, service, operation, model, prompt, seed, image-path and inference-run, which land as 3,872 rows in `alan.generation-log.images.jsonl` rather than as pages. About 11,200 files under `~/To Process` are recorded nowhere, or only as one of those rows. 121 image pages exist today: 39 anchors, 38 covers and 44 wallpapers.",
+    },
   ],
   constraints: [
     "An image's bytes are a file property akasha does not commit, and the image's page is committed.",
