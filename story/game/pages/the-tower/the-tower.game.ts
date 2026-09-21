@@ -35,5 +35,8 @@ export const theTower = {
     "game-mechanic/attack-resolution",
     "game-mechanic/one-d-twenty",
     "game-mechanic/two-d-ten",
+    "game-mechanic/ment-atk",
+    "game-mechanic/ment-attack",
+    "game-mechanic/phys-attack",
   ],
 } as const satisfies Game

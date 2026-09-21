@@ -20,6 +20,10 @@ export const gameMechanic = {
     "module/dice-reading",
     "game-mechanic/one-d-twenty",
     "game-mechanic/two-d-ten",
+    "module/attack-mode",
+    "game-mechanic/ment-atk",
+    "game-mechanic/ment-attack",
+    "game-mechanic/phys-attack",
   ],
   decisions: [
     {
