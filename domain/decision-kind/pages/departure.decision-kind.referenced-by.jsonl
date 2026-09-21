@@ -3171,8 +3171,10 @@
 {"propertySlug":"decision-kind","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.ts","id":"01a06158-0a79-7000-a2b2-4fa802b18c2d"}
 {"propertySlug":"decision-kind","path":"page/ui/media/modules/media-token/media-token.module.ts","id":"01a05c27-31ee-78e6-8559-1de73e833862"}
 {"propertySlug":"decision-kind","path":"page/ui/modules/page-card-perf/page-card-perf.module.ts","id":"01a0610c-430e-758f-9da6-bed7278e0bdb"}
+{"propertySlug":"decision-kind","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.ts","id":"01a05c7d-d06c-7ecc-bcb5-d58257b7a42f"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/hooks/hooks.module.ts","id":"01a06205-4f3b-7004-be48-0732dc16b0d9"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/page-with-properties/page-with-properties.module.ts","id":"01a05cac-2a4f-74fa-a0c3-9ea5542cdf79"}
+{"propertySlug":"decision-kind","path":"page/ui/supabase/modules/related-pages-coalesce/related-pages-coalesce.module.ts","id":"01a05cb4-fefb-710f-afea-bda26574d4e0"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.ts","id":"01a07973-368c-72b7-ae79-826c332e348c"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.ts","id":"01a05cce-25ec-7756-a742-f0d31cf07f6e"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/mutation/modules/build-patch-plan/build-patch-plan.module.ts","id":"01a05cb4-fefa-7607-bad3-97aa6193d933"}

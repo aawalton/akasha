@@ -1,4 +1,10 @@
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+
 export const RELATED_IDS_PER_PROPERTY_CAP = 1000
+
+const EACH_WAY = ["id", "slug"] as const
+
+export type RelatedWay = (typeof EACH_WAY)[number]
 
 export type RelationSpec = {
   readonly propertyId: string
@@ -7,7 +13,23 @@ export type RelationSpec = {
 
 export type RelatedIdGroup = {
   readonly pageTypeSlug: string
-  readonly ids: readonly string[]
+  readonly by: RelatedWay
+  readonly values: readonly string[]
+}
+
+type Named = {
+  readonly pageTypeSlug: string
+  readonly by: RelatedWay
+  readonly value: string
+}
+
+function namedIn(value: string, targetPageTypeSlug: string): Named {
+  const address = addressIn(value)
+  if (address.kind === "id") return { pageTypeSlug: targetPageTypeSlug, by: "id", value }
+  if (address.kind === "bare") {
+    return { pageTypeSlug: targetPageTypeSlug, by: "slug", value: address.slug }
+  }
+  return { pageTypeSlug: address.pageTypeSlug, by: "slug", value: address.slug }
 }
 
 export function collectRelatedIds(
@@ -15,7 +37,7 @@ export function collectRelatedIds(
   specs: readonly RelationSpec[],
   perPropertyCap: number
 ): readonly RelatedIdGroup[] {
-  const byPageType = new Map<string, Set<string>>()
+  const byWay: Record<RelatedWay, Map<string, Set<string>>> = { id: new Map(), slug: new Map() }
   for (const spec of specs) {
     let collected = 0
     for (const page of pages) {
@@ -25,15 +47,19 @@ export function collectRelatedIds(
       for (const v of values) {
         if (collected >= perPropertyCap) break
         if (typeof v !== "string" || v === "") continue
-        const held = byPageType.get(spec.targetPageTypeSlug) ?? new Set<string>()
-        byPageType.set(spec.targetPageTypeSlug, held)
-        if (held.has(v)) continue
-        held.add(v)
+        const named = namedIn(v, spec.targetPageTypeSlug)
+        const byPageType = byWay[named.by]
+        const held = byPageType.get(named.pageTypeSlug) ?? new Set<string>()
+        byPageType.set(named.pageTypeSlug, held)
+        if (held.has(named.value)) continue
+        held.add(named.value)
         collected += 1
       }
     }
   }
-  return [...byPageType.entries()]
-    .map(([pageTypeSlug, ids]) => ({ pageTypeSlug, ids: [...ids].sort() }))
-    .sort((a, b) => (a.pageTypeSlug < b.pageTypeSlug ? -1 : 1))
+  return EACH_WAY.flatMap((by) =>
+    [...byWay[by].entries()]
+      .map(([pageTypeSlug, values]) => ({ pageTypeSlug, by, values: [...values].sort() }))
+      .sort((a, b) => (a.pageTypeSlug < b.pageTypeSlug ? -1 : 1))
+  )
 }

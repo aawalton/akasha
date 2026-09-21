@@ -4,6 +4,30 @@ export const collectRelatedIds = {
   id: "01a05c7d-d06c-7ecc-bcb5-d58257b7a42f",
   type: "page-type/module",
   slug: "collect-related-ids",
-  definition: "the ids a set of pages point at through their relations, gathered by page type",
+  definition:
+    "what a set of pages name through their relations, gathered by page type and by how it is asked",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation value that is a uuid is asked for by id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation value that is an address is asked for by the slug that address names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An address is asked of the page type it names rather than of the target type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation value naming no page type is asked of the target type by slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An address naming a scope is asked for by the slug at that address's end.",
+    },
+  ],
 } as const satisfies Module

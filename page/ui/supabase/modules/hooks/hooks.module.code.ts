@@ -18,7 +18,10 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
-import { getRelatedPagesByIdCoalesced } from "akasha/page/ui/supabase/modules/related-pages-coalesce/related-pages-coalesce.module.code.ts"
+import {
+  getRelatedPagesByIdCoalesced,
+  groupsKeyOf,
+} from "akasha/page/ui/supabase/modules/related-pages-coalesce/related-pages-coalesce.module.code.ts"
 import {
   type UsePagesSupabaseOptions,
   usePages,
@@ -126,10 +129,7 @@ export function useRelatedPages({
     [pages, specs]
   )
 
-  const groupsKey = useMemo(
-    () => groups.map((g) => `${g.pageTypeSlug}:${g.ids.join(",")}`).join("|"),
-    [groups]
-  )
+  const groupsKey = useMemo(() => groupsKeyOf(groups), [groups])
 
   const [rows, setRows] = useState<readonly PageWithProperties[]>([])
   const reqRef = useRef(0)
