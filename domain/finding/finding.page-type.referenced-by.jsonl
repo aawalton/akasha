@@ -58,7 +58,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-move-leaves-the-pinned-tree-every-unit-runs-from-behind-including-the-deploy.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-name-place-check-reaches-the-vendored-lua-runtime.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-nav-relation-naming-an-empty-slug-makes-every-index-refresh-exit-two.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-cannot-land-in-the-same-commit-as-its-own-page-type.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-of-a-page-type-introduced-in-one-change-gets-no-minted-id.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-query-holds-the-loop-while-it-reads.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-removal-is-refused-by-the-folder-shape-check-over-a-folder-it-empties.finding.ts"}
