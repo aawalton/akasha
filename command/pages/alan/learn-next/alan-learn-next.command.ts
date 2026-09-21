@@ -41,6 +41,10 @@ export const alanLearnNext = {
       statement:
         "The leaves are read off the topic pages rather than off any folder of books on disk.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A topic is named by its slug rather than by a path.",
+    },
   ],
   name: "learn-next",
   arguments: [{ argument: "argument/json" }],
