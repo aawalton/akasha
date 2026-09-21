@@ -505,7 +505,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.ts","id":"01a0605f-6261-7a99-9a87-668ce21f8a59"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/temper-lib-map-ping.temper-addon.ts","id":"01a0605f-625e-7267-be33-c5a31b618626"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-pins/temper-lib-map-pins.temper-addon.ts","id":"01a06062-57dc-7eeb-bb3d-6badd05f9bf5"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-media-provider/temper-lib-media-provider.temper-addon.ts","id":"01a06069-f8c0-7024-bde1-26d49b2a6bff"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/temper-lib-notification.temper-addon.ts","id":"01a0605a-0514-797f-9f36-a01b055a56fc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-price/temper-lib-price.temper-addon.ts","id":"01a0615d-c21d-7961-8564-2c0c9e040e08"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-saved-vars/temper-lib-saved-vars.temper-addon.ts","id":"01a06177-abf7-7c8b-83f6-be2b40de177e"}

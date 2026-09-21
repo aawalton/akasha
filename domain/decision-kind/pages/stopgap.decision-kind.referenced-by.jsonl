@@ -82,7 +82,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/housing/modules/housing-holder-types/housing-holder-types.module.ts","id":"01a06113-b7ce-7f67-beb7-a7a3ee79e25d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-data-encode/modules/data-encode-runtime/data-encode-runtime.module.ts","id":"01a06061-96a0-7c1f-a7ed-6104c85448b3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts","id":"01a0620a-a166-7f46-895d-4d74d6165dbc"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-media-provider/media-declarations/media-declarations.type-declaration.ts","id":"01a0620a-a168-770b-99ab-0f8790dd4a01"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/modules/notification-names/notification-names.module.ts","id":"01a0605a-0516-74bf-b0cd-cd67f0cacaba"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/modules/notification-providers/notification-providers.module.ts","id":"01a0605a-0515-7efc-a180-1aaa98828cd6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}

@@ -1,9 +1,0 @@
-import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
-
-export const libMediaProvider = {
-  id: "01a06090-f5b4-7581-bf0a-912fd220ca16",
-  type: "page-type/type-declaration",
-  slug: "lib-media-provider",
-  definition: "what the lib-media-provider library leaves in another add-on's reach",
-  d: "ts",
-} as const satisfies TypeDeclaration

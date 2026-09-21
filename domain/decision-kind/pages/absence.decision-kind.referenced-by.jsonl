@@ -1809,8 +1809,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-data/modules/map-data-casts/map-data-casts.module.ts","id":"01a061e1-ae9a-712e-bdb0-2073bf6201de"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-casts/map-ping-casts.module.ts","id":"01a0605f-6260-78c9-885b-2ba545ad7f6f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-types/map-ping-types.module.ts","id":"01a0605f-6260-741e-924b-a396ec57c80f"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-media-provider/media-declarations/media-declarations.type-declaration.ts","id":"01a0620a-a168-770b-99ab-0f8790dd4a01"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-media-provider/modules/media-main/media-main.module.ts","id":"01a06069-f8c4-7b14-aede-050c4b2d0c98"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/modules/notification-casts/notification-casts.module.ts","id":"01a0605a-0516-7516-a0f3-ef7984de267b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-price/modules/price-casts/price-casts.module.ts","id":"01a0615d-c219-7729-a4bf-b8c0493920a7"}

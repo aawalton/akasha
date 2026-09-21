@@ -1,4 +1,0 @@
-<GuiXml>
-    <!-- font path for Windows and Mac. -->
-    <String name="LMP_FONT_PATH" value="Esoui/Common/Fonts/" />
-</GuiXml>

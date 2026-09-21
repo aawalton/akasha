@@ -31,7 +31,6 @@ export const temperAddonType = {
     "type-declaration/lib-map-data",
     "type-declaration/lib-map-ping",
     "type-declaration/lib-map-pins",
-    "type-declaration/lib-media-provider",
     "type-declaration/lib-multi-account-sets",
     "type-declaration/lib-notification",
     "type-declaration/lib-price",
