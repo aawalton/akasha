@@ -5,7 +5,7 @@ import {
 
 const HERE = "story/game/mechanic/pages/affinity-advance"
 const PER_EVENT = 1
-const PER_DRAW = 2
+const PER_ABSORPTION = 2
 const MOST_PER_ENCOUNTER = 3
 const MOST_PER_COUNT = 4
 const FIRST_COUNT = 1
@@ -27,7 +27,7 @@ export type Reading = {
   readonly count: number
   readonly pool: number
   readonly deposited: number
-  readonly drew: boolean
+  readonly absorbed: boolean
 }
 
 export type Advanced = {
@@ -45,7 +45,7 @@ export function runMechanic(reading: Reading): Ran {
   const at = tierIndexAt(reading.tier)
   if (at === -1) return { refused: `\`${reading.tier}\` is no affinity tier, ${HERE}` }
   const room = Math.max(MOST_PER_ENCOUNTER - reading.deposited, NONE)
-  const deposit = Math.min(reading.drew ? PER_DRAW : PER_EVENT, room)
+  const deposit = Math.min(reading.absorbed ? PER_ABSORPTION : PER_EVENT, room)
   let index = at
   let rank = reading.tier
   let count = reading.count

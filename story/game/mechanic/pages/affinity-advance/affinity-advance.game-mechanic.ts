@@ -11,7 +11,7 @@ export const affinityAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A matched element event deposits one event, and drawing a seed of it deposits two.",
+        "A matched element event deposits one event, and absorbing a seed of it deposits two.",
     },
     {
       decisionKind: "decision-kind/departure",
