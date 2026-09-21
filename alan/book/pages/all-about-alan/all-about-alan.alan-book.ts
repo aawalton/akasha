@@ -45,5 +45,17 @@ export const allAboutAlan = {
         "Your own reading stays in your voice.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Authorship",
+      act: "Never write a claim about Alan he has not made.",
+      warrant:
+        "An invented sentence looks like one he said, so it reads as fact and nobody checks it again.",
+      aids: [
+        "Write what he said, never what it implies.",
+        "A date, a quotation and a worked case are each a claim.",
+        "Mark your own reading and you may write it.",
+      ],
+    },
   ],
 } as const satisfies AlanBook
