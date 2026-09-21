@@ -158,6 +158,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/pause/music-pause.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/play/music-play.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/queue/music-queue.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/rate-parts/music-rate-parts.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/rate/music-rate.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/release-parts/music-release-parts.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/repeat/music-repeat.command.ts"}

@@ -103,7 +103,7 @@ const PROSE_OF: ReadonlyMap<string, readonly string[]> = new Map([
   [RELEASE, NO_PROSE],
 ])
 
-const TARGETS = [...PROSE_OF.keys()]
+export const TARGETS = [...PROSE_OF.keys()]
 
 const TAKES = [
   json,
