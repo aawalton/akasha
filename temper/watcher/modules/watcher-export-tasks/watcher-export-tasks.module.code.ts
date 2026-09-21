@@ -124,28 +124,28 @@ export function taskDataFrom(row: Page, esoCharacterId: string | null): TaskData
 }
 
 async function learnCharacterEsoIds(
-  characterPageIds: readonly string[],
+  characterSlugs: readonly string[],
   into: Map<string, string>,
   getRows: PageGet
 ): Promise<undefined> {
-  const wanted = Array.from(new Set(characterPageIds.filter((id) => !into.has(id))))
+  const wanted = Array.from(new Set(characterSlugs.filter((slug) => !into.has(slug))))
   if (wanted.length === 0) return
   const { rows } = await getRows({
     pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
-    where: [{ key: "id", in: wanted }],
+    where: [{ key: "slug", in: wanted }],
     limit: wanted.length,
   })
   for (const row of rows) {
-    const id = stringAt(row, "id")
+    const slug = stringAt(row, "slug")
     const esoCharacterId = stringAt(row, "esoCharacterId")
-    if (id !== null && esoCharacterId !== null) into.set(id, esoCharacterId)
+    if (slug !== null && esoCharacterId !== null) into.set(slug, esoCharacterId)
   }
   return
 }
 
 async function completionOverridesByEsoCharacter(
   userId: string,
-  characterEsoIdById: Map<string, string>,
+  characterEsoIdBySlug: Map<string, string>,
   collect: PageCollect = collectPages,
   getRows: PageGet = getPages
 ): Promise<Record<string, CompletionOverride[]>> {
@@ -164,13 +164,13 @@ async function completionOverridesByEsoCharacter(
 
   await learnCharacterEsoIds(
     parsed.map((one) => one.characterId),
-    characterEsoIdById,
+    characterEsoIdBySlug,
     getRows
   )
 
   const grouped: Record<string, CompletionOverride[]> = {}
   for (const one of parsed) {
-    const esoCharacterId = characterEsoIdById.get(one.characterId)
+    const esoCharacterId = characterEsoIdBySlug.get(one.characterId)
     if (esoCharacterId === undefined) continue
     const already = grouped[esoCharacterId]
     if (already === undefined) grouped[esoCharacterId] = [one.override]
@@ -232,19 +232,19 @@ export async function runExportTasks(
     }
   }
 
-  const characterEsoIdById = new Map<string, string>()
-  const taskCharacterIds: string[] = []
+  const characterEsoIdBySlug = new Map<string, string>()
+  const taskCharacterSlugs: string[] = []
   for (const row of tasks) {
-    const characterPageId = stringAt(row, "character")
-    if (characterPageId !== null) taskCharacterIds.push(characterPageId)
+    const characterSlug = stringAt(row, "character")
+    if (characterSlug !== null) taskCharacterSlugs.push(characterSlug)
   }
-  await learnCharacterEsoIds(taskCharacterIds, characterEsoIdById, getRows)
+  await learnCharacterEsoIds(taskCharacterSlugs, characterEsoIdBySlug, getRows)
 
   const tasksRecord: Record<string, TaskData> = {}
   for (const row of tasks) {
-    const characterPageId = stringAt(row, "character")
+    const characterSlug = stringAt(row, "character")
     const esoCharacterId =
-      characterPageId === null ? null : (characterEsoIdById.get(characterPageId) ?? null)
+      characterSlug === null ? null : (characterEsoIdBySlug.get(characterSlug) ?? null)
     tasksRecord[taskKey(row)] = taskDataFrom(row, esoCharacterId)
   }
 
@@ -283,7 +283,7 @@ export async function runExportTasks(
   if (sideFilePath !== null) {
     const completionOverrides = await completionOverridesByEsoCharacter(
       userId,
-      characterEsoIdById,
+      characterEsoIdBySlug,
       collect,
       getRows
     )

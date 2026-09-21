@@ -23,7 +23,7 @@ export const watcherExportTasks = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A task has the game's character id rather than the character page's id.",
+      statement: "A task has the game's character id rather than the slug naming its character.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -72,6 +72,10 @@ export const watcherExportTasks = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads or writes a file of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character is reached by the slug a task or an override names it as.",
     },
   ],
 } as const satisfies Module

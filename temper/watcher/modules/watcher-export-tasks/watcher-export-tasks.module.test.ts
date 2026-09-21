@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import {
+  asPage,
+  type Page,
+  type PageWhere,
+} from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type {
   ExportTasksOptions,
   PageCollect,
@@ -181,7 +185,7 @@ const TASK_ROWS: readonly Page[] = [
     rruleRule: "FREQ=DAILY",
     dueDate: "2026-01-02",
     scope: "character",
-    character: "char-page-a",
+    character: "character-a",
     displayOrder: 3,
     priority: "high",
     completionCardId: "daily-writs",
@@ -196,28 +200,28 @@ const TASK_ROWS: readonly Page[] = [
 ]
 
 const CHARACTER_ROWS: readonly Page[] = [
-  asPage({ id: "char-page-a", esoCharacterId: "1001" }),
-  asPage({ id: "char-page-b", esoCharacterId: "1002" }),
+  asPage({ id: "char-page-a", slug: "character-a", esoCharacterId: "1001" }),
+  asPage({ id: "char-page-b", slug: "character-b", esoCharacterId: "1002" }),
 ]
 
 const OVERRIDE_ROWS: readonly Page[] = [
   asPage({
     id: "override-1",
-    character: "char-page-a",
+    character: "character-a",
     completionCardId: "daily-writs",
     completionItemPath: ["alchemy", 2],
     floor: 1,
   }),
   asPage({
     id: "override-2",
-    character: "char-page-a",
+    character: "character-a",
     completionCardId: "no-such-card",
     completionItemPath: ["alchemy", 2],
     floor: 1,
   }),
   asPage({
     id: "override-3",
-    character: "char-page-nobody",
+    character: "character-nobody",
     completionCardId: "hireling-mails",
     completionItemPath: [],
     floor: 4,
@@ -234,6 +238,13 @@ const SIGNED_OUT: SignedInReader = {
   auth: {
     getUser: async () => ({ data: { user: null }, error: { message: "session expired" } }),
   },
+}
+
+function asked(rows: readonly Page[], where: PageWhere | undefined): readonly Page[] {
+  const one = where?.[0]
+  if (one === undefined || !("in" in one)) return [...rows]
+  const wanted = new Set(one.in)
+  return rows.filter((row) => wanted.has(row[one.key] ?? null))
 }
 
 interface Seam {
@@ -259,7 +270,8 @@ function recording(
   }
 
   const getRows: PageGet = async (args) => {
-    const rows = args.pageTypeSlug === CHARACTER_PAGE_TYPE_SLUG ? [...CHARACTER_ROWS] : []
+    const rows =
+      args.pageTypeSlug === CHARACTER_PAGE_TYPE_SLUG ? asked(CHARACTER_ROWS, args.where) : []
     return { rows, nextCursor: null, count: null }
   }
 
@@ -381,6 +393,16 @@ test("an override with an unknown card, or an unknown character, reaches no conf
   expect(written).toContain("daily-writs")
   expect(written).not.toContain("hireling-mails")
   expect(written).not.toContain("no-such-card")
+})
+
+test("a character is reached by the slug a task and an override name", async () => {
+  const seam = recording(TASK_ROWS, OVERRIDE_ROWS, {
+    charactersConfigPath: "/nowhere/characters.lua",
+  })
+  await runExportTasks(CONTENT, SUPABASE, seam.options)
+  const written = seam.written[0]?.content ?? ""
+  expect(written).toContain(`["esoCharacterId"] = "1001"`)
+  expect(written).toContain("[1001] =")
 })
 
 test("a run with no signed-in user is refused, naming what the session said", async () => {
