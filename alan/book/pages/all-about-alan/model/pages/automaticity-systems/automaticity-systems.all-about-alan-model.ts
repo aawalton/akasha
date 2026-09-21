@@ -5,6 +5,6 @@ export const automaticitySystems = {
   type: "page-type/all-about-alan-model",
   slug: "automaticity-systems",
   title: "Automaticity Systems",
-  definition: "how fast and how far each of Alan's two learning pathways reaches",
+  definition: "how fast and how far each of my two learning pathways reaches",
   simulation: "py",
 } as const satisfies AllAboutAlanModel
