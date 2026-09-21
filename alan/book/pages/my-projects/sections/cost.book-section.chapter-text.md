@@ -81,7 +81,7 @@ Ranked by leverage on the nominal $166,000 pre-ITC:
 
 1. **Supplement structure necessity** — if measured roof area fits 49 kWp directly, the $22,500 pergola/ground-mount line goes to zero. **−$22,500 (−14%)**.
 2. **$/W blended outcome** — bid spread $2.20–$2.60. Each $0.10/W is **±$5,000** on the PV portion alone.
-3. **Envelope retrofit shift** — moving from nominal to low demand saves 17 kWp of PV plus the supplement structure. **−$68,000**, but the retrofit itself costs $30k–$80k.
+3. **Envelope retrofit shift** — moving from nominal to low demand saves 17 kWp of PV plus the supplement structure. **−$68,000**, against an energy-scope retrofit of **$8,000–15,000** per [retrofits.md](book-section/envelope/retrofits). The clearest buy in the stack. (Window replacement is excluded from that scope and from this comparison — worst $/% on energy, decided on comfort instead.)
 4. **ITC restoration** — **−$50,000** on the nominal post-ITC number if it lands. Out of buyer control.
 5. **Service-panel scope** — Path A (200 A + SPAN) instead of Path C (400 A) saves $4,000 but introduces the management-as-single-point-of-failure trade per [topology.md](book-section/sizing/topology).
 
