@@ -1,0 +1,16 @@
+import type { Initiative } from "akasha/domain/initiative/initiative.page-type.types.ts"
+
+export const nimueImageManagement = {
+  id: "01a0c505-ddbf-7d4f-bf21-7231bba0728f",
+  type: "page-type/initiative",
+  slug: "nimue-image-management",
+  domain: "domain/technology",
+  persona: "persona/nimue",
+  intentStack: [
+    {
+      statement: "Every image akasha holds is created, kept and reached by one mechanism.",
+      workingMemory:
+        "Not met, and what is there now is being read. Images are known to sit under `persona/image`, `persona/anchor-image`, `persona/cover-image` and `persona/wallpaper` as page types, and to be generated through `infrastructure/inference/generation/zimage` and `infrastructure/inference/comfy/z-image-turbo`. A persona-image's picture is stated to be outside this repository.",
+    },
+  ],
+} as const satisfies Initiative
