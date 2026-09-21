@@ -4,7 +4,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackImNotThatGirlLi
   id: "01a0a6c5-0cb8-7809-8591-0726d1c62f1b",
   type: "page-type/track",
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-im-not-that-girl-live-from-the-dolby",
-  grade: "B",
+  grade: "C",
   ownLength: 3.9705833333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
