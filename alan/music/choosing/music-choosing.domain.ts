@@ -34,5 +34,10 @@ export const musicChoosing = {
       statement:
         "A Spotify playlist holds the music Alan has not heard by the artists Alan follows.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A second Spotify playlist holds the music Alan has heard and not graded by those artists.",
+    },
   ],
 } as const satisfies Domain
