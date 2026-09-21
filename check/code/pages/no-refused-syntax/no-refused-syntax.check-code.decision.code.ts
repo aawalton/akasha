@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
 import type {
@@ -52,6 +53,58 @@ export type Rule = {
 }
 
 type Running = (...given: readonly unknown[]) => undefined
+
+const loadFrom = createRequire(import.meta.url)
+
+const REACHED = new Set<string>()
+
+const NOTHING: ReadonlyMap<string, Record<string, unknown>> = new Map()
+
+function reachedSince(before: ReadonlySet<string>): undefined {
+  for (const at of Object.keys(loadFrom.cache)) {
+    if (!before.has(at)) REACHED.add(at)
+  }
+  return undefined
+}
+
+function reachesTheChange(root: string, change: Change | null): boolean {
+  if (change === null) return false
+  return change.changed.some((one) => REACHED.has(join(root, one)))
+}
+
+function carriesAny(beside: readonly string[], change: Change | null): boolean {
+  if (change === null) return false
+  const named = new Set(change.changed)
+  return beside.some((one) => named.has(one))
+}
+
+function besideEvery(shadow: Shadow): readonly string[] {
+  const found: string[] = []
+  for (const one of shadow.index.everyOfType(RULE)) {
+    const at = besideAt(one.path, CODE, TS)
+    if (at !== null) found.push(at)
+  }
+  return found
+}
+
+function treeModules(
+  root: string,
+  shadow: Shadow,
+  change: Change | null
+): ReadonlyMap<string, Record<string, unknown>> {
+  const beside = besideEvery(shadow)
+  if (beside.length === 0 || carriesAny(beside, change)) return NOTHING
+  const before = new Set(Object.keys(loadFrom.cache))
+  const found = new Map<string, Record<string, unknown>>()
+  for (const at of beside) {
+    const full = join(root, at)
+    if (!existsSync(full)) break
+    found.set(at, loadFrom(full) as Record<string, unknown>)
+  }
+  reachedSince(before)
+  if (found.size < beside.length) return NOTHING
+  return reachesTheChange(root, change) ? NOTHING : found
+}
 
 function carriedIn(change: Change | null, path: string): string | null {
   if (change === null) return null
@@ -125,6 +178,7 @@ export function rulesIn(
 ): readonly Rule[] {
   const found: Rule[] = []
   const seen = new Map<string, Record<string, unknown>>()
+  const fromTree = treeModules(root, shadow, change)
   for (const one of shadow.index.everyOfType(RULE)) {
     const said = partedIn(one.path)
     if (said === null) {
@@ -137,19 +191,24 @@ export function rulesIn(
         `${one.path} is a syntax rule, and no code file can sit beside a name like it`
       )
     }
-    const carried = carriedIn(change, beside)
-    if (carried === null) {
-      throw new Error(
-        `${one.path} is a syntax rule, and this change leaves ${beside} holding no body, so it cannot be loaded to judge by`
-      )
-    }
+    const held = fromTree.get(beside)
     let mod: Record<string, unknown>
-    try {
-      mod = compiledFrom(root, shadow.codeAt(beside) ?? beside, carried, change, seen)
-    } catch (thrown) {
-      throw new Error(
-        `${one.path} is a syntax rule, and the body this change leaves at ${beside} could not be loaded — ${saidBy(thrown)}`
-      )
+    if (held === undefined) {
+      const carried = carriedIn(change, beside)
+      if (carried === null) {
+        throw new Error(
+          `${one.path} is a syntax rule, and this change leaves ${beside} holding no body, so it cannot be loaded to judge by`
+        )
+      }
+      try {
+        mod = compiledFrom(root, shadow.codeAt(beside) ?? beside, carried, change, seen)
+      } catch (thrown) {
+        throw new Error(
+          `${one.path} is a syntax rule, and the body this change leaves at ${beside} could not be loaded — ${saidBy(thrown)}`
+        )
+      }
+    } else {
+      mod = held
     }
     const named = mod[exportedAs(slug)]
     if (typeof named !== "function") {
