@@ -5,6 +5,7 @@ import {
   isNativeShell,
 } from "akasha/product/smilingjenny/web/modules/jenny-capacitor-bridge/jenny-capacitor-bridge.module.code.ts"
 import { useEffect } from "react"
+import "akasha/product/smilingjenny/web/jenny-capacitor-globals/jenny-capacitor-globals.type-declaration.d.ts"
 
 async function postDeviceToken(deviceToken: string): Promise<undefined> {
   try {

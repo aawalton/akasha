@@ -2,6 +2,7 @@ import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/p
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { Separator } from "akasha/design/interface/primitive/modules/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 type LevelRow = {
   level: string

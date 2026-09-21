@@ -15,6 +15,7 @@ import {
 } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/product/smilingjenny/web/look/smilingjenny-web-look.stylesheet.styles.css"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export const meta: Route.MetaFunction = () => [
   { title: "Smiling Jenny" },

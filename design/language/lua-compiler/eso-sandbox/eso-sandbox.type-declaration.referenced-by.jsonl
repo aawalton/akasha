@@ -98,6 +98,9 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/weak-map/weak-map.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/weak-set/weak-set.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"product/audhdalan/web/routes/audhdalan-safety-levels/audhdalan-safety-levels.route.code.tsx"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"product/smilingjenny/web/modules/jenny-shell/jenny-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-alerts/leads-alerts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-reporting/leads-reporting.module.code.ts"}

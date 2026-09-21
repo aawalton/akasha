@@ -1,3 +1,6 @@
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
+import "akasha/product/smilingjenny/web/jenny-capacitor-globals/jenny-capacitor-globals.type-declaration.d.ts"
+
 export function isNativeShell(): boolean {
   if (typeof window === "undefined") return false
   return window.Capacitor?.isNativePlatform?.() === true

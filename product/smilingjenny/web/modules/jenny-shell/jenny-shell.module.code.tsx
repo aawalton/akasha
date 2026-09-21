@@ -1,6 +1,7 @@
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import type React from "react"
 import { Form } from "react-router"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function Shell({ title, children }: { title: string; children: React.ReactNode }) {
   return (
