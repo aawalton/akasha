@@ -12,5 +12,5 @@ export const whyIStoppedWorking = {
     "all-about-alan-topic/the-things-i-never-weigh",
   ],
   settled:
-    "At the best-fitting job I could imagine, work still took four fifths of everything I had.\n\nFitting a role better lowers the multiplier. It does not make having a job cheap.\n\nFor a decade each new one fitted better and still cost more, because I was falling faster than I optimised.\n\nThe sums had said stop months before. Being fired only set the date.\n\nWhat retirement really bought was the right to decline. My rule against unaffordable things cannot exist without it.",
+    "At the best-fitting job I could imagine, work still took four fifths of everything I had.\n\nFour fifths was the lowest I could get it to, not what a typical role costs. The ones I ended up in already fitted me far better than average.\n\nFitting a role better lowers the multiplier. It does not make having a job cheap.\n\nFor a decade each new one fitted better and still cost more, because I was falling faster than I optimised.\n\nThe sums had said stop months before. Being fired only set the date.\n\nSix months of savings covered the gap at first. Selling stock after that cleared the runway.\n\nWhat retirement really bought was the right to decline. My rule against unaffordable things cannot exist without it.",
 } as const satisfies AllAboutAlanTopic
