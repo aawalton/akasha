@@ -134,7 +134,7 @@ function namesIn(
   return found
 }
 
-export function gatherInterfaceDeclarations(
+export function gatherMergingDeclarations(
   world: World,
   most: number,
   but: ReadonlySet<string> = new Set()
@@ -190,5 +190,5 @@ export function runChange(world: World, given: Asked): Answer {
   if (!Number.isInteger(most) || most < 1) {
     return refusing(`\`${said}\` is no count of interfaces to gather`)
   }
-  return gatherInterfaceDeclarations(world, most, leftAloneIn(given[BUT]))
+  return gatherMergingDeclarations(world, most, leftAloneIn(given[BUT]))
 }

@@ -1,9 +1,9 @@
 import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.types.ts"
 
-export const gatherInterfaceDeclarations = {
+export const gatherMergingDeclarations = {
   id: "01a0c4da-fa68-7796-ad07-59a919549f57",
   type: "page-type/change-agent",
-  slug: "gather-interface-declarations",
+  slug: "gather-merging-declarations",
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",

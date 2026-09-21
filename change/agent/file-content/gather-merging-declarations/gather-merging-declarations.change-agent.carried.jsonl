@@ -8,6 +8,6 @@
 {"id":"01a0c4da-fa68-7796-ad07-59a919549f57"}
 {"maxCpuSeconds":120}
 {"maxMemoryMb":3072}
-{"slug":"gather-interface-declarations"}
+{"slug":"gather-merging-declarations"}
 {"test":"ts"}
 {"type":"page-type/change-agent"}

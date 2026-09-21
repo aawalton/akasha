@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import {
-  gatherInterfaceDeclarations,
+  gatherMergingDeclarations,
   runChange,
-} from "akasha/change/agent/file-content/gather-interface-declarations/gather-interface-declarations.change-agent.code.ts"
+} from "akasha/change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyAnswered,
@@ -38,7 +38,7 @@ const PAGES = [NEAR_PAGE, FAR_PAGE]
 
 test("an interface more than one declaration file declares is gathered into one file", () => {
   const world = worldHolding({ [NEAR]: ONE, [FAR]: `${TWO}\n${AWAY}` }, PAGES)
-  const said = gatherInterfaceDeclarations(world, 10)
+  const said = gatherMergingDeclarations(world, 10)
 
   expect(bodyAnswered(said, world, NEAR)).toBe(`${ONE}\n${TWO}`)
   expect(bodyAnswered(said, world, FAR)).toBe(AWAY)
@@ -47,7 +47,7 @@ test("an interface more than one declaration file declares is gathered into one 
 test("an interface one file alone declares is left alone", () => {
   const world = worldHolding({ [NEAR]: ONE, [FAR]: AWAY }, PAGES)
 
-  expect(gatherInterfaceDeclarations(world, 10).edits).toEqual([])
+  expect(gatherMergingDeclarations(world, 10).edits).toEqual([])
 })
 
 test("a run gathers at most the count of interfaces handed in", () => {
@@ -55,7 +55,7 @@ test("a run gathers at most the count of interfaces handed in", () => {
     { [NEAR]: `${ONE}\n${OTHER_ONE}`, [FAR]: `${TWO}\n${OTHER_TWO}\n${AWAY}` },
     PAGES
   )
-  const said = gatherInterfaceDeclarations(world, 1)
+  const said = gatherMergingDeclarations(world, 1)
 
   expect(bodyAnswered(said, world, FAR)).toBe(`${OTHER_TWO}\n${AWAY}`)
 })
@@ -63,13 +63,13 @@ test("a run gathers at most the count of interfaces handed in", () => {
 test("a path handed in to leave alone holds back every interface that path declares", () => {
   const world = worldHolding({ [NEAR]: ONE, [FAR]: `${TWO}\n${AWAY}` }, PAGES)
 
-  expect(gatherInterfaceDeclarations(world, 10, new Set([FAR])).edits).toEqual([])
+  expect(gatherMergingDeclarations(world, 10, new Set([FAR])).edits).toEqual([])
 })
 
 test("an interface is left alone where a file it is in would be left with nothing", () => {
   const world = worldHolding({ [NEAR]: ONE, [FAR]: TWO }, PAGES)
 
-  expect(gatherInterfaceDeclarations(world, 10).edits).toEqual([])
+  expect(gatherMergingDeclarations(world, 10).edits).toEqual([])
 })
 
 test("an argument this change was handed no value for is refused by the key", () => {

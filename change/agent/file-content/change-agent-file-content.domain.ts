@@ -16,7 +16,7 @@ export const changeAgentFileContent = {
     "change-agent/change-page-page-property",
     "change-agent/change-page-page-property-text",
     "change-agent/change-property-record-field",
-    "change-agent/gather-interface-declarations",
+    "change-agent/gather-merging-declarations",
     "change-agent/move-code-export",
     "change-agent/move-property-value",
     "change-agent/remove-property-record",
