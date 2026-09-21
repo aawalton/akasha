@@ -8,5 +8,5 @@ export const afterSomethingAlarmsMe = {
   definition: "what happens to my safety in the days after something frightens me",
   parents: ["all-about-alan-topic/safety-bar"],
   settled:
-    "It drops hard, comes most of the way back, and leaves about a week of being easily startled.",
+    "It drops hard, comes most of the way back, and leaves about a week of being easily startled. The shape is aftershocks after an earthquake, three phases in exponential backoff.\n\nFirst the drop. My baseline range is 3.5 to 4.5, and the exposure takes me to a low point. A brief look at politically distressing news on Instagram took me from 3.5 to 1.\n\nThen the fast partial recovery, inside about a day. I came back from 1 to 3. Sleep is what accelerates it, because being parasympathetic while asleep pays safety back directly.\n\nThen the tail, about a week below my normal range before I am back at 3.5 to 4.5. That is decaying vigilance. My body is scan-ready for a second hit, and the scanning is itself a drain.\n\nRecovery through the tail is passive. The load evaporates if I neglect it. Engaging with the content again reactivates the alarm and lengthens the tail, which inverts the usual advice to process the thing.",
 } as const satisfies AllAboutAlanTopic
