@@ -1,0 +1,11 @@
+import type { Subagent } from "akasha/agent/subagent/subagent.page-type.types.ts"
+
+export const awenAf8f6d8d21e838520 = {
+  id: "01a0c5f6-a2a7-7451-8f65-07e1fc74aa51",
+  type: "page-type/subagent",
+  slug: "awen-af8f6d8d21e838520",
+  principalSeatName: "seat/awen",
+  assignmentSlug: "initiative/awen-engine-improvements",
+  dispatchedAs: "Explore",
+  agentId: "01a0b706-afe2-7000-b0a0-2ba202a68a29--af8f6d8d21e838520",
+} as const satisfies Subagent
