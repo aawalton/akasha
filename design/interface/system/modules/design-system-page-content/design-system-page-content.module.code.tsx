@@ -14,8 +14,9 @@ import { BrandTabContent } from "akasha/design/interface/system/modules/brand-ta
 import { ComponentsTabContent } from "akasha/design/interface/system/modules/components-tab/components-tab.module.code.tsx"
 import { LayoutTabContent } from "akasha/design/interface/system/modules/layout-tab/layout-tab.module.code.tsx"
 import { PatternsTabContent } from "akasha/design/interface/system/modules/patterns-tab/patterns-tab.module.code.tsx"
+import { PropertiesTabContent } from "akasha/design/interface/system/modules/properties-tab/properties-tab.module.code.tsx"
 import { TokensTabContent } from "akasha/design/interface/system/modules/tokens-tab/tokens-tab.module.code.tsx"
-import { BookOpen, Component, LayoutGrid, Palette, Puzzle } from "lucide-react"
+import { BookOpen, Component, LayoutGrid, Palette, Puzzle, Tags } from "lucide-react"
 
 interface DesignSystemPageContentProps {
   initialTab?: string
@@ -27,7 +28,7 @@ export function DesignSystemPageContent({ initialTab }: DesignSystemPageContentP
       skeleton={tabbedPageSkeleton({
         initialTab,
         defaultTab: "brand",
-        tabs: ["brand", "tokens", "components", "layout", "patterns"],
+        tabs: ["brand", "tokens", "components", "layout", "patterns", "properties"],
       })}
     >
       <PageLayout.Header>
@@ -36,12 +37,13 @@ export function DesignSystemPageContent({ initialTab }: DesignSystemPageContentP
 
       <Tabs defaultValue={initialTab ?? "brand"} syncUrl syncStorage="design-system:tab">
         <PageLayout.Tabs>
-          <TabsList className="@[1016px]:grid grid h-18 @[1016px]:grid-cols-5 grid-cols-3 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
+          <TabsList className="@[1016px]:grid grid h-18 @[1016px]:grid-cols-6 grid-cols-3 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
             <PageTabsTrigger value="brand" icon={<BookOpen />} label="Brand" />
             <PageTabsTrigger value="tokens" icon={<Palette />} label="Tokens" />
             <PageTabsTrigger value="components" icon={<Component />} label="Components" />
             <PageTabsTrigger value="layout" icon={<LayoutGrid />} label="Layout" />
             <PageTabsTrigger value="patterns" icon={<Puzzle />} label="Patterns" />
+            <PageTabsTrigger value="properties" icon={<Tags />} label="Properties" />
           </TabsList>
         </PageLayout.Tabs>
 
@@ -51,6 +53,7 @@ export function DesignSystemPageContent({ initialTab }: DesignSystemPageContentP
           <ComponentsTabContent />
           <LayoutTabContent />
           <PatternsTabContent />
+          <PropertiesTabContent />
         </PageLayout.Content>
       </Tabs>
     </PageLayout>
