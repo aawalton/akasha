@@ -8,11 +8,6 @@ export const nimueGradeNaming = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every property marking how good a thing is is named `grade`.",
-      workingMemory:
-        "Three names are left for one ladder of sixteen rungs: `rank` at `alan/collection/properties/rank.rank-property.ts`, declared on `collection` and carried by 10 pages; `grade` at `persona/anchor-image/properties/grade.rank-property.ts`, carried by `abby-anchor` alone at `A+`; and `MusicRating` in `rating-ladder.module.code.ts`. A slug is unique to its page type, so `rank` cannot be renamed onto the `grade` already there, and one of the two pages is deleted.",
-    },
-    {
       statement:
         "One page states the grade ladder, what each rung is called, and each rung's color.",
       workingMemory:
