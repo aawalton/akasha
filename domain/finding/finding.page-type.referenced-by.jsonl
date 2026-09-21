@@ -237,7 +237,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-page-store-takes-a-write-from-anything-on-the-tailnet.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-read-record-says-a-body-was-sent-never-that-a-body-arrived.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-ring-device-secret-in-jennys-sops-opens-nothing-and-nothing-names-it.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-root-claude-md-held-one-rule-and-no-domain-held-it.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-root-tsconfig-names-no-file-and-the-hook-guarding-it-still-says-that-run-exits-zero.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts"}
