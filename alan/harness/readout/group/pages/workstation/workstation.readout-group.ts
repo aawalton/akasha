@@ -6,7 +6,6 @@ export const workstation = {
   slug: "workstation",
   definition: "how hard Alan's workstation is working",
   parts: ["readout/workstation-memory", "readout/workstation-processor"],
-  sortOrder: "place",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

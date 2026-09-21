@@ -18,23 +18,18 @@ export const readoutGroup = {
     "readout-group/upkeep",
     "readout-group/values",
     "readout-group/workstation",
-    "select-property/sort-order",
   ],
   extends: ["page-type/domain"],
-  properties: [
-    {
-      pageProperty: "select-property/sort-order",
-      required: false,
-      many: false,
-      default: "label",
-    },
-    { pageProperty: "boolean-property/figure-off-scale", required: false, many: false },
-  ],
+  properties: [{ pageProperty: "boolean-property/figure-off-scale", required: false, many: false }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement:
         "The words a group is drawn under are its definition rather than a label of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A group draws its readings in the order of the place each reading states.",
     },
   ],
   types: "ts",

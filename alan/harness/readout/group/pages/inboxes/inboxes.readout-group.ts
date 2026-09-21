@@ -5,7 +5,6 @@ export const inboxes = {
   type: "page-type/readout-group",
   slug: "inboxes",
   definition: "how far each of Alan's inboxes is from empty",
-  sortOrder: "place",
   figureOffScale: true,
   decisions: [
     {

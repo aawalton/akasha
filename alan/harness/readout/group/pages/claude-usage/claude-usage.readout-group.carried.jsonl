@@ -3,5 +3,4 @@
 {"id":"01a063bd-a526-78fb-9e89-7128b2bdd640"}
 {"parts":["readout/five-hour-back","readout/weekly-back","readout/weekly-ends","readout/weekly-usage"]}
 {"slug":"claude-usage"}
-{"sortOrder":"place"}
 {"type":"page-type/readout-group"}

@@ -5,6 +5,5 @@ export const upkeep = {
   type: "page-type/readout-group",
   slug: "upkeep",
   definition: "whether the daily keeping of Alan and his surroundings is holding",
-  sortOrder: "place",
   figureOffScale: true,
 } as const satisfies ReadoutGroup

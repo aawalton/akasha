@@ -5,7 +5,6 @@ export const values = {
   type: "page-type/readout-group",
   slug: "values",
   definition: "how well the day served each of Alan's values",
-  sortOrder: "place",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

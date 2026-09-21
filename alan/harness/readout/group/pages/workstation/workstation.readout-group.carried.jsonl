@@ -3,5 +3,4 @@
 {"id":"01a0a064-b4d5-73e0-9265-d1b2c0d51ad4"}
 {"parts":["readout/workstation-memory","readout/workstation-processor"]}
 {"slug":"workstation"}
-{"sortOrder":"place"}
 {"type":"page-type/readout-group"}

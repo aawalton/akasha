@@ -11,7 +11,6 @@ export const claudeUsage = {
     "readout/weekly-ends",
     "readout/weekly-usage",
   ],
-  sortOrder: "place",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

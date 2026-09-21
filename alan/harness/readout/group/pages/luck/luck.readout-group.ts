@@ -5,6 +5,5 @@ export const luck = {
   type: "page-type/readout-group",
   slug: "luck",
   definition: "how much Alan has risked being told no today",
-  sortOrder: "place",
   figureOffScale: true,
 } as const satisfies ReadoutGroup
