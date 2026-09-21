@@ -5,15 +5,5 @@ export const domainDefinition = {
   type: "page-type/phrase-kind",
   slug: "domain-definition",
   definition: "the sort of phrase a domain definition is written as",
-  decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A start symbol is a phrase kind no other construction is written from.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A phrase kind with no construction admits nothing, which is where this one starts.",
-    },
-  ],
+  decisions: [],
 } as const satisfies PhraseKind
