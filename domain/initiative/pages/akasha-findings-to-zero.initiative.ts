@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "285 are left. The first run has read down to the last under `domain/page-access` in panel order and takes up `domain/page-core` next. The 56 under `alan-book/all-about-alan` are passed over unread, being Alan's own notes. Most findings die because what they say stopped being true: the folder went, the page gained the decision, another lane landed the mend.\n",
+        "283 are left. The first run has read down to the last under `domain/page-storage` in panel order and takes up `domain/page-ui-component` next. The 56 under `alan-book/all-about-alan` are passed over unread, being Alan's own notes. Most findings die because what they say stopped being true: the folder went, the page gained the decision, another lane landed the mend.\n",
     },
   ],
   constraints: [
