@@ -1,5 +1,10 @@
 import { type Dirent, readdirSync } from "node:fs"
 import { join } from "node:path"
+import {
+  commitThere,
+  type Entry,
+  namesAt,
+} from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
@@ -36,34 +41,28 @@ export function walkedUnder(
   return found
 }
 
-const OTHERS = new Map<string, ReadonlySet<string> | null>()
+const HEADS = new Map<string, string | null>()
 
-function addedSince(root: string, base: string): readonly string[] {
-  const head = told(root, ["rev-parse", "HEAD"])
-  if (head === null) return []
-  const said = told(root, ["diff", "-z", "--name-only", "--diff-filter=A", base, head.trim()])
-  return said === null ? [] : said.split("\0").filter((one) => one !== "")
-}
+const NOTHING: ReadonlyMap<string, Entry> = new Map()
 
-function othersIn(root: string, base: string | null): ReadonlySet<string> | null {
-  const key = base === null ? root : `${root}\0${base}`
-  const found = OTHERS.get(key)
+function commitOf(root: string, base: string | null): string | null {
+  if (base !== null) return base
+  const found = HEADS.get(root)
   if (found !== undefined) return found
-  const said = told(root, ["ls-files", "-z", "--others", "--directory", "--no-empty-directory"])
-  const made = said === null ? null : new Set<string>(said.split("\0").filter((one) => one !== ""))
-  if (made !== null && base !== null) for (const one of addedSince(root, base)) made.add(one)
-  OTHERS.set(key, made)
+  const said = told(root, ["rev-parse", "HEAD"])
+  const made = said === null ? null : said.trim()
+  HEADS.set(root, made)
   return made
 }
 
-function carried(others: ReadonlySet<string>, path: string): boolean {
-  if (others.has(path)) return false
-  let at = path
-  while (at !== "") {
-    if (others.has(`${at}/`)) return false
-    at = at.slice(0, Math.max(at.lastIndexOf("/"), 0))
-  }
-  return true
+function carriedIn(
+  root: string,
+  folder: string,
+  base: string | null
+): ReadonlyMap<string, Entry> | null {
+  const commit = commitOf(root, base)
+  if (commit === null || !commitThere(root, commit)) return null
+  return namesAt(root, commit, folder) ?? NOTHING
 }
 
 function sittingIn(root: string, folder: string, base: string | null): readonly Dirent[] {
@@ -74,9 +73,9 @@ function sittingIn(root: string, folder: string, base: string | null): readonly 
     return []
   }
   if (here.length === 0) return here
-  const others = othersIn(root, base)
-  if (others === null) return here
-  return here.filter((one) => carried(others, join(folder, one.name)))
+  const held = carriedIn(root, folder, base)
+  if (held === null) return here
+  return here.filter((one) => held.has(one.name))
 }
 
 export function filesIn(
