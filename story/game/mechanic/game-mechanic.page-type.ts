@@ -17,6 +17,9 @@ export const gameMechanic = {
     "game-mechanic/phys-def",
     "game-mechanic/stam-max",
     "game-mechanic/attack-resolution",
+    "module/dice-reading",
+    "game-mechanic/one-d-twenty",
+    "game-mechanic/two-d-ten",
   ],
   decisions: [
     {
