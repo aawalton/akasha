@@ -1,5 +1,7 @@
+{"propertySlug":"import","fileName":"holding-game.relation-property.types.ts","path":"story/game/encounter/game-encounter.page-type.types.ts"}
 {"propertySlug":"import","fileName":"holding-game.relation-property.types.ts","path":"story/game/entity/game-entity.page-type.types.ts"}
 {"propertySlug":"import","fileName":"holding-game.relation-property.types.ts","path":"story/game/location/game-location.page-type.types.ts"}
+{"propertySlug":"page-property","path":"story/game/encounter/game-encounter.page-type.ts","id":"01a0c646-f4a2-7d92-926e-fd2c7fef9eb1"}
 {"propertySlug":"page-property","path":"story/game/entity/game-entity.page-type.ts","id":"01a0c631-b09e-76b0-8b33-5a7ff9d75891"}
 {"propertySlug":"page-property","path":"story/game/location/game-location.page-type.ts","id":"01a0c642-a40f-7f5e-8d0d-b1f9226535ca"}
 {"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}

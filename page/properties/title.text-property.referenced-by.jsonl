@@ -91,6 +91,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/attribute/game-attribute.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/encounter/game-encounter.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/entity/game-entity.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/game.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/game/location/game-location.page-type.types.ts"}
@@ -207,6 +208,7 @@
 {"propertySlug":"page-property","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts","id":"01a06579-e4f7-7cac-8aa3-87b59725c97d"}
 {"propertySlug":"page-property","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts","id":"01a06579-e4f7-77d8-a696-adb848da2d3e"}
 {"propertySlug":"page-property","path":"story/game/attribute/game-attribute.page-type.ts","id":"01a0c489-28b0-7100-a172-6999668e415c"}
+{"propertySlug":"page-property","path":"story/game/encounter/game-encounter.page-type.ts","id":"01a0c646-f4a2-7d92-926e-fd2c7fef9eb1"}
 {"propertySlug":"page-property","path":"story/game/entity/game-entity.page-type.ts","id":"01a0c631-b09e-76b0-8b33-5a7ff9d75891"}
 {"propertySlug":"page-property","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"page-property","path":"story/game/location/game-location.page-type.ts","id":"01a0c642-a40f-7f5e-8d0d-b1f9226535ca"}

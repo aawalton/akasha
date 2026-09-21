@@ -47,6 +47,7 @@ export const game = {
     "relation-property/holding-game",
     "text-property/listed-name",
     "text-property/listed-note",
+    "page-type/game-encounter",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
