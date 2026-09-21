@@ -1,3 +1,4 @@
+import { readingAsTheSystem } from "akasha/alan/harness/modules/reading-in-flight/reading-in-flight.module.code.ts"
 import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import {
   capacitorCorsHeaders,
@@ -38,13 +39,15 @@ async function readPlaylist(
   }
 }
 
-async function resolveChapterSegments(
+function resolveChapterSegments(
   pageId: string,
   fromSentenceIndex: number
 ): Promise<readonly string[] | null> {
-  const found = await resolveMediaPage(pageId, ["id"])
-  if (found === null) return null
-  return resolveChapterKokoroSegments(pageId, found.pageTypeSlug, { fromSentenceIndex })
+  return readingAsTheSystem(async () => {
+    const found = await resolveMediaPage(pageId, ["id"])
+    if (found === null) return null
+    return resolveChapterKokoroSegments(pageId, found.pageTypeSlug, { fromSentenceIndex })
+  })
 }
 
 export async function loader({

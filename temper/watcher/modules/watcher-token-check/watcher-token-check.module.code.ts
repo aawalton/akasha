@@ -1,4 +1,5 @@
 import { timingSafeEqual } from "node:crypto"
+import { readingAsTheSystem } from "akasha/alan/harness/modules/reading-in-flight/reading-in-flight.module.code.ts"
 import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPageById } from "akasha/page/access/modules/patch/patch.module.code.ts"
@@ -20,9 +21,11 @@ export type ValidatedWatcherToken = {
   accountPageId: string
 }
 
-export async function validateWatcherToken(
-  wtToken: unknown
-): Promise<ValidatedWatcherToken | null> {
+export function validateWatcherToken(wtToken: unknown): Promise<ValidatedWatcherToken | null> {
+  return readingAsTheSystem(() => matchedEnrolment(wtToken))
+}
+
+async function matchedEnrolment(wtToken: unknown): Promise<ValidatedWatcherToken | null> {
   if (typeof wtToken !== "string" || !TOKEN_SHAPE.test(wtToken)) return null
   const presented = sha256Hex(wtToken)
 
