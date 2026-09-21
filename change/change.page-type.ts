@@ -11,7 +11,7 @@ export const change = {
     "boolean-property/temporary",
     "domain/change-target",
     "module/address-restating",
-    "module/bound-names",
+    "module/name-binding",
     "module/change-answer",
     "module/change-shadow",
     "module/change-shadow-tree",

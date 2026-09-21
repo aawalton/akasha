@@ -892,7 +892,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/change.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/address-restating/address-restating.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/answer/change-answer.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/bound-names/bound-names.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/edits-dropping/edits-dropping.module.ts"}
@@ -908,6 +907,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/key-requiring/key-requiring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/literal-splicing/literal-splicing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/load-order/load-order.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/name-binding/name-binding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/package-naming/package-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/page-claiming/page-claiming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/page-editing/page-editing.module.ts"}

@@ -3,7 +3,7 @@ import {
   boundIn,
   shadowedIn,
   thereIn,
-} from "akasha/change/modules/bound-names/bound-names.module.code.ts"
+} from "akasha/change/modules/name-binding/name-binding.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import type ts from "typescript"
 

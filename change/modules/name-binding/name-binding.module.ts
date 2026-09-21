@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const boundNames = {
+export const nameBinding = {
   id: "01a0a67e-333d-7266-bf7a-3c5e63cb0dfb",
   type: "page-type/module",
-  slug: "bound-names",
+  slug: "name-binding",
   definition: "the names a declaration binds beneath itself and the names a body binds at its top",
   code: "ts",
   test: "ts",

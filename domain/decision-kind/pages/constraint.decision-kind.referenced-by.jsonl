@@ -189,8 +189,8 @@
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.ts","id":"01a081dc-0cef-7d5a-9c4e-daf2ba343c98"}
 {"propertySlug":"decision-kind","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.ts","id":"01a09c8d-ef19-7434-8f64-db9ac5dcf0e2"}
 {"propertySlug":"decision-kind","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.ts","id":"01a09c40-46df-7fc1-aa5e-e1da32da2123"}
-{"propertySlug":"decision-kind","path":"change/modules/bound-names/bound-names.module.ts","id":"01a0a67e-333d-7266-bf7a-3c5e63cb0dfb"}
 {"propertySlug":"decision-kind","path":"change/modules/import-lines/import-lines.module.ts","id":"01a08cda-348f-7c87-89fb-04be4a6a3124"}
+{"propertySlug":"decision-kind","path":"change/modules/name-binding/name-binding.module.ts","id":"01a0a67e-333d-7266-bf7a-3c5e63cb0dfb"}
 {"propertySlug":"decision-kind","path":"change/modules/slug-renaming/slug-renaming.module.ts","id":"01a09c61-7a20-7e53-a461-78bf666a426e"}
 {"propertySlug":"decision-kind","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.ts","id":"01a08dbe-1652-7000-bba4-cd7488c7a8ec"}
 {"propertySlug":"decision-kind","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.ts","id":"01a0826b-f1ac-77a7-8379-299804f515d2"}

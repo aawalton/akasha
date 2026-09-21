@@ -1,4 +1,4 @@
-import { thereIn } from "akasha/change/modules/bound-names/bound-names.module.code.ts"
+import { thereIn } from "akasha/change/modules/name-binding/name-binding.module.code.ts"
 import ts from "typescript"
 
 const LINE = "\n"

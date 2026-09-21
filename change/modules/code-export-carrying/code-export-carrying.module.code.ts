@@ -1,5 +1,4 @@
 import { dirname } from "node:path"
-import { shadowedIn } from "akasha/change/modules/bound-names/bound-names.module.code.ts"
 import {
   repointedIn,
   spelledAt,
@@ -19,6 +18,7 @@ import {
   withName,
   withoutNames,
 } from "akasha/change/modules/import-lines/import-lines.module.code.ts"
+import { shadowedIn } from "akasha/change/modules/name-binding/name-binding.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import {
