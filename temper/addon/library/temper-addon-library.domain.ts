@@ -4,7 +4,7 @@ export const temperAddonLibrary = {
   id: "01a0c454-bad1-7182-842e-d1d0a40d6eb7",
   type: "page-type/domain",
   slug: "temper-addon-library",
-  definition: "the libraries other people wrote that temper's add-ons run among",
+  definition: "the libraries temper's add-ons share in the game",
   parts: [
     "eso-addon/temper-lib-addon-keybinds",
     "eso-addon/temper-lib-addon-menu",
