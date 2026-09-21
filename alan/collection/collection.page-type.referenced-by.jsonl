@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/total-progress.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/total-remaining-in-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/total-remaining.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/unit-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/recipe-collection/recipe-collection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/recipe/recipe.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/library/litrpg-collection/litrpg-collection.page-type.types.ts"}

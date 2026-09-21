@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-progress.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-remaining-in-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/total-remaining.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/collection/properties/unit-words.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.test.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/faith-level.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/track/daily/day/properties/faith-stoplight.computed-property.code.ts"}
@@ -59,6 +60,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/total-progress.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/total-remaining-in-words.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/total-remaining.computed-property.ts"}
+{"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/unit-words.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/track/daily/day/properties/faith-level.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/track/daily/day/properties/faith-stoplight.computed-property.ts"}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/track/daily/day/properties/fun-level.computed-property.ts"}

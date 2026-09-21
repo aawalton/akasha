@@ -25,7 +25,7 @@ import type { TotalProgress } from "akasha/alan/collection/properties/total-prog
 import type { TotalProgressInWords } from "akasha/alan/collection/properties/total-progress-in-words.computed-property.types.ts"
 import type { TotalRemaining } from "akasha/alan/collection/properties/total-remaining.computed-property.types.ts"
 import type { TotalRemainingInWords } from "akasha/alan/collection/properties/total-remaining-in-words.computed-property.types.ts"
-import type { UnitWords } from "akasha/alan/collection/properties/unit-words.number-property.types.ts"
+import type { UnitWords } from "akasha/alan/collection/properties/unit-words.computed-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 

@@ -1,12 +1,13 @@
-import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+import type { ComputedProperty } from "akasha/page/computed-property/computed-property.page-type.types.ts"
 
 export const unitWords = {
   id: "01a06959-98a7-7ec0-bc21-02de65c2abf5",
-  type: "page-type/number-property",
+  type: "page-type/computed-property",
   slug: "unit-words",
   propertySlug: "unit-words",
   definition: "how many words one of the collection's unit is worth",
-  max: null,
+  holds: "number",
+  code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -19,6 +20,18 @@ export const unitWords = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The unit is reached by the address the collection names rather than by a slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A collection naming no unit is worth no words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A collection whose unit is no page is worth no words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A total counted in this unit is absent where the collection states no unit words.",
     },
@@ -26,10 +39,6 @@ export const unitWords = {
       decisionKind: "decision-kind/departure",
       statement: "A total counted in this unit is absent where the unit words are zero.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A formula cannot yet read a property off the page a relation reaches.",
-    },
   ],
   types: "ts",
-} as const satisfies NumberProperty
+} as const satisfies ComputedProperty

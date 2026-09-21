@@ -30,7 +30,7 @@ export const collection = {
     "number-property/parts-length-in-words",
     "number-property/parts-progress-in-words",
     "number-property/position",
-    "number-property/unit-words",
+    "computed-property/unit-words",
     "one-of-property/collection-published-at",
     "page-type/collection-external",
     "page-type/collection-type",
@@ -106,7 +106,7 @@ export const collection = {
     },
     { pageProperty: "number-property/parts-length-in-words", required: false, many: false },
     { pageProperty: "number-property/parts-progress-in-words", required: false, many: false },
-    { pageProperty: "number-property/unit-words", required: false, many: false },
+    { pageProperty: "computed-property/unit-words", required: false, many: false },
   ],
   decisions: [
     {
