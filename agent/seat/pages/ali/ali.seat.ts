@@ -11,4 +11,5 @@ export const ali = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "5fa3b0a5-9b43-4cd5-b53d-2a928a82c333",
 } as const satisfies Seat
