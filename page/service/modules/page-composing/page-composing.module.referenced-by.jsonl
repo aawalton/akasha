@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/heard-tracks/music-heard-tracks.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/link-songs/music-link-songs.command.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/merge-tracks/music-merge-tracks.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/track-carriers/music-track-carriers.command.code.ts"}

@@ -2,6 +2,7 @@
 {"propertySlug":"argument","path":"command/pages/git/sweep/git-sweep.command.ts","id":"01a091c8-1761-7abf-827f-f2622036c56c"}
 {"propertySlug":"argument","path":"command/pages/index/refresh/index-refresh.command.ts","id":"01a04de1-13fa-7331-979e-d443758eefad"}
 {"propertySlug":"argument","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.ts","id":"01a09409-1cc5-728a-ba59-c959fa5540ed"}
+{"propertySlug":"argument","path":"command/pages/music/merge-tracks/music-merge-tracks.command.ts","id":"01a0c554-eada-7333-912b-21c4d949150f"}
 {"propertySlug":"argument","path":"command/pages/music/release-parts/music-release-parts.command.ts","id":"01a0c4a2-c8c8-7210-ab1f-485b31944748"}
 {"propertySlug":"argument","path":"command/pages/music/track-carriers/music-track-carriers.command.ts","id":"01a0c52f-cb5a-70f7-96e0-e12b551e1a2f"}
 {"propertySlug":"argument","path":"command/pages/music/unheard-playlist/music-unheard-playlist.command.ts","id":"01a0c4ef-8b59-7e55-8995-fc004869dc1f"}
@@ -11,6 +12,7 @@
 {"propertySlug":"import","fileName":"plan.argument.ts","path":"command/pages/git/sweep/git-sweep.command.code.ts"}
 {"propertySlug":"import","fileName":"plan.argument.ts","path":"command/pages/index/refresh/index-refresh.command.code.ts"}
 {"propertySlug":"import","fileName":"plan.argument.ts","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"}
+{"propertySlug":"import","fileName":"plan.argument.ts","path":"command/pages/music/merge-tracks/music-merge-tracks.command.code.ts"}
 {"propertySlug":"import","fileName":"plan.argument.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"plan.argument.ts","path":"command/pages/music/track-carriers/music-track-carriers.command.code.ts"}
 {"propertySlug":"import","fileName":"plan.argument.ts","path":"command/pages/music/unheard-playlist/music-unheard-playlist.command.code.ts"}

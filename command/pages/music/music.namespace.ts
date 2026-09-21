@@ -34,6 +34,7 @@ export const music = {
     "command/music-unheard-playlist",
     "command/music-consent",
     "command/music-track-carriers",
+    "command/music-merge-tracks",
   ],
   name: "music",
 } as const satisfies Namespace

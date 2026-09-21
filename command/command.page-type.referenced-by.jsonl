@@ -152,6 +152,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/import-artist/music-import-artist.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/link-songs/music-link-songs.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/listening/music-listening.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/merge-tracks/music-merge-tracks.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/next/music-next.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/now-playing/music-now-playing.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/music/pause/music-pause.command.ts"}

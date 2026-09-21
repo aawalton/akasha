@@ -2199,6 +2199,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/music/import-artist/music-import-artist.command.ts","id":"01a062fb-d2fd-72f5-b24e-22a9635b5910"}
 {"propertySlug":"decision-kind","path":"command/pages/music/link-songs/music-link-songs.command.ts","id":"01a0b732-4a33-7079-972f-39fd807b0c72"}
 {"propertySlug":"decision-kind","path":"command/pages/music/listening/music-listening.command.ts","id":"01a062f8-fe5a-7001-ae4a-4ede334b81af"}
+{"propertySlug":"decision-kind","path":"command/pages/music/merge-tracks/music-merge-tracks.command.ts","id":"01a0c554-eada-7333-912b-21c4d949150f"}
 {"propertySlug":"decision-kind","path":"command/pages/music/modules/device-option/device-option.module.ts","id":"01a0a01d-7643-7622-9825-c312b57d8474"}
 {"propertySlug":"decision-kind","path":"command/pages/music/next/music-next.command.ts","id":"01a062f8-fe5a-7000-a955-ec84925efd37"}
 {"propertySlug":"decision-kind","path":"command/pages/music/now-playing/music-now-playing.command.ts","id":"01a062f8-ead8-74de-aa60-befb47afaae9"}
