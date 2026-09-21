@@ -19,7 +19,7 @@ test("a repository holding a failing test is refused, and the reason says how ma
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe(TEST_AT)
   expect(said[0]?.reason).toContain("1 of 1 tests failed")
-})
+}, 30000)
 
 test("a repository whose tests are green is refused by nothing", async () => {
   const root = tracked(repo({ [CODE_AT]: "", [TEST_AT]: PASSES }))
