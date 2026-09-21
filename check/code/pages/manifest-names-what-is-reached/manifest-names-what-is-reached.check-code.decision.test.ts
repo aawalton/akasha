@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  couldReach,
   creditedIn,
   declaringIn,
   ownerOf,
@@ -331,4 +332,26 @@ test("a url naming a scheme or a fragment reaches no package", () => {
 test("a body read as a stylesheet is scanned and a body read as code is parsed", () => {
   expect(reachFrom(STYLE_AT, '@import "zod";\n').packages).toEqual(new Set(["zod"]))
   expect(reachFrom(AT, 'import one from "zod"\n').packages).toEqual(new Set(["zod"]))
+})
+
+test("a body naming only paths of its own reaches nothing and is read no further", () => {
+  const body =
+    'import { one } from "./beside.ts"\nimport { two } from "akasha/page/page.domain.ts"\n'
+  expect(couldReach(AT, body)).toBe(false)
+  expect(reachIn(AT, body).packages).toEqual(new Set())
+})
+
+test("every way a module is named is seen before a body is read any further", () => {
+  const each = [
+    'import ts from "typescript"',
+    'export { one } from "zod"',
+    'const two = import("valibot")',
+    'const three = require("arktype")',
+    'type Four = import("effect").Effect',
+    'import type { Five } from "vitest"',
+    'import six = require("yargs")',
+    'mock.module("bun-types", () => ({}))',
+    'import { seven } from "node:fs"',
+  ]
+  for (const one of each) expect(couldReach(AT, one)).toBe(true)
 })

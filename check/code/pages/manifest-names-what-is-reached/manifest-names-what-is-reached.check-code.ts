@@ -184,6 +184,11 @@ export const manifestNamesWhatIsReached = {
       decisionKind: "decision-kind/absence",
       statement: "An index naming no package judges clean.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A body whose every module-naming word carries a path of its own is parsed by nothing here.",
+    },
   ],
   check: { maxCpuSeconds: 20 },
   audit: { maxCpuSeconds: 25 },

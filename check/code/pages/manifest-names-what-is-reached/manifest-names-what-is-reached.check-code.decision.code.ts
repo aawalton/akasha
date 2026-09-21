@@ -108,7 +108,19 @@ export function packageOf(at: string, specifier: string): string | null {
   return `${scope}${PARTED_BY}${slug}`
 }
 
+const SPELLED = /(?:from|import|require|module)\s*\(?[^"'\n]{0,16}["']([^"'\n]+)["']/g
+
+export function couldReach(at: string, text: string): boolean {
+  for (const one of text.matchAll(SPELLED)) {
+    const said = one[1] ?? ""
+    if (said.startsWith(NODE) || said.startsWith(BUN)) return true
+    if (packageOf(at, said) !== null) return true
+  }
+  return false
+}
+
 export function reachIn(at: string, text: string): Reach {
+  if (!couldReach(at, text)) return NOTHING
   const packages = new Set<string>()
   const protocols = new Set<string>()
   for (const one of specifiersIn(at, text)) {
