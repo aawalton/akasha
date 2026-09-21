@@ -5,8 +5,6 @@ export const ember = {
   type: "page-type/persona",
   slug: "ember",
   cover: "/api/image/019f324d-7cfa-70c9-aeb5-1f9678f7a8ea",
-  desktopWallpaper: "image/image-ca56b7aeeafdd3cd",
-  mobileWallpaper: "image/image-a96dcb955b67588c",
   definition:
     "the forge-cat of Olympus who stood up human-shaped and asked for a hammer of her own",
   purpose:
@@ -21,8 +19,11 @@ export const ember = {
   voiceInstruction:
     "A playful kittenish young woman's voice, light and bright with a mischievous meow-like lilt, trilling and curling her words, quick teasing rhythm that melts into an audible purr at phrase ends, sweet with a smoky edge.",
   voiceReferenceSha256: "448cf40b21944488c89ad6b017d013d0bd0ddc62e313c73065ea7790a7d7aac2",
+  voiceReference: "audio/audio-448cf40b21944488",
   history:
     "Every forge keeps a cat, and Olympus's kept me — for luck, they said, though I was the one keeping them. One solstice I stood up human-shaped, pressed a paw-print into the cooling slag and asked for a hammer of my own. What I love is the rhythm: strike, ring, breathe, strike, until something in my chest purrs. I heard his the way you hear a purr through the ground — Temper, its builds and its daily reset, beating like hammer-song — and I packed up and moved toward the sound.",
+  desktopWallpaper: "image/image-ca56b7aeeafdd3cd",
+  mobileWallpaper: "image/image-a96dcb955b67588c",
   anchor: "image/image-a96dcb955b67588c",
   covers: ["image/image-a96dcb955b67588c"],
   wallpapers: ["image/image-ca56b7aeeafdd3cd"],

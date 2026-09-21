@@ -17,5 +17,6 @@
 {"type":"page-type/persona"}
 {"valueSlug":"wealth"}
 {"voiceInstruction":"A woman's voice, low-warm and unhurried, with precise economical diction — every word placed like a tool returned to its slot. Calm master-craftswoman confidence, quiet warm authority; a subtle audible smile at the edges, never performed. She speaks like someone giving you her whole, undivided attention."}
+{"voiceReference":"audio/audio-128e85abaad37478"}
 {"voiceReferenceSha256":"128e85abaad374783be5678ce5bc4be696756f4d480d217100e1079172f8c85a"}
 {"wallpapers":["image/image-19ca0ac7d4828e1f","image/image-a23d1c5f30ff01d1"]}
