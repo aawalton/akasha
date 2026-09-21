@@ -14,8 +14,10 @@ import {
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import { pictureObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
-import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
+import {
+  imageDeps,
+  landImage,
+} from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import { captureError } from "akasha/page/access/modules/capture-error/capture-error.module.code.ts"
 import {
   askingFor,
@@ -62,7 +64,7 @@ export type SigningIn = (request: Request) => Promise<SignedIn | null>
 
 export type Enrolling = (whom: Whom) => Promise<Enrolment>
 
-export type Keeping = (id: string, bytes: Uint8Array<ArrayBuffer>) => Promise<void>
+export type Keeping = (bytes: Uint8Array<ArrayBuffer>) => Promise<string>
 
 export type Delivering = (to: string, body: string) => Promise<string | null>
 
@@ -74,12 +76,11 @@ export type PictureEffects = {
   readonly admit: Admitting
   readonly signedIn: SigningIn
   readonly enrol: Enrolling
-  readonly keep: Keeping | null
+  readonly keep: Keeping
   readonly deliver: Delivering
   readonly record: Recording
   readonly detach: Detaching
   readonly now: () => Date
-  readonly mint: () => string
 }
 
 function corsFor(request: Request): Record<string, string> {
@@ -178,20 +179,23 @@ export async function announcePicture(
   }
 }
 
+async function kept(bytes: Uint8Array<ArrayBuffer>): Promise<string> {
+  const landed = await landImage(imageDeps(WRITER), bytes, {}, [])
+  return landed.slug
+}
+
 function defaultEffects(): PictureEffects {
-  const store = seaweedFSObjectStoreFromEnv()
   return {
     admit: (request) => resolveDeviceSecretContext(request),
     signedIn: (request) => signedInAs(request),
     enrol: (whom) => personSlugFor(whom),
-    keep: store === null ? null : (id, bytes) => store.put(pictureObjectKey(id), bytes),
+    keep: kept,
     deliver: (to, body) => deliverToSeat(to, body),
     record: (why) => recordUnannounced(why),
     detach: (work) => {
       void work
     },
     now: () => new Date(),
-    mint: () => crypto.randomUUID(),
   }
 }
 
@@ -236,9 +240,6 @@ export async function answerPicture(
   if (mediaTypeOf(request) !== JPEG) {
     return answer({ ok: false, error: `A picture is sent as ${JPEG}.` }, 415)
   }
-  if (effects.keep === null) {
-    return answer({ ok: false, error: "No object store is configured.", retryable: true }, 503)
-  }
   const bytes = new Uint8Array(await request.arrayBuffer())
   if (bytes.byteLength === 0)
     return answer({ ok: false, error: "The picture holds no bytes." }, 400)
@@ -254,9 +255,9 @@ export async function answerPicture(
     )
   }
   const to = enrolled.personSlug
-  const id = effects.mint()
+  let id: string
   try {
-    await effects.keep(id, bytes)
+    id = await effects.keep(bytes)
   } catch (thrown) {
     return answer(
       { ok: false, error: `The picture was not kept: ${saidBy(thrown)}`, retryable: true },

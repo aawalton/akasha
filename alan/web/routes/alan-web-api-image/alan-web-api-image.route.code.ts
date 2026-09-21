@@ -1,5 +1,6 @@
 import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
+import { endingOf } from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   askingFor,
@@ -10,7 +11,7 @@ const IMAGE_PAGE_TYPE_SLUG = "image"
 
 const BYTES_KEY = "bytes"
 
-const A_PNG = "image/png"
+const TYPE_OF = { png: "image/png", jpg: "image/jpeg" } as const
 
 const HELD_FOR = "private, max-age=300, must-revalidate"
 
@@ -55,6 +56,8 @@ export async function loader({
 
   const held = await filingFor({ pageTypeSlug: IMAGE_PAGE_TYPE_SLUG, slug, key: BYTES_KEY })
   if ("refused" in held) return new Response("Not Found", { status: 404, headers })
-  headers.set("Content-Type", A_PNG)
+  const ending = endingOf(held.bytes)
+  if (ending === null) return new Response("Not Found", { status: 404, headers })
+  headers.set("Content-Type", TYPE_OF[ending])
   return new Response(held.bytes, { headers })
 }

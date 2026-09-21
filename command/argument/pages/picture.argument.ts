@@ -5,7 +5,7 @@ export const picture = {
   type: "page-type/argument",
   slug: "picture",
   said: "--picture",
-  takes: "the picture to bring, named by the id the picture was kept under",
+  takes: "the picture to bring, named by its image page's slug",
   value: "text",
-  placeholder: "uuid",
+  placeholder: "image-…",
 } as const satisfies Argument

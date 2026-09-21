@@ -21,7 +21,7 @@ const CAPACITOR = "capacitor://localhost"
 
 const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
-const ID = "0199c2a4-2f3e-7000-8000-0123456789ab"
+const ID = "image-0123456789abcdef"
 
 const AT = "2026-09-13T20:11:04.000Z"
 
@@ -55,8 +55,9 @@ function effectsWith(over: Partial<PictureEffects> = {}) {
     admit: async () => ({ outcome: "admitted", whom: asAccount(ALAN_ACCOUNT) }),
     signedIn: async () => null,
     enrol: async () => ({ ok: true, personSlug: "alan" }),
-    keep: async (id, bytes) => {
-      kept.push({ id, bytes })
+    keep: async (bytes) => {
+      kept.push({ id: ID, bytes })
+      return ID
     },
     deliver: async (to, body) => {
       delivered.push({ to, body })
@@ -69,7 +70,6 @@ function effectsWith(over: Partial<PictureEffects> = {}) {
       detached.push(work)
     },
     now: () => new Date(AT),
-    mint: () => ID,
     ...over,
   }
   const settled = async (): Promise<void> => {
@@ -153,13 +153,6 @@ test("a body holding no bytes is refused", async () => {
   expect(kept).toEqual([])
 })
 
-test("no object store is told as something to try again", async () => {
-  const { effects, delivered } = effectsWith({ keep: null })
-  const answered = await answerPicture(asked(JPEG), effects)
-  expect(answered.status).toBe(503)
-  expect(delivered).toEqual([])
-})
-
 test("an account no person states is refused", async () => {
   const { effects, kept } = effectsWith({
     enrol: async () => ({ ok: false, unread: false, why: "no person states the account" }),
@@ -168,7 +161,7 @@ test("an account no person states is refused", async () => {
   expect(kept).toEqual([])
 })
 
-test("the picture is kept under the minted id and the person's seat is told that id", async () => {
+test("the picture is landed as an image and the person's seat is told its slug", async () => {
   const { effects, kept, delivered, settled } = effectsWith()
   const answered = await answerPicture(asked(JPEG), effects)
   expect(answered.status).toBe(200)
@@ -200,15 +193,15 @@ test("the answer comes back before the message is written", async () => {
   await settled()
 })
 
-test("a picture the store would not keep tells nobody", async () => {
+test("a picture the pages would not land tells nobody", async () => {
   const { effects, delivered } = effectsWith({
     keep: async () => {
-      throw new Error("SeaweedFS S3 PUT failed")
+      throw new Error("the pages dropped the call")
     },
   })
   const answered = await answerPicture(asked(JPEG), effects)
   expect(answered.status).toBe(503)
-  expect((await answered.json()).error).toContain("SeaweedFS S3 PUT failed")
+  expect((await answered.json()).error).toContain("the pages dropped the call")
   expect(delivered).toEqual([])
 })
 

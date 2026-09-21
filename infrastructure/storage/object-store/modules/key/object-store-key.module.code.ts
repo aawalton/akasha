@@ -5,26 +5,6 @@ export function encodeObjectStoreKey(key: string): string {
     .join("/")
 }
 
-export function imageObjectKey(pageId: string): string {
-  return `images/${pageId}.png`
-}
-
-export function pictureObjectKey(pageId: string): string {
-  return `images/${pageId}.jpg`
-}
-
-function legacyImageObjectKey(pageId: string): string {
-  return `persona-images/${pageId}.png`
-}
-
-export function imageObjectReadKeys(pageId: string): readonly string[] {
-  return [imageObjectKey(pageId), pictureObjectKey(pageId), legacyImageObjectKey(pageId)]
-}
-
-export function imageContentTypeOf(key: string): string {
-  return key.endsWith(".jpg") ? "image/jpeg" : "image/png"
-}
-
 export function audioObjectKey(pageId: string): string {
   return `audio/${pageId}.wav`
 }

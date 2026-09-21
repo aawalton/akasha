@@ -78,10 +78,6 @@ export const trackFood = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Whether an object store is there is settled before anything is written.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A photo the entry could not have leaves that photo where that photo is.",
     },
     {
@@ -94,7 +90,8 @@ export const trackFood = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The photo a call names is published as the entry's cover.",
+      statement:
+        "The photo a call names is landed as an image page, and the entry's cover reaches that image.",
     },
   ],
   name: "food",

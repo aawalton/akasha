@@ -28,11 +28,10 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { trackFood as page } from "akasha/command/pages/track/food/track-food.command.ts"
-import { imageObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import {
-  type ObjectStore,
-  seaweedFSObjectStoreFromEnv,
-} from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
+  imageDeps,
+  landImage,
+} from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -40,6 +39,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const NAMED = [
@@ -61,6 +61,12 @@ const SLUG_OPENING = `${FOOD_ENTRY_PAGE_TYPE_SLUG}-`
 const SLUG = "slug"
 
 const FOOD_WRITER = "ops-food"
+
+const IMAGE_WRITER = "ops-food <ops-food@alanwalton.com>"
+
+const IMAGE_PAGE_TYPE_SLUG = "image"
+
+const ID = "id"
 
 const COVER_STEP = "cover"
 
@@ -222,6 +228,18 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
   return written([composed.put], `${FOOD_WRITER}: the food entry ${slug}`)
 }
 
+async function imageIdOf(slug: string): Promise<string> {
+  const asked = await askingFor({
+    pageTypeSlug: IMAGE_PAGE_TYPE_SLUG,
+    where: { slug: { is: slug } },
+    keys: [ID],
+  })
+  if ("refused" in asked) throw new Error(`the image ${slug} went unread: ${asked.refused}`)
+  const id = asked.rows[0]?.[ID]
+  if (typeof id !== "string") throw new Error(`the image ${slug} states no id`)
+  return id
+}
+
 export type Kept = { readonly done: string[]; readonly report: string[] }
 
 export type Logging = (read: Logged, given: Given, kept: Kept) => Promise<Answer>
@@ -235,21 +253,12 @@ async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   const root = rootOf()
 
   let bytes: Uint8Array | null = null
-  let store: ObjectStore | null = null
   if (read.image !== undefined) {
     bytes = await readFile(read.image).catch(() => null)
     if (bytes === null || bytes.length === 0) {
       return refused(
         `\`${imageArgument.said}\` names ${read.image}, which is not there or holds nothing`,
         INPUT
-      )
-    }
-    store = seaweedFSObjectStoreFromEnv()
-    if (store === null) {
-      return refused(
-        "no object store is configured — SEAWEEDFS_S3_ENDPOINT, SEAWEEDFS_BUCKET, " +
-          "SEAWEEDFS_ACCESS_KEY and SEAWEEDFS_SECRET_KEY say where one is",
-        OPERATIONAL
       )
     }
   }
@@ -288,11 +297,11 @@ async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   }
 
   let cover: string | null = null
-  if (bytes !== null && store !== null) {
+  if (bytes !== null) {
     try {
-      await store.put(imageObjectKey(foodId), new Uint8Array(bytes))
-      kept.done.push(`put the cover for ${foodId} in the object store`)
-      cover = `/api/image/${foodId}`
+      const picture = await landImage(imageDeps(IMAGE_WRITER), bytes, {}, kept.done)
+      const imageId = await imageIdOf(picture.slug)
+      cover = `/api/image/${imageId}`
       const patched = await landFoodEntry(root, slug, { ...values, cover })
       if (!patched.ok) throw new Error(patched.why)
       kept.done.push(`wrote that cover onto ${slug}`)

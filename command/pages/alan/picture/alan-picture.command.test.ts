@@ -6,29 +6,26 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   alanPicture,
-  type Fetching,
+  type Bringing,
   keptAt,
   pictureBrought,
   readIn,
 } from "akasha/command/pages/alan/picture/alan-picture.command.code.ts"
+import type { Fetched } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const CALLED_AS = "akasha alan picture"
 
-const ID = "0199c2a4-2f3e-7000-8000-0123456789ab"
+const ID = "image-0123456789abcdef"
 
 const JPEG = new Uint8Array([0xff, 0xd8, 0xff, 0xe0])
 
-function storeHolding(keys: Readonly<Record<string, Uint8Array>>): Fetching {
-  return {
-    head: async (key) => {
-      const held = keys[key]
-      return held === undefined ? null : { size: held.byteLength }
-    },
-    get: async (key) => {
-      const held = keys[key]
-      if (held === undefined) throw new Error(`no object at ${key}`)
-      return held
-    },
+const PNG = new Uint8Array([0x89, 0x50, 0x4e, 0x47])
+
+function pagesHolding(slugs: Readonly<Record<string, Uint8Array<ArrayBuffer>>>): Bringing {
+  return async (slug): Promise<Fetched> => {
+    const held = slugs[slug]
+    if (held === undefined) return { refused: `\`image/${slug}\` is no page here` }
+    return { bytes: held }
   }
 }
 
@@ -54,52 +51,54 @@ test("nothing said is refused, naming what it takes", async () => {
   expect(said.refusals[0]).toContain("--picture")
 })
 
-test("the picture's id is read off the first word or off the flag", () => {
+test("the image's slug is read off the first word or off the flag", () => {
   const word = readIn([ID], CALLED_AS)
   expect(!("refused" in word) && word.picture).toBe(ID)
   const flagged = readIn(["--picture", ID, "--output", "/somewhere/a.jpg"], CALLED_AS)
   expect(!("refused" in flagged) && flagged.output).toBe("/somewhere/a.jpg")
 })
 
-test("an id spelled in capitals is read in lower case", () => {
+test("a slug spelled in capitals is read in lower case", () => {
   const said = readIn([ID.toUpperCase()], CALLED_AS)
   expect(!("refused" in said) && said.picture).toBe(ID)
 })
 
-test("a word that is no uuid is refused", () => {
+test("a word that is no image slug is refused", () => {
   const said = readIn(["yesterday"], CALLED_AS)
-  expect("refused" in said && said.refused[0]).toContain("uuid")
+  expect("refused" in said && said.refused[0]).toContain("image-")
 })
 
-test("the file is written under the home folder, named for the id and the image kept", () => {
-  const at = keptAt({ picture: ID, output: undefined }, `images/${ID}.jpg`)
+test("the file is written under the home folder, named for the slug and the ending", () => {
+  const at = keptAt({ picture: ID, output: undefined }, "jpg")
   expect(at.endsWith(`/.local/share/akasha/pictures/${ID}.jpg`)).toBe(true)
-  expect(keptAt({ picture: ID, output: undefined }, `images/${ID}.png`).endsWith(".png")).toBe(true)
-  expect(keptAt({ picture: ID, output: "/somewhere/a.jpg" }, `images/${ID}.jpg`)).toBe(
-    "/somewhere/a.jpg"
-  )
+  expect(keptAt({ picture: ID, output: undefined }, "png").endsWith(".png")).toBe(true)
+  expect(keptAt({ picture: ID, output: "/somewhere/a.jpg" }, "jpg")).toBe("/somewhere/a.jpg")
 })
 
-test("no object store is refused before anything is written", async () => {
+test("a slug no image page holds is missing data", async () => {
   const { write, written } = writing()
-  const said = await pictureBrought({ picture: ID, output: undefined }, null, write)
-  expect(said.code).toBe(OPERATIONAL)
-  expect(written).toEqual([])
-})
-
-test("an id nothing is kept under is missing data", async () => {
-  const { write, written } = writing()
-  const said = await pictureBrought({ picture: ID, output: undefined }, storeHolding({}), write)
+  const said = await pictureBrought({ picture: ID, output: undefined }, pagesHolding({}), write)
   expect(said.code).toBe(DATA)
   expect(said.refusals[0]).toContain(ID)
   expect(written).toEqual([])
 })
 
-test("a jpeg kept under the id is written out and its path is answered", async () => {
+test("pages that could not be reached are refused as an operational fault", async () => {
   const { write, written } = writing()
   const said = await pictureBrought(
     { picture: ID, output: undefined },
-    storeHolding({ [`images/${ID}.jpg`]: JPEG }),
+    async () => ({ refused: "nothing came back — 6 attempts reached the pages" }),
+    write
+  )
+  expect(said.code).toBe(OPERATIONAL)
+  expect(written).toEqual([])
+})
+
+test("a jpeg held under the slug is written out and its path is answered", async () => {
+  const { write, written } = writing()
+  const said = await pictureBrought(
+    { picture: ID, output: undefined },
+    pagesHolding({ [ID]: JPEG }),
     write
   )
   expect(said.code).toBe(OK)
@@ -109,12 +108,8 @@ test("a jpeg kept under the id is written out and its path is answered", async (
   expect(said.report).toEqual([`picture\t${ID}`, `path\t${written[0]?.at}`, "bytes\t4"])
 })
 
-test("a png kept under the id is written as a png", async () => {
+test("a png held under the slug is written as a png", async () => {
   const { write, written } = writing()
-  await pictureBrought(
-    { picture: ID, output: undefined },
-    storeHolding({ [`images/${ID}.png`]: JPEG }),
-    write
-  )
+  await pictureBrought({ picture: ID, output: undefined }, pagesHolding({ [ID]: PNG }), write)
   expect(written[0]?.at.endsWith(`${ID}.png`)).toBe(true)
 })

@@ -22,27 +22,24 @@ export const pictureAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The picture is kept in the object store under an id minted for the picture.",
+      statement: "The picture is landed as an image page, as every picture is.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The handler is told by a message naming that id rather than handed the bytes.",
+      statement:
+        "The handler is told by a message naming that image's slug rather than handed the bytes.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The phone is answered as soon as the picture is kept.",
+      statement: "The phone is answered as soon as the image has landed.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The message telling the seat is written after that answer rather than before it.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "Writing a message page takes seconds and keeping the bytes takes milliseconds.",
-    },
-    {
       decisionKind: "decision-kind/departure",
-      statement: "A message that did not land is recorded as an error naming the picture's id.",
+      statement: "A message that did not land is recorded as an error naming the image's slug.",
     },
     {
       decisionKind: "decision-kind/departure",

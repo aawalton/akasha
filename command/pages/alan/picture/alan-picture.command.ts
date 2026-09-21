@@ -4,17 +4,21 @@ export const alanPicture = {
   id: "01a09c65-6c45-74f6-9f46-fbb5c1eb8702",
   type: "page-type/command",
   slug: "alan-picture",
-  definition: "the command bringing a picture Alan's phone sent to a file on this machine",
+  definition: "the command bringing an image page's picture to a file on this machine",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The picture's id is the first word.",
+      statement: "The image page's slug is the first word.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The file is named for the id and carries the extension of the image kept.",
+      statement: "The bytes are asked of the pages service rather than read off the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The file is named for the slug and carries the ending its bytes are.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,12 +26,8 @@ export const alanPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Whether an object store is there is settled before anything is written.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
-        "An id nothing is kept under is answered as missing data rather than as a wrong call.",
+        "A slug no image page holds is answered as missing data rather than as a wrong call.",
     },
     {
       decisionKind: "decision-kind/departure",
