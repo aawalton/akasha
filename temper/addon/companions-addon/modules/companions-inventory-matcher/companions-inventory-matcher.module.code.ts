@@ -1,9 +1,9 @@
-import "akasha/temper/eso-type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import type { CompanionBuildData } from "akasha/temper/addon/companions-addon/modules/companions-codec/companions-codec.module.code.ts"
 
 export interface InventoryItem {

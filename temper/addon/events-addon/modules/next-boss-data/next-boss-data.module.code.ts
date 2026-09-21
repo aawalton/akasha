@@ -1,4 +1,4 @@
-import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 import { ICT } from "akasha/temper/addon/events-addon/modules/next-boss-state/next-boss-state.module.code.ts"
 

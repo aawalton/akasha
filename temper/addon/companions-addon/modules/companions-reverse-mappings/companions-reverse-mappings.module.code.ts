@@ -1,4 +1,4 @@
-import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { SKILL_ABILITY_ID_TO_INDEX } from "akasha/temper/addon/companions-addon/modules/companions-skill-map/companions-skill-map.module.code.ts"
 import {
   ARMOR_TRAIT_TO_INDEX,

@@ -1,6 +1,6 @@
-import "akasha/temper/eso-type/eso-api/eso-api.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { createFieldRegistry } from "akasha/temper/addon/hud-addon/modules/hud-addon-field-registry/hud-addon-field-registry.module.code.ts"

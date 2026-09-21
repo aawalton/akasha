@@ -1,9 +1,9 @@
-import "akasha/temper/eso-type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import type { BarContext } from "akasha/temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   buildMultiselectEditor,

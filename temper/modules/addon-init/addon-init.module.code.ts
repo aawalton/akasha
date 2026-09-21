@@ -1,5 +1,5 @@
-import "akasha/temper/eso-type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 
 export function registerAddonInit(addonName: string, init: () => undefined): undefined {
   EVENT_MANAGER.RegisterForEvent(

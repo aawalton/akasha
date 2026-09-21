@@ -1,7 +1,7 @@
-import "akasha/temper/eso-type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 
 import {
   GREEN,

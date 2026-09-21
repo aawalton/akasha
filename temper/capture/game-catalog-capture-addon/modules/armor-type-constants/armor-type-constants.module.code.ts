@@ -1,4 +1,4 @@
-import "akasha/temper/eso-type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
 export function buildArmorTypes(): Record<string, number> {
   return {

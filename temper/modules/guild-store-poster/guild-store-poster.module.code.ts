@@ -1,9 +1,9 @@
-import "akasha/temper/eso-type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-enums-14/eso-enums-14.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-events/eso-events.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-14/eso-enums-14.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function issuePost(
   this: void,

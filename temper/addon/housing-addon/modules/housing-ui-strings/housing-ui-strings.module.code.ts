@@ -1,5 +1,5 @@
-import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { HOUSES_SEED } from "akasha/temper/addon/housing-addon/modules/housing-house-names/housing-house-names.module.code.ts"
 import { portToFriend } from "akasha/temper/addon/housing-addon/modules/housing-state/housing-state.module.code.ts"
 

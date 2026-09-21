@@ -1,7 +1,7 @@
-import "akasha/temper/eso-type/eso-api-2/eso-api-2.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 import { requireDefined } from "akasha/code/type/narrowing/modules/require-defined/require-defined.module.code.ts"
 import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"

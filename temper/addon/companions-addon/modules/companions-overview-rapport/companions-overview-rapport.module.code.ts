@@ -1,10 +1,10 @@
-import "akasha/temper/eso-type/eso-api/eso-api.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-chat/eso-chat.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 let cachedMaxRapport: number | undefined
 
 function getMaxRapport(): number {

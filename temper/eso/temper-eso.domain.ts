@@ -10,5 +10,6 @@ export const temperEso = {
     "domain/temper-eso-declaration",
     "domain/temper-lua-runner",
     "domain/temper-saved-variable",
+    "domain/temper-eso-type",
   ],
 } as const satisfies Domain

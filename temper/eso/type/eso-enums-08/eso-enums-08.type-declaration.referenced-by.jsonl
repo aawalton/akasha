@@ -1,0 +1,8 @@
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-display-names/companions-display-names.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/companion-equipment-catalog-capture/companion-equipment-catalog-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-filter-type-constants/item-filter-type-constants.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.code.ts"}
+{"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

@@ -1,6 +1,6 @@
-import "akasha/temper/eso-type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-events/eso-events.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { ADDON_NAME } from "akasha/temper/addon/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.code.ts"
 import { captureError } from "akasha/temper/addon/errors-addon/modules/errors-addon-record/errors-addon-record.module.code.ts"
 

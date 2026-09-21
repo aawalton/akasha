@@ -1,4 +1,4 @@
-import "akasha/temper/eso-type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
 import { SAVED_VARIABLES_NAME } from "akasha/temper/addon/events-addon/modules/next-boss-constants/next-boss-constants.module.code.ts"
 import {

@@ -1,5 +1,5 @@
-import "akasha/temper/eso-type/eso-enums-14/eso-enums-14.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-14/eso-enums-14.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import type {
   SearchRequestCollector,
   ServerFilterField,

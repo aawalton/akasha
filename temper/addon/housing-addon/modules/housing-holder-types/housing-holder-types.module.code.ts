@@ -1,7 +1,7 @@
-import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import type { PortToFriendConstants } from "akasha/temper/addon/housing-addon/modules/housing-constants/housing-constants.module.code.ts"
 import type {
   Config,

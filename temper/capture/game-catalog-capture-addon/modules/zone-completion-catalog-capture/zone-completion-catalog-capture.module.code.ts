@@ -1,7 +1,7 @@
-import "akasha/temper/eso-type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type {
   ZoneCompletionCatalogActivity,

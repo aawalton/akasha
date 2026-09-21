@@ -1,7 +1,7 @@
-import "akasha/temper/eso-type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"

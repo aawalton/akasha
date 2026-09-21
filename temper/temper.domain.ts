@@ -21,7 +21,6 @@ export const temper = {
     "domain/temper-command",
     "domain/temper-companion-codec",
     "domain/temper-completion",
-    "domain/temper-eso-type",
     "domain/temper-formula-framework",
     "domain/temper-holdings",
     "domain/temper-items-filters-addon",

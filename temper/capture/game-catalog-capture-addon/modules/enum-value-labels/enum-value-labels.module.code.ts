@@ -1,4 +1,4 @@
-import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function buildEnumValueLabels(
   values: Record<string, number>,

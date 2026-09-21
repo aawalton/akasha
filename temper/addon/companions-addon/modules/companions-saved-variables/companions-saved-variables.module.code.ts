@@ -1,4 +1,4 @@
-import "akasha/temper/eso-type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import {
   SAVED_VARIABLES_DEFAULTS,
