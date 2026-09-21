@@ -9,5 +9,5 @@ export const whyMoneyIsWorthMoreToMeNow = {
   parents: ["all-about-alan-topic/why-our-money-arrangement-is-up-for-review"],
   related: ["all-about-alan-topic/safety-years", "all-about-alan-topic/how-safety-climbs"],
   settled:
-    "A pound today is worth more to me than the same pound in ten years.\n\nThe ground is the difficulty of my recovery curve, not impatience and not a taste for spending.\n\nA level bought early is multiplied by every year that comes after it. Bought late it is multiplied by fewer. That is what safety years count.",
+    "Money today is worth more to me than I expect it to be in ten years.\n\nThe ground is the difficulty of my recovery curve, not impatience and not a taste for spending.\n\nA level bought early is multiplied by every year that comes after it. Bought late it is multiplied by fewer. That is what safety years count.",
 } as const satisfies AllAboutAlanTopic
