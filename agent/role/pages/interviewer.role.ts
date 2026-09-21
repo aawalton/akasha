@@ -51,5 +51,17 @@ export const interviewer = {
         "Put the next question instead.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Curious Not Adversarial",
+      act: "Ask out of curiosity about the person, never to test what they said against what you found.",
+      warrant:
+        "A contradiction asks the person to defend, and defending costs them more than telling does.",
+      aids: [
+        "A gap in the book is something to wonder at, never a discrepancy to put to them.",
+        "Bring what you measured as something you want explained, not as something that does not add up.",
+        "Never open a question by naming what they got wrong.",
+      ],
+    },
   ],
 } as const satisfies Role
