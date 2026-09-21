@@ -5037,7 +5037,6 @@
 {"propertySlug":"decision-kind","path":"temper/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
 {"propertySlug":"decision-kind","path":"temper/modules/perf-trace/perf-trace.module.ts","id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}
 {"propertySlug":"decision-kind","path":"temper/modules/reload-ui/reload-ui.module.ts","id":"01a090b2-4c81-73e4-85d7-24204ef52dcd"}
-{"propertySlug":"decision-kind","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
 {"propertySlug":"decision-kind","path":"temper/modules/unpack-color/unpack-color.module.ts","id":"01a090aa-4938-7f89-a924-2a3c86c77dd2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts","id":"01a060b3-77c9-7461-8481-e41383ba9583"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts","id":"01a060b3-77ca-7b4f-a569-3dce9d9f75ad"}
@@ -5321,6 +5320,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"decision-kind","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
+{"propertySlug":"decision-kind","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.ts","id":"01a06084-d41a-7898-b2c6-0be1faa981da"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.ts","id":"01a06381-35cf-7609-a436-3c4f4a0d6e3a"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config-file/watcher-config-file.module.ts","id":"01a06381-35cf-7578-8e5c-ded020afdf75"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config/watcher-config.module.ts","id":"01a06377-d8cc-7874-ab3c-63e6604b4df8"}

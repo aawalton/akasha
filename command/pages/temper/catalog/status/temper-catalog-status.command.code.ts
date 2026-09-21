@@ -24,7 +24,7 @@ import {
 import {
   type AccountSummary,
   readAccountSummaries,
-} from "akasha/temper/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
+} from "akasha/temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
 
 const NAMED = [json, sideFileArgument, savedVariablesFile]
 

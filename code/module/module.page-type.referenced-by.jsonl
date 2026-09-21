@@ -5542,7 +5542,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/movable-window/movable-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/reload-ui/reload-ui.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts"}
@@ -6144,6 +6143,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/skill-morph-progress-paths/skill-morph-progress-paths.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/skill-organization/skill-organization.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-config-file/watcher-config-file.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-config/watcher-config.module.ts"}

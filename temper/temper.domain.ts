@@ -20,7 +20,6 @@ export const temper = {
     "module/movable-window",
     "module/perf-trace",
     "module/reload-ui",
-    "module/saved-variables-reader",
     "module/unpack-color",
     "page-type/temper-thing",
     "router-app/temper-web",

@@ -120,5 +120,6 @@ export const temperWatcher = {
     "module/watcher-version",
     "module/watcher-worker",
     "rust-crate/watcher-tray",
+    "module/saved-variables-reader",
   ],
 } as const satisfies ServiceWorkstation
