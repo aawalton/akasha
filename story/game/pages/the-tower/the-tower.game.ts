@@ -41,6 +41,7 @@ export const theTower = {
     "game-mechanic/affinity-ladder",
     "game-mechanic/skill-ladder",
     "game-mechanic/attribute-check",
+    "game-mechanic/affinity-bias",
   ],
   attributes: [
     "game-attribute/finesse",
