@@ -29,6 +29,10 @@ export const nameAmbientDeclarations = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration is any file carrying ambient types, whatever page it sits beside.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The import added names one declaration file rather than a glob over declarations.",
     },

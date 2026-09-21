@@ -30,7 +30,7 @@ const AWAY = "declare const AWAY: number\n"
 function worldHolding(held: Readonly<Record<string, string>>, pages: readonly string[]): World {
   return {
     ...worldOf(held),
-    index: { everyOfType: () => pages.map((path) => ({ path })) } as never,
+    index: { carryingOf: () => ({ carrying: pages.map((path) => ({ path })) }) } as never,
   }
 }
 

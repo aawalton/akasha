@@ -30,7 +30,7 @@ const SPELLS = "export const one = HELD_ONE\n"
 function worldHolding(held: Readonly<Record<string, string>>, pages: readonly string[]): World {
   return {
     ...worldOf(held),
-    index: { everyOfType: () => pages.map((path) => ({ path })) } as never,
+    index: { carryingOf: () => ({ carrying: pages.map((path) => ({ path })) }) } as never,
     under: () => Object.keys(held),
   }
 }

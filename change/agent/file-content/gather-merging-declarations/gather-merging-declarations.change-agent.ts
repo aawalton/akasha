@@ -64,6 +64,10 @@ export const gatherMergingDeclarations = {
         "The declaration files are read from the index rather than looked for in the tree.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A declaration is any file carrying ambient types, whatever page it sits beside.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A name one file alone declares is left alone.",
     },

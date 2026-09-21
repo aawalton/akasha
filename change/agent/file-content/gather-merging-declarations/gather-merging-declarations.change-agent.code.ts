@@ -18,7 +18,7 @@ const MOST = "most"
 
 const BUT = "but"
 
-const DECLARING = "type-declaration"
+const AMBIENT = "ambient-types"
 
 const SECTION = "d"
 
@@ -56,7 +56,9 @@ export function mergingIn(path: string, text: string): readonly Spanned[] {
 
 export function declaringIn(world: World): Declaring {
   const found = new Map<string, string[]>()
-  for (const listed of world.index.everyOfType(DECLARING)) {
+  const carried = world.index.carryingOf(AMBIENT)
+  if ("refused" in carried) return found
+  for (const listed of carried.carrying) {
     const path = besideAt(listed.path, SECTION, HELD)
     if (path === null) continue
     const text = world.textOf(path)
