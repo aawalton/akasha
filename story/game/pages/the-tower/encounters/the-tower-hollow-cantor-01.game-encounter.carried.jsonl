@@ -1,0 +1,10 @@
+{"drop":"a tuning-shard of folded sound (sound/affinity seed) and +1 toward a 'Resonance Reading' skill — the System notes he learned to read a space by its echoes"}
+{"entities":["game-entity/the-tower-hollow-cantor-01"]}
+{"experience":160}
+{"game":"game/the-tower"}
+{"id":"01a0c662-cc91-7b33-a61e-0d3bab1be0a2"}
+{"location":"game-location/the-tower-floor-03"}
+{"slug":"the-tower-hollow-cantor-01"}
+{"title":"Hollow Cantor"}
+{"trigger":"advancing into the nave past the first pair of plates"}
+{"type":"page-type/game-encounter"}

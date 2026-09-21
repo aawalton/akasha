@@ -1,0 +1,10 @@
+{"drop":"a warm fist-sized cinder (the cooled core) — first crafting/affinity seed"}
+{"entities":["game-entity/the-tower-ashling-01"]}
+{"experience":60}
+{"game":"game/the-tower"}
+{"id":"01a0c662-cd44-7504-8f17-18d699e7a726"}
+{"location":"game-location/the-tower-floor-01"}
+{"slug":"the-tower-ashling-01"}
+{"title":"Ashling"}
+{"trigger":"first movement past the iron door"}
+{"type":"page-type/game-encounter"}

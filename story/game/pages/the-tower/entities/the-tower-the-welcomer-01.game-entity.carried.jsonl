@@ -1,0 +1,14 @@
+{"attributes":[{"attribute":"game-attribute/finesse","score":14},{"attribute":"game-attribute/intellect","score":14},{"attribute":"game-attribute/luck","score":8},{"attribute":"game-attribute/might","score":9},{"attribute":"game-attribute/perception","score":13},{"attribute":"game-attribute/presence","score":16},{"attribute":"game-attribute/vitality","score":8},{"attribute":"game-attribute/will","score":13}]}
+{"baseDamage":14}
+{"class":"Glamour-predator"}
+{"dice":"game-mechanic/two-d-ten"}
+{"equipment":[{"name":"armor","slot":"armor","defense":0},{"name":"weapon","slot":"weapon","attack":3}]}
+{"game":"game/the-tower"}
+{"id":"01a0c662-cd9e-7658-b1c6-d67181e05ccc"}
+{"kind":"enemy"}
+{"level":4}
+{"note":"engine: VIT8(64)+MIGHT2(18) = 82 HP. physDef (8+14)/2 = 11. physAtk 9*1.5+14+3 = 30.5. Init 13+14 = 27 (beats Alan's 26 on the trust-opener — front-load that turn). Threat = the trust-ambush, not HP."}
+{"slug":"the-tower-the-welcomer-01"}
+{"title":"The Welcomer"}
+{"type":"page-type/game-entity"}
+{"typicalIntent":2}
