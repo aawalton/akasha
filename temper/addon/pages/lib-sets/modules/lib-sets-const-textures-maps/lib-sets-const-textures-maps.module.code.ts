@@ -3,6 +3,7 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-sets/modules/lib-sets-const-dropmechanics/lib-sets-const-dropmechanics.module.code.ts"
 
 const lib = LibSets
 
