@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+
 const DEFAULT_MAX_ATTEMPTS = 5
 const DEFAULT_BASE_DELAY_MS = 500
 const DEFAULT_MAX_DELAY_MS = 4000

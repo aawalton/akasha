@@ -8,6 +8,7 @@ import type {
 import { RuleCardDestinationTier } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-destination-tier/rule-card-destination-tier.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import { Plus } from "lucide-react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface RuleCardDestinationChainProps {
   chain: DestinationChain | undefined

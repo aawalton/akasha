@@ -1,4 +1,5 @@
 import type { SkyShardsDefaults } from "akasha/temper/catalog/world/skyshard/modules/skyshards-constants/skyshards-constants.module.code.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 let db: SkyShardsDefaults | undefined
 let mainworldColor: ZoColorDef | undefined

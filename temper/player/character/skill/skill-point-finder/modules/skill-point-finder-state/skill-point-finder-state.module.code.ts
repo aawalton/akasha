@@ -7,6 +7,7 @@ import type {
   SavedVariablesData,
   Settings,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 function buildDefaultSettings(this: void): Settings {
   return {

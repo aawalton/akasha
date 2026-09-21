@@ -8,6 +8,8 @@ import type {
   Rgb,
   Settings,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-table-functions/lib-table-functions.type-declaration.d.ts"
 
 interface LegacySettings extends Settings {
   MWC?: boolean

@@ -45,4 +45,5 @@
 {"propertySlug":"import","fileName":"lib-map-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-events/skyshards-pc-events.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-map-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pins/skyshards-pc-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-map-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-settings/skyshards-pc-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-map-pins.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/library-type/temper-addon-library-type.domain.ts","id":"01a06090-f5ac-7f47-be1b-dc303670f2ad"}

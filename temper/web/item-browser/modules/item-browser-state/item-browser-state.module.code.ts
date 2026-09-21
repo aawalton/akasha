@@ -1,6 +1,15 @@
 import { getData } from "akasha/temper/web/item-browser/modules/item-browser-data/item-browser-data.module.code.ts"
 import type { ItemBrowserVars } from "akasha/temper/web/item-browser/modules/item-browser-saved-vars/item-browser-saved-vars.module.code.ts"
 import type { ItemBrowserListInstance } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
 export interface ItemBrowserColors {
   health: ZoColorDef

@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
 export const ADDON_NAME = "TemperCharacters"
 export const SAVED_VARIABLES_NAME = "TemperCharacters_SavedVariables"
 

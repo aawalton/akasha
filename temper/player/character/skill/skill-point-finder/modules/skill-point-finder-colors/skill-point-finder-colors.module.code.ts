@@ -1,4 +1,5 @@
 import type { Rgb } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function redText(this: void, text: string | number): string {
   return `|cFF0000${tostring(text)}|r`

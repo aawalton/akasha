@@ -1,3 +1,6 @@
+import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
 export function registerStrings(this: void): undefined {
   const strings: Record<string, string> = {
     USPF_SETTINGS_FONT_TITLE: "Font Settings",

@@ -37,6 +37,7 @@ import {
   useStableSettingsHandler,
 } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-state/inventory-rules-state.module.code.ts"
 import { type RefObject, useCallback } from "react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const DEFAULT_BUY_TARGET_QUANTITY = 200
 

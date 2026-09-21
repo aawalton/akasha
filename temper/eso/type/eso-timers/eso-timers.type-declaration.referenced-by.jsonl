@@ -1,1 +1,11 @@
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/modules/ttc-listing-client/ttc-listing-client.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/watcher/modules/watcher-stable-read/watcher-stable-read.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/watcher/modules/watcher-upload-retry/watcher-upload-retry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.test.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/web/player-economics-ui/modules/use-shopping-optimizer/use-shopping-optimizer.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-state/inventory-rules-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/web/player-inventory-management-ui/modules/use-item-tooltip-data/use-item-tooltip-data.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

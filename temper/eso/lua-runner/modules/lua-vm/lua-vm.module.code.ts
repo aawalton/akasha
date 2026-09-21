@@ -1,4 +1,5 @@
 import { spawnPersistentVm } from "akasha/temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export type LuaVm = {
   readonly run: (script: string) => Promise<unknown>

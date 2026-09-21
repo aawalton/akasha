@@ -40,4 +40,17 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/compass-pins-types/compass-pins-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-update/minimap-update.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/eso/lua-runner/modules/lua-vm/lua-vm.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary/completion-summary.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/character-management-panel-card/character-management-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/companion-management-panel-card/companion-management-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/completion-page-content/completion-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/formula-display/formula-display.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/plan-tab/plan-tab.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card/rule-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/root.tsx"}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

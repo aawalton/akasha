@@ -36,6 +36,7 @@ import { RuleCardDestinationChain } from "akasha/temper/web/player-inventory-man
 import { StockScopeSelect } from "akasha/temper/web/player-inventory-management-ui/modules/stock-scope-select/stock-scope-select.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import { ChevronRight } from "lucide-react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface RuleCardActionRowProps {
   rule: CategoryRule

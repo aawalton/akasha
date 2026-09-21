@@ -25,6 +25,7 @@ import {
 } from "akasha/temper/web/modules/import-summaries/import-summaries.module.code.tsx"
 import { useTemperImport } from "akasha/temper/web/modules/use-temper-import/use-temper-import.module.code.ts"
 import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function ImportPageContent() {
   const surface = useSurface()

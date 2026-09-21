@@ -13,6 +13,9 @@ import {
 import type { DailyWritStates } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 import type { SparseMotifKnowledge } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 import { charactersToPrune } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-prune-characters/completion-prune-characters.module.code.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export interface SavedNavigation {
   selectedTab: string

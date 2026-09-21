@@ -12,6 +12,7 @@ import {
   SELL_ACTIONS,
   SELL_DESTINATION_OPTIONS,
 } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 type UpdateItemRule = (
   ruleId: string,
