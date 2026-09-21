@@ -7,7 +7,6 @@ export const eppieMusicImprovements = {
   domain: "domain/music",
   persona: "persona/eppie",
   intentStack: [
-    { statement: "Every listen is tracked against a track rather than a release or a song." },
     {
       statement:
         "A release reads its listening off the tracks it carries rather than holding its own.",
