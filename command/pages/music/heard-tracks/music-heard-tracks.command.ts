@@ -45,6 +45,10 @@ export const musicHeardTracks = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Spotify.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track sharing a track key with a track Alan heard is a track Alan heard.",
+    },
   ],
   name: "heard-tracks",
   arguments: [{ argument: "argument/json" }],
