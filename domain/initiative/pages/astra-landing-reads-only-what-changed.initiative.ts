@@ -45,7 +45,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "An apply spends its own processor on the change rather than on reading the checkout.",
       workingMemory:
-        "An apply of one path is 1.1s of wall and 1.6s of processor, from 3.81s and 7.38s. The forty-six checks are 0.32s of wall of it, and typecheck at 0.40s of processor is the only one above 0.09s. The stylesheet gate reads the stylesheets out of the index rather than spawning git, one reading of the index answers every warrant a call runs, and a change is cast from a reading held for the commit that change starts from.",
+        "An apply of one path is 1.0s of wall and 1.5s of processor, from 3.81s and 7.38s. A quarter of what the apply spends is evaluating modules rather than running them: loading the checks, the CLI's own graph, and the TypeScript compiler, which the module cache used to drop on every landing because `node_modules` sits under the repository root. The forty-six checks are 0.32s of wall, and typecheck at 0.40s of processor is the only one above 0.09s.",
     },
   ],
   constraints: [
