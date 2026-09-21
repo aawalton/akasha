@@ -38,7 +38,7 @@ export const noRefusedSyntax = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every rule a run loads is compiled once and held for the rest of that run.",
+      statement: "Every rule a run loads is loaded once and held for the rest of that run.",
     },
     {
       decisionKind: "decision-kind/departure",
