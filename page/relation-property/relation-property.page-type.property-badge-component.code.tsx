@@ -121,17 +121,20 @@ function RelationCardBadgeBody({
   }
 
   if (relValue === undefined) return null
-  const relId = resolveRelationPageId(resolver, relValue)
+  const reached = resolver === null ? null : resolver.resolve(getRelationId(relValue))
+  const relId = reached?.id ?? getRelationId(relValue)
+  const href =
+    reached === null || pageHref === undefined ? undefined : pageHref(relId, { targetPageTypeId })
   return (
     <PageBadge
       pageId={relId}
       label={resolveRelationName(resolver, relValue)}
       variant={variant}
       pageTypeId={targetPageTypeId}
-      href={pageHref ? pageHref(relId, { targetPageTypeId }) : undefined}
+      href={href}
       onClick={(e) => {
         e.stopPropagation()
-        if (!pageHref) onPageNavigate?.(relId)
+        if (reached !== null && pageHref === undefined) onPageNavigate?.(relId)
       }}
     />
   )
