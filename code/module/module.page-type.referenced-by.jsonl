@@ -6613,7 +6613,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/targeting-badges/targeting-badges.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-app-id/temper-app-id.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-auth-page-content/temper-auth-page-content.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-declared-effects/temper-declared-effects.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-handover-site/temper-handover-site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.ts"}
