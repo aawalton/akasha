@@ -5,7 +5,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackWhatIsThisFeeli
     id: "01a0a6c5-0c72-783a-b2f8-4e3e7e52d4f1",
     type: "page-type/track",
     slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-what-is-this-feeling-dear-old-shiz-live",
-    grade: "B",
+    grade: "C",
     ownLength: 4.37415,
     ownProgress: 4.37415,
     partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
