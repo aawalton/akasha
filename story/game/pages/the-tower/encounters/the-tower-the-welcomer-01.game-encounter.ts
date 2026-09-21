@@ -13,4 +13,16 @@ export const theTowerTheWelcomer01 = {
   trigger:
     "accepting the Welcomer's aid/rest in the Hall of Welcome, OR moving deeper, OR revealing/striking it",
   drop: "a false-face shard (glamour/illusion-affinity seed — woven light holding a borrowed face) and its true hide (thin, cold, light-drinking like the Stalker's lens — crafting material toward a concealing garment)",
+  gates: [
+    {
+      name: "struck at the kind face it presents",
+      multiplier: 0.25,
+      note: "The kind climber's face is a woven image, so a blow lands on light.",
+    },
+    {
+      name: "struck once the true cold form shows",
+      multiplier: 1.8,
+      note: "The plain shadow-tell is faked here. Real flame throws a heat-warped shadow off a real body and the glamour's is cold; the mirrors deeper in show it too.",
+    },
+  ],
 } as const satisfies GameEncounter
