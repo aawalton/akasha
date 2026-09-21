@@ -61,7 +61,15 @@ import {
   SkeletonPanel,
   SkeletonTextPanel,
 } from "akasha/design/interface/system/modules/components-skeleton-panels/components-skeleton-panels.module.code.tsx"
-import { ComponentsSortFilterPanels } from "akasha/design/interface/system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"
+import {
+  AddFilterButtonPanel,
+  AddSortButtonPanel,
+  FilterButtonPanel,
+  FilterGroupPanel,
+  SearchSortFilterRowComposedPanel,
+  SortButtonMultiSortPanel,
+  SortGroupPanel,
+} from "akasha/design/interface/system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx"
 import {
   AlertPanel,
   AvatarPanel,
@@ -121,7 +129,13 @@ export function ComponentsTabContent() {
           <SearchMultiSelectPanel />
           <BadgeToggleGroupPanel />
           <SearchButtonPanel />
-          <ComponentsSortFilterPanels />
+          <SearchSortFilterRowComposedPanel />
+          <SortButtonMultiSortPanel />
+          <SortGroupPanel />
+          <FilterButtonPanel />
+          <AddSortButtonPanel />
+          <AddFilterButtonPanel />
+          <FilterGroupPanel />
           <ComponentsItemDisplayPanels />
           <ComponentsListGridPanels />
           <ComponentsCompoundPanels />
