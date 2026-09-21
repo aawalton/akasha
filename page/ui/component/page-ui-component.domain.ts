@@ -153,5 +153,6 @@ export const pageUiComponent = {
     "module/view-tab-context-menu",
     "module/view-tabs",
     "module/create-override",
+    "module/app-editing",
   ],
 } as const satisfies Domain

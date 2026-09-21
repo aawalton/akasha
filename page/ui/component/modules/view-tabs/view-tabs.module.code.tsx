@@ -24,6 +24,7 @@ import {
   DropdownMenuTrigger,
 } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
+import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { CreateViewPopover } from "akasha/page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx"
 import {
   VIEW_FALLBACK_ICON_NAME,
@@ -184,6 +185,7 @@ interface ViewTabsProps {
 }
 
 export function ViewTabs({ views, callbacks, currentViewData, activeViewId }: ViewTabsProps) {
+  const editing = useAppEditing()
   const { containerRef, layout } = useTabLayout(views.length)
 
   const sensors = useSensors(
@@ -299,12 +301,14 @@ export function ViewTabs({ views, callbacks, currentViewData, activeViewId }: Vi
                 aria-hidden
               />
             ))}
-            <div className="flex h-full items-stretch pl-1">
-              <CreateViewPopover
-                currentViewData={currentViewData}
-                onCreate={callbacks.onCreateView}
-              />
-            </div>
+            {editing && (
+              <div className="flex h-full items-stretch pl-1">
+                <CreateViewPopover
+                  currentViewData={currentViewData}
+                  onCreate={callbacks.onCreateView}
+                />
+              </div>
+            )}
           </TabsList>
         </SortableContext>
       </DndContext>

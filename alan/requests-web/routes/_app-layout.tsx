@@ -5,6 +5,7 @@ import { AuthProvider } from "akasha/alan/requests-web/modules/requests-auth-pro
 import { REQUESTS_SITE } from "akasha/alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { AppEditingProvider } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { CreateOverrideProvider } from "akasha/page/ui/component/modules/create-override/create-override.module.code.tsx"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { ProposeDialog } from "akasha/product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"
@@ -46,11 +47,13 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
 
   return (
     <AuthProvider reader={loaderData.reader} accountId={loaderData.accountId}>
-      <CreateOverrideProvider overrides={overrides}>
-        <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
-          <Outlet />
-        </AppShell>
-      </CreateOverrideProvider>
+      <AppEditingProvider editing={false}>
+        <CreateOverrideProvider overrides={overrides}>
+          <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
+            <Outlet />
+          </AppShell>
+        </CreateOverrideProvider>
+      </AppEditingProvider>
       <ProposeDialog
         open={proposing}
         onOpenChange={setProposing}

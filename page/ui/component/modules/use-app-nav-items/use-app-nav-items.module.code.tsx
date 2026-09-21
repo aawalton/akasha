@@ -7,6 +7,7 @@ import { triggerSafeNode } from "akasha/design/interface/primitive/modules/trigg
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { NavCountBadge } from "akasha/page/ui/component/modules/nav-count-badge/nav-count-badge.module.code.tsx"
 import { parseShowCountBadge } from "akasha/page/ui/component/modules/nav-count-badge-decider/nav-count-badge-decider.module.code.ts"
 import { NavItemActions } from "akasha/page/ui/component/modules/nav-item-actions/nav-item-actions.module.code.tsx"
@@ -64,6 +65,8 @@ export function useAppNavItems({
     : liveRows
 
   const navReady = initialRows != null || !isLoading
+
+  const editing = useAppEditing()
 
   const { createNav, reorderNavs, setNavIcon, setNavParent } = useNavMutations(appSlug ?? appId)
 
@@ -206,22 +209,25 @@ export function useAppNavItems({
       })
       const mobilePinOrder = MobilePinOrderSchema.parse(page.mobilePinOrder)
       const showCountBadge = parseShowCountBadge(page.showCountBadge)
+      const staticIcon = triggerSafeNode(<Icon name={rawIcon} className="h-5 w-5 shrink-0" />)
       return {
         id: `view-${page.id}`,
         label: expandDateMentions(String(page.title ?? "Untitled")),
         shortLabel: expandDateMentions(String(page.title ?? "Untitled")),
         href,
         activePrefix: href,
-        iconSlot: (
+        iconSlot: editing ? (
           <IconPicker value={rawIcon} onChange={(name) => handleIconChange(page.id, name)} />
+        ) : (
+          staticIcon
         ),
-        iconStatic: triggerSafeNode(<Icon name={rawIcon} className="h-5 w-5 shrink-0" />),
+        iconStatic: staticIcon,
         trailing: (
           <>
             {showCountBadge && (
               <NavCountBadge navItemSlug={typeof page.slug === "string" ? page.slug : undefined} />
             )}
-            <NavItemActions pageId={page.id} href={href} />
+            {editing && <NavItemActions pageId={page.id} href={href} />}
           </>
         ),
         ...(typeof mobilePinOrder === "number" ? { mobilePinOrder } : {}),
@@ -256,7 +262,9 @@ export function useAppNavItems({
     }
 
     return {
-      items: [...primaryItems, ...dynamicItems, addPageItem],
+      items: editing
+        ? [...primaryItems, ...dynamicItems, addPageItem]
+        : [...primaryItems, ...dynamicItems],
       dynamicItemIds: ids,
       rootItemIds: rootIds,
       childItemIds: childIds,
@@ -270,6 +278,7 @@ export function useAppNavItems({
     handleIconChange,
     addPageItem,
     primaryItems,
+    editing,
   ])
 
   useEffect(() => {

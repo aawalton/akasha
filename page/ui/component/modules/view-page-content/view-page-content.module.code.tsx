@@ -9,6 +9,7 @@ import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.m
 import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
+import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { EditableTitle } from "akasha/page/ui/component/modules/editable-title/editable-title.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { PageSystemShell } from "akasha/page/ui/component/modules/page-system-shell/page-system-shell.module.code.tsx"
@@ -43,6 +44,7 @@ interface ViewPageContentProps {
 }
 
 export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
+  const editing = useAppEditing()
   const { pages: pageTypes, isLoading: pageTypesLoading } = useAllPages({
     pageTypeSlug: PAGE_TYPE_SLUG,
   })
@@ -203,7 +205,7 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
                   <span className="sr-only">Back</span>
                 </PagesUILink>
               )}
-              <EditableTitle value={pageName} onSave={handleRename} />
+              {editing ? <EditableTitle value={pageName} onSave={handleRename} /> : pageName}
               {}
               {activeViewConfig?.title_properties != null &&
                 activeViewConfig.title_properties.length > 0 && (

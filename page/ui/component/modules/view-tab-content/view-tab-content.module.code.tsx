@@ -204,9 +204,10 @@ export function ViewTabContent({
         hasRowActions={viewConfig?.crossTypeSource != null}
         propertiesByPageType={propertiesByPageType}
         onCreatePage={
-          !isLocked(effectiveConfig, "createPage") && effectivePageTypeId != null && userId != null
-            ? (createOverride ?? handleCreatePage)
-            : undefined
+          isLocked(effectiveConfig, "createPage")
+            ? undefined
+            : (createOverride ??
+              (effectivePageTypeId != null && userId != null ? handleCreatePage : undefined))
         }
         serverGrouped={serverGrouped}
         isLoading={isLoading}
