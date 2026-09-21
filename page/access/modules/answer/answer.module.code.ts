@@ -35,24 +35,37 @@ const SIGNED_IN_ONLY = "this route answers a signed-in reader only"
 
 export type ReadUser = (request: Request) => Promise<{ user: object | null; headers: Headers }>
 
-export type MayRead = (pageTypeSlug: string) => Promise<boolean>
+export type MayRead = (user: object | null, pageTypeSlug: string) => Promise<boolean>
 
-const anonymousReadsNothing: MayRead = async () => false
+const signedInMayRead: MayRead = async (user) => user !== null
 
 export type PageTypesDeps = {
   readonly readUser: ReadUser
+  readonly mayRead: MayRead
   readonly roster: () => Promise<ReadonlySet<string>>
 }
 
-export function pageTypesDeps(readUser: ReadUser): PageTypesDeps {
-  return { readUser, roster: () => fileBackedPageTypes() }
+export function pageTypesDeps(
+  readUser: ReadUser,
+  mayRead: MayRead = signedInMayRead
+): PageTypesDeps {
+  return { readUser, mayRead, roster: () => fileBackedPageTypes() }
+}
+
+async function readableOf(
+  slugs: ReadonlySet<string>,
+  user: object | null,
+  mayRead: MayRead
+): Promise<readonly string[]> {
+  const kept: string[] = []
+  for (const slug of [...slugs].sort()) {
+    if (await mayRead(user, slug)) kept.push(slug)
+  }
+  return kept
 }
 
 export async function answerPageTypes(request: Request, deps: PageTypesDeps): Promise<Response> {
   const { user, headers } = await deps.readUser(request)
-  if (user === null) {
-    return Response.json({ error: SIGNED_IN_ONLY }, { status: 401, headers })
-  }
   let slugs: ReadonlySet<string>
   try {
     slugs = await deps.roster()
@@ -60,7 +73,11 @@ export async function answerPageTypes(request: Request, deps: PageTypesDeps): Pr
     if (!(thrown instanceof RosterUnreachable)) throw thrown
     return Response.json({ error: UNREAD_ROSTER, unread: [thrown.why] }, { status: 503, headers })
   }
-  const types = [...slugs].sort().map((slug) => ({ slug }))
+  const readable = await readableOf(slugs, user, deps.mayRead)
+  if (readable.length === 0) {
+    return Response.json({ error: SIGNED_IN_ONLY }, { status: 401, headers })
+  }
+  const types = readable.map((slug) => ({ slug }))
   return Response.json({ types }, { headers })
 }
 
@@ -71,7 +88,7 @@ export type PageTypeReading = {
 
 export type PagesDeps = {
   readonly readUser: ReadUser
-  readonly anonymousMayRead: MayRead
+  readonly mayRead: MayRead
   readonly ask: (
     pageTypeSlug: string,
     limit: number,
@@ -81,13 +98,10 @@ export type PagesDeps = {
   readonly definitionsFor: (pageTypeSlug: string) => Promise<readonly PropertyDefinition[]>
 }
 
-export function pagesDeps(
-  readUser: ReadUser,
-  anonymousMayRead: MayRead = anonymousReadsNothing
-): PagesDeps {
+export function pagesDeps(readUser: ReadUser, mayRead: MayRead = signedInMayRead): PagesDeps {
   return {
     readUser,
-    anonymousMayRead,
+    mayRead,
     ask: (pageTypeSlug, limit, keys) =>
       askingFor({ pageTypeSlug, limit, ...(keys === undefined ? {} : { keys }) }),
     readPageType: async (pageTypeSlug) => {
@@ -156,7 +170,7 @@ export async function answerPages(
   deps: PagesDeps
 ): Promise<Response> {
   const { user, headers } = await deps.readUser(request)
-  if (user === null && !(await deps.anonymousMayRead(pageTypeSlug))) {
+  if (!(await deps.mayRead(user, pageTypeSlug))) {
     return Response.json({ error: SIGNED_IN_ONLY }, { status: 401, headers })
   }
 

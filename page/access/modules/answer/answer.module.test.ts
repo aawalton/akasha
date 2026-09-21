@@ -18,6 +18,7 @@ const ROSTER_AT = "https://alanwalton.com/api/page-types"
 function depsRostering(roster: PageTypesDeps["roster"]): PageTypesDeps {
   return {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    mayRead: async (user) => user !== null,
     roster,
   }
 }
@@ -25,7 +26,7 @@ function depsRostering(roster: PageTypesDeps["roster"]): PageTypesDeps {
 function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
   return {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    anonymousMayRead: async () => false,
+    mayRead: async (user) => user !== null,
     ask: async () => ({ rows: [], n: 0 }),
     readPageType,
     definitionsFor: async () => [],
@@ -35,17 +36,17 @@ function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
 function depsAsking(ask: PagesDeps["ask"]): PagesDeps {
   return {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    anonymousMayRead: async () => false,
+    mayRead: async (user) => user !== null,
     ask,
     readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
     definitionsFor: async () => [],
   }
 }
 
-function depsAnonymous(anonymousMayRead: PagesDeps["anonymousMayRead"]): PagesDeps {
+function depsAnonymous(mayRead: PagesDeps["mayRead"]): PagesDeps {
   return {
     readUser: async () => ({ user: null, headers: new Headers() }),
-    anonymousMayRead,
+    mayRead,
     ask: async () => ({ rows: [], n: 0 }),
     readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
     definitionsFor: async () => [],
@@ -167,7 +168,7 @@ test("a listing asks for every key but the ones whose rows are filed beside the 
   const under: (readonly string[] | undefined)[] = []
   const answered = await answerPages(new Request(AT), "readout", {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    anonymousMayRead: async () => false,
+    mayRead: async (user) => user !== null,
     ask: async (_pageTypeSlug, _limit, keys) => {
       under.push(keys)
       return { rows: [], n: 0 }
@@ -239,7 +240,7 @@ test("an anonymous reader a grant admits is answered the rows", async () => {
   const answered = await answerPages(
     new Request(AT),
     "readout",
-    depsAnonymous(async (pageTypeSlug) => {
+    depsAnonymous(async (_user, pageTypeSlug) => {
       asked.push(pageTypeSlug)
       return true
     })
@@ -248,24 +249,36 @@ test("an anonymous reader a grant admits is answered the rows", async () => {
   expect(asked).toEqual(["readout"])
 })
 
-test("a signed-in reader is answered without any grant being asked for", async () => {
-  let asked = 0
+test("every reader is weighed against what that reader may read", async () => {
+  const asked: (object | null)[] = []
   const deps = depsReading(async () => ({ pageTypeId: "one", definitions: [] }))
   const answered = await answerPages(new Request(AT), "readout", {
     ...deps,
-    anonymousMayRead: async () => {
-      asked += 1
-      return false
+    mayRead: async (user) => {
+      asked.push(user)
+      return user !== null
     },
   })
   expect(answered.status).toBe(200)
-  expect(asked).toBe(0)
+  expect(asked).toEqual([{ id: "one" }])
 })
 
 test("a reader who is signed out is answered 401 rather than a roster", async () => {
   const answered = await answerPageTypes(new Request(ROSTER_AT), {
     readUser: async () => ({ user: null, headers: new Headers() }),
+    mayRead: async (user) => user !== null,
     roster: async () => new Set(["nav"]),
   })
   expect(answered.status).toBe(401)
+})
+
+test("a roster carries only the page types the reader may read", async () => {
+  const answered = await answerPageTypes(new Request(ROSTER_AT), {
+    readUser: async () => ({ user: null, headers: new Headers() }),
+    mayRead: async (_user, slug) => slug === "world-skill",
+    roster: async () => new Set(["nav", "world-skill", "readout"]),
+  })
+  expect(answered.status).toBe(200)
+  const said = (await answered.json()) as { types: readonly { slug: string }[] }
+  expect(said.types).toEqual([{ slug: "world-skill" }])
 })

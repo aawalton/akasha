@@ -977,6 +977,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/modules/live-version/live-version.module.ts","id":"01a05c48-deeb-700f-82ef-afcd8de33755"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/web-build-version.domain.ts","id":"01a05c48-deeb-700d-9df1-fad9c81a0a32"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.ts","id":"01a0640f-8510-7ab5-87bf-f593cb1eb7a7"}
+{"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/reader-access/reader-access.module.ts","id":"01a0c503-1fee-74f8-8460-00ac5c1b90d6"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.ts","id":"01a0640f-8510-721d-88b0-b37b2bda4681"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/modules/page-listing-loader/page-listing-loader.module.ts","id":"01a08e24-787c-78b5-a972-ca859eaa4fd8"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}
