@@ -39,6 +39,8 @@ export const theTower = {
     "game-mechanic/ment-attack",
     "game-mechanic/phys-attack",
     "game-mechanic/leveling",
+    "game-mechanic/affinity-ladder",
+    "game-mechanic/skill-ladder",
   ],
   attributes: [
     "game-attribute/finesse",

@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"game-mechanic.page-type.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.test.ts"}
+{"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/affinity-ladder/affinity-ladder.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/focus-max/focus-max.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/hp-max/hp-max.game-mechanic.ts"}
@@ -11,6 +12,7 @@
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/phys-attack/phys-attack.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/phys-def/phys-def.game-mechanic.ts"}
+{"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/skill-ladder/skill-ladder.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/stam-max/stam-max.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/two-d-ten/two-d-ten.game-mechanic.ts"}
 {"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
