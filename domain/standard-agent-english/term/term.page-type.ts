@@ -50,6 +50,11 @@ export const term = {
       decisionKind: "decision-kind/departure",
       statement: "A term is written under its plainest spelling.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A term TypeScript keeps the spelling of is written under that spelling with its type in front.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

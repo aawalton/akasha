@@ -5,7 +5,12 @@ export const partOfSpeech = {
   type: "page-type/page-type",
   slug: "part-of-speech",
   definition: "one job a word does in a phrase",
-  parts: ["part-of-speech/noun", "relation-property/part-of-speech", "part-of-speech/determiner"],
+  parts: [
+    "part-of-speech/noun",
+    "relation-property/part-of-speech",
+    "part-of-speech/determiner",
+    "part-of-speech/preposition",
+  ],
   extends: ["page-type/domain"],
   decisions: [
     {
