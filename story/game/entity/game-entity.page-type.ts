@@ -7,6 +7,7 @@ export const gameEntity = {
   definition: "someone or something a game's world holds, with the sheet its mechanics read",
   pluralSlug: "entities",
   extends: ["page-type/page"],
+  runsTabooCheck: false,
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/entity-game", required: true, many: false },
