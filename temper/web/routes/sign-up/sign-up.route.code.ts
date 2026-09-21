@@ -1,5 +1,6 @@
-import { signUpLoader } from "akasha/alan/harness/supabase-rr/modules/sign-up-route/sign-up-route.module.code.ts"
+import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+import { redirect } from "react-router"
 
 export function loader(): Response {
-  return signUpLoader()
+  return redirect(TEMPER_SITE.signInPath)
 }
