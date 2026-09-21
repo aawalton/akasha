@@ -79,6 +79,7 @@ export const temperAddon = {
     "temper-addon/temper-lib-treasure",
     "temper-addon/temper-lib-zone",
     "module/reload-ui",
+    "module/guild-store-poster",
   ],
   extends: ["page-type/service"],
   properties: [

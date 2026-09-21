@@ -2701,6 +2701,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/lccc/modules/lccc/lccc.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/log/modules/addon-log/addon-log.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/log/modules/library-logger/library-logger.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/modules/guild-store-poster/guild-store-poster.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/modules/reload-ui/reload-ui.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/narrow/modules/is-callback/is-callback.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/narrow/modules/is-table/is-table.module.ts"}
@@ -5543,7 +5544,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/descriptor/descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/guild-store-poster/guild-store-poster.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/movable-window/movable-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}

@@ -13,6 +13,10 @@ import "akasha/temper/eso/type/eso-ttc/eso-ttc.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import {
+  createSellFlow,
+  type SellFlow,
+} from "akasha/temper/addon/modules/guild-store-poster/guild-store-poster.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/trading/modules/trading-constants/trading-constants.module.code.ts"
 import {
   getLastSold,
@@ -30,10 +34,6 @@ import {
   PADDING_X,
   PADDING_Y,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
-import {
-  createSellFlow,
-  type SellFlow,
-} from "akasha/temper/modules/guild-store-poster/guild-store-poster.module.code.ts"
 import "akasha/temper/addon/pages/crafting/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
