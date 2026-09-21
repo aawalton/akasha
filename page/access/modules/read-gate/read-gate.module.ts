@@ -55,5 +55,10 @@ export const readGate = {
       decisionKind: "decision-kind/departure",
       statement: "Narrows disagreeing on the key stop the read rather than widening to both.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A narrow on a key the page type does not carry is refused rather than reaching no pages.",
+    },
   ],
 } as const satisfies Module
