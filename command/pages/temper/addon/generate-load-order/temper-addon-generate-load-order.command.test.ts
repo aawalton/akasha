@@ -25,7 +25,7 @@ const GIVEN: Given = {
   agentId: null,
 }
 
-const UNDER = "/nowhere/temper/addon-build/dist/TemperOne"
+const UNDER = "/nowhere/temper/addon/build/dist/TemperOne"
 
 const STOPPED = new Error("neither tsconfig declares a luaCompiler.luaBundle")
 
