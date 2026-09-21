@@ -38,7 +38,7 @@ type Said = {
   readonly bytes: Uint8Array
 }
 
-type Entry = {
+export type Entry = {
   readonly oid: string
   readonly tree: boolean
 }
