@@ -76,6 +76,7 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-chest-capture/map-pins-chest-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-on-load/map-pins-on-load.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-init/minimap-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-lifecycle/minimap-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-update/minimap-update.module.code.ts"}

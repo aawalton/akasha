@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-map-filters/map-pins-map-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-init/minimap-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-shared/minimap-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-state/minimap-state.module.code.ts"}

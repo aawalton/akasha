@@ -24,6 +24,23 @@ import {
 } from "akasha/temper/addon/navigation-addon/modules/minimap-state/minimap-state.module.code.ts"
 import { EXPORTED_UPDATE_MAP } from "akasha/temper/addon/navigation-addon/modules/minimap-update/minimap-update.module.code.ts"
 import type { LooseTable } from "akasha/temper/addon/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
+import "akasha/temper/addon/library-type/lib-async/lib-async.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lib-sets-ui/eso-lib-sets-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
 const em = EVENT_MANAGER
 const async = LibAsync

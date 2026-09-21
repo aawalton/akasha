@@ -29,6 +29,7 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-ui/fco-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-border/minimap-border.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-init/minimap-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-lifecycle/minimap-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-2.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-settings-location/minimap-settings-location.module.code.ts"}
