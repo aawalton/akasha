@@ -34,7 +34,7 @@ export const inferenceRun = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Audio a run made is kept as an object named from the row it was made under.",
+      statement: "A sound a run made is an audio page with the bytes beside it.",
     },
     { decisionKind: "decision-kind/absence", statement: "Nothing here reaches a model service." },
     {

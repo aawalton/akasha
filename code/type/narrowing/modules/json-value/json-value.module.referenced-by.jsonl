@@ -1,8 +1,6 @@
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"code/type/narrowing/modules/is-json/is-json.module.code.ts"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"code/type/narrowing/modules/json-schema/json-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}
-{"propertySlug":"import","fileName":"json-value.module.code.ts","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.code.ts"}
-{"propertySlug":"import","fileName":"json-value.module.code.ts","path":"infrastructure/inference/run/modules/persist-media/persist-media.module.code.ts"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"page/access/modules/create/create.module.code.ts"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"page/access/modules/cursor/cursor.module.code.ts"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"page/access/modules/file-narrow/file-narrow.module.code.ts"}

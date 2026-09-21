@@ -4,7 +4,7 @@ export const persistAudio = {
   id: "01a0685d-4b35-7012-8f89-7a4a724dd167",
   type: "page-type/module",
   slug: "persist-audio",
-  definition: "the audio page a voice or music run lands, and the object it is stored under",
+  definition: "the audio page a voice or music run lands",
   code: "ts",
   decisions: [
     {
@@ -13,16 +13,15 @@ export const persistAudio = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A music run is recorded as made by ace-step whatever service ran that run.",
+      statement: "A sound is landed the one way every writer of a sound lands one.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An object store the environment has not configured is raised rather than skipped.",
+      statement: "A sound states the service, the operation, the model and the words said.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The object put is pushed into the caller's `done`.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here names an object store.",
     },
   ],
 } as const satisfies Module
