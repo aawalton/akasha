@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/git-transport/git-transport.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/grafana/grafana.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/headscale/headscale.service-cluster.ts"}
+{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/innworld-web/innworld-web.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/kube-state-metrics/kube-state-metrics.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/loki/loki.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/node-exporter-daemonset/node-exporter-daemonset.service-cluster.ts"}

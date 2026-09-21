@@ -5,4 +5,5 @@ export const wanderingInnWiki = {
   type: "page-type/domain",
   slug: "wandering-inn-wiki",
   definition: "a fan wiki covering everything in The Wandering Inn",
+  parts: ["router-app/wandering-inn-wiki-web"],
 } as const satisfies Domain

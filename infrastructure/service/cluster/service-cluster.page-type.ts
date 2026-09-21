@@ -64,6 +64,7 @@ export const serviceCluster = {
     "text-property/resource-name",
     "text-property/service-cluster-schedule",
     "service-cluster/alanwalton-requests",
+    "service-cluster/innworld-web",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },

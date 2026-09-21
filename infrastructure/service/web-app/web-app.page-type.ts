@@ -24,6 +24,7 @@ export const webApp = {
     "web-app/smilingjenny-web",
     "web-app/temper-web",
     "web-app/alanwalton-requests-web",
+    "web-app/innworld-web",
   ],
   properties: [
     { pageProperty: "text-property/source-directory", required: true, many: false },

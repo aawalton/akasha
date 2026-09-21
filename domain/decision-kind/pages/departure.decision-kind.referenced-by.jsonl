@@ -3339,6 +3339,8 @@
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-sign-in/jenny-sign-in.route.ts","id":"01a08823-9dc2-7243-8e1c-b4c0979fbb10"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.ts","id":"01a07c5d-9ae4-79ac-8807-7f63c08e44df"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts","id":"01a08bee-4262-784b-b397-8a5a0ad37433"}
+{"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.ts","id":"01a0c5ec-1abc-79c2-a38d-b2db427f7588"}
+{"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/wandering-inn-wiki-web.router-app.ts","id":"01a0c5eb-fefb-782b-b6d3-6a775c512d24"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/audit-record-schema/audit-record-schema.module.ts","id":"01a05b71-e543-7988-b1b1-86b89ad98708"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts","id":"01a05b71-e543-7506-a57c-cc05b4aa56aa"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/entity-schema/entity-schema.module.ts","id":"01a05b71-e543-79e4-8728-cee11630d9ab"}

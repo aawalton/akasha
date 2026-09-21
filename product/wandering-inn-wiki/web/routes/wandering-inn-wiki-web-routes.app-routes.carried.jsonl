@@ -1,0 +1,5 @@
+{"definition":"the routes innworld.wiki serves"}
+{"id":"01a0c5ea-f061-7ff4-b922-0adaabd36afe"}
+{"parts":["route/innworld-api-health","route/innworld-home"]}
+{"slug":"wandering-inn-wiki-web-routes"}
+{"type":"page-type/app-routes"}
