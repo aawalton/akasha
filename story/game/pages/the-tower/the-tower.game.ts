@@ -15,7 +15,6 @@ export const theTower = {
   genre: ["litrpg"],
   displayConfig: "json",
   gmContext: "json",
-  rulebook: "json",
   resolutionMechanism: "json",
   turns: "jsonl",
   entities: "jsonl",
