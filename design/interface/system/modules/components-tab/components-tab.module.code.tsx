@@ -21,7 +21,12 @@ import {
   ToggleGroupPanel,
   TogglePanel,
 } from "akasha/design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx"
-import { ComponentsInputCompositePanels } from "akasha/design/interface/system/modules/components-input-composite-panels/components-input-composite-panels.module.code.tsx"
+import {
+  EditableBadgeNumberPanel,
+  InlineEditableTextPanel,
+  InputGroupPanel,
+  InputOTPPanel,
+} from "akasha/design/interface/system/modules/components-input-composite-panels/components-input-composite-panels.module.code.tsx"
 import {
   InputPanelCardPanel,
   InputsPanel,
@@ -103,7 +108,10 @@ export function ComponentsTabContent() {
           <HoverCardPanel />
           <AlertDialogPanel />
           <DrawerPanel />
-          <ComponentsInputCompositePanels />
+          <InputGroupPanel />
+          <InputOTPPanel />
+          <InlineEditableTextPanel />
+          <EditableBadgeNumberPanel />
           <ComponentsSelectionPanels />
           <ComponentsSortFilterPanels />
           <ComponentsItemDisplayPanels />
