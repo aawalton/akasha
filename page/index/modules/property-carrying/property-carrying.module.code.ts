@@ -299,7 +299,7 @@ function namedBySlug(given: Kinded, under: string): ReadonlyMap<string, readonly
   return made
 }
 
-function typesByOf(given: Facing): (named: string) => ReadonlySet<string> {
+export function typesByOf(given: Facing): (named: string) => ReadonlySet<string> {
   return given.typesCarrying ?? ((named: string) => typesIn(given.carryingOf(named)))
 }
 
