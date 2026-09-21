@@ -36,7 +36,7 @@ export const gameMechanic = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing a mechanic's code reaches lies outside the values handed in.",
+      statement: "Nothing a mechanic reads lies outside the values handed in.",
     },
   ],
   types: "ts",
