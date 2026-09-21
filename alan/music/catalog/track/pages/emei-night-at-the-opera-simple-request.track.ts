@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const emeiNightAtTheOperaSimpleRequest = {
+  id: "01a0c43e-7123-7453-9321-c8e39e6f8b00",
+  type: "page-type/track",
+  slug: "emei-night-at-the-opera-simple-request",
+  ownLength: 3.81975,
+  ownProgress: 0,
+  partOfCollections: ["release/emei-night-at-the-opera"],
+  position: 5,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2qMXHqR78AghFekIyXExCC",
+      externalLink: "https://open.spotify.com/track/2qMXHqR78AghFekIyXExCC",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Simple Request",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackKey: "simplerequest|7E2aQQjErJocovYFjYLzWU|229185",
+  song: "song/emei-simple-request",
+} as const satisfies Track

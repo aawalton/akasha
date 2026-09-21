@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const emeiEndOfAnEraThatGirl = {
+  id: "01a0c43e-7d2a-7205-a4d7-606d43556b58",
+  type: "page-type/track",
+  slug: "emei-end-of-an-era-that-girl",
+  ownLength: 2.3404333333333334,
+  ownProgress: 0,
+  partOfCollections: ["release/emei-end-of-an-era"],
+  position: 5,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1PYPduG8hZWr0gk32K1Hdo",
+      externalLink: "https://open.spotify.com/track/1PYPduG8hZWr0gk32K1Hdo",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "That Girl",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackKey: "thatgirl|7E2aQQjErJocovYFjYLzWU|140426",
+  song: "song/emei-that-girl",
+} as const satisfies Track

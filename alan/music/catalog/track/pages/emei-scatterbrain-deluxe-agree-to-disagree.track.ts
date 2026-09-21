@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const emeiScatterbrainDeluxeAgreeToDisagree = {
+  id: "01a0c43e-747f-7899-bda1-68b2e7932343",
+  type: "page-type/track",
+  slug: "emei-scatterbrain-deluxe-agree-to-disagree",
+  ownLength: 2.371783333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/emei-scatterbrain-deluxe"],
+  position: 8,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4oD9gB11wTctdCMMzmuZWH",
+      externalLink: "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Agree to Disagree",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackKey: "agreetodisagree|7E2aQQjErJocovYFjYLzWU|142307",
+  song: "song/emei-agree-to-disagree",
+} as const satisfies Track

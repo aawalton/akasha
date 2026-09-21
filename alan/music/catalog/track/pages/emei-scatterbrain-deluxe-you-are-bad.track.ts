@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const emeiScatterbrainDeluxeYouAreBad = {
+  id: "01a0c43e-74c5-7d2e-b72b-331f68918952",
+  type: "page-type/track",
+  slug: "emei-scatterbrain-deluxe-you-are-bad",
+  ownLength: 2.3119,
+  ownProgress: 0,
+  partOfCollections: ["release/emei-scatterbrain-deluxe"],
+  position: 9,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6tSSghRWA2iOW4jGXSttwX",
+      externalLink: "https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "You Are Bad",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackKey: "youarebad|7E2aQQjErJocovYFjYLzWU|138714",
+  song: "song/emei-you-are-bad",
+} as const satisfies Track

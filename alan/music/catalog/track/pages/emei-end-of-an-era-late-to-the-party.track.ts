@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const emeiEndOfAnEraLateToTheParty = {
+  id: "01a0c43e-7c25-7d6c-b0f7-06812e8eab6f",
+  type: "page-type/track",
+  slug: "emei-end-of-an-era-late-to-the-party",
+  ownLength: 2.952933333333333,
+  ownProgress: 0,
+  partOfCollections: ["release/emei-end-of-an-era"],
+  position: 1,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6mosJ1QPOVKKSI95ApkWXz",
+      externalLink: "https://open.spotify.com/track/6mosJ1QPOVKKSI95ApkWXz",
+      lastSyncedAt: "2026-09-21",
+    },
+  ],
+  title: "Late to the Party",
+  trackType: "studio",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackKey: "latetotheparty|7E2aQQjErJocovYFjYLzWU|177176",
+  song: "song/emei-late-to-the-party",
+} as const satisfies Track
