@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/crafting-addon/temper-crafting-addon.temper-addon.ts"}
-{"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/errors-addon/temper-errors-addon.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/housing-addon/temper-housing-addon.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/interface-addon/temper-interface-addon.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/items-addon/temper-items-addon.temper-addon.ts"}
@@ -13,6 +12,7 @@
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/collections/temper-addon-collections.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts"}
+{"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/errors/temper-addon-errors.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/events/temper-addon-events.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/hud/temper-addon-hud.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-addon-keybinds/temper-lib-addon-keybinds.temper-addon.ts"}

@@ -53,7 +53,6 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-slash-command/writ-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-smith-parser-ops/writ-smith-parser-ops.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-smith-schema/writ-smith-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-comboboxes/housing-comboboxes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-init/housing-init.module.code.ts"}
@@ -273,6 +272,7 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-events/companions-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-overview-rapport/companions-overview-rapport.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-progress/companions-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/errors/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-data/next-boss-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-events/next-boss-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-gui/next-boss-gui.module.code.ts"}

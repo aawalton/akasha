@@ -3404,13 +3404,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/modules/potion-controls-ingredients/potion-controls-ingredients.module.ts","id":"01a08e6b-e041-7bef-ba7a-afd8c380848d"}
 {"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/modules/writ-i18n/writ-i18n.module.ts","id":"01a061c7-e896-7e6c-9bf8-02b9e70effd6"}
 {"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/temper-crafting-addon.temper-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}
-{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
-{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-entry/errors-addon-entry.module.ts","id":"01a060d8-091a-7ce1-8550-de2e11a20429"}
-{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
-{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
-{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-record/errors-addon-record.module.ts","id":"01a060d8-0919-792d-bef8-62245cc5dac8"}
-{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-traceback/errors-addon-traceback.module.ts","id":"01a060d8-0918-794b-b5f8-4d8440ca2d4b"}
-{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/temper-errors-addon.temper-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-addon-names/housing-addon-names.module.ts","id":"01a06113-b7cc-7d40-b7b2-0b20ea198305"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-build-house-tab/housing-build-house-tab.module.ts","id":"01a06128-d5c3-7317-b94a-8a7fbeb939ac"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-build-library-tab/housing-build-library-tab.module.ts","id":"01a06128-d5c4-74dd-a2f6-6194d82b43c4"}
@@ -3806,6 +3799,13 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-summary-refresh/companions-summary-refresh.module.ts","id":"01a08871-6a01-7c73-b5a1-f0397f9ff734"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-target-build-input/companions-target-build-input.module.ts","id":"01a0611d-84e6-77f3-8e05-8b4ff7570c86"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-entry/errors-addon-entry.module.ts","id":"01a060d8-091a-7ce1-8550-de2e11a20429"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-record/errors-addon-record.module.ts","id":"01a060d8-0919-792d-bef8-62245cc5dac8"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-traceback/errors-addon-traceback.module.ts","id":"01a060d8-0918-794b-b5f8-4d8440ca2d4b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/errors/temper-addon-errors.temper-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/modules/events-addon-entry/events-addon-entry.module.ts","id":"01a06157-835b-7e24-b78f-3cc7b42cbcf1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/modules/events-addon-global/events-addon-global.module.ts","id":"01a06157-8355-7167-94a2-afe46cd04bb8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/modules/events-addon-loaded/events-addon-loaded.module.ts","id":"01a06157-835a-79f6-9dfd-17774a525329"}

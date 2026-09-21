@@ -39,7 +39,6 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-prov-data/writ-prov-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-tooltip-text/writ-tooltip-text.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-tooltip/writ-tooltip.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-init/housing-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-porting/housing-porting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-slash/housing-slash.module.code.ts"}
@@ -156,6 +155,7 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/errors/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-events/next-boss-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-item-knowledge/knowledge-item-knowledge.module.code.ts"}

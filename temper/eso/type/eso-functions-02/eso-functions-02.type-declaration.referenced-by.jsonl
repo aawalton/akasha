@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-reagents/potion-reagents.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-parser-dispatch/writ-parser-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-slash-command/writ-slash-command.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-library-lookup/housing-library-lookup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-porting/housing-porting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-slash/housing-slash.module.code.ts"}
@@ -121,6 +120,7 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-panel/companions-summary-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/errors/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init-chardata/knowledge-init-chardata.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}

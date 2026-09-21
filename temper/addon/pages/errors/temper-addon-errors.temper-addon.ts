@@ -1,9 +1,9 @@
 import type { TemperAddon } from "akasha/temper/addon/temper-addon.page-type.types.ts"
 
-export const temperErrorsAddon = {
+export const temperAddonErrors = {
   id: "01a060d8-091b-75bc-9d03-8347c2e81d2f",
   type: "page-type/temper-addon",
-  slug: "temper-errors-addon",
+  slug: "temper-addon-errors",
   definition: "the add-on that records every Lua error the game raises into saved variables",
 
   addonManifest: "json",

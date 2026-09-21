@@ -391,8 +391,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/temper-community-addon.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
 {"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/modules/craft-defined/craft-defined.module.ts","id":"01a08de1-2f29-7d20-a437-b66d1cb3ba33"}
 {"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/temper-crafting-addon.temper-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}
-{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
-{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-constants/housing-constants.module.ts","id":"01a06113-b7cd-70cb-83dd-840a25b71d13"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-favorites-helpers/housing-favorites-helpers.module.ts","id":"01a06128-d5cc-76f2-8086-9f1e6d3a27b9"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-library-data-eu-1/housing-library-data-eu-1.module.ts","id":"01a06113-b7cf-7517-a675-86cd3606cdca"}
@@ -565,6 +563,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-id-map/companions-id-map.module.ts","id":"01a0611d-84dd-7991-bda4-54827db48eac"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-skill-map/companions-skill-map.module.ts","id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/errors/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/modules/next-boss-constants/next-boss-constants.module.ts","id":"01a06157-8356-7a6f-9f7c-8822d3c91088"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/modules/next-boss-data/next-boss-data.module.ts","id":"01a06157-8358-771d-9755-608609075ff5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/events/modules/next-boss-events/next-boss-events.module.ts","id":"01a06157-8359-7b61-8020-3f4072b058a7"}

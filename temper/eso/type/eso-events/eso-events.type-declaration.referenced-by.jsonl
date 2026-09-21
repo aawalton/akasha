@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-events/potion-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-init/potion-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-main-menu/potion-main-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-chat-capture/housing-chat-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-init/housing-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/assistant-entry/assistant-entry.module.code.ts"}
@@ -72,6 +71,7 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-interaction-state/companion-qol-interaction-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-events/companions-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/errors/modules/errors-addon-hooks/errors-addon-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-events/next-boss-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-init/next-boss-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-entry/hud-addon-entry.module.code.ts"}
