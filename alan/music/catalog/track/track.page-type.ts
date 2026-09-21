@@ -65,6 +65,15 @@ export const track = {
       decisionKind: "decision-kind/departure",
       statement: "A track states the id Spotify gives it on each release carrying that track.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track carries Alan's grade, because a track is what Alan can hear.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "A track carries no prose, because what Alan says of a piece is said of its song or its artist.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
