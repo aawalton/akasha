@@ -242,6 +242,11 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A property stating neither takes both from the nearest page type above it stating them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name that is no page type is shaped as nothing rather than refused.",
     },
     {

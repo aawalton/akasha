@@ -142,12 +142,25 @@ function memberTypesIn(page: Value | undefined): readonly string[] {
   return found
 }
 
+const VALUES = "values"
+
+const OPTION_COLORS = "optionColors"
+
+function statedBy(climbed: readonly Value[], key: string): unknown {
+  for (const one of climbed) {
+    const held = one[key]
+    if (held !== undefined && held !== null) return held
+  }
+  return null
+}
+
 function declaredOf(
   one: Carried,
   page: Value | undefined,
   on: string,
   drawnBy: readonly string[],
-  memberDrawnBy: readonly (readonly string[])[]
+  memberDrawnBy: readonly (readonly string[])[],
+  climbed: readonly Value[]
 ): Declared {
   return {
     key: one.propertySlug,
@@ -157,8 +170,9 @@ function declaredOf(
     title: titledAs(one.propertySlug),
     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
     on,
-    values: page === undefined ? null : (page["values"] ?? null),
-    optionColors: page === undefined ? null : (page["optionColors"] ?? null),
+    values: page === undefined ? null : (page[VALUES] ?? statedBy(climbed, VALUES)),
+    optionColors:
+      page === undefined ? null : (page[OPTION_COLORS] ?? statedBy(climbed, OPTION_COLORS)),
 
     targetSlug: page === undefined ? null : slugAt(page, TARGET_PAGE_TYPE),
     slugProperty: one.propertySlug,
@@ -187,7 +201,8 @@ export function shaping(root: string, pageTypeSlug: string): Shaped {
         page,
         pageTypeSlug,
         drawnFor(climb, one.pageTypeSlug),
-        memberTypesIn(page).map((slug) => drawnFor(climb, slug))
+        memberTypesIn(page).map((slug) => drawnFor(climb, slug)),
+        climb(one.pageTypeSlug)
       )
     })
     return {
