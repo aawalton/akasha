@@ -172,6 +172,11 @@ export const renameFilePage = {
       decisionKind: "decision-kind/gap",
       statement: "One module reads the files beside a page both here and in the move of a page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The old slug this rename left written elsewhere is named rather than passed over.",
+    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanical

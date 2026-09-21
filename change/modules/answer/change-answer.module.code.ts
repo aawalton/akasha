@@ -31,6 +31,12 @@ export type Expanded = { readonly left: Leaving } | { readonly refused: string }
 export type Answer = {
   readonly edits: readonly FileChange[]
   readonly refused: string | null
+  readonly told?: readonly string[]
+}
+
+export function telling(said: Answer, lines: readonly string[]): Answer {
+  if (lines.length === 0) return said
+  return { ...said, told: [...(said.told ?? []), ...lines] }
 }
 
 export function refusing(why: string): Answer {
@@ -302,11 +308,13 @@ export function replayed(said: Said, textOf: BodyOf): Replayed | { readonly refu
 
 export function gathered(answers: readonly Answer[]): Answer {
   const edits: FileChange[] = []
+  const lines: string[] = []
   for (const one of answers) {
     if (one.refused !== null) return one
     edits.push(...one.edits)
+    if (one.told !== undefined) lines.push(...one.told)
   }
-  return { edits, refused: null }
+  return telling({ edits, refused: null }, lines)
 }
 
 export type Reading = {

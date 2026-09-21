@@ -8,6 +8,7 @@ import {
   type Splice,
   splicedIn,
   stating,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { carriedBy } from "akasha/change/modules/file-carrying/file-carrying.module.code.ts"
 import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
@@ -29,6 +30,7 @@ import {
   signatureRespelled,
 } from "akasha/change/modules/property-signature-renaming/property-signature-renaming.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { survivingSaid } from "akasha/change/modules/spelling-surviving/spelling-surviving.module.code.ts"
 import {
   exportedAs,
   typedAs,
@@ -307,7 +309,10 @@ export function renamePagePropertyPropertySlug(world: World, given: Asked): Answ
     edits.push(...carried)
   }
   if (!whole && edits.length === 0) return refusing(spelledNothing(given.at, key, now))
-  return stating(edits)
+  const said = stating(edits)
+  const over = bodiedOver(world, edits)
+  if (typeof over === "string") return said
+  return telling(said, survivingSaid(over, read.was))
 }
 
 export function runChange(world: World, given: Asked): Promise<Answer> {

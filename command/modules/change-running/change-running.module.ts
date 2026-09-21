@@ -158,6 +158,10 @@ export const changeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run says what its change told beside the edits that run appended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run whose change answered no edit says that change answered none.",
     },
     {

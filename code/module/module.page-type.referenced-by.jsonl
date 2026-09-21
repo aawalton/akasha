@@ -923,6 +923,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/shadow/change-shadow.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/slug-renaming/slug-renaming.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/spelling-surviving/spelling-surviving.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/target-kinding/target-kinding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/target-narrowing/target-narrowing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/tree-searching/tree-searching.module.ts"}

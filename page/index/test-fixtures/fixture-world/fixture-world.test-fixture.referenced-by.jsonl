@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/shadow/change-shadow.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.test.ts"}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/spelling-surviving/spelling-surviving.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/tree-searching/tree-searching.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/runner/modules/change-loading/change-loading.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.test.ts"}

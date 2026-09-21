@@ -690,6 +690,7 @@
 {"propertySlug":"decision-kind","path":"change/modules/shadow-tree/change-shadow-tree.module.ts","id":"01a08e11-1e9d-7287-aea2-7bdc8d2fd844"}
 {"propertySlug":"decision-kind","path":"change/modules/shadow/change-shadow.module.ts","id":"01a07744-1311-740c-acbf-9e0092840193"}
 {"propertySlug":"decision-kind","path":"change/modules/slug-renaming/slug-renaming.module.ts","id":"01a09c61-7a20-7e53-a461-78bf666a426e"}
+{"propertySlug":"decision-kind","path":"change/modules/spelling-surviving/spelling-surviving.module.ts","id":"01a0c584-8f66-73f6-846d-53c923e47e2a"}
 {"propertySlug":"decision-kind","path":"change/modules/target-kinding/target-kinding.module.ts","id":"01a08251-3c27-7aaa-b035-a2345ee394a0"}
 {"propertySlug":"decision-kind","path":"change/modules/target-narrowing/target-narrowing.module.ts","id":"01a0825b-c6ad-78e4-9391-698b96bafb0c"}
 {"propertySlug":"decision-kind","path":"change/modules/tree-searching/tree-searching.module.ts","id":"01a0a06a-7815-7496-bab7-bcf7151d8cce"}

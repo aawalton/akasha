@@ -158,6 +158,11 @@ export const moveFolder = {
       decisionKind: "decision-kind/departure",
       statement: "A body that is not text spells no path that moved.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The old folder this move left written elsewhere is named rather than passed over.",
+    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFolder

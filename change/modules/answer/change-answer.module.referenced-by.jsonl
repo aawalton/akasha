@@ -216,6 +216,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/shadow/change-shadow.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.test.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/spelling-surviving/spelling-surviving.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/tree-searching/tree-searching.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/tree-searching/tree-searching.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/value-carrying/value-carrying.module.code.ts"}

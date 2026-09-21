@@ -273,6 +273,7 @@ export function stamped(said: Said, owed: boolean, owing: boolean): Said {
       ...(owing ? {} : { writerOwesReading: false }),
     })),
     refused: said.refused,
+    told: said.told,
   }
 }
 
@@ -310,7 +311,7 @@ export async function appending(
       answer = mistaking(unread)
       return had
     }
-    answer = told(said.edits.map(saidOf).sort())
+    answer = told([...said.edits.map(saidOf).sort(), ...(said.told ?? [])])
     return [...had, ...said.edits]
   })
   if ("why" in kept) return refusedBy([kept.why], OPERATIONAL)

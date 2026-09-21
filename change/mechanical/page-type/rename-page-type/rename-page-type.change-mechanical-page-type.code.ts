@@ -11,6 +11,7 @@ import {
   type Splice,
   splicedIn,
   stating,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { exportRenamed } from "akasha/change/modules/export-renaming/export-renaming.module.code.ts"
 import { carriedBy } from "akasha/change/modules/file-carrying/file-carrying.module.code.ts"
@@ -22,6 +23,7 @@ import {
   typeMoved,
 } from "akasha/change/modules/page-type-renaming/page-type-renaming.module.code.ts"
 import { type World, worldOver } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { survivingSaid } from "akasha/change/modules/spelling-surviving/spelling-surviving.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
@@ -156,7 +158,8 @@ function answeredIn(world: World, given: Asked, was: string): Answer {
   const seen = worldOver(world, before)
   const spelled = renamedOver(seen, spellingsFor(seen, read.lands, was, given.to))
   if (spelled.refused !== null) return spelled
-  return gathered([before, spelled])
+  const said = gathered([before, spelled])
+  return telling(said, survivingSaid(worldOver(seen, spelled), was))
 }
 
 export function renamePageType(world: World, given: Asked): Answer {
