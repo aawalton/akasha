@@ -45,7 +45,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "An apply spends its own processor on the change rather than on reading the checkout.",
       workingMemory:
-        "An apply of one path is 3.82s of its own processor and 0.94s of children, against 5.70s and 3.21s this morning, and makes 93,764 read calls over 125 MiB where it made 935,132 over 313 MiB. The checks are 1.50s of that and the tests 1.20s. `bodiesFor` was 765ms of a 2.77s profile, because `body-loading` dropped every cached module under the root before and after each of the forty group bodies it loads.",
+        "An apply of one path is 2.10s of wall and 2.74s of processor, from 4.53s and 8.69s, and makes 64,000 read calls where it made 935,132. The checks are 1.43s of that, and four of the forty-six are 89% of them: typecheck, folder-matches-a-shape, extension-host-reaches-no-bun-code and file-length. `claimedUp` lists every page of a type to learn which page claims one folder.",
     },
   ],
   constraints: [
