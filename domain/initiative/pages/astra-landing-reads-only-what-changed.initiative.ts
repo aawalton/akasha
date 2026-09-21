@@ -10,7 +10,7 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "A landing reads only what the paths its change names reach.",
       workingMemory:
-        "A page's id is filed under its last two characters and nowhere else, so `.index/page/id` is 256 folders of about 300 entries rather than one of 77,326, and git tracks 383,122 files rather than 460,339. The hold is 50.4ms on a landing that adds a page. `filedAt` in `index-surface.module.code.ts` is the one place that path is worked out, so reader, writer and fixtures agree.",
+        "A page's id is filed under its last two characters and nowhere else, so `.index/page/id` is 256 folders of about 300 entries rather than one of 77,326, and git tracks 383,122 files rather than 460,339. The hold is 50.4ms on a landing that adds a page, and a one-line edit to one page is 5.65s end to end, 1.21s of it the change and 4.25s the apply. `filedAt` in `index-surface.module.code.ts` is the one place that path is worked out, so reader, writer and fixtures agree.",
     },
 
     {
