@@ -8,5 +8,5 @@ export const proofICanDoThings = {
   definition: "the safety I get from evidence that I am capable",
   parents: ["all-about-alan-topic/safety-bar"],
   settled:
-    "It comes from pointing at something I actually did, never from feeling better about it.",
+    "It comes from pointing at something I actually did, never from feeling better about it.\n\nIt closes a loop. A piece of work comes off, I can check for myself that it came off, my safety goes up, and the higher safety pays for the next one.\n\nThat loop is what made programming stick the moment it came back within reach.",
 } as const satisfies AllAboutAlanTopic
