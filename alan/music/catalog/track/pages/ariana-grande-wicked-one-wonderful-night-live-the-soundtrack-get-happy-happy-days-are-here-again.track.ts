@@ -4,6 +4,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackGetHappyHappyDa
   id: "01a0a6c5-0d34-7284-8c09-81dc59e85c39",
   type: "page-type/track",
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-get-happy-happy-days-are-here-again",
+  grade: "C",
   ownLength: 3.3215,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
