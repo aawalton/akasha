@@ -2,9 +2,9 @@ import type {
   Said,
   Saying,
 } from "akasha/check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.code.ts"
+import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
-  arriving,
   carrying,
   claiming,
   declaring,
@@ -14,6 +14,9 @@ import { speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { astHashesIn } from "akasha/page/index/ast-hash/index-ast-hash.index.code.ts"
+import { reconcile } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 export const CAMEL = `function camel(slug: string): string {
@@ -53,12 +56,17 @@ type Held = {
 export function byRule(held: readonly Held[]): Saying {
   const found = new Map<string, Said[]>()
   for (const one of held) {
-    for (const [place, each] of speltIn(one.path, one.text).entries()) {
+    for (const each of speltIn(one.path, one.text)) {
       const already = found.get(each.rule) ?? []
-      found.set(each.rule, [...already, { path: one.path, place, name: each.name }])
+      found.set(each.rule, [...already, { path: one.path, name: each.name }])
     }
   }
   return (rule) => found.get(rule) ?? []
+}
+
+function hashing(root: string, held: readonly Held[]): undefined {
+  const entries = held.flatMap((one) => astHashesIn(one.path, one.text, root))
+  reconcile(entries, indexIn(root), true)
 }
 
 export function rooted(): string {
@@ -122,7 +130,18 @@ export function bothArriving(root: string): Change {
 export function oneArriving(root: string): Change {
   writing(root, TWO_CODE, EXPORTED_AS)
   claiming(root, TWO_PAGE, `${ID}2`)
-  return arriving(root, { [ONE_PAGE]: pageText("one", "1"), [ONE_CODE]: CAMEL })
+  hashing(root, [{ path: TWO_CODE, text: EXPORTED_AS }])
+  const bodies: Record<string, Uint8Array> = {
+    [ONE_PAGE]: bytesOf(pageText("one", "1")),
+    [ONE_CODE]: bytesOf(CAMEL),
+  }
+  const disk = onDisk(root)
+  return {
+    root,
+    changed: [ONE_PAGE, ONE_CODE],
+    after: (path: string): Uint8Array | null => bodies[path] ?? disk(path),
+    before: (path: string): Uint8Array | null => (path in bodies ? null : disk(path)),
+  }
 }
 
 const ONE_MARKDOWN = "akasha/b/one.md"

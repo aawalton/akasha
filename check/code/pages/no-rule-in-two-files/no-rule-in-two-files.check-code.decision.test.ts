@@ -1,9 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  everySpeltIn,
   reasonsIn,
   refusalsOver,
-  wordOf,
+  sayingOver,
 } from "akasha/check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.code.ts"
 import {
   bothArriving,
@@ -191,36 +190,28 @@ test("a rule spelled inline is not seen, because only a function is read", () =>
   expect(reasonsIn("one.ts", inline, every)).toEqual([])
 })
 
-test("the word looked for is the longest run no language keyword spells", () => {
-  expect(wordOf("$0 => $0 . filter ( $1 => $1 . readonly )")).toBe("filter")
-})
-
-test("a rule spelling nothing but keywords is looked for by its longest run all the same", () => {
-  expect(wordOf("$0 => typeof $0 === undefined")).toBe("undefined")
-})
-
 test("a change with no code file is refused nothing without the index being read", () => {
   const change = unindexed()
   const shadow = shadowAsked(change)
   expect(refusalsOver(change, shadow)).toEqual([])
 })
 
-test("the files a change brings are among those a rule is looked for in", () => {
+test("the files a change brings are among those the index names for a rule", () => {
   const change = bothArriving(rooted())
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  const every = everySpeltIn(change, cast.shadow)
+  const every = sayingOver(cast.shadow)
   const [one] = speltIn(ONE_CODE, CAMEL)
   if (one === undefined) throw new Error("that body spells no rule")
   const said = every(one.rule).map((each) => each.path)
   expect(said.sort()).toEqual([ONE_CODE, TWO_CODE])
 })
 
-test("a rule in a file the change leaves alone is found by searching the tree", () => {
+test("a rule in a file the change leaves alone is answered by the index", () => {
   const change = oneArriving(rooted())
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  const every = everySpeltIn(change, cast.shadow)
+  const every = sayingOver(cast.shadow)
   const [one] = speltIn(ONE_CODE, CAMEL)
   if (one === undefined) throw new Error("that body spells no rule")
   const said = every(one.rule).map((each) => each.path)

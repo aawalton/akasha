@@ -95,16 +95,19 @@ export const noRuleInTwoFiles = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A rule a changed file spells is looked for in the files a search of the tree names as holding it.",
+      statement: "A rule a changed file spells is looked for under the key that rule condenses to.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every run reads each file's rules out of that file rather than out of a filing.",
+      statement: "The index answers which files spell a rule, so no run searches the tree.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No index answers what a file spells.",
+      decisionKind: "decision-kind/departure",
+      statement: "A run reads the rules of the files the change carries and of no others.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The file a refusal names is read out of the index rather than out of that file.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -161,41 +164,11 @@ export const noRuleInTwoFiles = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The word looked for is the longest run of a rule no language keyword spells.",
+      statement: "What this check costs rises with the change rather than with the repository.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A rule spelling nothing else is looked for by its longest run all the same.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Which runs a keyword spells is read from the compiler rather than from a list.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run written for a bound name is no word to look for.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run holding a line break is no word to look for either.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Any file whose function spells that rule holds that word, so the search leaves none out.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The word is matched as written letters rather than as a pattern.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The files the change carries are read beside the files the search names.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement:
-        "How common a word is in the tree is counted by nothing, so a common name narrows little.",
+      decisionKind: "decision-kind/constraint",
+      statement: "A rule this check refuses over is one the index was filed with beforehand.",
     },
   ],
   check: { maxCpuSeconds: 30 },
