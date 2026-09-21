@@ -22,7 +22,6 @@ export const provisionedFile = {
     "provisioned-file/profile",
     "provisioned-file/seats-slice",
     "provisioned-file/smallest-audio-chunk",
-    "provisioned-file/spotify-audio-chunk",
     "provisioned-file/swap-used-limit",
     "provisioned-file/swapfile-unit",
     "provisioned-file/tmux-config",
