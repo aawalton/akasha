@@ -139,42 +139,51 @@ export function heldBeside(
   return false
 }
 
+const HERE = "."
+
 function foldersNamed(
   naming: Iterable<Naming>,
   wanted: (value: Value) => boolean,
-  carriedBy: (named: string) => Carried
+  carriedBy: (named: string) => Carried,
+  name: string
 ): ReadonlySet<string> {
   const made = new Set<string>()
   for (const one of naming) {
     const value = one.value
-    if (value === null || !wanted(value)) continue
-    const folder = value[FOLDER_NAME]
-    if (typeof folder !== "string") continue
+    if (value === null || !wanted(value) || value[FOLDER_NAME] !== name) continue
     const said = partedIn(one.path)
     if (said === null || said.sections.length > 0) continue
     const held = carriedBy(`${said.pageType}/${said.slug}`)
     if ("refused" in held) continue
-    for (const two of held.carrying) made.add(join(dirname(two.path), folder))
+    for (const two of held.carrying) made.add(join(dirname(two.path), name))
   }
   return made
 }
 
-const NAMED_FOLDERS = new WeakMap<object, Map<(value: Value) => boolean, ReadonlySet<string>>>()
+type Foldering = Map<(value: Value) => boolean, Map<string, ReadonlySet<string>>>
+
+const NAMED_FOLDERS = new WeakMap<object, Foldering>()
 
 function foldersNamedFor(
   naming: Iterable<Naming>,
   wanted: (value: Value) => boolean,
-  carriedBy: (named: string) => Carried
+  carriedBy: (named: string) => Carried,
+  name: string
 ): ReadonlySet<string> {
   let held = NAMED_FOLDERS.get(naming)
   if (held === undefined) {
     held = new Map()
     NAMED_FOLDERS.set(naming, held)
   }
-  const found = held.get(wanted)
+  let each = held.get(wanted)
+  if (each === undefined) {
+    each = new Map()
+    held.set(wanted, each)
+  }
+  const found = each.get(name)
   if (found !== undefined) return found
-  const made = foldersNamed(naming, wanted, carriedBy)
-  held.set(wanted, made)
+  const made = foldersNamed(naming, wanted, carriedBy, name)
+  each.set(name, made)
   return made
 }
 
@@ -184,12 +193,12 @@ export function heldUnder(
   wanted: (value: Value) => boolean,
   carriedBy: (named: string) => Carried
 ): boolean {
-  const folders = foldersNamedFor(naming, wanted, carriedBy)
-  if (folders.size === 0) return false
   let at = dirname(path)
   let up = dirname(at)
   while (at !== up) {
-    if (folders.has(at)) return true
+    for (const name of [basename(at), HERE]) {
+      if (foldersNamedFor(naming, wanted, carriedBy, name).has(at)) return true
+    }
     at = up
     up = dirname(at)
   }
@@ -444,22 +453,12 @@ export function namingFor(given: Kinded): readonly Naming[] {
   return made
 }
 
-function foldersUnder(given: Kinded): readonly Naming[] {
-  const found: Naming[] = []
-  for (const kind of given.kindsUnder(NAMED_FOLDER_PROPERTY)) {
-    for (const listed of given.everyOfType(kind)) {
-      found.push({ path: listed.path, value: given.valueAt(listed.path) })
-    }
-  }
-  return found
-}
-
 const FOLDERS = new WeakMap<Kinded, readonly Naming[]>()
 
 export function foldersFor(given: Kinded): readonly Naming[] {
   const found = FOLDERS.get(given)
   if (found !== undefined) return found
-  const made = foldersUnder(given)
+  const made = namingUnder(given, NAMED_FOLDER_PROPERTY)
   FOLDERS.set(given, made)
   return made
 }

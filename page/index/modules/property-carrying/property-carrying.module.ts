@@ -105,7 +105,7 @@ export const propertyCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which folders one list of folder properties names is worked out once for it.",
+      statement: "Which folders one name reaches is worked out once for the list naming it.",
     },
     {
       decisionKind: "decision-kind/departure",
