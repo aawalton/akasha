@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theHopeThatItGetsBetter = {
+  id: "01a0c5a4-6f80-7f42-a9cc-156a579c9070",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-hope-that-it-gets-better",
+  title: "The Hope That It Gets Better",
+  definition: "the one thing left carrying weight on the question, and what it actually rests on",
+  parents: ["all-about-alan-topic/whether-i-stay"],
+  related: ["all-about-alan-topic/the-six-week-wave", "all-about-alan-topic/the-year-i-am-running"],
+  settled:
+    "Two things were deferred and they carry all the remaining weight: whether the religious mandate holds, which I put at about even and route through reason rather than feeling, and the hope that it gets better.\n\nThe hope wears three faces, more good states, a higher alignment ceiling, and a survivable crash cycle, but one mechanism runs under all three: capacity.\n\nThe first two couple the good to the catastrophe, because the route to more good runs through the crash. The third breaks the coupling. If the fall is not lethal, reaching for good is not reaching toward the hard line.\n\nStated exactly, the hope is that rising capacity lifts the base safety floor faster than the crests deepen.\n\nOne screen on myself: the intermittent good runs on a variable schedule, the hardest kind to extinguish, so part of what feels like hope may be the schedule talking rather than a forecast.",
+} as const satisfies AllAboutAlanTopic
