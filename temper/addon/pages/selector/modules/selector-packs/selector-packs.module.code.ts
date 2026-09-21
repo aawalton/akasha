@@ -1,3 +1,4 @@
+import { reloadUI } from "akasha/temper/addon/modules/reload-ui/reload-ui.module.code.ts"
 import {
   listAddons,
   requestPrioritySave,
@@ -18,7 +19,6 @@ import {
   setCurrentSelectedPack,
 } from "akasha/temper/addon/pages/selector/modules/selector-saved-variables/selector-saved-variables.module.code.ts"
 import type { Pack } from "akasha/temper/addon/pages/selector/modules/selector-types/selector-types.module.code.ts"
-import { reloadUI } from "akasha/temper/modules/reload-ui/reload-ui.module.code.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"

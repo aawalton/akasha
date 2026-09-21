@@ -17,7 +17,6 @@ export const temper = {
     "module/guild-store-poster",
     "module/movable-window",
     "module/perf-trace",
-    "module/reload-ui",
     "module/unpack-color",
     "page-type/temper-thing",
     "router-app/temper-web",

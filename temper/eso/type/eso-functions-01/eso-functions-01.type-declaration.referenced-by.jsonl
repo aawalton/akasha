@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-codec/lccc-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-color/lccc-color.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/modules/reload-ui/reload-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-constants/leads-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
@@ -487,7 +488,6 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-start/skyshards-start.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-ui-strings/skyshards-ui-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/modules/perf-trace/perf-trace.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/modules/reload-ui/reload-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/player/character/build/bit-codec/modules/bit-writer/bit-writer.module.code.ts"}

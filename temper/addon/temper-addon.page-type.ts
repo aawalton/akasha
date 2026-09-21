@@ -78,6 +78,7 @@ export const temperAddon = {
     "temper-addon/temper-lib-table-functions",
     "temper-addon/temper-lib-treasure",
     "temper-addon/temper-lib-zone",
+    "module/reload-ui",
   ],
   extends: ["page-type/service"],
   properties: [

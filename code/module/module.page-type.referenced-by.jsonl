@@ -2700,6 +2700,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/lccc/modules/lccc/lccc.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/log/modules/addon-log/addon-log.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/log/modules/library-logger/library-logger.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/modules/reload-ui/reload-ui.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/narrow/modules/is-callback/is-callback.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/narrow/modules/is-table/is-table.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/narrow/modules/lua-string-contains/lua-string-contains.module.ts"}
@@ -5543,7 +5544,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/guild-store-poster/guild-store-poster.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/movable-window/movable-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/reload-ui/reload-ui.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts"}

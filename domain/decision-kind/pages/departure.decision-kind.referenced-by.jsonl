@@ -3429,6 +3429,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/log/modules/addon-log/addon-log.module.ts","id":"01a08e26-c147-7c8e-baea-f2cad9ded7c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
 {"propertySlug":"decision-kind","path":"temper/addon/log/temper-addon-log.domain.ts","id":"01a08e26-d48c-7a39-8610-6270e3e33c8f"}
+{"propertySlug":"decision-kind","path":"temper/addon/modules/reload-ui/reload-ui.module.ts","id":"01a090b2-4c81-73e4-85d7-24204ef52dcd"}
 {"propertySlug":"decision-kind","path":"temper/addon/narrow/modules/is-table/is-table.module.ts","id":"01a08e01-6b05-7023-a79d-f39cedee5996"}
 {"propertySlug":"decision-kind","path":"temper/addon/narrow/modules/parse-lua-capture/parse-lua-capture.module.ts","id":"01a08e0c-2af7-7ac7-841c-ccaa3d4ee31b"}
 {"propertySlug":"decision-kind","path":"temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.ts","id":"01a060b6-99a2-762f-9fd9-585495c025f4"}
@@ -5039,7 +5040,6 @@
 {"propertySlug":"decision-kind","path":"temper/modules/guild-store-poster/guild-store-poster.module.ts","id":"01a060a9-5d59-7ff2-971b-202f4a680195"}
 {"propertySlug":"decision-kind","path":"temper/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
 {"propertySlug":"decision-kind","path":"temper/modules/perf-trace/perf-trace.module.ts","id":"01a060a9-5d58-7bc3-a680-2ccdb8dd5bf3"}
-{"propertySlug":"decision-kind","path":"temper/modules/reload-ui/reload-ui.module.ts","id":"01a090b2-4c81-73e4-85d7-24204ef52dcd"}
 {"propertySlug":"decision-kind","path":"temper/modules/unpack-color/unpack-color.module.ts","id":"01a090aa-4938-7f89-a924-2a3c86c77dd2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts","id":"01a060b3-77c9-7461-8481-e41383ba9583"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.ts","id":"01a060b3-77ca-7b4f-a569-3dce9d9f75ad"}
