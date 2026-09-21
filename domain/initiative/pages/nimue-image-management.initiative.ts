@@ -8,11 +8,6 @@ export const nimueImageManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "No two images akasha holds are the same bytes.",
-      workingMemory:
-        "Among image pages it holds by construction: a slug is `image-` and the first sixteen hex of the sha256 of the bytes, so a second copy is the same page. Still doubled: the 80 committed PNGs beside persona pages, each byte-identical to an image page, which go once `desktop-wallpaper` and `mobile-wallpaper` are relations to images; and 38 persona covers held again in the object store.",
-    },
-    {
       statement:
         "Every image a deployed reader shows comes from the pages service on the workstation.",
       workingMemory:
