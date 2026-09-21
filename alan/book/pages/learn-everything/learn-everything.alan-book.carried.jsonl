@@ -2,7 +2,7 @@
 {"definition":"how far into the whole of knowledge Ali has read, node by node"}
 {"description":"The whole of knowledge as one outline, and how far I have read into it. Each topic I have opened is a page sitting under the topic it belongs to, holding where my model of it thins, what I have had wrong about it, how it joins to what I already know, and what to take up next. A topic with no page is a topic I have not opened yet."}
 {"id":"01a0659d-311d-7001-b736-ae7c499c3bf3"}
-{"parts":["domain/learn-everything-command","module/seeded-draw","module/topic-tree","page-type/learn-everything-topic","page-type/mastery-level"]}
+{"parts":["module/seeded-draw","module/topic-tree","page-type/learn-everything-topic","page-type/mastery-level"]}
 {"slug":"learn-everything"}
 {"title":"Learn Everything"}
 {"type":"page-type/alan-book"}
