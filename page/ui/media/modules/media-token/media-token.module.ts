@@ -6,4 +6,14 @@ export const mediaToken = {
   slug: "media-token",
   definition: "an expiring HMAC token over a page, medium and variant, minted and checked",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A media token is signed with a key of its own rather than with a site's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A site with no key hands out no token and admits none.",
+    },
+  ],
 } as const satisfies Module

@@ -9,10 +9,10 @@ export type MediaTokenScope = {
   variant: string
 }
 
-const mediaTokenSecretSchema = z.string().default("")
+const mediaTokenSecretShape = z.string().default("")
 
 export function mediaTokenSecret(): string {
-  return mediaTokenSecretSchema.parse(process.env.SUPABASE_JWT_SECRET)
+  return mediaTokenSecretShape.parse(process.env.MEDIA_TOKEN_SECRET)
 }
 
 function signature(scope: MediaTokenScope, exp: number, secret: string): Buffer {
