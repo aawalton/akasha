@@ -1,3 +1,6 @@
+import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-contextmenu-shapes/scrollable-menu-contextmenu-shapes.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+
 export type LsmCastThisVoidControlUnknownAltUnknownString = (
   this: void,
   control: unknown,
