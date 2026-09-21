@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"strength-exercise.page-type.ts","path":"command/pages/fitness/modules/training-week/training-week.module.test.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.ts","path":"command/pages/fitness/next/modules/marking/marking.module.test.ts"}
+{"propertySlug":"import","fileName":"strength-exercise.page-type.ts","path":"command/pages/fitness/next/modules/targeting/targeting.module.test.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.ts","path":"command/pages/fitness/next/modules/warming/warming.module.test.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/ab-crunch-machine/ab-crunch-machine.strength-exercise.ts"}
 {"propertySlug":"import","fileName":"strength-exercise.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/pages/ab-roller/ab-roller.strength-exercise.ts"}

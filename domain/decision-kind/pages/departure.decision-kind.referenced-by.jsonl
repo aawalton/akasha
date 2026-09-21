@@ -2041,13 +2041,15 @@
 {"propertySlug":"decision-kind","path":"command/pages/email/unsubscribe/email-unsubscribe.command.ts","id":"01a06810-cf11-7b83-a5f8-81736bc497fb"}
 {"propertySlug":"decision-kind","path":"command/pages/finding/delete/finding-delete.command.ts","id":"01a0b7a0-c25d-78e0-805d-10b09d6406a2"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/cooldown/fitness-cooldown.command.ts","id":"01a0bab8-8a7a-78db-bb48-a6667b1f8812"}
-{"propertySlug":"decision-kind","path":"command/pages/fitness/cooldown/modules/cooling/cooling.module.ts","id":"01a0bab7-a12a-7864-a9da-d54a152e1852"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/mobility/fitness-mobility.command.ts","id":"01a0b72c-3d76-75eb-92a1-4fc4a0021192"}
+{"propertySlug":"decision-kind","path":"command/pages/fitness/modules/cooling/cooling.module.ts","id":"01a0bab7-a12a-7864-a9da-d54a152e1852"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/modules/kit-loading/kit-loading.module.ts","id":"01a0b746-3ada-7ac2-849e-7cfce758883c"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/modules/training-week/training-week.module.ts","id":"01a0b6ed-9dd8-7ed5-a746-300f4c03dd98"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/fitness-next.command.ts","id":"01a0b6f2-5cf1-7d7f-a0f4-5905b47e64a6"}
+{"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/marking/marking.module.ts","id":"01a0c438-c2c1-742b-8714-757097f73225"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/rotation/rotation.module.ts","id":"01a0bac7-91a1-7dd2-8f33-1dcdddfd5aa5"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/stepping/stepping.module.ts","id":"01a0ba6c-ee3c-7e54-a879-6045758db635"}
+{"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/targeting/targeting.module.ts","id":"01a0c433-c8ac-7807-9834-28647909b51b"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/next/modules/warming/warming.module.ts","id":"01a0b75d-7a11-7470-8520-71da591ec032"}
 {"propertySlug":"decision-kind","path":"command/pages/fitness/week/fitness-week.command.ts","id":"01a0b6de-d8b5-7094-8d97-329aa11e314c"}
 {"propertySlug":"decision-kind","path":"command/pages/gap/delete/gap-delete.command.ts","id":"01a0b7a0-c25d-7717-a0fa-41e1a1ee2221"}

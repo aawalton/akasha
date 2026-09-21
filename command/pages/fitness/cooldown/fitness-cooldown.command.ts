@@ -7,11 +7,10 @@ export const fitnessCooldown = {
   definition: "the stretch to hold next, once Alan says the bout is over",
   code: "ts",
   test: "ts",
-  parts: ["module/cooling"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Alan says when the bout is over rather than having that read off his sets.",
+      statement: "Alan calls for a cool down here rather than waiting to be turned to one.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -13,6 +13,8 @@ export function movement(slug: string, over: Partial<Movement> = {}): Movement {
     force: "push",
     focus: "push",
     raisesCold: false,
+    implementCount: 1,
+    loadFactor: 0,
     ...over,
   }
 }

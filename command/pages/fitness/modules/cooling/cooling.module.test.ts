@@ -10,7 +10,7 @@ import {
   heldIn,
   takenOn,
   workedOn,
-} from "akasha/command/pages/fitness/cooldown/modules/cooling/cooling.module.code.ts"
+} from "akasha/command/pages/fitness/modules/cooling/cooling.module.code.ts"
 import { movement } from "akasha/command/pages/fitness/modules/training-week/training-week.module.test-fixtures.ts"
 
 const TODAY = day20260918.date

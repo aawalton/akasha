@@ -14,6 +14,10 @@
 {"slug":"selection-policy"}
 {"stretchesCoolingDown":3}
 {"type":"page-type/selection-policy"}
+{"volumeTargetFall":100}
+{"volumeTargetFrom":"2026-09-21"}
+{"volumeTargetRise":20}
+{"volumeTargetSeed":3000}
 {"weeklySetCeiling":12}
 {"weeklySetFloor":6}
 {"weightAesthetics":10}

@@ -27,6 +27,10 @@ export const selectionPolicy = {
     "number-property/reps-warming-up",
     "number-property/stretches-cooling-down",
     "number-property/seconds-holding-stretch",
+    "number-property/volume-target-seed",
+    "number-property/volume-target-rise",
+    "number-property/volume-target-fall",
+    "calendar-date-property/volume-target-from",
   ],
   properties: [
     { pageProperty: "number-property/weight-longevity", required: true, many: false },
@@ -49,6 +53,10 @@ export const selectionPolicy = {
     { pageProperty: "number-property/reps-warming-up", required: true, many: false },
     { pageProperty: "number-property/stretches-cooling-down", required: true, many: false },
     { pageProperty: "number-property/seconds-holding-stretch", required: true, many: false },
+    { pageProperty: "number-property/volume-target-seed", required: true, many: false },
+    { pageProperty: "number-property/volume-target-rise", required: true, many: false },
+    { pageProperty: "number-property/volume-target-fall", required: true, many: false },
+    { pageProperty: "calendar-date-property/volume-target-from", required: true, many: false },
   ],
   decisions: [
     {

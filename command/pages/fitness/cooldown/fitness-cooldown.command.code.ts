@@ -17,7 +17,7 @@ import {
   coolFor,
   takenOn,
   workedOn,
-} from "akasha/command/pages/fitness/cooldown/modules/cooling/cooling.module.code.ts"
+} from "akasha/command/pages/fitness/modules/cooling/cooling.module.code.ts"
 import {
   coveredBy,
   KIT_TYPE,
@@ -26,7 +26,7 @@ import {
 import { weekIn } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
-export function coolingIn(root: string, now: Date): Cool | null {
+function coolingIn(root: string, now: Date): Cool | null {
   const today = getMountainMorningDayStr(now)
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)
   const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))

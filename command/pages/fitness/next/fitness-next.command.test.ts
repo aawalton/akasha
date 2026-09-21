@@ -10,12 +10,9 @@ import {
   type Bounds,
   chosenFor,
   climbOf,
-  depthOf,
-  droppedIn,
   fitnessNext,
   loadable,
-  type Mark,
-  marksIn,
+  type Next,
   newnessLeftIn,
   type Offer,
   offerOf,
@@ -23,8 +20,8 @@ import {
   owedIn,
   restrictedIn,
   saidOf,
-  turnsIn,
 } from "akasha/command/pages/fitness/next/fitness-next.command.code.ts"
+import type { Mark } from "akasha/command/pages/fitness/next/modules/marking/marking.module.code.ts"
 import { stepFor } from "akasha/command/pages/fitness/next/modules/stepping/stepping.module.code.ts"
 import type { Warmth } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
 
@@ -115,6 +112,20 @@ const BOUNDS = bounds()
 
 const ROOM = bounds({ repsCap: 25 })
 
+function next(over: Partial<Next> = {}): Next {
+  return {
+    offer: null,
+    resting: false,
+    cooling: false,
+    cool: null,
+    lifted: 0,
+    target: 3000,
+    ...over,
+  }
+}
+
+const spoken = (offer: Offer | null): readonly string[] => saidOf(next({ offer }))
+
 test("a movement of the body alone is loadable with no kit at all", () => {
   expect(loadable(movement("pushups", { implement: "body-only" }), new Set())).toBe(true)
 })
@@ -180,14 +191,14 @@ test("a movement offered carries the weight used and one rep past the best", () 
 test("a movement at the top of its kit says the weight holds", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, ROOM, FREE, WARM)
   expect(offer?.atKitCeiling).toBe(true)
-  expect(saidOf(offer).some((one) => one.includes("tops out"))).toBe(true)
+  expect(spoken(offer).some((one) => one.includes("tops out"))).toBe(true)
 })
 
 test("a movement the kit cannot load further is made harder by slowing the rep", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, WARM)
   expect(offer?.reps).toBe(20)
   expect(offer?.slower).toBe(true)
-  expect(saidOf(offer).some((one) => one.includes("lower slowly"))).toBe(true)
+  expect(spoken(offer).some((one) => one.includes("lower slowly"))).toBe(true)
 })
 
 test("reps climb while the kit can still load the movement", () => {
@@ -223,13 +234,6 @@ test("a movement Alan may not perform is gone before any movement is ranked", ()
   expect(offerOf(two, KIT, BOTH, BOUNDS, out)?.movement).toBe("hammer-curls")
 })
 
-test("a movement Alan turns down counts against it as much as a set counts for it", () => {
-  const turned = turnsIn([{ declineDate: "2026-09-18", exercise: "hammer-curls" }], "2026-09-18")
-  const marks = marksIn([], 7, "2026-09-18", turned)
-  expect(depthOf(marks.get("hammer-curls"))).toBe(-1)
-  expect(depthOf(mark({ sets: 1 }))).toBe(1)
-})
-
 test("a movement turned down before today is ranked below one never turned down", () => {
   const two = week([BENCH, CURL])
   const turned = new Map<string, Mark>([
@@ -239,37 +243,17 @@ test("a movement turned down before today is ranked below one never turned down"
   expect(offerOf(two, KIT, turned, BOUNDS, FREE)?.movement).toBe("hammer-curls")
 })
 
-test("a movement is dropped when that movement stops progressing", () => {
-  const marks = new Map([["dumbbell-bench-press", mark({ staleBouts: 3, lastOn: "2026-08-10" })]])
-  expect(droppedIn(marks, week([BENCH]).movements, 3)).toEqual(new Set(["dumbbell-bench-press"]))
-})
-
-test("a movement short of that many bouts is kept however long ago it was", () => {
-  const marks = new Map([["dumbbell-bench-press", mark({ staleBouts: 2, lastOn: "2026-01-01" })]])
-  expect(droppedIn(marks, week([BENCH]).movements, 3).size).toBe(0)
-})
-
-test("a dropped movement is offered again once its pattern has progressed elsewhere", () => {
-  const fresh = movement("incline-dumbbell-press")
-  const marks = new Map([
-    ["dumbbell-bench-press", mark({ staleBouts: 3, lastOn: "2026-06-29" })],
-    ["incline-dumbbell-press", mark({ bestOn: "2026-07-10", lastOn: "2026-07-10" })],
-  ])
-  expect(droppedIn(marks, week([BENCH, fresh]).movements, 3).size).toBe(0)
-})
-
 test("a cold Alan is put on the raise rather than on the work behind it", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE)
   expect(offer?.step.kind).toBe("raise")
-  expect(saidOf(offer)).toEqual(["5 minutes easy, until you are breathing and damp"])
+  expect(spoken(offer)).toEqual(["5 minutes easy, until you are breathing and damp"])
 })
 
 test("an Alan warm inside the window puts Alan on the working set", () => {
   const offer = offerOf(week([BENCH]), KIT, KNOWN, BOUNDS, FREE, WARM)
   expect(offer?.step.kind).toBe("work")
-  const said = saidOf(offer)
-  expect(said[0]).toBe(BENCH.slug)
-  expect(said[1]).toBe("  30 lb, 20 reps")
+  expect(spoken(offer)[0]).toBe(BENCH.slug)
+  expect(spoken(offer)[1]).toBe("  30 lb, 20 reps")
 })
 
 test("no ramp comes between the warmup and the working set", () => {
@@ -280,11 +264,31 @@ test("no ramp comes between the warmup and the working set", () => {
 })
 
 test("what a muscle is owed is weighed and never said", () => {
-  expect(saidOf(OFFER)).toEqual(["Dumbbell Bench Press", "  30 lb, 20 reps"])
+  expect(spoken(OFFER)).toEqual(["Dumbbell Bench Press", "  30 lb, 20 reps"])
 })
 
 test("nothing owed and nothing loadable is answered as rest", () => {
-  expect(saidOf(null)[0]).toContain("rest")
+  expect(spoken(null)[0]).toContain("rest")
+})
+
+test("a day that has moved its target is answered with a cool down and no more work", () => {
+  const cooling = next({
+    cooling: true,
+    cool: { movement: "all-fours-quad-stretch", title: "All Fours Quad Stretch", seconds: 45 },
+    lifted: 3012,
+    offer: OFFER,
+  })
+  expect(saidOf(cooling)).toEqual([
+    "3012 lb moved today, against a target of 3000 lb — that is the day's work",
+    "All Fours Quad Stretch",
+    "  hold 45 seconds",
+  ])
+})
+
+test("a cool down Alan has finished still says what the day asked", () => {
+  const done = saidOf(next({ cooling: true, lifted: 3200 }))
+  expect(done[0]).toContain("3200 lb moved today")
+  expect(done[1]).toContain("cooled down")
 })
 
 const LEGS = movement("goblet-squat", {
@@ -325,7 +329,7 @@ test("a movement of the core is offered whatever the day trains", () => {
 })
 
 test("a day whose focus is rest is answered as rest", () => {
-  expect(saidOf(null, true)[0]).toContain("rest day")
+  expect(saidOf(next({ resting: true }))[0]).toContain("rest day")
 })
 
 test("a word this takes no argument for is refused", () => {

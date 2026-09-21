@@ -24,4 +24,8 @@ export const selectionPolicy = {
   repsWarmingUp: 10,
   stretchesCoolingDown: 3,
   secondsHoldingStretch: 45,
+  volumeTargetSeed: 3000,
+  volumeTargetRise: 20,
+  volumeTargetFall: 100,
+  volumeTargetFrom: "2026-09-21",
 } as const satisfies SelectionPolicy

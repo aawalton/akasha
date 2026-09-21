@@ -1,0 +1,39 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const marking = {
+  id: "01a0c438-c2c1-742b-8714-757097f73225",
+  type: "page-type/module",
+  slug: "marking",
+  definition: "the history a movement has with Alan, and whether that history has gone stale",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mark counts only the sets Alan took near failure.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The best of a movement is the heaviest load, and the most reps at that load.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A bout without progress is a day Alan took the movement near failure without beating its best.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A movement is dropped when that movement stops progressing rather than after a fixed time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A dropped movement is offered again once its pattern has progressed elsewhere.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A movement Alan turns down counts against that movement as much as a set counts for it.",
+    },
+  ],
+} as const satisfies Module

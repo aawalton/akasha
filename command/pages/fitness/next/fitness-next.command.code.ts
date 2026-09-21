@@ -12,6 +12,13 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
+  type Cool,
+  cooledOf,
+  coolFor,
+  takenOn,
+  workedOn,
+} from "akasha/command/pages/fitness/modules/cooling/cooling.module.code.ts"
+import {
   coveredBy,
   KIT_TYPE,
   type Kit,
@@ -27,6 +34,13 @@ import {
 } from "akasha/command/pages/fitness/modules/training-week/training-week.module.code.ts"
 import { fitnessNext as page } from "akasha/command/pages/fitness/next/fitness-next.command.ts"
 import {
+  depthOf,
+  droppedIn,
+  type Mark,
+  marksIn,
+  turnsIn,
+} from "akasha/command/pages/fitness/next/modules/marking/marking.module.code.ts"
+import {
   DAY_TYPE,
   fitsIn,
   focusOn,
@@ -39,17 +53,21 @@ import {
   steppedOf,
 } from "akasha/command/pages/fitness/next/modules/stepping/stepping.module.code.ts"
 import {
+  liftedOn,
+  targetOn,
+} from "akasha/command/pages/fitness/next/modules/targeting/targeting.module.code.ts"
+import {
   type Warmth,
   warmthIn,
   warmupFor,
 } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
-  numberAt,
   slugAt,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
 const RESTRICTION_TYPE = "movement-restriction"
 
@@ -58,30 +76,6 @@ const DECLINE_TYPE = "strength-decline"
 const BODY_ONLY = "body-only"
 
 const UNRANKED = ["stretching", "cardio"]
-
-export type Mark = {
-  readonly sets: number
-  readonly weight: number | null
-  readonly reps: number | null
-  readonly bestOn: string | null
-  readonly lastOn: string | null
-  readonly staleBouts: number
-  readonly turns: number
-}
-
-const NOTHING: Mark = {
-  sets: 0,
-  weight: null,
-  reps: null,
-  bestOn: null,
-  lastOn: null,
-  staleBouts: 0,
-  turns: 0,
-}
-
-export function depthOf(mark: Mark | undefined): number {
-  return (mark?.sets ?? 0) - (mark?.turns ?? 0)
-}
 
 export type Offer = {
   readonly movement: string
@@ -128,104 +122,6 @@ export function owedIn(took: ReadonlyMap<string, number>, low: number): readonly
     .filter((held) => held.owed > 0)
     .sort((a, b) => b.owed - a.owed || a.one.localeCompare(b.one))
     .map((held) => held.one)
-}
-
-export function turnsIn(
-  pages: readonly Value[],
-  before: string
-): ReadonlyMap<string, readonly string[]> {
-  const held = new Map<string, string[]>()
-  for (const one of pages) {
-    const on = textAt(one, "declineDate")
-    const named = slugAt(one, "exercise")
-    if (on === null || named === null || on > before) continue
-    const was = held.get(named) ?? []
-    was.push(on)
-    held.set(named, was)
-  }
-  return held
-}
-
-function staledIn(
-  held: ReadonlyMap<string, Mark>,
-  days: ReadonlyMap<string, ReadonlySet<string>>,
-  turns: ReadonlyMap<string, readonly string[]>
-): ReadonlyMap<string, Mark> {
-  const done = new Map<string, Mark>()
-  for (const [slug, mark] of held) {
-    const best = mark.bestOn
-    const seen = [...(days.get(slug) ?? [])]
-    const after = best === null ? 0 : seen.filter((one) => one > best).length
-    done.set(slug, { ...mark, staleBouts: after, turns: (turns.get(slug) ?? []).length })
-  }
-  for (const [slug, said] of turns) {
-    if (!done.has(slug)) done.set(slug, { ...NOTHING, turns: said.length })
-  }
-  return done
-}
-
-export function marksIn(
-  sets: readonly Value[],
-  nearFailure: number,
-  before: string,
-  turns: ReadonlyMap<string, readonly string[]> = new Map()
-): ReadonlyMap<string, Mark> {
-  const days = new Map<string, Set<string>>()
-  const held = new Map<string, Mark>()
-  for (const one of sets) {
-    const on = dayOf(one)
-    const named = slugAt(one, "exercise")
-    if (on === null || named === null || on > before) continue
-    if (!nearFailureIn(one, nearFailure)) continue
-    const weight = numberAt(one, "weight")
-    const reps = numberAt(one, "reps")
-    const was = held.get(named) ?? NOTHING
-    const heavier = (weight ?? 0) > (was.weight ?? 0)
-    const sameWeight = (weight ?? 0) === (was.weight ?? 0)
-    const better = was.bestOn === null || heavier || (sameWeight && (reps ?? 0) > (was.reps ?? 0))
-    const seen = days.get(named) ?? new Set<string>()
-    seen.add(on)
-    days.set(named, seen)
-    held.set(named, {
-      sets: was.sets + 1,
-      weight: better ? weight : was.weight,
-      reps: better ? reps : was.reps,
-      bestOn: better ? on : was.bestOn,
-      lastOn: was.lastOn !== null && was.lastOn > on ? was.lastOn : on,
-      staleBouts: 0,
-      turns: 0,
-    })
-  }
-  return staledIn(held, days, turns)
-}
-
-function movedOn(
-  marks: ReadonlyMap<string, Mark>,
-  movements: ReadonlyMap<string, Movement>,
-  slug: string,
-  pattern: string | null,
-  since: string
-): boolean {
-  if (pattern === null) return false
-  for (const [other, each] of marks) {
-    if (other === slug || each.bestOn === null || each.bestOn <= since) continue
-    if (movements.get(other)?.pattern === pattern) return true
-  }
-  return false
-}
-
-export function droppedIn(
-  marks: ReadonlyMap<string, Mark>,
-  movements: ReadonlyMap<string, Movement>,
-  cap: number
-): ReadonlySet<string> {
-  const held = new Set<string>()
-  for (const [slug, mark] of marks) {
-    if (mark.staleBouts < cap || mark.lastOn === null) continue
-    const pattern = movements.get(slug)?.pattern ?? null
-    if (!movedOn(marks, movements, slug, pattern, mark.lastOn)) held.add(slug)
-  }
-  return held
 }
 
 export function outIn(
@@ -359,8 +255,23 @@ export function offerOf(
   }
 }
 
-export function saidOf(offer: Offer | null, resting = false): readonly string[] {
-  if (resting) return ["today is a rest day — walk, eat well, and let the week's work settle"]
+export type Next = {
+  readonly offer: Offer | null
+  readonly resting: boolean
+  readonly cooling: boolean
+  readonly cool: Cool | null
+  readonly lifted: number
+  readonly target: number
+}
+
+export function saidOf(next: Next): readonly string[] {
+  if (next.resting) return ["today is a rest day — walk, eat well, and let the week's work settle"]
+  if (next.cooling)
+    return [
+      `${String(Math.round(next.lifted))} lb moved today, against a target of ${String(Math.round(next.target))} lb — that is the day's work`,
+      ...cooledOf(next.cool),
+    ]
+  const offer = next.offer
   if (offer === null) return ["nothing is owed and nothing is loadable — rest is the answer today"]
   const said = [...steppedOf(offer.step)]
   if (offer.step.kind !== "work") return said
@@ -387,11 +298,6 @@ export function newnessLeftIn(
   return Math.max(0, cap - fresh)
 }
 
-export type Next = {
-  readonly offer: Offer | null
-  readonly resting: boolean
-}
-
 function focusIn(root: string, today: string): string | null {
   const weekday = weekdayOn(today)
   if (weekday === null) return null
@@ -401,12 +307,40 @@ function focusIn(root: string, today: string): string | null {
   )
 }
 
+const BARE = { offer: null, resting: false, cooling: false, cool: null, lifted: 0, target: 0 }
+
+function cooledFor(week: TrainingWeek, covered: ReadonlySet<string>, today: string): Cool | null {
+  return coolFor(week.movements, {
+    stretches: selectionPolicy.stretchesCoolingDown,
+    seconds: selectionPolicy.secondsHoldingStretch,
+    worked: workedOn(week.sets, today, week.movements),
+    done: takenOn(week.sets, today),
+    covered,
+  })
+}
+
 function nextIn(root: string, now: Date): Next {
   const today = getMountainMorningDayStr(now)
   const focus = focusIn(root, today)
-  if (focus === RESTING) return { offer: null, resting: true }
+  if (focus === RESTING) return { ...BARE, resting: true }
   const week = weekIn(root, today, selectionPolicy.nearFailureRpeFloor)
   const kit = kitIn(valuesOfType(root, KIT_TYPE).map((one) => one.value))
+  const moved = liftedOn(week.sets, week.movements, alan.bodyweight)
+  const lifted = moved.get(today) ?? 0
+  const target = targetOn(
+    moved,
+    {
+      seed: selectionPolicy.volumeTargetSeed,
+      from: selectionPolicy.volumeTargetFrom,
+      rise: selectionPolicy.volumeTargetRise,
+      fall: selectionPolicy.volumeTargetFall,
+    },
+    today
+  )
+  if (lifted >= target) {
+    const covered = coveredBy(kit)
+    return { ...BARE, cooling: true, cool: cooledFor(week, covered, today), lifted, target }
+  }
   const turns = turnsIn(
     valuesOfType(root, DECLINE_TYPE).map((one) => one.value),
     today
@@ -428,7 +362,12 @@ function nextIn(root: string, now: Date): Next {
   }
   const out = outIn(week.movements, restricted, dropped)
   const warmth = warmthIn(week.sets, now, selectionPolicy.minutesStayingWarm, today)
-  return { offer: offerOf(week, kit, marks, bounds, out, warmth, focus), resting: false }
+  return {
+    ...BARE,
+    offer: offerOf(week, kit, marks, bounds, out, warmth, focus),
+    lifted,
+    target,
+  }
 }
 
 export function fitnessNext(argv: readonly string[], given: Given): Answer {
@@ -437,7 +376,7 @@ export function fitnessNext(argv: readonly string[], given: Given): Answer {
   try {
     const next = nextIn(given.root, new Date())
     if (read.taken.json) return told([JSON.stringify(next)])
-    return told([...saidOf(next.offer, next.resting)])
+    return told([...saidOf(next)])
   } catch (thrown) {
     return refusedBy([whyOf(thrown)], OPERATIONAL)
   }

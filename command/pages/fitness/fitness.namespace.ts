@@ -10,6 +10,7 @@ export const fitness = {
     "command/fitness-mobility",
     "command/fitness-next",
     "command/fitness-week",
+    "module/cooling",
     "module/kit-loading",
     "module/training-week",
   ],

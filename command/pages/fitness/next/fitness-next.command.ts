@@ -7,7 +7,13 @@ export const fitnessNext = {
   definition: "the movement to do next, with the load to take and what to beat",
   code: "ts",
   test: "ts",
-  parts: ["module/rotation", "module/stepping", "module/warming"],
+  parts: [
+    "module/marking",
+    "module/rotation",
+    "module/stepping",
+    "module/targeting",
+    "module/warming",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -180,6 +186,23 @@ export const fitnessNext = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A run answers the one step Alan is on rather than the session that step opens.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A day is bound by the pounds that day is to move rather than by Alan calling a halt.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day that has moved its target is answered with a cool down and no more work.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cool down the target turns Alan to says what he moved and what was asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every set counts toward the day, whether that set warmed Alan or worked him.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -13,9 +13,9 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export const MOVEMENT_TYPE = "strength-exercise"
+const MOVEMENT_TYPE = "strength-exercise"
 
-export const SET_TYPE = "strength-log"
+const SET_TYPE = "strength-log"
 
 const DAYS = 7
 
@@ -37,6 +37,8 @@ export type Movement = {
   readonly force: string | null
   readonly focus: string | null
   readonly raisesCold: boolean
+  readonly implementCount: number | null
+  readonly loadFactor: number | null
 }
 
 export type Tally = {
@@ -62,7 +64,7 @@ export function openedOn(last: string): string {
   return dayStrOf(new Date(noon - (DAYS - 1) * MS_PER_DAY))
 }
 
-export function movementsIn(pages: readonly Value[]): ReadonlyMap<string, Movement> {
+function movementsIn(pages: readonly Value[]): ReadonlyMap<string, Movement> {
   const held = new Map<string, Movement>()
   for (const one of pages) {
     const slug = textAt(one, "slug")
@@ -79,6 +81,8 @@ export function movementsIn(pages: readonly Value[]): ReadonlyMap<string, Moveme
       force: textAt(one, "force"),
       focus: textAt(one, "muscleFocus"),
       raisesCold: one[RAISES_COLD] === true,
+      implementCount: numberAt(one, "implementCount"),
+      loadFactor: numberAt(one, "loadFactor"),
     })
   }
   return held
