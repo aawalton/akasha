@@ -74,6 +74,14 @@ export const sourceGlobbing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The stylesheets that gate reads are the ones the index lists.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stylesheet page with no rules beside it moves no glob.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change carrying code that leaves every specifier as it was moves no glob.",
     },
     {

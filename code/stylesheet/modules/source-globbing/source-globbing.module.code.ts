@@ -8,8 +8,13 @@ import { textThere } from "akasha/file/disk/modules/text-there/text-there.module
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
+import {
+  everyOfType,
+  readingIn,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import {
+  besideAt,
   pageOf,
   partedIn,
   uncommittedBesideAt,
@@ -49,6 +54,8 @@ const REACHED = "reached"
 const HELD_JSONL = "jsonl"
 
 const HELD_TS = "ts"
+
+const HELD_CSS = "css"
 
 function reachedAt(at: string): string | null {
   const said = partedIn(at)
@@ -203,13 +210,13 @@ function specifiersIn(body: string | null, path: string): string {
 }
 
 function styledIn(change: Change): readonly string[] {
-  const held = new Set(gitIn(change.root, ["ls-files", "-z", "--", `*${STYLESHEET}*`]).split("\0"))
-  held.delete("")
-  for (const path of change.changed) {
-    if (change.after(path) === null) held.delete(path)
-    else held.add(path)
+  const found: string[] = []
+  for (const one of everyOfType(readingIn(change.root), STYLESHEET)) {
+    const styles = besideAt(one.path, STYLES, HELD_CSS)
+    if (styles === null || change.after(styles) === null) continue
+    found.push(one.path)
   }
-  return [...held].filter((one) => styledName(one))
+  return found
 }
 
 function moved(change: Change, path: string): boolean {
@@ -226,8 +233,8 @@ function couldTurn(change: Change): boolean {
   }
   const changed = new Set(change.changed.filter((one) => typeScripted(one)))
   if (changed.size === 0) return false
-  for (const at of styledIn(change)) {
-    const rows = reachedAt(at)
+  for (const page of styledIn(change)) {
+    const rows = uncommittedBesideAt(page, REACHED, HELD_JSONL)
     const body = rows === null ? null : textThere(join(change.root, rows))
     if (body === null) return true
     for (const line of body.split("\n")) {
