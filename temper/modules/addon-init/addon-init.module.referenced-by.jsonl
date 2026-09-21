@@ -11,7 +11,7 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/keybinder/modules/keybinder-entry/keybinder-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/navigation/modules/navigation-entry/navigation-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/quests-addon/modules/quests-entry/quests-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/quests/modules/quests-entry/quests-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/selector-addon/modules/selector-entry/selector-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"}

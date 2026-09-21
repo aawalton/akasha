@@ -45,7 +45,7 @@ export const temperAddon = {
     "temper-addon/temper-addon-items",
     "temper-addon/temper-addon-keybinder",
     "temper-addon/temper-addon-navigation",
-    "temper-addon/temper-quests-addon",
+    "temper-addon/temper-addon-quests",
     "temper-addon/temper-selector-addon",
     "temper-addon/temper-trading-addon",
     "boolean-property/addon-library",
