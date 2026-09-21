@@ -13,6 +13,6 @@ export const rule81866c84 = {
   categoryId: "equipment",
   displayOrder: 54,
   action: "temper-item-action/fence-launder",
-  active: false,
-  updatedAt: "2026-09-21T22:15:29.958Z",
+  active: true,
+  updatedAt: "2026-09-21T22:15:47.448Z",
 } as const satisfies TemperInventoryRule
