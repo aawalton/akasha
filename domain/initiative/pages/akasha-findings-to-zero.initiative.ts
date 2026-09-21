@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "305 are left. The first run has read every finding down to the last under `page-type/agent` in panel order, and takes up `change-target-subtype/page-property-property-slug` next. The 56 under `alan-book/all-about-alan` are passed over unread, being Alan's own notes. Most findings die because what they say stopped being true: the folder went, the page gained the decision, another lane landed the mend.\n",
+        "299 are left. The first run is inside the `page-type/change` block in panel order, which is the largest, and takes up `a-generated-type-cannot-be-written-partly` next. The 56 under `alan-book/all-about-alan` are passed over unread, being Alan's own notes. Most findings die because what they say stopped being true: the folder went, the page gained the decision, another lane landed the mend.\n",
     },
   ],
   constraints: [
