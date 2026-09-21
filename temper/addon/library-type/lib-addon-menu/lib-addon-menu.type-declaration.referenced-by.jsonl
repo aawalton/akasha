@@ -1,9 +1,3 @@
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-menu-tail/combat-menu-tail.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-menu/combat-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-constants/companion-qol-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-init/companion-qol-init.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-set-lam/craft-set-lam.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-xml-handlers/craft-xml-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-settings-menu/potion-settings-menu.module.code.ts"}
@@ -49,6 +43,12 @@
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-settings-location/minimap-settings-location.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-constants/companion-qol-constants.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-init/companion-qol-init.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-state/order-list-box-state.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-settings-main-section/knowledge-settings-main-section.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-addon-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-core/journal-core.module.code.ts"}

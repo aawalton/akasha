@@ -28,7 +28,7 @@ const ENTRY_LEAF = "table-functions-entry"
 
 const MODULE = "module"
 
-const NAMING_UNDER = `akasha/temper/addon/library/${NAMING_LEAF}`
+const NAMING_UNDER = `akasha/temper/addon/pages/${NAMING_LEAF}`
 
 const NAMING_PAGE = `${NAMING_UNDER}/${NAMING_LEAF}.temper-addon.ts`
 
@@ -66,7 +66,7 @@ test("the written settings name the entry, the bundle and the repository root", 
       repoRoot: "/repo",
       addonDir: "/repo/temper/addon/pages/lib-table-functions",
       canonicalName: "TemperTableFunctions",
-      entryPath: "/repo/temper/addon/library/lib-table-functions/e/e.module.code.ts",
+      entryPath: "/repo/temper/addon/pages/lib-table-functions/e/e.module.code.ts",
       reachedDirs: [],
       declaringDirs: ["/repo/temper/eso/type", "/repo/temper/addon/library-type"],
     })
@@ -79,7 +79,7 @@ test("the written settings name the entry, the bundle and the repository root", 
     },
     luaCompiler: {
       luaBundle: "TemperTableFunctions.lua",
-      luaBundleEntry: "/repo/temper/addon/library/lib-table-functions/e/e.module.code.ts",
+      luaBundleEntry: "/repo/temper/addon/pages/lib-table-functions/e/e.module.code.ts",
       luaTarget: "5.1",
       noEmitLua: false,
     },
@@ -130,7 +130,7 @@ function addonReaching(
   heldName: string
 ): { root: string; dir: string; held: string } {
   const root = SCRATCH.rootFor("temper-addon-reach-")
-  const dir = join(root, "temper/addon/collections-addon")
+  const dir = join(root, "temper/addon/pages/collections")
   const held = join(root, "temper/addon/library/lib-lorebooks")
   mkdirSync(dir, { recursive: true })
   mkdirSync(held, { recursive: true })
@@ -144,7 +144,7 @@ function addonReaching(
   )
   valueAlsoFiled(root, TEMPER_ADDON, [
     {
-      path: "temper/addon/collections-addon/collections-addon.temper-addon.ts",
+      path: "temper/addon/pages/collections/collections-addon.temper-addon.ts",
       value: { slug: "collections-addon", addonManifest: "json" },
     },
     {
@@ -169,17 +169,17 @@ test("the written settings reach every declaration an addon this addon depends o
   const body: unknown = JSON.parse(
     compilerConfigBody({
       repoRoot: "/repo",
-      addonDir: "/repo/temper/addon/collections-addon",
+      addonDir: "/repo/temper/addon/pages/collections",
       canonicalName: "TemperCollections",
-      entryPath: "/repo/temper/addon/collections-addon/e/e.module.code.ts",
+      entryPath: "/repo/temper/addon/pages/collections/e/e.module.code.ts",
       reachedDirs: ["/repo/temper/addon/library/lib-lorebooks"],
       declaringDirs: ["/repo/temper/eso/type"],
     })
   )
   expect(body).toMatchObject({
     include: [
-      "/repo/temper/addon/collections-addon/**/*.module.code.ts",
-      "/repo/temper/addon/collections-addon/**/*.d.ts",
+      "/repo/temper/addon/pages/collections/**/*.module.code.ts",
+      "/repo/temper/addon/pages/collections/**/*.d.ts",
       "/repo/temper/addon/library/lib-lorebooks/**/*.d.ts",
       "/repo/temper/eso/type/**/*.type-declaration.d.ts",
     ],

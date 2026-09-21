@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-build-export/combat-ui-build-export.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-char-init/craft-char-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-item-mark/craft-item-mark.module.code.ts"}
@@ -35,6 +33,8 @@
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-inventory-scan/map-pins-inventory-scan.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-constants/leads-constants.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-build-export/combat-ui-build-export.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-item-knowledge/knowledge-item-knowledge.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}

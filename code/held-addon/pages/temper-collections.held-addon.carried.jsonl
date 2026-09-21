@@ -1,7 +1,7 @@
 {"addonKind":"ported"}
 {"addonName":"TemperCollections"}
 {"adjacents":["held-addon/temper-navigation","held-addon/lib-map-pins","held-addon/lib-extended-journal","held-addon/lib-saved-vars","held-addon/lib-treasure","held-addon/lib-notification"]}
-{"esoAddon":"temper-addon/temper-collections-addon"}
+{"esoAddon":"temper-addon/temper-addon-collections"}
 {"heldBy":15143}
 {"id":"01a081a1-c34d-7655-8254-5485c25371c5"}
 {"slug":"temper-collections"}

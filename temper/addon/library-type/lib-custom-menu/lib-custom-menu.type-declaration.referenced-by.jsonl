@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"lib-custom-menu.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"}
-{"propertySlug":"import","fileName":"lib-custom-menu.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-custom-menu.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-custom-menu.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-custom-menu.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-custom-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-custom-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-filter/scrollable-menu-dropdown-class-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-custom-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-header/lib-sets-core-header.module.code.ts"}
