@@ -2,7 +2,6 @@
 {"propertySlug":"championed-domain","path":"persona/pages/thea/thea.persona.ts","id":"019f2889-d1d2-7216-97c6-02cad98484c6"}
 {"propertySlug":"import","fileName":"check.domain.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-check-that-could-not-run-is-counted-as-a-refusal-in-its-own-cost-log.finding.ts","id":"01a0961f-a1e6-7843-ba3c-d594d46c1668"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-ratchet-collects-where-the-fix-is-smaller-than-the-edit-that-trips-it.finding.ts","id":"01a095fd-7f52-7927-8d9f-047862cd5960"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-refusal-for-an-unnamed-value-does-not-tell-dead-code-from-a-loose-wire.finding.ts","id":"01a0a1d4-afa9-7dca-99cc-519e1690192c"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/mortal-sparing-never-reaches-a-referenced-by-file-so-audit-rounds-refuse-them.finding.ts","id":"01a0ba9f-347e-78f7-9f0b-d809e6b4916c"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/most-of-what-tests-pass-refuses-is-a-race-rather-than-a-broken-test.finding.ts","id":"01a0c510-b2f0-7b09-97dc-3b97a632d1f4"}
