@@ -6,4 +6,7 @@ export const musicListening = {
   slug: "music-listening",
   definition: "what has been listened to",
   parts: ["page-type/heard-music", "service-workstation/music-capture"],
+  decisions: [
+    { decisionKind: "decision-kind/departure", statement: "Listen history syncs every hour." },
+  ],
 } as const satisfies Domain

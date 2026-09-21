@@ -1056,6 +1056,7 @@
 {"propertySlug":"decision-kind","path":"alan/music/listening/heard-music/properties/tracks/properties/spotify-track-id.text-property.ts","id":"01a06240-340f-7007-82de-0827e2457e43"}
 {"propertySlug":"decision-kind","path":"alan/music/listening/heard-music/properties/tracks/properties/title-key.text-property.ts","id":"01a06240-340f-700c-8b23-d85323898292"}
 {"propertySlug":"decision-kind","path":"alan/music/listening/heard-music/properties/tracks/tracks.page-property-entry.ts","id":"01a06240-340f-700b-b409-ccc0e5bff5e6"}
+{"propertySlug":"decision-kind","path":"alan/music/listening/music-listening.domain.ts","id":"01a06238-8d2d-7235-bf50-19c7fc57723c"}
 {"propertySlug":"decision-kind","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.ts","id":"01a0c48f-9abd-747d-802b-08b86404c189"}
 {"propertySlug":"decision-kind","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/account/properties/spotify-account-calls-in-window.number-property.ts","id":"01a0b6db-cfa6-782a-a188-313cb90ea238"}
