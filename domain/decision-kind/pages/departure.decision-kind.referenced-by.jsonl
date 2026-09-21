@@ -3370,6 +3370,7 @@
 {"propertySlug":"decision-kind","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
 {"propertySlug":"decision-kind","path":"story/game/attribute/game-attribute.page-type.ts","id":"01a0c489-28b0-7100-a172-6999668e415c"}
 {"propertySlug":"decision-kind","path":"story/game/entity/game-entity.page-type.ts","id":"01a0c631-b09e-76b0-8b33-5a7ff9d75891"}
+{"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-class.text-property.ts","id":"01a0c633-c2ca-709c-8d60-e4931291457c"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-game.relation-property.ts","id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-kind.text-property.ts","id":"01a0c632-9753-7529-a95f-ebc4de76b7df"}
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}

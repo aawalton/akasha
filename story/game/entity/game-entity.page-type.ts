@@ -11,6 +11,7 @@ export const gameEntity = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/entity-game", required: true, many: false },
     { pageProperty: "text-property/entity-kind", required: true, many: false },
+    { pageProperty: "text-property/entity-class", required: false, many: false },
   ],
   decisions: [
     {
@@ -32,5 +33,9 @@ export const gameEntity = {
   ],
   types: "ts",
   schema: "jsonl",
-  parts: ["relation-property/entity-game", "text-property/entity-kind"],
+  parts: [
+    "relation-property/entity-game",
+    "text-property/entity-kind",
+    "text-property/entity-class",
+  ],
 } as const satisfies PageType
