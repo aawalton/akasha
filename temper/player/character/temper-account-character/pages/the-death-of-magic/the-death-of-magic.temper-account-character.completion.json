@@ -9,7 +9,7 @@
   "className": "Arcanist",
   "classIcon": "/esoui/art/icons/class/class_arcanist.dds",
   "companionRapport": {
-    "13": 765
+    "13": 767
   },
   "quests": [
     465,
@@ -1122,13 +1122,13 @@
       }
     },
     "2612": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 28,
+            "numCompleted": 30,
             "numRequired": 30
           }
         }
@@ -3103,7 +3103,7 @@
           "atMorph": true,
           "morph2": {
             "name": "Arterial Burst",
-            "rank": 2
+            "rank": 3
           },
           "currentMorph": 2,
           "isUltimate": false,
@@ -12985,7 +12985,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-19"
+    "date": "2026-09-21"
   },
   "dailyWritStates": {
     "completed": {
@@ -13006,7 +13006,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-19"
+    "date": "2026-09-21"
   },
   "motifKnowledge": {
     "4": {
