@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"lib-scrollable-menu.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-context-menu/fco-mail-context-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-scrollable-menu.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-context-submenus/fco-mail-context-submenus.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-scrollable-menu.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-scrollable-menu.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-settings-menu/fco-mail-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-scrollable-menu.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-scrollable-menu.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-skills/fco-skills.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-scrollable-menu.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-core/scrollable-menu-api-core.module.code.ts"}

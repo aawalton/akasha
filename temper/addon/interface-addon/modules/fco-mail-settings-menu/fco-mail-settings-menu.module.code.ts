@@ -9,6 +9,9 @@ import {
   checkAndEnabledEventHandlersIfNeeded,
   loadMailBuddyData,
 } from "akasha/temper/addon/interface-addon/modules/fco-mail-events/fco-mail-events.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
 
 export function checkboxEntry(
   this: void,

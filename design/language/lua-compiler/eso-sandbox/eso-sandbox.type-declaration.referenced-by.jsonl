@@ -268,6 +268,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-data/fco-mail-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-events/fco-mail-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-settings-menu/fco-mail-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-store/fco-mail-store.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail/fco-mail.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mainmenu/fco-mainmenu.module.code.ts"}
