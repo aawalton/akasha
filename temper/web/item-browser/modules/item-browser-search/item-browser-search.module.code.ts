@@ -3,6 +3,8 @@ import type {
   EntryData,
   ItemBrowserListInstance,
 } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts"
 
 export function orderedSearch(
   this: ItemBrowserListInstance,
