@@ -2,7 +2,9 @@ import { expect, test } from "bun:test"
 import {
   besideThe,
   kindSeeds,
+  onwardOf,
   readingOver,
+  typesWrittenForAPage,
   underFolder,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
@@ -85,4 +87,61 @@ test("a body that is no TypeScript is read for no import", () => {
     "apps/one/logo.png",
   ])
   expect(found.has("shared/helper.ts")).toBe(false)
+})
+
+const ADDON_PAGE = "addons/one/one.temper-addon.ts"
+
+const ADDON_CODE = "addons/one/main.module.code.ts"
+
+const ADDON_TYPES = "shared/one.temper-addon.types.ts"
+
+const FAR = "shared/far.module.code.ts"
+
+const NEAR = "shared/near.module.code.ts"
+
+const ADDON_TRACKED = [ADDON_PAGE, ADDON_CODE, ADDON_TYPES, FAR, NEAR]
+
+const ADDON_BODIES: Readonly<Record<string, string>> = {
+  [ADDON_PAGE]: `import type { One } from "akasha/${ADDON_TYPES}"\nexport const one: One = 1\n`,
+  [ADDON_TYPES]: `import type { Far } from "akasha/${FAR}"\nexport type One = Far\n`,
+  [ADDON_CODE]: `import { near } from "akasha/${NEAR}"\nexport const main = near\n`,
+  [FAR]: "export type Far = number\n",
+  [NEAR]: "export const near = 2\n",
+}
+
+function addonBodyAt(path: string): string | null {
+  return ADDON_BODIES[path] ?? null
+}
+
+const ADDON_SEEDS = besideThe(ADDON_TRACKED, ADDON_PAGE)
+
+function addonClosure(kind: "temper-addon" | "web-app"): ReadonlySet<string> {
+  return readingOver(ADDON_TRACKED, addonBodyAt, INDEX).over(ADDON_SEEDS, onwardOf(kind))
+}
+
+test("the types written for a page are named by the tail of the file holding them", () => {
+  expect(typesWrittenForAPage(ADDON_TYPES)).toBe(true)
+  expect(typesWrittenForAPage(ADDON_CODE)).toBe(false)
+})
+
+test("an addon is built from the code its own code reaches", () => {
+  const found = addonClosure("temper-addon")
+  expect(found.has(ADDON_CODE)).toBe(true)
+  expect(found.has(NEAR)).toBe(true)
+})
+
+test("the types written for an addon's page are reached by that addon no longer", () => {
+  const found = addonClosure("temper-addon")
+  expect(found.has(ADDON_TYPES)).toBe(false)
+  expect(found.has(FAR)).toBe(false)
+})
+
+test("the page beside the addon's code is built from all the same, being a seed", () => {
+  expect(addonClosure("temper-addon").has(ADDON_PAGE)).toBe(true)
+})
+
+test("every other kind is built from the types written for its page as it was", () => {
+  const found = addonClosure("web-app")
+  expect(found.has(ADDON_TYPES)).toBe(true)
+  expect(found.has(FAR)).toBe(true)
 })

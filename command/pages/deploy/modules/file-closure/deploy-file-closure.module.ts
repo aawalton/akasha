@@ -79,5 +79,10 @@ export const deployFileClosure = {
       statement:
         "Every tracked file in a folder a deploy is built from is carried with that deploy.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The types written for a page are reached by no addon, and neither is whatever only they reach.",
+    },
   ],
 } as const satisfies Module
