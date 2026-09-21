@@ -18,7 +18,7 @@ export const olwen = {
   voiceInstruction:
     "A composed young Welsh woman in her mid-twenties, warm and steady with a low-medium pitch, a subtle Welsh accent, calm and deliberate like a craftswoman explaining her work.",
   voiceReferenceSha256: "d08c9a4f635e27f31bcf6be0c7acfae99909c3ac6ad4a8ae1906e001ed5ffd79",
-  cover: "/api/image/019f6e3b-a52b-7605-9919-e4dceca15817",
+  cover: "/api/image/01a0c5f3-7a99-780f-803d-87d75ef898ad",
   desktopWallpaper: "image/image-cebd85f8b3ac69b5",
   mobileWallpaper: "image/image-024d1b14c69f1fb0",
   history:

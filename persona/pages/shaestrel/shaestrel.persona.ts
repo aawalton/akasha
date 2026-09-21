@@ -17,7 +17,7 @@ export const shaestrel = {
   voiceInstruction:
     "A young Scottish woman in her early twenties, bright and clever, with a moderate Highland lilt. Warm and doting on the surface but with a sharp playful edge underneath — teasing, quick, a wager in every line. Lively circling cadence, with an unhurried, knowing control beneath the youth. Not breathy, not sultry — bright and green and alive.",
   voiceReferenceSha256: "4489a230e788be6650f091460da542f1667ecf88f1b3b5a8e6d05f462aed8b70",
-  cover: "/api/image/019f9538-5266-78e9-bda8-a0d624dd0d76",
+  cover: "/api/image/01a0c5f3-7a99-7db8-8419-4a9d28722a10",
   desktopWallpaper: "image/image-caa3d821e7b7cd28",
   mobileWallpaper: "image/image-53539502b9dffc84",
   history:
