@@ -355,6 +355,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/build-output/build-output.module.ts","id":"01a09190-5f20-7946-9db3-368a18b17537"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"decision-kind","path":"temper/addon-log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
+{"propertySlug":"decision-kind","path":"temper/addon/capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts","id":"01a06341-d9e8-7008-91c3-2fcab6b143bf"}
+{"propertySlug":"decision-kind","path":"temper/addon/capture-sales-addon/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
+{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
+{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.eso-addon.ts","id":"01a06207-bdfa-77c3-9c7b-c125ea77a269"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.ts","id":"01a06100-0000-7000-8000-000000000000"}
@@ -566,8 +570,6 @@
 {"propertySlug":"decision-kind","path":"temper/build-deploy-check/modules/repo-root/repo-root.module.ts","id":"01a06287-7841-7b94-a9bc-853c9c556746"}
 {"propertySlug":"decision-kind","path":"temper/build-deploy-check/temper-build-deploy-check.domain.ts","id":"01a06287-7841-7e04-b566-2bb1b434877d"}
 {"propertySlug":"decision-kind","path":"temper/build-support/modules/confirm-set-target/confirm-set-target.module.ts","id":"01a090a4-c227-7bc1-87d7-d7b98fe5499c"}
-{"propertySlug":"decision-kind","path":"temper/capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts","id":"01a06341-d9e8-7008-91c3-2fcab6b143bf"}
-{"propertySlug":"decision-kind","path":"temper/capture-sales-addon/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
 {"propertySlug":"decision-kind","path":"temper/capture-shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
 {"propertySlug":"decision-kind","path":"temper/capture-writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
@@ -949,8 +951,6 @@
 {"propertySlug":"decision-kind","path":"temper/equipment/modules/jewelry-traits/jewelry-traits.module.ts","id":"01a0610f-45bb-7e6d-9e65-09ec21c0cff3"}
 {"propertySlug":"decision-kind","path":"temper/equipment/modules/set-ids/set-ids.module.ts","id":"01a060d5-2f12-7886-bf98-e23a2afc639d"}
 {"propertySlug":"decision-kind","path":"temper/equipment/modules/weapon-traits/weapon-traits.module.ts","id":"01a0610f-45bb-7d20-aedf-7d954ebf2ec5"}
-{"propertySlug":"decision-kind","path":"temper/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
-{"propertySlug":"decision-kind","path":"temper/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
 {"propertySlug":"decision-kind","path":"temper/eso-type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
 {"propertySlug":"decision-kind","path":"temper/eso-type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}

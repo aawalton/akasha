@@ -1640,6 +1640,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/addon-metadata-copy/addon-metadata-copy.module.ts","id":"01a062d1-4a71-7f08-a4d5-3b9e7c02a1df"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/addon-placing/addon-placing.module.ts","id":"01a090b8-6baa-7001-902c-0a3fc6d7cf83"}
 {"propertySlug":"decision-kind","path":"temper/addon-log/modules/addon-log/addon-log.module.ts","id":"01a08e26-c147-7c8e-baea-f2cad9ded7c8"}
+{"propertySlug":"decision-kind","path":"temper/addon/capture-sales-addon/modules/sales-addon-name/sales-addon-name.module.ts","id":"01a060e2-3181-7b51-b345-f0965034e14a"}
+{"propertySlug":"decision-kind","path":"temper/addon/capture-sales-addon/temper-capture-sales-addon.eso-addon.ts","id":"01a060e2-3181-7c02-be71-c63b5b648d5b"}
+{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
+{"propertySlug":"decision-kind","path":"temper/addon/errors-addon/temper-errors-addon.eso-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lccc/modules/lccc-casts/lccc-casts.module.ts","id":"01a08d72-b007-7beb-b91e-33727605794e"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
@@ -1706,8 +1710,6 @@
 {"propertySlug":"decision-kind","path":"temper/capture-sale/modules/sales-descriptor/sales-descriptor.module.ts","id":"01a0608a-15b3-7c39-bcf3-50e4681cd98f"}
 {"propertySlug":"decision-kind","path":"temper/capture-sale/modules/sales-payload/sales-payload.module.ts","id":"01a0608a-15b3-7095-b65b-bb44a69a01c0"}
 {"propertySlug":"decision-kind","path":"temper/capture-sale/temper-capture-sale.domain.ts","id":"01a0608a-15b3-7222-9758-3efaaecd469e"}
-{"propertySlug":"decision-kind","path":"temper/capture-sales-addon/modules/sales-addon-name/sales-addon-name.module.ts","id":"01a060e2-3181-7b51-b345-f0965034e14a"}
-{"propertySlug":"decision-kind","path":"temper/capture-sales-addon/temper-capture-sales-addon.eso-addon.ts","id":"01a060e2-3181-7c02-be71-c63b5b648d5b"}
 {"propertySlug":"decision-kind","path":"temper/capture-writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
 {"propertySlug":"decision-kind","path":"temper/catalog-core/modules/batch-config/batch-config.module.ts","id":"01a06071-0c77-7e96-8044-2bad3e05b280"}
 {"propertySlug":"decision-kind","path":"temper/catalog-core/modules/catalog-payload/catalog-payload.module.ts","id":"01a06071-0c78-7ec6-a529-55cd1d262309"}
@@ -1746,8 +1748,6 @@
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
 {"propertySlug":"decision-kind","path":"temper/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
 {"propertySlug":"decision-kind","path":"temper/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}
-{"propertySlug":"decision-kind","path":"temper/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
-{"propertySlug":"decision-kind","path":"temper/errors-addon/temper-errors-addon.eso-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/errors-triage/modules/errors-collect/errors-collect.module.ts","id":"01a060cd-5650-7b6e-ab6c-41d8a589a7ce"}
 {"propertySlug":"decision-kind","path":"temper/errors-triage/modules/errors-liveness/errors-liveness.module.ts","id":"01a060cd-5651-794e-9cb4-d37959543fd2"}
 {"propertySlug":"decision-kind","path":"temper/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.ts","id":"01a060cd-564f-7386-bf3f-219a42b803ca"}

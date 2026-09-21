@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts"}
+{"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/addon/errors-addon/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/capture-error/modules/errors-descriptor/errors-descriptor.module.code.ts"}
-{"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/errors-addon/modules/errors-addon-record/errors-addon-record.module.code.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/errors-triage/modules/errors-collect/errors-collect.module.code.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts"}
