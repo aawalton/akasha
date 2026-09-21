@@ -1,0 +1,10 @@
+import type { TemperRecipeList } from "akasha/temper/catalog/pursuit/temper-recipe-list/temper-recipe-list.page-type.types.ts"
+
+export const vegetableDishes = {
+  id: "01a0626e-c111-74a4-8c68-3d49c9569ce6",
+  type: "page-type/temper-recipe-list",
+  slug: "vegetable-dishes",
+  title: "Vegetable Dishes",
+  displayOrder: 3,
+  recipes: "jsonl",
+} as const satisfies TemperRecipeList

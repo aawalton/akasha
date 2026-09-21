@@ -1,0 +1,12 @@
+import type { TemperAchievementCategory } from "akasha/temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts"
+
+export const accountDeadlandsGeneral = {
+  id: "01a06168-7250-7001-9355-8c8b806292d4",
+  type: "page-type/temper-achievement-category",
+  slug: "account-deadlands-general",
+  title: "General",
+  category: "account",
+  displayOrder: 0,
+  parent: "account-deadlands",
+  achievements: "jsonl",
+} as const satisfies TemperAchievementCategory

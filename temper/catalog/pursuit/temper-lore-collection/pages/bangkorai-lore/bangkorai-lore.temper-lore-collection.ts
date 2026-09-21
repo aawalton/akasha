@@ -1,0 +1,11 @@
+import type { TemperLoreCollection } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-collection.page-type.types.ts"
+
+export const bangkoraiLore = {
+  id: "01a06343-f9fa-7020-bdd2-bca0ec04e784",
+  type: "page-type/temper-lore-collection",
+  slug: "bangkorai-lore",
+  title: "Bangkorai Lore",
+  esoLoreCategoryId: 1,
+  esoCollectionIndex: 4,
+  books: "jsonl",
+} as const satisfies TemperLoreCollection

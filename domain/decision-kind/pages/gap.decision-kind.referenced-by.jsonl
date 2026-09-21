@@ -473,6 +473,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/condition-evaluator/condition-evaluator.module.ts","id":"01a06152-c2d9-7bfd-bdcf-e47f851e9b16"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.ts","id":"01a06152-c2da-7538-9de2-da50c79de469"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/trait/properties/metric-id.text-property.ts","id":"01a05fb0-3ced-7636-a899-431b497b3f1f"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-category/properties/eso-antiquity-set-id.number-property.ts","id":"01a06176-a912-7000-8819-19b71a0dafd6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
@@ -492,7 +493,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/thing/properties/buff-id.text-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/thing/properties/debuff-id.text-property.ts","id":"01a05fd1-d439-75b3-92b0-1243e1ad274a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/thing/properties/valid-slots.text-property.ts","id":"01a05fcc-41f4-739e-a73e-ae1c6505faab"}
-{"propertySlug":"decision-kind","path":"temper/catalog/temper-pursuit/temper-antiquity-category/properties/eso-antiquity-set-id.number-property.ts","id":"01a06176-a912-7000-8819-19b71a0dafd6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-skill/line/properties/skill-line-class.text-property.ts","id":"01a05fca-cb87-7a9a-9dda-95916e9f73d7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-skill/temper-grimoire/properties/class-id.text-property.ts","id":"01a05fca-cb81-7a5f-a2f7-41aefe8c6b62"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-skill/temper-grimoire/properties/focus-scripts.text-property.ts","id":"01a05fca-cb82-7738-87f5-0530f38d10af"}

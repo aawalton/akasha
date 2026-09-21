@@ -12,6 +12,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/effect/temper-target-scope/temper-target-scope.page-type.ts","id":"01a05fc5-94d1-7137-9597-c8f6faef3147"}
 {"propertySlug":"extends-type","path":"temper/catalog/effect/temper-target-type/temper-target-type.page-type.ts","id":"01a05fc5-94d2-7f4f-9b3c-6c27e1c09266"}
 {"propertySlug":"extends-type","path":"temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts","id":"01a05fc5-94d2-7de5-8850-22656966472e"}
+{"propertySlug":"extends-type","path":"temper/catalog/pursuit/thing/temper-pursuit-thing.page-type.ts","id":"01a06153-0ea9-7002-8317-f34518274d6f"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-gear/temper-armor-trait/temper-armor-trait.page-type.ts","id":"01a05fb0-3ceb-7229-9089-127418274d52"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
@@ -27,7 +28,6 @@
 {"propertySlug":"extends-type","path":"temper/catalog/temper-gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","id":"01a05fd1-d442-7175-b5e4-f7ef9e21a36c"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-gear/thing/temper-gear-thing.page-type.ts","id":"01a05fcc-41ef-7386-84ed-43fb6534121e"}
-{"propertySlug":"extends-type","path":"temper/catalog/temper-pursuit/thing/temper-pursuit-thing.page-type.ts","id":"01a06153-0ea9-7002-8317-f34518274d6f"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-skill/line-category/temper-skill-line-category.page-type.ts","id":"01a05fca-cb8b-713e-b910-7148de1f3dbd"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}
 {"propertySlug":"extends-type","path":"temper/catalog/temper-skill/slot/temper-skill-slot.page-type.ts","id":"01a05fca-cb8b-79ed-ae49-1fdf5f38602a"}
@@ -59,6 +59,7 @@
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/temper-target-scope.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/effect/temper-target-type/temper-target-type.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.types.ts"}
+{"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/pursuit/thing/temper-pursuit-thing.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-gear/temper-armor-slot/temper-armor-slot.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-gear/temper-armor-trait/temper-armor-trait.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-gear/temper-armor-weight/temper-armor-weight.page-type.types.ts"}
@@ -74,7 +75,6 @@
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-gear/temper-weapon-slot/temper-weapon-slot.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-gear/temper-weapon-trait/temper-weapon-trait.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-gear/thing/temper-gear-thing.page-type.types.ts"}
-{"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-pursuit/thing/temper-pursuit-thing.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-skill/line-category/temper-skill-line-category.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-skill/line/temper-skill-line.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/temper-skill/slot/temper-skill-slot.page-type.types.ts"}
