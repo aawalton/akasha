@@ -6,7 +6,12 @@ export const gamePanel = {
   slug: "game-panel",
   definition: "a part of a game's interface, drawn by the code beside that panel's page",
   extends: ["page-type/module"],
-  parts: ["module/panel-drawing", "game-panel/tower-hud"],
+  parts: [
+    "module/panel-drawing",
+    "game-panel/tower-hud",
+    "module/pool-panel",
+    "game-panel/hotel-hud",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

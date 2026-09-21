@@ -1632,6 +1632,7 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts","id":"01a0c47f-725d-7d9c-9fd8-45724688d64d"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts","id":"01a0c473-6eee-71da-89a1-85de833a7921"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-drawing/panel-drawing.module.ts","id":"01a0c4a0-5cab-7fbb-bff7-7af9f2ab4dbf"}
+{"propertySlug":"decision-kind","path":"story/game/panel/modules/pool-panel/pool-panel.module.ts","id":"01a0c4a1-be31-7274-b419-1776b8ae4de4"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-beside/game-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
