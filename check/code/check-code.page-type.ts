@@ -77,6 +77,7 @@ export const checkCode = {
     "module-property-group/audit",
     "module-property-group/check",
     "module-property-group/decision",
+    "check-code/view-names-a-declared-key",
   ],
   extends: ["page-type/domain"],
   loadedBy: "module/checking",
