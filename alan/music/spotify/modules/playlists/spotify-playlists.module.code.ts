@@ -1,13 +1,8 @@
-import {
-  spotifyGet,
-  spotifyRequest,
-} from "akasha/alan/music/spotify/modules/client/spotify-client.module.code.ts"
+import { spotifyRequest } from "akasha/alan/music/spotify/modules/client/spotify-client.module.code.ts"
 import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import { z } from "zod"
 
 const MAX_PER_ADD = 100
-
-const meSchema = z.object({ id: z.string(), display_name: z.string().nullable() }).passthrough()
 
 const playlistSchema = z
   .object({
@@ -18,8 +13,6 @@ const playlistSchema = z
   .passthrough()
 
 const snapshotSchema = z.object({ snapshot_id: z.string() }).passthrough()
-
-export type Me = z.infer<typeof meSchema>
 
 export type Playlist = z.infer<typeof playlistSchema>
 
@@ -40,10 +33,6 @@ export function batchedInto(uris: readonly string[]): readonly (readonly string[
   return held
 }
 
-export function getMe(over?: Fetching): Promise<Me> {
-  return spotifyGet("/me", meSchema, over)
-}
-
 export function bodyFor(making: Making): Readonly<Record<string, unknown>> {
   return {
     name: making.name,
@@ -52,9 +41,9 @@ export function bodyFor(making: Making): Readonly<Record<string, unknown>> {
   }
 }
 
-export function createPlaylist(userId: string, making: Making, over?: Fetching): Promise<Playlist> {
+export function createPlaylist(making: Making, over?: Fetching): Promise<Playlist> {
   return spotifyRequest(
-    `/users/${encodeURIComponent(userId)}/playlists`,
+    "/me/playlists",
     playlistSchema,
     { method: "POST", body: bodyFor(making) },
     0,
@@ -71,7 +60,7 @@ export async function addTracks(
   let added = 0
   for (const batch of batchedInto(trackIds.map(uriOf))) {
     await spotifyRequest(
-      `/playlists/${encodeURIComponent(playlistId)}/tracks`,
+      `/playlists/${encodeURIComponent(playlistId)}/items`,
       snapshotSchema,
       { method: "POST", body: { uris: batch } },
       0,

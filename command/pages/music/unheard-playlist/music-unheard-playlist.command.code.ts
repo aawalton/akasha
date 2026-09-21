@@ -5,7 +5,6 @@ import {
 import {
   addTracks,
   createPlaylist,
-  getMe,
   type Playlist,
 } from "akasha/alan/music/spotify/modules/playlists/spotify-playlists.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
@@ -36,12 +35,11 @@ const NAMED = [json, plan] as const
 const NOTHING = "every track a followed artist made is heard, so no playlist was made"
 
 export type Reach = {
-  readonly getMe: typeof getMe
   readonly createPlaylist: typeof createPlaylist
   readonly addTracks: typeof addTracks
 }
 
-export const REACHING: Reach = { getMe, createPlaylist, addTracks }
+export const REACHING: Reach = { createPlaylist, addTracks }
 
 export type Made = {
   readonly picked: readonly Picked[]
@@ -99,8 +97,7 @@ export async function makingOver(
   today: string,
   reach: Reach
 ): Promise<Made> {
-  const me = await reach.getMe()
-  const playlist = await reach.createPlaylist(me.id, {
+  const playlist = await reach.createPlaylist({
     name: namedFor(today),
     description: describedFor(picked),
   })

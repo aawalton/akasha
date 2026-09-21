@@ -14,6 +14,15 @@ export const spotifyPlaylists = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Every call here names the path Spotify carries now rather than one it deprecated.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Spotify refuses a deprecated playlist path at the edge, saying only `Forbidden`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A playlist made here is private.",
     },
     {

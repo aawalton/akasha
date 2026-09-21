@@ -24,12 +24,8 @@ const PLAYLIST = {
 
 function reachMade(wrote: string[]): Reach {
   return {
-    getMe: async () => {
-      wrote.push("me")
-      return { id: "alan", display_name: "Alan" }
-    },
-    createPlaylist: async (userId, making) => {
-      wrote.push(`create ${userId} ${making.name}`)
+    createPlaylist: async (making) => {
+      wrote.push(`create ${making.name}`)
       return PLAYLIST
     },
     addTracks: async (playlistId, trackIds) => {
@@ -55,7 +51,7 @@ test("the description counts the tracks and the artists", () => {
 test("the playlist is made under Alan's own account and filled in the order picked", async () => {
   const wrote: string[] = []
   const made = await makingOver(PICKED, "2026-09-21", reachMade(wrote))
-  expect(wrote).toEqual(["me", "create alan Unheard 2026-09-21", "add pl1 one,two,three"])
+  expect(wrote).toEqual(["create Unheard 2026-09-21", "add pl1 one,two,three"])
   expect(made.added).toBe(3)
   expect(made.playlist).toEqual(PLAYLIST)
 })
