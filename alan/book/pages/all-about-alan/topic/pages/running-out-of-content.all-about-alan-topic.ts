@@ -8,5 +8,5 @@ export const runningOutOfContent = {
   definition: "having no world of my own to go into, so I need other people's",
   parents: ["all-about-alan-topic/what-pulls-me-into-doing-something"],
   settled:
-    "Other people can retreat inward for the same mix of the familiar and the new. I have nothing to retreat to.",
+    "Other people can retreat inward for the same mix of the familiar and the new. I have nothing to retreat to.\n\nOther autistic people get escape, decompression and stimulation out of a world of their own. I get all three out of other people's, through books, games and shows.\n\nSo running out of content is a real state rather than boredom, and an aversive one. The channel those three arrive on has closed.",
 } as const satisfies AllAboutAlanTopic
