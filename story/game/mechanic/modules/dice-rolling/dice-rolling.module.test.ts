@@ -11,7 +11,9 @@ function facesOf(seed: string, said: string): readonly number[] {
 }
 
 test("one seed shows one set of faces, every time that seed is asked", () => {
-  expect(facesFrom("the-tower/1", "2d10")).toEqual({ answered: { said: "2d10", faces: [5, 7] } })
+  expect(facesFrom("the-tower/1", "2d10")).toEqual({
+    answered: { said: "2d10", sides: 10, faces: [5, 7] },
+  })
   expect(facesOf("a-seed", "3d6")).toEqual([1, 5, 2])
 })
 

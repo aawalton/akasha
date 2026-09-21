@@ -14,6 +14,7 @@ const MOST_SIDES = 1000
 
 export type Dice = {
   readonly said: string
+  readonly sides: number
   readonly faces: readonly number[]
 }
 
@@ -46,5 +47,5 @@ export function facesFrom(seed: string, said: string): Shown {
       faces.push((word % sides) + FIRST_FACE)
     }
   }
-  return { answered: { said, faces } }
+  return { answered: { said, sides, faces } }
 }
