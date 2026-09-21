@@ -49,7 +49,12 @@ import {
   TablePanel,
   TabsPanel,
 } from "akasha/design/interface/system/modules/components-overlay-panels/components-overlay-panels.module.code.tsx"
-import { ComponentsSelectionPanels } from "akasha/design/interface/system/modules/components-selection-panels/components-selection-panels.module.code.tsx"
+import {
+  BadgeToggleGroupPanel,
+  MultiSelectPanel,
+  SearchButtonPanel,
+  SearchMultiSelectPanel,
+} from "akasha/design/interface/system/modules/components-selection-panels/components-selection-panels.module.code.tsx"
 import {
   ListContentSkeletonPanel,
   LoadingContainerPanel,
@@ -112,7 +117,10 @@ export function ComponentsTabContent() {
           <InputOTPPanel />
           <InlineEditableTextPanel />
           <EditableBadgeNumberPanel />
-          <ComponentsSelectionPanels />
+          <MultiSelectPanel />
+          <SearchMultiSelectPanel />
+          <BadgeToggleGroupPanel />
+          <SearchButtonPanel />
           <ComponentsSortFilterPanels />
           <ComponentsItemDisplayPanels />
           <ComponentsListGridPanels />
