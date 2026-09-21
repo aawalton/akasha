@@ -2487,7 +2487,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/url/modules/cover-url/cover-url.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/url/modules/page-display-mode/page-display-mode.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/url/modules/page-href/page-href.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/url/modules/page-listing-href/page-listing-href.module.ts"}

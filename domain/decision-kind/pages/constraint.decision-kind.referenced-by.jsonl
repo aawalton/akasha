@@ -308,6 +308,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.ts","id":"01a09137-9598-7e34-814d-cf5126c347b6"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/upscale/upscale.domain.ts","id":"01a06815-9efd-7040-a13c-1048a109ba86"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.ts","id":"01a06815-9efd-702c-97c4-1d8fa5c36f48"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/persist-image/persist-image.module.ts","id":"01a0685d-4b35-7013-8853-9ed4e36a99e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-inference.domain.ts","id":"01a06815-9efd-701e-a4d4-a26f49e97554"}
 {"propertySlug":"decision-kind","path":"infrastructure/infrastructure.domain.ts","id":"01a0658b-0f02-735b-af6a-28559398ee59"}
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/infrastructure-kernel.domain.ts","id":"01a05c67-00ac-7c6f-a5c8-9391ef1427fe"}

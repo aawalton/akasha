@@ -1,93 +1,95 @@
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
+import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
+import { shouldPersistMedia } from "akasha/infrastructure/inference/run/modules/persist-media/persist-media.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
-  landRow,
-  mergeRow,
-} from "akasha/infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"
-import {
-  persistInferenceMedia,
-  shouldPersistMedia,
-} from "akasha/infrastructure/inference/run/modules/persist-media/persist-media.module.code.ts"
-import type { InferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
-import { imageObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
-import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { coverUrl } from "akasha/page/url/modules/cover-url/cover-url.module.code.ts"
+  readingFor,
+  writingFor,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const IMAGE_PAGE_TYPE_SLUG = "image"
 
+const BYTES_PROPERTY = "bytes"
+
+const PNG = "png"
+
+const SLUG_OPENS = "image-"
+
+const SLUG_HOLDS = 16
+
 const IMAGE_OPERATIONS = new Set(["generate", "edit", "upscale"])
 
-function deriveEngine(service: string, operation: string): string {
-  if (operation === "edit") return "nano-banana"
-  if (operation === "upscale") return "seedvr2"
-  if (service.startsWith("image-gen")) return "z-image"
-  return service
-}
+const WRITER = "inference-cli <inference-cli@alanwalton.com>"
 
 export function shouldPersistImage(operation: string, persist: boolean | undefined): boolean {
   return shouldPersistMedia(operation, persist, IMAGE_OPERATIONS)
 }
 
-export interface ImagePersistInput {
-  readonly record: InferenceRunRecord
-  readonly inferenceRunId: string
-  readonly outputPath: string
-}
-
-function buildImagePageProperties(input: ImagePersistInput): Record<string, Json> {
-  const { record, inferenceRunId, outputPath } = input
-  return {
-    title: record.title,
-    engine: deriveEngine(record.service, record.operation),
-    service: record.service,
-    operation: record.operation,
-    model: record.model,
-    ...(record.prompt !== undefined ? { prompt: record.prompt } : {}),
-    ...(record.seed !== undefined ? { seed: record.seed } : {}),
-    imagePath: outputPath,
-    inferenceRun: inferenceRunId,
-  }
+export function imageSlugOf(bytes: Uint8Array): string {
+  return `${SLUG_OPENS}${sha256Hex(bytes).slice(0, SLUG_HOLDS)}`
 }
 
 export interface PersistImageDeps {
-  readonly createImagePage: (properties: Record<string, Json>) => Promise<string>
-  readonly publishCover: (pageId: string, bytes: Uint8Array) => Promise<void>
+  readonly pathOf: (slug: string) => Promise<string | null>
+  readonly landPage: (slug: string) => Promise<void>
+  readonly placeBytes: (at: string, bytes: Uint8Array) => Promise<void>
 }
 
-function putSaid(pageId: string): string {
-  return `put ${pageId}'s bytes at ${imageObjectKey(pageId)} in the object store`
+async function pathAsked(slug: string): Promise<string | null> {
+  const read = await readingFor({ pages: [{ pageTypeSlug: IMAGE_PAGE_TYPE_SLUG, slug }] })
+  if ("refused" in read) {
+    throw new OperationalError(`the image page ${slug} went unread: ${read.refused}`)
+  }
+  const body = read.bodies[0]
+  return body === undefined || body.content === null ? null : body.path
 }
 
-function coveredSaid(pageId: string): string {
-  return `set the cover of ${pageId} to ${coverUrl(pageId)}`
+async function pageLanded(slug: string): Promise<void> {
+  const wrote = await writingFor({
+    writer: WRITER,
+    message: `land the image ${slug}`,
+    pages: [{ pageTypeSlug: IMAGE_PAGE_TYPE_SLUG, slug, values: {} }],
+  })
+  if ("refused" in wrote) {
+    throw new OperationalError(`the image page ${slug} did not land: ${wrote.refused}`)
+  }
 }
 
-export function defaultPersistImageDeps(done: string[]): PersistImageDeps {
+export function defaultPersistImageDeps(): PersistImageDeps {
   return {
-    createImagePage: async (properties) => landRow(IMAGE_PAGE_TYPE_SLUG, properties),
-    publishCover: async (pageId, bytes) => {
-      const store = seaweedFSObjectStoreFromEnv()
-      if (store === null) {
-        throw new OperationalError(
-          "object store not configured — set SEAWEEDFS_S3_ENDPOINT / SEAWEEDFS_BUCKET / SEAWEEDFS_ACCESS_KEY / SEAWEEDFS_SECRET_KEY"
-        )
-      }
-      await store.put(imageObjectKey(pageId), new Uint8Array(bytes))
-      done.push(putSaid(pageId))
-      await mergeRow(IMAGE_PAGE_TYPE_SLUG, pageId, { cover: coverUrl(pageId) })
-      done.push(coveredSaid(pageId))
+    pathOf: pathAsked,
+    landPage: pageLanded,
+    placeBytes: async (at, bytes) => {
+      writeFileSync(join(akashaRoot(), at), bytes)
     },
   }
 }
 
 export async function persistInferenceImage(
   deps: PersistImageDeps,
-  input: ImagePersistInput & { readonly outputBytes: Uint8Array },
+  bytes: Uint8Array,
   done: string[]
 ): Promise<string> {
-  return persistInferenceMedia(
-    { createPage: deps.createImagePage, publishBytes: deps.publishCover },
-    { properties: buildImagePageProperties(input), outputBytes: input.outputBytes },
-    done
-  )
+  const slug = imageSlugOf(bytes)
+  let at = await deps.pathOf(slug)
+  if (at === null) {
+    await deps.landPage(slug)
+    done.push(`landed the image page ${slug}`)
+    at = await deps.pathOf(slug)
+    if (at === null) {
+      throw new OperationalError(`the image page ${slug} landed and cannot be read back`)
+    }
+  } else {
+    done.push(`the image page ${slug} was already there`)
+  }
+  const beside = uncommittedBesideAt(at, BYTES_PROPERTY, PNG)
+  if (beside === null) {
+    throw new OperationalError(`\`${at}\` is no page file, so no bytes sit beside it`)
+  }
+  await deps.placeBytes(beside, bytes)
+  done.push(`placed the bytes beside ${slug}`)
+  return slug
 }

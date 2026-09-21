@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"object-store-key.module.code.ts","path":"command/pages/alan/picture/alan-picture.command.code.ts"}
 {"propertySlug":"import","fileName":"object-store-key.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"object-store-key.module.code.ts","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.code.ts"}
-{"propertySlug":"import","fileName":"object-store-key.module.code.ts","path":"infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts"}
 {"propertySlug":"import","fileName":"object-store-key.module.code.ts","path":"infrastructure/storage/object-store/modules/s3-multipart/s3-multipart.module.code.ts"}
 {"propertySlug":"import","fileName":"object-store-key.module.code.ts","path":"infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"}
 {"propertySlug":"import","fileName":"object-store-key.module.code.ts","path":"page/ui/media/modules/media-renditions/media-renditions.module.code.ts"}

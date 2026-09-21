@@ -7,7 +7,6 @@ export const pageUrl = {
   definition: "the addresses a browser reaches pages at, and the ones a reader may be sent to",
 
   parts: [
-    "module/cover-url",
     "module/page-display-mode",
     "module/page-href",
     "module/page-listing-href",
