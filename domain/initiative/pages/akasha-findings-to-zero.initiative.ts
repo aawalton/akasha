@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "The first run is done. 344 were read in panel order, 67 dropped, 277 left: 221 kept for the second run and 56 under `alan-book/all-about-alan` passed over unread, being Alan's own notes. Most died because what they said stopped being true: the folder went with the workspace folding, the index was rebuilt, or another lane landed the mend. The second run is taken with Alan over the 221, one at a time. `run-one.log` in the scratchpad holds a line per finding.\n",
+        "272 are left. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad, and has taken 5 so far. Next is `monarch-poll-returns-0-whatever-its-tally-says` under `domain/monarch`. The 56 under `alan-book/all-about-alan` are still unread. Verify each against the tree before putting it to Alan; twice now a finding was already dead.\n",
     },
   ],
   constraints: [
