@@ -13,6 +13,19 @@ export const cardVocabulary = {
       decisionKind: "decision-kind/departure",
       statement: "A game announces only the words it names here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The system window reports what is so and never judges, foretells, or tells a scene.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An announcement reads the same whoever it happens to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What an announcement felt like belongs to the prose rather than to the window.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
