@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-queue/craft-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-queue/craft-queue.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/pages/lib-treasure/modules/treasure-lib-state/treasure-lib-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-manager.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-addon-manager/selector-addon-manager.module.code.ts"}

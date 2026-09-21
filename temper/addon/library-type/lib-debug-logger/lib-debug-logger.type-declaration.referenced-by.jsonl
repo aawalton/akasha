@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-log/writ-log.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/log/modules/addon-log/addon-log.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/log/modules/library-logger/library-logger.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-core-log/combat-core-log.module.code.ts"}
+{"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-log/writ-log.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-messages/addon-menu-messages.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-state/async-state.module.code.ts"}
 {"propertySlug":"import","fileName":"lib-debug-logger.type-declaration.d.ts","path":"temper/addon/pages/lib-data-encode/modules/data-encode-runtime/data-encode-runtime.module.code.ts"}
