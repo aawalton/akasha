@@ -1,0 +1,13 @@
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-character-panel/craft-character-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-research/craft-research.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/crafting-events-handlers-station/crafting-events-handlers-station.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/crafting-events/crafting-events.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/crafting-public-api/crafting-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/rune-writs/rune-writs.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/crafting-addon/temper-crafting-addon.eso-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}

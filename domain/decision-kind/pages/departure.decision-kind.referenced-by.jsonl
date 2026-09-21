@@ -3449,6 +3449,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/companions-addon/modules/companions-summary-refresh/companions-summary-refresh.module.ts","id":"01a08871-6a01-7c73-b5a1-f0397f9ff734"}
 {"propertySlug":"decision-kind","path":"temper/addon/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.ts","id":"01a0611d-84e6-77f3-8e05-8b4ff7570c86"}
 {"propertySlug":"decision-kind","path":"temper/addon/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
+{"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.ts","id":"01a08e69-e336-7e71-b562-58e9c8e75d47"}
+{"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/modules/potion-controls-ingredients/potion-controls-ingredients.module.ts","id":"01a08e6b-e041-7bef-ba7a-afd8c380848d"}
+{"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/modules/writ-i18n/writ-i18n.module.ts","id":"01a061c7-e896-7e6c-9bf8-02b9e70effd6"}
+{"propertySlug":"decision-kind","path":"temper/addon/crafting-addon/temper-crafting-addon.eso-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-build-ids/errors-addon-build-ids.module.ts","id":"01a060d8-0918-78cb-b1c7-2d2db0462ee2"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-entry/errors-addon-entry.module.ts","id":"01a060d8-091a-7ce1-8550-de2e11a20429"}
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
@@ -4711,10 +4715,6 @@
 {"propertySlug":"decision-kind","path":"temper/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
 {"propertySlug":"decision-kind","path":"temper/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
 {"propertySlug":"decision-kind","path":"temper/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
-{"propertySlug":"decision-kind","path":"temper/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.ts","id":"01a08e69-e336-7e71-b562-58e9c8e75d47"}
-{"propertySlug":"decision-kind","path":"temper/crafting-addon/modules/potion-controls-ingredients/potion-controls-ingredients.module.ts","id":"01a08e6b-e041-7bef-ba7a-afd8c380848d"}
-{"propertySlug":"decision-kind","path":"temper/crafting-addon/modules/writ-i18n/writ-i18n.module.ts","id":"01a061c7-e896-7e6c-9bf8-02b9e70effd6"}
-{"propertySlug":"decision-kind","path":"temper/crafting-addon/temper-crafting-addon.eso-addon.ts","id":"01a061c7-e8c6-7757-820f-c90f8d327b2e"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts","id":"01a060cf-b0b2-743e-9d82-ea94a110b9cb"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/shopping-settings/shopping-settings.module.ts","id":"01a060cf-b0b1-75a2-8041-f9ae780018d3"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.ts","id":"01a060cf-b0af-7945-b272-f1393abf11ca"}
