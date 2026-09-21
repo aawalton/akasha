@@ -1,5 +1,6 @@
 import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export interface BoundedIdleReading {
   idle: boolean

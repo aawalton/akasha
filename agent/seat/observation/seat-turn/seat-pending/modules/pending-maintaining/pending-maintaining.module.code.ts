@@ -12,6 +12,7 @@ import { akashaObservedOf } from "akasha/agent/seat/page/modules/seat-akasha-rea
 import { akashaSubagentsDirIn } from "akasha/agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts"
 import { leftWhereCodeMoved } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const STORE_SETTLE_MS = 250
 

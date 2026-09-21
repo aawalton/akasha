@@ -16,6 +16,7 @@ import {
 } from "akasha/agent/model/gateway/modules/proxy-serving/proxy-serving.module.code.ts"
 import type { StartOAuthProxyOptions } from "akasha/agent/model/gateway/modules/proxy-start/proxy-start.module.code.ts"
 import type { ArmableStreamObserver } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const ROOT = "/var/tmp/proxy-serving-root"
 

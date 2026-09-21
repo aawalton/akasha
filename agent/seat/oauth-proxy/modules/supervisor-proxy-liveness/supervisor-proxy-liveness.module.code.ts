@@ -17,6 +17,7 @@ import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/supervisor-pro
 import { guardTick } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const PROXY_LIVENESS_INTERVAL_MS = 30_000
 

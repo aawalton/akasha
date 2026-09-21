@@ -7,6 +7,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js"
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import { getAgentId } from "akasha/agent/messaging/modules/messages-agent-id/messages-agent-id.module.code.ts"
 import { startChannelListener } from "akasha/agent/messaging/modules/messages-agent-tools/messages-agent-tools.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 function loadSecrets(): undefined {
   try {

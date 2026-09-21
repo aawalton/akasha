@@ -23,6 +23,7 @@ import {
 } from "akasha/code/process/modules/port-holding/port-holding.module.code.ts"
 import { readProcEnvVar } from "akasha/code/process/modules/proc-environ/proc-environ.module.code.ts"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000
 

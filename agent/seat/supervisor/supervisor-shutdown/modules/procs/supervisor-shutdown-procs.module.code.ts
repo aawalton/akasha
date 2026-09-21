@@ -8,6 +8,7 @@ import type {
   InheritedProc,
   PipedProc,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const CHILD_SIGTERM_WAIT_MS = 2_000
 const CHILD_SIGKILL_WAIT_MS = 1_000

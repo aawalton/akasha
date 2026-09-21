@@ -20,6 +20,7 @@ import {
 import { shouldWriteTerminalStoppedStatus } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 import { takeSeatPage } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000
 const SHUTDOWN_SIGKILL_BACKSTOP_MS = 1_500

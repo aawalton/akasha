@@ -8,6 +8,7 @@ import type {
   OAuthProxy,
   StartOAuthProxyOptions,
 } from "akasha/agent/model/gateway/modules/proxy-start/proxy-start.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const AGENT = "agent-one"
 

@@ -18,6 +18,7 @@ import { startLimitResumeMonitor } from "akasha/agent/seat/supervisor/supervisor
 import { startWaitResumeMonitor } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
 import { buildHeartbeatMonitor } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { browserReapPoll } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type PerAgentMonitors = {
   heartbeatTimer: ReturnType<typeof setInterval>

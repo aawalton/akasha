@@ -64,6 +64,7 @@ import {
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
 import type { Server } from "bun"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const DEFAULT_LOG_PREFIX = "[oauth-proxy]"
 

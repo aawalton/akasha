@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+
 const REDELIVERY_HOLDOFF_MS = 45_000
 
 export function redeliveryHoldoff(

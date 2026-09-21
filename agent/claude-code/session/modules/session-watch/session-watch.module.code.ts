@@ -10,6 +10,7 @@ import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-
 import { sessionOf } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import { keepSeatTranscript } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const FALLBACK_AFTER_MS = 15_000
 

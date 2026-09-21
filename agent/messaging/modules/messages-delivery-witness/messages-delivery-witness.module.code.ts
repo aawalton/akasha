@@ -8,6 +8,7 @@ import {
   readDeliveryRecords,
 } from "akasha/agent/messaging/modules/channel-delivery/channel-delivery.module.code.ts"
 import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const WITNESS_OBSERVATION_LIMIT = 3
 

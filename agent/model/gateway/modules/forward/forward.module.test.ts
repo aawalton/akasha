@@ -11,6 +11,8 @@ import type {
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import { emptySlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.test-fixtures.ts"
 import type { ArmableStreamObserver } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const LOG_PREFIX = "[forward-test]"
 

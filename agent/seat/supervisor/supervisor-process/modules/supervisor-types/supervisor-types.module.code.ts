@@ -1,4 +1,5 @@
 import type { ChildExitStatus } from "akasha/agent/seat/supervisor/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type PipedProc = {
   stdin: import("bun").FileSink

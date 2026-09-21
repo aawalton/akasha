@@ -33,6 +33,7 @@ import {
 import { removeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 

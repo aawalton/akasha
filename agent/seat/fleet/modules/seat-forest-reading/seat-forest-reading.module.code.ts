@@ -13,6 +13,7 @@ import {
   type SeatTurnState,
   seatTurnStateOf,
 } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export type ForestSeat = ForestRow & {
   readonly state: SeatTurnState

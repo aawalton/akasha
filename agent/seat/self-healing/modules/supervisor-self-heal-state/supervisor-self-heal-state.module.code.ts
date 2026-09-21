@@ -13,6 +13,7 @@ import { isProcessAlive } from "akasha/agent/seat/supervisor/supervisor-process/
 import { getInheritedClaude } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import { armDeferredRestart } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type { DeferredRestartRuleSource } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 function inheritedClaudePid(): number | null {
   const inherited = getInheritedClaude()

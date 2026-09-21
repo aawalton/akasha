@@ -1,4 +1,5 @@
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const PORT_READ_BUDGET_MS = 5_000
 

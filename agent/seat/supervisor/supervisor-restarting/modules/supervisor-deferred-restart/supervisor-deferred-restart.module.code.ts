@@ -19,6 +19,7 @@ import type {
   DeferredRestartState,
 } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { guardTick } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TICK_MS = 10_000
 
