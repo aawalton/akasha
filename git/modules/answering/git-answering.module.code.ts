@@ -1,5 +1,6 @@
 import { statSync } from "node:fs"
 import { z } from "zod"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const GIT_BIN = z.string().default("git").parse(process.env.GIT_BIN)
 
