@@ -18,7 +18,7 @@ export const term = {
   properties: [
     { pageProperty: "text-property/spelling", required: false, many: false },
     { pageProperty: "text-property/variants", required: false, many: true, maxCount: null },
-    { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "standard-agent-english-property/definition", required: false, many: false },
     { pageProperty: "record-property/spellings", required: false, many: true, maxCount: null },
   ],
   decisions: [
@@ -54,6 +54,11 @@ export const term = {
       decisionKind: "decision-kind/departure",
       statement:
         "A term TypeScript keeps the spelling of is written under that spelling with its type in front.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A term departing from the ordinary sense is a domain, and a domain states its definition.",
     },
   ],
   types: "ts",

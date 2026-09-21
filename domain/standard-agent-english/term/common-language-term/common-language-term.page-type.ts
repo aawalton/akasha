@@ -6,6 +6,12 @@ export const commonLanguageTerm = {
   slug: "common-language-term",
   definition: "one word or phrase with its ordinary sense",
   extends: ["page-type/allowed-term"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A word akasha writes in its ordinary sense states no definition of its own.",
+    },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
