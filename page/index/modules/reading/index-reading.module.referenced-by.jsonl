@@ -307,6 +307,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/game/modules/row-reading/row-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"}

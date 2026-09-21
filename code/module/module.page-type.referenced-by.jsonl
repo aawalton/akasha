@@ -2578,6 +2578,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/rank-ladder/rank-ladder.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/skill-rung/skill-rung.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/modules/row-reading/row-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/game-panel.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/panel-drawing/panel-drawing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/panel-loading/panel-loading.module.ts"}

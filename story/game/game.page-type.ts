@@ -48,6 +48,7 @@ export const game = {
     "text-property/listed-name",
     "text-property/listed-note",
     "page-type/game-encounter",
+    "module/row-reading",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
