@@ -1,3 +1,4 @@
+import { heldIntent } from "akasha/story/game/mechanic/modules/action-intent/action-intent.module.code.ts"
 import type { Rolled } from "akasha/story/game/mechanic/modules/dice-reading/dice-reading.module.code.ts"
 import type { Bonus } from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 
@@ -8,7 +9,6 @@ const CRIT_SCALE = 1.5
 const GRAZE_SHORT_BY = -3
 const GRAZE_SCALE = 0.25
 const DAMAGE_FLOOR = 1
-const INTENT_MOST = 10
 
 export type Reading = {
   readonly attackPower: number
@@ -45,7 +45,7 @@ function bandedBy(margin: number, roll: Rolled): Banded {
 
 export function runMechanic(reading: Reading): Resolved {
   const added = reading.bonuses.reduce((sum, one) => sum + one.by, 0)
-  const intent = Math.min(Math.max(reading.intent, 0), INTENT_MOST)
+  const intent = heldIntent(reading.intent)
   const effectiveScore = reading.attackPower + reading.roll.total + added + intent
   const margin = effectiveScore - reading.defense
   const banded = bandedBy(margin, reading.roll)
