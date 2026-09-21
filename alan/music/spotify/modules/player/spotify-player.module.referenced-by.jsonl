@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"spotify-player.module.code.ts","path":"command/pages/music/pause/music-pause.command.test.ts"}
 {"propertySlug":"import","fileName":"spotify-player.module.code.ts","path":"command/pages/music/play/music-play.command.code.ts"}
 {"propertySlug":"import","fileName":"spotify-player.module.code.ts","path":"command/pages/music/queue/music-queue.command.code.ts"}
+{"propertySlug":"import","fileName":"spotify-player.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"spotify-player.module.code.ts","path":"command/pages/music/repeat/music-repeat.command.code.ts"}
 {"propertySlug":"import","fileName":"spotify-player.module.code.ts","path":"command/pages/music/repeat/music-repeat.command.test.ts"}
 {"propertySlug":"import","fileName":"spotify-player.module.code.ts","path":"command/pages/music/seek/music-seek.command.code.ts"}

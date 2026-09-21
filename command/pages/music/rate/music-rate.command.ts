@@ -36,11 +36,12 @@ export const musicRate = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A call names a page by its slug or says to grade what Spotify is playing.",
+      statement:
+        "A call names a page by its slug, or says to grade what Spotify is playing or played last.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What Spotify is playing is a track, so such a call names no target.",
+      statement: "What Spotify names is a track, so such a call names no target.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -73,7 +74,8 @@ export const musicRate = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reaches a music provider but the read of what is playing.",
+      statement:
+        "Nothing here reaches a music provider but the reads of what is playing and what played last.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -93,10 +95,19 @@ export const musicRate = {
     { argument: "argument/json" },
     {
       argument: "argument/slug",
-      notWith: ["argument/now-playing"],
-      oneOf: ["argument/now-playing"],
+      notWith: ["argument/now-playing", "argument/just-played"],
+      oneOf: ["argument/now-playing", "argument/just-played"],
     },
-    { argument: "argument/now-playing", notWith: ["argument/slug"], oneOf: ["argument/slug"] },
+    {
+      argument: "argument/now-playing",
+      notWith: ["argument/slug", "argument/just-played"],
+      oneOf: ["argument/slug", "argument/just-played"],
+    },
+    {
+      argument: "argument/just-played",
+      notWith: ["argument/slug", "argument/now-playing"],
+      oneOf: ["argument/slug", "argument/now-playing"],
+    },
     { argument: "argument/grade" },
     { argument: "argument/tag", repeats: true },
     { argument: "argument/reaction-file" },
@@ -105,6 +116,9 @@ export const musicRate = {
     { argument: "argument/reaction", notWith: ["argument/reaction-file"] },
     { argument: "argument/personal-connections", notWith: ["argument/personal-connections-file"] },
     { argument: "argument/insights", notWith: ["argument/insights-file"] },
-    { argument: "argument/grade-target", notWith: ["argument/now-playing"] },
+    {
+      argument: "argument/grade-target",
+      notWith: ["argument/now-playing", "argument/just-played"],
+    },
   ],
 } as const satisfies Command

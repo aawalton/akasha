@@ -1,4 +1,8 @@
 import type { NowPlayingEnvelope } from "akasha/command/pages/music/now-playing/music-now-playing.command.code.ts"
+import type {
+  PlayedItem,
+  PlayedReader,
+} from "akasha/command/pages/music/rate/modules/track-naming/track-naming.module.code.ts"
 
 export const TRACK_SLUG = "alexandria-always-an-angel-always-an-angel"
 
@@ -11,6 +15,21 @@ export const LENGTH_MS = 116250
 export function finding(externalId: string): string | null {
   return externalId === PLAYING_ID ? TRACK_SLUG : null
 }
+
+export function itemsOf(
+  tracks: readonly { readonly id: string | null; readonly name: string }[]
+): readonly PlayedItem[] {
+  return tracks.map((track) => ({ track }))
+}
+
+export function historyOf(
+  tracks: readonly { readonly id: string | null; readonly name: string }[]
+): PlayedReader {
+  const items = itemsOf(tracks)
+  return async () => ({ items })
+}
+
+export const PLAYED = historyOf([{ id: PLAYING_ID, name: PLAYING_TITLE }])
 
 export function playing(
   id: string | null,

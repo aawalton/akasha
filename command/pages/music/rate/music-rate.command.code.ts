@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { getRecentlyPlayed } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -12,6 +13,7 @@ import { gradeTarget } from "akasha/command/argument/pages/grade-target.argument
 import { insights } from "akasha/command/argument/pages/insights.argument.ts"
 import { insightsFile } from "akasha/command/argument/pages/insights-file.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { justPlayed } from "akasha/command/argument/pages/just-played.argument.ts"
 import { nowPlaying } from "akasha/command/argument/pages/now-playing.argument.ts"
 import { personalConnections } from "akasha/command/argument/pages/personal-connections.argument.ts"
 import { personalConnectionsFile } from "akasha/command/argument/pages/personal-connections-file.argument.ts"
@@ -44,6 +46,8 @@ import {
 } from "akasha/command/pages/music/now-playing/music-now-playing.command.code.ts"
 import {
   type Finding,
+  justPlayedNamed,
+  type PlayedReader,
   playingNamed,
   type Refusal,
   slugCarried,
@@ -87,6 +91,10 @@ const SLUG = slugArgument.said
 
 const WHOLE = true
 
+const LAST_ONLY = 1
+
+export const playedLast: PlayedReader = () => getRecentlyPlayed({ limit: LAST_ONLY })
+
 const ARTIST_PROSE = [reaction.slug]
 
 const SONG_PROSE = [personalConnections.slug, insights.slug]
@@ -106,6 +114,7 @@ const TAKES = [
   json,
   slugArgument,
   nowPlaying,
+  justPlayed,
   grade,
   tag,
   reactionFile,
@@ -132,6 +141,7 @@ export const WRITE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as cons
 export type Taken = {
   readonly target: string
   readonly slug: string | null
+  readonly justPlayed: boolean
   readonly grade: string | null
   readonly prose: ReadonlyMap<string, string>
   readonly tags: readonly string[]
@@ -216,7 +226,15 @@ export function taken(argv: readonly string[], given: Given): Reading {
   const tags = held.tag
   const wrong = wrongIn(target, marked, prose, tags)
   if (wrong !== null) return { refused: [wrong] }
-  return { target, slug: named, grade: marked, prose, tags, json: held.json }
+  return {
+    target,
+    slug: named,
+    justPlayed: held.justPlayed,
+    grade: marked,
+    prose,
+    tags,
+    json: held.json,
+  }
 }
 
 export function slugCarrying(root: string, externalId: string): string | null {
@@ -246,17 +264,29 @@ export function saidOf(held: Taken, slug: string): string {
     : `Recorded ${held.target} ${slug}`
 }
 
+async function namedFor(
+  held: Taken,
+  found: Finding,
+  read: NowPlayingReader,
+  history: PlayedReader
+): Promise<string | Refusal> {
+  if (held.slug !== null) return held.slug
+  if (held.justPlayed) return justPlayedNamed(found, (await history()).items)
+  return playingNamed(found, await envelopeFor(read))
+}
+
 async function recorded(
   done: string[],
   argv: readonly string[],
   given: Given,
   landing: Landing,
-  read: NowPlayingReader
+  read: NowPlayingReader,
+  history: PlayedReader
 ): Promise<Answer> {
   const held = taken(argv, given)
   if ("refused" in held) return refusedBy(held.refused, INPUT)
   const finding: Finding = (externalId) => slugCarrying(given.root, externalId)
-  const naming = held.slug ?? playingNamed(finding, await envelopeFor(read))
+  const naming = await namedFor(held, finding, read, history)
   if (typeof naming !== "string") return refused(naming.refused, DATA)
   const slug = naming
   const found = listedAt(given.root, held.target, slug)
@@ -296,7 +326,8 @@ export async function musicRate(
   argv: readonly string[],
   given: Given,
   landing: Landing = runMechanicalChange,
-  read: NowPlayingReader = PLAYER
+  read: NowPlayingReader = PLAYER,
+  history: PlayedReader = playedLast
 ): Promise<Answer> {
-  return await answering(async (done) => await recorded(done, argv, given, landing, read))
+  return await answering(async (done) => await recorded(done, argv, given, landing, read, history))
 }

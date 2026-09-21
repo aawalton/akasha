@@ -26,6 +26,16 @@ export const trackNaming = {
       statement: "A refusal says the Spotify id and the title Spotify gives.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The track played last is the first Spotify names among the tracks played recently.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That first track is the one before what is playing, and the last heard where nothing plays.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Spotify.",
     },

@@ -4,7 +4,10 @@ import {
   OPERATIONAL,
   partWay,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { TRACK_SLUG } from "akasha/command/pages/music/rate/modules/track-naming/track-naming.module.test-fixtures.ts"
+import {
+  PLAYED,
+  TRACK_SLUG,
+} from "akasha/command/pages/music/rate/modules/track-naming/track-naming.module.test-fixtures.ts"
 import {
   ARTIST,
   musicRate,
@@ -188,6 +191,43 @@ test("one call grades what is playing without naming any page", async () => {
   const written = one.asked[0]?.given
   const body = written !== undefined && "body" in written ? written.body : ""
   expect(body).toContain('grade: "S+"')
+  expect(body).toContain('tags: ["attraction"]')
+})
+
+test("a call saying the track played last names a track and no slug", () => {
+  const held = takingOf(["--just-played", "--grade", "A", "--tag", "attraction"])
+  expect(held.target).toBe(TRACK)
+  expect(held.slug).toBe(null)
+  expect(held.justPlayed).toBe(true)
+  expect(held.tags).toEqual(["attraction"])
+})
+
+test("the track played last is never said beside a slug or beside what is playing", () => {
+  expect(refusalOf(["--just-played", "--slug", "a", "--grade", "A"])).toContain(
+    "never said together"
+  )
+  expect(refusalOf(["--just-played", "--now-playing", "--grade", "A"])).toContain(
+    "never said together"
+  )
+})
+
+test("one call grades the track played last without reaching the player", async () => {
+  const reach = reaching({ ...LANDED, landed: [TRACK_AT] })
+  const said = await musicRate(
+    ["--just-played", "--grade", "S", "--tag", "attraction", "--json"],
+    GIVEN,
+    reach.landing,
+    SILENT,
+    PLAYED
+  )
+  expect(said.refusals).toEqual([])
+  expect(JSON.parse(said.report[0] ?? "")).toEqual({ target: TRACK, slug: TRACK_SLUG, grade: "S" })
+  const one = reach.reached[0]
+  if (one === undefined) throw new Error("the landing was never reached")
+  expect(pathsIn(one.asked)).toEqual([TRACK_AT])
+  const written = one.asked[0]?.given
+  const body = written !== undefined && "body" in written ? written.body : ""
+  expect(body).toContain('grade: "S"')
   expect(body).toContain('tags: ["attraction"]')
 })
 
