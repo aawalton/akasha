@@ -29,11 +29,17 @@ export const image = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An image made by a run names that run.",
+      statement:
+        "An image's slug is `image-` and the first sixteen hex of the sha256 of its bytes.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An image catalogued from disk names no run.",
+      statement: "Two pictures of the same bytes are one image.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run that made an image records the sha256 of the bytes, which the slug opens with.",
     },
   ],
   types: "ts",

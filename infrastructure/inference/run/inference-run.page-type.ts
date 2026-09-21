@@ -30,8 +30,11 @@ export const inferenceRun = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The media a run made is kept as an object and named from the page that object was made under.",
+      statement: "An image a run made is an image page with the bytes beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Audio a run made is kept as an object named from the row it was made under.",
     },
     { decisionKind: "decision-kind/absence", statement: "Nothing here reaches a model service." },
     {

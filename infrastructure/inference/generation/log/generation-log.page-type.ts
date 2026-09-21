@@ -6,14 +6,9 @@ export const generationLog = {
   slug: "generation-log",
   definition: "the record kept of what one set of model services has made",
   extends: ["page-type/page"],
-  parts: [
-    "file-property/generation-audios",
-    "file-property/generation-images",
-    "file-property/generation-runs",
-  ],
+  parts: ["file-property/generation-audios", "file-property/generation-runs"],
   properties: [
     { pageProperty: "file-property/generation-runs", required: true, many: false },
-    { pageProperty: "file-property/generation-images", required: false, many: false },
     { pageProperty: "file-property/generation-audios", required: false, many: false },
   ],
   decisions: [
