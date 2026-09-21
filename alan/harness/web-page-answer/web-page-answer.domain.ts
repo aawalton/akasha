@@ -29,8 +29,7 @@ export const webPageAnswer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "How a site knows its reader is passed in, and a site naming none is read by supabase.",
+      statement: "How a site knows its reader is passed in, and every site passes one.",
     },
   ],
 } as const satisfies Domain

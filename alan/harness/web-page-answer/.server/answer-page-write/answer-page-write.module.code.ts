@@ -1,4 +1,3 @@
-import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import type { ReadUser } from "akasha/page/access/modules/answer/answer.module.code.ts"
 import {
   readPageWrite,
@@ -18,7 +17,7 @@ function namedOnce(writer: string): undefined {
 export async function answerPageWrite(
   request: Request,
   writer: string,
-  readUser: ReadUser = resolveRequestUser
+  readUser: ReadUser
 ): Promise<Response> {
   namedOnce(writer)
   const { user, headers } = await readUser(request)
