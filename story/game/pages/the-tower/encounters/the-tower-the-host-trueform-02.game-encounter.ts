@@ -13,4 +13,16 @@ export const theTowerTheHostTrueform02 = {
   trigger:
     "a confirmed true-Host strike cracks the haven (PHASE 2 — the predator under the faces; flows straight from the-host-01)",
   drop: "the haven's ANCHOR (a 'lantern of true seeing' / revelation-core — a cold clear lens that, lit with his Ember, shows woven illusion for what it is; a strong forward counter-tool for future deception floors + a true-sight affinity seed) and the Host's mantle (the woven-light cloak — glamour-craft material / a PRESENCE-keyed deception-affinity seed)",
+  gates: [
+    {
+      name: "pinned in the ember-light",
+      multiplier: 1.5,
+      note: "Lit and cornered against real stone it is fully real and exposed, and two clean strikes drop it.",
+    },
+    {
+      name: "slipped into the failing shadows",
+      multiplier: 0.5,
+      note: "In shadow it flickers half-real, re-hides for a beat and resets toward another ambush.",
+    },
+  ],
 } as const satisfies GameEncounter
