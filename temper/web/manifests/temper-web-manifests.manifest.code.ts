@@ -163,17 +163,7 @@ function webDeploymentYaml(): string {
                 { name: "HOST", value: "0.0.0.0" },
                 { name: "PORT", value: `${temperWeb.containerPort}` },
                 { name: "PAGE_WRITER", value: "temper-web" },
-                { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
-                { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".tempereso.com" },
-                {
-                  name: "SUPABASE_INTERNAL_URL",
-                  value: "http://auth-proxy.auth-proxy.svc.cluster.local:3080",
-                },
                 { name: "BASE_URL", value: "https://tempereso.com" },
-                {
-                  name: "SUPABASE_JWT_SECRET",
-                  valueFrom: { secretKeyRef: { name: SECRET_NAME, key: "JWT_SECRET" } },
-                },
                 { name: "VALIDATION_STORAGE_PATH", value: "/data/validation" },
                 { name: "WATCHER_DIR", value: WATCHER_DEST_DIR },
                 { name: "ADDONS_BUNDLE_DIR", value: ADDONS_DEST_DIR },
@@ -219,26 +209,9 @@ function webDeploymentYaml(): string {
 }
 
 export const BUILD_ENV = [
-  { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
-  { name: "VITE_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
   {
     name: "NEXT_PUBLIC_ELECTRIC_URL",
     value: "https://supabase.alanwalton.com/electric/v1/shape",
-  },
-  {
-    name: "NEXT_PUBLIC_SUPABASE_ANON_KEY",
-    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
-  },
-  {
-    name: "VITE_SUPABASE_ANON_KEY",
-    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
-  },
-  { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".tempereso.com" },
-  { name: "VITE_SUPABASE_COOKIE_DOMAIN", value: ".tempereso.com" },
-  { name: "SUPABASE_URL", value: "https://supabase.alanwalton.com" },
-  {
-    name: "SUPABASE_SERVICE_ROLE_KEY",
-    fromSecret: { name: SECRET_NAME, key: "SUPABASE_SERVICE_ROLE_KEY" },
   },
 ] as const
 
