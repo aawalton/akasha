@@ -131,6 +131,14 @@ export const proxyServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The port is bound on the loopback address rather than on every address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller off this workstation reaches no gateway.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A listener answering no port is stopped.",
     },
     {

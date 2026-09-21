@@ -90,6 +90,8 @@ const HANDLER_EXIT = "fetch_handler_exit"
 
 const AUTHORIZATION = "authorization"
 
+const LOOPBACK = "127.0.0.1"
+
 export type Listening = {
   readonly port: number | undefined
   readonly stop: () => undefined
@@ -161,7 +163,9 @@ function listenedOn(spec: ListenSpec): Listening {
   const fetch = (req: Request, serving: Server<undefined>): Promise<Response> =>
     answered(req, listeningOf(serving))
   const server =
-    "unix" in spec ? Bun.serve({ unix: spec.unix, fetch }) : Bun.serve({ port: spec.port, fetch })
+    "unix" in spec
+      ? Bun.serve({ unix: spec.unix, fetch })
+      : Bun.serve({ hostname: LOOPBACK, port: spec.port, fetch })
   return listeningOf(server)
 }
 
