@@ -88,6 +88,7 @@ export const temper = {
     "domain/temper-capture",
     "domain/temper-economy",
     "domain/temper-items",
+    "domain/temper-player",
   ],
   decisions: [
     {
