@@ -335,6 +335,7 @@
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.ts","id":"01a0c4f9-83fa-7dde-aee6-9ce457c3ea99"}
 {"propertySlug":"decision-kind","path":"page/file-property/file-property.page-type.ts","id":"01a04dff-9d7d-7487-9a08-2485e897542f"}
 {"propertySlug":"decision-kind","path":"page/file-property/properties/file-name.text-property.ts","id":"01a0585d-233d-7e12-8214-d5f3f602412f"}
+{"propertySlug":"decision-kind","path":"page/grade-property/grade-property.page-type.ts","id":"01a063de-2c60-7004-81e6-21e2564b7832"}
 {"propertySlug":"decision-kind","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}
 {"propertySlug":"decision-kind","path":"page/index/modules/answering/index-answering.module.ts","id":"01a05eca-0849-789d-8118-1e8d7ae05244"}
 {"propertySlug":"decision-kind","path":"page/index/modules/package-reaching/package-reaching.module.ts","id":"01a05ae4-fc70-7001-89b1-ea70915be49e"}
@@ -358,7 +359,6 @@
 {"propertySlug":"decision-kind","path":"page/name-place/name-place.page-type.ts","id":"01a04fc9-2ad4-7896-ae44-4569ddae3f7e"}
 {"propertySlug":"decision-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"decision-kind","path":"page/property-entry/page-property-entry.page-type.ts","id":"01a05f80-3969-7000-8ccd-6284909fc036"}
-{"propertySlug":"decision-kind","path":"page/rank-property/rank-property.page-type.ts","id":"01a063de-2c60-7004-81e6-21e2564b7832"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-reading/page-reading.module.ts","id":"01a05b1e-1347-77b8-9b46-d0b4f449e698"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}

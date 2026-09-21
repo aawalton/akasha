@@ -28,7 +28,7 @@ export const page = {
       default: "jsonl",
     },
     { pageProperty: "file-property/carried", required: false, many: false, default: "jsonl" },
-    { pageProperty: "rank-property/grade", required: false, many: false },
+    { pageProperty: "grade-property/grade", required: false, many: false },
   ],
   parts: [
     "domain/id",
@@ -111,7 +111,7 @@ export const page = {
     "performance/body-read-cost",
     "page-type/phone-number-property",
     "page-type/process-property",
-    "page-type/rank-property",
+    "page-type/grade-property",
     "page-type/record-property",
     "page-type/relation-property",
     "page-type/rrule-property",
@@ -130,7 +130,7 @@ export const page = {
     "text-property/id",
     "text-property/slug",
     "text-property/title",
-    "rank-property/grade",
+    "grade-property/grade",
   ],
   decisions: [
     {

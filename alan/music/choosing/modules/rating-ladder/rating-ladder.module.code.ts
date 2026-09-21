@@ -1,4 +1,4 @@
-import type { Grade } from "akasha/page/properties/grade.rank-property.types.ts"
+import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
 
 export type MusicRating = Grade
 

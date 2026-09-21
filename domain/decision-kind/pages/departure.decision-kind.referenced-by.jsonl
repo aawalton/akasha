@@ -1044,7 +1044,7 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/music-catalog.domain.ts","id":"01a06238-8d2c-7f24-81f1-c8b7232268d3"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/release/release.page-type.ts","id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
-{"propertySlug":"decision-kind","path":"alan/music/catalog/song/properties/singability.rank-property.ts","id":"01a06243-144b-700b-83e8-f1b91786511f"}
+{"propertySlug":"decision-kind","path":"alan/music/catalog/song/properties/singability.grade-property.ts","id":"01a06243-144b-700b-83e8-f1b91786511f"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/carried-by.record-property.ts","id":"01a0c52d-5525-787c-804a-bd4a8378c2f1"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/disc-number.number-property.ts","id":"01a0a5df-ff89-7f60-a3a6-f27b5e02d970"}
@@ -2913,6 +2913,7 @@
 {"propertySlug":"decision-kind","path":"page/file-property/properties/tool-resolves-paths.boolean-property.ts","id":"01a08de9-864d-748a-a2c0-0a5be50709bf"}
 {"propertySlug":"decision-kind","path":"page/generator-kind/generator-kind.page-type.ts","id":"01a04f17-5b78-7c66-9145-7a386e55406e"}
 {"propertySlug":"decision-kind","path":"page/generator-kind/properties/after-checks.boolean-property.ts","id":"01a05031-3a74-7ba8-849b-751fec68738d"}
+{"propertySlug":"decision-kind","path":"page/grade-property/grade-property.page-type.ts","id":"01a063de-2c60-7004-81e6-21e2564b7832"}
 {"propertySlug":"decision-kind","path":"page/id/modules/random-id/random-id.module.ts","id":"01a05c48-deeb-7012-98c6-5d13910416a7"}
 {"propertySlug":"decision-kind","path":"page/id/modules/uuid-version-7/uuid-version-7.module.ts","id":"01a07be9-0fe1-7ffb-9765-633921d012dd"}
 {"propertySlug":"decision-kind","path":"page/identity/modules/file-page/file-page.module.ts","id":"01a05c69-e870-7593-9000-9a0009b4eeae"}
@@ -3038,7 +3039,7 @@
 {"propertySlug":"decision-kind","path":"page/process-property/process-property.page-type.ts","id":"01a05406-9bc6-71c5-8fcf-b15b97d86578"}
 {"propertySlug":"decision-kind","path":"page/properties/carried.file-property.ts","id":"01a0a67f-8361-7168-a93c-9877e30b109a"}
 {"propertySlug":"decision-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
-{"propertySlug":"decision-kind","path":"page/properties/grade.rank-property.ts","id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
+{"propertySlug":"decision-kind","path":"page/properties/grade.grade-property.ts","id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
 {"propertySlug":"decision-kind","path":"page/properties/id.text-property.ts","id":"01a049b9-856c-7ee7-b958-f63eead00582"}
 {"propertySlug":"decision-kind","path":"page/properties/priority.select-property.ts","id":"01a0c537-0fde-7c44-baa5-1aa0541d3b1a"}
 {"propertySlug":"decision-kind","path":"page/properties/referenced-by.file-property.ts","id":"01a0a2e9-c513-7eed-aa47-3b272814218c"}
@@ -3051,7 +3052,6 @@
 {"propertySlug":"decision-kind","path":"page/query/modules/store-spelling/store-spelling.module.ts","id":"01a06369-1e85-764a-90a8-c72d834a1882"}
 {"propertySlug":"decision-kind","path":"page/query/modules/store-writing/store-writing.module.ts","id":"01a05aec-eaaa-7be1-9528-6c84a071ce1c"}
 {"propertySlug":"decision-kind","path":"page/query/page-query.domain.ts","id":"01a05aec-eaaa-785b-b175-87946b2c2eb7"}
-{"propertySlug":"decision-kind","path":"page/rank-property/rank-property.page-type.ts","id":"01a063de-2c60-7004-81e6-21e2564b7832"}
 {"propertySlug":"decision-kind","path":"page/relation-property/relation-property.page-type.ts","id":"01a04dff-9d7d-7809-9a88-4fd343f11772"}
 {"propertySlug":"decision-kind","path":"page/rrule-property/rrule-property.page-type.ts","id":"01a0c507-6bf0-71a3-b7d9-5e878c5c4d9b"}
 {"propertySlug":"decision-kind","path":"page/select-property/properties/select-option-colors.record-property.ts","id":"01a0c532-8eb2-7ed9-a00c-740c098da3a3"}

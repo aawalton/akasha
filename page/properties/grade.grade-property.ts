@@ -1,8 +1,8 @@
-import type { RankProperty } from "akasha/page/rank-property/rank-property.page-type.types.ts"
+import type { GradeProperty } from "akasha/page/grade-property/grade-property.page-type.types.ts"
 
 export const grade = {
   id: "01a0655b-4a9b-7003-a822-f4a3ceda67b2",
-  type: "page-type/rank-property",
+  type: "page-type/grade-property",
   slug: "grade",
   propertySlug: "grade",
   definition: "Alan's mark for how well a picture caught the persona",
@@ -31,4 +31,4 @@ export const grade = {
     },
   ],
   types: "ts",
-} as const satisfies RankProperty
+} as const satisfies GradeProperty

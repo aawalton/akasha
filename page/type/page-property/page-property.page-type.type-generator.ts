@@ -39,7 +39,7 @@ const RECORD = "record-property"
 
 const SLUG_AT = `${textProperty.slug}/${slugPage.slug}` as const
 
-const CHOSEN = new Set(["rank-property", "select-property"])
+const CHOSEN = new Set(["grade-property", "select-property"])
 
 const FILE_PROPERTY = "file-property"
 

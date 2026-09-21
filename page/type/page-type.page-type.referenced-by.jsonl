@@ -325,6 +325,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/file-property-group/file-property-group.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/file-property/file-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/generator-kind/generator-kind.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/grade-property/grade-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/index/index.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/instant-property/instant-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/markdown-property/markdown-property.page-type.ts"}
@@ -341,7 +342,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/phone-number-property/phone-number-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/process-property/process-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/property-entry/page-property-entry.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/rank-property/rank-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/record-property/record-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/relation-property/relation-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/rrule-property/rrule-property.page-type.ts"}
