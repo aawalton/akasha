@@ -1,6 +1,0 @@
-{"domain":"domain/code-running"}
-{"id":"01a0c443-b174-7000-863a-a22893f0a820"}
-{"intentStack":[{"statement":"An overlay carries only the bodies that differ from the checkout under it.","workingMemory":"`bodiesOf` fills the overlay from `change.carried ?? change.changed`, and an audit's `changed` is the whole tree, so `mountedOver` writes all 460,459 files under /var/tmp before a test runs, each byte-identical to the one already in the lower layer. Measured: 2032 MB written, about 90 seconds in the pod before the first test, 2.2 GiB resident. What really differs is the shadow's filed bodies and the links `linksIn` makes. The tests themselves cost 300.5 processor seconds."}]}
-{"persona":"persona/dalla"}
-{"slug":"dalla-test-performance"}
-{"type":"page-type/initiative"}
