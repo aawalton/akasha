@@ -241,6 +241,7 @@ export const checkCode = {
         "A check replacing an old one still needs approval.",
         "Widening what an approved check reaches needs none.",
         "How an approved check reads needs none.",
+        "Taking an approved check out of service needs approval as adding it did.",
       ],
     },
     {
