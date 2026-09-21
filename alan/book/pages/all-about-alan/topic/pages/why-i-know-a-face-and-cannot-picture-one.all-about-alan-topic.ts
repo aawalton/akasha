@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whyIKnowAFaceAndCannotPictureOne = {
+  id: "01a0c598-e66b-70b9-b699-f5a5d962088c",
+  type: "page-type/all-about-alan-topic",
+  slug: "why-i-know-a-face-and-cannot-picture-one",
+  title: "Why I Know A Face And Cannot Picture One",
+  definition: "matching what is in front of me working while fetching it back does not",
+  parents: ["all-about-alan-topic/where-my-memory-breaks"],
+  related: ["all-about-alan-topic/what-happens-when-i-sleep"],
+  settled:
+    "Recognising works. Fetching something back does not.\n\nMy face recognition is excellent, and I cannot picture a face at all, not even one I know well.\n\nThe shape of it is a hash that runs one way. I can compute one, by taking in what is in front of me and encoding it, and I can compare one against the ones I hold. The comparing is the recognising.\n\nWhat I cannot do is run it backward and get the original out. Fetching something back is running the hash backward, and that move is not in me. Other people's runs both ways.\n\nAsleep the encodings do reconstruct, so what is blocked is the deliberate waking inversion alone. What comes up by itself works. What I go and fetch does not.",
+} as const satisfies AllAboutAlanTopic
