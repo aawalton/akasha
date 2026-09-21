@@ -14,6 +14,7 @@ export const gamePanel = {
     "game-panel/character-sheet",
     "game-panel/quest-list",
     "game-panel/story-so-far",
+    "game-panel/aravel-hud",
   ],
   decisions: [
     {
