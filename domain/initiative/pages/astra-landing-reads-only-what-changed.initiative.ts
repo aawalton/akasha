@@ -10,7 +10,7 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "A landing reads only what the paths its change names reach.",
       workingMemory:
-        "The hold a landing takes is 48ms to 85ms where the change names one folder and about 480ms where it adds or removes a page, because `.index/page/id` held 77,208 entries in one folder and every such landing rebuilt that tree. A page's id is filed under its last two characters as well now, 256 folders of about 300. Reading and writing only that shape waits on the 52 akasha processes older than `3b97759e` turning over.",
+        "A page's id is filed under its last two characters and nowhere else, so `.index/page/id` is 256 folders of about 300 entries rather than one folder of 77,326, and git tracks 383,122 files rather than 460,339. `filedAt` in `index-surface.module.code.ts` is the one place that path is worked out, so the reader, the writer and every fixture agree on it.",
     },
 
     {
