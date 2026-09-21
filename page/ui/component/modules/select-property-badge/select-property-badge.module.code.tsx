@@ -1,10 +1,14 @@
 "use client"
 
-import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import {
+  Badge,
+  type BadgeVariant,
+} from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
   stackedBadgesClass,
   useBadgeLayoutContext,
 } from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
+import { badgeVariantForColor } from "akasha/design/interface/badge/modules/color-badge-variant/color-badge-variant.module.code.ts"
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -15,12 +19,12 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import { getValueArray } from "akasha/page/core/property-type/modules/multi-relation/multi-relation.module.code.ts"
-import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import {
   findOption,
   getOptions,
 } from "akasha/page/core/property-type/modules/select/select.module.code.ts"
-import type { BadgeVariant } from "akasha/page/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
+import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
+import { selectConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 
 const DROPDOWN_TRIGGER_CLS =
@@ -28,6 +32,26 @@ const DROPDOWN_TRIGGER_CLS =
 
 const DROPDOWN_ITEM_ACTIVE_CLS = `data-[highlighted]:!bg-surface-4 focus:!bg-surface-4 group-has-[[data-highlighted]]/select:[&:not([data-highlighted])]:!bg-transparent ${surfaceClass(4)}`
 const DROPDOWN_ITEM_INACTIVE_CLS = "data-[highlighted]:!bg-surface-4 focus:!bg-surface-4"
+
+function colorNamedByOption(definition: PropertyDefinition): ReadonlyMap<string, string> {
+  const named = new Map<string, string>()
+  const config = parseConfig(selectConfigSchema, definition.config, { options: [] })
+  for (const option of config.options) {
+    if (option.color !== undefined) named.set(option.id, option.color)
+  }
+  return named
+}
+
+function optionBadgeVariant(
+  definition: PropertyDefinition,
+  colorNamed: ReadonlyMap<string, string>,
+  optionId: string,
+  fallback: BadgeVariant
+): BadgeVariant {
+  const named = badgeVariantForColor(colorNamed.get(optionId))
+  if (named !== null) return named
+  return resolveBadgeVariant(definition, optionId) ?? fallback
+}
 
 function SelectDropdown({
   definition,
@@ -43,6 +67,7 @@ function SelectDropdown({
   align: "start" | "end"
 }) {
   const options = getOptions(definition)
+  const colorNamed = colorNamedByOption(definition)
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
@@ -57,7 +82,7 @@ function SelectDropdown({
       >
         {options.map((opt) => {
           const isActive = chosenIds.includes(opt.id)
-          const optVariant = resolveBadgeVariant(definition, opt.id) ?? "elevation-muted"
+          const optVariant = optionBadgeVariant(definition, colorNamed, opt.id, "elevation-muted")
           return (
             <DropdownMenuItem
               key={opt.id}
@@ -92,6 +117,7 @@ function ChosenOptionBadges({
   ids: readonly string[]
 }) {
   const options = getOptions(definition)
+  const colorNamed = colorNamedByOption(definition)
   const accentVariant = definition.accent ? "accent" : "elevation-muted"
   if (ids.length === 0) return <EmptyOptionBadge />
   return (
@@ -99,7 +125,7 @@ function ChosenOptionBadges({
       {ids.map((id) => (
         <Badge
           key={`${definition.id}-${id}`}
-          variant={resolveBadgeVariant(definition, id) ?? accentVariant}
+          variant={optionBadgeVariant(definition, colorNamed, id, accentVariant)}
         >
           {findOption(options, id)?.label ?? id}
         </Badge>
@@ -168,12 +194,13 @@ export function SelectPropertyBadge({
 
   const options = getOptions(property)
   const option = typeof value === "string" ? findOption(options, value) : undefined
+  const colorNamed = colorNamedByOption(property)
   const accentVariant = property.accent ? "accent" : "elevation-muted"
-  const variantForValue = (v: PropertyValue): BadgeVariant =>
-    resolveBadgeVariant(property, v) ?? accentVariant
 
   const trigger = option ? (
-    <Badge variant={variantForValue(value)}>{option.label}</Badge>
+    <Badge variant={optionBadgeVariant(property, colorNamed, option.id, accentVariant)}>
+      {option.label}
+    </Badge>
   ) : (
     <EmptyOptionBadge />
   )

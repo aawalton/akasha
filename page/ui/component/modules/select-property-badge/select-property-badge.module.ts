@@ -6,4 +6,18 @@ export const selectPropertyBadge = {
   slug: "select-property-badge",
   definition: "The badge for a property holding one option or many.",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The color an option names outranks the color rule its property states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An option naming a color no badge variant covers draws as one naming none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The dropdown draws each option in the variant that option's chosen chip takes.",
+    },
+  ],
 } as const satisfies Module

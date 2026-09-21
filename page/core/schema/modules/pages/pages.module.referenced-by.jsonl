@@ -33,6 +33,7 @@
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/quick-add-form/quick-add-form.module.code.tsx"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/reader-page-source/reader-page-source.module.code.tsx"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx"}
+{"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/select-property-badge/select-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"}
 {"propertySlug":"import","fileName":"pages.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts"}
