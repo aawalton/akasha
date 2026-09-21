@@ -58,7 +58,7 @@ Combining seasonal categories (HVAC, DHW, EVs) with flat categories (gaming, app
 
 - **Worst month: January, ~8,800 kWh** (~290 kWh/day average, ~12 kW continuous load floor).
 - **Best month: May, ~5,100 kWh** (~165 kWh/day).
-- **Ratio: 1.73×** — but PV production swing in Provo is ~2.0× (Aug peak / Dec trough). **The demand swing is less severe than the production swing**, which means net-zero annual sizing strands ~25–30% of winter demand. See [self-sufficiency.md](book-section/energy-demand/self-sufficiency).
+- **Ratio: 1.73×** — but PV production swing in Provo is ~2.0× (Aug peak / Dec trough). **The demand swing is less severe than the production swing**, which means net-zero annual sizing strands ~25–30% of winter demand, which the grid carries. See [energy-demand.md](book-section/solar-power/energy-demand).
 
 ## Peak demand stack
 
@@ -85,7 +85,7 @@ Realistic managed peak: **25–35 kW**. Worst-case unmanaged: **~55 kW**.
 
 **Recommendation**: **400 A service** with **load management on top**, OR **200 A service + aggressive load-shedding controller** (SPAN Smart Panel, Lumin LM ECO, Schneider Square D Energy Center, Emporia Vue + smart contactors).
 
-The load-shedding-controller path is *cheaper* but introduces a single point of management failure. For self-sufficiency, **400 A service is preferred** because it tolerates an unmanaged worst-case without tripping, and the load shedder becomes additive optimization rather than load-bearing.
+The load-shedding-controller path is *cheaper* but introduces a single point of management failure. **400 A service is preferred** because it tolerates an unmanaged worst-case without tripping, and the load shedder becomes additive optimization rather than load-bearing.
 
 ### Subpanel topology suggestion
 

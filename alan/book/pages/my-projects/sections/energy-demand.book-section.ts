@@ -7,7 +7,7 @@ export const energyDemand = {
   title: "Annual Energy Demand (1350 Apple Ave, Provo, UT)",
   sectionOf: "book-section/my-projects/solar-power",
   description:
-    "Annual energy demand plan for all-electric 6000 sq ft Provo home with heat pumps, 12 gaming PCs, two EVs — sized for self-sufficiency.",
+    "Annual energy demand plan for all-electric 6000 sq ft Provo home with heat pumps, 12 gaming PCs, two EVs — sized against Provo Power net billing.",
   partOfCollections: ["book-section/my-projects/solar-power", "alan-book/my-projects"],
   unit: "unit/words",
   chapterText: "md",
