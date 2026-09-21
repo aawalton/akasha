@@ -18,7 +18,7 @@ export default [
   ]),
   index("routes/alan-web-landing/alan-web-landing.route.code.tsx"),
   route("about", "routes/about/about.route.code.tsx"),
-  route("requests", "routes/alan-web-requests/alan-web-requests.route.code.tsx"),
+  route("requests", "routes/alan-web-requests/alan-web-requests.route.code.ts"),
   route("services", "routes/alan-web-services/alan-web-services.route.code.tsx"),
   route("contact", "routes/alan-web-contact/alan-web-contact.route.code.tsx"),
   route("terms", "routes/alan-web-terms/alan-web-terms.route.code.tsx"),
