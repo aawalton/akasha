@@ -28,6 +28,7 @@ export const page = {
       default: "jsonl",
     },
     { pageProperty: "file-property/carried", required: false, many: false, default: "jsonl" },
+    { pageProperty: "rank-property/grade", required: false, many: false },
   ],
   parts: [
     "domain/id",
@@ -128,6 +129,7 @@ export const page = {
     "text-property/id",
     "text-property/slug",
     "text-property/title",
+    "rank-property/grade",
   ],
   decisions: [
     {

@@ -6,8 +6,8 @@ export const personaAnchorImage = {
   slug: "persona-anchor-image",
   definition: "the picture every other picture of a persona is drawn to match",
   extends: ["page-type/persona-image"],
-  parts: ["rank-property/grade"],
-  properties: [{ pageProperty: "rank-property/grade", required: false, many: false }],
+  parts: [],
+  properties: [],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
