@@ -6,6 +6,7 @@ import { addPropertyValue } from "akasha/change/mechanical/file-content/add/add-
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
   type Answer,
+  gathered,
   missing,
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
@@ -67,6 +68,42 @@ function bodyFor(slug: string, definition: string, typesAt: string): string {
   return lines.join("\n")
 }
 
+type Step = {
+  readonly address: typeof ADD_FILE | typeof ADD_VALUE
+  readonly given: Readonly<Record<string, string>>
+}
+
+function stepsFor(
+  placed: Placed,
+  played: string,
+  slug: string,
+  definition: string,
+  code: string
+): readonly Step[] {
+  const held = namedAs(gameMechanic.slug, slug, null)
+  return [
+    {
+      address: ADD_FILE,
+      given: { at: placed.pageAt, body: bodyFor(slug, definition, placed.typesAt) },
+    },
+    { address: ADD_FILE, given: { at: placed.codeAt, body: code } },
+    { address: ADD_VALUE, given: { at: placed.typeAt, key: parts.propertySlug, value: held } },
+    { address: ADD_VALUE, given: { at: played, key: gameMechanics.propertySlug, value: held } },
+  ]
+}
+
+async function writtenIn(world: World, steps: readonly Step[]): Promise<Answer> {
+  const held: Answer[] = []
+  let seen = world
+  for (const one of steps) {
+    const done = await reach(seen, one.address, one.given)
+    if (done.said.refused !== null) return done.said
+    held.push(done.said)
+    seen = done.world
+  }
+  return gathered(held)
+}
+
 export type Asked = Readonly<Record<string, string>>
 
 export const takes: readonly string[] = [GAME, SLUG, DEFINITION, CODE]
@@ -84,24 +121,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (played === undefined) return refusing(`\`${named}\` names no game, ${HERE}`)
   const placed = placedFor(world, slug)
   if (placed === null) return refusing(`\`${gameMechanic.slug}\` names no page type, ${HERE}`)
-  const page = await reach(world, ADD_FILE, {
-    at: placed.pageAt,
-    body: bodyFor(slug, definition, placed.typesAt),
-  })
-  if (page.said.refused !== null) return page.said
-  const beside = await reach(page.world, ADD_FILE, { at: placed.codeAt, body: code })
-  if (beside.said.refused !== null) return beside.said
-  const held = namedAs(gameMechanic.slug, slug, null)
-  const claimed = await reach(beside.world, ADD_VALUE, {
-    at: placed.typeAt,
-    key: parts.propertySlug,
-    value: held,
-  })
-  if (claimed.said.refused !== null) return claimed.said
-  const playing = await reach(claimed.world, ADD_VALUE, {
-    at: played.path,
-    key: gameMechanics.propertySlug,
-    value: held,
-  })
-  return playing.said
+  return await writtenIn(world, stepsFor(placed, played.path, slug, definition, code))
 }
