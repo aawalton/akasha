@@ -164,6 +164,10 @@ export function tracked(files: Readonly<Record<string, string>>): string {
     claiming(root, path, `${ID}${held}`)
     held += 1
   }
+  hashing(
+    root,
+    Object.entries(files).map(([path, text]) => ({ path, text }))
+  )
   const done = ran(["git", "-C", root, "init", "-q"])
   if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   return root
