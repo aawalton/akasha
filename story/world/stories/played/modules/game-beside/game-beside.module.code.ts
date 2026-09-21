@@ -25,6 +25,8 @@ const DISPLAY_CONFIG_KEY = "displayConfig"
 
 const STATES_KEY = "states"
 
+const PANELS_KEY = "panels"
+
 const DISPLAY_CONFIG_ENDING = "json"
 
 const STATES_ENDING = "jsonl"
@@ -33,6 +35,7 @@ export interface GameBeside {
   readonly externalId: string | undefined
   readonly display: ResolvedGameDisplay | null
   readonly state: GameState | null
+  readonly panels: readonly string[]
 }
 
 export type GameBesideRead =
@@ -46,6 +49,13 @@ const WAITING: GameBesideRead = { kind: "waiting" }
 function textIn(values: Record<string, unknown>, key: string): string | undefined {
   const held = values[key]
   return typeof held === "string" && held !== "" ? held : undefined
+}
+
+function namesIn(values: Record<string, unknown>, key: string): readonly string[] {
+  const held = values[key]
+  if (typeof held === "string") return [held]
+  if (!Array.isArray(held)) return []
+  return held.filter((one): one is string => typeof one === "string")
 }
 
 function bodyIn(values: Record<string, unknown>, key: string, ending: string): string | null {
@@ -85,7 +95,7 @@ async function readGameBeside(slug: string): Promise<GameBesideRead> {
   const asked = await askComposed({
     "page-type": GAME_PAGE_TYPE_SLUG,
     where: { slug: { is: slug } },
-    keys: [SLUG_KEY, EXTERNAL_ID_KEY, GAME_ENGINE_KEY, DISPLAY_CONFIG_KEY, STATES_KEY],
+    keys: [SLUG_KEY, EXTERNAL_ID_KEY, GAME_ENGINE_KEY, DISPLAY_CONFIG_KEY, STATES_KEY, PANELS_KEY],
     files: [DISPLAY_CONFIG_KEY, STATES_KEY],
   })
   if (!asked.ok) return { kind: "unread", why: asked.why }
@@ -98,6 +108,7 @@ async function readGameBeside(slug: string): Promise<GameBesideRead> {
       externalId: textIn(values, EXTERNAL_ID_KEY),
       display: displayIn(bodyIn(values, DISPLAY_CONFIG_KEY, DISPLAY_CONFIG_ENDING), gameEngine),
       state: stateIn(bodyIn(values, STATES_KEY, STATES_ENDING)),
+      panels: namesIn(values, PANELS_KEY),
     },
   }
 }
