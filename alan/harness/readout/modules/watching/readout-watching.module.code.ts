@@ -39,7 +39,7 @@ export type Carried = (
   fallsPerHour: number
 ) => Promise<undefined>
 
-export type Beat = (silent: ReadonlySet<string>, at: Date) => undefined
+export type Beat = (at: Date) => undefined
 
 export type WatchSetup = {
   readonly root: string
@@ -159,19 +159,11 @@ export function takingOf(setup: WatchSetup): Taking {
     return undefined
   }
 
-  const silentIn = (): ReadonlySet<string> => {
-    const held = new Set<string>()
-    for (const one of setup.watched) {
-      if (typeof before.get(one.page) !== "number") held.add(one.page)
-    }
-    return held
-  }
-
   const beat = (): undefined => {
     const say = setup.beat
     if (say === undefined) return undefined
     try {
-      say(silentIn(), new Date())
+      say(new Date())
     } catch (what) {
       setup.said("ERROR", unbeatenSaid(what))
     }

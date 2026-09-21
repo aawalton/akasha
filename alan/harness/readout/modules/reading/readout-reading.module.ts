@@ -66,28 +66,7 @@ export const readoutReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A readout whose take answered nothing carries the moment it began answering nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A readout whose take answered a number carries no such moment.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A readout answering nothing again leaves that moment where it already was.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That moment is taken away rather than blanked when a number is answered again.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Nothing is written for a readout whose answering is what it already was.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The key that moment is carried under is named here alone.",
+      statement: "A readout answering nothing keeps the reading that readout last took.",
     },
     {
       decisionKind: "decision-kind/departure",

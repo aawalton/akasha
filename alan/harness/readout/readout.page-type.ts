@@ -12,7 +12,6 @@ export const readout = {
     "domain/readout-figure",
     "domain/stoplight",
     "instant-property/last-value-at",
-    "instant-property/went-silent-at",
     "module-property-group/reading",
     "module/readout-asking",
     "module/readout-body",
@@ -97,12 +96,6 @@ export const readout = {
       many: false,
       uncommitted: true,
     },
-    {
-      pageProperty: "instant-property/went-silent-at",
-      required: false,
-      many: false,
-      uncommitted: true,
-    },
   ],
   decisions: [
     {
@@ -142,10 +135,6 @@ export const readout = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The reading a readout last took is carried outside the commit.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "When a readout began answering nothing is carried outside the commit.",
     },
     {
       decisionKind: "decision-kind/departure",

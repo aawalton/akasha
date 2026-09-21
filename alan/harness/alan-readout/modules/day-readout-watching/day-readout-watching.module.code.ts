@@ -25,10 +25,7 @@ import {
   READOUT_SLUG as PLANTS_SLUG,
   takeReading as takePlants,
 } from "akasha/alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"
-import {
-  keepSilence,
-  readoutPage,
-} from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { readoutPage } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import {
   SETTLE_MS,
   type WatchedReadout,
@@ -283,13 +280,7 @@ export function watchDayReadings(
   let day = openedDayOf(roots, new Date())
   let watched = dayReadouts(root, day)
 
-  const beat = (silent: ReadonlySet<string>, at: Date): undefined => {
-    keepSilence(
-      root,
-      watched.map((one) => one.page),
-      silent,
-      at
-    )
+  const beat = (at: Date): undefined => {
     keepBeat(root, watchPage(root), at)
     return undefined
   }

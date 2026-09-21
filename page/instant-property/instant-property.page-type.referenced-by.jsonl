@@ -27,7 +27,6 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-read-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-sent-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/readout/properties/last-value-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/readout/properties/went-silent-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/readout/widget/properties/last-tapped-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/reminder-system/reminder/properties/next-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/first-heard-at.instant-property.ts"}

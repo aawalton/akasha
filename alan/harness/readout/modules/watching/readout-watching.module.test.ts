@@ -37,7 +37,7 @@ function setupOf(one: Partial<WatchSetup> & { readonly watched: readonly Watched
   const ends: unknown[] = []
   const written: (readonly [string, number])[] = []
   const carriedTo: string[] = []
-  const beats: (readonly string[])[] = []
+  const beats: Date[] = []
   const setup: WatchSetup = {
     root: ROOT,
     said: (level, message): undefined => {
@@ -57,8 +57,8 @@ function setupOf(one: Partial<WatchSetup> & { readonly watched: readonly Watched
       carriedTo.push(to)
       return Promise.resolve(undefined)
     },
-    beat: (silent): undefined => {
-      beats.push([...silent].sort())
+    beat: (at): undefined => {
+      beats.push(at)
       return undefined
     },
     ...one,
@@ -275,10 +275,10 @@ test("a round of takes that all settled leaves the watch saying the round landed
   const held = setupOf({ watched: [watchedOf(() => Promise.resolve(4))] })
   held.taking.open()
   await held.taking.settled()
-  expect(held.beats).toEqual([[]])
+  expect(held.beats).toHaveLength(1)
 })
 
-test("the readouts that answered nothing are named with the round that landed", async () => {
+test("a round is said to have landed whatever the takes in it answered", async () => {
   const held = setupOf({
     watched: [
       watchedOf(() => Promise.resolve(4)),
@@ -287,10 +287,10 @@ test("the readouts that answered nothing are named with the round that landed", 
   })
   held.taking.open()
   await held.taking.settled()
-  expect(held.beats).toEqual([[OTHER_PAGE]])
+  expect(held.beats).toHaveLength(1)
 })
 
-test("a readout answering a number and then nothing is named as answering nothing", async () => {
+test("a second round of takes leaves the watch saying so a second time", async () => {
   let takes = 0
   const held = setupOf({
     watched: [
@@ -304,7 +304,7 @@ test("a readout answering a number and then nothing is named as answering nothin
   await held.taking.settled()
   held.taking.moved([MADE_OF])
   await held.taking.settled()
-  expect(held.beats).toEqual([[], [PAGE]])
+  expect(held.beats).toHaveLength(2)
 })
 
 test("a round in which any take threw leaves the watch saying nothing", async () => {
@@ -316,7 +316,7 @@ test("a round in which any take threw leaves the watch saying nothing", async ()
   })
   held.taking.open()
   await held.taking.settled()
-  expect(held.beats).toEqual([])
+  expect(held.beats).toHaveLength(0)
   expect(held.ends.length).toBe(1)
 })
 

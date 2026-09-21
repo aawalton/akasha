@@ -15,7 +15,6 @@ import type { Reading } from "akasha/alan/harness/readout/properties/reading.mod
 import type { ReadoutEnabled } from "akasha/alan/harness/readout/properties/readout-enabled.boolean-property.types.ts"
 import type { Scale } from "akasha/alan/harness/readout/properties/scale.relation-property.types.ts"
 import type { Unit } from "akasha/alan/harness/readout/properties/unit.text-property.types.ts"
-import type { WentSilentAt } from "akasha/alan/harness/readout/properties/went-silent-at.instant-property.types.ts"
 import type { WireKey } from "akasha/alan/harness/readout/properties/wire-key.text-property.types.ts"
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
@@ -38,5 +37,4 @@ export type Readout = Domain & {
   lastValue?: LastValue
   lastValueAt?: LastValueAt
   lastValueFallsPerHour?: LastValueFallsPerHour
-  wentSilentAt?: WentSilentAt
 }

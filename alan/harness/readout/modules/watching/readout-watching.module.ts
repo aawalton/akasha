@@ -117,16 +117,8 @@ export const readoutWatching = {
       statement: "A round in which any take threw leaves the watch saying nothing.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The readouts that answered nothing are named with the round that landed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A readout whose last take answered a number is not among them.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A readout the watch has taken no time yet is among them.",
+      decisionKind: "decision-kind/absence",
+      statement: "A round that landed says nothing of what the takes in that round answered.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -158,7 +150,7 @@ export const readoutWatching = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here judges how long a readout may answer nothing.",
+      statement: "Nothing here keeps a record of a readout answering nothing.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -133,17 +133,8 @@ export const dayReadoutWatching = {
       statement: "A round that landed writes the moment beside this watch's own service page.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "That moment is written after the readouts answering nothing are written.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A readout answering nothing carries the moment it began to, beside the readout itself.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Nothing is written for a readout whose answering is what it already was.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing is written here for a readout that answered nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
