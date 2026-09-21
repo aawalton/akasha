@@ -8,7 +8,10 @@ export const gameLocation = {
   pluralSlug: "locations",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/holding-game", required: true, many: false },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

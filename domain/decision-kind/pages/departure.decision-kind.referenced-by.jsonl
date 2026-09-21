@@ -3386,7 +3386,6 @@
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-titles.record-property.ts","id":"01a0c637-c898-7363-adde-6f63d61cdf22"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-traits.record-property.ts","id":"01a0c637-533c-7d20-91d2-bcd683e32b4e"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/equipment-slot.text-property.ts","id":"01a0c63a-0f6e-740e-8eb1-719fb7926587"}
-{"propertySlug":"decision-kind","path":"story/game/entity/properties/holding-game.relation-property.ts","id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/reveal-gate.number-property.ts","id":"01a0c63d-bf33-7fc8-a461-91fda80ddb15"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/typical-intent.number-property.ts","id":"01a0c63e-93fb-7a9d-97cd-4e1aa7b4623d"}
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
@@ -3429,6 +3428,7 @@
 {"propertySlug":"decision-kind","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-mechanics.relation-property.ts","id":"01a0c458-8d2c-7f1e-9a41-8200c8c04433"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-panels.relation-property.ts","id":"01a0c49e-d544-7d82-b738-6f3b187194a0"}
+{"propertySlug":"decision-kind","path":"story/game/properties/holding-game.relation-property.ts","id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
 {"propertySlug":"decision-kind","path":"story/game/properties/mechanic-runs.file-property.ts","id":"01a0c4b7-02d8-76e0-a14b-978b3d05eb61"}
 {"propertySlug":"decision-kind","path":"story/game/properties/resolution-mechanism.file-property.ts","id":"01a0673c-8e0e-7013-ae6f-047f588f0390"}
 {"propertySlug":"decision-kind","path":"story/game/properties/tower-floors.file-property.ts","id":"01a0673e-1000-7003-a544-be7203cd1844"}

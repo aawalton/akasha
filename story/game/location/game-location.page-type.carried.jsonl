@@ -3,7 +3,7 @@
 {"extends":["page-type/page"]}
 {"id":"01a0c642-a40f-7f5e-8d0d-b1f9226535ca"}
 {"pluralSlug":"locations"}
-{"properties":[{"pageProperty":"text-property/title","required":true,"many":false}]}
+{"properties":[{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"relation-property/holding-game","required":true,"many":false}]}
 {"runsTabooCheck":false}
 {"schema":"jsonl"}
 {"slug":"game-location"}

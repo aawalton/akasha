@@ -64,7 +64,6 @@ export const gameEntity = {
   types: "ts",
   schema: "jsonl",
   parts: [
-    "relation-property/holding-game",
     "text-property/entity-kind",
     "text-property/entity-class",
     "number-property/entity-level",

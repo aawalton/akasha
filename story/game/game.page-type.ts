@@ -44,6 +44,7 @@ export const game = {
     "file-property/mechanic-runs",
     "page-type/game-entity",
     "page-type/game-location",
+    "relation-property/holding-game",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
