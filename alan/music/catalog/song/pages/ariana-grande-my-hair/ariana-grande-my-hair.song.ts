@@ -4,6 +4,7 @@ export const arianaGrandeMyHair = {
   id: "019ea4e8-5407-7732-8c21-71d2559cce42",
   type: "page-type/song",
   slug: "ariana-grande-my-hair",
+  rank: "A-",
   externalIdentity: [
     {
       source: "musicbrainz",
