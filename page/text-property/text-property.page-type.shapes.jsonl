@@ -274,6 +274,9 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"imdb-id","propertySlug":"imdb-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type","uniquePropertySlug":null,"slug":"index-name","propertySlug":"name","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"inference-host","propertySlug":"host","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"inference-model","propertySlug":"model","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"inference-operation","propertySlug":"operation","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"inference-service","propertySlug":"service","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"infotainment","propertySlug":"infotainment","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"install-path","propertySlug":"install-path","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"instead","propertySlug":"instead","fileName":null,"folderName":null}
@@ -524,6 +527,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"source-place-id","propertySlug":"source-place-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sources","propertySlug":"sources","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"spelling","propertySlug":"spelling","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"spoken-text","propertySlug":"text","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"spotify-account-client-id","propertySlug":"client-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"spotify-account-client-secret","propertySlug":"client-secret","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"spotify-account-redirect-uri","propertySlug":"redirect-uri","fileName":null,"folderName":null}
@@ -611,6 +615,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"view-predicate","propertySlug":"view-predicate","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"visible-properties","propertySlug":"visible-properties","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"visual-style","propertySlug":"visual-style","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"voice-instruct","propertySlug":"instruct","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"voice-instruction","propertySlug":"voice-instruction","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"voice-reference-sha256","propertySlug":"voice-reference-sha256","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"wanted-by","propertySlug":"wanted-by","fileName":null,"folderName":null}

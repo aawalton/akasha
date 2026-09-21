@@ -252,6 +252,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"}

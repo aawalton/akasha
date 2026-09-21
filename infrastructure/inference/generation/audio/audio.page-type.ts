@@ -6,18 +6,52 @@ export const audio = {
   slug: "audio",
   definition: "one sound the system has",
   extends: ["page-type/page"],
+  parts: [
+    "file-property/audio-bytes",
+    "module/sound-landing",
+    "text-property/inference-model",
+    "text-property/inference-operation",
+    "text-property/inference-service",
+    "text-property/spoken-text",
+    "text-property/voice-instruct",
+  ],
+  properties: [
+    {
+      pageProperty: "file-property/audio-bytes",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    { pageProperty: "text-property/inference-service", required: false, many: false },
+    { pageProperty: "text-property/inference-operation", required: false, many: false },
+    { pageProperty: "text-property/inference-model", required: false, many: false },
+    { pageProperty: "text-property/spoken-text", required: false, many: false },
+    { pageProperty: "text-property/voice-instruct", required: false, many: false },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An audio's bytes sit in the object store under the audio's own id.",
+      statement: "A sound carries its own bytes rather than a note of where those bytes are.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An audio's bytes sit on disk where the audio says those bytes were written.",
+      statement: "A page with no bytes beside it is no sound.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An audio records where its bytes are rather than the bytes.",
+      statement: "A sound's slug is `audio-` and the first sixteen hex of the sha256 of its bytes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two recordings of the same bytes are one sound.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sound states the service, the operation and the model that made it.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No sound states an engine, which only ever restated its service.",
     },
   ],
   types: "ts",

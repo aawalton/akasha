@@ -1434,6 +1434,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.ts","id":"01a07c81-bfd9-78c8-90fa-e6dee251111a"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/client/modules/voice-clone-client/voice-clone-client.module.ts","id":"01a0682d-8ef5-7007-9aeb-17efab6f532f"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/command/modules/inference-answering/inference-answering.module.ts","id":"01a0685e-fd50-756a-85ea-473b887d050f"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/generation/audio/audio.page-type.ts","id":"019f189b-018c-74b8-920b-845fe171aee7"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.ts","id":"01a09137-9598-7e34-814d-cf5126c347b6"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-building/comfy-up-building.module.ts","id":"01a0912a-249b-72ea-9e95-a346ca6e5c10"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-guarding/comfy-up-guarding.module.ts","id":"01a0912f-d5ac-748b-919b-23e778a9482c"}

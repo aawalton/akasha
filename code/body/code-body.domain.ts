@@ -8,6 +8,7 @@ export const codeBody = {
   parts: [
     "module/body-loading",
     "module/body-text",
+    "module/bytes-slug",
     "module/carried-file",
     "module/file-kind",
     "module/sha256-hex",

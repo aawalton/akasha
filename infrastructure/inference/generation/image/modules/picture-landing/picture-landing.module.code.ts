@@ -1,5 +1,5 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
+import { bytesSlug } from "akasha/code/body/modules/bytes-slug/bytes-slug.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   placingFor,
@@ -16,8 +16,6 @@ const PNG = "png"
 const JPG = "jpg"
 
 const SLUG_OPENS = "image-"
-
-const SLUG_HOLDS = 16
 
 export type Ending = typeof PNG | typeof JPG
 
@@ -36,7 +34,7 @@ export function endingOf(bytes: Uint8Array): Ending | null {
 }
 
 export function imageSlugOf(bytes: Uint8Array): string {
-  return `${SLUG_OPENS}${sha256Hex(bytes).slice(0, SLUG_HOLDS)}`
+  return bytesSlug(SLUG_OPENS, bytes)
 }
 
 async function pathAsked(slug: string): Promise<string | null> {

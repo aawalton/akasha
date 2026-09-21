@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"riff-bytes.module.code.ts","path":"command/pages/inference/voice/clone/inference-voice-clone.command.code.ts"}
 {"propertySlug":"import","fileName":"riff-bytes.module.code.ts","path":"command/pages/inference/voice/design/inference-voice-design.command.code.ts"}
 {"propertySlug":"import","fileName":"riff-bytes.module.code.ts","path":"infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.test.ts"}
+{"propertySlug":"import","fileName":"riff-bytes.module.code.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/inference/client/inference-client.domain.ts","id":"01a0682d-8f07-7000-ab6b-b7ebbf0863a0"}

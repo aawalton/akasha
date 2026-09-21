@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The slug is worked out from the bytes, so the same sound lands once."},{"decisionKind":"decision-kind/departure","statement":"Bytes that are no wav are refused before anything lands."},{"decisionKind":"decision-kind/departure","statement":"The page is landed by naming it to the pages service, which places it."},{"decisionKind":"decision-kind/departure","statement":"The bytes are placed through the pages service rather than written on disk here."},{"decisionKind":"decision-kind/departure","statement":"A sound whose page is already there gets its bytes placed and no second page."},{"decisionKind":"decision-kind/departure","statement":"Every writer of a sound, on the workstation or in a pod, lands it this way."},{"decisionKind":"decision-kind/departure","statement":"The page landed and the bytes placed are each pushed into the caller's `done`."}]}
+{"definition":"a sound made into an audio page, with its bytes placed beside that page"}
+{"id":"01a0c641-19a5-70f8-87bc-4608f3f40f94"}
+{"slug":"sound-landing"}
+{"test":"ts"}
+{"type":"page-type/module"}

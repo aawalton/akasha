@@ -124,6 +124,7 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/client/modules/mlx-vlm-client/mlx-vlm-client.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/client/modules/segment-client/segment-client.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/workstation/upscale-workstation.module.code.ts"}
