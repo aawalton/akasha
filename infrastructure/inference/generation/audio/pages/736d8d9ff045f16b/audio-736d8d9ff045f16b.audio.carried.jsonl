@@ -1,0 +1,8 @@
+{"id":"01a0c64f-02aa-71a9-abc9-f57eb6807563"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-736d8d9ff045f16b"}
+{"text":"Let them audition. Make them bring something to the table. Speaking of which — the tomatoes in the salad are mine, I want that on the record. First real bowlful off those vines."}
+{"title":"moss-tts voice-clone @ 2026-07-17T09:57:15.821Z"}
+{"type":"page-type/audio"}

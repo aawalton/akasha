@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio87d4e1ddd70f1241 = {
+  id: "01a0c64f-02ab-7327-ac30-e48dfff990ce",
+  type: "page-type/audio",
+  slug: "audio-87d4e1ddd70f1241",
+  title: "moss-tts voice-clone @ 2026-07-17T11:01:01.934Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "The farmhouse had been meant for a family, not two people, but everyone else was gone. Fierre seldom visited, Bamer was dead, and Rivel had left. They had always been isolated, but never lonely like this. So lonely and quiet—aside from the baahing of Mr. Fluffles. The sheep was drinking from a bucket collecting rain. There was a single leak in the new construction, right in the living room. It annoyed Himilt no end, because he hadn’t realized there was a gap in the roofing tiles. He entered the hallway, drenched in water, having finally patched it. Himilt didn’t seem like someone who’d just fought the Goblin King. His broken scythe was lying on the dining room table, and the Vampire barely glanced at it, but Vaulont the Ash kept peeking at the blade. He wanted to inspect it very dearly, but he wasn’t sure if it was appropriate. If he was allowed. That blade on a farmer’s scythe? He’d heard about beating swords into plowshares, but this… Vaulont the Ash, an assassin. A good one, who’d stayed out of the Assassin’s Guild debacle and who killed easily, for a living. He had no place being in such a respectable household as the val Lischelles. They would have never met under any circumstances normally. But these were unprecedented times. They were, after all, Vampires. Though even thinking that felt wrong. They were so used to being in hiding they were keeping up the act, even now. “Himilt? Mutton bacon? No, Mister Fluffles, that’s your own species.” “…How about fish?",
+} as const satisfies Audio

@@ -1,0 +1,8 @@
+{"id":"01a0c64f-02ab-766e-8b4d-6832eb24a154"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-7908339cdce1cc05"}
+{"text":"That's what a table's for, sugar. You cook the dinner so the evening has somewhere soft to land."}
+{"title":"moss-tts voice-clone @ 2026-07-17T10:32:35.878Z"}
+{"type":"page-type/audio"}

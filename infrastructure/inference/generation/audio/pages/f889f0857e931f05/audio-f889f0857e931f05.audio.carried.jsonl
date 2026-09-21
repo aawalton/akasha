@@ -1,0 +1,8 @@
+{"id":"01a0c64f-02aa-7a43-ad4f-341a7d6ab4de"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-f889f0857e931f05"}
+{"text":"I finished the Robin McKinley last night, by the way. The one I've been carrying around for two weeks like a small pet."}
+{"title":"moss-tts voice-clone @ 2026-07-17T09:54:28.884Z"}
+{"type":"page-type/audio"}

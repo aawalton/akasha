@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio2dd91b9c9a69d535 = {
+  id: "01a0c64f-02ab-7c64-a008-b103cdea16c0",
+  type: "page-type/audio",
+  slug: "audio-2dd91b9c9a69d535",
+  title: "moss-tts voice-clone @ 2026-07-17T10:55:36.383Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "A Gnoll girl observed Valeterisa’s implacable face and saw her eyes flicking, wondering what she was thinking. She could guess; she just had no ability to peer into minds like the Grand Design. Almost, Mrsha flitted downstairs, but she was too afraid to. So instead, the ghost of the girl ran out of the window, across the world, chasing down another perspective. She could sort of…see it, still. Lines of fate. Connections to her, even in death. Things she’d influenced, directly or indirectly by the [Palace of Fates]. She had to know. She didn’t care about the Walled Cities. If they fell tomorrow, Mrsha wouldn’t shed a tear, except perhaps for Oteslia—but the people in them she cared for. In her way, this was her trying to process what she’d done. Please, let there be more good than ill. At least for the people here. Something. Something more than levels and another terrible memory for all those involved. She followed one of the many strings connected to her, because it led somewhere unexpected. Close by. Not Liscor. The girl raced across the Floodplains of Liscor, where the birds had descended to devour the dead fish still floating on the water. Some Liscorians were out in boats, scooping up the fish that Sheta had killed. Even in tragedy, life and opportunity. But how many fish would it take to repopulate the waters? More good or more ill? Mrsha recognized some of the creatures who’d gained Sheta’s blessing. What would become of them?",
+} as const satisfies Audio
