@@ -39,7 +39,7 @@ export const astraLandingReadsOnlyWhatChanged = {
     {
       statement: "A change is typechecked in a program built from the files that change reaches.",
       workingMemory:
-        "The check builds a whole TypeScript program for each change and throws it away. The roots are the changed files' importer closure plus every `.d.ts` git tracks: 284 of them, about 250 of them ESO and Temper declarations for code the Lua compiler owns. `skipLibCheck` is false and `types` names all 32 packages under `node_modules/@types`. Diagnostics are asked for the roots alone, so the narrowing is done on the asking side and the cost is all in building the program.",
+        "Every file names the declarations it reaches through its own imports, and no interface or function is declared in two declaration files any more, so one import carries a whole type. A declaration file cannot import the declaration whose names it spells, so `skipLibCheck` is true for a change and false for the audit, whose program holds every declaration. What is left to take out is `declaringIn` in `program-naming`, the one reader here of `shadow.listed()`, and `orphanedIn` beside it.",
     },
   ],
   constraints: [
