@@ -1,4 +1,4 @@
-export const LOGIN_ORIGIN = "https://alanwalton.com"
+const LOGIN_ORIGIN = "https://alanwalton.com"
 
 export const MINT_PATH = "/handover/mint"
 
@@ -22,9 +22,10 @@ export type Peripheral = {
   readonly landingPath: string
 }
 
-export const PERIPHERALS = {
+const PERIPHERALS = {
   "archive-of-worlds": { origin: "https://archiveofworlds.app", landingPath: "/handover" },
   atlas: { origin: "https://atlas.alanwalton.com", landingPath: "/handover" },
+  smilingjenny: { origin: "https://smilingjenny.me", landingPath: "/handover" },
   temper: { origin: "https://tempereso.com", landingPath: "/handover" },
 } as const satisfies Readonly<Record<string, Peripheral>>
 
