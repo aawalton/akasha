@@ -13,5 +13,5 @@ export const whatComesWithIt = {
     "all-about-alan-topic/sleep",
   ],
   settled:
-    "The hypothesis is that my neurotype is a change in the pathways running the regulatory nervous system, which widens the risk across everything that system runs.\n\nThese are the one tier I would fix. The neurotype itself I would not.\n\nAutonomic trouble applies but not POTS, and low mood is downstream of stress rather than primary.\n\nAlexithymia arrives twice over, once from each side of how I am built.\n\nGut trouble, chronic pain, migraines, tinnitus and tics do not apply.",
+    "The hypothesis is that my neurotype is a change in the pathways running the regulatory nervous system, which widens the risk across everything that system runs.\n\nThese are the one tier I would fix. The neurotype itself I would not.\n\nAs much as the neurotype shapes a life, what rides along with it often shapes that life more.\n\nAutonomic trouble applies but not POTS, and low mood is downstream of stress rather than primary.\n\nAlexithymia arrives twice over, once from each side of how I am built.\n\nGut trouble, chronic pain, migraines, tinnitus and tics do not apply.",
 } as const satisfies AllAboutAlanTopic
