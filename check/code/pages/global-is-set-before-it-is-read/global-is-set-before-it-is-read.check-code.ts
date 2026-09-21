@@ -6,9 +6,9 @@ export const globalIsSetBeforeItIsRead = {
   slug: "global-is-set-before-it-is-read",
   definition:
     "the check refusing a module that reads an add-on's own global before the module setting it has run",
-  runsOnChange: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnChange: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
