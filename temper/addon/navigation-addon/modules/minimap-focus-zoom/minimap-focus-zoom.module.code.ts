@@ -7,6 +7,12 @@ import {
 import type { VotansMiniMap } from "akasha/temper/addon/navigation-addon/modules/minimap-holder/minimap-holder.module.code.ts"
 import { MINIMAP_MAP_MODE } from "akasha/temper/addon/navigation-addon/modules/minimap-names/minimap-names.module.code.ts"
 import type { LooseTable } from "akasha/temper/addon/navigation-addon/modules/minimap-view-types/minimap-view-types.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
 export function installFocusZoom(this: void, self: VotansMiniMap): undefined {
   const zoMapPanAndZoom = asAnyTable(asAnyTable(getmetatable(ZO_WorldMap_GetPanAndZoom())).__index)
