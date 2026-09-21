@@ -32,6 +32,7 @@ export const gameMechanic = {
     "module/mechanic-run",
     "module/affinity-tier",
     "game-mechanic/affinity-bias",
+    "game-mechanic/affinity-advance",
   ],
   decisions: [
     {
