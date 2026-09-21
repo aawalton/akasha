@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"potion-state.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-keybinds/potion-keybinds.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-state.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-state.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-potion-craft/potion-potion-craft.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-state.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-potion-match/potion-potion-match.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-state.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-state.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-public-api/potion-public-api.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-state.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-reagents/potion-reagents.module.code.ts"}

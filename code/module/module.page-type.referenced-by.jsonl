@@ -2772,6 +2772,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/potion-keybinds/potion-keybinds.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/potion-main-menu/potion-main-menu.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/potion-potion-craft/potion-potion-craft.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/potion-potion-match/potion-potion-match.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/potion-public-api/potion-public-api.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/crafting-addon/modules/potion-reagent-data/potion-reagent-data.module.ts"}

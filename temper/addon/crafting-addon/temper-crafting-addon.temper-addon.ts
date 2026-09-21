@@ -200,6 +200,7 @@ export const temperCraftingAddon = {
     "module/craft-style-rows",
     "module/craft-research-trait-icon",
     "module/craft-queue",
+    "module/potion-potion-match",
   ],
   interfaces: [
     "eso-interface/craft-store-blueprint-layout",

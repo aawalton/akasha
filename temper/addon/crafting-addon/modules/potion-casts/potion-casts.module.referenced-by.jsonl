@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-ingredient/potion-ingredient.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-keybinds/potion-keybinds.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-main-menu/potion-main-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-potion-match/potion-potion-match.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-render-page/potion-render-page.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-casts.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-saved-variables/potion-saved-variables.module.code.ts"}

@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"potion-types.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-inventory/potion-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-types.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-job-search/potion-job-search.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-types.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-potion-craft/potion-potion-craft.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-types.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-potion-match/potion-potion-match.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-types.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-types.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-reagent-data/potion-reagent-data.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-types.module.code.ts","path":"temper/addon/crafting-addon/modules/potion-refresh-traits/potion-refresh-traits.module.code.ts"}
