@@ -44,8 +44,9 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
 
   const navLinkClassName = (active: boolean) => navLinkClass(active, effectiveIsCollapsed)
 
-  function RenderNavItem(item: AppNavItem) {
+  function RenderNavItem(item: AppNavItem, extraClassName?: string) {
     const isActive = isNavItemActive(pathname, item)
+    const className = cn(navLinkClassName(isActive), extraClassName)
     const content = (
       <>
         {item.iconSlot ?? (item.icon && <item.icon className="h-5 w-5 shrink-0" />)}
@@ -61,7 +62,7 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
           href={item.href}
           target="_blank"
           rel="noopener noreferrer"
-          className={navLinkClassName(isActive)}
+          className={className}
           title={effectiveIsCollapsed ? item.shortLabel : undefined}
         >
           {content}
@@ -75,7 +76,7 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
           key={item.id}
           type="button"
           onClick={item.onClick}
-          className={navLinkClassName(isActive)}
+          className={className}
           title={effectiveIsCollapsed ? item.shortLabel : undefined}
         >
           {content}
@@ -87,7 +88,7 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
       return (
         <span
           key={item.id}
-          className={navLinkClassName(isActive)}
+          className={className}
           title={effectiveIsCollapsed ? item.shortLabel : undefined}
         >
           {content}
@@ -99,7 +100,7 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
       <LayoutLink
         key={item.id}
         href={item.href}
-        className={navLinkClassName(isActive)}
+        className={className}
         aria-current={isActive ? "page" : undefined}
         title={effectiveIsCollapsed ? item.shortLabel : undefined}
       >
@@ -222,43 +223,7 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
         defaultOpen={anyChildActive}
       >
         <nav className="space-y-1">
-          {item.children.map((child) => {
-            const childIsActive = isNavItemActive(pathname, child)
-            const childClassName = cn(navLinkClassName(childIsActive), "pl-6")
-
-            if (child.external) {
-              return (
-                <a
-                  key={child.id}
-                  href={child.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className={childClassName}
-                >
-                  <span>{child.label}</span>
-                </a>
-              )
-            }
-
-            if (child.href == null) {
-              return (
-                <span key={child.id} className={childClassName}>
-                  <span>{child.label}</span>
-                </span>
-              )
-            }
-
-            return (
-              <LayoutLink
-                key={child.id}
-                href={child.href}
-                className={childClassName}
-                aria-current={childIsActive ? "page" : undefined}
-              >
-                <span>{child.label}</span>
-              </LayoutLink>
-            )
-          })}
+          {item.children.map((child) => RenderNavItem(child, "pl-6"))}
         </nav>
       </SidebarNavGroup>
     )
