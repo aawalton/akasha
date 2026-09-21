@@ -67,6 +67,11 @@ export const noColorLiteral = {
       statement:
         "A grant reaches only the file the grant names and only the values the grant names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The line a color sits on is read off an index of the body's line starts, built once a body.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

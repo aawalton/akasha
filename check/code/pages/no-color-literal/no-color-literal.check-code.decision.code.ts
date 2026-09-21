@@ -235,10 +235,25 @@ function tokensIn(text: string): readonly Token[] {
   return seen.sort((one, two) => one.offset - two.offset)
 }
 
-function lineAt(source: string, offset: number): number {
-  let line = 1
-  for (let at = 0; at < offset; at += 1) if (source[at] === "\n") line += 1
-  return line
+type Lined = readonly number[]
+
+function linesOf(source: string): Lined {
+  const starts = [0]
+  for (let at = source.indexOf("\n"); at !== -1; at = source.indexOf("\n", at + 1)) {
+    starts.push(at + 1)
+  }
+  return starts
+}
+
+function lineOn(starts: Lined, offset: number): number {
+  let low = 0
+  let high = starts.length - 1
+  while (low < high) {
+    const mid = (low + high + 1) >> 1
+    if ((starts[mid] ?? 0) <= offset) low = mid
+    else high = mid - 1
+  }
+  return low + 1
 }
 
 function letThrough(token: Token, valueText: string): boolean {
@@ -257,13 +272,14 @@ const DECLARATION_RE = /(--[\w-]+|[a-zA-Z-]+)\s*:\s*([^;{}]+)/g
 
 function inStyles(source: string): readonly Written[] {
   const stripped = blanked(source)
+  const starts = linesOf(stripped)
   const said: Written[] = []
   for (const decl of stripped.matchAll(DECLARATION_RE)) {
     const value = decl[2] ?? ""
     const valueOffset = decl.index + decl[0].length - value.length
     for (const token of tokensIn(value)) {
       if (letThrough(token, value)) continue
-      said.push({ line: lineAt(stripped, valueOffset + token.offset), value: token.value })
+      said.push({ line: lineOn(starts, valueOffset + token.offset), value: token.value })
     }
   }
   return said
@@ -366,16 +382,18 @@ const BRACKETED_RE = /\[([^\]]*)\]/g
 
 function inCode(source: string): readonly Written[] {
   const said: Written[] = []
+  const starts = linesOf(source)
   for (const one of quotedIn(source)) {
     const trimmed = one.content.trim()
     if (trimmed.startsWith("var(")) continue
-    const base = lineAt(source, one.offset)
+    const base = lineOn(starts, one.offset)
 
     const property = propertyBefore(source, one.offset - 1)
     if (property !== undefined && isBearing(property)) {
+      const inner = linesOf(one.content)
       for (const token of tokensIn(one.content)) {
         if (letThrough(token, one.content)) continue
-        said.push({ line: base + lineAt(one.content, token.offset) - 1, value: token.value })
+        said.push({ line: base + lineOn(inner, token.offset) - 1, value: token.value })
       }
       continue
     }
@@ -400,7 +418,7 @@ function inCode(source: string): readonly Written[] {
       const body = bracket[1] ?? ""
       for (const token of tokensIn(body)) {
         if (letThrough(token, body.replace(/_/g, " "))) continue
-        const line = lineAt(source, one.offset + bracket.index + 1 + token.offset)
+        const line = lineOn(starts, one.offset + bracket.index + 1 + token.offset)
         if (already(line, token.value)) continue
         said.push({ line, value: token.value })
       }

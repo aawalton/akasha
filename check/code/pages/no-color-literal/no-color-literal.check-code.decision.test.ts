@@ -126,3 +126,23 @@ test("the palette's home, the check's own home and each grant are read from the 
   expect(passing.home).toBe(HOME)
   expect([...passing.granted.keys()]).toEqual([GRANTED_AT])
 })
+
+test("a color far into a body names the line the color sits on", () => {
+  const before = 'const HELD = "rounded p-2"\n'.repeat(40)
+  const said = coded(`${before}export const ACCENT = "oklch(0.63 0.13 73)"\n`)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 41")
+})
+
+test("a color in a bracketed value far into a body names the line that value sits on", () => {
+  const before = "const A = 1\n".repeat(9)
+  const said = coded(`${before}export const HELD = "rounded text-[#2c5a9d] p-2"\n`)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 10")
+})
+
+test("a color a bearing key carries names its line inside the string that key opens", () => {
+  const said = coded("const HELD = {\n  borderTop: `1px\n solid #a51c32`,\n}\n")
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 3")
+})
