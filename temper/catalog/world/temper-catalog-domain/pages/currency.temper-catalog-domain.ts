@@ -8,7 +8,7 @@ export const currency = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-21T17:19:18.205Z",
+  capturedAt: "2026-09-21T17:27:50.742Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
