@@ -1,6 +1,3 @@
-{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-alan.game-entity.ts","id":"01a0c661-23c2-790f-911a-36946ca1e286"}
-{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-host-trueform.game-entity.ts","id":"01a0c661-251d-7782-9ca8-91adfd5abb49"}
-{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-the-host-trueform-02.game-entity.ts","id":"01a0c661-2503-7018-b3ba-745ed1455aa9"}
 {"propertySlug":"game-mechanics","path":"story/game/pages/harem-hotel/harem-hotel.game.ts","id":"01a0673f-a3d6-7001-854b-30d81fd19b31"}
 {"propertySlug":"game-mechanics","path":"story/game/pages/the-tower/the-tower.game.ts","id":"01a0673f-a3d7-7000-afc1-88181be588cb"}
 {"propertySlug":"import","fileName":"one-d-twenty.game-mechanic.ts","path":"story/game/entity/modules/entity-filing/entity-filing.module.code.ts"}
