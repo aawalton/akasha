@@ -13,11 +13,6 @@ import {
   type AggregateFunction,
   computeAggregate,
 } from "akasha/page/core/property-type/modules/aggregate/aggregate.module.code.ts"
-import {
-  computeRollup,
-  type PageTypePropertiesMap,
-  parseRollupConfig,
-} from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   asPageRecord,
@@ -54,7 +49,7 @@ function asAggregateFunction(fn: string): AggregateFunction {
 }
 
 export interface KeyInfo {
-  readonly kind: "promoted" | "stored" | "rollup" | "aggregate" | "unknown"
+  readonly kind: "promoted" | "stored" | "aggregate" | "unknown"
   readonly type?: string
 }
 
@@ -63,7 +58,6 @@ export interface ViewResolveCtx {
   readonly defsById: ReadonlyMap<string, PropertyDefinition>
   readonly livePageById: ReadonlyMap<string, PageRow>
   readonly allData: readonly { readonly id: string; readonly data: PageDataJSON }[]
-  readonly pageTypes: PageTypePropertiesMap
 }
 
 const AGGREGATE_FUNCTIONS: ReadonlySet<string> = new Set([
@@ -96,7 +90,6 @@ export function classifyKey(
   if (isPromotedKey(key)) return { kind: "promoted" }
   const def = defsById.get(key)
   if (def === undefined) return { kind: "unknown" }
-  if (def.type === "rollup") return { kind: "rollup" }
   if (def.type === "aggregate") return { kind: "aggregate" }
   return { kind: "stored", type: def.type }
 }
@@ -141,24 +134,6 @@ function relationValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValu
   return asSortValue(raw)
 }
 
-function normalizeScalar(value: unknown): SortValue {
-  if (value === null || value === undefined) return null
-  if (typeof value === "number" || typeof value === "string" || typeof value === "boolean") {
-    return value
-  }
-  return null
-}
-
-function rollupValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValue {
-  const def = ctx.defsById.get(key)
-  const config = def === undefined ? null : parseRollupConfig(def.config)
-  if (config === null) return null
-  const data = pageDataOf(row)
-  const value = normalizeScalar(computeRollup(config, data, ctx.allData, ctx.pageTypes))
-  if (value === null) noteUnacquiredTargetIfMissing(key, data[config.relationPropertyId], ctx)
-  return value
-}
-
 function parseAggregateConfigLocal(raw: PropertyDefinition["config"]): AggregateConfig | null {
   if (raw === undefined) return null
   const rel = raw.relationPropertyId
@@ -185,8 +160,6 @@ function resolveSortValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortV
   const info = ctx.keyInfo.get(key)
   if (info === undefined || info.kind === "promoted") return promotedValue(row, key)
   switch (info.kind) {
-    case "rollup":
-      return rollupValue(row, key, ctx)
     case "aggregate":
       return aggregateValue(row, key, ctx)
     case "stored":

@@ -1,13 +1,15 @@
 "use client"
 
 import type { PageOrder } from "akasha/page/access/modules/types/types.module.code.ts"
-import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type {
+  PageTypePropertiesMap,
+  PropertyDefinition,
+} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type {
   Page,
   PageCondition,
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import type {
   GroupGranularity,
   ViewFilter,
@@ -32,7 +34,6 @@ import { useMemo } from "react"
 
 interface GroupByArgs {
   pageTypeSlug: string
-  pageTypeId?: string
   groupPropertyId: string
   sortPropertyId?: string
   sortDirection?: "asc" | "desc"
@@ -61,7 +62,6 @@ interface GroupByResult {
 export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
   const {
     pageTypeSlug,
-    pageTypeId,
     groupPropertyId,
     sortPropertyId,
     sortDirection,
@@ -82,13 +82,12 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
         f.operator,
         f.value,
         def,
-        pageTypeId,
         propertiesByPageType
       )
       if (conds) out.push(...conds)
     }
     return out.length > 0 ? out : undefined
-  }, [filters, properties, pageTypeId, propertiesByPageType])
+  }, [filters, properties, propertiesByPageType])
 
   const order = useMemo<PageOrder | undefined>(() => {
     if (sortPropertyId == null) return undefined
@@ -104,9 +103,8 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
   const result = usePages(options)
 
   const filteredRows = useMemo(
-    () =>
-      applyClientViewFilters(result.rows, filters, properties, pageTypeId, propertiesByPageType),
-    [result.rows, filters, properties, pageTypeId, propertiesByPageType]
+    () => applyClientViewFilters(result.rows, filters, properties, propertiesByPageType),
+    [result.rows, filters, properties, propertiesByPageType]
   )
 
   const groups = useMemo(

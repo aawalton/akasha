@@ -55,7 +55,6 @@ const GROUPABLE_BY_TYPE = {
   markdown: false,
   number: false,
   url: false,
-  rollup: false,
   aggregate: false,
   formula: false,
   json: false,

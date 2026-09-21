@@ -6,7 +6,6 @@ import type {
   PropertyDefinition,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import {
   asPageRecord,
   asPageRowList,
@@ -40,11 +39,6 @@ const PAGE_TYPE_SLUG = "page-type"
 
 function asPropertyDefinition(entry: Readonly<Record<string, unknown>>): PropertyDefinition {
   return entry as PropertyDefinition
-}
-function asPageTypePropertiesMap(
-  m: ReadonlyMap<string, readonly PropertyDefinition[]>
-): PageTypePropertiesMap {
-  return m as PageTypePropertiesMap
 }
 
 export interface ViewResult {
@@ -86,15 +80,12 @@ function buildViewResolveCtx(
   all: readonly PageRow[],
   options: UseViewQueryOptions
 ): ViewResolveCtx {
-  const pageTypes = new Map<string, readonly PropertyDefinition[]>()
   let ownDefs: readonly PropertyDefinition[] = []
   for (const row of all) {
     if (!isPageTypeRow(row)) continue
     const id = asPageRecord(row).id
     if (typeof id !== "string") continue
-    const defs = readDefs(row)
-    pageTypes.set(id, defs)
-    if (id === options.pageTypeId) ownDefs = defs
+    if (id === options.pageTypeId) ownDefs = readDefs(row)
   }
 
   const defsById = new Map<string, PropertyDefinition>()
@@ -112,13 +103,7 @@ function buildViewResolveCtx(
     livePageById.set(id, row)
   }
 
-  return {
-    keyInfo,
-    defsById,
-    livePageById,
-    allData,
-    pageTypes: asPageTypePropertiesMap(pageTypes),
-  }
+  return { keyInfo, defsById, livePageById, allData }
 }
 
 function deriveInstantKeys(ctx: ViewResolveCtx): readonly string[] {

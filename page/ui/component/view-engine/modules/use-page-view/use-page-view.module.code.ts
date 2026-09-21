@@ -1,7 +1,9 @@
 "use client"
 
-import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
+import type {
+  PageTypePropertiesMap,
+  PropertyDefinition,
+} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type {
   GroupGranularity,
   ViewConfig,
@@ -34,7 +36,6 @@ export interface UsePageViewProps {
   properties: readonly PropertyDefinition[]
   viewConfig: ViewConfig
   onViewConfigChange: (config: ViewConfig) => void
-  pageTypeId?: string
   propertiesByPageType?: PageTypePropertiesMap
 }
 
@@ -63,21 +64,20 @@ export function usePageView({
   properties,
   viewConfig,
   onViewConfigChange,
-  pageTypeId,
   propertiesByPageType,
 }: UsePageViewProps): UsePageViewResult {
   const sortOptions = useMemo(() => generateSortOptions(properties), [properties])
   const filterDimensions = useMemo(
-    () => generateFilterDimensions(properties, pageTypeId, propertiesByPageType),
-    [properties, pageTypeId, propertiesByPageType]
+    () => generateFilterDimensions(properties, propertiesByPageType),
+    [properties, propertiesByPageType]
   )
   const groupOptions = useMemo(() => generateGroupOptions(properties), [properties])
 
   const resolver = usePageResolverOptional()
 
   const filtered = useMemo(
-    () => applyView(pages, properties, viewConfig, pageTypeId, propertiesByPageType, resolver),
-    [pages, properties, viewConfig, pageTypeId, propertiesByPageType, resolver]
+    () => applyView(pages, properties, viewConfig, propertiesByPageType, resolver),
+    [pages, properties, viewConfig, propertiesByPageType, resolver]
   )
 
   const groupBy = viewConfig.groupBy ?? ""

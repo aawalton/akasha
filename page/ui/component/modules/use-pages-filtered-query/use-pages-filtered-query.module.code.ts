@@ -89,8 +89,8 @@ export function usePagesFilteredQuery(args: {
   )
 
   const baseConditions = useMemo(
-    () => buildBaseConditions({ baseFilters, properties, targetPageTypeId, propertiesByPageType }),
-    [baseFilters, properties, targetPageTypeId, propertiesByPageType]
+    () => buildBaseConditions({ baseFilters, properties, propertiesByPageType }),
+    [baseFilters, properties, propertiesByPageType]
   )
 
   const {

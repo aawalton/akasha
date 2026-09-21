@@ -15,7 +15,7 @@ import { PROGRESS_OPS } from "akasha/page/core/property-type/modules/progress/pr
 import type { PropertyTypeOps } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { RELATION_OPS } from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
 import { RICH_DOCUMENT_OPS } from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
-import { ROLLUP_OPS } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
+
 import { RRULE_OPS } from "akasha/page/core/property-type/modules/rrule/rrule.module.code.ts"
 import { SELECT_OPS } from "akasha/page/core/property-type/modules/select/select.module.code.ts"
 import { TEXT_OPS } from "akasha/page/core/property-type/modules/text/text.module.code.ts"
@@ -35,7 +35,6 @@ export const PROPERTY_TYPE_OPS_REGISTRY = {
   "multi-select": MULTI_SELECT_OPS,
   relation: RELATION_OPS,
   "multi-relation": MULTI_RELATION_OPS,
-  rollup: ROLLUP_OPS,
   aggregate: AGGREGATE_OPS,
   formula: FORMULA_OPS,
   rrule: RRULE_OPS,

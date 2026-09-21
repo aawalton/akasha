@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
-import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type {
+  PageTypePropertiesMap,
+  PropertyDefinition,
+} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { resolveComputedProperty } from "akasha/page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import {
   drawnFor,
   firstDrawing,
@@ -33,8 +35,6 @@ const NUMBER_DRAWN = ["number-property", FALLS_BACK_TO, "domain", "page"]
 
 const RELATION_DRAWN = ["relation-property", FALLS_BACK_TO, "domain", "page"]
 
-const ROLLUP_DRAWN = ["rollup-property", FALLS_BACK_TO, "domain", "page"]
-
 const FORMULA_DRAWN = ["formula-property", FALLS_BACK_TO, "domain", "page"]
 
 const AGGREGATE_DRAWN = ["aggregate-property", FALLS_BACK_TO, "domain", "page"]
@@ -43,8 +43,6 @@ const ORDER = "page-type-order"
 
 const CUSTOMER = "page-type-customer"
 
-const AGENT = "page-type-agent"
-
 const CUSTOMER_PROPERTIES: readonly PropertyDefinition[] = [
   {
     id: "credit",
@@ -52,13 +50,6 @@ const CUSTOMER_PROPERTIES: readonly PropertyDefinition[] = [
     type: "number",
     drawnBy: NUMBER_DRAWN,
     config: { format: "number", units: "USD" },
-  },
-  {
-    id: "handler",
-    title: "Handler",
-    type: "relation",
-    drawnBy: RELATION_DRAWN,
-    config: { targetPageTypeId: AGENT },
   },
 ]
 
@@ -69,20 +60,6 @@ const ORDER_PROPERTIES: readonly PropertyDefinition[] = [
     type: "relation",
     drawnBy: RELATION_DRAWN,
     config: { targetPageTypeId: CUSTOMER },
-  },
-  {
-    id: "customerCredit",
-    title: "Customer Credit",
-    type: "rollup",
-    drawnBy: ROLLUP_DRAWN,
-    config: { relationPropertyId: "customer", targetPropertyId: "credit" },
-  },
-  {
-    id: "customerHandler",
-    title: "Customer Handler",
-    type: "rollup",
-    drawnBy: ROLLUP_DRAWN,
-    config: { relationPropertyId: "customer", targetPropertyId: "handler" },
   },
   {
     id: "doubledCredit",
@@ -119,32 +96,15 @@ function declared(id: string): PropertyDefinition {
 }
 
 function resolved(id: string): PropertyDefinition {
-  return resolveComputedProperty(declared(id), ORDER, PROPERTIES)
+  return resolveComputedProperty(declared(id), PROPERTIES)
 }
 
 test("the drawings read here are the ones beside the page types", () => {
   expect(DRAWINGS.has("number-property")).toBe(true)
   expect(DRAWINGS.has("relation-property")).toBe(true)
   expect(DRAWINGS.has(FALLS_BACK_TO)).toBe(true)
-  expect(DRAWINGS.has("rollup-property")).toBe(false)
   expect(DRAWINGS.has("formula-property")).toBe(false)
   expect(DRAWINGS.has("aggregate-property")).toBe(false)
-})
-
-test("a rollup reaching a number is drawn as that number rather than as bare text", () => {
-  const one = resolved("customerCredit")
-
-  expect(one.type).toBe("number")
-  expect(one.drawnBy).toEqual(NUMBER_DRAWN)
-  expect(drawnAs(one)).toBe("number-property")
-})
-
-test("a rollup reaching a relation keeps the chain that draws a relation", () => {
-  const one = resolved("customerHandler")
-
-  expect(one.type).toBe("relation")
-  expect(one.drawnBy).toEqual(RELATION_DRAWN)
-  expect(drawnAs(one)).toBe("relation-property")
 })
 
 test("a formula answering a number is drawn as a number", () => {
@@ -171,5 +131,5 @@ test("a resolved type no property here carries a chain for keeps the chain it wa
 test("a property that works nothing out is answered as it was handed in", () => {
   const one = declared("customer")
 
-  expect(resolveComputedProperty(one, ORDER, PROPERTIES)).toBe(one)
+  expect(resolveComputedProperty(one, PROPERTIES)).toBe(one)
 })

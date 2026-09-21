@@ -1,12 +1,14 @@
 "use client"
 
 import type { PageOrder } from "akasha/page/access/modules/types/types.module.code.ts"
-import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type {
+  PageTypePropertiesMap,
+  PropertyDefinition,
+} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type {
   PageCondition,
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import { getCrossTypePredicate } from "akasha/page/core/schema/modules/cross-type-predicates/cross-type-predicates.module.code.ts"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import {
@@ -81,13 +83,12 @@ export function usePageViewQuery({
         f.operator,
         f.value,
         def,
-        pageTypeId,
         propertiesByPageType
       )
       if (conds) out.push(...conds)
     }
     return out.length > 0 ? out : undefined
-  }, [crossPredicate, viewConfig?.filters, properties, pageTypeId, propertiesByPageType])
+  }, [crossPredicate, viewConfig?.filters, properties, propertiesByPageType])
 
   const crossTypeDescriptor = useMemo<ShapeDescriptor | undefined>(() => {
     if (crossPredicate === undefined) return undefined
@@ -98,9 +99,7 @@ export function usePageViewQuery({
 
   const resolveKeys = useMemo<readonly string[] | undefined>(() => {
     if (!properties || properties.length === 0) return undefined
-    const resolvableIds = properties
-      .filter((p) => p.type === "rollup" || p.type === "aggregate")
-      .map((p) => p.id)
+    const resolvableIds = properties.filter((p) => p.type === "aggregate").map((p) => p.id)
     if (resolvableIds.length === 0) return undefined
     const visible = viewConfig?.visible_properties
     const filtered = visible ? resolvableIds.filter((id) => visible.includes(id)) : resolvableIds
@@ -130,17 +129,9 @@ export function usePageViewQuery({
         result.rows,
         crossPredicate?.filters ?? viewConfig?.filters,
         properties,
-        pageTypeId,
         propertiesByPageType
       ),
-    [
-      result.rows,
-      crossPredicate?.filters,
-      viewConfig?.filters,
-      properties,
-      pageTypeId,
-      propertiesByPageType,
-    ]
+    [result.rows, crossPredicate?.filters, viewConfig?.filters, properties, propertiesByPageType]
   )
   const pages = useMemo(() => filteredRows.map((r) => toPageWithProperties(r)), [filteredRows])
   const totalCount = useMemo(

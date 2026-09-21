@@ -1,38 +1,26 @@
-import {
-  type PropertyDefinition,
-  type PropertyType,
-  readString,
+import type {
+  PageTypePropertiesMap,
+  PropertyDefinition,
+  PropertyType,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import {
-  type PageTypePropertiesMap,
-  parseRollupConfig,
-  type RollupConfig,
-} from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import {
   aggregateConfigSchema,
   formulaConfigSchema,
 } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import type * as z from "zod"
 
-const MAX_ROLLUP_DEPTH = 10
-
 export function resolveComputedProperty(
   definition: PropertyDefinition,
-  pageTypeId: string,
   propertiesByPageType: PageTypePropertiesMap
 ): PropertyDefinition {
   if (definition.type === "aggregate") {
     return synthesizeDefinition(definition, propertiesByPageType, {
       type: "number",
       config: resolveAggregateNumberConfig(definition),
-      drawn: {},
     })
   }
   if (definition.type === "formula") {
     return resolveFormula(definition, propertiesByPageType)
-  }
-  if (definition.type === "rollup") {
-    return resolveRollupDefinition(definition, pageTypeId, propertiesByPageType)
   }
   return definition
 }
@@ -46,7 +34,6 @@ function resolveFormula(
   return synthesizeDefinition(definition, propertiesByPageType, {
     type: parsed.data.returnType,
     config: resolvedFormulaConfig(parsed.data),
-    drawn: {},
   })
 }
 
@@ -96,20 +83,6 @@ function numberFormatSurfaceConfig(
   return config
 }
 
-function resolveRollupDefinition(
-  definition: PropertyDefinition,
-  pageTypeId: string,
-  propertiesByPageType: PageTypePropertiesMap
-): PropertyDefinition {
-  const config = parseRollupConfig(definition.config)
-  if (config === null) return definition
-
-  const resolved = walkRollupChain(config, pageTypeId, propertiesByPageType, new Set(), 0)
-  if (resolved === null) return definition
-
-  return synthesizeDefinition(definition, propertiesByPageType, resolved)
-}
-
 interface Drawn {
   readonly drawnBy?: readonly string[]
   readonly memberDrawnBy?: readonly (readonly string[])[]
@@ -118,55 +91,6 @@ interface Drawn {
 interface ResolvedType {
   readonly type: PropertyType
   readonly config: ConfigValue
-  readonly drawn: Drawn
-}
-
-function walkRollupChain(
-  config: RollupConfig,
-  pageTypeId: string,
-  propertiesByPageType: PageTypePropertiesMap,
-  visited: Set<string>,
-  depth: number
-): ResolvedType | null {
-  if (depth >= MAX_ROLLUP_DEPTH) return null
-
-  const visitKey = `${pageTypeId}:${config.relationPropertyId}:${config.targetPropertyId}`
-  if (visited.has(visitKey)) return null
-  visited.add(visitKey)
-
-  const currentProperties = propertiesByPageType.get(pageTypeId)
-  if (!currentProperties) return null
-
-  const relationProp = currentProperties.find((p) => p.id === config.relationPropertyId)
-  if (!relationProp) return null
-  if (relationProp.type !== "relation" && relationProp.type !== "multi-relation") return null
-
-  const targetPageTypeId = readString(relationProp.config, "targetPageTypeId")
-  if (targetPageTypeId === null) return null
-
-  const targetProperties = propertiesByPageType.get(targetPageTypeId)
-  if (!targetProperties) return null
-
-  const targetProp = targetProperties.find((p) => p.id === config.targetPropertyId)
-  if (!targetProp) return null
-
-  if (targetProp.type === "rollup") {
-    const nestedConfig = parseRollupConfig(targetProp.config)
-    if (nestedConfig === null) return null
-    return walkRollupChain(nestedConfig, targetPageTypeId, propertiesByPageType, visited, depth + 1)
-  }
-
-  if (targetProp.type === "aggregate") {
-    return { type: "number", config: resolveAggregateNumberConfig(targetProp), drawn: {} }
-  }
-
-  if (targetProp.type === "formula") {
-    const parsed = formulaConfigSchema.safeParse(targetProp.config)
-    if (!parsed.success) return null
-    return { type: parsed.data.returnType, config: resolvedFormulaConfig(parsed.data), drawn: {} }
-  }
-
-  return { type: targetProp.type, config: targetProp.config ?? {}, drawn: drawnOf(targetProp) }
 }
 
 type ConfigValue = NonNullable<PropertyDefinition["config"]>
@@ -197,7 +121,6 @@ function drawnForResolved(
   resolved: ResolvedType,
   propertiesByPageType: PageTypePropertiesMap
 ): Drawn {
-  if (resolved.drawn.drawnBy !== undefined) return resolved.drawn
   return drawnAsType(resolved.type, propertiesByPageType) ?? drawnOf(source)
 }
 

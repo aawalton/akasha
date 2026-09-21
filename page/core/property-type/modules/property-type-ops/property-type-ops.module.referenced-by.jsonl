@@ -19,7 +19,6 @@
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/core/property-type/modules/registry/registry.module.code.ts"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/core/property-type/modules/relation/relation.module.code.ts"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/core/property-type/modules/rich-document/rich-document.module.code.ts"}
-{"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/core/property-type/modules/rollup/rollup.module.code.ts"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/core/property-type/modules/rrule/rrule.module.code.ts"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/core/property-type/modules/select/select.module.code.ts"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/core/property-type/modules/text/text.module.code.ts"}
@@ -42,5 +41,4 @@
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/quick-add-form/quick-add-form.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx"}
 {"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/modules/value-filter-inputs/value-filter-inputs.module.code.tsx"}
-{"propertySlug":"import","fileName":"property-type-ops.module.code.ts","path":"page/ui/component/view-engine/modules/use-view-row-rollups/use-view-row-rollups.module.code.ts"}
 {"propertySlug":"parts","path":"page/core/property-type/page-core-property-type.domain.ts","id":"01a071cb-236e-781b-9c7d-29bf3bd222c7"}

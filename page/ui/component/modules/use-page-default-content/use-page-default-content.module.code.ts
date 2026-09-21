@@ -1,9 +1,11 @@
 "use client"
 
 import type { IconName } from "akasha/page/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
-import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type {
+  PageTypePropertiesMap,
+  PropertyDefinition,
+} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { computeAggregatesForPage } from "akasha/page/core/property-type/modules/aggregate/aggregate.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import {

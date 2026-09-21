@@ -1,13 +1,8 @@
 import {
+  type PageTypePropertiesMap,
   type PropertyDefinition,
   readString,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import {
-  type PageTypePropertiesMap,
-  parseRollupConfig,
-} from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
-
-const MAX_DEPTH = 10
 
 function relationTargetTypeId(
   relationPropertyId: string,
@@ -22,33 +17,6 @@ function relationTargetTypeId(
   return readString(relationProp.config, "targetPageTypeId")
 }
 
-function collectRollupTargets(
-  config: { readonly relationPropertyId: string; readonly targetPropertyId: string },
-  pageTypeId: string,
-  defsByTypeId: PageTypePropertiesMap,
-  visited: Set<string>,
-  depth: number,
-  out: Set<string>
-): undefined {
-  if (depth >= MAX_DEPTH) return
-  const visitKey = `${pageTypeId}:${config.relationPropertyId}:${config.targetPropertyId}`
-  if (visited.has(visitKey)) return
-  visited.add(visitKey)
-
-  const targetTypeId = relationTargetTypeId(config.relationPropertyId, pageTypeId, defsByTypeId)
-  if (targetTypeId === null) return
-  out.add(targetTypeId)
-
-  const targetDefs = defsByTypeId.get(targetTypeId)
-  const targetProp = targetDefs?.find((p) => p.id === config.targetPropertyId)
-  if (targetProp?.type === "rollup") {
-    const nested = parseRollupConfig(targetProp.config)
-    if (nested !== null) {
-      collectRollupTargets(nested, targetTypeId, defsByTypeId, visited, depth + 1, out)
-    }
-  }
-}
-
 export function collectResolutionTargetTypeIds(
   propDef: PropertyDefinition,
   pageTypeId: string,
@@ -58,13 +26,6 @@ export function collectResolutionTargetTypeIds(
   if (propDef.type === "relation" || propDef.type === "multi-relation") {
     const target = readString(propDef.config, "targetPageTypeId")
     if (target !== null) out.add(target)
-    return out
-  }
-  if (propDef.type === "rollup") {
-    const config = parseRollupConfig(propDef.config)
-    if (config !== null) {
-      collectRollupTargets(config, pageTypeId, defsByTypeId, new Set(), 0, out)
-    }
     return out
   }
   if (propDef.type === "aggregate") {

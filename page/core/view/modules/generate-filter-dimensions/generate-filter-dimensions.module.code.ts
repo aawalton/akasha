@@ -1,11 +1,11 @@
 import type {
+  PageTypePropertiesMap,
   PropertyDefinition,
   PropertyType,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { FilterOperatorOption } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { PROPERTY_TYPE_OPS_REGISTRY } from "akasha/page/core/property-type/modules/registry/registry.module.code.ts"
 import { resolveComputedProperty } from "akasha/page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import {
   isSelectOption,
   type SelectOption,
@@ -33,15 +33,14 @@ function readTargetPageTypeId(config: PropertyDefinition["config"]): string | un
 
 export function generateFilterDimensions(
   properties: readonly PropertyDefinition[],
-  pageTypeId?: string,
   propertiesByPageType?: PageTypePropertiesMap
 ): readonly PageFilterDimension[] {
   const dims: PageFilterDimension[] = []
 
   for (const prop of properties) {
     const effective =
-      pageTypeId !== undefined && propertiesByPageType !== undefined
-        ? resolveComputedProperty(prop, pageTypeId, propertiesByPageType)
+      propertiesByPageType !== undefined
+        ? resolveComputedProperty(prop, propertiesByPageType)
         : prop
 
     const handler = PROPERTY_TYPE_OPS_REGISTRY[effective.type]

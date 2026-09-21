@@ -1,9 +1,9 @@
 "use client"
 
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { readTargetPageTypeId } from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,

@@ -34,7 +34,6 @@ export const pageCorePropertyType = {
     "module/rich-document",
     "module/rich-document-ops",
     "module/rich-document-tree",
-    "module/rollup",
     "module/rrule",
     "module/select",
     "module/text",

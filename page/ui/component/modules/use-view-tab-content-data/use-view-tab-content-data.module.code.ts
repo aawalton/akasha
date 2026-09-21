@@ -22,7 +22,6 @@ import {
 } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
 import { selectViewQueryResult } from "akasha/page/ui/component/modules/view-tab-content-results/view-tab-content-results.module.code.ts"
 import { useViewRowAggregates } from "akasha/page/ui/component/view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
-import { useViewRowRollups } from "akasha/page/ui/component/view-engine/modules/use-view-row-rollups/use-view-row-rollups.module.code.ts"
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import { useGroupByPaginatedQuery } from "akasha/page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"
 import { useRelatedPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
@@ -267,13 +266,6 @@ export function useViewTabContentData({
     relatedPages,
   })
 
-  const rowRollups = useViewRowRollups({
-    pages: allPages,
-    definitions: properties,
-    relatedPages,
-    propertiesByPageType,
-  })
-
   const pageHrefById = useCallback(
     (id: string, opts?: { targetPageTypeId?: string }): string => {
       const match = pageById(allPages, id) ?? pageById(relatedPages, id)
@@ -304,14 +296,10 @@ export function useViewTabContentData({
     () =>
       pages.map((p) => {
         const aggregate = rowAggregates.get(p._id)
-        const rollup = rowRollups.get(p._id)
-        const props =
-          aggregate === undefined && rollup === undefined
-            ? p.properties
-            : { ...p.properties, ...aggregate, ...rollup }
+        const props = aggregate === undefined ? p.properties : { ...p.properties, ...aggregate }
         return { ...toPageDataRecord(props), _id: p._id }
       }),
-    [pages, rowAggregates, rowRollups]
+    [pages, rowAggregates]
   )
 
   const serverGrouped = useMemo<readonly ServerGroupedSection[] | undefined>(

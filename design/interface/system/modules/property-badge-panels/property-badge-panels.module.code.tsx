@@ -128,17 +128,6 @@ const NUMBER_SAMPLES: readonly BadgeSample[] = [
     value: 73.4,
   },
   {
-    type: "rollup",
-    property: {
-      id: "ds-property-rollup",
-      title: "Child Count",
-      type: "rollup",
-      drawnBy: ["rollup-property", "number-property", "page-property", "domain", "page"],
-      config: { format: "number" },
-    },
-    value: 12,
-  },
-  {
     type: "progress",
     property: {
       id: "ds-property-progress",

@@ -2054,7 +2054,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rich-document-ops/rich-document-ops.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rich-document-tree/rich-document-tree.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rich-document/rich-document.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rollup/rollup.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rrule/rrule.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/select/select.module.ts"}
@@ -2414,7 +2413,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/view-engine/modules/generate-group-definitions/generate-group-definitions.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/view-engine/modules/use-view-row-aggregates/use-view-row-aggregates.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/view-engine/modules/use-view-row-rollups/use-view-row-rollups.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/view-engine/modules/view-row/view-row.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/context/modules/page-resolver-context/page-resolver-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/context/modules/relation-picker-context/relation-picker-context.module.ts"}

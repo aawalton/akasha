@@ -130,7 +130,6 @@ export function PageSystemTabContent({
     properties,
     viewConfig,
     onViewConfigChange,
-    pageTypeId,
     propertiesByPageType,
   })
 

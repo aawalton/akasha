@@ -12,10 +12,7 @@ export const resolveComputedType = {
       decisionKind: "decision-kind/departure",
       statement: "A resolved property is drawn by the chain of the type it resolved to.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A rollup takes the chain of the property it reaches, members and all.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A chain for a resolved type is taken from a property already carrying one.",

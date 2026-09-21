@@ -4,8 +4,10 @@ import type {
   GetPagesForViewArgs,
   GetPagesForViewResult,
 } from "akasha/page/access/modules/get-for-view/get-for-view.module.code.ts"
-import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
+import type {
+  PageTypePropertiesMap,
+  PropertyDefinition,
+} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { useViewQuery } from "akasha/page/ui/cache/modules/use-view-query/use-view-query.module.code.ts"
 import type { ShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 

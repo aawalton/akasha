@@ -14,7 +14,6 @@ const DRAWN = [
   "url",
   "relation",
   "multi-relation",
-  "rollup",
   "aggregate",
   "formula",
   "json",

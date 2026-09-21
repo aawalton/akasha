@@ -14,7 +14,6 @@ export type PropertyType =
   | "url"
   | "relation"
   | "multi-relation"
-  | "rollup"
   | "aggregate"
   | "formula"
   | "json"
@@ -51,6 +50,8 @@ export type PropertyDefinition = {
   readonly colorRule?: ColorRule
   readonly defaultValue?: ReadonlyJSONValue
 }
+
+export type PageTypePropertiesMap = ReadonlyMap<string, readonly PropertyDefinition[]>
 
 export type PageDataJSON = Readonly<Record<string, ReadonlyJSONValue | undefined>>
 

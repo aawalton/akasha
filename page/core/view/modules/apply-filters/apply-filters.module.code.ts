@@ -1,8 +1,10 @@
-import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import type {
+  PageTypePropertiesMap,
+  PropertyDefinition,
+} from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { FilterConfig } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { PROPERTY_TYPE_OPS_REGISTRY } from "akasha/page/core/property-type/modules/registry/registry.module.code.ts"
 import { resolveComputedProperty } from "akasha/page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.code.ts"
-import type { PageTypePropertiesMap } from "akasha/page/core/property-type/modules/rollup/rollup.module.code.ts"
 import { pageHasNonEmptyContentKey } from "akasha/page/core/schema/modules/content-tier/content-tier.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
@@ -19,15 +21,12 @@ function toFilterConfig(filter: ViewFilter): FilterConfig {
 function buildFilterPredicate(
   filters: readonly ViewFilter[] | undefined,
   properties: readonly PropertyDefinition[],
-  pageTypeId?: string,
   propertiesByPageType?: PageTypePropertiesMap
 ): (row: Readonly<Record<string, ReadonlyJSONValue>>) => boolean {
   if (!filters || filters.length === 0) return () => true
 
   const defsById = new Map<string, PropertyDefinition>()
   for (const p of properties) defsById.set(p.id, p)
-
-  const hasContext = pageTypeId !== undefined && propertiesByPageType !== undefined
 
   const resolved: ((row: Readonly<Record<string, ReadonlyJSONValue>>) => boolean)[] = []
   for (const filter of filters) {
@@ -42,9 +41,8 @@ function buildFilterPredicate(
       }
       continue
     }
-    const effective = hasContext
-      ? resolveComputedProperty(def, pageTypeId, propertiesByPageType)
-      : def
+    const effective =
+      propertiesByPageType !== undefined ? resolveComputedProperty(def, propertiesByPageType) : def
     const ops = PROPERTY_TYPE_OPS_REGISTRY[effective.type]
     if (!ops) continue
     const valuePredicate = ops.getFilterPredicate(toFilterConfig(filter), effective)
@@ -66,10 +64,9 @@ export function applyFilters<T extends FilterableRow>(
   items: readonly T[],
   filters: readonly ViewFilter[] | undefined,
   properties: readonly PropertyDefinition[],
-  pageTypeId?: string,
   propertiesByPageType?: PageTypePropertiesMap
 ): readonly T[] {
   if (!filters || filters.length === 0) return items.slice()
-  const predicate = buildFilterPredicate(filters, properties, pageTypeId, propertiesByPageType)
+  const predicate = buildFilterPredicate(filters, properties, propertiesByPageType)
   return items.filter((item) => predicate(item))
 }

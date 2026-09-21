@@ -138,7 +138,6 @@ function propertyValueDisplayLength(
     case "boolean":
     case "relation":
     case "multi-relation":
-    case "rollup":
     case "aggregate":
     case "formula":
     case "rrule":

@@ -10,7 +10,6 @@ export const pageUiComponentViewEngine = {
     "module/generate-group-definitions",
     "module/use-page-view",
     "module/use-view-row-aggregates",
-    "module/use-view-row-rollups",
     "module/view-row",
   ],
 } as const satisfies Domain
