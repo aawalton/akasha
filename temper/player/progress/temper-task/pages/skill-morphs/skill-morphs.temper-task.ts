@@ -6,7 +6,7 @@ export const skillMorphs = {
   slug: "skill-morphs",
   title: "Skill Morphs",
   displayOrder: 0,
-  character: "lyonette-du-marquin",
+  character: "temper-account-character/lyonette-du-marquin",
   completionCardId: "skill-morphs",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY",

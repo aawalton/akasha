@@ -7,7 +7,7 @@ export const lorebooks = {
   title: "Lorebooks",
   icon: "file-text",
   displayOrder: 15,
-  character: "erin-solstice",
+  character: "temper-account-character/erin-solstice",
   completionCardId: "lore-library-character",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY",

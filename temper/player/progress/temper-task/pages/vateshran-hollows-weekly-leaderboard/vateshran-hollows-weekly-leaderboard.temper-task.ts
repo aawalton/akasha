@@ -7,7 +7,7 @@ export const vateshranHollowsWeeklyLeaderboard = {
   title: "Vateshran Hollows Weekly Leaderboard",
   displayOrder: 15,
   esoCharacterId: "8796093022338107",
-  character: "erin-solstice",
+  character: "temper-account-character/erin-solstice",
   dueDate: "2026-10-04",
   rruleRule: "FREQ=WEEKLY;INTERVAL=2",
   rruleAnchorFromCompletion: false,

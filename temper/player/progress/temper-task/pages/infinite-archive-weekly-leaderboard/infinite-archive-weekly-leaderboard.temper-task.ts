@@ -7,7 +7,7 @@ export const infiniteArchiveWeeklyLeaderboard = {
   title: "Infinite Archive Weekly Leaderboard",
   displayOrder: 14,
   esoCharacterId: "8796093022338107",
-  character: "erin-solstice",
+  character: "temper-account-character/erin-solstice",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,

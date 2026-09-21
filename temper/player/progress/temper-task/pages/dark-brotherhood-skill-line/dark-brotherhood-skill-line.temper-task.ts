@@ -6,7 +6,7 @@ export const darkBrotherhoodSkillLine = {
   slug: "dark-brotherhood-skill-line",
   title: "Dark Brotherhood Skill Line",
   displayOrder: 11,
-  character: "yvlon-byres",
+  character: "temper-account-character/yvlon-byres",
   completionCardId: "skill-lines",
   completionItemPath: ["118"],
   dueDate: "2026-09-23",

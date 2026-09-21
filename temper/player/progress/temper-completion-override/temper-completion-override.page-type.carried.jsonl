@@ -3,7 +3,7 @@
 {"extends":["page-type/temper-progress-thing"]}
 {"id":"01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0"}
 {"parts":["number-property/floor","text-property/override-reason"]}
-{"properties":[{"pageProperty":"text-property/account-page","required":true,"many":false},{"pageProperty":"text-property/character","required":true,"many":false},{"pageProperty":"text-property/completion-card-id","required":true,"many":false},{"pageProperty":"text-property/completion-item-path","required":true,"many":true,"maxCount":null},{"pageProperty":"number-property/floor","required":true,"many":false},{"pageProperty":"text-property/override-reason","required":true,"many":false}]}
+{"properties":[{"pageProperty":"text-property/account-page","required":true,"many":false},{"pageProperty":"relation-property/character","required":true,"many":false},{"pageProperty":"text-property/completion-card-id","required":true,"many":false},{"pageProperty":"text-property/completion-item-path","required":true,"many":true,"maxCount":null},{"pageProperty":"number-property/floor","required":true,"many":false},{"pageProperty":"text-property/override-reason","required":true,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"temper-completion-override"}
 {"type":"page-type/page-type"}

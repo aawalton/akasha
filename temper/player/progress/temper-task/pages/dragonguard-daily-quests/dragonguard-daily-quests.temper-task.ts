@@ -6,7 +6,7 @@ export const dragonguardDailyQuests = {
   slug: "dragonguard-daily-quests",
   title: "Dragonguard Daily Quests",
   displayOrder: 7,
-  character: "lyonette-du-marquin",
+  character: "temper-account-character/lyonette-du-marquin",
   completionCardId: "character-achievements",
   completionItemPath: ["Dragonhold", "Quests", "2612"],
   dueDate: "2026-09-22",

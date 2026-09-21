@@ -7,7 +7,7 @@ export const antiquityLeadsLegendary = {
   title: "Antiquity Leads Legendary",
   displayOrder: 0,
   esoCharacterId: "8796093022338107",
-  character: "erin-solstice",
+  character: "temper-account-character/erin-solstice",
   completionCardId: "antiquity-leads-legendary",
   dueDate: "2026-09-27",
   rruleRule: "FREQ=WEEKLY",

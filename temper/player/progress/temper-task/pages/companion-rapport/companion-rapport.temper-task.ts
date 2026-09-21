@@ -6,7 +6,7 @@ export const companionRapport = {
   slug: "companion-rapport",
   title: "Companion Rapport",
   icon: "file-text",
-  character: "maviola-el",
+  character: "temper-account-character/maviola-el",
   completionCardId: "companion-rapport-character",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY;INTERVAL=1",

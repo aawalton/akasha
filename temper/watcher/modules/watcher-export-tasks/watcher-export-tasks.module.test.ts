@@ -185,7 +185,7 @@ const TASK_ROWS: readonly Page[] = [
     rruleRule: "FREQ=DAILY",
     dueDate: "2026-01-02",
     scope: "character",
-    character: "character-a",
+    character: "temper-account-character/character-a",
     displayOrder: 3,
     priority: "high",
     completionCardId: "daily-writs",
@@ -207,21 +207,21 @@ const CHARACTER_ROWS: readonly Page[] = [
 const OVERRIDE_ROWS: readonly Page[] = [
   asPage({
     id: "override-1",
-    character: "character-a",
+    character: "temper-account-character/character-a",
     completionCardId: "daily-writs",
     completionItemPath: ["alchemy", 2],
     floor: 1,
   }),
   asPage({
     id: "override-2",
-    character: "character-a",
+    character: "temper-account-character/character-a",
     completionCardId: "no-such-card",
     completionItemPath: ["alchemy", 2],
     floor: 1,
   }),
   asPage({
     id: "override-3",
-    character: "character-nobody",
+    character: "temper-account-character/character-nobody",
     completionCardId: "hireling-mails",
     completionItemPath: [],
     floor: 4,

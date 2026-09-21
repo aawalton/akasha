@@ -32,6 +32,14 @@ describe("parseCompletionOverrideRow", () => {
     expect(parseCompletionOverrideRow({ ...wellFormedRow(), character: "" })).toBeNull()
   })
 
+  test("reads a character named by a qualified address as the slug in it", () => {
+    const parsed = parseCompletionOverrideRow({
+      ...wellFormedRow(),
+      character: "temper-account-character/character-a",
+    })
+    expect(parsed?.characterId).toBe("character-a")
+  })
+
   test("returns null for a missing or non-string completionCardId", () => {
     expect(
       parseCompletionOverrideRow({ ...wellFormedRow(), completionCardId: undefined })

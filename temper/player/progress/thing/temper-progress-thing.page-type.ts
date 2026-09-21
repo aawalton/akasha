@@ -9,7 +9,7 @@ export const temperProgressThing = {
   parts: [
     "boolean-property/rrule-anchor-from-completion",
     "calendar-date-property/due-date",
-    "text-property/character",
+    "relation-property/character",
     "text-property/completion-card-id",
     "text-property/completion-item-path",
     "text-property/node-id",
@@ -18,7 +18,7 @@ export const temperProgressThing = {
   ],
   properties: [
     { pageProperty: "text-property/node-id", required: false, many: false },
-    { pageProperty: "text-property/character", required: false, many: false },
+    { pageProperty: "relation-property/character", required: false, many: false },
     { pageProperty: "text-property/completion-card-id", required: false, many: false },
     {
       pageProperty: "text-property/completion-item-path",

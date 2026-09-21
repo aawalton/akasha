@@ -12,5 +12,9 @@ export const completionOverrideRow = {
       decisionKind: "decision-kind/constraint",
       statement: "A row that is not an override reads as nothing rather than throwing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The character a row names by an address is read as the slug in that address.",
+    },
   ],
 } as const satisfies Module

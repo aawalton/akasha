@@ -7,7 +7,7 @@ export const shalidorSLibrary = {
   title: "Shalidor's Library",
   icon: "file-text",
   displayOrder: 15,
-  character: "nirayicel",
+  character: "temper-account-character/nirayicel",
   completionCardId: "lore-library-character",
   completionItemPath: ["1"],
   dueDate: "2026-09-20",

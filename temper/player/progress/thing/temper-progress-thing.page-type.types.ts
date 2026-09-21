@@ -1,5 +1,5 @@
 import type { Priority } from "akasha/page/properties/priority.select-property.types.ts"
-import type { Character } from "akasha/temper/player/progress/thing/properties/character.text-property.types.ts"
+import type { Character } from "akasha/temper/player/progress/thing/properties/character.relation-property.types.ts"
 import type { CompletionCardId } from "akasha/temper/player/progress/thing/properties/completion-card-id.text-property.types.ts"
 import type { CompletionItemPath } from "akasha/temper/player/progress/thing/properties/completion-item-path.text-property.types.ts"
 import type { DueDate } from "akasha/temper/player/progress/thing/properties/due-date.calendar-date-property.types.ts"

@@ -6,7 +6,7 @@ export const weeklyChallenges = {
   slug: "weekly-challenges",
   title: "Weekly Challenges",
   icon: "file-text",
-  character: "erin-solstice",
+  character: "temper-account-character/erin-solstice",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=WEEKLY;BYDAY=TU",
   rruleAnchorFromCompletion: false,

@@ -7,7 +7,7 @@ export const hirelingMails = {
   title: "Hireling Mails",
   displayOrder: 4,
   esoCharacterId: "8796093022338107",
-  character: "erin-solstice",
+  character: "temper-account-character/erin-solstice",
   completionCardId: "hireling-mails",
   dueDate: "2026-09-22",
   rruleRule: "FREQ=DAILY",

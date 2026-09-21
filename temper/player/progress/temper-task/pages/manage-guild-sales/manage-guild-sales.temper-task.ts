@@ -7,7 +7,7 @@ export const manageGuildSales = {
   title: "Manage Guild Sales",
   displayOrder: 12,
   esoCharacterId: "8796093022338107",
-  character: "erin-solstice",
+  character: "temper-account-character/erin-solstice",
   completionCardId: "guild-sales",
   dueDate: "2026-09-28",
   rruleRule: "FREQ=WEEKLY;BYDAY=MO",

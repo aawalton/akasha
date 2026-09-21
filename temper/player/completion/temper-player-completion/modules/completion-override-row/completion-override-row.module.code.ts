@@ -1,3 +1,4 @@
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { isAnyCompletionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 
@@ -20,8 +21,9 @@ export function parseCompletionOverrideRow(
   row: Readonly<Record<string, unknown>>
 ): ParsedCompletionOverrideRow | null {
   const characterValue = row.character
-  const characterId = typeof characterValue === "string" ? characterValue : null
-  if (characterId === null || characterId === "") return null
+  const named = typeof characterValue === "string" ? characterValue : null
+  if (named === null || named === "") return null
+  const characterId = slugOf(named)
 
   const cardValue = row.completionCardId
   if (typeof cardValue !== "string" || !isAnyCompletionCardId(cardValue)) return null

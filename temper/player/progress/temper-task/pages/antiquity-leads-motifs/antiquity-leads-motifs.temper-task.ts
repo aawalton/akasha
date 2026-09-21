@@ -6,7 +6,7 @@ export const antiquityLeadsMotifs = {
   slug: "antiquity-leads-motifs",
   title: "Antiquity Leads Motifs",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  character: "erin-solstice",
+  character: "temper-account-character/erin-solstice",
   effectiveCharacter: "erin-solstice",
   esoCharacterId: "8796093022338107",
   scope: "character",

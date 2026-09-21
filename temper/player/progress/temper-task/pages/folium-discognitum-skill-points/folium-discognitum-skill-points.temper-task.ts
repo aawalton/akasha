@@ -6,7 +6,7 @@ export const foliumDiscognitumSkillPoints = {
   slug: "folium-discognitum-skill-points",
   title: "Folium Discognitum Skill Points",
   icon: "file-text",
-  character: "rafaema-coloseuvia",
+  character: "temper-account-character/rafaema-coloseuvia",
   completionCardId: "skill-points",
   completionItemPath: ["general", "foliumDiscognitum"],
   dueDate: "2026-09-20",

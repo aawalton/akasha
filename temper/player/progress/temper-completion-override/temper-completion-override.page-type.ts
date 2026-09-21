@@ -10,7 +10,7 @@ export const temperCompletionOverride = {
   parts: ["number-property/floor", "text-property/override-reason"],
   properties: [
     { pageProperty: "text-property/account-page", required: true, many: false },
-    { pageProperty: "text-property/character", required: true, many: false },
+    { pageProperty: "relation-property/character", required: true, many: false },
     { pageProperty: "text-property/completion-card-id", required: true, many: false },
     {
       pageProperty: "text-property/completion-item-path",

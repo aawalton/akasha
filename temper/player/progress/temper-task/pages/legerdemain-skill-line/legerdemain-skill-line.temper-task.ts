@@ -7,7 +7,7 @@ export const legerdemainSkillLine = {
   title: "Legerdemain Skill Line",
   displayOrder: 10,
   esoCharacterId: "8796093038720681",
-  character: "yvlon-byres",
+  character: "temper-account-character/yvlon-byres",
   completionCardId: "skill-lines",
   completionItemPath: ["111"],
   dueDate: "2026-09-23",

@@ -7,6 +7,7 @@ import {
   completionShapeOf,
   readsAsDone,
 } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { serializeLuaBlock } from "akasha/temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 import type { ParsedCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
@@ -235,16 +236,15 @@ export async function runExportTasks(
   const characterEsoIdBySlug = new Map<string, string>()
   const taskCharacterSlugs: string[] = []
   for (const row of tasks) {
-    const characterSlug = stringAt(row, "character")
-    if (characterSlug !== null) taskCharacterSlugs.push(characterSlug)
+    const named = stringAt(row, "character")
+    if (named !== null) taskCharacterSlugs.push(slugOf(named))
   }
   await learnCharacterEsoIds(taskCharacterSlugs, characterEsoIdBySlug, getRows)
 
   const tasksRecord: Record<string, TaskData> = {}
   for (const row of tasks) {
-    const characterSlug = stringAt(row, "character")
-    const esoCharacterId =
-      characterSlug === null ? null : (characterEsoIdBySlug.get(characterSlug) ?? null)
+    const named = stringAt(row, "character")
+    const esoCharacterId = named === null ? null : (characterEsoIdBySlug.get(slugOf(named)) ?? null)
     tasksRecord[taskKey(row)] = taskDataFrom(row, esoCharacterId)
   }
 

@@ -6,7 +6,7 @@ export const erinSolsticeSkillPointsGeneralTutorial = {
   slug: "erin-solstice-skill-points-general-tutorial",
   title: "Skill Points general/tutorial for Erin Solstice",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  character: "erin-solstice",
+  character: "temper-account-character/erin-solstice",
   completionCardId: "skill-points",
   completionItemPath: ["general", "tutorial"],
   floor: 1,
