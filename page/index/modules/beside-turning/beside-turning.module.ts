@@ -34,28 +34,6 @@ export const besideTurning = {
       statement: "A stranded page is answered so the change withdraws what that page was filed by.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A property is turned for relations where that property's key or target differs.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A property a change adds or takes away is turned for relations.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Which page types declare a property is read from the declarations rather than from an edge.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A page type is answered for a property every page type above that page type declares.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The declarers are read from the world before the change and the world after it.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "A page the change has is not answered here.",
     },
@@ -64,21 +42,12 @@ export const besideTurning = {
       statement: "Nothing here files an entry.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "An id left under no name is read from the identity lines a change takes away.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here answers a page for a relation the change turns.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The pages naming an id are read from beside that id's page rather than sought.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page naming an id has its value read from that page's own body.",
-    },
-
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page whose body reads as no value of the type its name says is passed over.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here answers a page for an id the change leaves under no name.",
     },
   ],
 } as const satisfies Module

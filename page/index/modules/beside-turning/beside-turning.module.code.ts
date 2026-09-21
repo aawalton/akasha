@@ -1,31 +1,14 @@
 import {
   everyValue,
   type Valued,
-  valueByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import type {
-  Filing,
-  Reading,
-  Shape,
-} from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { namersOf } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   textAt,
   typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import {
-  identityOf,
-  propertiesIfNamed,
-  type Source,
-} from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import {
-  typeSlugsIn,
-  typesAmong,
-  typeValuesIn,
-} from "akasha/page/type/modules/gathering/page-type-gathering.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -41,11 +24,6 @@ export function pagesElsewhere(
     found.push({ path, value })
   }
   return found
-}
-
-function pageValueAt(reading: Reading, at: string, pageTypeSlug: string): Value | null {
-  const value = valueByPath(reading, at)
-  return value === null || typeIn(value) !== pageTypeSlug ? null : value
 }
 
 function typesNamed(values: readonly Value[]): ReadonlySet<string> {
@@ -70,99 +48,6 @@ export function pagesStranded(
     if (now.has(slug)) continue
     for (const one of valuesOfType(reading, slug)) {
       if (!carried.has(one.path)) found.push(one)
-    }
-  }
-  return found
-}
-
-export function pagesOfTypes(
-  reading: Reading,
-  types: ReadonlySet<string>,
-  carried: ReadonlySet<string>
-): readonly Valued[] {
-  const found: Valued[] = []
-  for (const slug of types) {
-    for (const one of valuesOfType(reading, slug)) {
-      if (!carried.has(one.path)) found.push(one)
-    }
-  }
-  return found
-}
-
-export function typesDeclaring(
-  reading: Reading,
-  sources: readonly Source[],
-  named: ReadonlySet<string>
-): ReadonlySet<string> {
-  const found = new Set<string>()
-  if (named.size === 0) return found
-  const among = typeSlugsIn(reading)
-  for (const slug of typesAmong(typeValuesIn(reading, among), among).keys()) {
-    for (const source of sources) {
-      const carried = propertiesIfNamed(slug, source) ?? []
-      if (!carried.some((one) => named.has(identityOf(one)))) continue
-      found.add(slug)
-      break
-    }
-  }
-  return found
-}
-
-export function relationsTurned(
-  was: ReadonlyMap<string, Shape>,
-  now: ReadonlyMap<string, Shape>
-): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const named of new Set([...was.keys(), ...now.keys()])) {
-    const before = was.get(named)
-    const after = now.get(named)
-    if (before === undefined || after === undefined) {
-      found.add(named)
-      continue
-    }
-    const turned =
-      before.propertySlug !== after.propertySlug ||
-      before.targetPageTypeSlug !== after.targetPageTypeSlug
-    if (turned) found.add(named)
-  }
-  return found
-}
-
-function idsIn(lines: readonly string[]): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const line of lines) {
-    const said = JSON.parse(line) as { readonly id?: unknown }
-    if (typeof said.id === "string") found.add(said.id)
-  }
-  return found
-}
-
-export function idsUnnamed(identity: readonly Filing[]): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const one of identity) {
-    const came = idsIn(one.came)
-    for (const id of idsIn(one.went)) {
-      if (!came.has(id)) found.add(id)
-    }
-  }
-  return found
-}
-
-export function pagesNaming(
-  reading: Reading,
-  gone: ReadonlySet<string>,
-  carried: ReadonlySet<string>
-): readonly Valued[] {
-  const found: Valued[] = []
-  const seen = new Set<string>()
-  for (const id of gone) {
-    for (const one of namersOf(reading, id)) {
-      if (carried.has(one.path) || seen.has(one.path)) continue
-      seen.add(one.path)
-      const said = partedIn(one.path)
-      if (said === null) continue
-      const value = pageValueAt(reading, one.path, said.pageType)
-      if (value !== null) found.push({ path: one.path, value })
     }
   }
   return found
