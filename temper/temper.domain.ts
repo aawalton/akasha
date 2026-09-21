@@ -68,8 +68,6 @@ export const temper = {
     "domain/temper-skill-point-finder",
     "domain/temper-skills-panel",
     "domain/temper-skyshard",
-    "domain/temper-trading-listing",
-    "domain/temper-trading-pricing",
     "domain/temper-upstream-data",
     "eso-addon/temper-crafting-addon",
     "module/addon-init",

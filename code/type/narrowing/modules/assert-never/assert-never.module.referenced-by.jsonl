@@ -80,6 +80,8 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/companions-core/modules/companion-valid-skills/companion-valid-skills.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/economy/trading/listing/modules/browse-state/browse-state.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/formula-framework/modules/display-formula-latex/display-formula-latex.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/formula-framework/modules/effect-value-update/effect-value-update.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-rules-core/modules/comparison-op/comparison-op.module.code.ts"}
@@ -100,8 +102,6 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player-inventory-management-ui/modules/rule-card-filter-chips-quantity/rule-card-filter-chips-quantity.module.code.tsx"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player-inventory-management-ui/modules/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/trading-listing/modules/browse-state/browse-state.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/web/modules/character-reducer/character-reducer.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/web/modules/characters-plan-empty/characters-plan-empty.module.code.tsx"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/web/modules/companion-reducer/companion-reducer.module.code.ts"}

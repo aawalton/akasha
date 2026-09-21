@@ -589,6 +589,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/shopping/temper-shopping.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/temper-economy.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/trading/listing/temper-trading-listing.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/trading/pricing/temper-trading-pricing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/market-value/temper-market-value.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/merchant-value/temper-merchant-value.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts"}
@@ -635,8 +637,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skills-panel/temper-skills-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skyshard/temper-skyshard.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/temper.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-listing/temper-trading-listing.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-pricing/temper-trading-pricing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/upstream-data/temper-upstream-data.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/quote/quote.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}

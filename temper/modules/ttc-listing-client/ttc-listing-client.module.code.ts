@@ -1,14 +1,14 @@
 import {
   parseValidListings,
   ttcListingResponseSchema,
-} from "akasha/temper/trading-pricing/modules/ttc-listing-schema/ttc-listing-schema.module.code.ts"
+} from "akasha/temper/economy/trading/pricing/modules/ttc-listing-schema/ttc-listing-schema.module.code.ts"
 import type {
   TTCListingClient,
   TTCListingClientOptions,
   TTCListingEntry,
   TTCListingPage,
   TTCListingSearchParams,
-} from "akasha/temper/trading-pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
+} from "akasha/temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
 
 function logUnexpectedTtcBody(response: Response, data: unknown): undefined {
   const contentType = response.headers.get("content-type") ?? "unknown"

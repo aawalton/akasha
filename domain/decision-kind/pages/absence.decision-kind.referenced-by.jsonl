@@ -1822,6 +1822,9 @@
 {"propertySlug":"decision-kind","path":"temper/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.ts","id":"01a060cf-b0b1-726e-9c87-8a0d3121e120"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/temper-shopping.domain.ts","id":"01a060cf-b0ae-749c-8084-93aa1e9a4247"}
+{"propertySlug":"decision-kind","path":"temper/economy/trading/listing/temper-trading-listing.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}
+{"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.ts","id":"01a0609b-e59d-774e-9760-26cd46ca0f8b"}
+{"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/temper-trading-pricing.domain.ts","id":"01a0609b-e59c-7c6b-906c-4ab055fc9039"}
 {"propertySlug":"decision-kind","path":"temper/errors-triage/modules/errors-collect/errors-collect.module.ts","id":"01a060cd-5650-7b6e-ab6c-41d8a589a7ce"}
 {"propertySlug":"decision-kind","path":"temper/errors-triage/modules/errors-liveness/errors-liveness.module.ts","id":"01a060cd-5651-794e-9cb4-d37959543fd2"}
 {"propertySlug":"decision-kind","path":"temper/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.ts","id":"01a060cd-564f-7386-bf3f-219a42b803ca"}
@@ -1923,9 +1926,6 @@
 {"propertySlug":"decision-kind","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.ts","id":"01a060ec-584d-78d8-941c-a8b43c987a6c"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
-{"propertySlug":"decision-kind","path":"temper/trading-listing/temper-trading-listing.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}
-{"propertySlug":"decision-kind","path":"temper/trading-pricing/modules/pricing-types/pricing-types.module.ts","id":"01a0609b-e59d-774e-9760-26cd46ca0f8b"}
-{"propertySlug":"decision-kind","path":"temper/trading-pricing/temper-trading-pricing.domain.ts","id":"01a0609b-e59c-7c6b-906c-4ab055fc9039"}
 {"propertySlug":"decision-kind","path":"temper/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
 {"propertySlug":"decision-kind","path":"temper/upstream-data/modules/leaf-dump/leaf-dump.module.ts","id":"01a06282-dfc3-7f7d-baf2-78aa71fd248e"}
 {"propertySlug":"decision-kind","path":"temper/upstream-data/modules/libsets-upstream-verify/libsets-upstream-verify.module.ts","id":"01a060d0-ca2a-7b19-860d-b24372089328"}

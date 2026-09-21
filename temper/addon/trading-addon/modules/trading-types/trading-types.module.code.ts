@@ -1,6 +1,5 @@
+import type { ListingEntry } from "akasha/temper/economy/trading/listing/modules/listing-types/listing-types.module.code.ts"
 import type { SavedSearchStore } from "akasha/temper/items-filters-core/modules/saved-search/saved-search.module.code.ts"
-
-import type { ListingEntry } from "akasha/temper/trading-listing/modules/listing-types/listing-types.module.code.ts"
 
 export interface GuildSnapshot {
   guildName: string

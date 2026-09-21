@@ -7,13 +7,13 @@ import type {
   ShoppingPlan,
   TaggedListing,
 } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
-import { kioskLocationName } from "akasha/temper/trading-pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
+import { kioskLocationName } from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
 import {
   TTC_AGO,
   type TTCListingClient,
   type TTCListingEntry,
   type TTCListingSearchParams,
-} from "akasha/temper/trading-pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
+} from "akasha/temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
 
 interface ShoppingOptimizerOptions {
   ago?: (typeof TTC_AGO)[keyof typeof TTC_AGO]

@@ -6,6 +6,7 @@ import "akasha/temper/eso-type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
+import type { BrowseListing } from "akasha/temper/economy/trading/listing/modules/browse-listings/browse-listings.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/items-core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
@@ -14,7 +15,6 @@ import {
   resolveStaticItemKey,
 } from "akasha/temper/items-rules-eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
-import type { BrowseListing } from "akasha/temper/trading-listing/modules/browse-listings/browse-listings.module.code.ts"
 
 function linkToInventoryItem(itemLink: string, stackCount: number): InventoryItemData {
   const [filterTypeBroad, filterTypeSpecific] = GetItemLinkFilterTypeInfo(itemLink)

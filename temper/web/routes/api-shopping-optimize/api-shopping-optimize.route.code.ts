@@ -1,7 +1,7 @@
 import { optimizeShopping } from "akasha/temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts"
 import type { ShoppingItem } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import { TTC_AGO } from "akasha/temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
 import { createTTCListingClient } from "akasha/temper/modules/ttc-listing-client/ttc-listing-client.module.code.ts"
-import { TTC_AGO } from "akasha/temper/trading-pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
 
 const ttcClient = createTTCListingClient()
 

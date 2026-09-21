@@ -19,6 +19,10 @@ import {
   putLastSold,
 } from "akasha/temper/addon/trading-addon/modules/trading-sell-price-store/trading-sell-price-store.module.code.ts"
 import {
+  getItemPriceKey,
+  suggestSellPrice,
+} from "akasha/temper/economy/trading/listing/modules/sell-pricing/sell-pricing.module.code.ts"
+import {
   COLOR_PRIMARY,
   COLOR_SECONDARY,
   CONTROL_HEIGHT,
@@ -30,10 +34,6 @@ import {
   createSellFlow,
   type SellFlow,
 } from "akasha/temper/modules/guild-store-poster/guild-store-poster.module.code.ts"
-import {
-  getItemPriceKey,
-  suggestSellPrice,
-} from "akasha/temper/trading-listing/modules/sell-pricing/sell-pricing.module.code.ts"
 
 const DIFFERENT_QUALITY_ITEMTYPES: Record<number, true> = {
   [ITEMTYPE_GLYPH_ARMOR]: true,

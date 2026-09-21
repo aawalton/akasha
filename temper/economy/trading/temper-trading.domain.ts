@@ -5,4 +5,5 @@ export const temperTrading = {
   type: "page-type/domain",
   slug: "temper-trading",
   definition: "the guild stores a player buys and sells through",
+  parts: ["domain/temper-trading-listing", "domain/temper-trading-pricing"],
 } as const satisfies Domain

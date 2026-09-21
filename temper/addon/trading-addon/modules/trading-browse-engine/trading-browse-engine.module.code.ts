@@ -9,6 +9,18 @@ import "akasha/temper/eso-type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
 import { readResultListing } from "akasha/temper/addon/trading-addon/modules/trading-listing-facts/trading-listing-facts.module.code.ts"
 import { applyCollectorToNativeSearch } from "akasha/temper/addon/trading-addon/modules/trading-search-request-native/trading-search-request-native.module.code.ts"
+import {
+  type BrowseListing,
+  mergeListings,
+  sortByUnitPriceDesc,
+} from "akasha/temper/economy/trading/listing/modules/browse-listings/browse-listings.module.code.ts"
+import {
+  type BrowseAction,
+  type BrowseEvent,
+  type BrowseState,
+  decideBrowseNext,
+  INITIAL_BROWSE_STATE,
+} from "akasha/temper/economy/trading/listing/modules/browse-state/browse-state.module.code.ts"
 import { buildFilterIndex } from "akasha/temper/items-filters-core/modules/search-filter-registry/search-filter-registry.module.code.ts"
 import {
   type ActiveFilterValues,
@@ -16,18 +28,6 @@ import {
 } from "akasha/temper/items-filters-core/modules/search-filter-set/search-filter-set.module.code.ts"
 import { createSearchRequestCollector } from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
-import {
-  type BrowseListing,
-  mergeListings,
-  sortByUnitPriceDesc,
-} from "akasha/temper/trading-listing/modules/browse-listings/browse-listings.module.code.ts"
-import {
-  type BrowseAction,
-  type BrowseEvent,
-  type BrowseState,
-  decideBrowseNext,
-  INITIAL_BROWSE_STATE,
-} from "akasha/temper/trading-listing/modules/browse-state/browse-state.module.code.ts"
 
 const TRADING_HOUSE_SORT_SALE_PRICE_PER_UNIT = 3
 const TRADING_HOUSE_RESULT_SEARCH_PENDING = 14

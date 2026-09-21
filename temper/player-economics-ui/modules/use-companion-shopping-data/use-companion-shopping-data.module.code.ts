@@ -8,6 +8,8 @@ import {
   getCompanionName,
 } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/companions-ui/modules/use-companions/use-companions.module.code.ts"
+import type { CompanionGearPriceResult } from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
+import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   type CompanionGearNeed,
@@ -33,8 +35,6 @@ import {
   resolvePricingRegion,
   resolvePricingRegionNote,
 } from "akasha/temper/player-inventory-management-ui/modules/pricing-region/pricing-region.module.code.ts"
-import type { CompanionGearPriceResult } from "akasha/temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
-import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 import { useMemo } from "react"
 
 interface ShoppingEntity {
