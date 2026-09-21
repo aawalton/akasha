@@ -8,7 +8,7 @@ import type { PendingSync } from "akasha/temper/player/progress/temper-task/prop
 import type { Progress } from "akasha/temper/player/progress/temper-task/properties/progress.temper-task-progress.types.ts"
 import type { ProgressCurrent } from "akasha/temper/player/progress/temper-task/properties/progress-current.number-property.types.ts"
 import type { ProgressTotal } from "akasha/temper/player/progress/temper-task/properties/progress-total.number-property.types.ts"
-import type { Scope } from "akasha/temper/player/progress/thing/properties/scope.text-property.types.ts"
+import type { Scope } from "akasha/temper/player/progress/thing/properties/scope.select-property.types.ts"
 import type { TemperProgressThing } from "akasha/temper/player/progress/thing/temper-progress-thing.page-type.types.ts"
 import type { AccountPage } from "akasha/temper/thing/properties/account-page.text-property.types.ts"
 

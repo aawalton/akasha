@@ -20,7 +20,7 @@ export const temperTask = {
   ],
   properties: [
     { pageProperty: "text-property/account-page", required: true, many: false },
-    { pageProperty: "text-property/scope", required: true, many: false },
+    { pageProperty: "select-property/scope", required: true, many: false },
     { pageProperty: "select-property/priority", required: true, many: false },
     { pageProperty: "calendar-time-property/due-time", required: false, many: false },
     { pageProperty: "text-property/effective-character", required: false, many: false },

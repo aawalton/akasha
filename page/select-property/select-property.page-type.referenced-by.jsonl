@@ -129,4 +129,5 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/temper-player/properties/platform.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/temper-player/properties/server.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/stock-scope.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/progress/thing/properties/scope.select-property.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

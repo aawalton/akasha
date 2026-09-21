@@ -6,7 +6,7 @@ import type { DueDate } from "akasha/temper/player/progress/thing/properties/due
 import type { NodeId } from "akasha/temper/player/progress/thing/properties/node-id.text-property.types.ts"
 import type { RruleAnchorFromCompletion } from "akasha/temper/player/progress/thing/properties/rrule-anchor-from-completion.boolean-property.types.ts"
 import type { RruleRule } from "akasha/temper/player/progress/thing/properties/rrule-rule.rrule-property.types.ts"
-import type { Scope } from "akasha/temper/player/progress/thing/properties/scope.text-property.types.ts"
+import type { Scope } from "akasha/temper/player/progress/thing/properties/scope.select-property.types.ts"
 import type { TemperThing } from "akasha/temper/thing/temper-thing.page-type.types.ts"
 
 export type TemperProgressThing = TemperThing & {

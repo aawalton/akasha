@@ -14,7 +14,7 @@ export const temperProgressThing = {
     "text-property/completion-item-path",
     "text-property/node-id",
     "rrule-property/rrule-rule",
-    "text-property/scope",
+    "select-property/scope",
   ],
   properties: [
     { pageProperty: "text-property/node-id", required: false, many: false },
@@ -26,7 +26,7 @@ export const temperProgressThing = {
       many: true,
       maxCount: null,
     },
-    { pageProperty: "text-property/scope", required: false, many: false },
+    { pageProperty: "select-property/scope", required: false, many: false },
     { pageProperty: "select-property/priority", required: false, many: false },
     { pageProperty: "calendar-date-property/due-date", required: false, many: false },
     { pageProperty: "rrule-property/rrule-rule", required: false, many: false },
