@@ -1,6 +1,6 @@
 {"code":"tsx"}
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"A dialog asks how many points alone, the request being the one pressed."},{"decisionKind":"decision-kind/departure","statement":"A dialog says what is held before any of it is committed."},{"decisionKind":"decision-kind/departure","statement":"A refusal the post answered is drawn in the dialog, which remains open."},{"decisionKind":"decision-kind/departure","statement":"Points that moved are read into the store at once rather than at the next poll."},{"decisionKind":"decision-kind/departure","statement":"Where the post goes is handed in, so this reaches no route of its own."}]}
-{"definition":"the dialog a contributor commits points to one feature request in"}
+{"definition":"the dialog a contributor boosts one feature request with points in"}
 {"id":"01a0c5fd-bf7b-75a9-9cc6-33e841e2381f"}
-{"slug":"feature-request-back-dialog"}
+{"slug":"feature-request-boost-dialog"}
 {"type":"page-type/module"}

@@ -22,7 +22,7 @@ import { useState } from "react"
 const ASK = "feature-request-ask"
 
 const OPENED =
-  "Your request is open, and the points are behind it. Alan publishes it or denies it himself, and a request he denies gives its backers their points back."
+  "Your request is open, and the points are behind it. Alan publishes it or denies it himself, and a request he denies gives its boosters their points back."
 
 function heldSays(balance: number | null): string {
   const costs = `Opening a request costs ${PROPOSAL_COST} points.`

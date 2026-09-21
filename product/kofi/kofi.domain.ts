@@ -5,7 +5,7 @@ export const kofi = {
   type: "page-type/domain",
   slug: "kofi",
   definition:
-    "the account Alan's products call for backing on, and what Ko-fi does with that backing",
+    "the account Alan's products call for support on, and what Ko-fi does with that support",
   parts: [
     "domain/contribution-point",
     "page-type/feature-request",

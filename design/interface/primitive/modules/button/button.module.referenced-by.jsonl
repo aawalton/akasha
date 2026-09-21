@@ -35,7 +35,7 @@
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.code.tsx"}
-{"propertySlug":"import","fileName":"button.module.code.tsx","path":"product/kofi/feature-request/modules/back-dialog/feature-request-back-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"button.module.code.tsx","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/alert-controls/alert-controls.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/status-drawer/status-drawer.module.code.tsx"}

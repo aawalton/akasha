@@ -26,7 +26,7 @@ export const alanWebRequests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One form opens a request, and one form by each request backs that request.",
+      statement: "One form opens a request, and one form by each request boosts that request.",
     },
     {
       decisionKind: "decision-kind/departure",

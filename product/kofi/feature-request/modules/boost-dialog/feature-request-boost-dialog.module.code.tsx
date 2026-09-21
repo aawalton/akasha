@@ -19,22 +19,22 @@ import { useState } from "react"
 
 const POINTS = "feature-request-points"
 
-const BACKED =
+const BOOSTED =
   "Your points are behind this request. They stay there until Alan builds it or denies it."
 
-export type Backing = { readonly slug: string; readonly ask: string }
+export type Boosting = { readonly slug: string; readonly ask: string }
 
 function heldSays(balance: number | null): string {
   return balance === null ? "" : `You hold ${balance} points.`
 }
 
-export function BackDialog({
-  backing,
+export function BoostDialog({
+  boosting,
   onOpenChange,
   postTo,
   balance,
 }: {
-  readonly backing: Backing | null
+  readonly boosting: Boosting | null
   readonly onOpenChange: (open: boolean) => void
   readonly postTo: string
   readonly balance: number | null
@@ -42,23 +42,23 @@ export function BackDialog({
   const [said, setSaid] = useState("")
   const [working, setWorking] = useState(false)
   const [refused, setRefused] = useState<string | null>(null)
-  const [backed, setBacked] = useState(false)
+  const [boosted, setBoosted] = useState(false)
 
   const close = () => {
     onOpenChange(false)
     setSaid("")
     setWorking(false)
     setRefused(null)
-    setBacked(false)
+    setBoosted(false)
   }
 
   const send = async () => {
-    if (backing === null) return
+    if (boosting === null) return
     setWorking(true)
     setRefused(null)
     const landed = await postedTo(postTo, {
-      act: "back",
-      request: backing.slug,
+      act: "boost",
+      request: boosting.slug,
       points: said,
     })
     setWorking(false)
@@ -66,13 +66,13 @@ export function BackDialog({
       setRefused(landed.refused)
       return
     }
-    setBacked(true)
+    setBoosted(true)
     void readPagesAgain(featureRequest.slug)
   }
 
   return (
     <Dialog
-      open={backing !== null}
+      open={boosting !== null}
       onOpenChange={(next) => {
         if (next) onOpenChange(true)
         else close()
@@ -80,14 +80,14 @@ export function BackDialog({
     >
       <DialogContent showCloseButton>
         <DialogHeader>
-          <DialogTitle>Back this request</DialogTitle>
+          <DialogTitle>Boost this request</DialogTitle>
         </DialogHeader>
         <DialogBody>
-          {backed ? (
-            <p className="text-secondary text-sm">{BACKED}</p>
+          {boosted ? (
+            <p className="text-secondary text-sm">{BOOSTED}</p>
           ) : (
             <div className="flex flex-col gap-2">
-              <p className="text-secondary text-sm">{backing?.ask ?? ""}</p>
+              <p className="text-secondary text-sm">{boosting?.ask ?? ""}</p>
               <Label htmlFor={POINTS}>How many points?</Label>
               <Input
                 id={POINTS}
@@ -107,7 +107,7 @@ export function BackDialog({
           )}
         </DialogBody>
         <DialogFooter>
-          {backed ? (
+          {boosted ? (
             <Button variant="accent" onClick={close}>
               Done
             </Button>
@@ -126,10 +126,10 @@ export function BackDialog({
                 {working ? (
                   <>
                     <Spinner />
-                    Committing...
+                    Boosting...
                   </>
                 ) : (
-                  "Commit the points"
+                  "Boost it"
                 )}
               </Button>
             </>

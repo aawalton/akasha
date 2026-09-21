@@ -1,7 +1,7 @@
-{"definition":"the contributor who committed points to a feature request"}
+{"definition":"the contributor who boosted a feature request with points"}
 {"id":"01a0c4a7-faa9-7995-89f0-7109095bf2f5"}
 {"propertySlug":"contributor"}
-{"slug":"feature-request-backer"}
+{"slug":"feature-request-booster"}
 {"targetPageType":"page-type/contributor"}
 {"type":"page-type/relation-property"}
 {"types":"ts"}

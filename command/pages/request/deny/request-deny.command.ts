@@ -4,7 +4,7 @@ export const requestDeny = {
   id: "01a0c4f6-195d-7865-b1b0-9b857ebc4b64",
   type: "page-type/command",
   slug: "request-deny",
-  definition: "the command denying a published feature request and giving its backing back",
+  definition: "the command denying a published feature request and giving its boosts back",
   code: "ts",
   test: "ts",
   decisions: [
@@ -48,7 +48,7 @@ export const requestDeny = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A backing naming a contributor that is no page refuses the whole denial.",
+      statement: "A boost naming a contributor that is no page refuses the whole denial.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,7 +56,7 @@ export const requestDeny = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request nothing backs is denied all the same.",
+      statement: "A request nothing boosts is denied all the same.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,7 +80,7 @@ export const requestDeny = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "The backing a denied request names is left where it is, as what was committed.",
+      statement: "The boosts a denied request names are left where they are, as what was spent.",
     },
     {
       decisionKind: "decision-kind/absence",

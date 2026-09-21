@@ -22,7 +22,7 @@ test("a body that is no object says nothing at any key", () => {
 
 test("a key holding anything but text says nothing", () => {
   expect(saidIn({ act: 7 }, "act")).toBe("")
-  expect(saidIn({ act: "back" }, "act")).toBe("back")
+  expect(saidIn({ act: "boost" }, "act")).toBe("boost")
 })
 
 test("points said as a number come back as that number", () => {
@@ -55,8 +55,8 @@ test("a body saying no act at all is refused the same way", async () => {
   expect(await landedFor({}, SOMEBODY)).toEqual({ refused: NOTHING_TO_DO })
 })
 
-test("backing with no number of points is refused before anything is read", async () => {
-  expect(await landedFor({ act: "back", request: "dark-mode" }, SOMEBODY)).toEqual({
+test("boosting with no number of points is refused before anything is read", async () => {
+  expect(await landedFor({ act: "boost", request: "dark-mode" }, SOMEBODY)).toEqual({
     refused: NO_POINTS,
   })
 })

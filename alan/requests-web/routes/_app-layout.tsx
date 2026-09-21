@@ -10,12 +10,12 @@ import { CreateOverrideProvider } from "akasha/page/ui/component/modules/create-
 import { registerActionVerb } from "akasha/page/ui/modules/action-verb-registry/action-verb-registry.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import {
-  BackDialog,
-  type Backing,
-} from "akasha/product/kofi/feature-request/modules/back-dialog/feature-request-back-dialog.module.code.tsx"
+  BoostDialog,
+  type Boosting,
+} from "akasha/product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx"
 import { ProposeDialog } from "akasha/product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"
 import { balanceHeldBy } from "akasha/product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"
-import { featureRequestBack } from "akasha/product/kofi/feature-request/properties/feature-request-back.action-button-property.ts"
+import { featureRequestBoost } from "akasha/product/kofi/feature-request/properties/feature-request-boost.action-button-property.ts"
 import { useEffect, useMemo, useState } from "react"
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
@@ -24,7 +24,7 @@ const FEATURE_REQUEST = "feature-request"
 
 const PROPOSE_PATH = "/api/request-propose"
 
-function backingIn(held: Record<string, unknown>): Backing {
+function boostingIn(held: Record<string, unknown>): Boosting {
   const slug = held.slug
   const ask = held.ask
   return {
@@ -58,12 +58,12 @@ export async function loader({ request }: Route.LoaderArgs) {
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
   const [proposing, setProposing] = useState(false)
-  const [backing, setBacking] = useState<Backing | null>(null)
+  const [boosting, setBoosting] = useState<Boosting | null>(null)
   const overrides = useMemo(() => ({ [FEATURE_REQUEST]: () => setProposing(true) }), [])
 
   useEffect(() => {
-    registerActionVerb(featureRequestBack.verbId, (ctx) => {
-      setBacking(backingIn(ctx.data))
+    registerActionVerb(featureRequestBoost.verbId, (ctx) => {
+      setBoosting(boostingIn(ctx.data))
     })
   }, [])
 
@@ -82,10 +82,10 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
         postTo={PROPOSE_PATH}
         balance={loaderData.balance}
       />
-      <BackDialog
-        backing={backing}
+      <BoostDialog
+        boosting={boosting}
         onOpenChange={(open) => {
-          if (!open) setBacking(null)
+          if (!open) setBoosting(null)
         }}
         postTo={PROPOSE_PATH}
         balance={loaderData.balance}

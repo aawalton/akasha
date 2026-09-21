@@ -6,7 +6,7 @@ import { throwingAfter } from "akasha/command/modules/answering/command-answerin
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   askingFrom,
-  backingIn,
+  boostsIn,
   deniedBy,
   type Giving,
   messageFor,
@@ -85,7 +85,7 @@ test("a request naming no proposer is refused", () => {
   expect(noProposer("dark-mode")).toContain("names no proposer")
 })
 
-test("a backing naming no contributor page is refused in words naming it", () => {
+test("a boost naming no contributor page is refused in words naming it", () => {
   expect(noContributor(ONE)).toContain("is no contributor page")
 })
 
@@ -93,23 +93,23 @@ test("a contributor stating no balance is refused in words naming it", () => {
   expect(noBalance(ONE)).toContain("states no balance")
 })
 
-test("backing is read off the page as a contributor and the points that contributor committed", () => {
+test("a boost is read off the page as a contributor and the points that contributor spent", () => {
   const value = {
-    backing: [
+    boosts: [
       { contributor: "contributor/contributor-one", points: 300 },
       { contributor: "contributor/contributor-two", points: 40 },
     ],
   }
 
-  expect(backingIn(value)).toEqual([
+  expect(boostsIn(value)).toEqual([
     { contributor: "contributor-one", points: 300 },
     { contributor: "contributor-two", points: 40 },
   ])
 })
 
-test("a backing row that is no record, or names no points, is passed over", () => {
+test("a boost row that is no record, or names no points, is passed over", () => {
   const value = {
-    backing: [
+    boosts: [
       "not a record",
       { contributor: "contributor/contributor-one" },
       { points: 40 },
@@ -117,12 +117,12 @@ test("a backing row that is no record, or names no points, is passed over", () =
     ],
   }
 
-  expect(backingIn(value)).toEqual([{ contributor: "contributor-two", points: 40 }])
+  expect(boostsIn(value)).toEqual([{ contributor: "contributor-two", points: 40 }])
 })
 
-test("a page carrying no backing is read as nothing backing it", () => {
-  expect(backingIn({})).toEqual([])
-  expect(backingIn(null)).toEqual([])
+test("a page carrying no boost is read as nothing boosting it", () => {
+  expect(boostsIn({})).toEqual([])
+  expect(boostsIn(null)).toEqual([])
 })
 
 test("the proposer is read off the page as a bare slug", () => {
@@ -155,13 +155,13 @@ test("a request nothing is owed back on is restated and nothing else", () => {
 })
 
 test("the commit says which request was denied", () => {
-  expect(messageFor(ASKED)).toBe("deny the feature request dark-mode and put its backing back")
+  expect(messageFor(ASKED)).toBe("deny the feature request dark-mode and put its boosts back")
 })
 
 test("a run says what became of the request, what went back, and the commit", () => {
   expect(saidFor(ASKED, [giving(40)], "abc123")).toEqual([
     "dark-mode is denied",
-    "40 points went back, over 1 backings",
+    "40 points went back, over 1 boosts",
     "abc123",
   ])
 })

@@ -10,16 +10,16 @@ export type RequestsForArgs = {
   readonly standings: readonly string[]
 }
 
-function pointsIn(backing: unknown): number {
-  if (backing === null || typeof backing !== "object" || Array.isArray(backing)) return 0
-  const points = (backing as Readonly<Record<string, unknown>>).points
+function pointsIn(boost: unknown): number {
+  if (boost === null || typeof boost !== "object" || Array.isArray(boost)) return 0
+  const points = (boost as Readonly<Record<string, unknown>>).points
   return typeof points === "number" && Number.isFinite(points) ? points : 0
 }
 
 export function pointsOn(request: Page): number {
-  const backing = request.backing
-  if (!Array.isArray(backing)) return 0
-  return backing.reduce((sum: number, one: unknown) => sum + pointsIn(one), 0)
+  const boosts = request.boosts
+  if (!Array.isArray(boosts)) return 0
+  return boosts.reduce((sum: number, one: unknown) => sum + pointsIn(one), 0)
 }
 
 function newestFirst(one: Page, other: Page): number {

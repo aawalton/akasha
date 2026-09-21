@@ -36,8 +36,8 @@ export default function TemperRequestsRoute({ loaderData }: { loaderData: Reques
                 <h2 className="font-semibold text-base text-primary">{one.title}</h2>
                 <p className="text-secondary text-sm">{one.ask}</p>
                 <p className="text-secondary text-sm">
-                  {one.points} {one.points === 1 ? "point" : "points"} from {one.backers}{" "}
-                  {one.backers === 1 ? "backer" : "backers"}
+                  {one.points} {one.points === 1 ? "point" : "points"} from {one.boosters}{" "}
+                  {one.boosters === 1 ? "booster" : "boosters"}
                 </p>
               </li>
             ))}

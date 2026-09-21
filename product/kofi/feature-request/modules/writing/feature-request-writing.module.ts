@@ -4,7 +4,7 @@ export const featureRequestWriting = {
   id: "01a0c506-47e8-7344-b421-891510dff6c4",
   type: "page-type/module",
   slug: "feature-request-writing",
-  definition: "what lands when a contributor opens a feature request or backs one",
+  definition: "what lands when a contributor opens a feature request or boosts one",
   code: "ts",
   decisions: [
     {
@@ -25,7 +25,7 @@ export const featureRequestWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request opens `proposed`, backed by the points its proposer paid.",
+      statement: "A request opens `proposed`, boosted by the points its proposer paid.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -41,7 +41,7 @@ export const featureRequestWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request of another product takes no backing here.",
+      statement: "A request of another product takes no boost here.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -10,11 +10,11 @@ export const featureRequestServing = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The points a feature request has are its backings added up.",
+      statement: "The points a feature request has are its boosts added up.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A feature request no one has backed has no points rather than none at all.",
+      statement: "A feature request no one has boosted has no points rather than none at all.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -4,7 +4,7 @@ export const featureRequestAsking = {
   id: "01a0c537-684d-7fd0-99ad-d5b2ebf5cef4",
   type: "page-type/module",
   slug: "feature-request-asking",
-  definition: "the answer a site gives a post opening a feature request or backing one",
+  definition: "the answer a site gives a post opening a feature request or boosting one",
   code: "ts",
   test: "ts",
   decisions: [

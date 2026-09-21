@@ -6,7 +6,7 @@ export const test4 = {
   slug: "test-4",
   ask: "Test 4",
   product: "domain/alan",
-  backing: [
+  boosts: [
     {
       contributor:
         "contributor/contributor-9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4",

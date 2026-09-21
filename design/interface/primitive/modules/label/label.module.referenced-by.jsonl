@@ -8,6 +8,6 @@
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}
-{"propertySlug":"import","fileName":"label.module.code.tsx","path":"product/kofi/feature-request/modules/back-dialog/feature-request-back-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"label.module.code.tsx","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"label.module.code.tsx","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

@@ -4,5 +4,5 @@
 {"propertySlug":"target-page-type","path":"infrastructure/auth/sign-in/properties/sign-in-contributor.relation-property.ts","id":"01a0baea-5af8-7b34-9d41-c76e47d9c2e8"}
 {"propertySlug":"target-page-type","path":"person/device-secret/properties/device-secret-contributor.relation-property.ts","id":"01a0bb8b-035d-7000-b57a-e7b33e0f3722"}
 {"propertySlug":"target-page-type","path":"person/properties/person-contributor.relation-property.ts","id":"01a0bb36-56fc-7f8a-9518-9365e9db5dac"}
-{"propertySlug":"target-page-type","path":"product/kofi/feature-request/properties/feature-request-backer.relation-property.ts","id":"01a0c4a7-faa9-7995-89f0-7109095bf2f5"}
+{"propertySlug":"target-page-type","path":"product/kofi/feature-request/properties/feature-request-booster.relation-property.ts","id":"01a0c4a7-faa9-7995-89f0-7109095bf2f5"}
 {"propertySlug":"target-page-type","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.ts","id":"01a0c4f6-195d-79ef-8c03-3aa9a4c2c2a3"}

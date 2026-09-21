@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"page/ui/component/modules/create-page-dialog/create-page-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"}
-{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"product/kofi/feature-request/modules/back-dialog/feature-request-back-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/companion-rotation-skill-column-header/companion-rotation-skill-column-header.module.code.tsx"}

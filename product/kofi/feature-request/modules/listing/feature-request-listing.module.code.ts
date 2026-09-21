@@ -12,7 +12,7 @@ export type ListedRequest = {
   readonly title: string
   readonly ask: string
   readonly points: number
-  readonly backers: number
+  readonly boosters: number
 }
 
 export type Listing = {
@@ -26,7 +26,7 @@ function listed(request: Page): ListedRequest {
     title: request.title ?? request.slug ?? request.id,
     ask: typeof request.ask === "string" ? request.ask : "",
     points: pointsOn(request),
-    backers: Array.isArray(request.backing) ? request.backing.length : 0,
+    boosters: Array.isArray(request.boosts) ? request.boosts.length : 0,
   }
 }
 

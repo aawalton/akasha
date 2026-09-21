@@ -1,17 +1,17 @@
 import type { ActionButtonProperty } from "akasha/page/action-button-property/action-button-property.page-type.types.ts"
 
-export const featureRequestBack = {
+export const featureRequestBoost = {
   id: "01a0c5fd-2524-741a-b098-6e4f917c4189",
   type: "page-type/action-button-property",
-  slug: "feature-request-back",
-  propertySlug: "back",
+  slug: "feature-request-boost",
+  propertySlug: "boost",
   definition: "the button a contributor commits contribution points to a request with",
-  verbId: "feature-request-back",
+  verbId: "feature-request-boost",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A request takes backing from the list it is read in rather than a page of its own.",
+        "A request takes a boost from the list it is read in rather than a page of its own.",
     },
     {
       decisionKind: "decision-kind/departure",

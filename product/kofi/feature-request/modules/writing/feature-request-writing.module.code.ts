@@ -11,8 +11,8 @@ import {
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { balanceOf } from "akasha/product/kofi/contribution-point/modules/balance/contribution-point-balance.module.code.ts"
 import {
-  type Backing,
-  committing,
+  type Boost,
+  boosting,
   proposing,
 } from "akasha/product/kofi/contribution-point/modules/spending/contribution-point-spending.module.code.ts"
 import { requestSlugFor } from "akasha/product/kofi/feature-request/modules/naming/feature-request-naming.module.code.ts"
@@ -28,7 +28,7 @@ const WRITER = "alanwalton web <web@alanwalton.com>"
 
 const CONTRIBUTOR_KEYS: readonly string[] = ["slug", "transactions"]
 
-const REQUEST_KEYS: readonly string[] = ["slug", "standing", "backing"]
+const REQUEST_KEYS: readonly string[] = ["slug", "standing", "boosts"]
 
 const SLUG_KEYS: readonly string[] = ["slug"]
 
@@ -65,15 +65,15 @@ function movedOnto(contributor: string, transactions: readonly Value[]): Naming 
   }
 }
 
-function backingIn(held: unknown): readonly Backing[] {
-  const back: Backing[] = []
+function boostsIn(held: unknown): readonly Boost[] {
+  const kept: Boost[] = []
   for (const one of recordsIn(held)) {
     const contributor = textIn(one.contributor)
     const points = one.points
     if (contributor === null || typeof points !== "number") continue
-    back.push({ contributor, points })
+    kept.push({ contributor, points })
   }
-  return back
+  return kept
 }
 
 async function namesTaken(): Promise<
@@ -104,9 +104,9 @@ export async function proposedBy(given: Proposal): Promise<Landed> {
   }
   const held = await heldBy(given.contributor)
   if ("refused" in held) return held
-  const backer = contributorNamedAs(given.contributor)
+  const booster = contributorNamedAs(given.contributor)
   const moving = proposing({
-    contributor: backer,
+    contributor: booster,
     balance: held.balance,
     at: new Date().toISOString(),
   })
@@ -126,9 +126,9 @@ export async function proposedBy(given: Proposal): Promise<Landed> {
           title: ask,
           ask,
           product: given.product,
-          proposer: backer,
+          proposer: booster,
           standing: PROPOSED,
-          backing: moving.moved.backing,
+          boosts: moving.moved.boosts,
         },
       },
       movedOnto(given.contributor, [...held.transactions, moving.moved.transaction]),
@@ -138,14 +138,14 @@ export async function proposedBy(given: Proposal): Promise<Landed> {
   return { slug }
 }
 
-export type Commitment = {
+export type Boosting = {
   readonly product: string
   readonly contributor: string
   readonly request: string
   readonly points: number
 }
 
-export async function backedBy(given: Commitment): Promise<Landed> {
+export async function boostedBy(given: Boosting): Promise<Landed> {
   const asked = await askingFor({
     pageTypeSlug: FEATURE_REQUEST,
     where: { slug: { is: given.request }, product: { is: given.product } },
@@ -158,10 +158,10 @@ export async function backedBy(given: Commitment): Promise<Landed> {
   }
   const held = await heldBy(given.contributor)
   if ("refused" in held) return held
-  const moving = committing({
+  const moving = boosting({
     contributor: contributorNamedAs(given.contributor),
     balance: held.balance,
-    backing: backingIn(row.backing),
+    boosts: boostsIn(row.boosts),
     points: given.points,
     standing: textIn(row.standing) ?? "",
     at: new Date().toISOString(),
@@ -175,7 +175,7 @@ export async function backedBy(given: Commitment): Promise<Landed> {
         pageTypeSlug: FEATURE_REQUEST,
         slug: given.request,
         merge: true,
-        values: { backing: moving.moved.backing },
+        values: { boosts: moving.moved.boosts },
       },
       movedOnto(given.contributor, [...held.transactions, moving.moved.transaction]),
     ],

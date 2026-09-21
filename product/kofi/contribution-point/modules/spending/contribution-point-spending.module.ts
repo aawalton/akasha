@@ -5,7 +5,7 @@ export const contributionPointSpending = {
   type: "page-type/module",
   slug: "contribution-point-spending",
   definition:
-    "what moves when a contributor opens a feature request or backs one, and when one settles",
+    "what moves when a contributor opens a feature request or boosts one, and when one settles",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,11 +23,11 @@ export const contributionPointSpending = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Opening a request costs a hundred points, which back the request it opened.",
+      statement: "Opening a request costs a hundred points, which boost the request it opened.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A denial gives back every backing but the hundred the proposer paid to open it.",
+      statement: "A denial gives back every boost but the hundred the proposer paid to open it.",
     },
     {
       decisionKind: "decision-kind/absence",

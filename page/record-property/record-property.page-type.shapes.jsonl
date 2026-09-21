@@ -23,7 +23,7 @@
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"entity-titles","propertySlug":"titles","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"entity-traits","propertySlug":"traits","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"external-identity","propertySlug":"external-identity","fileName":null,"folderName":null}
-{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"feature-request-backing","propertySlug":"backing","fileName":null,"folderName":null}
+{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"feature-request-boosts","propertySlug":"boosts","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"follows","propertySlug":"follows","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"frame-auto-scroll","propertySlug":"auto-scroll","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"generated","propertySlug":"generated","fileName":null,"folderName":null}

@@ -9,8 +9,8 @@ import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts
 import { PROPOSAL_COST } from "akasha/product/kofi/contribution-point/modules/spending/contribution-point-spending.module.code.ts"
 import { listingFor } from "akasha/product/kofi/feature-request/modules/listing/feature-request-listing.module.code.ts"
 import {
-  backedBy,
   balanceHeldBy,
+  boostedBy,
   proposedBy,
 } from "akasha/product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"
 import { featureRequestAsk } from "akasha/product/kofi/feature-request/properties/feature-request-ask.text-property.ts"
@@ -22,7 +22,7 @@ const ACT = "act"
 
 const PROPOSE = "propose"
 
-const BACK = "back"
+const BOOST = "boost"
 
 const ASK = "ask"
 
@@ -30,7 +30,7 @@ const REQUEST = "request"
 
 const POINTS = "points"
 
-const SIGNED_OUT = "sign in to open a request or to back one"
+const SIGNED_OUT = "sign in to open a request or to boost one"
 
 const NOTHING_TO_DO = "this form says nothing to do"
 
@@ -79,8 +79,8 @@ export async function action({ request }: { request: Request }): Promise<Answere
     if ("refused" in landed) return { act, request: named, refused: landed.refused, opened: null }
     return { act, request: named, refused: null, opened: landed.slug }
   }
-  if (act === BACK) {
-    const landed = await backedBy({
+  if (act === BOOST) {
+    const landed = await boostedBy({
       product: PRODUCT,
       contributor,
       request: named,
@@ -105,7 +105,7 @@ function Refused({ said }: { said: string | null }) {
 
 function refusedOver(answered: Answered | undefined, act: string, named: string): string | null {
   if (answered === undefined || answered.act !== act) return null
-  if (act === BACK && answered.request !== named) return null
+  if (act === BOOST && answered.request !== named) return null
   return answered.refused
 }
 
@@ -162,12 +162,12 @@ export default function AlanWebRequestsRoute({
                 <h2 className="font-semibold text-base text-primary">{one.title}</h2>
                 <p className="text-secondary text-sm">{one.ask}</p>
                 <p className="text-secondary text-sm">
-                  {one.points} {one.points === 1 ? "point" : "points"} behind it, from {one.backers}{" "}
-                  {one.backers === 1 ? "backer" : "backers"}
+                  {one.points} {one.points === 1 ? "point" : "points"} behind it, from{" "}
+                  {one.boosters} {one.boosters === 1 ? "booster" : "boosters"}
                 </p>
                 {signedIn ? (
                   <Form method="post" className="flex items-center gap-2">
-                    <input type="hidden" name={ACT} value={BACK} />
+                    <input type="hidden" name={ACT} value={BOOST} />
                     <input type="hidden" name={REQUEST} value={one.slug} />
                     <Label className="sr-only" htmlFor={`${POINTS}-${one.slug}`}>
                       Points
@@ -180,10 +180,10 @@ export default function AlanWebRequestsRoute({
                       min={1}
                       step={1}
                     />
-                    <Button type="submit">Back it</Button>
+                    <Button type="submit">Boost it</Button>
                   </Form>
                 ) : null}
-                <Refused said={refusedOver(actionData, BACK, one.slug)} />
+                <Refused said={refusedOver(actionData, BOOST, one.slug)} />
               </li>
             ))}
           </ul>

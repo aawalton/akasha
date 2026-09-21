@@ -35,7 +35,7 @@ import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
-  type Backing,
+  type Boost,
   refunding,
 } from "akasha/product/kofi/contribution-point/modules/spending/contribution-point-spending.module.code.ts"
 
@@ -57,7 +57,7 @@ const TRANSACTIONS = "transactions"
 
 const JSONL = "jsonl"
 
-const BACKING = "backing"
+const BOOSTS = "boosts"
 
 const PROPOSER = "proposer"
 
@@ -80,7 +80,7 @@ export function noProposer(slug: string): string {
 }
 
 export function noContributor(named: string): string {
-  return `\`${named}\` backs this request and is no contributor page, so nothing went back`
+  return `\`${named}\` boosts this request and is no contributor page, so nothing went back`
 }
 
 export function noBalance(named: string): string {
@@ -92,10 +92,10 @@ function namedIn(held: unknown): string | null {
   return said === null ? null : (slugIn(said) ?? said)
 }
 
-export function backingIn(value: Value | null): readonly Backing[] {
-  const held = value === null ? null : value[BACKING]
+export function boostsIn(value: Value | null): readonly Boost[] {
+  const held = value === null ? null : value[BOOSTS]
   if (!Array.isArray(held)) return []
-  const found: Backing[] = []
+  const found: Boost[] = []
   for (const one of held) {
     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
     const row = one as Record<string, unknown>
@@ -122,11 +122,11 @@ export type Giving = {
 
 export function givingFor(
   root: string,
-  back: readonly Backing[],
+  boosts: readonly Boost[],
   at: string
 ): readonly Giving[] | string {
   const found: Giving[] = []
-  for (const one of back) {
+  for (const one of boosts) {
     const listed = listedAt(root, CONTRIBUTOR, one.contributor)[0]
     if (listed === undefined) return noContributor(one.contributor)
     const beside = besideAt(listed.path, TRANSACTIONS, JSONL)
@@ -160,7 +160,7 @@ export function askingFrom(at: string, giving: readonly Giving[]): readonly Aski
 }
 
 export function messageFor(asked: Asked): string {
-  return `deny the feature request ${asked.slug} and put its backing back`
+  return `deny the feature request ${asked.slug} and put its boosts back`
 }
 
 export function saidFor(
@@ -173,7 +173,7 @@ export function saidFor(
   const gave =
     giving.length === 0
       ? "nothing was owed back, so no points moved"
-      : `${points} points went back, over ${giving.length} backings`
+      : `${points} points went back, over ${giving.length} boosts`
   return commit === null ? [now, gave] : [now, gave, commit]
 }
 
@@ -205,7 +205,7 @@ async function denied(done: string[], asked: Asked, given: Given): Promise<Answe
   const value = valueByPath(root, reached.at)
   const proposer = proposerIn(value)
   if (proposer === null) return mistaking([noProposer(asked.slug)])
-  const giving = givingFor(root, refunding(backingIn(value), proposer), new Date().toISOString())
+  const giving = givingFor(root, refunding(boostsIn(value), proposer), new Date().toISOString())
   if (typeof giving === "string") return mistaking([giving])
   return await stated(done, root, reached.at, asked, giving, given)
 }

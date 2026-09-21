@@ -10,7 +10,7 @@ export const featureRequestProposer = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "What a proposer paid to open a request backs that request as any backing does.",
+      statement: "What a proposer paid to open a request boosts it as any other boost does.",
     },
     {
       decisionKind: "decision-kind/absence",

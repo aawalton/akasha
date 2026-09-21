@@ -1,3 +1,3 @@
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 
-export type FeatureRequestBacker = Slug
+export type FeatureRequestBooster = Slug

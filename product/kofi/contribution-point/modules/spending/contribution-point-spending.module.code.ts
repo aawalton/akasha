@@ -2,7 +2,7 @@ export const PROPOSAL_COST = 100
 
 const PUBLISHED = "published"
 
-export type Backing = {
+export type Boost = {
   readonly contributor: string
   readonly points: number
 }
@@ -13,7 +13,7 @@ export type Transaction = {
 }
 
 export type Moved = {
-  readonly backing: readonly Backing[]
+  readonly boosts: readonly Boost[]
   readonly transaction: Transaction
   readonly balance: number
 }
@@ -24,21 +24,21 @@ function wholeAbove(points: number): boolean {
   return Number.isSafeInteger(points) && points > 0
 }
 
-function backedWith(
-  backing: readonly Backing[],
+function boostedWith(
+  boosts: readonly Boost[],
   contributor: string,
   points: number
-): readonly Backing[] {
-  const rest = backing.filter((one) => one.contributor !== contributor)
-  const was = backing.find((one) => one.contributor === contributor)
+): readonly Boost[] {
+  const rest = boosts.filter((one) => one.contributor !== contributor)
+  const was = boosts.find((one) => one.contributor === contributor)
   const now = { contributor, points: (was?.points ?? 0) + points }
   return [...rest, now].sort((one, other) => other.points - one.points)
 }
 
-export function committing(given: {
+export function boosting(given: {
   readonly contributor: string
   readonly balance: number
-  readonly backing: readonly Backing[]
+  readonly boosts: readonly Boost[]
   readonly points: number
   readonly standing: string
   readonly at: string
@@ -47,14 +47,14 @@ export function committing(given: {
     return { refused: "the points committed are a whole number above nothing" }
   }
   if (given.standing !== PUBLISHED) {
-    return { refused: `a request Alan has left \`${given.standing}\` takes no backing` }
+    return { refused: `a request Alan has left \`${given.standing}\` takes no boost` }
   }
   if (given.points > given.balance) {
     return { refused: `${given.points} points are more than the ${given.balance} held` }
   }
   return {
     moved: {
-      backing: backedWith(given.backing, given.contributor, given.points),
+      boosts: boostedWith(given.boosts, given.contributor, given.points),
       transaction: { at: given.at, points: -given.points },
       balance: given.balance - given.points,
     },
@@ -73,18 +73,18 @@ export function proposing(given: {
   }
   return {
     moved: {
-      backing: [{ contributor: given.contributor, points: PROPOSAL_COST }],
+      boosts: [{ contributor: given.contributor, points: PROPOSAL_COST }],
       transaction: { at: given.at, points: -PROPOSAL_COST },
       balance: given.balance - PROPOSAL_COST,
     },
   }
 }
 
-export function refunding(backing: readonly Backing[], proposer: string): readonly Backing[] {
-  const back: Backing[] = []
-  for (const one of backing) {
+export function refunding(boosts: readonly Boost[], proposer: string): readonly Boost[] {
+  const kept: Boost[] = []
+  for (const one of boosts) {
     const points = one.contributor === proposer ? one.points - PROPOSAL_COST : one.points
-    if (points > 0) back.push({ contributor: one.contributor, points })
+    if (points > 0) kept.push({ contributor: one.contributor, points })
   }
-  return back
+  return kept
 }

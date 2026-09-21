@@ -148,7 +148,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/properties/wallpaper-images.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/review-session/properties/session-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"persona/wallpaper-notification/properties/notification-persona.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-backer.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-booster.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/entity/properties/bond-attribute.relation-property.ts"}

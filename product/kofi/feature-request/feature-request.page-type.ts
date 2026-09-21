@@ -19,7 +19,7 @@ export const featureRequest = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Past launch, a feature of the request system is itself a feature request contributors back.",
+        "Past launch, a feature of the request system is itself a feature request contributors boost.",
     },
   ],
   types: "ts",
@@ -27,8 +27,8 @@ export const featureRequest = {
   parts: [
     "text-property/feature-request-ask",
     "relation-property/feature-request-product",
-    "relation-property/feature-request-backer",
-    "record-property/feature-request-backing",
+    "relation-property/feature-request-booster",
+    "record-property/feature-request-boosts",
     "select-property/feature-request-standing",
     "module/feature-request-listing",
     "module/feature-request-serving",
@@ -37,15 +37,15 @@ export const featureRequest = {
     "relation-property/feature-request-proposer",
     "module/feature-request-asking",
     "module/feature-request-propose-dialog",
-    "module/feature-request-back-dialog",
+    "module/feature-request-boost-dialog",
     "module/feature-request-posting",
-    "action-button-property/feature-request-back",
+    "action-button-property/feature-request-boost",
   ],
   properties: [
     { pageProperty: "text-property/feature-request-ask", required: true, many: false },
     { pageProperty: "relation-property/feature-request-product", required: true, many: false },
     {
-      pageProperty: "record-property/feature-request-backing",
+      pageProperty: "record-property/feature-request-boosts",
       required: false,
       many: true,
       maxCount: null,
@@ -58,7 +58,7 @@ export const featureRequest = {
     },
     { pageProperty: "relation-property/feature-request-proposer", required: true, many: false },
     {
-      pageProperty: "action-button-property/feature-request-back",
+      pageProperty: "action-button-property/feature-request-boost",
       required: false,
       many: false,
     },

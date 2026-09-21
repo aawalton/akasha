@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A request takes a boost from the list it is read in rather than a page of its own."},{"decisionKind":"decision-kind/departure","statement":"What the button opens is the site's, so a site opening nothing draws it dead."}]}
+{"definition":"the button a contributor commits contribution points to a request with"}
+{"id":"01a0c5fd-2524-741a-b098-6e4f917c4189"}
+{"propertySlug":"boost"}
+{"slug":"feature-request-boost"}
+{"type":"page-type/action-button-property"}
+{"types":"ts"}
+{"verbId":"feature-request-boost"}

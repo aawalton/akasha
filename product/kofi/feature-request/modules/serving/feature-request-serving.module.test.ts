@@ -20,11 +20,11 @@ const serving = await import(
   "akasha/product/kofi/feature-request/modules/serving/feature-request-serving.module.code.ts"
 )
 
-function requestPage(id: string, backing: unknown): Page {
-  return asPage({ id, slug: id, pageTypeSlug: "feature-request", backing })
+function requestPage(id: string, boosts: unknown): Page {
+  return asPage({ id, slug: id, pageTypeSlug: "feature-request", boosts })
 }
 
-function backedWith(...points: readonly number[]): unknown {
+function boostedWith(...points: readonly number[]): unknown {
   return points.map((one, index) => ({ contributor: `contributor-${index}`, points: one }))
 }
 
@@ -39,19 +39,19 @@ const MIDDLE = "01a0c4b2-0002-7000-8000-000000000000"
 const OLDEST = "01a0c4b2-0001-7000-8000-000000000000"
 
 describe("pointsOn", () => {
-  test("adds up the points on every backing", () => {
-    expect(serving.pointsOn(requestPage("a", backedWith(3, 4, 5)))).toBe(12)
+  test("adds up the points on every boost", () => {
+    expect(serving.pointsOn(requestPage("a", boostedWith(3, 4, 5)))).toBe(12)
   })
 
-  test("answers nothing for a request no one has backed", () => {
+  test("answers nothing for a request no one has boosted", () => {
     expect(serving.pointsOn(requestPage("b", undefined))).toBe(0)
   })
 
-  test("answers nothing for a request whose backing is empty", () => {
+  test("answers nothing for a request whose boosts are empty", () => {
     expect(serving.pointsOn(requestPage("c", []))).toBe(0)
   })
 
-  test("passes over a backing naming no points", () => {
+  test("passes over a boost naming no points", () => {
     expect(serving.pointsOn(requestPage("d", [{ contributor: "x" }, { points: 7 }]))).toBe(7)
   })
 })
@@ -73,9 +73,9 @@ describe("requestsFor", () => {
 
   test("answers most points first", async () => {
     FOUND = [
-      requestPage(OLDEST, backedWith(1)),
-      requestPage(MIDDLE, backedWith(9, 1)),
-      requestPage(NEWEST, backedWith(4)),
+      requestPage(OLDEST, boostedWith(1)),
+      requestPage(MIDDLE, boostedWith(9, 1)),
+      requestPage(NEWEST, boostedWith(4)),
     ]
     const served = await serving.requestsFor({ product: "alanwalton", standings: ["published"] })
     expect(idsOf(served)).toEqual([MIDDLE, NEWEST, OLDEST])
@@ -83,16 +83,16 @@ describe("requestsFor", () => {
 
   test("answers newest first where two requests are level on points", async () => {
     FOUND = [
-      requestPage(OLDEST, backedWith(5)),
-      requestPage(NEWEST, backedWith(5)),
-      requestPage(MIDDLE, backedWith(5)),
+      requestPage(OLDEST, boostedWith(5)),
+      requestPage(NEWEST, boostedWith(5)),
+      requestPage(MIDDLE, boostedWith(5)),
     ]
     const served = await serving.requestsFor({ product: "alanwalton", standings: ["published"] })
     expect(idsOf(served)).toEqual([NEWEST, MIDDLE, OLDEST])
   })
 
-  test("puts a request no one has backed under every request with points", async () => {
-    FOUND = [requestPage(NEWEST, undefined), requestPage(OLDEST, backedWith(1))]
+  test("puts a request no one has boosted under every request with points", async () => {
+    FOUND = [requestPage(NEWEST, undefined), requestPage(OLDEST, boostedWith(1))]
     const served = await serving.requestsFor({ product: "alanwalton", standings: ["proposed"] })
     expect(idsOf(served)).toEqual([OLDEST, NEWEST])
   })

@@ -1,15 +1,15 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import {
-  backedBy,
+  boostedBy,
   type Landed,
   proposedBy,
 } from "akasha/product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"
 
 const PROPOSE = "propose"
 
-const BACK = "back"
+const BOOST = "boost"
 
-export const SIGNED_OUT = "sign in to open a request or to back one"
+export const SIGNED_OUT = "sign in to open a request or to boost one"
 
 export const NOTHING_TO_DO = "this post says nothing to do"
 
@@ -42,10 +42,10 @@ export async function landedFor(body: unknown, posting: Posting): Promise<Landed
   if (act === PROPOSE) {
     return proposedBy({ product: posting.product, contributor, ask: saidIn(body, "ask") })
   }
-  if (act === BACK) {
+  if (act === BOOST) {
     const points = pointsIn(body)
     if (points === null) return { refused: NO_POINTS }
-    return backedBy({
+    return boostedBy({
       product: posting.product,
       contributor,
       request: saidIn(body, "request"),

@@ -13,11 +13,11 @@ export const featureRequestListing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A listed request carries its title, its ask, its points and how many back it.",
+      statement: "A listed request carries its title, its ask, its points and how many boost it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A listed request carries the slug a reader names it by to back it.",
+      statement: "A listed request carries the slug a reader names it by to boost it.",
     },
     {
       decisionKind: "decision-kind/departure",

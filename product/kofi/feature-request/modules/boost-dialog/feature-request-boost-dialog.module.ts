@@ -1,10 +1,10 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const featureRequestBackDialog = {
+export const featureRequestBoostDialog = {
   id: "01a0c5fd-bf7b-75a9-9cc6-33e841e2381f",
   type: "page-type/module",
-  slug: "feature-request-back-dialog",
-  definition: "the dialog a contributor commits points to one feature request in",
+  slug: "feature-request-boost-dialog",
+  definition: "the dialog a contributor boosts one feature request with points in",
   code: "tsx",
   decisions: [
     {

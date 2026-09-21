@@ -2534,7 +2534,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/contribution-point/modules/balance/contribution-point-balance.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/contribution-point/modules/spending/contribution-point-spending.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/asking/feature-request-asking.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/back-dialog/feature-request-back-dialog.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/listing/feature-request-listing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/naming/feature-request-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/posting/feature-request-posting.module.ts"}
