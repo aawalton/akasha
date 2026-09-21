@@ -199,5 +199,14 @@ export const designPlay = {
       decisionKind: "decision-kind/gap",
       statement: "No catalogue rates a mechanic by what that mechanic gives the whole game.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Play without end is re-optimising without end rather than content without end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A mechanic that invalidates the best line found un-solves the game and revives play.",
+    },
   ],
 } as const satisfies Domain
