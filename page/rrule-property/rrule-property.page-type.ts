@@ -14,6 +14,14 @@ export const rruleProperty = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A value that is a rule alone counts from the occurrence rather than the doing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type stating what a rule counts from beside the rule states it that way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A value of this kind is drawn as the rule reads in words rather than as its iCalendar text.",
     },
