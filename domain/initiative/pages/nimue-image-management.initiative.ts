@@ -23,11 +23,6 @@ export const nimueImageManagement = {
         "Among image pages it holds by construction: a slug is `image-` and the first sixteen hex of the sha256 of the bytes, so a second copy is the same page. Still doubled: the 80 committed PNGs beside persona pages, each byte-identical to an image page, which go once `desktop-wallpaper` and `mobile-wallpaper` are relations to images; and 38 persona covers held again in the object store.",
     },
     {
-      statement: "Every image Alan has already graded keeps that grade.",
-      workingMemory:
-        "`~/To Process/Sorted` holds the grade as a folder and nowhere else: S+ 1, S 19, S- 29, A+ 97, A 160, A- 299, B+ 402, B 222, B- 166, 1,395 files in all. A migration reading only bytes loses every mark. 624 of those files are byte-identical to a file elsewhere in the tree, so a dedup keeping an arbitrary copy loses the mark too, and the graded copy is the one to keep. `To Sort` holds 1,520 files carrying no mark.",
-    },
-    {
       statement: "Every image outside the repository is a page, or is gone.",
       workingMemory:
         "Reaches about 11,200 files and 15GB under `~/To Process`, of which 2,873 are already generation-log rows; 37 persona covers in the SeaweedFS bucket `agent-sessions`, which `/api/image/:imageId` and the `cover` field on 54 committed pages serve; and 999 run-made images at absolute paths, 970 of them lost with the old workstation. Nothing resolves an `image-root`, so the `~/To Process` tree is unreachable from code today.",
