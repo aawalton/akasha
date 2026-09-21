@@ -16,7 +16,7 @@ export const undauntedSkillLine = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "next_character",
   priority: "p2",
-  effectiveCharacter: "belavierr",
+  effectiveCharacter: "shaestrel",
   lastCompletedAt: "2026-09-21T17:11:32.603Z",
   progress: "jsonl",
   progressTotal: 200,

@@ -14,7 +14,7 @@ export const skillMorphs = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "all_characters",
   priority: "p4",
-  effectiveCharacter: "archmage-amerys",
+  effectiveCharacter: "lyonette-du-marquin",
   lastCompletedAt: "2026-09-21T18:11:53.000Z",
   progress: "jsonl",
   progressTotal: 24480,

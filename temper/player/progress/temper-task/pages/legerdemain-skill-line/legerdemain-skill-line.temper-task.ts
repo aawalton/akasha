@@ -16,7 +16,7 @@ export const legerdemainSkillLine = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "next_character",
   priority: "p2",
-  effectiveCharacter: "belavierr",
+  effectiveCharacter: "yvlon-byres",
   lastCompletedAt: "2026-09-19T18:05:55.959Z",
   progress: "jsonl",
   progressTotal: 400,

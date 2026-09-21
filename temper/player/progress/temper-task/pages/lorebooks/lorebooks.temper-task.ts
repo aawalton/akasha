@@ -19,4 +19,5 @@ export const lorebooks = {
   progress: "jsonl",
   progressTotal: 4220,
   progressCurrent: 571,
+  effectiveCharacter: "erin-solstice",
 } as const satisfies TemperTask

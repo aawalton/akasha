@@ -17,4 +17,5 @@ export const storyZoneQuestSkillPoints = {
   progress: "jsonl",
   progressCurrent: 1408,
   progressTotal: 3280,
+  effectiveCharacter: "erin-solstice",
 } as const satisfies TemperTask

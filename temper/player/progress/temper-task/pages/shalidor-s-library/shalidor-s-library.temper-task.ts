@@ -20,4 +20,5 @@ export const shalidorSLibrary = {
   progress: "jsonl",
   progressTotal: 580,
   progressCurrent: 394,
+  effectiveCharacter: "nirayicel",
 } as const satisfies TemperTask
