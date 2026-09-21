@@ -1,39 +1,33 @@
-import {
-  pageRead,
-  type Shown,
-} from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
-import { Link } from "react-router"
+import { getPageByIdSuffix } from "akasha/page/access/modules/get/get.module.code.ts"
+import { PageDetailContent } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
+import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { data } from "react-router"
+import type { Route } from "./+types/innworld-page-detail.route.code"
 
-export async function loader({
-  params,
-}: {
-  params: { pageTypeSlug: string; pageHrefParam: string }
-}) {
-  const shown = await pageRead(params.pageTypeSlug, params.pageHrefParam)
-  if (shown === null) throw new Response("Not Found", { status: 404 })
-  return shown
+export async function loader({ params }: Route.LoaderArgs) {
+  const parsed = parsePageHrefParam(params.pageHrefParam)
+  if (parsed === null) throw new Response("Not Found", { status: 404 })
+  const page = await getPageByIdSuffix({
+    pageTypeSlug: toPageTypeSlug(params.pageTypeSlug),
+    idSuffix: parsed.idSuffix,
+    ...(parsed.slug === null ? {} : { slug: parsed.slug }),
+    select: ["id", "title"],
+  })
+  if (page === null || typeof page.id !== "string") {
+    throw new Response("Not Found", { status: 404 })
+  }
+  const title = typeof page["title"] === "string" ? page["title"] : null
+  return data({ pageTypeSlug: params.pageTypeSlug, id: page.id, title })
 }
 
-export function meta({ data }: { data: Shown | undefined }) {
-  return [{ title: data === undefined ? "Innworld" : `${data.title} — Innworld` }]
+export function meta({ data: loaderData }: Route.MetaArgs) {
+  const title = loaderData?.title
+  return [{ title: title == null || title === "" ? "Innworld" : `${title} — Innworld` }]
 }
 
-export default function PageDetailRoute({ loaderData }: { loaderData: Shown }) {
-  const { pageTypeSlug, title, fields } = loaderData
+export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   return (
-    <article>
-      <Link className="text-muted-foreground text-sm underline" to={`/${pageTypeSlug}`}>
-        {pageTypeSlug}
-      </Link>
-      <h1 className="mt-1 font-semibold text-3xl">{title}</h1>
-      <dl className="mt-6 space-y-2">
-        {fields.map(([key, said]) => (
-          <div key={key}>
-            <dt className="text-muted-foreground text-sm">{key}</dt>
-            <dd>{said}</dd>
-          </div>
-        ))}
-      </dl>
-    </article>
+    <PageDetailContent pageTypeSlug={toPageTypeSlug(loaderData.pageTypeSlug)} id={loaderData.id} />
   )
 }

@@ -1,29 +1,21 @@
-import {
-  LayoutRouterAdapter,
-  PagesUIRouterAdapter,
-} from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppEditingProvider } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { AuthProvider } from "akasha/page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"
-import { Outlet } from "react-router"
+import { AppShell } from "akasha/product/wandering-inn-wiki/web/modules/innworld-app-shell/innworld-app-shell.module.code.tsx"
+import { collectionsRead } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
+import { data, Outlet } from "react-router"
+import type { Route } from "./+types/_app-layout"
 
-export default function AppLayout() {
+export async function loader() {
+  return data({ collections: await collectionsRead() })
+}
+
+export default function AppLayout({ loaderData }: Route.ComponentProps) {
   return (
     <AuthProvider reader={null} accountId={null}>
       <AppEditingProvider editing={false}>
-        <LayoutRouterAdapter>
-          <PagesUIRouterAdapter>
-            <main className="mx-auto max-w-5xl p-4">
-              <Outlet />
-            </main>
-            <footer className="mx-auto max-w-5xl p-4 text-muted-foreground text-sm">
-              Innworld is a fan wiki. The Wandering Inn, its characters and its world belong to{" "}
-              <a className="underline" href="https://wanderinginn.com">
-                pirateaba
-              </a>
-              .
-            </footer>
-          </PagesUIRouterAdapter>
-        </LayoutRouterAdapter>
+        <AppShell collections={loaderData.collections}>
+          <Outlet />
+        </AppShell>
       </AppEditingProvider>
     </AuthProvider>
   )

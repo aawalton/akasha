@@ -2547,6 +2547,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-push-registration-sync/jenny-push-registration-sync.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-shell/jenny-shell.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-app-shell/innworld-app-shell.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.ts"}

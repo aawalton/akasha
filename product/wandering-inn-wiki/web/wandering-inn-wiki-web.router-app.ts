@@ -13,6 +13,7 @@ export const wanderingInnWikiWeb = {
   compileConfig: "json",
   viteConfig: "ts",
   server: "ts",
+  sidebarBoot: "js",
   gitIgnore: "gitignore",
   routeTypesDirectory: true,
   declarationDirectory: true,
@@ -20,6 +21,7 @@ export const wanderingInnWikiWeb = {
   parts: [
     "app-routes/wandering-inn-wiki-web-routes",
     "manifest/wandering-inn-wiki-web-manifests",
+    "module/innworld-app-shell",
     "module/innworld-reader",
     "module/innworld-reading",
     "stylesheet/wandering-inn-wiki-web-look",

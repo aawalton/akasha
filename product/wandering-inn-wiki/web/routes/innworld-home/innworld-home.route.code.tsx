@@ -1,30 +1,41 @@
 import {
-  type Named,
-  typesRead,
-} from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
-import { Link } from "react-router"
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
+import type { Collection } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
+import { Link, useRouteLoaderData } from "react-router"
 
-export async function loader() {
-  return { types: await typesRead() }
+const FRAME = "routes/_app-layout"
+
+const NONE: readonly Collection[] = []
+
+export function meta() {
+  return [{ title: "Innworld" }]
 }
 
-export default function InnworldHome({ loaderData }: { loaderData: { types: readonly Named[] } }) {
+export default function InnworldHome() {
+  const loaderData = useRouteLoaderData<{ collections: readonly Collection[] }>(FRAME)
+  const collections = loaderData?.collections ?? NONE
   return (
-    <div>
-      <h1 className="font-semibold text-3xl">Innworld</h1>
-      <p className="mt-2 text-muted-foreground">A wiki of The Wandering Inn.</p>
-      <ul className="mt-6 space-y-1">
-        {loaderData.types.map((one) => (
-          <li key={one.slug}>
-            <Link className="underline" to={`/${one.slug}`}>
-              {one.slug}
-            </Link>
-            {one.definition === null ? null : (
-              <span className="text-muted-foreground"> — {one.definition}</span>
-            )}
-          </li>
-        ))}
-      </ul>
-    </div>
+    <PageLayout>
+      <PageLayout.Header>
+        <PageTitle>Innworld</PageTitle>
+      </PageLayout.Header>
+      <PageLayout.Content>
+        <p className="text-secondary">A wiki of The Wandering Inn.</p>
+        <ul className="mt-6 space-y-2">
+          {collections.map((one) => (
+            <li key={one.slug}>
+              <Link className="font-medium underline" to={`/${one.slug}`}>
+                {one.name}
+              </Link>
+              {one.definition === null ? null : (
+                <span className="text-secondary"> — {one.definition}</span>
+              )}
+            </li>
+          ))}
+        </ul>
+      </PageLayout.Content>
+    </PageLayout>
   )
 }

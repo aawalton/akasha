@@ -32,6 +32,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <Meta />
         <Links />
+        {}
+        <script src="/sidebar-boot.js" nonce={nonce} />
       </head>
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>

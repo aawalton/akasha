@@ -1,56 +1,27 @@
-import {
-  type Listing,
-  listingRead,
-} from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
-import { Link } from "react-router"
+import { getPageTypeBySlug } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
+import { PagesFilteredContent } from "akasha/page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { Suspense } from "react"
+import { data } from "react-router"
+import type { Route } from "./+types/innworld-page-listing.route.code"
 
-function fromIn(request: Request): number {
-  const said = Number.parseInt(new URL(request.url).searchParams.get("from") ?? "", 10)
-  return Number.isInteger(said) && said > 0 ? said : 0
+export async function loader({ params, request }: Route.LoaderArgs) {
+  const pageType = await getPageTypeBySlug(params.pageTypeSlug)
+  if (pageType === null || typeof pageType.slug !== "string") {
+    throw new Response("Not Found", { status: 404 })
+  }
+  const asked: Record<string, string> = {}
+  for (const [key, value] of new URL(request.url).searchParams.entries()) asked[key] = value
+  return data({ slug: pageType.slug, searchParams: asked })
 }
 
-export async function loader({
-  params,
-  request,
-}: {
-  params: { pageTypeSlug: string }
-  request: Request
-}) {
-  const listing = await listingRead(params.pageTypeSlug, fromIn(request))
-  if (listing === null) throw new Response("Not Found", { status: 404 })
-  return listing
-}
-
-export function meta({ data }: { data: Listing | undefined }) {
-  return [{ title: data === undefined ? "Innworld" : `${data.pageTypeSlug} — Innworld` }]
-}
-
-export default function PagesListingRoute({ loaderData }: { loaderData: Listing }) {
-  const { pageTypeSlug, rows, from, atOnce, more } = loaderData
+export default function PagesListingRoute({ loaderData }: Route.ComponentProps) {
   return (
-    <div>
-      <h1 className="font-semibold text-3xl">{pageTypeSlug}</h1>
-      <ul className="mt-6 space-y-1">
-        {rows.map((one) => (
-          <li key={one.href}>
-            <Link className="underline" to={one.href}>
-              {one.title}
-            </Link>
-          </li>
-        ))}
-      </ul>
-      <nav className="mt-6 flex gap-4">
-        {from > 0 ? (
-          <Link className="underline" to={`/${pageTypeSlug}?from=${Math.max(0, from - atOnce)}`}>
-            back
-          </Link>
-        ) : null}
-        {more ? (
-          <Link className="underline" to={`/${pageTypeSlug}?from=${from + atOnce}`}>
-            on
-          </Link>
-        ) : null}
-      </nav>
-    </div>
+    <Suspense>
+      <PagesFilteredContent
+        pageTypeSlug={toPageTypeSlug(loaderData.slug)}
+        searchParams={loaderData.searchParams}
+      />
+    </Suspense>
   )
 }

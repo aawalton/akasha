@@ -4,13 +4,13 @@ export const innworldReading = {
   id: "01a0c61a-8975-7295-9bd9-dd7c9e8d99c7",
   type: "page-type/module",
   slug: "innworld-reading",
-  definition: "what a browser is shown of the pages this wiki reaches",
+  definition: "the collections this wiki names in its sidebar",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A browser is answered from the server rather than asking the routes again.",
+      statement: "A collection is one page type the reader of this site reaches.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -18,15 +18,19 @@ export const innworldReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A listing is answered a page at a time rather than whole.",
+      statement: "A collection is named by the plural its page type states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type stating no plural is named by its own slug.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The page type collection is akasha's own record, and is named nowhere here.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No value a page holds in a file beside it is shown.",
     },
   ],
 } as const satisfies Module
