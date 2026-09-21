@@ -31,7 +31,6 @@ const serverBuild = asServerBuild(await import(join(BUILD_DIR, "server", "index.
 const handler = createRequestHandler(serverBuild, "production")
 
 const CSP_CONFIG: AppCspConfig = {
-  connectSrc: ["https://supabase.alanwalton.com", "wss://supabase.alanwalton.com"],
   imgSrc: ["https://esoicons.uesp.net"],
 }
 
