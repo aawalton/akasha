@@ -139,6 +139,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/from-file.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/from-initiative.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/from-number.argument.ts"}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/full-page.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/full.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/gateway-log-dir.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/gateway-port.argument.ts"}
@@ -217,6 +218,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/onto.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/open.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/out-dir.argument.ts"}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/out.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/outdated.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/output.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/package-name.argument.ts"}
@@ -367,6 +369,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/x.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/y.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/modules/page-answering/page-answering.module.code.ts"}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.test.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/pages/email/attachment/show/email-attachment-show.command.test.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/pages/email/draft/create/email-draft-create.command.test.ts"}
