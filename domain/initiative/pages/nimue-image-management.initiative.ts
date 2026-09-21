@@ -17,6 +17,12 @@ export const nimueImageManagement = {
       workingMemory:
         "Reaches about 11,200 files and 15GB under `~/To Process`, of which 2,873 are already generation-log rows; 37 persona covers in the SeaweedFS bucket `agent-sessions`, which `/api/image/:imageId` and the `cover` field on 54 committed pages serve; and 999 run-made images at absolute paths, 970 of them lost with the old workstation. Nothing resolves an `image-root`, so the `~/To Process` tree is unreachable from code today.",
     },
+    {
+      statement:
+        "Every image a deployed reader shows comes from the pages service on the workstation.",
+      workingMemory:
+        "The path exists. No web manifest sets `PAGES_SERVICE_ORIGIN`, so `originOf` falls through to `page-forwarder.page-forwarder.svc.cluster.local:8787`, a socat deployment carrying a pod's request over the tailnet to the workstation. `filing` in `file-answering.module.code.ts` already reads an uncommitted file property, taking the extension off the property page where the page states none. `/api/wallpaper` fetches this way today. What is missing is that no image is a file property.",
+    },
   ],
   constraints: [
     "An image's bytes are a file property akasha does not commit, and the image's page is committed.",
