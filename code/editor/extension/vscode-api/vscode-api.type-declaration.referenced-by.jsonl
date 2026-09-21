@@ -68,6 +68,7 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/string-replace/string-replace.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/using-async/using-async.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/using/using.lualib-helper.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/archive-of-worlds/web/root.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/audhdalan/web/root.tsx"}
