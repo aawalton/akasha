@@ -44,7 +44,7 @@ The scope file flags envelope quality as a known unknown ("50-year-old construct
 | PV (DC) | **49 kWp** | At 1,500 kWh/kWp/yr realistic specific yield, ILR 1.20 → 40 kW AC |
 | Battery (usable) | **40 kWh** | 3× Powerwall 3-class units — covers daily shift + 12-hour critical-loads outage |
 | Inverter | **Hybrid string + DC optimizers** (e.g., 2× SolArk 15K-2P or equivalent) | Best at 49 kWp + 40 kWh + future inference upside per [topology.md](book-section/sizing/topology) |
-| Service panel | **400 A main + 4 subpanels + monitoring (not load-shedding)** | Self-sufficiency principle: load-shedder additive, not load-bearing |
+| Service panel | **400 A main + 4 subpanels + monitoring (not load-shedding)** | Load-shedder stays additive rather than load-bearing |
 | Roof + supplements | **House primary + detached-garage roof + pergola or ground-mount supplement (~15 kWp)** | Per [pv.md](book-section/sizing/pv#roof-area-feasibility), 49 kWp does not fit on house roof alone |
 | EV chargers | **2× 48 A hardwired EVSE** with PV-following daytime mode | Per [vehicles.md](book-section/energy-demand/vehicles#charging-peak-draw) |
 | **All-in pre-ITC** | **~$200,000** (with one supplement structure) or ~$170k (no supplement) | Per [cost.md](book-section/sizing/cost) |
@@ -63,8 +63,8 @@ Three things this case optimizes for:
 
 What this case **does not** optimize for:
 
-- **Pure-island self-sufficiency** — explicitly out of scope per [scope.md](book-section/solar-power/scope); the Provo Power grid is the seasonal battery.
-- **Multi-day winter outage ride-through** — explicitly traded away in [battery.md](book-section/sizing/battery); rely on grid restoration or a separate (out-of-this-project) propane standby gen.
+- **Off-grid self-sufficiency** — out of scope per [scope.md](book-section/solar-power/scope); the grid carries the winter deficit.
+- **Multi-day winter outage ride-through** — explicitly traded away in [battery.md](book-section/sizing/battery); rely on grid restoration or a separate propane standby gen decided on its own.
 - **All-12-PCs-inference workload** — would push demand to ~120,000 kWh/yr and require either oversized PV or scoped-out inference plan; flag for a future re-architecture.
 
 ## Open assessment items (carry forward from [scope.md](book-section/solar-power/scope))

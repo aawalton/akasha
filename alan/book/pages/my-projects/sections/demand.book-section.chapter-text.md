@@ -45,7 +45,7 @@ Drivers: well-insulated post-retrofit envelope, HPWH in conditioned space, moder
 
 ### Nominal scenario — planning value (~73,000 kWh/yr)
 
-Drivers: mid-tier envelope (between well-insulated and existing), resistance DHW (self-sufficiency-favored per [water-and-appliances.md](book-section/energy-demand/water-and-appliances)), heavy gaming planning value (30,000 kWh/yr from [computers.md](book-section/energy-demand/computers)), 22k EV mi.
+Drivers: mid-tier envelope (between well-insulated and existing), resistance DHW (per [water-and-appliances.md](book-section/energy-demand/water-and-appliances)), heavy gaming planning value (30,000 kWh/yr from [computers.md](book-section/energy-demand/computers)), 22k EV mi.
 
 | Category | kWh |
 |---|---|
@@ -117,7 +117,7 @@ A realistic "significant inference" case is 4 of 12 running 24/7 at ~900 W → *
 
 ## Monthly distribution carryover
 
-The monthly shape from [energy-demand/totals.md](book-section/energy-demand/totals) is preserved — flag-load removal doesn't change month-shape, and the EV cut spreads evenly across months with mild winter weighting. The annual-net-zero math depends only on the annual total against Provo's specific yield, so the monthly table doesn't drive sizing here. (It does drive battery sizing — see [battery.md](book-section/sizing/battery).)
+The monthly shape from [energy-demand/totals.md](book-section/energy-demand/totals) is preserved — flag-load removal doesn't change month-shape, and the EV cut spreads evenly across months with mild winter weighting. PV sized to annual load depends only on the annual total against Provo's specific yield, so the monthly table doesn't drive sizing here. (It does drive battery sizing — see [battery.md](book-section/sizing/battery).)
 
 ## Peak demand (unchanged from totals.md)
 

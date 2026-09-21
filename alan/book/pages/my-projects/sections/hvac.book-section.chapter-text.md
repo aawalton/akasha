@@ -65,7 +65,7 @@ Cooling load is much smaller — Provo summers are hot but dry (latent load ~min
 - Cooling kWh = 1,100 CDD × 24 hr/day × design load × bin-distribution ÷ EER. Empirically: [PNNL ResStock 5B cooling](https://resstock.nrel.gov/) shows 0.3–0.6 kWh/sq-ft/yr.
 - 6000 sq ft × 0.5 = **3,000 kWh/yr**.
 
-**Planning value: 3,500 kWh/yr** (rounded up for self-sufficiency bias).
+**Planning value: 3,500 kWh/yr** (rounded up as a conservative planning bias).
 
 Note: 12 gaming PCs at full tilt dump ~10 kW of waste heat into the house — that's ~34,000 Btu/h of additional cooling load whenever they're running. If the gaming room is centrally cooled, this could add ~1,000–1,500 kWh/yr of cooling. **Isolate the gaming room with its own mini-split and exhaust ventilation** to avoid loading the main system.
 
@@ -106,4 +106,4 @@ Coldest morning, all systems at full output plus defrost cycle running:
 - **Window area / orientation**: south-facing glass with low solar heat gain coefficient can passively offset 5–10% in winter.
 - **Whole-house vs. zoned**: zoning conditioned space to occupied rooms cuts 10–20%.
 - **Auxiliary resistance use**: a mid-tier (non-CCHP) heat pump in Provo would burn 30–50% of heating energy as resistance — double the planning number.
-- **Wood stove / passive solar**: a wood-burning stove rated 50–80 kBtu/h cuts winter heat-pump kWh by 30–60% during cold snaps and provides backup if the heat pump fails. Strongly favorable for self-sufficiency.
+- **Wood stove / passive solar**: a wood-burning stove rated 50–80 kBtu/h cuts winter heat-pump kWh by 30–60% during cold snaps and provides backup if the heat pump fails. Shrinks the winter import bill and adds outage resilience.

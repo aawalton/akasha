@@ -84,7 +84,7 @@ Flat. No seasonality. The same ~2,500–2,800 kWh hits the system every month, J
 |---|---|
 | All 12 months | 2,500 each |
 
-This is the key thermodynamic asymmetry: solar production swings ~2× summer-to-winter in Provo, but this load doesn't. **A typical-house annual-net-zero PV sizing leaves gaming demand stranded in winter.** Either oversize PV, battery through, or load-shed gaming during cold-snap weeks.
+This is the key thermodynamic asymmetry: solar production swings ~2× summer-to-winter in Provo, but this load doesn't. **PV sized to annual load leaves gaming demand stranded in winter**, and the grid covers that gap at retail rates. Battery-through-the-evening and load-shedding gaming during cold-snap weeks are the levers that shrink the winter import bill.
 
 ## What pushes the number up or down
 
@@ -93,13 +93,13 @@ This is the key thermodynamic asymmetry: solar production swings ~2× summer-to-
 - **Mining / training**: any system running 24/7 GPU compute moves from ~1,700 kWh/yr to ~5,000 kWh/yr — that one system *triples*.
 - **Streaming**: dedicated streaming PC + capture card + multiple monitors + lights add ~100 W and 8–12 hr/day = ~330 kWh/yr per streamer.
 - **Sleep behavior**: systems left running idle 24/7 instead of sleeping adds 12 × (220 − 12) W × 24 × 365 = ~22,000 kWh/yr of waste. Aggressive sleep policy is the single biggest reducer.
-- **Undervolting / power limits**: capping GPU at 70% power preserves ~95% of gaming performance and cuts ~25% of GPU energy. A self-sufficiency-oriented configuration enables this.
+- **Undervolting / power limits**: capping GPU at 70% power preserves ~95% of gaming performance and cuts ~25% of GPU energy. A demand-minimizing configuration enables this.
 - **Number of monitors**: each additional 4K monitor at 40–60 W idle adds ~150–500 kWh/yr per workstation depending on duty cycle.
 
 ## Year-round flat profile — implications for solar
 
 Most household loads have seasonal anti-correlation with PV production (heat is winter-heavy, cooling is summer-heavy). The 12 gaming PCs have **zero correlation** with the solar curve. They run when they run, often peaking in evening hours when PV is gone.
 
-This load category single-handedly justifies a battery system. Without batteries, ~70% of gaming-PC kWh would have to come from grid (or generator) because the load occurs outside daylight hours. With batteries, summer surplus charges by 6 PM and discharges into the gaming load through midnight, achieving self-consumption ratios approaching 100% for half the year.
+This load category single-handedly justifies a battery system. Without batteries, ~70% of gaming-PC kWh would be imported from the grid because the load occurs outside daylight hours — and under net billing an exported kWh credits at about half what an imported one costs, so self-consumption is where the value is. With batteries, summer surplus charges by 6 PM and discharges into the gaming load through midnight, achieving self-consumption ratios approaching 100% for half the year.
 
-In winter, even with batteries, this load is what runs the battery dry overnight before PV resumes the next morning. Generator runtime is dominated by gaming + heat + DHW persisting through a 16-hour low-PV winter day.
+In winter, even with batteries, this load is what runs the battery dry overnight before PV resumes the next morning. Winter grid import is dominated by gaming + heat + DHW persisting through a 16-hour low-PV winter day.

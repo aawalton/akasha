@@ -1,7 +1,7 @@
 
 # Domestic Hot Water + Appliances
 
-All values are conservative — biased toward higher demand for self-sufficiency sizing.
+All values are conservative — biased toward higher demand so the system is not undersized.
 
 ## Domestic hot water (DHW)
 
@@ -87,7 +87,7 @@ Two units assumed (main kitchen + secondary in pantry/garage):
 
 Heavy use: 8 loads/wk × 3.5 kWh/load (vented electric resistance dryer, ~5,500 W × 40 min) = **~1,450 kWh/yr**.
 
-Heat-pump dryer alternative (LG WashCombo, Miele T1) cuts this in half (~750 kWh/yr) but is slower and adds compressor failure mode. Self-sufficiency favors the simpler vented resistance dryer.
+Heat-pump dryer alternative (LG WashCombo, Miele T1) halves this (~750 kWh/yr) but is slower and adds a compressor failure mode. The planning value assumes the simpler vented resistance dryer.
 
 **Planning value: 1,500 kWh/yr.** Peak: 5.5 kW (240 V × 23 A).
 
@@ -130,4 +130,4 @@ Microwave (10 min/day × 1.2 kW = 0.2 kWh/day × 365 = 73 kWh/yr), countertop ov
 - **Cooking style**: heavy home cooking (multiple hours/day) can push range to 3,000 kWh/yr.
 - **Dryer alternative**: outdoor line-drying half the year cuts dryer by 30–50%.
 - **HPWH location**: garage-sited HPWH in Provo winters drops to COP ~1.8–2.0 — losing most of the savings.
-- **Solar dump load**: a resistance DHW tank with a smart diverter (Eddi, OPTI, custom Shelly relay) absorbs PV surplus when batteries are full — improves effective self-sufficiency without changing nameplate kWh.
+- **Solar dump load**: a resistance DHW tank with a smart diverter (Eddi, OPTI, custom Shelly relay) absorbs PV surplus when batteries are full — turns a kWh worth $0.067 exported into one worth $0.07–$0.13, without changing nameplate kWh.

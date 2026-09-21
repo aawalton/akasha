@@ -5,7 +5,7 @@ Both cars assumed long-range BEVs charged at home on Level 2 (240 V) EVSEs. No p
 
 ## Annual miles
 
-US household average per vehicle is ~12,000–13,500 mi/yr ([FHWA Highway Statistics — Table VM-1](https://www.fhwa.dot.gov/policyinformation/statistics.cfm)). Two-driver households average a combined ~22,000–28,000 mi/yr. For self-sufficiency planning, **bias to the high end**:
+US household average per vehicle is ~12,000–13,500 mi/yr ([FHWA Highway Statistics — Table VM-1](https://www.fhwa.dot.gov/policyinformation/statistics.cfm)). Two-driver households average a combined ~22,000–28,000 mi/yr. To avoid undersizing, **bias to the high end**:
 
 | Scenario | Combined mi/yr |
 |---|---|
@@ -128,13 +128,13 @@ This is the single largest peak load on the property. **Mandatory mitigation**: 
 2. **Load-managed EVSE** (Wallbox PowerBoost, Tesla Powershare, SPAN drive) — automatically reduces charge rate when other loads spike, preventing service overload.
 3. **PV-following daytime charging** — charge at the PV-surplus rate when batteries are full and panels overproducing. Maximizes self-consumption; both Wallbox Pulsar Plus and Tesla Wall Connector support this via app integration.
 
-For self-sufficiency, the third option matters: any summer day with PV surplus and one EV home should preferentially charge from solar, not bank into the battery and then discharge through an inverter (round-trip loss ~10–12%).
+The third option matters under net billing: any summer day with PV surplus and one EV home should preferentially charge from solar rather than export at the avoided-cost rate, and rather than bank into the battery and then discharge through an inverter (round-trip loss ~10–12%).
 
-## Failure modes / self-sufficiency tradeoff
+## Failure modes / resilience tradeoff
 
 - **EVSE failure**: a wall connector or breaker faults → fall back to portable Level 1 (12 A × 120 V = 1.4 kW, ~5 mi/hr added). 28,000 mi/yr ÷ 5 mi/hr = 5,600 hr/yr of L1 charging — not viable for two cars. Plan a spare EVSE or a portable L2 mobile connector as backup.
-- **Grid + battery failure**: both cars become storage-bound. A long winter outage without grid → use vehicle DC fast charging at public stations or burn generator hours to charge them. Plug-in-hybrid backup vehicles avoid this but add a fossil-fuel dependency.
-- **Bidirectional charging (V2H / V2L)**: Lightning, Cybertruck, and some Hyundai/Kia models can discharge into the house. A 131 kWh F-150 Lightning serves as ~2 days of additional whole-house backup. Strong self-sufficiency multiplier — worth weighting purchase decisions toward V2H-capable models.
+- **Grid + battery failure**: both cars become storage-bound. A long winter outage without grid → use vehicle DC fast charging at public stations. Plug-in-hybrid backup vehicles avoid this but add a fossil-fuel dependency.
+- **Bidirectional charging (V2H / V2L)**: Lightning, Cybertruck, and some Hyundai/Kia models can discharge into the house. A 131 kWh F-150 Lightning serves as ~2 days of additional whole-house backup. Strong resilience multiplier — worth weighting purchase decisions toward V2H-capable models.
 
 ## Summary
 
