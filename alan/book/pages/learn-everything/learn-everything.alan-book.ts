@@ -14,7 +14,7 @@ export const learnEverything = {
   ],
   title: "Learn Everything",
   description:
-    "<!-- Where his model thins — the edge located by the probe that set D. Becomes next session's bites. -->",
+    "The whole of knowledge as one outline, and how far I have read into it. Each topic I have opened is a page sitting under the topic it belongs to, holding where my model of it thins, what I have had wrong about it, how it joins to what I already know, and what to take up next. A topic with no page is a topic I have not opened yet.",
   unit: "unit/words",
   decisions: [
     {
