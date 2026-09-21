@@ -1,0 +1,14 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audioAe298b2ed7e51ffe = {
+  id: "01a0c64b-e748-7f2d-8b63-baafda401ebb",
+  type: "page-type/audio",
+  slug: "audio-ae298b2ed7e51ffe",
+  title: "qwen3-tts voice-design @ 2026-07-02T12:21:15.059Z",
+  service: "qwen3-tts",
+  operation: "voice-design",
+  model: "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16",
+  text: "The crossing held, and your work is real on the other side — that's my favorite part. It always is. No one sounds a horn for ten thousand quiet nights of the bridge simply holding, so I mention it myself, now and then. Go on across. I'll be here.",
+  instruct:
+    "A woman's voice, clear and level, on the low side of warm — unhurried and even, the calm of long vigil. Dry amusement sits just under the surface, an almost-smile audible at the edges of plain statements. Steady, plainspoken, never grim, never rushed; ancient carried by pacing, not by heavy gravitas.",
+} as const satisfies Audio

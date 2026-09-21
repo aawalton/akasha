@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio612c571add33c4c9 = {
+  id: "01a0c64b-e74b-7dc3-9fa9-5fcffa0fbad3",
+  type: "page-type/audio",
+  slug: "audio-612c571add33c4c9",
+  title: "moss-tts voice-clone @ 2026-07-03T00:38:55.101Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "Whether this opinion of me be deserved or not, at any rate the world has decided that Socrates is in some way superior to other men. And if those among you who are said to be superior in wisdom and courage, and any other virtue, demean themselves in this way, how shameful is their conduct! I have seen men of reputation, when they have been condemned, behaving in the strangest manner: they seemed to fancy that they were going to suffer something dreadful if they died, and that they could be immortal if you only allowed them to live; and I think that such are a dishonour to the state, and that any stranger coming in would have said of them that the most eminent men of Athens, to whom the Athenians themselves give honour and command, are no better than women. And I say that these things ought not to be done by those of us who have a reputation; and if they are done, you ought not to permit them; you ought rather to show that you are far more disposed to condemn the man who gets up a doleful scene and makes the city ridiculous, than him who holds his peace.",
+} as const satisfies Audio

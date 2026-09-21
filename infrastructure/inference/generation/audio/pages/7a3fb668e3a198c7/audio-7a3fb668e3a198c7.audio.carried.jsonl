@@ -1,0 +1,9 @@
+{"id":"01a0c64b-e749-7eef-a83c-efd1e41e0452"}
+{"instruct":"A young woman's voice, low and husky with a smoky rasp, slow and purring, warmly amused, intimate and close, teasing gently with quiet confidence."}
+{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
+{"operation":"voice-design"}
+{"service":"qwen3-tts"}
+{"slug":"audio-7a3fb668e3a198c7"}
+{"text":"Mm — you found me at the good hour. The fire's gone gold, and the metal's started singing back. Come stand by the heat… everything worth making has a rhythm. Stay a while, and I'll show you what mine can do."}
+{"title":"qwen3-tts voice-design @ 2026-07-02T18:01:34.767Z"}
+{"type":"page-type/audio"}

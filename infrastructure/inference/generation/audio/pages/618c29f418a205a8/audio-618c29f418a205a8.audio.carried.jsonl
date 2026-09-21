@@ -1,0 +1,8 @@
+{"id":"01a0c64b-e749-74b1-8ee1-eaf713cbf40a"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-618c29f418a205a8"}
+{"text":"This sentence is being spoken as a continuation smoke test to confirm the mode field is honored by the patched server."}
+{"title":"moss-tts voice-clone @ 2026-07-02T23:30:36.394Z"}
+{"type":"page-type/audio"}

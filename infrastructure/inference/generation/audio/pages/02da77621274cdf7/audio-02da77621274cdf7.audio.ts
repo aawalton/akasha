@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio02da77621274cdf7 = {
+  id: "01a0c64b-e74b-79d1-b46e-606e8eb1cfe3",
+  type: "page-type/audio",
+  slug: "audio-02da77621274cdf7",
+  title: "moss-tts voice-clone @ 2026-07-03T00:50:18.797Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "Let us reflect in another way, and we shall see that there is great reason to hope that death is a good; for one of two things—either death is a state of nothingness and utter unconsciousness, or, as men say, there is a change and migration of the soul from this world to another. Now if you suppose that there is no consciousness, but a sleep like the sleep of him who is undisturbed even by dreams, death will be an unspeakable gain. For if a person were to select the night in which his sleep was undisturbed even by dreams, and were to compare with this the other days and nights of his life, and then were to tell us how many days and nights he had passed in the course of his life better and more pleasantly than this one, I think that any man, I will not say a private man, but even the great king will not find many such days or nights, when compared with the others. Now if death be of such a nature, I say that to die is gain; for eternity is then only a single night. But if death is the journey to another place, and there, as men say, all the dead abide, what good, O my friends and judges, can be greater than this? If indeed when the pilgrim arrives in the world below, he is delivered from the professors of justice in this world, and finds the true judges who are said to give judgment there, Minos and Rhadamanthus and Aeacus and Triptolemus, and other sons of God who were righteous in their own life, that pilgrimage will be worth making.",
+} as const satisfies Audio

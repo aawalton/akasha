@@ -1,0 +1,9 @@
+{"id":"01a0c64b-e749-7e66-8e30-dc1ef302237a"}
+{"instruct":"A low, even woman's voice, calm to the point of stillness, unhurried and soft but resonant, like someone speaking at night in a quiet grove. Warm-neutral, measured pacing with unapologetic pauses; never rushes, never brightens for emphasis; a faint otherworldly evenness."}
+{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
+{"operation":"voice-design"}
+{"service":"qwen3-tts"}
+{"slug":"audio-d8eee0476a8283fa"}
+{"text":"The hum is good tonight. Every world you've made is moving through my roots, and the ground under them is steady. Stay a while — and tell me: what does rain feel like when it falls, instead of arriving?"}
+{"title":"qwen3-tts voice-design @ 2026-07-02T16:51:20.235Z"}
+{"type":"page-type/audio"}

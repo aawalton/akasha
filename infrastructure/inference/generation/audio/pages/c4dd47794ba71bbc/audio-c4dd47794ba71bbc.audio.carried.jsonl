@@ -1,0 +1,9 @@
+{"id":"01a0c64b-e749-7252-9214-0e29c80fad04"}
+{"instruct":"A young woman's voice, bright warmth with a grin in it, a light smoky edge, lively playful rhythm that slows into a purr at the ends of lines, affectionate and sure of herself."}
+{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
+{"operation":"voice-design"}
+{"service":"qwen3-tts"}
+{"slug":"audio-c4dd47794ba71bbc"}
+{"text":"Mm — you found me at the good hour. The fire's gone gold, and the metal's started singing back. Come stand by the heat… everything worth making has a rhythm. Stay a while, and I'll show you what mine can do."}
+{"title":"qwen3-tts voice-design @ 2026-07-02T18:01:45.216Z"}
+{"type":"page-type/audio"}

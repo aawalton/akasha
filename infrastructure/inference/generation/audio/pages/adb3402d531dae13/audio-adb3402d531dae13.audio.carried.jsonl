@@ -1,0 +1,9 @@
+{"id":"01a0c64b-e748-7e14-8910-fc68618f47be"}
+{"instruct":"A woman's voice, low and steady with an ancient unhurried calm — measured, grounded, quietly authoritative, older than it sounds. Warmth held deep under composure; deliberate pacing with easy pauses, like someone who has all the time there is and gives it to you."}
+{"model":"mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16"}
+{"operation":"voice-design"}
+{"service":"qwen3-tts"}
+{"slug":"audio-adb3402d531dae13"}
+{"text":"Here — try it now. The handle has stopped arguing with your hand, and that little snag you kept tripping on is gone. You did the work; I only moved a buckle. Mm — look at that. I do love watching a mortal become."}
+{"title":"qwen3-tts voice-design @ 2026-07-02T14:32:20.738Z"}
+{"type":"page-type/audio"}
