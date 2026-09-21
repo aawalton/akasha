@@ -38,6 +38,35 @@ export const extensionHostReachesNoBunCode = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the host reaches is kept beside this page rather than read on every run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change naming none of those paths and no manifest moves nothing the host loads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a change is answered with no refusal, and the graph is not read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run reading the graph keeps what it reached beside what was kept before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change that is refused leaves what is kept holding more than the host reaches.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No path once reached is dropped from what is kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nothing is kept where the index names no page for this check.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The graph the host loads is answered by a predicate rather than walked here.",
     },
     {

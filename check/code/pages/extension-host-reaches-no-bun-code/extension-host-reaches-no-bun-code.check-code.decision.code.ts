@@ -1,4 +1,5 @@
 import { dirname, join, normalize } from "node:path"
+import { cachedIn, cacheKept } from "akasha/check/modules/cache/check-cache.module.code.ts"
 import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { skimmedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
@@ -161,7 +162,46 @@ function fromOver(entry: string, edges: readonly Edge[]): ReadonlyMap<string, st
   return from
 }
 
+const SLUG = "extension-host-reaches-no-bun-code"
+
+const CHECK_CODE = "check-code"
+
+const PACKAGE = "package.json"
+
+function pageKeeping(shadow: Shadow): string | null {
+  return shadow.index.listedAt(CHECK_CODE, SLUG)[0]?.path ?? null
+}
+
+function keptIn(root: string, page: string): ReadonlySet<string> | null {
+  const rows = cachedIn(root, page)
+  if (rows === null) return null
+  const found = new Set<string>()
+  for (const row of rows) {
+    if (typeof row !== "string") return null
+    found.add(row)
+  }
+  return found
+}
+
+function couldTurn(change: Change, manifest: string, kept: ReadonlySet<string>): boolean {
+  for (const path of change.changed) {
+    if (path === manifest || kept.has(path)) return true
+    if (path === PACKAGE || path.endsWith(`/${PACKAGE}`)) return true
+  }
+  return false
+}
+
+function keeping(root: string, page: string, nodes: Iterable<string>): undefined {
+  const held = new Set<string>(keptIn(root, page) ?? [])
+  for (const one of nodes) held.add(one)
+  cacheKept(root, page, [...held].sort())
+  return undefined
+}
+
 export function refusalsOver(change: Change, shadow: Shadow, manifest: string): readonly Judged[] {
+  const page = pageKeeping(shadow)
+  const kept = page === null ? null : keptIn(change.root, page)
+  if (kept !== null && !couldTurn(change, manifest, kept)) return []
   const entry = entryIn(change, manifest)
   if (entry === null) {
     return [{ path: manifest, reason: `this names no entry, so what the host loads is unknown` }]
@@ -170,6 +210,7 @@ export function refusalsOver(change: Change, shadow: Shadow, manifest: string): 
     index: shadow.index,
     bodyAt: (path) => textIn(change, path),
   })
+  if (page !== null) keeping(change.root, page, taken.nodes)
   const from = fromOver(entry, taken.edges)
   const said: Judged[] = []
   for (const here of taken.nodes) {
