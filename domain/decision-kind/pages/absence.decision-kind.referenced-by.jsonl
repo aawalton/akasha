@@ -430,8 +430,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/modules/auth/auth.module.ts","id":"01a05c6d-3508-781d-8ca6-f6de618f4ea6"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.ts","id":"01a05c6d-350a-7a9e-b989-5c974158f6f9"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","id":"01a05c6d-3507-7082-9e71-8c024f532b00"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-server/modules/throwaway-user/throwaway-user.module.ts","id":"01a06583-0030-7003-b7d9-21d45fedb867"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-server/supabase-server.domain.ts","id":"01a05c75-8718-772e-bcdb-e24fb342750c"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/reading/surplus-reading.module.ts","id":"01a069bb-b921-759e-92f7-2095b2099a24"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts","id":"01a05fc3-145a-78a6-902f-ea39b8165c39"}
 {"propertySlug":"decision-kind","path":"alan/harness/voice-core/modules/estimate-marks/estimate-marks.module.ts","id":"01a05b55-e06e-753e-9209-b70e874274d3"}

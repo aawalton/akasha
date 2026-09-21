@@ -729,8 +729,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/protected-user/protected-user.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-auth/modules/user-id/user-id.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-server/modules/service-role/service-role.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/supabase-server/modules/throwaway-user/throwaway-user.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/fall-notifying/surplus-fall-notifying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts"}

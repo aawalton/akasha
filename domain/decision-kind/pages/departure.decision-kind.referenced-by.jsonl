@@ -969,9 +969,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/modules/claims/claims.module.ts","id":"01a05c6d-3509-7148-94be-e982b26664f6"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/modules/protected-user/protected-user.module.ts","id":"01a05c6d-3509-78ee-a418-3d1217065a1e"}
 {"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","id":"01a05c6d-3507-7082-9e71-8c024f532b00"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-server/modules/service-role/service-role.module.ts","id":"01a05c75-871a-75ee-b566-9d7b5f975f72"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-server/modules/throwaway-user/throwaway-user.module.ts","id":"01a06583-0030-7003-b7d9-21d45fedb867"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-server/supabase-server.domain.ts","id":"01a05c75-8718-772e-bcdb-e24fb342750c"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-notifying/surplus-fall-notifying.module.ts","id":"01a0686a-7a57-7e6e-8a26-5e4ca27ca43d"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.ts","id":"01a0697e-ded3-77d5-9cd4-07afe269931b"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts","id":"01a0697e-ded3-7147-92a2-3c8650eaf635"}
