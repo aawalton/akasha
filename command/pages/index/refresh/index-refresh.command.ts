@@ -116,6 +116,11 @@ export const indexRefresh = {
       decisionKind: "decision-kind/departure",
       statement: "A refresh commits every path under the index that git does not hold yet.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A refresh derives every file a type generator writes and weighs it against the pages.",
+    },
   ],
   name: "refresh",
   arguments: [{ argument: "argument/plan" }],

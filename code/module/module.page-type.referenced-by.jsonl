@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"page/index/modules/generator-turning/generator-turning.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/modules/shadow/shadow.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
@@ -2100,6 +2101,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/extension-carrying/extension-carrying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/file-appending/file-appending.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/generated-properties/generated-properties.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/generator-turning/generator-turning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/identifying/index-identifying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/identities/index-identities.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/index/modules/indexing/indexing.module.ts"}

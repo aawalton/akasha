@@ -119,6 +119,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/generator-turning/generator-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/modules/shadow/shadow.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/modules/shadow/shadow.module.test.ts"}

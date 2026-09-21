@@ -18,6 +18,7 @@ import { indexRefresh as page } from "akasha/command/pages/index/refresh/index-r
 import { committed } from "akasha/git/modules/committing/committing.module.code.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
+import { turnedWhole } from "akasha/page/index/modules/generator-turning/generator-turning.module.code.ts"
 import {
   type Refreshed,
   refreshedWhole,
@@ -44,6 +45,10 @@ const BY_THEN = "what it wrote by then:"
 const WROTE = "the index is brought level with the pages"
 
 const NOTHING_HELD = "nothing git holds of what was written differed, so no commit was made"
+
+const WEIGHED = "every file a type generator writes was weighed against the pages —"
+
+const UNWEIGHED = "a generated file was left unweighed —"
 
 const COMMITTING = new Map<string, string>([
   ["--message", "says what a commit is for, and a refresh writes its own"],
@@ -101,8 +106,9 @@ function refusing(said: readonly string[], code: number): Answer {
   return refusedBy([...said, UNCHANGED], code)
 }
 
-function pathOf(at: string): string {
-  return referencesFiled(at) || carriedFiled(at) ? at : join(indexNamed(), at)
+function pathOf(at: string, beside: ReadonlySet<string>): string {
+  if (beside.has(at) || referencesFiled(at) || carriedFiled(at)) return at
+  return join(indexNamed(), at)
 }
 
 const UNHELD = ["ls-files", "--others", "--exclude-standard", "-z", "--"]
@@ -114,10 +120,10 @@ function unheldUnder(root: string, folder: string): readonly string[] {
   return said === null ? [] : said.split(APART).filter((one) => one !== "")
 }
 
-function landed(root: string, said: Refreshed): string | null {
+function landed(root: string, said: Refreshed, beside: ReadonlySet<string>): string | null {
   const drift = said.drift
-  const took = new Set(drift.went.map(pathOf))
-  const wrote = new Set([...drift.added, ...drift.changed].map(pathOf))
+  const took = new Set(drift.went.map((one) => pathOf(one, beside)))
+  const wrote = new Set([...drift.added, ...drift.changed].map((one) => pathOf(one, beside)))
   for (const one of said.beside) wrote.add(one)
   for (const one of unheldUnder(root, indexNamed())) wrote.add(one)
   const split = heldBack(
@@ -150,11 +156,27 @@ function refreshing(root: string, read: { plan: boolean }, done: string[]): Answ
       OPERATIONAL
     )
   }
-  const said = refreshedWhole(root, tree, !read.plan, done)
-  const commit = read.plan ? null : landed(root, said)
+  const whole = refreshedWhole(root, tree, !read.plan, done)
+  const turned = turnedWhole(root, !read.plan)
+  const derived = new Set([...turned.added, ...turned.changed])
+  const said: Refreshed = {
+    ...whole,
+    drift: {
+      added: [...whole.drift.added, ...turned.added],
+      changed: [...whole.drift.changed, ...turned.changed],
+      went: whole.drift.went,
+    },
+    beside: [...whole.beside, ...derived],
+  }
+  const refused = [
+    ...said.refused.map((one) => `the index took less than the whole of it — ${one}`),
+    ...turned.refused.map((one) => `${UNWEIGHED} ${one}`),
+  ]
+  const commit = read.plan ? null : landed(root, said, derived)
   const report = [
     `the index was brought level with ${root} as it is, at ${head}`,
-    `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
+    `${counted(said.pages, "page")}, ${said.entries} entries, ${refused.length} refused`,
+    `${WEIGHED} ${counted(turned.weighed, "file")}`,
     ...driftSaid(said.drift),
   ]
   report.push(
@@ -165,11 +187,7 @@ function refreshing(root: string, read: { plan: boolean }, done: string[]): Answ
   if (!read.plan) {
     report.push(commit === null ? NOTHING_HELD : `what git holds of it was committed at ${commit}`)
   }
-  return answeredWith(
-    report,
-    said.refused.map((one) => `the index took less than the whole of it — ${one}`),
-    said.refused.length > 0 ? DATA : OK
-  )
+  return answeredWith(report, refused, refused.length > 0 ? DATA : OK)
 }
 
 export function indexRefresh(argv: readonly string[], given: Given): Answer {

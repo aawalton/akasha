@@ -41,6 +41,7 @@ export const index = {
     "module/tree-reading",
     "test-fixture/fixture-world",
     "text-property/index-name",
+    "module/generator-turning",
   ],
   extends: ["page-type/module"],
   properties: [

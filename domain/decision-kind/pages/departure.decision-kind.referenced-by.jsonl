@@ -2914,6 +2914,7 @@
 {"propertySlug":"decision-kind","path":"page/index/modules/extension-carrying/extension-carrying.module.ts","id":"01a09147-a806-78c9-8f27-bf82ebbd41f2"}
 {"propertySlug":"decision-kind","path":"page/index/modules/file-appending/file-appending.module.ts","id":"01a09279-a78b-7751-be07-d9dfc607cbc3"}
 {"propertySlug":"decision-kind","path":"page/index/modules/generated-properties/generated-properties.module.ts","id":"01a04f2b-3d23-790e-b2f2-a9b1e6846e6f"}
+{"propertySlug":"decision-kind","path":"page/index/modules/generator-turning/generator-turning.module.ts","id":"01a0c56e-254b-73b1-bdd7-580d3e3d7d5e"}
 {"propertySlug":"decision-kind","path":"page/index/modules/identifying/index-identifying.module.ts","id":"01a0a55d-2c78-7d82-a849-3548cc1bb124"}
 {"propertySlug":"decision-kind","path":"page/index/modules/identities/index-identities.module.ts","id":"01a0a55d-2c78-7c53-87cd-08cb21c485ff"}
 {"propertySlug":"decision-kind","path":"page/index/modules/indexing/indexing.module.ts","id":"01a04a62-b0ad-71cf-ae80-7af5dfb84ffd"}
