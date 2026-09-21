@@ -20,5 +20,15 @@ export const leveling = {
       decisionKind: "decision-kind/departure",
       statement: "Three attribute points come with each level won.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "No experience is counted, the floor cleared being the whole of what raises a level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A level is the third way a climber grows, beside the skill rungs and the affinity tiers.",
+    },
   ],
 } as const satisfies GameMechanic
