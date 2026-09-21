@@ -11,6 +11,9 @@ export const gamePanel = {
     "game-panel/tower-hud",
     "module/pool-panel",
     "game-panel/hotel-hud",
+    "game-panel/character-sheet",
+    "game-panel/quest-list",
+    "game-panel/story-so-far",
   ],
   decisions: [
     {
