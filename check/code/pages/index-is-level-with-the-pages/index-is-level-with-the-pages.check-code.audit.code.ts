@@ -23,6 +23,10 @@ const MORTAL = "mortal"
 
 const SLUG = "slug"
 
+const BESIDE = "."
+
+const HELD = "ts"
+
 export type Reconciling = (root: string) => Drifted
 
 export type Committing = (root: string) => string
@@ -62,6 +66,14 @@ const writing: Writing = (root) =>
     .filter((one) => one !== "")
     .map((one) => pathOf(one))
 
+export function typeNaming(path: string): string {
+  const parted = partedIn(path)
+  if (parted !== null) return parted.pageType
+  const cut = path.lastIndexOf(BESIDE)
+  if (cut === NOWHERE) return ""
+  return partedIn(`${path.slice(0, cut)}${BESIDE}${HELD}`)?.pageType ?? ""
+}
+
 function dyingUnder(root: string): Dies {
   const gone = new Set<string>()
   for (const one of valuesOfType(root, PAGE_TYPE)) {
@@ -70,7 +82,7 @@ function dyingUnder(root: string): Dies {
     if (held[MORTAL] !== true || typeof slug !== "string") continue
     gone.add(slug)
   }
-  return (path) => gone.has(partedIn(path)?.pageType ?? "")
+  return (path) => gone.has(typeNaming(path))
 }
 
 export function livingIn(drift: Drifted, dies: Dies): Drifted {

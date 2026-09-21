@@ -3,6 +3,7 @@ import {
   indexIsLevelWithThePages,
   livingIn,
   pathOf,
+  typeNaming,
 } from "akasha/check/code/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.check-code.audit.code.ts"
 
 const ROOT = "/repo"
@@ -170,4 +171,17 @@ test("a mortal page is read out of every drift the reconcile names", () => {
 test("a page type that is not mortal is read out of no drift", () => {
   const drift = { added: ["path/checks/one.ts.jsonl"], changed: [], went: [] }
   expect(livingIn(drift, lives)).toEqual(drift)
+})
+
+test("a file beside a page names that page's type though its own last part is hyphenated", () => {
+  expect(typeNaming("seat/pages/aine/aine.seat.ts")).toBe("seat")
+  expect(typeNaming("seat/pages/aine/aine.seat.referenced-by")).toBe("seat")
+  expect(typeNaming("seat/pages/aine/aine.seat.carried")).toBe("seat")
+  expect(typeNaming("domain/module/module.page-type.referenced-by")).toBe("page-type")
+})
+
+test("a name no page type is read out of answers no type", () => {
+  expect(typeNaming("checks/one.ts")).toBe("")
+  expect(typeNaming("checks")).toBe("")
+  expect(typeNaming("checks/one.THING.referenced-by")).toBe("")
 })

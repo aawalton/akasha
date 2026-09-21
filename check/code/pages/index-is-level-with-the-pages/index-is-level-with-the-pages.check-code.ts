@@ -72,7 +72,16 @@ export const indexIsLevelWithThePages = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A file beside a page says that page's type, whatever the file's own last part is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A mortal page is written and taken away as the agents run rather than drifted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every file a mortal page carries moves as that page does, so each is spared too.",
     },
     {
       decisionKind: "decision-kind/departure",
