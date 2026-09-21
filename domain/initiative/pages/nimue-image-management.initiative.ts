@@ -38,6 +38,11 @@ export const nimueImageManagement = {
       workingMemory:
         "Not met, and not worked before the migration above. `/api/image/:imageId` serves 37 persona covers, 112 generation-log rows and 14 food entries out of the SeaweedFS bucket `agent-sessions` under `images/<pageId>.png`, with a legacy `persona-images/` prefix costing a third HEAD on every miss. 54 committed pages hold a literal `/api/image/<uuid>` in `cover`, and `PageCover` writes an arbitrary pasted URL into that same field.",
     },
+    {
+      statement: "An image states the grade Alan marked it.",
+      workingMemory:
+        "`grade` is already a rank property, `Alan's mark for how well a picture caught the persona`, on a ladder from F to S+. It is declared on `persona-anchor-image` alone, and `image.page-type.ts` declares no properties at all. Alan's word for this is rating and the repository's word is grade; one name is kept rather than two, so grade is the name.",
+    },
   ],
   constraints: [
     "An image's bytes are a file property akasha does not commit, and the image's page is committed.",
