@@ -1613,7 +1613,6 @@
 {"propertySlug":"decision-kind","path":"code/browser/test-harness/browser-test-harness.domain.ts","id":"01a05ca9-d801-7799-a4a3-de2a41d35502"}
 {"propertySlug":"decision-kind","path":"code/browser/test-harness/modules/console-capture/console-capture.module.ts","id":"01a05ca9-d802-7e8d-8a1c-61187202e954"}
 {"propertySlug":"decision-kind","path":"code/browser/test-harness/modules/deployed-render-check/deployed-render-check.module.ts","id":"01a05ca9-d802-795d-ac6f-ca68611372b6"}
-{"propertySlug":"decision-kind","path":"code/browser/test-harness/modules/target-guard/target-guard.module.ts","id":"01a05ca9-d804-71ee-aeea-ce444d2f6275"}
 {"propertySlug":"decision-kind","path":"code/component-property-group/component-property-group.page-type.ts","id":"01a09c84-34f2-7b18-839c-48ef7ff084e7"}
 {"propertySlug":"decision-kind","path":"code/component/component.page-type.ts","id":"01a071cb-913c-7e3f-9698-f5f4a5019a9c"}
 {"propertySlug":"decision-kind","path":"code/component/properties/component-code.code-file-property.ts","id":"01a071cb-913e-7640-a55f-ecae5999419f"}

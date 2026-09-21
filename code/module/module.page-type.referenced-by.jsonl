@@ -976,10 +976,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/console-capture/console-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/deployed-render-check/deployed-render-check.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/harness-launch/harness-launch.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/prewarm/prewarm.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/read-only-harness/read-only-harness.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/target-guard/target-guard.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/worktree-git-facts/worktree-git-facts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/activation/activation.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/agent-page-opening/agent-page-opening.module.ts"}
