@@ -15,6 +15,12 @@ import {
   requestRefreshIfNeeded,
 } from "akasha/temper/addon/pages/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
 import { setupTooltips } from "akasha/temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-tooltips/addon-menu-widget-dropdown-tooltips.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-combobox/addon-menu-eso-combobox.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-controls/addon-menu-eso-controls.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 
 export const SORT_BY_VALUE: Record<string, unknown> = { value: {} }
 
