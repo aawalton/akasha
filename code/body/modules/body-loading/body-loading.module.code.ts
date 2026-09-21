@@ -94,25 +94,55 @@ function claiming(root: string, full: string): undefined {
   })
 }
 
-function loadedOver(root: string, full: string, bodies: ReadonlyMap<string, string>): Held {
-  if (typeof Bun === "undefined") throw new Error(NO_PLUGIN)
+const NOTHING: ReadonlyMap<string, string> = new Map()
+
+const KEPT: { change: Change | null; bodies: ReadonlyMap<string, string> } = {
+  change: null,
+  bodies: NOTHING,
+}
+
+function closing(root: string): undefined {
+  for (const path of KEPT.bodies.keys()) bodyHeld.delete(path)
+  KEPT.change = null
+  KEPT.bodies = NOTHING
+  forgottenUnder(root)
+  return undefined
+}
+
+function keeping(change: Change, bodies: ReadonlyMap<string, string>): undefined {
+  if (KEPT.change === change) return undefined
+  closing(change.root)
   for (const [path, body] of bodies) {
     bodyHeld.set(path, body)
-    claiming(root, path)
+    claiming(change.root, path)
   }
-  forgottenUnder(root)
-  try {
-    return loadFrom(full) as Held
-  } finally {
-    for (const path of bodies.keys()) bodyHeld.delete(path)
-    forgottenUnder(root)
-  }
+  KEPT.change = change
+  KEPT.bodies = bodies
+  return undefined
 }
 
 export function heldOver(change: Change, at: string, body: string | null): Held {
   const full = join(change.root, at)
-  const bodies = new Map(bodiesIn(change))
-  if (body !== null) bodies.set(full, body)
-  if (bodies.size === 0) return loadFrom(full) as Held
-  return loadedOver(change.root, full, bodies)
+  const bodies = bodiesIn(change)
+  if (bodies.size === 0 && body === null) {
+    if (KEPT.change !== null) closing(change.root)
+    return loadFrom(full) as Held
+  }
+  if (typeof Bun === "undefined") throw new Error(NO_PLUGIN)
+  keeping(change, bodies)
+  if (body !== null) {
+    bodyHeld.set(full, body)
+    claiming(change.root, full)
+  }
+  forgotten(full)
+  try {
+    return loadFrom(full) as Held
+  } finally {
+    forgotten(full)
+    if (body !== null) {
+      const held = bodies.get(full)
+      if (held === undefined) bodyHeld.delete(full)
+      else bodyHeld.set(full, held)
+    }
+  }
 }

@@ -59,12 +59,21 @@ export const bodyLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The body is dropped once the code is loaded from that body.",
+      statement:
+        "The bodies one change leaves are kept while the loads keep coming for that change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body handed in for one load alone is dropped once that load is done.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every module cached under the repository is dropped before and after a load from a body.",
+        "Every module cached under the repository is dropped where a load comes for another change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The path being loaded is dropped from the cache before and after that load.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -72,7 +81,7 @@ export const bodyLoading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A change carrying no code file drops a cached module.",
+      statement: "No load for the change whose bodies are kept drops what an earlier load cached.",
     },
     {
       decisionKind: "decision-kind/departure",
