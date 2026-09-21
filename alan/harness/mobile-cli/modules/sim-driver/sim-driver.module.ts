@@ -18,8 +18,8 @@ export const simDriver = {
         "A recorded session whose base and udid match is reused where the recorded session still answers.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The auth session is written into localStorage before the route is assigned.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here signs anybody in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,8 +43,7 @@ export const simDriver = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The loading, the opening, the signing in, the scripting and the saving are handed in.",
+      statement: "The loading, the opening, the scripting and the saving are handed in.",
     },
     {
       decisionKind: "decision-kind/departure",

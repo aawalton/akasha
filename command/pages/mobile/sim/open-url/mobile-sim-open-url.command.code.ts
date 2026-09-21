@@ -8,7 +8,6 @@ import {
 import { loadSessionState } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { app } from "akasha/command/argument/pages/app.argument.ts"
-import { asRealUser } from "akasha/command/argument/pages/as-real-user.argument.ts"
 import { kbDebug } from "akasha/command/argument/pages/kb-debug.argument.ts"
 import { route } from "akasha/command/argument/pages/route.argument.ts"
 import { udid as udidArgument } from "akasha/command/argument/pages/udid.argument.ts"
@@ -21,13 +20,12 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mobileSimOpenUrl as page } from "akasha/command/pages/mobile/sim/open-url/mobile-sim-open-url.command.ts"
 
-const TAKES = [app, udidArgument, route, kbDebug, asRealUser]
+const TAKES = [app, udidArgument, route, kbDebug]
 
 export type Read = {
   readonly app: MobileApp
   readonly route: string
   readonly kbDebug: boolean
-  readonly asRealUser: boolean
   readonly udid: string | undefined
 }
 
@@ -43,7 +41,6 @@ async function opened(done: string[], read: Read): Promise<Answer> {
       bundleId: read.app.bundleId,
       route: read.route,
       kbDebug: read.kbDebug,
-      asRealUser: read.asRealUser,
     },
     done
   )
@@ -53,7 +50,6 @@ async function opened(done: string[], read: Read): Promise<Answer> {
       ["udid", state.udid],
       ["context", state.webviewContext],
       ["route", state.route],
-      ["as", read.asRealUser ? "Alan, for reading only" : "the throwaway"],
     ])
   )
 }
@@ -72,7 +68,6 @@ export async function mobileSimOpenUrl(
     app: held,
     route: taken.route,
     kbDebug: taken.kbDebug,
-    asRealUser: taken.asRealUser,
     udid: taken.udid,
   }
   return await answering(async (done) => await routing(done, read))

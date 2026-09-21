@@ -349,6 +349,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/ios-program-components/ios-program-components.module.ts","id":"01a05cee-e560-7f62-99a4-8df3cd92480b"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/macbook-target/macbook-target.module.ts","id":"01a05cee-e560-7367-9a9b-49ae85f1844f"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.ts","id":"01a05cee-e560-793f-a803-19a1b3c458ac"}
+{"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.ts","id":"01a05cee-e560-7b19-818c-dae87acdf7de"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.ts","id":"01a05cee-e560-74ed-a1cf-c9f340983fda"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/ssh-delivery/ssh-delivery.module.ts","id":"01a05cee-e560-75d3-9a15-b030e7638a12"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.ts","id":"01a0611b-8cc6-7a38-9968-530fd511dd04"}
@@ -1210,6 +1211,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/mobile/sim/boot/mobile-sim-boot.command.ts","id":"01a0685d-ceae-7006-9cff-358159094688"}
 {"propertySlug":"decision-kind","path":"command/pages/mobile/sim/eval/mobile-sim-eval.command.ts","id":"01a0685d-ceae-7007-b4f3-e21611c10292"}
 {"propertySlug":"decision-kind","path":"command/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.ts","id":"01a0685d-ceae-7008-b721-3b37d87dca97"}
+{"propertySlug":"decision-kind","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.ts","id":"01a0685d-ceae-7009-892c-425eee9c835b"}
 {"propertySlug":"decision-kind","path":"command/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.ts","id":"01a0685d-ceae-700b-913b-dbf3c509a388"}
 {"propertySlug":"decision-kind","path":"command/pages/mobile/sim/status/mobile-sim-status.command.ts","id":"01a0685d-ceae-700c-9489-e7e3a1062803"}
 {"propertySlug":"decision-kind","path":"command/pages/mobile/sim/tap/mobile-sim-tap.command.ts","id":"01a0685d-ceae-700d-a860-a518622e0d4a"}

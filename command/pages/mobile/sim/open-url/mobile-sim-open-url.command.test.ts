@@ -89,5 +89,5 @@ test("a flag this takes no argument at is refused by name", async () => {
 
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--bogus")
-  expect(said.refusals[0]).toContain("--as-real-user")
+  expect(said.refusals[0]).toContain("--kb-debug")
 })

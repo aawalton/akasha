@@ -7,14 +7,6 @@ import {
   pickWebviewContext,
   setContext,
 } from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
-import type { MintedSession } from "akasha/alan/harness/mobile-cli/modules/sim-auth/sim-auth.module.code.ts"
-import {
-  mintRealUserSession,
-  mintThrowawaySession,
-  readRealUserSimAuthEnv,
-  readSimAuthEnv,
-  SUPABASE_STORAGE_KEY,
-} from "akasha/alan/harness/mobile-cli/modules/sim-auth/sim-auth.module.code.ts"
 import {
   buildSimCapabilities,
   loadSessionState,
@@ -93,7 +85,6 @@ export type Opening = {
   readonly created: (base: string, capabilities: unknown) => Promise<string>
   readonly dismissed: (base: string, sessionId: string) => Promise<unknown>
   readonly acquired: (base: string, sessionId: string) => Promise<string>
-  readonly minted: (asRealUser: boolean) => Promise<MintedSession>
   readonly scripted: (
     base: string,
     sessionId: string,
@@ -109,10 +100,6 @@ const OPENING: Opening = {
   created: createSession,
   dismissed: dismissAlert,
   acquired: acquireWebview,
-  minted: (asRealUser) =>
-    asRealUser
-      ? mintRealUserSession(readRealUserSimAuthEnv())
-      : mintThrowawaySession(readSimAuthEnv()),
   scripted: executeScript,
   saved: saveSessionState,
 }
@@ -121,13 +108,6 @@ export function sessionSaid(sessionId: string): string {
   return `opened the Appium session ${sessionId}, which nothing has written down yet`
 }
 
-export function signedInSaid(asRealUser: boolean): string {
-  const who = asRealUser ? "Alan, for reading only" : "the throwaway"
-  return `signed in as ${who}, so that sign-in is live`
-}
-
-export const STORED = "put that sign-in into the app's storage"
-
 export async function openSession(
   opts: {
     readonly base: string
@@ -135,7 +115,6 @@ export async function openSession(
     readonly bundleId: string
     readonly route: string
     readonly kbDebug: boolean
-    readonly asRealUser: boolean
   },
   done: string[] = [],
   opening: Opening = OPENING
@@ -168,15 +147,6 @@ export async function openSession(
 
   await opening.acquired(opts.base, sessionId)
 
-  const minted = await opening.minted(opts.asRealUser)
-  done.push(signedInSaid(opts.asRealUser))
-  await opening.scripted(
-    opts.base,
-    sessionId,
-    "window.localStorage.setItem(arguments[0], arguments[1]); return true;",
-    [SUPABASE_STORAGE_KEY, JSON.stringify(minted.session)]
-  )
-  done.push(STORED)
   try {
     await opening.scripted(opts.base, sessionId, "window.location.assign(arguments[0]);", [url])
   } catch {}

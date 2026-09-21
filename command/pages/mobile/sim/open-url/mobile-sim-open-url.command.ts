@@ -14,16 +14,8 @@ export const mobileSimOpenUrl = {
       statement: "A session already there on the same simulator is reused.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "An identity is put in before a route is navigated to.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A call saying nothing about identity signs in as the throwaway.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "Nothing is changed through Alan's own identity.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here signs anybody in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,6 +46,5 @@ export const mobileSimOpenUrl = {
     { argument: "argument/udid" },
     { argument: "argument/route", required: true, saidAs: "flag-or-word" },
     { argument: "argument/kb-debug" },
-    { argument: "argument/as-real-user" },
   ],
 } as const satisfies Command
