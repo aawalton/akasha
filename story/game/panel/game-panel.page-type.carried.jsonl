@@ -8,4 +8,5 @@
 {"schema":"jsonl"}
 {"slug":"game-panel"}
 {"type":"page-type/page-type"}
+{"typeGenerator":"ts"}
 {"types":"ts"}

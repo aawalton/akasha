@@ -237,6 +237,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/page-type.page-type.type-generator.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"story/game/panel/game-panel.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.test-fixtures.ts","path":"page/modules/shadow/shadow.module.test.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

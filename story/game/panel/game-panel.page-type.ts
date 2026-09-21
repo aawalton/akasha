@@ -40,4 +40,5 @@ export const gamePanel = {
   schema: "jsonl",
   loadedExport: ["Panel"],
   properties: [{ pageProperty: "file-property/drawn", required: false, many: false }],
+  typeGenerator: "ts",
 } as const satisfies PageType
