@@ -3214,6 +3214,7 @@
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/contributor-email-hash.text-property.ts","id":"01a0ba90-7481-7416-9833-84de20e54722"}
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/stripe-charge-id.text-property.ts","id":"01a0ba91-c1b5-7a3f-86a1-3c43bcfcbb7c"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/feature-request.page-type.ts","id":"01a0b79b-96bb-779c-bc1e-65ffdce6bfe0"}
+{"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/listing/feature-request-listing.module.ts","id":"01a0c4bc-f055-7d82-8adf-7995b3cedca4"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.ts","id":"01a0c4b2-cf45-7ceb-8448-9eb1b945d7ad"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-backing.record-property.ts","id":"01a0c4a7-faa9-7331-b4f4-8698261e526d"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts","id":"01a0c4a6-ca45-7fb5-9213-210805796619"}
