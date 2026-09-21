@@ -11,7 +11,7 @@ An identity-recovery anchor is an account whose control determines authenticatio
 
 This is a cascading dependency, but a specific kind. Generic cascading dependency is "switching A requires switching B." The recovery-anchor shape adds direction: the anchor account is upstream of a fan-out of accounts, and the dependency runs *toward* the anchor. That direction is what makes it load-bearing — and what makes it the maximum-dependency, low-trust spot in my graph.
 
-For me, that anchor is Gmail. It sits at the maximum-dependency spot precisely *because* everything is tied through it. Its graded entry as a SaaS dependency lives in [software-and-saas.md → Gmail](software-and-saas.book-chapter.md#gmail-google) (D, on Google's behavior as parent); this note is the framework home for the anchor pattern itself.
+For me, that anchor is Gmail. It sits at the maximum-dependency spot precisely *because* everything is tied through it. Its graded entry as a SaaS dependency lives in [software-and-saas.md → Gmail](book-section/all-about-alan/software-and-saas#gmail-google) (D, on Google's behavior as parent); this note is the framework home for the anchor pattern itself.
 
 ## Two distinct jobs, separable
 
@@ -25,7 +25,7 @@ On this one I'm genuinely stuck, and I've stopped fighting it:
 
 > "there really isn't a viable alternative for OAuth. Google is still the most universal, so I put up with it."
 
-This lands in the **accept bucket**, not the refuse bucket. There is no viable alternative, so I stop spending energy resenting it and carry the cost. The accept/refuse split is the same move the framework makes elsewhere — when no exit exists, the right posture is conscious acceptance, not standing frustration. (The grade-level analog is the D tier in [grading-scale.md → D](grading-scale.book-chapter.md#d--clear-misalignment-but-tolerable): "I see the problem, I am consciously accepting the cost of staying.")
+This lands in the **accept bucket**, not the refuse bucket. There is no viable alternative, so I stop spending energy resenting it and carry the cost. The accept/refuse split is the same move the framework makes elsewhere — when no exit exists, the right posture is conscious acceptance, not standing frustration. (The grade-level analog is the D tier in [grading-scale.md → D](book-section/all-about-alan/grading-scale#d--clear-misalignment-but-tolerable): "I see the problem, I am consciously accepting the cost of staying.")
 
 ### 2. Recovery anchor — the part I want to replace
 

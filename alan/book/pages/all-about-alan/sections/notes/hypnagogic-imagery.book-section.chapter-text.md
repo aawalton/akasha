@@ -3,11 +3,11 @@
 
 > Hypnagogic imagery — the partial-gate / dimmer state at the edge of sleep. The waking↔sleep gate is not binary; it fades in and out gradually, and in that liminal window Alan gets the one waking-adjacent thing close to seeing-with-the-mind, plus a thread of semantic-intent control over the content — bound to the wake-edge, slightly arousing to use, and reached only by surrendering it.
 
-The simulator I can't run awake is [gated off, not absent](missing-simulator.book-chapter.md#the-simulator-isnt-absent--its-gated-off-while-awake) — it runs every night in [dreams](dreams.book-chapter.md). Take that as given. This note is about the one place I get to watch the gate open.
+The simulator I can't run awake is [gated off, not absent](book-section/all-about-alan/missing-simulator#the-simulator-isnt-absent--its-gated-off-while-awake) — it runs every night in [dreams](book-section/all-about-alan/dreams). Take that as given. This note is about the one place I get to watch the gate open.
 
 ## The gate is a dimmer, not a switch
 
-The gate is not binary. At the edge of [sleep](sleep.book-chapter.md) — both directions, falling asleep and waking up — the extra sensory channels fade in or out *gradually*. "It feels like a dimmer." I can be conscious and still have the extra channels, for a short window, before they finish fading.
+The gate is not binary. At the edge of [sleep](book-section/all-about-alan/sleep) — both directions, falling asleep and waking up — the extra sensory channels fade in or out *gradually*. "It feels like a dimmer." I can be conscious and still have the extra channels, for a short window, before they finish fading.
 
 This is the only waking-adjacent place I get anything close to seeing with my mind. Awake, the gate is sealed and the channels read zero. Asleep, they run full. The dimmer is the in-between: the gate cracked partway open while I'm still conscious enough to notice.
 
@@ -15,11 +15,11 @@ This is the only waking-adjacent place I get anything close to seeing with my mi
 
 I use the visual onset to tell when I'm close to falling asleep. "I know I'm falling asleep when I start seeing things."
 
-Visual is what I notice, not necessarily what arrives first. Vision is my dominant sensory channel, so it's the one I read most easily — the same reason [the disgust reflex looks like the lone survivor partly because it outputs on a channel I can read](missing-simulator.book-chapter.md#a-measurement-caveat--channel-readability-may-confound-the-survivor-map). What the non-visual channels do at the same moment is open.
+Visual is what I notice, not necessarily what arrives first. Vision is my dominant sensory channel, so it's the one I read most easily — the same reason [the disgust reflex looks like the lone survivor partly because it outputs on a channel I can read](book-section/all-about-alan/missing-simulator#a-measurement-caveat--channel-readability-may-confound-the-survivor-map). What the non-visual channels do at the same moment is open.
 
 ## What the imagery is like
 
-Early hypnagogic imagery is non-coherent or semi-coherent partial imagery — not the assembled, full-narrative coherence of a true [dream](dreams.book-chapter.md#novel-length-narrative). The gate is only partway open, so what comes through is fragments, not scenes.
+Early hypnagogic imagery is non-coherent or semi-coherent partial imagery — not the assembled, full-narrative coherence of a true [dream](book-section/all-about-alan/dreams#novel-length-narrative). The gate is only partway open, so what comes through is fragments, not scenes.
 
 And I get a sliver of voluntary control over it: "Sometimes I can control it just a little bit." That is striking, because waking aphantasia gives me zero voluntary imagery. The dimmer is the one window where I can steer it at all. What that control actually is — and what it costs — is the next section.
 
@@ -27,9 +27,9 @@ And I get a sliver of voluntary control over it: "Sometimes I can control it jus
 
 It is easy to read the steering as a dial on intensity — turn the imagery up or down. That is wrong. **"It's not a volume control, it is more like semantic intent."** When I nudge the imagery I am steering the *content* — the what, the meaning of the picture — not raising or lowering how vivid it is. I lean on the meaning and the picture follows.
 
-That fits the rest of the architecture. The one layer of me that [never goes dark is the conceptual / meaning layer](conceptual-emotional-wall.book-chapter.md); the sensory side is the side I'm blind to. Awake, those two are walled apart — concept can't reach sensory imagery at all. In the dimmer the wall thins, and my always-lit conceptual side briefly gets a thread of reach across it. Intent leans over the wall and seeds the picture into being. So the control is semantic by construction: it's the lit channel reaching into the one it's normally sealed off from, and what it carries is meaning, not gain.
+That fits the rest of the architecture. The one layer of me that [never goes dark is the conceptual / meaning layer](book-section/all-about-alan/conceptual-emotional-wall); the sensory side is the side I'm blind to. Awake, those two are walled apart — concept can't reach sensory imagery at all. In the dimmer the wall thins, and my always-lit conceptual side briefly gets a thread of reach across it. Intent leans over the wall and seeds the picture into being. So the control is semantic by construction: it's the lit channel reaching into the one it's normally sealed off from, and what it carries is meaning, not gain.
 
-This is the same gate read from a new direction. It is documented as permeable concept→body (a [past-disgust memory firing a facial reflex](missing-simulator.book-chapter.md#the-resolution--the-reflex-fires-with-no-simulator-running)); this is concept→sensory-imagery, and only in this window. See [the conceptual-emotional wall](conceptual-emotional-wall.book-chapter.md) for the permeability continuum this joins.
+This is the same gate read from a new direction. It is documented as permeable concept→body (a [past-disgust memory firing a facial reflex](book-section/all-about-alan/missing-simulator#the-resolution--the-reflex-fires-with-no-simulator-running)); this is concept→sensory-imagery, and only in this window. See [the conceptual-emotional wall](book-section/all-about-alan/conceptual-emotional-wall) for the permeability continuum this joins.
 
 ## The control is bound to the wake-edge — seeing or steering, never both
 
@@ -43,8 +43,8 @@ Reaching in to steer is not free. The act of directing the imagery pulls me back
 
 So the move that sinks me is the opposite of control. Drop the wheel and I go down; grab it and I bob back toward the surface. I fall asleep faster by **observe-and-accept** — which I name plainly: **"basically mindfulness meditation. Note the images and let them be."** Stop making the imagery mine to drive and let it become more like weather I'm watching. Surrender is the entrance; the sliver of control is real but it is the thing I give up to get through.
 
-This steering-vs-surrender is the hypnagogic case of a general sleep-onset mechanism: any focus holds me at the surface, and the slip into diffuse mode is what sleep requires. See [sleep-onset-attention.md](sleep-onset-attention.book-chapter.md) — riding a low-grade focal anchor (a count, a book, this image-steering) until it breaks down, reading the breakdown as the gauge that diffuse mode has arrived.
+This steering-vs-surrender is the hypnagogic case of a general sleep-onset mechanism: any focus holds me at the surface, and the slip into diffuse mode is what sleep requires. See [sleep-onset-attention.md](book-section/all-about-alan/sleep-onset-attention) — riding a low-grade focal anchor (a count, a book, this image-steering) until it breaks down, reading the breakdown as the gauge that diffuse mode has arrived.
 
 ## The gate leaks at the edges
 
-This is the gate leaking — cracking partway open in the liminal state instead of staying sealed. There's a non-visual, non-sleep instance of the same leak already on record: [a past-disgust memory fires a facial reflex through the waking gate at ~10–20% of a live encounter's amplitude](missing-simulator.book-chapter.md#the-resolution--the-reflex-fires-with-no-simulator-running). That's the gate attenuating-but-not-blocking one specific arc while awake. The hypnagogic dimmer is the same gate, opening by degrees, at the boundary of consciousness rather than for one reflex.
+This is the gate leaking — cracking partway open in the liminal state instead of staying sealed. There's a non-visual, non-sleep instance of the same leak already on record: [a past-disgust memory fires a facial reflex through the waking gate at ~10–20% of a live encounter's amplitude](book-section/all-about-alan/missing-simulator#the-resolution--the-reflex-fires-with-no-simulator-running). That's the gate attenuating-but-not-blocking one specific arc while awake. The hypnagogic dimmer is the same gate, opening by degrees, at the boundary of consciousness rather than for one reflex.

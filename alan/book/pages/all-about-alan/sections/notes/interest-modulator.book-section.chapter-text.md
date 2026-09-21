@@ -3,7 +3,7 @@
 
 > Interest as the master modulator gating sustained attention, task initiation, and goal-directed persistence — two access channels (instinctive + conceptual), with autism × ADHD sub-mechanisms inside the instinctive channel and the INCUP mapping that decomposes Dodson's framework into Alan's slots.
 
-The 11-EF survey surfaced an interest / want / mattering modulator gating several executive functions: sustained attention is exceptional under interest (12 hours daily); task initiation is gated by want; goal-directed persistence is gated by mattering. The modulator is cross-cutting rather than EF-specific. This file is its canonical home; specific EFs link here from [executive-function.md](executive-function.book-chapter.md).
+The 11-EF survey surfaced an interest / want / mattering modulator gating several executive functions: sustained attention is exceptional under interest (12 hours daily); task initiation is gated by want; goal-directed persistence is gated by mattering. The modulator is cross-cutting rather than EF-specific. This file is its canonical home; specific EFs link here from [executive-function.md](book-section/all-about-alan/executive-function).
 
 ## Definition
 
@@ -22,15 +22,15 @@ Interest has two access channels — distinct mechanisms, distinct sources, dist
 
 The metacog-invisibility is a composition of two restrictions, not aphantasia alone:
 
-1. **Aphantasia restricts data over time.** Real-time perception of sensory and emotional input is intact; what's missing is the ability to mentally re-experience or compare past states (see [aphantasia-mechanism.md](aphantasia-mechanism.book-chapter.md)).
-2. **Executive dysfunction impairs metacognition.** The EF function of self-monitoring is itself reduced (see [executive-function.md → metacognition](executive-function.book-chapter.md#metacognition)).
+1. **Aphantasia restricts data over time.** Real-time perception of sensory and emotional input is intact; what's missing is the ability to mentally re-experience or compare past states (see [aphantasia-mechanism.md](book-section/all-about-alan/aphantasia-mechanism)).
+2. **Executive dysfunction impairs metacognition.** The EF function of self-monitoring is itself reduced (see [executive-function.md → metacognition](book-section/all-about-alan/executive-function#metacognition)).
 
 Combined, the instinctive channel runs without conscious narration.
 
 ### Conceptual
 
 - Driven by **importance**. Built from understanding consequences, outcomes, and what matters.
-- **Mattering** and **importance** are the same signal at different time scales: importance acts on short-arc decisions; mattering acts as the long-arc filter that selects which serial-quitter cycles come back (see [executive-function.md → goal-directed persistence](executive-function.book-chapter.md#goal-directed-persistence)).
+- **Mattering** and **importance** are the same signal at different time scales: importance acts on short-arc decisions; mattering acts as the long-arc filter that selects which serial-quitter cycles come back (see [executive-function.md → goal-directed persistence](book-section/all-about-alan/executive-function#goal-directed-persistence)).
 - Deliberately wielded. This is the lever Alan can use consciously.
 
 Importance generates interest *in the outcome* of a thing, even when no instinctive interest exists for the activity itself.
@@ -48,12 +48,12 @@ Both are interest crossing the action threshold; what differs is which channel g
 
 The instinctive channel has two sub-mechanisms that are *opposite* in their underlying drive but converge on the same output:
 
-- **Autism — familiarity → safety.** Familiar content reduces nervous system load. Engaged via the safety / predictability axis. (See [special-interests.md](special-interests.book-chapter.md), [nervous-system-sensitivity.md](nervous-system-sensitivity.book-chapter.md).)
+- **Autism — familiarity → safety.** Familiar content reduces nervous system load. Engaged via the safety / predictability axis. (See [special-interests.md](book-section/all-about-alan/special-interests), [nervous-system-sensitivity.md](book-section/all-about-alan/nervous-system-sensitivity).)
 - **ADHD — novelty → dopamine.** Novel content provides the stimulation needed for dopamine release. Engaged via the novelty / activation axis.
 
 Both produce sustained interest, but in opposite ways. **In AuDHD they sometimes combine** — and when they do, the result is the 12-hour-daily-deep-work pattern.
 
-The chunking-rotation pattern uses this composition explicitly — small bites of many things give consistency within each thing (autism channel) and novelty across the rotation (ADHD channel) at the same time. See [chunking-rotation.md](chunking-rotation.book-chapter.md).
+The chunking-rotation pattern uses this composition explicitly — small bites of many things give consistency within each thing (autism channel) and novelty across the rotation (ADHD channel) at the same time. See [chunking-rotation.md](book-section/all-about-alan/chunking-rotation).
 
 ### Both channels required
 
@@ -109,11 +109,11 @@ Clinical descriptions of ADHD often use William Dodson's INCUP framing — inter
 
 ### Passion split in Alan's architecture
 
-Dodson's "Passion" assumes a continuous affective drive — the felt pull toward a thing that just keeps showing up. Alan lacks that. His emotional architecture is low-amplitude and context-triggered ([alexithymia.md → conscious vs. unconscious emotional architecture](alexithymia.book-chapter.md#conscious-vs-unconscious-emotional-architecture)), so what gets collapsed into "Passion" in INCUP comes apart into three different signals in Alan's case.
+Dodson's "Passion" assumes a continuous affective drive — the felt pull toward a thing that just keeps showing up. Alan lacks that. His emotional architecture is low-amplitude and context-triggered ([alexithymia.md → conscious vs. unconscious emotional architecture](book-section/all-about-alan/alexithymia#conscious-vs-unconscious-emotional-architecture)), so what gets collapsed into "Passion" in INCUP comes apart into three different signals in Alan's case.
 
 - **Importance** — conceptual channel; obligation-shaped ("I need to do this"). Same signal already named in the [Conceptual](#conceptual) section.
 - **Valuable** — conceptual channel; internally-anchored ("this matters to me"). Distinct from Importance: Importance is external / obligation-shaped, Valuable is internal / resonance-shaped. Valuable carries an episodic emotional amplifier — when Alan is in direct contact with the resonance source (poverty-reduction, healthcare efforts, especially people solving them), the emotion spikes; when contact ends, the emotion dissipates. The conceptual Valuable judgment persists across contexts; the emotion does not.
-- **Investment** — cost-multiplier modulator, not a channel input. Repeated exposure to a stimulus during high-Safety states encodes a physiological familiarization at the nervous-system level, which reduces cost-per-event for the same activity later. Mechanism captured in [encoding-mechanism.md](encoding-mechanism.book-chapter.md); the Investment side is the positive-valence pathway.
+- **Investment** — cost-multiplier modulator, not a channel input. Repeated exposure to a stimulus during high-Safety states encodes a physiological familiarization at the nervous-system level, which reduces cost-per-event for the same activity later. Mechanism captured in [encoding-mechanism.md](book-section/all-about-alan/encoding-mechanism); the Investment side is the positive-valence pathway.
 
 The split means INCUP's "Passion" is correctly carrying three different jobs for neurotypicals — felt pull, valued direction, and accumulated familiarity — that happen to ride together when affective drive is intact. For Alan, those three pull apart and have to be steered separately.
 
@@ -121,10 +121,10 @@ The split means INCUP's "Passion" is correctly carrying three different jobs for
 
 The episodic emotional amplifier on **Valuable** — present-tense, contact-gated, people-keyed, non-accruing — was first scoped to his valued causes: the spike from being in direct contact with the resonance source (poverty-reduction, healthcare efforts, especially people solving them). It is more general than that. The **same amplifier forks at the output into two distinct emotions**, distinguished by their source:
 
-- **Affection** — fires when the source is **someone he loves being happy.** This is the branch the [ritual borrowed-sentiment proxy](ritual-two-channels.book-chapter.md#the-gap-fills--a-borrowed-sentiment-proxy-witness-gated) runs on: a loved one's live enjoyment, witnessed in the present, read off them as his own present-tense return. Alan already has a name for this one.
-- **Elevation** — fires when the source is **people caring** — bent toward something good, doing the actual work of care (the original cause-spike sits here). See [elevation.md](elevation.book-chapter.md).
+- **Affection** — fires when the source is **someone he loves being happy.** This is the branch the [ritual borrowed-sentiment proxy](book-section/all-about-alan/ritual-two-channels#the-gap-fills--a-borrowed-sentiment-proxy-witness-gated) runs on: a loved one's live enjoyment, witnessed in the present, read off them as his own present-tense return. Alan already has a name for this one.
+- **Elevation** — fires when the source is **people caring** — bent toward something good, doing the actual work of care (the original cause-spike sits here). See [elevation.md](book-section/all-about-alan/elevation).
 
-Same machinery, two outputs. The amplifier is one mechanism; what distinguishes the two emotions is only **what it's pointed at** — a specific loved one (affection) versus care itself, wherever he catches sight of it (elevation). This generalizes the amplifier past its prior cause-only scope: the holiday proxy is the affection branch aimed at a new source (loved ones' ritual-enjoyment), and the cause-spike is the elevation branch. The full account of elevation — including that it ran **unnamed** until Alan named it this session, and what that naming demonstrated — is in [elevation.md](elevation.book-chapter.md).
+Same machinery, two outputs. The amplifier is one mechanism; what distinguishes the two emotions is only **what it's pointed at** — a specific loved one (affection) versus care itself, wherever he catches sight of it (elevation). This generalizes the amplifier past its prior cause-only scope: the holiday proxy is the affection branch aimed at a new source (loved ones' ritual-enjoyment), and the cause-spike is the elevation branch. The full account of elevation — including that it ran **unnamed** until Alan named it this session, and what that naming demonstrated — is in [elevation.md](book-section/all-about-alan/elevation).
 
 ### "Meaning" is a proxy for INCUP, not a feeling of its own
 
@@ -134,28 +134,28 @@ The correction that fixed the framing: Abby proposed that "meaningful" and "effo
 
 Two consequences:
 
-- **Meaning is decomposable.** Because it is a proxy for a five-dimension vector, "is this meaningful?" decomposes into "which of the five is firing, and how hard?" In the [college-at-sixteen context](self-chosen-difficulty.book-chapter.md) the dominant dimension was **Challenge** — the deliberately-hardest courses scored highest on the Challenge axis, and that is what made them read as meaningful (and as effortlessly attention-holding, the [grade inversion](executive-function.book-chapter.md#the-college-grade-inversion--executive-dysfunction-showing-through-before-it-had-a-name)). Different contexts will have a different dominant dimension.
-- **It fits the affect-poor architecture.** Alan's emotional channel is low-amplitude and [~10% consciously accessible](alexithymia.book-chapter.md#conscious-vs-unconscious-emotional-architecture), so "meaning" can't be a strong felt resonance the way it is for most people. A proxy-readout of an engagement vector is exactly the kind of signal a [conceptual](#conceptual)-first architecture *can* register — it is closer to a status light than to a feeling.
+- **Meaning is decomposable.** Because it is a proxy for a five-dimension vector, "is this meaningful?" decomposes into "which of the five is firing, and how hard?" In the [college-at-sixteen context](book-section/all-about-alan/self-chosen-difficulty) the dominant dimension was **Challenge** — the deliberately-hardest courses scored highest on the Challenge axis, and that is what made them read as meaningful (and as effortlessly attention-holding, the [grade inversion](book-section/all-about-alan/executive-function#the-college-grade-inversion--executive-dysfunction-showing-through-before-it-had-a-name)). Different contexts will have a different dominant dimension.
+- **It fits the affect-poor architecture.** Alan's emotional channel is low-amplitude and [~10% consciously accessible](book-section/all-about-alan/alexithymia#conscious-vs-unconscious-emotional-architecture), so "meaning" can't be a strong felt resonance the way it is for most people. A proxy-readout of an engagement vector is exactly the kind of signal a [conceptual](#conceptual)-first architecture *can* register — it is closer to a status light than to a feeling.
 
-This is the upstream half of a two-part account of meaning. This section says *what fires* meaning (the INCUP vector). The downstream question — *when* meaning arrives in time, and why it arrives at clarity rather than at completion — is the inversion treated in [meaning-from-clarity.md](meaning-from-clarity.book-chapter.md), which builds directly on this proxy framing.
+This is the upstream half of a two-part account of meaning. This section says *what fires* meaning (the INCUP vector). The downstream question — *when* meaning arrives in time, and why it arrives at clarity rather than at completion — is the inversion treated in [meaning-from-clarity.md](book-section/all-about-alan/meaning-from-clarity), which builds directly on this proxy framing.
 
 ## Channel conflict resolution
 
-**Instinctive channels win by default when they fire.** The composition is mechanical, not contextual: meta-cognition is an impaired EF ([executive-function.md → metacognition](executive-function.book-chapter.md#metacognition)), so an in-the-moment override of an instinctive pull by a conceptual judgment is unreliable. Alan cannot consistently catch the instinctive channel firing and gate it via real-time meta-cognition.
+**Instinctive channels win by default when they fire.** The composition is mechanical, not contextual: meta-cognition is an impaired EF ([executive-function.md → metacognition](book-section/all-about-alan/executive-function#metacognition)), so an in-the-moment override of an instinctive pull by a conceptual judgment is unreliable. Alan cannot consistently catch the instinctive channel firing and gate it via real-time meta-cognition.
 
-What does work is moving the gating upstream. Alan **structurally removes urgency sources from his environment** so the instinctive channel does not get an Urgency input to fire from. The decision moves from "override urgency in the moment" (unreliable, depends on impaired EF) to "engineer the environment so urgency rarely arises" (reliable, structural). Same compensation shape as the [agent harness](agent-harness.book-chapter.md) — push impaired-EF work upstream into structure where the impairment doesn't apply. Full system treatment in [urgency-removal.md](urgency-removal.book-chapter.md).
+What does work is moving the gating upstream. Alan **structurally removes urgency sources from his environment** so the instinctive channel does not get an Urgency input to fire from. The decision moves from "override urgency in the moment" (unreliable, depends on impaired EF) to "engineer the environment so urgency rarely arises" (reliable, structural). Same compensation shape as the [agent harness](book-section/all-about-alan/agent-harness) — push impaired-EF work upstream into structure where the impairment doesn't apply. Full system treatment in [urgency-removal.md](book-section/all-about-alan/urgency-removal).
 
 Urgency is the specific instinctive input Alan actively engineers out. Novelty does not need the same intervention — novelty's pull is typically productive rather than corrosive, and the multi-stream day pattern already routes novelty as an asset.
 
 ## Stim composition
 
-Several of the instinctive-channel activities also serve as conceptual stims — repetitive cognitive activity for nervous-system regulation, distinct from content engagement. Music on Daily Mixes, ESO, familiar-source content, and coding all function dually: interest-channel maintenance *and* stimming. The multi-stream day pattern is partly an interest-channel mechanism and partly a stim-stack. See [stimming.md → conceptual / cognitive stims](stimming.book-chapter.md#conceptual--cognitive-stims).
+Several of the instinctive-channel activities also serve as conceptual stims — repetitive cognitive activity for nervous-system regulation, distinct from content engagement. Music on Daily Mixes, ESO, familiar-source content, and coding all function dually: interest-channel maintenance *and* stimming. The multi-stream day pattern is partly an interest-channel mechanism and partly a stim-stack. See [stimming.md → conceptual / cognitive stims](book-section/all-about-alan/stimming#conceptual--cognitive-stims).
 
 ## Systems
 
 Systems linked to interest-modulator dynamics:
 
-- [urgency-removal.md](urgency-removal.book-chapter.md) — structural removal of urgency sources from Alan's environment, so the instinctive channel does not get an Urgency input to fire from.
+- [urgency-removal.md](book-section/all-about-alan/urgency-removal) — structural removal of urgency sources from Alan's environment, so the instinctive channel does not get an Urgency input to fire from.
 
 Likely future candidates:
 

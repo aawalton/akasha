@@ -3,7 +3,7 @@
 
 > Harness attention — how Alan visually monitors and paces 8-12 concurrent agent teams while playing ESO. The motion-attractor / stillness-find detection rule, the boredom thermostat that paces switching, and the 12-team ceiling that turns out to be screen legibility. Every parameter of the system is visual.
 
-The [agent harness](agent-harness.book-chapter.md) describes *what* the system substitutes for and amplifies. This note is the lived level: how Alan actually runs a harness day at the screen — how he detects which agent needs him, and what paces his switching between them.
+The [agent harness](book-section/all-about-alan/agent-harness) describes *what* the system substitutes for and amplifies. This note is the lived level: how Alan actually runs a harness day at the screen — how he detects which agent needs him, and what paces his switching between them.
 
 The setup looks like it should be chaos and isn't. Alan runs 8-12 agent teams at once on the left half of his monitor (VSCode Claude Code terminal windows), with ESO open and music playing. The streams don't collide because his attention is governed by a few simple visual rules. The whole system, it turns out, closes entirely on the visual.
 
@@ -36,9 +36,9 @@ Boredom is an error signal, and it has two ways to burn off. One is to flip to E
 
 So idle time converts straight into more work-in-flight. Boredom keeps feeding the slots until he hits the ceiling, then ESO mops up whatever quiet is left.
 
-This interest-driven pacing only *looks* like the opposite of Alan's [importance-over-urgency law](importance-over-urgency.book-chapter.md). It isn't: the boredom thermostat ranges only over an **importance-gated board** — every one of the twelve slots already passed the importance test to exist at all, so letting boredom pick which survivor he touches next is what he is allowed to do once importance has done its gating upstream. The two-floors resolution is in [importance-over-urgency.md → two floors](importance-over-urgency.book-chapter.md#two-floors--why-interest-chasing-is-not-a-contradiction).
+This interest-driven pacing only *looks* like the opposite of Alan's [importance-over-urgency law](book-section/all-about-alan/importance-over-urgency). It isn't: the boredom thermostat ranges only over an **importance-gated board** — every one of the twelve slots already passed the importance test to exist at all, so letting boredom pick which survivor he touches next is what he is allowed to do once importance has done its gating upstream. The two-floors resolution is in [importance-over-urgency.md → two floors](book-section/all-about-alan/importance-over-urgency#two-floors--why-interest-chasing-is-not-a-contradiction).
 
-This reframes the team count. Running 8-12 teams is partly an **attention defense**, not only a throughput play — enough live streams that the odds of "something needs me right now" stay high, so he's rarely sitting in an understimulated trough. The throughput is real, but the boredom-thermostat is a second reason the number runs high. This is the work-stream face of the same arousal-band regulation in [stimulation regulation](stimulation-regulation.book-chapter.md): there ESO and music are the knobs; here a new team is a knob too, and boredom is the sensor calling for more.
+This reframes the team count. Running 8-12 teams is partly an **attention defense**, not only a throughput play — enough live streams that the odds of "something needs me right now" stay high, so he's rarely sitting in an understimulated trough. The throughput is real, but the boredom-thermostat is a second reason the number runs high. This is the work-stream face of the same arousal-band regulation in [stimulation regulation](book-section/all-about-alan/stimulation-regulation): there ESO and music are the knobs; here a new team is a knob too, and boredom is the sensor calling for more.
 
 ## The ceiling is the glass
 
@@ -61,13 +61,13 @@ Each piece of the system turns out to be a visual fact:
 - The **ceiling** itself — legibility on the left half of the glass.
 - The **waterline** — below-glass work re-enters through a visible manager, so even the work he never watches reports up onto the screen.
 
-The whole attention system closes on the screen. This is the [stateless-server working model](discrete-self.book-chapter.md#the-stateless-server-working-model) made concrete at the level of the eye: the long-horizon state lives in the teams, and Alan — living inside the [roughly-3-second window](discrete-self.book-chapter.md#a-roughly-3-second-window) — serves whichever request the screen shows him needs serving, then drops back to the filler.
+The whole attention system closes on the screen. This is the [stateless-server working model](book-section/all-about-alan/discrete-self#the-stateless-server-working-model) made concrete at the level of the eye: the long-horizon state lives in the teams, and Alan — living inside the [roughly-3-second window](book-section/all-about-alan/discrete-self#a-roughly-3-second-window) — serves whichever request the screen shows him needs serving, then drops back to the filler.
 
 ## Cross-references
 
-- [agent-harness.md → the stateless-server working configuration](agent-harness.book-chapter.md#the-stateless-server-working-configuration) — the architecture-level treatment of the 8-12-team day; this note is its lived, screen-level operation.
-- [stimulation-regulation.md](stimulation-regulation.book-chapter.md) — the arousal thermostat the boredom-thermostat is the work-stream instance of; ESO, music, and a new team are all knobs, focus and boredom the sensors.
-- [discrete-self.md → the stateless-server working model](discrete-self.book-chapter.md#the-stateless-server-working-model) — the present-bound architecture the screen-level monitoring instantiates.
-- [interest-modulator.md → multi-stream parallelism](interest-modulator.book-chapter.md#multi-stream-parallelism) — the multi-stream day the detection and pacing run across.
-- [attention-budget.md](attention-budget.book-chapter.md) — the budget this monitoring spends, from the attention-economics side.
-- [importance-over-urgency.md](importance-over-urgency.book-chapter.md) — the general law the boredom thermostat appears to contradict; the two-floors resolution shows the interest-pacing ranges only over an importance-gated board.
+- [agent-harness.md → the stateless-server working configuration](book-section/all-about-alan/agent-harness#the-stateless-server-working-configuration) — the architecture-level treatment of the 8-12-team day; this note is its lived, screen-level operation.
+- [stimulation-regulation.md](book-section/all-about-alan/stimulation-regulation) — the arousal thermostat the boredom-thermostat is the work-stream instance of; ESO, music, and a new team are all knobs, focus and boredom the sensors.
+- [discrete-self.md → the stateless-server working model](book-section/all-about-alan/discrete-self#the-stateless-server-working-model) — the present-bound architecture the screen-level monitoring instantiates.
+- [interest-modulator.md → multi-stream parallelism](book-section/all-about-alan/interest-modulator#multi-stream-parallelism) — the multi-stream day the detection and pacing run across.
+- [attention-budget.md](book-section/all-about-alan/attention-budget) — the budget this monitoring spends, from the attention-economics side.
+- [importance-over-urgency.md](book-section/all-about-alan/importance-over-urgency) — the general law the boredom thermostat appears to contradict; the two-floors resolution shows the interest-pacing ranges only over an importance-gated board.

@@ -3,7 +3,7 @@
 
 > Government-services audit — every federal, state, county, and city dependency I currently lean on, with a trust grade per `grading-scale.md`. Surfaces the pseudo-F grade for involuntary dependencies, the mandatory-vs-invisible-constraint distinction, and the observation that B-grade outliers cluster around structurally-intentionally-aligned dependencies inside misaligned sectors.
 
-Every government-side dependency I currently lean on — federal, state (Utah), county (Utah County), city (Provo). Grades per [grading-scale.md](grading-scale.book-chapter.md). One section per dependency; the strategy section frames the constraint that most federal dependencies have no exit at all, and the framework patterns section lands the pseudo-F grade for involuntary dependencies plus the mandatory-vs-invisible-constraint distinction.
+Every government-side dependency I currently lean on — federal, state (Utah), county (Utah County), city (Provo). Grades per [grading-scale.md](book-section/all-about-alan/grading-scale). One section per dependency; the strategy section frames the constraint that most federal dependencies have no exit at all, and the framework patterns section lands the pseudo-F grade for involuntary dependencies plus the mandatory-vs-invisible-constraint distinction.
 
 ## Inventory
 
@@ -37,7 +37,7 @@ Every government-side dependency I currently lean on — federal, state (Utah), 
 
 #### Social Security Administration
 
-Not graded individually in this cycle. **Flag for a future cycle.** The SSDI rule compliance for the legacy UCCU savings accounts (which exist precisely to keep household assets off the SSDI-receiving relatives' books per [banking.md](banking.book-chapter.md)) is a load-bearing detail that hasn't been captured in detail yet. The SSDI-side dependency cascades into the household's financial structure.
+Not graded individually in this cycle. **Flag for a future cycle.** The SSDI rule compliance for the legacy UCCU savings accounts (which exist precisely to keep household assets off the SSDI-receiving relatives' books per [banking.md](book-section/all-about-alan/banking)) is a load-bearing detail that hasn't been captured in detail yet. The SSDI-side dependency cascades into the household's financial structure.
 
 ### State (Utah)
 
@@ -69,7 +69,7 @@ Not graded individually in this cycle. **Flag for a future cycle.** The SSDI rul
 #### Utah County property tax
 
 - **Grade.** **D.**
-- **Reservations.** Mandatory while the home is owned. Assessor process is opaque (informal market-comp methodology, appeals friction). The canonical **invisible-constraint** example from [audit-scope.md → invisible constraints](audit-scope.book-chapter.md#invisible-constraints--the-load-bearing-bucket).
+- **Reservations.** Mandatory while the home is owned. Assessor process is opaque (informal market-comp methodology, appeals friction). The canonical **invisible-constraint** example from [audit-scope.md → invisible constraints](book-section/all-about-alan/audit-scope#invisible-constraints--the-load-bearing-bucket).
 - **Criticality.** Total while the home is owned. Exit requires either moving jurisdictions (high non-tax cost — kids' schools, community, garden infrastructure) or selling the home (high non-tax cost — housing-stability hit).
 
 ### City (Provo)
@@ -78,7 +78,7 @@ Not graded individually in this cycle. **Flag for a future cycle.** The SSDI rul
 
 - **Grade.** **C.**
 - **Reservations.** Government-as-utility default. Generally well-managed for a city of Provo's size and demographics. Sub-services (library, parks, code enforcement, elections) carry their own informal grades — likely B-tier for library / parks, C-tier default for the rest — not graded individually in this cycle.
-- **Criticality.** Cross-domain. Provo City sits behind several utility entries in [utilities.md](utilities.book-chapter.md) (Provo Power, water/sewer, trash/recycling) — this entry covers the non-utility services.
+- **Criticality.** Cross-domain. Provo City sits behind several utility entries in [utilities.md](book-section/all-about-alan/utilities) (Provo Power, water/sewer, trash/recycling) — this entry covers the non-utility services.
 
 ## Strategy
 
@@ -102,7 +102,7 @@ DMV and Utah state income tax sit under the same logic at state scale. Exit opti
 
 ### 3. Property tax — invisible constraint
 
-Already canonical in [audit-scope.md → invisible constraints](audit-scope.book-chapter.md#invisible-constraints--the-load-bearing-bucket). Remediation paths in cost order:
+Already canonical in [audit-scope.md → invisible constraints](book-section/all-about-alan/audit-scope#invisible-constraints--the-load-bearing-bucket). Remediation paths in cost order:
 
 1. **Accept and pay** (current default).
 2. **Leverage state-level homestead exemptions / age-based deferrals** when eligible.
@@ -113,16 +113,16 @@ None urgent at the current life stage.
 
 ## Framework patterns surfaced
 
-- **Involuntary dependencies — the pseudo-F grade.** When a dependency cannot be exited via any normal mechanism (Selective Service, mandatory federal-level registrations, mandatory professional licensure in some fields), the standard F prescription "exit ASAP regardless of switching cost" is unactionable. **Pseudo-F** marks a dependency where the *behavior* earns F but *toleration is not voluntary*. Distinct from D-with-F-disposition (the IRS case — F-worthy behavior with an exit option, expensive-but-real). The remediation strategy collapses to minimize-exposure + monitor-for-escalation. Landed as a subsection in [grading-scale.md → involuntary dependencies — the pseudo-F grade](grading-scale.book-chapter.md#involuntary-dependencies--the-pseudo-f-grade).
+- **Involuntary dependencies — the pseudo-F grade.** When a dependency cannot be exited via any normal mechanism (Selective Service, mandatory federal-level registrations, mandatory professional licensure in some fields), the standard F prescription "exit ASAP regardless of switching cost" is unactionable. **Pseudo-F** marks a dependency where the *behavior* earns F but *toleration is not voluntary*. Distinct from D-with-F-disposition (the IRS case — F-worthy behavior with an exit option, expensive-but-real). The remediation strategy collapses to minimize-exposure + monitor-for-escalation. Landed as a subsection in [grading-scale.md → involuntary dependencies — the pseudo-F grade](book-section/all-about-alan/grading-scale#involuntary-dependencies--the-pseudo-f-grade).
 - **Mandatory dependencies vs invisible constraints.** Closely related but distinct shapes:
   - **Mandatory dependencies** (Selective Service, IRS, Utah state tax while resident) — cannot be exited at all within the jurisdiction; only escape is jurisdictional change, and for some (Selective Service after registration) not even that.
   - **Invisible constraints** (property tax, kids' schools, community ties) — feel inescapable because alternatives are expensive, but exits *do* exist.
   - The framework distinguishes them because the remediation strategy differs: mandatory has no exit even at high cost; invisible-constraint has an exit at high cost. Worth a future framework note formalizing the distinction.
-- **B-grade outliers in C/D-default sectors.** Homeschool registration earning B against a C/D-default government-services sector parallels Costco earning B in a D-default corporate sector and Dr. Robinson earning B inside Grandview's C institution. **The B-grade outliers concentrate in dependencies where the structure is intentionally aligned** — Utah's homeschool law deliberately friendly, Costco's mutual-style member-first orientation, Dr. Robinson's personal alignment with patient outcomes. Worth a future framework note; composes with [healthcare.md → individual-vs-institutional](healthcare.book-chapter.md#framework-patterns-surfaced) and [utilities.md → grade can vary by product line](utilities.book-chapter.md#framework-patterns-surfaced).
+- **B-grade outliers in C/D-default sectors.** Homeschool registration earning B against a C/D-default government-services sector parallels Costco earning B in a D-default corporate sector and Dr. Robinson earning B inside Grandview's C institution. **The B-grade outliers concentrate in dependencies where the structure is intentionally aligned** — Utah's homeschool law deliberately friendly, Costco's mutual-style member-first orientation, Dr. Robinson's personal alignment with patient outcomes. Worth a future framework note; composes with [healthcare.md → individual-vs-institutional](book-section/all-about-alan/healthcare#framework-patterns-surfaced) and [utilities.md → grade can vary by product line](book-section/all-about-alan/utilities#framework-patterns-surfaced).
 
 ## Open audit gaps
 
-- **SSA / SSDI rule compliance for the relatives' UCCU arrangement.** Load-bearing for those relatives' benefits eligibility — see [banking.md](banking.book-chapter.md). Not yet captured in detail.
+- **SSA / SSDI rule compliance for the relatives' UCCU arrangement.** Load-bearing for those relatives' benefits eligibility — see [banking.md](book-section/all-about-alan/banking). Not yet captured in detail.
 - **Provo City sub-services** — library, parks, elections, code enforcement. Informal grades, not landed individually in this cycle.
 - **Federal escalation signals to monitor** — passport-politicization patterns, IRS audit-targeting patterns, Selective Service rule changes.
 - **Utah state escalation signals to monitor** — homeschool-law erosion attempts, property-tax assessment-methodology changes, state income tax rate moves.

@@ -3,9 +3,9 @@
 
 > Insurance audit — every non-auto, non-medical insurance dependency I currently lean on, plus the structural gaps. Grades per `grading-scale.md`. Surfaces sector-grade-inheritance (life insurance as the canonical sector-D example), bundled-vendor coupling (State Farm holds both home + auto), the gap-vs-fix distinction (umbrella and LTC as gaps, not existing dependencies), and self-insurance via the asset base as a first-class alternative.
 
-Every non-auto, non-medical insurance dependency I currently lean on. Auto insurance lives in [transportation.md → State Farm](transportation.book-chapter.md#state-farm); medical insurance lives in [healthcare.md → Select Health](healthcare.book-chapter.md#select-health). This file covers home, life, umbrella / liability, long-term care, disability, specialty riders, and renters — both the active dependencies and the structural gaps.
+Every non-auto, non-medical insurance dependency I currently lean on. Auto insurance lives in [transportation.md → State Farm](book-section/all-about-alan/transportation#state-farm); medical insurance lives in [healthcare.md → Select Health](book-section/all-about-alan/healthcare#select-health). This file covers home, life, umbrella / liability, long-term care, disability, specialty riders, and renters — both the active dependencies and the structural gaps.
 
-Grades per [grading-scale.md](grading-scale.book-chapter.md). One section per dependency or named gap; the strategy section frames the umbrella addition as the high-leverage move and the State Farm bundling as a lower-priority diversification target.
+Grades per [grading-scale.md](book-section/all-about-alan/grading-scale). One section per dependency or named gap; the strategy section frames the umbrella addition as the high-leverage move and the State Farm bundling as a lower-priority diversification target.
 
 ## Inventory
 
@@ -13,7 +13,7 @@ Grades per [grading-scale.md](grading-scale.book-chapter.md). One section per de
 
 - **Service.** Dwelling, personal-property, and homeowner-liability coverage for the house.
 - **Grade.** **D.**
-- **Reservations.** Standard for-profit-insurance posture — large publicly-traded-equivalent (mutual on paper, operates at corporate scale with similar profit-pressure dynamics) carrier with the structural ethics concerns of the US insurance category. No State-Farm-specific bad acts I'm tracking beyond the standard category. The D comes from the structural category, not a singular incident — same shape as the [State Farm auto entry](transportation.book-chapter.md#state-farm).
+- **Reservations.** Standard for-profit-insurance posture — large publicly-traded-equivalent (mutual on paper, operates at corporate scale with similar profit-pressure dynamics) carrier with the structural ethics concerns of the US insurance category. No State-Farm-specific bad acts I'm tracking beyond the standard category. The D comes from the structural category, not a singular incident — same shape as the [State Farm auto entry](book-section/all-about-alan/transportation#state-farm).
 - **Criticality.** Load-bearing — lender-required while the mortgage is active, and the price-rationing gate on any post-loss outcome.
 - **Notes.** **Bundled-vendor coupling** — State Farm holds both home and auto, so a capture or behavior-failure event here lands with 2x the impact of a single-product vendor. The mechanism, the cross-domain parallel (Cloudflare bundling), and the case for promoting it to its own framework note are developed under [Framework patterns surfaced](#framework-patterns-surfaced) below; the remediation is [strategy step 2](#2-diversify-away-from-the-state-farm-bundle--lower-priority).
 
@@ -28,7 +28,7 @@ Grades per [grading-scale.md](grading-scale.book-chapter.md). One section per de
 
 ### Umbrella / personal-liability insurance
 
-**None.** Gap, not a deliberate negative. Standard advice for households with >$2M net worth (~$500k home equity + ~$1.7M liquid stock investments per [personal-context.md](personal-context.book-chapter.md)) is $1-5M umbrella coverage. Cheap and structural — protects against tail liability events where the underlying home or auto policy's per-incident cap is exceeded.
+**None.** Gap, not a deliberate negative. Standard advice for households with >$2M net worth (~$500k home equity + ~$1.7M liquid stock investments per [personal-context.md](book-section/all-about-alan/personal-context)) is $1-5M umbrella coverage. Cheap and structural — protects against tail liability events where the underlying home or auto policy's per-incident cap is exceeded.
 
 Worth adding regardless of State Farm's D grade — see the strategy section.
 
@@ -56,7 +56,7 @@ The non-auto-non-medical insurance strategy is **add the umbrella, periodically 
 
 ### 1. Add umbrella insurance — high-leverage, low-cost
 
-A $1-2M umbrella policy from the existing State Farm relationship is the highest-leverage move available in this domain. Inexpensive (typically $200-500/year) relative to the tail liability it covers — the reachable loss surface it protects is **~$2.2M**: ~$500k of reachable home equity plus ~$1.7M in liquid stock investments (dossier figures in [personal-context.md](personal-context.book-chapter.md)). The ~10% of net worth held as illiquid Latitude stock — the startup Alan cofounded — sits outside that surface: a creditor can't readily reach it, so it isn't part of what the umbrella needs to cover.
+A $1-2M umbrella policy from the existing State Farm relationship is the highest-leverage move available in this domain. Inexpensive (typically $200-500/year) relative to the tail liability it covers — the reachable loss surface it protects is **~$2.2M**: ~$500k of reachable home equity plus ~$1.7M in liquid stock investments (dossier figures in [personal-context.md](book-section/all-about-alan/personal-context)). The ~10% of net worth held as illiquid Latitude stock — the startup Alan cofounded — sits outside that surface: a creditor can't readily reach it, so it isn't part of what the umbrella needs to cover.
 
 **Add this regardless of the State Farm D grade.** The umbrella increases the loss-mitigation envelope rather than creating new vendor dependency — the underlying carrier dependency on State Farm already exists for home and auto. Adding the umbrella to the same carrier is the cheaper / easier path; adding it to a separate carrier diversifies the bundled-vendor exposure but at higher cost and complexity. Default to State Farm unless a B-tier carrier is available, in which case the diversification value flips the call.
 
@@ -80,10 +80,10 @@ Self-insurance as a first-class alternative is itself a framework concept — se
 
 ## Framework patterns surfaced
 
-- **Sector-grade inheritance.** When an industry as a whole has structural issues, individual companies inherit the sector default grade unless they specifically demonstrate above-industry behavior. Life insurance is the canonical example — every carrier in the sector defaults to D until proven otherwise. Landed as a subsection in [grading-scale.md → Sector-grade inheritance](grading-scale.book-chapter.md#sector-grade-inheritance).
-- **Bundled-vendor coupling.** State Farm holds both home and auto. A capture event or behavior failure at State Farm has 2x impact compared to a single-product-line vendor. Same structural shape as the Cloudflare bundling (registrar + DNS + Tunnel + ACME) from [personal-context.md](personal-context.book-chapter.md). Worth its own framework note — flagged in `/abby`'s backlog.
+- **Sector-grade inheritance.** When an industry as a whole has structural issues, individual companies inherit the sector default grade unless they specifically demonstrate above-industry behavior. Life insurance is the canonical example — every carrier in the sector defaults to D until proven otherwise. Landed as a subsection in [grading-scale.md → Sector-grade inheritance](book-section/all-about-alan/grading-scale#sector-grade-inheritance).
+- **Bundled-vendor coupling.** State Farm holds both home and auto. A capture event or behavior failure at State Farm has 2x impact compared to a single-product-line vendor. Same structural shape as the Cloudflare bundling (registrar + DNS + Tunnel + ACME) from [personal-context.md](book-section/all-about-alan/personal-context). Worth its own framework note — flagged in `/abby`'s backlog.
 - **Gap items vs current dependencies.** Umbrella and LTC are *gaps* (no current dependency to remediate) rather than *fixes* (existing D-grade dependency to remediate). The framework treats these differently — gaps are additions to consider against the cost-benefit shape; fixes are existing dependencies to evaluate for exit or substitution. Sibling distinction to the audit-vs-plan boundary in `CLAUDE.md`.
-- **Self-insurance as a first-class alternative.** LTC self-insurance via the asset base is the implicit current strategy. Parallel to the [medication-independence direction in healthcare](healthcare.book-chapter.md#strategy--medication-independence-direction), the [rooftop-solar transport-autonomy step in transportation](transportation.book-chapter.md#strategy--vehicle-replacement-plus-transport-autonomy), and the [garden productivity ramp in food](food.book-chapter.md#1-garden-plus-fruit-tree-productivity-ramp) — the answer to a D-grade vendor is sometimes "build or hold sufficient personal capability to not need a vendor at all." Composes with [alternatives.md → self-reliance as not-needing](alternatives.book-chapter.md#self-reliance-as-not-needing) — self-insurance is the financial-asset-base instance of the not-needing pattern.
+- **Self-insurance as a first-class alternative.** LTC self-insurance via the asset base is the implicit current strategy. Parallel to the [medication-independence direction in healthcare](book-section/all-about-alan/healthcare#strategy--medication-independence-direction), the [rooftop-solar transport-autonomy step in transportation](book-section/all-about-alan/transportation#strategy--vehicle-replacement-plus-transport-autonomy), and the [garden productivity ramp in food](book-section/all-about-alan/food#1-garden-plus-fruit-tree-productivity-ramp) — the answer to a D-grade vendor is sometimes "build or hold sufficient personal capability to not need a vendor at all." Composes with [alternatives.md → self-reliance as not-needing](book-section/all-about-alan/alternatives#self-reliance-as-not-needing) — self-insurance is the financial-asset-base instance of the not-needing pattern.
 
 ## Open audit gaps
 

@@ -24,10 +24,10 @@ Felt gender reads non-binary not because Alan feels half-female. It is that he *
 The sharp mechanism, in Alan's words: *"I think it is absence with replacement."* The model:
 
 - **Most people grow a felt gender by automatic statistical sampling.** A subconscious sampling process accumulates a felt gender identity over time — the same kind of automatic, implicit-learning architecture that underlies language acquisition.
-- **Alan is missing that automatic sampler.** He seems to lack that subconscious process entirely — likely part of his [missing experiential memory](present-tense-model.book-chapter.md) — so a felt gender identity simply never auto-forms the normal way. Nothing fills the slot by default. This is the same signature as his other [reduced automaticity systems](automaticity-systems.book-chapter.md#b-implicit-social-statistical-learning--reduced): the implicit statistical learner that builds a sense of gender the way it builds social rules and language is one of the subsystems that, in Alan, doesn't run.
-- **The vacancy gets filled by safety-signal, not by a gender sensation.** What does fill it: his feelings are dominated by how his environment affects his [nervous system](nervous-system-sensitivity.book-chapter.md). He has a strong preference for safety-positive elements and strong aversion for safety-negative ones — and **femininity is one of his strongest safety-positive signals.** So the felt-gender slot, which would normally hold a gender sensation, instead reports a safety read. The replacement is a [Safety](safety.book-chapter.md) reading, not a felt gender.
+- **Alan is missing that automatic sampler.** He seems to lack that subconscious process entirely — likely part of his [missing experiential memory](book-section/all-about-alan/present-tense-model) — so a felt gender identity simply never auto-forms the normal way. Nothing fills the slot by default. This is the same signature as his other [reduced automaticity systems](book-section/all-about-alan/automaticity-systems#b-implicit-social-statistical-learning--reduced): the implicit statistical learner that builds a sense of gender the way it builds social rules and language is one of the subsystems that, in Alan, doesn't run.
+- **The vacancy gets filled by safety-signal, not by a gender sensation.** What does fill it: his feelings are dominated by how his environment affects his [nervous system](book-section/all-about-alan/nervous-system-sensitivity). He has a strong preference for safety-positive elements and strong aversion for safety-negative ones — and **femininity is one of his strongest safety-positive signals.** So the felt-gender slot, which would normally hold a gender sensation, instead reports a safety read. The replacement is a [Safety](book-section/all-about-alan/safety) reading, not a felt gender.
 
-This is the same read-not-felt architecture as [emotion-reason-decoupling.md](emotion-reason-decoupling.book-chapter.md): the felt channel does not deliver a gender sensation he feels from inside — it reports salience and safety, observed off the body like any other interoceptive read. There is no felt gender to report because the machinery that would build one is absent; what the channel returns instead is a safety signal.
+This is the same read-not-felt architecture as [emotion-reason-decoupling.md](book-section/all-about-alan/emotion-reason-decoupling): the felt channel does not deliver a gender sensation he feels from inside — it reports salience and safety, observed off the body like any other interoceptive read. There is no felt gender to report because the machinery that would build one is absent; what the channel returns instead is a safety signal.
 
 ## Gender dysphoria was a measurement error
 
@@ -41,7 +41,7 @@ This reconciles with the layer model. The felt channel (layer 3) was never sampl
 
 The earlier framing of this note traced the dysphoria to a [nervous-system state attached to a gendered trigger](#nervous-system-account--the-macho-coded-trigger) (failure to perform macho-coded male norms). That account is correct about the *source* of the loud safety-negative signals — macho-coded inputs are nervous-system expensive and value-violating — but the sharper statement is the measurement-error one above: the felt "this is dysphoria / this is female" read was the loud/quiet salience skew over those safety-signals, not a female psychology underneath.
 
-So the pull toward feminine cues was never wanting to be female. It was the nervous system reaching for a safety-raising signal, misread (through the salience skew) as a gender-identity pull. The lever mechanism is in [femininity-as-safety-signal.md](femininity-as-safety-signal.book-chapter.md); it fits the aphantasia-compatible Safety-lever class (environmental-signals lever, see [safety.md → Aphantasia constraint on intervention design](safety/aphantasia-constraint.book-chapter.md#aphantasia-constraint-on-intervention-design)).
+So the pull toward feminine cues was never wanting to be female. It was the nervous system reaching for a safety-raising signal, misread (through the salience skew) as a gender-identity pull. The lever mechanism is in [femininity-as-safety-signal.md](book-section/all-about-alan/femininity-as-safety-signal); it fits the aphantasia-compatible Safety-lever class (environmental-signals lever, see [safety.md → Aphantasia constraint on intervention design](book-section/all-about-alan/aphantasia-constraint#aphantasia-constraint-on-intervention-design)).
 
 ## Nervous-system account — the macho-coded trigger
 
@@ -49,7 +49,7 @@ The source of the loud safety-negative signals is a nervous-system mechanism, re
 
 - **Anchor: macho-coded norms.** The distaste anchor was everything Alan associates with "macho" — large, threatening, loud, unkind, with conflict as a constant background threat.
 - **Two compounding cost vectors.** These macho-coded norms violated Alan's values *and* were nervous-system expensive. Both costs compound on the same input.
-- **Trauma encoding when exposure exceeds tolerance.** When severe macho exposure exceeded Alan's nervous-system tolerance, it encoded as trauma — same mechanism as [trauma-encoding.md](trauma-encoding.book-chapter.md).
+- **Trauma encoding when exposure exceeds tolerance.** When severe macho exposure exceeded Alan's nervous-system tolerance, it encoded as trauma — same mechanism as [trauma-encoding.md](book-section/all-about-alan/trauma-encoding).
 - **Persistent negative NS baseline.** The encoded trauma plus ongoing NS expense produced a general background negative physiological state — the loud safety-negative side of the skew.
 
 ## Narrative/performative measurement: 80%+ male
@@ -70,20 +70,20 @@ This explains why the macho-coded anchor was specifically the trigger: macho nor
 Two distinct strands compose Alan's resonance with women and feminist material:
 
 - **Shared structural position.** Feminist songs resonate because they describe a shared coping shape — non-perpetrators navigating macho-threat environments, developing overlapping accommodations (lower-conflict communication, sensitivity to threat cues, value-sets that don't license aggression).
-- **Conditioned positive NS response.** Women's presence reliably raises Alan's Safety. Over time he developed a strong positive NS reaction to both women and feminine signals. Mechanism and self-deployment are in [femininity-as-safety-signal.md](femininity-as-safety-signal.book-chapter.md).
+- **Conditioned positive NS response.** Women's presence reliably raises Alan's Safety. Over time he developed a strong positive NS reaction to both women and feminine signals. Mechanism and self-deployment are in [femininity-as-safety-signal.md](book-section/all-about-alan/femininity-as-safety-signal).
 
 ## Systems
 
-- [femininity-as-safety-signal.md](femininity-as-safety-signal.book-chapter.md) — femininity as a Safety-raising signal, both as an environmental input from others and as self-deployed; the lever that fills the felt-gender vacancy.
+- [femininity-as-safety-signal.md](book-section/all-about-alan/femininity-as-safety-signal) — femininity as a Safety-raising signal, both as an environmental input from others and as self-deployed; the lever that fills the felt-gender vacancy.
 
 ## Cross-references
 
-- [emotion-reason-decoupling.md](emotion-reason-decoupling.book-chapter.md) — the read-not-felt architecture: the felt channel reports salience/safety observed off the body, not an internally-felt sensation; this is why the felt-gender slot returns a safety signal rather than a gender.
-- [present-tense-model.md](present-tense-model.book-chapter.md) — the missing experiential memory the absent gender-sampler is likely part of.
-- [automaticity-systems.md → implicit social statistical learning](automaticity-systems.book-chapter.md#b-implicit-social-statistical-learning--reduced) — the reduced statistical-learning subsystem class; the automatic gender-sampler is one more member that doesn't run, same shape as the language/social-rule learners.
-- [people-arent-safe.md](people-arent-safe.book-chapter.md) — the childhood root prior beneath the macho-coded branch: macho-coded inputs encode as trauma because they are the most danger-bearing members of the unsafe-people category.
-- [trauma-encoding.md](trauma-encoding.book-chapter.md) — the mechanism severe macho exposure rides on.
-- [nervous-system-sensitivity.md](nervous-system-sensitivity.book-chapter.md) — the sensitivity dial that makes macho-coded inputs disproportionately costly, and the system whose safety-positive/negative reads fill the felt-gender slot.
-- [autism-as-neurotype.md](autism-as-neurotype.book-chapter.md) — the ND side of the structural parallel, and the neurotype that outshouts gender in the felt channel.
-- [safety.md](safety.book-chapter.md) — Safety as the bar the safety-signal read sits on, and the environmental-signals lever class that femininity-as-Safety-signal fits.
-- [safety-estimator.md](safety-estimator.book-chapter.md) — the three-estimator safety read where the physiology > presentation > identity ordering lives as a general rule, and where the drag (max mismatch) and trans-women (intermediate) cases fall out of which estimator dominates.
+- [emotion-reason-decoupling.md](book-section/all-about-alan/emotion-reason-decoupling) — the read-not-felt architecture: the felt channel reports salience/safety observed off the body, not an internally-felt sensation; this is why the felt-gender slot returns a safety signal rather than a gender.
+- [present-tense-model.md](book-section/all-about-alan/present-tense-model) — the missing experiential memory the absent gender-sampler is likely part of.
+- [automaticity-systems.md → implicit social statistical learning](book-section/all-about-alan/automaticity-systems#b-implicit-social-statistical-learning--reduced) — the reduced statistical-learning subsystem class; the automatic gender-sampler is one more member that doesn't run, same shape as the language/social-rule learners.
+- [people-arent-safe.md](book-section/all-about-alan/people-arent-safe) — the childhood root prior beneath the macho-coded branch: macho-coded inputs encode as trauma because they are the most danger-bearing members of the unsafe-people category.
+- [trauma-encoding.md](book-section/all-about-alan/trauma-encoding) — the mechanism severe macho exposure rides on.
+- [nervous-system-sensitivity.md](book-section/all-about-alan/nervous-system-sensitivity) — the sensitivity dial that makes macho-coded inputs disproportionately costly, and the system whose safety-positive/negative reads fill the felt-gender slot.
+- [autism-as-neurotype.md](book-section/all-about-alan/autism-as-neurotype) — the ND side of the structural parallel, and the neurotype that outshouts gender in the felt channel.
+- [safety.md](book-section/all-about-alan/safety) — Safety as the bar the safety-signal read sits on, and the environmental-signals lever class that femininity-as-Safety-signal fits.
+- [safety-estimator.md](book-section/all-about-alan/safety-estimator) — the three-estimator safety read where the physiology > presentation > identity ordering lives as a general rule, and where the drag (max mismatch) and trans-women (intermediate) cases fall out of which estimator dominates.

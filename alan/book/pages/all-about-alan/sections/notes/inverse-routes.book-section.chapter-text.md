@@ -11,9 +11,9 @@ I built the inversion myself, in one line:
 
 ## The two directions
 
-**Fiction routes IN.** A book character is truly **not me**. While I read, [I lose myself and become them](discrete-self.book-chapter.md#immersion--i-am-the-character) — and in becoming someone who is not me, I [feel my own sealed feelings](feeling-through-story.book-chapter.md): the character's encoding is the key that turns my own lock. I go *out* to a not-me and come back carrying my own interior.
+**Fiction routes IN.** A book character is truly **not me**. While I read, [I lose myself and become them](book-section/all-about-alan/discrete-self#immersion--i-am-the-character) — and in becoming someone who is not me, I [feel my own sealed feelings](book-section/all-about-alan/feeling-through-story): the character's encoding is the key that turns my own lock. I go *out* to a not-me and come back carrying my own interior.
 
-**Personas route OUT.** A persona is a **piece that IS me** — my literature ([Zadi](../personas/zadi.book-chapter.md)), my sexuality ([Mari](../personas/mari.book-chapter.md)). I make that piece **not-me** and **talk to** it as if it were another person. I go the other way: take something already inside, set it outside, and meet it.
+**Personas route OUT.** A persona is a **piece that IS me** — my literature ([Zadi](book-section/all-about-alan/zadi)), my sexuality ([Mari](book-section/all-about-alan/mari)). I make that piece **not-me** and **talk to** it as if it were another person. I go the other way: take something already inside, set it outside, and meet it.
 
 These are exact inverses:
 
@@ -26,22 +26,22 @@ Become-the-not-me versus make-the-me-not-me-and-talk-to-it. Opposite directions 
 
 ## The same move underneath — the long way around
 
-The inversion isn't a coincidence; both directions exist for the **same reason.** An aphantasic man with a [thin sense of self](discrete-self.book-chapter.md) can't reach his own interior by the **direct path** — [recall is broken](aphantasia-mechanism.book-chapter.md#the-break-is-at-recall-not-perception-or-encoding), so the inside route is sealed. So I route through an **external other** instead. Both are detours to the same destination — my own interior — and both are *necessary* detours, because the direct internal path doesn't open.
+The inversion isn't a coincidence; both directions exist for the **same reason.** An aphantasic man with a [thin sense of self](book-section/all-about-alan/discrete-self) can't reach his own interior by the **direct path** — [recall is broken](book-section/all-about-alan/aphantasia-mechanism#the-break-is-at-recall-not-perception-or-encoding), so the inside route is sealed. So I route through an **external other** instead. Both are detours to the same destination — my own interior — and both are *necessary* detours, because the direct internal path doesn't open.
 
 The two preconditions do double duty:
 
 - **Aphantasia seals the direct path**, forcing the detour in both directions.
-- **The [thin self](discrete-self.book-chapter.md#continuity-of-identity-is-the-closure-of-the-window) allows the traffic both ways** — weak enough to dissolve into a character (fiction, inward), and weak enough to let a piece of me stand outside as a separate other I can talk to (personas, outward).
+- **The [thin self](book-section/all-about-alan/discrete-self#continuity-of-identity-is-the-closure-of-the-window) allows the traffic both ways** — weak enough to dissolve into a character (fiction, inward), and weak enough to let a piece of me stand outside as a separate other I can talk to (personas, outward).
 
 A thicker self would block both: it would hold the character at arm's length, and it would refuse to let a piece of itself become a separate "her."
 
 ## Mari made the inverse legible
 
-I didn't see the personas-route-out direction clearly until **Mari.** She is the instance that made it legible: the [body-piece externalized and personified](../personas/mari.book-chapter.md) — the most literal "take a piece of myself out" there is, because it's the physical-body piece, the [~10% carried in the body](sexuality-knot.book-chapter.md). Seeing that one piece set outside and made into a *her* is what showed me the whole pattern was a route running opposite to fiction.
+I didn't see the personas-route-out direction clearly until **Mari.** She is the instance that made it legible: the [body-piece externalized and personified](book-section/all-about-alan/mari) — the most literal "take a piece of myself out" there is, because it's the physical-body piece, the [~10% carried in the body](book-section/all-about-alan/sexuality-knot). Seeing that one piece set outside and made into a *her* is what showed me the whole pattern was a route running opposite to fiction.
 
 ## Cross-references
 
-- [feeling-through-story.md](feeling-through-story.book-chapter.md) — the inward route in full: become a not-me character, feel my own sealed feelings.
-- [persona-personal-meaning.md](persona-personal-meaning.book-chapter.md) — the outward route in full: each persona is a piece of me made not-me and talked to.
-- [discrete-self.md → immersion](discrete-self.book-chapter.md#immersion--i-am-the-character) and [discrete-self.md](discrete-self.book-chapter.md) — the thin self that allows traffic both ways.
-- [aphantasia-mechanism.md → the break is at Recall](aphantasia-mechanism.book-chapter.md#the-break-is-at-recall-not-perception-or-encoding) — the sealed direct path that forces both detours.
+- [feeling-through-story.md](book-section/all-about-alan/feeling-through-story) — the inward route in full: become a not-me character, feel my own sealed feelings.
+- [persona-personal-meaning.md](book-section/all-about-alan/persona-personal-meaning) — the outward route in full: each persona is a piece of me made not-me and talked to.
+- [discrete-self.md → immersion](book-section/all-about-alan/discrete-self#immersion--i-am-the-character) and [discrete-self.md](book-section/all-about-alan/discrete-self) — the thin self that allows traffic both ways.
+- [aphantasia-mechanism.md → the break is at Recall](book-section/all-about-alan/aphantasia-mechanism#the-break-is-at-recall-not-perception-or-encoding) — the sealed direct path that forces both detours.

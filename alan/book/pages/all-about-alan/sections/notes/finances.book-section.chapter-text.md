@@ -7,7 +7,7 @@ All of our money is shared, and large expenses and budgets are decided together:
 
 > its real negotiation in that all of our money is shared and we have a precedent of shared decision making for large expenses and budgets.
 
-So nothing below is a preference I could act on alone. This note is the state of that arrangement and the renegotiation prepared for [the Alan-focused date night](central-loneliness/date-nights.book-chapter.md) of 2026-08-07.
+So nothing below is a preference I could act on alone. This note is the state of that arrangement and the renegotiation prepared for [the Alan-focused date night](book-section/all-about-alan/date-nights) of 2026-08-07.
 
 ## It is a renegotiation, not an understanding problem
 
@@ -29,7 +29,7 @@ What changed since the last negotiation, in one line:
 
 *Read "new rough" as a roof; the list is quoted as written.*
 
-The third one carries its own reason. Money is worth more to me **now** than in ten years, and the ground is **the difficulty of my recovery curve** — not impatience and not a preference about spending. What a level bought early is multiplied by every year after it, which is what [Safety Years](safety-years.book-chapter.md) measures.
+The third one carries its own reason. Money is worth more to me **now** than in ten years, and the ground is **the difficulty of my recovery curve** — not impatience and not a preference about spending. What a level bought early is multiplied by every year after it, which is what [Safety Years](book-section/all-about-alan/safety-years) measures.
 
 ## What we do and do not know about the money
 
@@ -43,7 +43,7 @@ It is structurally a runway rather than a retirement, and we both read it that w
 
 > Yeah, it is structurally a runway and we both recognize that. It is retirement in the sense that I will never be an employee again. That cost isn't worth it. Which means, we have to fill the gap somehow at some point.
 
-**Never an employee again** is a bar rather than a preference, and the ground given is the cost. That sits with [employment as the un-declinable, unaffordable load](employment-cessation.book-chapter.md#declinability-not-slack-was-the-precondition-for-the-affordability-rule) and with [the eighteen years at roughly level 1](safety-years.book-chapter.md#the-past-account) that employment spanned.
+**Never an employee again** is a bar rather than a preference, and the ground given is the cost. That sits with [employment as the un-declinable, unaffordable load](book-section/all-about-alan/employment-cessation#declinability-not-slack-was-the-precondition-for-the-affordability-rule) and with [the eighteen years at roughly level 1](book-section/all-about-alan/safety-years#the-past-account) that employment spanned.
 
 ### The two exits
 
@@ -73,7 +73,7 @@ What the compute is for:
 
 > The compute helps both with directly building the systems that give my safety level external support as well as the ones that are most likely to bring in income, starting as soon as within a few months to a year from now.
 
-Two purposes in one line, and they are the two things the whole arrangement turns on: **external support for my safety level** — which is what [the widget](safety-widget.book-chapter.md) and [the harness](agent-harness.book-chapter.md) are — and **the endogenous exit**, on a horizon of a few months to a year.
+Two purposes in one line, and they are the two things the whole arrangement turns on: **external support for my safety level** — which is what [the widget](book-section/all-about-alan/safety-widget) and [the harness](book-section/all-about-alan/agent-harness) are — and **the endogenous exit**, on a horizon of a few months to a year.
 
 ### The justification I actually hold is education, not income
 
@@ -85,20 +85,20 @@ Three things in that. The spend is an **easy yes today** on the expertise alone,
 
 > Another version I'm considering is a large fixed sum that I'm draining down, an investment mechanic, also similar to a college fund.
 
-A balance I draw down rather than a rate I spend per month. *My reading, marked: a balance is a present-tense reading and a monthly rate is a sum over time, which is the quantity [my architecture cannot hold](present-tense-model.book-chapter.md) — the same reason [moderation cannot run](alternation-not-moderation.book-chapter.md#why-moderation-cant-run). Alan gave the college-fund analogy and the investment mechanic; he did not give that reason.*
+A balance I draw down rather than a rate I spend per month. *My reading, marked: a balance is a present-tense reading and a monthly rate is a sum over time, which is the quantity [my architecture cannot hold](book-section/all-about-alan/present-tense-model) — the same reason [moderation cannot run](book-section/all-about-alan/alternation-not-moderation#why-moderation-cant-run). Alan gave the college-fund analogy and the investment mechanic; he did not give that reason.*
 
 ## What I am taking into the night
 
 > Mostly the same things I started with. Try to consider her interests and express that consideration to her. Front the education over the business justification. Aim for a lump sum approach for both the safety boost/education and capital investment buckets. See if she'd be willing to let me build more AI augmentation around the budget categorization process.
 
-Four, and they answer the three frictions: automation for the categorization, a lump sum for capital expenses, a lump sum for the safety-boost and education spending, and — first on the list and not a structure — considering Jen's interests and expressing that consideration. Why that one is the fragile item is [the symmetrical anxiety](central-loneliness/symmetrical-anxiety.book-chapter.md), and it is the only one of the four that depends on holding two things at once.
+Four, and they answer the three frictions: automation for the categorization, a lump sum for capital expenses, a lump sum for the safety-boost and education spending, and — first on the list and not a structure — considering Jen's interests and expressing that consideration. Why that one is the fragile item is [the symmetrical anxiety](book-section/all-about-alan/symmetrical-anxiety), and it is the only one of the four that depends on holding two things at once.
 
 ## Cross-references
 
-- [central-loneliness/date-nights.md](central-loneliness/date-nights.book-chapter.md) — the Alan-focused night this is prepared for, and why the mines that stay cleared are the ones cleared by deeper system understanding.
-- [central-loneliness/symmetrical-anxiety.md](central-loneliness/symmetrical-anxiety.book-chapter.md) — the two anxieties this conversation runs on top of, and why the first item on my list is the one at risk.
-- [safety-years.md](safety-years.book-chapter.md) — the unit the time-preference argument is denominated in, and the recovery curve it rests on.
-- [employment-cessation.md](employment-cessation.book-chapter.md#financial-bridge-as-precondition) — the stock sale that bought this runway, and the earlier reading of its length.
-- [safety.md → safety is a funded level](safety.book-chapter.md#safety-is-a-funded-level-not-a-per-alarm-switch) — the Nuropod as a purchase that bought levels, which is the one worked instance of capacity spending returning a measured amount.
-- [banking.md](banking.book-chapter.md) — the institutions the money sits in.
-- [agent-harness.md](agent-harness.book-chapter.md) — what the compute is building.
+- [central-loneliness/date-nights.md](book-section/all-about-alan/date-nights) — the Alan-focused night this is prepared for, and why the mines that stay cleared are the ones cleared by deeper system understanding.
+- [central-loneliness/symmetrical-anxiety.md](book-section/all-about-alan/symmetrical-anxiety) — the two anxieties this conversation runs on top of, and why the first item on my list is the one at risk.
+- [safety-years.md](book-section/all-about-alan/safety-years) — the unit the time-preference argument is denominated in, and the recovery curve it rests on.
+- [employment-cessation.md](book-section/all-about-alan/employment-cessation#financial-bridge-as-precondition) — the stock sale that bought this runway, and the earlier reading of its length.
+- [safety.md → safety is a funded level](book-section/all-about-alan/safety#safety-is-a-funded-level-not-a-per-alarm-switch) — the Nuropod as a purchase that bought levels, which is the one worked instance of capacity spending returning a measured amount.
+- [banking.md](book-section/all-about-alan/banking) — the institutions the money sits in.
+- [agent-harness.md](book-section/all-about-alan/agent-harness) — what the compute is building.

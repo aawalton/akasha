@@ -3,7 +3,7 @@
 
 > Information-and-media audit — every news, books, podcast, long-form, search, and information-side-of-social dependency I currently lean on. Grades per `grading-scale.md`. Surfaces the information-diet-as-remediation pattern (whole categories eliminated by not-consuming rather than vendor-switching), Royal Road as a B-tier outlier inside a D-tier platform sector, and the search-remediation path that opens up once local compute is in place.
 
-Every information-and-media-side dependency I currently lean on — news, books, podcasts, long-form / newsletters, search, and social platforms used for information (rather than connection). Grades per [grading-scale.md](grading-scale.book-chapter.md). The headline observation is that the dependency surface here is sparse by design — multiple major categories (news, podcasts, most social platforms) have already been remediated by eliminating consumption entirely, not by switching vendors. That pattern is itself a strategy, formalized in [information-diet.md](information-diet.book-chapter.md).
+Every information-and-media-side dependency I currently lean on — news, books, podcasts, long-form / newsletters, search, and social platforms used for information (rather than connection). Grades per [grading-scale.md](book-section/all-about-alan/grading-scale). The headline observation is that the dependency surface here is sparse by design — multiple major categories (news, podcasts, most social platforms) have already been remediated by eliminating consumption entirely, not by switching vendors. That pattern is itself a strategy, formalized in [information-diet.md](book-section/all-about-alan/information-diet).
 
 ## Inventory
 
@@ -11,7 +11,7 @@ Every information-and-media-side dependency I currently lean on — news, books,
 
 **None directly.** No daily news source — no newspaper subscription, no news app, no scheduled exposure. Indirect exposure occurs through Instagram (D-tier; see below) and through conversation with people who do consume news.
 
-This is itself a personal-freedom strategy, not an oversight. Eliminating direct news consumption removes a whole class of dependencies at once: attention-extraction platforms, outrage-cycle pipelines, algorithmic-feed providers. Same shape as the [medication-independence direction in healthcare](healthcare.book-chapter.md#strategy--medication-independence-direction) — the answer to a D-grade vendor category is sometimes "stop having the need at all" rather than "find a better vendor." Composes with [alternatives.md → self-reliance as not-needing](alternatives.book-chapter.md#self-reliance-as-not-needing) and is the worked example behind [information-diet.md](information-diet.book-chapter.md).
+This is itself a personal-freedom strategy, not an oversight. Eliminating direct news consumption removes a whole class of dependencies at once: attention-extraction platforms, outrage-cycle pipelines, algorithmic-feed providers. Same shape as the [medication-independence direction in healthcare](book-section/all-about-alan/healthcare#strategy--medication-independence-direction) — the answer to a D-grade vendor category is sometimes "stop having the need at all" rather than "find a better vendor." Composes with [alternatives.md → self-reliance as not-needing](book-section/all-about-alan/alternatives#self-reliance-as-not-needing) and is the worked example behind [information-diet.md](book-section/all-about-alan/information-diet).
 
 ### Books
 
@@ -20,8 +20,8 @@ This is itself a personal-freedom strategy, not an oversight. Eliminating direct
 - **Service.** Primary ebook source for the household. Kindle device plus Kindle app on phones / tablets.
 - **Grade.** **D.**
 - **Reservations.** Amazon-as-org carries well-rehearsed concerns — workplace and warehouse-labor practices, anti-competitive market behavior in multiple verticals, Bezos-era political-alignment shifts. The Kindle product line specifically adds DRM lock-in (Kindle-format books bind to the Amazon account) and the ebooks-as-licensed-not-owned posture (Amazon retains the legal ability to revoke access to purchased books — a power they have used, historically rare but documented).
-- **Criticality.** Medium. Active dependency for ebook reading; switchable with friction. Same "active dependency despite D-grade verdict" shape as [Walmart in the food audit](food.book-chapter.md#walmart-including-walmart-grocery-delivery) — see the framework patterns section in food.md.
-- **Notes.** D comes from the parent grade — same shape as [Gmail / Drive / YouTube under Google in software-and-saas](software-and-saas.book-chapter.md#gmail-google). The Kindle product line doesn't carry specific positive evidence that would lift it above the parent default, and the DRM + licensing reservations push in the same direction.
+- **Criticality.** Medium. Active dependency for ebook reading; switchable with friction. Same "active dependency despite D-grade verdict" shape as [Walmart in the food audit](book-section/all-about-alan/food#walmart-including-walmart-grocery-delivery) — see the framework patterns section in food.md.
+- **Notes.** D comes from the parent grade — same shape as [Gmail / Drive / YouTube under Google in software-and-saas](book-section/all-about-alan/software-and-saas#gmail-google). The Kindle product line doesn't carry specific positive evidence that would lift it above the parent default, and the DRM + licensing reservations push in the same direction.
 
 #### Audible
 
@@ -49,7 +49,7 @@ This is itself a personal-freedom strategy, not an oversight. Eliminating direct
 
 - **Service.** Newsletter platform hosting a set of independent writers I read. Light-touch infrastructure over a direct writer-reader connection.
 - **Grade.** **B.**
-- **Reservations.** Platform-capture risk. Substack-the-company has had controversial content-moderation episodes (which way the platform leans on moderation is a leading indicator either way), and the payments / monetization stack is the natural enshittification surface if the company shifts strategy. The B grade is for current behavior, not for structural guarantee — there is no purpose-trust governance, no mutual ownership, no irrevocable mission lock. If Substack pivots, the grade resets per [capture-events.md](capture-events.book-chapter.md).
+- **Reservations.** Platform-capture risk. Substack-the-company has had controversial content-moderation episodes (which way the platform leans on moderation is a leading indicator either way), and the payments / monetization stack is the natural enshittification surface if the company shifts strategy. The B grade is for current behavior, not for structural guarantee — there is no purpose-trust governance, no mutual ownership, no irrevocable mission lock. If Substack pivots, the grade resets per [capture-events.md](book-section/all-about-alan/capture-events).
 - **Criticality.** Low-to-medium. Recreational / informational source. Replaceable in principle, though the specific writers I follow would each need to be tracked through any platform migration.
 - **Notes.** Current-behavior B, not structural B. Monitor for capture signals: changes in content-moderation policy, monetization-extraction moves (mandatory paid tiers, fee shifts), mandatory vendor-lock features (limiting writer portability or reader access). See the TODO item.
 
@@ -58,7 +58,7 @@ This is itself a personal-freedom strategy, not an oversight. Eliminating direct
 #### Google Search
 
 - **Service.** Default web search.
-- **Grade.** **D.** Inherits the Google parent grade already established in [software-and-saas.md → Gmail / Drive / YouTube](software-and-saas.book-chapter.md#gmail-google).
+- **Grade.** **D.** Inherits the Google parent grade already established in [software-and-saas.md → Gmail / Drive / YouTube](book-section/all-about-alan/software-and-saas#gmail-google).
 - **Reservations.** Search-specific behavior has degraded visibly over the last several years: ads pushed above results, AI-overview features displacing publishers, declining result quality for non-commercial queries. The parent-organization Google reservations apply on top of the search-specific degradation.
 - **Criticality.** Medium-to-high. Active default for general web search across the household.
 - **Notes.** Parent-grade inheritance with no positive evidence on the search product line to override the default — the search-specific behavior is in the same direction as the parent default, not opposed to it. Remediation path opens up once local compute is in place: Claude / local-model-as-search reduces the Google search dependency by routing some of the queries through capability the household owns. Substitutes also exist already (Kagi, Perplexity, DuckDuckGo) each with their own grade concerns and switching cost.
@@ -82,32 +82,32 @@ The information-and-media strategy is **maintain the sparse-by-design info diet,
 
 ### 1. Maintain the information-diet sparsity
 
-The current sparsity (no news, no podcasts, almost no information-side social) is the highest-leverage move in this domain and it is already in place. The action is "maintain, with periodic review." See [information-diet.md](information-diet.book-chapter.md) for the full pattern.
+The current sparsity (no news, no podcasts, almost no information-side social) is the highest-leverage move in this domain and it is already in place. The action is "maintain, with periodic review." See [information-diet.md](book-section/all-about-alan/information-diet) for the full pattern.
 
 ### 2. Amazon / Audible book remediation — bandwidth-gated
 
 D-grade ebook plus audiobook dependency on a single parent (Amazon). Healthy alternative space:
 
-- **Provo Library + Libby + Hoopla.** Free, library-aligned, government-as-utility C-tier per [alternatives.md → government-as-utility](alternatives.book-chapter.md#6-government-as-utility). Low-effort migration once the workflow is set up.
-- **Libro.fm.** Indie-bookstore-aligned audiobook service, candidate B-tier per the [cultivating-local-relationships.md](cultivating-local-relationships.book-chapter.md) shape applied to the audiobook category. Higher cost than Audible but trust-aligned with independent booksellers rather than with Amazon.
-- **Physical books.** One-time-acquisition self-reliance — same shape as [the garden in food.md](food.book-chapter.md#home-garden-plus-8-fruit-trees), capital-acquired capability rather than ongoing relationship.
+- **Provo Library + Libby + Hoopla.** Free, library-aligned, government-as-utility C-tier per [alternatives.md → government-as-utility](book-section/all-about-alan/alternatives#6-government-as-utility). Low-effort migration once the workflow is set up.
+- **Libro.fm.** Indie-bookstore-aligned audiobook service, candidate B-tier per the [cultivating-local-relationships.md](book-section/all-about-alan/cultivating-local-relationships) shape applied to the audiobook category. Higher cost than Audible but trust-aligned with independent booksellers rather than with Amazon.
+- **Physical books.** One-time-acquisition self-reliance — same shape as [the garden in food.md](book-section/all-about-alan/food#home-garden-plus-8-fruit-trees), capital-acquired capability rather than ongoing relationship.
 - **Royal Road.** Already-B alternative for the fiction-genre slice it covers.
 
 Migration is bandwidth-gated like the Walmart exit. The alternatives space is healthy enough that the answer is "when bandwidth recovers" rather than "if alternatives exist."
 
 ### 3. Substack capture-signal monitoring
 
-Current B is current-behavior-only. Watch for the specific signals listed in the Notes above (content-moderation shifts, monetization extraction, mandatory vendor lock-in). The capture-event watch from [capture-events.md](capture-events.book-chapter.md) applies with the standard trust-resets-to-zero rule if any signal lands.
+Current B is current-behavior-only. Watch for the specific signals listed in the Notes above (content-moderation shifts, monetization extraction, mandatory vendor lock-in). The capture-event watch from [capture-events.md](book-section/all-about-alan/capture-events) applies with the standard trust-resets-to-zero rule if any signal lands.
 
 ### 4. Search remediation — pending Mac Studio + local-model migration
 
-Tied to the [Anthropic remediation strategy](anthropic-remediation.book-chapter.md) — the same Mac Studio + local-model capability that retires the Anthropic Max subscriptions also opens up local-model-as-search as a partial replacement for Google. Search is currently Google (D) by default; substitutes are available now (Kagi, Perplexity, DuckDuckGo) but the highest-leverage move is the same capital-acquisition path already planned for the AI dependency.
+Tied to the [Anthropic remediation strategy](book-section/all-about-alan/anthropic-remediation) — the same Mac Studio + local-model capability that retires the Anthropic Max subscriptions also opens up local-model-as-search as a partial replacement for Google. Search is currently Google (D) by default; substitutes are available now (Kagi, Perplexity, DuckDuckGo) but the highest-leverage move is the same capital-acquisition path already planned for the AI dependency.
 
 ## Framework patterns surfaced
 
-- **Information-diet sparsity as personal-freedom strategy.** The household has remediated news, podcasts, and most information-side social platforms by eliminating consumption, not by switching vendors. The not-needing direction from [alternatives.md → self-reliance as not-needing](alternatives.book-chapter.md#self-reliance-as-not-needing) applied at the category level rather than the per-vendor level. Lands as [information-diet.md](information-diet.book-chapter.md).
-- **B-tier outliers in a D-tier sector — extended to platform infrastructure.** Royal Road joins the existing concrete-outlier list: homeschool registration (Utah-government D default), Costco (corporate-scale D default), Dr. Robinson (institutional C default), Edgemont Auto (transportation D default), pediatric dentist (corporate-scale C/D default). The structural alignment mechanism is the same in each case — aligned by design rather than by mission claim. Composes with the pending [structurally-aligned-outliers framework note](grading-scale.book-chapter.md) (an open thread in `/abby`'s backlog).
-- **Same-parent product-line inheritance extended.** Google search D inherits the parent grade established for Gmail / Drive / YouTube in [software-and-saas.md](software-and-saas.book-chapter.md#gmail-google); the search-specific behavior reinforces the default rather than overriding it. Same pattern applies to Audible inheriting from Amazon. Composes with [grading-scale.md → Grade can vary by product line](grading-scale.book-chapter.md#grade-can-vary-by-product-line-within-one-parent-company) — when the parent grade is D and the product line lacks specific positive evidence, default to the parent grade. The reverse case (Google Fiber C lifting above the Google D default) requires concrete product-specific evidence; absent that, the default holds.
+- **Information-diet sparsity as personal-freedom strategy.** The household has remediated news, podcasts, and most information-side social platforms by eliminating consumption, not by switching vendors. The not-needing direction from [alternatives.md → self-reliance as not-needing](book-section/all-about-alan/alternatives#self-reliance-as-not-needing) applied at the category level rather than the per-vendor level. Lands as [information-diet.md](book-section/all-about-alan/information-diet).
+- **B-tier outliers in a D-tier sector — extended to platform infrastructure.** Royal Road joins the existing concrete-outlier list: homeschool registration (Utah-government D default), Costco (corporate-scale D default), Dr. Robinson (institutional C default), Edgemont Auto (transportation D default), pediatric dentist (corporate-scale C/D default). The structural alignment mechanism is the same in each case — aligned by design rather than by mission claim. Composes with the pending [structurally-aligned-outliers framework note](book-section/all-about-alan/grading-scale) (an open thread in `/abby`'s backlog).
+- **Same-parent product-line inheritance extended.** Google search D inherits the parent grade established for Gmail / Drive / YouTube in [software-and-saas.md](book-section/all-about-alan/software-and-saas#gmail-google); the search-specific behavior reinforces the default rather than overriding it. Same pattern applies to Audible inheriting from Amazon. Composes with [grading-scale.md → Grade can vary by product line](book-section/all-about-alan/grading-scale#grade-can-vary-by-product-line-within-one-parent-company) — when the parent grade is D and the product line lacks specific positive evidence, default to the parent grade. The reverse case (Google Fiber C lifting above the Google D default) requires concrete product-specific evidence; absent that, the default holds.
 
 ## Open audit gaps
 
