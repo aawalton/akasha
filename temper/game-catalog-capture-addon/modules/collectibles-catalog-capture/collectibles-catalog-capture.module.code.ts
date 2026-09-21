@@ -10,9 +10,9 @@ import { runBatched } from "akasha/temper/capture/writer/modules/run-batched/run
 import {
   BATCH_DELAY,
   BATCH_SIZE,
-} from "akasha/temper/catalog-core/modules/batch-config/batch-config.module.code.ts"
-import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+} from "akasha/temper/catalog/core/modules/batch-config/batch-config.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export interface CollectibleWorkItem {
   categoryIndex: number

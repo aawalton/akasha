@@ -13,6 +13,8 @@ export const temperCatalog = {
     "domain/temper-world",
     "page-type/temper-catalog-thing",
     "page-type/temper-skill",
+    "domain/temper-catalog-core",
+    "domain/temper-catalog-side-file",
   ],
   decisions: [
     {

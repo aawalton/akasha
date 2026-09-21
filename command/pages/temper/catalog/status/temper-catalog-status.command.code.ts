@@ -12,15 +12,15 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperCatalogStatus as page } from "akasha/command/pages/temper/catalog/status/temper-catalog-status.command.ts"
-import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/modules/domain-keys/domain-keys.module.code.ts"
+import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog/core/modules/domain-keys/domain-keys.module.code.ts"
 import {
   resolveSavedVariablesPath,
   resolveSideFilePath,
-} from "akasha/temper/catalog-side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
+} from "akasha/temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
 import {
   parseSideFile,
   type SideFile,
-} from "akasha/temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
+} from "akasha/temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
 import {
   type AccountSummary,
   readAccountSummaries,

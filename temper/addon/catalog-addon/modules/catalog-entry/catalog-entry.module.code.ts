@@ -4,9 +4,9 @@ import {
   type CaptureWriter,
   defineCaptureWriter,
 } from "akasha/temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"
-import { CATALOG_CAPTURE_DESCRIPTOR } from "akasha/temper/catalog-core/modules/catalog-descriptor/catalog-descriptor.module.code.ts"
-import type { CatalogPayload } from "akasha/temper/catalog-core/modules/catalog-payload/catalog-payload.module.code.ts"
-import { setCatalogSavedVariablesAccessor } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { CATALOG_CAPTURE_DESCRIPTOR } from "akasha/temper/catalog/core/modules/catalog-descriptor/catalog-descriptor.module.code.ts"
+import type { CatalogPayload } from "akasha/temper/catalog/core/modules/catalog-payload/catalog-payload.module.code.ts"
+import { setCatalogSavedVariablesAccessor } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/modules/recipe-catalog-capture/recipe-catalog-capture.module.code.ts"
 import "akasha/temper/game-catalog-capture-addon/modules/lore-library-catalog-capture/lore-library-catalog-capture.module.code.ts"

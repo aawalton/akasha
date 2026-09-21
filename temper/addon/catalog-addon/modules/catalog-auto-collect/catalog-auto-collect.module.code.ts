@@ -13,12 +13,12 @@ import {
 import {
   type CatalogWalkVerdict,
   runCatalogWalk,
-} from "akasha/temper/catalog-core/modules/catalog-walk/catalog-walk.module.code.ts"
+} from "akasha/temper/catalog/core/modules/catalog-walk/catalog-walk.module.code.ts"
 import {
   type CatalogDomainEntry,
   getCatalogDomains,
-} from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+} from "akasha/temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export function autoCollect(): undefined {
   const savedVars = getSavedVariables()

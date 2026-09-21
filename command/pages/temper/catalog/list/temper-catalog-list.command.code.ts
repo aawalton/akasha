@@ -4,7 +4,7 @@ import { told } from "akasha/command/modules/answering/command-answering.module.
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperCatalogList as page } from "akasha/command/pages/temper/catalog/list/temper-catalog-list.command.ts"
-import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/modules/domain-keys/domain-keys.module.code.ts"
+import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog/core/modules/domain-keys/domain-keys.module.code.ts"
 
 const NAMED = [json]
 

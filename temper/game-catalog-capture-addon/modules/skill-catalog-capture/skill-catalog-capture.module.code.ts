@@ -9,8 +9,8 @@ import type {
   SkillCatalogMorph,
 } from "akasha/temper/capture/shape/modules/skill-catalog/skill-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture/writer/modules/run-batched/run-batched.module.code.ts"
-import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"
-import { getSavedVariables } from "akasha/temper/catalog-core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
+import { registerCatalogDomain } from "akasha/temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 const BATCH_SIZE = 100
 const BATCH_DELAY = 100

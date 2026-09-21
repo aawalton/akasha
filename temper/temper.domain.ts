@@ -14,8 +14,6 @@ export const temper = {
     "domain/temper-capture-datamining",
     "domain/temper-capture-datamining-reader",
     "domain/temper-catalog",
-    "domain/temper-catalog-core",
-    "domain/temper-catalog-side-file",
     "domain/temper-champion-point",
     "domain/temper-character",
     "domain/temper-character-build",

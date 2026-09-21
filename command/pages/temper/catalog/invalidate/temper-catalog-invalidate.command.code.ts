@@ -16,13 +16,13 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperCatalogInvalidate as page } from "akasha/command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.ts"
-import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog-core/modules/domain-keys/domain-keys.module.code.ts"
-import { resolveSideFilePath } from "akasha/temper/catalog-side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
+import { CATALOG_DOMAIN_KEYS } from "akasha/temper/catalog/core/modules/domain-keys/domain-keys.module.code.ts"
+import { resolveSideFilePath } from "akasha/temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
 import {
   computeNextSideFile,
   parseSideFile,
   serializeSideFile,
-} from "akasha/temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
+} from "akasha/temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
 
 const NAMED = [json, sideFileArgument, allArgument, domainArgument]
 
