@@ -5,7 +5,7 @@ export const jessicaBaioPetalsBestFriendsWithYourGirlfriend = {
   type: "page-type/track",
   slug: "jessica-baio-petals-best-friends-with-your-girlfriend",
   ownLength: 2.0566833333333334,
-  ownProgress: 0,
+  ownProgress: 2.0566833333333334,
   partOfCollections: [
     "release/jessica-baio-petals",
     "release/jessica-baio-bad-tattoo",
@@ -14,7 +14,7 @@ export const jessicaBaioPetalsBestFriendsWithYourGirlfriend = {
     "release/jessica-baio-take-it-back",
     "release/jessica-baio-best-friends-with-your-girlfriend",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "best friends with your girlfriend",
   trackType: "studio",

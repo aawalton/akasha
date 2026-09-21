@@ -5,7 +5,7 @@ export const jessicaBaioUnsaidDeluxeIDontEvenThinkAboutYou = {
   type: "page-type/track",
   slug: "jessica-baio-unsaid-deluxe-i-dont-even-think-about-you",
   ownLength: 2.4928,
-  ownProgress: 0,
+  ownProgress: 2.4928,
   partOfCollections: [
     "release/jessica-baio-unsaid-deluxe",
     "release/jessica-baio-unsaid",
@@ -13,7 +13,7 @@ export const jessicaBaioUnsaidDeluxeIDontEvenThinkAboutYou = {
     "release/jessica-baio-what-are-you-afraid-of",
     "release/jessica-baio-break-up-with-me",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "i don't even think about you",
   trackType: "studio",

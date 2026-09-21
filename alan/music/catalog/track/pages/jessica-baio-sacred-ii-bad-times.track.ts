@@ -5,7 +5,7 @@ export const jessicaBaioSacredIiBadTimes = {
   type: "page-type/track",
   slug: "jessica-baio-sacred-ii-bad-times",
   ownLength: 3.20675,
-  ownProgress: 0,
+  ownProgress: 3.20675,
   partOfCollections: [
     "release/jessica-baio-sacred-ii",
     "release/jessica-baio-sacred",
@@ -14,7 +14,7 @@ export const jessicaBaioSacredIiBadTimes = {
     "release/jessica-baio-love-me-less",
     "release/jessica-baio-bad-times",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "bad times",
   trackType: "studio",

@@ -5,7 +5,7 @@ export const jessicaBaioSacredIiLoveMeLess = {
   type: "page-type/track",
   slug: "jessica-baio-sacred-ii-love-me-less",
   ownLength: 2.9211833333333335,
-  ownProgress: 0,
+  ownProgress: 2.9211833333333335,
   partOfCollections: [
     "release/jessica-baio-sacred-ii",
     "release/jessica-baio-sacred",
@@ -13,7 +13,7 @@ export const jessicaBaioSacredIiLoveMeLess = {
     "release/jessica-baio-ferrari",
     "release/jessica-baio-love-me-less",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "love me less",
   trackType: "studio",

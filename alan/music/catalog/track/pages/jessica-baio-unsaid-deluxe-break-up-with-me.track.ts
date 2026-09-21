@@ -5,7 +5,7 @@ export const jessicaBaioUnsaidDeluxeBreakUpWithMe = {
   type: "page-type/track",
   slug: "jessica-baio-unsaid-deluxe-break-up-with-me",
   ownLength: 2.544,
-  ownProgress: 0,
+  ownProgress: 2.544,
   partOfCollections: [
     "release/jessica-baio-unsaid-deluxe",
     "release/jessica-baio-unsaid",
@@ -13,7 +13,7 @@ export const jessicaBaioUnsaidDeluxeBreakUpWithMe = {
     "release/jessica-baio-what-are-you-afraid-of",
     "release/jessica-baio-break-up-with-me",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "break up with me",
   trackType: "studio",

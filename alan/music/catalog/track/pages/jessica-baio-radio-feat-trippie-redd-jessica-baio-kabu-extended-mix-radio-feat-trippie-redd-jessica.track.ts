@@ -6,11 +6,11 @@ export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabuExtendedMixRadioFeatT
     type: "page-type/track",
     slug: "jessica-baio-radio-feat-trippie-redd-jessica-baio-kabu-extended-mix-radio-feat-trippie-redd-jessica",
     ownLength: 2.8444333333333334,
-    ownProgress: 0,
+    ownProgress: 2.8444333333333334,
     partOfCollections: [
       "release/jessica-baio-radio-feat-trippie-redd-jessica-baio-kabu-extended-mix",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Radio (feat. Trippie Redd, Jessica Baio & KABU) - Extended Mix",
     trackType: "remix",

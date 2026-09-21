@@ -5,7 +5,7 @@ export const jessicaBaioUnsaidDeluxeBiteTheBullet = {
   type: "page-type/track",
   slug: "jessica-baio-unsaid-deluxe-bite-the-bullet",
   ownLength: 2.34875,
-  ownProgress: 0,
+  ownProgress: 2.34875,
   partOfCollections: [
     "release/jessica-baio-unsaid-deluxe",
     "release/jessica-baio-unsaid",
@@ -14,7 +14,7 @@ export const jessicaBaioUnsaidDeluxeBiteTheBullet = {
     "release/jessica-baio-break-up-with-me",
     "release/jessica-baio-bite-the-bullet",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "bite the bullet",
   trackType: "studio",

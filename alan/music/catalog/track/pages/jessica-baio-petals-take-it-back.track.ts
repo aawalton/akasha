@@ -5,7 +5,7 @@ export const jessicaBaioPetalsTakeItBack = {
   type: "page-type/track",
   slug: "jessica-baio-petals-take-it-back",
   ownLength: 2.84745,
-  ownProgress: 0,
+  ownProgress: 2.84745,
   partOfCollections: [
     "release/jessica-baio-petals",
     "release/jessica-baio-bad-tattoo",
@@ -13,7 +13,7 @@ export const jessicaBaioPetalsTakeItBack = {
     "release/jessica-baio-glad-you-re-settling",
     "release/jessica-baio-take-it-back",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "take it back",
   trackType: "studio",
