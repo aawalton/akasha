@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"agent.page-type.types.ts","path":"agent/seat/seat.page-type.types.ts"}
 {"propertySlug":"import","fileName":"agent.page-type.types.ts","path":"agent/subagent/subagent.page-type.types.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-scratch-folders-node-modules-is-the-repositorys-own-node-modules.finding.ts","id":"01a09112-5923-7b71-add8-ffc2e60c1021"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-subagent-absent-from-its-seats-transcript-is-reaped-as-done-and-two-in-three-come-back.finding.ts","id":"01a09645-1535-736d-b730-da27832d6360"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-subagent-presence-write-holds-the-landing-lock-for-half-an-hour.finding.ts","id":"01a09cca-4322-7b5a-81f7-166077c9d14b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-value-nothing-names-in-the-seat-system-is-as-often-a-loose-wire-as-dead-code.finding.ts","id":"01a09d25-47eb-72a6-96c3-41c511e2a09b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-bash-call-hook-page-cannot-go-until-every-older-agent-has-gone.finding.ts","id":"01a0960d-1ce9-79ef-97ef-9e9430501237"}
