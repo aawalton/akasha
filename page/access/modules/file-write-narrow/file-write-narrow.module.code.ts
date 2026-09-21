@@ -3,7 +3,7 @@ import type {
   PageCondition,
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { Test } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import type { Test } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
 function textsOf(values: readonly unknown[]): readonly string[] | null {
   const out: string[] = []

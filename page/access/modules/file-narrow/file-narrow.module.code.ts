@@ -11,7 +11,7 @@ import type {
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
-import type { Test } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import type { Test } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
 export function declaredAs(key: string, definitions: readonly PropertyDefinition[]): string {
   const canonical = camelizeKey(key)

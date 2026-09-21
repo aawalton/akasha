@@ -28,7 +28,9 @@ import {
   pagesOfType,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import {
-  matches,
+  narrows,
+  type Test,
+  unrun,
   weigh,
 } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
@@ -42,36 +44,6 @@ const MEMBERS = "members"
 const PARTED_BY = "/"
 
 const TYPE = "type"
-
-export const TESTS_RUN: readonly string[] = [
-  "is",
-  "in",
-  "not-in",
-  "has",
-  "contains",
-  "starts-with",
-  "ends-with",
-  "empty",
-  "at-or-after",
-  "after",
-  "before",
-  "at-or-before",
-]
-
-export type Test = {
-  readonly is?: string
-  readonly in?: readonly string[]
-  readonly "not-in"?: readonly string[]
-  readonly has?: string
-  readonly contains?: string | readonly string[]
-  readonly "starts-with"?: string
-  readonly "ends-with"?: string
-  readonly empty?: boolean
-  readonly "at-or-after"?: string | number
-  readonly after?: string | number
-  readonly before?: string | number
-  readonly "at-or-before"?: string | number
-}
 
 export type Query = {
   readonly pageTypeSlug: string
@@ -89,30 +61,6 @@ export type Row = Readonly<Record<string, unknown>>
 export type Asked =
   | { readonly rows: readonly Row[]; readonly n: number }
   | { readonly refused: string }
-
-export function meets(value: Value, key: string, test: Test): boolean {
-  const held = value[key]
-  for (const [name, bound] of Object.entries(test)) {
-    if (bound === undefined) continue
-    if (!matches(held, name, bound)) return false
-  }
-  return true
-}
-
-function unrun(where: Readonly<Record<string, Test>> | undefined): string | null {
-  if (where === undefined) return null
-  for (const [key, test] of Object.entries(where)) {
-    if (test === null || typeof test !== "object" || Array.isArray(test)) {
-      return `\`where.${key}\` is no test this takes`
-    }
-    if (Object.keys(test).length === 0) return `\`where.${key}\` states no test`
-    for (const name of Object.keys(test)) {
-      if (TESTS_RUN.includes(name)) continue
-      return `\`where.${key}.${name}\` is no test this runs. the tests are ${TESTS_RUN.join(", ")}`
-    }
-  }
-  return null
-}
 
 export type Declared = {
   readonly key: string
@@ -282,12 +230,6 @@ function unlit(query: Query, dark: ReadonlyMap<string, string>): string | null {
     return `\`${at}\` names \`${key}\`, and no calculation is worked out for that key here: ${why}. the keys darkened are ${[...dark.keys()].sort().join(", ")}`
   }
   return null
-}
-
-function narrows(value: Value, where: Readonly<Record<string, Test>> | undefined): boolean {
-  if (where === undefined) return true
-  for (const [key, test] of Object.entries(where)) if (!meets(value, key, test)) return false
-  return true
 }
 
 function rowOf(value: Value, keys: readonly string[] | undefined): Row {

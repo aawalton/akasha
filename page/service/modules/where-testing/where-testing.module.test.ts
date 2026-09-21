@@ -2,6 +2,9 @@ import { expect, test } from "bun:test"
 import {
   bare,
   matches,
+  meets,
+  narrows,
+  unrun,
   weigh,
 } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
@@ -58,4 +61,38 @@ test("a sort weighs text by the locale's order", () => {
   expect(weigh(1, 2)).toBeLessThan(0)
   expect(weigh("a", "b")).toBeLessThan(0)
   expect(weigh(null, null)).toBe(0)
+})
+
+test("an ordering test reads two instants as instants", () => {
+  const held = { at: "2026-08-30T12:00:00Z" }
+  expect(meets(held, "at", { "at-or-after": "2026-08-30" })).toBe(true)
+  expect(meets(held, "at", { before: "2026-08-01" })).toBe(false)
+  expect(meets(held, "at", { before: "2026-09-01" })).toBe(true)
+})
+
+test("an ordering test reads two numbers as numbers", () => {
+  expect(meets({ n: 9 }, "n", { before: 10 })).toBe(true)
+  expect(meets({ n: 9 }, "n", { before: 5 })).toBe(false)
+})
+
+test("an ordering test over nothing held keeps nothing", () => {
+  expect(meets({}, "at", { before: "2026-09-01" })).toBe(false)
+})
+
+test("a key a value has nothing for reads as bare", () => {
+  expect(meets({}, "at", { empty: true })).toBe(true)
+  expect(meets({}, "at", { "not-in": ["a"] })).toBe(true)
+})
+
+test("every test on every key holds before a value narrows", () => {
+  expect(narrows({ a: "one", b: "two" }, { a: { is: "one" }, b: { is: "two" } })).toBe(true)
+  expect(narrows({ a: "one", b: "two" }, { a: { is: "one" }, b: { is: "three" } })).toBe(false)
+  expect(narrows({ a: "one" }, undefined)).toBe(true)
+})
+
+test("a name naming no test is refused rather than dropped", () => {
+  expect(unrun({ slug: { is: "gap" } })).toBeNull()
+  expect(unrun(undefined)).toBeNull()
+  expect(unrun({ slug: {} })).toContain("states no test")
+  expect(unrun({ slug: { sounds: "gap" } } as never)).toContain("is no test this runs")
 })

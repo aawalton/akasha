@@ -54,15 +54,7 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A test this module does not run is refused rather than dropped.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A test stating nothing is refused rather than narrowing nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The tests this runs are the ones `where-testing` names.",
+      statement: "The tests a question may state, and what each test runs, are `where-testing`'s.",
     },
     {
       decisionKind: "decision-kind/departure",

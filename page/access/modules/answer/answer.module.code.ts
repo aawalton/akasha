@@ -16,11 +16,9 @@ import {
   type Narrow,
   Withheld,
 } from "akasha/page/access/modules/read-gate/read-gate.module.code.ts"
-import type {
-  Asked,
-  Test,
-} from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import type { Asked } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import type { Test } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
 const LISTING_CEILING = 5_000
 

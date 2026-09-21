@@ -3,7 +3,6 @@ import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-w
 import {
   askedFor,
   asking,
-  meets,
   ownerFor,
   shaping,
   titledAs,
@@ -240,22 +239,6 @@ test("after leaves out what is stated", () => {
 
 test("at-or-before keeps what is stated and what orders earlier", () => {
   expect(slugsOf(over({ slug: { "at-or-before": "absence" } }))).toEqual(["absence"])
-})
-
-test("an ordering test reads two instants as instants", () => {
-  const held = { at: "2026-08-30T12:00:00Z" }
-  expect(meets(held, "at", { "at-or-after": "2026-08-30" })).toBe(true)
-  expect(meets(held, "at", { before: "2026-08-01" })).toBe(false)
-  expect(meets(held, "at", { before: "2026-09-01" })).toBe(true)
-})
-
-test("an ordering test reads two numbers as numbers", () => {
-  expect(meets({ n: 9 }, "n", { before: 10 })).toBe(true)
-  expect(meets({ n: 9 }, "n", { before: 5 })).toBe(false)
-})
-
-test("an ordering test over nothing held keeps nothing", () => {
-  expect(meets({}, "at", { before: "2026-09-01" })).toBe(false)
 })
 
 test("a test stating nothing is refused rather than narrowing nothing", () => {

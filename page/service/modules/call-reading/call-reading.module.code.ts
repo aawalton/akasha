@@ -1,9 +1,5 @@
 import type { Appending } from "akasha/page/service/modules/page-appending/page-appending.module.code.ts"
-import {
-  type Query,
-  TESTS_RUN,
-  type Test,
-} from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import type {
   Named,
@@ -14,6 +10,10 @@ import type {
   Kept,
   Put,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import {
+  TESTS_RUN,
+  type Test,
+} from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
 const ORDERING_TESTS = ["at-or-after", "after", "before", "at-or-before"]
 

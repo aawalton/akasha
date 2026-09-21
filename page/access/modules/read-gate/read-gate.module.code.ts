@@ -1,5 +1,5 @@
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { Test } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import type { Test } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
 export type Narrow = { readonly key: string; readonly is: string }
 
