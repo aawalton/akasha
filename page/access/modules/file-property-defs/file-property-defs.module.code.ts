@@ -104,6 +104,7 @@ const RENDERED_AS: Readonly<Record<string, string>> = {
   "rank-property": "select",
   "record-property": "json",
   "relation-property": "relation",
+  "rrule-property": "rrule",
   "select-property": "select",
   "text-property": RENDERED_PLAIN,
   "url-property": "url",

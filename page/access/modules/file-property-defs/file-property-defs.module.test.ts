@@ -45,6 +45,7 @@ const DECLARERS = [
   "rank-property",
   "record-property",
   "relation-property",
+  "rrule-property",
   "select-property",
   "text-property",
   "url-property",
