@@ -973,7 +973,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/body/modules/utf8-body/utf8-body.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/command/modules/verify-render-plan/verify-render-plan.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/modules/launch-env/launch-env.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/browser-test-env/browser-test-env.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/console-capture/console-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/deployed-render-check/deployed-render-check.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/test-harness/modules/harness-launch/harness-launch.module.ts"}

@@ -6,7 +6,6 @@ export const browserTestHarness = {
   slug: "browser-test-harness",
   definition: "a chromium driven against a running app, signed in as a user it never writes",
   parts: [
-    "module/browser-test-env",
     "module/console-capture",
     "module/deployed-render-check",
     "module/harness-launch",
