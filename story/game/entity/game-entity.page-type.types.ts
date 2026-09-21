@@ -5,6 +5,7 @@ import type { EntityClass } from "akasha/story/game/entity/properties/entity-cla
 import type { EntityGame } from "akasha/story/game/entity/properties/entity-game.relation-property.types.ts"
 import type { EntityKind } from "akasha/story/game/entity/properties/entity-kind.text-property.types.ts"
 import type { EntityLevel } from "akasha/story/game/entity/properties/entity-level.number-property.types.ts"
+import type { EntitySkills } from "akasha/story/game/entity/properties/entity-skills.record-property.types.ts"
 import type { EntityTitles } from "akasha/story/game/entity/properties/entity-titles.record-property.types.ts"
 import type { EntityTraits } from "akasha/story/game/entity/properties/entity-traits.record-property.types.ts"
 
@@ -17,4 +18,5 @@ export type GameEntity = Page & {
   attributes?: AttributeScores
   traits?: EntityTraits
   titles?: EntityTitles
+  skills?: EntitySkills
 }

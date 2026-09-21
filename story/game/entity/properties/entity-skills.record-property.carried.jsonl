@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A skill holds how far it has come rather than the rung that reaches."},{"decisionKind":"decision-kind/gap","statement":"A mechanic names the rung a skill's progress reaches."}]}
+{"definition":"what an entity has learnt to do, and how far each one has come"}
+{"id":"01a0c638-3b18-7156-b011-d466055dd675"}
+{"properties":[{"pageProperty":"text-property/sheet-name","required":true,"many":false},{"pageProperty":"number-property/skill-progress","required":true,"many":false},{"pageProperty":"text-property/sheet-effect","required":true,"many":false},{"pageProperty":"text-property/sheet-source","required":false,"many":false}]}
+{"propertySlug":"skills"}
+{"slug":"entity-skills"}
+{"type":"page-type/record-property"}
+{"types":"ts"}
