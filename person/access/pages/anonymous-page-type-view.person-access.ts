@@ -8,5 +8,5 @@ export const anonymousPageTypeView = {
   accessKind: "access-kind/page-type",
   target: "view",
   deed: ["access-deed/read-some"],
-  narrow: { key: "nav", is: "nav/requests" },
+  narrow: { key: "slug", is: "requests-published" },
 } as const satisfies PersonAccess

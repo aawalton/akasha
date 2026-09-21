@@ -1,7 +1,7 @@
 {"accessKind":"access-kind/page-type"}
 {"deed":["access-deed/read-some"]}
 {"id":"01a0c52d-315f-7f71-8ca4-5cec802058ef"}
-{"narrow":{"key":"nav","is":"nav/requests"}}
+{"narrow":{"key":"slug","is":"requests-published"}}
 {"person":"person/anonymous"}
 {"slug":"anonymous-page-type-view"}
 {"target":"view"}
