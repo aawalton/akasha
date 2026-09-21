@@ -68,7 +68,7 @@ test("the written settings name the entry, the bundle and the repository root", 
       canonicalName: "TemperTableFunctions",
       entryPath: "/repo/temper/addon/pages/lib-table-functions/e/e.module.code.ts",
       reachedDirs: [],
-      declaringDirs: ["/repo/temper/eso/type", "/repo/temper/addon/library-type"],
+      declaringDirs: ["/repo/temper/eso/type", "/repo/temper/addon/type"],
     })
   )
   expect(body).toMatchObject({
@@ -87,7 +87,7 @@ test("the written settings name the entry, the bundle and the repository root", 
       "/repo/temper/addon/pages/lib-table-functions/**/*.module.code.ts",
       "/repo/temper/addon/pages/lib-table-functions/**/*.d.ts",
       "/repo/temper/eso/type/**/*.type-declaration.d.ts",
-      "/repo/temper/addon/library-type/**/*.type-declaration.d.ts",
+      "/repo/temper/addon/type/**/*.type-declaration.d.ts",
     ],
   })
 })
@@ -225,7 +225,7 @@ test("an addon sitting deeper reaches the folders of declarations that sit besid
       value: { slug: "eso-api" },
     },
     {
-      path: "temper/addon/library-type/lib-async/lib-async.type-declaration.ts",
+      path: "temper/addon/type/lib-async/lib-async.type-declaration.ts",
       value: { slug: "lib-async" },
     },
     {
@@ -234,7 +234,7 @@ test("an addon sitting deeper reaches the folders of declarations that sit besid
     },
   ])
   expect(declaringDirs(root)).toEqual([
-    join(root, "temper/addon/library-type"),
+    join(root, "temper/addon/type"),
     join(root, "temper/eso/type"),
   ])
 })
