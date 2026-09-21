@@ -538,6 +538,7 @@
 {"propertySlug":"decision-kind","path":"change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.ts","id":"01a08dc4-e449-7081-b339-7a0d9b4ca947"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts","id":"01a09116-8eac-7885-886c-17c41e842516"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
+{"propertySlug":"decision-kind","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.ts","id":"01a0c496-2b97-76ff-8b10-c786cbff7340"}
 {"propertySlug":"decision-kind","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.ts","id":"01a07883-67ee-73cd-8370-4730fab7c87c"}
 {"propertySlug":"decision-kind","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.ts","id":"01a09c47-b808-729b-93da-e1e57e0056a9"}
 {"propertySlug":"decision-kind","path":"change/agent/file/divide-page-property/divide-page-property.change-agent.ts","id":"01a08df3-43fc-70b7-b21c-a996acd3d268"}
@@ -1233,7 +1234,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/music/capture/modules/play-row/play-row.module.ts","id":"01a063b0-cb34-7000-af1c-727892f4698a"}
 {"propertySlug":"decision-kind","path":"command/pages/music/capture/music-capture.command.ts","id":"01a063b0-cb34-7001-99b2-fd47783030fb"}
 {"propertySlug":"decision-kind","path":"command/pages/music/fold-songs/music-fold-songs.command.ts","id":"01a0b7c9-4e11-7a26-9f03-8b41d0e5c772"}
-{"propertySlug":"decision-kind","path":"command/pages/music/heard-tracks/music-heard-tracks.command.ts","id":"01a0c494-733f-7973-87ea-0df0523b4f6d"}
 {"propertySlug":"decision-kind","path":"command/pages/music/import-artist/music-import-artist.command.ts","id":"01a062fb-d2fd-72f5-b24e-22a9635b5910"}
 {"propertySlug":"decision-kind","path":"command/pages/music/link-songs/music-link-songs.command.ts","id":"01a0b732-4a33-7079-972f-39fd807b0c72"}
 {"propertySlug":"decision-kind","path":"command/pages/music/listening/music-listening.command.ts","id":"01a062f8-fe5a-7001-ae4a-4ede334b81af"}

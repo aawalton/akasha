@@ -19,5 +19,6 @@ export const changeAgentFile = {
     "change-agent/rename-page",
     "change-agent/rename-pages",
     "change-agent/move-pages-under",
+    "change-agent/add-game-mechanic",
   ],
 } as const satisfies Domain
