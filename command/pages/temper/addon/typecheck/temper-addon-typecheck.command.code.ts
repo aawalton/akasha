@@ -20,7 +20,7 @@ import { compilerConfigPathFor } from "akasha/temper/addon/build/modules/addon-c
 import {
   type AddonInfo,
   listAllAddons,
-} from "akasha/temper/addon/resolve/modules/addon-roster/addon-roster.module.code.ts"
+} from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
 
 const NAMED = [codeRootArgument]
 

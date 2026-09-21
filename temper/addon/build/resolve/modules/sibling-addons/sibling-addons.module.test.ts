@@ -10,7 +10,7 @@ import {
   siblingDistDir,
   siblingManifestsIn,
   siblingSourceDir,
-} from "akasha/temper/addon/resolve/modules/sibling-addons/sibling-addons.module.code.ts"
+} from "akasha/temper/addon/build/resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 
 const scratch = scratchWorld()
 

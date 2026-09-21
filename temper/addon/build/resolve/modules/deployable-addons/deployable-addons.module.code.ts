@@ -2,7 +2,7 @@ import {
   type AddonInfo,
   listAllAddons,
   type ResolveOpts,
-} from "akasha/temper/addon/resolve/modules/addon-roster/addon-roster.module.code.ts"
+} from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
 
 export type DeployableInfo = {
   readonly name: string

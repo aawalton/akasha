@@ -1717,6 +1717,11 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.ts","id":"01a062d1-4a70-7b3c-9e21-6d0a51f4c7e8"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.ts","id":"01a062d1-4a71-7f08-a4d5-3b9e7c02a1df"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-placing/addon-placing.module.ts","id":"01a090b8-6baa-7001-902c-0a3fc6d7cf83"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.ts","id":"01a060e2-4d62-7a26-8c08-d2b7be0f14ff"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/resolve/modules/addon-roster/addon-roster.module.ts","id":"01a06060-ec3e-72ca-8583-d3120bbc8269"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/resolve/modules/deployable-addons/deployable-addons.module.ts","id":"01a06060-ec3e-76a0-91e2-ff4014f8a701"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/resolve/modules/sibling-addons/sibling-addons.module.ts","id":"01a06060-ec40-72c6-b3e3-bb2631d6b18c"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts","id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/modules/install-named-addon/install-named-addon.module.ts","id":"01a06069-b790-7f2c-a237-0a215f888c46"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-component-labels/hud-component-labels.module.ts","id":"01a060a4-fa3a-7e69-ab6f-7e0aaefa14c1"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-component-record/hud-component-record.module.ts","id":"01a060a4-fa39-7073-a59e-f1228678be33"}
@@ -1837,11 +1842,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-decide/quests-decide.module.ts","id":"01a0635f-391c-78a5-84e9-0cc44f22b3f1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/trading/modules/trading-types/trading-types.module.ts","id":"01a06160-2a5e-7579-bb70-416bf4fbc1c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/trading/temper-addon-trading.temper-addon.ts","id":"01a06160-2a58-7de9-8f4a-dbca3806b485"}
-{"propertySlug":"decision-kind","path":"temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.ts","id":"01a060e2-4d62-7a26-8c08-d2b7be0f14ff"}
-{"propertySlug":"decision-kind","path":"temper/addon/resolve/modules/addon-roster/addon-roster.module.ts","id":"01a06060-ec3e-72ca-8583-d3120bbc8269"}
-{"propertySlug":"decision-kind","path":"temper/addon/resolve/modules/deployable-addons/deployable-addons.module.ts","id":"01a06060-ec3e-76a0-91e2-ff4014f8a701"}
-{"propertySlug":"decision-kind","path":"temper/addon/resolve/modules/sibling-addons/sibling-addons.module.ts","id":"01a06060-ec40-72c6-b3e3-bb2631d6b18c"}
-{"propertySlug":"decision-kind","path":"temper/addon/resolve/temper-addon-resolve.domain.ts","id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}
 {"propertySlug":"decision-kind","path":"temper/addon/settings-panel/modules/header/header.module.ts","id":"01a06053-3637-756b-93c2-519e609ad2d8"}
 {"propertySlug":"decision-kind","path":"temper/addon/settings-panel/temper-settings-panel.domain.ts","id":"01a06053-3636-7e00-b329-e1ac77ae851e"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}

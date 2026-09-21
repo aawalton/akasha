@@ -1,17 +1,17 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join, relative, sep } from "node:path"
 import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import { addonManifestSchema } from "akasha/temper/addon/resolve/modules/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
-import { listAllAddons } from "akasha/temper/addon/resolve/modules/addon-roster/addon-roster.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addon/build/resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { listAllAddons } from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   type AddonDependencies,
   resolveDistributableSet,
-} from "akasha/temper/addon/resolve/modules/distributable-set/distributable-set.module.code.ts"
+} from "akasha/temper/addon/build/resolve/modules/distributable-set/distributable-set.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,
-} from "akasha/temper/addon/resolve/modules/sibling-addons/sibling-addons.module.code.ts"
+} from "akasha/temper/addon/build/resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 import { ADDON_BUILD_REL_ROOT } from "akasha/temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts"
 import { type Zippable, zipSync } from "fflate"
 

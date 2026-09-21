@@ -2701,6 +2701,13 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/consolidation-migrations/consolidation-migrations.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/global-name-dependents/global-name-dependents.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/resolve/modules/addon-json/addon-json.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/resolve/modules/addon-roster/addon-roster.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/resolve/modules/deployable-addons/deployable-addons.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/resolve/modules/distributable-set/distributable-set.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/resolve/modules/folder-ownership/folder-ownership.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/resolve/modules/sibling-addons/sibling-addons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community/modules/addon-download/addon-download.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community/modules/addon-update-plan/addon-update-plan.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/community/modules/esoui-catalog/esoui-catalog.module.ts"}
@@ -4710,13 +4717,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/trading/modules/trading-skip-kiosk-dialog/trading-skip-kiosk-dialog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/trading/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/trading/modules/trading-types/trading-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/addon-json/addon-json.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/addon-manifest-file/addon-manifest-file.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/addon-roster/addon-roster.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/deployable-addons/deployable-addons.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/distributable-set/distributable-set.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/folder-ownership/folder-ownership.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/resolve/modules/sibling-addons/sibling-addons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/settings-panel/modules/build-lookup/build-lookup.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/settings-panel/modules/dropdown/dropdown.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/settings-panel/modules/header/header.module.ts"}
