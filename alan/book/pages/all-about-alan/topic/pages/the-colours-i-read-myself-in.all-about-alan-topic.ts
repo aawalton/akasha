@@ -8,5 +8,5 @@ export const theColoursIReadMyselfIn = {
   definition: "the coarse colour scale I read a resource on before it has numbers",
   parents: ["all-about-alan-topic/how-well-i-can-measure"],
   settled:
-    "Green is where I have been living, yellow is caution, red is alarm and black is crisis.\n\nBlue is the rung above green, a stretch beyond where I have been living, and it is the top of every scale rather than a surplus of its own.\n\nCounting my green and blue readings counts everything at or above the good rung.",
+    "Green is where I have been living, yellow is caution, red is alarm and black is crisis.\n\nBlue is the rung above green, a stretch beyond where I have been living, and it is the top of every scale rather than a surplus of its own.\n\nCounting my green and blue readings counts everything at or above the good rung.\n\nSafety used to sit here. Moving it up onto numbered levels with fixed anchors did more than describe the bar better. It let me read the states below zero as they happen, where on the colours they only ever resolved afterwards.",
 } as const satisfies AllAboutAlanTopic
