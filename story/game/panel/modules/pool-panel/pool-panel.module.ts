@@ -15,5 +15,17 @@ export const poolPanel = {
       decisionKind: "decision-kind/absence",
       statement: "No pool is named here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pool is one readout pairing what is left with the most it can hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pool's bar carries the game's own name for that pool, in capitals.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No bar is drawn for a number that is not a pool, and a maximum is no pool.",
+    },
   ],
 } as const satisfies Module
