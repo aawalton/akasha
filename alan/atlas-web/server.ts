@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
 import {
   formatWatermark,
   observeRss,
@@ -8,15 +9,11 @@ import {
   formatArrival,
   formatCompletion,
 } from "akasha/alan/atlas-web/modules/request-log/request-log.module.code.ts"
+import { handoverReader } from "akasha/alan/harness/handover-rr/modules/handover-reader/handover-reader.module.code.ts"
 import {
-  type AppCspConfig,
-  buildSecurityHeaders,
-} from "akasha/alan/harness/modules/security-headers/security-headers.module.code.ts"
-import {
-  htmlCacheControl,
-  serveClientStatic,
-} from "akasha/alan/harness/web-static-asset/modules/serve-static/serve-static.module.code.ts"
-import { randomId } from "akasha/page/id/modules/random-id/random-id.module.code.ts"
+  type RouterAppServing,
+  servedBy,
+} from "akasha/alan/harness/modules/router-app-serving/router-app-serving.module.code.ts"
 import type { ServerBuild } from "react-router"
 import { createRequestHandler } from "react-router"
 import { z } from "zod"
@@ -39,12 +36,15 @@ function asServerBuild(value: unknown): ServerBuild {
 
 const serverBuild = asServerBuild(await import(join(BUILD_DIR, "server", "index.js")))
 
-const handler = createRequestHandler(serverBuild, "production")
-
-const CSP_CONFIG: AppCspConfig = {
-  connectSrc: ["https://protomaps.github.io"],
-  imgSrc: ["blob:", "https://protomaps.github.io"],
-  workerSrc: ["blob:"],
+const SERVING: RouterAppServing = {
+  clientDir: CLIENT_DIR,
+  csp: {
+    connectSrc: ["https://protomaps.github.io"],
+    imgSrc: ["blob:", "https://protomaps.github.io"],
+    workerSrc: ["blob:"],
+  },
+  whoIsReading: handoverReader(ATLAS_SITE),
+  routes: createRequestHandler(serverBuild, "production"),
 }
 
 const PORT_SCHEMA = z.coerce.number().int().positive().max(65535).default(3000)
@@ -95,26 +95,8 @@ Bun.serve({
   },
 })
 
-async function respond(request: Request, pathname: string): Promise<Response> {
-  const staticRes = await serveClientStatic(pathname, CLIENT_DIR)
-  if (staticRes) return staticRes
-
-  const nonce = randomId()
-  const resp = await handler(request, { nonce })
-  const contentType = resp.headers.get("content-type") ?? ""
-  if (contentType.startsWith("text/html")) {
-    const newHeaders = new Headers(resp.headers)
-    for (const [name, value] of Object.entries(buildSecurityHeaders(CSP_CONFIG, nonce))) {
-      newHeaders.set(name, value)
-    }
-    newHeaders.set("Cache-Control", htmlCacheControl(newHeaders.get("cache-control")))
-    return new Response(resp.body, {
-      status: resp.status,
-      statusText: resp.statusText,
-      headers: newHeaders,
-    })
-  }
-  return resp
+function respond(request: Request, pathname: string): Promise<Response> {
+  return servedBy(SERVING, request, pathname)
 }
 
 let rssWatermark = 0

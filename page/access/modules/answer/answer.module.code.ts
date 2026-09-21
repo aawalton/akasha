@@ -14,6 +14,7 @@ import type { RawPageRow } from "akasha/page/access/modules/raw-page-row/raw-pag
 import {
   askedNarrow,
   type Narrow,
+  Withheld,
 } from "akasha/page/access/modules/read-gate/read-gate.module.code.ts"
 import type {
   Asked,
@@ -207,6 +208,9 @@ export async function answerPages(
   try {
     reading = await deps.readPageType(pageTypeSlug)
   } catch (thrown) {
+    if (thrown instanceof Withheld) {
+      return Response.json({ error: SIGNED_IN_ONLY }, { status: 401, headers })
+    }
     if (!(thrown instanceof RosterUnreachable)) throw thrown
     return Response.json(
       { error: UNREAD_PAGE_TYPE, unread: [thrown.why] },

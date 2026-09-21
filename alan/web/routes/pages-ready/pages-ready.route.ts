@@ -33,5 +33,9 @@ export const pagesReady = {
       decisionKind: "decision-kind/departure",
       statement: "Every red the route can answer is shown by a test seeding that fault.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The probe reads as the system, so no reader's grant can turn this red.",
+    },
   ],
 } as const satisfies Route

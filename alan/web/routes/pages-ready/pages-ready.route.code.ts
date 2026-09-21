@@ -1,3 +1,4 @@
+import { readingAsTheSystem } from "akasha/alan/harness/modules/reading-in-flight/reading-in-flight.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 
 const PROBE_PAGE_TYPE = "page-type"
@@ -6,10 +7,11 @@ const WHY_CAP = 300
 
 export type PagesRead = () => Promise<number>
 
-const liveRead: PagesRead = async () => {
-  const got = await getPages({ pageTypeSlug: PROBE_PAGE_TYPE, limit: 1 })
-  return got.rows.length
-}
+const liveRead: PagesRead = () =>
+  readingAsTheSystem(async () => {
+    const got = await getPages({ pageTypeSlug: PROBE_PAGE_TYPE, limit: 1 })
+    return got.rows.length
+  })
 
 export async function pagesReady(read: PagesRead = liveRead): Promise<Response> {
   let rows: number

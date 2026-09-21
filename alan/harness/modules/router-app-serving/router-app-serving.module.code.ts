@@ -19,6 +19,8 @@ export type RoutesReached = (
   context: { readonly nonce: string }
 ) => Promise<Response>
 
+export const noReader: WhoIsReading = async () => ({ user: null })
+
 export type RouterAppServing = {
   readonly clientDir: string
   readonly csp: AppCspConfig
