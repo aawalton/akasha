@@ -37,7 +37,6 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/backup/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/database/pgbouncer/pgbouncer.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/storage/database/postgres-cnpg/postgres-cnpg.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.ts"}

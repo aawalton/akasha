@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"infrastructure/postgres-annual-dump/manifests/postgres-annual-dump-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"infrastructure/storage/backup/retention/gfs-promoter/gfs-promoter.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"infrastructure/storage/backup/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts"}
-{"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"infrastructure/storage/database/pgbouncer/pgbouncer.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"page/service/page-forwarder/page-forwarder.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"product/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"product/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts"}

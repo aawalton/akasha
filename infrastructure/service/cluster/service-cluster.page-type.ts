@@ -41,7 +41,6 @@ export const serviceCluster = {
     "service-cluster/node-exporter-daemonset",
     "service-cluster/nvidia-device-plugin",
     "service-cluster/page-forwarder",
-    "service-cluster/pgbouncer",
     "service-cluster/pod-janitor",
     "service-cluster/postgres-annual-dump",
     "service-cluster/postgres-cnpg",

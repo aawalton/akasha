@@ -52,7 +52,6 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/rotate-age-key/rotate-age-key.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/rotate-cf-token/rotate-cf-token.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/rotate-ssh-key/rotate-ssh-key.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/provisioning/generate-certs/generate-certs.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.extending.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/dockerfile/built-image/gfs-promoter/gfs-promoter.built-image.extending.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}

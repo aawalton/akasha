@@ -19,7 +19,6 @@
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/node-exporter-daemonset/node-exporter-daemonset.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/nvidia-device-plugin/nvidia-device-plugin.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/page-forwarder/page-forwarder.service-cluster.ts"}
-{"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/pgbouncer/pgbouncer.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/pod-janitor/pod-janitor.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/postgres-annual-dump/postgres-annual-dump.service-cluster.ts"}
 {"propertySlug":"import","fileName":"service-cluster.page-type.types.ts","path":"infrastructure/service/cluster/pages/postgres-cnpg/postgres-cnpg.service-cluster.ts"}
