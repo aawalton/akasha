@@ -4287,6 +4287,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/modules/minimap-view-types/minimap-view-types.module.ts","id":"01a06269-2b11-7ab4-91ef-f78f20b801bc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/navigation-declarations/navigation-declarations.type-declaration.ts","id":"01a06269-2b16-7e93-92d5-2c6e6bb9cb17"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/temper-addon-navigation.temper-addon.ts","id":"01a06269-2b19-7da5-9012-2ba4d1bba677"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-auto-quest/quests-auto-quest.module.ts","id":"01a0635f-391c-7561-9ad8-9f05904aa99c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-chatter-name-tables/quests-chatter-name-tables.module.ts","id":"01a0635f-391c-79f3-87e1-6c303b4a5402"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-chatter-names/quests-chatter-names.module.ts","id":"01a0635f-391c-7d96-b9fc-59c4612f34d7"}
@@ -5033,7 +5034,6 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.ts","id":"01a0615a-a1dc-7882-8483-be86859114a7"}
 {"propertySlug":"decision-kind","path":"temper/modules/addon-init/addon-init.module.ts","id":"01a060ae-335f-75cf-867a-8b88bb3db05e"}
 {"propertySlug":"decision-kind","path":"temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts","id":"01a06075-b052-7e77-979b-c9bea93f7ba3"}
-{"propertySlug":"decision-kind","path":"temper/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
 {"propertySlug":"decision-kind","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
 {"propertySlug":"decision-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"decision-kind","path":"temper/modules/guild-store-poster/guild-store-poster.module.ts","id":"01a060a9-5d59-7ff2-971b-202f4a680195"}

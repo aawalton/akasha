@@ -4636,6 +4636,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/navigation/modules/navigation-global/navigation-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/navigation/modules/navigation-loaded/navigation-loaded.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/navigation/modules/navigation-names/navigation-names.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/quests/modules/auto-quest-trace/auto-quest-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/quests/modules/quests-auto-quest/quests-auto-quest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/quests/modules/quests-chatter-name-tables/quests-chatter-name-tables.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/quests/modules/quests-chatter-names/quests-chatter-names.module.ts"}
@@ -5535,7 +5536,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/routing/modules/inventory-plan-checklist/inventory-plan-checklist.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/addon-init/addon-init.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/auto-quest-trace/auto-quest-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/character-class/character-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/descriptor/descriptor.module.ts"}

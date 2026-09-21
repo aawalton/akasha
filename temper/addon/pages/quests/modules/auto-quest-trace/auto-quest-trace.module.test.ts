@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   AUTO_QUEST_TRACE_ENTRY,
   TEMPER_QUESTS_SAVED_VARIABLES,
-} from "akasha/temper/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
+} from "akasha/temper/addon/pages/quests/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 
 describe("auto-quest-trace", () => {
   test("a menu entry keeps every option the addon listed", () => {

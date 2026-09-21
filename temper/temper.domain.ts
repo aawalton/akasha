@@ -10,7 +10,6 @@ export const temper = {
     "domain/temper-command",
     "module/addon-init",
     "module/assert-schema-matches-payload",
-    "module/auto-quest-trace",
     "module/character-class",
     "module/chat-entry-text",
     "module/descriptor",

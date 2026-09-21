@@ -21,6 +21,7 @@ export const temperAddonQuests = {
     "module/quests-slash-command",
     "module/quests-trace",
     "module/quests-trace-buffer",
+    "module/auto-quest-trace",
   ],
   decisions: [
     {

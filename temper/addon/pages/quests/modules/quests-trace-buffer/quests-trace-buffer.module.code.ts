@@ -1,4 +1,4 @@
-import type { AutoQuestTraceEntry } from "akasha/temper/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
+import type { AutoQuestTraceEntry } from "akasha/temper/addon/pages/quests/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 
 export const TRACE_CAP = 300
 

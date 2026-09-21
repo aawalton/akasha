@@ -1,3 +1,4 @@
+import type { AutoQuestTraceEntry } from "akasha/temper/addon/pages/quests/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 import {
   chatterOptionTypeName,
   interactionTypeName,
@@ -13,7 +14,6 @@ import {
   appendBounded,
   TRACE_CAP,
 } from "akasha/temper/addon/pages/quests/modules/quests-trace-buffer/quests-trace-buffer.module.code.ts"
-import type { AutoQuestTraceEntry } from "akasha/temper/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
