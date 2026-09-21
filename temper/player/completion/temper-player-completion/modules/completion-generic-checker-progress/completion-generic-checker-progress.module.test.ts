@@ -7,6 +7,7 @@ import type {
 import { resolveGenericCheckerProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
+import { SKILL_POINT_STORY_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 
 function mkSP(overrides: Partial<SkillPointProgress> = {}): SkillPointProgress {
   return {
@@ -101,6 +102,41 @@ describe("resolveGenericCheckerProgress / skill-points (numeric x/y via getItemP
       null
     )
     expect(out).toEqual({ current: 1, total: 1 })
+  })
+})
+
+const STORY_ZONE_TOTAL = SKILL_POINT_STORY_ZONE_SOURCES.reduce(
+  (sum, zone) => sum + zone.maxQuests,
+  0
+)
+
+const FIRST_STORY_ZONE = SKILL_POINT_STORY_ZONE_SOURCES[0]
+if (FIRST_STORY_ZONE === undefined) {
+  throw new Error("test fixture: SKILL_POINT_STORY_ZONE_SOURCES[0] missing")
+}
+
+describe("resolveGenericCheckerProgress / skill-points story zone quests", () => {
+  test("totals the quest skill points every story zone holds", () => {
+    const out = resolveGenericCheckerProgress("skill-points", ["storyZoneQuests"], {}, null)
+    expect(out).toEqual({ current: 0, total: STORY_ZONE_TOTAL })
+  })
+
+  test("counts a story zone the character has finished", () => {
+    const completion: CharacterCompletion = {
+      skillPoints: mkSP({ zoneQuests: { [FIRST_STORY_ZONE.key]: FIRST_STORY_ZONE.maxQuests } }),
+    }
+    const out = resolveGenericCheckerProgress("skill-points", ["storyZoneQuests"], completion, null)
+    expect(out).toEqual({ current: FIRST_STORY_ZONE.maxQuests, total: STORY_ZONE_TOTAL })
+  })
+
+  test("leaves out Imperial City, which the whole zone-quest branch still counts", () => {
+    const completion: CharacterCompletion = { skillPoints: mkSP({ zoneQuests: { IC: 1 } }) }
+    expect(
+      resolveGenericCheckerProgress("skill-points", ["storyZoneQuests"], completion, null)
+    ).toEqual({ current: 0, total: STORY_ZONE_TOTAL })
+    expect(resolveGenericCheckerProgress("skill-points", ["zoneQuests"], completion, null)).toEqual(
+      { current: 1, total: STORY_ZONE_TOTAL + 1 }
+    )
   })
 })
 
