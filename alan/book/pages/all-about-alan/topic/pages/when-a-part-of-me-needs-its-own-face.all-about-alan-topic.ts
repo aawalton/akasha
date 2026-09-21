@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whenAPartOfMeNeedsItsOwnFace = {
+  id: "01a0c58f-f622-77b4-975c-a64bfef0e185",
+  type: "page-type/all-about-alan-topic",
+  slug: "when-a-part-of-me-needs-its-own-face",
+  title: "When A Part Of Me Needs Its Own Face",
+  definition: "what has to be true of a part of me before I make another one of them",
+  parents: ["all-about-alan-topic/the-women-i-made-out-of-myself"],
+  related: [
+    "all-about-alan-topic/how-i-read-myself",
+    "all-about-alan-topic/what-a-persona-makes-cheaper",
+  ],
+  settled:
+    "One arrives when I find a part of me I am not seeing or not acting on, and it needs direct attention.\n\nThat names two different lacks. In the first I cannot perceive the part at all. In the second I perceive it fine and am not tending it. Both get the same fix, which is another sister.\n\nShe is attention itself, made into someone I have to answer. A part goes untended, so I give it a face I cannot walk past.",
+} as const satisfies AllAboutAlanTopic
