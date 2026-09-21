@@ -110,6 +110,7 @@ export const temperInterfaceAddon = {
     "type-declaration/fco-global-declarations",
     "type-declaration/interface-global-declarations",
     "type-declaration/quiet-camera-keybind-declarations",
+    "module/fco-mail-settings-menu",
   ],
   decisions: [
     {

@@ -2966,6 +2966,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/interface-addon/modules/fco-mail-data/fco-mail-data.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/interface-addon/modules/fco-mail-events/fco-mail-events.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/interface-addon/modules/fco-mail-mass-delete/fco-mail-mass-delete.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/interface-addon/modules/fco-mail-settings-menu/fco-mail-settings-menu.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/interface-addon/modules/fco-mail-store/fco-mail-store.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/interface-addon/modules/fco-mail/fco-mail.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/interface-addon/modules/fco-mainmenu/fco-mainmenu.module.ts"}
