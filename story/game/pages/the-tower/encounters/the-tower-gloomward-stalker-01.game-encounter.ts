@@ -14,4 +14,16 @@ export const theTowerGloomwardStalker01 = {
     "moving up past the first broken flight in the dark, OR any sound/warmth carried up the shaft while unlit",
   experience: 180,
   drop: "a Stalker's eye-lens (a dark-affinity / night-sight seed — clouded crystal that drinks light; crafting/affinity seed) and its hide (light, tough — a wearable cloak, armor def 1, OR a crafting material)",
+  gates: [
+    {
+      name: "struck in the dark",
+      multiplier: 0.3,
+      note: "It hunts by warmth and sound, and a swing at a shape nobody can see is near useless. Unlit, it also opens from concealment on a flat-footed player.",
+    },
+    {
+      name: "lit, pinned or cornered",
+      multiplier: 1.8,
+      note: "Light strips its concealment: no ambush, it recoils from flame and cannot close that turn, and its lunge-lines read clean.",
+    },
+  ],
 } as const satisfies GameEncounter
