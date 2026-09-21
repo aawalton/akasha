@@ -13,5 +13,5 @@ export const whatMyScaffoldingBuysMe = {
     "all-about-alan-topic/how-different-i-actually-am",
   ],
   settled:
-    "It routes four things into work: hyperfocus, depth across several streams at once, systematic precision, and how far my pattern recognition reaches.\n\nWithout it those sit behind an executive function that cannot get them to a finish.",
+    "It routes four things into work: hyperfocus, depth across several streams at once, systematic precision, and how far my pattern recognition reaches.\n\nWithout it those sit behind an executive function that cannot get them to a finish.\n\nIt did a dated job as well as the standing one. Building it out relieved the constraint executive function used to be, and it is one of the three things that moved my bottleneck on to safety.\n\nNecessary rather than sufficient. Nervous system recovery did the larger share of that move.",
 } as const satisfies AllAboutAlanTopic
