@@ -6,6 +6,7 @@ export const gameMechanic = {
   slug: "game-mechanic",
   definition: "a rule of play reached by name, whose code settles what that rule does",
   extends: ["page-type/module"],
+  parts: ["game-mechanic/linear-stat"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
