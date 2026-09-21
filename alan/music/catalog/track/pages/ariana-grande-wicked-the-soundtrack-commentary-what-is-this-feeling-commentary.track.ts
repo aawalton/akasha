@@ -4,6 +4,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeelingCommentar
   id: "01a0a6c5-4997-734e-8650-513d27e6cfe4",
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-what-is-this-feeling-commentary",
+  grade: "C",
   ownLength: 0.9243833333333333,
   ownProgress: 0.9243833333333333,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
