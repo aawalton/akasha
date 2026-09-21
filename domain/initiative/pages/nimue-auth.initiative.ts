@@ -20,5 +20,10 @@ export const nimueAuth = {
       workingMemory:
         "Branding in Google Cloud belongs to the project rather than to the client, so one project across every site shows one name on every consent screen. A product named on its own needs a project of its own, with its own client, its own secrets and its own consent screen. One project serves all of them until then.",
     },
+    {
+      statement: "No Postgres and nothing serving it runs on the cluster.",
+      workingMemory:
+        "The services to take away are gotrue, postgrest, pgbouncer, pgbouncer-exporter, postgres-cnpg, postgres-exporter, postgres-annual-dump, supabase-realtime and supabase-studio, with the seaweedfs-backup-cnpg job and the two postgres container recipes. The auth-proxy routes `supabase.alanwalton.com` to studio, postgrest, gotrue and realtime, and gates studio on a GoTrue token, so that host goes with them. Each web manifest still carries `NEXT_PUBLIC_ELECTRIC_URL`, which no code reads.",
+    },
   ],
 } as const satisfies Initiative
