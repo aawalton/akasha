@@ -6,5 +6,5 @@ export const contributionPoint = {
   slug: "contribution-point",
   definition:
     "the weight a contribution earns, committed to a feature request and spent when Alan builds it",
-  parts: ["module/contribution-point-spending"],
+  parts: ["module/contribution-point-balance", "module/contribution-point-spending"],
 } as const satisfies Domain

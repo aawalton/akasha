@@ -8,6 +8,7 @@ const PUBLISHED = "published"
 
 export type ListedRequest = {
   readonly id: string
+  readonly slug: string
   readonly title: string
   readonly ask: string
   readonly points: number
@@ -21,6 +22,7 @@ export type Listing = {
 function listed(request: Page): ListedRequest {
   return {
     id: request.id,
+    slug: request.slug ?? request.id,
     title: request.title ?? request.slug ?? request.id,
     ask: typeof request.ask === "string" ? request.ask : "",
     points: pointsOn(request),

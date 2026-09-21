@@ -32,6 +32,8 @@ export const featureRequest = {
     "select-property/feature-request-standing",
     "module/feature-request-listing",
     "module/feature-request-serving",
+    "module/feature-request-naming",
+    "module/feature-request-writing",
     "relation-property/feature-request-proposer",
   ],
   properties: [

@@ -3226,6 +3226,7 @@
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/clear-the-world.domain.ts","id":"01a06579-e4f7-7351-8560-e330582149a8"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.ts","id":"01a06579-e4f7-7cac-8aa3-87b59725c97d"}
 {"propertySlug":"decision-kind","path":"product/game/clear-the-world/ctw-team/ctw-team.page-type.ts","id":"01a06579-e4f7-77d8-a696-adb848da2d3e"}
+{"propertySlug":"decision-kind","path":"product/kofi/contribution-point/modules/balance/contribution-point-balance.module.ts","id":"01a0c506-47e8-7bbe-b848-c927bac306a3"}
 {"propertySlug":"decision-kind","path":"product/kofi/contribution-point/modules/spending/contribution-point-spending.module.ts","id":"01a0c4f6-195d-742a-9f09-e9e8c92f3c42"}
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/contributor.page-type.ts","id":"01a0ba90-5086-7a55-b63d-5bf48f551250"}
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/contribution-point-balance.number-property.ts","id":"01a0ba92-0b87-7f20-9b60-902eea2c3eed"}
@@ -3235,7 +3236,9 @@
 {"propertySlug":"decision-kind","path":"product/kofi/contributor/properties/stripe-charge-id.text-property.ts","id":"01a0ba91-c1b5-7a3f-86a1-3c43bcfcbb7c"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/feature-request.page-type.ts","id":"01a0b79b-96bb-779c-bc1e-65ffdce6bfe0"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/listing/feature-request-listing.module.ts","id":"01a0c4bc-f055-7d82-8adf-7995b3cedca4"}
+{"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/naming/feature-request-naming.module.ts","id":"01a0c506-47e8-72fc-b65b-87da14672240"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.ts","id":"01a0c4b2-cf45-7ceb-8448-9eb1b945d7ad"}
+{"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.ts","id":"01a0c506-47e8-7344-b421-891510dff6c4"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-backing.record-property.ts","id":"01a0c4a7-faa9-7331-b4f4-8698261e526d"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts","id":"01a0c4a6-ca45-7fb5-9213-210805796619"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.ts","id":"01a0c4f6-195d-79ef-8c03-3aa9a4c2c2a3"}

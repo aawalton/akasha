@@ -17,6 +17,10 @@ export const featureRequestListing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A listed request carries the slug a reader names it by to back it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A request with no title is listed under its slug.",
     },
   ],

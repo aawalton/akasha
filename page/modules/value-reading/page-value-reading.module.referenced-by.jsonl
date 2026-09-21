@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/track/daily/modules/day-entry-keys/day-entry-keys.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/file-content/add-property-value/add-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test.ts"}
@@ -317,6 +318,9 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"person/modules/reading/person-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"product/kofi/contribution-point/modules/balance/contribution-point-balance.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"product/kofi/contribution-point/modules/balance/contribution-point-balance.module.test.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"}

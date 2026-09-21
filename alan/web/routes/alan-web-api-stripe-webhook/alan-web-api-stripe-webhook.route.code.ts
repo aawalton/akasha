@@ -1,8 +1,13 @@
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
+import { recordsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askingFor,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import {
+  balanceOf,
+  pointsIn,
+} from "akasha/product/kofi/contribution-point/modules/balance/contribution-point-balance.module.code.ts"
 import {
   hashOf,
   movementIn,
@@ -21,21 +26,8 @@ const EMAIL_HASH = "emailHash"
 
 const CONTRIBUTOR_KEYS: readonly string[] = ["slug", EMAIL_HASH, "balance", "transactions"]
 
-type Transaction = Readonly<Record<string, unknown>>
-
 function slugFor(emailHash: string): string {
   return `${CONTRIBUTOR}-${emailHash}`
-}
-
-function pointsIn(held: unknown): number {
-  return typeof held === "number" && Number.isSafeInteger(held) ? held : 0
-}
-
-function transactionsIn(held: unknown): readonly Transaction[] {
-  if (!Array.isArray(held)) return []
-  return held.filter(
-    (one): one is Transaction => one !== null && typeof one === "object" && !Array.isArray(one)
-  )
 }
 
 export async function action({ request }: { request: Request }): Promise<Response> {
@@ -86,14 +78,14 @@ export async function action({ request }: { request: Request }): Promise<Respons
   }
 
   const already = asked.rows[0]
-  const held = already === undefined ? [] : transactionsIn(already.transactions)
+  const held = already === undefined ? [] : recordsIn(already.transactions)
 
   if (held.some((one) => one.stripeChargeId === chargeId && pointsIn(one.points) === points)) {
     return Response.json({ ok: true, passedOver: `\`${chargeId}\` moved these points already` })
   }
 
   const transactions = [...held, { at: new Date().toISOString(), points, stripeChargeId: chargeId }]
-  const balance = transactions.reduce((sum, one) => sum + pointsIn(one.points), 0)
+  const balance = balanceOf(transactions)
 
   const wrote = await writingFor({
     writer: WRITER,
