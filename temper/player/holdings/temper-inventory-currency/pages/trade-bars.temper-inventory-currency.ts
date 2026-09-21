@@ -1,0 +1,10 @@
+import type { TemperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.types.ts"
+
+export const tradeBars = {
+  id: "01a05fcf-26bc-7a05-8b0c-a00a186526c4",
+  type: "page-type/temper-inventory-currency",
+  slug: "trade-bars",
+  title: "Trade Bars",
+  key: "tradeBars",
+  displayOrder: 11,
+} as const satisfies TemperInventoryCurrency

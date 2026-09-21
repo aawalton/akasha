@@ -4888,13 +4888,6 @@
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
 {"propertySlug":"decision-kind","path":"temper/formula-framework/modules/eso-date/eso-date.module.ts","id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
 {"propertySlug":"decision-kind","path":"temper/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}
-{"propertySlug":"decision-kind","path":"temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts","id":"01a05fcb-fd33-7e42-b0df-2c021ee52730"}
-{"propertySlug":"decision-kind","path":"temper/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts","id":"01a06006-154f-7344-ae3b-0de4c53132dc"}
-{"propertySlug":"decision-kind","path":"temper/holdings/temper-sale/properties/item-name.text-property.ts","id":"01a06553-ace7-70af-be45-b007740978fa"}
-{"propertySlug":"decision-kind","path":"temper/holdings/temper-sale/properties/net-payout.number-property.ts","id":"01a0685d-89aa-7dab-b4d1-44a1c21309c3"}
-{"propertySlug":"decision-kind","path":"temper/holdings/temper-sale/properties/sale-id.text-property.ts","id":"01a0685d-89aa-73f0-9b15-bfabe8437be8"}
-{"propertySlug":"decision-kind","path":"temper/holdings/temper-sale/temper-sale.page-type.ts","id":"019f71f3-8523-7dcc-a2c3-ae8bbddd28ad"}
-{"propertySlug":"decision-kind","path":"temper/holdings/thing/temper-holdings-thing.page-type.ts","id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.ts","id":"01a0614b-6736-7575-aaa0-1766a1adf1a8"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/modules/filter-bar/filter-bar.module.ts","id":"01a0614b-6735-71b0-b1bb-6d698f3b387d"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.ts","id":"01a0614b-6736-723e-b829-79279bb14e49"}
@@ -5205,6 +5198,13 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts","id":"01a05fcb-fd33-7e42-b0df-2c021ee52730"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts","id":"01a06006-154f-7344-ae3b-0de4c53132dc"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/item-name.text-property.ts","id":"01a06553-ace7-70af-be45-b007740978fa"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/net-payout.number-property.ts","id":"01a0685d-89aa-7dab-b4d1-44a1c21309c3"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/sale-id.text-property.ts","id":"01a0685d-89aa-73f0-9b15-bfabe8437be8"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/temper-sale.page-type.ts","id":"019f71f3-8523-7dcc-a2c3-ae8bbddd28ad"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.ts","id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts","id":"01a0603b-d45a-7ff5-8a9e-03ecb545e854"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts","id":"01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}

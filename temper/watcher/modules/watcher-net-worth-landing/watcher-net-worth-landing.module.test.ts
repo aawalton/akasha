@@ -3,7 +3,7 @@ import { fileOf } from "akasha/page/index/modules/property-file/property-file.mo
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
-import { temperNetWorthHour } from "akasha/temper/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts"
+import { temperNetWorthHour } from "akasha/temper/player/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts"
 import {
   capturedAtOf,
   landNetWorthReading,
@@ -25,9 +25,9 @@ const FIRST_AT = "2026-04-29T14:41:45.275Z"
 
 const HOUR_SLUG = "hour-2026-04-29-14"
 
-const PAGE_PATH = `temper/holdings/temper-net-worth-hour/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.ts`
+const PAGE_PATH = `temper/player/holdings/temper-net-worth-hour/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.ts`
 
-const LINES_PATH = `temper/holdings/temper-net-worth-hour/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.readings.jsonl`
+const LINES_PATH = `temper/player/holdings/temper-net-worth-hour/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.readings.jsonl`
 
 const ROOT = akashaHere()
 

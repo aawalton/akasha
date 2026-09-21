@@ -507,12 +507,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/world/temper-zone/temper-zone.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/world/zone/temper-world-zone.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/eso/declaration/eso-opt-in-list/eso-opt-in-list.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/holdings/temper-guild-trader/temper-guild-trader.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/holdings/temper-sale/temper-sale.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/holdings/thing/temper-holdings-thing.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/character-build/character-build.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/companion-build/companion-build.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/role/temper-character-role.page-type.ts"}
@@ -527,6 +521,12 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-weapon-bar/temper-weapon-bar.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/thing/temper-character-thing.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-guild-trader/temper-guild-trader.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-sale/temper-sale.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-activity-category/temper-activity-category.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts"}

@@ -1,0 +1,10 @@
+import type { TemperItemCategoryTree } from "akasha/temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts"
+
+export const other = {
+  id: "01a05fcf-f830-7697-8e9c-9cca9995dafc",
+  type: "page-type/temper-item-category-tree",
+  slug: "other",
+  title: "Other",
+  parent: "miscellaneous",
+  displayOrder: 8,
+} as const satisfies TemperItemCategoryTree

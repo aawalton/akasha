@@ -1,9 +1,0 @@
-import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"
-
-export const blackwoodLeyawiin = {
-  id: "019e2fc6-526e-7304-9ffc-0270d05da96d",
-  type: "page-type/temper-guild-trader",
-  slug: "blackwood-leyawiin",
-  title: "Blackwood: Leyawiin",
-  kioskId: 98,
-} as const satisfies TemperGuildTrader

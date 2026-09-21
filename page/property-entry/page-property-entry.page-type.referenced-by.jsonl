@@ -39,7 +39,6 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/world/zone/properties/pois.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/world/zone/properties/zone-completion-activities.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/world/zone/properties/zone-quests.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/holdings/temper-net-worth-hour/properties/readings.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/skill-activation/properties/activation-effects.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-account/properties/bag-sizes.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-account/properties/crafting-levels.page-property-entry.ts"}
@@ -49,6 +48,7 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-mine/properties/quests.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/conditions.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-task-progress/temper-task-progress.page-type.types.ts"}

@@ -754,7 +754,6 @@
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts","id":"01a060cf-b0b2-743e-9d82-ea94a110b9cb"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.ts","id":"01a060bf-747d-7dee-bf58-1559bc114b90"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts","id":"01a0673e-3ddf-7001-acad-9b0751ef4567"}
-{"propertySlug":"decision-kind","path":"temper/holdings/temper-sale/properties/guild-name.text-property.ts","id":"01a0685d-89aa-7d2f-948c-fbca509592a2"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-core/modules/search-market-value-filter/search-market-value-filter.module.ts","id":"01a0613a-e0aa-7ec9-8d23-f17ea1e32d8e"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.ts","id":"01a060d9-44ca-7f34-b2bb-07aab8837d17"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/inventory-rule-compiler/inventory-rule-compiler.module.ts","id":"01a06100-3bed-7b56-8709-2a82c720204e"}
@@ -780,6 +779,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/guild-name.text-property.ts","id":"01a0685d-89aa-7d2f-948c-fbca509592a2"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/char-eligibility.text-property.ts","id":"01a07283-f298-7cad-8c9f-82f3ca167ff1"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.ts","id":"01a07283-f299-703a-a255-0c48075885be"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule/properties/conditions.page-property-entry.ts","id":"01a05fd0-3aa4-739a-82b0-6e5a2647ad05"}

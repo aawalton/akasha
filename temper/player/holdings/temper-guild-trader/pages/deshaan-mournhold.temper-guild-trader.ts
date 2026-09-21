@@ -1,0 +1,9 @@
+import type { TemperGuildTrader } from "akasha/temper/player/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"
+
+export const deshaanMournhold = {
+  id: "019e2fc6-524c-7c17-9500-0bee9ace9a32",
+  type: "page-type/temper-guild-trader",
+  slug: "deshaan-mournhold",
+  title: "Deshaan: Mournhold",
+  kioskId: 60,
+} as const satisfies TemperGuildTrader

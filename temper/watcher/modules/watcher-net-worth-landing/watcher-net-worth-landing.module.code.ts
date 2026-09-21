@@ -20,7 +20,7 @@ import {
   writingFor,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 
-const FOLDER = "temper/holdings/temper-net-worth-hour/pages"
+const FOLDER = "temper/player/holdings/temper-net-worth-hour/pages"
 
 const ROWS_PROPERTY = "readings"
 

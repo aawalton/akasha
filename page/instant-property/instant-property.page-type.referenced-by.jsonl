@@ -55,10 +55,10 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/marked-read-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/removed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/catalog/world/properties/captured-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/holdings/temper-sale/properties/sold-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/last-full-scan-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/last-scanned-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/mined-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/holdings/temper-sale/properties/sold-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/updated-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/completed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/last-completed-at.instant-property.ts"}

@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { archivalFortunes } from "akasha/temper/holdings/temper-inventory-currency/pages/archival-fortunes.temper-inventory-currency.ts"
-import { gold } from "akasha/temper/holdings/temper-inventory-currency/pages/gold.temper-inventory-currency.ts"
-import { telVarStones } from "akasha/temper/holdings/temper-inventory-currency/pages/tel-var-stones.temper-inventory-currency.ts"
-import { transmuteCrystals } from "akasha/temper/holdings/temper-inventory-currency/pages/transmute-crystals.temper-inventory-currency.ts"
-import { temperInventoryCurrency } from "akasha/temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { archivalFortunes } from "akasha/temper/player/holdings/temper-inventory-currency/pages/archival-fortunes.temper-inventory-currency.ts"
+import { gold } from "akasha/temper/player/holdings/temper-inventory-currency/pages/gold.temper-inventory-currency.ts"
+import { telVarStones } from "akasha/temper/player/holdings/temper-inventory-currency/pages/tel-var-stones.temper-inventory-currency.ts"
+import { transmuteCrystals } from "akasha/temper/player/holdings/temper-inventory-currency/pages/transmute-crystals.temper-inventory-currency.ts"
+import { temperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
 import {
   bagSizeRowsOf,
   craftingLevelRowsOf,

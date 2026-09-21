@@ -1,9 +1,0 @@
-import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"
-
-export const greenshadeMarbruk = {
-  id: "019e2fc6-5220-787b-ad2c-a253e3f1d27f",
-  type: "page-type/temper-guild-trader",
-  slug: "greenshade-marbruk",
-  title: "Greenshade: Marbruk",
-  kioskId: 13,
-} as const satisfies TemperGuildTrader

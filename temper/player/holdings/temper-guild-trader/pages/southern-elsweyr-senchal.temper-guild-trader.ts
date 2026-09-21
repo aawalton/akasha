@@ -1,0 +1,9 @@
+import type { TemperGuildTrader } from "akasha/temper/player/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"
+
+export const southernElsweyrSenchal = {
+  id: "019e2fc6-5268-7e00-8758-f58f8bbc9c75",
+  type: "page-type/temper-guild-trader",
+  slug: "southern-elsweyr-senchal",
+  title: "Southern Elsweyr: Senchal",
+  kioskId: 92,
+} as const satisfies TemperGuildTrader

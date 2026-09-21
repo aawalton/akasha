@@ -1,9 +1,0 @@
-import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"
-
-export const alikrDesertSentinel = {
-  id: "019e2fc6-5230-7dbf-a849-340b7e8d8063",
-  type: "page-type/temper-guild-trader",
-  slug: "alikr-desert-sentinel",
-  title: "Alik'r Desert: Sentinel",
-  kioskId: 30,
-} as const satisfies TemperGuildTrader

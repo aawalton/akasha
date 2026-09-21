@@ -20,7 +20,6 @@ export const temper = {
     "domain/temper-command",
     "domain/temper-companion-codec",
     "domain/temper-formula-framework",
-    "domain/temper-holdings",
     "domain/temper-items-filters-addon",
     "domain/temper-items-filters-core",
     "domain/temper-items-rules-core",

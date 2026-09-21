@@ -1,9 +1,0 @@
-import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"
-
-export const summersetAlinor = {
-  id: "019e2fc6-5263-7a31-b2da-8b4b984b6707",
-  type: "page-type/temper-guild-trader",
-  slug: "summerset-alinor",
-  title: "Summerset: Alinor",
-  kioskId: 86,
-} as const satisfies TemperGuildTrader

@@ -1,5 +1,4 @@
 import type { CapturedAt } from "akasha/temper/catalog/world/properties/captured-at.instant-property.types.ts"
-import type { TotalValue } from "akasha/temper/holdings/thing/properties/total-value.number-property.types.ts"
 import type { BagSizes } from "akasha/temper/player/character/temper-account/properties/bag-sizes.page-property-entry.types.ts"
 import type { CraftingLevels } from "akasha/temper/player/character/temper-account/properties/crafting-levels.page-property-entry.types.ts"
 import type { Currencies } from "akasha/temper/player/character/temper-account/properties/currencies.page-property-entry.types.ts"
@@ -14,6 +13,7 @@ import type { TransmuteCrystalAmount } from "akasha/temper/player/character/temp
 import type { TransmuteCrystalCap } from "akasha/temper/player/character/temper-account/properties/transmute-crystal-cap.number-property.types.ts"
 import type { WorldName } from "akasha/temper/player/character/temper-account/properties/world-name.text-property.types.ts"
 import type { TemperCharacterThing } from "akasha/temper/player/character/thing/temper-character-thing.page-type.types.ts"
+import type { TotalValue } from "akasha/temper/player/holdings/thing/properties/total-value.number-property.types.ts"
 
 export type TemperAccount = TemperCharacterThing & {
   displayName?: EsoDisplayName

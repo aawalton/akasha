@@ -10,5 +10,6 @@ export const temperPlayer = {
     "domain/temper-skill-morph",
     "domain/temper-completion",
     "domain/temper-progress",
+    "domain/temper-holdings",
   ],
 } as const satisfies Domain

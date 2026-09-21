@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
-import { temperNetWorthHour } from "akasha/temper/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts"
+import { temperNetWorthHour } from "akasha/temper/player/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts"
 import { temperTask } from "akasha/temper/player/progress/temper-task/temper-task.page-type.ts"
 import type {
   Landing,
