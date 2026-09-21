@@ -6,10 +6,11 @@ import {
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   literalOf,
-  parsedAs,
+  skimmedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import type { Parted } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { partedIn, sectionedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -54,7 +55,7 @@ function statedIn(node: ts.ObjectLiteralExpression): Said | null {
 }
 
 export function pagesIn(path: string, text: string): readonly Stated[] {
-  const source = parsedAs(path, text)
+  const source = skimmedAs(path, text)
   const found: Stated[] = []
   for (const statement of source.statements) {
     if (!ts.isVariableStatement(statement)) continue
@@ -78,16 +79,19 @@ function extrasSaid(rest: readonly Stated[]): string {
   return rest.map((one) => `\`${slugOf(one.pageTypeSlug)}/${one.slug}\``).join(", ")
 }
 
-function namedForAPage(path: string, heldInAFile: ReadonlySet<string>): boolean {
-  const said = partedIn(path)
-  if (said === null) return false
+function besideAPage(said: Parted, heldInAFile: ReadonlySet<string>): boolean {
   const beside = sectionedIn(said, heldInAFile)
   return beside === null || !heldInAFile.has(beside.propertySlug)
 }
 
+function namedForAPage(path: string, heldInAFile: ReadonlySet<string>): boolean {
+  const said = partedIn(path)
+  return said !== null && besideAPage(said, heldInAFile)
+}
+
 export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
   const said = partedIn(given.path)
-  if (said === null || !namedForAPage(given.path, heldInAFile)) return []
+  if (said === null || !besideAPage(said, heldInAFile)) return []
   const stem = said.slug
   const suffix = said.pageType
   const body = bodyOf(given)

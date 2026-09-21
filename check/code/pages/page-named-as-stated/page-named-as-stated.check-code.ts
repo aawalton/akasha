@@ -72,6 +72,15 @@ export const pageNamedAsStated = {
       decisionKind: "decision-kind/departure",
       statement: "The name a file has is judged against the first page the file states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page body is parsed without parent links, the names read here being read off the value alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file's name is parted once, and the judging reads what that parting gave.",
+    },
   ],
   check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },

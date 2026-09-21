@@ -253,3 +253,21 @@ test("a file property the change takes away leaves its file judged as the page t
   const said = judged(landing(root, bodies, { [PROPERTY]: property("note") }))
   expect(said.map((one) => one.path)).toEqual([BESIDE, BESIDE])
 })
+
+test("a page is read the same where imports, a type and a function sit above it", () => {
+  const above = [
+    'import type { Module } from "akasha/module.page-type.types.ts"',
+    "",
+    "export type Held = { readonly slug: string }",
+    "",
+    "export function heldIn(one: string): string {",
+    "  return one",
+    "}",
+    "",
+  ].join("\n")
+  const body = `${above}${page("ledger", "module")}`
+  expect(pagesIn("akasha/ledger.module.ts", body)).toEqual([
+    { slug: "ledger", pageTypeSlug: "module", named: "ledger" },
+  ])
+  expect(reasons("akasha/ledger.module.ts", body)).toEqual([])
+})
