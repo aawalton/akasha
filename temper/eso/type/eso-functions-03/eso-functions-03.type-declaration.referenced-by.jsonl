@@ -41,13 +41,6 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-writ-detection/inventory-writ-detection.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-writ-master-probe/inventory-writ-master-probe.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-map-data/modules/map-data-build-tables/map-data-build-tables.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-map-data/modules/map-data-queries/map-data-queries.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-map-data/modules/map-data-update/map-data-update.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-api-nav/lib-sets-core-api-nav.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-helpers/lib-sets-core-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-debug-debug-scan-data/lib-sets-debug-debug-scan-data.module.code.ts"}
@@ -95,6 +88,13 @@
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-measurement/gps-measurement.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-world-size/gps-world-size.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-build-tables/map-data-build-tables.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-queries/map-data-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-update/map-data-update.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-handler/map-ping-handler.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-helpers/map-pins-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/quests-addon/modules/quests-auto-quest/quests-auto-quest.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/quests-addon/modules/quests-classify/quests-classify.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-03.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}

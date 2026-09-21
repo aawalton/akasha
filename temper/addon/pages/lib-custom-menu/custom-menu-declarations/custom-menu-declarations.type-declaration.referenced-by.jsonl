@@ -1,11 +1,4 @@
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-context-menu/housing-context-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/pin-state/pin-state.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-notification/modules/notification-types/notification-types.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"}
@@ -83,4 +76,11 @@
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window/histoire-status-window.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-shape/main-menu-shape.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-lib/map-pins-lib.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-state/pin-state.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/pages/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}

@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-comboboxes/housing-comboboxes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-dropdowns/housing-dropdowns.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/library/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-combobox-base-dims/scrollable-menu-combobox-base-dims.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-combobox-base-setup-editbox/scrollable-menu-combobox-base-setup-editbox.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-combobox-base-sort/scrollable-menu-combobox-base-sort.module.code.ts"}
@@ -29,4 +28,5 @@
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-tooltip/histoire-status-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-row-helpers/histoire-status-window-row-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window/histoire-status-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}
