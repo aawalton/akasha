@@ -21,3 +21,15 @@ declare const ZO_MailSendSendCurrency: MailSendCurrencyControl
 interface MailInbox {
   GetOpenMailId: (this: MailInbox) => number | undefined
 }
+
+interface MailInbox {
+  RefreshAttachmentSlots?: (this: MailInbox) => undefined
+  GetMailData: (this: MailInbox, mailId: Id64, isMailFromGuild: boolean) => MailData
+  attachmentSlots?: Record<number, Control | undefined>
+  isMailFromGuild?: boolean
+}
+
+interface MailInbox {
+  masterList?: Array<Record<string, unknown>>
+  mailId?: Id64
+}

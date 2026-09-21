@@ -219,11 +219,6 @@ declare const SCENE_FRAGMENT_SHOWING: number
 
 declare const zo_getSafeId64Key: (this: void, id64: Id64) => string
 
-interface MailInbox {
-  masterList?: Array<Record<string, unknown>>
-  mailId?: Id64
-}
-
 declare const ZO_MailInbox: Control
 
 declare const ZO_MailSend: Control
