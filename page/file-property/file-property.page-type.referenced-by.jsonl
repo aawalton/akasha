@@ -94,7 +94,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-extensions.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/inference/generation/audio/properties/audio-bytes.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/image-bytes.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/inference/generation/log/properties/generation-audios.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/inference/generation/log/properties/generation-runs.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/content.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/network/certificate/authority/properties/authority-certificate.file-property.ts"}

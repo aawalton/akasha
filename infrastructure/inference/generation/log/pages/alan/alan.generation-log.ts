@@ -5,5 +5,4 @@ export const alan = {
   type: "page-type/generation-log",
   slug: "alan",
   runs: "jsonl",
-  audios: "jsonl",
 } as const satisfies GenerationLog

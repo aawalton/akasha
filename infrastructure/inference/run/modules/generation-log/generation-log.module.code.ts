@@ -37,7 +37,6 @@ const TRIES = 5
 const MOST_PARTS = 16
 
 const ROW_PROPERTIES: Readonly<Record<string, string>> = {
-  audio: "audios",
   "inference-run": "runs",
 }
 

@@ -2,8 +2,8 @@
 {"definition":"the record kept of what one set of model services has made"}
 {"extends":["page-type/page"]}
 {"id":"01a01d18-306b-7000-9796-b41f285a1bad"}
-{"parts":["file-property/generation-audios","file-property/generation-runs"]}
-{"properties":[{"pageProperty":"file-property/generation-runs","required":true,"many":false},{"pageProperty":"file-property/generation-audios","required":false,"many":false}]}
+{"parts":["file-property/generation-runs"]}
+{"properties":[{"pageProperty":"file-property/generation-runs","required":true,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"generation-log"}
 {"type":"page-type/page-type"}
