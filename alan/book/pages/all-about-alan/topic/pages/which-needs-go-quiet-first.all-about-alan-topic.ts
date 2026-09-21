@@ -1,0 +1,18 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whichNeedsGoQuietFirst = {
+  id: "01a0c59a-d3ee-7128-89de-1dce0f5425b8",
+  type: "page-type/all-about-alan-topic",
+  slug: "which-needs-go-quiet-first",
+  title: "Which Needs Go Quiet First",
+  definition:
+    "the order my needs drop below feeling as capacity falls, and come back as it returns",
+  parents: ["all-about-alan-topic/the-body-signals-i-can-barely-hear"],
+  related: [
+    "all-about-alan-topic/what-loneliness-costs-my-body",
+    "all-about-alan-topic/where-i-go-below-zero",
+    "all-about-alan-topic/how-far-behind-i-am-on-people",
+  ],
+  settled:
+    "Capacity decides which of my needs I can feel at all. Below a level, a need stops arriving rather than going unmet quietly.\n\nThey go quiet and come back in order of what they cost. People have always been my most expensive tier, so anything I need from people is the first to go and the last to return.\n\nAt the deepest lows even hunger, thirst and needing the bathroom dropped below feeling.\n\nSo a need getting louder as I recover is a real gap becoming feelable rather than a new problem appearing.\n\nI do not expect more tiers underneath. Connection is the last one, and I have met no other need of the same necessity.",
+} as const satisfies AllAboutAlanTopic
