@@ -137,7 +137,8 @@ function rowingFor(path: string): Rowing | null {
 export function besideBefore(changes: readonly FileChange[]): ReadonlyMap<string, string | null> {
   const held = new Map<string, string | null>()
   for (const one of changes) {
-    if (one.kind === "move" || rowingFor(one.path) === null) continue
+    if (one.kind === "move" || held.has(one.path)) continue
+    if (rowingFor(one.path) === null) continue
     if (one.kind === "add") held.set(one.path, null)
     if (one.kind === "replace") held.set(one.path, one.contentFrom)
   }

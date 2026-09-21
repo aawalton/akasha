@@ -68,5 +68,9 @@ export const landingChangeComposing = {
       statement:
         "A landing folds a shapes row into the rows the tree holds, by the page property that row is for.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The body a fold weighs its rows against is the first a row for that path names.",
+    },
   ],
 } as const satisfies Module
