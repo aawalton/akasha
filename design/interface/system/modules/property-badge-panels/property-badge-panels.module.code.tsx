@@ -366,8 +366,8 @@ export function SelectionPropertyBadgesPanel() {
   return (
     <PanelCard id="ds-selection-property-badges" collapsible title="Selection Property Badges">
       <p className="text-secondary text-sm">
-        <code>multi-select</code> and <code>path-select</code> reach no drawing of their own, so the
-        fallback badge draws whatever text the value holds.
+        <code>path-select</code> reaches no drawing of its own, so the fallback badge draws the text
+        its value holds. <code>multi-select</code> holds a list, which that fallback draws as empty.
       </p>
       <SampleRows samples={SELECTION_SAMPLES} />
     </PanelCard>
