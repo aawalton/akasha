@@ -44,7 +44,7 @@
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-zone/temper-lib-zone.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/navigation/temper-addon-navigation.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/quests/temper-addon-quests.temper-addon.ts"}
-{"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/selector-addon/temper-selector-addon.temper-addon.ts"}
+{"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/selector/temper-addon-selector.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/trading-addon/temper-trading-addon.temper-addon.ts"}
 {"propertySlug":"parts","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"target-page-type","path":"code/held-addon/properties/eso-addon.relation-property.ts","id":"01a0819d-6872-7b9e-8c67-c011834d8ab8"}

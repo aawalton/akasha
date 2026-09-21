@@ -18,8 +18,8 @@
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-api-refresh/scrollable-menu-api-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-filter/scrollable-menu-dropdown-class-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-packs/selector-packs.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-search/selector-search.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-ui-settings-menu/selector-ui-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-packs/selector-packs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-search/selector-search.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-ui-settings-menu/selector-ui-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library-rows/lorebooks-library-rows.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

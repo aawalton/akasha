@@ -4287,7 +4287,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-trace-buffer/quests-trace-buffer.module.ts","id":"01a0635f-391c-740a-af70-4aa092d380b2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-trace/quests-trace.module.ts","id":"01a0635f-391c-7cbf-b863-31301fafd0d9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/temper-addon-quests.temper-addon.ts","id":"01a0635f-391c-765a-af94-26f3ecd9702f"}
-{"propertySlug":"decision-kind","path":"temper/addon/selector-addon/temper-selector-addon.temper-addon.ts","id":"01a061ef-c8a5-7acc-81f1-b5b3b65ee46d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/selector/temper-addon-selector.temper-addon.ts","id":"01a061ef-c8a5-7acc-81f1-b5b3b65ee46d"}
 {"propertySlug":"decision-kind","path":"temper/addon/settings-panel/modules/build-lookup/build-lookup.module.ts","id":"01a06053-3636-7bdb-8f78-5302cab5662b"}
 {"propertySlug":"decision-kind","path":"temper/addon/settings-panel/modules/dropdown/dropdown.module.ts","id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
 {"propertySlug":"decision-kind","path":"temper/addon/settings-panel/modules/panel-controls-created/panel-controls-created.module.ts","id":"01a0909d-e44e-780b-9375-2b6c9bcfcb42"}

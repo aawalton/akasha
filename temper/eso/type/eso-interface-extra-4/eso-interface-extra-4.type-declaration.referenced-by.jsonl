@@ -94,7 +94,7 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
