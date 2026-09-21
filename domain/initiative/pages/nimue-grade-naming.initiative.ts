@@ -27,5 +27,11 @@ export const nimueGradeNaming = {
       workingMemory:
         "`command/argument/pages/rating.argument.ts` says `--rating` and takes the grade, a rung on the ladder from `F` up to `S+`, so the flag disagrees with its own description. 4 files name `--rating` or `argument/rating`.",
     },
+    {
+      statement:
+        "One page states the grade ladder, what each rung is called, and each rung's color.",
+      workingMemory:
+        "The ladder is written out in full in five places: the three rank properties `rank`, `grade` and `singability`, `MUSIC_RATINGS` in `rating-ladder.module.code.ts`, and `LITRPG_RATINGS` in `reading-shapes.module.code.ts`. No rung carries a color anywhere, and a select property states its values as plain text and nothing else. `rank-property.page-type.ts` decides that a rank property states the whole ladder as its values, so restating it is required today, and that decision is what changes.",
+    },
   ],
 } as const satisfies Initiative
