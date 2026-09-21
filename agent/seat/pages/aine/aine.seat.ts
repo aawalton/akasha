@@ -5,7 +5,7 @@ export const aine = {
   type: "page-type/seat",
   slug: "aine",
   persona: "persona/aine",
-  assignmentSlug: "initiative/aine-requests",
+  assignmentSlug: "initiative/aine-contribution",
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
