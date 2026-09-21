@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"blue.color.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.code.ts"}
 {"propertySlug":"import","fileName":"blue.color.ts","path":"design/interface/token/modules/semantic-color/semantic-color.module.code.ts"}
+{"propertySlug":"select-option-color","path":"page/properties/grade.grade-property.ts","id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
 {"propertySlug":"select-option-color","path":"page/properties/priority.select-property.ts","id":"01a0c537-0fde-7c44-baa5-1aa0541d3b1a"}
 {"propertySlug":"turn-state-color","path":"agent/seat/turn-state/pages/idle/pending/idle-pending.seat-turn-state.ts","id":"01a06925-c777-7370-8dce-f74809dc4569"}
 {"propertySlug":"value-color","path":"alan/value/health/health.value.ts","id":"019eb7d0-f6ed-73b7-8495-21dfdac80cd2"}
