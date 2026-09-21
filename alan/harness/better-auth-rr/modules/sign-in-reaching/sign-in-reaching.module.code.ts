@@ -109,7 +109,12 @@ export async function reachSignIn(signing: Signing): Promise<Reached> {
           pageTypeSlug: CONTRIBUTOR,
           slug: contributorSlug,
           merge: true,
-          values: { slug: contributorSlug, emailHash, balance: OPENING_BALANCE, transactions: [] },
+          values: {
+            slug: contributorSlug,
+            emailHash,
+            balance: OPENING_BALANCE,
+            transactions: [{ at: new Date().toISOString(), points: OPENING_BALANCE }],
+          },
         },
       ]
     : []

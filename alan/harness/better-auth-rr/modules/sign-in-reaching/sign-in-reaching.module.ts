@@ -35,8 +35,15 @@ export const signInReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An address no contributor is reached by opens one holding a hundred points and no transaction.",
+      statement: "An address no contributor is reached by opens one holding a hundred points.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those hundred points are a transaction, so the balance is the sum beside it.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "That transaction names no charge, no payment having earned those points.",
     },
     {
       decisionKind: "decision-kind/constraint",
