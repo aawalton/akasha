@@ -8,6 +8,5 @@ export const eppieMusicImprovements = {
   persona: "persona/eppie",
   intentStack: [
     { statement: "Every listen is tracked against a track rather than a release or a song." },
-    { statement: "Listen history syncs every hour." },
   ],
 } as const satisfies Initiative
