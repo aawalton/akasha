@@ -1877,8 +1877,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.ts","id":"01a072dd-5d04-75d2-8bb2-1d5b8ac04825"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/potion-restore-resolve/potion-restore-resolve.module.ts","id":"01a060d9-44cb-7685-bea5-8baa5a8a8943"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}
-{"propertySlug":"decision-kind","path":"temper/items-rules-matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.ts","id":"01a09cdb-91fc-7a30-aff9-71b0686321f2"}
-{"propertySlug":"decision-kind","path":"temper/items-rules-matcher/temper-items-rules-matcher.domain.ts","id":"01a06151-370e-7f21-be1d-3df9be256684"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing-core/temper-items-rules-routing-core.domain.ts","id":"01a06151-370b-7fa6-ad43-f200b0ae0fb9"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.ts","id":"01a060d9-498b-7d49-9f36-43409f335af9"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","id":"01a0612e-28d6-7df8-bb5c-419ce436eb8f"}
@@ -1894,6 +1892,8 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/item-facts/item-facts.module.ts","id":"01a06137-f96c-7332-b371-6a8536a60c01"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/temper-items-rules-eval.domain.ts","id":"01a06137-f96e-7a28-9f74-f5d1bea03036"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/test-fixtures/check-container-fixtures/check-container-fixtures.test-fixture.ts","id":"01a06137-f963-75d4-b14c-bdaa8c6693a8"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.ts","id":"01a09cdb-91fc-7a30-aff9-71b0686321f2"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/matcher/temper-items-rules-matcher.domain.ts","id":"01a06151-370e-7f21-be1d-3df9be256684"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-simulation/inventory-management-plan-simulation.module.ts","id":"01a0615a-a1dc-7109-83cd-300cf2753778"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/temper-items-rules-routing.domain.ts","id":"01a0615a-a1de-7f51-9fb6-fb90ff022184"}
 {"propertySlug":"decision-kind","path":"temper/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}

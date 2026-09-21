@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/build-codec/modules/build-codec/build-codec.module.test.ts"}
-{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/items-rules-matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"}
-{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/items-rules-matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.test.ts"}
-{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/items-rules-matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"}
+{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"}
+{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.test.ts"}
+{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}

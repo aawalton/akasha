@@ -2,6 +2,10 @@ import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/par
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import {
+  compileWantedEquipment as compileCharacterSignatures,
+  compileWantedCompanionEquipment as compileCompanionSignatures,
+} from "akasha/temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
@@ -12,10 +16,6 @@ import type {
   CompletionCharacterInput,
   CompletionCompanionInput,
 } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import {
-  compileWantedEquipment as compileCharacterSignatures,
-  compileWantedCompanionEquipment as compileCompanionSignatures,
-} from "akasha/temper/items-rules-matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 
 export const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 export const COMPANION_PAGE_TYPE_SLUG = "temper-companion-progress"

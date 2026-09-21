@@ -30,7 +30,7 @@ import type { WalkOutcome } from "akasha/temper/items/rules/eval/modules/eval-re
 import {
   buildItemIdToCooldownGroup,
   buildWebEvalEnv,
-} from "akasha/temper/items-rules-matcher/modules/web-eval-env/web-eval-env.module.code.ts"
+} from "akasha/temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts"
 
 const NAMED = [jsonArgument, inventoryPathArgument, charactersPathArgument]
 

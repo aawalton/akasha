@@ -5,5 +5,9 @@ export const temperItemsRules = {
   type: "page-type/domain",
   slug: "temper-items-rules",
   definition: "what becomes of an item, said as rules",
-  parts: ["domain/temper-items-rules-routing", "domain/temper-items-rules-eval"],
+  parts: [
+    "domain/temper-items-rules-routing",
+    "domain/temper-items-rules-eval",
+    "domain/temper-items-rules-matcher",
+  ],
 } as const satisfies Domain

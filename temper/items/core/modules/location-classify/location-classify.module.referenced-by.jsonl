@@ -1,8 +1,5 @@
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/addon/items-addon/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items-rules-core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items-rules-matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"}
-{"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items-rules-matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts"}
-{"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items-rules-matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"}
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items-rules-routing-core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items-rules-routing-core/modules/inventory-management-plan-route/inventory-management-plan-route.module.code.ts"}
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/core/modules/compute-item-stock/compute-item-stock.module.code.ts"}
@@ -10,6 +7,9 @@
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/core/modules/location-condition/location-condition.module.code.ts"}
+{"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"}
+{"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts"}
+{"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"}
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts"}
 {"propertySlug":"import","fileName":"location-classify.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.code.ts"}
