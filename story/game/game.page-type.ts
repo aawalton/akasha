@@ -50,6 +50,7 @@ export const game = {
     "page-type/game-encounter",
     "module/row-reading",
     "module/page-filing",
+    "module/world-filing",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
