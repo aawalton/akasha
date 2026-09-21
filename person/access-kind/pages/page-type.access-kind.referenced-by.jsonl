@@ -1,11 +1,6 @@
 {"propertySlug":"import","fileName":"page-type.access-kind.ts","path":"person/modules/page-type-access/page-type-access.module.test.ts"}
 {"propertySlug":"parts","path":"person/access-kind/access-kind.page-type.ts","id":"01a0542d-0f75-73b3-a578-8d20baddb655"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/alan-page-type-all.person-access.ts","id":"01a05433-f101-7950-b30b-bf9ea60da403"}
-{"propertySlug":"person-access-kind","path":"person/access/pages/anonymous-page-type-feature-request.person-access.ts","id":"01a0c52d-315f-7653-b891-7e7df0314b74"}
-{"propertySlug":"person-access-kind","path":"person/access/pages/anonymous-page-type-page-type-feature-request.person-access.ts","id":"01a0c52d-315f-7890-a567-7b39c657fb30"}
-{"propertySlug":"person-access-kind","path":"person/access/pages/anonymous-page-type-page-type-nav.person-access.ts","id":"01a0c52d-315f-72a6-b0d6-8292c605f595"}
-{"propertySlug":"person-access-kind","path":"person/access/pages/anonymous-page-type-page-type-view.person-access.ts","id":"01a0c52d-315f-729c-8275-7807da65d859"}
-{"propertySlug":"person-access-kind","path":"person/access/pages/anonymous-page-type-view.person-access.ts","id":"01a0c52d-315f-7f71-8ca4-5cec802058ef"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-device-token.person-access.ts","id":"01a0c50e-7a72-77bc-b980-8a33ebcd20be"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-feature-request.person-access.ts","id":"01a0c50e-ad0e-7a77-8fa4-9d499bf0e7b3"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-ios-app.person-access.ts","id":"01a0c50e-9465-7fda-b158-d0033aafdad5"}
