@@ -1631,7 +1631,6 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts","id":"01a0c463-4e89-7883-b6e9-8377856c3e09"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts","id":"01a0c47f-725d-7d9c-9fd8-45724688d64d"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts","id":"01a0c473-6eee-71da-89a1-85de833a7921"}
-{"propertySlug":"decision-kind","path":"story/game/panel/game-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-beside/game-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
@@ -1851,7 +1850,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.ts","id":"01a072dd-5d04-75d2-8bb2-1d5b8ac04825"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/potion-restore-resolve/potion-restore-resolve.module.ts","id":"01a060d9-44cb-7685-bea5-8baa5a8a8943"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}
-{"propertySlug":"decision-kind","path":"temper/items-rules-routing-core/temper-items-rules-routing-core.domain.ts","id":"01a06151-370b-7fa6-ad43-f200b0ae0fb9"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.ts","id":"01a060d9-498b-7d49-9f36-43409f335af9"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","id":"01a0612e-28d6-7df8-bb5c-419ce436eb8f"}
 {"propertySlug":"decision-kind","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}
@@ -1895,6 +1893,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/test-fixtures/check-container-fixtures/check-container-fixtures.test-fixture.ts","id":"01a06137-f963-75d4-b14c-bdaa8c6693a8"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.ts","id":"01a09cdb-91fc-7a30-aff9-71b0686321f2"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/temper-items-rules-matcher.domain.ts","id":"01a06151-370e-7f21-be1d-3df9be256684"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/routing/core/temper-items-rules-routing-core.domain.ts","id":"01a06151-370b-7fa6-ad43-f200b0ae0fb9"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-simulation/inventory-management-plan-simulation.module.ts","id":"01a0615a-a1dc-7109-83cd-300cf2753778"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/temper-items-rules-routing.domain.ts","id":"01a0615a-a1de-7f51-9fb6-fb90ff022184"}
 {"propertySlug":"decision-kind","path":"temper/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}

@@ -1,5 +1,10 @@
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { resolveCharacterName } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
+import type {
+  CharacterSession,
+  ManagementPlan,
+} from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import {
   BUY_CHARACTER_ID,
   BUY_CHARACTER_NAME,
@@ -20,11 +25,6 @@ import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import { resolveCharacterName } from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
-import type {
-  CharacterSession,
-  ManagementPlan,
-} from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 function keyLess(a: readonly number[], b: readonly number[]): boolean {
   for (let i = 0; i < a.length; i++) {

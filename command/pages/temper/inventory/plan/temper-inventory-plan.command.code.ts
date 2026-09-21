@@ -41,6 +41,12 @@ import type {
   IndeterminateReason,
   WalkOutcome,
 } from "akasha/temper/items/rules/eval/modules/eval-result/eval-result.module.code.ts"
+import type {
+  CharacterSession,
+  ManagementPlan,
+  PlanItem,
+  VenueStop,
+} from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import {
   type CompiledOrderedRule,
   IMPLICIT_TERMINAL_COMPILED_RULE,
@@ -50,12 +56,6 @@ import type {
   ClassifiedInventoryItem,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type {
-  CharacterSession,
-  ManagementPlan,
-  PlanItem,
-  VenueStop,
-} from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 const NAMED = [
   jsonArgument,

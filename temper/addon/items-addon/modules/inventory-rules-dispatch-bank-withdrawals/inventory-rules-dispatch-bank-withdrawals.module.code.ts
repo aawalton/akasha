@@ -35,10 +35,10 @@ import {
 } from "akasha/temper/addon/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import { slotKey } from "akasha/temper/addon/items-addon/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import { isConsolidateDest } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items-rules-core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 import { planStockReconcile } from "akasha/temper/items-rules-core/modules/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
 import type { CharacterId } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
-import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 
 const BANK_CHARACTER_PREFIX = "character:"
 

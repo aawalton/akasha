@@ -1,17 +1,17 @@
 import {
-  buildActionGroups,
-  sumTotalValues,
-} from "akasha/temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.code.ts"
-import {
   buildVenueLabel,
   VENUE_LABELS,
   VENUE_ORDER,
-} from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
+} from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import type {
   PlanItem,
   VenueStop,
   VenueType,
-} from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+} from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import {
+  buildActionGroups,
+  sumTotalValues,
+} from "akasha/temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.code.ts"
 
 export interface SimStep {
   venue: VenueType

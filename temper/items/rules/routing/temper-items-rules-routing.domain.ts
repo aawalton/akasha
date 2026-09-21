@@ -22,6 +22,7 @@ export const temperItemsRulesRouting = {
     "test-fixture/inventory-management-plan-chain-property-fixtures",
     "test-fixture/inventory-management-plan-property-fixtures",
     "test-fixture/inventory-management-plan-test-utils",
+    "domain/temper-items-rules-routing-core",
   ],
   decisions: [
     {

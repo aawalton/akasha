@@ -5,11 +5,11 @@ import type {
   InventoryItemData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { getLocationDisplayName } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import type { VenueType } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import type {
   ItemAction,
   MoveToDestination,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { VenueType } from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 export function computePlanItemValue(
   action: ItemAction,

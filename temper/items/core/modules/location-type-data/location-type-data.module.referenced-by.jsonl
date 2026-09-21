@@ -1,12 +1,12 @@
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/addon/items-addon/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/addon/items-addon/modules/inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items-rules-core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items-rules-routing-core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items/core/modules/location-classify/location-classify.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items/core/modules/location-condition/location-condition.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"}
+{"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx"}

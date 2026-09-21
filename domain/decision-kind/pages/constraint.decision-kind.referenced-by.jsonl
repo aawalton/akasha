@@ -1229,7 +1229,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/rule-template-table-01/rule-template-table-01.module.ts","id":"01a06100-3bfc-7142-8fe2-abb5978a1b49"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/rule-template-table-02/rule-template-table-02.module.ts","id":"01a06100-3bfd-794a-abcd-eb17b95c077c"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/rule-template-table/rule-template-table.module.ts","id":"01a06100-3bfd-7c3a-a467-2c2131163905"}
-{"propertySlug":"decision-kind","path":"temper/items-rules-routing-core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.ts","id":"01a06151-370a-75d2-9f60-78f57041397a"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/capture-instant/capture-instant.module.ts","id":"01a0ba6c-9beb-78b6-ae42-ea76022acdac"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
@@ -1250,6 +1249,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/eval-env/eval-env.module.ts","id":"01a06137-f96b-7cf5-abc2-4f59c9d2db9a"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/item-facts/item-facts.module.ts","id":"01a06137-f96c-7332-b371-6a8536a60c01"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.ts","id":"01a06137-f96d-7493-bbc2-36975759b675"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.ts","id":"01a06151-370a-75d2-9f60-78f57041397a"}
 {"propertySlug":"decision-kind","path":"temper/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"decision-kind","path":"temper/player-completion-state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/activity-categories/activity-categories.module.ts","id":"01a06108-2fe7-758c-947c-5275babdadb5"}

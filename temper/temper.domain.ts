@@ -19,7 +19,6 @@ export const temper = {
     "domain/temper-companion-codec",
     "domain/temper-formula-framework",
     "domain/temper-items-rules-core",
-    "domain/temper-items-rules-routing-core",
     "domain/temper-player-completion",
     "domain/temper-player-completion-state",
     "domain/temper-skill-morph-access",
