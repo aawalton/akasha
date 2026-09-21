@@ -12,10 +12,6 @@ export const aineContribution = {
       statement:
         "Only a contributor proposes a feature request, paying contribution points, and Alan publishes it.",
     },
-    {
-      statement:
-        "A command completes a feature request and burns its contribution points, or denies it and refunds.",
-    },
   ],
   constraints: [
     "Nothing Alan makes is held back from anyone; backing buys weight in what Alan builds next and nothing else.",
