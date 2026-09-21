@@ -43,8 +43,6 @@
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/kube-state-metrics/kube-state-metrics.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/pgbouncer-exporter/pgbouncer-exporter.manifest.ts"}
-{"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/postgres-exporter/postgres-exporter.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"infrastructure/telemetry/prometheus/prometheus.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"page/service/page-forwarder/page-forwarder.manifest.ts"}
 {"propertySlug":"import","fileName":"manifest.page-type.types.ts","path":"product/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.ts"}

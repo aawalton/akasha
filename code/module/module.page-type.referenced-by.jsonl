@@ -1916,10 +1916,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/node-exporter-daemonset/modules/cgroup-psi-collector/cgroup-psi-collector.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/node-exporter-daemonset/modules/cgroup-psi-constants/cgroup-psi-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/node-exporter-daemonset/modules/kubepods-oom-constants/kubepods-oom-constants.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/pgbouncer-exporter/modules/manifests/pgbouncer-exporter-manifests.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/postgres-exporter/modules/manifests/postgres-exporter-manifests.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/postgres-exporter/modules/query-perf-constants/query-perf-constants.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/postgres-exporter/modules/query-perf-queries/query-perf-queries.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/prometheus/modules/config/prometheus-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/prometheus/modules/manifests/prometheus-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/answer-write/answer-write.module.ts"}

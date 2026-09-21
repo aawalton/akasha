@@ -56,18 +56,6 @@ scrape_configs:
       - targets:
           - kube-state-metrics.prometheus.svc.cluster.local:8080
 
-  # Postgres exporter (shared database — postgres.db)
-  - job_name: postgres-exporter
-    static_configs:
-      - targets:
-          - postgres-exporter.prometheus.svc.cluster.local:9187
-
-  # PgBouncer exporter (pool-saturation metrics — pgbouncer_pools_*)
-  - job_name: pgbouncer-exporter
-    static_configs:
-      - targets:
-          - pgbouncer-exporter.prometheus.svc.cluster.local:9127
-
   # DCGM exporter
   - job_name: dcgm-exporter
     kubernetes_sd_configs:
@@ -80,7 +68,7 @@ scrape_configs:
 
   # Cloudflared metrics — the tunnel pods expose /metrics + /ready on :2000
   # (cloudflared.service-cluster.config.yaml binds metrics: 0.0.0.0:2000). Scraped via pod
-  # service-discovery (mirroring the cnpg-pods / promtail jobs), NOT a static
+  # service-discovery (mirroring the promtail job), NOT a static
   # Service-DNS target: the Deployment runs 2 replicas and no backing Service
   # named 'cloudflared' ever existed, so the old static target
   # cloudflared.cloudflared.svc.cluster.local:2000 read up==0 with no
@@ -162,29 +150,6 @@ scrape_configs:
       - source_labels: [__meta_kubernetes_pod_ip]
         target_label: __address__
         replacement: \${1}:3100
-      - source_labels: [__meta_kubernetes_pod_name]
-        target_label: pod
-      - source_labels: [__meta_kubernetes_pod_name]
-        target_label: instance
-
-  # CNPG instance pods — the instance manager exposes native + barman-cloud
-  # plugin metrics on :9187. The
-  # barman_cloud_cloudnative_pg_io_last_available_backup_timestamp gauge feeds
-  # the backup-age alerts (#14219); the deprecated cnpg_collector_* gauges
-  # read 0 under plugin-mode backups, so this scrape is the live source of
-  # backup-freshness truth.
-  - job_name: cnpg-pods
-    kubernetes_sd_configs:
-      - role: pod
-        namespaces:
-          names: ["postgres"]
-    relabel_configs:
-      - source_labels: [__meta_kubernetes_pod_label_cnpg_io_podRole]
-        regex: instance
-        action: keep
-      - source_labels: [__meta_kubernetes_pod_ip]
-        target_label: __address__
-        replacement: \${1}:9187
       - source_labels: [__meta_kubernetes_pod_name]
         target_label: pod
       - source_labels: [__meta_kubernetes_pod_name]

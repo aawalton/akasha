@@ -11,7 +11,6 @@ const MANAGED_BY = "bootstrap"
 
 export const PROMETHEUS_IMAGE = "prom/prometheus:v2.54.1"
 export const ALERTMANAGER_IMAGE = "prom/alertmanager:v0.27.0"
-export const POSTGRES_EXPORTER_IMAGE = "prometheuscommunity/postgres-exporter:v0.15.0"
 export const KUBE_STATE_METRICS_IMAGE =
   "registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0"
 export const NODE_EXPORTER_IMAGE = "prom/node-exporter:v1.8.2"
@@ -32,34 +31,6 @@ export const PROMETHEUS_LABELS = kubernetesLabels({
 })
 
 export const PROMETHEUS_SELECTOR_LABELS = selectorOf(PROMETHEUS_LABELS, "name-instance")
-
-export const POSTGRES_EXPORTER_LABELS = kubernetesLabels({
-  name: "postgres-exporter",
-  instance: "prometheus",
-  component: "exporter",
-  partOf: PART_OF,
-  managedBy: MANAGED_BY,
-})
-
-export const POSTGRES_EXPORTER_SELECTOR_LABELS = selectorOf(
-  POSTGRES_EXPORTER_LABELS,
-  "name-instance"
-)
-
-export const PGBOUNCER_EXPORTER_IMAGE = "prometheuscommunity/pgbouncer-exporter:v0.12.0"
-
-export const PGBOUNCER_EXPORTER_LABELS = kubernetesLabels({
-  name: "pgbouncer-exporter",
-  instance: "prometheus",
-  component: "exporter",
-  partOf: PART_OF,
-  managedBy: MANAGED_BY,
-})
-
-export const PGBOUNCER_EXPORTER_SELECTOR_LABELS = selectorOf(
-  PGBOUNCER_EXPORTER_LABELS,
-  "name-instance"
-)
 
 export const KUBE_STATE_METRICS_LABELS = kubernetesLabels({
   name: "kube-state-metrics",

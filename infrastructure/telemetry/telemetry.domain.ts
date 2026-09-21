@@ -12,8 +12,6 @@ export const telemetry = {
     "manifest/grafana",
     "manifest/kube-state-metrics",
     "manifest/node-exporter-daemonset",
-    "manifest/pgbouncer-exporter",
-    "manifest/postgres-exporter",
     "manifest/prometheus",
     "module/prometheus-constants",
     "page-type/dashboard",
