@@ -11,6 +11,8 @@ export const gameLocation = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/holding-game", required: true, many: false },
+    { pageProperty: "relation-property/within-location", required: false, many: false },
+    { pageProperty: "number-property/location-depth", required: false, many: false },
   ],
   decisions: [
     {
@@ -32,4 +34,5 @@ export const gameLocation = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: ["relation-property/within-location", "number-property/location-depth"],
 } as const satisfies PageType

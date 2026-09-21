@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A game counting its places in one line orders them by this."},{"decisionKind":"decision-kind/departure","statement":"A place inside another takes the depth of the place it is inside."}]}
+{"definition":"how far into its game a place sits, counted the way that game counts"}
+{"id":"01a0c643-baaf-7470-8d8e-d86e077c2c54"}
+{"max":null}
+{"nullable":false}
+{"propertySlug":"depth"}
+{"slug":"location-depth"}
+{"type":"page-type/number-property"}
+{"types":"ts"}
