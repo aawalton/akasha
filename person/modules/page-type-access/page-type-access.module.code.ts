@@ -1,3 +1,4 @@
+import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-record/as-object-record.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   askingFor,
@@ -30,20 +31,36 @@ export const DEEDS = {
 
 export type Deed = (typeof DEEDS)[keyof typeof DEEDS]
 
-export type Decision = { readonly permitted: boolean; readonly why: string | null }
+export type Narrow = { readonly key: string; readonly is: string }
 
-export type Grant = { readonly target: string; readonly deeds: readonly string[] }
+export type Grant = {
+  readonly target: string
+  readonly deeds: readonly string[]
+  readonly narrow: Narrow | null
+}
+
+export type Reach =
+  | { readonly permitted: false; readonly why: string }
+  | { readonly permitted: true; readonly narrows: readonly Narrow[] | null }
 
 export type Granted =
   | { readonly ok: true; readonly grants: readonly Grant[] }
   | { readonly ok: false; readonly why: string }
 
-const PERMITTED: Decision = { permitted: true, why: null }
-
 function deedsOf(value: unknown): readonly string[] {
   if (typeof value === "string") return value === "" ? [] : [value]
   if (!Array.isArray(value)) return []
   return value.filter((one): one is string => typeof one === "string" && one !== "")
+}
+
+function narrowOf(value: unknown): Narrow | null {
+  const held = asObjectRecord(value)
+  if (held === undefined) return null
+  const key = held["key"]
+  const is = held["is"]
+  if (typeof key !== "string" || key === "") return null
+  if (typeof is !== "string") return null
+  return { key, is }
 }
 
 export async function pageTypeGrantsFor(
@@ -58,7 +75,7 @@ export async function pageTypeGrantsFor(
         person: { is: namedAs(PERSON_PAGE_TYPE, personSlug, null) },
         accessKind: { is: PAGE_TYPE_ACCESS_KIND },
       },
-      keys: ["target", "deed"],
+      keys: ["target", "deed", "narrow"],
     },
     fetcher,
     naps
@@ -73,46 +90,58 @@ export async function pageTypeGrantsFor(
   for (const row of asked.rows) {
     const target = row["target"]
     if (typeof target !== "string" || target === "") continue
-    grants.push({ target, deeds: deedsOf(row["deed"]) })
+    grants.push({ target, deeds: deedsOf(row["deed"]), narrow: narrowOf(row["narrow"]) })
   }
   return { ok: true, grants }
 }
 
-export function grantsPageType(grants: Iterable<Grant>, pageTypeSlug: string, deed: Deed): boolean {
+export function reachOf(
+  grants: Iterable<Grant>,
+  pageTypeSlug: string,
+  deed: Deed,
+  personSlug: string
+): Reach {
+  const narrows: Narrow[] = []
+  let named = false
   for (const one of grants) {
     if (one.target !== EVERY_TARGET && one.target !== pageTypeSlug) continue
-    if (one.deeds.includes(deed)) return true
+    if (!one.deeds.includes(deed)) continue
+    named = true
+    if (one.narrow === null) return { permitted: true, narrows: null }
+    narrows.push(one.narrow)
   }
-  return false
+  if (!named) {
+    return {
+      permitted: false,
+      why: `\`${personSlug}\` holds no page type access naming \`${pageTypeSlug}\` for \`${deed}\``,
+    }
+  }
+  return { permitted: true, narrows }
 }
 
-export async function pageTypeAccessForPerson(
+export async function pageTypeReachForPerson(
   personSlug: string,
   pageTypeSlug: string,
   deed: Deed,
   fetcher?: Fetcher,
   naps?: Sleeper
-): Promise<Decision> {
+): Promise<Reach> {
   const held = await pageTypeGrantsFor(personSlug, fetcher, naps)
   if (!held.ok) return { permitted: false, why: held.why }
-  if (grantsPageType(held.grants, pageTypeSlug, deed)) return PERMITTED
-  return {
-    permitted: false,
-    why: `\`${personSlug}\` holds no page type access naming \`${pageTypeSlug}\` for \`${deed}\``,
-  }
+  return reachOf(held.grants, pageTypeSlug, deed, personSlug)
 }
 
-export async function pageTypeAccessFor(
+export async function pageTypeReachFor(
   whom: Whom | null,
   pageTypeSlug: string,
   deed: Deed,
   fetcher?: Fetcher,
   naps?: Sleeper
-): Promise<Decision> {
+): Promise<Reach> {
   if (whom === null) {
-    return pageTypeAccessForPerson(ANONYMOUS_PERSON, pageTypeSlug, deed, fetcher, naps)
+    return pageTypeReachForPerson(ANONYMOUS_PERSON, pageTypeSlug, deed, fetcher, naps)
   }
   const enrolled = await personSlugFor(whom, fetcher, naps)
   if (!enrolled.ok) return { permitted: false, why: enrolled.why }
-  return pageTypeAccessForPerson(enrolled.personSlug, pageTypeSlug, deed, fetcher, naps)
+  return pageTypeReachForPerson(enrolled.personSlug, pageTypeSlug, deed, fetcher, naps)
 }

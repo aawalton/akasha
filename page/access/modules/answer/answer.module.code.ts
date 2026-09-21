@@ -11,7 +11,10 @@ import {
   type PropertyDefinition,
 } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 import type { RawPageRow } from "akasha/page/access/modules/raw-page-row/raw-page-row.module.code.ts"
-import type { Asked } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import type {
+  Asked,
+  Test,
+} from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const LISTING_CEILING = 5_000
@@ -33,11 +36,35 @@ const UNREAD_PAGE_TYPE =
 
 const SIGNED_IN_ONLY = "this route answers a signed-in reader only"
 
+const NARROWS_DISAGREE =
+  "the accesses reaching this page type narrow it by different keys, and one question asks by one key; this route refuses rather than widening to the pages both narrows would let through"
+
 export type ReadUser = (request: Request) => Promise<{ user: object | null; headers: Headers }>
 
-export type MayRead = (user: object | null, pageTypeSlug: string) => Promise<boolean>
+export type Narrowed = { readonly key: string; readonly is: string }
 
-const signedInMayRead: MayRead = async (user) => user !== null
+export type Reading =
+  | { readonly permitted: false }
+  | { readonly permitted: true; readonly narrows: readonly Narrowed[] | null }
+
+export type MayRead = (user: object | null, pageTypeSlug: string) => Promise<Reading>
+
+const READS_EVERYTHING: Reading = { permitted: true, narrows: null }
+
+const READS_NOTHING: Reading = { permitted: false }
+
+const signedInMayRead: MayRead = async (user) => (user === null ? READS_NOTHING : READS_EVERYTHING)
+
+export function askedNarrow(
+  narrows: readonly Narrowed[] | null
+): Readonly<Record<string, Test>> | undefined | null {
+  if (narrows === null) return undefined
+  const keys = new Set(narrows.map((one) => one.key))
+  if (keys.size !== 1) return null
+  const key = [...keys][0] as string
+  const values = narrows.map((one) => one.is)
+  return values.length === 1 ? { [key]: { is: values[0] as string } } : { [key]: { in: values } }
+}
 
 export type PageTypesDeps = {
   readonly readUser: ReadUser
@@ -59,7 +86,7 @@ async function readableOf(
 ): Promise<readonly string[]> {
   const kept: string[] = []
   for (const slug of [...slugs].sort()) {
-    if (await mayRead(user, slug)) kept.push(slug)
+    if ((await mayRead(user, slug)).permitted) kept.push(slug)
   }
   return kept
 }
@@ -92,7 +119,8 @@ export type PagesDeps = {
   readonly ask: (
     pageTypeSlug: string,
     limit: number,
-    keys: readonly string[] | undefined
+    keys: readonly string[] | undefined,
+    where: Readonly<Record<string, Test>> | undefined
   ) => Promise<Asked>
   readonly readPageType: (pageTypeSlug: string) => Promise<PageTypeReading | null>
   readonly definitionsFor: (pageTypeSlug: string) => Promise<readonly PropertyDefinition[]>
@@ -102,8 +130,13 @@ export function pagesDeps(readUser: ReadUser, mayRead: MayRead = signedInMayRead
   return {
     readUser,
     mayRead,
-    ask: (pageTypeSlug, limit, keys) =>
-      askingFor({ pageTypeSlug, limit, ...(keys === undefined ? {} : { keys }) }),
+    ask: (pageTypeSlug, limit, keys, where) =>
+      askingFor({
+        pageTypeSlug,
+        limit,
+        ...(keys === undefined ? {} : { keys }),
+        ...(where === undefined ? {} : { where }),
+      }),
     readPageType: async (pageTypeSlug) => {
       const pageType = await getPageTypeBySlug(pageTypeSlug)
       if (pageType === null) return null
@@ -170,8 +203,13 @@ export async function answerPages(
   deps: PagesDeps
 ): Promise<Response> {
   const { user, headers } = await deps.readUser(request)
-  if (!(await deps.mayRead(user, pageTypeSlug))) {
+  const reach = await deps.mayRead(user, pageTypeSlug)
+  if (!reach.permitted) {
     return Response.json({ error: SIGNED_IN_ONLY }, { status: 401, headers })
+  }
+  const narrowed = askedNarrow(reach.narrows)
+  if (narrowed === null) {
+    return Response.json({ error: NARROWS_DISAGREE }, { status: 403, headers })
   }
 
   let reading: PageTypeReading | null
@@ -191,7 +229,12 @@ export async function answerPages(
     )
   }
 
-  const asked = await deps.ask(pageTypeSlug, LISTING_CEILING, listedKeys(reading.definitions))
+  const asked = await deps.ask(
+    pageTypeSlug,
+    LISTING_CEILING,
+    listedKeys(reading.definitions),
+    narrowed
+  )
   if ("refused" in asked) {
     return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })
   }

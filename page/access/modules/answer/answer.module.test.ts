@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   answerPages,
   answerPageTypes,
+  askedNarrow,
   listedKeys,
   type PagesDeps,
   type PageTypeReading,
@@ -13,12 +14,19 @@ import type { PropertyDefinition } from "akasha/page/access/modules/page-type-co
 
 const AT = "https://alanwalton.com/api/pages/readout"
 
+const READS_EVERYTHING = { permitted: true, narrows: null } as const
+
+const READS_NOTHING = { permitted: false } as const
+
+const whenSignedIn = async (user: object | null) =>
+  user === null ? READS_NOTHING : READS_EVERYTHING
+
 const ROSTER_AT = "https://alanwalton.com/api/page-types"
 
 function depsRostering(roster: PageTypesDeps["roster"]): PageTypesDeps {
   return {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: async (user) => user !== null,
+    mayRead: whenSignedIn,
     roster,
   }
 }
@@ -26,7 +34,7 @@ function depsRostering(roster: PageTypesDeps["roster"]): PageTypesDeps {
 function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
   return {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: async (user) => user !== null,
+    mayRead: whenSignedIn,
     ask: async () => ({ rows: [], n: 0 }),
     readPageType,
     definitionsFor: async () => [],
@@ -36,7 +44,7 @@ function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
 function depsAsking(ask: PagesDeps["ask"]): PagesDeps {
   return {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: async (user) => user !== null,
+    mayRead: whenSignedIn,
     ask,
     readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
     definitionsFor: async () => [],
@@ -168,7 +176,7 @@ test("a listing asks for every key but the ones whose rows are filed beside the 
   const under: (readonly string[] | undefined)[] = []
   const answered = await answerPages(new Request(AT), "readout", {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: async (user) => user !== null,
+    mayRead: whenSignedIn,
     ask: async (_pageTypeSlug, _limit, keys) => {
       under.push(keys)
       return { rows: [], n: 0 }
@@ -230,7 +238,7 @@ test("an anonymous reader no grant admits is answered 401", async () => {
   const answered = await answerPages(
     new Request(AT),
     "readout",
-    depsAnonymous(async () => false)
+    depsAnonymous(async () => READS_NOTHING)
   )
   expect(answered.status).toBe(401)
 })
@@ -242,7 +250,7 @@ test("an anonymous reader a grant admits is answered the rows", async () => {
     "readout",
     depsAnonymous(async (_user, pageTypeSlug) => {
       asked.push(pageTypeSlug)
-      return true
+      return READS_EVERYTHING
     })
   )
   expect(answered.status).toBe(200)
@@ -256,17 +264,80 @@ test("every reader is weighed against what that reader may read", async () => {
     ...deps,
     mayRead: async (user) => {
       asked.push(user)
-      return user !== null
+      return user === null ? READS_NOTHING : READS_EVERYTHING
     },
   })
   expect(answered.status).toBe(200)
   expect(asked).toEqual([{ id: "one" }])
 })
 
+test("a narrow an access carries is asked of the pages rather than weighed after", async () => {
+  const asked: (Readonly<Record<string, unknown>> | undefined)[] = []
+  const answered = await answerPages(new Request(AT), "readout", {
+    readUser: async () => ({ user: null, headers: new Headers() }),
+    mayRead: async () => ({ permitted: true, narrows: [{ key: "appSlug", is: "requests" }] }),
+    ask: async (_pageTypeSlug, _limit, _keys, where) => {
+      asked.push(where)
+      return { rows: [], n: 0 }
+    },
+    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
+    definitionsFor: async () => [],
+  })
+  expect(answered.status).toBe(200)
+  expect(asked).toEqual([{ appSlug: { is: "requests" } }])
+})
+
+test("an access stating no narrow asks the pages without one", async () => {
+  const asked: (Readonly<Record<string, unknown>> | undefined)[] = []
+  await answerPages(new Request(AT), "readout", {
+    readUser: async () => ({ user: null, headers: new Headers() }),
+    mayRead: async () => READS_EVERYTHING,
+    ask: async (_pageTypeSlug, _limit, _keys, where) => {
+      asked.push(where)
+      return { rows: [], n: 0 }
+    },
+    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
+    definitionsFor: async () => [],
+  })
+  expect(asked).toEqual([undefined])
+})
+
+test("two narrows on one key are asked as one question", () => {
+  expect(
+    askedNarrow([
+      { key: "world", is: "world/one" },
+      { key: "world", is: "world/two" },
+    ])
+  ).toEqual({ world: { in: ["world/one", "world/two"] } })
+})
+
+test("narrows disagreeing on the key refuse rather than widening", async () => {
+  expect(
+    askedNarrow([
+      { key: "world", is: "world/one" },
+      { key: "appSlug", is: "requests" },
+    ])
+  ).toBeNull()
+  const answered = await answerPages(new Request(AT), "readout", {
+    readUser: async () => ({ user: null, headers: new Headers() }),
+    mayRead: async () => ({
+      permitted: true,
+      narrows: [
+        { key: "world", is: "world/one" },
+        { key: "appSlug", is: "requests" },
+      ],
+    }),
+    ask: async () => ({ rows: [], n: 0 }),
+    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
+    definitionsFor: async () => [],
+  })
+  expect(answered.status).toBe(403)
+})
+
 test("a reader who is signed out is answered 401 rather than a roster", async () => {
   const answered = await answerPageTypes(new Request(ROSTER_AT), {
     readUser: async () => ({ user: null, headers: new Headers() }),
-    mayRead: async (user) => user !== null,
+    mayRead: whenSignedIn,
     roster: async () => new Set(["nav"]),
   })
   expect(answered.status).toBe(401)
@@ -275,7 +346,7 @@ test("a reader who is signed out is answered 401 rather than a roster", async ()
 test("a roster carries only the page types the reader may read", async () => {
   const answered = await answerPageTypes(new Request(ROSTER_AT), {
     readUser: async () => ({ user: null, headers: new Headers() }),
-    mayRead: async (_user, slug) => slug === "world-skill",
+    mayRead: async (_user, slug) => (slug === "world-skill" ? READS_EVERYTHING : READS_NOTHING),
     roster: async () => new Set(["nav", "world-skill", "readout"]),
   })
   expect(answered.status).toBe(200)

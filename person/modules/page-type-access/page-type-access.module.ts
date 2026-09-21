@@ -52,5 +52,13 @@ export const pageTypeAccess = {
       decisionKind: "decision-kind/absence",
       statement: "No page type is named here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An access carrying a narrow reaches the pages of its target holding that value.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An access stating no narrow widens past every access that states one.",
+    },
   ],
 } as const satisfies Module

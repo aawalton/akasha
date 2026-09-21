@@ -7,8 +7,9 @@ import {
   ANONYMOUS_PERSON,
   DEEDS,
   type Grant,
-  grantsPageType,
   pageTypeGrantsFor,
+  type Reach,
+  reachOf,
 } from "akasha/person/modules/page-type-access/page-type-access.module.code.ts"
 
 const HELD_FOR_MS = 5_000
@@ -49,14 +50,19 @@ export async function personOf(user: object | null): Promise<string | null> {
   })
 }
 
-export async function mayRead(user: object | null, pageTypeSlug: string): Promise<boolean> {
+const READS_NOTHING: Reach = {
+  permitted: false,
+  why: "no person holds the session this was asked under",
+}
+
+export async function mayRead(user: object | null, pageTypeSlug: string): Promise<Reach> {
   const personSlug = await personOf(user)
-  if (personSlug === null) return false
+  if (personSlug === null) return READS_NOTHING
   const grants = await heldIn(grantsHeld, personSlug, async () => {
     const held = await pageTypeGrantsFor(personSlug)
     if (held.ok) return held.grants
     console.warn(`[reader-access] the access pages went unread: ${held.why}`)
     return []
   })
-  return grantsPageType(grants, pageTypeSlug, DEEDS.READ)
+  return reachOf(grants, pageTypeSlug, DEEDS.READ, personSlug)
 }
