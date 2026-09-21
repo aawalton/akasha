@@ -3377,6 +3377,7 @@
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-affinities.record-property.ts","id":"01a0c638-e681-7f8b-9e65-06059960ba7c"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-bonds.record-property.ts","id":"01a0c63c-7c7c-71fc-82a7-90cbaf43aa20"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-class.text-property.ts","id":"01a0c633-c2ca-709c-8d60-e4931291457c"}
+{"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-dice.relation-property.ts","id":"01a0c63e-5c20-742b-881f-3ab0307d15b1"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-equipment.record-property.ts","id":"01a0c63a-77a8-7aa8-ae8c-141b34ac194b"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-game.relation-property.ts","id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-kind.text-property.ts","id":"01a0c632-9753-7529-a95f-ebc4de76b7df"}
@@ -3386,6 +3387,7 @@
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-traits.record-property.ts","id":"01a0c637-533c-7d20-91d2-bcd683e32b4e"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/equipment-slot.text-property.ts","id":"01a0c63a-0f6e-740e-8eb1-719fb7926587"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/reveal-gate.number-property.ts","id":"01a0c63d-bf33-7fc8-a461-91fda80ddb15"}
+{"propertySlug":"decision-kind","path":"story/game/entity/properties/typical-intent.number-property.ts","id":"01a0c63e-93fb-7a9d-97cd-4e1aa7b4623d"}
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}

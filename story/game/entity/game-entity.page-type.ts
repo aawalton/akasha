@@ -37,6 +37,10 @@ export const gameEntity = {
     { pageProperty: "record-property/entity-bonds", required: false, many: true, maxCount: null },
     { pageProperty: "number-property/reveal-gate", required: false, many: false },
     { pageProperty: "text-property/sheet-note", required: false, many: false },
+    { pageProperty: "relation-property/entity-dice", required: false, many: false },
+    { pageProperty: "number-property/base-damage", required: false, many: false },
+    { pageProperty: "number-property/typical-intent", required: false, many: false },
+    { pageProperty: "number-property/unspent-attribute-points", required: false, many: false },
   ],
   decisions: [
     {
@@ -91,5 +95,9 @@ export const gameEntity = {
     "number-property/established-turn",
     "record-property/entity-bonds",
     "number-property/reveal-gate",
+    "relation-property/entity-dice",
+    "number-property/base-damage",
+    "number-property/typical-intent",
+    "number-property/unspent-attribute-points",
   ],
 } as const satisfies PageType
