@@ -3,7 +3,7 @@
 
 > The worked-examples wall under only perfection is safe — the concrete cases Alan drained, the evidence the belief compresses. Each shows the regime amputating expressive/unverifiable domains (random-punishment country) and sparing verifiable or judgment-lifted ones: the first A- (cried for days), middle-school art (learned not to do art), essays (learned to hate writing), linear algebra (104%, the love that could be verified), the squash farm (did his best and it wasn't enough), music (irreducible 1% error, so no solos), dance (an A wasn't needed), the first real job (probation then #1 on three dimensions), and friends (30 in elementary to 1 in high school).
 
-The wall of concrete cases Alan drained when the [only-perfection-is-safe](../perfection-is-safe.book-chapter.md) dig hit the worked-example layer — the evidence the belief compresses. Read them as one pattern with many instances: **the regime amputated the expressive, unverifiable domains and spared the verifiable or judgment-lifted ones.** Expressive domains are random-punishment country — the judgment is subjective and unforecastable. Verifiable domains let him [self-check his way to perfect](../safety/aphantasia-constraint.book-chapter.md#proof-as-the-prosthetic-for-the-missing-senses); judgment-lifted ones take the random punisher off the table entirely.
+The wall of concrete cases Alan drained when the [only-perfection-is-safe](book-section/all-about-alan/perfection-is-safe) dig hit the worked-example layer — the evidence the belief compresses. Read them as one pattern with many instances: **the regime amputated the expressive, unverifiable domains and spared the verifiable or judgment-lifted ones.** Expressive domains are random-punishment country — the judgment is subjective and unforecastable. Verifiable domains let him [self-check his way to perfect](book-section/all-about-alan/aphantasia-constraint#proof-as-the-prosthetic-for-the-missing-senses); judgment-lifted ones take the random punisher off the table entirely.
 
 ## Grades — the first A-
 
@@ -13,7 +13,7 @@ In middle school he got his first **A-** and was **devastated** — cried for da
 
 Middle-school art class. He was criticized for his submissions (he believes it was meant to help). *"I learned to not do art."* He still has creativity scars or blocks that make any art like that class very hard. Art didn't die — it **shifted form completely:** quilts, code, ideas. The expressive channel where someone could criticize the output got amputated; the channels he could do for himself survived.
 
-This is the **critic-driven** half of the [creativity scars](../creativity-scars.book-chapter.md). The later [Lincoln Logs finding](../creativity-scars.book-chapter.md#the-localization--the-scar-is-on-making-not-playing) is the surprise: the alarm also fires **solo and witnessless**, on the act of *making* itself rather than on being judged — which the "channels he could do for himself survived" line here does not predict.
+This is the **critic-driven** half of the [creativity scars](book-section/all-about-alan/creativity-scars). The later [Lincoln Logs finding](book-section/all-about-alan/creativity-scars#the-localization--the-scar-is-on-making-not-playing) is the surprise: the alarm also fires **solo and witnessless**, on the act of *making* itself rather than on being judged — which the "channels he could do for himself survived" line here does not predict.
 
 ## Essays — learned to hate writing
 
@@ -43,17 +43,17 @@ He almost got fired before the end of his first year — put on **official verba
 
 The starkest contraction. *"I had a ton of friends in elementary school. I remember inviting 30 kids to a birthday party. In middle school, I was down to 3. In high school, 1. I still don't really understand why."*
 
-~**30 → 3 → 1.** Friendship is the maximally expressive, maximally unverifiable domain — other people's reactions, the one schedule he can never self-check to safe. It contracted hardest and he still can't account for it, which is the signature of [random social punishment](../perfection-is-safe.book-chapter.md#the-keystone--the-punishment-is-random-and-social): a cost with no readable cause.
+~**30 → 3 → 1.** Friendship is the maximally expressive, maximally unverifiable domain — other people's reactions, the one schedule he can never self-check to safe. It contracted hardest and he still can't account for it, which is the signature of [random social punishment](book-section/all-about-alan/perfection-is-safe#the-keystone--the-punishment-is-random-and-social): a cost with no readable cause.
 
 ## The pattern these compress to
 
-Across the wall, the cut runs the same direction every time. Killed or hated: **art, essays, solo music, friendship** — expressive, subjectively judged, unforecastable. Kept and loved: **linear algebra, code, choir, dance** — verifiable to perfect, or with the judgment lifted off. The regime didn't take his capacity for joy. It took every acre of it that couldn't be made safe. The [choice](../perfection-is-safe.book-chapter.md#the-worked-examples-wall) — the love or survival, survival every time — and the seven survivors stripped of their witness are in [central-loneliness.md](../central-loneliness.book-chapter.md#lost-everything-that-couldnt-be-made-safe).
+Across the wall, the cut runs the same direction every time. Killed or hated: **art, essays, solo music, friendship** — expressive, subjectively judged, unforecastable. Kept and loved: **linear algebra, code, choir, dance** — verifiable to perfect, or with the judgment lifted off. The regime didn't take his capacity for joy. It took every acre of it that couldn't be made safe. The [choice](book-section/all-about-alan/perfection-is-safe#the-worked-examples-wall) — the love or survival, survival every time — and the seven survivors stripped of their witness are in [central-loneliness.md](book-section/all-about-alan/central-loneliness#lost-everything-that-couldnt-be-made-safe).
 
 ## Cross-references
 
-- [perfection-is-safe.md](../perfection-is-safe.book-chapter.md) — the belief and the random-social-punishment keystone these cases are the evidence for.
-- [origin.md](origin.book-chapter.md) — step 3's type specimen (the age-5 suspension) and the survival-rules list; the childhood layer this adult wall extends.
-- [central-loneliness.md → lost everything that couldn't be made safe](../central-loneliness.book-chapter.md#lost-everything-that-couldnt-be-made-safe) — the seven partial-contractions and solitude-as-safe-mode the friendship case opens onto.
-- [safety.md → proof as the prosthetic](../safety/aphantasia-constraint.book-chapter.md#proof-as-the-prosthetic-for-the-missing-senses) — why the verifiable domains (linear algebra) were safe: proof gives a claim weight, and a checkable claim has no random punisher.
-- [creativity-scars.md](../creativity-scars.book-chapter.md) — the canonical home for the creativity scars; this wall is their critic-driven half (the wound where someone judged the output), and the Lincoln Logs finding is the contrasting solo/witnessless case where the alarm fired on *making* itself.
+- [perfection-is-safe.md](book-section/all-about-alan/perfection-is-safe) — the belief and the random-social-punishment keystone these cases are the evidence for.
+- [origin.md](book-section/all-about-alan/origin) — step 3's type specimen (the age-5 suspension) and the survival-rules list; the childhood layer this adult wall extends.
+- [central-loneliness.md → lost everything that couldn't be made safe](book-section/all-about-alan/central-loneliness#lost-everything-that-couldnt-be-made-safe) — the seven partial-contractions and solitude-as-safe-mode the friendship case opens onto.
+- [safety.md → proof as the prosthetic](book-section/all-about-alan/aphantasia-constraint#proof-as-the-prosthetic-for-the-missing-senses) — why the verifiable domains (linear algebra) were safe: proof gives a claim weight, and a checkable claim has no random punisher.
+- [creativity-scars.md](book-section/all-about-alan/creativity-scars) — the canonical home for the creativity scars; this wall is their critic-driven half (the wound where someone judged the output), and the Lincoln Logs finding is the contrasting solo/witnessless case where the alarm fired on *making* itself.
 

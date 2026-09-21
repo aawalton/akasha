@@ -7,7 +7,7 @@ Twelve months of social-load cut to the floor. Alan classifies the framing as **
 
 - **Family-minimum + church.** Everything else cut. Most exceptions skipped; very few honored.
 - "Family-minimum" is the smallest set of household and parenting interactions required to keep the home running.
-- Church passed the bar primarily because Alan classified it as non-discretionary in his mental framework — see [non-discretionary-reclassification.md](non-discretionary-reclassification.book-chapter.md). Retrospectively, even that was a mistake.
+- Church passed the bar primarily because Alan classified it as non-discretionary in his mental framework — see [non-discretionary-reclassification.md](book-section/all-about-alan/non-discretionary-reclassification). Retrospectively, even that was a mistake.
 
 ## Framing as medical, not preference
 
@@ -21,17 +21,17 @@ Twelve months of social-load cut to the floor. Alan classifies the framing as **
 - Church-with-calling was inside the "non-discretionary" boundary in his framework.
 - He later asked to be released from the calling.
 - 2026: church-without-calling is affordable; church-with-calling at his then-capacity wasn't.
-- The retrospective correction is structural — the classification was wrong, not the cost math. The cost math reads off whatever the classification gate allows through. See [non-discretionary-reclassification.md](non-discretionary-reclassification.book-chapter.md) for the gate.
+- The retrospective correction is structural — the classification was wrong, not the cost math. The cost math reads off whatever the classification gate allows through. See [non-discretionary-reclassification.md](book-section/all-about-alan/non-discretionary-reclassification) for the gate.
 
 ## Composition with the rest of the stack
 
-- Only affordable **after** [employment-cessation.md](employment-cessation.book-chapter.md). Employment was 80% of stress-capacity cost; even with social cut, employment cost alone could keep the system in deficit.
-- Compounds with [meditative breathing](meditative-breathing.book-chapter.md). Talking blocks the breathing protocol — it is the one major activity that pauses it. Cutting social load *also* unblocks 8-12 hours per day of recovery practice that would otherwise be punctuated.
-- This is part of why social interaction is so much costlier than the System B/C compensation cost alone would suggest. The full social cost is captured in [social-experience.md](social-experience.book-chapter.md).
+- Only affordable **after** [employment-cessation.md](book-section/all-about-alan/employment-cessation). Employment was 80% of stress-capacity cost; even with social cut, employment cost alone could keep the system in deficit.
+- Compounds with [meditative breathing](book-section/all-about-alan/meditative-breathing). Talking blocks the breathing protocol — it is the one major activity that pauses it. Cutting social load *also* unblocks 8-12 hours per day of recovery practice that would otherwise be punctuated.
+- This is part of why social interaction is so much costlier than the System B/C compensation cost alone would suggest. The full social cost is captured in [social-experience.md](book-section/all-about-alan/social-experience).
 
 ## Cross-references
 
-- **[employment-cessation.md](employment-cessation.book-chapter.md).** The base layer that makes social isolation affordable.
-- **[non-discretionary-reclassification.md](non-discretionary-reclassification.book-chapter.md).** The framing-layer system that decides what social load is even legible to the cost math.
-- **[meditative-breathing.md](meditative-breathing.book-chapter.md).** Talking blocks the protocol; cutting social load unblocks the recovery practice.
-- **[social-experience.md](social-experience.book-chapter.md).** Why social cost is high in the first place — System 2 compensation plus breathing-pause.
+- **[employment-cessation.md](book-section/all-about-alan/employment-cessation).** The base layer that makes social isolation affordable.
+- **[non-discretionary-reclassification.md](book-section/all-about-alan/non-discretionary-reclassification).** The framing-layer system that decides what social load is even legible to the cost math.
+- **[meditative-breathing.md](book-section/all-about-alan/meditative-breathing).** Talking blocks the protocol; cutting social load unblocks the recovery practice.
+- **[social-experience.md](book-section/all-about-alan/social-experience).** Why social cost is high in the first place — System 2 compensation plus breathing-pause.

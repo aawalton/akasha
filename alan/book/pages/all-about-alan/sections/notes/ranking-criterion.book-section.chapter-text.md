@@ -38,10 +38,10 @@ The probability the organization is currently degrading or will degrade in a hor
 
 - **Already enshittifying.** Visible degradation already happening. Currently failing the trust criterion.
 - **High likelihood.** Pressure signals present (recent ownership change, activist investors, market consolidation), trust criterion uncertain, behavior trending negative.
-- **Medium likelihood.** No specific signals, but the organization has not earned trust under [trust-criterion.md](trust-criterion.book-chapter.md). Default for unknown / unassessed organizations under current conditions.
+- **Medium likelihood.** No specific signals, but the organization has not earned trust under [trust-criterion.md](book-section/all-about-alan/trust-criterion). Default for unknown / unassessed organizations under current conditions.
 - **Low likelihood.** Organization meets the trust criterion — decades of duration plus demonstrated resistance under pressure. Costco-tier.
 
-Default for unassessed organizations is medium-or-higher because the current environment is pressuring every organization simultaneously (see [trust-criterion.md → recent behavior is highly diagnostic](trust-criterion.book-chapter.md#recent-behavior-is-highly-diagnostic)). Trust earned by absence-of-evidence is not earned.
+Default for unassessed organizations is medium-or-higher because the current environment is pressuring every organization simultaneously (see [trust-criterion.md → recent behavior is highly diagnostic](book-section/all-about-alan/trust-criterion#recent-behavior-is-highly-diagnostic)). Trust earned by absence-of-evidence is not earned.
 
 ## Factor: switching cost
 
@@ -54,7 +54,7 @@ How expensive remediation is. Includes money, time, learning, and downstream coo
 
 Switching cost is not the same as criticality. A trivial dependency can have high switching cost (a niche tool with my data locked in). A critical dependency can have low switching cost (a utility with a clean alternative).
 
-Switching cost also includes the cost of **the alternative being viable** — see [alternatives.md → viability](alternatives.book-chapter.md). If the only alternative is itself untrustworthy, the switching cost is effectively infinite for this framework's purposes.
+Switching cost also includes the cost of **the alternative being viable** — see [alternatives.md → viability](book-section/all-about-alan/alternatives). If the only alternative is itself untrustworthy, the switching cost is effectively infinite for this framework's purposes.
 
 ## How to compute it (v1)
 
@@ -72,7 +72,7 @@ Three things:
 
 ## What this criterion does not do
 
-- **It does not pick the alternative.** Once an item is at the top of the queue, [alternatives.md](alternatives.book-chapter.md) is the framework for choosing what to switch to. The ranking criterion only decides what to attack next.
+- **It does not pick the alternative.** Once an item is at the top of the queue, [alternatives.md](book-section/all-about-alan/alternatives) is the framework for choosing what to switch to. The ranking criterion only decides what to attack next.
 - **It does not consider cascading dependencies directly.** If switching A also requires switching B, the cascading-cost shows up in A's switching-cost factor. A separate cascading-dependency mechanism is flagged as a future framework refinement.
 - **It does not weight emotional cost.** The framework is deliberately mechanical. Emotional cost (the disruption of changing a long-running relationship, the cost of learning something new) gets folded into switching cost rather than being its own factor.
 

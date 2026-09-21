@@ -28,17 +28,17 @@ The cost-vs-capacity calculation only operates on items it sees. Items mentally 
 - During 2025, Alan held a church calling. He had classified church-with-calling as non-discretionary.
 - The cost math could see "calling: high cost" but could not see "calling: optional".
 - Reclassification: he asked to be released from the calling. The category opened. The cost math then reached it and removed it.
-- See [medical-social-isolation.md](medical-social-isolation.book-chapter.md) for the full capture; the calling release is the worked example of this gate opening.
+- See [medical-social-isolation.md](book-section/all-about-alan/medical-social-isolation) for the full capture; the calling release is the worked example of this gate opening.
 
 ## Generalization
 
 This is a system of unusually wide scope. Reclassification applies far beyond burnout recovery. Any high-cost commitment that has been "the way things are" for years is a reclassification candidate. Identity practices, family-above-minimum interactions, professional obligations, religious observance, social commitments — each is gated by an inherited classification before any cost math reaches it.
 
-The pattern is structurally similar to the **mechanism-knowledge-as-alarm-reducer** thread (knowing why a sensation happens lowers the alarm response to it) and to the [weather](weather.book-chapter.md) system (reclassifying a conflict as outside his control switches off the dissatisfaction that drives him to resolve it). All three are upstream-of-the-system framing moves over different downstream systems. The reclassification gate here decides what enters the *cost* system; mechanism-knowledge changes how the *alarm* system interprets what enters it; weather decides what the *awareness-of-conflict* engine generates dissatisfaction over. Distinct mechanisms; all upstream.
+The pattern is structurally similar to the **mechanism-knowledge-as-alarm-reducer** thread (knowing why a sensation happens lowers the alarm response to it) and to the [weather](book-section/all-about-alan/weather) system (reclassifying a conflict as outside his control switches off the dissatisfaction that drives him to resolve it). All three are upstream-of-the-system framing moves over different downstream systems. The reclassification gate here decides what enters the *cost* system; mechanism-knowledge changes how the *alarm* system interprets what enters it; weather decides what the *awareness-of-conflict* engine generates dissatisfaction over. Distinct mechanisms; all upstream.
 
 ## Cross-references
 
-- **[medical-social-isolation.md](medical-social-isolation.book-chapter.md).** Worked example: the church calling reclassification.
-- **[employment-cessation.md](employment-cessation.book-chapter.md).** Employment was classified non-discretionary for most of Alan's adult life; the gate had to open before the cut was even considerable.
-- **[stress-capacity-formula.md](stress-capacity-formula.book-chapter.md).** The cost system this gate sits above.
-- **[weather.md](weather.book-chapter.md).** The parallel classification gate over the awareness-of-conflict engine rather than the cost math.
+- **[medical-social-isolation.md](book-section/all-about-alan/medical-social-isolation).** Worked example: the church calling reclassification.
+- **[employment-cessation.md](book-section/all-about-alan/employment-cessation).** Employment was classified non-discretionary for most of Alan's adult life; the gate had to open before the cut was even considerable.
+- **[stress-capacity-formula.md](book-section/all-about-alan/stress-capacity-formula).** The cost system this gate sits above.
+- **[weather.md](book-section/all-about-alan/weather).** The parallel classification gate over the awareness-of-conflict engine rather than the cost math.

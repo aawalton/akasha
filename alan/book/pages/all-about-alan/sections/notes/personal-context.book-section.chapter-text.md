@@ -7,7 +7,7 @@ The framework is mine, written for me alone. Future-Alan reading any audit entry
 
 These are snapshot facts as of 2026-05-15. Some are stable (jurisdiction, household composition). Some are not (asset valuations, market conditions). Where a number is current-but-not-stable, the volatility is flagged in-line.
 
-For the **chronological** companion — the same life read as a narrative arc across eras rather than a present-tense snapshot — see [life-chronology.md](life-chronology.book-chapter.md).
+For the **chronological** companion — the same life read as a narrative arc across eras rather than a present-tense snapshot — see [life-chronology.md](book-section/all-about-alan/life-chronology).
 
 ## Jurisdiction
 
@@ -43,7 +43,7 @@ This stack is the largest single financial dependency the audit has and the reme
 
 ## Household — five members, all AuDHD
 
-- **Alan** — 40, author of this book, Vyvanse for ADHD. **16 months into an estimated 3-5 year recovery from severe autistic burnout (5-year upper anchor)** (canonical recovery-duration figure: [autism-burnout.md](autism-burnout.book-chapter.md)). Bandwidth ceiling applies to remediation pacing: the plan has to be paced for what burnout-recovery Alan can sustain, not what an unconstrained Alan could push through.
+- **Alan** — 40, author of this book, Vyvanse for ADHD. **16 months into an estimated 3-5 year recovery from severe autistic burnout (5-year upper anchor)** (canonical recovery-duration figure: [autism-burnout.md](book-section/all-about-alan/autism-burnout)). Bandwidth ceiling applies to remediation pacing: the plan has to be paced for what burnout-recovery Alan can sustain, not what an unconstrained Alan could push through.
 - **Jenny** — 37, wife. Professional-level cook — significant food-self-reliance capability.
 - **Lizzy** — 17, daughter. Near the college-transition window.
 - **Joseph** — 14, son. On Guanfacine for ADHD.
@@ -57,7 +57,7 @@ The household composition produces dependencies the framework has to recognize:
 
 ## Formative experiences — Russia, age ~20
 
-A piece of biography that anchors a load-bearing mechanism elsewhere in the book. In my first six weeks in Russia — age about 20, on my mission, still fighting for the language — I was held at knifepoint by a drunk for an hour, punched on a subway car, and chased through the streets at night. I state these flatly; that is how they sit. The framework-relevant fact is that in that window the people who turned me away and the people who could kill me were the same class of event — strangers, unreadable, possibly lethal — so my nervous system fusing rejection with bodily danger was correct learning, not a misfire. The mechanism this trained is worked out in [criticism-and-ostracism.md → why rejection fused with bodily danger](criticism-and-ostracism.book-chapter.md#why-rejection-fused-with-bodily-danger--the-russia-experiences).
+A piece of biography that anchors a load-bearing mechanism elsewhere in the book. In my first six weeks in Russia — age about 20, on my mission, still fighting for the language — I was held at knifepoint by a drunk for an hour, punched on a subway car, and chased through the streets at night. I state these flatly; that is how they sit. The framework-relevant fact is that in that window the people who turned me away and the people who could kill me were the same class of event — strangers, unreadable, possibly lethal — so my nervous system fusing rejection with bodily danger was correct learning, not a misfire. The mechanism this trained is worked out in [criticism-and-ostracism.md → why rejection fused with bodily danger](book-section/all-about-alan/criticism-and-ostracism#why-rejection-fused-with-bodily-danger--the-russia-experiences).
 
 ## Health profile
 
