@@ -12,4 +12,5 @@
 {"propertySlug":"name-format","path":"page/type/properties/progress-property-id.text-property.ts","id":"01a0683a-620a-7e65-a95a-efdc99a80eaa"}
 {"propertySlug":"name-format","path":"page/type/properties/sequence-group-by.text-property.ts","id":"01a062de-2001-7001-8470-331eaddff9ce"}
 {"propertySlug":"name-format","path":"page/type/properties/sequence-order-by.text-property.ts","id":"01a062de-2001-7002-8dd0-f44937908528"}
+{"propertySlug":"name-format","path":"person/access/properties/access-narrow-key.text-property.ts","id":"01a0c521-66bd-7307-a70c-179ad63c3b98"}
 {"propertySlug":"parts","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}

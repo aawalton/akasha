@@ -12,6 +12,9 @@ export const personAccess = {
     "text-property/person-access-serves",
     "text-property/person-access-target",
     "relation-property/person-access-deed",
+    "text-property/access-narrow-key",
+    "text-property/access-narrow-is",
+    "record-property/person-access-narrow",
   ],
   properties: [
     {
@@ -28,6 +31,7 @@ export const personAccess = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "record-property/person-access-narrow", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

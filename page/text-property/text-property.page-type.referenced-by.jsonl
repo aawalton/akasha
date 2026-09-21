@@ -349,6 +349,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/view/properties/sort-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/view/properties/view-predicate.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/view/properties/visible-properties.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/access/properties/access-narrow-is.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/access/properties/access-narrow-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/access/properties/person-access-serves.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/access/properties/person-access-target.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/authority/properties/person-authority-target.text-property.ts"}
