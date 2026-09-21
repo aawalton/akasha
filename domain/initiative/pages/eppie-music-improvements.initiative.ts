@@ -16,12 +16,7 @@ export const eppieMusicImprovements = {
       statement:
         "A rating Alan gives is recorded against the track he heard rather than against a song.",
       workingMemory:
-        "Not started. `akasha music rate` writes `rank` onto a song or an artist, and a track carries no rank at all. Alan hears a track, so a track is what he can rate. While one recording is still many track pages, a rating reaches every track sharing its key; once the pages are consolidated that falls away. Whether a song keeps a rank of its own, read off the tracks under it, is unsettled.",
-    },
-    {
-      statement: "A second Spotify playlist holds the tracks Alan has heard and not rated.",
-      workingMemory:
-        "Not started. It runs beside `playlist/unheard`, which is now named New Tracks in Spotify and is reached by its id rather than its name. The picking is the mirror of the unheard one: heard, and carrying no rating. It waits on ratings reaching tracks, because nothing on a track says whether Alan rated it yet.",
+        "`akasha music rate` writes `grade` onto a track, a song or an artist, and a call naming no slug grades the track playing, so a grade already reaches the track Alan heard. One track page carries a grade today. The `rank` a collection carries is a second property nothing in music writes. Whether a song keeps a grade of its own, read off the tracks under it, is unsettled, and so is what a grade on a song or an artist means beside the grades on its tracks.",
     },
   ],
 } as const satisfies Initiative
