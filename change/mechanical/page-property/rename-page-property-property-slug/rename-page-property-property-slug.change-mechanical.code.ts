@@ -193,6 +193,7 @@ function bodiedOver(world: World, edits: readonly FileChange[]): World | string 
     bodyOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.bodyOf(path)),
     under: world.under,
     unentered: world.unentered,
+    claimed: world.claimed,
     tracked: world.tracked,
     base: world.base,
     over,

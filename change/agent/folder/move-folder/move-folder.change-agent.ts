@@ -20,6 +20,10 @@ export const moveFolder = {
       statement: "That change is reached through the runner rather than by an import.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder claimed by a page that moves is carried whole to where that page lands.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here works out a body of its own.",
     },

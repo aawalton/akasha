@@ -56,7 +56,15 @@ export const changeShadowTree = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A folder the answer writes a file under is among the folders left out.",
+      statement: "A folder claimed by a page outside the folder walked is left out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder claimed by a page under the folder walked answers its files instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file the answer writes under such a folder is among those files.",
     },
     {
       decisionKind: "decision-kind/departure",

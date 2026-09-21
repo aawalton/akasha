@@ -11,6 +11,7 @@ import {
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   namesOver,
+  treeClaimed,
   treeTracked,
   treeUnder,
   treeUnentered,
@@ -52,7 +53,9 @@ const ROUTES_AT = ".react-router"
 
 const CLAIMED = `${FROM}/${ROUTES_AT}`
 
-const ROUTES_CODE = `${CLAIMED}/types/routes.ts`
+const ROUTES_AT_TYPES = `${CLAIMED}/types`
+
+const ROUTES_CODE = `${ROUTES_AT_TYPES}/routes.ts`
 
 const ROUTES_BODY = "export const routes = 1\n"
 
@@ -123,11 +126,29 @@ test("a page the answer takes away claims no folder", () => {
   expect(treeUnder(root, FROM, face, said)).toContain(ROUTES_CODE)
 })
 
-test("a folder the answer writes a file under is among the folders left out", () => {
+test("a folder claimed by a page under the folder answers the files that folder holds", () => {
+  const root = indexedRepo(HELD)
+  put(root, ROUTES_CODE, ROUTES_BODY)
+  const face = faceIn(root)
+
+  expect(treeClaimed(root, FROM, face, NOTHING)).toEqual([ROUTES_CODE])
+  expect(treeUnentered(root, FROM, face, NOTHING)).toEqual([])
+})
+
+test("a file the answer writes under such a folder is among the files that folder holds", () => {
   const root = indexedRepo(HELD)
   const said = stating([{ kind: "add", path: ROUTES_CODE, content: ROUTES_BODY }])
 
-  expect(treeUnentered(root, FROM, faceIn(root), said)).toEqual([CLAIMED])
+  expect(treeClaimed(root, FROM, faceIn(root), said)).toEqual([ROUTES_CODE])
+})
+
+test("a folder claimed by a page outside the folder is among the folders left out", () => {
+  const root = indexedRepo(HELD)
+  put(root, ROUTES_CODE, ROUTES_BODY)
+  const face = faceIn(root)
+
+  expect(treeUnentered(root, CLAIMED, face, NOTHING)).toEqual([ROUTES_AT_TYPES])
+  expect(treeClaimed(root, CLAIMED, face, NOTHING)).toEqual([])
 })
 
 test("a folder the answer takes every file away from is left out of that answer", () => {
@@ -136,8 +157,8 @@ test("a folder the answer takes every file away from is left out of that answer"
   const face = faceIn(root)
   const said = stating([{ kind: "remove", path: ROUTES_CODE }])
 
-  expect(treeUnentered(root, FROM, face, NOTHING)).toEqual([CLAIMED])
-  expect(treeUnentered(root, FROM, face, said)).toEqual([])
+  expect(treeUnentered(root, CLAIMED, face, NOTHING)).toEqual([ROUTES_AT_TYPES])
+  expect(treeUnentered(root, CLAIMED, face, said)).toEqual([])
 })
 
 test("a path the answer writes is among the files tracked under that folder", () => {

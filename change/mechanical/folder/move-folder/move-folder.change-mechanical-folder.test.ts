@@ -6,7 +6,11 @@ import {
   type World,
   worldAt,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { treeUnentered } from "akasha/change/modules/shadow-tree/change-shadow-tree.module.code.ts"
+import {
+  treeClaimed,
+  treeUnder,
+  treeUnentered,
+} from "akasha/change/modules/shadow-tree/change-shadow-tree.module.code.ts"
 import {
   carriedPage,
   indexedRepo,
@@ -150,22 +154,42 @@ test("a folder holding no file is refused", async () => {
   expect(said.refused ?? "").toMatch(/holds no file/)
 })
 
-test("a folder a page claims under the folder that moves is refused rather than left behind", async () => {
-  const root = indexedRepo(HELD)
-  const claimed = `${FROM}/${ROUTES_AT}`
-  put(root, `${claimed}/types/routes.ts`, "export const routes = 1\n")
+const CLAIMED = `${FROM}/${ROUTES_AT}`
+
+const ROUTES_CODE = `${CLAIMED}/types/routes.ts`
+
+function claimingWorld(root: string): World {
   const world = worldIn(root)
   const face = {
     ...world.index,
     folderPropertiesAt: () => new Map([[MODULE, new Map([[ROUTES, ROUTES_AT]])]]),
   }
-  const said = await runChange(
-    { ...world, unentered: (folder: string) => treeUnentered(root, folder, face, stating([])) },
-    { from: FROM, to: INTO }
-  )
+  return {
+    ...world,
+    under: (folder: string) => treeUnder(root, folder, face, stating([])),
+    unentered: (folder: string) => treeUnentered(root, folder, face, stating([])),
+    claimed: (folder: string) => treeClaimed(root, folder, face, stating([])),
+  }
+}
+
+test("a folder a page moving with the folder claims is carried whole rather than refused", async () => {
+  const root = indexedRepo(HELD)
+  put(root, ROUTES_CODE, "export const routes = 1\n")
+
+  const said = await runChange(claimingWorld(root), { from: FROM, to: INTO })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toContain(`${INTO}/${ROUTES_AT}/types/routes.ts`)
+})
+
+test("a folder a page the move leaves behind claims is refused rather than left behind", async () => {
+  const root = indexedRepo(HELD)
+  put(root, ROUTES_CODE, "export const routes = 1\n")
+
+  const said = await runChange(claimingWorld(root), { from: CLAIMED, to: `${INTO}/${ROUTES_AT}` })
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain(claimed)
+  expect(said.refused ?? "").toContain(`${CLAIMED}/types`)
 })
 
 test("a folder no page claims is carried rather than refused", async () => {

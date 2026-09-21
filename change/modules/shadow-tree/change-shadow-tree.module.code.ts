@@ -45,7 +45,7 @@ function pagingIn(index: Answering, laid: ReadonlyMap<string, boolean>): Paging 
   ])
 }
 
-type Claiming = (path: string) => boolean
+type Claiming = (path: string) => string | null
 
 function claimingIn(index: Answering, laid: ReadonlyMap<string, boolean>): Claiming {
   const paging = pagingIn(index, laid)
@@ -53,11 +53,11 @@ function claimingIn(index: Answering, laid: ReadonlyMap<string, boolean>): Claim
   const fileProperties = index.filePropertiesAt()
   const folders = index.folderPropertiesAt()
   const extensions = index.extensionPropertiesAt()
-  const asked = new Map<string, boolean>()
+  const asked = new Map<string, string | null>()
   return (path) => {
     const done = asked.get(path)
     if (done !== undefined) return done
-    const said = claimantOf(paging, path, pageTypes, fileProperties, folders, extensions) !== null
+    const said = claimantOf(paging, path, pageTypes, fileProperties, folders, extensions)
     asked.set(path, said)
     return said
   }
@@ -80,8 +80,44 @@ export function treeUnder(
   over: Answer
 ): readonly string[] {
   const claimed = claimingIn(index, laidOver(over.edits))
-  const had = filesThere(root, folder, (path) => !claimed(relative(root, path)))
+  const had = filesThere(root, folder, (path) => claimed(relative(root, path)) === null)
   return underOver(had, over, folder)
+}
+
+type Folders = {
+  readonly carried: readonly string[]
+  readonly left: readonly string[]
+}
+
+function foldersIn(root: string, folder: string, index: Answering, over: Answer): Folders {
+  const laid = laidOver(over.edits)
+  const claimed = claimingIn(index, laid)
+  const holds = (one: string): boolean => underOver(filesThere(root, one), over, one).length > 0
+  const carried = new Set<string>()
+  const left = new Set<string>()
+  const entered = new Set<string>([folder])
+  const at = join(root, folder)
+  const asked = (one: string): boolean => {
+    const claimant = claimed(one)
+    if (claimant === null) {
+      entered.add(one)
+      return true
+    }
+    if (beneath(folder, claimant)) carried.add(one)
+    else if (holds(one)) left.add(one)
+    return false
+  }
+  if (existsSync(at))
+    walkedUnder(
+      at,
+      () => false,
+      (path) => asked(relative(root, path))
+    )
+  for (const one of [...aboveIn(laid)].sort()) {
+    if (!beneath(folder, one) || !entered.has(folderOf(one))) continue
+    asked(one)
+  }
+  return { carried: [...carried].sort(), left: [...left].sort() }
 }
 
 export function treeUnentered(
@@ -90,26 +126,18 @@ export function treeUnentered(
   index: Answering,
   over: Answer
 ): readonly string[] {
-  const laid = laidOver(over.edits)
-  const claimed = claimingIn(index, laid)
-  const holds = (one: string): boolean => underOver(filesThere(root, one), over, one).length > 0
+  return foldersIn(root, folder, index, over).left
+}
+
+export function treeClaimed(
+  root: string,
+  folder: string,
+  index: Answering,
+  over: Answer
+): readonly string[] {
   const found = new Set<string>()
-  const entered = new Set<string>([folder])
-  const at = join(root, folder)
-  const entering = (path: string): boolean => {
-    const one = relative(root, path)
-    if (!claimed(one)) {
-      entered.add(one)
-      return true
-    }
-    if (holds(one)) found.add(one)
-    return false
-  }
-  if (existsSync(at)) walkedUnder(at, () => false, entering)
-  for (const one of [...aboveIn(laid)].sort()) {
-    if (!beneath(folder, one) || !entered.has(folderOf(one))) continue
-    if (!claimed(one)) entered.add(one)
-    else if (holds(one)) found.add(one)
+  for (const one of foldersIn(root, folder, index, over).carried) {
+    for (const path of underOver(filesThere(root, one), over, one)) found.add(path)
   }
   return [...found].sort()
 }

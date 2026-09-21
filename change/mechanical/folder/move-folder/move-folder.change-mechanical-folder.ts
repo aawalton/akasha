@@ -100,7 +100,11 @@ export const moveFolder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A folder a page claims holding a file under the folder moved refuses the move.",
+      statement: "A folder claimed by a page that moves is carried whole to where that page lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder claimed by a page the move leaves behind refuses the move.",
     },
     {
       decisionKind: "decision-kind/departure",

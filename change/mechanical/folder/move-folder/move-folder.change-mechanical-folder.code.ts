@@ -33,7 +33,7 @@ export type Asked = {
 type Moved = { readonly moved: ReadonlyMap<string, string> } | { readonly refused: string }
 
 function underneath(world: World, at: string): readonly string[] {
-  return [...world.under(at)].sort()
+  return [...new Set([...world.under(at), ...(world.claimed?.(at) ?? [])])].sort()
 }
 
 function missing(world: World, at: string, under: readonly string[]): readonly string[] {

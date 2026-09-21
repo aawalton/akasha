@@ -14,6 +14,7 @@ import {
 import {
   type Naming,
   namesOver,
+  treeClaimed,
   treeTracked,
   treeUnder,
   treeUnentered,
@@ -61,6 +62,7 @@ export type World = {
   readonly bodyOf: BodyOf
   readonly under: (folder: string) => readonly string[]
   readonly unentered?: (folder: string) => readonly string[]
+  readonly claimed?: (folder: string) => readonly string[]
   readonly tracked?: (folder: string) => readonly string[] | null
   readonly names?: Naming
   readonly base: BodyOf
@@ -223,6 +225,7 @@ export function worldAt(
     bodyOf,
     under: (folder) => treeUnder(root, folder, index, NOTHING_OVER),
     unentered: (folder) => treeUnentered(root, folder, index, NOTHING_OVER),
+    claimed: (folder) => treeClaimed(root, folder, index, NOTHING_OVER),
     tracked: (folder) => treeTracked(root, folder, NOTHING_OVER),
     names: namesOver(root, NOTHING_OVER),
     base: bodyOf,
@@ -246,6 +249,7 @@ export function worldOver(world: World, said: Answer): World {
     bodyOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.bodyOf(path)),
     under: (folder) => treeUnder(world.root, folder, index, over),
     unentered: (folder) => treeUnentered(world.root, folder, index, over),
+    claimed: (folder) => treeClaimed(world.root, folder, index, over),
     tracked: (folder) => treeTracked(world.root, folder, over),
     names: namesOver(world.root, over),
     base: world.base,
@@ -355,6 +359,7 @@ export function ledgerAt(
     },
     under: (folder) => treeUnder(root, folder, asked(), kept.over),
     unentered: (folder) => treeUnentered(root, folder, asked(), kept.over),
+    claimed: (folder) => treeClaimed(root, folder, asked(), kept.over),
     tracked: (folder) => treeTracked(root, folder, kept.over),
     names: (path) => naming()(path),
   }
