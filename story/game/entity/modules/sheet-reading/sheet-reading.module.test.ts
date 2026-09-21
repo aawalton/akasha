@@ -100,6 +100,12 @@ test("a trait says what it does, and says so when it says nothing", () => {
   ])
 })
 
+test("a listed thing with no name is called by the name it is filed under", () => {
+  expect(markedIn([{ id: "ember-wave" }])[0]?.name).toBe("ember-wave")
+  expect(skillsIn([{ id: "ember-siphon", displayed: 3 }])[0]?.name).toBe("ember-siphon")
+  expect(markedIn([{}])[0]?.name).toBe("unnamed")
+})
+
 test("a bond names the other one's page and the attribute it couples on each side", () => {
   const found = bondsIn(
     [

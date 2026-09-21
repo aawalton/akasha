@@ -76,6 +76,10 @@ export function joinedOf(
   return said.length === 0 ? undefined : said.join(JOIN)
 }
 
+export function namedOf(one: Record<string, unknown>): string {
+  return saidIn(one["name"]) ?? saidIn(one["id"]) ?? UNNAMED
+}
+
 export function attributesIn(held: unknown): readonly Scored[] {
   if (!isRecord(held)) return []
   const found: Scored[] = []
@@ -112,7 +116,7 @@ export function equipmentIn(held: unknown): readonly Carried[] {
 
 export function markedIn(held: unknown): readonly Marked[] {
   return listIn(held).map((one) => ({
-    name: saidIn(one["name"]) ?? UNNAMED,
+    name: namedOf(one),
     effect: saidIn(one["effect"]) ?? UNSTATED,
     source: saidIn(one["source"]),
   }))
@@ -120,7 +124,7 @@ export function markedIn(held: unknown): readonly Marked[] {
 
 export function skillsIn(held: unknown): readonly Skilled[] {
   return listIn(held).map((one) => ({
-    name: saidIn(one["name"]) ?? UNNAMED,
+    name: namedOf(one),
     progress: countIn(one["displayed"]) ?? countIn(one["score"]) ?? NONE,
     effect: saidIn(one["effect"]) ?? UNSTATED,
     source: joinedOf(one, ["source", "status", "talent"]),
@@ -129,7 +133,7 @@ export function skillsIn(held: unknown): readonly Skilled[] {
 
 export function affinitiesIn(held: unknown): readonly Attuned[] {
   return listIn(held).map((one) => ({
-    name: saidIn(one["name"]) ?? UNNAMED,
+    name: namedOf(one),
     type: saidIn(one["type"]) ?? UNSTATED,
     tier: (saidIn(one["tier"]) ?? AFFINITY).toLowerCase(),
     counter: countIn(one["counter"]) ?? NONE,
