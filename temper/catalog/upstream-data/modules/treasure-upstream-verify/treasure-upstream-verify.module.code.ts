@@ -1,10 +1,10 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
-import { BOOK_ID } from "akasha/temper/addon/library/lib-treasure/modules/treasure-book-ids/treasure-book-ids.module.code.ts"
-import { ICONS } from "akasha/temper/addon/library/lib-treasure/modules/treasure-icons/treasure-icons.module.code.ts"
-import { ALL_DATA } from "akasha/temper/addon/library/lib-treasure/modules/treasure-pins-data/treasure-pins-data.module.code.ts"
-import type { AllData } from "akasha/temper/addon/library/lib-treasure/modules/treasure-types/treasure-types.module.code.ts"
+import { BOOK_ID } from "akasha/temper/addon/pages/lib-treasure/modules/treasure-book-ids/treasure-book-ids.module.code.ts"
+import { ICONS } from "akasha/temper/addon/pages/lib-treasure/modules/treasure-icons/treasure-icons.module.code.ts"
+import { ALL_DATA } from "akasha/temper/addon/pages/lib-treasure/modules/treasure-pins-data/treasure-pins-data.module.code.ts"
+import type { AllData } from "akasha/temper/addon/pages/lib-treasure/modules/treasure-types/treasure-types.module.code.ts"
 import {
   gathered,
   ruledOverValues,

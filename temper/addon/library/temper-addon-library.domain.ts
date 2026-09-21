@@ -5,9 +5,5 @@ export const temperAddonLibrary = {
   type: "page-type/domain",
   slug: "temper-addon-library",
   definition: "the libraries temper's add-ons share in the game",
-  parts: [
-    "temper-addon/temper-lib-table-functions",
-    "temper-addon/temper-lib-treasure",
-    "temper-addon/temper-lib-zone",
-  ],
+  parts: [],
 } as const satisfies Domain
