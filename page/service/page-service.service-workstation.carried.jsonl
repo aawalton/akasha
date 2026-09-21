@@ -3,7 +3,7 @@
 {"definition":"the service answering page queries and landing page writes"}
 {"enabled":true}
 {"id":"01a05a43-5afa-7d0d-8d60-dbd3c3498f99"}
-{"parts":["manifest/page-forwarder","module/call-reading","module/file-answering","module/kinds-gathering","module/page-appending","module/page-asking","module/page-calling","module/page-composing","module/page-listening","module/page-reading","module/page-serving","module/page-writing","module/pages-foldered","module/where-testing"]}
+{"parts":["manifest/page-forwarder","module/call-reading","module/file-answering","module/kinds-gathering","module/page-appending","module/page-asking","module/page-calling","module/page-composing","module/page-listening","module/page-placing","module/page-reading","module/page-serving","module/page-writing","module/pages-foldered","module/where-testing"]}
 {"port":8787}
 {"slug":"page-service"}
 {"systemd":{"restartDelaySeconds":1,"startLimitIntervalSeconds":0}}

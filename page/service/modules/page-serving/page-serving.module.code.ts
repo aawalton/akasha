@@ -1,6 +1,7 @@
 import {
   appendIn,
   objectIn,
+  placeIn,
   queryIn,
   readIn,
   writeIn,
@@ -16,6 +17,7 @@ import {
   shaping,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { foldedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { placing } from "akasha/page/service/modules/page-placing/page-placing.module.code.ts"
 import { reading } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
 import type {
   Asked,
@@ -35,6 +37,8 @@ const SHAPE_AT = "/shape"
 export const FILE_AT = "/file"
 
 export const APPEND_AT = "/append"
+
+const PLACE_AT = "/place"
 
 const OCTETS = "application/octet-stream"
 
@@ -112,7 +116,8 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     at !== WRITE_AT &&
     at !== SHAPE_AT &&
     at !== FILE_AT &&
-    at !== APPEND_AT
+    at !== APPEND_AT &&
+    at !== PLACE_AT
   ) {
     return said({ refused: `nothing is asked at ${at}` }, 404)
   }
@@ -139,6 +144,13 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     const sought = appendIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
     const done = appending(given.root, sought.appending)
+    if ("refused" in done) return said({ refused: done.refused }, 400)
+    return said(done, 200)
+  }
+  if (at === PLACE_AT) {
+    const sought = placeIn(body)
+    if ("refused" in sought) return said({ refused: sought.refused }, 400)
+    const done = placing(given.root, sought.placing)
     if ("refused" in done) return said({ refused: done.refused }, 400)
     return said(done, 200)
   }

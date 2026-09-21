@@ -38,15 +38,16 @@ export const fileAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No page states a value for a property held outside the commit.",
+      statement: "No page states in its own file a value for a property held outside the commit.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The ending such a file is named by is read from the property's own page.",
+      statement:
+        "The ending such a file is named by is read from the page's uncommitted values first.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A property naming more than one ending is refused where its page states none.",
+      statement: "A page keeping no ending there is named by the first ending the property states.",
     },
     {
       decisionKind: "decision-kind/departure",

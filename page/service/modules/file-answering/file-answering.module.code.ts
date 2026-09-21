@@ -4,6 +4,7 @@ import {
   bytesAt,
   uncommittedBytesAt,
 } from "akasha/page/modules/file-body/page-file-body.module.code.ts"
+import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   textAt,
@@ -35,7 +36,12 @@ function endingFor(root: string, carried: Carried): string | null {
   const value = valueAt(first.path, root)
   if (value === null) return null
   const held = textsAt(value, EXTENSIONS)
-  return held !== null && held.length === 1 ? (held[0] ?? null) : null
+  return held === null ? null : (held[0] ?? null)
+}
+
+function endingKept(root: string, page: string, key: string): string | null {
+  const beside = uncommittedIn(root, page)
+  return beside === null ? null : textAt(beside, key)
 }
 
 function listing(root: string, asked: Named): readonly { readonly path: string }[] | string {
@@ -65,7 +71,11 @@ export function filing(root: string, asked: Named): Filed {
   const value = valueAt(first.path, root)
   if (value === null) return { refused: `\`${namedIn(asked)}\` would not load` }
   const stated = textAt(value, asked.key)
-  const held = stated ?? (carried.uncommitted ? endingFor(root, carried) : null)
+  const held =
+    stated ??
+    (carried.uncommitted
+      ? (endingKept(root, first.path, asked.key) ?? endingFor(root, carried))
+      : null)
   if (held === null) return { refused: `\`${namedIn(asked)}\` states no \`${asked.key}\`` }
   const read = carried.uncommitted
     ? uncommittedBytesAt(root, first.path, carried.propertySlug, held)

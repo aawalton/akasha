@@ -210,5 +210,17 @@ export const pageServing = {
       decisionKind: "decision-kind/departure",
       statement: "An answer to an append names the file part the lines landed in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Bytes are placed beside a page at a path of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A placing hands its bytes over as base64 text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An answer to a placing names the path the bytes landed at.",
+    },
   ],
 } as const satisfies Module

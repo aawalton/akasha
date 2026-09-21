@@ -1,6 +1,8 @@
+import { Buffer } from "node:buffer"
 import type { Appending } from "akasha/page/service/modules/page-appending/page-appending.module.code.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import type { Placing } from "akasha/page/service/modules/page-placing/page-placing.module.code.ts"
 import type {
   Named,
   Asked as Sought,
@@ -273,6 +275,35 @@ export function writeIn(given: unknown): Written {
   const pages = namingsIn(held.pages)
   if (typeof pages === "string") return { refused: pages }
   return { asked, pages }
+}
+
+export type Placement = { readonly placing: Placing } | { readonly refused: string }
+
+export function placeIn(given: unknown): Placement {
+  const held = objectIn(given)
+  if (held === null) return { refused: "a placing is a JSON object" }
+  const pageTypeSlug = held.pageTypeSlug
+  if (typeof pageTypeSlug !== "string" || pageTypeSlug === "") {
+    return { refused: "a placing names a page type as `pageTypeSlug`" }
+  }
+  const slug = held.slug
+  if (typeof slug !== "string" || slug === "") {
+    return { refused: "a placing names its page as `slug`" }
+  }
+  const key = held.key
+  if (typeof key !== "string" || key === "") {
+    return { refused: "a placing names the key its page holds the bytes under as `key`" }
+  }
+  const ending = held.ending
+  if (typeof ending !== "string" || ending === "") {
+    return { refused: "a placing names the ending the bytes are held under as `ending`" }
+  }
+  if (typeof held.bytes !== "string") {
+    return { refused: "a placing hands over its `bytes` as base64 text" }
+  }
+  const bytes = new Uint8Array(Buffer.from(held.bytes, "base64"))
+  if (bytes.length === 0) return { refused: "a placing carries at least one byte" }
+  return { placing: { pageTypeSlug, slug, key, ending, bytes } }
 }
 
 export type Taking = { readonly appending: Appending } | { readonly refused: string }

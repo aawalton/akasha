@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts"}
+{"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.test-fixtures.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-entries.module.test-fixtures.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}

@@ -129,5 +129,13 @@ export const pageCalling = {
       decisionKind: "decision-kind/departure",
       statement: "The waiting on an append outlasts the turn the service waits for.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Bytes placed beside a page are sent through this module as base64 text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A placing answering no path is refused rather than read as landed.",
+    },
   ],
 } as const satisfies Module

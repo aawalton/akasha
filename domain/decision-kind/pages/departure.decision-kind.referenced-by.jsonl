@@ -3083,6 +3083,7 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/page-calling/page-calling.module.ts","id":"01a05e09-12dc-7b16-9bed-9d7b314f2d15"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-listening/page-listening.module.ts","id":"01a05a43-5af9-7b66-ac4c-33e3f06d1c87"}
+{"propertySlug":"decision-kind","path":"page/service/modules/page-placing/page-placing.module.ts","id":"01a0c60d-0443-74a8-99db-bdbc64cbee8e"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-reading/page-reading.module.ts","id":"01a05b1e-1347-77b8-9b46-d0b4f449e698"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-writing/page-writing.module.ts","id":"01a05abd-fe05-794d-8493-811846971bf6"}
