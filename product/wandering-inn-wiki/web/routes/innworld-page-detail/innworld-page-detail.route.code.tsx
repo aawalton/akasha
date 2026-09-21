@@ -14,6 +14,10 @@ export async function loader({
   return shown
 }
 
+export function meta({ data }: { data: Shown | undefined }) {
+  return [{ title: data === undefined ? "Innworld" : `${data.title} — Innworld` }]
+}
+
 export default function PageDetailRoute({ loaderData }: { loaderData: Shown }) {
   const { pageTypeSlug, title, fields } = loaderData
   return (

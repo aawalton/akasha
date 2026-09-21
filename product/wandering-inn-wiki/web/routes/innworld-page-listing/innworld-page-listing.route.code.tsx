@@ -21,6 +21,10 @@ export async function loader({
   return listing
 }
 
+export function meta({ data }: { data: Listing | undefined }) {
+  return [{ title: data === undefined ? "Innworld" : `${data.pageTypeSlug} — Innworld` }]
+}
+
 export default function PagesListingRoute({ loaderData }: { loaderData: Listing }) {
   const { pageTypeSlug, rows, from, atOnce, more } = loaderData
   return (
