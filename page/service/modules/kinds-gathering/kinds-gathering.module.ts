@@ -101,8 +101,25 @@ export const kindsGathering = {
       statement: "Nothing here reads a question or refuses a question.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A test the caller hands over narrows the rows before a page's files beside open.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page whose own body fails such a test is left out of the rows gathered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A test on a key held beside a page or worked out by a calculation is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test on a key no page type here declares is run against a page's own body.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here orders or narrows or cuts the rows this module gathers.",
+      statement: "Nothing here orders or cuts the rows this module gathers.",
     },
     {
       decisionKind: "decision-kind/absence",

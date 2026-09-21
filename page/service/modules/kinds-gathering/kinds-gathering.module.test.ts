@@ -3,6 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { weight } from "akasha/alan/value/health/fitness/strength/log/properties/weight.number-property.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   pageFiled,
   relationFiled,
@@ -14,10 +15,12 @@ import {
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { numberProperty } from "akasha/page/number-property/number-property.page-type.ts"
 import {
+  type Counting,
   carriedFor,
   computedInto,
   gatheredFor,
   kindsFor,
+  type Testing,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import { shapedIn } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
@@ -110,6 +113,52 @@ function worlded(root: string): undefined {
     ["nearer"],
     [{ pagePropertySlug: "computed-property/thrice", required: false }]
   )
+}
+
+const SESSIONS = "sessions"
+
+const SESSION_ROWS = ['{"stretch":"morning"}']
+
+function stretched(root: string): undefined {
+  worlded(root)
+  propertied(root, "page-property-entry", SESSIONS, {})
+  typed(
+    root,
+    "stretched",
+    ["held"],
+    [{ pagePropertySlug: `page-property-entry/${SESSIONS}`, required: false }]
+  )
+}
+
+function sessioned(
+  root: string,
+  slug: string,
+  count: number,
+  rows: readonly string[] | null
+): undefined {
+  const at = filed(root, "stretched", slug, { count, [SESSIONS]: "jsonl" })
+  if (rows === null) return
+  const beside = join(root, at.replace(/\.ts$/, `.${SESSIONS}.jsonl`))
+  mkdirSync(dirname(beside), { recursive: true })
+  writeFileSync(beside, `${rows.join("\n")}\n`)
+}
+
+function narrowing(key: string, held: unknown): ReadonlyMap<string, Testing> {
+  return new Map<string, Testing>([[key, (value) => value[key] === held]])
+}
+
+function gathered(root: string, tests: ReadonlyMap<string, Testing> | null): readonly Counting[] {
+  return gatheredFor(root, "held", carriedFor(root, "held"), [], readingIn(root), null, tests)
+}
+
+function opened(counting: readonly Counting[]): number {
+  let found = 0
+  for (const one of counting) if (Array.isArray(one.row.value[SESSIONS])) found += 1
+  return found
+}
+
+function slugsIn(counting: readonly Counting[]): readonly unknown[] {
+  return counting.map((one) => one.row.value["slug"])
 }
 
 function rowsOf(root: string, pageTypeSlug: string): readonly Record<string, unknown>[] {
@@ -258,6 +307,54 @@ test("a calculation sums over every page naming the page being worked out", () =
   relationFiled(root, "id-whole-top", "under-slug", "id-part-two", [{ path: "held/two.part.ts" }])
   const said = new Map(rowsOf(root, "held").map((one) => [one["slug"], one]))
   expect(said.get("top")?.["summed"]).toBe(7)
+})
+
+test("a test on a key a page's own body carries opens the files beside that page alone", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  stretched(root)
+  sessioned(root, "one", 1, SESSION_ROWS)
+  sessioned(root, "two", 2, SESSION_ROWS)
+  sessioned(root, "three", 3, SESSION_ROWS)
+  expect(opened(gathered(root, null))).toBe(3)
+  const held = gathered(root, narrowing("count", 1))
+  expect(opened(held)).toBe(1)
+  expect(slugsIn(held)).toEqual(["one"])
+  expect(held[0]?.row.value[SESSIONS]).toEqual([{ stretch: "morning" }])
+})
+
+test("a page a test leaves out has the file beside that page left unopened", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  stretched(root)
+  sessioned(root, "one", 1, SESSION_ROWS)
+  sessioned(root, "two", 2, null)
+  expect(() => gathered(root, null)).toThrow("no file is there")
+  expect(slugsIn(gathered(root, narrowing("count", 1)))).toEqual(["one"])
+})
+
+test("a test on a key held beside a page is passed over rather than run before the read", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  stretched(root)
+  sessioned(root, "one", 1, SESSION_ROWS)
+  sessioned(root, "two", 2, SESSION_ROWS)
+  expect(slugsIn(gathered(root, narrowing(SESSIONS, "no stretch is this")))).toEqual(["one", "two"])
+})
+
+test("a test on a key a calculation works out is passed over rather than run before the read", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  stretched(root)
+  filed(root, "nearer", "two", { count: 2 })
+  filed(root, "further", "three", { count: 3 })
+  const held = gathered(root, narrowing("twice", "no calculation answers this"))
+  expect([...slugsIn(held)].sort()).toEqual(["three", "two"])
+})
+
+test("a test a page has no value for is run as the caller wrote that test", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  stretched(root)
+  sessioned(root, "one", 1, SESSION_ROWS)
+  filed(root, "held", "two", {})
+  const bare = new Map<string, Testing>([["count", (value) => value["count"] === undefined]])
+  expect(slugsIn(gathered(root, bare))).toEqual(["two"])
 })
 
 test("a page no page names sums to nothing rather than refusing", () => {

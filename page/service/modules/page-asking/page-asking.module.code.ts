@@ -26,8 +26,10 @@ import {
   gatheredFor,
   type Named,
   pagesOfType,
+  type Testing,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import {
+  meets,
   narrows,
   type Test,
   unrun,
@@ -277,6 +279,16 @@ function entriesWanted(query: Query, worked: ReadonlySet<string>): ReadonlySet<s
   return wanted
 }
 
+function testsFor(query: Query): ReadonlyMap<string, Testing> | null {
+  const where = query.where
+  if (where === undefined) return null
+  const made = new Map<string, Testing>()
+  for (const [key, test] of Object.entries(where)) {
+    if (key !== TYPE) made.set(key, (value) => meets(value, key, test))
+  }
+  return made.size === 0 ? null : made
+}
+
 function orderedIn(query: Query, held: readonly Valued[]): readonly Valued[] {
   const sortBy = query.sortBy
   const sorted = [...held].sort(byPath)
@@ -372,7 +384,8 @@ export function asking(root: string, query: Query): Asked {
       carried,
       query.files ?? [],
       reading,
-      entriesWanted(query, worked)
+      entriesWanted(query, worked),
+      testsFor(query)
     ).map((one) => {
       const row = sluggedIn(one.row)
       return row === one.row ? one : { ...one, row }

@@ -191,7 +191,21 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A question's tests are handed to the gather, which narrows before reading beside.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The test on a row's page type is held back, because that key is spelled again here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A file beside a page that will not read refuses the question.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page the tests left out refuses nothing for a file beside that page.",
     },
     {
       decisionKind: "decision-kind/departure",

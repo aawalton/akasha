@@ -1,6 +1,10 @@
 import { readFileSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import {
+  ENTRY_PROPERTY,
+  FILE_PROPERTY,
+} from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import {
   listedAt,
   listedById,
   readingIn,
@@ -49,6 +53,10 @@ export const COMPUTED = "computed-property"
 const CODE = ".code.ts"
 
 const SLASH = "/"
+
+const BESIDE_THE_PAGE: ReadonlySet<string> = new Set([COMPUTED, ENTRY_PROPERTY, FILE_PROPERTY])
+
+export type Testing = (value: Value) => boolean
 
 export type Named = Map<string, ReadonlyMap<string, Value>>
 
@@ -261,19 +269,35 @@ export function computedInto(root: string, counting: readonly Counting[]): Count
   )
 }
 
+function bodyTests(
+  tests: ReadonlyMap<string, Testing> | null,
+  carried: readonly Carried[]
+): readonly Testing[] {
+  if (tests === null) return []
+  const beside = new Set<string>()
+  for (const one of carried) if (BESIDE_THE_PAGE.has(one.pageTypeSlug)) beside.add(one.key)
+  const found: Testing[] = []
+  for (const [key, test] of tests) if (!beside.has(key)) found.push(test)
+  return found
+}
+
 function valuedFor(
   root: string,
   read: readonly Valued[],
   carried: readonly Carried[],
   files: readonly string[],
-  entries: ReadonlySet<string> | null
+  entries: ReadonlySet<string> | null,
+  testing: readonly Testing[]
 ): readonly Valued[] {
-  return read.map((one) => {
+  const found: Valued[] = []
+  for (const one of read) {
     const beside = wholeValue(root, one.path, one.value)
+    if (!testing.every((test) => test(beside))) continue
     const entried = entriedValue(root, one.path, beside, carried, entries)
     const whole = filedValue(root, one.path, entried, carried, files)
-    return whole === one.value ? one : { path: one.path, value: whole }
-  })
+    found.push(whole === one.value ? one : { path: one.path, value: whole })
+  }
+  return found
 }
 
 export function gatheredFor(
@@ -282,7 +306,8 @@ export function gatheredFor(
   carried: readonly Carried[],
   files: readonly string[] = [],
   reading: Reading = readingIn(root),
-  entries: ReadonlySet<string> | null = null
+  entries: ReadonlySet<string> | null = null,
+  tests: ReadonlyMap<string, Testing> | null = null
 ): readonly Counting[] {
   const counting: Counting[] = []
   for (const kind of kindsFor(reading, pageTypeSlug)) {
@@ -290,7 +315,10 @@ export function gatheredFor(
     if (read.length === 0) continue
     const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind)
     const computed = computedFor(root, own)
-    for (const row of valuedFor(root, read, own, files, entries)) counting.push({ row, computed })
+    const testing = bodyTests(tests, own)
+    for (const row of valuedFor(root, read, own, files, entries, testing)) {
+      counting.push({ row, computed })
+    }
   }
   return counting
 }

@@ -10,7 +10,9 @@ import {
 import {
   climbedInRepo,
   climbedInTypes,
+  kinds,
   levels,
+  modelTests,
   over,
   persona,
   root,
@@ -79,6 +81,25 @@ test("the values a page keeps beside it are answered in place of the extension",
   expect(Array.isArray(cases)).toBe(true)
   expect(Array.isArray(cases) && cases.length > 0).toBe(true)
   expect(Array.isArray(cases) && typeof cases[0]?.page).toBe("string")
+})
+
+test("a where on a key held beside the page narrows on the values read there", () => {
+  const every = modelTests({ keys: ["slug", "cases"] })
+  const held = every.filter((one) => Array.isArray(one.cases) && one.cases.length > 0)
+  expect(held.length).toBeGreaterThan(0)
+  expect(modelTests({ where: { cases: { empty: false } }, keys: ["slug"] })).toEqual(
+    held.map((one) => ({ slug: one.slug }))
+  )
+})
+
+test("a where on a row's page type narrows on the slug rather than the address", () => {
+  expect(kinds({ type: { is: "decision-kind" } })).toEqual(kinds())
+})
+
+test("a key no page carries is tested as a page carrying nothing there", () => {
+  expect(kinds().length).toBe(6)
+  expect(kinds({ cover: { empty: true } })).toEqual(kinds())
+  expect(kinds({ cover: { "not-in": ["nothing at all"] } })).toEqual(kinds())
 })
 
 test("a page type nothing extends and no page is filed under is answered empty", () => {

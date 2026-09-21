@@ -89,3 +89,11 @@ export function persona(query: Omit<Query, "pageTypeSlug">): Asked {
 export function levels(where: Query["where"]): readonly unknown[] {
   return slugsOf(persona({ where, keys: ["slug"] }))
 }
+
+export function kinds(where?: Query["where"]): readonly unknown[] {
+  return slugsOf(asking(root, { pageTypeSlug: "decision-kind", where, keys: ["slug"] }))
+}
+
+export function modelTests(query: Omit<Query, "pageTypeSlug">): readonly Record<string, unknown>[] {
+  return rowsOf(asking(root, { pageTypeSlug: "model-test", ...query }))
+}
