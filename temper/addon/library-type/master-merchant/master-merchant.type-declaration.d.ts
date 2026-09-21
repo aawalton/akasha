@@ -20,3 +20,7 @@ interface MasterMerchantApi {
 }
 
 declare const MasterMerchant: MasterMerchantApi | undefined
+
+interface MasterMerchantApi {
+  addStatsAndGraph: (tooltip: TooltipControl, itemLink: string, extend: boolean) => undefined
+}

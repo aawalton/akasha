@@ -26,3 +26,8 @@ interface LibMainMenu2 {
 }
 
 declare const LibMainMenu2: LibMainMenu2 | undefined
+
+interface LibMainMenu2 {
+  Init: (this: LibMainMenu2) => undefined
+  AddMenuItem: (this: LibMainMenu2, descriptor: string, data: LibMainMenu2MenuItemData) => undefined
+}

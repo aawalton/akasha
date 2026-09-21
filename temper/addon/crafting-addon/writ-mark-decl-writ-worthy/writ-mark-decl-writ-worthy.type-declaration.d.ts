@@ -7,22 +7,6 @@ interface MailInbox {
   isMailFromGuild?: boolean
 }
 
-interface PlayerInventoryDefinition {
-  sortFn?: (this: void, a: InventorySortEntry, b: InventorySortEntry) => boolean
-  currentSortKey?: string
-  currentSortOrder?: boolean
-  temperReplacedSort?: boolean
-}
-
-interface PlayerInventoryManager {
-  GetTabFilterInfo: (
-    this: void,
-    self: PlayerInventoryManager,
-    inventoryType: number,
-    tabControl?: unknown
-  ) => LuaMultiReturn<unknown[]>
-}
-
 interface TemperWritInventoryData {
   ui_is_completed?: boolean
 }

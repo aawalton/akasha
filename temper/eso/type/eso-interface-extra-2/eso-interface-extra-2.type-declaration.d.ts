@@ -73,11 +73,6 @@ interface PromotionalEventRadioButtonGroup {
   onSelectionChangedCallback: (this: void, ...args: unknown[]) => undefined
 }
 
-interface PromotionalEventsKeyboard {
-  trackedActivityRadioButtonGroup: PromotionalEventRadioButtonGroup
-  OnDeferredInitialize: (this: void, ...args: unknown[]) => undefined
-}
-
 declare const STATS_SCENE: Scene
 
 declare const ZO_CharacterWindowStatsScrollScrollChildZO_MundusStonesStatsEntry: Control
@@ -230,11 +225,6 @@ declare const LOOT_WINDOW: {
   }
 }
 
-interface WindowManager {
-  SetMouseFocusByName: (this: unknown, name: string) => undefined
-  IsSecureRenderModeEnabled: (this: unknown) => boolean
-}
-
 declare const ZO_SceneManager_ToggleGameMenuBinding: (this: void) => undefined
 
 interface BankMenuBar extends Control {
@@ -287,4 +277,14 @@ interface CenterScreenAnnounceMessageParams {
   SetSound: (sound: string | undefined) => undefined
   MarkSuppressIconFrame: () => undefined
   MarkShowImmediately: () => undefined
+}
+
+interface LamEditboxControl {
+  type: "editbox"
+  name: string
+  tooltip?: string
+  isMultiline?: boolean
+  getFunc: (this: void) => string | number
+  setFunc: (this: void, value: string) => undefined
+  default?: string | number
 }

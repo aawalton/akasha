@@ -61,21 +61,6 @@ declare const ZO_ReanchorControlForLeftSidePanel: (this: void, control: Control)
 
 declare const ZO_Ingame_SavedVariables: Record<string, unknown>
 
-interface SceneManager {
-  CallWhen: (
-    this: SceneManager,
-    sceneName: string,
-    state: number,
-    callback: (this: void) => void
-  ) => void
-  AddFragment: (this: SceneManager, fragment: ZoFadeSceneFragment) => void
-  RemoveFragment: (this: SceneManager, fragment: ZoFadeSceneFragment) => void
-}
-
-interface Scene {
-  GetState: (this: Scene) => number
-}
-
 declare const LAMAddonSettingsWindow: Control
 
 declare let LAMAddonSettingsFragment: ZoFadeSceneFragment | undefined

@@ -16,11 +16,6 @@ interface LamOrderListBoxUtil {
   CreateFAQTexture: (this: void, control: LamControl) => Control | undefined
 }
 
-interface LibAddonMenu2 {
-  util: LamOrderListBoxUtil
-  RegisterWidget: (this: LibAddonMenu2, widgetType: string, widgetVersion: number) => boolean
-}
-
 interface LamCreateControlRegistry {
   orderlistbox?: (
     this: void,

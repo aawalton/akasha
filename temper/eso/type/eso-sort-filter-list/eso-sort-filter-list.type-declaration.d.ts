@@ -52,14 +52,6 @@ interface ZoSortFilterList {
 interface ZoSortFilterListSubclass {
   [key: string]: unknown
 }
-
-interface ZoSortFilterListClass {
-  Subclass: <T extends ZoSortFilterListSubclass = ZoSortFilterListSubclass>() => T
-  New: <T = ZoSortFilterList>(this: void, self: object, control: Control, ...args: unknown[]) => T
-  Initialize: (this: void, self: object, control: Control) => void
-  InitializeSortFilterList: (this: void, self: object, control: Control) => void
-  SetupRow: (this: void, self: object, rowControl: Control, data: unknown) => void
-}
 declare const ZO_SortFilterList: ZoSortFilterListClass
 
 declare const ZO_ScrollList_AddDataType: <T, C extends Control = Control>(

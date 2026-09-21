@@ -1,14 +1,5 @@
 declare const SI_WORLD_MAP_LOCATION_NAME: number
 declare const SI_ITEM_FORMAT_STR_SET_NAME: number
-
-interface ZoColorDef {
-  ToHex: () => string
-  Colorize: (text: string) => string
-  SetRGB: (r: number, g: number, b: number) => void
-  SetRGBA: (r: number, g: number, b: number, a?: number) => void
-  UnpackRGB: () => LuaMultiReturn<[red: number, green: number, blue: number]>
-  UnpackRGBA: () => LuaMultiReturn<[red: number, green: number, blue: number, alpha: number]>
-}
 interface ZoColorDefClass {
   New: ((this: ZoColorDefClass, r: number, g: number, b: number, a?: number) => ZoColorDef) &
     ((this: ZoColorDefClass, hex: string) => ZoColorDef) &
@@ -72,4 +63,8 @@ interface GamepadMapLocationTooltip {
     section: GamepadTooltipSection,
     text: string
   ) => void
+}
+
+interface ZoMapPinClass {
+  PIN_DATA: Record<number, { size: number } | undefined>
 }

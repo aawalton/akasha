@@ -26,16 +26,6 @@ interface ComboBoxBaseClass {
   Subclass: (this: ComboBoxBaseClass) => ComboBoxBaseClass
 }
 
-interface ZoComboBoxInstance {
-  GetDropdownFont: (this: ZoComboBoxInstance) => string
-  GetItemNormalColor: (this: ZoComboBoxInstance, data: unknown) => ZoColorDef
-  IsDropdownVisible: (this: ZoComboBoxInstance) => boolean
-  IsEnabled: (this: ZoComboBoxInstance) => boolean
-  SetHeight: (this: ZoComboBoxInstance, height: number) => undefined
-  ShowDropdown: (this: ZoComboBoxInstance) => undefined
-  ShowDropdownOnMouseUp: (this: ZoComboBoxInstance) => undefined
-}
-
 interface LsmRowControl
   extends Omit<
     Control,

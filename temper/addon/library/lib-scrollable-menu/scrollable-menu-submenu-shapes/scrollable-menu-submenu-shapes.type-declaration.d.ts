@@ -33,21 +33,6 @@ interface SubmenuClass {
   ) => unknown
 }
 
-interface SubmenuObject {
-  isSubmenu?: unknown
-  m_parentMenu?: Control
-  breadcrumbName?: string
-  openingControl?: unknown
-  visibleRowsSubmenu?: number
-  onHideDropdownCallback?: unknown
-
-  GetMenuPrefix: (this: SubmenuObject) => string
-  ShowDropdownInternal: (this: SubmenuObject) => undefined
-  HideDropdownInternal: (this: SubmenuObject) => undefined
-  HideOnMouseExit: (this: SubmenuObject, mocCtrl?: LsmMocControl) => boolean | undefined
-  IsMouseOverOpeningControl: (this: SubmenuObject) => boolean
-}
-
 interface SubmenuProxyObject {
   m_comboBox?: ComboBoxObject
   __parentClasses?: unknown[]

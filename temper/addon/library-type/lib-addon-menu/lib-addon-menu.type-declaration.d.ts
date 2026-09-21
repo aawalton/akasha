@@ -177,3 +177,8 @@ interface LibAddonMenu2 {
 }
 
 declare const LibAddonMenu2: LibAddonMenu2
+
+interface LibAddonMenu2 {
+  util: LamOrderListBoxUtil
+  RegisterWidget: (this: LibAddonMenu2, widgetType: string, widgetVersion: number) => boolean
+}

@@ -70,17 +70,6 @@ declare const SI_GAMEPAD_MAIN_MENU_ENDEAVOR_SEAL_MARKET_ENTRY: number
 
 declare const LLC_FREE_STYLE_CHOICE: string
 
-interface SceneManager {
-  RegisterCallback: (
-    this: SceneManager,
-    event: string,
-    callback: (this: void, scene: Scene, newState: number) => void
-  ) => void
-}
-interface Scene {
-  GetName: (this: Scene) => string
-}
-
 declare var ZO_AlertNoSuppression: (
   this: void,
   category: number,
@@ -196,4 +185,53 @@ declare const ZO_InventorySlotActions: {
 declare const TRIBUTE: {
   gameFlowState: number
   [key: string]: unknown
+}
+
+interface LoreReader {
+  control: EsoEventControl
+  OpenSound: string
+}
+
+interface PlayerInventoryManager {
+  GetTabFilterInfo: (
+    this: void,
+    self: PlayerInventoryManager,
+    inventoryType: number,
+    tabControl?: unknown
+  ) => LuaMultiReturn<unknown[]>
+}
+
+interface PlayerInventoryManager {
+  suppressItemAlert?: boolean
+  suppressItemAddedAlert?: boolean
+  newItemList?: unknown[]
+  flashingSlots?: Record<string, unknown>
+  listeningControls?: Record<string, Control | undefined>
+}
+
+interface PlayerInventoryManager {
+  inventories: Record<number, PlayerInventoryDefinition | undefined>
+  UpdateList: (this: PlayerInventoryManager, inventoryType: number, ...args: unknown[]) => void
+  ApplyBackpackLayout: (this: PlayerInventoryManager, layoutData: unknown) => void
+  GetBackpackItem: (this: PlayerInventoryManager, slotIndex: number) => BackpackItemData | undefined
+}
+
+interface PlayerToPlayer {
+  control: EsoEventControl
+  incomingQueue: Array<{ incomingType: number }>
+  AddPromptToIncomingQueue: (
+    this: PlayerToPlayer,
+    incomingType: number,
+    uniqueIdentifier: unknown,
+    name: string,
+    message: string,
+    acceptCallback: (this: void) => undefined,
+    declineCallback: (this: void) => undefined,
+    deferDecisionCallback: (this: void) => undefined
+  ) => { guildId?: number }
+}
+
+interface PromotionalEventsKeyboard {
+  trackedActivityRadioButtonGroup: PromotionalEventRadioButtonGroup
+  OnDeferredInitialize: (this: void, ...args: unknown[]) => undefined
 }

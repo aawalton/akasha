@@ -14,8 +14,3 @@ declare const GAMEPAD_TOOLTIPS: WritGamepadTooltip
 declare const GAMEPAD_LEFT_TOOLTIP: number
 
 declare const ConfirmMasterWrit: object | undefined
-
-interface TooltipControl {
-  SetLootItem: (lootId: number, ...rest: unknown[]) => void
-  SetTradingHouseItem: (tradingHouseIndex: number, ...rest: unknown[]) => void
-}

@@ -205,3 +205,13 @@ declare const ZO_Dialogs_ShowPlatformDialog: (
 declare const NON_COMBAT_BONUS_HAGGLING: number
 
 declare const KEYBIND_STRIP_ALIGN_CENTER: number
+
+interface KeyboardSkillsWindow {
+  control: Control
+  skillLinesTree?: { rootNode?: { children?: FcocsSkillLinesTreeNode[] } }
+}
+
+interface ZO_DialogInfo {
+  editBox?: Record<string, unknown>
+  noChoiceCallback?: (this: void) => undefined
+}

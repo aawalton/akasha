@@ -153,7 +153,3 @@ declare function ZO_TriStateCheckButton_SetState(
   checkBox: Control,
   state: number
 ): undefined
-
-interface WindowManager {
-  GetFocusControl: () => Control | undefined
-}

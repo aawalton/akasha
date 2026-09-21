@@ -38,28 +38,6 @@ interface SceneCategoryFragment {
   GetControl: (this: SceneCategoryFragment) => Control
 }
 
-interface Scene {
-  AddFragmentGroup: (this: Scene, fragmentGroup: object) => void
-  GetFragmentWithCategory: (this: Scene, category: string) => SceneCategoryFragment
-}
-
-interface MainMenuKeyboard {
-  categoryBar: Control
-  categoryBarFragment?: SceneFragment
-  lastCategory: number
-}
-
-interface TooltipControl {
-  SetCollectible: (
-    this: TooltipControl,
-    collectibleId: number,
-    showVisualLayer: boolean,
-    showBlockReason: boolean
-  ) => void
-  SetAntiquitySetFragment: (this: TooltipControl, antiquityId: number) => void
-  AddControl: (this: TooltipControl, control: Control) => void
-}
-
 interface ZoSortFilterListClass {
   Row_OnMouseEnter: (this: void, self: object, control: Control) => void
   Row_OnMouseExit: (this: void, self: object, control: Control) => void
@@ -83,14 +61,6 @@ interface ZoComboBox {
   m_container?: Control
   m_containerWidth?: number
   [key: string]: unknown
-}
-
-interface ZoComboBoxClass {
-  CreateItemEntry: (
-    this: void,
-    label: string,
-    callback?: (this: void, ...args: unknown[]) => void
-  ) => object
 }
 
 declare const ZO_ComboBox: ZoComboBoxClass
@@ -127,3 +97,11 @@ interface ZoStringSearchClass {
 declare const ZO_StringSearch: ZoStringSearchClass
 
 declare const ZO_DISABLED_TEXT: ZoColorDef
+
+interface ZoSortFilterListClass {
+  Subclass: <T extends ZoSortFilterListSubclass = ZoSortFilterListSubclass>() => T
+  New: <T = ZoSortFilterList>(this: void, self: object, control: Control, ...args: unknown[]) => T
+  Initialize: (this: void, self: object, control: Control) => void
+  InitializeSortFilterList: (this: void, self: object, control: Control) => void
+  SetupRow: (this: void, self: object, rowControl: Control, data: unknown) => void
+}

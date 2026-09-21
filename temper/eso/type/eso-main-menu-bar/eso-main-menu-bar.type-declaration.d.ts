@@ -65,37 +65,9 @@ interface LmmSceneInfo {
   sceneGroupName?: string
 }
 
-interface MainMenuKeyboard {
-  RefreshCategoryIndicators: (this: unknown) => undefined
-  IsShowing: (this: unknown) => boolean
-  SetLastSceneName: (this: unknown, categoryInfo: LmmCategoryInfo, sceneName: string) => undefined
-  ignoreCallbacks: boolean
-  control: Control
-  categoryInfo: Record<number | string, LmmCategoryInfo>
-  sceneInfo: Record<string, LmmSceneInfo>
-  sceneGroupInfo: Record<string, LmmSceneGroupInfo>
-  categoryAreaFragments: SceneFragment[]
-}
-
-interface Scene {
-  UnregisterCallback: (
-    this: unknown,
-    event: string,
-    callback: (oldState: number, newState: number) => undefined
-  ) => undefined
-}
-
-interface SceneFragment {
-  IsShowing: (this: unknown) => boolean
-}
-
 interface SceneGroup {
   SetActiveScene: (this: unknown, sceneName: string) => undefined
   GetActiveScene: (this: unknown) => string
   GetNumScenes: (this: unknown) => number
   GetSceneName: (this: unknown, index: number) => string
-}
-
-interface SceneManager {
-  GetSceneGroup: (this: unknown, sceneGroupName: string) => SceneGroup
 }

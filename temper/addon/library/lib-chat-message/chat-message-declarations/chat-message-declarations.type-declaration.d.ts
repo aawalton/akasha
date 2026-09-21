@@ -33,8 +33,3 @@ declare const ZO_LinkHandler_CreateLinkWithoutBrackets: (
   linkType: string,
   ...data: unknown[]
 ) => string
-
-interface KeyboardChatSystem {
-  windowPool: ChatWindowPool
-  GetEditControl: () => ChatEditControl
-}

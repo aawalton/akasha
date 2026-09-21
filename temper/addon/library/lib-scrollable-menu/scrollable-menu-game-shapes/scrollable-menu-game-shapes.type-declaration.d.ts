@@ -28,9 +28,6 @@ interface ZoComboBoxInstance {
   OnClearItems: (this: ZoComboBoxInstance) => void
   [key: string]: unknown
 }
-interface ZoComboBoxClass {
-  Subclass: (this: ZoComboBoxClass) => ZoComboBoxClass
-}
 
 interface ZoRadioButtonGroupInstance {
   m_buttons: Record<string, unknown>
@@ -43,11 +40,6 @@ interface ZoRadioButtonGroupClass {
 }
 declare const ZO_RadioButtonGroup: ZoRadioButtonGroupClass
 
-interface ZoAnchor {
-  SetTarget: (this: ZoAnchor, target: Control) => void
-  AddToControl: (this: ZoAnchor, control: Control) => void
-}
-
 interface ZoEntryDataInstance {
   [key: string]: unknown
 }
@@ -56,3 +48,13 @@ interface ZoEntryDataClass {
   [key: string]: unknown
 }
 declare const ZO_EntryData: ZoEntryDataClass
+
+interface ZoComboBoxInstance {
+  GetDropdownFont: (this: ZoComboBoxInstance) => string
+  GetItemNormalColor: (this: ZoComboBoxInstance, data: unknown) => ZoColorDef
+  IsDropdownVisible: (this: ZoComboBoxInstance) => boolean
+  IsEnabled: (this: ZoComboBoxInstance) => boolean
+  SetHeight: (this: ZoComboBoxInstance, height: number) => undefined
+  ShowDropdown: (this: ZoComboBoxInstance) => undefined
+  ShowDropdownOnMouseUp: (this: ZoComboBoxInstance) => undefined
+}

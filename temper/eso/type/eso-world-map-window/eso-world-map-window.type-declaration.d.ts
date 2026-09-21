@@ -64,23 +64,10 @@ declare const ZO_FlagHelpers: {
   MaskHasFlag: (this: void, mask: number, flag: number) => boolean
 }
 
-interface TextureControl {
-  GetTextureFileDimensions: () => LuaMultiReturn<[pixelWidth: number, pixelHeight: number]>
-}
-
 interface WorldMapCustomPinData {
   compassPinTypeString?: string
   onToggleCallback?: (this: void, compassPinType: string, enabled: boolean) => void
   [key: string]: unknown
-}
-
-interface WorldMapPinManager {
-  AddCustomPin: (
-    this: WorldMapPinManager,
-    pinTypeString: string,
-    pinTypeAddCallback: (this: void) => void
-  ) => void
-  customPins: Record<number, WorldMapCustomPinData | undefined>
 }
 
 interface FadeSceneFragment extends SceneFragment {

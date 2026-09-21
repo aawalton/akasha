@@ -65,3 +65,15 @@ declare const ZO_WorldMap_MouseUp: (
   mouseButton: number,
   upInside: boolean
 ) => void
+
+interface ZoComboBoxClass {
+  Subclass: (this: ZoComboBoxClass) => ZoComboBoxClass
+}
+
+interface ZoComboBoxClass {
+  CreateItemEntry: (
+    this: void,
+    label: string,
+    callback?: (this: void, ...args: unknown[]) => void
+  ) => object
+}

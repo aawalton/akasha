@@ -203,14 +203,6 @@ declare const TemperCrafting_BlueprintHideKnownButton: TemperCraftingButton
 
 declare const TemperCrafting_BlueprintHideUnknownButton: TemperCraftingButton
 
-interface ObjectPool<T> {
-  ReleaseObject: (key: number) => undefined
-}
-
-interface SceneManager {
-  HideTopLevel: (topLevelWindow: Control) => undefined
-}
-
 interface TemperCraftingControl extends Control {
   data?: TemperCraftingControlData
   checkState?: number
@@ -225,33 +217,6 @@ interface TemperCraftingButton extends ButtonControl {
   data?: TemperCraftingControlData
   checkState?: number
   tristate?: boolean
-}
-
-interface TooltipControl {
-  SetWornItem: (slotIndex: number, ...rest: unknown[]) => undefined
-  SetAttachedMailItem: (mailId: Id64, attachmentIndex: number, ...rest: unknown[]) => undefined
-  SetBuybackItem: (entryIndex: number, ...rest: unknown[]) => undefined
-  SetTradingHouseListing: (tradingHouseListingIndex: number, ...rest: unknown[]) => undefined
-  SetTradeItem: (tradeWho: number, slotIndex: number, ...rest: unknown[]) => undefined
-  SetQuestReward: (rewardIndex: number, ...rest: unknown[]) => undefined
-}
-
-interface MasterMerchantApi {
-  addStatsAndGraph: (tooltip: TooltipControl, itemLink: string, extend: boolean) => undefined
-}
-
-interface TamrielTradeCentrePriceApi {
-  AppendPriceInfo: (tooltip: TooltipControl, itemInfo: unknown) => undefined
-}
-
-interface LamEditboxControl {
-  type: "editbox"
-  name: string
-  tooltip?: string
-  isMultiline?: boolean
-  getFunc: (this: void) => string | number
-  setFunc: (this: void, value: string) => undefined
-  default?: string | number
 }
 
 interface TemperCraftingControlData {

@@ -40,17 +40,4 @@ declare const GROUP_LIST: SocialListOwner
 
 declare const GUILD_ROSTER_KEYBOARD: SocialListOwner
 
-interface TooltipControl {
-  GetOwner: () => Control | undefined
-}
-
-interface SharedChatSystem {
-  ShowPlayerContextMenu: (
-    this: SharedChatSystem,
-    playerName: string,
-    rawName: string,
-    ...rest: unknown[]
-  ) => unknown
-}
-
 declare const SharedChatSystem: SharedChatSystem

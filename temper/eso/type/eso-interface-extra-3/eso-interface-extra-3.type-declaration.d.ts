@@ -36,11 +36,6 @@ interface LibMainMenu2MenuItemData {
   disabled?: string
 }
 
-interface LibMainMenu2 {
-  Init: (this: LibMainMenu2) => undefined
-  AddMenuItem: (this: LibMainMenu2, descriptor: string, data: LibMainMenu2MenuItemData) => undefined
-}
-
 interface MovableControl extends Control {
   SetMovable: (this: unknown, movable: boolean) => undefined
 }
@@ -168,20 +163,6 @@ declare const ZO_GROUP_ELECTION_DESCRIPTORS: {
 
 declare const COMPANION_EQUIPMENT_KEYBOARD: object
 
-interface PlayerInventoryManager {
-  suppressItemAlert?: boolean
-  suppressItemAddedAlert?: boolean
-  newItemList?: unknown[]
-  flashingSlots?: Record<string, unknown>
-  listeningControls?: Record<string, Control | undefined>
-}
-
-interface SceneFragment {
-  callbackRegistry?: {
-    StateChange?: Array<Array<((oldState: number, newState: number) => undefined) | undefined>>
-  }
-}
-
 interface TradingHouseDataType {
   setupCallback?: (this: void, ...args: never[]) => undefined
 }
@@ -252,16 +233,6 @@ declare const ZO_Dialogs_IsDialogRegistered: (this: void, name: string) => boole
 declare const ZO_Dialogs_IsShowingDialog: (this: void) => boolean
 
 declare const ZO_Dialogs_GetEditBoxText: (this: void, dialog: unknown) => string | undefined
-
-interface ZO_DialogInfo {
-  editBox?: Record<string, unknown>
-  noChoiceCallback?: (this: void) => undefined
-}
-
-interface KeyboardSkillsWindow {
-  control: Control
-  skillLinesTree?: { rootNode?: { children?: FcocsSkillLinesTreeNode[] } }
-}
 
 declare const ZO_ActionBarTimer: {
   ApplyAnchor: (

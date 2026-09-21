@@ -23,3 +23,7 @@ interface TamrielTradeCentrePriceApi {
 declare const TamrielTradeCentrePrice: TamrielTradeCentrePriceApi | undefined
 
 declare const TamrielTradeCentre: object | undefined
+
+interface TamrielTradeCentrePriceApi {
+  AppendPriceInfo: (tooltip: TooltipControl, itemInfo: unknown) => undefined
+}

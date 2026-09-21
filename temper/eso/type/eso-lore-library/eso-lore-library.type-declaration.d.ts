@@ -167,13 +167,6 @@ declare function zo_iconTextFormat(
   inheritColor?: boolean
 ): string
 
-interface SceneManager {
-  Push: (this: SceneManager, sceneName: string) => void
-}
-interface MainMenuKeyboard {
-  ShowCategory: (this: MainMenuKeyboard, categoryConst: number) => void
-}
-
 declare const ZO_LoreLibrary: Control
 
 interface KeybindStripObject {

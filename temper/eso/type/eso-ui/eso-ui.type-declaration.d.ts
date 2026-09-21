@@ -380,3 +380,142 @@ interface Control {
 interface Control {
   SetClampedToScreenInsets: (left: number, top: number, right: number, bottom: number) => void
 }
+
+interface LabelControl {
+  GetDesiredWidth: () => number
+  WasTruncated: () => boolean
+}
+
+interface LabelControl {
+  GetTextDimensions: () => LuaMultiReturn<[number, number]>
+  SetDesaturation: (desaturation: number) => void
+  SetModifyTextType: (modifyTextType: ModifyTextType) => void
+  SetMaxLineCount: (count: number) => void
+}
+
+interface Scene {
+  GetState: (this: Scene) => number
+}
+
+interface Scene {
+  GetName: (this: Scene) => string
+}
+
+interface Scene {
+  toRestore?: SceneFragment[] | boolean
+}
+
+interface Scene {
+  AddFragmentGroup: (this: Scene, fragmentGroup: object) => void
+  GetFragmentWithCategory: (this: Scene, category: string) => SceneCategoryFragment
+}
+
+interface Scene {
+  UnregisterCallback: (
+    this: unknown,
+    event: string,
+    callback: (oldState: number, newState: number) => undefined
+  ) => undefined
+}
+
+interface SceneFragment {
+  callbackRegistry?: {
+    StateChange?: Array<Array<((oldState: number, newState: number) => undefined) | undefined>>
+  }
+}
+
+interface SceneFragment {
+  IsShowing: (this: unknown) => boolean
+}
+
+interface SceneManager {
+  HideTopLevel: (topLevelWindow: Control) => undefined
+}
+
+interface SceneManager {
+  CallWhen: (
+    this: SceneManager,
+    sceneName: string,
+    state: number,
+    callback: (this: void) => void
+  ) => void
+  AddFragment: (this: SceneManager, fragment: ZoFadeSceneFragment) => void
+  RemoveFragment: (this: SceneManager, fragment: ZoFadeSceneFragment) => void
+}
+
+interface SceneManager {
+  RegisterCallback: (
+    this: SceneManager,
+    event: string,
+    callback: (this: void, scene: Scene, newState: number) => void
+  ) => void
+}
+
+interface SceneManager {
+  GetCurrentSceneName: (this: SceneManager) => string
+}
+
+interface SceneManager {
+  Push: (this: SceneManager, sceneName: string) => void
+}
+
+interface SceneManager {
+  GetSceneGroup: (this: unknown, sceneGroupName: string) => SceneGroup
+}
+
+interface SceneManager {
+  IsShowing: (sceneName: string | Scene) => boolean
+  Toggle: (sceneName: string) => void
+  Hide: (sceneName: string) => void
+}
+
+interface SharedChatSystem {
+  ShowPlayerContextMenu: (
+    this: SharedChatSystem,
+    playerName: string,
+    rawName: string,
+    ...rest: unknown[]
+  ) => unknown
+}
+
+interface SharedChatSystem {
+  textEntry: ChatTextEntry
+  AddMessage: (message: string) => void
+  currentChannel?: number
+  currentNumNotifications?: number
+  notificationPulseTimeline: ChatNotificationTimeline
+}
+
+interface SharedChatSystem {
+  Maximize: () => void
+}
+
+interface TextureControl {
+  GetColor: () => LuaMultiReturn<[r: number, g: number, b: number, a: number]>
+}
+
+interface TextureControl {
+  SetDesaturation: (desaturation: number) => void
+  SetAddressMode: (mode: TextureAddressMode) => void
+}
+
+interface TextureControl {
+  GetTextureFileDimensions: () => LuaMultiReturn<[pixelWidth: number, pixelHeight: number]>
+}
+
+interface TopLevelWindow extends Control {
+  AllowBringToTop: () => boolean
+  BringWindowToTop: () => void
+  SetAllowBringToTop: (allow?: boolean) => void
+  SetDrawWhenGuiHidden: (drawWhenHidden?: boolean) => void
+  SetTopmost: (isTopmost?: boolean) => void
+}
+
+interface WindowManager {
+  SetMouseFocusByName: (this: unknown, name: string) => undefined
+  IsSecureRenderModeEnabled: (this: unknown) => boolean
+}
+
+interface WindowManager {
+  GetFocusControl: () => Control | undefined
+}

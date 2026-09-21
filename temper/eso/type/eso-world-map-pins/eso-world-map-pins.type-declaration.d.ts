@@ -45,10 +45,6 @@ declare const ZO_WorldMap_SetCustomPinEnabled: (
   enabled: boolean
 ) => void
 
-interface ZoMapPinClass {
-  PIN_DATA: Record<number, { size: number } | undefined>
-}
-
 interface InventorySlotData {
   itemType: number
   slotIndex: number
@@ -89,4 +85,13 @@ interface InventorySlotData {
   quality: number
   lnk?: string
   lootId?: number
+}
+
+interface WorldMapPinManager {
+  AddCustomPin: (
+    this: WorldMapPinManager,
+    pinTypeString: string,
+    pinTypeAddCallback: (this: void) => void
+  ) => void
+  customPins: Record<number, WorldMapCustomPinData | undefined>
 }

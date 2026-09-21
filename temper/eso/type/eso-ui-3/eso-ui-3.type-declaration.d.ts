@@ -12,9 +12,6 @@ interface ColorPicker {
   ) => void
 }
 declare const COLOR_PICKER: ColorPicker
-interface SharedChatSystem {
-  Maximize: () => void
-}
 
 declare function zo_strlower(s: string): string
 
@@ -198,4 +195,41 @@ declare const ZO_GamepadEntryData: ZoGamepadEntryDataClass
 interface ComboBoxItem {
   id?: number
   data?: unknown
+}
+
+interface ObjectPool<T> {
+  ReleaseObject: (key: number) => undefined
+}
+
+interface TooltipControl {
+  SetWornItem: (slotIndex: number, ...rest: unknown[]) => undefined
+  SetAttachedMailItem: (mailId: Id64, attachmentIndex: number, ...rest: unknown[]) => undefined
+  SetBuybackItem: (entryIndex: number, ...rest: unknown[]) => undefined
+  SetTradingHouseListing: (tradingHouseListingIndex: number, ...rest: unknown[]) => undefined
+  SetTradeItem: (tradeWho: number, slotIndex: number, ...rest: unknown[]) => undefined
+  SetQuestReward: (rewardIndex: number, ...rest: unknown[]) => undefined
+}
+
+interface TooltipControl {
+  AddHeaderLine: (...args: unknown[]) => undefined
+}
+
+interface TooltipControl {
+  GetOwner: () => Control | undefined
+}
+
+interface TooltipControl {
+  SetCollectible: (
+    this: TooltipControl,
+    collectibleId: number,
+    showVisualLayer: boolean,
+    showBlockReason: boolean
+  ) => void
+  SetAntiquitySetFragment: (this: TooltipControl, antiquityId: number) => void
+  AddControl: (this: TooltipControl, control: Control) => void
+}
+
+interface TooltipControl {
+  SetLootItem: (lootId: number, ...rest: unknown[]) => void
+  SetTradingHouseItem: (tradingHouseIndex: number, ...rest: unknown[]) => void
 }

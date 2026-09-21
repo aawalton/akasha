@@ -24,13 +24,6 @@ interface ChatNotificationTimeline {
   Stop: () => void
   PlayFromStart: () => void
 }
-interface SharedChatSystem {
-  textEntry: ChatTextEntry
-  AddMessage: (message: string) => void
-  currentChannel?: number
-  currentNumNotifications?: number
-  notificationPulseTimeline: ChatNotificationTimeline
-}
 declare const CHAT_SYSTEM: SharedChatSystem
 
 interface ChatRouter {
@@ -51,4 +44,9 @@ interface ChatTextEntry {
   SetText: (text: string) => void
   Open: (text?: string) => void
   FadeIn: () => void
+}
+
+interface KeyboardChatSystem {
+  windowPool: ChatWindowPool
+  GetEditControl: () => ChatEditControl
 }

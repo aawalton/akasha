@@ -26,10 +26,3 @@ interface TextBufferControl extends Control {
   SetSplitLongMessages: (splitLongMessages?: boolean) => void
   ShowFadedLines: () => void
 }
-interface TopLevelWindow extends Control {
-  AllowBringToTop: () => boolean
-  BringWindowToTop: () => void
-  SetAllowBringToTop: (allow?: boolean) => void
-  SetDrawWhenGuiHidden: (drawWhenHidden?: boolean) => void
-  SetTopmost: (isTopmost?: boolean) => void
-}

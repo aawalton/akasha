@@ -67,7 +67,3 @@ declare const TemperPotionsTraitLabel2: LabelControl
 declare const TemperPotionsBagButtonTexture: TextureControl
 
 declare const TemperPotionsBankButtonTexture: TextureControl
-
-interface TooltipControl {
-  AddHeaderLine: (...args: unknown[]) => undefined
-}

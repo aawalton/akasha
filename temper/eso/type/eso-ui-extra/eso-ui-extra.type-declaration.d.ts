@@ -39,10 +39,6 @@ interface ErrorFrameSingleton {
   HideAllErrors: (this: ErrorFrameSingleton) => void
 }
 
-interface MainMenuKeyboard {
-  ShowScene: (this: MainMenuKeyboard, sceneName: string) => void
-}
-
 declare const ZO_Dialogs_ShowGamepadDialog: (this: void, name: string, data?: object) => void
 
 declare const ZO_Dialogs_ReleaseDialogOnButtonPress: (this: void, keybind: string) => void
@@ -54,18 +50,6 @@ declare const SI_SLASH_CAMP: number
 declare const SI_SLASH_QUIT: number
 declare const SI_LOG_OUT_GAME_CONFIRM_KEYBIND: number
 declare const SI_QUIT_GAME_CONFIRM_KEYBIND: number
-
-interface LabelControl {
-  GetTextDimensions: () => LuaMultiReturn<[number, number]>
-  SetDesaturation: (desaturation: number) => void
-  SetModifyTextType: (modifyTextType: ModifyTextType) => void
-  SetMaxLineCount: (count: number) => void
-}
-
-interface TextureControl {
-  SetDesaturation: (desaturation: number) => void
-  SetAddressMode: (mode: TextureAddressMode) => void
-}
 
 declare const ZO_WHITE: ZoColorDef
 
@@ -122,4 +106,52 @@ declare const ZO_ComboBoxDropdown_Keyboard: ZoComboBoxDropdownKeyboardClass
 
 interface ErrorFrameSingleton {
   OnUIError: (this: ErrorFrameSingleton, errString: string) => undefined
+}
+
+interface StatusBarControl extends Control {
+  CalculateSizeWithoutLeadingEdgeForValue: (value?: number) => number
+  ClearFadeOutLossAdjustedTopValue: () => void
+  EnableFadeOut: (enabled?: boolean) => void
+  EnableLeadingEdge: (enabled?: boolean) => void
+  EnableScrollingOverlay: (enabled?: boolean) => void
+  GetMinMax: () => LuaMultiReturn<[min: number, max: number]>
+  GetValue: () => number
+  IsPixelRoundingEnabled: () => boolean
+  SetBarAlignment: (barAlignment?: BarAlignment) => void
+  SetColor: (r?: number, g?: number, b?: number, a?: number) => void
+  SetFadeOutGainColor: (r?: number, g?: number, b?: number, a?: number) => void
+  SetFadeOutLossAdjustedTopValue: (topValue?: number) => void
+  SetFadeOutLossColor: (r?: number, g?: number, b?: number, a?: number) => void
+  SetFadeOutLossSetValueToAdjust: (adjustValue?: number) => void
+  SetFadeOutTexture: (filename?: string) => void
+  SetFadeOutTime: (fadeOutSeconds?: number, fadeOutDelaySeconds?: number) => void
+  SetGradientColors: (
+    startR?: number,
+    startG?: number,
+    startB?: number,
+    startA?: number,
+    endR?: number,
+    endG?: number,
+    endB?: number,
+    endA?: number
+  ) => void
+  SetLeadingEdge: (textureFile?: string, width?: number, height?: number) => void
+  SetLeadingEdgeTextureCoords: (
+    left?: number,
+    right?: number,
+    top?: number,
+    bottom?: number
+  ) => void
+  SetMinMax: (aMin?: number, aMax?: number) => void
+  SetOrientation: (orientation?: ControlOrientation) => void
+  SetPixelRoundingEnabled: (pixelRoundingEnabled?: boolean) => void
+  SetTexture: (filename?: string) => void
+  SetTextureCoords: (left?: number, right?: number, top?: number, bottom?: number) => void
+  SetValue: (aValue?: number) => void
+  SetupScrollingOverlay: (
+    textureFile?: string,
+    width?: number,
+    height?: number,
+    duration?: number
+  ) => void
 }

@@ -183,3 +183,29 @@ declare function ZO_IsElementInNumericallyIndexedTable(
   array: readonly unknown[],
   element: unknown
 ): boolean
+
+interface MainMenuKeyboard {
+  categoryBar: Control
+  categoryBarFragment?: SceneFragment
+  lastCategory: number
+}
+
+interface MainMenuKeyboard {
+  ShowCategory: (this: MainMenuKeyboard, categoryConst: number) => void
+}
+
+interface MainMenuKeyboard {
+  RefreshCategoryIndicators: (this: unknown) => undefined
+  IsShowing: (this: unknown) => boolean
+  SetLastSceneName: (this: unknown, categoryInfo: LmmCategoryInfo, sceneName: string) => undefined
+  ignoreCallbacks: boolean
+  control: Control
+  categoryInfo: Record<number | string, LmmCategoryInfo>
+  sceneInfo: Record<string, LmmSceneInfo>
+  sceneGroupInfo: Record<string, LmmSceneGroupInfo>
+  categoryAreaFragments: SceneFragment[]
+}
+
+interface MainMenuKeyboard {
+  ShowScene: (this: MainMenuKeyboard, sceneName: string) => void
+}

@@ -85,10 +85,6 @@ declare const ZO_WorldMapQuestsData_Singleton: WorldMapQuestsDataSingleton
 
 declare const GAMEPAD_TREASURE_MAP_INVENTORY_SCENE: Scene
 
-interface SceneManager {
-  GetCurrentSceneName: (this: SceneManager) => string
-}
-
 declare const GuiMouse: Control
 
 declare const ZO_SCROLL_BAR_WIDTH: number
@@ -102,7 +98,7 @@ declare const GetStringWidthScaledPixels: (
   fontScale: number
 ) => number
 
-interface LabelControl {
-  GetDesiredWidth: () => number
-  WasTruncated: () => boolean
+interface ZoAnchor {
+  SetTarget: (this: ZoAnchor, target: Control) => void
+  AddToControl: (this: ZoAnchor, control: Control) => void
 }

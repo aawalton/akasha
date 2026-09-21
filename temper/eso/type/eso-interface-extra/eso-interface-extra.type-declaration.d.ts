@@ -23,10 +23,6 @@ interface ZO_RecentMessagesStatic {
 
 declare const ZO_RecentMessages: ZO_RecentMessagesStatic
 
-interface Scene {
-  toRestore?: SceneFragment[] | boolean
-}
-
 declare const FRAME_PLAYER_FRAGMENT: SceneFragment
 declare const FRAME_EMOTE_FRAGMENT_INVENTORY: SceneFragment
 declare const FRAME_EMOTE_FRAGMENT_SKILLS: SceneFragment
@@ -98,26 +94,6 @@ declare const GUILD_HOME: {
   keybindStripDescriptor: Record<number, { visible: (this: void) => boolean } | undefined>
   guildId: number
   guildName: string
-}
-
-interface PlayerToPlayer {
-  control: EsoEventControl
-  incomingQueue: Array<{ incomingType: number }>
-  AddPromptToIncomingQueue: (
-    this: PlayerToPlayer,
-    incomingType: number,
-    uniqueIdentifier: unknown,
-    name: string,
-    message: string,
-    acceptCallback: (this: void) => undefined,
-    declineCallback: (this: void) => undefined,
-    deferDecisionCallback: (this: void) => undefined
-  ) => { guildId?: number }
-}
-
-interface LoreReader {
-  control: EsoEventControl
-  OpenSound: string
 }
 
 declare const INTERACTION: {

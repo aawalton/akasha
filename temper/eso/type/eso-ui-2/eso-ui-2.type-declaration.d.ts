@@ -26,17 +26,7 @@ interface ZoSceneStatic {
 
 declare const ZO_Scene: ZoSceneStatic
 
-interface SceneManager {
-  IsShowing: (sceneName: string | Scene) => boolean
-  Toggle: (sceneName: string) => void
-  Hide: (sceneName: string) => void
-}
-
 declare const ZO_Options_OnMouseExit: (control: Control) => void
-
-interface TextureControl {
-  GetColor: () => LuaMultiReturn<[r: number, g: number, b: number, a: number]>
-}
 
 declare function zo_min(...values: number[]): number
 declare function zo_max(...values: number[]): number
@@ -44,3 +34,12 @@ declare function zo_max(...values: number[]): number
 declare function zo_strgsub(s: string, pattern: string, replacement: string): string
 
 declare const df: (formatString: string, ...args: unknown[]) => void
+
+interface ZoColorDef {
+  ToHex: () => string
+  Colorize: (text: string) => string
+  SetRGB: (r: number, g: number, b: number) => void
+  SetRGBA: (r: number, g: number, b: number, a?: number) => void
+  UnpackRGB: () => LuaMultiReturn<[red: number, green: number, blue: number]>
+  UnpackRGBA: () => LuaMultiReturn<[red: number, green: number, blue: number, alpha: number]>
+}
