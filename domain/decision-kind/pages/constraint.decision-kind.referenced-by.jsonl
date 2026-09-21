@@ -1055,7 +1055,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-7/skyshards-part-7.module.ts","id":"01a061a8-9c69-75a2-b7b3-9f86f9d709aa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-8/skyshards-part-8.module.ts","id":"01a061a8-9c69-769d-b065-e5762fce5d41"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-part-9/skyshards-part-9.module.ts","id":"01a061a8-9c6a-7345-8144-0e0b6adb0bc0"}
-{"propertySlug":"decision-kind","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/account-wide/account-wide.module.ts","id":"01a06053-3636-700a-9f99-a7c1b8442ab7"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-array/lua-array.module.ts","id":"01a06053-3636-7157-ade2-a72c0d19b41c"}
@@ -1255,6 +1254,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/eso-date/eso-date.module.ts","id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/character-skill-template/character-skill-template.module.ts","id":"01a0617a-2c70-7581-9900-cbdb1ccbe478"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/character-skills-00/character-skills-00.module.ts","id":"01a06182-7818-7e29-abd6-c2963db70f64"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/character-skills-01/character-skills-01.module.ts","id":"01a06182-7819-71e6-858d-af00abb1471b"}

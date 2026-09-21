@@ -1,5 +1,4 @@
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SkillLineId } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import type {
   ArmorPieceScalingEffect,
   Effect,
@@ -12,6 +11,7 @@ import {
   isSlottedAbilityScalingEffect,
   isWeaponTypeConditionalEffect,
 } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import type { SkillLineId } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 
 function resolveEffects<E extends Effect>(
   effects: readonly Effect[],

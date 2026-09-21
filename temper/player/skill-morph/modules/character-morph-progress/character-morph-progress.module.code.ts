@@ -1,7 +1,7 @@
 import {
   type SkillLineId,
   skillLines,
-} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import {
   computeCharacterMorphProgressByEsoId,
   type ExpectedMorphableSkill,

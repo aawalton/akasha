@@ -1,9 +1,9 @@
-import { skillLineCategoriesSorted } from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
+import { skillLineCategoriesSorted } from "akasha/temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,
   type SkillLineId,
   skillLines,
-} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+} from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { getRacialSkillLineIdForRace } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import {
   EXCLUDED_CATEGORIES,

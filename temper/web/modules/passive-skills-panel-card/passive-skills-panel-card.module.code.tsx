@@ -7,15 +7,15 @@ import {
   CollapsibleTrigger,
 } from "akasha/design/interface/primitive/modules/collapsible/collapsible.module.code.tsx"
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
   type SkillLineCategoryId,
   skillLineCategoriesSorted,
-} from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
+} from "akasha/temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   type SkillLineId,
   skillLines,
-} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+} from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import {

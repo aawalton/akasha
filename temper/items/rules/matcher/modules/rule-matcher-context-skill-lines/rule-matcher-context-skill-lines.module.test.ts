@@ -1,9 +1,9 @@
 import { describe, expect, test } from "bun:test"
-import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import {
   buildGetCharacterSkillLineRanks,
   compileSkillLineCurrentRanks,
 } from "akasha/temper/items/rules/matcher/modules/rule-matcher-context-skill-lines/rule-matcher-context-skill-lines.module.code.ts"
+import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 
 const OPENED = "weapon-two-handed"
 

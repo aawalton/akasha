@@ -1,4 +1,4 @@
-import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { transformSkillMorphProgress } from "akasha/temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.code.ts"
 import { ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"

@@ -8,12 +8,12 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
   type SkillLineId,
   skillLines,
-} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
-import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
+} from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import {
   getAvailableSkillLinesGrouped,
   getClassForSkillLine,

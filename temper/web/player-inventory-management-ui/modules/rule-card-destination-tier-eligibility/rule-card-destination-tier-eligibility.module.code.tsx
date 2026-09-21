@@ -19,13 +19,13 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { Switch } from "akasha/design/interface/primitive/modules/switch-control/switch-control.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import type { CanLevelMorphsCondition } from "akasha/temper/items/rules/core/modules/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type { CharEligibility } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   RequiredSkillLinesCondition,
   RequiredSkillLinesMode,
 } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
+import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { ReactNode } from "react"
 
 const SKILL_LINE_OPTIONS: readonly BadgeToggleGroupItem[] = skillLines.list

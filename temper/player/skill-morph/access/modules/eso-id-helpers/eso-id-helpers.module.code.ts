@@ -2,14 +2,14 @@ import {
   type RaceId,
   races,
 } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
-import { skillLineCategoriesSorted } from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
+import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
+import { skillLineCategoriesSorted } from "akasha/temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,
   type SkillLineId,
   skillLines,
-} from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
-import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
+} from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { getRacialSkillLineIdForRace } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 
 export const ESO_CLASS_ID_TO_CLASS_ID = new Map<number, ClassId>(

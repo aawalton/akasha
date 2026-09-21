@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
+import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type {
   CharacterCompletion,
   SkillPointProgress,

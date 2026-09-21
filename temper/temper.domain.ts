@@ -7,7 +7,6 @@ export const temper = {
   definition: "a companion suite for The Elder Scrolls Online",
   parts: [
     "domain/temper-catalog",
-    "domain/temper-character-skill-line",
     "domain/temper-command",
     "domain/temper-player-completion",
     "domain/temper-player-completion-state",
