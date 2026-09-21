@@ -10,7 +10,7 @@ now-gapless voice-speaker playback path (#13324). This reproduces the protocol
 run once as a manual capture-eval pass — it does not redesign it.
 
 Anchor concept (do not re-derive — it is canon):
-[receiving-positive-signal.md → admitted vs. felt](../../notes/receiving-positive-signal.book-chapter.md#admitted-vs-felt--two-registers-and-what-opens-the-felt-one).
+[receiving-positive-signal.md → admitted vs. felt](book-section/all-about-alan/receiving-positive-signal#admitted-vs-felt--two-registers-and-what-opens-the-felt-one).
 
 - **admitted** — cleared the four-condition delivery gate; he can say exactly why
   it landed; tops out at *understood*.

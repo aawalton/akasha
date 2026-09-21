@@ -1,15 +1,15 @@
 
 # Time perception
 
-Alan's experience of time is qualitatively different from the typical ADHD "time blindness" framing. The mechanism root is the aphantasia interaction; the lived consequence is felt agelessness and comfort with very long horizons. This file holds the substance; [executive-function.md](executive-function.book-chapter.md) cross-references it under the Time management EF.
+Alan's experience of time is qualitatively different from the typical ADHD "time blindness" framing. The mechanism root is the aphantasia interaction; the lived consequence is felt agelessness and comfort with very long horizons. This file holds the substance; [executive-function.md](book-section/all-about-alan/executive-function) cross-references it under the Time management EF.
 
 ## Mechanism hypothesis 1 — sense of time is grounded in sensory memory
 
-Working hypothesis: in the typical case, the felt sense of elapsed time is primarily a recall of sensory memory traces strung along a timeline. With no sensory memory (full aphantasia, see [aphantasia-mechanism.md](aphantasia-mechanism.book-chapter.md)), there is no intrinsic time-sense. Time is available only through explicit conceptual notice — clocks, calendars, deliberate inference from external markers.
+Working hypothesis: in the typical case, the felt sense of elapsed time is primarily a recall of sensory memory traces strung along a timeline. With no sensory memory (full aphantasia, see [aphantasia-mechanism.md](book-section/all-about-alan/aphantasia-mechanism)), there is no intrinsic time-sense. Time is available only through explicit conceptual notice — clocks, calendars, deliberate inference from external markers.
 
 Concretely: Alan does not *feel* that an hour has passed. He knows because the clock has moved; he does not know because his nervous system has registered the duration.
 
-This composes with the conceptual-layer fact captured in [present-tense-model.md](present-tense-model.book-chapter.md): Alan keeps one model of the world that exists only in the present, with no offline store of past states and no copy to run forward. With nothing to replay backward or pre-play forward — sensory *or* conceptual — there is no series of states to lay along a timeline at all, which is why felt duration collapses to nothing rather than merely running slow.
+This composes with the conceptual-layer fact captured in [present-tense-model.md](book-section/all-about-alan/present-tense-model): Alan keeps one model of the world that exists only in the present, with no offline store of past states and no copy to run forward. With nothing to replay backward or pre-play forward — sensory *or* conceptual — there is no series of states to lay along a timeline at all, which is why felt duration collapses to nothing rather than merely running slow.
 
 ## Mechanism hypothesis 2 — felt time scales proportionally to age
 

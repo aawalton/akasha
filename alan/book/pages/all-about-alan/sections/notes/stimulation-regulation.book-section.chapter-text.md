@@ -9,7 +9,7 @@ This corrects an idling-aversion misread. The ESO-plus-music stack is not there 
 
 ## The system is a manual closed loop
 
-The regulation is a closed loop run by hand: a sensor reads the current state, and when the reading is out of band Alan turns a knob to bring it back. It stands in for the automatic arousal regulation most nervous systems supply on their own. A [non-habituating](non-habituation.book-chapter.md), [highly sensitive](nervous-system-sensitivity.book-chapter.md) nervous system doesn't auto-level its own arousal — input doesn't amortize, so the system doesn't settle into a comfortable middle by itself — so Alan runs the leveling manually instead.
+The regulation is a closed loop run by hand: a sensor reads the current state, and when the reading is out of band Alan turns a knob to bring it back. It stands in for the automatic arousal regulation most nervous systems supply on their own. A [non-habituating](book-section/all-about-alan/non-habituation), [highly sensitive](book-section/all-about-alan/nervous-system-sensitivity) nervous system doesn't auto-level its own arousal — input doesn't amortize, so the system doesn't settle into a comfortable middle by itself — so Alan runs the leveling manually instead.
 
 ## The knobs
 
@@ -17,7 +17,7 @@ Three adjustable inputs, used to add or shed stimulation:
 
 - **ESO** — an attention filler. Running the game stacks a stimulation stream onto whatever else is going; dropping it sheds one.
 - **Music** — a second stimulation stream, added or removed the same way.
-- **The room light** — turned on or off depending on whether he needs more or less stimulation at the moment. Light *up* adds arousal; light *down* sheds it. (This is the opposite use of light from the [visual-sensitivity bundle](visual-sensitivity-bundle.book-chapter.md), where lights-off cuts a Stress Capacity drain — here the same switch is an arousal knob, not a sensory-load knob.)
+- **The room light** — turned on or off depending on whether he needs more or less stimulation at the moment. Light *up* adds arousal; light *down* sheds it. (This is the opposite use of light from the [visual-sensitivity bundle](book-section/all-about-alan/visual-sensitivity-bundle), where lights-off cuts a Stress Capacity drain — here the same switch is an arousal knob, not a sensory-load knob.)
 
 ## The sensor — focus quality, and the direction disambiguation
 
@@ -28,30 +28,30 @@ The sensor is an **interoception** reading, with **focus as a good proxy.** If h
 
 Same symptom, opposite causes, separated by how the wandering feels. Once the direction is read, Alan adjusts a knob in that direction to restore focus, and focus returning is the confirmation the level is back in band.
 
-The focus-quality read leans on the same separation [wanting-as-gauge](wanting-as-gauge.book-chapter.md#the-gauge-has-no-resolution) relies on: a single felt signal that has to be decoded into which underlying state it's reporting before it can be acted on. There the undifferentiated signal is not-wanting, decoded across the resource bars; here it is wandering focus, decoded into too-low vs. too-high arousal. The [interoception-works-where-emotional-labeling-fails](wanting-as-gauge.book-chapter.md) split is doing the same work — the focus proxy is an interoceptive read that survives where direct emotional labeling would not.
+The focus-quality read leans on the same separation [wanting-as-gauge](book-section/all-about-alan/wanting-as-gauge#the-gauge-has-no-resolution) relies on: a single felt signal that has to be decoded into which underlying state it's reporting before it can be acted on. There the undifferentiated signal is not-wanting, decoded across the resource bars; here it is wandering focus, decoded into too-low vs. too-high arousal. The [interoception-works-where-emotional-labeling-fails](book-section/all-about-alan/wanting-as-gauge) split is doing the same work — the focus proxy is an interoceptive read that survives where direct emotional labeling would not.
 
 ## A second sensor — body temperature
 
 Focus quality is not the only readout. Body temperature reads the same state on an independent channel: **cold means likely overstimulated, hot means likely understimulated.**
 
-Temperature has the advantage of needing no direction disambiguation — cold and hot point straight to the two failure directions, where wandering focus needs decoding by its quality. The two sensors are complementary: focus quality is the moment-to-moment read, temperature the slower bodily one. The full directional treatment is in [thermoregulation.md](thermoregulation.book-chapter.md); the hardware model both sensors report on is the [high-throughput road](high-throughput-road.book-chapter.md).
+Temperature has the advantage of needing no direction disambiguation — cold and hot point straight to the two failure directions, where wandering focus needs decoding by its quality. The two sensors are complementary: focus quality is the moment-to-moment read, temperature the slower bodily one. The full directional treatment is in [thermoregulation.md](book-section/all-about-alan/thermoregulation); the hardware model both sensors report on is the [high-throughput road](book-section/all-about-alan/high-throughput-road).
 
 ## Relationship to the sensory-regulation hierarchy
 
-This is a *different problem* from the [sensory-regulation tools](sensory-regulation-tools.book-chapter.md) hierarchy, even though both touch the same nervous system. The sensory hierarchy is about **shedding excess input** — dampening a too-loud or too-bright load down to tolerable. Stimulation regulation is **two-directional**: it raises arousal when it's too low as readily as it lowers it when it's too high. The room light is the clean illustration — the sensory bundle wants it off to cut a drain, but the thermostat wants it on when arousal is sagging. Same switch, two control systems with opposite setpoints, arbitrated by which problem is active.
+This is a *different problem* from the [sensory-regulation tools](book-section/all-about-alan/sensory-regulation-tools) hierarchy, even though both touch the same nervous system. The sensory hierarchy is about **shedding excess input** — dampening a too-loud or too-bright load down to tolerable. Stimulation regulation is **two-directional**: it raises arousal when it's too low as readily as it lowers it when it's too high. The room light is the clean illustration — the sensory bundle wants it off to cut a drain, but the thermostat wants it on when arousal is sagging. Same switch, two control systems with opposite setpoints, arbitrated by which problem is active.
 
 ## The width of the window is set by Safety
 
-Everything above describes keeping stimulation *in band*. The band itself has a **width**, and the width is not fixed — it is downstream of [Safety](safety.book-chapter.md). In Alan's words: *"The width of the window depends directly on my safety level, wider when my level is higher."*
+Everything above describes keeping stimulation *in band*. The band itself has a **width**, and the width is not fixed — it is downstream of [Safety](book-section/all-about-alan/safety). In Alan's words: *"The width of the window depends directly on my safety level, wider when my level is higher."*
 
 - **High Safety → a wide, forgiving band.** Lots of margin on both edges; he is rarely correcting anything, because most of the day sits comfortably inside the band without a knob being touched.
 - **Low Safety → a knife-edge.** Little margin either side; he nudges himself back onto the line all day, because the slightest drift crosses an edge.
 
-This is the dial under all the other dials. Everything else in the multi-stream day — the [twelve agent streams](harness-attention.book-chapter.md), the [music](music.book-chapter.md), the bored/overloaded correction this note describes — has no fixed setting of its own; the *whole window* slides open or shut with one number. The knobs set where in the band he sits; Safety sets how wide the band is to sit in. **Safety is the dial under the dials** — which is why [Safety is the hub the whole self-system feeds](safety.book-chapter.md#safety-is-the-hub-the-whole-system-feeds).
+This is the dial under all the other dials. Everything else in the multi-stream day — the [twelve agent streams](book-section/all-about-alan/harness-attention), the [music](book-section/all-about-alan/music), the bored/overloaded correction this note describes — has no fixed setting of its own; the *whole window* slides open or shut with one number. The knobs set where in the band he sits; Safety sets how wide the band is to sit in. **Safety is the dial under the dials** — which is why [Safety is the hub the whole self-system feeds](book-section/all-about-alan/safety#safety-is-the-hub-the-whole-system-feeds).
 
 ## Recovery moved the band off the floor — it is still narrow
 
-The width finding has a recovery history. Sixteen months up from the bottom of [burnout](autism-burnout.book-chapter.md), the band is wider than it was — but "wider" measures the *climb*, not the *present width*. At the floor the band held **nothing**; what recovery has clawed back is the ability to hold *some* things at all. *"I can handle anything at all"* is the bare-floor reading — not "the band is now wide enough to hold everything," but "it can finally hold anything at all, where before it held nothing." The band itself is **still narrow.**
+The width finding has a recovery history. Sixteen months up from the bottom of [burnout](book-section/all-about-alan/autism-burnout), the band is wider than it was — but "wider" measures the *climb*, not the *present width*. At the floor the band held **nothing**; what recovery has clawed back is the ability to hold *some* things at all. *"I can handle anything at all"* is the bare-floor reading — not "the band is now wide enough to hold everything," but "it can finally hold anything at all, where before it held nothing." The band itself is **still narrow.**
 
 So the present state is a much-less-tiny window, not a wide forgiving one. He is not standing in a roomy band; he is still correcting himself daily, sixteen months into a climb with years still ahead. The width is still rising — it has not arrived.
 
@@ -60,27 +60,27 @@ At the floor the band was so narrow that even a video game was too much load: *"
 - **ESO** — the light filler — came back at ~6 months.
 - **Coding** — the heavy, language-hungry work — came back at ~12 months.
 
-This is the same load hierarchy the [music](music.book-chapter.md#the-language-axis--words-compete-with-collaborative-thinking) thread surfaces: routine/light work is cheap, collaborative/verbal work (coding) is the expensive end. Recovery was not random — the band widened with rising Safety, and load-ordered activities switched back on lightest-first as the widening band cleared room for each. The through-line: floor held nothing → now holds some things but stays narrow → width still climbing.
+This is the same load hierarchy the [music](book-section/all-about-alan/music#the-language-axis--words-compete-with-collaborative-thinking) thread surfaces: routine/light work is cheap, collaborative/verbal work (coding) is the expensive end. Recovery was not random — the band widened with rising Safety, and load-ordered activities switched back on lightest-first as the widening band cleared room for each. The through-line: floor held nothing → now holds some things but stays narrow → width still climbing.
 
 ### Still recovering, or built narrow — and how Alan reads the unknown
 
-How much of the remaining narrowness is *still recovering* (it keeps widening with the climb) versus *how he's built* (a window that stays narrower than most people's even fully recovered) — Alan does not know. He has no way to read where that line falls in advance. His resolution: *"I don't know where the line is, but I'm reading it optimistically as still recovering until proven otherwise"* — *"Some things I cannot change, but until I try, I'll never know."* For the band's width specifically, that means he **defaults to "still recovering"**: he assumes the width keeps rising until reality proves otherwise. The deep treatment of why defaulting to "changeable" is the only method his architecture has — the [flipped Serenity Prayer driven by the missing forward simulator](missing-simulator.book-chapter.md#the-flipped-serenity-prayer--defaulting-to-changeable-is-the-only-method) — lives in the missing-simulator note; here it just sets the band's default reading.
+How much of the remaining narrowness is *still recovering* (it keeps widening with the climb) versus *how he's built* (a window that stays narrower than most people's even fully recovered) — Alan does not know. He has no way to read where that line falls in advance. His resolution: *"I don't know where the line is, but I'm reading it optimistically as still recovering until proven otherwise"* — *"Some things I cannot change, but until I try, I'll never know."* For the band's width specifically, that means he **defaults to "still recovering"**: he assumes the width keeps rising until reality proves otherwise. The deep treatment of why defaulting to "changeable" is the only method his architecture has — the [flipped Serenity Prayer driven by the missing forward simulator](book-section/all-about-alan/missing-simulator#the-flipped-serenity-prayer--defaulting-to-changeable-is-the-only-method) — lives in the missing-simulator note; here it just sets the band's default reading.
 
 ## Cross-references
 
-- [safety.md](safety.book-chapter.md) — the bar whose level sets the *width* of the window; the hub this thermostat feeds, and the dial under the knobs.
-- [autism-burnout.md](autism-burnout.book-chapter.md) — the floor the band widened up from over 16 months, and the recovery arc the load-ordered return tracks.
-- [nervous-system-sensitivity.md](nervous-system-sensitivity.book-chapter.md) — the sensitivity that makes arousal easy to push out of band in both directions.
-- [non-habituation.md](non-habituation.book-chapter.md) — why the nervous system doesn't auto-level its own arousal (input doesn't amortize), forcing the manual loop.
-- [stimming.md](stimming.book-chapter.md) — ESO, music, and the multi-stream stack as stims; stimulation regulation is the control layer that decides when to run them.
-- [interest-modulator.md → multi-stream parallelism](interest-modulator.book-chapter.md#multi-stream-parallelism) — the multi-stream day the knobs are set against.
-- [sensory-regulation-tools is the shedding-excess problem](sensory-regulation-tools.book-chapter.md) — the one-directional dampening hierarchy, distinct from this two-directional thermostat.
-- [wanting-as-gauge.md](wanting-as-gauge.book-chapter.md) — the decode-a-single-felt-signal pattern the focus-quality sensor shares.
-- [visual-sensitivity-bundle.md](visual-sensitivity-bundle.book-chapter.md) — the room light's other use as a sensory-load knob, opposite to its arousal-knob use here.
-- [high-throughput-road.md](high-throughput-road.book-chapter.md) — the hardware model beneath this thermostat: fixed throughput, autonomic regulation as the variable traffic lights, resource-dependent over/under-stimulation direction.
-- [thermoregulation.md](thermoregulation.book-chapter.md) — the body-temperature second sensor and its directional mechanism.
-- [attention-budget.md](attention-budget.book-chapter.md) — the budget this thermostat operates on, from the attention-economics side.
-- [destimulation.md](destimulation.book-chapter.md) — the first-line overload response; the far shedding end of this thermostat, the counterpart to the stimulation-adding knobs.
-- [harness-attention.md](harness-attention.book-chapter.md) — the multi-stream work day this window holds; the boredom-thermostat there is the work-stream instance of this arousal regulation.
-- [music.md](music.book-chapter.md) — one of the stimulation knobs, with a second (language) axis; its load hierarchy matches the recovery return order.
-- [missing-simulator.md](missing-simulator.book-chapter.md) — why Alan defaults the band's width to "still recovering": the flipped Serenity Prayer is the only method a mind with no forward simulator has for finding where its limits actually fall.
+- [safety.md](book-section/all-about-alan/safety) — the bar whose level sets the *width* of the window; the hub this thermostat feeds, and the dial under the knobs.
+- [autism-burnout.md](book-section/all-about-alan/autism-burnout) — the floor the band widened up from over 16 months, and the recovery arc the load-ordered return tracks.
+- [nervous-system-sensitivity.md](book-section/all-about-alan/nervous-system-sensitivity) — the sensitivity that makes arousal easy to push out of band in both directions.
+- [non-habituation.md](book-section/all-about-alan/non-habituation) — why the nervous system doesn't auto-level its own arousal (input doesn't amortize), forcing the manual loop.
+- [stimming.md](book-section/all-about-alan/stimming) — ESO, music, and the multi-stream stack as stims; stimulation regulation is the control layer that decides when to run them.
+- [interest-modulator.md → multi-stream parallelism](book-section/all-about-alan/interest-modulator#multi-stream-parallelism) — the multi-stream day the knobs are set against.
+- [sensory-regulation-tools is the shedding-excess problem](book-section/all-about-alan/sensory-regulation-tools) — the one-directional dampening hierarchy, distinct from this two-directional thermostat.
+- [wanting-as-gauge.md](book-section/all-about-alan/wanting-as-gauge) — the decode-a-single-felt-signal pattern the focus-quality sensor shares.
+- [visual-sensitivity-bundle.md](book-section/all-about-alan/visual-sensitivity-bundle) — the room light's other use as a sensory-load knob, opposite to its arousal-knob use here.
+- [high-throughput-road.md](book-section/all-about-alan/high-throughput-road) — the hardware model beneath this thermostat: fixed throughput, autonomic regulation as the variable traffic lights, resource-dependent over/under-stimulation direction.
+- [thermoregulation.md](book-section/all-about-alan/thermoregulation) — the body-temperature second sensor and its directional mechanism.
+- [attention-budget.md](book-section/all-about-alan/attention-budget) — the budget this thermostat operates on, from the attention-economics side.
+- [destimulation.md](book-section/all-about-alan/destimulation) — the first-line overload response; the far shedding end of this thermostat, the counterpart to the stimulation-adding knobs.
+- [harness-attention.md](book-section/all-about-alan/harness-attention) — the multi-stream work day this window holds; the boredom-thermostat there is the work-stream instance of this arousal regulation.
+- [music.md](book-section/all-about-alan/music) — one of the stimulation knobs, with a second (language) axis; its load hierarchy matches the recovery return order.
+- [missing-simulator.md](book-section/all-about-alan/missing-simulator) — why Alan defaults the band's width to "still recovering": the flipped Serenity Prayer is the only method a mind with no forward simulator has for finding where its limits actually fall.

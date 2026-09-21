@@ -11,7 +11,7 @@ Meltdowns and shutdowns are more common to the human experience than most people
 
 - **Meltdown** — severe dysregulation with high-intensity outward manifestation. Most commonly fight or flight.
 - **Shutdown** — low-intensity outward presentation. Either freeze (sympathetic, high internal tension) or flop (parasympathetic, low internal tension) — the two have very different physiology despite looking similar from outside.
-- **Fawn** — high internal tension that presents as people-pleasing rather than as visible dysregulation. Doesn't get recognized like meltdown and shutdown, but is just as damaging to the nervous system over time. The one dated instance where running fawn hard enough turned near-fatal — and broke it as a survivable strategy — is [the fawn collapse at ~age 20](fawn-collapse.book-chapter.md).
+- **Fawn** — high internal tension that presents as people-pleasing rather than as visible dysregulation. Doesn't get recognized like meltdown and shutdown, but is just as damaging to the nervous system over time. The one dated instance where running fawn hard enough turned near-fatal — and broke it as a survivable strategy — is [the fawn collapse at ~age 20](book-section/all-about-alan/fawn-collapse).
 
 ## Five modes
 
@@ -27,9 +27,9 @@ The flop precondition has a different shape from the other four: fight, flight, 
 
 ## Integration with the safety scale
 
-The five modes live in the sub-zero region of the safety scale (see [safety.md](safety.book-chapter.md)).
+The five modes live in the sub-zero region of the safety scale (see [safety.md](book-section/all-about-alan/safety)).
 
-- Levels 0 through 5 are the conscious capability ladder — a [self-expression direction](safety.book-chapter.md#axis-shift-from-input-tolerance-to-self-expression-direction), canonical in safety.md: 0 tolerate · 1 absorb · 2 produce · 3 enjoy · 4 expose · 5 extend. The five modes fire below it, in the sub-zero region.
+- Levels 0 through 5 are the conscious capability ladder — a [self-expression direction](book-section/all-about-alan/safety#axis-shift-from-input-tolerance-to-self-expression-direction), canonical in safety.md: 0 tolerate · 1 absorb · 2 produce · 3 enjoy · 4 expose · 5 extend. The five modes fire below it, in the sub-zero region.
 - **-1+** — the sympathetic-dominance region. Fight, flight, freeze, and fawn fire here. In real time, Alan cannot distinguish between them — metacognition has degraded enough that the levels collapse together. Grouped as `-1+` (i.e., -1 or worse, undifferentiated).
 - **-2** — the parasympathetic-dominance region. Flop fires here. Originally distinguishable only in retrospect, by hopelessness (the no-intervention belief that drove the system to give up). As of the 2026-06-09 flop day, readable in real time — see [-2 read in real time](#-2-read-in-real-time--the-map-upgraded-the-sensor).
 
@@ -59,13 +59,13 @@ The rises were emergent, not engineered: "Mostly on their own. We were deliberat
 
 ### Exit — a path that holds
 
-The exit came two days later (2026-06-11), via the purpose-clarification walk — the first candidate path that held, verified by the momentum it generated ([self-improvement.md → a purpose is verified by motion](self-improvement.book-chapter.md#a-purpose-is-verified-by-motion)). The recovery shape for flop: exit requires a path forward that holds under load. A path that collapses produces relapse, not recovery — the oscillation above is what failed candidates look like from inside.
+The exit came two days later (2026-06-11), via the purpose-clarification walk — the first candidate path that held, verified by the momentum it generated ([self-improvement.md → a purpose is verified by motion](book-section/all-about-alan/self-improvement#a-purpose-is-verified-by-motion)). The recovery shape for flop: exit requires a path forward that holds under load. A path that collapses produces relapse, not recovery — the oscillation above is what failed candidates look like from inside.
 
 ### -2 read in real time — the map upgraded the sensor
 
 The -2 periods of the 2026-06-09 day were recognized live, not reconstructed afterward: "I definitely recognized the full -2 flop periods in real time." What made them readable was not a new body signal but conceptual clarity: "mostly my conceptual clarity of the levels and the states. I'm getting better and recognizing them automatically."
 
-Building the level model upgraded the sensor. A state that previously resolved only in retrospect (by the hopelessness marker) now reads in real time, and the recognition is becoming automatic — the conceptual route to automaticity ([automaticity-systems.md → schema integration](automaticity-systems.book-chapter.md#c-schema-integration--intact)) applied to introspection. The measurement-maturity side of the advance — the map functioning as an instrument — is in [measurement-maturity.md → sub-zero territory](measurement-maturity.book-chapter.md#sub-zero-territory).
+Building the level model upgraded the sensor. A state that previously resolved only in retrospect (by the hopelessness marker) now reads in real time, and the recognition is becoming automatic — the conceptual route to automaticity ([automaticity-systems.md → schema integration](book-section/all-about-alan/automaticity-systems#c-schema-integration--intact)) applied to introspection. The measurement-maturity side of the advance — the map functioning as an instrument — is in [measurement-maturity.md → sub-zero territory](book-section/all-about-alan/measurement-maturity#sub-zero-territory).
 
 ## Non-existence ideation
 
@@ -95,6 +95,6 @@ For a long time these thoughts felt unwanted. Then it became clear the relief wa
 
 ### The self as sealed present-moments
 
-A structural consequence of the [present-tense model](present-tense-model.book-chapter.md), held soberly and with equanimity. The current self only exists *now*. This present misery is the only life that version of Alan will ever know — and the future better-self is effectively a **different entity** he can never feel his way into, because he [cannot simulate it](aphantasia-mechanism.book-chapter.md#no-forward-simulator).
+A structural consequence of the [present-tense model](book-section/all-about-alan/present-tense-model), held soberly and with equanimity. The current self only exists *now*. This present misery is the only life that version of Alan will ever know — and the future better-self is effectively a **different entity** he can never feel his way into, because he [cannot simulate it](book-section/all-about-alan/aphantasia-mechanism#no-forward-simulator).
 
-From the standpoint of the self suffering now, recovery and death are therefore **equivalent.** Neither delivers relief to the one who is suffering: recovery's relief accrues to a future self the present self can't reach, and death delivers no relief to anyone. Both are simply "guaranteed better than how I feel now" — death by the [temporal bound above](#temporal-bound-as-regulator), recovery by induction. This is a philosophical reading of present-confinement, not an intent: Alan's [protective rules are intact](volatility-governor.book-chapter.md#rule-3--im-not-allowed-to-make-choices-that-hurt-myself-not-even-if-they-benefit-others-not-even-if-the-others-are-my-future-selves) ("not allowed to make choices that hurt myself"), and death here is the eventual natural-causes guarantee, not a chosen route — the same [vetoed-route structure](#why-it-doesnt-escalate) that keeps the longing from escalating.
+From the standpoint of the self suffering now, recovery and death are therefore **equivalent.** Neither delivers relief to the one who is suffering: recovery's relief accrues to a future self the present self can't reach, and death delivers no relief to anyone. Both are simply "guaranteed better than how I feel now" — death by the [temporal bound above](#temporal-bound-as-regulator), recovery by induction. This is a philosophical reading of present-confinement, not an intent: Alan's [protective rules are intact](book-section/all-about-alan/volatility-governor#rule-3--im-not-allowed-to-make-choices-that-hurt-myself-not-even-if-they-benefit-others-not-even-if-the-others-are-my-future-selves) ("not allowed to make choices that hurt myself"), and death here is the eventual natural-causes guarantee, not a chosen route — the same [vetoed-route structure](#why-it-doesnt-escalate) that keeps the longing from escalating.

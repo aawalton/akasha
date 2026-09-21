@@ -31,7 +31,7 @@ The decades-duration condition is binding in normal times. But when every existi
 
 I don't have a clean rule for this yet — flagged for the framework to resolve. Candidate framings:
 
-- **Hold the decades line and accept fewer alternatives.** The framework refuses to compress; gaps in the alternatives space become candidates for [self-reliance](alternatives.book-chapter.md).
+- **Hold the decades line and accept fewer alternatives.** The framework refuses to compress; gaps in the alternatives space become candidates for [self-reliance](book-section/all-about-alan/alternatives).
 - **Treat resistance-under-current-pressure as worth more years than calm-period years.** A few years of demonstrated resistance now might substitute for decades of untested calm. Pressure-weighted duration.
 - **Two-tier trust.** Decades-tested organizations are "trusted"; younger-but-resisting organizations are "provisionally trusted" — usable but not insulated against re-evaluation.
 
@@ -66,10 +66,10 @@ Stated values are not evidence. Behavior under pressure is the only evidence the
 
 **If I can't trust an organization to survive, I can't trust them.** Stability concerns — the likelihood an organization continues to operate at all — are reservations on the trust dimension itself, not a separate scoring axis. A financially fragile organization fails the trust test the same way a misaligned one does: the relationship can end unilaterally and against my interest. That puts stability on equal footing with ethics or ideology reservations.
 
-The rule's worked consequence (UCCU dropping to D on small-bank stability risk after the SVB collapse, despite member-ownership alignment), the component decomposition it sits in — financial resiliency, ethics, political ideology, ownership structure — and the grading scale that summarizes the composite trust state all live in [grading-scale.md → stability is part of trust](grading-scale.book-chapter.md#stability-is-part-of-trust-not-a-separate-axis).
+The rule's worked consequence (UCCU dropping to D on small-bank stability risk after the SVB collapse, despite member-ownership alignment), the component decomposition it sits in — financial resiliency, ethics, political ideology, ownership structure — and the grading scale that summarizes the composite trust state all live in [grading-scale.md → stability is part of trust](book-section/all-about-alan/grading-scale#stability-is-part-of-trust-not-a-separate-axis).
 
 ## Applications
 
-- The Costco / Walmart contrast in [thesis.md → Costco / Walmart contrast](thesis.book-chapter.md#the-costco--walmart-contrast).
+- The Costco / Walmart contrast in [thesis.md → Costco / Walmart contrast](book-section/all-about-alan/thesis#the-costco--walmart-contrast).
 - The audit applies the trust criterion to every dependency.
 - The plan uses the criterion to identify which alternatives qualify and which don't.
