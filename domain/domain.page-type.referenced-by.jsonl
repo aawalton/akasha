@@ -57,6 +57,7 @@
 {"propertySlug":"extends-type","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}
 {"propertySlug":"extends-type","path":"domain/directive-kind/directive-kind.page-type.ts","id":"01a04e1f-cbf6-755d-bd7d-e46ba13c0087"}
 {"propertySlug":"extends-type","path":"domain/list/list.page-type.ts","id":"01a06838-7a9d-7597-b7a6-0f752f753e26"}
+{"propertySlug":"extends-type","path":"domain/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.ts","id":"01a0c576-2e1a-7996-8a94-9a7d80b20c55"}
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/prose-frame/prose-frame.page-type.ts","id":"01a08241-f81d-7e21-8584-c7cc1ab6cf98"}
@@ -384,6 +385,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/parent/domain-parent.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/plain-language/plain-language.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/purpose/domain-purpose.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/construction/construction.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/non-term/standard-agent-english-non-term.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.types.ts"}

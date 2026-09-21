@@ -274,6 +274,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/properties/linked-at.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/properties/name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/sentence-shape/properties/reason.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/standard-agent-english/construction/properties/admits.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/standard-agent-english/construction/properties/refuses.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/standard-agent-english/property/standard-agent-english-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/from-pattern.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/instead.text-property.ts"}

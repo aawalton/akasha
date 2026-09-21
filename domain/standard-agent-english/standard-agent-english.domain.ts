@@ -16,5 +16,6 @@ export const standardAgentEnglish = {
     "page-type/term",
     "page-type/part-of-speech",
     "page-type/phrase-kind",
+    "page-type/construction",
   ],
 } as const satisfies Domain
