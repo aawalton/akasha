@@ -43,7 +43,11 @@ export const shadow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A folder's files come from that one listing rather than from a second search.",
+      statement: "A folder's files come from a search of that folder rather than of the tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder the tree does not hold is listed the files the change writes there.",
     },
     {
       decisionKind: "decision-kind/departure",
