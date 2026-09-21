@@ -8,11 +8,6 @@ export const nimueAudioManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "A sound states what made it.",
-      workingMemory:
-        "`buildAudioPageProperties` at `persist-audio.module.code.ts:31` already gathers title, engine, service, operation, model, prompt, seed, instruct, text, durationSeconds, audioPath and inferenceRun. An image carries none of this, since `persistInferenceImage` hands over an empty bag, so the audio page type declares properties where the image page type needed almost none. `audioPath` goes, because the page holds the bytes.",
-    },
-    {
       statement: "The audio rows of the generation log are audio pages.",
       workingMemory:
         "`ROW_PROPERTIES` at `generation-log.module.code.ts:39` routes `audio` to the `audios` property, and the images half of that table went with `alan.generation-log.images.jsonl`. `generation-audios.file-property.ts` decides that an audio row records where its bytes are rather than the bytes, which is the sentence this work ends.",
