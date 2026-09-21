@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const noveltyAndTruthAreTwoSignals = {
+  id: "01a0c5aa-08a8-7cd6-ae7a-3b849e96f769",
+  type: "page-type/all-about-alan-topic",
+  slug: "novelty-and-truth-are-two-signals",
+  title: "Novelty And Truth Are Two Signals",
+  definition: "the tag on a generated candidate and the click on a selected one being separate",
+  parents: ["all-about-alan-topic/where-a-candidate-model-comes-from"],
+  related: ["all-about-alan-topic/why-insight-feels-good"],
+  settled:
+    "A candidate handed to me arrives carrying a sense of novelty rather than a sense of being right. Generating and selecting are separate. The diffuse channel can hand me something new, but it does not certify it, and I still have to test it consciously to earn the click.\n\nThe two feel atomically different to me, irreducible, not one signal experienced twice.\n\nMy best guess at the mathematics of each makes the difference concrete. Novelty is roughly distance from the members of the set of previous attempts, an exploration measure. Compactness is roughly the total number of bits needed to store the representation of the system.\n\nSo two objective functions. Generation optimises distance from what I have already tried; selection optimises description length. Compression is the selection test only, and novelty is the generation tag.",
+} as const satisfies AllAboutAlanTopic
