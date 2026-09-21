@@ -4,6 +4,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoPlaceLikeHomeComm
   id: "01a0a6c5-099a-7be5-b594-054f35afe92b",
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-no-place-like-home-commentary",
+  grade: "C",
   ownLength: 0.6976833333333333,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
