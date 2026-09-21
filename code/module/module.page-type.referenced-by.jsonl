@@ -1943,6 +1943,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/page-type/page-type.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/patch/patch.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/raw-page-row/raw-page-row.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/read-gate/read-gate.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/routing-core/routing-core.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/sentinels/sentinels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/access/modules/types/types.module.ts"}

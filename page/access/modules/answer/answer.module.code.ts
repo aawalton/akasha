@@ -11,6 +11,10 @@ import {
   type PropertyDefinition,
 } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 import type { RawPageRow } from "akasha/page/access/modules/raw-page-row/raw-page-row.module.code.ts"
+import {
+  askedNarrow,
+  type Narrow,
+} from "akasha/page/access/modules/read-gate/read-gate.module.code.ts"
 import type {
   Asked,
   Test,
@@ -41,11 +45,9 @@ const NARROWS_DISAGREE =
 
 export type ReadUser = (request: Request) => Promise<{ user: object | null; headers: Headers }>
 
-export type Narrowed = { readonly key: string; readonly is: string }
-
 export type Reading =
   | { readonly permitted: false }
-  | { readonly permitted: true; readonly narrows: readonly Narrowed[] | null }
+  | { readonly permitted: true; readonly narrows: readonly Narrow[] | null }
 
 export type MayRead = (user: object | null, pageTypeSlug: string) => Promise<Reading>
 
@@ -54,17 +56,6 @@ const READS_EVERYTHING: Reading = { permitted: true, narrows: null }
 const READS_NOTHING: Reading = { permitted: false }
 
 const signedInMayRead: MayRead = async (user) => (user === null ? READS_NOTHING : READS_EVERYTHING)
-
-export function askedNarrow(
-  narrows: readonly Narrowed[] | null
-): Readonly<Record<string, Test>> | undefined | null {
-  if (narrows === null) return undefined
-  const keys = new Set(narrows.map((one) => one.key))
-  if (keys.size !== 1) return null
-  const key = [...keys][0] as string
-  const values = narrows.map((one) => one.is)
-  return values.length === 1 ? { [key]: { is: values[0] as string } } : { [key]: { in: values } }
-}
 
 export type PageTypesDeps = {
   readonly readUser: ReadUser

@@ -37,6 +37,7 @@ export const pageAccess = {
     "module/sentinels",
     "module/types",
     "module/upsert",
+    "module/read-gate",
   ],
   decisions: [
     {

@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   answerPages,
   answerPageTypes,
-  askedNarrow,
   listedKeys,
   type PagesDeps,
   type PageTypeReading,
@@ -302,22 +301,7 @@ test("an access stating no narrow asks the pages without one", async () => {
   expect(asked).toEqual([undefined])
 })
 
-test("two narrows on one key are asked as one question", () => {
-  expect(
-    askedNarrow([
-      { key: "world", is: "world/one" },
-      { key: "world", is: "world/two" },
-    ])
-  ).toEqual({ world: { in: ["world/one", "world/two"] } })
-})
-
 test("narrows disagreeing on the key refuse rather than widening", async () => {
-  expect(
-    askedNarrow([
-      { key: "world", is: "world/one" },
-      { key: "appSlug", is: "requests" },
-    ])
-  ).toBeNull()
   const answered = await answerPages(new Request(AT), "readout", {
     readUser: async () => ({ user: null, headers: new Headers() }),
     mayRead: async () => ({
