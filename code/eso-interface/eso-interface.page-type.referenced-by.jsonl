@@ -3,6 +3,9 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/collections-addon/item-browser-layout/item-browser-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/collections-addon/lorebooks-report-layout/lorebooks-report-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/collections-addon/lost-treasure-map-layout/lost-treasure-map-layout.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/combat-addon/combat-live-report-layout/combat-live-report-layout.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/combat-addon/combat-report-layout/combat-report-layout.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/combat-addon/combat-templates-layout/combat-templates-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/events-addon/next-boss-layout/next-boss-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/interface-addon/fcocs-virtuals/fcocs-virtuals.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/items-addon/inventory-browser-layout/inventory-browser-layout.eso-interface.ts"}
@@ -25,9 +28,6 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-sets/lib-sets-search-ui-keyboard-xml/lib-sets-search-ui-keyboard-xml.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-sets/lib-sets-search-ui-shared-xml/lib-sets-search-ui-shared-xml.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-shifter-box/shifter-box-template/shifter-box-template.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/combat-addon/combat-live-report-layout/combat-live-report-layout.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/combat-addon/combat-report-layout/combat-report-layout.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/combat-addon/combat-templates-layout/combat-templates-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/crafting-addon/craft-store-blueprint-layout/craft-store-blueprint-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/crafting-addon/craft-store-cook-layout/craft-store-cook-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/crafting-addon/craft-store-fonts/craft-store-fonts.eso-interface.ts"}

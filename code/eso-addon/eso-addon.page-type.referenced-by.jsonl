@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/catalog-addon/temper-catalog-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/characters-addon/temper-characters-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/collections-addon/temper-collections-addon.eso-addon.ts"}
+{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/combat-addon/temper-combat-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/companions-addon/temper-companions-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/errors-addon/temper-errors-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/events-addon/temper-events-addon.eso-addon.ts"}
@@ -42,7 +43,6 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/quests-addon/temper-quests-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/selector-addon/temper-selector-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/trading-addon/temper-trading-addon.eso-addon.ts"}
-{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/combat-addon/temper-combat-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/crafting-addon/temper-crafting-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-scrollable-menu/temper-lib-scrollable-menu.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/navigation-addon/temper-navigation-addon.eso-addon.ts"}

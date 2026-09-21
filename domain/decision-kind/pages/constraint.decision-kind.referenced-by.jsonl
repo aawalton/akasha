@@ -400,6 +400,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/characters-addon/modules/characters-progress-tally/characters-progress-tally.module.ts","id":"01a062ee-eff1-7066-8ae2-e9910475597e"}
 {"propertySlug":"decision-kind","path":"temper/addon/characters-addon/modules/characters-task-card-match/characters-task-card-match.module.ts","id":"01a062ee-efdd-7065-b808-78f99e6b809a"}
 {"propertySlug":"decision-kind","path":"temper/addon/characters-addon/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.ts","id":"01a062ee-f0bd-7071-8b01-5c61376d23f5"}
+{"propertySlug":"decision-kind","path":"temper/addon/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/temper-community-addon.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
 {"propertySlug":"decision-kind","path":"temper/addon/companions-addon/modules/companions-codec-constants/companions-codec-constants.module.ts","id":"01a0611d-84d0-7633-b29f-14f7be7fd63b"}
@@ -911,7 +912,6 @@
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/sets-data-123/sets-data-123.module.ts","id":"01a061a4-18b0-7f37-89cc-e3646ca45a3c"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
-{"propertySlug":"decision-kind","path":"temper/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.ts","id":"01a06152-c2c3-745e-9ada-68a8820c6c2f"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-bulk-update-equipment/companion-bulk-update-equipment.module.ts","id":"01a06152-c2c5-7e0c-8688-41d1ac8871ea"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.ts","id":"01a06152-c2c7-7dff-b7bf-68a31c3744ce"}

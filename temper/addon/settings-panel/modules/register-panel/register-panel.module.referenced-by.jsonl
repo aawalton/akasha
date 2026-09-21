@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/combat-addon/modules/combat-menu/combat-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/companions-addon/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/events-addon/modules/next-boss-menu/next-boss-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/housing-addon/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
@@ -7,7 +8,6 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/library/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-settings-lam/lib-sets-tip-settings-lam.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/combat-addon/modules/combat-menu/combat-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/crafting-addon/modules/craft-set-lam/craft-set-lam.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/crafting-addon/modules/potion-settings-menu/potion-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/crafting-addon/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}

@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"combat-lib-skill-bars.module.code.ts","path":"temper/addon/combat-addon/modules/combat-lib-events/combat-lib-events.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-lib-skill-bars.module.code.ts","path":"temper/addon/combat-addon/modules/combat-lib-fight/combat-lib-fight.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-lib-skill-bars.module.code.ts","path":"temper/addon/combat-addon/modules/combat-lib-groups-combat/combat-lib-groups-combat.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-lib-skill-bars.module.code.ts","path":"temper/addon/combat-addon/modules/combat-lib-groups-stats/combat-lib-groups-stats.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-lib-skill-bars.module.code.ts","path":"temper/addon/combat-addon/modules/combat-lib-skill-casts/combat-lib-skill-casts.module.code.ts"}
+{"propertySlug":"parts","path":"temper/addon/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

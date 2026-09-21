@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/antiquities-addon/modules/antiquities-addon-entry/antiquities-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/characters-addon/modules/characters-entry/characters-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/collections-addon/modules/collections-addon-entry/collections-addon-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/combat-addon/modules/combat-entry/combat-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/events-addon/modules/events-addon-entry/events-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/housing-addon/modules/housing-entry/housing-entry.module.code.ts"}
@@ -12,7 +13,6 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/selector-addon/modules/selector-entry/selector-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/capture-writer/modules/capture-writer/capture-writer.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/combat-addon/modules/combat-entry/combat-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/crafting-addon/modules/crafting-entry/crafting-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/navigation-addon/modules/navigation-entry/navigation-entry.module.code.ts"}
 {"propertySlug":"parts","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

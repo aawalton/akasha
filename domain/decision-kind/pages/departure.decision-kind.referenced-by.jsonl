@@ -3395,6 +3395,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/collections-addon/modules/collections-addon-global/collections-addon-global.module.ts","id":"01a0624c-a660-708c-9324-7aa221750530"}
 {"propertySlug":"decision-kind","path":"temper/addon/collections-addon/modules/collections-addon-loaded/collections-addon-loaded.module.ts","id":"01a0624c-a660-7bb7-a785-531905b18e57"}
 {"propertySlug":"decision-kind","path":"temper/addon/collections-addon/temper-collections-addon.eso-addon.ts","id":"01a0624c-a660-70e0-bf26-d959d1027e91"}
+{"propertySlug":"decision-kind","path":"temper/addon/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/addon-download/addon-download.module.ts","id":"01a06069-b78f-70ea-813a-1ddfccad983a"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/addon-update-plan/addon-update-plan.module.ts","id":"01a06069-b78f-7b28-b528-03c2f328ce0c"}
 {"propertySlug":"decision-kind","path":"temper/addon/community-addon/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
@@ -4218,7 +4219,6 @@
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
 {"propertySlug":"decision-kind","path":"temper/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts","id":"01a062ff-2792-7da8-8bfd-3a48ace9bf53"}
-{"propertySlug":"decision-kind","path":"temper/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/bank-profile-reading/bank-profile-reading.module.ts","id":"01a06864-aa2b-7001-b025-909d59f3ea04"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/bank-trace-reading/bank-trace-reading.module.ts","id":"01a06864-aa2b-7002-9f57-fb06fdfa105a"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/eso-chatter-names/eso-chatter-names.module.ts","id":"01a069cf-7042-7000-8df6-e6b7ffd0efc8"}
