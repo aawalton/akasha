@@ -200,6 +200,13 @@ test("every rung the ladder states is given a color to wear", () => {
   for (const rung of gradeProperty.values) expect(wearing(rung, rung)).not.toBe(rung)
 })
 
+test("the rungs sharing a letter share a color", () => {
+  if (!indexThere(ROOT)) return
+  const wearing = wearingIn(ROOT)
+  expect(wearing("B-", "x")).toBe(wearing("B+", "x"))
+  expect(wearing("A", "x")).not.toBe(wearing("B", "x"))
+})
+
 test("the json answer carries no color", () => {
   if (!indexThere(ROOT)) return
   expect(musicArtistList(["--json"], GIVEN).report.join("\n")).not.toContain(ESCAPE)
