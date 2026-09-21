@@ -8,11 +8,6 @@ export const nimueGradeNaming = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "The page type for a rung on the ladder is `grade-property`.",
-      workingMemory:
-        "`page/rank-property/rank-property.page-type.ts` defines itself as `a page property with a rung on a ladder of grades`, and its decisions say a rung above another rung is a better grade. The type already uses in its own words the name it does not carry. 12 files name `rank-property` or `RankProperty`.",
-    },
-    {
       statement:
         "One page states the grade ladder, what each rung is called, and each rung's color.",
       workingMemory:
