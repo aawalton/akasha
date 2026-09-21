@@ -312,15 +312,19 @@ function loadedBeside(said: Parted, loaders: ReadonlySet<string>): boolean {
   return loaders.has(said.pageType) && besideProperty(said, said.pageType, CODE)
 }
 
-export function reachedByPathSparing(index: Answering): ReadonlyMap<string, ReadonlySet<string>> {
-  const found = new Map<string, ReadonlySet<string>>()
-  for (const value of index.valuesByPath(MODULE).values()) {
-    const slug = textAt(value, SLUG)
-    const told = textsAt(value, REACHED_BY_PATH)
-    if (slug === null || told === null) continue
-    found.set(slug, new Set(told))
+export type Reaching = (slug: string) => ReadonlySet<string>
+
+export function reachedByPathSparing(index: Answering): Reaching {
+  const held = new Map<string, ReadonlySet<string>>()
+  return (slug) => {
+    const found = held.get(slug)
+    if (found !== undefined) return found
+    const value = index.pageAt(MODULE, slug)
+    const told = value === null ? null : textsAt(value, REACHED_BY_PATH)
+    const made = told === null ? NOTHING : new Set(told)
+    held.set(slug, made)
+    return made
   }
-  return found
 }
 
 export function sparedIn(
@@ -328,7 +332,7 @@ export function sparedIn(
   pageTypes: ReadonlySet<string>,
   groups: ReadonlyMap<string, string>,
   loaders: ReadonlySet<string>,
-  reached: ReadonlyMap<string, ReadonlySet<string>>,
+  reached: Reaching,
   loadedExports: ReadonlyMap<string, ReadonlySet<string>>,
   bodyOf: Bodied
 ): ReadonlySet<string> {
@@ -347,7 +351,7 @@ export function sparedIn(
   if (loaded !== null) return new Set([loaded])
   const coded = groupCoded(said, groups)
   if (coded !== null) return new Set([coded])
-  const spared = new Set(reached.get(said.slug) ?? NOTHING)
+  const spared = new Set<string>(reached(said.slug))
   if (pageNamed(path, pageTypes)) spared.add(exportedAs(said.slug))
   return spared
 }

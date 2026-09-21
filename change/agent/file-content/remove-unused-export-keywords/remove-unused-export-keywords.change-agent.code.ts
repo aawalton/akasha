@@ -17,6 +17,7 @@ import { leftAloneIn } from "akasha/change/modules/value-carrying/value-carrying
 import {
   groupsSparing,
   loadersSparing,
+  type Reaching,
   reachedByPathSparing,
   sparedIn,
   unreachedIn,
@@ -37,7 +38,7 @@ function surplusIn(
   pageTypes: ReadonlySet<string>,
   groups: ReadonlyMap<string, string>,
   loaders: ReadonlySet<string>,
-  reached: ReadonlyMap<string, ReadonlySet<string>>,
+  reached: Reaching,
   loadedExports: ReadonlyMap<string, ReadonlySet<string>>,
   path: string
 ): readonly string[] {
