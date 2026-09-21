@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts"}
+{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/quests-addon/modules/quests-saved-variables/quests-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/characters-addon/modules/characters-config/characters-config.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/characters-addon/modules/characters-task-hud/characters-task-hud.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-strip/skill-morph-strip.module.code.ts"}
@@ -27,7 +28,6 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/modules/perf-trace/perf-trace.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/navigation-addon/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"}
-{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/quests-addon/modules/quests-saved-variables/quests-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/upstream-data/modules/leaf-dump/leaf-dump.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.code.ts"}
