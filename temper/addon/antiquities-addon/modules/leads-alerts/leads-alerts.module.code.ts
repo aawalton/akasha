@@ -8,6 +8,11 @@ import {
 } from "akasha/temper/addon/antiquities-addon/modules/leads-colors/leads-colors.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/antiquities-addon/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
 import { getPledgeDungeons } from "akasha/temper/addon/antiquities-addon/modules/leads-undaunted/leads-undaunted.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/antiquities-addon/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 
 let alertsTooltipMessages: string[] = []
 
