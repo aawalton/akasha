@@ -25,6 +25,7 @@ function depsRostering(roster: PageTypesDeps["roster"]): PageTypesDeps {
 function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
   return {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    anonymousMayRead: async () => false,
     ask: async () => ({ rows: [], n: 0 }),
     readPageType,
     definitionsFor: async () => [],
@@ -34,7 +35,18 @@ function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
 function depsAsking(ask: PagesDeps["ask"]): PagesDeps {
   return {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    anonymousMayRead: async () => false,
     ask,
+    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
+    definitionsFor: async () => [],
+  }
+}
+
+function depsAnonymous(anonymousMayRead: PagesDeps["anonymousMayRead"]): PagesDeps {
+  return {
+    readUser: async () => ({ user: null, headers: new Headers() }),
+    anonymousMayRead,
+    ask: async () => ({ rows: [], n: 0 }),
     readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
     definitionsFor: async () => [],
   }
@@ -155,6 +167,7 @@ test("a listing asks for every key but the ones whose rows are filed beside the 
   const under: (readonly string[] | undefined)[] = []
   const answered = await answerPages(new Request(AT), "readout", {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    anonymousMayRead: async () => false,
     ask: async (_pageTypeSlug, _limit, keys) => {
       under.push(keys)
       return { rows: [], n: 0 }
@@ -210,6 +223,43 @@ test("a roster that will not read refuses at 503 and names why", async () => {
 test("a raise the roster did not make is left to raise", async () => {
   const deps = depsRostering(() => Promise.reject(new Error("something else entirely")))
   expect(answerPageTypes(new Request(ROSTER_AT), deps)).rejects.toThrow("something else entirely")
+})
+
+test("an anonymous reader no grant admits is answered 401", async () => {
+  const answered = await answerPages(
+    new Request(AT),
+    "readout",
+    depsAnonymous(async () => false)
+  )
+  expect(answered.status).toBe(401)
+})
+
+test("an anonymous reader a grant admits is answered the rows", async () => {
+  const asked: string[] = []
+  const answered = await answerPages(
+    new Request(AT),
+    "readout",
+    depsAnonymous(async (pageTypeSlug) => {
+      asked.push(pageTypeSlug)
+      return true
+    })
+  )
+  expect(answered.status).toBe(200)
+  expect(asked).toEqual(["readout"])
+})
+
+test("a signed-in reader is answered without any grant being asked for", async () => {
+  let asked = 0
+  const deps = depsReading(async () => ({ pageTypeId: "one", definitions: [] }))
+  const answered = await answerPages(new Request(AT), "readout", {
+    ...deps,
+    anonymousMayRead: async () => {
+      asked += 1
+      return false
+    },
+  })
+  expect(answered.status).toBe(200)
+  expect(asked).toBe(0)
 })
 
 test("a reader who is signed out is answered 401 rather than a roster", async () => {

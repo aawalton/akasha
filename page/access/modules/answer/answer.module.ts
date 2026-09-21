@@ -10,7 +10,7 @@ export const answer = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A route here answers a signed-in reader alone.",
+      statement: "A route here answers a signed-in reader, or an anonymous reader a grant admits.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -101,6 +101,14 @@ export const answer = {
     {
       decisionKind: "decision-kind/absence",
       statement: "A roster entry names no repository and no glob.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a grant admits an anonymous reader is passed in rather than read here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An anonymous reader no grant admits is refused as a reader with no session is.",
     },
   ],
 } as const satisfies Module
