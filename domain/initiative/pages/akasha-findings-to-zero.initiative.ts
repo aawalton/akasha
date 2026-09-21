@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "492 are left, from 512 when this began, with 56 resolved. The work is now two runs. The first goes through every finding alone, drops the ones that are clearly gone, and keeps the rest. The second is taken with Alan over whatever the first kept. Most findings die because what they say stopped being true: the folder went, the page gained the decision, another lane landed the mend.\n",
+        "342 are left. The work is two runs. The first goes through every finding alone, drops the ones that are clearly gone, and keeps the rest. The second is taken with Alan over whatever the first kept. Most findings die because what they say stopped being true: the folder went, the page gained the decision, another lane landed the mend.\n",
     },
   ],
   constraints: [
