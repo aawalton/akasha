@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts"}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/seaweedfs/modules/constants/seaweedfs-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/seaweedfs/modules/etcd-snapshot-manifests/seaweedfs-etcd-snapshot-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"page/service/page-forwarder/page-forwarder.manifest.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts","id":"01a06735-dd9c-700c-89ca-ed7f38cab9b1"}

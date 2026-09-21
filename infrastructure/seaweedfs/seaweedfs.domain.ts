@@ -8,7 +8,6 @@ export const seaweedfs = {
   parts: [
     "manifest/seaweedfs-backup-assets",
     "manifest/seaweedfs-backup-bulk",
-    "manifest/seaweedfs-etcd-snapshot",
     "manifest/seaweedfs-filer",
     "manifest/seaweedfs-maintenance",
     "manifest/seaweedfs-master",
@@ -17,7 +16,6 @@ export const seaweedfs = {
     "module/seaweedfs-backup-manifests",
     "module/seaweedfs-constants",
     "module/seaweedfs-deployments",
-    "module/seaweedfs-etcd-snapshot-manifests",
     "module/seaweedfs-longtail-assets",
     "module/seaweedfs-maintenance-manifests",
     "module/seaweedfs-namespace",

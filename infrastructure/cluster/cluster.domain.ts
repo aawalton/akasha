@@ -17,6 +17,19 @@ export const cluster = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Everything the cluster runs is defined in the repository rather than in the cluster.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cluster lost is bootstrapped again from the repository rather than restored.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No copy of the cluster's own key store is kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every folder under `cluster` matches a folder shape.",
     },
     {

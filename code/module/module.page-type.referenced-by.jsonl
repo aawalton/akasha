@@ -1875,7 +1875,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/backup-manifests/seaweedfs-backup-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/constants/seaweedfs-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/etcd-snapshot-manifests/seaweedfs-etcd-snapshot-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/longtail-assets/seaweedfs-longtail-assets.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/maintenance-manifests/seaweedfs-maintenance-manifests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/seaweedfs/modules/namespace/seaweedfs-namespace.module.ts"}

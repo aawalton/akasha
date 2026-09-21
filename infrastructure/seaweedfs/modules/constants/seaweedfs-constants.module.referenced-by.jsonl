@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/master/seaweedfs-master.manifest.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/backup-manifests/seaweedfs-backup-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/deployments/seaweedfs-deployments.module.code.ts"}
-{"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/etcd-snapshot-manifests/seaweedfs-etcd-snapshot-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/longtail-assets/seaweedfs-longtail-assets.module.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/maintenance-manifests/seaweedfs-maintenance-manifests.module.code.ts"}
 {"propertySlug":"import","fileName":"seaweedfs-constants.module.code.ts","path":"infrastructure/seaweedfs/modules/namespace/seaweedfs-namespace.module.code.ts"}
