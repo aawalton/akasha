@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
-import { asThrowaway } from "akasha/command/argument/pages/as-throwaway.argument.ts"
 import { expectAttr } from "akasha/command/argument/pages/expect-attr.argument.ts"
 import { expectAttrMode } from "akasha/command/argument/pages/expect-attr-mode.argument.ts"
 import { expectAttrSelector } from "akasha/command/argument/pages/expect-attr-selector.argument.ts"
@@ -11,7 +10,6 @@ import { expectText } from "akasha/command/argument/pages/expect-text.argument.t
 import { expectTitle } from "akasha/command/argument/pages/expect-title.argument.ts"
 import { hydrationSelector } from "akasha/command/argument/pages/hydration-selector.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
-import { noSignIn } from "akasha/command/argument/pages/no-sign-in.argument.ts"
 import { pageType } from "akasha/command/argument/pages/page-type.argument.ts"
 import { path } from "akasha/command/argument/pages/path.argument.ts"
 import { rootSelector } from "akasha/command/argument/pages/root-selector.argument.ts"
@@ -40,8 +38,6 @@ const PAGES: readonly Argument[] = [
   rootSelector,
   hydrationSelector,
   timeoutMs,
-  noSignIn,
-  asThrowaway,
   expectText,
   expectTitle,
   expectCountSelector,

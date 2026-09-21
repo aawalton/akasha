@@ -1,15 +1,9 @@
 import {
   classifyExpectedText,
   decideDiscriminatingSignal,
-  isRetryableSessionOpenTimeout,
   planRenderSettleWait,
   planTitleSettleWait,
-  planVerifyRenderSession,
 } from "akasha/code/browser/command/modules/verify-render-plan/verify-render-plan.module.code.ts"
-import {
-  readBrowserTestEnv,
-  readRealUserOptInEnv,
-} from "akasha/code/browser/test-harness/modules/browser-test-env/browser-test-env.module.code.ts"
 import {
   classifyExpectedAttr,
   classifyExpectedCount,
@@ -20,13 +14,8 @@ import {
   type RenderObservation,
   type RenderVerdict,
 } from "akasha/code/browser/test-harness/modules/deployed-render-check/deployed-render-check.module.code.ts"
-import {
-  createReadOnlyAnonSession,
-  createReadOnlyRealUserHarness,
-  createReadOnlyThrowawayHarness,
-} from "akasha/code/browser/test-harness/modules/read-only-harness/read-only-harness.module.code.ts"
+import { createReadOnlyAnonSession } from "akasha/code/browser/test-harness/modules/read-only-harness/read-only-harness.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { asThrowaway } from "akasha/command/argument/pages/as-throwaway.argument.ts"
 import { expectAttr } from "akasha/command/argument/pages/expect-attr.argument.ts"
 import { expectAttrMode } from "akasha/command/argument/pages/expect-attr-mode.argument.ts"
 import { expectAttrSelector } from "akasha/command/argument/pages/expect-attr-selector.argument.ts"
@@ -37,7 +26,6 @@ import { expectText } from "akasha/command/argument/pages/expect-text.argument.t
 import { expectTitle } from "akasha/command/argument/pages/expect-title.argument.ts"
 import { hydrationSelector } from "akasha/command/argument/pages/hydration-selector.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
-import { noSignIn } from "akasha/command/argument/pages/no-sign-in.argument.ts"
 import { pageType } from "akasha/command/argument/pages/page-type.argument.ts"
 import { path as pathArgument } from "akasha/command/argument/pages/path.argument.ts"
 import { rootSelector } from "akasha/command/argument/pages/root-selector.argument.ts"
@@ -65,12 +53,7 @@ const ATTR_VALUE = expectAttrValue.said
 
 const URL_SAID = url.said
 
-const NO_SIGN_IN = noSignIn.said
-
-const AS_THROWAWAY = asThrowaway.said
-
 const TAKES = [
-  asThrowaway,
   expectAttr,
   expectAttrMode,
   expectAttrSelector,
@@ -81,7 +64,6 @@ const TAKES = [
   expectTitle,
   hydrationSelector,
   json,
-  noSignIn,
   pageType,
   pathArgument,
   rootSelector,
@@ -136,42 +118,6 @@ function toldOf(
     `http: ${where.httpStatus}`,
     `why: ${verdict.reason}`,
   ]
-}
-
-async function opened(
-  plan: ReturnType<typeof planVerifyRenderSession>,
-  base: string,
-  signInPath: string,
-  signInTimeoutMs: number
-): Promise<Session> {
-  if (plan.kind === "anon") return await createReadOnlyAnonSession()
-  if (plan.kind === "throwaway") {
-    const read = readBrowserTestEnv()
-    if (read.missing || read.env === null) {
-      throw new Error(
-        `${AS_THROWAWAY} reads BROWSER_TEST_URL, BROWSER_TEST_EMAIL, BROWSER_TEST_PASSWORD, ` +
-          "SUPABASE_URL, SUPABASE_ANON_KEY and SUPABASE_SERVICE_ROLE_KEY, and one is unset"
-      )
-    }
-    return await createReadOnlyThrowawayHarness({
-      env: { ...read.env, url: base },
-      signInPath,
-      signInTimeoutMs,
-    })
-  }
-  const read = readRealUserOptInEnv()
-  if (read.missing || read.env === null) {
-    throw new Error(
-      "the live identity reads BROWSER_TEST_REAL_USER_EMAIL, BROWSER_TEST_REAL_USER_PASSWORD, " +
-        `SUPABASE_URL, SUPABASE_ANON_KEY and BROWSER_TEST_URL, and one is unset — say ` +
-        `${NO_SIGN_IN} to look as nobody instead`
-    )
-  }
-  return await createReadOnlyRealUserHarness({
-    env: { ...read.env, url: base },
-    signInPath,
-    signInTimeoutMs,
-  })
 }
 
 async function observed(
@@ -365,37 +311,18 @@ export async function browserTestVerifyRender(
   }
   if (LOCAL.test(base)) {
     return refusedBy([
-      `${URL_SAID} takes a deployed origin rather than ${base}: a session cookie issued on ` +
-        "localhost is not sent to a deployed origin, so nothing here would be signed in",
+      `${URL_SAID} takes a deployed origin rather than ${base}: what is weighed here is the ` +
+        "render a deployed site answers, and a dev server answers a render of its own",
     ])
   }
 
-  const plan = planVerifyRenderSession({
-    noSignIn: taken.noSignIn,
-    asThrowaway: taken.asThrowaway,
-  })
   const at = `${base}${path}`
 
   let session: Session
   try {
-    session = await opened(plan, base, wanted.signInPath, wanted.timeout)
+    session = await createReadOnlyAnonSession()
   } catch (thrown) {
-    if (!isRetryableSessionOpenTimeout(thrown)) {
-      return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)])
-    }
-    const why =
-      `the sign-in page had not hydrated within ${wanted.timeout}ms, so the render was never ` +
-      "observed — a healthy page under load rather than a broken one"
-    return answeredWith(
-      toldOf(
-        { verdict: "INDETERMINATE", reason: why },
-        { url: at, pageType: pageTypeSlug, httpStatus: 0 },
-        null,
-        asJson
-      ),
-      [why],
-      INDETERMINATE
-    )
+    return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)])
   }
 
   try {

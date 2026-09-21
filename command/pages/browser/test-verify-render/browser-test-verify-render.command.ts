@@ -42,10 +42,6 @@ export const browserTestVerifyRender = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A sign-in that ran out before the render was seen answers indeterminate.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A success answers 0.",
     },
     {
@@ -61,8 +57,12 @@ export const browserTestVerifyRender = {
       statement: "The browser is closed whether the verdict was reached or thrown.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A page the site sends a stranger away from is told from a page that failed.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes as the user this command signed in as.",
+      statement: "Nothing here signs anybody in.",
     },
   ],
   name: "test-verify-render",
@@ -75,8 +75,6 @@ export const browserTestVerifyRender = {
     { argument: "argument/root-selector" },
     { argument: "argument/hydration-selector" },
     { argument: "argument/timeout-ms" },
-    { argument: "argument/no-sign-in" },
-    { argument: "argument/as-throwaway" },
     { argument: "argument/expect-text" },
     { argument: "argument/expect-title" },
     { argument: "argument/expect-count-selector" },
