@@ -25,6 +25,7 @@ export const featureRequest = {
     "relation-property/feature-request-backer",
     "record-property/feature-request-backing",
     "select-property/feature-request-standing",
+    "module/feature-request-serving",
   ],
   properties: [
     { pageProperty: "text-property/feature-request-ask", required: true, many: false },
