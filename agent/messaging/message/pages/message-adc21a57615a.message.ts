@@ -1,0 +1,11 @@
+import type { Message } from "akasha/agent/messaging/message/message.page-type.types.ts"
+
+export const messageAdc21a57615a = {
+  id: "01a0c5ec-25ac-7000-9b5f-adc21a57615a",
+  type: "page-type/message",
+  slug: "message-adc21a57615a",
+  to: "seat/thea",
+  from: "audit-running",
+  warrant: "announce",
+  body: "the audit at 9204a2c35fcb4b2135e724b19fa6d7e15e5a053b found 2 checks newly refusing.\n`index-is-level-with-the-pages` refused 1 time:\n  messaging/message/message.page-type.referenced-by — the index entry for this file is in the index differing from what its page says\n`tests-pass` refused 1 time:\n  check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts — Measured between 2026-09-21T21:40:27.325Z and 2026-09-21T21:42:04.761Z. 2 test files failed: check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts command/pag... (2138 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page.\n",
+} as const satisfies Message
