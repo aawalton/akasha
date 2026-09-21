@@ -8,11 +8,6 @@ export const nimueAudioManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every sound outside the repository is a page or is gone.",
-      workingMemory:
-        "SeaweedFS holds 1,407 objects under `agent-sessions/audio`, 4.216 GB, written between 30 June and 25 July 2026. `persona-voices` holds 80 more at 0.030 GB, the last on 19 August, and `story-audio` holds 3. Neither of those two prefixes has any key-making code in the tree, so nothing here put them there and nothing here reads them.",
-    },
-    {
       statement: "No audio bytes are in the object store.",
       workingMemory:
         "`audioObjectKey` has two references and both are inside `persist-audio.module.code.ts`, so the prefix is written and never read and this migration has no read side to keep working. `audio`, `persona-voices` and `story-audio` all leave `NON_EXPIRING_PREFIXES` at `seaweedfs-constants.module.code.ts:18` once they are empty.",
