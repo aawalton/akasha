@@ -695,7 +695,6 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/calculation-imports-only-types/calculation-imports-only-types.check-code.ts","id":"01a07222-b261-7961-a84e-6a8e0c0e5ed3"}
 {"propertySlug":"decision-kind","path":"check/code/pages/change-is-reached-through-a-runner/change-is-reached-through-a-runner.check-code.ts","id":"01a09bac-a3ec-74c7-8af0-d1eee1c41021"}
 {"propertySlug":"decision-kind","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.ts","id":"01a09c40-0ec4-7764-a533-6c87a8f60dd9"}
-{"propertySlug":"decision-kind","path":"check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.ts","id":"01a0824b-5ca1-7150-a799-fd2189f44fe4"}
 {"propertySlug":"decision-kind","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.ts","id":"01a0826b-f1ac-77a7-8379-299804f515d2"}
 {"propertySlug":"decision-kind","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.ts","id":"01a08d69-0b2e-7025-abd3-c4abe10799be"}
 {"propertySlug":"decision-kind","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.ts","id":"01a09518-e34b-711d-97f3-8664b5b48363"}

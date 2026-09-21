@@ -14,7 +14,6 @@ export const checkCode = {
     "check-code/calculation-imports-only-types",
     "check-code/change-is-reached-through-a-runner",
     "check-code/change-reaches-its-own-target-type",
-    "check-code/check-reaches-a-path-through-the-index",
     "check-code/client-reaches-a-server-module-through-a-route",
     "check-code/command-is-named-by-its-place-in-the-tree",
     "check-code/command-takes-its-arguments-through-one-reader",
