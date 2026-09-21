@@ -19,6 +19,11 @@ const SCRIPT = "text/javascript"
 
 export type Drawn = (drawing: PanelDrawing) => ReactElement
 
+export type Shown = {
+  readonly slug: string
+  readonly drawn: Drawn
+}
+
 function slugsIn(named: readonly string[]): readonly string[] {
   const held: string[] = []
   for (const one of named) {
