@@ -11,7 +11,7 @@ export const eppieMusicImprovements = {
       statement:
         "A Spotify playlist holds the music Alan has not heard by the artists Alan follows.",
       workingMemory:
-        "Not started. The unheard pool reads off the collection rollup: a release short of its own length under a followed artist. `SPOTIFY_SCOPES` in `spotify-scopes.module.code.ts` holds five read scopes and no `playlist-modify-private`, and a test asserts that exact list, so adding the scope changes both and Alan must re-run the PKCE consent. Creating a playlist also needs Alan's Spotify user id, which `GET /me` answers and nothing reads yet.",
+        "Built and unrun. `akasha music unheard-playlist` picks the tracks, and `--plan` reads 258 tracks over 14 artists. The picking is `module/unheard-picking`, the Spotify write is `module/spotify-playlists`, and `playlist-modify-private` is now in `SPOTIFY_SCOPES`. A live run answers 403 because the saved token was granted before that scope, so Alan runs the PKCE consent again before it works. Nothing was created.\n",
     },
   ],
 } as const satisfies Initiative
