@@ -3,6 +3,14 @@ import {
   asPresent,
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { SET_TYPES_TO_NAME } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-const-settype-names/lib-sets-const-settype-names.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-sets/lib-sets-set-type-ids/lib-sets-set-type-ids.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 
 const lib = LibSets
 const G = asGlobalTable(globalThis)

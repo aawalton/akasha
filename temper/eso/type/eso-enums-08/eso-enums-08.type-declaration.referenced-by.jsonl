@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-public-core/knowledge-public-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-settypes/lib-sets-const-settypes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-saved-variables/lib-sets-core-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/companion-equipment-catalog-capture/companion-equipment-catalog-capture.module.code.ts"}
