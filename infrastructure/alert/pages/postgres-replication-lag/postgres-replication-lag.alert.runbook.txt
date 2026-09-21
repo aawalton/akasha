@@ -1,3 +1,0 @@
-The CNPG physical replica {{ $labels.application_name }} has not sent a walreceiver reply in over 5 minutes ({{ $value | humanizeDuration }}).
-
-Failover RPO is degraded — the replica is disconnected or severely behind.

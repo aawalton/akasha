@@ -1,3 +1,0 @@
-pg_stat_archiver is reporting failed archive attempts (metric from the standalone postgres-exporter).
-
-PITR coverage is degrading.

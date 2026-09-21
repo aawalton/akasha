@@ -43,17 +43,6 @@
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/node-not-ready/node-not-ready.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/pod-crash-looping/pod-crash-looping.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/pod-pending/pod-pending.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/postgres-backup-metric-absent/postgres-backup-metric-absent.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/postgres-base-backup-stale-critical/postgres-base-backup-stale-critical.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/postgres-base-backup-stale/postgres-base-backup-stale.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/postgres-down/postgres-down.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/postgres-high-connections/postgres-high-connections.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/postgres-replication-lag/postgres-replication-lag.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/postgres-storage-growth-anomaly/postgres-storage-growth-anomaly.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/postgres-wal-archiving-failing/postgres-wal-archiving-failing.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/postgres-wal-archiving-stale/postgres-wal-archiving-stale.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/query-hard-ceiling-exceeded/query-hard-ceiling-exceeded.alert.ts"}
-{"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/query-perf-evaluator-absent/query-perf-evaluator-absent.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/seaweedfs-liveness-metric-absent/seaweedfs-liveness-metric-absent.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/seaweedfs-storage-high/seaweedfs-storage-high.alert.ts"}
 {"propertySlug":"import","fileName":"alert.page-type.types.ts","path":"infrastructure/alert/pages/seaweedfs-storage-runway-short/seaweedfs-storage-runway-short.alert.ts"}

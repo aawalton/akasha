@@ -1,1 +1,0 @@
-An active statement (queryid={{ $labels.queryid }}, role={{ $labels.role }}) has been running {{ $value | printf "%.0f" }}s, past the 30s hard ceiling. Inspect: SELECT pid, state, wait_event_type, query FROM pg_stat_activity WHERE query_id = {{ $labels.queryid }} AND state = 'active'. Cancel with pg_cancel_backend(pid) if runaway.

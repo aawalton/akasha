@@ -1,5 +1,0 @@
-Total connections have held above 75% of this server's own max_connections for 2m, measured against the server's setting rather than a fixed count.
-
-At the fastest ramp seen in 30d (~22 conn/min) that leaves roughly 3-4 minutes before connections are refused.
-
-Break it down with sum by (state, usename) (pg_stat_activity_count): a pile-up of idle connections under one user is a leaking client or an oversized pool rather than real load, and the active count is what says whether the server is actually busy.
