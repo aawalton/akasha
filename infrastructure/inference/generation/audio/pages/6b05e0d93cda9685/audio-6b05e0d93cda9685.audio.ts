@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audio6b05e0d93cda9685 = {
+  id: "01a0c650-1c91-7e95-b185-8d6b737bbff6",
+  type: "page-type/audio",
+  slug: "audio-6b05e0d93cda9685",
+  title: "moss-tts voice-clone @ 2026-07-24T22:19:22.414Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "I will begin at the beginning, and ask what is the accusation which has given rise to the slander of me, and in fact has encouraged Meletus to proof this charge against me. Well, what do the slanderers say? They shall be my prosecutors, and I will sum up their words in an affidavit: “Socrates is an evil-doer, and a curious person, who searches into things under the earth and in heaven, and he makes the worse appear the better cause; and he teaches the aforesaid doctrines to others.” Such is the nature of the accusation: it is just what you have yourselves seen in the comedy of Aristophanes, who has introduced a man whom he calls Socrates, going about and saying that he walks in air, and talking a deal of nonsense concerning matters of which I do not pretend to know either much or little—not that I mean to speak disparagingly of any one who is a student of natural philosophy. I should be very sorry if Meletus could bring so grave a charge against me. But the simple truth is, O Athenians, that I have nothing to do with physical speculations. Very many of those here present are witnesses to the truth of this, and to them I appeal. Speak then, you who have heard me, and tell your neighbours whether any of you have ever known me hold forth in few words or in many upon such matters...You hear their answer. And from what they say of this part of the charge you will be able to judge of the truth of the rest.",
+} as const satisfies Audio
