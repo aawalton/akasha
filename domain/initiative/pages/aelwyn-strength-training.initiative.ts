@@ -6,14 +6,7 @@ export const aelwynStrengthTraining = {
   slug: "aelwyn-strength-training",
   domain: "domain/fitness",
   persona: "persona/aelwyn",
-  intentStack: [
-    {
-      statement:
-        "A day's work is capped by a volume target that rises slowly and falls on a missed week.",
-      workingMemory:
-        "Alan crashes metabolically when he lifts too much; the last workout cost him two days. The target seeds at 3000 lb from 2026-09-21, rises 20 lb after a day that meets it, falls 100 lb after a week that never did. Reaching it turns the selector to cooldown. Warmups count.",
-    },
-  ],
+  intentStack: [],
   constraints: [
     "The 122 sets already logged stay readable through any change to how training is tracked.",
     "The fitness coaching notes bind what Alan is programmed to do; this initiative settles what is tracked.",
