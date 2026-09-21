@@ -40,5 +40,26 @@ export const attackResolution = {
       decisionKind: "decision-kind/departure",
       statement: "What the striker intends counts into the score, held between none and ten.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An intent saying no more than what is attempted counts two or less.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An intent that is specific and could work counts three to five.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An intent using something true of the scene counts six to eight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An intent using something true of the defender the striker read counts nine or ten.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An intent the striker's own sheet cannot support counts low whatever it says.",
+    },
   ],
 } as const satisfies GameMechanic
