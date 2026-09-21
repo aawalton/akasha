@@ -8,11 +8,6 @@ export const nimueImageManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every image an agent made outlives the machine that made it.",
-      workingMemory:
-        "999 generation-log rows were made by a run and name an absolute path: 970 under `~/Pictures/Generated`, which does not exist on this workstation, and 9 under `/tmp`. Only 112 of the 3,872 rows carry a `cover`, so only those have bytes in the object store. `akasha inference generate` writes where the caller says and persists only where asked.",
-    },
-    {
       statement: "Every root an image path is read against names a place some code resolves.",
       workingMemory:
         "39 `persona-anchor-image` pages, 44 `persona-wallpaper` pages and 2,873 generation-log rows state `image-root`. `personas` is `~/To Process/Personas` and `wallpapers` is `~/To Process/Wallpapers/Personas`, about 11,200 files and 15GB. Nothing in the repository maps either name to either place, so no reader can open those pictures.",
