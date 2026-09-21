@@ -6,5 +6,11 @@ export const awenEngineImprovements = {
   slug: "awen-engine-improvements",
   domain: "domain/story-engine",
   persona: "persona/awen",
-  intentStack: [{ statement: "Every row a turn writes is written by a command." }],
+  intentStack: [
+    {
+      statement: "A game is made of pages rather than rows holding whole documents.",
+      workingMemory:
+        "Shape settled with Alan: `game-entity` (replaces entities.jsonl, characters.jsonl and sheets/alan.json), `game-location` (replaces tower-floors), `game-encounter` (readable trait, gates). No session page type: a session number on the turn page. The log becomes a system-window record on the turn page. states.jsonl, turns.jsonl and tower-sessions.jsonl go. Migrate by a command reading the blobs at runtime, since no agent can read those lines. Start with game-entity.",
+    },
+  ],
 } as const satisfies Initiative
