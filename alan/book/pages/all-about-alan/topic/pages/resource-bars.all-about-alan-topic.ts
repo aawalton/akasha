@@ -7,4 +7,6 @@ export const resourceBars = {
   title: "Resource Bars",
   definition: "how much I have of each thing I run on",
   parents: ["all-about-alan-topic/resources"],
+  settled:
+    "I keep resource bars over my life the way a game keeps a stat sheet. Each bar is a continuous quantity, and I can tell apart the thresholds on it as I cross them.\n\nFour of them are nervous-system bars. Health is my stress capacity, mana is my executive function, stamina is my physical energy, and safety is my vagal tone. Money is a bar of its own alongside those four, outside the nervous system.\n\nThree of the four are one measurement of stress stacked up at different time scales. My stress level is the input, my stress capacity is that level added up, and my safety level is my capacity averaged again.\n\nMana and stamina sit beside that stack rather than inside it, one for the brain and one for the body.\n\nMy harness is the regulator over the whole set.\n",
 } as const satisfies AllAboutAlanTopic
