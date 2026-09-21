@@ -59,7 +59,7 @@ export function runMechanic(reading: Reading): Resolved {
     hit: banded.hit,
     band: banded.band,
     gate: GATE,
-    intent: Math.min(Math.max(reading.intent, 0), INTENT_MOST),
+    intent,
     margin,
     effectiveScore,
     damage: banded.hit ? Math.max(Math.round(dealt), DAMAGE_FLOOR) : 0,
