@@ -30,11 +30,11 @@ const NO_WINDOW = "5y"
 
 const ADDON = "temper-addon"
 
-const ADDON_SLUG = "held-addon"
+const ADDON_SLUG = "held-thing"
 
-const ADDON_PAGE = "temper/held-addon/held-addon.temper-addon.ts"
+const ADDON_PAGE = "temper/held-thing/held-thing.temper-addon.ts"
 
-const ADDON_ROWS = "temper/held-addon/held-addon.temper-addon.entries.uncommitted.jsonl"
+const ADDON_ROWS = "temper/held-thing/held-thing.temper-addon.entries.uncommitted.jsonl"
 
 const WHOLE = "service-workstation"
 

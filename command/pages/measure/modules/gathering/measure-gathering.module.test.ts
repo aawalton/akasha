@@ -18,11 +18,11 @@ import {
 } from "akasha/command/pages/measure/modules/gathering/measure-gathering.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
-const PAGE = "temper/held-addon/held-addon.temper-addon.ts"
+const PAGE = "temper/held-thing/held-thing.temper-addon.ts"
 
-const FIRST = "temper/held-addon/held-addon.temper-addon.entries.uncommitted.jsonl"
+const FIRST = "temper/held-thing/held-thing.temper-addon.entries.uncommitted.jsonl"
 
-const SECOND = "temper/held-addon/held-addon.temper-addon.entries.part2.uncommitted.jsonl"
+const SECOND = "temper/held-thing/held-thing.temper-addon.entries.part2.uncommitted.jsonl"
 
 const NOT_JSON = "{not json"
 

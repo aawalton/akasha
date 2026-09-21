@@ -25,11 +25,11 @@ const CHOSEN = saidForPart([runWindow], page.arguments[0]?.argument ?? "")
 
 const NO_WINDOW = "5y"
 
-const BESIDE = "temper/held-addon/held-addon.temper-addon.entries.uncommitted.jsonl"
+const BESIDE = "temper/held-thing/held-thing.temper-addon.entries.uncommitted.jsonl"
 
-const DEEPER = "temper/held-addon/inner/inner-thing.module.entries.part2.uncommitted.jsonl"
+const DEEPER = "temper/held-thing/inner/inner-thing.module.entries.part2.uncommitted.jsonl"
 
-const WALKED_PAST = "node_modules/held-addon/held-addon.module.entries.uncommitted.jsonl"
+const WALKED_PAST = "node_modules/held-thing/held-thing.module.entries.uncommitted.jsonl"
 
 const scratch = scratchWorld()
 
