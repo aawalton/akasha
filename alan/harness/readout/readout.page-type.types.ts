@@ -2,7 +2,6 @@ import type { Attribute } from "akasha/alan/harness/readout/properties/attribute
 import type { ColorFrom } from "akasha/alan/harness/readout/properties/color-from.relation-property.types.ts"
 import type { ColorSlug } from "akasha/alan/harness/readout/properties/color-slug.text-property.types.ts"
 import type { DrawnAs } from "akasha/alan/harness/readout/properties/drawn-as.select-property.types.ts"
-import type { EarnedKey } from "akasha/alan/harness/readout/properties/earned-key.text-property.types.ts"
 import type { Groups } from "akasha/alan/harness/readout/properties/groups.relation-property.types.ts"
 import type { Label } from "akasha/alan/harness/readout/properties/label.text-property.types.ts"
 import type { LastValue } from "akasha/alan/harness/readout/properties/last-value.number-property.types.ts"
@@ -29,7 +28,6 @@ export type Readout = Domain & {
   scale?: Scale
   colorSlug?: ColorSlug
   colorFrom?: ColorFrom
-  earnedKey?: EarnedKey
   attribute?: Attribute
   groups?: Groups
   noneLeftWords?: NoneLeftWords

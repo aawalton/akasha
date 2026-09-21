@@ -9,5 +9,4 @@ export const dailyInbox = {
   redAt: 10,
   yellowAt: 1,
   blueAt: 0,
-  earnedColorSlug: "green",
 } as const satisfies ReadoutScale

@@ -64,7 +64,6 @@ const SCALE_ROWS: Record<string, Record<string, unknown>> = {
     redAt: 10,
     yellowAt: 1,
     blueAt: 0,
-    earnedColorSlug: "green",
   },
   "lowest-inbox-count": {
     slug: "lowest-inbox-count",

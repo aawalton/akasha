@@ -24,7 +24,6 @@ export const readoutScale = {
     "readout-scale/safety-level",
     "readout-scale/sleep-hours",
     "readout-scale/surplus-hours",
-    "text-property/earned-color-slug",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -34,7 +33,6 @@ export const readoutScale = {
     { pageProperty: "number-property/yellow-at", required: false, many: false },
     { pageProperty: "number-property/green-at", required: false, many: false },
     { pageProperty: "number-property/blue-at", required: false, many: false },
-    { pageProperty: "text-property/earned-color-slug", required: false, many: false },
   ],
   decisions: [
     {
@@ -57,14 +55,6 @@ export const readoutScale = {
     {
       decisionKind: "decision-kind/constraint",
       statement: "Orange is a rung a stoplight strip cannot draw.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A scale states the color an earned reading takes rather than a rung.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A scale stating no earned color has no reading earn a color against that scale.",
     },
   ],
   types: "ts",

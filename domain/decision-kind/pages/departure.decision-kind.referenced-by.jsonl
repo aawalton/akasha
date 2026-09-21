@@ -915,14 +915,12 @@
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/color-from.relation-property.ts","id":"01a063bd-a526-7595-8a5b-3e28242bfe2b"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/color-slug.text-property.ts","id":"01a063bd-a526-78ae-ab87-fd2bf86d9fad"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/drawn-as.select-property.ts","id":"01a063bd-a526-78b3-ad87-dc9525cc297e"}
-{"propertySlug":"decision-kind","path":"alan/harness/readout/properties/earned-key.text-property.ts","id":"01a06230-b155-73b6-8478-2a373c60f343"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/read-live-from.relation-property.ts","id":"01a06559-e74c-7e30-bbec-7604ae4f8dc5"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/readout-enabled.boolean-property.ts","id":"01a063bd-a526-7356-a7bd-00f589dcdc18"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/went-silent-at.instant-property.ts","id":"01a08caf-b3c1-73e9-9237-f5ea2af2731e"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/wire-key.text-property.ts","id":"01a05446-e768-7d56-aeef-7ab30139e500"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/scale/pages/surplus-hours.readout-scale.ts","id":"01a05fc3-145a-7dca-83d9-5316786fa83c"}
-{"propertySlug":"decision-kind","path":"alan/harness/readout/scale/properties/earned-color-slug.text-property.ts","id":"01a06230-b155-7e50-83eb-ed2efad60e63"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/scale/readout-scale.page-type.ts","id":"01a05446-e75f-756a-b8d9-4288a350957f"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/stoplight/stoplight.domain.ts","id":"01a0655b-9cdc-7c65-845c-0fcbf73b73dc"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/widget/readout-widget.page-type.ts","id":"01a05480-1c86-7e95-b799-63b1c0152f62"}

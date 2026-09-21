@@ -41,7 +41,6 @@ export const readout = {
     "relation-property/scale",
     "select-property/drawn-as",
     "text-property/color-slug",
-    "text-property/earned-key",
     "text-property/label",
     "text-property/none-left-emoji",
     "text-property/none-left-words",
@@ -63,7 +62,6 @@ export const readout = {
     { pageProperty: "relation-property/scale", required: false, many: false },
     { pageProperty: "text-property/color-slug", required: false, many: false },
     { pageProperty: "relation-property/color-from", required: false, many: false },
-    { pageProperty: "text-property/earned-key", required: false, many: false },
     { pageProperty: "relation-property/attribute", required: false, many: false },
     {
       pageProperty: "relation-property/groups",
@@ -118,14 +116,6 @@ export const readout = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A readout names its scale rather than carrying a scale.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A readout names the fact that earns a color rather than naming the color.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Which color is earned belongs to the scale rather than to the readout.",
     },
     {
       decisionKind: "decision-kind/departure",

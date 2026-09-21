@@ -145,13 +145,11 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-link.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-source.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/color-slug.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/earned-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/label.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/none-left-emoji.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/none-left-words.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/unit.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/wire-key.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/scale/properties/earned-color-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/widget/properties/caption.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/widget/properties/families.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/widget/properties/gallery-description.text-property.ts"}
