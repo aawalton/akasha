@@ -18,7 +18,7 @@ import {
 import {
   asLsmCastThisVoidOptionsRecordStringUnknownUndefinedUnk,
   asLsmCastThisVoidPreventerVarNameStringLuaMultiReturnBo,
-} from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+} from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-3c/scrollable-menu-casts-3c.module.code.ts"
 import {
   asObject,
   asString,

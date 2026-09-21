@@ -8,10 +8,8 @@ import {
   asLsmCastRecordStringUnknownUnknown,
 } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import { asLsmCastStringUndefined } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-2c/scrollable-menu-casts-2c.module.code.ts"
-import {
-  asLsmCastThisVoidIconPathStringWidthNumberStringHeightN,
-  asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd,
-} from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+import { asLsmCastThisVoidIconPathStringWidthNumberStringHeightN } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
+import { asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-3c/scrollable-menu-casts-3c.module.code.ts"
 import {
   asLsmCastUnknown,
   asLsmMultiIconControl,
