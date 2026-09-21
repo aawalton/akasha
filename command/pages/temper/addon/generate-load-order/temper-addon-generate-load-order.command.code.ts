@@ -12,11 +12,11 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperAddonGenerateLoadOrder as page } from "akasha/command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { writeLoadOrder } from "akasha/temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"
 import {
   listAllAddons,
   resolveAddon,
-} from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
+} from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
+import { writeLoadOrder } from "akasha/temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"
 
 const NAMED = [codeRootArgument, addon]
 

@@ -2,6 +2,11 @@ import { existsSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
+import { listAllAddons } from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
+import {
+  readSiblingAddonNames,
+  siblingDistDir,
+} from "akasha/temper/addon/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 import {
   ADDON_BUILD_REL_ROOT,
   compilerConfigPathFor,
@@ -13,11 +18,6 @@ import {
   compilerEntry,
   compilerRoot,
 } from "akasha/temper/addon-build/modules/lua-build-command/lua-build-command.module.code.ts"
-import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
-import {
-  readSiblingAddonNames,
-  siblingDistDir,
-} from "akasha/temper/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"
 
 const DIST_UNDER = "dist"
 const BUNDLE_SUFFIX = ".lua"
@@ -37,7 +37,7 @@ function refusing(reason: string, done: readonly string[] = []): Compiled {
   return { lines: [...done], refusals: [reason] }
 }
 
-export function bundlePathFor(root: string, canonicalName: string): string {
+function bundlePathFor(root: string, canonicalName: string): string {
   return join(
     root,
     ADDON_BUILD_REL_ROOT,

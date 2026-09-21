@@ -1,10 +1,10 @@
 import { readFileSync } from "node:fs"
-import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addon/addons-resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
   type AddonInfo,
   listAllAddons,
-} from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
+} from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   type AddonFloorInput,
   auditDependencyFloors,

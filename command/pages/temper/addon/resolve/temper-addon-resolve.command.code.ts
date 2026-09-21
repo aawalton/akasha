@@ -14,7 +14,7 @@ import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts
 import {
   listAllAddons,
   resolveAddon,
-} from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
+} from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 
 const NAMED = [codeRootArgument, addonName]
 

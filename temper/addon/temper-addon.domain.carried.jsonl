@@ -1,5 +1,5 @@
 {"definition":"the add-ons temper runs inside the game, and what builds them"}
 {"id":"01a0c454-aab8-797e-8865-0a27bc2013c4"}
-{"parts":["domain/temper-addon-library","domain/temper-addon-library-type","eso-addon/temper-capture-datamining-addon","eso-addon/temper-capture-sales-addon","eso-addon/temper-errors-addon","eso-addon/temper-catalog-addon","eso-addon/temper-collections-addon","eso-addon/temper-quests-addon","eso-addon/temper-hud-addon","eso-addon/temper-selector-addon","eso-addon/temper-events-addon","domain/temper-addon-log","domain/temper-narrow","domain/temper-settings-panel","eso-addon/temper-keybinder-addon","domain/temper-community-addon","domain/temper-hud-component"]}
+{"parts":["domain/temper-addon-library","domain/temper-addon-library-type","eso-addon/temper-capture-datamining-addon","eso-addon/temper-capture-sales-addon","eso-addon/temper-errors-addon","eso-addon/temper-catalog-addon","eso-addon/temper-collections-addon","eso-addon/temper-quests-addon","eso-addon/temper-hud-addon","eso-addon/temper-selector-addon","eso-addon/temper-events-addon","domain/temper-addon-log","domain/temper-narrow","domain/temper-settings-panel","eso-addon/temper-keybinder-addon","domain/temper-community-addon","domain/temper-hud-component","eso-addon/temper-trading-addon","domain/temper-addons-resolve"]}
 {"slug":"temper-addon"}
 {"type":"page-type/domain"}

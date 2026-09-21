@@ -535,6 +535,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world-lore/world-lore.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world/mechanics/ability/ability.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-build/temper-addon-build.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/addons-resolve/temper-addons-resolve.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/community-addon/temper-community-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/hud-component/temper-hud-component.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/library-type/temper-addon-library-type.domain.ts"}
@@ -544,7 +545,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/narrow/temper-narrow.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/settings-panel/temper-settings-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/temper-addon.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addons-resolve/temper-addons-resolve.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/alchemy/temper-alchemy.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/bit-codec/temper-bit-codec.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-codec/temper-build-codec.domain.ts"}

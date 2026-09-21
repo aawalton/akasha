@@ -15,8 +15,8 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperCommunityAddonInstall as page } from "akasha/command/pages/temper/community/addon-install/temper-community-addon-install.command.ts"
+import { listDeployables } from "akasha/temper/addon/addons-resolve/modules/deployable-addons/deployable-addons.module.code.ts"
 import { installNamedAddon } from "akasha/temper/addon/community-addon/modules/install-named-addon/install-named-addon.module.code.ts"
-import { listDeployables } from "akasha/temper/addons-resolve/modules/deployable-addons/deployable-addons.module.code.ts"
 import { addonsDir } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const NAMED = [json, codeRoot, addonsDirArgument, force, communityAddon]

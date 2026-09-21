@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/addon/trading-addon/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.test.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"}
@@ -61,7 +62,6 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/player-inventory-management-ui/modules/rule-location-filter-select/rule-location-filter-select.module.code.tsx"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/trading-addon/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.test.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts"}

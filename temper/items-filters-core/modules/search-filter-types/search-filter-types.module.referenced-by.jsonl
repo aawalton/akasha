@@ -1,3 +1,6 @@
+{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/addon/trading-addon/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}
+{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
+{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/addon/trading-addon/modules/trading-search-request-native/trading-search-request-native.module.code.ts"}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items-filters-addon/modules/filter-bar/filter-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"}
@@ -33,7 +36,4 @@
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items-filters-core/modules/search-treasure-map-filter/search-treasure-map-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items-filters-core/modules/search-value-filter/search-value-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items-filters-core/modules/search-weapon-type-filter/search-weapon-type-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/trading-addon/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}
-{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
-{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/trading-addon/modules/trading-search-request-native/trading-search-request-native.module.code.ts"}
 {"propertySlug":"parts","path":"temper/items-filters-core/temper-items-filters-core.domain.ts","id":"01a0613a-e0b3-78d9-aaac-decd150b1b76"}

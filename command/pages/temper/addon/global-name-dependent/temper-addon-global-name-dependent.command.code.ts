@@ -13,14 +13,14 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperAddonGlobalNameDependent as page } from "akasha/command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addon/addons-resolve/modules/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { listAllAddons } from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   type DependentSourceFile,
   enumerateGlobalDependents,
   type GlobalDependentReport,
 } from "akasha/temper/addon-build/modules/global-name-dependents/global-name-dependents.module.code.ts"
-import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
-import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
-import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import { collectGlobalWritesFromSource } from "akasha/temper/build-deploy-check/modules/addon-global-ownership/addon-global-ownership.module.code.ts"
 
 const NAMED = [codeRootArgument, globalArgument, json]

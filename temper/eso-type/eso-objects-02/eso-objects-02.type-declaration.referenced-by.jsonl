@@ -1,8 +1,8 @@
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/items-filters-addon/modules/filter-bar/filter-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/trading-addon/modules/trading-saved-search-bar/trading-saved-search-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/trading-addon/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/trading-addon/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso-type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

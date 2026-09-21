@@ -7,7 +7,6 @@ export const temper = {
   definition: "a companion suite for The Elder Scrolls Online",
   parts: [
     "domain/temper-addon-build",
-    "domain/temper-addons-resolve",
     "domain/temper-alchemy",
     "domain/temper-bit-codec",
     "domain/temper-build-codec",
@@ -94,7 +93,6 @@ export const temper = {
     "eso-addon/temper-items-addon",
     "eso-addon/temper-lib-scrollable-menu",
     "eso-addon/temper-navigation-addon",
-    "eso-addon/temper-trading-addon",
     "module/addon-init",
     "module/assert-schema-matches-payload",
     "module/auto-quest-trace",

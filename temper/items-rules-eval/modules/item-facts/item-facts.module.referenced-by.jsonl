@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/addon/trading-addon/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/addon/trading-addon/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/command/modules/inventory-item-facts/inventory-item-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
@@ -35,6 +37,4 @@
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items-rules-matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items-rules-matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items-rules-matcher/modules/web-item-facts/web-item-facts.module.code.ts"}
-{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/trading-addon/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}
-{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/trading-addon/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"parts","path":"temper/items-rules-eval/temper-items-rules-eval.domain.ts","id":"01a06137-f96e-7a28-9f74-f5d1bea03036"}

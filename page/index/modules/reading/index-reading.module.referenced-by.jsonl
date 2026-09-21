@@ -304,8 +304,8 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon-build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon-build/modules/build-output/build-output.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon-build/modules/lua-build-command/lua-build-command.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
@@ -408,6 +408,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/type/modules/type-turning/type-turning.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addon-build/modules/addon-placing/addon-placing.module.test.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.test.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addons-resolve/modules/sibling-addons/sibling-addons.module.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"temper/addon/addons-resolve/modules/sibling-addons/sibling-addons.module.test.ts"}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

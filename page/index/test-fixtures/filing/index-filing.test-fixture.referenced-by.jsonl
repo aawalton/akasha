@@ -108,6 +108,6 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"page/type/modules/type-turning/type-turning.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addon-build/modules/addon-metadata-files/addon-metadata-files.module.test.ts"}
-{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.test.ts"}
-{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addons-resolve/modules/sibling-addons/sibling-addons.module.test.ts"}
+{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.test.ts"}
+{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addon/addons-resolve/modules/sibling-addons/sibling-addons.module.test.ts"}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}
