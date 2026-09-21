@@ -1,0 +1,17 @@
+import {
+  hideMiniMap,
+  initializeMainControl,
+  onMoveStop,
+} from "akasha/temper/catalog/temper-world/lost-treasure/modules/lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts"
+
+globalThis.TemperLostTreasure = {
+  OnInitialized: (control: Control): undefined => {
+    initializeMainControl(control)
+  },
+  OnMoveStop: (): undefined => {
+    onMoveStop()
+  },
+  Hide: (): undefined => {
+    hideMiniMap()
+  },
+}

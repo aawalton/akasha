@@ -156,6 +156,10 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/navigation-addon/minimap-string-ids/minimap-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/navigation-addon/navigation-declarations/navigation-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/trading-addon/trading-globals-declarations/trading-globals-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/temper-world/dungeon-champion/dungeon-champion-global-declarations/dungeon-champion-global-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/temper-world/dungeon-champion/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/temper-world/lost-treasure/lost-treasure-global-declarations/lost-treasure-global-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/temper-world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/temper-world/skyshard/skyshards-controls/skyshards-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/temper-world/skyshard/skyshards-global-declarations/skyshards-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/temper-world/skyshard/skyshards-string-ids/skyshards-string-ids.type-declaration.ts"}
@@ -163,8 +167,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/crafting-addon/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/dungeon-champion/dungeon-champion-global-declarations/dungeon-champion-global-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/dungeon-champion/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-type/eso-addon-list/eso-addon-list.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-type/eso-addon-manager/eso-addon-manager.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso-type/eso-addon-screen/eso-addon-screen.type-declaration.ts"}
@@ -266,8 +268,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebook/lorebooks-controls/lorebooks-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebook/lorebooks-public-api-declarations/lorebooks-public-api-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lost-treasure/lost-treasure-global-declarations/lost-treasure-global-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/skill-point-finder/skill-point-finder-api-declarations/skill-point-finder-api-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/skill-point-finder/skill-point-finder-controls/skill-point-finder-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/skill-point-finder/skill-point-finder-string-ids/skill-point-finder-string-ids.type-declaration.ts"}

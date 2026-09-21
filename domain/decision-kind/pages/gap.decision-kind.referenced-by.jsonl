@@ -461,6 +461,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-skill/temper-scribed-skill/properties/focus-script-id.text-property.ts","id":"01a05fca-cb82-7061-bc09-5c8739182b83"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-skill/temper-scribed-skill/properties/grimoire-id.text-property.ts","id":"01a05fca-cb83-73a3-afc2-bf571210f393"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-skill/temper-scribing-source/properties/zone-slugs.text-property.ts","id":"01a05fca-cb88-7387-b51b-731bff669c39"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.module.ts","id":"01a060f9-bad1-7202-bef3-dc48b30536e9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.ts","id":"01a060f9-bad8-7db9-82ae-dfa276bad382"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/temper-quest-giver/properties/epoch.text-property.ts","id":"01a05fc4-7a91-7076-af1b-6ce3e35e4b9a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/quality.text-property.ts","id":"01a05fb0-3ced-77db-9e30-4e6234c93115"}
@@ -748,8 +750,6 @@
 {"propertySlug":"decision-kind","path":"temper/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
 {"propertySlug":"decision-kind","path":"temper/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
 {"propertySlug":"decision-kind","path":"temper/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
-{"propertySlug":"decision-kind","path":"temper/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.module.ts","id":"01a060f9-bad1-7202-bef3-dc48b30536e9"}
-{"propertySlug":"decision-kind","path":"temper/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.ts","id":"01a060f9-bad8-7db9-82ae-dfa276bad382"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts","id":"01a060cf-b0b2-743e-9d82-ea94a110b9cb"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.ts","id":"01a060bf-747d-7dee-bf58-1559bc114b90"}
 {"propertySlug":"decision-kind","path":"temper/equipment-kind/modules/armor-slots/armor-slots.module.ts","id":"01a060b8-08c4-79bd-a673-660169cf2ee9"}

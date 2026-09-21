@@ -574,6 +574,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-effect/temper-effect.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-gear/temper-gear.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-pursuit/temper-pursuit.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-world/dungeon-champion/temper-dungeon-champion.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-world/lost-treasure/temper-lost-treasure.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-world/skyshard/temper-skyshard.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-world/temper-world.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/upstream-data/temper-upstream-data.domain.ts"}
@@ -588,7 +590,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companion-codec/temper-companion-codec.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companions-core/temper-companions-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion/temper-completion.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/shopping/temper-shopping.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/temper-economy.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/trading/listing/temper-trading-listing.domain.ts"}
@@ -621,7 +622,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/inventory-automation/temper-inventory-automation.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/temper-items.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lorebook/temper-lorebook.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lost-treasure/temper-lost-treasure.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion/temper-player-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-economics-ui/temper-player-economics-ui.domain.ts"}
