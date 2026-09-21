@@ -128,6 +128,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/game-characters.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/gm-context.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/lore-entries.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/mechanic-runs.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/narrative-continuity.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/resolution-mechanism.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/rolls.file-property.ts"}

@@ -1638,6 +1638,7 @@
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-turning/panel-turning.module.ts","id":"01a0c4a9-ae08-7564-ae1b-c05deab3547b"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/pool-panel/pool-panel.module.ts","id":"01a0c4a1-be31-7274-b419-1776b8ae4de4"}
 {"propertySlug":"decision-kind","path":"story/game/panel/properties/drawn.file-property.ts","id":"01a0c4aa-d1e0-72a8-83ce-aa0c398fe652"}
+{"propertySlug":"decision-kind","path":"story/game/properties/mechanic-runs.file-property.ts","id":"01a0c4b7-02d8-76e0-a14b-978b3d05eb61"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-beside/game-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
