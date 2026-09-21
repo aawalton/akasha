@@ -9,10 +9,6 @@ export const olwenDesignSystem = {
   intentStack: [
     {
       statement:
-        "Every panel in the design system gallery is laid out on its own rather than inside a group.",
-    },
-    {
-      statement:
         "The design system gallery shows the badge of every display variant the property system has.",
     },
   ],
