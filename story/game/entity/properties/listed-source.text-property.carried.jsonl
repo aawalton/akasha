@@ -1,8 +1,8 @@
-{"definition":"where one of the things a sheet lists came from"}
+{"definition":"where one of the things in a page's list came from"}
 {"id":"01a0c637-3967-7b13-9eb2-5a5de928990a"}
 {"maxLength":300}
 {"nameFormat":null}
 {"propertySlug":"source"}
-{"slug":"sheet-source"}
+{"slug":"listed-source"}
 {"type":"page-type/text-property"}
 {"types":"ts"}

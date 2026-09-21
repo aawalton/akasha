@@ -7,12 +7,12 @@ export const entityAffinities = {
   propertySlug: "affinities",
   definition: "what an entity is attuned to, and how far each attunement has climbed",
   properties: [
-    { pageProperty: "text-property/sheet-name", required: true, many: false },
+    { pageProperty: "text-property/listed-name", required: true, many: false },
     { pageProperty: "text-property/affinity-type", required: true, many: false },
     { pageProperty: "text-property/affinity-tier", required: true, many: false },
     { pageProperty: "number-property/affinity-counter", required: true, many: false },
-    { pageProperty: "text-property/sheet-effect", required: false, many: false },
-    { pageProperty: "text-property/sheet-source", required: false, many: false },
+    { pageProperty: "text-property/listed-effect", required: false, many: false },
+    { pageProperty: "text-property/listed-source", required: false, many: false },
   ],
   decisions: [
     {

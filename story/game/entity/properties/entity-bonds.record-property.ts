@@ -7,15 +7,15 @@ export const entityBonds = {
   propertySlug: "bonds",
   definition: "who an entity is tied to, and what the tie couples on each side",
   properties: [
-    { pageProperty: "text-property/sheet-name", required: true, many: false },
+    { pageProperty: "text-property/listed-name", required: true, many: false },
     { pageProperty: "relation-property/bound-entity", required: true, many: false },
     { pageProperty: "text-property/bond-direction", required: true, many: false },
     { pageProperty: "relation-property/bond-attribute", required: false, many: false },
     { pageProperty: "relation-property/bound-attribute", required: false, many: false },
     { pageProperty: "boolean-property/bond-grows", required: false, many: false },
     { pageProperty: "number-property/established-turn", required: false, many: false },
-    { pageProperty: "text-property/sheet-note", required: false, many: false },
-    { pageProperty: "text-property/sheet-source", required: false, many: false },
+    { pageProperty: "text-property/listed-note", required: false, many: false },
+    { pageProperty: "text-property/listed-source", required: false, many: false },
   ],
   decisions: [
     {

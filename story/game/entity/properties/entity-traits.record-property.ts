@@ -7,9 +7,9 @@ export const entityTraits = {
   propertySlug: "traits",
   definition: "what is true of an entity that no number on its sheet says",
   properties: [
-    { pageProperty: "text-property/sheet-name", required: true, many: false },
-    { pageProperty: "text-property/sheet-effect", required: true, many: false },
-    { pageProperty: "text-property/sheet-source", required: false, many: false },
+    { pageProperty: "text-property/listed-name", required: true, many: false },
+    { pageProperty: "text-property/listed-effect", required: true, many: false },
+    { pageProperty: "text-property/listed-source", required: false, many: false },
   ],
   decisions: [
     {

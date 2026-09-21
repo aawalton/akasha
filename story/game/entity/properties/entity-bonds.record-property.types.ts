@@ -5,18 +5,18 @@ import type { BondGrows } from "akasha/story/game/entity/properties/bond-grows.b
 import type { BoundAttribute } from "akasha/story/game/entity/properties/bound-attribute.relation-property.types.ts"
 import type { BoundEntity } from "akasha/story/game/entity/properties/bound-entity.relation-property.types.ts"
 import type { EstablishedTurn } from "akasha/story/game/entity/properties/established-turn.number-property.types.ts"
-import type { SheetName } from "akasha/story/game/entity/properties/sheet-name.text-property.types.ts"
-import type { SheetNote } from "akasha/story/game/entity/properties/sheet-note.text-property.types.ts"
-import type { SheetSource } from "akasha/story/game/entity/properties/sheet-source.text-property.types.ts"
+import type { ListedName } from "akasha/story/game/entity/properties/listed-name.text-property.types.ts"
+import type { ListedNote } from "akasha/story/game/entity/properties/listed-note.text-property.types.ts"
+import type { ListedSource } from "akasha/story/game/entity/properties/listed-source.text-property.types.ts"
 
 export type EntityBonds = List<{
-  name: SheetName
+  name: ListedName
   entity: BoundEntity
   direction: BondDirection
   attribute?: BondAttribute
   boundAttribute?: BoundAttribute
   grows?: BondGrows
   establishedTurn?: EstablishedTurn
-  note?: SheetNote
-  source?: SheetSource
+  note?: ListedNote
+  source?: ListedSource
 }>

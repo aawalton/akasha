@@ -1,7 +1,7 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"An affinity holds the tier it climbed to rather than the most that tier allows."},{"decisionKind":"decision-kind/departure","statement":"An affinity climbs a tier by a mechanic rather than by its counter filling."}]}
 {"definition":"what an entity is attuned to, and how far each attunement has climbed"}
 {"id":"01a0c638-e681-7f8b-9e65-06059960ba7c"}
-{"properties":[{"pageProperty":"text-property/sheet-name","required":true,"many":false},{"pageProperty":"text-property/affinity-type","required":true,"many":false},{"pageProperty":"text-property/affinity-tier","required":true,"many":false},{"pageProperty":"number-property/affinity-counter","required":true,"many":false},{"pageProperty":"text-property/sheet-effect","required":false,"many":false},{"pageProperty":"text-property/sheet-source","required":false,"many":false}]}
+{"properties":[{"pageProperty":"text-property/listed-name","required":true,"many":false},{"pageProperty":"text-property/affinity-type","required":true,"many":false},{"pageProperty":"text-property/affinity-tier","required":true,"many":false},{"pageProperty":"number-property/affinity-counter","required":true,"many":false},{"pageProperty":"text-property/listed-effect","required":false,"many":false},{"pageProperty":"text-property/listed-source","required":false,"many":false}]}
 {"propertySlug":"affinities"}
 {"slug":"entity-affinities"}
 {"type":"page-type/record-property"}

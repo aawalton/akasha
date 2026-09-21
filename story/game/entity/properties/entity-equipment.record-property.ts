@@ -7,12 +7,12 @@ export const entityEquipment = {
   propertySlug: "equipment",
   definition: "what an entity wears, holds and carries, and what each of them is worth",
   properties: [
-    { pageProperty: "text-property/sheet-name", required: true, many: false },
+    { pageProperty: "text-property/listed-name", required: true, many: false },
     { pageProperty: "text-property/equipment-slot", required: false, many: false },
     { pageProperty: "number-property/equipment-attack", required: false, many: false },
     { pageProperty: "number-property/equipment-defense", required: false, many: false },
     { pageProperty: "relation-property/scaled-by", required: false, many: false },
-    { pageProperty: "text-property/sheet-note", required: false, many: false },
+    { pageProperty: "text-property/listed-note", required: false, many: false },
   ],
   decisions: [
     {

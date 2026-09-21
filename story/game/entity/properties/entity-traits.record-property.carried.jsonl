@@ -1,7 +1,7 @@
 {"decisions":[{"decisionKind":"decision-kind/departure","statement":"A trait is what an entity is rather than what an entity has learnt."}]}
 {"definition":"what is true of an entity that no number on its sheet says"}
 {"id":"01a0c637-533c-7d20-91d2-bcd683e32b4e"}
-{"properties":[{"pageProperty":"text-property/sheet-name","required":true,"many":false},{"pageProperty":"text-property/sheet-effect","required":true,"many":false},{"pageProperty":"text-property/sheet-source","required":false,"many":false}]}
+{"properties":[{"pageProperty":"text-property/listed-name","required":true,"many":false},{"pageProperty":"text-property/listed-effect","required":true,"many":false},{"pageProperty":"text-property/listed-source","required":false,"many":false}]}
 {"propertySlug":"traits"}
 {"slug":"entity-traits"}
 {"type":"page-type/record-property"}

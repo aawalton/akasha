@@ -7,9 +7,9 @@ export const entityTitles = {
   propertySlug: "titles",
   definition: "what an entity's game has named it for, and what each naming does",
   properties: [
-    { pageProperty: "text-property/sheet-name", required: true, many: false },
-    { pageProperty: "text-property/sheet-effect", required: true, many: false },
-    { pageProperty: "text-property/sheet-source", required: false, many: false },
+    { pageProperty: "text-property/listed-name", required: true, many: false },
+    { pageProperty: "text-property/listed-effect", required: true, many: false },
+    { pageProperty: "text-property/listed-source", required: false, many: false },
   ],
   decisions: [
     {

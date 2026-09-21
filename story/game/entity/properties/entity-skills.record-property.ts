@@ -7,10 +7,10 @@ export const entitySkills = {
   propertySlug: "skills",
   definition: "what an entity has learnt to do, and how far each one has come",
   properties: [
-    { pageProperty: "text-property/sheet-name", required: true, many: false },
+    { pageProperty: "text-property/listed-name", required: true, many: false },
     { pageProperty: "number-property/skill-progress", required: true, many: false },
-    { pageProperty: "text-property/sheet-effect", required: true, many: false },
-    { pageProperty: "text-property/sheet-source", required: false, many: false },
+    { pageProperty: "text-property/listed-effect", required: true, many: false },
+    { pageProperty: "text-property/listed-source", required: false, many: false },
   ],
   decisions: [
     {
