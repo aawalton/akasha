@@ -5533,6 +5533,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/lua-array/lua-array.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/arithmetic-node/arithmetic-node.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/base-stat/base-stat.module.ts"}
@@ -6188,9 +6191,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-morph-access/modules/character-skill-morph-transform/character-skill-morph-transform.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/skill-morph-access/modules/morph-completion-shapes/morph-completion-shapes.module.ts"}

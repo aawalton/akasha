@@ -157,7 +157,6 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/musicbrainz-client/musicbrainz-client.module.ts","id":"01a06262-ff4c-7000-b193-5ca094701486"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.ts","id":"01a09c80-78b1-747b-b16d-c003ab8e4aa7"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
-{"propertySlug":"decision-kind","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.ts","id":"01a0c48f-9abd-747d-802b-08b86404c189"}
 {"propertySlug":"decision-kind","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/fetching/spotify-fetching.module.ts","id":"01a06261-dc1d-700f-a5c9-3bfc9c2b5371"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/releases/spotify-releases.module.ts","id":"01a09c6f-017f-70b7-a662-48904bec6460"}
@@ -1212,6 +1211,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-array/lua-array.module.ts","id":"01a06053-3636-7157-ade2-a72c0d19b41c"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.ts","id":"01a06053-3635-710f-8f31-18095cf8a395"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.ts","id":"01a06053-3635-7645-b6ba-ffae9f98d01e"}
+{"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
 {"propertySlug":"decision-kind","path":"temper/formula-framework/modules/eso-date/eso-date.module.ts","id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
 {"propertySlug":"decision-kind","path":"temper/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}
@@ -1391,7 +1391,6 @@
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.ts","id":"01a06108-2ff9-767b-92d7-7dbd5671e738"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.ts","id":"01a06108-2ffa-7ddc-a07c-2ee34cb56f5c"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
-{"propertySlug":"decision-kind","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.ts","id":"01a060ec-5841-70ce-a022-116830ebd04a"}
 {"propertySlug":"decision-kind","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.ts","id":"01a06381-35cf-79d7-a1eb-ab708052aacb"}

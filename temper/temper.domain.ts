@@ -38,7 +38,6 @@ export const temper = {
     "domain/temper-player-economics-ui",
     "domain/temper-player-inventory-management-ui",
     "domain/temper-progress",
-    "domain/temper-saved-vars-migration",
     "domain/temper-skill-morph",
     "domain/temper-skill-morph-access",
     "domain/temper-skill-point-finder",

@@ -607,6 +607,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/declaration/temper-eso-declaration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/path/temper-eso-path.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/saved-variable/saved-vars-migration/temper-saved-vars-migration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/temper-eso.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/formula-framework/temper-formula-framework.domain.ts"}
@@ -628,7 +629,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-inventory-management-ui/temper-player-inventory-management-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/temper-player.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/progress/temper-progress.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph-access/temper-skill-morph-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph/temper-skill-morph.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts"}

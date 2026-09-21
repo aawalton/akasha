@@ -5,7 +5,13 @@ export const temperSavedVariable = {
   type: "page-type/domain",
   slug: "temper-saved-variable",
   definition: "the Lua file the game writes an add-on's own state into",
-  parts: ["module/account-wide", "module/lua-array", "module/lua-parser", "module/lua-serializer"],
+  parts: [
+    "module/account-wide",
+    "module/lua-array",
+    "module/lua-parser",
+    "module/lua-serializer",
+    "domain/temper-saved-vars-migration",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

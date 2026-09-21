@@ -25,12 +25,12 @@ import {
 import {
   migrateBundleMemberSavedVars,
   readDeclaredSavedVars,
-} from "akasha/temper/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.code.ts"
+} from "akasha/temper/eso/saved-variable/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.code.ts"
 import {
   appendAddonSavedVars,
   type ConsolidationMigration,
   migrateAddonSavedVars,
-} from "akasha/temper/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts"
+} from "akasha/temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts"
 
 const DIST = "dist"
 const SHOWN = 10

@@ -4,7 +4,7 @@ import {
   extractMemberGlobalBlocks,
   extractTopLevelBlock,
   renameGlobals,
-} from "akasha/temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.code.ts"
+} from "akasha/temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.code.ts"
 
 const FILE = ["A_SavedVariables =", "{", "  x = 1,", "}", "B_SavedVariables =", "{", "}"].join("\n")
 
