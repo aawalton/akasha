@@ -34,6 +34,7 @@ export const game = {
     "text-property/themes",
     "text-property/tone",
     "page-type/game-mechanic",
+    "relation-property/game-mechanics",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -64,6 +65,12 @@ export const game = {
     { pageProperty: "file-property/design-entries", required: false, many: false },
     { pageProperty: "file-property/tower-floors", required: false, many: false },
     { pageProperty: "file-property/tower-sessions", required: false, many: false },
+    {
+      pageProperty: "relation-property/game-mechanics",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {

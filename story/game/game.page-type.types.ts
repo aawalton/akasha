@@ -10,6 +10,7 @@ import type { DisplayConfig } from "akasha/story/game/properties/display-config.
 import type { Entities } from "akasha/story/game/properties/entities.file-property.types.ts"
 import type { GameCharacters } from "akasha/story/game/properties/game-characters.file-property.types.ts"
 import type { GameEngine } from "akasha/story/game/properties/game-engine.text-property.types.ts"
+import type { GameMechanics } from "akasha/story/game/properties/game-mechanics.relation-property.types.ts"
 import type { Genre } from "akasha/story/game/properties/genre.text-property.types.ts"
 import type { GmContext } from "akasha/story/game/properties/gm-context.file-property.types.ts"
 import type { LoreEntries } from "akasha/story/game/properties/lore-entries.file-property.types.ts"
@@ -57,4 +58,5 @@ export type Game = Collection & {
   designEntries?: DesignEntries
   towerFloors?: TowerFloors
   towerSessions?: TowerSessions
+  mechanics?: GameMechanics
 }
