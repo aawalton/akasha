@@ -30,6 +30,20 @@ export const auditCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A round the audit service went down under is asked for again, four times over in all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A round that went down every one of those times is refused by naming the restart behind it.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A deploy restarts the audit service, and a round outlasts the gap between two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A round still working is waited on rather than asked for a second time.",
     },
     {

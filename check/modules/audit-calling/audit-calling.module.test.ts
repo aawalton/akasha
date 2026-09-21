@@ -2,9 +2,12 @@ import { afterAll, expect, test } from "bun:test"
 import {
   ATTEMPTS,
   brokeOff,
+  connectionClosed,
   connectionRefused,
+  keptClosing,
   notAnswering,
   originOf,
+  RESTARTS,
   ranIn,
   roundAsked,
   type Sending,
@@ -28,6 +31,12 @@ const neverWaits = (): Promise<void> => Promise.resolve()
 
 function refusing(): Error & { code: string } {
   return Object.assign(new Error("Unable to connect."), { code: "ConnectionRefused" })
+}
+
+function closing(): Error & { code: string } {
+  return Object.assign(new Error("The socket connection was closed unexpectedly."), {
+    code: "ECONNRESET",
+  })
 }
 
 function answering(body: unknown, status = 200): Response {
@@ -182,4 +191,69 @@ test("a round still working is waited on rather than asked for a second time", a
   )
   expect(tries).toBe(1)
   expect(held).toEqual({ refused: expect.stringContaining("The operation timed out.") })
+})
+
+test("a connection the service closed is told apart from one the service refused", () => {
+  expect(connectionClosed(closing())).toBe(true)
+  expect(connectionClosed(refusing())).toBe(false)
+  expect(connectionClosed(null)).toBe(false)
+})
+
+test("the refusal for a service that keeps going down names the deploy behind the restart", () => {
+  const said = keptClosing(originOf(8788), 5)
+  expect(said).toContain("broke off 5 times")
+  expect(said).toContain("a deploy restarts that service")
+  expect(said).not.toContain("systemd")
+})
+
+test("a round the audit service went down under is asked for again", async () => {
+  let tries = 0
+  const held = await roundAsked(
+    ROOT,
+    [],
+    AT,
+    () => {
+      tries += 1
+      if (tries <= 2) throw closing()
+      return Promise.resolve(answering({ ran: [A_RUN], turned: [], refused: [] }))
+    },
+    neverWaits
+  )
+  expect(tries).toBe(3)
+  expect(held).toEqual({ ran: [A_RUN] })
+})
+
+test("a round the service goes down under every time is refused by naming the restart", async () => {
+  let tries = 0
+  const held = await roundAsked(
+    ROOT,
+    [],
+    AT,
+    () => {
+      tries += 1
+      throw closing()
+    },
+    neverWaits
+  )
+  expect(tries).toBe(RESTARTS + 1)
+  expect(held).toEqual({ refused: expect.stringContaining("a deploy restarts that service") })
+})
+
+test("the tries a refused connection has start over where the service went down", async () => {
+  let tries = 0
+  const held = await roundAsked(
+    ROOT,
+    [],
+    AT,
+    () => {
+      tries += 1
+      if (tries < ATTEMPTS) throw refusing()
+      if (tries === ATTEMPTS) throw closing()
+      if (tries < ATTEMPTS * 2) throw refusing()
+      return Promise.resolve(answering({ ran: [A_RUN], turned: [], refused: [] }))
+    },
+    neverWaits
+  )
+  expect(tries).toBe(ATTEMPTS * 2)
+  expect(held).toEqual({ ran: [A_RUN] })
 })

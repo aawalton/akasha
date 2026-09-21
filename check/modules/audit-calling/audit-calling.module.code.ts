@@ -12,9 +12,15 @@ const WORKING_MS = 21_600_000
 
 export const ATTEMPTS = 3
 
+export const RESTARTS = 4
+
 const WAITED_MS = 500
 
+const SETTLING_MS = 2_000
+
 const REFUSED_CONNECTION = "ConnectionRefused"
+
+const CLOSED_CONNECTION = "ECONNRESET"
 
 const PUTS_IT_UP = "`akasha deploy service-workstation` puts that service up"
 
@@ -39,6 +45,11 @@ export function connectionRefused(thrown: unknown): boolean {
   return (thrown as { readonly code?: unknown }).code === REFUSED_CONNECTION
 }
 
+export function connectionClosed(thrown: unknown): boolean {
+  if (thrown === null || typeof thrown !== "object") return false
+  return (thrown as { readonly code?: unknown }).code === CLOSED_CONNECTION
+}
+
 export function notAnswering(at: string): string {
   return (
     `nothing is listening at \`${at}\`, where a round of the audit service is asked for, ` +
@@ -49,6 +60,14 @@ export function notAnswering(at: string): string {
 export function brokeOff(at: string, thrown: unknown): string {
   const why = thrown instanceof Error ? thrown.message : String(thrown)
   return `the round asked for at \`${at}\` did not answer, ${UNJUDGED} — ${why}`
+}
+
+export function keptClosing(at: string, closed: number): string {
+  return (
+    `the round asked for at \`${at}\` broke off ${closed} times, the audit service having ` +
+    `gone down under it each time, ${UNJUDGED} — a deploy restarts that service and a round ` +
+    "runs for minutes, so ask for a round again"
+  )
 }
 
 export function ranIn(said: unknown): Answered {
@@ -79,7 +98,9 @@ export async function roundAsked(
   const port = portFor(root, SERVICE_SLUG)
   if (port === null) return { refused: NO_PORT }
   const at = originOf(port)
-  for (let taken = 1; ; taken += 1) {
+  let taken = 1
+  let closed = 0
+  for (;;) {
     try {
       const answered = await fetcher(at, {
         method: "POST",
@@ -90,9 +111,17 @@ export async function roundAsked(
       })
       return ranIn(await answered.json())
     } catch (thrown) {
+      if (connectionClosed(thrown)) {
+        closed += 1
+        if (closed > RESTARTS) return { refused: keptClosing(at, closed) }
+        taken = 1
+        await naps(SETTLING_MS)
+        continue
+      }
       if (!connectionRefused(thrown)) return { refused: brokeOff(at, thrown) }
       if (taken >= ATTEMPTS) return { refused: notAnswering(at) }
       await naps(WAITED_MS * taken)
+      taken += 1
     }
   }
 }
