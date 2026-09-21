@@ -8,11 +8,6 @@ export const nimueAudioManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "A sound's slug is its own bytes, so no sound is kept twice.",
-      workingMemory:
-        "`imageSlugOf` at `picture-landing.module.code.ts:38` is `image-` and the first sixteen hex of the sha256 of the bytes, which made a duplicate structurally impossible across 9,814 pages. `audio-` and sixteen hex does the same here. `isRiff` in `infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.code.ts` already reads `52 49 46 46`, which is the work `endingOf` does for a picture.",
-    },
-    {
       statement: "A sound states what made it.",
       workingMemory:
         "`buildAudioPageProperties` at `persist-audio.module.code.ts:31` already gathers title, engine, service, operation, model, prompt, seed, instruct, text, durationSeconds, audioPath and inferenceRun. An image carries none of this, since `persistInferenceImage` hands over an empty bag, so the audio page type declares properties where the image page type needed almost none. `audioPath` goes, because the page holds the bytes.",
