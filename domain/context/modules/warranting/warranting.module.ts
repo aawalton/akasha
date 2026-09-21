@@ -73,6 +73,18 @@ export const warranting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "One reading of the index answers every warrant one call runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A warrant is handed that reading beside what the page types are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A warrant handed no reading of its own reads the index once for itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A warrant is the reading a change owes rather than the reading changing a warranted file would owe.",
     },

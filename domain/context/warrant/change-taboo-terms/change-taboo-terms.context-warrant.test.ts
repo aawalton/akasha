@@ -19,7 +19,7 @@ import {
   A_PICTURE_AT,
   A_PORTRAIT_AT,
 } from "akasha/domain/context/warrant/change-taboo-terms/change-taboo-terms.context-warrant.test-fixtures.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { listedAt, readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const STAND = "(?<![a-z])(stands?|standing|stood)(?![a-z])"
 
@@ -29,7 +29,7 @@ const A_PAGE_TYPE_AT = `akasha/${listedAt(ROOT, "page-type", "world")[0]?.path ?
 
 const A_TERM = "the estate stands here"
 
-const knowing = (): Known => ({ types: new Set<string>() })
+const knowing = (): Known => ({ types: new Set<string>(), reading: readingIn(ROOT) })
 
 function changingTo(said: string): Changing {
   const body = new TextEncoder().encode(said)

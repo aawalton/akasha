@@ -1,5 +1,7 @@
 import {
   blobAt,
+  type Knowing,
+  knowingIn,
   type Warrant,
 } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
@@ -15,7 +17,6 @@ import {
 import {
   everyOfType,
   listedById,
-  readingIn,
   valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
@@ -28,8 +29,12 @@ const PARTS = "parts"
 
 const ID = "id"
 
-export function fileDomain(root: string, path: string): readonly Warrant[] {
-  const reading = readingIn(root)
+export function fileDomain(
+  root: string,
+  path: string,
+  knowing: Knowing = knowingIn(root)
+): readonly Warrant[] {
+  const reading = knowing().reading
   const claimant = claimantOf(
     pagingOf((slug) => everyOfType(reading, slug)),
     path,

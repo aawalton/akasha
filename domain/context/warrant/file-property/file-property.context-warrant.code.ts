@@ -32,14 +32,16 @@ function statedIn(root: string, path: string, slug: string): readonly string[] {
 export function fileProperty(root: string, path: string, knowing: Knowing): readonly Warrant[] {
   const said = partedIn(path)
   if (said === null || said.sections.length > 0) return []
-  if (!knowing().types.has(said.pageType)) return []
-  const declared = propertiesIfNamedOf(said.pageType, root, (at) => valueAt(at, root)) ?? []
+  const known = knowing()
+  if (!known.types.has(said.pageType)) return []
+  const declared =
+    propertiesIfNamedOf(said.pageType, known.reading, (at) => valueAt(at, root)) ?? []
   const under = new Map(declared.map((one) => [one.propertySlug, one]))
   const found: Warrant[] = []
   for (const slug of statedIn(root, path, said.slug)) {
     const one = under.get(slug)
     if (one === undefined) continue
-    const listed = listedAt(root, one.pageTypeSlug, one.pagePropertySlug)[0]
+    const listed = listedAt(known.reading, one.pageTypeSlug, one.pagePropertySlug)[0]
     if (listed === undefined || listed.path === path) continue
     const oid = blobAt(root, listed.path)
     if (oid === null) continue

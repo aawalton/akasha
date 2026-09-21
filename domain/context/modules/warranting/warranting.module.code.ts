@@ -23,8 +23,10 @@ import {
   everyOfType,
   listedAt,
   listedById,
+  readingIn as readingOf,
   slugsOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
@@ -64,6 +66,7 @@ export type Owing = {
 
 export type Known = {
   readonly types: ReadonlySet<string>
+  readonly reading: Reading
 }
 
 export type Knowing = () => Known
@@ -96,7 +99,12 @@ const loadFrom = createRequire(import.meta.url)
 
 export function knowingIn(root: string): Knowing {
   let known: Known | null = null
-  return () => (known ??= { types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]) })
+  return () => {
+    if (known !== null) return known
+    const reading = readingOf(root)
+    known = { types: new Set<string>([PAGE_TYPE, ...slugsOfType(reading, PAGE_TYPE)]), reading }
+    return known
+  }
 }
 
 function heldTo(
@@ -321,9 +329,9 @@ function unreadOwing(
   root: string,
   agentId: string,
   paths: readonly string[],
+  knowing: Knowing,
   changing?: Changing
 ): readonly Owing[] {
-  const knowing = knowingIn(root)
   const asked = new Set<string>()
   const said: Owing[] = []
   for (const path of paths) {
@@ -356,10 +364,10 @@ export function agentPathOf(root: string, agentId: string): string | null {
   return seatPathOf(root, agentId) ?? subagentPathOf(root, agentId)
 }
 
-function unheldOwing(root: string, agentId: string): readonly Owing[] {
+function unheldOwing(root: string, agentId: string, knowing: Knowing): readonly Owing[] {
   const page = agentPathOf(root, agentId)
   if (page === null) return []
-  return owingOf(root, agentId, warrantsIn(root, page, "write", knowingIn(root)), new Set([page]))
+  return owingOf(root, agentId, warrantsIn(root, page, "write", knowing), new Set([page]))
 }
 
 export function owedIn(
@@ -369,9 +377,13 @@ export function owedIn(
   changing?: Changing
 ): readonly string[] {
   if (agentId === null) return [NO_AGENT]
+  const knowing = knowingIn(root)
   return heldTo(
     root,
     agentId,
-    termFirst([...unheldOwing(root, agentId), ...unreadOwing(root, agentId, paths, changing)])
+    termFirst([
+      ...unheldOwing(root, agentId, knowing),
+      ...unreadOwing(root, agentId, paths, knowing, changing),
+    ])
   )
 }
