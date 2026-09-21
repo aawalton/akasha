@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whatTheHardNightCosts = {
+  id: "01a0c59c-d864-7f3e-998b-c94ebacb1392",
+  type: "page-type/all-about-alan-topic",
+  slug: "what-the-hard-night-costs",
+  title: "What The Hard Night Costs",
+  definition: "the one hard date night run so far, read off the record the day after",
+  parents: ["all-about-alan-topic/the-two-nights-we-keep"],
+  related: [
+    "all-about-alan-topic/what-an-activity-costs-me",
+    "all-about-alan-topic/what-the-pod-does-to-the-price",
+  ],
+  settled:
+    "One hard night has been run so far, so the cost is not fixed. It took about six hours, and we had to push through the hard to reach the change on the far side.\n\nIt did not reach the subject it was for. We went sideways into the subjects that were blocking us, and those are what resolved.\n\nThe cost lands the day after rather than during. Both nights were entered at level four.\n\nAfter the hard night I sat at level one for nine hours and was back to four by the next mid-morning, about thirty-nine hours. After hers I went down to two and was back to four the following afternoon, about twenty-two hours.\n\nSo the hard night costs roughly twice what hers does, and neither came near the sub-zero line.",
+} as const satisfies AllAboutAlanTopic
