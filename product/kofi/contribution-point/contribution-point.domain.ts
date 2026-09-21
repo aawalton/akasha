@@ -7,4 +7,15 @@ export const contributionPoint = {
   definition:
     "the weight a contribution earns, committed to a feature request and spent when Alan builds it",
   parts: ["module/contribution-point-balance", "module/contribution-point-spending"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A contributor boosts a published feature request with contribution points.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Only a contributor proposes a feature request, paying points, and Alan publishes it.",
+    },
+  ],
 } as const satisfies Domain

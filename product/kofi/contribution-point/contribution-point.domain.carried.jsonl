@@ -1,3 +1,4 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A contributor boosts a published feature request with contribution points."},{"decisionKind":"decision-kind/departure","statement":"Only a contributor proposes a feature request, paying points, and Alan publishes it."}]}
 {"definition":"the weight a contribution earns, committed to a feature request and spent when Alan builds it"}
 {"id":"01a0b78c-6b30-788a-85a1-935f3a46a786"}
 {"parts":["module/contribution-point-balance","module/contribution-point-spending"]}
