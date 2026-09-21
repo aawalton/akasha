@@ -278,6 +278,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/entity/properties/equipment-attack.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/entity/properties/equipment-defense.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/entity/properties/established-turn.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/entity/properties/reveal-gate.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/entity/properties/skill-progress.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/properties/current-session.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/builds/properties/build-level.number-property.ts"}

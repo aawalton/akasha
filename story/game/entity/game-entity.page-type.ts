@@ -35,6 +35,8 @@ export const gameEntity = {
       maxCount: null,
     },
     { pageProperty: "record-property/entity-bonds", required: false, many: true, maxCount: null },
+    { pageProperty: "number-property/reveal-gate", required: false, many: false },
+    { pageProperty: "text-property/sheet-note", required: false, many: false },
   ],
   decisions: [
     {
@@ -88,5 +90,6 @@ export const gameEntity = {
     "boolean-property/bond-grows",
     "number-property/established-turn",
     "record-property/entity-bonds",
+    "number-property/reveal-gate",
   ],
 } as const satisfies PageType

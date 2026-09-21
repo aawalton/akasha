@@ -11,6 +11,8 @@ import type { EntityLevel } from "akasha/story/game/entity/properties/entity-lev
 import type { EntitySkills } from "akasha/story/game/entity/properties/entity-skills.record-property.types.ts"
 import type { EntityTitles } from "akasha/story/game/entity/properties/entity-titles.record-property.types.ts"
 import type { EntityTraits } from "akasha/story/game/entity/properties/entity-traits.record-property.types.ts"
+import type { RevealGate } from "akasha/story/game/entity/properties/reveal-gate.number-property.types.ts"
+import type { SheetNote } from "akasha/story/game/entity/properties/sheet-note.text-property.types.ts"
 
 export type GameEntity = Page & {
   title: Title
@@ -25,4 +27,6 @@ export type GameEntity = Page & {
   affinities?: EntityAffinities
   equipment?: EntityEquipment
   bonds?: EntityBonds
+  revealGate?: RevealGate
+  note?: SheetNote
 }
