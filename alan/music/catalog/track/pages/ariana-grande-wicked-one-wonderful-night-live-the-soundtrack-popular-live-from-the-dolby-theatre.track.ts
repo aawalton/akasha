@@ -4,6 +4,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackPopularLiveFrom
   id: "01a0a6c5-0c95-7cde-a5b6-95fdf46ce52e",
   type: "page-type/track",
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-popular-live-from-the-dolby-theatre",
+  grade: "B+",
   ownLength: 5.91455,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
