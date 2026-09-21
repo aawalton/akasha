@@ -34,7 +34,7 @@ export const astraLandingReadsOnlyWhatChanged = {
       statement:
         "A landing asks git for the bodies its change names rather than for hundreds of thousands.",
       workingMemory:
-        "Spawning `git cat-file --batch` is not the cost in `commit-reading.module.code.ts`: each spawn is about a millisecond. The landing ends the reading in `judged` and again before it writes, and each end throws away the tree cache, so `treesAt` and `walkedTo` are 278ms and 206ms of `bodyAt`'s 635ms. A tree under a commit never changes, so that cache is keyed by the commit a reader resolved and outlives the reader.",
+        "Spawning `git cat-file --batch` is not the cost in `commit-reading.module.code.ts`: each spawn is about a millisecond. The landing ends the reading in `judged` and again before it writes, and the tree cache used to go with it. A tree under a commit never changes, so trees are held under the commit a reader resolved and a fresh reader reads none of them again.",
     },
   ],
   constraints: [
