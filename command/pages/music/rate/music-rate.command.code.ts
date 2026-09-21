@@ -66,6 +66,8 @@ export const SONG = "song"
 
 export const TRACK = "track"
 
+export const RELEASE = "release"
+
 const TXT = "txt"
 
 const TARGET = gradeTarget.said
@@ -92,12 +94,13 @@ const ARTIST_PROSE = [reaction.slug]
 
 const SONG_PROSE = [personalConnections.slug, insights.slug]
 
-const TRACK_PROSE: readonly string[] = []
+const NO_PROSE: readonly string[] = []
 
 const PROSE_OF: ReadonlyMap<string, readonly string[]> = new Map([
   [ARTIST, ARTIST_PROSE],
   [SONG, SONG_PROSE],
-  [TRACK, TRACK_PROSE],
+  [TRACK, NO_PROSE],
+  [RELEASE, NO_PROSE],
 ])
 
 const TARGETS = [...PROSE_OF.keys()]

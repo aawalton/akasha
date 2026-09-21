@@ -5,7 +5,7 @@ export const gradeTarget = {
   type: "page-type/argument",
   slug: "grade-target",
   said: "--target",
-  takes: "which sort of page the grade is recorded onto",
+  takes: "which sort of music page the call names",
   value: "text",
-  placeholder: "artist|song|track",
+  placeholder: "artist|song|track|release",
 } as const satisfies Argument

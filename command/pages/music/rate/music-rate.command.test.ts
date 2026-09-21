@@ -1,28 +1,27 @@
 import { expect, test } from "bun:test"
-import { readFileSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   OPERATIONAL,
   partWay,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { refusingWith } from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
 import {
   ARTIST,
   musicRate,
   playingNamed,
+  RELEASE,
   SONG,
   saidOf,
   slugCarried,
   TRACK,
-  taken,
   valuesFor,
   WRITE,
 } from "akasha/command/pages/music/rate/music-rate.command.code.ts"
 import {
+  bodyAt,
   finding,
   GIVEN,
   gradingAurora,
+  gradingRelease,
   gradingThrowing,
   LANDED,
   PLAYER,
@@ -30,31 +29,23 @@ import {
   PLAYING_TITLE,
   pathsIn,
   playing,
+  proseFileAt,
   RATED,
   RATED_AT,
   REACTION,
   REACTION_AT,
-  ROOT,
+  REACTION_FILED,
+  RELEASE_AT,
+  RELEASE_SLUG,
   reaching,
+  refusalOf,
+  refusalsOf,
   SILENT,
   scratch,
   TRACK_AT,
   TRACK_SLUG,
+  takingOf,
 } from "akasha/command/pages/music/rate/music-rate.command.test-fixtures.ts"
-
-const refusalsOf = refusingWith((argv: readonly string[]) => taken(argv, GIVEN))
-
-function refusalOf(argv: readonly string[]): string {
-  return refusalsOf(argv).join("\n")
-}
-
-function takingOf(argv: readonly string[]) {
-  const held = taken(argv, GIVEN)
-  if ("refused" in held) {
-    throw new Error(`\`${argv.join(" ")}\` was refused — ${held.refused.join("; ")}`)
-  }
-  return held
-}
 
 test("every refusal a call earns arrives on its own line rather than joined into one", () => {
   expect(
@@ -75,10 +66,23 @@ test("a flag this takes nothing of is refused", () => {
   expect(refusalOf(["--id", "abc"])).toContain("`--id` is no argument")
 })
 
-test("a target that is no artist, no song and no track is refused", () => {
+test("a target that is no sort of music page is refused", () => {
   const said = refusalOf(["--target", "album", "--slug", "a", "--grade", "A"])
   expect(said).toContain("`album`")
   expect(said).toContain(`\`${TRACK}\``)
+  expect(said).toContain(`\`${RELEASE}\``)
+})
+
+test("a release named by its slug is written the way a track named by its slug is", async () => {
+  const reach = reaching({ ...LANDED, landed: [RELEASE_AT] })
+  const said = await gradingRelease(reach)
+  expect(said.refusals).toEqual([])
+  const one = reach.reached[0]
+  if (one === undefined) throw new Error("the landing was never reached")
+  expect(one.said).toBe(`record ${RELEASE} ${RELEASE_SLUG}`)
+  expect(pathsIn(one.asked)).toEqual([RELEASE_AT])
+  const written = one.asked[0]?.given
+  expect(written !== undefined && "body" in written ? written.body : "").toContain('grade: "C"')
 })
 
 test("prose named for a track is refused, because a track carries none", () => {
@@ -297,11 +301,9 @@ test("a grade and prose are taken together", () => {
 })
 
 test("prose is read off the file its flag names", () => {
-  const root = scratch.rootFor("music-rate-prose-")
-  const at = join(root, "reaction.md")
-  writeFileSync(at, "she sings it plainly\n")
+  const at = proseFileAt()
   const held = takingOf(["--target", ARTIST, "--slug", "mitski", "--reaction-file", at])
-  expect(held.prose.get("reaction")).toBe("she sings it plainly\n")
+  expect(held.prose.get("reaction")).toBe(REACTION_FILED)
   expect(held.grade).toBe(null)
   scratch.sweep()
 })
@@ -406,7 +408,7 @@ test("the page written again hands in the body it was composed against", async (
   const page = reach.reached[0]?.asked[0]
   if (page === undefined) throw new Error("no page reached the landing")
 
-  expect(page.given).toMatchObject({ old: readFileSync(join(ROOT, RATED_AT), "utf8") })
+  expect(page.given).toMatchObject({ old: bodyAt(RATED_AT) })
 })
 
 test("the prose beside the page hands in no body it was composed against", async () => {

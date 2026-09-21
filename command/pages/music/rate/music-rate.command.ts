@@ -4,8 +4,7 @@ export const musicRate = {
   id: "01a062fb-d2fb-72a1-8169-279a6baf3d97",
   type: "page-type/command",
   slug: "music-rate",
-  definition:
-    "the command recording Alan's grade and what he said onto a track, a song or an artist",
+  definition: "the command recording Alan's grade and what he said onto one music page",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -29,6 +28,10 @@ export const musicRate = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A page is named by its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A release is graded as a track, a song and an artist are.",
     },
     {
       decisionKind: "decision-kind/departure",

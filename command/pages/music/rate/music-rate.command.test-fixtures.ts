@@ -1,3 +1,5 @@
+import { readFileSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import type {
   Asking,
   Landing,
@@ -5,6 +7,7 @@ import type {
 import { throwingAfter } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.test-fixtures.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { refusingWith } from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import type {
@@ -13,7 +16,12 @@ import type {
   NowPlayingReader,
   NowPlayingState,
 } from "akasha/command/pages/music/now-playing/music-now-playing.command.code.ts"
-import { ARTIST, musicRate } from "akasha/command/pages/music/rate/music-rate.command.code.ts"
+import {
+  ARTIST,
+  musicRate,
+  RELEASE,
+  taken,
+} from "akasha/command/pages/music/rate/music-rate.command.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()
@@ -36,9 +44,39 @@ export const REACTION_AT = `alan/music/catalog/artist/pages/${RATED}/${RATED}.ar
 
 export const REACTION = "she sings it plainly"
 
+export const REACTION_FILED = `${REACTION}\n`
+
+export function proseFileAt(): string {
+  const at = join(scratch.rootFor("music-rate-prose-"), "reaction.md")
+  writeFileSync(at, REACTION_FILED)
+  return at
+}
+
+export function bodyAt(at: string): string {
+  return readFileSync(join(ROOT, at), "utf8")
+}
+
 export const TRACK_SLUG = "alexandria-always-an-angel-always-an-angel"
 
 export const TRACK_AT = `alan/music/catalog/track/pages/${TRACK_SLUG}.track.ts`
+
+export const RELEASE_SLUG = "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"
+
+export const RELEASE_AT = `alan/music/catalog/release/pages/${RELEASE_SLUG}/${RELEASE_SLUG}.release.ts`
+
+export const refusalsOf = refusingWith((argv: readonly string[]) => taken(argv, GIVEN))
+
+export function refusalOf(argv: readonly string[]): string {
+  return refusalsOf(argv).join("\n")
+}
+
+export function takingOf(argv: readonly string[]) {
+  const held = taken(argv, GIVEN)
+  if ("refused" in held) {
+    throw new Error(`\`${argv.join(" ")}\` was refused — ${held.refused.join("; ")}`)
+  }
+  return held
+}
 
 export const PLAYING_ID = "5CziXblfbYNLB4dELQrgq4"
 
@@ -121,6 +159,14 @@ export function pathsIn(asked: readonly Asking[]): readonly string[] {
 export function gradingAurora(reach: Reach) {
   return musicRate(
     ["--target", ARTIST, "--slug", RATED, "--grade", "A", "--reaction", REACTION],
+    GIVEN,
+    reach.landing
+  )
+}
+
+export function gradingRelease(reach: Reach) {
+  return musicRate(
+    ["--target", RELEASE, "--slug", RELEASE_SLUG, "--grade", "C"],
     GIVEN,
     reach.landing
   )
