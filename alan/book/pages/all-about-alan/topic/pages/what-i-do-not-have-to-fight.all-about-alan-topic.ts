@@ -8,5 +8,5 @@ export const whatIDoNotHaveToFight = {
   definition: "letting most of it through so I can afford the part that matters",
   parents: ["all-about-alan-topic/how-i-get-anything-done"],
   settled:
-    "Letting an impulse pass costs nothing. Fighting every one of them empties the budget before the harmful one arrives.\n\nIf I do not want to, I cannot. A thing done late is cheaper than a thing forced.",
+    "Letting an impulse pass costs nothing. Fighting every one of them empties the budget before the harmful one arrives.\n\nIf I do not want to, I cannot. A thing done late is cheaper than a thing forced.\n\nSome of them arrive as an intrusive what-would-happen-if: what if I jumped off this bridge. Before I understood the mechanism they felt possible enough to frighten me. Once I could read one as a signal rather than as intent, it stopped costing me anything.\n\nLetting that thought go by is not a failure of the system. It is the system.",
 } as const satisfies AllAboutAlanTopic
