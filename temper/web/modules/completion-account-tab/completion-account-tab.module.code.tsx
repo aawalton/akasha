@@ -28,8 +28,8 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
-import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import type { AccountSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import type { AccountSummaryData } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   ACCOUNT_FILTERS,
   type FilterId,

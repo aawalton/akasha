@@ -1,4 +1,4 @@
-import { isCumulativeCard } from "akasha/temper/player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
+import { isCumulativeCard } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/modules/completion-task-progress/completion-task-progress.module.code.ts"
 
 export function isFullyCompleteAtLoad(args: {

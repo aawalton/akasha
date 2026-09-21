@@ -9,9 +9,9 @@ import type {
   AccountSummaryData,
   CharacterSummaryData,
   CompanionSummaryData,
-} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import { composeCompletionCategoryTree } from "akasha/temper/player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
-import type { CompletionCategoryTree } from "akasha/temper/player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { composeCompletionCategoryTree } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
+import type { CompletionCategoryTree } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 import type { AccountProgressData } from "akasha/temper/web/modules/account-progress/account-progress.module.code.ts"
 import { useAccountProgress } from "akasha/temper/web/modules/account-progress/account-progress.module.code.ts"
 import type { CharacterProgressData } from "akasha/temper/web/modules/character-progress/character-progress.module.code.ts"

@@ -1,43 +1,43 @@
-import type { SubclassingSkillMorphProgressResult } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
-import { transformSubclassingSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 import type {
   AccountRecipeUnionProgress,
   AccountScribingUnionProgress,
-} from "akasha/temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
 import {
   transformAccountRecipeUnion,
   transformAccountScribingUnion,
-} from "akasha/temper/player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
-import type { AccountTraitResearchUnionProgress } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
-import { transformAccountTraitResearchUnion } from "akasha/temper/player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
-import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
-import { transformAccountQuestUnion } from "akasha/temper/player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
+import type { AccountTraitResearchUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
+import { transformAccountTraitResearchUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
+import type { AccountQuestUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
+import { transformAccountQuestUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import type {
   AccountPoiUnionProgress,
   AccountZoneCompletionUnionProgress,
-} from "akasha/temper/player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
 import {
   transformAccountPoiUnion,
   transformAccountZoneCompletionUnion,
-} from "akasha/temper/player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
-import type { AccountAchievementOverallProgress } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
-import { transformAccountAchievementProgress } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
-import { transformAntiquityLoreProgress } from "akasha/temper/player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
-import type { AccountSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import { transformCollectiblesProgress } from "akasha/temper/player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
-import type { ItemSetOverallProgress } from "akasha/temper/player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
-import { transformItemSetProgress } from "akasha/temper/player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
-import { isAccountMeasured } from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
-import type { SubclassingSkillLineProgressResult } from "akasha/temper/player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
-import { transformSubclassingSkillLineProgress } from "akasha/temper/player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
-import { buildAccountSummary } from "akasha/temper/player-completion/modules/completion-summary-account/completion-summary-account.module.code.ts"
-import { transformTributeProgress } from "akasha/temper/player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
+import type { AccountAchievementOverallProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import { transformAccountAchievementProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import { transformAntiquityLoreProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
+import type { AccountSummaryData } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { transformCollectiblesProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
+import type { ItemSetOverallProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
+import { transformItemSetProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
+import { isAccountMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
+import type { SubclassingSkillLineProgressResult } from "akasha/temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
+import { transformSubclassingSkillLineProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
+import { buildAccountSummary } from "akasha/temper/player/completion/temper-player-completion/modules/completion-summary-account/completion-summary-account.module.code.ts"
+import { transformTributeProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
 import type {
   AccountAntiquityLoreProgress,
   AccountCollectiblesProgress,
   AccountLoreProgress,
   AccountTributeProgress,
-} from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import type { SubclassingSkillMorphProgressResult } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
+import { transformSubclassingSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 import type { CharacterProgressData } from "akasha/temper/web/modules/character-progress/character-progress.module.code.ts"
 import type { CompletionCatalogs } from "akasha/temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.code.ts"
 import type {

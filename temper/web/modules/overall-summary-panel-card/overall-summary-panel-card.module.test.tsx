@@ -6,8 +6,8 @@ import {
   type CharacterSummaryData,
   COMPANION_CARDS,
   type CompanionSummaryData,
-} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import { computeOverallCompletionScore } from "akasha/temper/player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { computeOverallCompletionScore } from "akasha/temper/player/completion/temper-player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.code.ts"
 import { OverallSummaryPanelCard } from "akasha/temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
 import type { ReactElement } from "react"
 

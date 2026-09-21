@@ -9,8 +9,8 @@ import { useSetToggle } from "akasha/design/interface/pattern/modules/use-set-to
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,
-} from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import { completionPercent } from "akasha/temper/player-completion/modules/completion-percent/completion-percent.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { completionPercent } from "akasha/temper/player/completion/temper-player-completion/modules/completion-percent/completion-percent.module.code.ts"
 import { useCompletionActivityMode } from "akasha/temper/web/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
 import { useCompletionSearch } from "akasha/temper/web/player-completion-ui/modules/completion-search-context/completion-search-context.module.code.tsx"
 import { CheckIcon, MinusIcon } from "lucide-react"

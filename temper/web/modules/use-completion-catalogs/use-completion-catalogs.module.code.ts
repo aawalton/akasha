@@ -1,18 +1,18 @@
 "use client"
 
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import type { AchievementCategoryCatalogEntry } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
-import type { AntiquityCatalogCategory } from "akasha/temper/player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
-import type { CadwellLevelCatalogEntry } from "akasha/temper/player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
-import type { CollectibleCatalogCategory } from "akasha/temper/player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
-import type { PoiZoneCatalogEntry } from "akasha/temper/player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
-import type { QuestCatalogZone } from "akasha/temper/player-completion/modules/completion-quest-progress/completion-quest-progress.module.code.ts"
+import type { AchievementCategoryCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import type { AntiquityCatalogCategory } from "akasha/temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
+import type { CadwellLevelCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
+import type { CollectibleCatalogCategory } from "akasha/temper/player/completion/temper-player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
+import type { PoiZoneCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
+import type { QuestCatalogZone } from "akasha/temper/player/completion/temper-player-completion/modules/completion-quest-progress/completion-quest-progress.module.code.ts"
 import type {
   TraitResearchCatalogCraftType,
   TraitResearchCatalogLine,
-} from "akasha/temper/player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
-import type { TributePatronCatalogEntry } from "akasha/temper/player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
-import type { ZoneCompletionCatalogZone } from "akasha/temper/player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
+import type { TributePatronCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
+import type { ZoneCompletionCatalogZone } from "akasha/temper/player/completion/temper-player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
 import { useEffect, useState } from "react"
 
 const held = new Map<string, Promise<readonly Record<string, unknown>[]>>()

@@ -29,7 +29,7 @@ import {
 import { resolveSkillMorphs } from "akasha/temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"
 import { getEsoDayStringFromSec } from "akasha/temper/catalog/world/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { applyCompletionOverrides } from "akasha/temper/player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
+import { applyCompletionOverrides } from "akasha/temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
 import {
   getSavedVariables,
   type SavedCharacterEntry,

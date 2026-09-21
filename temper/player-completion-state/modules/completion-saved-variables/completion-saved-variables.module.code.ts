@@ -5,7 +5,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import type { CompletionOverride } from "akasha/temper/player-completion/modules/completion-override/completion-override.module.code.ts"
+import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 import {
   ADDON_NAME,
   SAVED_VARIABLES_NAME,

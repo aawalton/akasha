@@ -8,7 +8,6 @@ export const temper = {
   parts: [
     "domain/temper-catalog",
     "domain/temper-command",
-    "domain/temper-player-completion",
     "domain/temper-player-completion-state",
     "module/addon-init",
     "module/assert-schema-matches-payload",

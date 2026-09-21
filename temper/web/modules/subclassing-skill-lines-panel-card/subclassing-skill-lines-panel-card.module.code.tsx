@@ -4,9 +4,9 @@ import {
   getSkillLineIdsForClass,
   skillLines,
 } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
-import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import type { AccountCardId } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import type { SubclassingSkillLineProgressResult } from "akasha/temper/player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import type { SubclassingSkillLineProgressResult } from "akasha/temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,

@@ -22,13 +22,13 @@ import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/n
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,
-} from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import { getCompletionCardTab } from "akasha/temper/player-completion/modules/completion-card-tab/completion-card-tab.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { getCompletionCardTab } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-tab/completion-card-tab.module.code.ts"
 import {
   isAccountMeasured,
   isCharacterMeasured,
   isCompanionMeasured,
-} from "akasha/temper/player-completion/modules/completion-measured/completion-measured.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
 import { CompletionAccountTab } from "akasha/temper/web/modules/completion-account-tab/completion-account-tab.module.code.tsx"
 import { CompletionCharactersTab } from "akasha/temper/web/modules/completion-characters-tab/completion-characters-tab.module.code.tsx"
 import { CompletionCompanionsTab } from "akasha/temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx"

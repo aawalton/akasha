@@ -20,9 +20,9 @@ import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-
 import {
   findFirstIncompleteCadwellZone,
   sortCadwellPois,
-} from "akasha/temper/player-completion/modules/completion-cadwell-sort/completion-cadwell-sort.module.code.ts"
-import { findFirstIncompleteLoreCollection } from "akasha/temper/player-completion/modules/completion-lore-collection/completion-lore-collection.module.code.ts"
-import { extractLoreKnownSet } from "akasha/temper/player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-cadwell-sort/completion-cadwell-sort.module.code.ts"
+import { findFirstIncompleteLoreCollection } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-collection/completion-lore-collection.module.code.ts"
+import { extractLoreKnownSet } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import type { TaskData } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player-completion-state/modules/completion-task-progress/completion-task-progress.module.code.ts"
 

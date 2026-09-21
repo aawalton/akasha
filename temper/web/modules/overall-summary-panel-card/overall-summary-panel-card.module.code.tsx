@@ -3,13 +3,13 @@ import type {
   AccountSummaryData,
   CharacterSummaryData,
   CompanionSummaryData,
-} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   computeOverallCompletionScore,
   sumAccountScope,
   sumCharacterScope,
   sumCompanionScope,
-} from "akasha/temper/player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,

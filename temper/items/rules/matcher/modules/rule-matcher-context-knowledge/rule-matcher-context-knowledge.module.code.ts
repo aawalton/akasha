@@ -12,7 +12,7 @@ import type { AutomationSettings } from "akasha/temper/player/character/build/bu
 import { resolveCharacterToggles } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { foodOrDrink } from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
-import { isNamedShape } from "akasha/temper/player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
+import { isNamedShape } from "akasha/temper/player/completion/temper-player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
 
 type ExhaustiveRecipeList = { name: string; recipes: Record<string, { known: boolean }> }
 

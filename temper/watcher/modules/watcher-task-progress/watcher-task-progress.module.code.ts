@@ -3,7 +3,7 @@ import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version
 import {
   type CrossCharacterReading,
   materializeCrossCharacterProgress,
-} from "akasha/temper/player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
 
 export type ProgressRow = {
   readonly id: string

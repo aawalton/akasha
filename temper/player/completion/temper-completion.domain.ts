@@ -88,6 +88,7 @@ export const temperCompletion = {
     "module/recipe-entries-36",
     "module/recipe-entries-37",
     "module/recipe-types",
+    "domain/temper-player-completion",
   ],
   decisions: [
     {

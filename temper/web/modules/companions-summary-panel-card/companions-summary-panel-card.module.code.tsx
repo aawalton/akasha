@@ -2,7 +2,7 @@ import type { SortDirection } from "akasha/design/interface/pattern/modules/sort
 import {
   COMPANION_CARDS,
   type CompanionSummaryData,
-} from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,

@@ -19,12 +19,12 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { classifyCompletionImport } from "akasha/temper/player-completion/modules/completion-import-outcome/completion-import-outcome.module.code.ts"
+import { classifyCompletionImport } from "akasha/temper/player/completion/temper-player-completion/modules/completion-import-outcome/completion-import-outcome.module.code.ts"
 import {
   mergeAccountCompletionForward,
   mergeCharacterCompletionForward,
   mergeCompanionCompletionForward,
-} from "akasha/temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
 import { ACCOUNT_PAGE_TYPE_SLUG } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import type {

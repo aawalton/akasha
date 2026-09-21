@@ -1,7 +1,7 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { useFilterPersistence } from "akasha/design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
-import { ACTIVITY_CATEGORIES } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import { getCompletionCardTab } from "akasha/temper/player-completion/modules/completion-card-tab/completion-card-tab.module.code.ts"
+import { ACTIVITY_CATEGORIES } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { getCompletionCardTab } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-tab/completion-card-tab.module.code.ts"
 import {
   VALID_SKILL_TYPES,
   VALID_STATUSES,

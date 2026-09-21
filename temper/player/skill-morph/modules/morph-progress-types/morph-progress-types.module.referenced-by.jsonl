@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player-completion/modules/completion-skill-line-progress/completion-skill-line-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player-completion/modules/completion-summary/completion-summary.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player-completion/modules/completion-transforms/completion-transforms.module.code.ts"}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-skill-line-progress/completion-skill-line-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary/completion-summary.module.code.ts"}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-transforms/completion-transforms.module.code.ts"}
 {"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.code.ts"}
 {"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/skill-morph/modules/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"}
 {"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"}
