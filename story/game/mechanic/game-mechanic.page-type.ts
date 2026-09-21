@@ -35,6 +35,7 @@ export const gameMechanic = {
     "game-mechanic/affinity-advance",
     "module/action-intent",
     "module/affinity-element",
+    "game-mechanic/essence-absorption",
   ],
   decisions: [
     {

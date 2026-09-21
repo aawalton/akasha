@@ -43,6 +43,7 @@ export const theTower = {
     "game-mechanic/attribute-check",
     "game-mechanic/affinity-bias",
     "game-mechanic/affinity-advance",
+    "game-mechanic/essence-absorption",
   ],
   attributes: [
     "game-attribute/finesse",
