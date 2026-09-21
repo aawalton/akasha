@@ -621,6 +621,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-matcher/temper-items-rules-matcher.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-routing-core/temper-items-rules-routing-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-routing/temper-items-rules-routing.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/temper-items.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lorebook/temper-lorebook.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lost-treasure/temper-lost-treasure.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion-skills-morphs-ui/temper-player-completion-skills-morphs-ui.domain.ts"}
