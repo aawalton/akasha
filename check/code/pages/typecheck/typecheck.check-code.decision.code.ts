@@ -62,7 +62,6 @@ const SETTINGS = {
   module: "preserve",
   moduleResolution: "bundler",
   target: "esnext",
-  skipLibCheck: false,
   jsx: "react-jsx",
 } as const
 
@@ -156,8 +155,9 @@ export function typesIn(root: string): readonly string[] {
   return existsSync(at) ? readdirSync(at).sort() : []
 }
 
-export function configOf(root: string, named: readonly string[]): string {
-  return JSON.stringify({ compilerOptions: { ...SETTINGS, types: typesIn(root) }, files: named })
+export function configOf(root: string, named: readonly string[], whole = false): string {
+  const compilerOptions = { ...SETTINGS, skipLibCheck: !whole, types: typesIn(root) }
+  return JSON.stringify({ compilerOptions, files: named })
 }
 
 export function servingOf(
@@ -249,7 +249,7 @@ export function claimedIn(change: Change, index: Answering): (path: string) => b
   return (path) => held.some((one) => one.test(path))
 }
 
-async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]> {
+async function foundIn(given: Change, shadow: Shadow, whole: boolean): Promise<readonly Found[]> {
   const change = holdingOver(given)
   const reached = rootsOf(change, shadow)
   const orphaned = orphanedIn(change, shadow.index)
@@ -264,7 +264,7 @@ async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]>
   if (asked.length === 0) return []
   const read = bodiesOf(change, mintingIn(change, [...waitingKeys(shadow)], shadow.index), placed)
   const at = join(root, CONFIG_NAME)
-  const config = configOf(root, named)
+  const config = configOf(root, named, whole)
   const readFile = servingOf(root, at, config, read, placed)
   const api = new API({
     cwd: root,
@@ -292,11 +292,15 @@ async function foundIn(given: Change, shadow: Shadow): Promise<readonly Found[]>
   }
 }
 
-export async function refusalsOver(change: Change, shadow: Shadow): Promise<readonly Judged[]> {
+export async function refusalsOver(
+  change: Change,
+  shadow: Shadow,
+  whole = false
+): Promise<readonly Judged[]> {
   const changed = new Set(change.changed)
   const seen = new Set<string>()
   const said: Judged[] = []
-  for (const one of await foundIn(change, shadow)) {
+  for (const one of await foundIn(change, shadow, whole)) {
     if (generatedRoutes(one.path)) continue
     const key = `${one.path}\n${one.reason}`
     if (seen.has(key)) continue

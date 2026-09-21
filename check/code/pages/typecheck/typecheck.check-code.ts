@@ -110,6 +110,22 @@ export const typecheck = {
       statement: "The settings name every ambient type the packages folder has.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A declaration file cannot import the declaration whose names that file spells.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change's program holds the declarations its files name and no others.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "What a declaration file holds is not judged for a change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An audit's program holds every declaration, so an audit judges what each holds.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "The config the program is built from is served to the compiler rather than written.",

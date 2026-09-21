@@ -4,5 +4,5 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 export function typecheck(root: string): Promise<readonly Judged[]> {
-  return refusalsOver(everythingIn(root), shadowAt(root))
+  return refusalsOver(everythingIn(root), shadowAt(root), true)
 }

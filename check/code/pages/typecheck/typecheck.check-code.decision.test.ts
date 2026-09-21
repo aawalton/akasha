@@ -57,13 +57,23 @@ import { shadowAsked, shadowFor } from "akasha/page/modules/shadow/shadow.module
 
 afterAll(scratch.sweep)
 
+type Settings = {
+  compilerOptions: { types: string[]; skipLibCheck: boolean }
+  files: string[]
+}
+
 test("the settings carry the files judged and every ambient type the packages folder holds", () => {
   expect(typesIn(HERE)).toContain("bun")
-  const said: { compilerOptions: { types: string[] }; files: string[] } = JSON.parse(
-    configOf(HERE, ["one.ts", "two.ts"])
-  )
+  const said: Settings = JSON.parse(configOf(HERE, ["one.ts", "two.ts"]))
   expect(said.files).toEqual(["one.ts", "two.ts"])
   expect(said.compilerOptions.types).toContain("bun")
+})
+
+test("a change leaves what a declaration file holds unjudged, and an audit judges it", () => {
+  const landing: Settings = JSON.parse(configOf(HERE, ["one.ts"]))
+  const whole: Settings = JSON.parse(configOf(HERE, ["one.ts"], true))
+  expect(landing.compilerOptions.skipLibCheck).toBe(true)
+  expect(whole.compilerOptions.skipLibCheck).toBe(false)
 })
 
 test("the config is answered at the path the compiler was told to open", () => {
