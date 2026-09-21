@@ -4,6 +4,7 @@ export const auroraSomewhereElseSaluteRemixSomewhereElseSaluteRemix = {
   id: "01a0b637-eaa2-79e0-aefa-f3005d3dcda3",
   type: "page-type/track",
   slug: "aurora-somewhere-else-salute-remix-somewhere-else-salute-remix",
+  grade: "C",
   ownLength: 6.044983333333334,
   ownProgress: 0,
   partOfCollections: ["release/aurora-somewhere-else-salute-remix"],
