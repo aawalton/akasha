@@ -215,7 +215,7 @@ test("an addon sitting deeper reaches the folders of declarations that sit besid
   const root = SCRATCH.rootFor("temper-addon-deeper-")
   valueAlsoFiled(root, TEMPER_ADDON, [
     {
-      path: "temper/addon/library/lib-media-provider/lib-media-provider.temper-addon.ts",
+      path: "temper/addon/pages/lib-media-provider/lib-media-provider.temper-addon.ts",
       value: { slug: "lib-media-provider" },
     },
   ])
@@ -229,7 +229,7 @@ test("an addon sitting deeper reaches the folders of declarations that sit besid
       value: { slug: "lib-async" },
     },
     {
-      path: "temper/addon/library/lib-media-provider/media-declarations/media-declarations.type-declaration.ts",
+      path: "temper/addon/pages/lib-media-provider/media-declarations/media-declarations.type-declaration.ts",
       value: { slug: "media-declarations" },
     },
   ])

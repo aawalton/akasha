@@ -79,7 +79,6 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/library/lib-price/modules/price-sources-furc/price-sources-furc.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-api-nav/lib-sets-core-api-nav.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-api-perfected-veteran-set/lib-sets-core-api-perfected-veteran-set.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-core-set-itemids-filtered/lib-sets-core-set-itemids-filtered.module.code.ts"}
@@ -126,6 +125,7 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-build-tables/map-data-build-tables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-queries/map-data-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-price/modules/price-sources-furc/price-sources-furc.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/quests-addon/modules/quests-auto-quest/quests-auto-quest.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/quests-addon/modules/quests-trace/quests-trace.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}

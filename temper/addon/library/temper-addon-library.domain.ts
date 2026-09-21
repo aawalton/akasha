@@ -6,10 +6,6 @@ export const temperAddonLibrary = {
   slug: "temper-addon-library",
   definition: "the libraries temper's add-ons share in the game",
   parts: [
-    "temper-addon/temper-lib-media-provider",
-    "temper-addon/temper-lib-notification",
-    "temper-addon/temper-lib-price",
-    "temper-addon/temper-lib-saved-vars",
     "temper-addon/temper-lib-sets",
     "temper-addon/temper-lib-slash-commander",
     "temper-addon/temper-lib-table-functions",

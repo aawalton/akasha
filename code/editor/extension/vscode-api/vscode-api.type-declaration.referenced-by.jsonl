@@ -47,8 +47,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-library-tab/housing-library-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/hud-addon/modules/hud-addon-command-registry/hud-addon-command-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/library/lib-saved-vars/modules/saved-vars-casts/saved-vars-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/library/lib-saved-vars/modules/saved-vars-types/saved-vars-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"}
@@ -72,6 +70,8 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-cache/histoire-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-main-menu/modules/main-menu-casts/main-menu-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-casts/saved-vars-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-saved-vars/modules/saved-vars-types/saved-vars-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/eso/lua-runner/modules/lua-vm/lua-vm.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary/completion-summary.module.code.ts"}

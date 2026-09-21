@@ -68,6 +68,10 @@ export const temperAddon = {
     "temper-addon/temper-lib-map-data",
     "temper-addon/temper-lib-map-ping",
     "temper-addon/temper-lib-map-pins",
+    "temper-addon/temper-lib-media-provider",
+    "temper-addon/temper-lib-notification",
+    "temper-addon/temper-lib-price",
+    "temper-addon/temper-lib-saved-vars",
   ],
   extends: ["page-type/service"],
   properties: [

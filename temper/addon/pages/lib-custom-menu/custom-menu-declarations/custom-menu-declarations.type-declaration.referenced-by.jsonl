@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-context-menu/housing-context-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-notification/modules/notification-types/notification-types.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"}
@@ -83,4 +82,5 @@
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-filters/pin-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/pin-state/pin-state.module.code.ts"}
+{"propertySlug":"import","fileName":"custom-menu-declarations.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-types/notification-types.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/pages/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}

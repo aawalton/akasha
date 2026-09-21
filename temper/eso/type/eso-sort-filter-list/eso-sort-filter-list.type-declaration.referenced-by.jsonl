@@ -11,8 +11,6 @@
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/library/lib-notification/modules/notification-providers/notification-providers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/library/lib-notification/modules/notification-row-overrides/notification-row-overrides.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-combobox-base-dims/scrollable-menu-combobox-base-dims.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-combobox-base-sort/scrollable-menu-combobox-base-sort.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-combobox/scrollable-menu-constants-combobox.module.code.ts"}
@@ -44,6 +42,8 @@
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-row-helpers/histoire-status-window-row-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window/histoire-status-window.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-providers/notification-providers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-notification/modules/notification-row-overrides/notification-row-overrides.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library-filter/lorebooks-library-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-window/skill-point-finder-window.module.code.ts"}
