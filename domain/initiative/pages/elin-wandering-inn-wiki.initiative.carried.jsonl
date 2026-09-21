@@ -1,6 +1,6 @@
 {"domain":"domain/wandering-inn-wiki"}
 {"id":"01a0b79c-5a7d-7503-9433-d4b294b29610"}
-{"intentStack":[{"statement":"innworld.wiki serves the pages of one world and no other page akasha holds."}]}
+{"intentStack":[]}
 {"persona":"persona/elin"}
 {"slug":"elin-wandering-inn-wiki"}
 {"type":"page-type/initiative"}
