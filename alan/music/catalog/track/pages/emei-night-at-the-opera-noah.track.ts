@@ -4,6 +4,7 @@ export const emeiNightAtTheOperaNoah = {
   id: "01a0c43e-7094-7bd4-a837-4d46ce8b76a6",
   type: "page-type/track",
   slug: "emei-night-at-the-opera-noah",
+  grade: "B",
   ownLength: 2.6654833333333334,
   ownProgress: 0,
   partOfCollections: ["release/emei-night-at-the-opera"],
