@@ -14,6 +14,18 @@ export const propertyShape = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A shape says whether the property is generated and whether a tool resolves it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape says the group writing the property's file where a group writes it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape leaves out what the page does not say rather than stating a default.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page stating no property slug has no shape.",
     },
     {

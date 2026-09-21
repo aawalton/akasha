@@ -26,4 +26,7 @@ export type Shape = {
   readonly fileName: string | null
   readonly folderName: string | null
   readonly extensionName?: string
+  readonly generated?: true
+  readonly toolResolvesPaths?: true
+  readonly writtenBy?: string
 }

@@ -22,8 +22,23 @@ export function shapesFiled(path: string): boolean {
 
 const ENDING_NAME = "extensionName"
 
+const GENERATED = "generated"
+
+const TOOL_RESOLVES_PATHS = "toolResolvesPaths"
+
+const WRITTEN_BY = "writtenBy"
+
 function endingHeld(shape: Shape, extensionName: string | null): Shape {
   return extensionName === null ? shape : { ...shape, extensionName }
+}
+
+function facedIn(shape: Shape, value: Value, written: string | null): Shape {
+  return {
+    ...shape,
+    ...(value[GENERATED] === true ? { generated: true as const } : {}),
+    ...(value[TOOL_RESOLVES_PATHS] === true ? { toolResolvesPaths: true as const } : {}),
+    ...(written === null ? {} : { writtenBy: written }),
+  }
 }
 
 export function shapedIn(value: Value): Shape | null {
@@ -41,7 +56,7 @@ export function shapedIn(value: Value): Shape | null {
     fileName: textAt(value, "fileName"),
     folderName: textAt(value, "folderName"),
   }
-  return endingHeld(held, textAt(value, ENDING_NAME))
+  return facedIn(endingHeld(held, textAt(value, ENDING_NAME)), value, slugAt(value, WRITTEN_BY))
 }
 
 export function shapeIn(line: string): Shape | null {
@@ -67,7 +82,7 @@ export function shapeIn(line: string): Shape | null {
     fileName: textAt(held, "fileName"),
     folderName: textAt(held, "folderName"),
   }
-  return endingHeld(shape, textAt(held, ENDING_NAME))
+  return facedIn(endingHeld(shape, textAt(held, ENDING_NAME)), held, textAt(held, WRITTEN_BY))
 }
 
 export function shapesIn(body: string): readonly Shape[] {
