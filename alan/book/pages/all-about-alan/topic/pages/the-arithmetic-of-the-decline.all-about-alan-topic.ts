@@ -1,0 +1,17 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theArithmeticOfTheDecline = {
+  id: "01a0c599-4054-7549-ab41-9dfc76707b6a",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-arithmetic-of-the-decline",
+  title: "The Arithmetic Of The Decline",
+  definition: "the rates behind eighteen years of falling capacity, and the same rates in reverse",
+  parents: ["all-about-alan-topic/the-two-decades-i-came-through"],
+  related: [
+    "all-about-alan-topic/the-ceiling-i-am-climbing-back-to",
+    "all-about-alan-topic/the-surplus-i-try-to-stay-above",
+    "all-about-alan-topic/what-wears-my-body-down",
+  ],
+  settled:
+    "For eighteen years I overdrew my nervous system by about half its capacity a year.\n\nIt was not that I was not recovering. I ran heavy intervention the whole way through and improved my coping by more than twenty percent a year. The stressors simply ran at about one and a half times the recovery, which leaves a net deficit of about half each cycle.\n\nThat compounds, at roughly twenty percent of capacity lost per year, and over eighteen years it took at least ninety-nine percent.\n\nThe last year added another fifty percent drop on top of the compounded fall, and that is what finished me.\n\nThe same shape runs in reverse. Sixteen months of holding a surplus has compounded upward, from about one percent to about five, which is five times over in sixteen months and roughly three times a year.",
+} as const satisfies AllAboutAlanTopic
