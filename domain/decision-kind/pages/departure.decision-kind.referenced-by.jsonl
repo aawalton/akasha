@@ -2183,6 +2183,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/music/play/music-play.command.ts","id":"01a062f9-5ca9-7fc5-acba-8d513404a6f9"}
 {"propertySlug":"decision-kind","path":"command/pages/music/queue/music-queue.command.ts","id":"01a062f9-5ca9-7196-a782-961170a78313"}
 {"propertySlug":"decision-kind","path":"command/pages/music/rate/music-rate.command.ts","id":"01a062fb-d2fb-72a1-8169-279a6baf3d97"}
+{"propertySlug":"decision-kind","path":"command/pages/music/release-progress/music-release-progress.command.ts","id":"01a0c4a2-c8c8-7210-ab1f-485b31944748"}
 {"propertySlug":"decision-kind","path":"command/pages/music/repeat/music-repeat.command.ts","id":"01a0a029-748e-779a-a462-6cd1bf166536"}
 {"propertySlug":"decision-kind","path":"command/pages/music/search/music-search.command.ts","id":"01a062f8-ead9-70cb-ae30-58a51b7fc488"}
 {"propertySlug":"decision-kind","path":"command/pages/music/seek/music-seek.command.ts","id":"01a0a021-9251-7e44-81d1-54a35f38c12c"}
