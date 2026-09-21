@@ -30,6 +30,7 @@
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-selection/combat-ui-selection.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-window/combat-ui-window.module.code.ts"}

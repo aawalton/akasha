@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-core-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-unit-stats/combat-unit-stats.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

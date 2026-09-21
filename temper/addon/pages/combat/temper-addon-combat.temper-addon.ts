@@ -173,6 +173,7 @@ export const temperAddonCombat = {
     "type-declaration/combat-ui-live-report-declarations",
     "type-declaration/combat-ui-main-panel-declarations",
     "type-declaration/combat-ui-state-declarations",
+    "module/combat-ui-stats-penetration",
   ],
   interfaces: [
     "eso-interface/combat-templates-layout",
