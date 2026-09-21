@@ -17,6 +17,7 @@ export const temperLibMainMenu = {
     "module/main-menu-setup",
     "module/main-menu-shape",
     "module/main-menu-version",
+    "module/main-menu-scenes",
   ],
   decisions: [
     {
