@@ -2,7 +2,7 @@
 # ADHD as neurotype (working definition)
 
 - ADHD is a neurotype — same shape of framing as autism. Brings significant advantages and significant disadvantages. "Superpowers + kryptonite."
-- Would-you-take-a-pill question: same answer as autism — no for ADHD itself (it defines who he is). Which interventions Alan would accept, and why the answer differs by the *kind* of trouble rather than its severity, is set by the [three-tier disability model](models-of-disability.book-chapter.md) (physical / societal / conceptual).
+- Would-you-take-a-pill question: same answer as autism — no for ADHD itself (it defines who he is). Which interventions Alan would accept, and why the answer differs by the *kind* of trouble rather than its severity, is set by the [three-tier disability model](book-section/all-about-alan/models-of-disability) (physical / societal / conceptual).
 - Differentiators from autism, even though the framing is the same:
   - **Less social disability.** ADHD is more socially acceptable than autism; the day-to-day social cost of ADHD-the-trait-set is lower.
   - **Better treatment options.** Where autism has very few clinically validated levers, ADHD has substantial ones (medication, behavioral systems). Detail: TBD — which levers Alan uses lands in the systems notes and in the topical ADHD trait files.
@@ -10,7 +10,7 @@
 
 ## Heart of ADHD: executive dysfunction
 
-Executive dysfunction is the central mechanism of ADHD — the trait the rest of the kryptonite radiates from. Parallel to autism, where the central mechanism is nervous system sensitivity + lack of habituation (see [nervous-system-sensitivity.md](nervous-system-sensitivity.book-chapter.md), [non-habituation.md](non-habituation.book-chapter.md)).
+Executive dysfunction is the central mechanism of ADHD — the trait the rest of the kryptonite radiates from. Parallel to autism, where the central mechanism is nervous system sensitivity + lack of habituation (see [nervous-system-sensitivity.md](book-section/all-about-alan/nervous-system-sensitivity), [non-habituation.md](book-section/all-about-alan/non-habituation)).
 
 AuDHD gets a double dose: autism brings its own executive dysfunction on top of ADHD's. The autism-side contribution often goes unattributed because the more-visible ADHD side gets the credit.
 
@@ -30,4 +30,4 @@ The umbrella term "executive function" decomposes into a set of related but dist
 - **Flexibility** — shifting strategy when conditions change; tolerating unexpected demands without freezing or escalating.
 - **Metacognition** — monitoring one's own performance and adjusting based on what is working.
 
-ADHD typically involves significant impairment across most or all of these. The personal experience of each EF for Alan — which ones are hardest, which compensations work — lands in [executive-function.md](executive-function.book-chapter.md), and may split further into per-EF files (`working-memory.md`, `time-perception.md`, etc.) as material accumulates.
+ADHD typically involves significant impairment across most or all of these. The personal experience of each EF for Alan — which ones are hardest, which compensations work — lands in [executive-function.md](book-section/all-about-alan/executive-function), and may split further into per-EF files (`working-memory.md`, `time-perception.md`, etc.) as material accumulates.

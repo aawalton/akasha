@@ -1,7 +1,7 @@
 
 # Activity budgeting
 
-The decision rule for what an activity costs and whether to do it. Inputs: the activity's [base tier](stress-capacity-formula.book-chapter.md#cost-base-tiers-by-interaction-type), Alan's current [Safety](safety.book-chapter.md) state, and his baseline distribution (mean and one-sigma band). Output: free / tolerable / intolerable, and separately whether the activity is initiate-able once or on a recurring basis.
+The decision rule for what an activity costs and whether to do it. Inputs: the activity's [base tier](book-section/all-about-alan/stress-capacity-formula#cost-base-tiers-by-interaction-type), Alan's current [Safety](book-section/all-about-alan/safety) state, and his baseline distribution (mean and one-sigma band). Output: free / tolerable / intolerable, and separately whether the activity is initiate-able once or on a recurring basis.
 
 ## Status thresholds
 
@@ -15,7 +15,7 @@ For a single instance of an activity at `tier`, given `current_state` (the Safet
 
 Free means the cost multiplier is 0 — the activity can run continuously without drawing the resource. Tolerable means the multiplier is between 1x (at the base tier) and 0x (a full level above) — the activity costs something but is sustainable for normal-length engagements. Intolerable means the multiplier is at least 1.5x — the activity drains faster than Alan can absorb, and engaging it now produces damage that has to be paid back from elsewhere.
 
-The thresholds map directly to the [stress-capacity-formula multiplier table](stress-capacity-formula.book-chapter.md): the +1 cliff to 0x is where free starts; the 1x crossing at `current_state = tier` is where tolerable starts; below `tier`, the multiplier climbs through 1.5x, 2x, 3x.
+The thresholds map directly to the [stress-capacity-formula multiplier table](book-section/all-about-alan/stress-capacity-formula): the +1 cliff to 0x is where free starts; the 1x crossing at `current_state = tier` is where tolerable starts; below `tier`, the multiplier climbs through 1.5x, 2x, 3x.
 
 ## One-time vs. recurring initiation
 
@@ -34,7 +34,7 @@ The asymmetry: one-time is opportunistic (take the win while the moment lasts); 
 
 ## Worked example — current envelope
 
-Current baseline (as of 2026-05-11): mean 4.5, one-sigma band [4.0, 5.0]. Applied to the cost base tiers in [stress-capacity-formula.md](stress-capacity-formula.book-chapter.md#cost-base-tiers-by-interaction-type):
+Current baseline (as of 2026-05-11): mean 4.5, one-sigma band [4.0, 5.0]. Applied to the cost base tiers in [stress-capacity-formula.md](book-section/all-about-alan/stress-capacity-formula#cost-base-tiers-by-interaction-type):
 
 | Activity | Tier | Status at mean 4.5 |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ The envelope is asymmetric: social (tier 3) is now both free at the mean *and* r
 
 ## Cross-references
 
-- [stress-capacity-formula.md](stress-capacity-formula.book-chapter.md) — the cost multiplier table and base tiers the thresholds are derived from.
-- [safety.md](safety.book-chapter.md) — the resource the rule reads as `current_state` and whose long-run distribution gives `baseline_low`.
-- [autism-diagnostic-arc.md → Current capacity envelope](autism-diagnostic-arc.book-chapter.md#current-capacity-envelope) — the trajectory that brought the baseline to mean 4.5 / σ [4.0, 5.0].
-- [volatility-governor.md](volatility-governor.book-chapter.md) — Rule 2 (*"I'm not allowed to commit to a recurring activity unless I can afford it at a one sigma low"*) is the verbal form of the recurring-initiation gate `tier + 1 ≤ baseline_low`.
+- [stress-capacity-formula.md](book-section/all-about-alan/stress-capacity-formula) — the cost multiplier table and base tiers the thresholds are derived from.
+- [safety.md](book-section/all-about-alan/safety) — the resource the rule reads as `current_state` and whose long-run distribution gives `baseline_low`.
+- [autism-diagnostic-arc.md → Current capacity envelope](book-section/all-about-alan/autism-diagnostic-arc#current-capacity-envelope) — the trajectory that brought the baseline to mean 4.5 / σ [4.0, 5.0].
+- [volatility-governor.md](book-section/all-about-alan/volatility-governor) — Rule 2 (*"I'm not allowed to commit to a recurring activity unless I can afford it at a one sigma low"*) is the verbal form of the recurring-initiation gate `tier + 1 ≤ baseline_low`.

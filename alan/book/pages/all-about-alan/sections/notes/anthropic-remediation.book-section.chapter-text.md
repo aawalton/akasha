@@ -3,7 +3,7 @@
 
 > Anthropic remediation — sequence the migration off the Claude API onto local-compute open-weights inference, funded out of the existing subscription budget. Highest-priority load-bearing D-grade dependency. Concrete worked example of the strategy-and-sequencing framework in `CLAUDE.md`.
 
-The plan for retiring the load-bearing Anthropic dependency. Composes with the [audit entry](software-and-saas.book-chapter.md#anthropic) and the framework concepts in [trust-criterion.md](trust-criterion.book-chapter.md), [grading-scale.md](grading-scale.book-chapter.md), and [ranking-criterion.md](ranking-criterion.book-chapter.md).
+The plan for retiring the load-bearing Anthropic dependency. Composes with the [audit entry](book-section/all-about-alan/software-and-saas#anthropic) and the framework concepts in [trust-criterion.md](book-section/all-about-alan/trust-criterion), [grading-scale.md](book-section/all-about-alan/grading-scale), and [ranking-criterion.md](book-section/all-about-alan/ranking-criterion).
 
 ## What
 
@@ -13,9 +13,9 @@ Migrate AI-as-skill-amplifier — Claude Code, the agent runtime, and household 
 
 **Highest among load-bearing D-grade dependencies.** Three reasons that compound:
 
-1. **Load-bearing scope.** Anthropic is the multiplier on every other household skill — see [personal-context.md → Non-software skills](personal-context.book-chapter.md#non-software-skills). The criticality is wider than any single life-domain dependency because AI support is the lever that turns "decent amateur" capability into actionable capability across cooking, medical, financial, auto, home repair, gardening, textiles, and negotiation.
-2. **Trust grade dropped this year.** The downgrade from B to D was driven by specific recent behaviors. Per [trust-criterion.md → recent behavior is highly diagnostic](trust-criterion.book-chapter.md#recent-behavior-is-highly-diagnostic), recency is the strongest signal the framework receives.
-3. **Alternatives space is rapidly maturing.** Open-weights local inference, competing providers, and capability-sufficient smaller models have all crossed thresholds that make the migration feasible. The viability check in [alternatives.md](alternatives.book-chapter.md) lands cleanly — local-compute is the self-reliance tier and is genuinely available.
+1. **Load-bearing scope.** Anthropic is the multiplier on every other household skill — see [personal-context.md → Non-software skills](book-section/all-about-alan/personal-context#non-software-skills). The criticality is wider than any single life-domain dependency because AI support is the lever that turns "decent amateur" capability into actionable capability across cooking, medical, financial, auto, home repair, gardening, textiles, and negotiation.
+2. **Trust grade dropped this year.** The downgrade from B to D was driven by specific recent behaviors. Per [trust-criterion.md → recent behavior is highly diagnostic](book-section/all-about-alan/trust-criterion#recent-behavior-is-highly-diagnostic), recency is the strongest signal the framework receives.
+3. **Alternatives space is rapidly maturing.** Open-weights local inference, competing providers, and capability-sufficient smaller models have all crossed thresholds that make the migration feasible. The viability check in [alternatives.md](book-section/all-about-alan/alternatives) lands cleanly — local-compute is the self-reliance tier and is genuinely available.
 
 ## Current cost
 
@@ -59,13 +59,13 @@ Three reasons that all push the same direction.
 
 **Switching costs are real.** Workflow disruption, household re-training on whatever the interim option is, and re-validation across every life-domain. Doing the migration twice is wasteful.
 
-**A D-grade dependency is tolerable in the meantime.** Per [grading-scale.md → D](grading-scale.book-chapter.md#d--clear-misalignment-but-tolerable), the D band explicitly allows dependencies to persist when remediation strategy requires it. I see the problem; I am consciously accepting the cost of staying until the right move is available.
+**A D-grade dependency is tolerable in the meantime.** Per [grading-scale.md → D](book-section/all-about-alan/grading-scale#d--clear-misalignment-but-tolerable), the D band explicitly allows dependencies to persist when remediation strategy requires it. I see the problem; I am consciously accepting the cost of staying until the right move is available.
 
 ## Plan entry (per `CLAUDE.md → Anatomy`)
 
-- **What.** Anthropic API — see [software-and-saas.md#anthropic](software-and-saas.book-chapter.md#anthropic).
+- **What.** Anthropic API — see [software-and-saas.md#anthropic](book-section/all-about-alan/software-and-saas#anthropic).
 - **Score.** High criticality × already-enshittifying × very-high switching cost. Top of the load-bearing D-grade queue.
-- **Proposed alternative.** Self-reliance tier per [alternatives.md](alternatives.book-chapter.md) — local-compute open-weights inference on a Mac Studio with 512GB+ memory.
+- **Proposed alternative.** Self-reliance tier per [alternatives.md](book-section/all-about-alan/alternatives) — local-compute open-weights inference on a Mac Studio with 512GB+ memory.
 - **Cost.** Capital outlay roughly equal to one year of the current subscription spend ($10,320). No marginal monthly cost after capital outlay (electricity excluded). Time cost: testing and household re-training during steps 3-4.
 - **Blocked by.** Apple Mac Studio refresh with a 512GB+ SKU available. External; no acceleration path.
 - **Enables.** Retiring the load-bearing Anthropic dependency. Frees the $10,320/year subscription budget for the next-priority remediation.

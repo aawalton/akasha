@@ -13,17 +13,17 @@ The system is effective for many speakers — it generalizes beyond AuDHD. But i
 
 ### Leans into trigger-based conceptual memory
 
-Each arrow is a concept retrieved by a circumstance-cue. Same architecture as the [text-memorization chains](trigger-based-memory.book-chapter.md#1-text-memorization), scaled up from word-cues to circumstance-cues. Alan's [System B' externally-cued S-R habit learning](automaticity-systems.book-chapter.md#b-externally-cued-s-r-habit-learning--intact) is intact and load-bearing — arrows-in-quiver runs on it.
+Each arrow is a concept retrieved by a circumstance-cue. Same architecture as the [text-memorization chains](book-section/all-about-alan/trigger-based-memory#1-text-memorization), scaled up from word-cues to circumstance-cues. Alan's [System B' externally-cued S-R habit learning](book-section/all-about-alan/automaticity-systems#b-externally-cued-s-r-habit-learning--intact) is intact and load-bearing — arrows-in-quiver runs on it.
 
 Verbatim scripts would route through a different system entirely. Alan's memory architecture is well-matched to "circumstance triggers concept"; it is poorly matched to "remember this exact sequence of words". Using the well-matched architecture makes the talk effortless rather than effortful.
 
 ### Accommodates statelessness
 
-No verbatim script means nothing verbatim to remember. [Statelessness](aphantasia-mechanism.book-chapter.md#statelessness--only-conceptual-memory-persists) means Alan can't reliably hold the exact phrasing of even a recently-written sentence across the gap between rehearsal and delivery — the recall channel that would carry the sentence isn't there.
+No verbatim script means nothing verbatim to remember. [Statelessness](book-section/all-about-alan/aphantasia-mechanism#statelessness--only-conceptual-memory-persists) means Alan can't reliably hold the exact phrasing of even a recently-written sentence across the gap between rehearsal and delivery — the recall channel that would carry the sentence isn't there.
 
 The arrows-in-quiver approach bypasses the problem entirely. The arrows *are* the memory; the circumstance fires them. There is nothing to forget that the system depends on. A speaker without statelessness can write and rehearse a verbatim script; Alan can't, and arrows-in-quiver is the alternative that works without that channel.
 
-The mechanism unification — same architecture as text memorization and the agent harness — is captured in [trigger-based-memory.md](trigger-based-memory.book-chapter.md).
+The mechanism unification — same architecture as text memorization and the agent harness — is captured in [trigger-based-memory.md](book-section/all-about-alan/trigger-based-memory).
 
 ## Operating shape
 
@@ -40,7 +40,7 @@ The mechanism unification — same architecture as text memorization and the age
 
 ## Cross-references
 
-- [trigger-based-memory.md](trigger-based-memory.book-chapter.md) — the unifying architecture. Arrows-in-quiver is one of the three domains where Alan deploys System B'.
-- [automaticity-systems.md → System B'](automaticity-systems.book-chapter.md#b-externally-cued-s-r-habit-learning--intact) — the substrate.
-- [aphantasia-mechanism.md → Statelessness](aphantasia-mechanism.book-chapter.md#statelessness--only-conceptual-memory-persists) — the constraint that makes verbatim-script approaches unworkable.
-- [agent-harness.md](agent-harness.book-chapter.md) — the broader personal-harness context. The arrows-in-quiver pattern is one place where the harness's trigger-based architecture shows up at the human-interaction level.
+- [trigger-based-memory.md](book-section/all-about-alan/trigger-based-memory) — the unifying architecture. Arrows-in-quiver is one of the three domains where Alan deploys System B'.
+- [automaticity-systems.md → System B'](book-section/all-about-alan/automaticity-systems#b-externally-cued-s-r-habit-learning--intact) — the substrate.
+- [aphantasia-mechanism.md → Statelessness](book-section/all-about-alan/aphantasia-mechanism#statelessness--only-conceptual-memory-persists) — the constraint that makes verbatim-script approaches unworkable.
+- [agent-harness.md](book-section/all-about-alan/agent-harness) — the broader personal-harness context. The arrows-in-quiver pattern is one place where the harness's trigger-based architecture shows up at the human-interaction level.

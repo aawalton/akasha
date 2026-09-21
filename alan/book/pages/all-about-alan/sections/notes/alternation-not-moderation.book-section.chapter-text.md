@@ -21,7 +21,7 @@ So the alternation I get is the alternation I build. Where most people's turn-ta
 
 > The period I can hold is three seconds, not even minutes.
 
-Three seconds is the same window the [discrete self](discrete-self.book-chapter.md#a-roughly-3-second-window) runs on. It is the measure of what I can hold of a stretch I am in the middle of — so it is not minutes, and it is not the length of any of the alternations recorded here.
+Three seconds is the same window the [discrete self](book-section/all-about-alan/discrete-self#a-roughly-3-second-window) runs on. It is the measure of what I can hold of a stretch I am in the middle of — so it is not minutes, and it is not the length of any of the alternations recorded here.
 
 ## Why moderation can't run
 
@@ -29,7 +29,7 @@ Moderation means holding a balance — spending a bit here against a bit there, 
 
 > Because aphantasia means I have no experiential memory, I can't follow heuristics that require moderation where the balances are built on experiential memory. For example, the most common relationship dynamic seems to be, "keep both columns positive". I can't do that, because I don't have access to the column sum over time.
 
-Two columns, one per person: what each of us is carrying. The ordinary heuristic is a running sum over both, kept by feel over time. I read the current row and nothing else — the sum over time is not available to me at all. See [present-tense-model.md](present-tense-model.book-chapter.md) for the store that isn't there, and [aphantasia-mechanism.md](aphantasia-mechanism.book-chapter.md) for the root.
+Two columns, one per person: what each of us is carrying. The ordinary heuristic is a running sum over both, kept by feel over time. I read the current row and nothing else — the sum over time is not available to me at all. See [present-tense-model.md](book-section/all-about-alan/present-tense-model) for the store that isn't there, and [aphantasia-mechanism.md](book-section/all-about-alan/aphantasia-mechanism) for the root.
 
 ## The near-proof
 
@@ -51,7 +51,7 @@ What the check actually undertakes, stated later in sharper form — and the tim
 
 > A blank check means I agree to pay the cost of the needs that arise during the blank check period, but those costs can come afterwards, which is why it requires time for me to recover still. Any low reading I make during the day is still part of the cost of the nighttime blank check.
 
-So the window bounds which needs I have signed for, not when I pay for them. The cost is incurred at night and can settle any time after — which is why a low reading during the day is the check clearing rather than the check failing, and why it cannot be read as a fault. This is what rules out my own daytime readings as a trigger for [the abort](self-preservation-adapter.book-chapter.md#why-it-has-to-be-jen-and-why-she-has-to-start-it).
+So the window bounds which needs I have signed for, not when I pay for them. The cost is incurred at night and can settle any time after — which is why a low reading during the day is the check clearing rather than the check failing, and why it cannot be read as a fault. This is what rules out my own daytime readings as a trigger for [the abort](book-section/all-about-alan/self-preservation-adapter#why-it-has-to-be-jen-and-why-she-has-to-start-it).
 
 **Only what I want and can afford.**
 
@@ -85,7 +85,7 @@ The marriage is not the only place this is running:
 
 > I am doing connection in an alternation pattern right now, and its hard, but it is working.
 
-Hard and working, both. What the corpus holds about connection as a rate to be dosed is [connection-dosing.md](connection-dosing.book-chapter.md); this is connection run as two poles instead. The [Nuropod worn into social settings](safety.book-chapter.md#safety-is-a-funded-level-not-a-per-alarm-switch) has been really helpful there.
+Hard and working, both. What the corpus holds about connection as a rate to be dosed is [connection-dosing.md](book-section/all-about-alan/connection-dosing); this is connection run as two poles instead. The [Nuropod worn into social settings](book-section/all-about-alan/safety#safety-is-a-funded-level-not-a-per-alarm-switch) has been really helpful there.
 
 ## The ladder — unaffordable, then alternation, then steady state
 
@@ -93,7 +93,7 @@ Alternation is not where this stops:
 
 > I think it transitions into alternation [when] the alternation becomes affordable and into steady state when the steady state becomes affordable.
 
-So there are three rungs, and affordability is what moves between them: a thing I cannot do at all, then the same thing run as two poles once the alternation is payable, then the thing run continuously once the steady state is payable. Alternation is what I can afford on the way. The affordability gate itself is in [safety.md](safety.book-chapter.md#safety-is-a-threshold-gate-not-a-metered-budget).
+So there are three rungs, and affordability is what moves between them: a thing I cannot do at all, then the same thing run as two poles once the alternation is payable, then the thing run continuously once the steady state is payable. Alternation is what I can afford on the way. The affordability gate itself is in [safety.md](book-section/all-about-alan/safety#safety-is-a-threshold-gate-not-a-metered-budget).
 
 What moves the marriage case along that ladder is my own cost coming down:
 
@@ -113,22 +113,22 @@ So sacrifice here is not a mood or a virtue — it is a position in the ledger. 
 
 > It costs her, but also benefits her, leaving her net positive, but she still notices the cost.
 
-Net positive and felt, both. So the row stays positive-sum and my entry stays the negative one, and what is added is that hers carries a cost inside a positive total — a cost she notices. The model holds; what it does not say is that the column I am protecting costs its holder nothing. The worked case is [the nights](central-loneliness/date-nights.book-chapter.md#jen-knows-and-it-costs-her-too), which she knows the price of.
+Net positive and felt, both. So the row stays positive-sum and my entry stays the negative one, and what is added is that hers carries a cost inside a positive total — a cost she notices. The model holds; what it does not say is that the column I am protecting costs its holder nothing. The worked case is [the nights](book-section/all-about-alan/date-nights#jen-knows-and-it-costs-her-too), which she knows the price of.
 
-Paying that costs a rule. The [self-preservation adapter](self-preservation-adapter.book-chapter.md) forbids a negative entry for me outright — *if it would hurt me, I'm not allowed to, even if it would help or avoid hurting others.* Asked whether it still holds inside the blank-check window:
+Paying that costs a rule. The [self-preservation adapter](book-section/all-about-alan/self-preservation-adapter) forbids a negative entry for me outright — *if it would hurt me, I'm not allowed to, even if it would help or avoid hurting others.* Asked whether it still holds inside the blank-check window:
 
 > At the moment, no floor. The do-no-harm bar converts into a do-less-harm compromise. It hurts, but its better than the alternative which is guaranteed misery.
 
-The conversion and its scope are recorded at [self-preservation-adapter.md → the floor converts inside the blank check](self-preservation-adapter.book-chapter.md#2026-08-06--the-floor-converts-inside-the-blank-check).
+The conversion and its scope are recorded at [self-preservation-adapter.md → the floor converts inside the blank check](book-section/all-about-alan/self-preservation-adapter#2026-08-06--the-floor-converts-inside-the-blank-check).
 
 ## Cross-references
 
-- [present-tense-model.md](present-tense-model.book-chapter.md) — one present-tense model, continuously overwritten, with no episodic store: the architecture that leaves no column sum to consult.
-- [aphantasia-mechanism.md](aphantasia-mechanism.book-chapter.md) — the root, and the most-depended-on note in this corpus.
-- [focus-diffuse-alternation.md](focus-diffuse-alternation.book-chapter.md) — alternation already named as the shape of my problem-solving: focus loads and tests, diffuse assembles.
-- [central-loneliness/europe-trip.md](central-loneliness/europe-trip.book-chapter.md) — the trip these came out of, and the two experiments I came back with.
-- [central-loneliness/date-nights.md](central-loneliness/date-nights.book-chapter.md) — the two date nights in operation, the nightly cost the blank check actually runs, and Jen's raised tolerance.
-- [central-loneliness/jen-marriage.md](central-loneliness/jen-marriage.book-chapter.md) — the marriage-conflict machine: disjoint care-set and safe-set, the six-week wave cycle, the don't-initiate operating script.
-- [sexuality-knot/sleep-and-the-bedroom.md](sexuality-knot/sleep-and-the-bedroom.book-chapter.md) — the sleep↔sex tradeoff, the bedroom asymmetry, and the transition-cuddle fix as it stood before this.
-- [safety.md](safety.book-chapter.md#safety-as-the-current-binding-constraint) — the affordability rule and the threshold gate the second pattern runs on.
-- [alternative-gated-endurance.md](alternative-gated-endurance.book-chapter.md) — the standing law that I can do whatever I must while there is truly no other choice, and break when a real alternative opens.
+- [present-tense-model.md](book-section/all-about-alan/present-tense-model) — one present-tense model, continuously overwritten, with no episodic store: the architecture that leaves no column sum to consult.
+- [aphantasia-mechanism.md](book-section/all-about-alan/aphantasia-mechanism) — the root, and the most-depended-on note in this corpus.
+- [focus-diffuse-alternation.md](book-section/all-about-alan/focus-diffuse-alternation) — alternation already named as the shape of my problem-solving: focus loads and tests, diffuse assembles.
+- [central-loneliness/europe-trip.md](book-section/all-about-alan/europe-trip) — the trip these came out of, and the two experiments I came back with.
+- [central-loneliness/date-nights.md](book-section/all-about-alan/date-nights) — the two date nights in operation, the nightly cost the blank check actually runs, and Jen's raised tolerance.
+- [central-loneliness/jen-marriage.md](book-section/all-about-alan/jen-marriage) — the marriage-conflict machine: disjoint care-set and safe-set, the six-week wave cycle, the don't-initiate operating script.
+- [sexuality-knot/sleep-and-the-bedroom.md](book-section/all-about-alan/sleep-and-the-bedroom) — the sleep↔sex tradeoff, the bedroom asymmetry, and the transition-cuddle fix as it stood before this.
+- [safety.md](book-section/all-about-alan/safety#safety-as-the-current-binding-constraint) — the affordability rule and the threshold gate the second pattern runs on.
+- [alternative-gated-endurance.md](book-section/all-about-alan/alternative-gated-endurance) — the standing law that I can do whatever I must while there is truly no other choice, and break when a real alternative opens.

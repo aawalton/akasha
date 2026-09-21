@@ -3,7 +3,7 @@
 
 > The alternatives space — self-reliance is a first-class alternative alongside switching to trustworthy organizations. The reframe converts a dependency from "ongoing relationship" to "one-time capability acquisition" wherever the capability is buildable.
 
-The taxonomy of what I can switch to once an audit item lands at the top of the queue via [ranking-criterion.md](ranking-criterion.book-chapter.md).
+The taxonomy of what I can switch to once an audit item lands at the top of the queue via [ranking-criterion.md](book-section/all-about-alan/ranking-criterion).
 
 ## The point
 
@@ -22,7 +22,7 @@ In rough order from highest-residual-trust-burden to lowest:
 
 ### 1. Trustworthy larger organizations
 
-Costco-tier. Organizations that have earned trust under [trust-criterion.md](trust-criterion.book-chapter.md). Decades of duration plus demonstrated resistance under pressure.
+Costco-tier. Organizations that have earned trust under [trust-criterion.md](book-section/all-about-alan/trust-criterion). Decades of duration plus demonstrated resistance under pressure.
 
 The simplest alternative when one exists. The trade is one ongoing relationship for another, but the new relationship is one that has actually been tested.
 
@@ -40,7 +40,7 @@ Structurally insulated from profit pressure. REI (member-owned co-op), USAA (mut
 
 Not immune — co-ops can still drift, leadership can still capture them, governance can still fail. But the structural starting position is better than a for-profit corporation under the same pressure.
 
-The trust criterion as written assumes profit-pressured organizations. For co-ops and mutuals, the duration condition may relax — the structural insulation does some of the work that "decades of demonstrated resistance" does for a corporation. Open question for a later cycle; flagged in [trust-criterion.md](trust-criterion.book-chapter.md).
+The trust criterion as written assumes profit-pressured organizations. For co-ops and mutuals, the duration condition may relax — the structural insulation does some of the work that "decades of demonstrated resistance" does for a corporation. Open question for a later cycle; flagged in [trust-criterion.md](book-section/all-about-alan/trust-criterion).
 
 ### 4. Self-reliance
 
@@ -76,7 +76,7 @@ When the need can be eliminated, the dependency is gone — not switched, not se
 
 Concrete examples:
 
-- **Medication-independence.** For some prescriptions, the right move is not "find a backup pharmacy" or "stockpile" — it's lifestyle work (sleep, nutrition, coping-skill development) that reduces the medication need to zero. See [healthcare.md → strategy](healthcare.book-chapter.md#strategy--medication-independence-direction) for the first concrete worked example.
+- **Medication-independence.** For some prescriptions, the right move is not "find a backup pharmacy" or "stockpile" — it's lifestyle work (sleep, nutrition, coping-skill development) that reduces the medication need to zero. See [healthcare.md → strategy](book-section/all-about-alan/healthcare#strategy--medication-independence-direction) for the first concrete worked example.
 - **Reduce information consumption.** Instead of switching from one social platform to another, drop the social-platform dependency entirely. The need was discretionary in the first place.
 - **Reduce convenience purchases.** Instead of finding a B-grade vendor for a convenience good, eliminate the need — cook at home rather than find a trustworthy restaurant chain; mend a garment rather than find a trustworthy clothing brand; walk or bike rather than find a trustworthy rideshare service.
 
@@ -94,11 +94,11 @@ Trade-off: usability, ecosystem maturity, and discoverability are usually worse 
 
 Public services that historically operated outside profit pressure — the postal service, public libraries, public broadcasting, public schools, certain public health services. Long history of providing services that the private sector would not provide on commercially attractive terms.
 
-Important caveat: these are themselves under capture pressure now. Government services that used to be reliably outside profit pressure are no longer reliably outside it (per [thesis.md → corporate capture](thesis.book-chapter.md#what-the-thesis-claims) — point 3). The same trust criterion has to apply. Some public services remain Costco-tier; some are visibly enshittifying. The framework treats each as a candidate, not a default.
+Important caveat: these are themselves under capture pressure now. Government services that used to be reliably outside profit pressure are no longer reliably outside it (per [thesis.md → corporate capture](book-section/all-about-alan/thesis#what-the-thesis-claims) — point 3). The same trust criterion has to apply. Some public services remain Costco-tier; some are visibly enshittifying. The framework treats each as a candidate, not a default.
 
 ## Picking an alternative
 
-Given an audit item ranked high by [ranking-criterion.md](ranking-criterion.book-chapter.md), the picker walks the taxonomy top-to-bottom against the **viability** of each candidate. Viability lives in [audit-scope.md → invisible constraints](audit-scope.book-chapter.md#invisible-constraints--the-load-bearing-bucket) (the framework recognizes alternatives that look inaccessible at first as still being real options) but the viability criteria themselves are deferred to a later cycle — flagged in `/abby`'s backlog.
+Given an audit item ranked high by [ranking-criterion.md](book-section/all-about-alan/ranking-criterion), the picker walks the taxonomy top-to-bottom against the **viability** of each candidate. Viability lives in [audit-scope.md → invisible constraints](book-section/all-about-alan/audit-scope#invisible-constraints--the-load-bearing-bucket) (the framework recognizes alternatives that look inaccessible at first as still being real options) but the viability criteria themselves are deferred to a later cycle — flagged in `/abby`'s backlog.
 
 Default mix: when the criticality is high and the switching cost is high, layer alternatives — switch to a trustworthy organization for the immediate gap, build self-reliance for the medium-term, keep awareness of the decentralized option as insurance against the trustworthy organization itself failing the test later.
 

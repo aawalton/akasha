@@ -38,7 +38,7 @@ An **invisible constraint** is a dependency that feels inescapable because the a
 
 Canonical example: **paying property taxes**. The alternative is moving to a different jurisdiction (or buying property without taxes, which mostly doesn't exist in any developed country). The cost of the alternative is so high that the dependency stops feeling like a dependency at all — it feels like a fact of life.
 
-But it is a dependency. The municipal / county / state government is a large organization. It collects ongoing money from me. It is subject to enshittification pressure under [enshittification.md](enshittification.book-chapter.md) as much as any corporation. Treating it as a fact of life rather than a dependency means the framework can never see its risk-adjusted exposure.
+But it is a dependency. The municipal / county / state government is a large organization. It collects ongoing money from me. It is subject to enshittification pressure under [enshittification.md](book-section/all-about-alan/enshittification) as much as any corporation. Treating it as a fact of life rather than a dependency means the framework can never see its risk-adjusted exposure.
 
 ### Other invisible-constraint examples
 
@@ -53,7 +53,7 @@ But it is a dependency. The municipal / county / state government is a large org
 
 Two reasons:
 
-1. **The alternatives are real, even if expensive.** Including them makes them visible as strategic options. Moving jurisdictions is a real lever, even if it's an expensive one. Solar+battery is a real lever, even if the capital cost is high. Building capability — self-reliance per [alternatives.md](alternatives.book-chapter.md) — is a real lever in every category. Until the invisible constraint is in the audit, none of these levers can be evaluated against each other.
+1. **The alternatives are real, even if expensive.** Including them makes them visible as strategic options. Moving jurisdictions is a real lever, even if it's an expensive one. Solar+battery is a real lever, even if the capital cost is high. Building capability — self-reliance per [alternatives.md](book-section/all-about-alan/alternatives) — is a real lever in every category. Until the invisible constraint is in the audit, none of these levers can be evaluated against each other.
 2. **The same enshittification pressure applies.** A jurisdiction that has been steadily worsening for me (higher taxes, more invasive regulation, less reliable services) is enshittifying in the same shape as a corporation. The framework needs to see it. The trust criterion applies to the jurisdiction the same way it applies to Costco or Walmart.
 
 The cost of including invisible constraints in the audit is small (a few extra files). The cost of excluding them is structural — the framework becomes blind to the highest-leverage strategic moves available.
@@ -70,10 +70,10 @@ The third exclusion has edge cases — a sole proprietor I depend on heavily (my
 
 ## Granularity
 
-One file per life-domain in the audit. Within a file, each specific dependency gets its own section. So [banking.md](banking.book-chapter.md) has sections for each of my actual accounts; [healthcare.md](healthcare.book-chapter.md) has sections for insurer, providers, pharmacy. Recursive split rule applies — when a domain file gets too dense, split into sub-files.
+One file per life-domain in the audit. Within a file, each specific dependency gets its own section. So [banking.md](book-section/all-about-alan/banking) has sections for each of my actual accounts; [healthcare.md](book-section/all-about-alan/healthcare) has sections for insurer, providers, pharmacy. Recursive split rule applies — when a domain file gets too dense, split into sub-files.
 
 ## Applications
 
 - The audit — every file in it is governed by this scope rule.
-- [ranking-criterion.md](ranking-criterion.book-chapter.md) — the audit is the input the ranking criterion sorts.
-- [alternatives.md](alternatives.book-chapter.md) — the alternatives taxonomy is what makes invisible-constraint inclusion useful, because it surfaces the strategic options that a narrower audit scope would hide.
+- [ranking-criterion.md](book-section/all-about-alan/ranking-criterion) — the audit is the input the ranking criterion sorts.
+- [alternatives.md](book-section/all-about-alan/alternatives) — the alternatives taxonomy is what makes invisible-constraint inclusion useful, because it surfaces the strategic options that a narrower audit scope would hide.
