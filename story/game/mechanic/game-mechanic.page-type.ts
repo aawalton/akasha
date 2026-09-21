@@ -37,6 +37,7 @@ export const gameMechanic = {
     "module/affinity-element",
     "game-mechanic/essence-absorption",
     "module/skill-rung",
+    "game-mechanic/skill-bonus",
   ],
   decisions: [
     {
