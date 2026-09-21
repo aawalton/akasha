@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-inventory/potion-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-reagents/potion-reagents.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-i18n/writ-i18n.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-prov-data/writ-prov-data.module.code.ts"}

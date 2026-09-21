@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-init/potion-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-inventory/potion-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-main-menu/potion-main-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-search/potion-search.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-state/potion-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}

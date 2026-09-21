@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-events/potion-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-keybinds/potion-keybinds.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-tooltips/potion-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-windows/potion-windows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-util/writ-util.module.code.ts"}

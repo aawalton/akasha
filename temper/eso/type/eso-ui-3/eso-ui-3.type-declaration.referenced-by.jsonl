@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-events/crafting-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-controls-ingredients/potion-controls-ingredients.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-inventory/potion-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-tooltip-helpers/potion-tooltip-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-tooltips/potion-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-windows/potion-windows.module.code.ts"}

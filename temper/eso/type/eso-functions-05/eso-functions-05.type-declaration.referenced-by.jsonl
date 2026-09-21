@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-events-handlers-station/crafting-events-handlers-station.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-inventory/potion-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-keybinds/potion-keybinds.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/rune-favorites/rune-favorites.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/rune-furniture-recipes/rune-furniture-recipes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/rune-search/rune-search.module.code.ts"}

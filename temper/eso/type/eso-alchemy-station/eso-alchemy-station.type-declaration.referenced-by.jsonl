@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-keybinds/potion-keybinds.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-potion-craft/potion-potion-craft.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-reagents/potion-reagents.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-render-page/potion-render-page.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-alchemy-station.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-search/potion-search.module.code.ts"}
