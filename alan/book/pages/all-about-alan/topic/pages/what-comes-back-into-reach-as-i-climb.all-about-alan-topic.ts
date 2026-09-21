@@ -12,5 +12,5 @@ export const whatComesBackIntoReachAsIClimb = {
     "all-about-alan-topic/how-far-behind-i-am-on-people",
   ],
   settled:
-    "Every activity has a band: a rung where it turns affordable, and a higher one where it turns free.\n\nAffordable means it does not cost me the day. Free means I do not count the cost at all.\n\nCompany goes affordable at three, conflict and telling someone about myself at four, criticism at five.\n\nTalking to an AI is a level cheaper than anyone human, because I can read it and pay no premium.\n\nI do not argue myself out of dangerous. I wait for a surplus, expand a little, and ask if it is safe now.",
+    "Every activity has a band: a rung where it turns affordable, and a higher one where it turns free.\n\nAffordable means it does not cost me the day. Free means I do not count the cost at all.\n\nEntertainment sits at one and programming at two. Company goes affordable at three, conflict and telling someone about myself at four, criticism at five.\n\nTalking to an AI is a level cheaper than anyone human, because I can read it and pay no premium.\n\nI do not argue myself out of dangerous. I wait for a surplus, expand a little, and ask if it is safe now.",
 } as const satisfies AllAboutAlanTopic
