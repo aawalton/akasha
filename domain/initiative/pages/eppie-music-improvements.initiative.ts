@@ -11,7 +11,7 @@ export const eppieMusicImprovements = {
       statement:
         "A Spotify playlist holds the music Alan has not heard by the artists Alan follows.",
       workingMemory:
-        "Built and unrun. `akasha music unheard-playlist` picks the tracks, and `--plan` reads 258 tracks over 14 artists. The picking is `module/unheard-picking`, the Spotify write is `module/spotify-playlists`, and `playlist-modify-private` is now in `SPOTIFY_SCOPES`. A live run answers 403 because the saved token was granted before that scope, so Alan runs the PKCE consent again before it works. Nothing was created.\n",
+        "Blocked at Spotify rather than here. `akasha music unheard-playlist --plan` reads 258 tracks over 14 artists, and `akasha music consent` saves a token carrying `playlist-modify-private`. `POST /users/{id}/playlists` answers a bare 403 Forbidden whatever the scope, while a true scope refusal on this same token reads `Insufficient client scope`, and player writes and top reads both work. So Spotify refuses this app the playlist endpoints, and the developer dashboard is where that is settled.\n",
     },
   ],
 } as const satisfies Initiative
