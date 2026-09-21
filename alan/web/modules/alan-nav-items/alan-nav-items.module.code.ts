@@ -2,7 +2,6 @@ import type { AppNavItem } from "akasha/design/interface/layout/modules/nav-type
 import {
   BarChart3,
   Compass,
-  Database,
   ExternalLink,
   FileText,
   Hammer,
@@ -50,14 +49,6 @@ export const NAV_ITEM_TECH: AppNavItem = {
       shortLabel: "Grafana",
       href: "https://grafana.alanwalton.com",
       icon: BarChart3,
-      external: true,
-    },
-    {
-      id: "supabase",
-      label: "Supabase",
-      shortLabel: "Supabase",
-      href: "https://supabase.alanwalton.com",
-      icon: Database,
       external: true,
     },
   ],
