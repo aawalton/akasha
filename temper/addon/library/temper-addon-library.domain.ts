@@ -26,5 +26,8 @@ export const temperAddonLibrary = {
     "eso-addon/temper-lib-notification",
     "eso-addon/temper-lib-price",
     "eso-addon/temper-lib-saved-vars",
+    "eso-addon/temper-lib-sets",
+    "eso-addon/temper-lib-slash-commander",
+    "eso-addon/temper-lib-table-functions",
   ],
 } as const satisfies Domain
