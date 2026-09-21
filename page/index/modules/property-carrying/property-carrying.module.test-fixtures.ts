@@ -51,7 +51,7 @@ export const OWN: Naming = {
   value: { folderName: ".", said: true },
 }
 
-const ADDON = "one/two.eso-addon.ts"
+const ADDON = "one/two.temper-addon.ts"
 
 const NOWHERE = "/nowhere"
 
@@ -76,7 +76,7 @@ export function refusing(): Carried {
 
 export function folderedAt(named: string): Carried {
   return named === "named-folder-property/icons"
-    ? { carrying: [{ pageTypeSlug: "eso-addon", path: ADDON, id: TWO, within: null }] }
+    ? { carrying: [{ pageTypeSlug: "temper-addon", path: ADDON, id: TWO, within: null }] }
     : { refused: "no page property carries that slug" }
 }
 

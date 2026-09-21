@@ -32,7 +32,7 @@ export function groupClaiming(there: IsThere = () => false): readonly string[] {
   return claimsOf(value, GROUP_PAGE, "/repo", filed, sidecarsIn(GROUPING), new Map(), there)
 }
 
-export const ADDON = "deep/a.eso-addon.ts"
+export const ADDON = "deep/a.temper-addon.ts"
 
 const NO_KINDS: ReadonlySet<string> = new Set()
 
@@ -40,12 +40,12 @@ const NO_FILED: FilePropertiesBy = new Map()
 
 const NO_FOLDERED: FoldersBy = new Map()
 
-const FOLDERED: FoldersBy = new Map([["eso-addon", new Map([["icons", "Icons"]])]])
+const FOLDERED: FoldersBy = new Map([["temper-addon", new Map([["icons", "Icons"]])]])
 
-const NAMED: FilePropertiesBy = new Map([["eso-addon", new Map([["bindings", "Bindings.xml"]])]])
+const NAMED: FilePropertiesBy = new Map([["temper-addon", new Map([["bindings", "Bindings.xml"]])]])
 
 const paging: Paging = (folder, types) =>
-  folder === "deep" && types.has("eso-addon") ? ADDON : null
+  folder === "deep" && types.has("temper-addon") ? ADDON : null
 
 export function claimantBelow(path: string): string | null {
   return claimantOf(paging, path, NO_KINDS, NO_FILED, FOLDERED)
@@ -55,7 +55,7 @@ export function claimantNamed(path: string): string | null {
   return claimantOf(paging, path, NO_KINDS, NAMED, NO_FOLDERED)
 }
 
-const ENDED: ExtensionsBy = new Map([["eso-addon", new Map([["addon-dds-file", "dds"]])]])
+const ENDED: ExtensionsBy = new Map([["temper-addon", new Map([["addon-dds-file", "dds"]])]])
 
 export function claimantClosing(path: string): string | null {
   return claimantOf(paging, path, NO_KINDS, NO_FILED, FOLDERED, ENDED)
