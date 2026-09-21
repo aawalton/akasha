@@ -6,6 +6,7 @@ export const landingChangeComposing = {
   slug: "landing-change-composing",
   definition: "the change a set of file changes makes against the repository",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -61,6 +62,11 @@ export const landingChangeComposing = {
       decisionKind: "decision-kind/departure",
       statement:
         "A landing folds its rows for a page's referenced-by file into the rows that file holds on the tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing folds a shapes row into the rows the tree holds, by the page property that row is for.",
     },
   ],
 } as const satisfies Module

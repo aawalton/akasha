@@ -15,6 +15,11 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import type { Settling } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
+import {
+  bodyOf,
+  shapeIn,
+  shapesFiled,
+} from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 export type Bodied = {
   readonly path: string
@@ -96,27 +101,79 @@ function rowsIn(body: string | null): readonly string[] {
   return (body ?? "").split("\n").filter((one) => one !== "")
 }
 
+type Rowing = {
+  readonly keyOf: (line: string) => string | null
+  readonly bodied: (lines: readonly string[]) => string
+}
+
+const REFERENCES: Rowing = {
+  keyOf: (line) => line,
+  bodied: (lines) =>
+    [...lines]
+      .sort()
+      .map((one) => `${one}\n`)
+      .join(""),
+}
+
+const SHAPES: Rowing = {
+  keyOf: (line) => {
+    const one = shapeIn(line)
+    return one === null ? null : `${one.pageTypeSlug}/${one.slug}`
+  },
+  bodied: (lines) =>
+    bodyOf(
+      lines.flatMap((line) => {
+        const one = shapeIn(line)
+        return one === null ? [] : [one]
+      })
+    ),
+}
+
+function rowingFor(path: string): Rowing | null {
+  if (referencesFiled(path)) return REFERENCES
+  return shapesFiled(path) ? SHAPES : null
+}
+
 export function besideBefore(changes: readonly FileChange[]): ReadonlyMap<string, string | null> {
   const held = new Map<string, string | null>()
   for (const one of changes) {
-    if (one.kind === "move" || !referencesFiled(one.path)) continue
+    if (one.kind === "move" || rowingFor(one.path) === null) continue
     if (one.kind === "add") held.set(one.path, null)
     if (one.kind === "replace") held.set(one.path, one.contentFrom)
   }
   return held
 }
 
-function rowsMerged(was: string | null, mine: string, now: string | null): string {
-  const had = new Set(rowsIn(was))
-  const kept = new Set(rowsIn(mine))
-  const rows = new Set(rowsIn(now).filter((one) => kept.has(one) || !had.has(one)))
-  for (const one of kept) {
-    if (!had.has(one)) rows.add(one)
+function keyedIn(lines: readonly string[], rowing: Rowing): Map<string, string> | null {
+  const held = new Map<string, string>()
+  for (const one of lines) {
+    const key = rowing.keyOf(one)
+    if (key === null) return null
+    held.set(key, one)
   }
-  return [...rows]
-    .sort()
-    .map((one) => `${one}\n`)
-    .join("")
+  return held
+}
+
+function rowsMerged(
+  was: string | null,
+  mine: string,
+  now: string | null,
+  rowing: Rowing
+): string | null {
+  const had = keyedIn(rowsIn(was), rowing)
+  const kept = keyedIn(rowsIn(mine), rowing)
+  const tree = keyedIn(rowsIn(now), rowing)
+  if (had === null || kept === null || tree === null) return null
+  const rows = new Map<string, string>()
+  for (const [key, line] of tree) {
+    const held = kept.get(key)
+    if (held !== undefined) rows.set(key, held)
+    else if (!had.has(key)) rows.set(key, line)
+  }
+  for (const [key, line] of kept) {
+    if (!had.has(key)) rows.set(key, line)
+  }
+  return rowing.bodied([...rows.values()])
 }
 
 export function besideRebased(
@@ -126,15 +183,18 @@ export function besideRebased(
 ): readonly Bodied[] {
   if (before.size === 0) return edits
   return edits.map((one) => {
-    if (one.body === null || !before.has(one.path)) return one
+    const rowing = rowingFor(one.path)
+    if (one.body === null || rowing === null || !before.has(one.path)) return one
     const mine = TEXT.decode(one.body)
     const now = diskAt(root, one.path)
     const said = rowsMerged(
       before.get(one.path) ?? null,
       mine,
-      now === null ? null : TEXT.decode(now)
+      now === null ? null : TEXT.decode(now),
+      rowing
     )
-    return said === "" || said === mine ? one : { path: one.path, body: BYTES.encode(said) }
+    if (said === null || said === "" || said === mine) return one
+    return { path: one.path, body: BYTES.encode(said) }
   })
 }
 
