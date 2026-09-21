@@ -11,6 +11,7 @@ export const musicChoosing = {
     "module/track-candidate",
     "module/track-resolving",
     "module/unheard-picking",
+    "page-type/playlist",
   ],
   decisions: [
     {
@@ -19,7 +20,7 @@ export const musicChoosing = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes a page.",
+      statement: "No module here writes a page.",
     },
     {
       decisionKind: "decision-kind/absence",
