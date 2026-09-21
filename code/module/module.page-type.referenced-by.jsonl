@@ -4535,6 +4535,12 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-map/character-capture-skill-map.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-strip/skill-morph-strip.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/datamining/modules/datamining-payload/datamining-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/error/modules/errors-descriptor/errors-descriptor.module.ts"}
@@ -4973,10 +4979,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-equipment/modules/weapon-source/weapon-source.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-equipment/modules/weapon-trait-effects/weapon-trait-effects.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-strip/skill-morph-strip.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/bank-profile-reading/bank-profile-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/bank-trace-reading/bank-trace-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/eso-base-game-globals/eso-base-game-globals.module.ts"}
@@ -5099,8 +5101,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-core/modules/skill-lines-by-companion/skill-lines-by-companion.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/companions-ui/modules/use-companions/use-companions.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/completion-import/modules/completion-input-schema/completion-input-schema.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/completion/modules/completion-progress/completion-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/completion/modules/completion-record/completion-record.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/completion/modules/completion-writer-schema/completion-writer-schema.module.ts"}

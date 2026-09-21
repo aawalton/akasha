@@ -12,13 +12,13 @@ import {
   readPages,
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
+import { parseSavedVariablesContent } from "akasha/temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
 import { getCompanionIdByDefId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { parseSavedVariablesContent } from "akasha/temper/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
 import { classifyCompletionImport } from "akasha/temper/player-completion/modules/completion-import-outcome/completion-import-outcome.module.code.ts"
 import {
   mergeAccountCompletionForward,

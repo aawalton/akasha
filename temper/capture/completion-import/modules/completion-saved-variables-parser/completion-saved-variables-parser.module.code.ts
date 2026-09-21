@@ -3,16 +3,16 @@ import {
   asRecordOrEmpty,
 } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import {
+  cleanAccountCompletionInput,
+  cleanCharacterCompletionInput,
+  cleanCompanionCompletionInput,
+} from "akasha/temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import {
-  cleanAccountCompletionInput,
-  cleanCharacterCompletionInput,
-  cleanCompanionCompletionInput,
-} from "akasha/temper/completion-import/modules/completion-input-schema/completion-input-schema.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 

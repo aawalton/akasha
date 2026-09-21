@@ -13,7 +13,7 @@ import { refreshTaskHud } from "akasha/temper/addon/characters-addon/modules/cha
 import { clearInitialCompletion } from "akasha/temper/addon/characters-addon/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import { isCurrentCharacterNext } from "akasha/temper/addon/characters-addon/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
 import { resolveTaskProgress } from "akasha/temper/addon/characters-addon/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
-import { isSkillMorphTaskComplete } from "akasha/temper/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
+import { isSkillMorphTaskComplete } from "akasha/temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
 import {
   getEsoDayStringFromSec,
   getEsoResetTimestampSec,

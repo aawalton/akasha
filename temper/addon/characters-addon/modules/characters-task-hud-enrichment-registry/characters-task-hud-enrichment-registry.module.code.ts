@@ -33,7 +33,7 @@ import {
 import {
   getSkillMorphEnrichment,
   isSkillMorphTask,
-} from "akasha/temper/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
+} from "akasha/temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import type { DailyWritProfessionState } from "akasha/temper/player-completion-state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 import type { TaskData } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"

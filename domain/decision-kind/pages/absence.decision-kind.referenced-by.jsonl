@@ -1772,6 +1772,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture-datamining-reader/modules/saved-variables-schema/saved-variables-schema.module.ts","id":"01a0609d-90df-725b-9ebe-3417953f530a"}
 {"propertySlug":"decision-kind","path":"temper/capture-datamining-reader/temper-capture-datamining-reader.domain.ts","id":"01a0609d-90dd-75fe-af4b-e55cf72da4b3"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
+{"propertySlug":"decision-kind","path":"temper/capture/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.ts","id":"01a0608a-15b1-7b7c-a207-279aad7165d2"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-payload/datamining-payload.module.ts","id":"01a0608a-15b1-7c8a-abad-1fed4e8585a6"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/temper-capture-datamining.domain.ts","id":"01a0608a-15b0-78f6-8e8e-282460347005"}
@@ -1819,7 +1820,6 @@
 {"propertySlug":"decision-kind","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts","id":"01a07c93-f240-7b33-9d06-f8459b129064"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
 {"propertySlug":"decision-kind","path":"temper/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
-{"propertySlug":"decision-kind","path":"temper/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.ts","id":"01a060cf-b0b1-726e-9c87-8a0d3121e120"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/temper-shopping.domain.ts","id":"01a060cf-b0ae-749c-8084-93aa1e9a4247"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/listing/temper-trading-listing.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}

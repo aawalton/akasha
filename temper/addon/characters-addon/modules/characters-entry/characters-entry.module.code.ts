@@ -43,7 +43,7 @@ import { collectZoneCompletion } from "akasha/temper/addon/characters-addon/modu
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
-} from "akasha/temper/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"
+} from "akasha/temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 import {
   finishPerfTrace,

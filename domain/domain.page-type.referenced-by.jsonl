@@ -553,6 +553,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/build-support/temper-build-support.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture-datamining-reader/temper-capture-datamining-reader.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/completion-import/temper-completion-import.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/datamining/temper-capture-datamining.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/error/temper-capture-error.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts"}
@@ -580,12 +582,10 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-character-ui/temper-characters-character-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-equipment-ui/temper-characters-equipment-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-equipment/temper-characters-equipment.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/command/temper-command.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companion-codec/temper-companion-codec.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companions-core/temper-companions-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companions-ui/temper-companions-ui.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion-import/temper-completion-import.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion/temper-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/shopping/temper-shopping.domain.ts"}

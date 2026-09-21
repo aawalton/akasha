@@ -435,6 +435,7 @@
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
+{"propertySlug":"decision-kind","path":"temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.ts","id":"01a060d7-c8ce-7583-8247-676a8ee7d0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/trait/properties/metric-id.text-property.ts","id":"01a05fb0-3ced-7636-a899-431b497b3f1f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-eso-trait-map/properties/trait-id.text-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-jewelry-slot/properties/jewelry-type-id.text-property.ts","id":"01a05fd1-d43c-7d49-81c6-a1c0aa409075"}
@@ -737,7 +738,6 @@
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/companions/companions.module.ts","id":"01a06119-5caf-7f14-b426-f5ed8d06b488"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/condition-evaluator/condition-evaluator.module.ts","id":"01a06152-c2d9-7bfd-bdcf-e47f851e9b16"}
 {"propertySlug":"decision-kind","path":"temper/companions-core/modules/reference-build-data/reference-build-data.module.ts","id":"01a06152-c2da-7538-9de2-da50c79de469"}
-{"propertySlug":"decision-kind","path":"temper/completion-import/modules/completion-input-schema/completion-input-schema.module.ts","id":"01a060d7-c8ce-7583-8247-676a8ee7d0c5"}
 {"propertySlug":"decision-kind","path":"temper/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
 {"propertySlug":"decision-kind","path":"temper/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
 {"propertySlug":"decision-kind","path":"temper/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}

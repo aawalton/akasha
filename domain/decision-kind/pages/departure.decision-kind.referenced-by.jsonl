@@ -4261,6 +4261,10 @@
 {"propertySlug":"decision-kind","path":"temper/capture-datamining-reader/modules/saved-variables-schema/saved-variables-schema.module.ts","id":"01a0609d-90df-725b-9ebe-3417953f530a"}
 {"propertySlug":"decision-kind","path":"temper/capture-datamining-reader/temper-capture-datamining-reader.domain.ts","id":"01a0609d-90dd-75fe-af4b-e55cf72da4b3"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts","id":"01a062ff-2792-7da8-8bfd-3a48ace9bf53"}
+{"propertySlug":"decision-kind","path":"temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.ts","id":"01a060d7-c8ce-7583-8247-676a8ee7d0c5"}
+{"propertySlug":"decision-kind","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.ts","id":"01a060d7-c8cf-7aa1-a0b6-af0a0addf2ef"}
+{"propertySlug":"decision-kind","path":"temper/capture/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.ts","id":"01a0608a-15b1-7b7c-a207-279aad7165d2"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-payload/datamining-payload.module.ts","id":"01a0608a-15b1-7c8a-abad-1fed4e8585a6"}
 {"propertySlug":"decision-kind","path":"temper/capture/datamining/temper-capture-datamining.domain.ts","id":"01a0608a-15b0-78f6-8e8e-282460347005"}
@@ -4527,7 +4531,6 @@
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/sets-rows-second/sets-rows-second.module.ts","id":"01a08e66-1f4e-7974-86a0-547f57e1c025"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"decision-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
-{"propertySlug":"decision-kind","path":"temper/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts","id":"01a062ff-2792-7da8-8bfd-3a48ace9bf53"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/bank-profile-reading/bank-profile-reading.module.ts","id":"01a06864-aa2b-7001-b025-909d59f3ea04"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/bank-trace-reading/bank-trace-reading.module.ts","id":"01a06864-aa2b-7002-9f57-fb06fdfa105a"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/eso-chatter-names/eso-chatter-names.module.ts","id":"01a069cf-7042-7000-8df6-e6b7ffd0efc8"}
@@ -4634,9 +4637,6 @@
 {"propertySlug":"decision-kind","path":"temper/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}
 {"propertySlug":"decision-kind","path":"temper/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.ts","id":"01a06360-7480-7004-99b9-59ca52965b19"}
 {"propertySlug":"decision-kind","path":"temper/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
-{"propertySlug":"decision-kind","path":"temper/completion-import/modules/completion-input-schema/completion-input-schema.module.ts","id":"01a060d7-c8ce-7583-8247-676a8ee7d0c5"}
-{"propertySlug":"decision-kind","path":"temper/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.ts","id":"01a060d7-c8cf-7aa1-a0b6-af0a0addf2ef"}
-{"propertySlug":"decision-kind","path":"temper/completion-import/temper-completion-import.domain.ts","id":"01a060d7-c8cc-7e3d-bff7-b5db10d7b35f"}
 {"propertySlug":"decision-kind","path":"temper/completion/modules/completion-progress/completion-progress.module.ts","id":"01a0607a-9cbc-7106-abcd-353786bf9f09"}
 {"propertySlug":"decision-kind","path":"temper/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
 {"propertySlug":"decision-kind","path":"temper/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
