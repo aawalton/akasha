@@ -5,7 +5,7 @@ import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/pan
 import { scrollToCard } from "akasha/design/interface/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
 import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
-import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import { companionTraits } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"
 import type { PurchaseRecommendation } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { kioskLocationName } from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"

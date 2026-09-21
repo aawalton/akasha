@@ -4,7 +4,7 @@ import {
   formatEnemyType,
   formatStatusType,
   formatWeaponType,
-} from "akasha/temper/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
+} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
 import type { BadgeVariant } from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
 
 interface ConstraintBadgesProps {

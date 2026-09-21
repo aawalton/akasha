@@ -1,12 +1,12 @@
+import type { CompanionId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
+import {
+  companions,
+  getCompanionIdByDefId,
+} from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   type SkillLineId,
   skillLines,
 } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
-import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import {
-  companions,
-  getCompanionIdByDefId,
-} from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type {
   CharacterCompletion,
   CompanionCompletion,

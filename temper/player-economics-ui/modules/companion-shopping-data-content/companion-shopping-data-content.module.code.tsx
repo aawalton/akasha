@@ -26,7 +26,7 @@ import {
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
-} from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { CompanionGearByCompanionPanelCard } from "akasha/temper/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"
 import { CompanionGearByPricePanelCard } from "akasha/temper/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"
 import { CompanionGearByTraitPanelCard } from "akasha/temper/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx"

@@ -13,7 +13,7 @@ import {
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import { parseSavedVariablesContent } from "akasha/temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
-import { getCompanionIdByDefId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
+import { getCompanionIdByDefId } from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,

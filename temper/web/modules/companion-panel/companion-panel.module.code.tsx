@@ -15,12 +15,12 @@ import {
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
-} from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
+} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionState } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
   type CompanionId,
   companions,
-} from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
+} from "akasha/temper/catalog/temper-companion/companions-core/modules/companions/companions.module.code.ts"
 
 interface CompanionPanelProps {
   companion: CompanionState["companion"]

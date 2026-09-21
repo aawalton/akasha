@@ -23,5 +23,6 @@ export const temperCompanion = {
     "page-type/temper-companion-weapon-type",
     "page-type/temper-eso-companion",
     "page-type/temper-eso-companion-equipment-constant",
+    "domain/temper-companions-core",
   ],
 } as const satisfies Domain

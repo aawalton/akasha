@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import type {
   RotationResult,
   SkillUsageSummary,
-} from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+} from "akasha/temper/catalog/temper-companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { deriveCompanionRotationOutcome } from "akasha/temper/web/modules/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"
 
 const SILENT_SKILL: SkillUsageSummary = {

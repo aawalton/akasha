@@ -18,12 +18,12 @@ import {
 } from "akasha/temper/build-support/modules/build-row/build-row.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import type { SettableBuildVisibility } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
-import { encodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
-} from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import { createNewCompanion } from "akasha/temper/companions-core/modules/companion-factory/companion-factory.module.code.ts"
+} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { createNewCompanion } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
+import { encodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   type CompanionBuildMetadata,

@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { createNewCompanion } from "akasha/temper/companions-core/modules/companion-factory/companion-factory.module.code.ts"
+import { createNewCompanion } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
 import {
   COMPANION_IDS_WITH_DEF_ID,
   type CompanionImportPorts,

@@ -1,4 +1,4 @@
-import type { RotationResult } from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+import type { RotationResult } from "akasha/temper/catalog/temper-companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 
 export type CompanionRotationOutcome = "nothing-simulated" | "no-damage-or-healing" | "breakdown"
 

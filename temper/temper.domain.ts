@@ -20,7 +20,6 @@ export const temper = {
     "domain/temper-characters-equipment",
     "domain/temper-command",
     "domain/temper-companion-codec",
-    "domain/temper-companions-core",
     "domain/temper-completion",
     "domain/temper-eso-type",
     "domain/temper-formula-framework",

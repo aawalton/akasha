@@ -15,7 +15,7 @@ import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.m
 import type {
   Build,
   ComboRankingsMap,
-} from "akasha/temper/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
+} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import { CompanionLeaderboardContent } from "akasha/temper/web/modules/companion-leaderboard-content/companion-leaderboard-content.module.code.tsx"
 import {
   LEADERBOARD_TARGET_ARMOR_ITEMS,

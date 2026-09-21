@@ -1,5 +1,8 @@
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"}
+{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/temper-companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts"}
+{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/temper-companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"}
+{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/temper-companion/companions-core/modules/companion-weapon-base-values/companion-weapon-base-values.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"}
@@ -20,9 +23,6 @@
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/characters-equipment/modules/weapon-source/weapon-source.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/characters-equipment/modules/weapon-trait-effects/weapon-trait-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"}
-{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts"}
-{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"}
-{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/companions-core/modules/companion-weapon-base-values/companion-weapon-base-values.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/items-rules-core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"}

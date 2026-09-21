@@ -4,15 +4,15 @@ import { BadgeRow } from "akasha/design/interface/badge/modules/badge/badge.modu
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import { sortEffectsByCategory } from "akasha/temper/companions-core/modules/companion-effect-category/companion-effect-category.module.code.ts"
-import type { CompanionSkillTemplate } from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
-import { extractSkillTiming } from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
-import { isResourceCostEffect } from "akasha/temper/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { sortEffectsByCategory } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-effect-category/companion-effect-category.module.code.ts"
+import type { CompanionSkillTemplate } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import { extractSkillTiming } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import { isResourceCostEffect } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import {
   extractPrimaryTargeting,
   updateDescriptionWithCalculatedValues,
-} from "akasha/temper/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+} from "akasha/temper/catalog/temper-companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
 import { formatAbbreviated } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
 import { CollapsibleSkillCard } from "akasha/temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
