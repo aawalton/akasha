@@ -14,4 +14,7 @@ export const storyZoneQuestSkillPoints = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "next_character",
   priority: "p3",
+  progress: "jsonl",
+  progressCurrent: 1408,
+  progressTotal: 3280,
 } as const satisfies TemperTask

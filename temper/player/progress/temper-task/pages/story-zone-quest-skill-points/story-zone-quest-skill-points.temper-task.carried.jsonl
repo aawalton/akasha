@@ -5,6 +5,9 @@
 {"icon":"file-text"}
 {"id":"01a0c624-3916-7fe9-a515-b012dbb17027"}
 {"priority":"p3"}
+{"progress":"jsonl"}
+{"progressCurrent":1408}
+{"progressTotal":3280}
 {"rruleAnchorFromCompletion":false}
 {"rruleRule":"FREQ=DAILY"}
 {"scope":"next_character"}
