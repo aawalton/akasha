@@ -3,7 +3,7 @@
 {"categoryId":"companion"}
 {"conditions":"jsonl"}
 {"description":"Sells companion equipment of superior (blue) quality or lower. Higher-quality companion gear is preserved."}
-{"displayOrder":38}
+{"displayOrder":39}
 {"goal":"temper-rule-goal/sell"}
 {"id":"019e3104-2626-7136-8e6d-b66c7b5b20a6"}
 {"key":"companion-green-sell"}

@@ -3,7 +3,7 @@
 {"categoryId":"recipes"}
 {"conditions":"jsonl"}
 {"description":"Sells recipes you've already learned, up to fine (green) quality. Higher-quality known recipes are preserved in case they have trade value."}
-{"displayOrder":41}
+{"displayOrder":42}
 {"goal":"temper-rule-goal/sell"}
 {"id":"019e3104-2628-7b7f-bd11-f6d4ad45e189"}
 {"key":"recipes-known-sell"}

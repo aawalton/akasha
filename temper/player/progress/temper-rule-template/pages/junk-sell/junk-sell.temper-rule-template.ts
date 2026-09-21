@@ -8,7 +8,7 @@ export const junkSell = {
   key: "junk-sell",
   description: "Sells items in the junk category at a merchant.",
   categoryId: "junk",
-  displayOrder: 37,
+  displayOrder: 38,
   action: "temper-item-action/sell",
   active: false,
   goal: "temper-rule-goal/sell",

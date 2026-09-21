@@ -22,6 +22,17 @@ export const TEMPER_RULE_TEMPLATES_02: readonly CategoryRule[] = [
     active: false,
   },
   {
+    id: "deconstruct-stolen",
+    title: "Launder stolen equipment",
+    notes:
+      "Launders stolen equipment that no higher-priority rule claimed, so it can be deconstructed. Place directly before the leftover equipment deconstruct rule.",
+    goal: "hoard",
+    categoryId: "equipment",
+    action: "fence-launder",
+    active: false,
+    conditions: { "stolen": "stolen" },
+  },
+  {
     id: "equipment-deconstruct",
     title: "Deconstruct leftover equipment",
     notes:

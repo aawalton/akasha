@@ -20,6 +20,7 @@
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts","id":"01a0728b-8ec1-7536-8fc5-234be5e73ba0"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts","id":"01a0728b-8ec2-7808-9e1b-362739c2b586"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/crafting-stolen/crafting-stolen.temper-rule-template.ts","id":"019e3104-261d-7c75-8813-f427ac1358a8"}
+{"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/deconstruct-stolen/deconstruct-stolen.temper-rule-template.ts","id":"01a0c613-98f4-734c-8386-a7f8d19c584a"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/inspire-stolen/inspire-stolen.temper-rule-template.ts","id":"019e3104-2614-7316-8d1c-1e373007d0dc"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/research-stolen/research-stolen.temper-rule-template.ts","id":"019e3104-2611-7cc5-8947-fe78ebffbff1"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/tasks-stolen/tasks-stolen.temper-rule-template.ts","id":"019e3104-2615-7cda-ba54-233e6c758ff2"}

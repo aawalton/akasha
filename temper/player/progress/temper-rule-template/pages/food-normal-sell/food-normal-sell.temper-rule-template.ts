@@ -9,7 +9,7 @@ export const foodNormalSell = {
   description:
     "Sells normal (white) quality non-crafted food. Crafted and higher-quality food is kept.",
   categoryId: "food",
-  displayOrder: 44,
+  displayOrder: 45,
   action: "temper-item-action/sell",
   active: false,
   goal: "temper-rule-goal/sell",

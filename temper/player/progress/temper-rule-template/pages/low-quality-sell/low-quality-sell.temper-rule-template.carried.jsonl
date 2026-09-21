@@ -3,7 +3,7 @@
 {"categoryId":"all"}
 {"conditions":"jsonl"}
 {"description":"Sells items of fine (green) quality or lower at a merchant. Higher-quality items are preserved for other rules. Place near the bottom — items caught by higher-priority rules are unaffected."}
-{"displayOrder":46}
+{"displayOrder":47}
 {"goal":"temper-rule-goal/sell"}
 {"id":"019e3104-262d-7918-8dcc-4b97684d4e61"}
 {"key":"low-quality-sell"}

@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"temper-rule-template.page-type.types.ts","path":"temper/player/progress/temper-rule-template/pages/crafted-nothing/crafted-nothing.temper-rule-template.ts"}
 {"propertySlug":"import","fileName":"temper-rule-template.page-type.types.ts","path":"temper/player/progress/temper-rule-template/pages/crafting-craft-bag/crafting-craft-bag.temper-rule-template.ts"}
 {"propertySlug":"import","fileName":"temper-rule-template.page-type.types.ts","path":"temper/player/progress/temper-rule-template/pages/crafting-stolen/crafting-stolen.temper-rule-template.ts"}
+{"propertySlug":"import","fileName":"temper-rule-template.page-type.types.ts","path":"temper/player/progress/temper-rule-template/pages/deconstruct-stolen/deconstruct-stolen.temper-rule-template.ts"}
 {"propertySlug":"import","fileName":"temper-rule-template.page-type.types.ts","path":"temper/player/progress/temper-rule-template/pages/drink-normal-sell/drink-normal-sell.temper-rule-template.ts"}
 {"propertySlug":"import","fileName":"temper-rule-template.page-type.types.ts","path":"temper/player/progress/temper-rule-template/pages/equipment-deconstruct/equipment-deconstruct.temper-rule-template.ts"}
 {"propertySlug":"import","fileName":"temper-rule-template.page-type.types.ts","path":"temper/player/progress/temper-rule-template/pages/food-normal-sell/food-normal-sell.temper-rule-template.ts"}

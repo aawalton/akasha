@@ -9,7 +9,7 @@ export const drinkNormalSell = {
   description:
     "Sells normal (white) quality non-crafted drinks. Crafted and higher-quality drinks are kept.",
   categoryId: "drink",
-  displayOrder: 45,
+  displayOrder: 46,
   action: "temper-item-action/sell",
   active: false,
   goal: "temper-rule-goal/sell",

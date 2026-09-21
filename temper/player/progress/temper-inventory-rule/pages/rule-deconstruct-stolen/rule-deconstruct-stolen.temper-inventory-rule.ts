@@ -15,4 +15,6 @@ export const ruleDeconstructStolen = {
   action: "temper-item-action/fence-launder",
   active: true,
   updatedAt: "2026-09-21T22:15:47.448Z",
+  locked: true,
+  fromTemplate: "temper-rule-template/deconstruct-stolen",
 } as const satisfies TemperInventoryRule

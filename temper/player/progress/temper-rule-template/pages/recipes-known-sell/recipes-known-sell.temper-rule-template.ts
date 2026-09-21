@@ -9,7 +9,7 @@ export const recipesKnownSell = {
   description:
     "Sells recipes you've already learned, up to fine (green) quality. Higher-quality known recipes are preserved in case they have trade value.",
   categoryId: "recipes",
-  displayOrder: 41,
+  displayOrder: 42,
   action: "temper-item-action/sell",
   active: false,
   goal: "temper-rule-goal/sell",

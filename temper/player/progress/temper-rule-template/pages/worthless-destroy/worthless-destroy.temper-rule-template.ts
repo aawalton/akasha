@@ -9,7 +9,7 @@ export const worthlessDestroy = {
   description:
     "Destroys normal (white) quality items that have no guild store value and no merchant value. Place at the very bottom — only items not caught by any higher-priority rule are destroyed.",
   categoryId: "all",
-  displayOrder: 47,
+  displayOrder: 48,
   action: "temper-item-action/destroy",
   active: false,
   goal: "temper-rule-goal/destroy",

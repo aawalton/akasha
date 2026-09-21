@@ -9,7 +9,7 @@ export const glyphsDeconstruct = {
   description:
     "Deconstructs non-crafted glyphs for enchanting materials. Yields runes that can be reused in crafting.",
   categoryId: "glyphs",
-  displayOrder: 27,
+  displayOrder: 28,
   action: "temper-item-action/deconstruct",
   active: false,
   goal: "temper-rule-goal/hoard",
