@@ -1,4 +1,5 @@
 {"id":"01a0c203-8435-7a85-a110-2612d40bd4d7","title":"Sleep","startTime":"2026-09-21T03:30:00.000Z","dailyTracking":"01a0c368-8e7f-7000-bb65-29160eef508c","safetyLevel":"2","difficultyLevel":"0","endTime":"2026-09-21T12:30:00.000Z"}
 {"id":"01a0c403-829d-7763-8c36-f57b2eb80c6d","title":"Hygiene","startTime":"2026-09-21T12:30:00.000Z","dailyTracking":"01a0c368-8e7f-7000-bb65-29160eef508c","safetyLevel":"4","difficultyLevel":"1","endTime":"2026-09-21T12:40:00.000Z"}
 {"id":"01a0c403-96d7-76f7-8a7a-41910096fd5e","title":"Walk","startTime":"2026-09-21T12:40:00.000Z","dailyTracking":"01a0c368-8e7f-7000-bb65-29160eef508c","safetyLevel":"4","difficultyLevel":"1","endTime":"2026-09-21T13:20:00.000Z"}
-{"id":"01a0c429-ce95-718d-a040-d11b1d02da73","title":"Projects","startTime":"2026-09-21T13:20:00.000Z","dailyTracking":"01a0c368-8e7f-7000-bb65-29160eef508c","safetyLevel":"4","difficultyLevel":"2"}
+{"id":"01a0c429-ce95-718d-a040-d11b1d02da73","title":"Projects","startTime":"2026-09-21T13:20:00.000Z","dailyTracking":"01a0c368-8e7f-7000-bb65-29160eef508c","safetyLevel":"4","difficultyLevel":"2","endTime":"2026-09-21T16:00:00.000Z"}
+{"id":"01a0c4b0-a226-746a-ba7a-3b24f1f83a29","title":"Projects + Pod","startTime":"2026-09-21T16:00:00.000Z","dailyTracking":"01a0c368-8e7f-7000-bb65-29160eef508c","safetyLevel":"4","difficultyLevel":"2"}
