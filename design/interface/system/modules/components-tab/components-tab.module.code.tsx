@@ -41,7 +41,11 @@ import {
   ItemRowPanel,
   ScrollAreaPanel,
 } from "akasha/design/interface/system/modules/components-item-display-panels/components-item-display-panels.module.code.tsx"
-import { ComponentsListGridPanels } from "akasha/design/interface/system/modules/components-list-grid-panels/components-list-grid-panels.module.code.tsx"
+import {
+  LoadMoreButtonPanel,
+  PaginatedCardGridPanel,
+  VirtualCardGridPanel,
+} from "akasha/design/interface/system/modules/components-list-grid-panels/components-list-grid-panels.module.code.tsx"
 import {
   AlertDialogPanel,
   ContextMenuPanel,
@@ -149,7 +153,9 @@ export function ComponentsTabContent() {
           <ItemRowPanel />
           <HorizontalScrollFadePanel />
           <ScrollAreaPanel />
-          <ComponentsListGridPanels />
+          <LoadMoreButtonPanel />
+          <VirtualCardGridPanel />
+          <PaginatedCardGridPanel />
           <ComponentsCompoundPanels />
           <ComponentsCompoundNavPanels />
         </ResponsiveColumns>
