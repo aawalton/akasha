@@ -114,6 +114,10 @@ export const changeWalking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A walk over everything carries no body into a run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Which files those are is git's walk rather than a listing of the tree on disk.",
     },
     {

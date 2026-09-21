@@ -354,7 +354,7 @@ function everyFileInside(root: string): readonly string[] {
 
 export function everythingIn(root: string): Change {
   const both = onDisk(root)
-  return { root, changed: everyFileInside(root), before: both, after: both }
+  return { root, changed: everyFileInside(root), carried: [], before: both, after: both }
 }
 
 export function nothingIn(root: string): Change {
