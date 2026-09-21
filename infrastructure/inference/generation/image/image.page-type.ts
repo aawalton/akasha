@@ -14,6 +14,8 @@ export const image = {
       many: false,
       uncommitted: true,
     },
+    { pageProperty: "number-property/relationship-level", required: false, many: false },
+    { pageProperty: "text-property/eso-day", required: false, many: false },
   ],
   decisions: [
     {
