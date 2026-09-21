@@ -7,4 +7,6 @@ export const howMyAttentionWorks = {
   title: "How My Attention Works",
   definition: "where my attention goes, what holds it, and what it does when I leave it alone",
   parents: ["all-about-alan-topic/alan"],
+  settled:
+    "What good regulation buys me is attention. When the traffic is moving, what clears is attention I can then spend, and how much of it I have available is the core of the whole thing.\n\nThe total swings by orders of magnitude with how regulated I am, so the same room can be unbearable on one day and empty on another.\n",
 } as const satisfies AllAboutAlanTopic
