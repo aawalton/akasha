@@ -4,8 +4,7 @@ export const blockSubagentAudit = {
   id: "01a06906-100c-7bd1-92e8-8157b8483c37",
   type: "page-type/agent-hook",
   slug: "block-subagent-audit",
-  definition:
-    "a refusal of an `akasha audit` a subagent narrows, the bare call left through for anyone",
+  definition: "a refusal of an `akasha audit` a subagent names `--file-path` in",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -13,8 +12,12 @@ export const blockSubagentAudit = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run narrowed to named checks is let through, as a bare run is.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
       statement:
-        "The cost this hook once refused a narrowed run for is gone, and the refusal is Alan's to lift.",
+        "A call another program builds reaches the audit unrefused, `sh -c` and a script file alike.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,16 +38,8 @@ export const blockSubagentAudit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run narrowed to named checks is refused.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
         "`--file-path` is no argument of `akasha audit`, and a call naming it is refused here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run naming no check asks the service, so that run is refused here by nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

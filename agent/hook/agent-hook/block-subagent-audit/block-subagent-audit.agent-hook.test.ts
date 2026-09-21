@@ -35,66 +35,58 @@ function asSeat(command: string): number {
   return answerFor(payload(command, null)).code
 }
 
-const NARROWED = "akasha audit --check typecheck"
+const BY_PATH = "akasha audit --file-path checks"
+
+const BY_CHECK = "akasha audit --check typecheck"
 
 test("a bare audit a subagent calls asks the service, so it is refused by nothing", () => {
   expect(asSubagent("akasha audit")).toBe(ASIDE)
   expect(asSeat("akasha audit")).toBe(ASIDE)
 })
 
-test("a run narrowed to one check is refused", () => {
-  expect(asSubagent(NARROWED)).toBe(REFUSED)
-  expect(asSubagent("akasha audit --check typecheck --check duplicate-rule")).toBe(REFUSED)
+test("a run narrowed to named checks asks the service too, so it is refused by nothing", () => {
+  expect(asSubagent(BY_CHECK)).toBe(ASIDE)
+  expect(asSubagent("akasha audit --check typecheck --check duplicate-rule")).toBe(ASIDE)
+  expect(asSeat(BY_CHECK)).toBe(ASIDE)
 })
 
 test("a call naming `--file-path`, which the command does not take, is refused", () => {
-  expect(asSubagent("akasha audit --file-path checks")).toBe(REFUSED)
-})
-
-test("a seat's narrowed run is let through", () => {
-  expect(asSeat(NARROWED)).toBe(ASIDE)
+  expect(asSubagent(BY_PATH)).toBe(REFUSED)
 })
 
 test("the refusal names `--file-path` as no argument rather than as a way to narrow files", () => {
-  const err = answerFor(payload(NARROWED, OWN)).err
+  const err = answerFor(payload(BY_PATH, OWN)).err
   expect(err).toContain("`--file-path` IS NO ARGUMENT OF `akasha audit`")
   expect(err).not.toContain("`--file-path` narrows the files as well")
   expect(err).not.toContain("--file-path <one folder>")
 })
 
-test("the refusal says the cost it once named is gone rather than saying that cost is here", () => {
-  const err = answerFor(payload(NARROWED, OWN)).err
-  expect(err).toContain("THE COST THIS REFUSAL ONCE NAMED IS GONE")
-  expect(err).toContain("asks `audit-running.service` for a round over HTTP")
+test("the refusal sends the caller to `--check` rather than to a bare run alone", () => {
+  const err = answerFor(payload(BY_PATH, OWN)).err
+  expect(err).toContain("NAME THE CHECKS YOU WANTED WITH `--check` AND RUN IT")
   expect(err).not.toContain("judge in this process")
   expect(err).not.toContain("20.4 GB")
+  expect(err).not.toContain("what a hook refuses is Alan's to settle")
 })
 
 test("the refusal says what a run costs now, each figure measured rather than supposed", () => {
-  const err = answerFor(payload(NARROWED, OWN)).err
-  expect(err).toContain("Each figure here is measured")
+  const err = answerFor(payload(BY_PATH, OWN)).err
+  expect(err).toContain("each figure measured rather than supposed")
   expect(err).toContain("a Kubernetes job on a cluster node rather than this workstation")
-  expect(err).toContain("148 MB to 189 MB resident")
+  expect(err).toContain("11.3 MB peak resident and 0.04s of processor time over 20m02s")
 })
 
-test("the refusal gives Alan's say as its reason rather than a cost it no longer has", () => {
-  const err = answerFor(payload(NARROWED, OWN)).err
-  expect(err).toContain("what a hook refuses is Alan's to settle")
-  expect(err).toContain("reads who calls rather than what the call asks for")
-  expect(err).not.toContain("really are several audits")
-})
-
-test("the scope no longer says either flag judges in the process that called it", () => {
+test("the scope says `--check` is refused by nothing rather than that it judges here", () => {
   const there = SCOPE.join("\n")
-  expect(there).toContain("Neither does now.")
+  expect(there).toContain("WHY `--check` IS REFUSED BY NOTHING")
   expect(there).not.toContain("Each of these two flags judges in the process that calls it")
+  expect(there).not.toContain("is his call to make rather than this hook's to drop")
 })
 
-test("the refusal names the bare run as what answers instead", () => {
-  const err = answerFor(payload(NARROWED, OWN)).err
-  expect(err).toContain("`akasha audit` bare")
-  expect(err).toContain("`akasha change apply` is checked")
-  expect(err).toContain("The tests, the typecheck and the linter all")
+test("the scope keeps the calls this hook does not reach", () => {
+  const there = SCOPE.join("\n")
+  expect(there).toContain("NOT REACHED")
+  expect(there).toContain("a call another program builds")
 })
 
 test("every other akasha command is let through", () => {
@@ -105,29 +97,27 @@ test("every other akasha command is let through", () => {
 })
 
 test("a word only holding the name inside it is no audit call", () => {
-  expect(asSubagent("echo akasha audit --check typecheck")).toBe(ASIDE)
+  expect(asSubagent(`echo ${BY_PATH}`)).toBe(ASIDE)
   expect(asSubagent("rg audit akasha/command-system")).toBe(ASIDE)
   expect(asSubagent("git log --oneline --grep audit")).toBe(ASIDE)
 })
 
 test("an audit in a later segment is judged as the first is", () => {
-  expect(asSubagent("cd /var/home/walton/repos/akasha && akasha audit --check typecheck")).toBe(
-    REFUSED
-  )
+  expect(asSubagent(`cd /var/home/walton/repos/akasha && ${BY_PATH}`)).toBe(REFUSED)
 })
 
 test("a prefix that only runs the call behind it does not hide the audit", () => {
-  expect(asSubagent(`timeout 900 ${NARROWED}`)).toBe(REFUSED)
-  expect(asSubagent(`nohup ${NARROWED}`)).toBe(REFUSED)
-  expect(asSubagent(`sudo ${NARROWED}`)).toBe(REFUSED)
+  expect(asSubagent(`timeout 900 ${BY_PATH}`)).toBe(REFUSED)
+  expect(asSubagent(`nohup ${BY_PATH}`)).toBe(REFUSED)
+  expect(asSubagent(`sudo ${BY_PATH}`)).toBe(REFUSED)
 })
 
 test("a name set before the call is not the call", () => {
-  expect(asSubagent(`HELD=1 ${NARROWED}`)).toBe(REFUSED)
+  expect(asSubagent(`HELD=1 ${BY_PATH}`)).toBe(REFUSED)
 })
 
 test("the command reached by a path is the same call", () => {
-  expect(asSubagent("/var/home/walton/.bun/bin/akasha audit --check typecheck")).toBe(REFUSED)
+  expect(asSubagent("/var/home/walton/.bun/bin/akasha audit --file-path checks")).toBe(REFUSED)
 })
 
 test("a call carrying no command is let through", () => {
@@ -156,16 +146,16 @@ test("a subagent is read off the payload rather than off the seat", () => {
 })
 
 test("the audit is read as the first word after the command, and then its flags", () => {
-  expect(narrowedIn("akasha audit --check typecheck")).toBe(true)
-  expect(narrowedIn("akasha audit --file-path checks")).toBe(true)
+  expect(narrowedIn(BY_PATH)).toBe(true)
+  expect(narrowedIn(BY_CHECK)).toBe(false)
   expect(narrowedIn("akasha audit")).toBe(false)
   expect(narrowedIn("akasha read --file-path akasha/x.ts")).toBe(false)
-  expect(narrowedIn("audit --check typecheck")).toBe(false)
+  expect(narrowedIn("audit --file-path checks")).toBe(false)
   expect(narrowedIn("")).toBe(false)
 })
 
 test("a flag before the command name does not hide the audit", () => {
-  expect(narrowedIn("akasha --quiet audit --check typecheck")).toBe(true)
+  expect(narrowedIn("akasha --quiet audit --file-path checks")).toBe(true)
 })
 
 test("a command line carrying no call is refused for nothing", () => {
