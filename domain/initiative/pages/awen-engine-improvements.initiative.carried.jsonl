@@ -1,6 +1,6 @@
 {"domain":"domain/story-engine"}
 {"id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
-{"intentStack":[{"statement":"No story-design-note holds content another page type would carry."}]}
+{"intentStack":[{"statement":"The numbers a turn settles come from the mechanics the game names."}]}
 {"persona":"persona/awen"}
 {"slug":"awen-engine-improvements"}
 {"type":"page-type/initiative"}

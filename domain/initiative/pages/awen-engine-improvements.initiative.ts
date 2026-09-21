@@ -6,5 +6,7 @@ export const awenEngineImprovements = {
   slug: "awen-engine-improvements",
   domain: "domain/story-engine",
   persona: "persona/awen",
-  intentStack: [{ statement: "No story-design-note holds content another page type would carry." }],
+  intentStack: [
+    { statement: "The numbers a turn settles come from the mechanics the game names." },
+  ],
 } as const satisfies Initiative
