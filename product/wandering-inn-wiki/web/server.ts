@@ -28,6 +28,7 @@ const SERVING: RouterAppServing = {
   clientDir: CLIENT_DIR,
   csp: {},
   whoIsReading,
+  heldToGrants: true,
   routes: createRequestHandler(serverBuild, "production"),
 }
 

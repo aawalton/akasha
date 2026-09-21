@@ -11,26 +11,35 @@ const AT = new Request("https://requests.alanwalton.com/api/nav-icon/0d4d87c8")
 
 const NOWHERE = "/var/tmp/no-client-folder-is-here"
 
-function serving(routes: RouterAppServing["routes"]): RouterAppServing {
+function serving(routes: RouterAppServing["routes"], heldToGrants = true): RouterAppServing {
   return {
     clientDir: NOWHERE,
     csp: {},
     whoIsReading: async () => ({ user: null }),
+    heldToGrants,
     routes,
   }
 }
 
-test("every route of an app is reached inside a reader", async () => {
+async function namedIn(heldToGrants: boolean): Promise<boolean> {
   let named = false
   await servedBy(
     serving(async () => {
       named = gateInScope() !== null
       return new Response("")
-    }),
+    }, heldToGrants),
     AT,
     "/api/nav-icon/0d4d87c8"
   )
-  expect(named).toBe(true)
+  return named
+}
+
+test("a site held to its reader's grants reaches every route inside that reader", async () => {
+  expect(await namedIn(true)).toBe(true)
+})
+
+test("a site saying nothing is held to nothing", async () => {
+  expect(await namedIn(false)).toBe(false)
 })
 
 test("a site naming its reader reads every request as that person", async () => {

@@ -26,7 +26,17 @@ export const routerAppServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every route of an app is reached inside the reader that app read the request as.",
+      statement:
+        "A site says whether every read under a request is held to what its reader reaches.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A site saying nothing is held to nothing, which is where every site was before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A site held that way reaches every route inside the reader it read the request as.",
     },
     {
       decisionKind: "decision-kind/departure",

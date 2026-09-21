@@ -29,6 +29,7 @@ export type RouterAppServing = {
   readonly clientDir: string
   readonly csp: AppCspConfig
   readonly whoIsReading: WhoIsReading
+  readonly heldToGrants?: boolean
   readonly routes: RoutesReached
 }
 
@@ -54,8 +55,10 @@ export async function servedBy(
   const asset = await serveClientStatic(pathname, serving.clientDir)
   if (asset) return asset
   const nonce = randomId()
-  const answered = await readingFor(serving.whoIsReading, request, () =>
-    serving.routes(request, { nonce })
-  )
+  const reached = (): Promise<Response> => serving.routes(request, { nonce })
+  const answered =
+    serving.heldToGrants === true
+      ? await readingFor(serving.whoIsReading, request, reached)
+      : await reached()
   return headed(answered, serving.csp, nonce)
 }
