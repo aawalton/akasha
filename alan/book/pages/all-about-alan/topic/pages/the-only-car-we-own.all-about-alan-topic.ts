@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theOnlyCarWeOwn = {
+  id: "01a0c59a-d6b9-751e-8a71-941f32c6e96d",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-only-car-we-own",
+  title: "The Only Car We Own",
+  definition: "one vehicle for five people, and what owning one of a critical thing means",
+  parents: ["all-about-alan-topic/getting-out-from-under-a-dependency"],
+  related: ["all-about-alan-topic/putting-two-things-with-one-company"],
+  settled:
+    "A Honda Odyssey from 2015, eleven years old, is the only vehicle the five of us have. Nothing else covers a week in the shop, so one failure takes road transport from the whole household at once.\n\nIt is capital we own rather than anybody I depend on. Honda matters to me for parts, manuals and recalls, not as a relationship.\n\nOwning a single instance of something critical with nothing behind it is a shape my grading does not catch, because the grading was built for outside organisations.",
+} as const satisfies AllAboutAlanTopic
