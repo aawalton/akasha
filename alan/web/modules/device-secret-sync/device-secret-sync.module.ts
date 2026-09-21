@@ -67,6 +67,18 @@ export const deviceSecretSync = {
       statement: "The native store deletes before the store adds.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A second add over an item the first add left is refused as a duplicate.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One mint runs at a time, and a run finding one under way awaits it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mint the store landed and the keychain refused leaves the two disagreeing.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A secret the admission route refuses is let go of on the next launch.",
     },

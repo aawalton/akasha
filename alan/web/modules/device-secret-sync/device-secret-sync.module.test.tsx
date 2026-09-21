@@ -6,11 +6,12 @@ import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.mo
 import { act } from "react"
 
 let clearCount = 0
+let peekPresent = true
 const API_CALLS: string[] = []
 
 const PLUGIN = {
   getDeviceId: () => Promise.resolve({ deviceId: "device-under-test" }),
-  peek: () => Promise.resolve({ present: true, fingerprint: null, domain: "pinned" }),
+  peek: () => Promise.resolve({ present: peekPresent, fingerprint: null, domain: "pinned" }),
   store: () => Promise.resolve({ domain: "pinned" }),
   clear: () => {
     clearCount += 1
@@ -54,7 +55,21 @@ async function settle(): Promise<void> {
 
 beforeEach(() => {
   clearCount = 0
+  peekPresent = true
   API_CALLS.length = 0
+})
+
+test("two runs that overlap mint once, so the store and the keychain keep one secret", async () => {
+  peekPresent = false
+  render(
+    <UserIdContext value="user-under-test">
+      <DeviceSecretSync />
+      <DeviceSecretSync />
+    </UserIdContext>
+  )
+  await settle()
+
+  expect(API_CALLS.filter((one) => one === "/api/device-secret/mint")).toHaveLength(1)
 })
 
 test("an identity going null clears the on-device secret and asks the store to revoke it", async () => {

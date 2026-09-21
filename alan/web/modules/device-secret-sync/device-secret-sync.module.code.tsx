@@ -64,6 +64,17 @@ async function askAdmission(plugin: DeviceSecretPlugin): Promise<RouteRead> {
   }
 }
 
+let minting: Promise<void> | null = null
+
+function mintingAlone(work: () => Promise<void>): Promise<void> {
+  if (minting !== null) return minting
+  const held = work().finally(() => {
+    if (minting === held) minting = null
+  })
+  minting = held
+  return held
+}
+
 async function recoverAndMint(plugin: DeviceSecretPlugin, userId: string): Promise<void> {
   try {
     const cleared = await plugin.clear()
@@ -200,7 +211,7 @@ export function DeviceSecretSync() {
         console.warn(
           "[device-secret] the route refuses the secret this device holds — letting it go and minting another"
         )
-        await recoverAndMint(plugin, userID)
+        await mintingAlone(() => recoverAndMint(plugin, userID))
         return
       }
       if (probe.ok && probe.present) {
@@ -208,7 +219,7 @@ export function DeviceSecretSync() {
           `[device-secret] a secret is stored, but in the ${probe.domain} keychain domain, which the widget extension cannot read — re-minting so it lands in the shared access group`
         )
       }
-      await mintAndStore(plugin, userID)
+      await mintingAlone(() => mintAndStore(plugin, userID))
     })()
 
     return () => {
