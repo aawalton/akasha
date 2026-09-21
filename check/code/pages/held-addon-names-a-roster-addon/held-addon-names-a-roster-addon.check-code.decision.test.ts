@@ -7,19 +7,19 @@ import {
 } from "akasha/check/code/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.check-code.decision.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const ADDON_PAGE = "temper/temper-hum-async/temper-hum-async.eso-addon.ts"
+const ADDON_PAGE = "temper/temper-hum-async/temper-hum-async.temper-addon.ts"
 
-const MANIFEST_AT = "temper/temper-hum-async/temper-hum-async.eso-addon.addon-manifest.json"
+const MANIFEST_AT = "temper/temper-hum-async/temper-hum-async.temper-addon.addon-manifest.json"
 
-const ELSEWHERE_PAGE = "temper/temper-hum-late/temper-hum-late.eso-addon.ts"
+const ELSEWHERE_PAGE = "temper/temper-hum-late/temper-hum-late.temper-addon.ts"
 
-const ELSEWHERE_AT = "temper/temper-hum-late/temper-hum-late.eso-addon.addon-manifest.json"
+const ELSEWHERE_AT = "temper/temper-hum-late/temper-hum-late.temper-addon.addon-manifest.json"
 
 const HELD_PAGE = "code/held-addon/pages/hum-async.held-addon.ts"
 
 const ADDON_VALUE: Value = { slug: "temper-hum-async", addonManifest: "json" }
 
-const HELD_VALUE: Value = { addonName: "HumAsync", esoAddon: "eso-addon/temper-hum-async" }
+const HELD_VALUE: Value = { addonName: "HumAsync", esoAddon: "temper-addon/temper-hum-async" }
 
 function asking(
   paths: Readonly<Record<string, readonly string[]>>,
@@ -35,15 +35,15 @@ function asking(
   }
 }
 
-const ADDONS = { "eso-addon": [ADDON_PAGE] }
+const ADDONS = { "temper-addon": [ADDON_PAGE] }
 
-const PAGES = { "eso-addon": [ADDON_PAGE], "held-addon": [HELD_PAGE] }
+const PAGES = { "temper-addon": [ADDON_PAGE], "held-addon": [HELD_PAGE] }
 
 const VALUES = { [ADDON_PAGE]: ADDON_VALUE, [HELD_PAGE]: HELD_VALUE }
 
 const TEXTS = { [MANIFEST_AT]: '{ "name": "HumAsync" }' }
 
-const WHERE = { "eso-addon/temper-hum-async": "temper/temper-hum-async" }
+const WHERE = { "temper-addon/temper-hum-async": "temper/temper-hum-async" }
 
 test("the roster is the name each addon manifest states, at the folder its page sits in", () => {
   const said = rosterIn(asking(ADDONS, VALUES, TEXTS))
@@ -64,7 +64,7 @@ test("a manifest calling its addon nothing leaves that addon out of the roster",
 })
 
 test("two folders manifesting one name are both reached under that name", () => {
-  const paths = { "eso-addon": [ADDON_PAGE, ELSEWHERE_PAGE] }
+  const paths = { "temper-addon": [ADDON_PAGE, ELSEWHERE_PAGE] }
   const values = {
     [ADDON_PAGE]: ADDON_VALUE,
     [ELSEWHERE_PAGE]: { slug: "temper-hum-late", addonManifest: "json" },
@@ -92,7 +92,7 @@ test("a page whose addon page sits where that addon is manifested is let through
 test("a page naming an addon no manifest calls is refused as stale", () => {
   const values = {
     [ADDON_PAGE]: ADDON_VALUE,
-    [HELD_PAGE]: { addonName: "HumGone", esoAddon: "eso-addon/temper-hum-async" },
+    [HELD_PAGE]: { addonName: "HumGone", esoAddon: "temper-addon/temper-hum-async" },
   }
   const said = refusalsOver(asking(PAGES, values, TEXTS, WHERE))
   expect(said).toHaveLength(1)
@@ -102,7 +102,7 @@ test("a page naming an addon no manifest calls is refused as stale", () => {
 })
 
 test("a page whose addon page sits elsewhere is refused, and the reason names both folders", () => {
-  const where = { "eso-addon/temper-hum-async": "temper/temper-hum-late" }
+  const where = { "temper-addon/temper-hum-async": "temper/temper-hum-late" }
   const said = refusalsOver(asking(PAGES, VALUES, TEXTS, where))
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("temper/temper-hum-async")

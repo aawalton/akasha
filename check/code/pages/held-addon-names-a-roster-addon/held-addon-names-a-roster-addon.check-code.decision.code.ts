@@ -12,8 +12,6 @@ export const HELD = "held-addon"
 
 export const ADDON = "temper-addon"
 
-export const ADDON_WAS = "eso-addon"
-
 const MANIFEST = "addon-manifest"
 
 const HOLDS = "addonManifest"
@@ -64,12 +62,10 @@ function manifestedUnder(asking: Asking, pageTypeSlug: string): readonly Manifes
 
 export function rosterIn(asking: Asking): Roster {
   const gathered = new Map<string, string[]>()
-  for (const pageTypeSlug of [ADDON, ADDON_WAS]) {
-    for (const { named, folder } of manifestedUnder(asking, pageTypeSlug)) {
-      const folders = gathered.get(named)
-      if (folders === undefined) gathered.set(named, [folder])
-      else folders.push(folder)
-    }
+  for (const { named, folder } of manifestedUnder(asking, ADDON)) {
+    const folders = gathered.get(named)
+    if (folders === undefined) gathered.set(named, [folder])
+    else folders.push(folder)
   }
   const roster = new Map<string, readonly string[]>()
   for (const [named, folders] of gathered) roster.set(named, [...folders].sort())
@@ -84,7 +80,7 @@ export function heldIn(asking: Asking): readonly Naming[] {
     const named = textAt(value, CALLED)
     const slug = slugAt(value, REACHES)
     if (named === null || slug === null) continue
-    const folder = asking.folderOf(ADDON, slug) ?? asking.folderOf(ADDON_WAS, slug)
+    const folder = asking.folderOf(ADDON, slug)
     found.push({ path, named, folder })
   }
   return found

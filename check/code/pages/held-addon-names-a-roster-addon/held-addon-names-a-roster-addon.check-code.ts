@@ -59,10 +59,6 @@ export const heldAddonNamesARosterAddon = {
         "An index naming `held-addon` pages and no manifest refuses rather than judging every page stale.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The addon page type is read under the name it had as well as the name it has.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "A page whose `eso-addon` reaches no addon page is passed over.",
     },

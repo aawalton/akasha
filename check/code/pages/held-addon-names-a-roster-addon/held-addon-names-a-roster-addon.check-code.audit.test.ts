@@ -8,11 +8,11 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
-const ADDON = "eso-addon"
+const ADDON = "temper-addon"
 
-const ADDON_PAGE = "akasha/lib-late.eso-addon.ts"
+const ADDON_PAGE = "akasha/lib-late.temper-addon.ts"
 
-const MANIFEST_AT = "akasha/lib-late.eso-addon.addon-manifest.json"
+const MANIFEST_AT = "akasha/lib-late.temper-addon.addon-manifest.json"
 
 const HELD_PAGE = "akasha/late.held-addon.ts"
 
@@ -41,7 +41,7 @@ function treed(names: string): string {
         id: HELD_ID,
         pageTypeSlug: "held-addon",
         addonName: names,
-        esoAddon: "eso-addon/lib-late",
+        esoAddon: "temper-addon/lib-late",
       },
     },
   ])
