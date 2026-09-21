@@ -4,6 +4,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
   id: "01a0a6c5-09d4-7512-9e6e-21a1b07d55fe",
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-the-wicked-witch-of-the-east-commentary",
+  grade: "C",
   ownLength: 0.3647666666666667,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
