@@ -1,6 +1,6 @@
 {"bundleDirectory":true}
 {"compileConfig":"json"}
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This site serves the pages of one world and no other page akasha holds."},{"decisionKind":"decision-kind/departure","statement":"Which world that is is settled by the grants its reader holds rather than here."},{"decisionKind":"decision-kind/departure","statement":"Every page this site serves credits the author of the work the wiki is about."}]}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"This site serves the pages of one world and no other page akasha holds."},{"decisionKind":"decision-kind/departure","statement":"Which world that is is settled by the grants its reader holds rather than here."},{"decisionKind":"decision-kind/departure","statement":"Every page this site serves credits the author of the work the wiki is about."},{"decisionKind":"decision-kind/departure","statement":"A page is served under the type that page is rather than the type that type extends."}]}
 {"declarationDirectory":true}
 {"definition":"the routes innworld.wiki serves to a browser"}
 {"gitIgnore":"gitignore"}

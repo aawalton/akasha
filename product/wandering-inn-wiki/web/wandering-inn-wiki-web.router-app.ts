@@ -38,5 +38,10 @@ export const wanderingInnWikiWeb = {
       decisionKind: "decision-kind/departure",
       statement: "Every page this site serves credits the author of the work the wiki is about.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page is served under the type that page is rather than the type that type extends.",
+    },
   ],
 } as const satisfies RouterApp
