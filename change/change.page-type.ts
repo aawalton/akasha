@@ -136,11 +136,16 @@ export const change = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No edit a change lands reaches a page that change does not name.",
+      statement: "No edit a change lands is to a file beside a page that change does not name.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A derived file a landing writes is derived from the change's own files alone.",
+      statement: "A reference a landing files is read from the change's own files alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An index answer about a page the change does not name is read from that page's own body.",
     },
     {
       decisionKind: "decision-kind/upkeep",
