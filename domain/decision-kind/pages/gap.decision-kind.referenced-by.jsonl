@@ -407,6 +407,8 @@
 {"propertySlug":"decision-kind","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/addon-load-order/addon-load-order.module.ts","id":"01a062d1-4a70-7b3c-9e21-6d0a51f4c7e8"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
+{"propertySlug":"decision-kind","path":"temper/addon/build-deploy-check/modules/eso-sandbox-manifest/eso-sandbox-manifest.module.ts","id":"01a06365-e827-7000-b4e8-c281707e413b"}
+{"propertySlug":"decision-kind","path":"temper/addon/build-deploy-check/temper-build-deploy-check.domain.ts","id":"01a06287-7841-7e04-b566-2bb1b434877d"}
 {"propertySlug":"decision-kind","path":"temper/addon/companions-addon/temper-companions-addon.eso-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-context-menu/housing-context-menu.module.ts","id":"01a06128-d5ca-706a-a06b-ee7f1746eb74"}
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-library-data-eu-1/housing-library-data-eu-1.module.ts","id":"01a06113-b7cf-7517-a675-86cd3606cdca"}
@@ -430,8 +432,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-treasure/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
-{"propertySlug":"decision-kind","path":"temper/build-deploy-check/modules/eso-sandbox-manifest/eso-sandbox-manifest.module.ts","id":"01a06365-e827-7000-b4e8-c281707e413b"}
-{"propertySlug":"decision-kind","path":"temper/build-deploy-check/temper-build-deploy-check.domain.ts","id":"01a06287-7841-7e04-b566-2bb1b434877d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/trait/properties/metric-id.text-property.ts","id":"01a05fb0-3ced-7636-a899-431b497b3f1f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-eso-trait-map/properties/trait-id.text-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-jewelry-slot/properties/jewelry-type-id.text-property.ts","id":"01a05fd1-d43c-7d49-81c6-a1c0aa409075"}

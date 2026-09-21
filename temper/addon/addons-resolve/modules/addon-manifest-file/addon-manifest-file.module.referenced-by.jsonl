@@ -7,6 +7,6 @@
 {"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"temper/addon/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.test.ts"}
 {"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"temper/addon/addons-resolve/modules/sibling-addons/sibling-addons.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"temper/build-deploy-check/modules/check-addon-dependency-cycle/check-addon-dependency-cycle.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"temper/build-deploy-check/modules/check-addon-dependency-floor/check-addon-dependency-floor.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"temper/addon/build-deploy-check/modules/check-addon-dependency-cycle/check-addon-dependency-cycle.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"temper/addon/build-deploy-check/modules/check-addon-dependency-floor/check-addon-dependency-floor.module.code.ts"}
 {"propertySlug":"parts","path":"temper/addon/addons-resolve/temper-addons-resolve.domain.ts","id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}
