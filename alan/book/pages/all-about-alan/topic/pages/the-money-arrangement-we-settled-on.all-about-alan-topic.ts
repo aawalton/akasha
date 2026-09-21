@@ -1,10 +1,10 @@
 import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
 
-export const whyOurMoneyArrangementIsUpForReview = {
+export const theMoneyArrangementWeSettledOn = {
   id: "01a0c58d-bc33-714f-a670-e053b4bd4641",
   type: "page-type/all-about-alan-topic",
-  slug: "why-our-money-arrangement-is-up-for-review",
-  title: "Why Our Money Arrangement Is Up For Review",
+  slug: "the-money-arrangement-we-settled-on",
+  title: "The Money Arrangement We Settled On",
   definition: "what we loosened, and the three places we moved three years of runway to",
   parents: ["all-about-alan-topic/the-money-we-are-living-on"],
   related: ["all-about-alan-topic/deciding-together"],
