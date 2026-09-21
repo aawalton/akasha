@@ -26,5 +26,14 @@ export const temperAddonCommunity = {
       decisionKind: "decision-kind/departure",
       statement: "An installed addon states its version in the manifest the game reads.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A community addon reaches its dependencies through community copies rather than Temper's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Temper gives up a library's folder before that library is installed from ESOUI.",
+    },
   ],
 } as const satisfies Domain
