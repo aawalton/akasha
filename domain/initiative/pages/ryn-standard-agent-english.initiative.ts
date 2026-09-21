@@ -8,9 +8,6 @@ export const rynStandardAgentEnglish = {
   persona: "persona/ryn",
   intentStack: [
     {
-      statement: "Standard Agent English defines what terms are not allowed.",
-    },
-    {
       statement: "Nothing writes hold where have says the same thing.",
     },
     {
