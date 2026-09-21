@@ -14,5 +14,5 @@ export const theOnesIHaveNotBeenYet = {
     "all-about-alan-topic/the-three-seconds-i-am",
   ],
   settled:
-    "Forward the count is the wall against acting: an irreversible act ends all of them.\n\nIt comes from a branching rate times the years I have left.\n\nThey stand equal with me rather than below me, so what I owe them is fairness rather than discipline.",
+    "Forward the count is the wall against acting: an irreversible act ends all of them.\n\nIt comes from a branching rate times the years I have left.\n\nThey stand equal with me rather than below me, so what I owe them is fairness rather than discipline.\n\nThe formal core of that wall is how my ethics prices a death. Ending a life erases its forward fan, and across the whole tapestry that fan is enormous.",
 } as const satisfies AllAboutAlanTopic
