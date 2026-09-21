@@ -17,9 +17,9 @@ afterAll(SCRATCH.sweep)
 
 type Stating = { readonly root: string; readonly dir: string }
 
-const ADDON_LEAF = "temper-companions-addon"
+const ADDON_LEAF = "temper-addon-companions"
 
-const ADDON_DIR = `akasha/temper/${ADDON_LEAF}`
+const ADDON_DIR = "akasha/temper/addon/pages/companions"
 
 const ADDON_PAGE = `${ADDON_DIR}/${ADDON_LEAF}.temper-addon.ts`
 
