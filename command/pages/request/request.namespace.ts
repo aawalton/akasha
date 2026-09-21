@@ -5,6 +5,6 @@ export const request = {
   type: "page-type/namespace",
   slug: "request",
   definition: "the feature requests contributors ask for and what Alan does with each",
-  parts: ["command/request-publish"],
+  parts: ["command/request-publish", "command/request-complete", "module/request-reaching"],
   name: "request",
 } as const satisfies Namespace

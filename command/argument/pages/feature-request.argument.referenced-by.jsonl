@@ -1,3 +1,6 @@
+{"propertySlug":"argument","path":"command/pages/request/complete/request-complete.command.ts","id":"01a0c501-03d8-743f-94e6-9e585b39559a"}
 {"propertySlug":"argument","path":"command/pages/request/publish/request-publish.command.ts","id":"01a0c501-03d8-75ca-9ff4-136d081ccca4"}
+{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/complete/request-complete.command.code.ts"}
+{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/complete/request-complete.command.test.ts"}
 {"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/publish/request-publish.command.code.ts"}
 {"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/publish/request-publish.command.test.ts"}

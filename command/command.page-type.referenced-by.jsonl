@@ -178,6 +178,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/read/read.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/refresh/message/refresh-message.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/refresh/persona/refresh-persona.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/request/complete/request-complete.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/request/publish/request-publish.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/messaged/seat-messaged.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.ts"}

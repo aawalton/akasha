@@ -51,6 +51,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/rate/music-rate.command.test.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/music/type-tracks/music-type-tracks.command.code.ts"}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/request/complete/request-complete.command.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/request/publish/request-publish.command.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/character-file/story-character-file.command.code.ts"}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
