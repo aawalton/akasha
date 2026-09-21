@@ -22,10 +22,10 @@ inherited literalist overlay named only after.
 - **By source authority** (the top-level tiers, descending most→least
   authoritative; build most-first): Book of Mormon → other authoritative
   scripture / revelation / prophetic counsel → logical closure → Alan's
-  speculative musings. See [`sources/CLAUDE.md`](sources/CLAUDE.md).
+  speculative musings. See [`book-section/my-faith/sources`](book-section/my-faith/sources).
 - **Two artifacts within a tier** (orthogonal, never merged):
   **commentary** indexed by verse, and the **abstraction map** indexed by concept.
-  See [`sources/book-of-mormon/CLAUDE.md`](sources/book-of-mormon/CLAUDE.md).
+  See [`book-section/sources/book-of-mormon`](book-section/sources/book-of-mormon).
 
 ## The reading method (shared by both artifacts)
 
