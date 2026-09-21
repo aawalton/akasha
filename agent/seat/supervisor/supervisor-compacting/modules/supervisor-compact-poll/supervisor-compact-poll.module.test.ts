@@ -1,0 +1,106 @@
+import { expect, test } from "bun:test"
+import { autoCompactPoll } from "akasha/agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"
+import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+
+const QUIET: IdleObservation = {
+  inFlight: 0,
+  busyChildren: 0,
+  inFlightDispatchChildren: 0,
+  claudePresent: true,
+}
+
+function ruleSaying(idle: boolean): IdleRuleSource {
+  const verdict = Promise.resolve({ value: { idle, reason: idle ? "idle" : "busy" }, notice: null })
+  return {
+    ignoredMcpCmdlines: () => Promise.resolve({ value: [], notice: null }),
+    preservingRestart: () => verdict,
+    pastCliff: () => verdict,
+  }
+}
+
+function pollOver(opts: {
+  tokens: number | null
+  compacting?: boolean
+  idle?: boolean
+  sent?: boolean
+  asks: string[]
+}): ReturnType<typeof autoCompactPoll> {
+  return autoCompactPoll({
+    getAgentId: () => "agent-1",
+    getClaudePid: () => 1,
+    getProxyPort: () => 1,
+    idleRule: ruleSaying(opts.idle ?? true),
+    log: () => undefined,
+    readTokens: () => opts.tokens,
+    readCompacting: () => opts.compacting ?? false,
+    readSeatName: () => "thea",
+    observe: () => Promise.resolve(QUIET),
+    sendLine: (seatName, line) => {
+      opts.asks.push(`${seatName}:${line}`)
+      return Promise.resolve(opts.sent ?? true)
+    },
+  })
+}
+
+test("an idle seat past the ceiling is asked to compact on the beat", async () => {
+  const asks: string[] = []
+  await pollOver({ tokens: 400_000, asks }).run()
+  expect(asks).toEqual(["thea:/compact"])
+})
+
+test("a seat under the ceiling is asked nothing", async () => {
+  const asks: string[] = []
+  await pollOver({ tokens: 100_000, asks }).run()
+  expect(asks).toEqual([])
+})
+
+test("a busy seat past the ceiling is asked nothing", async () => {
+  const asks: string[] = []
+  await pollOver({ tokens: 400_000, idle: false, asks }).run()
+  expect(asks).toEqual([])
+})
+
+test("a seat already compacting is asked nothing", async () => {
+  const asks: string[] = []
+  await pollOver({ tokens: 400_000, compacting: true, asks }).run()
+  expect(asks).toEqual([])
+})
+
+test("a seat still past the ceiling is not asked a second time", async () => {
+  const asks: string[] = []
+  const poll = pollOver({ tokens: 400_000, asks })
+  await poll.run()
+  await poll.run()
+  await poll.run()
+  expect(asks).toEqual(["thea:/compact"])
+})
+
+test("an ask the pane refused is made again on the next beat", async () => {
+  const asks: string[] = []
+  const poll = pollOver({ tokens: 400_000, sent: false, asks })
+  await poll.run()
+  await poll.run()
+  expect(asks).toEqual(["thea:/compact", "thea:/compact"])
+})
+
+test("a supervisor with no agent asks nothing", async () => {
+  const asks: string[] = []
+  const poll = autoCompactPoll({
+    getAgentId: () => null,
+    getClaudePid: () => 1,
+    getProxyPort: () => 1,
+    idleRule: ruleSaying(true),
+    log: () => undefined,
+    readTokens: () => 400_000,
+    readCompacting: () => false,
+    readSeatName: () => "thea",
+    observe: () => Promise.resolve(QUIET),
+    sendLine: (seatName, line) => {
+      asks.push(`${seatName}:${line}`)
+      return Promise.resolve(true)
+    },
+  })
+  await poll.run()
+  expect(asks).toEqual([])
+})

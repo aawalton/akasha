@@ -330,6 +330,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-spawn-agent/supervisor-spawn-agent.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-decide/supervisor-compact-decide.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.ts"}

@@ -5,7 +5,7 @@ export const supervisorCompacting = {
   type: "page-type/domain",
   slug: "supervisor-compacting",
   definition: "a seat's context traded for a summary of itself while that seat sits idle",
-  parts: ["module/supervisor-compact-decide"],
+  parts: ["module/supervisor-compact-decide", "module/supervisor-compact-poll"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
