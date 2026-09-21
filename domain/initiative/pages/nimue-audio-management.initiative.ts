@@ -8,11 +8,6 @@ export const nimueAudioManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every sound the system has is a page.",
-      workingMemory:
-        "No file named `*.audio.ts` exists anywhere in the tree. The `audio` page type at `infrastructure/inference/generation/audio/audio.page-type.ts` declares no parts and no properties, so a page of it would carry only what `page` gives it. A sound today is a line in `infrastructure/inference/generation/log/pages/alan/alan.generation-log.audios.jsonl`, landed by `landRow` at `persist-audio.module.code.ts:60`.",
-    },
-    {
       statement: "A sound's bytes sit beside its page rather than under a key.",
       workingMemory:
         "`persist-audio.module.code.ts:68` puts the whole wav at `audio/<pageId>.wav` through `audioObjectKey`, the one audio key-maker, at `object-store-key.module.code.ts:8`. The mirror is `image-bytes.file-property.ts`, whose `propertySlug` is `bytes`, `holdsBytes` is true and `runsFileLength` is false, declared `uncommitted` on the page type so the bytes land as `<slug>.audio.bytes.uncommitted.wav`.",
