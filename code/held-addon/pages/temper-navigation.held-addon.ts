@@ -5,7 +5,7 @@ export const temperNavigation = {
   type: "page-type/held-addon",
   slug: "temper-navigation",
   addonName: "TemperNavigation",
-  esoAddon: "temper-addon/temper-navigation-addon",
+  esoAddon: "temper-addon/temper-addon-navigation",
   addonKind: "ported",
   heldBy: 15147,
   adjacents: [

@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-toggles/minimap-toggles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-checkbox/addon-menu-widget-checkbox.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-drop-name-names-en/lib-sets-drop-name-names-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-drop-name-names-fr/lib-sets-drop-name-names-fr.module.code.ts"}
@@ -6,6 +5,7 @@
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-rest-strings-pl/lib-sets-loc-rest-strings-pl.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-loc-strings-en/lib-sets-loc-strings-en.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-rowmenu/lib-sets-search-ui-shared-rowmenu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-strings.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-special-names/item-browser-special-names.module.code.ts"}
