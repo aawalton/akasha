@@ -1035,6 +1035,7 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/song/properties/singability.rank-property.ts","id":"01a06243-144b-700b-83e8-f1b91786511f"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
+{"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/carried-by.record-property.ts","id":"01a0c52d-5525-787c-804a-bd4a8378c2f1"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/disc-number.number-property.ts","id":"01a0a5df-ff89-7f60-a3a6-f27b5e02d970"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/explicit.boolean-property.ts","id":"01a0a5e0-58f3-740e-9244-3bdebb7ceedb"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/track-artist.record-property.ts","id":"01a0a5f1-d12c-7bb8-96c2-10781ad40828"}

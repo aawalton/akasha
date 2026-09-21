@@ -13,6 +13,8 @@ export const track = {
     "relation-property/song",
     "select-property/track-type",
     "text-property/track-key",
+    "record-property/carried-by",
+    "relation-property/release",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -27,6 +29,7 @@ export const track = {
     },
     { pageProperty: "text-property/track-key", required: false, many: false },
     { pageProperty: "relation-property/song", required: false, many: false },
+    { pageProperty: "record-property/carried-by", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {

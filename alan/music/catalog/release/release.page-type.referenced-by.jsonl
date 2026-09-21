@@ -3131,3 +3131,4 @@
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/zara-larsson-wow/zara-larsson-wow.release.ts"}
 {"propertySlug":"import","fileName":"release.page-type.types.ts","path":"alan/music/catalog/release/pages/zara-larsson-zara-larsson-spotify-live-room/zara-larsson-zara-larsson-spotify-live-room.release.ts"}
 {"propertySlug":"parts","path":"alan/music/catalog/music-catalog.domain.ts","id":"01a06238-8d2c-7f24-81f1-c8b7232268d3"}
+{"propertySlug":"target-page-type","path":"alan/music/catalog/track/properties/release.relation-property.ts","id":"01a0c52c-ab6d-79fd-aa0f-b2415f5c5713"}
