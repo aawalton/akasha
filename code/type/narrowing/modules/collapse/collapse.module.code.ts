@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+
 export interface Fold<Out> {
   readonly outcome: "value"
   readonly value: Out

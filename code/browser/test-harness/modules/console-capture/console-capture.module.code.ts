@@ -1,4 +1,5 @@
 import type { Page } from "playwright-core"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface ConsoleEntry {
   readonly kind: "console" | "pageerror"

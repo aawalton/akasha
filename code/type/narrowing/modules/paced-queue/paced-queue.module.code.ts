@@ -1,3 +1,5 @@
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+
 export type Paced = <T>(run: () => Promise<T>) => Promise<T>
 
 export function pacedQueue(everyMs: number): Paced {

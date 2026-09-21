@@ -10,6 +10,7 @@ import type {
   SeatToggleState,
 } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import * as vscode from "vscode"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export async function runPlan(
   node: unknown,

@@ -56,6 +56,7 @@ import {
 } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import { stopSubagent } from "akasha/code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"
 import * as vscode from "vscode"
+import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const FEATURE = "agent-tree"
 const SLUG = "agent-tree"

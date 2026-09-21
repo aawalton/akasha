@@ -1,4 +1,8 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/browser/test-harness/modules/console-capture/console-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/router-app/modules/auth-footer/auth-footer.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/type/narrowing/modules/collapse/collapse.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/type/narrowing/modules/shape-core/shape-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-alerts/leads-alerts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-reporting/leads-reporting.module.code.ts"}

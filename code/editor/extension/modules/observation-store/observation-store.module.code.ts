@@ -7,6 +7,7 @@ import {
   changeKey,
   type Observation,
 } from "akasha/code/editor/extension/modules/seat-observations/seat-observations.module.code.ts"
+import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export interface SweepReport {
   readonly swept: number
