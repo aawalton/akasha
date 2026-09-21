@@ -60,6 +60,10 @@ export const claudeCodeSessionStore = {
       statement: "Nothing takes an old folder away.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing takes an old transcript away.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "Nothing here works out where a session's file is from a working directory.",
     },
