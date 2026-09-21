@@ -107,6 +107,18 @@ export const treeSearching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller naming a folder is answered the paths sitting in that folder alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a listing reads that folder rather than the tree the folder is under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder that is not there is answered nothing rather than throwing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "How many threads a search or a listing takes is the caller's to say.",
     },
     {
