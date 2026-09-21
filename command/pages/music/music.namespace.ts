@@ -29,6 +29,7 @@ export const music = {
     "module/device-option",
     "command/music-fold-songs",
     "command/music-type-tracks",
+    "command/music-heard-tracks",
   ],
   name: "music",
 } as const satisfies Namespace
