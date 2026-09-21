@@ -1,6 +1,6 @@
+{"propertySlug":"import","fileName":"location-condition.module.code.ts","path":"temper/addon/items-addon/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"location-condition.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"}
 {"propertySlug":"import","fileName":"location-condition.module.code.ts","path":"temper/command/modules/inventory-item-facts/inventory-item-facts.module.code.ts"}
-{"propertySlug":"import","fileName":"location-condition.module.code.ts","path":"temper/items-addon/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"location-condition.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"}
 {"propertySlug":"import","fileName":"location-condition.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"}
 {"propertySlug":"import","fileName":"location-condition.module.code.ts","path":"temper/items-rules-core/modules/location-filter/location-filter.module.code.ts"}

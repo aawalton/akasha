@@ -1,0 +1,91 @@
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import { getTemperCharactersData } from "akasha/temper/addon/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import {
+  BASE_APPLICABLE_ESO_LINE_IDS,
+  CLASS_ESO_SKILL_LINE_IDS,
+  RACIAL_ESO_LINE_ID_PER_ESO_RACE,
+} from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
+import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
+import { computeApplicableEsoSkillLineIds } from "akasha/temper/skill-morph/modules/applicable-eso-skill-lines/applicable-eso-skill-lines.module.code.ts"
+import {
+  computeCharacterMorphProgressByEsoId,
+  type ExpectedMorphableSkill,
+  type MorphSkillLineProgressMap,
+} from "akasha/temper/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+
+const baseApplicableEsoLineIds: ReadonlySet<number> = (() => {
+  const set = new Set<number>()
+  for (const k of Object.keys(BASE_APPLICABLE_ESO_LINE_IDS)) {
+    set.add(Number(k))
+  }
+  return set
+})()
+
+const classLinesByEsoClassId: ReadonlyMap<number, readonly number[]> = (() => {
+  const map = new Map<number, readonly number[]>()
+  for (const k of Object.keys(CLASS_ESO_SKILL_LINE_IDS)) {
+    const esoClassId = Number(k)
+    const lines = CLASS_ESO_SKILL_LINE_IDS[esoClassId]
+    if (lines !== undefined) map.set(esoClassId, lines)
+  }
+  return map
+})()
+
+const racialLineByEsoRaceId: ReadonlyMap<number, number> = (() => {
+  const map = new Map<number, number>()
+  for (const k of Object.keys(RACIAL_ESO_LINE_ID_PER_ESO_RACE)) {
+    const esoRaceId = Number(k)
+    const line = RACIAL_ESO_LINE_ID_PER_ESO_RACE[esoRaceId]
+    if (line !== undefined) map.set(esoRaceId, line)
+  }
+  return map
+})()
+
+const expectedSkillsByEsoLineId: ReadonlyMap<
+  number,
+  ReadonlyArray<ExpectedMorphableSkill>
+> = (() => {
+  const map = new Map<number, ReadonlyArray<ExpectedMorphableSkill>>()
+  for (const k of Object.keys(MORPHABLE_SKILLS_DETAIL_PER_LINE)) {
+    const esoLineId = Number(k)
+    const skills = MORPHABLE_SKILLS_DETAIL_PER_LINE[esoLineId]
+    if (skills !== undefined) map.set(esoLineId, skills)
+  }
+  return map
+})()
+
+function isMorphSkillLineProgressMap(value: unknown): value is MorphSkillLineProgressMap {
+  return isObjectRecord(value) && Object.values(value).every(isObjectRecord)
+}
+
+export function canCharacterLevelMorphs(charId: string): boolean {
+  const characters = getTemperCharactersData()
+  if (!characters) return false
+
+  const charData = characters[charId]
+  if (!isObjectRecord(charData)) return false
+
+  const classIdRaw = charData["classId"]
+  const raceIdRaw = charData["raceId"]
+  const esoClassId = typeof classIdRaw === "number" ? classIdRaw : 0
+  const esoRaceId = typeof raceIdRaw === "number" ? raceIdRaw : 0
+
+  const slpRaw = charData["skillLineProgress"]
+  const skillLineProgress = isMorphSkillLineProgressMap(slpRaw) ? slpRaw : undefined
+
+  const applicableEsoLineIds = computeApplicableEsoSkillLineIds({
+    esoClassId,
+    esoRaceId,
+    classLinesByEsoClassId,
+    racialLineByEsoRaceId,
+    baseApplicableEsoLineIds,
+  })
+
+  const { current, total } = computeCharacterMorphProgressByEsoId({
+    applicableEsoLineIds,
+    expectedSkillsByEsoLineId,
+    skillLineProgress,
+  })
+
+  return total > 0 && current < total
+}

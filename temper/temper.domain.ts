@@ -83,7 +83,6 @@ export const temper = {
     "domain/temper-value",
     "eso-addon/temper-combat-addon",
     "eso-addon/temper-crafting-addon",
-    "eso-addon/temper-items-addon",
     "eso-addon/temper-lib-scrollable-menu",
     "eso-addon/temper-navigation-addon",
     "module/addon-init",

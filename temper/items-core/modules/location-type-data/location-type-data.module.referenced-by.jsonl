@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items-addon/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}
-{"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items-addon/modules/inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.code.ts"}
+{"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/addon/items-addon/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}
+{"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/addon/items-addon/modules/inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items-core/modules/inventory-grouping/inventory-grouping.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items-core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"location-type-data.module.code.ts","path":"temper/items-core/modules/location-classify/location-classify.module.code.ts"}

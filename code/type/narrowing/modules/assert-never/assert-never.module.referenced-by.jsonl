@@ -55,6 +55,9 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/build-deploy-check/modules/addon-dependency-floor/addon-dependency-floor.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/build-deploy-check/modules/cli-args/cli-args.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/hud-addon/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/items-addon/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/items-addon/modules/inventory-browser-filter/inventory-browser-filter.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/addon/items-addon/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/character-stat/modules/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/character-stat/modules/format-effects/format-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/character-stat/modules/metric-display-formula/metric-display-formula.module.code.ts"}
@@ -79,9 +82,6 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/companions-core/modules/companion-valid-skills/companion-valid-skills.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/formula-framework/modules/display-formula-latex/display-formula-latex.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/formula-framework/modules/effect-value-update/effect-value-update.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-addon/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-addon/modules/inventory-browser-filter/inventory-browser-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-addon/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-rules-core/modules/comparison-op/comparison-op.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-rules-core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"}

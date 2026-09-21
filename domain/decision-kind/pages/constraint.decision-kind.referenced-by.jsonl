@@ -427,6 +427,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-library-data-na/housing-library-data-na.module.ts","id":"01a06113-b7d1-7e85-b730-9398c3972952"}
 {"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/assistant-collectibles/assistant-collectibles.module.ts","id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
 {"propertySlug":"decision-kind","path":"temper/addon/interface-addon/modules/fco-global/fco-global.module.ts","id":"01a06115-1ac8-7d12-a18b-e1aa7e8aafeb"}
+{"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.ts","id":"01a06258-b530-7ef5-9ff0-40428a6c5232"}
+{"propertySlug":"decision-kind","path":"temper/addon/items-addon/temper-items-addon.eso-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/keybinder-addon/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/addon/keybinder-addon/temper-keybinder-addon.eso-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
@@ -1000,8 +1002,6 @@
 {"propertySlug":"decision-kind","path":"temper/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
 {"propertySlug":"decision-kind","path":"temper/item-browser/modules/item-browser-items/item-browser-items.module.ts","id":"01a06178-371f-7441-8cab-2f74d08e70ab"}
 {"propertySlug":"decision-kind","path":"temper/item-set/temper-item-set.domain.ts","id":"01a090e4-78c9-7073-9166-03b462dd7c7e"}
-{"propertySlug":"decision-kind","path":"temper/items-addon/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.ts","id":"01a06258-b530-7ef5-9ff0-40428a6c5232"}
-{"propertySlug":"decision-kind","path":"temper/items-addon/temper-items-addon.eso-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/capture-instant/capture-instant.module.ts","id":"01a0ba6c-9beb-78b6-ae42-ea76022acdac"}
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
 {"propertySlug":"decision-kind","path":"temper/items-core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
