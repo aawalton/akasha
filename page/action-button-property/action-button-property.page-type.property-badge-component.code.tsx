@@ -76,7 +76,7 @@ export function Drawing({ property, pageData, pageId, pageTypeSlug }: PropertyBa
 
   const button = (
     <ButtonBadge
-      variant={config.badgeVariant}
+      variant={config.badgeVariant ?? "accent"}
       disabled={disabled}
       onClick={(e) => {
         void run(e)

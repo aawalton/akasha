@@ -17,6 +17,10 @@ export const actionButtonProperty = {
       decisionKind: "decision-kind/departure",
       statement: "Which verb the button runs is stated on the property rather than by a browser.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a button is drawn in the accent, being a call to act rather than a value.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
