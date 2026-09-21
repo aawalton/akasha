@@ -1,5 +1,5 @@
 {"attributes":["game-attribute/finesse","game-attribute/intellect","game-attribute/luck","game-attribute/might","game-attribute/perception","game-attribute/presence","game-attribute/vitality","game-attribute/will"]}
-{"cardVocabulary":["LEVEL UP","SKILL","AFFINITY","CLASS","TITLE"]}
+{"cardVocabulary":["LEVEL UP","SKILL","AFFINITY","CLASS","TITLE","ESSENCE ABSORBED"]}
 {"characters":"jsonl"}
 {"controlledEntityKind":"single"}
 {"coordinatorAgent":"awen-gm--the-tower"}
