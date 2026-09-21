@@ -8,7 +8,6 @@ import {
   type HandoverGuardConfig,
   handoverGuard,
 } from "akasha/alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"
-import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
 import {
   LayoutRouterAdapter,
@@ -100,15 +99,13 @@ export function Layout({ children }: { children: ReactNode }) {
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>
           <ErrorCaptureInstaller app="temper" />
-          <SupabaseProvider>
-            <LayoutRouterAdapter>
-              <PagesUIRouterAdapter>
-                {children}
-                <CommandPalette />
-                <ShortcutSheet />
-              </PagesUIRouterAdapter>
-            </LayoutRouterAdapter>
-          </SupabaseProvider>
+          <LayoutRouterAdapter>
+            <PagesUIRouterAdapter>
+              {children}
+              <CommandPalette />
+              <ShortcutSheet />
+            </PagesUIRouterAdapter>
+          </LayoutRouterAdapter>
         </SurfaceProvider>
         <Toaster />
         <ScrollRestoration nonce={nonce} />
