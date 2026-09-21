@@ -50,7 +50,6 @@ export const temper = {
     "domain/temper-equipment-kind",
     "domain/temper-errors-triage",
     "domain/temper-eso-declaration",
-    "domain/temper-eso-path",
     "domain/temper-eso-type",
     "domain/temper-formula-framework",
     "domain/temper-game-catalog-capture-addon",

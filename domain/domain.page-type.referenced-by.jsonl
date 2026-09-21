@@ -588,8 +588,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/errors-triage/temper-errors-triage.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-declaration/eso-opt-in-list/eso-opt-in-list.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-declaration/temper-eso-declaration.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-path/temper-eso-path.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-type/temper-eso-type.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/path/temper-eso-path.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/temper-eso.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/formula-framework/temper-formula-framework.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts"}

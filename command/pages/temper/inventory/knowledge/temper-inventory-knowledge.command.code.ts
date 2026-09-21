@@ -23,7 +23,7 @@ import {
   knowsItem,
   loadTemperCharactersFromPath,
 } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 const NAMED = [jsonArgument, charactersPathArgument, charArgument, itemKeyArgument]

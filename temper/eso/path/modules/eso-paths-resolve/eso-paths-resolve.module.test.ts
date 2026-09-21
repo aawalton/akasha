@@ -5,7 +5,7 @@ import {
   esoLiveDir,
   savedVarsDir,
   savedVarsFile,
-} from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+} from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const WINDOWS = {
   platform: "win32",

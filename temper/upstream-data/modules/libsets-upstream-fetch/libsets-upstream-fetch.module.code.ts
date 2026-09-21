@@ -5,7 +5,7 @@ import {
   PORCELAIN_STATUS_ARGS,
   parsePorcelainStatusZ,
 } from "akasha/git/modules/porcelain-status/porcelain-status.module.code.ts"
-import { addonUpstreamDir } from "akasha/temper/eso-path/modules/eso-paths/eso-paths.module.code.ts"
+import { addonUpstreamDir } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 import {
   LIBSETS_UPSTREAM,
   type UpstreamPin,

@@ -28,9 +28,9 @@ import {
   saidShort,
   stagingAt,
 } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
-import { parseEsoDocApiVersion } from "akasha/temper/eso-path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
-import { esouiSourceDir } from "akasha/temper/eso-path/modules/eso-paths/eso-paths.module.code.ts"
-import { collectLuaFiles } from "akasha/temper/eso-path/modules/lua-files/lua-files.module.code.ts"
+import { parseEsoDocApiVersion } from "akasha/temper/eso/path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiSourceDir } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
+import { collectLuaFiles } from "akasha/temper/eso/path/modules/lua-files/lua-files.module.code.ts"
 
 const NAMED = [codeRootArgument, stage, esoRoot]
 

@@ -33,7 +33,7 @@ import {
   fetchFileDetails,
 } from "akasha/temper/community-addon/modules/esoui-catalog/esoui-catalog.module.code.ts"
 import { readInstalledAddons } from "akasha/temper/community-addon/modules/installed-addons/installed-addons.module.code.ts"
-import { addonsDir } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { addonsDir } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const NAMED = [json, codeRoot, addonsDirArgument, force, onlyArgument]
 

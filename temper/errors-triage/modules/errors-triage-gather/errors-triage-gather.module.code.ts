@@ -7,7 +7,7 @@ import {
   type Triage,
   type TriageReason,
 } from "akasha/temper/errors-triage/modules/errors-triage/errors-triage.module.code.ts"
-import { addonsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { addonsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { z } from "zod"
 
 const DEPLOYED_BUILD_ID_RE = /TemperBuildIds\[\s*"[^"]*"\s*\]\s*=\s*"([0-9a-f]{8}|unknown)"/

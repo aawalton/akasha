@@ -5,4 +5,5 @@ export const temperEso = {
   type: "page-type/domain",
   slug: "temper-eso",
   definition: "the game's own types, paths and saved files, as temper reaches them",
+  parts: ["domain/temper-eso-path"],
 } as const satisfies Domain

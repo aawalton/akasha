@@ -3897,10 +3897,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso-declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso-declaration/modules/eso-opt-in/eso-opt-in.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso-declaration/modules/eso-token-scope/eso-token-scope.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso-path/modules/eso-clone-stamp/eso-clone-stamp.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso-path/modules/eso-paths/eso-paths.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso-path/modules/lua-files/lua-files.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/path/modules/eso-clone-stamp/eso-clone-stamp.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/path/modules/eso-paths/eso-paths.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/path/modules/lua-files/lua-files.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/events-addon/modules/events-addon-entry/events-addon-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/events-addon/modules/events-addon-global/events-addon-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/events-addon/modules/events-addon-loaded/events-addon-loaded.module.ts"}

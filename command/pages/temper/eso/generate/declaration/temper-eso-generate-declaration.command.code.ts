@@ -33,6 +33,11 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
+  esoCloneHeaderLines,
+  parseEsoDocApiVersion,
+} from "akasha/temper/eso/path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiDocPath } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
+import {
   generateEnumsFile,
   generateEventsFile,
   generateFunctionsFile,
@@ -50,11 +55,6 @@ import {
   type SelectedTokens,
   selectOptIn,
 } from "akasha/temper/eso-declaration/modules/eso-token-scope/eso-token-scope.module.code.ts"
-import {
-  esoCloneHeaderLines,
-  parseEsoDocApiVersion,
-} from "akasha/temper/eso-path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
-import { esouiDocPath } from "akasha/temper/eso-path/modules/eso-paths/eso-paths.module.code.ts"
 
 const NAMED = [codeRootArgument]
 

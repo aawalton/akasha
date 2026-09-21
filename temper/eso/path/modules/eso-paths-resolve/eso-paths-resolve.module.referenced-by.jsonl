@@ -23,10 +23,10 @@
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/catalog-side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.test.ts"}
+{"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.test.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/upstream-data/modules/treasure-upstream-port/treasure-upstream-port.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/upstream-data/modules/zone-upstream-port/zone-upstream-port.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-paths-resolve.module.code.ts","path":"temper/watcher/modules/watcher-config/watcher-config.module.code.ts"}
-{"propertySlug":"parts","path":"temper/eso-path/temper-eso-path.domain.ts","id":"01a06050-639d-78c1-a9ff-c6579f3deebd"}
+{"propertySlug":"parts","path":"temper/eso/path/temper-eso-path.domain.ts","id":"01a06050-639d-78c1-a9ff-c6579f3deebd"}
