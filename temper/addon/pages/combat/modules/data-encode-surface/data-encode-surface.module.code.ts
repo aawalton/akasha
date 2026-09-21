@@ -1,10 +1,7 @@
 import {
   CHAR_TO_VALUE,
   CHARSET,
-  LIB_NAME,
-  SHORT_NAME,
   VALUE_TO_CHAR,
-  VERSION,
 } from "akasha/temper/addon/pages/combat/modules/data-encode-charset/data-encode-charset.module.code.ts"
 import { decode } from "akasha/temper/addon/pages/combat/modules/data-encode-decoder/data-encode-decoder.module.code.ts"
 import { makeDictionary } from "akasha/temper/addon/pages/combat/modules/data-encode-dictionary/data-encode-dictionary.module.code.ts"
@@ -14,9 +11,6 @@ import { performTest } from "akasha/temper/addon/pages/combat/modules/data-encod
 import type { LibSurface } from "akasha/temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.code.ts"
 
 export const DATA_ENCODE: LibSurface = {
-  name: LIB_NAME,
-  shortName: SHORT_NAME,
-  version: VERSION,
   debug: RUNTIME.debug,
   internal: {},
   charsetConfig: {

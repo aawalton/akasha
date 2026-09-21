@@ -162,9 +162,6 @@ export interface DecodeClass {
 }
 
 export interface LibSurface {
-  name: string
-  shortName: string
-  version: string
   debug: boolean
   internal: LuaTable
   charsetConfig: {

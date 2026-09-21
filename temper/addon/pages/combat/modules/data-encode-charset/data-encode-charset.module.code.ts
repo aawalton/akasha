@@ -1,9 +1,7 @@
 import type { ControlCharSpec } from "akasha/temper/addon/pages/combat/modules/data-encode-types/data-encode-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
-export const LIB_NAME = "LibDataEncode"
 export const SHORT_NAME = "LDE"
-export const VERSION = "2"
 
 export const CHARSET =
   " ()*-./0123456789:;<>@ABCDEFGHIJKLMNOPQRSTUVWXYZ]^_`abcdefghijklmnopqrstuvwxyz|}~"
