@@ -1,4 +1,4 @@
-import type { ErrorEntry } from "akasha/temper/capture-error/modules/errors-payload/errors-payload.module.code.ts"
+import type { ErrorEntry } from "akasha/temper/capture/error/modules/errors-payload/errors-payload.module.code.ts"
 import {
   collectEntries,
   SAVED_VARIABLES_NAME,

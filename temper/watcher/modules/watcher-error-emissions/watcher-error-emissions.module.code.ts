@@ -1,4 +1,4 @@
-import type { ErrorEntry } from "akasha/temper/capture-error/modules/errors-payload/errors-payload.module.code.ts"
+import type { ErrorEntry } from "akasha/temper/capture/error/modules/errors-payload/errors-payload.module.code.ts"
 import { crashSignatureKey } from "akasha/temper/errors-triage/modules/errors-crash-signatures/errors-crash-signatures.module.code.ts"
 import type { LivenessVerdict } from "akasha/temper/errors-triage/modules/errors-liveness/errors-liveness.module.code.ts"
 import type {

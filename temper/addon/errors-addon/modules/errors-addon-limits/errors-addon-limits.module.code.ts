@@ -1,4 +1,4 @@
-import { ERRORS_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-error/modules/errors-descriptor/errors-descriptor.module.code.ts"
+import { ERRORS_CAPTURE_DESCRIPTOR } from "akasha/temper/capture/error/modules/errors-descriptor/errors-descriptor.module.code.ts"
 
 export const ADDON_NAME = ERRORS_CAPTURE_DESCRIPTOR.addonName
 

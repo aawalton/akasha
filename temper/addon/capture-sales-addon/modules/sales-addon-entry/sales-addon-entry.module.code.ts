@@ -5,8 +5,8 @@ import {
   setSalesAccessor,
   startSalesCapture,
 } from "akasha/temper/addon/capture-sales-addon/modules/sales-capture/sales-capture.module.code.ts"
+import { SALES_CAPTURE_DESCRIPTOR } from "akasha/temper/capture/sale/modules/sales-descriptor/sales-descriptor.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"
-import { SALES_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-sale/modules/sales-descriptor/sales-descriptor.module.code.ts"
 
 defineCaptureWriter(SALES_CAPTURE_DESCRIPTOR, (writer) => {
   const sv = writer.getSavedVariables()

@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/addon/errors-addon/modules/errors-addon-record/errors-addon-record.module.code.ts"}
-{"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/capture-error/modules/errors-descriptor/errors-descriptor.module.code.ts"}
+{"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/capture/error/modules/errors-descriptor/errors-descriptor.module.code.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/errors-triage/modules/errors-collect/errors-collect.module.code.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts"}
@@ -8,4 +8,4 @@
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/watcher/modules/watcher-error-emissions/watcher-error-emissions.module.test.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/watcher/modules/watcher-import-errors/watcher-import-errors.module.code.ts"}
 {"propertySlug":"import","fileName":"errors-payload.module.code.ts","path":"temper/watcher/modules/watcher-import-errors/watcher-import-errors.module.test.ts"}
-{"propertySlug":"parts","path":"temper/capture-error/temper-capture-error.domain.ts","id":"01a0608a-15b2-7b81-afe8-cbf9d7803e3f"}
+{"propertySlug":"parts","path":"temper/capture/error/temper-capture-error.domain.ts","id":"01a0608a-15b2-7b81-afe8-cbf9d7803e3f"}

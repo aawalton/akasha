@@ -1,4 +1,4 @@
-import type { ErrorsPayload } from "akasha/temper/capture-error/modules/errors-payload/errors-payload.module.code.ts"
+import type { ErrorsPayload } from "akasha/temper/capture/error/modules/errors-payload/errors-payload.module.code.ts"
 import type { CaptureDescriptor } from "akasha/temper/modules/descriptor/descriptor.module.code.ts"
 
 const DEFAULTS: ErrorsPayload = { version: 1, entries: [] }
