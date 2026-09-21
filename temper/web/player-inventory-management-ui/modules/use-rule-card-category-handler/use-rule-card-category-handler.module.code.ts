@@ -4,10 +4,10 @@ import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-catego
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { INVENTORY_RULE_FILTERS } from "akasha/temper/items-rules-core/modules/rule-filter-registry/rule-filter-registry.module.code.ts"
-import type { FilterId } from "akasha/temper/items-rules-core/modules/rule-filter-types/rule-filter-types.module.code.ts"
-import { getTraitFamily } from "akasha/temper/items-rules-core/modules/traits-filter/traits-filter.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { INVENTORY_RULE_FILTERS } from "akasha/temper/items/rules/core/modules/rule-filter-registry/rule-filter-registry.module.code.ts"
+import type { FilterId } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
+import { getTraitFamily } from "akasha/temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts"
 import type { RuleCardOnUpdate } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type React from "react"
 

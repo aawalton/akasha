@@ -18,7 +18,7 @@ import {
   planInputs,
   ruleMatcher,
 } from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
-import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 const TAKES = [categoryRuleId, json, inventoryPathArgument, charactersPathArgument]
 

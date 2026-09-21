@@ -5,7 +5,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/mod
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
-import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
+import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import { z } from "zod"
 

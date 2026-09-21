@@ -1,3 +1,4 @@
+import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { categoryMatchesItem } from "akasha/temper/items/rules/eval/modules/category-match/category-match.module.code.ts"
 import type {
   EvalContext,
@@ -5,7 +6,6 @@ import type {
 } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 import { evaluateConditions } from "akasha/temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts"
-import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 
 export function computeStockGroups<TItem>(
   rules: readonly CompiledOrderedRule[],

@@ -26,11 +26,11 @@ import { BUY_SOURCE_VALUES } from "akasha/temper/command/modules/inventory-rule-
 import {
   addBuyRule,
   bulkUpdateBuyRules,
-} from "akasha/temper/items-rules-core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
 import type {
   BuyRule,
   BuySource,
-} from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 
 const MERCHANT = "merchant"
 

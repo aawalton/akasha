@@ -4,7 +4,7 @@ import {
   forEachPendingAction,
 } from "akasha/temper/addon/items-addon/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { reportAction } from "akasha/temper/addon/items-addon/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import type { ItemAction } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const MAX_OPS = 50
 const FRAME_DELAY = 200

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { HeldRule } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import { stock } from "akasha/temper/player/progress/temper-item-action/pages/stock.temper-item-action.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 import {

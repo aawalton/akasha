@@ -3,7 +3,7 @@
 import type {
   CategoryRule,
   ItemRule,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   getCategoryRuleDescriptions,
   getItemRuleDescriptions,

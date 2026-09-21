@@ -6,15 +6,15 @@ import { upsertPage, upsertPages } from "akasha/page/access/modules/upsert/upser
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { AutomationSettingsShape } from "akasha/temper/items/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
-import type { HeldRule } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import {
   heldFromRows,
   rulesFromPages,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import { createDefaultRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-import { InventoryRuleSettingsShape } from "akasha/temper/items-rules-core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { writesFor } from "akasha/temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { createDefaultRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import { InventoryRuleSettingsShape } from "akasha/temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { writesFor } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 

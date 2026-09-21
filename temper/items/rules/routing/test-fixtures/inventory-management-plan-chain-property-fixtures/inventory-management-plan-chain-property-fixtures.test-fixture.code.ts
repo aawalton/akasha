@@ -1,4 +1,10 @@
 import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type {
+  CategoryRule,
+  MoveToDestination,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import type { ManagementPlan } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { makeStackableItem } from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"
 import {
@@ -7,12 +13,6 @@ import {
   makeInventory,
   makeLocation,
 } from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.code.ts"
-import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import type {
-  CategoryRule,
-  MoveToDestination,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import fc from "fast-check"
 
 export type CanLevelMorphsCondition = { readonly mode: "can-level" }

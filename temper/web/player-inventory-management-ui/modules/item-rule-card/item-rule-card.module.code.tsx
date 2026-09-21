@@ -24,8 +24,8 @@ import {
   goalIdToValue,
   goalValueToId,
   inventoryRuleGoals,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
-import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
+import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   ACTION_OPTIONS,
   NOTHING_ACTION,

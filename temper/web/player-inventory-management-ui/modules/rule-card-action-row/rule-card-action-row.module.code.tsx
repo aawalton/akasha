@@ -20,7 +20,7 @@ import type {
   DestinationChain,
   MoveToDestination,
   StockScope,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   ACTION_OPTIONS,
   type ActionVariant,

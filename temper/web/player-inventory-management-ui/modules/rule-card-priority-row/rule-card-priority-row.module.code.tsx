@@ -11,13 +11,13 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import type { ControlledRule } from "akasha/temper/items-rules-core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import type { ControlledRule } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import {
   goalIdToValue,
   goalValueToId,
   inventoryRuleGoals,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
-import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 interface RuleCardPriorityRowProps {
   rule: CategoryRule

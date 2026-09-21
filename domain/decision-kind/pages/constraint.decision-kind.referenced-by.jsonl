@@ -1065,11 +1065,6 @@
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
-{"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.ts","id":"01a060d9-44ca-7f34-b2bb-07aab8837d17"}
-{"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/inventory-rule-compiler/inventory-rule-compiler.module.ts","id":"01a06100-3bed-7b56-8709-2a82c720204e"}
-{"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/rule-template-table-01/rule-template-table-01.module.ts","id":"01a06100-3bfc-7142-8fe2-abb5978a1b49"}
-{"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/rule-template-table-02/rule-template-table-02.module.ts","id":"01a06100-3bfd-794a-abcd-eb17b95c077c"}
-{"propertySlug":"decision-kind","path":"temper/items-rules-core/modules/rule-template-table/rule-template-table.module.ts","id":"01a06100-3bfd-7c3a-a467-2c2131163905"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/capture-instant/capture-instant.module.ts","id":"01a0ba6c-9beb-78b6-ae42-ea76022acdac"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
@@ -1084,6 +1079,11 @@
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-survey-filter/search-survey-filter.module.ts","id":"01a0613a-e0b0-7b63-86a0-4e084089702c"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-treasure-map-filter/search-treasure-map-filter.module.ts","id":"01a0613a-e0b2-781d-8d0c-4d7734b29a2b"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/temper-items-filters-core.domain.ts","id":"01a0613a-e0b3-78d9-aaac-decd150b1b76"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.ts","id":"01a060d9-44ca-7f34-b2bb-07aab8837d17"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.ts","id":"01a06100-3bed-7b56-8709-2a82c720204e"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-template-table-01/rule-template-table-01.module.ts","id":"01a06100-3bfc-7142-8fe2-abb5978a1b49"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-template-table-02/rule-template-table-02.module.ts","id":"01a06100-3bfd-794a-abcd-eb17b95c077c"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-template-table/rule-template-table.module.ts","id":"01a06100-3bfd-7c3a-a467-2c2131163905"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/check-equip-target/check-equip-target.module.ts","id":"01a06137-f964-761e-935e-c18a08cf1dce"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/check-result/check-result.module.ts","id":"01a06137-f968-771f-a84a-6b5df7704c70"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/compute-stock-groups/compute-stock-groups.module.ts","id":"01a06137-f969-7f2a-b975-82f7a16eb18d"}

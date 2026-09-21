@@ -8,7 +8,7 @@ import type {
   CharEligibility,
   MoveToDestination,
   Tier,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { CharacterTargetSelect } from "akasha/temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.code.tsx"
 import { DestinationCascade } from "akasha/temper/web/player-inventory-management-ui/modules/destination-cascade/destination-cascade.module.code.tsx"
 import { RuleCardDestinationTierEligibility } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-destination-tier-eligibility/rule-card-destination-tier-eligibility.module.code.tsx"

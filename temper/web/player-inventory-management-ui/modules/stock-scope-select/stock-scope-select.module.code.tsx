@@ -12,7 +12,7 @@ import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module
 import type {
   MoveToDestination,
   StockScope,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { ActionVariant } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { ChevronRight } from "lucide-react"

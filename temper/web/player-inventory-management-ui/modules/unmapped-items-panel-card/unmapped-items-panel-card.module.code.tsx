@@ -5,7 +5,7 @@ import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/pan
 import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
 import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { AffectedItemsViews } from "akasha/temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"
 import {
   decideUnmappedItemsPanelState,

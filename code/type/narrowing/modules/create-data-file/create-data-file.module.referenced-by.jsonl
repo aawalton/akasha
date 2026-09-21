@@ -47,10 +47,10 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/core/modules/location-type-data/location-type-data.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/modules/character-class/character-class.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"}

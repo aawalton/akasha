@@ -19,9 +19,6 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items-rules-core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/compute-item-stock/compute-item-stock.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-currencies/inventory-currencies.module.code.ts"}
@@ -33,6 +30,9 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-value/inventory-value.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts"}

@@ -1,10 +1,10 @@
 import { computeValue } from "akasha/temper/items/core/modules/inventory-display-value/inventory-display-value.module.code.ts"
+import { compareWithOp } from "akasha/temper/items/rules/core/modules/comparison-op/comparison-op.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import { resolveThreshold } from "akasha/temper/items/rules/core/modules/rule-constants/rule-constants.module.code.ts"
 import type { ConditionCheckResult } from "akasha/temper/items/rules/eval/modules/check-result/check-result.module.code.ts"
 import type { EvalContext } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
-import { compareWithOp } from "akasha/temper/items-rules-core/modules/comparison-op/comparison-op.module.code.ts"
-import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import { resolveThreshold } from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
 
 const PRICE_TABLE = "ttc-price-table"
 

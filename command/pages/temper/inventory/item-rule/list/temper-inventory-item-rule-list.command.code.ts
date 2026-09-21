@@ -12,7 +12,7 @@ import {
   ITEM_RULE_COLUMNS,
   itemRuleRow,
 } from "akasha/temper/command/modules/inventory-rule-rows/inventory-rule-rows.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export type Reading = () => Promise<InventoryRuleSettings>
 

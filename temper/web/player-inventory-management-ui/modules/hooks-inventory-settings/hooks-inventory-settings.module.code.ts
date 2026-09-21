@@ -27,9 +27,9 @@ import {
   type HeldRule,
   heldFromRows,
   rulesFromPages,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { writesFor } from "akasha/temper/items-rules-core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { writesFor } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,

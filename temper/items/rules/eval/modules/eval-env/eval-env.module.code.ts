@@ -1,4 +1,4 @@
-import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
+import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export type LookupResult<T> = T | "unknown"
 

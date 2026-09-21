@@ -9,7 +9,6 @@ export const temper = {
     "domain/temper-catalog",
     "domain/temper-character-skill-line",
     "domain/temper-command",
-    "domain/temper-items-rules-core",
     "domain/temper-player-completion",
     "domain/temper-player-completion-state",
     "domain/temper-skill-morph-access",

@@ -10,7 +10,7 @@ import {
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import type { MinedItemSearchResult } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
-import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,

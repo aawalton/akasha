@@ -14,7 +14,7 @@ import type {
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const TAKES = [json]
 

@@ -7,7 +7,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
-import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { AffectedItemsViews } from "akasha/temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"
 import type { ReactNode } from "react"
 

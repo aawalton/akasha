@@ -27,9 +27,9 @@ import {
   wroteSaid,
 } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { narrowItemAction } from "akasha/temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
-import { narrowDestination } from "akasha/temper/items-rules-core/modules/inventory-destination-parse/inventory-destination-parse.module.code.ts"
-import { bulkUpdateItemRules } from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { narrowDestination } from "akasha/temper/items/rules/core/modules/inventory-destination-parse/inventory-destination-parse.module.code.ts"
+import { bulkUpdateItemRules } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CHANGED = [action, destination, title, notes, goal, active, stockQuantity]
 

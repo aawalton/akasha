@@ -1,5 +1,5 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
-import type { CompletionCharacterInput } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { CompletionCharacterInput } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import type {
   MorphCharacterCompletion,
   MorphCharacterRow,

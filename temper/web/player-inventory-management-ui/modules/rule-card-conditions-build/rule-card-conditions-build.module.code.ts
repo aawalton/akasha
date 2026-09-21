@@ -1,11 +1,11 @@
 import type { InventoryLocationConditionId } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
-import type { ComparisonOpId } from "akasha/temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.code.ts"
-import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
-import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
+import type { ComparisonOpId } from "akasha/temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts"
+import type { RequiredCurseStateCondition } from "akasha/temper/items/rules/core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
+import type { RequiredSkillLinesCondition } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import {
   type RuleConstantKey,
   resolveThreshold,
-} from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/rule-constants/rule-constants.module.code.ts"
 
 export function resolveOptionalThreshold(
   v: number | RuleConstantKey | undefined

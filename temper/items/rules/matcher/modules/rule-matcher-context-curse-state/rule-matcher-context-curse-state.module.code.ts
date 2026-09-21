@@ -1,5 +1,5 @@
 import { recordField } from "akasha/code/type/narrowing/modules/record-field/record-field.module.code.ts"
-import type { CompletionCharacterInput } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { CompletionCharacterInput } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 
 export function compileCurseStates(
   characters: readonly CompletionCharacterInput[]

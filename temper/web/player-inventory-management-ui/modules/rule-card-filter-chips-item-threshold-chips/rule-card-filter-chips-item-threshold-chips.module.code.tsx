@@ -8,8 +8,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { LEVEL_OPTIONS } from "akasha/temper/items-rules-core/modules/level-filter/level-filter.module.code.ts"
-import { QUALITY_OPTIONS } from "akasha/temper/items-rules-core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
+import { LEVEL_OPTIONS } from "akasha/temper/items/rules/core/modules/level-filter/level-filter.module.code.ts"
+import { QUALITY_OPTIONS } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
 import { ComparisonOpPicker } from "akasha/temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx"
 import type { RuleCardState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 import type { ReactNode } from "react"

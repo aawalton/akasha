@@ -1,4 +1,4 @@
-import type { ItemAction } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 export type AddonItemAction = ItemAction | "open-stolen-when-safe"
 
 export interface UseAllocation {

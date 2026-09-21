@@ -10,8 +10,8 @@ import { countItemInBag } from "akasha/temper/addon/items-addon/modules/inventor
 import { findMatchedRule } from "akasha/temper/addon/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
 import type { AddonItemAction } from "akasha/temper/addon/items-addon/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { computeStockTierDeposit } from "akasha/temper/addon/items-addon/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
-import { formatActionLabel } from "akasha/temper/items-rules-core/modules/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
-import type { ItemAction } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { formatActionLabel } from "akasha/temper/items/rules/core/modules/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
+import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 export interface TooltipDecision {
   action: ItemAction
   destination: string | undefined

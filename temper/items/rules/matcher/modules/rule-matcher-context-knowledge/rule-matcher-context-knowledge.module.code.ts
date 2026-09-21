@@ -6,7 +6,7 @@ import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-k
 import type {
   CharacterBuildInput,
   CompletionCharacterInput,
-} from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { resolveCharacterToggles } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"

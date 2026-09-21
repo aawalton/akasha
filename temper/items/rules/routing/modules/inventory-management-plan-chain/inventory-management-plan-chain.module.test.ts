@@ -1,4 +1,7 @@
 import { describe, expect, test } from "bun:test"
+import { compileCategoryRuleToOrdered } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { buildManagementPlan } from "akasha/temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"
 import {
   BOUNDED_CHAIN_ARB,
@@ -16,9 +19,6 @@ import {
   TIER_DESTINATION_ARB,
 } from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-chain-property-fixtures/inventory-management-plan-chain-property-fixtures.test-fixture.code.ts"
 import { sumPlanStackCount } from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"
-import { compileCategoryRuleToOrdered } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
-import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import fc from "fast-check"
 
 function planned(rules: readonly CategoryRule[], built: ReturnType<typeof buildChainScenario>) {

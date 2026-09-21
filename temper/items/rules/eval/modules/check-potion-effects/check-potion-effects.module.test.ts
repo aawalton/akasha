@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
+import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { checkPotionEffects } from "akasha/temper/items/rules/eval/modules/check-potion-effects/check-potion-effects.module.code.ts"
 import type { EvalContext } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
-import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 
 const CTX = {} as EvalContext
 

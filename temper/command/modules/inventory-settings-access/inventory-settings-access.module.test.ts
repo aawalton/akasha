@@ -4,7 +4,7 @@ import {
   inventorySliceIn,
   parseSettings,
 } from "akasha/temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const ITEM_RULE = {
   id: "32c22942",

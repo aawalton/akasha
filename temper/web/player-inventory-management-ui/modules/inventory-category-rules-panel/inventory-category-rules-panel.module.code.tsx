@@ -10,8 +10,8 @@ import {
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
-import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,

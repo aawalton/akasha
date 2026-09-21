@@ -20,8 +20,8 @@ import {
 } from "akasha/temper/addon/items-addon/modules/inventory-rules-core-overrides/inventory-rules-core-overrides.module.code.ts"
 import { parsePotionData } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts"
 import { locationConditionFromKeyAndBag } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
+import { resolvePotionRestoreMetricIds } from "akasha/temper/items/rules/core/modules/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
-import { resolvePotionRestoreMetricIds } from "akasha/temper/items-rules-core/modules/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 export function buildItemFactsForSlot(bagId: number, slotIndex: number): ItemFacts | undefined {
   const start = GetGameTimeMilliseconds()
   const facts = buildItemFactsForSlotInner(bagId, slotIndex)

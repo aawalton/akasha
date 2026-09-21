@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"}
+{"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"}
 {"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.test.ts"}
 {"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"}

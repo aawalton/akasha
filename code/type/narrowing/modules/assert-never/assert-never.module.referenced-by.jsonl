@@ -71,10 +71,10 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/economy/trading/listing/modules/browse-state/browse-state.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-rules-core/modules/comparison-op/comparison-op.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-rules-core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items-rules-core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/core/modules/comparison-op/comparison-op.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"}

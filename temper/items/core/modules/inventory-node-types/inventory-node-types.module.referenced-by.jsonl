@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inventory-node-types.module.code.ts","path":"temper/items-rules-core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-node-types.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-node-types.module.code.ts","path":"temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-node-types.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"}
 {"propertySlug":"import","fileName":"inventory-node-types.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-currency-panel-card/inventory-currency-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"inventory-node-types.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.code.tsx"}

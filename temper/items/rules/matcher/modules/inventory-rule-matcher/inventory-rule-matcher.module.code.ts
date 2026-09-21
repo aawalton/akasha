@@ -1,3 +1,17 @@
+import {
+  type CompiledOrderedRule,
+  IMPLICIT_TERMINAL_COMPILED_RULE,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type {
+  AffectedItem,
+  AllRuleAffectedItemsResult,
+  ClassifiedInventoryItem,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import {
+  IMPLICIT_TERMINAL_RULE_ID,
+  type ItemRule,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { computeStockGroups } from "akasha/temper/items/rules/eval/modules/compute-stock-groups/compute-stock-groups.module.code.ts"
 import { evaluateRule } from "akasha/temper/items/rules/eval/modules/evaluator/evaluator.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
@@ -30,20 +44,6 @@ import {
   buildWebEvalEnv,
 } from "akasha/temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts"
 import { webItemFactsFromClassified } from "akasha/temper/items/rules/matcher/modules/web-item-facts/web-item-facts.module.code.ts"
-import {
-  type CompiledOrderedRule,
-  IMPLICIT_TERMINAL_COMPILED_RULE,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type {
-  AffectedItem,
-  AllRuleAffectedItemsResult,
-  ClassifiedInventoryItem,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import {
-  IMPLICIT_TERMINAL_RULE_ID,
-  type ItemRule,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 
 function ruleResultKey(rule: CompiledOrderedRule, idx: number): string {
   return rule.id ?? `rule#${idx}`

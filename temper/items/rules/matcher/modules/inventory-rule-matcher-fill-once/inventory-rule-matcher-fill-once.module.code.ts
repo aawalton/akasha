@@ -3,8 +3,8 @@ import { ESO_BAG_WORN } from "akasha/temper/items/core/modules/eso-bag-constants
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { ClassifiedInventoryItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 export interface FillOnceResult {
   included: readonly ClassifiedInventoryItem[]

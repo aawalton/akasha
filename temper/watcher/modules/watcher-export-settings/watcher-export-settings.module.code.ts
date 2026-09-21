@@ -8,16 +8,16 @@ import {
 import { serializeLuaBlock } from "akasha/temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.code.ts"
 import type { BackpackSettings } from "akasha/temper/items/core/modules/backpack-settings-types/backpack-settings-types.module.code.ts"
 import { DEFAULT_BACKPACK_SETTINGS } from "akasha/temper/items/core/modules/backpack-settings-types/backpack-settings-types.module.code.ts"
-import { compileRules } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
-import { buildAllControlledRules } from "akasha/temper/items-rules-core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
-import type { HeldRule } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { compileRules } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
+import { buildAllControlledRules } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import {
   heldFromRows,
   rulesFromPages,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import { rulesToInventoryConfig } from "akasha/temper/items-rules-core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts"
-import type { InventoryTimestamps } from "akasha/temper/items-rules-core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
-import { ruleFingerprint } from "akasha/temper/items-rules-core/modules/rule-fingerprint/rule-fingerprint.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { rulesToInventoryConfig } from "akasha/temper/items/rules/core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts"
+import type { InventoryTimestamps } from "akasha/temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
+import { ruleFingerprint } from "akasha/temper/items/rules/core/modules/rule-fingerprint/rule-fingerprint.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import type {

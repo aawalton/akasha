@@ -26,11 +26,11 @@ import {
   wroteSaid,
 } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { BUY_SOURCE_VALUES } from "akasha/temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
-import { bulkUpdateBuyRules } from "akasha/temper/items-rules-core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
+import { bulkUpdateBuyRules } from "akasha/temper/items/rules/core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
 import type {
   BuyRule,
   BuySource,
-} from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 
 const CHANGED = [targetArgument, sourceArgument, title, notes, goal, active]
 

@@ -37,6 +37,15 @@ import {
 } from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import {
+  type CompiledOrderedRule,
+  IMPLICIT_TERMINAL_COMPILED_RULE,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type {
+  AffectedItem,
+  ClassifiedInventoryItem,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { ALL_CATEGORIES_ID } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   IndeterminateReason,
   WalkOutcome,
@@ -47,15 +56,6 @@ import type {
   PlanItem,
   VenueStop,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import {
-  type CompiledOrderedRule,
-  IMPLICIT_TERMINAL_COMPILED_RULE,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type {
-  AffectedItem,
-  ClassifiedInventoryItem,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const NAMED = [
   jsonArgument,

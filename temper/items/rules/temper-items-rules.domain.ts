@@ -9,5 +9,6 @@ export const temperItemsRules = {
     "domain/temper-items-rules-routing",
     "domain/temper-items-rules-eval",
     "domain/temper-items-rules-matcher",
+    "domain/temper-items-rules-core",
   ],
 } as const satisfies Domain

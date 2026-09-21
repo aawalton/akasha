@@ -1,10 +1,10 @@
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
-import type { ComparisonOpId } from "akasha/temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.code.ts"
-import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
-import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
-import { resolveThreshold } from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
-import { QUALITY_OPTIONS } from "akasha/temper/items-rules-core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
+import type { ComparisonOpId } from "akasha/temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RequiredCurseStateCondition } from "akasha/temper/items/rules/core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
+import type { RequiredSkillLinesCondition } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
+import { resolveThreshold } from "akasha/temper/items/rules/core/modules/rule-constants/rule-constants.module.code.ts"
+import { QUALITY_OPTIONS } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
 
 export function deriveConditionValues(conditions: CategoryRule["conditions"]) {
   const qualityValue = conditions?.maxQuality != null ? String(conditions.maxQuality) : "1"

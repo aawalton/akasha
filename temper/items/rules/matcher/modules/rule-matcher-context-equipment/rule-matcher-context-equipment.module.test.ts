@@ -1,15 +1,15 @@
 import { describe, expect, test } from "bun:test"
 import { createEmptyCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
-import {
-  compileWantedCompanionEquipment,
-  compileWantedEquipment,
-} from "akasha/temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 import type {
   CharacterBuildInput,
   CompanionBuildInput,
   CompletionCharacterInput,
   CompletionCompanionInput,
-} from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import {
+  compileWantedCompanionEquipment,
+  compileWantedEquipment,
+} from "akasha/temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 import { encodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { encodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"

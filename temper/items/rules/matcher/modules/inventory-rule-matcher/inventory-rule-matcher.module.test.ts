@@ -1,4 +1,9 @@
 import { describe, expect, test } from "bun:test"
+import {
+  type CategoryRule,
+  IMPLICIT_TERMINAL_RULE_ID,
+  type ItemRule,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import { compile } from "akasha/temper/items/rules/matcher/test-fixtures/compile-rules/compile-rules.test-fixture.code.ts"
 import {
@@ -9,11 +14,6 @@ import {
   ITEM_RULE_LIST_ARB,
   ruleMatchesItem,
 } from "akasha/temper/items/rules/matcher/test-fixtures/inventory-rule-matcher-property-fixtures/inventory-rule-matcher-property-fixtures.test-fixture.code.ts"
-import {
-  type CategoryRule,
-  IMPLICIT_TERMINAL_RULE_ID,
-  type ItemRule,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import fc from "fast-check"
 
 function activeIds(rules: readonly (CategoryRule | ItemRule)[]): readonly string[] {

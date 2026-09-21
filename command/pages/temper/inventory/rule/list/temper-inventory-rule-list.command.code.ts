@@ -9,8 +9,8 @@ import {
   settingsOf,
   toldRows,
 } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import { buildAllControlledRules } from "akasha/temper/items-rules-core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
-import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { buildAllControlledRules } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const COLUMNS = [
   "pos",

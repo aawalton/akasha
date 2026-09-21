@@ -6,14 +6,14 @@ import type {
   CompiledOrderedRule,
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   CharEligibility,
   ItemRule,
   MoveToDestination,
   Tier,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { RULE_CONSTANT_KEYS } from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { RULE_CONSTANT_KEYS } from "akasha/temper/items/rules/core/modules/rule-constants/rule-constants.module.code.ts"
 import { z } from "zod"
 
 export interface CompiledRule {

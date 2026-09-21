@@ -1,17 +1,17 @@
 import {
   compileWantedCompanionEquipmentForBuild,
   compileWantedEquipmentForBuild,
-} from "akasha/temper/items-rules-core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   CharacterBuildInput,
   CompanionBuildInput,
   CompletionCharacterInput,
   CompletionCompanionInput,
-} from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import {
