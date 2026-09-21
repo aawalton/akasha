@@ -9,14 +9,9 @@ export const dallaWorktrees = {
   intentStack: [
     {
       statement:
-        "A deployed service gets every file it needs from the pages service at its deployed commit.",
+        "A deployed service runs from a checkout at the commit it was deployed at, every file deep.",
       workingMemory:
-        "A plugin serving `akasha/` from `/read` in its own namespace runs a service with nothing of it on disk; `zod` still resolves from `node_modules`, kept on disk here and installed remotely from the lockfile. The deploy writes that loader beside each unit. A module finding the repository from its own file breaks there, since `import.meta.dir` reads `/wire:/…`; `akashaRoot()` already reads `AKASHA_ROOT`. Pinning waits on the index, which each commit spells its own way.",
-    },
-    {
-      statement: "No deployed service runs out of a worktree.",
-      workingMemory:
-        "Six trees under `.git/trees/<kind>` hold 23 GB, advanced by `git reset --hard` from `akasha deploy`; every workstation unit execs a module inside `.git/trees/service-workstation` while `WorkingDirectory` and `AKASHA_ROOT` name the checkout. That tree holds no `node_modules`, so every `akasha/` import below the entry loads from the live checkout: the pin is one file deep. The deploy loop runs from that tree too, so a move respelling the checkout strands every unit.",
+        "`.index` is committed whole, so a tree reset to a commit holds what a reader needs, and the `refreshedFrom` `pinnedTree` runs after that reset is dead work leaving every tree dirty. `package.json` names the package `akasha` and every tree carries one, so `akasha/…` in a tree resolves in that tree: the pin is deep. `/read` serves from one root, the checkout, with no commit in it, so the 16 wire-loaded services run live code. Cluster pods reset to `origin/main` rather than the deployed commit.",
     },
   ],
 } as const satisfies Initiative
