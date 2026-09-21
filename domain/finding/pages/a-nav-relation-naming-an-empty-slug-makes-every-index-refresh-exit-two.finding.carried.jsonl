@@ -1,0 +1,6 @@
+{"claim":"`akasha index refresh` repairs the whole index and then exits 2, because one page names a relation target whose slug is empty."}
+{"domain":"page-type/index"}
+{"evidence":"`page/view/pages/-personas.view.ts` states `nav: \"nav/\"`. The address parts to the page type `nav` and the slug ``, and no page carries that slug, so the entry refuses. The refresh reports `77326 pages, 1153214 entries, 1 refused` and closes with ``the index took less than the whole of it — /var/home/walton/repos/akasha/page/view/pages/-personas.view.ts: `nav` — no `nav` carries the slug ``.`` Everything else is written: the run that swept the flat id entries repaired `.index` in place and committed at `0ce36f30` before it refused. So the exit code says a refresh failed where a refresh wrote every file it meant to, and a caller reading the code rather than the report reads the refresh as stopped part way."}
+{"id":"01a0c439-8526-796f-a8aa-62dc15e252c5"}
+{"slug":"a-nav-relation-naming-an-empty-slug-makes-every-index-refresh-exit-two"}
+{"type":"page-type/finding"}
