@@ -20,6 +20,9 @@ const ASK = "feature-request-ask"
 
 const WENT_WRONG = "the post went nowhere, so nothing opened"
 
+const OPENED =
+  "Your request is open, and the points are behind it. Alan publishes it or denies it himself, and a request he denies gives its backers their points back."
+
 function heldSays(balance: number | null): string {
   const costs = `Opening a request costs ${PROPOSAL_COST} points.`
   return balance === null ? costs : `You hold ${balance} points. ${costs}`
@@ -50,12 +53,14 @@ export function ProposeDialog({
   const [ask, setAsk] = useState("")
   const [working, setWorking] = useState(false)
   const [refused, setRefused] = useState<string | null>(null)
+  const [opened, setOpened] = useState(false)
 
   const close = () => {
     onOpenChange(false)
     setAsk("")
     setWorking(false)
     setRefused(null)
+    setOpened(false)
   }
 
   const send = async () => {
@@ -74,7 +79,8 @@ export function ProposeDialog({
       }
       const said = (await answer.json()) as { readonly slug?: unknown }
       if (typeof said.slug === "string") onProposed?.(said.slug)
-      close()
+      setWorking(false)
+      setOpened(true)
     } catch {
       setRefused(WENT_WRONG)
       setWorking(false)
@@ -94,43 +100,55 @@ export function ProposeDialog({
           <DialogTitle>Open a feature request</DialogTitle>
         </DialogHeader>
         <DialogBody>
-          <div className="flex flex-col gap-2">
-            <Label htmlFor={ASK}>What do you want Alan to build?</Label>
-            <Textarea
-              id={ASK}
-              value={ask}
-              disabled={working}
-              maxLength={featureRequestAsk.maxLength}
-              onChange={(event) => setAsk(event.target.value)}
-            />
-            <p className="text-secondary text-sm">{heldSays(balance)}</p>
-            {refused !== null && (
-              <p role="alert" className="text-red text-sm">
-                {refused}
-              </p>
-            )}
-          </div>
+          {opened ? (
+            <p className="text-secondary text-sm">{OPENED}</p>
+          ) : (
+            <div className="flex flex-col gap-2">
+              <Label htmlFor={ASK}>What do you want Alan to build?</Label>
+              <Textarea
+                id={ASK}
+                value={ask}
+                disabled={working}
+                maxLength={featureRequestAsk.maxLength}
+                onChange={(event) => setAsk(event.target.value)}
+              />
+              <p className="text-secondary text-sm">{heldSays(balance)}</p>
+              {refused !== null && (
+                <p role="alert" className="text-red text-sm">
+                  {refused}
+                </p>
+              )}
+            </div>
+          )}
         </DialogBody>
         <DialogFooter>
-          <Button variant="tertiary" onClick={close} disabled={working}>
-            Cancel
-          </Button>
-          <Button
-            variant="accent"
-            disabled={working || ask.trim() === ""}
-            onClick={() => {
-              void send()
-            }}
-          >
-            {working ? (
-              <>
-                <Spinner />
-                Opening...
-              </>
-            ) : (
-              `Open it for ${PROPOSAL_COST} points`
-            )}
-          </Button>
+          {opened ? (
+            <Button variant="accent" onClick={close}>
+              Done
+            </Button>
+          ) : (
+            <>
+              <Button variant="tertiary" onClick={close} disabled={working}>
+                Cancel
+              </Button>
+              <Button
+                variant="accent"
+                disabled={working || ask.trim() === ""}
+                onClick={() => {
+                  void send()
+                }}
+              >
+                {working ? (
+                  <>
+                    <Spinner />
+                    Opening...
+                  </>
+                ) : (
+                  `Open it for ${PROPOSAL_COST} points`
+                )}
+              </Button>
+            </>
+          )}
         </DialogFooter>
       </DialogContent>
     </Dialog>

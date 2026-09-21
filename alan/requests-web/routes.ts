@@ -23,6 +23,10 @@ export default [
   route("api/pages/:pageTypeSlug", "routes/requests-api-pages/requests-api-pages.route.code.ts"),
   route("api/page-write", "routes/requests-api-page-write/requests-api-page-write.route.code.ts"),
   route(
+    "api/request-propose",
+    "routes/requests-api-request-propose/requests-api-request-propose.route.code.ts"
+  ),
+  route(
     "api/nav-icon/:idSuffix",
     "routes/requests-api-nav-icon/requests-api-nav-icon.route.code.ts"
   ),

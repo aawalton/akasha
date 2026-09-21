@@ -5,3 +5,4 @@
 @source "../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../design/interface/**/*.{ts,tsx}";
 @source "../../../page/ui/**/*.{ts,tsx}";
+@source "../../../product/kofi/**/*.{ts,tsx}";

@@ -5,9 +5,17 @@ import { AuthProvider } from "akasha/alan/requests-web/modules/requests-auth-pro
 import { REQUESTS_SITE } from "akasha/alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { CreateOverrideProvider } from "akasha/page/ui/component/modules/create-override/create-override.module.code.tsx"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import { ProposeDialog } from "akasha/product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"
+import { balanceHeldBy } from "akasha/product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"
+import { useMemo, useState } from "react"
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
+
+const FEATURE_REQUEST = "feature-request"
+
+const PROPOSE_PATH = "/api/request-propose"
 
 export async function loader({ request }: Route.LoaderArgs) {
   const reader = await signedInAs(REQUESTS_SITE, request)
@@ -27,15 +35,28 @@ export async function loader({ request }: Route.LoaderArgs) {
     console.error("[requests/web/_app-layout] nav SSR fetch failed:", err)
   }
 
-  return data({ reader, accountId, signedIn, navItems })
+  const balance = reader === null ? null : await balanceHeldBy(reader)
+
+  return data({ reader, accountId, signedIn, navItems, balance })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
+  const [proposing, setProposing] = useState(false)
+  const overrides = useMemo(() => ({ [FEATURE_REQUEST]: () => setProposing(true) }), [])
+
   return (
     <AuthProvider reader={loaderData.reader} accountId={loaderData.accountId}>
-      <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
-        <Outlet />
-      </AppShell>
+      <CreateOverrideProvider overrides={overrides}>
+        <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
+          <Outlet />
+        </AppShell>
+      </CreateOverrideProvider>
+      <ProposeDialog
+        open={proposing}
+        onOpenChange={setProposing}
+        postTo={PROPOSE_PATH}
+        balance={loaderData.balance}
+      />
       <Toaster />
     </AuthProvider>
   )
