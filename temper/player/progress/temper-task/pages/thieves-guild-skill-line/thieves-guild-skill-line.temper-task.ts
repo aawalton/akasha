@@ -7,7 +7,7 @@ export const thievesGuildSkillLine = {
   title: "Thieves Guild Skill Line",
   displayOrder: 0,
   esoCharacterId: "8796093038720681",
-  character: "temper-account-character/ceria-springwater",
+  character: "temper-account-character/shaestrel",
   completionCardId: "skill-lines",
   completionItemPath: ["117"],
   dueDate: "2026-09-22",
