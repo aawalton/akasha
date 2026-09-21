@@ -4,6 +4,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDancingThroughL
   id: "01a0a6c5-0cdc-7146-a757-03ead1e85d30",
   type: "page-type/track",
   slug: "ariana-grande-wicked-one-wonderful-night-live-the-soundtrack-dancing-through-life-live-from-the",
+  grade: "B",
   ownLength: 5.9676,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-one-wonderful-night-live-the-soundtrack"],
