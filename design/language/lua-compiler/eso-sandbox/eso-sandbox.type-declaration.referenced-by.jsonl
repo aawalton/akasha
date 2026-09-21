@@ -710,6 +710,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-set-scan/lib-sets-debug-debug-set-scan.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-dungeon-finder/lib-sets-debug-dungeon-finder.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-scan-report/lib-sets-debug-scan-report.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-dlc-filter/lib-sets-kbf-dlc-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-drop-filters/lib-sets-kbf-drop-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-kbf-gear-filters/lib-sets-kbf-gear-filters.module.code.ts"}
