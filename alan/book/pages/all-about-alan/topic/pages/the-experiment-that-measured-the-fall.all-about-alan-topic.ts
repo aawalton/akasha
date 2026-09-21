@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theExperimentThatMeasuredTheFall = {
+  id: "01a0c599-bdda-7965-ad6a-740468217c08",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-experiment-that-measured-the-fall",
+  title: "The Experiment That Measured The Fall",
+  definition: "the two matched loads, eighteen years apart, that give the size of the drop",
+  parents: ["all-about-alan-topic/the-arithmetic-of-the-decline"],
+  related: [
+    "all-about-alan-topic/the-nine-months-my-body-broke",
+    "all-about-alan-topic/the-ceiling-i-am-climbing-back-to",
+  ],
+  settled:
+    "At twenty I carried six months of the heaviest social load there is, daily: knocking on doors and stopping people in the street, in a language not mine. Then I broke.\n\nAt my low point, less than ninety minutes of the same kind of load reached the same breaking line.\n\nThe ninety minutes is not a clean reading of that load alone. It is the whole cost of the day it sat in, and the social part was probably a tenth of it.\n\nSo taking the two figures at face value overstates the fall by about tenfold. The calibrated drop is a hundredfold.",
+} as const satisfies AllAboutAlanTopic
