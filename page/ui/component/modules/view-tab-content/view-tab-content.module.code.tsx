@@ -7,6 +7,7 @@ import {
   type ViewDataJSON,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
+import { useCreateOverride } from "akasha/page/ui/component/modules/create-override/create-override.module.code.tsx"
 import { PageCardRenderer } from "akasha/page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { PageRowCells } from "akasha/page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx"
@@ -128,6 +129,8 @@ export function ViewTabContent({
 
   const handlePropertyChange = usePropertyChangePerfHandler(setProperty, rowPageTypeSlug)
 
+  const createOverride = useCreateOverride(rowPageTypeSlug)
+
   const pageTypeIconName =
     typeof effectivePageType?.properties?.icon === "string"
       ? effectivePageType.properties.icon
@@ -202,7 +205,7 @@ export function ViewTabContent({
         propertiesByPageType={propertiesByPageType}
         onCreatePage={
           !isLocked(effectiveConfig, "createPage") && effectivePageTypeId != null && userId != null
-            ? handleCreatePage
+            ? (createOverride ?? handleCreatePage)
             : undefined
         }
         serverGrouped={serverGrouped}
