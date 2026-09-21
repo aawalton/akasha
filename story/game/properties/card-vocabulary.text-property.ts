@@ -26,6 +26,14 @@ export const cardVocabulary = {
       decisionKind: "decision-kind/departure",
       statement: "What an announcement felt like belongs to the prose rather than to the window.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An announcement says where a thing now is rather than where that thing was.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The value an announcement shows is the value the sheet shows for that thing.",
+    },
   ],
   types: "ts",
 } as const satisfies TextProperty
