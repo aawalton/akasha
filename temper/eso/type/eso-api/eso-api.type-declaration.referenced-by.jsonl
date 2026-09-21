@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-saved-variables/leads-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-list/characters-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-skill-lines/characters-skill-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-skill-points/characters-skill-points.module.code.ts"}
@@ -61,6 +60,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-init/minimap-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-mode/minimap-mode.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-toggles/minimap-toggles.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-saved-variables/leads-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-scheduler/async-scheduler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init/knowledge-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-settings-main-section/knowledge-settings-main-section.module.code.ts"}
