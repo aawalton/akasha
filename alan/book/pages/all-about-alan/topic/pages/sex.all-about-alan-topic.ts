@@ -9,5 +9,5 @@ export const sex = {
   parents: ["all-about-alan-topic/alan"],
   related: ["all-about-alan-topic/sharing-a-bed"],
   settled:
-    "Everywhere else my body is a whisper. Here it turns all the way up.\n\nThree things fire at once in it: what I believe, my marriage, and plain bodily need.\n\nThe pornography and the masturbation are regulation rather than desire, which is why nothing ever made them stop.\n\nPartnered sex gives me about a tenth of what it gives most people, because the anticipating and the savouring are both missing.\n\nThis opens further only from enough safety, and how deep it goes is mine to set.",
+    "Everywhere else my body is a whisper. Here it turns all the way up.\n\nThree things fire at once in it: what I believe, my marriage, and plain bodily need.\n\nThe loudness is not the hard part. The tangle is. This is the signal I can least cleanly pull into its pieces, and I carried it with nobody to set it down with.\n\nThe pornography and the masturbation are regulation rather than desire, which is why nothing ever made them stop.\n\nPartnered sex gives me about a tenth of what it gives most people, because the anticipating and the savouring are both missing.\n\nThis opens further only from enough safety, and how deep it goes is mine to set.",
 } as const satisfies AllAboutAlanTopic
