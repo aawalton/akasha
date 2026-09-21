@@ -3,7 +3,7 @@ import type {
   InventoryDatabase,
   InventoryItemData,
   InventoryLocationData,
-} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items-rules-core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {

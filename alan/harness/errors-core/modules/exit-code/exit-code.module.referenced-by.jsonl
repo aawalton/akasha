@@ -152,7 +152,7 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.test.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/items/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/watcher/modules/watcher-running/watcher-running.module.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/errors-core/errors-core.domain.ts","id":"01a05c48-deeb-7013-b082-9b135a70f3cc"}

@@ -6,8 +6,8 @@
 {"propertySlug":"import","fileName":"companion-armor-slots.module.code.ts","path":"temper/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-armor-slots.module.code.ts","path":"temper/companions-core/modules/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-armor-slots.module.code.ts","path":"temper/companions-core/modules/companion-types/companion-types.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-armor-slots.module.code.ts","path":"temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-armor-slots.module.code.ts","path":"temper/items-rules-core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-armor-slots.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-armor-slots.module.code.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-armor-slots.module.code.ts","path":"temper/web/modules/companion-passive-skills-panel-card/companion-passive-skills-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-armor-slots.module.code.ts","path":"temper/web/modules/global-companion-bulk-edit-tags/global-companion-bulk-edit-tags.module.code.tsx"}

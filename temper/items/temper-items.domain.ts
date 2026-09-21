@@ -5,5 +5,10 @@ export const temperItems = {
   type: "page-type/domain",
   slug: "temper-items",
   definition: "the items a player holds, and the rules over them",
-  parts: ["domain/temper-items-rules", "domain/temper-items-filters"],
+  parts: [
+    "domain/temper-items-rules",
+    "domain/temper-items-filters",
+    "domain/temper-items-core",
+    "domain/temper-inventory-automation",
+  ],
 } as const satisfies Domain

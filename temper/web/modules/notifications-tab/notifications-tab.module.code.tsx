@@ -20,11 +20,11 @@ import { Switch } from "akasha/design/interface/primitive/modules/switch-control
 import type {
   InventoryLoggingLevel,
   InventoryPerfTracingLevel,
-} from "akasha/temper/items-core/modules/inventory-logging-types/inventory-logging-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-logging-types/inventory-logging-types.module.code.ts"
 import {
   DESTRUCTIVE_ACTIONS,
   type DestructiveAction,
-} from "akasha/temper/items-core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
 import { useBackpackSettings } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import {
   useLoggingSettings,

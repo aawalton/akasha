@@ -8,7 +8,7 @@ import type {
   BrowserSortKey,
 } from "akasha/temper/addon/items-addon/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import { BROWSER_QUALITY_ANY } from "akasha/temper/addon/items-addon/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
-import { compareStrings } from "akasha/temper/items-core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
+import { compareStrings } from "akasha/temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
 
 const ASCII_UPPER_A = 65
 const ASCII_UPPER_Z = 90

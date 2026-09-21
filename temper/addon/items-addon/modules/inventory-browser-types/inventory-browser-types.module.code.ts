@@ -1,4 +1,4 @@
-import type { ItemLocationEntry } from "akasha/temper/items-core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
+import type { ItemLocationEntry } from "akasha/temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
 export const BROWSER_QUALITY_ANY = 99
 
 export type BrowserSortKey = "name" | "quality"

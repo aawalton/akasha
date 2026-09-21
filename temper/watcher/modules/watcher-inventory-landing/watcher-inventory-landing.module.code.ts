@@ -8,13 +8,13 @@ import {
   readPages,
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
-import { instantOf } from "akasha/temper/items-core/modules/capture-instant/capture-instant.module.code.ts"
-import { currencies } from "akasha/temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"
+import { instantOf } from "akasha/temper/items/core/modules/capture-instant/capture-instant.module.code.ts"
+import { currencies } from "akasha/temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"
 import type {
   CurrencyBalances,
   InventoryDatabase,
   InventoryItemData,
-} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { ACCOUNT_PAGE_TYPE_SLUG } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import type {
   Landed,

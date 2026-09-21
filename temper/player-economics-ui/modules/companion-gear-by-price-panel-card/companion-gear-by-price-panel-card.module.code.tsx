@@ -8,7 +8,7 @@ import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/
 import { companionTraits } from "akasha/temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import { needToShoppingKey } from "akasha/temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
-import type { CompanionGearNeed } from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
+import type { CompanionGearNeed } from "akasha/temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import {
   buildBlendedPriceMap,
   buildSlotPriceMap,

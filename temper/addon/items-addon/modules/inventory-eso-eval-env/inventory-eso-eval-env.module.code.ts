@@ -17,8 +17,8 @@ import { countScripts } from "akasha/temper/addon/items-addon/modules/inventory-
 import { buildGetCharacterSkillLineRanks } from "akasha/temper/addon/items-addon/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"
 import { canCharacterLevelMorphs } from "akasha/temper/addon/items-addon/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import { signatureMatchesItem } from "akasha/temper/items-core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items-rules-eval/modules/eval-env/eval-env.module.code.ts"
 

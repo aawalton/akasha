@@ -6,12 +6,12 @@ import type {
   LocationViewOption,
 } from "akasha/temper/addon/items-addon/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import { buildItemCentricInventory } from "akasha/temper/items-core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
+import { buildItemCentricInventory } from "akasha/temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
 import {
   classifyLocation,
   getLocationDisplayName,
-} from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
-import type { LocationTypeId } from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
 
 const FIXED_LOCATION_VIEWS: readonly (readonly [FixedLocationViewId, string])[] = [
   ["all", "All"],

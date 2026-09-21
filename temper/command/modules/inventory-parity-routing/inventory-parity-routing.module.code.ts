@@ -1,4 +1,4 @@
-import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import {
   narrowDestination,
   parseItemAction,

@@ -17,7 +17,7 @@ import type {
   PlacedFurnishingData as CorePlacedFurnishingData,
   InventoryItemData,
   PriceSource,
-} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type { CompiledRuleConfig } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 export type ItemData = InventoryItemData
 

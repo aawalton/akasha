@@ -1,8 +1,8 @@
 "use client"
 
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
-import type { InventoryTypeGroup } from "akasha/temper/items-core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
-import { buildInventoryTypeNodes } from "akasha/temper/items-core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
+import type { InventoryTypeGroup } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
+import { buildInventoryTypeNodes } from "akasha/temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
 import {
   InventoryPanelCard,
   type InventorySortMode,

@@ -3,7 +3,7 @@ import { getDatabase } from "akasha/temper/addon/items-addon/modules/inventory-s
 import type {
   InventoryItemData,
   ResolvedActionSource,
-} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 
 interface ResolvedActionValues {
   action: string

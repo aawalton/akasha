@@ -1,6 +1,6 @@
 import * as parityRoutingModule from "akasha/temper/command/modules/inventory-parity-routing/inventory-parity-routing.module.code.ts"
 import * as parityAddonTraceModule from "akasha/temper/command/modules/inventory-parity-trace/inventory-parity-trace.module.code.ts"
-import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 
 export interface ParityAddonTrace {
   readonly signals: {

@@ -1,4 +1,4 @@
-import { classifyLocation } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
+import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import { composeCharEligibilityPredicate } from "akasha/temper/items-rules-core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"

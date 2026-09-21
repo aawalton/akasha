@@ -251,7 +251,7 @@ export type RuleFilterPopoverProps = {
   ruleLocation: string | null
   hasDuplicates: boolean
   inventory:
-    | import("akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts").InventoryDatabase
+    | import("akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts").InventoryDatabase
     | null
   onRuleStatusChange: (status: readonly ActiveStatusFilter[]) => void
   onRuleLockChange: (lock: readonly LockStatusFilter[]) => void

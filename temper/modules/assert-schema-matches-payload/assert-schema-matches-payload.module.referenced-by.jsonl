@@ -12,6 +12,6 @@
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/game-catalog-capture-host/modules/zone-completion-catalog-schema/zone-completion-catalog-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/completion/modules/completion-writer-schema/completion-writer-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/economy/trading/listing/modules/listing-entry-schema/listing-entry-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/items-core/modules/inventory-database-schema/inventory-database-schema.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/items/core/modules/inventory-database-schema/inventory-database-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"}
 {"propertySlug":"parts","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

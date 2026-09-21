@@ -9,8 +9,8 @@ import {
   DEFAULT_INVENTORY_PATH,
   loadInventoryPlanInputs,
 } from "akasha/temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
-import { classifyItemToNodeIds } from "akasha/temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
-import { parseInventoryContent } from "akasha/temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"
+import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"
 import { itemOutcomes } from "akasha/temper/items-rules-matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import { buildManagementPlan } from "akasha/temper/items-rules-routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"

@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"}
 {"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/build-support/modules/build-row/build-row.module.code.ts"}
-{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"}
+{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/modules/use-player/use-player.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"}
 {"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}

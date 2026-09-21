@@ -8,11 +8,11 @@ import { luaStringsOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-
 import {
   computeBankStock,
   computeItemStock,
-} from "akasha/temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"
-import { findCooldownGroup } from "akasha/temper/items-core/modules/cooldown-groups/cooldown-groups.module.code.ts"
-import { isCraftingRankBelowCap } from "akasha/temper/items-core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
-import { signatureMatchesItem } from "akasha/temper/items-core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items/core/modules/compute-item-stock/compute-item-stock.module.code.ts"
+import { findCooldownGroup } from "akasha/temper/items/core/modules/cooldown-groups/cooldown-groups.module.code.ts"
+import { isCraftingRankBelowCap } from "akasha/temper/items/core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
+import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,

@@ -1,5 +1,5 @@
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type {
   CharacterBuildInput,
   RuleMatcherContext,

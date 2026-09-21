@@ -26,7 +26,7 @@ import { dispatchUseActions } from "akasha/temper/addon/items-addon/modules/inve
 import { resolveEntryAllocation } from "akasha/temper/addon/items-addon/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"
 import { setRescanInventoryRef } from "akasha/temper/addon/items-addon/modules/inventory-rules-rescan-ref/inventory-rules-rescan-ref.module.code.ts"
 import type { UseAllocation } from "akasha/temper/addon/items-addon/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
-import type { ResolvedActionSource } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { ResolvedActionSource } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type {
   ItemAction,
   StockScope,

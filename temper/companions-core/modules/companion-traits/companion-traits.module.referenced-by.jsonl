@@ -7,10 +7,10 @@
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/companions-core/modules/companion-soothing-healing/companion-soothing-healing.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/companions-core/modules/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/companions-core/modules/companion-types/companion-types.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items-core/modules/companion-trait-labels/companion-trait-labels.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items-filters-core/modules/search-trait-filter/search-trait-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items-rules-core/modules/traits-filter/traits-filter.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/core/modules/companion-trait-labels/companion-trait-labels.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx"}

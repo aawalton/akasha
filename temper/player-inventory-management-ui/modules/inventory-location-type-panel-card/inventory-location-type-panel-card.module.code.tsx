@@ -1,27 +1,27 @@
 "use client"
 
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
-import { classifyItem } from "akasha/temper/items-core/modules/classify-item/classify-item.module.code.ts"
+import { classifyItem } from "akasha/temper/items/core/modules/classify-item/classify-item.module.code.ts"
 import {
   ESO_BAG_BACKPACK,
   ESO_BAG_WORN,
-} from "akasha/temper/items-core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
-import { buildLocationCurrencyNodes } from "akasha/temper/items-core/modules/inventory-currencies/inventory-currencies.module.code.ts"
-import type { InventoryLocationGroup } from "akasha/temper/items-core/modules/inventory-grouping/inventory-grouping.module.code.ts"
+} from "akasha/temper/items/core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
+import { buildLocationCurrencyNodes } from "akasha/temper/items/core/modules/inventory-currencies/inventory-currencies.module.code.ts"
+import type { InventoryLocationGroup } from "akasha/temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"
 import {
   INVENTORY_TYPE_CATEGORY_ORDER,
   type InventoryItemRow,
   type InventoryTypeCategory,
   type InventoryTypeEntry,
   isInventoryTypeCategory,
-} from "akasha/temper/items-core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
-import type { InventoryNode } from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
-import { buildInventoryTypeNodes } from "akasha/temper/items-core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
+import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
+import { buildInventoryTypeNodes } from "akasha/temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
 import type {
   CurrencyBalances,
   InventoryCurrencies,
-} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
-import type { LocationTypeId } from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
 import {
   InventoryPanelCard,
   type InventorySortMode,

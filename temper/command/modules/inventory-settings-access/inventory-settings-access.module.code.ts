@@ -4,8 +4,8 @@ import { deletePages } from "akasha/page/access/modules/deleting/deleting.module
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { upsertPage, upsertPages } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import { AutomationSettingsShape } from "akasha/temper/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"
-import type { AutomationSettings } from "akasha/temper/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
+import { AutomationSettingsShape } from "akasha/temper/items/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"
+import type { AutomationSettings } from "akasha/temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
 import type { HeldRule } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import {
   heldFromRows,

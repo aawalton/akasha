@@ -84,7 +84,7 @@
 {"propertySlug":"decision-kind","path":"temper/character/temper-account/properties/data.file-property.ts","id":"01a0b725-59a6-7789-9477-41dbe92b0231"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}
-{"propertySlug":"decision-kind","path":"temper/items-core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
 {"propertySlug":"decision-kind","path":"temper/progress/temper-inventory-rule/properties/char-eligibility.text-property.ts","id":"01a07283-f298-7cad-8c9f-82f3ca167ff1"}
 {"propertySlug":"decision-kind","path":"temper/progress/temper-rule/properties/condition-value.text-property.ts","id":"01a05fd0-3aa5-7e12-bb0a-a40ab13f2405"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-pricing-tables/watcher-pricing-tables.module.ts","id":"01a06381-35cf-7f9a-8a86-81d472cd7c24"}

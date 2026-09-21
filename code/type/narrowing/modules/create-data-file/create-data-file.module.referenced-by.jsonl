@@ -62,10 +62,10 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/formula-framework/modules/debuffs-minor/debuffs-minor.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/formula-framework/modules/debuffs-other/debuffs-other.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/formula-framework/modules/source-category/source-category.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items-core/modules/location-type-data/location-type-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items-rules-core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/core/modules/location-type-data/location-type-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/modules/character-class/character-class.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"}

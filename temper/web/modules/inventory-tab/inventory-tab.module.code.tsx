@@ -14,7 +14,7 @@ import { InputPanelCard } from "akasha/design/interface/pattern/modules/input-pa
 import { Skeleton } from "akasha/design/interface/primitive/modules/skeleton/skeleton.module.code.tsx"
 import { Switch } from "akasha/design/interface/primitive/modules/switch-control/switch-control.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { extractGuildBankKeys } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { extractGuildBankKeys } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { useInventory } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import {

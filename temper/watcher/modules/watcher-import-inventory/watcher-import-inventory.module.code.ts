@@ -7,17 +7,17 @@ import {
   type ExcludedLocation,
   type ExclusionReason,
   partitionUnmanagedGuildBanks,
-} from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
-import { readManagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
-import { computeNetWorth } from "akasha/temper/items-core/modules/inventory-net-worth/inventory-net-worth.module.code.ts"
-import type { NetWorthResult } from "akasha/temper/items-core/modules/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
-import { parseInventoryContent } from "akasha/temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { readManagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
+import { computeNetWorth } from "akasha/temper/items/core/modules/inventory-net-worth/inventory-net-worth.module.code.ts"
+import type { NetWorthResult } from "akasha/temper/items/core/modules/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"
 import type {
   InventoryDatabase,
   PriceSource,
-} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
-import { computeInventoryTotalValue } from "akasha/temper/items-core/modules/inventory-value/inventory-value.module.code.ts"
-import { shardInventoryJson } from "akasha/temper/items-core/modules/shard-inventory/shard-inventory.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { computeInventoryTotalValue } from "akasha/temper/items/core/modules/inventory-value/inventory-value.module.code.ts"
+import { shardInventoryJson } from "akasha/temper/items/core/modules/shard-inventory/shard-inventory.module.code.ts"
 import { ACCOUNT_PAGE_TYPE_SLUG } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type InventoryValues,

@@ -1,5 +1,5 @@
-import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
-import type { InventoryLocationConditionId } from "akasha/temper/items-core/modules/location-condition/location-condition.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type { InventoryLocationConditionId } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
 import {
   buildItemFactsFromInventoryItem,
   resolveStaticItemKey,

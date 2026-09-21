@@ -8,7 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,

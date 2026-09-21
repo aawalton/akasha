@@ -13,7 +13,7 @@ import { buildHash as toBuildHash } from "akasha/temper/formula-framework/module
 import {
   type CompanionGearNeed,
   computeAllGearNeeds,
-} from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
+} from "akasha/temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import { applyCompanionMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"

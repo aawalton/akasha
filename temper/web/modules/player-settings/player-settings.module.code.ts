@@ -2,11 +2,11 @@
 
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { ShoppingSettings } from "akasha/temper/economy/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
-import type { InventoryLoggingSettings } from "akasha/temper/items-core/modules/inventory-logging-types/inventory-logging-types.module.code.ts"
+import type { InventoryLoggingSettings } from "akasha/temper/items/core/modules/inventory-logging-types/inventory-logging-types.module.code.ts"
 import {
   ALL_DESTRUCTIVE_ACTIONS,
   type InventorySafetySettings,
-} from "akasha/temper/items-core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
 import { useSettingsBlob } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useCallback } from "react"
 

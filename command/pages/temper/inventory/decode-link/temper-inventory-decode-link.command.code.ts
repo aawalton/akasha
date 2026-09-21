@@ -9,8 +9,8 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperInventoryDecodeLink as page } from "akasha/command/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.ts"
-import type { ParsedItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
-import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
+import type { ParsedItemLink } from "akasha/temper/items/core/modules/item-link-parser/item-link-parser.module.code.ts"
+import { parseItemLink } from "akasha/temper/items/core/modules/item-link-parser/item-link-parser.module.code.ts"
 
 const SPACES = 2
 

@@ -1,4 +1,4 @@
-import { locationConditionFromKeyAndBag } from "akasha/temper/items-core/modules/location-condition/location-condition.module.code.ts"
+import { locationConditionFromKeyAndBag } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"

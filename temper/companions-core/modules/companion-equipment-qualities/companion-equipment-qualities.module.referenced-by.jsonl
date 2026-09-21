@@ -7,7 +7,7 @@
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/companions-core/modules/companion-traits/companion-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/companions-core/modules/companion-types/companion-types.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/companions-core/modules/companion-weapon-base-values/companion-weapon-base-values.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/player-economics-ui/modules/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"companion-equipment-qualities.module.code.ts","path":"temper/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx"}

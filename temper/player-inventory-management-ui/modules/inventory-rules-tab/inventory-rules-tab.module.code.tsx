@@ -9,7 +9,7 @@ import {
   AlertTitle,
 } from "akasha/design/interface/primitive/modules/alert/alert.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"
 import { useInventory } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"

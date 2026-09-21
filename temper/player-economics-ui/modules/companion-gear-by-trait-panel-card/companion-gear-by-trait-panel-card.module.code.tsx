@@ -14,7 +14,7 @@ import {
   aggregateUnfulfilledByTraitQuality,
   type CompanionGearNeed,
   type GearNeededGroup,
-} from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
+} from "akasha/temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import {
   type BlendedPriceKey,
   buildBlendedPriceMap,

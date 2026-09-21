@@ -1,4 +1,4 @@
-import type { InventoryLocationConditionId } from "akasha/temper/items-core/modules/location-condition/location-condition.module.code.ts"
+import type { InventoryLocationConditionId } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
 import type { ItemKey } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export interface ItemFacts {

@@ -8,11 +8,11 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { classifyLocation } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
+import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import {
   type LocationTypeId,
   locationTypes,
-} from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 
@@ -35,7 +35,7 @@ export function RuleLocationFilterSelect({
 }: {
   ruleLocation: string | null
   inventory:
-    | import("akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts").InventoryDatabase
+    | import("akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts").InventoryDatabase
     | null
   onRuleLocationChange: (location: string | null) => void
 }) {

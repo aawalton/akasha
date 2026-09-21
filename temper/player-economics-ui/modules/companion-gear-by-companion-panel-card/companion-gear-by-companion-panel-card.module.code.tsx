@@ -9,7 +9,7 @@ import type { CompanionId } from "akasha/temper/companions-core/modules/companio
 import { needToShoppingKey } from "akasha/temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import type { CompanionGearPriceResult } from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
-import type { CompanionGearNeed } from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
+import type { CompanionGearNeed } from "akasha/temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import {
   type BlendedPriceKey,
   buildBlendedPriceMap,

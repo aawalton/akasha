@@ -2,7 +2,7 @@ import { captureOrNull } from "akasha/temper/addon/items-addon/modules/inventory
 import { isItemLinkQuestRelevant } from "akasha/temper/addon/items-addon/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import type { ItemData } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { isTemperLocked } from "akasha/temper/addon/items-addon/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
-import type { PriceSource } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { PriceSource } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 export function resolvePriceSource(): PriceSource {
   const priceApi = TamrielTradeCentrePrice
   if (priceApi === undefined) return "none"

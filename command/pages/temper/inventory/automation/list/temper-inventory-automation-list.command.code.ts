@@ -13,7 +13,7 @@ import {
   inventorySettings,
   type Toggles,
 } from "akasha/temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
-import type { AutomationSettings } from "akasha/temper/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
+import type { AutomationSettings } from "akasha/temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
 
 const SPACES = 2
 

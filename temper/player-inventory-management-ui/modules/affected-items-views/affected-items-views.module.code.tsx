@@ -18,7 +18,7 @@ import { Text } from "akasha/design/interface/primitive/modules/text-body/text-b
 import {
   hasAnyValue,
   type InventoryNode,
-} from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import {
   buildAffectedItemLocationNodes,
   buildAffectedItemNodes,

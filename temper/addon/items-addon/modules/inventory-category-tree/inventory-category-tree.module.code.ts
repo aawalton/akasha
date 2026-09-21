@@ -1,7 +1,7 @@
 import {
   ITEM_CATEGORY_PRIORITY,
   ITEM_CATEGORY_TREE,
-} from "akasha/temper/items-core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
+} from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 
 interface UpstreamCategoryNode {
   id: string

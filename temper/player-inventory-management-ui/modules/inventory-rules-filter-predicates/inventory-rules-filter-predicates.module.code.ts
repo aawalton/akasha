@@ -1,9 +1,9 @@
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
-import { classifyLocation } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
+import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import {
   type LocationTypeId,
   locationTypes,
-} from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
 import { GOAL_NONE_ID } from "akasha/temper/items-rules-core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {

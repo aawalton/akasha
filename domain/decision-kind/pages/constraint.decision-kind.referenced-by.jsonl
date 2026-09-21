@@ -1189,9 +1189,6 @@
 {"propertySlug":"decision-kind","path":"temper/group-dungeon/modules/pledge-rotation/pledge-rotation.module.ts","id":"01a06031-70e5-7122-83f1-7221c174553d"}
 {"propertySlug":"decision-kind","path":"temper/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
 {"propertySlug":"decision-kind","path":"temper/item-set/temper-item-set.domain.ts","id":"01a090e4-78c9-7073-9166-03b462dd7c7e"}
-{"propertySlug":"decision-kind","path":"temper/items-core/modules/capture-instant/capture-instant.module.ts","id":"01a0ba6c-9beb-78b6-ae42-ea76022acdac"}
-{"propertySlug":"decision-kind","path":"temper/items-core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
-{"propertySlug":"decision-kind","path":"temper/items-core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/temper-items-filters-addon.domain.ts","id":"01a0614b-6734-767e-be82-2cfd13e1d6a8"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-core/modules/search-eval-adapter/search-eval-adapter.module.ts","id":"01a0613a-e0a7-755c-8441-e2bc847bee09"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-core/modules/search-item-name-filter/search-item-name-filter.module.ts","id":"01a0613a-e0a8-75a5-b44f-e3ccf7935549"}
@@ -1215,6 +1212,9 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-eval/modules/item-facts/item-facts.module.ts","id":"01a06137-f96c-7332-b371-6a8536a60c01"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-eval/modules/rule-condition-eval/rule-condition-eval.module.ts","id":"01a06137-f96d-7493-bbc2-36975759b675"}
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing-core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.ts","id":"01a06151-370a-75d2-9f60-78f57041397a"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/capture-instant/capture-instant.module.ts","id":"01a0ba6c-9beb-78b6-ae42-ea76022acdac"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-book-data-00/lorebooks-book-data-00.module.ts","id":"01a0617f-925f-7cbc-a32a-62339a5fd8a1"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-book-data-01/lorebooks-book-data-01.module.ts","id":"01a0617f-9260-7a7a-8d9f-22a4c3755a4b"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-book-data-02/lorebooks-book-data-02.module.ts","id":"01a0617f-9261-7011-9fb1-d2540a25dcf9"}

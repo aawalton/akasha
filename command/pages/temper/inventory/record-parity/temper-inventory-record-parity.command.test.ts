@@ -13,7 +13,7 @@ import {
   undatedSaid,
 } from "akasha/command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"
 import type { Verdict } from "akasha/temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
-import { instantOf } from "akasha/temper/items-core/modules/capture-instant/capture-instant.module.code.ts"
+import { instantOf } from "akasha/temper/items/core/modules/capture-instant/capture-instant.module.code.ts"
 
 const LOCKPICK = 30357
 

@@ -6,8 +6,8 @@
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.code.ts"}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"}
-{"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/items-core/modules/inventory-parser-account-state/inventory-parser-account-state.module.code.ts"}
-{"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"}
+{"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/items/core/modules/inventory-parser-account-state/inventory-parser-account-state.module.code.ts"}
+{"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/player-completion/modules/completion-import-outcome/completion-import-outcome.module.code.ts"}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"}

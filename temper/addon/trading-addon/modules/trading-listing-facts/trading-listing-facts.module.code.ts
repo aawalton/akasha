@@ -7,9 +7,9 @@ import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import type { BrowseListing } from "akasha/temper/economy/trading/listing/modules/browse-listings/browse-listings.module.code.ts"
-import { classifyItemToNodeIds } from "akasha/temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
-import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
-import type { ClassifiableItem } from "akasha/temper/items-core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type { ClassifiableItem } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {
   buildItemFactsFromInventoryItem,
   resolveStaticItemKey,

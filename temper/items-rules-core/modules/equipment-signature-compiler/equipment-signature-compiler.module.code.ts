@@ -21,12 +21,12 @@ import { jewelrySlots } from "akasha/temper/equipment-kind/modules/jewelry-slots
 import {
   COMPANION_QUALITY_TO_ESO,
   ESO_EQUIP_TYPES,
-} from "akasha/temper/items-core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
+} from "akasha/temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
 import {
   PLAYER_ARMOR_TYPE_TO_ESO,
   PLAYER_QUALITY_TO_ESO,
   PLAYER_WEAPON_TYPE_TO_ESO,
-} from "akasha/temper/items-core/modules/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.code.ts"
+} from "akasha/temper/items/core/modules/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,

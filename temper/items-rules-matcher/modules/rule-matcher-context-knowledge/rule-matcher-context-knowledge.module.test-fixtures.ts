@@ -2,7 +2,7 @@ import type {
   InventoryDatabase,
   InventoryItemData,
   InventoryLocationData,
-} from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type { CompletionCharacterInput } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { makeItem } from "akasha/temper/items-rules-core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.code.ts"
 

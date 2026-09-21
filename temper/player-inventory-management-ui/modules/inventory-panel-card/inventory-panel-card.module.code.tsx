@@ -9,7 +9,7 @@ import { formatGold } from "akasha/design/interface/primitive/modules/format-gol
 import {
   hasAnyValue,
   type InventoryNode,
-} from "akasha/temper/items-core/modules/inventory-node-types/inventory-node-types.module.code.ts"
+} from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import { ItemTooltipPopover } from "akasha/temper/player-inventory-management-ui/modules/item-tooltip-popover/item-tooltip-popover.module.code.tsx"
 import {
   leafToValueData,

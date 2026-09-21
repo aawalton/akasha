@@ -8,7 +8,7 @@ import {
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
-import type { MinedItemSearchResult } from "akasha/temper/items-core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
+import type { MinedItemSearchResult } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 import type { BuyRule } from "akasha/temper/items-rules-core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import { BuyRuleCard } from "akasha/temper/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx"
 import type { InventoryRulesHandlers } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"

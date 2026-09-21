@@ -1,6 +1,6 @@
 import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-record/as-object-record.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
-import { isCraftingRankBelowCap } from "akasha/temper/items-core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
+import { isCraftingRankBelowCap } from "akasha/temper/items/core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 
 const KNOWN_DECON_CRAFT_TYPES = new LuaSet<number>()
 KNOWN_DECON_CRAFT_TYPES.add(CRAFTING_TYPE_BLACKSMITHING)

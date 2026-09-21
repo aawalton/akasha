@@ -5,7 +5,7 @@ import { gold } from "akasha/temper/holdings/temper-inventory-currency/pages/gol
 import { telVarStones } from "akasha/temper/holdings/temper-inventory-currency/pages/tel-var-stones.temper-inventory-currency.ts"
 import { transmuteCrystals } from "akasha/temper/holdings/temper-inventory-currency/pages/transmute-crystals.temper-inventory-currency.ts"
 import { temperInventoryCurrency } from "akasha/temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
-import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import {
   bagSizeRowsOf,
   craftingLevelRowsOf,

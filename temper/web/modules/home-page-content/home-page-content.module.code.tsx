@@ -26,8 +26,8 @@ import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { groupInventoryByType } from "akasha/temper/items-core/modules/inventory-grouping/inventory-grouping.module.code.ts"
-import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { groupInventoryByType } from "akasha/temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"
+import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import {
   applyCharacterMetadata,
   applyCompanionMetadata,
