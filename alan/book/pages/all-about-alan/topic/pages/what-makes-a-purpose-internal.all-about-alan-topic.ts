@@ -1,0 +1,12 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whatMakesAPurposeInternal = {
+  id: "01a0c637-aed6-7400-a322-71506275c47c",
+  type: "page-type/all-about-alan-topic",
+  slug: "what-makes-a-purpose-internal",
+  title: "What Makes A Purpose Internal",
+  definition: "the test for whether a system owns its ends, worked on an organism and a thermostat",
+  parents: ["all-about-alan-topic/the-line-a-being-crosses-to-count"],
+  settled:
+    "A purpose is internal where the system's own ongoing organisation constitutes and maintains it.\n\nAn organism's set points qualify even though evolution installed them, because its metabolism keeps re-constituting and defending them.\n\nA thermostat's set point does not. Take the scaffolding away and no self-sustained end is left.\n\nSo what matters is owning the ends through self-maintenance, not being independent of where they came from.\n\nThis is the framework's test rather than my settled doctrine. I am developing it and hold it provisionally.",
+} as const satisfies AllAboutAlanTopic
