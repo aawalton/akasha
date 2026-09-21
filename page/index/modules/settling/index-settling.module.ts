@@ -117,6 +117,14 @@ export const indexSettling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A settle files what every function in the code a change moves says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That filing is read from the body before the change and the body after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The references beside the pages are answered apart from the index's own files.",
     },
     {

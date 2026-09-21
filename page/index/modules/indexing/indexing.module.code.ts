@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
 import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
+import { astHashesIn } from "akasha/page/index/ast-hash/index-ast-hash.index.code.ts"
 import {
   type Entry,
   fileKeysIn,
@@ -167,9 +168,11 @@ export function refreshedFrom(
   const beside = bodiesAt(repo)
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
   const facing = facingIn(repo, reading)
-  const walked = bodiesUnder(tree, (path) =>
-    heldUnder(under(repo, path), foldersFor(facing), generates, facing.carryingOf)
+  const everyBody = bodiesUnder(tree, () => false)
+  const walked = everyBody.filter(
+    (one) => !heldUnder(under(repo, one.path), foldersFor(facing), generates, facing.carryingOf)
   )
+  const hashed = everyBody.flatMap((one) => astHashesIn(one.path, one.body, repo))
   const noted: string[] = []
   const referenced = held.map((one) =>
     namedFrom(
@@ -194,12 +197,13 @@ export function refreshedFrom(
     ...references,
     ...[...carried].flatMap(([at, lines]) => lines.map((line) => ({ at, line }))),
   ]
+  drift.push(reconcile(hashed, root, put, done))
   drift.push(reconcile(filedBeside, repo, put, done))
   const stale = besideStale(filedBeside, tree, repo, put)
-  const went = [...takenAway(identity, root, put, done), ...stale]
+  const went = [...takenAway([...identity, ...hashed], root, put, done), ...stale]
   return {
     pages: held.length,
-    entries: identity.length + filedBeside.length,
+    entries: identity.length + hashed.length + filedBeside.length,
     refused: [...noted, ...referenced.flatMap((one) => one.refused)],
     drift: drifting(drift, went),
     beside: shaped,

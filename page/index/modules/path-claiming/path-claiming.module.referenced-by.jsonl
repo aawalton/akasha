@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"domain/context/warrant/file-domain/file-domain.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"page/index/ast-hash/index-ast-hash.index.code.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
 {"propertySlug":"import","fileName":"path-claiming.module.code.ts","path":"page/index/modules/identifying/index-identifying.module.code.ts"}

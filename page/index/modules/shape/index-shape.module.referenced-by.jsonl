@@ -72,6 +72,8 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/provision-macbook/provision-macbook.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/provision-workstation/provision-workstation.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.scripting.code.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/ast-hash/index-ast-hash.index.code.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/ast-hash/index-ast-hash.index.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.code.ts"}

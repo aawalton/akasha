@@ -1,3 +1,4 @@
+import { type Spelling, speltUnder } from "akasha/page/index/ast-hash/index-ast-hash.index.code.ts"
 import {
   type SidecarsBy,
   sidecarsOver,
@@ -66,6 +67,7 @@ import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.m
 export type PageOf = (path: string) => Value | null
 
 export type Answering = {
+  readonly astHashesOf: (hash: string) => readonly Spelling[]
   readonly carriedIn: (value: Value, declaredBy: string) => readonly Carried[]
   readonly carryingOf: (named: string) => Reached
   readonly declarationsOf: (pageTypeSlug: string) => readonly Carried[]
@@ -127,6 +129,7 @@ function heldOnce<T>(asked: () => T): () => T {
 
 export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
   return {
+    astHashesOf: (hash) => speltUnder(reading, hash),
     carriedIn: (value, declaredBy) => carriedIn(value, reading, declaredBy),
     carryingOf: (named) => carryingOf(reading, named),
     declarationsOf: (pageTypeSlug) => declarationsOf(pageTypeSlug, reading, pageOf),

@@ -1,3 +1,4 @@
+import { astHashesIn } from "akasha/page/index/ast-hash/index-ast-hash.index.code.ts"
 import {
   pagesElsewhere,
   pagesStranded,
@@ -314,7 +315,11 @@ export function settlingOver(
     ])
   )
 
-  const filings = [...identity]
+  const hashed = filingOf(
+    held.flatMap((one) => (one.before === null ? [] : astHashesIn(one.path, one.before, repo))),
+    held.flatMap((one) => (one.after === null ? [] : astHashesIn(one.path, one.after, repo)))
+  )
+  const filings = [...identity, ...hashed]
   return {
     reading: shapesLaidOn(
       overlaidOn(

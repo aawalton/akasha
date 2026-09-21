@@ -7,6 +7,7 @@ export const index = {
   definition: "one question the pages can be asked, answered by reading one file",
   parts: [
     "boolean-property/index-tracked",
+    "index/index-ast-hash",
     "index/index-page",
     "index/index-page-property",
     "index/index-page-type",
@@ -98,7 +99,7 @@ export const index = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The index can be written again from the pages alone.",
+      statement: "The index can be written again from the files in the tree alone.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -158,7 +159,7 @@ export const index = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The index has the pages rather than every file git tracks.",
+      statement: "The index has the pages and what their code spells rather than every file.",
     },
     {
       decisionKind: "decision-kind/gap",
