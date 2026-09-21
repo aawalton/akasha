@@ -1,0 +1,8 @@
+{"id":"01a0c64f-dbaf-7a0f-92a7-c812474ad9fc"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-eba3a8d1a2577177"}
+{"text":"Crito: No, the ship has not actually arrived, but she will probably be here to-day, as persons who have come from Sunium tell me that they have left her there; and therefore to-morrow, Socrates, will be the last day of your life. Socrates: Very well, Crito; if such is the will of God, I am willing; but my belief is that there will be a delay of a day. Crito: Why do you think so? Socrates: I will tell you. I am to die on the day after the arrival of the ship? Crito: Yes; that is what the authorities say. Socrates: But I do not think that the ship will be here until to-morrow; this I infer from a vision which I had last night, or rather only just now, when you fortunately allowed me to sleep. Crito: And what was the nature of the vision? Socrates: There appeared to me the likeness of a woman, fair and comely, clothed in bright raiment, who called to me and said: O Socrates, 'The third day hence to fertile Phthia shalt thou go.' Crito: What a singular dream, Socrates! Socrates: There can be no doubt about the meaning, Crito, I think."}
+{"title":"moss-tts voice-clone @ 2026-07-19T16:40:58.681Z"}
+{"type":"page-type/audio"}
