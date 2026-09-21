@@ -13,7 +13,7 @@ const AT_ONCE = 200
 
 const TYPES_AT_ONCE = 500
 
-const UNSHOWN: readonly string[] = ["id", "slug", "type", "title"]
+const UNSHOWN: readonly string[] = ["id", "pageTypeId", "pageTypeSlug", "slug", "title", "type"]
 
 export type Named = { readonly slug: string; readonly definition: string | null }
 

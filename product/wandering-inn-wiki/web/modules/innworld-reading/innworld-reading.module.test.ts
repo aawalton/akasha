@@ -21,6 +21,8 @@ test("what names a page rather than saying something of it is left out of its fi
   const held = "a-world-nobody-wrote"
   const fields = fieldsOf({
     id: "01a0",
+    pageTypeId: "01a1",
+    pageTypeSlug: "a-type-nobody-wrote",
     slug: "a-thing-nobody-wrote",
     type: "a-type-nobody-wrote",
     title: "A Thing Nobody Wrote",
