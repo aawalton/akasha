@@ -354,11 +354,11 @@
     {
       "id": "resolution-scope",
       "bands": [
-        "**The rule (Alan-ruled).** LETHAL or CONTESTED non-combat checks resolve on a SEEDED die via  — un-thumbable, hash-chained on the game-roll chain, made BEFORE the outcome is narrated; the first result stands unless the fiction itself changed.",
-        "**Routine / low-stakes** non-combat actions stay GM JUDGMENT — no roll (searching a cleared room, walking a chosen road, ordinary craft). Do not roll what is not in doubt.",
-        "**Combat is unchanged** — it resolves via  (attacker/defender, rulebook.mechanics), exactly as before. This band governs only NON-combat.",
-        "**Judgment picks the lane; the die resolves inside it.** Whether a given check is lethal/contested (rolls) or routine (judgment) is the GM per-check call, read from the fiction and the telegraphed stakes. Once a check is in the lethal/contested lane, the die decides the magnitude and the GM adjudicates the concrete outcome + cost against the rulebook bands (fumble->fail, crit->clean, hit->success, graze->success-at-cost, miss->fail). See resolutionMechanism.convention for the roll convention.",
-        "**Why (impartial-arbiter).** From this policy forward a lethal non-combat outcome traces to a roll-log row — the facts lens can verify the check was resolved, not narrated to convenience. Supersedes the prior 87-turn convention of judgment-only non-combat (t85/t87 were adjudicated fairly under that older convention and stand as published)."
+        "**The rule (Alan-ruled).** LETHAL or CONTESTED non-combat checks resolve on a SEEDED die through `akasha game settle --mechanic game-mechanic/attribute-check` — un-thumbable, rolled from the hash of the row before it, settled BEFORE the outcome is narrated; the first result holds unless the fiction itself changed.",
+        "**Routine / low-stakes** non-combat actions stay GM JUDGMENT — no call (searching a cleared room, walking a chosen road, ordinary craft). Do not roll what is not in doubt.",
+        "**Combat goes the same road** — `akasha game settle --mechanic game-mechanic/attack-resolution`, attacker against defender, exactly as before. This band governs which NON-combat checks are called at all.",
+        "**Judgment picks the lane; the mechanic resolves inside it.** Whether a given check is lethal/contested (called) or routine (judgment) is the GM per-check call, read from the fiction and the telegraphed stakes. Once a check is in the lethal/contested lane, the mechanic decides the magnitude and the GM adjudicates the concrete outcome + cost against the bands it answers (fumble->fail, crit->clean, hit->success, graze->success-at-cost, miss->fail). See resolutionMechanism.convention for the call.",
+        "**Why (impartial-arbiter).** From this policy forward a lethal non-combat outcome traces to a mechanicRuns row carrying what the mechanic was handed, what it answered, and the faces it rolled — the facts lens can verify the check was resolved, not narrated to convenience. Supersedes the prior 87-turn convention of judgment-only non-combat (t85/t87 were adjudicated fairly under that older convention and remain as published)."
       ],
       "title": "Resolution scope — seeded dice vs GM judgment (Alan-ruled 2026-07-18, via awen)"
     }
@@ -511,8 +511,8 @@
       },
       {
         "id": "roll-logging",
-        "detail": "engine/engine.ts is the resolution authority (surfaced as the action-resolution policy anchor). Each resolved action appends a roll-log entry carrying the full field set (turn / action / attr / die / roll / score / DC / margin / result) so any GM reproduces the outcome from the record rather than trusting a narrated result. Logging is a seed obligation; migrating the roll engine to a repo verb is out of scope.",
-        "requirement": "Every resolved action's roll is logged so the record is reproducible — the roll-log entry carries turn, action, attr, die, roll, score, DC, margin, and result. The engine is the resolution authority (see the action-resolution policy); never hand-write a derived outcome."
+        "detail": "`akasha game settle` is the resolution authority, and the mechanic it names does the arithmetic (see the action-resolution policy). One call rolls the dice from the hash of the row before it, runs the mechanic, appends the run to mechanicRuns and answers the numbers. The row carries the turn, the mechanic, the reading the mechanic was handed, what it answered, the bonuses, the handful rolled with every face it showed, the seed and the hash of the row before — so any GM reproduces the outcome from the record rather than trusting a narrated result. Logging is no separate obligation: the command writes the row, and a mechanic that refuses writes none.",
+        "requirement": "Every resolved action is settled by `akasha game settle --game game/the-tower --turn <n> --mechanic <address> --reading <json> --dice 2d10`, and the numbers it answers are the numbers the prose is written from. The mechanic is the resolution authority; never hand-write a derived outcome, and never hand in a roll."
       }
     ]
   },
