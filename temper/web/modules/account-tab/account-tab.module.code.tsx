@@ -1,6 +1,5 @@
 "use client"
 
-import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.code.ts"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { InputPanelCard } from "akasha/design/interface/pattern/modules/input-panel-card/input-panel-card.module.code.tsx"
 import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
@@ -35,7 +34,7 @@ function validateHandle(value: string): string | null {
 
 interface AccountTabProps {
   active: boolean
-  user: SupabaseUser
+  user: { email: string | null }
 }
 
 export function AccountTab({ active, user }: AccountTabProps) {

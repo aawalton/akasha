@@ -1,6 +1,5 @@
 "use client"
 
-import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/modules/supabase-user/supabase-user.module.code.ts"
 import {
   PageLayout,
   PageTitle,
@@ -25,7 +24,7 @@ type FilterValues = {
 }
 
 interface SettingsPageContentProps {
-  user: SupabaseUser
+  user: { id: string; email: string | null }
   initialTab?: string
 }
 
