@@ -8,9 +8,29 @@ export const nimueImageManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every image akasha holds is created, kept and reached by one mechanism.",
+      statement: "Every image akasha holds is reached through one mechanism.",
       workingMemory:
-        "Not met, and what is there now is being read. Images are known to sit under `persona/image`, `persona/anchor-image`, `persona/cover-image` and `persona/wallpaper` as page types, and to be generated through `infrastructure/inference/generation/zimage` and `infrastructure/inference/comfy/z-image-turbo`. A persona-image's picture is stated to be outside this repository.",
+        "Four are in use. Bytes in the SeaweedFS bucket `agent-sessions` under `images/<pageId>.png`, served at `/api/image/:imageId` behind a sign-in. Bytes beside the page as a png file property. A path read against a named root. An absolute path. Keys are all worked out in `object-store-key.module.code.ts`, which also reads a legacy `persona-images/` prefix, so a miss costs three HEADs.",
+    },
+    {
+      statement: "Every image an agent made outlives the machine that made it.",
+      workingMemory:
+        "999 generation-log rows were made by a run and name an absolute path: 970 under `~/Pictures/Generated`, which does not exist on this workstation, and 9 under `/tmp`. Only 112 of the 3,872 rows carry a `cover`, so only those have bytes in the object store. `akasha inference generate` writes where the caller says and persists only where asked.",
+    },
+    {
+      statement: "Every root an image path is read against names a place some code resolves.",
+      workingMemory:
+        "39 `persona-anchor-image` pages, 44 `persona-wallpaper` pages and 2,873 generation-log rows state `image-root`. `personas` is `~/To Process/Personas` and `wallpapers` is `~/To Process/Wallpapers/Personas`, about 11,200 files and 15GB. Nothing in the repository maps either name to either place, so no reader can open those pictures.",
+    },
+    {
+      statement: "An image page states the fields an image carries.",
+      workingMemory:
+        "`image.page-type.ts` declares no properties at all, while `persist-image.module.code.ts` writes title, engine, service, operation, model, prompt, seed, image-path and inference-run. Those land as rows in `alan.generation-log.images.jsonl` rather than as pages. The type also states that an image catalogued from disk names no run, and no command catalogues one.",
+    },
+    {
+      statement: "No persona's picture bytes are committed to git.",
+      workingMemory:
+        "`desktop-wallpaper` and `mobile-wallpaper` are png file properties holding bytes, so 80 PNGs sit in `persona/pages`, 298MB, one pair per persona and up to 6.4MB each. They are read off disk for `plasma-apply-wallpaperimage` and served unauthenticated at `/api/wallpaper`, the one image route with no sign-in.",
     },
   ],
 } as const satisfies Initiative
