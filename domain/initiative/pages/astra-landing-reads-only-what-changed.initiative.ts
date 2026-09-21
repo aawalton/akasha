@@ -41,6 +41,12 @@ export const astraLandingReadsOnlyWhatChanged = {
       workingMemory:
         "The program a change is judged in holds the files that change reaches and nothing else, so `program-naming` is gone and no check here reads `shadow.listed()`. Naming all 275 declarations cost 2.5s of processor a landing, four times what a compile off disk said, because the compiler is served through a virtual filesystem where every file is a callback. A file names the declarations its own declarations reach, and `skipLibCheck` is true for a change and false for the audit.",
     },
+    {
+      statement:
+        "An apply spends its own processor on the change rather than on reading the checkout.",
+      workingMemory:
+        "An apply of one path is 3.82s of its own processor and 0.94s of children, against 5.70s and 3.21s this morning, and makes 93,764 read calls over 125 MiB where it made 935,132 over 313 MiB. The checks are 1.50s of that and the tests 1.20s, so about 2.3s is what the apply does around them. Where those reads and that processor go is not measured yet.",
+    },
   ],
   constraints: [
     "A file already carrying what would be written again is left alone: `keepDelta`, `reconcile` and `wholeInto` each compare before writing, and the profile bears that out.",
