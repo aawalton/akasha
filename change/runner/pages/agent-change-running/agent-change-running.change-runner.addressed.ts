@@ -41,6 +41,9 @@ export type Changes = {
   "change-agent/append-lines-from": Parameters<
     typeof import("akasha/change/agent/file-content/append-lines-from/append-lines-from.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/carry-roll-rows": Parameters<
+    typeof import("akasha/change/agent/file/carry-roll-rows/carry-roll-rows.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/change-calculation-held-type": Parameters<
     typeof import("akasha/change/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts")["runChange"]
   >[1]
@@ -97,6 +100,9 @@ export type Changes = {
   >[1]
   "change-agent/move-property-value": Parameters<
     typeof import("akasha/change/agent/file-content/move-property-value/move-property-value.change-agent.code.ts")["runChange"]
+  >[1]
+  "change-agent/name-ambient-declarations": Parameters<
+    typeof import("akasha/change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/nest-modules": Parameters<
     typeof import("akasha/change/agent/folder/nest-modules/nest-modules.change-agent.code.ts")["runChange"]
