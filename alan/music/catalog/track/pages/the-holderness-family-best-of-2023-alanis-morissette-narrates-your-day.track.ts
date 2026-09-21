@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023AlanisMorissetteNarratesYourDay = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-alanis-morissette-narrates-your-day",
   ownLength: 4.475183333333334,
-  ownProgress: 0,
+  ownProgress: 4.475183333333334,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

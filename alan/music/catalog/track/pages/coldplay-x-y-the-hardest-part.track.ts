@@ -5,10 +5,10 @@ export const coldplayXYTheHardestPart = {
   type: "page-type/track",
   slug: "coldplay-x-y-the-hardest-part",
   ownLength: 4.381333333333333,
-  ownProgress: 0,
+  ownProgress: 4.381333333333333,
   partOfCollections: ["release/coldplay-x-y"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const vinnyMarchiSugarStarsWakeUpToYou = {
   type: "page-type/track",
   slug: "vinny-marchi-sugar-stars-wake-up-to-you",
   ownLength: 1.9777666666666667,
-  ownProgress: 0,
+  ownProgress: 1.9777666666666667,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

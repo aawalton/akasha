@@ -5,10 +5,10 @@ export const celticWoman2OrinocoFlowOrinocoFlow = {
   type: "page-type/track",
   slug: "celtic-woman-2-orinoco-flow-orinoco-flow",
   ownLength: 3.87155,
-  ownProgress: 0,
+  ownProgress: 3.87155,
   partOfCollections: ["release/celtic-woman-2-orinoco-flow"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

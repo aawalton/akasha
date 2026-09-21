@@ -5,10 +5,10 @@ export const thePianoGuys3AvatarTheThemeAvatarTheTheme = {
   type: "page-type/track",
   slug: "the-piano-guys-3-avatar-the-theme-avatar-the-theme",
   ownLength: 3.0541666666666667,
-  ownProgress: 0,
+  ownProgress: 3.0541666666666667,
   partOfCollections: ["release/the-piano-guys-3-avatar-the-theme"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

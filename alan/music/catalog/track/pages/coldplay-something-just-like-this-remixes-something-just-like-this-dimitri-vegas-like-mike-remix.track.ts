@@ -5,10 +5,10 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDimitriVeg
   type: "page-type/track",
   slug: "coldplay-something-just-like-this-remixes-something-just-like-this-dimitri-vegas-like-mike-remix",
   ownLength: 3.8428833333333334,
-  ownProgress: 0,
+  ownProgress: 3.8428833333333334,
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

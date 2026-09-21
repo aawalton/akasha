@@ -5,10 +5,10 @@ export const paulCardallPassingTimeLeavingHome = {
   type: "page-type/track",
   slug: "paul-cardall-passing-time-leaving-home",
   ownLength: 2.1899166666666665,
-  ownProgress: 0,
+  ownProgress: 2.1899166666666665,
   partOfCollections: ["release/paul-cardall-passing-time"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

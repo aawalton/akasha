@@ -5,12 +5,12 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsIsleOfInis
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-isle-of-inisfree",
   ownLength: 3.476,
-  ownProgress: 0,
+  ownProgress: 3.476,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

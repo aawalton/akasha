@@ -5,10 +5,10 @@ export const paulCardallChristmasInTheBleakMidwinter = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-in-the-bleak-midwinter",
   ownLength: 4.668866666666666,
-  ownProgress: 0,
+  ownProgress: 4.668866666666666,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

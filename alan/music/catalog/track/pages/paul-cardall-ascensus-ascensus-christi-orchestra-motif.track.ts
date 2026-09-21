@@ -5,10 +5,10 @@ export const paulCardallAscensusAscensusChristiOrchestraMotif = {
   type: "page-type/track",
   slug: "paul-cardall-ascensus-ascensus-christi-orchestra-motif",
   ownLength: 1.4333333333333333,
-  ownProgress: 0,
+  ownProgress: 1.4333333333333333,
   partOfCollections: ["release/paul-cardall-ascensus"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

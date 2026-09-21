@@ -5,10 +5,10 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEditLamourDeMaVieOverNowExt
   type: "page-type/track",
   slug: "billie-eilish-l-amour-de-ma-vie-over-now-extended-edit-lamour-de-ma-vie-over-now-extended-edit",
   ownLength: 4.532816666666666,
-  ownProgress: 0,
+  ownProgress: 4.532816666666666,
   partOfCollections: ["release/billie-eilish-l-amour-de-ma-vie-over-now-extended-edit"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

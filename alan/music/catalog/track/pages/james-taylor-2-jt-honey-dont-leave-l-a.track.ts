@@ -5,10 +5,10 @@ export const jamesTaylor2JtHoneyDontLeaveLA = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-honey-dont-leave-l-a",
   ownLength: 3.1063833333333335,
-  ownProgress: 0,
+  ownProgress: 3.1063833333333335,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

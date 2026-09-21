@@ -5,10 +5,10 @@ export const celticWoman2SoloScarboroughFair = {
   type: "page-type/track",
   slug: "celtic-woman-2-solo-scarborough-fair",
   ownLength: 3.2169166666666666,
-  ownProgress: 0,
+  ownProgress: 3.2169166666666666,
   partOfCollections: ["release/celtic-woman-2-solo"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

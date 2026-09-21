@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodICantFallInLoveWithoutYou = {
   type: "page-type/track",
   slug: "zara-larsson-so-good-i-cant-fall-in-love-without-you",
   ownLength: 2.9640666666666666,
-  ownProgress: 0,
+  ownProgress: 2.9640666666666666,
   partOfCollections: ["release/zara-larsson-so-good"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

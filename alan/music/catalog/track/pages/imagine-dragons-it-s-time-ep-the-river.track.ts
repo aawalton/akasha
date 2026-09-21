@@ -5,10 +5,10 @@ export const imagineDragonsItSTimeEpTheRiver = {
   type: "page-type/track",
   slug: "imagine-dragons-it-s-time-ep-the-river",
   ownLength: 3.4171,
-  ownProgress: 0,
+  ownProgress: 3.4171,
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

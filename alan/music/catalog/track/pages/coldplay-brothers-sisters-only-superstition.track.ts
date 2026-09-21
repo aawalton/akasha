@@ -5,10 +5,10 @@ export const coldplayBrothersSistersOnlySuperstition = {
   type: "page-type/track",
   slug: "coldplay-brothers-sisters-only-superstition",
   ownLength: 3.8111,
-  ownProgress: 0,
+  ownProgress: 3.8111,
   partOfCollections: ["release/coldplay-brothers-sisters"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

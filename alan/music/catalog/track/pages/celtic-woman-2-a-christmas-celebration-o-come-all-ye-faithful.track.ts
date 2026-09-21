@@ -5,10 +5,10 @@ export const celticWoman2AChristmasCelebrationOComeAllYeFaithful = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-christmas-celebration-o-come-all-ye-faithful",
   ownLength: 3.8468833333333334,
-  ownProgress: 0,
+  ownProgress: 3.8468833333333334,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

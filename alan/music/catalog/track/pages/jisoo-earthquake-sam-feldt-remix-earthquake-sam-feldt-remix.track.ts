@@ -5,10 +5,10 @@ export const jisooEarthquakeSamFeldtRemixEarthquakeSamFeldtRemix = {
   type: "page-type/track",
   slug: "jisoo-earthquake-sam-feldt-remix-earthquake-sam-feldt-remix",
   ownLength: 2.4848333333333334,
-  ownProgress: 0,
+  ownProgress: 2.4848333333333334,
   partOfCollections: ["release/jisoo-earthquake-sam-feldt-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

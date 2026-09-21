@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetHowGentleGodsCommands = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-how-gentle-gods-commands",
   ownLength: 2.3688666666666665,
-  ownProgress: 0,
+  ownProgress: 2.3688666666666665,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 29,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

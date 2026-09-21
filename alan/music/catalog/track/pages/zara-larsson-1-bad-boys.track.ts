@@ -5,10 +5,10 @@ export const zaraLarsson1BadBoys = {
   type: "page-type/track",
   slug: "zara-larsson-1-bad-boys",
   ownLength: 2.158,
-  ownProgress: 0,
+  ownProgress: 2.158,
   partOfCollections: ["release/zara-larsson-1"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetDeluxeBedChem = {
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-deluxe-bed-chem",
   ownLength: 2.8646666666666665,
-  ownProgress: 0,
+  ownProgress: 2.8646666666666665,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

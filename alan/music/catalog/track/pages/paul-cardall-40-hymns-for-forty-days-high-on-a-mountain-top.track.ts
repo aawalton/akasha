@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysHighOnAMountainTop = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-high-on-a-mountain-top",
   ownLength: 1.5893333333333333,
-  ownProgress: 0,
+  ownProgress: 1.5893333333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

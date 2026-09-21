@@ -5,10 +5,10 @@ export const paulCardallLiveHymnMedleyLive = {
   type: "page-type/track",
   slug: "paul-cardall-live-hymn-medley-live",
   ownLength: 6.893766666666667,
-  ownProgress: 0,
+  ownProgress: 6.893766666666667,
   partOfCollections: ["release/paul-cardall-live"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

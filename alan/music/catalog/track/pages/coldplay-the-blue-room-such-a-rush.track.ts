@@ -5,10 +5,10 @@ export const coldplayTheBlueRoomSuchARush = {
   type: "page-type/track",
   slug: "coldplay-the-blue-room-such-a-rush",
   ownLength: 4.9622166666666665,
-  ownProgress: 0,
+  ownProgress: 4.9622166666666665,
   partOfCollections: ["release/coldplay-the-blue-room"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

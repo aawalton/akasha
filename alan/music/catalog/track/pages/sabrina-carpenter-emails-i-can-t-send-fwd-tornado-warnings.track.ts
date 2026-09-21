@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdTornadoWarnings = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-tornado-warnings",
   ownLength: 3.4029833333333332,
-  ownProgress: 0,
+  ownProgress: 3.4029833333333332,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

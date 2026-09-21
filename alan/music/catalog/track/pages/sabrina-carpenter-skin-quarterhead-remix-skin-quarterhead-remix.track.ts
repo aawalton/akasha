@@ -5,10 +5,10 @@ export const sabrinaCarpenterSkinQuarterheadRemixSkinQuarterheadRemix = {
   type: "page-type/track",
   slug: "sabrina-carpenter-skin-quarterhead-remix-skin-quarterhead-remix",
   ownLength: 3.1166666666666667,
-  ownProgress: 0,
+  ownProgress: 3.1166666666666667,
   partOfCollections: ["release/sabrina-carpenter-skin-quarterhead-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

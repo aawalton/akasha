@@ -5,10 +5,10 @@ export const sabrinaCarpenterFruitcakeBuyMePresents = {
   type: "page-type/track",
   slug: "sabrina-carpenter-fruitcake-buy-me-presents",
   ownLength: 2.9560833333333334,
-  ownProgress: 0,
+  ownProgress: 2.9560833333333334,
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

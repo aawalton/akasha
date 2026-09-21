@@ -5,10 +5,10 @@ export const sabrinaCarpenterEyesWideOpenSeamless = {
   type: "page-type/track",
   slug: "sabrina-carpenter-eyes-wide-open-seamless",
   ownLength: 3.1073333333333335,
-  ownProgress: 0,
+  ownProgress: 3.1073333333333335,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

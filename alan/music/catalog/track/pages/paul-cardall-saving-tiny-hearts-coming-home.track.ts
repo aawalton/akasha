@@ -5,10 +5,10 @@ export const paulCardallSavingTinyHeartsComingHome = {
   type: "page-type/track",
   slug: "paul-cardall-saving-tiny-hearts-coming-home",
   ownLength: 2.0853333333333333,
-  ownProgress: 0,
+  ownProgress: 2.0853333333333333,
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallANewCreationANewCreation = {
   type: "page-type/track",
   slug: "paul-cardall-a-new-creation-a-new-creation",
   ownLength: 4.33465,
-  ownProgress: 0,
+  ownProgress: 4.33465,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

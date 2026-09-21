@@ -5,10 +5,10 @@ export const paulCardallBeCalmBrainHealthyMusicBeCalm = {
   type: "page-type/track",
   slug: "paul-cardall-be-calm-brain-healthy-music-be-calm",
   ownLength: 5.3762,
-  ownProgress: 0,
+  ownProgress: 5.3762,
   partOfCollections: ["release/paul-cardall-be-calm-brain-healthy-music"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveNightcoreRemix = {
   type: "page-type/track",
   slug: "zara-larsson-on-my-love-the-remixes-on-my-love-nightcore-remix",
   ownLength: 3.4675,
-  ownProgress: 0,
+  ownProgress: 3.4675,
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

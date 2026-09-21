@@ -5,10 +5,10 @@ export const paulCardallSignOfTheTimesSignOfTheTimes = {
   type: "page-type/track",
   slug: "paul-cardall-sign-of-the-times-sign-of-the-times",
   ownLength: 4.18385,
-  ownProgress: 0,
+  ownProgress: 4.18385,
   partOfCollections: ["release/paul-cardall-sign-of-the-times"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

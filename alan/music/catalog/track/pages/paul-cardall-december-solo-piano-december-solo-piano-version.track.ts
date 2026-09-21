@@ -5,10 +5,10 @@ export const paulCardallDecemberSoloPianoDecemberSoloPianoVersion = {
   type: "page-type/track",
   slug: "paul-cardall-december-solo-piano-december-solo-piano-version",
   ownLength: 3.0833333333333335,
-  ownProgress: 0,
+  ownProgress: 3.0833333333333335,
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

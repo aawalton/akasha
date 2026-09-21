@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeBleedingOut = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-bleeding-out",
   ownLength: 3.7184333333333335,
-  ownProgress: 0,
+  ownProgress: 3.7184333333333335,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

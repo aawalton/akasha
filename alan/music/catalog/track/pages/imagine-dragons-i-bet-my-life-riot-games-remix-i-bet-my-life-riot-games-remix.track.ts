@@ -5,10 +5,10 @@ export const imagineDragonsIBetMyLifeRiotGamesRemixIBetMyLifeRiotGamesRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-i-bet-my-life-riot-games-remix-i-bet-my-life-riot-games-remix",
   ownLength: 3.5131,
-  ownProgress: 0,
+  ownProgress: 3.5131,
   partOfCollections: ["release/imagine-dragons-i-bet-my-life-riot-games-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

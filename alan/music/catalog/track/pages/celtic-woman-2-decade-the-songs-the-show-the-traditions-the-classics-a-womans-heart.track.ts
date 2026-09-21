@@ -5,12 +5,12 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAWomansHea
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-a-womans-heart",
   ownLength: 4.432433333333333,
-  ownProgress: 0,
+  ownProgress: 4.432433333333333,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

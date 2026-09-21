@@ -5,10 +5,10 @@ export const imagineDragonsOriginsDeluxeBurnOut = {
   type: "page-type/track",
   slug: "imagine-dragons-origins-deluxe-burn-out",
   ownLength: 4.564666666666667,
-  ownProgress: 0,
+  ownProgress: 4.564666666666667,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

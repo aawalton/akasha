@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionDaydreamin = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-daydreamin",
   ownLength: 3.52145,
-  ownProgress: 0,
+  ownProgress: 3.52145,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

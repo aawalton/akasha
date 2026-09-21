@@ -5,10 +5,10 @@ export const coldplayHigherPowerAlyxAnderRemixHigherPowerAlyxAnderRemix = {
   type: "page-type/track",
   slug: "coldplay-higher-power-alyx-ander-remix-higher-power-alyx-ander-remix",
   ownLength: 2.5604833333333334,
-  ownProgress: 0,
+  ownProgress: 2.5604833333333334,
   partOfCollections: ["release/coldplay-higher-power-alyx-ander-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

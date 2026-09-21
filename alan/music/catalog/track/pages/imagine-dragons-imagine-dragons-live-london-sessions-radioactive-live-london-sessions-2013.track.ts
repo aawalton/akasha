@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsRadioactiveLiveLondon
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-live-london-sessions-radioactive-live-london-sessions-2013",
   ownLength: 4.502666666666666,
-  ownProgress: 0,
+  ownProgress: 4.502666666666666,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-london-sessions"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

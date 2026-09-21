@@ -5,10 +5,10 @@ export const paulCardallChristmasBringATorchJeanetteIsabella = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-bring-a-torch-jeanette-isabella",
   ownLength: 3.8110166666666667,
-  ownProgress: 0,
+  ownProgress: 3.8110166666666667,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

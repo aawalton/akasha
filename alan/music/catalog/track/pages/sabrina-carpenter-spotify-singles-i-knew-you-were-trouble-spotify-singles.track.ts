@@ -5,10 +5,10 @@ export const sabrinaCarpenterSpotifySinglesIKnewYouWereTroubleSpotifySingles = {
   type: "page-type/track",
   slug: "sabrina-carpenter-spotify-singles-i-knew-you-were-trouble-spotify-singles",
   ownLength: 3.8936166666666665,
-  ownProgress: 0,
+  ownProgress: 3.8936166666666665,
   partOfCollections: ["release/sabrina-carpenter-spotify-singles"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

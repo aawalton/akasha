@@ -5,10 +5,10 @@ export const jamesTaylor2OtherCoversInTheMidnightHour = {
   type: "page-type/track",
   slug: "james-taylor-2-other-covers-in-the-midnight-hour",
   ownLength: 3.236666666666667,
-  ownProgress: 0,
+  ownProgress: 3.236666666666667,
   partOfCollections: ["release/james-taylor-2-other-covers"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

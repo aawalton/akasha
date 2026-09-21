@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuys2TwinkleLullaby = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-2-twinkle-lullaby",
   ownLength: 1.8541666666666667,
-  ownProgress: 0,
+  ownProgress: 1.8541666666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

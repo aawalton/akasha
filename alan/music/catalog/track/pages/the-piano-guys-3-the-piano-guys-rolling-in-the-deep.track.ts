@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysRollingInTheDeep = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-rolling-in-the-deep",
   ownLength: 3.8688666666666665,
-  ownProgress: 0,
+  ownProgress: 3.8688666666666665,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

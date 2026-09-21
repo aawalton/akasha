@@ -5,10 +5,10 @@ export const celticWoman2ChristmasCardsFromIrelandTheToysWaltz = {
   type: "page-type/track",
   slug: "celtic-woman-2-christmas-cards-from-ireland-the-toys-waltz",
   ownLength: 3.0404333333333335,
-  ownProgress: 0,
+  ownProgress: 3.0404333333333335,
   partOfCollections: ["release/celtic-woman-2-christmas-cards-from-ireland"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

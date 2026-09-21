@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalLoveRomanceAThousandYears = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-love-romance-a-thousand-years",
   ownLength: 4.50735,
-  ownProgress: 0,
+  ownProgress: 4.50735,
   partOfCollections: ["release/the-piano-guys-3-classical-love-romance"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

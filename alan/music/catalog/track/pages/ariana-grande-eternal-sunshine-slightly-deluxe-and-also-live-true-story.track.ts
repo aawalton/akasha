@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveTrueStory = {
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-true-story",
   ownLength: 2.7213,
-  ownProgress: 0,
+  ownProgress: 2.7213,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

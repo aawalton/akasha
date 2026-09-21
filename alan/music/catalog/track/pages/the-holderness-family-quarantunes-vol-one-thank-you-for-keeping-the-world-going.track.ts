@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOneThankYouForKeepingTheWorldGoing
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-thank-you-for-keeping-the-world-going",
   ownLength: 2.6797166666666667,
-  ownProgress: 0,
+  ownProgress: 2.6797166666666667,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

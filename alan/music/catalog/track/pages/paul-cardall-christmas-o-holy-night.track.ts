@@ -5,10 +5,10 @@ export const paulCardallChristmasOHolyNight = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-o-holy-night",
   ownLength: 7.13135,
-  ownProgress: 0,
+  ownProgress: 7.13135,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayMoonMusicGoodFeelings = {
   type: "page-type/track",
   slug: "coldplay-moon-music-good-feelings",
   ownLength: 3.623,
-  ownProgress: 0,
+  ownProgress: 3.623,
   partOfCollections: ["release/coldplay-moon-music"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

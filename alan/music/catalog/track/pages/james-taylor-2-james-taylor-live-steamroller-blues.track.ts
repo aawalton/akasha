@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveSteamrollerBlues = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-steamroller-blues",
   ownLength: 5.400433333333333,
-  ownProgress: 0,
+  ownProgress: 5.400433333333333,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

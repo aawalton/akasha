@@ -5,10 +5,10 @@ export const jamesTaylor2FlagCompanyMan = {
   type: "page-type/track",
   slug: "james-taylor-2-flag-company-man",
   ownLength: 3.74955,
-  ownProgress: 0,
+  ownProgress: 3.74955,
   partOfCollections: ["release/james-taylor-2-flag"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

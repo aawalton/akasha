@@ -5,10 +5,10 @@ export const jisooMeFlower = {
   type: "page-type/track",
   slug: "jisoo-me-flower",
   ownLength: 2.8855666666666666,
-  ownProgress: 0,
+  ownProgress: 2.8855666666666666,
   partOfCollections: ["release/jisoo-me"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

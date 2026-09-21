@@ -5,10 +5,10 @@ export const sabrinaCarpenterFastTimesFastTimes = {
   type: "page-type/track",
   slug: "sabrina-carpenter-fast-times-fast-times",
   ownLength: 2.9089833333333335,
-  ownProgress: 0,
+  ownProgress: 2.9089833333333335,
   partOfCollections: ["release/sabrina-carpenter-fast-times"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2JtThereWeAre = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-there-we-are",
   ownLength: 3.0147166666666667,
-  ownProgress: 0,
+  ownProgress: 3.0147166666666667,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

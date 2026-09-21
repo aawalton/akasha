@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLife = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-dancing-through-life",
   ownLength: 9.7894,
-  ownProgress: 0,
+  ownProgress: 9.7894,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

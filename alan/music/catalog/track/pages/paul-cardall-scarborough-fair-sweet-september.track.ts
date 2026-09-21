@@ -5,10 +5,10 @@ export const paulCardallScarboroughFairSweetSeptember = {
   type: "page-type/track",
   slug: "paul-cardall-scarborough-fair-sweet-september",
   ownLength: 3.0182166666666665,
-  ownProgress: 0,
+  ownProgress: 3.0182166666666665,
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

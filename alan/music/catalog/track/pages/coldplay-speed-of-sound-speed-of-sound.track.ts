@@ -5,10 +5,10 @@ export const coldplaySpeedOfSoundSpeedOfSound = {
   type: "page-type/track",
   slug: "coldplay-speed-of-sound-speed-of-sound",
   ownLength: 4.807333333333333,
-  ownProgress: 0,
+  ownProgress: 4.807333333333333,
   partOfCollections: ["release/coldplay-speed-of-sound"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

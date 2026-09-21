@@ -5,10 +5,10 @@ export const paulCardallReturnHomeElizasTheme = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-elizas-theme",
   ownLength: 3.646933333333333,
-  ownProgress: 0,
+  ownProgress: 3.646933333333333,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

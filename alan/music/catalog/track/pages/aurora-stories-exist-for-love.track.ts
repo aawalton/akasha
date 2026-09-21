@@ -5,10 +5,10 @@ export const auroraStoriesExistForLove = {
   type: "page-type/track",
   slug: "aurora-stories-exist-for-love",
   ownLength: 4.2119333333333335,
-  ownProgress: 0,
+  ownProgress: 4.2119333333333335,
   partOfCollections: ["release/aurora-stories"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

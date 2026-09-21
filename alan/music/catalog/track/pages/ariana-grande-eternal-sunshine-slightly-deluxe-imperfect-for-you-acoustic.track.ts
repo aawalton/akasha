@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeImperfectForYouAcoustic = 
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-imperfect-for-you-acoustic",
   ownLength: 3.052216666666667,
-  ownProgress: 0,
+  ownProgress: 3.052216666666667,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

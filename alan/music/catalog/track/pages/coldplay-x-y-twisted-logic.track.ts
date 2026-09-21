@@ -5,10 +5,10 @@ export const coldplayXYTwistedLogic = {
   type: "page-type/track",
   slug: "coldplay-x-y-twisted-logic",
   ownLength: 4.531,
-  ownProgress: 0,
+  ownProgress: 4.531,
   partOfCollections: ["release/coldplay-x-y"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

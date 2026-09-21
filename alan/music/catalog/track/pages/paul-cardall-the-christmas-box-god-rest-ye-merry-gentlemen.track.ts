@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxGodRestYeMerryGentlemen = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-god-rest-ye-merry-gentlemen",
   ownLength: 2.352883333333333,
-  ownProgress: 0,
+  ownProgress: 2.352883333333333,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -6,12 +6,12 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionO
     type: "page-type/track",
     slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version-ordinary-things-feat-2",
     ownLength: 2.636633333333333,
-    ownProgress: 0,
+    ownProgress: 2.636633333333333,
     partOfCollections: [
       "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
     ],
     position: 32,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

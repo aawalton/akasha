@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActIiTakeYouBack = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-ii-take-you-back",
   ownLength: 2.817633333333333,
-  ownProgress: 0,
+  ownProgress: 2.817633333333333,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

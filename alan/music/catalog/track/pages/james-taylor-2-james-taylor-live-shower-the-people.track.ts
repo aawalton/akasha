@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveShowerThePeople = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-shower-the-people",
   ownLength: 4.684433333333334,
-  ownProgress: 0,
+  ownProgress: 4.684433333333334,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

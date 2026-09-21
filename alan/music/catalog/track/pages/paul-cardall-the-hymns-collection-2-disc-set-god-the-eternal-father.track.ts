@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetGodTheEternalFather = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-god-the-eternal-father",
   ownLength: 2.642716666666667,
-  ownProgress: 0,
+  ownProgress: 2.642716666666667,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

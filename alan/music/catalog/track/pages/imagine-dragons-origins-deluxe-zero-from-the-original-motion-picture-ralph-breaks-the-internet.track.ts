@@ -5,10 +5,10 @@ export const imagineDragonsOriginsDeluxeZeroFromTheOriginalMotionPictureRalphBre
   type: "page-type/track",
   slug: "imagine-dragons-origins-deluxe-zero-from-the-original-motion-picture-ralph-breaks-the-internet",
   ownLength: 3.51555,
-  ownProgress: 0,
+  ownProgress: 3.51555,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

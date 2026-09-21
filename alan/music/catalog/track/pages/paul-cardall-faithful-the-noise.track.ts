@@ -5,10 +5,10 @@ export const paulCardallFaithfulTheNoise = {
   type: "page-type/track",
   slug: "paul-cardall-faithful-the-noise",
   ownLength: 5.370666666666667,
-  ownProgress: 0,
+  ownProgress: 5.370666666666667,
   partOfCollections: ["release/paul-cardall-faithful"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const vinnyMarchiBewareOfTheSirenBewareOfTheSiren = {
   type: "page-type/track",
   slug: "vinny-marchi-beware-of-the-siren-beware-of-the-siren",
   ownLength: 2.9468666666666667,
-  ownProgress: 0,
+  ownProgress: 2.9468666666666667,
   partOfCollections: ["release/vinny-marchi-beware-of-the-siren"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

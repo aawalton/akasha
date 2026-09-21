@@ -5,10 +5,10 @@ export const coldplayLive2012PrincessOfChinaLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-princess-of-china-live",
   ownLength: 3.816,
-  ownProgress: 0,
+  ownProgress: 3.816,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

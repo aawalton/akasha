@@ -5,10 +5,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackNoGoodDeed = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-no-good-deed",
   ownLength: 3.8375,
-  ownProgress: 0,
+  ownProgress: 3.8375,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

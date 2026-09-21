@@ -5,10 +5,10 @@ export const arianaGrandeSweetenerEverytime = {
   type: "page-type/track",
   slug: "ariana-grande-sweetener-everytime",
   ownLength: 2.8684333333333334,
-  ownProgress: 0,
+  ownProgress: 2.8684333333333334,
   partOfCollections: ["release/ariana-grande-sweetener"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallTheShoresOfNormandyTheShoresOfNormandy = {
   type: "page-type/track",
   slug: "paul-cardall-the-shores-of-normandy-the-shores-of-normandy",
   ownLength: 4.3414,
-  ownProgress: 0,
+  ownProgress: 4.3414,
   partOfCollections: ["release/paul-cardall-the-shores-of-normandy"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

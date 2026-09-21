@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendDecode = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-decode",
   ownLength: 3.1361166666666667,
-  ownProgress: 0,
+  ownProgress: 3.1361166666666667,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

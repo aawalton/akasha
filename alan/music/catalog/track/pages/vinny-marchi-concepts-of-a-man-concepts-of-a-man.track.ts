@@ -5,10 +5,10 @@ export const vinnyMarchiConceptsOfAManConceptsOfAMan = {
   type: "page-type/track",
   slug: "vinny-marchi-concepts-of-a-man-concepts-of-a-man",
   ownLength: 1.2083666666666666,
-  ownProgress: 0,
+  ownProgress: 1.2083666666666666,
   partOfCollections: ["release/vinny-marchi-concepts-of-a-man"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallReturnHomeShoresOfNormandy = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-shores-of-normandy",
   ownLength: 4.3414,
-  ownProgress: 0,
+  ownProgress: 4.3414,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

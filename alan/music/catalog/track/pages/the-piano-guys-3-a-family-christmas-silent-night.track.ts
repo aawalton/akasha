@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasSilentNight = {
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-silent-night",
   ownLength: 3.5021166666666668,
-  ownProgress: 0,
+  ownProgress: 3.5021166666666668,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

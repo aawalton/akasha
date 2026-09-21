@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalMovieSoundtracksAMillionDreams = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-movie-soundtracks-a-million-dreams",
   ownLength: 4.751883333333334,
-  ownProgress: 0,
+  ownProgress: 4.751883333333334,
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

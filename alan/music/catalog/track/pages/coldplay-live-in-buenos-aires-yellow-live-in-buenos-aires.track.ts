@@ -5,10 +5,10 @@ export const coldplayLiveInBuenosAiresYellowLiveInBuenosAires = {
   type: "page-type/track",
   slug: "coldplay-live-in-buenos-aires-yellow-live-in-buenos-aires",
   ownLength: 5.8411,
-  ownProgress: 0,
+  ownProgress: 5.8411,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

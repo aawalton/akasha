@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassLineEmUp = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-line-em-up",
   ownLength: 4.708433333333334,
-  ownProgress: 0,
+  ownProgress: 4.708433333333334,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

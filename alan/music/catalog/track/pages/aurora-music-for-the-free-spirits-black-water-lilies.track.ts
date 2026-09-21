@@ -5,10 +5,10 @@ export const auroraMusicForTheFreeSpiritsBlackWaterLilies = {
   type: "page-type/track",
   slug: "aurora-music-for-the-free-spirits-black-water-lilies",
   ownLength: 4.714,
-  ownProgress: 0,
+  ownProgress: 4.714,
   partOfCollections: ["release/aurora-music-for-the-free-spirits"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

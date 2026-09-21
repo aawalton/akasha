@@ -5,10 +5,10 @@ export const vinnyMarchiComeLittleChildrenComeLittleChildren = {
   type: "page-type/track",
   slug: "vinny-marchi-come-little-children-come-little-children",
   ownLength: 2.57475,
-  ownProgress: 0,
+  ownProgress: 2.57475,
   partOfCollections: ["release/vinny-marchi-come-little-children"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

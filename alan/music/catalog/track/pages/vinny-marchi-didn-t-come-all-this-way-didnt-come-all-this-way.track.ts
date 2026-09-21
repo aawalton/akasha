@@ -5,10 +5,10 @@ export const vinnyMarchiDidnTComeAllThisWayDidntComeAllThisWay = {
   type: "page-type/track",
   slug: "vinny-marchi-didn-t-come-all-this-way-didnt-come-all-this-way",
   ownLength: 2.5641,
-  ownProgress: 0,
+  ownProgress: 2.5641,
   partOfCollections: ["release/vinny-marchi-didn-t-come-all-this-way"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

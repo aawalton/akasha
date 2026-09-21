@@ -5,10 +5,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321Acoustic =
   type: "page-type/track",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-murder-song-5-4-3-2-1-acoustic",
   ownLength: 3.644433333333333,
-  ownProgress: 0,
+  ownProgress: 3.644433333333333,
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

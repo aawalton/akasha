@@ -5,10 +5,10 @@ export const paulCardallSavingTinyHeartsVoices = {
   type: "page-type/track",
   slug: "paul-cardall-saving-tiny-hearts-voices",
   ownLength: 5.0131,
-  ownProgress: 0,
+  ownProgress: 5.0131,
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

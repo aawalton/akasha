@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneyDonOicheUdIMbeithil = {
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-don-oiche-ud-i-mbeithil",
   ownLength: 2.43695,
-  ownProgress: 0,
+  ownProgress: 2.43695,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

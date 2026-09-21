@@ -5,10 +5,10 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderJerryFolkRemix = {
   type: "page-type/track",
   slug: "billie-eilish-six-feet-under-the-remixes-six-feet-under-jerry-folk-remix",
   ownLength: 3.3483,
-  ownProgress: 0,
+  ownProgress: 3.3483,
   partOfCollections: ["release/billie-eilish-six-feet-under-the-remixes"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

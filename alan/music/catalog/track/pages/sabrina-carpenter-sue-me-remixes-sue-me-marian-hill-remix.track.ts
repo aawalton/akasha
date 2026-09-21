@@ -5,10 +5,10 @@ export const sabrinaCarpenterSueMeRemixesSueMeMarianHillRemix = {
   type: "page-type/track",
   slug: "sabrina-carpenter-sue-me-remixes-sue-me-marian-hill-remix",
   ownLength: 3.6140333333333334,
-  ownProgress: 0,
+  ownProgress: 3.6140333333333334,
   partOfCollections: ["release/sabrina-carpenter-sue-me-remixes"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

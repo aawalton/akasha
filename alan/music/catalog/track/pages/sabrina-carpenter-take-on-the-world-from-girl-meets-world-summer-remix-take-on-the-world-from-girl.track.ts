@@ -5,12 +5,12 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemixTakeOnTh
   type: "page-type/track",
   slug: "sabrina-carpenter-take-on-the-world-from-girl-meets-world-summer-remix-take-on-the-world-from-girl",
   ownLength: 2.990883333333333,
-  ownProgress: 0,
+  ownProgress: 2.990883333333333,
   partOfCollections: [
     "release/sabrina-carpenter-take-on-the-world-from-girl-meets-world-summer-remix",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

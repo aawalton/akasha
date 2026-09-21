@@ -5,10 +5,10 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackSoundBath = {
   type: "page-type/track",
   slug: "aurora-sky-concert-in-the-light-original-game-soundtrack-sound-bath",
   ownLength: 9.216666666666667,
-  ownProgress: 0,
+  ownProgress: 9.216666666666667,
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

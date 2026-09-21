@@ -5,10 +5,10 @@ export const jamesTaylor2OctoberRoadSpecialEditionHaveYourselfAMerryLittleChrist
   type: "page-type/track",
   slug: "james-taylor-2-october-road-special-edition-have-yourself-a-merry-little-christmas",
   ownLength: 3.8388833333333334,
-  ownProgress: 0,
+  ownProgress: 3.8388833333333334,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

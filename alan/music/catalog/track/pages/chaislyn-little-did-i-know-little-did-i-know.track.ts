@@ -5,10 +5,10 @@ export const chaislynLittleDidIKnowLittleDidIKnow = {
   type: "page-type/track",
   slug: "chaislyn-little-did-i-know-little-did-i-know",
   ownLength: 3.76075,
-  ownProgress: 0,
+  ownProgress: 3.76075,
   partOfCollections: ["release/chaislyn-little-did-i-know"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -6,10 +6,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveDontWannaBreakU
     type: "page-type/track",
     slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-dont-wanna-break-up-again-live-version",
     ownLength: 2.904183333333333,
-    ownProgress: 0,
+    ownProgress: 2.904183333333333,
     partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
     position: 19,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

@@ -5,12 +5,12 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNilSenLa =
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-nil-sen-la",
   ownLength: 3.5851,
-  ownProgress: 0,
+  ownProgress: 3.5851,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

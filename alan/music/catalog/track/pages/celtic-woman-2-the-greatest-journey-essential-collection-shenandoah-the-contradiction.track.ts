@@ -5,10 +5,10 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionShenandoahTheContr
   type: "page-type/track",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection-shenandoah-the-contradiction",
   ownLength: 4.039483333333333,
-  ownProgress: 0,
+  ownProgress: 4.039483333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

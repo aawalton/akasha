@@ -5,10 +5,10 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMeLive = {
   type: "page-type/track",
   slug: "ariana-grande-santa-can-t-you-hear-me-live-santa-cant-you-hear-me-live",
   ownLength: 3.7596333333333334,
-  ownProgress: 0,
+  ownProgress: 3.7596333333333334,
   partOfCollections: ["release/ariana-grande-santa-can-t-you-hear-me-live"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

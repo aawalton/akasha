@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleABlueBaby = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-a-blue-baby",
   ownLength: 2.8553333333333333,
-  ownProgress: 0,
+  ownProgress: 2.8553333333333333,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

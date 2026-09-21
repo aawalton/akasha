@@ -5,12 +5,12 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsHarrysGame
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-harrys-game",
   ownLength: 2.5242166666666668,
-  ownProgress: 0,
+  ownProgress: 2.5242166666666668,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

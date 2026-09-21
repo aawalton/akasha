@@ -5,10 +5,10 @@ export const auroraAwakeningAwakening = {
   type: "page-type/track",
   slug: "aurora-awakening-awakening",
   ownLength: 3.6830166666666666,
-  ownProgress: 0,
+  ownProgress: 3.6830166666666666,
   partOfCollections: ["release/aurora-awakening"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

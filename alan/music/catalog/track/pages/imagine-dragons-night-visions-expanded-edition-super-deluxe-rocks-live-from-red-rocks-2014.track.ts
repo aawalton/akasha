@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRocksLiveFromRe
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-rocks-live-from-red-rocks-2014",
   ownLength: 3.7224333333333335,
-  ownProgress: 0,
+  ownProgress: 3.7224333333333335,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

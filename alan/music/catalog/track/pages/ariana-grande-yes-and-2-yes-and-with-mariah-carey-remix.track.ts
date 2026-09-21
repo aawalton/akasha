@@ -5,10 +5,10 @@ export const arianaGrandeYesAnd2YesAndWithMariahCareyRemix = {
   type: "page-type/track",
   slug: "ariana-grande-yes-and-2-yes-and-with-mariah-carey-remix",
   ownLength: 3.5832333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5832333333333333,
   partOfCollections: ["release/ariana-grande-yes-and-2"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

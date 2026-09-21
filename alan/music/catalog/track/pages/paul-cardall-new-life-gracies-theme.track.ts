@@ -5,10 +5,10 @@ export const paulCardallNewLifeGraciesTheme = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-gracies-theme",
   ownLength: 5.694883333333333,
-  ownProgress: 0,
+  ownProgress: 5.694883333333333,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

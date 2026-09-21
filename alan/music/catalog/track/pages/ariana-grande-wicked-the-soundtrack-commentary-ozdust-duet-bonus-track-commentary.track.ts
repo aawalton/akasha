@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrackCommen
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-ozdust-duet-bonus-track-commentary",
   ownLength: 1.472,
-  ownProgress: 0,
+  ownProgress: 1.472,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   position: 24,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

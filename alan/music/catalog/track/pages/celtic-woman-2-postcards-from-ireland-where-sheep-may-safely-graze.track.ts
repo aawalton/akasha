@@ -5,10 +5,10 @@ export const celticWoman2PostcardsFromIrelandWhereSheepMaySafelyGraze = {
   type: "page-type/track",
   slug: "celtic-woman-2-postcards-from-ireland-where-sheep-may-safely-graze",
   ownLength: 3.9824333333333333,
-  ownProgress: 0,
+  ownProgress: 3.9824333333333333,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jisooAmortageEarthquake = {
   type: "page-type/track",
   slug: "jisoo-amortage-earthquake",
   ownLength: 3.1801,
-  ownProgress: 0,
+  ownProgress: 3.1801,
   partOfCollections: ["release/jisoo-amortage"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

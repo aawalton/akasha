@@ -5,10 +5,10 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifePianoVersion = {
   type: "page-type/track",
   slug: "zara-larsson-ruin-my-life-the-remixes-ruin-my-life-piano-version",
   ownLength: 3.168,
-  ownProgress: 0,
+  ownProgress: 3.168,
   partOfCollections: ["release/zara-larsson-ruin-my-life-the-remixes"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

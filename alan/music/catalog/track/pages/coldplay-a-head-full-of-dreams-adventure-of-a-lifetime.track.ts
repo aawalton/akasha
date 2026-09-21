@@ -5,10 +5,10 @@ export const coldplayAHeadFullOfDreamsAdventureOfALifetime = {
   type: "page-type/track",
   slug: "coldplay-a-head-full-of-dreams-adventure-of-a-lifetime",
   ownLength: 4.396433333333333,
-  ownProgress: 0,
+  ownProgress: 4.396433333333333,
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

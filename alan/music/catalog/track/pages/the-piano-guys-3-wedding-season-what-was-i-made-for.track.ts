@@ -5,10 +5,10 @@ export const thePianoGuys3WeddingSeasonWhatWasIMadeFor = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wedding-season-what-was-i-made-for",
   ownLength: 4.180616666666666,
-  ownProgress: 0,
+  ownProgress: 4.180616666666666,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2VoicesOfAngelsAsSheMovedThroughTheFair2016Version = {
   type: "page-type/track",
   slug: "celtic-woman-2-voices-of-angels-as-she-moved-through-the-fair-2016-version",
   ownLength: 3.925333333333333,
-  ownProgress: 0,
+  ownProgress: 3.925333333333333,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

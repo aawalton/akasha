@@ -5,10 +5,10 @@ export const paulCardallChillCollectionEarlyMonday = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-early-monday",
   ownLength: 3.7424666666666666,
-  ownProgress: 0,
+  ownProgress: 3.7424666666666666,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3UnchartedTourDeFrance = {
   type: "page-type/track",
   slug: "the-piano-guys-3-uncharted-tour-de-france",
   ownLength: 3.59375,
-  ownProgress: 0,
+  ownProgress: 3.59375,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

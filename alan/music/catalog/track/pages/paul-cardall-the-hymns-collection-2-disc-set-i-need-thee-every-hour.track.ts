@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetINeedTheeEveryHour = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-i-need-thee-every-hour",
   ownLength: 3.3771833333333334,
-  ownProgress: 0,
+  ownProgress: 3.3771833333333334,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadDandelion = {
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-dandelion",
   ownLength: 3.4135833333333334,
-  ownProgress: 0,
+  ownProgress: 3.4135833333333334,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

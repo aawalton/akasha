@@ -5,10 +5,10 @@ export const paulCardallDecemberSoloPianoHushLittleBabyTheMockingBirdSongSoloPia
   type: "page-type/track",
   slug: "paul-cardall-december-solo-piano-hush-little-baby-the-mocking-bird-song-solo-piano-version",
   ownLength: 2.43355,
-  ownProgress: 0,
+  ownProgress: 2.43355,
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

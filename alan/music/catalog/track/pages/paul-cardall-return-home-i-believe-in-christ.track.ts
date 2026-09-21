@@ -5,10 +5,10 @@ export const paulCardallReturnHomeIBelieveInChrist = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-i-believe-in-christ",
   ownLength: 3.8147333333333333,
-  ownProgress: 0,
+  ownProgress: 3.8147333333333333,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

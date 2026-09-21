@@ -5,10 +5,10 @@ export const emei9Lives9Lives = {
   type: "page-type/track",
   slug: "emei-9-lives-9-lives",
   ownLength: 3.0375833333333335,
-  ownProgress: 0,
+  ownProgress: 3.0375833333333335,
   partOfCollections: ["release/emei-9-lives"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2AChristmasCelebrationDonOicheUdIMbeithilThatNightInBeth
   type: "page-type/track",
   slug: "celtic-woman-2-a-christmas-celebration-don-oiche-ud-i-mbeithil-that-night-in-bethlehem",
   ownLength: 2.738,
-  ownProgress: 0,
+  ownProgress: 2.738,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

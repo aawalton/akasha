@@ -5,10 +5,10 @@ export const coldplayBiutyfulBiutyful = {
   type: "page-type/track",
   slug: "coldplay-biutyful-biutyful",
   ownLength: 3.206566666666667,
-  ownProgress: 0,
+  ownProgress: 3.206566666666667,
   partOfCollections: ["release/coldplay-biutyful"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

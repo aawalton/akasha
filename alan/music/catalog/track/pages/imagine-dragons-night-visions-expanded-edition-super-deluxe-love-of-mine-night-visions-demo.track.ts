@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeLoveOfMineNight
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-love-of-mine-night-visions-demo",
   ownLength: 4.1665833333333335,
-  ownProgress: 0,
+  ownProgress: 4.1665833333333335,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

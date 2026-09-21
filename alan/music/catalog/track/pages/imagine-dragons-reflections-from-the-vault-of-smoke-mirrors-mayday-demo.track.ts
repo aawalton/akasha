@@ -5,10 +5,10 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsMaydayDemo = {
   type: "page-type/track",
   slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors-mayday-demo",
   ownLength: 3.199883333333333,
-  ownProgress: 0,
+  ownProgress: 3.199883333333333,
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

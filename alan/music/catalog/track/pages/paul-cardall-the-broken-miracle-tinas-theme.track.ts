@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleTinasTheme = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-tinas-theme",
   ownLength: 3.66155,
-  ownProgress: 0,
+  ownProgress: 3.66155,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

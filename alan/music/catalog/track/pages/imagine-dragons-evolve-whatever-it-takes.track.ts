@@ -5,10 +5,10 @@ export const imagineDragonsEvolveWhateverItTakes = {
   type: "page-type/track",
   slug: "imagine-dragons-evolve-whatever-it-takes",
   ownLength: 3.354,
-  ownProgress: 0,
+  ownProgress: 3.354,
   partOfCollections: ["release/imagine-dragons-evolve"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

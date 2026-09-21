@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe2000sFallOrNothingAtAll = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-2000s-fall-or-nothing-at-all",
   ownLength: 4.0048,
-  ownProgress: 0,
+  ownProgress: 4.0048,
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

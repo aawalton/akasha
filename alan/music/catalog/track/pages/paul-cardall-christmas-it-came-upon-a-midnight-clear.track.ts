@@ -5,10 +5,10 @@ export const paulCardallChristmasItCameUponAMidnightClear = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-it-came-upon-a-midnight-clear",
   ownLength: 3.24405,
-  ownProgress: 0,
+  ownProgress: 3.24405,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterEyesWideOpenYourLovesLike = {
   type: "page-type/track",
   slug: "sabrina-carpenter-eyes-wide-open-your-loves-like",
   ownLength: 3.4846666666666666,
-  ownProgress: 0,
+  ownProgress: 3.4846666666666666,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

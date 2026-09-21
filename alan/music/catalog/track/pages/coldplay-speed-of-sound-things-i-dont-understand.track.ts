@@ -5,10 +5,10 @@ export const coldplaySpeedOfSoundThingsIDontUnderstand = {
   type: "page-type/track",
   slug: "coldplay-speed-of-sound-things-i-dont-understand",
   ownLength: 4.9271,
-  ownProgress: 0,
+  ownProgress: 4.9271,
   partOfCollections: ["release/coldplay-speed-of-sound"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

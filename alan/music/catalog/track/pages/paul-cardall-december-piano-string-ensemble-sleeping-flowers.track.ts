@@ -5,10 +5,10 @@ export const paulCardallDecemberPianoStringEnsembleSleepingFlowers = {
   type: "page-type/track",
   slug: "paul-cardall-december-piano-string-ensemble-sleeping-flowers",
   ownLength: 3.7091,
-  ownProgress: 0,
+  ownProgress: 3.7091,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

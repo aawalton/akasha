@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasCarolOfTheBellsGodRestYeMerryGentlemen
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-carol-of-the-bells-god-rest-ye-merry-gentlemen",
   ownLength: 3.3653,
-  ownProgress: 0,
+  ownProgress: 3.3653,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

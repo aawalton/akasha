@@ -5,10 +5,10 @@ export const sabrinaCarpenterThumbsAcousticThumbsAcoustic = {
   type: "page-type/track",
   slug: "sabrina-carpenter-thumbs-acoustic-thumbs-acoustic",
   ownLength: 3.4045666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4045666666666667,
   partOfCollections: ["release/sabrina-carpenter-thumbs-acoustic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

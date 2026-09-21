@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023ComfortZone = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-comfort-zone",
   ownLength: 1.892,
-  ownProgress: 0,
+  ownProgress: 1.892,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

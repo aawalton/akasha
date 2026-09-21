@@ -5,10 +5,10 @@ export const thePianoGuys3SomethingJustLikeThisHungarianRhapsodySomethingJustLik
   type: "page-type/track",
   slug: "the-piano-guys-3-something-just-like-this-hungarian-rhapsody-something-just-like-this-hungarian",
   ownLength: 3.89735,
-  ownProgress: 0,
+  ownProgress: 3.89735,
   partOfCollections: ["release/the-piano-guys-3-something-just-like-this-hungarian-rhapsody"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

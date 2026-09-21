@@ -5,10 +5,10 @@ export const jamesTaylor2ThatSWhyIMHereSongForYouFarAway = {
   type: "page-type/track",
   slug: "james-taylor-2-that-s-why-i-m-here-song-for-you-far-away",
   ownLength: 2.9377666666666666,
-  ownProgress: 0,
+  ownProgress: 2.9377666666666666,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

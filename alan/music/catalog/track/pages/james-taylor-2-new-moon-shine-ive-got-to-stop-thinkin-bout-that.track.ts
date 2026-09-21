@@ -5,10 +5,10 @@ export const jamesTaylor2NewMoonShineIveGotToStopThinkinBoutThat = {
   type: "page-type/track",
   slug: "james-taylor-2-new-moon-shine-ive-got-to-stop-thinkin-bout-that",
   ownLength: 3.9977666666666667,
-  ownProgress: 0,
+  ownProgress: 3.9977666666666667,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

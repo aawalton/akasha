@@ -5,12 +5,12 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsOAmerica =
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-o-america",
   ownLength: 3.826216666666667,
-  ownProgress: 0,
+  ownProgress: 3.826216666666667,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

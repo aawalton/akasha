@@ -5,10 +5,10 @@ export const paulCardallDecemberPianoStringEnsembleLeavingNazareth = {
   type: "page-type/track",
   slug: "paul-cardall-december-piano-string-ensemble-leaving-nazareth",
   ownLength: 3.9282166666666667,
-  ownProgress: 0,
+  ownProgress: 3.9282166666666667,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

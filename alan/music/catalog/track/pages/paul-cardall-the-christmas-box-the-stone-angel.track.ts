@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxTheStoneAngel = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-the-stone-angel",
   ownLength: 3.266,
-  ownProgress: 0,
+  ownProgress: 3.266,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

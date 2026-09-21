@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveFireAndRain = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-fire-and-rain",
   ownLength: 4.554433333333333,
-  ownProgress: 0,
+  ownProgress: 4.554433333333333,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

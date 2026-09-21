@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysForTheBeautyOfTheEarth = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-for-the-beauty-of-the-earth",
   ownLength: 1.738,
-  ownProgress: 0,
+  ownProgress: 1.738,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

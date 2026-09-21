@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysArwensVigil = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-arwens-vigil",
   ownLength: 3.927983333333333,
-  ownProgress: 0,
+  ownProgress: 3.927983333333333,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

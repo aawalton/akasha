@@ -5,10 +5,10 @@ export const theHoldernessFamilyTheGreatestHitsVolOneItsGonnaBeMay = {
   type: "page-type/track",
   slug: "the-holderness-family-the-greatest-hits-vol-one-its-gonna-be-may",
   ownLength: 1.81725,
-  ownProgress: 0,
+  ownProgress: 1.81725,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

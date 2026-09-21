@@ -5,10 +5,10 @@ export const paulCardallHymnsOMyFather = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-o-my-father",
   ownLength: 2.156,
-  ownProgress: 0,
+  ownProgress: 2.156,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

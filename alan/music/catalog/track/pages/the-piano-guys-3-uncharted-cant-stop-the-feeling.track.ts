@@ -5,10 +5,10 @@ export const thePianoGuys3UnchartedCantStopTheFeeling = {
   type: "page-type/track",
   slug: "the-piano-guys-3-uncharted-cant-stop-the-feeling",
   ownLength: 3.0458333333333334,
-  ownProgress: 0,
+  ownProgress: 3.0458333333333334,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

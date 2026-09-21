@@ -5,10 +5,10 @@ export const coldplayGhostStoriesInk = {
   type: "page-type/track",
   slug: "coldplay-ghost-stories-ink",
   ownLength: 3.806216666666667,
-  ownProgress: 0,
+  ownProgress: 3.806216666666667,
   partOfCollections: ["release/coldplay-ghost-stories"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

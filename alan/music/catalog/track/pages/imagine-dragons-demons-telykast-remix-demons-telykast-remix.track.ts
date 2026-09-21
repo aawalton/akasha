@@ -5,10 +5,10 @@ export const imagineDragonsDemonsTelykastRemixDemonsTelykastRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-demons-telykast-remix-demons-telykast-remix",
   ownLength: 2.9354666666666667,
-  ownProgress: 0,
+  ownProgress: 2.9354666666666667,
   partOfCollections: ["release/imagine-dragons-demons-telykast-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

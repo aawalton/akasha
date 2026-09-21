@@ -5,10 +5,10 @@ export const vinnyMarchiHabaneraHabanera = {
   type: "page-type/track",
   slug: "vinny-marchi-habanera-habanera",
   ownLength: 2.1803833333333333,
-  ownProgress: 0,
+  ownProgress: 2.1803833333333333,
   partOfCollections: ["release/vinny-marchi-habanera"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

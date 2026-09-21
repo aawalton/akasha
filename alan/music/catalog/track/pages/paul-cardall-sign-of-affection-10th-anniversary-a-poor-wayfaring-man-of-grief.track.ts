@@ -5,10 +5,10 @@ export const paulCardallSignOfAffection10thAnniversaryAPoorWayfaringManOfGrief =
   type: "page-type/track",
   slug: "paul-cardall-sign-of-affection-10th-anniversary-a-poor-wayfaring-man-of-grief",
   ownLength: 2.806,
-  ownProgress: 0,
+  ownProgress: 2.806,
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

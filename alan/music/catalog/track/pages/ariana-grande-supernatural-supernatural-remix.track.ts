@@ -5,10 +5,10 @@ export const arianaGrandeSupernaturalSupernaturalRemix = {
   type: "page-type/track",
   slug: "ariana-grande-supernatural-supernatural-remix",
   ownLength: 2.7230166666666666,
-  ownProgress: 0,
+  ownProgress: 2.7230166666666666,
   partOfCollections: ["release/ariana-grande-supernatural"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

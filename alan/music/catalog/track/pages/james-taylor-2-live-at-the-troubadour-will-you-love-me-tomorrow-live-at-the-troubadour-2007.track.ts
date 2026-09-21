@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourWillYouLoveMeTomorrowLiveAtTheTrouba
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-will-you-love-me-tomorrow-live-at-the-troubadour-2007",
   ownLength: 4.210883333333333,
-  ownProgress: 0,
+  ownProgress: 4.210883333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

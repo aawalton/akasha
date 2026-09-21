@@ -5,10 +5,10 @@ export const imagineDragonsEvolveStartOver = {
   type: "page-type/track",
   slug: "imagine-dragons-evolve-start-over",
   ownLength: 3.1013333333333333,
-  ownProgress: 0,
+  ownProgress: 3.1013333333333333,
   partOfCollections: ["release/imagine-dragons-evolve"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

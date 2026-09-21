@@ -5,10 +5,10 @@ export const celticWoman2DestinyISeeFire = {
   type: "page-type/track",
   slug: "celtic-woman-2-destiny-i-see-fire",
   ownLength: 5.127683333333334,
-  ownProgress: 0,
+  ownProgress: 5.127683333333334,
   partOfCollections: ["release/celtic-woman-2-destiny"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

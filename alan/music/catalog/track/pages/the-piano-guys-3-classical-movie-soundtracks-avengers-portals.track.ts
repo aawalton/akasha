@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalMovieSoundtracksAvengersPortals = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-movie-soundtracks-avengers-portals",
   ownLength: 2.95,
-  ownProgress: 0,
+  ownProgress: 2.95,
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

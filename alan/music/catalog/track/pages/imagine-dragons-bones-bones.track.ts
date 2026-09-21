@@ -5,10 +5,10 @@ export const imagineDragonsBonesBones = {
   type: "page-type/track",
   slug: "imagine-dragons-bones-bones",
   ownLength: 2.7544,
-  ownProgress: 0,
+  ownProgress: 2.7544,
   partOfCollections: ["release/imagine-dragons-bones"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

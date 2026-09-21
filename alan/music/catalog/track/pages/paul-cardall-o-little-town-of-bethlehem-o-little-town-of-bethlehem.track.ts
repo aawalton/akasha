@@ -5,10 +5,10 @@ export const paulCardallOLittleTownOfBethlehemOLittleTownOfBethlehem = {
   type: "page-type/track",
   slug: "paul-cardall-o-little-town-of-bethlehem-o-little-town-of-bethlehem",
   ownLength: 4.108516666666667,
-  ownProgress: 0,
+  ownProgress: 4.108516666666667,
   partOfCollections: ["release/paul-cardall-o-little-town-of-bethlehem"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

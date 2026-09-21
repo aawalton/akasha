@@ -5,10 +5,10 @@ export const jamesTaylor2TodayTodayTodayTodayTodayToday = {
   type: "page-type/track",
   slug: "james-taylor-2-today-today-today-today-today-today",
   ownLength: 3.1528833333333335,
-  ownProgress: 0,
+  ownProgress: 3.1528833333333335,
   partOfCollections: ["release/james-taylor-2-today-today-today"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

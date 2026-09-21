@@ -5,10 +5,10 @@ export const paulCardallHymnsHowGreatTheWisdomAndTheLove = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-how-great-the-wisdom-and-the-love",
   ownLength: 2.408,
-  ownProgress: 0,
+  ownProgress: 2.408,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

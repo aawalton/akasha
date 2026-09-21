@@ -5,10 +5,10 @@ export const jamesTaylor2InThePocket2019RemasterShowerThePeople2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-in-the-pocket-2019-remaster-shower-the-people-2019-remaster",
   ownLength: 4.5551,
-  ownProgress: 0,
+  ownProgress: 4.5551,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

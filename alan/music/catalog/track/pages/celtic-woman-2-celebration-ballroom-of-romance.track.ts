@@ -5,10 +5,10 @@ export const celticWoman2CelebrationBallroomOfRomance = {
   type: "page-type/track",
   slug: "celtic-woman-2-celebration-ballroom-of-romance",
   ownLength: 3.30155,
-  ownProgress: 0,
+  ownProgress: 3.30155,
   partOfCollections: ["release/celtic-woman-2-celebration"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

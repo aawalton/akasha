@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendBadForBusiness = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-bad-for-business",
   ownLength: 3.13895,
-  ownProgress: 0,
+  ownProgress: 3.13895,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

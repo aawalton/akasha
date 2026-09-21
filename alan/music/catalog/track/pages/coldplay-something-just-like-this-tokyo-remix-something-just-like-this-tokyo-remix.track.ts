@@ -5,10 +5,10 @@ export const coldplaySomethingJustLikeThisTokyoRemixSomethingJustLikeThisTokyoRe
   type: "page-type/track",
   slug: "coldplay-something-just-like-this-tokyo-remix-something-just-like-this-tokyo-remix",
   ownLength: 4.549766666666667,
-  ownProgress: 0,
+  ownProgress: 4.549766666666667,
   partOfCollections: ["release/coldplay-something-just-like-this-tokyo-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

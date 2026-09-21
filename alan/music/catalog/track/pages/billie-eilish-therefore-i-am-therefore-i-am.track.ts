@@ -5,10 +5,10 @@ export const billieEilishThereforeIAmThereforeIAm = {
   type: "page-type/track",
   slug: "billie-eilish-therefore-i-am-therefore-i-am",
   ownLength: 2.90535,
-  ownProgress: 0,
+  ownProgress: 2.90535,
   partOfCollections: ["release/billie-eilish-therefore-i-am"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

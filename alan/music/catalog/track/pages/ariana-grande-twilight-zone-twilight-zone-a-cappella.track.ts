@@ -5,10 +5,10 @@ export const arianaGrandeTwilightZoneTwilightZoneACappella = {
   type: "page-type/track",
   slug: "ariana-grande-twilight-zone-twilight-zone-a-cappella",
   ownLength: 3.02755,
-  ownProgress: 0,
+  ownProgress: 3.02755,
   partOfCollections: ["release/ariana-grande-twilight-zone"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

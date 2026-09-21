@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveOnlyOne = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-only-one",
   ownLength: 4.626666666666667,
-  ownProgress: 0,
+  ownProgress: 4.626666666666667,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

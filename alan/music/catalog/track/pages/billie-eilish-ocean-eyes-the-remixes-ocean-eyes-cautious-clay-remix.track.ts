@@ -5,10 +5,10 @@ export const billieEilishOceanEyesTheRemixesOceanEyesCautiousClayRemix = {
   type: "page-type/track",
   slug: "billie-eilish-ocean-eyes-the-remixes-ocean-eyes-cautious-clay-remix",
   ownLength: 3.1882166666666665,
-  ownProgress: 0,
+  ownProgress: 3.1882166666666665,
   partOfCollections: ["release/billie-eilish-ocean-eyes-the-remixes"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

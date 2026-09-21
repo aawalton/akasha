@@ -5,10 +5,10 @@ export const thePianoGuys3LiveLetItGoLive = {
   type: "page-type/track",
   slug: "the-piano-guys-3-live-let-it-go-live",
   ownLength: 4.2184333333333335,
-  ownProgress: 0,
+  ownProgress: 4.2184333333333335,
   partOfCollections: ["release/the-piano-guys-3-live"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

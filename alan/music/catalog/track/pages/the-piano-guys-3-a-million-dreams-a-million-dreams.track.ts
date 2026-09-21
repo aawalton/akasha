@@ -5,10 +5,10 @@ export const thePianoGuys3AMillionDreamsAMillionDreams = {
   type: "page-type/track",
   slug: "the-piano-guys-3-a-million-dreams-a-million-dreams",
   ownLength: 4.76395,
-  ownProgress: 0,
+  ownProgress: 4.76395,
   partOfCollections: ["release/the-piano-guys-3-a-million-dreams"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

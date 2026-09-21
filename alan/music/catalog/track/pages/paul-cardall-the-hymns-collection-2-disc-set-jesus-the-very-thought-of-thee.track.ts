@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetJesusTheVeryThoughtOfThee = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-jesus-the-very-thought-of-thee",
   ownLength: 2.6231166666666668,
-  ownProgress: 0,
+  ownProgress: 2.6231166666666668,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 26,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

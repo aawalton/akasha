@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipPreludeInF = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-prelude-in-f",
   ownLength: 2.5582166666666666,
-  ownProgress: 0,
+  ownProgress: 2.5582166666666666,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

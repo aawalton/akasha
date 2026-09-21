@@ -5,10 +5,10 @@ export const coldplayEveryTeardropIsAWaterfall2MovingToMars = {
   type: "page-type/track",
   slug: "coldplay-every-teardrop-is-a-waterfall-2-moving-to-mars",
   ownLength: 4.31455,
-  ownProgress: 0,
+  ownProgress: 4.31455,
   partOfCollections: ["release/coldplay-every-teardrop-is-a-waterfall-2"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

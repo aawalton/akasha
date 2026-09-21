@@ -5,10 +5,10 @@ export const coldplayFixYouPourMeLiveAtTheHollywoodBowl = {
   type: "page-type/track",
   slug: "coldplay-fix-you-pour-me-live-at-the-hollywood-bowl",
   ownLength: 5.022883333333334,
-  ownProgress: 0,
+  ownProgress: 5.022883333333334,
   partOfCollections: ["release/coldplay-fix-you"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

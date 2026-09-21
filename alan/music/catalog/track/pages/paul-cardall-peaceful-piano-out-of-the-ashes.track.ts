@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoOutOfTheAshes = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-out-of-the-ashes",
   ownLength: 3.68955,
-  ownProgress: 0,
+  ownProgress: 3.68955,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

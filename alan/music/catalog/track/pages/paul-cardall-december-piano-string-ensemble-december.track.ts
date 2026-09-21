@@ -5,10 +5,10 @@ export const paulCardallDecemberPianoStringEnsembleDecember = {
   type: "page-type/track",
   slug: "paul-cardall-december-piano-string-ensemble-december",
   ownLength: 3.0777666666666668,
-  ownProgress: 0,
+  ownProgress: 3.0777666666666668,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

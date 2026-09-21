@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysTheCelloSong = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-the-cello-song",
   ownLength: 3.27845,
-  ownProgress: 0,
+  ownProgress: 3.27845,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

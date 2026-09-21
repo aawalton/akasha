@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023WeWereMostlyClowns = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-we-were-mostly-clowns",
   ownLength: 2.1591666666666667,
-  ownProgress: 0,
+  ownProgress: 2.1591666666666667,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

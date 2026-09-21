@@ -5,10 +5,10 @@ export const thePianoGuys3Unstoppable2InTheStars = {
   type: "page-type/track",
   slug: "the-piano-guys-3-unstoppable-2-in-the-stars",
   ownLength: 3.6346,
-  ownProgress: 0,
+  ownProgress: 3.6346,
   partOfCollections: ["release/the-piano-guys-3-unstoppable-2"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

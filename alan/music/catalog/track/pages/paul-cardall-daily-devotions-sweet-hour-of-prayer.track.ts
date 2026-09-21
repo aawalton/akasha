@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsSweetHourOfPrayer = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-sweet-hour-of-prayer",
   ownLength: 3.552,
-  ownProgress: 0,
+  ownProgress: 3.552,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

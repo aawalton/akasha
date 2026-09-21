@@ -5,10 +5,10 @@ export const jamesTaylor2OtherCoversShiverMeTimbers = {
   type: "page-type/track",
   slug: "james-taylor-2-other-covers-shiver-me-timbers",
   ownLength: 4.324883333333333,
-  ownProgress: 0,
+  ownProgress: 4.324883333333333,
   partOfCollections: ["release/james-taylor-2-other-covers"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

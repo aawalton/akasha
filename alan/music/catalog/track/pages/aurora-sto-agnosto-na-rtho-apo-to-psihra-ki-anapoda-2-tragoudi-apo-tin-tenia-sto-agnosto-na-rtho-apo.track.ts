@@ -5,12 +5,12 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTeniaStoAg
   type: "page-type/track",
   slug: "aurora-sto-agnosto-na-rtho-apo-to-psihra-ki-anapoda-2-tragoudi-apo-tin-tenia-sto-agnosto-na-rtho-apo",
   ownLength: 3.2477666666666667,
-  ownProgress: 0,
+  ownProgress: 3.2477666666666667,
   partOfCollections: [
     "release/aurora-sto-agnosto-na-rtho-apo-to-psihra-ki-anapoda-2-tragoudi-apo-tin-tenia",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayGhostStoriesLive2014InkLiveAtLeCasinoDeParisParis = {
   type: "page-type/track",
   slug: "coldplay-ghost-stories-live-2014-ink-live-at-le-casino-de-paris-paris",
   ownLength: 4.156,
-  ownProgress: 0,
+  ownProgress: 4.156,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

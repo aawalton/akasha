@@ -5,10 +5,10 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollensWhatAreWordsF
   type: "page-type/track",
   slug: "the-piano-guys-3-what-are-words-feat-peter-hollens-evynne-hollens-what-are-words-feat-peter-hollens",
   ownLength: 3.6333333333333333,
-  ownProgress: 0,
+  ownProgress: 3.6333333333333333,
   partOfCollections: ["release/the-piano-guys-3-what-are-words-feat-peter-hollens-evynne-hollens"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

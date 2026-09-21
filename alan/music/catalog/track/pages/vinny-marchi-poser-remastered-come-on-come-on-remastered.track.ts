@@ -5,10 +5,10 @@ export const vinnyMarchiPoserRemasteredComeOnComeOnRemastered = {
   type: "page-type/track",
   slug: "vinny-marchi-poser-remastered-come-on-come-on-remastered",
   ownLength: 2.482083333333333,
-  ownProgress: 0,
+  ownProgress: 2.482083333333333,
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

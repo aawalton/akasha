@@ -5,10 +5,10 @@ export const paulCardallLiveFragileLive = {
   type: "page-type/track",
   slug: "paul-cardall-live-fragile-live",
   ownLength: 2.8391,
-  ownProgress: 0,
+  ownProgress: 2.8391,
   partOfCollections: ["release/paul-cardall-live"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

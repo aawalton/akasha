@@ -5,10 +5,10 @@ export const imagineDragonsOriginsDeluxeCoolOut = {
   type: "page-type/track",
   slug: "imagine-dragons-origins-deluxe-cool-out",
   ownLength: 3.6311,
-  ownProgress: 0,
+  ownProgress: 3.6311,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

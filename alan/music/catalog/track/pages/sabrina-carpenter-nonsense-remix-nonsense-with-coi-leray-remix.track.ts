@@ -5,10 +5,10 @@ export const sabrinaCarpenterNonsenseRemixNonsenseWithCoiLerayRemix = {
   type: "page-type/track",
   slug: "sabrina-carpenter-nonsense-remix-nonsense-with-coi-leray-remix",
   ownLength: 2.9274666666666667,
-  ownProgress: 0,
+  ownProgress: 2.9274666666666667,
   partOfCollections: ["release/sabrina-carpenter-nonsense-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

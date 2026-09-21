@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipBonusTrack = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-bonus-track",
   ownLength: 4.423333333333333,
-  ownProgress: 0,
+  ownProgress: 4.423333333333333,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

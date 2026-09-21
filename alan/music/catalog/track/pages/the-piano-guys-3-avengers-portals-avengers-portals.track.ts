@@ -5,10 +5,10 @@ export const thePianoGuys3AvengersPortalsAvengersPortals = {
   type: "page-type/track",
   slug: "the-piano-guys-3-avengers-portals-avengers-portals",
   ownLength: 2.95,
-  ownProgress: 0,
+  ownProgress: 2.95,
   partOfCollections: ["release/the-piano-guys-3-avengers-portals"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

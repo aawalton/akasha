@@ -5,10 +5,10 @@ export const paulCardallHymnsGodBeWithYouTillWeMeetAgain = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-god-be-with-you-till-we-meet-again",
   ownLength: 3.2946666666666666,
-  ownProgress: 0,
+  ownProgress: 3.2946666666666666,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

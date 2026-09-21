@@ -5,10 +5,10 @@ export const coldplayMyloXylotoPrincessOfChina = {
   type: "page-type/track",
   slug: "coldplay-mylo-xyloto-princess-of-china",
   ownLength: 3.9869166666666667,
-  ownProgress: 0,
+  ownProgress: 3.9869166666666667,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

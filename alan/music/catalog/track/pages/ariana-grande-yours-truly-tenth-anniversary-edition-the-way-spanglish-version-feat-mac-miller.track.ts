@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWaySpanglishVersion
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-the-way-spanglish-version-feat-mac-miller",
   ownLength: 3.7806333333333333,
-  ownProgress: 0,
+  ownProgress: 3.7806333333333333,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

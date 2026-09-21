@@ -5,10 +5,10 @@ export const alexandriaLustLust = {
   type: "page-type/track",
   slug: "alexandria-lust-lust",
   ownLength: 1.9215666666666666,
-  ownProgress: 0,
+  ownProgress: 1.9215666666666666,
   partOfCollections: ["release/alexandria-lust"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

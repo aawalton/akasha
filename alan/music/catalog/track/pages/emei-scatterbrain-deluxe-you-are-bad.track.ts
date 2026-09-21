@@ -5,10 +5,10 @@ export const emeiScatterbrainDeluxeYouAreBad = {
   type: "page-type/track",
   slug: "emei-scatterbrain-deluxe-you-are-bad",
   ownLength: 2.3119,
-  ownProgress: 0,
+  ownProgress: 2.3119,
   partOfCollections: ["release/emei-scatterbrain-deluxe"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsWhereYouThere = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-where-you-there",
   ownLength: 5.409766666666667,
-  ownProgress: 0,
+  ownProgress: 5.409766666666667,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

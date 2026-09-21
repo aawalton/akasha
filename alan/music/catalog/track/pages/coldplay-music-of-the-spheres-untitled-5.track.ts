@@ -5,10 +5,10 @@ export const coldplayMusicOfTheSpheresUntitled5 = {
   type: "page-type/track",
   slug: "coldplay-music-of-the-spheres-untitled-5",
   ownLength: 3.769,
-  ownProgress: 0,
+  ownProgress: 3.769,
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

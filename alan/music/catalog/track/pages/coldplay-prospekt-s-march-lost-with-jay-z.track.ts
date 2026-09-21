@@ -5,10 +5,10 @@ export const coldplayProspektSMarchLostWithJayZ = {
   type: "page-type/track",
   slug: "coldplay-prospekt-s-march-lost-with-jay-z",
   ownLength: 4.2818,
-  ownProgress: 0,
+  ownProgress: 4.2818,
   partOfCollections: ["release/coldplay-prospekt-s-march"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

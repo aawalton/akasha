@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandMyTravelingStarLiveAtTheColonialTheatre2007 =
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-my-traveling-star-live-at-the-colonial-theatre-2007",
   ownLength: 4.190433333333333,
-  ownProgress: 0,
+  ownProgress: 4.190433333333333,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

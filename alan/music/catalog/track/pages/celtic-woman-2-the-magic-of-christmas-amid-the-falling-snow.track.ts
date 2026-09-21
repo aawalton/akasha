@@ -5,10 +5,10 @@ export const celticWoman2TheMagicOfChristmasAmidTheFallingSnow = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-magic-of-christmas-amid-the-falling-snow",
   ownLength: 3.7171,
-  ownProgress: 0,
+  ownProgress: 3.7171,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

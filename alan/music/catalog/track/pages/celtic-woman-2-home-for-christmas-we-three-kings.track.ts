@@ -5,10 +5,10 @@ export const celticWoman2HomeForChristmasWeThreeKings = {
   type: "page-type/track",
   slug: "celtic-woman-2-home-for-christmas-we-three-kings",
   ownLength: 3.6193333333333335,
-  ownProgress: 0,
+  ownProgress: 3.6193333333333335,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

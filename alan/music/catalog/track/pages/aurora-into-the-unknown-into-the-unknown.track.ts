@@ -5,10 +5,10 @@ export const auroraIntoTheUnknownIntoTheUnknown = {
   type: "page-type/track",
   slug: "aurora-into-the-unknown-into-the-unknown",
   ownLength: 3.332666666666667,
-  ownProgress: 0,
+  ownProgress: 3.332666666666667,
   partOfCollections: ["release/aurora-into-the-unknown"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetDeluxeBusyWoman = {
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-deluxe-busy-woman",
   ownLength: 3.1102,
-  ownProgress: 0,
+  ownProgress: 3.1102,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraInfectionsOfADifferentKindStepIAllIsSoftInside = {
   type: "page-type/track",
   slug: "aurora-infections-of-a-different-kind-step-i-all-is-soft-inside",
   ownLength: 5.14905,
-  ownProgress: 0,
+  ownProgress: 5.14905,
   partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

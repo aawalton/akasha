@@ -5,10 +5,10 @@ export const thePianoGuys3Unstoppable2NeverGonnaGiveYouUp = {
   type: "page-type/track",
   slug: "the-piano-guys-3-unstoppable-2-never-gonna-give-you-up",
   ownLength: 3.04385,
-  ownProgress: 0,
+  ownProgress: 3.04385,
   partOfCollections: ["release/the-piano-guys-3-unstoppable-2"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

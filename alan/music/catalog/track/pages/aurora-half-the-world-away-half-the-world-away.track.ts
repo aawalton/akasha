@@ -5,10 +5,10 @@ export const auroraHalfTheWorldAwayHalfTheWorldAway = {
   type: "page-type/track",
   slug: "aurora-half-the-world-away-half-the-world-away",
   ownLength: 3.302216666666667,
-  ownProgress: 0,
+  ownProgress: 3.302216666666667,
   partOfCollections: ["release/aurora-half-the-world-away"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

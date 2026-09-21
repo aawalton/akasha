@@ -5,10 +5,10 @@ export const coldplayTalkTalkFrancoisKDub = {
   type: "page-type/track",
   slug: "coldplay-talk-talk-francois-k-dub",
   ownLength: 9.060216666666667,
-  ownProgress: 0,
+  ownProgress: 9.060216666666667,
   partOfCollections: ["release/coldplay-talk"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

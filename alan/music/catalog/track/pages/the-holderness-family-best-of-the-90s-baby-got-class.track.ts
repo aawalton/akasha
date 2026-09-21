@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe90sBabyGotClass = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-90s-baby-got-class",
   ownLength: 2.2008,
-  ownProgress: 0,
+  ownProgress: 2.2008,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

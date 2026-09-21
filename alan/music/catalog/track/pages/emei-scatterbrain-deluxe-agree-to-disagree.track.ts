@@ -5,10 +5,10 @@ export const emeiScatterbrainDeluxeAgreeToDisagree = {
   type: "page-type/track",
   slug: "emei-scatterbrain-deluxe-agree-to-disagree",
   ownLength: 2.371783333333333,
-  ownProgress: 0,
+  ownProgress: 2.371783333333333,
   partOfCollections: ["release/emei-scatterbrain-deluxe"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

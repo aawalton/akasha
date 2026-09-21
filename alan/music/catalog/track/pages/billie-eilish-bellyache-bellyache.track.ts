@@ -5,10 +5,10 @@ export const billieEilishBellyacheBellyache = {
   type: "page-type/track",
   slug: "billie-eilish-bellyache-bellyache",
   ownLength: 2.9862,
-  ownProgress: 0,
+  ownProgress: 2.9862,
   partOfCollections: ["release/billie-eilish-bellyache"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

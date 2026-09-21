@@ -5,10 +5,10 @@ export const coldplayLive2012UsAgainstTheWorldLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-us-against-the-world-live",
   ownLength: 3.87,
-  ownProgress: 0,
+  ownProgress: 3.87,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

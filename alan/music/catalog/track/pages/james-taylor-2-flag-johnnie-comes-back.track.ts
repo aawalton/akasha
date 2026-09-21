@@ -5,10 +5,10 @@ export const jamesTaylor2FlagJohnnieComesBack = {
   type: "page-type/track",
   slug: "james-taylor-2-flag-johnnie-comes-back",
   ownLength: 3.9,
-  ownProgress: 0,
+  ownProgress: 3.9,
   partOfCollections: ["release/james-taylor-2-flag"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

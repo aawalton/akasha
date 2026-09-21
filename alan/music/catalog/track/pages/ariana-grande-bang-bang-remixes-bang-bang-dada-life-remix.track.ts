@@ -5,10 +5,10 @@ export const arianaGrandeBangBangRemixesBangBangDadaLifeRemix = {
   type: "page-type/track",
   slug: "ariana-grande-bang-bang-remixes-bang-bang-dada-life-remix",
   ownLength: 3.5731,
-  ownProgress: 0,
+  ownProgress: 3.5731,
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

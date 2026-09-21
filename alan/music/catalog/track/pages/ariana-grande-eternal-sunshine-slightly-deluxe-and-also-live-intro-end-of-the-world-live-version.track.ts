@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveIntroEndOfTheWo
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-intro-end-of-the-world-live-version",
   ownLength: 1.7118333333333333,
-  ownProgress: 0,
+  ownProgress: 1.7118333333333333,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

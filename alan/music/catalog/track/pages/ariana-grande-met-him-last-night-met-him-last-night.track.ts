@@ -5,10 +5,10 @@ export const arianaGrandeMetHimLastNightMetHimLastNight = {
   type: "page-type/track",
   slug: "ariana-grande-met-him-last-night-met-him-last-night",
   ownLength: 3.4105166666666666,
-  ownProgress: 0,
+  ownProgress: 3.4105166666666666,
   partOfCollections: ["release/ariana-grande-met-him-last-night"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandCarolinaInMyMindLiveAtTheColonialTheatre2007 
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-carolina-in-my-mind-live-at-the-colonial-theatre-2007",
   ownLength: 5.068216666666666,
-  ownProgress: 0,
+  ownProgress: 5.068216666666666,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraExistForLoveRemixesExistForLoveDjBorisRemix = {
   type: "page-type/track",
   slug: "aurora-exist-for-love-remixes-exist-for-love-dj-boris-remix",
   ownLength: 3.9386666666666668,
-  ownProgress: 0,
+  ownProgress: 3.9386666666666668,
   partOfCollections: ["release/aurora-exist-for-love-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

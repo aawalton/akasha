@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipIAmAChildOfGod = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-i-am-a-child-of-god",
   ownLength: 5.830883333333333,
-  ownProgress: 0,
+  ownProgress: 5.830883333333333,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

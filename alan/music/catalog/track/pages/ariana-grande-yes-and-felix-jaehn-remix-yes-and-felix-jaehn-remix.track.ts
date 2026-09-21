@@ -5,10 +5,10 @@ export const arianaGrandeYesAndFelixJaehnRemixYesAndFelixJaehnRemix = {
   type: "page-type/track",
   slug: "ariana-grande-yes-and-felix-jaehn-remix-yes-and-felix-jaehn-remix",
   ownLength: 3.9231666666666665,
-  ownProgress: 0,
+  ownProgress: 3.9231666666666665,
   partOfCollections: ["release/ariana-grande-yes-and-felix-jaehn-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

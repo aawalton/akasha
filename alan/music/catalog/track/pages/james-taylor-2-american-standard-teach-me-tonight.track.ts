@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardTeachMeTonight = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-teach-me-tonight",
   ownLength: 2.98,
-  ownProgress: 0,
+  ownProgress: 2.98,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

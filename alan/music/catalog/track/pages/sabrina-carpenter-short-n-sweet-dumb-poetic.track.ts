@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetDumbPoetic = {
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-dumb-poetic",
   ownLength: 2.2246333333333332,
-  ownProgress: 0,
+  ownProgress: 2.2246333333333332,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3ChristmasTogetherTheManger = {
   type: "page-type/track",
   slug: "the-piano-guys-3-christmas-together-the-manger",
   ownLength: 4.0072833333333335,
-  ownProgress: 0,
+  ownProgress: 4.0072833333333335,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

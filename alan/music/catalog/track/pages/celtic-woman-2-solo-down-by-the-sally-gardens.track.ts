@@ -5,10 +5,10 @@ export const celticWoman2SoloDownByTheSallyGardens = {
   type: "page-type/track",
   slug: "celtic-woman-2-solo-down-by-the-sally-gardens",
   ownLength: 3.5342666666666664,
-  ownProgress: 0,
+  ownProgress: 3.5342666666666664,
   partOfCollections: ["release/celtic-woman-2-solo"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

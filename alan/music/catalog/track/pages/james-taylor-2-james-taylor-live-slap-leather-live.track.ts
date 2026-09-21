@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveSlapLeatherLive = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-slap-leather-live",
   ownLength: 2.148216666666667,
-  ownProgress: 0,
+  ownProgress: 2.148216666666667,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

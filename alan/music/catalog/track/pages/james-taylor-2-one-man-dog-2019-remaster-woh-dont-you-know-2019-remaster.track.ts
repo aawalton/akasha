@@ -5,10 +5,10 @@ export const jamesTaylor2OneManDog2019RemasterWohDontYouKnow2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-one-man-dog-2019-remaster-woh-dont-you-know-2019-remaster",
   ownLength: 2.189783333333333,
-  ownProgress: 0,
+  ownProgress: 2.189783333333333,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

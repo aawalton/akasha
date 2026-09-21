@@ -5,10 +5,10 @@ export const celticWoman2VoicesOfAngelsForTheLoveOfAPrincess = {
   type: "page-type/track",
   slug: "celtic-woman-2-voices-of-angels-for-the-love-of-a-princess",
   ownLength: 3.8204333333333333,
-  ownProgress: 0,
+  ownProgress: 3.8204333333333333,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

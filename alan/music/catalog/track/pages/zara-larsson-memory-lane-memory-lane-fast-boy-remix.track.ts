@@ -5,10 +5,10 @@ export const zaraLarssonMemoryLaneMemoryLaneFastBoyRemix = {
   type: "page-type/track",
   slug: "zara-larsson-memory-lane-memory-lane-fast-boy-remix",
   ownLength: 2.2450666666666668,
-  ownProgress: 0,
+  ownProgress: 2.2450666666666668,
   partOfCollections: ["release/zara-larsson-memory-lane"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

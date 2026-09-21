@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetLieToGirls = {
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-lie-to-girls",
   ownLength: 3.3666833333333335,
-  ownProgress: 0,
+  ownProgress: 3.3666833333333335,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayLiveFromSpotifyLondonAdventureOfALifetimeLiveFromSpotifyLon
   type: "page-type/track",
   slug: "coldplay-live-from-spotify-london-adventure-of-a-lifetime-live-from-spotify-london",
   ownLength: 4.310216666666666,
-  ownProgress: 0,
+  ownProgress: 4.310216666666666,
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

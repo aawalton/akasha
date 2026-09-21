@@ -5,10 +5,10 @@ export const paulCardallChillCollectionWasatch = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-wasatch",
   ownLength: 3.60925,
-  ownProgress: 0,
+  ownProgress: 3.60925,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

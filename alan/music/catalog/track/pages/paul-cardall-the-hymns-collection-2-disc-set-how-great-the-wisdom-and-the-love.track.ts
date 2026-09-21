@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetHowGreatTheWisdomAndTheLove = 
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-how-great-the-wisdom-and-the-love",
   ownLength: 2.442,
-  ownProgress: 0,
+  ownProgress: 2.442,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

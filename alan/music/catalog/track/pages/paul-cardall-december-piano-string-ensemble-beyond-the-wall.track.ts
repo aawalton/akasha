@@ -5,10 +5,10 @@ export const paulCardallDecemberPianoStringEnsembleBeyondTheWall = {
   type: "page-type/track",
   slug: "paul-cardall-december-piano-string-ensemble-beyond-the-wall",
   ownLength: 3.4731,
-  ownProgress: 0,
+  ownProgress: 3.4731,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

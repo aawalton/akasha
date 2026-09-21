@@ -5,10 +5,10 @@ export const thePianoGuys3TheMissionHowGreatThouArtTheMissionHowGreatThouArt = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-mission-how-great-thou-art-the-mission-how-great-thou-art",
   ownLength: 3.3592833333333334,
-  ownProgress: 0,
+  ownProgress: 3.3592833333333334,
   partOfCollections: ["release/the-piano-guys-3-the-mission-how-great-thou-art"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

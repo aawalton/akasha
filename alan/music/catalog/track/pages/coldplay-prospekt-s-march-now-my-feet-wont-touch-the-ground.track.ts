@@ -5,10 +5,10 @@ export const coldplayProspektSMarchNowMyFeetWontTouchTheGround = {
   type: "page-type/track",
   slug: "coldplay-prospekt-s-march-now-my-feet-wont-touch-the-ground",
   ownLength: 2.4586833333333336,
-  ownProgress: 0,
+  ownProgress: 2.4586833333333336,
   partOfCollections: ["release/coldplay-prospekt-s-march"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

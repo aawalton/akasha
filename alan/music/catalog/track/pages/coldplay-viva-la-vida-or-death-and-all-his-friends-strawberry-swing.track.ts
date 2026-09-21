@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsStrawberrySwing = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-or-death-and-all-his-friends-strawberry-swing",
   ownLength: 4.1611,
-  ownProgress: 0,
+  ownProgress: 4.1611,
   partOfCollections: ["release/coldplay-viva-la-vida-or-death-and-all-his-friends"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

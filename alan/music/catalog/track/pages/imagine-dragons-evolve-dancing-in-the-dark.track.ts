@@ -5,10 +5,10 @@ export const imagineDragonsEvolveDancingInTheDark = {
   type: "page-type/track",
   slug: "imagine-dragons-evolve-dancing-in-the-dark",
   ownLength: 3.8988833333333335,
-  ownProgress: 0,
+  ownProgress: 3.8988833333333335,
   partOfCollections: ["release/imagine-dragons-evolve"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

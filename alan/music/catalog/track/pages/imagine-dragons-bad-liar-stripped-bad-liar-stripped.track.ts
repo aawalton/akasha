@@ -5,10 +5,10 @@ export const imagineDragonsBadLiarStrippedBadLiarStripped = {
   type: "page-type/track",
   slug: "imagine-dragons-bad-liar-stripped-bad-liar-stripped",
   ownLength: 4.22045,
-  ownProgress: 0,
+  ownProgress: 4.22045,
   partOfCollections: ["release/imagine-dragons-bad-liar-stripped"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

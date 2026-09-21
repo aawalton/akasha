@@ -5,10 +5,10 @@ export const jamesTaylor2ThatSWhyIMHereMona = {
   type: "page-type/track",
   slug: "james-taylor-2-that-s-why-i-m-here-mona",
   ownLength: 2.81555,
-  ownProgress: 0,
+  ownProgress: 2.81555,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

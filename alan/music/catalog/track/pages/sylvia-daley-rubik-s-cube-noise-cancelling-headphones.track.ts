@@ -5,10 +5,10 @@ export const sylviaDaleyRubikSCubeNoiseCancellingHeadphones = {
   type: "page-type/track",
   slug: "sylvia-daley-rubik-s-cube-noise-cancelling-headphones",
   ownLength: 2.9577,
-  ownProgress: 0,
+  ownProgress: 2.9577,
   partOfCollections: ["release/sylvia-daley-rubik-s-cube"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

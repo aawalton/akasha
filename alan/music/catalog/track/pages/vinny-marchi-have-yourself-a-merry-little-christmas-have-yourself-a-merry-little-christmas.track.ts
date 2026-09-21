@@ -5,10 +5,10 @@ export const vinnyMarchiHaveYourselfAMerryLittleChristmasHaveYourselfAMerryLittl
   type: "page-type/track",
   slug: "vinny-marchi-have-yourself-a-merry-little-christmas-have-yourself-a-merry-little-christmas",
   ownLength: 2.70115,
-  ownProgress: 0,
+  ownProgress: 2.70115,
   partOfCollections: ["release/vinny-marchi-have-yourself-a-merry-little-christmas"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

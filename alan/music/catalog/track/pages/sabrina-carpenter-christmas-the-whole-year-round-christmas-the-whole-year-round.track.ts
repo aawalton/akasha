@@ -5,10 +5,10 @@ export const sabrinaCarpenterChristmasTheWholeYearRoundChristmasTheWholeYearRoun
   type: "page-type/track",
   slug: "sabrina-carpenter-christmas-the-whole-year-round-christmas-the-whole-year-round",
   ownLength: 2.9904333333333333,
-  ownProgress: 0,
+  ownProgress: 2.9904333333333333,
   partOfCollections: ["release/sabrina-carpenter-christmas-the-whole-year-round"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

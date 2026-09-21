@@ -5,10 +5,10 @@ export const emeiEndOfAnEraFerrisBueller = {
   type: "page-type/track",
   slug: "emei-end-of-an-era-ferris-bueller",
   ownLength: 1.954,
-  ownProgress: 0,
+  ownProgress: 1.954,
   partOfCollections: ["release/emei-end-of-an-era"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

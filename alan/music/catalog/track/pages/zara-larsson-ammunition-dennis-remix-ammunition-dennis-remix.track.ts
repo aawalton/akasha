@@ -5,10 +5,10 @@ export const zaraLarssonAmmunitionDennisRemixAmmunitionDennisRemix = {
   type: "page-type/track",
   slug: "zara-larsson-ammunition-dennis-remix-ammunition-dennis-remix",
   ownLength: 2.3160833333333333,
-  ownProgress: 0,
+  ownProgress: 2.3160833333333333,
   partOfCollections: ["release/zara-larsson-ammunition-dennis-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

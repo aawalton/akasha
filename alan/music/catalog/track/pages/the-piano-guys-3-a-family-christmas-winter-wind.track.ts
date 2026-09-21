@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasWinterWind = {
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-winter-wind",
   ownLength: 4.445416666666667,
-  ownProgress: 0,
+  ownProgress: 4.445416666666667,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,12 +5,12 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version-intro-end-of-the-4",
   ownLength: 2.6875333333333336,
-  ownProgress: 0,
+  ownProgress: 2.6875333333333336,
   partOfCollections: [
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
   ],
   position: 33,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

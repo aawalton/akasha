@@ -5,10 +5,10 @@ export const thePianoGuys3LullabyHarmoniousBlacksmith = {
   type: "page-type/track",
   slug: "the-piano-guys-3-lullaby-harmonious-blacksmith",
   ownLength: 2.53845,
-  ownProgress: 0,
+  ownProgress: 2.53845,
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

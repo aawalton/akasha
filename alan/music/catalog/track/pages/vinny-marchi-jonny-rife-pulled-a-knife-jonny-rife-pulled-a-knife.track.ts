@@ -5,10 +5,10 @@ export const vinnyMarchiJonnyRifePulledAKnifeJonnyRifePulledAKnife = {
   type: "page-type/track",
   slug: "vinny-marchi-jonny-rife-pulled-a-knife-jonny-rife-pulled-a-knife",
   ownLength: 3.0166666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0166666666666666,
   partOfCollections: ["release/vinny-marchi-jonny-rife-pulled-a-knife"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

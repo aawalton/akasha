@@ -5,10 +5,10 @@ export const paulCardallChristmasDreamingJesuJoyOfMansDesiringBwv147ClassicalGui
   type: "page-type/track",
   slug: "paul-cardall-christmas-dreaming-jesu-joy-of-mans-desiring-bwv-147-classical-guitar",
   ownLength: 4.099283333333333,
-  ownProgress: 0,
+  ownProgress: 4.099283333333333,
   partOfCollections: ["release/paul-cardall-christmas-dreaming"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

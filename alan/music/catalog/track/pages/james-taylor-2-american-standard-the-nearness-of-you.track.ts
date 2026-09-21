@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardTheNearnessOfYou = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-the-nearness-of-you",
   ownLength: 3.8724333333333334,
-  ownProgress: 0,
+  ownProgress: 3.8724333333333334,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenue = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-honeymoon-avenue",
   ownLength: 5.662233333333333,
-  ownProgress: 0,
+  ownProgress: 5.662233333333333,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

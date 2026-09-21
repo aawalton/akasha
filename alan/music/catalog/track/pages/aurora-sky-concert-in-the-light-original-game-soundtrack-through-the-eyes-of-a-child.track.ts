@@ -5,10 +5,10 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackThroughTheEyesOfACh
   type: "page-type/track",
   slug: "aurora-sky-concert-in-the-light-original-game-soundtrack-through-the-eyes-of-a-child",
   ownLength: 4.566666666666666,
-  ownProgress: 0,
+  ownProgress: 4.566666666666666,
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

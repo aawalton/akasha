@@ -5,10 +5,10 @@ export const vinnyMarchiHoldingOnToYouHoldingOnToYou = {
   type: "page-type/track",
   slug: "vinny-marchi-holding-on-to-you-holding-on-to-you",
   ownLength: 2.8812333333333333,
-  ownProgress: 0,
+  ownProgress: 2.8812333333333333,
   partOfCollections: ["release/vinny-marchi-holding-on-to-you"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

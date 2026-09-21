@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandSweetBabyJamesLiveAtTheColonialTheatre2007 = 
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-sweet-baby-james-live-at-the-colonial-theatre-2007",
   ownLength: 3.685766666666667,
-  ownProgress: 0,
+  ownProgress: 3.685766666666667,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

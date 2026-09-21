@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionDaydreaminLiveFromLond
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-daydreamin-live-from-london",
   ownLength: 3.505,
-  ownProgress: 0,
+  ownProgress: 3.505,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const theHoldernessFamilyIMAdultingImAdulting = {
   type: "page-type/track",
   slug: "the-holderness-family-i-m-adulting-im-adulting",
   ownLength: 2.700616666666667,
-  ownProgress: 0,
+  ownProgress: 2.700616666666667,
   partOfCollections: ["release/the-holderness-family-i-m-adulting"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

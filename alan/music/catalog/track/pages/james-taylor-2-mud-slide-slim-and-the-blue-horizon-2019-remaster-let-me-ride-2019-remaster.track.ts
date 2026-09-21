@@ -5,10 +5,10 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLetMeRide2019R
   type: "page-type/track",
   slug: "james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster-let-me-ride-2019-remaster",
   ownLength: 2.73555,
-  ownProgress: 0,
+  ownProgress: 2.73555,
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3LimitlessFlicker = {
   type: "page-type/track",
   slug: "the-piano-guys-3-limitless-flicker",
   ownLength: 3.27555,
-  ownProgress: 0,
+  ownProgress: 3.27555,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveSheThinksIStillCare = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-she-thinks-i-still-care",
   ownLength: 3.4177666666666666,
-  ownProgress: 0,
+  ownProgress: 3.4177666666666666,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

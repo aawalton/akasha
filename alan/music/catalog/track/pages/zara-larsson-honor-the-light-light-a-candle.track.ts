@@ -5,10 +5,10 @@ export const zaraLarssonHonorTheLightLightACandle = {
   type: "page-type/track",
   slug: "zara-larsson-honor-the-light-light-a-candle",
   ownLength: 3.1788833333333333,
-  ownProgress: 0,
+  ownProgress: 3.1788833333333333,
   partOfCollections: ["release/zara-larsson-honor-the-light"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

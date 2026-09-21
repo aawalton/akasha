@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysCodeNameVivaldi = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-code-name-vivaldi",
   ownLength: 4.114616666666667,
-  ownProgress: 0,
+  ownProgress: 4.114616666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

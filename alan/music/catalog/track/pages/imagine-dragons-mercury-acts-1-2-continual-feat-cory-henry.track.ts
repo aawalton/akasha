@@ -5,10 +5,10 @@ export const imagineDragonsMercuryActs12ContinualFeatCoryHenry = {
   type: "page-type/track",
   slug: "imagine-dragons-mercury-acts-1-2-continual-feat-cory-henry",
   ownLength: 3.8251166666666667,
-  ownProgress: 0,
+  ownProgress: 3.8251166666666667,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

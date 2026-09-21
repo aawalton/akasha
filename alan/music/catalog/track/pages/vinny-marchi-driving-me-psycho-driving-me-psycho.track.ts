@@ -5,10 +5,10 @@ export const vinnyMarchiDrivingMePsychoDrivingMePsycho = {
   type: "page-type/track",
   slug: "vinny-marchi-driving-me-psycho-driving-me-psycho",
   ownLength: 3.4726833333333333,
-  ownProgress: 0,
+  ownProgress: 3.4726833333333333,
   partOfCollections: ["release/vinny-marchi-driving-me-psycho"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

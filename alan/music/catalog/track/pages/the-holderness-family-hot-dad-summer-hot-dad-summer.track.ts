@@ -5,10 +5,10 @@ export const theHoldernessFamilyHotDadSummerHotDadSummer = {
   type: "page-type/track",
   slug: "the-holderness-family-hot-dad-summer-hot-dad-summer",
   ownLength: 2.9035,
-  ownProgress: 0,
+  ownProgress: 2.9035,
   partOfCollections: ["release/the-holderness-family-hot-dad-summer"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

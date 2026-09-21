@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadWarm = {
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-warm",
   ownLength: 3.365083333333333,
-  ownProgress: 0,
+  ownProgress: 3.365083333333333,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

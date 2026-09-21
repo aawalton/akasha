@@ -5,10 +5,10 @@ export const coldplayEverglowEverglow = {
   type: "page-type/track",
   slug: "coldplay-everglow-everglow",
   ownLength: 5.03,
-  ownProgress: 0,
+  ownProgress: 5.03,
   partOfCollections: ["release/coldplay-everglow"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

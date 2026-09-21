@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeNothingLeftToSa
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-nothing-left-to-say-rocks-medley",
   ownLength: 8.991766666666667,
-  ownProgress: 0,
+  ownProgress: 8.991766666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

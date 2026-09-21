@@ -5,10 +5,10 @@ export const zaraLarssonEndOfTimeSpinallRemixEndOfTimeSpinallRemix = {
   type: "page-type/track",
   slug: "zara-larsson-end-of-time-spinall-remix-end-of-time-spinall-remix",
   ownLength: 3.68775,
-  ownProgress: 0,
+  ownProgress: 3.68775,
   partOfCollections: ["release/zara-larsson-end-of-time-spinall-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

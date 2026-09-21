@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsPolitikRe
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-demons-politik-remix",
   ownLength: 4.392,
-  ownProgress: 0,
+  ownProgress: 4.392,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

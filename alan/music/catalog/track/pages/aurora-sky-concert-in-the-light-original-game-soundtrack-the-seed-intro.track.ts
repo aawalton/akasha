@@ -5,10 +5,10 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheSeedIntro = {
   type: "page-type/track",
   slug: "aurora-sky-concert-in-the-light-original-game-soundtrack-the-seed-intro",
   ownLength: 0.4166666666666667,
-  ownProgress: 0,
+  ownProgress: 0.4166666666666667,
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

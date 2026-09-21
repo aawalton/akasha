@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodTg4m = {
   type: "page-type/track",
   slug: "zara-larsson-so-good-tg4m",
   ownLength: 2.8816,
-  ownProgress: 0,
+  ownProgress: 2.8816,
   partOfCollections: ["release/zara-larsson-so-good"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

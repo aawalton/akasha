@@ -5,10 +5,10 @@ export const sabrinaCarpenterEvolutionSpace = {
   type: "page-type/track",
   slug: "sabrina-carpenter-evolution-space",
   ownLength: 3.1048833333333334,
-  ownProgress: 0,
+  ownProgress: 3.1048833333333334,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleFindingMyWay = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-finding-my-way",
   ownLength: 4.384666666666667,
-  ownProgress: 0,
+  ownProgress: 4.384666666666667,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsStandstill = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-standstill",
   ownLength: 2.080433333333333,
-  ownProgress: 0,
+  ownProgress: 2.080433333333333,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

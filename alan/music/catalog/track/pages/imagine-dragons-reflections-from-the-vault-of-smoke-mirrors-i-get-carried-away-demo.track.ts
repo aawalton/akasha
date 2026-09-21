@@ -5,10 +5,10 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsIGetCarriedAwayD
   type: "page-type/track",
   slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors-i-get-carried-away-demo",
   ownLength: 3.2430666666666665,
-  ownProgress: 0,
+  ownProgress: 3.2430666666666665,
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

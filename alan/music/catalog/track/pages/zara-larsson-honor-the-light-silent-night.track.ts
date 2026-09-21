@@ -5,10 +5,10 @@ export const zaraLarssonHonorTheLightSilentNight = {
   type: "page-type/track",
   slug: "zara-larsson-honor-the-light-silent-night",
   ownLength: 1.7011,
-  ownProgress: 0,
+  ownProgress: 1.7011,
   partOfCollections: ["release/zara-larsson-honor-the-light"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

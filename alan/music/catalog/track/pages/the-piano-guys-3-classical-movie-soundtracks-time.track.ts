@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalMovieSoundtracksTime = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-movie-soundtracks-time",
   ownLength: 4.2,
-  ownProgress: 0,
+  ownProgress: 4.2,
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

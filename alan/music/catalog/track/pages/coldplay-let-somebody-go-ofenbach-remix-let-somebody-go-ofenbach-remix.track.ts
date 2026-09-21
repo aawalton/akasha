@@ -5,10 +5,10 @@ export const coldplayLetSomebodyGoOfenbachRemixLetSomebodyGoOfenbachRemix = {
   type: "page-type/track",
   slug: "coldplay-let-somebody-go-ofenbach-remix-let-somebody-go-ofenbach-remix",
   ownLength: 3.24145,
-  ownProgress: 0,
+  ownProgress: 3.24145,
   partOfCollections: ["release/coldplay-let-somebody-go-ofenbach-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

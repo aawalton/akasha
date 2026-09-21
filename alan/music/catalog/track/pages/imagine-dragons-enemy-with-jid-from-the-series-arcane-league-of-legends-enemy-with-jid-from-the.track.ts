@@ -5,12 +5,12 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegendsEnemyWi
   type: "page-type/track",
   slug: "imagine-dragons-enemy-with-jid-from-the-series-arcane-league-of-legends-enemy-with-jid-from-the",
   ownLength: 2.889683333333333,
-  ownProgress: 0,
+  ownProgress: 2.889683333333333,
   partOfCollections: [
     "release/imagine-dragons-enemy-with-jid-from-the-series-arcane-league-of-legends",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

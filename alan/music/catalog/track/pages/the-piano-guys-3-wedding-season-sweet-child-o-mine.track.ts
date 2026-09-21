@@ -5,10 +5,10 @@ export const thePianoGuys3WeddingSeasonSweetChildOMine = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wedding-season-sweet-child-o-mine",
   ownLength: 4.329166666666667,
-  ownProgress: 0,
+  ownProgress: 4.329166666666667,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   position: 19,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

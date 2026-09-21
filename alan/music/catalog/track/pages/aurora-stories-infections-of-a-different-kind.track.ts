@@ -5,10 +5,10 @@ export const auroraStoriesInfectionsOfADifferentKind = {
   type: "page-type/track",
   slug: "aurora-stories-infections-of-a-different-kind",
   ownLength: 5.448483333333333,
-  ownProgress: 0,
+  ownProgress: 5.448483333333333,
   partOfCollections: ["release/aurora-stories"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

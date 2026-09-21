@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandChiliDogLiveAtTheColonialTheatre2007 = {
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-chili-dog-live-at-the-colonial-theatre-2007",
   ownLength: 1.9551,
-  ownProgress: 0,
+  ownProgress: 1.9551,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

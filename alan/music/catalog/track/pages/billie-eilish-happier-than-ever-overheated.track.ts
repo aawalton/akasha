@@ -5,10 +5,10 @@ export const billieEilishHappierThanEverOverheated = {
   type: "page-type/track",
   slug: "billie-eilish-happier-than-ever-overheated",
   ownLength: 3.567633333333333,
-  ownProgress: 0,
+  ownProgress: 3.567633333333333,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

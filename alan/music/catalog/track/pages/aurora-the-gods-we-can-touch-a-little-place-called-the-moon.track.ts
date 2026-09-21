@@ -5,10 +5,10 @@ export const auroraTheGodsWeCanTouchALittlePlaceCalledTheMoon = {
   type: "page-type/track",
   slug: "aurora-the-gods-we-can-touch-a-little-place-called-the-moon",
   ownLength: 4.178216666666667,
-  ownProgress: 0,
+  ownProgress: 4.178216666666667,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const chaislynSidetrackedSidetracked = {
   type: "page-type/track",
   slug: "chaislyn-sidetracked-sidetracked",
   ownLength: 2.9923,
-  ownProgress: 0,
+  ownProgress: 2.9923,
   partOfCollections: ["release/chaislyn-sidetracked"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

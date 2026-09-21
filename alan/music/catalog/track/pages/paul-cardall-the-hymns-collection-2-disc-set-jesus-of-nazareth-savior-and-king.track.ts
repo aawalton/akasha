@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetJesusOfNazarethSaviorAndKing =
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-jesus-of-nazareth-savior-and-king",
   ownLength: 2.3923666666666668,
-  ownProgress: 0,
+  ownProgress: 2.3923666666666668,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

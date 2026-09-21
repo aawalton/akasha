@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversaryAStorMoChroi20thAnniversary = {
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-a-stor-mo-chroi-20th-anniversary",
   ownLength: 5.094216666666667,
-  ownProgress: 0,
+  ownProgress: 5.094216666666667,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

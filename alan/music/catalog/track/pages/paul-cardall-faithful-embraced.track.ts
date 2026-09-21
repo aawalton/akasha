@@ -5,10 +5,10 @@ export const paulCardallFaithfulEmbraced = {
   type: "page-type/track",
   slug: "paul-cardall-faithful-embraced",
   ownLength: 3.1886666666666668,
-  ownProgress: 0,
+  ownProgress: 3.1886666666666668,
   partOfCollections: ["release/paul-cardall-faithful"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

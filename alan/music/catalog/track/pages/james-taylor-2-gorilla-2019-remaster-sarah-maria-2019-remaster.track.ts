@@ -5,10 +5,10 @@ export const jamesTaylor2Gorilla2019RemasterSarahMaria2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-gorilla-2019-remaster-sarah-maria-2019-remaster",
   ownLength: 2.7573333333333334,
-  ownProgress: 0,
+  ownProgress: 2.7573333333333334,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

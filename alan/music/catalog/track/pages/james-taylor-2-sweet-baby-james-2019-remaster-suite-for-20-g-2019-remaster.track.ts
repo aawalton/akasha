@@ -5,10 +5,10 @@ export const jamesTaylor2SweetBabyJames2019RemasterSuiteFor20G2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-sweet-baby-james-2019-remaster-suite-for-20-g-2019-remaster",
   ownLength: 4.77555,
-  ownProgress: 0,
+  ownProgress: 4.77555,
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

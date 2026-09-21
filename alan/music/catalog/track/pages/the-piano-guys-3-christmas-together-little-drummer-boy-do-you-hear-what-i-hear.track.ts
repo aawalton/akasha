@@ -5,10 +5,10 @@ export const thePianoGuys3ChristmasTogetherLittleDrummerBoyDoYouHearWhatIHear = 
   type: "page-type/track",
   slug: "the-piano-guys-3-christmas-together-little-drummer-boy-do-you-hear-what-i-hear",
   ownLength: 3.9010333333333334,
-  ownProgress: 0,
+  ownProgress: 3.9010333333333334,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

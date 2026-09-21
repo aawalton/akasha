@@ -5,10 +5,10 @@ export const celticWoman2AncientLandDeluxeBeanPhaidin = {
   type: "page-type/track",
   slug: "celtic-woman-2-ancient-land-deluxe-bean-phaidin",
   ownLength: 3.282216666666667,
-  ownProgress: 0,
+  ownProgress: 3.282216666666667,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   position: 22,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

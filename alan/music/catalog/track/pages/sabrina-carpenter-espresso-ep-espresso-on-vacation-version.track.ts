@@ -5,10 +5,10 @@ export const sabrinaCarpenterEspressoEpEspressoOnVacationVersion = {
   type: "page-type/track",
   slug: "sabrina-carpenter-espresso-ep-espresso-on-vacation-version",
   ownLength: 2.9243166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9243166666666665,
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

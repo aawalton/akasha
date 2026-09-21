@@ -5,10 +5,10 @@ export const coldplayTroubleShiverJoWhileyLunchtimeSocial = {
   type: "page-type/track",
   slug: "coldplay-trouble-shiver-jo-whiley-lunchtime-social",
   ownLength: 4.356,
-  ownProgress: 0,
+  ownProgress: 4.356,
   partOfCollections: ["release/coldplay-trouble"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

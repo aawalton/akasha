@@ -5,10 +5,10 @@ export const arianaGrandePositionsDeluxeSomeoneLikeUInterlude = {
   type: "page-type/track",
   slug: "ariana-grande-positions-deluxe-someone-like-u-interlude",
   ownLength: 1.2790333333333332,
-  ownProgress: 0,
+  ownProgress: 1.2790333333333332,
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

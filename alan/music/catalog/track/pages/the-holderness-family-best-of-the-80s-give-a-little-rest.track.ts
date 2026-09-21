@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sGiveALittleRest = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-give-a-little-rest",
   ownLength: 1.9883333333333333,
-  ownProgress: 0,
+  ownProgress: 1.9883333333333333,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

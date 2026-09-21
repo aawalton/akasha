@@ -5,10 +5,10 @@ export const zaraLarssonUncoverRooftop = {
   type: "page-type/track",
   slug: "zara-larsson-uncover-rooftop",
   ownLength: 3.9922666666666666,
-  ownProgress: 0,
+  ownProgress: 3.9922666666666666,
   partOfCollections: ["release/zara-larsson-uncover"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

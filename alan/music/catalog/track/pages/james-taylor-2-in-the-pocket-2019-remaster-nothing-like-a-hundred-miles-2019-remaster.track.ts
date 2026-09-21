@@ -5,10 +5,10 @@ export const jamesTaylor2InThePocket2019RemasterNothingLikeAHundredMiles2019Rema
   type: "page-type/track",
   slug: "james-taylor-2-in-the-pocket-2019-remaster-nothing-like-a-hundred-miles-2019-remaster",
   ownLength: 3.7186666666666666,
-  ownProgress: 0,
+  ownProgress: 3.7186666666666666,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

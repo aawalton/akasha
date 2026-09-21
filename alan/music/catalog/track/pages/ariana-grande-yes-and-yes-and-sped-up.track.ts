@@ -5,10 +5,10 @@ export const arianaGrandeYesAndYesAndSpedUp = {
   type: "page-type/track",
   slug: "ariana-grande-yes-and-yes-and-sped-up",
   ownLength: 3.231116666666667,
-  ownProgress: 0,
+  ownProgress: 3.231116666666667,
   partOfCollections: ["release/ariana-grande-yes-and"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

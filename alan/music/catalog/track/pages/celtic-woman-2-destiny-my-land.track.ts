@@ -5,10 +5,10 @@ export const celticWoman2DestinyMyLand = {
   type: "page-type/track",
   slug: "celtic-woman-2-destiny-my-land",
   ownLength: 4.082333333333334,
-  ownProgress: 0,
+  ownProgress: 4.082333333333334,
   partOfCollections: ["release/celtic-woman-2-destiny"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

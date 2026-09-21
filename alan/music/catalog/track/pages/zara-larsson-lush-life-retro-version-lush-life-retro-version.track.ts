@@ -5,10 +5,10 @@ export const zaraLarssonLushLifeRetroVersionLushLifeRetroVersion = {
   type: "page-type/track",
   slug: "zara-larsson-lush-life-retro-version-lush-life-retro-version",
   ownLength: 3.2308833333333333,
-  ownProgress: 0,
+  ownProgress: 3.2308833333333333,
   partOfCollections: ["release/zara-larsson-lush-life-retro-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

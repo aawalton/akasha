@@ -6,10 +6,10 @@ export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrackAtlasFromTheHu
     type: "page-type/track",
     slug: "coldplay-atlas-from-the-hunger-games-catching-fire-soundtrack-atlas-from-the-hunger-games-catching",
     ownLength: 3.9348833333333335,
-    ownProgress: 0,
+    ownProgress: 3.9348833333333335,
     partOfCollections: ["release/coldplay-atlas-from-the-hunger-games-catching-fire-soundtrack"],
     position: 1,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

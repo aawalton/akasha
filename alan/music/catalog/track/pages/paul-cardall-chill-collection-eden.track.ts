@@ -5,10 +5,10 @@ export const paulCardallChillCollectionEden = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-eden",
   ownLength: 3.4368333333333334,
-  ownProgress: 0,
+  ownProgress: 3.4368333333333334,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

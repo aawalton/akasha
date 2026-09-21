@@ -5,10 +5,10 @@ export const thePianoGuys3LimitlessInMyBloodSwanLake = {
   type: "page-type/track",
   slug: "the-piano-guys-3-limitless-in-my-blood-swan-lake",
   ownLength: 3.9497833333333334,
-  ownProgress: 0,
+  ownProgress: 3.9497833333333334,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

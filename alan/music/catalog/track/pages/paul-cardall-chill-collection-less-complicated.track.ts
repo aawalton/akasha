@@ -5,10 +5,10 @@ export const paulCardallChillCollectionLessComplicated = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-less-complicated",
   ownLength: 4.334133333333333,
-  ownProgress: 0,
+  ownProgress: 4.334133333333333,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

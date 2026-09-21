@@ -5,10 +5,10 @@ export const vinnyMarchiLeaveThisPartyLeaveThisParty = {
   type: "page-type/track",
   slug: "vinny-marchi-leave-this-party-leave-this-party",
   ownLength: 3.99125,
-  ownProgress: 0,
+  ownProgress: 3.99125,
   partOfCollections: ["release/vinny-marchi-leave-this-party"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

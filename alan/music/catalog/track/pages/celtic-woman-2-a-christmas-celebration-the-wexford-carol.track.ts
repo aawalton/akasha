@@ -5,10 +5,10 @@ export const celticWoman2AChristmasCelebrationTheWexfordCarol = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-christmas-celebration-the-wexford-carol",
   ownLength: 3.0688833333333334,
-  ownProgress: 0,
+  ownProgress: 3.0688833333333334,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

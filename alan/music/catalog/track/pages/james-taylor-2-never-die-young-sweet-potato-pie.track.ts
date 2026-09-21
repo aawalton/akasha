@@ -5,10 +5,10 @@ export const jamesTaylor2NeverDieYoungSweetPotatoPie = {
   type: "page-type/track",
   slug: "james-taylor-2-never-die-young-sweet-potato-pie",
   ownLength: 3.5137666666666667,
-  ownProgress: 0,
+  ownProgress: 3.5137666666666667,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

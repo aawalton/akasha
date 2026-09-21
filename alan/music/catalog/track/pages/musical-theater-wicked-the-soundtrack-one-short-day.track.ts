@@ -5,10 +5,10 @@ export const musicalTheaterWickedTheSoundtrackOneShortDay = {
   type: "page-type/track",
   slug: "musical-theater-wicked-the-soundtrack-one-short-day",
   ownLength: 6.544466666666667,
-  ownProgress: 0,
+  ownProgress: 6.544466666666667,
   partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

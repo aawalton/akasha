@@ -5,10 +5,10 @@ export const zaraLarssonCanTTameHerDjSmallz732JerseyClubRemixCantTameHerDjSmallz
   type: "page-type/track",
   slug: "zara-larsson-can-t-tame-her-dj-smallz-732-jersey-club-remix-cant-tame-her-dj-smallz-732-jersey-club",
   ownLength: 2.5132,
-  ownProgress: 0,
+  ownProgress: 2.5132,
   partOfCollections: ["release/zara-larsson-can-t-tame-her-dj-smallz-732-jersey-club-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

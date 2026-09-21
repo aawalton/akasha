@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetDeluxePleasePleasePleaseFeatDollyParton 
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-deluxe-please-please-please-feat-dolly-parton",
   ownLength: 3.0689333333333333,
-  ownProgress: 0,
+  ownProgress: 3.0689333333333333,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2CelticWomanSiDoMhaimeoILive = {
   type: "page-type/track",
   slug: "celtic-woman-2-celtic-woman-si-do-mhaimeo-i-live",
   ownLength: 2.2208833333333335,
-  ownProgress: 0,
+  ownProgress: 2.2208833333333335,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

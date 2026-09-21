@@ -5,10 +5,10 @@ export const jamesTaylor2JtIWasOnlyTellingALie = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-i-was-only-telling-a-lie",
   ownLength: 3.417116666666667,
-  ownProgress: 0,
+  ownProgress: 3.417116666666667,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

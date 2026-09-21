@@ -5,10 +5,10 @@ export const jamesTaylor2NewMoonShineEverybodyLovesToChaChaCha = {
   type: "page-type/track",
   slug: "james-taylor-2-new-moon-shine-everybody-loves-to-cha-cha-cha",
   ownLength: 3.612216666666667,
-  ownProgress: 0,
+  ownProgress: 3.612216666666667,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsMercuryActs12PeaceOfMind = {
   type: "page-type/track",
   slug: "imagine-dragons-mercury-acts-1-2-peace-of-mind",
   ownLength: 2.8988,
-  ownProgress: 0,
+  ownProgress: 2.8988,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

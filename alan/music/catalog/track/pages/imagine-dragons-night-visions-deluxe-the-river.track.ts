@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsDeluxeTheRiver = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-deluxe-the-river",
   ownLength: 3.4004333333333334,
-  ownProgress: 0,
+  ownProgress: 3.4004333333333334,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

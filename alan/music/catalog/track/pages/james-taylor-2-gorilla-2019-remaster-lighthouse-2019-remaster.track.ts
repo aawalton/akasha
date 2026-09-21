@@ -5,10 +5,10 @@ export const jamesTaylor2Gorilla2019RemasterLighthouse2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-gorilla-2019-remaster-lighthouse-2019-remaster",
   ownLength: 3.267333333333333,
-  ownProgress: 0,
+  ownProgress: 3.267333333333333,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

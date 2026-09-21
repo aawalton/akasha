@@ -5,10 +5,10 @@ export const vinnyMarchiTalesOfTheLesbianHunterBearDontCareInterlude = {
   type: "page-type/track",
   slug: "vinny-marchi-tales-of-the-lesbian-hunter-bear-dont-care-interlude",
   ownLength: 1.1804,
-  ownProgress: 0,
+  ownProgress: 1.1804,
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

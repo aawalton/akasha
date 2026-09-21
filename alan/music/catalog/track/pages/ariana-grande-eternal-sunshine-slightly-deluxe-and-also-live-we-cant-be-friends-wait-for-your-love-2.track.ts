@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveWeCantBeFriends
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-we-cant-be-friends-wait-for-your-love-2",
   ownLength: 3.40115,
-  ownProgress: 0,
+  ownProgress: 3.40115,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
   position: 23,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3LiveAThousandYearsIntroductionLive = {
   type: "page-type/track",
   slug: "the-piano-guys-3-live-a-thousand-years-introduction-live",
   ownLength: 0.7711,
-  ownProgress: 0,
+  ownProgress: 0.7711,
   partOfCollections: ["release/the-piano-guys-3-live"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterEspressoEpEspressoDecafVersion = {
   type: "page-type/track",
   slug: "sabrina-carpenter-espresso-ep-espresso-decaf-version",
   ownLength: 3.2452666666666667,
-  ownProgress: 0,
+  ownProgress: 3.2452666666666667,
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

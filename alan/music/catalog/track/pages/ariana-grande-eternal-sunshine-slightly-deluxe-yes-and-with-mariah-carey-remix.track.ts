@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeYesAndWithMariahCareyRemix
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-yes-and-with-mariah-carey-remix",
   ownLength: 3.5832333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5832333333333333,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

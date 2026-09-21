@@ -5,10 +5,10 @@ export const vinnyMarchiTheLetGoTheLetGo = {
   type: "page-type/track",
   slug: "vinny-marchi-the-let-go-the-let-go",
   ownLength: 3.3539666666666665,
-  ownProgress: 0,
+  ownProgress: 3.3539666666666665,
   partOfCollections: ["release/vinny-marchi-the-let-go"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

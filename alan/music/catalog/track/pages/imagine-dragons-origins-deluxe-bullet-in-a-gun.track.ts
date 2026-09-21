@@ -5,10 +5,10 @@ export const imagineDragonsOriginsDeluxeBulletInAGun = {
   type: "page-type/track",
   slug: "imagine-dragons-origins-deluxe-bullet-in-a-gun",
   ownLength: 3.4142166666666665,
-  ownProgress: 0,
+  ownProgress: 3.4142166666666665,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

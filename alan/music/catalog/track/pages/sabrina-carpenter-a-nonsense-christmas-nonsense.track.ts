@@ -5,10 +5,10 @@ export const sabrinaCarpenterANonsenseChristmasNonsense = {
   type: "page-type/track",
   slug: "sabrina-carpenter-a-nonsense-christmas-nonsense",
   ownLength: 2.7274666666666665,
-  ownProgress: 0,
+  ownProgress: 2.7274666666666665,
   partOfCollections: ["release/sabrina-carpenter-a-nonsense-christmas"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

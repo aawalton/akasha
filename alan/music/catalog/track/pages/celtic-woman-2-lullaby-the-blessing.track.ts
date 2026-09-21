@@ -5,10 +5,10 @@ export const celticWoman2LullabyTheBlessing = {
   type: "page-type/track",
   slug: "celtic-woman-2-lullaby-the-blessing",
   ownLength: 3.862,
-  ownProgress: 0,
+  ownProgress: 3.862,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

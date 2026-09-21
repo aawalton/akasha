@@ -5,10 +5,10 @@ export const jamesTaylor2InThePocket2019RemasterWomansGottaHaveIt2019Remaster = 
   type: "page-type/track",
   slug: "james-taylor-2-in-the-pocket-2019-remaster-womans-gotta-have-it-2019-remaster",
   ownLength: 4.336883333333334,
-  ownProgress: 0,
+  ownProgress: 4.336883333333334,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

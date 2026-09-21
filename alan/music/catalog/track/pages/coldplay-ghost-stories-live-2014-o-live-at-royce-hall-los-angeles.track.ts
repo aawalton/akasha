@@ -5,10 +5,10 @@ export const coldplayGhostStoriesLive2014OLiveAtRoyceHallLosAngeles = {
   type: "page-type/track",
   slug: "coldplay-ghost-stories-live-2014-o-live-at-royce-hall-los-angeles",
   ownLength: 5.6011,
-  ownProgress: 0,
+  ownProgress: 5.6011,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

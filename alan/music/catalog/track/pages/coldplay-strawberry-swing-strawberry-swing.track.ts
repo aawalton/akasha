@@ -5,10 +5,10 @@ export const coldplayStrawberrySwingStrawberrySwing = {
   type: "page-type/track",
   slug: "coldplay-strawberry-swing-strawberry-swing",
   ownLength: 4.1611,
-  ownProgress: 0,
+  ownProgress: 4.1611,
   partOfCollections: ["release/coldplay-strawberry-swing"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

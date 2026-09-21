@@ -5,10 +5,10 @@ export const zaraLarssonOnlyYouRemixesOnlyYouOrchestralVersion = {
   type: "page-type/track",
   slug: "zara-larsson-only-you-remixes-only-you-orchestral-version",
   ownLength: 3.789816666666667,
-  ownProgress: 0,
+  ownProgress: 3.789816666666667,
   partOfCollections: ["release/zara-larsson-only-you-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

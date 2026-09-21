@@ -5,10 +5,10 @@ export const coldplayEverydayLifeOrphans = {
   type: "page-type/track",
   slug: "coldplay-everyday-life-orphans",
   ownLength: 3.2922166666666666,
-  ownProgress: 0,
+  ownProgress: 3.2922166666666666,
   partOfCollections: ["release/coldplay-everyday-life"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

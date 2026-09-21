@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandSlapLeatherLiveAtTheColonialTheatre2007 = {
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-slap-leather-live-at-the-colonial-theatre-2007",
   ownLength: 3.1228833333333332,
-  ownProgress: 0,
+  ownProgress: 3.1228833333333332,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

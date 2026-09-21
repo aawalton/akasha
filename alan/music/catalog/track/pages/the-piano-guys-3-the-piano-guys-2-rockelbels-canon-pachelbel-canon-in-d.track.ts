@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuys2RockelbelsCanonPachelbelCanonInD = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-2-rockelbels-canon-pachelbel-canon-in-d",
   ownLength: 3.810416666666667,
-  ownProgress: 0,
+  ownProgress: 3.810416666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

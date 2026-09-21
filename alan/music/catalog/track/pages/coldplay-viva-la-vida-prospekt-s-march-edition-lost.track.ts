@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaProspektSMarchEditionLost = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-prospekt-s-march-edition-lost",
   ownLength: 3.9368833333333333,
-  ownProgress: 0,
+  ownProgress: 3.9368833333333333,
   partOfCollections: ["release/coldplay-viva-la-vida-prospekt-s-march-edition"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallChristmasOComeOComeEmmanuel = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-o-come-o-come-emmanuel",
   ownLength: 4.2462,
-  ownProgress: 0,
+  ownProgress: 4.2462,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveSlowedDown = {
   type: "page-type/track",
   slug: "zara-larsson-on-my-love-the-remixes-on-my-love-slowed-down",
   ownLength: 4.179583333333333,
-  ownProgress: 0,
+  ownProgress: 4.179583333333333,
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

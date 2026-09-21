@@ -5,10 +5,10 @@ export const paulCardallTheLookingGlassTheWomanInTheSnow = {
   type: "page-type/track",
   slug: "paul-cardall-the-looking-glass-the-woman-in-the-snow",
   ownLength: 3.717766666666667,
-  ownProgress: 0,
+  ownProgress: 3.717766666666667,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

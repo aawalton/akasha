@@ -5,10 +5,10 @@ export const coldplayProspektSMarchGlassOfWater = {
   type: "page-type/track",
   slug: "coldplay-prospekt-s-march-glass-of-water",
   ownLength: 4.7484166666666665,
-  ownProgress: 0,
+  ownProgress: 4.7484166666666665,
   partOfCollections: ["release/coldplay-prospekt-s-march"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

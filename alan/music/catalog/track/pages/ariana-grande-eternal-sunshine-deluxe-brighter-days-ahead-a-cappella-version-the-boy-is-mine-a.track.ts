@@ -5,12 +5,12 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version-the-boy-is-mine-a",
   ownLength: 2.7330833333333335,
-  ownProgress: 0,
+  ownProgress: 2.7330833333333335,
   partOfCollections: [
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
   ],
   position: 27,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

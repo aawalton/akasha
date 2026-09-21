@@ -5,10 +5,10 @@ export const paulCardallGraceInGriefMarysLament = {
   type: "page-type/track",
   slug: "paul-cardall-grace-in-grief-marys-lament",
   ownLength: 5.118233333333333,
-  ownProgress: 0,
+  ownProgress: 5.118233333333333,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

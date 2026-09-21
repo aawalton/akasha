@@ -5,10 +5,10 @@ export const jamesTaylor2InThePocket2019RemasterCaptainJimsDrunkenDream2019Remas
   type: "page-type/track",
   slug: "james-taylor-2-in-the-pocket-2019-remaster-captain-jims-drunken-dream-2019-remaster",
   ownLength: 4.0591,
-  ownProgress: 0,
+  ownProgress: 4.0591,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

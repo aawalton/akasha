@@ -5,10 +5,10 @@ export const coldplayProspektSMarchRainyDay = {
   type: "page-type/track",
   slug: "coldplay-prospekt-s-march-rainy-day",
   ownLength: 3.4333666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4333666666666667,
   partOfCollections: ["release/coldplay-prospekt-s-march"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

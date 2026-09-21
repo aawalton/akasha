@@ -5,10 +5,10 @@ export const thePianoGuys3LimitlessNorthCape = {
   type: "page-type/track",
   slug: "the-piano-guys-3-limitless-north-cape",
   ownLength: 2.9937,
-  ownProgress: 0,
+  ownProgress: 2.9937,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

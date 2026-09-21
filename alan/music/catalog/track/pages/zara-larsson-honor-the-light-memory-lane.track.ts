@@ -5,10 +5,10 @@ export const zaraLarssonHonorTheLightMemoryLane = {
   type: "page-type/track",
   slug: "zara-larsson-honor-the-light-memory-lane",
   ownLength: 3.2022166666666667,
-  ownProgress: 0,
+  ownProgress: 3.2022166666666667,
   partOfCollections: ["release/zara-larsson-honor-the-light"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

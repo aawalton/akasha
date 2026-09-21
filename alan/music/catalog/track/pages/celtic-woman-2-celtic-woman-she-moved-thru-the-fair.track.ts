@@ -5,10 +5,10 @@ export const celticWoman2CelticWomanSheMovedThruTheFair = {
   type: "page-type/track",
   slug: "celtic-woman-2-celtic-woman-she-moved-thru-the-fair",
   ownLength: 3.5153333333333334,
-  ownProgress: 0,
+  ownProgress: 3.5153333333333334,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

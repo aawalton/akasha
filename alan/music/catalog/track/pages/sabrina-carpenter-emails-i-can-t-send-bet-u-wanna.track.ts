@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendBetUWanna = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-bet-u-wanna",
   ownLength: 3.18375,
-  ownProgress: 0,
+  ownProgress: 3.18375,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

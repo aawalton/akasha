@@ -5,10 +5,10 @@ export const coldplayTalk2Talk = {
   type: "page-type/track",
   slug: "coldplay-talk-2-talk",
   ownLength: 4.426433333333334,
-  ownProgress: 0,
+  ownProgress: 4.426433333333334,
   partOfCollections: ["release/coldplay-talk-2"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

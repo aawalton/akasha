@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsDeluxeHearMe = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-deluxe-hear-me",
   ownLength: 3.8706666666666667,
-  ownProgress: 0,
+  ownProgress: 3.8706666666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

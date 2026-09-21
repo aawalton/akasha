@@ -5,10 +5,10 @@ export const thePianoGuys3WondersSummerJam = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wonders-summer-jam",
   ownLength: 3.8971,
-  ownProgress: 0,
+  ownProgress: 3.8971,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

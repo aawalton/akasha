@@ -5,10 +5,10 @@ export const zaraLarssonAinTMyFaultR3habRemixAintMyFaultR3habRemix = {
   type: "page-type/track",
   slug: "zara-larsson-ain-t-my-fault-r3hab-remix-aint-my-fault-r3hab-remix",
   ownLength: 2.6462,
-  ownProgress: 0,
+  ownProgress: 2.6462,
   partOfCollections: ["release/zara-larsson-ain-t-my-fault-r3hab-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

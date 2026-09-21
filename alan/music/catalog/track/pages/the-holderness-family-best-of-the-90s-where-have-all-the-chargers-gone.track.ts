@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe90sWhereHaveAllTheChargersGone = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-90s-where-have-all-the-chargers-gone",
   ownLength: 2.0079333333333333,
-  ownProgress: 0,
+  ownProgress: 2.0079333333333333,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

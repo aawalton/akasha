@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardAsEasyAsRollingOffALog = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-as-easy-as-rolling-off-a-log",
   ownLength: 2.8404333333333334,
-  ownProgress: 0,
+  ownProgress: 2.8404333333333334,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

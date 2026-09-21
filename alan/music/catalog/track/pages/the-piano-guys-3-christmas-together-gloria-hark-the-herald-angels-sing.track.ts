@@ -5,10 +5,10 @@ export const thePianoGuys3ChristmasTogetherGloriaHarkTheHeraldAngelsSing = {
   type: "page-type/track",
   slug: "the-piano-guys-3-christmas-together-gloria-hark-the-herald-angels-sing",
   ownLength: 3.8979166666666667,
-  ownProgress: 0,
+  ownProgress: 3.8979166666666667,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

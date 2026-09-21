@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoTheWayOut = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-the-way-out",
   ownLength: 4.272216666666667,
-  ownProgress: 0,
+  ownProgress: 4.272216666666667,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

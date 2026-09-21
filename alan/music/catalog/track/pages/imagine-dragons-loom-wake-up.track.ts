@@ -5,10 +5,10 @@ export const imagineDragonsLoomWakeUp = {
   type: "page-type/track",
   slug: "imagine-dragons-loom-wake-up",
   ownLength: 2.7784333333333335,
-  ownProgress: 0,
+  ownProgress: 2.7784333333333335,
   partOfCollections: ["release/imagine-dragons-loom"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

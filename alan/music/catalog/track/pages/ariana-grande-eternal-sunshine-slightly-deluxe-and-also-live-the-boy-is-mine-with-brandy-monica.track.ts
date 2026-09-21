@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveTheBoyIsMineWit
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-the-boy-is-mine-with-brandy-monica",
   ownLength: 3.5564,
-  ownProgress: 0,
+  ownProgress: 3.5564,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

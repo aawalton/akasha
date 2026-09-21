@@ -5,10 +5,10 @@ export const coldplayMyUniverseMyUniverseAcousticVersion = {
   type: "page-type/track",
   slug: "coldplay-my-universe-my-universe-acoustic-version",
   ownLength: 3.7211333333333334,
-  ownProgress: 0,
+  ownProgress: 3.7211333333333334,
   partOfCollections: ["release/coldplay-my-universe"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

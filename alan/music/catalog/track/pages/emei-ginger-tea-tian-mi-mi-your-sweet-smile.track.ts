@@ -5,10 +5,10 @@ export const emeiGingerTeaTianMiMiYourSweetSmile = {
   type: "page-type/track",
   slug: "emei-ginger-tea-tian-mi-mi-your-sweet-smile",
   ownLength: 1.0644333333333333,
-  ownProgress: 0,
+  ownProgress: 1.0644333333333333,
   partOfCollections: ["release/emei-ginger-tea"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

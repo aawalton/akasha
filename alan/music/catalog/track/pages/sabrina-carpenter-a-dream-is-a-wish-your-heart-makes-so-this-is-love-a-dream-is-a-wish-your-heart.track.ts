@@ -5,12 +5,12 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLoveADreamIsAWis
   type: "page-type/track",
   slug: "sabrina-carpenter-a-dream-is-a-wish-your-heart-makes-so-this-is-love-a-dream-is-a-wish-your-heart",
   ownLength: 2.49955,
-  ownProgress: 0,
+  ownProgress: 2.49955,
   partOfCollections: [
     "release/sabrina-carpenter-a-dream-is-a-wish-your-heart-makes-so-this-is-love",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayOverturaOverturaMusicOfTheSpheresAlbumTrailer = {
   type: "page-type/track",
   slug: "coldplay-overtura-overtura-music-of-the-spheres-album-trailer",
   ownLength: 1.8802,
-  ownProgress: 0,
+  ownProgress: 1.8802,
   partOfCollections: ["release/coldplay-overtura"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

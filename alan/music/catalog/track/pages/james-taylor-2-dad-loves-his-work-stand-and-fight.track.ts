@@ -5,10 +5,10 @@ export const jamesTaylor2DadLovesHisWorkStandAndFight = {
   type: "page-type/track",
   slug: "james-taylor-2-dad-loves-his-work-stand-and-fight",
   ownLength: 3.1726666666666667,
-  ownProgress: 0,
+  ownProgress: 3.1726666666666667,
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

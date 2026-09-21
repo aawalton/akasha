@@ -5,10 +5,10 @@ export const thePianoGuys3WeddingSeasonRiverFlowsInYou = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wedding-season-river-flows-in-you",
   ownLength: 3.1565,
-  ownProgress: 0,
+  ownProgress: 3.1565,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

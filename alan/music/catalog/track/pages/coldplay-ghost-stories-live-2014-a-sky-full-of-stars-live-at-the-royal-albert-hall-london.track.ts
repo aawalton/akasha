@@ -5,10 +5,10 @@ export const coldplayGhostStoriesLive2014ASkyFullOfStarsLiveAtTheRoyalAlbertHall
   type: "page-type/track",
   slug: "coldplay-ghost-stories-live-2014-a-sky-full-of-stars-live-at-the-royal-albert-hall-london",
   ownLength: 4.637766666666667,
-  ownProgress: 0,
+  ownProgress: 4.637766666666667,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

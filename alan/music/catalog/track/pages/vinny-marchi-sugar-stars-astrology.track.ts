@@ -5,10 +5,10 @@ export const vinnyMarchiSugarStarsAstrology = {
   type: "page-type/track",
   slug: "vinny-marchi-sugar-stars-astrology",
   ownLength: 3.36105,
-  ownProgress: 0,
+  ownProgress: 3.36105,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

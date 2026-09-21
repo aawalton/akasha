@@ -5,10 +5,10 @@ export const celticWoman2EmeraldMusicalGemsTheNewGround = {
   type: "page-type/track",
   slug: "celtic-woman-2-emerald-musical-gems-the-new-ground",
   ownLength: 2.0591,
-  ownProgress: 0,
+  ownProgress: 2.0591,
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

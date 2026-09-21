@@ -5,10 +5,10 @@ export const coldplayParachutesYellow = {
   type: "page-type/track",
   slug: "coldplay-parachutes-yellow",
   ownLength: 4.4462166666666665,
-  ownProgress: 0,
+  ownProgress: 4.4462166666666665,
   partOfCollections: ["release/coldplay-parachutes"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

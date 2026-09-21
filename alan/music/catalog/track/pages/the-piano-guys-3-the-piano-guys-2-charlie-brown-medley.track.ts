@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuys2CharlieBrownMedley = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-2-charlie-brown-medley",
   ownLength: 3.066666666666667,
-  ownProgress: 0,
+  ownProgress: 3.066666666666667,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

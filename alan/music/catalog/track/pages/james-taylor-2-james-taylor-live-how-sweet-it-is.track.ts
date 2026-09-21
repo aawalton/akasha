@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveHowSweetItIs = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-how-sweet-it-is",
   ownLength: 6.99555,
-  ownProgress: 0,
+  ownProgress: 6.99555,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

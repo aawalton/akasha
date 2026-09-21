@@ -5,10 +5,10 @@ export const coldplayMoonMusicFullMoonEditionIaam = {
   type: "page-type/track",
   slug: "coldplay-moon-music-full-moon-edition-iaam",
   ownLength: 3.0561833333333333,
-  ownProgress: 0,
+  ownProgress: 3.0561833333333333,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayLive2003EverythingsNotLostLiveInSydney = {
   type: "page-type/track",
   slug: "coldplay-live-2003-everythings-not-lost-live-in-sydney",
   ownLength: 8.7971,
-  ownProgress: 0,
+  ownProgress: 8.7971,
   partOfCollections: ["release/coldplay-live-2003"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jisooEyesClosedWithZaynBareUnveiledEyesClosedWithZaynUnveiled = {
   type: "page-type/track",
   slug: "jisoo-eyes-closed-with-zayn-bare-unveiled-eyes-closed-with-zayn-unveiled",
   ownLength: 3.0232666666666668,
-  ownProgress: 0,
+  ownProgress: 3.0232666666666668,
   partOfCollections: ["release/jisoo-eyes-closed-with-zayn-bare-unveiled"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

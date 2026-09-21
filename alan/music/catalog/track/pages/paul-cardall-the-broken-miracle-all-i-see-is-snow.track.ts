@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleAllISeeIsSnow = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-all-i-see-is-snow",
   ownLength: 4.556,
-  ownProgress: 0,
+  ownProgress: 4.556,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

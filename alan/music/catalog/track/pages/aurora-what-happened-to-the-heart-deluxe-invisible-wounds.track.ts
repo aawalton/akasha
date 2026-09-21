@@ -5,10 +5,10 @@ export const auroraWhatHappenedToTheHeartDeluxeInvisibleWounds = {
   type: "page-type/track",
   slug: "aurora-what-happened-to-the-heart-deluxe-invisible-wounds",
   ownLength: 4.988433333333333,
-  ownProgress: 0,
+  ownProgress: 4.988433333333333,
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActIAlmostLove = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-i-almost-love",
   ownLength: 3.5393333333333334,
-  ownProgress: 0,
+  ownProgress: 3.5393333333333334,
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyPiano = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-piano",
   ownLength: 3.9071,
-  ownProgress: 0,
+  ownProgress: 3.9071,
   partOfCollections: ["release/ariana-grande-yours-truly"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

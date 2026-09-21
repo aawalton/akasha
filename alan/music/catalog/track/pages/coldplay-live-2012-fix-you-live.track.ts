@@ -5,10 +5,10 @@ export const coldplayLive2012FixYouLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-fix-you-live",
   ownLength: 5.010883333333333,
-  ownProgress: 0,
+  ownProgress: 5.010883333333333,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

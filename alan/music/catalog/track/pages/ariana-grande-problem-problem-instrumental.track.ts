@@ -5,10 +5,10 @@ export const arianaGrandeProblemProblemInstrumental = {
   type: "page-type/track",
   slug: "ariana-grande-problem-problem-instrumental",
   ownLength: 3.2228166666666667,
-  ownProgress: 0,
+  ownProgress: 3.2228166666666667,
   partOfCollections: ["release/ariana-grande-problem"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

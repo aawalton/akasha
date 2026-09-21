@@ -5,10 +5,10 @@ export const paulCardallASacredChristmasPianoCollectionAChangeOfHeart = {
   type: "page-type/track",
   slug: "paul-cardall-a-sacred-christmas-piano-collection-a-change-of-heart",
   ownLength: 3.8709,
-  ownProgress: 0,
+  ownProgress: 3.8709,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

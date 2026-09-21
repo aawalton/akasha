@@ -5,10 +5,10 @@ export const paulCardallHymnsTheRelease = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-the-release",
   ownLength: 3.3924333333333334,
-  ownProgress: 0,
+  ownProgress: 3.3924333333333334,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

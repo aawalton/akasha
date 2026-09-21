@@ -5,10 +5,10 @@ export const auroraRunawayGuitarAcousticRunawayGuitarAcoustic = {
   type: "page-type/track",
   slug: "aurora-runaway-guitar-acoustic-runaway-guitar-acoustic",
   ownLength: 4.329983333333334,
-  ownProgress: 0,
+  ownProgress: 4.329983333333334,
   partOfCollections: ["release/aurora-runaway-guitar-acoustic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

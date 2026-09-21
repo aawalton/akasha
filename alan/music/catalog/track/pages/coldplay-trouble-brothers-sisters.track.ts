@@ -5,10 +5,10 @@ export const coldplayTroubleBrothersSisters = {
   type: "page-type/track",
   slug: "coldplay-trouble-brothers-sisters",
   ownLength: 4.816666666666666,
-  ownProgress: 0,
+  ownProgress: 4.816666666666666,
   partOfCollections: ["release/coldplay-trouble"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

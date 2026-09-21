@@ -5,10 +5,10 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInsideOutr
   type: "page-type/track",
   slug: "aurora-sky-concert-in-the-light-original-game-soundtrack-all-is-soft-inside-outro",
   ownLength: 0.9,
-  ownProgress: 0,
+  ownProgress: 0.9,
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

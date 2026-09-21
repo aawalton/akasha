@@ -5,10 +5,10 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLongAgoAndFarA
   type: "page-type/track",
   slug: "james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster-long-ago-and-far-away-2019-remaster",
   ownLength: 2.34955,
-  ownProgress: 0,
+  ownProgress: 2.34955,
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

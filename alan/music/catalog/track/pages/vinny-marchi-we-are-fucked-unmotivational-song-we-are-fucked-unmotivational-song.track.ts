@@ -5,10 +5,10 @@ export const vinnyMarchiWeAreFuckedUnmotivationalSongWeAreFuckedUnmotivationalSo
   type: "page-type/track",
   slug: "vinny-marchi-we-are-fucked-unmotivational-song-we-are-fucked-unmotivational-song",
   ownLength: 2.8,
-  ownProgress: 0,
+  ownProgress: 2.8,
   partOfCollections: ["release/vinny-marchi-we-are-fucked-unmotivational-song"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

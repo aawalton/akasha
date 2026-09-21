@@ -5,10 +5,10 @@ export const paulCardallTheCelebrateLifeConcertLiveJerusalemLive = {
   type: "page-type/track",
   slug: "paul-cardall-the-celebrate-life-concert-live-jerusalem-live",
   ownLength: 5.994233333333334,
-  ownProgress: 0,
+  ownProgress: 5.994233333333334,
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

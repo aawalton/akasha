@@ -5,10 +5,10 @@ export const auroraADifferentKindOfHumanStepIiTheSeed = {
   type: "page-type/track",
   slug: "aurora-a-different-kind-of-human-step-ii-the-seed",
   ownLength: 4.449483333333333,
-  ownProgress: 0,
+  ownProgress: 4.449483333333333,
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

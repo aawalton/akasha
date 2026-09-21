@@ -5,10 +5,10 @@ export const jamesTaylor2NeverDieYoungLetterInTheMail = {
   type: "page-type/track",
   slug: "james-taylor-2-never-die-young-letter-in-the-mail",
   ownLength: 4.68555,
-  ownProgress: 0,
+  ownProgress: 4.68555,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const vinnyMarchiMeetUThereMeetUThere = {
   type: "page-type/track",
   slug: "vinny-marchi-meet-u-there-meet-u-there",
   ownLength: 2.8,
-  ownProgress: 0,
+  ownProgress: 2.8,
   partOfCollections: ["release/vinny-marchi-meet-u-there"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

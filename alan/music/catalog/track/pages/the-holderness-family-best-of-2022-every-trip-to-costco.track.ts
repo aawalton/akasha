@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022EveryTripToCostco = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-every-trip-to-costco",
   ownLength: 2.714,
-  ownProgress: 0,
+  ownProgress: 2.714,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

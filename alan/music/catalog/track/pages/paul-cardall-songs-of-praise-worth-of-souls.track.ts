@@ -5,10 +5,10 @@ export const paulCardallSongsOfPraiseWorthOfSouls = {
   type: "page-type/track",
   slug: "paul-cardall-songs-of-praise-worth-of-souls",
   ownLength: 4.382883333333333,
-  ownProgress: 0,
+  ownProgress: 4.382883333333333,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

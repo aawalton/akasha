@@ -5,10 +5,10 @@ export const paulCardallSavingTinyHeartsPassingTime = {
   type: "page-type/track",
   slug: "paul-cardall-saving-tiny-hearts-passing-time",
   ownLength: 3.9771,
-  ownProgress: 0,
+  ownProgress: 3.9771,
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

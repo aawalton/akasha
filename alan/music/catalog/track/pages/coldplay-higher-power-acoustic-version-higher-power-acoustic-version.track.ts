@@ -5,10 +5,10 @@ export const coldplayHigherPowerAcousticVersionHigherPowerAcousticVersion = {
   type: "page-type/track",
   slug: "coldplay-higher-power-acoustic-version-higher-power-acoustic-version",
   ownLength: 3.5737833333333335,
-  ownProgress: 0,
+  ownProgress: 3.5737833333333335,
   partOfCollections: ["release/coldplay-higher-power-acoustic-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

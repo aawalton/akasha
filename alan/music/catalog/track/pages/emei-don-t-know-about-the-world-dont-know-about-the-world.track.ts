@@ -5,10 +5,10 @@ export const emeiDonTKnowAboutTheWorldDontKnowAboutTheWorld = {
   type: "page-type/track",
   slug: "emei-don-t-know-about-the-world-dont-know-about-the-world",
   ownLength: 2.3949333333333334,
-  ownProgress: 0,
+  ownProgress: 2.3949333333333334,
   partOfCollections: ["release/emei-don-t-know-about-the-world"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

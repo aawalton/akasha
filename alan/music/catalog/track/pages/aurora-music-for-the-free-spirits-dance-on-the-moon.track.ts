@@ -5,10 +5,10 @@ export const auroraMusicForTheFreeSpiritsDanceOnTheMoon = {
   type: "page-type/track",
   slug: "aurora-music-for-the-free-spirits-dance-on-the-moon",
   ownLength: 3.6049,
-  ownProgress: 0,
+  ownProgress: 3.6049,
   partOfCollections: ["release/aurora-music-for-the-free-spirits"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

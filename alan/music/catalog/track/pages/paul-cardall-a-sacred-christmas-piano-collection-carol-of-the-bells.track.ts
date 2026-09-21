@@ -5,10 +5,10 @@ export const paulCardallASacredChristmasPianoCollectionCarolOfTheBells = {
   type: "page-type/track",
   slug: "paul-cardall-a-sacred-christmas-piano-collection-carol-of-the-bells",
   ownLength: 5.410383333333334,
-  ownProgress: 0,
+  ownProgress: 5.410383333333334,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

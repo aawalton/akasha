@@ -6,10 +6,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveGrou
     type: "page-type/track",
     slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-radioactive-grouplove-captain-cuts-remix",
     ownLength: 4.0111,
-    ownProgress: 0,
+    ownProgress: 4.0111,
     partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
     position: 1,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

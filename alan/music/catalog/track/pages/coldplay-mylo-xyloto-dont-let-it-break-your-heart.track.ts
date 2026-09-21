@@ -5,10 +5,10 @@ export const coldplayMyloXylotoDontLetItBreakYourHeart = {
   type: "page-type/track",
   slug: "coldplay-mylo-xyloto-dont-let-it-break-your-heart",
   ownLength: 3.9017666666666666,
-  ownProgress: 0,
+  ownProgress: 3.9017666666666666,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOneYouDidntBelieveHer = {
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-you-didnt-believe-her",
   ownLength: 2.6248666666666667,
-  ownProgress: 0,
+  ownProgress: 2.6248666666666667,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

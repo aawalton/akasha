@@ -5,10 +5,10 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakkoSomeTypeOfSkinFeatAtarashiiGa
   type: "page-type/track",
   slug: "aurora-some-type-of-skin-feat-atarashii-gakko-some-type-of-skin-feat-atarashii-gakko",
   ownLength: 3.6026666666666665,
-  ownProgress: 0,
+  ownProgress: 3.6026666666666665,
   partOfCollections: ["release/aurora-some-type-of-skin-feat-atarashii-gakko"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2EmeraldMusicalGemsSheMovedThroughTheFair = {
   type: "page-type/track",
   slug: "celtic-woman-2-emerald-musical-gems-she-moved-through-the-fair",
   ownLength: 3.296883333333333,
-  ownProgress: 0,
+  ownProgress: 3.296883333333333,
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

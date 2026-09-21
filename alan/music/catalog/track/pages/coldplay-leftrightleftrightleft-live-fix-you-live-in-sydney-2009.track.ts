@@ -5,10 +5,10 @@ export const coldplayLeftrightleftrightleftLiveFixYouLiveInSydney2009 = {
   type: "page-type/track",
   slug: "coldplay-leftrightleftrightleft-live-fix-you-live-in-sydney-2009",
   ownLength: 5.644,
-  ownProgress: 0,
+  ownProgress: 5.644,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

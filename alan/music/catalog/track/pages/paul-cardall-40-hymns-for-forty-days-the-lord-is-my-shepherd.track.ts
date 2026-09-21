@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysTheLordIsMyShepherd = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-the-lord-is-my-shepherd",
   ownLength: 3.264883333333333,
-  ownProgress: 0,
+  ownProgress: 3.264883333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

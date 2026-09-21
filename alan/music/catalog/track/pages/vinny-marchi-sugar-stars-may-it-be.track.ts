@@ -5,10 +5,10 @@ export const vinnyMarchiSugarStarsMayItBe = {
   type: "page-type/track",
   slug: "vinny-marchi-sugar-stars-may-it-be",
   ownLength: 3.215133333333333,
-  ownProgress: 0,
+  ownProgress: 3.215133333333333,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

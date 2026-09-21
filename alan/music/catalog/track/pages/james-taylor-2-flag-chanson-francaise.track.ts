@@ -5,10 +5,10 @@ export const jamesTaylor2FlagChansonFrancaise = {
   type: "page-type/track",
   slug: "james-taylor-2-flag-chanson-francaise",
   ownLength: 2.0317666666666665,
-  ownProgress: 0,
+  ownProgress: 2.0317666666666665,
   partOfCollections: ["release/james-taylor-2-flag"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

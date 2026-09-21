@@ -5,10 +5,10 @@ export const coldplayUpUpUpUp = {
   type: "page-type/track",
   slug: "coldplay-up-up-up-up",
   ownLength: 3.9682166666666667,
-  ownProgress: 0,
+  ownProgress: 3.9682166666666667,
   partOfCollections: ["release/coldplay-up-up"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

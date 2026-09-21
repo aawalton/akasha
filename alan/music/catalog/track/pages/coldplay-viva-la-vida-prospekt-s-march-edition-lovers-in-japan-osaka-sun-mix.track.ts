@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaProspektSMarchEditionLoversInJapanOsakaSunMix = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-prospekt-s-march-edition-lovers-in-japan-osaka-sun-mix",
   ownLength: 3.970666666666667,
-  ownProgress: 0,
+  ownProgress: 3.970666666666667,
   partOfCollections: ["release/coldplay-viva-la-vida-prospekt-s-march-edition"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

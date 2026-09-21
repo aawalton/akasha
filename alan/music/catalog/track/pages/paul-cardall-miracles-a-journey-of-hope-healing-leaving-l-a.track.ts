@@ -5,10 +5,10 @@ export const paulCardallMiraclesAJourneyOfHopeHealingLeavingLA = {
   type: "page-type/track",
   slug: "paul-cardall-miracles-a-journey-of-hope-healing-leaving-l-a",
   ownLength: 4.217766666666667,
-  ownProgress: 0,
+  ownProgress: 4.217766666666667,
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2SweetBabyJames2019RemasterOhBabyDontYouLooseYourLipOnMe
   type: "page-type/track",
   slug: "james-taylor-2-sweet-baby-james-2019-remaster-oh-baby-dont-you-loose-your-lip-on-me-2019-remaster",
   ownLength: 1.82155,
-  ownProgress: 0,
+  ownProgress: 1.82155,
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

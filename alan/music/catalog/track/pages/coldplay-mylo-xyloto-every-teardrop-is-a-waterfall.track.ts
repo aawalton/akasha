@@ -5,10 +5,10 @@ export const coldplayMyloXylotoEveryTeardropIsAWaterfall = {
   type: "page-type/track",
   slug: "coldplay-mylo-xyloto-every-teardrop-is-a-waterfall",
   ownLength: 4.0132666666666665,
-  ownProgress: 0,
+  ownProgress: 4.0132666666666665,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

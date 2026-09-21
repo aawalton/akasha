@@ -5,10 +5,10 @@ export const jamesTaylor2CoversSomeDaysYouGottaDance = {
   type: "page-type/track",
   slug: "james-taylor-2-covers-some-days-you-gotta-dance",
   ownLength: 2.6568833333333335,
-  ownProgress: 0,
+  ownProgress: 2.6568833333333335,
   partOfCollections: ["release/james-taylor-2-covers"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

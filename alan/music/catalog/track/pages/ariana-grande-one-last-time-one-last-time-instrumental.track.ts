@@ -5,10 +5,10 @@ export const arianaGrandeOneLastTimeOneLastTimeInstrumental = {
   type: "page-type/track",
   slug: "ariana-grande-one-last-time-one-last-time-instrumental",
   ownLength: 3.314766666666667,
-  ownProgress: 0,
+  ownProgress: 3.314766666666667,
   partOfCollections: ["release/ariana-grande-one-last-time"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

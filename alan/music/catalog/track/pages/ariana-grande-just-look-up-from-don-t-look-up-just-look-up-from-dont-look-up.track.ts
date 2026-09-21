@@ -5,10 +5,10 @@ export const arianaGrandeJustLookUpFromDonTLookUpJustLookUpFromDontLookUp = {
   type: "page-type/track",
   slug: "ariana-grande-just-look-up-from-don-t-look-up-just-look-up-from-dont-look-up",
   ownLength: 3.3611166666666668,
-  ownProgress: 0,
+  ownProgress: 3.3611166666666668,
   partOfCollections: ["release/ariana-grande-just-look-up-from-don-t-look-up"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

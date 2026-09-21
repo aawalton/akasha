@@ -5,10 +5,10 @@ export const coldplayWePrayJasleenRoyalVersionWePrayJasleenRoyalVersion = {
   type: "page-type/track",
   slug: "coldplay-we-pray-jasleen-royal-version-we-pray-jasleen-royal-version",
   ownLength: 3.8901,
-  ownProgress: 0,
+  ownProgress: 3.8901,
   partOfCollections: ["release/coldplay-we-pray-jasleen-royal-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneyNollaigNaMban = {
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-nollaig-na-mban",
   ownLength: 4.7793833333333335,
-  ownProgress: 0,
+  ownProgress: 4.7793833333333335,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

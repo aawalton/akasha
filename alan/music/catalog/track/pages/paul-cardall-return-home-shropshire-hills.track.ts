@@ -5,10 +5,10 @@ export const paulCardallReturnHomeShropshireHills = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-shropshire-hills",
   ownLength: 3.2373833333333333,
-  ownProgress: 0,
+  ownProgress: 3.2373833333333333,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

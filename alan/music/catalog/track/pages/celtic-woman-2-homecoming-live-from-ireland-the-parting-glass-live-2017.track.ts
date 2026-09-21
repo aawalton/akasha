@@ -5,10 +5,10 @@ export const celticWoman2HomecomingLiveFromIrelandThePartingGlassLive2017 = {
   type: "page-type/track",
   slug: "celtic-woman-2-homecoming-live-from-ireland-the-parting-glass-live-2017",
   ownLength: 5.086883333333334,
-  ownProgress: 0,
+  ownProgress: 5.086883333333334,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

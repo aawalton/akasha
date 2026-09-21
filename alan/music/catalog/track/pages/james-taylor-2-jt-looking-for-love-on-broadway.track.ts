@@ -5,10 +5,10 @@ export const jamesTaylor2JtLookingForLoveOnBroadway = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-looking-for-love-on-broadway",
   ownLength: 2.3632833333333334,
-  ownProgress: 0,
+  ownProgress: 2.3632833333333334,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

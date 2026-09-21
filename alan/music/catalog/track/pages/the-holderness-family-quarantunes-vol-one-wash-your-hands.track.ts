@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOneWashYourHands = {
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-wash-your-hands",
   ownLength: 2.4459166666666667,
-  ownProgress: 0,
+  ownProgress: 2.4459166666666667,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

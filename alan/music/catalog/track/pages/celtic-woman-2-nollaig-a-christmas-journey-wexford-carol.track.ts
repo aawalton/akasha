@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneyWexfordCarol = {
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-wexford-carol",
   ownLength: 4.157516666666667,
-  ownProgress: 0,
+  ownProgress: 4.157516666666667,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

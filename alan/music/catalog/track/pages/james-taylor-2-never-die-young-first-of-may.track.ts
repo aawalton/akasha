@@ -5,10 +5,10 @@ export const jamesTaylor2NeverDieYoungFirstOfMay = {
   type: "page-type/track",
   slug: "james-taylor-2-never-die-young-first-of-may",
   ownLength: 4.02,
-  ownProgress: 0,
+  ownProgress: 4.02,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

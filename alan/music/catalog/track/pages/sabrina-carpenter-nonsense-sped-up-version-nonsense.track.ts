@@ -5,10 +5,10 @@ export const sabrinaCarpenterNonsenseSpedUpVersionNonsense = {
   type: "page-type/track",
   slug: "sabrina-carpenter-nonsense-sped-up-version-nonsense",
   ownLength: 2.7274666666666665,
-  ownProgress: 0,
+  ownProgress: 2.7274666666666665,
   partOfCollections: ["release/sabrina-carpenter-nonsense-sped-up-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

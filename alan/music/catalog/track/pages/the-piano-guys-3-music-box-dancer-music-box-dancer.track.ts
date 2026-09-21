@@ -5,10 +5,10 @@ export const thePianoGuys3MusicBoxDancerMusicBoxDancer = {
   type: "page-type/track",
   slug: "the-piano-guys-3-music-box-dancer-music-box-dancer",
   ownLength: 2.716266666666667,
-  ownProgress: 0,
+  ownProgress: 2.716266666666667,
   partOfCollections: ["release/the-piano-guys-3-music-box-dancer"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

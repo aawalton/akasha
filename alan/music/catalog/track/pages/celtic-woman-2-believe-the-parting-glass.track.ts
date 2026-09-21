@@ -5,10 +5,10 @@ export const celticWoman2BelieveThePartingGlass = {
   type: "page-type/track",
   slug: "celtic-woman-2-believe-the-parting-glass",
   ownLength: 4.201333333333333,
-  ownProgress: 0,
+  ownProgress: 4.201333333333333,
   partOfCollections: ["release/celtic-woman-2-believe"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

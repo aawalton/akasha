@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sLibidoKiller = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-libido-killer",
   ownLength: 3.0145,
-  ownProgress: 0,
+  ownProgress: 3.0145,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

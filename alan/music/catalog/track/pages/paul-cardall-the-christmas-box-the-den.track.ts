@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxTheDen = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-the-den",
   ownLength: 2.2582166666666668,
-  ownProgress: 0,
+  ownProgress: 2.2582166666666668,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

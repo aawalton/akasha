@@ -5,10 +5,10 @@ export const thePianoGuys3LiveWhatMakesYouBeautifulLive = {
   type: "page-type/track",
   slug: "the-piano-guys-3-live-what-makes-you-beautiful-live",
   ownLength: 3.858216666666667,
-  ownProgress: 0,
+  ownProgress: 3.858216666666667,
   partOfCollections: ["release/the-piano-guys-3-live"],
   position: 19,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

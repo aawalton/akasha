@@ -5,10 +5,10 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackQueendom = {
   type: "page-type/track",
   slug: "aurora-sky-concert-in-the-light-original-game-soundtrack-queendom",
   ownLength: 3.444,
-  ownProgress: 0,
+  ownProgress: 3.444,
   partOfCollections: ["release/aurora-sky-concert-in-the-light-original-game-soundtrack"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

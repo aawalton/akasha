@@ -5,10 +5,10 @@ export const emeiSunnydSunnyd = {
   type: "page-type/track",
   slug: "emei-sunnyd-sunnyd",
   ownLength: 2.1112333333333333,
-  ownProgress: 0,
+  ownProgress: 2.1112333333333333,
   partOfCollections: ["release/emei-sunnyd"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraMurderSong54321MurderSong54321 = {
   type: "page-type/track",
   slug: "aurora-murder-song-5-4-3-2-1-murder-song-5-4-3-2-1",
   ownLength: 3.3397666666666668,
-  ownProgress: 0,
+  ownProgress: 3.3397666666666668,
   partOfCollections: ["release/aurora-murder-song-5-4-3-2-1"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

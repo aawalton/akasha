@@ -5,10 +5,10 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIiLiveAtTheO2London = {
   type: "page-type/track",
   slug: "coldplay-life-in-technicolor-ii-life-in-technicolor-ii-live-at-the-o2-london",
   ownLength: 3.61355,
-  ownProgress: 0,
+  ownProgress: 3.61355,
   partOfCollections: ["release/coldplay-life-in-technicolor-ii"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLove = {
   type: "page-type/track",
   slug: "aurora-exist-for-love-benjamin-m-rk-acoustic-remix-exist-for-love",
   ownLength: 4.2119333333333335,
-  ownProgress: 0,
+  ownProgress: 4.2119333333333335,
   partOfCollections: ["release/aurora-exist-for-love-benjamin-m-rk-acoustic-remix"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

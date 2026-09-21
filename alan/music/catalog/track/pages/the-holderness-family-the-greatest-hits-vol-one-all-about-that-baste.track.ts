@@ -5,10 +5,10 @@ export const theHoldernessFamilyTheGreatestHitsVolOneAllAboutThatBaste = {
   type: "page-type/track",
   slug: "the-holderness-family-the-greatest-hits-vol-one-all-about-that-baste",
   ownLength: 1.9282666666666666,
-  ownProgress: 0,
+  ownProgress: 1.9282666666666666,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsLiveInVegasThunderLiveInVegas = {
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-live-in-vegas-thunder-live-in-vegas",
   ownLength: 4.6162,
-  ownProgress: 0,
+  ownProgress: 4.6162,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

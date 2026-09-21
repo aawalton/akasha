@@ -6,10 +6,10 @@ export const coldplayLeftrightleftrightleftLiveTheHardestPartPostcardsFromFarAwa
     type: "page-type/track",
     slug: "coldplay-leftrightleftrightleft-live-the-hardest-part-postcards-from-far-away-live-in-sydney-2009",
     ownLength: 4.25355,
-    ownProgress: 0,
+    ownProgress: 4.25355,
     partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
     position: 5,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

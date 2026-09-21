@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandNeverDieYoungLiveAtTheColonialTheatre2007 = {
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-never-die-young-live-at-the-colonial-theatre-2007",
   ownLength: 4.402,
-  ownProgress: 0,
+  ownProgress: 4.402,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

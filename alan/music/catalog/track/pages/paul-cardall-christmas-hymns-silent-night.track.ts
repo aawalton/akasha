@@ -5,10 +5,10 @@ export const paulCardallChristmasHymnsSilentNight = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hymns-silent-night",
   ownLength: 3.858216666666667,
-  ownProgress: 0,
+  ownProgress: 3.858216666666667,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallMiraclesAJourneyOfHopeHealingVoices = {
   type: "page-type/track",
   slug: "paul-cardall-miracles-a-journey-of-hope-healing-voices",
   ownLength: 5.0131,
-  ownProgress: 0,
+  ownProgress: 5.0131,
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

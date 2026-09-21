@@ -5,10 +5,10 @@ export const emeiScatterbrain2DontKnowAboutTheWorld = {
   type: "page-type/track",
   slug: "emei-scatterbrain-2-dont-know-about-the-world",
   ownLength: 2.3949333333333334,
-  ownProgress: 0,
+  ownProgress: 2.3949333333333334,
   partOfCollections: ["release/emei-scatterbrain-2"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

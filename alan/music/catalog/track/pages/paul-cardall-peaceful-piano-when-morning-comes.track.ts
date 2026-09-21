@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoWhenMorningComes = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-when-morning-comes",
   ownLength: 3.0831,
-  ownProgress: 0,
+  ownProgress: 3.0831,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

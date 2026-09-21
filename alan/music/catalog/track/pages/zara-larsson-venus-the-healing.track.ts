@@ -5,10 +5,10 @@ export const zaraLarssonVenusTheHealing = {
   type: "page-type/track",
   slug: "zara-larsson-venus-the-healing",
   ownLength: 3.1827833333333335,
-  ownProgress: 0,
+  ownProgress: 3.1827833333333335,
   partOfCollections: ["release/zara-larsson-venus"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdAlreadyOver = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-already-over",
   ownLength: 2.8471166666666665,
-  ownProgress: 0,
+  ownProgress: 2.8471166666666665,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

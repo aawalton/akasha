@@ -5,10 +5,10 @@ export const alexandriaPixiePixie = {
   type: "page-type/track",
   slug: "alexandria-pixie-pixie",
   ownLength: 3.4814666666666665,
-  ownProgress: 0,
+  ownProgress: 3.4814666666666665,
   partOfCollections: ["release/alexandria-pixie"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -6,10 +6,10 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionSpanishLadyLiveFro
     type: "page-type/track",
     slug: "celtic-woman-2-the-greatest-journey-essential-collection-spanish-lady-live-from-slane-castle-ireland",
     ownLength: 2.382433333333333,
-    ownProgress: 0,
+    ownProgress: 2.382433333333333,
     partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
     position: 18,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

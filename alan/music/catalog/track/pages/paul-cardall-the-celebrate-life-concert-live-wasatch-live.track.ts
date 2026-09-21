@@ -5,10 +5,10 @@ export const paulCardallTheCelebrateLifeConcertLiveWasatchLive = {
   type: "page-type/track",
   slug: "paul-cardall-the-celebrate-life-concert-live-wasatch-live",
   ownLength: 3.6741333333333333,
-  ownProgress: 0,
+  ownProgress: 3.6741333333333333,
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

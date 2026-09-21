@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassWalkingMyBabyBackHome = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-walking-my-baby-back-home",
   ownLength: 2.4588833333333335,
-  ownProgress: 0,
+  ownProgress: 2.4588833333333335,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

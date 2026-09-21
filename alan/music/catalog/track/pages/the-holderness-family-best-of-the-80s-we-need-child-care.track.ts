@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sWeNeedChildCare = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-we-need-child-care",
   ownLength: 1.317,
-  ownProgress: 0,
+  ownProgress: 1.317,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

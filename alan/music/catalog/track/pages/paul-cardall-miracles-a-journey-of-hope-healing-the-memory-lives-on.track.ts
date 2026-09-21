@@ -5,10 +5,10 @@ export const paulCardallMiraclesAJourneyOfHopeHealingTheMemoryLivesOn = {
   type: "page-type/track",
   slug: "paul-cardall-miracles-a-journey-of-hope-healing-the-memory-lives-on",
   ownLength: 4.190883333333334,
-  ownProgress: 0,
+  ownProgress: 4.190883333333334,
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

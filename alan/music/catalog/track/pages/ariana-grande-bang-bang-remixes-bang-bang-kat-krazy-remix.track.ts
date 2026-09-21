@@ -5,10 +5,10 @@ export const arianaGrandeBangBangRemixesBangBangKatKrazyRemix = {
   type: "page-type/track",
   slug: "ariana-grande-bang-bang-remixes-bang-bang-kat-krazy-remix",
   ownLength: 3.95755,
-  ownProgress: 0,
+  ownProgress: 3.95755,
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodMakeThatMoneyGirl = {
   type: "page-type/track",
   slug: "zara-larsson-so-good-make-that-money-girl",
   ownLength: 3.314783333333333,
-  ownProgress: 0,
+  ownProgress: 3.314783333333333,
   partOfCollections: ["release/zara-larsson-so-good"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

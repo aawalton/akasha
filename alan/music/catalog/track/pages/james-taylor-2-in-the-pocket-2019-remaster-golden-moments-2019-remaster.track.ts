@@ -5,10 +5,10 @@ export const jamesTaylor2InThePocket2019RemasterGoldenMoments2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-in-the-pocket-2019-remaster-golden-moments-2019-remaster",
   ownLength: 3.608,
-  ownProgress: 0,
+  ownProgress: 3.608,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

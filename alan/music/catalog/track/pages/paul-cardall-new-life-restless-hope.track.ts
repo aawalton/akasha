@@ -5,10 +5,10 @@ export const paulCardallNewLifeRestlessHope = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-restless-hope",
   ownLength: 2.2866666666666666,
-  ownProgress: 0,
+  ownProgress: 2.2866666666666666,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

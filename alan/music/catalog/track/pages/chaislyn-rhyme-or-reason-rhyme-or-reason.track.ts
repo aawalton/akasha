@@ -5,10 +5,10 @@ export const chaislynRhymeOrReasonRhymeOrReason = {
   type: "page-type/track",
   slug: "chaislyn-rhyme-or-reason-rhyme-or-reason",
   ownLength: 4.190216666666666,
-  ownProgress: 0,
+  ownProgress: 4.190216666666666,
   partOfCollections: ["release/chaislyn-rhyme-or-reason"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

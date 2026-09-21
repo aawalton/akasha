@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxTheWidowsMansion = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-the-widows-mansion",
   ownLength: 3.4584333333333332,
-  ownProgress: 0,
+  ownProgress: 3.4584333333333332,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

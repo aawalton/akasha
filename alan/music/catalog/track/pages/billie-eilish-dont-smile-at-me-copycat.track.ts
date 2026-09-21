@@ -5,10 +5,10 @@ export const billieEilishDontSmileAtMeCopycat = {
   type: "page-type/track",
   slug: "billie-eilish-dont-smile-at-me-copycat",
   ownLength: 3.2451833333333333,
-  ownProgress: 0,
+  ownProgress: 3.2451833333333333,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

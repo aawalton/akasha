@@ -5,10 +5,10 @@ export const auroraForTheMetalPeopleUnderStars = {
   type: "page-type/track",
   slug: "aurora-for-the-metal-people-under-stars",
   ownLength: 3.3171,
-  ownProgress: 0,
+  ownProgress: 3.3171,
   partOfCollections: ["release/aurora-for-the-metal-people"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

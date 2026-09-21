@@ -5,10 +5,10 @@ export const arianaGrande7RingsRemix7RingsFeat2ChainzRemix = {
   type: "page-type/track",
   slug: "ariana-grande-7-rings-remix-7-rings-feat-2-chainz-remix",
   ownLength: 2.977333333333333,
-  ownProgress: 0,
+  ownProgress: 2.977333333333333,
   partOfCollections: ["release/ariana-grande-7-rings-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2VoicesOfAngelsIsleOfHopeIsleOfTears = {
   type: "page-type/track",
   slug: "celtic-woman-2-voices-of-angels-isle-of-hope-isle-of-tears",
   ownLength: 5.0231,
-  ownProgress: 0,
+  ownProgress: 5.0231,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

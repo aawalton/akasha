@@ -5,10 +5,10 @@ export const celticWoman2HomecomingLiveFromIrelandTeirAbhaileRiuLive2017 = {
   type: "page-type/track",
   slug: "celtic-woman-2-homecoming-live-from-ireland-teir-abhaile-riu-live-2017",
   ownLength: 4.219766666666667,
-  ownProgress: 0,
+  ownProgress: 4.219766666666667,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

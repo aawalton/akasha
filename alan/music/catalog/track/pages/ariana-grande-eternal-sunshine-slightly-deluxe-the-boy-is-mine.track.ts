@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeTheBoyIsMine = {
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-the-boy-is-mine",
   ownLength: 2.8939833333333334,
-  ownProgress: 0,
+  ownProgress: 2.8939833333333334,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

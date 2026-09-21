@@ -5,10 +5,10 @@ export const arianaGrandeDangerousWomanThinkingBoutYou = {
   type: "page-type/track",
   slug: "ariana-grande-dangerous-woman-thinking-bout-you",
   ownLength: 3.3397666666666668,
-  ownProgress: 0,
+  ownProgress: 3.3397666666666668,
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

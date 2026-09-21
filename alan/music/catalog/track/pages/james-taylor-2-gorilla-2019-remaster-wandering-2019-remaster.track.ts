@@ -5,10 +5,10 @@ export const jamesTaylor2Gorilla2019RemasterWandering2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-gorilla-2019-remaster-wandering-2019-remaster",
   ownLength: 2.686,
-  ownProgress: 0,
+  ownProgress: 2.686,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

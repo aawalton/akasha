@@ -5,10 +5,10 @@ export const paulCardallHymnsVol2MoreHolinessGiveMe = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-vol-2-more-holiness-give-me",
   ownLength: 3.1431,
-  ownProgress: 0,
+  ownProgress: 3.1431,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeChristmasKissesLoveIsEverything = {
   type: "page-type/track",
   slug: "ariana-grande-christmas-kisses-love-is-everything",
   ownLength: 3.5464333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5464333333333333,
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

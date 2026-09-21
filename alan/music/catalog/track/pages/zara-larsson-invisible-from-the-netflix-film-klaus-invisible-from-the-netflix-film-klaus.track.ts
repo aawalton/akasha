@@ -5,10 +5,10 @@ export const zaraLarssonInvisibleFromTheNetflixFilmKlausInvisibleFromTheNetflixF
   type: "page-type/track",
   slug: "zara-larsson-invisible-from-the-netflix-film-klaus-invisible-from-the-netflix-film-klaus",
   ownLength: 2.899583333333333,
-  ownProgress: 0,
+  ownProgress: 2.899583333333333,
   partOfCollections: ["release/zara-larsson-invisible-from-the-netflix-film-klaus"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

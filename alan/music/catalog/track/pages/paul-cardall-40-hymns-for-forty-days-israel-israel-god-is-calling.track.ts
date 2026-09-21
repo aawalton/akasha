@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysIsraelIsraelGodIsCalling = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-israel-israel-god-is-calling",
   ownLength: 4.202883333333333,
-  ownProgress: 0,
+  ownProgress: 4.202883333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

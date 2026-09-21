@@ -5,10 +5,10 @@ export const coldplayShiverCarefulWhereYouStand = {
   type: "page-type/track",
   slug: "coldplay-shiver-careful-where-you-stand",
   ownLength: 4.7504333333333335,
-  ownProgress: 0,
+  ownProgress: 4.7504333333333335,
   partOfCollections: ["release/coldplay-shiver"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayUpUpFreedoRemixUpUpFreedoRemix = {
   type: "page-type/track",
   slug: "coldplay-up-up-freedo-remix-up-up-freedo-remix",
   ownLength: 3.5049,
-  ownProgress: 0,
+  ownProgress: 3.5049,
   partOfCollections: ["release/coldplay-up-up-freedo-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

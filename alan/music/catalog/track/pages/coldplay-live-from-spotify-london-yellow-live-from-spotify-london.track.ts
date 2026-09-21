@@ -5,10 +5,10 @@ export const coldplayLiveFromSpotifyLondonYellowLiveFromSpotifyLondon = {
   type: "page-type/track",
   slug: "coldplay-live-from-spotify-london-yellow-live-from-spotify-london",
   ownLength: 4.207766666666667,
-  ownProgress: 0,
+  ownProgress: 4.207766666666667,
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

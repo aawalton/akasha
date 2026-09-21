@@ -5,10 +5,10 @@ export const paulCardallANewCreationWondersInHeaven = {
   type: "page-type/track",
   slug: "paul-cardall-a-new-creation-wonders-in-heaven",
   ownLength: 4.2111,
-  ownProgress: 0,
+  ownProgress: 4.2111,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

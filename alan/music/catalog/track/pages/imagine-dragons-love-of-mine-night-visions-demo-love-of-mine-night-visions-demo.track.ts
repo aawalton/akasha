@@ -5,10 +5,10 @@ export const imagineDragonsLoveOfMineNightVisionsDemoLoveOfMineNightVisionsDemo 
   type: "page-type/track",
   slug: "imagine-dragons-love-of-mine-night-visions-demo-love-of-mine-night-visions-demo",
   ownLength: 4.1665833333333335,
-  ownProgress: 0,
+  ownProgress: 4.1665833333333335,
   partOfCollections: ["release/imagine-dragons-love-of-mine-night-visions-demo"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

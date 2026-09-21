@@ -5,10 +5,10 @@ export const auroraADifferentKindOfHumanStepIiDaydreamer = {
   type: "page-type/track",
   slug: "aurora-a-different-kind-of-human-step-ii-daydreamer",
   ownLength: 3.65095,
-  ownProgress: 0,
+  ownProgress: 3.65095,
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

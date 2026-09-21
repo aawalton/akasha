@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodSundownFeatWizkid = {
   type: "page-type/track",
   slug: "zara-larsson-so-good-sundown-feat-wizkid",
   ownLength: 3.429666666666667,
-  ownProgress: 0,
+  ownProgress: 3.429666666666667,
   partOfCollections: ["release/zara-larsson-so-good"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

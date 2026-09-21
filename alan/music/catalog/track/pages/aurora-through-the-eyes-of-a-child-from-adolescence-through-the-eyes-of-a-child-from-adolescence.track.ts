@@ -5,10 +5,10 @@ export const auroraThroughTheEyesOfAChildFromAdolescenceThroughTheEyesOfAChildFr
   type: "page-type/track",
   slug: "aurora-through-the-eyes-of-a-child-from-adolescence-through-the-eyes-of-a-child-from-adolescence",
   ownLength: 4.57355,
-  ownProgress: 0,
+  ownProgress: 4.57355,
   partOfCollections: ["release/aurora-through-the-eyes-of-a-child-from-adolescence"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

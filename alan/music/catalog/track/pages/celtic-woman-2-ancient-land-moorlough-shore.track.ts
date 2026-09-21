@@ -5,10 +5,10 @@ export const celticWoman2AncientLandMoorloughShore = {
   type: "page-type/track",
   slug: "celtic-woman-2-ancient-land-moorlough-shore",
   ownLength: 4.09,
-  ownProgress: 0,
+  ownProgress: 4.09,
   partOfCollections: ["release/celtic-woman-2-ancient-land"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

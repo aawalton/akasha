@@ -5,10 +5,10 @@ export const celticWoman2TheMagicOfChristmasOHolyNight = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-magic-of-christmas-o-holy-night",
   ownLength: 4.34155,
-  ownProgress: 0,
+  ownProgress: 4.34155,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

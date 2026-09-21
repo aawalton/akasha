@@ -5,10 +5,10 @@ export const sabrinaCarpenterAlmostLoveAlmostLoveR3habRemix = {
   type: "page-type/track",
   slug: "sabrina-carpenter-almost-love-almost-love-r3hab-remix",
   ownLength: 2.9399166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9399166666666665,
   partOfCollections: ["release/sabrina-carpenter-almost-love"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

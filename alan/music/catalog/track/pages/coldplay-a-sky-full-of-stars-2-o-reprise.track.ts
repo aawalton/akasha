@@ -5,10 +5,10 @@ export const coldplayASkyFullOfStars2OReprise = {
   type: "page-type/track",
   slug: "coldplay-a-sky-full-of-stars-2-o-reprise",
   ownLength: 1.6226666666666667,
-  ownProgress: 0,
+  ownProgress: 1.6226666666666667,
   partOfCollections: ["release/coldplay-a-sky-full-of-stars-2"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

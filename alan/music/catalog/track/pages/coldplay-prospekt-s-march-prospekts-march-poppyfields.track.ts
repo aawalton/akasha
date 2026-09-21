@@ -5,10 +5,10 @@ export const coldplayProspektSMarchProspektsMarchPoppyfields = {
   type: "page-type/track",
   slug: "coldplay-prospekt-s-march-prospekts-march-poppyfields",
   ownLength: 3.65385,
-  ownProgress: 0,
+  ownProgress: 3.65385,
   partOfCollections: ["release/coldplay-prospekt-s-march"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

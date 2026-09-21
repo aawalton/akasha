@@ -5,10 +5,10 @@ export const celticWoman2HomeForChristmasAuldLangSyne = {
   type: "page-type/track",
   slug: "celtic-woman-2-home-for-christmas-auld-lang-syne",
   ownLength: 3.45355,
-  ownProgress: 0,
+  ownProgress: 3.45355,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

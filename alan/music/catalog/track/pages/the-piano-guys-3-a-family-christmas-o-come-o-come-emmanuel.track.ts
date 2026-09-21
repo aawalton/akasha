@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasOComeOComeEmmanuel = {
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-o-come-o-come-emmanuel",
   ownLength: 5.085133333333333,
-  ownProgress: 0,
+  ownProgress: 5.085133333333333,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

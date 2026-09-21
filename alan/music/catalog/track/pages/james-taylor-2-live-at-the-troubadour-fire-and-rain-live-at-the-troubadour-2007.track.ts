@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourFireAndRainLiveAtTheTroubadour2007 =
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-fire-and-rain-live-at-the-troubadour-2007",
   ownLength: 5.745333333333333,
-  ownProgress: 0,
+  ownProgress: 5.745333333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

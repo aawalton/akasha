@@ -5,10 +5,10 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterHeyMisterThats
   type: "page-type/track",
   slug: "james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster-hey-mister-thats-me-up-on-the",
   ownLength: 3.80155,
-  ownProgress: 0,
+  ownProgress: 3.80155,
   partOfCollections: ["release/james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

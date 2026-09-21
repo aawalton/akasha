@@ -5,10 +5,10 @@ export const auroraRingTheAlarmRingTheAlarm = {
   type: "page-type/track",
   slug: "aurora-ring-the-alarm-ring-the-alarm",
   ownLength: 5.52355,
-  ownProgress: 0,
+  ownProgress: 5.52355,
   partOfCollections: ["release/aurora-ring-the-alarm"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayPrincessOfChinaPrincessOfChinaInvisibleMenRemix = {
   type: "page-type/track",
   slug: "coldplay-princess-of-china-princess-of-china-invisible-men-remix",
   ownLength: 3.7771,
-  ownProgress: 0,
+  ownProgress: 3.7771,
   partOfCollections: ["release/coldplay-princess-of-china"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

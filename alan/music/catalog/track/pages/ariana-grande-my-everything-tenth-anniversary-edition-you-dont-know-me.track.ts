@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionYouDontKnowMe = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-you-dont-know-me",
   ownLength: 3.8950833333333335,
-  ownProgress: 0,
+  ownProgress: 3.8950833333333335,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

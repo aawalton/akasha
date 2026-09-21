@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeWorkingMan = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-working-man",
   ownLength: 3.9242166666666667,
-  ownProgress: 0,
+  ownProgress: 3.9242166666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

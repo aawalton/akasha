@@ -5,10 +5,10 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForestWinterBird = {
   type: "page-type/track",
   slug: "aurora-for-the-humans-who-take-long-walks-in-the-forest-winter-bird",
   ownLength: 4.0691,
-  ownProgress: 0,
+  ownProgress: 4.0691,
   partOfCollections: ["release/aurora-for-the-humans-who-take-long-walks-in-the-forest"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

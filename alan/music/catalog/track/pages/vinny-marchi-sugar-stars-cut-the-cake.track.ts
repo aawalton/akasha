@@ -5,10 +5,10 @@ export const vinnyMarchiSugarStarsCutTheCake = {
   type: "page-type/track",
   slug: "vinny-marchi-sugar-stars-cut-the-cake",
   ownLength: 3.6867833333333335,
-  ownProgress: 0,
+  ownProgress: 3.6867833333333335,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

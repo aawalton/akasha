@@ -5,10 +5,10 @@ export const auroraATemporaryHighAcousticATemporaryHighAcoustic = {
   type: "page-type/track",
   slug: "aurora-a-temporary-high-acoustic-a-temporary-high-acoustic",
   ownLength: 2.8324333333333334,
-  ownProgress: 0,
+  ownProgress: 2.8324333333333334,
   partOfCollections: ["release/aurora-a-temporary-high-acoustic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsSpotifySessionsGoldLiveFromSpotifyLondo
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-spotify-sessions-gold-live-from-spotify-london",
   ownLength: 3.97065,
-  ownProgress: 0,
+  ownProgress: 3.97065,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

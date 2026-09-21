@@ -5,10 +5,10 @@ export const celticWoman2HomeForChristmasWhatChildIsThis = {
   type: "page-type/track",
   slug: "celtic-woman-2-home-for-christmas-what-child-is-this",
   ownLength: 4.528883333333333,
-  ownProgress: 0,
+  ownProgress: 4.528883333333333,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

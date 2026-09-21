@@ -5,10 +5,10 @@ export const theHoldernessFamilyInflatablesAnthemOriginalSongInflatablesAnthemOr
   type: "page-type/track",
   slug: "the-holderness-family-inflatables-anthem-original-song-inflatables-anthem-original-song",
   ownLength: 2.6088,
-  ownProgress: 0,
+  ownProgress: 2.6088,
   partOfCollections: ["release/the-holderness-family-inflatables-anthem-original-song"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

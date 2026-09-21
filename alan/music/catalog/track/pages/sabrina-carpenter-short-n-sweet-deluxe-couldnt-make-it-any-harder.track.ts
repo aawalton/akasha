@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetDeluxeCouldntMakeItAnyHarder = {
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-deluxe-couldnt-make-it-any-harder",
   ownLength: 2.9976166666666666,
-  ownProgress: 0,
+  ownProgress: 2.9976166666666666,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

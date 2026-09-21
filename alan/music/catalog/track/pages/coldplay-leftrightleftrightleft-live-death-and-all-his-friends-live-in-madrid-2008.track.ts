@@ -5,10 +5,10 @@ export const coldplayLeftrightleftrightleftLiveDeathAndAllHisFriendsLiveInMadrid
   type: "page-type/track",
   slug: "coldplay-leftrightleftrightleft-live-death-and-all-his-friends-live-in-madrid-2008",
   ownLength: 4.4071,
-  ownProgress: 0,
+  ownProgress: 4.4071,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

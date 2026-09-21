@@ -5,10 +5,10 @@ export const paulCardallChristmasJesusOnceOfHumbleBirth = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-jesus-once-of-humble-birth",
   ownLength: 3.405866666666667,
-  ownProgress: 0,
+  ownProgress: 3.405866666666667,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

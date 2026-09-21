@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxAChangeOfHeart = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-a-change-of-heart",
   ownLength: 3.87,
-  ownProgress: 0,
+  ownProgress: 3.87,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

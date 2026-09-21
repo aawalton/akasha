@@ -5,10 +5,10 @@ export const paulCardallSacredPianoAfterTheStorm = {
   type: "page-type/track",
   slug: "paul-cardall-sacred-piano-after-the-storm",
   ownLength: 2.918,
-  ownProgress: 0,
+  ownProgress: 2.918,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2OneManDog2019RemasterOneMorningInMay2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-one-man-dog-2019-remaster-one-morning-in-may-2019-remaster",
   ownLength: 2.901133333333333,
-  ownProgress: 0,
+  ownProgress: 2.901133333333333,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

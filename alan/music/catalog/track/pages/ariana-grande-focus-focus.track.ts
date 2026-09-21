@@ -5,10 +5,10 @@ export const arianaGrandeFocusFocus = {
   type: "page-type/track",
   slug: "ariana-grande-focus-focus",
   ownLength: 3.522666666666667,
-  ownProgress: 0,
+  ownProgress: 3.522666666666667,
   partOfCollections: ["release/ariana-grande-focus"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

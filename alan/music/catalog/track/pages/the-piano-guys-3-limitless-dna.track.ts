@@ -5,10 +5,10 @@ export const thePianoGuys3LimitlessDna = {
   type: "page-type/track",
   slug: "the-piano-guys-3-limitless-dna",
   ownLength: 3.0923,
-  ownProgress: 0,
+  ownProgress: 3.0923,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

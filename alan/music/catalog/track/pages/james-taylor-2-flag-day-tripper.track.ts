@@ -5,10 +5,10 @@ export const jamesTaylor2FlagDayTripper = {
   type: "page-type/track",
   slug: "james-taylor-2-flag-day-tripper",
   ownLength: 4.406666666666666,
-  ownProgress: 0,
+  ownProgress: 4.406666666666666,
   partOfCollections: ["release/james-taylor-2-flag"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const vinnyMarchiGodIMissYourEyesGodIMissYourEyes = {
   type: "page-type/track",
   slug: "vinny-marchi-god-i-miss-your-eyes-god-i-miss-your-eyes",
   ownLength: 3.79145,
-  ownProgress: 0,
+  ownProgress: 3.79145,
   partOfCollections: ["release/vinny-marchi-god-i-miss-your-eyes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

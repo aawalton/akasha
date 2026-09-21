@@ -5,10 +5,10 @@ export const arianaGrandeMonopolyMonopolyWithVictoriaMonet = {
   type: "page-type/track",
   slug: "ariana-grande-monopoly-monopoly-with-victoria-monet",
   ownLength: 2.6431,
-  ownProgress: 0,
+  ownProgress: 2.6431,
   partOfCollections: ["release/ariana-grande-monopoly"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

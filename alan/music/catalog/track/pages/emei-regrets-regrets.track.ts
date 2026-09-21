@@ -5,10 +5,10 @@ export const emeiRegretsRegrets = {
   type: "page-type/track",
   slug: "emei-regrets-regrets",
   ownLength: 2.03755,
-  ownProgress: 0,
+  ownProgress: 2.03755,
   partOfCollections: ["release/emei-regrets"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

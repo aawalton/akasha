@@ -5,10 +5,10 @@ export const coldplayFixYouFixYouLiveFromArnhemNetherlands = {
   type: "page-type/track",
   slug: "coldplay-fix-you-fix-you-live-from-arnhem-netherlands",
   ownLength: 6.143266666666666,
-  ownProgress: 0,
+  ownProgress: 6.143266666666666,
   partOfCollections: ["release/coldplay-fix-you"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

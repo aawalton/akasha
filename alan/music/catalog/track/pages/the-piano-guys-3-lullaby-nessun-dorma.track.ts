@@ -5,10 +5,10 @@ export const thePianoGuys3LullabyNessunDorma = {
   type: "page-type/track",
   slug: "the-piano-guys-3-lullaby-nessun-dorma",
   ownLength: 2.4590833333333335,
-  ownProgress: 0,
+  ownProgress: 2.4590833333333335,
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

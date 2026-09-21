@@ -5,10 +5,10 @@ export const imagineDragonsIWasMeIWasMe = {
   type: "page-type/track",
   slug: "imagine-dragons-i-was-me-i-was-me",
   ownLength: 3.2668833333333334,
-  ownProgress: 0,
+  ownProgress: 3.2668833333333334,
   partOfCollections: ["release/imagine-dragons-i-was-me"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

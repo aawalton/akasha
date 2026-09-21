@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlSummerEditionWhatHappensHere = {
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-summer-edition-what-happens-here",
   ownLength: 3.3279666666666667,
-  ownProgress: 0,
+  ownProgress: 3.3279666666666667,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

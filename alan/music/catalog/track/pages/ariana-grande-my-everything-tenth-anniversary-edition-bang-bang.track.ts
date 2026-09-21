@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBangBang = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-bang-bang",
   ownLength: 3.32295,
-  ownProgress: 0,
+  ownProgress: 3.32295,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

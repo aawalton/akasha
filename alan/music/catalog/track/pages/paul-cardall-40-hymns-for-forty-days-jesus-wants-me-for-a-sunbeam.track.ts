@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysJesusWantsMeForASunbeam = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-jesus-wants-me-for-a-sunbeam",
   ownLength: 2.1884333333333332,
-  ownProgress: 0,
+  ownProgress: 2.1884333333333332,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

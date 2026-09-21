@@ -5,10 +5,10 @@ export const jamesTaylor2OtherCoversMemphis = {
   type: "page-type/track",
   slug: "james-taylor-2-other-covers-memphis",
   ownLength: 3.1788833333333333,
-  ownProgress: 0,
+  ownProgress: 3.1788833333333333,
   partOfCollections: ["release/james-taylor-2-other-covers"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

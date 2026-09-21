@@ -5,10 +5,10 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbieWhatWasIMadeFo
   type: "page-type/track",
   slug: "billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie-what-was-i-made-for-from-the-motion",
   ownLength: 3.70615,
-  ownProgress: 0,
+  ownProgress: 3.70615,
   partOfCollections: ["release/billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

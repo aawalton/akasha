@@ -5,10 +5,10 @@ export const jamesTaylor2JtTrafficJam = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-traffic-jam",
   ownLength: 1.9747333333333332,
-  ownProgress: 0,
+  ownProgress: 1.9747333333333332,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

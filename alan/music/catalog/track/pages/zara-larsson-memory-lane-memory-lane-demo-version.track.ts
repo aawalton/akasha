@@ -5,10 +5,10 @@ export const zaraLarssonMemoryLaneMemoryLaneDemoVersion = {
   type: "page-type/track",
   slug: "zara-larsson-memory-lane-memory-lane-demo-version",
   ownLength: 3.0864,
-  ownProgress: 0,
+  ownProgress: 3.0864,
   partOfCollections: ["release/zara-larsson-memory-lane"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

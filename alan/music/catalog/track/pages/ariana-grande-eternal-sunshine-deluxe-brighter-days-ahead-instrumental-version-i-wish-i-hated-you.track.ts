@@ -5,12 +5,12 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version-i-wish-i-hated-you",
   ownLength: 2.56055,
-  ownProgress: 0,
+  ownProgress: 2.56055,
   partOfCollections: [
     "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
   ],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

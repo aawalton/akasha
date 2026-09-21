@@ -5,10 +5,10 @@ export const paulCardallANewCreationGethsemane = {
   type: "page-type/track",
   slug: "paul-cardall-a-new-creation-gethsemane",
   ownLength: 3.5733333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5733333333333333,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

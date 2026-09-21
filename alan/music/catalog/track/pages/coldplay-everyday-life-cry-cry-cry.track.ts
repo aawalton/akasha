@@ -5,10 +5,10 @@ export const coldplayEverydayLifeCryCryCry = {
   type: "page-type/track",
   slug: "coldplay-everyday-life-cry-cry-cry",
   ownLength: 2.788,
-  ownProgress: 0,
+  ownProgress: 2.788,
   partOfCollections: ["release/coldplay-everyday-life"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

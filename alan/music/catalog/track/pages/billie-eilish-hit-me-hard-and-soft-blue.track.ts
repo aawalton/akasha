@@ -5,10 +5,10 @@ export const billieEilishHitMeHardAndSoftBlue = {
   type: "page-type/track",
   slug: "billie-eilish-hit-me-hard-and-soft-blue",
   ownLength: 5.718666666666667,
-  ownProgress: 0,
+  ownProgress: 5.718666666666667,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

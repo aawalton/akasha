@@ -5,10 +5,10 @@ export const auroraRunawayOrchestralRunaway = {
   type: "page-type/track",
   slug: "aurora-runaway-orchestral-runaway",
   ownLength: 4.1471,
-  ownProgress: 0,
+  ownProgress: 4.1471,
   partOfCollections: ["release/aurora-runaway-orchestral"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

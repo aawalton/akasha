@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsEveryNight = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-every-night",
   ownLength: 3.592216666666667,
-  ownProgress: 0,
+  ownProgress: 3.592216666666667,
   partOfCollections: ["release/imagine-dragons-night-visions"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

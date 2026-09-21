@@ -5,10 +5,10 @@ export const thePianoGuys3GhostRainyDayWaltz = {
   type: "page-type/track",
   slug: "the-piano-guys-3-ghost-rainy-day-waltz",
   ownLength: 3.7321166666666667,
-  ownProgress: 0,
+  ownProgress: 3.7321166666666667,
   partOfCollections: ["release/the-piano-guys-3-ghost"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

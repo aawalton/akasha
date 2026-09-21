@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneyLittleDrummerBoy = {
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-little-drummer-boy",
   ownLength: 3.1007833333333332,
-  ownProgress: 0,
+  ownProgress: 3.1007833333333332,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

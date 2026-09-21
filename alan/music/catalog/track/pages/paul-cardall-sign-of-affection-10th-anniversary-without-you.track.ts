@@ -5,10 +5,10 @@ export const paulCardallSignOfAffection10thAnniversaryWithoutYou = {
   type: "page-type/track",
   slug: "paul-cardall-sign-of-affection-10th-anniversary-without-you",
   ownLength: 2.9311,
-  ownProgress: 0,
+  ownProgress: 2.9311,
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

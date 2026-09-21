@@ -5,10 +5,10 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionSomewhere = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection-somewhere",
   ownLength: 2.2037666666666667,
-  ownProgress: 0,
+  ownProgress: 2.2037666666666667,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

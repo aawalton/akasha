@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourSomethingInTheWaySheMovesLiveAtTheTr
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-something-in-the-way-she-moves-live-at-the-troubadour-2007",
   ownLength: 4.068433333333333,
-  ownProgress: 0,
+  ownProgress: 4.068433333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

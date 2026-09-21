@@ -5,10 +5,10 @@ export const celticWoman2CelticWomanNellaFantasia = {
   type: "page-type/track",
   slug: "celtic-woman-2-celtic-woman-nella-fantasia",
   ownLength: 3.6728833333333335,
-  ownProgress: 0,
+  ownProgress: 3.6728833333333335,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

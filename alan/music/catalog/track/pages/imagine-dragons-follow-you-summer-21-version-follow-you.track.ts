@@ -5,10 +5,10 @@ export const imagineDragonsFollowYouSummer21VersionFollowYou = {
   type: "page-type/track",
   slug: "imagine-dragons-follow-you-summer-21-version-follow-you",
   ownLength: 2.9273833333333332,
-  ownProgress: 0,
+  ownProgress: 2.9273833333333332,
   partOfCollections: ["release/imagine-dragons-follow-you-summer-21-version"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

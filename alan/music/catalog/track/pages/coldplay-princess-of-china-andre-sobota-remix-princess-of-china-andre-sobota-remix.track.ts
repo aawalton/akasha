@@ -5,10 +5,10 @@ export const coldplayPrincessOfChinaAndreSobotaRemixPrincessOfChinaAndreSobotaRe
   type: "page-type/track",
   slug: "coldplay-princess-of-china-andre-sobota-remix-princess-of-china-andre-sobota-remix",
   ownLength: 5.0664,
-  ownProgress: 0,
+  ownProgress: 5.0664,
   partOfCollections: ["release/coldplay-princess-of-china-andre-sobota-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

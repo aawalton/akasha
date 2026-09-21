@@ -5,10 +5,10 @@ export const celticWoman2AChristmasCelebrationCarolOfTheBells = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-christmas-celebration-carol-of-the-bells",
   ownLength: 2.3162166666666666,
-  ownProgress: 0,
+  ownProgress: 2.3162166666666666,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

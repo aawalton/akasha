@@ -5,10 +5,10 @@ export const thePianoGuys3WeddingSeasonSeptember = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wedding-season-september",
   ownLength: 3.4138333333333333,
-  ownProgress: 0,
+  ownProgress: 3.4138333333333333,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

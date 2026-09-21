@@ -5,10 +5,10 @@ export const coldplayXYFixYou = {
   type: "page-type/track",
   slug: "coldplay-x-y-fix-you",
   ownLength: 4.92555,
-  ownProgress: 0,
+  ownProgress: 4.92555,
   partOfCollections: ["release/coldplay-x-y"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

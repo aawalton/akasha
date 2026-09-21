@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversaryDannyBoy20thAnniversary = {
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-danny-boy-20th-anniversary",
   ownLength: 3.5624333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5624333333333333,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

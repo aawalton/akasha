@@ -5,10 +5,10 @@ export const arianaGrandeThankUNextFakeSmile = {
   type: "page-type/track",
   slug: "ariana-grande-thank-u-next-fake-smile",
   ownLength: 3.481333333333333,
-  ownProgress: 0,
+  ownProgress: 3.481333333333333,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlSummerEditionMorning = {
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-summer-edition-morning",
   ownLength: 2.9165666666666668,
-  ownProgress: 0,
+  ownProgress: 2.9165666666666668,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

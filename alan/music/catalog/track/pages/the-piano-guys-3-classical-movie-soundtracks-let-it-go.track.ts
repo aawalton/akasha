@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalMovieSoundtracksLetItGo = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-movie-soundtracks-let-it-go",
   ownLength: 4.0107,
-  ownProgress: 0,
+  ownProgress: 4.0107,
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

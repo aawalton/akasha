@@ -5,10 +5,10 @@ export const thePianoGuys3PopOnPianoSomeoneYouLoved = {
   type: "page-type/track",
   slug: "the-piano-guys-3-pop-on-piano-someone-you-loved",
   ownLength: 3.3857,
-  ownProgress: 0,
+  ownProgress: 3.3857,
   partOfCollections: ["release/the-piano-guys-3-pop-on-piano"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

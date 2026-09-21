@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalLoveRomanceThinkingOutLoud = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-love-romance-thinking-out-loud",
   ownLength: 3.877266666666667,
-  ownProgress: 0,
+  ownProgress: 3.877266666666667,
   partOfCollections: ["release/the-piano-guys-3-classical-love-romance"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

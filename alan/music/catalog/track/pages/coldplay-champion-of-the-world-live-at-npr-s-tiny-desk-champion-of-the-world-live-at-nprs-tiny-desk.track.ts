@@ -5,10 +5,10 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDeskChampionOfTheWorldLiveA
   type: "page-type/track",
   slug: "coldplay-champion-of-the-world-live-at-npr-s-tiny-desk-champion-of-the-world-live-at-nprs-tiny-desk",
   ownLength: 3.60555,
-  ownProgress: 0,
+  ownProgress: 3.60555,
   partOfCollections: ["release/coldplay-champion-of-the-world-live-at-npr-s-tiny-desk"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

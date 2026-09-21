@@ -5,10 +5,10 @@ export const vinnyMarchiCaptainPlatonicCaptainPlatonic = {
   type: "page-type/track",
   slug: "vinny-marchi-captain-platonic-captain-platonic",
   ownLength: 2.0246,
-  ownProgress: 0,
+  ownProgress: 2.0246,
   partOfCollections: ["release/vinny-marchi-captain-platonic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

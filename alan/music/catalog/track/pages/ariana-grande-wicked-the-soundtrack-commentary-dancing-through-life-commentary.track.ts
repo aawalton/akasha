@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-dancing-through-life-commentary",
   ownLength: 1.4135833333333334,
-  ownProgress: 0,
+  ownProgress: 1.4135833333333334,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

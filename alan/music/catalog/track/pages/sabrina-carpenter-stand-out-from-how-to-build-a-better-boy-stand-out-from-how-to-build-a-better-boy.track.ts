@@ -5,10 +5,10 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoyStandOutFromHowToBu
   type: "page-type/track",
   slug: "sabrina-carpenter-stand-out-from-how-to-build-a-better-boy-stand-out-from-how-to-build-a-better-boy",
   ownLength: 3.4804333333333335,
-  ownProgress: 0,
+  ownProgress: 3.4804333333333335,
   partOfCollections: ["release/sabrina-carpenter-stand-out-from-how-to-build-a-better-boy"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

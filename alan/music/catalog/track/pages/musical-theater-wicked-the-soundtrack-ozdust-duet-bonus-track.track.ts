@@ -5,10 +5,10 @@ export const musicalTheaterWickedTheSoundtrackOzdustDuetBonusTrack = {
   type: "page-type/track",
   slug: "musical-theater-wicked-the-soundtrack-ozdust-duet-bonus-track",
   ownLength: 2.1977166666666665,
-  ownProgress: 0,
+  ownProgress: 2.1977166666666665,
   partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

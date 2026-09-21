@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysAllCreaturesOfOurGodAndKing = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-all-creatures-of-our-god-and-king",
   ownLength: 2.7088833333333335,
-  ownProgress: 0,
+  ownProgress: 2.7088833333333335,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 26,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

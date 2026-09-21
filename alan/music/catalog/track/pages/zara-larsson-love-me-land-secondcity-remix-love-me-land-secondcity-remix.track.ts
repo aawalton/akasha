@@ -5,10 +5,10 @@ export const zaraLarssonLoveMeLandSecondcityRemixLoveMeLandSecondcityRemix = {
   type: "page-type/track",
   slug: "zara-larsson-love-me-land-secondcity-remix-love-me-land-secondcity-remix",
   ownLength: 3.7816833333333335,
-  ownProgress: 0,
+  ownProgress: 3.7816833333333335,
   partOfCollections: ["release/zara-larsson-love-me-land-secondcity-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

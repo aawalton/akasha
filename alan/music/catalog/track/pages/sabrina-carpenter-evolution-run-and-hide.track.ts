@@ -5,10 +5,10 @@ export const sabrinaCarpenterEvolutionRunAndHide = {
   type: "page-type/track",
   slug: "sabrina-carpenter-evolution-run-and-hide",
   ownLength: 3.494,
-  ownProgress: 0,
+  ownProgress: 3.494,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

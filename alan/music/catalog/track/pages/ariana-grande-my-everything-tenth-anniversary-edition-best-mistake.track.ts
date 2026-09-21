@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBestMistake = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-best-mistake",
   ownLength: 3.895566666666667,
-  ownProgress: 0,
+  ownProgress: 3.895566666666667,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

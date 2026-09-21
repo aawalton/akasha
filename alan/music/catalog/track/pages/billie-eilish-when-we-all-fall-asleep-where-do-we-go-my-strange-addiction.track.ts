@@ -5,10 +5,10 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoMyStrangeAddiction = {
   type: "page-type/track",
   slug: "billie-eilish-when-we-all-fall-asleep-where-do-we-go-my-strange-addiction",
   ownLength: 2.99815,
-  ownProgress: 0,
+  ownProgress: 2.99815,
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

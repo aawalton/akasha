@@ -5,10 +5,10 @@ export const imagineDragonsMercuryActs12Cutthroat = {
   type: "page-type/track",
   slug: "imagine-dragons-mercury-acts-1-2-cutthroat",
   ownLength: 2.8290166666666665,
-  ownProgress: 0,
+  ownProgress: 2.8290166666666665,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

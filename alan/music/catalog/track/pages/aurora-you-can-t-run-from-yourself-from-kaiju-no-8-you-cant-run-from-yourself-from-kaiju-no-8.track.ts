@@ -5,10 +5,10 @@ export const auroraYouCanTRunFromYourselfFromKaijuNo8YouCantRunFromYourselfFromK
   type: "page-type/track",
   slug: "aurora-you-can-t-run-from-yourself-from-kaiju-no-8-you-cant-run-from-yourself-from-kaiju-no-8",
   ownLength: 2.2786666666666666,
-  ownProgress: 0,
+  ownProgress: 2.2786666666666666,
   partOfCollections: ["release/aurora-you-can-t-run-from-yourself-from-kaiju-no-8"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

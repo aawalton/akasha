@@ -5,10 +5,10 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDonDiabloR
   type: "page-type/track",
   slug: "coldplay-something-just-like-this-remixes-something-just-like-this-don-diablo-remix",
   ownLength: 3.84755,
-  ownProgress: 0,
+  ownProgress: 3.84755,
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

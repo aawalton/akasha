@@ -5,10 +5,10 @@ export const arianaGrandeYesAndRemixesYesAndJonasBlueRemix = {
   type: "page-type/track",
   slug: "ariana-grande-yes-and-remixes-yes-and-jonas-blue-remix",
   ownLength: 3.5483833333333332,
-  ownProgress: 0,
+  ownProgress: 3.5483833333333332,
   partOfCollections: ["release/ariana-grande-yes-and-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

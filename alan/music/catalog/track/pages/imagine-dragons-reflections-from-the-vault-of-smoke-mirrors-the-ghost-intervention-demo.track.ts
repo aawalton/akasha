@@ -5,10 +5,10 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsTheGhostInterven
   type: "page-type/track",
   slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors-the-ghost-intervention-demo",
   ownLength: 3.23135,
-  ownProgress: 0,
+  ownProgress: 3.23135,
   partOfCollections: ["release/imagine-dragons-reflections-from-the-vault-of-smoke-mirrors"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

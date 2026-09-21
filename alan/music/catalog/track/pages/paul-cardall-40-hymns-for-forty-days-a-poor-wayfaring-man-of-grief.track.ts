@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysAPoorWayfaringManOfGrief = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-a-poor-wayfaring-man-of-grief",
   ownLength: 2.1008833333333334,
-  ownProgress: 0,
+  ownProgress: 2.1008833333333334,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

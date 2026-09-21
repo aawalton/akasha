@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionCastlesAndCathedralsSoloPianoV
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-castles-and-cathedrals-solo-piano-version",
   ownLength: 4.833333333333333,
-  ownProgress: 0,
+  ownProgress: 4.833333333333333,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3WondersHome = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wonders-home",
   ownLength: 4.626,
-  ownProgress: 0,
+  ownProgress: 4.626,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

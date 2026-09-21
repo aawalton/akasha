@@ -5,10 +5,10 @@ export const thePianoGuys3RewriteTheStarsRewriteTheStars = {
   type: "page-type/track",
   slug: "the-piano-guys-3-rewrite-the-stars-rewrite-the-stars",
   ownLength: 3.52555,
-  ownProgress: 0,
+  ownProgress: 3.52555,
   partOfCollections: ["release/the-piano-guys-3-rewrite-the-stars"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

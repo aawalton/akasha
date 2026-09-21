@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasWhereAreYouChristmasFeatSarahSchmidt =
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-where-are-you-christmas-feat-sarah-schmidt",
   ownLength: 3.9578333333333333,
-  ownProgress: 0,
+  ownProgress: 3.9578333333333333,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

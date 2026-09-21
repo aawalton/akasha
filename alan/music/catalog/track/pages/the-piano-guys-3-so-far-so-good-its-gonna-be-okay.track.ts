@@ -5,10 +5,10 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkay = {
   type: "page-type/track",
   slug: "the-piano-guys-3-so-far-so-good-its-gonna-be-okay",
   ownLength: 3.5133833333333335,
-  ownProgress: 0,
+  ownProgress: 3.5133833333333335,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

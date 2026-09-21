@@ -5,10 +5,10 @@ export const coldplaySpotifySinglesLetSomebodyGoSpotifySingles = {
   type: "page-type/track",
   slug: "coldplay-spotify-singles-let-somebody-go-spotify-singles",
   ownLength: 4.052566666666666,
-  ownProgress: 0,
+  ownProgress: 4.052566666666666,
   partOfCollections: ["release/coldplay-spotify-singles"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

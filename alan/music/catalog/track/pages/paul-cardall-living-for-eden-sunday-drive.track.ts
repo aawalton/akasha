@@ -5,10 +5,10 @@ export const paulCardallLivingForEdenSundayDrive = {
   type: "page-type/track",
   slug: "paul-cardall-living-for-eden-sunday-drive",
   ownLength: 3.203333333333333,
-  ownProgress: 0,
+  ownProgress: 3.203333333333333,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

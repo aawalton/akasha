@@ -5,10 +5,10 @@ export const thePianoGuys3WayfaringStrangerWayfaringStranger = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wayfaring-stranger-wayfaring-stranger",
   ownLength: 3.8780833333333335,
-  ownProgress: 0,
+  ownProgress: 3.8780833333333335,
   partOfCollections: ["release/the-piano-guys-3-wayfaring-stranger"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

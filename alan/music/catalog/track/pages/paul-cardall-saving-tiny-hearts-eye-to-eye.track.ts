@@ -5,10 +5,10 @@ export const paulCardallSavingTinyHeartsEyeToEye = {
   type: "page-type/track",
   slug: "paul-cardall-saving-tiny-hearts-eye-to-eye",
   ownLength: 4.4844333333333335,
-  ownProgress: 0,
+  ownProgress: 4.4844333333333335,
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

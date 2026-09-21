@@ -5,10 +5,10 @@ export const thePianoGuys310YouSay = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-you-say",
   ownLength: 5.175666666666666,
-  ownProgress: 0,
+  ownProgress: 5.175666666666666,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

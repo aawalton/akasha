@@ -5,10 +5,10 @@ export const thePianoGuys3MainTitleFromJurassicParkJurassicParkTheme = {
   type: "page-type/track",
   slug: "the-piano-guys-3-main-title-from-jurassic-park-jurassic-park-theme",
   ownLength: 3.9311333333333334,
-  ownProgress: 0,
+  ownProgress: 3.9311333333333334,
   partOfCollections: ["release/the-piano-guys-3-main-title-from-jurassic-park"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

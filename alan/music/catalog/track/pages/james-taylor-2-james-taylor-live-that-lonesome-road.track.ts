@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveThatLonesomeRoad = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-that-lonesome-road",
   ownLength: 2.7704333333333335,
-  ownProgress: 0,
+  ownProgress: 2.7704333333333335,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

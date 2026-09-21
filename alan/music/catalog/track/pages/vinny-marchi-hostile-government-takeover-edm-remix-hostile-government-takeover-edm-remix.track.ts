@@ -5,10 +5,10 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemixHostileGovernmentTakeov
   type: "page-type/track",
   slug: "vinny-marchi-hostile-government-takeover-edm-remix-hostile-government-takeover-edm-remix",
   ownLength: 2.6569333333333334,
-  ownProgress: 0,
+  ownProgress: 2.6569333333333334,
   partOfCollections: ["release/vinny-marchi-hostile-government-takeover-edm-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

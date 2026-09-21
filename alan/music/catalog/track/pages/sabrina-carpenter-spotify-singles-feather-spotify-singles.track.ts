@@ -5,10 +5,10 @@ export const sabrinaCarpenterSpotifySinglesFeatherSpotifySingles = {
   type: "page-type/track",
   slug: "sabrina-carpenter-spotify-singles-feather-spotify-singles",
   ownLength: 3.090866666666667,
-  ownProgress: 0,
+  ownProgress: 3.090866666666667,
   partOfCollections: ["release/sabrina-carpenter-spotify-singles"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

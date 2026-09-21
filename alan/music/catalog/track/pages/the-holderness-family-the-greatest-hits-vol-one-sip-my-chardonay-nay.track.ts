@@ -5,10 +5,10 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSipMyChardonayNay = {
   type: "page-type/track",
   slug: "the-holderness-family-the-greatest-hits-vol-one-sip-my-chardonay-nay",
   ownLength: 2.25915,
-  ownProgress: 0,
+  ownProgress: 2.25915,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

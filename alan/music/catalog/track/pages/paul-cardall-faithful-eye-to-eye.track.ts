@@ -5,10 +5,10 @@ export const paulCardallFaithfulEyeToEye = {
   type: "page-type/track",
   slug: "paul-cardall-faithful-eye-to-eye",
   ownLength: 4.4844333333333335,
-  ownProgress: 0,
+  ownProgress: 4.4844333333333335,
   partOfCollections: ["release/paul-cardall-faithful"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

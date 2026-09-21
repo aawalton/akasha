@@ -5,10 +5,10 @@ export const alexandriaFireAndIceFireAndIce = {
   type: "page-type/track",
   slug: "alexandria-fire-and-ice-fire-and-ice",
   ownLength: 2.3349,
-  ownProgress: 0,
+  ownProgress: 2.3349,
   partOfCollections: ["release/alexandria-fire-and-ice"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayDonTPanicDontPanic = {
   type: "page-type/track",
   slug: "coldplay-don-t-panic-dont-panic",
   ownLength: 2.2811,
-  ownProgress: 0,
+  ownProgress: 2.2811,
   partOfCollections: ["release/coldplay-don-t-panic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

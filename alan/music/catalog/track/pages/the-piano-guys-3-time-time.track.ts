@@ -5,10 +5,10 @@ export const thePianoGuys3TimeTime = {
   type: "page-type/track",
   slug: "the-piano-guys-3-time-time",
   ownLength: 4.2,
-  ownProgress: 0,
+  ownProgress: 4.2,
   partOfCollections: ["release/the-piano-guys-3-time"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

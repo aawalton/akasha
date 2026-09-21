@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysBeethovens5Secrets = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-beethovens-5-secrets",
   ownLength: 5.16305,
-  ownProgress: 0,
+  ownProgress: 5.16305,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

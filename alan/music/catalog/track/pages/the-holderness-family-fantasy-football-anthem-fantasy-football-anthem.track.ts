@@ -5,10 +5,10 @@ export const theHoldernessFamilyFantasyFootballAnthemFantasyFootballAnthem = {
   type: "page-type/track",
   slug: "the-holderness-family-fantasy-football-anthem-fantasy-football-anthem",
   ownLength: 3.36935,
-  ownProgress: 0,
+  ownProgress: 3.36935,
   partOfCollections: ["release/the-holderness-family-fantasy-football-anthem"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

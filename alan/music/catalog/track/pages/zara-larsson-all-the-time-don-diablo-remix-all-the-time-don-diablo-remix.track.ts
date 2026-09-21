@@ -5,10 +5,10 @@ export const zaraLarssonAllTheTimeDonDiabloRemixAllTheTimeDonDiabloRemix = {
   type: "page-type/track",
   slug: "zara-larsson-all-the-time-don-diablo-remix-all-the-time-don-diablo-remix",
   ownLength: 2.9436,
-  ownProgress: 0,
+  ownProgress: 2.9436,
   partOfCollections: ["release/zara-larsson-all-the-time-don-diablo-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

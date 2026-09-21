@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassLittleMoreTimeWithYou = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-little-more-time-with-you",
   ownLength: 3.848883333333333,
-  ownProgress: 0,
+  ownProgress: 3.848883333333333,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

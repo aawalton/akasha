@@ -5,10 +5,10 @@ export const arianaGrandeLoveMeHarderLoveMeHarder = {
   type: "page-type/track",
   slug: "ariana-grande-love-me-harder-love-me-harder",
   ownLength: 3.9340166666666665,
-  ownProgress: 0,
+  ownProgress: 3.9340166666666665,
   partOfCollections: ["release/ariana-grande-love-me-harder"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

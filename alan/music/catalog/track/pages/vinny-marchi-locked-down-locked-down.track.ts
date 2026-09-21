@@ -5,10 +5,10 @@ export const vinnyMarchiLockedDownLockedDown = {
   type: "page-type/track",
   slug: "vinny-marchi-locked-down-locked-down",
   ownLength: 2.38645,
-  ownProgress: 0,
+  ownProgress: 2.38645,
   partOfCollections: ["release/vinny-marchi-locked-down"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3ChristmasTogetherAngelsFromTheRealmsOfGloryFeatDavidAr
   type: "page-type/track",
   slug: "the-piano-guys-3-christmas-together-angels-from-the-realms-of-glory-feat-david-archuleta-peter",
   ownLength: 4.096866666666667,
-  ownProgress: 0,
+  ownProgress: 4.096866666666667,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

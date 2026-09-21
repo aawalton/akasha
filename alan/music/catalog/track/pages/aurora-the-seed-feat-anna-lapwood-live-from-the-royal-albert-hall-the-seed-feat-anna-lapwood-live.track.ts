@@ -5,10 +5,10 @@ export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHallTheSeedFeatAn
   type: "page-type/track",
   slug: "aurora-the-seed-feat-anna-lapwood-live-from-the-royal-albert-hall-the-seed-feat-anna-lapwood-live",
   ownLength: 5.249333333333333,
-  ownProgress: 0,
+  ownProgress: 5.249333333333333,
   partOfCollections: ["release/aurora-the-seed-feat-anna-lapwood-live-from-the-royal-albert-hall"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

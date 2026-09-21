@@ -5,10 +5,10 @@ export const arianaGrandeSaveYourTearsRemixSaveYourTearsWithArianaGrandeRemix = 
   type: "page-type/track",
   slug: "ariana-grande-save-your-tears-remix-save-your-tears-with-ariana-grande-remix",
   ownLength: 3.18355,
-  ownProgress: 0,
+  ownProgress: 3.18355,
   partOfCollections: ["release/ariana-grande-save-your-tears-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

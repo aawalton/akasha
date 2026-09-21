@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaProspektSMarchEditionPostcardsFromFarAway = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-prospekt-s-march-edition-postcards-from-far-away",
   ownLength: 0.8021333333333334,
-  ownProgress: 0,
+  ownProgress: 0.8021333333333334,
   partOfCollections: ["release/coldplay-viva-la-vida-prospekt-s-march-edition"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

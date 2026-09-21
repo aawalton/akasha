@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaDeathWillNeverConquer = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-death-will-never-conquer",
   ownLength: 1.29755,
-  ownProgress: 0,
+  ownProgress: 1.29755,
   partOfCollections: ["release/coldplay-viva-la-vida"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

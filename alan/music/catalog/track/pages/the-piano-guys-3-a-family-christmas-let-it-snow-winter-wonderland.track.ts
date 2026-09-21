@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasLetItSnowWinterWonderland = {
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-let-it-snow-winter-wonderland",
   ownLength: 3.4806333333333335,
-  ownProgress: 0,
+  ownProgress: 3.4806333333333335,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

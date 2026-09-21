@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyMoGhileMear = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-mo-ghile-mear",
   ownLength: 4.832666666666666,
-  ownProgress: 0,
+  ownProgress: 4.832666666666666,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

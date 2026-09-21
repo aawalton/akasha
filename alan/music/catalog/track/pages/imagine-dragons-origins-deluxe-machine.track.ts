@@ -5,10 +5,10 @@ export const imagineDragonsOriginsDeluxeMachine = {
   type: "page-type/track",
   slug: "imagine-dragons-origins-deluxe-machine",
   ownLength: 3.0313333333333334,
-  ownProgress: 0,
+  ownProgress: 3.0313333333333334,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

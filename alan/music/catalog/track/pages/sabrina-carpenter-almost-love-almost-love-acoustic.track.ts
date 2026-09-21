@@ -5,10 +5,10 @@ export const sabrinaCarpenterAlmostLoveAlmostLoveAcoustic = {
   type: "page-type/track",
   slug: "sabrina-carpenter-almost-love-almost-love-acoustic",
   ownLength: 3.7994,
-  ownProgress: 0,
+  ownProgress: 3.7994,
   partOfCollections: ["release/sabrina-carpenter-almost-love"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

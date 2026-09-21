@@ -5,10 +5,10 @@ export const auroraForTheMetalPeopleUnderTheWater = {
   type: "page-type/track",
   slug: "aurora-for-the-metal-people-under-the-water",
   ownLength: 4.41,
-  ownProgress: 0,
+  ownProgress: 4.41,
   partOfCollections: ["release/aurora-for-the-metal-people"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

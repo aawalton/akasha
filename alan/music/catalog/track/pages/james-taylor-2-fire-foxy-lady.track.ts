@@ -5,10 +5,10 @@ export const jamesTaylor2FireFoxyLady = {
   type: "page-type/track",
   slug: "james-taylor-2-fire-foxy-lady",
   ownLength: 4.983333333333333,
-  ownProgress: 0,
+  ownProgress: 4.983333333333333,
   partOfCollections: ["release/james-taylor-2-fire"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

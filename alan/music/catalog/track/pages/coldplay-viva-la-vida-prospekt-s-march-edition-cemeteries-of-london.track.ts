@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaProspektSMarchEditionCemeteriesOfLondon = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-prospekt-s-march-edition-cemeteries-of-london",
   ownLength: 3.351766666666667,
-  ownProgress: 0,
+  ownProgress: 3.351766666666667,
   partOfCollections: ["release/coldplay-viva-la-vida-prospekt-s-march-edition"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

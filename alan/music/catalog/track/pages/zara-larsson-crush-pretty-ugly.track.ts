@@ -5,10 +5,10 @@ export const zaraLarssonCrushPrettyUgly = {
   type: "page-type/track",
   slug: "zara-larsson-crush-pretty-ugly",
   ownLength: 2.6449333333333334,
-  ownProgress: 0,
+  ownProgress: 2.6449333333333334,
   partOfCollections: ["release/zara-larsson-crush"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

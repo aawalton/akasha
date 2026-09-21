@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassBoatman = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-boatman",
   ownLength: 3.9433333333333334,
-  ownProgress: 0,
+  ownProgress: 3.9433333333333334,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

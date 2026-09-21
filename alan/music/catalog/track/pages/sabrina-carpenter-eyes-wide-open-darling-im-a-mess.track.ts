@@ -5,10 +5,10 @@ export const sabrinaCarpenterEyesWideOpenDarlingImAMess = {
   type: "page-type/track",
   slug: "sabrina-carpenter-eyes-wide-open-darling-im-a-mess",
   ownLength: 2.9842166666666667,
-  ownProgress: 0,
+  ownProgress: 2.9842166666666667,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

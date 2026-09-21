@@ -5,10 +5,10 @@ export const zaraLarsson1Endless = {
   type: "page-type/track",
   slug: "zara-larsson-1-endless",
   ownLength: 2.7791,
-  ownProgress: 0,
+  ownProgress: 2.7791,
   partOfCollections: ["release/zara-larsson-1"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

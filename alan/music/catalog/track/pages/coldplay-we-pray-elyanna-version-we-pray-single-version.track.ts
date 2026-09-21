@@ -5,10 +5,10 @@ export const coldplayWePrayElyannaVersionWePraySingleVersion = {
   type: "page-type/track",
   slug: "coldplay-we-pray-elyanna-version-we-pray-single-version",
   ownLength: 3.8901,
-  ownProgress: 0,
+  ownProgress: 3.8901,
   partOfCollections: ["release/coldplay-we-pray-elyanna-version"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

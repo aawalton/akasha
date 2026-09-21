@@ -5,10 +5,10 @@ export const arianaGrandeSweetenerPeteDavidson = {
   type: "page-type/track",
   slug: "ariana-grande-sweetener-pete-davidson",
   ownLength: 1.2302166666666667,
-  ownProgress: 0,
+  ownProgress: 1.2302166666666667,
   partOfCollections: ["release/ariana-grande-sweetener"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2CoversOnBroadway = {
   type: "page-type/track",
   slug: "james-taylor-2-covers-on-broadway",
   ownLength: 4.189333333333333,
-  ownProgress: 0,
+  ownProgress: 4.189333333333333,
   partOfCollections: ["release/james-taylor-2-covers"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

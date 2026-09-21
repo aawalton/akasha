@@ -5,10 +5,10 @@ export const celticWoman2CelticWomanTheSoftGoodbye = {
   type: "page-type/track",
   slug: "celtic-woman-2-celtic-woman-the-soft-goodbye",
   ownLength: 3.985333333333333,
-  ownProgress: 0,
+  ownProgress: 3.985333333333333,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

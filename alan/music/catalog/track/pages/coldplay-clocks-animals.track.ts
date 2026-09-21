@@ -5,10 +5,10 @@ export const coldplayClocksAnimals = {
   type: "page-type/track",
   slug: "coldplay-clocks-animals",
   ownLength: 5.554433333333333,
-  ownProgress: 0,
+  ownProgress: 5.554433333333333,
   partOfCollections: ["release/coldplay-clocks"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

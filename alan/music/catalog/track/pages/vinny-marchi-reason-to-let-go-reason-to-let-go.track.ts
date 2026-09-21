@@ -5,10 +5,10 @@ export const vinnyMarchiReasonToLetGoReasonToLetGo = {
   type: "page-type/track",
   slug: "vinny-marchi-reason-to-let-go-reason-to-let-go",
   ownLength: 3.5245,
-  ownProgress: 0,
+  ownProgress: 3.5245,
   partOfCollections: ["release/vinny-marchi-reason-to-let-go"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

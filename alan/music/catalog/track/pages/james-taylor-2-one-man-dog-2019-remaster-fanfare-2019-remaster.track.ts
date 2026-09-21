@@ -5,10 +5,10 @@ export const jamesTaylor2OneManDog2019RemasterFanfare2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-one-man-dog-2019-remaster-fanfare-2019-remaster",
   ownLength: 2.59655,
-  ownProgress: 0,
+  ownProgress: 2.59655,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

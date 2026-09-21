@@ -5,10 +5,10 @@ export const paulCardallLiveVoicesLive = {
   type: "page-type/track",
   slug: "paul-cardall-live-voices-live",
   ownLength: 3.6477666666666666,
-  ownProgress: 0,
+  ownProgress: 3.6477666666666666,
   partOfCollections: ["release/paul-cardall-live"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

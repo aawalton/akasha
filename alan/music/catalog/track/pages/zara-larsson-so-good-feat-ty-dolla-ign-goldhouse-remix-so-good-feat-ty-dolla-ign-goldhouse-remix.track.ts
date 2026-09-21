@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemixSoGoodFeatTyDollaIgnGo
   type: "page-type/track",
   slug: "zara-larsson-so-good-feat-ty-dolla-ign-goldhouse-remix-so-good-feat-ty-dolla-ign-goldhouse-remix",
   ownLength: 3.4299166666666667,
-  ownProgress: 0,
+  ownProgress: 3.4299166666666667,
   partOfCollections: ["release/zara-larsson-so-good-feat-ty-dolla-ign-goldhouse-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

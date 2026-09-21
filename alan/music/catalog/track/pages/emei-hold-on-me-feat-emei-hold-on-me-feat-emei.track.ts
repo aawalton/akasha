@@ -5,10 +5,10 @@ export const emeiHoldOnMeFeatEmeiHoldOnMeFeatEmei = {
   type: "page-type/track",
   slug: "emei-hold-on-me-feat-emei-hold-on-me-feat-emei",
   ownLength: 2.4928166666666667,
-  ownProgress: 0,
+  ownProgress: 2.4928166666666667,
   partOfCollections: ["release/emei-hold-on-me-feat-emei"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

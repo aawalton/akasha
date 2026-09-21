@@ -5,10 +5,10 @@ export const celticWoman2PostcardsFromIrelandTheLakesOfPontchartrain = {
   type: "page-type/track",
   slug: "celtic-woman-2-postcards-from-ireland-the-lakes-of-pontchartrain",
   ownLength: 3.9351,
-  ownProgress: 0,
+  ownProgress: 3.9351,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

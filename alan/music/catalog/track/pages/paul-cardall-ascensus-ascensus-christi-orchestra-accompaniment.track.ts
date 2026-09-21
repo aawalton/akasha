@@ -5,10 +5,10 @@ export const paulCardallAscensusAscensusChristiOrchestraAccompaniment = {
   type: "page-type/track",
   slug: "paul-cardall-ascensus-ascensus-christi-orchestra-accompaniment",
   ownLength: 4.869683333333334,
-  ownProgress: 0,
+  ownProgress: 4.869683333333334,
   partOfCollections: ["release/paul-cardall-ascensus"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

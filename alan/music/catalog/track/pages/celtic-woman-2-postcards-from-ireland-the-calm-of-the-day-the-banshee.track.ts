@@ -5,10 +5,10 @@ export const celticWoman2PostcardsFromIrelandTheCalmOfTheDayTheBanshee = {
   type: "page-type/track",
   slug: "celtic-woman-2-postcards-from-ireland-the-calm-of-the-day-the-banshee",
   ownLength: 2.9537666666666667,
-  ownProgress: 0,
+  ownProgress: 2.9537666666666667,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

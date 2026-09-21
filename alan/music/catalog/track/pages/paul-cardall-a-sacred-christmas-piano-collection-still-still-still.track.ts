@@ -5,10 +5,10 @@ export const paulCardallASacredChristmasPianoCollectionStillStillStill = {
   type: "page-type/track",
   slug: "paul-cardall-a-sacred-christmas-piano-collection-still-still-still",
   ownLength: 2.3044333333333333,
-  ownProgress: 0,
+  ownProgress: 2.3044333333333333,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

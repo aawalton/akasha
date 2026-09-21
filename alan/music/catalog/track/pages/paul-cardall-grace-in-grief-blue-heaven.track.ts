@@ -5,10 +5,10 @@ export const paulCardallGraceInGriefBlueHeaven = {
   type: "page-type/track",
   slug: "paul-cardall-grace-in-grief-blue-heaven",
   ownLength: 3.82145,
-  ownProgress: 0,
+  ownProgress: 3.82145,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

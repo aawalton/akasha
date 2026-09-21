@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeAmerica = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-america",
   ownLength: 4.566883333333333,
-  ownProgress: 0,
+  ownProgress: 4.566883333333333,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

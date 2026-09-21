@@ -6,10 +6,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveLive
     type: "page-type/track",
     slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-radioactive-live-london-sessions-2013",
     ownLength: 4.501333333333333,
-    ownProgress: 0,
+    ownProgress: 4.501333333333333,
     partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
     position: 13,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

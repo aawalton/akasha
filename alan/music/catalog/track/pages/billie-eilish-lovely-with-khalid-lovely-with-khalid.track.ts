@@ -5,10 +5,10 @@ export const billieEilishLovelyWithKhalidLovelyWithKhalid = {
   type: "page-type/track",
   slug: "billie-eilish-lovely-with-khalid-lovely-with-khalid",
   ownLength: 3.3364166666666666,
-  ownProgress: 0,
+  ownProgress: 3.3364166666666666,
   partOfCollections: ["release/billie-eilish-lovely-with-khalid"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

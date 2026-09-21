@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadOrdinaryThingsFea
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-ordinary-things-feat-nonna",
   ownLength: 2.808333333333333,
-  ownProgress: 0,
+  ownProgress: 2.808333333333333,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

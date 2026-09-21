@@ -5,10 +5,10 @@ export const paulCardallChillCollectionOurLove = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-our-love",
   ownLength: 3.894416666666667,
-  ownProgress: 0,
+  ownProgress: 3.894416666666667,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadIntroEndOfTheWorl
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-intro-end-of-the-world-extended",
   ownLength: 2.6875333333333336,
-  ownProgress: 0,
+  ownProgress: 2.6875333333333336,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

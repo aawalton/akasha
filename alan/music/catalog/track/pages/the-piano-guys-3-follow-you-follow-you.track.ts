@@ -5,10 +5,10 @@ export const thePianoGuys3FollowYouFollowYou = {
   type: "page-type/track",
   slug: "the-piano-guys-3-follow-you-follow-you",
   ownLength: 3.186,
-  ownProgress: 0,
+  ownProgress: 3.186,
   partOfCollections: ["release/the-piano-guys-3-follow-you"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

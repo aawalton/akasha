@@ -5,10 +5,10 @@ export const coldplayMoonMusicFullMoonEditionAllMyLoveLiveInDublin = {
   type: "page-type/track",
   slug: "coldplay-moon-music-full-moon-edition-all-my-love-live-in-dublin",
   ownLength: 4.10535,
-  ownProgress: 0,
+  ownProgress: 4.10535,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

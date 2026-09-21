@@ -5,10 +5,10 @@ export const thePianoGuys310TitaniumPavane = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-titanium-pavane",
   ownLength: 4.804683333333333,
-  ownProgress: 0,
+  ownProgress: 4.804683333333333,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

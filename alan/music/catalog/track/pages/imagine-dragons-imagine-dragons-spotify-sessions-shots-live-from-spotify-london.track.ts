@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsSpotifySessionsShotsLiveFromSpotifyLond
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-spotify-sessions-shots-live-from-spotify-london",
   ownLength: 3.5468333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5468333333333333,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

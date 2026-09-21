@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionLandOfOurAncestorsSoloPianoVer
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-land-of-our-ancestors-solo-piano-version",
   ownLength: 2.8575166666666667,
-  ownProgress: 0,
+  ownProgress: 2.8575166666666667,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

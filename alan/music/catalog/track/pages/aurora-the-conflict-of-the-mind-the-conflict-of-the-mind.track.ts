@@ -5,10 +5,10 @@ export const auroraTheConflictOfTheMindTheConflictOfTheMind = {
   type: "page-type/track",
   slug: "aurora-the-conflict-of-the-mind-the-conflict-of-the-mind",
   ownLength: 4.263333333333334,
-  ownProgress: 0,
+  ownProgress: 4.263333333333334,
   partOfCollections: ["release/aurora-the-conflict-of-the-mind"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

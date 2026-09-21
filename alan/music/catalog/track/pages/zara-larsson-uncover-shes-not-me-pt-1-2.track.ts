@@ -5,10 +5,10 @@ export const zaraLarssonUncoverShesNotMePt12 = {
   type: "page-type/track",
   slug: "zara-larsson-uncover-shes-not-me-pt-1-2",
   ownLength: 5.5397,
-  ownProgress: 0,
+  ownProgress: 5.5397,
   partOfCollections: ["release/zara-larsson-uncover"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

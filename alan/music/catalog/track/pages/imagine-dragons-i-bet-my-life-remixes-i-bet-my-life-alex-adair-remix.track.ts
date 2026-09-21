@@ -5,10 +5,10 @@ export const imagineDragonsIBetMyLifeRemixesIBetMyLifeAlexAdairRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-i-bet-my-life-remixes-i-bet-my-life-alex-adair-remix",
   ownLength: 3.171333333333333,
-  ownProgress: 0,
+  ownProgress: 3.171333333333333,
   partOfCollections: ["release/imagine-dragons-i-bet-my-life-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const zaraLarssonHonorTheLightSanktaLucia = {
   type: "page-type/track",
   slug: "zara-larsson-honor-the-light-sankta-lucia",
   ownLength: 1.37555,
-  ownProgress: 0,
+  ownProgress: 1.37555,
   partOfCollections: ["release/zara-larsson-honor-the-light"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

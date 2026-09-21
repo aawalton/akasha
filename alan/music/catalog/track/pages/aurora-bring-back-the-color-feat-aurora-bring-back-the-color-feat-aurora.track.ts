@@ -5,10 +5,10 @@ export const auroraBringBackTheColorFeatAuroraBringBackTheColorFeatAurora = {
   type: "page-type/track",
   slug: "aurora-bring-back-the-color-feat-aurora-bring-back-the-color-feat-aurora",
   ownLength: 2.809083333333333,
-  ownProgress: 0,
+  ownProgress: 2.809083333333333,
   partOfCollections: ["release/aurora-bring-back-the-color-feat-aurora"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

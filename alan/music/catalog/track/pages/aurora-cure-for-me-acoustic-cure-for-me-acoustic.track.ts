@@ -5,10 +5,10 @@ export const auroraCureForMeAcousticCureForMeAcoustic = {
   type: "page-type/track",
   slug: "aurora-cure-for-me-acoustic-cure-for-me-acoustic",
   ownLength: 3.556216666666667,
-  ownProgress: 0,
+  ownProgress: 3.556216666666667,
   partOfCollections: ["release/aurora-cure-for-me-acoustic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

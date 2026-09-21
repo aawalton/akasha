@@ -5,10 +5,10 @@ export const coldplayMusicOfTheSpheresBiutyful = {
   type: "page-type/track",
   slug: "coldplay-music-of-the-spheres-biutyful",
   ownLength: 3.206566666666667,
-  ownProgress: 0,
+  ownProgress: 3.206566666666667,
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

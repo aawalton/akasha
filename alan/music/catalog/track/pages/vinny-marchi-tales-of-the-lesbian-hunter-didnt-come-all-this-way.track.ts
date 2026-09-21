@@ -5,10 +5,10 @@ export const vinnyMarchiTalesOfTheLesbianHunterDidntComeAllThisWay = {
   type: "page-type/track",
   slug: "vinny-marchi-tales-of-the-lesbian-hunter-didnt-come-all-this-way",
   ownLength: 2.5641,
-  ownProgress: 0,
+  ownProgress: 2.5641,
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

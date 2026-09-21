@@ -5,10 +5,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeNatureBoyAcoustic = {
   type: "page-type/track",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-nature-boy-acoustic",
   ownLength: 2.9993333333333334,
-  ownProgress: 0,
+  ownProgress: 2.9993333333333334,
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

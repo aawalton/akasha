@@ -5,10 +5,10 @@ export const auroraTheThingTheThing = {
   type: "page-type/track",
   slug: "aurora-the-thing-the-thing",
   ownLength: 5.6353333333333335,
-  ownProgress: 0,
+  ownProgress: 5.6353333333333335,
   partOfCollections: ["release/aurora-the-thing"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

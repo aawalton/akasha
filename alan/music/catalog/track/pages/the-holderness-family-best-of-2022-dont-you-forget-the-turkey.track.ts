@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022DontYouForgetTheTurkey = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-dont-you-forget-the-turkey",
   ownLength: 3.1296,
-  ownProgress: 0,
+  ownProgress: 3.1296,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

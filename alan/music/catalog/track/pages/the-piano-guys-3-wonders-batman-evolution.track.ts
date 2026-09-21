@@ -5,10 +5,10 @@ export const thePianoGuys3WondersBatmanEvolution = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wonders-batman-evolution",
   ownLength: 4.1591,
-  ownProgress: 0,
+  ownProgress: 4.1591,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

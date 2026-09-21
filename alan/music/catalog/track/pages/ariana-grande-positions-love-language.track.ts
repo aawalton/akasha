@@ -5,10 +5,10 @@ export const arianaGrandePositionsLoveLanguage = {
   type: "page-type/track",
   slug: "ariana-grande-positions-love-language",
   ownLength: 2.9976666666666665,
-  ownProgress: 0,
+  ownProgress: 2.9976666666666665,
   partOfCollections: ["release/ariana-grande-positions"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

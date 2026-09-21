@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveSaturnReturnsIn
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live-saturn-returns-interlude",
   ownLength: 0.7027666666666667,
-  ownProgress: 0,
+  ownProgress: 0.7027666666666667,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

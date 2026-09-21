@@ -5,10 +5,10 @@ export const paulCardallReturnHomeFathersAndDaughters = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-fathers-and-daughters",
   ownLength: 4.26595,
-  ownProgress: 0,
+  ownProgress: 4.26595,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

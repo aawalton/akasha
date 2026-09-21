@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOneIWantToKnowWhatDayItIs = {
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-i-want-to-know-what-day-it-is",
   ownLength: 3.7773,
-  ownProgress: 0,
+  ownProgress: 3.7773,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

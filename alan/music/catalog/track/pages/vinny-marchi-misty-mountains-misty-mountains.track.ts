@@ -5,10 +5,10 @@ export const vinnyMarchiMistyMountainsMistyMountains = {
   type: "page-type/track",
   slug: "vinny-marchi-misty-mountains-misty-mountains",
   ownLength: 3.153,
-  ownProgress: 0,
+  ownProgress: 3.153,
   partOfCollections: ["release/vinny-marchi-misty-mountains"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

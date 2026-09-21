@@ -5,10 +5,10 @@ export const thePianoGuys3InTheStarsInTheStars = {
   type: "page-type/track",
   slug: "the-piano-guys-3-in-the-stars-in-the-stars",
   ownLength: 3.6346,
-  ownProgress: 0,
+  ownProgress: 3.6346,
   partOfCollections: ["release/the-piano-guys-3-in-the-stars"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

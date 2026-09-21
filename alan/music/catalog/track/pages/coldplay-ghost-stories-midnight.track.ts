@@ -5,10 +5,10 @@ export const coldplayGhostStoriesMidnight = {
   type: "page-type/track",
   slug: "coldplay-ghost-stories-midnight",
   ownLength: 4.9111,
-  ownProgress: 0,
+  ownProgress: 4.9111,
   partOfCollections: ["release/coldplay-ghost-stories"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveCarolinaInMyMind = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-carolina-in-my-mind",
   ownLength: 5.0277666666666665,
-  ownProgress: 0,
+  ownProgress: 5.0277666666666665,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

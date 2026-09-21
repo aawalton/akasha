@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeartLiveFromL
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-tattooed-heart-live-from-london",
   ownLength: 3.2333,
-  ownProgress: 0,
+  ownProgress: 3.2333,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

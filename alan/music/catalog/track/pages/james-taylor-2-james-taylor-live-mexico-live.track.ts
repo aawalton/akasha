@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveMexicoLive = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-mexico-live",
   ownLength: 3.2622166666666668,
-  ownProgress: 0,
+  ownProgress: 3.2622166666666668,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

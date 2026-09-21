@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxAngelsWeHaveHeardOnHigh = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-angels-we-have-heard-on-high",
   ownLength: 2.736666666666667,
-  ownProgress: 0,
+  ownProgress: 2.736666666666667,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

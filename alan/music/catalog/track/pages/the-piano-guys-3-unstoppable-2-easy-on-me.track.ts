@@ -5,10 +5,10 @@ export const thePianoGuys3Unstoppable2EasyOnMe = {
   type: "page-type/track",
   slug: "the-piano-guys-3-unstoppable-2-easy-on-me",
   ownLength: 2.9859,
-  ownProgress: 0,
+  ownProgress: 2.9859,
   partOfCollections: ["release/the-piano-guys-3-unstoppable-2"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

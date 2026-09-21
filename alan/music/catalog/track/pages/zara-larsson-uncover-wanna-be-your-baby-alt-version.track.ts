@@ -5,10 +5,10 @@ export const zaraLarssonUncoverWannaBeYourBabyAltVersion = {
   type: "page-type/track",
   slug: "zara-larsson-uncover-wanna-be-your-baby-alt-version",
   ownLength: 3.0685166666666666,
-  ownProgress: 0,
+  ownProgress: 3.0685166666666666,
   partOfCollections: ["release/zara-larsson-uncover"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

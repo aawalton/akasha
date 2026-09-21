@@ -5,10 +5,10 @@ export const musicalTheaterWickedTheSoundtrackWhatIsThisFeeling = {
   type: "page-type/track",
   slug: "musical-theater-wicked-the-soundtrack-what-is-this-feeling",
   ownLength: 3.8157833333333335,
-  ownProgress: 0,
+  ownProgress: 3.8157833333333335,
   partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

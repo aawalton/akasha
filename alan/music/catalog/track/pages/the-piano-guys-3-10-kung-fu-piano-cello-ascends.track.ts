@@ -5,10 +5,10 @@ export const thePianoGuys310KungFuPianoCelloAscends = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-kung-fu-piano-cello-ascends",
   ownLength: 4.04705,
-  ownProgress: 0,
+  ownProgress: 4.04705,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

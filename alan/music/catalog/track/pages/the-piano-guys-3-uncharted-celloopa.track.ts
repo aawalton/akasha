@@ -5,10 +5,10 @@ export const thePianoGuys3UnchartedCelloopa = {
   type: "page-type/track",
   slug: "the-piano-guys-3-uncharted-celloopa",
   ownLength: 2.7781166666666666,
-  ownProgress: 0,
+  ownProgress: 2.7781166666666666,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

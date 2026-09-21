@@ -5,10 +5,10 @@ export const paulCardallBeCalmBrainHealthyMusicSacredNatureIi = {
   type: "page-type/track",
   slug: "paul-cardall-be-calm-brain-healthy-music-sacred-nature-ii",
   ownLength: 3.934466666666667,
-  ownProgress: 0,
+  ownProgress: 3.934466666666667,
   partOfCollections: ["release/paul-cardall-be-calm-brain-healthy-music"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const emeiRabbithole2Sugarcoat = {
   type: "page-type/track",
   slug: "emei-rabbithole-2-sugarcoat",
   ownLength: 2.5045,
-  ownProgress: 0,
+  ownProgress: 2.5045,
   partOfCollections: ["release/emei-rabbithole-2"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

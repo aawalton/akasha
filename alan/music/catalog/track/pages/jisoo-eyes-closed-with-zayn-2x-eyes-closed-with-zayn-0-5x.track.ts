@@ -5,10 +5,10 @@ export const jisooEyesClosedWithZayn2xEyesClosedWithZayn05x = {
   type: "page-type/track",
   slug: "jisoo-eyes-closed-with-zayn-2x-eyes-closed-with-zayn-0-5x",
   ownLength: 3.15675,
-  ownProgress: 0,
+  ownProgress: 3.15675,
   partOfCollections: ["release/jisoo-eyes-closed-with-zayn-2x"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

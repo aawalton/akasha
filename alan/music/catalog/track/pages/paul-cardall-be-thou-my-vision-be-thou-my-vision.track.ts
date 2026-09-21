@@ -5,10 +5,10 @@ export const paulCardallBeThouMyVisionBeThouMyVision = {
   type: "page-type/track",
   slug: "paul-cardall-be-thou-my-vision-be-thou-my-vision",
   ownLength: 4.141666666666667,
-  ownProgress: 0,
+  ownProgress: 4.141666666666667,
   partOfCollections: ["release/paul-cardall-be-thou-my-vision"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

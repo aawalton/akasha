@@ -5,10 +5,10 @@ export const paulCardallPassingTimeTopaz = {
   type: "page-type/track",
   slug: "paul-cardall-passing-time-topaz",
   ownLength: 2.7041,
-  ownProgress: 0,
+  ownProgress: 2.7041,
   partOfCollections: ["release/paul-cardall-passing-time"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

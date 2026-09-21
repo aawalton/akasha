@@ -5,10 +5,10 @@ export const auroraWhatHappenedToTheHeartDeluxeDreamsFeatNicoleZignago = {
   type: "page-type/track",
   slug: "aurora-what-happened-to-the-heart-deluxe-dreams-feat-nicole-zignago",
   ownLength: 4.402,
-  ownProgress: 0,
+  ownProgress: 4.402,
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
   position: 20,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

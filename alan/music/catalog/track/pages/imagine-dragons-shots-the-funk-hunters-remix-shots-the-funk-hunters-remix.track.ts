@@ -5,10 +5,10 @@ export const imagineDragonsShotsTheFunkHuntersRemixShotsTheFunkHuntersRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-shots-the-funk-hunters-remix-shots-the-funk-hunters-remix",
   ownLength: 4.76555,
-  ownProgress: 0,
+  ownProgress: 4.76555,
   partOfCollections: ["release/imagine-dragons-shots-the-funk-hunters-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

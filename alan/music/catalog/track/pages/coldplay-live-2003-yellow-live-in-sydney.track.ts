@@ -5,10 +5,10 @@ export const coldplayLive2003YellowLiveInSydney = {
   type: "page-type/track",
   slug: "coldplay-live-2003-yellow-live-in-sydney",
   ownLength: 5.6111,
-  ownProgress: 0,
+  ownProgress: 5.6111,
   partOfCollections: ["release/coldplay-live-2003"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

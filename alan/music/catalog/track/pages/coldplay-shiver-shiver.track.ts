@@ -5,10 +5,10 @@ export const coldplayShiverShiver = {
   type: "page-type/track",
   slug: "coldplay-shiver-shiver",
   ownLength: 5.07,
-  ownProgress: 0,
+  ownProgress: 5.07,
   partOfCollections: ["release/coldplay-shiver"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

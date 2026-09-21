@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversaryAnCailinDearg20thAnniversary = {
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-an-cailin-dearg-20th-anniversary",
   ownLength: 4.016666666666667,
-  ownProgress: 0,
+  ownProgress: 4.016666666666667,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

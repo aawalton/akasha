@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdVicious = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-vicious",
   ownLength: 2.4981666666666666,
-  ownProgress: 0,
+  ownProgress: 2.4981666666666666,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallSacredPianoWhereYouThere = {
   type: "page-type/track",
   slug: "paul-cardall-sacred-piano-where-you-there",
   ownLength: 5.258216666666667,
-  ownProgress: 0,
+  ownProgress: 5.258216666666667,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

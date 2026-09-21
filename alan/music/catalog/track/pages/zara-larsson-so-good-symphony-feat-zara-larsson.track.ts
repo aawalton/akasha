@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodSymphonyFeatZaraLarsson = {
   type: "page-type/track",
   slug: "zara-larsson-so-good-symphony-feat-zara-larsson",
   ownLength: 3.54255,
-  ownProgress: 0,
+  ownProgress: 3.54255,
   partOfCollections: ["release/zara-larsson-so-good"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

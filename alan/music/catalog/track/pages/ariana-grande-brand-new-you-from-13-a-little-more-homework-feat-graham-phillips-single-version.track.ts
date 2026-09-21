@@ -5,10 +5,10 @@ export const arianaGrandeBrandNewYouFrom13ALittleMoreHomeworkFeatGrahamPhillipsS
   type: "page-type/track",
   slug: "ariana-grande-brand-new-you-from-13-a-little-more-homework-feat-graham-phillips-single-version",
   ownLength: 5.04555,
-  ownProgress: 0,
+  ownProgress: 5.04555,
   partOfCollections: ["release/ariana-grande-brand-new-you-from-13"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

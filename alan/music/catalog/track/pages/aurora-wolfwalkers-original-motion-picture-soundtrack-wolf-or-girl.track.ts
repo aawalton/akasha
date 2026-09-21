@@ -5,10 +5,10 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackWolfOrGirl = {
   type: "page-type/track",
   slug: "aurora-wolfwalkers-original-motion-picture-soundtrack-wolf-or-girl",
   ownLength: 1.49,
-  ownProgress: 0,
+  ownProgress: 1.49,
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetFiresideMedleyRememberMeIBelie
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-fireside-medley-remember-me-i-believe-in-christ-come",
   ownLength: 4.754716666666667,
-  ownProgress: 0,
+  ownProgress: 4.754716666666667,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

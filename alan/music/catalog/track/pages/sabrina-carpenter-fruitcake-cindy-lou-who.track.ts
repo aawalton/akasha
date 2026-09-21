@@ -5,10 +5,10 @@ export const sabrinaCarpenterFruitcakeCindyLouWho = {
   type: "page-type/track",
   slug: "sabrina-carpenter-fruitcake-cindy-lou-who",
   ownLength: 2.022666666666667,
-  ownProgress: 0,
+  ownProgress: 2.022666666666667,
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe2000sShoesYourself = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-2000s-shoes-yourself",
   ownLength: 1.6188,
-  ownProgress: 0,
+  ownProgress: 1.6188,
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

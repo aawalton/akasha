@@ -5,10 +5,10 @@ export const auroraMidasTouchMidasTouch = {
   type: "page-type/track",
   slug: "aurora-midas-touch-midas-touch",
   ownLength: 2.6944333333333335,
-  ownProgress: 0,
+  ownProgress: 2.6944333333333335,
   partOfCollections: ["release/aurora-midas-touch"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

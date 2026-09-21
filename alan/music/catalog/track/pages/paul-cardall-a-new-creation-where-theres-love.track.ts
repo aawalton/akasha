@@ -5,10 +5,10 @@ export const paulCardallANewCreationWhereTheresLove = {
   type: "page-type/track",
   slug: "paul-cardall-a-new-creation-where-theres-love",
   ownLength: 3.7371,
-  ownProgress: 0,
+  ownProgress: 3.7371,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

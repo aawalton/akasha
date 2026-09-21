@@ -5,10 +5,10 @@ export const auroraWhatHappenedToTheHeartDeluxeStarvation = {
   type: "page-type/track",
   slug: "aurora-what-happened-to-the-heart-deluxe-starvation",
   ownLength: 3.4602166666666667,
-  ownProgress: 0,
+  ownProgress: 3.4602166666666667,
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

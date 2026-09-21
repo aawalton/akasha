@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysWhereYouThere = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-where-you-there",
   ownLength: 5.28555,
-  ownProgress: 0,
+  ownProgress: 5.28555,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 23,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

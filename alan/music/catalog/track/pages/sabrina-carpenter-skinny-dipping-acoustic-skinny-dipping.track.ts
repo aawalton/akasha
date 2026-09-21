@@ -5,10 +5,10 @@ export const sabrinaCarpenterSkinnyDippingAcousticSkinnyDipping = {
   type: "page-type/track",
   slug: "sabrina-carpenter-skinny-dipping-acoustic-skinny-dipping",
   ownLength: 2.9625,
-  ownProgress: 0,
+  ownProgress: 2.9625,
   partOfCollections: ["release/sabrina-carpenter-skinny-dipping-acoustic"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

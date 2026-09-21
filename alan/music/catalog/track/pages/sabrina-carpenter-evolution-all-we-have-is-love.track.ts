@@ -5,10 +5,10 @@ export const sabrinaCarpenterEvolutionAllWeHaveIsLove = {
   type: "page-type/track",
   slug: "sabrina-carpenter-evolution-all-we-have-is-love",
   ownLength: 3.0382166666666666,
-  ownProgress: 0,
+  ownProgress: 3.0382166666666666,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

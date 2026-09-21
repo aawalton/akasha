@@ -5,10 +5,10 @@ export const jamesTaylor2JtSecretOLife = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-secret-o-life",
   ownLength: 3.5866666666666664,
-  ownProgress: 0,
+  ownProgress: 3.5866666666666664,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallChristmasHymnsGoodKingWenceslas = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hymns-good-king-wenceslas",
   ownLength: 4.608,
-  ownProgress: 0,
+  ownProgress: 4.608,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

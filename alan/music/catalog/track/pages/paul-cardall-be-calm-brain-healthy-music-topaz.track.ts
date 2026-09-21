@@ -5,10 +5,10 @@ export const paulCardallBeCalmBrainHealthyMusicTopaz = {
   type: "page-type/track",
   slug: "paul-cardall-be-calm-brain-healthy-music-topaz",
   ownLength: 2.7041,
-  ownProgress: 0,
+  ownProgress: 2.7041,
   partOfCollections: ["release/paul-cardall-be-calm-brain-healthy-music"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

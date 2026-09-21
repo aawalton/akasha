@@ -5,10 +5,10 @@ export const zaraLarssonRuinMyLifeFutoseRemixRuinMyLifeFutoseRemix = {
   type: "page-type/track",
   slug: "zara-larsson-ruin-my-life-futose-remix-ruin-my-life-futose-remix",
   ownLength: 4.748166666666667,
-  ownProgress: 0,
+  ownProgress: 4.748166666666667,
   partOfCollections: ["release/zara-larsson-ruin-my-life-futose-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

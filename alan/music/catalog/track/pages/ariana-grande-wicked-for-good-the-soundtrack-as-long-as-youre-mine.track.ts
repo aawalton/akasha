@@ -5,10 +5,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackAsLongAsYoureMine = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-as-long-as-youre-mine",
   ownLength: 4.10955,
-  ownProgress: 0,
+  ownProgress: 4.10955,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

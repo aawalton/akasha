@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversaryGranuailesDance20thAnniversary = {
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-granuailes-dance-20th-anniversary",
   ownLength: 1.6973333333333334,
-  ownProgress: 0,
+  ownProgress: 1.6973333333333334,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

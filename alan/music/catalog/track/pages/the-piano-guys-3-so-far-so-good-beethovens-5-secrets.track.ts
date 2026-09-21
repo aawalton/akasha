@@ -5,10 +5,10 @@ export const thePianoGuys3SoFarSoGoodBeethovens5Secrets = {
   type: "page-type/track",
   slug: "the-piano-guys-3-so-far-so-good-beethovens-5-secrets",
   ownLength: 5.1611,
-  ownProgress: 0,
+  ownProgress: 5.1611,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

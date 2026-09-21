@@ -5,10 +5,10 @@ export const coldplayMyloXylotoMajorMinus = {
   type: "page-type/track",
   slug: "coldplay-mylo-xyloto-major-minus",
   ownLength: 3.5054,
-  ownProgress: 0,
+  ownProgress: 3.5054,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

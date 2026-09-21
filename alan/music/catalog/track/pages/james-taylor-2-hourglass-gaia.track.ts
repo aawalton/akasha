@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassGaia = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-gaia",
   ownLength: 5.4811,
-  ownProgress: 0,
+  ownProgress: 5.4811,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

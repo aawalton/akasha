@@ -5,10 +5,10 @@ export const thePianoGuys3SoFarSoGoodWhatMakesYouBeautiful = {
   type: "page-type/track",
   slug: "the-piano-guys-3-so-far-so-good-what-makes-you-beautiful",
   ownLength: 2.89555,
-  ownProgress: 0,
+  ownProgress: 2.89555,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

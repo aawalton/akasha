@@ -5,10 +5,10 @@ export const jamesTaylor2DadLovesHisWorkHerTownTooWithJDSouther = {
   type: "page-type/track",
   slug: "james-taylor-2-dad-loves-his-work-her-town-too-with-j-d-souther",
   ownLength: 4.574,
-  ownProgress: 0,
+  ownProgress: 4.574,
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

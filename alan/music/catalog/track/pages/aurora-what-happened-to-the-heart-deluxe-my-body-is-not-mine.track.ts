@@ -5,10 +5,10 @@ export const auroraWhatHappenedToTheHeartDeluxeMyBodyIsNotMine = {
   type: "page-type/track",
   slug: "aurora-what-happened-to-the-heart-deluxe-my-body-is-not-mine",
   ownLength: 4.022883333333334,
-  ownProgress: 0,
+  ownProgress: 4.022883333333334,
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyHoneymoonAvenue = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-honeymoon-avenue",
   ownLength: 5.662216666666667,
-  ownProgress: 0,
+  ownProgress: 5.662216666666667,
   partOfCollections: ["release/ariana-grande-yours-truly"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

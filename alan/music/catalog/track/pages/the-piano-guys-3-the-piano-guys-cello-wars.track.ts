@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysCelloWars = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-cello-wars",
   ownLength: 3.53255,
-  ownProgress: 0,
+  ownProgress: 3.53255,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022TheOverthinkingSong = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-the-overthinking-song",
   ownLength: 2.5608,
-  ownProgress: 0,
+  ownProgress: 2.5608,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

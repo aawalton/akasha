@@ -5,10 +5,10 @@ export const celticWoman2HomecomingLiveFromIrelandTheKeshInnLive2017 = {
   type: "page-type/track",
   slug: "celtic-woman-2-homecoming-live-from-ireland-the-kesh-inn-live-2017",
   ownLength: 3.0613333333333332,
-  ownProgress: 0,
+  ownProgress: 3.0613333333333332,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe90sItsGonnaBeMay = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-90s-its-gonna-be-may",
   ownLength: 1.81725,
-  ownProgress: 0,
+  ownProgress: 1.81725,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

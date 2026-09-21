@@ -5,10 +5,10 @@ export const coldplayLeftrightleftrightleftLiveDeathWillNeverConquerLiveInSydney
   type: "page-type/track",
   slug: "coldplay-leftrightleftrightleft-live-death-will-never-conquer-live-in-sydney-2009",
   ownLength: 1.6551,
-  ownProgress: 0,
+  ownProgress: 1.6551,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayLive2012GodPutASmileUponYourFaceLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-god-put-a-smile-upon-your-face-live",
   ownLength: 5.366216666666666,
-  ownProgress: 0,
+  ownProgress: 5.366216666666666,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

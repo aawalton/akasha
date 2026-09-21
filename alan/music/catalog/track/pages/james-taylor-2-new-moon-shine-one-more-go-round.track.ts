@@ -5,10 +5,10 @@ export const jamesTaylor2NewMoonShineOneMoreGoRound = {
   type: "page-type/track",
   slug: "james-taylor-2-new-moon-shine-one-more-go-round",
   ownLength: 4.680433333333333,
-  ownProgress: 0,
+  ownProgress: 4.680433333333333,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

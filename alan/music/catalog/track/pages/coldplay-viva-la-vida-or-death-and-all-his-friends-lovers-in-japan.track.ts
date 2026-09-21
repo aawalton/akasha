@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLoversInJapan = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-or-death-and-all-his-friends-lovers-in-japan",
   ownLength: 6.850216666666666,
-  ownProgress: 0,
+  ownProgress: 6.850216666666666,
   partOfCollections: ["release/coldplay-viva-la-vida-or-death-and-all-his-friends"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

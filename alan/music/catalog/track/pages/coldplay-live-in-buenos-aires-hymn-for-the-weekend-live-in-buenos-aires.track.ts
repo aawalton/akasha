@@ -5,10 +5,10 @@ export const coldplayLiveInBuenosAiresHymnForTheWeekendLiveInBuenosAires = {
   type: "page-type/track",
   slug: "coldplay-live-in-buenos-aires-hymn-for-the-weekend-live-in-buenos-aires",
   ownLength: 5.0491,
-  ownProgress: 0,
+  ownProgress: 5.0491,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

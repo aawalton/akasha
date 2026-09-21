@@ -5,12 +5,12 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
   type: "page-type/track",
   slug: "sabrina-carpenter-that-s-not-how-this-works-feat-dan-shay-sabrina-carpenter-sabrina-s-version-thats",
   ownLength: 2.7773333333333334,
-  ownProgress: 0,
+  ownProgress: 2.7773333333333334,
   partOfCollections: [
     "release/sabrina-carpenter-that-s-not-how-this-works-feat-dan-shay-sabrina-carpenter-sabrina-s-version",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

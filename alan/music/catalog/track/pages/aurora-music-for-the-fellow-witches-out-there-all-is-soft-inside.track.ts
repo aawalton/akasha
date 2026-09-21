@@ -5,10 +5,10 @@ export const auroraMusicForTheFellowWitchesOutThereAllIsSoftInside = {
   type: "page-type/track",
   slug: "aurora-music-for-the-fellow-witches-out-there-all-is-soft-inside",
   ownLength: 5.14905,
-  ownProgress: 0,
+  ownProgress: 5.14905,
   partOfCollections: ["release/aurora-music-for-the-fellow-witches-out-there"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

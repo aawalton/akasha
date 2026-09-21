@@ -5,10 +5,10 @@ export const paulCardallSacredPianoRedeemer = {
   type: "page-type/track",
   slug: "paul-cardall-sacred-piano-redeemer",
   ownLength: 5.856216666666667,
-  ownProgress: 0,
+  ownProgress: 5.856216666666667,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

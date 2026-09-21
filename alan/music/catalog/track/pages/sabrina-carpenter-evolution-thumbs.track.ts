@@ -5,10 +5,10 @@ export const sabrinaCarpenterEvolutionThumbs = {
   type: "page-type/track",
   slug: "sabrina-carpenter-evolution-thumbs",
   ownLength: 3.6077666666666666,
-  ownProgress: 0,
+  ownProgress: 3.6077666666666666,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

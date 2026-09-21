@@ -5,10 +5,10 @@ export const imagineDragonsShotsEpShotsAcousticPianoLiveFromTheSmithCenterLasVeg
   type: "page-type/track",
   slug: "imagine-dragons-shots-ep-shots-acoustic-piano-live-from-the-smith-center-las-vegas",
   ownLength: 4.361766666666667,
-  ownProgress: 0,
+  ownProgress: 4.361766666666667,
   partOfCollections: ["release/imagine-dragons-shots-ep"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

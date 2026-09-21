@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetFatherInHeavenWeDoBelieve = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-father-in-heaven-we-do-believe",
   ownLength: 3.58225,
-  ownProgress: 0,
+  ownProgress: 3.58225,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 25,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

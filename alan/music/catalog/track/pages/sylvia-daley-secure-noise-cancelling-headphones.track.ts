@@ -5,10 +5,10 @@ export const sylviaDaleySecureNoiseCancellingHeadphones = {
   type: "page-type/track",
   slug: "sylvia-daley-secure-noise-cancelling-headphones",
   ownLength: 2.9577,
-  ownProgress: 0,
+  ownProgress: 2.9577,
   partOfCollections: ["release/sylvia-daley-secure"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

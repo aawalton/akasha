@@ -5,10 +5,10 @@ export const billieEilishHappierThanEverMaleFantasy = {
   type: "page-type/track",
   slug: "billie-eilish-happier-than-ever-male-fantasy",
   ownLength: 3.2481,
-  ownProgress: 0,
+  ownProgress: 3.2481,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

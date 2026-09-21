@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sWhosDad = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-whos-dad",
   ownLength: 2.0610333333333335,
-  ownProgress: 0,
+  ownProgress: 2.0610333333333335,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

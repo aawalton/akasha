@@ -5,10 +5,10 @@ export const celticWoman2BelieveSongsFromTheHeartWalkingTheNightTheWorldFallsAwa
   type: "page-type/track",
   slug: "celtic-woman-2-believe-songs-from-the-heart-walking-the-night-the-world-falls-away",
   ownLength: 6.702883333333333,
-  ownProgress: 0,
+  ownProgress: 6.702883333333333,
   partOfCollections: ["release/celtic-woman-2-believe"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallSacredPianoReverentlyQuietly = {
   type: "page-type/track",
   slug: "paul-cardall-sacred-piano-reverently-quietly",
   ownLength: 3.15355,
-  ownProgress: 0,
+  ownProgress: 3.15355,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

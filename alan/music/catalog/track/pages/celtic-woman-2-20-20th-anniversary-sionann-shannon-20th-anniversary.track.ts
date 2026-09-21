@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversarySionannShannon20thAnniversary = {
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-sionann-shannon-20th-anniversary",
   ownLength: 3.824883333333333,
-  ownProgress: 0,
+  ownProgress: 3.824883333333333,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

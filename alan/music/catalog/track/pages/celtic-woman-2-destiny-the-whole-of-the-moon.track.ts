@@ -5,10 +5,10 @@ export const celticWoman2DestinyTheWholeOfTheMoon = {
   type: "page-type/track",
   slug: "celtic-woman-2-destiny-the-whole-of-the-moon",
   ownLength: 4.088966666666667,
-  ownProgress: 0,
+  ownProgress: 4.088966666666667,
   partOfCollections: ["release/celtic-woman-2-destiny"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayXYWhatIf = {
   type: "page-type/track",
   slug: "coldplay-x-y-what-if",
   ownLength: 4.975316666666667,
-  ownProgress: 0,
+  ownProgress: 4.975316666666667,
   partOfCollections: ["release/coldplay-x-y"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

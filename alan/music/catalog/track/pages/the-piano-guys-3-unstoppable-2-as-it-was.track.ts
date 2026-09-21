@@ -5,10 +5,10 @@ export const thePianoGuys3Unstoppable2AsItWas = {
   type: "page-type/track",
   slug: "the-piano-guys-3-unstoppable-2-as-it-was",
   ownLength: 2.6954,
-  ownProgress: 0,
+  ownProgress: 2.6954,
   partOfCollections: ["release/the-piano-guys-3-unstoppable-2"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3IWantYouBackIWantYouBack = {
   type: "page-type/track",
   slug: "the-piano-guys-3-i-want-you-back-i-want-you-back",
   ownLength: 3.0170333333333335,
-  ownProgress: 0,
+  ownProgress: 3.0170333333333335,
   partOfCollections: ["release/the-piano-guys-3-i-want-you-back"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

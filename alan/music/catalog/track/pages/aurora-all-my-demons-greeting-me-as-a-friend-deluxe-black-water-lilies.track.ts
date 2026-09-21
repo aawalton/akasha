@@ -5,10 +5,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeBlackWaterLilies = {
   type: "page-type/track",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-black-water-lilies",
   ownLength: 4.714,
-  ownProgress: 0,
+  ownProgress: 4.714,
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

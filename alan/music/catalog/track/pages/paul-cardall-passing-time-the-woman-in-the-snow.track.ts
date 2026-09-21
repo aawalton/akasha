@@ -5,10 +5,10 @@ export const paulCardallPassingTimeTheWomanInTheSnow = {
   type: "page-type/track",
   slug: "paul-cardall-passing-time-the-woman-in-the-snow",
   ownLength: 3.71895,
-  ownProgress: 0,
+  ownProgress: 3.71895,
   partOfCollections: ["release/paul-cardall-passing-time"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

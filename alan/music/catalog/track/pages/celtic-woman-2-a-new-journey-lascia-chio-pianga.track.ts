@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyLasciaChioPianga = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-lascia-chio-pianga",
   ownLength: 3.5242166666666668,
-  ownProgress: 0,
+  ownProgress: 3.5242166666666668,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

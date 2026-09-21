@@ -5,10 +5,10 @@ export const billieEilishNoTimeToDieNoTimeToDie = {
   type: "page-type/track",
   slug: "billie-eilish-no-time-to-die-no-time-to-die",
   ownLength: 4.03775,
-  ownProgress: 0,
+  ownProgress: 4.03775,
   partOfCollections: ["release/billie-eilish-no-time-to-die"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyTheLastRoseOfSummer = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-the-last-rose-of-summer",
   ownLength: 3.6033333333333335,
-  ownProgress: 0,
+  ownProgress: 3.6033333333333335,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

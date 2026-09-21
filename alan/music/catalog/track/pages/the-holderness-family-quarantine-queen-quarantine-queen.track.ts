@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantineQueenQuarantineQueen = {
   type: "page-type/track",
   slug: "the-holderness-family-quarantine-queen-quarantine-queen",
   ownLength: 2.2291,
-  ownProgress: 0,
+  ownProgress: 2.2291,
   partOfCollections: ["release/the-holderness-family-quarantine-queen"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

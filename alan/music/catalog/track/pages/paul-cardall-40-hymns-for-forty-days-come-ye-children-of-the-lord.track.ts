@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysComeYeChildrenOfTheLord = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-come-ye-children-of-the-lord",
   ownLength: 2.832883333333333,
-  ownProgress: 0,
+  ownProgress: 2.832883333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

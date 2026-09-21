@@ -5,10 +5,10 @@ export const celticWoman2DestinyHowCanIKeepFromSinging = {
   type: "page-type/track",
   slug: "celtic-woman-2-destiny-how-can-i-keep-from-singing",
   ownLength: 4.295583333333333,
-  ownProgress: 0,
+  ownProgress: 4.295583333333333,
   partOfCollections: ["release/celtic-woman-2-destiny"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2HomeForChristmasWeWishYouAMerryChristmas = {
   type: "page-type/track",
   slug: "celtic-woman-2-home-for-christmas-we-wish-you-a-merry-christmas",
   ownLength: 3.624216666666667,
-  ownProgress: 0,
+  ownProgress: 3.624216666666667,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

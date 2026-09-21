@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe2000sHotOutHere = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-2000s-hot-out-here",
   ownLength: 2.0796,
-  ownProgress: 0,
+  ownProgress: 2.0796,
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

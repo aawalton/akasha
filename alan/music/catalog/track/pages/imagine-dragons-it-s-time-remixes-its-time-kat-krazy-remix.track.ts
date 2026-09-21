@@ -5,10 +5,10 @@ export const imagineDragonsItSTimeRemixesItsTimeKatKrazyRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-it-s-time-remixes-its-time-kat-krazy-remix",
   ownLength: 3.4668833333333335,
-  ownProgress: 0,
+  ownProgress: 3.4668833333333335,
   partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

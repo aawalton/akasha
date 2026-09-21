@@ -5,10 +5,10 @@ export const arianaGrandeChristmasChillSantaTellMeNaughtyVersion = {
   type: "page-type/track",
   slug: "ariana-grande-christmas-chill-santa-tell-me-naughty-version",
   ownLength: 3.39155,
-  ownProgress: 0,
+  ownProgress: 3.39155,
   partOfCollections: ["release/ariana-grande-christmas-chill"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

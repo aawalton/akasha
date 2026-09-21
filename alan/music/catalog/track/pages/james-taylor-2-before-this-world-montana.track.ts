@@ -5,10 +5,10 @@ export const jamesTaylor2BeforeThisWorldMontana = {
   type: "page-type/track",
   slug: "james-taylor-2-before-this-world-montana",
   ownLength: 3.425333333333333,
-  ownProgress: 0,
+  ownProgress: 3.425333333333333,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

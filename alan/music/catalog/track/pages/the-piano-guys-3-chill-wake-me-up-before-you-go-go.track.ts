@@ -5,10 +5,10 @@ export const thePianoGuys3ChillWakeMeUpBeforeYouGoGo = {
   type: "page-type/track",
   slug: "the-piano-guys-3-chill-wake-me-up-before-you-go-go",
   ownLength: 3.9680833333333334,
-  ownProgress: 0,
+  ownProgress: 3.9680833333333334,
   partOfCollections: ["release/the-piano-guys-3-chill"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

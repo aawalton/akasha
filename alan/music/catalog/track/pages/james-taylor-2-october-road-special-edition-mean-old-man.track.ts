@@ -5,10 +5,10 @@ export const jamesTaylor2OctoberRoadSpecialEditionMeanOldMan = {
   type: "page-type/track",
   slug: "james-taylor-2-october-road-special-edition-mean-old-man",
   ownLength: 3.6826666666666665,
-  ownProgress: 0,
+  ownProgress: 3.6826666666666665,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

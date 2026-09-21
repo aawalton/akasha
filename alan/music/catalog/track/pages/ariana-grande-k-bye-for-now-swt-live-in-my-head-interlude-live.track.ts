@@ -5,10 +5,10 @@ export const arianaGrandeKByeForNowSwtLiveInMyHeadInterludeLive = {
   type: "page-type/track",
   slug: "ariana-grande-k-bye-for-now-swt-live-in-my-head-interlude-live",
   ownLength: 2.5,
-  ownProgress: 0,
+  ownProgress: 2.5,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   position: 24,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

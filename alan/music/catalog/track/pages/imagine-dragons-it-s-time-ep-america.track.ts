@@ -5,10 +5,10 @@ export const imagineDragonsItSTimeEpAmerica = {
   type: "page-type/track",
   slug: "imagine-dragons-it-s-time-ep-america",
   ownLength: 4.557333333333333,
-  ownProgress: 0,
+  ownProgress: 4.557333333333333,
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

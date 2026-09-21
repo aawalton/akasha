@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdSkinnyDipping = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-skinny-dipping",
   ownLength: 2.9625,
-  ownProgress: 0,
+  ownProgress: 2.9625,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

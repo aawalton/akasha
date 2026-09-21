@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDay = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-one-short-day",
   ownLength: 6.544466666666667,
-  ownProgress: 0,
+  ownProgress: 6.544466666666667,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   position: 19,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

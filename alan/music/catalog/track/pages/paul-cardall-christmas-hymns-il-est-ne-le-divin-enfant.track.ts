@@ -5,10 +5,10 @@ export const paulCardallChristmasHymnsIlEstNeLeDivinEnfant = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hymns-il-est-ne-le-divin-enfant",
   ownLength: 4.228883333333333,
-  ownProgress: 0,
+  ownProgress: 4.228883333333333,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallTheLookingGlassAKissOfTheSunlight = {
   type: "page-type/track",
   slug: "paul-cardall-the-looking-glass-a-kiss-of-the-sunlight",
   ownLength: 3.8111,
-  ownProgress: 0,
+  ownProgress: 3.8111,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

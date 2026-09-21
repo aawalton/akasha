@@ -5,10 +5,10 @@ export const auroraTheGodsWeCanTouchBloodInTheWine = {
   type: "page-type/track",
   slug: "aurora-the-gods-we-can-touch-blood-in-the-wine",
   ownLength: 3.4993333333333334,
-  ownProgress: 0,
+  ownProgress: 3.4993333333333334,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

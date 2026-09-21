@@ -5,10 +5,10 @@ export const sabrinaCarpenterEspressoEpEspressoDoubleShotVersion = {
   type: "page-type/track",
   slug: "sabrina-carpenter-espresso-ep-espresso-double-shot-version",
   ownLength: 2.484383333333333,
-  ownProgress: 0,
+  ownProgress: 2.484383333333333,
   partOfCollections: ["release/sabrina-carpenter-espresso-ep"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

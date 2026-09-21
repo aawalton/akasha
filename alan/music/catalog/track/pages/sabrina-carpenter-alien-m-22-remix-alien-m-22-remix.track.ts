@@ -5,10 +5,10 @@ export const sabrinaCarpenterAlienM22RemixAlienM22Remix = {
   type: "page-type/track",
   slug: "sabrina-carpenter-alien-m-22-remix-alien-m-22-remix",
   ownLength: 3.419983333333333,
-  ownProgress: 0,
+  ownProgress: 3.419983333333333,
   partOfCollections: ["release/sabrina-carpenter-alien-m-22-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

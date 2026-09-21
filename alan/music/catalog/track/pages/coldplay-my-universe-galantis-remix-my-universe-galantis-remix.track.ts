@@ -5,10 +5,10 @@ export const coldplayMyUniverseGalantisRemixMyUniverseGalantisRemix = {
   type: "page-type/track",
   slug: "coldplay-my-universe-galantis-remix-my-universe-galantis-remix",
   ownLength: 3.748466666666667,
-  ownProgress: 0,
+  ownProgress: 3.748466666666667,
   partOfCollections: ["release/coldplay-my-universe-galantis-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

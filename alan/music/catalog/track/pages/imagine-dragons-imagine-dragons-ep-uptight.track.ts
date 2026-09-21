@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsEpUptight = {
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-ep-uptight",
   ownLength: 3.7188833333333333,
-  ownProgress: 0,
+  ownProgress: 3.7188833333333333,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

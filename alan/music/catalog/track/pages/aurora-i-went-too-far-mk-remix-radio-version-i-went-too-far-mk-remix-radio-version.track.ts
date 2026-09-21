@@ -5,10 +5,10 @@ export const auroraIWentTooFarMkRemixRadioVersionIWentTooFarMkRemixRadioVersion 
   type: "page-type/track",
   slug: "aurora-i-went-too-far-mk-remix-radio-version-i-went-too-far-mk-remix-radio-version",
   ownLength: 3.9511666666666665,
-  ownProgress: 0,
+  ownProgress: 3.9511666666666665,
   partOfCollections: ["release/aurora-i-went-too-far-mk-remix-radio-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

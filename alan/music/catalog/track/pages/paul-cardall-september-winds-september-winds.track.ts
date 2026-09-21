@@ -5,10 +5,10 @@ export const paulCardallSeptemberWindsSeptemberWinds = {
   type: "page-type/track",
   slug: "paul-cardall-september-winds-september-winds",
   ownLength: 3.8041666666666667,
-  ownProgress: 0,
+  ownProgress: 3.8041666666666667,
   partOfCollections: ["release/paul-cardall-september-winds"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

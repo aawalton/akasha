@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodSoGoodFeatTyDollaIgn = {
   type: "page-type/track",
   slug: "zara-larsson-so-good-so-good-feat-ty-dolla-ign",
   ownLength: 2.7794166666666666,
-  ownProgress: 0,
+  ownProgress: 2.7794166666666666,
   partOfCollections: ["release/zara-larsson-so-good"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

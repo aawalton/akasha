@@ -5,10 +5,10 @@ export const celticWoman2DestinyWalkBesideMe = {
   type: "page-type/track",
   slug: "celtic-woman-2-destiny-walk-beside-me",
   ownLength: 4.252233333333334,
-  ownProgress: 0,
+  ownProgress: 4.252233333333334,
   partOfCollections: ["release/celtic-woman-2-destiny"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

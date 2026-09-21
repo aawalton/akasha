@@ -5,10 +5,10 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackPleaseMammy = {
   type: "page-type/track",
   slug: "aurora-wolfwalkers-original-motion-picture-soundtrack-please-mammy",
   ownLength: 1.7844333333333333,
-  ownProgress: 0,
+  ownProgress: 1.7844333333333333,
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

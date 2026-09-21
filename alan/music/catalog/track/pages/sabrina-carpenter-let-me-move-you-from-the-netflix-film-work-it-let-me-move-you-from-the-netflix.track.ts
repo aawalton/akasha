@@ -5,10 +5,10 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkItLetMeMoveYouFro
   type: "page-type/track",
   slug: "sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it-let-me-move-you-from-the-netflix",
   ownLength: 2.4511666666666665,
-  ownProgress: 0,
+  ownProgress: 2.4511666666666665,
   partOfCollections: ["release/sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

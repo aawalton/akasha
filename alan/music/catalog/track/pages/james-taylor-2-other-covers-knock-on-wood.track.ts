@@ -5,10 +5,10 @@ export const jamesTaylor2OtherCoversKnockOnWood = {
   type: "page-type/track",
   slug: "james-taylor-2-other-covers-knock-on-wood",
   ownLength: 3.8688833333333332,
-  ownProgress: 0,
+  ownProgress: 3.8688833333333332,
   partOfCollections: ["release/james-taylor-2-other-covers"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsOriginsDeluxeStuck = {
   type: "page-type/track",
   slug: "imagine-dragons-origins-deluxe-stuck",
   ownLength: 3.1808833333333335,
-  ownProgress: 0,
+  ownProgress: 3.1808833333333335,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

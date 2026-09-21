@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourSweetBabyJamesLiveAtTheTroubadour200
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-sweet-baby-james-live-at-the-troubadour-2007",
   ownLength: 3.5824333333333334,
-  ownProgress: 0,
+  ownProgress: 3.5824333333333334,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

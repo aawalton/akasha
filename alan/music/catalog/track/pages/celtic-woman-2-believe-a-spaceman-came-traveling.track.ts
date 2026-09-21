@@ -5,10 +5,10 @@ export const celticWoman2BelieveASpacemanCameTraveling = {
   type: "page-type/track",
   slug: "celtic-woman-2-believe-a-spaceman-came-traveling",
   ownLength: 3.798,
-  ownProgress: 0,
+  ownProgress: 3.798,
   partOfCollections: ["release/celtic-woman-2-believe"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

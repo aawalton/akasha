@@ -5,10 +5,10 @@ export const paulCardallASacredChristmasPianoCollectionDoYouHearWhatIHear = {
   type: "page-type/track",
   slug: "paul-cardall-a-sacred-christmas-piano-collection-do-you-hear-what-i-hear",
   ownLength: 4.1478,
-  ownProgress: 0,
+  ownProgress: 4.1478,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

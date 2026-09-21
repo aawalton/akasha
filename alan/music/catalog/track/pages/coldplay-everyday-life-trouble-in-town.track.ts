@@ -5,10 +5,10 @@ export const coldplayEverydayLifeTroubleInTown = {
   type: "page-type/track",
   slug: "coldplay-everyday-life-trouble-in-town",
   ownLength: 4.648433333333333,
-  ownProgress: 0,
+  ownProgress: 4.648433333333333,
   partOfCollections: ["release/coldplay-everyday-life"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuys2Berlin = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-2-berlin",
   ownLength: 4.008333333333334,
-  ownProgress: 0,
+  ownProgress: 4.008333333333334,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

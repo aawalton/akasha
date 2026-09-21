@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeUnderdog = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-underdog",
   ownLength: 3.490666666666667,
-  ownProgress: 0,
+  ownProgress: 3.490666666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

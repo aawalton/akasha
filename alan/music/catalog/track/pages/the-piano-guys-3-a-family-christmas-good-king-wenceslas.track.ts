@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasGoodKingWenceslas = {
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-good-king-wenceslas",
   ownLength: 3.8743833333333333,
-  ownProgress: 0,
+  ownProgress: 3.8743833333333333,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

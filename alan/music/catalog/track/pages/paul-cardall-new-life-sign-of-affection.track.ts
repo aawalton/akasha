@@ -5,10 +5,10 @@ export const paulCardallNewLifeSignOfAffection = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-sign-of-affection",
   ownLength: 5.116433333333333,
-  ownProgress: 0,
+  ownProgress: 5.116433333333333,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

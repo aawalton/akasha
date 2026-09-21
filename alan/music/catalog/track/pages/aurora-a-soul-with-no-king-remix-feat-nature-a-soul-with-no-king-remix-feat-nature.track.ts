@@ -5,10 +5,10 @@ export const auroraASoulWithNoKingRemixFeatNatureASoulWithNoKingRemixFeatNature 
   type: "page-type/track",
   slug: "aurora-a-soul-with-no-king-remix-feat-nature-a-soul-with-no-king-remix-feat-nature",
   ownLength: 5.248883333333334,
-  ownProgress: 0,
+  ownProgress: 5.248883333333334,
   partOfCollections: ["release/aurora-a-soul-with-no-king-remix-feat-nature"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

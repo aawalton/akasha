@@ -5,10 +5,10 @@ export const sabrinaCarpenterAlienAcousticAlienAcoustic = {
   type: "page-type/track",
   slug: "sabrina-carpenter-alien-acoustic-alien-acoustic",
   ownLength: 3.4104833333333335,
-  ownProgress: 0,
+  ownProgress: 3.4104833333333335,
   partOfCollections: ["release/sabrina-carpenter-alien-acoustic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

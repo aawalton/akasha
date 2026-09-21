@@ -5,10 +5,10 @@ export const coldplayMurderMurder = {
   type: "page-type/track",
   slug: "coldplay-murder-murder",
   ownLength: 5.581316666666667,
-  ownProgress: 0,
+  ownProgress: 5.581316666666667,
   partOfCollections: ["release/coldplay-murder"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

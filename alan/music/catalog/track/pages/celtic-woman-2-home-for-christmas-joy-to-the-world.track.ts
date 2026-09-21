@@ -5,10 +5,10 @@ export const celticWoman2HomeForChristmasJoyToTheWorld = {
   type: "page-type/track",
   slug: "celtic-woman-2-home-for-christmas-joy-to-the-world",
   ownLength: 2.9286666666666665,
-  ownProgress: 0,
+  ownProgress: 2.9286666666666665,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterSueMeACappellaSueMeACappella = {
   type: "page-type/track",
   slug: "sabrina-carpenter-sue-me-a-cappella-sue-me-a-cappella",
   ownLength: 3.3756333333333335,
-  ownProgress: 0,
+  ownProgress: 3.3756333333333335,
   partOfCollections: ["release/sabrina-carpenter-sue-me-a-cappella"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

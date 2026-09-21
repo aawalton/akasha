@@ -5,10 +5,10 @@ export const coldplayHypnotisedHypnotised = {
   type: "page-type/track",
   slug: "coldplay-hypnotised-hypnotised",
   ownLength: 5.919533333333334,
-  ownProgress: 0,
+  ownProgress: 5.919533333333334,
   partOfCollections: ["release/coldplay-hypnotised"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

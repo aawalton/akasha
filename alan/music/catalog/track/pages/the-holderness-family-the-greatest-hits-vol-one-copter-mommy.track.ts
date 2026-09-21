@@ -5,10 +5,10 @@ export const theHoldernessFamilyTheGreatestHitsVolOneCopterMommy = {
   type: "page-type/track",
   slug: "the-holderness-family-the-greatest-hits-vol-one-copter-mommy",
   ownLength: 2.5338666666666665,
-  ownProgress: 0,
+  ownProgress: 2.5338666666666665,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

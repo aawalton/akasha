@@ -5,10 +5,10 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionMoGhileMearLiveFro
   type: "page-type/track",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection-mo-ghile-mear-live-from-slane-castle",
   ownLength: 5.082433333333333,
-  ownProgress: 0,
+  ownProgress: 5.082433333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

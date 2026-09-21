@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe90sThisIsHowYouChewIt = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-90s-this-is-how-you-chew-it",
   ownLength: 1.6300333333333332,
-  ownProgress: 0,
+  ownProgress: 1.6300333333333332,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

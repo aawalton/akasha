@@ -5,10 +5,10 @@ export const coldplayGhostStoriesLive2014AnothersArmsLiveAtTheBeaconTheatreNewYo
   type: "page-type/track",
   slug: "coldplay-ghost-stories-live-2014-anothers-arms-live-at-the-beacon-theatre-new-york",
   ownLength: 3.9313333333333333,
-  ownProgress: 0,
+  ownProgress: 3.9313333333333333,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

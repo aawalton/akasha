@@ -5,10 +5,10 @@ export const coldplayInMyPlaceIBloomBlaum = {
   type: "page-type/track",
   slug: "coldplay-in-my-place-i-bloom-blaum",
   ownLength: 2.1848833333333335,
-  ownProgress: 0,
+  ownProgress: 2.1848833333333335,
   partOfCollections: ["release/coldplay-in-my-place"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

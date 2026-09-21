@@ -5,10 +5,10 @@ export const vinnyMarchiHeroInYourStoryHeroInYourStory = {
   type: "page-type/track",
   slug: "vinny-marchi-hero-in-your-story-hero-in-your-story",
   ownLength: 2.8611,
-  ownProgress: 0,
+  ownProgress: 2.8611,
   partOfCollections: ["release/vinny-marchi-hero-in-your-story"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

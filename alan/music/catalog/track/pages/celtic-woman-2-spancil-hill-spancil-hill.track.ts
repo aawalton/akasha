@@ -5,10 +5,10 @@ export const celticWoman2SpancilHillSpancilHill = {
   type: "page-type/track",
   slug: "celtic-woman-2-spancil-hill-spancil-hill",
   ownLength: 3.308333333333333,
-  ownProgress: 0,
+  ownProgress: 3.308333333333333,
   partOfCollections: ["release/celtic-woman-2-spancil-hill"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

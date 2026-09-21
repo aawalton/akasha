@@ -5,10 +5,10 @@ export const paulCardallLiveGoneHomeLiveToLoveLive = {
   type: "page-type/track",
   slug: "paul-cardall-live-gone-home-live-to-love-live",
   ownLength: 4.114216666666667,
-  ownProgress: 0,
+  ownProgress: 4.114216666666667,
   partOfCollections: ["release/paul-cardall-live"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

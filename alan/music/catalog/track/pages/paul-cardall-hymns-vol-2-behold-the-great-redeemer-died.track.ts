@@ -5,10 +5,10 @@ export const paulCardallHymnsVol2BeholdTheGreatRedeemerDied = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-vol-2-behold-the-great-redeemer-died",
   ownLength: 4.0231,
-  ownProgress: 0,
+  ownProgress: 4.0231,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

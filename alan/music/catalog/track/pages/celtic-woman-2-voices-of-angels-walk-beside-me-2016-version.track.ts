@@ -5,10 +5,10 @@ export const celticWoman2VoicesOfAngelsWalkBesideMe2016Version = {
   type: "page-type/track",
   slug: "celtic-woman-2-voices-of-angels-walk-beside-me-2016-version",
   ownLength: 4.666666666666667,
-  ownProgress: 0,
+  ownProgress: 4.666666666666667,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

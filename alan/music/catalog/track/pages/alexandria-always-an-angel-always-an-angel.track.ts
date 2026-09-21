@@ -5,10 +5,10 @@ export const alexandriaAlwaysAnAngelAlwaysAnAngel = {
   type: "page-type/track",
   slug: "alexandria-always-an-angel-always-an-angel",
   ownLength: 1.9375,
-  ownProgress: 0,
+  ownProgress: 1.9375,
   partOfCollections: ["release/alexandria-always-an-angel"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

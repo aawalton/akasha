@@ -5,10 +5,10 @@ export const celticWoman2AChristmasCelebrationSilentNight = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-christmas-celebration-silent-night",
   ownLength: 3.424,
-  ownProgress: 0,
+  ownProgress: 3.424,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

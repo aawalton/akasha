@@ -5,10 +5,10 @@ export const arianaGrandeSweetenerTheLightIsComingFeatNickiMinaj = {
   type: "page-type/track",
   slug: "ariana-grande-sweetener-the-light-is-coming-feat-nicki-minaj",
   ownLength: 3.806216666666667,
-  ownProgress: 0,
+  ownProgress: 3.806216666666667,
   partOfCollections: ["release/ariana-grande-sweetener"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2EmeraldMusicalGemsDannyBoy2013Version = {
   type: "page-type/track",
   slug: "celtic-woman-2-emerald-musical-gems-danny-boy-2013-version",
   ownLength: 3.26155,
-  ownProgress: 0,
+  ownProgress: 3.26155,
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

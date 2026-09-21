@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourIFeelTheEarthMoveLiveAtTheTroubadour
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-i-feel-the-earth-move-live-at-the-troubadour-2007",
   ownLength: 4.086216666666667,
-  ownProgress: 0,
+  ownProgress: 4.086216666666667,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

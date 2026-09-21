@@ -5,10 +5,10 @@ export const sabrinaCarpenterEyesWideOpenCantBlameAGirlForTrying = {
   type: "page-type/track",
   slug: "sabrina-carpenter-eyes-wide-open-cant-blame-a-girl-for-trying",
   ownLength: 2.8217666666666665,
-  ownProgress: 0,
+  ownProgress: 2.8217666666666665,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe2000sSchoolIsStarting = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-2000s-school-is-starting",
   ownLength: 1.776,
-  ownProgress: 0,
+  ownProgress: 1.776,
   partOfCollections: ["release/the-holderness-family-best-of-the-2000s"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

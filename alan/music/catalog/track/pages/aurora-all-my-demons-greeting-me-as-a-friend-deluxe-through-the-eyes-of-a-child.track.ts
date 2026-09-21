@@ -5,10 +5,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeThroughTheEyesOfAChild = 
   type: "page-type/track",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-through-the-eyes-of-a-child",
   ownLength: 4.57355,
-  ownProgress: 0,
+  ownProgress: 4.57355,
   partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

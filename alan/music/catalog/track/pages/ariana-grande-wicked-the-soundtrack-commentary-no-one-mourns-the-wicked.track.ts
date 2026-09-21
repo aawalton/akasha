@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackCommentaryNoOneMournsTheWicked = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-no-one-mourns-the-wicked",
   ownLength: 7.466516666666666,
-  ownProgress: 0,
+  ownProgress: 7.466516666666666,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraTheGodsWeCanTouchArtemis = {
   type: "page-type/track",
   slug: "aurora-the-gods-we-can-touch-artemis",
   ownLength: 2.641766666666667,
-  ownProgress: 0,
+  ownProgress: 2.641766666666667,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

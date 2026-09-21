@@ -5,10 +5,10 @@ export const musicalTheaterWickedTheSoundtrackDefyingGravity = {
   type: "page-type/track",
   slug: "musical-theater-wicked-the-soundtrack-defying-gravity",
   ownLength: 7.662766666666666,
-  ownProgress: 0,
+  ownProgress: 7.662766666666666,
   partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

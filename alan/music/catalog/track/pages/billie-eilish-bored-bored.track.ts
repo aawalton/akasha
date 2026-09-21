@@ -5,10 +5,10 @@ export const billieEilishBoredBored = {
   type: "page-type/track",
   slug: "billie-eilish-bored-bored",
   ownLength: 3.01555,
-  ownProgress: 0,
+  ownProgress: 3.01555,
   partOfCollections: ["release/billie-eilish-bored"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

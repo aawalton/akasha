@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetDeluxeBadReviews = {
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-deluxe-bad-reviews",
   ownLength: 2.35655,
-  ownProgress: 0,
+  ownProgress: 2.35655,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

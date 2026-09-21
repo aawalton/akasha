@@ -5,10 +5,10 @@ export const auroraWhatHappenedToTheHeartTheConflictOfTheMind = {
   type: "page-type/track",
   slug: "aurora-what-happened-to-the-heart-the-conflict-of-the-mind",
   ownLength: 4.24355,
-  ownProgress: 0,
+  ownProgress: 4.24355,
   partOfCollections: ["release/aurora-what-happened-to-the-heart"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

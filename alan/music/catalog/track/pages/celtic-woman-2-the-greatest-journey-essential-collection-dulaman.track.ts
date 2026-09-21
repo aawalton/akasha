@@ -5,10 +5,10 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionDulaman = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection-dulaman",
   ownLength: 3.0851,
-  ownProgress: 0,
+  ownProgress: 3.0851,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

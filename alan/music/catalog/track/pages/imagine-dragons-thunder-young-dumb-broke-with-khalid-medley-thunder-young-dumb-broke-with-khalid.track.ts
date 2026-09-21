@@ -5,10 +5,10 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedleyThunderYoungDumb
   type: "page-type/track",
   slug: "imagine-dragons-thunder-young-dumb-broke-with-khalid-medley-thunder-young-dumb-broke-with-khalid",
   ownLength: 4.18805,
-  ownProgress: 0,
+  ownProgress: 4.18805,
   partOfCollections: ["release/imagine-dragons-thunder-young-dumb-broke-with-khalid-medley"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

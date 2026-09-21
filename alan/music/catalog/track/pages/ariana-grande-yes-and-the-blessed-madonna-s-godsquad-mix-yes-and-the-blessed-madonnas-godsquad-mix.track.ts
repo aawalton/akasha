@@ -5,10 +5,10 @@ export const arianaGrandeYesAndTheBlessedMadonnaSGodsquadMixYesAndTheBlessedMado
   type: "page-type/track",
   slug: "ariana-grande-yes-and-the-blessed-madonna-s-godsquad-mix-yes-and-the-blessed-madonnas-godsquad-mix",
   ownLength: 5.033033333333333,
-  ownProgress: 0,
+  ownProgress: 5.033033333333333,
   partOfCollections: ["release/ariana-grande-yes-and-the-blessed-madonna-s-godsquad-mix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

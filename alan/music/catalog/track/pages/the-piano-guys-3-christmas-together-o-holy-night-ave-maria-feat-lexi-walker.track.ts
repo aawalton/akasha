@@ -5,10 +5,10 @@ export const thePianoGuys3ChristmasTogetherOHolyNightAveMariaFeatLexiWalker = {
   type: "page-type/track",
   slug: "the-piano-guys-3-christmas-together-o-holy-night-ave-maria-feat-lexi-walker",
   ownLength: 5.295833333333333,
-  ownProgress: 0,
+  ownProgress: 5.295833333333333,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

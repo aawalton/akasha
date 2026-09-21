@@ -5,10 +5,10 @@ export const zaraLarssonInvisibleEndTitleFromKlausInvisibleEndTitleFromKlaus = {
   type: "page-type/track",
   slug: "zara-larsson-invisible-end-title-from-klaus-invisible-end-title-from-klaus",
   ownLength: 2.8619333333333334,
-  ownProgress: 0,
+  ownProgress: 2.8619333333333334,
   partOfCollections: ["release/zara-larsson-invisible-end-title-from-klaus"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

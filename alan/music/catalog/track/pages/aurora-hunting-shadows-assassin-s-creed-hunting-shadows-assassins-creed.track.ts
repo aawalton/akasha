@@ -5,10 +5,10 @@ export const auroraHuntingShadowsAssassinSCreedHuntingShadowsAssassinsCreed = {
   type: "page-type/track",
   slug: "aurora-hunting-shadows-assassin-s-creed-hunting-shadows-assassins-creed",
   ownLength: 2.9431,
-  ownProgress: 0,
+  ownProgress: 2.9431,
   partOfCollections: ["release/aurora-hunting-shadows-assassin-s-creed"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

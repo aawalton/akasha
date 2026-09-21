@@ -5,10 +5,10 @@ export const paulCardallAllISeeIsSnowAllISeeIsSnow = {
   type: "page-type/track",
   slug: "paul-cardall-all-i-see-is-snow-all-i-see-is-snow",
   ownLength: 4.571433333333333,
-  ownProgress: 0,
+  ownProgress: 4.571433333333333,
   partOfCollections: ["release/paul-cardall-all-i-see-is-snow"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

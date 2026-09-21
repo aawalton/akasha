@@ -5,10 +5,10 @@ export const paulCardallNewLifeLifeAndDeath = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-life-and-death",
   ownLength: 5.572,
-  ownProgress: 0,
+  ownProgress: 5.572,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

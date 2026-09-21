@@ -5,10 +5,10 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplayFeelslikeimfallinginlo
   type: "page-type/track",
   slug: "coldplay-feelslikeimfallinginlove-zerb-x-coldplay-feelslikeimfallinginlove-zerb-x-coldplay",
   ownLength: 3.9435333333333333,
-  ownProgress: 0,
+  ownProgress: 3.9435333333333333,
   partOfCollections: ["release/coldplay-feelslikeimfallinginlove-zerb-x-coldplay"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

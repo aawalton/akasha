@@ -5,10 +5,10 @@ export const paulCardallChristmasChristmasPast = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-christmas-past",
   ownLength: 4.335016666666666,
-  ownProgress: 0,
+  ownProgress: 4.335016666666666,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

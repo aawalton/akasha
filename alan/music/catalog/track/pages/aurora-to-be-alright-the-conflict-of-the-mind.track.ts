@@ -5,10 +5,10 @@ export const auroraToBeAlrightTheConflictOfTheMind = {
   type: "page-type/track",
   slug: "aurora-to-be-alright-the-conflict-of-the-mind",
   ownLength: 4.24355,
-  ownProgress: 0,
+  ownProgress: 4.24355,
   partOfCollections: ["release/aurora-to-be-alright"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

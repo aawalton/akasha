@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRoundAndRound =
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-round-and-round",
   ownLength: 3.3024333333333336,
-  ownProgress: 0,
+  ownProgress: 3.3024333333333336,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

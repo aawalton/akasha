@@ -5,10 +5,10 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkin = {
   type: "page-type/track",
   slug: "aurora-some-type-of-skin-some-type-of-skin",
   ownLength: 3.20955,
-  ownProgress: 0,
+  ownProgress: 3.20955,
   partOfCollections: ["release/aurora-some-type-of-skin"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

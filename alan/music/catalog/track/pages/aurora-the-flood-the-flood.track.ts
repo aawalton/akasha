@@ -5,10 +5,10 @@ export const auroraTheFloodTheFlood = {
   type: "page-type/track",
   slug: "aurora-the-flood-the-flood",
   ownLength: 4.495333333333333,
-  ownProgress: 0,
+  ownProgress: 4.495333333333333,
   partOfCollections: ["release/aurora-the-flood"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

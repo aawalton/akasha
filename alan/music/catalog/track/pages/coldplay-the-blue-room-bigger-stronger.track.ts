@@ -5,10 +5,10 @@ export const coldplayTheBlueRoomBiggerStronger = {
   type: "page-type/track",
   slug: "coldplay-the-blue-room-bigger-stronger",
   ownLength: 4.818883333333333,
-  ownProgress: 0,
+  ownProgress: 4.818883333333333,
   partOfCollections: ["release/coldplay-the-blue-room"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

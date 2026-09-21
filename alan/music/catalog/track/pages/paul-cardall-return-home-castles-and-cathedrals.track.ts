@@ -5,10 +5,10 @@ export const paulCardallReturnHomeCastlesAndCathedrals = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-castles-and-cathedrals",
   ownLength: 4.9696,
-  ownProgress: 0,
+  ownProgress: 4.9696,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

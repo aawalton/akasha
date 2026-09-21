@@ -5,10 +5,10 @@ export const celticWoman2SoloCarolinaRua = {
   type: "page-type/track",
   slug: "celtic-woman-2-solo-carolina-rua",
   ownLength: 2.834766666666667,
-  ownProgress: 0,
+  ownProgress: 2.834766666666667,
   partOfCollections: ["release/celtic-woman-2-solo"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

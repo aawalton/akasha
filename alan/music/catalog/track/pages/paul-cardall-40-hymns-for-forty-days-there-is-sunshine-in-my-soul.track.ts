@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysThereIsSunshineInMySoul = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-there-is-sunshine-in-my-soul",
   ownLength: 3.1551,
-  ownProgress: 0,
+  ownProgress: 3.1551,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

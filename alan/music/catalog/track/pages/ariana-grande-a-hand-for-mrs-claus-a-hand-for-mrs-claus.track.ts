@@ -5,10 +5,10 @@ export const arianaGrandeAHandForMrsClausAHandForMrsClaus = {
   type: "page-type/track",
   slug: "ariana-grande-a-hand-for-mrs-claus-a-hand-for-mrs-claus",
   ownLength: 2.484,
-  ownProgress: 0,
+  ownProgress: 2.484,
   partOfCollections: ["release/ariana-grande-a-hand-for-mrs-claus"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

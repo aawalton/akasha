@@ -5,10 +5,10 @@ export const auroraTheGodsWeCanTouchTheForbiddenFruitsOfEden = {
   type: "page-type/track",
   slug: "aurora-the-gods-we-can-touch-the-forbidden-fruits-of-eden",
   ownLength: 0.6742166666666667,
-  ownProgress: 0,
+  ownProgress: 0.6742166666666667,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

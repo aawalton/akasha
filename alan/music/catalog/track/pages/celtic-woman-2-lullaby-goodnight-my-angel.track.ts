@@ -5,10 +5,10 @@ export const celticWoman2LullabyGoodnightMyAngel = {
   type: "page-type/track",
   slug: "celtic-woman-2-lullaby-goodnight-my-angel",
   ownLength: 3.2462166666666668,
-  ownProgress: 0,
+  ownProgress: 3.2462166666666668,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3WeddingSeasonEnchanted = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wedding-season-enchanted",
   ownLength: 4.9833,
-  ownProgress: 0,
+  ownProgress: 4.9833,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

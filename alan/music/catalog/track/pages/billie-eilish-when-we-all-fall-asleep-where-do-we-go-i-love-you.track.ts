@@ -5,10 +5,10 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoILoveYou = {
   type: "page-type/track",
   slug: "billie-eilish-when-we-all-fall-asleep-where-do-we-go-i-love-you",
   ownLength: 4.863266666666667,
-  ownProgress: 0,
+  ownProgress: 4.863266666666667,
   partOfCollections: ["release/billie-eilish-when-we-all-fall-asleep-where-do-we-go"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

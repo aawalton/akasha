@@ -5,10 +5,10 @@ export const emeiThatGirlThatGirl = {
   type: "page-type/track",
   slug: "emei-that-girl-that-girl",
   ownLength: 2.3404333333333334,
-  ownProgress: 0,
+  ownProgress: 2.3404333333333334,
   partOfCollections: ["release/emei-that-girl"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

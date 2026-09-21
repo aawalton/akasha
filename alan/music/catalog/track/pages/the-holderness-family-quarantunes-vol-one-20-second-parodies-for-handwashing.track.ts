@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOne20SecondParodiesForHandwashing 
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-20-second-parodies-for-handwashing",
   ownLength: 3.3232,
-  ownProgress: 0,
+  ownProgress: 3.3232,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

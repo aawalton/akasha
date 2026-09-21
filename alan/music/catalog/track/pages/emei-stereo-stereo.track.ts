@@ -5,10 +5,10 @@ export const emeiStereoStereo = {
   type: "page-type/track",
   slug: "emei-stereo-stereo",
   ownLength: 2.457516666666667,
-  ownProgress: 0,
+  ownProgress: 2.457516666666667,
   partOfCollections: ["release/emei-stereo"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

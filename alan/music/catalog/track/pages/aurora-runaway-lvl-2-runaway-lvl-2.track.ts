@@ -5,10 +5,10 @@ export const auroraRunawayLvl2RunawayLvl2 = {
   type: "page-type/track",
   slug: "aurora-runaway-lvl-2-runaway-lvl-2",
   ownLength: 3.564433333333333,
-  ownProgress: 0,
+  ownProgress: 3.564433333333333,
   partOfCollections: ["release/aurora-runaway-lvl-2"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayXYSwallowedInTheSea = {
   type: "page-type/track",
   slug: "coldplay-x-y-swallowed-in-the-sea",
   ownLength: 3.98335,
-  ownProgress: 0,
+  ownProgress: 3.98335,
   partOfCollections: ["release/coldplay-x-y"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

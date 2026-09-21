@@ -5,10 +5,10 @@ export const thePianoGuys3WhenYouReGoneNeverGonnaGiveYouUp = {
   type: "page-type/track",
   slug: "the-piano-guys-3-when-you-re-gone-never-gonna-give-you-up",
   ownLength: 3.04385,
-  ownProgress: 0,
+  ownProgress: 3.04385,
   partOfCollections: ["release/the-piano-guys-3-when-you-re-gone"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

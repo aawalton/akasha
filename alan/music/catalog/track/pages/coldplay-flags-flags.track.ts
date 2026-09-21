@@ -5,10 +5,10 @@ export const coldplayFlagsFlags = {
   type: "page-type/track",
   slug: "coldplay-flags-flags",
   ownLength: 3.608216666666667,
-  ownProgress: 0,
+  ownProgress: 3.608216666666667,
   partOfCollections: ["release/coldplay-flags"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

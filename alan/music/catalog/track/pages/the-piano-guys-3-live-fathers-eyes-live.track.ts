@@ -5,10 +5,10 @@ export const thePianoGuys3LiveFathersEyesLive = {
   type: "page-type/track",
   slug: "the-piano-guys-3-live-fathers-eyes-live",
   ownLength: 4.170216666666667,
-  ownProgress: 0,
+  ownProgress: 4.170216666666667,
   partOfCollections: ["release/the-piano-guys-3-live"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3Unstoppable2GoldenHour = {
   type: "page-type/track",
   slug: "the-piano-guys-3-unstoppable-2-golden-hour",
   ownLength: 2.64285,
-  ownProgress: 0,
+  ownProgress: 2.64285,
   partOfCollections: ["release/the-piano-guys-3-unstoppable-2"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

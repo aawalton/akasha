@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023Maycember = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-maycember",
   ownLength: 3.0668,
-  ownProgress: 0,
+  ownProgress: 3.0668,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

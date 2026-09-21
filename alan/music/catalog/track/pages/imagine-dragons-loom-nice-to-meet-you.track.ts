@@ -5,10 +5,10 @@ export const imagineDragonsLoomNiceToMeetYou = {
   type: "page-type/track",
   slug: "imagine-dragons-loom-nice-to-meet-you",
   ownLength: 3.17955,
-  ownProgress: 0,
+  ownProgress: 3.17955,
   partOfCollections: ["release/imagine-dragons-loom"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

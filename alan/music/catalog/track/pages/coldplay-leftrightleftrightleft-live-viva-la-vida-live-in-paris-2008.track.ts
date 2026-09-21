@@ -5,10 +5,10 @@ export const coldplayLeftrightleftrightleftLiveVivaLaVidaLiveInParis2008 = {
   type: "page-type/track",
   slug: "coldplay-leftrightleftrightleft-live-viva-la-vida-live-in-paris-2008",
   ownLength: 5.402216666666667,
-  ownProgress: 0,
+  ownProgress: 5.402216666666667,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

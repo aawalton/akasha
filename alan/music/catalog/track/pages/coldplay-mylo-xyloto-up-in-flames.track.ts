@@ -5,10 +5,10 @@ export const coldplayMyloXylotoUpInFlames = {
   type: "page-type/track",
   slug: "coldplay-mylo-xyloto-up-in-flames",
   ownLength: 3.220666666666667,
-  ownProgress: 0,
+  ownProgress: 3.220666666666667,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

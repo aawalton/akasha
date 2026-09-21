@@ -5,10 +5,10 @@ export const paulCardallNewLifeGratitude = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-gratitude",
   ownLength: 2.4268833333333335,
-  ownProgress: 0,
+  ownProgress: 2.4268833333333335,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

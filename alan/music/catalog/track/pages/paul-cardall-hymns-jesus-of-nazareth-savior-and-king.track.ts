@@ -5,10 +5,10 @@ export const paulCardallHymnsJesusOfNazarethSaviorAndKing = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-jesus-of-nazareth-savior-and-king",
   ownLength: 2.358433333333333,
-  ownProgress: 0,
+  ownProgress: 2.358433333333333,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

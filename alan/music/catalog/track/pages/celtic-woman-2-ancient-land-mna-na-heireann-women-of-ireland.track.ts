@@ -5,10 +5,10 @@ export const celticWoman2AncientLandMnaNaHeireannWomenOfIreland = {
   type: "page-type/track",
   slug: "celtic-woman-2-ancient-land-mna-na-heireann-women-of-ireland",
   ownLength: 4.001766666666667,
-  ownProgress: 0,
+  ownProgress: 4.001766666666667,
   partOfCollections: ["release/celtic-woman-2-ancient-land"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

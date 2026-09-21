@@ -5,10 +5,10 @@ export const coldplayLiveInBuenosAiresAHeadFullOfDreamsLiveInBuenosAires = {
   type: "page-type/track",
   slug: "coldplay-live-in-buenos-aires-a-head-full-of-dreams-live-in-buenos-aires",
   ownLength: 4.985333333333333,
-  ownProgress: 0,
+  ownProgress: 4.985333333333333,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

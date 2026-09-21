@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActIiICantStopMe = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-ii-i-cant-stop-me",
   ownLength: 3.7016833333333334,
-  ownProgress: 0,
+  ownProgress: 3.7016833333333334,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysTheSpiritOfGod = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-the-spirit-of-god",
   ownLength: 3.0757666666666665,
-  ownProgress: 0,
+  ownProgress: 3.0757666666666665,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 22,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

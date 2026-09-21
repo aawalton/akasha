@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionRedPoppyFieldsSoloPianoVersion
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-red-poppy-fields-solo-piano-version",
   ownLength: 3.2998166666666666,
-  ownProgress: 0,
+  ownProgress: 3.2998166666666666,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

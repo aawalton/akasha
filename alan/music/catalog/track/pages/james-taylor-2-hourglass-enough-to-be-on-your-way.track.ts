@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassEnoughToBeOnYourWay = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-enough-to-be-on-your-way",
   ownLength: 5.448883333333334,
-  ownProgress: 0,
+  ownProgress: 5.448883333333334,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const billieEilishLoVasAOlvidarWithRosaliaLoVasAOlvidarWithRosalia = {
   type: "page-type/track",
   slug: "billie-eilish-lo-vas-a-olvidar-with-rosalia-lo-vas-a-olvidar-with-rosalia",
   ownLength: 3.3910666666666667,
-  ownProgress: 0,
+  ownProgress: 3.3910666666666667,
   partOfCollections: ["release/billie-eilish-lo-vas-a-olvidar-with-rosalia"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

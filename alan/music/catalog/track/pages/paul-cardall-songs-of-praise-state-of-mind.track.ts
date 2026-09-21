@@ -5,10 +5,10 @@ export const paulCardallSongsOfPraiseStateOfMind = {
   type: "page-type/track",
   slug: "paul-cardall-songs-of-praise-state-of-mind",
   ownLength: 4.230216666666666,
-  ownProgress: 0,
+  ownProgress: 4.230216666666666,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

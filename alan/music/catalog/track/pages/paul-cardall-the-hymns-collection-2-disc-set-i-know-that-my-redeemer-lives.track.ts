@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetIKnowThatMyRedeemerLives = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-i-know-that-my-redeemer-lives",
   ownLength: 3.71895,
-  ownProgress: 0,
+  ownProgress: 3.71895,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 21,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

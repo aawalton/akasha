@@ -5,10 +5,10 @@ export const celticWoman2VoicesOfAngelsAveMaria2016Version = {
   type: "page-type/track",
   slug: "celtic-woman-2-voices-of-angels-ave-maria-2016-version",
   ownLength: 2.934,
-  ownProgress: 0,
+  ownProgress: 2.934,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

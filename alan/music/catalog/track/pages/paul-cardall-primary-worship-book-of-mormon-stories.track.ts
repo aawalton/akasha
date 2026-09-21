@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipBookOfMormonStories = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-book-of-mormon-stories",
   ownLength: 6.788883333333334,
-  ownProgress: 0,
+  ownProgress: 6.788883333333334,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

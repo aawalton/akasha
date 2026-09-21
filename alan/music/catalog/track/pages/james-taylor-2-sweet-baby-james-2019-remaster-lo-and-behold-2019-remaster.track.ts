@@ -5,10 +5,10 @@ export const jamesTaylor2SweetBabyJames2019RemasterLoAndBehold2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-sweet-baby-james-2019-remaster-lo-and-behold-2019-remaster",
   ownLength: 2.64555,
-  ownProgress: 0,
+  ownProgress: 2.64555,
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

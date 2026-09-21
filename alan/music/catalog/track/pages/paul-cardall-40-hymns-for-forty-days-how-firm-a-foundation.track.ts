@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysHowFirmAFoundation = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-how-firm-a-foundation",
   ownLength: 2.56955,
-  ownProgress: 0,
+  ownProgress: 2.56955,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 24,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayGhostStoriesTrueLove = {
   type: "page-type/track",
   slug: "coldplay-ghost-stories-true-love",
   ownLength: 4.1,
-  ownProgress: 0,
+  ownProgress: 4.1,
   partOfCollections: ["release/coldplay-ghost-stories"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

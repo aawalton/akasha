@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlStickWithYou = {
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-stick-with-you",
   ownLength: 2.9917,
-  ownProgress: 0,
+  ownProgress: 2.9917,
   partOfCollections: ["release/zara-larsson-poster-girl"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

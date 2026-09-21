@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleTheManWithHalfAHeart = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-the-man-with-half-a-heart",
   ownLength: 4.323083333333333,
-  ownProgress: 0,
+  ownProgress: 4.323083333333333,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

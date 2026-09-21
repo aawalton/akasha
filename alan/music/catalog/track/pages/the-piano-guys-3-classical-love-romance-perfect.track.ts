@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalLoveRomancePerfect = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-love-romance-perfect",
   ownLength: 5.141666666666667,
-  ownProgress: 0,
+  ownProgress: 5.141666666666667,
   partOfCollections: ["release/the-piano-guys-3-classical-love-romance"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2BeforeThisWorldFarAfghanistan = {
   type: "page-type/track",
   slug: "james-taylor-2-before-this-world-far-afghanistan",
   ownLength: 4.074433333333333,
-  ownProgress: 0,
+  ownProgress: 4.074433333333333,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

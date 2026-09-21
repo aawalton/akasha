@@ -5,10 +5,10 @@ export const jamesTaylor2NeverDieYoungTBone = {
   type: "page-type/track",
   slug: "james-taylor-2-never-die-young-t-bone",
   ownLength: 3.7944333333333335,
-  ownProgress: 0,
+  ownProgress: 3.7944333333333335,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

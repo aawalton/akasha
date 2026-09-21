@@ -5,10 +5,10 @@ export const vinnyMarchiRidingWavesRidingWaves = {
   type: "page-type/track",
   slug: "vinny-marchi-riding-waves-riding-waves",
   ownLength: 2.811183333333333,
-  ownProgress: 0,
+  ownProgress: 2.811183333333333,
   partOfCollections: ["release/vinny-marchi-riding-waves"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const billieEilishHitMeHardAndSoftTheGreatest = {
   type: "page-type/track",
   slug: "billie-eilish-hit-me-hard-and-soft-the-greatest",
   ownLength: 4.897333333333333,
-  ownProgress: 0,
+  ownProgress: 4.897333333333333,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

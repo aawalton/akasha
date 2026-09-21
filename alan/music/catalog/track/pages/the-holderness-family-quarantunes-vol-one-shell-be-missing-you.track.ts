@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOneShellBeMissingYou = {
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-shell-be-missing-you",
   ownLength: 3.1743,
-  ownProgress: 0,
+  ownProgress: 3.1743,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

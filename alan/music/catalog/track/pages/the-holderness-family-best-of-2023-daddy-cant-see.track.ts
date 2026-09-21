@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023DaddyCantSee = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-daddy-cant-see",
   ownLength: 2.1148,
-  ownProgress: 0,
+  ownProgress: 2.1148,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

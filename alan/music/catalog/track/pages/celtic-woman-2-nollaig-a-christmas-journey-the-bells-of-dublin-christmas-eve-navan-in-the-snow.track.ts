@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneyTheBellsOfDublinChristmasEveNav
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-the-bells-of-dublin-christmas-eve-navan-in-the-snow",
   ownLength: 3.63245,
-  ownProgress: 0,
+  ownProgress: 3.63245,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

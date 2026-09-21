@@ -5,10 +5,10 @@ export const jamesTaylor2FlagMillworker = {
   type: "page-type/track",
   slug: "james-taylor-2-flag-millworker",
   ownLength: 3.862216666666667,
-  ownProgress: 0,
+  ownProgress: 3.862216666666667,
   partOfCollections: ["release/james-taylor-2-flag"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

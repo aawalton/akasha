@@ -5,10 +5,10 @@ export const coldplayLive2003MosesLiveInSydney = {
   type: "page-type/track",
   slug: "coldplay-live-2003-moses-live-in-sydney",
   ownLength: 5.4862166666666665,
-  ownProgress: 0,
+  ownProgress: 5.4862166666666665,
   partOfCollections: ["release/coldplay-live-2003"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

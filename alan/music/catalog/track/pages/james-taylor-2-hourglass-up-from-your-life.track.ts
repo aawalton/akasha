@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassUpFromYourLife = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-up-from-your-life",
   ownLength: 5.246216666666666,
-  ownProgress: 0,
+  ownProgress: 5.246216666666666,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

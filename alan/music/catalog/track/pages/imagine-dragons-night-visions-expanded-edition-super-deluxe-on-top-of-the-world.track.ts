@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorld
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-on-top-of-the-world",
   ownLength: 3.2046666666666668,
-  ownProgress: 0,
+  ownProgress: 3.2046666666666668,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

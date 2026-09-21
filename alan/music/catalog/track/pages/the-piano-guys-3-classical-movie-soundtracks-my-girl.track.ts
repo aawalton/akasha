@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalMovieSoundtracksMyGirl = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-movie-soundtracks-my-girl",
   ownLength: 3.9403,
-  ownProgress: 0,
+  ownProgress: 3.9403,
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

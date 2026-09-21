@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsCemeteriesOfLondon = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-or-death-and-all-his-friends-cemeteries-of-london",
   ownLength: 3.351766666666667,
-  ownProgress: 0,
+  ownProgress: 3.351766666666667,
   partOfCollections: ["release/coldplay-viva-la-vida-or-death-and-all-his-friends"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

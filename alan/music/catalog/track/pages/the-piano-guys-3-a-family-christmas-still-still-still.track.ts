@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasStillStillStill = {
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-still-still-still",
   ownLength: 4.998433333333334,
-  ownProgress: 0,
+  ownProgress: 4.998433333333334,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallHymnsVol2AllCreaturesOfOurGodAndKing = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-vol-2-all-creatures-of-our-god-and-king",
   ownLength: 3.102,
-  ownProgress: 0,
+  ownProgress: 3.102,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

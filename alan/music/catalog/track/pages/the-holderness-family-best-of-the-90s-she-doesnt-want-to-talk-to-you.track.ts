@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe90sSheDoesntWantToTalkToYou = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-90s-she-doesnt-want-to-talk-to-you",
   ownLength: 1.8995333333333333,
-  ownProgress: 0,
+  ownProgress: 1.8995333333333333,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallHymnsNearerMyGodToThee = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-nearer-my-god-to-thee",
   ownLength: 3.2844333333333333,
-  ownProgress: 0,
+  ownProgress: 3.2844333333333333,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

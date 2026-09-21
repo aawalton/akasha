@@ -5,10 +5,10 @@ export const coldplayLive2003OneILoveLiveInSydney = {
   type: "page-type/track",
   slug: "coldplay-live-2003-one-i-love-live-in-sydney",
   ownLength: 5.140433333333333,
-  ownProgress: 0,
+  ownProgress: 5.140433333333333,
   partOfCollections: ["release/coldplay-live-2003"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

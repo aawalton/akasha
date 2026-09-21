@@ -5,10 +5,10 @@ export const paulCardallGracieSThemeLiveGraciesThemeLive = {
   type: "page-type/track",
   slug: "paul-cardall-gracie-s-theme-live-gracies-theme-live",
   ownLength: 5.018233333333334,
-  ownProgress: 0,
+  ownProgress: 5.018233333333334,
   partOfCollections: ["release/paul-cardall-gracie-s-theme-live"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

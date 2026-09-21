@@ -5,10 +5,10 @@ export const thePianoGuys3PopOnPianoThinkingOutLoud = {
   type: "page-type/track",
   slug: "the-piano-guys-3-pop-on-piano-thinking-out-loud",
   ownLength: 3.877266666666667,
-  ownProgress: 0,
+  ownProgress: 3.877266666666667,
   partOfCollections: ["release/the-piano-guys-3-pop-on-piano"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

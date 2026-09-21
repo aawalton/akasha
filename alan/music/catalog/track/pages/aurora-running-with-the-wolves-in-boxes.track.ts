@@ -5,10 +5,10 @@ export const auroraRunningWithTheWolvesInBoxes = {
   type: "page-type/track",
   slug: "aurora-running-with-the-wolves-in-boxes",
   ownLength: 3.394433333333333,
-  ownProgress: 0,
+  ownProgress: 3.394433333333333,
   partOfCollections: ["release/aurora-running-with-the-wolves"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

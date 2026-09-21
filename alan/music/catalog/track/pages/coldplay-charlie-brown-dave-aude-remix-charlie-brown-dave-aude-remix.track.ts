@@ -5,10 +5,10 @@ export const coldplayCharlieBrownDaveAudeRemixCharlieBrownDaveAudeRemix = {
   type: "page-type/track",
   slug: "coldplay-charlie-brown-dave-aude-remix-charlie-brown-dave-aude-remix",
   ownLength: 6.7307,
-  ownProgress: 0,
+  ownProgress: 6.7307,
   partOfCollections: ["release/coldplay-charlie-brown-dave-aude-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

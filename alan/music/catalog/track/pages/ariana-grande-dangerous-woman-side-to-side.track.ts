@@ -5,10 +5,10 @@ export const arianaGrandeDangerousWomanSideToSide = {
   type: "page-type/track",
   slug: "ariana-grande-dangerous-woman-side-to-side",
   ownLength: 3.76955,
-  ownProgress: 0,
+  ownProgress: 3.76955,
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

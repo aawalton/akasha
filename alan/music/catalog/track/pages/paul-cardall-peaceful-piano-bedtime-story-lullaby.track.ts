@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoBedtimeStoryLullaby = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-bedtime-story-lullaby",
   ownLength: 2.518,
-  ownProgress: 0,
+  ownProgress: 2.518,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

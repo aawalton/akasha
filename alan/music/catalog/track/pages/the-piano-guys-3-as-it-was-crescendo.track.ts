@@ -5,10 +5,10 @@ export const thePianoGuys3AsItWasCrescendo = {
   type: "page-type/track",
   slug: "the-piano-guys-3-as-it-was-crescendo",
   ownLength: 3.2361,
-  ownProgress: 0,
+  ownProgress: 3.2361,
   partOfCollections: ["release/the-piano-guys-3-as-it-was"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetInHumilityOurSavior = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-in-humility-our-savior",
   ownLength: 4.7651666666666666,
-  ownProgress: 0,
+  ownProgress: 4.7651666666666666,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 28,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

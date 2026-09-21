@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleWeCouldBeKind = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-we-could-be-kind",
   ownLength: 3.2091,
-  ownProgress: 0,
+  ownProgress: 3.2091,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

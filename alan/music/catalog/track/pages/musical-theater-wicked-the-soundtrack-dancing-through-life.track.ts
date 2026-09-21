@@ -5,10 +5,10 @@ export const musicalTheaterWickedTheSoundtrackDancingThroughLife = {
   type: "page-type/track",
   slug: "musical-theater-wicked-the-soundtrack-dancing-through-life",
   ownLength: 9.7894,
-  ownProgress: 0,
+  ownProgress: 9.7894,
   partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

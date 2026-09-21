@@ -5,10 +5,10 @@ export const chaislynHimHim = {
   type: "page-type/track",
   slug: "chaislyn-him-him",
   ownLength: 3.33515,
-  ownProgress: 0,
+  ownProgress: 3.33515,
   partOfCollections: ["release/chaislyn-him"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

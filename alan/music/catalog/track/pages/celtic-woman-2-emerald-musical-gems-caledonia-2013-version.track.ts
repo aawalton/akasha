@@ -5,10 +5,10 @@ export const celticWoman2EmeraldMusicalGemsCaledonia2013Version = {
   type: "page-type/track",
   slug: "celtic-woman-2-emerald-musical-gems-caledonia-2013-version",
   ownLength: 4.996433333333333,
-  ownProgress: 0,
+  ownProgress: 4.996433333333333,
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

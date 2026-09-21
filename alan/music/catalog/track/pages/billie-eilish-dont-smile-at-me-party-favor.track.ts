@@ -5,10 +5,10 @@ export const billieEilishDontSmileAtMePartyFavor = {
   type: "page-type/track",
   slug: "billie-eilish-dont-smile-at-me-party-favor",
   ownLength: 3.4128333333333334,
-  ownProgress: 0,
+  ownProgress: 3.4128333333333334,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

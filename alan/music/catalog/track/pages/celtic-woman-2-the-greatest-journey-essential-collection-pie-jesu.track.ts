@@ -5,10 +5,10 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionPieJesu = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection-pie-jesu",
   ownLength: 3.4784333333333333,
-  ownProgress: 0,
+  ownProgress: 3.4784333333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

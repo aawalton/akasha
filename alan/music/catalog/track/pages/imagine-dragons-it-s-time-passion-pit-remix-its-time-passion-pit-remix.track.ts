@@ -5,10 +5,10 @@ export const imagineDragonsItSTimePassionPitRemixItsTimePassionPitRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-it-s-time-passion-pit-remix-its-time-passion-pit-remix",
   ownLength: 4.522883333333334,
-  ownProgress: 0,
+  ownProgress: 4.522883333333334,
   partOfCollections: ["release/imagine-dragons-it-s-time-passion-pit-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

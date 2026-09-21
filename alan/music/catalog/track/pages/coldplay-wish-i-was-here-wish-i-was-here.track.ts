@@ -5,10 +5,10 @@ export const coldplayWishIWasHereWishIWasHere = {
   type: "page-type/track",
   slug: "coldplay-wish-i-was-here-wish-i-was-here",
   ownLength: 3.18155,
-  ownProgress: 0,
+  ownProgress: 3.18155,
   partOfCollections: ["release/coldplay-wish-i-was-here"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2NewMoonShineDownInTheHole = {
   type: "page-type/track",
   slug: "james-taylor-2-new-moon-shine-down-in-the-hole",
   ownLength: 5.252666666666666,
-  ownProgress: 0,
+  ownProgress: 5.252666666666666,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

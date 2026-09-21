@@ -5,10 +5,10 @@ export const thePianoGuys3WondersPicturesAtAnExhibition = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wonders-pictures-at-an-exhibition",
   ownLength: 4.038,
-  ownProgress: 0,
+  ownProgress: 4.038,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

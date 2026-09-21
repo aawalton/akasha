@@ -5,10 +5,10 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinSofiaKourtesisRemix = {
   type: "page-type/track",
   slug: "aurora-some-type-of-skin-some-type-of-skin-sofia-kourtesis-remix",
   ownLength: 3.41155,
-  ownProgress: 0,
+  ownProgress: 3.41155,
   partOfCollections: ["release/aurora-some-type-of-skin"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

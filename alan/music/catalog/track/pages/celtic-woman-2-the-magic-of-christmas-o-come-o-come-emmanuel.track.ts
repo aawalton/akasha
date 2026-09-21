@@ -5,10 +5,10 @@ export const celticWoman2TheMagicOfChristmasOComeOComeEmmanuel = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-magic-of-christmas-o-come-o-come-emmanuel",
   ownLength: 4.150883333333334,
-  ownProgress: 0,
+  ownProgress: 4.150883333333334,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

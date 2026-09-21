@@ -5,10 +5,10 @@ export const sabrinaCarpenterWhyWhy = {
   type: "page-type/track",
   slug: "sabrina-carpenter-why-why",
   ownLength: 2.8516,
-  ownProgress: 0,
+  ownProgress: 2.8516,
   partOfCollections: ["release/sabrina-carpenter-why"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayARushOfBloodToTheHeadInMyPlace = {
   type: "page-type/track",
   slug: "coldplay-a-rush-of-blood-to-the-head-in-my-place",
   ownLength: 3.778,
-  ownProgress: 0,
+  ownProgress: 3.778,
   partOfCollections: ["release/coldplay-a-rush-of-blood-to-the-head"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

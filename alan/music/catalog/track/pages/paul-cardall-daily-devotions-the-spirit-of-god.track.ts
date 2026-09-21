@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsTheSpiritOfGod = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-the-spirit-of-god",
   ownLength: 3.078,
-  ownProgress: 0,
+  ownProgress: 3.078,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

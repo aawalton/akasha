@@ -5,10 +5,10 @@ export const billieEilishHitMeHardAndSoftChihiro = {
   type: "page-type/track",
   slug: "billie-eilish-hit-me-hard-and-soft-chihiro",
   ownLength: 5.057333333333333,
-  ownProgress: 0,
+  ownProgress: 5.057333333333333,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3WeddingSeasonEveryBreathYouTake = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wedding-season-every-breath-you-take",
   ownLength: 4.536833333333333,
-  ownProgress: 0,
+  ownProgress: 4.536833333333333,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

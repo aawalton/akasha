@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023Walk = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-walk",
   ownLength: 2.1316,
-  ownProgress: 0,
+  ownProgress: 2.1316,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2CoversItsGrowing = {
   type: "page-type/track",
   slug: "james-taylor-2-covers-its-growing",
   ownLength: 4.13155,
-  ownProgress: 0,
+  ownProgress: 4.13155,
   partOfCollections: ["release/james-taylor-2-covers"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayLostLost2 = {
   type: "page-type/track",
   slug: "coldplay-lost-lost-2",
   ownLength: 3.7008833333333335,
-  ownProgress: 0,
+  ownProgress: 3.7008833333333335,
   partOfCollections: ["release/coldplay-lost"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallSongsOfPraiseProdigal = {
   type: "page-type/track",
   slug: "paul-cardall-songs-of-praise-prodigal",
   ownLength: 5.022433333333334,
-  ownProgress: 0,
+  ownProgress: 5.022433333333334,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

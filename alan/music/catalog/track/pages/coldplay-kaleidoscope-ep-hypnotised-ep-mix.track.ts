@@ -5,10 +5,10 @@ export const coldplayKaleidoscopeEpHypnotisedEpMix = {
   type: "page-type/track",
   slug: "coldplay-kaleidoscope-ep-hypnotised-ep-mix",
   ownLength: 6.52355,
-  ownProgress: 0,
+  ownProgress: 6.52355,
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

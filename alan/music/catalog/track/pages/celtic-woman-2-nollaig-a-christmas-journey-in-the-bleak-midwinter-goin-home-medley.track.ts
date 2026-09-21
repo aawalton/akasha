@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneyInTheBleakMidwinterGoinHomeMedl
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-in-the-bleak-midwinter-goin-home-medley",
   ownLength: 4.542916666666667,
-  ownProgress: 0,
+  ownProgress: 4.542916666666667,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

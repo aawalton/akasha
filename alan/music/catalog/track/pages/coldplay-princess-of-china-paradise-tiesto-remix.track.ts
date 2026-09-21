@@ -5,10 +5,10 @@ export const coldplayPrincessOfChinaParadiseTiestoRemix = {
   type: "page-type/track",
   slug: "coldplay-princess-of-china-paradise-tiesto-remix",
   ownLength: 4.772433333333334,
-  ownProgress: 0,
+  ownProgress: 4.772433333333334,
   partOfCollections: ["release/coldplay-princess-of-china"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

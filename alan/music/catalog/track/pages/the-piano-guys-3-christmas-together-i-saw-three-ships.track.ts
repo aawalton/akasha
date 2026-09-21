@@ -5,10 +5,10 @@ export const thePianoGuys3ChristmasTogetherISawThreeShips = {
   type: "page-type/track",
   slug: "the-piano-guys-3-christmas-together-i-saw-three-ships",
   ownLength: 2.701033333333333,
-  ownProgress: 0,
+  ownProgress: 2.701033333333333,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

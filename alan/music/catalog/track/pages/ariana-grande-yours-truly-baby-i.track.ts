@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyBabyI = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-baby-i",
   ownLength: 3.2933333333333334,
-  ownProgress: 0,
+  ownProgress: 3.2933333333333334,
   partOfCollections: ["release/ariana-grande-yours-truly"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

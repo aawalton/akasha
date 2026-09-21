@@ -5,10 +5,10 @@ export const vinnyMarchiCherryWineCherryWine = {
   type: "page-type/track",
   slug: "vinny-marchi-cherry-wine-cherry-wine",
   ownLength: 3.4964,
-  ownProgress: 0,
+  ownProgress: 3.4964,
   partOfCollections: ["release/vinny-marchi-cherry-wine"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

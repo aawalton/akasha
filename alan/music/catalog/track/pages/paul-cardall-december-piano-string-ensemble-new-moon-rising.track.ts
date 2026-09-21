@@ -5,10 +5,10 @@ export const paulCardallDecemberPianoStringEnsembleNewMoonRising = {
   type: "page-type/track",
   slug: "paul-cardall-december-piano-string-ensemble-new-moon-rising",
   ownLength: 3.62155,
-  ownProgress: 0,
+  ownProgress: 3.62155,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

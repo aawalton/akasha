@@ -5,10 +5,10 @@ export const paulCardallReturnHomeLandOfOurAncestors = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-land-of-our-ancestors",
   ownLength: 3.2319,
-  ownProgress: 0,
+  ownProgress: 3.2319,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

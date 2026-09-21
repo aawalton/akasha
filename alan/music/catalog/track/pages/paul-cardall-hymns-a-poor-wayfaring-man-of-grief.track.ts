@@ -5,10 +5,10 @@ export const paulCardallHymnsAPoorWayfaringManOfGrief = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-a-poor-wayfaring-man-of-grief",
   ownLength: 2.9873333333333334,
-  ownProgress: 0,
+  ownProgress: 2.9873333333333334,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

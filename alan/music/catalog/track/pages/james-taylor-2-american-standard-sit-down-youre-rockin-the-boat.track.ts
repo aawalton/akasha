@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardSitDownYoureRockinTheBoat = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-sit-down-youre-rockin-the-boat",
   ownLength: 4.18355,
-  ownProgress: 0,
+  ownProgress: 4.18355,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

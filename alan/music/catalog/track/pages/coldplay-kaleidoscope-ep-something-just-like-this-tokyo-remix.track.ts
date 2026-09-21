@@ -5,10 +5,10 @@ export const coldplayKaleidoscopeEpSomethingJustLikeThisTokyoRemix = {
   type: "page-type/track",
   slug: "coldplay-kaleidoscope-ep-something-just-like-this-tokyo-remix",
   ownLength: 4.562433333333333,
-  ownProgress: 0,
+  ownProgress: 4.562433333333333,
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

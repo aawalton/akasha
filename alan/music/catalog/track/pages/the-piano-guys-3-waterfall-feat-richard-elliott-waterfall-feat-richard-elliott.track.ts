@@ -5,10 +5,10 @@ export const thePianoGuys3WaterfallFeatRichardElliottWaterfallFeatRichardElliott
   type: "page-type/track",
   slug: "the-piano-guys-3-waterfall-feat-richard-elliott-waterfall-feat-richard-elliott",
   ownLength: 3.1216,
-  ownProgress: 0,
+  ownProgress: 3.1216,
   partOfCollections: ["release/the-piano-guys-3-waterfall-feat-richard-elliott"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

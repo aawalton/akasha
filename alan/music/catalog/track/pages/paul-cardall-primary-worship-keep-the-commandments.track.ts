@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipKeepTheCommandments = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-keep-the-commandments",
   ownLength: 3.030883333333333,
-  ownProgress: 0,
+  ownProgress: 3.030883333333333,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

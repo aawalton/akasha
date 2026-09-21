@@ -5,10 +5,10 @@ export const paulCardallNewLifeFatherInHeaven = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-father-in-heaven",
   ownLength: 1.668,
-  ownProgress: 0,
+  ownProgress: 1.668,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

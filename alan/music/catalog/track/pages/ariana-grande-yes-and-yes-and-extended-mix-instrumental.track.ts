@@ -5,10 +5,10 @@ export const arianaGrandeYesAndYesAndExtendedMixInstrumental = {
   type: "page-type/track",
   slug: "ariana-grande-yes-and-yes-and-extended-mix-instrumental",
   ownLength: 5.136733333333333,
-  ownProgress: 0,
+  ownProgress: 5.136733333333333,
   partOfCollections: ["release/ariana-grande-yes-and"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

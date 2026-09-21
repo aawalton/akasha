@@ -5,10 +5,10 @@ export const imagineDragonsDemonsDemonsImagineDragonsRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-demons-demons-imagine-dragons-remix",
   ownLength: 3.2824333333333335,
-  ownProgress: 0,
+  ownProgress: 3.2824333333333335,
   partOfCollections: ["release/imagine-dragons-demons"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

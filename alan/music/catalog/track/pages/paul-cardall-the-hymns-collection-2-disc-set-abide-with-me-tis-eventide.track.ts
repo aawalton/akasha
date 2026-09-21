@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetAbideWithMeTisEventide = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-abide-with-me-tis-eventide",
   ownLength: 2.3353333333333333,
-  ownProgress: 0,
+  ownProgress: 2.3353333333333333,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

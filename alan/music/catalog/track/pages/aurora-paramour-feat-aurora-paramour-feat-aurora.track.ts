@@ -5,10 +5,10 @@ export const auroraParamourFeatAuroraParamourFeatAurora = {
   type: "page-type/track",
   slug: "aurora-paramour-feat-aurora-paramour-feat-aurora",
   ownLength: 2.8072166666666667,
-  ownProgress: 0,
+  ownProgress: 2.8072166666666667,
   partOfCollections: ["release/aurora-paramour-feat-aurora"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

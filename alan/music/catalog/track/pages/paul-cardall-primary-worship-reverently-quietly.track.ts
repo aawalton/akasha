@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipReverentlyQuietly = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-reverently-quietly",
   ownLength: 3.15355,
-  ownProgress: 0,
+  ownProgress: 3.15355,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

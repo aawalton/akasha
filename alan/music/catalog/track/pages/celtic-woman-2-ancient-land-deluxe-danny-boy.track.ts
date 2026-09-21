@@ -5,10 +5,10 @@ export const celticWoman2AncientLandDeluxeDannyBoy = {
   type: "page-type/track",
   slug: "celtic-woman-2-ancient-land-deluxe-danny-boy",
   ownLength: 3.5366666666666666,
-  ownProgress: 0,
+  ownProgress: 3.5366666666666666,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   position: 26,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

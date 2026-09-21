@@ -5,10 +5,10 @@ export const coldplayEverydayLifeGuns = {
   type: "page-type/track",
   slug: "coldplay-everyday-life-guns",
   ownLength: 1.918,
-  ownProgress: 0,
+  ownProgress: 1.918,
   partOfCollections: ["release/coldplay-everyday-life"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

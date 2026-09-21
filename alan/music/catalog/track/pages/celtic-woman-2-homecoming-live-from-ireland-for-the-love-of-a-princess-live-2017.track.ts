@@ -5,10 +5,10 @@ export const celticWoman2HomecomingLiveFromIrelandForTheLoveOfAPrincessLive2017 
   type: "page-type/track",
   slug: "celtic-woman-2-homecoming-live-from-ireland-for-the-love-of-a-princess-live-2017",
   ownLength: 3.874,
-  ownProgress: 0,
+  ownProgress: 3.874,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

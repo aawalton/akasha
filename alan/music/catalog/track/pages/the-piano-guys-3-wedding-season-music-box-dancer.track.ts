@@ -5,10 +5,10 @@ export const thePianoGuys3WeddingSeasonMusicBoxDancer = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wedding-season-music-box-dancer",
   ownLength: 2.716266666666667,
-  ownProgress: 0,
+  ownProgress: 2.716266666666667,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2BelieveTeirAbhaileRiu = {
   type: "page-type/track",
   slug: "celtic-woman-2-believe-teir-abhaile-riu",
   ownLength: 4.058216666666667,
-  ownProgress: 0,
+  ownProgress: 4.058216666666667,
   partOfCollections: ["release/celtic-woman-2-believe"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

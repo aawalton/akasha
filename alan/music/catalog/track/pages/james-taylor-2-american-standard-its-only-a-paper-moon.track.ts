@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardItsOnlyAPaperMoon = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-its-only-a-paper-moon",
   ownLength: 3.1982166666666667,
-  ownProgress: 0,
+  ownProgress: 3.1982166666666667,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

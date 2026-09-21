@@ -5,10 +5,10 @@ export const emeiTrustIssuesTrustIssues = {
   type: "page-type/track",
   slug: "emei-trust-issues-trust-issues",
   ownLength: 2.348,
-  ownProgress: 0,
+  ownProgress: 2.348,
   partOfCollections: ["release/emei-trust-issues"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

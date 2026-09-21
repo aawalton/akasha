@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeLiveLond
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-its-time-live-london-sessions-2013",
   ownLength: 4.164666666666666,
-  ownProgress: 0,
+  ownProgress: 4.164666666666666,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionAlmostIsNeverEnoughWit
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-almost-is-never-enough-with-nathan-sykes",
   ownLength: 5.462916666666667,
-  ownProgress: 0,
+  ownProgress: 5.462916666666667,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2BeforeThisWorldAngelsOfFenway = {
   type: "page-type/track",
   slug: "james-taylor-2-before-this-world-angels-of-fenway",
   ownLength: 3.30155,
-  ownProgress: 0,
+  ownProgress: 3.30155,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraQueendomRemixesQueendomSisterBlissRemix = {
   type: "page-type/track",
   slug: "aurora-queendom-remixes-queendom-sister-bliss-remix",
   ownLength: 6.309333333333333,
-  ownProgress: 0,
+  ownProgress: 6.309333333333333,
   partOfCollections: ["release/aurora-queendom-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2NewMoonShineShedALittleLight = {
   type: "page-type/track",
   slug: "james-taylor-2-new-moon-shine-shed-a-little-light",
   ownLength: 3.8688833333333332,
-  ownProgress: 0,
+  ownProgress: 3.8688833333333332,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

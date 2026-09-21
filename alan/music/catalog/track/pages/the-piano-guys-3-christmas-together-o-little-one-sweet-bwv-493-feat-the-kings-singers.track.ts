@@ -5,10 +5,10 @@ export const thePianoGuys3ChristmasTogetherOLittleOneSweetBwv493FeatTheKingsSing
   type: "page-type/track",
   slug: "the-piano-guys-3-christmas-together-o-little-one-sweet-bwv-493-feat-the-kings-singers",
   ownLength: 3.7177,
-  ownProgress: 0,
+  ownProgress: 3.7177,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

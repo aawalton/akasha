@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionYoullNeverKnow = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-youll-never-know",
   ownLength: 3.5713333333333335,
-  ownProgress: 0,
+  ownProgress: 3.5713333333333335,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

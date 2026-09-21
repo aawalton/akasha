@@ -5,10 +5,10 @@ export const sabrinaCarpenterEvolutionMirage = {
   type: "page-type/track",
   slug: "sabrina-carpenter-evolution-mirage",
   ownLength: 3.4246666666666665,
-  ownProgress: 0,
+  ownProgress: 3.4246666666666665,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

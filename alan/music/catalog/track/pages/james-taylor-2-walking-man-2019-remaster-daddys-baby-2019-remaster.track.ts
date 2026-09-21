@@ -5,10 +5,10 @@ export const jamesTaylor2WalkingMan2019RemasterDaddysBaby2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-walking-man-2019-remaster-daddys-baby-2019-remaster",
   ownLength: 2.64155,
-  ownProgress: 0,
+  ownProgress: 2.64155,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

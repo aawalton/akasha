@@ -5,10 +5,10 @@ export const arianaGrandeStuckWithUStuckWithUWithJustinBieber = {
   type: "page-type/track",
   slug: "ariana-grande-stuck-with-u-stuck-with-u-with-justin-bieber",
   ownLength: 3.8080333333333334,
-  ownProgress: 0,
+  ownProgress: 3.8080333333333334,
   partOfCollections: ["release/ariana-grande-stuck-with-u"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

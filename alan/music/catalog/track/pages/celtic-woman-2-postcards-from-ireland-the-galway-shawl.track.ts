@@ -5,10 +5,10 @@ export const celticWoman2PostcardsFromIrelandTheGalwayShawl = {
   type: "page-type/track",
   slug: "celtic-woman-2-postcards-from-ireland-the-galway-shawl",
   ownLength: 4.0691,
-  ownProgress: 0,
+  ownProgress: 4.0691,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

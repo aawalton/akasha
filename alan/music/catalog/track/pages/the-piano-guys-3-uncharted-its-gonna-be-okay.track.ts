@@ -5,10 +5,10 @@ export const thePianoGuys3UnchartedItsGonnaBeOkay = {
   type: "page-type/track",
   slug: "the-piano-guys-3-uncharted-its-gonna-be-okay",
   ownLength: 3.5093666666666667,
-  ownProgress: 0,
+  ownProgress: 3.5093666666666667,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const vinnyMarchiISeeFireISeeFire = {
   type: "page-type/track",
   slug: "vinny-marchi-i-see-fire-i-see-fire",
   ownLength: 3.8908833333333335,
-  ownProgress: 0,
+  ownProgress: 3.8908833333333335,
   partOfCollections: ["release/vinny-marchi-i-see-fire"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

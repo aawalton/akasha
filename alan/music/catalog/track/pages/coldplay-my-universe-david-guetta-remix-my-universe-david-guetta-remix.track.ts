@@ -5,10 +5,10 @@ export const coldplayMyUniverseDavidGuettaRemixMyUniverseDavidGuettaRemix = {
   type: "page-type/track",
   slug: "coldplay-my-universe-david-guetta-remix-my-universe-david-guetta-remix",
   ownLength: 3.3189166666666665,
-  ownProgress: 0,
+  ownProgress: 3.3189166666666665,
   partOfCollections: ["release/coldplay-my-universe-david-guetta-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

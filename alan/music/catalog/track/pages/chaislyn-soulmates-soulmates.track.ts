@@ -5,10 +5,10 @@ export const chaislynSoulmatesSoulmates = {
   type: "page-type/track",
   slug: "chaislyn-soulmates-soulmates",
   ownLength: 4.518933333333333,
-  ownProgress: 0,
+  ownProgress: 4.518933333333333,
   partOfCollections: ["release/chaislyn-soulmates"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

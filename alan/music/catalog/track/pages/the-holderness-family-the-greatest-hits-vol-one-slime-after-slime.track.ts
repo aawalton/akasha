@@ -5,10 +5,10 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSlimeAfterSlime = {
   type: "page-type/track",
   slug: "the-holderness-family-the-greatest-hits-vol-one-slime-after-slime",
   ownLength: 2.3227166666666665,
-  ownProgress: 0,
+  ownProgress: 2.3227166666666665,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

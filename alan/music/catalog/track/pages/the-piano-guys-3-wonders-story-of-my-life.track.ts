@@ -5,10 +5,10 @@ export const thePianoGuys3WondersStoryOfMyLife = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wonders-story-of-my-life",
   ownLength: 4.51355,
-  ownProgress: 0,
+  ownProgress: 4.51355,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

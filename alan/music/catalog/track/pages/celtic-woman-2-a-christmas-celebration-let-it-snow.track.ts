@@ -5,10 +5,10 @@ export const celticWoman2AChristmasCelebrationLetItSnow = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-christmas-celebration-let-it-snow",
   ownLength: 2.50955,
-  ownProgress: 0,
+  ownProgress: 2.50955,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

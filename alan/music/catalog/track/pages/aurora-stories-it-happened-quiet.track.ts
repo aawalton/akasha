@@ -5,10 +5,10 @@ export const auroraStoriesItHappenedQuiet = {
   type: "page-type/track",
   slug: "aurora-stories-it-happened-quiet",
   ownLength: 4.151783333333333,
-  ownProgress: 0,
+  ownProgress: 4.151783333333333,
   partOfCollections: ["release/aurora-stories"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

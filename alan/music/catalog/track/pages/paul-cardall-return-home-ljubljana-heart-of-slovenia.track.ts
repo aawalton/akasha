@@ -5,10 +5,10 @@ export const paulCardallReturnHomeLjubljanaHeartOfSlovenia = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-ljubljana-heart-of-slovenia",
   ownLength: 3.92395,
-  ownProgress: 0,
+  ownProgress: 3.92395,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

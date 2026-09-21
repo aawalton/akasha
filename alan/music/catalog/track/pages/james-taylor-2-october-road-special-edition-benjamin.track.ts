@@ -5,10 +5,10 @@ export const jamesTaylor2OctoberRoadSpecialEditionBenjamin = {
   type: "page-type/track",
   slug: "james-taylor-2-october-road-special-edition-benjamin",
   ownLength: 3.4777666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4777666666666667,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

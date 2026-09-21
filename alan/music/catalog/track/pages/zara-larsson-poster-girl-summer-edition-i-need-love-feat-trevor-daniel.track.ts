@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlSummerEditionINeedLoveFeatTrevorDaniel = {
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-summer-edition-i-need-love-feat-trevor-daniel",
   ownLength: 3.1068,
-  ownProgress: 0,
+  ownProgress: 3.1068,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   position: 20,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayMusicOfTheSpheresColoratura = {
   type: "page-type/track",
   slug: "coldplay-music-of-the-spheres-coloratura",
   ownLength: 10.284283333333333,
-  ownProgress: 0,
+  ownProgress: 10.284283333333333,
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

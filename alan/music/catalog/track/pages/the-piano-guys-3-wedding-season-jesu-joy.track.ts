@@ -5,10 +5,10 @@ export const thePianoGuys3WeddingSeasonJesuJoy = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wedding-season-jesu-joy",
   ownLength: 3.269216666666667,
-  ownProgress: 0,
+  ownProgress: 3.269216666666667,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

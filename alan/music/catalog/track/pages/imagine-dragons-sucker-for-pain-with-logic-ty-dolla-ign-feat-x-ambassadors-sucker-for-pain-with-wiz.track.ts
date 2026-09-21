@@ -5,12 +5,12 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadorsSucke
   type: "page-type/track",
   slug: "imagine-dragons-sucker-for-pain-with-logic-ty-dolla-ign-feat-x-ambassadors-sucker-for-pain-with-wiz",
   ownLength: 4.058166666666667,
-  ownProgress: 0,
+  ownProgress: 4.058166666666667,
   partOfCollections: [
     "release/imagine-dragons-sucker-for-pain-with-logic-ty-dolla-ign-feat-x-ambassadors",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

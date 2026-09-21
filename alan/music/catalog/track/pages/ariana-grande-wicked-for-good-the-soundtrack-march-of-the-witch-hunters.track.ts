@@ -5,10 +5,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackMarchOfTheWitchHunters = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-march-of-the-witch-hunters",
   ownLength: 2.603483333333333,
-  ownProgress: 0,
+  ownProgress: 2.603483333333333,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

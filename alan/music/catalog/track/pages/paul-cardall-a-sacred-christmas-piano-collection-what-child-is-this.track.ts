@@ -5,10 +5,10 @@ export const paulCardallASacredChristmasPianoCollectionWhatChildIsThis = {
   type: "page-type/track",
   slug: "paul-cardall-a-sacred-christmas-piano-collection-what-child-is-this",
   ownLength: 3.1225,
-  ownProgress: 0,
+  ownProgress: 3.1225,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

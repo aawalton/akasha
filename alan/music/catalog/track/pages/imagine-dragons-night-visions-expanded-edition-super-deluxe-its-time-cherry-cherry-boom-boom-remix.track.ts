@@ -6,10 +6,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeCherryCh
     type: "page-type/track",
     slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-its-time-cherry-cherry-boom-boom-remix",
     ownLength: 5.2611,
-    ownProgress: 0,
+    ownProgress: 5.2611,
     partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
     position: 8,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

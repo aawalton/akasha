@@ -5,10 +5,10 @@ export const imagineDragonsShotsEpShotsBroilerRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-shots-ep-shots-broiler-remix",
   ownLength: 3.1877666666666666,
-  ownProgress: 0,
+  ownProgress: 3.1877666666666666,
   partOfCollections: ["release/imagine-dragons-shots-ep"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysOverTheRainbowSimpleGifts = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-over-the-rainbow-simple-gifts",
   ownLength: 3.7365,
-  ownProgress: 0,
+  ownProgress: 3.7365,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

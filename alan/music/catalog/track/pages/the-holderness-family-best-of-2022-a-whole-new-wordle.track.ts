@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022AWholeNewWordle = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-a-whole-new-wordle",
   ownLength: 2.5968,
-  ownProgress: 0,
+  ownProgress: 2.5968,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

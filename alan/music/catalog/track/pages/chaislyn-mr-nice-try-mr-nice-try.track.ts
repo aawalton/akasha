@@ -5,10 +5,10 @@ export const chaislynMrNiceTryMrNiceTry = {
   type: "page-type/track",
   slug: "chaislyn-mr-nice-try-mr-nice-try",
   ownLength: 3.159466666666667,
-  ownProgress: 0,
+  ownProgress: 3.159466666666667,
   partOfCollections: ["release/chaislyn-mr-nice-try"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

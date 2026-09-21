@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionLoveOneAnotherSoloPianoVersion
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-love-one-another-solo-piano-version",
   ownLength: 4.033333333333333,
-  ownProgress: 0,
+  ownProgress: 4.033333333333333,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

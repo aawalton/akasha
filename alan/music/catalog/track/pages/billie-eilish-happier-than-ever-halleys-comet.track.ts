@@ -5,10 +5,10 @@ export const billieEilishHappierThanEverHalleysComet = {
   type: "page-type/track",
   slug: "billie-eilish-happier-than-ever-halleys-comet",
   ownLength: 3.9126833333333333,
-  ownProgress: 0,
+  ownProgress: 3.9126833333333333,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

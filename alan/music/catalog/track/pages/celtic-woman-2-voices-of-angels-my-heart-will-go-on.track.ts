@@ -5,10 +5,10 @@ export const celticWoman2VoicesOfAngelsMyHeartWillGoOn = {
   type: "page-type/track",
   slug: "celtic-woman-2-voices-of-angels-my-heart-will-go-on",
   ownLength: 4.350666666666666,
-  ownProgress: 0,
+  ownProgress: 4.350666666666666,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

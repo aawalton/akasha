@@ -5,10 +5,10 @@ export const paulCardallLivingForEdenAlongTheWasatch = {
   type: "page-type/track",
   slug: "paul-cardall-living-for-eden-along-the-wasatch",
   ownLength: 3.404,
-  ownProgress: 0,
+  ownProgress: 3.404,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

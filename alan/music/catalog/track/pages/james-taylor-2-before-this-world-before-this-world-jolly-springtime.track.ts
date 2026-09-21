@@ -5,10 +5,10 @@ export const jamesTaylor2BeforeThisWorldBeforeThisWorldJollySpringtime = {
   type: "page-type/track",
   slug: "james-taylor-2-before-this-world-before-this-world-jolly-springtime",
   ownLength: 5.576216666666666,
-  ownProgress: 0,
+  ownProgress: 5.576216666666666,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const zaraLarssonVenusSoundtrack = {
   type: "page-type/track",
   slug: "zara-larsson-venus-soundtrack",
   ownLength: 3.3849833333333335,
-  ownProgress: 0,
+  ownProgress: 3.3849833333333335,
   partOfCollections: ["release/zara-larsson-venus"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

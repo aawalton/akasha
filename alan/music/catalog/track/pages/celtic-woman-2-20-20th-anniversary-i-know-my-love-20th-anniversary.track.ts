@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversaryIKnowMyLove20thAnniversary = {
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-i-know-my-love-20th-anniversary",
   ownLength: 3.5006666666666666,
-  ownProgress: 0,
+  ownProgress: 3.5006666666666666,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

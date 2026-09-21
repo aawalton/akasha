@@ -5,10 +5,10 @@ export const thePianoGuys3RollingInTheDeepRollingInTheDeepVocalVersion = {
   type: "page-type/track",
   slug: "the-piano-guys-3-rolling-in-the-deep-rolling-in-the-deep-vocal-version",
   ownLength: 4.016216666666667,
-  ownProgress: 0,
+  ownProgress: 4.016216666666667,
   partOfCollections: ["release/the-piano-guys-3-rolling-in-the-deep"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

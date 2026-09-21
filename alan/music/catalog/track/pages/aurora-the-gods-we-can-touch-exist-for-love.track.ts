@@ -5,10 +5,10 @@ export const auroraTheGodsWeCanTouchExistForLove = {
   type: "page-type/track",
   slug: "aurora-the-gods-we-can-touch-exist-for-love",
   ownLength: 4.2119333333333335,
-  ownProgress: 0,
+  ownProgress: 4.2119333333333335,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

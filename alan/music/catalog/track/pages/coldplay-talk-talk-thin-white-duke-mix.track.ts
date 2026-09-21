@@ -5,10 +5,10 @@ export const coldplayTalkTalkThinWhiteDukeMix = {
   type: "page-type/track",
   slug: "coldplay-talk-talk-thin-white-duke-mix",
   ownLength: 9.014433333333333,
-  ownProgress: 0,
+  ownProgress: 9.014433333333333,
   partOfCollections: ["release/coldplay-talk"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

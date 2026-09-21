@@ -5,10 +5,10 @@ export const vinnyMarchiSoldierPoetKingSoldierPoetKing = {
   type: "page-type/track",
   slug: "vinny-marchi-soldier-poet-king-soldier-poet-king",
   ownLength: 2.8037666666666667,
-  ownProgress: 0,
+  ownProgress: 2.8037666666666667,
   partOfCollections: ["release/vinny-marchi-soldier-poet-king"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

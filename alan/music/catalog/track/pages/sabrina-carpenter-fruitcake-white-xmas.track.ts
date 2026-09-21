@@ -5,10 +5,10 @@ export const sabrinaCarpenterFruitcakeWhiteXmas = {
   type: "page-type/track",
   slug: "sabrina-carpenter-fruitcake-white-xmas",
   ownLength: 2.4364666666666666,
-  ownProgress: 0,
+  ownProgress: 2.4364666666666666,
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

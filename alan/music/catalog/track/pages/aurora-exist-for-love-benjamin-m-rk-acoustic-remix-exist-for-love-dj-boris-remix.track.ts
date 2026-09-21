@@ -5,10 +5,10 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveDjBorisRemix 
   type: "page-type/track",
   slug: "aurora-exist-for-love-benjamin-m-rk-acoustic-remix-exist-for-love-dj-boris-remix",
   ownLength: 3.9386666666666668,
-  ownProgress: 0,
+  ownProgress: 3.9386666666666668,
   partOfCollections: ["release/aurora-exist-for-love-benjamin-m-rk-acoustic-remix"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

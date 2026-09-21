@@ -5,10 +5,10 @@ export const vinnyMarchiLadyOfTheLyreLadyOfTheLyre = {
   type: "page-type/track",
   slug: "vinny-marchi-lady-of-the-lyre-lady-of-the-lyre",
   ownLength: 2.6,
-  ownProgress: 0,
+  ownProgress: 2.6,
   partOfCollections: ["release/vinny-marchi-lady-of-the-lyre"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

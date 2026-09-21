@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveYouMakeItEasy = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-you-make-it-easy",
   ownLength: 5.061766666666666,
-  ownProgress: 0,
+  ownProgress: 5.061766666666666,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

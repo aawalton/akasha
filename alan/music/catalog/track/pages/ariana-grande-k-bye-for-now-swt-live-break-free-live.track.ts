@@ -5,10 +5,10 @@ export const arianaGrandeKByeForNowSwtLiveBreakFreeLive = {
   type: "page-type/track",
   slug: "ariana-grande-k-bye-for-now-swt-live-break-free-live",
   ownLength: 2.5263833333333334,
-  ownProgress: 0,
+  ownProgress: 2.5263833333333334,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   position: 30,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

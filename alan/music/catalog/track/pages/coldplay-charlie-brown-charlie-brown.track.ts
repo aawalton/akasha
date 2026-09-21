@@ -5,10 +5,10 @@ export const coldplayCharlieBrownCharlieBrown = {
   type: "page-type/track",
   slug: "coldplay-charlie-brown-charlie-brown",
   ownLength: 4.75265,
-  ownProgress: 0,
+  ownProgress: 4.75265,
   partOfCollections: ["release/coldplay-charlie-brown"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

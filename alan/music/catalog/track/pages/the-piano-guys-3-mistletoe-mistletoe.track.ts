@@ -5,10 +5,10 @@ export const thePianoGuys3MistletoeMistletoe = {
   type: "page-type/track",
   slug: "the-piano-guys-3-mistletoe-mistletoe",
   ownLength: 4.78135,
-  ownProgress: 0,
+  ownProgress: 4.78135,
   partOfCollections: ["release/the-piano-guys-3-mistletoe"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

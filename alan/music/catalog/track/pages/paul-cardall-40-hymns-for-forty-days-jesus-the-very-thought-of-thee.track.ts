@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysJesusTheVeryThoughtOfThee = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-jesus-the-very-thought-of-thee",
   ownLength: 2.2142166666666667,
-  ownProgress: 0,
+  ownProgress: 2.2142166666666667,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 30,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

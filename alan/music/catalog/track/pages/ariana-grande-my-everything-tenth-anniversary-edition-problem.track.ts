@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionProblem = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-problem",
   ownLength: 3.233216666666667,
-  ownProgress: 0,
+  ownProgress: 3.233216666666667,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

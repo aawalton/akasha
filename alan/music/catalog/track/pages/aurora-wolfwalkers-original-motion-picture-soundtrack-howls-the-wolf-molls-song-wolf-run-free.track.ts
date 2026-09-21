@@ -5,10 +5,10 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackHowlsTheWolfMollsSo
   type: "page-type/track",
   slug: "aurora-wolfwalkers-original-motion-picture-soundtrack-howls-the-wolf-molls-song-wolf-run-free",
   ownLength: 1.95,
-  ownProgress: 0,
+  ownProgress: 1.95,
   partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

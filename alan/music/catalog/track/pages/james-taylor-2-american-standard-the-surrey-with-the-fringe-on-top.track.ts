@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardTheSurreyWithTheFringeOnTop = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-the-surrey-with-the-fringe-on-top",
   ownLength: 3.334,
-  ownProgress: 0,
+  ownProgress: 3.334,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

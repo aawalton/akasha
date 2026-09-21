@@ -5,10 +5,10 @@ export const thePianoGuys3WondersFathersEyes = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wonders-fathers-eyes",
   ownLength: 3.9531,
-  ownProgress: 0,
+  ownProgress: 3.9531,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

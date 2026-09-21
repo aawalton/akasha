@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022AnxietyAnthem = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-anxiety-anthem",
   ownLength: 2.4516,
-  ownProgress: 0,
+  ownProgress: 2.4516,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

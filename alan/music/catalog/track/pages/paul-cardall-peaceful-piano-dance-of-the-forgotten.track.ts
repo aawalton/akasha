@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoDanceOfTheForgotten = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-dance-of-the-forgotten",
   ownLength: 3.0797666666666665,
-  ownProgress: 0,
+  ownProgress: 3.0797666666666665,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

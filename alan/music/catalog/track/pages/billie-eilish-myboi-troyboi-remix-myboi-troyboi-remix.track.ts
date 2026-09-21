@@ -5,10 +5,10 @@ export const billieEilishMyboiTroyboiRemixMyboiTroyboiRemix = {
   type: "page-type/track",
   slug: "billie-eilish-myboi-troyboi-remix-myboi-troyboi-remix",
   ownLength: 3.521733333333333,
-  ownProgress: 0,
+  ownProgress: 3.521733333333333,
   partOfCollections: ["release/billie-eilish-myboi-troyboi-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

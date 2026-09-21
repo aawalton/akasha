@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuys2MoreThanWords = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-2-more-than-words",
   ownLength: 3.9375,
-  ownProgress: 0,
+  ownProgress: 3.9375,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

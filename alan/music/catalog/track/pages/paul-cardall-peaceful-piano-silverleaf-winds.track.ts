@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoSilverleafWinds = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-silverleaf-winds",
   ownLength: 2.8846666666666665,
-  ownProgress: 0,
+  ownProgress: 2.8846666666666665,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,12 +5,12 @@ export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInterne
   type: "page-type/track",
   slug: "imagine-dragons-zero-from-the-original-motion-picture-ralph-breaks-the-internet-zero-from-the",
   ownLength: 3.5155666666666665,
-  ownProgress: 0,
+  ownProgress: 3.5155666666666665,
   partOfCollections: [
     "release/imagine-dragons-zero-from-the-original-motion-picture-ralph-breaks-the-internet",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

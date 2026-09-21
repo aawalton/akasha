@@ -5,10 +5,10 @@ export const billieEilishHappierThanEverLostCause = {
   type: "page-type/track",
   slug: "billie-eilish-happier-than-ever-lost-cause",
   ownLength: 3.5416,
-  ownProgress: 0,
+  ownProgress: 3.5416,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

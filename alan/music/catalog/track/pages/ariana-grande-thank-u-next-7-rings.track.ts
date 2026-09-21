@@ -5,10 +5,10 @@ export const arianaGrandeThankUNext7Rings = {
   type: "page-type/track",
   slug: "ariana-grande-thank-u-next-7-rings",
   ownLength: 2.9771,
-  ownProgress: 0,
+  ownProgress: 2.9771,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

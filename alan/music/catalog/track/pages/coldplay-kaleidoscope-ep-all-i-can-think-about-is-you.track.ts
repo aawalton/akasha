@@ -5,10 +5,10 @@ export const coldplayKaleidoscopeEpAllICanThinkAboutIsYou = {
   type: "page-type/track",
   slug: "coldplay-kaleidoscope-ep-all-i-can-think-about-is-you",
   ownLength: 4.576433333333333,
-  ownProgress: 0,
+  ownProgress: 4.576433333333333,
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

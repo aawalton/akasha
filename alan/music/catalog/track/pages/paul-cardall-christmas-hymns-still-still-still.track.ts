@@ -5,10 +5,10 @@ export const paulCardallChristmasHymnsStillStillStill = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hymns-still-still-still",
   ownLength: 3.3828833333333335,
-  ownProgress: 0,
+  ownProgress: 3.3828833333333335,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

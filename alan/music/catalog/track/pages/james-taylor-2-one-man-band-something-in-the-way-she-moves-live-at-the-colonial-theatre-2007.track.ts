@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandSomethingInTheWaySheMovesLiveAtTheColonialThe
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-something-in-the-way-she-moves-live-at-the-colonial-theatre-2007",
   ownLength: 3.7962166666666666,
-  ownProgress: 0,
+  ownProgress: 3.7962166666666666,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

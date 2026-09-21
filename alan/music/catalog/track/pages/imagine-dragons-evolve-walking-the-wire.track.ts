@@ -5,10 +5,10 @@ export const imagineDragonsEvolveWalkingTheWire = {
   type: "page-type/track",
   slug: "imagine-dragons-evolve-walking-the-wire",
   ownLength: 3.8817666666666666,
-  ownProgress: 0,
+  ownProgress: 3.8817666666666666,
   partOfCollections: ["release/imagine-dragons-evolve"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

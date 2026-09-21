@@ -5,10 +5,10 @@ export const thePianoGuys3ThankGodIDoBeStillMySoulThankGodIDoBeStillMySoul = {
   type: "page-type/track",
   slug: "the-piano-guys-3-thank-god-i-do-be-still-my-soul-thank-god-i-do-be-still-my-soul",
   ownLength: 4.119666666666666,
-  ownProgress: 0,
+  ownProgress: 4.119666666666666,
   partOfCollections: ["release/the-piano-guys-3-thank-god-i-do-be-still-my-soul"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

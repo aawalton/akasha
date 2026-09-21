@@ -5,10 +5,10 @@ export const auroraSofiaSofia = {
   type: "page-type/track",
   slug: "aurora-sofia-sofia",
   ownLength: 7.288616666666667,
-  ownProgress: 0,
+  ownProgress: 7.288616666666667,
   partOfCollections: ["release/aurora-sofia"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

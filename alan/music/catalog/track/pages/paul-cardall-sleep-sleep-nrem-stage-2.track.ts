@@ -5,10 +5,10 @@ export const paulCardallSleepSleepNremStage2 = {
   type: "page-type/track",
   slug: "paul-cardall-sleep-sleep-nrem-stage-2",
   ownLength: 15.275,
-  ownProgress: 0,
+  ownProgress: 15.275,
   partOfCollections: ["release/paul-cardall-sleep"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

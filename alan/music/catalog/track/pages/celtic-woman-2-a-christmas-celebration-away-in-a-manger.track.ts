@@ -5,10 +5,10 @@ export const celticWoman2AChristmasCelebrationAwayInAManger = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-christmas-celebration-away-in-a-manger",
   ownLength: 2.5202166666666668,
-  ownProgress: 0,
+  ownProgress: 2.5202166666666668,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

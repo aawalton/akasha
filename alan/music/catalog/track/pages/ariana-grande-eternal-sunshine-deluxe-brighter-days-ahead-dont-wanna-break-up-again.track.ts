@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadDontWannaBreakUpA
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-dont-wanna-break-up-again",
   ownLength: 2.9001,
-  ownProgress: 0,
+  ownProgress: 2.9001,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBetterLeftUnsaid = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-better-left-unsaid",
   ownLength: 3.5473,
-  ownProgress: 0,
+  ownProgress: 3.5473,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

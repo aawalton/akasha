@@ -5,10 +5,10 @@ export const celticWoman2VoicesOfAngelsTeirAbhaileRiu2016Version = {
   type: "page-type/track",
   slug: "celtic-woman-2-voices-of-angels-teir-abhaile-riu-2016-version",
   ownLength: 3.8911,
-  ownProgress: 0,
+  ownProgress: 3.8911,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

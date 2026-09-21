@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsIsraelIsraelGodIsCalling = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-israel-israel-god-is-calling",
   ownLength: 3.1486666666666667,
-  ownProgress: 0,
+  ownProgress: 3.1486666666666667,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

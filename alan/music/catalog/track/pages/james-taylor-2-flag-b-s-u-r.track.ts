@@ -5,10 +5,10 @@ export const jamesTaylor2FlagBSUR = {
   type: "page-type/track",
   slug: "james-taylor-2-flag-b-s-u-r",
   ownLength: 3.354,
-  ownProgress: 0,
+  ownProgress: 3.354,
   partOfCollections: ["release/james-taylor-2-flag"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

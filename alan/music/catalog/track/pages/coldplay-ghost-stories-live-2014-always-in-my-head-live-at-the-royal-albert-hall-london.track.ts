@@ -5,10 +5,10 @@ export const coldplayGhostStoriesLive2014AlwaysInMyHeadLiveAtTheRoyalAlbertHallL
   type: "page-type/track",
   slug: "coldplay-ghost-stories-live-2014-always-in-my-head-live-at-the-royal-albert-hall-london",
   ownLength: 3.9544333333333332,
-  ownProgress: 0,
+  ownProgress: 3.9544333333333332,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

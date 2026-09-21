@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyBeyondTheSea = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-beyond-the-sea",
   ownLength: 3.328883333333333,
-  ownProgress: 0,
+  ownProgress: 3.328883333333333,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

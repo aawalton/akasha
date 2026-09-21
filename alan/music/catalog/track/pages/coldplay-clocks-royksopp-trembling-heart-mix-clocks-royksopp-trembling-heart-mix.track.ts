@@ -5,10 +5,10 @@ export const coldplayClocksRoyksoppTremblingHeartMixClocksRoyksoppTremblingHeart
   type: "page-type/track",
   slug: "coldplay-clocks-royksopp-trembling-heart-mix-clocks-royksopp-trembling-heart-mix",
   ownLength: 5.742216666666667,
-  ownProgress: 0,
+  ownProgress: 5.742216666666667,
   partOfCollections: ["release/coldplay-clocks-royksopp-trembling-heart-mix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

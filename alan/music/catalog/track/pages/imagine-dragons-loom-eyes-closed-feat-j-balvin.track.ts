@@ -5,10 +5,10 @@ export const imagineDragonsLoomEyesClosedFeatJBalvin = {
   type: "page-type/track",
   slug: "imagine-dragons-loom-eyes-closed-feat-j-balvin",
   ownLength: 3.33355,
-  ownProgress: 0,
+  ownProgress: 3.33355,
   partOfCollections: ["release/imagine-dragons-loom"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

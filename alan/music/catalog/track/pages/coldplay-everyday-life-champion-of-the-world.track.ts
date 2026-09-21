@@ -5,10 +5,10 @@ export const coldplayEverydayLifeChampionOfTheWorld = {
   type: "page-type/track",
   slug: "coldplay-everyday-life-champion-of-the-world",
   ownLength: 4.292433333333333,
-  ownProgress: 0,
+  ownProgress: 4.292433333333333,
   partOfCollections: ["release/coldplay-everyday-life"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

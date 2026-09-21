@@ -5,10 +5,10 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeNightcoreRemix = {
   type: "page-type/track",
   slug: "zara-larsson-end-of-time-the-remixes-end-of-time-nightcore-remix",
   ownLength: 3.2632166666666667,
-  ownProgress: 0,
+  ownProgress: 3.2632166666666667,
   partOfCollections: ["release/zara-larsson-end-of-time-the-remixes"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

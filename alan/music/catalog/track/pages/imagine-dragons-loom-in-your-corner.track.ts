@@ -5,10 +5,10 @@ export const imagineDragonsLoomInYourCorner = {
   type: "page-type/track",
   slug: "imagine-dragons-loom-in-your-corner",
   ownLength: 3.9982166666666665,
-  ownProgress: 0,
+  ownProgress: 3.9982166666666665,
   partOfCollections: ["release/imagine-dragons-loom"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

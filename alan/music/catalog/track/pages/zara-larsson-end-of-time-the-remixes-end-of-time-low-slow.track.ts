@@ -5,10 +5,10 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeLowSlow = {
   type: "page-type/track",
   slug: "zara-larsson-end-of-time-the-remixes-end-of-time-low-slow",
   ownLength: 3.933333333333333,
-  ownProgress: 0,
+  ownProgress: 3.933333333333333,
   partOfCollections: ["release/zara-larsson-end-of-time-the-remixes"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

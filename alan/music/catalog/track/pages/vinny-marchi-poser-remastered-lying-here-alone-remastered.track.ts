@@ -5,10 +5,10 @@ export const vinnyMarchiPoserRemasteredLyingHereAloneRemastered = {
   type: "page-type/track",
   slug: "vinny-marchi-poser-remastered-lying-here-alone-remastered",
   ownLength: 2.67385,
-  ownProgress: 0,
+  ownProgress: 2.67385,
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

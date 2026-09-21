@@ -5,10 +5,10 @@ export const paulCardallASacredChristmasPianoCollectionGoodKingWenceslas = {
   type: "page-type/track",
   slug: "paul-cardall-a-sacred-christmas-piano-collection-good-king-wenceslas",
   ownLength: 4.574033333333333,
-  ownProgress: 0,
+  ownProgress: 4.574033333333333,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

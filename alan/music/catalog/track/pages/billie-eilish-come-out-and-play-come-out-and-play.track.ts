@@ -5,10 +5,10 @@ export const billieEilishComeOutAndPlayComeOutAndPlay = {
   type: "page-type/track",
   slug: "billie-eilish-come-out-and-play-come-out-and-play",
   ownLength: 3.50625,
-  ownProgress: 0,
+  ownProgress: 3.50625,
   partOfCollections: ["release/billie-eilish-come-out-and-play"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

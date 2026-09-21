@@ -5,10 +5,10 @@ export const coldplayParachutesEverythingsNotLostIncludesHiddenTrackLifeIsForLiv
   type: "page-type/track",
   slug: "coldplay-parachutes-everythings-not-lost-includes-hidden-track-life-is-for-living",
   ownLength: 7.274,
-  ownProgress: 0,
+  ownProgress: 7.274,
   partOfCollections: ["release/coldplay-parachutes"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

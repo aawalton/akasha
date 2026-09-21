@@ -5,12 +5,12 @@ export const imagineDragonsLevitateFromTheOriginalMotionPicturePassengersLevitat
   type: "page-type/track",
   slug: "imagine-dragons-levitate-from-the-original-motion-picture-passengers-levitate-from-the-original",
   ownLength: 3.3028833333333334,
-  ownProgress: 0,
+  ownProgress: 3.3028833333333334,
   partOfCollections: [
     "release/imagine-dragons-levitate-from-the-original-motion-picture-passengers",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

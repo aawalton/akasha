@@ -5,10 +5,10 @@ export const thePianoGuys3PopOnPianoGoldenHour = {
   type: "page-type/track",
   slug: "the-piano-guys-3-pop-on-piano-golden-hour",
   ownLength: 2.64285,
-  ownProgress: 0,
+  ownProgress: 2.64285,
   partOfCollections: ["release/the-piano-guys-3-pop-on-piano"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

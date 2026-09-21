@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysGreatIsThyFaithfullness = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-great-is-thy-faithfullness",
   ownLength: 3.1962166666666665,
-  ownProgress: 0,
+  ownProgress: 3.1962166666666665,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2DestinySkyrimThemeDragonborn = {
   type: "page-type/track",
   slug: "celtic-woman-2-destiny-skyrim-theme-dragonborn",
   ownLength: 3.19565,
-  ownProgress: 0,
+  ownProgress: 3.19565,
   partOfCollections: ["release/celtic-woman-2-destiny"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

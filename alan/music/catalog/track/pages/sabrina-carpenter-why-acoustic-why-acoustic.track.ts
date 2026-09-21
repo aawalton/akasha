@@ -5,10 +5,10 @@ export const sabrinaCarpenterWhyAcousticWhyAcoustic = {
   type: "page-type/track",
   slug: "sabrina-carpenter-why-acoustic-why-acoustic",
   ownLength: 3.075,
-  ownProgress: 0,
+  ownProgress: 3.075,
   partOfCollections: ["release/sabrina-carpenter-why-acoustic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

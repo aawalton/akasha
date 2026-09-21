@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsEpCurse = {
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-ep-curse",
   ownLength: 3.76555,
-  ownProgress: 0,
+  ownProgress: 3.76555,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

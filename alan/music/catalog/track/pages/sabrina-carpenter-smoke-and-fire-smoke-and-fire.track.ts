@@ -5,10 +5,10 @@ export const sabrinaCarpenterSmokeAndFireSmokeAndFire = {
   type: "page-type/track",
   slug: "sabrina-carpenter-smoke-and-fire-smoke-and-fire",
   ownLength: 3.750166666666667,
-  ownProgress: 0,
+  ownProgress: 3.750166666666667,
   partOfCollections: ["release/sabrina-carpenter-smoke-and-fire"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

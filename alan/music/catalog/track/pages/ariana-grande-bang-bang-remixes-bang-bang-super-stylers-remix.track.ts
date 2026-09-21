@@ -5,10 +5,10 @@ export const arianaGrandeBangBangRemixesBangBangSuperStylersRemix = {
   type: "page-type/track",
   slug: "ariana-grande-bang-bang-remixes-bang-bang-super-stylers-remix",
   ownLength: 3.5646666666666667,
-  ownProgress: 0,
+  ownProgress: 3.5646666666666667,
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

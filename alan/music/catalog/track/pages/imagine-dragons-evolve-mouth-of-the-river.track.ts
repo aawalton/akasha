@@ -5,10 +5,10 @@ export const imagineDragonsEvolveMouthOfTheRiver = {
   type: "page-type/track",
   slug: "imagine-dragons-evolve-mouth-of-the-river",
   ownLength: 3.6926666666666668,
-  ownProgress: 0,
+  ownProgress: 3.6926666666666668,
   partOfCollections: ["release/imagine-dragons-evolve"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

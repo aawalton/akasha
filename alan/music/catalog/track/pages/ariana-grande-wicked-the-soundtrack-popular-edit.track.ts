@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackPopularEdit = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-popular-edit",
   ownLength: 2.8985833333333333,
-  ownProgress: 0,
+  ownProgress: 2.8985833333333333,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const zaraLarssonOnMyLoveOnMyLove = {
   type: "page-type/track",
   slug: "zara-larsson-on-my-love-on-my-love",
   ownLength: 3.7151833333333335,
-  ownProgress: 0,
+  ownProgress: 3.7151833333333335,
   partOfCollections: ["release/zara-larsson-on-my-love"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

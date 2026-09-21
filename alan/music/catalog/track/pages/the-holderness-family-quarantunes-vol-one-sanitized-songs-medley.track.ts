@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOneSanitizedSongsMedley = {
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-sanitized-songs-medley",
   ownLength: 3.1325166666666666,
-  ownProgress: 0,
+  ownProgress: 3.1325166666666666,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

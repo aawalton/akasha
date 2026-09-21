@@ -5,10 +5,10 @@ export const celticWoman2CelticWomanTheButterfly = {
   type: "page-type/track",
   slug: "celtic-woman-2-celtic-woman-the-butterfly",
   ownLength: 3.0037666666666665,
-  ownProgress: 0,
+  ownProgress: 3.0037666666666665,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

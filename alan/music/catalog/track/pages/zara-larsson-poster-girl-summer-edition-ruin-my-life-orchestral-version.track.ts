@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlSummerEditionRuinMyLifeOrchestralVersion = {
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-summer-edition-ruin-my-life-orchestral-version",
   ownLength: 4.72125,
-  ownProgress: 0,
+  ownProgress: 4.72125,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

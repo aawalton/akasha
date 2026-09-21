@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandShowerThePeopleLiveAtTheColonialTheatre2007 =
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-shower-the-people-live-at-the-colonial-theatre-2007",
   ownLength: 4.93955,
-  ownProgress: 0,
+  ownProgress: 4.93955,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

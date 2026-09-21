@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActISueMe = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-i-sue-me",
   ownLength: 2.9871,
-  ownProgress: 0,
+  ownProgress: 2.9871,
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

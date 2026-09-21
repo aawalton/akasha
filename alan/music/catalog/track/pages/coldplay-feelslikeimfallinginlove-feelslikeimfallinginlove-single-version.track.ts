@@ -5,10 +5,10 @@ export const coldplayFeelslikeimfallinginloveFeelslikeimfallinginloveSingleVersi
   type: "page-type/track",
   slug: "coldplay-feelslikeimfallinginlove-feelslikeimfallinginlove-single-version",
   ownLength: 3.9633833333333333,
-  ownProgress: 0,
+  ownProgress: 3.9633833333333333,
   partOfCollections: ["release/coldplay-feelslikeimfallinginlove"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

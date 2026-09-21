@@ -5,10 +5,10 @@ export const thePianoGuys310BlessTheBrokenRoad = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-bless-the-broken-road",
   ownLength: 3.924166666666667,
-  ownProgress: 0,
+  ownProgress: 3.924166666666667,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

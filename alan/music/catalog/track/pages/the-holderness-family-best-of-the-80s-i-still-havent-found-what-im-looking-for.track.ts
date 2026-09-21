@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sIStillHaventFoundWhatImLookingFor = 
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-i-still-havent-found-what-im-looking-for",
   ownLength: 2.8194666666666666,
-  ownProgress: 0,
+  ownProgress: 2.8194666666666666,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

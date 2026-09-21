@@ -5,10 +5,10 @@ export const celticWoman2LullabyWhenYouWishUponAStar = {
   type: "page-type/track",
   slug: "celtic-woman-2-lullaby-when-you-wish-upon-a-star",
   ownLength: 3.2851,
-  ownProgress: 0,
+  ownProgress: 3.2851,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

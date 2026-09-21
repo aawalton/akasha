@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoWhenSheSmiles = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-when-she-smiles",
   ownLength: 4.0271,
-  ownProgress: 0,
+  ownProgress: 4.0271,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

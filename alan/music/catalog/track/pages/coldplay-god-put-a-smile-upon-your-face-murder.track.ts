@@ -5,10 +5,10 @@ export const coldplayGodPutASmileUponYourFaceMurder = {
   type: "page-type/track",
   slug: "coldplay-god-put-a-smile-upon-your-face-murder",
   ownLength: 5.581316666666667,
-  ownProgress: 0,
+  ownProgress: 5.581316666666667,
   partOfCollections: ["release/coldplay-god-put-a-smile-upon-your-face"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

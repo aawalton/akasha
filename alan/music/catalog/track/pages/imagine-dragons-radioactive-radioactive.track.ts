@@ -5,10 +5,10 @@ export const imagineDragonsRadioactiveRadioactive = {
   type: "page-type/track",
   slug: "imagine-dragons-radioactive-radioactive",
   ownLength: 4.600666666666666,
-  ownProgress: 0,
+  ownProgress: 4.600666666666666,
   partOfCollections: ["release/imagine-dragons-radioactive"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

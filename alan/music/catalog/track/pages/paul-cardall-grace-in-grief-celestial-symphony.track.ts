@@ -5,10 +5,10 @@ export const paulCardallGraceInGriefCelestialSymphony = {
   type: "page-type/track",
   slug: "paul-cardall-grace-in-grief-celestial-symphony",
   ownLength: 5.214583333333334,
-  ownProgress: 0,
+  ownProgress: 5.214583333333334,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

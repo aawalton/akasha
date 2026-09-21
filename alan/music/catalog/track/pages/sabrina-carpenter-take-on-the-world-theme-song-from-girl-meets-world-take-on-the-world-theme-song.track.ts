@@ -5,12 +5,12 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorldTakeOnTheW
   type: "page-type/track",
   slug: "sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world-take-on-the-world-theme-song",
   ownLength: 3.2106666666666666,
-  ownProgress: 0,
+  ownProgress: 3.2106666666666666,
   partOfCollections: [
     "release/sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

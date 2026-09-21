@@ -5,10 +5,10 @@ export const paulCardallSavingTinyHeartsSaintsTravelers = {
   type: "page-type/track",
   slug: "paul-cardall-saving-tiny-hearts-saints-travelers",
   ownLength: 1.5631,
-  ownProgress: 0,
+  ownProgress: 1.5631,
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayParachutesDontPanic = {
   type: "page-type/track",
   slug: "coldplay-parachutes-dont-panic",
   ownLength: 2.2811,
-  ownProgress: 0,
+  ownProgress: 2.2811,
   partOfCollections: ["release/coldplay-parachutes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

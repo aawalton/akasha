@@ -5,10 +5,10 @@ export const coldplayLive2012VivaLaVidaLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-viva-la-vida-live",
   ownLength: 4.972216666666666,
-  ownProgress: 0,
+  ownProgress: 4.972216666666666,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

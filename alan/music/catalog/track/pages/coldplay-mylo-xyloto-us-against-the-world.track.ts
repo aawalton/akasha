@@ -5,10 +5,10 @@ export const coldplayMyloXylotoUsAgainstTheWorld = {
   type: "page-type/track",
   slug: "coldplay-mylo-xyloto-us-against-the-world",
   ownLength: 3.9961166666666665,
-  ownProgress: 0,
+  ownProgress: 3.9961166666666665,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

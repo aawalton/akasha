@@ -5,10 +5,10 @@ export const paulCardallElizaSThemeElizasTheme = {
   type: "page-type/track",
   slug: "paul-cardall-eliza-s-theme-elizas-theme",
   ownLength: 3.646933333333333,
-  ownProgress: 0,
+  ownProgress: 3.646933333333333,
   partOfCollections: ["release/paul-cardall-eliza-s-theme"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

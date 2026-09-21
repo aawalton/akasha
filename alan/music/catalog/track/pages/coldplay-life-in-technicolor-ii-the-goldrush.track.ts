@@ -5,10 +5,10 @@ export const coldplayLifeInTechnicolorIiTheGoldrush = {
   type: "page-type/track",
   slug: "coldplay-life-in-technicolor-ii-the-goldrush",
   ownLength: 2.48755,
-  ownProgress: 0,
+  ownProgress: 2.48755,
   partOfCollections: ["release/coldplay-life-in-technicolor-ii"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

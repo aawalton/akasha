@@ -5,10 +5,10 @@ export const arianaGrandePositionsSafetyNetFeatTyDollaIgn = {
   type: "page-type/track",
   slug: "ariana-grande-positions-safety-net-feat-ty-dolla-ign",
   ownLength: 3.474283333333333,
-  ownProgress: 0,
+  ownProgress: 3.474283333333333,
   partOfCollections: ["release/ariana-grande-positions"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemixRainOnMePurpleDiscoMachi
   type: "page-type/track",
   slug: "ariana-grande-rain-on-me-purple-disco-machine-remix-rain-on-me-purple-disco-machine-remix",
   ownLength: 6.5697833333333335,
-  ownProgress: 0,
+  ownProgress: 6.5697833333333335,
   partOfCollections: ["release/ariana-grande-rain-on-me-purple-disco-machine-remix"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

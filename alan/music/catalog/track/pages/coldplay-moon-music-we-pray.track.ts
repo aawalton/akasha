@@ -5,10 +5,10 @@ export const coldplayMoonMusicWePray = {
   type: "page-type/track",
   slug: "coldplay-moon-music-we-pray",
   ownLength: 3.8901,
-  ownProgress: 0,
+  ownProgress: 3.8901,
   partOfCollections: ["release/coldplay-moon-music"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

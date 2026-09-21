@@ -5,10 +5,10 @@ export const billieEilishDontSmileAtMeMyBoy = {
   type: "page-type/track",
   slug: "billie-eilish-dont-smile-at-me-my-boy",
   ownLength: 2.8475333333333332,
-  ownProgress: 0,
+  ownProgress: 2.8475333333333332,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraAPotionForLoveAPotionForLove = {
   type: "page-type/track",
   slug: "aurora-a-potion-for-love-a-potion-for-love",
   ownLength: 3.6071,
-  ownProgress: 0,
+  ownProgress: 3.6071,
   partOfCollections: ["release/aurora-a-potion-for-love"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

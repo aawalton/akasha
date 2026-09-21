@@ -5,10 +5,10 @@ export const jamesTaylor2OctoberRoadSpecialEditionCarryMeOnMyWay = {
   type: "page-type/track",
   slug: "james-taylor-2-october-road-special-edition-carry-me-on-my-way",
   ownLength: 4.49555,
-  ownProgress: 0,
+  ownProgress: 4.49555,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

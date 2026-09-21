@@ -5,10 +5,10 @@ export const paulCardallTheLookingGlassFaithInSpring = {
   type: "page-type/track",
   slug: "paul-cardall-the-looking-glass-faith-in-spring",
   ownLength: 2.3848833333333332,
-  ownProgress: 0,
+  ownProgress: 2.3848833333333332,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

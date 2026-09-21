@@ -5,10 +5,10 @@ export const auroraTheGodsWeCanTouchHeathens = {
   type: "page-type/track",
   slug: "aurora-the-gods-we-can-touch-heathens",
   ownLength: 3.75155,
-  ownProgress: 0,
+  ownProgress: 3.75155,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

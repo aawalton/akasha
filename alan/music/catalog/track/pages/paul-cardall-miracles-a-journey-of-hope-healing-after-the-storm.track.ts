@@ -5,10 +5,10 @@ export const paulCardallMiraclesAJourneyOfHopeHealingAfterTheStorm = {
   type: "page-type/track",
   slug: "paul-cardall-miracles-a-journey-of-hope-healing-after-the-storm",
   ownLength: 2.9062166666666664,
-  ownProgress: 0,
+  ownProgress: 2.9062166666666664,
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

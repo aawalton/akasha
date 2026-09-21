@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDearOldShizCommentary = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-dear-old-shiz-commentary",
   ownLength: 0.6883833333333333,
-  ownProgress: 0,
+  ownProgress: 0.6883833333333333,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

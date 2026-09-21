@@ -5,10 +5,10 @@ export const arianaGrandeSweetenerGoodnightNGo = {
   type: "page-type/track",
   slug: "ariana-grande-sweetener-goodnight-n-go",
   ownLength: 3.1584333333333334,
-  ownProgress: 0,
+  ownProgress: 3.1584333333333334,
   partOfCollections: ["release/ariana-grande-sweetener"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

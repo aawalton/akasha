@@ -5,10 +5,10 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineWithBrandyMonicaRemixACappella 
   type: "page-type/track",
   slug: "ariana-grande-the-boy-is-mine-the-boy-is-mine-with-brandy-monica-remix-a-cappella",
   ownLength: 3.5346,
-  ownProgress: 0,
+  ownProgress: 3.5346,
   partOfCollections: ["release/ariana-grande-the-boy-is-mine"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

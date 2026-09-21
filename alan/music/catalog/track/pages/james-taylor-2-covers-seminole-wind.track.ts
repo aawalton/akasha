@@ -5,10 +5,10 @@ export const jamesTaylor2CoversSeminoleWind = {
   type: "page-type/track",
   slug: "james-taylor-2-covers-seminole-wind",
   ownLength: 4.834433333333333,
-  ownProgress: 0,
+  ownProgress: 4.834433333333333,
   partOfCollections: ["release/james-taylor-2-covers"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

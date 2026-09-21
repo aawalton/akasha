@@ -5,10 +5,10 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreReleaseLive =
   type: "page-type/track",
   slug: "imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre-release-live",
   ownLength: 3.14955,
-  ownProgress: 0,
+  ownProgress: 3.14955,
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

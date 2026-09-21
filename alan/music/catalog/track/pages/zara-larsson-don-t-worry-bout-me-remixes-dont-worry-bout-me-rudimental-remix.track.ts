@@ -5,10 +5,10 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeRudimentalRemix = {
   type: "page-type/track",
   slug: "zara-larsson-don-t-worry-bout-me-remixes-dont-worry-bout-me-rudimental-remix",
   ownLength: 3.21895,
-  ownProgress: 0,
+  ownProgress: 3.21895,
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

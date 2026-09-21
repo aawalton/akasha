@@ -5,10 +5,10 @@ export const auroraToBeLovedHalfEmptyButHappy = {
   type: "page-type/track",
   slug: "aurora-to-be-loved-half-empty-but-happy",
   ownLength: 4.060033333333333,
-  ownProgress: 0,
+  ownProgress: 4.060033333333333,
   partOfCollections: ["release/aurora-to-be-loved"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

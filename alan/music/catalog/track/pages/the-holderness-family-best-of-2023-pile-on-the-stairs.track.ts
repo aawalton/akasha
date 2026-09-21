@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023PileOnTheStairs = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-pile-on-the-stairs",
   ownLength: 2.8808,
-  ownProgress: 0,
+  ownProgress: 2.8808,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

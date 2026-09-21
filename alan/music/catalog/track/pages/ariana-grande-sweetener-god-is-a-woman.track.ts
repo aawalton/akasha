@@ -5,10 +5,10 @@ export const arianaGrandeSweetenerGodIsAWoman = {
   type: "page-type/track",
   slug: "ariana-grande-sweetener-god-is-a-woman",
   ownLength: 3.2924333333333333,
-  ownProgress: 0,
+  ownProgress: 3.2924333333333333,
   partOfCollections: ["release/ariana-grande-sweetener"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysComeFollowMe = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-come-follow-me",
   ownLength: 3.2124333333333333,
-  ownProgress: 0,
+  ownProgress: 3.2124333333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

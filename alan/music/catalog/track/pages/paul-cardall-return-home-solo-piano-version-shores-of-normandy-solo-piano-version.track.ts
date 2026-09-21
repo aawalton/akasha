@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionShoresOfNormandySoloPianoVersi
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-shores-of-normandy-solo-piano-version",
   ownLength: 4.122166666666667,
-  ownProgress: 0,
+  ownProgress: 4.122166666666667,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sPollenInTheAir = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-pollen-in-the-air",
   ownLength: 1.9835333333333334,
-  ownProgress: 0,
+  ownProgress: 1.9835333333333334,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallHymnsDayOfRest = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-day-of-rest",
   ownLength: 2.624433333333333,
-  ownProgress: 0,
+  ownProgress: 2.624433333333333,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

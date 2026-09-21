@@ -5,10 +5,10 @@ export const paulCardallChristmasHymnsWhatChildIsThis = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hymns-what-child-is-this",
   ownLength: 4.77555,
-  ownProgress: 0,
+  ownProgress: 4.77555,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

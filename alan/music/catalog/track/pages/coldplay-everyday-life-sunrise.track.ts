@@ -5,10 +5,10 @@ export const coldplayEverydayLifeSunrise = {
   type: "page-type/track",
   slug: "coldplay-everyday-life-sunrise",
   ownLength: 2.5182166666666665,
-  ownProgress: 0,
+  ownProgress: 2.5182166666666665,
   partOfCollections: ["release/coldplay-everyday-life"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

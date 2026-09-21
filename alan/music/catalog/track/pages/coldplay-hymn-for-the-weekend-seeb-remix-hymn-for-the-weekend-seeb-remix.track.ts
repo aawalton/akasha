@@ -5,10 +5,10 @@ export const coldplayHymnForTheWeekendSeebRemixHymnForTheWeekendSeebRemix = {
   type: "page-type/track",
   slug: "coldplay-hymn-for-the-weekend-seeb-remix-hymn-for-the-weekend-seeb-remix",
   ownLength: 3.5441166666666666,
-  ownProgress: 0,
+  ownProgress: 3.5441166666666666,
   partOfCollections: ["release/coldplay-hymn-for-the-weekend-seeb-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

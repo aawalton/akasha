@@ -5,10 +5,10 @@ export const thePianoGuys3LullabyRowRowRowYourBoat = {
   type: "page-type/track",
   slug: "the-piano-guys-3-lullaby-row-row-row-your-boat",
   ownLength: 1.6733333333333333,
-  ownProgress: 0,
+  ownProgress: 1.6733333333333333,
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

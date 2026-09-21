@@ -5,10 +5,10 @@ export const emei9LivesRabbithole = {
   type: "page-type/track",
   slug: "emei-9-lives-rabbithole",
   ownLength: 2.3573833333333334,
-  ownProgress: 0,
+  ownProgress: 2.3573833333333334,
   partOfCollections: ["release/emei-9-lives"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

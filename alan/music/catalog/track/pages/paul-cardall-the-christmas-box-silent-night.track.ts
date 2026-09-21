@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxSilentNight = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-silent-night",
   ownLength: 5.466666666666667,
-  ownProgress: 0,
+  ownProgress: 5.466666666666667,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

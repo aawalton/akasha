@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionJustALittleBitOfYour
   type: "page-type/track",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-just-a-little-bit-of-your-heart",
   ownLength: 3.8780166666666664,
-  ownProgress: 0,
+  ownProgress: 3.8780166666666664,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

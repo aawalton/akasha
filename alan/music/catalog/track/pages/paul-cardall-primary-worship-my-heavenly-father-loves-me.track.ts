@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipMyHeavenlyFatherLovesMe = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-my-heavenly-father-loves-me",
   ownLength: 5.0357666666666665,
-  ownProgress: 0,
+  ownProgress: 5.0357666666666665,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsItSTimeEpLookHowFarWeveCome = {
   type: "page-type/track",
   slug: "imagine-dragons-it-s-time-ep-look-how-far-weve-come",
   ownLength: 4.132883333333333,
-  ownProgress: 0,
+  ownProgress: 4.132883333333333,
   partOfCollections: ["release/imagine-dragons-it-s-time-ep"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

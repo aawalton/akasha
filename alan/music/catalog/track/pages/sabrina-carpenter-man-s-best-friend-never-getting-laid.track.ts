@@ -5,10 +5,10 @@ export const sabrinaCarpenterManSBestFriendNeverGettingLaid = {
   type: "page-type/track",
   slug: "sabrina-carpenter-man-s-best-friend-never-getting-laid",
   ownLength: 3.4701833333333334,
-  ownProgress: 0,
+  ownProgress: 3.4701833333333334,
   partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

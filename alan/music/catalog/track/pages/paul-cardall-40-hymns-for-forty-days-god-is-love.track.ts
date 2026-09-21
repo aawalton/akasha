@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysGodIsLove = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-god-is-love",
   ownLength: 2.9122166666666667,
-  ownProgress: 0,
+  ownProgress: 2.9122166666666667,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysLordWeAskTheeEreWePart = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-lord-we-ask-thee-ere-we-part",
   ownLength: 2.6751,
-  ownProgress: 0,
+  ownProgress: 2.6751,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 19,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

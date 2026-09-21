@@ -5,10 +5,10 @@ export const arianaGrandePositionsMotiveWithDojaCat = {
   type: "page-type/track",
   slug: "ariana-grande-positions-motive-with-doja-cat",
   ownLength: 2.7998166666666666,
-  ownProgress: 0,
+  ownProgress: 2.7998166666666666,
   partOfCollections: ["release/ariana-grande-positions"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

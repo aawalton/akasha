@@ -5,10 +5,10 @@ export const paulCardallTheLookingGlassStrangers = {
   type: "page-type/track",
   slug: "paul-cardall-the-looking-glass-strangers",
   ownLength: 3.838433333333333,
-  ownProgress: 0,
+  ownProgress: 3.838433333333333,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

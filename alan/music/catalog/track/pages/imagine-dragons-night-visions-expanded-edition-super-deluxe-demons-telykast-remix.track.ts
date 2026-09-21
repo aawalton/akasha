@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsTelykastR
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-demons-telykast-remix",
   ownLength: 2.9354666666666667,
-  ownProgress: 0,
+  ownProgress: 2.9354666666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const vinnyMarchiTheBastardInTheKitchenTheBastardInTheKitchen = {
   type: "page-type/track",
   slug: "vinny-marchi-the-bastard-in-the-kitchen-the-bastard-in-the-kitchen",
   ownLength: 1.8903833333333333,
-  ownProgress: 0,
+  ownProgress: 1.8903833333333333,
   partOfCollections: ["release/vinny-marchi-the-bastard-in-the-kitchen"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallASacredChristmasPianoCollectionOurLittleAngel = {
   type: "page-type/track",
   slug: "paul-cardall-a-sacred-christmas-piano-collection-our-little-angel",
   ownLength: 2.9823,
-  ownProgress: 0,
+  ownProgress: 2.9823,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

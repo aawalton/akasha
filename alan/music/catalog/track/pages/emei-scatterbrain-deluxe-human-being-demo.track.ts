@@ -5,10 +5,10 @@ export const emeiScatterbrainDeluxeHumanBeingDemo = {
   type: "page-type/track",
   slug: "emei-scatterbrain-deluxe-human-being-demo",
   ownLength: 1.9983333333333333,
-  ownProgress: 0,
+  ownProgress: 1.9983333333333333,
   partOfCollections: ["release/emei-scatterbrain-deluxe"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

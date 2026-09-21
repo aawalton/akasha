@@ -5,10 +5,10 @@ export const celticWoman2HomeForChristmasIllBeHomeForChristmas = {
   type: "page-type/track",
   slug: "celtic-woman-2-home-for-christmas-ill-be-home-for-christmas",
   ownLength: 4.210883333333333,
-  ownProgress: 0,
+  ownProgress: 4.210883333333333,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

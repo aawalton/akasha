@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourCarolinaInMyMindLiveAtTheTroubadour2
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-carolina-in-my-mind-live-at-the-troubadour-2007",
   ownLength: 4.274883333333333,
-  ownProgress: 0,
+  ownProgress: 4.274883333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

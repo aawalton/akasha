@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasChristmasMorning = {
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-christmas-morning",
   ownLength: 3.9892,
-  ownProgress: 0,
+  ownProgress: 3.9892,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

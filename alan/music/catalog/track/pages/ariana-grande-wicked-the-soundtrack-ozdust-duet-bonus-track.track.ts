@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackOzdustDuetBonusTrack = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-ozdust-duet-bonus-track",
   ownLength: 2.1977166666666665,
-  ownProgress: 0,
+  ownProgress: 2.1977166666666665,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

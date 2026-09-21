@@ -5,10 +5,10 @@ export const thePianoGuys3DonTYouWorryChildInstrumentalDontYouWorryChildInstrume
   type: "page-type/track",
   slug: "the-piano-guys-3-don-t-you-worry-child-instrumental-dont-you-worry-child-instrumental",
   ownLength: 4.05,
-  ownProgress: 0,
+  ownProgress: 4.05,
   partOfCollections: ["release/the-piano-guys-3-don-t-you-worry-child-instrumental"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsStarsWillAlignStarsWillAlign = {
   type: "page-type/track",
   slug: "imagine-dragons-stars-will-align-stars-will-align",
   ownLength: 3.9061,
-  ownProgress: 0,
+  ownProgress: 3.9061,
   partOfCollections: ["release/imagine-dragons-stars-will-align"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalMovieSoundtracksOverTheRainbowSimpleGifts = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-movie-soundtracks-over-the-rainbow-simple-gifts",
   ownLength: 3.6941166666666665,
-  ownProgress: 0,
+  ownProgress: 3.6941166666666665,
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3Unstoppable2IAintWorried = {
   type: "page-type/track",
   slug: "the-piano-guys-3-unstoppable-2-i-aint-worried",
   ownLength: 2.66845,
-  ownProgress: 0,
+  ownProgress: 2.66845,
   partOfCollections: ["release/the-piano-guys-3-unstoppable-2"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

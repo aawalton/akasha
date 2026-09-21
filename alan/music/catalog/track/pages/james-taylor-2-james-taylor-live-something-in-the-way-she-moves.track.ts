@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveSomethingInTheWaySheMoves = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-something-in-the-way-she-moves",
   ownLength: 3.5033333333333334,
-  ownProgress: 0,
+  ownProgress: 3.5033333333333334,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

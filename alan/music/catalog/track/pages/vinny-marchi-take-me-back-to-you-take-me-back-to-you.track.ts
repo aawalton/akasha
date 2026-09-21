@@ -5,10 +5,10 @@ export const vinnyMarchiTakeMeBackToYouTakeMeBackToYou = {
   type: "page-type/track",
   slug: "vinny-marchi-take-me-back-to-you-take-me-back-to-you",
   ownLength: 2.8855666666666666,
-  ownProgress: 0,
+  ownProgress: 2.8855666666666666,
   partOfCollections: ["release/vinny-marchi-take-me-back-to-you"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

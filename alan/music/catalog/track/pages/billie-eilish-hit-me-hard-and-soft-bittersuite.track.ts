@@ -5,10 +5,10 @@ export const billieEilishHitMeHardAndSoftBittersuite = {
   type: "page-type/track",
   slug: "billie-eilish-hit-me-hard-and-soft-bittersuite",
   ownLength: 4.974,
-  ownProgress: 0,
+  ownProgress: 4.974,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

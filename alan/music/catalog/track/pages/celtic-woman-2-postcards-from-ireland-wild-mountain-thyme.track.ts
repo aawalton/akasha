@@ -5,10 +5,10 @@ export const celticWoman2PostcardsFromIrelandWildMountainThyme = {
   type: "page-type/track",
   slug: "celtic-woman-2-postcards-from-ireland-wild-mountain-thyme",
   ownLength: 3.9424333333333332,
-  ownProgress: 0,
+  ownProgress: 3.9424333333333332,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

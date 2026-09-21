@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsGodSpeedTheRight = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-god-speed-the-right",
   ownLength: 1.9084333333333334,
-  ownProgress: 0,
+  ownProgress: 1.9084333333333334,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

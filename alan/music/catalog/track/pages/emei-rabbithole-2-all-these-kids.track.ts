@@ -5,10 +5,10 @@ export const emeiRabbithole2AllTheseKids = {
   type: "page-type/track",
   slug: "emei-rabbithole-2-all-these-kids",
   ownLength: 1.9515166666666666,
-  ownProgress: 0,
+  ownProgress: 1.9515166666666666,
   partOfCollections: ["release/emei-rabbithole-2"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

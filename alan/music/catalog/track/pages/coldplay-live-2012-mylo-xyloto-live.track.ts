@@ -5,10 +5,10 @@ export const coldplayLive2012MyloXylotoLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-mylo-xyloto-live",
   ownLength: 0.9603,
-  ownProgress: 0,
+  ownProgress: 0.9603,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

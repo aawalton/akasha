@@ -5,10 +5,10 @@ export const paulCardallHymnsINeedTheeEveryHour = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-i-need-thee-every-hour",
   ownLength: 3.3431,
-  ownProgress: 0,
+  ownProgress: 3.3431,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

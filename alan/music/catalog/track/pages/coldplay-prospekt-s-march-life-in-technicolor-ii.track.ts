@@ -5,10 +5,10 @@ export const coldplayProspektSMarchLifeInTechnicolorIi = {
   type: "page-type/track",
   slug: "coldplay-prospekt-s-march-life-in-technicolor-ii",
   ownLength: 4.084983333333334,
-  ownProgress: 0,
+  ownProgress: 4.084983333333334,
   partOfCollections: ["release/coldplay-prospekt-s-march"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

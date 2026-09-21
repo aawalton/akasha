@@ -5,10 +5,10 @@ export const paulCardallMourningLightMourningLight = {
   type: "page-type/track",
   slug: "paul-cardall-mourning-light-mourning-light",
   ownLength: 3.85,
-  ownProgress: 0,
+  ownProgress: 3.85,
   partOfCollections: ["release/paul-cardall-mourning-light"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

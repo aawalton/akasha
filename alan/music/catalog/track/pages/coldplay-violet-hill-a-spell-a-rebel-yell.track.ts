@@ -5,10 +5,10 @@ export const coldplayVioletHillASpellARebelYell = {
   type: "page-type/track",
   slug: "coldplay-violet-hill-a-spell-a-rebel-yell",
   ownLength: 2.8042166666666666,
-  ownProgress: 0,
+  ownProgress: 2.8042166666666666,
   partOfCollections: ["release/coldplay-violet-hill"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

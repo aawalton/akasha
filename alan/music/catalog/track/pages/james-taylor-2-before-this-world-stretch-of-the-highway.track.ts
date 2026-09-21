@@ -5,10 +5,10 @@ export const jamesTaylor2BeforeThisWorldStretchOfTheHighway = {
   type: "page-type/track",
   slug: "james-taylor-2-before-this-world-stretch-of-the-highway",
   ownLength: 5.5371,
-  ownProgress: 0,
+  ownProgress: 5.5371,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallMiraclesAJourneyOfHopeHealingAnUnseenWorld = {
   type: "page-type/track",
   slug: "paul-cardall-miracles-a-journey-of-hope-healing-an-unseen-world",
   ownLength: 6.514216666666667,
-  ownProgress: 0,
+  ownProgress: 6.514216666666667,
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

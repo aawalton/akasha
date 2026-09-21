@@ -5,10 +5,10 @@ export const paulCardallGraceInGriefWhereCanITurnForPeace = {
   type: "page-type/track",
   slug: "paul-cardall-grace-in-grief-where-can-i-turn-for-peace",
   ownLength: 3.95,
-  ownProgress: 0,
+  ownProgress: 3.95,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

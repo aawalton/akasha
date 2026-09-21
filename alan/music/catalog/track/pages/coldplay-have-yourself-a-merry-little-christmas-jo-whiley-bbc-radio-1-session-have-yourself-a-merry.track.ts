@@ -5,12 +5,12 @@ export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1SessionHa
   type: "page-type/track",
   slug: "coldplay-have-yourself-a-merry-little-christmas-jo-whiley-bbc-radio-1-session-have-yourself-a-merry",
   ownLength: 2.320133333333333,
-  ownProgress: 0,
+  ownProgress: 2.320133333333333,
   partOfCollections: [
     "release/coldplay-have-yourself-a-merry-little-christmas-jo-whiley-bbc-radio-1-session",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

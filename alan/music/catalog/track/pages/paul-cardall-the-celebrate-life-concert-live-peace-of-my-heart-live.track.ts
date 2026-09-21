@@ -5,10 +5,10 @@ export const paulCardallTheCelebrateLifeConcertLivePeaceOfMyHeartLive = {
   type: "page-type/track",
   slug: "paul-cardall-the-celebrate-life-concert-live-peace-of-my-heart-live",
   ownLength: 3.7542166666666668,
-  ownProgress: 0,
+  ownProgress: 3.7542166666666668,
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

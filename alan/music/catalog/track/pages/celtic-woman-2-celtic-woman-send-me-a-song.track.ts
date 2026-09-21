@@ -5,10 +5,10 @@ export const celticWoman2CelticWomanSendMeASong = {
   type: "page-type/track",
   slug: "celtic-woman-2-celtic-woman-send-me-a-song",
   ownLength: 4.34135,
-  ownProgress: 0,
+  ownProgress: 4.34135,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

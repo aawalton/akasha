@@ -5,10 +5,10 @@ export const sabrinaCarpenterAlienDarkHeartRemixAlienDarkHeartRemix = {
   type: "page-type/track",
   slug: "sabrina-carpenter-alien-dark-heart-remix-alien-dark-heart-remix",
   ownLength: 3.49055,
-  ownProgress: 0,
+  ownProgress: 3.49055,
   partOfCollections: ["release/sabrina-carpenter-alien-dark-heart-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

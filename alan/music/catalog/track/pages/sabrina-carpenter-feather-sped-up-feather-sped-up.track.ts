@@ -5,10 +5,10 @@ export const sabrinaCarpenterFeatherSpedUpFeatherSpedUp = {
   type: "page-type/track",
   slug: "sabrina-carpenter-feather-sped-up-feather-sped-up",
   ownLength: 2.55145,
-  ownProgress: 0,
+  ownProgress: 2.55145,
   partOfCollections: ["release/sabrina-carpenter-feather-sped-up"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

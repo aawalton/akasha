@@ -5,10 +5,10 @@ export const thePianoGuys3ItSGonnaBeOkayWithCliffRichardItsGonnaBeOkayWithCliffR
   type: "page-type/track",
   slug: "the-piano-guys-3-it-s-gonna-be-okay-with-cliff-richard-its-gonna-be-okay-with-cliff-richard",
   ownLength: 3.5039833333333332,
-  ownProgress: 0,
+  ownProgress: 3.5039833333333332,
   partOfCollections: ["release/the-piano-guys-3-it-s-gonna-be-okay-with-cliff-richard"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

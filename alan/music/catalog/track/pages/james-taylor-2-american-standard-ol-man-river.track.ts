@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardOlManRiver = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-ol-man-river",
   ownLength: 2.8922166666666667,
-  ownProgress: 0,
+  ownProgress: 2.8922166666666667,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

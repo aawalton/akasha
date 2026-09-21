@@ -5,10 +5,10 @@ export const auroraStormEnglishVersionStormEnglishVersion = {
   type: "page-type/track",
   slug: "aurora-storm-english-version-storm-english-version",
   ownLength: 3.8170166666666665,
-  ownProgress: 0,
+  ownProgress: 3.8170166666666665,
   partOfCollections: ["release/aurora-storm-english-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

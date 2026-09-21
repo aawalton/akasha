@@ -5,10 +5,10 @@ export const vinnyMarchiSugarStarsLoveTheFriendYouBuried = {
   type: "page-type/track",
   slug: "vinny-marchi-sugar-stars-love-the-friend-you-buried",
   ownLength: 3.3124666666666664,
-  ownProgress: 0,
+  ownProgress: 3.3124666666666664,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

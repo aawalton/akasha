@@ -5,10 +5,10 @@ export const zaraLarssonIWouldLikeR3habRemixIWouldLikeR3habRemix = {
   type: "page-type/track",
   slug: "zara-larsson-i-would-like-r3hab-remix-i-would-like-r3hab-remix",
   ownLength: 2.4499833333333334,
-  ownProgress: 0,
+  ownProgress: 2.4499833333333334,
   partOfCollections: ["release/zara-larsson-i-would-like-r3hab-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

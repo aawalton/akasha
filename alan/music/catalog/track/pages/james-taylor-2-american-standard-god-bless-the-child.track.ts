@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardGodBlessTheChild = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-god-bless-the-child",
   ownLength: 3.3626666666666667,
-  ownProgress: 0,
+  ownProgress: 3.3626666666666667,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

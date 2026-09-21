@@ -5,10 +5,10 @@ export const arianaGrandeThankUNextBloodline = {
   type: "page-type/track",
   slug: "ariana-grande-thank-u-next-bloodline",
   ownLength: 3.6148833333333332,
-  ownProgress: 0,
+  ownProgress: 3.6148833333333332,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

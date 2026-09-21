@@ -5,10 +5,10 @@ export const vinnyMarchiDannyBoyDannyBoy = {
   type: "page-type/track",
   slug: "vinny-marchi-danny-boy-danny-boy",
   ownLength: 2.997516666666667,
-  ownProgress: 0,
+  ownProgress: 2.997516666666667,
   partOfCollections: ["release/vinny-marchi-danny-boy"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

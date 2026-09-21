@@ -5,10 +5,10 @@ export const coldplayProspektSMarchLoversInJapanOsakaSunMix = {
   type: "page-type/track",
   slug: "coldplay-prospekt-s-march-lovers-in-japan-osaka-sun-mix",
   ownLength: 3.970666666666667,
-  ownProgress: 0,
+  ownProgress: 3.970666666666667,
   partOfCollections: ["release/coldplay-prospekt-s-march"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

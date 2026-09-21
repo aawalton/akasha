@@ -5,10 +5,10 @@ export const thePianoGuys3WondersBecauseOfYou = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wonders-because-of-you",
   ownLength: 4.04755,
-  ownProgress: 0,
+  ownProgress: 4.04755,
   partOfCollections: ["release/the-piano-guys-3-wonders"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

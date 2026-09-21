@@ -5,10 +5,10 @@ export const auroraToBeLovedToBeLoved = {
   type: "page-type/track",
   slug: "aurora-to-be-loved-to-be-loved",
   ownLength: 3.8099,
-  ownProgress: 0,
+  ownProgress: 3.8099,
   partOfCollections: ["release/aurora-to-be-loved"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

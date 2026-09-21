@@ -5,10 +5,10 @@ export const thePianoGuys3ChillYouAreTheReason = {
   type: "page-type/track",
   slug: "the-piano-guys-3-chill-you-are-the-reason",
   ownLength: 3.9205,
-  ownProgress: 0,
+  ownProgress: 3.9205,
   partOfCollections: ["release/the-piano-guys-3-chill"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

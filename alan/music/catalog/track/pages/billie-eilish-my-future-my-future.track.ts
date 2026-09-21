@@ -5,10 +5,10 @@ export const billieEilishMyFutureMyFuture = {
   type: "page-type/track",
   slug: "billie-eilish-my-future-my-future",
   ownLength: 3.46925,
-  ownProgress: 0,
+  ownProgress: 3.46925,
   partOfCollections: ["release/billie-eilish-my-future"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

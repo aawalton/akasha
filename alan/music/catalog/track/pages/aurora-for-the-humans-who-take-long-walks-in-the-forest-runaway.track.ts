@@ -5,10 +5,10 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForestRunaway = {
   type: "page-type/track",
   slug: "aurora-for-the-humans-who-take-long-walks-in-the-forest-runaway",
   ownLength: 4.1471,
-  ownProgress: 0,
+  ownProgress: 4.1471,
   partOfCollections: ["release/aurora-for-the-humans-who-take-long-walks-in-the-forest"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

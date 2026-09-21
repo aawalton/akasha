@@ -5,10 +5,10 @@ export const coldplayLive2012CharlieBrownLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-charlie-brown-live",
   ownLength: 5.012433333333333,
-  ownProgress: 0,
+  ownProgress: 5.012433333333333,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

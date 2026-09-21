@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsFarewell = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-farewell",
   ownLength: 3.96755,
-  ownProgress: 0,
+  ownProgress: 3.96755,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

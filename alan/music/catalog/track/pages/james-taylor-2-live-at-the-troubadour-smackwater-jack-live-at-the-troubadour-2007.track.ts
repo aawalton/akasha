@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourSmackwaterJackLiveAtTheTroubadour200
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-smackwater-jack-live-at-the-troubadour-2007",
   ownLength: 5.420883333333333,
-  ownProgress: 0,
+  ownProgress: 5.420883333333333,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

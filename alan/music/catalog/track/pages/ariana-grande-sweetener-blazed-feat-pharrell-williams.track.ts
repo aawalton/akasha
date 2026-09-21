@@ -5,10 +5,10 @@ export const arianaGrandeSweetenerBlazedFeatPharrellWilliams = {
   type: "page-type/track",
   slug: "ariana-grande-sweetener-blazed-feat-pharrell-williams",
   ownLength: 3.272666666666667,
-  ownProgress: 0,
+  ownProgress: 3.272666666666667,
   partOfCollections: ["release/ariana-grande-sweetener"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

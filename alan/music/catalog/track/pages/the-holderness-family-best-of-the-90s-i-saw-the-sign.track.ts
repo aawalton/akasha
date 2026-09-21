@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe90sISawTheSign = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-90s-i-saw-the-sign",
   ownLength: 2.7737666666666665,
-  ownProgress: 0,
+  ownProgress: 2.7737666666666665,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

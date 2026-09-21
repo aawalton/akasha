@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeImperfectForYou = {
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-imperfect-for-you",
   ownLength: 3.0427666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0427666666666666,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

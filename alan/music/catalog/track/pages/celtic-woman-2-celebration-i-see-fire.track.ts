@@ -5,10 +5,10 @@ export const celticWoman2CelebrationISeeFire = {
   type: "page-type/track",
   slug: "celtic-woman-2-celebration-i-see-fire",
   ownLength: 5.15155,
-  ownProgress: 0,
+  ownProgress: 5.15155,
   partOfCollections: ["release/celtic-woman-2-celebration"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayLiveFromSpotifyLondonChristmasLightsLiveFromSpotifyLondon =
   type: "page-type/track",
   slug: "coldplay-live-from-spotify-london-christmas-lights-live-from-spotify-london",
   ownLength: 4.47535,
-  ownProgress: 0,
+  ownProgress: 4.47535,
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

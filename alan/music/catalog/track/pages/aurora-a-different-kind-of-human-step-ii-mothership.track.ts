@@ -5,10 +5,10 @@ export const auroraADifferentKindOfHumanStepIiMothership = {
   type: "page-type/track",
   slug: "aurora-a-different-kind-of-human-step-ii-mothership",
   ownLength: 2.2803666666666667,
-  ownProgress: 0,
+  ownProgress: 2.2803666666666667,
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

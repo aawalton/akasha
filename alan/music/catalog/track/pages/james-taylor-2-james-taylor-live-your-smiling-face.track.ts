@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveYourSmilingFace = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-your-smiling-face",
   ownLength: 2.891766666666667,
-  ownProgress: 0,
+  ownProgress: 2.891766666666667,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

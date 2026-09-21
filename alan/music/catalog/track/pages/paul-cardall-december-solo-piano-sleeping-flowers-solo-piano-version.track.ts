@@ -5,10 +5,10 @@ export const paulCardallDecemberSoloPianoSleepingFlowersSoloPianoVersion = {
   type: "page-type/track",
   slug: "paul-cardall-december-solo-piano-sleeping-flowers-solo-piano-version",
   ownLength: 3.6988833333333333,
-  ownProgress: 0,
+  ownProgress: 3.6988833333333333,
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

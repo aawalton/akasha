@@ -5,10 +5,10 @@ export const coldplayParachutesHighSpeed = {
   type: "page-type/track",
   slug: "coldplay-parachutes-high-speed",
   ownLength: 4.2744333333333335,
-  ownProgress: 0,
+  ownProgress: 4.2744333333333335,
   partOfCollections: ["release/coldplay-parachutes"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeHearMeSpectorRe
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-hear-me-spector-remix",
   ownLength: 4.312216666666667,
-  ownProgress: 0,
+  ownProgress: 4.312216666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

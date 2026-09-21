@@ -5,10 +5,10 @@ export const zaraLarssonDonTWorryBoutMeDontWorryBoutMe = {
   type: "page-type/track",
   slug: "zara-larsson-don-t-worry-bout-me-dont-worry-bout-me",
   ownLength: 3.480183333333333,
-  ownProgress: 0,
+  ownProgress: 3.480183333333333,
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

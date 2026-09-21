@@ -5,10 +5,10 @@ export const jamesTaylor2DadLovesHisWorkOnlyForMe = {
   type: "page-type/track",
   slug: "james-taylor-2-dad-loves-his-work-only-for-me",
   ownLength: 4.91,
-  ownProgress: 0,
+  ownProgress: 4.91,
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallNewLifeDelayed = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-delayed",
   ownLength: 2.9953333333333334,
-  ownProgress: 0,
+  ownProgress: 2.9953333333333334,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

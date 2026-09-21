@@ -5,10 +5,10 @@ export const thePianoGuys3LoveMeLikeIAmLastTime = {
   type: "page-type/track",
   slug: "the-piano-guys-3-love-me-like-i-am-last-time",
   ownLength: 3.1416666666666666,
-  ownProgress: 0,
+  ownProgress: 3.1416666666666666,
   partOfCollections: ["release/the-piano-guys-3-love-me-like-i-am"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2CelticWomanIsleOfInnisfree = {
   type: "page-type/track",
   slug: "celtic-woman-2-celtic-woman-isle-of-innisfree",
   ownLength: 3.4411,
-  ownProgress: 0,
+  ownProgress: 3.4411,
   partOfCollections: ["release/celtic-woman-2-celtic-woman"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

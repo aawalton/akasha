@@ -5,10 +5,10 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveSaviRemix = {
   type: "page-type/track",
   slug: "sabrina-carpenter-first-love-remixes-first-love-savi-remix",
   ownLength: 3.4166666666666665,
-  ownProgress: 0,
+  ownProgress: 3.4166666666666665,
   partOfCollections: ["release/sabrina-carpenter-first-love-remixes"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

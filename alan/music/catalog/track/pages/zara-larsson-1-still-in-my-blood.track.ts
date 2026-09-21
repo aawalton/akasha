@@ -5,10 +5,10 @@ export const zaraLarsson1StillInMyBlood = {
   type: "page-type/track",
   slug: "zara-larsson-1-still-in-my-blood",
   ownLength: 3.1896333333333335,
-  ownProgress: 0,
+  ownProgress: 3.1896333333333335,
   partOfCollections: ["release/zara-larsson-1"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

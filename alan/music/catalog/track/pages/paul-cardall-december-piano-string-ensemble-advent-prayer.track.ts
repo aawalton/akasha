@@ -5,10 +5,10 @@ export const paulCardallDecemberPianoStringEnsembleAdventPrayer = {
   type: "page-type/track",
   slug: "paul-cardall-december-piano-string-ensemble-advent-prayer",
   ownLength: 3.982666666666667,
-  ownProgress: 0,
+  ownProgress: 3.982666666666667,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

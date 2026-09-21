@@ -5,10 +5,10 @@ export const celticWoman2DestinyTirNaNog = {
   type: "page-type/track",
   slug: "celtic-woman-2-destiny-tir-na-nog",
   ownLength: 3.1454,
-  ownProgress: 0,
+  ownProgress: 3.1454,
   partOfCollections: ["release/celtic-woman-2-destiny"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

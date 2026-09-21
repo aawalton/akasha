@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveMillworkerLive = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-millworker-live",
   ownLength: 4.4271,
-  ownProgress: 0,
+  ownProgress: 4.4271,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

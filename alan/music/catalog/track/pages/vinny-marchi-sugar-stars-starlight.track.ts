@@ -5,10 +5,10 @@ export const vinnyMarchiSugarStarsStarlight = {
   type: "page-type/track",
   slug: "vinny-marchi-sugar-stars-starlight",
   ownLength: 3.59615,
-  ownProgress: 0,
+  ownProgress: 3.59615,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsHowGreatThouArt = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-how-great-thou-art",
   ownLength: 3.422433333333333,
-  ownProgress: 0,
+  ownProgress: 3.422433333333333,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

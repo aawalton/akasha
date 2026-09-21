@@ -5,10 +5,10 @@ export const celticWoman2BelieveAwakening = {
   type: "page-type/track",
   slug: "celtic-woman-2-believe-awakening",
   ownLength: 5.24755,
-  ownProgress: 0,
+  ownProgress: 5.24755,
   partOfCollections: ["release/celtic-woman-2-believe"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

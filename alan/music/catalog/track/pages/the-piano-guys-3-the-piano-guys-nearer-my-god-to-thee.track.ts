@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysNearerMyGodToThee = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-nearer-my-god-to-thee",
   ownLength: 3.0205,
-  ownProgress: 0,
+  ownProgress: 3.0205,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

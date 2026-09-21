@@ -5,10 +5,10 @@ export const vinnyMarchiSugarStarsYouDontKnowMe = {
   type: "page-type/track",
   slug: "vinny-marchi-sugar-stars-you-dont-know-me",
   ownLength: 3.0833666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0833666666666666,
   partOfCollections: ["release/vinny-marchi-sugar-stars"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

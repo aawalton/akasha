@@ -5,10 +5,10 @@ export const auroraForTheMetalPeopleTheSeed = {
   type: "page-type/track",
   slug: "aurora-for-the-metal-people-the-seed",
   ownLength: 4.449483333333333,
-  ownProgress: 0,
+  ownProgress: 4.449483333333333,
   partOfCollections: ["release/aurora-for-the-metal-people"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

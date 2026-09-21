@@ -5,10 +5,10 @@ export const paulCardallFaithfulScarboroughFair = {
   type: "page-type/track",
   slug: "paul-cardall-faithful-scarborough-fair",
   ownLength: 3.713766666666667,
-  ownProgress: 0,
+  ownProgress: 3.713766666666667,
   partOfCollections: ["release/paul-cardall-faithful"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

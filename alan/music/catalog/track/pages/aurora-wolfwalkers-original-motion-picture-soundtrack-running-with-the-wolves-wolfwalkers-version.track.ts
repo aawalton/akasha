@@ -6,10 +6,10 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackRunningWithTheWolve
     type: "page-type/track",
     slug: "aurora-wolfwalkers-original-motion-picture-soundtrack-running-with-the-wolves-wolfwalkers-version",
     ownLength: 2.7977666666666665,
-    ownProgress: 0,
+    ownProgress: 2.7977666666666665,
     partOfCollections: ["release/aurora-wolfwalkers-original-motion-picture-soundtrack"],
     position: 3,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

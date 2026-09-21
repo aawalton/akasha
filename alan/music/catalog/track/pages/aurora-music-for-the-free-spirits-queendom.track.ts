@@ -5,10 +5,10 @@ export const auroraMusicForTheFreeSpiritsQueendom = {
   type: "page-type/track",
   slug: "aurora-music-for-the-free-spirits-queendom",
   ownLength: 3.444,
-  ownProgress: 0,
+  ownProgress: 3.444,
   partOfCollections: ["release/aurora-music-for-the-free-spirits"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

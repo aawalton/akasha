@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxJennasDance = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-jennas-dance",
   ownLength: 2.87,
-  ownProgress: 0,
+  ownProgress: 2.87,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

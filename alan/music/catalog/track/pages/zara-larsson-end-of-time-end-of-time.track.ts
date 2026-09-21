@@ -5,10 +5,10 @@ export const zaraLarssonEndOfTimeEndOfTime = {
   type: "page-type/track",
   slug: "zara-larsson-end-of-time-end-of-time",
   ownLength: 3.04155,
-  ownProgress: 0,
+  ownProgress: 3.04155,
   partOfCollections: ["release/zara-larsson-end-of-time"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

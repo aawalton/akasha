@@ -5,10 +5,10 @@ export const thePianoGuys3YesterdayYesterday = {
   type: "page-type/track",
   slug: "the-piano-guys-3-yesterday-yesterday",
   ownLength: 3.4718666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4718666666666667,
   partOfCollections: ["release/the-piano-guys-3-yesterday"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

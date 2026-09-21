@@ -5,10 +5,10 @@ export const imagineDragonsLoomFireInTheseHills = {
   type: "page-type/track",
   slug: "imagine-dragons-loom-fire-in-these-hills",
   ownLength: 3.6546666666666665,
-  ownProgress: 0,
+  ownProgress: 3.6546666666666665,
   partOfCollections: ["release/imagine-dragons-loom"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

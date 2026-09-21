@@ -5,10 +5,10 @@ export const imagineDragonsBornToBeYoursBornToBeYours = {
   type: "page-type/track",
   slug: "imagine-dragons-born-to-be-yours-born-to-be-yours",
   ownLength: 3.222,
-  ownProgress: 0,
+  ownProgress: 3.222,
   partOfCollections: ["release/imagine-dragons-born-to-be-yours"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

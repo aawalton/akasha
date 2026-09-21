@@ -5,10 +5,10 @@ export const paulCardallChristmasHymnsWeThreeKings = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hymns-we-three-kings",
   ownLength: 5.372,
-  ownProgress: 0,
+  ownProgress: 5.372,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

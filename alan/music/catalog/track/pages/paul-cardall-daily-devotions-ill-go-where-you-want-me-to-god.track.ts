@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsIllGoWhereYouWantMeToGod = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-ill-go-where-you-want-me-to-god",
   ownLength: 2.6828833333333333,
-  ownProgress: 0,
+  ownProgress: 2.6828833333333333,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackImNotThatGirlReprise = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-im-not-that-girl-reprise",
   ownLength: 2.1757666666666666,
-  ownProgress: 0,
+  ownProgress: 2.1757666666666666,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

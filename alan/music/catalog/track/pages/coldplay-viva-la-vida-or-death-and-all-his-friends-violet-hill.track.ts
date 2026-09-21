@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsVioletHill = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-or-death-and-all-his-friends-violet-hill",
   ownLength: 3.7108833333333333,
-  ownProgress: 0,
+  ownProgress: 3.7108833333333333,
   partOfCollections: ["release/coldplay-viva-la-vida-or-death-and-all-his-friends"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

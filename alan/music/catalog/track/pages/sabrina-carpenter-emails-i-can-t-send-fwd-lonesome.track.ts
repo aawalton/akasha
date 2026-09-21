@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdLonesome = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-lonesome",
   ownLength: 3.126516666666667,
-  ownProgress: 0,
+  ownProgress: 3.126516666666667,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

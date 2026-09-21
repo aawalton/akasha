@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetDeluxeSlimPickins = {
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-deluxe-slim-pickins",
   ownLength: 2.5366666666666666,
-  ownProgress: 0,
+  ownProgress: 2.5366666666666666,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

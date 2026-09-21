@@ -5,10 +5,10 @@ export const paulCardallNewLifeTheTraveler = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-the-traveler",
   ownLength: 1.6971,
-  ownProgress: 0,
+  ownProgress: 1.6971,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

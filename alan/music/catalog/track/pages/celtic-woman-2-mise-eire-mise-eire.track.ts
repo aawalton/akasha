@@ -5,10 +5,10 @@ export const celticWoman2MiseEireMiseEire = {
   type: "page-type/track",
   slug: "celtic-woman-2-mise-eire-mise-eire",
   ownLength: 3.8793333333333333,
-  ownProgress: 0,
+  ownProgress: 3.8793333333333333,
   partOfCollections: ["release/celtic-woman-2-mise-eire"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

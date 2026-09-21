@@ -5,10 +5,10 @@ export const auroraInfectionsOfADifferentKindStepIGentleEarthquakes = {
   type: "page-type/track",
   slug: "aurora-infections-of-a-different-kind-step-i-gentle-earthquakes",
   ownLength: 3.7888,
-  ownProgress: 0,
+  ownProgress: 3.7888,
   partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

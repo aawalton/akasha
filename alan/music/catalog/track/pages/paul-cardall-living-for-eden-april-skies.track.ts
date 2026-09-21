@@ -5,10 +5,10 @@ export const paulCardallLivingForEdenAprilSkies = {
   type: "page-type/track",
   slug: "paul-cardall-living-for-eden-april-skies",
   ownLength: 3.580216666666667,
-  ownProgress: 0,
+  ownProgress: 3.580216666666667,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   position: 20,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

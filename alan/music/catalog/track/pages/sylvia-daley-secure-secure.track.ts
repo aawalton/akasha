@@ -5,10 +5,10 @@ export const sylviaDaleySecureSecure = {
   type: "page-type/track",
   slug: "sylvia-daley-secure-secure",
   ownLength: 3.10795,
-  ownProgress: 0,
+  ownProgress: 3.10795,
   partOfCollections: ["release/sylvia-daley-secure"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

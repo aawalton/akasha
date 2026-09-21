@@ -5,10 +5,10 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerVizeRemix = {
   type: "page-type/track",
   slug: "zara-larsson-can-t-tame-her-the-remixes-cant-tame-her-vize-remix",
   ownLength: 2.8888833333333332,
-  ownProgress: 0,
+  ownProgress: 2.8888833333333332,
   partOfCollections: ["release/zara-larsson-can-t-tame-her-the-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

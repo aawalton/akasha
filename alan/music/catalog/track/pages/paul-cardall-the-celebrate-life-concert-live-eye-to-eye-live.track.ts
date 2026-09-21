@@ -5,10 +5,10 @@ export const paulCardallTheCelebrateLifeConcertLiveEyeToEyeLive = {
   type: "page-type/track",
   slug: "paul-cardall-the-celebrate-life-concert-live-eye-to-eye-live",
   ownLength: 3.8731,
-  ownProgress: 0,
+  ownProgress: 3.8731,
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2InThePocket2019RemasterDontBeSadCauseYourSunIsDown2019R
   type: "page-type/track",
   slug: "james-taylor-2-in-the-pocket-2019-remaster-dont-be-sad-cause-your-sun-is-down-2019-remaster",
   ownLength: 3.4911,
-  ownProgress: 0,
+  ownProgress: 3.4911,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

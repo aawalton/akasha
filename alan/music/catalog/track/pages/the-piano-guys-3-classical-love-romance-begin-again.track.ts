@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalLoveRomanceBeginAgain = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-love-romance-begin-again",
   ownLength: 4.0917666666666666,
-  ownProgress: 0,
+  ownProgress: 4.0917666666666666,
   partOfCollections: ["release/the-piano-guys-3-classical-love-romance"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

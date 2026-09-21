@@ -5,10 +5,10 @@ export const celticWoman2AncientLandDeluxeOrinocoFlow = {
   type: "page-type/track",
   slug: "celtic-woman-2-ancient-land-deluxe-orinoco-flow",
   ownLength: 3.87155,
-  ownProgress: 0,
+  ownProgress: 3.87155,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   position: 20,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

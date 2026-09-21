@@ -5,10 +5,10 @@ export const thePianoGuys3SweetChildOMineSweetChildOMine = {
   type: "page-type/track",
   slug: "the-piano-guys-3-sweet-child-o-mine-sweet-child-o-mine",
   ownLength: 4.329166666666667,
-  ownProgress: 0,
+  ownProgress: 4.329166666666667,
   partOfCollections: ["release/the-piano-guys-3-sweet-child-o-mine"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

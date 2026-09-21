@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyTheVoice = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-the-voice",
   ownLength: 3.08955,
-  ownProgress: 0,
+  ownProgress: 3.08955,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallAscensusAscensusChristiASoloPianoRhapsodyRemix = {
   type: "page-type/track",
   slug: "paul-cardall-ascensus-ascensus-christi-a-solo-piano-rhapsody-remix",
   ownLength: 4.1415,
-  ownProgress: 0,
+  ownProgress: 4.1415,
   partOfCollections: ["release/paul-cardall-ascensus"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

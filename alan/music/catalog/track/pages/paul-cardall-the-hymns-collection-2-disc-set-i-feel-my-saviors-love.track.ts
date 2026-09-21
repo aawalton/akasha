@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetIFeelMySaviorsLove = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-i-feel-my-saviors-love",
   ownLength: 3.5992333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5992333333333333,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 23,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetOMyFather = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-o-my-father",
   ownLength: 2.1899166666666665,
-  ownProgress: 0,
+  ownProgress: 2.1899166666666665,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandePutYourHeartsUpPutYourHeartsUp = {
   type: "page-type/track",
   slug: "ariana-grande-put-your-hearts-up-put-your-hearts-up",
   ownLength: 3.5033333333333334,
-  ownProgress: 0,
+  ownProgress: 3.5033333333333334,
   partOfCollections: ["release/ariana-grande-put-your-hearts-up"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

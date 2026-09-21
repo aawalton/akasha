@@ -5,10 +5,10 @@ export const coldplayMusicOfTheSpheresPeopleOfThePride = {
   type: "page-type/track",
   slug: "coldplay-music-of-the-spheres-people-of-the-pride",
   ownLength: 3.6211,
-  ownProgress: 0,
+  ownProgress: 3.6211,
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

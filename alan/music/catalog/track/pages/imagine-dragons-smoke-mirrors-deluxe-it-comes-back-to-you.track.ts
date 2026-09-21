@@ -5,10 +5,10 @@ export const imagineDragonsSmokeMirrorsDeluxeItComesBackToYou = {
   type: "page-type/track",
   slug: "imagine-dragons-smoke-mirrors-deluxe-it-comes-back-to-you",
   ownLength: 3.6233333333333335,
-  ownProgress: 0,
+  ownProgress: 3.6233333333333335,
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

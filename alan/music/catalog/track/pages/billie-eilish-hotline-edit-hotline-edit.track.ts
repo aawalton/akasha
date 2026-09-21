@@ -5,10 +5,10 @@ export const billieEilishHotlineEditHotlineEdit = {
   type: "page-type/track",
   slug: "billie-eilish-hotline-edit-hotline-edit",
   ownLength: 1.0119833333333332,
-  ownProgress: 0,
+  ownProgress: 1.0119833333333332,
   partOfCollections: ["release/billie-eilish-hotline-edit"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

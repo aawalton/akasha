@@ -5,10 +5,10 @@ export const arianaGrandeThankUNextMakeUp = {
   type: "page-type/track",
   slug: "ariana-grande-thank-u-next-make-up",
   ownLength: 2.344883333333333,
-  ownProgress: 0,
+  ownProgress: 2.344883333333333,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

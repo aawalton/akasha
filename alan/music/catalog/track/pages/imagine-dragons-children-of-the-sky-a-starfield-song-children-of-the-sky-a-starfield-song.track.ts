@@ -5,10 +5,10 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSongChildrenOfTheSkyAStarfi
   type: "page-type/track",
   slug: "imagine-dragons-children-of-the-sky-a-starfield-song-children-of-the-sky-a-starfield-song",
   ownLength: 3.460183333333333,
-  ownProgress: 0,
+  ownProgress: 3.460183333333333,
   partOfCollections: ["release/imagine-dragons-children-of-the-sky-a-starfield-song"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

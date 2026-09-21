@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandYouveGotAFriendLiveAtTheColonialTheatre2007 =
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-youve-got-a-friend-live-at-the-colonial-theatre-2007",
   ownLength: 5.0331,
-  ownProgress: 0,
+  ownProgress: 5.0331,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

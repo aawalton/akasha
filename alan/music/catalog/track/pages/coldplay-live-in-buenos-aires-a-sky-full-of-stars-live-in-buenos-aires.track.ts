@@ -5,10 +5,10 @@ export const coldplayLiveInBuenosAiresASkyFullOfStarsLiveInBuenosAires = {
   type: "page-type/track",
   slug: "coldplay-live-in-buenos-aires-a-sky-full-of-stars-live-in-buenos-aires",
   ownLength: 4.606,
-  ownProgress: 0,
+  ownProgress: 4.606,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   position: 22,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

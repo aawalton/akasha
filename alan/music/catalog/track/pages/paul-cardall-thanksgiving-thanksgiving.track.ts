@@ -5,10 +5,10 @@ export const paulCardallThanksgivingThanksgiving = {
   type: "page-type/track",
   slug: "paul-cardall-thanksgiving-thanksgiving",
   ownLength: 2.35955,
-  ownProgress: 0,
+  ownProgress: 2.35955,
   partOfCollections: ["release/paul-cardall-thanksgiving"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsEvolveIDontKnowWhy = {
   type: "page-type/track",
   slug: "imagine-dragons-evolve-i-dont-know-why",
   ownLength: 3.1686666666666667,
-  ownProgress: 0,
+  ownProgress: 3.1686666666666667,
   partOfCollections: ["release/imagine-dragons-evolve"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

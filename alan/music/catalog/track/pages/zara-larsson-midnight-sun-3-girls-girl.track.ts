@@ -5,10 +5,10 @@ export const zaraLarssonMidnightSun3GirlsGirl = {
   type: "page-type/track",
   slug: "zara-larsson-midnight-sun-3-girls-girl",
   ownLength: 2.970683333333333,
-  ownProgress: 0,
+  ownProgress: 2.970683333333333,
   partOfCollections: ["release/zara-larsson-midnight-sun-3"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

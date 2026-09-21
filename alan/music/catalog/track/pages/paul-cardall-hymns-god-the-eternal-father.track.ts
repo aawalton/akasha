@@ -5,10 +5,10 @@ export const paulCardallHymnsGodTheEternalFather = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-god-the-eternal-father",
   ownLength: 2.6086666666666667,
-  ownProgress: 0,
+  ownProgress: 2.6086666666666667,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

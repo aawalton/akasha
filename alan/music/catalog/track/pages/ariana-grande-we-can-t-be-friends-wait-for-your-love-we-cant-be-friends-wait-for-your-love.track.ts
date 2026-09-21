@@ -5,10 +5,10 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveWeCantBeFriendsWaitForYou
   type: "page-type/track",
   slug: "ariana-grande-we-can-t-be-friends-wait-for-your-love-we-cant-be-friends-wait-for-your-love",
   ownLength: 3.81065,
-  ownProgress: 0,
+  ownProgress: 3.81065,
   partOfCollections: ["release/ariana-grande-we-can-t-be-friends-wait-for-your-love"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

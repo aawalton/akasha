@@ -5,10 +5,10 @@ export const coldplayAHeadFullOfDreamsHymnForTheWeekend = {
   type: "page-type/track",
   slug: "coldplay-a-head-full-of-dreams-hymn-for-the-weekend",
   ownLength: 4.304433333333333,
-  ownProgress: 0,
+  ownProgress: 4.304433333333333,
   partOfCollections: ["release/coldplay-a-head-full-of-dreams"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

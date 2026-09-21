@@ -5,10 +5,10 @@ export const coldplayAdventureOfALifetimeYottoRemixAdventureOfALifetimeYottoRemi
   type: "page-type/track",
   slug: "coldplay-adventure-of-a-lifetime-yotto-remix-adventure-of-a-lifetime-yotto-remix",
   ownLength: 3.8311166666666665,
-  ownProgress: 0,
+  ownProgress: 3.8311166666666665,
   partOfCollections: ["release/coldplay-adventure-of-a-lifetime-yotto-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

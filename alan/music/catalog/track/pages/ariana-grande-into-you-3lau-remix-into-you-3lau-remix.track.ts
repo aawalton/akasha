@@ -5,10 +5,10 @@ export const arianaGrandeIntoYou3lauRemixIntoYou3lauRemix = {
   type: "page-type/track",
   slug: "ariana-grande-into-you-3lau-remix-into-you-3lau-remix",
   ownLength: 3.2857666666666665,
-  ownProgress: 0,
+  ownProgress: 3.2857666666666665,
   partOfCollections: ["release/ariana-grande-into-you-3lau-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

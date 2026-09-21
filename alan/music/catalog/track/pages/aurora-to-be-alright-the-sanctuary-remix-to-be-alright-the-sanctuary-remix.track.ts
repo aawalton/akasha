@@ -5,10 +5,10 @@ export const auroraToBeAlrightTheSanctuaryRemixToBeAlrightTheSanctuaryRemix = {
   type: "page-type/track",
   slug: "aurora-to-be-alright-the-sanctuary-remix-to-be-alright-the-sanctuary-remix",
   ownLength: 3.77415,
-  ownProgress: 0,
+  ownProgress: 3.77415,
   partOfCollections: ["release/aurora-to-be-alright-the-sanctuary-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

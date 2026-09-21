@@ -5,10 +5,10 @@ export const celticWoman2TheDawningOfTheDayTheDawningOfTheDay = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-dawning-of-the-day-the-dawning-of-the-day",
   ownLength: 3.904,
-  ownProgress: 0,
+  ownProgress: 3.904,
   partOfCollections: ["release/celtic-woman-2-the-dawning-of-the-day"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysBeStillMySoul = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-be-still-my-soul",
   ownLength: 3.5071,
-  ownProgress: 0,
+  ownProgress: 3.5071,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

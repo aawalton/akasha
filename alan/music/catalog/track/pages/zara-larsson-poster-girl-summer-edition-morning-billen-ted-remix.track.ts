@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlSummerEditionMorningBillenTedRemix = {
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-summer-edition-morning-billen-ted-remix",
   ownLength: 2.4484,
-  ownProgress: 0,
+  ownProgress: 2.4484,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   position: 19,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

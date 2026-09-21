@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneyGodRestYeMerryGentlemen = {
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-god-rest-ye-merry-gentlemen",
   ownLength: 2.4905333333333335,
-  ownProgress: 0,
+  ownProgress: 2.4905333333333335,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

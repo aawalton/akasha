@@ -5,10 +5,10 @@ export const celticWoman2HomeForChristmasSantaClausIsComingToTown = {
   type: "page-type/track",
   slug: "celtic-woman-2-home-for-christmas-santa-claus-is-coming-to-town",
   ownLength: 4.227333333333333,
-  ownProgress: 0,
+  ownProgress: 4.227333333333333,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

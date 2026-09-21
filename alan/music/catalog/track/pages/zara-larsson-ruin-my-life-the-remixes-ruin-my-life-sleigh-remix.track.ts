@@ -5,10 +5,10 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeSleighRemix = {
   type: "page-type/track",
   slug: "zara-larsson-ruin-my-life-the-remixes-ruin-my-life-sleigh-remix",
   ownLength: 3.1839166666666667,
-  ownProgress: 0,
+  ownProgress: 3.1839166666666667,
   partOfCollections: ["release/zara-larsson-ruin-my-life-the-remixes"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

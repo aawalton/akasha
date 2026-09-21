@@ -5,10 +5,10 @@ export const celticWoman2TheMagicOfChristmasAngelsWeHaveHeardOnHigh = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-magic-of-christmas-angels-we-have-heard-on-high",
   ownLength: 4.582433333333333,
-  ownProgress: 0,
+  ownProgress: 4.582433333333333,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

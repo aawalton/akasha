@@ -5,10 +5,10 @@ export const zaraLarssonMidnightSunBundleMidnightSunAlexChapmanRemix = {
   type: "page-type/track",
   slug: "zara-larsson-midnight-sun-bundle-midnight-sun-alex-chapman-remix",
   ownLength: 3.22905,
-  ownProgress: 0,
+  ownProgress: 3.22905,
   partOfCollections: ["release/zara-larsson-midnight-sun-bundle"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

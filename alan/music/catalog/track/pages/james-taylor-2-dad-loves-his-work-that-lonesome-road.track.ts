@@ -5,10 +5,10 @@ export const jamesTaylor2DadLovesHisWorkThatLonesomeRoad = {
   type: "page-type/track",
   slug: "james-taylor-2-dad-loves-his-work-that-lonesome-road",
   ownLength: 2.3566666666666665,
-  ownProgress: 0,
+  ownProgress: 2.3566666666666665,
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

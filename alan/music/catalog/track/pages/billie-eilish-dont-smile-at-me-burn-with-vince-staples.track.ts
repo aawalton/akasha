@@ -5,10 +5,10 @@ export const billieEilishDontSmileAtMeBurnWithVinceStaples = {
   type: "page-type/track",
   slug: "billie-eilish-dont-smile-at-me-burn-with-vince-staples",
   ownLength: 2.9835833333333333,
-  ownProgress: 0,
+  ownProgress: 2.9835833333333333,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

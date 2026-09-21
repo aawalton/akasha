@@ -5,10 +5,10 @@ export const zaraLarssonVenusVenus = {
   type: "page-type/track",
   slug: "zara-larsson-venus-venus",
   ownLength: 3.460183333333333,
-  ownProgress: 0,
+  ownProgress: 3.460183333333333,
   partOfCollections: ["release/zara-larsson-venus"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

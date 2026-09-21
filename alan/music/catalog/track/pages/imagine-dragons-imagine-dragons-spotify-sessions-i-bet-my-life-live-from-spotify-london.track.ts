@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsSpotifySessionsIBetMyLifeLiveFromSpotif
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-spotify-sessions-i-bet-my-life-live-from-spotify-london",
   ownLength: 3.8056666666666668,
-  ownProgress: 0,
+  ownProgress: 3.8056666666666668,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

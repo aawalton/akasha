@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTattooedHeart = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tattooed-heart",
   ownLength: 3.2451,
-  ownProgress: 0,
+  ownProgress: 3.2451,
   partOfCollections: ["release/ariana-grande-yours-truly"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

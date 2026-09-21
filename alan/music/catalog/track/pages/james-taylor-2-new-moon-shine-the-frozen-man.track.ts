@@ -5,10 +5,10 @@ export const jamesTaylor2NewMoonShineTheFrozenMan = {
   type: "page-type/track",
   slug: "james-taylor-2-new-moon-shine-the-frozen-man",
   ownLength: 3.904,
-  ownProgress: 0,
+  ownProgress: 3.904,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3SoFarSoGoodTitaniumPavane = {
   type: "page-type/track",
   slug: "the-piano-guys-3-so-far-so-good-titanium-pavane",
   ownLength: 4.841583333333333,
-  ownProgress: 0,
+  ownProgress: 4.841583333333333,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

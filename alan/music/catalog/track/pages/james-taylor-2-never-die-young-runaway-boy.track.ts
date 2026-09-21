@@ -5,10 +5,10 @@ export const jamesTaylor2NeverDieYoungRunawayBoy = {
   type: "page-type/track",
   slug: "james-taylor-2-never-die-young-runaway-boy",
   ownLength: 4.26555,
-  ownProgress: 0,
+  ownProgress: 4.26555,
   partOfCollections: ["release/james-taylor-2-never-die-young"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

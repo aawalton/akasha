@@ -5,10 +5,10 @@ export const jamesTaylor2CoversHoundDog = {
   type: "page-type/track",
   slug: "james-taylor-2-covers-hound-dog",
   ownLength: 3.050883333333333,
-  ownProgress: 0,
+  ownProgress: 3.050883333333333,
   partOfCollections: ["release/james-taylor-2-covers"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

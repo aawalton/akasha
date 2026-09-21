@@ -5,10 +5,10 @@ export const paulCardallSavingTinyHeartsGraciesTheme = {
   type: "page-type/track",
   slug: "paul-cardall-saving-tiny-hearts-gracies-theme",
   ownLength: 4.637766666666667,
-  ownProgress: 0,
+  ownProgress: 4.637766666666667,
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaProspektSMarchEditionLifeInTechnicolor = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-prospekt-s-march-edition-life-in-technicolor",
   ownLength: 2.48555,
-  ownProgress: 0,
+  ownProgress: 2.48555,
   partOfCollections: ["release/coldplay-viva-la-vida-prospekt-s-march-edition"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

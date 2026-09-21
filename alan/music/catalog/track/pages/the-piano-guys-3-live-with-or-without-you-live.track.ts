@@ -5,10 +5,10 @@ export const thePianoGuys3LiveWithOrWithoutYouLive = {
   type: "page-type/track",
   slug: "the-piano-guys-3-live-with-or-without-you-live",
   ownLength: 4.890666666666666,
-  ownProgress: 0,
+  ownProgress: 4.890666666666666,
   partOfCollections: ["release/the-piano-guys-3-live"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

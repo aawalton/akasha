@@ -5,10 +5,10 @@ export const emeiLateToThePartyLateToTheParty = {
   type: "page-type/track",
   slug: "emei-late-to-the-party-late-to-the-party",
   ownLength: 2.952933333333333,
-  ownProgress: 0,
+  ownProgress: 2.952933333333333,
   partOfCollections: ["release/emei-late-to-the-party"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

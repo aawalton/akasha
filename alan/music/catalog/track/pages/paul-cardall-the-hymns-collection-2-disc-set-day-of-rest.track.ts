@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetDayOfRest = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-day-of-rest",
   ownLength: 2.6583833333333335,
-  ownProgress: 0,
+  ownProgress: 2.6583833333333335,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

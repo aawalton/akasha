@@ -5,10 +5,10 @@ export const paulCardallGraceInGriefMountainMinuet = {
   type: "page-type/track",
   slug: "paul-cardall-grace-in-grief-mountain-minuet",
   ownLength: 4.0867,
-  ownProgress: 0,
+  ownProgress: 4.0867,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

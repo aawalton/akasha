@@ -5,10 +5,10 @@ export const imagineDragonsEnemyFromTheSeriesArcaneLeagueOfLegendsEnemyFromTheSe
   type: "page-type/track",
   slug: "imagine-dragons-enemy-from-the-series-arcane-league-of-legends-enemy-from-the-series-arcane-league",
   ownLength: 2.889683333333333,
-  ownProgress: 0,
+  ownProgress: 2.889683333333333,
   partOfCollections: ["release/imagine-dragons-enemy-from-the-series-arcane-league-of-legends"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3PopOnPianoASkyFullOfStars = {
   type: "page-type/track",
   slug: "the-piano-guys-3-pop-on-piano-a-sky-full-of-stars",
   ownLength: 4.0909,
-  ownProgress: 0,
+  ownProgress: 4.0909,
   partOfCollections: ["release/the-piano-guys-3-pop-on-piano"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

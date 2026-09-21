@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlSummerEditionNeverForgetYouOrchestralVersion =
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-summer-edition-never-forget-you-orchestral-version",
   ownLength: 3.82675,
-  ownProgress: 0,
+  ownProgress: 3.82675,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

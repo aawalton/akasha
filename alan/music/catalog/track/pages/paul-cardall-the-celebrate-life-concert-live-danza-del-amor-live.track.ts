@@ -5,10 +5,10 @@ export const paulCardallTheCelebrateLifeConcertLiveDanzaDelAmorLive = {
   type: "page-type/track",
   slug: "paul-cardall-the-celebrate-life-concert-live-danza-del-amor-live",
   ownLength: 4.071633333333334,
-  ownProgress: 0,
+  ownProgress: 4.071633333333334,
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

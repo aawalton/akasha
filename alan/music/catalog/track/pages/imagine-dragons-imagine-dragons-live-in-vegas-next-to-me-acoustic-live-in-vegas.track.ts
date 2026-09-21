@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsLiveInVegasNextToMeAcousticLiveInVegas 
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-live-in-vegas-next-to-me-acoustic-live-in-vegas",
   ownLength: 3.90285,
-  ownProgress: 0,
+  ownProgress: 3.90285,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

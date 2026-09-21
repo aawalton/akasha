@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022ThisIsACoat = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-this-is-a-coat",
   ownLength: 3.3308,
-  ownProgress: 0,
+  ownProgress: 3.3308,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

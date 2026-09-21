@@ -5,10 +5,10 @@ export const paulCardallLiveDavesFarewellLive = {
   type: "page-type/track",
   slug: "paul-cardall-live-daves-farewell-live",
   ownLength: 3.59555,
-  ownProgress: 0,
+  ownProgress: 3.59555,
   partOfCollections: ["release/paul-cardall-live"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsDemonsDemonsAcousticLiveInLondon = {
   type: "page-type/track",
   slug: "imagine-dragons-demons-demons-acoustic-live-in-london",
   ownLength: 3.129766666666667,
-  ownProgress: 0,
+  ownProgress: 3.129766666666667,
   partOfCollections: ["release/imagine-dragons-demons"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

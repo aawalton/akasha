@@ -5,10 +5,10 @@ export const coldplayTrueLoveDavideRossiRemixTrueLoveDavideRossiRemix = {
   type: "page-type/track",
   slug: "coldplay-true-love-davide-rossi-remix-true-love-davide-rossi-remix",
   ownLength: 4.695833333333334,
-  ownProgress: 0,
+  ownProgress: 4.695833333333334,
   partOfCollections: ["release/coldplay-true-love-davide-rossi-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysTruthReflectsUponOurSenses = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-truth-reflects-upon-our-senses",
   ownLength: 1.4666666666666666,
-  ownProgress: 0,
+  ownProgress: 1.4666666666666666,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 37,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallReturnHomeRedPoppyFields = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-red-poppy-fields",
   ownLength: 4.00485,
-  ownProgress: 0,
+  ownProgress: 4.00485,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

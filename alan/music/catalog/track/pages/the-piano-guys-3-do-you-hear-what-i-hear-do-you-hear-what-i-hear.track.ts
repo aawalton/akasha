@@ -5,10 +5,10 @@ export const thePianoGuys3DoYouHearWhatIHearDoYouHearWhatIHear = {
   type: "page-type/track",
   slug: "the-piano-guys-3-do-you-hear-what-i-hear-do-you-hear-what-i-hear",
   ownLength: 3.33695,
-  ownProgress: 0,
+  ownProgress: 3.33695,
   partOfCollections: ["release/the-piano-guys-3-do-you-hear-what-i-hear"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const billieEilishGuitarSongsThe30th = {
   type: "page-type/track",
   slug: "billie-eilish-guitar-songs-the-30th",
   ownLength: 3.607466666666667,
-  ownProgress: 0,
+  ownProgress: 3.607466666666667,
   partOfCollections: ["release/billie-eilish-guitar-songs"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

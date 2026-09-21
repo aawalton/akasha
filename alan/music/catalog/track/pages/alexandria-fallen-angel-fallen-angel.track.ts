@@ -5,10 +5,10 @@ export const alexandriaFallenAngelFallenAngel = {
   type: "page-type/track",
   slug: "alexandria-fallen-angel-fallen-angel",
   ownLength: 2.7624,
-  ownProgress: 0,
+  ownProgress: 2.7624,
   partOfCollections: ["release/alexandria-fallen-angel"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

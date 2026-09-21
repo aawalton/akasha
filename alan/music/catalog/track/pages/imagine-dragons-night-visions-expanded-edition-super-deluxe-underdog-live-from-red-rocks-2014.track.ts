@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeUnderdogLiveFro
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-underdog-live-from-red-rocks-2014",
   ownLength: 4.293333333333333,
-  ownProgress: 0,
+  ownProgress: 4.293333333333333,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

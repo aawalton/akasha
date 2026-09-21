@@ -5,10 +5,10 @@ export const sabrinaCarpenterFruitcakeIsItNewYearsYet = {
   type: "page-type/track",
   slug: "sabrina-carpenter-fruitcake-is-it-new-years-yet",
   ownLength: 2.643,
-  ownProgress: 0,
+  ownProgress: 2.643,
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

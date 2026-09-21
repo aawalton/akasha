@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveYouveGotAFriendLive = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-youve-got-a-friend-live",
   ownLength: 5.146216666666667,
-  ownProgress: 0,
+  ownProgress: 5.146216666666667,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

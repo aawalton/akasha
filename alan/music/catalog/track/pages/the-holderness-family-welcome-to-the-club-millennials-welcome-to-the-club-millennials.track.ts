@@ -5,10 +5,10 @@ export const theHoldernessFamilyWelcomeToTheClubMillennialsWelcomeToTheClubMille
   type: "page-type/track",
   slug: "the-holderness-family-welcome-to-the-club-millennials-welcome-to-the-club-millennials",
   ownLength: 2.648416666666667,
-  ownProgress: 0,
+  ownProgress: 2.648416666666667,
   partOfCollections: ["release/the-holderness-family-welcome-to-the-club-millennials"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

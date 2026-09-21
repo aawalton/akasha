@@ -5,10 +5,10 @@ export const thePianoGuys3ChillSomeoneLikeYou = {
   type: "page-type/track",
   slug: "the-piano-guys-3-chill-someone-like-you",
   ownLength: 3.9826166666666665,
-  ownProgress: 0,
+  ownProgress: 3.9826166666666665,
   partOfCollections: ["release/the-piano-guys-3-chill"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

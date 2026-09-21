@@ -5,10 +5,10 @@ export const coldplayGhostStoriesAnothersArms = {
   type: "page-type/track",
   slug: "coldplay-ghost-stories-anothers-arms",
   ownLength: 3.9068833333333335,
-  ownProgress: 0,
+  ownProgress: 3.9068833333333335,
   partOfCollections: ["release/coldplay-ghost-stories"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

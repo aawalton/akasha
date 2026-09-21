@@ -5,10 +5,10 @@ export const celticWoman2BelieveBridgeOverTroubledWater = {
   type: "page-type/track",
   slug: "celtic-woman-2-believe-bridge-over-troubled-water",
   ownLength: 4.054666666666667,
-  ownProgress: 0,
+  ownProgress: 4.054666666666667,
   partOfCollections: ["release/celtic-woman-2-believe"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

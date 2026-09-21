@@ -5,10 +5,10 @@ export const thePianoGuys3LimitlessAMillionDreams = {
   type: "page-type/track",
   slug: "the-piano-guys-3-limitless-a-million-dreams",
   ownLength: 4.76395,
-  ownProgress: 0,
+  ownProgress: 4.76395,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

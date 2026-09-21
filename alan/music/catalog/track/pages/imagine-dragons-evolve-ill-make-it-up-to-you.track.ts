@@ -5,10 +5,10 @@ export const imagineDragonsEvolveIllMakeItUpToYou = {
   type: "page-type/track",
   slug: "imagine-dragons-evolve-ill-make-it-up-to-you",
   ownLength: 4.376666666666667,
-  ownProgress: 0,
+  ownProgress: 4.376666666666667,
   partOfCollections: ["release/imagine-dragons-evolve"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsChaChingTillWeGrowOlder = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-cha-ching-till-we-grow-older",
   ownLength: 4.1466666666666665,
-  ownProgress: 0,
+  ownProgress: 4.1466666666666665,
   partOfCollections: ["release/imagine-dragons-night-visions"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

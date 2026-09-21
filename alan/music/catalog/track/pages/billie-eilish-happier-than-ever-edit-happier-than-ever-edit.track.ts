@@ -5,10 +5,10 @@ export const billieEilishHappierThanEverEditHappierThanEverEdit = {
   type: "page-type/track",
   slug: "billie-eilish-happier-than-ever-edit-happier-than-ever-edit",
   ownLength: 2.5240666666666667,
-  ownProgress: 0,
+  ownProgress: 2.5240666666666667,
   partOfCollections: ["release/billie-eilish-happier-than-ever-edit"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

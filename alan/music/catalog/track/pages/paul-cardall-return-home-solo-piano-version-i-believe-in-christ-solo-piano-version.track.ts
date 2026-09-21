@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionIBelieveInChristSoloPianoVersi
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-i-believe-in-christ-solo-piano-version",
   ownLength: 4.053933333333333,
-  ownProgress: 0,
+  ownProgress: 4.053933333333333,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

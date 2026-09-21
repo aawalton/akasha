@@ -5,10 +5,10 @@ export const coldplayTheBlueRoomHighSpeed = {
   type: "page-type/track",
   slug: "coldplay-the-blue-room-high-speed",
   ownLength: 4.2744333333333335,
-  ownProgress: 0,
+  ownProgress: 4.2744333333333335,
   partOfCollections: ["release/coldplay-the-blue-room"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

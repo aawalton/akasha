@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassHangnail = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-hangnail",
   ownLength: 2.35555,
-  ownProgress: 0,
+  ownProgress: 2.35555,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

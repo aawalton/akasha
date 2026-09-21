@@ -5,10 +5,10 @@ export const coldplayVioletHillVioletHill = {
   type: "page-type/track",
   slug: "coldplay-violet-hill-violet-hill",
   ownLength: 3.7108833333333333,
-  ownProgress: 0,
+  ownProgress: 3.7108833333333333,
   partOfCollections: ["release/coldplay-violet-hill"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

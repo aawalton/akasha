@@ -5,10 +5,10 @@ export const thePianoGuys3ChillMyGirl = {
   type: "page-type/track",
   slug: "the-piano-guys-3-chill-my-girl",
   ownLength: 3.9403,
-  ownProgress: 0,
+  ownProgress: 3.9403,
   partOfCollections: ["release/the-piano-guys-3-chill"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

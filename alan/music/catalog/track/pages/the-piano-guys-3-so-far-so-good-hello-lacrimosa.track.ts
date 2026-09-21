@@ -5,10 +5,10 @@ export const thePianoGuys3SoFarSoGoodHelloLacrimosa = {
   type: "page-type/track",
   slug: "the-piano-guys-3-so-far-so-good-hello-lacrimosa",
   ownLength: 3.860316666666667,
-  ownProgress: 0,
+  ownProgress: 3.860316666666667,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

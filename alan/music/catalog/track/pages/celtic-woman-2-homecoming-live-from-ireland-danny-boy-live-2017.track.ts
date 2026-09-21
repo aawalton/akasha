@@ -5,10 +5,10 @@ export const celticWoman2HomecomingLiveFromIrelandDannyBoyLive2017 = {
   type: "page-type/track",
   slug: "celtic-woman-2-homecoming-live-from-ireland-danny-boy-live-2017",
   ownLength: 3.6551,
-  ownProgress: 0,
+  ownProgress: 3.6551,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterFruitcakeSantaDoesntKnowYouLikeIDo = {
   type: "page-type/track",
   slug: "sabrina-carpenter-fruitcake-santa-doesnt-know-you-like-i-do",
   ownLength: 3.16255,
-  ownProgress: 0,
+  ownProgress: 3.16255,
   partOfCollections: ["release/sabrina-carpenter-fruitcake"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

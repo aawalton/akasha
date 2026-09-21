@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlTalkAboutLoveFeatYoungThug = {
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-talk-about-love-feat-young-thug",
   ownLength: 3.3295666666666666,
-  ownProgress: 0,
+  ownProgress: 3.3295666666666666,
   partOfCollections: ["release/zara-larsson-poster-girl"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

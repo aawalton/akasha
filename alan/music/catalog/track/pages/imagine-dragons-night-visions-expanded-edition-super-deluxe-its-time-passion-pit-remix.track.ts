@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimePassionP
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-its-time-passion-pit-remix",
   ownLength: 4.522883333333334,
-  ownProgress: 0,
+  ownProgress: 4.522883333333334,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

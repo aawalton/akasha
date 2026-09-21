@@ -5,10 +5,10 @@ export const arianaGrandePositionsWestSide = {
   type: "page-type/track",
   slug: "ariana-grande-positions-west-side",
   ownLength: 2.2046333333333332,
-  ownProgress: 0,
+  ownProgress: 2.2046333333333332,
   partOfCollections: ["release/ariana-grande-positions"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

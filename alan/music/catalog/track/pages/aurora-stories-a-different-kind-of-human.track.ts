@@ -5,10 +5,10 @@ export const auroraStoriesADifferentKindOfHuman = {
   type: "page-type/track",
   slug: "aurora-stories-a-different-kind-of-human",
   ownLength: 4.018416666666667,
-  ownProgress: 0,
+  ownProgress: 4.018416666666667,
   partOfCollections: ["release/aurora-stories"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

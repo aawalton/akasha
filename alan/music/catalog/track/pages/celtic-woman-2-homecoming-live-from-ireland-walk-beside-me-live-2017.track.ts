@@ -5,10 +5,10 @@ export const celticWoman2HomecomingLiveFromIrelandWalkBesideMeLive2017 = {
   type: "page-type/track",
   slug: "celtic-woman-2-homecoming-live-from-ireland-walk-beside-me-live-2017",
   ownLength: 4.437333333333333,
-  ownProgress: 0,
+  ownProgress: 4.437333333333333,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

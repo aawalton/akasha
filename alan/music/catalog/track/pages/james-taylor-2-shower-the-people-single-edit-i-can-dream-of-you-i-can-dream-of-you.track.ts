@@ -5,10 +5,10 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYouICanDreamOfYou =
   type: "page-type/track",
   slug: "james-taylor-2-shower-the-people-single-edit-i-can-dream-of-you-i-can-dream-of-you",
   ownLength: 3.306216666666667,
-  ownProgress: 0,
+  ownProgress: 3.306216666666667,
   partOfCollections: ["release/james-taylor-2-shower-the-people-single-edit-i-can-dream-of-you"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

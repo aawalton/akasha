@@ -5,10 +5,10 @@ export const zaraLarssonMidnightSunBundleMidnightSunLive = {
   type: "page-type/track",
   slug: "zara-larsson-midnight-sun-bundle-midnight-sun-live",
   ownLength: 3.9801166666666665,
-  ownProgress: 0,
+  ownProgress: 3.9801166666666665,
   partOfCollections: ["release/zara-larsson-midnight-sun-bundle"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

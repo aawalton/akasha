@@ -5,10 +5,10 @@ export const celticWoman2RedIsTheRoseRedIsTheRose = {
   type: "page-type/track",
   slug: "celtic-woman-2-red-is-the-rose-red-is-the-rose",
   ownLength: 3.5791666666666666,
-  ownProgress: 0,
+  ownProgress: 3.5791666666666666,
   partOfCollections: ["release/celtic-woman-2-red-is-the-rose"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

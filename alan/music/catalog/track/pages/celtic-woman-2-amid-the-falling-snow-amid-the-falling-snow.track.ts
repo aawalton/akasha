@@ -5,10 +5,10 @@ export const celticWoman2AmidTheFallingSnowAmidTheFallingSnow = {
   type: "page-type/track",
   slug: "celtic-woman-2-amid-the-falling-snow-amid-the-falling-snow",
   ownLength: 3.7171,
-  ownProgress: 0,
+  ownProgress: 3.7171,
   partOfCollections: ["release/celtic-woman-2-amid-the-falling-snow"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

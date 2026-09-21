@@ -5,10 +5,10 @@ export const billieEilishHitMeHardAndSoftWildflower = {
   type: "page-type/track",
   slug: "billie-eilish-hit-me-hard-and-soft-wildflower",
   ownLength: 4.357766666666667,
-  ownProgress: 0,
+  ownProgress: 4.357766666666667,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

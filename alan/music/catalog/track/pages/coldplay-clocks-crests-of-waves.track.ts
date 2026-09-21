@@ -5,10 +5,10 @@ export const coldplayClocksCrestsOfWaves = {
   type: "page-type/track",
   slug: "coldplay-clocks-crests-of-waves",
   ownLength: 3.6637666666666666,
-  ownProgress: 0,
+  ownProgress: 3.6637666666666666,
   partOfCollections: ["release/coldplay-clocks"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

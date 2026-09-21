@@ -5,10 +5,10 @@ export const jamesTaylor2NewMoonShineCopperline = {
   type: "page-type/track",
   slug: "james-taylor-2-new-moon-shine-copperline",
   ownLength: 4.354416666666666,
-  ownProgress: 0,
+  ownProgress: 4.354416666666666,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

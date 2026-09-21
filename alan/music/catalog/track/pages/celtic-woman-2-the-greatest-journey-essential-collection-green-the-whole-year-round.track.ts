@@ -5,10 +5,10 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionGreenTheWholeYearR
   type: "page-type/track",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection-green-the-whole-year-round",
   ownLength: 4.778883333333333,
-  ownProgress: 0,
+  ownProgress: 4.778883333333333,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

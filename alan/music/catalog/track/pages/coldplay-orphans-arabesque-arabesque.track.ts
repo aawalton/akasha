@@ -5,10 +5,10 @@ export const coldplayOrphansArabesqueArabesque = {
   type: "page-type/track",
   slug: "coldplay-orphans-arabesque-arabesque",
   ownLength: 5.671333333333333,
-  ownProgress: 0,
+  ownProgress: 5.671333333333333,
   partOfCollections: ["release/coldplay-orphans-arabesque"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraTheWomanIAmAcousticTheWomanIAmAcoustic = {
   type: "page-type/track",
   slug: "aurora-the-woman-i-am-acoustic-the-woman-i-am-acoustic",
   ownLength: 3.513333333333333,
-  ownProgress: 0,
+  ownProgress: 3.513333333333333,
   partOfCollections: ["release/aurora-the-woman-i-am-acoustic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallGraceInGriefMourningLight = {
   type: "page-type/track",
   slug: "paul-cardall-grace-in-grief-mourning-light",
   ownLength: 3.85,
-  ownProgress: 0,
+  ownProgress: 3.85,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

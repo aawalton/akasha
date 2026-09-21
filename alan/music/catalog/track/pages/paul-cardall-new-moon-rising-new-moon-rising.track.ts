@@ -5,10 +5,10 @@ export const paulCardallNewMoonRisingNewMoonRising = {
   type: "page-type/track",
   slug: "paul-cardall-new-moon-rising-new-moon-rising",
   ownLength: 3.62155,
-  ownProgress: 0,
+  ownProgress: 3.62155,
   partOfCollections: ["release/paul-cardall-new-moon-rising"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionReturnHomeSoloPianoVersion = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-return-home-solo-piano-version",
   ownLength: 2.575,
-  ownProgress: 0,
+  ownProgress: 2.575,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const vinnyMarchiTalesOfTheLesbianHunterJonnyRifePulledAKnife = {
   type: "page-type/track",
   slug: "vinny-marchi-tales-of-the-lesbian-hunter-jonny-rife-pulled-a-knife",
   ownLength: 3.0166666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0166666666666666,
   partOfCollections: ["release/vinny-marchi-tales-of-the-lesbian-hunter"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

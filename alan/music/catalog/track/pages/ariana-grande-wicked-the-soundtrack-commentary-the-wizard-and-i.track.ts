@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndI = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-the-wizard-and-i",
   ownLength: 5.6143,
-  ownProgress: 0,
+  ownProgress: 5.6143,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

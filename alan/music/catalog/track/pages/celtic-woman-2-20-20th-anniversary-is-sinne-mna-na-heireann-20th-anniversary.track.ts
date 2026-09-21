@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversaryIsSinneMnaNaHeireann20thAnniversary = 
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-is-sinne-mna-na-heireann-20th-anniversary",
   ownLength: 3.354,
-  ownProgress: 0,
+  ownProgress: 3.354,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

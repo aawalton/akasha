@@ -5,10 +5,10 @@ export const vinnyMarchiMyJollySailorBoldMyJollySailorBold = {
   type: "page-type/track",
   slug: "vinny-marchi-my-jolly-sailor-bold-my-jolly-sailor-bold",
   ownLength: 3.6043333333333334,
-  ownProgress: 0,
+  ownProgress: 3.6043333333333334,
   partOfCollections: ["release/vinny-marchi-my-jolly-sailor-bold"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

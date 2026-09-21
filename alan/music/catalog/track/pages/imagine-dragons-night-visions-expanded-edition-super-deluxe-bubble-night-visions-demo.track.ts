@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeBubbleNightVisi
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-bubble-night-visions-demo",
   ownLength: 3.3783,
-  ownProgress: 0,
+  ownProgress: 3.3783,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallLivingForEdenSearchingForHome = {
   type: "page-type/track",
   slug: "paul-cardall-living-for-eden-searching-for-home",
   ownLength: 5.014666666666667,
-  ownProgress: 0,
+  ownProgress: 5.014666666666667,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

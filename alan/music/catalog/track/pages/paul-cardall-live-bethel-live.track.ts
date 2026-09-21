@@ -5,10 +5,10 @@ export const paulCardallLiveBethelLive = {
   type: "page-type/track",
   slug: "paul-cardall-live-bethel-live",
   ownLength: 2.80555,
-  ownProgress: 0,
+  ownProgress: 2.80555,
   partOfCollections: ["release/paul-cardall-live"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

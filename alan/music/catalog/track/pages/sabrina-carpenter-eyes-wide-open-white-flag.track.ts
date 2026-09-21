@@ -5,10 +5,10 @@ export const sabrinaCarpenterEyesWideOpenWhiteFlag = {
   type: "page-type/track",
   slug: "sabrina-carpenter-eyes-wide-open-white-flag",
   ownLength: 3.306433333333333,
-  ownProgress: 0,
+  ownProgress: 3.306433333333333,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

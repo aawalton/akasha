@@ -5,10 +5,10 @@ export const arianaGrandeSweetenerNoTearsLeftToCry = {
   type: "page-type/track",
   slug: "ariana-grande-sweetener-no-tears-left-to-cry",
   ownLength: 3.432,
-  ownProgress: 0,
+  ownProgress: 3.432,
   partOfCollections: ["release/ariana-grande-sweetener"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

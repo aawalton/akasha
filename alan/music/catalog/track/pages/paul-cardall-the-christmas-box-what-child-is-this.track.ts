@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxWhatChildIsThis = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-what-child-is-this",
   ownLength: 3.12155,
-  ownProgress: 0,
+  ownProgress: 3.12155,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

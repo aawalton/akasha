@@ -5,10 +5,10 @@ export const celticWoman2VoicesOfAngelsMoGhileMearMyGallantStar = {
   type: "page-type/track",
   slug: "celtic-woman-2-voices-of-angels-mo-ghile-mear-my-gallant-star",
   ownLength: 3.6148833333333332,
-  ownProgress: 0,
+  ownProgress: 3.6148833333333332,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

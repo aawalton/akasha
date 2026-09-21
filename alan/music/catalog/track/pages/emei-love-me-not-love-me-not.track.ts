@@ -5,10 +5,10 @@ export const emeiLoveMeNotLoveMeNot = {
   type: "page-type/track",
   slug: "emei-love-me-not-love-me-not",
   ownLength: 2.33925,
-  ownProgress: 0,
+  ownProgress: 2.33925,
   partOfCollections: ["release/emei-love-me-not"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

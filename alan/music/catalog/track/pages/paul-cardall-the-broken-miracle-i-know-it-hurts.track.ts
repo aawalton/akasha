@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleIKnowItHurts = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-i-know-it-hurts",
   ownLength: 3.6986666666666665,
-  ownProgress: 0,
+  ownProgress: 3.6986666666666665,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const musicalTheaterWickedTheSoundtrackPopular = {
   type: "page-type/track",
   slug: "musical-theater-wicked-the-soundtrack-popular",
   ownLength: 4.025016666666667,
-  ownProgress: 0,
+  ownProgress: 4.025016666666667,
   partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

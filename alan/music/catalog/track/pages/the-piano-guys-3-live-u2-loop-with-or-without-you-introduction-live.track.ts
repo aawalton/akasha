@@ -5,10 +5,10 @@ export const thePianoGuys3LiveU2LoopWithOrWithoutYouIntroductionLive = {
   type: "page-type/track",
   slug: "the-piano-guys-3-live-u2-loop-with-or-without-you-introduction-live",
   ownLength: 0.6697666666666666,
-  ownProgress: 0,
+  ownProgress: 0.6697666666666666,
   partOfCollections: ["release/the-piano-guys-3-live"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraMusicForTheFellowWitchesOutThereSoullessCreatures = {
   type: "page-type/track",
   slug: "aurora-music-for-the-fellow-witches-out-there-soulless-creatures",
   ownLength: 5.034083333333333,
-  ownProgress: 0,
+  ownProgress: 5.034083333333333,
   partOfCollections: ["release/aurora-music-for-the-fellow-witches-out-there"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

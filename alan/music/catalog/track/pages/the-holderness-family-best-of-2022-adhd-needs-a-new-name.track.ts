@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022AdhdNeedsANewName = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-adhd-needs-a-new-name",
   ownLength: 2.4976,
-  ownProgress: 0,
+  ownProgress: 2.4976,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

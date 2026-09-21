@@ -5,10 +5,10 @@ export const arianaGrandeKByeForNowSwtLiveBreakUpWithYourGirlfriendImBoredLive =
   type: "page-type/track",
   slug: "ariana-grande-k-bye-for-now-swt-live-break-up-with-your-girlfriend-im-bored-live",
   ownLength: 3.7312,
-  ownProgress: 0,
+  ownProgress: 3.7312,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

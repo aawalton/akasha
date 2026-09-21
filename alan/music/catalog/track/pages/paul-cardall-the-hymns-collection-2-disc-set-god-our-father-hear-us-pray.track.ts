@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetGodOurFatherHearUsPray = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-god-our-father-hear-us-pray",
   ownLength: 3.023233333333333,
-  ownProgress: 0,
+  ownProgress: 3.023233333333333,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 22,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

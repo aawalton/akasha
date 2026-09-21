@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sMyWifesOnAHealthyDiet = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-my-wifes-on-a-healthy-diet",
   ownLength: 2.4964333333333335,
-  ownProgress: 0,
+  ownProgress: 2.4964333333333335,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

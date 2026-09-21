@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetDeluxeSharpestTool = {
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-deluxe-sharpest-tool",
   ownLength: 3.638,
-  ownProgress: 0,
+  ownProgress: 3.638,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet-deluxe"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

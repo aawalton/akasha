@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuys2LordOfTheRings = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-2-lord-of-the-rings",
   ownLength: 5.65625,
-  ownProgress: 0,
+  ownProgress: 5.65625,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

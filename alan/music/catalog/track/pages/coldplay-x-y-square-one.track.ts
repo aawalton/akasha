@@ -5,10 +5,10 @@ export const coldplayXYSquareOne = {
   type: "page-type/track",
   slug: "coldplay-x-y-square-one",
   ownLength: 4.7939,
-  ownProgress: 0,
+  ownProgress: 4.7939,
   partOfCollections: ["release/coldplay-x-y"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

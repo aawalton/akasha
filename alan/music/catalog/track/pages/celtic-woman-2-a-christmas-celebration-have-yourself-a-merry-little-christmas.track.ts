@@ -5,10 +5,10 @@ export const celticWoman2AChristmasCelebrationHaveYourselfAMerryLittleChristmas 
   type: "page-type/track",
   slug: "celtic-woman-2-a-christmas-celebration-have-yourself-a-merry-little-christmas",
   ownLength: 2.45755,
-  ownProgress: 0,
+  ownProgress: 2.45755,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

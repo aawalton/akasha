@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyTheSkyAndTheDawnAndTheSun = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-the-sky-and-the-dawn-and-the-sun",
   ownLength: 5.328433333333333,
-  ownProgress: 0,
+  ownProgress: 5.328433333333333,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

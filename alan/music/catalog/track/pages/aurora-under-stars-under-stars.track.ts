@@ -5,10 +5,10 @@ export const auroraUnderStarsUnderStars = {
   type: "page-type/track",
   slug: "aurora-under-stars-under-stars",
   ownLength: 3.3171,
-  ownProgress: 0,
+  ownProgress: 3.3171,
   partOfCollections: ["release/aurora-under-stars"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

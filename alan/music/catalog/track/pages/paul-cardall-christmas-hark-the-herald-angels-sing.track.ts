@@ -5,10 +5,10 @@ export const paulCardallChristmasHarkTheHeraldAngelsSing = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hark-the-herald-angels-sing",
   ownLength: 3.7,
-  ownProgress: 0,
+  ownProgress: 3.7,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

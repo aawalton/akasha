@@ -5,10 +5,10 @@ export const celticWoman2ChristmasCardsFromIrelandISawThreeShips = {
   type: "page-type/track",
   slug: "celtic-woman-2-christmas-cards-from-ireland-i-saw-three-ships",
   ownLength: 2.9728833333333333,
-  ownProgress: 0,
+  ownProgress: 2.9728833333333333,
   partOfCollections: ["release/celtic-woman-2-christmas-cards-from-ireland"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

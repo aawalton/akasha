@@ -5,10 +5,10 @@ export const paulCardallHymnsVol2GodOurFatherHearUsPray = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-vol-2-god-our-father-hear-us-pray",
   ownLength: 2.9891,
-  ownProgress: 0,
+  ownProgress: 2.9891,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

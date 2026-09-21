@@ -5,10 +5,10 @@ export const vinnyMarchiTheDragonbornComesTheDragonbornComes = {
   type: "page-type/track",
   slug: "vinny-marchi-the-dragonborn-comes-the-dragonborn-comes",
   ownLength: 3.4724333333333335,
-  ownProgress: 0,
+  ownProgress: 3.4724333333333335,
   partOfCollections: ["release/vinny-marchi-the-dragonborn-comes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

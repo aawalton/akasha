@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyGranuailesDance = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-granuailes-dance",
   ownLength: 3.6693333333333333,
-  ownProgress: 0,
+  ownProgress: 3.6693333333333333,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

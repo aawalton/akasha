@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsKidinakor
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-demons-kidinakorner-remix",
   ownLength: 3.3491,
-  ownProgress: 0,
+  ownProgress: 3.3491,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

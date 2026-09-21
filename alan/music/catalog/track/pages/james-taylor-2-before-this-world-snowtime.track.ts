@@ -5,10 +5,10 @@ export const jamesTaylor2BeforeThisWorldSnowtime = {
   type: "page-type/track",
   slug: "james-taylor-2-before-this-world-snowtime",
   ownLength: 5.8091,
-  ownProgress: 0,
+  ownProgress: 5.8091,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

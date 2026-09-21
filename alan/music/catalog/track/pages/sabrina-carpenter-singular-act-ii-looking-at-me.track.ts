@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActIiLookingAtMe = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-ii-looking-at-me",
   ownLength: 3.018666666666667,
-  ownProgress: 0,
+  ownProgress: 3.018666666666667,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

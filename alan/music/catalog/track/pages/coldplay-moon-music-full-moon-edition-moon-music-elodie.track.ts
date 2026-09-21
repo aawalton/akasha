@@ -5,10 +5,10 @@ export const coldplayMoonMusicFullMoonEditionMoonMusicElodie = {
   type: "page-type/track",
   slug: "coldplay-moon-music-full-moon-edition-moon-music-elodie",
   ownLength: 2.7697166666666666,
-  ownProgress: 0,
+  ownProgress: 2.7697166666666666,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

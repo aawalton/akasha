@@ -5,10 +5,10 @@ export const paulCardallMiraclesAJourneyOfHopeHealingSequoiasPath = {
   type: "page-type/track",
   slug: "paul-cardall-miracles-a-journey-of-hope-healing-sequoias-path",
   ownLength: 3.758,
-  ownProgress: 0,
+  ownProgress: 3.758,
   partOfCollections: ["release/paul-cardall-miracles-a-journey-of-hope-healing"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

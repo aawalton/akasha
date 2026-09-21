@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysWithoutYou = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-without-you",
   ownLength: 3.64355,
-  ownProgress: 0,
+  ownProgress: 3.64355,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

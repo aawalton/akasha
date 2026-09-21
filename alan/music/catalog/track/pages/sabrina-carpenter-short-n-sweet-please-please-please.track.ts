@@ -5,10 +5,10 @@ export const sabrinaCarpenterShortNSweetPleasePleasePlease = {
   type: "page-type/track",
   slug: "sabrina-carpenter-short-n-sweet-please-please-please",
   ownLength: 3.1060833333333333,
-  ownProgress: 0,
+  ownProgress: 3.1060833333333333,
   partOfCollections: ["release/sabrina-carpenter-short-n-sweet"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

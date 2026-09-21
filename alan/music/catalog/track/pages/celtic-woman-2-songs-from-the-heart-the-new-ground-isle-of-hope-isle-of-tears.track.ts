@@ -5,10 +5,10 @@ export const celticWoman2SongsFromTheHeartTheNewGroundIsleOfHopeIsleOfTears = {
   type: "page-type/track",
   slug: "celtic-woman-2-songs-from-the-heart-the-new-ground-isle-of-hope-isle-of-tears",
   ownLength: 6.6882166666666665,
-  ownProgress: 0,
+  ownProgress: 6.6882166666666665,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

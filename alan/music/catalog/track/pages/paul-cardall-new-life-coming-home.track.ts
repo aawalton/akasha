@@ -5,10 +5,10 @@ export const paulCardallNewLifeComingHome = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-coming-home",
   ownLength: 2.102,
-  ownProgress: 0,
+  ownProgress: 2.102,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

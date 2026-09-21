@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeart = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-tattooed-heart",
   ownLength: 3.2451166666666666,
-  ownProgress: 0,
+  ownProgress: 3.2451166666666666,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

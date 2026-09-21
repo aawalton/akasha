@@ -5,10 +5,10 @@ export const coldplayTrueLoveTrueLove = {
   type: "page-type/track",
   slug: "coldplay-true-love-true-love",
   ownLength: 4.1,
-  ownProgress: 0,
+  ownProgress: 4.1,
   partOfCollections: ["release/coldplay-true-love"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

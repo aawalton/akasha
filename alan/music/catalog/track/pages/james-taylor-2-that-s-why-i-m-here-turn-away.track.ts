@@ -5,10 +5,10 @@ export const jamesTaylor2ThatSWhyIMHereTurnAway = {
   type: "page-type/track",
   slug: "james-taylor-2-that-s-why-i-m-here-turn-away",
   ownLength: 3.37,
-  ownProgress: 0,
+  ownProgress: 3.37,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

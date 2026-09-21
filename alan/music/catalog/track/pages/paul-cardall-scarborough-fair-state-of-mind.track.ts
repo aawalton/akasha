@@ -5,10 +5,10 @@ export const paulCardallScarboroughFairStateOfMind = {
   type: "page-type/track",
   slug: "paul-cardall-scarborough-fair-state-of-mind",
   ownLength: 4.232266666666667,
-  ownProgress: 0,
+  ownProgress: 4.232266666666667,
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

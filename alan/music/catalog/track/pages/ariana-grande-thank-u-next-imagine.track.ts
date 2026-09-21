@@ -5,10 +5,10 @@ export const arianaGrandeThankUNextImagine = {
   type: "page-type/track",
   slug: "ariana-grande-thank-u-next-imagine",
   ownLength: 3.5377666666666667,
-  ownProgress: 0,
+  ownProgress: 3.5377666666666667,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

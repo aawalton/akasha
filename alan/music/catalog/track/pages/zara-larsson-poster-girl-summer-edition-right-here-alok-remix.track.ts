@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlSummerEditionRightHereAlokRemix = {
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-summer-edition-right-here-alok-remix",
   ownLength: 2.5833333333333335,
-  ownProgress: 0,
+  ownProgress: 2.5833333333333335,
   partOfCollections: ["release/zara-larsson-poster-girl-summer-edition"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

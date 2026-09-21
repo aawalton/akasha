@@ -5,10 +5,10 @@ export const coldplayWePrayTiniVersionWePraySingleVersion = {
   type: "page-type/track",
   slug: "coldplay-we-pray-tini-version-we-pray-single-version",
   ownLength: 3.8901,
-  ownProgress: 0,
+  ownProgress: 3.8901,
   partOfCollections: ["release/coldplay-we-pray-tini-version"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

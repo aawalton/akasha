@@ -5,12 +5,12 @@ export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCShar
   type: "page-type/track",
   slug: "the-piano-guys-3-rock-meets-rachmaninoff-after-s-rachmaninoff-s-prelude-in-c-sharp-minor-op-3-rock",
   ownLength: 3.41355,
-  ownProgress: 0,
+  ownProgress: 3.41355,
   partOfCollections: [
     "release/the-piano-guys-3-rock-meets-rachmaninoff-after-s-rachmaninoff-s-prelude-in-c-sharp-minor-op-3",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

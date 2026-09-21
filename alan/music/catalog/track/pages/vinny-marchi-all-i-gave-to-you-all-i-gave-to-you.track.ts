@@ -5,10 +5,10 @@ export const vinnyMarchiAllIGaveToYouAllIGaveToYou = {
   type: "page-type/track",
   slug: "vinny-marchi-all-i-gave-to-you-all-i-gave-to-you",
   ownLength: 3.4268666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4268666666666667,
   partOfCollections: ["release/vinny-marchi-all-i-gave-to-you"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

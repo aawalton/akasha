@@ -5,10 +5,10 @@ export const zaraLarssonBadBoysTodayRemixBadBoysTodayRemix = {
   type: "page-type/track",
   slug: "zara-larsson-bad-boys-today-remix-bad-boys-today-remix",
   ownLength: 2.592,
-  ownProgress: 0,
+  ownProgress: 2.592,
   partOfCollections: ["release/zara-larsson-bad-boys-today-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const vinnyMarchiIHeardMrRamoneIHeardMrRamone = {
   type: "page-type/track",
   slug: "vinny-marchi-i-heard-mr-ramone-i-heard-mr-ramone",
   ownLength: 3.50075,
-  ownProgress: 0,
+  ownProgress: 3.50075,
   partOfCollections: ["release/vinny-marchi-i-heard-mr-ramone"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

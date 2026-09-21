@@ -5,10 +5,10 @@ export const sabrinaCarpenterHoneymoonFadesHoneymoonFades = {
   type: "page-type/track",
   slug: "sabrina-carpenter-honeymoon-fades-honeymoon-fades",
   ownLength: 3.252683333333333,
-  ownProgress: 0,
+  ownProgress: 3.252683333333333,
   partOfCollections: ["release/sabrina-carpenter-honeymoon-fades"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

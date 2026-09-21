@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionWhyTry = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-why-try",
   ownLength: 3.5311833333333333,
-  ownProgress: 0,
+  ownProgress: 3.5311833333333333,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsItSTimeCherryCherryBoomBoomRemixItsTimeCherryCherryBo
   type: "page-type/track",
   slug: "imagine-dragons-it-s-time-cherry-cherry-boom-boom-remix-its-time-cherry-cherry-boom-boom-remix",
   ownLength: 5.2611,
-  ownProgress: 0,
+  ownProgress: 5.2611,
   partOfCollections: ["release/imagine-dragons-it-s-time-cherry-cherry-boom-boom-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

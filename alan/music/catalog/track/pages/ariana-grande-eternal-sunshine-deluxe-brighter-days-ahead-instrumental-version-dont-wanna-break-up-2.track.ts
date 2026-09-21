@@ -6,12 +6,12 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     type: "page-type/track",
     slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version-dont-wanna-break-up-2",
     ownLength: 2.9001,
-    ownProgress: 0,
+    ownProgress: 2.9001,
     partOfCollections: [
       "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
     ],
     position: 22,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

@@ -5,10 +5,10 @@ export const coldplayPrincessOfChinaPrincessOfChinaAcoustic = {
   type: "page-type/track",
   slug: "coldplay-princess-of-china-princess-of-china-acoustic",
   ownLength: 3.4448833333333333,
-  ownProgress: 0,
+  ownProgress: 3.4448833333333333,
   partOfCollections: ["release/coldplay-princess-of-china"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

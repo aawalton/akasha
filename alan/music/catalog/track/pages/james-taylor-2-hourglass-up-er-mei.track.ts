@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassUpErMei = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-up-er-mei",
   ownLength: 3.782216666666667,
-  ownProgress: 0,
+  ownProgress: 3.782216666666667,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

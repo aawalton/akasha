@@ -5,10 +5,10 @@ export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaignILoveYouAllThe
   type: "page-type/track",
   slug: "imagine-dragons-i-love-you-all-the-time-play-it-forward-campaign-i-love-you-all-the-time-play-it",
   ownLength: 3.1207166666666666,
-  ownProgress: 0,
+  ownProgress: 3.1207166666666666,
   partOfCollections: ["release/imagine-dragons-i-love-you-all-the-time-play-it-forward-campaign"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const billieEilishHitMeHardAndSoftLunch = {
   type: "page-type/track",
   slug: "billie-eilish-hit-me-hard-and-soft-lunch",
   ownLength: 2.9931,
-  ownProgress: 0,
+  ownProgress: 2.9931,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

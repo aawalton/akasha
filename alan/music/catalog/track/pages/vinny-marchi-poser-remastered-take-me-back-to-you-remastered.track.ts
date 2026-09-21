@@ -5,10 +5,10 @@ export const vinnyMarchiPoserRemasteredTakeMeBackToYouRemastered = {
   type: "page-type/track",
   slug: "vinny-marchi-poser-remastered-take-me-back-to-you-remastered",
   ownLength: 2.8855666666666666,
-  ownProgress: 0,
+  ownProgress: 2.8855666666666666,
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeChaChingTillWeG
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-cha-ching-till-we-grow-older-live-from",
   ownLength: 4.712666666666666,
-  ownProgress: 0,
+  ownProgress: 4.712666666666666,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

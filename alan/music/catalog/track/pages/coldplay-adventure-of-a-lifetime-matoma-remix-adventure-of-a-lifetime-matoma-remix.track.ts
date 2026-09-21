@@ -5,10 +5,10 @@ export const coldplayAdventureOfALifetimeMatomaRemixAdventureOfALifetimeMatomaRe
   type: "page-type/track",
   slug: "coldplay-adventure-of-a-lifetime-matoma-remix-adventure-of-a-lifetime-matoma-remix",
   ownLength: 4.178566666666667,
-  ownProgress: 0,
+  ownProgress: 4.178566666666667,
   partOfCollections: ["release/coldplay-adventure-of-a-lifetime-matoma-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

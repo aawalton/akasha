@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyNewgrange = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-newgrange",
   ownLength: 3.1251,
-  ownProgress: 0,
+  ownProgress: 3.1251,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

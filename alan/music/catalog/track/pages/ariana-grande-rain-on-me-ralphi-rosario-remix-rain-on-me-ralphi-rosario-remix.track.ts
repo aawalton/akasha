@@ -5,10 +5,10 @@ export const arianaGrandeRainOnMeRalphiRosarioRemixRainOnMeRalphiRosarioRemix = 
   type: "page-type/track",
   slug: "ariana-grande-rain-on-me-ralphi-rosario-remix-rain-on-me-ralphi-rosario-remix",
   ownLength: 7.52,
-  ownProgress: 0,
+  ownProgress: 7.52,
   partOfCollections: ["release/ariana-grande-rain-on-me-ralphi-rosario-remix"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

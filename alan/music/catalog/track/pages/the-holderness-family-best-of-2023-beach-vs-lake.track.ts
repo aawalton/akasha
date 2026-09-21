@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023BeachVsLake = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-beach-vs-lake",
   ownLength: 2.9008,
-  ownProgress: 0,
+  ownProgress: 2.9008,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

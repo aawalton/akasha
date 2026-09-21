@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOneSongsForSocialDistancingMedley 
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-songs-for-social-distancing-medley",
   ownLength: 4.519616666666667,
-  ownProgress: 0,
+  ownProgress: 4.519616666666667,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

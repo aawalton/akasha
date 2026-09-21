@@ -5,10 +5,10 @@ export const paulCardallChristmasOnceInRoyalDavidsCity = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-once-in-royal-davids-city",
   ownLength: 3.144616666666667,
-  ownProgress: 0,
+  ownProgress: 3.144616666666667,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandePositionsJustLikeMagic = {
   type: "page-type/track",
   slug: "ariana-grande-positions-just-like-magic",
   ownLength: 2.4983333333333335,
-  ownProgress: 0,
+  ownProgress: 2.4983333333333335,
   partOfCollections: ["release/ariana-grande-positions"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

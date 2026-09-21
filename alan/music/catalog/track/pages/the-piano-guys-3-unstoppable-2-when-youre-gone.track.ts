@@ -5,10 +5,10 @@ export const thePianoGuys3Unstoppable2WhenYoureGone = {
   type: "page-type/track",
   slug: "the-piano-guys-3-unstoppable-2-when-youre-gone",
   ownLength: 3,
-  ownProgress: 0,
+  ownProgress: 3,
   partOfCollections: ["release/the-piano-guys-3-unstoppable-2"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

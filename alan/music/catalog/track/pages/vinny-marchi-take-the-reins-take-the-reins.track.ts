@@ -5,10 +5,10 @@ export const vinnyMarchiTakeTheReinsTakeTheReins = {
   type: "page-type/track",
   slug: "vinny-marchi-take-the-reins-take-the-reins",
   ownLength: 2.669233333333333,
-  ownProgress: 0,
+  ownProgress: 2.669233333333333,
   partOfCollections: ["release/vinny-marchi-take-the-reins"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

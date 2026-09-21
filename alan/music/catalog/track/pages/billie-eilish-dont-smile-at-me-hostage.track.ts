@@ -5,10 +5,10 @@ export const billieEilishDontSmileAtMeHostage = {
   type: "page-type/track",
   slug: "billie-eilish-dont-smile-at-me-hostage",
   ownLength: 3.82375,
-  ownProgress: 0,
+  ownProgress: 3.82375,
   partOfCollections: ["release/billie-eilish-dont-smile-at-me"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeChristmasKissesSantaBaby = {
   type: "page-type/track",
   slug: "ariana-grande-christmas-kisses-santa-baby",
   ownLength: 2.848883333333333,
-  ownProgress: 0,
+  ownProgress: 2.848883333333333,
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourYouveGotAFriendLiveAtTheTroubadour20
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-youve-got-a-friend-live-at-the-troubadour-2007",
   ownLength: 5.86,
-  ownProgress: 0,
+  ownProgress: 5.86,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

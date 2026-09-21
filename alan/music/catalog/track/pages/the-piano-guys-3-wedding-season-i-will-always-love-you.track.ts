@@ -5,10 +5,10 @@ export const thePianoGuys3WeddingSeasonIWillAlwaysLoveYou = {
   type: "page-type/track",
   slug: "the-piano-guys-3-wedding-season-i-will-always-love-you",
   ownLength: 3.140833333333333,
-  ownProgress: 0,
+  ownProgress: 3.140833333333333,
   partOfCollections: ["release/the-piano-guys-3-wedding-season"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

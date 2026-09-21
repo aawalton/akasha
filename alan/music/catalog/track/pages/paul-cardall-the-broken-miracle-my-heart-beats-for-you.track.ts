@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleMyHeartBeatsForYou = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-my-heart-beats-for-you",
   ownLength: 3.5691,
-  ownProgress: 0,
+  ownProgress: 3.5691,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

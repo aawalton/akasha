@@ -5,10 +5,10 @@ export const emeiIrresponsibleIrresponsible = {
   type: "page-type/track",
   slug: "emei-irresponsible-irresponsible",
   ownLength: 2.0791833333333334,
-  ownProgress: 0,
+  ownProgress: 2.0791833333333334,
   partOfCollections: ["release/emei-irresponsible"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

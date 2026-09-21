@@ -5,10 +5,10 @@ export const emeiWatermelonSugarSpotifySinglesWatermelonSugarSpotifySingles = {
   type: "page-type/track",
   slug: "emei-watermelon-sugar-spotify-singles-watermelon-sugar-spotify-singles",
   ownLength: 2.1609333333333334,
-  ownProgress: 0,
+  ownProgress: 2.1609333333333334,
   partOfCollections: ["release/emei-watermelon-sugar-spotify-singles"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

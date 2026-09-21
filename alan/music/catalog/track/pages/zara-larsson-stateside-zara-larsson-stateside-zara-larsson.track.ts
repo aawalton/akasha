@@ -5,10 +5,10 @@ export const zaraLarssonStatesideZaraLarssonStatesideZaraLarsson = {
   type: "page-type/track",
   slug: "zara-larsson-stateside-zara-larsson-stateside-zara-larsson",
   ownLength: 3.07935,
-  ownProgress: 0,
+  ownProgress: 3.07935,
   partOfCollections: ["release/zara-larsson-stateside-zara-larsson"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

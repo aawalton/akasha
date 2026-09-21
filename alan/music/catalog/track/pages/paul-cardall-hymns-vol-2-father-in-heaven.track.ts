@@ -5,10 +5,10 @@ export const paulCardallHymnsVol2FatherInHeaven = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-vol-2-father-in-heaven",
   ownLength: 3.548,
-  ownProgress: 0,
+  ownProgress: 3.548,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

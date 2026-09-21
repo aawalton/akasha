@@ -5,10 +5,10 @@ export const coldplayLiveInBuenosAiresEveryTeardropIsAWaterfallLiveInBuenosAires
   type: "page-type/track",
   slug: "coldplay-live-in-buenos-aires-every-teardrop-is-a-waterfall-live-in-buenos-aires",
   ownLength: 4.071766666666667,
-  ownProgress: 0,
+  ownProgress: 4.071766666666667,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallChristmasHymnsCarolOfTheBells = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hymns-carol-of-the-bells",
   ownLength: 5.444216666666667,
-  ownProgress: 0,
+  ownProgress: 5.444216666666667,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

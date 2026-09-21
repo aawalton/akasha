@@ -5,10 +5,10 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemixWhateverItTakesJorge
   type: "page-type/track",
   slug: "imagine-dragons-whatever-it-takes-jorgen-odegard-remix-whatever-it-takes-jorgen-odegard-remix",
   ownLength: 3.881466666666667,
-  ownProgress: 0,
+  ownProgress: 3.881466666666667,
   partOfCollections: ["release/imagine-dragons-whatever-it-takes-jorgen-odegard-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

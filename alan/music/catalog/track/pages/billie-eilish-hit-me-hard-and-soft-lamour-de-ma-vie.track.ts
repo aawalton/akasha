@@ -5,10 +5,10 @@ export const billieEilishHitMeHardAndSoftLamourDeMaVie = {
   type: "page-type/track",
   slug: "billie-eilish-hit-me-hard-and-soft-lamour-de-ma-vie",
   ownLength: 5.566433333333333,
-  ownProgress: 0,
+  ownProgress: 5.566433333333333,
   partOfCollections: ["release/billie-eilish-hit-me-hard-and-soft"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

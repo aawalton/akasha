@@ -5,10 +5,10 @@ export const vinnyMarchiPoserRemasteredDrivingMePsychoRemastered = {
   type: "page-type/track",
   slug: "vinny-marchi-poser-remastered-driving-me-psycho-remastered",
   ownLength: 3.4726833333333333,
-  ownProgress: 0,
+  ownProgress: 3.4726833333333333,
   partOfCollections: ["release/vinny-marchi-poser-remastered"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

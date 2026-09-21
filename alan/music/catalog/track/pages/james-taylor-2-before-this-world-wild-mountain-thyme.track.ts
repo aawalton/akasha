@@ -5,10 +5,10 @@ export const jamesTaylor2BeforeThisWorldWildMountainThyme = {
   type: "page-type/track",
   slug: "james-taylor-2-before-this-world-wild-mountain-thyme",
   ownLength: 2.9486666666666665,
-  ownProgress: 0,
+  ownProgress: 2.9486666666666665,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

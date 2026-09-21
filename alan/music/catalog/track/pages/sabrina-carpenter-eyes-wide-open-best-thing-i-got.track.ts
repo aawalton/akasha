@@ -5,10 +5,10 @@ export const sabrinaCarpenterEyesWideOpenBestThingIGot = {
   type: "page-type/track",
   slug: "sabrina-carpenter-eyes-wide-open-best-thing-i-got",
   ownLength: 3.3213333333333335,
-  ownProgress: 0,
+  ownProgress: 3.3213333333333335,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

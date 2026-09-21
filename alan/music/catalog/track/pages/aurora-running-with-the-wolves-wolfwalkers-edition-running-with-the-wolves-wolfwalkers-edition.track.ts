@@ -5,10 +5,10 @@ export const auroraRunningWithTheWolvesWolfwalkersEditionRunningWithTheWolvesWol
   type: "page-type/track",
   slug: "aurora-running-with-the-wolves-wolfwalkers-edition-running-with-the-wolves-wolfwalkers-edition",
   ownLength: 2.7757666666666667,
-  ownProgress: 0,
+  ownProgress: 2.7757666666666667,
   partOfCollections: ["release/aurora-running-with-the-wolves-wolfwalkers-edition"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

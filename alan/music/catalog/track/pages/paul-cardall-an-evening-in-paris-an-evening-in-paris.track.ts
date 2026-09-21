@@ -5,10 +5,10 @@ export const paulCardallAnEveningInParisAnEveningInParis = {
   type: "page-type/track",
   slug: "paul-cardall-an-evening-in-paris-an-evening-in-paris",
   ownLength: 5.135633333333334,
-  ownProgress: 0,
+  ownProgress: 5.135633333333334,
   partOfCollections: ["release/paul-cardall-an-evening-in-paris"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

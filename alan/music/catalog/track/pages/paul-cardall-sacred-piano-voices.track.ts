@@ -5,10 +5,10 @@ export const paulCardallSacredPianoVoices = {
   type: "page-type/track",
   slug: "paul-cardall-sacred-piano-voices",
   ownLength: 4.943333333333333,
-  ownProgress: 0,
+  ownProgress: 4.943333333333333,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

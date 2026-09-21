@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActIiImFakin = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-ii-im-fakin",
   ownLength: 2.9218166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9218166666666665,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

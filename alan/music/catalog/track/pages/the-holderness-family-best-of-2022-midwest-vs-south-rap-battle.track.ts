@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022MidwestVsSouthRapBattle = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-midwest-vs-south-rap-battle",
   ownLength: 3.2003833333333334,
-  ownProgress: 0,
+  ownProgress: 3.2003833333333334,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

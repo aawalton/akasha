@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversaryThePartingGlass20thAnniversary = {
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-the-parting-glass-20th-anniversary",
   ownLength: 4.477766666666667,
-  ownProgress: 0,
+  ownProgress: 4.477766666666667,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandePositionsDeluxe3435RemixFeatDojaCatMeganTheeStallionRem
   type: "page-type/track",
   slug: "ariana-grande-positions-deluxe-34-35-remix-feat-doja-cat-megan-thee-stallion-remix",
   ownLength: 3.0406166666666667,
-  ownProgress: 0,
+  ownProgress: 3.0406166666666667,
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

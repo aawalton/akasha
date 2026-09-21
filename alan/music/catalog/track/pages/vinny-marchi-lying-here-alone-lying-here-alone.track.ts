@@ -5,10 +5,10 @@ export const vinnyMarchiLyingHereAloneLyingHereAlone = {
   type: "page-type/track",
   slug: "vinny-marchi-lying-here-alone-lying-here-alone",
   ownLength: 2.67385,
-  ownProgress: 0,
+  ownProgress: 2.67385,
   partOfCollections: ["release/vinny-marchi-lying-here-alone"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -6,12 +6,12 @@ export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersionSym
     type: "page-type/track",
     slug: "imagine-dragons-symphony-inner-city-youth-orchestra-of-los-angeles-version-symphony-inner-city-youth",
     ownLength: 3.1448,
-    ownProgress: 0,
+    ownProgress: 3.1448,
     partOfCollections: [
       "release/imagine-dragons-symphony-inner-city-youth-orchestra-of-los-angeles-version",
     ],
     position: 1,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

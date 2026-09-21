@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneyRiver = {
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-river",
   ownLength: 5.03885,
-  ownProgress: 0,
+  ownProgress: 5.03885,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

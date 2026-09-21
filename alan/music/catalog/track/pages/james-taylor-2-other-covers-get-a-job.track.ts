@@ -5,10 +5,10 @@ export const jamesTaylor2OtherCoversGetAJob = {
   type: "page-type/track",
   slug: "james-taylor-2-other-covers-get-a-job",
   ownLength: 4.134216666666667,
-  ownProgress: 0,
+  ownProgress: 4.134216666666667,
   partOfCollections: ["release/james-taylor-2-other-covers"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

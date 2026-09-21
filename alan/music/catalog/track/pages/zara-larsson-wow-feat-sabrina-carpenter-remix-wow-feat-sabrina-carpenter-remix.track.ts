@@ -5,10 +5,10 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemixWowFeatSabrinaCarpenterRemix
   type: "page-type/track",
   slug: "zara-larsson-wow-feat-sabrina-carpenter-remix-wow-feat-sabrina-carpenter-remix",
   ownLength: 2.9942,
-  ownProgress: 0,
+  ownProgress: 2.9942,
   partOfCollections: ["release/zara-larsson-wow-feat-sabrina-carpenter-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

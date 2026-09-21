@@ -5,10 +5,10 @@ export const paulCardallChillCollectionAprilSkies = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-april-skies",
   ownLength: 3.581383333333333,
-  ownProgress: 0,
+  ownProgress: 3.581383333333333,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

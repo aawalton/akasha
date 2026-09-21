@@ -5,10 +5,10 @@ export const celticWoman2AncientLandDeluxeAncientLand = {
   type: "page-type/track",
   slug: "celtic-woman-2-ancient-land-deluxe-ancient-land",
   ownLength: 2.72155,
-  ownProgress: 0,
+  ownProgress: 2.72155,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

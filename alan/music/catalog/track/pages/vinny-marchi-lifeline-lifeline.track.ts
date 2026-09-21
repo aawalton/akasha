@@ -5,10 +5,10 @@ export const vinnyMarchiLifelineLifeline = {
   type: "page-type/track",
   slug: "vinny-marchi-lifeline-lifeline",
   ownLength: 3.4047666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4047666666666667,
   partOfCollections: ["release/vinny-marchi-lifeline"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

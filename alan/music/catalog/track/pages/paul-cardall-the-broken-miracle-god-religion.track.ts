@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleGodReligion = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-god-religion",
   ownLength: 2.6528833333333335,
-  ownProgress: 0,
+  ownProgress: 2.6528833333333335,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

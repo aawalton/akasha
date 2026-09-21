@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionElizasThemeSoloPianoVersion = 
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-elizas-theme-solo-piano-version",
   ownLength: 3.6708333333333334,
-  ownProgress: 0,
+  ownProgress: 3.6708333333333334,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

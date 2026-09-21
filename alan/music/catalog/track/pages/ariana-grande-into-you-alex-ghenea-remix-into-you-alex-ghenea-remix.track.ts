@@ -5,10 +5,10 @@ export const arianaGrandeIntoYouAlexGheneaRemixIntoYouAlexGheneaRemix = {
   type: "page-type/track",
   slug: "ariana-grande-into-you-alex-ghenea-remix-into-you-alex-ghenea-remix",
   ownLength: 3.636,
-  ownProgress: 0,
+  ownProgress: 3.636,
   partOfCollections: ["release/ariana-grande-into-you-alex-ghenea-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

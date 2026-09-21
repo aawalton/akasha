@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActIDiamondsAreForever = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-i-diamonds-are-forever",
   ownLength: 3.82555,
-  ownProgress: 0,
+  ownProgress: 3.82555,
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

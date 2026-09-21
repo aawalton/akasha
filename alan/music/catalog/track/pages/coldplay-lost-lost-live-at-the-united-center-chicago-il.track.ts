@@ -5,10 +5,10 @@ export const coldplayLostLostLiveAtTheUnitedCenterChicagoIl = {
   type: "page-type/track",
   slug: "coldplay-lost-lost-live-at-the-united-center-chicago-il",
   ownLength: 3.92955,
-  ownProgress: 0,
+  ownProgress: 3.92955,
   partOfCollections: ["release/coldplay-lost"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

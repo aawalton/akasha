@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022OdeToPickleball = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-ode-to-pickleball",
   ownLength: 3.1248,
-  ownProgress: 0,
+  ownProgress: 3.1248,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

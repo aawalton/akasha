@@ -5,10 +5,10 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeTrueStoryACappella = {
   type: "page-type/track",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-true-story-a-cappella",
   ownLength: 2.70145,
-  ownProgress: 0,
+  ownProgress: 2.70145,
   partOfCollections: ["release/ariana-grande-eternal-sunshine-slightly-deluxe"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallReturnHomeImmigrantShips = {
   type: "page-type/track",
   slug: "paul-cardall-return-home-immigrant-ships",
   ownLength: 3.4407,
-  ownProgress: 0,
+  ownProgress: 3.4407,
   partOfCollections: ["release/paul-cardall-return-home"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

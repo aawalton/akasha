@@ -5,10 +5,10 @@ export const paulCardallNewLifeComeThouFountOfEveryBlessing = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-come-thou-fount-of-every-blessing",
   ownLength: 3.2362166666666665,
-  ownProgress: 0,
+  ownProgress: 3.2362166666666665,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

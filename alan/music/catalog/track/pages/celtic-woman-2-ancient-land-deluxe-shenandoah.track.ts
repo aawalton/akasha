@@ -5,10 +5,10 @@ export const celticWoman2AncientLandDeluxeShenandoah = {
   type: "page-type/track",
   slug: "celtic-woman-2-ancient-land-deluxe-shenandoah",
   ownLength: 4.1171,
-  ownProgress: 0,
+  ownProgress: 4.1171,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

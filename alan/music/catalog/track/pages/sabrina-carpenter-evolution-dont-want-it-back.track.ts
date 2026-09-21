@@ -5,10 +5,10 @@ export const sabrinaCarpenterEvolutionDontWantItBack = {
   type: "page-type/track",
   slug: "sabrina-carpenter-evolution-dont-want-it-back",
   ownLength: 3.030883333333333,
-  ownProgress: 0,
+  ownProgress: 3.030883333333333,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

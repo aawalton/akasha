@@ -5,10 +5,10 @@ export const coldplayLiveFromSpotifyLondonEverglowLiveFromSpotifyLondon = {
   type: "page-type/track",
   slug: "coldplay-live-from-spotify-london-everglow-live-from-spotify-london",
   ownLength: 4.264216666666667,
-  ownProgress: 0,
+  ownProgress: 4.264216666666667,
   partOfCollections: ["release/coldplay-live-from-spotify-london"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

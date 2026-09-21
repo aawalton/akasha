@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe90sLoseMyMind = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-90s-lose-my-mind",
   ownLength: 2.0349333333333335,
-  ownProgress: 0,
+  ownProgress: 2.0349333333333335,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

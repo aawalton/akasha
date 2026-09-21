@@ -5,10 +5,10 @@ export const coldplayLive2012MajorMinusLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-major-minus-live",
   ownLength: 3.6662166666666667,
-  ownProgress: 0,
+  ownProgress: 3.6662166666666667,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

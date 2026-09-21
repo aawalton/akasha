@@ -5,10 +5,10 @@ export const paulCardallDecemberSoloPianoNewMoonRisingSoloPianoVersion = {
   type: "page-type/track",
   slug: "paul-cardall-december-solo-piano-new-moon-rising-solo-piano-version",
   ownLength: 3.6208833333333335,
-  ownProgress: 0,
+  ownProgress: 3.6208833333333335,
   partOfCollections: ["release/paul-cardall-december-solo-piano"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

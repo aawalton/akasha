@@ -5,10 +5,10 @@ export const sabrinaCarpenterEvolutionNoWords = {
   type: "page-type/track",
   slug: "sabrina-carpenter-evolution-no-words",
   ownLength: 3.5431,
-  ownProgress: 0,
+  ownProgress: 3.5431,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

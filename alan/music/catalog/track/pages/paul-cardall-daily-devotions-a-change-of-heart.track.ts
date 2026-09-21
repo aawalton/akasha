@@ -5,10 +5,10 @@ export const paulCardallDailyDevotionsAChangeOfHeart = {
   type: "page-type/track",
   slug: "paul-cardall-daily-devotions-a-change-of-heart",
   ownLength: 4.6351,
-  ownProgress: 0,
+  ownProgress: 4.6351,
   partOfCollections: ["release/paul-cardall-daily-devotions"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

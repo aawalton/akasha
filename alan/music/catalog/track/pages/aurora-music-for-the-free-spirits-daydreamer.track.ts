@@ -5,10 +5,10 @@ export const auroraMusicForTheFreeSpiritsDaydreamer = {
   type: "page-type/track",
   slug: "aurora-music-for-the-free-spirits-daydreamer",
   ownLength: 3.65095,
-  ownProgress: 0,
+  ownProgress: 3.65095,
   partOfCollections: ["release/aurora-music-for-the-free-spirits"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

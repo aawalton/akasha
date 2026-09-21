@@ -5,10 +5,10 @@ export const coldplayGhostStoriesLive2014MidnightLiveAtTheRoyalAlbertHallLondon 
   type: "page-type/track",
   slug: "coldplay-ghost-stories-live-2014-midnight-live-at-the-royal-albert-hall-london",
   ownLength: 4.8111,
-  ownProgress: 0,
+  ownProgress: 4.8111,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

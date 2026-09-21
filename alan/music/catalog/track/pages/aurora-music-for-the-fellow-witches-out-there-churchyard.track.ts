@@ -5,10 +5,10 @@ export const auroraMusicForTheFellowWitchesOutThereChurchyard = {
   type: "page-type/track",
   slug: "aurora-music-for-the-fellow-witches-out-there-churchyard",
   ownLength: 3.7668166666666667,
-  ownProgress: 0,
+  ownProgress: 3.7668166666666667,
   partOfCollections: ["release/aurora-music-for-the-fellow-witches-out-there"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

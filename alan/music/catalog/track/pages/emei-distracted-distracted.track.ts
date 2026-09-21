@@ -5,10 +5,10 @@ export const emeiDistractedDistracted = {
   type: "page-type/track",
   slug: "emei-distracted-distracted",
   ownLength: 2.68,
-  ownProgress: 0,
+  ownProgress: 2.68,
   partOfCollections: ["release/emei-distracted"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

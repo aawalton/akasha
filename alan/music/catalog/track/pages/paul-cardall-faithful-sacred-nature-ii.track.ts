@@ -5,10 +5,10 @@ export const paulCardallFaithfulSacredNatureIi = {
   type: "page-type/track",
   slug: "paul-cardall-faithful-sacred-nature-ii",
   ownLength: 3.933333333333333,
-  ownProgress: 0,
+  ownProgress: 3.933333333333333,
   partOfCollections: ["release/paul-cardall-faithful"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

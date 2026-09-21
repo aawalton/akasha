@@ -5,10 +5,10 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeKungsRemix = {
   type: "page-type/track",
   slug: "zara-larsson-end-of-time-the-remixes-end-of-time-kungs-remix",
   ownLength: 2.5815,
-  ownProgress: 0,
+  ownProgress: 2.5815,
   partOfCollections: ["release/zara-larsson-end-of-time-the-remixes"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

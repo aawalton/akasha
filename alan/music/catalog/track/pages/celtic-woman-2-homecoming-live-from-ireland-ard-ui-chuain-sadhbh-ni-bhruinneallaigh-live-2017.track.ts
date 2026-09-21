@@ -5,10 +5,10 @@ export const celticWoman2HomecomingLiveFromIrelandArdUiChuainSadhbhNiBhruinneall
   type: "page-type/track",
   slug: "celtic-woman-2-homecoming-live-from-ireland-ard-ui-chuain-sadhbh-ni-bhruinneallaigh-live-2017",
   ownLength: 4.359766666666666,
-  ownProgress: 0,
+  ownProgress: 4.359766666666666,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

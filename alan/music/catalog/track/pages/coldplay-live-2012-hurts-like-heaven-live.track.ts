@@ -5,10 +5,10 @@ export const coldplayLive2012HurtsLikeHeavenLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-hurts-like-heaven-live",
   ownLength: 4.272216666666667,
-  ownProgress: 0,
+  ownProgress: 4.272216666666667,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

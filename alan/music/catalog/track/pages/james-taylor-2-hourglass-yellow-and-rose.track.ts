@@ -5,10 +5,10 @@ export const jamesTaylor2HourglassYellowAndRose = {
   type: "page-type/track",
   slug: "james-taylor-2-hourglass-yellow-and-rose",
   ownLength: 4.8933333333333335,
-  ownProgress: 0,
+  ownProgress: 4.8933333333333335,
   partOfCollections: ["release/james-taylor-2-hourglass"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandCopperlineLiveAtTheColonialTheatre2007 = {
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-copperline-live-at-the-colonial-theatre-2007",
   ownLength: 4.8693333333333335,
-  ownProgress: 0,
+  ownProgress: 4.8693333333333335,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

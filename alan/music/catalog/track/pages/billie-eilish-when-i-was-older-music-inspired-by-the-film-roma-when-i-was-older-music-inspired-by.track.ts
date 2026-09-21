@@ -5,10 +5,10 @@ export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRomaWhenIWasOlderMus
   type: "page-type/track",
   slug: "billie-eilish-when-i-was-older-music-inspired-by-the-film-roma-when-i-was-older-music-inspired-by",
   ownLength: 4.50865,
-  ownProgress: 0,
+  ownProgress: 4.50865,
   partOfCollections: ["release/billie-eilish-when-i-was-older-music-inspired-by-the-film-roma"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

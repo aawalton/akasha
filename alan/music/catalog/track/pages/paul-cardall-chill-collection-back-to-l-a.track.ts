@@ -5,10 +5,10 @@ export const paulCardallChillCollectionBackToLA = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-back-to-l-a",
   ownLength: 2.0693333333333332,
-  ownProgress: 0,
+  ownProgress: 2.0693333333333332,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

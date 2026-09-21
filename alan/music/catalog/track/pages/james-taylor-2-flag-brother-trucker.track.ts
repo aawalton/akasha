@@ -5,10 +5,10 @@ export const jamesTaylor2FlagBrotherTrucker = {
   type: "page-type/track",
   slug: "james-taylor-2-flag-brother-trucker",
   ownLength: 4.014433333333334,
-  ownProgress: 0,
+  ownProgress: 4.014433333333334,
   partOfCollections: ["release/james-taylor-2-flag"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraCureForMeVintageCultureExtendedRemixCureForMeVintageCultureEx
   type: "page-type/track",
   slug: "aurora-cure-for-me-vintage-culture-extended-remix-cure-for-me-vintage-culture-extended-remix",
   ownLength: 5.482666666666667,
-  ownProgress: 0,
+  ownProgress: 5.482666666666667,
   partOfCollections: ["release/aurora-cure-for-me-vintage-culture-extended-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

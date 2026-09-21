@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourSoFarAwayLiveAtTheTroubadour2007 = {
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-so-far-away-live-at-the-troubadour-2007",
   ownLength: 4.7,
-  ownProgress: 0,
+  ownProgress: 4.7,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

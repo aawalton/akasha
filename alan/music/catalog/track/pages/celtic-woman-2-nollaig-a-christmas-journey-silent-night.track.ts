@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneySilentNight = {
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-silent-night",
   ownLength: 4.335983333333333,
-  ownProgress: 0,
+  ownProgress: 4.335983333333333,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

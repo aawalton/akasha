@@ -5,10 +5,10 @@ export const auroraForTheMetalPeopleInBottles = {
   type: "page-type/track",
   slug: "aurora-for-the-metal-people-in-bottles",
   ownLength: 3.969533333333333,
-  ownProgress: 0,
+  ownProgress: 3.969533333333333,
   partOfCollections: ["release/aurora-for-the-metal-people"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

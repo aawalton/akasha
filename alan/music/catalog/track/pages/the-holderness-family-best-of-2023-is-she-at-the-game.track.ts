@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023IsSheAtTheGame = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-is-she-at-the-game",
   ownLength: 2.358,
-  ownProgress: 0,
+  ownProgress: 2.358,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

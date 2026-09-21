@@ -5,10 +5,10 @@ export const thePianoGuys3ChillGrowAsWeGo = {
   type: "page-type/track",
   slug: "the-piano-guys-3-chill-grow-as-we-go",
   ownLength: 4.3148,
-  ownProgress: 0,
+  ownProgress: 4.3148,
   partOfCollections: ["release/the-piano-guys-3-chill"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

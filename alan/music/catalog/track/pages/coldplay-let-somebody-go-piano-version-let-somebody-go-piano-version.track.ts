@@ -5,10 +5,10 @@ export const coldplayLetSomebodyGoPianoVersionLetSomebodyGoPianoVersion = {
   type: "page-type/track",
   slug: "coldplay-let-somebody-go-piano-version-let-somebody-go-piano-version",
   ownLength: 4.151416666666667,
-  ownProgress: 0,
+  ownProgress: 4.151416666666667,
   partOfCollections: ["release/coldplay-let-somebody-go-piano-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

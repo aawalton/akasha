@@ -5,10 +5,10 @@ export const coldplayChristmasLightsChristmasLights = {
   type: "page-type/track",
   slug: "coldplay-christmas-lights-christmas-lights",
   ownLength: 4.0415833333333335,
-  ownProgress: 0,
+  ownProgress: 4.0415833333333335,
   partOfCollections: ["release/coldplay-christmas-lights"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

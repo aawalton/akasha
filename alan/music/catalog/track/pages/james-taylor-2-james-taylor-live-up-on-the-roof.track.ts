@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveUpOnTheRoof = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-up-on-the-roof",
   ownLength: 4.1528833333333335,
-  ownProgress: 0,
+  ownProgress: 4.1528833333333335,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3ChillUnchainedMelody = {
   type: "page-type/track",
   slug: "the-piano-guys-3-chill-unchained-melody",
   ownLength: 3.0182,
-  ownProgress: 0,
+  ownProgress: 3.0182,
   partOfCollections: ["release/the-piano-guys-3-chill"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

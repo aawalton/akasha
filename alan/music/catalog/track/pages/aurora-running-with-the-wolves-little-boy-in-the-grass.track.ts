@@ -5,10 +5,10 @@ export const auroraRunningWithTheWolvesLittleBoyInTheGrass = {
   type: "page-type/track",
   slug: "aurora-running-with-the-wolves-little-boy-in-the-grass",
   ownLength: 4.274666666666667,
-  ownProgress: 0,
+  ownProgress: 4.274666666666667,
   partOfCollections: ["release/aurora-running-with-the-wolves"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

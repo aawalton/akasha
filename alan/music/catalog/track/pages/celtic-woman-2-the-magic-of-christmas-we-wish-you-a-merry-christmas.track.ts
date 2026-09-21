@@ -5,10 +5,10 @@ export const celticWoman2TheMagicOfChristmasWeWishYouAMerryChristmas = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-magic-of-christmas-we-wish-you-a-merry-christmas",
   ownLength: 3.4473333333333334,
-  ownProgress: 0,
+  ownProgress: 3.4473333333333334,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

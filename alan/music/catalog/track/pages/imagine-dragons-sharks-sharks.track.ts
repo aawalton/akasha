@@ -5,10 +5,10 @@ export const imagineDragonsSharksSharks = {
   type: "page-type/track",
   slug: "imagine-dragons-sharks-sharks",
   ownLength: 3.1813833333333332,
-  ownProgress: 0,
+  ownProgress: 3.1813833333333332,
   partOfCollections: ["release/imagine-dragons-sharks"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

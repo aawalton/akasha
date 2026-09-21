@@ -5,10 +5,10 @@ export const theHoldernessFamilyTheGreatestHitsVolOneChristmasJammies = {
   type: "page-type/track",
   slug: "the-holderness-family-the-greatest-hits-vol-one-christmas-jammies",
   ownLength: 3.367183333333333,
-  ownProgress: 0,
+  ownProgress: 3.367183333333333,
   partOfCollections: ["release/the-holderness-family-the-greatest-hits-vol-one"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

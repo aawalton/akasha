@@ -5,10 +5,10 @@ export const thePianoGuys3UnchartedIndianaJonesAndTheArabianNights = {
   type: "page-type/track",
   slug: "the-piano-guys-3-uncharted-indiana-jones-and-the-arabian-nights",
   ownLength: 3.4385333333333334,
-  ownProgress: 0,
+  ownProgress: 3.4385333333333334,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeBrandNewYouFrom13BrandNewYouFeatBrynnWilliamsCaitlinGan
   type: "page-type/track",
   slug: "ariana-grande-brand-new-you-from-13-brand-new-you-feat-brynn-williams-caitlin-gann",
   ownLength: 3.1348833333333332,
-  ownProgress: 0,
+  ownProgress: 3.1348833333333332,
   partOfCollections: ["release/ariana-grande-brand-new-you-from-13"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

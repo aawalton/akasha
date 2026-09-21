@@ -5,10 +5,10 @@ export const celticWoman2DestinyLikeAnAngelPassingThroughMyRoom = {
   type: "page-type/track",
   slug: "celtic-woman-2-destiny-like-an-angel-passing-through-my-room",
   ownLength: 5.267516666666666,
-  ownProgress: 0,
+  ownProgress: 5.267516666666666,
   partOfCollections: ["release/celtic-woman-2-destiny"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

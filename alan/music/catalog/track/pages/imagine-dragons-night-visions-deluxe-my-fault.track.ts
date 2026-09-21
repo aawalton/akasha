@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsDeluxeMyFault = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-deluxe-my-fault",
   ownLength: 2.9222166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9222166666666665,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

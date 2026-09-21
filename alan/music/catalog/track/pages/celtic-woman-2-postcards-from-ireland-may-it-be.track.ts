@@ -5,10 +5,10 @@ export const celticWoman2PostcardsFromIrelandMayItBe = {
   type: "page-type/track",
   slug: "celtic-woman-2-postcards-from-ireland-may-it-be",
   ownLength: 3.196,
-  ownProgress: 0,
+  ownProgress: 3.196,
   partOfCollections: ["release/celtic-woman-2-postcards-from-ireland"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

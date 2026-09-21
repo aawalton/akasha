@@ -5,10 +5,10 @@ export const zaraLarssonINeedLoveFeatTrevorDanielINeedLoveFeatTrevorDaniel = {
   type: "page-type/track",
   slug: "zara-larsson-i-need-love-feat-trevor-daniel-i-need-love-feat-trevor-daniel",
   ownLength: 3.1068,
-  ownProgress: 0,
+  ownProgress: 3.1068,
   partOfCollections: ["release/zara-larsson-i-need-love-feat-trevor-daniel"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

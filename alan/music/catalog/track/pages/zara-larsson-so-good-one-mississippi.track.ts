@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodOneMississippi = {
   type: "page-type/track",
   slug: "zara-larsson-so-good-one-mississippi",
   ownLength: 3.132833333333333,
-  ownProgress: 0,
+  ownProgress: 3.132833333333333,
   partOfCollections: ["release/zara-larsson-so-good"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

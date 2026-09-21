@@ -5,10 +5,10 @@ export const imagineDragonsMercuryActs12Tied = {
   type: "page-type/track",
   slug: "imagine-dragons-mercury-acts-1-2-tied",
   ownLength: 4.0301,
-  ownProgress: 0,
+  ownProgress: 4.0301,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

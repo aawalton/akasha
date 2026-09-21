@@ -5,10 +5,10 @@ export const arianaGrandeHotelRockBottomHotelRockBottomFeatArianaGrande = {
   type: "page-type/track",
   slug: "ariana-grande-hotel-rock-bottom-hotel-rock-bottom-feat-ariana-grande",
   ownLength: 3.26175,
-  ownProgress: 0,
+  ownProgress: 3.26175,
   partOfCollections: ["release/ariana-grande-hotel-rock-bottom"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

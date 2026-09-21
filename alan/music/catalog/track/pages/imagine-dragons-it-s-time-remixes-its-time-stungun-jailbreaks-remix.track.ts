@@ -5,10 +5,10 @@ export const imagineDragonsItSTimeRemixesItsTimeStungunJailbreaksRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-it-s-time-remixes-its-time-stungun-jailbreaks-remix",
   ownLength: 5.102666666666667,
-  ownProgress: 0,
+  ownProgress: 5.102666666666667,
   partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

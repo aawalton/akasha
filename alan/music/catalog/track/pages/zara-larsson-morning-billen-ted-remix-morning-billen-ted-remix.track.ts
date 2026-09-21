@@ -5,10 +5,10 @@ export const zaraLarssonMorningBillenTedRemixMorningBillenTedRemix = {
   type: "page-type/track",
   slug: "zara-larsson-morning-billen-ted-remix-morning-billen-ted-remix",
   ownLength: 2.4484,
-  ownProgress: 0,
+  ownProgress: 2.4484,
   partOfCollections: ["release/zara-larsson-morning-billen-ted-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplay2000Miles2000Miles = {
   type: "page-type/track",
   slug: "coldplay-2000-miles-2000-miles",
   ownLength: 3.26195,
-  ownProgress: 0,
+  ownProgress: 3.26195,
   partOfCollections: ["release/coldplay-2000-miles"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

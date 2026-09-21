@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsLiveInVegasWalkingTheWireMyLifeLiveInVe
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-live-in-vegas-walking-the-wire-my-life-live-in-vegas",
   ownLength: 6.534983333333333,
-  ownProgress: 0,
+  ownProgress: 6.534983333333333,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-live-in-vegas"],
   position: 23,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

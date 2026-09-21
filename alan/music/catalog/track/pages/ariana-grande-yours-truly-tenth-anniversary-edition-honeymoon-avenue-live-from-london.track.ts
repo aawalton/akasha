@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenueLiveFro
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-honeymoon-avenue-live-from-london",
   ownLength: 4.9257333333333335,
-  ownProgress: 0,
+  ownProgress: 4.9257333333333335,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3LimitlessMiracles = {
   type: "page-type/track",
   slug: "the-piano-guys-3-limitless-miracles",
   ownLength: 6.232283333333333,
-  ownProgress: 0,
+  ownProgress: 6.232283333333333,
   partOfCollections: ["release/the-piano-guys-3-limitless"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

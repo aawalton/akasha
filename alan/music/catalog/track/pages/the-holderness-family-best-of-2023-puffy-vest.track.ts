@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023PuffyVest = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-puffy-vest",
   ownLength: 1.9183833333333333,
-  ownProgress: 0,
+  ownProgress: 1.9183833333333333,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

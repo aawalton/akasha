@@ -5,10 +5,10 @@ export const auroraInfectionsOfADifferentKindStepIForgottenLove = {
   type: "page-type/track",
   slug: "aurora-infections-of-a-different-kind-step-i-forgotten-love",
   ownLength: 3.44115,
-  ownProgress: 0,
+  ownProgress: 3.44115,
   partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

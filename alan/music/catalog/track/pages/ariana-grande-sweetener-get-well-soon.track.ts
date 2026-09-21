@@ -5,10 +5,10 @@ export const arianaGrandeSweetenerGetWellSoon = {
   type: "page-type/track",
   slug: "ariana-grande-sweetener-get-well-soon",
   ownLength: 5.3671,
-  ownProgress: 0,
+  ownProgress: 5.3671,
   partOfCollections: ["release/ariana-grande-sweetener"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

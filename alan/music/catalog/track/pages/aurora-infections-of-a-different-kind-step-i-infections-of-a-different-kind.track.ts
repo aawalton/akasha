@@ -5,10 +5,10 @@ export const auroraInfectionsOfADifferentKindStepIInfectionsOfADifferentKind = {
   type: "page-type/track",
   slug: "aurora-infections-of-a-different-kind-step-i-infections-of-a-different-kind",
   ownLength: 5.448483333333333,
-  ownProgress: 0,
+  ownProgress: 5.448483333333333,
   partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

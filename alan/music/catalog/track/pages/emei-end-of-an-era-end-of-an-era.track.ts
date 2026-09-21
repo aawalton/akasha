@@ -5,10 +5,10 @@ export const emeiEndOfAnEraEndOfAnEra = {
   type: "page-type/track",
   slug: "emei-end-of-an-era-end-of-an-era",
   ownLength: 2.2330833333333335,
-  ownProgress: 0,
+  ownProgress: 2.2330833333333335,
   partOfCollections: ["release/emei-end-of-an-era"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

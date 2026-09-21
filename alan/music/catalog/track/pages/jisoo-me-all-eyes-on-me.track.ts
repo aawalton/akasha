@@ -5,10 +5,10 @@ export const jisooMeAllEyesOnMe = {
   type: "page-type/track",
   slug: "jisoo-me-all-eyes-on-me",
   ownLength: 2.7253666666666665,
-  ownProgress: 0,
+  ownProgress: 2.7253666666666665,
   partOfCollections: ["release/jisoo-me"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

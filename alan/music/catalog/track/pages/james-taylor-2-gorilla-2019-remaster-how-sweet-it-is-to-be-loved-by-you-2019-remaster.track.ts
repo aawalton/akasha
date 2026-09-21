@@ -5,10 +5,10 @@ export const jamesTaylor2Gorilla2019RemasterHowSweetItIsToBeLovedByYou2019Remast
   type: "page-type/track",
   slug: "james-taylor-2-gorilla-2019-remaster-how-sweet-it-is-to-be-loved-by-you-2019-remaster",
   ownLength: 3.6064333333333334,
-  ownProgress: 0,
+  ownProgress: 3.6064333333333334,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

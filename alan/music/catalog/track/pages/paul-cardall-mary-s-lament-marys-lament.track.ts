@@ -5,10 +5,10 @@ export const paulCardallMarySLamentMarysLament = {
   type: "page-type/track",
   slug: "paul-cardall-mary-s-lament-marys-lament",
   ownLength: 5.118233333333333,
-  ownProgress: 0,
+  ownProgress: 5.118233333333333,
   partOfCollections: ["release/paul-cardall-mary-s-lament"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

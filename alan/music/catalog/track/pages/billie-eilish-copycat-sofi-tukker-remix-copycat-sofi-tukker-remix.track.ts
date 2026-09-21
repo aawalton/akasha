@@ -5,10 +5,10 @@ export const billieEilishCopycatSofiTukkerRemixCopycatSofiTukkerRemix = {
   type: "page-type/track",
   slug: "billie-eilish-copycat-sofi-tukker-remix-copycat-sofi-tukker-remix",
   ownLength: 3.3114,
-  ownProgress: 0,
+  ownProgress: 3.3114,
   partOfCollections: ["release/billie-eilish-copycat-sofi-tukker-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

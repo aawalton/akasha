@@ -5,12 +5,12 @@ export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurr
   type: "page-type/track",
   slug: "billie-eilish-ilomilo-live-from-the-film-billie-eilish-the-world-s-a-little-blurry-ilomilo-live-from",
   ownLength: 2.734183333333333,
-  ownProgress: 0,
+  ownProgress: 2.734183333333333,
   partOfCollections: [
     "release/billie-eilish-ilomilo-live-from-the-film-billie-eilish-the-world-s-a-little-blurry",
   ],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

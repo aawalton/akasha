@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaProspektSMarchEditionRainyDay = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-prospekt-s-march-edition-rainy-day",
   ownLength: 3.4333666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4333666666666667,
   partOfCollections: ["release/coldplay-viva-la-vida-prospekt-s-march-edition"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

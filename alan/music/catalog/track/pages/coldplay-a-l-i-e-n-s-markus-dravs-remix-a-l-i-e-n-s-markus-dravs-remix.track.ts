@@ -5,10 +5,10 @@ export const coldplayALIENSMarkusDravsRemixALIENSMarkusDravsRemix = {
   type: "page-type/track",
   slug: "coldplay-a-l-i-e-n-s-markus-dravs-remix-a-l-i-e-n-s-markus-dravs-remix",
   ownLength: 7.0869333333333335,
-  ownProgress: 0,
+  ownProgress: 7.0869333333333335,
   partOfCollections: ["release/coldplay-a-l-i-e-n-s-markus-dravs-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

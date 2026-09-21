@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoDanceOfTheLiving = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-dance-of-the-living",
   ownLength: 3.5877666666666665,
-  ownProgress: 0,
+  ownProgress: 3.5877666666666665,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

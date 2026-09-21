@@ -5,10 +5,10 @@ export const auroraDaydreamerKdaLondonDubDaydreamer = {
   type: "page-type/track",
   slug: "aurora-daydreamer-kda-london-dub-daydreamer",
   ownLength: 3.65095,
-  ownProgress: 0,
+  ownProgress: 3.65095,
   partOfCollections: ["release/aurora-daydreamer-kda-london-dub"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

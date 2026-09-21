@@ -5,10 +5,10 @@ export const sabrinaCarpenterOnMyWayOnMyWay = {
   type: "page-type/track",
   slug: "sabrina-carpenter-on-my-way-on-my-way",
   ownLength: 3.22995,
-  ownProgress: 0,
+  ownProgress: 3.22995,
   partOfCollections: ["release/sabrina-carpenter-on-my-way"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

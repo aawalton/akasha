@@ -5,10 +5,10 @@ export const emeiHoldOnMeRemixesHoldOnMeDemotapesRemix = {
   type: "page-type/track",
   slug: "emei-hold-on-me-remixes-hold-on-me-demotapes-remix",
   ownLength: 2.4375,
-  ownProgress: 0,
+  ownProgress: 2.4375,
   partOfCollections: ["release/emei-hold-on-me-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

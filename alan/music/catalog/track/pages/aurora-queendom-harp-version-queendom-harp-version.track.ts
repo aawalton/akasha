@@ -5,10 +5,10 @@ export const auroraQueendomHarpVersionQueendomHarpVersion = {
   type: "page-type/track",
   slug: "aurora-queendom-harp-version-queendom-harp-version",
   ownLength: 3.8764333333333334,
-  ownProgress: 0,
+  ownProgress: 3.8764333333333334,
   partOfCollections: ["release/aurora-queendom-harp-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

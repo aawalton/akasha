@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActIBadTime = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-i-bad-time",
   ownLength: 3.07555,
-  ownProgress: 0,
+  ownProgress: 3.07555,
   partOfCollections: ["release/sabrina-carpenter-singular-act-i"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

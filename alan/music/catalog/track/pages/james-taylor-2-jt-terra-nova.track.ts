@@ -5,10 +5,10 @@ export const jamesTaylor2JtTerraNova = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-terra-nova",
   ownLength: 4.540016666666666,
-  ownProgress: 0,
+  ownProgress: 4.540016666666666,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

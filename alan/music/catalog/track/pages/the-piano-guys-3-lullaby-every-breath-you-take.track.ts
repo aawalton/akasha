@@ -5,10 +5,10 @@ export const thePianoGuys3LullabyEveryBreathYouTake = {
   type: "page-type/track",
   slug: "the-piano-guys-3-lullaby-every-breath-you-take",
   ownLength: 4.536833333333333,
-  ownProgress: 0,
+  ownProgress: 4.536833333333333,
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

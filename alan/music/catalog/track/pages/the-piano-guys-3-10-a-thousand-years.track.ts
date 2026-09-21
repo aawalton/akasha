@@ -5,10 +5,10 @@ export const thePianoGuys310AThousandYears = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-a-thousand-years",
   ownLength: 4.50735,
-  ownProgress: 0,
+  ownProgress: 4.50735,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

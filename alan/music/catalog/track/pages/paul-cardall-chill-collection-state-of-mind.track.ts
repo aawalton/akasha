@@ -5,10 +5,10 @@ export const paulCardallChillCollectionStateOfMind = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-state-of-mind",
   ownLength: 4.196133333333333,
-  ownProgress: 0,
+  ownProgress: 4.196133333333333,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

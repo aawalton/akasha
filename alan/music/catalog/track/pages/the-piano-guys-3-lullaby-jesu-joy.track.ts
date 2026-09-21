@@ -5,10 +5,10 @@ export const thePianoGuys3LullabyJesuJoy = {
   type: "page-type/track",
   slug: "the-piano-guys-3-lullaby-jesu-joy",
   ownLength: 3.269216666666667,
-  ownProgress: 0,
+  ownProgress: 3.269216666666667,
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

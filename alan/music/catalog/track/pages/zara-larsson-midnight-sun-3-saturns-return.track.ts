@@ -5,10 +5,10 @@ export const zaraLarssonMidnightSun3SaturnsReturn = {
   type: "page-type/track",
   slug: "zara-larsson-midnight-sun-3-saturns-return",
   ownLength: 3.79075,
-  ownProgress: 0,
+  ownProgress: 3.79075,
   partOfCollections: ["release/zara-larsson-midnight-sun-3"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

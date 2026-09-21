@@ -5,10 +5,10 @@ export const paulCardallChillCollectionHope = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-hope",
   ownLength: 3.261816666666667,
-  ownProgress: 0,
+  ownProgress: 3.261816666666667,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

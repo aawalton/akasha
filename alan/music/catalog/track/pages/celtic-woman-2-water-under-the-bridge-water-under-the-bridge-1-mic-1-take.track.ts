@@ -5,10 +5,10 @@ export const celticWoman2WaterUnderTheBridgeWaterUnderTheBridge1Mic1Take = {
   type: "page-type/track",
   slug: "celtic-woman-2-water-under-the-bridge-water-under-the-bridge-1-mic-1-take",
   ownLength: 3.7333333333333334,
-  ownProgress: 0,
+  ownProgress: 3.7333333333333334,
   partOfCollections: ["release/celtic-woman-2-water-under-the-bridge"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

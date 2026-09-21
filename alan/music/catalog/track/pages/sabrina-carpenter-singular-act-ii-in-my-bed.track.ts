@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActIiInMyBed = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-ii-in-my-bed",
   ownLength: 3.166333333333333,
-  ownProgress: 0,
+  ownProgress: 3.166333333333333,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

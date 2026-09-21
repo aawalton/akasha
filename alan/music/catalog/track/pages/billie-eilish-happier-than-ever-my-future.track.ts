@@ -5,10 +5,10 @@ export const billieEilishHappierThanEverMyFuture = {
   type: "page-type/track",
   slug: "billie-eilish-happier-than-ever-my-future",
   ownLength: 3.5000833333333334,
-  ownProgress: 0,
+  ownProgress: 3.5000833333333334,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

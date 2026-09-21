@@ -5,10 +5,10 @@ export const arianaGrandeKByeForNowSwtLiveMyHeartBelongsToDaddyLive = {
   type: "page-type/track",
   slug: "ariana-grande-k-bye-for-now-swt-live-my-heart-belongs-to-daddy-live",
   ownLength: 1.7886833333333334,
-  ownProgress: 0,
+  ownProgress: 1.7886833333333334,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   position: 28,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

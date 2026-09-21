@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleMothsButterflies = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-moths-butterflies",
   ownLength: 5.056,
-  ownProgress: 0,
+  ownProgress: 5.056,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

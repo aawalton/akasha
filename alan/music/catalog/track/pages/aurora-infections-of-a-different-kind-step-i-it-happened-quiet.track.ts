@@ -5,10 +5,10 @@ export const auroraInfectionsOfADifferentKindStepIItHappenedQuiet = {
   type: "page-type/track",
   slug: "aurora-infections-of-a-different-kind-step-i-it-happened-quiet",
   ownLength: 4.151783333333333,
-  ownProgress: 0,
+  ownProgress: 4.151783333333333,
   partOfCollections: ["release/aurora-infections-of-a-different-kind-step-i"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

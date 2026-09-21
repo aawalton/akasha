@@ -5,10 +5,10 @@ export const paulCardallHymnsJosephSmithsFirstPrayer = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-joseph-smiths-first-prayer",
   ownLength: 3.3191,
-  ownProgress: 0,
+  ownProgress: 3.3191,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

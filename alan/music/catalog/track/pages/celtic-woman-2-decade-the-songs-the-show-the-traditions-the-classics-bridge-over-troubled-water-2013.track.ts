@@ -6,12 +6,12 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBridgeOver
     type: "page-type/track",
     slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-bridge-over-troubled-water-2013",
     ownLength: 2.9846666666666666,
-    ownProgress: 0,
+    ownProgress: 2.9846666666666666,
     partOfCollections: [
       "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
     ],
     position: 11,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

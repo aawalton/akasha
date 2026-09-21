@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsSpotifySessionsBlankSpaceStandByMeLiveF
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-spotify-sessions-blank-space-stand-by-me-live-from-spotify-london",
   ownLength: 5.057216666666666,
-  ownProgress: 0,
+  ownProgress: 5.057216666666666,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-spotify-sessions"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

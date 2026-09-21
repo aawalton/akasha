@@ -5,10 +5,10 @@ export const coldplayAllMyLovePnauXColdplayAllMyLovePnauXColdplay = {
   type: "page-type/track",
   slug: "coldplay-all-my-love-pnau-x-coldplay-all-my-love-pnau-x-coldplay",
   ownLength: 3.2426666666666666,
-  ownProgress: 0,
+  ownProgress: 3.2426666666666666,
   partOfCollections: ["release/coldplay-all-my-love-pnau-x-coldplay"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

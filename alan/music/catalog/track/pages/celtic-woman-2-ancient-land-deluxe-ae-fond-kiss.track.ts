@@ -5,10 +5,10 @@ export const celticWoman2AncientLandDeluxeAeFondKiss = {
   type: "page-type/track",
   slug: "celtic-woman-2-ancient-land-deluxe-ae-fond-kiss",
   ownLength: 3.9917666666666665,
-  ownProgress: 0,
+  ownProgress: 3.9917666666666665,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

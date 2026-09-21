@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversaryYouRaiseMeUp20thAnniversary = {
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-you-raise-me-up-20th-anniversary",
   ownLength: 4.266666666666667,
-  ownProgress: 0,
+  ownProgress: 4.266666666666667,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

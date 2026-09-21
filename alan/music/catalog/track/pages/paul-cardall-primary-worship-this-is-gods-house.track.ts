@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipThisIsGodsHouse = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-this-is-gods-house",
   ownLength: 3.017333333333333,
-  ownProgress: 0,
+  ownProgress: 3.017333333333333,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

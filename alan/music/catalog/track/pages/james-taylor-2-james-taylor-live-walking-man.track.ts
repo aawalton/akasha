@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveWalkingMan = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-walking-man",
   ownLength: 4.5911,
-  ownProgress: 0,
+  ownProgress: 4.5911,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

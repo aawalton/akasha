@@ -5,10 +5,10 @@ export const zaraLarssonBadBoysBadBoysDoItYourselfVersion = {
   type: "page-type/track",
   slug: "zara-larsson-bad-boys-bad-boys-do-it-yourself-version",
   ownLength: 2.1557666666666666,
-  ownProgress: 0,
+  ownProgress: 2.1557666666666666,
   partOfCollections: ["release/zara-larsson-bad-boys"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

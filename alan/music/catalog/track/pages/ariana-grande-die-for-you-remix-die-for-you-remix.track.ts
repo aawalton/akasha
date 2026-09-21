@@ -5,10 +5,10 @@ export const arianaGrandeDieForYouRemixDieForYouRemix = {
   type: "page-type/track",
   slug: "ariana-grande-die-for-you-remix-die-for-you-remix",
   ownLength: 3.88095,
-  ownProgress: 0,
+  ownProgress: 3.88095,
   partOfCollections: ["release/ariana-grande-die-for-you-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

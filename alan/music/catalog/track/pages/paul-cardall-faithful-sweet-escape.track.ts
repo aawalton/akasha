@@ -5,10 +5,10 @@ export const paulCardallFaithfulSweetEscape = {
   type: "page-type/track",
   slug: "paul-cardall-faithful-sweet-escape",
   ownLength: 3.121766666666667,
-  ownProgress: 0,
+  ownProgress: 3.121766666666667,
   partOfCollections: ["release/paul-cardall-faithful"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

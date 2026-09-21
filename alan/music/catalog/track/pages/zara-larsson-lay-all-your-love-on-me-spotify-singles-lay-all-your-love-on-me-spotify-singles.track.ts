@@ -5,10 +5,10 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySinglesLayAllYourLoveOnMeSpotif
   type: "page-type/track",
   slug: "zara-larsson-lay-all-your-love-on-me-spotify-singles-lay-all-your-love-on-me-spotify-singles",
   ownLength: 2.685416666666667,
-  ownProgress: 0,
+  ownProgress: 2.685416666666667,
   partOfCollections: ["release/zara-larsson-lay-all-your-love-on-me-spotify-singles"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

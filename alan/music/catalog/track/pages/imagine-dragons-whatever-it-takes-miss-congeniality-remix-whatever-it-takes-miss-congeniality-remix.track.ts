@@ -6,10 +6,10 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemixWhateverItTakesMi
     type: "page-type/track",
     slug: "imagine-dragons-whatever-it-takes-miss-congeniality-remix-whatever-it-takes-miss-congeniality-remix",
     ownLength: 5.776433333333333,
-    ownProgress: 0,
+    ownProgress: 5.776433333333333,
     partOfCollections: ["release/imagine-dragons-whatever-it-takes-miss-congeniality-remix"],
     position: 1,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

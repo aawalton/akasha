@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardMyHeartStoodStill = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-my-heart-stood-still",
   ownLength: 3.4508833333333335,
-  ownProgress: 0,
+  ownProgress: 3.4508833333333335,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

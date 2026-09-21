@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sSlimeAfterSlime = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-slime-after-slime",
   ownLength: 2.0414666666666665,
-  ownProgress: 0,
+  ownProgress: 2.0414666666666665,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

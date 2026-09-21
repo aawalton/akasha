@@ -5,10 +5,10 @@ export const celticWoman2AChristmasCelebrationDingDongMerrilyOnHigh = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-christmas-celebration-ding-dong-merrily-on-high",
   ownLength: 2.7831,
-  ownProgress: 0,
+  ownProgress: 2.7831,
   partOfCollections: ["release/celtic-woman-2-a-christmas-celebration"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

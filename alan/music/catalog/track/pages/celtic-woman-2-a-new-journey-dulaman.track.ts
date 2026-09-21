@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyDulaman = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-dulaman",
   ownLength: 3.0917666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0917666666666666,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

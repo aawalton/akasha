@@ -5,10 +5,10 @@ export const auroraATemporaryHighKitoRemixATemporaryHighKitoRemix = {
   type: "page-type/track",
   slug: "aurora-a-temporary-high-kito-remix-a-temporary-high-kito-remix",
   ownLength: 3.1153333333333335,
-  ownProgress: 0,
+  ownProgress: 3.1153333333333335,
   partOfCollections: ["release/aurora-a-temporary-high-kito-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

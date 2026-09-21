@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimePenguinP
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-its-time-penguin-prison-remix",
   ownLength: 4.390666666666666,
-  ownProgress: 0,
+  ownProgress: 4.390666666666666,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

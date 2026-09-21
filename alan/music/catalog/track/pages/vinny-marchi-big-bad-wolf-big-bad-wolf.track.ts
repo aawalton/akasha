@@ -5,10 +5,10 @@ export const vinnyMarchiBigBadWolfBigBadWolf = {
   type: "page-type/track",
   slug: "vinny-marchi-big-bad-wolf-big-bad-wolf",
   ownLength: 2.352533333333333,
-  ownProgress: 0,
+  ownProgress: 2.352533333333333,
   partOfCollections: ["release/vinny-marchi-big-bad-wolf"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayLiveInBuenosAiresEverglowLiveInBuenosAires = {
   type: "page-type/track",
   slug: "coldplay-live-in-buenos-aires-everglow-live-in-buenos-aires",
   ownLength: 4.922883333333333,
-  ownProgress: 0,
+  ownProgress: 4.922883333333333,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

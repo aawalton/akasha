@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingDeluxeYouDontKnowMe = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-deluxe-you-dont-know-me",
   ownLength: 3.8953333333333333,
-  ownProgress: 0,
+  ownProgress: 3.8953333333333333,
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

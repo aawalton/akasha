@@ -5,10 +5,10 @@ export const paulCardallAscensusChristiAPianoRhapsodyAscensusChristiAPianoRhapso
   type: "page-type/track",
   slug: "paul-cardall-ascensus-christi-a-piano-rhapsody-ascensus-christi-a-piano-rhapsody",
   ownLength: 5.210733333333334,
-  ownProgress: 0,
+  ownProgress: 5.210733333333334,
   partOfCollections: ["release/paul-cardall-ascensus-christi-a-piano-rhapsody"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

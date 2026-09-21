@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveTheD
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-radioactive-the-dirty-tees-mix",
   ownLength: 5.474,
-  ownProgress: 0,
+  ownProgress: 5.474,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

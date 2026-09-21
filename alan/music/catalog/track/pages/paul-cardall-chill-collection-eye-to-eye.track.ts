@@ -5,10 +5,10 @@ export const paulCardallChillCollectionEyeToEye = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-eye-to-eye",
   ownLength: 4.48565,
-  ownProgress: 0,
+  ownProgress: 4.48565,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

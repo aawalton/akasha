@@ -5,10 +5,10 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursAobeatsRemix = {
   type: "page-type/track",
   slug: "zara-larsson-don-t-let-me-be-yours-remixes-dont-let-me-be-yours-aobeats-remix",
   ownLength: 4.183483333333333,
-  ownProgress: 0,
+  ownProgress: 4.183483333333333,
   partOfCollections: ["release/zara-larsson-don-t-let-me-be-yours-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

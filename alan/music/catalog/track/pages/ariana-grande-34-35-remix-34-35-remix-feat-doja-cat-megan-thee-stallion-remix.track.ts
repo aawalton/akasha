@@ -5,10 +5,10 @@ export const arianaGrande3435Remix3435RemixFeatDojaCatMeganTheeStallionRemix = {
   type: "page-type/track",
   slug: "ariana-grande-34-35-remix-34-35-remix-feat-doja-cat-megan-thee-stallion-remix",
   ownLength: 3.0406166666666667,
-  ownProgress: 0,
+  ownProgress: 3.0406166666666667,
   partOfCollections: ["release/ariana-grande-34-35-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

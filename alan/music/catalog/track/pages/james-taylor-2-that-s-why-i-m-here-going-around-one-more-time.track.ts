@@ -5,10 +5,10 @@ export const jamesTaylor2ThatSWhyIMHereGoingAroundOneMoreTime = {
   type: "page-type/track",
   slug: "james-taylor-2-that-s-why-i-m-here-going-around-one-more-time",
   ownLength: 3.3828833333333335,
-  ownProgress: 0,
+  ownProgress: 3.3828833333333335,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

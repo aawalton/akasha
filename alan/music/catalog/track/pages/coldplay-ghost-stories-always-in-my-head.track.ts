@@ -5,10 +5,10 @@ export const coldplayGhostStoriesAlwaysInMyHead = {
   type: "page-type/track",
   slug: "coldplay-ghost-stories-always-in-my-head",
   ownLength: 3.6104333333333334,
-  ownProgress: 0,
+  ownProgress: 3.6104333333333334,
   partOfCollections: ["release/coldplay-ghost-stories"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

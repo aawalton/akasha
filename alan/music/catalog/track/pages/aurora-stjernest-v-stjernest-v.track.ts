@@ -5,10 +5,10 @@ export const auroraStjernestVStjernestV = {
   type: "page-type/track",
   slug: "aurora-stjernest-v-stjernest-v",
   ownLength: 3.30075,
-  ownProgress: 0,
+  ownProgress: 3.30075,
   partOfCollections: ["release/aurora-stjernest-v"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallHymnsComeComeYeSaints = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-come-come-ye-saints",
   ownLength: 4.173333333333333,
-  ownProgress: 0,
+  ownProgress: 4.173333333333333,
   partOfCollections: ["release/paul-cardall-hymns"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

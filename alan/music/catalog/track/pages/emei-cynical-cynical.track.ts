@@ -5,10 +5,10 @@ export const emeiCynicalCynical = {
   type: "page-type/track",
   slug: "emei-cynical-cynical",
   ownLength: 2.2430333333333334,
-  ownProgress: 0,
+  ownProgress: 2.2430333333333334,
   partOfCollections: ["release/emei-cynical"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

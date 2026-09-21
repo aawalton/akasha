@@ -5,10 +5,10 @@ export const arianaGrandeProblemProblemACappella = {
   type: "page-type/track",
   slug: "ariana-grande-problem-problem-a-cappella",
   ownLength: 3.191133333333333,
-  ownProgress: 0,
+  ownProgress: 3.191133333333333,
   partOfCollections: ["release/ariana-grande-problem"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

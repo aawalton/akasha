@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysWeThankTheeOGodForAProphet = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-we-thank-thee-o-god-for-a-prophet",
   ownLength: 4.359333333333334,
-  ownProgress: 0,
+  ownProgress: 4.359333333333334,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 35,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

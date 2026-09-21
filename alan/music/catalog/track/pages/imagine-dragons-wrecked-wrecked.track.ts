@@ -5,10 +5,10 @@ export const imagineDragonsWreckedWrecked = {
   type: "page-type/track",
   slug: "imagine-dragons-wrecked-wrecked",
   ownLength: 4.0667333333333335,
-  ownProgress: 0,
+  ownProgress: 4.0667333333333335,
   partOfCollections: ["release/imagine-dragons-wrecked"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

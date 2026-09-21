@@ -5,10 +5,10 @@ export const celticWoman2SongsFromTheHeartMyLaganLove = {
   type: "page-type/track",
   slug: "celtic-woman-2-songs-from-the-heart-my-lagan-love",
   ownLength: 2.882,
-  ownProgress: 0,
+  ownProgress: 2.882,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallASacredChristmasPianoCollectionJesuJoyOfMansDesiring = {
   type: "page-type/track",
   slug: "paul-cardall-a-sacred-christmas-piano-collection-jesu-joy-of-mans-desiring",
   ownLength: 4.69245,
-  ownProgress: 0,
+  ownProgress: 4.69245,
   partOfCollections: ["release/paul-cardall-a-sacred-christmas-piano-collection"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

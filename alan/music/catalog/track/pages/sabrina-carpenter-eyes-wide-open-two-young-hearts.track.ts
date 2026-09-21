@@ -5,10 +5,10 @@ export const sabrinaCarpenterEyesWideOpenTwoYoungHearts = {
   type: "page-type/track",
   slug: "sabrina-carpenter-eyes-wide-open-two-young-hearts",
   ownLength: 3.8933333333333335,
-  ownProgress: 0,
+  ownProgress: 3.8933333333333335,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

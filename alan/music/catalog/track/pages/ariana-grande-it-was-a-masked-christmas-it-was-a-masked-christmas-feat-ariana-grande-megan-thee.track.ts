@@ -5,10 +5,10 @@ export const arianaGrandeItWasAMaskedChristmasItWasAMaskedChristmasFeatArianaGra
   type: "page-type/track",
   slug: "ariana-grande-it-was-a-masked-christmas-it-was-a-masked-christmas-feat-ariana-grande-megan-thee",
   ownLength: 3.01515,
-  ownProgress: 0,
+  ownProgress: 3.01515,
   partOfCollections: ["release/ariana-grande-it-was-a-masked-christmas"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

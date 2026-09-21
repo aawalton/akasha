@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveEverybodyHasTheBlues = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-everybody-has-the-blues",
   ownLength: 2.56555,
-  ownProgress: 0,
+  ownProgress: 2.56555,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

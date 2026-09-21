@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodTheWildRemixSoGoodTheWildRemix = {
   type: "page-type/track",
   slug: "zara-larsson-so-good-the-wild-remix-so-good-the-wild-remix",
   ownLength: 3.75755,
-  ownProgress: 0,
+  ownProgress: 3.75755,
   partOfCollections: ["release/zara-larsson-so-good-the-wild-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

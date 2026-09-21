@@ -5,10 +5,10 @@ export const sabrinaCarpenterSingularActIiTakeOffAllYourCool = {
   type: "page-type/track",
   slug: "sabrina-carpenter-singular-act-ii-take-off-all-your-cool",
   ownLength: 3.0625833333333334,
-  ownProgress: 0,
+  ownProgress: 3.0625833333333334,
   partOfCollections: ["release/sabrina-carpenter-singular-act-ii"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

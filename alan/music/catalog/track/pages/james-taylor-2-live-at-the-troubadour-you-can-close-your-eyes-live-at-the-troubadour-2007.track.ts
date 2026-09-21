@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourYouCanCloseYourEyesLiveAtTheTroubado
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-you-can-close-your-eyes-live-at-the-troubadour-2007",
   ownLength: 2.82755,
-  ownProgress: 0,
+  ownProgress: 2.82755,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const vinnyMarchiTheHighSongTheHighSong = {
   type: "page-type/track",
   slug: "vinny-marchi-the-high-song-the-high-song",
   ownLength: 2.4917666666666665,
-  ownProgress: 0,
+  ownProgress: 2.4917666666666665,
   partOfCollections: ["release/vinny-marchi-the-high-song"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

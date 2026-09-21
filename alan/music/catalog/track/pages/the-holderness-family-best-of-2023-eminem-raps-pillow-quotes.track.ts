@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023EminemRapsPillowQuotes = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-eminem-raps-pillow-quotes",
   ownLength: 2.7948,
-  ownProgress: 0,
+  ownProgress: 2.7948,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

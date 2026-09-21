@@ -5,10 +5,10 @@ export const thePianoGuys310FurEliseJam = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-fur-elise-jam",
   ownLength: 2.1148833333333332,
-  ownProgress: 0,
+  ownProgress: 2.1148833333333332,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

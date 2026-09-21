@@ -5,10 +5,10 @@ export const coldplayDonTPanicYouOnlyLiveTwiceLiveFromNorway = {
   type: "page-type/track",
   slug: "coldplay-don-t-panic-you-only-live-twice-live-from-norway",
   ownLength: 4.1111,
-  ownProgress: 0,
+  ownProgress: 4.1111,
   partOfCollections: ["release/coldplay-don-t-panic"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -3,12 +3,12 @@
 {"externalIdentity":[{"source":"spotify","externalId":"34jtZbCoyKjyuG1MmfgXzX","externalLink":"https://open.spotify.com/track/34jtZbCoyKjyuG1MmfgXzX","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b9ee-df24-7f96-bc56-67a2d3cdfa37"}
 {"ownLength":1.6551}
-{"ownProgress":0}
+{"ownProgress":1.6551}
 {"partOfCollections":["release/coldplay-leftrightleftrightleft-live"]}
 {"position":7}
 {"slug":"coldplay-leftrightleftrightleft-live-death-will-never-conquer-live-in-sydney-2009"}
 {"song":"song/coldplay-death-will-never-conquer"}
-{"status":"not-started"}
+{"status":"completed"}
 {"title":"Death Will Never Conquer - Live in Sydney, 2009"}
 {"trackArtist":[{"externalId":"4gzpq5DPGxSnKTe4SA8HAU","artistName":"Coldplay"}]}
 {"trackKey":"deathwillneverconquerliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|99306"}

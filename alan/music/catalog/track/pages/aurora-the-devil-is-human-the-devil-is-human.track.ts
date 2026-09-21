@@ -5,10 +5,10 @@ export const auroraTheDevilIsHumanTheDevilIsHuman = {
   type: "page-type/track",
   slug: "aurora-the-devil-is-human-the-devil-is-human",
   ownLength: 3.0102166666666665,
-  ownProgress: 0,
+  ownProgress: 3.0102166666666665,
   partOfCollections: ["release/aurora-the-devil-is-human"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

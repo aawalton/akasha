@@ -5,10 +5,10 @@ export const chaislynDreamsIForgotAboutDreamsIForgotAbout = {
   type: "page-type/track",
   slug: "chaislyn-dreams-i-forgot-about-dreams-i-forgot-about",
   ownLength: 3.5319166666666666,
-  ownProgress: 0,
+  ownProgress: 3.5319166666666666,
   partOfCollections: ["release/chaislyn-dreams-i-forgot-about"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

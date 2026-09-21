@@ -5,10 +5,10 @@ export const vinnyMarchiIAinTGodButIWannaBeIAintGodButIWannaBe = {
   type: "page-type/track",
   slug: "vinny-marchi-i-ain-t-god-but-i-wanna-be-i-aint-god-but-i-wanna-be",
   ownLength: 3.466666666666667,
-  ownProgress: 0,
+  ownProgress: 3.466666666666667,
   partOfCollections: ["release/vinny-marchi-i-ain-t-god-but-i-wanna-be"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

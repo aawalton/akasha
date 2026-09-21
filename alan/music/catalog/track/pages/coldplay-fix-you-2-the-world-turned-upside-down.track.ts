@@ -5,10 +5,10 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
   type: "page-type/track",
   slug: "coldplay-fix-you-2-the-world-turned-upside-down",
   ownLength: 4.5437666666666665,
-  ownProgress: 0,
+  ownProgress: 4.5437666666666665,
   partOfCollections: ["release/coldplay-fix-you-2"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

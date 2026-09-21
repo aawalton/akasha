@@ -5,10 +5,10 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisAlessoRemi
   type: "page-type/track",
   slug: "coldplay-something-just-like-this-remixes-something-just-like-this-alesso-remix",
   ownLength: 4.21555,
-  ownProgress: 0,
+  ownProgress: 4.21555,
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

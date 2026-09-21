@@ -5,10 +5,10 @@ export const jamesTaylor2JtAnotherGreyMorning = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-another-grey-morning",
   ownLength: 2.73785,
-  ownProgress: 0,
+  ownProgress: 2.73785,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

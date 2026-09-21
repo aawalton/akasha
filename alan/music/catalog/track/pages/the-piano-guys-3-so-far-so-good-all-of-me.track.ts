@@ -5,10 +5,10 @@ export const thePianoGuys3SoFarSoGoodAllOfMe = {
   type: "page-type/track",
   slug: "the-piano-guys-3-so-far-so-good-all-of-me",
   ownLength: 3.058666666666667,
-  ownProgress: 0,
+  ownProgress: 3.058666666666667,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeBangBangBangBangInstrumental = {
   type: "page-type/track",
   slug: "ariana-grande-bang-bang-bang-bang-instrumental",
   ownLength: 3.30605,
-  ownProgress: 0,
+  ownProgress: 3.30605,
   partOfCollections: ["release/ariana-grande-bang-bang"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2AsaSFancyRoxySNewShoesAsasFancyRoxysNewShoes = {
   type: "page-type/track",
   slug: "celtic-woman-2-asa-s-fancy-roxy-s-new-shoes-asas-fancy-roxys-new-shoes",
   ownLength: 3.6125,
-  ownProgress: 0,
+  ownProgress: 3.6125,
   partOfCollections: ["release/celtic-woman-2-asa-s-fancy-roxy-s-new-shoes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

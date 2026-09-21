@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOneOdeToZoom = {
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-ode-to-zoom",
   ownLength: 2.9757666666666664,
-  ownProgress: 0,
+  ownProgress: 2.9757666666666664,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

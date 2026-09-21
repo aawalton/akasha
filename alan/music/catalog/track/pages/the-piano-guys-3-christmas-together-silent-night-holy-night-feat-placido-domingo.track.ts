@@ -5,10 +5,10 @@ export const thePianoGuys3ChristmasTogetherSilentNightHolyNightFeatPlacidoDoming
   type: "page-type/track",
   slug: "the-piano-guys-3-christmas-together-silent-night-holy-night-feat-placido-domingo",
   ownLength: 3.4854166666666666,
-  ownProgress: 0,
+  ownProgress: 3.4854166666666666,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

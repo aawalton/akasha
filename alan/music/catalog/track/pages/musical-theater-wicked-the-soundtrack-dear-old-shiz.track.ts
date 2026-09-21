@@ -5,10 +5,10 @@ export const musicalTheaterWickedTheSoundtrackDearOldShiz = {
   type: "page-type/track",
   slug: "musical-theater-wicked-the-soundtrack-dear-old-shiz",
   ownLength: 1.1955666666666667,
-  ownProgress: 0,
+  ownProgress: 1.1955666666666667,
   partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

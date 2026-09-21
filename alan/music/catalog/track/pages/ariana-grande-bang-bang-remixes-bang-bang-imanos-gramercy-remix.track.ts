@@ -5,10 +5,10 @@ export const arianaGrandeBangBangRemixesBangBangImanosGramercyRemix = {
   type: "page-type/track",
   slug: "ariana-grande-bang-bang-remixes-bang-bang-imanos-gramercy-remix",
   ownLength: 3.744666666666667,
-  ownProgress: 0,
+  ownProgress: 3.744666666666667,
   partOfCollections: ["release/ariana-grande-bang-bang-remixes"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

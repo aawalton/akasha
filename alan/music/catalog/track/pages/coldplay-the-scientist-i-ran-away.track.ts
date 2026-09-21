@@ -5,10 +5,10 @@ export const coldplayTheScientistIRanAway = {
   type: "page-type/track",
   slug: "coldplay-the-scientist-i-ran-away",
   ownLength: 4.447766666666666,
-  ownProgress: 0,
+  ownProgress: 4.447766666666666,
   partOfCollections: ["release/coldplay-the-scientist"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

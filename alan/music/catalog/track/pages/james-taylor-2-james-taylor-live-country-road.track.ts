@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveCountryRoad = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-country-road",
   ownLength: 5.654433333333333,
-  ownProgress: 0,
+  ownProgress: 5.654433333333333,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

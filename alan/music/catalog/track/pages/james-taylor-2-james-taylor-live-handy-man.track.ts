@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveHandyMan = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-handy-man",
   ownLength: 3.52555,
-  ownProgress: 0,
+  ownProgress: 3.52555,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallHymnsVol2InHumilityOurSavior = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-vol-2-in-humility-our-savior",
   ownLength: 4.7311,
-  ownProgress: 0,
+  ownProgress: 4.7311,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

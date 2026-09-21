@@ -5,10 +5,10 @@ export const arianaGrandeSupernaturalSupernaturalLiveVersion = {
   type: "page-type/track",
   slug: "ariana-grande-supernatural-supernatural-live-version",
   ownLength: 2.7262333333333335,
-  ownProgress: 0,
+  ownProgress: 2.7262333333333335,
   partOfCollections: ["release/ariana-grande-supernatural"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleABeautifulMind = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-a-beautiful-mind",
   ownLength: 1.1357666666666666,
-  ownProgress: 0,
+  ownProgress: 1.1357666666666666,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3WhatWasIMadeForWhatWasIMadeForPianoLullabyVersion = {
   type: "page-type/track",
   slug: "the-piano-guys-3-what-was-i-made-for-what-was-i-made-for-piano-lullaby-version",
   ownLength: 3.9772333333333334,
-  ownProgress: 0,
+  ownProgress: 3.9772333333333334,
   partOfCollections: ["release/the-piano-guys-3-what-was-i-made-for"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

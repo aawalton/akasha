@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023StupidMentalHealthWalk = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-stupid-mental-health-walk",
   ownLength: 1.73,
-  ownProgress: 0,
+  ownProgress: 1.73,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

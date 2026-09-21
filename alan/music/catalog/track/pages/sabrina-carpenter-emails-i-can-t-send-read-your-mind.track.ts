@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendReadYourMind = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-read-your-mind",
   ownLength: 3.46415,
-  ownProgress: 0,
+  ownProgress: 3.46415,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2SoloCaptainH = {
   type: "page-type/track",
   slug: "celtic-woman-2-solo-captain-h",
   ownLength: 3.0422,
-  ownProgress: 0,
+  ownProgress: 3.0422,
   partOfCollections: ["release/celtic-woman-2-solo"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

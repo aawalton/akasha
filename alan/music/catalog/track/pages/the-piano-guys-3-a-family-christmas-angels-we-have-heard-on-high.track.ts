@@ -5,10 +5,10 @@ export const thePianoGuys3AFamilyChristmasAngelsWeHaveHeardOnHigh = {
   type: "page-type/track",
   slug: "the-piano-guys-3-a-family-christmas-angels-we-have-heard-on-high",
   ownLength: 3.5456833333333333,
-  ownProgress: 0,
+  ownProgress: 3.5456833333333333,
   partOfCollections: ["release/the-piano-guys-3-a-family-christmas"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

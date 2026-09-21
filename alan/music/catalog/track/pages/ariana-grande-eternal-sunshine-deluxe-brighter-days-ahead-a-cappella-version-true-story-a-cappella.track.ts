@@ -6,12 +6,12 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
     type: "page-type/track",
     slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version-true-story-a-cappella",
     ownLength: 2.70145,
-    ownProgress: 0,
+    ownProgress: 2.70145,
     partOfCollections: [
       "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
     ],
     position: 26,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

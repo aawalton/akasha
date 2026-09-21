@@ -5,10 +5,10 @@ export const coldplayTheHardestPartHowYouSeeTheWorldLiveFromEarlsCourt = {
   type: "page-type/track",
   slug: "coldplay-the-hardest-part-how-you-see-the-world-live-from-earls-court",
   ownLength: 4.2771,
-  ownProgress: 0,
+  ownProgress: 4.2771,
   partOfCollections: ["release/coldplay-the-hardest-part"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

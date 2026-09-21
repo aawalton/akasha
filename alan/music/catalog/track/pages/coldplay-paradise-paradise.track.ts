@@ -5,10 +5,10 @@ export const coldplayParadiseParadise = {
   type: "page-type/track",
   slug: "coldplay-paradise-paradise",
   ownLength: 4.645316666666667,
-  ownProgress: 0,
+  ownProgress: 4.645316666666667,
   partOfCollections: ["release/coldplay-paradise"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

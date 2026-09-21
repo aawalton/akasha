@@ -5,10 +5,10 @@ export const coldplayLetSomebodyGoPianoVersionLetSomebodyGoKygoRemix = {
   type: "page-type/track",
   slug: "coldplay-let-somebody-go-piano-version-let-somebody-go-kygo-remix",
   ownLength: 3.2877833333333335,
-  ownProgress: 0,
+  ownProgress: 3.2877833333333335,
   partOfCollections: ["release/coldplay-let-somebody-go-piano-version"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

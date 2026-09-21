@@ -5,10 +5,10 @@ export const auroraTheRiverAskjellRemixTheRiverAskjellRemix = {
   type: "page-type/track",
   slug: "aurora-the-river-askjell-remix-the-river-askjell-remix",
   ownLength: 3.4667,
-  ownProgress: 0,
+  ownProgress: 3.4667,
   partOfCollections: ["release/aurora-the-river-askjell-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallSacredPianoComeThouFount = {
   type: "page-type/track",
   slug: "paul-cardall-sacred-piano-come-thou-fount",
   ownLength: 2.6208833333333335,
-  ownProgress: 0,
+  ownProgress: 2.6208833333333335,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

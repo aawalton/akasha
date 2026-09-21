@@ -5,10 +5,10 @@ export const jamesTaylor2NewMoonShineLikeEveryoneSheKnows = {
   type: "page-type/track",
   slug: "james-taylor-2-new-moon-shine-like-everyone-she-knows",
   ownLength: 4.932883333333334,
-  ownProgress: 0,
+  ownProgress: 4.932883333333334,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysTheMorningBreaks = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-the-morning-breaks",
   ownLength: 1.9286666666666668,
-  ownProgress: 0,
+  ownProgress: 1.9286666666666668,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 25,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

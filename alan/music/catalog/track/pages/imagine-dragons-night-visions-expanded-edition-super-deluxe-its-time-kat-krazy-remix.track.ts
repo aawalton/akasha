@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeKatKrazy
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-its-time-kat-krazy-remix",
   ownLength: 3.4668833333333335,
-  ownProgress: 0,
+  ownProgress: 3.4668833333333335,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

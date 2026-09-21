@@ -6,12 +6,12 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionW
     type: "page-type/track",
     slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version-we-cant-be-friends-wait",
     ownLength: 3.81065,
-    ownProgress: 0,
+    ownProgress: 3.81065,
     partOfCollections: [
       "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
     ],
     position: 10,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

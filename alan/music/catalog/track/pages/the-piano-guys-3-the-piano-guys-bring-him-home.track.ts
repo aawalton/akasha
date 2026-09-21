@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysBringHimHome = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-bring-him-home",
   ownLength: 4.287133333333333,
-  ownProgress: 0,
+  ownProgress: 4.287133333333333,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

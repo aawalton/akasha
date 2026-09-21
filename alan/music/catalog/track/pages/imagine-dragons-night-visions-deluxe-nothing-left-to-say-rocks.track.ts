@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsDeluxeNothingLeftToSayRocks = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-deluxe-nothing-left-to-say-rocks",
   ownLength: 8.934216666666666,
-  ownProgress: 0,
+  ownProgress: 8.934216666666666,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

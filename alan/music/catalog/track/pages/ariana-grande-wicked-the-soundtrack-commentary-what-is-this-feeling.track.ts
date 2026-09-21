@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeeling = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-what-is-this-feeling",
   ownLength: 3.8157833333333335,
-  ownProgress: 0,
+  ownProgress: 3.8157833333333335,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

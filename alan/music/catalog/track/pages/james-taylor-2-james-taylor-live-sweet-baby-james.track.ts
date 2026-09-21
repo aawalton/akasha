@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveSweetBabyJames = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-sweet-baby-james",
   ownLength: 4.18955,
-  ownProgress: 0,
+  ownProgress: 4.18955,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

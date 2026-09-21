@@ -5,10 +5,10 @@ export const vinnyMarchiBadDaysGoodBadDaysGood = {
   type: "page-type/track",
   slug: "vinny-marchi-bad-days-good-bad-days-good",
   ownLength: 2.65,
-  ownProgress: 0,
+  ownProgress: 2.65,
   partOfCollections: ["release/vinny-marchi-bad-days-good"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

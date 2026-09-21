@@ -5,10 +5,10 @@ export const zaraLarssonWowWow = {
   type: "page-type/track",
   slug: "zara-larsson-wow-wow",
   ownLength: 2.9945833333333334,
-  ownProgress: 0,
+  ownProgress: 2.9945833333333334,
   partOfCollections: ["release/zara-larsson-wow"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe90sIveGotHairInWeirdPlaces = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-90s-ive-got-hair-in-weird-places",
   ownLength: 2.5321333333333333,
-  ownProgress: 0,
+  ownProgress: 2.5321333333333333,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

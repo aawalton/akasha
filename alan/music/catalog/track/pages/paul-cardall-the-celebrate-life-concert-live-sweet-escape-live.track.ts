@@ -5,10 +5,10 @@ export const paulCardallTheCelebrateLifeConcertLiveSweetEscapeLive = {
   type: "page-type/track",
   slug: "paul-cardall-the-celebrate-life-concert-live-sweet-escape-live",
   ownLength: 3.1852,
-  ownProgress: 0,
+  ownProgress: 3.1852,
   partOfCollections: ["release/paul-cardall-the-celebrate-life-concert-live"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

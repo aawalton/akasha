@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetTheRelease = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-the-release",
   ownLength: 3.4263833333333333,
-  ownProgress: 0,
+  ownProgress: 3.4263833333333333,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

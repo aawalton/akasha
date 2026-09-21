@@ -5,10 +5,10 @@ export const paulCardallDecemberPianoStringEnsembleHeartsOfTheChildren = {
   type: "page-type/track",
   slug: "paul-cardall-december-piano-string-ensemble-hearts-of-the-children",
   ownLength: 2.4937666666666667,
-  ownProgress: 0,
+  ownProgress: 2.4937666666666667,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

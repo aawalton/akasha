@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetNearerMyGodToThee = {
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-nearer-my-god-to-thee",
   ownLength: 3.318416666666667,
-  ownProgress: 0,
+  ownProgress: 3.318416666666667,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

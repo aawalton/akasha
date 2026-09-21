@@ -5,10 +5,10 @@ export const auroraStormStorm = {
   type: "page-type/track",
   slug: "aurora-storm-storm",
   ownLength: 3.7948,
-  ownProgress: 0,
+  ownProgress: 3.7948,
   partOfCollections: ["release/aurora-storm"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

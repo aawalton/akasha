@@ -5,10 +5,10 @@ export const billieEilishOceanEyesTheRemixesOceanEyesAstronomyyRemix = {
   type: "page-type/track",
   slug: "billie-eilish-ocean-eyes-the-remixes-ocean-eyes-astronomyy-remix",
   ownLength: 4.937766666666667,
-  ownProgress: 0,
+  ownProgress: 4.937766666666667,
   partOfCollections: ["release/billie-eilish-ocean-eyes-the-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

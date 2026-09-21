@@ -5,10 +5,10 @@ export const jamesTaylor2FlagIWillNotLieForYou = {
   type: "page-type/track",
   slug: "james-taylor-2-flag-i-will-not-lie-for-you",
   ownLength: 3.2466666666666666,
-  ownProgress: 0,
+  ownProgress: 3.2466666666666666,
   partOfCollections: ["release/james-taylor-2-flag"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

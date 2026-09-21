@@ -5,10 +5,10 @@ export const coldplayLiveInBuenosAiresAmorArgentinaLiveInBuenosAires = {
   type: "page-type/track",
   slug: "coldplay-live-in-buenos-aires-amor-argentina-live-in-buenos-aires",
   ownLength: 5.27,
-  ownProgress: 0,
+  ownProgress: 5.27,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   position: 20,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

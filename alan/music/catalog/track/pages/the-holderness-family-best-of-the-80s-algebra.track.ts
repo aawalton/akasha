@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sAlgebra = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-algebra",
   ownLength: 2.4237,
-  ownProgress: 0,
+  ownProgress: 2.4237,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

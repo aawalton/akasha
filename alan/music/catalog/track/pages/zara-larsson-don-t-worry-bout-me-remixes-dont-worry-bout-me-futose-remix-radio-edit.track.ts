@@ -5,10 +5,10 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeFutoseRemixRadioEdi
   type: "page-type/track",
   slug: "zara-larsson-don-t-worry-bout-me-remixes-dont-worry-bout-me-futose-remix-radio-edit",
   ownLength: 3.7233666666666667,
-  ownProgress: 0,
+  ownProgress: 3.7233666666666667,
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

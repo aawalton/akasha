@@ -5,10 +5,10 @@ export const emeiBacktrackBacktrack = {
   type: "page-type/track",
   slug: "emei-backtrack-backtrack",
   ownLength: 2.6473333333333335,
-  ownProgress: 0,
+  ownProgress: 2.6473333333333335,
   partOfCollections: ["release/emei-backtrack"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

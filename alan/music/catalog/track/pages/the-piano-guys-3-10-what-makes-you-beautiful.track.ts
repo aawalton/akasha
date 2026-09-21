@@ -5,10 +5,10 @@ export const thePianoGuys310WhatMakesYouBeautiful = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-what-makes-you-beautiful",
   ownLength: 2.873066666666667,
-  ownProgress: 0,
+  ownProgress: 2.873066666666667,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

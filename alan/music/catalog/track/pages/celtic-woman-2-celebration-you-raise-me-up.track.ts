@@ -5,10 +5,10 @@ export const celticWoman2CelebrationYouRaiseMeUp = {
   type: "page-type/track",
   slug: "celtic-woman-2-celebration-you-raise-me-up",
   ownLength: 4.7291,
-  ownProgress: 0,
+  ownProgress: 4.7291,
   partOfCollections: ["release/celtic-woman-2-celebration"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

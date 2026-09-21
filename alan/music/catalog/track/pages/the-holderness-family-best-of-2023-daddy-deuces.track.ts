@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2023DaddyDeuces = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2023-daddy-deuces",
   ownLength: 2.0543833333333335,
-  ownProgress: 0,
+  ownProgress: 2.0543833333333335,
   partOfCollections: ["release/the-holderness-family-best-of-2023"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

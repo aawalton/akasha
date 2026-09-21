@@ -5,10 +5,10 @@ export const jamesTaylor2WalkingMan2019RemasterThePromisedLand2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-walking-man-2019-remaster-the-promised-land-2019-remaster",
   ownLength: 4.064883333333333,
-  ownProgress: 0,
+  ownProgress: 4.064883333333333,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

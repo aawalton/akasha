@@ -5,10 +5,10 @@ export const jamesTaylor2OneManDog2019RemasterJig2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-one-man-dog-2019-remaster-jig-2019-remaster",
   ownLength: 1.2356666666666667,
-  ownProgress: 0,
+  ownProgress: 1.2356666666666667,
   partOfCollections: ["release/james-taylor-2-one-man-dog-2019-remaster"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

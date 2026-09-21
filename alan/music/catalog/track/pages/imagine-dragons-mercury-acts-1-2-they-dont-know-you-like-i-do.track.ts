@@ -5,10 +5,10 @@ export const imagineDragonsMercuryActs12TheyDontKnowYouLikeIDo = {
   type: "page-type/track",
   slug: "imagine-dragons-mercury-acts-1-2-they-dont-know-you-like-i-do",
   ownLength: 4.297916666666667,
-  ownProgress: 0,
+  ownProgress: 4.297916666666667,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

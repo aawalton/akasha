@@ -5,10 +5,10 @@ export const celticWoman2AncientLandDeluxeTheEnchantedWay = {
   type: "page-type/track",
   slug: "celtic-woman-2-ancient-land-deluxe-the-enchanted-way",
   ownLength: 2.856,
-  ownProgress: 0,
+  ownProgress: 2.856,
   partOfCollections: ["release/celtic-woman-2-ancient-land-deluxe"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

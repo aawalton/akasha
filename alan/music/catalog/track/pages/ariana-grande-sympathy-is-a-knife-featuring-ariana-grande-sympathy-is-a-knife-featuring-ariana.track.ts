@@ -5,10 +5,10 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrandeSympathyIsAKnifeFe
   type: "page-type/track",
   slug: "ariana-grande-sympathy-is-a-knife-featuring-ariana-grande-sympathy-is-a-knife-featuring-ariana",
   ownLength: 2.568766666666667,
-  ownProgress: 0,
+  ownProgress: 2.568766666666667,
   partOfCollections: ["release/ariana-grande-sympathy-is-a-knife-featuring-ariana-grande"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayPrincessOfChinaRadioEditPrincessOfChinaRadioEdit = {
   type: "page-type/track",
   slug: "coldplay-princess-of-china-radio-edit-princess-of-china-radio-edit",
   ownLength: 3.62625,
-  ownProgress: 0,
+  ownProgress: 3.62625,
   partOfCollections: ["release/coldplay-princess-of-china-radio-edit"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

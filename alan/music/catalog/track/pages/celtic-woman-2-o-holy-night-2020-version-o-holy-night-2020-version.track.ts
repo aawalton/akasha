@@ -5,10 +5,10 @@ export const celticWoman2OHolyNight2020VersionOHolyNight2020Version = {
   type: "page-type/track",
   slug: "celtic-woman-2-o-holy-night-2020-version-o-holy-night-2020-version",
   ownLength: 3.650183333333333,
-  ownProgress: 0,
+  ownProgress: 3.650183333333333,
   partOfCollections: ["release/celtic-woman-2-o-holy-night-2020-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

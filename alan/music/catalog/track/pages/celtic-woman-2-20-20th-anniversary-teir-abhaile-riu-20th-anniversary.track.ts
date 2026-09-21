@@ -5,10 +5,10 @@ export const celticWoman22020thAnniversaryTeirAbhaileRiu20thAnniversary = {
   type: "page-type/track",
   slug: "celtic-woman-2-20-20th-anniversary-teir-abhaile-riu-20th-anniversary",
   ownLength: 2.9084333333333334,
-  ownProgress: 0,
+  ownProgress: 2.9084333333333334,
   partOfCollections: ["release/celtic-woman-2-20-20th-anniversary"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

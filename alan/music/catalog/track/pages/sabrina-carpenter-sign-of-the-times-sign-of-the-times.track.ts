@@ -5,10 +5,10 @@ export const sabrinaCarpenterSignOfTheTimesSignOfTheTimes = {
   type: "page-type/track",
   slug: "sabrina-carpenter-sign-of-the-times-sign-of-the-times",
   ownLength: 4.22115,
-  ownProgress: 0,
+  ownProgress: 4.22115,
   partOfCollections: ["release/sabrina-carpenter-sign-of-the-times"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -3,12 +3,12 @@
 {"externalIdentity":[{"source":"spotify","externalId":"3e0wYnFxkqinmtXebYPMSt","externalLink":"https://open.spotify.com/track/3e0wYnFxkqinmtXebYPMSt","lastSyncedAt":"2026-09-19"}]}
 {"id":"01a0b9ef-03a2-7011-85eb-a13874dde73e"}
 {"ownLength":4.4462166666666665}
-{"ownProgress":0}
+{"ownProgress":4.4462166666666665}
 {"partOfCollections":["release/coldplay-yellow"]}
 {"position":1}
 {"slug":"coldplay-yellow-yellow"}
 {"song":"song/coldplay-yellow"}
-{"status":"not-started"}
+{"status":"completed"}
 {"title":"Yellow"}
 {"trackArtist":[{"externalId":"4gzpq5DPGxSnKTe4SA8HAU","artistName":"Coldplay"}]}
 {"trackKey":"yellow|4gzpq5DPGxSnKTe4SA8HAU|266773"}

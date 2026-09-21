@@ -5,10 +5,10 @@ export const coldplayYellowNoMoreKeepingMyFeetOnTheGround = {
   type: "page-type/track",
   slug: "coldplay-yellow-no-more-keeping-my-feet-on-the-ground",
   ownLength: 4.51955,
-  ownProgress: 0,
+  ownProgress: 4.51955,
   partOfCollections: ["release/coldplay-yellow"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

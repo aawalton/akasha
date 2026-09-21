@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipJesusSaidLoveEveryone = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-jesus-said-love-everyone",
   ownLength: 4.134883333333334,
-  ownProgress: 0,
+  ownProgress: 4.134883333333334,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

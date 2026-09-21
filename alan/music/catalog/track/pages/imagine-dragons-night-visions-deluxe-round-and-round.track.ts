@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsDeluxeRoundAndRound = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-deluxe-round-and-round",
   ownLength: 3.282216666666667,
-  ownProgress: 0,
+  ownProgress: 3.282216666666667,
   partOfCollections: ["release/imagine-dragons-night-visions-deluxe"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

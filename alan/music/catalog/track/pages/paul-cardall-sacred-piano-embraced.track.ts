@@ -5,10 +5,10 @@ export const paulCardallSacredPianoEmbraced = {
   type: "page-type/track",
   slug: "paul-cardall-sacred-piano-embraced",
   ownLength: 3.1882166666666665,
-  ownProgress: 0,
+  ownProgress: 3.1882166666666665,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

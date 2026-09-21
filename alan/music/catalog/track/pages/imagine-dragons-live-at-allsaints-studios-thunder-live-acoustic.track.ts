@@ -5,10 +5,10 @@ export const imagineDragonsLiveAtAllsaintsStudiosThunderLiveAcoustic = {
   type: "page-type/track",
   slug: "imagine-dragons-live-at-allsaints-studios-thunder-live-acoustic",
   ownLength: 3.566666666666667,
-  ownProgress: 0,
+  ownProgress: 3.566666666666667,
   partOfCollections: ["release/imagine-dragons-live-at-allsaints-studios"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionFathersAndDaughtersSoloPianoVe
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-fathers-and-daughters-solo-piano-version",
   ownLength: 4.102083333333334,
-  ownProgress: 0,
+  ownProgress: 4.102083333333334,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

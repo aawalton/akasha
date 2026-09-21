@@ -5,10 +5,10 @@ export const vinnyMarchiMissingMeMissingMe = {
   type: "page-type/track",
   slug: "vinny-marchi-missing-me-missing-me",
   ownLength: 3.308666666666667,
-  ownProgress: 0,
+  ownProgress: 3.308666666666667,
   partOfCollections: ["release/vinny-marchi-missing-me"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

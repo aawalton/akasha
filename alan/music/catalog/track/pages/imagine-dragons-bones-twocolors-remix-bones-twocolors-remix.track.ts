@@ -5,10 +5,10 @@ export const imagineDragonsBonesTwocolorsRemixBonesTwocolorsRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-bones-twocolors-remix-bones-twocolors-remix",
   ownLength: 4.2682,
-  ownProgress: 0,
+  ownProgress: 4.2682,
   partOfCollections: ["release/imagine-dragons-bones-twocolors-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

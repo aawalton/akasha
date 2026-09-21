@@ -5,10 +5,10 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheSkyAndTheDawnAn
   type: "page-type/track",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection-the-sky-and-the-dawn-and-the-sun",
   ownLength: 5.3191,
-  ownProgress: 0,
+  ownProgress: 5.3191,
   partOfCollections: ["release/celtic-woman-2-the-greatest-journey-essential-collection"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

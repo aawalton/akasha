@@ -5,10 +5,10 @@ export const sabrinaCarpenterEspressoEspresso = {
   type: "page-type/track",
   slug: "sabrina-carpenter-espresso-espresso",
   ownLength: 2.9243166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9243166666666665,
   partOfCollections: ["release/sabrina-carpenter-espresso"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterEyesWideOpenWellBeTheStars = {
   type: "page-type/track",
   slug: "sabrina-carpenter-eyes-wide-open-well-be-the-stars",
   ownLength: 3.1146666666666665,
-  ownProgress: 0,
+  ownProgress: 3.1146666666666665,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

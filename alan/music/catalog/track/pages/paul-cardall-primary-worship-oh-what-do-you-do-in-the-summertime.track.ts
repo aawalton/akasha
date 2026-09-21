@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipOhWhatDoYouDoInTheSummertime = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-oh-what-do-you-do-in-the-summertime",
   ownLength: 2.8697833333333334,
-  ownProgress: 0,
+  ownProgress: 2.8697833333333334,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

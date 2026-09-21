@@ -5,10 +5,10 @@ export const thePianoGuys3HappierHappier = {
   type: "page-type/track",
   slug: "the-piano-guys-3-happier-happier",
   ownLength: 3.74,
-  ownProgress: 0,
+  ownProgress: 3.74,
   partOfCollections: ["release/the-piano-guys-3-happier"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

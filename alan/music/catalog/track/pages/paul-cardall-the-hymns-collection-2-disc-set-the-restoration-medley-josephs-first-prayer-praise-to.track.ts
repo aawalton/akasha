@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetTheRestorationMedleyJosephsFir
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-the-restoration-medley-josephs-first-prayer-praise-to",
   ownLength: 7.725266666666666,
-  ownProgress: 0,
+  ownProgress: 7.725266666666666,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 31,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

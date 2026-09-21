@@ -5,10 +5,10 @@ export const imagineDragonsMercuryActs12NoTimeForToxicPeople = {
   type: "page-type/track",
   slug: "imagine-dragons-mercury-acts-1-2-no-time-for-toxic-people",
   ownLength: 3.4645,
-  ownProgress: 0,
+  ownProgress: 3.4645,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

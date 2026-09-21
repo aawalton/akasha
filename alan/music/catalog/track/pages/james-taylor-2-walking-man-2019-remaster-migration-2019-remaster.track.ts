@@ -5,10 +5,10 @@ export const jamesTaylor2WalkingMan2019RemasterMigration2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-walking-man-2019-remaster-migration-2019-remaster",
   ownLength: 3.2784333333333335,
-  ownProgress: 0,
+  ownProgress: 3.2784333333333335,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

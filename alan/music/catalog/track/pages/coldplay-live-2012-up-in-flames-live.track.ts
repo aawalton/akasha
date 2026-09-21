@@ -5,10 +5,10 @@ export const coldplayLive2012UpInFlamesLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-up-in-flames-live",
   ownLength: 3.2973333333333334,
-  ownProgress: 0,
+  ownProgress: 3.2973333333333334,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

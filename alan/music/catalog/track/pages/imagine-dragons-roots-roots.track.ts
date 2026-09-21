@@ -5,10 +5,10 @@ export const imagineDragonsRootsRoots = {
   type: "page-type/track",
   slug: "imagine-dragons-roots-roots",
   ownLength: 2.9084333333333334,
-  ownProgress: 0,
+  ownProgress: 2.9084333333333334,
   partOfCollections: ["release/imagine-dragons-roots"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

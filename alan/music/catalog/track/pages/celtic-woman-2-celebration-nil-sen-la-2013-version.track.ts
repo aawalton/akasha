@@ -5,10 +5,10 @@ export const celticWoman2CelebrationNilSenLa2013Version = {
   type: "page-type/track",
   slug: "celtic-woman-2-celebration-nil-sen-la-2013-version",
   ownLength: 3.6273333333333335,
-  ownProgress: 0,
+  ownProgress: 3.6273333333333335,
   partOfCollections: ["release/celtic-woman-2-celebration"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const billieEilishHappierThanEverEverybodyDies = {
   type: "page-type/track",
   slug: "billie-eilish-happier-than-ever-everybody-dies",
   ownLength: 3.4437,
-  ownProgress: 0,
+  ownProgress: 3.4437,
   partOfCollections: ["release/billie-eilish-happier-than-ever"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

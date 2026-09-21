@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysNowLetUsRejoice = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-now-let-us-rejoice",
   ownLength: 2.6544333333333334,
-  ownProgress: 0,
+  ownProgress: 2.6544333333333334,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 21,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

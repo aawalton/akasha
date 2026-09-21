@@ -5,10 +5,10 @@ export const billieEilishOceanEyesTheRemixesOceanEyesBlackbearRemix = {
   type: "page-type/track",
   slug: "billie-eilish-ocean-eyes-the-remixes-ocean-eyes-blackbear-remix",
   ownLength: 3.2551,
-  ownProgress: 0,
+  ownProgress: 3.2551,
   partOfCollections: ["release/billie-eilish-ocean-eyes-the-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

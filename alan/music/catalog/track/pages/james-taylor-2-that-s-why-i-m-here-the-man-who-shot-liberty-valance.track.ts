@@ -5,10 +5,10 @@ export const jamesTaylor2ThatSWhyIMHereTheManWhoShotLibertyValance = {
   type: "page-type/track",
   slug: "james-taylor-2-that-s-why-i-m-here-the-man-who-shot-liberty-valance",
   ownLength: 3.752666666666667,
-  ownProgress: 0,
+  ownProgress: 3.752666666666667,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

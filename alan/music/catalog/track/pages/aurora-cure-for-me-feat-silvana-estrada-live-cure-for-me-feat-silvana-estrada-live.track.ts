@@ -5,10 +5,10 @@ export const auroraCureForMeFeatSilvanaEstradaLiveCureForMeFeatSilvanaEstradaLiv
   type: "page-type/track",
   slug: "aurora-cure-for-me-feat-silvana-estrada-live-cure-for-me-feat-silvana-estrada-live",
   ownLength: 3.85475,
-  ownProgress: 0,
+  ownProgress: 3.85475,
   partOfCollections: ["release/aurora-cure-for-me-feat-silvana-estrada-live"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraMurderSong54321MurderSong54321Acoustic = {
   type: "page-type/track",
   slug: "aurora-murder-song-5-4-3-2-1-murder-song-5-4-3-2-1-acoustic",
   ownLength: 3.644433333333333,
-  ownProgress: 0,
+  ownProgress: 3.644433333333333,
   partOfCollections: ["release/aurora-murder-song-5-4-3-2-1"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

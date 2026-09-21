@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalLoveRomanceWhatMakesYouBeautiful = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-love-romance-what-makes-you-beautiful",
   ownLength: 2.873066666666667,
-  ownProgress: 0,
+  ownProgress: 2.873066666666667,
   partOfCollections: ["release/the-piano-guys-3-classical-love-romance"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3SoFarSoGoodTheCelloSong = {
   type: "page-type/track",
   slug: "the-piano-guys-3-so-far-so-good-the-cello-song",
   ownLength: 3.2651,
-  ownProgress: 0,
+  ownProgress: 3.2651,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

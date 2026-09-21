@@ -5,10 +5,10 @@ export const zaraLarsson1Secret = {
   type: "page-type/track",
   slug: "zara-larsson-1-secret",
   ownLength: 2.730916666666667,
-  ownProgress: 0,
+  ownProgress: 2.730916666666667,
   partOfCollections: ["release/zara-larsson-1"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

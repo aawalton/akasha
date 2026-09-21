@@ -5,10 +5,10 @@ export const jamesTaylor2CoversWichitaLineman = {
   type: "page-type/track",
   slug: "james-taylor-2-covers-wichita-lineman",
   ownLength: 3.6871,
-  ownProgress: 0,
+  ownProgress: 3.6871,
   partOfCollections: ["release/james-taylor-2-covers"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

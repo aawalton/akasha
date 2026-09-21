@@ -5,10 +5,10 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePlease2 = {
   type: "page-type/track",
   slug: "sabrina-carpenter-please-please-please-2-please-please-please-2",
   ownLength: 3.1028333333333333,
-  ownProgress: 0,
+  ownProgress: 3.1028333333333333,
   partOfCollections: ["release/sabrina-carpenter-please-please-please-2"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraAppleTreeGeorgiaRemixTheRiver = {
   type: "page-type/track",
   slug: "aurora-apple-tree-georgia-remix-the-river",
   ownLength: 3.6308833333333332,
-  ownProgress: 0,
+  ownProgress: 3.6308833333333332,
   partOfCollections: ["release/aurora-apple-tree-georgia-remix"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

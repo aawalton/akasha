@@ -5,10 +5,10 @@ export const thePianoGuys3LullabyClairDeLune = {
   type: "page-type/track",
   slug: "the-piano-guys-3-lullaby-clair-de-lune",
   ownLength: 3.2080166666666665,
-  ownProgress: 0,
+  ownProgress: 3.2080166666666665,
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

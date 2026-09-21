@@ -5,10 +5,10 @@ export const imagineDragonsDemonsDemonsKidinakornerRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-demons-demons-kidinakorner-remix",
   ownLength: 3.328,
-  ownProgress: 0,
+  ownProgress: 3.328,
   partOfCollections: ["release/imagine-dragons-demons"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

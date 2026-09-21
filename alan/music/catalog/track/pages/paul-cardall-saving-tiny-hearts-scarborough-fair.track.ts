@@ -5,10 +5,10 @@ export const paulCardallSavingTinyHeartsScarboroughFair = {
   type: "page-type/track",
   slug: "paul-cardall-saving-tiny-hearts-scarborough-fair",
   ownLength: 3.713766666666667,
-  ownProgress: 0,
+  ownProgress: 3.713766666666667,
   partOfCollections: ["release/paul-cardall-saving-tiny-hearts"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

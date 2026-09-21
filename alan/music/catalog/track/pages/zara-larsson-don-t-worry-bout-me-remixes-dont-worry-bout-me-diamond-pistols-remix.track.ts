@@ -5,10 +5,10 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeDiamondPistolsRemix
   type: "page-type/track",
   slug: "zara-larsson-don-t-worry-bout-me-remixes-dont-worry-bout-me-diamond-pistols-remix",
   ownLength: 4,
-  ownProgress: 0,
+  ownProgress: 4,
   partOfCollections: ["release/zara-larsson-don-t-worry-bout-me-remixes"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

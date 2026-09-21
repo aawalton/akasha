@@ -5,10 +5,10 @@ export const arianaGrandeChristmasChillTrueLove = {
   type: "page-type/track",
   slug: "ariana-grande-christmas-chill-true-love",
   ownLength: 2.7706166666666667,
-  ownProgress: 0,
+  ownProgress: 2.7706166666666667,
   partOfCollections: ["release/ariana-grande-christmas-chill"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

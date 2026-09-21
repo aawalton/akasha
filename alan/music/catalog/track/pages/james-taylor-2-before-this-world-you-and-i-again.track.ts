@@ -5,10 +5,10 @@ export const jamesTaylor2BeforeThisWorldYouAndIAgain = {
   type: "page-type/track",
   slug: "james-taylor-2-before-this-world-you-and-i-again",
   ownLength: 3.8817666666666666,
-  ownProgress: 0,
+  ownProgress: 3.8817666666666666,
   partOfCollections: ["release/james-taylor-2-before-this-world"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

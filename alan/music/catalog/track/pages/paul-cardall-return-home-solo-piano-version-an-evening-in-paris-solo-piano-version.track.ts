@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionAnEveningInParisSoloPianoVersi
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-an-evening-in-paris-solo-piano-version",
   ownLength: 5.083816666666666,
-  ownProgress: 0,
+  ownProgress: 5.083816666666666,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

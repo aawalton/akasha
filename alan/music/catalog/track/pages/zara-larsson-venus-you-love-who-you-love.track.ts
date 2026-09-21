@@ -5,10 +5,10 @@ export const zaraLarssonVenusYouLoveWhoYouLove = {
   type: "page-type/track",
   slug: "zara-larsson-venus-you-love-who-you-love",
   ownLength: 3.0957166666666667,
-  ownProgress: 0,
+  ownProgress: 3.0957166666666667,
   partOfCollections: ["release/zara-larsson-venus"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2Gorilla2019RemasterIWasAFoolToCare2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-gorilla-2019-remaster-i-was-a-fool-to-care-2019-remaster",
   ownLength: 3.3493333333333335,
-  ownProgress: 0,
+  ownProgress: 3.3493333333333335,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

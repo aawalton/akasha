@@ -5,10 +5,10 @@ export const jamesTaylor2InThePocket2019RemasterSlowBurningLove2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-in-the-pocket-2019-remaster-slow-burning-love-2019-remaster",
   ownLength: 3.7217666666666664,
-  ownProgress: 0,
+  ownProgress: 3.7217666666666664,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

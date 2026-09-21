@@ -5,10 +5,10 @@ export const arianaGrandeIDonTKnowWhyIJustDoIDontKnowWhyIJustDo = {
   type: "page-type/track",
   slug: "ariana-grande-i-don-t-know-why-i-just-do-i-dont-know-why-i-just-do",
   ownLength: 3.7471,
-  ownProgress: 0,
+  ownProgress: 3.7471,
   partOfCollections: ["release/ariana-grande-i-don-t-know-why-i-just-do"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

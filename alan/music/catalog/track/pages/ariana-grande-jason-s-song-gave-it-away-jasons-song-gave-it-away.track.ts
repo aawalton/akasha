@@ -5,10 +5,10 @@ export const arianaGrandeJasonSSongGaveItAwayJasonsSongGaveItAway = {
   type: "page-type/track",
   slug: "ariana-grande-jason-s-song-gave-it-away-jasons-song-gave-it-away",
   ownLength: 4.410216666666667,
-  ownProgress: 0,
+  ownProgress: 4.410216666666667,
   partOfCollections: ["release/ariana-grande-jason-s-song-gave-it-away"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

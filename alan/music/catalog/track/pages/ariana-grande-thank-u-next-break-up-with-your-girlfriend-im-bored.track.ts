@@ -5,10 +5,10 @@ export const arianaGrandeThankUNextBreakUpWithYourGirlfriendImBored = {
   type: "page-type/track",
   slug: "ariana-grande-thank-u-next-break-up-with-your-girlfriend-im-bored",
   ownLength: 3.174,
-  ownProgress: 0,
+  ownProgress: 3.174,
   partOfCollections: ["release/ariana-grande-thank-u-next"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

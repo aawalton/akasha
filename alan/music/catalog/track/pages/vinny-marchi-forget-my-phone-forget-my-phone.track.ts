@@ -5,10 +5,10 @@ export const vinnyMarchiForgetMyPhoneForgetMyPhone = {
   type: "page-type/track",
   slug: "vinny-marchi-forget-my-phone-forget-my-phone",
   ownLength: 2.595066666666667,
-  ownProgress: 0,
+  ownProgress: 2.595066666666667,
   partOfCollections: ["release/vinny-marchi-forget-my-phone"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

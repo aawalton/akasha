@@ -5,10 +5,10 @@ export const imagineDragonsMercuryActs12DullKnives = {
   type: "page-type/track",
   slug: "imagine-dragons-mercury-acts-1-2-dull-knives",
   ownLength: 3.5580166666666666,
-  ownProgress: 0,
+  ownProgress: 3.5580166666666666,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

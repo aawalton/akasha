@@ -5,10 +5,10 @@ export const jamesTaylor2JtIfIKeepMyHeartOutOfSight = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-if-i-keep-my-heart-out-of-sight",
   ownLength: 2.9867833333333333,
-  ownProgress: 0,
+  ownProgress: 2.9867833333333333,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

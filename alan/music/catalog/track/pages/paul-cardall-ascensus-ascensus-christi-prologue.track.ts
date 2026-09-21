@@ -5,10 +5,10 @@ export const paulCardallAscensusAscensusChristiPrologue = {
   type: "page-type/track",
   slug: "paul-cardall-ascensus-ascensus-christi-prologue",
   ownLength: 0.7947833333333333,
-  ownProgress: 0,
+  ownProgress: 0.7947833333333333,
   partOfCollections: ["release/paul-cardall-ascensus"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

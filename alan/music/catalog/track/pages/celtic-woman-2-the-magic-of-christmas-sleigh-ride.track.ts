@@ -5,10 +5,10 @@ export const celticWoman2TheMagicOfChristmasSleighRide = {
   type: "page-type/track",
   slug: "celtic-woman-2-the-magic-of-christmas-sleigh-ride",
   ownLength: 3.58,
-  ownProgress: 0,
+  ownProgress: 3.58,
   partOfCollections: ["release/celtic-woman-2-the-magic-of-christmas"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

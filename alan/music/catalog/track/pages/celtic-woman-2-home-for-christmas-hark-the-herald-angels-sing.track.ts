@@ -5,10 +5,10 @@ export const celticWoman2HomeForChristmasHarkTheHeraldAngelsSing = {
   type: "page-type/track",
   slug: "celtic-woman-2-home-for-christmas-hark-the-herald-angels-sing",
   ownLength: 5.030883333333334,
-  ownProgress: 0,
+  ownProgress: 5.030883333333334,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

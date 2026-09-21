@@ -5,10 +5,10 @@ export const paulCardallTheHymnsCollection2DiscSetGodBeWithYouTillWeMeetAgain = 
   type: "page-type/track",
   slug: "paul-cardall-the-hymns-collection-2-disc-set-god-be-with-you-till-we-meet-again",
   ownLength: 3.3284333333333334,
-  ownProgress: 0,
+  ownProgress: 3.3284333333333334,
   partOfCollections: ["release/paul-cardall-the-hymns-collection-2-disc-set"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

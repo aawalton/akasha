@@ -5,10 +5,10 @@ export const arianaGrandePositionsDeluxeWorstBehavior = {
   type: "page-type/track",
   slug: "ariana-grande-positions-deluxe-worst-behavior",
   ownLength: 2.07135,
-  ownProgress: 0,
+  ownProgress: 2.07135,
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const zaraLarssonPosterGirlLookWhatYouveDone = {
   type: "page-type/track",
   slug: "zara-larsson-poster-girl-look-what-youve-done",
   ownLength: 3.0225666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0225666666666666,
   partOfCollections: ["release/zara-larsson-poster-girl"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

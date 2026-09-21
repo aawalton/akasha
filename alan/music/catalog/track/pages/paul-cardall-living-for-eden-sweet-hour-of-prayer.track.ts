@@ -5,10 +5,10 @@ export const paulCardallLivingForEdenSweetHourOfPrayer = {
   type: "page-type/track",
   slug: "paul-cardall-living-for-eden-sweet-hour-of-prayer",
   ownLength: 3.1856166666666668,
-  ownProgress: 0,
+  ownProgress: 3.1856166666666668,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   position: 22,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayMoonMusicFullMoonEditionIAmAMountain = {
   type: "page-type/track",
   slug: "coldplay-moon-music-full-moon-edition-i-am-a-mountain",
   ownLength: 3.1135,
-  ownProgress: 0,
+  ownProgress: 3.1135,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

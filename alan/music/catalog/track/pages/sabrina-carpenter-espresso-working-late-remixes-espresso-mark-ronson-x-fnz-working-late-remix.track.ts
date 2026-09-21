@@ -5,10 +5,10 @@ export const sabrinaCarpenterEspressoWorkingLateRemixesEspressoMarkRonsonXFnzWor
   type: "page-type/track",
   slug: "sabrina-carpenter-espresso-working-late-remixes-espresso-mark-ronson-x-fnz-working-late-remix",
   ownLength: 3.0692666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0692666666666666,
   partOfCollections: ["release/sabrina-carpenter-espresso-working-late-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

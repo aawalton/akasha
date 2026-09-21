@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoAfterTheRainFall = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-after-the-rain-fall",
   ownLength: 4.6831,
-  ownProgress: 0,
+  ownProgress: 4.6831,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

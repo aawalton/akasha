@@ -5,10 +5,10 @@ export const zaraLarsson1NeverGonnaDie = {
   type: "page-type/track",
   slug: "zara-larsson-1-never-gonna-die",
   ownLength: 3.7713666666666668,
-  ownProgress: 0,
+  ownProgress: 3.7713666666666668,
   partOfCollections: ["release/zara-larsson-1"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

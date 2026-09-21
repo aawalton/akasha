@@ -5,10 +5,10 @@ export const jamesTaylor2JamesTaylorLiveSecretOLife = {
   type: "page-type/track",
   slug: "james-taylor-2-james-taylor-live-secret-o-life",
   ownLength: 3.7662166666666668,
-  ownProgress: 0,
+  ownProgress: 3.7662166666666668,
   partOfCollections: ["release/james-taylor-2-james-taylor-live"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

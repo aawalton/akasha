@@ -5,10 +5,10 @@ export const paulCardallNewLifeSweetIsTheWork = {
   type: "page-type/track",
   slug: "paul-cardall-new-life-sweet-is-the-work",
   ownLength: 1.5308833333333334,
-  ownProgress: 0,
+  ownProgress: 1.5308833333333334,
   partOfCollections: ["release/paul-cardall-new-life"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

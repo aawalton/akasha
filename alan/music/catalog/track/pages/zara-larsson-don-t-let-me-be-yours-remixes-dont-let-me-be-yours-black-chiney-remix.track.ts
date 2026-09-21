@@ -5,10 +5,10 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursBlackChineyRemix 
   type: "page-type/track",
   slug: "zara-larsson-don-t-let-me-be-yours-remixes-dont-let-me-be-yours-black-chiney-remix",
   ownLength: 3.4296166666666665,
-  ownProgress: 0,
+  ownProgress: 3.4296166666666665,
   partOfCollections: ["release/zara-larsson-don-t-let-me-be-yours-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

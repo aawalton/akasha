@@ -5,10 +5,10 @@ export const paulCardallGraceInGriefAGriefObserved = {
   type: "page-type/track",
   slug: "paul-cardall-grace-in-grief-a-grief-observed",
   ownLength: 3.9488166666666666,
-  ownProgress: 0,
+  ownProgress: 3.9488166666666666,
   partOfCollections: ["release/paul-cardall-grace-in-grief"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

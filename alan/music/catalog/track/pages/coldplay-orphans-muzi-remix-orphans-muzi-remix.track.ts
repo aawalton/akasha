@@ -5,10 +5,10 @@ export const coldplayOrphansMuziRemixOrphansMuziRemix = {
   type: "page-type/track",
   slug: "coldplay-orphans-muzi-remix-orphans-muzi-remix",
   ownLength: 3.686,
-  ownProgress: 0,
+  ownProgress: 3.686,
   partOfCollections: ["release/coldplay-orphans-muzi-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

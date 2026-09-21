@@ -5,10 +5,10 @@ export const celticWoman2SongsFromTheHeartGoodnightMyAngel = {
   type: "page-type/track",
   slug: "celtic-woman-2-songs-from-the-heart-goodnight-my-angel",
   ownLength: 3.2477666666666667,
-  ownProgress: 0,
+  ownProgress: 3.2477666666666667,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

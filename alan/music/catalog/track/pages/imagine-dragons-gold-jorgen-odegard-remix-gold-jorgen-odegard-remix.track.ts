@@ -5,10 +5,10 @@ export const imagineDragonsGoldJorgenOdegardRemixGoldJorgenOdegardRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-gold-jorgen-odegard-remix-gold-jorgen-odegard-remix",
   ownLength: 4.1146666666666665,
-  ownProgress: 0,
+  ownProgress: 4.1146666666666665,
   partOfCollections: ["release/imagine-dragons-gold-jorgen-odegard-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

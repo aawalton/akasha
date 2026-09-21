@@ -5,10 +5,10 @@ export const musicalTheaterWickedTheSoundtrackImNotThatGirl = {
   type: "page-type/track",
   slug: "musical-theater-wicked-the-soundtrack-im-not-that-girl",
   ownLength: 3.9507166666666667,
-  ownProgress: 0,
+  ownProgress: 3.9507166666666667,
   partOfCollections: ["release/musical-theater-wicked-the-soundtrack"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuys2MissionImpossibleFeatLindseyStirling = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-2-mission-impossible-feat-lindsey-stirling",
   ownLength: 3.7666666666666666,
-  ownProgress: 0,
+  ownProgress: 3.7666666666666666,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys-2"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

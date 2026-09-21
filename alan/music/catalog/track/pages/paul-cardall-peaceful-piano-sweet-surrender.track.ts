@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoSweetSurrender = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-sweet-surrender",
   ownLength: 3.0182166666666665,
-  ownProgress: 0,
+  ownProgress: 3.0182166666666665,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

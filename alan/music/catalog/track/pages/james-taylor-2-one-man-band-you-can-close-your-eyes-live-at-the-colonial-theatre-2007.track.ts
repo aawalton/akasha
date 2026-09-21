@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandYouCanCloseYourEyesLiveAtTheColonialTheatre20
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-you-can-close-your-eyes-live-at-the-colonial-theatre-2007",
   ownLength: 3.14355,
-  ownProgress: 0,
+  ownProgress: 3.14355,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 19,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

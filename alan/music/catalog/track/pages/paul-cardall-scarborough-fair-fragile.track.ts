@@ -5,10 +5,10 @@ export const paulCardallScarboroughFairFragile = {
   type: "page-type/track",
   slug: "paul-cardall-scarborough-fair-fragile",
   ownLength: 2.84125,
-  ownProgress: 0,
+  ownProgress: 2.84125,
   partOfCollections: ["release/paul-cardall-scarborough-fair"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

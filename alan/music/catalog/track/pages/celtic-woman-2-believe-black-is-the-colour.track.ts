@@ -5,10 +5,10 @@ export const celticWoman2BelieveBlackIsTheColour = {
   type: "page-type/track",
   slug: "celtic-woman-2-believe-black-is-the-colour",
   ownLength: 3.7391,
-  ownProgress: 0,
+  ownProgress: 3.7391,
   partOfCollections: ["release/celtic-woman-2-believe"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

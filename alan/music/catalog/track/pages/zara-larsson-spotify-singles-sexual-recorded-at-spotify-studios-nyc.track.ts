@@ -5,10 +5,10 @@ export const zaraLarssonSpotifySinglesSexualRecordedAtSpotifyStudiosNyc = {
   type: "page-type/track",
   slug: "zara-larsson-spotify-singles-sexual-recorded-at-spotify-studios-nyc",
   ownLength: 3.150933333333333,
-  ownProgress: 0,
+  ownProgress: 3.150933333333333,
   partOfCollections: ["release/zara-larsson-spotify-singles"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

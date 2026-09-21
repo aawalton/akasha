@@ -5,10 +5,10 @@ export const zaraLarsson1WannaBeYourBaby = {
   type: "page-type/track",
   slug: "zara-larsson-1-wanna-be-your-baby",
   ownLength: 3.080783333333333,
-  ownProgress: 0,
+  ownProgress: 3.080783333333333,
   partOfCollections: ["release/zara-larsson-1"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

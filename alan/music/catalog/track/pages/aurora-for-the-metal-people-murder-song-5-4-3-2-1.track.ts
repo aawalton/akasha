@@ -5,10 +5,10 @@ export const auroraForTheMetalPeopleMurderSong54321 = {
   type: "page-type/track",
   slug: "aurora-for-the-metal-people-murder-song-5-4-3-2-1",
   ownLength: 3.3397666666666668,
-  ownProgress: 0,
+  ownProgress: 3.3397666666666668,
   partOfCollections: ["release/aurora-for-the-metal-people"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

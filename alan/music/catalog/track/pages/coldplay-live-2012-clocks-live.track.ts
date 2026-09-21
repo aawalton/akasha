@@ -5,10 +5,10 @@ export const coldplayLive2012ClocksLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-clocks-live",
   ownLength: 4.749333333333333,
-  ownProgress: 0,
+  ownProgress: 4.749333333333333,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

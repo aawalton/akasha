@@ -5,10 +5,10 @@ export const paulCardallAscensusAscensusChristiViolinLeitmotif = {
   type: "page-type/track",
   slug: "paul-cardall-ascensus-ascensus-christi-violin-leitmotif",
   ownLength: 0.6,
-  ownProgress: 0,
+  ownProgress: 0.6,
   partOfCollections: ["release/paul-cardall-ascensus"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingDeluxeBreakYourHeartRightBack = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-deluxe-break-your-heart-right-back",
   ownLength: 4.2231,
-  ownProgress: 0,
+  ownProgress: 4.2231,
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

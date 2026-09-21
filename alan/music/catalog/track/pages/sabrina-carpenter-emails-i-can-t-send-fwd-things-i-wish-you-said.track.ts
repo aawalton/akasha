@@ -5,10 +5,10 @@ export const sabrinaCarpenterEmailsICanTSendFwdThingsIWishYouSaid = {
   type: "page-type/track",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd-things-i-wish-you-said",
   ownLength: 2.712466666666667,
-  ownProgress: 0,
+  ownProgress: 2.712466666666667,
   partOfCollections: ["release/sabrina-carpenter-emails-i-can-t-send-fwd"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

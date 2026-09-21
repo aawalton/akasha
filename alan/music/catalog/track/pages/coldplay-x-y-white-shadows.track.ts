@@ -5,10 +5,10 @@ export const coldplayXYWhiteShadows = {
   type: "page-type/track",
   slug: "coldplay-x-y-white-shadows",
   ownLength: 5.470316666666666,
-  ownProgress: 0,
+  ownProgress: 5.470316666666666,
   partOfCollections: ["release/coldplay-x-y"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereFeatBigSean 
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-right-there-feat-big-sean",
   ownLength: 4.118016666666667,
-  ownProgress: 0,
+  ownProgress: 4.118016666666667,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

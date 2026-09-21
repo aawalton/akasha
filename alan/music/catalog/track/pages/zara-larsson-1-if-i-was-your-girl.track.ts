@@ -5,10 +5,10 @@ export const zaraLarsson1IfIWasYourGirl = {
   type: "page-type/track",
   slug: "zara-larsson-1-if-i-was-your-girl",
   ownLength: 2.6628,
-  ownProgress: 0,
+  ownProgress: 2.6628,
   partOfCollections: ["release/zara-larsson-1"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

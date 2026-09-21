@@ -5,10 +5,10 @@ export const imagineDragonsItSTimeRemixesItsTimePenguinPrisonRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-it-s-time-remixes-its-time-penguin-prison-remix",
   ownLength: 4.390666666666666,
-  ownProgress: 0,
+  ownProgress: 4.390666666666666,
   partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

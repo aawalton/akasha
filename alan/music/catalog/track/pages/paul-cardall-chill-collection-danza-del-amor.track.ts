@@ -5,10 +5,10 @@ export const paulCardallChillCollectionDanzaDelAmor = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-danza-del-amor",
   ownLength: 3.9562333333333335,
-  ownProgress: 0,
+  ownProgress: 3.9562333333333335,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

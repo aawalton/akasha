@@ -5,10 +5,10 @@ export const imagineDragonsBelieverFeatLilWayneBelieverFeatLilWayne = {
   type: "page-type/track",
   slug: "imagine-dragons-believer-feat-lil-wayne-believer-feat-lil-wayne",
   ownLength: 3.66175,
-  ownProgress: 0,
+  ownProgress: 3.66175,
   partOfCollections: ["release/imagine-dragons-believer-feat-lil-wayne"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const jamesTaylor2JtYourSmilingFace = {
   type: "page-type/track",
   slug: "james-taylor-2-jt-your-smiling-face",
   ownLength: 2.7856833333333335,
-  ownProgress: 0,
+  ownProgress: 2.7856833333333335,
   partOfCollections: ["release/james-taylor-2-jt"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

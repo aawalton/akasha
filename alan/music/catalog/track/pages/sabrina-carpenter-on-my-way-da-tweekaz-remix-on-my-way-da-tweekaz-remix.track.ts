@@ -5,10 +5,10 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemixOnMyWayDaTweekazRemix = {
   type: "page-type/track",
   slug: "sabrina-carpenter-on-my-way-da-tweekaz-remix-on-my-way-da-tweekaz-remix",
   ownLength: 3.4033,
-  ownProgress: 0,
+  ownProgress: 3.4033,
   partOfCollections: ["release/sabrina-carpenter-on-my-way-da-tweekaz-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallSongsOfPraiseGreenHill = {
   type: "page-type/track",
   slug: "paul-cardall-songs-of-praise-green-hill",
   ownLength: 3.6584333333333334,
-  ownProgress: 0,
+  ownProgress: 3.6584333333333334,
   partOfCollections: ["release/paul-cardall-songs-of-praise"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterManSBestFriendWeAlmostBrokeUpAgainLastNight = {
   type: "page-type/track",
   slug: "sabrina-carpenter-man-s-best-friend-we-almost-broke-up-again-last-night",
   ownLength: 3.3896333333333333,
-  ownProgress: 0,
+  ownProgress: 3.3896333333333333,
   partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraAnimalSoulAnimalSoul = {
   type: "page-type/track",
   slug: "aurora-animal-soul-animal-soul",
   ownLength: 3.0366666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0366666666666666,
   partOfCollections: ["release/aurora-animal-soul"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

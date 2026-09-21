@@ -5,10 +5,10 @@ export const coldplayEverydayLifeWotwPotp = {
   type: "page-type/track",
   slug: "coldplay-everyday-life-wotw-potp",
   ownLength: 1.2822166666666666,
-  ownProgress: 0,
+  ownProgress: 1.2822166666666666,
   partOfCollections: ["release/coldplay-everyday-life"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

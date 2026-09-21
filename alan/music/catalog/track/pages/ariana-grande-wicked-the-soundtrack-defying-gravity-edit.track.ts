@@ -5,10 +5,10 @@ export const arianaGrandeWickedTheSoundtrackDefyingGravityEdit = {
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-defying-gravity-edit",
   ownLength: 3.5566166666666668,
-  ownProgress: 0,
+  ownProgress: 3.5566166666666668,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

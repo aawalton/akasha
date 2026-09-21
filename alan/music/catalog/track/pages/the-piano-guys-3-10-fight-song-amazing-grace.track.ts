@@ -5,10 +5,10 @@ export const thePianoGuys310FightSongAmazingGrace = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-fight-song-amazing-grace",
   ownLength: 4.0823833333333335,
-  ownProgress: 0,
+  ownProgress: 4.0823833333333335,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

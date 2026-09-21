@@ -5,10 +5,10 @@ export const auroraWalkingInTheAirWalkingInTheAir = {
   type: "page-type/track",
   slug: "aurora-walking-in-the-air-walking-in-the-air",
   ownLength: 3.4842166666666667,
-  ownProgress: 0,
+  ownProgress: 3.4842166666666667,
   partOfCollections: ["release/aurora-walking-in-the-air"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

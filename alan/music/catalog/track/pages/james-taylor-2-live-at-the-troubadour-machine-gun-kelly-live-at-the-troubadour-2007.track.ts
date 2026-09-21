@@ -5,10 +5,10 @@ export const jamesTaylor2LiveAtTheTroubadourMachineGunKellyLiveAtTheTroubadour20
   type: "page-type/track",
   slug: "james-taylor-2-live-at-the-troubadour-machine-gun-kelly-live-at-the-troubadour-2007",
   ownLength: 2.9882166666666667,
-  ownProgress: 0,
+  ownProgress: 2.9882166666666667,
   partOfCollections: ["release/james-taylor-2-live-at-the-troubadour"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

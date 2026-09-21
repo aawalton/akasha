@@ -5,10 +5,10 @@ export const paulCardallHymnsVol2LoveAtHome = {
   type: "page-type/track",
   slug: "paul-cardall-hymns-vol-2-love-at-home",
   ownLength: 3.7809666666666666,
-  ownProgress: 0,
+  ownProgress: 3.7809666666666666,
   partOfCollections: ["release/paul-cardall-hymns-vol-2"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

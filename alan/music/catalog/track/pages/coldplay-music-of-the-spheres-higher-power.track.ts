@@ -5,10 +5,10 @@ export const coldplayMusicOfTheSpheresHigherPower = {
   type: "page-type/track",
   slug: "coldplay-music-of-the-spheres-higher-power",
   ownLength: 3.4446833333333333,
-  ownProgress: 0,
+  ownProgress: 3.4446833333333333,
   partOfCollections: ["release/coldplay-music-of-the-spheres"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

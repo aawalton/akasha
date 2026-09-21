@@ -5,10 +5,10 @@ export const coldplayLive2003GodPutASmileUponYourFaceLiveInSydney = {
   type: "page-type/track",
   slug: "coldplay-live-2003-god-put-a-smile-upon-your-face-live-in-sydney",
   ownLength: 4.946,
-  ownProgress: 0,
+  ownProgress: 4.946,
   partOfCollections: ["release/coldplay-live-2003"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2SoloToWhereYouAre = {
   type: "page-type/track",
   slug: "celtic-woman-2-solo-to-where-you-are",
   ownLength: 3.897466666666667,
-  ownProgress: 0,
+  ownProgress: 3.897466666666667,
   partOfCollections: ["release/celtic-woman-2-solo"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

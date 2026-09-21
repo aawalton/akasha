@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBabyILiveFromLondon = 
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-baby-i-live-from-london",
   ownLength: 3.2884,
-  ownProgress: 0,
+  ownProgress: 3.2884,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

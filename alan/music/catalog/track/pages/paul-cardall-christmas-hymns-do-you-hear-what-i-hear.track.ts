@@ -5,10 +5,10 @@ export const paulCardallChristmasHymnsDoYouHearWhatIHear = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hymns-do-you-hear-what-i-hear",
   ownLength: 4.181766666666666,
-  ownProgress: 0,
+  ownProgress: 4.181766666666666,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

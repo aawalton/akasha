@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsRadioactive = {
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-radioactive",
   ownLength: 3.11355,
-  ownProgress: 0,
+  ownProgress: 3.11355,
   partOfCollections: ["release/imagine-dragons-night-visions"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

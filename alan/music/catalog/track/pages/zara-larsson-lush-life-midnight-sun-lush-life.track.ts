@@ -5,10 +5,10 @@ export const zaraLarssonLushLifeMidnightSunLushLife = {
   type: "page-type/track",
   slug: "zara-larsson-lush-life-midnight-sun-lush-life",
   ownLength: 3.3378,
-  ownProgress: 0,
+  ownProgress: 3.3378,
   partOfCollections: ["release/zara-larsson-lush-life-midnight-sun"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

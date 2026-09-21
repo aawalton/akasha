@@ -5,10 +5,10 @@ export const jamesTaylor2OneManBandFireAndRainLiveAtTheColonialTheatre2007 = {
   type: "page-type/track",
   slug: "james-taylor-2-one-man-band-fire-and-rain-live-at-the-colonial-theatre-2007",
   ownLength: 4.8691,
-  ownProgress: 0,
+  ownProgress: 4.8691,
   partOfCollections: ["release/james-taylor-2-one-man-band"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

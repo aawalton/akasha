@@ -5,10 +5,10 @@ export const paulCardallPrimaryWorshipILoveToSeeTheTemple = {
   type: "page-type/track",
   slug: "paul-cardall-primary-worship-i-love-to-see-the-temple",
   ownLength: 4.441766666666667,
-  ownProgress: 0,
+  ownProgress: 4.441766666666667,
   partOfCollections: ["release/paul-cardall-primary-worship"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

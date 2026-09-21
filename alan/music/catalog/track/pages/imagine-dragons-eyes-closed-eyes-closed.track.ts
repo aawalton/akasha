@@ -5,10 +5,10 @@ export const imagineDragonsEyesClosedEyesClosed = {
   type: "page-type/track",
   slug: "imagine-dragons-eyes-closed-eyes-closed",
   ownLength: 3.3335,
-  ownProgress: 0,
+  ownProgress: 3.3335,
   partOfCollections: ["release/imagine-dragons-eyes-closed"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

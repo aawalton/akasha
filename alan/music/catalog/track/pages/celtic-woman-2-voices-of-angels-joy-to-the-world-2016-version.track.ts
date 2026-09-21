@@ -5,10 +5,10 @@ export const celticWoman2VoicesOfAngelsJoyToTheWorld2016Version = {
   type: "page-type/track",
   slug: "celtic-woman-2-voices-of-angels-joy-to-the-world-2016-version",
   ownLength: 3.498666666666667,
-  ownProgress: 0,
+  ownProgress: 3.498666666666667,
   partOfCollections: ["release/celtic-woman-2-voices-of-angels"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

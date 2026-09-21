@@ -5,10 +5,10 @@ export const celticWoman2EmeraldMusicalGemsBridgeOverTroubledWater = {
   type: "page-type/track",
   slug: "celtic-woman-2-emerald-musical-gems-bridge-over-troubled-water",
   ownLength: 2.9862166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9862166666666665,
   partOfCollections: ["release/celtic-woman-2-emerald-musical-gems"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

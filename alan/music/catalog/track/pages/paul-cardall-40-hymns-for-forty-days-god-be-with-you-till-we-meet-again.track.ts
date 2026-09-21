@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysGodBeWithYouTillWeMeetAgain = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-god-be-with-you-till-we-meet-again",
   ownLength: 3.3493333333333335,
-  ownProgress: 0,
+  ownProgress: 3.3493333333333335,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 33,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

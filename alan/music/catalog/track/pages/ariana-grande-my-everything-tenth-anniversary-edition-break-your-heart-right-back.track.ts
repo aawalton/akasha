@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBreakYourHeartRightB
   type: "page-type/track",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-break-your-heart-right-back",
   ownLength: 4.223166666666667,
-  ownProgress: 0,
+  ownProgress: 4.223166666666667,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

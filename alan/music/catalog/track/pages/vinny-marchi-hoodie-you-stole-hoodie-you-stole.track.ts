@@ -5,10 +5,10 @@ export const vinnyMarchiHoodieYouStoleHoodieYouStole = {
   type: "page-type/track",
   slug: "vinny-marchi-hoodie-you-stole-hoodie-you-stole",
   ownLength: 2.8334333333333332,
-  ownProgress: 0,
+  ownProgress: 2.8334333333333332,
   partOfCollections: ["release/vinny-marchi-hoodie-you-stole"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

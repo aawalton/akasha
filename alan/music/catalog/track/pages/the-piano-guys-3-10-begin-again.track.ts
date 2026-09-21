@@ -5,10 +5,10 @@ export const thePianoGuys310BeginAgain = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-begin-again",
   ownLength: 4.0917666666666666,
-  ownProgress: 0,
+  ownProgress: 4.0917666666666666,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

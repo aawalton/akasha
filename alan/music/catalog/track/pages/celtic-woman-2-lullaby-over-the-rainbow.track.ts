@@ -5,10 +5,10 @@ export const celticWoman2LullabyOverTheRainbow = {
   type: "page-type/track",
   slug: "celtic-woman-2-lullaby-over-the-rainbow",
   ownLength: 2.6631,
-  ownProgress: 0,
+  ownProgress: 2.6631,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

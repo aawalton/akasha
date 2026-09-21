@@ -5,10 +5,10 @@ export const thePianoGuys310ThinkingOutLoud = {
   type: "page-type/track",
   slug: "the-piano-guys-3-10-thinking-out-loud",
   ownLength: 3.877266666666667,
-  ownProgress: 0,
+  ownProgress: 3.877266666666667,
   partOfCollections: ["release/the-piano-guys-3-10"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

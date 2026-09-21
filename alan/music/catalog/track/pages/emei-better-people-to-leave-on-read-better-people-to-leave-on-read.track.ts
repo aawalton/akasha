@@ -5,10 +5,10 @@ export const emeiBetterPeopleToLeaveOnReadBetterPeopleToLeaveOnRead = {
   type: "page-type/track",
   slug: "emei-better-people-to-leave-on-read-better-people-to-leave-on-read",
   ownLength: 2.1890666666666667,
-  ownProgress: 0,
+  ownProgress: 2.1890666666666667,
   partOfCollections: ["release/emei-better-people-to-leave-on-read"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

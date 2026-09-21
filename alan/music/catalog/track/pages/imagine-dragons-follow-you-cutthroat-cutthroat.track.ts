@@ -5,10 +5,10 @@ export const imagineDragonsFollowYouCutthroatCutthroat = {
   type: "page-type/track",
   slug: "imagine-dragons-follow-you-cutthroat-cutthroat",
   ownLength: 2.8290166666666665,
-  ownProgress: 0,
+  ownProgress: 2.8290166666666665,
   partOfCollections: ["release/imagine-dragons-follow-you-cutthroat"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

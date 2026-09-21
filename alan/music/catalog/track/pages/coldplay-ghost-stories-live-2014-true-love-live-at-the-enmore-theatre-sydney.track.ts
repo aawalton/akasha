@@ -5,10 +5,10 @@ export const coldplayGhostStoriesLive2014TrueLoveLiveAtTheEnmoreTheatreSydney = 
   type: "page-type/track",
   slug: "coldplay-ghost-stories-live-2014-true-love-live-at-the-enmore-theatre-sydney",
   ownLength: 4.3337666666666665,
-  ownProgress: 0,
+  ownProgress: 4.3337666666666665,
   partOfCollections: ["release/coldplay-ghost-stories-live-2014"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

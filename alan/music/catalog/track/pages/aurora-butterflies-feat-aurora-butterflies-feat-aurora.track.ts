@@ -5,10 +5,10 @@ export const auroraButterfliesFeatAuroraButterfliesFeatAurora = {
   type: "page-type/track",
   slug: "aurora-butterflies-feat-aurora-butterflies-feat-aurora",
   ownLength: 2.177766666666667,
-  ownProgress: 0,
+  ownProgress: 2.177766666666667,
   partOfCollections: ["release/aurora-butterflies-feat-aurora"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterEvolutionFeelsLikeLoneliness = {
   type: "page-type/track",
   slug: "sabrina-carpenter-evolution-feels-like-loneliness",
   ownLength: 3.3428833333333334,
-  ownProgress: 0,
+  ownProgress: 3.3428833333333334,
   partOfCollections: ["release/sabrina-carpenter-evolution"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

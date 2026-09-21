@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxStillStillStill = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-still-still-still",
   ownLength: 2.3033333333333332,
-  ownProgress: 0,
+  ownProgress: 2.3033333333333332,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

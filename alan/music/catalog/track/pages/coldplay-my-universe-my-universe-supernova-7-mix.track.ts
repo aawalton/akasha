@@ -5,10 +5,10 @@ export const coldplayMyUniverseMyUniverseSupernova7Mix = {
   type: "page-type/track",
   slug: "coldplay-my-universe-my-universe-supernova-7-mix",
   ownLength: 4.655283333333333,
-  ownProgress: 0,
+  ownProgress: 4.655283333333333,
   partOfCollections: ["release/coldplay-my-universe"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

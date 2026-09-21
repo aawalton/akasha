@@ -5,10 +5,10 @@ export const jamesTaylor2OctoberRoadSpecialEditionSailingToPhiladelphia = {
   type: "page-type/track",
   slug: "james-taylor-2-october-road-special-edition-sailing-to-philadelphia",
   ownLength: 5.481766666666666,
-  ownProgress: 0,
+  ownProgress: 5.481766666666666,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   position: 15,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

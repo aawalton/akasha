@@ -5,10 +5,10 @@ export const sabrinaCarpenterSkinSkin = {
   type: "page-type/track",
   slug: "sabrina-carpenter-skin-skin",
   ownLength: 2.9583333333333335,
-  ownProgress: 0,
+  ownProgress: 2.9583333333333335,
   partOfCollections: ["release/sabrina-carpenter-skin"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

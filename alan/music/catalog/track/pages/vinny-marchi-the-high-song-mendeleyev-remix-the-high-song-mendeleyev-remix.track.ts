@@ -5,10 +5,10 @@ export const vinnyMarchiTheHighSongMendeleyevRemixTheHighSongMendeleyevRemix = {
   type: "page-type/track",
   slug: "vinny-marchi-the-high-song-mendeleyev-remix-the-high-song-mendeleyev-remix",
   ownLength: 2.3138833333333335,
-  ownProgress: 0,
+  ownProgress: 2.3138833333333335,
   partOfCollections: ["release/vinny-marchi-the-high-song-mendeleyev-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

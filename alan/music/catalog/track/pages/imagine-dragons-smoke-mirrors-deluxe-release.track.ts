@@ -5,10 +5,10 @@ export const imagineDragonsSmokeMirrorsDeluxeRelease = {
   type: "page-type/track",
   slug: "imagine-dragons-smoke-mirrors-deluxe-release",
   ownLength: 2.47,
-  ownProgress: 0,
+  ownProgress: 2.47,
   partOfCollections: ["release/imagine-dragons-smoke-mirrors-deluxe"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

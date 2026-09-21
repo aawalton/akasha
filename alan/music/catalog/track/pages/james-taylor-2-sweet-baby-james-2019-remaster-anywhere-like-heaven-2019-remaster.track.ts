@@ -5,10 +5,10 @@ export const jamesTaylor2SweetBabyJames2019RemasterAnywhereLikeHeaven2019Remaste
   type: "page-type/track",
   slug: "james-taylor-2-sweet-baby-james-2019-remaster-anywhere-like-heaven-2019-remaster",
   ownLength: 3.4537666666666667,
-  ownProgress: 0,
+  ownProgress: 3.4537666666666667,
   partOfCollections: ["release/james-taylor-2-sweet-baby-james-2019-remaster"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

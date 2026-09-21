@@ -5,10 +5,10 @@ export const coldplayLeftrightleftrightleftLiveStrawberrySwingLiveInMadrid2008 =
   type: "page-type/track",
   slug: "coldplay-leftrightleftrightleft-live-strawberry-swing-live-in-madrid-2008",
   ownLength: 4.274,
-  ownProgress: 0,
+  ownProgress: 4.274,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

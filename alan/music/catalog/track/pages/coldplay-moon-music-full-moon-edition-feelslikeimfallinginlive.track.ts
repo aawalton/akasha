@@ -5,10 +5,10 @@ export const coldplayMoonMusicFullMoonEditionFeelslikeimfallinginlive = {
   type: "page-type/track",
   slug: "coldplay-moon-music-full-moon-edition-feelslikeimfallinginlive",
   ownLength: 4.601333333333334,
-  ownProgress: 0,
+  ownProgress: 4.601333333333334,
   partOfCollections: ["release/coldplay-moon-music-full-moon-edition"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

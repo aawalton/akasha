@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysLeadKindlyLight = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-lead-kindly-light",
   ownLength: 3.6951,
-  ownProgress: 0,
+  ownProgress: 3.6951,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 27,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

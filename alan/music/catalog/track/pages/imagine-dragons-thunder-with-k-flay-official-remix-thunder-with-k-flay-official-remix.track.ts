@@ -5,10 +5,10 @@ export const imagineDragonsThunderWithKFlayOfficialRemixThunderWithKFlayOfficial
   type: "page-type/track",
   slug: "imagine-dragons-thunder-with-k-flay-official-remix-thunder-with-k-flay-official-remix",
   ownLength: 3.262,
-  ownProgress: 0,
+  ownProgress: 3.262,
   partOfCollections: ["release/imagine-dragons-thunder-with-k-flay-official-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

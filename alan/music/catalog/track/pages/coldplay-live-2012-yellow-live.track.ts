@@ -5,10 +5,10 @@ export const coldplayLive2012YellowLive = {
   type: "page-type/track",
   slug: "coldplay-live-2012-yellow-live",
   ownLength: 6.866216666666666,
-  ownProgress: 0,
+  ownProgress: 6.866216666666666,
   partOfCollections: ["release/coldplay-live-2012"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

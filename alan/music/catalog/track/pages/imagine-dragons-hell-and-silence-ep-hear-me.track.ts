@@ -5,10 +5,10 @@ export const imagineDragonsHellAndSilenceEpHearMe = {
   type: "page-type/track",
   slug: "imagine-dragons-hell-and-silence-ep-hear-me",
   ownLength: 3.9102166666666665,
-  ownProgress: 0,
+  ownProgress: 3.9102166666666665,
   partOfCollections: ["release/imagine-dragons-hell-and-silence-ep"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

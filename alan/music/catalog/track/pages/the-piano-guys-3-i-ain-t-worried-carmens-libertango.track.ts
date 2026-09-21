@@ -5,10 +5,10 @@ export const thePianoGuys3IAinTWorriedCarmensLibertango = {
   type: "page-type/track",
   slug: "the-piano-guys-3-i-ain-t-worried-carmens-libertango",
   ownLength: 2.7695833333333333,
-  ownProgress: 0,
+  ownProgress: 2.7695833333333333,
   partOfCollections: ["release/the-piano-guys-3-i-ain-t-worried"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

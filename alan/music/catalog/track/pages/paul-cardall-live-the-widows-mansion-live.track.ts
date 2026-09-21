@@ -5,10 +5,10 @@ export const paulCardallLiveTheWidowsMansionLive = {
   type: "page-type/track",
   slug: "paul-cardall-live-the-widows-mansion-live",
   ownLength: 3.6317666666666666,
-  ownProgress: 0,
+  ownProgress: 3.6317666666666666,
   partOfCollections: ["release/paul-cardall-live"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

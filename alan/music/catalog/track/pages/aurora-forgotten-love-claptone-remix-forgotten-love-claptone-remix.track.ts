@@ -5,10 +5,10 @@ export const auroraForgottenLoveClaptoneRemixForgottenLoveClaptoneRemix = {
   type: "page-type/track",
   slug: "aurora-forgotten-love-claptone-remix-forgotten-love-claptone-remix",
   ownLength: 3.05725,
-  ownProgress: 0,
+  ownProgress: 3.05725,
   partOfCollections: ["release/aurora-forgotten-love-claptone-remix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

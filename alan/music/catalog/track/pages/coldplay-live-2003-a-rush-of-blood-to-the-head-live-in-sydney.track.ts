@@ -5,10 +5,10 @@ export const coldplayLive2003ARushOfBloodToTheHeadLiveInSydney = {
   type: "page-type/track",
   slug: "coldplay-live-2003-a-rush-of-blood-to-the-head-live-in-sydney",
   ownLength: 6.846216666666667,
-  ownProgress: 0,
+  ownProgress: 6.846216666666667,
   partOfCollections: ["release/coldplay-live-2003"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

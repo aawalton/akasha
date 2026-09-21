@@ -5,10 +5,10 @@ export const celticWoman2NollaigAChristmasJourneyHaveYourselfAMerryLittleChristm
   type: "page-type/track",
   slug: "celtic-woman-2-nollaig-a-christmas-journey-have-yourself-a-merry-little-christmas",
   ownLength: 3.0241666666666664,
-  ownProgress: 0,
+  ownProgress: 3.0241666666666664,
   partOfCollections: ["release/celtic-woman-2-nollaig-a-christmas-journey"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

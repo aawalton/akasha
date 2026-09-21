@@ -5,10 +5,10 @@ export const auroraTheGodsWeCanTouchCureForMe = {
   type: "page-type/track",
   slug: "aurora-the-gods-we-can-touch-cure-for-me",
   ownLength: 3.3606666666666665,
-  ownProgress: 0,
+  ownProgress: 3.3606666666666665,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

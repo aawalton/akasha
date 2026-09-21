@@ -5,10 +5,10 @@ export const coldplayEveryTeardropIsAWaterfall2MajorMinus = {
   type: "page-type/track",
   slug: "coldplay-every-teardrop-is-a-waterfall-2-major-minus",
   ownLength: 3.5047333333333333,
-  ownProgress: 0,
+  ownProgress: 3.5047333333333333,
   partOfCollections: ["release/coldplay-every-teardrop-is-a-waterfall-2"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

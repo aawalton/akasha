@@ -5,10 +5,10 @@ export const billieEilishBurnWithVinceStaplesBurnWithVinceStaples = {
   type: "page-type/track",
   slug: "billie-eilish-burn-with-vince-staples-burn-with-vince-staples",
   ownLength: 2.9835833333333333,
-  ownProgress: 0,
+  ownProgress: 2.9835833333333333,
   partOfCollections: ["release/billie-eilish-burn-with-vince-staples"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const billieEilishBadGuyWithJustinBieberBadGuyWithJustinBieber = {
   type: "page-type/track",
   slug: "billie-eilish-bad-guy-with-justin-bieber-bad-guy-with-justin-bieber",
   ownLength: 3.247316666666667,
-  ownProgress: 0,
+  ownProgress: 3.247316666666667,
   partOfCollections: ["release/billie-eilish-bad-guy-with-justin-bieber"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

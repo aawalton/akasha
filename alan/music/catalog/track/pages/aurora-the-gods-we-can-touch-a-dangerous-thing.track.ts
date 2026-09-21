@@ -5,10 +5,10 @@ export const auroraTheGodsWeCanTouchADangerousThing = {
   type: "page-type/track",
   slug: "aurora-the-gods-we-can-touch-a-dangerous-thing",
   ownLength: 3.5928833333333334,
-  ownProgress: 0,
+  ownProgress: 3.5928833333333334,
   partOfCollections: ["release/aurora-the-gods-we-can-touch"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2SoloYoullBeInMyHeart = {
   type: "page-type/track",
   slug: "celtic-woman-2-solo-youll-be-in-my-heart",
   ownLength: 3.99175,
-  ownProgress: 0,
+  ownProgress: 3.99175,
   partOfCollections: ["release/celtic-woman-2-solo"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

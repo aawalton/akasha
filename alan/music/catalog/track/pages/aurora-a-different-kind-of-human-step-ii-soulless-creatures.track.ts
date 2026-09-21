@@ -5,10 +5,10 @@ export const auroraADifferentKindOfHumanStepIiSoullessCreatures = {
   type: "page-type/track",
   slug: "aurora-a-different-kind-of-human-step-ii-soulless-creatures",
   ownLength: 5.034083333333333,
-  ownProgress: 0,
+  ownProgress: 5.034083333333333,
   partOfCollections: ["release/aurora-a-different-kind-of-human-step-ii"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

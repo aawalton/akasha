@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingDeluxeBestMistake = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-deluxe-best-mistake",
   ownLength: 3.89555,
-  ownProgress: 0,
+  ownProgress: 3.89555,
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

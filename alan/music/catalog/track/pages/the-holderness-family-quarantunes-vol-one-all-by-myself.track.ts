@@ -5,10 +5,10 @@ export const theHoldernessFamilyQuarantunesVolOneAllByMyself = {
   type: "page-type/track",
   slug: "the-holderness-family-quarantunes-vol-one-all-by-myself",
   ownLength: 2.4751,
-  ownProgress: 0,
+  ownProgress: 2.4751,
   partOfCollections: ["release/the-holderness-family-quarantunes-vol-one"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

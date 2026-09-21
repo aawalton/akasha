@@ -5,10 +5,10 @@ export const celticWoman2BelieveTheFoxhunter = {
   type: "page-type/track",
   slug: "celtic-woman-2-believe-the-foxhunter",
   ownLength: 3.4766666666666666,
-  ownProgress: 0,
+  ownProgress: 3.4766666666666666,
   partOfCollections: ["release/celtic-woman-2-believe"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

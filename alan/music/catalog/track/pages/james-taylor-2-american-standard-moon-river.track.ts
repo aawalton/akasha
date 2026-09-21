@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardMoonRiver = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-moon-river",
   ownLength: 3.2202166666666665,
-  ownProgress: 0,
+  ownProgress: 3.2202166666666665,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

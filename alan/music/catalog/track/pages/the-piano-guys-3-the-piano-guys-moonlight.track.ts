@@ -5,10 +5,10 @@ export const thePianoGuys3ThePianoGuysMoonlight = {
   type: "page-type/track",
   slug: "the-piano-guys-3-the-piano-guys-moonlight",
   ownLength: 3.475,
-  ownProgress: 0,
+  ownProgress: 3.475,
   partOfCollections: ["release/the-piano-guys-3-the-piano-guys"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

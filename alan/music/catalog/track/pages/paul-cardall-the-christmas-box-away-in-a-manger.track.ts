@@ -5,10 +5,10 @@ export const paulCardallTheChristmasBoxAwayInAManger = {
   type: "page-type/track",
   slug: "paul-cardall-the-christmas-box-away-in-a-manger",
   ownLength: 2.929333333333333,
-  ownProgress: 0,
+  ownProgress: 2.929333333333333,
   partOfCollections: ["release/paul-cardall-the-christmas-box"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

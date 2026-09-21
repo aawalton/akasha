@@ -5,10 +5,10 @@ export const arianaGrandeRainOnMeWithArianaGrandeRainOnMeWithArianaGrande = {
   type: "page-type/track",
   slug: "ariana-grande-rain-on-me-with-ariana-grande-rain-on-me-with-ariana-grande",
   ownLength: 3.0366666666666666,
-  ownProgress: 0,
+  ownProgress: 3.0366666666666666,
   partOfCollections: ["release/ariana-grande-rain-on-me-with-ariana-grande"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

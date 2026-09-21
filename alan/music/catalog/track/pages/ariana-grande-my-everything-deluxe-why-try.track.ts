@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingDeluxeWhyTry = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-deluxe-why-try",
   ownLength: 3.5313333333333334,
-  ownProgress: 0,
+  ownProgress: 3.5313333333333334,
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

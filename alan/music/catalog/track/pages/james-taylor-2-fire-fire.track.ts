@@ -5,10 +5,10 @@ export const jamesTaylor2FireFire = {
   type: "page-type/track",
   slug: "james-taylor-2-fire-fire",
   ownLength: 5.083333333333333,
-  ownProgress: 0,
+  ownProgress: 5.083333333333333,
   partOfCollections: ["release/james-taylor-2-fire"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraWhatHappenedToTheHeartDeluxeYourBlood = {
   type: "page-type/track",
   slug: "aurora-what-happened-to-the-heart-deluxe-your-blood",
   ownLength: 4.124883333333333,
-  ownProgress: 0,
+  ownProgress: 4.124883333333333,
   partOfCollections: ["release/aurora-what-happened-to-the-heart-deluxe"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

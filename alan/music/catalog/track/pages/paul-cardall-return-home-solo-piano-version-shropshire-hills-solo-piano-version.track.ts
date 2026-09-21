@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionShropshireHillsSoloPianoVersio
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-shropshire-hills-solo-piano-version",
   ownLength: 3.175,
-  ownProgress: 0,
+  ownProgress: 3.175,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

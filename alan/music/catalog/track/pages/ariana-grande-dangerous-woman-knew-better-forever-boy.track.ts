@@ -5,10 +5,10 @@ export const arianaGrandeDangerousWomanKnewBetterForeverBoy = {
   type: "page-type/track",
   slug: "ariana-grande-dangerous-woman-knew-better-forever-boy",
   ownLength: 4.986883333333333,
-  ownProgress: 0,
+  ownProgress: 4.986883333333333,
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

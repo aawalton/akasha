@@ -5,10 +5,10 @@ export const jamesTaylor2ThatSWhyIMHereLimousineDriver = {
   type: "page-type/track",
   slug: "james-taylor-2-that-s-why-i-m-here-limousine-driver",
   ownLength: 3.82555,
-  ownProgress: 0,
+  ownProgress: 3.82555,
   partOfCollections: ["release/james-taylor-2-that-s-why-i-m-here"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

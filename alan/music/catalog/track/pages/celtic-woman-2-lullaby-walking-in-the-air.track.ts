@@ -5,10 +5,10 @@ export const celticWoman2LullabyWalkingInTheAir = {
   type: "page-type/track",
   slug: "celtic-woman-2-lullaby-walking-in-the-air",
   ownLength: 3.5071,
-  ownProgress: 0,
+  ownProgress: 3.5071,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

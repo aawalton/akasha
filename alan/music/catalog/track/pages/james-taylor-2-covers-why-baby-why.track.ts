@@ -5,10 +5,10 @@ export const jamesTaylor2CoversWhyBabyWhy = {
   type: "page-type/track",
   slug: "james-taylor-2-covers-why-baby-why",
   ownLength: 2.678,
-  ownProgress: 0,
+  ownProgress: 2.678,
   partOfCollections: ["release/james-taylor-2-covers"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2BelieveYoullNeverWalkAlone = {
   type: "page-type/track",
   slug: "celtic-woman-2-believe-youll-never-walk-alone",
   ownLength: 3.9704333333333333,
-  ownProgress: 0,
+  ownProgress: 3.9704333333333333,
   partOfCollections: ["release/celtic-woman-2-believe"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

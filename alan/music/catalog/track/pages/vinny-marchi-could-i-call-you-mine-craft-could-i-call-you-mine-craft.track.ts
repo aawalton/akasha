@@ -5,10 +5,10 @@ export const vinnyMarchiCouldICallYouMineCraftCouldICallYouMineCraft = {
   type: "page-type/track",
   slug: "vinny-marchi-could-i-call-you-mine-craft-could-i-call-you-mine-craft",
   ownLength: 3.1529666666666665,
-  ownProgress: 0,
+  ownProgress: 3.1529666666666665,
   partOfCollections: ["release/vinny-marchi-could-i-call-you-mine-craft"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

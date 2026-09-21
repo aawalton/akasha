@@ -5,10 +5,10 @@ export const celticWoman2HomeForChristmasSilentNight = {
   type: "page-type/track",
   slug: "celtic-woman-2-home-for-christmas-silent-night",
   ownLength: 3.5957666666666666,
-  ownProgress: 0,
+  ownProgress: 3.5957666666666666,
   partOfCollections: ["release/celtic-woman-2-home-for-christmas"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

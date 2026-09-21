@@ -5,10 +5,10 @@ export const coldplayMidnightRemixesMidnightJonHopkinsRemix = {
   type: "page-type/track",
   slug: "coldplay-midnight-remixes-midnight-jon-hopkins-remix",
   ownLength: 10.09565,
-  ownProgress: 0,
+  ownProgress: 10.09565,
   partOfCollections: ["release/coldplay-midnight-remixes"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

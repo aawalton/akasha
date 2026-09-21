@@ -5,10 +5,10 @@ export const coldplayXYAMessage = {
   type: "page-type/track",
   slug: "coldplay-x-y-a-message",
   ownLength: 4.75575,
-  ownProgress: 0,
+  ownProgress: 4.75575,
   partOfCollections: ["release/coldplay-x-y"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

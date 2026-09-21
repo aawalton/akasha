@@ -5,10 +5,10 @@ export const jamesTaylor2DadLovesHisWorkLondonTown = {
   type: "page-type/track",
   slug: "james-taylor-2-dad-loves-his-work-london-town",
   ownLength: 3.8988833333333335,
-  ownProgress: 0,
+  ownProgress: 3.8988833333333335,
   partOfCollections: ["release/james-taylor-2-dad-loves-his-work"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

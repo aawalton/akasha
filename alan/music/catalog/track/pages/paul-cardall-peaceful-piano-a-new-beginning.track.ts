@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoANewBeginning = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-a-new-beginning",
   ownLength: 4.1128833333333334,
-  ownProgress: 0,
+  ownProgress: 4.1128833333333334,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

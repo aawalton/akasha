@@ -5,10 +5,10 @@ export const jamesTaylor2WalkingMan2019RemasterMeAndMyGuitar2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-walking-man-2019-remaster-me-and-my-guitar-2019-remaster",
   ownLength: 3.572433333333333,
-  ownProgress: 0,
+  ownProgress: 3.572433333333333,
   partOfCollections: ["release/james-taylor-2-walking-man-2019-remaster"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

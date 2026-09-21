@@ -5,10 +5,10 @@ export const celticWoman2HomecomingLiveFromIrelandWaterUnderTheBridgeLive2017 = 
   type: "page-type/track",
   slug: "celtic-woman-2-homecoming-live-from-ireland-water-under-the-bridge-live-2017",
   ownLength: 3.824666666666667,
-  ownProgress: 0,
+  ownProgress: 3.824666666666667,
   partOfCollections: ["release/celtic-woman-2-homecoming-live-from-ireland"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

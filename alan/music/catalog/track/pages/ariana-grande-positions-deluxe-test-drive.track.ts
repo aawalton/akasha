@@ -5,10 +5,10 @@ export const arianaGrandePositionsDeluxeTestDrive = {
   type: "page-type/track",
   slug: "ariana-grande-positions-deluxe-test-drive",
   ownLength: 2.036233333333333,
-  ownProgress: 0,
+  ownProgress: 2.036233333333333,
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

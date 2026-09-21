@@ -5,10 +5,10 @@ export const billieEilishEverythingIWantedEverythingIWanted = {
   type: "page-type/track",
   slug: "billie-eilish-everything-i-wanted-everything-i-wanted",
   ownLength: 4.090416666666667,
-  ownProgress: 0,
+  ownProgress: 4.090416666666667,
   partOfCollections: ["release/billie-eilish-everything-i-wanted"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

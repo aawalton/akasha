@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaProspektSMarchEditionGlassOfWater = {
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-prospekt-s-march-edition-glass-of-water",
   ownLength: 4.7484166666666665,
-  ownProgress: 0,
+  ownProgress: 4.7484166666666665,
   partOfCollections: ["release/coldplay-viva-la-vida-prospekt-s-march-edition"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

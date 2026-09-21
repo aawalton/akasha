@@ -6,10 +6,10 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemixRadioactiveGroupl
     type: "page-type/track",
     slug: "imagine-dragons-radioactive-grouplove-captain-cuts-remix-radioactive-grouplove-captain-cuts-remix",
     ownLength: 4.026883333333333,
-    ownProgress: 0,
+    ownProgress: 4.026883333333333,
     partOfCollections: ["release/imagine-dragons-radioactive-grouplove-captain-cuts-remix"],
     position: 1,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

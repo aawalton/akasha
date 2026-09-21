@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionCadillacSong = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition-cadillac-song",
   ownLength: 2.8742,
-  ownProgress: 0,
+  ownProgress: 2.8742,
   partOfCollections: ["release/ariana-grande-my-everything-tenth-anniversary-edition"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

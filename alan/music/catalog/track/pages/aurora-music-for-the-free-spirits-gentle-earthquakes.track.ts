@@ -5,10 +5,10 @@ export const auroraMusicForTheFreeSpiritsGentleEarthquakes = {
   type: "page-type/track",
   slug: "aurora-music-for-the-free-spirits-gentle-earthquakes",
   ownLength: 3.7888,
-  ownProgress: 0,
+  ownProgress: 3.7888,
   partOfCollections: ["release/aurora-music-for-the-free-spirits"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

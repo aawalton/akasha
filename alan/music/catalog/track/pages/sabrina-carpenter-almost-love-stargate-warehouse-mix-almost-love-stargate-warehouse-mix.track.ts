@@ -5,10 +5,10 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMixAlmostLoveStargateWar
   type: "page-type/track",
   slug: "sabrina-carpenter-almost-love-stargate-warehouse-mix-almost-love-stargate-warehouse-mix",
   ownLength: 3.3390166666666667,
-  ownProgress: 0,
+  ownProgress: 3.3390166666666667,
   partOfCollections: ["release/sabrina-carpenter-almost-love-stargate-warehouse-mix"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

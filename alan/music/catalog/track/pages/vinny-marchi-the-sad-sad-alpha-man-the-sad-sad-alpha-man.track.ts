@@ -5,10 +5,10 @@ export const vinnyMarchiTheSadSadAlphaManTheSadSadAlphaMan = {
   type: "page-type/track",
   slug: "vinny-marchi-the-sad-sad-alpha-man-the-sad-sad-alpha-man",
   ownLength: 2.2146166666666667,
-  ownProgress: 0,
+  ownProgress: 2.2146166666666667,
   partOfCollections: ["release/vinny-marchi-the-sad-sad-alpha-man"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

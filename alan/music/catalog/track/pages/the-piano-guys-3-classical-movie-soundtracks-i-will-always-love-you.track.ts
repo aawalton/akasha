@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalMovieSoundtracksIWillAlwaysLoveYou = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-movie-soundtracks-i-will-always-love-you",
   ownLength: 3.140833333333333,
-  ownProgress: 0,
+  ownProgress: 3.140833333333333,
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

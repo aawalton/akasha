@@ -5,10 +5,10 @@ export const arianaGrandeChristmasKissesSnowInCalifornia = {
   type: "page-type/track",
   slug: "ariana-grande-christmas-kisses-snow-in-california",
   ownLength: 3.43955,
-  ownProgress: 0,
+  ownProgress: 3.43955,
   partOfCollections: ["release/ariana-grande-christmas-kisses"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

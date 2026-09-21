@@ -5,10 +5,10 @@ export const paulCardallChristmasJoyToTheWorld = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-joy-to-the-world",
   ownLength: 5.026433333333333,
-  ownProgress: 0,
+  ownProgress: 5.026433333333333,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

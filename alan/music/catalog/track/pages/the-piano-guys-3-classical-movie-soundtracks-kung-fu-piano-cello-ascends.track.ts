@@ -5,10 +5,10 @@ export const thePianoGuys3ClassicalMovieSoundtracksKungFuPianoCelloAscends = {
   type: "page-type/track",
   slug: "the-piano-guys-3-classical-movie-soundtracks-kung-fu-piano-cello-ascends",
   ownLength: 4.04705,
-  ownProgress: 0,
+  ownProgress: 4.04705,
   partOfCollections: ["release/the-piano-guys-3-classical-movie-soundtracks"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

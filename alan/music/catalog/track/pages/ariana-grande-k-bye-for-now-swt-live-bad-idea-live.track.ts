@@ -5,10 +5,10 @@ export const arianaGrandeKByeForNowSwtLiveBadIdeaLive = {
   type: "page-type/track",
   slug: "ariana-grande-k-bye-for-now-swt-live-bad-idea-live",
   ownLength: 3.53605,
-  ownProgress: 0,
+  ownProgress: 3.53605,
   partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

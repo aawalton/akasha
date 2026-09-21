@@ -5,10 +5,10 @@ export const coldplayLeftrightleftrightleftLive42LiveInMadrid2008 = {
   type: "page-type/track",
   slug: "coldplay-leftrightleftrightleft-live-42-live-in-madrid-2008",
   ownLength: 4.866666666666666,
-  ownProgress: 0,
+  ownProgress: 4.866666666666666,
   partOfCollections: ["release/coldplay-leftrightleftrightleft-live"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

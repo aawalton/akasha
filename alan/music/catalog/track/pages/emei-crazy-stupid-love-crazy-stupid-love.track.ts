@@ -5,10 +5,10 @@ export const emeiCrazyStupidLoveCrazyStupidLove = {
   type: "page-type/track",
   slug: "emei-crazy-stupid-love-crazy-stupid-love",
   ownLength: 2.60555,
-  ownProgress: 0,
+  ownProgress: 2.60555,
   partOfCollections: ["release/emei-crazy-stupid-love"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

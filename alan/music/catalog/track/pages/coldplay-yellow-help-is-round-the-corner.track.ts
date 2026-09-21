@@ -5,10 +5,10 @@ export const coldplayYellowHelpIsRoundTheCorner = {
   type: "page-type/track",
   slug: "coldplay-yellow-help-is-round-the-corner",
   ownLength: 2.6026666666666665,
-  ownProgress: 0,
+  ownProgress: 2.6026666666666665,
   partOfCollections: ["release/coldplay-yellow"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

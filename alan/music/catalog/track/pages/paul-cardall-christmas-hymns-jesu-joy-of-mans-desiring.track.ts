@@ -5,10 +5,10 @@ export const paulCardallChristmasHymnsJesuJoyOfMansDesiring = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-hymns-jesu-joy-of-mans-desiring",
   ownLength: 4.6431,
-  ownProgress: 0,
+  ownProgress: 4.6431,
   partOfCollections: ["release/paul-cardall-christmas-hymns"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

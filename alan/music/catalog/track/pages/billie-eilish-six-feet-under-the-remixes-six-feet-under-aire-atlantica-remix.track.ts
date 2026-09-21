@@ -5,10 +5,10 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderAireAtlanticaRemix = 
   type: "page-type/track",
   slug: "billie-eilish-six-feet-under-the-remixes-six-feet-under-aire-atlantica-remix",
   ownLength: 3.6953,
-  ownProgress: 0,
+  ownProgress: 3.6953,
   partOfCollections: ["release/billie-eilish-six-feet-under-the-remixes"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

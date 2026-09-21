@@ -5,10 +5,10 @@ export const jamesTaylor2AmericanStandardAlmostLikeBeingInLove = {
   type: "page-type/track",
   slug: "james-taylor-2-american-standard-almost-like-being-in-love",
   ownLength: 3.70955,
-  ownProgress: 0,
+  ownProgress: 3.70955,
   partOfCollections: ["release/james-taylor-2-american-standard"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

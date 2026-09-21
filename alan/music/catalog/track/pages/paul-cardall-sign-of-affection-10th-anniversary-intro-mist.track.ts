@@ -5,10 +5,10 @@ export const paulCardallSignOfAffection10thAnniversaryIntroMist = {
   type: "page-type/track",
   slug: "paul-cardall-sign-of-affection-10th-anniversary-intro-mist",
   ownLength: 4.036666666666667,
-  ownProgress: 0,
+  ownProgress: 4.036666666666667,
   partOfCollections: ["release/paul-cardall-sign-of-affection-10th-anniversary"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

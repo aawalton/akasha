@@ -5,10 +5,10 @@ export const paulCardallLiveAKissOfTheSunlightLive = {
   type: "page-type/track",
   slug: "paul-cardall-live-a-kiss-of-the-sunlight-live",
   ownLength: 3.7357666666666667,
-  ownProgress: 0,
+  ownProgress: 3.7357666666666667,
   partOfCollections: ["release/paul-cardall-live"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

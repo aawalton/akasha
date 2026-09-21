@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysCountYourManyBlessings = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-count-your-many-blessings",
   ownLength: 2.3811,
-  ownProgress: 0,
+  ownProgress: 2.3811,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

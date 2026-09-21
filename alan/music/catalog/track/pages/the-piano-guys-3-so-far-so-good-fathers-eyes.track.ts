@@ -5,10 +5,10 @@ export const thePianoGuys3SoFarSoGoodFathersEyes = {
   type: "page-type/track",
   slug: "the-piano-guys-3-so-far-so-good-fathers-eyes",
   ownLength: 3.914066666666667,
-  ownProgress: 0,
+  ownProgress: 3.914066666666667,
   partOfCollections: ["release/the-piano-guys-3-so-far-so-good"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandePositionsDeluxePov = {
   type: "page-type/track",
   slug: "ariana-grande-positions-deluxe-pov",
   ownLength: 3.3647,
-  ownProgress: 0,
+  ownProgress: 3.3647,
   partOfCollections: ["release/ariana-grande-positions-deluxe"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

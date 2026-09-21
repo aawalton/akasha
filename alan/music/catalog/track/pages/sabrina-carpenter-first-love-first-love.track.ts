@@ -5,10 +5,10 @@ export const sabrinaCarpenterFirstLoveFirstLove = {
   type: "page-type/track",
   slug: "sabrina-carpenter-first-love-first-love",
   ownLength: 3.457116666666667,
-  ownProgress: 0,
+  ownProgress: 3.457116666666667,
   partOfCollections: ["release/sabrina-carpenter-first-love"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

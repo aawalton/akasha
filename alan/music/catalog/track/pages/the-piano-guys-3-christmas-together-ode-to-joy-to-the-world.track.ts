@@ -5,10 +5,10 @@ export const thePianoGuys3ChristmasTogetherOdeToJoyToTheWorld = {
   type: "page-type/track",
   slug: "the-piano-guys-3-christmas-together-ode-to-joy-to-the-world",
   ownLength: 4.102083333333334,
-  ownProgress: 0,
+  ownProgress: 4.102083333333334,
   partOfCollections: ["release/the-piano-guys-3-christmas-together"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

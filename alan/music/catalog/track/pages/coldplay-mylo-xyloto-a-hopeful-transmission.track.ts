@@ -5,10 +5,10 @@ export const coldplayMyloXylotoAHopefulTransmission = {
   type: "page-type/track",
   slug: "coldplay-mylo-xyloto-a-hopeful-transmission",
   ownLength: 0.55,
-  ownProgress: 0,
+  ownProgress: 0.55,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

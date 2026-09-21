@@ -5,10 +5,10 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisR3habRemix
   type: "page-type/track",
   slug: "coldplay-something-just-like-this-remixes-something-just-like-this-r3hab-remix",
   ownLength: 2.7146666666666666,
-  ownProgress: 0,
+  ownProgress: 2.7146666666666666,
   partOfCollections: ["release/coldplay-something-just-like-this-remixes"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const coldplayKaleidoscopeEpMiraclesSomeoneSpecial = {
   type: "page-type/track",
   slug: "coldplay-kaleidoscope-ep-miracles-someone-special",
   ownLength: 4.6151,
-  ownProgress: 0,
+  ownProgress: 4.6151,
   partOfCollections: ["release/coldplay-kaleidoscope-ep"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

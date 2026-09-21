@@ -5,10 +5,10 @@ export const thePianoGuys3LiveTheMissionHowGreatThouArtIntroductionLive = {
   type: "page-type/track",
   slug: "the-piano-guys-3-live-the-mission-how-great-thou-art-introduction-live",
   ownLength: 1.1191,
-  ownProgress: 0,
+  ownProgress: 1.1191,
   partOfCollections: ["release/the-piano-guys-3-live"],
   position: 14,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const chaislynAlreadyHadItAlreadyHadIt = {
   type: "page-type/track",
   slug: "chaislyn-already-had-it-already-had-it",
   ownLength: 2.9473666666666665,
-  ownProgress: 0,
+  ownProgress: 2.9473666666666665,
   partOfCollections: ["release/chaislyn-already-had-it"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const auroraSofiaSofiaRadioEdit = {
   type: "page-type/track",
   slug: "aurora-sofia-sofia-radio-edit",
   ownLength: 3.94465,
-  ownProgress: 0,
+  ownProgress: 3.94465,
   partOfCollections: ["release/aurora-sofia"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

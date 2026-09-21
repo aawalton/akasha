@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyBetterLeftUnsaid = {
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-better-left-unsaid",
   ownLength: 3.5204333333333335,
-  ownProgress: 0,
+  ownProgress: 3.5204333333333335,
   partOfCollections: ["release/ariana-grande-yours-truly"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

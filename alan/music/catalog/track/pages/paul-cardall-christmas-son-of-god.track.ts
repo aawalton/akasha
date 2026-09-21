@@ -5,10 +5,10 @@ export const paulCardallChristmasSonOfGod = {
   type: "page-type/track",
   slug: "paul-cardall-christmas-son-of-god",
   ownLength: 4.57275,
-  ownProgress: 0,
+  ownProgress: 4.57275,
   partOfCollections: ["release/paul-cardall-christmas"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

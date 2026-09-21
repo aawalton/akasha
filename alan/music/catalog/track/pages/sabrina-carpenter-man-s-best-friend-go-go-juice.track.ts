@@ -5,10 +5,10 @@ export const sabrinaCarpenterManSBestFriendGoGoJuice = {
   type: "page-type/track",
   slug: "sabrina-carpenter-man-s-best-friend-go-go-juice",
   ownLength: 3.2219166666666665,
-  ownProgress: 0,
+  ownProgress: 3.2219166666666665,
   partOfCollections: ["release/sabrina-carpenter-man-s-best-friend"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

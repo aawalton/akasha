@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysDidYouThinkToPray = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-did-you-think-to-pray",
   ownLength: 3.03555,
-  ownProgress: 0,
+  ownProgress: 3.03555,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 32,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

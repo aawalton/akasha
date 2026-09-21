@@ -5,10 +5,10 @@ export const thePianoGuys3UnchartedHelloLacrimosa = {
   type: "page-type/track",
   slug: "the-piano-guys-3-uncharted-hello-lacrimosa",
   ownLength: 3.8625,
-  ownProgress: 0,
+  ownProgress: 3.8625,
   partOfCollections: ["release/the-piano-guys-3-uncharted"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

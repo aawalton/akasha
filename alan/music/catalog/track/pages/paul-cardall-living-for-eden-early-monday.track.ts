@@ -5,10 +5,10 @@ export const paulCardallLivingForEdenEarlyMonday = {
   type: "page-type/track",
   slug: "paul-cardall-living-for-eden-early-monday",
   ownLength: 3.566,
-  ownProgress: 0,
+  ownProgress: 3.566,
   partOfCollections: ["release/paul-cardall-living-for-eden"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

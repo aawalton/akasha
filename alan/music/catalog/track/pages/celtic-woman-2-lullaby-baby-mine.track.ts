@@ -5,10 +5,10 @@ export const celticWoman2LullabyBabyMine = {
   type: "page-type/track",
   slug: "celtic-woman-2-lullaby-baby-mine",
   ownLength: 3.1704333333333334,
-  ownProgress: 0,
+  ownProgress: 3.1704333333333334,
   partOfCollections: ["release/celtic-woman-2-lullaby"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

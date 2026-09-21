@@ -5,10 +5,10 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMine = {
   type: "page-type/track",
   slug: "ariana-grande-the-boy-is-mine-the-boy-is-mine",
   ownLength: 2.8939833333333334,
-  ownProgress: 0,
+  ownProgress: 2.8939833333333334,
   partOfCollections: ["release/ariana-grande-the-boy-is-mine"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

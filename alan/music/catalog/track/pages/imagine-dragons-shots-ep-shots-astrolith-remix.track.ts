@@ -5,10 +5,10 @@ export const imagineDragonsShotsEpShotsAstrolithRemix = {
   type: "page-type/track",
   slug: "imagine-dragons-shots-ep-shots-astrolith-remix",
   ownLength: 3.4968833333333333,
-  ownProgress: 0,
+  ownProgress: 3.4968833333333333,
   partOfCollections: ["release/imagine-dragons-shots-ep"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

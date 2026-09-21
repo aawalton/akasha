@@ -5,10 +5,10 @@ export const jamesTaylor2OtherCoversOhWhatABeautifulMorning = {
   type: "page-type/track",
   slug: "james-taylor-2-other-covers-oh-what-a-beautiful-morning",
   ownLength: 3.1797666666666666,
-  ownProgress: 0,
+  ownProgress: 3.1797666666666666,
   partOfCollections: ["release/james-taylor-2-other-covers"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

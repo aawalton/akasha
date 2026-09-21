@@ -5,10 +5,10 @@ export const jamesTaylor2NewMoonShineNativeSon = {
   type: "page-type/track",
   slug: "james-taylor-2-new-moon-shine-native-son",
   ownLength: 3.8011,
-  ownProgress: 0,
+  ownProgress: 3.8011,
   partOfCollections: ["release/james-taylor-2-new-moon-shine"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

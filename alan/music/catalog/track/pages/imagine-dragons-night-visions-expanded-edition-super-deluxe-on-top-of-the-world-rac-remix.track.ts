@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorld
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-on-top-of-the-world-rac-remix",
   ownLength: 3.6248833333333335,
-  ownProgress: 0,
+  ownProgress: 3.6248833333333335,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmasHaveYourselfAMerry
   type: "page-type/track",
   slug: "sabrina-carpenter-have-yourself-a-merry-little-christmas-have-yourself-a-merry-little-christmas",
   ownLength: 3.77855,
-  ownProgress: 0,
+  ownProgress: 3.77855,
   partOfCollections: ["release/sabrina-carpenter-have-yourself-a-merry-little-christmas"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

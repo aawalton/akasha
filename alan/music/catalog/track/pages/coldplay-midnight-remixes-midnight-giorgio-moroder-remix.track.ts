@@ -5,10 +5,10 @@ export const coldplayMidnightRemixesMidnightGiorgioMoroderRemix = {
   type: "page-type/track",
   slug: "coldplay-midnight-remixes-midnight-giorgio-moroder-remix",
   ownLength: 8.629083333333334,
-  ownProgress: 0,
+  ownProgress: 8.629083333333334,
   partOfCollections: ["release/coldplay-midnight-remixes"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

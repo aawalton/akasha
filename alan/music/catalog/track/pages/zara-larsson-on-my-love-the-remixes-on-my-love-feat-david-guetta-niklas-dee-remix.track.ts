@@ -5,10 +5,10 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFeatDavidGuettaNiklasDeeRemix 
   type: "page-type/track",
   slug: "zara-larsson-on-my-love-the-remixes-on-my-love-feat-david-guetta-niklas-dee-remix",
   ownLength: 2.86895,
-  ownProgress: 0,
+  ownProgress: 2.86895,
   partOfCollections: ["release/zara-larsson-on-my-love-the-remixes"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

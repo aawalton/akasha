@@ -5,10 +5,10 @@ export const jamesTaylor2OctoberRoadSpecialEditionBelfastToBoston = {
   type: "page-type/track",
   slug: "james-taylor-2-october-road-special-edition-belfast-to-boston",
   ownLength: 4.260666666666666,
-  ownProgress: 0,
+  ownProgress: 4.260666666666666,
   partOfCollections: ["release/james-taylor-2-october-road-special-edition"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

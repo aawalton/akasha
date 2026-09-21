@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWayLiveFromLondonFe
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-the-way-live-from-london-feat-mac-miller",
   ownLength: 3.5615666666666668,
-  ownProgress: 0,
+  ownProgress: 3.5615666666666668,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 19,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

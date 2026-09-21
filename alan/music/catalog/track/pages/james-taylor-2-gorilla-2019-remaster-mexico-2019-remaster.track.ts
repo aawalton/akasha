@@ -5,10 +5,10 @@ export const jamesTaylor2Gorilla2019RemasterMexico2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-gorilla-2019-remaster-mexico-2019-remaster",
   ownLength: 2.9782166666666665,
-  ownProgress: 0,
+  ownProgress: 2.9782166666666665,
   partOfCollections: ["release/james-taylor-2-gorilla-2019-remaster"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

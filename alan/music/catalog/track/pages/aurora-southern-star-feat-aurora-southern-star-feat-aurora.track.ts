@@ -5,10 +5,10 @@ export const auroraSouthernStarFeatAuroraSouthernStarFeatAurora = {
   type: "page-type/track",
   slug: "aurora-southern-star-feat-aurora-southern-star-feat-aurora",
   ownLength: 5.0793333333333335,
-  ownProgress: 0,
+  ownProgress: 5.0793333333333335,
   partOfCollections: ["release/aurora-southern-star-feat-aurora"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

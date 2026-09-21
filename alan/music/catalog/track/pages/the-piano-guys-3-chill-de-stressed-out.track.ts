@@ -5,10 +5,10 @@ export const thePianoGuys3ChillDeStressedOut = {
   type: "page-type/track",
   slug: "the-piano-guys-3-chill-de-stressed-out",
   ownLength: 3.0403166666666666,
-  ownProgress: 0,
+  ownProgress: 3.0403166666666666,
   partOfCollections: ["release/the-piano-guys-3-chill"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

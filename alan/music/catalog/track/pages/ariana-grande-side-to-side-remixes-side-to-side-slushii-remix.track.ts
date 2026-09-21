@@ -5,10 +5,10 @@ export const arianaGrandeSideToSideRemixesSideToSideSlushiiRemix = {
   type: "page-type/track",
   slug: "ariana-grande-side-to-side-remixes-side-to-side-slushii-remix",
   ownLength: 3.374,
-  ownProgress: 0,
+  ownProgress: 3.374,
   partOfCollections: ["release/ariana-grande-side-to-side-remixes"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

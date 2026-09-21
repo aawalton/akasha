@@ -5,10 +5,10 @@ export const zaraLarsson1CarryYouHome = {
   type: "page-type/track",
   slug: "zara-larsson-1-carry-you-home",
   ownLength: 4.242133333333333,
-  ownProgress: 0,
+  ownProgress: 4.242133333333333,
   partOfCollections: ["release/zara-larsson-1"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

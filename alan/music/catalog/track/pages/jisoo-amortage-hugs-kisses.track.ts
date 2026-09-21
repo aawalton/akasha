@@ -5,10 +5,10 @@ export const jisooAmortageHugsKisses = {
   type: "page-type/track",
   slug: "jisoo-amortage-hugs-kisses",
   ownLength: 3.1637666666666666,
-  ownProgress: 0,
+  ownProgress: 3.1637666666666666,
   partOfCollections: ["release/jisoo-amortage"],
   position: 4,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

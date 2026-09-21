@@ -5,10 +5,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeTiptoeLiveFromR
   type: "page-type/track",
   slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-tiptoe-live-from-red-rocks-2014",
   ownLength: 5.580883333333333,
-  ownProgress: 0,
+  ownProgress: 5.580883333333333,
   partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

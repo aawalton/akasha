@@ -5,10 +5,10 @@ export const jamesTaylor2InThePocket2019RemasterAJunkiesLament2019Remaster = {
   type: "page-type/track",
   slug: "james-taylor-2-in-the-pocket-2019-remaster-a-junkies-lament-2019-remaster",
   ownLength: 3.5071,
-  ownProgress: 0,
+  ownProgress: 3.5071,
   partOfCollections: ["release/james-taylor-2-in-the-pocket-2019-remaster"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

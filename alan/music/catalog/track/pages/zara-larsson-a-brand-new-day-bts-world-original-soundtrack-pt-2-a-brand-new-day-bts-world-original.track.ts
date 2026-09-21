@@ -5,10 +5,10 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2ABrandNewDayBts
   type: "page-type/track",
   slug: "zara-larsson-a-brand-new-day-bts-world-original-soundtrack-pt-2-a-brand-new-day-bts-world-original",
   ownLength: 3.4169833333333335,
-  ownProgress: 0,
+  ownProgress: 3.4169833333333335,
   partOfCollections: ["release/zara-larsson-a-brand-new-day-bts-world-original-soundtrack-pt-2"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

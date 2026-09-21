@@ -5,10 +5,10 @@ export const thePianoGuys3ChillAbrahamLincolnTribute = {
   type: "page-type/track",
   slug: "the-piano-guys-3-chill-abraham-lincoln-tribute",
   ownLength: 4.578033333333333,
-  ownProgress: 0,
+  ownProgress: 4.578033333333333,
   partOfCollections: ["release/the-piano-guys-3-chill"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

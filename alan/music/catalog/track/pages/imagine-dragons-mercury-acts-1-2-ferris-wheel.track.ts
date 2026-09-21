@@ -5,10 +5,10 @@ export const imagineDragonsMercuryActs12FerrisWheel = {
   type: "page-type/track",
   slug: "imagine-dragons-mercury-acts-1-2-ferris-wheel",
   ownLength: 3.3979166666666667,
-  ownProgress: 0,
+  ownProgress: 3.3979166666666667,
   partOfCollections: ["release/imagine-dragons-mercury-acts-1-2"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

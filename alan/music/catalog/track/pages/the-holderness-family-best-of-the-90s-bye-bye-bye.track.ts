@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe90sByeByeBye = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-90s-bye-bye-bye",
   ownLength: 2.4106666666666667,
-  ownProgress: 0,
+  ownProgress: 2.4106666666666667,
   partOfCollections: ["release/the-holderness-family-best-of-the-90s"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

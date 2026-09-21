@@ -5,10 +5,10 @@ export const coldplayMagicMagic = {
   type: "page-type/track",
   slug: "coldplay-magic-magic",
   ownLength: 4.750233333333333,
-  ownProgress: 0,
+  ownProgress: 4.750233333333333,
   partOfCollections: ["release/coldplay-magic"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

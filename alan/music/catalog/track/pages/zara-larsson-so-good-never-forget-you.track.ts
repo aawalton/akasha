@@ -5,10 +5,10 @@ export const zaraLarssonSoGoodNeverForgetYou = {
   type: "page-type/track",
   slug: "zara-larsson-so-good-never-forget-you",
   ownLength: 3.5429,
-  ownProgress: 0,
+  ownProgress: 3.5429,
   partOfCollections: ["release/zara-larsson-so-good"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

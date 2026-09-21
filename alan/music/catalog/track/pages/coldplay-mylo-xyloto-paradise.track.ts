@@ -5,10 +5,10 @@ export const coldplayMyloXylotoParadise = {
   type: "page-type/track",
   slug: "coldplay-mylo-xyloto-paradise",
   ownLength: 4.645316666666667,
-  ownProgress: 0,
+  ownProgress: 4.645316666666667,
   partOfCollections: ["release/coldplay-mylo-xyloto"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

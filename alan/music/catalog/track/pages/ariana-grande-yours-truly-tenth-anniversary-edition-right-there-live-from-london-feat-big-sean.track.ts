@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereLiveFromLond
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-right-there-live-from-london-feat-big-sean",
   ownLength: 3.2821166666666666,
-  ownProgress: 0,
+  ownProgress: 3.2821166666666666,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 18,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

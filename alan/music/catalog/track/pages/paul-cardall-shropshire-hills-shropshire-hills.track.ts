@@ -5,10 +5,10 @@ export const paulCardallShropshireHillsShropshireHills = {
   type: "page-type/track",
   slug: "paul-cardall-shropshire-hills-shropshire-hills",
   ownLength: 3.2373833333333333,
-  ownProgress: 0,
+  ownProgress: 3.2373833333333333,
   partOfCollections: ["release/paul-cardall-shropshire-hills"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

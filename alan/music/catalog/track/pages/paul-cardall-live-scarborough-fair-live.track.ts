@@ -5,10 +5,10 @@ export const paulCardallLiveScarboroughFairLive = {
   type: "page-type/track",
   slug: "paul-cardall-live-scarborough-fair-live",
   ownLength: 2.8211,
-  ownProgress: 0,
+  ownProgress: 2.8211,
   partOfCollections: ["release/paul-cardall-live"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const celticWoman2SoloHomeAndTheHeartland = {
   type: "page-type/track",
   slug: "celtic-woman-2-solo-home-and-the-heartland",
   ownLength: 3.3473333333333333,
-  ownProgress: 0,
+  ownProgress: 3.3473333333333333,
   partOfCollections: ["release/celtic-woman-2-solo"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

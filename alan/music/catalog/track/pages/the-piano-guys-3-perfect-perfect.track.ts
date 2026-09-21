@@ -5,10 +5,10 @@ export const thePianoGuys3PerfectPerfect = {
   type: "page-type/track",
   slug: "the-piano-guys-3-perfect-perfect",
   ownLength: 5.179966666666667,
-  ownProgress: 0,
+  ownProgress: 5.179966666666667,
   partOfCollections: ["release/the-piano-guys-3-perfect"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const imagineDragonsOriginsDeluxeBoomerang = {
   type: "page-type/track",
   slug: "imagine-dragons-origins-deluxe-boomerang",
   ownLength: 3.13,
-  ownProgress: 0,
+  ownProgress: 3.13,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

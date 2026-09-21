@@ -5,10 +5,10 @@ export const paulCardallLoveOneAnotherLoveOneAnother = {
   type: "page-type/track",
   slug: "paul-cardall-love-one-another-love-one-another",
   ownLength: 4.01385,
-  ownProgress: 0,
+  ownProgress: 4.01385,
   partOfCollections: ["release/paul-cardall-love-one-another"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

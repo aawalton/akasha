@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsEpHoleInsideOurChests = {
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-ep-hole-inside-our-chests",
   ownLength: 2.641766666666667,
-  ownProgress: 0,
+  ownProgress: 2.641766666666667,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

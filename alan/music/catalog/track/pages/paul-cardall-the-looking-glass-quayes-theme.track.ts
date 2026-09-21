@@ -5,10 +5,10 @@ export const paulCardallTheLookingGlassQuayesTheme = {
   type: "page-type/track",
   slug: "paul-cardall-the-looking-glass-quayes-theme",
   ownLength: 3.7771,
-  ownProgress: 0,
+  ownProgress: 3.7771,
   partOfCollections: ["release/paul-cardall-the-looking-glass"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

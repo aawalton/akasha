@@ -5,10 +5,10 @@ export const celticWoman2SongsFromTheHeartTheMoonsAHarshMistress = {
   type: "page-type/track",
   slug: "celtic-woman-2-songs-from-the-heart-the-moons-a-harsh-mistress",
   ownLength: 3.2802166666666666,
-  ownProgress: 0,
+  ownProgress: 3.2802166666666666,
   partOfCollections: ["release/celtic-woman-2-songs-from-the-heart"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

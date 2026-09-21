@@ -5,10 +5,10 @@ export const coldplayVivaLaVidaProspektSMarchEditionProspektsMarchPoppyfields = 
   type: "page-type/track",
   slug: "coldplay-viva-la-vida-prospekt-s-march-edition-prospekts-march-poppyfields",
   ownLength: 3.65385,
-  ownProgress: 0,
+  ownProgress: 3.65385,
   partOfCollections: ["release/coldplay-viva-la-vida-prospekt-s-march-edition"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

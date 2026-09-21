@@ -5,10 +5,10 @@ export const paulCardallChillCollectionForgiven = {
   type: "page-type/track",
   slug: "paul-cardall-chill-collection-forgiven",
   ownLength: 4.352,
-  ownProgress: 0,
+  ownProgress: 4.352,
   partOfCollections: ["release/paul-cardall-chill-collection"],
   position: 12,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeMyEverythingDeluxeBangBang = {
   type: "page-type/track",
   slug: "ariana-grande-my-everything-deluxe-bang-bang",
   ownLength: 3.322,
-  ownProgress: 0,
+  ownProgress: 3.322,
   partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
   position: 13,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

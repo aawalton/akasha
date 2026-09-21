@@ -5,10 +5,10 @@ export const vinnyMarchiTheTaleOfTheLesbianHunterTheTaleOfTheLesbianHunter = {
   type: "page-type/track",
   slug: "vinny-marchi-the-tale-of-the-lesbian-hunter-the-tale-of-the-lesbian-hunter",
   ownLength: 2.3171,
-  ownProgress: 0,
+  ownProgress: 2.3171,
   partOfCollections: ["release/vinny-marchi-the-tale-of-the-lesbian-hunter"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

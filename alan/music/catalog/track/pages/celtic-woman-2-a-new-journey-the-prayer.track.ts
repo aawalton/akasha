@@ -5,10 +5,10 @@ export const celticWoman2ANewJourneyThePrayer = {
   type: "page-type/track",
   slug: "celtic-woman-2-a-new-journey-the-prayer",
   ownLength: 4.326216666666666,
-  ownProgress: 0,
+  ownProgress: 4.326216666666666,
   partOfCollections: ["release/celtic-woman-2-a-new-journey"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

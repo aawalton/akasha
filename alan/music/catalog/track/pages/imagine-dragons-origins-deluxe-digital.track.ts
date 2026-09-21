@@ -5,10 +5,10 @@ export const imagineDragonsOriginsDeluxeDigital = {
   type: "page-type/track",
   slug: "imagine-dragons-origins-deluxe-digital",
   ownLength: 3.3506666666666667,
-  ownProgress: 0,
+  ownProgress: 3.3506666666666667,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

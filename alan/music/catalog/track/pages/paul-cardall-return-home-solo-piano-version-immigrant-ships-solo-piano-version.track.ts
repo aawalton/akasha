@@ -5,10 +5,10 @@ export const paulCardallReturnHomeSoloPianoVersionImmigrantShipsSoloPianoVersion
   type: "page-type/track",
   slug: "paul-cardall-return-home-solo-piano-version-immigrant-ships-solo-piano-version",
   ownLength: 3.225,
-  ownProgress: 0,
+  ownProgress: 3.225,
   partOfCollections: ["release/paul-cardall-return-home-solo-piano-version"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

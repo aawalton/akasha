@@ -5,10 +5,10 @@ export const thePianoGuys3FlickerFlicker = {
   type: "page-type/track",
   slug: "the-piano-guys-3-flicker-flicker",
   ownLength: 3.27555,
-  ownProgress: 0,
+  ownProgress: 3.27555,
   partOfCollections: ["release/the-piano-guys-3-flicker"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

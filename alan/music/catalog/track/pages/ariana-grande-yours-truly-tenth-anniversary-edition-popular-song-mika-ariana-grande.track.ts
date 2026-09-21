@@ -5,10 +5,10 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionPopularSongMikaArianaG
   type: "page-type/track",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition-popular-song-mika-ariana-grande",
   ownLength: 3.3366833333333332,
-  ownProgress: 0,
+  ownProgress: 3.3366833333333332,
   partOfCollections: ["release/ariana-grande-yours-truly-tenth-anniversary-edition"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

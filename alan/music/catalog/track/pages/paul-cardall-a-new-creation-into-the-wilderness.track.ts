@@ -5,10 +5,10 @@ export const paulCardallANewCreationIntoTheWilderness = {
   type: "page-type/track",
   slug: "paul-cardall-a-new-creation-into-the-wilderness",
   ownLength: 2.9977666666666667,
-  ownProgress: 0,
+  ownProgress: 2.9977666666666667,
   partOfCollections: ["release/paul-cardall-a-new-creation"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

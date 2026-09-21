@@ -5,10 +5,10 @@ export const imagineDragonsLiveAtAllsaintsStudiosBelieverLiveAcoustic = {
   type: "page-type/track",
   slug: "imagine-dragons-live-at-allsaints-studios-believer-live-acoustic",
   ownLength: 3.933333333333333,
-  ownProgress: 0,
+  ownProgress: 3.933333333333333,
   partOfCollections: ["release/imagine-dragons-live-at-allsaints-studios"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

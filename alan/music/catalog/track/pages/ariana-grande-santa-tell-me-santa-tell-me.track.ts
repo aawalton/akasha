@@ -5,10 +5,10 @@ export const arianaGrandeSantaTellMeSantaTellMe = {
   type: "page-type/track",
   slug: "ariana-grande-santa-tell-me-santa-tell-me",
   ownLength: 3.40155,
-  ownProgress: 0,
+  ownProgress: 3.40155,
   partOfCollections: ["release/ariana-grande-santa-tell-me"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

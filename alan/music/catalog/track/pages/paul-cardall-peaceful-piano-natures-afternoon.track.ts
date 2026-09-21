@@ -5,10 +5,10 @@ export const paulCardallPeacefulPianoNaturesAfternoon = {
   type: "page-type/track",
   slug: "paul-cardall-peaceful-piano-natures-afternoon",
   ownLength: 3.0691,
-  ownProgress: 0,
+  ownProgress: 3.0691,
   partOfCollections: ["release/paul-cardall-peaceful-piano"],
   position: 17,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

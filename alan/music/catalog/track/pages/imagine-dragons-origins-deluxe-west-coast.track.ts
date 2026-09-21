@@ -5,10 +5,10 @@ export const imagineDragonsOriginsDeluxeWestCoast = {
   type: "page-type/track",
   slug: "imagine-dragons-origins-deluxe-west-coast",
   ownLength: 3.61955,
-  ownProgress: 0,
+  ownProgress: 3.61955,
   partOfCollections: ["release/imagine-dragons-origins-deluxe"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

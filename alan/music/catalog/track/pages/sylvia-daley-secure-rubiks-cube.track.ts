@@ -5,10 +5,10 @@ export const sylviaDaleySecureRubiksCube = {
   type: "page-type/track",
   slug: "sylvia-daley-secure-rubiks-cube",
   ownLength: 2.5339833333333335,
-  ownProgress: 0,
+  ownProgress: 2.5339833333333335,
   partOfCollections: ["release/sylvia-daley-secure"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const paulCardallDecemberPianoStringEnsembleHushLittleBabyTheMockingBirdS
   type: "page-type/track",
   slug: "paul-cardall-december-piano-string-ensemble-hush-little-baby-the-mocking-bird-song",
   ownLength: 2.4408833333333333,
-  ownProgress: 0,
+  ownProgress: 2.4408833333333333,
   partOfCollections: ["release/paul-cardall-december-piano-string-ensemble"],
   position: 9,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

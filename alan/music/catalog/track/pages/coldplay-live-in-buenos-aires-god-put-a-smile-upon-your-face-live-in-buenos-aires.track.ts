@@ -5,10 +5,10 @@ export const coldplayLiveInBuenosAiresGodPutASmileUponYourFaceLiveInBuenosAires 
   type: "page-type/track",
   slug: "coldplay-live-in-buenos-aires-god-put-a-smile-upon-your-face-live-in-buenos-aires",
   ownLength: 4.56755,
-  ownProgress: 0,
+  ownProgress: 4.56755,
   partOfCollections: ["release/coldplay-live-in-buenos-aires"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

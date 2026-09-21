@@ -5,10 +5,10 @@ export const paulCardallSacredPianoUnseenWorld = {
   type: "page-type/track",
   slug: "paul-cardall-sacred-piano-unseen-world",
   ownLength: 6.523333333333333,
-  ownProgress: 0,
+  ownProgress: 6.523333333333333,
   partOfCollections: ["release/paul-cardall-sacred-piano"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

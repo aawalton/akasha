@@ -5,10 +5,10 @@ export const thePianoGuys3LullabyChopsticksLullaby = {
   type: "page-type/track",
   slug: "the-piano-guys-3-lullaby-chopsticks-lullaby",
   ownLength: 3.7903,
-  ownProgress: 0,
+  ownProgress: 3.7903,
   partOfCollections: ["release/the-piano-guys-3-lullaby"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

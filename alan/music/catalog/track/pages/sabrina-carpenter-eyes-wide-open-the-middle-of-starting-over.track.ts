@@ -5,10 +5,10 @@ export const sabrinaCarpenterEyesWideOpenTheMiddleOfStartingOver = {
   type: "page-type/track",
   slug: "sabrina-carpenter-eyes-wide-open-the-middle-of-starting-over",
   ownLength: 3.546,
-  ownProgress: 0,
+  ownProgress: 3.546,
   partOfCollections: ["release/sabrina-carpenter-eyes-wide-open"],
   position: 3,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

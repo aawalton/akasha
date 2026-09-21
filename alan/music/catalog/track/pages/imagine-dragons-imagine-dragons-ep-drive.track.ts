@@ -5,10 +5,10 @@ export const imagineDragonsImagineDragonsEpDrive = {
   type: "page-type/track",
   slug: "imagine-dragons-imagine-dragons-ep-drive",
   ownLength: 4.534,
-  ownProgress: 0,
+  ownProgress: 4.534,
   partOfCollections: ["release/imagine-dragons-imagine-dragons-ep"],
   position: 5,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

@@ -5,10 +5,10 @@ export const arianaGrandeBreakFreeBreakFreeACappella = {
   type: "page-type/track",
   slug: "ariana-grande-break-free-break-free-a-cappella",
   ownLength: 3.3838,
-  ownProgress: 0,
+  ownProgress: 3.3838,
   partOfCollections: ["release/ariana-grande-break-free"],
   position: 2,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

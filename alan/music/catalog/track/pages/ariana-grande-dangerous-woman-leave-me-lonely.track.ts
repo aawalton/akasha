@@ -5,10 +5,10 @@ export const arianaGrandeDangerousWomanLeaveMeLonely = {
   type: "page-type/track",
   slug: "ariana-grande-dangerous-woman-leave-me-lonely",
   ownLength: 3.828,
-  ownProgress: 0,
+  ownProgress: 3.828,
   partOfCollections: ["release/ariana-grande-dangerous-woman"],
   position: 8,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

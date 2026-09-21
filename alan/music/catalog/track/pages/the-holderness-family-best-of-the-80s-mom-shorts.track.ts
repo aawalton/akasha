@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOfThe80sMomShorts = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-the-80s-mom-shorts",
   ownLength: 2.031,
-  ownProgress: 0,
+  ownProgress: 2.031,
   partOfCollections: ["release/the-holderness-family-best-of-the-80s"],
   position: 11,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

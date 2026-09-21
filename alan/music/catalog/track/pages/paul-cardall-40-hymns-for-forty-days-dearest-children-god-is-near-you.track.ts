@@ -5,10 +5,10 @@ export const paulCardall40HymnsForFortyDaysDearestChildrenGodIsNearYou = {
   type: "page-type/track",
   slug: "paul-cardall-40-hymns-for-forty-days-dearest-children-god-is-near-you",
   ownLength: 2.0083333333333333,
-  ownProgress: 0,
+  ownProgress: 2.0083333333333333,
   partOfCollections: ["release/paul-cardall-40-hymns-for-forty-days"],
   position: 16,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

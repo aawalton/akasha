@@ -5,10 +5,10 @@ export const paulCardallTheBrokenMiracleForBetterOrWorse = {
   type: "page-type/track",
   slug: "paul-cardall-the-broken-miracle-for-better-or-worse",
   ownLength: 2.6626666666666665,
-  ownProgress: 0,
+  ownProgress: 2.6626666666666665,
   partOfCollections: ["release/paul-cardall-the-broken-miracle"],
   position: 10,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

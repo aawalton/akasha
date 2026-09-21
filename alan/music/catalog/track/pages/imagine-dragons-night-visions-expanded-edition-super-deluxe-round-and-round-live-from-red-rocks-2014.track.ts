@@ -6,10 +6,10 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRoundAndRoundLi
     type: "page-type/track",
     slug: "imagine-dragons-night-visions-expanded-edition-super-deluxe-round-and-round-live-from-red-rocks-2014",
     ownLength: 3.63355,
-    ownProgress: 0,
+    ownProgress: 3.63355,
     partOfCollections: ["release/imagine-dragons-night-visions-expanded-edition-super-deluxe"],
     position: 4,
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     externalIdentity: [
       {

@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022Introverting = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-introverting",
   ownLength: 2.3636,
-  ownProgress: 0,
+  ownProgress: 2.3636,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 6,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

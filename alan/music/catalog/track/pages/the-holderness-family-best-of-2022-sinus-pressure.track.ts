@@ -5,10 +5,10 @@ export const theHoldernessFamilyBestOf2022SinusPressure = {
   type: "page-type/track",
   slug: "the-holderness-family-best-of-2022-sinus-pressure",
   ownLength: 3.074,
-  ownProgress: 0,
+  ownProgress: 3.074,
   partOfCollections: ["release/the-holderness-family-best-of-2022"],
   position: 7,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
