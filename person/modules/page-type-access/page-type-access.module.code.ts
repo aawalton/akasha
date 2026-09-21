@@ -26,6 +26,7 @@ export const ANONYMOUS_PERSON = "anonymous"
 
 export const DEEDS = {
   READ: namedAs(ACCESS_DEED_PAGE_TYPE, "read", null),
+  READ_SOME: namedAs(ACCESS_DEED_PAGE_TYPE, "read-some", null),
   WRITE: namedAs(ACCESS_DEED_PAGE_TYPE, "write", null),
 } as const
 
@@ -95,6 +96,17 @@ export async function pageTypeGrantsFor(
   return { ok: true, grants }
 }
 
+export function malformed(grant: Grant): string | null {
+  const some = grant.deeds.includes(DEEDS.READ_SOME)
+  if (some && grant.narrow === null) {
+    return `an access stating \`${DEEDS.READ_SOME}\` carries no narrow, so it names no pages`
+  }
+  if (!some && grant.narrow !== null) {
+    return `an access carrying a narrow states a deed other than \`${DEEDS.READ_SOME}\`, and a gate that does not read narrows would widen past it`
+  }
+  return null
+}
+
 export function reachOf(
   grants: Iterable<Grant>,
   pageTypeSlug: string,
@@ -105,6 +117,16 @@ export function reachOf(
   let named = false
   for (const one of grants) {
     if (one.target !== EVERY_TARGET && one.target !== pageTypeSlug) continue
+    const why = malformed(one)
+    if (why !== null) {
+      console.warn(`[page-type-access] \`${personSlug}\` holds an access reaching nothing: ${why}`)
+      continue
+    }
+    if (deed === DEEDS.READ && one.deeds.includes(DEEDS.READ_SOME) && one.narrow !== null) {
+      named = true
+      narrows.push(one.narrow)
+      continue
+    }
     if (!one.deeds.includes(deed)) continue
     named = true
     if (one.narrow === null) return { permitted: true, narrows: null }

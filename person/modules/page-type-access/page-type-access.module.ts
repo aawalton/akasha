@@ -60,5 +60,14 @@ export const pageTypeAccess = {
       decisionKind: "decision-kind/departure",
       statement: "An access stating no narrow widens past every access that states one.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An access carrying a narrow states the deed for reading some, and no other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A gate that does not read a deed refuses the access stating it, so a narrow is never skipped.",
+    },
   ],
 } as const satisfies Module

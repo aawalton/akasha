@@ -5,7 +5,7 @@ export const accessDeed = {
   type: "page-type/page-type",
   slug: "access-deed",
   definition: "what an access lets its holder do",
-  parts: ["access-deed/read", "access-deed/write"],
+  parts: ["access-deed/read", "access-deed/write", "access-deed/read-some"],
   extends: ["page-type/domain"],
   types: "ts",
   schema: "jsonl",

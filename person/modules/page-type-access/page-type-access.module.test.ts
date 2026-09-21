@@ -11,6 +11,8 @@ import {
 import {
   ANONYMOUS_PERSON,
   DEEDS,
+  type Grant,
+  malformed,
   pageTypeGrantsFor,
   pageTypeReachFor,
   pageTypeReachForPerson,
@@ -63,7 +65,7 @@ test("an access naming no deed opens nothing", () => {
 
 test("a narrow an access carries is answered with the reach", () => {
   const narrowed = [
-    { target: "world-skill", deeds: [DEEDS.READ], narrow: { key: "world", is: "world/one" } },
+    { target: "world-skill", deeds: [DEEDS.READ_SOME], narrow: { key: "world", is: "world/one" } },
   ]
   expect(reachOf(narrowed, "world-skill", DEEDS.READ, "anonymous")).toEqual({
     permitted: true,
@@ -73,13 +75,27 @@ test("a narrow an access carries is answered with the reach", () => {
 
 test("an access stating no narrow widens past one that does", () => {
   const both = [
-    { target: "world-skill", deeds: [DEEDS.READ], narrow: { key: "world", is: "world/one" } },
+    { target: "world-skill", deeds: [DEEDS.READ_SOME], narrow: { key: "world", is: "world/one" } },
     { target: "all", deeds: [DEEDS.READ], narrow: null },
   ]
   expect(reachOf(both, "world-skill", DEEDS.READ, "alan")).toEqual({
     permitted: true,
     narrows: null,
   })
+})
+
+test("an access carrying a narrow under the plain read deed reaches nothing", () => {
+  const wrong = [
+    { target: "world-skill", deeds: [DEEDS.READ], narrow: { key: "world", is: "world/one" } },
+  ]
+  expect(malformed(wrong[0] as Grant)).toContain("would widen past it")
+  expect(reachOf(wrong, "world-skill", DEEDS.READ, "anonymous").permitted).toBe(false)
+})
+
+test("an access stating read-some and carrying no narrow reaches nothing", () => {
+  const wrong = [{ target: "world-skill", deeds: [DEEDS.READ_SOME], narrow: null }]
+  expect(malformed(wrong[0] as Grant)).toContain("carries no narrow")
+  expect(reachOf(wrong, "world-skill", DEEDS.READ, "anonymous").permitted).toBe(false)
 })
 
 test("only an access of the page type kind is asked for", async () => {
@@ -136,7 +152,7 @@ test("a narrow the access pages carry reaches the reach", async () => {
       "person-access": [
         {
           target: "world-skill",
-          deed: [DEEDS.READ],
+          deed: [DEEDS.READ_SOME],
           narrow: { key: "world", is: "world/one" },
         },
       ],
