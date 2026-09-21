@@ -114,7 +114,7 @@ export const everythingElse = {
     {
       field: "from",
       comparison: "does-not-end-with",
-      values: ["crunchyroll.com", "ins.amica.com"],
+      values: ["crunchyroll.com", "ins.amica.com", "marketing.patreon.com"],
     },
   ],
   judgement:

@@ -21,6 +21,7 @@ export const marketingSenders = {
         "metamail.com",
         "uopeople.edu",
         "ins.amica.com",
+        "marketing.patreon.com",
       ],
     },
   ],
