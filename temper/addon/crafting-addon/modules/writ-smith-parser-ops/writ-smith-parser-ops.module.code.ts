@@ -33,7 +33,7 @@ import { toWritFields } from "akasha/temper/addon/crafting-addon/modules/writ-wr
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/crafting-addon/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
 import "akasha/temper/addon/library-type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-sets-api-2/lib-sets-api-2.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
 import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"

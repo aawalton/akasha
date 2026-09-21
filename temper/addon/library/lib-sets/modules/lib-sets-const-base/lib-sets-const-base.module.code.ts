@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/library-type/lib-sets-api-2/lib-sets-api-2.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
 import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/library/lib-sets/lib-sets-table-keys/lib-sets-table-keys.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
