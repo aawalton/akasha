@@ -75,7 +75,7 @@ function firstIn(held: Held, key: string): string | undefined {
   return typeof said === "string" && said !== "" ? said : undefined
 }
 
-function rankOf(held: Held): MusicRating | null {
+function gradeOf(held: Held): MusicRating | null {
   const graded = firstIn(held, "grade")
   return MUSIC_RATINGS.find((rung) => rung === graded) ?? null
 }
@@ -97,7 +97,7 @@ function rolledBySlug(releases: readonly Held[]): ReadonlyMap<string, Roll> {
     const slug = slugOf(named)
     const held = rolled.get(slug) ?? { releases: 0, ranked: 0 }
     held.releases += 1
-    held.ranked += rankOf(one) === null ? 0 : 1
+    held.ranked += gradeOf(one) === null ? 0 : 1
     rolled.set(slug, held)
   }
   return rolled
@@ -120,7 +120,7 @@ export function rowsOf(
       slug,
       title: firstIn(one, "title") ?? slug,
       status: stated,
-      rank: rankOf(one),
+      rank: gradeOf(one),
       releases: roll.releases,
       length: count(one, "totalLength"),
       progress: count(one, "totalProgress"),
