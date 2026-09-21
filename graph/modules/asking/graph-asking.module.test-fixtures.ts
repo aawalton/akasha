@@ -228,7 +228,10 @@ export function relationWorld(lines: number, pagesExist = true): string {
   })
   filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
-  filed(root, `page/id/${TARGET_ID}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
+  filed(root, `page/id/${TARGET_ID.slice(-2)}/${TARGET_ID}.jsonl`, {
+    path: TARGET_AT,
+    id: TARGET_ID,
+  })
   if (lines > 0) {
     besideAdded(
       root,
@@ -316,7 +319,7 @@ export function loaderWorld(names = true): string {
     loadedBy: `${MODULE}/${HELD_LOADER}`,
   })
   filed(root, `path/${TYPE_AT}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
-  filed(root, `page/id/${TYPE_ID}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
+  filed(root, `page/id/${TYPE_ID.slice(-2)}/${TYPE_ID}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
   filed(root, TYPE_FILED_AT, { path: TYPE_AT, id: TYPE_ID })
   paged(root, LOADER_AT, {
     id: LOADER_ID,
@@ -326,7 +329,10 @@ export function loaderWorld(names = true): string {
     code: "ts",
   })
   filed(root, `path/${LOADER_AT}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
-  filed(root, `page/id/${LOADER_ID}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
+  filed(root, `page/id/${LOADER_ID.slice(-2)}/${LOADER_ID}.jsonl`, {
+    path: LOADER_AT,
+    id: LOADER_ID,
+  })
   paged(root, MODULE_TYPE_AT, {
     id: MODULE_TYPE_ID,
     pageTypeSlug: PAGE_TYPE,

@@ -316,7 +316,7 @@ export const pagesRepo = (): string =>
   repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
 
 export const filedFor = (id: string): readonly string[] => [
-  `page/id/${id}.jsonl`,
+  `page/id/${id.slice(-2)}/${id}.jsonl`,
   "page-type/domain/slug/a.jsonl",
 ]
 

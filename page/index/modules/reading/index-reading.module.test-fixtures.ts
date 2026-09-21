@@ -14,6 +14,7 @@ import {
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   beneath,
+  filedAt,
   indexIn,
   overlaidOn,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
@@ -94,7 +95,7 @@ function identityFiled(
   said: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(uniqueKind, scope, propertySlug, said), lines)
+  filing(root, filedAt(uniqueKind, scope, propertySlug, said), lines)
 }
 
 function identityListed(
@@ -104,7 +105,7 @@ function identityListed(
   propertySlug: string,
   said: string
 ): boolean {
-  const at = join(uniqueKind, scope, propertySlug, `${said}${ENDING}`)
+  const at = `${filedAt(uniqueKind, scope, propertySlug, said)}${ENDING}`
   return existsSync(under(root, at))
 }
 
@@ -372,7 +373,7 @@ export function identitiesListedIn(root: string, pageTypeSlug: string): boolean 
 }
 
 export function idTakenFrom(root: string, id: string): undefined {
-  taking(root, join(PAGE, ID, `${id}${ENDING}`))
+  taking(root, `${filedAt(PAGE, NO_SCOPE, ID, id)}${ENDING}`)
 }
 
 export function identitiesTakenFrom(root: string, pageTypeSlug: string): undefined {

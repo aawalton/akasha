@@ -23,9 +23,9 @@ test("a key is the index's own folder followed by the scope, the property and th
   ).toBe("page-type/domain/slug/a")
 })
 
-test("a key under no scope names the index's folder and nothing between", () => {
+test("a key under no scope names the index's folder and the value's last two characters", () => {
   expect(keyFor({ uniqueKind: "page", scope: "", propertySlug: "id", said: A })).toBe(
-    `page/id/${A}`
+    `page/id/${A.slice(-2)}/${A}`
   )
 })
 

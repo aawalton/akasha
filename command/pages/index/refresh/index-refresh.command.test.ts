@@ -290,7 +290,7 @@ test("a path belonging to no index is taken away and named", () => {
 
 test("a refresh that stopped part way names the indexes it wrote and the file it had in hand", () => {
   const root = repoAt()
-  const blocked = `page/id/${slugPage.id}.jsonl`
+  const blocked = `page/id/${slugPage.id.slice(-2)}/${slugPage.id}.jsonl`
   mkdirSync(join(root, indexNamed(), blocked, "inside"), { recursive: true })
 
   const answer = indexRefresh([], givenAt(root))

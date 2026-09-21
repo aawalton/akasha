@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
-  bucketOf,
+  filedAt,
   INDEX_AT,
   indexIn,
   readingAt,
@@ -128,14 +128,8 @@ export function listedNamed(
   propertySlug: string,
   said: string
 ): readonly Listed[] {
-  const reading = readingIn(given)
-  const name = `${said}${ENDING}`
-  const bucket = bucketOf(said)
-  if (bucket !== null) {
-    const found = listedIn(reading, join(uniqueKind, scope, propertySlug, bucket, name))
-    if (found.length > 0) return found
-  }
-  return listedIn(reading, join(uniqueKind, scope, propertySlug, name))
+  const at = filedAt(uniqueKind, scope, propertySlug, said)
+  return listedIn(readingIn(given), `${at}${ENDING}`)
 }
 
 export function listedAt(

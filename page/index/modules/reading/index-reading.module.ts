@@ -55,11 +55,7 @@ export const indexReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value that is a lower uuid is looked for under its last two characters first.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A value no such folder answers for is looked for under the key without it.",
+      statement: "A value that is a lower uuid is looked for under its last two characters.",
     },
     {
       decisionKind: "decision-kind/departure",

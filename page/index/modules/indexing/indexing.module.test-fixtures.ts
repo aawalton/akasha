@@ -103,7 +103,8 @@ export function settled(
   return wroteText(root, tree, at, bodyOf(value), before === null ? null : bodyOf(before))
 }
 
-export const idFile = (root: string, id: string): string => join(root, `page/id/${id}.jsonl`)
+export const idFile = (root: string, id: string): string =>
+  join(root, "page", "id", id.slice(-2), `${id}.jsonl`)
 
 export const slugFile = (root: string, type: string, slug: string): string =>
   join(root, `page-type/${type}/slug/${slug}.jsonl`)
@@ -300,7 +301,7 @@ function uniqueKindRespelled(unique: string): readonly string[] {
 }
 
 export const untouchedAfter = (unique: string): boolean =>
-  uniqueKindRespelled(unique).some((one) => one.includes(join("page", "id", B)))
+  uniqueKindRespelled(unique).some((one) => one.includes(join("page", "id", B.slice(-2), B)))
 
 export const aTarget = (slug: string): Named => thePage({ id: D, pageTypeSlug: "domain", slug })
 

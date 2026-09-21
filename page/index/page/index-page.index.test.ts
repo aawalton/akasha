@@ -15,7 +15,7 @@ test("a page unique across every page is filed under the property and the value 
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
 
   expect(pageIn(value, "/repo/a.domain.ts", "/repo", UNIQUE)).toEqual([
-    { at: `page/id/${A}.jsonl`, line: `{"path":"a.domain.ts","id":"${A}"}` },
+    { at: `page/id/${A.slice(-2)}/${A}.jsonl`, line: `{"path":"a.domain.ts","id":"${A}"}` },
   ])
 })
 
@@ -39,7 +39,7 @@ test("a page holding files is filed under no path here, a path being no identifi
   const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
 
   expect(pageIn(value, "/repo/deep/a.module.ts", "/repo", UNIQUE)).toEqual([
-    { at: `page/id/${A}.jsonl`, line: `{"path":"deep/a.module.ts","id":"${A}"}` },
+    { at: `page/id/${A.slice(-2)}/${A}.jsonl`, line: `{"path":"deep/a.module.ts","id":"${A}"}` },
   ])
 })
 

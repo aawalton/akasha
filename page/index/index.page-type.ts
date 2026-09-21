@@ -137,8 +137,8 @@ export const index = {
       statement: "A question the index answers is read from the index rather than from the pages.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "A directory is divided into no buckets.",
+      decisionKind: "decision-kind/departure",
+      statement: "A value that is an id is filed under the last two characters of that id.",
     },
     {
       decisionKind: "decision-kind/departure",

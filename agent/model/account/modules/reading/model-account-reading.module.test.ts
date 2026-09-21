@@ -344,7 +344,7 @@ test("reading one account lists no directory of the fleet", () => {
   expect(accountPathIn(one.reading, "aine")).toBe(pageAt("aine"))
   expect(one.seen.filter((said) => said.startsWith("listing "))).toEqual([])
   expect(one.seen.filter((said) => said.startsWith("lines "))).toEqual([
-    `lines page/id/${ACCOUNT_TYPE}.jsonl`,
+    `lines page/id/${ACCOUNT_TYPE.slice(-2)}/${ACCOUNT_TYPE}.jsonl`,
     "lines page-type/model-account/slug/aine.jsonl",
   ])
   const two = counting(root)
@@ -354,7 +354,7 @@ test("reading one account lists no directory of the fleet", () => {
     "listing page-type/model-account/slug",
   ])
   expect(two.seen.filter((said) => said.startsWith("lines "))).toEqual([
-    `lines page/id/${ACCOUNT_TYPE}.jsonl`,
+    `lines page/id/${ACCOUNT_TYPE.slice(-2)}/${ACCOUNT_TYPE}.jsonl`,
     "lines page-type/model-account/slug/aine.jsonl",
     "lines page-type/model-account/slug/ctw.jsonl",
     "lines page-type/model-account/slug/aow.jsonl",

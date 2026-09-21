@@ -44,7 +44,7 @@ function filed(root: string, at: string, said: Record<string, unknown>): undefin
 }
 
 function pageFiled(root: string, at: string, id: string): undefined {
-  filed(root, `page/id/${id}.jsonl`, { path: at, id })
+  filed(root, `page/id/${id.slice(-2)}/${id}.jsonl`, { path: at, id })
 }
 
 function edged(root: string, slug: string, generator: string): undefined {

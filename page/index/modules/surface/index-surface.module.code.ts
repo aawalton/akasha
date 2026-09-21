@@ -34,8 +34,19 @@ export function indexAt(indexName: string, ...parts: readonly string[]): string 
 
 const BUCKET_WIDTH = 2
 
-export function bucketOf(said: string): string | null {
+function bucketOf(said: string): string | null {
   return lowerUuid(said) ? said.slice(-BUCKET_WIDTH) : null
+}
+
+export function filedAt(
+  uniqueKind: string,
+  scope: string,
+  propertySlug: string,
+  said: string
+): string {
+  const bucket = bucketOf(said)
+  if (bucket === null) return join(uniqueKind, scope, propertySlug, said)
+  return join(uniqueKind, scope, propertySlug, bucket, said)
 }
 
 const HELD_AT_MOST = 64_000_000

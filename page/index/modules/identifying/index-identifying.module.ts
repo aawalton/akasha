@@ -44,10 +44,7 @@ export const indexIdentifying = {
       statement:
         "A value that is a lower uuid is filed under a folder its last two characters name.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Such a value is filed under that folder and under the key without it as well.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Which index files an identifier is not answered here.",

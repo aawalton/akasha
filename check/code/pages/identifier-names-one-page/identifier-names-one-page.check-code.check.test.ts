@@ -122,7 +122,7 @@ test("an id another page carries is refused though the pages are of different ty
   pageFiled(root, ONE, pathFor("module", "other"))
   const said = judged(landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) }))
   expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain(`page/id/${ONE}`)
+  expect(said[0]?.reason).toContain(`page/id/${ONE.slice(-2)}/${ONE}`)
 })
 
 test("two pages of different page types carrying one slug are let through", () => {

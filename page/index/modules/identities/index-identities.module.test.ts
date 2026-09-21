@@ -19,7 +19,7 @@ test("a value carrying its two identifiers is filed in the page index and the pa
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
   expect(identitiesIn(value, "/repo/a.domain.ts", "/repo", UNIQUE)).toEqual([
-    { at: `page/id/${A}.jsonl`, line },
+    { at: `page/id/${A.slice(-2)}/${A}.jsonl`, line },
     { at: "page-type/domain/slug/a.jsonl", line },
   ])
 })

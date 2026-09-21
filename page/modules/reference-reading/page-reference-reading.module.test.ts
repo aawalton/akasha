@@ -43,7 +43,7 @@ const SHAPED = `${JSON.stringify({
   fileName: "routes.ts",
 })}\n`
 
-const ID_FILED_AT = `page/id/${NAMED_ID}.jsonl`
+const ID_FILED_AT = `page/id/${NAMED_ID.slice(-2)}/${NAMED_ID}.jsonl`
 
 const HELD: Record<string, string> = {
   [ID_FILED_AT]: `{"path":"${NAMED_AT}","id":"${NAMED_ID}"}`,
