@@ -30,7 +30,13 @@ import {
 } from "akasha/design/interface/system/modules/components-input-panels/components-input-panels.module.code.tsx"
 import { ComponentsItemDisplayPanels } from "akasha/design/interface/system/modules/components-item-display-panels/components-item-display-panels.module.code.tsx"
 import { ComponentsListGridPanels } from "akasha/design/interface/system/modules/components-list-grid-panels/components-list-grid-panels.module.code.tsx"
-import { ComponentsMenuPanels } from "akasha/design/interface/system/modules/components-menu-panels/components-menu-panels.module.code.tsx"
+import {
+  AlertDialogPanel,
+  ContextMenuPanel,
+  DrawerPanel,
+  DropdownMenuPanel,
+  HoverCardPanel,
+} from "akasha/design/interface/system/modules/components-menu-panels/components-menu-panels.module.code.tsx"
 import {
   DialogPanel,
   PopoverPanel,
@@ -92,7 +98,11 @@ export function ComponentsTabContent() {
           <SkeletonTextPanel />
           <ListContentSkeletonPanel />
           <LoadingContainerPanel />
-          <ComponentsMenuPanels />
+          <DropdownMenuPanel />
+          <ContextMenuPanel />
+          <HoverCardPanel />
+          <AlertDialogPanel />
+          <DrawerPanel />
           <ComponentsInputCompositePanels />
           <ComponentsSelectionPanels />
           <ComponentsSortFilterPanels />
