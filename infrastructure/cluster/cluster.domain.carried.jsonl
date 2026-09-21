@@ -3,4 +3,5 @@
 {"id":"01a073f1-e67a-717a-9d6a-324244b75878"}
 {"parts":["domain/cluster-api","domain/cluster-manifest","domain/cluster-operation","domain/cluster-provisioning","domain/k8s-synth","domain/k8s-type"]}
 {"slug":"cluster"}
+{"spellings":[{"partOfSpeech":"part-of-speech/noun","spelling":"cluster"}]}
 {"type":"page-type/domain"}

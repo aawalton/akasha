@@ -16,6 +16,10 @@ export const model = {
     "page-type/model-provider",
     "page-type/model-test",
   ],
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "model" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "models" },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

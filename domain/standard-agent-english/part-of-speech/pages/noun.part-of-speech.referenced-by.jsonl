@@ -1,9 +1,12 @@
 {"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
+{"propertySlug":"part-of-speech","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/adjective.part-of-speech.ts","id":"01a0c5f9-2164-7ac3-93fa-caec20932926"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/noun.part-of-speech.ts","id":"01a0c564-f7af-72fe-a45d-895e26d8b701"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}
+{"propertySlug":"part-of-speech","path":"infrastructure/cluster/cluster.domain.ts","id":"01a073f1-e67a-717a-9d6a-324244b75878"}
+{"propertySlug":"part-of-speech","path":"infrastructure/machine/machine.domain.ts","id":"01a06596-0000-7000-8000-000000000301"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/bare-noun.construction.ts","id":"01a0c57b-3cf2-71e2-96ca-ef11ec720706"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-with-a-preposition-phrase.construction.ts","id":"01a0c593-5e0a-7a00-be0b-096d9a7ee6bb"}

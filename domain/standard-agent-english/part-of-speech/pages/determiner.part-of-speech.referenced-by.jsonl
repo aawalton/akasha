@@ -1,6 +1,10 @@
 {"propertySlug":"import","fileName":"determiner.part-of-speech.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"determiner.part-of-speech.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/a.common-language-term.ts","id":"01a0c583-1734-7a62-9999-1422865923ab"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/another.common-language-term.ts","id":"01a0c5fe-cfe2-73d5-988b-e728212c0fd4"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/each.common-language-term.ts","id":"01a0c5fe-bd26-7689-8cb7-f7e1599272b2"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/no.common-language-term.ts","id":"01a0c5fe-e2f3-737d-8409-529b2a1cec13"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/one.common-language-term.ts","id":"01a0c5fe-a8c5-7669-ab52-aff2b82d0645"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/the.common-language-term.ts","id":"01a0c583-0463-76e9-a296-f736c56ccb9f"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-with-a-determiner.construction.ts","id":"01a0c58c-287b-70be-abf3-05d84f4c124b"}

@@ -13,6 +13,7 @@ export const cluster = {
     "domain/k8s-synth",
     "domain/k8s-type",
   ],
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "cluster" }],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
