@@ -4,6 +4,7 @@ export const auroraComeCloserHaveYouSeenMeDanceAlone = {
   id: "01a0b637-e7c7-7bd4-81f2-a4be6fa6f995",
   type: "page-type/track",
   slug: "aurora-come-closer-have-you-seen-me-dance-alone",
+  grade: "C",
   ownLength: 4.355333333333333,
   ownProgress: 0,
   partOfCollections: ["release/aurora-come-closer"],
