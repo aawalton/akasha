@@ -1,0 +1,10 @@
+{"game":"game/partners-ii"}
+{"id":"01a0c663-2058-752f-9c58-61ffd0520f08"}
+{"kind":"partner"}
+{"level":4}
+{"note":"Cat-eared smith of Amberford. Fights like a forge: patient, then all at once."}
+{"revealGate":9999}
+{"skills":[{"name":"Smithing","progress":0,"effect":"none stated"},{"name":"Hammerfight","progress":0,"effect":"none stated"},{"name":"Ashvein Lore","progress":0,"effect":"none stated"},{"name":"Haggling","progress":0,"effect":"none stated"}]}
+{"slug":"partners-ii-ember"}
+{"title":"Ember"}
+{"type":"page-type/game-entity"}
