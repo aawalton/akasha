@@ -12,8 +12,6 @@ import { useEffect } from "react"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
-const PROPERTY_DEFINITION_SLUG = toPageTypeSlug("page-property-definition")
-const AUTOMATION_SLUG = toPageTypeSlug("automation")
 
 const HYDRATE_OVERRUN_WARN_MS = 30_000
 
@@ -32,13 +30,7 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
         await configurePagesStoreAuth({ jwt: null, owner: reader })
         const store = await getPagesStore()
         store.acquireSlug(PAGE_TYPE_SLUG)
-        store.acquireSlug(PROPERTY_DEFINITION_SLUG)
-        store.acquireSlug(AUTOMATION_SLUG)
-        await Promise.all([
-          store.whenSlugReady(PAGE_TYPE_SLUG),
-          store.whenSlugReady(PROPERTY_DEFINITION_SLUG),
-          store.whenSlugReady(AUTOMATION_SLUG),
-        ])
+        await store.whenSlugReady(PAGE_TYPE_SLUG)
       } catch (err: unknown) {
         console.error("[requests-auth-provider] configurePagesStoreAuth/prehydrate failed", err)
       }

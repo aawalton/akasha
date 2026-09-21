@@ -15,5 +15,13 @@ export const requestsAuthProvider = {
       decisionKind: "decision-kind/departure",
       statement: "What an unsigned reader is served is settled by the gate the server holds.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The store is asked for the page types alone before anything is rendered.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A slug naming no page type never comes ready, and every read waits behind it.",
+    },
   ],
 } as const satisfies Module
