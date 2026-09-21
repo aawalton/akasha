@@ -581,6 +581,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/upstream-data/temper-upstream-data.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/temper-dungeon-champion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/world/group-dungeon/temper-group-dungeon.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/world/lorebook/temper-lorebook.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/world/lost-treasure/temper-lost-treasure.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/world/temper-world.domain.ts"}
@@ -623,7 +624,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/rules/routing/temper-items-rules-routing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/rules/temper-items-rules.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/temper-items.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lorebook/temper-lorebook.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion/temper-player-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/temper-character.domain.ts"}

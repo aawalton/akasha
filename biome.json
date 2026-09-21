@@ -167,9 +167,9 @@
     {
       "includes": [
         "temper/*-addon/src/**/data/**",
-        "temper/lorebook/modules/lorebooks-book-data*/**",
-        "temper/lorebook/modules/lorebooks-library-data*/**",
-        "temper/lorebook/modules/lorebooks-shalidor-locations*/**",
+        "temper/catalog/world/lorebook/modules/lorebooks-book-data*/**",
+        "temper/catalog/world/lorebook/modules/lorebooks-library-data*/**",
+        "temper/catalog/world/lorebook/modules/lorebooks-shalidor-locations*/**",
         "temper/addon/library/lib-treasure/**",
         "temper/addon/navigation-addon/**"
       ],

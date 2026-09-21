@@ -162,6 +162,9 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/trading-addon/trading-globals-declarations/trading-globals-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-global-declarations/dungeon-champion-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/lorebook/lorebooks-controls/lorebooks-controls.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/lorebook/lorebooks-public-api-declarations/lorebooks-public-api-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/lost-treasure/lost-treasure-global-declarations/lost-treasure-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/lost-treasure/lost-treasure-string-ids/lost-treasure-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/skyshard/skyshards-controls/skyshards-controls.type-declaration.ts"}
@@ -265,9 +268,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-writ/eso-writ.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/lua-length/lua-length.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebook/lorebooks-controls/lorebooks-controls.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebook/lorebooks-public-api-declarations/lorebooks-public-api-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/skill-point-finder/skill-point-finder-api-declarations/skill-point-finder-api-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/skill-point-finder/skill-point-finder-controls/skill-point-finder-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/skill-point-finder/skill-point-finder-string-ids/skill-point-finder-string-ids.type-declaration.ts"}

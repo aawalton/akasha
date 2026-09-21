@@ -26,7 +26,6 @@ export const temper = {
     "domain/temper-items-rules-core",
     "domain/temper-items-rules-matcher",
     "domain/temper-items-rules-routing-core",
-    "domain/temper-lorebook",
     "domain/temper-player-completion",
     "domain/temper-player-completion-state",
     "domain/temper-skill-morph-access",

@@ -20,5 +20,6 @@ export const temperWorld = {
     "domain/temper-lost-treasure",
     "domain/temper-dungeon-champion",
     "domain/temper-group-dungeon",
+    "domain/temper-lorebook",
   ],
 } as const satisfies Domain

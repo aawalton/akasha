@@ -1,0 +1,38 @@
+import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { addCompassPinOptions } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"
+import {
+  ADDON_PANEL,
+  ADDON_VERSION,
+  ADDON_WEBSITE,
+} from "akasha/temper/catalog/world/lorebook/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
+import { addImmersiveModeOptions } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-immersive-mode/lorebooks-immersive-mode.module.code.ts"
+import { addMapPinFilterOptions } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-map-pin-filters/lorebooks-map-pin-filters.module.code.ts"
+import { addPinAppearanceOptions } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-pin-appearance/lorebooks-pin-appearance.module.code.ts"
+import { addPinMenuOptions } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-pin-menus/lorebooks-pin-menus.module.code.ts"
+import { asLamControlDataArray } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
+
+const LAM = LibAddonMenu2
+
+export function createLamPanel(): undefined {
+  const panelData: LamPanelData = {
+    type: "panel",
+    name: GetString(LBOOKS_TITLE),
+    displayName: ZO_HIGHLIGHT_TEXT.Colorize(GetString(LBOOKS_TITLE)),
+    version: ADDON_VERSION,
+    slashCommand: "/lorebooks",
+    registerForRefresh: true,
+    registerForDefaults: true,
+    website: ADDON_WEBSITE,
+  }
+
+  let thePanelControl: unknown
+
+  const optionsTable: unknown[] = []
+  addPinAppearanceOptions(optionsTable, (): unknown => thePanelControl)
+  addPinMenuOptions(optionsTable)
+  addMapPinFilterOptions(optionsTable)
+  addCompassPinOptions(optionsTable)
+  addImmersiveModeOptions(optionsTable)
+
+  thePanelControl = registerPanel(LAM, ADDON_PANEL, panelData, asLamControlDataArray(optionsTable))
+}
