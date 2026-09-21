@@ -9,6 +9,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionIntoYou = {
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   status: "not-started",
+  tags: ["attraction"],
   unit: "unit/minutes",
   title: "Into You",
   trackType: "studio",
