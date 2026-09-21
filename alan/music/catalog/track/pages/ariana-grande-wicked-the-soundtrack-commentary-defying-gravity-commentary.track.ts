@@ -4,6 +4,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDefyingGravityCommentary =
   id: "01a0a6c5-4b60-7c8e-8b71-3b19a471430b",
   type: "page-type/track",
   slug: "ariana-grande-wicked-the-soundtrack-commentary-defying-gravity-commentary",
+  grade: "C",
   ownLength: 2.508,
   ownProgress: 2.508,
   partOfCollections: ["release/ariana-grande-wicked-the-soundtrack-commentary"],
