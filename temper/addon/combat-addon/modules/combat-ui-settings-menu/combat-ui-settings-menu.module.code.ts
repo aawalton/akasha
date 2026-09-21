@@ -33,6 +33,7 @@ import "akasha/temper/addon/library-type/lib-custom-menu/lib-custom-menu.type-de
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function toggleShowIds(this: void): undefined {
   const db = getDb()

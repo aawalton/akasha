@@ -6,6 +6,7 @@ import type {
   TaskData,
 } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/temper/addon/characters-addon/characters-config-declarations/characters-config-declarations.type-declaration.d.ts"
 
 export interface CharactersConfigView {
   characterPriority: SavedVariablesData["characterPriority"] | readonly string[]

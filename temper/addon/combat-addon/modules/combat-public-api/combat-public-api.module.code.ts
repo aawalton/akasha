@@ -2,6 +2,7 @@ import {
   ADDON_NAME,
   ADDON_VERSION,
 } from "akasha/temper/addon/combat-addon/modules/combat-constants/combat-constants.module.code.ts"
+import "akasha/temper/addon/combat-addon/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
 
 globalThis.TemperCombat = {
   name: ADDON_NAME,

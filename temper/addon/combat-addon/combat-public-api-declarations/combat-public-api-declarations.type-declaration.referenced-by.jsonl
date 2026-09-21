@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"combat-public-api-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-entry/combat-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-public-api-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-public-api/combat-public-api.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-public-api-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-public-api-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"}
 {"propertySlug":"import","fileName":"combat-public-api-declarations.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts"}

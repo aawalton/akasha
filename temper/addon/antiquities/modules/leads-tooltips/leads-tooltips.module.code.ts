@@ -22,6 +22,7 @@ import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaratio
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function restoreTooltipMaxX(maxX: number): undefined {
   InformationTooltip.SetDimensionConstraints(undefined, undefined, maxX, undefined)

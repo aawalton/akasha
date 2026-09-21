@@ -20,6 +20,7 @@ import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-saved-variables-declarations/combat-saved-variables-declarations.type-declaration.d.ts"
 
 export type PenetrationDebuffKey = "crusherValue" | "alkoshValue" | "tremorscaleValue"
 

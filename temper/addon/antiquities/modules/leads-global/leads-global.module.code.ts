@@ -20,6 +20,7 @@ import {
   rowMouseUp,
 } from "akasha/temper/addon/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/antiquities/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
+import "akasha/temper/addon/antiquities/leads-global-declarations/leads-global-declarations.type-declaration.d.ts"
 
 globalThis.TemperLeads = {
   toggleRDL: toggleLeadsWindow,

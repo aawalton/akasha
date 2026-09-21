@@ -37,6 +37,7 @@ import {
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import type { DailyWritProfessionState } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 import type { TaskData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/temper/addon/library-type/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
 
 export interface SubRowProgress {
   readonly current: number

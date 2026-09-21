@@ -21,6 +21,7 @@ import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/addon/combat-addon/combat-chat-report-declarations/combat-chat-report-declarations.type-declaration.d.ts"
 
 const POSTTOCHAT_MODE_NONE = 0
 export const POSTTOCHAT_MODE_SINGLE = 1

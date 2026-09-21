@@ -34,6 +34,8 @@ import { collectMotifKnowledge } from "akasha/temper/player/completion/temper-pl
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/temper-companions-global/temper-companions-global.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
 const SLASH_COMMAND_LISTINGS = [
   { name: "/temperrefresh", description: "Refresh all completion data" },
