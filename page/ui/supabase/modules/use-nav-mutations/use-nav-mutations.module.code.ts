@@ -1,11 +1,11 @@
 "use client"
 
-import { useSupabase } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { DEFAULT_ICON_NAME } from "akasha/page/core/modules/icon/icon.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useCallback } from "react"
@@ -50,7 +50,7 @@ async function navSlugOfId(pageId: string | null): Promise<string | null> {
 }
 
 export function useNavMutations(appSlug: string) {
-  const client = useSupabase()
+  const accountId = useUserId()
 
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))
@@ -97,7 +97,7 @@ export function useNavMutations(appSlug: string) {
         set: { navPlace: siblingCount },
       })
     },
-    [client, runPatch]
+    [runPatch]
   )
 
   const setNavIcon = useCallback(
@@ -113,8 +113,7 @@ export function useNavMutations(appSlug: string) {
 
   const createNav = useCallback(
     async (name: string): Promise<{ pageId: string }> => {
-      const { data: sessionData } = await client.auth.getSession()
-      if (sessionData.session?.user.id == null) {
+      if (accountId === null) {
         throw new Error("createNav requires an authenticated user")
       }
 
@@ -164,7 +163,7 @@ export function useNavMutations(appSlug: string) {
 
       return { pageId } satisfies { pageId: string }
     },
-    [client, runCreate, appSlug]
+    [accountId, runCreate, appSlug]
   )
 
   return {
