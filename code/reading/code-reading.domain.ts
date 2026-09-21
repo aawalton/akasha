@@ -15,5 +15,6 @@ export const codeReading = {
     "module/code-typing",
     "module/typing-keeping",
     "module/value-inserting",
+    "module/code-binding",
   ],
 } as const satisfies Domain

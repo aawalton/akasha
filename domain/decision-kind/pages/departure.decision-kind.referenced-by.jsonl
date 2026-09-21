@@ -1818,6 +1818,7 @@
 {"propertySlug":"decision-kind","path":"code/process/modules/proc-reading/proc-reading.module.ts","id":"01a05d02-889b-74a3-996f-1c5943d09b84"}
 {"propertySlug":"decision-kind","path":"code/process/modules/process-ending/process-ending.module.ts","id":"01a05d02-889b-7af1-bb37-7f74754eefe1"}
 {"propertySlug":"decision-kind","path":"code/python-module/python-module.page-type.ts","id":"01a06815-9efd-7001-8696-539b1123a2c0"}
+{"propertySlug":"decision-kind","path":"code/reading/modules/code-binding/code-binding.module.ts","id":"01a0c4b5-9eb1-7627-9166-8057c88ab5b1"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-importing/code-importing.module.ts","id":"01a0a320-782d-7fad-b1c1-54479f994857"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-naming/code-naming.module.ts","id":"01a08cc7-f1c9-7e9b-9ff6-01abb5cea0cc"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-rule/code-rule.module.ts","id":"01a04ea7-b2ea-74df-8173-b596f1d191cc"}
