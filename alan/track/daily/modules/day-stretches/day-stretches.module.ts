@@ -51,6 +51,18 @@ export const dayStretches = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The day a read is of narrows the ask rather than the stretches already read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The day a stretch is of is the id of the day page that stretch sits beside.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read of the open session names no day, and reaches every day's stretches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Stretches are sorted here rather than by `asking`.",
     },
     {

@@ -18,6 +18,8 @@ const MAX_DAY_SESSIONS = 200
 
 const SESSIONS = "sessions"
 
+const DAY_ID = "id"
+
 function meetsTest(held: unknown, test: Readonly<Record<string, unknown>>, key: string): boolean {
   const absent = held === undefined || held === null || held === ""
   for (const [how, want] of Object.entries(test)) {
@@ -44,9 +46,16 @@ function meetsTest(held: unknown, test: Readonly<Record<string, unknown>>, key: 
   return true
 }
 
-function sessionsAnswered(query: Readonly<Record<string, unknown>>): Answered {
+function sessionsAnswered(
+  query: Readonly<Record<string, unknown>>,
+  ofDay: string | null
+): Answered {
   const root = checkoutRoot()
-  const asked = asking(root, { pageTypeSlug: DAY_PAGE_TYPE, keys: ["slug", SESSIONS] } as never)
+  const asked = asking(root, {
+    pageTypeSlug: DAY_PAGE_TYPE,
+    keys: ["slug", SESSIONS],
+    ...(ofDay === null ? {} : { where: { [DAY_ID]: { is: ofDay } } }),
+  } as never)
   if ("refused" in asked) return { ok: false, why: asked.refused }
 
   const wanted = query["keys"]
@@ -112,8 +121,11 @@ function sessionsAnswered(query: Readonly<Record<string, unknown>>): Answered {
   return { ok: true, rows, n, unfound: [] }
 }
 
-function askSessions(query: Readonly<Record<string, unknown>>): Promise<Answered> {
-  return Promise.resolve(sessionsAnswered(query))
+function askSessions(
+  query: Readonly<Record<string, unknown>>,
+  ofDay: string | null = null
+): Promise<Answered> {
+  return Promise.resolve(sessionsAnswered(query, ofDay))
 }
 
 async function sessionRows(asked: Promise<Answered>, doing: string): Promise<readonly Page[]> {
@@ -137,12 +149,15 @@ export async function openSession(): Promise<Page | null> {
 
 export function sessionsOfDay(dailyId: string, keys?: readonly string[]): Promise<readonly Page[]> {
   return sessionRows(
-    askSessions({
-      where: { [DAILY_TRACKING]: { is: dailyId } },
-      "sort-by": "start-time",
-      limit: MAX_DAY_SESSIONS,
-      ...(keys === undefined ? {} : { keys }),
-    }),
+    askSessions(
+      {
+        where: { [DAILY_TRACKING]: { is: dailyId } },
+        "sort-by": "start-time",
+        limit: MAX_DAY_SESSIONS,
+        ...(keys === undefined ? {} : { keys }),
+      },
+      dailyId
+    ),
     "listing the sessions of a day"
   )
 }
