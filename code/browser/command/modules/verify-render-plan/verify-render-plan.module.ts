@@ -10,14 +10,6 @@ export const verifyRenderPlan = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A session is anonymous or throwaway or the real user.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every sort of session names the environment that session needs.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A page that answered an error or landed on sign-in is not waited on to settle.",
     },
     {

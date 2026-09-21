@@ -1,32 +1,5 @@
 import type { ExpectedTextStatus } from "akasha/code/browser/test-harness/modules/deployed-render-check/deployed-render-check.module.code.ts"
 
-export type VerifyRenderSessionKind = "anon" | "throwaway" | "real-user"
-
-export interface VerifyRenderSessionPlan {
-  readonly kind: VerifyRenderSessionKind
-  readonly signIn: boolean
-  readonly requiresRealUserEnv: boolean
-  readonly requiresThrowawayEnv: boolean
-}
-
-export function planVerifyRenderSession(input: {
-  readonly noSignIn: boolean
-  readonly asThrowaway: boolean
-}): VerifyRenderSessionPlan {
-  if (input.noSignIn) {
-    return { kind: "anon", signIn: false, requiresRealUserEnv: false, requiresThrowawayEnv: false }
-  }
-  if (input.asThrowaway) {
-    return {
-      kind: "throwaway",
-      signIn: true,
-      requiresRealUserEnv: false,
-      requiresThrowawayEnv: true,
-    }
-  }
-  return { kind: "real-user", signIn: true, requiresRealUserEnv: true, requiresThrowawayEnv: false }
-}
-
 export type RenderSettleWait =
   | { readonly kind: "none" }
   | { readonly kind: "expect-text"; readonly text: string }
@@ -98,8 +71,4 @@ export function classifyExpectedText(
 ): ExpectedTextStatus {
   if (expectText === undefined) return "not-checked"
   return bodyText.includes(expectText) ? "present" : "absent"
-}
-
-export function isRetryableSessionOpenTimeout(err: unknown): boolean {
-  return err instanceof Error && err.name === "TimeoutError"
 }

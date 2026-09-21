@@ -16,8 +16,8 @@ export const browserCommand = {
       statement: "A command here drives the harness rather than launching a browser of its own.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The user a command here signs in as is checked against the protected user.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here signs anybody in.",
     },
     {
       decisionKind: "decision-kind/absence",
