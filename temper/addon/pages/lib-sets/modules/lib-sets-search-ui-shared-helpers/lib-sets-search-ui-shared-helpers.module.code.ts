@@ -35,6 +35,7 @@ import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declarat
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
 let wasSetsDataScannedAndAdded = false
 
