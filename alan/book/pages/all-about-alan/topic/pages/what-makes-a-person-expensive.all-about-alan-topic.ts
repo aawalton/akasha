@@ -13,5 +13,5 @@ export const whatMakesAPersonExpensive = {
     "all-about-alan-topic/why-people-read-as-unsafe",
   ],
   settled:
-    "Lizzy is usually a two. That was counted out of my session tracking rather than recalled, so it is a reading of the record rather than something I said.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.",
+    "Lizzy is usually a two. That was counted out of my session tracking rather than recalled, so it is a reading of the record rather than something I said.",
 } as const satisfies AllAboutAlanTopic
