@@ -12,5 +12,5 @@ export const whatLonelinessCostsMyBody = {
     "all-about-alan-topic/being-known",
   ],
   settled:
-    "It is the last one left on the list of usual sources, so it is a guess by elimination rather than a reading.\n\nIf it is right, closing the gap should show up broadly across my health rather than as a social improvement.\n\nHolding the guess may have made part of its own signal: pointing attention at a quiet signal is what sets how loud it is.\n\nFor years my capacity may have been too low to feel the gap at all, so a rising signal could be recovery rather than invention.",
+    "It is the last one left on the list of usual sources, so it is a guess by elimination rather than a reading.\n\nIf it is right, closing the gap should show up broadly across my health rather than as a social improvement.\n\nHolding the guess may have made part of its own signal: pointing attention at a quiet signal is what sets how loud it is. That caveat landed on 11 June 2026. It was specifically the hypothesis of needing more connection for the load that made me focus on the lack of connection, and that focus is what pushed me out of the solitude that had been my normal.\n\nFor years my capacity may have been too low to feel the gap at all, so a rising signal could be recovery rather than invention.",
 } as const satisfies AllAboutAlanTopic
