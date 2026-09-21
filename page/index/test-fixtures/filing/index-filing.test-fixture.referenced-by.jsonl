@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
-{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"alan/attribute/modules/points/attribute-points.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"alan/harness/health-sample-day/modules/opening-window/opening-window.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts"}

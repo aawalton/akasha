@@ -86,6 +86,9 @@ export const persona = {
     "text-property/value-slug",
     "text-property/voice-instruction",
     "text-property/voice-reference-sha256",
+    "number-property/points-before-today",
+    "number-property/points-today",
+    "number-property/points-total",
   ],
   properties: [
     { pageProperty: "text-property/purpose", required: false, many: false },

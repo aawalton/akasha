@@ -47,7 +47,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/attribute/modules/points/attribute-points.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/book/pages/learn-everything/modules/topic-tree/topic-tree.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"}

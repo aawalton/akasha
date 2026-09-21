@@ -15,10 +15,6 @@ export const attribute = {
     "attribute/strength",
     "attribute/wisdom",
     "domain/attribute-readout",
-    "module/attribute-points",
-    "number-property/points-before-today",
-    "number-property/points-today",
-    "number-property/points-total",
     "text-property/point-unit",
     "module/attribute-level",
   ],
@@ -26,24 +22,6 @@ export const attribute = {
     { pageProperty: "code-file-property/code", required: false, many: false },
     { pageProperty: "code-file-property/test", required: false, many: false },
     { pageProperty: "text-property/point-unit", required: true, many: false },
-    {
-      pageProperty: "number-property/points-before-today",
-      required: false,
-      many: false,
-      uncommitted: true,
-    },
-    {
-      pageProperty: "number-property/points-today",
-      required: false,
-      many: false,
-      uncommitted: true,
-    },
-    {
-      pageProperty: "number-property/points-total",
-      required: false,
-      many: false,
-      uncommitted: true,
-    },
   ],
   decisions: [
     {
@@ -69,7 +47,7 @@ export const attribute = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An attribute's total points and the level those points reach are carried on that attribute's page.",
+        "An attribute's total points and the level those points reach are added up when asked for.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -77,7 +55,8 @@ export const attribute = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout counting an attribute reads that attribute's points off its page.",
+      statement:
+        "A readout counting an attribute takes that attribute's points for the day it draws.",
     },
   ],
   types: "ts",

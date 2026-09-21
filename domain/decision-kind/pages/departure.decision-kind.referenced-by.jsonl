@@ -447,7 +447,6 @@
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.ts","id":"01a0883e-5a1e-7450-ac91-ba1c3f52e21b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}
 {"propertySlug":"decision-kind","path":"alan/attribute/modules/level/attribute-level.module.ts","id":"01a0c4b0-4a14-730d-a7cf-b11505b9cc59"}
-{"propertySlug":"decision-kind","path":"alan/attribute/modules/points/attribute-points.module.ts","id":"01a081f8-593c-795e-92d9-6c2e0b74460e"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/charisma/charisma.attribute.ts","id":"01a06841-a142-7b48-90d6-bb5e2c5138dd"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/constitution/constitution.attribute.ts","id":"01a06841-a158-76c3-9089-9842c06dc7c0"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/endurance/endurance.attribute.ts","id":"01a06841-a16e-7bcb-a31a-fba64ce8de69"}
@@ -455,8 +454,6 @@
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/luck/luck.attribute.ts","id":"01a06841-a19b-775f-8183-8af74871a217"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/strength/strength.attribute.ts","id":"01a06841-a1b4-731f-8d52-fe93c3564922"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/wisdom/wisdom.attribute.ts","id":"01a06841-a1cb-7072-8aa0-eb11c0a4258b"}
-{"propertySlug":"decision-kind","path":"alan/attribute/properties/points-before-today.number-property.ts","id":"01a08205-3006-72d5-930b-892c6e875b17"}
-{"propertySlug":"decision-kind","path":"alan/attribute/properties/points-total.number-property.ts","id":"01a081cb-66ae-7cee-8e11-431ab034165b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-charisma/attribute-charisma.readout.ts","id":"01a06838-950f-7f4c-9f40-60cc35fa63f5"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts","id":"01a06838-9486-7039-a5b5-f3b864bb2160"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-endurance/attribute-endurance.readout.ts","id":"01a06838-945f-7ac6-b3a4-411fa111e195"}
@@ -3189,6 +3186,8 @@
 {"propertySlug":"decision-kind","path":"persona/properties/desktop-wallpaper.file-property.ts","id":"01a07861-ccaa-7c89-8461-ecbc1ac81264"}
 {"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.file-property.ts","id":"01a0782e-1f17-71d7-90a2-279f0591ec44"}
 {"propertySlug":"decision-kind","path":"persona/properties/persona-relationship-level.computed-property.ts","id":"01a082dd-bbc6-70a8-b7c5-94c16ef56e98"}
+{"propertySlug":"decision-kind","path":"persona/properties/points-before-today.number-property.ts","id":"01a08205-3006-72d5-930b-892c6e875b17"}
+{"propertySlug":"decision-kind","path":"persona/properties/points-total.number-property.ts","id":"01a081cb-66ae-7cee-8e11-431ab034165b"}
 {"propertySlug":"decision-kind","path":"persona/review-session/properties/review-session-notes.file-property.ts","id":"01a06743-d160-7000-a21c-00ed7a409bee"}
 {"propertySlug":"decision-kind","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
 {"propertySlug":"decision-kind","path":"persona/service-workstations/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts","id":"01a0786c-047b-7863-b793-0ff93be3d895"}

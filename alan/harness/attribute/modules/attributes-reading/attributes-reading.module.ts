@@ -17,11 +17,6 @@ export const attributesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Each reading is kept beside its attribute's page as that attribute's points today.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The attribute a readout counts is read off that readout's own link.",
     },
     {
@@ -71,14 +66,6 @@ export const attributesReading = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Each readout is named as soon as that readout's reading is kept.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An attribute's points today are named as soon as those points are kept.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A reading kept is named before the points that reading writes, which can throw.",
     },
     {
       decisionKind: "decision-kind/departure",

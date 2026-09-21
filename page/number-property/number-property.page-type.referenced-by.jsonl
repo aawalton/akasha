@@ -14,9 +14,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/properties/proxy-port.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/seat/properties/scanned-to.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"agent/subagent/properties/subagent-started.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/attribute/properties/points-before-today.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/attribute/properties/points-today.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/attribute/properties/points-total.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/book/pages/learn-everything/mastery-level/properties/mastery-rank.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/capture-through-line.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-calibration.number-property.ts"}
@@ -225,6 +222,9 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/craft-day/properties/green-day.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/craft-day/properties/improvement-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/craft-day/properties/new-persona-count.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/properties/points-before-today.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/properties/points-today.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/properties/points-total.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/properties/threshold.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/properties/cells-cleared.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/properties/craters.number-property.ts"}

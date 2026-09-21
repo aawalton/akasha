@@ -433,7 +433,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/place-candidate/place-candidate.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/request-log/request-log.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/attribute/modules/level/attribute-level.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/attribute/modules/points/attribute-points.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/book/pages/learn-everything/modules/seeded-draw/seeded-draw.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/book/pages/learn-everything/modules/topic-tree/topic-tree.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/chess/modules/board/chess-board.module.ts"}

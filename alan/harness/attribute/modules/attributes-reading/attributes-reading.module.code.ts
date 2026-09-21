@@ -1,4 +1,3 @@
-import { keepPointsToday } from "akasha/alan/attribute/modules/points/attribute-points.module.code.ts"
 import { charismaIn } from "akasha/alan/attribute/pages/charisma/charisma.attribute.code.ts"
 import { fetchConstitutionPoints } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
 import { enduranceIn } from "akasha/alan/attribute/pages/endurance/endurance.attribute.code.ts"
@@ -191,10 +190,6 @@ export async function takeReadings(
   for (const [page, value] of Object.entries(taken.kept)) {
     keepReading(root, page, value, now)
     done.push(`${page} carries the reading taken today`)
-    const slug = ATTRIBUTE_OF[page]
-    if (slug === undefined) continue
-    keepPointsToday(root, slug, value)
-    done.push(`${slug} carries its points from today`)
   }
   return taken
 }
