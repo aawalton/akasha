@@ -1,5 +1,6 @@
 import * as Inventory from "akasha/temper/addon/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
 import * as ResearchGrid from "akasha/temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
+import { updatePanelIcon } from "akasha/temper/addon/crafting-addon/modules/craft-research-trait-icon/craft-research-trait-icon.module.code.ts"
 import * as Utilities from "akasha/temper/addon/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import * as DataValidation from "akasha/temper/addon/crafting-addon/modules/craft-validation/craft-validation.module.code.ts"
 import { nilCheckSet } from "akasha/temper/addon/crafting-addon/modules/crafting-helpers/crafting-helpers.module.code.ts"
@@ -168,7 +169,7 @@ export function updateResearch(): undefined {
         } else {
           nilCheckSet(STATE.Data.crafting.researched, true, STATE.CurrentPlayer, craft, line, trait)
         }
-        ResearchGrid.updatePanelIcon(craft, line, trait)
+        updatePanelIcon(craft, line, trait)
       }
     }
   }

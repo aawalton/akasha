@@ -18,7 +18,7 @@ import {
   updateResearch,
   updateResearchWindows,
 } from "akasha/temper/addon/crafting-addon/modules/craft-research/craft-research.module.code.ts"
-import { updatePanelIcon } from "akasha/temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
+import { updatePanelIcon } from "akasha/temper/addon/crafting-addon/modules/craft-research-trait-icon/craft-research-trait-icon.module.code.ts"
 import {
   hideCrownStyles,
   hideKnownBlueprints,

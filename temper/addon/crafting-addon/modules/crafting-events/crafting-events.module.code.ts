@@ -25,7 +25,7 @@ import {
   addResearchItem,
   updateResearch,
 } from "akasha/temper/addon/crafting-addon/modules/craft-research/craft-research.module.code.ts"
-import { updatePanelIcon } from "akasha/temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
+import { updatePanelIcon } from "akasha/temper/addon/crafting-addon/modules/craft-research-trait-icon/craft-research-trait-icon.module.code.ts"
 import { registerSettings } from "akasha/temper/addon/crafting-addon/modules/craft-set-lam/craft-set-lam.module.code.ts"
 import { styleApi } from "akasha/temper/addon/crafting-addon/modules/craft-styles-data/craft-styles-data.module.code.ts"
 import { tooltipHandler } from "akasha/temper/addon/crafting-addon/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"

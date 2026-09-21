@@ -198,6 +198,7 @@ export const temperCraftingAddon = {
     "type-declaration/writ-writworthy-global",
     "module/crafting-events-handlers-station",
     "module/craft-style-rows",
+    "module/craft-research-trait-icon",
   ],
   interfaces: [
     "eso-interface/craft-store-blueprint-layout",

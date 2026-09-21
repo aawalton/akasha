@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-character-panel/craft-character-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-research-trait-icon/craft-research-trait-icon.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-research/craft-research.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-tooltips/craft-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-utilities.module.code.ts","path":"temper/addon/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}

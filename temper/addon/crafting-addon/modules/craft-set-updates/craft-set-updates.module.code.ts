@@ -1,7 +1,7 @@
 import type { AccountOptions } from "akasha/temper/addon/crafting-addon/modules/craft-account-init/craft-account-init.module.code.ts"
 import type { LangSuboptions } from "akasha/temper/addon/crafting-addon/modules/craft-lang-lang-table/craft-lang-lang-table.module.code.ts"
 import { repairStored } from "akasha/temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
-import { updatePanelIcon } from "akasha/temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
+import { updatePanelIcon } from "akasha/temper/addon/crafting-addon/modules/craft-research-trait-icon/craft-research-trait-icon.module.code.ts"
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 

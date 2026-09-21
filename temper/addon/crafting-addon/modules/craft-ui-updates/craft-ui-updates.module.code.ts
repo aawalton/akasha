@@ -4,7 +4,7 @@ import * as Options from "akasha/temper/addon/crafting-addon/modules/craft-optio
 import * as PlayerState from "akasha/temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import * as RecipeCooking from "akasha/temper/addon/crafting-addon/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import * as Research from "akasha/temper/addon/crafting-addon/modules/craft-research/craft-research.module.code.ts"
-import * as ResearchGrid from "akasha/temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"
+import { updatePanelIcon } from "akasha/temper/addon/crafting-addon/modules/craft-research-trait-icon/craft-research-trait-icon.module.code.ts"
 import * as StyleTracking from "akasha/temper/addon/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
 import * as Utilities from "akasha/temper/addon/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
@@ -49,7 +49,7 @@ export function updateScreen(): undefined {
   for (const [craft] of pairs(STATE.Data.crafting.researched[STATE.SelectedPlayer] ?? {})) {
     for (let line = 1; line <= GetNumSmithingResearchLines(craft); line++) {
       for (let trait = 1; trait <= STATE.MaxTraits; trait++) {
-        ResearchGrid.updatePanelIcon(craft, line, trait)
+        updatePanelIcon(craft, line, trait)
       }
     }
   }
