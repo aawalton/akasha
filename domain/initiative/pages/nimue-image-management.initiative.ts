@@ -10,12 +10,12 @@ export const nimueImageManagement = {
     {
       statement: "Every image akasha holds is a page.",
       workingMemory:
-        "89 image pages sit under `infrastructure/inference/generation/image/pages`: the 121 persona anchors, covers and wallpapers folded into 88 by their bytes, and one picture graded `S+`. Still no page: 3,872 rows in `alan.generation-log.images.jsonl`, 2,873 naming a file under `~/To Process` and 999 naming a run; about 11,100 files under `~/To Process` recorded nowhere; and 80 committed PNGs beside persona pages as `desktop-wallpaper` and `mobile-wallpaper`.",
+        "8,899 image pages sit under `infrastructure/inference/generation/image/pages`, one per distinct picture among the 11,287 files under `~/To Process` and beside persona pages. Still no page: 112 z-image runs and 17 food photos the object store alone holds. 3,872 rows in `alan.generation-log.images.jsonl` are records rather than pages: 2,197 name a file that is now a page, and 1,563 name a file that is gone.",
     },
     {
       statement: "Every image akasha holds sits beside its page as a file property.",
       workingMemory:
-        "Met for every image page: `file-property/image-bytes` is an uncommitted png beside each, written by plain copy since the guard lets an ignored path through. Still elsewhere: 38 persona covers also in the SeaweedFS bucket `agent-sessions`, which `/api/image/:imageId` serves and 40 persona `cover` fields name; 80 committed PNGs beside persona pages; 2,873 log rows at paths under `~/To Process`, 1,923 under `Personas` and 950 under a `generated` root; 999 rows at absolute paths, 970 gone.",
+        "Met for every image page: `file-property/image-bytes` is an uncommitted png beside each, written by plain copy since the guard lets an ignored path through, and a jpg is converted on the way in. Still elsewhere: 167 objects in the SeaweedFS bucket `agent-sessions` under `images/`, 38 of them persona covers that are pages already, which `/api/image/:imageId` serves; and 80 committed PNGs beside persona pages as `desktop-wallpaper` and `mobile-wallpaper`, byte-identical to image pages.",
     },
     {
       statement: "An image states the grade Alan marked it.",
@@ -25,7 +25,7 @@ export const nimueImageManagement = {
     {
       statement: "No two images akasha holds are the same bytes.",
       workingMemory:
-        "Not met. Of 11,287 image files under `~/To Process` and `persona/pages`, 4,468 are a copy of something: 2,080 pictures are held more than once, 2,388 copies are redundant, and those redundant copies hold 3.09GB. The heaviest are 1,511 in `zimage-outputs`, 875 in `Personas`, 747 in `To Sort` and 624 in `Sorted`, and 78 of the 80 committed persona PNGs are byte-identical to a file under `~/To Process`. Measured by sha256 over every file whose size another file shares.",
+        "Among image pages it holds by construction: a slug is `image-` and the first sixteen hex of the sha256 of the bytes, so a second copy is the same page. Still doubled: the 80 committed PNGs beside persona pages, each byte-identical to an image page, which go once `desktop-wallpaper` and `mobile-wallpaper` are relations to images; and 38 persona covers held again in the object store.",
     },
     {
       statement: "Every image Alan has already graded keeps that grade.",
