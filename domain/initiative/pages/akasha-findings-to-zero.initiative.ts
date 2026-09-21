@@ -27,5 +27,6 @@ export const akashaFindingsToZero = {
     "The second run is taken with Alan, over the kept findings, one at a time.",
     "Alan is given the name, one plain sentence saying what the finding is about, and one proposal.",
     "The count resolved and the count left are said when a run ends.",
+    "A finding is verified against the tree as it is now before it is put to Alan, and what was measured is said with it.",
   ],
 } as const satisfies Initiative
