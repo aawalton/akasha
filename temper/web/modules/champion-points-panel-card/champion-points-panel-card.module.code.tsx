@@ -1,5 +1,5 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
-import { MAX_CHAMPION_POINTS } from "akasha/temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
+import { MAX_CHAMPION_POINTS } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {

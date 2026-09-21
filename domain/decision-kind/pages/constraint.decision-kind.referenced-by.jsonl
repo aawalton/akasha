@@ -825,6 +825,8 @@
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
+{"propertySlug":"decision-kind","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
+{"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
@@ -832,8 +834,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-verify/libsets-upstream-verify.module.ts","id":"01a060d0-ca2a-7b19-860d-b24372089328"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.ts","id":"01a06282-dfc3-7860-9a09-26dd6febe9a4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/upstream-leaf-reading/upstream-leaf-reading.module.ts","id":"01a06282-dfc3-722f-9afd-a38cf3034d7a"}
-{"propertySlug":"decision-kind","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
-{"propertySlug":"decision-kind","path":"temper/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
 {"propertySlug":"decision-kind","path":"temper/character-skill/modules/character-skill-template/character-skill-template.module.ts","id":"01a0617a-2c70-7581-9900-cbdb1ccbe478"}
 {"propertySlug":"decision-kind","path":"temper/character-skill/modules/character-skills-00/character-skills-00.module.ts","id":"01a06182-7818-7e29-abd6-c2963db70f64"}

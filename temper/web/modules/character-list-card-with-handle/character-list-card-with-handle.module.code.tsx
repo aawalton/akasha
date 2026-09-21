@@ -1,7 +1,7 @@
 "use client"
 
+import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import type { RaceId } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import type { RoleId } from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import { usePlayerByUserId } from "akasha/temper/modules/use-player/use-player.module.code.ts"

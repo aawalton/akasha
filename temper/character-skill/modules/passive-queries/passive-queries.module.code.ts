@@ -1,4 +1,4 @@
-import type { RaceId } from "akasha/temper/character-race/modules/races/races.module.code.ts"
+import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import type { SkillId } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import type {

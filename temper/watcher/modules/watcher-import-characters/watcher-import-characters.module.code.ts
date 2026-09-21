@@ -4,7 +4,7 @@ import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
-import type { ChampionPointId } from "akasha/temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
+import type { ChampionPointId } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   type SkillLineId,

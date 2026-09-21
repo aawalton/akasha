@@ -5,7 +5,7 @@ import {
   type ChampionPointId,
   type ChampionPointSource,
   championPoints,
-} from "akasha/temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
+} from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { FilterableSelectDialogConfig } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { FilterableSelectDialog } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"

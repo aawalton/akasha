@@ -5,8 +5,8 @@ import {
   encodeBuild,
 } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { confirmingTarget } from "akasha/temper/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
+import { races } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import { races } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import {
   useCharacterLifecycle,
   useCharacterList,

@@ -3,7 +3,10 @@ import type {
   SortDirection,
   SortOption,
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
-import { type RaceId, races } from "akasha/temper/character-race/modules/races/races.module.code.ts"
+import {
+  type RaceId,
+  races,
+} from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import {
   type RoleId,
   characterRoles as roles,

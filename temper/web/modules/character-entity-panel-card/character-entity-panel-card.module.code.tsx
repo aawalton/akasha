@@ -13,8 +13,8 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { characterUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
+import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import type { RaceId } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import {
   type RoleId,
   characterRoles as roles,

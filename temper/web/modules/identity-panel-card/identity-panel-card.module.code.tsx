@@ -8,8 +8,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import { getRaceSourceById } from "akasha/temper/character-build/modules/race-source/race-source.module.code.ts"
-import type { RaceId } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import {
   type CurseState,
   curses,

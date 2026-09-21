@@ -436,6 +436,8 @@
 {"propertySlug":"decision-kind","path":"temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.ts","id":"01a060d7-c8ce-7583-8247-676a8ee7d0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
+{"propertySlug":"decision-kind","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
+{"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/trait/properties/metric-id.text-property.ts","id":"01a05fb0-3ced-7636-a899-431b497b3f1f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-eso-trait-map/properties/trait-id.text-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-jewelry-slot/properties/jewelry-type-id.text-property.ts","id":"01a05fd1-d43c-7d49-81c6-a1c0aa409075"}
@@ -462,8 +464,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/subcategory-id.text-property.ts","id":"01a05fba-ce3b-7c4b-adf4-7b752fef3058"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-data-port/libsets-data-port.module.ts","id":"01a06341-d9e8-7001-b3d8-ac888e8c7c0b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-pin/libsets-upstream-pin.module.ts","id":"01a060d0-ca28-7a33-9895-ea3ff07665be"}
-{"propertySlug":"decision-kind","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
-{"propertySlug":"decision-kind","path":"temper/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
 {"propertySlug":"decision-kind","path":"temper/character-skill/modules/character-skills-00/character-skills-00.module.ts","id":"01a06182-7818-7e29-abd6-c2963db70f64"}
 {"propertySlug":"decision-kind","path":"temper/character-skill/modules/character-skills-01/character-skills-01.module.ts","id":"01a06182-7819-71e6-858d-af00abb1471b"}

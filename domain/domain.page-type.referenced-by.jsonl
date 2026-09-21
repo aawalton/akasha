@@ -564,6 +564,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/temper-capture.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/writer/temper-capture-writer.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/alchemy/temper-alchemy.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-point.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/character-race/temper-character-race.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/core/temper-catalog-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-catalog.domain.ts"}
@@ -573,9 +575,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-pursuit/temper-pursuit.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-world/temper-world.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/upstream-data/temper-upstream-data.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/champion-point/temper-champion-point.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-build/temper-character-build.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-race/temper-character-race.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-skill-line/temper-character-skill-line.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-skill/temper-character-skill.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-source/temper-character-source.domain.ts"}
@@ -621,8 +621,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-matcher/temper-items-rules-matcher.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-routing-core/temper-items-rules-routing-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-routing/temper-items-rules-routing.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/filters/temper-items-filters.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/rules/temper-items-rules.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items/temper-items.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lorebook/temper-lorebook.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lost-treasure/temper-lost-treasure.domain.ts"}

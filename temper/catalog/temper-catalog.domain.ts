@@ -17,6 +17,8 @@ export const temperCatalog = {
     "domain/temper-catalog-side-file",
     "domain/temper-upstream-data",
     "domain/temper-alchemy",
+    "domain/temper-character-race",
+    "domain/temper-champion-point",
   ],
   decisions: [
     {

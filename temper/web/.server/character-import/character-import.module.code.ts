@@ -4,7 +4,7 @@ import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
-import { races } from "akasha/temper/character-race/modules/races/races.module.code.ts"
+import { races } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import type {
   BuildHash,
   BuildId,

@@ -4323,6 +4323,9 @@
 {"propertySlug":"decision-kind","path":"temper/capture/writer/modules/run-batched/run-batched.module.ts","id":"01a060b5-5ba9-7ee1-a925-9a6bbfd758f4"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/temper-alchemy.domain.ts","id":"01a06076-1b69-7174-a838-dc7b0b111961"}
+{"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-point.domain.ts","id":"01a06076-1b64-7dfd-b35b-f6c86003f6c1"}
+{"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
+{"propertySlug":"decision-kind","path":"temper/catalog/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/apply-invalidations/apply-invalidations.module.ts","id":"01a06071-0c76-73c9-ae39-c266d45d6492"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/batch-config/batch-config.module.ts","id":"01a06071-0c77-7e96-8044-2bad3e05b280"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/catalog-descriptor/catalog-descriptor.module.ts","id":"01a06071-0c77-71fa-866d-8ddbd099aa5c"}
@@ -4399,10 +4402,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/zone-upstream-port/zone-upstream-port.module.ts","id":"01a0685a-f9b2-7000-8097-747bc58d26f6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/zone-upstream-verify/zone-upstream-verify.module.ts","id":"01a06288-c640-74b3-b566-c847f9efc2c9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/temper-upstream-data.domain.ts","id":"01a06038-2cbe-79d6-9497-4ef8b26650e5"}
-{"propertySlug":"decision-kind","path":"temper/champion-point/temper-champion-point.domain.ts","id":"01a06076-1b64-7dfd-b35b-f6c86003f6c1"}
 {"propertySlug":"decision-kind","path":"temper/character-build/modules/race-source/race-source.module.ts","id":"01a061a7-9bb3-769a-973c-5b550c916d32"}
-{"propertySlug":"decision-kind","path":"temper/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
-{"propertySlug":"decision-kind","path":"temper/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
 {"propertySlug":"decision-kind","path":"temper/character-skill-line/modules/alliance-war-skill-lines/alliance-war-skill-lines.module.ts","id":"01a0608a-c133-71ab-bf75-2e25200d8aeb"}
 {"propertySlug":"decision-kind","path":"temper/character-skill-line/modules/class-skill-lines/class-skill-lines.module.ts","id":"01a0608a-c134-7c50-b351-4346bb0b63f1"}
 {"propertySlug":"decision-kind","path":"temper/character-skill-line/modules/companion-skill-lines/companion-skill-lines.module.ts","id":"01a0608a-c134-7baf-b371-fead0aad1a6f"}
