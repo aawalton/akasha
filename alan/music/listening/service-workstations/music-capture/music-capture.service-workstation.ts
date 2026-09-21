@@ -38,5 +38,9 @@ export const musicCapture = {
       decisionKind: "decision-kind/departure",
       statement: "A run that filed no play carries the tracks a sweep filed since the last run.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run reads each covered release off its tracks once those tracks are carried.",
+    },
   ],
 } as const satisfies ServiceWorkstation
