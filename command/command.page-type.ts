@@ -117,6 +117,7 @@ export const command = {
     "text-property/entry-default",
     "text-property/level-name",
     "namespace/request",
+    "namespace/game",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

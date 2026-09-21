@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/email/message/email-message.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/finding/finding.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/fitness/fitness.namespace.ts"}
+{"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/game/game.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/gap/gap.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/git/git.namespace.ts"}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/google/calendar/event/google-calendar-event.namespace.ts"}
