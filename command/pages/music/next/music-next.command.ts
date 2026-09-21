@@ -32,7 +32,7 @@ export const musicNext = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A grade is read under the `rank` key rather than under the `--rating` flag's name.",
+        "A grade is read under the `rank` key rather than under the `--grade` flag's name.",
     },
     {
       decisionKind: "decision-kind/departure",
