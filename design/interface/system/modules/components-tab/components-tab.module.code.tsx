@@ -12,7 +12,15 @@ import {
   QualityBadgesPanel,
   RemovableBadgesPanel,
 } from "akasha/design/interface/system/modules/components-core-panels/components-core-panels.module.code.tsx"
-import { ComponentsFormControlsPanels } from "akasha/design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx"
+import {
+  CheckboxPanel,
+  ProgressPanel,
+  RadioGroupPanel,
+  SliderPanel,
+  SwitchPanel,
+  ToggleGroupPanel,
+  TogglePanel,
+} from "akasha/design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx"
 import { ComponentsInputCompositePanels } from "akasha/design/interface/system/modules/components-input-composite-panels/components-input-composite-panels.module.code.tsx"
 import {
   InputPanelCardPanel,
@@ -55,7 +63,13 @@ export function ComponentsTabContent() {
           <PopoverPanel />
           <TabsPanel />
           <TablePanel />
-          <ComponentsFormControlsPanels />
+          <CheckboxPanel />
+          <SwitchPanel />
+          <RadioGroupPanel />
+          <SliderPanel />
+          <ProgressPanel />
+          <TogglePanel />
+          <ToggleGroupPanel />
           <ComponentsTextDisplayPanels />
           <ComponentsSkeletonPanels />
           <ComponentsMenuPanels />
