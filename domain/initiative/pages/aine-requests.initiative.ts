@@ -9,12 +9,6 @@ export const aineRequests = {
   intentStack: [
     {
       statement:
-        "Temper, alanwalton and smilingjenny each serve their feature requests at `requests`.",
-      workingMemory:
-        "The three are tempereso.com, alanwalton.com and smilingjenny.me. A site serves a path of its own only by a router app: a route page stating its `urlPath` beside a `.route.code.tsx`, named in that app's `.app-routes.ts` parts and in its `routes.ts` table, reached over the hostname that app's `tunnel-routes.ts` states. `product/audhdalan/web/routes/audhdalan-safety-levels` is the shape. Temper and alanwalton are no part of `domain/product`.",
-    },
-    {
-      statement:
         "A `Requests` nav item on alanwalton.com has a view for each standing a request is at.",
       workingMemory:
         "The views are Proposed, Published, Completed and Denied, in that order, each narrowing `standing` to its own value. A view narrows by the key a page spells rather than by the property's slug, so `standing` rather than `feature-request-standing`. Alan asked for the views to match the standings rather than bundle them.",
