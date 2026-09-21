@@ -1,0 +1,12 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whenTheLifeCoverCanShrink = {
+  id: "01a0c594-7faf-777c-9a26-2af106575c56",
+  type: "page-type/all-about-alan-topic",
+  slug: "when-the-life-cover-can-shrink",
+  title: "When The Life Cover Can Shrink",
+  definition: "sizing the term policies to how long the children still need covering",
+  parents: ["all-about-alan-topic/what-i-am-insured-for"],
+  settled:
+    "The four million is sized for three children at home, and the need falls as each of them reaches independence.\n\nLizzy is seventeen and probably independent in five to seven years. Joseph is fourteen, so seven to nine. Katara is eleven, so ten or more.\n\nI review it yearly and take the cover down as the need comes down.\n\nSwitching carrier is not the lever. Every carrier in the trade is a D, and a term policy already sidesteps most of what drags the trade down. The lever is the size.",
+} as const satisfies AllAboutAlanTopic
