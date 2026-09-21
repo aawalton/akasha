@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"}
 {"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"agent/seat/usage/modules/typing-minutes/typing-minutes.module.code.ts"}
 {"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"code/browser/test-harness/modules/storage-state-reading/storage-state-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"code/type/narrowing/modules/shape-object/shape-object.module.code.ts"}
 {"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"code/type/narrowing/modules/shape-scalar/shape-scalar.module.code.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

@@ -12,7 +12,6 @@ export const browserTestHarness = {
     "module/harness-launch",
     "module/prewarm",
     "module/read-only-harness",
-    "module/storage-state-reading",
     "module/target-guard",
     "module/worktree-git-facts",
   ],
