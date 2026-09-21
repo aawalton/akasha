@@ -11,7 +11,7 @@ export const musicChoosing = {
     "module/track-candidate",
     "module/track-resolving",
     "module/unheard-picking",
-    "module/unheard-reconciling",
+    "module/playlist-reconciling",
     "page-type/playlist",
   ],
   decisions: [

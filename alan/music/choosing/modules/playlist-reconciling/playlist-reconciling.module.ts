@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const unheardReconciling = {
+export const playlistReconciling = {
   id: "01a0c512-2e2b-797f-b0e7-3f85dde85399",
   type: "page-type/module",
-  slug: "unheard-reconciling",
+  slug: "playlist-reconciling",
   definition: "what a playlist gains and loses to hold the tracks wanted",
   code: "ts",
   test: "ts",

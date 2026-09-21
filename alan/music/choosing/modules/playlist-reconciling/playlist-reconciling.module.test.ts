@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { reconciling } from "akasha/alan/music/choosing/modules/unheard-reconciling/unheard-reconciling.module.code.ts"
+import { reconciling } from "akasha/alan/music/choosing/modules/playlist-reconciling/playlist-reconciling.module.code.ts"
 
 test("a track wanted that the playlist does not hold is added", () => {
   expect(reconciling(["a", "b"], ["a"]).adding).toEqual(["b"])
