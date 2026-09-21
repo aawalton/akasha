@@ -72,6 +72,10 @@ export const temperAddon = {
     "temper-addon/temper-lib-notification",
     "temper-addon/temper-lib-price",
     "temper-addon/temper-lib-saved-vars",
+    "temper-addon/temper-lib-scrollable-menu",
+    "temper-addon/temper-lib-sets",
+    "temper-addon/temper-lib-shifter-box",
+    "temper-addon/temper-lib-slash-commander",
   ],
   extends: ["page-type/service"],
   properties: [

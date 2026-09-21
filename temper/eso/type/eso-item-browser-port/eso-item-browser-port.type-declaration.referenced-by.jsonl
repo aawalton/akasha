@@ -2,12 +2,12 @@
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-search/potion-search.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-filter/keybinder-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-list-keyboard/lib-sets-search-ui-list-keyboard.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-shared-search/lib-sets-search-ui-shared-search.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-xml-api/lib-sets-search-ui-xml-api.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/library/lib-zone/modules/zone-queries/zone-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-map-settings/minimap-map-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-keyboard/lib-sets-search-ui-list-keyboard.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-shared-search/lib-sets-search-ui-shared-search.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-xml-api/lib-sets-search-ui-xml-api.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tab/item-browser-tab.module.code.ts"}

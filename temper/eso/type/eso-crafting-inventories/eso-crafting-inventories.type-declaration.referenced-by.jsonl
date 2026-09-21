@@ -4,5 +4,5 @@
 {"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-research/craft-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-style-tracking/craft-style-tracking.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-preview/lib-sets-tip-preview.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-preview/lib-sets-tip-preview.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

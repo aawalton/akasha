@@ -6,12 +6,8 @@ export const temperAddonLibrary = {
   slug: "temper-addon-library",
   definition: "the libraries temper's add-ons share in the game",
   parts: [
-    "temper-addon/temper-lib-sets",
-    "temper-addon/temper-lib-slash-commander",
     "temper-addon/temper-lib-table-functions",
     "temper-addon/temper-lib-treasure",
     "temper-addon/temper-lib-zone",
-    "temper-addon/temper-lib-shifter-box",
-    "temper-addon/temper-lib-scrollable-menu",
   ],
 } as const satisfies Domain

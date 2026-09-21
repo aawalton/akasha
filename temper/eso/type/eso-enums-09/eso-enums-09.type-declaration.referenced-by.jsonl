@@ -34,11 +34,11 @@
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-core-overrides/inventory-rules-core-overrides.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-inventory-scan/map-pins-inventory-scan.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-item-knowledge/knowledge-item-knowledge.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
