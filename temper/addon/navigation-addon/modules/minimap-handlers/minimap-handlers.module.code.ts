@@ -2,13 +2,12 @@ import {
   asAnyAsyncTask,
   asAnyTable,
   asAnyTableMember,
-  asFocusZoomSlot,
   asMiniMapCallbackManager,
   asMiniMapControl,
-  asMiniMapPanAndZoom,
   asMiniMapScene,
   asNumber,
 } from "akasha/temper/addon/navigation-addon/modules/minimap-casts/minimap-casts.module.code.ts"
+import { installFocusZoom } from "akasha/temper/addon/navigation-addon/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts"
 import {
   holder,
   type VotansMiniMap,
@@ -321,79 +320,7 @@ export function installHandlers(this: void, self: VotansMiniMap): undefined {
     handlers[EVENT_ZONE_CHANGED] = asAnyTableMember(newZoneChangeHandler)
   }
 
-  {
-    const zoMapPanAndZoom = asAnyTable(
-      asAnyTable(getmetatable(ZO_WorldMap_GetPanAndZoom())).__index
-    )
-    function isNormalizedPointInsideMapBounds(this: void, x: number, y: number): boolean {
-      return x > 0 && x < 1 && y > 0 && y < 1
-    }
-    function focusZoomAndOffset(
-      this: void,
-      panZoomArg: LooseTable,
-      normalizedXArg: number | undefined,
-      normalizedYArg: number | undefined
-    ): LuaMultiReturn<[number, number, number]> | undefined {
-      let normalizedX = normalizedXArg
-      let normalizedY = normalizedYArg
-      const mapId = GetMapTileTexture()
-      const fixed = self.account.fixedMaps[mapId]
-      if (fixed != null) {
-        ;[normalizedX, normalizedY] = unpack(fixed)
-      }
-
-      if (
-        normalizedX != null &&
-        normalizedY != null &&
-        isNormalizedPointInsideMapBounds(normalizedX, normalizedY)
-      ) {
-        const targetNormalizedZoom = 1
-        const curvedTargetZoom = asNumber(
-          asMiniMapPanAndZoom(panZoomArg).ComputeCurvedZoom(targetNormalizedZoom)
-        )
-
-        const zoomedNX = normalizedX * curvedTargetZoom
-        const zoomedNY = normalizedY * curvedTargetZoom
-        const borderSizeN = (curvedTargetZoom - 1) * 0.5
-        let offsetNX = 0.5 + borderSizeN - zoomedNX
-        let offsetNY = 0.5 + borderSizeN - zoomedNY
-
-        const allowPan: unknown = panZoomArg.allowPanPastMapEdge
-        if (allowPan == null || allowPan === false) {
-          offsetNX = zo_clamp(offsetNX, -borderSizeN, borderSizeN)
-          offsetNY = zo_clamp(offsetNY, -borderSizeN, borderSizeN)
-        }
-
-        const [units] = ZO_WorldMapScroll.GetDimensions()
-        const offsetX = offsetNX * units
-        const offsetY = offsetNY * units
-
-        return $multi(targetNormalizedZoom, offsetX, offsetY)
-      }
-      return undefined
-    }
-    const panZoomSlot = asFocusZoomSlot(zoMapPanAndZoom)
-    const orgGetNormalizedPositionFocusZoomAndOffset =
-      panZoomSlot.GetNormalizedPositionFocusZoomAndOffset
-    function newGetNormalizedPositionFocusZoomAndOffset(
-      this: void,
-      panZoom: LooseTable,
-      normalizedX: number,
-      normalizedY: number,
-      useCurrentZoom?: unknown
-    ): LuaMultiReturn<[number, number, number]> | undefined {
-      if (asNumber(WORLD_MAP_MANAGER.GetMode()) !== MINIMAP_MAP_MODE) {
-        return orgGetNormalizedPositionFocusZoomAndOffset(
-          panZoom,
-          normalizedX,
-          normalizedY,
-          useCurrentZoom
-        )
-      }
-      return focusZoomAndOffset(panZoom, normalizedX, normalizedY)
-    }
-    panZoomSlot.GetNormalizedPositionFocusZoomAndOffset = newGetNormalizedPositionFocusZoomAndOffset
-  }
+  installFocusZoom(self)
 
   {
     function refreshFragment(this: void): undefined {

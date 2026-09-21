@@ -332,6 +332,7 @@ export const temperNavigationAddon = {
     "type-declaration/destinations-preview-controls",
     "type-declaration/minimap-string-ids",
     "type-declaration/navigation-declarations",
+    "module/minimap-focus-zoom",
   ],
   interfaces: ["eso-interface/minimap-animations"],
   decisions: [
