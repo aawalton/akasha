@@ -10,7 +10,6 @@ export const designInterfacePattern = {
     "module/add-filter-button",
     "module/add-filter-id",
     "module/add-sort-button",
-    "module/auth-page-content",
     "module/build-values-from-fields",
     "module/button-group",
     "module/chip",
