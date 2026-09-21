@@ -36,12 +36,20 @@ export type Spanned = {
 
 export type Declaring = ReadonlyMap<string, readonly string[]>
 
-export function interfacesIn(path: string, text: string): readonly Spanned[] {
+function mergingName(one: ts.Statement): ts.Identifier | null {
+  if (ts.isInterfaceDeclaration(one)) return one.name
+  if (ts.isFunctionDeclaration(one)) return one.name ?? null
+  if (ts.isModuleDeclaration(one) && ts.isIdentifier(one.name)) return one.name
+  return null
+}
+
+export function mergingIn(path: string, text: string): readonly Spanned[] {
   const source = parsedAs(path, text)
   const found: Spanned[] = []
   for (const one of source.statements) {
-    if (!ts.isInterfaceDeclaration(one)) continue
-    found.push({ name: one.name.text, from: one.getStart(source), to: one.getEnd() })
+    const named = mergingName(one)
+    if (named === null) continue
+    found.push({ name: named.text, from: one.getStart(source), to: one.getEnd() })
   }
   return found
 }
@@ -53,7 +61,7 @@ export function declaringIn(world: World): Declaring {
     if (path === null) continue
     const text = world.textOf(path)
     if (text === null) continue
-    for (const one of interfacesIn(path, text)) {
+    for (const one of mergingIn(path, text)) {
       const held = found.get(one.name)
       if (held === undefined) found.set(one.name, [path])
       else if (!held.includes(path)) held.push(path)
@@ -92,8 +100,9 @@ function emptiedIn(
     if (text === null) continue
     const source = parsedAs(path, text)
     const stays = source.statements.some((one) => {
-      if (!ts.isInterfaceDeclaration(one)) return true
-      return (homes.get(one.name.text) ?? path) === path
+      const named = mergingName(one)
+      if (named === null) return true
+      return (homes.get(named.text) ?? path) === path
     })
     if (!stays) found.add(path)
   }
@@ -150,7 +159,7 @@ export function gatherMergingDeclarations(
       if (path === home) continue
       const text = world.textOf(path)
       if (text === null) continue
-      for (const one of interfacesIn(path, text)) {
+      for (const one of mergingIn(path, text)) {
         if (one.name !== name) continue
         const going = leaving.get(path)
         if (going === undefined) leaving.set(path, new Set([one.from]))

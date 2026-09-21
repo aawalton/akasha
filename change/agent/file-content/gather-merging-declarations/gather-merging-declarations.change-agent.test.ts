@@ -44,10 +44,22 @@ test("an interface more than one declaration file declares is gathered into one 
   expect(bodyAnswered(said, world, FAR)).toBe(AWAY)
 })
 
-test("an interface one file alone declares is left alone", () => {
+test("a name one file alone declares is left alone", () => {
   const world = worldHolding({ [NEAR]: ONE, [FAR]: AWAY }, PAGES)
 
   expect(gatherMergingDeclarations(world, 10).edits).toEqual([])
+})
+
+const SAID_ONE = "declare function said(one: number): string\n"
+
+const SAID_TWO = "declare function said(one: string): string\n"
+
+test("a function more than one declaration file declares is gathered into one file", () => {
+  const world = worldHolding({ [NEAR]: SAID_ONE, [FAR]: `${SAID_TWO}\n${AWAY}` }, PAGES)
+  const said = gatherMergingDeclarations(world, 10)
+
+  expect(bodyAnswered(said, world, NEAR)).toBe(`${SAID_ONE}\n${SAID_TWO}`)
+  expect(bodyAnswered(said, world, FAR)).toBe(AWAY)
 })
 
 test("a run gathers at most the count of interfaces handed in", () => {

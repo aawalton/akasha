@@ -185,6 +185,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-apple-app-site-association/alan-web-apple-app-site-association.route.ts","id":"01a0bbaa-1f47-7bfa-b982-1825d476f17e"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/no-such-route/no-such-route.route.ts","id":"01a072dd-d488-7e97-b669-7076f6de9c20"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/pages-ready/pages-ready.route.ts","id":"01a072b4-378d-70ab-8d75-5361b4ca7293"}
+{"propertySlug":"decision-kind","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.ts","id":"01a0c4da-fa68-7796-ad07-59a919549f57"}
 {"propertySlug":"decision-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.ts","id":"01a081dc-0cef-7d5a-9c4e-daf2ba343c98"}
 {"propertySlug":"decision-kind","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.ts","id":"01a09c8d-ef19-7434-8f64-db9ac5dcf0e2"}

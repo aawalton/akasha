@@ -7,7 +7,7 @@ export const gatherMergingDeclarations = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "the declarations of one interface gathered into the one file that declares it",
+  definition: "the declarations of one merging name gathered into the one file that declares it",
   code: "ts",
   test: "ts",
   changeKind: "change-kind/change-checked",
@@ -15,8 +15,14 @@ export const gatherMergingDeclarations = {
   maxMemoryMb: 3072,
   decisions: [
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "An interface, a function and a namespace each merge across the files declaring it.",
+    },
+    {
       decisionKind: "decision-kind/departure",
-      statement: "An interface more than one declaration file declares is gathered into one file.",
+      statement:
+        "A merging name more than one declaration file declares is gathered into one file.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,15 +48,15 @@ export const gatherMergingDeclarations = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The interfaces are gathered in the order their names sort.",
+      statement: "The names are gathered in the order those names sort.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run gathers at most the count of interfaces handed in.",
+      statement: "A run gathers at most the count of names handed in.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path handed in to leave alone holds back every interface that path declares.",
+      statement: "A path handed in to leave alone holds back every name that path declares.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -59,11 +65,15 @@ export const gatherMergingDeclarations = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "An interface one file alone declares is left alone.",
+      statement: "A name one file alone declares is left alone.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "An interface is left alone where a file it is in would be left with nothing.",
+      statement: "A name that does not merge is left alone, two files declaring it being refused.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A name is left alone where a file declaring it would be left with nothing.",
     },
     {
       decisionKind: "decision-kind/absence",
