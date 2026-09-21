@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -46,8 +47,18 @@ export type Reached =
   | { readonly ok: true; readonly tokens: readonly DeviceTokenReached[] }
   | { readonly ok: false; readonly why: string }
 
-function deviceTokenSlugFor(personSlug: string, iosAppSlug: string, deviceToken: string): string {
-  return `${personSlug}-${iosAppSlug}-${deviceToken.toLowerCase()}`
+const TOKEN_DIGEST_LENGTH = 32
+
+export function deviceTokenSlugFor(
+  personSlug: string,
+  iosAppSlug: string,
+  deviceToken: string
+): string {
+  const digest = createHash("sha256")
+    .update(deviceToken.toLowerCase(), "utf8")
+    .digest("hex")
+    .slice(0, TOKEN_DIGEST_LENGTH)
+  return `${personSlug}-${iosAppSlug}-${digest}`
 }
 
 async function bundlesByApp(
@@ -122,7 +133,7 @@ export async function deviceTokensFor(
   return { ok: true, tokens }
 }
 
-export function whomIn(args: DeviceTokenRegistration): Whom {
+function whomIn(args: DeviceTokenRegistration): Whom {
   const contributor = (args.contributor ?? "").trim()
   if (contributor !== "") return asContributor(contributor)
   return asAccount(args.userId ?? "")

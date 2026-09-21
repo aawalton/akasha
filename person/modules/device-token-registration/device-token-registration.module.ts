@@ -7,6 +7,7 @@ export const deviceTokenRegistration = {
   definition:
     "the push token a device is reached at, kept against whoever has it and read back to reach them",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -91,7 +92,23 @@ export const deviceTokenRegistration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The slug a token's page is named by is the person, the app and the token.",
+      statement: "The slug a token's page is named by is the person, the app and a digest.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A token addressing a live activity is longer than a slug holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The digest is of the token in lower case, so one token has one slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every token is digested, whatever length that token is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The token itself is kept beside the slug rather than in it.",
     },
     {
       decisionKind: "decision-kind/absence",
