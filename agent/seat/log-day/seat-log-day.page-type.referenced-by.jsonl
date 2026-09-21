@@ -45,6 +45,7 @@
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-elaine-2026-09-14/oauth-proxy-console-elaine-2026-09-14.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-elin-2026-09-15/oauth-proxy-console-elin-2026-09-15.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-elin-2026-09-18/oauth-proxy-console-elin-2026-09-18.seat-log-day.ts"}
+{"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-elin-2026-09-21/oauth-proxy-console-elin-2026-09-21.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-ember-2026-09-14/oauth-proxy-console-ember-2026-09-14.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-ember-2026-09-15/oauth-proxy-console-ember-2026-09-15.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/oauth-proxy-console-ember-2026-09-19/oauth-proxy-console-ember-2026-09-19.seat-log-day.ts"}
@@ -132,7 +133,6 @@
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-09-15/supervisor-console-elin-2026-09-15.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-09-18/supervisor-console-elin-2026-09-18.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-09-19/supervisor-console-elin-2026-09-19.seat-log-day.ts"}
-{"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-elin-2026-09-21/supervisor-console-elin-2026-09-21.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-ember-2026-09-14/supervisor-console-ember-2026-09-14.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-ember-2026-09-15/supervisor-console-ember-2026-09-15.seat-log-day.ts"}
 {"propertySlug":"import","fileName":"seat-log-day.page-type.types.ts","path":"agent/seat/log-day/pages/supervisor-console-ember-2026-09-18/supervisor-console-ember-2026-09-18.seat-log-day.ts"}
