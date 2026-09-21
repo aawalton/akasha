@@ -168,6 +168,25 @@ export function change(bodies: Readonly<Record<string, string>>): Change {
   return bodiesOver(rooted(), bodies)
 }
 
+export function changeIn(root: string, bodies: Readonly<Record<string, string>>): Change {
+  return bodiesOver(root, bodies)
+}
+
+export const CHECK_PAGE =
+  "check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.ts"
+
+const CHECK_ID = "01a08b0d-0005-7000-8000-000000000005"
+
+const CHECK_CODE = "check-code"
+
+const CHECK_SLUG = "extension-host-reaches-no-bun-code"
+
+export function checkFiled(root: string): string {
+  writing(root, CHECK_PAGE, "export const it = 1\n")
+  listedFiled(root, CHECK_CODE, CHECK_SLUG, [{ path: CHECK_PAGE, id: CHECK_ID }])
+  return root
+}
+
 export function withManifest(
   bodies: Readonly<Record<string, string>>
 ): Readonly<Record<string, string>> {

@@ -4,7 +4,10 @@ import {
   refusalsOver,
 } from "akasha/check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts"
 import {
+  CHECK_PAGE,
   change,
+  changeIn,
+  checkFiled,
   ENTRY,
   FAR,
   hosted,
@@ -19,9 +22,12 @@ import {
   PACKAGED_CODE,
   pathsRefused,
   refused,
+  rooted,
   scratch,
   stating,
+  withManifest,
 } from "akasha/check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.test-fixtures.ts"
+import { cachedIn, cacheKept } from "akasha/check/modules/cache/check-cache.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -133,4 +139,40 @@ test("a specifier landing on nothing is passed over", () => {
   const reads = 'import { gone } from "./gone.module.code.ts"\n'
   const held = hosted({ [ENTRY]: reads })
   expect(refusalsOver(held, hostShadow(held), MANIFEST)).toEqual([])
+})
+
+test("a run reading the graph keeps what it reached beside this check's page", () => {
+  const root = checkFiled(rooted())
+  const held = changeIn(
+    root,
+    withManifest({ [ENTRY]: READS_NEXT, [NEXT]: "export const it = 2\n" })
+  )
+  refusalsOver(held, hostShadow(held), MANIFEST)
+
+  expect(cachedIn(root, CHECK_PAGE)).toEqual([ENTRY, NEXT])
+})
+
+test("a change naming nothing kept is answered with no refusal", () => {
+  const root = checkFiled(rooted())
+  cacheKept(root, CHECK_PAGE, ["elsewhere/elsewhere.module.code.ts"])
+  const held = changeIn(root, { [ENTRY]: 'import "bun:ffi"\n' })
+
+  expect(refusalsOver(held, hostShadow(held), MANIFEST)).toEqual([])
+})
+
+test("a change naming a path kept is read through the graph all the same", () => {
+  const root = checkFiled(rooted())
+  cacheKept(root, CHECK_PAGE, [ENTRY])
+  const held = changeIn(root, withManifest({ [ENTRY]: 'import "bun:ffi"\n' }))
+
+  expect(refusalsOver(held, hostShadow(held), MANIFEST).map((one) => one.path)).toEqual([ENTRY])
+})
+
+test("what a run reaches joins what was kept rather than replacing it", () => {
+  const root = checkFiled(rooted())
+  cacheKept(root, CHECK_PAGE, ["gone/gone.module.code.ts"])
+  const held = changeIn(root, withManifest({ [ENTRY]: "export const it = 1\n" }))
+  refusalsOver(held, hostShadow(held), MANIFEST)
+
+  expect(cachedIn(root, CHECK_PAGE)).toEqual([ENTRY, "gone/gone.module.code.ts"])
 })
