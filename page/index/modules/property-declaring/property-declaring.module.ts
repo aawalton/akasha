@@ -41,6 +41,11 @@ export const propertyDeclaring = {
       statement: "A name no page property has is answered with no page type rather than refusing.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What is beneath a page type, and which types carry a property, are held under the reading.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No page under a page type is read here.",
     },

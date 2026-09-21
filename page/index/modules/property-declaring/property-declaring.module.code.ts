@@ -1,5 +1,6 @@
 import { shapeOf } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import {
+  heldEach,
   listedAt,
   listedById,
   readingIn,
@@ -38,7 +39,7 @@ export function declaringOf(given: string | Reading, id: string): readonly Decla
   return found
 }
 
-export function underneath(reading: Reading, id: string): readonly string[] {
+const beneath = heldEach((reading: Reading, id: string): readonly string[] => {
   const found: string[] = []
   const walked = new Set<string>()
   const waiting = [id]
@@ -53,10 +54,13 @@ export function underneath(reading: Reading, id: string): readonly string[] {
     waiting.push(...idsNaming(reading, one, EXTENDS))
   }
   return found
+})
+
+export function underneath(given: string | Reading, id: string): readonly string[] {
+  return beneath(given, id)
 }
 
-export function typesCarrying(given: string | Reading, named: string): ReadonlySet<string> {
-  const reading = readingIn(given)
+const carried = heldEach((reading: Reading, named: string): ReadonlySet<string> => {
   const filed = shapeOf(reading, named)
   if ("refused" in filed) return NO_TYPES
   const slug = filed.shape.slug
@@ -76,4 +80,8 @@ export function typesCarrying(given: string | Reading, named: string): ReadonlyS
   }
   take(listed.id, false)
   return found
+})
+
+export function typesCarrying(given: string | Reading, named: string): ReadonlySet<string> {
+  return carried(given, named)
 }
