@@ -2472,6 +2472,7 @@
 {"propertySlug":"decision-kind","path":"domain/sentence-shape/sentence-shape.page-type.ts","id":"01a05da1-60fc-76ca-8503-b43deb6d5f53"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.ts","id":"01a0c57a-e7ac-7d09-ad25-98343aab07cf"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","id":"01a0c5a0-dcdf-78bc-b3a9-d53923805df8"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.ts","id":"01a08220-6498-71cb-af30-b73f6642f5fe"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.ts","id":"01a0823b-40b3-774c-873f-e2fb70d34da0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.ts","id":"01a08248-90ee-7792-9275-0a291dfa50af"}

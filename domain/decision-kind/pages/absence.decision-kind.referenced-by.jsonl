@@ -1388,6 +1388,7 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
 {"propertySlug":"decision-kind","path":"domain/properties/definition.standard-agent-english-property.ts","id":"01a049b9-856c-70ca-bfd8-31cb76ead837"}
 {"propertySlug":"decision-kind","path":"domain/sentence-shape/sentence-shape.page-type.ts","id":"01a05da1-60fc-76ca-8503-b43deb6d5f53"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","id":"01a0c5a0-dcdf-78bc-b3a9-d53923805df8"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.ts","id":"01a0823b-40b3-774c-873f-e2fb70d34da0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.ts","id":"01a08248-90ee-7792-9275-0a291dfa50af"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.ts","id":"01a08245-78cc-7f77-96bc-39695e9c2410"}

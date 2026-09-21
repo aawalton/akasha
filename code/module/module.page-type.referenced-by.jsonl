@@ -1688,6 +1688,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/spelt-scanning/spelt-scanning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/sentence-shape/sentence-shape.page-type.types.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.ts"}
