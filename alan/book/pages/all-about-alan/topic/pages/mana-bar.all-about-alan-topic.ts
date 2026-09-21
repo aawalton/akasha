@@ -8,4 +8,6 @@ export const manaBar = {
   definition: "what my brain has left to start things with",
   parents: ["all-about-alan-topic/resource-bars"],
   related: ["all-about-alan-topic/stamina-bar"],
+  settled:
+    "Executive function was a real bottleneck of mine before safety took the place over.\n\nThree things retired it. Nervous system recovery, which was the slowest and the largest. The harness I built. And Vyvanse, which is the one I notice most and not the one that moved the most.\n",
 } as const satisfies AllAboutAlanTopic
