@@ -13,10 +13,5 @@ export const nimueGradeNaming = {
       workingMemory:
         "The ladder is written out in full in five places: the three rank properties `rank`, `grade` and `singability`, `MUSIC_RATINGS` in `rating-ladder.module.code.ts`, and `LITRPG_RATINGS` in `reading-shapes.module.code.ts`. No rung carries a color anywhere, and a select property states its values as plain text and nothing else. `rank-property.page-type.ts` decides that a rank property states the whole ladder as its values, so restating it is required today, and that decision is what changes.",
     },
-    {
-      statement: "No code states the ladder a grade property already states.",
-      workingMemory:
-        "`alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts` aliases the property's own type and then writes the sixteen rungs out again as `MUSIC_RATINGS`. The page type states that the ladder is the values a property states rather than a second list. 7 files reach `MusicRating`, `MUSIC_RATINGS`, `ratingRung` or `LIKED_RATINGS`.",
-    },
   ],
 } as const satisfies Initiative
