@@ -4,6 +4,7 @@ import {
 } from "akasha/page/ui/component/modules/drawings-found/drawings-found.module.code.ts"
 import type { PageRowCellsProps } from "akasha/page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx"
 import type { ComponentType } from "react"
+import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 type Drawn = { readonly Drawing: ComponentType<PageRowCellsProps> }
 
