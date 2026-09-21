@@ -10,6 +10,7 @@
 {"propertySlug":"part-of-speech","path":"infrastructure/cluster/cluster.domain.ts","id":"01a073f1-e67a-717a-9d6a-324244b75878"}
 {"propertySlug":"part-of-speech","path":"infrastructure/machine/machine.domain.ts","id":"01a06596-0000-7000-8000-000000000301"}
 {"propertySlug":"part-of-speech","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
+{"propertySlug":"part-of-speech","path":"page/type/page-property/page-property.page-type.ts","id":"01a04dff-9d7d-7459-a8c0-e038dc7714c3"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/bare-noun.construction.ts","id":"01a0c57b-3cf2-71e2-96ca-ef11ec720706"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-with-a-noun-run.construction.ts","id":"01a0c620-5515-7a60-90a8-f4786eeb2912"}

@@ -90,4 +90,8 @@ export const pageProperty = {
   typeGenerator: "ts",
   types: "ts",
   schema: "jsonl",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "property" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "properties" },
+  ],
 } as const satisfies PageType
