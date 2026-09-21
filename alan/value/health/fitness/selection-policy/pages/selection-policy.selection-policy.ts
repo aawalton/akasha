@@ -17,8 +17,6 @@ export const selectionPolicy = {
   recencySaturationDays: 21,
   boutsWithoutProgress: 3,
   repsBeforeSlowing: 20,
-  warmupLoadShare: 0.5,
-  warmupReps: 10,
   minutesStayingWarm: 15,
   minutesRaising: 5,
   secondsPerRaise: 60,
