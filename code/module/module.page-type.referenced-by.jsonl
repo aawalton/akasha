@@ -2564,6 +2564,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/affinity-tier/affinity-tier.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/attack-mode/attack-mode.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/dice-reading/dice-reading.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/dice-rolling/dice-rolling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/linear-stat/linear-stat.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/mechanic-run/mechanic-run.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts"}

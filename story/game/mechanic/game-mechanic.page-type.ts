@@ -39,6 +39,7 @@ export const gameMechanic = {
     "module/skill-rung",
     "game-mechanic/skill-bonus",
     "game-mechanic/skill-advance",
+    "module/dice-rolling",
   ],
   decisions: [
     {
