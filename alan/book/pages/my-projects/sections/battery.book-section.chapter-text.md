@@ -1,18 +1,20 @@
 
 # Battery Sizing
 
-Architecture pivot per [scope.md](book-section/solar-power/scope): grid plays the seasonal-storage role. Battery's job is reduced to two functions:
+The grid carries the seasonal deficit per [scope.md](book-section/solar-power/scope), so the battery has two jobs:
 
 1. **Daily smoothing** — shift midday PV surplus into evening load.
 2. **Short-duration outage resilience** — ride a few hours to a couple of days, depending on what we're willing to spend.
 
-Both functions are bounded by hours-to-days, not months. That's a 20–40 kWh job, not a 250–500 kWh job.
+Both are bounded by hours-to-days rather than months. That is a 20–40 kWh job.
 
-## TOU spread check (do we even need daily smoothing?)
+The battery is **not part of the PV case**. It is priced as its own line and decided on its own, per [scope.md](book-section/solar-power/scope) and [pricing.md](book-section/solar-power/pricing); this file sizes it for whoever decides to buy it.
 
-Provo City Power residential is flat-rate today (per [orientation.md](book-section/efficiency-factors/orientation#west-facing-tou-consideration)); the avoided-cost export credit under Schedule 1.1 (−$0.06742/kWh) is the load-bearing tariff for this project, not a TOU spread. **Material TOU price spread for arbitrage is not present in 2026** — confirm with the most-current Provo Power Schedule 1.1 / 1.2 rates before final sizing.
+## What a shifted kWh is worth
 
-Without TOU spread, the dollar value of "daily shifting" is the difference between the export-credit rate and the retail rate (the avoided retail cost on the self-consumed kWh). If Provo Power's export credit is at or near retail, the dollar incentive is small — the battery is then mostly an outage-resilience asset, not an arbitrage asset.
+Provo City Power residential has **no time-of-use option**: Schedule 1 is a three-tier inclining block ($0.07 / $0.11 / $0.13 per kWh plus an $18.00 monthly customer charge), and the published schedule list carries no residential TOU tariff ([customer-generation.md](book-section/solar-power/customer-generation)). The avoided-cost export credit under Schedule 1.1 (−$0.06742/kWh) is the load-bearing tariff here.
+
+So a kWh the battery keeps at home rather than exporting is worth the retail rate it displaces less the export credit it forgoes, and nothing else. At this house's marginal tier that is **$0.13 − $0.06742 = $0.063/kWh**. No hour of the day pays better than another, and there is no arbitrage past that spread.
 
 ## Function 1 — Daily PV-to-evening shifting
 
@@ -74,7 +76,7 @@ Riding 2 days: **300 kWh usable**. Riding 3 days: 450 kWh. That's a $300k–$450
 | 1-day winter with load-shedding | 150 | $150,000 |
 | 2-day winter with load-shedding | 300 | $300,000 |
 
-The economic break is clearly between 12-hour and 1-day. Spend $25–40k to cover the realistic outage case; rely on grid restoration or (separate decision) a small propane standby gen for the rare multi-day winter event. The standby gen is not load-bearing for energy self-sufficiency under the annual-net-zero architecture.
+The economic break is clearly between 12-hour and 1-day. Spend $25–40k to cover the realistic outage case, or nothing; rely on grid restoration for the rare multi-day winter event, with a small propane standby gen as a separate decision if that event matters enough.
 
 ## Battery cost per [pricing/components.md](book-section/pricing/components#battery--separate-line-item)
 
@@ -87,26 +89,26 @@ The economic break is clearly between 12-hour and 1-day. Spend $25–40k to cove
 
 Planning anchor: **$1,000/kWh installed** for a 30–40 kWh bank in 2026, before any ITC.
 
-## Recommendation
+## Recommendation — an optional line of its own
 
-**40 kWh usable** for the planning case.
+**The battery does not pay for itself.** At $0.063/kWh of spread, ~35 kWh shifted on a summer day and ~0.5 cycle/day through winter, self-consumption is worth **$600–$800/yr**. Against $40,000 installed on a bank warranted 4,000 cycles — 10 to 11 years at one cycle a day — lifetime arbitrage returns **$6,600 to $8,800**. The bank wears out long before it pays back, so roughly 80% of the price is buying outage resilience and a hedge against a future tariff change.
 
-- Daily shift covered (~35 kWh + headroom)
-- 12-hour critical-loads outage ride-through covered
-- Cleanly modular: 3× Powerwall 3 (40.5 kWh) or 8× IQ Battery 5P (40 kWh) or a SolArk-paired rack
-- $40,000 installed
-- Cycle life headroom: 4,000+ cycles → 11+ years at 1 cycle/day
+That is what [scope.md](book-section/solar-power/scope) means by the battery decision being decoupled from solar ROI, and why [pricing.md](book-section/solar-power/pricing) says skip it on the first install. Three buys, all defensible:
 
-Low-demand fallback: **27 kWh** (2× Powerwall 3). Sufficient if envelope retrofit is aggressive and gaming intensity is closer to moderate.
+| Buy | $ | What it gets |
+|---|---|---|
+| **Nothing** (first-install default) | $0 | The grid. Add a bank later without rework; battery $/kWh falls ~10%/yr |
+| **27 kWh** (2× Powerwall 3) | $27,000 | 4-hour critical-loads outage, most of the daily shift |
+| **40 kWh** (3× Powerwall 3, 8× IQ Battery 5P, or a SolArk-paired rack) | $40,000 | 12-hour critical-loads outage, daily shift covered with headroom |
 
-High-demand variant: keep **40 kWh** — the marginal kWh past 40 is buying outage hours we already decided not to buy. Adding battery beyond 40 kWh is the wrong axis; if more is wanted, spend on PV (to keep credit-banking ahead of consumption) and on envelope (to cut consumption).
+Going past 40 kWh is the wrong lever — the marginal kWh past 40 buys outage hours already ruled out above. If more is wanted, spend it on envelope, to shrink consumption, or on PV, to match annual load more closely.
 
 ## What gets traded away (explicitly)
 
 - **Multi-day winter ride-through** — not budgeted. A 2-day December outage at full heat is on the grid, not the battery. Critical-loads load-shedding stretches a 40 kWh bank to ~36 hours of frost-safe (low setback) operation, but no longer.
-- **EV charging during outage** — not budgeted. The two L2 chargers are load-shed first. (Mitigation: bidirectional-capable BEVs like Lightning / Cybertruck can flip into V2H — see [vehicles.md](book-section/energy-demand/vehicles#failure-modes--self-sufficiency-tradeoff).)
+- **EV charging during outage** — not budgeted. The two L2 chargers are load-shed first. (Mitigation: bidirectional-capable BEVs like Lightning / Cybertruck can flip into V2H — see [vehicles.md](book-section/energy-demand/vehicles#failure-modes--resilience-tradeoff).)
 - **Sustained inference workload during outage** — explicitly not protected. The PCs go to the load-shed bucket.
 
 ## Carry-forward
 
-Battery sizing closes at **40 kWh usable / $40,000 installed**. The inverter must be hybrid (capable of charging the battery from PV and discharging to AC loads) — see [topology.md](book-section/sizing/topology). Cost lands in [cost.md](book-section/sizing/cost).
+Battery sizing closes at **$0 in the PV case, with 27 or 40 kWh as an optional line priced on its own**. The inverter should still be hybrid — capable of charging a bank from PV and discharging it to AC loads — so the option stays open without rework; see [topology.md](book-section/sizing/topology). Cost lands in [cost.md](book-section/sizing/cost).

@@ -20,7 +20,7 @@
 
 The Q&A page frames it: Provo Power buys wholesale solar on the market at <$0.03 / kWh, so the $0.06742 export credit is described as already paying a "higher premium" than market — that framing is what they use to justify the no-rollover annual reset (see below).
 
-A residential TOU option exists (Schedule 1.2, on-peak $0.15 / off-peak $0.07; with EV variant adding super-off-peak $0.045), but it is a separate retail tariff, not a net-metering compensation change. The 1.1 export credit is a single flat number regardless of when exported.
+**There is no residential time-of-use option.** Schedule 1 is the three-tier inclining block above, and the published rate-schedule list carries no residential TOU tariff. The 1.1 export credit is likewise a single flat number regardless of when exported. So nothing in the tariff pays more for a kWh delivered at one hour than at another, and a battery earns only the export-versus-retail spread on each kWh it keeps at home.
 
 ## Credit accumulation and annual reset
 
