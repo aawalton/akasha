@@ -106,6 +106,7 @@ export const temper = {
     "domain/temper-eso",
     "domain/temper-addon",
     "domain/temper-capture",
+    "domain/temper-economy",
   ],
   decisions: [
     {

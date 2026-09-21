@@ -586,6 +586,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion-import/temper-completion-import.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion/temper-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/temper-economy.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment-kind/temper-equipment-kind.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment/temper-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/errors-triage/temper-errors-triage.domain.ts"}
