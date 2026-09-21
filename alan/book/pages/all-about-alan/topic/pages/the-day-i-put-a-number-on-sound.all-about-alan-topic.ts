@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theDayIPutANumberOnSound = {
+  id: "01a0c5f0-2338-7da4-a1b7-6bb7fb32af2c",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-day-i-put-a-number-on-sound",
+  title: "The Day I Put A Number On Sound",
+  definition: "the measurement behind the figure that sound was half my daily cost",
+  parents: ["all-about-alan-topic/what-my-senses-cost-me"],
+  related: [
+    "all-about-alan-topic/how-i-keep-sound-down",
+    "all-about-alan-topic/how-well-i-can-measure",
+  ],
+  settled:
+    "Sound lands about five times louder on me than on most people. That is my estimate.\n\nI put a number on what it cost at thirty-eight, when I first realised I was autistic. Early in adopting the AirPods, I compared my cost on days with them against my cost on comparable days before them, on the capacity tracking I already kept. Ambient sound with no ear protection came to about half my total daily nervous-system cost.\n\nThat figure no longer holds. The cost is still detectable now and then, and it is rare.",
+} as const satisfies AllAboutAlanTopic
