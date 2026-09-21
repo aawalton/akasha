@@ -12,6 +12,7 @@ export const construction = {
     "text-property/admits",
     "text-property/refuses",
     "construction/noun-group-alone",
+    "construction/noun-group-with-a-determiner",
   ],
   extends: ["page-type/domain"],
   properties: [
