@@ -12,7 +12,6 @@ import {
 } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.test-fixtures.ts"
 import {
   type Editing,
-  slugSortingFirst,
   type Tracked,
   trackEdits,
   trackKeyFor,
@@ -294,12 +293,6 @@ test("a track states the release carrying it and where on that release it sits",
       externalLink: "https://open.spotify.com/track/t7",
     },
   ])
-})
-
-test("the page a recording is filed under is the one whose slug sorts first", () => {
-  expect(slugSortingFirst(null, "b")).toBe("b")
-  expect(slugSortingFirst("b", "a")).toBe("a")
-  expect(slugSortingFirst("a", "b")).toBe("a")
 })
 
 test("a recording a second release carries lands on the page the first release filed", () => {

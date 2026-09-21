@@ -6,6 +6,7 @@ import {
   catalogueSlugFor,
   mintCatalogueSlug,
   slugifyName,
+  slugSortingFirst,
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 
 describe("slugifyName", () => {
@@ -163,5 +164,20 @@ describe("songSlugFor", () => {
     const names = catalogueNamesFrom([])
     const first = catalogueSlugFor(names, "queen", "One", "mbid-one")
     expect(catalogueSlugFor(names, "queen", "One", "mbid-one")).toBe(first)
+  })
+})
+
+describe("slugSortingFirst", () => {
+  test("is the slug sorting first of the two", () => {
+    expect(slugSortingFirst("queen-two", "queen-one")).toBe("queen-one")
+    expect(slugSortingFirst("queen-one", "queen-two")).toBe("queen-one")
+  })
+
+  test("is the one offered where nothing is held yet", () => {
+    expect(slugSortingFirst(null, "queen-two")).toBe("queen-two")
+  })
+
+  test("is that slug where both are the same", () => {
+    expect(slugSortingFirst("queen-one", "queen-one")).toBe("queen-one")
   })
 })

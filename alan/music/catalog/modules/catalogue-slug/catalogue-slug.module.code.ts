@@ -43,6 +43,10 @@ export function mintCatalogueSlug(
   )
 }
 
+export function slugSortingFirst(mine: string | null, theirs: string): string {
+  return mine !== null && mine < theirs ? mine : theirs
+}
+
 export function catalogueNamesFrom(
   rows: Iterable<{ readonly slug: string; readonly externalId?: string | null }>
 ): CatalogueNames {

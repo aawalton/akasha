@@ -70,6 +70,14 @@ export const catalogueSlug = {
       statement: "A name given out in a run is taken for the rest of that run.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "One name is chosen from two by taking the name sorting first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Names sort by the code point, so the same two names always choose the same one.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the page store.",
     },

@@ -8,6 +8,7 @@ import {
   type CatalogueNames,
   catalogueNamesFrom,
   catalogueSlugFor,
+  slugSortingFirst,
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
   type Filing,
@@ -65,10 +66,6 @@ export function trackKeyFor(track: AlbumTrack): string {
     .toSorted()
     .join(BETWEEN)
   return [title, artists, String(track.duration_ms)].join(APART)
-}
-
-export function slugSortingFirst(mine: string | null, theirs: string): string {
-  return mine !== null && mine < theirs ? mine : theirs
 }
 
 function carrierFor(releaseSlug: string, track: AlbumTrack): Value {
