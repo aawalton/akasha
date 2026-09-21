@@ -1,11 +1,11 @@
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
+import type { SetCategoryId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-category-ids/set-category-ids.module.code.ts"
 import { setCategories } from "akasha/temper/characters-equipment/modules/set-categories/set-categories.module.code.ts"
 import { setsAll } from "akasha/temper/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type {
   AccountCompletion,
   ItemSetPieceProgress,
 } from "akasha/temper/completion/modules/completion-progress/completion-progress.module.code.ts"
-import type { SetCategoryId } from "akasha/temper/equipment/modules/set-category-ids/set-category-ids.module.code.ts"
 
 const ESO_CATEGORY_NAME_MAP: Record<string, SetCategoryId> = {
   dungeons: "dungeon",

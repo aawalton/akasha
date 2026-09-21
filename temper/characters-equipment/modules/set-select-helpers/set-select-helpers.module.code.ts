@@ -1,10 +1,10 @@
+import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
 import { filterAndOrganizeSets } from "akasha/temper/characters-equipment/modules/set-categories/set-categories.module.code.ts"
 import type { FilterableSelectDialogConfig } from "akasha/temper/characters-equipment/modules/set-select-types/set-select-types.module.code.ts"
 import {
   createSetSource,
   type SetSource,
 } from "akasha/temper/characters-equipment/modules/set-source/set-source.module.code.ts"
-import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 
 export function getMaxBonusPieceCount(set: SetTemplate): number {
   if (set.bonuses.length === 0) {

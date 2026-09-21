@@ -10,6 +10,19 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import {
+  type ArmorTraitId,
+  armorTraits,
+  armorTraitsBuildList,
+} from "akasha/temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
+import {
+  type WeaponTraitId,
+  weaponTraits,
+  weaponTraitsBuildList,
+} from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
+import type { WeaponTypeId } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
+import {
   type ArmorEnchantId,
   armorEnchants,
 } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
@@ -31,19 +44,6 @@ import {
   weaponEnchantments,
 } from "akasha/temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import {
-  type ArmorTraitId,
-  armorTraits,
-  armorTraitsBuildList,
-} from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
-import {
-  type WeaponTraitId,
-  weaponTraits,
-  weaponTraitsBuildList,
-} from "akasha/temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
-import type { WeaponTypeId } from "akasha/temper/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { WeaponBar } from "akasha/temper/equipment-kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import {

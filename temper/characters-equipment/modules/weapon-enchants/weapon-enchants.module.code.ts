@@ -1,8 +1,8 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import { getInfusedWeaponBonus } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponItem } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import { getInfusedWeaponBonus } from "akasha/temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import {
   type EquipmentQualityId,
   minQuality,

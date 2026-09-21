@@ -1,9 +1,9 @@
+{"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/character-build/modules/build-types/build-types.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/character-skill/modules/grimoire-template/grimoire-template.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/character-skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"}
-{"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/equipment/modules/set-template/set-template.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/modules/character-class/character-class.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"}
 {"propertySlug":"import","fileName":"class-id.module.code.ts","path":"temper/skill-morph-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"}

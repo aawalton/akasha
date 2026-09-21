@@ -3,6 +3,10 @@ import {
   createDataFile,
   type DataFile,
 } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type {
+  ArmorWeightId,
+  StandardArmorWeightId,
+} from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
   calculateNirnhonedValue,
   calculateReinforcedValue,
@@ -12,10 +16,6 @@ import type {
   ItemLevel,
 } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { getArmorBaseValueForLevel } from "akasha/temper/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
-import type {
-  ArmorWeightId,
-  StandardArmorWeightId,
-} from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
   type ArmorTypeId,
   getArmorMultiplier,

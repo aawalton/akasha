@@ -1,3 +1,8 @@
+import {
+  PLAYER_ARMOR_TRAIT_TO_ESO,
+  PLAYER_JEWELRY_TRAIT_TO_ESO,
+  PLAYER_WEAPON_TRAIT_TO_ESO,
+} from "akasha/temper/catalog/temper-gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
@@ -10,11 +15,6 @@ import { companionJewelrySlots } from "akasha/temper/companions-core/modules/com
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import {
-  PLAYER_ARMOR_TRAIT_TO_ESO,
-  PLAYER_JEWELRY_TRAIT_TO_ESO,
-  PLAYER_WEAPON_TRAIT_TO_ESO,
-} from "akasha/temper/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import { armorSlots } from "akasha/temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"
 import { resolveQuality } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.code.ts"

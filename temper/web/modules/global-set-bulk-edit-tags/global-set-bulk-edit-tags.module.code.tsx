@@ -1,6 +1,8 @@
 "use client"
 
 import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   bulkUpdateAllQuality,
@@ -18,8 +20,6 @@ import {
   shouldHideWeaponSlot,
 } from "akasha/temper/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 import { armorSlots } from "akasha/temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.code.ts"

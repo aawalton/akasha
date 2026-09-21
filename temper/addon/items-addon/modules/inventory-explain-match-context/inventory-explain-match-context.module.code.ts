@@ -11,7 +11,7 @@ import {
   PLAYER_ARMOR_ESO_TO_TRAIT,
   PLAYER_JEWELRY_ESO_TO_TRAIT,
   PLAYER_WEAPON_ESO_TO_TRAIT,
-} from "akasha/temper/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
+} from "akasha/temper/catalog/temper-gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 
 export function buildMatchContext(
   itemLink: string,

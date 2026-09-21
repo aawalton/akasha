@@ -1,3 +1,5 @@
+import type { SetId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
 import type {
   Loadout,
   WeaponSlot,
@@ -7,8 +9,6 @@ import {
   isShieldSlot,
   isWeaponSlot,
 } from "akasha/temper/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
-import type { SetId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
-import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 import { weaponBars } from "akasha/temper/equipment-kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import { weaponSlots } from "akasha/temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import { valuesOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"

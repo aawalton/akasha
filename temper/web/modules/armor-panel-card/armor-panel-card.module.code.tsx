@@ -3,6 +3,13 @@
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
+  type ArmorTraitId,
+  armorTraitsBuildList,
+  armorTraits as armorTraitsData,
+} from "akasha/temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import {
   type ArmorEnchantId,
   armorEnchants,
 } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
@@ -16,13 +23,6 @@ import {
 } from "akasha/temper/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"
 import { mergeItemData } from "akasha/temper/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
 import { getMythicSlots } from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
-import {
-  type ArmorTraitId,
-  armorTraitsBuildList,
-  armorTraits as armorTraitsData,
-} from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
-import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import {
   type ArmorSlotId,
   armorSlots,

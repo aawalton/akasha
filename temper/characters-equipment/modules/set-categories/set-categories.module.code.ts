@@ -3,8 +3,8 @@ import {
   type DataFile,
 } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
-import type { SetCategoryId } from "akasha/temper/equipment/modules/set-category-ids/set-category-ids.module.code.ts"
-import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
+import type { SetCategoryId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-category-ids/set-category-ids.module.code.ts"
+import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
 
 const TEMPER_SET_CATEGORIES_BY_ID = {
   "none": { id: "none" as const, name: "No Set Category", displayOrder: 0 },

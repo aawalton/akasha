@@ -8,6 +8,14 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import {
+  type ArmorTraitId,
+  armorTraits,
+  armorTraitsBuildList,
+} from "akasha/temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   type ArmorEnchantId,
@@ -22,14 +30,6 @@ import {
   getValidSetsForArmorSlot,
   getValidWeightsForSet,
 } from "akasha/temper/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
-import {
-  type ArmorTraitId,
-  armorTraits,
-  armorTraitsBuildList,
-} from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
-import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 import {
   type ArmorSlotId,
   armorSlots,

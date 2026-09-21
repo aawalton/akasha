@@ -1,12 +1,12 @@
+import type { StandardArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { EquipmentPattern } from "akasha/temper/catalog/temper-gear/equipment/modules/set-patterns/set-patterns.module.code.ts"
+import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
 import {
   type EquipmentType,
   isJewelryType,
   isStandardArmorType,
   isWeaponType,
 } from "akasha/temper/characters-equipment/modules/set-equipment-types/set-equipment-types.module.code.ts"
-import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { EquipmentPattern } from "akasha/temper/equipment/modules/set-patterns/set-patterns.module.code.ts"
-import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 
 export function getEquipmentIcon(
   set: SetTemplate | null,

@@ -1,4 +1,8 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-build/modules/race-source/race-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-skill/modules/character-skill-template/character-skill-template.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-skill/modules/scribed-skill-source/scribed-skill-source.module.code.ts"}
@@ -26,10 +30,6 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/characters-equipment/modules/weapon-source/weapon-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/characters-equipment/modules/weapon-trait-effects/weapon-trait-effects.module.code.ts"}
-{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/equipment/modules/armor-traits/armor-traits.module.code.ts"}
-{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"}
-{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/equipment/modules/set-template/set-template.module.code.ts"}
-{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/formula-framework/modules/effect-source/effect-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/formula-framework/modules/effect-value-update/effect-value-update.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/formula-framework/modules/skill-source/skill-source.module.code.ts"}

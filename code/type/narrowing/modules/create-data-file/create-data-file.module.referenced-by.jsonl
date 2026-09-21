@@ -17,6 +17,9 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/status-effect-types/status-effect-types.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts"}
@@ -62,9 +65,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/jewelry-types/jewelry-types.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/weapon-bars/weapon-bars.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment/modules/armor-traits/armor-traits.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/formula-framework/modules/buffs-major/buffs-major.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/formula-framework/modules/buffs-minor/buffs-minor.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/formula-framework/modules/buffs-other/buffs-other.module.code.ts"}

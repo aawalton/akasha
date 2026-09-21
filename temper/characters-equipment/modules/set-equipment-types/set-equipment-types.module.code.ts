@@ -1,5 +1,5 @@
+import type { WeaponTypeId } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import type { WeaponTypeId } from "akasha/temper/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import {
   type ArmorTypeId,
   armorTypes,

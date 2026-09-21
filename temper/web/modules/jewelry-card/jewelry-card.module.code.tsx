@@ -9,6 +9,13 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import {
+  type JewelryTraitId,
+  jewelryTraits,
+  jewelryTraitsBuildList,
+} from "akasha/temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   convertIconPathToUrl,
@@ -20,13 +27,6 @@ import {
   jewelryEnchants,
 } from "akasha/temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
 import { getValidSetsForSlot } from "akasha/temper/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
-import {
-  type JewelryTraitId,
-  jewelryTraits,
-  jewelryTraitsBuildList,
-} from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type JewelrySlotId,

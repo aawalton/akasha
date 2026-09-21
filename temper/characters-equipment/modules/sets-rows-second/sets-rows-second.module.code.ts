@@ -1,3 +1,4 @@
+import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
 import { SETS_DATA_062 } from "akasha/temper/characters-equipment/modules/sets-data-062/sets-data-062.module.code.ts"
 import { SETS_DATA_063 } from "akasha/temper/characters-equipment/modules/sets-data-063/sets-data-063.module.code.ts"
 import { SETS_DATA_064 } from "akasha/temper/characters-equipment/modules/sets-data-064/sets-data-064.module.code.ts"
@@ -60,7 +61,6 @@ import { SETS_DATA_120 } from "akasha/temper/characters-equipment/modules/sets-d
 import { SETS_DATA_121 } from "akasha/temper/characters-equipment/modules/sets-data-121/sets-data-121.module.code.ts"
 import { SETS_DATA_122 } from "akasha/temper/characters-equipment/modules/sets-data-122/sets-data-122.module.code.ts"
 import { SETS_DATA_123 } from "akasha/temper/characters-equipment/modules/sets-data-123/sets-data-123.module.code.ts"
-import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 
 export const SETS_ROWS_SECOND: readonly SetTemplate[] = [
   ...SETS_DATA_062,

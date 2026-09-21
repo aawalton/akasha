@@ -1,4 +1,4 @@
-import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
+import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
 
 export const SETS_DATA_025: readonly SetTemplate[] = [
   {

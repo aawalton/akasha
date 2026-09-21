@@ -1,12 +1,12 @@
+import type { ArmorTraitId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { JewelryTraitId } from "akasha/temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
+import type { SetId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
+import type { WeaponTraitId } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
+import type { WeaponTypeId } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type { ArmorEnchantId } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import type { JewelryEnchantId } from "akasha/temper/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
 import type { WeaponEnchantmentId } from "akasha/temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
-import type { ArmorTraitId } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
-import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { JewelryTraitId } from "akasha/temper/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
-import type { SetId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
-import type { WeaponTraitId } from "akasha/temper/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
-import type { WeaponTypeId } from "akasha/temper/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type { StandardArmorType } from "akasha/temper/equipment-kind/modules/armor-types/armor-types.module.code.ts"
 import type {
   EquipmentQualityId,

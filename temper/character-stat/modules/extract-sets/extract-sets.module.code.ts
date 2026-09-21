@@ -1,3 +1,4 @@
+import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { PipelineStage } from "akasha/temper/character-stat/modules/pipeline-types/pipeline-types.module.code.ts"
 import type {
   ArmorSlotItem,
@@ -8,7 +9,6 @@ import {
   createSetSource,
   type SetSource,
 } from "akasha/temper/characters-equipment/modules/set-source/set-source.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/equipment/modules/set-ids/set-ids.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,

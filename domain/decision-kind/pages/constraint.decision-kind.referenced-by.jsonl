@@ -835,6 +835,10 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.ts","id":"01a0610f-45b9-7cd1-b86c-956394916d9b"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.ts","id":"01a0610f-45bb-7e6d-9e65-09ec21c0cff3"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.ts","id":"01a060d5-2f12-7886-bf98-e23a2afc639d"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.ts","id":"01a0610f-45bb-7d20-aedf-7d954ebf2ec5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-achievement-ids/dungeon-champion-achievement-ids.module.ts","id":"01a060f9-babd-7a01-b363-d7e4b686ba3b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-defaults/dungeon-champion-defaults.module.ts","id":"01a060f9-babf-7752-94d6-6bcff526e895"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-names/dungeon-champion-names.module.ts","id":"01a060f9-baca-7e73-b37a-1f69b51ac984"}
@@ -843,6 +847,9 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.module.ts","id":"01a060f9-bad1-7202-bef3-dc48b30536e9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-start/dungeon-champion-start.module.ts","id":"01a060f9-badc-70b2-a9a4-5672a001af3e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/dungeon-champion/temper-dungeon-champion.domain.ts","id":"01a060f9-bab9-7763-8ceb-8977b0b205de"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-world/group-dungeon/modules/eso-reset/eso-reset.module.ts","id":"01a0603b-d66a-7bf8-9657-cb2176247f1b"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.ts","id":"01a06031-70e5-7122-83f1-7221c174553d"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-world/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/skyshard/modules/skyshards-data-1/skyshards-data-1.module.ts","id":"01a061a8-9c64-77cf-97d8-cfdbc73036ab"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/skyshard/modules/skyshards-data-2/skyshards-data-2.module.ts","id":"01a061a8-9c64-7729-aae4-bba854813fa0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-world/skyshard/modules/skyshards-data-3/skyshards-data-3.module.ts","id":"01a061a8-9c64-7084-a3ab-9f45e86c6e59"}
@@ -1196,10 +1203,6 @@
 {"propertySlug":"decision-kind","path":"temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.ts","id":"01a060b8-08c6-7141-8b6e-044cf34927d5"}
 {"propertySlug":"decision-kind","path":"temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.ts","id":"01a060b8-08c5-7b3b-a995-798d59d45760"}
 {"propertySlug":"decision-kind","path":"temper/equipment-kind/modules/weapon-bars/weapon-bars.module.ts","id":"01a060b8-08c6-7381-8ac1-7788bdbe2c6c"}
-{"propertySlug":"decision-kind","path":"temper/equipment/modules/armor-traits/armor-traits.module.ts","id":"01a0610f-45b9-7cd1-b86c-956394916d9b"}
-{"propertySlug":"decision-kind","path":"temper/equipment/modules/jewelry-traits/jewelry-traits.module.ts","id":"01a0610f-45bb-7e6d-9e65-09ec21c0cff3"}
-{"propertySlug":"decision-kind","path":"temper/equipment/modules/set-ids/set-ids.module.ts","id":"01a060d5-2f12-7886-bf98-e23a2afc639d"}
-{"propertySlug":"decision-kind","path":"temper/equipment/modules/weapon-traits/weapon-traits.module.ts","id":"01a0610f-45bb-7d20-aedf-7d954ebf2ec5"}
 {"propertySlug":"decision-kind","path":"temper/eso-type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
 {"propertySlug":"decision-kind","path":"temper/eso-type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
@@ -1210,9 +1213,6 @@
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
 {"propertySlug":"decision-kind","path":"temper/formula-framework/modules/eso-date/eso-date.module.ts","id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
 {"propertySlug":"decision-kind","path":"temper/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}
-{"propertySlug":"decision-kind","path":"temper/group-dungeon/modules/eso-reset/eso-reset.module.ts","id":"01a0603b-d66a-7bf8-9657-cb2176247f1b"}
-{"propertySlug":"decision-kind","path":"temper/group-dungeon/modules/pledge-rotation/pledge-rotation.module.ts","id":"01a06031-70e5-7122-83f1-7221c174553d"}
-{"propertySlug":"decision-kind","path":"temper/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
 {"propertySlug":"decision-kind","path":"temper/item-set/temper-item-set.domain.ts","id":"01a090e4-78c9-7073-9166-03b462dd7c7e"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/temper-items-filters-addon.domain.ts","id":"01a0614b-6734-767e-be82-2cfd13e1d6a8"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-core/modules/search-eval-adapter/search-eval-adapter.module.ts","id":"01a0613a-e0a7-755c-8441-e2bc847bee09"}

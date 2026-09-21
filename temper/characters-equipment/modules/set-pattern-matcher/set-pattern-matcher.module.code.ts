@@ -1,13 +1,13 @@
+import type { StandardArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { EquipmentPattern } from "akasha/temper/catalog/temper-gear/equipment/modules/set-patterns/set-patterns.module.code.ts"
+import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.code.ts"
+import type { WeaponTypeId } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import {
   type EquipmentType,
   isJewelryType,
   isStandardArmorType,
   isWeaponType,
 } from "akasha/temper/characters-equipment/modules/set-equipment-types/set-equipment-types.module.code.ts"
-import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { EquipmentPattern } from "akasha/temper/equipment/modules/set-patterns/set-patterns.module.code.ts"
-import type { SetTemplate } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
-import type { WeaponTypeId } from "akasha/temper/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type { ArmorSlotId } from "akasha/temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"
 import type { JewelrySlotId } from "akasha/temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import type { WeaponSlot } from "akasha/temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"
