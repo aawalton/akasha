@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs"
 import { rgPath } from "@vscode/ripgrep"
 import { type Answer, leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -108,6 +109,22 @@ export function pathsListed(root: string, threads: number | null = null): readon
     (said) => ranWith(root, [...held, ...said], EVERY_KIND, null),
     NAMED_UNCOMMITTED
   ).toSorted()
+}
+
+const DEEP = "--max-depth"
+
+const ONE_DEEP = "1"
+
+export function pathsIn(root: string, folder: string): readonly string[] {
+  const at = folder === "" ? root : `${root}${APART_BY}${folder}`
+  if (!existsSync(at)) return []
+  const held = [...LISTED, DEEP, ONE_DEEP]
+  const found = bothWays(
+    (said) => ranWith(at, [...held, ...said], EVERY_KIND, null),
+    NAMED_UNCOMMITTED
+  )
+  const under = folder === "" ? found : found.map((one) => `${folder}${APART_BY}${one}`)
+  return under.toSorted()
 }
 
 const TYPED = "--type-add"

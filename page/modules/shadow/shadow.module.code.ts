@@ -1,6 +1,9 @@
 import { readFileSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { pathsListed } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
+import {
+  pathsIn,
+  pathsListed,
+} from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code/body/modules/carried-file/carried-file.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
@@ -77,29 +80,35 @@ function laidOver(root: string, change: Change | null): readonly string[] {
   return merged(held, [...put].sort())
 }
 
-function foldedInto(paths: readonly string[]): ReadonlyMap<string, readonly string[]> {
-  const found = new Map<string, string[]>()
-  for (const one of paths) {
-    const at = dirname(one)
-    const folder = at === HERE ? EVERYWHERE : at
-    const held = found.get(folder)
-    if (held === undefined) found.set(folder, [one])
-    else held.push(one)
+function folderOf(path: string): string {
+  const at = dirname(path)
+  return at === HERE ? EVERYWHERE : at
+}
+
+function laidInto(root: string, change: Change | null, folder: string): readonly string[] {
+  const held = new Set<string>(pathsIn(root, folder))
+  for (const path of change?.changed ?? []) {
+    if (folderOf(path) !== folder) continue
+    if (change?.after(path) === null) held.delete(path)
+    else held.add(path)
   }
-  return found
+  return [...held].sort()
 }
 
 function listingIn(root: string, change: Change | null): (folder?: string) => readonly string[] {
   let every: readonly string[] | null = null
-  let under: ReadonlyMap<string, readonly string[]> | null = null
+  const under = new Map<string, readonly string[]>()
   const all = (): readonly string[] => {
     if (every === null) every = laidOver(root, change)
     return every
   }
   return (folder) => {
     if (folder === undefined) return all()
-    if (under === null) under = foldedInto(all())
-    return under.get(folder) ?? []
+    const found = under.get(folder)
+    if (found !== undefined) return found
+    const made = laidInto(root, change, folder)
+    under.set(folder, made)
+    return made
   }
 }
 
