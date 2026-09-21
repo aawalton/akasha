@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"addon-menu-casts.module.code.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-custom/addon-menu-widget-custom.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-casts.module.code.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-description/addon-menu-widget-description.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-casts.module.code.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-divider/addon-menu-widget-divider.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-menu-casts.module.code.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-choices/addon-menu-widget-dropdown-choices.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-casts.module.code.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-tooltips/addon-menu-widget-dropdown-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-casts.module.code.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown/addon-menu-widget-dropdown.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-menu-casts.module.code.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-editbox/addon-menu-widget-editbox.module.code.ts"}

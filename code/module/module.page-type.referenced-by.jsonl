@@ -3909,6 +3909,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-custom/addon-menu-widget-custom.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-description/addon-menu-widget-description.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-divider/addon-menu-widget-divider.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-choices/addon-menu-widget-dropdown-choices.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-scroll/addon-menu-widget-dropdown-scroll.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown-tooltips/addon-menu-widget-dropdown-tooltips.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown/addon-menu-widget-dropdown.module.ts"}
