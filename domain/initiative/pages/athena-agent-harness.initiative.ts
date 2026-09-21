@@ -6,5 +6,5 @@ export const athenaAgentHarness = {
   slug: "athena-agent-harness",
   domain: "page-type/agent",
   persona: "persona/athena",
-  intentStack: [],
+  intentStack: [{ statement: "A seat sitting idle above 350,000 tokens compacts itself." }],
 } as const satisfies Initiative
