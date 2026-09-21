@@ -31,11 +31,6 @@ export const musicNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A grade is read under the `rank` key rather than under the `--grade` flag's name.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The key a grade is read under is a key the page type declares or inherits.",
     },
     {
