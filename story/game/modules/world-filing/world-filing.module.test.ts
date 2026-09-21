@@ -50,8 +50,12 @@ const ROW = {
   encounters: [
     {
       id: "ashling-01",
-      enemy: { kind: "enemy", name: "Ashling", baseDamage: 9 },
-      readableTrait: "a bright core at the chest",
+      enemy: {
+        kind: "enemy",
+        name: "Ashling",
+        baseDamage: 9,
+        readableTrait: "a bright core at the chest",
+      },
       trigger: "first movement past the iron gate",
       reward: { xp: 60, drop: "a warm cinder" },
     },
@@ -109,6 +113,7 @@ test("an encounter names the place it is set in and the one it sets in the way",
   expect(met?.body).toContain('location: "game-location/the-tower-floor-01"')
   expect(met?.body).toContain('"game-entity/the-tower-ashling-01"')
   expect(met?.body).toContain("experience: 60")
+  expect(met?.body).toContain("a bright core at the chest")
   expect(met?.body).toContain('drop: "a warm cinder"')
 })
 

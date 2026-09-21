@@ -129,7 +129,7 @@ export function metFiled(where: Where, at: string, one: Record<string, unknown>)
       game: where.game,
       location: namedAs(gameLocation.slug, at, null),
       entities: [namedAs(gameEntity.slug, slugFor(where.slug, named), null)],
-      readableTrait: saidIn(one["readableTrait"]),
+      readableTrait: saidIn(one["readableTrait"]) ?? saidIn(enemy["readableTrait"]),
       trigger: saidIn(one["trigger"]),
       experience: countIn(reward["xp"]),
       drop: saidIn(reward["drop"]),
