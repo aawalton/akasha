@@ -69,6 +69,7 @@ export const day = {
     "page-property-entry/completed-tasks",
     "page-property-entry/health-samples",
     "page-property-entry/listens",
+    "page-property-entry/location-traces",
     "page-property-entry/sessions",
     "record-property/persona-messages",
     "relation-property/messaged-persona",
@@ -78,7 +79,6 @@ export const day = {
     "text-property/safety-level",
     "text-property/to-do-slug",
     "text-property/version",
-    "page-property-entry/location-traces",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
