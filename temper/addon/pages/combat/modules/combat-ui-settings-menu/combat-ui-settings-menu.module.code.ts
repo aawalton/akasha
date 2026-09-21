@@ -27,6 +27,7 @@ import { updateReport } from "akasha/temper/addon/pages/combat/modules/combat-ui
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-public-api/combat-public-api.module.code.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-menus/combat-string-ids-menus.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
