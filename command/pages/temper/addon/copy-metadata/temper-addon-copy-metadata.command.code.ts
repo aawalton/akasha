@@ -16,7 +16,7 @@ import {
   listAllAddons,
   resolveAddon,
 } from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
-import { copyAddonMetadata } from "akasha/temper/addon-build/modules/addon-metadata-copy/addon-metadata-copy.module.code.ts"
+import { copyAddonMetadata } from "akasha/temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.code.ts"
 
 const NAMED = [codeRootArgument, addon]
 

@@ -101,8 +101,8 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"page/modules/secret/page-secret.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon-build/modules/addon-compiling/addon-compiling.module.code.ts"}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts"}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/upstream-data/modules/libsets-upstream-fetch/libsets-upstream-fetch.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/watcher/modules/watcher-unit/watcher-unit.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.code.ts"}

@@ -16,7 +16,7 @@ import {
   listAllAddons,
   resolveAddon,
 } from "akasha/temper/addon/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
-import { writeLoadOrder } from "akasha/temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"
+import { writeLoadOrder } from "akasha/temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts"
 
 const NAMED = [codeRootArgument, addon]
 
