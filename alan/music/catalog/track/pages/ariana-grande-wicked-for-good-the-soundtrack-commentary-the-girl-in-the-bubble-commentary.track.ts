@@ -4,6 +4,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubbleC
   id: "01a0a6c5-0b75-7e85-92fe-260747c48587",
   type: "page-type/track",
   slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-the-girl-in-the-bubble-commentary",
+  grade: "C",
   ownLength: 1.1413833333333334,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
