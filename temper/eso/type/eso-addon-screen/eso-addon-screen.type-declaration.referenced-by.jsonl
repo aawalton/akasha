@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-dropdown/addon-menu-widget-dropdown.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-hooks/custom-menu-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-screen.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-public-api/custom-menu-public-api.module.code.ts"}
