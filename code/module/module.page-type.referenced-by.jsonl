@@ -6604,6 +6604,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-type-panel-card/inventory-type-panel-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/item-rule-card-action-handlers/item-rule-card-action-handlers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/item-rule-card-dialogs/item-rule-card-dialogs.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/item-rule-card-header/item-rule-card-header.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/item-rule-card/item-rule-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/item-tooltip-popover/item-tooltip-popover.module.ts"}
