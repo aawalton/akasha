@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { bodyOf, importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
@@ -31,6 +32,17 @@ export function typesAt(root: string, pageTypeSlug: string): string | null {
   return besideAt(listed.path, TYPES, TS)
 }
 
+export function prunedOf(held: unknown): unknown {
+  if (Array.isArray(held)) return held.map(prunedOf)
+  if (!isRecord(held)) return held
+  const found: Record<string, unknown> = {}
+  for (const [key, one] of Object.entries(held)) {
+    if (one === undefined) continue
+    found[key] = prunedOf(one)
+  }
+  return found
+}
+
 export function filedAt(filing: Filing): Composed {
   const types = typesAt(filing.root, filing.pageTypeSlug)
   if (types === null) {
@@ -42,7 +54,7 @@ export function filedAt(filing: Filing): Composed {
     importFrom: importedFrom(types),
     keys: [TYPE, SLUG, ...filing.keys],
     values: {
-      ...filing.values,
+      ...(prunedOf(filing.values) as Record<string, unknown>),
       [TYPE]: namedAs(pageType.slug, filing.pageTypeSlug, null),
       [SLUG]: filing.slug,
     },

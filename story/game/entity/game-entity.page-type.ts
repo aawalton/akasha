@@ -98,5 +98,6 @@ export const gameEntity = {
     "number-property/typical-intent",
     "number-property/unspent-attribute-points",
     "module/sheet-reading",
+    "module/entity-filing",
   ],
 } as const satisfies PageType

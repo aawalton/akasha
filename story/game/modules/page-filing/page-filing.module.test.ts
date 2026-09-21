@@ -3,6 +3,7 @@ import { gameAttribute } from "akasha/story/game/attribute/game-attribute.page-t
 import {
   type Filing,
   filedAt,
+  prunedOf,
   typesAt,
 } from "akasha/story/game/modules/page-filing/page-filing.module.code.ts"
 
@@ -49,6 +50,23 @@ test("a key with nothing under it is left off the body", () => {
   const composed = filedAt({ ...FILING, values: { title: "Grit", most: 18 } })
   if ("refused" in composed) throw new Error(composed.refused)
   expect(composed.answered.body).not.toContain("least")
+})
+
+test("a field with nothing under it is left out of a record too", () => {
+  expect(prunedOf({ a: 1, b: undefined, c: [{ d: undefined, e: 2 }] })).toEqual({
+    a: 1,
+    c: [{ e: 2 }],
+  })
+})
+
+test("a record inside a list is written with no empty field", () => {
+  const composed = filedAt({
+    ...FILING,
+    keys: ["title", "bands"],
+    values: { title: "Grit", bands: [{ name: "low", note: undefined }] },
+  })
+  if ("refused" in composed) throw new Error(composed.refused)
+  expect(composed.answered.body).not.toContain("undefined")
 })
 
 test("a page type that is nowhere refuses", () => {

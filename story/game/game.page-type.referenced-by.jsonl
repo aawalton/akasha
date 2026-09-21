@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"game.page-type.ts","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"game.page-type.ts","path":"command/pages/game/settle/game-settle.command.test.ts"}
+{"propertySlug":"import","fileName":"game.page-type.ts","path":"story/game/entity/modules/entity-filing/entity-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"game.page-type.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.test.ts"}
 {"propertySlug":"import","fileName":"game.page-type.ts","path":"story/game/modules/row-reading/row-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"game.page-type.types.ts","path":"story/game/pages/date-night-free-play/date-night-free-play.game.ts"}
