@@ -6,6 +6,7 @@ import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
+  webBuildInitContainer,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   orchestratorCacheEntrypointPath,
@@ -22,6 +23,7 @@ import { archiveOfWorldsWeb } from "akasha/infrastructure/service/cluster/pages/
 const NAMESPACE = archiveOfWorldsWeb.namespace
 const APP_NAME = archiveOfWorldsWeb.resourceName
 const SECRET_NAME = "archive-of-worlds-secrets"
+const PACKAGE_PATH = "product/archive-of-worlds/web"
 
 const RESOURCE_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -64,13 +66,14 @@ function webDeploymentYaml(): string {
               location: ARCHIVE_OF_WORLDS_WEB_CACHE,
               memory: { request: "256Mi", limit: "2Gi" },
             }),
+            webBuildInitContainer({ packagePath: PACKAGE_PATH, secretName: SECRET_NAME }),
           ],
           containers: [
             {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("product/archive-of-worlds/web"),
+              workingDir: orchestratorCacheEntrypointPath(PACKAGE_PATH),
               command: ["bun", "run", "server.ts"],
               ports: [{ containerPort: archiveOfWorldsWeb.containerPort, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
