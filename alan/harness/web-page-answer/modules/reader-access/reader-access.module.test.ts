@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   narrowedWrite,
   personOf,
-} from "akasha/alan/harness/web-page-answer/.server/reader-access/reader-access.module.code.ts"
+} from "akasha/alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"
 import { ANONYMOUS_PERSON } from "akasha/person/modules/page-type-access/page-type-access.module.code.ts"
 
 test("a reader no session names is the reader nobody signed in as", async () => {

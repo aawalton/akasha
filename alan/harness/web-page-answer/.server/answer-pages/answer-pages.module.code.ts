@@ -1,4 +1,4 @@
-import { mayRead } from "akasha/alan/harness/web-page-answer/.server/reader-access/reader-access.module.code.ts"
+import { mayRead } from "akasha/alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"
 import {
   answerPages as answerFrom,
   pagesDeps,

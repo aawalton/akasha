@@ -743,10 +743,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-page-types/answer-page-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/reader-access/reader-access.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/modules/page-detail-loader/page-detail-loader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/modules/page-listing-loader/page-listing-loader.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/serve-static/serve-static.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/chapter-choosing/chapter-choosing.module.ts"}

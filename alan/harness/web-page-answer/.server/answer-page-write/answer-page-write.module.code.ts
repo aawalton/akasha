@@ -1,4 +1,4 @@
-import { mayWrite } from "akasha/alan/harness/web-page-answer/.server/reader-access/reader-access.module.code.ts"
+import { mayWrite } from "akasha/alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"
 import type { ReadUser } from "akasha/page/access/modules/answer/answer.module.code.ts"
 import {
   readPageWrite,
