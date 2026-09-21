@@ -425,6 +425,7 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-classdata/lib-sets-const-all-classdata.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-dlc/lib-sets-const-all-dlc.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-base/lib-sets-const-base.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-settype-names/lib-sets-const-settype-names.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-drop-mechanics/lib-sets-core-api-drop-mechanics.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-nav/lib-sets-core-api-nav.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-api-set-info/lib-sets-core-api-set-info.module.code.ts"}
