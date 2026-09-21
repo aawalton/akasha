@@ -92,7 +92,15 @@ export const treeReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "What git carries is asked once for a repository and a commit, and held for the rest of the run.",
+        "What git carries in one folder is read from that folder's own tree in the commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tree is read once under a commit and held, so no folder is asked for twice.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No folder read here costs a listing of the rest of the repository.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -104,12 +112,11 @@ export const treeReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "What git carries now is asked before which commit that is, so a landing between them is left out.",
+      statement: "A caller naming no commit is answered what the commit the tree is at carries.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A caller naming no commit is answered what git carries now.",
+      statement: "Which commit that is is asked once for a repository and held for the run.",
     },
     {
       decisionKind: "decision-kind/departure",
