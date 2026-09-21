@@ -1,9 +1,0 @@
-{"addonKind":"library"}
-{"addonName":"libAddonKeybinds"}
-{"adjacents":["held-addon/temper-keybinder"]}
-{"heldBy":13231}
-{"id":"01a081a2-a9d8-7192-a5f9-fc6facd57f99"}
-{"slug":"lib-addon-keybinds"}
-{"temperAddon":"temper-addon/temper-lib-addon-keybinds"}
-{"tiClean":true}
-{"type":"page-type/held-addon"}

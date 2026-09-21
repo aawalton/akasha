@@ -1,8 +1,0 @@
-{"addonKind":"ported"}
-{"addonName":"TemperCombat"}
-{"adjacents":["held-addon/lib-addon-menu","held-addon/lib-custom-menu","held-addon/lib-data-encode","held-addon/lib-debug-logger"]}
-{"heldBy":14328}
-{"id":"01a081a1-8847-7950-947f-a7fcd9270819"}
-{"slug":"temper-combat"}
-{"temperAddon":"temper-addon/temper-addon-combat"}
-{"type":"page-type/held-addon"}
