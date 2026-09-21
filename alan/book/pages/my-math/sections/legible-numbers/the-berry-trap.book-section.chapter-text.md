@@ -25,7 +25,7 @@ So the contradiction was real, but it was in the wrong place. Something in the d
 
 The phrase that set the paradox running carries the flaw on its face: *because I just gave it a name.*
 
-I had already refused exactly that move. In my second message I would not let "fluff" stand for some transcendental with no way to say which one — [naming is not representing](../001-legible-numbers.book-chapter.md#what-counts-as-a-representation), and I wrote that condition down two moves before I needed it. Then I did not turn it on my own description.
+I had already refused exactly that move. In my second message I would not let "fluff" stand for some transcendental with no way to say which one — [naming is not representing](book-section/my-math/legible-numbers#what-counts-as-a-representation), and I wrote that condition down two moves before I needed it. Then I did not turn it on my own description.
 
 ## The line I tried, and watched fail
 
@@ -73,7 +73,7 @@ That question is answered in [no-self-decoder.md](book-section/my-math/no-self-d
 
 ## Cross-references
 
-- [../001-legible-numbers.md](../001-legible-numbers.book-chapter.md) — the correspondence condition that kills the phrase, written before it was needed.
+- [../001-legible-numbers.md](book-section/my-math/legible-numbers) — the correspondence condition that kills the phrase, written before it was needed.
 - [finiteness.md](book-section/my-math/finiteness) — the largest member the paradox runs on, and why the resolution leaves it standing.
 - [no-self-decoder.md](book-section/my-math/no-self-decoder) — the answer to the question this page ends on, and the theorem the paradox becomes.
 - [provable-legibility.md](book-section/my-math/provable-legibility) — the same construction run over provability rather than truth, which is where it stops making a mess and starts biting.

@@ -1,7 +1,7 @@
 > Non-EU citizenship paths for a US-citizen adult applicant (married, three kids; family relocates together as accompanying dependents) with no foreign ancestry, no second non-US citizenship, after stripping closed, ancestry, renunciation, marriage-to-citizen, family-reunification-to-existing-citizen/PR, distinguished-service, functionally-inapplicable, high-capital (>€500k or CHF 400k/yr+), program-level-discretionary (invitation-gated points systems), narrow-discretionary-self-employment, individually-discretionary-where-no-rule-based-alternative-exists, and no-residency-path routes (May 2026). 15 non-EU countries surveyed; 2 retain at least one viable path AND a viable residency on-ramp under the affordability filter. Detail per-country files live alongside (e.g., uruguay.md, mexico.md).
 
 
-Paths below require relocation and physical residence; none permit a passive clock. All retain dual US citizenship. Scope: stable, mostly Anglophone or otherwise high-quality jurisdictions outside the EU. For the residency on-ramp by country, see [../residency/summary.md](../residency/summary.book-chapter.md).
+Paths below require relocation and physical residence; none permit a passive clock. All retain dual US citizenship. Scope: stable, mostly Anglophone or otherwise high-quality jurisdictions outside the EU. For the residency on-ramp by country, see [../residency/summary.md](book-section/other-residency/other-residency-summary).
 
 ## Uruguay
 
@@ -30,4 +30,4 @@ Paths below require relocation and physical residence; none permit a passive clo
 ## Notes
 
 - Fastest paths: **Uruguay 3.5–4y family-residence (married couple both holding residence)**, **Uruguay ~5.5–6y solo** (fallback), **Mexico ~6.0–6.5y standard residence** (dominated by Uruguay on speed, presence floor, and rule of law; retained as a second viable non-EU option).
-- For EU citizenship paths, see [../../eu/citizenship/summary.md](../../eu/citizenship/summary.book-chapter.md).
+- For EU citizenship paths, see [../../eu/citizenship/summary.md](book-section/eu-citizenship/eu-citizenship-summary).

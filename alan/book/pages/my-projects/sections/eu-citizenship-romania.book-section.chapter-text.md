@@ -96,7 +96,7 @@ The defining Romanian citizenship route. By volume the largest single naturaliza
 
 ## Investment / CBI — Does Not Exist
 
-- **Romania has no CBI program** and has never had one. A residency-by-investment ("Romania Golden Visa") proposal is in the legislative pipeline as of May 2026 — produces residency only, citizenship still requires the standard 8-year art. 8 track. See [../residency/romania.md](../residency/romania.book-chapter.md) for program details.
+- **Romania has no CBI program** and has never had one. A residency-by-investment ("Romania Golden Visa") proposal is in the legislative pipeline as of May 2026 — produces residency only, citizenship still requires the standard 8-year art. 8 track. See [../residency/romania.md](book-section/eu-residency/eu-residency-romania) for program details.
 
 ## Comparison Summary
 
@@ -110,7 +110,7 @@ Ranked by realistic total time to passport, May 2026:
 6. **Article 8(2) 5-year naturalization** (spouse of Romanian citizen) — ~7–8 years total, requires cohabitation in Romania throughout.
 7. **Article 8 standard 8-year naturalization** — ~10–11 years total; heaviest burden (B1 Romanian, Constitution, anthem, livelihood, full interview).
 
-Effectively closed / nonexistent: **CBI** (does not exist); **broad jus soli** (foundlings only). For the proposed residency-by-investment program, see [../residency/romania.md](../residency/romania.book-chapter.md). The statelessness-safeguard gap for children born in Romania to non-stateless foreign parents remains an open compliance issue.
+Effectively closed / nonexistent: **CBI** (does not exist); **broad jus soli** (foundlings only). For the proposed residency-by-investment program, see [../residency/romania.md](book-section/eu-residency/eu-residency-romania). The statelessness-safeguard gap for children born in Romania to non-stateless foreign parents remains an open compliance issue.
 
 Flag-worthy May-2026 changes:
 - **Law 14/2025 (in force 15 March 2025)**: B1 Romanian language mandatory for all naturalization and (descendant) reacquisition applicants; transitional grace period closed **14 March 2026**, so all new files now need B1 proof at submission unless the applicant is a former citizen or aged 65+. New art. 8¹/8² distinguished-contribution channels added.

@@ -125,6 +125,6 @@ Italy was historically the EU's most permissive jure sanguinis jurisdiction (unl
 7. **EU-citizen naturalization** — ~6–7 years (4 + 2–3).
 8. **Italian-descent naturalization (3-year)** — ~5–6 years; the new fallback for great-grandchildren post-Tajani.
 9. **Refugee/stateless naturalization** — ~7–8 years.
-10. **Standard non-EU naturalization** (including Golden Visa — see [residency/italy.md](../residency/italy.book-chapter.md)) — ~12–13 years.
+10. **Standard non-EU naturalization** (including Golden Visa — see [residency/italy.md](book-section/eu-residency/eu-residency-italy)) — ~12–13 years.
 
 **Most likely paths for non-Italian foreigners with no ancestry**: marriage (if applicable) > EU naturalization (if EU passport) > 10-year residency. **For Italian-descended Americans/Argentines/Brazilians**: pre-Tajani grandfathering if already in queue; otherwise jure sanguinis only if Italian parent/grandparent (with the new conditions); otherwise the 3-year residency-with-ancestry path or the 1948 judicial route (pending the Sezioni Unite ruling). **Effectively closed paths**: Law 379/2000 (Austro-Hungarian, closed Dec 2010); jure sanguinis through great-grandparents and earlier (closed 27 March 2025 except for files-in-flight and pending 1948 judicial review).

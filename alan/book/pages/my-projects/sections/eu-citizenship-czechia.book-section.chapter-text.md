@@ -56,7 +56,7 @@ Czechia operates under Act No. 186/2013 Coll. (effective 1 Jan 2014), which full
 ## Investment / CBI — None
 
 - Czechia has **no citizenship-by-investment program** and never has.
-- The "Long-Term Residence Permit for the Purpose of Investment" exists but is residency-only and does not shortcut the standard 10-year naturalization clock — see [../residency/czechia.md](../residency/czechia.book-chapter.md).
+- The "Long-Term Residence Permit for the Purpose of Investment" exists but is residency-only and does not shortcut the standard 10-year naturalization clock — see [../residency/czechia.md](book-section/eu-residency/eu-residency-czechia).
 - No realistic shortcut for investors.
 
 ## Distinguished Contribution — §15

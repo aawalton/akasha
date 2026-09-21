@@ -35,7 +35,7 @@ The second half is where the content is, and it is not definitional.
 
 > "Favorite" is an example of the latter, since having a favorite number would not itself count as a representation (non intelligible), but is still not possible for illegible numbers, making "no illegible numbers are interesting" an expansion more significant than just a definitional reframing.
 
-Having a favourite number is not a representation. Nobody can read your favourite off you; it is not intelligible to someone else in the way the [correspondence condition](../001-legible-numbers.book-chapter.md#what-counts-as-a-representation) demands. So it falls in the second half — it does not *make* a number legible, it *requires* the number to already be legible. And it is still impossible for an illegible number.
+Having a favourite number is not a representation. Nobody can read your favourite off you; it is not intelligible to someone else in the way the [correspondence condition](book-section/my-math/legible-numbers#what-counts-as-a-representation) demands. So it falls in the second half — it does not *make* a number legible, it *requires* the number to already be legible. And it is still impossible for an illegible number.
 
 **Nobody's favourite number is illegible.** To hold a favourite you would have to hold the number, and holding it is representing it.
 
@@ -60,7 +60,7 @@ What the picture of *which* integers are legible in a single frame actually look
 ## Cross-references
 
 - [the-hierarchy.md](book-section/my-math/the-hierarchy) — the union this page quantifies over, and the two ladders I merged.
-- [../001-legible-numbers.md](../001-legible-numbers.book-chapter.md) — the correspondence condition that makes a favourite not a representation.
+- [../001-legible-numbers.md](book-section/my-math/legible-numbers) — the correspondence condition that makes a favourite not a representation.
 - [provable-legibility.md](book-section/my-math/provable-legibility) — where these three claims are transferred to provable legibility, and where two of the three break.
 - [swiss-cheese.md](book-section/my-math/swiss-cheese) — which integers are legible in a single frame.
 

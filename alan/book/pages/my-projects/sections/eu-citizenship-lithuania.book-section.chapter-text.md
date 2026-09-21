@@ -76,7 +76,7 @@ Lithuania operates predominantly *jus sanguinis* with a narrow stateless-prevent
 
 ## Citizenship by Investment (CBI)
 
-- **Status**: **None.** Lithuania has no citizenship-by-investment program. For investor-residence permits (which feed only the standard 10-year naturalization clock), see [residency/lithuania.md](../residency/lithuania.book-chapter.md).
+- **Status**: **None.** Lithuania has no citizenship-by-investment program. For investor-residence permits (which feed only the standard 10-year naturalization clock), see [residency/lithuania.md](book-section/eu-residency/eu-residency-lithuania).
 
 ## Service-Based / Military
 

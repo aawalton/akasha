@@ -126,7 +126,7 @@ France offers many paths — standard residency-based naturalization by decree, 
 
 ## Investment / CBI
 
-- **No formal CBI program**. France has no fast-track passport-for-investment route. For France's "Talent" residency passport and other residency programs, see [../residency/france.md](../residency/france.book-chapter.md).
+- **No formal CBI program**. France has no fast-track passport-for-investment route. For France's "Talent" residency passport and other residency programs, see [../residency/france.md](book-section/eu-residency/eu-residency-france).
 
 ## Recent / pending changes — May 2026 state
 

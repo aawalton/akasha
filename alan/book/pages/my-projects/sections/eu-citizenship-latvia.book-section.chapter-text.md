@@ -94,7 +94,7 @@ Latvia operates a restored-state regime: the post-1991 framework only recognizes
 
 ## Investment / Golden Visa — residence only, then standard naturalization
 
-No CBI shortcut to citizenship exists in Latvia. The investor TRP feeds the standard ~10-year naturalization clock (5 TRP + 5 PR + processing) with full language and civics exam. See [residency/latvia.md](../residency/latvia.book-chapter.md) for tiers, RU/BY closures, and current scrutiny.
+No CBI shortcut to citizenship exists in Latvia. The investor TRP feeds the standard ~10-year naturalization clock (5 TRP + 5 PR + processing) with full language and civics exam. See [residency/latvia.md](book-section/eu-residency/eu-residency-latvia) for tiers, RU/BY closures, and current scrutiny.
 
 ## Dual citizenship policy — precise state (May 2026)
 
@@ -138,7 +138,7 @@ Ranked by speed-to-passport assuming clean documents and no security flags:
 7. **Non-citizen naturalization** — ~6–12 months processing (no residency clock to wait out), but requires passing A2-B1 language + civics exams.
 8. **Standard residence-based naturalization** — **~10–11 years total** (5 TRP + 5 PR + processing) + language + civics + oath + renunciation.
 9. **Marriage** — same ~10-year clock; marriage gives no facilitation in Latvia.
-10. **Golden Visa investor** — same ~10-year clock as standard; closed to RU/BY; under suspension threat. See [residency/latvia.md](../residency/latvia.book-chapter.md).
+10. **Golden Visa investor** — same ~10-year clock as standard; closed to RU/BY; under suspension threat. See [residency/latvia.md](book-section/eu-residency/eu-residency-latvia).
 
 **Effectively closed**: any path for Russian or Belarusian first-time applicants (Golden Visa shut; residence-permit renewals burdened or blocked; deportation risk rising). For everyone else without a Latvian ancestor, Latvia is one of the slower naturalization regimes in the EU — only the restored-citizenship channel is genuinely fast.
 

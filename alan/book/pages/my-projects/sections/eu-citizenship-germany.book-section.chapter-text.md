@@ -88,7 +88,7 @@ Germany's StAG was modernized by the **Staatsangehörigkeitsmodernisierungsgeset
 
 ## Investment / Citizenship-by-Investment
 
-- **None**. Germany has no CBI program. For Germany's entrepreneur visa (§21 AufenthG) and other residency programs, see [../residency/germany.md](../residency/germany.book-chapter.md).
+- **None**. Germany has no CBI program. For Germany's entrepreneur visa (§21 AufenthG) and other residency programs, see [../residency/germany.md](book-section/eu-residency/eu-residency-germany).
 
 ## Service-Based — Bundeswehr / Distinguished Contribution
 

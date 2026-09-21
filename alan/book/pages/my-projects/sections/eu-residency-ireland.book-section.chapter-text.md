@@ -42,7 +42,7 @@
 
 ## Citizenship clock reminder (for cross-reference)
 
-Standard naturalisation requires **5 years reckonable residence in the last 9 years**, with **1 continuous year immediately before application** and overall presence in Ireland. Reckonable stamps include Stamp 1, Stamp 4, Stamp 5, and some humanitarian permissions. **Stamp 0 and Stamp 2 are NOT reckonable.** Full citizenship analysis: see [../citizenship/ireland.md](../citizenship/ireland.book-chapter.md).
+Standard naturalisation requires **5 years reckonable residence in the last 9 years**, with **1 continuous year immediately before application** and overall presence in Ireland. Reckonable stamps include Stamp 1, Stamp 4, Stamp 5, and some humanitarian permissions. **Stamp 0 and Stamp 2 are NOT reckonable.** Full citizenship analysis: see [../citizenship/ireland.md](book-section/eu-citizenship/eu-citizenship-ireland).
 
 ## Sources
 

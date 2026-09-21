@@ -63,7 +63,7 @@ Portugal runs Lei da Nacionalidade no. **37/81** as repeatedly amended; the **20
 
 ## Investment / Golden Visa
 
-- **No citizenship-by-investment shortcut.** Portugal's Golden Visa (ARI) is a residence permit only; Golden Visa years count toward the standard Art. 6 residency clock (7 years CPLP/EU, 10 years others post-2026 reform). See [residency/portugal.md](../residency/portugal.book-chapter.md) for current investment routes, the closed real-estate tiers, and clock-start mechanics. Language A2 and culture test still required at naturalization.
+- **No citizenship-by-investment shortcut.** Portugal's Golden Visa (ARI) is a residence permit only; Golden Visa years count toward the standard Art. 6 residency clock (7 years CPLP/EU, 10 years others post-2026 reform). See [residency/portugal.md](book-section/eu-residency/eu-residency-portugal) for current investment routes, the closed real-estate tiers, and clock-start mechanics. Language A2 and culture test still required at naturalization.
 
 ## Sephardic Jewish Path (Law 30-A/2015 — Effectively Closed)
 

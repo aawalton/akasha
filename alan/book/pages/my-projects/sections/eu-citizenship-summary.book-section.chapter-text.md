@@ -69,4 +69,4 @@ Paths below require relocation and physical residence; none permit a passive clo
 ## Notes
 
 - Fastest paths: **France 2-yr decree ~4y if French Master's**, **Cyprus fast-track ~4.7y if B1 Greek**, **Belgium ~5.5y**, **Luxembourg ~5.7y**, **Germany ~5–6y (post-Jun 2024 reform)**, **Finland ~6–7y if B1 Finnish/Swedish/FSL**.
-- Residency-only programs (Golden Visas, investor visas, digital-nomad visas) are tracked separately under [../residency/](../residency/summary.book-chapter.md). They never shorten the naturalization clock unless explicitly tied to it (e.g., the French Master's track).
+- Residency-only programs (Golden Visas, investor visas, digital-nomad visas) are tracked separately under [../residency/](book-section/eu-residency/eu-residency-summary). They never shorten the naturalization clock unless explicitly tied to it (e.g., the French Master's track).

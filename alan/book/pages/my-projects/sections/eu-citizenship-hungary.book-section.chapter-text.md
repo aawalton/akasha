@@ -1,7 +1,7 @@
 
 # Hungarian Citizenship Paths
 
-Hungary's citizenship regime is governed by Act LV of 1993 on Hungarian Citizenship (1993. évi LV. törvény), materially expanded by Act XLIV of 2010 — the Fidesz government's flagship "simplified naturalization" amendment, in force 1 January 2011 — which grants citizenship to descendants of pre-1920 Hungarian citizens who speak Hungarian, with no residency requirement. Over 1.1 million people, mostly ethnic Hungarians in Romania, Serbia, Ukraine, and Slovakia, have been naturalized via this path; the politically charged "outsourcing of citizenship" remains the defining feature of Hungary's regime. Hungary fully allows dual/multiple citizenship; no renunciation required for any path. For the 2024 Guest Investor Program (residency-by-investment, not CBI), see [residency/hungary.md](../residency/hungary.book-chapter.md).
+Hungary's citizenship regime is governed by Act LV of 1993 on Hungarian Citizenship (1993. évi LV. törvény), materially expanded by Act XLIV of 2010 — the Fidesz government's flagship "simplified naturalization" amendment, in force 1 January 2011 — which grants citizenship to descendants of pre-1920 Hungarian citizens who speak Hungarian, with no residency requirement. Over 1.1 million people, mostly ethnic Hungarians in Romania, Serbia, Ukraine, and Slovakia, have been naturalized via this path; the politically charged "outsourcing of citizenship" remains the defining feature of Hungary's regime. Hungary fully allows dual/multiple citizenship; no renunciation required for any path. For the 2024 Guest Investor Program (residency-by-investment, not CBI), see [residency/hungary.md](book-section/eu-residency/eu-residency-hungary).
 
 ## Jus Soli — Anti-Statelessness Only (Act LV §3(3))
 
@@ -114,7 +114,7 @@ Ranked by realistic total time to passport, May 2026:
 5. **3-year reduced naturalization** (spouse-in-HU / refugee / stateless / parent of HU minor) — ~4–5 years.
 6. **5-year reduced naturalization** (born in HU / minor-age residency / stateless) — ~6–7 years.
 7. **Standard 8-year naturalization** — ~9–10 years. Heavy: B2 Hungarian, 40-topic civics exam in Hungarian.
-8. **Guest Investor Program → naturalization** — ~8–10 years, EUR 250k–1M plus standard naturalization burdens. See [residency/hungary.md](../residency/hungary.book-chapter.md).
+8. **Guest Investor Program → naturalization** — ~8–10 years, EUR 250k–1M plus standard naturalization burdens. See [residency/hungary.md](book-section/eu-residency/eu-residency-hungary).
 9. **Exceptional / discretionary (Presidential)** — fastest in absolute terms but not a route an ordinary applicant can pursue.
 
 Effectively closed / nonexistent: pure jus soli (anti-statelessness only); direct citizenship-by-investment (does not exist — the 2013–2017 residency-bond scheme was citizenship-adjacent but the 2024 Guest Investor Program is strictly residency).

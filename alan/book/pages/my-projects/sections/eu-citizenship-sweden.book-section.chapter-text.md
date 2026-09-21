@@ -104,7 +104,7 @@ Sweden's citizenship regime is governed by the Citizenship Act (Lag om svenskt m
 
 ## Investment / CBI
 
-- **Status:** None. Sweden has no citizenship-by-investment program, no fast-track investor naturalization, and no proposals to create one. For residency-program details, see [../residency/sweden.md](../residency/sweden.book-chapter.md).
+- **Status:** None. Sweden has no citizenship-by-investment program, no fast-track investor naturalization, and no proposals to create one. For residency-program details, see [../residency/sweden.md](book-section/eu-residency/eu-residency-sweden).
 
 ## Service-based
 

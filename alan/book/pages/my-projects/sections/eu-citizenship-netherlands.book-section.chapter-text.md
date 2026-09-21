@@ -57,7 +57,7 @@ Standard option requires civic integration (A2 inburgering) for most adult categ
 ## Investment / Citizenship-by-Investment
 
 - **None as a citizenship route**. The Netherlands has no CBI.
-- The **residence-by-investment** scheme was **abolished on 17 April 2024** by the IND. See [residency/netherlands.md](../residency/netherlands.book-chapter.md) for the historical terms and existing-holder treatment.
+- The **residence-by-investment** scheme was **abolished on 17 April 2024** by the IND. See [residency/netherlands.md](book-section/eu-residency/eu-residency-netherlands) for the historical terms and existing-holder treatment.
 
 ## Refugees and Stateless Persons
 
@@ -81,7 +81,7 @@ Three mechanisms:
 
 - Residency in any of these Kingdom territories **counts identically** for both option and naturalization tracks — the requirement is "lived in the Kingdom of the Netherlands."
 - Naturalization applications in the Caribbean start at the **Cabinet of the Governor**, language tests are bilingual (Dutch + Papiamentu or Dutch + English), and processing is generally **slower** than the European Netherlands (often 18–24 months).
-- No CBI in any Kingdom territory; Caribbean investor permits confer residency only and run under the standard Kingdom-residency clock (see [residency/netherlands.md](../residency/netherlands.book-chapter.md)).
+- No CBI in any Kingdom territory; Caribbean investor permits confer residency only and run under the standard Kingdom-residency clock (see [residency/netherlands.md](book-section/eu-residency/eu-residency-netherlands)).
 
 ## Sephardic Jewish Descent
 

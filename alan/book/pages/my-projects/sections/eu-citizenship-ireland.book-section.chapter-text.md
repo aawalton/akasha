@@ -1,7 +1,7 @@
 
 # Ireland — Paths to Citizenship (May 2026)
 
-Ireland's regime is unusual in three ways: no language test for naturalization (English/Irish proficiency is not assessed), the **Foreign Births Register** (FBR) is the world's most-used diaspora citizenship path (grandparent-line, indefinitely extensible if each generation registers in order), and **everyone born in Northern Ireland** has a treaty-protected right to Irish citizenship under the Good Friday Agreement. Dual citizenship is fully allowed at all levels. The IIP "golden visa" closed February 2023 (Ireland never offered direct CBI); see [residency/ireland.md](../residency/ireland.book-chapter.md).
+Ireland's regime is unusual in three ways: no language test for naturalization (English/Irish proficiency is not assessed), the **Foreign Births Register** (FBR) is the world's most-used diaspora citizenship path (grandparent-line, indefinitely extensible if each generation registers in order), and **everyone born in Northern Ireland** has a treaty-protected right to Irish citizenship under the Good Friday Agreement. Dual citizenship is fully allowed at all levels. The IIP "golden visa" closed February 2023 (Ireland never offered direct CBI); see [residency/ireland.md](book-section/eu-residency/eu-residency-ireland).
 
 ## Birth in Ireland (Jus Soli — Conditional Since 2005)
 
@@ -73,7 +73,7 @@ Ministerial discretion can waive any/all statutory conditions (residency, fees, 
 
 ## Investment / CBI — IIP Closed
 
-The Immigrant Investor Programme closed to new applications on 15 February 2023; Ireland never offered direct citizenship-by-investment. Details (existing-holder status, replacement) in [residency/ireland.md](../residency/ireland.book-chapter.md). Existing approved investors remain eligible to naturalize via the standard 5-year residency route.
+The Immigrant Investor Programme closed to new applications on 15 February 2023; Ireland never offered direct citizenship-by-investment. Details (existing-holder status, replacement) in [residency/ireland.md](book-section/eu-residency/eu-residency-ireland). Existing approved investors remain eligible to naturalize via the standard 5-year residency route.
 
 ## Defence Forces Service
 

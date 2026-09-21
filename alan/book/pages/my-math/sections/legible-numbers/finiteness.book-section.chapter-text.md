@@ -19,7 +19,7 @@ Four links, and it is worth having them apart because later arguments lean on th
 
 1. **The accessible region is bounded.** Information propagates at the speed of light, so only a finite region has ever been able to reach us or be reached.
 2. **A bounded region holds finitely many states.** Under Planck-grained space and time, a bounded region admits only finitely many distinguishable configurations. Enormous, but finite.
-3. **There are finitely many rules of interpretation.** This is the step that needs the [correspondence condition](../001-legible-numbers.book-chapter.md#what-counts-as-a-representation), and it is why I wrote the parenthesis *must be accessible to have a rule of interpretation*. A rule is not an abstraction floating free — it has to be realized somewhere, and the only somewhere available is that same bounded region. So the rules are counted by the same bound the states are.
+3. **There are finitely many rules of interpretation.** This is the step that needs the [correspondence condition](book-section/my-math/legible-numbers#what-counts-as-a-representation), and it is why I wrote the parenthesis *must be accessible to have a rule of interpretation*. A rule is not an abstraction floating free — it has to be realized somewhere, and the only somewhere available is that same bounded region. So the rules are counted by the same bound the states are.
 4. **Finite crossed with finite is finite.** Finitely many states paired with finitely many rules single out at most finitely many numbers. That set is the legible numbers, and it is finite.
 
 Then the complement. The reals are uncountable; taking a finite set away from an uncountable set leaves it uncountable. So the illegible numbers are uncountably infinite, and **almost every real number is illegible**.
@@ -48,7 +48,7 @@ Nothing in the session touched it. Every later result is a constraint on what ca
 
 ## Cross-references
 
-- [../001-legible-numbers.md](../001-legible-numbers.book-chapter.md) — the definition and the correspondence condition link 3 depends on.
+- [../001-legible-numbers.md](book-section/my-math/legible-numbers) — the definition and the correspondence condition link 3 depends on.
 - [the-berry-trap.md](book-section/my-math/the-berry-trap) — the paradox that runs on this result's "finite sets have a largest member," and why it does not damage it.
 - [the-hierarchy.md → the union is still countable](book-section/my-math/the-hierarchy#the-union-is-still-countable) — the tower of universes this conclusion outlives.
 - [swiss-cheese.md](book-section/my-math/swiss-cheese) — finiteness restricted to the integers, and the picture of *which* integers that I had to correct.

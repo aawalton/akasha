@@ -141,7 +141,7 @@ Luxembourg's regime is the **Nationality Law of 8 March 2017**, replacing the 20
 ## Investment / CBI
 
 - **Category:** None.
-- **Status:** **Luxembourg has no Citizenship-by-Investment program.** An investor residence permit exists and counts toward the 5-year naturalization clock — but confers no citizenship shortcut. See [residency/luxembourg.md](../residency/luxembourg.book-chapter.md) for details. Plan on the full naturalization track.
+- **Status:** **Luxembourg has no Citizenship-by-Investment program.** An investor residence permit exists and counts toward the 5-year naturalization clock — but confers no citizenship shortcut. See [residency/luxembourg.md](book-section/eu-residency/eu-residency-luxembourg) for details. Plan on the full naturalization track.
 
 ## Comparison summary
 

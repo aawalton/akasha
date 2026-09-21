@@ -62,7 +62,7 @@ Slovakia operates under Act No. 40/1993 Coll. on State Citizenship. A 2010 Fico-
 
 ## Investment / CBI — None
 
-- Slovakia has **no citizenship-by-investment program** and never has. For residency-program details (including absence of a golden visa), see [../residency/slovakia.md](../residency/slovakia.book-chapter.md).
+- Slovakia has **no citizenship-by-investment program** and never has. For residency-program details (including absence of a golden visa), see [../residency/slovakia.md](book-section/eu-residency/eu-residency-slovakia).
 
 ## Distinguished Contribution — §7(2)(b)
 

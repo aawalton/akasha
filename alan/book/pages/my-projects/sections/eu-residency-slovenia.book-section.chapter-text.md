@@ -5,4 +5,4 @@
 
 ## Sources
 
-- See [../citizenship/slovenia.md](../citizenship/slovenia.book-chapter.md) for primary nationality-law references.
+- See [../citizenship/slovenia.md](book-section/eu-citizenship/eu-citizenship-slovenia) for primary nationality-law references.

@@ -54,7 +54,7 @@ Denmark is one of the most restrictive EU residence regimes for non-EU/EEA/Swiss
 - No golden visa exists.
 - Family reunification requires a Danish-side sponsor.
 - PhD route requires Danish doctoral admission and a 6+ year academic commitment.
-- Even on the citizenship side, Denmark requires ~9 years' continuous residence, Danish language at PD3, full-time work, and (since 2015) renunciation of prior citizenship — see [../citizenship/denmark.md](../citizenship/denmark.book-chapter.md). Without a viable residency entry path, the citizenship requirements are unreachable.
+- Even on the citizenship side, Denmark requires ~9 years' continuous residence, Danish language at PD3, full-time work, and (since 2015) renunciation of prior citizenship — see [../citizenship/denmark.md](book-section/eu-citizenship/eu-citizenship-denmark). Without a viable residency entry path, the citizenship requirements are unreachable.
 
 ## Sources
 

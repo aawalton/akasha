@@ -55,7 +55,7 @@ Bulgaria's regime is heavily jus sanguinis. The Bulgarian-origin path (§15) is 
 
 ## Investment-based residency and CBI
 
-_Investment-based residency (Golden Visa) and the closed Art. 14a direct CBI program — see [../residency/bulgaria.md](../residency/bulgaria.book-chapter.md). The Golden Visa feeds the standard 5-year naturalization path with no acceleration._
+_Investment-based residency (Golden Visa) and the closed Art. 14a direct CBI program — see [../residency/bulgaria.md](book-section/eu-residency/eu-residency-bulgaria). The Golden Visa feeds the standard 5-year naturalization path with no acceleration._
 
 ## Citizenship for special merit / state interest (Art. 16)
 
@@ -85,7 +85,7 @@ Ranked by speed × likelihood for an applicant with no current Bulgarian tie:
 5. **Refugee / stateless / restoration** — narrow eligibility; not a planning lever for an ordinary applicant.
 6. **Birth on territory (Art. 9)** — anti-statelessness only, not a general path.
 
-(Investment-based residency and the closed Art. 14a CBI are described in [../residency/bulgaria.md](../residency/bulgaria.book-chapter.md); neither shortcuts the standard naturalization clock.)
+(Investment-based residency and the closed Art. 14a CBI are described in [../residency/bulgaria.md](book-section/eu-residency/eu-residency-bulgaria); neither shortcuts the standard naturalization clock.)
 
 ## Sources
 

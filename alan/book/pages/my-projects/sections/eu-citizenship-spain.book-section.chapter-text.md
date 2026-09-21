@@ -1,7 +1,7 @@
 
 # Spain — Paths to Citizenship (May 2026)
 
-Spain's regime is jus-sanguinis-dominant with limited jus soli (statelessness only). Three structural traits dominate: a 2-year fast track for Ibero-American / Andorran / Filipino / Equatorial Guinean / Portuguese / Sephardic-by-history applicants (vs 10 years standard); asymmetric dual citizenship — freely allowed with those same countries plus France (treaty), formally forbidden everywhere else (renunciation required, though many origin countries ignore the declaration); and the **Democratic Memory Law (Law 20/2022)** as the single most-used current path, whose application window closed definitively **22 October 2025** (~1.2M consular filings, backlog projected to 2028). The **Sephardic path (Law 12/2015)** closed 1 October 2019 with pipeline cases continuing. For residency programs (including the terminated Golden Visa, Digital Nomad Visa, and Non-Lucrative Visa), see [../residency/spain.md](../residency/spain.book-chapter.md).
+Spain's regime is jus-sanguinis-dominant with limited jus soli (statelessness only). Three structural traits dominate: a 2-year fast track for Ibero-American / Andorran / Filipino / Equatorial Guinean / Portuguese / Sephardic-by-history applicants (vs 10 years standard); asymmetric dual citizenship — freely allowed with those same countries plus France (treaty), formally forbidden everywhere else (renunciation required, though many origin countries ignore the declaration); and the **Democratic Memory Law (Law 20/2022)** as the single most-used current path, whose application window closed definitively **22 October 2025** (~1.2M consular filings, backlog projected to 2028). The **Sephardic path (Law 12/2015)** closed 1 October 2019 with pipeline cases continuing. For residency programs (including the terminated Golden Visa, Digital Nomad Visa, and Non-Lucrative Visa), see [../residency/spain.md](book-section/eu-residency/eu-residency-spain).
 
 ## Path 1 — Jus Sanguinis (Descent, Spaniard parent)
 
@@ -112,7 +112,7 @@ Ranked by speed for a typical applicant with the relevant qualifying factor:
 5. **Carta de Naturaleza (Path 13)** — discretionary, rare, fast for the chosen few.
 6. **Refugee (Path 10)** — ~6–7 yrs.
 7. **Standard residency (Path 4)** — ~11–13 yrs; **renunciation required**.
-8. **Closed paths:** Sephardic (Path 9, closed 2019). For the terminated Golden Visa and current residency replacement options, see [../residency/spain.md](../residency/spain.book-chapter.md).
+8. **Closed paths:** Sephardic (Path 9, closed 2019). For the terminated Golden Visa and current residency replacement options, see [../residency/spain.md](book-section/eu-residency/eu-residency-spain).
 
 Most-likely practical paths for a US citizen without Spanish ancestry: Path 7 (marriage) > Path 5 (after acquiring Ibero-American citizenship first, e.g., via Argentina or Mexico) > Path 4 (10 years + renunciation declaration that the US ignores → de facto dual).
 

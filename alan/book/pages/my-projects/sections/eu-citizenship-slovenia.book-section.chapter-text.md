@@ -121,7 +121,7 @@ Slovenia operates a restrictive jus-sanguinis regime under the Citizenship of th
 
 ## 12. Investment / CBI
 
-- **None.** Slovenia has no citizenship-by-investment program and no investor fast-track to naturalization. For residency-program details, see [../residency/slovenia.md](../residency/slovenia.book-chapter.md).
+- **None.** Slovenia has no citizenship-by-investment program and no investor fast-track to naturalization. For residency-program details, see [../residency/slovenia.md](book-section/eu-residency/eu-residency-slovenia).
 
 ## Comparison summary — ranked by total elapsed time and likelihood
 

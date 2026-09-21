@@ -57,7 +57,7 @@ Malta is a small EU island state (since 2004) whose citizenship regime is domina
 
 ## Investment / MEIN (formerly IIP) — TERMINATED
 
-- **Status**: Terminated by **CJEU Case C-181/23 (29 April 2025)** and repealed by Act XXI of 2025 (24 July 2025). The non-transactional **Citizenship by Merit** route above replaced it. Pre-ruling transitional cases remain in legal limbo. See [residency/malta.md](../residency/malta.book-chapter.md) for full history and transitional context.
+- **Status**: Terminated by **CJEU Case C-181/23 (29 April 2025)** and repealed by Act XXI of 2025 (24 July 2025). The non-transactional **Citizenship by Merit** route above replaced it. Pre-ruling transitional cases remain in legal limbo. See [residency/malta.md](book-section/eu-residency/eu-residency-malta) for full history and transitional context.
 
 ## Reacquisition / Resumption of Lost Citizenship (Article 27)
 

@@ -17,7 +17,7 @@ This is the single most common misconception about Estonia.
 - **What it is**: A government-issued digital identity card that lets non-residents register and run an Estonian (and therefore EU) limited company entirely online, sign documents digitally, and access Estonia's e-government services. ~120,000+ e-residents from 170+ countries; ~33,000+ companies founded.
 - **What it is NOT**: not citizenship, not physical residency, not a visa or travel document (no Estonia/Schengen entry rights), not tax residency, and does **not count toward the 8-year naturalization residency clock**.
 - **2026 changes**: Flat €165 application/renewal fee from 1 January 2027; mobile e-Residency rollout in progress.
-- **If you want citizenship via Estonia**, you must still pursue one of the paths in [../citizenship/estonia.md](../citizenship/estonia.book-chapter.md). e-Residency is orthogonal.
+- **If you want citizenship via Estonia**, you must still pursue one of the paths in [../citizenship/estonia.md](book-section/eu-citizenship/eu-citizenship-estonia). e-Residency is orthogonal.
 
 ## Sources
 

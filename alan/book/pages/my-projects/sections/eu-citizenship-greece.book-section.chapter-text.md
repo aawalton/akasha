@@ -1,7 +1,7 @@
 
 # Greek Citizenship Paths (May 2026)
 
-Greece runs a jus-sanguinis regime under the Greek Citizenship Code (Law 3284/2004), reformed by Law 4735/2020 which introduced the **Panhellenic Citizenship Test** (PEGP / ΠΕΓΠ) — a written Greek-language **B1** exam plus a history/geography/civics section — replacing the old discretionary committee interview for the language/integration check. Naturalization is **7 years** of legal residence (3 for EU citizens, recognized refugees, omogeneis, or spouses of a Greek citizen with a common child); backlogs in Athens and Thessaloniki are historically multi-year (4–5 years post-application). Dual citizenship is **unconditionally permitted**. Substantial diaspora (omogeneis) paths exist for ethnic Greeks abroad, especially Pontian Greeks from the former USSR and ethnic Greeks from Albania. For Greece's Golden Visa and other residency programs, see [../residency/greece.md](../residency/greece.book-chapter.md).
+Greece runs a jus-sanguinis regime under the Greek Citizenship Code (Law 3284/2004), reformed by Law 4735/2020 which introduced the **Panhellenic Citizenship Test** (PEGP / ΠΕΓΠ) — a written Greek-language **B1** exam plus a history/geography/civics section — replacing the old discretionary committee interview for the language/integration check. Naturalization is **7 years** of legal residence (3 for EU citizens, recognized refugees, omogeneis, or spouses of a Greek citizen with a common child); backlogs in Athens and Thessaloniki are historically multi-year (4–5 years post-application). Dual citizenship is **unconditionally permitted**. Substantial diaspora (omogeneis) paths exist for ethnic Greeks abroad, especially Pontian Greeks from the former USSR and ethnic Greeks from Albania. For Greece's Golden Visa and other residency programs, see [../residency/greece.md](book-section/eu-residency/eu-residency-greece).
 
 ## Birth on Territory (Conditional Jus Soli)
 
@@ -71,7 +71,7 @@ Greece runs a jus-sanguinis regime under the Greek Citizenship Code (Law 3284/20
 
 ## Investment / Golden Visa
 
-- **No fast-track passport-for-investment route exists.** Greece's Golden Visa is residency only; Golden Visa years count as legal residence under Art. 5, but the 7-year naturalization clock requires substantive physical residence plus the Panhellenic Test. See [../residency/greece.md](../residency/greece.book-chapter.md) for the Golden Visa program details.
+- **No fast-track passport-for-investment route exists.** Greece's Golden Visa is residency only; Golden Visa years count as legal residence under Art. 5, but the 7-year naturalization clock requires substantive physical residence plus the Panhellenic Test. See [../residency/greece.md](book-section/eu-residency/eu-residency-greece) for the Golden Visa program details.
 
 ## Honorary / Distinguished Services (Art. 13)
 
@@ -124,7 +124,7 @@ Ranked by **speed** for a typical applicant (May 2026):
 7. **Reduced naturalization (3-year track)** — **5–7 years total** (3 residence + 2–4 processing). Requires EU citizenship **or** refugee status **or** spouse-with-common-child **or** omogenis status; Panhellenic Test required.
 8. **Standard naturalization (7-year track)** — **10–12 years total** (7 residence + 3–5 processing). Athens/Thessaloniki backlogs historically 4–5 years post-application per Generation 2.0; the Panhellenic Test is the principal hard gate.
 9. **Marriage without common child** — same as standard 7-year track; marriage alone confers nothing.
-10. **Golden Visa → citizenship** — ~**10–12 years**; visa requires no physical presence, but the 7-year naturalization clock effectively does. Not a citizenship shortcut. See [../residency/greece.md](../residency/greece.book-chapter.md).
+10. **Golden Visa → citizenship** — ~**10–12 years**; visa requires no physical presence, but the 7-year naturalization clock effectively does. Not a citizenship shortcut. See [../residency/greece.md](book-section/eu-residency/eu-residency-greece).
 11. **Refugee** — 5–7 years from recognition + processing; 8–10+ years from arrival.
 
 **Likelihood**: descent and omogeneis paths are near-certain with documentation. Standard naturalization is the principal gate — Panhellenic Test (B1 Greek) is non-trivial, and Athens/Thessaloniki backlogs persist at multi-year scales. Marriage gives no shortcut without a common child.

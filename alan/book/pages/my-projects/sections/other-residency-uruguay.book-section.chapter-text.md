@@ -19,7 +19,7 @@ DNM requires "ánimo de permanencia" — intent to reside. Practitioners cite 6 
 6–12 months currently (reported improvements bringing it to ~8 months). Applicant can live in Uruguay during processing on the *constancia de inicio de trámite* (filing receipt), which functions as proof of legal presence.
 
 ### Citizenship pathway
-The 3 / 5-year constitutional clock starts on **filing date**, not card-issuance date — so residence accrual runs in parallel with processing. See [citizenship/uruguay.md](../citizenship/uruguay.book-chapter.md).
+The 3 / 5-year constitutional clock starts on **filing date**, not card-issuance date — so residence accrual runs in parallel with processing. See [citizenship/uruguay.md](book-section/other-citizenship/other-citizenship-uruguay).
 
 ## Tax Residency (Residencia Fiscal) — Separate Regime
 

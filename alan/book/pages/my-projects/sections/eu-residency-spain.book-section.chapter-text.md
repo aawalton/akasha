@@ -23,7 +23,7 @@ Standard work-permit and EU Blue Card routes for skilled employees of Spanish em
 - **Category**: Investor residency → eventual standard 10-year naturalization.
 - **Status (May 2026)**: **Program eliminated 3 April 2025** by Organic Law 1/2025 (cited housing-affordability pressure in Madrid/Barcelona). Articles 63–67 of Law 14/2013 repealed.
 - **Transitional rules**: Visas/authorizations in force at the effective date remain valid for their original term; renewals processed under the prior 2013 regime. The investor path never granted citizenship directly — holders still needed 10 years residency. Existing holders may continue toward standard naturalization.
-- **Path to citizenship**: Never direct — Golden Visa holders followed the standard 10-year residency track (see [../citizenship/spain.md](../citizenship/spain.book-chapter.md) Path 4).
+- **Path to citizenship**: Never direct — Golden Visa holders followed the standard 10-year residency track (see [../citizenship/spain.md](book-section/eu-citizenship/eu-citizenship-spain) Path 4).
 
 ## Sources
 

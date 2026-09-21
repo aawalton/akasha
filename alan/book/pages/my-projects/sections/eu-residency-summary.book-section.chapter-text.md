@@ -1,7 +1,7 @@
 > EU residency paths for a US-citizen applicant (married, three kids; family relocates together as accompanying dependents on the main applicant's permit) — distinct from citizenship. Only paths with an actual citizenship pathway (dual permitted, no renunciation), meeting the self-driven objective-criteria filter (no employer sponsorship, no endorsement / distinguished-talent / discretionary-special-exception, no narrow-discretionary self-employment where approval rates are lottery-tier or capped by hard national quotas, no individually-discretionary path where a rule-based alternative exists in the same country, no family-reunification-to-existing-citizen/PR sponsor, ≤€500k one-time capital lock, PR-feeding) are tracked. Spouse + kids on derived permits under the main applicant is implicit in every track listed. May 2026 snapshot. 17 EU citizenship-applicable countries surveyed; 13 retain at least one viable residency path.
 
 
-Residency ≠ citizenship. Each path below feeds the country's standard residence-physical-presence clock toward naturalization with dual citizenship preserved. For citizenship paths, see [../citizenship/summary.md](../citizenship/summary.book-chapter.md). For non-EU residency paths, see [../../other/residency/summary.md](../../other/residency/summary.book-chapter.md).
+Residency ≠ citizenship. Each path below feeds the country's standard residence-physical-presence clock toward naturalization with dual citizenship preserved. For citizenship paths, see [../citizenship/summary.md](book-section/eu-citizenship/eu-citizenship-summary). For non-EU residency paths, see [../../other/residency/summary.md](book-section/other-residency/other-residency-summary).
 
 ## Capital-driven (Golden Visa / investor residency, ≤€500k)
 

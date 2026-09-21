@@ -50,7 +50,7 @@ Compressibility is therefore intrinsic **up to an additive constant, and the con
 - [swiss-cheese.md](book-section/my-math/swiss-cheese) — the distribution this is the mechanism for.
 - [provable-legibility.md](book-section/my-math/provable-legibility) — the "under n bits" formulation this names, and Chaitin's constant, which is the middle drawer's one occupant.
 - [finiteness.md](book-section/my-math/finiteness) — the count of two-to-the-n that the density argument works against.
-- [../001-legible-numbers.md](../001-legible-numbers.book-chapter.md) — the definition all of this descends from.
+- [../001-legible-numbers.md](book-section/my-math/legible-numbers) — the definition all of this descends from.
 
 ## Threads to pull on later
 

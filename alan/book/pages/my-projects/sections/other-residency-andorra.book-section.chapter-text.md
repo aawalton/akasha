@@ -40,7 +40,7 @@ A separate 2025 reform (Llei 5/2025) raised the active self-employment ownership
 - **Physical presence**: **≥90 days/yr**.
 - **No work right** in Andorra (passive only).
 - **Permit cadence**: 1 year initial → 3-year renewals → 10-year renewals.
-- **Path to citizenship**: 20 years residence — but renunciation of prior citizenship is required at naturalization (see [`../citizenship/andorra.md`](../citizenship/andorra.book-chapter.md)).
+- **Path to citizenship**: 20 years residence — but renunciation of prior citizenship is required at naturalization (see [`../citizenship/andorra.md`](book-section/other-citizenship/other-citizenship-andorra)).
 
 ### Residencia Passiva — Professionals with international projection
 
@@ -90,7 +90,7 @@ All residency tracks feed the same naturalization clock:
 - **10 years** if applicant completed mandatory schooling in Andorra.
 - **3 years marriage + 3 years residence** if married to an Andorran citizen.
 
-In every case, **renunciation of US (or other) citizenship is required** — see [`../citizenship/andorra.md`](../citizenship/andorra.book-chapter.md).
+In every case, **renunciation of US (or other) citizenship is required** — see [`../citizenship/andorra.md`](book-section/other-citizenship/other-citizenship-andorra).
 
 ## Practical Assessment — US Citizen Wanting Residency Only
 

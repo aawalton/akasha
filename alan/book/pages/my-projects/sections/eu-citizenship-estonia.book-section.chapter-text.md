@@ -1,7 +1,7 @@
 
 # Estonian Citizenship Paths (May 2026)
 
-Estonia operates pure *jus sanguinis* with no *jus soli*, and formally bans dual citizenship under Article 8 of the Constitution — except that **birthright Estonians cannot be deprived of citizenship**, creating a de-facto dual reality for them. The pre-1940 **restored-citizenship** path is the only fast route for outsiders with Estonian ancestry (parent or grandparent), with no residency or language requirement. For Estonia's residency programs (and the e-Residency digital identity, which is explicitly **not** a citizenship or residency path), see [../residency/estonia.md](../residency/estonia.book-chapter.md).
+Estonia operates pure *jus sanguinis* with no *jus soli*, and formally bans dual citizenship under Article 8 of the Constitution — except that **birthright Estonians cannot be deprived of citizenship**, creating a de-facto dual reality for them. The pre-1940 **restored-citizenship** path is the only fast route for outsiders with Estonian ancestry (parent or grandparent), with no residency or language requirement. For Estonia's residency programs (and the e-Residency digital identity, which is explicitly **not** a citizenship or residency path), see [../residency/estonia.md](book-section/eu-residency/eu-residency-estonia).
 
 ## Citizenship by Descent (jus sanguinis)
 
@@ -74,7 +74,7 @@ Estonia operates pure *jus sanguinis* with no *jus soli*, and formally bans dual
 
 ## Investment / CBI
 
-- **Status**: **None.** Estonia has no citizenship-by-investment program and no formal "golden visa" path to citizenship. Investment-based residence permits (startup visa, real-estate routes) only feed into the standard 8-year naturalization timeline — see [../residency/estonia.md](../residency/estonia.book-chapter.md).
+- **Status**: **None.** Estonia has no citizenship-by-investment program and no formal "golden visa" path to citizenship. Investment-based residence permits (startup visa, real-estate routes) only feed into the standard 8-year naturalization timeline — see [../residency/estonia.md](book-section/eu-residency/eu-residency-estonia).
 
 ## Service-Based / Military
 
@@ -86,7 +86,7 @@ Estonia operates pure *jus sanguinis* with no *jus soli*, and formally bans dual
 
 ## e-Residency — NOT a Citizenship or Residency Path
 
-The single most common misconception about Estonia. e-Residency is a digital business identity, not citizenship and not residency. It does **not count toward the 8-year naturalization residency clock**. See [../residency/estonia.md](../residency/estonia.book-chapter.md) for what e-Residency actually provides.
+The single most common misconception about Estonia. e-Residency is a digital business identity, not citizenship and not residency. It does **not count toward the 8-year naturalization residency clock**. See [../residency/estonia.md](book-section/eu-residency/eu-residency-estonia) for what e-Residency actually provides.
 
 ## Notable Recent Changes (2023–2026)
 
@@ -105,7 +105,7 @@ The single most common misconception about Estonia. e-Residency is a digital bus
 5. **Re-acquisition of lost citizenship** — ~1.5 years.
 6. **Stateless naturalization** — ~8.5 years from residence permit (most already meet residency).
 7. **Standard naturalization (residency or spouse)** — ~8.5 years minimum.
-8. **e-Residency** — does not lead to citizenship at any timeline; see [../residency/estonia.md](../residency/estonia.book-chapter.md).
+8. **e-Residency** — does not lead to citizenship at any timeline; see [../residency/estonia.md](book-section/eu-residency/eu-residency-estonia).
 
 **By likelihood of approval (highest first):** birthright > restored > simplified minor > stateless naturalization > standard naturalization > spouse-as-resident > re-acquisition > special merit (capped at 10/year).
 

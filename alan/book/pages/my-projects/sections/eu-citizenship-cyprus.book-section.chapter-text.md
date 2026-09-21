@@ -105,7 +105,7 @@ Cyprus is a small EU member (since 2004) with a jus-sanguinis regime. Its Citize
 
 ## Citizenship by Investment — Closed
 
-_See [../residency/cyprus.md](../residency/cyprus.book-chapter.md) for the closed Cyprus CBI programme (terminated 1 Nov 2020; final §111A Cabinet-discretion loophole repealed 4 Dec 2025; EU infringement case closed 11 Mar 2026) and the surviving €300k real-estate Permanent Residency Permit (PR-only; does not shortcut the 8-year naturalization clock)._
+_See [../residency/cyprus.md](book-section/eu-residency/eu-residency-cyprus) for the closed Cyprus CBI programme (terminated 1 Nov 2020; final §111A Cabinet-discretion loophole repealed 4 Dec 2025; EU infringement case closed 11 Mar 2026) and the surviving €300k real-estate Permanent Residency Permit (PR-only; does not shortcut the 8-year naturalization clock)._
 
 ## Comparison Summary
 
@@ -120,7 +120,7 @@ Ranked by speed for a typical applicant (May 2026):
 7. **Refugee** — 8+ years from recognition + backlog ≈ 10+ years.
 8. **Honorary / exceptional** — case-by-case, not a realistic plan.
 
-(The closed CBI programme and the surviving €300k real-estate PR are described in [../residency/cyprus.md](../residency/cyprus.book-chapter.md); neither offers a current investment path to a Cyprus passport.)
+(The closed CBI programme and the surviving €300k real-estate PR are described in [../residency/cyprus.md](book-section/eu-residency/eu-residency-cyprus); neither offers a current investment path to a Cyprus passport.)
 
 Likelihood: descent paths (any flavor) are near-certain with documentation; naturalization tracks gated by Greek B1 and a slow Ministry of Interior. Honorary is functionally inaccessible.
 
