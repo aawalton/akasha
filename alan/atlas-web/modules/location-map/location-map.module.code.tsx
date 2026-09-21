@@ -2,6 +2,7 @@ import "maplibre-gl/dist/maplibre-gl.css"
 import type { LocationPin } from "akasha/alan/atlas-web/modules/pins/pins.module.code.ts"
 import type { StyleSpecification } from "maplibre-gl"
 import { useEffect, useRef } from "react"
+import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 type LocationMapProps = {
   points: readonly LocationPin[]
