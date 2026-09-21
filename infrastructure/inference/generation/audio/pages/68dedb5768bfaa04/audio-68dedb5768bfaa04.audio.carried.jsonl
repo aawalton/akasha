@@ -1,0 +1,8 @@
+{"id":"01a0c64f-1cb8-7948-b6f1-b017ff491319"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-68dedb5768bfaa04"}
+{"text":"The blue one. I don't even know what it's about. I liked the weight of it in my hand."}
+{"title":"moss-tts voice-clone @ 2026-07-17T21:31:47.818Z"}
+{"type":"page-type/audio"}

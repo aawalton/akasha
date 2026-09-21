@@ -1,0 +1,8 @@
+{"id":"01a0c64f-1cb8-7417-9804-63e58ac801fe"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-d83ca871f9706af4"}
+{"text":"I picked my next book, by the way."}
+{"title":"moss-tts voice-clone @ 2026-07-17T21:30:03.562Z"}
+{"type":"page-type/audio"}

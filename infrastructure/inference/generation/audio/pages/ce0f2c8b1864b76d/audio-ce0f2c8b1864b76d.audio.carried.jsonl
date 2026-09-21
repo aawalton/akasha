@@ -1,0 +1,8 @@
+{"id":"01a0c64f-1cb8-7406-ad43-e4547fc36987"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-ce0f2c8b1864b76d"}
+{"text":"It's my aunt's, the recipe. She only ever made it for people she liked, so I felt very chosen, growing up, getting a bowl."}
+{"title":"moss-tts voice-clone @ 2026-07-17T21:26:15.655Z"}
+{"type":"page-type/audio"}
