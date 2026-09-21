@@ -91,5 +91,13 @@ export const attackResolution = {
       decisionKind: "decision-kind/absence",
       statement: "No affinity carries a gate of its own, so no affinity stands in for a read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The damage a strike deals is its base, gated, grown by the margin over twelve.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The gate is handed in with the strike rather than fixed at one.",
+    },
   ],
 } as const satisfies GameMechanic

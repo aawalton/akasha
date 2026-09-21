@@ -5,6 +5,7 @@ import {
 } from "akasha/story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.code.ts"
 
 const BASE = 1
+const NO_GATE = 1
 
 export type Reading = {
   readonly attribute: number
@@ -18,6 +19,7 @@ export function runMechanic(reading: Reading): Resolved {
     attackPower: reading.attribute,
     defense: reading.difficulty,
     baseDamage: BASE,
+    gate: NO_GATE,
     intent: reading.intent,
     bonuses: [],
     roll: reading.roll,

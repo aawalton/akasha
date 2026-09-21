@@ -2,7 +2,7 @@ import { heldIntent } from "akasha/story/game/mechanic/modules/action-intent/act
 import type { Rolled } from "akasha/story/game/mechanic/modules/dice-reading/dice-reading.module.code.ts"
 import type { Bonus } from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 
-const GATE = 1
+const WHOLE = 1
 const MARGIN_DIVISOR = 12
 const CRIT_MARGIN_FLOOR = 6
 const CRIT_SCALE = 1.5
@@ -14,6 +14,7 @@ export type Reading = {
   readonly attackPower: number
   readonly defense: number
   readonly baseDamage: number
+  readonly gate: number
   readonly intent: number
   readonly roll: Rolled
   readonly bonuses: readonly Bonus[]
@@ -50,11 +51,12 @@ export function runMechanic(reading: Reading): Resolved {
   const margin = effectiveScore - reading.defense
   const banded = bandedBy(margin, reading.roll)
   const counted = banded.band === "crit" ? Math.max(margin, CRIT_MARGIN_FLOOR) : margin
-  const dealt = (reading.baseDamage + counted / MARGIN_DIVISOR) * banded.scale
+  const grown = WHOLE + counted / MARGIN_DIVISOR
+  const dealt = reading.baseDamage * reading.gate * grown * banded.scale
   return {
     hit: banded.hit,
     band: banded.band,
-    gate: GATE,
+    gate: reading.gate,
     intent,
     margin,
     effectiveScore,
