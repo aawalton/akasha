@@ -1,9 +1,7 @@
 import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
 import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
-import {
-  isLiked,
-  ratingRung,
-} from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
+import { isLiked } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "grade">
@@ -97,7 +95,8 @@ function artistIsLiked(artist: CatalogArtist, byArtist: SongsByArtist): boolean 
 
 function loveOf(artist: CatalogArtist, byArtist: SongsByArtist): number {
   const liked = songsOf(byArtist, artist).filter((song) => isLiked(song.grade)).length
-  return ratingRung(artist.grade) * GRADE_WEIGHT + liked
+  const rung = artist.grade === undefined ? -1 : gradeProperty.values.indexOf(artist.grade)
+  return rung * GRADE_WEIGHT + liked
 }
 
 function genresOf(artist: CatalogArtist): readonly string[] {

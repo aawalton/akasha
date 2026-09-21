@@ -262,6 +262,24 @@ describe("selectNextExploration", () => {
     expect(answer.artist.slug).toBe("higher")
   })
 
+  test("weighs an artist Alan has not graded below one he graded `F`", () => {
+    const held = catalog(
+      [
+        artist("nograde", { title: "A Nograde" }),
+        artist("worst", { title: "B Worst", grade: "F" }),
+      ],
+      [
+        song("nograde-one", "nograde", { title: "One", grade: "A" }),
+        song("nograde-two", "nograde", { title: "Two" }),
+        song("worst-one", "worst", { title: "One", grade: "A" }),
+        song("worst-two", "worst", { title: "Two" }),
+      ]
+    )
+    const answer = selectNextExploration(held)
+    if (answer.kind !== "song-in-liked-artist") throw new Error("no song was offered")
+    expect(answer.artist.slug).toBe("worst")
+  })
+
   test("answers with a new artist where no liked artist has a song left", () => {
     const held = catalog(
       [artist("loved", { title: "Loved", grade: "A" }), artist("fresh", { title: "Fresh" })],

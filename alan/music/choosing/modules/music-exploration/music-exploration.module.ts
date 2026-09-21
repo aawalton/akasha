@@ -84,6 +84,14 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An artist's own grade weighs as how far along the ladder that grade sits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An artist Alan has not graded weighs below an artist graded `F`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The answer is exhausted where no song and no artist is left to offer.",
     },
     {

@@ -11,10 +11,6 @@ export const LIKED_RATINGS: ReadonlySet<MusicRating> = new Set<MusicRating>(
   MUSIC_RATINGS.slice(MUSIC_RATINGS.indexOf(LIKED_FROM))
 )
 
-export function ratingRung(rating: MusicRating | undefined): number {
-  return rating === undefined ? -1 : MUSIC_RATINGS.indexOf(rating)
-}
-
 export function isLiked(rating: MusicRating | undefined): boolean {
   return rating !== undefined && LIKED_RATINGS.has(rating)
 }
