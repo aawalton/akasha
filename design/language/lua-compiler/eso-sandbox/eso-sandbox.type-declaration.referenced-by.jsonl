@@ -860,6 +860,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-window/skill-point-finder-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-saved-vars/item-browser-saved-vars.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-special-names/item-browser-special-names.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"}

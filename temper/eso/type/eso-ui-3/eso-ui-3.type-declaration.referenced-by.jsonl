@@ -138,6 +138,7 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-global/item-browser-global.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tab/item-browser-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"}

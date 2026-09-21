@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/lib-zone/modules/zone-queries/zone-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-map-settings/minimap-map-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tab/item-browser-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tooltip-extension/item-browser-tooltip-extension.module.code.ts"}
