@@ -70,6 +70,11 @@ export const landingChangeComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A landing folds a schema row into the rows the tree holds, by the key that row states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The body a fold weighs its rows against is the first a row for that path names.",
     },
     {

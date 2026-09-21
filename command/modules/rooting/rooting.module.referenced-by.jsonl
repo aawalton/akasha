@@ -53,6 +53,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/modules/cli/cli.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/modules/cli/cli.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/modules/gate-building/gate-building.module.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/modules/rooting/rooting.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.test.ts"}

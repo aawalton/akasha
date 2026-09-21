@@ -16,6 +16,10 @@ import type { Settling } from "akasha/page/index/modules/settling/index-settling
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import {
+  carryingIn,
+  schemaFiled,
+} from "akasha/page/type/modules/type-schema/type-schema.module.code.ts"
+import {
   bodyOf,
   shapeIn,
   shapesFiled,
@@ -106,13 +110,21 @@ type Rowing = {
   readonly bodied: (lines: readonly string[]) => string
 }
 
+function sortedRows(lines: readonly string[]): string {
+  return [...lines]
+    .sort()
+    .map((one) => `${one}\n`)
+    .join("")
+}
+
 const REFERENCES: Rowing = {
   keyOf: (line) => line,
-  bodied: (lines) =>
-    [...lines]
-      .sort()
-      .map((one) => `${one}\n`)
-      .join(""),
+  bodied: sortedRows,
+}
+
+const SCHEMA: Rowing = {
+  keyOf: (line) => carryingIn(line)?.key ?? null,
+  bodied: sortedRows,
 }
 
 const SHAPES: Rowing = {
@@ -131,6 +143,7 @@ const SHAPES: Rowing = {
 
 function rowingFor(path: string): Rowing | null {
   if (referencesFiled(path)) return REFERENCES
+  if (schemaFiled(path)) return SCHEMA
   return shapesFiled(path) ? SHAPES : null
 }
 

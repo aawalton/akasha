@@ -37,6 +37,12 @@ export function schemaAt(pageTypePath: string): string | null {
   return besideAt(pageTypePath, SECTION, HOLDS)
 }
 
+const ENDING = `.${SECTION}.${HOLDS}`
+
+export function schemaFiled(path: string): boolean {
+  return path.endsWith(ENDING)
+}
+
 export function carryingOf(one: Carried, shape: Shape | undefined): Carrying {
   return {
     key: one.key,

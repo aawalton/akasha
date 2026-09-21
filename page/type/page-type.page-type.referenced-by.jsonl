@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/applying/applying.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/install-linking/install-linking.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/page/tree/page-tree.command.test.ts"}

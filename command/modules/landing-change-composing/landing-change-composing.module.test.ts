@@ -16,12 +16,17 @@ import {
   besideRebased,
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
+  bodyOf,
+  idOf,
   indexedRepo,
   pageOf,
   textIn,
   scratch as world,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -203,4 +208,101 @@ test("a folder move keeps a row another landing filed while the move was judged"
   expect(body).toContain(SECOND_PAGE)
   expect(body).toContain(NAMED_INSIDE)
   expect(body).not.toContain(NAMED_BEFORE)
+})
+
+const GENERATING = join(rootOf(import.meta.dir), "page/type/page-type.page-type.type-generator.ts")
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}`
+
+const PARENT_AT = "akasha/five/parent.page-type.ts"
+
+const CARRIER_AT = `${FROM}/carrier.page-type.ts`
+
+const CARRIER_INTO = `${INTO}/carrier.page-type.ts`
+
+const SCHEMA_INTO = `${INTO}/carrier.page-type.schema.jsonl`
+
+const holding = (slugs: readonly string[]): readonly Record<string, unknown>[] =>
+  slugs.map((one) => ({ pagePropertySlug: one, required: false, many: false }))
+
+const parentOf = (slugs: readonly string[]): string =>
+  bodyOf({
+    id: idOf("2"),
+    pageTypeSlug: "page-type",
+    slug: "parent",
+    extends: [DOMAIN_AT],
+    properties: holding(slugs),
+  })
+
+const carrierOf = (slugs: readonly string[], filing: boolean): string =>
+  bodyOf({
+    id: idOf("1"),
+    pageTypeSlug: "page-type",
+    slug: "carrier",
+    extends: ["page-type/parent"],
+    properties: holding(slugs),
+    ...(filing ? { schema: "jsonl" } : {}),
+  })
+
+const FILING: Readonly<Record<string, string>> = {
+  ".gitignore": "*.uncommitted.*\n",
+  "akasha/page-type.page-type.ts": bodyOf({
+    id: idOf("3"),
+    pageTypeSlug: "page-type",
+    slug: "page-type",
+    extends: [DOMAIN_AT],
+    properties: [],
+    typeGenerator: "ts",
+  }),
+  "akasha/page-type.page-type.type-generator.ts": `export { generateTypes, couldTurn } from "${GENERATING}"\n`,
+  [PARENT_AT]: parentOf([]),
+  [CARRIER_AT]: carrierOf(["note"], false),
+}
+
+async function carrierFiling(): Promise<string> {
+  const root = indexedRepo(FILING)
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "the beside files are on the tree"])
+  const said = await applied(root, null, "the carrier files a schema", NO_GATE, null, [], {
+    rows: [{ kind: "add", path: CARRIER_AT, content: carrierOf(["note"], true) }],
+    running: RUNNING,
+  })
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  return root
+}
+
+async function movedWhileCarrying(): Promise<string> {
+  const root = await carrierFiling()
+  const moves: readonly FileMove[] = git(root, ["ls-files", FROM])
+    .trim()
+    .split("\n")
+    .map((one) => ({ from: one, to: `${INTO}${one.slice(FROM.length)}` }))
+  const filing: Judging = {
+    named: ["filing"],
+    checksFor: () => ["filing"],
+    over: async () => {
+      const said = await applied(root, null, "the parent gains a property", NO_GATE, null, [], {
+        rows: [{ kind: "add", path: PARENT_AT, content: parentOf(["code"]) }],
+        running: RUNNING,
+      })
+      if ("refusals" in said) throw new Error(said.refusals.join("; "))
+      return []
+    },
+  }
+  const landed = await applied(root, null, "the folder moves", filing, null, [], {
+    rows: [{ kind: "add", path: CARRIER_INTO, content: carrierOf(["note", "test"], true) }],
+    running: { ...RUNNING, checks: true },
+    moves,
+  })
+  if ("refusals" in landed) throw new Error(landed.refusals.join("; "))
+  return root
+}
+
+test("a folder move keeps a schema row another landing filed while the move was judged", async () => {
+  const root = await movedWhileCarrying()
+
+  const body = git(root, ["show", `HEAD:${SCHEMA_INTO}`])
+
+  expect(body).toContain('"key":"test"')
+  expect(body).toContain('"key":"code"')
 })
