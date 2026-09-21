@@ -1432,6 +1432,5 @@
 {"propertySlug":"import","fileName":"audio.page-type.types.ts","path":"infrastructure/inference/generation/audio/pages/ff66ceffda509b31/audio-ff66ceffda509b31.audio.ts"}
 {"propertySlug":"import","fileName":"audio.page-type.types.ts","path":"infrastructure/inference/generation/audio/pages/ff9b740838413fdd/audio-ff9b740838413fdd.audio.ts"}
 {"propertySlug":"import","fileName":"audio.page-type.types.ts","path":"infrastructure/inference/generation/audio/pages/ffff833dae2c1cd8/audio-ffff833dae2c1cd8.audio.ts"}
-{"propertySlug":"page-domain","path":"domain/initiative/pages/nimue-audio-management.initiative.ts","id":"01a0c63d-00d2-7256-bc8e-cfe8abcfaa81"}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}
 {"propertySlug":"target-page-type","path":"persona/properties/voice-reference.relation-property.ts","id":"01a0c653-cf51-700d-8749-35ea7a65b757"}
