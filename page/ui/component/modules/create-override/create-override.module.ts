@@ -24,8 +24,9 @@ export const createOverride = {
       statement: "What replaces creating decides for itself whether to open a dialog or write.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here says whether the add button is drawn, only what pressing it does.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A view with an override draws its add button for a reader who could write no page there.",
     },
   ],
 } as const satisfies Module
