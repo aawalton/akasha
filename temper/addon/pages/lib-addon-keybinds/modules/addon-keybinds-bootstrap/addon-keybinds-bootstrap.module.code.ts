@@ -1,11 +1,11 @@
-import type { GlobalTable } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
-import { asLakTable } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
-import { onLoad } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-load/addon-keybinds-load.module.code.ts"
+import type { GlobalTable } from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import { asLakTable } from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import { onLoad } from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-load/addon-keybinds-load.module.code.ts"
 import {
   LAK_NAME,
   LAK_VERSION,
-} from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-names/addon-keybinds-names.module.code.ts"
-import type { LakTable } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-types/addon-keybinds-types.module.code.ts"
+} from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-names/addon-keybinds-names.module.code.ts"
+import type { LakTable } from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-types/addon-keybinds-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"

@@ -1,7 +1,7 @@
 import type {
   KeybindScrollData,
   LakTable,
-} from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-types/addon-keybinds-types.module.code.ts"
+} from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-types/addon-keybinds-types.module.code.ts"
 
 export type GlobalTable = Record<string, unknown>
 

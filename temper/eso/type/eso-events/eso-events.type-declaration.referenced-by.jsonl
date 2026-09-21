@@ -67,7 +67,6 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-share/keybinder-share.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-drag-methods/order-list-box-drag-methods.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-publish/order-list-box-publish.module.code.ts"}
@@ -108,6 +107,7 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-init/minimap-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-pin-sizes/minimap-pin-sizes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-toggles/minimap-toggles.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/quests-addon/modules/quests-auto-quest/quests-auto-quest.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-engine/trading-browse-engine.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"}

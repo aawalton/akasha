@@ -6,7 +6,6 @@ export const temperAddonLibrary = {
   slug: "temper-addon-library",
   definition: "the libraries temper's add-ons share in the game",
   parts: [
-    "temper-addon/temper-lib-addon-keybinds",
     "temper-addon/temper-lib-addon-menu",
     "temper-addon/temper-lib-addon-menu-order-list-box",
     "temper-addon/temper-lib-alchemy-station",

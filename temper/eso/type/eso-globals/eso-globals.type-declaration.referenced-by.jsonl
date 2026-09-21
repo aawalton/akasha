@@ -290,7 +290,6 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-codec/lccc-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-color/lccc-color.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-drag-methods/order-list-box-drag-methods.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-errors/order-list-box-errors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/modules/order-list-box-list-methods/order-list-box-list-methods.module.code.ts"}
@@ -514,6 +513,7 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-tweaks-pin-managers/minimap-tweaks-pin-managers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-ui-strings/minimap-ui-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-update/minimap-update.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/quests-addon/modules/quests-auto-quest/quests-auto-quest.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/quests-addon/modules/quests-classify/quests-classify.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/quests-addon/modules/quests-slash-command/quests-slash-command.module.code.ts"}

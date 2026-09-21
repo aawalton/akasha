@@ -103,7 +103,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/temper-keybinder-global/temper-keybinder-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/temper-quests-global/temper-quests-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/temper-saved-variables-global/temper-saved-variables-global.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/order-list-box-control-shapes/order-list-box-control-shapes.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/order-list-box-lam-shapes/order-list-box-lam-shapes.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/order-list-box-published/order-list-box-published.type-declaration.ts"}
@@ -159,6 +158,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/navigation-addon/destinations-preview-controls/destinations-preview-controls.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/navigation-addon/minimap-string-ids/minimap-string-ids.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/navigation-addon/navigation-declarations/navigation-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/trading-addon/trading-globals-declarations/trading-globals-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-global-declarations/dungeon-champion-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.ts"}

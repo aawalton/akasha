@@ -51,6 +51,7 @@ export const temperAddon = {
     "temper-addon/temper-trading-addon",
     "boolean-property/addon-library",
     "domain/temper-lccc",
+    "temper-addon/temper-lib-addon-keybinds",
   ],
   extends: ["page-type/service"],
   properties: [

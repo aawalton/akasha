@@ -1,13 +1,13 @@
-import type { GlobalTable } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
-import { asKeybindScrollData } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import type { GlobalTable } from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
+import { asKeybindScrollData } from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.code.ts"
 import {
   CATEGORY_DATA_TYPE,
   LAYER_DATA_TYPE,
-} from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-names/addon-keybinds-names.module.code.ts"
-import type { LakTable } from "akasha/temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-types/addon-keybinds-types.module.code.ts"
+} from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-names/addon-keybinds-names.module.code.ts"
+import type { LakTable } from "akasha/temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-types/addon-keybinds-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/crafting-addon/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.d.ts"
-import "akasha/temper/addon/library/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"

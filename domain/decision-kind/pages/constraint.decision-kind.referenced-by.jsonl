@@ -435,7 +435,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/items-addon/temper-items-addon.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/keybinder-addon/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/addon/keybinder-addon/temper-keybinder-addon.temper-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
-{"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.temper-addon.ts","id":"01a06207-bdfa-77c3-9c7b-c125ea77a269"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.ts","id":"01a06100-0000-7000-8000-000000000000"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-addon-menu/modules/addon-menu-constants/addon-menu-constants.module.ts","id":"01a06100-0000-7000-8000-000000000002"}
@@ -797,6 +796,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/navigation-addon/modules/map-pins-unknown-poi-04/map-pins-unknown-poi-04.module.ts","id":"01a06269-2b07-7350-94f2-869b00dfcf30"}
 {"propertySlug":"decision-kind","path":"temper/addon/navigation-addon/modules/map-pins-unknown-poi-05/map-pins-unknown-poi-05.module.ts","id":"01a06269-2b08-7090-94dc-573ef206ca16"}
 {"propertySlug":"decision-kind","path":"temper/addon/navigation-addon/modules/map-pins-unknown-poi-06/map-pins-unknown-poi-06.module.ts","id":"01a06269-2b0a-724e-9c85-f4d096833121"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-bootstrap/addon-keybinds-bootstrap.module.ts","id":"01a0605a-0518-7c9d-94e2-4a1ec6390fe3"}
 {"propertySlug":"decision-kind","path":"temper/addon/quests-addon/modules/quests-auto-quest/quests-auto-quest.module.ts","id":"01a0635f-391c-7561-9ad8-9f05904aa99c"}
 {"propertySlug":"decision-kind","path":"temper/addon/quests-addon/modules/quests-chatter-name-tables/quests-chatter-name-tables.module.ts","id":"01a0635f-391c-79f3-87e1-6c303b4a5402"}
 {"propertySlug":"decision-kind","path":"temper/addon/quests-addon/modules/quests-classify/quests-classify.module.ts","id":"01a0635f-391c-79c4-8464-429301bdaa3c"}

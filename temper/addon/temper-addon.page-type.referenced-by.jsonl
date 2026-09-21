@@ -14,7 +14,6 @@
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/interface-addon/temper-interface-addon.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/items-addon/temper-items-addon.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/keybinder-addon/temper-keybinder-addon.temper-addon.ts"}
-{"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/library/lib-addon-keybinds/temper-lib-addon-keybinds.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/temper-lib-addon-menu-order-list-box.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/library/lib-addon-menu/temper-lib-addon-menu.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/library/lib-alchemy-station/temper-lib-alchemy-station.temper-addon.ts"}
@@ -43,6 +42,7 @@
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/library/lib-treasure/temper-lib-treasure.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/library/lib-zone/temper-lib-zone.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/navigation-addon/temper-navigation-addon.temper-addon.ts"}
+{"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/pages/lib-addon-keybinds/temper-lib-addon-keybinds.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/quests-addon/temper-quests-addon.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/selector-addon/temper-selector-addon.temper-addon.ts"}
 {"propertySlug":"import","fileName":"temper-addon.page-type.types.ts","path":"temper/addon/trading-addon/temper-trading-addon.temper-addon.ts"}
