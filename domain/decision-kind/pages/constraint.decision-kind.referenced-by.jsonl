@@ -485,6 +485,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-tooltips-index/lib-sets-tip-tooltips-index.module.ts","id":"01a0623c-2df7-7095-810c-642dbebff290"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/modules/lib-sets-tip-veteran-breakdown/lib-sets-tip-veteran-breakdown.module.ts","id":"01a06231-8f1e-737c-a36f-8ed525388bae"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-sets/temper-lib-sets.eso-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-shifter-box/temper-lib-shifter-box.eso-addon.ts","id":"01a06187-3642-7d90-9056-320280df2e42"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-slash-commander/modules/slash-command/slash-command.module.ts","id":"01a06066-8401-7395-abd7-61fa46d501e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-slash-commander/temper-lib-slash-commander.eso-addon.ts","id":"01a06066-8400-790c-a2ed-5c212c9cdab7"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-table-functions/modules/table-functions/table-functions.module.ts","id":"01a06052-2ca4-7874-a41d-3892986d9cdd"}
@@ -1071,7 +1072,6 @@
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-util-tooltip/scrollable-menu-util-tooltip.module.ts","id":"01a06275-c44a-7df7-b767-4561076aeb19"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/modules/scrollable-menu-util-visible/scrollable-menu-util-visible.module.ts","id":"01a06275-c44a-7e89-9fe5-5c2fe3ca230b"}
 {"propertySlug":"decision-kind","path":"temper/lib-scrollable-menu/temper-lib-scrollable-menu.eso-addon.ts","id":"01a06275-c44a-71b2-a8e1-108e1c1dfd4b"}
-{"propertySlug":"decision-kind","path":"temper/lib-shifter-box/temper-lib-shifter-box.eso-addon.ts","id":"01a06187-3642-7d90-9056-320280df2e42"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-book-data-00/lorebooks-book-data-00.module.ts","id":"01a0617f-925f-7cbc-a32a-62339a5fd8a1"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-book-data-01/lorebooks-book-data-01.module.ts","id":"01a0617f-9260-7a7a-8d9f-22a4c3755a4b"}
 {"propertySlug":"decision-kind","path":"temper/lorebook/modules/lorebooks-book-data-02/lorebooks-book-data-02.module.ts","id":"01a0617f-9261-7011-9fb1-d2540a25dcf9"}
