@@ -79,6 +79,7 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"list-repeats","propertySlug":"repeats","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"live-shell","propertySlug":"live-shell","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"live-subagent","propertySlug":"live-subagent","fileName":null,"folderName":null}
+{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"location-exhausted","propertySlug":"exhausted","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"locked","propertySlug":"locked","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"locked-page-type","propertySlug":"locked-page-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mark-read-on-end","propertySlug":"mark-read-on-end","fileName":null,"folderName":null}

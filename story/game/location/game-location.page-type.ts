@@ -13,6 +13,10 @@ export const gameLocation = {
     { pageProperty: "relation-property/holding-game", required: true, many: false },
     { pageProperty: "relation-property/within-location", required: false, many: false },
     { pageProperty: "number-property/location-depth", required: false, many: false },
+    { pageProperty: "text-property/location-theme", required: false, many: false },
+    { pageProperty: "text-property/location-description", required: false, many: false },
+    { pageProperty: "text-property/location-exits", required: false, many: true, maxCount: null },
+    { pageProperty: "boolean-property/location-exhausted", required: false, many: false },
   ],
   decisions: [
     {
@@ -34,5 +38,12 @@ export const gameLocation = {
   ],
   types: "ts",
   schema: "jsonl",
-  parts: ["relation-property/within-location", "number-property/location-depth"],
+  parts: [
+    "relation-property/within-location",
+    "number-property/location-depth",
+    "text-property/location-theme",
+    "text-property/location-description",
+    "text-property/location-exits",
+    "boolean-property/location-exhausted",
+  ],
 } as const satisfies PageType

@@ -1,0 +1,6 @@
+{"definition":"whether a place has nothing left in it for the player to find"}
+{"id":"01a0c644-4f84-7a9a-afc1-11f456bfa02a"}
+{"propertySlug":"exhausted"}
+{"slug":"location-exhausted"}
+{"type":"page-type/boolean-property"}
+{"types":"ts"}

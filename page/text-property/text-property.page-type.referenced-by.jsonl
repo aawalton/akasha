@@ -409,6 +409,9 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/entity/properties/listed-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/entity/properties/listed-note.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/entity/properties/listed-source.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/location/properties/location-description.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/location/properties/location-exits.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/location/properties/location-theme.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/card-vocabulary.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/coordinator-agent.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/game-engine.text-property.ts"}

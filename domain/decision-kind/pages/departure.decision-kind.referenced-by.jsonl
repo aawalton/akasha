@@ -3391,6 +3391,7 @@
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"decision-kind","path":"story/game/location/game-location.page-type.ts","id":"01a0c642-a40f-7f5e-8d0d-b1f9226535ca"}
 {"propertySlug":"decision-kind","path":"story/game/location/properties/location-depth.number-property.ts","id":"01a0c643-baaf-7470-8d8e-d86e077c2c54"}
+{"propertySlug":"decision-kind","path":"story/game/location/properties/location-theme.text-property.ts","id":"01a0c644-0cd0-737d-a018-b08f625629cf"}
 {"propertySlug":"decision-kind","path":"story/game/location/properties/within-location.relation-property.ts","id":"01a0c643-9ff8-7920-b68e-f2f869684b86"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}
