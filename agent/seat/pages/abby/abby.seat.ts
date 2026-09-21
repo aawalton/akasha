@@ -9,6 +9,6 @@ export const abby = {
   role: "role/interviewer",
   person: "person/alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
 } as const satisfies Seat
