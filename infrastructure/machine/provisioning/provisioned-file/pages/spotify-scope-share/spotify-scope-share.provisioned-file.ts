@@ -8,7 +8,7 @@ export const spotifyScopeShare = {
   content: "conf",
   placedBy: "link",
   onlyOn: "linux",
-  installPath: "~/.config/systemd/user/app-flatpak-com.spotify.Client-.scope.d/10-share.conf",
+  installPath: "~/.config/systemd/user/app-flatpak-com.spotify.Client-.scope.d/90-share.conf",
   reloadWith: "systemctl --user daemon-reload",
   decisions: [
     {
@@ -20,8 +20,16 @@ export const spotifyScopeShare = {
       statement: "An app holding the share systemd ships is left a hundredth of that window's.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The booster puts an app back to the shipped share once Alan looks elsewhere.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "Spotify holds a share of the same order as the window Alan is looking at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The share is named to be read after the booster's, so the booster leaves it.",
     },
     {
       decisionKind: "decision-kind/departure",
