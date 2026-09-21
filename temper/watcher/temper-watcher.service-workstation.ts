@@ -8,6 +8,8 @@ export const temperWatcher = {
   enabled: true,
   needsSecrets: true,
   systemd: {
+    after: ["page-service.service"],
+    wants: ["page-service.service"],
     restart: "on-failure",
     restartDelaySeconds: 5,
     startLimitIntervalSeconds: 0,
@@ -50,6 +52,10 @@ export const temperWatcher = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The watcher reaches every page over page-service rather than over the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The unit is ordered after page-service and wants it, because of that reach.",
     },
   ],
   parts: [
