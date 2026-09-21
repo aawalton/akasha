@@ -82,6 +82,18 @@ export const shadow = {
       statement: "A body read at that commit is read once for a path and held for that reading.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "One reading of the index answers every change starting from one commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That reading is dropped once a change starting from another commit is cast.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change starting from no commit is cast over a reading of its own.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No page a commit holds is read from the working tree while a change is judged.",
     },
