@@ -1,11 +1,8 @@
 import type { CommonLanguageTerm } from "akasha/domain/standard-agent-english/term/common-language-term/common-language-term.page-type.types.ts"
 
-export const row = {
-  id: "01a0c602-22b5-7860-9cef-63c07e75deee",
+export const their = {
+  id: "01a0c62a-e01b-71b8-9923-f6a96b54bb89",
   type: "page-type/common-language-term",
-  slug: "row",
-  spellings: [
-    { partOfSpeech: "part-of-speech/noun", spelling: "row" },
-    { partOfSpeech: "part-of-speech/noun", spelling: "rows" },
-  ],
+  slug: "their",
+  spellings: [{ partOfSpeech: "part-of-speech/determiner", spelling: "their" }],
 } as const satisfies CommonLanguageTerm

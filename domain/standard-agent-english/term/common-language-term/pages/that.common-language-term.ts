@@ -1,11 +1,11 @@
 import type { CommonLanguageTerm } from "akasha/domain/standard-agent-english/term/common-language-term/common-language-term.page-type.types.ts"
 
-export const kind = {
-  id: "01a0c601-b548-71b4-b34e-5b553af84e0f",
+export const that = {
+  id: "01a0c62b-06ba-7ea6-b21c-c52588626441",
   type: "page-type/common-language-term",
-  slug: "kind",
+  slug: "that",
   spellings: [
-    { partOfSpeech: "part-of-speech/noun", spelling: "kind" },
-    { partOfSpeech: "part-of-speech/noun", spelling: "kinds" },
+    { partOfSpeech: "part-of-speech/determiner", spelling: "that" },
+    { partOfSpeech: "part-of-speech/determiner", spelling: "those" },
   ],
 } as const satisfies CommonLanguageTerm
