@@ -1,9 +1,9 @@
 import type { TemperInventoryRule } from "akasha/temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.types.ts"
 
-export const rule81866c84 = {
+export const ruleDeconstructStolen = {
   id: "01a0c609-dc26-764b-9227-20d9dae9a377",
   type: "page-type/temper-inventory-rule",
-  slug: "rule-81866c84",
+  slug: "rule-deconstruct-stolen",
   title: "Launder stolen equipment",
   description:
     "Launders stolen equipment that no higher-priority rule claimed, so it can be deconstructed. Place directly before equipment-deconstruct.",
