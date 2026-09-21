@@ -8,7 +8,7 @@ export const cleanOffice = {
   toDoCategory: "health",
   difficulty: "light",
   toDoDueDate: "2026-09-26",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=WEEKLY;BYDAY=SA",
   toDoSortOrder: 27,
   toDoValue: "value/health",

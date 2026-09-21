@@ -8,7 +8,7 @@ export const sanitizeFixtures = {
   toDoCategory: "health",
   difficulty: "light",
   toDoDueDate: "2026-09-28",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 28,
   toDoValue: "value/health",

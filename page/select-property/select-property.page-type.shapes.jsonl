@@ -85,6 +85,7 @@
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"platform","propertySlug":"platform","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"player-color","propertySlug":"player-color","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"primary-muscles","propertySlug":"primary-muscles","fileName":null,"folderName":null}
+{"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"priority","propertySlug":"priority","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"production-status","propertySlug":"production-status","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"proof-status","propertySlug":"proof-status","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"proposition-kind","propertySlug":"proposition-kind","fileName":null,"folderName":null}
@@ -113,7 +114,6 @@
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"status","propertySlug":"status","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"stock-scope","propertySlug":"stock-scope","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"to-do-category","propertySlug":"to-do-category","fileName":null,"folderName":null}
-{"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"to-do-priority","propertySlug":"to-do-priority","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"topic-status","propertySlug":"status","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"track-type","propertySlug":"track-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"use-limit","propertySlug":"use-limit","fileName":null,"folderName":null}

@@ -8,7 +8,7 @@ export const brushFloss = {
   toDoCategory: "health",
   difficulty: "trivial",
   toDoDueDate: "2026-09-22",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 49,
   toDoValue: "value/health",

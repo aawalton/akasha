@@ -8,7 +8,7 @@ export const proteinDrinkCreatine = {
   toDoCategory: "health",
   difficulty: "trivial",
   toDoDueDate: "2026-09-22",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-09-21T13:34:48.909Z",

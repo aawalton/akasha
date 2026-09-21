@@ -14,7 +14,7 @@ export const completedTasks = {
     { pageProperty: "text-property/recurrence", required: false, many: false },
     { pageProperty: "text-property/category", required: false, many: false },
     { pageProperty: "text-property/to-do-slug", required: false, many: false },
-    { pageProperty: "text-property/priority", required: false, many: false },
+    { pageProperty: "select-property/priority", required: false, many: false },
     { pageProperty: "boolean-property/anchored-from-completion", required: false, many: false },
     { pageProperty: "text-property/description", required: false, many: false },
   ],

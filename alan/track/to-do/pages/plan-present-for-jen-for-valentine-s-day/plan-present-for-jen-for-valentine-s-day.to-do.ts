@@ -7,7 +7,7 @@ export const planPresentForJenForValentineSDay = {
   title: "Plan present for Jen for Valentine's Day",
   toDoCategory: "love",
   toDoDueDate: "2027-02-01",
-  toDoPriority: "p2",
+  priority: "p2",
   toDoRecurrence: "FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=1",
   toDoSortOrder: 14,
   toDoValue: "value/love",

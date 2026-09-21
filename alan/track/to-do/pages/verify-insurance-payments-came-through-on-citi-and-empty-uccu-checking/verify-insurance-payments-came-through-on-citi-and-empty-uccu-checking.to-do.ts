@@ -7,7 +7,7 @@ export const verifyInsurancePaymentsCameThroughOnCitiAndEmptyUccuChecking = {
   title: "Verify insurance payments came through on Citi and empty UCCU checking",
   toDoCategory: "wealth",
   toDoDueDate: "2026-10-01",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoSortOrder: 58,
   toDoValue: "value/wealth",
 } as const satisfies ToDo

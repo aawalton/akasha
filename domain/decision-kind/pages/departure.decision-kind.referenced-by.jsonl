@@ -3000,6 +3000,7 @@
 {"propertySlug":"decision-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
 {"propertySlug":"decision-kind","path":"page/properties/grade.rank-property.ts","id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
 {"propertySlug":"decision-kind","path":"page/properties/id.text-property.ts","id":"01a049b9-856c-7ee7-b958-f63eead00582"}
+{"propertySlug":"decision-kind","path":"page/properties/priority.select-property.ts","id":"01a0c537-0fde-7c44-baa5-1aa0541d3b1a"}
 {"propertySlug":"decision-kind","path":"page/properties/referenced-by.file-property.ts","id":"01a0a2e9-c513-7eed-aa47-3b272814218c"}
 {"propertySlug":"decision-kind","path":"page/properties/title.text-property.ts","id":"01a05fac-7582-7694-ae1f-480fe66ea27b"}
 {"propertySlug":"decision-kind","path":"page/property-entry/page-property-entry.page-type.ts","id":"01a05f80-3969-7000-8ccd-6284909fc036"}
@@ -5327,7 +5328,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/temper-watcher-enrolment.page-type.ts","id":"01a05fd3-4364-713f-be23-5bd09e86ad23"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/completion-item-path.text-property.ts","id":"01a05fc6-81fb-729c-8013-4df821b1c2d7"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/due-date.calendar-date-property.ts","id":"01a0793a-2730-7efc-b4a0-869a6e3af33f"}
-{"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/priority.text-property.ts","id":"01a05fc6-81fd-7764-b99b-b35b9b100540"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/rrule-rule.text-property.ts","id":"01a05fc6-81fd-7f0e-82af-5f52794a8b51"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}
 {"propertySlug":"decision-kind","path":"temper/player/skill-morph/access/temper-skill-morph-access.domain.ts","id":"01a061e2-5e38-795d-b1f0-b50d142c48d5"}

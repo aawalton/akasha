@@ -7,7 +7,7 @@ export const breakfast = {
   title: "Breakfast",
   toDoCategory: "health",
   toDoDueDate: "2026-09-22",
-  toDoPriority: "p2",
+  priority: "p2",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 40,
   toDoValue: "value/health",

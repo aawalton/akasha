@@ -8,7 +8,7 @@ export const callProviderForMedicationRefill = {
   toDoCategory: "inbox",
   difficulty: "hard",
   toDoDueDate: "2026-12-05",
-  toDoPriority: "p1",
+  priority: "p1",
   toDoRecurrence: "FREQ=DAILY;INTERVAL=90",
   toDoSortOrder: 0,
   toDoValue: "value/health",

@@ -9,7 +9,7 @@ export const shower = {
   toDoCategory: "health",
   difficulty: "light",
   toDoDueDate: "2026-09-22",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 46,
   toDoValue: "value/health",

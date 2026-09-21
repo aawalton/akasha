@@ -7,7 +7,7 @@ export const move11250FromVanguardToCitibank = {
   title: "Move $11,250 from Vanguard to Citibank",
   toDoCategory: "wealth",
   toDoDueDate: "2026-10-01",
-  toDoPriority: "p1",
+  priority: "p1",
   toDoRecurrence: "FREQ=MONTHLY;BYMONTHDAY=1",
   toDoSortOrder: 57,
   toDoValue: "value/wealth",

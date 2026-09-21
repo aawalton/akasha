@@ -8,7 +8,7 @@ export const swapBathroomTowels = {
   toDoCategory: "health",
   difficulty: "trivial",
   toDoDueDate: "2026-09-28",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 29,
   toDoValue: "value/health",

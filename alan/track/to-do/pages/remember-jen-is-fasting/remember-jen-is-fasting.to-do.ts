@@ -7,7 +7,7 @@ export const rememberJenIsFasting = {
   title: "Remember Jen is fasting",
   toDoCategory: "love",
   toDoDueDate: "2026-10-04",
-  toDoPriority: "p2",
+  priority: "p2",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=1SU",
   toDoSortOrder: 18,
   toDoValue: "value/love",

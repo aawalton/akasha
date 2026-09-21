@@ -8,7 +8,7 @@ export const laundryPutAway = {
   toDoCategory: "health",
   difficulty: "hard",
   toDoDueDate: "2026-09-21",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 52,
   toDoValue: "value/health",

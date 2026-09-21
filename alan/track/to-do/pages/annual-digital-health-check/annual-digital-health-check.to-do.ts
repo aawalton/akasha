@@ -7,7 +7,7 @@ export const annualDigitalHealthCheck = {
   title: "Annual Digital Health Check",
   toDoCategory: "health",
   toDoDueDate: "2026-11-01",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=1",
   toDoSortOrder: 54,
   toDoValue: "value/health",

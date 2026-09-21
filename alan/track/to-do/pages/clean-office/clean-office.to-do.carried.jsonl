@@ -1,11 +1,11 @@
 {"difficulty":"light"}
 {"id":"019db533-f381-779d-b280-ffed9382c432"}
+{"priority":"p3"}
 {"slug":"clean-office"}
 {"title":"Clean office"}
 {"toDoCategory":"health"}
 {"toDoDueDate":"2026-09-26"}
 {"toDoLastCompletedAt":"2026-09-19T13:45:21.397Z"}
-{"toDoPriority":"p3"}
 {"toDoRecurrence":"FREQ=WEEKLY;BYDAY=SA"}
 {"toDoSortOrder":27}
 {"toDoValue":"value/health"}

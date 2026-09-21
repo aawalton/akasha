@@ -8,7 +8,7 @@ export const cleanToilet = {
   toDoCategory: "health",
   difficulty: "hard",
   toDoDueDate: "2026-09-28",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 30,
   toDoValue: "value/health",

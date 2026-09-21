@@ -6,6 +6,6 @@ export const readPlatoSCrito = {
   slug: "read-plato-s-crito",
   title: "Read Plato's Crito",
   link: "https://alanwalton.com/story-chapter/crito-48d5dc8b",
-  toDoPriority: "p4",
+  priority: "p4",
   whatItTakes: "txt",
 } as const satisfies ToDo

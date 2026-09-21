@@ -8,7 +8,7 @@ export const laundryStartLoad = {
   toDoCategory: "health",
   difficulty: "light",
   toDoDueDate: "2026-09-28",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 34,
   toDoValue: "value/health",

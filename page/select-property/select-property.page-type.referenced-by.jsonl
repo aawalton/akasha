@@ -51,7 +51,6 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/style/appearance-experiment/properties/appearance-verdict.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/track/to-do/properties/difficulty.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-category.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-priority.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/fitness-coaching-note-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/note/properties/focus-tags.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/health/fitness/coaching/schedule/day/properties/day-of-week.select-property.ts"}
@@ -99,6 +98,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/restart.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/computed-property/properties/holds.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/multi-select-property/multi-select-property.page-type.types.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/properties/priority.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/rank-property/rank-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/view/properties/gallery-card-size.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/view/properties/group-granularity.select-property.ts"}

@@ -8,7 +8,7 @@ export const bringInTrashCans = {
   toDoCategory: "health",
   difficulty: "light",
   toDoDueDate: "2026-09-24",
-  toDoPriority: "p3",
+  priority: "p3",
   toDoRecurrence: "FREQ=WEEKLY;BYDAY=TH",
   toDoSortOrder: 37,
   toDoValue: "value/health",

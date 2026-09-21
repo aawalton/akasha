@@ -1,10 +1,10 @@
 {"id":"019db533-f381-7721-93e3-a824e4ba6b9c"}
+{"priority":"p2"}
 {"slug":"breakfast"}
 {"title":"Breakfast"}
 {"toDoCategory":"health"}
 {"toDoDueDate":"2026-09-22"}
 {"toDoLastCompletedAt":"2026-09-21T15:13:53.149Z"}
-{"toDoPriority":"p2"}
 {"toDoRecurrence":"FREQ=DAILY"}
 {"toDoSortOrder":40}
 {"toDoValue":"value/health"}

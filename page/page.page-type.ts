@@ -122,6 +122,7 @@ export const page = {
     "page-type/url-property",
     "page-type/view",
     "relation-property/page-page-type",
+    "select-property/priority",
     "service-workstation/page-service",
     "service-workstation/sweep-cost-records",
     "text-property/cover",

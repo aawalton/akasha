@@ -8,7 +8,7 @@ export const vyvanse = {
   difficulty: "trivial",
   toDoDueDate: "2026-09-22",
   dueTime: "06:00",
-  toDoPriority: "p1",
+  priority: "p1",
   toDoRecurrence: "FREQ=DAILY",
   toDoValue: "value/health",
   toDoLastCompletedAt: "2026-09-21T15:03:26.888Z",
