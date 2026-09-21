@@ -1,13 +1,8 @@
 "use client"
 
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import type {
-  ChapterProsePastTurns,
-  ChapterProseTitles,
-} from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+import type { PanelRun } from "akasha/story/game/panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"
-import type { ClientBeat } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
-import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { NarrativeLog } from "akasha/story/ui/modules/narrative-log/narrative-log.module.code.tsx"
 import { NewestDivider } from "akasha/story/ui/modules/newest-divider/newest-divider.module.code.tsx"
 import {
@@ -35,15 +30,7 @@ export function PlayedChannel({
   titles,
   pastTurns,
   gameExternalId,
-}: {
-  turns: readonly ClientStoryTurn[]
-  beats: readonly ClientBeat[] | null | undefined
-  hrefById: ReadonlyMap<string, string>
-  earlier: number
-  titles: ChapterProseTitles | undefined
-  pastTurns: ChapterProsePastTurns | undefined
-  gameExternalId: string | undefined
-}) {
+}: PanelRun) {
   const rows = useMemo(() => {
     const options: ProseRenderOptions = {
       ...(titles === undefined ? {} : { titles }),

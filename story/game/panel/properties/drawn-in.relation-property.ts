@@ -7,5 +7,11 @@ export const drawnIn = {
   propertySlug: "place",
   definition: "the place in a played story's layout a panel is drawn in",
   targetPageType: "page-type/panel-place",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every panel names a place, so no panel is drawn nowhere.",
+    },
+  ],
   types: "ts",
 } as const satisfies RelationProperty

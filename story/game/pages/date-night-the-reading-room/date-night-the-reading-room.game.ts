@@ -22,4 +22,5 @@ export const dateNightTheReadingRoom = {
   gmContext: "json",
   narrativeContinuity: "json",
   turns: "jsonl",
+  panels: ["game-panel/prose-channel"],
 } as const satisfies Game

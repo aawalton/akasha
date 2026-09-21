@@ -5,4 +5,4 @@ const { panelBy } =
 const { QuestsPanel } =
   globalThis.akashaDrawing["akasha/story/ui/modules/quests-panel/quests-panel.module.code.tsx"]
 
-export const Panel = panelBy(QuestsPanel, (envelope) => ({ quests: envelope.quests ?? null }))
+export const Panel = panelBy(QuestsPanel, ({ envelope }) => ({ quests: envelope.quests ?? null }))

@@ -22,6 +22,7 @@ export const gamePanel = {
     "module/panel-loading",
     "relation-property/drawn-in",
     "page-type/panel-place",
+    "game-panel/prose-channel",
   ],
   decisions: [
     {

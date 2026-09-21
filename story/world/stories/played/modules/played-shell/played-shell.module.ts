@@ -39,5 +39,9 @@ export const playedShell = {
       decisionKind: "decision-kind/departure",
       statement: "Where a panel is drawn is the place that panel's own page names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story whose game names no panel for the run draws its prose plainly.",
+    },
   ],
 } as const satisfies Module

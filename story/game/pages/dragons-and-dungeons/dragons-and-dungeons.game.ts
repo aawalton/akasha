@@ -23,5 +23,5 @@ export const dragonsAndDungeons = {
   narrativeContinuity: "json",
   turns: "jsonl",
   towerSessions: "jsonl",
-  panels: ["game-panel/story-so-far"],
+  panels: ["game-panel/story-so-far", "game-panel/prose-channel"],
 } as const satisfies Game

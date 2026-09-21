@@ -63,6 +63,7 @@ export const haremHotel = {
     "game-panel/character-sheet",
     "game-panel/quest-list",
     "game-panel/story-so-far",
+    "game-panel/prose-channel",
   ],
   loreEntries: "jsonl",
   designEntries: "jsonl",

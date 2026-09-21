@@ -2,6 +2,7 @@
 {"externalId":"partners"}
 {"gameEngine":"awen"}
 {"id":"01a0673f-a3d6-7002-8d32-922da0d57d57"}
+{"panels":["game-panel/prose-channel"]}
 {"rolls":"jsonl"}
 {"slug":"partners"}
 {"states":"jsonl"}
