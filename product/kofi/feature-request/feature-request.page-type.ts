@@ -19,4 +19,6 @@ export const featureRequest = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: ["text-property/feature-request-ask"],
+  properties: [{ pageProperty: "text-property/feature-request-ask", required: true, many: false }],
 } as const satisfies PageType
