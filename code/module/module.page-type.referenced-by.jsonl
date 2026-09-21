@@ -623,7 +623,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/mobile-ssh/mobile-ssh.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/push-tap-script/push-tap-script.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/sim-auth/sim-auth.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.ts"}

@@ -767,7 +767,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.ts","id":"01a05cee-e560-793f-a803-19a1b3c458ac"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/mobile-ssh/mobile-ssh.module.ts","id":"01a05cee-e560-740b-bd8f-abdea9c8358c"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/push-tap-script/push-tap-script.module.ts","id":"01a05cee-e560-71d2-95a2-e4f789ace504"}
-{"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-auth/sim-auth.module.ts","id":"01a05cee-e560-7b4b-9878-974e9ad04004"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.ts","id":"01a05cee-e560-7b19-818c-dae87acdf7de"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.ts","id":"01a05cee-e560-774c-8033-bd5fef37e8aa"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.ts","id":"01a05cee-e560-74ed-a1cf-c9f340983fda"}

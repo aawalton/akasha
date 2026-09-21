@@ -23,7 +23,6 @@ export const mobileCli = {
     "module/mobile-app",
     "module/mobile-ssh",
     "module/push-tap-script",
-    "module/sim-auth",
     "module/sim-driver",
     "module/sim-macbook",
     "module/sim-run-tree",

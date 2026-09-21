@@ -129,7 +129,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/local-cut-lock/local-cut-lock.module.ts","id":"01a05cee-e560-799d-8874-d6c9518059c9"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/mac-build-serialization/mac-build-serialization.module.ts","id":"01a05cee-e560-7580-bebc-253f65ce563a"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/push-tap-script/push-tap-script.module.ts","id":"01a05cee-e560-71d2-95a2-e4f789ace504"}
-{"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-auth/sim-auth.module.ts","id":"01a05cee-e560-7b4b-9878-974e9ad04004"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.ts","id":"01a05cee-e560-74ed-a1cf-c9f340983fda"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/sim-session/sim-session.module.ts","id":"01a05cee-e560-7fa8-b30a-1b0defa5f6c3"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.ts","id":"01a05cee-e560-7b4d-8df2-e5be4918211f"}
