@@ -1,0 +1,7 @@
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A page of a game's world sits under that game's own folder."},{"decisionKind":"decision-kind/departure","statement":"The type a body imports is read off the page type rather than spelled here."},{"decisionKind":"decision-kind/departure","statement":"A key with nothing under it is left off the body."},{"decisionKind":"decision-kind/absence","statement":"Nothing here lands what it composes."}]}
+{"definition":"where a page of a game's world is filed, and the body filed there"}
+{"id":"01a0c652-d33d-74fe-b0c3-150605c0745d"}
+{"slug":"page-filing"}
+{"test":"ts"}
+{"type":"page-type/module"}

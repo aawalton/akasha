@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"story/game/modules/page-filing/page-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.type-generator.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}

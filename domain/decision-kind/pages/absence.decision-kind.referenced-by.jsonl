@@ -1702,6 +1702,7 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/essence-absorption/essence-absorption.game-mechanic.ts","id":"01a0c506-b2d7-7a71-adff-ca0e9c867ef6"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/leveling/leveling.game-mechanic.ts","id":"01a0c486-35ba-793b-b74b-bcb463138ca2"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts","id":"01a0c473-6eee-71da-89a1-85de833a7921"}
+{"propertySlug":"decision-kind","path":"story/game/modules/page-filing/page-filing.module.ts","id":"01a0c652-d33d-74fe-b0c3-150605c0745d"}
 {"propertySlug":"decision-kind","path":"story/game/modules/row-reading/row-reading.module.ts","id":"01a0c64d-a823-7215-9e79-47ac142bb83a"}
 {"propertySlug":"decision-kind","path":"story/game/panel/game-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
 {"propertySlug":"decision-kind","path":"story/game/panel/modules/panel-drawing/panel-drawing.module.ts","id":"01a0c4a0-5cab-7fbb-bff7-7af9f2ab4dbf"}
