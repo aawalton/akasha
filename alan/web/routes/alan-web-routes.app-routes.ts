@@ -42,6 +42,7 @@ export const alanWebRoutes = {
     "route/alan-web-page-listing",
     "route/alan-web-principles",
     "route/alan-web-privacy",
+    "route/alan-web-requests",
     "route/alan-web-services",
     "route/alan-web-sign-in",
     "route/alan-web-sign-out",

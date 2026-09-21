@@ -84,6 +84,7 @@ const AUTH_CONFIG: RouteAccessConfig = {
     /^\/terms$/,
     /^\/sms$/,
     /^\/privacy$/,
+    /^\/requests$/,
   ],
   externalRedirectPattern: /^https:\/\/[a-z0-9-]+\.alanwalton\.com(\/|$)/,
 }
