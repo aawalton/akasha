@@ -8,7 +8,7 @@
 {"genre":["litrpg"]}
 {"gmContext":"json"}
 {"id":"01a0673f-a3d7-7000-afc1-88181be588cb"}
-{"mechanics":[]}
+{"mechanics":["game-mechanic/focus-max","game-mechanic/hp-max","game-mechanic/initiative","game-mechanic/ment-def","game-mechanic/phys-atk","game-mechanic/phys-def","game-mechanic/stam-max"]}
 {"mechanicsWeight":"heavy"}
 {"resolution":"formula"}
 {"resolutionMechanism":"json"}

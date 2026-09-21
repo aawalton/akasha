@@ -24,5 +24,13 @@ export const theTower = {
   characters: "jsonl",
   towerFloors: "jsonl",
   towerSessions: "jsonl",
-  mechanics: [],
+  mechanics: [
+    "game-mechanic/focus-max",
+    "game-mechanic/hp-max",
+    "game-mechanic/initiative",
+    "game-mechanic/ment-def",
+    "game-mechanic/phys-atk",
+    "game-mechanic/phys-def",
+    "game-mechanic/stam-max",
+  ],
 } as const satisfies Game

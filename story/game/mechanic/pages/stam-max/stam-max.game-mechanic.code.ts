@@ -2,10 +2,9 @@ import { summingBy } from "akasha/story/game/mechanic/modules/linear-stat/linear
 
 export const runMechanic = summingBy(
   [
-    { of: "might", by: 1.5 },
-    { of: "finesse", by: 1 },
-    { of: "weapon.atk", by: 1 },
+    { of: "vitality", by: 4 },
+    { of: "finesse", by: 2 },
   ],
   0,
-  "none"
+  "nearest"
 )

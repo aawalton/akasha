@@ -36,3 +36,11 @@ export function summed(summing: Summing): Summed {
   }
   return { answered: roundedBy(summing.rounding, sum) }
 }
+
+export function summingBy(
+  terms: readonly Term[],
+  constant: number,
+  rounding: Rounding
+): (reading: Reading) => Summed {
+  return (reading) => summed({ terms, constant, rounding, held: reading.held })
+}
