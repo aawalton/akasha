@@ -71,6 +71,12 @@ test("a part left for the grade it carries is counted nowhere but under `already
   })
 })
 
+test("a collection holding no part answers zeros and takes nothing", () => {
+  const chosen = chosenAmong([], false)
+  expect(chosen.counts).toEqual({ parts: 0, grading: 0, already: 0, shared: 0 })
+  expect(chosen.taking).toEqual([])
+})
+
 test("the counts are said as rows a reader takes", () => {
   expect(rowsOf(COUNTS)).toEqual(["parts\t4", "grading\t3", "already\t1", "shared\t2"])
 })
