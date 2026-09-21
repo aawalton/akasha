@@ -62,6 +62,10 @@ export const addonCompilerConfig = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A folder of declarations is the folder a declaration page's own folder sits in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The game's own names are described by the akasha folders of declarations.",
     },
     {

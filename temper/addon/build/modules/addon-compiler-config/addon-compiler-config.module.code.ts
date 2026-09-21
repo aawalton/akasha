@@ -19,6 +19,8 @@ const CODE_SUFFIX = ".module.code.ts"
 
 export const ADDON_BUILD_REL_ROOT = "temper/addon/build"
 
+const TEMPER_HEAD = "temper/"
+
 const ROOT_BASE_NAME = "tsconfig.base.json"
 
 const HELD_AT = "dist/.lua-compiler"
@@ -62,33 +64,34 @@ type Reached = {
 
 const reachedHeld = new Map<string, Reached>()
 
+function addonHolds(addonUnder: ReadonlySet<string>, folder: string): boolean {
+  for (let at = folder; at !== "" && at !== "."; at = dirname(at)) {
+    if (addonUnder.has(at)) return true
+  }
+  return false
+}
+
 function reachedIn(repoRoot: string): Reached {
   const held = reachedHeld.get(repoRoot)
   if (held !== undefined) return held
   const valueAt = new Map<string, Value>()
   const namedAt = new Map<string, string>()
   const addonUnder = new Set<string>()
-  const addonsUnder = new Set<string>()
   for (const one of valuesOfType(repoRoot, ESO_ADDON_TYPE)) {
     const folder = dirname(one.path)
     const dir = join(repoRoot, folder)
     if (valueAt.has(dir)) continue
     valueAt.set(dir, one.value)
     addonUnder.add(folder)
-    addonsUnder.add(dirname(folder))
     const named = addonManifestIn(repoRoot, dir)?.name
     if (named !== undefined && !namedAt.has(named)) namedAt.set(named, dir)
   }
   const declaring = new Set<string>()
   for (const one of valuesOfType(repoRoot, DECLARATION_TYPE)) {
-    for (const under of addonsUnder) {
-      const head = `${under}/`
-      if (!one.path.startsWith(head)) continue
-      const named = one.path.slice(head.length).split("/")[0]
-      if (named === undefined || named === "") continue
-      const folder = `${under}/${named}`
-      if (!addonUnder.has(folder)) declaring.add(join(repoRoot, folder))
-    }
+    const folder = dirname(dirname(one.path))
+    if (!folder.startsWith(TEMPER_HEAD)) continue
+    if (addonHolds(addonUnder, folder)) continue
+    declaring.add(join(repoRoot, folder))
   }
   const made: Reached = { valueAt, namedAt, declaring: [...declaring].sort() }
   reachedHeld.set(repoRoot, made)
