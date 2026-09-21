@@ -6,6 +6,7 @@ import "akasha/temper/addon/pages/lib-sets/lib-sets-search-ui-shapes-3/lib-sets-
 import "akasha/temper/addon/pages/lib-sets/lib-sets-search-ui-shapes/lib-sets-search-ui-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const getLocalizedText = LibSets.GetLocalizedText
 

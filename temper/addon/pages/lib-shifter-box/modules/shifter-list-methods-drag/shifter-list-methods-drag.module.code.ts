@@ -52,6 +52,7 @@ import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 ShifterBoxListProto.OnGlobalMouseDownDuringDrag = function (
   this: ShifterBoxList,

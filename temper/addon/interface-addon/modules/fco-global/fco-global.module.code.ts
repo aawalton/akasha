@@ -6,6 +6,7 @@ import { openLAMAddonSettings } from "akasha/temper/addon/interface-addon/module
 import { playerPinPingPong } from "akasha/temper/addon/interface-addon/modules/fco-map/fco-map.module.code.ts"
 import { muteSFXSound } from "akasha/temper/addon/interface-addon/modules/fco-sounds/fco-sounds.module.code.ts"
 import { togglePromotionalEventTrackerUi } from "akasha/temper/addon/interface-addon/modules/fco-ui/fco-ui.module.code.ts"
+import "akasha/temper/addon/interface-addon/fco-global-declarations/fco-global-declarations.type-declaration.d.ts"
 
 globalThis.TemperFCOChangeStuff = {
   openLAMAddonSettings,

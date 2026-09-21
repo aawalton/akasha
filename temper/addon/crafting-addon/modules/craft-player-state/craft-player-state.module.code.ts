@@ -29,6 +29,7 @@ import "akasha/temper/eso/type/eso-inventory-containers/eso-inventory-containers
 import "akasha/temper/eso/type/eso-inventory/eso-inventory.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export interface CraftSkillEntry {
   level: number

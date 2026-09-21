@@ -7,6 +7,7 @@ import { portToFriend } from "akasha/temper/addon/housing-addon/modules/housing-
 import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/housing-addon/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 interface HouseEditbox {
   SetText: (this: HouseEditbox, text: string) => void

@@ -9,6 +9,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const LOCKED_MOUNT_NAME_COLOR_PREFIX = "|cFF0000"
 const LOCKED_MOUNT_NAME_COLOR_SUFFIX = "|r"

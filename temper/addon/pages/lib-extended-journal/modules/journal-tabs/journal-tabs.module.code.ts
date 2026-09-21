@@ -20,6 +20,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 const Controls = Internal.controls
 

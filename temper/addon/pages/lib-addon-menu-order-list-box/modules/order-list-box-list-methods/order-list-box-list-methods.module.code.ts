@@ -26,6 +26,7 @@ import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-scroll-list-extra/eso-scroll-list-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function populate(this: OrderListBox, orderListBoxData: OrderListBoxData): ListEntry[] {
   const masterList = orderListBoxData.listEntries ?? []

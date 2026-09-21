@@ -15,6 +15,7 @@ import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function addEnglishName(pin: ZoMapPinObject): undefined {
   const sv = getSavedVariables()

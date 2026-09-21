@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-world-size/gps-world-size.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-adapter/histoire-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-cache-guild/histoire-cache-guild.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-cache-status-bar/histoire-cache-status-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-cache/histoire-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-category-class/histoire-category-class.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-event-processor/histoire-event-processor.module.code.ts"}

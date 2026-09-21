@@ -8,6 +8,7 @@ import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-nu
 import { requireSavedVariables } from "akasha/temper/addon/narrow/modules/require-saved-variables/require-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/companions-addon/companions-saved-variables-declarations/companions-saved-variables-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/temper-saved-variables-global/temper-saved-variables-global.type-declaration.d.ts"
 export interface SavedCompanionEquipmentSlot {
   displayText: string
   qualityColor: [number, number, number]

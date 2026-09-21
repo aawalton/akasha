@@ -30,6 +30,7 @@ import "akasha/temper/addon/library-type/lib-shifter-box/lib-shifter-box.type-de
 import "akasha/temper/addon/pages/lib-addon-menu-order-list-box/order-list-box-lam-shapes/order-list-box-lam-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 const EVENT_ADD_ON_LOADED_NAMESPACE = `${LIB_IDENTIFIER}_EVENT_ADD_ON_LOADED`
 

@@ -11,6 +11,8 @@ import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-cont
 import "akasha/temper/addon/library-type/lib-extended-journal/lib-extended-journal.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/web/item-browser/item-browser-global-declarations/item-browser-global-declarations.type-declaration.d.ts"
 
 let currentTooltip: TooltipControl | undefined
 

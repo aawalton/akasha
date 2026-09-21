@@ -1,4 +1,5 @@
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export type GlobalTable = Record<string, unknown>
 

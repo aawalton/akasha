@@ -40,6 +40,7 @@ import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-cont
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export const POWER_TYPE_LABELS: Record<number, string> = {
   [COMBAT_MECHANIC_FLAGS_MAGICKA]: "_MAGICKA",

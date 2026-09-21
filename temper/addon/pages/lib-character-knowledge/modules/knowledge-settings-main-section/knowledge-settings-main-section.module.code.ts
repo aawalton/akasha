@@ -8,6 +8,7 @@ import "akasha/temper/addon/pages/lib-character-knowledge/knowledge-string-ids/k
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 interface LamApi {
   OpenToPanel: (this: LamApi, panel: unknown) => void

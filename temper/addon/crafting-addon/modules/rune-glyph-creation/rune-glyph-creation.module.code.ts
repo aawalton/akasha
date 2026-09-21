@@ -13,6 +13,7 @@ import "akasha/temper/eso/type/eso-enchanting-station/eso-enchanting-station.typ
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 type RuneGlyphList = RuneGlyphDef[]
 function asRuneGlyphList(t: Record<number, RuneGlyphDef>): RuneGlyphList {

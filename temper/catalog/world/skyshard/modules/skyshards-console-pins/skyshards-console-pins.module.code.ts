@@ -23,6 +23,7 @@ import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaratio
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 type MaybeSkyshardPin = SkyshardPin | undefined
 

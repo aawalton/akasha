@@ -11,6 +11,7 @@ import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custo
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 ShifterBoxProto.UpdateCursorTLC = function (
   this: ShifterBox,

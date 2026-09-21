@@ -49,6 +49,7 @@ import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custo
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export const ShifterBoxProto = ZO_Object.Subclass<ShifterBoxClass>()
 

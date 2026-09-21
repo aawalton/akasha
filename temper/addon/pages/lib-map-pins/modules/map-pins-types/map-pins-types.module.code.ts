@@ -4,6 +4,7 @@ import "akasha/design/language/lua-compiler/language-extensions/language-extensi
 import "akasha/temper/addon/library-type/lib-debug-logger/lib-debug-logger.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export interface LmpPinData {
   pinTypeString?: string

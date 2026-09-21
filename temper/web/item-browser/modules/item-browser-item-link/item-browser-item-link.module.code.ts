@@ -32,6 +32,7 @@ import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-
 import "akasha/temper/eso/type/eso-item-browser-strings/eso-item-browser-strings.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 function makeItemLink(this: void, id: number, flags: number, ext?: number): string {
   const flagDefs = getData().flags

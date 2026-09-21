@@ -64,6 +64,7 @@ import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-inventory/eso-inventory.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const libUtil = lib.Util
 

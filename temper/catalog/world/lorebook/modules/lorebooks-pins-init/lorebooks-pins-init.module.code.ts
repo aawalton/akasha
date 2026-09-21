@@ -60,6 +60,7 @@ import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaratio
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 function asCompassPinControl(value: unknown): CompassPinControl {
   return value as CompassPinControl

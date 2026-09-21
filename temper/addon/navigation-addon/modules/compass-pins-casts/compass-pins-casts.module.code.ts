@@ -7,6 +7,7 @@ import type {
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export type GlobalTable = Record<string, unknown>
 

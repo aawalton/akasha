@@ -15,6 +15,7 @@ import {
   refreshAllCompanionData,
   resetAllCompanionData,
 } from "akasha/temper/addon/companions-addon/modules/companions-command/companions-command.module.code.ts"
+import "akasha/temper/addon/library-type/temper-companions-global/temper-companions-global.type-declaration.d.ts"
 
 globalThis.TemperCompanions_RefreshAllData = refreshAllCompanionData
 globalThis.TemperCompanions_ResetAllData = resetAllCompanionData

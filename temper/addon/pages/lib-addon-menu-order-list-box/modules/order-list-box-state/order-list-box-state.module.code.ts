@@ -4,6 +4,7 @@ import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declarat
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 export const em = EVENT_MANAGER
 export const wm = WINDOW_MANAGER

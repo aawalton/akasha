@@ -21,6 +21,7 @@ import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-
 import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
 const WM = WINDOW_MANAGER
 const SM = SCENE_MANAGER

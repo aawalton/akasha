@@ -5,6 +5,7 @@ import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-cont
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-mail/eso-mail.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export type MailFieldType = "recipients" | "subjects" | "texts"
 

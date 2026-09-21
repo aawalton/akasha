@@ -21,6 +21,7 @@ import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-decl
 import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 interface LejList extends ZoSortFilterList {
   frame: Control

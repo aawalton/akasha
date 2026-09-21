@@ -16,6 +16,7 @@ import { getValueOrCallback } from "akasha/temper/addon/pages/lib-scrollable-men
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-combobox-shapes/scrollable-menu-combobox-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
 
 type LsmCastLocalComboBoxOptionTarget = ComboBoxOptionTarget
 function asLsmCastLocalComboBoxOptionTarget(value: unknown): LsmCastLocalComboBoxOptionTarget {

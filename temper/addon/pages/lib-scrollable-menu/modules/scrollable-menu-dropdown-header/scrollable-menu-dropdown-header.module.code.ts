@@ -23,6 +23,7 @@ import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-dropdown-s
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
 
 const constants = lib.constants
 const dropdownConstants = asLsmCastRecordStringUnknown(constants.dropdown)

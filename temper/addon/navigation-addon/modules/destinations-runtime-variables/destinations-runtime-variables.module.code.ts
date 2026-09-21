@@ -5,6 +5,7 @@ import {
 import type { PinDefaultsKey } from "akasha/temper/addon/navigation-addon/modules/destinations-pin-defaults/destinations-pin-defaults.module.code.ts"
 import type { AchievementPinKey } from "akasha/temper/addon/navigation-addon/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 export interface DestinationsRuntimeVariables {
   MapMiscPOIs: boolean

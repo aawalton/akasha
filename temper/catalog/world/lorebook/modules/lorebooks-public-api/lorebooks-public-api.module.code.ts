@@ -1,4 +1,5 @@
 import * as DataAccessors from "akasha/temper/catalog/world/lorebook/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
+import "akasha/temper/catalog/world/lorebook/lorebooks-public-api-declarations/lorebooks-public-api-declarations.type-declaration.d.ts"
 
 globalThis.LoreBooks_GetBookData = DataAccessors.loreBooksGetBookData
 globalThis.LoreBooks_GetNewEideticDataFromBookId =

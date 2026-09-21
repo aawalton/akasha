@@ -54,6 +54,7 @@ import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-de
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
 
 const libDebug = lib.Debug
 const debugPrefix = libDebug.prefix

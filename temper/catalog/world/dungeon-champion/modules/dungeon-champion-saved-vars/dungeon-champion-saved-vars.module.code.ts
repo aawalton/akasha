@@ -8,6 +8,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/catalog/world/dungeon-champion/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.d.ts"
 
 export type DcsSavedVariables = DcsDefaults & { namesToIDSavedVars?: boolean }
 

@@ -6,6 +6,7 @@ import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-combobox-s
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-dropdown-object-shapes/scrollable-menu-dropdown-object-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-submenu-shapes/scrollable-menu-submenu-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
 
 export type LsmCastHiddenForReasonsThisUnknownButtonIdUnknownBool = {
   HiddenForReasons: (this: unknown, buttonId: unknown) => boolean

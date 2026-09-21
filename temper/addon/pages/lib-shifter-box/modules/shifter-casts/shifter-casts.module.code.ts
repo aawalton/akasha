@@ -16,6 +16,7 @@ import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-contro
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export type TableKey = AnyNotNil
 

@@ -4,6 +4,7 @@ import {
   CUSTOM_COMPASS_LAYOUT_UPDATE as LAYOUT_UPDATE,
 } from "akasha/temper/addon/navigation-addon/modules/compass-pins-constants/compass-pins-constants.module.code.ts"
 import { LIB } from "akasha/temper/addon/navigation-addon/modules/compass-pins-lib/compass-pins-lib.module.code.ts"
+import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
 
 globalThis.COMPASS_PINS = asCustomCompassPins(LIB)
 globalThis.CUSTOM_COMPASS_LAYOUT_UPDATE = LAYOUT_UPDATE

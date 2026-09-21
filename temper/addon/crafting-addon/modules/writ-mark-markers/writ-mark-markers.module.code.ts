@@ -37,6 +37,7 @@ import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-decl
 import "akasha/temper/eso/type/eso-mail/eso-mail.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-inventory/eso-inventory.type-declaration.d.ts"
 
 type LinkResolver = (this: void, ctx: InventoryRowSlotData) => string | undefined
 

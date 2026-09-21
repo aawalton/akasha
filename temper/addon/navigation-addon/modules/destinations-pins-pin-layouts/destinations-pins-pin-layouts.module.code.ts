@@ -29,6 +29,7 @@ import "akasha/temper/addon/library-type/custom-compass-pins/custom-compass-pins
 import "akasha/temper/addon/library-type/lib-map-pins/lib-map-pins.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 interface SvPinEntry {
   maxDistance: number

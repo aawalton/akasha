@@ -17,6 +17,7 @@ import "akasha/temper/addon/library-type/lib-extended-journal/lib-extended-journ
 import "akasha/temper/addon/library-type/lib-multi-account-sets/lib-multi-account-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-item-browser-strings/eso-item-browser-strings.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function registerSettingsPanel(this: void): undefined {
   const lam = LibCodesCommonCode.GetLibAddonMenu()

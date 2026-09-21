@@ -16,6 +16,7 @@ import { charactersToPrune } from "akasha/temper/player/completion/temper-player
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/addon/library-type/temper-saved-variables-global/temper-saved-variables-global.type-declaration.d.ts"
 
 export interface SavedNavigation {
   selectedTab: string

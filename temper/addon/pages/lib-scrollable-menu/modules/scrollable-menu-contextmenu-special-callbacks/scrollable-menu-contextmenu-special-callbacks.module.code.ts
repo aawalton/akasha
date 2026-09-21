@@ -16,6 +16,7 @@ import { lib } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrol
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-contextmenu-shapes/scrollable-menu-contextmenu-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
 
 const classes = asLsmCastRecordStringUnknown(lib.classes)
 const contextMenuClass = asContextMenuClass(classes.contextMenuClass)

@@ -47,6 +47,7 @@ import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-library-sh
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-submenu-shapes/scrollable-menu-submenu-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const libDebug = lib.Debug
 const dlog = asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(libDebug.DebugLog)

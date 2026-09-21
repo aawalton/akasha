@@ -9,6 +9,7 @@ import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-contro
 import "akasha/temper/addon/crafting-addon/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export type CoordKey = "style" | "recipe" | "blueprint" | "rune" | "cook" | "overview"
 export type AnchorKey = "button" | "questbox" | "position"

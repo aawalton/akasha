@@ -13,6 +13,7 @@ import { createBaseControl } from "akasha/temper/addon/pages/lib-addon-menu/modu
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const MIN_HEIGHT = 10
 const MAX_HEIGHT = 50
