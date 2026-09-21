@@ -31,7 +31,6 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/artist-name.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/artist.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/as-real-user.argument.ts"}
-{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/as-throwaway.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/aspect-ratio.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/at.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/attach.argument.ts"}
@@ -210,7 +209,6 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/negative-prompt.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/new-frames.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/no-persist.argument.ts"}
-{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/no-sign-in.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/no-upload.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/node.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/notes.argument.ts"}
