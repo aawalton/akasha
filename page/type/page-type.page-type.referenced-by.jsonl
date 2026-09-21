@@ -233,7 +233,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/file-kind-domain/file-kind-domain.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/file-purpose/file-purpose.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/flag/flag.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/held-addon/held-addon.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/ios-app/ios-app.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/ios-component/ios-component.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"code/ios-harness/ios-harness.page-type.ts"}

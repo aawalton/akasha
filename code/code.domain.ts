@@ -28,7 +28,6 @@ export const code = {
     "page-type/file-kind-domain",
     "page-type/file-purpose",
     "page-type/flag",
-    "page-type/held-addon",
     "page-type/ios-app",
     "page-type/ios-component",
     "page-type/ios-harness",

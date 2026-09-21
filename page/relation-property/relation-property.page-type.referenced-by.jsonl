@@ -76,8 +76,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/runner/properties/reached.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"change/target/subtype/properties/change-target-subtype-parent.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"check/model/properties/model-tests.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/held-addon/properties/adjacents.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/held-addon/properties/temper-addon.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-app/properties/build-script.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-app/properties/programs.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"code/ios-app/properties/sync-script.relation-property.ts"}

@@ -83,7 +83,6 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/learn/mathematics/proof/properties/proof-status.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/properties/proposition-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/properties/proposition-status.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"code/held-addon/properties/addon-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"command/argument/properties/argument-value.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"command/properties/said-as.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-kind.select-property.ts"}

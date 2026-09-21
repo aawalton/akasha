@@ -232,8 +232,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"check/refusal/properties/refusal-text.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/container-recipe/properties/recipe-repository.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/eso-interface/properties/loaded-as.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/held-addon/properties/addon-name.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/held-addon/properties/ti-clean-blocked-reason.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/ios-app/properties/app-profile-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/ios-app/properties/asc-capabilities.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/ios-app/properties/bundle-id.text-property.ts"}
