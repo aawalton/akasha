@@ -97,17 +97,17 @@ test("an instant after its own day opened counts to that day", () => {
   expect(openedDayOf(roots, new Date("2026-07-06T13:00:00.000Z"))).toBe(LATE)
 })
 
-test("a day holding no sleep opens at six the previous evening in Utah", () => {
+test("a day holding no sleep opens at the ESO reset instead", () => {
   const root = scratch.rootFor("akasha-opened-nosleep-")
   dayFiled(root, SLEPT, [WORK])
   expect(openedDayWindow(rootsNamed({ [AKASHA]: root }, AKASHA), SLEPT).from).toBe(
-    "2026-07-04T00:00:00.000Z"
+    "2026-07-04T10:00:00.000Z"
   )
 })
 
-test("a day no page is filed for opens at six the previous evening in Utah", () => {
+test("a day no page is filed for opens at the ESO reset instead", () => {
   expect(openedDayWindow(sleptWorld("akasha-opened-unfiled-"), "2026-01-01").from).toBe(
-    "2026-01-01T01:00:00.000Z"
+    "2026-01-01T11:00:00.000Z"
   )
 })
 
