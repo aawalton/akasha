@@ -3,6 +3,11 @@
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
+  type ArmorSlotId,
+  armorSlots,
+} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import {
   type ArmorTraitId,
   armorTraitsBuildList,
   armorTraits as armorTraitsData,
@@ -23,11 +28,6 @@ import {
 } from "akasha/temper/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"
 import { mergeItemData } from "akasha/temper/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
 import { getMythicSlots } from "akasha/temper/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
-import {
-  type ArmorSlotId,
-  armorSlots,
-} from "akasha/temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,

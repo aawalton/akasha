@@ -17,6 +17,13 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/status-effect-types/status-effect-types.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/jewelry-types/jewelry-types.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"}
@@ -58,13 +65,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/companions-core/modules/companions/companions.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/companions-core/modules/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/armor-types/armor-types.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/jewelry-types/jewelry-types.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/weapon-bars/weapon-bars.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/formula-framework/modules/buffs-major/buffs-major.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/formula-framework/modules/buffs-minor/buffs-minor.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/formula-framework/modules/buffs-other/buffs-other.module.code.ts"}

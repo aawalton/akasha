@@ -1,3 +1,5 @@
+import { armorSlots } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { ArmorTraitId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SetId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
@@ -5,8 +7,6 @@ import type { SetTemplate } from "akasha/temper/catalog/temper-gear/equipment/mo
 import type { ArmorEnchantId } from "akasha/temper/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import type { Loadout } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import { isSetValidForArmorSlot } from "akasha/temper/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
-import { armorSlots } from "akasha/temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 
 export function bulkUpdateArmorWeight(
   equipment: Loadout,

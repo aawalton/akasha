@@ -1,14 +1,14 @@
-import type { WeaponTypeId } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
-import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import {
   type ArmorTypeId,
   armorTypes,
   type StandardArmorType,
-} from "akasha/temper/equipment-kind/modules/armor-types/armor-types.module.code.ts"
+} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import {
   type JewelryTypeId,
   jewelryTypes,
-} from "akasha/temper/equipment-kind/modules/jewelry-types/jewelry-types.module.code.ts"
+} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/jewelry-types/jewelry-types.module.code.ts"
+import type { WeaponTypeId } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
+import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 export type EquipmentType = WeaponTypeId | JewelryTypeId | ArmorTypeId
 
 export function isStandardArmorType(value: string): value is StandardArmorType {

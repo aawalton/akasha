@@ -8,6 +8,9 @@ import { affixScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-
 import { focusScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import { signatureScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
+import { armorSlots } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
+import { equipmentQualities } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { jewelrySlots } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import { armorTraits } from "akasha/temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/catalog/temper-gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
@@ -28,9 +31,6 @@ import { jewelryEnchants } from "akasha/temper/characters-equipment/modules/jewe
 import { setsAll } from "akasha/temper/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import { armorSlots } from "akasha/temper/equipment-kind/modules/armor-slots/armor-slots.module.code.ts"
-import { equipmentQualities } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { jewelrySlots } from "akasha/temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
 
 const classIds = classes.ids

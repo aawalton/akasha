@@ -1,6 +1,6 @@
+import type { EquipmentQualityId } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
-import type { EquipmentQualityId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 
 type WeaponCategory = "one-handed" | "two-handed" | "shield" | "none"
 

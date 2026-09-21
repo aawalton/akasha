@@ -4364,6 +4364,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-effect/temper-curse/properties/eso-curse-ids.number-property.ts","id":"01a05fc5-94cd-7c97-9330-6c78011127fa"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.ts","id":"01a0610f-45b9-7cd1-b86c-956394916d9b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.ts","id":"01a060f0-3eac-71f4-ab24-ac7b5ad15139"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/eso-trait-map/eso-trait-map.module.ts","id":"01a0610f-45ba-79d3-b258-2e9d709283b7"}
@@ -4372,6 +4373,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.ts","id":"01a0610f-45bb-7d20-aedf-7d954ebf2ec5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.ts","id":"01a060f0-3eae-7300-a19e-36158f3ca349"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/item-set/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-motif-style/properties/drop-sources.text-property.ts","id":"01a05fd1-d439-7027-bdca-1804e14d6caf"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-potion-crafted/properties/reagent-names.text-property.ts","id":"01a05fd1-d43d-7249-ac3e-8dcf8869e271"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-potion-crafted/properties/recipes.record-property.ts","id":"01a05fd1-d43d-7c95-8ac4-1739e09c409e"}
@@ -4755,7 +4757,6 @@
 {"propertySlug":"decision-kind","path":"temper/economy/value/merchant-value/temper-merchant-value.domain.ts","id":"01a0b761-57b4-74bc-8bbd-d082f1b7bbf1"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/temper-value.domain.ts","id":"01a0b760-9c78-7f15-bcd1-231796bec651"}
-{"propertySlug":"decision-kind","path":"temper/equipment-kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}
 {"propertySlug":"decision-kind","path":"temper/eso-type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
 {"propertySlug":"decision-kind","path":"temper/eso-type/eso-main-menu-bar/eso-main-menu-bar.type-declaration.ts","id":"01a061fe-1496-7011-81fe-5f31d724998b"}
 {"propertySlug":"decision-kind","path":"temper/eso-type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
@@ -4792,7 +4793,6 @@
 {"propertySlug":"decision-kind","path":"temper/holdings/temper-sale/properties/sale-id.text-property.ts","id":"01a0685d-89aa-73f0-9b15-bfabe8437be8"}
 {"propertySlug":"decision-kind","path":"temper/holdings/temper-sale/temper-sale.page-type.ts","id":"019f71f3-8523-7dcc-a2c3-ae8bbddd28ad"}
 {"propertySlug":"decision-kind","path":"temper/holdings/thing/temper-holdings-thing.page-type.ts","id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}
-{"propertySlug":"decision-kind","path":"temper/item-set/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.ts","id":"01a0614b-6736-7575-aaa0-1766a1adf1a8"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/modules/filter-bar/filter-bar.module.ts","id":"01a0614b-6735-71b0-b1bb-6d698f3b387d"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.ts","id":"01a0614b-6736-723e-b829-79279bb14e49"}

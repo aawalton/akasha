@@ -1,3 +1,4 @@
+import type { WeaponBar } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import type {
   ShieldItem,
   WeaponItem,
@@ -12,7 +13,6 @@ import {
   isShieldSlot,
   isWeaponSlot,
 } from "akasha/temper/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts"
-import type { WeaponBar } from "akasha/temper/equipment-kind/modules/weapon-bars/weapon-bars.module.code.ts"
 
 function isWeaponUpdate(
   updates: Partial<WeaponItem> | Partial<ShieldItem>

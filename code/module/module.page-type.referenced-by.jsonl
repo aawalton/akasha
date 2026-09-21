@@ -4820,6 +4820,13 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/status-effect-types/status-effect-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/armor-slots/armor-slots.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/armor-types/armor-types.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/jewelry-types/jewelry-types.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/weapon-bars/weapon-bars.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/kind/modules/weapon-slots/weapon-slots.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/modules/armor-traits/armor-traits.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/modules/eso-trait-map/eso-trait-map.module.ts"}
@@ -4832,6 +4839,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/modules/set-template/set-template.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/modules/weapon-traits/weapon-traits.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-gear/item-set/modules/item-set-categories/item-set-categories.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-achievement-ids/dungeon-champion-achievement-ids.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-colors/dungeon-champion-colors.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/temper-world/dungeon-champion/modules/dungeon-champion-defaults/dungeon-champion-defaults.module.ts"}
@@ -5507,13 +5515,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/ttc-listing-schema/ttc-listing-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/armor-slots/armor-slots.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/armor-types/armor-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/jewelry-types/jewelry-types.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/weapon-bars/weapon-bars.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kind/modules/weapon-slots/weapon-slots.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-declaration-text/eso-declaration-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.ts"}
@@ -5562,7 +5563,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/source-category/source-category.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/source-file/source-file.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/topological-sort/topological-sort.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/item-set/modules/item-set-categories/item-set-categories.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-filters-addon/modules/filter-bar-controls/filter-bar-controls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-filters-addon/modules/filter-bar/filter-bar.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items-filters-addon/modules/panel-filter-binding/panel-filter-binding.module.ts"}

@@ -3,6 +3,14 @@ import {
   createDataFile,
   type DataFile,
 } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import {
+  type ArmorTypeId,
+  getArmorMultiplier,
+} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
+import {
+  type EquipmentQualityId,
+  resolveQuality,
+} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type {
   ArmorWeightId,
   StandardArmorWeightId,
@@ -16,14 +24,6 @@ import type {
   ItemLevel,
 } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { getArmorBaseValueForLevel } from "akasha/temper/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
-import {
-  type ArmorTypeId,
-  getArmorMultiplier,
-} from "akasha/temper/equipment-kind/modules/armor-types/armor-types.module.code.ts"
-import {
-  type EquipmentQualityId,
-  resolveQuality,
-} from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 
 const TEMPER_ARMOR_WEIGHTS_BY_ID = {

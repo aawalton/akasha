@@ -18,6 +18,7 @@ export const temperEquipment = {
     "module/set-template",
     "module/weapon-traits",
     "module/weapon-type-ids",
+    "domain/temper-equipment-kind",
   ],
   decisions: [
     {

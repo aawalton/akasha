@@ -443,6 +443,10 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-companion/trait/properties/metric-id.text-property.ts","id":"01a05fb0-3ced-7636-a899-431b497b3f1f"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/kind/modules/armor-slots/armor-slots.module.ts","id":"01a060b8-08c4-79bd-a673-660169cf2ee9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.ts","id":"01a060b8-08c6-7141-8b6e-044cf34927d5"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.ts","id":"01a060b8-08c5-7b3b-a995-798d59d45760"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/kind/modules/weapon-bars/weapon-bars.module.ts","id":"01a060b8-08c6-7381-8ac1-7788bdbe2c6c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.ts","id":"01a060d5-2f12-7886-bf98-e23a2afc639d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-eso-trait-map/properties/trait-id.text-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-gear/temper-jewelry-slot/properties/jewelry-type-id.text-property.ts","id":"01a05fd1-d43c-7d49-81c6-a1c0aa409075"}
@@ -753,10 +757,6 @@
 {"propertySlug":"decision-kind","path":"temper/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts","id":"01a060cf-b0b2-743e-9d82-ea94a110b9cb"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.ts","id":"01a060bf-747d-7dee-bf58-1559bc114b90"}
-{"propertySlug":"decision-kind","path":"temper/equipment-kind/modules/armor-slots/armor-slots.module.ts","id":"01a060b8-08c4-79bd-a673-660169cf2ee9"}
-{"propertySlug":"decision-kind","path":"temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.ts","id":"01a060b8-08c6-7141-8b6e-044cf34927d5"}
-{"propertySlug":"decision-kind","path":"temper/equipment-kind/modules/jewelry-slots/jewelry-slots.module.ts","id":"01a060b8-08c5-7b3b-a995-798d59d45760"}
-{"propertySlug":"decision-kind","path":"temper/equipment-kind/modules/weapon-bars/weapon-bars.module.ts","id":"01a060b8-08c6-7381-8ac1-7788bdbe2c6c"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts","id":"01a0673e-3ddf-7001-acad-9b0751ef4567"}
 {"propertySlug":"decision-kind","path":"temper/holdings/temper-sale/properties/guild-name.text-property.ts","id":"01a0685d-89aa-7d2f-948c-fbca509592a2"}
 {"propertySlug":"decision-kind","path":"temper/items-filters-core/modules/search-market-value-filter/search-market-value-filter.module.ts","id":"01a0613a-e0aa-7ec9-8d23-f17ea1e32d8e"}

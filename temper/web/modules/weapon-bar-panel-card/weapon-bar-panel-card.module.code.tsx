@@ -2,6 +2,8 @@
 
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/modules/row-grouping/row-grouping.module.code.ts"
+import type { EquipmentQualityOptionId } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { weaponSlots as weaponSlotsData } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import {
   type WeaponTraitId,
@@ -31,8 +33,6 @@ import {
   updateWeaponItem,
 } from "akasha/temper/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { weaponSlots as weaponSlotsData } from "akasha/temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,

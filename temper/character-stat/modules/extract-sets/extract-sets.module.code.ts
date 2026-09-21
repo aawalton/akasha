@@ -1,3 +1,7 @@
+import {
+  type EquipmentQualityId,
+  resolveQuality,
+} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/catalog/temper-gear/equipment/modules/set-ids/set-ids.module.code.ts"
 import type { PipelineStage } from "akasha/temper/character-stat/modules/pipeline-types/pipeline-types.module.code.ts"
 import type {
@@ -9,10 +13,6 @@ import {
   createSetSource,
   type SetSource,
 } from "akasha/temper/characters-equipment/modules/set-source/set-source.module.code.ts"
-import {
-  type EquipmentQualityId,
-  resolveQuality,
-} from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { valuesOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
 
 function getSetInfo(

@@ -32,5 +32,6 @@ export const temperGear = {
     "page-type/temper-weapon-trait",
     "page-type/temper-weapon-type",
     "domain/temper-equipment",
+    "domain/temper-item-set",
   ],
 } as const satisfies Domain

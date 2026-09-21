@@ -9,6 +9,12 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import type { EquipmentQualityOptionId } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import type { WeaponBar } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
+import {
+  type WeaponSlot,
+  weaponSlots,
+} from "akasha/temper/catalog/temper-gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import {
   type ArmorTraitId,
   armorTraits,
@@ -44,12 +50,6 @@ import {
   weaponEnchantments,
 } from "akasha/temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import type { EquipmentQualityOptionId } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import type { WeaponBar } from "akasha/temper/equipment-kind/modules/weapon-bars/weapon-bars.module.code.ts"
-import {
-  type WeaponSlot,
-  weaponSlots,
-} from "akasha/temper/equipment-kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {

@@ -1,3 +1,4 @@
+import type { WeaponBar } from "akasha/temper/catalog/temper-gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import type {
   ShieldItem,
   WeaponItem,
@@ -7,7 +8,6 @@ import type {
   WeaponSlotItem,
 } from "akasha/temper/characters-equipment/modules/loadout-types/loadout-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
-import type { WeaponBar } from "akasha/temper/equipment-kind/modules/weapon-bars/weapon-bars.module.code.ts"
 
 export function isWeaponSlot(
   slot: WeaponSlotItem

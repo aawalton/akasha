@@ -572,7 +572,9 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-catalog.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-companion/temper-companion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-effect/temper-effect.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/kind/temper-equipment-kind.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-gear/equipment/temper-equipment.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-gear/item-set/temper-item-set.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-gear/temper-gear.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-pursuit/temper-pursuit.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-world/dungeon-champion/temper-dungeon-champion.domain.ts"}
@@ -600,7 +602,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/merchant-value/temper-merchant-value.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/economy/value/temper-value.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment-kind/temper-equipment-kind.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-type/temper-eso-type.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/declaration/eso-opt-in-list/eso-opt-in-list.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/declaration/temper-eso-declaration.domain.ts"}
@@ -610,7 +611,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/temper-eso.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/formula-framework/temper-formula-framework.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/holdings/temper-holdings.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/item-set/temper-item-set.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-filters-addon/temper-items-filters-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-filters-core/temper-items-filters-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/items-rules-core/temper-items-rules-core.domain.ts"}
