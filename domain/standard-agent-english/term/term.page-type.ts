@@ -12,12 +12,14 @@ export const term = {
     "page-type/foreign-name-term",
     "text-property/spelling",
     "text-property/variants",
+    "record-property/spellings",
   ],
   extends: ["page-type/page"],
   properties: [
-    { pageProperty: "text-property/spelling", required: true, many: false },
+    { pageProperty: "text-property/spelling", required: false, many: false },
     { pageProperty: "text-property/variants", required: false, many: true, maxCount: null },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "record-property/spellings", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {

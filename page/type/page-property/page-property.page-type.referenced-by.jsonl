@@ -89,6 +89,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/directives.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/properties/parts.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/term/banned-term/properties/replacement-patterns.record-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/term/properties/spellings.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/standard-agent-english/term/properties/variants.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/taboo-term/properties/kept-senses.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"domain/taboo-term/properties/taboo-senses.record-property.types.ts"}

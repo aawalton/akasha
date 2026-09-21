@@ -2,8 +2,8 @@
 {"definition":"one word or phrase, and what that word means here"}
 {"extends":["page-type/page"]}
 {"id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
-{"parts":["page-type/allowed-term","page-type/banned-term","page-type/common-language-term","page-type/foreign-name-term","text-property/spelling","text-property/variants"]}
-{"properties":[{"pageProperty":"text-property/spelling","required":true,"many":false},{"pageProperty":"text-property/variants","required":false,"many":true,"maxCount":null},{"pageProperty":"standard-agent-english-property/definition","required":true,"many":false}]}
+{"parts":["page-type/allowed-term","page-type/banned-term","page-type/common-language-term","page-type/foreign-name-term","text-property/spelling","text-property/variants","record-property/spellings"]}
+{"properties":[{"pageProperty":"text-property/spelling","required":false,"many":false},{"pageProperty":"text-property/variants","required":false,"many":true,"maxCount":null},{"pageProperty":"standard-agent-english-property/definition","required":true,"many":false},{"pageProperty":"record-property/spellings","required":false,"many":true,"maxCount":null}]}
 {"schema":"jsonl"}
 {"slug":"term"}
 {"type":"page-type/page-type"}
