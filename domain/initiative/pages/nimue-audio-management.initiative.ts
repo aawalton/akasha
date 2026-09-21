@@ -8,11 +8,6 @@ export const nimueAudioManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "The audio rows of the generation log are audio pages.",
-      workingMemory:
-        "`ROW_PROPERTIES` at `generation-log.module.code.ts:39` routes `audio` to the `audios` property, and the images half of that table went with `alan.generation-log.images.jsonl`. `generation-audios.file-property.ts` decides that an audio row records where its bytes are rather than the bytes, which is the sentence this work ends.",
-    },
-    {
       statement: "A run that made a sound records the sha256 of those bytes.",
       workingMemory:
         "`inference-run-store.module.code.ts:73` already patches the run row with `outputAudioSha256`, so the number a slug would open with is measured there today. `inference-run.page-type.ts:37` still decides that audio a run made is kept as an object named from the row it was made under, where line 33 was mended for images already.",
