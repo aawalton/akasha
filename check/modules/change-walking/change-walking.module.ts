@@ -237,5 +237,10 @@ export const changeWalking = {
       decisionKind: "decision-kind/departure",
       statement: "The spellings searched for are the ones without which the check refuses nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Git is asked to name neither the index nor what is vendored, rather than naming them to be dropped.",
+    },
   ],
 } as const satisfies Module

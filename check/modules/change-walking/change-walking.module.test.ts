@@ -41,6 +41,7 @@ import {
   VENDORED_AT,
   watchedWorld,
 } from "akasha/check/modules/change-walking/change-walking.module.test-fixtures.ts"
+import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -338,4 +339,15 @@ test("a body that will not open refuses the check reading it rather than reading
   symlinkSync("b.ts", join(root, "a.ts"))
   symlinkSync("a.ts", join(root, "b.ts"))
   expect(() => onDisk(root)("a.ts")).toThrow("ELOOP")
+})
+
+test("a walk over everything leaves the index's own files out, and answers its paths in order", () => {
+  const root = treeWorld()
+  listedFiled(root, MODULE, "gone", [{ path: GONE_AT, id: GONE_ID }])
+  const changed = everythingIn(root).changed
+  expect(changed).toContain(CODE_AT)
+  expect(changed).toContain(KEPT_AT)
+  expect(changed).not.toContain(VENDORED_AT)
+  expect(changed.filter((one) => underIndex(one))).toEqual([])
+  expect(changed).toEqual([...changed].toSorted())
 })

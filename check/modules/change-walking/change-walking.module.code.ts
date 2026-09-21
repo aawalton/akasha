@@ -16,7 +16,10 @@ import { sortedOnce } from "akasha/code/type/narrowing/modules/sorted-once/sorte
 import { isMissing } from "akasha/file/disk/modules/missing/missing.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import {
+  INDEX_AT,
+  underIndex,
+} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import {
   pageNamed,
@@ -346,9 +349,26 @@ function heldThough(path: string): boolean {
   return uncommittedHeld(path) && !path.split("/").includes(VENDORED)
 }
 
+const PATHS_FROM = "--"
+
+const EXCEPT = ":(exclude)"
+
+const EXCEPT_INDEX = `${EXCEPT}${INDEX_AT}`
+
+const EXCEPT_VENDORED = `${EXCEPT}${VENDORED}`
+
+const EXCEPT_VENDORED_UNDER = `${EXCEPT}*/${VENDORED}`
+
 function everyFileInside(root: string): readonly string[] {
-  const kept = walked(root, ["--cached", "--others"])
-  const held = walked(root, ["--others", "--ignored"]).filter(heldThough)
+  const kept = walked(root, ["--cached", "--others", PATHS_FROM, EXCEPT_INDEX])
+  const ignored = walked(root, [
+    "--others",
+    "--ignored",
+    PATHS_FROM,
+    EXCEPT_VENDORED,
+    EXCEPT_VENDORED_UNDER,
+  ])
+  const held = ignored.filter(heldThough)
   return sortedOnce([...kept, ...held]).filter((one) => !underIndex(one))
 }
 
