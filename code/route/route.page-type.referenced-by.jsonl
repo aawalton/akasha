@@ -132,7 +132,11 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-health/innworld-api-health.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-page-types/innworld-api-page-types.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-pages/innworld-api-pages.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-home/innworld-home.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-page-detail/innworld-page-detail.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-page-listing/innworld-page-listing.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/addon-bundle-version/addon-bundle-version.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/addon-bundle/addon-bundle.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"temper/web/routes/api-ask/api-ask.route.ts"}

@@ -1,6 +1,15 @@
-import { index, type RouteConfig, route } from "@react-router/dev/routes"
+import { index, layout, type RouteConfig, route } from "@react-router/dev/routes"
 
 export default [
-  index("routes/innworld-home/innworld-home.route.code.tsx"),
+  layout("routes/_app-layout.tsx", [
+    index("routes/innworld-home/innworld-home.route.code.tsx"),
+    route(
+      ":pageTypeSlug/:pageHrefParam",
+      "routes/innworld-page-detail/innworld-page-detail.route.code.tsx"
+    ),
+    route(":pageTypeSlug", "routes/innworld-page-listing/innworld-page-listing.route.code.tsx"),
+  ]),
   route("api/health", "routes/innworld-api-health/innworld-api-health.route.code.ts"),
+  route("api/page-types", "routes/innworld-api-page-types/innworld-api-page-types.route.code.ts"),
+  route("api/pages/:pageTypeSlug", "routes/innworld-api-pages/innworld-api-pages.route.code.ts"),
 ] satisfies RouteConfig

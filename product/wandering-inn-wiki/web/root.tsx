@@ -1,3 +1,4 @@
+import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type React from "react"
 import {
   data,
@@ -10,6 +11,7 @@ import {
   useRouteLoaderData,
 } from "react-router"
 import type { Route } from "./+types/root"
+import "akasha/product/wandering-inn-wiki/web/look/wandering-inn-wiki-web-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 export const meta: Route.MetaFunction = () => [
@@ -32,7 +34,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
       </head>
       <body className="font-sans antialiased">
-        {children}
+        <SurfaceProvider level={0} background={false}>
+          {children}
+        </SurfaceProvider>
         <ScrollRestoration nonce={nonce} />
         <Scripts nonce={nonce} />
       </body>

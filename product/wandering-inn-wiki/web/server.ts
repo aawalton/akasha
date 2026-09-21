@@ -1,9 +1,9 @@
 import { join } from "node:path"
 import {
   type RouterAppServing,
-  readerNamed,
   servedBy,
 } from "akasha/alan/harness/modules/router-app-serving/router-app-serving.module.code.ts"
+import { whoIsReading } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.code.ts"
 import type { ServerBuild } from "react-router"
 import { createRequestHandler } from "react-router"
 import { z } from "zod"
@@ -27,7 +27,7 @@ const serverBuild = asServerBuild(await import(join(BUILD_DIR, "server", "index.
 const SERVING: RouterAppServing = {
   clientDir: CLIENT_DIR,
   csp: {},
-  whoIsReading: readerNamed("innworld-visitor"),
+  whoIsReading,
   routes: createRequestHandler(serverBuild, "production"),
 }
 

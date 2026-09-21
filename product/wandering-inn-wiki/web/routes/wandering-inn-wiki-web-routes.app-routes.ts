@@ -5,5 +5,13 @@ export const wanderingInnWikiWebRoutes = {
   type: "page-type/app-routes",
   slug: "wandering-inn-wiki-web-routes",
   definition: "the routes innworld.wiki serves",
-  parts: ["route/innworld-api-health", "route/innworld-home"],
+  appLayout: "tsx",
+  parts: [
+    "route/innworld-api-health",
+    "route/innworld-api-page-types",
+    "route/innworld-api-pages",
+    "route/innworld-home",
+    "route/innworld-page-detail",
+    "route/innworld-page-listing",
+  ],
 } as const satisfies AppRoutes

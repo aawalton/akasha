@@ -17,7 +17,12 @@ export const wanderingInnWikiWeb = {
   routeTypesDirectory: true,
   declarationDirectory: true,
   bundleDirectory: true,
-  parts: ["app-routes/wandering-inn-wiki-web-routes", "manifest/wandering-inn-wiki-web-manifests"],
+  parts: [
+    "app-routes/wandering-inn-wiki-web-routes",
+    "manifest/wandering-inn-wiki-web-manifests",
+    "module/innworld-reader",
+    "stylesheet/wandering-inn-wiki-web-look",
+  ],
   toolReached: ["react-dom"],
   decisions: [
     {
