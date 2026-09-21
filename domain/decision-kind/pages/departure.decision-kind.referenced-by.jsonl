@@ -2655,6 +2655,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/memory/memory.domain.ts","id":"01a09115-c783-7db5-b3bb-5b8349b6b51d"}
 {"propertySlug":"decision-kind","path":"infrastructure/modules/calls/infrastructure-calls.module.ts","id":"01a0953e-1dc9-7000-bf51-cd67b1cd4894"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/auth-proxy.domain.ts","id":"01a06864-a443-7933-9156-35c26aacdfcf"}
+{"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.ts","id":"01a07383-6af4-7b2a-9679-bdc53aceb125"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.ts","id":"01a06863-8e7c-7047-9da8-7b7f8e0ac120"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/proxy-reading/proxy-reading.module.ts","id":"01a0c431-b8d3-7e65-a891-4058c98aea65"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/modules/proxy/proxy.module.ts","id":"01a06863-8e7c-79d7-b834-766a91baff9f"}

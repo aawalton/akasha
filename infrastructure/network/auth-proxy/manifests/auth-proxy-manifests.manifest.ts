@@ -7,4 +7,15 @@ export const authProxyManifests = {
   definition: "the namespace, the deployment reading a request's session and the way in to it",
   code: "ts",
   generatedDirectory: true,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A contributor admitted here is written out rather than read from that person's page.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A page this code imports is copied into the image, and its index churns.",
+    },
+  ],
 } as const satisfies Manifest

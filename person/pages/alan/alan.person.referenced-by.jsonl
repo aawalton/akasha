@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.test.ts"}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
-{"propertySlug":"import","fileName":"alan.person.ts","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"person/modules/route-access/route-access.module.test.ts"}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}

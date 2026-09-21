@@ -7,7 +7,6 @@ import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k
 import { authProxy as authProxyImage } from "akasha/infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { authProxy } from "akasha/infrastructure/service/cluster/pages/auth-proxy/auth-proxy.service-cluster.ts"
-import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
 const NAMESPACE = authProxy.namespace
 const APP_NAME = authProxy.resourceName
@@ -40,14 +39,11 @@ const ROUTE_MAP_VALUE = JSON.stringify({
   "git.alanwalton.com": "http://git-transport.git.svc.cluster.local:3000",
 })
 
-const CONTRIBUTOR_PREFIX = "contributor/"
+const ALAN_CONTRIBUTOR =
+  "contributor-9bc4d42501098ce9fad8a73ad03e2ef5d1e89b4a1fac8426b100f7c4d7e5e3d4"
 
 const ADMITTED_VALUE = JSON.stringify({
-  [alan.contributor.slice(CONTRIBUTOR_PREFIX.length)]: {
-    sub: alan.slug,
-    email: alan.email,
-    name: alan.slug,
-  },
+  [ALAN_CONTRIBUTOR]: { sub: "alan", email: "aawalton@gmail.com", name: "alan" },
 })
 
 const SECRETS_NAME = `${APP_NAME}-secrets`
