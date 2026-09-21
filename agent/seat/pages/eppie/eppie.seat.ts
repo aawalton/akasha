@@ -5,7 +5,7 @@ export const eppie = {
   type: "page-type/seat",
   slug: "eppie",
   persona: "persona/eppie",
-  assignmentSlug: "domain/music",
+  assignmentSlug: "initiative/eppie-music-improvements",
   role: "role/companion",
   person: "person/alan",
   startMode: "interactive",
