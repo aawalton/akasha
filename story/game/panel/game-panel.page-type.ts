@@ -17,6 +17,7 @@ export const gamePanel = {
     "game-panel/aravel-hud",
     "module/panel-turning",
     "file-property/drawn",
+    "module/panel-showing",
   ],
   decisions: [
     {
