@@ -6,6 +6,7 @@ export const track = {
   slug: "track",
   definition: "what one of Alan's days held, written down",
   parts: [
+    "command/track-food",
     "command/track-health-import",
     "command/track-weight",
     "module/session-leveling",

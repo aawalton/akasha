@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/alan/elaine/alan-elaine.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/alan/elaine/alan-elaine.command.test.ts"}
-{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/alan/food/alan-food.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/alan/picture/alan-picture.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/alan/tracking/alan-tracking.command.code.ts"}
@@ -262,6 +261,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/watcher/log/temper-watcher-log.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/watcher/status/temper-watcher-status.command.code.ts"}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/track/health-import/track-health-import.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/track/session/amend/track-session-amend.command.code.ts"}

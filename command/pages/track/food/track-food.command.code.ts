@@ -27,7 +27,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
-import { alanFood as page } from "akasha/command/pages/alan/food/alan-food.command.ts"
+import { trackFood as page } from "akasha/command/pages/track/food/track-food.command.ts"
 import { imageObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import {
   type ObjectStore,
@@ -360,7 +360,7 @@ export async function foodLogged(
   return { ...said, report: [...said.report, ...report] }
 }
 
-export async function alanFood(argv: readonly string[], given: Given): Promise<Answer> {
+export async function trackFood(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv, given.calledAs)
   if ("refused" in read) return refusedBy(read.refused)
   return await foodLogged(read, given)

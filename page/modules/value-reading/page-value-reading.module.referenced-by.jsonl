@@ -193,7 +193,6 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/modules/install-linking/install-linking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/alan/food/alan-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.test.ts"}
@@ -232,6 +231,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}

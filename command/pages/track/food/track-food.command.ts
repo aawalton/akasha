@@ -1,9 +1,9 @@
 import type { Command } from "akasha/command/command.page-type.types.ts"
 
-export const alanFood = {
+export const trackFood = {
   id: "01a06809-250b-7ec1-99ac-2150ec2c5f74",
   type: "page-type/command",
-  slug: "alan-food",
+  slug: "track-food",
   definition: "the command filing one food Alan ate onto the day that food counts to",
   code: "ts",
   test: "ts",

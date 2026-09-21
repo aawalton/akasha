@@ -8,7 +8,6 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
-  alanFood,
   foodLogged,
   freeStemIn,
   happenedAtFrom,
@@ -17,13 +16,14 @@ import {
   slugOfStem,
   stemFor,
   stemOfSlug,
+  trackFood,
   wallClockIn,
-} from "akasha/command/pages/alan/food/alan-food.command.code.ts"
+} from "akasha/command/pages/track/food/track-food.command.code.ts"
 
-const CALLED_AS = "akasha alan food"
+const CALLED_AS = "akasha track food"
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha alan food", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha track food", from: root, writer: null, agentId: null }
 }
 
 function reading(argv: readonly string[]) {
@@ -43,7 +43,7 @@ const KALE: Logged = {
 const ENTRY = "wrote the food entry food-entry-2026-06-26-kale, id 01a0"
 
 test("nothing said is refused, naming what it takes", async () => {
-  const said = await alanFood([], given("/nowhere"))
+  const said = await trackFood([], given("/nowhere"))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--title")
 })

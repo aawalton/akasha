@@ -10,7 +10,6 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/alan/elaine/alan-elaine.command.ts"}
-{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/alan/food/alan-food.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/alan/picture/alan-picture.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/alan/tracking/alan-tracking.command.ts"}
@@ -275,6 +274,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/watcher/log/temper-watcher-log.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/watcher/status/temper-watcher-status.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/food/track-food.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/health-import/track-health-import.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/session/amend/track-session-amend.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/session/check/track-session-check.command.ts"}

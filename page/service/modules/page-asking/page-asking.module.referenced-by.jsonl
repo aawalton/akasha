@@ -15,10 +15,10 @@
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.test.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"alan/web/routes/wallpaper/wallpaper.route.code.ts"}
-{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"command/pages/alan/food/alan-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"command/pages/measure/attribute/measure-attribute.command.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"command/pages/measure/persona/measure-persona.command.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts"}
+{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/capture-error/capture-error.module.code.ts"}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"page/access/modules/file-backed-roster/file-backed-roster.module.code.ts"}

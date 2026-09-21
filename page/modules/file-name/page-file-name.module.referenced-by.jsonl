@@ -167,7 +167,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/folder-linking/folder-linking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/piping/piping.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/value-minting/value-minting.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/alan/food/alan-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/change/repeat/change-repeat.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/measure/page/modules/page-measuring/page-measuring.module.code.ts"}
@@ -177,6 +176,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/warrant-saying/warrant-saying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts"}

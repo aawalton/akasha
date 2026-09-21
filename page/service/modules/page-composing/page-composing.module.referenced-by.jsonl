@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.audit.test.ts"}
-{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/alan/food/alan-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/chess/play/chess-play.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/chess/play/chess-play.command.test.ts"}
@@ -27,6 +26,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/type-tracks/music-type-tracks.command.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/call-reading/call-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
