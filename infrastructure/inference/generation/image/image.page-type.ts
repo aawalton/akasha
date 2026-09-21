@@ -10,7 +10,7 @@ export const image = {
   properties: [
     {
       pageProperty: "file-property/image-bytes",
-      required: true,
+      required: false,
       many: false,
       uncommitted: true,
     },

@@ -2,5 +2,5 @@ import type { ImageBytes } from "akasha/infrastructure/inference/generation/imag
 import type { Page } from "akasha/page/page.page-type.types.ts"
 
 export type Image = Page & {
-  bytes: ImageBytes
+  bytes?: ImageBytes
 }

@@ -1,6 +1,6 @@
-{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An image's bytes are a file beside that image's page."},{"decisionKind":"decision-kind/departure","statement":"A page states which of the endings its own bytes are held under."},{"decisionKind":"decision-kind/departure","statement":"The bytes are held out of the commit, and the page beside them is committed."}]}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"An image's bytes are a file beside that image's page."},{"decisionKind":"decision-kind/departure","statement":"Every image is held as a png, whatever ending the picture arrived under."},{"decisionKind":"decision-kind/departure","statement":"The bytes are held out of the commit, and the page beside them is committed."}]}
 {"definition":"the picture itself"}
-{"extensions":["png","jpg"]}
+{"extensions":["png"]}
 {"holdsBytes":true}
 {"id":"01a0c5a1-0c16-7cc7-a193-157978ff825a"}
 {"propertySlug":"bytes"}

@@ -1,1 +1,1 @@
-export type ImageBytes = "png" | "jpg"
+export type ImageBytes = "png"

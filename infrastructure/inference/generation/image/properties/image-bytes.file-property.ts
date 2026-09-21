@@ -6,7 +6,7 @@ export const imageBytes = {
   slug: "image-bytes",
   propertySlug: "bytes",
   definition: "the picture itself",
-  extensions: ["png", "jpg"],
+  extensions: ["png"],
   runsFileLength: false,
   holdsBytes: true,
   decisions: [
@@ -16,7 +16,7 @@ export const imageBytes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page states which of the endings its own bytes are held under.",
+      statement: "Every image is held as a png, whatever ending the picture arrived under.",
     },
     {
       decisionKind: "decision-kind/departure",

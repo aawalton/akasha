@@ -3,7 +3,7 @@
 {"extends":["page-type/page"]}
 {"id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
 {"parts":["file-property/image-bytes"]}
-{"properties":[{"pageProperty":"file-property/image-bytes","required":true,"many":false,"uncommitted":true}]}
+{"properties":[{"pageProperty":"file-property/image-bytes","required":false,"many":false,"uncommitted":true}]}
 {"schema":"jsonl"}
 {"slug":"image"}
 {"type":"page-type/page-type"}
