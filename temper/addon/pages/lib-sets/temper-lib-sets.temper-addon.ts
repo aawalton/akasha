@@ -247,6 +247,7 @@ export const temperLibSets = {
     "type-declaration/lib-sets-search-ui-shapes-4",
     "type-declaration/lib-sets-set-type-ids",
     "type-declaration/lib-sets-table-keys",
+    "module/lib-sets-const-settype-names",
   ],
   interfaces: [
     "eso-interface/lib-sets-copy-text-dialog",
