@@ -907,6 +907,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/json-entries/json-entries.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/key-requiring/key-requiring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/literal-splicing/literal-splicing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/load-order/load-order.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/package-naming/package-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/page-claiming/page-claiming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/page-editing/page-editing.module.ts"}

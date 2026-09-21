@@ -63,6 +63,7 @@ export const change = {
     "relation-property/change-target-subtype",
     "relation-property/change-target-type",
     "test-fixture/shadow-world",
+    "module/load-order",
   ],
   properties: [
     { pageProperty: "relation-property/change-kind", required: true, many: false },
