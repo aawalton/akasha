@@ -107,7 +107,6 @@ export const temper = {
     "eso-addon/temper-interface-addon",
     "eso-addon/temper-items-addon",
     "eso-addon/temper-keybinder-addon",
-    "eso-addon/temper-lib-extended-journal",
     "eso-addon/temper-lib-gps",
     "eso-addon/temper-lib-histoire",
     "eso-addon/temper-lib-main-menu",

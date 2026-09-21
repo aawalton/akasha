@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-addon-menu-order-list-box/lam-order-list-box-markup/lam-order-list-box-markup.eso-interface.ts"}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/library/lib-extended-journal/journal-controls/journal-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/antiquities-addon/leads-layout/leads-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/characters-addon/skill-point-finder-layout/skill-point-finder-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/collections-addon/item-browser-layout/item-browser-layout.eso-interface.ts"}
@@ -18,7 +19,6 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/events-addon/next-boss-layout/next-boss-layout.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/interface-addon/fcocs-virtuals/fcocs-virtuals.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/items-addon/inventory-browser-layout/inventory-browser-layout.eso-interface.ts"}
-{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/lib-extended-journal/journal-controls/journal-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/lib-histoire/histoire-guild-history-cache-controls/histoire-guild-history-cache-controls.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/lib-media-provider/media-console-backupfont-jp/media-console-backupfont-jp.eso-interface.ts"}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/lib-media-provider/media-console-backupfont-zh/media-console-backupfont-zh.eso-interface.ts"}

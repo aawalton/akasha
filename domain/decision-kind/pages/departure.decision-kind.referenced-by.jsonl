@@ -3481,6 +3481,9 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-debug-logger/modules/debug-logger-tagged-logger/debug-logger-tagged-logger.module.ts","id":"01a06061-4092-7c03-8889-a341e67a2144"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.ts","id":"01a06061-4092-742f-b9c5-9cf888d52fd0"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-debug-logger/temper-lib-debug-logger.eso-addon.ts","id":"01a06061-408b-7657-add9-d2dfd959f9b9"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-extended-journal/journal-controls/journal-controls.eso-interface.ts","id":"01a0617d-544f-7967-a1b8-c193328aa344"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-extended-journal/modules/journal-window/journal-window.module.ts","id":"01a0617d-5454-7cab-9709-1e96bec082bc"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-extended-journal/temper-lib-extended-journal.eso-addon.ts","id":"01a0617d-5454-7d6e-a26b-24878ddb747f"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-json/addon-json.module.ts","id":"01a06060-ec3d-70b4-aba1-0e67a09d8d91"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.ts","id":"01a060e2-4d62-7a26-8c08-d2b7be0f14ff"}
 {"propertySlug":"decision-kind","path":"temper/addons-resolve/modules/addon-roster/addon-roster.module.ts","id":"01a06060-ec3e-72ca-8583-d3120bbc8269"}
@@ -4439,9 +4442,6 @@
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/modules/keybinder-ui-strings/keybinder-ui-strings.module.ts","id":"01a06381-67c1-7cd2-a410-e5dbfae940cd"}
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/temper-keybinder-addon.eso-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
 {"propertySlug":"decision-kind","path":"temper/lccc/temper-lccc.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
-{"propertySlug":"decision-kind","path":"temper/lib-extended-journal/journal-controls/journal-controls.eso-interface.ts","id":"01a0617d-544f-7967-a1b8-c193328aa344"}
-{"propertySlug":"decision-kind","path":"temper/lib-extended-journal/modules/journal-window/journal-window.module.ts","id":"01a0617d-5454-7cab-9709-1e96bec082bc"}
-{"propertySlug":"decision-kind","path":"temper/lib-extended-journal/temper-lib-extended-journal.eso-addon.ts","id":"01a0617d-5454-7d6e-a26b-24878ddb747f"}
 {"propertySlug":"decision-kind","path":"temper/lib-gps/modules/gps-api/gps-api.module.ts","id":"01a0614d-475f-7750-9fee-976d2964bf0f"}
 {"propertySlug":"decision-kind","path":"temper/lib-gps/modules/gps-compatibility/gps-compatibility.module.ts","id":"01a0614d-4761-75c9-89fb-cb8e08aac1a0"}
 {"propertySlug":"decision-kind","path":"temper/lib-gps/modules/gps-lib-state/gps-lib-state.module.ts","id":"01a0614d-4763-71d6-823d-0a023d0ff5b6"}

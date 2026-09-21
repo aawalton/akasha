@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-custom-menu/temper-lib-custom-menu.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-data-encode/temper-lib-data-encode.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-debug-logger/temper-lib-debug-logger.eso-addon.ts"}
+{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/addon/library/lib-extended-journal/temper-lib-extended-journal.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/antiquities-addon/temper-antiquities-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/capture-datamining-addon/temper-capture-datamining-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/capture-sales-addon/temper-capture-sales-addon.eso-addon.ts"}
@@ -24,7 +25,6 @@
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/interface-addon/temper-interface-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/items-addon/temper-items-addon.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/keybinder-addon/temper-keybinder-addon.eso-addon.ts"}
-{"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-extended-journal/temper-lib-extended-journal.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-gps/temper-lib-gps.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-histoire/temper-lib-histoire.eso-addon.ts"}
 {"propertySlug":"import","fileName":"eso-addon.page-type.types.ts","path":"temper/lib-main-menu/temper-lib-main-menu.eso-addon.ts"}

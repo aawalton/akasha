@@ -399,6 +399,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-data-encode/modules/data-encode-encoder/data-encode-encoder.module.ts","id":"01a06061-969e-7a22-9872-bfd327e2b7c1"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-data-encode/temper-lib-data-encode.eso-addon.ts","id":"01a06061-969c-79fe-8013-c5a31045b336"}
 {"propertySlug":"decision-kind","path":"temper/addon/library/lib-debug-logger/temper-lib-debug-logger.eso-addon.ts","id":"01a06061-408b-7657-add9-d2dfd959f9b9"}
+{"propertySlug":"decision-kind","path":"temper/addon/library/lib-extended-journal/temper-lib-extended-journal.eso-addon.ts","id":"01a0617d-5454-7d6e-a26b-24878ddb747f"}
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
 {"propertySlug":"decision-kind","path":"temper/antiquities-addon/leads-global-declarations/leads-global-declarations.type-declaration.ts","id":"01a06274-b08b-7d77-84f1-e4cc639b4458"}
@@ -887,7 +888,6 @@
 {"propertySlug":"decision-kind","path":"temper/items-rules-routing-core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.ts","id":"01a06151-370a-75d2-9f60-78f57041397a"}
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/modules/keybinder-keybind-manager/keybinder-keybind-manager.module.ts","id":"01a06381-67c1-7ac7-b142-56557c9b3a13"}
 {"propertySlug":"decision-kind","path":"temper/keybinder-addon/temper-keybinder-addon.eso-addon.ts","id":"01a06381-67c1-79b7-93fa-01801fc096e7"}
-{"propertySlug":"decision-kind","path":"temper/lib-extended-journal/temper-lib-extended-journal.eso-addon.ts","id":"01a0617d-5454-7d6e-a26b-24878ddb747f"}
 {"propertySlug":"decision-kind","path":"temper/lib-gps/modules/gps-lib-state/gps-lib-state.module.ts","id":"01a0614d-4763-71d6-823d-0a023d0ff5b6"}
 {"propertySlug":"decision-kind","path":"temper/lib-gps/temper-lib-gps.eso-addon.ts","id":"01a0614d-4767-7eb4-a5d6-68581039bf67"}
 {"propertySlug":"decision-kind","path":"temper/lib-histoire/temper-lib-histoire.eso-addon.ts","id":"01a06197-4ca1-7e27-83d1-a375f8179328"}

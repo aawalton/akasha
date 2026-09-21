@@ -16,5 +16,6 @@ export const temperAddonLibrary = {
     "eso-addon/temper-lib-custom-menu",
     "eso-addon/temper-lib-data-encode",
     "eso-addon/temper-lib-debug-logger",
+    "eso-addon/temper-lib-extended-journal",
   ],
 } as const satisfies Domain
