@@ -1,0 +1,12 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const sixWeeksFromMeetingToMarried = {
+  id: "01a0c5a4-625b-7a95-ae13-93125d7c27a6",
+  type: "page-type/all-about-alan-topic",
+  slug: "six-weeks-from-meeting-to-married",
+  title: "Six Weeks From Meeting To Married",
+  definition: "the day I met Jen and the six weeks between that and our wedding",
+  parents: ["all-about-alan-topic/how-i-got-to-jen"],
+  settled:
+    "I got home from Russia just after midnight, after more than thirty-six hours of travel, was released as a missionary at noon, and my parents drove me to the new school in Cedar City that same day.\n\nAfter an evening seminar my childhood best friend David Eggertsen, who had found me an apartment, was introducing me around. The first person to come up was a cute girl who said, hi, I am supposed to meet you. That was Jennifer Goff.\n\nFour weeks later we went on our first date. A week after that we were committed. Two days later we were engaged. Five days after that we were married. Six weeks from the day we met to the day we were married, engaged for five of them.\n\nMy parents had dated a few months and were engaged only a week. Her parents dated a week and were engaged a few months. We took the short ends of both.",
+} as const satisfies AllAboutAlanTopic
