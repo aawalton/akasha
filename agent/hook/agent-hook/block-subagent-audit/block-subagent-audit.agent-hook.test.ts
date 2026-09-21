@@ -73,7 +73,8 @@ test("the refusal says what a run costs now, each figure measured rather than su
   const err = answerFor(payload(BY_PATH, OWN)).err
   expect(err).toContain("each figure measured rather than supposed")
   expect(err).toContain("a Kubernetes job on a cluster node rather than this workstation")
-  expect(err).toContain("11.3 MB peak resident and 0.04s of processor time over 20m02s")
+  expect(err).toContain("162.9 MB peak resident and 0.55s of processor time over 1m36s")
+  expect(err).toContain("164.7 MB peak resident and 4.42s of processor time over 25m47s")
 })
 
 test("the scope says `--check` is refused by nothing rather than that it judges here", () => {
