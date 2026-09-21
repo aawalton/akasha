@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/phys-attack/phys-attack.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/phys-def/phys-def.game-mechanic.ts"}
+{"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/skill-advance/skill-advance.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/skill-bonus/skill-bonus.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/skill-ladder/skill-ladder.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/stam-max/stam-max.game-mechanic.ts"}
