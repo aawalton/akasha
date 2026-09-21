@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-list/leads-unit-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-share/keybinder-share.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-addon-list.type-declaration.d.ts","path":"temper/addon/library/lib-addon-keybinds/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}

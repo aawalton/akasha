@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-tooltips/leads-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-info-bottom/combat-ui-info-bottom.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"}

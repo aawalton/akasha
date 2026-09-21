@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-alerts/leads-alerts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-reporting/leads-reporting.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-toggle/leads-toggle.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-tooltips/leads-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-list/leads-unit-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-zone-name/leads-zone-name.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-alerts/leads-alerts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-reporting/leads-reporting.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-zone-name/leads-zone-name.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/capture-datamining-addon/modules/datamining-item-miner/datamining-item-miner.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/capture-datamining-addon/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/catalog-addon/modules/catalog-api-test/catalog-api-test.module.code.ts"}

@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-tooltips/leads-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-list/leads-unit-list.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-tab-manager/characters-tab-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/characters-addon/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"}

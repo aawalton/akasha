@@ -5,7 +5,7 @@ export const temperAntiquities = {
   type: "page-type/held-addon",
   slug: "temper-antiquities",
   addonName: "TemperAntiquities",
-  esoAddon: "temper-addon/temper-antiquities-addon",
+  esoAddon: "temper-addon/temper-addon-antiquities",
   addonKind: "ported",
   heldBy: 15145,
   tiClean: true,

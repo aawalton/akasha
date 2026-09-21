@@ -29,7 +29,7 @@ export const temperAddon = {
     "domain/temper-narrow",
     "domain/temper-hud-component",
     "domain/temper-settings-panel",
-    "temper-addon/temper-antiquities-addon",
+    "temper-addon/temper-addon-antiquities",
     "temper-addon/temper-capture-datamining-addon",
     "temper-addon/temper-capture-sales-addon",
     "temper-addon/temper-catalog-addon",

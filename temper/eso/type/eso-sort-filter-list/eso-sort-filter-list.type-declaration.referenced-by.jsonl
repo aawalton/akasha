@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-list/leads-unit-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-mark-inventory-tweaks/writ-mark-inventory-tweaks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-context-menu/housing-context-menu.module.code.ts"}

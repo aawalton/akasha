@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-colors/leads-unit-colors.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/antiquities-addon/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-unit-colors/leads-unit-colors.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/addon/combat-addon/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"}
