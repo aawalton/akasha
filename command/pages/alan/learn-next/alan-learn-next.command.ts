@@ -36,6 +36,11 @@ export const alanLearnNext = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The leaves are read off the topic pages rather than off any folder of books on disk.",
+    },
   ],
   name: "learn-next",
   arguments: [{ argument: "argument/json" }],
