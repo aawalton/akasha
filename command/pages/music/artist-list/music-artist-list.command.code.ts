@@ -11,6 +11,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicArtistList as page } from "akasha/command/pages/music/artist-list/music-artist-list.command.ts"
+import { srgbOf } from "akasha/design/interface/token/modules/color-shape/color-shape.module.code.ts"
 import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -25,7 +26,13 @@ const ARTIST = "artist"
 
 const RELEASE = "release"
 
+const COLOR = "color"
+
 const NONE = "none"
+
+const BYTE = 255
+
+const WORN_OFF = "\x1b[39m"
 
 type Held = Record<string, unknown>
 
@@ -162,14 +169,49 @@ function share(part: number, whole: number): string {
   return whole === 0 ? "-" : `${Math.round((part / whole) * 100)}%`
 }
 
-export function saidOf(data: Artists): readonly string[] {
+export type Wearing = (grade: Grade, said: string) => string
+
+export const bare: Wearing = (_grade, said) => said
+
+function hexesIn(root: string): ReadonlyMap<string, string> {
+  const hexes = new Map<string, string>()
+  for (const one of valuesOfType(root, COLOR)) {
+    const held = one.value as Held
+    const slug = firstIn(held, "slug")
+    const hex = firstIn(held, "hex")
+    if (slug !== undefined && hex !== undefined) hexes.set(slug, hex)
+  }
+  return hexes
+}
+
+function wornOn(hex: string): string {
+  const [red, green, blue] = srgbOf(hex)
+  const byte = (one: number): number => Math.round(one * BYTE)
+  return `\x1b[38;2;${byte(red)};${byte(green)};${byte(blue)}m`
+}
+
+export function wearingIn(root: string): Wearing {
+  const hexes = hexesIn(root)
+  const worn = new Map<string, string>()
+  for (const one of gradeProperty.optionColors) {
+    const hex = hexes.get(slugOf(one.color))
+    if (hex !== undefined) worn.set(one.value, wornOn(hex))
+  }
+  return (grade, said) => {
+    const on = worn.get(grade)
+    return on === undefined ? said : `${on}${said}${WORN_OFF}`
+  }
+}
+
+export function saidOf(data: Artists, wearing: Wearing = bare): readonly string[] {
   const scope = data.status === null ? "" : ` ${data.status}`
   const header = `Artists${scope} — ${data.artists}:`
   if (data.rows.length === 0) return [header, "  (none)"]
   const titles = Math.max(0, ...data.rows.map((one) => one.title.length))
   const lines = [header]
   for (const one of data.rows) {
-    const grade = (one.grade ?? "-").padEnd(2)
+    const cell = (one.grade ?? "-").padEnd(2)
+    const grade = one.grade === null ? cell : wearing(one.grade, cell)
     const runs = `${Math.round(one.length)} min`.padStart(9)
     lines.push(
       `  ${one.title.padEnd(titles)}  ${grade}  ${String(one.releases).padStart(4)} rel ${runs}  ` +
@@ -182,7 +224,13 @@ export function saidOf(data: Artists): readonly string[] {
     `  ${data.releases} releases · ${Math.round(data.length / 60)} h · ` +
       `${Math.round(data.progress / 60)} h heard (${share(data.progress, data.length)}) · ` +
       `${data.graded} graded (${share(data.graded, data.releases)})`,
-    `  ${data.rungs.map((one) => `${one.grade} ${one.artists}`).join(" · ")}`
+    `  ${data.rungs
+      .map((one) =>
+        one.grade === NONE
+          ? `${one.grade} ${one.artists}`
+          : `${wearing(one.grade, one.grade)} ${one.artists}`
+      )
+      .join(" · ")}`
   )
   return lines
 }
@@ -199,5 +247,7 @@ export function musicArtistList(argv: readonly string[], given: Given): Answer {
     )
   }
   const data = artistsOf(given.root, wanted)
-  return told(read.taken.json ? [JSON.stringify(data)] : [...saidOf(data)])
+  if (read.taken.json) return told([JSON.stringify(data)])
+  const wearing = process.stdout.isTTY === true ? wearingIn(given.root) : bare
+  return told([...saidOf(data, wearing)])
 }

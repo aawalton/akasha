@@ -4,5 +4,6 @@
 {"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.test.ts"}
 {"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}
+{"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"command/pages/music/artist-list/music-artist-list.command.test.ts"}
 {"propertySlug":"import","fileName":"code-tests.module.test-fixtures.ts","path":"code/running/modules/code-tests/code-tests.module.test.ts"}
 {"propertySlug":"parts","path":"code/running/code-running.domain.ts","id":"01a09b28-b8af-7f7c-804c-05aff06380bf"}

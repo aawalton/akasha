@@ -47,6 +47,22 @@ export const musicArtistList = {
       statement: "Artists are listed by how long each one runs, longest first.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A grade said here wears the color its rung is given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The color a rung wears is read off the page stating the ladder.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No color is written where the answer is not going to a terminal.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No color is written into the JSON answer.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },

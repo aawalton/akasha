@@ -1,13 +1,18 @@
 import { expect, test } from "bun:test"
+import { plain } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Artists } from "akasha/command/pages/music/artist-list/music-artist-list.command.code.ts"
 import {
   artistsOf,
+  bare,
   musicArtistList,
   rowsOf,
   rungsOf,
   saidOf,
   statusSaid,
+  wearingIn,
 } from "akasha/command/pages/music/artist-list/music-artist-list.command.code.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { indexThere } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
@@ -150,4 +155,52 @@ test("the totals are over the artists listed rather than over every artist", () 
   const following = artistsOf(ROOT, "following")
   expect(following.artists).toBeLessThanOrEqual(all.artists)
   expect(following.releases).toBeLessThanOrEqual(all.releases)
+})
+
+const ESCAPE = String.fromCharCode(27)
+
+function sample(): Artists {
+  const rows = rowsOf(ARTISTS, RELEASES, null)
+  return {
+    status: null,
+    artists: rows.length,
+    rows,
+    rungs: rungsOf(rows),
+    releases: 3,
+    length: 110,
+    progress: 70,
+    graded: 1,
+  }
+}
+
+test("a grade wearing no color is said with no escape", () => {
+  expect(saidOf(sample()).join("\n")).not.toContain(ESCAPE)
+  expect(saidOf(sample(), bare).join("\n")).not.toContain(ESCAPE)
+})
+
+test("a grade wears the color its rung is given, and the count beside it stays bare", () => {
+  const worn = saidOf(sample(), (grade, said) => `<${grade}>${said}</${grade}>`)
+  expect(worn.join("\n")).toContain("<A>A </A>")
+  expect(worn.at(-1)).toBe("  <A>A</A> 1 · <C>C</C> 1 · none 1")
+})
+
+test("an artist on no rung wears no color", () => {
+  const worn = saidOf(sample(), (grade, said) => `<${grade}>${said}</${grade}>`)
+  expect(worn.join("\n")).toContain("  Three  -  ")
+})
+
+test("a grade wearing a color is the bare grade once the escapes are taken off", () => {
+  if (!indexThere(ROOT)) return
+  expect(saidOf(sample(), wearingIn(ROOT)).map(plain)).toEqual([...saidOf(sample())])
+})
+
+test("every rung the ladder states is given a color to wear", () => {
+  if (!indexThere(ROOT)) return
+  const wearing = wearingIn(ROOT)
+  for (const rung of gradeProperty.values) expect(wearing(rung, rung)).not.toBe(rung)
+})
+
+test("the json answer carries no color", () => {
+  if (!indexThere(ROOT)) return
+  expect(musicArtistList(["--json"], GIVEN).report.join("\n")).not.toContain(ESCAPE)
 })

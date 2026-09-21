@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"grade-property.page-type.ts","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"}
 {"propertySlug":"import","fileName":"grade-property.page-type.ts","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.test.ts"}
 {"propertySlug":"import","fileName":"grade-property.page-type.ts","path":"command/pages/music/artist-list/music-artist-list.command.code.ts"}
+{"propertySlug":"import","fileName":"grade-property.page-type.ts","path":"command/pages/music/artist-list/music-artist-list.command.test.ts"}
 {"propertySlug":"import","fileName":"grade-property.page-type.ts","path":"command/pages/music/next/music-next.command.code.ts"}
 {"propertySlug":"import","fileName":"grade-property.page-type.ts","path":"command/pages/music/next/music-next.command.test.ts"}
 {"propertySlug":"import","fileName":"grade-property.page-type.ts","path":"command/pages/music/rate-parts/music-rate-parts.command.code.ts"}
