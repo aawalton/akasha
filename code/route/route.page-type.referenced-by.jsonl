@@ -132,6 +132,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-health/innworld-api-health.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-live-version/innworld-api-live-version.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-page-types/innworld-api-page-types.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-pages/innworld-api-pages.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-home/innworld-home.route.ts"}

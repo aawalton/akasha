@@ -10,6 +10,10 @@ export default [
     route(":pageTypeSlug", "routes/innworld-page-listing/innworld-page-listing.route.code.tsx"),
   ]),
   route("api/health", "routes/innworld-api-health/innworld-api-health.route.code.ts"),
+  route(
+    "api/live-version",
+    "routes/innworld-api-live-version/innworld-api-live-version.route.code.ts"
+  ),
   route("api/page-types", "routes/innworld-api-page-types/innworld-api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/innworld-api-pages/innworld-api-pages.route.code.ts"),
 ] satisfies RouteConfig

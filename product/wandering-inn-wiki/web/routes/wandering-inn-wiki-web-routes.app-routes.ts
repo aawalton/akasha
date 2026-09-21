@@ -8,6 +8,7 @@ export const wanderingInnWikiWebRoutes = {
   appLayout: "tsx",
   parts: [
     "route/innworld-api-health",
+    "route/innworld-api-live-version",
     "route/innworld-api-page-types",
     "route/innworld-api-pages",
     "route/innworld-home",
