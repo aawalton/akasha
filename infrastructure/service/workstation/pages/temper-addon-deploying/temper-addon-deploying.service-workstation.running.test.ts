@@ -23,7 +23,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.running.code.ts"
+  "akasha/infrastructure/service/workstation/pages/temper-addon-deploying/temper-addon-deploying.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
@@ -35,7 +35,7 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run turns one tick over the ESO addon kind rather than any other", async () => {
+test("a run turns one tick over the temper addon kind rather than any other", async () => {
   TICKED.length = 0
   answer = { said: ["put `temper-lib-async` up"], wrong: [] }
   await running.runService()

@@ -44,10 +44,10 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/cluster-deploying/cluster-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/container-recipe-deploying/container-recipe-deploying.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/service-watching/service-watching.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/temper-addon-deploying/temper-addon-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/web-app-deploying/web-app-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/workstation-deploying/workstation-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/telemetry/service-workstations/dcgm-exporter/dcgm-exporter.service-workstation.ts"}

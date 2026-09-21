@@ -1,11 +1,11 @@
 import type { ServiceWorkstation } from "akasha/infrastructure/service/workstation/service-workstation.page-type.types.ts"
 
-export const esoAddonDeploying = {
+export const temperAddonDeploying = {
   id: "01a095be-957a-70aa-93ff-0845e49c8f73",
   type: "page-type/service-workstation",
-  slug: "eso-addon-deploying",
+  slug: "temper-addon-deploying",
   definition:
-    "the service putting the ESO addon kind up once a commit changes what it is built from",
+    "the service putting the temper addon kind up once a commit changes what it is built from",
   enabled: true,
   systemd: {
     schedule: "*:*:00",

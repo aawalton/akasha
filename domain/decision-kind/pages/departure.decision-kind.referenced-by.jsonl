@@ -2777,9 +2777,9 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.ts","id":"01a05a56-b9f1-77a4-8a3d-6e0424952002"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/pages/cluster-deploying/cluster-deploying.service-workstation.ts","id":"01a095f5-2a3a-7cc4-a6d7-44beac4bc49a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/pages/container-recipe-deploying/container-recipe-deploying.service-workstation.ts","id":"01a0965f-7f5f-73fa-8be8-4758f86ec930"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts","id":"01a095be-957a-70aa-93ff-0845e49c8f73"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts","id":"01a09b0e-376c-70a6-9838-96e1f3f656a1"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts","id":"01a09b1a-31fc-7f84-8e3c-2b931fe57d4e"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/workstation/pages/temper-addon-deploying/temper-addon-deploying.service-workstation.ts","id":"01a095be-957a-70aa-93ff-0845e49c8f73"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/pages/web-app-deploying/web-app-deploying.service-workstation.ts","id":"01a09645-42d1-7495-89ba-aacde7d16cf8"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/pages/workstation-deploying/workstation-deploying.service-workstation.ts","id":"01a09593-7b82-7c95-a865-8a7bfa7f269d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/properties/accuracy-seconds.number-property.ts","id":"01a06738-9f12-7dcb-b57a-122407b359b5"}

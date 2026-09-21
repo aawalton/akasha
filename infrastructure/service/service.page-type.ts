@@ -24,7 +24,7 @@ export const service = {
     "relation-property/deploys-after",
     "service-workstation/cluster-deploying",
     "service-workstation/container-recipe-deploying",
-    "service-workstation/eso-addon-deploying",
+    "service-workstation/temper-addon-deploying",
     "service-workstation/inference-deploying",
     "service-workstation/ios-app-deploying",
     "service-workstation/service-watching",
