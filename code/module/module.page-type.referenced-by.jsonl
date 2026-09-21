@@ -2483,6 +2483,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/url/modules/page-listing-href/page-listing-href.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/url/modules/page-type-slug/page-type-slug.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/url/modules/safe-target/safe-target.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/view/modules/key-naming/key-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/device-secret-body/device-secret-body.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/device-secret-minting/device-secret-minting.module.ts"}

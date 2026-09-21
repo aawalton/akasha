@@ -3,10 +3,12 @@ import { splicedIn } from "akasha/change/modules/answer/change-answer.module.cod
 import {
   entrySpotted,
   keySpotted,
+  namedSpotted,
   type Spotted,
   slugSpotted,
 } from "akasha/change/modules/page-property-renaming/page-property-renaming.module.code.ts"
 import { bodiesIn } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import type { Keying } from "akasha/page/view/modules/key-naming/key-naming.module.code.ts"
 
 const PAGE_AT = "akasha/wold/wold.file-property.ts"
 
@@ -142,4 +144,57 @@ test("a body that is no run of entries is refused", () => {
   expect(refusalOf(entrySpotted(ENTRIES_AT, "{\n", "wold", "woldFile"))).toContain(
     "reads as no run of entries"
   )
+})
+
+const VIEW_AT = "akasha/looking/looking.view.ts"
+
+const VIEW_BODY = `export const looking = {
+  id: "seen",
+  slug: "looking",
+  groupBy: "wold",
+  narrows: [{ key: "wold.held", comparison: "is", values: ["wold"] }],
+  visibleProperties: ["wold", "quoin"],
+} as const
+`
+
+const KEYING: readonly Keying[] = [
+  { key: "groupBy", within: null },
+  { key: "visibleProperties", within: null },
+  { key: "narrows", within: "key" },
+]
+
+test("a field holding one name has that name respelled", () => {
+  const held = namedSpotted(VIEW_AT, VIEW_BODY, "wold", "wold-file", KEYING)
+
+  expect(bodyOver(VIEW_AT, VIEW_BODY, held)).toContain('groupBy: "wold-file"')
+})
+
+test("a field holding many names has each of them respelled", () => {
+  const held = namedSpotted(VIEW_AT, VIEW_BODY, "wold", "wold-file", KEYING)
+
+  expect(bodyOver(VIEW_AT, VIEW_BODY, held)).toContain('visibleProperties: ["wold-file", "quoin"]')
+})
+
+test("a field named within a record is respelled in each record the holding key states", () => {
+  const held = namedSpotted(VIEW_AT, VIEW_BODY, "wold", "wold-file", KEYING)
+
+  expect(bodyOver(VIEW_AT, VIEW_BODY, held)).toContain('key: "wold-file.held"')
+})
+
+test("a value under no field named is left as that value is", () => {
+  const held = namedSpotted(VIEW_AT, VIEW_BODY, "wold", "wold-file", KEYING)
+
+  expect(bodyOver(VIEW_AT, VIEW_BODY, held)).toContain('values: ["wold"]')
+})
+
+test("a body naming that slug nowhere answers no passage", () => {
+  const held = namedSpotted(VIEW_AT, VIEW_BODY, "held", "kept", KEYING)
+
+  expect("refused" in held ? [] : held.spots).toHaveLength(0)
+})
+
+test("a body exporting no object is refused where a name would be respelled", () => {
+  expect(
+    refusalOf(namedSpotted(CODE_AT, "export const quoin = 1\n", "wold", "wold-file", KEYING))
+  ).toBe(`\`${CODE_AT}\` exports no object`)
 })

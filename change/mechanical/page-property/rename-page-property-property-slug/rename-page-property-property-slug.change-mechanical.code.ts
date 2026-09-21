@@ -20,6 +20,7 @@ import {
 import {
   entrySpotted,
   keySpotted,
+  namedSpotted,
   type Spotted,
   slugSpotted,
 } from "akasha/change/modules/page-property-renaming/page-property-renaming.module.code.ts"
@@ -33,6 +34,11 @@ import {
   typedAs,
 } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  listedBy,
+  viewKeying,
+  viewKinds,
+} from "akasha/page/view/modules/key-naming/key-naming.module.code.ts"
 
 const PROPERTY_SLUG = "propertySlug"
 
@@ -201,6 +207,22 @@ function bodiedOver(world: World, edits: readonly FileChange[]): World | string 
   }
 }
 
+function viewingOver(world: World, types: readonly Declared[]): readonly string[] {
+  const under = new Set<string>()
+  for (const one of types) {
+    for (const kind of world.index.kindsUnder(one.slug)) under.add(kind)
+  }
+  const found: string[] = []
+  for (const kind of viewKinds(world.index)) {
+    for (const [path, value] of world.index.valuesByPath(kind)) {
+      const listed = listedBy(value)
+      if (listed === null || !under.has(listed)) continue
+      found.push(path)
+    }
+  }
+  return found.sort()
+}
+
 function signingsOf(
   world: World,
   types: readonly Declared[],
@@ -260,6 +282,13 @@ export function renamePagePropertyPropertySlug(world: World, given: Asked): Answ
     const text = textIn(world, spelling, at)
     if (text === null) return refusing(`\`${at}\` ${NO_BODY}`)
     const why = spotted(spelling, at, entrySpotted(at, text, key, now))
+    if (why !== null) return refusing(`\`${at}\` is refused, and ${why}`)
+  }
+  const keying = atMost === null ? viewKeying(world.index) : []
+  for (const at of keying.length === 0 ? [] : viewingOver(world, types)) {
+    const text = textIn(world, spelling, at)
+    if (text === null) return refusing(`\`${at}\` ${NO_BODY}`)
+    const why = spotted(spelling, at, namedSpotted(at, text, read.was, given.to, keying))
     if (why !== null) return refusing(`\`${at}\` is refused, and ${why}`)
   }
   const edits: FileChange[] = [...editsOf(spelling)]

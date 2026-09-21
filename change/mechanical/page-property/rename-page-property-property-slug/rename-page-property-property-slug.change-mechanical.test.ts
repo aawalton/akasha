@@ -1,6 +1,19 @@
 import { expect, test } from "bun:test"
 import { renamePagePropertyPropertySlug } from "akasha/change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts"
 import {
+  NOTE_BODY,
+  ONE_BODY,
+  OTHER_AT,
+  TWO_BODY,
+  TYPES_BODY,
+  VIEW_AT,
+  VIEW_BODIES,
+  VIEW_DECLARED,
+  VIEW_FIELDS,
+  VIEW_VALUES,
+  WOLD_BODY,
+} from "akasha/change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.test-fixtures.ts"
+import {
   type Answer,
   pathsIn,
   refusing,
@@ -37,42 +50,8 @@ const MONTH_AT = "akasha/months/one.month.ts"
 
 const ROWS_AT = "akasha/months/one.month.tallies.jsonl"
 
-const WOLD_BODY = `export const wold = {
-  id: "wold-id",
-  type: "file-property",
-  slug: "wold",
-  propertySlug: "wold",
-} as const
-`
-
-const NOTE_BODY = `export const note = {
-  id: "note-id",
-  type: "relation-property",
-  slug: "note",
-  propertySlug: "note",
-} as const
-`
-
-const ONE_BODY = `export const one = {
-  id: "one",
-  pageTypeSlug: "quoin",
-  slug: "one",
-  wold: "ts",
-  note: "quoin/two",
-} as const
-`
-
-const TWO_BODY = `export const two = {
-  id: "two",
-  pageTypeSlug: "quoin",
-  slug: "two",
-  wold: "ts",
-} as const
-`
-
-const TYPES_BODY = "export type Quoin = { wold: string; note: string }\n"
-
 const BODIES: Readonly<Record<string, string>> = {
+  ...VIEW_BODIES,
   [WOLD_AT]: WOLD_BODY,
   [NOTE_AT]: NOTE_BODY,
   [TYPES_AT]: TYPES_BODY,
@@ -82,6 +61,7 @@ const BODIES: Readonly<Record<string, string>> = {
 }
 
 const VALUES: Readonly<Record<string, Value>> = {
+  ...VIEW_VALUES,
   "file-property/wold": {
     id: "wold-id",
     pageTypeSlug: "file-property",
@@ -125,7 +105,9 @@ function worldIn(
   bodies: Readonly<Record<string, string>>,
   values: Readonly<Record<string, Value>>,
   declaring: (id: string) => readonly Declaring[],
-  paged: Readonly<Record<string, readonly (readonly [string, Value])[]>>
+  paged: Readonly<Record<string, readonly (readonly [string, Value])[]>>,
+  declared: readonly Value[] = [],
+  fields: Readonly<Record<string, readonly Value[]>> = {}
 ): World {
   return {
     ...worldOf(bodies),
@@ -140,6 +122,9 @@ function worldIn(
       importersOf: () => [],
       everyPath: () => Object.keys(bodies),
       fileKeysAt: () => new Map<string, string | null>(),
+      propertiesOf: () => declared,
+      pageAt: (kind: string, slug: string) => values[`${kind}/${slug}`] ?? null,
+      carriedIn: (value: Value) => fields[String(value["slug"])] ?? [],
     } as never,
     reaching: reaches,
   }
@@ -150,13 +135,17 @@ const PAGED: Readonly<Record<string, readonly (readonly [string, Value])[]>> = {
     [ONE_AT, VALUES["quoin/one"] as Value],
     [TWO_AT, VALUES["quoin/two"] as Value],
   ],
+  view: [
+    [VIEW_AT, VALUES["view/looking"] as Value],
+    [OTHER_AT, VALUES["view/other"] as Value],
+  ],
 }
 
 function typedWorld(
   bodies: Readonly<Record<string, string>> = BODIES,
   values: Readonly<Record<string, Value>> = VALUES
 ): World {
-  return worldIn(bodies, values, () => BY_A_TYPE, PAGED)
+  return worldIn(bodies, values, () => BY_A_TYPE, PAGED, VIEW_DECLARED, VIEW_FIELDS)
 }
 
 function bodyOf(said: Answer, world: World, at: string): string {
@@ -217,6 +206,33 @@ test("a run handed a count states no slug and spells no signature anew", () => {
 
   expect(pathsIn(said)).not.toContain(WOLD_AT)
   expect(pathsIn(said)).not.toContain(TYPES_AT)
+})
+
+test("every field of a view naming the property has the slug spelled anew", () => {
+  const world = typedWorld()
+
+  const said = renamePagePropertyPropertySlug(world, { at: WOLD_AT, to: "wold-file" })
+
+  expect(bodyOf(said, world, VIEW_AT)).toContain('groupBy: "wold-file"')
+  expect(bodyOf(said, world, VIEW_AT)).toContain('visibleProperties: ["wold-file", "note"]')
+  expect(bodyOf(said, world, VIEW_AT)).toContain('viewSorts: [{ key: "wold-file"')
+})
+
+test("a view listing another page type is left as it is", () => {
+  const said = renamePagePropertyPropertySlug(typedWorld(), { at: WOLD_AT, to: "wold-file" })
+
+  expect(pathsIn(said)).toContain(VIEW_AT)
+  expect(pathsIn(said)).not.toContain(OTHER_AT)
+})
+
+test("a run handed a count spells no slug anew in a view", () => {
+  const said = renamePagePropertyPropertySlug(typedWorld(), {
+    at: WOLD_AT,
+    to: "wold-file",
+    atMost: 1,
+  })
+
+  expect(pathsIn(said)).not.toContain(VIEW_AT)
 })
 
 test("a property that is no file property carries no file", () => {

@@ -32,6 +32,7 @@ export const view = {
     "text-property/sort-key",
     "text-property/view-predicate",
     "text-property/visible-properties",
+    "module/key-naming",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

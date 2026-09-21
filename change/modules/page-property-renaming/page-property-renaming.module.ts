@@ -85,5 +85,31 @@ export const pagePropertyRenaming = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads which pages carry the property.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value naming a property by slug is respelled where that slug is the one asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which fields hold such a name is handed in rather than worked out here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field holding many values is respelled in each value that is text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A field named within a record is respelled in each record the holding key states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name parted by dots is respelled at the segment before the first dot.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body naming that slug nowhere answers no passage rather than being refused.",
+    },
   ],
 } as const satisfies Module

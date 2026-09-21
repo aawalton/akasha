@@ -7,10 +7,12 @@ export const renamePagePropertyPropertySlug = {
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/page-property",
   changeTargetSubtype: "change-target-subtype/page-property-property-slug",
-  definition: "one property's key spelled anew on that property's page and on every page with it",
+  definition:
+    "one property's key spelled anew on its page, on every page with it and in every view naming it",
   takesAtMost: true,
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -169,6 +171,44 @@ export const renamePagePropertyPropertySlug = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A file property's file and an entry shape's rows are each such a file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view naming the property states that property's slug, spelled anew here too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The views written are the views listing a declaring page type or a page type beneath one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view listing another page type is left as it is though it states that slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which fields of a view name a property is read from the page property behind each field.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field holding many values has the slug spelled anew in each of them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field of a record is spelled anew in each record that field's key states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name parted by dots has the segment before the first dot spelled anew.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view naming the property nowhere is passed over rather than refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run handed a count spells no slug anew in a view.",
     },
   ],
   changeKind: "change-kind/change-mechanical",

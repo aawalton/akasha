@@ -3153,6 +3153,7 @@
 {"propertySlug":"decision-kind","path":"page/unique-kind/unique-kind.page-type.ts","id":"01a04edd-897d-7e60-9206-d1b3a52bea1f"}
 {"propertySlug":"decision-kind","path":"page/url-property/url-property.page-type.ts","id":"01a063de-2c60-7000-97f0-b6451df11654"}
 {"propertySlug":"decision-kind","path":"page/url/modules/page-href/page-href.module.ts","id":"01a05c13-a261-7c66-b6d7-f8bd74caf905"}
+{"propertySlug":"decision-kind","path":"page/view/modules/key-naming/key-naming.module.ts","id":"01a0c56b-6f8d-7a73-a14d-5963b94c9672"}
 {"propertySlug":"decision-kind","path":"page/view/properties/group-granularity.select-property.ts","id":"01a0680d-4d00-7009-8c62-3f7a1d5b410a"}
 {"propertySlug":"decision-kind","path":"page/view/properties/group-sorts.record-property.ts","id":"01a0680d-4d00-7008-a715-4d2b9c8e4109"}
 {"propertySlug":"decision-kind","path":"page/view/properties/layout.select-property.ts","id":"01a0680d-4d00-7003-9c58-7b4e2a6d4104"}

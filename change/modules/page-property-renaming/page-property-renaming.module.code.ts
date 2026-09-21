@@ -1,11 +1,14 @@
 import type { Splice } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   keyOf,
+  listIn,
   literalIn,
   statedIn,
+  textsOf,
   valuesIn,
 } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { headOf, type Keying } from "akasha/page/view/modules/key-naming/key-naming.module.code.ts"
 import ts from "typescript"
 
 const TRAILING_LINES = /\n+$/
@@ -175,4 +178,57 @@ export function entrySpotted(path: string, text: string, was: string, now: strin
   if (held.holding) return { refused: `\`${path}\` states \`${was}\` and \`${now}\` in one entry` }
   const over = spannedOver(text, held.spots)
   return { spots: over === null ? [] : [over] }
+}
+
+function namedOver(
+  source: ts.SourceFile,
+  said: ts.StringLiteral,
+  was: string,
+  now: string
+): Splice | null {
+  const held = said.text
+  if (headOf(held) !== was) return null
+  return {
+    from: said.getStart(source),
+    to: said.getEnd(),
+    put: JSON.stringify(`${now}${held.slice(was.length)}`),
+  }
+}
+
+function namedIn(
+  source: ts.SourceFile,
+  owner: ts.ObjectLiteralExpression,
+  one: Keying
+): readonly ts.StringLiteral[] {
+  const within = one.within
+  if (within !== null) {
+    return valuesIn(source, one.key).flatMap((record) => {
+      const said = textsOf(record).get(within)
+      return said === undefined ? [] : [said]
+    })
+  }
+  const stated = textsOf(owner).get(one.key)
+  if (stated !== undefined) return [stated]
+  const list = listIn(source, one.key)
+  return list === null ? [] : list.elements.filter(ts.isStringLiteral)
+}
+
+export function namedSpotted(
+  path: string,
+  text: string,
+  was: string,
+  now: string,
+  keying: readonly Keying[]
+): Spotted {
+  const source = parsedAs(path, text)
+  const owner = literalIn(source)
+  if (owner === null) return { refused: `\`${path}\` exports no object` }
+  const spots: Splice[] = []
+  for (const one of keying) {
+    for (const said of namedIn(source, owner, one)) {
+      const spot = namedOver(source, said, was, now)
+      if (spot !== null) spots.push(spot)
+    }
+  }
+  return { spots }
 }
