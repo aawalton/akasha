@@ -10,8 +10,7 @@ export const rulebook = {
   decisions: [
     {
       decisionKind: "decision-kind/stopgap",
-      statement:
-        "The one game still holding this holds prose for its game master rather than rules.",
+      statement: "The one game still holding this holds the prose its player is told, not rules.",
     },
   ],
   types: "ts",
