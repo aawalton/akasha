@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whyEatingHealthierIsDangerousForMe = {
+  id: "01a0c59b-6208-727e-9724-d009cdde971f",
+  type: "page-type/all-about-alan-topic",
+  slug: "why-eating-healthier-is-dangerous-for-me",
+  title: "Why Eating Healthier Is Dangerous For Me",
+  definition: "the restriction spiral a purity frame sets off in me, and the rule against it",
+  parents: ["all-about-alan-topic/how-i-eat"],
+  related: ["all-about-alan-topic/the-rule-that-i-may-not-spend-myself"],
+  settled:
+    "My sensory aversions are weak. The real ones are conceptual. Thinking about what meat actually is makes me feel sick.\n\nThe worst of them is a restriction spiral. Under an eat-healthier frame every food is unhealthy to somebody, and the frame manufactures the aversion out of nothing.\n\nSo a naive belief in pure or healthy eating is actively dangerous for me rather than merely unhelpful. It runs straight at the eating disorder my wiring already leans toward.\n\nAny change to how I eat has to be neutral or better in the present. It can never be a restriction, and it can never be the present sacrificed for a later self.",
+} as const satisfies AllAboutAlanTopic
