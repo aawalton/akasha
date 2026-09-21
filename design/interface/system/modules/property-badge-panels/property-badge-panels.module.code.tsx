@@ -1,11 +1,16 @@
 "use client"
 
+import { color } from "akasha/design/interface/color/color.page-type.ts"
+import { green } from "akasha/design/interface/color/pages/green.color.ts"
+import { grey } from "akasha/design/interface/color/pages/grey.color.ts"
+import { yellow } from "akasha/design/interface/color/pages/yellow.color.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import type {
   PropertyDefinition,
   PropertyType,
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PropertyBadge } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 
 interface BadgeSample {
@@ -27,10 +32,12 @@ function SampleRows({ samples }: { samples: readonly BadgeSample[] }) {
   )
 }
 
+const COLOR = color.slug
+
 const SELECT_OPTIONS = [
-  { id: "draft", label: "Draft" },
-  { id: "review", label: "In Review" },
-  { id: "landed", label: "Landed" },
+  { id: "draft", label: "Draft", color: namedAs(COLOR, grey.slug, null) },
+  { id: "review", label: "In Review", color: namedAs(COLOR, yellow.slug, null) },
+  { id: "landed", label: "Landed", color: namedAs(COLOR, green.slug, null) },
 ]
 
 const TEXT_SAMPLES: readonly BadgeSample[] = [
@@ -386,9 +393,10 @@ export function SelectionPropertyBadgesPanel() {
   return (
     <PanelCard id="ds-selection-property-badges" collapsible title="Selection Property Badges">
       <p className="text-secondary text-sm">
-        <code>path-select</code> reaches no drawing of its own, so the fallback badge draws the text
-        its value holds. <code>multi-select</code> takes the select drawing off the page type it
-        extends, and draws a chip for each option chosen.
+        An option names a color page, and the chip is drawn in the shade the badge keeps for that
+        color. <code>path-select</code> reaches no drawing of its own, so the fallback badge draws
+        the text its value holds. <code>multi-select</code> takes the select drawing off the page
+        type it extends, and draws a chip for each option chosen.
       </p>
       <SampleRows samples={SELECTION_SAMPLES} />
     </PanelCard>
