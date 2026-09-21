@@ -22,6 +22,7 @@ export const seatSupervisor = {
     "domain/supervisor-ticking",
     "domain/supervisor-tooling",
     "page-type/supervisor-action",
+    "domain/supervisor-compacting",
   ],
   decisions: [
     {

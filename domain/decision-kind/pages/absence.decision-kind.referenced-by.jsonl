@@ -179,6 +179,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.ts","id":"01a06871-3115-7005-8779-160298d3aa4e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.ts","id":"01a069bf-b8ea-7512-b82f-c386bd4270c4"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.ts","id":"01a06876-abda-700e-b7c6-fdaa53c08fc1"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-decide/supervisor-compact-decide.module.ts","id":"01a0c57e-03dc-7717-9ac2-10dfd4ab8a6f"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.ts","id":"01a0683e-3dbe-7017-8a20-75a3afbbc779"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.ts","id":"01a06838-5a84-7000-a52b-bc6acad18e78"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.ts","id":"01a06871-3115-7002-a786-a3fb7a53c159"}
