@@ -12,5 +12,5 @@ export const keepingMyOwnVolumeDown = {
     "all-about-alan-topic/how-much-company-i-can-take",
   ],
   settled:
-    "It is deliberate, not a flat feeling underneath.\n\nLoud from me makes people louder back, and their louder comes at me again. Quiet keeps the loop quiet.\n\nIt works a step earlier than earplugs or dark glasses, which cap what the room has already made.\n\nI often cannot tell from inside that the loop is winding up, so staying quiet by default is cheaper than catching it after.",
+    "It is deliberate, not a flat feeling underneath.\n\nLoud from me makes people louder back, and their louder comes at me again. Quiet keeps the loop quiet.\n\nIt works a step earlier than earplugs or dark glasses, which cap what the room has already made.\n\nI often cannot tell from inside that the loop is winding up, so staying quiet by default is cheaper than catching it after.\n\nWhat makes it worth doing at all is my two roots. Every extra unit the room sends back costs me more than it would cost anyone else, and it costs the same again on the tenth turn as on the first.",
 } as const satisfies AllAboutAlanTopic
