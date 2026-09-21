@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHIrdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQYQyWeA",
+  "buildHash": "ATQHIqdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQYQyWeA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -11,7 +11,7 @@
   "companionRapport": {
     "1": 4058,
     "5": 4106,
-    "6": 2103,
+    "6": 2119,
     "9": 5500
   },
   "quests": [
@@ -1013,6 +1013,7 @@
     6551,
     6554,
     6564,
+    6566,
     6576,
     6577,
     6588,
@@ -6986,8 +6987,8 @@
     "groupDungeonTotal": 26,
     "tutorial": 0,
     "skyshardPoints": 176,
-    "unassigned": 157,
-    "zoneQuestTotal": 115,
+    "unassigned": 158,
+    "zoneQuestTotal": 116,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -7150,7 +7151,7 @@
       "EP2": 3,
       "DC2": 3,
       "DC0a": 0,
-      "TR": 5,
+      "TR": 6,
       "DC3": 3,
       "WR": 3,
       "DC4": 3,
@@ -7183,7 +7184,7 @@
       "AP": 8,
       "GY": 0
     },
-    "total": 445,
+    "total": 446,
     "maelstromArena": 1
   },
   "traitResearch": {
@@ -13047,7 +13048,8 @@
         "2": 2,
         "3": 3,
         "4": 4,
-        "5": 5
+        "5": 5,
+        "6": 6
       },
       "2": {
         "1": 1,
