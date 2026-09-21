@@ -399,6 +399,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/contributor/properties/contributor-email-hash.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/contributor/properties/stripe-charge-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-ask.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/entity/properties/entity-kind.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/card-vocabulary.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/coordinator-agent.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/game-engine.text-property.ts"}
