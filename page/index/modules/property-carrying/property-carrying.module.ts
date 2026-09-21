@@ -178,6 +178,14 @@ export const propertyCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A face over a root is held for that root rather than built again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A face held that way reads one index reading rather than one for each question.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A face works that out for the name it is asked rather than for every name.",
     },
     {

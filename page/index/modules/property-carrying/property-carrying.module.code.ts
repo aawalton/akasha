@@ -243,8 +243,14 @@ export function facingIn(root: string, given: string | Reading): Facing {
   return made
 }
 
+const FACING = new Map<string, Facing>()
+
 export function facingOn(root: string): Facing {
-  return facingIn(root, root)
+  const found = FACING.get(root)
+  if (found !== undefined) return found
+  const made = facingIn(root, readingIn(root))
+  FACING.set(root, made)
+  return made
 }
 
 export function generatedAt(root: string, path: string): boolean {
@@ -341,15 +347,6 @@ export function slugsWhere(
   carriedBy: (named: string) => Carried,
   under: string = FILE_PROPERTY
 ): ReadonlySet<string> {
-  return slugsOver(given, wanted, (named) => typesIn(carriedBy(named)), under)
-}
-
-function slugsOver(
-  given: Kinded,
-  wanted: (value: Value) => boolean,
-  typesBy: (named: string) => ReadonlySet<string>,
-  under: string
-): ReadonlySet<string> {
   const made = new Set<string>()
   for (const kind of given.kindsUnder(under)) {
     for (const listed of given.everyOfType(kind)) {
@@ -359,7 +356,8 @@ function slugsOver(
       const slug = value[PROPERTY_SLUG]
       const said = partedIn(listed.path)
       if (typeof slug !== "string" || said === null || said.sections.length > 0) continue
-      for (const one of typesBy(`${said.pageType}/${said.slug}`)) made.add(sectionKey(one, slug))
+      const named = `${said.pageType}/${said.slug}`
+      for (const one of typesIn(carriedBy(named))) made.add(sectionKey(one, slug))
     }
   }
   return made
