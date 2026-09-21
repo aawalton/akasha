@@ -8,11 +8,6 @@ export const nimueImageManagement = {
   persona: "persona/nimue",
   intentStack: [
     {
-      statement: "Every root an image path is read against names a place some code resolves.",
-      workingMemory:
-        "39 `persona-anchor-image` pages, 44 `persona-wallpaper` pages and 2,873 generation-log rows state `image-root`. `personas` is `~/To Process/Personas` and `wallpapers` is `~/To Process/Wallpapers/Personas`, about 11,200 files and 15GB. Nothing in the repository maps either name to either place, so no reader can open those pictures.",
-    },
-    {
       statement: "An image page states the fields an image carries.",
       workingMemory:
         "`image.page-type.ts` declares no properties at all, while `persist-image.module.code.ts` writes title, engine, service, operation, model, prompt, seed, image-path and inference-run. Those land as rows in `alan.generation-log.images.jsonl` rather than as pages. The type also states that an image catalogued from disk names no run, and no command catalogues one.",
