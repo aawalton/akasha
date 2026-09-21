@@ -3340,6 +3340,7 @@
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-sign-in/jenny-sign-in.route.ts","id":"01a08823-9dc2-7243-8e1c-b4c0979fbb10"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.ts","id":"01a07c5d-9ae4-79ac-8807-7f63c08e44df"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts","id":"01a08bee-4262-784b-b397-8a5a0ad37433"}
+{"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/wandering-inn-wiki.domain.ts","id":"01a0b79b-285f-7808-bb33-c1a4368acf58"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.ts","id":"01a0c5ec-1abc-79c2-a38d-b2db427f7588"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.ts","id":"01a0c5fb-f556-72d8-af41-7464e370af1a"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/routes/innworld-page-listing/innworld-page-listing.route.ts","id":"01a0c5fc-31a5-75df-9ea9-6a8ef459b23f"}
