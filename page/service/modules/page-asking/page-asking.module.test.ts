@@ -5,7 +5,6 @@ import {
   asking,
   ownerFor,
   shaping,
-  titledAs,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   climbedInRepo,
@@ -320,11 +319,6 @@ test("what a query asks for is every key it names, each under where it named it"
     ["slug", "keys"],
     ["definition", "keys"],
   ])
-})
-
-test("a property slug is titled with its words spaced and each word opening capital", () => {
-  expect(titledAs("to-do-due-date")).toBe("To Do Due Date")
-  expect(titledAs("title")).toBe("Title")
 })
 
 test("a declaration is titled by its own property slug rather than by the definition", () => {

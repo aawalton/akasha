@@ -3,6 +3,7 @@ import {
   type Taken,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { extended } from "akasha/graph/predicate/pages/extended/extended.graph-predicate.ts"
+import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { answeringOver } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   listedAt,
@@ -89,13 +90,6 @@ export type Shape = {
 }
 
 export type Shaped = { readonly shape: Shape | null } | { readonly refused: string }
-
-export function titledAs(propertySlug: string): string {
-  return propertySlug
-    .split("-")
-    .map((word) => `${word.slice(0, 1).toUpperCase()}${word.slice(1)}`)
-    .join(" ")
-}
 
 export type Climbing = (pageTypeSlug: string) => readonly Value[]
 
