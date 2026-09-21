@@ -1,11 +1,10 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const scrollableMenuCasts3a = {
-  id: "01a06275-c444-769d-a238-060e94512654",
+export const scrollableMenuCasts2c = {
+  id: "01a0c509-af1c-7c61-9f5b-08859cf7da2b",
   type: "page-type/module",
-  slug: "scrollable-menu-casts-3a",
-  definition:
-    "the narrowing helpers for shapes named from ThisVoidArgsNever through ControlUnknownAlt",
+  slug: "scrollable-menu-casts-2c",
+  definition: "the narrowing helpers for shapes named from RunItemCallback through StringUndefined",
   code: "ts",
   decisions: [
     {
@@ -18,11 +17,11 @@ export const scrollableMenuCasts3a = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Function signatures name the receiver parameter as void or unknown.",
+      statement: "Method-bearing shapes are spelled out inline as structural object types.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Membership of this half is decided by the alphabetical name of the target type.",
+      statement: "Membership of this part is decided by the alphabetical name of the target type.",
     },
   ],
 } as const satisfies Module

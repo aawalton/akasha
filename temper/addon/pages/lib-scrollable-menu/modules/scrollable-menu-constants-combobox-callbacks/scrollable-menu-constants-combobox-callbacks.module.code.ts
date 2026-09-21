@@ -6,7 +6,7 @@ import {
   asLsmCastNumberUndefined,
   asLsmCastRecordStringUnknown,
 } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastStringUndefined } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
+import { asLsmCastStringUndefined } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-2c/scrollable-menu-casts-2c.module.code.ts"
 import { asString } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 import {
   COMBO_BOX_DEFAULTS,
