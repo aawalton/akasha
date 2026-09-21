@@ -23,5 +23,17 @@ export const requestsAuthProvider = {
       decisionKind: "decision-kind/constraint",
       statement: "A slug naming no page type never comes ready, and every read waits behind it.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The store reads nothing for a reader it holds no name for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader who has not signed in is named to the store as `anonymous`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That name is who the accesses are held by, so the gate answers the same reader.",
+    },
   ],
 } as const satisfies Module

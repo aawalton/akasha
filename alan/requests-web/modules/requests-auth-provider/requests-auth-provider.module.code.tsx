@@ -13,6 +13,8 @@ import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
 
+const ANYONE = "anonymous"
+
 const HYDRATE_OVERRUN_WARN_MS = 30_000
 
 interface AuthProviderProps {
@@ -27,7 +29,7 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
   useEffect(() => {
     const work = (async (): Promise<void> => {
       try {
-        await configurePagesStoreAuth({ jwt: null, owner: reader })
+        await configurePagesStoreAuth({ jwt: null, owner: reader ?? ANYONE })
         const store = await getPagesStore()
         store.acquireSlug(PAGE_TYPE_SLUG)
         await store.whenSlugReady(PAGE_TYPE_SLUG)
