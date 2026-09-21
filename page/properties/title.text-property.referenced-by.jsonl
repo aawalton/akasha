@@ -113,6 +113,7 @@
 {"propertySlug":"page-property","path":"alan/book/pages/all-about-alan/experiment/all-about-alan-experiment.page-type.ts","id":"01a0657f-a729-7906-84f8-825c8af36228"}
 {"propertySlug":"page-property","path":"alan/book/pages/all-about-alan/model/all-about-alan-model.page-type.ts","id":"01a0657f-a729-72ba-94d1-7b8ccb90a8e4"}
 {"propertySlug":"page-property","path":"alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.ts","id":"01a01acb-287b-7001-a5dd-b90e367fe4f8"}
+{"propertySlug":"page-property","path":"alan/car-research/car-make/properties/trims.page-property-entry.ts","id":"01a0c541-1a15-7388-aa49-2af02f70d6c0"}
 {"propertySlug":"page-property","path":"alan/car-research/car/car.page-type.ts","id":"01a065a0-0000-7000-8000-000000000401"}
 {"propertySlug":"page-property","path":"alan/chess/game/chess-game.page-type.ts","id":"01a06582-bd62-7ffe-a236-e510097e9b91"}
 {"propertySlug":"page-property","path":"alan/chess/progress/chess-progress.page-type.ts","id":"01a06582-bd62-702f-92a4-3fd313251ee2"}

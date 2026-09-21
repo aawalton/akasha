@@ -7,8 +7,8 @@ export const carMake = {
   definition: "a company that builds cars",
   extends: ["page-type/car"],
   parts: [
-    "file-property/trims",
     "number-property/founding-year",
+    "page-property-entry/trims",
     "text-property/charging-network-access",
     "text-property/country",
     "text-property/drm-policy",
@@ -28,7 +28,7 @@ export const carMake = {
     { pageProperty: "text-property/nacs-adoption", required: true, many: false },
     { pageProperty: "text-property/parent-corporation", required: true, many: false },
     { pageProperty: "text-property/reliability-notes", required: true, many: false },
-    { pageProperty: "file-property/trims", required: false, many: false },
+    { pageProperty: "page-property-entry/trims", required: false, many: false },
   ],
   decisions: [
     {

@@ -8,7 +8,7 @@ import type { KillSwitchPolicy } from "akasha/alan/car-research/car-make/propert
 import type { NacsAdoption } from "akasha/alan/car-research/car-make/properties/nacs-adoption.text-property.types.ts"
 import type { ParentCorporation } from "akasha/alan/car-research/car-make/properties/parent-corporation.text-property.types.ts"
 import type { ReliabilityNotes } from "akasha/alan/car-research/car-make/properties/reliability-notes.text-property.types.ts"
-import type { Trims } from "akasha/alan/car-research/car-make/properties/trims.file-property.types.ts"
+import type { Trims } from "akasha/alan/car-research/car-make/properties/trims.page-property-entry.types.ts"
 
 export type CarMake = Car & {
   chargingNetworkAccess: ChargingNetworkAccess

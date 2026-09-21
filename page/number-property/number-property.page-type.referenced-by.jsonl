@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/capture-through-line.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-calibration.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/car-research/car-make/properties/founding-year.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/car-research/car-trim/properties/msrp.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/car-research/car-year/properties/model-year.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/chess/game/properties/ply.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/chess/puzzle-set/properties/nb-plays.number-property.ts"}

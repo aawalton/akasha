@@ -2,7 +2,7 @@
 {"definition":"one specification a model year is sold in"}
 {"extends":["page-type/car"]}
 {"id":"01a06827-645d-74f5-957f-25b077d85817"}
-{"parts":["relation-property/car-year"]}
+{"parts":["relation-property/car-year","number-property/msrp"]}
 {"properties":[{"pageProperty":"relation-property/car-year","required":true,"many":false}]}
 {"schema":"jsonl"}
 {"slug":"car-trim"}

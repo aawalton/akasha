@@ -6,7 +6,7 @@ export const carTrim = {
   slug: "car-trim",
   definition: "one specification a model year is sold in",
   extends: ["page-type/car"],
-  parts: ["relation-property/car-year"],
+  parts: ["relation-property/car-year", "number-property/msrp"],
   properties: [{ pageProperty: "relation-property/car-year", required: true, many: false }],
   decisions: [
     {

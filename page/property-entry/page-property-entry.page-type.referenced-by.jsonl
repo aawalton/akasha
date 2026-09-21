@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.ts","path":"page/index/modules/reaching/reaching.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"agent/model/test/properties/cases.page-property-entry.ts"}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/car-research/car-make/properties/trims.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/chess/puzzle-set/properties/puzzles.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/collection/sync/properties/sync-runs.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.ts"}

@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A field a row states no value for is unknown rather than false or empty."},{"decisionKind":"decision-kind/departure","statement":"A field every row states is required, and no other field is."}]}
+{"definition":"every trim of every model year the make sells, one to a line"}
+{"id":"01a0c541-1a15-7388-aa49-2af02f70d6c0"}
+{"properties":[{"pageProperty":"text-property/id","required":true,"many":false},{"pageProperty":"text-property/slug","required":true,"many":false},{"pageProperty":"text-property/title","required":true,"many":false},{"pageProperty":"boolean-property/short-list","required":true,"many":false},{"pageProperty":"text-property/sources","required":true,"many":false},{"pageProperty":"text-property/exclusion-reason","required":false,"many":false},{"pageProperty":"number-property/msrp","required":false,"many":false}]}
+{"propertySlug":"trims"}
+{"slug":"trims"}
+{"type":"page-type/page-property-entry"}
+{"types":"ts"}
