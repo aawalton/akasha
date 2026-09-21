@@ -284,6 +284,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/property-carrying/property-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/property-carrying/property-carrying.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/property-carrying/property-carrying.module.test.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/property-declaring/property-declaring.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/property-file/property-file.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/property-shaping/property-shaping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/modules/quote-holding/quote-holding.module.code.ts"}

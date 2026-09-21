@@ -1,6 +1,7 @@
 import { shapeOf } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import {
   heldEach,
+  heldOnce,
   listedAt,
   listedById,
   readingIn,
@@ -8,10 +9,16 @@ import {
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
+import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  typeSlugsIn,
+  typesAmong,
+  typeValuesIn,
+} from "akasha/page/type/modules/gathering/page-type-gathering.module.code.ts"
 
 const DECLARES = "page-property"
 
-const EXTENDS = "extends-type"
+const EXTENDS = "extends"
 
 const PAGE_TYPE = "page-type"
 
@@ -39,19 +46,39 @@ export function declaringOf(given: string | Reading, id: string): readonly Decla
   return found
 }
 
+const under = heldOnce((reading: Reading): ReadonlyMap<string, readonly string[]> => {
+  const among = typeSlugsIn(reading)
+  const made = new Map<string, string[]>()
+  for (const [slug, value] of typesAmong(typeValuesIn(reading, among), among)) {
+    for (const above of slugsIn(value[EXTENDS])) {
+      const held = made.get(above)
+      if (held === undefined) made.set(above, [slug])
+      else held.push(slug)
+    }
+  }
+  return made
+})
+
+function slugOf(reading: Reading, id: string): string | null {
+  const listed = listedById(reading, id)
+  if (listed === null) return null
+  const named = partedIn(listed.path)
+  if (named === null || named.sections.length > 0 || named.pageType !== PAGE_TYPE) return null
+  return named.slug
+}
+
 const beneath = heldEach((reading: Reading, id: string): readonly string[] => {
+  const top = slugOf(reading, id)
+  if (top === null) return []
+  const below = under(reading)
   const found: string[] = []
   const walked = new Set<string>()
-  const waiting = [id]
+  const waiting = [top]
   for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
     if (walked.has(one)) continue
     walked.add(one)
-    const listed = listedById(reading, one)
-    if (listed === null) continue
-    const named = partedIn(listed.path)
-    if (named === null || named.sections.length > 0 || named.pageType !== PAGE_TYPE) continue
-    found.push(named.slug)
-    waiting.push(...idsNaming(reading, one, EXTENDS))
+    found.push(one)
+    waiting.push(...(below.get(one) ?? []))
   }
   return found
 })

@@ -19,8 +19,11 @@ export const propertyDeclaring = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Descent is read from the reverse of `extends-type` rather than from a page type's body.",
+      statement: "Descent is read from what the page types say they extend, reversed once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those page types are the ones the index gathers for every other question.",
     },
     {
       decisionKind: "decision-kind/departure",
