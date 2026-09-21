@@ -156,6 +156,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-backer.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/entity/properties/entity-game.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/panel/properties/drawn-in.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/game-attributes.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/game-default-dice.relation-property.types.ts"}

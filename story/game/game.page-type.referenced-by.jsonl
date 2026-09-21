@@ -10,3 +10,4 @@
 {"propertySlug":"import","fileName":"game.page-type.types.ts","path":"story/game/pages/the-tower/the-tower.game.ts"}
 {"propertySlug":"import","fileName":"game.page-type.types.ts","path":"story/game/pages/the-violet-hour/the-violet-hour.game.ts"}
 {"propertySlug":"parts","path":"story/story.domain.ts","id":"01a06d72-54b4-7352-b7db-4c705f35a431"}
+{"propertySlug":"target-page-type","path":"story/game/entity/properties/entity-game.relation-property.ts","id":"01a0c632-2e35-7453-98a5-6717ddf25829"}

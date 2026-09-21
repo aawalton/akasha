@@ -7,7 +7,10 @@ export const gameEntity = {
   definition: "someone or something a game's world holds, with the sheet its mechanics read",
   pluralSlug: "entities",
   extends: ["page-type/page"],
-  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/entity-game", required: true, many: false },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -28,4 +31,5 @@ export const gameEntity = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: ["relation-property/entity-game"],
 } as const satisfies PageType

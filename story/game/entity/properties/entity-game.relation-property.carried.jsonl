@@ -1,0 +1,8 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"What a game's world holds names that game rather than being listed on it."}]}
+{"definition":"the game whose world holds this"}
+{"id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
+{"propertySlug":"game"}
+{"slug":"entity-game"}
+{"targetPageType":"page-type/game"}
+{"type":"page-type/relation-property"}
+{"types":"ts"}
