@@ -1,0 +1,19 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theFiveRulesIChose = {
+  id: "01a0c5fa-5636-7e2f-bdff-9f238fdf0b8a",
+  type: "page-type/all-about-alan-topic",
+  slug: "the-five-rules-i-chose",
+  title: "The Five Rules I Chose",
+  definition:
+    "the absolutes I adopted on purpose and live by, each with the protection it does the work of",
+  parents: ["all-about-alan-topic/rules-instead-of-a-brake"],
+  related: [
+    "all-about-alan-topic/the-five-rules-i-grew-up-with",
+    "all-about-alan-topic/the-rule-that-i-may-not-spend-myself",
+    "all-about-alan-topic/starting-once-against-committing-to-it",
+    "all-about-alan-topic/what-i-let-myself-take-on",
+  ],
+  settled:
+    "Five absolutes I adopted on purpose and live by, each with the protection it does the work of.\n\nIf I cannot afford to, I am not allowed to. That protects me from overextending on stress capacity.\n\nIf I do not want to, I am not allowed to. That protects me from overextending on executive function or physical energy.\n\nIf it would hurt me, I am not allowed to, even if it would help or avoid hurting others, even if those others are my future selves. That is my self-preservation rule, against my tendency to excessive self-sacrifice from having no sense of self.\n\nIf I cannot afford rejection, I cannot afford connection. That protects me from expanding socially too soon, when I cannot rely on my ability to understand and manage relationships.\n\nIf I cannot afford criticism, I cannot afford sharing creations. That protects me from exposing myself to criticism too soon, when I cannot separate criticism of me from criticism of what I made.\n\nThe list grew from four to five with the last one.",
+} as const satisfies AllAboutAlanTopic
