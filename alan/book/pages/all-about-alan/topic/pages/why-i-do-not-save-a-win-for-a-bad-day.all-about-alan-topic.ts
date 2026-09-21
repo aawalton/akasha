@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whyIDoNotSaveAWinForABadDay = {
+  id: "01a0c591-e0b1-72ae-b602-ddb89705c443",
+  type: "page-type/all-about-alan-topic",
+  slug: "why-i-do-not-save-a-win-for-a-bad-day",
+  title: "Why I Do Not Save A Win For A Bad Day",
+  definition: "a win lifting my safety only where it lands, and what that makes worth building",
+  parents: ["all-about-alan-topic/how-safety-climbs"],
+  related: [
+    "all-about-alan-topic/proof-i-can-do-things",
+    "all-about-alan-topic/the-harness-around-my-safety",
+  ],
+  settled:
+    "A project going well raises my safety directly, through evidence I can check rather than through anything felt.\n\nThe lift happens in the moment the win lands and does not carry over, so there is no surplus waiting to be drawn on later.\n\nHolding a win back for a low stretch therefore trades a cost I pay now for a benefit on a timeline I cannot see.\n\nWhat pays instead is raising the odds of a win in any moment at all: tooling, understanding, the layers underneath.",
+} as const satisfies AllAboutAlanTopic
