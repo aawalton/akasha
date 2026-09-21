@@ -1,6 +1,6 @@
 {"domain":"domain/story-engine"}
 {"id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}
-{"intentStack":[{"statement":"Every mechanic a game uses is a page carrying the code that runs it."},{"statement":"A mechanic a game needs and no page holds becomes a page in the turn that needs it."},{"statement":"A game's interface is loaded from pages rather than built with the app."},{"statement":"A played story is drawn by that loader."},{"statement":"No story-design-note holds content another page type would carry."}]}
+{"intentStack":[{"statement":"A mechanic a game needs and no page holds becomes a page in the turn that needs it."},{"statement":"A game's interface is loaded from pages rather than built with the app."},{"statement":"A played story is drawn by that loader."},{"statement":"No story-design-note holds content another page type would carry."}]}
 {"persona":"persona/awen"}
 {"slug":"awen-engine-improvements"}
 {"type":"page-type/initiative"}

@@ -7,7 +7,6 @@ export const awenEngineImprovements = {
   domain: "domain/story-engine",
   persona: "persona/awen",
   intentStack: [
-    { statement: "Every mechanic a game uses is a page carrying the code that runs it." },
     {
       statement:
         "A mechanic a game needs and no page holds becomes a page in the turn that needs it.",
