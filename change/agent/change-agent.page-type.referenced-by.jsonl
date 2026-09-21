@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/append-lines-from/append-lines-from.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/append-lines/append-lines.change-agent.ts"}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/carry-sheet-history/carry-sheet-history.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/change-file/change-file.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.ts"}

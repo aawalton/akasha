@@ -41,6 +41,9 @@ export type Changes = {
   "change-agent/append-lines-from": Parameters<
     typeof import("akasha/change/agent/file-content/append-lines-from/append-lines-from.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/carry-sheet-history": Parameters<
+    typeof import("akasha/change/agent/file-content/carry-sheet-history/carry-sheet-history.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/change-calculation-held-type": Parameters<
     typeof import("akasha/change/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.code.ts")["runChange"]
   >[1]

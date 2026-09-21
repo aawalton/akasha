@@ -25,5 +25,6 @@ export const changeAgentFileContent = {
     "change-agent/rename-code-token",
     "change-agent/rename-folder-imports",
     "change-agent/name-ambient-declarations",
+    "change-agent/carry-sheet-history",
   ],
 } as const satisfies Domain

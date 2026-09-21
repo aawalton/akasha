@@ -1,6 +1,7 @@
 {"propertySlug":"change-kind","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.ts","id":"01a081e6-5170-7f4a-b5df-d0846398305f"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/append-lines-from/append-lines-from.change-agent.ts","id":"01a09312-fac0-7cab-bb6c-b8e6116903b3"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/append-lines/append-lines.change-agent.ts","id":"01a08c38-a17c-70de-985a-a097e3dced7d"}
+{"propertySlug":"change-kind","path":"change/agent/file-content/carry-sheet-history/carry-sheet-history.change-agent.ts","id":"01a0c4e5-b49d-7a5e-85b6-ebb9906ec42c"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/change-file/change-file.change-agent.ts","id":"01a07813-6e3d-7d39-a28a-164766ab0fed"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.ts","id":"01a09523-3d2f-7e8b-885b-e4fc2e8a3222"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.ts","id":"01a081ee-d2ea-7846-af0b-049ae0500371"}
