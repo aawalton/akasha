@@ -10,6 +10,7 @@ import {
   rooted,
   scratch,
   TEXT,
+  VIEW,
   viewing,
 } from "akasha/check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.decision.test-fixtures.ts"
 import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
@@ -33,6 +34,8 @@ const GEMEL = "gemel"
 const WOLD = "wold"
 
 const MOVED = "holding"
+
+const SHOWN = "shown"
 
 const LISTS_QUOIN = lists(QUOIN)
 
@@ -125,6 +128,16 @@ test("a change reads the body of each view that change reaches and of no other v
 
 test("twice as many views a change reaches none of are read no more often than half of them", () => {
   expect(readingOver(MANY)).toBe(readingOver(FEW))
+})
+
+test("a change writing a property of the view page type reaches a view listing that page nowhere", () => {
+  const root = rooted(UNDER)
+  viewing(root, "looking", { pageType: LISTS_QUOIN, shown: [HELD] })
+  viewing(root, "other", { pageType: LISTS_QUOIN, shown: [HELD] })
+  const at = paged(root, TEXT, SHOWN, { propertySlug: SHOWN, namesAPropertyKey: true })
+  edging(root, `id-${SHOWN}`, PAGE_PROPERTY, `id-${VIEW}`, pathFor(PAGE_TYPE, VIEW))
+
+  expect(bodiesRead(landing(root, { [at]: onDisk(root)(at) }))).toBe(NEAR)
 })
 
 test("a change writing one page property refuses a stale view that change names nowhere", () => {
