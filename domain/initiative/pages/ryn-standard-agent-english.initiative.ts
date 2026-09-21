@@ -6,11 +6,7 @@ export const rynStandardAgentEnglish = {
   slug: "ryn-standard-agent-english",
   domain: "domain/plain-language",
   persona: "persona/ryn",
-  intentStack: [
-    {
-      statement: "Nothing writes carry where have says the same thing.",
-    },
-  ],
+  intentStack: [],
   constraints: [
     "The load a construction puts on a reading agent is measured.",
     "Standard Agent English is designed from first principles, unbiased by current usage.",
