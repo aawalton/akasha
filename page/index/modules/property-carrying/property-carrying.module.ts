@@ -178,7 +178,7 @@ export const propertyCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A face works that out as it is built rather than as it is first asked.",
+      statement: "A face works that out for the name it is asked rather than for every name.",
     },
     {
       decisionKind: "decision-kind/departure",

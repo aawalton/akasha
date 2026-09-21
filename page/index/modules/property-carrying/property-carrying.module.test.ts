@@ -265,12 +265,12 @@ test("a face built over a reading answers from that reading", () => {
   expect(generatedIn(facingIn(root, readingIn(root)), SECTIONED)).toBe(true)
 })
 
-test("a face works out what it says as it is built rather than as it is first asked", () => {
+test("a face works out what it says for the name it is asked rather than for every name", () => {
   const root = rooted()
   const facing = facingOn(root)
   entriesFiled(root, { ...SAYS, generated: true })
   expect(generatedAt(root, SECTIONED)).toBe(true)
-  expect(generatedIn(facing, SECTIONED)).toBe(false)
+  expect(generatedIn(facing, SECTIONED)).toBe(true)
 })
 
 test("a file carrying no section is not the file of a property naming no file", () => {
@@ -342,25 +342,25 @@ test("what a face says about every file property is worked out once for that fac
   const seen = { reads: 0 }
   const facing = counting(seen)
   expect(generatedIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(4)
+  expect(seen.reads).toBe(2)
   expect(generatedIn(facing, "akasha/two.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(4)
+  expect(seen.reads).toBe(2)
 })
 
 test("a second question asked of one face reads what the first question worked out", () => {
   const seen = { reads: 0 }
   const facing = counting(seen)
   expect(generatedIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(4)
+  expect(seen.reads).toBe(2)
   expect(toolResolvesPathsIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(4)
+  expect(seen.reads).toBe(2)
 })
 
 test("a face built again works out what it says about every file property again", () => {
   const seen = { reads: 0 }
   expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
   expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(8)
+  expect(seen.reads).toBe(4)
 })
 
 test("a file under a folder a property says a machine writes is answered generated", () => {

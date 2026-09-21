@@ -52,8 +52,6 @@ const GROUP_CODE = "code"
 
 const HELD_TS = "ts"
 
-const NO_SECTIONS: ReadonlyMap<string, string> = new Map()
-
 export type Carrying = {
   readonly pageTypeSlug: string
   readonly path: string
@@ -242,9 +240,6 @@ export function facingIn(root: string, given: string | Reading): Facing {
     },
     root,
   }
-  try {
-    derivedFor(made)
-  } catch {}
   return made
 }
 
@@ -267,39 +262,54 @@ export type Facing = Kinded & {
   readonly holds?: (path: string) => boolean
 }
 
-export type Derived = {
-  readonly slugs: ReadonlySet<string>
-  readonly resolving: ReadonlySet<string>
-  readonly naming: readonly Naming[]
-  readonly writers: ReadonlyMap<string, string>
-  readonly sections: ReadonlyMap<string, string>
+const BY_SLUG = new WeakMap<Kinded, Map<string, ReadonlyMap<string, readonly Naming[]>>>()
+
+function namedBySlug(given: Kinded, under: string): ReadonlyMap<string, readonly Naming[]> {
+  let held = BY_SLUG.get(given)
+  if (held === undefined) {
+    held = new Map()
+    BY_SLUG.set(given, held)
+  }
+  const found = held.get(under)
+  if (found !== undefined) return found
+  const made = new Map<string, Naming[]>()
+  for (const one of under === FILE_PROPERTY ? namingFor(given) : namingUnder(given, under)) {
+    const slug = one.value === null ? null : one.value[PROPERTY_SLUG]
+    if (typeof slug !== "string") continue
+    const at = made.get(slug)
+    if (at === undefined) made.set(slug, [one])
+    else at.push(one)
+  }
+  held.set(under, made)
+  return made
 }
 
-const DERIVED = new WeakMap<Facing, Derived>()
+function typesByOf(given: Facing): (named: string) => ReadonlySet<string> {
+  return given.typesCarrying ?? ((named: string) => typesIn(given.carryingOf(named)))
+}
 
-function derivedFor(given: Facing): Derived {
-  const found = DERIVED.get(given)
-  if (found !== undefined) return found
-  const typesBy = given.typesCarrying ?? ((named: string) => typesIn(given.carryingOf(named)))
-  const naming = namingFor(given)
-  const writers = writersIn(naming, typesBy)
-  const made: Derived = {
-    slugs: slugsOver(given, generates, typesBy, FILE_PROPERTY),
-    resolving: slugsOver(given, toolResolvesPaths, typesBy, FILE_PROPERTY),
-    naming,
-    writers,
-    sections: writers.size === 0 ? NO_SECTIONS : sectionsOfGroups(given),
+function sectionSays(given: Facing, path: string, wanted: (value: Value) => boolean): boolean {
+  const said = partedIn(path)
+  if (said === null) return false
+  const held = sectionedIn(said)
+  if (held === null) return false
+  const typesBy = typesByOf(given)
+  for (const one of namedBySlug(given, FILE_PROPERTY).get(held.propertySlug) ?? []) {
+    const value = one.value
+    if (value === null || !wanted(value)) continue
+    if (typeof value[FILE_NAME] === "string") continue
+    const named = partedIn(one.path)
+    if (named === null || named.sections.length > 0) continue
+    if (typesBy(`${named.pageType}/${named.slug}`).has(said.pageType)) return true
   }
-  DERIVED.set(given, made)
-  return made
+  return false
 }
 
 export function generatedIn(given: Facing, path: string): boolean {
   try {
-    const held = derivedFor(given)
-    if (sectionHeld(path, held.slugs)) return true
-    if (writerIn(given, path, held) !== null) return true
-    if (heldBeside(path, held.naming, generates, given.carryingOf)) return true
+    if (sectionSays(given, path, generates)) return true
+    if (writerIn(given, path) !== null) return true
+    if (heldBeside(path, namingFor(given), generates, given.carryingOf)) return true
     return heldUnder(path, foldersFor(given), generates, given.carryingOf)
   } catch {
     return false
@@ -308,9 +318,8 @@ export function generatedIn(given: Facing, path: string): boolean {
 
 export function toolResolvesPathsIn(given: Facing, path: string): boolean {
   try {
-    const held = derivedFor(given)
-    if (sectionHeld(path, held.resolving)) return true
-    return heldBeside(path, held.naming, toolResolvesPaths, given.carryingOf)
+    if (sectionSays(given, path, toolResolvesPaths)) return true
+    return heldBeside(path, namingFor(given), toolResolvesPaths, given.carryingOf)
   } catch {
     return false
   }
@@ -356,28 +365,26 @@ function slugsOver(
   return made
 }
 
-function writersIn(
-  naming: Iterable<Naming>,
-  typesBy: (named: string) => ReadonlySet<string>
-): ReadonlyMap<string, string> {
-  const made = new Map<string, string>()
-  for (const one of naming) {
+function writerOf(given: Facing, pageTypeSlug: string, propertySlug: string): string | null {
+  const typesBy = typesByOf(given)
+  for (const one of namedBySlug(given, FILE_PROPERTY).get(propertySlug) ?? []) {
     const value = one.value
     if (value === null || typeof value[FILE_NAME] === "string") continue
     const named = value[WRITTEN_BY]
-    const slug = value[PROPERTY_SLUG]
-    if (typeof named !== "string" || typeof slug !== "string") continue
+    if (typeof named !== "string") continue
     const group = slugIn(named)
     const said = partedIn(one.path)
     if (group === null || said === null || said.sections.length > 0) continue
-    for (const two of typesBy(`${said.pageType}/${said.slug}`)) {
-      made.set(sectionKey(two, slug), group)
-    }
+    if (typesBy(`${said.pageType}/${said.slug}`).has(pageTypeSlug)) return group
   }
-  return made
+  return null
 }
 
-function sectionsOfGroups(given: Kinded): ReadonlyMap<string, string> {
+const GROUP_SECTIONS = new WeakMap<Kinded, ReadonlyMap<string, string>>()
+
+function sectionsFor(given: Kinded): ReadonlyMap<string, string> {
+  const found = GROUP_SECTIONS.get(given)
+  if (found !== undefined) return found
   const made = new Map<string, string>()
   for (const listed of given.everyOfType(MODULE_PROPERTY_GROUP)) {
     const value = given.valueAt(listed.path)
@@ -387,17 +394,18 @@ function sectionsOfGroups(given: Kinded): ReadonlyMap<string, string> {
     if (typeof slug !== "string" || typeof named !== "string") continue
     made.set(slug, named)
   }
+  GROUP_SECTIONS.set(given, made)
   return made
 }
 
-function writerIn(given: Facing, path: string, held: Derived): string | null {
+function writerIn(given: Facing, path: string): string | null {
   const said = partedIn(path)
   if (said === null) return null
   const sectioned = sectionedIn(said)
   if (sectioned === null) return null
-  const group = held.writers.get(sectionKey(said.pageType, sectioned.propertySlug))
-  if (group === undefined) return null
-  const section = held.sections.get(group)
+  const group = writerOf(given, said.pageType, sectioned.propertySlug)
+  if (group === null) return null
+  const section = sectionsFor(given).get(group)
   if (section === undefined) return null
   const folder = dirname(path)
   const beside = besideAt(
@@ -412,15 +420,15 @@ function writerIn(given: Facing, path: string, held: Derived): string | null {
 
 export function writerAt(given: Facing, path: string): string | null {
   try {
-    return writerIn(given, path, derivedFor(given))
+    return writerIn(given, path)
   } catch {
     return null
   }
 }
 
-function namingUnder(given: Kinded): readonly Naming[] {
+function namingUnder(given: Kinded, under: string): readonly Naming[] {
   const found: Naming[] = []
-  for (const kind of given.kindsUnder(FILE_PROPERTY)) {
+  for (const kind of given.kindsUnder(under)) {
     for (const listed of given.everyOfType(kind)) {
       found.push({ path: listed.path, value: given.valueAt(listed.path) })
     }
@@ -433,7 +441,7 @@ const NAMING = new WeakMap<Kinded, readonly Naming[]>()
 export function namingFor(given: Kinded): readonly Naming[] {
   const found = NAMING.get(given)
   if (found !== undefined) return found
-  const made = namingUnder(given)
+  const made = namingUnder(given, FILE_PROPERTY)
   NAMING.set(given, made)
   return made
 }
