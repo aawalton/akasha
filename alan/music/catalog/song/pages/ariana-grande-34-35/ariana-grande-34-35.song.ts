@@ -4,6 +4,7 @@ export const arianaGrande3435 = {
   id: "019ea4e1-e73c-74a8-b6aa-e6b54cfd95ca",
   type: "page-type/song",
   slug: "ariana-grande-34-35",
+  rank: "A+",
   externalIdentity: [
     {
       source: "musicbrainz",
