@@ -1,0 +1,76 @@
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+
+function hasAnyKey(record: Record<string, unknown>): boolean {
+  return Object.keys(record).length > 0
+}
+
+function buildCurrentCharRankMap(): LuaMap<number, number> {
+  const result = new LuaMap<number, number>()
+  const numSkillTypes = GetNumSkillTypes()
+  for (let skillType = 1; skillType <= numSkillTypes; skillType++) {
+    const numLines = GetNumSkillLines(skillType)
+    for (let lineIndex = 1; lineIndex <= numLines; lineIndex++) {
+      const [name, , , skillLineId] = GetSkillLineInfo(skillType, lineIndex)
+      if (name === undefined || name === "" || skillLineId === undefined || skillLineId === 0) {
+        continue
+      }
+      const skillLineData = SKILLS_DATA_MANAGER.GetSkillLineDataByIndices(skillType, lineIndex)
+      if (skillLineData === undefined) {
+        result.set(skillLineId, 0)
+        continue
+      }
+      if (!skillLineData.IsDiscovered()) {
+        result.set(skillLineId, 0)
+        continue
+      }
+      result.set(skillLineId, skillLineData.GetCurrentRank())
+    }
+  }
+  return result
+}
+
+function readSyncedRank(
+  characters: Record<string, unknown> | undefined,
+  charId: string,
+  esoSkillLineId: number
+): number | undefined {
+  if (!characters) return undefined
+  const charData = characters[charId]
+  if (!isObjectRecord(charData)) return undefined
+  const slp = charData["skillLineProgress"]
+  if (!isObjectRecord(slp) || !hasAnyKey(slp)) return undefined
+  const entry = slp[esoSkillLineId]
+  if (!isObjectRecord(entry)) return 0
+  const currentRank = entry["currentRank"]
+  return typeof currentRank === "number" ? currentRank : 0
+}
+
+export function buildGetCharacterSkillLineRanks(): (
+  charId: string,
+  skillLineId: string
+) => { currentRank: number; maxRank: number } | undefined {
+  const currentCharStr = tostring(GetCurrentCharacterId())
+  const liveRanks = buildCurrentCharRankMap()
+  const characters = getTemperCharactersData()
+  return (charId, skillLineId) => {
+    if (!skillLines.has(skillLineId)) return undefined
+    const staticEntry = skillLines.data[skillLineId]
+    const esoSkillLineId = staticEntry.esoSkillLineId
+    if (esoSkillLineId <= 0) return undefined
+    const maxRank = staticEntry.maxRank
+    if (charId === currentCharStr) {
+      const currentRank = liveRanks.get(esoSkillLineId) ?? 0
+      return { currentRank, maxRank }
+    }
+    const syncedRank = readSyncedRank(characters, charId, esoSkillLineId)
+    if (syncedRank === undefined) return undefined
+    return { currentRank: syncedRank, maxRank }
+  }
+}

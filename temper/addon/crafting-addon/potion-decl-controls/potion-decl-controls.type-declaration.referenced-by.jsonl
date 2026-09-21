@@ -36,12 +36,6 @@
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-mark-casts/writ-mark-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-util/writ-util.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-lock-overlay/inventory-lock-overlay.module.code.ts"}
-{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-casts/keybinder-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/compass-pins-casts/compass-pins-casts.module.code.ts"}
@@ -141,6 +135,12 @@
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-state/fco-state.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-ui/fco-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-utils/fco-utils.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-lock-overlay/inventory-lock-overlay.module.code.ts"}
+{"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-packs/selector-packs.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"potion-decl-controls.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"}

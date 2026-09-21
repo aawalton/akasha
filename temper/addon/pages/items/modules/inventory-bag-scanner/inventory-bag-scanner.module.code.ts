@@ -1,0 +1,53 @@
+import { extractItemData } from "akasha/temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts"
+import type { ItemData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
+function scanStandardBag(bagId: number): Record<number, ItemData> {
+  const items: Record<number, ItemData> = {}
+  const bagSize = GetBagSize(bagId)
+  for (let slotIndex = 0; slotIndex < bagSize; slotIndex++) {
+    const item = extractItemData(bagId, slotIndex)
+    if (item) {
+      items[slotIndex] = item
+    }
+  }
+  return items
+}
+
+function scanVirtualBag(): Record<number, ItemData> {
+  const items: Record<number, ItemData> = {}
+  let slotId = GetNextVirtualBagSlotId(undefined)
+  while (slotId !== undefined) {
+    const item = extractItemData(BAG_VIRTUAL, slotId)
+    if (item) {
+      items[slotId] = item
+    }
+    slotId = GetNextVirtualBagSlotId(slotId)
+  }
+  return items
+}
+
+function scanIteratedBag(bagId: number): Record<number, ItemData> {
+  const items: Record<number, ItemData> = {}
+  let slotIndex = ZO_GetNextBagSlotIndex(bagId, undefined)
+  while (slotIndex !== undefined) {
+    const item = extractItemData(bagId, slotIndex)
+    if (item) {
+      items[slotIndex] = item
+    }
+    slotIndex = ZO_GetNextBagSlotIndex(bagId, slotIndex)
+  }
+  return items
+}
+
+export function scanBag(bagId: number): Record<number, ItemData> {
+  if (bagId === BAG_VIRTUAL) {
+    return scanVirtualBag()
+  }
+  if (bagId === BAG_GUILDBANK || bagId === BAG_FURNITURE_VAULT) {
+    return scanIteratedBag(bagId)
+  }
+  return scanStandardBag(bagId)
+}

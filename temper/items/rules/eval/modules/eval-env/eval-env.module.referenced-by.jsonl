@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/addon/items-addon/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
-{"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/addon/items-addon/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
-{"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/addon/items-addon/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
+{"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
+{"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
+{"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"}
 {"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"eval-env.module.code.ts","path":"temper/items/filters/core/modules/search-eval-adapter/search-eval-adapter.module.code.ts"}

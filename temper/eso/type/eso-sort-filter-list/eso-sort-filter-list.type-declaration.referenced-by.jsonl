@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/potion-window-helpers/potion-window-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-mark-inventory-tweaks/writ-mark-inventory-tweaks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
@@ -11,6 +10,7 @@
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-guild-motd/quiet-guild-motd.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-print/quiet-print.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-build/order-list-box-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-drag-cursor/order-list-box-drag-cursor.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sort-filter-list.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-list-methods/order-list-box-list-methods.module.code.ts"}

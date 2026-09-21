@@ -1692,10 +1692,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-scene-parse/hud-scene-parse.module.ts","id":"01a060a4-fa3a-750c-9ca2-1bb7318f8b00"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/modules/hud-scene-source/hud-scene-source.module.ts","id":"01a060a4-fa39-75fa-b8ed-cd9e167bd81c"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}
-{"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
-{"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
-{"propertySlug":"decision-kind","path":"temper/addon/items-addon/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
-{"propertySlug":"decision-kind","path":"temper/addon/items-addon/temper-items-addon.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/lccc/modules/lccc-casts/lccc-casts.module.ts","id":"01a08d72-b007-7beb-b91e-33727605794e"}
 {"propertySlug":"decision-kind","path":"temper/addon/log/modules/addon-log/addon-log.module.ts","id":"01a08e26-c147-7c8e-baea-f2cad9ded7c8"}
 {"propertySlug":"decision-kind","path":"temper/addon/navigation-addon/destinations-preview-controls/destinations-preview-controls.type-declaration.ts","id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
@@ -1737,6 +1733,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.ts","id":"01a06115-1ad5-7d01-8cc1-694928184aab"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-skills/fco-skills.module.ts","id":"01a06115-1ad6-704a-ac3c-88cccb76abc5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/fco-ui/fco-ui.module.ts","id":"01a06115-1ad8-7a5e-a9fb-cd52f4b41690"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/addon-keybinds-declarations/addon-keybinds-declarations.type-declaration.ts","id":"01a06259-bfbc-7d5e-8b4b-5bbe42c3459a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-casts/addon-keybinds-casts.module.ts","id":"01a0605a-051b-7355-a78a-16ba2dc843c5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu-order-list-box/modules/order-list-box-entry/order-list-box-entry.module.ts","id":"01a06207-bdf3-79e2-9e63-14aa5448d6e1"}

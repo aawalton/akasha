@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"item-category-tree-data.module.code.ts","path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts"}
 {"propertySlug":"import","fileName":"item-category-tree-data.module.code.ts","path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.test.ts"}
-{"propertySlug":"import","fileName":"item-category-tree-data.module.code.ts","path":"temper/addon/items-addon/modules/inventory-category-tree/inventory-category-tree.module.code.ts"}
+{"propertySlug":"import","fileName":"item-category-tree-data.module.code.ts","path":"temper/addon/pages/items/modules/inventory-category-tree/inventory-category-tree.module.code.ts"}
 {"propertySlug":"import","fileName":"item-category-tree-data.module.code.ts","path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"}
 {"propertySlug":"import","fileName":"item-category-tree-data.module.code.ts","path":"temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"}
 {"propertySlug":"import","fileName":"item-category-tree-data.module.code.ts","path":"temper/items/core/modules/classify-item/classify-item.module.code.ts"}
