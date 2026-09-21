@@ -621,6 +621,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/build/temper-character-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/skill/skill-point-finder/temper-skill-point-finder.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/skill/temper-character-skill.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/source/temper-character-source.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/character/stat/temper-character-stat.domain.ts"}
@@ -631,7 +632,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/skill-morph/temper-skill-morph.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/temper-player.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph-access/temper-skill-morph-access.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/temper.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/characters-character-ui/temper-characters-character-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/characters-equipment-ui/temper-characters-equipment-ui.domain.ts"}

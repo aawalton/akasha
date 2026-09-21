@@ -1363,6 +1363,8 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribing-script-description/scribing-script-description.module.ts","id":"01a06187-b3a2-7a11-b605-168d750e9430"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/skill-bar-filtering/skill-bar-filtering.module.ts","id":"01a06187-b3a3-78c4-bc72-3cc3411efc24"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.ts","id":"01a06187-b3a4-7f6e-9755-30b39a3b5cfb"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.ts","id":"01a060ec-5841-70ce-a022-116830ebd04a"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/temper-character-skill.domain.ts","id":"01a0617a-2c72-7654-ad18-45a07d7e27ca"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/alliances/alliances.module.ts","id":"01a060ea-ac5c-7ddc-8beb-424cc85a9621"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curses/curses.module.ts","id":"01a060ea-ac61-790f-9c2c-5f742647198c"}
@@ -1392,8 +1394,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
-{"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.ts","id":"01a060ec-5841-70ce-a022-116830ebd04a"}
-{"propertySlug":"decision-kind","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.ts","id":"01a06381-35cf-79d7-a1eb-ab708052aacb"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.ts","id":"01a06381-35cf-7af7-aa60-01ed66da5e3b"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.ts","id":"01a06381-35cf-7a07-8865-e71df4fc233b"}

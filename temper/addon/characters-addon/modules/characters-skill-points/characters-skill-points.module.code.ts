@@ -1,6 +1,5 @@
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/addon/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
-import type { SkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   ENDLESS_ARCHIVE,
   GROUP_DUNGEONS,
@@ -10,7 +9,8 @@ import {
   RAW_ZONES,
   TUTORIALS,
   ZONE_IDS,
-} from "akasha/temper/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.code.ts"
+} from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.code.ts"
+import type { SkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 
 const FOLIUM_QUEST = 3997
 

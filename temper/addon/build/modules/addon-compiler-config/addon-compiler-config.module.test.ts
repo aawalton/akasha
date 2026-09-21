@@ -196,7 +196,7 @@ test("a temper folder holding declarations and no addon page is read by every ad
   ])
   valueAlsoFiled(root, DECLARATION, [
     {
-      path: "temper/skill-point-finder/controls/controls.type-declaration.ts",
+      path: "temper/player/character/skill/skill-point-finder/controls/controls.type-declaration.ts",
       value: { slug: "controls" },
     },
     {
@@ -208,7 +208,7 @@ test("a temper folder holding declarations and no addon page is read by every ad
       value: { slug: "language-extensions" },
     },
   ])
-  expect(declaringDirs(root)).toEqual([join(root, "temper/skill-point-finder")])
+  expect(declaringDirs(root)).toEqual([join(root, "temper/player/character/skill/skill-point-finder")])
 })
 
 test("an addon sitting deeper reaches the folders of declarations that sit beside no addon", () => {

@@ -1929,10 +1929,10 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/temper-build-support.domain.ts","id":"01a0609f-53f7-7460-afb2-168bb75adada"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-rows-first/sets-rows-first.module.ts","id":"01a08e66-0b80-7e5b-a02a-6ceb5642caab"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-rows-second/sets-rows-second.module.ts","id":"01a08e66-1f4e-7974-86a0-547f57e1c025"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.ts","id":"01a060ec-584d-78d8-941c-a8b43c987a6c"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts","id":"01a0603b-d45a-7ff5-8a9e-03ecb545e854"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule-goal/temper-rule-goal.page-type.ts","id":"01a071f5-62e6-7b98-ab84-2e3e9f91b5e3"}
-{"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.ts","id":"01a060ec-584d-78d8-941c-a8b43c987a6c"}
-{"propertySlug":"decision-kind","path":"temper/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-account-page/watcher-account-page.module.ts","id":"01a06381-35cf-7609-a436-3c4f4a0d6e3a"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config-file/watcher-config-file.module.ts","id":"01a06381-35cf-7578-8e5c-ded020afdf75"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-config/watcher-config.module.ts","id":"01a06377-d8cc-7874-ab3c-63e6604b4df8"}
