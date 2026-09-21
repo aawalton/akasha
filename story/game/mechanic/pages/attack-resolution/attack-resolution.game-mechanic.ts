@@ -36,5 +36,9 @@ export const attackResolution = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here rolls the dice.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the striker intends counts into the score, held between none and ten.",
+    },
   ],
 } as const satisfies GameMechanic
