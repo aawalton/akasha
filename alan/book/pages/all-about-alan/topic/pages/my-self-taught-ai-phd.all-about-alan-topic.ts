@@ -13,5 +13,5 @@ export const mySelfTaughtAiPhd = {
     "all-about-alan-topic/how-i-came-out-of-computer-science",
   ],
   settled:
-    "I am doing a self-taught AI PhD.\n\nThere is no judge on it. It is lots of focused learning.\n\nA hundred and thirty-five thousand is allocated to it, a balance I draw down until I am net positive on cash flow. There is a clock on it, but it is generous enough that I do not have to think about it for years.\n\nThe subfield I am focused on now is agent harness for software factories, which is what akasha is. I dig into adjacent areas as I need them.",
+    "I am doing a self-taught AI PhD.\n\nThere is no judge on it. It is lots of focused learning.\n\nIt is not a doctorate judge, but pain and performance issues do guide what direction I am learning and inventing into.\n\nA hundred and thirty-five thousand is allocated to it, a balance I draw down until I am net positive on cash flow. There is a clock on it, but it is generous enough that I do not have to think about it for years.\n\nThe subfield I am focused on now is agent harness for software factories, which is what akasha is. I dig into adjacent areas as I need them.",
 } as const satisfies AllAboutAlanTopic
