@@ -4,6 +4,7 @@ export const arianaGrandePetalKissMe = {
   id: "01a0a6c5-03df-76a2-9682-f4cdfd7b6913",
   type: "page-type/track",
   slug: "ariana-grande-petal-kiss-me",
+  grade: "A+",
   ownLength: 3.6597333333333335,
   ownProgress: 0,
   partOfCollections: ["release/ariana-grande-petal"],
