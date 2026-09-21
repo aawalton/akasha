@@ -33,6 +33,14 @@ test("a call naming two words is refused", async () => {
   ])
 })
 
+test("a call naming spaces alone is refused before any page is looked for", async () => {
+  const said = await requestComplete(["   "], GIVEN)
+
+  expect(said.refusals).toEqual([
+    "the request said is empty, and a feature request is named by the slug that request declares",
+  ])
+})
+
 test("a name that is no feature request is refused in words naming it", () => {
   expect(noRequest("nowhere")).toBe(
     "`nowhere` names no feature request, so there is nothing to complete"

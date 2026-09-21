@@ -14,6 +14,10 @@ test("a request of no text is refused", () => {
   ])
 })
 
+test("a request of no word at all is refused as one of spaces is", () => {
+  expect(wrongIn({ slug: "" })).toEqual(wrongIn({ slug: "   " }))
+})
+
 test("a request naming a slug is left to the lookup", () => {
   expect(wrongIn({ slug: "dark-mode" })).toEqual([])
 })
