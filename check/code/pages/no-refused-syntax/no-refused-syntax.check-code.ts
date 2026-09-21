@@ -16,11 +16,21 @@ export const noRefusedSyntax = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rule's code is read from the change the check is handed.",
+      statement:
+        "A rule the change leaves alone is read from the tree, which holds that same body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What reading the rules from the tree reached is read from the module cache.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every rule is read from the change where the change carries any of what that reached.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No rule's code is read from the working tree while a change is judged.",
+      statement: "No rule is read from the tree where the change carries that rule's own code.",
     },
     {
       decisionKind: "decision-kind/departure",
