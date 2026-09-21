@@ -13,7 +13,7 @@ export const temperProgressThing = {
     "text-property/completion-card-id",
     "text-property/completion-item-path",
     "text-property/node-id",
-    "text-property/rrule-rule",
+    "rrule-property/rrule-rule",
     "text-property/scope",
   ],
   properties: [
@@ -29,7 +29,7 @@ export const temperProgressThing = {
     { pageProperty: "text-property/scope", required: false, many: false },
     { pageProperty: "select-property/priority", required: false, many: false },
     { pageProperty: "calendar-date-property/due-date", required: false, many: false },
-    { pageProperty: "text-property/rrule-rule", required: false, many: false },
+    { pageProperty: "rrule-property/rrule-rule", required: false, many: false },
     {
       pageProperty: "boolean-property/rrule-anchor-from-completion",
       required: false,
