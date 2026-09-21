@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"design/interface/form/modules/date-parser/date-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"page/core/property-type/modules/date-sentinels/date-sentinels.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"page/core/view/modules/calendar-date-to-value/calendar-date-to-value.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"page/core/view/modules/format-smart-date/format-smart-date.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"page/ui/component/modules/page-calendar/page-calendar.module.code.tsx"}

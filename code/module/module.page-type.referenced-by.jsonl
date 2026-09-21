@@ -2030,6 +2030,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rich-document-tree/rich-document-tree.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rich-document/rich-document.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rollup/rollup.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/rrule/rrule.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/select/select.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/core/property-type/modules/text/text.module.ts"}

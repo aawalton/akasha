@@ -40,5 +40,6 @@ export const pageCorePropertyType = {
     "module/select",
     "module/text",
     "module/url",
+    "module/rrule-wording",
   ],
 } as const satisfies Domain
