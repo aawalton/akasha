@@ -3,8 +3,8 @@ import type { AffinityCounter } from "akasha/story/game/entity/properties/affini
 import type { AffinityTier } from "akasha/story/game/entity/properties/affinity-tier.text-property.types.ts"
 import type { AffinityType } from "akasha/story/game/entity/properties/affinity-type.text-property.types.ts"
 import type { ListedEffect } from "akasha/story/game/entity/properties/listed-effect.text-property.types.ts"
-import type { ListedName } from "akasha/story/game/entity/properties/listed-name.text-property.types.ts"
 import type { ListedSource } from "akasha/story/game/entity/properties/listed-source.text-property.types.ts"
+import type { ListedName } from "akasha/story/game/properties/listed-name.text-property.types.ts"
 
 export type EntityAffinities = List<{
   name: ListedName
