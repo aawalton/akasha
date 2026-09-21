@@ -8,11 +8,6 @@ export const aelwynStrengthTraining = {
   persona: "persona/aelwyn",
   intentStack: [
     {
-      statement: "A working set is reached without a ramp set before it.",
-      workingMemory:
-        "The ramp sits between the mobilise and the work in warming and stepping. Dropping it leaves raise, mobilise, work, and makes warmupLoadShare and warmupReps dead policy.",
-    },
-    {
       statement:
         "A day's work is capped by a volume target that rises slowly and falls on a missed week.",
       workingMemory:
