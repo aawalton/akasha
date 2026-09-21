@@ -19,6 +19,7 @@ export const check = {
     "module/body-not-utf8",
     "module/change-mirror",
     "module/change-walking",
+    "module/check-cache",
     "module/check-cost",
     "module/check-measuring",
     "module/checking",

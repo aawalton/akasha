@@ -51,6 +51,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/value/learn/mathematics/proof/properties/derivation.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/properties/statement.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"change/runner/properties/addressed.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"check/code/properties/cache.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/audit-ast-unused/ast-unused-config/properties/curation.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/container-recipe/properties/recipe.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"code/eso-interface/properties/markup.file-property.ts"}

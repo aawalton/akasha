@@ -810,6 +810,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.ts","id":"01a0b840-0db7-7493-9be4-67c2dc2b3a46"}
 {"propertySlug":"decision-kind","path":"check/code/pages/typecheck/typecheck.check-code.ts","id":"01a04bcb-dff4-761a-856e-407fb6934b44"}
 {"propertySlug":"decision-kind","path":"check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.ts","id":"01a0c570-c14d-7bbc-9008-feed418845bb"}
+{"propertySlug":"decision-kind","path":"check/code/properties/cache.file-property.ts","id":"01a0c4b0-0000-7000-8000-4f8c1d2a9b31"}
 {"propertySlug":"decision-kind","path":"check/model/check-model.page-type.ts","id":"01a05911-aa15-776e-9726-ed4131cd6b51"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-asking/audit-asking.module.ts","id":"01a09239-89d9-7000-b122-2e19bbb8547e"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-calling/audit-calling.module.ts","id":"01a0a6a7-6988-7cac-b722-46cd6c843671"}
@@ -820,6 +821,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/audit-round/audit-round.module.ts","id":"01a0aca1-9651-7fd0-9386-902aead96271"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-serving/audit-serving.module.ts","id":"01a091e9-689c-7001-a9f4-f25090091be1"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-verdict/audit-verdict.module.ts","id":"01a091e9-689c-7000-a6ba-611889107d33"}
+{"propertySlug":"decision-kind","path":"check/modules/cache/check-cache.module.ts","id":"01a0c4b1-0000-7000-8000-6d3e5a17c284"}
 {"propertySlug":"decision-kind","path":"check/modules/change-mirror/change-mirror.module.ts","id":"01a080b1-5322-7000-ae97-da48e0382c61"}
 {"propertySlug":"decision-kind","path":"check/modules/change-walking/change-walking.module.ts","id":"01a0583c-9b26-78cf-972c-3801c6b1ad94"}
 {"propertySlug":"decision-kind","path":"check/modules/checking/checking.module.ts","id":"01a04bc4-7e86-7df4-a322-36cc3b789fce"}

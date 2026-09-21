@@ -961,6 +961,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-serving/audit-serving.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-verdict/audit-verdict.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/body-not-utf8/body-not-utf8.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/cache/check-cache.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/change-mirror/change-mirror.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/change-walking/change-walking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/checking/checking.module.ts"}

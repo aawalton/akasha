@@ -7,6 +7,7 @@ export const checkCode = {
   definition: "a module run over a change to judge whether it may land",
   parts: [
     "boolean-property/experimental",
+    "file-property/cache",
     "boolean-property/runs-on-audit",
     "boolean-property/runs-on-change",
     "boolean-property/runs-on-deploy",
@@ -91,6 +92,13 @@ export const checkCode = {
     { pageProperty: "boolean-property/runs-on-deploy", required: true, many: false },
     { pageProperty: "boolean-property/runs-on-audit", required: true, many: false },
     { pageProperty: "boolean-property/experimental", required: false, many: false },
+    {
+      pageProperty: "file-property/cache",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   decisions: [
     {

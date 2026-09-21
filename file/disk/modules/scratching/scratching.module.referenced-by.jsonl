@@ -122,6 +122,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/cache/check-cache.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/change-walking/change-walking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/checking/checking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/cost/check-cost.module.test.ts"}

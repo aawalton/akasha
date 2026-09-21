@@ -1,4 +1,5 @@
 import type { Audit } from "akasha/check/code/properties/audit.module-property-group.ts"
+import type { Cache } from "akasha/check/code/properties/cache.file-property.types.ts"
 import type { Check } from "akasha/check/code/properties/check.module-property-group.ts"
 import type { Decision } from "akasha/check/code/properties/decision.module-property-group.ts"
 import type { Experimental } from "akasha/check/code/properties/experimental.boolean-property.types.ts"
@@ -15,4 +16,5 @@ export type CheckCode = Domain & {
   runsOnDeploy: RunsOnDeploy
   runsOnAudit: RunsOnAudit
   experimental?: Experimental
+  cache?: Cache
 }
