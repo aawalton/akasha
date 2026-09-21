@@ -8,6 +8,7 @@ import {
   replayed,
   spliced,
   splicedIn,
+  splicedTo,
   splicing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
@@ -369,4 +370,16 @@ test("of two spots replacing characters at one place the later is dropped", () =
   ])
 
   expect(said).toEqual([{ kind: "replace", path: AT, contentFrom: "two", contentTo: "!" }])
+})
+
+test("the splice from one body to another opens and shuts where the two differ", () => {
+  expect(splicedTo("one two three", "one four three")).toEqual({ from: 4, to: 7, put: "four" })
+})
+
+test("the splice between two bodies that read alike replaces nothing", () => {
+  expect(splicedTo(LINES, LINES)).toEqual({ from: LINES.length, to: LINES.length, put: "" })
+})
+
+test("the splice onto a body holding nothing puts the whole body in", () => {
+  expect(splicedTo("", "one")).toEqual({ from: 0, to: 0, put: "one" })
 })

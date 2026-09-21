@@ -144,6 +144,11 @@ export const changeAnswer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A splice turning one body into another opens where they first differ and shuts where they last do.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The body such an edit is worked out from is read off the tree.",
     },
     {

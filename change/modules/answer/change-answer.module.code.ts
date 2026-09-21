@@ -162,6 +162,16 @@ export function splicedIn(
   return splicing(path, text, held)
 }
 
+export function splicedTo(was: string, now: string): Splice {
+  let from = 0
+  while (from < was.length && was[from] === now[from]) from += 1
+  let back = 0
+  while (back < was.length - from && was[was.length - 1 - back] === now[now.length - 1 - back]) {
+    back += 1
+  }
+  return { from, to: was.length - back, put: now.slice(from, now.length - back) }
+}
+
 export type Adding = Reading & {
   readonly kind: "add"
   readonly path: string
