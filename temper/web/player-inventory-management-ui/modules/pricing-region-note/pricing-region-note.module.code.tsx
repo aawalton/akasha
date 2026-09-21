@@ -1,0 +1,47 @@
+"use client"
+
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
+import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import {
+  DEFAULT_PRICING_PLATFORM,
+  DEFAULT_PRICING_SERVER,
+  type PricingRegionNoteKind,
+} from "akasha/temper/web/player-inventory-management-ui/modules/pricing-region/pricing-region.module.code.ts"
+import type { ReactNode } from "react"
+
+export function PricingRegionNote({
+  kind,
+  platform,
+  server,
+}: {
+  kind: PricingRegionNoteKind
+  platform: string
+  server: string
+}): ReactNode {
+  switch (kind) {
+    case "none":
+      return undefined
+    case "defaulted":
+      return (
+        <Text variant="caption">
+          Prices shown for {platform} / {server} — set your platform and server in{" "}
+          <LayoutLink href="/settings" className="text-accent hover:underline">
+            Settings
+          </LayoutLink>
+        </Text>
+      )
+    case "no-data":
+      return (
+        <Text variant="caption">
+          No market prices for {platform} / {server} yet — market data covers{" "}
+          {DEFAULT_PRICING_PLATFORM} / {DEFAULT_PRICING_SERVER} only for now. Your region is set in{" "}
+          <LayoutLink href="/settings" className="text-accent hover:underline">
+            Settings
+          </LayoutLink>
+        </Text>
+      )
+    default:
+      return assertNever(kind)
+  }
+}

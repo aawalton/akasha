@@ -1,0 +1,55 @@
+"use client"
+
+import type { InventoryTypeSummary } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
+import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
+import { InventoryPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-panel-card/inventory-panel-card.module.code.tsx"
+
+interface InventoryTypeSummaryPanelCardProps {
+  summary: InventoryTypeSummary
+  title?: React.ReactNode
+  currencyCount?: number
+  currencyGoldTotal?: number
+  onItemClick?: (key: string) => void
+  scopeNote?: React.ReactNode
+  subdued?: boolean
+}
+
+export function InventoryTypeSummaryPanelCard({
+  summary,
+  title = "Summary",
+  currencyCount,
+  currencyGoldTotal,
+  onItemClick,
+  scopeNote,
+  subdued,
+}: InventoryTypeSummaryPanelCardProps) {
+  const items: InventoryNode[] = summary.groups.map((group) => ({
+    key: group.category,
+    label: group.category,
+    stackCount: group.totalItems,
+    totalValue: group.totalValue,
+    slotCount: group.occupiedSlots,
+  }))
+
+  if (currencyCount !== undefined) {
+    items.push({
+      key: "currencies",
+      label: "Currencies",
+      stackCount: currencyCount,
+      totalValue: currencyGoldTotal,
+    })
+  }
+
+  return (
+    <InventoryPanelCard
+      id="inventory-summary"
+      title={title}
+      items={items}
+      collapseProtected
+      onItemClick={onItemClick}
+      actionButtonCount={0}
+      scopeNote={scopeNote}
+      subdued={subdued}
+    />
+  )
+}

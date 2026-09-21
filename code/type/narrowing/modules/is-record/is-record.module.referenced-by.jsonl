@@ -45,12 +45,12 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.test.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"}
-{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player-inventory-management-ui/modules/inventory-rules-state/inventory-rules-state.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/modules/player-settings/player-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-state/inventory-rules-state.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/routes/api-watcher-upsert-listings/api-watcher-upsert-listings.route.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.code.ts"}

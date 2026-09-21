@@ -55,10 +55,10 @@
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"}
-{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.test.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/watcher/modules/watcher-run-observing/watcher-run-observing.module.code.ts"}
+{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.test.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

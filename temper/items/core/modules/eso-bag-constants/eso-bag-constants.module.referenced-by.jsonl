@@ -8,5 +8,5 @@
 {"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/items/core/modules/location-character-row/location-character-row.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/items/core/modules/location-condition/location-condition.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-bag-constants.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx"}
 {"propertySlug":"parts","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}

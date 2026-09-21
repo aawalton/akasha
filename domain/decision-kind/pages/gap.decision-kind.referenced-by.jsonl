@@ -781,7 +781,6 @@
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.ts","id":"01a0641c-83b4-7fba-b338-0d13a366420a"}
 {"propertySlug":"decision-kind","path":"temper/player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.ts","id":"01a06108-2ff9-767b-92d7-7dbd5671e738"}
-{"propertySlug":"decision-kind","path":"temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
 {"propertySlug":"decision-kind","path":"temper/progress/temper-inventory-rule/properties/char-eligibility.text-property.ts","id":"01a07283-f298-7cad-8c9f-82f3ca167ff1"}
 {"propertySlug":"decision-kind","path":"temper/progress/temper-inventory-rule/temper-inventory-rule.page-type.ts","id":"01a07283-f299-703a-a255-0c48075885be"}
 {"propertySlug":"decision-kind","path":"temper/progress/temper-rule/properties/conditions.page-property-entry.ts","id":"01a05fd0-3aa4-739a-82b0-6e5a2647ad05"}
@@ -816,6 +815,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items/item-browser-items.module.ts","id":"01a06178-371f-7441-8cab-2f74d08e70ab"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.ts","id":"01a06178-3723-7d81-a3cf-41427a52afb3"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.ts","id":"01a082a9-b67b-7606-b042-c4f5c9e5d6ac"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.ts","id":"01a082aa-3e30-76e3-bcc6-cec49c69facc"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-pricing-extract/api-watcher-upsert-pricing-extract.route.ts","id":"01a082fe-11cd-7a65-b8ed-c1dfdf1595f5"}

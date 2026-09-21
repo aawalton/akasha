@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"}
-{"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts"}
 {"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/web/modules/companion-context/companion-context.module.code.tsx"}
 {"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/web/modules/companion-editor-content/companion-editor-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/web/modules/companion-management-panel-card/companion-management-panel-card.module.code.tsx"}
@@ -10,4 +8,6 @@
 {"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/web/modules/use-companion-partner-build-url/use-companion-partner-build-url.module.code.ts"}
 {"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/web/modules/use-companion-set-target/use-companion-set-target.module.code.ts"}
 {"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/web/modules/use-plan-set-target/use-plan-set-target.module.code.ts"}
+{"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/web/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"}
+{"propertySlug":"import","fileName":"use-companions.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts"}
 {"propertySlug":"parts","path":"temper/web/companions-ui/temper-companions-ui.domain.ts","id":"01a06360-7480-7002-8dd6-aef232754744"}

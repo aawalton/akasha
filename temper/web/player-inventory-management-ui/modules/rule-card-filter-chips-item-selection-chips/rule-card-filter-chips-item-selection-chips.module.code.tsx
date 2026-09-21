@@ -1,0 +1,143 @@
+"use client"
+
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { BadgeToggleGroup } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
+import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { LOCATION_OPTIONS } from "akasha/temper/items-rules-core/modules/location-filter/location-filter.module.code.ts"
+import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items-rules-core/modules/set-sources-filter/set-sources-filter.module.code.ts"
+import type { RuleCardState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
+import type { ReactNode } from "react"
+
+interface TraitsChipProps {
+  state: Pick<
+    RuleCardState,
+    "traitOptions" | "selectedTraitItems" | "handleTraitChange" | "handleRemoveFilter"
+  >
+}
+
+export function TraitsChip({ state }: TraitsChipProps): ReactNode {
+  const { traitOptions, selectedTraitItems, handleTraitChange, handleRemoveFilter } = state
+
+  return (
+    <Popover>
+      <PopoverTrigger asChild>
+        <Badge
+          variant={selectedTraitItems.length > 0 ? "accent" : "elevation-muted"}
+          className="shrink-0 cursor-pointer"
+          asChild
+          onRemove={() => handleRemoveFilter("traits")}
+          removeLabel="Remove trait filter"
+        >
+          <span>
+            {selectedTraitItems.length > 0
+              ? `${selectedTraitItems.length} Trait${selectedTraitItems.length === 1 ? "" : "s"}`
+              : "Select Traits"}
+          </span>
+        </Badge>
+      </PopoverTrigger>
+      <PopoverContent align="start" className="flex flex-col gap-2">
+        <Text variant="hint" className="font-medium">
+          Traits
+        </Text>
+        <BadgeToggleGroup
+          items={traitOptions}
+          value={selectedTraitItems}
+          onSelect={handleTraitChange}
+          unselectedVariant="elevation"
+          wrap
+        />
+      </PopoverContent>
+    </Popover>
+  )
+}
+
+interface SetSourcesChipProps {
+  state: Pick<
+    RuleCardState,
+    "selectedSetSourceItems" | "handleSetSourceTypesChange" | "handleRemoveFilter"
+  >
+}
+
+export function SetSourcesChip({ state }: SetSourcesChipProps): ReactNode {
+  const { selectedSetSourceItems, handleSetSourceTypesChange, handleRemoveFilter } = state
+
+  return (
+    <Popover>
+      <PopoverTrigger asChild>
+        <Badge
+          variant={selectedSetSourceItems.length > 0 ? "accent" : "elevation-muted"}
+          className="shrink-0 cursor-pointer"
+          asChild
+          onRemove={() => handleRemoveFilter("set-sources")}
+          removeLabel="Remove set sources filter"
+        >
+          <span>
+            {selectedSetSourceItems.length > 0
+              ? `${selectedSetSourceItems.length} Set Source${selectedSetSourceItems.length === 1 ? "" : "s"}`
+              : "Select Set Sources"}
+          </span>
+        </Badge>
+      </PopoverTrigger>
+      <PopoverContent align="start" className="flex flex-col gap-2">
+        <Text variant="hint" className="font-medium">
+          Set Sources
+        </Text>
+        <BadgeToggleGroup
+          items={SET_SOURCE_TYPE_OPTIONS}
+          value={selectedSetSourceItems}
+          onSelect={handleSetSourceTypesChange}
+          unselectedVariant="elevation"
+          wrap
+        />
+      </PopoverContent>
+    </Popover>
+  )
+}
+
+interface LocationChipProps {
+  state: Pick<
+    RuleCardState,
+    "selectedLocationItems" | "handleLocationChange" | "handleRemoveFilter"
+  >
+}
+
+export function LocationChip({ state }: LocationChipProps): ReactNode {
+  const { selectedLocationItems, handleLocationChange, handleRemoveFilter } = state
+
+  return (
+    <Popover>
+      <PopoverTrigger asChild>
+        <Badge
+          variant={selectedLocationItems.length > 0 ? "accent" : "elevation-muted"}
+          className="shrink-0 cursor-pointer"
+          asChild
+          onRemove={() => handleRemoveFilter("location")}
+          removeLabel="Remove location filter"
+        >
+          <span>
+            {selectedLocationItems.length > 0
+              ? `${selectedLocationItems.length} Location${selectedLocationItems.length === 1 ? "" : "s"}`
+              : "Select Locations"}
+          </span>
+        </Badge>
+      </PopoverTrigger>
+      <PopoverContent align="start" className="flex flex-col gap-2">
+        <Text variant="hint" className="font-medium">
+          Locations
+        </Text>
+        <BadgeToggleGroup
+          items={LOCATION_OPTIONS}
+          value={selectedLocationItems}
+          onSelect={handleLocationChange}
+          unselectedVariant="elevation"
+          wrap
+        />
+      </PopoverContent>
+    </Popover>
+  )
+}

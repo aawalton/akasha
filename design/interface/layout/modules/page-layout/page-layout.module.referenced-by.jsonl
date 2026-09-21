@@ -23,8 +23,6 @@
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"product/audhdalan/web/routes/audhdalan-home/audhdalan-home.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"product/audhdalan/web/routes/audhdalan-safety-levels/audhdalan-safety-levels.route.code.tsx"}
-{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/player-inventory-management-ui/modules/inventory-page-content/inventory-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/modules/catalog-page-content/catalog-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/modules/character-editor-content/character-editor-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/modules/characters-page-content/characters-page-content.module.code.tsx"}
@@ -39,6 +37,8 @@
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/modules/methodology-page-content/methodology-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/modules/settings-page-content/settings-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/modules/watcher-page-content/watcher-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-page-content/inventory-page-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/catalog/catalog.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/completion/completion.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/data-import/data-import.route.code.tsx"}

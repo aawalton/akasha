@@ -32,10 +32,6 @@ import {
   applyCharacterMetadata,
   applyCompanionMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
-import { useInventory } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
-import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
-import { InventoryScopeNote } from "akasha/temper/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
-import { InventoryTypeSummaryPanelCard } from "akasha/temper/player-inventory-management-ui/modules/inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
 import { useCharacterList } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { useCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { OverallSummaryPanelCard } from "akasha/temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
@@ -43,6 +39,10 @@ import { RecentCharactersCard } from "akasha/temper/web/modules/recent-character
 import { RecentCompanionsCard } from "akasha/temper/web/modules/recent-companions-card/recent-companions-card.module.code.tsx"
 import { useCompletionProgress } from "akasha/temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
+import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
+import { useManagedGuildBanks } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { InventoryScopeNote } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
+import { InventoryTypeSummaryPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
 

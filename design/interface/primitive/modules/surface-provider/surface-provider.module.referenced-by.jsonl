@@ -66,13 +66,6 @@
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"story/ui/modules/system-card/system-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/player-inventory-management-ui/modules/item-rule-card-dialogs/item-rule-card-dialogs.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/player-inventory-management-ui/modules/rule-card-delete-dialog/rule-card-delete-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/modules/account-tab/account-tab.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/modules/attributes-panel-card/attributes-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"}
@@ -109,5 +102,12 @@
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/modules/watcher-page-content/watcher-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/item-rule-card-dialogs/item-rule-card-dialogs.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-card-delete-dialog/rule-card-delete-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"temper/web/root.tsx"}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

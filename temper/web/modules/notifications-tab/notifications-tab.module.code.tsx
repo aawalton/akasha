@@ -25,11 +25,11 @@ import {
   DESTRUCTIVE_ACTIONS,
   type DestructiveAction,
 } from "akasha/temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
-import { useBackpackSettings } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import {
   useLoggingSettings,
   useSafetySettings,
 } from "akasha/temper/web/modules/player-settings/player-settings.module.code.ts"
+import { useBackpackSettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useEffect, useMemo, useState } from "react"
 
 type ConfirmActionItem = BadgeToggleGroupItem & { value: DestructiveAction }

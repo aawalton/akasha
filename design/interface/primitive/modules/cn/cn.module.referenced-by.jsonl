@@ -121,9 +121,6 @@
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/frame/modules/frame-sticky-footer/frame-sticky-footer.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"}
-{"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/player-economics-ui/modules/shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"}
-{"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/player-inventory-management-ui/modules/rule-card-header-row/rule-card-header-row.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"}
@@ -153,4 +150,7 @@
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/text-area-panel-card/text-area-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-header-row/rule-card-header-row.module.code.tsx"}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

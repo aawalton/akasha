@@ -625,8 +625,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/lorebook/temper-lorebook.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion-state/temper-player-completion-state.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-completion/temper-player-completion.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-economics-ui/temper-player-economics-ui.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-inventory-management-ui/temper-player-inventory-management-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player/temper-player.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/progress/temper-progress.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morph-access/temper-skill-morph-access.domain.ts"}
@@ -639,6 +637,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/item-browser/temper-item-browser.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/player-completion-skills-morphs-ui/temper-player-completion-skills-morphs-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/player-completion-ui/temper-player-completion-ui.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/player-economics-ui/temper-player-economics-ui.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/player-inventory-management-ui/temper-player-inventory-management-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/skills-panel/temper-skills-panel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/quote/quote.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}

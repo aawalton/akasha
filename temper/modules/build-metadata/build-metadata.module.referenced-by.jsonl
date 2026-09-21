@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/modules/use-player/use-player.module.code.ts"}
-{"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
@@ -15,5 +14,6 @@
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/modules/use-companion-set-target/use-companion-set-target.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/modules/use-plan-set-target/use-plan-set-target.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts"}
+{"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx"}
 {"propertySlug":"parts","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

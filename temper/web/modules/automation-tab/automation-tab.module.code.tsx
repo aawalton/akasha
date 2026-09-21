@@ -17,7 +17,7 @@ import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,
 } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
-import { useAutomationSettings } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { useAutomationSettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { Info } from "lucide-react"
 import { useMemo } from "react"
 

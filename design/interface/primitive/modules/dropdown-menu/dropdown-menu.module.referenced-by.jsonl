@@ -9,11 +9,11 @@
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"page/ui/component/modules/select-property-badge/select-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"}
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx"}
-{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx"}
-{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/player-inventory-management-ui/modules/item-rule-card/item-rule-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/player-inventory-management-ui/modules/rule-card-filters/rule-card-filters.module.code.tsx"}
-{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/player-inventory-management-ui/modules/rule-card-header-row/rule-card-header-row.module.code.tsx"}
 {"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx"}
+{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx"}
+{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/item-rule-card/item-rule-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"}
+{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-card-filters/rule-card-filters.module.code.tsx"}
+{"propertySlug":"import","fileName":"dropdown-menu.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-card-header-row/rule-card-header-row.module.code.tsx"}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

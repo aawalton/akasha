@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"equipment-icon.module.code.tsx","path":"temper/player-inventory-management-ui/modules/item-tooltip/item-tooltip.module.code.tsx"}
 {"propertySlug":"import","fileName":"equipment-icon.module.code.tsx","path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"equipment-icon.module.code.tsx","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"equipment-icon.module.code.tsx","path":"temper/web/modules/companion-jewelry-panel-card/companion-jewelry-panel-card.module.code.tsx"}
@@ -10,4 +9,5 @@
 {"propertySlug":"import","fileName":"equipment-icon.module.code.tsx","path":"temper/web/modules/race-select-dialog/race-select-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"equipment-icon.module.code.tsx","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"equipment-icon.module.code.tsx","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"equipment-icon.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/item-tooltip/item-tooltip.module.code.tsx"}
 {"propertySlug":"parts","path":"temper/web/characters-equipment-ui/temper-characters-equipment-ui.domain.ts","id":"01a06333-1bb2-7503-96cd-0be9991f4b14"}

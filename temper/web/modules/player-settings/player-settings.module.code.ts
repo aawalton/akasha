@@ -7,7 +7,7 @@ import {
   ALL_DESTRUCTIVE_ACTIONS,
   type InventorySafetySettings,
 } from "akasha/temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
-import { useSettingsBlob } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { useSettingsBlob } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useCallback } from "react"
 
 function isInventoryLoggingSettings(v: unknown): v is InventoryLoggingSettings {

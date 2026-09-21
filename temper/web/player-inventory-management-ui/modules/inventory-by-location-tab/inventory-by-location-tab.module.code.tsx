@@ -1,0 +1,176 @@
+"use client"
+
+import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { scrollToCard } from "akasha/design/interface/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { computeCurrencyGoldTotal } from "akasha/temper/items/core/modules/inventory-currencies/inventory-currencies.module.code.ts"
+import {
+  filterInventoryGroups,
+  groupInventoryByLocation,
+  type InventoryLocationGroup,
+} from "akasha/temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"
+import type { ExcludedLocation } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import type {
+  InventoryCurrencies,
+  InventoryDatabase,
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import {
+  type LocationTypeId,
+  locationTypes,
+} from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+import { InventoryLocationSummaryPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.code.tsx"
+import {
+  InventoryLocationTypePanelCard,
+  type LocationTypeCardData,
+} from "akasha/temper/web/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx"
+import type { InventorySortMode } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-panel-card/inventory-panel-card.module.code.tsx"
+import { InventoryScopeNote } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
+import { Search } from "lucide-react"
+import { useMemo } from "react"
+
+interface InventoryByLocationTabProps {
+  inventory: InventoryDatabase
+  excluded?: readonly ExcludedLocation[]
+  currencies?: InventoryCurrencies
+  conversionRates?: Record<string, number>
+  search?: string
+  qualities?: readonly number[]
+  traits?: readonly string[]
+  sortBy?: InventorySortMode
+  sortDirection?: SortDirection
+  onClearFilters?: () => void
+}
+
+export function InventoryByLocationTab({
+  inventory,
+  excluded = [],
+  currencies,
+  conversionRates,
+  search = "",
+  qualities = [],
+  traits = [],
+  sortBy,
+  sortDirection,
+  onClearFilters,
+}: InventoryByLocationTabProps) {
+  const summary = useMemo(() => groupInventoryByLocation(inventory), [inventory])
+
+  const filteredSummary = useMemo(() => {
+    if (search === "" && qualities.length === 0 && traits.length === 0) return summary
+    const filteredGroups = filterInventoryGroups(summary.groups, search, qualities, traits)
+    let totalItems = 0
+    let totalOccupiedSlots = 0
+    let totalValue: number | undefined
+    let hasAnyValue = false
+    for (const group of filteredGroups) {
+      totalItems += group.totalItems
+      totalOccupiedSlots += group.occupiedSlots
+      if (group.totalValue !== undefined) {
+        hasAnyValue = true
+        totalValue = (totalValue ?? 0) + group.totalValue
+      }
+    }
+    return {
+      totalItems,
+      occupiedSlots: totalOccupiedSlots,
+      totalValue: hasAnyValue ? totalValue : undefined,
+      groups: filteredGroups,
+    }
+  }, [summary, search, qualities, traits])
+
+  const cards = useMemo(() => {
+    const typeMap = new Map<LocationTypeId, InventoryLocationGroup[]>()
+    for (const group of filteredSummary.groups) {
+      let list = typeMap.get(group.locationType)
+      if (!list) {
+        list = []
+        typeMap.set(group.locationType, list)
+      }
+      list.push(group)
+    }
+
+    const result: LocationTypeCardData[] = []
+    for (const [locationType, groups] of typeMap) {
+      const title = locationTypes.data[locationType]?.name ?? locationType
+      result.push({ locationType, title, groups })
+    }
+    result.sort((a, b) => a.title.localeCompare(b.title))
+    return result
+  }, [filteredSummary.groups])
+
+  function handleSummaryClick(key: string) {
+    const card =
+      cards.find((c) => c.locationType === key) ??
+      cards.find((c) => c.groups.some((g) => g.locationKey === key))
+    if (card) {
+      scrollToCard(`inventory-location-${card.locationType}`, false)
+    }
+  }
+
+  const currencySummaryResult = useMemo(
+    () => computeCurrencyGoldTotal(currencies, conversionRates),
+    [currencies, conversionRates]
+  )
+
+  const hasActiveFilters = search.length > 0 || qualities.length > 0 || traits.length > 0
+
+  if (hasActiveFilters && filteredSummary.groups.length === 0) {
+    return (
+      <Empty>
+        <EmptyHeader>
+          <EmptyMedia variant="icon">
+            <Search />
+          </EmptyMedia>
+          <EmptyTitle>No matching items</EmptyTitle>
+          <EmptyDescription>
+            Try adjusting your search or filters to find what you're looking for.
+          </EmptyDescription>
+        </EmptyHeader>
+        {onClearFilters && (
+          <EmptyContent>
+            <Button variant="secondary" size="sm" onClick={onClearFilters}>
+              Clear filters
+            </Button>
+          </EmptyContent>
+        )}
+      </Empty>
+    )
+  }
+
+  return (
+    <ResponsiveColumns hasSummaryPanel sortChildren={false}>
+      <InventoryLocationSummaryPanelCard
+        summary={filteredSummary}
+        currencyCount={!hasActiveFilters ? currencySummaryResult?.count : undefined}
+        currencyGoldTotal={!hasActiveFilters ? currencySummaryResult?.goldTotal : undefined}
+        onItemClick={handleSummaryClick}
+        scopeNote={
+          <InventoryScopeNote
+            excluded={excluded}
+            includesCurrencies={!hasActiveFilters && currencySummaryResult?.goldTotal !== undefined}
+            filtered={hasActiveFilters}
+          />
+        }
+      />
+      {cards.map((card) => (
+        <InventoryLocationTypePanelCard
+          key={card.locationType}
+          card={card}
+          currencies={!hasActiveFilters ? currencies : undefined}
+          conversionRates={conversionRates}
+          sortMode={sortBy}
+          sortDirection={sortDirection}
+        />
+      ))}
+    </ResponsiveColumns>
+  )
+}

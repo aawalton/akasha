@@ -1,0 +1,365 @@
+"use client"
+
+import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
+import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import {
+  Alert,
+  AlertDescription,
+  AlertTitle,
+} from "akasha/design/interface/primitive/modules/alert/alert.module.code.tsx"
+import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"
+import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
+import {
+  useAutomationSettings,
+  useBackpackSettings,
+  useManagedGuildBanks,
+} from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import type {
+  ActiveStatusFilter,
+  LockStatusFilter,
+  RuleSortField,
+} from "akasha/temper/web/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { InventoryRulesFilterBar } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-filter-bar/inventory-rules-filter-bar.module.code.tsx"
+import { EntityRulesPanels } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-tab-entity-rules-panels/inventory-rules-tab-entity-rules-panels.module.code.tsx"
+import { ItemRulesPanels } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-tab-item-rules-panels/inventory-rules-tab-item-rules-panels.module.code.tsx"
+import { inventoryRulePanelVisibility } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-tab-panel-visibility/inventory-rules-tab-panel-visibility.module.code.ts"
+import { useAssembledInventoryRules } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-tab-rule-assembly/inventory-rules-tab-rule-assembly.module.code.ts"
+import { InventoryRulesUnread } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-unread/inventory-rules-unread.module.code.tsx"
+import { InventoryScopeNote } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-scope-note/inventory-scope-note.module.code.tsx"
+import { ManagementPlanPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/management-plan-panel-card/management-plan-panel-card.module.code.tsx"
+import { UnmappedItemsPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"
+import { useDestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
+import {
+  type DeferredRuleFilters,
+  useInventoryRulesFilter,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-inventory-rules-filter/use-inventory-rules-filter.module.code.ts"
+import { useInventoryRulesSettingsState } from "akasha/temper/web/player-inventory-management-ui/modules/use-inventory-rules-settings-state/use-inventory-rules-settings-state.module.code.ts"
+import { useInventoryRulesTabAffectedItems } from "akasha/temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts"
+import { useInventoryRulesTabDescriptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-descriptions/use-inventory-rules-tab-descriptions.module.code.ts"
+import { useRuleMatcherContext } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts"
+import { Package } from "lucide-react"
+import { useMemo, useRef } from "react"
+
+interface InventoryRulesTabProps {
+  ruleStatus: readonly ActiveStatusFilter[]
+  ruleLock: readonly LockStatusFilter[]
+  ruleGoal: readonly string[]
+  ruleAction: string | null
+  ruleCategory: string
+  ruleLocation: string | null
+  ruleSearch: string
+  ruleSortBy: RuleSortField
+  ruleSortDir: SortDirection
+  onRuleStatusChange: (status: readonly ActiveStatusFilter[]) => void
+  onRuleLockChange: (lock: readonly LockStatusFilter[]) => void
+  onRuleGoalChange: (goals: readonly string[]) => void
+  onRuleActionChange: (action: string | null) => void
+  onRuleCategoryChange: (id: string) => void
+  onRuleLocationChange: (location: string | null) => void
+  onRuleSearchChange: (search: string) => void
+  onRuleSortChange: (sortBy: RuleSortField, sortDir: SortDirection) => void
+  deferred: DeferredRuleFilters
+}
+
+export function InventoryRulesTab({
+  ruleStatus,
+  ruleLock,
+  ruleGoal,
+  ruleAction,
+  ruleCategory = "",
+  ruleLocation,
+  ruleSearch,
+  ruleSortBy,
+  ruleSortDir,
+  onRuleStatusChange,
+  onRuleLockChange,
+  onRuleGoalChange,
+  onRuleActionChange,
+  onRuleCategoryChange,
+  onRuleLocationChange,
+  onRuleSearchChange,
+  onRuleSortChange,
+  deferred,
+}: InventoryRulesTabProps) {
+  const userId = useUserId()
+  const { localSettings, handlers, rulesUnread } = useInventoryRulesSettingsState()
+  const { inventory: rawInventory, isLoading: isInventoryLoading } = useInventory(userId)
+  const { managedSet } = useManagedGuildBanks()
+  const { automationSettings } = useAutomationSettings()
+  const { backpackSettings } = useBackpackSettings()
+  const destinationOptions = useDestinationOptions()
+
+  const { inventory, excluded } = useMemo(
+    () =>
+      rawInventory
+        ? partitionUnmanagedGuildBanks(rawInventory, managedSet)
+        : { inventory: null, excluded: [] },
+    [rawInventory, managedSet]
+  )
+  const classifiedItems = useMemo(
+    () => (inventory ? classifyAllInventoryItems(inventory) : null),
+    [inventory]
+  )
+
+  const automationSettingsFingerprintRef = useRef<string | null>(null)
+  const stableAutomationSettingsRef = useRef(automationSettings)
+  const automationSettingsFingerprint = JSON.stringify(automationSettings)
+  if (automationSettingsFingerprint !== automationSettingsFingerprintRef.current) {
+    automationSettingsFingerprintRef.current = automationSettingsFingerprint
+    stableAutomationSettingsRef.current = automationSettings
+  }
+  const stableAutomationSettings = stableAutomationSettingsRef.current
+
+  const matcherContext = useRuleMatcherContext(inventory, stableAutomationSettings)
+
+  const {
+    controlledCharacterRules,
+    controlledCompanionRules,
+    controlledRulesCount,
+    allRulesForMatching,
+    globalPriorityMap,
+    deferredItemRules,
+    deferredBuyRules,
+    deferredAllRulesForMatching,
+    duplicateRuleIds,
+    itemRules,
+    characterRules,
+    companionRules,
+    categoryRules,
+  } = useAssembledInventoryRules(localSettings, stableAutomationSettings)
+
+  const { affectedItemsMap, unmappedItems, managementPlan } = useInventoryRulesTabAffectedItems({
+    inventory,
+    classifiedItems,
+    matcherContext,
+    deferredAllRulesForMatching,
+    deferredItemRules,
+    bufferSlots: backpackSettings.bufferSlots,
+    buyRules: deferredBuyRules,
+  })
+
+  const {
+    hasAnyFilter,
+    hasSortActive,
+    hasLocationFilter,
+    filteredCharacterRules,
+    filteredCompanionRules,
+    filteredCategoryRules,
+    filteredItemRules,
+    sortedCharacterRules,
+    sortedCompanionRules,
+    sortedCategoryRules,
+    sortedItemRules,
+    visibleCharacterRuleIds,
+    visibleCompanionRuleIds,
+    visibleControlledCharacterRuleIds,
+    visibleControlledCompanionRuleIds,
+    visibleCategoryRuleIds,
+    visibleItemRuleIds,
+    characterPartition,
+    companionPartition,
+    categoryPartition,
+    activeItemRuleIds,
+    inactiveItemRuleIds,
+    lockedItemRuleIds,
+    unlockedItemRuleIds,
+    matchItemLocation,
+  } = useInventoryRulesFilter(
+    deferred,
+    { ruleSortBy, ruleSortDir },
+    characterRules,
+    companionRules,
+    categoryRules,
+    itemRules,
+    controlledCharacterRules,
+    controlledCompanionRules,
+    duplicateRuleIds,
+    affectedItemsMap
+  )
+
+  const {
+    characterActiveDescriptions,
+    characterInactiveDescriptions,
+    characterDuplicateDescriptions,
+    characterUnlockedDescriptions,
+    companionActiveDescriptions,
+    companionInactiveDescriptions,
+    companionDuplicateDescriptions,
+    companionUnlockedDescriptions,
+    categoryActiveDescriptions,
+    categoryInactiveDescriptions,
+    categoryDuplicateDescriptions,
+    categoryUnlockedDescriptions,
+    itemActiveDescriptions,
+    itemInactiveDescriptions,
+    itemUnlockedDescriptions,
+  } = useInventoryRulesTabDescriptions({
+    rules: localSettings.rules,
+    itemRules,
+    characterPartition,
+    companionPartition,
+    categoryPartition,
+    activeItemRuleIds,
+    inactiveItemRuleIds,
+    unlockedItemRuleIds,
+  })
+
+  const displayAffectedItemsMap = useMemo(() => {
+    if (!hasLocationFilter || !affectedItemsMap) return affectedItemsMap
+    const filtered = new Map<string, AffectedItem[]>()
+    for (const [ruleId, items] of affectedItemsMap) {
+      filtered.set(
+        ruleId,
+        items.filter((item) => matchItemLocation(item.locationKey))
+      )
+    }
+    return filtered
+  }, [hasLocationFilter, affectedItemsMap, matchItemLocation])
+
+  const { hideCharacterPanel, hideCompanionPanel, hideCategoryPanel, hideItemPanel } =
+    inventoryRulePanelVisibility({
+      hasAnyFilter,
+      visibleCharacterRuleIds,
+      visibleControlledCharacterRuleIds,
+      visibleCompanionRuleIds,
+      visibleControlledCompanionRuleIds,
+      visibleCategoryRuleIds,
+      visibleItemRuleIds,
+    })
+
+  if (rulesUnread !== null) return <InventoryRulesUnread said={rulesUnread} />
+
+  return (
+    <div className="flex flex-col gap-6">
+      {inventory == null && !isInventoryLoading && (
+        <Alert>
+          <Package />
+          <AlertTitle>No inventory has reached this page</AlertTitle>
+          <AlertDescription>
+            <p>
+              Inventory comes from the file the TemperInventory add-on writes while you play, and
+              the Watcher syncs that file for you. The starter rules below are inactive; enable the
+              ones you want once your inventory arrives.{" "}
+              <LayoutLink href="/watcher" className="font-medium underline">
+                Check sync status
+              </LayoutLink>
+              .
+            </p>
+          </AlertDescription>
+        </Alert>
+      )}
+      <InventoryRulesFilterBar
+        ruleStatus={ruleStatus}
+        ruleLock={ruleLock}
+        ruleGoal={ruleGoal}
+        ruleAction={ruleAction}
+        ruleCategory={ruleCategory}
+        ruleLocation={ruleLocation}
+        ruleSearch={ruleSearch}
+        ruleSortBy={ruleSortBy}
+        ruleSortDir={ruleSortDir}
+        hasDuplicates={duplicateRuleIds.size > 0}
+        inventory={inventory}
+        onRuleStatusChange={onRuleStatusChange}
+        onRuleLockChange={onRuleLockChange}
+        onRuleGoalChange={onRuleGoalChange}
+        onRuleActionChange={onRuleActionChange}
+        onRuleCategoryChange={onRuleCategoryChange}
+        onRuleLocationChange={onRuleLocationChange}
+        onRuleSearchChange={onRuleSearchChange}
+        onRuleSortChange={onRuleSortChange}
+      />
+      {}
+      {inventory != null && <InventoryScopeNote excluded={excluded} includesCurrencies={false} />}
+      <ResponsiveColumns sortChildren={false}>
+        <ManagementPlanPanelCard
+          plan={managementPlan}
+          isInventoryLoading={isInventoryLoading}
+          hasInventory={inventory != null}
+        />
+        <UnmappedItemsPanelCard
+          items={
+            hasLocationFilter
+              ? unmappedItems.filter((item) => matchItemLocation(item.locationKey))
+              : unmappedItems
+          }
+          totalCount={unmappedItems.length}
+          isInventoryLoading={isInventoryLoading}
+          hasInventory={inventory != null}
+        />
+        {EntityRulesPanels({
+          companionRules,
+          sortedCharacterRules,
+          sortedCompanionRules,
+          filteredCharacterRules,
+          filteredCompanionRules,
+          controlledCharacterRules,
+          controlledCompanionRules,
+          controlledRulesCount,
+          globalPriorityMap,
+          totalRules: allRulesForMatching.length,
+          visibleCharacterRuleIds,
+          visibleCompanionRuleIds,
+          visibleControlledCharacterRuleIds,
+          visibleControlledCompanionRuleIds,
+          duplicateRuleIds,
+          affectedItemsMap: displayAffectedItemsMap,
+          destinationOptions,
+          characterPartition,
+          companionPartition,
+          characterActiveDescriptions,
+          characterInactiveDescriptions,
+          characterDuplicateDescriptions,
+          characterUnlockedDescriptions,
+          companionActiveDescriptions,
+          companionInactiveDescriptions,
+          companionDuplicateDescriptions,
+          companionUnlockedDescriptions,
+          onRuleStatusChange,
+          onRuleLockChange,
+          handlers,
+          isSortActive: hasSortActive,
+          hideCharacterPanel,
+          hideCompanionPanel,
+        })}
+        {ItemRulesPanels({
+          sortedCategoryRules,
+          filteredCategoryRules,
+          visibleCategoryRuleIds,
+          categoryPartition,
+          categoryActiveDescriptions,
+          categoryInactiveDescriptions,
+          categoryDuplicateDescriptions,
+          categoryUnlockedDescriptions,
+          sortedItemRules,
+          filteredItemRules,
+          visibleItemRuleIds,
+          activeItemRuleIds,
+          inactiveItemRuleIds,
+          lockedItemRuleIds,
+          unlockedItemRuleIds,
+          itemActiveDescriptions,
+          itemInactiveDescriptions,
+          itemUnlockedDescriptions,
+          buyRules: localSettings.buyRules ?? [],
+          globalPriorityMap,
+          totalRules: allRulesForMatching.length,
+          controlledRulesCount,
+          duplicateRuleIds,
+          affectedItemsMap: displayAffectedItemsMap,
+          destinationOptions,
+          onRuleStatusChange,
+          onRuleLockChange,
+          handlers,
+          isSortActive: hasSortActive,
+          hideCategoryPanel,
+          hideItemPanel,
+        })}
+      </ResponsiveColumns>
+    </div>
+  )
+}

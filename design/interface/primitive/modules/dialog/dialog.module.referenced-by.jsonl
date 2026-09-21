@@ -6,11 +6,6 @@
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"page/ui/component/modules/create-page-dialog/create-page-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"}
-{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/player-inventory-management-ui/modules/affected-items-dialog/affected-items-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"}
-{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/companion-rotation-skill-column-header/companion-rotation-skill-column-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx"}
@@ -22,4 +17,9 @@
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/stat-explanation-dialog/stat-explanation-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/under-construction-dialog/under-construction-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/affected-items-dialog/affected-items-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"}
+{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

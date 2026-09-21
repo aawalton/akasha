@@ -1,0 +1,213 @@
+"use client"
+
+import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { lookupCurrencyConversionRates } from "akasha/temper/economy/trading/pricing/modules/currency-price-lookup/currency-price-lookup.module.code.ts"
+import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
+import {
+  useInventory,
+  usePriceExtract,
+} from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
+import { useManagedGuildBanks } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import { InventoryByLocationTab } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.code.tsx"
+import { InventoryFilterBar } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-filter-bar/inventory-filter-bar.module.code.tsx"
+import type {
+  FilterValues,
+  SortField,
+} from "akasha/temper/web/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
+import {
+  resolvePricingRegion,
+  resolvePricingRegionNote,
+} from "akasha/temper/web/player-inventory-management-ui/modules/pricing-region/pricing-region.module.code.ts"
+import { PricingRegionNote } from "akasha/temper/web/player-inventory-management-ui/modules/pricing-region-note/pricing-region-note.module.code.tsx"
+import { resolvePricingSourceNote } from "akasha/temper/web/player-inventory-management-ui/modules/pricing-source/pricing-source.module.code.ts"
+import { PricingSourceNote } from "akasha/temper/web/player-inventory-management-ui/modules/pricing-source-note/pricing-source-note.module.code.tsx"
+import { Package } from "lucide-react"
+import { useMemo } from "react"
+
+interface InventoryLocationDataContentProps {
+  search: string
+  qualities: readonly number[]
+  onSearchChange: (search: string) => void
+  onQualitiesChange: (qualities: readonly number[]) => void
+  armorTraits: readonly string[]
+  onArmorTraitsChange: (traits: readonly string[]) => void
+  weaponTraits: readonly string[]
+  onWeaponTraitsChange: (traits: readonly string[]) => void
+  jewelryTraits: readonly string[]
+  onJewelryTraitsChange: (traits: readonly string[]) => void
+  companionTraits: readonly string[]
+  onCompanionTraitsChange: (traits: readonly string[]) => void
+  sortBy: SortField
+  sortDirection: SortDirection
+  onSortChange: (sortBy: SortField, sortDirection: SortDirection) => void
+  onClearFilters: () => void
+  deferred: FilterValues
+}
+
+export function InventoryLocationDataContent({
+  search,
+  qualities,
+  onSearchChange,
+  onQualitiesChange,
+  armorTraits,
+  onArmorTraitsChange,
+  weaponTraits,
+  onWeaponTraitsChange,
+  jewelryTraits,
+  onJewelryTraitsChange,
+  companionTraits,
+  onCompanionTraitsChange,
+  sortBy,
+  sortDirection,
+  onSortChange,
+  onClearFilters,
+  deferred,
+}: InventoryLocationDataContentProps) {
+  const userId = useUserId()
+  const { isLoading: playerLoading, profileMetadata } = usePlayer()
+  const { inventory: rawInventory, isLoading } = useInventory(userId)
+  const { managedSet } = useManagedGuildBanks()
+  const pricingRegion = resolvePricingRegion(profileMetadata)
+  const {
+    pricing: currencyPricing,
+    isLoading: pricingLoading,
+    error: pricingError,
+  } = usePriceExtract("currency-items", pricingRegion.platform, pricingRegion.server)
+
+  const { inventory, excluded } = useMemo(
+    () =>
+      rawInventory
+        ? partitionUnmanagedGuildBanks(rawInventory, managedSet)
+        : { inventory: null, excluded: [] },
+    [rawInventory, managedSet]
+  )
+
+  const conversionRates = useMemo(() => {
+    if (!currencyPricing) return undefined
+    return lookupCurrencyConversionRates(currencyPricing)
+  }, [currencyPricing])
+
+  const allTraits = useMemo(
+    () => [
+      ...deferred.armorTraits,
+      ...deferred.weaponTraits,
+      ...deferred.jewelryTraits,
+      ...deferred.companionTraits,
+    ],
+    [deferred.armorTraits, deferred.weaponTraits, deferred.jewelryTraits, deferred.companionTraits]
+  )
+
+  const hasActiveFilters =
+    search.length > 0 ||
+    qualities.length > 0 ||
+    allTraits.length > 0 ||
+    sortBy !== "name" ||
+    sortDirection !== "asc"
+
+  const filterBar = (
+    <InventoryFilterBar
+      search={search}
+      onSearchChange={onSearchChange}
+      qualities={qualities}
+      onQualitiesChange={onQualitiesChange}
+      armorTraits={armorTraits}
+      onArmorTraitsChange={onArmorTraitsChange}
+      weaponTraits={weaponTraits}
+      onWeaponTraitsChange={onWeaponTraitsChange}
+      jewelryTraits={jewelryTraits}
+      onJewelryTraitsChange={onJewelryTraitsChange}
+      companionTraits={companionTraits}
+      onCompanionTraitsChange={onCompanionTraitsChange}
+      sortBy={sortBy}
+      sortDirection={sortDirection}
+      onSortChange={onSortChange}
+      hasActiveFilters={hasActiveFilters}
+      onReset={onClearFilters}
+    />
+  )
+
+  const pricingHints = (
+    <>
+      <PricingRegionNote
+        kind={resolvePricingRegionNote({
+          playerSettled: !playerLoading,
+          isDefaulted: pricingRegion.isDefaulted,
+          pricing: currencyPricing,
+          isLoading: pricingLoading,
+          error: pricingError,
+        })}
+        platform={pricingRegion.platform}
+        server={pricingRegion.server}
+      />
+      <PricingSourceNote
+        kind={resolvePricingSourceNote({
+          inventory: inventory ?? null,
+          isSettled: !isLoading,
+        })}
+      />
+    </>
+  )
+
+  if (isLoading) return <ListContentSkeleton />
+
+  if (!inventory) {
+    return (
+      <div className="flex flex-col gap-6">
+        <PageTabHeader title="By Location" subtitle={pricingHints}>
+          {filterBar}
+        </PageTabHeader>
+        <Empty>
+          <EmptyHeader>
+            <EmptyMedia variant="icon">
+              <Package />
+            </EmptyMedia>
+            <EmptyTitle>No inventory data</EmptyTitle>
+            <EmptyDescription>
+              No inventory has reached this page for your account. Inventory comes from the file the
+              TemperInventory add-on writes while you play, and the Watcher syncs that file for you.
+            </EmptyDescription>
+          </EmptyHeader>
+          <EmptyContent>
+            <Button asChild variant="accent">
+              <LayoutLink href="/watcher">Check sync status</LayoutLink>
+            </Button>
+          </EmptyContent>
+        </Empty>
+      </div>
+    )
+  }
+
+  return (
+    <div className="flex flex-col gap-6">
+      <PageTabHeader title="By Location" subtitle={pricingHints}>
+        {filterBar}
+      </PageTabHeader>
+      <InventoryByLocationTab
+        inventory={inventory}
+        excluded={excluded}
+        currencies={inventory.currencies}
+        conversionRates={conversionRates}
+        search={deferred.search}
+        qualities={deferred.qualities}
+        traits={allTraits}
+        sortBy={deferred.sortBy}
+        sortDirection={deferred.sortDirection}
+        onClearFilters={onClearFilters}
+      />
+    </div>
+  )
+}

@@ -34,8 +34,6 @@ export const temper = {
     "domain/temper-lorebook",
     "domain/temper-player-completion",
     "domain/temper-player-completion-state",
-    "domain/temper-player-economics-ui",
-    "domain/temper-player-inventory-management-ui",
     "domain/temper-progress",
     "domain/temper-skill-morph",
     "domain/temper-skill-morph-access",
