@@ -19,7 +19,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemons = {
   ],
   title: "Demons",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "demons|53XhwfbYqKCa1cC15pYq2q|177506",

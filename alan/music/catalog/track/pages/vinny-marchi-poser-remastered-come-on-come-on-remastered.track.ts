@@ -19,7 +19,6 @@ export const vinnyMarchiPoserRemasteredComeOnComeOnRemastered = {
   ],
   title: "Come On! Come On! - remastered",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "comeoncomeonremastered|5USAMqcbMAzF3HBmeD5pJF|148925",

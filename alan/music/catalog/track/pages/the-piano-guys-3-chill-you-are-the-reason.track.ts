@@ -23,7 +23,6 @@ export const thePianoGuys3ChillYouAreTheReason = {
   ],
   title: "You Are The Reason",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },

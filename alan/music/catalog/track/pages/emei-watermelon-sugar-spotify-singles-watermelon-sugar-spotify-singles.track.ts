@@ -19,7 +19,6 @@ export const emeiWatermelonSugarSpotifySinglesWatermelonSugarSpotifySingles = {
   ],
   title: "Watermelon Sugar - Spotify Singles",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "watermelonsugarspotifysingles|7E2aQQjErJocovYFjYLzWU|129656",

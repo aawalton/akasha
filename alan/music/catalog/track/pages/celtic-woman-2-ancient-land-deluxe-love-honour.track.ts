@@ -22,7 +22,6 @@ export const celticWoman2AncientLandDeluxeLoveHonour = {
   ],
   title: "Love & Honour",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "lovehonour|6NWtt9pNOL2Gx7kBykdE5x|244480",

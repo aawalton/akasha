@@ -20,7 +20,6 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemixWhateverItTakesMi
     ],
     title: "Whatever It Takes - Miss Congeniality Remix",
     trackType: "remix",
-    discNumber: 1,
     explicit: false,
     trackArtist: [
       { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },

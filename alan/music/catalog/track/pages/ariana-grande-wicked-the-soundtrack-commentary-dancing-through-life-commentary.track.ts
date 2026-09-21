@@ -19,7 +19,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
   ],
   title: "Dancing Through Life - Commentary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2Je7IdIHe8UvZbLXdapQ26", artistName: "Jonathan Bailey" },

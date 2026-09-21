@@ -19,7 +19,6 @@ export const sabrinaCarpenterSingularActIiTakeOffAllYourCool = {
   ],
   title: "Take Off All Your Cool",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "takeoffallyourcool|74KM79TiuVKeVCqs8QtB0B|183755",

@@ -19,7 +19,6 @@ export const sabrinaCarpenterBringYourLoveBringYourLove = {
   ],
   title: "Bring Your Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6tbjWDEIzxoDsBA1FuhfPW", artistName: "Madonna" },

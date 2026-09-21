@@ -19,7 +19,6 @@ export const emeiScatterbrain2DearEmily = {
   ],
   title: "Dear Emily",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "dearemily|7E2aQQjErJocovYFjYLzWU|162937",

@@ -19,7 +19,6 @@ export const theHoldernessFamilyBestOfThe90sResolutions = {
   ],
   title: "Resolutions",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "resolutions|6tITG4T8LpC0msapZ4wXGA|182047",

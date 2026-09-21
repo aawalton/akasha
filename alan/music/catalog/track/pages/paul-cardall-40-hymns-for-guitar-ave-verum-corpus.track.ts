@@ -19,7 +19,6 @@ export const paulCardall40HymnsForGuitarAveVerumCorpus = {
   ],
   title: "Ave Verum Corpus",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "aveverumcorpus|7FQRbf8gbKw8KZQZAJWxH2|152917",

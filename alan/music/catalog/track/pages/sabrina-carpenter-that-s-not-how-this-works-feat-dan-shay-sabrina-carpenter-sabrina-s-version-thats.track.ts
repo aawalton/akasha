@@ -21,7 +21,6 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
   ],
   title: "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina’s Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6VuMaDnrHyPL1p4EHjYLi7", artistName: "Charlie Puth" },

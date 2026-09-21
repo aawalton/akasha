@@ -22,7 +22,6 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsCemeteriesOfLondon = {
   ],
   title: "Cemeteries of London",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "cemeteriesoflondon|4gzpq5DPGxSnKTe4SA8HAU|201106",

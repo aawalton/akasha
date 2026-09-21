@@ -19,7 +19,6 @@ export const jamesTaylor2OneManBandSlapLeatherLiveAtTheColonialTheatre2007 = {
   ],
   title: "Slap Leather - Live At The Colonial Theatre / 2007",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "slapleatherliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|187373",

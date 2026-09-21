@@ -22,7 +22,6 @@ export const celticWoman22020thAnniversaryYouRaiseMeUp20thAnniversary = {
   ],
   title: "You Raise Me Up - 20th Anniversary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "youraisemeup20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|256000",

@@ -19,7 +19,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingSequoiasPath = {
   ],
   title: "Sequoia's Path",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sequoiaspath|7FQRbf8gbKw8KZQZAJWxH2|225480",

@@ -22,7 +22,6 @@ export const thePianoGuys310KungFuPianoCelloAscends = {
   ],
   title: "Kung Fu Piano: Cello Ascends",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "kungfupianocelloascends|0jW6R8CVyVohuUJVcuweDI|242823",

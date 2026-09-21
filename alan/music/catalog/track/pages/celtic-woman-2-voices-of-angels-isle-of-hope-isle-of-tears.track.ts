@@ -19,7 +19,6 @@ export const celticWoman2VoicesOfAngelsIsleOfHopeIsleOfTears = {
   ],
   title: "Isle Of Hope, Isle Of Tears",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "isleofhopeisleoftears|6NWtt9pNOL2Gx7kBykdE5x|301386",

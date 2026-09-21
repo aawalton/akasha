@@ -19,7 +19,6 @@ export const emeiNightAtTheOperaBloom = {
   ],
   title: "Bloom",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "bloom|7E2aQQjErJocovYFjYLzWU|208559",

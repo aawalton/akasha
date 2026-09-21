@@ -19,7 +19,6 @@ export const sylviaDaleyContortionistContortionist = {
   ],
   title: "Contortionist",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "contortionist|03dXd2zBbBJvX60Oap8Lgo|122769",

@@ -19,7 +19,6 @@ export const billieEilishDontSmileAtMePartyFavor = {
   ],
   title: "party favor",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "partyfavor|6qqNVTkY8uBg9cP3Jd7DAH|204770",

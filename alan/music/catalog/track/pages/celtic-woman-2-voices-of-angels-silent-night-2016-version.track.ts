@@ -19,7 +19,6 @@ export const celticWoman2VoicesOfAngelsSilentNight2016Version = {
   ],
   title: "Silent Night - 2016 Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "silentnight2016version|6NWtt9pNOL2Gx7kBykdE5x|250760",

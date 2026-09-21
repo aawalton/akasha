@@ -19,7 +19,6 @@ export const thePianoGuys3ThePianoGuysTheCelloSong = {
   ],
   title: "The Cello Song",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thecellosong|0jW6R8CVyVohuUJVcuweDI|196707",

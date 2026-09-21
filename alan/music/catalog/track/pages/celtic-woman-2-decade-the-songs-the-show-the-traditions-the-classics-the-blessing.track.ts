@@ -21,7 +21,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheBlessin
   ],
   title: "The Blessing",
   trackType: "studio",
-  discNumber: 4,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theblessing|6NWtt9pNOL2Gx7kBykdE5x|229760",

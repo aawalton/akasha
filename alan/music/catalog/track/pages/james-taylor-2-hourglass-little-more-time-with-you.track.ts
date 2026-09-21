@@ -19,7 +19,6 @@ export const jamesTaylor2HourglassLittleMoreTimeWithYou = {
   ],
   title: "Little More Time with You",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "littlemoretimewithyou|0vn7UBvSQECKJm2817Yf1P|230933",

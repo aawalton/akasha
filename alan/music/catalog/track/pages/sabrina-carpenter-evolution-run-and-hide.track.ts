@@ -19,7 +19,6 @@ export const sabrinaCarpenterEvolutionRunAndHide = {
   ],
   title: "Run and Hide",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "runandhide|74KM79TiuVKeVCqs8QtB0B|209640",

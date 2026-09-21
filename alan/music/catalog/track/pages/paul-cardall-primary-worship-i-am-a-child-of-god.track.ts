@@ -19,7 +19,6 @@ export const paulCardallPrimaryWorshipIAmAChildOfGod = {
   ],
   title: "I am a Child of God",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "iamachildofgod|7FQRbf8gbKw8KZQZAJWxH2|349853",

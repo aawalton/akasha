@@ -19,7 +19,6 @@ export const coldplayLive2012MajorMinusLive = {
   ],
   title: "Major Minus - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "majorminuslive|4gzpq5DPGxSnKTe4SA8HAU|219973",

@@ -19,7 +19,6 @@ export const sabrinaCarpenterNonsenseSpedUpVersionNonsenseSpedUpVersion = {
   ],
   title: "Nonsense - Sped Up Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "nonsensespedupversion|74KM79TiuVKeVCqs8QtB0B|137514",

@@ -19,7 +19,6 @@ export const arianaGrandeIDonTKnowWhyIJustDoIDontKnowWhyIJustDo = {
   ],
   title: "I Don't Know Why (I Just Do)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     {

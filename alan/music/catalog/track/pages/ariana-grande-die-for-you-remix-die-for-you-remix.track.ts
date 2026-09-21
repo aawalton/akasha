@@ -19,7 +19,6 @@ export const arianaGrandeDieForYouRemixDieForYouRemix = {
   ],
   title: "Die For You - Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "1Xyo4u8uXC1ZmMpatF05PJ", artistName: "The Weeknd" },

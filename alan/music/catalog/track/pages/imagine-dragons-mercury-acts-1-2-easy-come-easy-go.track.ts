@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12EasyComeEasyGo = {
   ],
   title: "Easy Come Easy Go",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "easycomeeasygo|53XhwfbYqKCa1cC15pYq2q|179872",

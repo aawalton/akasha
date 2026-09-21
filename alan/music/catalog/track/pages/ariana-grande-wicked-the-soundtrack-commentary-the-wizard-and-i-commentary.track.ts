@@ -19,7 +19,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndICommentary = 
   ],
   title: "The Wizard And I - Commentary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "thewizardandicommentary|46UMQ0cW8ToR8egkBRwAxZ|46367",

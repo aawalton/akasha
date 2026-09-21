@@ -19,7 +19,6 @@ export const celticWoman2BelieveYoullNeverWalkAlone = {
   ],
   title: "You'll Never Walk Alone",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "4IbAZwt75dpehMOgcC3GnP", artistName: "Richard Rodgers" },

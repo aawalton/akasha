@@ -19,7 +19,6 @@ export const emeiScatterbrain2Cynical = {
   ],
   title: "Cynical",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "cynical|7E2aQQjErJocovYFjYLzWU|134545",

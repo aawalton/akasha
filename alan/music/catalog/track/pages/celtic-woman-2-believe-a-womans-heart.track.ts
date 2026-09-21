@@ -19,7 +19,6 @@ export const celticWoman2BelieveAWomansHeart = {
   ],
   title: "A Woman's Heart",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "50SDcJ4wO9jS355IoJc7O9", artistName: "Eleanor McEvoy" },

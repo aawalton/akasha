@@ -19,7 +19,6 @@ export const thePianoGuys3LimitlessSomethingJustLikeThisHungarianRhapsody = {
   ],
   title: "Something Just Like This / Hungarian Rhapsody",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "somethingjustlikethishungarianrhapsody|0jW6R8CVyVohuUJVcuweDI|233841",

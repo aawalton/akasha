@@ -19,7 +19,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeWorkingMan = {
   ],
   title: "Working Man",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "workingman|53XhwfbYqKCa1cC15pYq2q|235453",

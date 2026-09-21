@@ -19,7 +19,6 @@ export const arianaGrandeOneLastTimeOneLastTimeInstrumental = {
   ],
   title: "One Last Time - Instrumental",
   trackType: "instrumental",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "onelasttimeinstrumental|66CXWjxzNUsdJxJ2JdwvnR|198886",

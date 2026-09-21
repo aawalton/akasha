@@ -19,7 +19,6 @@ export const jamesTaylor2NeverDieYoungTBone = {
   ],
   title: "T-Bone",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "tbone|0vn7UBvSQECKJm2817Yf1P|227666",

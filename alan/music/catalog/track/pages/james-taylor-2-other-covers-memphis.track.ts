@@ -19,7 +19,6 @@ export const jamesTaylor2OtherCoversMemphis = {
   ],
   title: "Memphis",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "memphis|0vn7UBvSQECKJm2817Yf1P|190733",

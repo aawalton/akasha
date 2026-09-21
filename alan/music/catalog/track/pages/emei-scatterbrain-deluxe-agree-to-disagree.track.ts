@@ -19,7 +19,6 @@ export const emeiScatterbrainDeluxeAgreeToDisagree = {
   ],
   title: "Agree to Disagree",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "agreetodisagree|7E2aQQjErJocovYFjYLzWU|142307",

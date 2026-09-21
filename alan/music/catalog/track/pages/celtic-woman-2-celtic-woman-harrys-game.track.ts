@@ -19,7 +19,6 @@ export const celticWoman2CelticWomanHarrysGame = {
   ],
   title: "Harry's Game",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "harrysgame|6NWtt9pNOL2Gx7kBykdE5x|150333",

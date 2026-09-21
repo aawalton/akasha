@@ -19,7 +19,6 @@ export const thePianoGuys3ChristmasTogetherTheManger = {
   ],
   title: "The Manger",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "themanger|0jW6R8CVyVohuUJVcuweDI|240437",

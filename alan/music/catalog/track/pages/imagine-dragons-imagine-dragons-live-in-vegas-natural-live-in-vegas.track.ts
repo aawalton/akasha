@@ -19,7 +19,6 @@ export const imagineDragonsImagineDragonsLiveInVegasNaturalLiveInVegas = {
   ],
   title: "Natural - Live in Vegas",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "naturalliveinvegas|53XhwfbYqKCa1cC15pYq2q|256036",

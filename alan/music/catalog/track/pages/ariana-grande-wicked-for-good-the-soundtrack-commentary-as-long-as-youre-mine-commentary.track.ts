@@ -19,7 +19,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryAsLongAsYoureMineCo
   ],
   title: "As Long As You’re Mine - Commentary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "2Je7IdIHe8UvZbLXdapQ26", artistName: "Jonathan Bailey" }],
   trackKey: "aslongasyoureminecommentary|2Je7IdIHe8UvZbLXdapQ26|64960",

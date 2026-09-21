@@ -19,7 +19,6 @@ export const zaraLarssonMidnightSunMoreMidnightSunSpedUp = {
   ],
   title: "Midnight Sun - Sped Up",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "midnightsunspedup|1Xylc3o4UrD53lo9CvFvVg|171535",

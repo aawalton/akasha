@@ -19,7 +19,6 @@ export const imagineDragonsItSTimeEpTheRiver = {
   ],
   title: "The River",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "theriver|53XhwfbYqKCa1cC15pYq2q|205026",

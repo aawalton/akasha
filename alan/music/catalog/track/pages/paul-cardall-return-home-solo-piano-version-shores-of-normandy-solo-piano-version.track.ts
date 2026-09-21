@@ -19,7 +19,6 @@ export const paulCardallReturnHomeSoloPianoVersionShoresOfNormandySoloPianoVersi
   ],
   title: "Shores of Normandy - Solo Piano Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "shoresofnormandysolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|247330",

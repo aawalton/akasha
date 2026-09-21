@@ -19,7 +19,6 @@ export const paulCardallPassingTimeLeavingHome = {
   ],
   title: "Leaving Home",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "leavinghome|7FQRbf8gbKw8KZQZAJWxH2|131395",

@@ -22,7 +22,6 @@ export const celticWoman2AncientLandBeStill = {
   ],
   title: "Be Still",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "bestill|6NWtt9pNOL2Gx7kBykdE5x|95653",

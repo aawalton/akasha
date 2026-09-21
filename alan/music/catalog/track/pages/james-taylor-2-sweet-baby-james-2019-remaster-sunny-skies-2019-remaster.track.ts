@@ -19,7 +19,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterSunnySkies2019Remaster = {
   ],
   title: "Sunny Skies - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sunnyskies2019remaster|0vn7UBvSQECKJm2817Yf1P|141120",

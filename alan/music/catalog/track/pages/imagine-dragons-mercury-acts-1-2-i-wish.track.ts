@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12IWish = {
   ],
   title: "I Wish",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "iwish|53XhwfbYqKCa1cC15pYq2q|207300",

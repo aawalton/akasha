@@ -19,7 +19,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionMoGhileMearLiveFro
   ],
   title: "Mo Ghile Mear - Live From Slane Castle, Ireland/2006",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemearlivefromslanecastleireland2006|6NWtt9pNOL2Gx7kBykdE5x|304946",

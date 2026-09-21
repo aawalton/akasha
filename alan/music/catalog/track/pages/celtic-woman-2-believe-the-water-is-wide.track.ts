@@ -19,7 +19,6 @@ export const celticWoman2BelieveTheWaterIsWide = {
   ],
   title: "The Water Is Wide",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "1U5zgr455OGyIkLNXvDdrf", artistName: "Traditional" },

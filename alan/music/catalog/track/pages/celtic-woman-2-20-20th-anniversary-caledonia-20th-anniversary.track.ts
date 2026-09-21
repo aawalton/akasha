@@ -19,7 +19,6 @@ export const celticWoman22020thAnniversaryCaledonia20thAnniversary = {
   ],
   title: "Caledonia - 20th Anniversary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "caledonia20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|271520",

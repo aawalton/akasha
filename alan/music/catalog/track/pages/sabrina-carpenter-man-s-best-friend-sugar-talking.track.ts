@@ -22,7 +22,6 @@ export const sabrinaCarpenterManSBestFriendSugarTalking = {
   ],
   title: "Sugar Talking",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "sugartalking|74KM79TiuVKeVCqs8QtB0B|183770",

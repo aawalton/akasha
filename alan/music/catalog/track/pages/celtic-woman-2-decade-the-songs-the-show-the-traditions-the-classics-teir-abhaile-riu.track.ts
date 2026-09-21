@@ -21,7 +21,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTeirAbhail
   ],
   title: "Téir Abhaile Riu",
   trackType: "studio",
-  discNumber: 3,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "teirabhaileriu|6NWtt9pNOL2Gx7kBykdE5x|244413",

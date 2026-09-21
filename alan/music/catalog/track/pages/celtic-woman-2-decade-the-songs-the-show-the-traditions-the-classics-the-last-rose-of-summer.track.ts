@@ -21,7 +21,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheLastRos
   ],
   title: "The Last Rose of Summer",
   trackType: "studio",
-  discNumber: 4,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thelastroseofsummer|6NWtt9pNOL2Gx7kBykdE5x|216933",

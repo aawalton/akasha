@@ -19,7 +19,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackOurVictory = {
   ],
   title: "Our Victory",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
   trackKey: "ourvictory|5kjb55jtwPnbYXXDvP4x7R|253480",

@@ -21,7 +21,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBeyondTheS
   ],
   title: "Beyond the Sea",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "beyondthesea|6NWtt9pNOL2Gx7kBykdE5x|202773",

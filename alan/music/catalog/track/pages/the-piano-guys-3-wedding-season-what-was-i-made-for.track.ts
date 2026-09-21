@@ -23,7 +23,6 @@ export const thePianoGuys3WeddingSeasonWhatWasIMadeFor = {
   ],
   title: "What Was I Made For?",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "whatwasimadefor|0jW6R8CVyVohuUJVcuweDI|250837",

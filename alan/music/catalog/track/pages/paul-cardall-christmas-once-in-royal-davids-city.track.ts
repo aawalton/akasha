@@ -19,7 +19,6 @@ export const paulCardallChristmasOnceInRoyalDavidsCity = {
   ],
   title: "Once in Royal David's City",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "onceinroyaldavidscity|7FQRbf8gbKw8KZQZAJWxH2|188677",

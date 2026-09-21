@@ -19,7 +19,6 @@ export const imagineDragonsIBetMyLifeRemixesIBetMyLifeAlexAdairRemix = {
   ],
   title: "I Bet My Life - Alex Adair Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ibetmylifealexadairremix|53XhwfbYqKCa1cC15pYq2q|190280",

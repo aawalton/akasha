@@ -19,7 +19,6 @@ export const imagineDragonsImagineDragonsEpCurse = {
   ],
   title: "Curse",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "curse|53XhwfbYqKCa1cC15pYq2q|225933",

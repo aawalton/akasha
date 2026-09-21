@@ -19,7 +19,6 @@ export const vinnyMarchiDannyBoyDannyBoy = {
   ],
   title: "Danny Boy",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "dannyboy|5USAMqcbMAzF3HBmeD5pJF|179851",

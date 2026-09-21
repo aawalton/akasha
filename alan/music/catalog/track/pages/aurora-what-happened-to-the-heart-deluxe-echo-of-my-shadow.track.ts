@@ -22,7 +22,6 @@ export const auroraWhatHappenedToTheHeartDeluxeEchoOfMyShadow = {
   ],
   title: "Echo Of My Shadow",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "echoofmyshadow|1WgXqy2Dd70QQOU7Ay074N|244813",

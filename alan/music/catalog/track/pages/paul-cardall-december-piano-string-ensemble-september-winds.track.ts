@@ -19,7 +19,6 @@ export const paulCardallDecemberPianoStringEnsembleSeptemberWinds = {
   ],
   title: "September Winds",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "septemberwinds|7FQRbf8gbKw8KZQZAJWxH2|228466",

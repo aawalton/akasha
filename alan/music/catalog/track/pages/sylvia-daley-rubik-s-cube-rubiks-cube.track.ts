@@ -19,7 +19,6 @@ export const sylviaDaleyRubikSCubeRubiksCube = {
   ],
   title: "Rubik's Cube",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "rubikscube|03dXd2zBbBJvX60Oap8Lgo|152039",

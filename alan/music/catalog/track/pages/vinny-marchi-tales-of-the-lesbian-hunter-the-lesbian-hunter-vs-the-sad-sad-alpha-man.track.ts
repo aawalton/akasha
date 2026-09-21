@@ -19,7 +19,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheLesbianHunterVsTheSadSadAlphaM
   ],
   title: "The Lesbian Hunter vs The Sad Sad Alpha Man",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thelesbianhuntervsthesadsadalphaman|5USAMqcbMAzF3HBmeD5pJF|150090",

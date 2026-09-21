@@ -19,7 +19,6 @@ export const celticWoman2MoGhileMearMyGallantStarMoGhileMearMyGallantStar = {
   ],
   title: "Mo Ghile Mear (My Gallant Star)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemearmygallantstar|6NWtt9pNOL2Gx7kBykdE5x|219010",

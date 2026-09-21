@@ -19,7 +19,6 @@ export const imagineDragonsItSTimeEpAmerica = {
   ],
   title: "America",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "america|53XhwfbYqKCa1cC15pYq2q|273440",

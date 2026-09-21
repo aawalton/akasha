@@ -21,7 +21,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheVoice =
   ],
   title: "The Voice",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thevoice|6NWtt9pNOL2Gx7kBykdE5x|187253",

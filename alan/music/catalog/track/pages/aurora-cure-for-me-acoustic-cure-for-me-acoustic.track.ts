@@ -19,7 +19,6 @@ export const auroraCureForMeAcousticCureForMeAcoustic = {
   ],
   title: "Cure for Me - Acoustic",
   trackType: "acoustic",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "cureformeacoustic|1WgXqy2Dd70QQOU7Ay074N|213373",

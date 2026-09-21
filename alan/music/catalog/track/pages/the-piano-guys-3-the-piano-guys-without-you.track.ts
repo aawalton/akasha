@@ -19,7 +19,6 @@ export const thePianoGuys3ThePianoGuysWithoutYou = {
   ],
   title: "Without You",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "withoutyou|0jW6R8CVyVohuUJVcuweDI|218613",

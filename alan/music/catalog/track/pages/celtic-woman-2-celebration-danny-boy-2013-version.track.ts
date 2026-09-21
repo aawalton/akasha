@@ -19,7 +19,6 @@ export const celticWoman2CelebrationDannyBoy2013Version = {
   ],
   title: "Danny Boy - 2013 Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "dannyboy2013version|6NWtt9pNOL2Gx7kBykdE5x|197693",

@@ -19,7 +19,6 @@ export const emeiNightAtTheOperaNoah = {
   ],
   title: "Noah",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "noah|7E2aQQjErJocovYFjYLzWU|159929",

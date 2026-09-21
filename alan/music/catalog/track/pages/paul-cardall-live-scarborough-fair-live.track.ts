@@ -19,7 +19,6 @@ export const paulCardallLiveScarboroughFairLive = {
   ],
   title: "Scarborough Fair - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "scarboroughfairlive|7FQRbf8gbKw8KZQZAJWxH2|169266",

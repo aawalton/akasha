@@ -22,7 +22,6 @@ export const vinnyMarchiHeroInYourStoryHeroInYourStory = {
   ],
   title: "Hero In Your Story",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "heroinyourstory|5USAMqcbMAzF3HBmeD5pJF|171666",

@@ -19,7 +19,6 @@ export const zaraLarssonTalkToMeZaraTalkToMeZara = {
   ],
   title: "Talk To Me, Zara",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6UE7nl9mha6s8z0wFQFIZ2", artistName: "Robyn" },

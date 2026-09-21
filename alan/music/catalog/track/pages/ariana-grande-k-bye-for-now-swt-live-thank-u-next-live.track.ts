@@ -19,7 +19,6 @@ export const arianaGrandeKByeForNowSwtLiveThankUNextLive = {
   ],
   title: "thank u, next - live",
   trackType: "live",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thankunextlive|66CXWjxzNUsdJxJ2JdwvnR|389728",

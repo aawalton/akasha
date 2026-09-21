@@ -19,7 +19,6 @@ export const imagineDragonsSmokeMirrorsDeluxeBattleCry = {
   ],
   title: "Battle Cry",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "battlecry|53XhwfbYqKCa1cC15pYq2q|273640",

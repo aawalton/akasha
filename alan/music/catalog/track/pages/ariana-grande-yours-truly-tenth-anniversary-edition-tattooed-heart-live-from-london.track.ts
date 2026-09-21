@@ -19,7 +19,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTattooedHeartLiveFromL
   ],
   title: "Tattooed Heart - Live from London",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "tattooedheartlivefromlondon|66CXWjxzNUsdJxJ2JdwvnR|193998",

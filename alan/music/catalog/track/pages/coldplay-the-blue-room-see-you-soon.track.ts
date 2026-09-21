@@ -19,7 +19,6 @@ export const coldplayTheBlueRoomSeeYouSoon = {
   ],
   title: "See You Soon",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "seeyousoon|4gzpq5DPGxSnKTe4SA8HAU|171373",

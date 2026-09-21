@@ -19,7 +19,6 @@ export const vinnyMarchiLyingHereAloneLyingHereAlone = {
   ],
   title: "LYING HERE ALONE",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lyingherealone|5USAMqcbMAzF3HBmeD5pJF|160431",

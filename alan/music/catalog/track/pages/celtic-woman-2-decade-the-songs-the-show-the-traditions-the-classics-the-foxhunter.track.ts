@@ -21,7 +21,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheFoxhunt
   ],
   title: "The Foxhunter",
   trackType: "studio",
-  discNumber: 3,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thefoxhunter|6NWtt9pNOL2Gx7kBykdE5x|208613",

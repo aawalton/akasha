@@ -19,7 +19,6 @@ export const coldplayLive2012ClocksLive = {
   ],
   title: "Clocks - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "clockslive|4gzpq5DPGxSnKTe4SA8HAU|284960",

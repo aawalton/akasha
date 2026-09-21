@@ -25,7 +25,6 @@ export const thePianoGuys3GoldenHourGoldenHour = {
   ],
   title: "Golden Hour",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "goldenhour|0jW6R8CVyVohuUJVcuweDI|158571",

@@ -23,7 +23,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321 = {
   ],
   title: "Murder Song (5, 4, 3, 2, 1)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "murdersong54321|1WgXqy2Dd70QQOU7Ay074N|200386",

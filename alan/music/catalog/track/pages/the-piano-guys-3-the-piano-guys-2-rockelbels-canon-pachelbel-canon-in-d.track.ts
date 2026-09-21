@@ -19,7 +19,6 @@ export const thePianoGuys3ThePianoGuys2RockelbelsCanonPachelbelCanonInD = {
   ],
   title: "Rockelbel's Canon (Pachelbel Canon in D)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "rockelbelscanonpachelbelcanonind|0jW6R8CVyVohuUJVcuweDI|228625",

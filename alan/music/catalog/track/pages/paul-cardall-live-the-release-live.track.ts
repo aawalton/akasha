@@ -19,7 +19,6 @@ export const paulCardallLiveTheReleaseLive = {
   ],
   title: "The Release - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thereleaselive|7FQRbf8gbKw8KZQZAJWxH2|188613",

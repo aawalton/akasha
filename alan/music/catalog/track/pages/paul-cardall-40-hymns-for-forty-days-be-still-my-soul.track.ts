@@ -19,7 +19,6 @@ export const paulCardall40HymnsForFortyDaysBeStillMySoul = {
   ],
   title: "Be Still, My Soul",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bestillmysoul|7FQRbf8gbKw8KZQZAJWxH2|210426",

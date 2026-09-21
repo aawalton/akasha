@@ -19,7 +19,6 @@ export const emeiLoveMeNotLoveMeNot = {
   ],
   title: "Love Me Not",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "lovemenot|7E2aQQjErJocovYFjYLzWU|140355",

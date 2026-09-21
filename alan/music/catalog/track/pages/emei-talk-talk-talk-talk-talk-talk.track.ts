@@ -19,7 +19,6 @@ export const emeiTalkTalkTalkTalkTalkTalk = {
   ],
   title: "Talk Talk Talk",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "talktalktalk|7E2aQQjErJocovYFjYLzWU|195946",

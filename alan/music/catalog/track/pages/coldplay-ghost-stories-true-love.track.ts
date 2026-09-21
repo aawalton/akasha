@@ -19,7 +19,6 @@ export const coldplayGhostStoriesTrueLove = {
   ],
   title: "True Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "truelove|4gzpq5DPGxSnKTe4SA8HAU|246000",

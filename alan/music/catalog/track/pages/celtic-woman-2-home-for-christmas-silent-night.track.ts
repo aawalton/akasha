@@ -19,7 +19,6 @@ export const celticWoman2HomeForChristmasSilentNight = {
   ],
   title: "Silent Night",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "silentnight|6NWtt9pNOL2Gx7kBykdE5x|215746",

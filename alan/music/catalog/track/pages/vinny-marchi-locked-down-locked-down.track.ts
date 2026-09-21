@@ -19,7 +19,6 @@ export const vinnyMarchiLockedDownLockedDown = {
   ],
   title: "LOCKED DOWN",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lockeddown|5USAMqcbMAzF3HBmeD5pJF|143187",

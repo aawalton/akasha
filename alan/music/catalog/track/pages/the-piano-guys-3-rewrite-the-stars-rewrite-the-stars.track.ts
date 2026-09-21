@@ -19,7 +19,6 @@ export const thePianoGuys3RewriteTheStarsRewriteTheStars = {
   ],
   title: "Rewrite the Stars",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0qKRRwXdVtrVIEdPFr8vvo", artistName: "Benj Pasek" },

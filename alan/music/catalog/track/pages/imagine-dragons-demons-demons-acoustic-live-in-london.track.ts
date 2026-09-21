@@ -19,7 +19,6 @@ export const imagineDragonsDemonsDemonsAcousticLiveInLondon = {
   ],
   title: "Demons - Acoustic Live In London",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "demonsacousticliveinlondon|53XhwfbYqKCa1cC15pYq2q|187786",

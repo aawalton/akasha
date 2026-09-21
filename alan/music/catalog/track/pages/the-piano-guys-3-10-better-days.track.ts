@@ -19,7 +19,6 @@ export const thePianoGuys310BetterDays = {
   ],
   title: "Better Days",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "betterdays|0jW6R8CVyVohuUJVcuweDI|190400",

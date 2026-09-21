@@ -19,7 +19,6 @@ export const emeiDistractedDistracted = {
   ],
   title: "Distracted",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "distracted|7E2aQQjErJocovYFjYLzWU|160800",

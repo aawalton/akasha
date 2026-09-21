@@ -19,7 +19,6 @@ export const sabrinaCarpenterSmokeAndFireSmokeAndFire = {
   ],
   title: "Smoke and Fire",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "smokeandfire|74KM79TiuVKeVCqs8QtB0B|225010",

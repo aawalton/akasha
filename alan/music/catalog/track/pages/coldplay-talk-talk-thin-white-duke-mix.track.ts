@@ -19,7 +19,6 @@ export const coldplayTalkTalkThinWhiteDukeMix = {
   ],
   title: "Talk - Thin White Duke Mix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "talkthinwhitedukemix|4gzpq5DPGxSnKTe4SA8HAU|540866",

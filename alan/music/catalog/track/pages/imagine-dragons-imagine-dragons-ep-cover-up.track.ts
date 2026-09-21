@@ -19,7 +19,6 @@ export const imagineDragonsImagineDragonsEpCoverUp = {
   ],
   title: "Cover Up",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "coverup|53XhwfbYqKCa1cC15pYq2q|258278",

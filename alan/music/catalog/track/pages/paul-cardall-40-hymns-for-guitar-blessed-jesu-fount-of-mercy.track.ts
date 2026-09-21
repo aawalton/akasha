@@ -19,7 +19,6 @@ export const paulCardall40HymnsForGuitarBlessedJesuFountOfMercy = {
   ],
   title: "Blessed Jesu, Fount of Mercy",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "blessedjesufountofmercy|7FQRbf8gbKw8KZQZAJWxH2|151552",

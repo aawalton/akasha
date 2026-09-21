@@ -19,7 +19,6 @@ export const imagineDragonsFollowYouSummer21VersionFollowYouSummer21Version = {
   ],
   title: "Follow You - Summer ’21 Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "followyousummer21version|53XhwfbYqKCa1cC15pYq2q|172945",

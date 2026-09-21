@@ -19,7 +19,6 @@ export const paulCardallReturnHomeSoloPianoVersionLandOfOurAncestorsSoloPianoVer
   ],
   title: "Land of Our Ancestors - Solo Piano Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "landofourancestorssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|171451",

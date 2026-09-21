@@ -19,7 +19,6 @@ export const theHoldernessFamilyQuarantunesVolOneAllByMyself = {
   ],
   title: "All by Myself",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "allbymyself|6tITG4T8LpC0msapZ4wXGA|148506",

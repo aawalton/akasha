@@ -19,7 +19,6 @@ export const thePianoGuys3ChillDeStressedOut = {
   ],
   title: "(De)Stressed Out",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "destressedout|0jW6R8CVyVohuUJVcuweDI|182419",

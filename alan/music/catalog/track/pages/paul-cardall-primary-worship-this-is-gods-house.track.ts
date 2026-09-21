@@ -19,7 +19,6 @@ export const paulCardallPrimaryWorshipThisIsGodsHouse = {
   ],
   title: "This is God's House",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thisisgodshouse|7FQRbf8gbKw8KZQZAJWxH2|181040",

@@ -19,7 +19,6 @@ export const vinnyMarchiPoserRemasteredLyingHereAloneRemastered = {
   ],
   title: "LYING HERE ALONE - remastered",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lyingherealoneremastered|5USAMqcbMAzF3HBmeD5pJF|160431",

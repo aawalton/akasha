@@ -19,7 +19,6 @@ export const coldplayHurtsLikeHeavenHurtsLikeHeaven = {
   ],
   title: "Hurts Like Heaven",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "hurtslikeheaven|4gzpq5DPGxSnKTe4SA8HAU|242253",

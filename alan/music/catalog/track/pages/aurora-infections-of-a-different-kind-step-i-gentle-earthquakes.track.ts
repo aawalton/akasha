@@ -22,7 +22,6 @@ export const auroraInfectionsOfADifferentKindStepIGentleEarthquakes = {
   ],
   title: "Gentle Earthquakes",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "gentleearthquakes|1WgXqy2Dd70QQOU7Ay074N|227328",

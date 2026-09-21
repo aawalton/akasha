@@ -19,7 +19,6 @@ export const auroraARockSomewhereTheSeedForGreenpeaceARockSomewhereTheSeedForGre
   ],
   title: "A Rock Somewhere / The Seed - For Greenpeace",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0QWrMNukfcVOmgEU0FEDyD", artistName: "Jacob Collier" },

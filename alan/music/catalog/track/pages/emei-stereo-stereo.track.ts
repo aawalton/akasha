@@ -19,7 +19,6 @@ export const emeiStereoStereo = {
   ],
   title: "Stereo",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "4Q6nIcaBED8qUel8bBx6Cr", artistName: "Jax Jones" },

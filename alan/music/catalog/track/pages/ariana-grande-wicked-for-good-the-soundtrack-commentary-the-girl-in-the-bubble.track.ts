@@ -22,7 +22,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubble 
   ],
   title: "The Girl in the Bubble",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "thegirlinthebubble|66CXWjxzNUsdJxJ2JdwvnR|220500",

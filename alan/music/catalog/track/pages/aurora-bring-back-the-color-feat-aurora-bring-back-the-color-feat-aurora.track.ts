@@ -19,7 +19,6 @@ export const auroraBringBackTheColorFeatAuroraBringBackTheColorFeatAurora = {
   ],
   title: "BRING BACK THE COLOR (feat. AURORA)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0jNDKefhfSbLR9sFvcPLHo", artistName: "San Holo" },

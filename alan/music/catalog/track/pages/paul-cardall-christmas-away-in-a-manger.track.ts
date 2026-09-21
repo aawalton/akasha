@@ -19,7 +19,6 @@ export const paulCardallChristmasAwayInAManger = {
   ],
   title: "Away in a Manger",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "awayinamanger|7FQRbf8gbKw8KZQZAJWxH2|263696",

@@ -19,7 +19,6 @@ export const auroraSouthernStarFeatAuroraSouthernStarFeatAurora = {
   ],
   title: "Southern Star (feat. AURORA)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "3jzXlBF2157k4exx7idecs", artistName: "Leif Vollebekk" },

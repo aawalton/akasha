@@ -19,7 +19,6 @@ export const coldplayLiveInBuenosAiresEndCreditsLiveInBuenosAires = {
   ],
   title: "End Credits - Live in Buenos Aires",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "endcreditsliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|123240",

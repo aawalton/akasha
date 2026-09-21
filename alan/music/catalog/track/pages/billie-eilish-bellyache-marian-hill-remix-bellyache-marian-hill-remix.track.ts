@@ -19,7 +19,6 @@ export const billieEilishBellyacheMarianHillRemixBellyacheMarianHillRemix = {
   ],
   title: "Bellyache - Marian Hill Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },

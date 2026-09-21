@@ -19,7 +19,6 @@ export const coldplayGhostStoriesMagic = {
   ],
   title: "Magic",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "magic|4gzpq5DPGxSnKTe4SA8HAU|285014",

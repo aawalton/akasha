@@ -19,7 +19,6 @@ export const imagineDragonsNightVisionsNothingLeftToSayRocks = {
   ],
   title: "Nothing Left To Say / Rocks",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "nothinglefttosayrocks|53XhwfbYqKCa1cC15pYq2q|536080",

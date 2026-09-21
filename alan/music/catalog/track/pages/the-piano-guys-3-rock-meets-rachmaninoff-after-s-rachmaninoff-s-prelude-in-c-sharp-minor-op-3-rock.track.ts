@@ -21,7 +21,6 @@ export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCShar
   ],
   title: "Rock Meets Rachmaninoff",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0Kekt6CKSo0m5mivKcoH51", artistName: "Sergei Rachmaninoff" },

@@ -19,7 +19,6 @@ export const emei9Lives9Lives = {
   ],
   title: "9 LIVES",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "9lives|7E2aQQjErJocovYFjYLzWU|182255",

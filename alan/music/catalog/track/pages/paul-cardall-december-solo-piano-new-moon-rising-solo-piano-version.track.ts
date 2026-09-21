@@ -19,7 +19,6 @@ export const paulCardallDecemberSoloPianoNewMoonRisingSoloPianoVersion = {
   ],
   title: "New Moon Rising - Solo Piano Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "newmoonrisingsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|217253",

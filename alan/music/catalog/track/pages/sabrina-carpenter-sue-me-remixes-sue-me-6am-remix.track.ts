@@ -19,7 +19,6 @@ export const sabrinaCarpenterSueMeRemixesSueMe6amRemix = {
   ],
   title: "Sue Me - 6am Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },

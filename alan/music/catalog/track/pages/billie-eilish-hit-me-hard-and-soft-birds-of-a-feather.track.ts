@@ -19,7 +19,6 @@ export const billieEilishHitMeHardAndSoftBirdsOfAFeather = {
   ],
   title: "BIRDS OF A FEATHER",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "birdsofafeather|6qqNVTkY8uBg9cP3Jd7DAH|210373",

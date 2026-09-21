@@ -19,7 +19,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineWithBrandyMonicaRemixACappella 
   ],
   title: "the boy is mine (with Brandy, Monica) – Remix a cappella",
   trackType: "remix",
-  discNumber: 1,
   explicit: true,
   trackArtist: [
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },

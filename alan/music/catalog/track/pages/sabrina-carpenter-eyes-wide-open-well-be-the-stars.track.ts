@@ -19,7 +19,6 @@ export const sabrinaCarpenterEyesWideOpenWellBeTheStars = {
   ],
   title: "We'll Be The Stars",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "wellbethestars|74KM79TiuVKeVCqs8QtB0B|186880",

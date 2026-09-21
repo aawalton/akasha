@@ -19,7 +19,6 @@ export const celticWoman2NollaigAChristmasJourneyInTheBleakMidwinterGoinHomeMedl
   ],
   title: "In The Bleak Midwinter/Goin’ Home - Medley",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "inthebleakmidwintergoinhomemedley|6NWtt9pNOL2Gx7kBykdE5x|272575",

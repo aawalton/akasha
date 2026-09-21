@@ -19,7 +19,6 @@ export const thePianoGuys3LimitlessNorthCape = {
   ],
   title: "North Cape",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "northcape|0jW6R8CVyVohuUJVcuweDI|179622",

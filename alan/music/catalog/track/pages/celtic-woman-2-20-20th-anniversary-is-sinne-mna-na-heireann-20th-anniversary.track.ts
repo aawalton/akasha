@@ -19,7 +19,6 @@ export const celticWoman22020thAnniversaryIsSinneMnaNaHeireann20thAnniversary = 
   ],
   title: "Is Sinne Mná na hÉireann - 20th Anniversary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "issinnemnanaheireann20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|201240",

@@ -19,7 +19,6 @@ export const celticWoman2TheMagicOfChristmasDeckTheHalls = {
   ],
   title: "Deck The Halls",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "deckthehalls|6NWtt9pNOL2Gx7kBykdE5x|146813",

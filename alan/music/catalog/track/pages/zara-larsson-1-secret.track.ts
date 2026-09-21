@@ -19,7 +19,6 @@ export const zaraLarsson1Secret = {
   ],
   title: "Secret",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "secret|1Xylc3o4UrD53lo9CvFvVg|163855",

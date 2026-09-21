@@ -19,7 +19,6 @@ export const arianaGrandePositionsVevoOfficialLivePerformances3435LiveFromVevo =
   ],
   title: "34+35 - live from Vevo",
   trackType: "live",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "3435livefromvevo|66CXWjxzNUsdJxJ2JdwvnR|179949",

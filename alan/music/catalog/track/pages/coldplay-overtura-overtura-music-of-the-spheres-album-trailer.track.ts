@@ -19,7 +19,6 @@ export const coldplayOverturaOverturaMusicOfTheSpheresAlbumTrailer = {
   ],
   title: "Overtura - Music Of The Spheres album trailer",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "overturamusicofthespheresalbumtrailer|4gzpq5DPGxSnKTe4SA8HAU|112812",

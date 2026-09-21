@@ -19,7 +19,6 @@ export const billieEilishSixFeetUnderSixFeetUnder = {
   ],
   title: "Six Feet Under",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "sixfeetunder|6qqNVTkY8uBg9cP3Jd7DAH|189613",

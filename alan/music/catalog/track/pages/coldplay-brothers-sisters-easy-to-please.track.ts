@@ -19,7 +19,6 @@ export const coldplayBrothersSistersEasyToPlease = {
   ],
   title: "Easy To Please",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "easytoplease|4gzpq5DPGxSnKTe4SA8HAU|181960",

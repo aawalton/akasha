@@ -19,7 +19,6 @@ export const coldplayMyloXylotoUpWithTheBirds = {
   ],
   title: "Up with the Birds",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "upwiththebirds|4gzpq5DPGxSnKTe4SA8HAU|225653",

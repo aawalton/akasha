@@ -19,7 +19,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterBearDontCareInterlude = {
   ],
   title: "Bear Don't Care (Interlude)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "beardontcareinterlude|5USAMqcbMAzF3HBmeD5pJF|70824",

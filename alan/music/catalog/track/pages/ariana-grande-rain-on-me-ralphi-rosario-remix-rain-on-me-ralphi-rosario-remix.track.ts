@@ -19,7 +19,6 @@ export const arianaGrandeRainOnMeRalphiRosarioRemixRainOnMeRalphiRosarioRemix = 
   ],
   title: "Rain On Me - Ralphi Rosario Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "1HY2Jd0NmPuamShAr6KMms", artistName: "Lady Gaga" },

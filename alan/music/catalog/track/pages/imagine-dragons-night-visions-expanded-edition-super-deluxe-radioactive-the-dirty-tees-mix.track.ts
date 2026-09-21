@@ -19,7 +19,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveTheD
   ],
   title: "Radioactive - The Dirty Tees Mix",
   trackType: "remix",
-  discNumber: 4,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "radioactivethedirtyteesmix|53XhwfbYqKCa1cC15pYq2q|328440",

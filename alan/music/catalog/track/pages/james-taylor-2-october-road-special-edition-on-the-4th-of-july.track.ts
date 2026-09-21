@@ -19,7 +19,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionOnThe4thOfJuly = {
   ],
   title: "On the 4th of July",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "onthe4thofjuly|0vn7UBvSQECKJm2817Yf1P|203733",

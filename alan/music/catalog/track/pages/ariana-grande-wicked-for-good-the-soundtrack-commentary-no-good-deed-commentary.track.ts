@@ -19,7 +19,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoGoodDeedCommentar
   ],
   title: "No Good Deed - Commentary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6VAUVq50O85s387FLQJi2B", artistName: "Jon M. Chu" },

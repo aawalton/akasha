@@ -19,7 +19,6 @@ export const paulCardallHymnsNearerMyGodToThee = {
   ],
   title: "Nearer My God To Thee",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "nearermygodtothee|7FQRbf8gbKw8KZQZAJWxH2|197066",

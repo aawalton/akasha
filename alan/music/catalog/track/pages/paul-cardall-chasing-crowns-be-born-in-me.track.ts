@@ -19,7 +19,6 @@ export const paulCardallChasingCrownsBeBornInMe = {
   ],
   title: "Be Born In Me",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "beborninme|7FQRbf8gbKw8KZQZAJWxH2|217000",

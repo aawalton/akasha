@@ -19,7 +19,6 @@ export const imagineDragonsEvolveIllMakeItUpToYou = {
   ],
   title: "I’ll Make It Up To You",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "illmakeituptoyou|53XhwfbYqKCa1cC15pYq2q|262600",

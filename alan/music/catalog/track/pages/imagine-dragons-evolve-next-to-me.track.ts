@@ -19,7 +19,6 @@ export const imagineDragonsEvolveNextToMe = {
   ],
   title: "Next To Me",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "nexttome|53XhwfbYqKCa1cC15pYq2q|230288",

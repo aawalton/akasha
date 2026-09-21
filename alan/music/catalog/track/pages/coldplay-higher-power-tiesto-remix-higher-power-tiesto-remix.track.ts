@@ -19,7 +19,6 @@ export const coldplayHigherPowerTiestoRemixHigherPowerTiestoRemix = {
   ],
   title: "Higher Power - Tiësto Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },

@@ -19,7 +19,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseSpedUp = {
   ],
   title: "Please Please Please - Sped Up",
   trackType: "version",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "pleasepleasepleasespedup|74KM79TiuVKeVCqs8QtB0B|152403",

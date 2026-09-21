@@ -19,7 +19,6 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveSaviRemix = {
   ],
   title: "First Love - SAVI Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "3hyEbRtp617pNCuuQjyOmc", artistName: "Lost Kings" },

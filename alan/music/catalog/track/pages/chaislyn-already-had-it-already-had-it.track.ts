@@ -19,7 +19,6 @@ export const chaislynAlreadyHadItAlreadyHadIt = {
   ],
   title: "Already Had It",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "alreadyhadit|3zmbniiciaBAJlSX1Bzq9R|176842",

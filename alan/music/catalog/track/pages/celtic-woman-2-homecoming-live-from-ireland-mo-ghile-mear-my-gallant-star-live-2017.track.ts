@@ -19,7 +19,6 @@ export const celticWoman2HomecomingLiveFromIrelandMoGhileMearMyGallantStarLive20
   ],
   title: "Mo Ghile Mear (My Gallant Star) - Live 2017",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemearmygallantstarlive2017|6NWtt9pNOL2Gx7kBykdE5x|249786",

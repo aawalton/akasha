@@ -19,7 +19,6 @@ export const arianaGrandeKByeForNowSwtLiveSweetenerLive = {
   ],
   title: "sweetener - live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "sweetenerlive|66CXWjxzNUsdJxJ2JdwvnR|174000",

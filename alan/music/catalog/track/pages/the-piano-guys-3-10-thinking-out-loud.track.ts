@@ -23,7 +23,6 @@ export const thePianoGuys310ThinkingOutLoud = {
   ],
   title: "Thinking Out Loud",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "thinkingoutloud|0jW6R8CVyVohuUJVcuweDI|232636",

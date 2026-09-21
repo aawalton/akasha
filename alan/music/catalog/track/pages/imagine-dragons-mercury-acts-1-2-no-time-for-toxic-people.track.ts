@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12NoTimeForToxicPeople = {
   ],
   title: "No Time For Toxic People",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "notimefortoxicpeople|53XhwfbYqKCa1cC15pYq2q|207870",

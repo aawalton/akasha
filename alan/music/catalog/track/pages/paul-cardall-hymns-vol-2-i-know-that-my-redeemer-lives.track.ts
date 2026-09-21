@@ -19,7 +19,6 @@ export const paulCardallHymnsVol2IKnowThatMyRedeemerLives = {
   ],
   title: "I Know that My Redeemer Lives",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "iknowthatmyredeemerlives|7FQRbf8gbKw8KZQZAJWxH2|221093",

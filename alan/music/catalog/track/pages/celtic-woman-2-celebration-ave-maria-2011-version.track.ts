@@ -19,7 +19,6 @@ export const celticWoman2CelebrationAveMaria2011Version = {
   ],
   title: "Ave Maria - 2011 Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "avemaria2011version|6NWtt9pNOL2Gx7kBykdE5x|262546",

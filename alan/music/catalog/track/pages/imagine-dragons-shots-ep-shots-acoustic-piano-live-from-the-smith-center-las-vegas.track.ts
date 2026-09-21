@@ -19,7 +19,6 @@ export const imagineDragonsShotsEpShotsAcousticPianoLiveFromTheSmithCenterLasVeg
   ],
   title: "Shots - Acoustic (Piano) / Live From The Smith Center / Las Vegas",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },

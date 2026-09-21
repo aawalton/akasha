@@ -19,7 +19,6 @@ export const arianaGrandeThankUNextMakeUp = {
   ],
   title: "make up",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "makeup|66CXWjxzNUsdJxJ2JdwvnR|140693",

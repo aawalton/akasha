@@ -19,7 +19,6 @@ export const paulCardallDailyDevotionsSweetHourOfPrayer = {
   ],
   title: "Sweet Hour of Prayer",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweethourofprayer|7FQRbf8gbKw8KZQZAJWxH2|213120",

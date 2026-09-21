@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12TheyDontKnowYouLikeIDo = {
   ],
   title: "They Don't Know You Like I Do",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "theydontknowyoulikeido|53XhwfbYqKCa1cC15pYq2q|257875",

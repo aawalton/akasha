@@ -19,7 +19,6 @@ export const paulCardallLiveImprov3NotesSacredNatureLive = {
   ],
   title: "Improv 3 Notes (Sacred Nature) - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "improv3notessacrednaturelive|7FQRbf8gbKw8KZQZAJWxH2|149133",

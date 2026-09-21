@@ -22,7 +22,6 @@ export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersionSym
     ],
     title: "Symphony - Inner City Youth Orchestra of Los Angeles Version",
     trackType: "version",
-    discNumber: 1,
     explicit: false,
     trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
     trackKey: "symphonyinnercityyouthorchestraoflosangelesversion|53XhwfbYqKCa1cC15pYq2q|188688",

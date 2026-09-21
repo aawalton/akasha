@@ -19,7 +19,6 @@ export const coldplayHypnotisedHypnotised = {
   ],
   title: "Hypnotised",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "hypnotised|4gzpq5DPGxSnKTe4SA8HAU|355172",

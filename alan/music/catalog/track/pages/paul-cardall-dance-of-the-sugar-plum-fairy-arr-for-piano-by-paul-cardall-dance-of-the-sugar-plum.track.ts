@@ -21,7 +21,6 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardallDanceOfT
   ],
   title: "Dance of the Sugar Plum Fairy (Arr. for piano by Paul Cardall)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "danceofthesugarplumfairyarrforpianobypaulcardall|7FQRbf8gbKw8KZQZAJWxH2|212991",

@@ -19,7 +19,6 @@ export const imagineDragonsImagineDragonsSpotifySessionsBlankSpaceStandByMeLiveF
   ],
   title: "Blank Space/Stand By Me - Live From Spotify London",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "blankspacestandbymelivefromspotifylondon|53XhwfbYqKCa1cC15pYq2q|303433",

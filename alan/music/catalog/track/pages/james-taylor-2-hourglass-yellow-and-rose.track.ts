@@ -19,7 +19,6 @@ export const jamesTaylor2HourglassYellowAndRose = {
   ],
   title: "Yellow and Rose",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "yellowandrose|0vn7UBvSQECKJm2817Yf1P|293600",

@@ -19,7 +19,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseAcoustic = {
   ],
   title: "Please Please Please - Acoustic",
   trackType: "acoustic",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "pleasepleasepleaseacoustic|74KM79TiuVKeVCqs8QtB0B|181485",

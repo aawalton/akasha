@@ -19,7 +19,6 @@ export const billieEilishDontSmileAtMeHostage = {
   ],
   title: "hostage",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "hostage|6qqNVTkY8uBg9cP3Jd7DAH|229425",

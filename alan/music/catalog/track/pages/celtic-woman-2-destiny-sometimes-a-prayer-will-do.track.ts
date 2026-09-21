@@ -19,7 +19,6 @@ export const celticWoman2DestinySometimesAPrayerWillDo = {
   ],
   title: "Sometimes A Prayer Will Do",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "sometimesaprayerwilldo|6NWtt9pNOL2Gx7kBykdE5x|280455",

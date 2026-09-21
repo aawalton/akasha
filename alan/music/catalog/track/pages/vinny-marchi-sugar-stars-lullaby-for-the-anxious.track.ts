@@ -19,7 +19,6 @@ export const vinnyMarchiSugarStarsLullabyForTheAnxious = {
   ],
   title: "Lullaby for the Anxious",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lullabyfortheanxious|5USAMqcbMAzF3HBmeD5pJF|191843",

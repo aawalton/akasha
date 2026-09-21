@@ -19,7 +19,6 @@ export const celticWoman2VoicesOfAngelsOAmerica2016Version = {
   ],
   title: "O, America! - 2016 Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "oamerica2016version|6NWtt9pNOL2Gx7kBykdE5x|297173",

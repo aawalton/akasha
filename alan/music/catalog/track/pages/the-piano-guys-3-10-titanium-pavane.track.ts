@@ -19,7 +19,6 @@ export const thePianoGuys310TitaniumPavane = {
   ],
   title: "Titanium / Pavane",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "titaniumpavane|0jW6R8CVyVohuUJVcuweDI|288281",

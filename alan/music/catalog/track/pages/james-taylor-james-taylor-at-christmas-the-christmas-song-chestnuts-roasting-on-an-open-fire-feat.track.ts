@@ -19,7 +19,6 @@ export const jamesTaylorJamesTaylorAtChristmasTheChristmasSongChestnutsRoastingO
   ],
   title: "The Christmas Song (Chestnuts Roasting On An Open Fire) (feat. Toots Thielemans)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },

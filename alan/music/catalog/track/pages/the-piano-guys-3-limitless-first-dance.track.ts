@@ -19,7 +19,6 @@ export const thePianoGuys3LimitlessFirstDance = {
   ],
   title: "First Dance",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "firstdance|0jW6R8CVyVohuUJVcuweDI|276363",

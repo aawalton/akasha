@@ -19,7 +19,6 @@ export const imagineDragonsIBetMyLifeRemixesIBetMyLifeLostKingsRemix = {
   ],
   title: "I Bet My Life - Lost Kings Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ibetmylifelostkingsremix|53XhwfbYqKCa1cC15pYq2q|238733",

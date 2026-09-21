@@ -19,7 +19,6 @@ export const paulCardallElizaSThemeElizasTheme = {
   ],
   title: "Eliza's Theme",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "elizastheme|7FQRbf8gbKw8KZQZAJWxH2|218816",

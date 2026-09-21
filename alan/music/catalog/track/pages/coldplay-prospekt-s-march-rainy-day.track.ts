@@ -22,7 +22,6 @@ export const coldplayProspektSMarchRainyDay = {
   ],
   title: "Rainy Day",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "rainyday|4gzpq5DPGxSnKTe4SA8HAU|206002",

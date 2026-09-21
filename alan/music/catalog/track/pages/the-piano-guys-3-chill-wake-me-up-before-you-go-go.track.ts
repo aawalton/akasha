@@ -19,7 +19,6 @@ export const thePianoGuys3ChillWakeMeUpBeforeYouGoGo = {
   ],
   title: "Wake Me Up Before You Go-Go",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "wakemeupbeforeyougogo|0jW6R8CVyVohuUJVcuweDI|238085",

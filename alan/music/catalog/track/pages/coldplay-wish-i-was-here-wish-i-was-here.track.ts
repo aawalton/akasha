@@ -19,7 +19,6 @@ export const coldplayWishIWasHereWishIWasHere = {
   ],
   title: "Wish I Was Here",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6G7OerKc3eBO9sVkRNopFC", artistName: "Cat Power" },

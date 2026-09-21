@@ -22,7 +22,6 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMe = {
   ],
   title: "Santa, Can’t You Hear Me",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "3BmGtnKgCSGYIUhmivXKWX", artistName: "Kelly Clarkson" },

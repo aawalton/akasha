@@ -19,7 +19,6 @@ export const thePianoGuys3SoFarSoGoodWhatMakesYouBeautiful = {
   ],
   title: "What Makes You Beautiful",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "whatmakesyoubeautiful|0jW6R8CVyVohuUJVcuweDI|173733",

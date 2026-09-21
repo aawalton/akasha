@@ -19,7 +19,6 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomHowDeepIsYourLoveLiveSpotifyLi
   ],
   title: "How Deep Is Your Love (Live) - Spotify Live Room",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "howdeepisyourlovelivespotifyliveroom|1Xylc3o4UrD53lo9CvFvVg|132166",

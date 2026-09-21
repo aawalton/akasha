@@ -19,7 +19,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeIWentTooFar = {
   ],
   title: "I Went Too Far",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "iwenttoofar|1WgXqy2Dd70QQOU7Ay074N|207853",

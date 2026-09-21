@@ -19,7 +19,6 @@ export const jamesTaylor2JamesTaylorLiveCarolinaInMyMind = {
   ],
   title: "Carolina In My Mind",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "carolinainmymind|0vn7UBvSQECKJm2817Yf1P|301666",

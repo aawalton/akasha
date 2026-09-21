@@ -22,7 +22,6 @@ export const imagineDragonsItSTimeCherryCherryBoomBoomRemixItsTimeCherryCherryBo
   ],
   title: "It's Time - Cherry Cherry Boom Boom Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimecherrycherryboomboomremix|53XhwfbYqKCa1cC15pYq2q|315666",

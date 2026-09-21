@@ -19,7 +19,6 @@ export const billieEilishHitMeHardAndSoftLamourDeMaVie = {
   ],
   title: "L’AMOUR DE MA VIE",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "lamourdemavie|6qqNVTkY8uBg9cP3Jd7DAH|333986",

@@ -19,7 +19,6 @@ export const celticWoman2DestinyRideOn = {
   ],
   title: "Ride On",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "rideon|6NWtt9pNOL2Gx7kBykdE5x|235559",

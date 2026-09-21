@@ -22,7 +22,6 @@ export const imagineDragonsItSTimeRemixesItsTimePenguinPrisonRemix = {
   ],
   title: "It's Time - Penguin Prison Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimepenguinprisonremix|53XhwfbYqKCa1cC15pYq2q|263440",

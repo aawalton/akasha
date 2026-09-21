@@ -19,7 +19,6 @@ export const billieEilishEverythingIWantedEverythingIWanted = {
   ],
   title: "everything i wanted",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "everythingiwanted|6qqNVTkY8uBg9cP3Jd7DAH|245425",

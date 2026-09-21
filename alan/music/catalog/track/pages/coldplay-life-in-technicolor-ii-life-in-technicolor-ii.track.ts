@@ -19,7 +19,6 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIi = {
   ],
   title: "Life in Technicolor ii",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "lifeintechnicolorii|4gzpq5DPGxSnKTe4SA8HAU|247293",

@@ -19,7 +19,6 @@ export const paulCardallPeacefulPianoOutOfTheAshes = {
   ],
   title: "Out of the Ashes",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "outoftheashes|7FQRbf8gbKw8KZQZAJWxH2|221373",

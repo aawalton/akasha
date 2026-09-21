@@ -19,7 +19,6 @@ export const sabrinaCarpenterShortNSweetDeluxeBadReviews = {
   ],
   title: "Bad Reviews",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "badreviews|74KM79TiuVKeVCqs8QtB0B|141393",

@@ -19,7 +19,6 @@ export const zaraLarssonAllTheTimeAllTheTime = {
   ],
   title: "All the Time",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "allthetime|1Xylc3o4UrD53lo9CvFvVg|228112",

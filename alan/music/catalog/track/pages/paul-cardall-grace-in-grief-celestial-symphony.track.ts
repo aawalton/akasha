@@ -19,7 +19,6 @@ export const paulCardallGraceInGriefCelestialSymphony = {
   ],
   title: "Celestial Symphony",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "celestialsymphony|7FQRbf8gbKw8KZQZAJWxH2|312875",

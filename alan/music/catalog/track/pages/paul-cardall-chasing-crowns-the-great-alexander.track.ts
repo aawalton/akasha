@@ -19,7 +19,6 @@ export const paulCardallChasingCrownsTheGreatAlexander = {
   ],
   title: "The Great Alexander",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thegreatalexander|7FQRbf8gbKw8KZQZAJWxH2|198250",

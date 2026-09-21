@@ -19,7 +19,6 @@ export const thePianoGuys3ChristmasTogetherSilentNightHolyNightFeatPlacidoDoming
   ],
   title: "Silent Night, Holy Night (feat. Plácido Domingo)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },

@@ -21,7 +21,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackForGoodLiveFrom
     ],
     title: "For Good - Live from the Gershwin Theatre",
     trackType: "live",
-    discNumber: 1,
     explicit: false,
     trackArtist: [
       { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },

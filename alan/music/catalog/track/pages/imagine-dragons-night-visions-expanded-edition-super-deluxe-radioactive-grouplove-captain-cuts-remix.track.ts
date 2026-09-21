@@ -20,7 +20,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveGrou
     ],
     title: "Radioactive - Grouplove & Captain Cuts Remix",
     trackType: "remix",
-    discNumber: 4,
     explicit: false,
     trackArtist: [
       { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },

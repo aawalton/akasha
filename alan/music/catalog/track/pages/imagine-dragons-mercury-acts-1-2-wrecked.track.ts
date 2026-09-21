@@ -22,7 +22,6 @@ export const imagineDragonsMercuryActs12Wrecked = {
   ],
   title: "Wrecked",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "wrecked|53XhwfbYqKCa1cC15pYq2q|244004",

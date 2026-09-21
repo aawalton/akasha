@@ -19,7 +19,6 @@ export const vinnyMarchiSoldierPoetKingSoldierPoetKing = {
   ],
   title: "Soldier, Poet, King",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "soldierpoetking|5USAMqcbMAzF3HBmeD5pJF|168226",

@@ -19,7 +19,6 @@ export const jamesTaylor2OneManDog2019RemasterFoolForYou2019Remaster = {
   ],
   title: "Fool for You - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "foolforyou2019remaster|0vn7UBvSQECKJm2817Yf1P|102416",

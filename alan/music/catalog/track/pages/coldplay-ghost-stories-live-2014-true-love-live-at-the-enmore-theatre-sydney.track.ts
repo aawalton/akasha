@@ -19,7 +19,6 @@ export const coldplayGhostStoriesLive2014TrueLoveLiveAtTheEnmoreTheatreSydney = 
   ],
   title: "True Love - Live at the Enmore Theatre, Sydney",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "trueloveliveattheenmoretheatresydney|4gzpq5DPGxSnKTe4SA8HAU|260026",

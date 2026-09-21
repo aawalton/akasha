@@ -19,7 +19,6 @@ export const celticWoman2AChristmasCelebrationDonOicheUdIMbeithilThatNightInBeth
   ],
   title: "Don Oíche Úd I mBeithil (That Night In Bethlehem)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "donoicheudimbeithilthatnightinbethlehem|6NWtt9pNOL2Gx7kBykdE5x|164280",

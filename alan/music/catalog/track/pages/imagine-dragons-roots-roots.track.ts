@@ -19,7 +19,6 @@ export const imagineDragonsRootsRoots = {
   ],
   title: "Roots",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "roots|53XhwfbYqKCa1cC15pYq2q|174506",

@@ -19,7 +19,6 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemixHostileGovernmentTakeov
   ],
   title: "Hostile Government Takeover - EDM Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5HIe287SJPUFnR5TNjmhk5", artistName: "AGiftFromTodd" },

@@ -19,7 +19,6 @@ export const celticWoman2HomecomingLiveFromIrelandArdUiChuainSadhbhNiBhruinneall
   ],
   title: "Ard Uí Chuain/Sadhbh Ní Bhruinneallaigh - Live 2017",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "arduichuainsadhbhnibhruinneallaighlive2017|6NWtt9pNOL2Gx7kBykdE5x|261586",

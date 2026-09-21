@@ -19,7 +19,6 @@ export const imagineDragonsDreamJorgenOdegardRemixDreamJorgenOdegardRemix = {
   ],
   title: "Dream - Jorgen Odegard Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "dreamjorgenodegardremix|53XhwfbYqKCa1cC15pYq2q|276493",

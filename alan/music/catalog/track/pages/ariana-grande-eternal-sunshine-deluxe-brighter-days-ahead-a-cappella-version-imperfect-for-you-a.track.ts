@@ -21,7 +21,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
   ],
   title: "imperfect for you - a cappella",
   trackType: "a-cappella",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "imperfectforyouacappella|66CXWjxzNUsdJxJ2JdwvnR|178684",

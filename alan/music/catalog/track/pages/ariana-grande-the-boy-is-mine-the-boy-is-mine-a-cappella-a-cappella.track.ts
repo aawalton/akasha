@@ -19,7 +19,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineACappellaACappella = {
   ],
   title: "the boy is mine – a cappella - a cappella",
   trackType: "a-cappella",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "theboyismineacappellaacappella|66CXWjxzNUsdJxJ2JdwvnR|163985",

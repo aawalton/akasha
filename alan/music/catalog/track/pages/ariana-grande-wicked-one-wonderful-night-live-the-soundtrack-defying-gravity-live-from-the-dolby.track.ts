@@ -20,7 +20,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDefyingGravityL
   ],
   title: "Defying Gravity - Live from the Dolby Theatre",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "defyinggravitylivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ|224018",

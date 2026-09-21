@@ -21,7 +21,6 @@ export const imagineDragonsLevitateFromTheOriginalMotionPicturePassengersLevitat
   ],
   title: "Levitate - From The Original Motion Picture “Passengers”",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "levitatefromtheoriginalmotionpicturepassengers|53XhwfbYqKCa1cC15pYq2q|198173",

@@ -19,7 +19,6 @@ export const arianaGrandeThankUNextBreakUpWithYourGirlfriendImBored = {
   ],
   title: "break up with your girlfriend, i'm bored",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "breakupwithyourgirlfriendimbored|66CXWjxzNUsdJxJ2JdwvnR|190440",

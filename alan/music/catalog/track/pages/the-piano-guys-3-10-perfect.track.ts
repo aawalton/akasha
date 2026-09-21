@@ -24,7 +24,6 @@ export const thePianoGuys310Perfect = {
   ],
   title: "Perfect",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "perfect|0jW6R8CVyVohuUJVcuweDI|308500",

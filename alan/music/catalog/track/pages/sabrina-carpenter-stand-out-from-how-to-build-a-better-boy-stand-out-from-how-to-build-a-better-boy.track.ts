@@ -19,7 +19,6 @@ export const sabrinaCarpenterStandOutFromHowToBuildABetterBoyStandOutFromHowToBu
   ],
   title: 'Stand Out - From "How to Build a Better Boy"',
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "standoutfromhowtobuildabetterboy|74KM79TiuVKeVCqs8QtB0B|208826",

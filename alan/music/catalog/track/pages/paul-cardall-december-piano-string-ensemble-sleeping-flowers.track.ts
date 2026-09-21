@@ -19,7 +19,6 @@ export const paulCardallDecemberPianoStringEnsembleSleepingFlowers = {
   ],
   title: "Sleeping Flowers",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sleepingflowers|7FQRbf8gbKw8KZQZAJWxH2|222546",

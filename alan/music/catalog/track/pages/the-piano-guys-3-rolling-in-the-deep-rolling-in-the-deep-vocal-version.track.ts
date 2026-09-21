@@ -19,7 +19,6 @@ export const thePianoGuys3RollingInTheDeepRollingInTheDeepVocalVersion = {
   ],
   title: "Rolling in the Deep (vocal version)",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },

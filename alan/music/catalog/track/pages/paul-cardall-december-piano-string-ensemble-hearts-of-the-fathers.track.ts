@@ -19,7 +19,6 @@ export const paulCardallDecemberPianoStringEnsembleHeartsOfTheFathers = {
   ],
   title: "Hearts of The Fathers",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "heartsofthefathers|7FQRbf8gbKw8KZQZAJWxH2|195440",

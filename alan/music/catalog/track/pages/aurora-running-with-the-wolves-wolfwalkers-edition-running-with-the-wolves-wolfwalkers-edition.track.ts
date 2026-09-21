@@ -19,7 +19,6 @@ export const auroraRunningWithTheWolvesWolfwalkersEditionRunningWithTheWolvesWol
   ],
   title: "Running with the Wolves - Wolfwalkers Edition",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "runningwiththewolveswolfwalkersedition|1WgXqy2Dd70QQOU7Ay074N|166546",

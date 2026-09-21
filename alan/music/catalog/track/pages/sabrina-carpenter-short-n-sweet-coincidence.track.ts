@@ -19,7 +19,6 @@ export const sabrinaCarpenterShortNSweetCoincidence = {
   ],
   title: "Coincidence",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "coincidence|74KM79TiuVKeVCqs8QtB0B|164202",

@@ -19,7 +19,6 @@ export const thePianoGuys3AFamilyChristmasWhereAreYouChristmasFeatSarahSchmidt =
   ],
   title: "Where Are You Christmas (feat. Sarah Schmidt)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "4iHNK0tOyZPYnBU7nGAgpQ", artistName: "Mariah Carey" },

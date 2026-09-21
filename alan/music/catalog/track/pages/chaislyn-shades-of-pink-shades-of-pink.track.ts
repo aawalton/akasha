@@ -19,7 +19,6 @@ export const chaislynShadesOfPinkShadesOfPink = {
   ],
   title: "Shades of Pink",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "shadesofpink|3zmbniiciaBAJlSX1Bzq9R|213892",

@@ -19,7 +19,6 @@ export const emeiSunnydSunnyd = {
   ],
   title: "SUNNYD",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" },

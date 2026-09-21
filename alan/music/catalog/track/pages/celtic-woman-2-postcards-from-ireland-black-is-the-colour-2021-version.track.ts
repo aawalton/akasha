@@ -19,7 +19,6 @@ export const celticWoman2PostcardsFromIrelandBlackIsTheColour2021Version = {
   ],
   title: "Black Is the Colour - 2021 Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "blackisthecolour2021version|6NWtt9pNOL2Gx7kBykdE5x|213773",

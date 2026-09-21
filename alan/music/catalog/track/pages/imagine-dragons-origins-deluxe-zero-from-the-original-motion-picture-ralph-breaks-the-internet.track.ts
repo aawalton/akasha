@@ -19,7 +19,6 @@ export const imagineDragonsOriginsDeluxeZeroFromTheOriginalMotionPictureRalphBre
   ],
   title: 'Zero - From the Original Motion Picture "Ralph Breaks The Internet"',
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "zerofromtheoriginalmotionpictureralphbreakstheinternet|53XhwfbYqKCa1cC15pYq2q|210933",

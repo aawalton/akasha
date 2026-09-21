@@ -22,7 +22,6 @@ export const thePianoGuys3LullabyRowRowRowYourBoat = {
   ],
   title: "Row Row Row Your Boat",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "rowrowrowyourboat|0jW6R8CVyVohuUJVcuweDI|100400",

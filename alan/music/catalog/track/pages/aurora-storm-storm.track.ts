@@ -19,7 +19,6 @@ export const auroraStormStorm = {
   ],
   title: "Storm",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5a5vu4RzsAHdKN0aYyblZ8", artistName: "吳青峰" },

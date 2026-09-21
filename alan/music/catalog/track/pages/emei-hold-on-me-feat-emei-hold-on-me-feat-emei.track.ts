@@ -19,7 +19,6 @@ export const emeiHoldOnMeFeatEmeiHoldOnMeFeatEmei = {
   ],
   title: "Hold On Me (feat. Emei)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5jAMCwdNHWr7JThxtMuEyy", artistName: "NOTD" },

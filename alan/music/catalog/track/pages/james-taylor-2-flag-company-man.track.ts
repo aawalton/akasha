@@ -19,7 +19,6 @@ export const jamesTaylor2FlagCompanyMan = {
   ],
   title: "Company Man",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "companyman|0vn7UBvSQECKJm2817Yf1P|224973",

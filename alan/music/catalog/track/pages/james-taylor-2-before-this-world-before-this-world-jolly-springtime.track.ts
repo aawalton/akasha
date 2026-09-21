@@ -19,7 +19,6 @@ export const jamesTaylor2BeforeThisWorldBeforeThisWorldJollySpringtime = {
   ],
   title: "Before This World / Jolly Springtime",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "beforethisworldjollyspringtime|0vn7UBvSQECKJm2817Yf1P|334573",

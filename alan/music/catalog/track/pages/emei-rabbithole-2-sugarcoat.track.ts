@@ -19,7 +19,6 @@ export const emeiRabbithole2Sugarcoat = {
   ],
   title: "SUGARCOAT",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "sugarcoat|7E2aQQjErJocovYFjYLzWU|150270",

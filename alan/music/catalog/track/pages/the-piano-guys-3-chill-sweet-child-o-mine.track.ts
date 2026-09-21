@@ -23,7 +23,6 @@ export const thePianoGuys3ChillSweetChildOMine = {
   ],
   title: "Sweet Child o' Mine",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "sweetchildomine|0jW6R8CVyVohuUJVcuweDI|259750",

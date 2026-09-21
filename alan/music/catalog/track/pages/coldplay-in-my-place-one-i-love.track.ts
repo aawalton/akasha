@@ -19,7 +19,6 @@ export const coldplayInMyPlaceOneILove = {
   ],
   title: "One I Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "oneilove|4gzpq5DPGxSnKTe4SA8HAU|275266",

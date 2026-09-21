@@ -22,7 +22,6 @@ export const celticWoman2AncientLandDeluxeFollowMe = {
   ],
   title: "Follow Me",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "followme|6NWtt9pNOL2Gx7kBykdE5x|218626",

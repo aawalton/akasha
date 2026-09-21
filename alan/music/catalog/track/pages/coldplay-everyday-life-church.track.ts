@@ -19,7 +19,6 @@ export const coldplayEverydayLifeChurch = {
   ],
   title: "Church",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "church|4gzpq5DPGxSnKTe4SA8HAU|230013",

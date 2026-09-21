@@ -19,7 +19,6 @@ export const coldplayAHeadFullOfDreamsAmazingDay = {
   ],
   title: "Amazing Day",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "amazingday|4gzpq5DPGxSnKTe4SA8HAU|271106",

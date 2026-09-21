@@ -19,7 +19,6 @@ export const thePianoGuys3AFamilyChristmasLetItSnowWinterWonderland = {
   ],
   title: "Let It Snow / Winter Wonderland",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "4us59Bx720z6eLFe7FeoEA", artistName: "Felix Bernard" },

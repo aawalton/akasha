@@ -19,7 +19,6 @@ export const theHoldernessFamilyBestOfThe2000sHowMuchLonger = {
   ],
   title: "How Much Longer",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "howmuchlonger|6tITG4T8LpC0msapZ4wXGA|154536",

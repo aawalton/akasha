@@ -19,7 +19,6 @@ export const jamesTaylor2CoversWichitaLineman = {
   ],
   title: "Wichita Lineman",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "wichitalineman|0vn7UBvSQECKJm2817Yf1P|221226",

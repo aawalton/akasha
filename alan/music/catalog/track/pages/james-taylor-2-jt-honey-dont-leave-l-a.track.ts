@@ -19,7 +19,6 @@ export const jamesTaylor2JtHoneyDontLeaveLA = {
   ],
   title: "Honey Don't Leave L.A.",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "honeydontleavela|0vn7UBvSQECKJm2817Yf1P|186383",

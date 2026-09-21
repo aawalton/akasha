@@ -19,7 +19,6 @@ export const zaraLarssonAmmunitionDennisRemixAmmunitionDennisRemix = {
   ],
   title: "Ammunition - DENNIS Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: true,
   trackArtist: [
     { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },

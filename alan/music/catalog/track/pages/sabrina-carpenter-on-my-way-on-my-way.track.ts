@@ -19,7 +19,6 @@ export const sabrinaCarpenterOnMyWayOnMyWay = {
   ],
   title: "On My Way",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [
     { externalId: "7vk5e3vY1uw9plTHJAMwjN", artistName: "Alan Walker" },

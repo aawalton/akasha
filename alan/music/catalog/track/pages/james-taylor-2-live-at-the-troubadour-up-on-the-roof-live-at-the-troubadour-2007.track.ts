@@ -19,7 +19,6 @@ export const jamesTaylor2LiveAtTheTroubadourUpOnTheRoofLiveAtTheTroubadour2007 =
   ],
   title: "Up On The Roof - Live At The Troubadour / 2007",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "319yZVtYM9MBGqmSQnMyY6", artistName: "Carole King" },

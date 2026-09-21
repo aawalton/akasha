@@ -19,7 +19,6 @@ export const celticWoman2SongsFromTheHeartTheCoastOfGalicia = {
   ],
   title: "The Coast Of Galiçia",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thecoastofgalicia|6NWtt9pNOL2Gx7kBykdE5x|218106",

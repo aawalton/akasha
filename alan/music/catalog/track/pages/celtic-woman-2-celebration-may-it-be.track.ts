@@ -19,7 +19,6 @@ export const celticWoman2CelebrationMayItBe = {
   ],
   title: "May It Be",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "mayitbe|6NWtt9pNOL2Gx7kBykdE5x|228333",

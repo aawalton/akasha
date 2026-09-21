@@ -19,7 +19,6 @@ export const vinnyMarchiJennyOfOldstonesJennyOfOldstones = {
   ],
   title: "Jenny Of Oldstones",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "10WKlp1bjWxC1IWbpX4Q6l", artistName: "Topher Ngo" },

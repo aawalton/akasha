@@ -19,7 +19,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionBenjamin = {
   ],
   title: "Benjamin",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5Dl3HXZjG6ZOWT5cV375lk", artistName: "Yo-Yo Ma" },

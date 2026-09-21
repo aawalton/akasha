@@ -19,7 +19,6 @@ export const paulCardallPrimaryWorshipILoveToSeeTheTemple = {
   ],
   title: "I Love to See the Temple",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ilovetoseethetemple|7FQRbf8gbKw8KZQZAJWxH2|266506",

@@ -19,7 +19,6 @@ export const zaraLarssonSpotifySinglesSexualRecordedAtSpotifyStudiosNyc = {
   ],
   title: "Sexual - Recorded at Spotify Studios NYC",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "sexualrecordedatspotifystudiosnyc|1Xylc3o4UrD53lo9CvFvVg|189056",

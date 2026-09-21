@@ -21,7 +21,6 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorldTakeOnTheW
   ],
   title: 'Take On the World - Theme Song From "Girl Meets World"',
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "45af7IeC0N5gQ9cyoIFyS6", artistName: "Rowan Blanchard" },

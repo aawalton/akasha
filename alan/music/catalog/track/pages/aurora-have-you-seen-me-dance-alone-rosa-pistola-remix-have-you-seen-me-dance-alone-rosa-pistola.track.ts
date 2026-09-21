@@ -19,7 +19,6 @@ export const auroraHaveYouSeenMeDanceAloneRosaPistolaRemixHaveYouSeenMeDanceAlon
   ],
   title: "HAVE YOU SEEN ME DANCE ALONE? - Rosa Pistola Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5r0BuurxKQugj8cjHiO8pY", artistName: "TOMORA" },

@@ -23,7 +23,6 @@ export const thePianoGuys3EyesClosedEyesClosed = {
   ],
   title: "Eyes Closed",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "eyesclosed|0jW6R8CVyVohuUJVcuweDI|244554",

@@ -19,7 +19,6 @@ export const coldplayGhostStoriesLive2014OceansLiveAtEWerkCologne = {
   ],
   title: "Oceans - Live at E-Werk, Cologne",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "oceansliveatewerkcologne|4gzpq5DPGxSnKTe4SA8HAU|268786",

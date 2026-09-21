@@ -19,7 +19,6 @@ export const thePianoGuys3UnchartedHelloLacrimosa = {
   ],
   title: "Hello / Lacrimosa",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "hellolacrimosa|0jW6R8CVyVohuUJVcuweDI|231750",

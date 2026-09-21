@@ -19,7 +19,6 @@ export const theHoldernessFamilyBestOf2022TheseJeans = {
   ],
   title: "These Jeans",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "thesejeans|6tITG4T8LpC0msapZ4wXGA|179903",

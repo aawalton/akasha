@@ -19,7 +19,6 @@ export const imagineDragonsHellAndSilenceEpHearMe = {
   ],
   title: "Hear Me",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "hearme|53XhwfbYqKCa1cC15pYq2q|234613",

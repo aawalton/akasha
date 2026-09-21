@@ -19,7 +19,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoAllTheGoodGirlsGoToHell =
   ],
   title: "all the good girls go to hell",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "allthegoodgirlsgotohell|6qqNVTkY8uBg9cP3Jd7DAH|168839",

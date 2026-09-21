@@ -19,7 +19,6 @@ export const celticWoman2HomeForChristmasMarysBoyChild = {
   ],
   title: "Mary's Boy Child",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "marysboychild|6NWtt9pNOL2Gx7kBykdE5x|187760",

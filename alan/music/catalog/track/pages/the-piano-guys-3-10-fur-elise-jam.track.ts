@@ -22,7 +22,6 @@ export const thePianoGuys310FurEliseJam = {
   ],
   title: "Für Elise Jam",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "furelisejam|0jW6R8CVyVohuUJVcuweDI|126893",

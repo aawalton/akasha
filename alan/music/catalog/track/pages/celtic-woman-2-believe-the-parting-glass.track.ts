@@ -19,7 +19,6 @@ export const celticWoman2BelieveThePartingGlass = {
   ],
   title: "The Parting Glass",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0bcumn1QlNcVagBgOAvPLU", artistName: "Shaun Davey" },

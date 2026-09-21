@@ -19,7 +19,6 @@ export const celticWoman2HomecomingLiveFromIrelandYouRaiseMeUpLive2017 = {
   ],
   title: "You Raise Me Up - Live 2017",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "youraisemeuplive2017|6NWtt9pNOL2Gx7kBykdE5x|247426",

@@ -19,7 +19,6 @@ export const arianaGrandeYoursTrulyPopularSong = {
   ],
   title: "Popular Song",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5MmVJVhhYKQ86izuGHzJYA", artistName: "MIKA" },

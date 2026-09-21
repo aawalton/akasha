@@ -19,7 +19,6 @@ export const paulCardallAscensusAscensusChristiASoloPianoRhapsody = {
   ],
   title: "Ascensus Christi: A Solo Piano Rhapsody",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ascensuschristiasolopianorhapsody|7FQRbf8gbKw8KZQZAJWxH2|309930",

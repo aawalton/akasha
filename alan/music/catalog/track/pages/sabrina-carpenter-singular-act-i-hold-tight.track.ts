@@ -19,7 +19,6 @@ export const sabrinaCarpenterSingularActIHoldTight = {
   ],
   title: "Hold Tight",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },

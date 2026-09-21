@@ -22,7 +22,6 @@ export const imagineDragonsNightVisionsDeluxeEveryNight = {
   ],
   title: "Every Night",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "everynight|53XhwfbYqKCa1cC15pYq2q|215533",

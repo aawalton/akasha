@@ -19,7 +19,6 @@ export const jamesTaylor2BeforeThisWorldMontana = {
   ],
   title: "Montana",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "montana|0vn7UBvSQECKJm2817Yf1P|205520",

@@ -19,7 +19,6 @@ export const arianaGrandeOneLastTimeOneLastTimeACappella = {
   ],
   title: "One Last Time - A Cappella",
   trackType: "a-cappella",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "onelasttimeacappella|66CXWjxzNUsdJxJ2JdwvnR|198886",

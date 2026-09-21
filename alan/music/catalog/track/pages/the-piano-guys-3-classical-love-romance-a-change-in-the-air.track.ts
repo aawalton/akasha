@@ -23,7 +23,6 @@ export const thePianoGuys3ClassicalLoveRomanceAChangeInTheAir = {
   ],
   title: "A Change In The Air",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "achangeintheair|0jW6R8CVyVohuUJVcuweDI|314399",

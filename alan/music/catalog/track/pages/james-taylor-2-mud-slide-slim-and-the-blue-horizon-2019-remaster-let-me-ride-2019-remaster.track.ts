@@ -19,7 +19,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLetMeRide2019R
   ],
   title: "Let Me Ride - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "letmeride2019remaster|0vn7UBvSQECKJm2817Yf1P|164133",

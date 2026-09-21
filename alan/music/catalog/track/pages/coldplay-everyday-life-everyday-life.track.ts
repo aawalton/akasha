@@ -19,7 +19,6 @@ export const coldplayEverydayLifeEverydayLife = {
   ],
   title: "Everyday Life",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everydaylife|4gzpq5DPGxSnKTe4SA8HAU|258533",

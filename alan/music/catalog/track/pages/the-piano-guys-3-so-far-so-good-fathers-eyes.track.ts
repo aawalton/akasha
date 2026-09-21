@@ -19,7 +19,6 @@ export const thePianoGuys3SoFarSoGoodFathersEyes = {
   ],
   title: "Fathers' Eyes",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "fatherseyes|0jW6R8CVyVohuUJVcuweDI|234844",

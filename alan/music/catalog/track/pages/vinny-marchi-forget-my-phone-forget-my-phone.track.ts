@@ -19,7 +19,6 @@ export const vinnyMarchiForgetMyPhoneForgetMyPhone = {
   ],
   title: "Forget My Phone",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "forgetmyphone|5USAMqcbMAzF3HBmeD5pJF|155704",

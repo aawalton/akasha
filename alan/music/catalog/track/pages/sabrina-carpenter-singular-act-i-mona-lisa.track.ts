@@ -19,7 +19,6 @@ export const sabrinaCarpenterSingularActIMonaLisa = {
   ],
   title: "Mona Lisa",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "monalisa|74KM79TiuVKeVCqs8QtB0B|138453",

@@ -19,7 +19,6 @@ export const imagineDragonsLiveAtAllsaintsStudiosBelieverLiveAcoustic = {
   ],
   title: "Believer - Live/Acoustic",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "believerliveacoustic|53XhwfbYqKCa1cC15pYq2q|236000",

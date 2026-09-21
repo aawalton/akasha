@@ -19,7 +19,6 @@ export const celticWoman2TheMagicOfChristmasDiaDoBheatha = {
   ],
   title: "Dia Do Bheatha",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "diadobheatha|6NWtt9pNOL2Gx7kBykdE5x|219666",

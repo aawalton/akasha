@@ -19,7 +19,6 @@ export const auroraToBeLovedHalfEmptyButHappy = {
   ],
   title: "Half Empty But Happy",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
   trackKey: "halfemptybuthappy|3NABmtfO8G8s96WFGhbR7F|243602",

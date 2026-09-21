@@ -22,7 +22,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeHome = {
   ],
   title: "Home",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "home|1WgXqy2Dd70QQOU7Ay074N|212773",

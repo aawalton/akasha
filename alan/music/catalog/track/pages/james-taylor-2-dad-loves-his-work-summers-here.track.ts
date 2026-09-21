@@ -19,7 +19,6 @@ export const jamesTaylor2DadLovesHisWorkSummersHere = {
   ],
   title: "Summer's Here",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "summershere|0vn7UBvSQECKJm2817Yf1P|162933",

@@ -19,7 +19,6 @@ export const coldplayGodPutASmileUponYourFaceMurder = {
   ],
   title: "Murder",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "murder|4gzpq5DPGxSnKTe4SA8HAU|334879",

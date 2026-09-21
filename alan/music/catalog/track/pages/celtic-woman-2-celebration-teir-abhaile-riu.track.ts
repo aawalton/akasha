@@ -19,7 +19,6 @@ export const celticWoman2CelebrationTeirAbhaileRiu = {
   ],
   title: "Teir Abhaile Riu",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "teirabhaileriu|6NWtt9pNOL2Gx7kBykdE5x|246880",

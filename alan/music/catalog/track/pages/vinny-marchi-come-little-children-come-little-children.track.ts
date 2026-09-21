@@ -19,7 +19,6 @@ export const vinnyMarchiComeLittleChildrenComeLittleChildren = {
   ],
   title: "Come Little Children",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0Sl22kYbJDXJoZvmOKe4XQ", artistName: "Ebucs" },

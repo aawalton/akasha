@@ -19,7 +19,6 @@ export const imagineDragonsSmokeMirrorsDeluxeSecondChances = {
   ],
   title: "Second Chances",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "secondchances|53XhwfbYqKCa1cC15pYq2q|217973",

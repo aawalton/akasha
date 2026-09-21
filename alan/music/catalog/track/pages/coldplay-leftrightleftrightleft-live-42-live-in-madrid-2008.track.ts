@@ -19,7 +19,6 @@ export const coldplayLeftrightleftrightleftLive42LiveInMadrid2008 = {
   ],
   title: "42 - Live in Madrid, 2008",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "42liveinmadrid2008|4gzpq5DPGxSnKTe4SA8HAU|292000",

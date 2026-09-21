@@ -19,7 +19,6 @@ export const paulCardallAncestorsLettersHome = {
   ],
   title: "Letters Home",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "lettershome|7FQRbf8gbKw8KZQZAJWxH2|58560",

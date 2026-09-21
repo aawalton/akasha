@@ -19,7 +19,6 @@ export const arianaGrandePositionsDeluxeShutUp = {
   ],
   title: "shut up",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "shutup|66CXWjxzNUsdJxJ2JdwvnR|157710",

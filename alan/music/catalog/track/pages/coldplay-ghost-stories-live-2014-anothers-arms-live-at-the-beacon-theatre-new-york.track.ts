@@ -19,7 +19,6 @@ export const coldplayGhostStoriesLive2014AnothersArmsLiveAtTheBeaconTheatreNewYo
   ],
   title: "Another's Arms - Live at the Beacon Theatre, New York",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "anothersarmsliveatthebeacontheatrenewyork|4gzpq5DPGxSnKTe4SA8HAU|235880",

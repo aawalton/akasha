@@ -22,7 +22,6 @@ export const coldplayEveryTeardropIsAWaterfall2EveryTeardropIsAWaterfall = {
   ],
   title: "Every Teardrop Is a Waterfall",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everyteardropisawaterfall|4gzpq5DPGxSnKTe4SA8HAU|243000",

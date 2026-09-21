@@ -19,7 +19,6 @@ export const celticWoman2LullabyTheBlessing = {
   ],
   title: "The Blessing",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "theblessing|6NWtt9pNOL2Gx7kBykdE5x|231720",

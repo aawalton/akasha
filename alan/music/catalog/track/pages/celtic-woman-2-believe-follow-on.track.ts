@@ -19,7 +19,6 @@ export const celticWoman2BelieveFollowOn = {
   ],
   title: "Follow On",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "7lauB9o5ZYmU5lTBOw7w8L", artistName: "Paul Brady" },

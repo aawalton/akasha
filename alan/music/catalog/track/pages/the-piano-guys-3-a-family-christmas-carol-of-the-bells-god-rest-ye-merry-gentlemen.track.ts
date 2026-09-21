@@ -19,7 +19,6 @@ export const thePianoGuys3AFamilyChristmasCarolOfTheBellsGodRestYeMerryGentlemen
   ],
   title: "Carol of the Bells / God Rest Ye Merry Gentlemen",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6lBN3Tzt61u8i9AJoAhKzF", artistName: "Mykola Dmytrovych Leontovych" },

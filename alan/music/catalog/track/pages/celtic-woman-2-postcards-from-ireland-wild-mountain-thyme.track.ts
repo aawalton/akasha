@@ -19,7 +19,6 @@ export const celticWoman2PostcardsFromIrelandWildMountainThyme = {
   ],
   title: "Wild Mountain Thyme",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "wildmountainthyme|6NWtt9pNOL2Gx7kBykdE5x|236546",

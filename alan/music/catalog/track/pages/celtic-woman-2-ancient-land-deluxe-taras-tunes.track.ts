@@ -22,7 +22,6 @@ export const celticWoman2AncientLandDeluxeTarasTunes = {
   ],
   title: "Tara’s Tunes",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "tarastunes|6NWtt9pNOL2Gx7kBykdE5x|254933",

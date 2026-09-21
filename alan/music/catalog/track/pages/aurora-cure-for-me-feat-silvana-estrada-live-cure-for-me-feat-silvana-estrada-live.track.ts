@@ -19,7 +19,6 @@ export const auroraCureForMeFeatSilvanaEstradaLiveCureForMeFeatSilvanaEstradaLiv
   ],
   title: "Cure For Me (feat. Silvana Estrada) - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },

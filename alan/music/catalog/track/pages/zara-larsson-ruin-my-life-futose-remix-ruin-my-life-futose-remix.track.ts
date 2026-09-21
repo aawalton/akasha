@@ -22,7 +22,6 @@ export const zaraLarssonRuinMyLifeFutoseRemixRuinMyLifeFutoseRemix = {
   ],
   title: "Ruin My Life - Futosé Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: true,
   trackArtist: [
     { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },

@@ -19,7 +19,6 @@ export const thePianoGuys3ThePianoGuys2MeAndMyCelloHappyTogether = {
   ],
   title: "Me and My Cello (Happy Together)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "meandmycellohappytogether|0jW6R8CVyVohuUJVcuweDI|186125",

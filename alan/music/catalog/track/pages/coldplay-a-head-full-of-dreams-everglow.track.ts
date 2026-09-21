@@ -19,7 +19,6 @@ export const coldplayAHeadFullOfDreamsEverglow = {
   ],
   title: "Everglow",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everglow|4gzpq5DPGxSnKTe4SA8HAU|282693",

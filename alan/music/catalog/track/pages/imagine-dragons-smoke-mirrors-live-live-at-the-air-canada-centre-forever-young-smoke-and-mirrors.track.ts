@@ -19,7 +19,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreForeverYoungS
   ],
   title: "Forever Young / Smoke And Mirrors - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "foreveryoungsmokeandmirrorslive|53XhwfbYqKCa1cC15pYq2q|503333",

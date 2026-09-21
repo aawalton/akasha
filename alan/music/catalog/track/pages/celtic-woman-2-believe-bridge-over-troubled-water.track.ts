@@ -19,7 +19,6 @@ export const celticWoman2BelieveBridgeOverTroubledWater = {
   ],
   title: "Bridge Over Troubled Water",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2CvCyf1gEVhI0mX6aFXmVI", artistName: "Paul Simon" },

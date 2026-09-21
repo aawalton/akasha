@@ -19,7 +19,6 @@ export const thePianoGuys3AFamilyChristmasAwayInAManger = {
   ],
   title: "Away in a Manger",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0IyFf7sJynolp1a7Ck79u9", artistName: "William J. Kirkpatrick" },

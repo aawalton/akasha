@@ -19,7 +19,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveImperfectForYou
   ],
   title: "imperfect for you - live version",
   trackType: "live",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "imperfectforyouliveversion|66CXWjxzNUsdJxJ2JdwvnR|186201",

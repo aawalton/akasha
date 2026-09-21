@@ -19,7 +19,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterOhBabyDontYouLooseYourLipOnMe
   ],
   title: "Oh Baby, Don't You Loose Your Lip on Me - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ohbabydontyoulooseyourliponme2019remaster|0vn7UBvSQECKJm2817Yf1P|109293",

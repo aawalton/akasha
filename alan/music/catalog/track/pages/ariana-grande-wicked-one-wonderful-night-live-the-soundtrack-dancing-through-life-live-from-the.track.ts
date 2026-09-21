@@ -20,7 +20,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDancingThroughL
   ],
   title: "Dancing Through Life - Live from the Dolby Theatre",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "7znzgTbLilllmlnY4CzazN", artistName: "Bowen Yang" },

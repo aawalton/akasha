@@ -19,7 +19,6 @@ export const paulCardallTheHymnsCollection2DiscSetInHumilityOurSavior = {
   ],
   title: "In Humility, Our Savior",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "inhumilityoursavior|7FQRbf8gbKw8KZQZAJWxH2|285910",

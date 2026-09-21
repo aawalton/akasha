@@ -19,7 +19,6 @@ export const arianaGrandeJasonSSongGaveItAwayJasonsSongGaveItAway = {
   ],
   title: "Jason's Song (Gave It Away)",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "jasonssonggaveitaway|66CXWjxzNUsdJxJ2JdwvnR|264613",

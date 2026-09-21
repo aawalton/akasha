@@ -19,7 +19,6 @@ export const celticWoman2CelticWomanSendMeASong = {
   ],
   title: "Send Me A Song",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "sendmeasong|6NWtt9pNOL2Gx7kBykdE5x|260481",

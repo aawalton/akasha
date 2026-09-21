@@ -19,7 +19,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterSongOfYourLifeFinale = {
   ],
   title: "Song of Your Life (Finale)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "songofyourlifefinale|5USAMqcbMAzF3HBmeD5pJF|284223",

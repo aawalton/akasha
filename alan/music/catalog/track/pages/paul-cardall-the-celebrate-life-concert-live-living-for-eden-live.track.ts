@@ -19,7 +19,6 @@ export const paulCardallTheCelebrateLifeConcertLiveLivingForEdenLive = {
   ],
   title: "Living for Eden - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "livingforedenlive|7FQRbf8gbKw8KZQZAJWxH2|238263",

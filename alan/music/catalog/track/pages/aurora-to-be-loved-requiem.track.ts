@@ -19,7 +19,6 @@ export const auroraToBeLovedRequiem = {
   ],
   title: "Requiem",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
   trackKey: "requiem|3NABmtfO8G8s96WFGhbR7F|388091",

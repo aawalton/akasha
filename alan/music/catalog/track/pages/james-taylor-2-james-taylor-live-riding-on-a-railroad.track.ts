@@ -19,7 +19,6 @@ export const jamesTaylor2JamesTaylorLiveRidingOnARailroad = {
   ],
   title: "Riding On A Railroad",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "ridingonarailroad|0vn7UBvSQECKJm2817Yf1P|161866",

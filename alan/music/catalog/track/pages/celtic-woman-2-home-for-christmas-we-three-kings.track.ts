@@ -19,7 +19,6 @@ export const celticWoman2HomeForChristmasWeThreeKings = {
   ],
   title: "We Three Kings",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "wethreekings|6NWtt9pNOL2Gx7kBykdE5x|217160",

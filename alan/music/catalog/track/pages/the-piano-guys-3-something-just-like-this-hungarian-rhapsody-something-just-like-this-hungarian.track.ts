@@ -19,7 +19,6 @@ export const thePianoGuys3SomethingJustLikeThisHungarianRhapsodySomethingJustLik
   ],
   title: "Something Just Like This / Hungarian Rhapsody",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "1385hLNbrnbCJGokfH2ac2", artistName: "Franz Liszt" },

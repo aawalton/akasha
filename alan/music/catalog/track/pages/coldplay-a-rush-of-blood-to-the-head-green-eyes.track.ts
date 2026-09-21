@@ -19,7 +19,6 @@ export const coldplayARushOfBloodToTheHeadGreenEyes = {
   ],
   title: "Green Eyes",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "greeneyes|4gzpq5DPGxSnKTe4SA8HAU|223040",

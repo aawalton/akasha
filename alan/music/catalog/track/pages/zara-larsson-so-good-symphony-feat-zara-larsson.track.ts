@@ -19,7 +19,6 @@ export const zaraLarssonSoGoodSymphonyFeatZaraLarsson = {
   ],
   title: "Symphony (feat. Zara Larsson)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6MDME20pz9RveH9rEXvrOM", artistName: "Clean Bandit" },

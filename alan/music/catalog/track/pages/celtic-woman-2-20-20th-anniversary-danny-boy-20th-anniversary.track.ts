@@ -19,7 +19,6 @@ export const celticWoman22020thAnniversaryDannyBoy20thAnniversary = {
   ],
   title: "Danny Boy - 20th Anniversary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "dannyboy20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|213746",

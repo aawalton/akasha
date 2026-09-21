@@ -21,7 +21,6 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMoGhileMea
   ],
   title: "Mo Ghile Mear",
   trackType: "studio",
-  discNumber: 3,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "moghilemear|6NWtt9pNOL2Gx7kBykdE5x|290893",

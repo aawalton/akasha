@@ -19,7 +19,6 @@ export const thePianoGuys3PicturesAtAnExhibitionPicturesAtAnExhibition = {
   ],
   title: "Pictures at an Exhibition",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "picturesatanexhibition|0jW6R8CVyVohuUJVcuweDI|240250",

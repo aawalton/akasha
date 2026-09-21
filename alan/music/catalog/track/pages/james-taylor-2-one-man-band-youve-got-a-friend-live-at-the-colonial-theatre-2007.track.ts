@@ -19,7 +19,6 @@ export const jamesTaylor2OneManBandYouveGotAFriendLiveAtTheColonialTheatre2007 =
   ],
   title: "You've Got A Friend - Live At The Colonial Theatre / 2007",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youvegotafriendliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|301986",

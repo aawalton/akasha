@@ -19,7 +19,6 @@ export const chaislynDreamsIForgotAboutDreamsIForgotAbout = {
   ],
   title: "Dreams I Forgot About",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "dreamsiforgotabout|3zmbniiciaBAJlSX1Bzq9R|211915",

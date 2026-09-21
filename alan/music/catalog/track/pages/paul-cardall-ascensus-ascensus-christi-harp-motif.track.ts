@@ -19,7 +19,6 @@ export const paulCardallAscensusAscensusChristiHarpMotif = {
   ],
   title: "Ascensus Christi: Harp Motif",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ascensuschristiharpmotif|7FQRbf8gbKw8KZQZAJWxH2|39500",

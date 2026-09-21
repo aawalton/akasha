@@ -19,7 +19,6 @@ export const auroraHuntingShadowsAssassinSCreedHuntingShadowsAssassinsCreed = {
   ],
   title: "Hunting Shadows (Assassin's Creed)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },

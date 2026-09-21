@@ -19,7 +19,6 @@ export const paulCardallTheBrokenMiracleTheManWithHalfAHeart = {
   ],
   title: "The Man with Half a Heart",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },

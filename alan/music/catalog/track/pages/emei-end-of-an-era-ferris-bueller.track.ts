@@ -19,7 +19,6 @@ export const emeiEndOfAnEraFerrisBueller = {
   ],
   title: "Ferris Bueller",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "ferrisbueller|7E2aQQjErJocovYFjYLzWU|117240",

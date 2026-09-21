@@ -19,7 +19,6 @@ export const thePianoGuys310YouSay = {
   ],
   title: "You Say",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "yousay|0jW6R8CVyVohuUJVcuweDI|310540",

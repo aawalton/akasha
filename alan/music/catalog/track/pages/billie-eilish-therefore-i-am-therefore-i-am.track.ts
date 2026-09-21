@@ -19,7 +19,6 @@ export const billieEilishThereforeIAmThereforeIAm = {
   ],
   title: "Therefore I Am",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "thereforeiam|6qqNVTkY8uBg9cP3Jd7DAH|174321",

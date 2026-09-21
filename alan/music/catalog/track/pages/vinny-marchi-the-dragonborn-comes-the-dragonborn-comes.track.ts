@@ -19,7 +19,6 @@ export const vinnyMarchiTheDragonbornComesTheDragonbornComes = {
   ],
   title: "The Dragonborn Comes",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thedragonborncomes|5USAMqcbMAzF3HBmeD5pJF|208346",

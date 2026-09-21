@@ -24,7 +24,6 @@ export const thePianoGuys3LullabyClairDeLune = {
   ],
   title: "Clair de Lune",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "clairdelune|0jW6R8CVyVohuUJVcuweDI|192481",

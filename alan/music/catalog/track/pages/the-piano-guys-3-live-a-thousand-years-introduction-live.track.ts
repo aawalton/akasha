@@ -19,7 +19,6 @@ export const thePianoGuys3LiveAThousandYearsIntroductionLive = {
   ],
   title: "A Thousand Years (Introduction) - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "athousandyearsintroductionlive|0jW6R8CVyVohuUJVcuweDI|46266",

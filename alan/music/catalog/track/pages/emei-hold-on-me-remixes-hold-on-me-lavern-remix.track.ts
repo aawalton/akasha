@@ -19,7 +19,6 @@ export const emeiHoldOnMeRemixesHoldOnMeLavernRemix = {
   ],
   title: "Hold On Me - Lavern Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5jAMCwdNHWr7JThxtMuEyy", artistName: "NOTD" },

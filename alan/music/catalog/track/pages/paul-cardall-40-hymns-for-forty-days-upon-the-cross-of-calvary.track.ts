@@ -19,7 +19,6 @@ export const paulCardall40HymnsForFortyDaysUponTheCrossOfCalvary = {
   ],
   title: "Upon the Cross of Calvary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "uponthecrossofcalvary|7FQRbf8gbKw8KZQZAJWxH2|63466",

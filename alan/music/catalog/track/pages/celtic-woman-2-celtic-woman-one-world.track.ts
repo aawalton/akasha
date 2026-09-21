@@ -19,7 +19,6 @@ export const celticWoman2CelticWomanOneWorld = {
   ],
   title: "One World",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "oneworld|6NWtt9pNOL2Gx7kBykdE5x|227986",

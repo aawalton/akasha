@@ -19,7 +19,6 @@ export const celticWoman2SoloMarbleHalls = {
   ],
   title: "Marble Halls",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0nBRo87bTZegzYDnIiWkH7", artistName: "Méav" }],
   trackKey: "marblehalls|0nBRo87bTZegzYDnIiWkH7|229529",

@@ -19,7 +19,6 @@ export const imagineDragonsOriginsDeluxeCoolOut = {
   ],
   title: "Cool Out",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "coolout|53XhwfbYqKCa1cC15pYq2q|217866",

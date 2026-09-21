@@ -19,7 +19,6 @@ export const paulCardallDecemberPianoStringEnsembleANewYear = {
   ],
   title: "A New Year",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "anewyear|7FQRbf8gbKw8KZQZAJWxH2|167226",

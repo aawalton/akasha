@@ -19,7 +19,6 @@ export const billieEilishLAmourDeMaVieOverNowExtendedEditLamourDeMaVieOverNowExt
   ],
   title: "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "lamourdemavieovernowextendededit|6qqNVTkY8uBg9cP3Jd7DAH|271969",

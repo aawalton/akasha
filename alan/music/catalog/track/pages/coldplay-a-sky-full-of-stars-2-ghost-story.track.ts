@@ -19,7 +19,6 @@ export const coldplayASkyFullOfStars2GhostStory = {
   ],
   title: "Ghost Story",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "ghoststory|4gzpq5DPGxSnKTe4SA8HAU|257373",

@@ -19,7 +19,6 @@ export const sabrinaCarpenterEspressoEpEspressoOnVacationVersion = {
   ],
   title: "Espresso - On Vacation Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "espressoonvacationversion|74KM79TiuVKeVCqs8QtB0B|175459",

@@ -19,7 +19,6 @@ export const alexandriaKnightOfSwordsKnightOfSwords = {
   ],
   title: "Knight of Swords",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "knightofswords|0SQG4wPVUlfbmbGQfqB47y|159157",

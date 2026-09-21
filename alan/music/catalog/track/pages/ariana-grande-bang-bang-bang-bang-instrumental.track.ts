@@ -19,7 +19,6 @@ export const arianaGrandeBangBangBangBangInstrumental = {
   ],
   title: "Bang Bang - Instrumental",
   trackType: "instrumental",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2gsggkzM5R49q6jpPvazou", artistName: "Jessie J" },

@@ -19,7 +19,6 @@ export const celticWoman2VoicesOfAngelsAsSheMovedThroughTheFair2016Version = {
   ],
   title: "As She Moved Through The Fair - 2016 Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "asshemovedthroughthefair2016version|6NWtt9pNOL2Gx7kBykdE5x|235520",

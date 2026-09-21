@@ -19,7 +19,6 @@ export const auroraTheDevilIsHumanTheDevilIsHuman = {
   ],
   title: "The Devil is Human",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "thedevilishuman|1WgXqy2Dd70QQOU7Ay074N|180613",

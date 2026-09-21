@@ -19,7 +19,6 @@ export const thePianoGuys3ChristmasTogetherOLittleOneSweetBwv493FeatTheKingsSing
   ],
   title: "O Little One Sweet, BWV 493 (feat. The King's Singers)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },

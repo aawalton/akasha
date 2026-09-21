@@ -19,7 +19,6 @@ export const emeiEndOfAnEraLateToTheParty = {
   ],
   title: "Late to the Party",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "latetotheparty|7E2aQQjErJocovYFjYLzWU|177176",

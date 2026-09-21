@@ -19,7 +19,6 @@ export const paulCardallAncestorsGrandmasHands = {
   ],
   title: "Grandma's Hands",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "grandmashands|7FQRbf8gbKw8KZQZAJWxH2|214357",

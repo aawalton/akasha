@@ -19,7 +19,6 @@ export const theHoldernessFamilyIMAdultingImAdulting = {
   ],
   title: "I'm Adulting",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "imadulting|6tITG4T8LpC0msapZ4wXGA|162037",

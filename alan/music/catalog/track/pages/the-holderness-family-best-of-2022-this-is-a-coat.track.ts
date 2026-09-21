@@ -19,7 +19,6 @@ export const theHoldernessFamilyBestOf2022ThisIsACoat = {
   ],
   title: "This Is A Coat",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "thisisacoat|6tITG4T8LpC0msapZ4wXGA|199848",

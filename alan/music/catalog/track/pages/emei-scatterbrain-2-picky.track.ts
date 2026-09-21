@@ -19,7 +19,6 @@ export const emeiScatterbrain2Picky = {
   ],
   title: "Picky",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "picky|7E2aQQjErJocovYFjYLzWU|140937",

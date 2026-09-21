@@ -19,7 +19,6 @@ export const celticWoman2AChristmasCelebrationAwayInAManger = {
   ],
   title: "Away In A Manger",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "awayinamanger|6NWtt9pNOL2Gx7kBykdE5x|151213",

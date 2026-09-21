@@ -19,7 +19,6 @@ export const imagineDragonsImagineDragonsLiveInVegasLasVegasOurHomeLiveInVegas =
   ],
   title: "Las Vegas, Our Home - Live in Vegas",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "lasvegasourhomeliveinvegas|53XhwfbYqKCa1cC15pYq2q|75983",

@@ -23,7 +23,6 @@ export const emeiDonTKnowAboutTheWorldDontKnowAboutTheWorld = {
   ],
   title: "Don't Know About The World",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "dontknowabouttheworld|7E2aQQjErJocovYFjYLzWU|143696",

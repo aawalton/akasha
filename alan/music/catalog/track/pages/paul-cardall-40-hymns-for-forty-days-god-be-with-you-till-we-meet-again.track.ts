@@ -19,7 +19,6 @@ export const paulCardall40HymnsForFortyDaysGodBeWithYouTillWeMeetAgain = {
   ],
   title: "God Be With You 'Till We Meet Again",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godbewithyoutillwemeetagain|7FQRbf8gbKw8KZQZAJWxH2|200960",

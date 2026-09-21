@@ -19,7 +19,6 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreIntroLive = {
   ],
   title: "Intro - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "introlive|53XhwfbYqKCa1cC15pYq2q|125680",

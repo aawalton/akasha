@@ -19,7 +19,6 @@ export const imagineDragonsEvolveMouthOfTheRiver = {
   ],
   title: "Mouth Of The River",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "mouthoftheriver|53XhwfbYqKCa1cC15pYq2q|221560",

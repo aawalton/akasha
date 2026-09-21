@@ -19,7 +19,6 @@ export const imagineDragonsBonesTwocolorsRemixBonesTwocolorsRemix = {
   ],
   title: "Bones - twocolors Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },

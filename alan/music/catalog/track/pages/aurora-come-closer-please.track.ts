@@ -19,7 +19,6 @@ export const auroraComeCloserPlease = {
   ],
   title: "PLEASE",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5r0BuurxKQugj8cjHiO8pY", artistName: "TOMORA" },

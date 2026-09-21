@@ -19,7 +19,6 @@ export const celticWoman2PostcardsFromIrelandTheGalwayShawl = {
   ],
   title: "The Galway Shawl",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thegalwayshawl|6NWtt9pNOL2Gx7kBykdE5x|244146",

@@ -20,7 +20,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveLive
     ],
     title: "Radioactive - Live London Sessions / 2013",
     trackType: "live",
-    discNumber: 3,
     explicit: false,
     trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
     trackKey: "radioactivelivelondonsessions2013|53XhwfbYqKCa1cC15pYq2q|270080",

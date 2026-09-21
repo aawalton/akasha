@@ -19,7 +19,6 @@ export const celticWoman2TheMagicOfChristmasWeWishYouAMerryChristmas = {
   ],
   title: "We Wish You A Merry Christmas",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "wewishyouamerrychristmas|6NWtt9pNOL2Gx7kBykdE5x|206840",

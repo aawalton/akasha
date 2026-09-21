@@ -19,7 +19,6 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSlimeAfterSlime = {
   ],
   title: "Slime After Slime",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "slimeafterslime|6tITG4T8LpC0msapZ4wXGA|139363",

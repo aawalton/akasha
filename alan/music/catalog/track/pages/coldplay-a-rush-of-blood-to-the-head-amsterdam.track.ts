@@ -19,7 +19,6 @@ export const coldplayARushOfBloodToTheHeadAmsterdam = {
   ],
   title: "Amsterdam",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "amsterdam|4gzpq5DPGxSnKTe4SA8HAU|319360",

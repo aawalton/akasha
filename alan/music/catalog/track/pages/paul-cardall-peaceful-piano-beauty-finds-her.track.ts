@@ -19,7 +19,6 @@ export const paulCardallPeacefulPianoBeautyFindsHer = {
   ],
   title: "Beauty Finds Her",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "beautyfindsher|7FQRbf8gbKw8KZQZAJWxH2|203213",

@@ -19,7 +19,6 @@ export const coldplayXYXY = {
   ],
   title: "X&Y",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "xy|4gzpq5DPGxSnKTe4SA8HAU|274175",

@@ -19,7 +19,6 @@ export const coldplayLostLostWithJayZ = {
   ],
   title: "Lost+ (with Jay-Z)",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "lostwithjayz|4gzpq5DPGxSnKTe4SA8HAU|256902",

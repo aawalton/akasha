@@ -19,7 +19,6 @@ export const zaraLarssonBadBoysBadBoys = {
   ],
   title: "Bad Boys",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "badboys|1Xylc3o4UrD53lo9CvFvVg|129213",

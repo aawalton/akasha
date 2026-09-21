@@ -19,7 +19,6 @@ export const imagineDragonsOriginsDeluxeBulletInAGun = {
   ],
   title: "Bullet In A Gun",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "bulletinagun|53XhwfbYqKCa1cC15pYq2q|204853",

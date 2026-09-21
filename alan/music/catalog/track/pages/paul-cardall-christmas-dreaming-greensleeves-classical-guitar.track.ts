@@ -19,7 +19,6 @@ export const paulCardallChristmasDreamingGreensleevesClassicalGuitar = {
   ],
   title: "Greensleeves - Classical Guitar",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2pzgrbowKM8SGmdK3YMcGq", artistName: "Mak Grgic" },

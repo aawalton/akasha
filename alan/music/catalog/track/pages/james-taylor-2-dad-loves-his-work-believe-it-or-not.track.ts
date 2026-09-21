@@ -19,7 +19,6 @@ export const jamesTaylor2DadLovesHisWorkBelieveItOrNot = {
   ],
   title: "Believe It or Not",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "believeitornot|0vn7UBvSQECKJm2817Yf1P|229293",

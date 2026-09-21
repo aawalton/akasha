@@ -19,7 +19,6 @@ export const paulCardallTheHymnsCollection2DiscSetFiresideMedleyRememberMeIBelie
   ],
   title: "Fireside Medley: Remember Me, I Believe in Christ, Come Thou Fou",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "firesidemedleyremembermeibelieveinchristcomethoufou|7FQRbf8gbKw8KZQZAJWxH2|285283",

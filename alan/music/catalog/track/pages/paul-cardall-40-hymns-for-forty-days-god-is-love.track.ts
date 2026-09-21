@@ -19,7 +19,6 @@ export const paulCardall40HymnsForFortyDaysGodIsLove = {
   ],
   title: "God Is Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godislove|7FQRbf8gbKw8KZQZAJWxH2|174733",

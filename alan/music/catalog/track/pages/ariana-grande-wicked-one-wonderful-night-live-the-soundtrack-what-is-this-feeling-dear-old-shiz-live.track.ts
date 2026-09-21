@@ -21,7 +21,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackWhatIsThisFeeli
     ],
     title: "What Is This Feeling? / Dear Old Shiz - Live from the Dolby Theatre",
     trackType: "live",
-    discNumber: 1,
     explicit: false,
     trackArtist: [
       { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },

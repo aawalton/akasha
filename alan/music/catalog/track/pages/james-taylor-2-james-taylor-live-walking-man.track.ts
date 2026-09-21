@@ -19,7 +19,6 @@ export const jamesTaylor2JamesTaylorLiveWalkingMan = {
   ],
   title: "Walking Man",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "walkingman|0vn7UBvSQECKJm2817Yf1P|275466",

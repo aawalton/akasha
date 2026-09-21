@@ -19,7 +19,6 @@ export const zaraLarssonStatesideZaraLarssonStatesideZaraLarsson = {
   ],
   title: "Stateside + Zara Larsson",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "78rUTD7y6Cy67W1RVzYs7t", artistName: "PinkPantheress" },

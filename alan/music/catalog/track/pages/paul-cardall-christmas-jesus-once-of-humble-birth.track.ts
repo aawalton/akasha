@@ -19,7 +19,6 @@ export const paulCardallChristmasJesusOnceOfHumbleBirth = {
   ],
   title: "Jesus, Once of Humble Birth",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "jesusonceofhumblebirth|7FQRbf8gbKw8KZQZAJWxH2|204352",

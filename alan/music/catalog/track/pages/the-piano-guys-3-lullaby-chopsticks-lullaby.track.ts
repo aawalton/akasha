@@ -19,7 +19,6 @@ export const thePianoGuys3LullabyChopsticksLullaby = {
   ],
   title: "Chopsticks Lullaby",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "chopstickslullaby|0jW6R8CVyVohuUJVcuweDI|227418",

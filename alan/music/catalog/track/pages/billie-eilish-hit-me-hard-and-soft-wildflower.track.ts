@@ -19,7 +19,6 @@ export const billieEilishHitMeHardAndSoftWildflower = {
   ],
   title: "WILDFLOWER",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "wildflower|6qqNVTkY8uBg9cP3Jd7DAH|261466",

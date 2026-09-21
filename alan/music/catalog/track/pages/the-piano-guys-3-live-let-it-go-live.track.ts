@@ -19,7 +19,6 @@ export const thePianoGuys3LiveLetItGoLive = {
   ],
   title: "Let It Go (Live)",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "letitgolive|0jW6R8CVyVohuUJVcuweDI|253106",

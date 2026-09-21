@@ -19,7 +19,6 @@ export const paulCardallDecemberPianoStringEnsembleHeartsOfTheChildren = {
   ],
   title: "Hearts of The Children",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "heartsofthechildren|7FQRbf8gbKw8KZQZAJWxH2|149626",

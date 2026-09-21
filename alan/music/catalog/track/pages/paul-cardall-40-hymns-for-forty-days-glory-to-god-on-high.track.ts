@@ -19,7 +19,6 @@ export const paulCardall40HymnsForFortyDaysGloryToGodOnHigh = {
   ],
   title: "Glory to God On High",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "glorytogodonhigh|7FQRbf8gbKw8KZQZAJWxH2|152880",

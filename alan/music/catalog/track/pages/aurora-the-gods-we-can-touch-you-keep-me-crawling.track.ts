@@ -19,7 +19,6 @@ export const auroraTheGodsWeCanTouchYouKeepMeCrawling = {
   ],
   title: "You Keep Me Crawling",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "youkeepmecrawling|1WgXqy2Dd70QQOU7Ay074N|179133",

@@ -19,7 +19,6 @@ export const celticWoman22020thAnniversaryDulaman20thAnniversary = {
   ],
   title: "Dúlamán - 20th Anniversary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "dulaman20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|246013",

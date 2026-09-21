@@ -21,7 +21,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionP
   ],
   title: "past life - a cappella",
   trackType: "a-cappella",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "pastlifeacappella|66CXWjxzNUsdJxJ2JdwvnR|205206",

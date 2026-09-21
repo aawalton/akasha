@@ -19,7 +19,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisJaiWolfRem
   ],
   title: "Something Just Like This - Jai Wolf Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },

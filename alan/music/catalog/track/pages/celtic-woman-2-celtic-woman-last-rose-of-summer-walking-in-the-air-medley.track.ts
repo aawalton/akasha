@@ -19,7 +19,6 @@ export const celticWoman2CelticWomanLastRoseOfSummerWalkingInTheAirMedley = {
   ],
   title: "Last Rose Of Summer/Walking In The Air - Medley",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "lastroseofsummerwalkingintheairmedley|6NWtt9pNOL2Gx7kBykdE5x|260026",

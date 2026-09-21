@@ -19,7 +19,6 @@ export const thePianoGuys3LimitlessWalkingTheWireLargo = {
   ],
   title: "Walking the Wire / Largo",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "walkingthewirelargo|0jW6R8CVyVohuUJVcuweDI|258066",

@@ -19,7 +19,6 @@ export const coldplayMoonMusicFullMoonEditionAngelsong = {
   ],
   title: "Angelsong",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "angelsong|4gzpq5DPGxSnKTe4SA8HAU|261905",

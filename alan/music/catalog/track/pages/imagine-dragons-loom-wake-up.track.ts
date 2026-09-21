@@ -19,7 +19,6 @@ export const imagineDragonsLoomWakeUp = {
   ],
   title: "Wake Up",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "wakeup|53XhwfbYqKCa1cC15pYq2q|166706",

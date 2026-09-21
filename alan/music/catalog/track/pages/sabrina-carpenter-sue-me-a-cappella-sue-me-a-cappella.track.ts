@@ -19,7 +19,6 @@ export const sabrinaCarpenterSueMeACappellaSueMeACappella = {
   ],
   title: "Sue Me - A Cappella",
   trackType: "a-cappella",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "suemeacappella|74KM79TiuVKeVCqs8QtB0B|202538",

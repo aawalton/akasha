@@ -19,7 +19,6 @@ export const thePianoGuys3ChristmasTogetherMaryDidYouKnowCorelliChristmasConcert
   ],
   title: "Mary Did You Know / Corelli Christmas Concerto",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "marydidyouknowcorellichristmasconcerto|0jW6R8CVyVohuUJVcuweDI|241250",

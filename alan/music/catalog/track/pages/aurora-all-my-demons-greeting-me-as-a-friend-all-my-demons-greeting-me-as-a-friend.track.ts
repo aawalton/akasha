@@ -19,7 +19,6 @@ export const auroraAllMyDemonsGreetingMeAsAFriendAllMyDemonsGreetingMeAsAFriend 
   ],
   title: "All My Demons Greeting Me As A Friend",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "allmydemonsgreetingmeasafriend|1WgXqy2Dd70QQOU7Ay074N|221880",

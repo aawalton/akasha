@@ -19,7 +19,6 @@ export const paulCardallPrimaryWorshipBookOfMormonStories = {
   ],
   title: "Book of Mormon Stories",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bookofmormonstories|7FQRbf8gbKw8KZQZAJWxH2|407333",

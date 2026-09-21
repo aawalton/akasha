@@ -19,7 +19,6 @@ export const auroraTheGodsWeCanTouchArtemis = {
   ],
   title: "Artemis",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "artemis|1WgXqy2Dd70QQOU7Ay074N|158506",

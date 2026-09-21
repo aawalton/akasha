@@ -23,7 +23,6 @@ export const auroraADifferentKindOfHumanStepIiTheRiver = {
   ],
   title: "The River",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theriver|1WgXqy2Dd70QQOU7Ay074N|217853",

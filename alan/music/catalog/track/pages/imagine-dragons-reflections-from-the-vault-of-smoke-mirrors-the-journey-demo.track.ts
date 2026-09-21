@@ -19,7 +19,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsTheJourneyDemo =
   ],
   title: "The Journey - Demo",
   trackType: "demo",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "thejourneydemo|53XhwfbYqKCa1cC15pYq2q|160671",

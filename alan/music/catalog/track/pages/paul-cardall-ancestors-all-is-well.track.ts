@@ -19,7 +19,6 @@ export const paulCardallAncestorsAllIsWell = {
   ],
   title: "All Is Well",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "alliswell|7FQRbf8gbKw8KZQZAJWxH2|169320",

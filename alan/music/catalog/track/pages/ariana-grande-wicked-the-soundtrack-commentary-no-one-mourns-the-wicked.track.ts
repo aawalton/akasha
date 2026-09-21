@@ -23,7 +23,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryNoOneMournsTheWicked = {
   ],
   title: "No One Mourns the Wicked",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "3eLZo1bSslvsu0zNhtmMM4", artistName: "Wicked Movie Cast" },

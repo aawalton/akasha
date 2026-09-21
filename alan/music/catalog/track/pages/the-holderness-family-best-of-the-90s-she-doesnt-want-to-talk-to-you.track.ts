@@ -19,7 +19,6 @@ export const theHoldernessFamilyBestOfThe90sSheDoesntWantToTalkToYou = {
   ],
   title: "She Doesn't Want to Talk to You",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "shedoesntwanttotalktoyou|6tITG4T8LpC0msapZ4wXGA|113972",

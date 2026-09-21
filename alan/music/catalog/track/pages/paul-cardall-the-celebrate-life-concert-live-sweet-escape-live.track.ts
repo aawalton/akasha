@@ -19,7 +19,6 @@ export const paulCardallTheCelebrateLifeConcertLiveSweetEscapeLive = {
   ],
   title: "Sweet Escape - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweetescapelive|7FQRbf8gbKw8KZQZAJWxH2|191112",

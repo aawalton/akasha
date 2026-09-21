@@ -19,7 +19,6 @@ export const chaislynSoulmatesSoulmates = {
   ],
   title: "Soulmates",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "soulmates|3zmbniiciaBAJlSX1Bzq9R|271136",

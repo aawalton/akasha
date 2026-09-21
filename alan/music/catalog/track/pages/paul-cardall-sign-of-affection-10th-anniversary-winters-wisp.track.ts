@@ -19,7 +19,6 @@ export const paulCardallSignOfAffection10thAnniversaryWintersWisp = {
   ],
   title: "Winter's Wisp",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "winterswisp|7FQRbf8gbKw8KZQZAJWxH2|339400",

@@ -19,7 +19,6 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbieWhatWasIMadeFo
   ],
   title: 'What Was I Made For? [From The Motion Picture "Barbie"]',
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "whatwasimadeforfromthemotionpicturebarbie|6qqNVTkY8uBg9cP3Jd7DAH|222369",

@@ -19,7 +19,6 @@ export const thePianoGuysSerenityTwinkleLullaby = {
   ],
   title: "Twinkle Lullaby",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "twinklelullaby|0jW6R8CVyVohuUJVcuweDI|111280",

@@ -19,7 +19,6 @@ export const theHoldernessFamilyBestOfThe2000sHotOutHere = {
   ],
   title: "Hot Out Here",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "hotouthere|6tITG4T8LpC0msapZ4wXGA|124776",

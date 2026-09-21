@@ -19,7 +19,6 @@ export const sabrinaCarpenterEspressoEpEspressoEspressoooooVersion = {
   ],
   title: "Espresso - Espressooooo Version",
   trackType: "version",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "espressoespressoooooversion|74KM79TiuVKeVCqs8QtB0B|295459",

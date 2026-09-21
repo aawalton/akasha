@@ -19,7 +19,6 @@ export const thePianoGuys3LiveWithOrWithoutYouLive = {
   ],
   title: "With or Without You (Live)",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "withorwithoutyoulive|0jW6R8CVyVohuUJVcuweDI|293440",

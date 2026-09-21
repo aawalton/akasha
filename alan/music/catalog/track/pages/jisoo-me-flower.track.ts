@@ -19,7 +19,6 @@ export const jisooMeFlower = {
   ],
   title: "FLOWER",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
   trackKey: "flower|6UZ0ba50XreR4TM8u322gs|173134",

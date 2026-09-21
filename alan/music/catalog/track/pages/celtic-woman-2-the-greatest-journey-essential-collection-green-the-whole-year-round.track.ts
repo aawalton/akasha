@@ -19,7 +19,6 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionGreenTheWholeYearR
   ],
   title: "Green The Whole Year 'Round",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "greenthewholeyearround|6NWtt9pNOL2Gx7kBykdE5x|286733",

@@ -19,7 +19,6 @@ export const arianaGrandeSideToSideRemixesSideToSideSlushiiRemix = {
   ],
   title: "Side To Side - Slushii Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },

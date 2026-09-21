@@ -19,7 +19,6 @@ export const vinnyMarchiPoserRemasteredPoserRemastered = {
   ],
   title: "POSER - remastered",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "poserremastered|5USAMqcbMAzF3HBmeD5pJF|163808",

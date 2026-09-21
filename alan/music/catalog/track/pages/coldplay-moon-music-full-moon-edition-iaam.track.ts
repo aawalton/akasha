@@ -22,7 +22,6 @@ export const coldplayMoonMusicFullMoonEditionIaam = {
   ],
   title: "iAAM",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "iaam|4gzpq5DPGxSnKTe4SA8HAU|183371",

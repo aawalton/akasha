@@ -19,7 +19,6 @@ export const coldplayParachutesEverythingsNotLostIncludesHiddenTrackLifeIsForLiv
   ],
   title: "Everything's Not Lost - Includes Hidden Track 'Life Is For Living'",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everythingsnotlostincludeshiddentracklifeisforliving|4gzpq5DPGxSnKTe4SA8HAU|436440",

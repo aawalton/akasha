@@ -19,7 +19,6 @@ export const thePianoGuys3SoFarSoGoodLetItGo = {
   ],
   title: "Let It Go",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "letitgo|0jW6R8CVyVohuUJVcuweDI|243760",

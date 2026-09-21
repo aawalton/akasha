@@ -19,7 +19,6 @@ export const billieEilishHitMeHardAndSoftBlue = {
   ],
   title: "BLUE",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "blue|6qqNVTkY8uBg9cP3Jd7DAH|343120",

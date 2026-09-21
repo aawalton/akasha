@@ -19,7 +19,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsWokeDemo = {
   ],
   title: "Woke - Demo",
   trackType: "demo",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "wokedemo|53XhwfbYqKCa1cC15pYq2q|220795",

@@ -19,7 +19,6 @@ export const sabrinaCarpenterSingularActIiTakeYouBack = {
   ],
   title: "Take You Back",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "takeyouback|74KM79TiuVKeVCqs8QtB0B|169058",

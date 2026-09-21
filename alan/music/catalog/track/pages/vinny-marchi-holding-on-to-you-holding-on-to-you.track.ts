@@ -19,7 +19,6 @@ export const vinnyMarchiHoldingOnToYouHoldingOnToYou = {
   ],
   title: "holding on to you",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "holdingontoyou|5USAMqcbMAzF3HBmeD5pJF|172874",

@@ -19,7 +19,6 @@ export const thePianoGuys3UnchartedTourDeFrance = {
   ],
   title: "Tour de France",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "tourdefrance|0jW6R8CVyVohuUJVcuweDI|215625",

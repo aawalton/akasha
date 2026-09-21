@@ -19,7 +19,6 @@ export const billieEilishHappierThanEverBillieBossaNova = {
   ],
   title: "Billie Bossa Nova",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "billiebossanova|6qqNVTkY8uBg9cP3Jd7DAH|196730",

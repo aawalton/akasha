@@ -19,7 +19,6 @@ export const imagineDragonsNightVisionsDeluxeRoundAndRound = {
   ],
   title: "Round And Round",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "roundandround|53XhwfbYqKCa1cC15pYq2q|196933",

@@ -19,7 +19,6 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackSoundBath = {
   ],
   title: "Sound Bath",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "33FyliUEEegVPPrsOaLsn4", artistName: "Vincent Diamante" }],
   trackKey: "soundbath|33FyliUEEegVPPrsOaLsn4|553000",

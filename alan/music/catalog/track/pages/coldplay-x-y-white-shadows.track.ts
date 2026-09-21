@@ -19,7 +19,6 @@ export const coldplayXYWhiteShadows = {
   ],
   title: "White Shadows",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "whiteshadows|4gzpq5DPGxSnKTe4SA8HAU|328219",

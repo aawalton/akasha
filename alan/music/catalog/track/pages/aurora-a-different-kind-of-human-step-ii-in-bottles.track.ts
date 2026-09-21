@@ -23,7 +23,6 @@ export const auroraADifferentKindOfHumanStepIiInBottles = {
   ],
   title: "In Bottles",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "inbottles|1WgXqy2Dd70QQOU7Ay074N|238172",

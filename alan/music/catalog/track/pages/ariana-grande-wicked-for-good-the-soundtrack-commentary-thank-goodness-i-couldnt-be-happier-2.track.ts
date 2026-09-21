@@ -22,7 +22,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
   ],
   title: "Thank Goodness / I Couldn’t Be Happier",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },

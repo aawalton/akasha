@@ -19,7 +19,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2APoorWayfaringMan
   ],
   title: "A Poor Wayfaring Man Of Grief",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "apoorwayfaringmanofgrief|2YQ4MY2VwOMv43C0GemUY5|476315",

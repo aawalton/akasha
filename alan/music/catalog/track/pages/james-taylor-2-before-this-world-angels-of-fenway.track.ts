@@ -19,7 +19,6 @@ export const jamesTaylor2BeforeThisWorldAngelsOfFenway = {
   ],
   title: "Angels Of Fenway",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "angelsoffenway|0vn7UBvSQECKJm2817Yf1P|198093",

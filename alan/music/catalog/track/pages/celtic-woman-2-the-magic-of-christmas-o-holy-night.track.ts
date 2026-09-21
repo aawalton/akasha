@@ -19,7 +19,6 @@ export const celticWoman2TheMagicOfChristmasOHolyNight = {
   ],
   title: "O Holy Night",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "oholynight|6NWtt9pNOL2Gx7kBykdE5x|260493",

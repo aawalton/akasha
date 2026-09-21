@@ -19,7 +19,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackPleaseMammy = {
   ],
   title: "Please Mammy",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
   trackKey: "pleasemammy|5kjb55jtwPnbYXXDvP4x7R|107066",

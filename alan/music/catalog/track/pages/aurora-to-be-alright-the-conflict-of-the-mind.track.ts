@@ -23,7 +23,6 @@ export const auroraToBeAlrightTheConflictOfTheMind = {
   ],
   title: "The Conflict Of The Mind",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "theconflictofthemind|1WgXqy2Dd70QQOU7Ay074N|254613",

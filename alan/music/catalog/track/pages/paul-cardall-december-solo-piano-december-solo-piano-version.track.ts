@@ -19,7 +19,6 @@ export const paulCardallDecemberSoloPianoDecemberSoloPianoVersion = {
   ],
   title: "December - Solo Piano Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "decembersolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|185000",

@@ -19,7 +19,6 @@ export const sabrinaCarpenterAlienAcousticAlienAcoustic = {
   ],
   title: "Alien - Acoustic",
   trackType: "acoustic",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },

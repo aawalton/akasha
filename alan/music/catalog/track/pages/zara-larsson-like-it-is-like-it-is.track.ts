@@ -19,7 +19,6 @@ export const zaraLarssonLikeItIsLikeItIs = {
   ],
   title: "Like It Is",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },

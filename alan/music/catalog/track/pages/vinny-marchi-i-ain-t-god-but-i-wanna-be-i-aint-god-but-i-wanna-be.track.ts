@@ -19,7 +19,6 @@ export const vinnyMarchiIAinTGodButIWannaBeIAintGodButIWannaBe = {
   ],
   title: "I Ain't God But I Wanna Be",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "iaintgodbutiwannabe|5USAMqcbMAzF3HBmeD5pJF|208000",

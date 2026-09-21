@@ -19,7 +19,6 @@ export const jamesTaylor2OneManDog2019RemasterDontLetMeBeLonelyTonight2019Remast
   ],
   title: "Don't Let Me Be Lonely Tonight - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "dontletmebelonelytonight2019remaster|0vn7UBvSQECKJm2817Yf1P|155343",

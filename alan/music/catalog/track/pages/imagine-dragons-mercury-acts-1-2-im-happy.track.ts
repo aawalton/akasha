@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12ImHappy = {
   ],
   title: "I'm Happy",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "imhappy|53XhwfbYqKCa1cC15pYq2q|185219",

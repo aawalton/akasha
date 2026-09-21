@@ -19,7 +19,6 @@ export const paulCardall40HymnsForGuitarGodIsNear = {
   ],
   title: "God Is Near",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "godisnear|7FQRbf8gbKw8KZQZAJWxH2|140629",

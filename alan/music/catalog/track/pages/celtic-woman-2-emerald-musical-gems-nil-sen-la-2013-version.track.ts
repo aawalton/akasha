@@ -19,7 +19,6 @@ export const celticWoman2EmeraldMusicalGemsNilSenLa2013Version = {
   ],
   title: "Níl Sé'n Lá - 2013 Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "nilsenla2013version|6NWtt9pNOL2Gx7kBykdE5x|215640",

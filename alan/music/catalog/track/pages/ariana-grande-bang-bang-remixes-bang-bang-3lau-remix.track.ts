@@ -19,7 +19,6 @@ export const arianaGrandeBangBangRemixesBangBang3lauRemix = {
   ],
   title: "Bang Bang - 3LAU Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2gsggkzM5R49q6jpPvazou", artistName: "Jessie J" },

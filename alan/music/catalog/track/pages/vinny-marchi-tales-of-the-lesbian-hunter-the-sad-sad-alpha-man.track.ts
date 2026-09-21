@@ -22,7 +22,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheSadSadAlphaMan = {
   ],
   title: "The Sad Sad Alpha Man",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thesadsadalphaman|5USAMqcbMAzF3HBmeD5pJF|132877",

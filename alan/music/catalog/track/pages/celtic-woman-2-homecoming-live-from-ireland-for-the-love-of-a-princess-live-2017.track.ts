@@ -19,7 +19,6 @@ export const celticWoman2HomecomingLiveFromIrelandForTheLoveOfAPrincessLive2017 
   ],
   title: "For The Love Of A Princess - Live 2017",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "fortheloveofaprincesslive2017|6NWtt9pNOL2Gx7kBykdE5x|232440",

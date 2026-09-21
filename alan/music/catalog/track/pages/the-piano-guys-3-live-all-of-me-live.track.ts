@@ -19,7 +19,6 @@ export const thePianoGuys3LiveAllOfMeLive = {
   ],
   title: "All of Me (Live)",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "allofmelive|0jW6R8CVyVohuUJVcuweDI|149720",

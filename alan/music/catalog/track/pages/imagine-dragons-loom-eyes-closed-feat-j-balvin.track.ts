@@ -19,7 +19,6 @@ export const imagineDragonsLoomEyesClosedFeatJBalvin = {
   ],
   title: "Eyes Closed (feat. J Balvin)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },

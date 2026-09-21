@@ -19,7 +19,6 @@ export const coldplayLive2012GodPutASmileUponYourFaceLive = {
   ],
   title: "God Put a Smile upon Your Face - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "godputasmileuponyourfacelive|4gzpq5DPGxSnKTe4SA8HAU|321973",

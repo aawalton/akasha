@@ -19,7 +19,6 @@ export const auroraTheGodsWeCanTouchALittlePlaceCalledTheMoon = {
   ],
   title: "A Little Place Called The Moon",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "alittleplacecalledthemoon|1WgXqy2Dd70QQOU7Ay074N|250693",

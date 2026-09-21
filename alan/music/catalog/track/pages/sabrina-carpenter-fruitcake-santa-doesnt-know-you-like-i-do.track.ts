@@ -19,7 +19,6 @@ export const sabrinaCarpenterFruitcakeSantaDoesntKnowYouLikeIDo = {
   ],
   title: "santa doesn’t know you like i do",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "santadoesntknowyoulikeido|74KM79TiuVKeVCqs8QtB0B|189753",

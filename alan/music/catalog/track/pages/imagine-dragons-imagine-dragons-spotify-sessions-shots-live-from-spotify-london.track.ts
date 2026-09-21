@@ -19,7 +19,6 @@ export const imagineDragonsImagineDragonsSpotifySessionsShotsLiveFromSpotifyLond
   ],
   title: "Shots - Live From Spotify London",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "shotslivefromspotifylondon|53XhwfbYqKCa1cC15pYq2q|212810",

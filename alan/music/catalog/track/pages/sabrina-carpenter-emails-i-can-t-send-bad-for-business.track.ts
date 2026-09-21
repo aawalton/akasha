@@ -22,7 +22,6 @@ export const sabrinaCarpenterEmailsICanTSendBadForBusiness = {
   ],
   title: "Bad for Business",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "badforbusiness|74KM79TiuVKeVCqs8QtB0B|188337",

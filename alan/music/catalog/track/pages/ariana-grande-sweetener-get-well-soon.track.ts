@@ -19,7 +19,6 @@ export const arianaGrandeSweetenerGetWellSoon = {
   ],
   title: "get well soon",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "getwellsoon|66CXWjxzNUsdJxJ2JdwvnR|322026",

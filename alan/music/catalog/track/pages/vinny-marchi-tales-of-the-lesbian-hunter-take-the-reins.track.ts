@@ -19,7 +19,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTakeTheReins = {
   ],
   title: "Take The Reins",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "takethereins|5USAMqcbMAzF3HBmeD5pJF|160125",

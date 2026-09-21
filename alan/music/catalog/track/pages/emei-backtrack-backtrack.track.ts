@@ -19,7 +19,6 @@ export const emeiBacktrackBacktrack = {
   ],
   title: "Backtrack",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "backtrack|7E2aQQjErJocovYFjYLzWU|158840",

@@ -19,7 +19,6 @@ export const arianaGrandeMetHimLastNightMetHimLastNight = {
   ],
   title: "Met Him Last Night",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [
     { externalId: "6S2OmqARrzebs0tKUEyXyp", artistName: "Demi Lovato" },

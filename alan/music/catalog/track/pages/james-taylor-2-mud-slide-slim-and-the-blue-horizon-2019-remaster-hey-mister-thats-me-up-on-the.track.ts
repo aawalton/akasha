@@ -19,7 +19,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterHeyMisterThats
   ],
   title: "Hey Mister, That's Me up on the Jukebox - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "heymisterthatsmeuponthejukebox2019remaster|0vn7UBvSQECKJm2817Yf1P|228093",

@@ -19,7 +19,6 @@ export const jamesTaylor2ThatSWhyIMHereThatsWhyImHere = {
   ],
   title: "That's Why I'm Here",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thatswhyimhere|0vn7UBvSQECKJm2817Yf1P|217426",

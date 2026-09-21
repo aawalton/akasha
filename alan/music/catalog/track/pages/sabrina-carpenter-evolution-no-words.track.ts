@@ -19,7 +19,6 @@ export const sabrinaCarpenterEvolutionNoWords = {
   ],
   title: "No Words",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "nowords|74KM79TiuVKeVCqs8QtB0B|212586",

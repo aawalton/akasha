@@ -19,7 +19,6 @@ export const paulCardallSacredPianoWhereYouThere = {
   ],
   title: "Where You There?",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "whereyouthere|7FQRbf8gbKw8KZQZAJWxH2|315493",

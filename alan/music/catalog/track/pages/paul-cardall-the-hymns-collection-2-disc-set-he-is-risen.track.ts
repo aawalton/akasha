@@ -19,7 +19,6 @@ export const paulCardallTheHymnsCollection2DiscSetHeIsRisen = {
   ],
   title: "He Is Risen",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "heisrisen|7FQRbf8gbKw8KZQZAJWxH2|157387",

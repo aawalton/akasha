@@ -19,7 +19,6 @@ export const imagineDragonsBirdsBirdsFeatElisa = {
   ],
   title: "Birds (feat. Elisa)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },

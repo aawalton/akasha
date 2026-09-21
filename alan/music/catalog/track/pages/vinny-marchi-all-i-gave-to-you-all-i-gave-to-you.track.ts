@@ -19,7 +19,6 @@ export const vinnyMarchiAllIGaveToYouAllIGaveToYou = {
   ],
   title: "all i gave to you",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "alligavetoyou|5USAMqcbMAzF3HBmeD5pJF|205612",

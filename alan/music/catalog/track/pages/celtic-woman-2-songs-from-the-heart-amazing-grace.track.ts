@@ -19,7 +19,6 @@ export const celticWoman2SongsFromTheHeartAmazingGrace = {
   ],
   title: "Amazing Grace",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "amazinggrace|6NWtt9pNOL2Gx7kBykdE5x|298320",

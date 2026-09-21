@@ -19,7 +19,6 @@ export const arianaGrandeProblemProblemInstrumental = {
   ],
   title: "Problem - Instrumental",
   trackType: "instrumental",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "probleminstrumental|66CXWjxzNUsdJxJ2JdwvnR|193369",

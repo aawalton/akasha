@@ -19,7 +19,6 @@ export const coldplayLive2012UsAgainstTheWorldLive = {
   ],
   title: "Us Against the World - Live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "usagainsttheworldlive|4gzpq5DPGxSnKTe4SA8HAU|232200",

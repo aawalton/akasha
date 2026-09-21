@@ -19,7 +19,6 @@ export const paulCardall40HymnsForFortyDaysIllGoWhereYouWantMeToGo = {
   ],
   title: "I'll Go Where You Want Me to Go",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "illgowhereyouwantmetogo|7FQRbf8gbKw8KZQZAJWxH2|158040",

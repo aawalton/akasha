@@ -23,7 +23,6 @@ export const thePianoGuys310AvengersPortals = {
   ],
   title: "Avengers/Portals",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "avengersportals|0jW6R8CVyVohuUJVcuweDI|177000",

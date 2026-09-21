@@ -19,7 +19,6 @@ export const arianaGrandeKByeForNowSwtLiveNasaLive = {
   ],
   title: "nasa - live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "nasalive|66CXWjxzNUsdJxJ2JdwvnR|185000",

@@ -19,7 +19,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMebhsTune = {
   ],
   title: "Mébh's Tune",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6YtMPqKR0zhZ5OPv3RrJNx", artistName: "Kíla" }],
   trackKey: "mebhstune|6YtMPqKR0zhZ5OPv3RrJNx|184773",

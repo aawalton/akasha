@@ -19,7 +19,6 @@ export const thePianoGuys3LimitlessAMillionDreams = {
   ],
   title: "A Million Dreams",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "amilliondreams|0jW6R8CVyVohuUJVcuweDI|285837",

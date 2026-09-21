@@ -19,7 +19,6 @@ export const imagineDragonsBonesBones = {
   ],
   title: "Bones",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "bones|53XhwfbYqKCa1cC15pYq2q|165264",

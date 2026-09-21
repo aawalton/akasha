@@ -19,7 +19,6 @@ export const imagineDragonsImagineDragonsLiveInVegasOneDayAcousticLiveInVegas = 
   ],
   title: "One Day (Acoustic) - Live in Vegas",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "onedayacousticliveinvegas|53XhwfbYqKCa1cC15pYq2q|244884",

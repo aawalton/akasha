@@ -19,7 +19,6 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWickedC
   ],
   title: "Every Day More Wicked - Commentary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6VAUVq50O85s387FLQJi2B", artistName: "Jon M. Chu" },

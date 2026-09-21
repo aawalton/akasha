@@ -19,7 +19,6 @@ export const coldplayARushOfBloodToTheHeadWarningSign = {
   ],
   title: "Warning Sign",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "warningsign|4gzpq5DPGxSnKTe4SA8HAU|331133",

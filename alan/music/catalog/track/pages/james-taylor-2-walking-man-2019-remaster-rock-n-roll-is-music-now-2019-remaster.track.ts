@@ -19,7 +19,6 @@ export const jamesTaylor2WalkingMan2019RemasterRockNRollIsMusicNow2019Remaster =
   ],
   title: "Rock 'n' Roll Is Music Now - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "rocknrollismusicnow2019remaster|0vn7UBvSQECKJm2817Yf1P|207680",

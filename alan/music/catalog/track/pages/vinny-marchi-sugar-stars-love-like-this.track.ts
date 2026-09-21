@@ -19,7 +19,6 @@ export const vinnyMarchiSugarStarsLoveLikeThis = {
   ],
   title: "love like this",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "lovelikethis|5USAMqcbMAzF3HBmeD5pJF|166342",

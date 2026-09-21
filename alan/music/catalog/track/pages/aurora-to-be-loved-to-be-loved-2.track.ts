@@ -19,7 +19,6 @@ export const auroraToBeLovedToBeLoved2 = {
   ],
   title: "To Be Loved",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
   trackKey: "tobeloved|3NABmtfO8G8s96WFGhbR7F|229863",

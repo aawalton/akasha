@@ -19,7 +19,6 @@ export const celticWoman2LullabyBrahmsLullabye = {
   ],
   title: "Brahm's Lullabye",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "34sL9HIOU50t8u0IQMZeze", artistName: "Chloe Agnew" }],
   trackKey: "brahmslullabye|34sL9HIOU50t8u0IQMZeze|138720",

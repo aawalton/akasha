@@ -19,7 +19,6 @@ export const coldplayMyloXylotoUpInFlames = {
   ],
   title: "Up in Flames",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "upinflames|4gzpq5DPGxSnKTe4SA8HAU|193240",

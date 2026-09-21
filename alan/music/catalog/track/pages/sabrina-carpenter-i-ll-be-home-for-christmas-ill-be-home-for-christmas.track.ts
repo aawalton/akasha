@@ -19,7 +19,6 @@ export const sabrinaCarpenterILlBeHomeForChristmasIllBeHomeForChristmas = {
   ],
   title: "I'll Be Home For Christmas",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6KxBixTtWRYyojmIvlFvjD", artistName: "Ali Brustofski" },

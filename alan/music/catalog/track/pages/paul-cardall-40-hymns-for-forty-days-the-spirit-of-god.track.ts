@@ -19,7 +19,6 @@ export const paulCardall40HymnsForFortyDaysTheSpiritOfGod = {
   ],
   title: "The Spirit of God",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thespiritofgod|7FQRbf8gbKw8KZQZAJWxH2|184546",

@@ -19,7 +19,6 @@ export const thePianoGuys3ChristmasTogetherWhatChildIsThis = {
   ],
   title: "What Child is This",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "whatchildisthis|0jW6R8CVyVohuUJVcuweDI|179125",

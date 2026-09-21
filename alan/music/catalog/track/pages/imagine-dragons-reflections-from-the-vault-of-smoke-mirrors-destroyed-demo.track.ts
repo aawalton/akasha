@@ -19,7 +19,6 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsDestroyedDemo = 
   ],
   title: "Destroyed - Demo",
   trackType: "demo",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "destroyeddemo|53XhwfbYqKCa1cC15pYq2q|209589",

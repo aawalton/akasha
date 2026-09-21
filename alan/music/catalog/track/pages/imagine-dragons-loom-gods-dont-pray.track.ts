@@ -19,7 +19,6 @@ export const imagineDragonsLoomGodsDontPray = {
   ],
   title: "Gods Don’t Pray",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "godsdontpray|53XhwfbYqKCa1cC15pYq2q|169893",

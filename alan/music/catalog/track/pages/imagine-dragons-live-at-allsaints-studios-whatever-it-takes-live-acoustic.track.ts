@@ -19,7 +19,6 @@ export const imagineDragonsLiveAtAllsaintsStudiosWhateverItTakesLiveAcoustic = {
   ],
   title: "Whatever It Takes - Live/Acoustic",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "whateverittakesliveacoustic|53XhwfbYqKCa1cC15pYq2q|223000",

@@ -19,7 +19,6 @@ export const paulCardallTheHymnsCollection2DiscSetPraiseToTheMan = {
   ],
   title: "Praise to the Man",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "praisetotheman|7FQRbf8gbKw8KZQZAJWxH2|132780",

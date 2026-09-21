@@ -19,7 +19,6 @@ export const imagineDragonsItSTimeRemixesItsTimeJailbreaksRemix = {
   ],
   title: "It's Time - JailBreaks Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itstimejailbreaksremix|53XhwfbYqKCa1cC15pYq2q|265920",

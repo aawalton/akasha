@@ -19,7 +19,6 @@ export const arianaGrandeThankUNextBloodline = {
   ],
   title: "bloodline",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "bloodline|66CXWjxzNUsdJxJ2JdwvnR|216893",

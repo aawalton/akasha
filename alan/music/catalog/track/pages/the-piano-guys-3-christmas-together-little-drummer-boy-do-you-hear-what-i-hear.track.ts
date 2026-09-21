@@ -19,7 +19,6 @@ export const thePianoGuys3ChristmasTogetherLittleDrummerBoyDoYouHearWhatIHear = 
   ],
   title: "Little Drummer Boy / Do You Hear What I Hear",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "littledrummerboydoyouhearwhatihear|0jW6R8CVyVohuUJVcuweDI|234062",

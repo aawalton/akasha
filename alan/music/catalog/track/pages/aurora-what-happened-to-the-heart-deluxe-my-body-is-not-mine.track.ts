@@ -22,7 +22,6 @@ export const auroraWhatHappenedToTheHeartDeluxeMyBodyIsNotMine = {
   ],
   title: "My Body Is Not Mine",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "mybodyisnotmine|1WgXqy2Dd70QQOU7Ay074N|241373",

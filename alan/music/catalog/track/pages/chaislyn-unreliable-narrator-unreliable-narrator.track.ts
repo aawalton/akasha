@@ -19,7 +19,6 @@ export const chaislynUnreliableNarratorUnreliableNarrator = {
   ],
   title: "Unreliable Narrator",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "unreliablenarrator|3zmbniiciaBAJlSX1Bzq9R|165452",

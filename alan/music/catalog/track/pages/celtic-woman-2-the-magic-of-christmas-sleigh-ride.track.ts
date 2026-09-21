@@ -19,7 +19,6 @@ export const celticWoman2TheMagicOfChristmasSleighRide = {
   ],
   title: "Sleigh Ride",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "sleighride|6NWtt9pNOL2Gx7kBykdE5x|214800",

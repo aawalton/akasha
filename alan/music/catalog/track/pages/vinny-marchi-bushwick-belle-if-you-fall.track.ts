@@ -19,7 +19,6 @@ export const vinnyMarchiBushwickBelleIfYouFall = {
   ],
   title: "If You Fall",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "ifyoufall|5USAMqcbMAzF3HBmeD5pJF|218135",

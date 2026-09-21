@@ -21,7 +21,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackOvertureNoOneMo
     ],
     title: "Overture / No One Mourns the Wicked - Live from the Dolby Theatre",
     trackType: "live",
-    discNumber: 1,
     explicit: false,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "overturenoonemournsthewickedlivefromthedolbytheatre|66CXWjxzNUsdJxJ2JdwvnR|414605",

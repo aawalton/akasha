@@ -22,7 +22,6 @@ export const zaraLarssonPosterGirlSummerEditionRuinMyLifeOrchestralVersion = {
   ],
   title: "Ruin My Life - Orchestral Version",
   trackType: "version",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "ruinmylifeorchestralversion|1Xylc3o4UrD53lo9CvFvVg|283275",

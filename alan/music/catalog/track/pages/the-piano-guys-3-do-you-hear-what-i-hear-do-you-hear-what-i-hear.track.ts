@@ -19,7 +19,6 @@ export const thePianoGuys3DoYouHearWhatIHearDoYouHearWhatIHear = {
   ],
   title: "Do You Hear What I Hear?",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "doyouhearwhatihear|0jW6R8CVyVohuUJVcuweDI|200217",

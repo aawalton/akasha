@@ -24,7 +24,6 @@ export const thePianoGuys3IAinTWorriedIAintWorried = {
   ],
   title: "I Ain't Worried",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "iaintworried|0jW6R8CVyVohuUJVcuweDI|160107",

@@ -19,7 +19,6 @@ export const paulCardall40HymnsForGuitarGabrielsOboe = {
   ],
   title: "Gabriel's Oboe",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "gabrielsoboe|7FQRbf8gbKw8KZQZAJWxH2|153000",

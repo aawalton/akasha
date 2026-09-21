@@ -19,7 +19,6 @@ export const paulCardallPeacefulPianoBedtimeStoryLullaby = {
   ],
   title: "Bedtime Story Lullaby",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "bedtimestorylullaby|7FQRbf8gbKw8KZQZAJWxH2|151080",

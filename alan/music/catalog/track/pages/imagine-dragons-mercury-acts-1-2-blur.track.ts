@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12Blur = {
   ],
   title: "Blur",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "blur|53XhwfbYqKCa1cC15pYq2q|175663",

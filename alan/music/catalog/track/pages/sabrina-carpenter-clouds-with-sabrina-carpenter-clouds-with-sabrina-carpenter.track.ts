@@ -19,7 +19,6 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenterCloudsWithSabrinaCarpente
   ],
   title: "Clouds (with Sabrina Carpenter)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "1oDUPFTxn5JyS8MxUe9ko4", artistName: "Fin Argus" },

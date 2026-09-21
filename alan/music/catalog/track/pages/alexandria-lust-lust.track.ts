@@ -19,7 +19,6 @@ export const alexandriaLustLust = {
   ],
   title: "Lust",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "3HedFe4b2Nqeg1CEzmt6ZI", artistName: "Marino" },

@@ -19,7 +19,6 @@ export const vinnyMarchiBewareOfTheSirenBewareOfTheSiren = {
   ],
   title: "Beware of the Siren",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "bewareofthesiren|5USAMqcbMAzF3HBmeD5pJF|176812",

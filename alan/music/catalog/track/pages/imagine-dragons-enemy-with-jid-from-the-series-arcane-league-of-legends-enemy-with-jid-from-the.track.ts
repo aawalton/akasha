@@ -22,7 +22,6 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegendsEnemyWi
   ],
   title: "Enemy (with JID) - from the series Arcane League of Legends",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },

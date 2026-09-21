@@ -22,7 +22,6 @@ export const arianaGrandeYesAndJonasBlueRemixYesAndJonasBlueRemix = {
   ],
   title: "yes, and? - Jonas Blue Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: true,
   trackArtist: [
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },

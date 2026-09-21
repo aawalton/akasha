@@ -19,7 +19,6 @@ export const thePianoGuys3LiveFathersEyesLive = {
   ],
   title: "Fathers' Eyes (Live)",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "fatherseyeslive|0jW6R8CVyVohuUJVcuweDI|250213",

@@ -19,7 +19,6 @@ export const imagineDragonsNightVisionsChaChingTillWeGrowOlder = {
   ],
   title: "Cha-Ching (Till We Grow Older)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "chachingtillwegrowolder|53XhwfbYqKCa1cC15pYq2q|248800",

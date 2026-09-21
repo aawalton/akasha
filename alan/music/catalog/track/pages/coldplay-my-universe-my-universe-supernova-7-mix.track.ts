@@ -19,7 +19,6 @@ export const coldplayMyUniverseMyUniverseSupernova7Mix = {
   ],
   title: "My Universe - Supernova 7 Mix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },

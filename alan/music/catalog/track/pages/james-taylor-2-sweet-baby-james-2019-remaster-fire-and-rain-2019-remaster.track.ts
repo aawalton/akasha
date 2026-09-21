@@ -19,7 +19,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterFireAndRain2019Remaster = {
   ],
   title: "Fire and Rain - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "fireandrain2019remaster|0vn7UBvSQECKJm2817Yf1P|203613",

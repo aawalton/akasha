@@ -19,7 +19,6 @@ export const arianaGrandeKByeForNowSwtLiveGodIsAWomanLive = {
   ],
   title: "god is a woman - live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "godisawomanlive|66CXWjxzNUsdJxJ2JdwvnR|213068",

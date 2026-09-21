@@ -19,7 +19,6 @@ export const coldplayAHeadFullOfDreamsAdventureOfALifetime = {
   ],
   title: "Adventure of a Lifetime",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "adventureofalifetime|4gzpq5DPGxSnKTe4SA8HAU|263786",

@@ -19,7 +19,6 @@ export const thePianoGuys3ThePianoGuysArwensVigil = {
   ],
   title: "Arwen's Vigil",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "arwensvigil|0jW6R8CVyVohuUJVcuweDI|235679",

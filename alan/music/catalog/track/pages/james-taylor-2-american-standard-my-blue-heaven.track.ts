@@ -19,7 +19,6 @@ export const jamesTaylor2AmericanStandardMyBlueHeaven = {
   ],
   title: "My Blue Heaven",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "myblueheaven|0vn7UBvSQECKJm2817Yf1P|163160",

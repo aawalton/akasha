@@ -19,7 +19,6 @@ export const paulCardallTheHymnsCollection2DiscSetJosephsFirstPrayer = {
   ],
   title: "Joseph's First Prayer",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "josephsfirstprayer|7FQRbf8gbKw8KZQZAJWxH2|201195",

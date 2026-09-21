@@ -19,7 +19,6 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrandeSympathyIsAKnifeFe
   ],
   title: "Sympathy is a knife featuring ariana grande",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [
     { externalId: "25uiPmTg16RbhZWAqwLBy5", artistName: "Charli xcx" },

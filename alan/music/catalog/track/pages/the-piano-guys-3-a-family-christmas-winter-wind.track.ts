@@ -19,7 +19,6 @@ export const thePianoGuys3AFamilyChristmasWinterWind = {
   ],
   title: "Winter Wind",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "67CqEIMpWuNb6MnpTKjlFv", artistName: "Steven Sharp Nelson" },

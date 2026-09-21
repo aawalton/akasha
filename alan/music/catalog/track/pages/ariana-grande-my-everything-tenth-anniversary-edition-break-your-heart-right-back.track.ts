@@ -19,7 +19,6 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionBreakYourHeartRightB
   ],
   title: "Break Your Heart Right Back",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },

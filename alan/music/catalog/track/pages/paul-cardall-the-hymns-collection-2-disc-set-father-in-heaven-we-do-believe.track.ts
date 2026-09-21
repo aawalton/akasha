@@ -19,7 +19,6 @@ export const paulCardallTheHymnsCollection2DiscSetFatherInHeavenWeDoBelieve = {
   ],
   title: "Father in Heaven, We Do Believe",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "fatherinheavenwedobelieve|7FQRbf8gbKw8KZQZAJWxH2|214935",

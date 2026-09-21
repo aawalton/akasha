@@ -19,7 +19,6 @@ export const coldplayEverglowEverglowEdit = {
   ],
   title: "Everglow - Edit",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "everglowedit|4gzpq5DPGxSnKTe4SA8HAU|227506",

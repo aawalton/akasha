@@ -19,7 +19,6 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterIsntItNiceToBe
   ],
   title: "Isn't It Nice to Be Home Again - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "isntitnicetobehomeagain2019remaster|0vn7UBvSQECKJm2817Yf1P|55186",

@@ -19,7 +19,6 @@ export const celticWoman2BelieveSailing = {
   ],
   title: "Sailing",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "3hrMT5rIVrS20YswyQ6nlj", artistName: "Gavin Sutherland" },

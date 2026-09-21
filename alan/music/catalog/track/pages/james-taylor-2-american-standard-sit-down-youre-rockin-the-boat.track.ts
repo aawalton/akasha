@@ -19,7 +19,6 @@ export const jamesTaylor2AmericanStandardSitDownYoureRockinTheBoat = {
   ],
   title: "Sit Down, You’re Rockin’ The Boat",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "sitdownyourerockintheboat|0vn7UBvSQECKJm2817Yf1P|251013",

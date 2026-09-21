@@ -19,7 +19,6 @@ export const theHoldernessFamilyBestOfThe90sItWasntMe = {
   ],
   title: "It Wasn't Me",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "itwasntme|6tITG4T8LpC0msapZ4wXGA|109662",

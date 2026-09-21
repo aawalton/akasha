@@ -19,7 +19,6 @@ export const zaraLarsson1Uncover = {
   ],
   title: "Uncover",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "uncover|1Xylc3o4UrD53lo9CvFvVg|214583",

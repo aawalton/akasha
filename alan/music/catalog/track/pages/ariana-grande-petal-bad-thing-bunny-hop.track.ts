@@ -19,7 +19,6 @@ export const arianaGrandePetalBadThingBunnyHop = {
   ],
   title: "bad thing (bunny hop)",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "badthingbunnyhop|66CXWjxzNUsdJxJ2JdwvnR|208024",

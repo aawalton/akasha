@@ -19,7 +19,6 @@ export const celticWoman2HomecomingLiveFromIrelandTheKeshInnLive2017 = {
   ],
   title: "The Kesh Inn - Live 2017",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "thekeshinnlive2017|6NWtt9pNOL2Gx7kBykdE5x|183680",

@@ -19,7 +19,6 @@ export const thePianoGuys3AMillionDreamsAMillionDreams = {
   ],
   title: "A Million Dreams",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0qKRRwXdVtrVIEdPFr8vvo", artistName: "Benj Pasek" },

@@ -23,7 +23,6 @@ export const thePianoGuys310AThousandYears = {
   ],
   title: "A Thousand Years",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "athousandyears|0jW6R8CVyVohuUJVcuweDI|270441",

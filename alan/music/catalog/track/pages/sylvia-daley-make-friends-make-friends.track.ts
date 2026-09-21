@@ -19,7 +19,6 @@ export const sylviaDaleyMakeFriendsMakeFriends = {
   ],
   title: "Make Friends",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "makefriends|03dXd2zBbBJvX60Oap8Lgo|162125",

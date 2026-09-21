@@ -19,7 +19,6 @@ export const paulCardall40HymnsForFortyDaysTheMorningBreaks = {
   ],
   title: "The Morning Breaks",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "themorningbreaks|7FQRbf8gbKw8KZQZAJWxH2|115720",

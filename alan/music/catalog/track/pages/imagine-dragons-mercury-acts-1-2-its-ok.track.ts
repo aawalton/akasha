@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12ItsOk = {
   ],
   title: "It's Ok",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "itsok|53XhwfbYqKCa1cC15pYq2q|202497",

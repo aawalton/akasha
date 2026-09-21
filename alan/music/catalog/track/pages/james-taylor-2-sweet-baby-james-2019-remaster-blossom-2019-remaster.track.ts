@@ -19,7 +19,6 @@ export const jamesTaylor2SweetBabyJames2019RemasterBlossom2019Remaster = {
   ],
   title: "Blossom - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "blossom2019remaster|0vn7UBvSQECKJm2817Yf1P|133266",

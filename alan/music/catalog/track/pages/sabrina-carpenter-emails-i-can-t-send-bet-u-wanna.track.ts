@@ -22,7 +22,6 @@ export const sabrinaCarpenterEmailsICanTSendBetUWanna = {
   ],
   title: "bet u wanna",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "betuwanna|74KM79TiuVKeVCqs8QtB0B|191025",

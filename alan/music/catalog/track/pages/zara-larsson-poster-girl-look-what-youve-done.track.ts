@@ -22,7 +22,6 @@ export const zaraLarssonPosterGirlLookWhatYouveDone = {
   ],
   title: "Look What You've Done",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "lookwhatyouvedone|1Xylc3o4UrD53lo9CvFvVg|181354",

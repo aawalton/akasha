@@ -19,7 +19,6 @@ export const celticWoman2SpanishLady20thAnniversarySpanishLady20thAnniversary = 
   ],
   title: "Spanish Lady - 20th Anniversary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "spanishlady20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|121093",

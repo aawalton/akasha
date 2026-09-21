@@ -23,7 +23,6 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBad = {
   ],
   title: "Something Bad",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0pHTIdyC4DAsoMhpSufQaz", artistName: "Peter Dinklage" },

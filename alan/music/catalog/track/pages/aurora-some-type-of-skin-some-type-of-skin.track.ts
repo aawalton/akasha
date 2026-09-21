@@ -19,7 +19,6 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkin = {
   ],
   title: "Some Type Of Skin",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "sometypeofskin|1WgXqy2Dd70QQOU7Ay074N|192573",

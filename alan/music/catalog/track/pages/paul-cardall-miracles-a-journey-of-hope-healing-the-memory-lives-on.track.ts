@@ -19,7 +19,6 @@ export const paulCardallMiraclesAJourneyOfHopeHealingTheMemoryLivesOn = {
   ],
   title: "The Memory Lives On",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thememoryliveson|7FQRbf8gbKw8KZQZAJWxH2|251453",

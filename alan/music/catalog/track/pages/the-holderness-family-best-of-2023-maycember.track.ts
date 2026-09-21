@@ -19,7 +19,6 @@ export const theHoldernessFamilyBestOf2023Maycember = {
   ],
   title: "Maycember",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "maycember|6tITG4T8LpC0msapZ4wXGA|184008",

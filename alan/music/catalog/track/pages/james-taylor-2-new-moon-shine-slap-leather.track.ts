@@ -19,7 +19,6 @@ export const jamesTaylor2NewMoonShineSlapLeather = {
   ],
   title: "Slap Leather",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "slapleather|0vn7UBvSQECKJm2817Yf1P|117866",

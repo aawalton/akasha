@@ -19,7 +19,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsLiveLondo
   ],
   title: "Demons - Live London Sessions / 2013",
   trackType: "live",
-  discNumber: 3,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "demonslivelondonsessions2013|53XhwfbYqKCa1cC15pYq2q|187426",

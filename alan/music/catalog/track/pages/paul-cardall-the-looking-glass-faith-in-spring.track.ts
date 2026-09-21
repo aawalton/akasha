@@ -19,7 +19,6 @@ export const paulCardallTheLookingGlassFaithInSpring = {
   ],
   title: "Faith In Spring",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "faithinspring|7FQRbf8gbKw8KZQZAJWxH2|143093",

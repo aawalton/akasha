@@ -19,7 +19,6 @@ export const emeiGingerTeaTianMiMiYourSweetSmile = {
   ],
   title: "Tian Mi Mi (Your Sweet Smile)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "tianmimiyoursweetsmile|7E2aQQjErJocovYFjYLzWU|63866",

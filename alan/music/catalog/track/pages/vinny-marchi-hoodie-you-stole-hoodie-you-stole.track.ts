@@ -19,7 +19,6 @@ export const vinnyMarchiHoodieYouStoleHoodieYouStole = {
   ],
   title: "Hoodie You Stole",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "hoodieyoustole|5USAMqcbMAzF3HBmeD5pJF|170006",

@@ -19,7 +19,6 @@ export const sylviaDaleyMyOwnRulesMyOwnRules = {
   ],
   title: "My Own Rules",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
   trackKey: "myownrules|03dXd2zBbBJvX60Oap8Lgo|154187",

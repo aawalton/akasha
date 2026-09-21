@@ -19,7 +19,6 @@ export const paulCardallASacredChristmasPianoCollectionDoYouHearWhatIHear = {
   ],
   title: "Do You Hear What I Hear?",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "doyouhearwhatihear|7FQRbf8gbKw8KZQZAJWxH2|248868",

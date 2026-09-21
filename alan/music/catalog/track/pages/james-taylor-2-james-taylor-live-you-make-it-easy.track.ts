@@ -19,7 +19,6 @@ export const jamesTaylor2JamesTaylorLiveYouMakeItEasy = {
   ],
   title: "You Make It Easy",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "youmakeiteasy|0vn7UBvSQECKJm2817Yf1P|303706",

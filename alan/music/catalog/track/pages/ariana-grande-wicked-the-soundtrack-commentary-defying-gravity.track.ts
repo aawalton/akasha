@@ -23,7 +23,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDefyingGravity = {
   ],
   title: "Defying Gravity",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },

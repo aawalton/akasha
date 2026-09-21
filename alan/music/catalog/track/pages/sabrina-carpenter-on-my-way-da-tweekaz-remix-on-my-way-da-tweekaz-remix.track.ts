@@ -19,7 +19,6 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemixOnMyWayDaTweekazRemix = {
   ],
   title: "On My Way - Da Tweekaz Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "7vk5e3vY1uw9plTHJAMwjN", artistName: "Alan Walker" },

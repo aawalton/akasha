@@ -22,7 +22,6 @@ export const paulCardallBeCalmBrainHealthyMusicSacredNatureIi = {
   ],
   title: "Sacred Nature II",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sacrednatureii|7FQRbf8gbKw8KZQZAJWxH2|236068",

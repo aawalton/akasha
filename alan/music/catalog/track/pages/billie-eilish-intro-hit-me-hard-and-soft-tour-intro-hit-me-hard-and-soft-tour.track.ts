@@ -19,7 +19,6 @@ export const billieEilishIntroHitMeHardAndSoftTourIntroHitMeHardAndSoftTour = {
   ],
   title: "INTRO (HIT ME HARD AND SOFT TOUR)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "introhitmehardandsofttour|6qqNVTkY8uBg9cP3Jd7DAH|116878",

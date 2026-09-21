@@ -19,7 +19,6 @@ export const imagineDragonsIBetMyLifeRiotGamesRemixIBetMyLifeRiotGamesRemix = {
   ],
   title: "I Bet My Life - Riot Games Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ibetmyliferiotgamesremix|53XhwfbYqKCa1cC15pYq2q|210786",

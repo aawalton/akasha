@@ -19,7 +19,6 @@ export const celticWoman2AncientLandDeluxeNewgrange = {
   ],
   title: "Newgrange",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "newgrange|6NWtt9pNOL2Gx7kBykdE5x|225573",

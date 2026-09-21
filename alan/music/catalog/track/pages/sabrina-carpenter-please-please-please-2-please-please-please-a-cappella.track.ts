@@ -19,7 +19,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseACappella = {
   ],
   title: "Please Please Please - A cappella",
   trackType: "a-cappella",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "pleasepleasepleaseacappella|74KM79TiuVKeVCqs8QtB0B|186170",

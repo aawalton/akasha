@@ -19,7 +19,6 @@ export const celticWoman2SoloDownByTheSallyGardens = {
   ],
   title: "Down by the Sally Gardens",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5oLAxXGiZCQwR8FuXcTDJM", artistName: "Órla Fallon" }],
   trackKey: "downbythesallygardens|5oLAxXGiZCQwR8FuXcTDJM|212056",

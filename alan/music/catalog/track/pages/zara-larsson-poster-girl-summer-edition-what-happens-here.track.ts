@@ -22,7 +22,6 @@ export const zaraLarssonPosterGirlSummerEditionWhatHappensHere = {
   ],
   title: "What Happens Here",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "whathappenshere|1Xylc3o4UrD53lo9CvFvVg|199678",

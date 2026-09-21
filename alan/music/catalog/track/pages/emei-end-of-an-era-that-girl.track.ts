@@ -19,7 +19,6 @@ export const emeiEndOfAnEraThatGirl = {
   ],
   title: "That Girl",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "thatgirl|7E2aQQjErJocovYFjYLzWU|140426",

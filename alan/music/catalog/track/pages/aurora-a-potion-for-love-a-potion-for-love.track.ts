@@ -19,7 +19,6 @@ export const auroraAPotionForLoveAPotionForLove = {
   ],
   title: "A Potion For Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "apotionforlove|1WgXqy2Dd70QQOU7Ay074N|216426",

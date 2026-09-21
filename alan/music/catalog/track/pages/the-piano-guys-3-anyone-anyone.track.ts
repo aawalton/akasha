@@ -24,7 +24,6 @@ export const thePianoGuys3AnyoneAnyone = {
   ],
   title: "Anyone",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "anyone|0jW6R8CVyVohuUJVcuweDI|221988",

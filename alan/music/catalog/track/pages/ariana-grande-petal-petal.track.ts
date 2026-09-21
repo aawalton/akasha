@@ -19,7 +19,6 @@ export const arianaGrandePetalPetal = {
   ],
   title: "petal",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "petal|66CXWjxzNUsdJxJ2JdwvnR|184248",

@@ -22,7 +22,6 @@ export const sabrinaCarpenterEmailsICanTSendBecauseILikedABoy = {
   ],
   title: "because i liked a boy",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "becauseilikedaboy|74KM79TiuVKeVCqs8QtB0B|196458",

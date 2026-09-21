@@ -19,7 +19,6 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonChanel = {
   ],
   title: "CHANEL",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "3SozjO3Lat463tQICI9LcE", artistName: "Tyla" }],
   trackKey: "chanel|3SozjO3Lat463tQICI9LcE|188059",

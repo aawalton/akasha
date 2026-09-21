@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12FerrisWheel = {
   ],
   title: "Ferris Wheel",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ferriswheel|53XhwfbYqKCa1cC15pYq2q|203875",

@@ -19,7 +19,6 @@ export const billieEilishBitchesBrokenHeartsBitchesBrokenHearts = {
   ],
   title: "bitches broken hearts",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "bitchesbrokenhearts|6qqNVTkY8uBg9cP3Jd7DAH|176471",

@@ -22,7 +22,6 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadorsSucke
   title:
     "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [
     { externalId: "55Aa2cqylxrFIXC767Z865", artistName: "Lil Wayne" },

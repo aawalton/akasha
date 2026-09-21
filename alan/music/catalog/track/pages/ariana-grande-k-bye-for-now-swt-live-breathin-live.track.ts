@@ -19,7 +19,6 @@ export const arianaGrandeKByeForNowSwtLiveBreathinLive = {
   ],
   title: "breathin - live",
   trackType: "live",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "breathinlive|66CXWjxzNUsdJxJ2JdwvnR|208294",

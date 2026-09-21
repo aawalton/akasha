@@ -22,7 +22,6 @@ export const auroraWhatHappenedToTheHeartASoulWithNoKing = {
   ],
   title: "A Soul With No King",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "asoulwithnoking|1WgXqy2Dd70QQOU7Ay074N|264453",

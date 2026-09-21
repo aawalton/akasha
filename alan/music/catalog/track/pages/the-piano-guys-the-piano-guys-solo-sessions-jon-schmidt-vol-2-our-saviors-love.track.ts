@@ -19,7 +19,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2OurSaviorsLove = 
   ],
   title: "Our Savior's Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "oursaviorslove|2YQ4MY2VwOMv43C0GemUY5|223136",

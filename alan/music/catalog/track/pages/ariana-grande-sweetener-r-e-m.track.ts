@@ -19,7 +19,6 @@ export const arianaGrandeSweetenerREM = {
   ],
   title: "R.E.M",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "rem|66CXWjxzNUsdJxJ2JdwvnR|245666",

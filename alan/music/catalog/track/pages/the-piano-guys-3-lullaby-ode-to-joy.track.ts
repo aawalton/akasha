@@ -25,7 +25,6 @@ export const thePianoGuys3LullabyOdeToJoy = {
   ],
   title: "Ode To Joy",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "odetojoy|0jW6R8CVyVohuUJVcuweDI|106111",

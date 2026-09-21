@@ -19,7 +19,6 @@ export const paulCardallSavingTinyHeartsLifeDeath = {
   ],
   title: "Life & Death",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "lifedeath|7FQRbf8gbKw8KZQZAJWxH2|333320",

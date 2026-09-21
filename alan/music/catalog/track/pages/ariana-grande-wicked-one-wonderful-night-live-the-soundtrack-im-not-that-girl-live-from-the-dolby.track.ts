@@ -20,7 +20,6 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackImNotThatGirlLi
   ],
   title: "I’m Not That Girl - Live from the Dolby Theatre",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
   trackKey: "imnotthatgirllivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ|238235",

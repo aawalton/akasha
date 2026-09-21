@@ -19,7 +19,6 @@ export const arianaGrandeItWasAMaskedChristmasItWasAMaskedChristmasFeatArianaGra
   ],
   title: "It Was A… (Masked Christmas) (feat. Ariana Grande & Megan Thee Stallion)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "7mAcgRMD6EfCKHO6cIkDOP", artistName: "Jimmy Fallon" },

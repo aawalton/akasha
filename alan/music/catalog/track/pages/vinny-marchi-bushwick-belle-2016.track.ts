@@ -19,7 +19,6 @@ export const vinnyMarchiBushwickBelle2016 = {
   ],
   title: "2016",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "2016|5USAMqcbMAzF3HBmeD5pJF|162863",

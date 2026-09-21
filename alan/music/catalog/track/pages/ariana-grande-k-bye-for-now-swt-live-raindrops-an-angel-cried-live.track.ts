@@ -19,7 +19,6 @@ export const arianaGrandeKByeForNowSwtLiveRaindropsAnAngelCriedLive = {
   ],
   title: "raindrops (an angel cried) - live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "raindropsanangelcriedlive|66CXWjxzNUsdJxJ2JdwvnR|43251",

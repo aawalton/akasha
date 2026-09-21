@@ -19,7 +19,6 @@ export const arianaGrandeSweetenerBorderlineFeatMissyElliott = {
   ],
   title: "borderline (feat. Missy Elliott)",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [
     { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },

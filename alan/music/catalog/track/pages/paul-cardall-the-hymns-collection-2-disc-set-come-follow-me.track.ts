@@ -19,7 +19,6 @@ export const paulCardallTheHymnsCollection2DiscSetComeFollowMe = {
   ],
   title: "Come, Follow Me",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "comefollowme|7FQRbf8gbKw8KZQZAJWxH2|160052",

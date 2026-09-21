@@ -19,7 +19,6 @@ export const coldplayEverydayLifeOldFriends = {
   ],
   title: "Old Friends",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "oldfriends|4gzpq5DPGxSnKTe4SA8HAU|146946",

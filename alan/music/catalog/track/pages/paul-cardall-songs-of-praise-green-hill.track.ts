@@ -19,7 +19,6 @@ export const paulCardallSongsOfPraiseGreenHill = {
   ],
   title: "Green Hill",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "greenhill|7FQRbf8gbKw8KZQZAJWxH2|219506",

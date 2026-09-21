@@ -19,7 +19,6 @@ export const paulCardallAncestorsExodus = {
   ],
   title: "Exodus",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "exodus|7FQRbf8gbKw8KZQZAJWxH2|219228",

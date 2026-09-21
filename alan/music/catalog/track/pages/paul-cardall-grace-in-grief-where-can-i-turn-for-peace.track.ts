@@ -19,7 +19,6 @@ export const paulCardallGraceInGriefWhereCanITurnForPeace = {
   ],
   title: "Where Can I Turn for Peace?",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "wherecaniturnforpeace|7FQRbf8gbKw8KZQZAJWxH2|237000",

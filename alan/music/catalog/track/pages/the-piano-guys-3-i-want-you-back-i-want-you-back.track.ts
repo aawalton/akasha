@@ -19,7 +19,6 @@ export const thePianoGuys3IWantYouBackIWantYouBack = {
   ],
   title: "I Want You Back",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "4xRLKAf96K6YdGDWjY6ra8", artistName: "Berry Gordy" },

@@ -22,7 +22,6 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheBastardInTheKitchen = {
   ],
   title: "The Bastard in the Kitchen",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "thebastardinthekitchen|5USAMqcbMAzF3HBmeD5pJF|113423",

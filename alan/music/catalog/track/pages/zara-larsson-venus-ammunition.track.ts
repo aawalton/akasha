@@ -19,7 +19,6 @@ export const zaraLarssonVenusAmmunition = {
   ],
   title: "Ammunition",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "ammunition|1Xylc3o4UrD53lo9CvFvVg|222489",

@@ -19,7 +19,6 @@ export const paulCardallChristmasHymnsIlEstNeLeDivinEnfant = {
   ],
   title: "Il Est Ne, Le Divin Enfant",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ilestneledivinenfant|7FQRbf8gbKw8KZQZAJWxH2|253733",

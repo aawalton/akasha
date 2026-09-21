@@ -19,7 +19,6 @@ export const jamesTaylor2JamesTaylorLiveIWillFollow = {
   ],
   title: "I Will Follow",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "iwillfollow|0vn7UBvSQECKJm2817Yf1P|237333",

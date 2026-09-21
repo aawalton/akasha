@@ -23,7 +23,6 @@ export const imagineDragonsNightVisionsDeluxeRadioactive = {
   ],
   title: "Radioactive",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "radioactive|53XhwfbYqKCa1cC15pYq2q|186813",

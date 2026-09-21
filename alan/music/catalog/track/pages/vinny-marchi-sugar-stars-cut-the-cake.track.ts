@@ -19,7 +19,6 @@ export const vinnyMarchiSugarStarsCutTheCake = {
   ],
   title: "cut the cake",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "cutthecake|5USAMqcbMAzF3HBmeD5pJF|221207",

@@ -22,7 +22,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
     ],
     title: "dandelion - a cappella",
     trackType: "a-cappella",
-    discNumber: 1,
     explicit: false,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "dandelionacappella|66CXWjxzNUsdJxJ2JdwvnR|163782",

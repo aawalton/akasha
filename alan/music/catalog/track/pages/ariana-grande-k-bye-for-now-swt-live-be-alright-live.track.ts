@@ -19,7 +19,6 @@ export const arianaGrandeKByeForNowSwtLiveBeAlrightLive = {
   ],
   title: "be alright - live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "bealrightlive|66CXWjxzNUsdJxJ2JdwvnR|174604",

@@ -19,7 +19,6 @@ export const celticWoman2AChristmasCelebrationLetItSnow = {
   ],
   title: "Let It Snow",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "letitsnow|6NWtt9pNOL2Gx7kBykdE5x|150573",

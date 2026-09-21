@@ -19,7 +19,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoYouShouldSeeMeInACrown = 
   ],
   title: "you should see me in a crown",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "youshouldseemeinacrown|6qqNVTkY8uBg9cP3Jd7DAH|180952",

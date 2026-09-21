@@ -19,7 +19,6 @@ export const celticWoman2HomecomingLiveFromIrelandDannyBoyLive2017 = {
   ],
   title: "Danny Boy - Live 2017",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "dannyboylive2017|6NWtt9pNOL2Gx7kBykdE5x|219306",

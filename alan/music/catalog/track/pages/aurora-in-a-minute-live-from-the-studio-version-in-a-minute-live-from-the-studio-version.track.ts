@@ -19,7 +19,6 @@ export const auroraInAMinuteLiveFromTheStudioVersionInAMinuteLiveFromTheStudioVe
   ],
   title: "IN A MINUTE - LIVE FROM THE STUDIO VERSION",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5r0BuurxKQugj8cjHiO8pY", artistName: "TOMORA" },

@@ -19,7 +19,6 @@ export const arianaGrandeHotelRockBottomHotelRockBottomFeatArianaGrande = {
   ],
   title: "Hotel Rock Bottom (feat. Ariana Grande)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "31hoObE1mECmBt2P64uqLK", artistName: "Frankie Grande" },

@@ -19,7 +19,6 @@ export const sabrinaCarpenterSignOfTheTimesSignOfTheTimes = {
   ],
   title: "Sign of the Times",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2TL8gYTNgD6nXkyuUdDrMg", artistName: "Jasmine Thompson" },

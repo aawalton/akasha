@@ -19,7 +19,6 @@ export const coldplayASkyFullOfStars2ASkyFullOfStars = {
   ],
   title: "A Sky Full of Stars",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "askyfullofstars|4gzpq5DPGxSnKTe4SA8HAU|236379",

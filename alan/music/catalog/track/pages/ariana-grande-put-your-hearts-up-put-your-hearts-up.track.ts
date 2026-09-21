@@ -19,7 +19,6 @@ export const arianaGrandePutYourHeartsUpPutYourHeartsUp = {
   ],
   title: "Put Your Hearts Up",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "putyourheartsup|66CXWjxzNUsdJxJ2JdwvnR|210200",

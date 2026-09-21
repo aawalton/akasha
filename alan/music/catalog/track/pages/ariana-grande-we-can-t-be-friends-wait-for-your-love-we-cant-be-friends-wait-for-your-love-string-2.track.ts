@@ -19,7 +19,6 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveWeCantBeFriendsWaitForYou
   ],
   title: "we can't be friends (wait for your love) – string version instrumental",
   trackType: "instrumental",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "wecantbefriendswaitforyourlovestringversioninstrumental|66CXWjxzNUsdJxJ2JdwvnR|222442",

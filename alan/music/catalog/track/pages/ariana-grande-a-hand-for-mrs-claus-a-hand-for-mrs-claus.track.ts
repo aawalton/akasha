@@ -19,7 +19,6 @@ export const arianaGrandeAHandForMrsClausAHandForMrsClaus = {
   ],
   title: "A Hand For Mrs. Claus",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "73Np75Wv2tju61Eo9Zw4IR", artistName: "Idina Menzel" },

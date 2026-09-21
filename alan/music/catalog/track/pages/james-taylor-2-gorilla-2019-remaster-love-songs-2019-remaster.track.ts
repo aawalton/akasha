@@ -19,7 +19,6 @@ export const jamesTaylor2Gorilla2019RemasterLoveSongs2019Remaster = {
   ],
   title: "Love Songs - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "lovesongs2019remaster|0vn7UBvSQECKJm2817Yf1P|346280",

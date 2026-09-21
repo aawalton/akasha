@@ -19,7 +19,6 @@ export const vinnyMarchiAveMariaAveMaria = {
   ],
   title: "Ave Maria",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2p0UyoPfYfI76PCStuXfOP", artistName: "Franz Schubert" },

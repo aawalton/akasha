@@ -24,7 +24,6 @@ export const thePianoGuys3LullabyYoullBeInMyHeart = {
   ],
   title: "You'll Be In My Heart",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "youllbeinmyheart|0jW6R8CVyVohuUJVcuweDI|247409",

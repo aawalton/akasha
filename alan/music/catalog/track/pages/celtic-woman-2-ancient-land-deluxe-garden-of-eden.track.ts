@@ -22,7 +22,6 @@ export const celticWoman2AncientLandDeluxeGardenOfEden = {
   ],
   title: "Garden Of Eden",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "gardenofeden|6NWtt9pNOL2Gx7kBykdE5x|203853",

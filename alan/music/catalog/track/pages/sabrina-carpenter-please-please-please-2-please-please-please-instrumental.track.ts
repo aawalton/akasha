@@ -19,7 +19,6 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePleaseInstrumental =
   ],
   title: "Please Please Please - Instrumental",
   trackType: "instrumental",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "pleasepleasepleaseinstrumental|74KM79TiuVKeVCqs8QtB0B|186170",

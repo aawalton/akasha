@@ -19,7 +19,6 @@ export const theHoldernessFamilyBestOf2023IsSheAtTheGame = {
   ],
   title: "Is She At The Game?",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "issheatthegame|6tITG4T8LpC0msapZ4wXGA|141480",

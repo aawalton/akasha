@@ -19,7 +19,6 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveEternalSunshine
   ],
   title: "eternal sunshine - live version",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "eternalsunshineliveversion|66CXWjxzNUsdJxJ2JdwvnR|206327",

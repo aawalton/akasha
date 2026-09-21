@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs121 = {
   ],
   title: "#1",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "1|53XhwfbYqKCa1cC15pYq2q|205040",

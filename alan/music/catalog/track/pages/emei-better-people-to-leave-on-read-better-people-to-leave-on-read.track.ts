@@ -19,7 +19,6 @@ export const emeiBetterPeopleToLeaveOnReadBetterPeopleToLeaveOnRead = {
   ],
   title: "Better People To Leave On Read",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "betterpeopletoleaveonread|7E2aQQjErJocovYFjYLzWU|131344",

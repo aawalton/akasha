@@ -19,7 +19,6 @@ export const sabrinaCarpenterShortNSweetDeluxeBusyWoman = {
   ],
   title: "Busy Woman",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "busywoman|74KM79TiuVKeVCqs8QtB0B|186612",

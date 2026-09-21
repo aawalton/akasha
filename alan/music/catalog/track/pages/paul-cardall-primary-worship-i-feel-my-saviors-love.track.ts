@@ -19,7 +19,6 @@ export const paulCardallPrimaryWorshipIFeelMySaviorsLove = {
   ],
   title: "I Feel my Saviors Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ifeelmysaviorslove|7FQRbf8gbKw8KZQZAJWxH2|207093",

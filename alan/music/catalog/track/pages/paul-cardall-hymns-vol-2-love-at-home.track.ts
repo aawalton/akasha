@@ -19,7 +19,6 @@ export const paulCardallHymnsVol2LoveAtHome = {
   ],
   title: "Love at Home",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "loveathome|7FQRbf8gbKw8KZQZAJWxH2|226858",

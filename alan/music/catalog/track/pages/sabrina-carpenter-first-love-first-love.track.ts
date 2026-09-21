@@ -19,7 +19,6 @@ export const sabrinaCarpenterFirstLoveFirstLove = {
   ],
   title: "First Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "3hyEbRtp617pNCuuQjyOmc", artistName: "Lost Kings" },

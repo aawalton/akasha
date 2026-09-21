@@ -19,7 +19,6 @@ export const paulCardallReturnHomeCastlesAndCathedrals = {
   ],
   title: "Castles and Cathedrals",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "castlesandcathedrals|7FQRbf8gbKw8KZQZAJWxH2|298176",

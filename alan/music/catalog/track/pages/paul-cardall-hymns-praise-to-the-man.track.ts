@@ -19,7 +19,6 @@ export const paulCardallHymnsPraiseToTheMan = {
   ],
   title: "Praise To The Man",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "praisetotheman|7FQRbf8gbKw8KZQZAJWxH2|130746",

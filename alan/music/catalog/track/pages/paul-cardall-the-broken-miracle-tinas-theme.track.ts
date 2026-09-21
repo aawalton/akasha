@@ -19,7 +19,6 @@ export const paulCardallTheBrokenMiracleTinasTheme = {
   ],
   title: "Tina’s Theme",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "tinastheme|7FQRbf8gbKw8KZQZAJWxH2|219693",

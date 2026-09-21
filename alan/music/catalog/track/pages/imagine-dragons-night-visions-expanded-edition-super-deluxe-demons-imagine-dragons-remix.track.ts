@@ -19,7 +19,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsImagineDr
   ],
   title: "Demons - Imagine Dragons Remix",
   trackType: "remix",
-  discNumber: 4,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "demonsimaginedragonsremix|53XhwfbYqKCa1cC15pYq2q|196533",

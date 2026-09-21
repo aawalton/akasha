@@ -23,7 +23,6 @@ export const emeiNightAtTheOpera2NightAtTheOpera = {
   ],
   title: "Night at the Opera",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "nightattheopera|7E2aQQjErJocovYFjYLzWU|184788",

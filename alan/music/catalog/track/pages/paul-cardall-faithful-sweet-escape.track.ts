@@ -19,7 +19,6 @@ export const paulCardallFaithfulSweetEscape = {
   ],
   title: "Sweet Escape",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sweetescape|7FQRbf8gbKw8KZQZAJWxH2|187306",

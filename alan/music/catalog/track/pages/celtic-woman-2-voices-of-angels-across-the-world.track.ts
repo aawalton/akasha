@@ -19,7 +19,6 @@ export const celticWoman2VoicesOfAngelsAcrossTheWorld = {
   ],
   title: "Across The World",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "acrosstheworld|6NWtt9pNOL2Gx7kBykdE5x|215373",

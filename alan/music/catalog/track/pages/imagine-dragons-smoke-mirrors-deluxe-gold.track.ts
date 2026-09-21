@@ -22,7 +22,6 @@ export const imagineDragonsSmokeMirrorsDeluxeGold = {
   ],
   title: "Gold",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "gold|53XhwfbYqKCa1cC15pYq2q|216813",

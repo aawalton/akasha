@@ -19,7 +19,6 @@ export const coldplayLive2003AmsterdamLiveInSydney = {
   ],
   title: "Amsterdam - Live in Sydney",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "amsterdamliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|320160",

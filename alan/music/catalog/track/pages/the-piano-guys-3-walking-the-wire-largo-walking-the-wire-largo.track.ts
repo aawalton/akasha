@@ -19,7 +19,6 @@ export const thePianoGuys3WalkingTheWireLargoWalkingTheWireLargo = {
   ],
   title: "Walking the Wire / Largo",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "1QL7yTHrdahRMpvNtn6rI2", artistName: "George Frideric Handel" },

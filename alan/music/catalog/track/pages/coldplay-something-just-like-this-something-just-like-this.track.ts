@@ -19,7 +19,6 @@ export const coldplaySomethingJustLikeThisSomethingJustLikeThis = {
   ],
   title: "Something Just Like This",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },

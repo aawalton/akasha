@@ -22,7 +22,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     ],
     title: "imperfect for you - instrumental",
     trackType: "instrumental",
-    discNumber: 1,
     explicit: false,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "imperfectforyouinstrumental|66CXWjxzNUsdJxJ2JdwvnR|182566",

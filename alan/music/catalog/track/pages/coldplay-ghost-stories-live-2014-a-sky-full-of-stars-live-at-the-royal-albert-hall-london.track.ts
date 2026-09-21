@@ -19,7 +19,6 @@ export const coldplayGhostStoriesLive2014ASkyFullOfStarsLiveAtTheRoyalAlbertHall
   ],
   title: "A Sky Full of Stars - Live at the Royal Albert Hall, London",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "askyfullofstarsliveattheroyalalberthalllondon|4gzpq5DPGxSnKTe4SA8HAU|278266",

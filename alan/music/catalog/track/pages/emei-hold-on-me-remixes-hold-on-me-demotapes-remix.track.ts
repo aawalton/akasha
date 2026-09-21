@@ -19,7 +19,6 @@ export const emeiHoldOnMeRemixesHoldOnMeDemotapesRemix = {
   ],
   title: "Hold On Me - demotapes Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5jAMCwdNHWr7JThxtMuEyy", artistName: "NOTD" },

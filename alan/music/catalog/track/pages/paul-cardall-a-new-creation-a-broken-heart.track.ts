@@ -19,7 +19,6 @@ export const paulCardallANewCreationABrokenHeart = {
   ],
   title: "A Broken Heart",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "abrokenheart|7FQRbf8gbKw8KZQZAJWxH2|300173",

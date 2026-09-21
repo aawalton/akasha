@@ -19,7 +19,6 @@ export const imagineDragonsEvolveWalkingTheWire = {
   ],
   title: "Walking The Wire",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "walkingthewire|53XhwfbYqKCa1cC15pYq2q|232906",

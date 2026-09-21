@@ -19,7 +19,6 @@ export const arianaGrandePetalLikeIDo = {
   ],
   title: "like i do",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "likeido|66CXWjxzNUsdJxJ2JdwvnR|167333",

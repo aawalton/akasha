@@ -19,7 +19,6 @@ export const sabrinaCarpenterFruitcakeBuyMePresents = {
   ],
   title: "buy me presents",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "buymepresents|74KM79TiuVKeVCqs8QtB0B|177365",

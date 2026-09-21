@@ -19,7 +19,6 @@ export const imagineDragonsBornToBeYoursBornToBeYours = {
   ],
   title: "Born To Be Yours",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },

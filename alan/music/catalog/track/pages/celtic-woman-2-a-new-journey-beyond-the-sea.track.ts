@@ -19,7 +19,6 @@ export const celticWoman2ANewJourneyBeyondTheSea = {
   ],
   title: "Beyond The Sea",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "beyondthesea|6NWtt9pNOL2Gx7kBykdE5x|199733",

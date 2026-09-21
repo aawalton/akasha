@@ -19,7 +19,6 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLovePeaktime
   ],
   title: "Bring Your Love - Peaktime Dub Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6tbjWDEIzxoDsBA1FuhfPW", artistName: "Madonna" },

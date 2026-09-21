@@ -19,7 +19,6 @@ export const jamesTaylor2WalkingMan2019RemasterWalkingMan2019Remaster = {
   ],
   title: "Walking Man - 2019 Remaster",
   trackType: "remaster",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "walkingman2019remaster|0vn7UBvSQECKJm2817Yf1P|214920",

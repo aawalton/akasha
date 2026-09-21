@@ -19,7 +19,6 @@ export const celticWoman2BelieveASpacemanCameTraveling = {
   ],
   title: "A Spaceman Came Traveling",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2RpHsROrX075xfIwHn6B2U", artistName: "Chris de Burgh" },

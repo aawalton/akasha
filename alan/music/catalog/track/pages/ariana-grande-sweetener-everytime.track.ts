@@ -19,7 +19,6 @@ export const arianaGrandeSweetenerEverytime = {
   ],
   title: "everytime",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "everytime|66CXWjxzNUsdJxJ2JdwvnR|172106",

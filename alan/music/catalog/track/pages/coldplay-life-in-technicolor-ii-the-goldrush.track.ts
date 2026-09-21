@@ -19,7 +19,6 @@ export const coldplayLifeInTechnicolorIiTheGoldrush = {
   ],
   title: "The Goldrush",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "thegoldrush|4gzpq5DPGxSnKTe4SA8HAU|149253",

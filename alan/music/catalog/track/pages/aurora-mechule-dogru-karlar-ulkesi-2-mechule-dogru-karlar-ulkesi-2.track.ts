@@ -19,7 +19,6 @@ export const auroraMechuleDogruKarlarUlkesi2MechuleDogruKarlarUlkesi2 = {
   ],
   title: "Meçhule Doğru - Karlar Ülkesi 2",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6zLutmgjmoKvrsH5hyqNz1", artistName: "Begüm Günceler" },

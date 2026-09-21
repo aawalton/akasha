@@ -19,7 +19,6 @@ export const coldplayEverydayLifeTroubleInTown = {
   ],
   title: "Trouble In Town",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "troubleintown|4gzpq5DPGxSnKTe4SA8HAU|278906",

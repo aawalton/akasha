@@ -19,7 +19,6 @@ export const thePianoGuys310StoryOfMyLife = {
   ],
   title: "Story of My Life",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "storyofmylife|0jW6R8CVyVohuUJVcuweDI|267822",

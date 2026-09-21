@@ -22,7 +22,6 @@ export const celticWoman2AncientLandDeluxeOverTheRainbow = {
   ],
   title: "Over The Rainbow",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "overtherainbow|6NWtt9pNOL2Gx7kBykdE5x|204320",

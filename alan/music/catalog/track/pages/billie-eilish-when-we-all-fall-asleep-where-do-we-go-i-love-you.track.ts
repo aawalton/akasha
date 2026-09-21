@@ -19,7 +19,6 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoILoveYou = {
   ],
   title: "i love you",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "iloveyou|6qqNVTkY8uBg9cP3Jd7DAH|291796",

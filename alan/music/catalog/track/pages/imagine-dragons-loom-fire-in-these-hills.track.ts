@@ -19,7 +19,6 @@ export const imagineDragonsLoomFireInTheseHills = {
   ],
   title: "Fire in These Hills",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "fireinthesehills|53XhwfbYqKCa1cC15pYq2q|219280",

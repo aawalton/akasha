@@ -19,7 +19,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDonDiabloR
   ],
   title: "Something Just Like This - Don Diablo Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },

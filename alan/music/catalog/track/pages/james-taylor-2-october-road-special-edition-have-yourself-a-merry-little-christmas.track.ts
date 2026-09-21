@@ -19,7 +19,6 @@ export const jamesTaylor2OctoberRoadSpecialEditionHaveYourselfAMerryLittleChrist
   ],
   title: "Have Yourself a Merry Little Christmas",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "haveyourselfamerrylittlechristmas|0vn7UBvSQECKJm2817Yf1P|230333",

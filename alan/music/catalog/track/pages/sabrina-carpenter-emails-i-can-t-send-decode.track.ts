@@ -22,7 +22,6 @@ export const sabrinaCarpenterEmailsICanTSendDecode = {
   ],
   title: "decode",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "decode|74KM79TiuVKeVCqs8QtB0B|188167",

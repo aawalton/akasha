@@ -19,7 +19,6 @@ export const zaraLarssonMidnightSunMoreMidnightSunACappella = {
   ],
   title: "Midnight Sun - A Cappella",
   trackType: "a-cappella",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "midnightsunacappella|1Xylc3o4UrD53lo9CvFvVg|176829",

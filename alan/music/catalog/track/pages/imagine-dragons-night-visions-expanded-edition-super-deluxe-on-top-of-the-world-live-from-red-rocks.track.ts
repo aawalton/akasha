@@ -19,7 +19,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorld
   ],
   title: "On Top Of The World - Live From Red Rocks / 2014",
   trackType: "live",
-  discNumber: 3,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "ontopoftheworldlivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|201453",

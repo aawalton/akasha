@@ -19,7 +19,6 @@ export const arianaGrandeMyEverythingDeluxeOnly1 = {
   ],
   title: "Only 1",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "only1|66CXWjxzNUsdJxJ2JdwvnR|193986",

@@ -19,7 +19,6 @@ export const sabrinaCarpenterSingularActIiExhale = {
   ],
   title: "Exhale",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "exhale|74KM79TiuVKeVCqs8QtB0B|164708",

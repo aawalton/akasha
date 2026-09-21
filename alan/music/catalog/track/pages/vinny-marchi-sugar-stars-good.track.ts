@@ -19,7 +19,6 @@ export const vinnyMarchiSugarStarsGood = {
   ],
   title: "good",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
   trackKey: "good|5USAMqcbMAzF3HBmeD5pJF|149358",

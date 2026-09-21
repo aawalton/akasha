@@ -19,7 +19,6 @@ export const celticWoman2OHolyNight2020VersionOHolyNight2020Version = {
   ],
   title: "O Holy Night - 2020 Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "oholynight2020version|6NWtt9pNOL2Gx7kBykdE5x|219011",

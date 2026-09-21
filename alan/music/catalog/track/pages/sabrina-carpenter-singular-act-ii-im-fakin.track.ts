@@ -19,7 +19,6 @@ export const sabrinaCarpenterSingularActIiImFakin = {
   ],
   title: "I'm Fakin",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "imfakin|74KM79TiuVKeVCqs8QtB0B|175309",

@@ -19,7 +19,6 @@ export const thePianoGuys3MainTitleFromJurassicParkJurassicParkTheme = {
   ],
   title: "Jurassic Park Theme",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "3dRfiJ2650SZu6GbydcHNb", artistName: "John Williams" },

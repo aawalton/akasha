@@ -19,7 +19,6 @@ export const auroraButterfliesFeatAuroraButterfliesFeatAurora = {
   ],
   title: "Butterflies (feat. AURORA)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2txHhyCwHjUEpJjWrEyqyX", artistName: "Tom Odell" },

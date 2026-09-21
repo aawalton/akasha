@@ -19,7 +19,6 @@ export const arianaGrandeTheBoyIsMineTheBoyIsMineInstrumentalInstrumental = {
   ],
   title: "the boy is mine – instrumental - instrumental",
   trackType: "instrumental",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "theboyismineinstrumentalinstrumental|66CXWjxzNUsdJxJ2JdwvnR|173639",

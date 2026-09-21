@@ -19,7 +19,6 @@ export const paulCardallHymnsJosephSmithsFirstPrayer = {
   ],
   title: "Joseph Smith's First Prayer",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "josephsmithsfirstprayer|7FQRbf8gbKw8KZQZAJWxH2|199146",

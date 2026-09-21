@@ -19,7 +19,6 @@ export const zaraLarssonHonorTheLightWinterSong = {
   ],
   title: "Winter Song",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "wintersong|1Xylc3o4UrD53lo9CvFvVg|185066",

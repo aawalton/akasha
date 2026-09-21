@@ -19,7 +19,6 @@ export const paulCardallTheChristmasBoxTheChristmasBox = {
   ],
   title: "The Christmas Box",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "thechristmasbox|7FQRbf8gbKw8KZQZAJWxH2|107333",

@@ -19,7 +19,6 @@ export const imagineDragonsStarsWillAlignStarsWillAlign = {
   ],
   title: "Stars Will Align",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },

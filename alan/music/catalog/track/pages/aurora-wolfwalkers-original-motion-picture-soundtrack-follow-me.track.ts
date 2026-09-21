@@ -19,7 +19,6 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackFollowMe = {
   ],
   title: "Follow Me",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
   trackKey: "followme|5kjb55jtwPnbYXXDvP4x7R|207920",

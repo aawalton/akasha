@@ -19,7 +19,6 @@ export const paulCardallANewCreationANewCreation = {
   ],
   title: "A New Creation",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "anewcreation|7FQRbf8gbKw8KZQZAJWxH2|260079",

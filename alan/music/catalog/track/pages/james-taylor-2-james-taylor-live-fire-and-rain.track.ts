@@ -19,7 +19,6 @@ export const jamesTaylor2JamesTaylorLiveFireAndRain = {
   ],
   title: "Fire and Rain",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "fireandrain|0vn7UBvSQECKJm2817Yf1P|273266",

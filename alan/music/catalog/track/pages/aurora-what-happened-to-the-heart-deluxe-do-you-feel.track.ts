@@ -22,7 +22,6 @@ export const auroraWhatHappenedToTheHeartDeluxeDoYouFeel = {
   ],
   title: "Do You Feel?",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
   trackKey: "doyoufeel|1WgXqy2Dd70QQOU7Ay074N|181506",

@@ -19,7 +19,6 @@ export const jamesTaylor2CoversWhyBabyWhy = {
   ],
   title: "Why Baby Why",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "whybabywhy|0vn7UBvSQECKJm2817Yf1P|160680",

@@ -19,7 +19,6 @@ export const paulCardallDecemberSoloPianoOurBeatingHeartsSoloPianoVersion = {
   ],
   title: "Our Beating Hearts - Solo Piano Version",
   trackType: "version",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "ourbeatingheartssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|208080",

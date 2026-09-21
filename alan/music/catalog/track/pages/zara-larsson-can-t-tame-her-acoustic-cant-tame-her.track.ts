@@ -23,7 +23,6 @@ export const zaraLarssonCanTTameHerAcousticCantTameHer = {
   ],
   title: "Can't Tame Her",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "canttameher|1Xylc3o4UrD53lo9CvFvVg|196939",

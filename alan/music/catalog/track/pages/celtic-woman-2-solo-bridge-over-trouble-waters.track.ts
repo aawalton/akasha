@@ -19,7 +19,6 @@ export const celticWoman2SoloBridgeOverTroubleWaters = {
   ],
   title: "Bridge over Trouble Waters",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Qqfmc13NiDOMzVbTFRl8I", artistName: "Lisa Lambe" }],
   trackKey: "bridgeovertroublewaters|1Qqfmc13NiDOMzVbTFRl8I|243043",

@@ -19,7 +19,6 @@ export const paulCardall40HymnsForFortyDaysForTheBeautyOfTheEarth = {
   ],
   title: "For the Beauty of the Earth",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "forthebeautyoftheearth|7FQRbf8gbKw8KZQZAJWxH2|104280",

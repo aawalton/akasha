@@ -19,7 +19,6 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisAlessoRemi
   ],
   title: "Something Just Like This - Alesso Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },

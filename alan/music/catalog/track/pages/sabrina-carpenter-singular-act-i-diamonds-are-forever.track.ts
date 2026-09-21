@@ -19,7 +19,6 @@ export const sabrinaCarpenterSingularActIDiamondsAreForever = {
   ],
   title: "Diamonds Are Forever",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "diamondsareforever|74KM79TiuVKeVCqs8QtB0B|229533",

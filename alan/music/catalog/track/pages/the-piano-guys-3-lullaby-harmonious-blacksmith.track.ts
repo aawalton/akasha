@@ -19,7 +19,6 @@ export const thePianoGuys3LullabyHarmoniousBlacksmith = {
   ],
   title: "Harmonious Blacksmith",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "harmoniousblacksmith|0jW6R8CVyVohuUJVcuweDI|152307",

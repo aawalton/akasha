@@ -19,7 +19,6 @@ export const celticWoman2SoloScarboroughFair = {
   ],
   title: "Scarborough Fair",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7Jotu5LupekFt00kZZZ7C6", artistName: "Hayley Westenra" }],
   trackKey: "scarboroughfair|7Jotu5LupekFt00kZZZ7C6|193015",

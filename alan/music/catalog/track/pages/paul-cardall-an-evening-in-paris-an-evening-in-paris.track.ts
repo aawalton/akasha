@@ -22,7 +22,6 @@ export const paulCardallAnEveningInParisAnEveningInParis = {
   ],
   title: "An Evening In Paris",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "aneveninginparis|7FQRbf8gbKw8KZQZAJWxH2|308138",

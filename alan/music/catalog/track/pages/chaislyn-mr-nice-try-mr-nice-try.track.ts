@@ -19,7 +19,6 @@ export const chaislynMrNiceTryMrNiceTry = {
   ],
   title: "Mr. Nice Try",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
   trackKey: "mrnicetry|3zmbniiciaBAJlSX1Bzq9R|189568",

@@ -19,7 +19,6 @@ export const auroraIDrinkTheLightJengiRemixIDrinkTheLightJengiRemix = {
   ],
   title: "I DRINK THE LIGHT - Jengi Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5r0BuurxKQugj8cjHiO8pY", artistName: "TOMORA" },

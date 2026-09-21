@@ -19,7 +19,6 @@ export const jamesTaylorJamesTaylorAtChristmasGoTellItOnTheMountain = {
   ],
   title: "Go Tell It On The Mountain",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "gotellitonthemountain|0vn7UBvSQECKJm2817Yf1P|221413",

@@ -20,7 +20,6 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRoundAndRoundLi
     ],
     title: "Round And Round - Live From Red Rocks / 2014",
     trackType: "live",
-    discNumber: 3,
     explicit: false,
     trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
     trackKey: "roundandroundlivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|218013",

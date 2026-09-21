@@ -19,7 +19,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirlCommentary = 
   ],
   title: "I’m Not That Girl - Commentary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2NqTD8XByzWPCUQQmza0xP", artistName: "Jon Chu" },

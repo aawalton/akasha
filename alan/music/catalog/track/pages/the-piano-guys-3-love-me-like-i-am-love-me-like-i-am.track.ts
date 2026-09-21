@@ -26,7 +26,6 @@ export const thePianoGuys3LoveMeLikeIAmLoveMeLikeIAm = {
   ],
   title: "Love Me Like I Am",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "lovemelikeiam|0jW6R8CVyVohuUJVcuweDI|274166",

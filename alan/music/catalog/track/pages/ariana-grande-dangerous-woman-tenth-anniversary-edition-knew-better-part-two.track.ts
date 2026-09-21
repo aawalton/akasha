@@ -19,7 +19,6 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionKnewBetterPartTwo 
   ],
   title: "Knew Better Part Two",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "knewbetterparttwo|66CXWjxzNUsdJxJ2JdwvnR|164772",

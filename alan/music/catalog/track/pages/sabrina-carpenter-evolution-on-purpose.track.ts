@@ -19,7 +19,6 @@ export const sabrinaCarpenterEvolutionOnPurpose = {
   ],
   title: "On Purpose",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "onpurpose|74KM79TiuVKeVCqs8QtB0B|238133",

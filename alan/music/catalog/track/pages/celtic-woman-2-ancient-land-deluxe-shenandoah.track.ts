@@ -22,7 +22,6 @@ export const celticWoman2AncientLandDeluxeShenandoah = {
   ],
   title: "Shenandoah",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "shenandoah|6NWtt9pNOL2Gx7kBykdE5x|247026",

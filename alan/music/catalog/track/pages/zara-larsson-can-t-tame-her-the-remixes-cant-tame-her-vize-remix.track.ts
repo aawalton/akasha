@@ -22,7 +22,6 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerVizeRemix = {
   ],
   title: "Can't Tame Her - VIZE Remix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },

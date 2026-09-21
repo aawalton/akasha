@@ -19,7 +19,6 @@ export const sabrinaCarpenterSingularActIiTellEm = {
   ],
   title: "Tell Em",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "tellem|74KM79TiuVKeVCqs8QtB0B|280441",

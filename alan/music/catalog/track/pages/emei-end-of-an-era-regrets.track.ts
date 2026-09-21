@@ -19,7 +19,6 @@ export const emeiEndOfAnEraRegrets = {
   ],
   title: "Regrets",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "regrets|7E2aQQjErJocovYFjYLzWU|122253",

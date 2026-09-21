@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12ContinualFeatCoryHenry = {
   ],
   title: "Continual (feat. Cory Henry)",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [
     { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },

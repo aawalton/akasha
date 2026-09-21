@@ -19,7 +19,6 @@ export const celticWoman2AChristmasCelebrationOComeAllYeFaithful = {
   ],
   title: "O Come All Ye Faithful",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "ocomeallyefaithful|6NWtt9pNOL2Gx7kBykdE5x|230813",

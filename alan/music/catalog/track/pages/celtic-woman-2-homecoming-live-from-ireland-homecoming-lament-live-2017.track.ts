@@ -19,7 +19,6 @@ export const celticWoman2HomecomingLiveFromIrelandHomecomingLamentLive2017 = {
   ],
   title: "Homecoming Lament - Live 2017",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "homecominglamentlive2017|6NWtt9pNOL2Gx7kBykdE5x|122040",

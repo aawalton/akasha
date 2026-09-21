@@ -19,7 +19,6 @@ export const jamesTaylor2OneManBandShowerThePeopleLiveAtTheColonialTheatre2007 =
   ],
   title: "Shower The People - Live At The Colonial Theatre / 2007",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "showerthepeopleliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|296373",

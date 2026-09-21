@@ -21,7 +21,6 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemixTakeOnTh
   ],
   title: 'Take On the World - From "Girl Meets World"/Summer Remix/Music from the TV Series',
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "45af7IeC0N5gQ9cyoIFyS6", artistName: "Rowan Blanchard" },

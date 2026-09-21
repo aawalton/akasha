@@ -19,7 +19,6 @@ export const sabrinaCarpenterSingularActIiPushing20 = {
   ],
   title: "Pushing 20",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "pushing20|74KM79TiuVKeVCqs8QtB0B|166233",

@@ -19,7 +19,6 @@ export const coldplayARushOfBloodToTheHeadARushOfBloodToTheHead = {
   ],
   title: "A Rush of Blood to the Head",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "arushofbloodtothehead|4gzpq5DPGxSnKTe4SA8HAU|351400",

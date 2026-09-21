@@ -19,7 +19,6 @@ export const celticWoman2NollaigAChristmasJourneyWexfordCarol = {
   ],
   title: "Wexford Carol",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
   trackKey: "wexfordcarol|6NWtt9pNOL2Gx7kBykdE5x|249451",

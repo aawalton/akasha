@@ -19,7 +19,6 @@ export const jamesTaylor2AmericanStandardOlManRiver = {
   ],
   title: "Ol' Man River",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "olmanriver|0vn7UBvSQECKJm2817Yf1P|173533",

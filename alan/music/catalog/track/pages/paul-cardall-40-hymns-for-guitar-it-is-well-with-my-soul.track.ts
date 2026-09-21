@@ -19,7 +19,6 @@ export const paulCardall40HymnsForGuitarItIsWellWithMySoul = {
   ],
   title: "It Is Well with My Soul",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "itiswellwithmysoul|7FQRbf8gbKw8KZQZAJWxH2|208895",

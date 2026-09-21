@@ -19,7 +19,6 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBadCommentary = {
   ],
   title: "Something Bad - Commentary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "2NqTD8XByzWPCUQQmza0xP", artistName: "Jon Chu" },

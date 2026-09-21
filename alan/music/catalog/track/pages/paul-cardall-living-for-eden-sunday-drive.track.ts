@@ -19,7 +19,6 @@ export const paulCardallLivingForEdenSundayDrive = {
   ],
   title: "Sunday Drive",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "sundaydrive|7FQRbf8gbKw8KZQZAJWxH2|192200",

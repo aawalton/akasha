@@ -19,7 +19,6 @@ export const arianaGrandeSweetenerBetterOff = {
   ],
   title: "better off",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "betteroff|66CXWjxzNUsdJxJ2JdwvnR|171333",

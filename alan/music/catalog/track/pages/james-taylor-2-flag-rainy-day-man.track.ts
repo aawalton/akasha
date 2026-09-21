@@ -19,7 +19,6 @@ export const jamesTaylor2FlagRainyDayMan = {
   ],
   title: "Rainy Day Man",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "rainydayman|0vn7UBvSQECKJm2817Yf1P|179293",

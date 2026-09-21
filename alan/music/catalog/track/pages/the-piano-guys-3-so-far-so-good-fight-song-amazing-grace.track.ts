@@ -19,7 +19,6 @@ export const thePianoGuys3SoFarSoGoodFightSongAmazingGrace = {
   ],
   title: "Fight Song / Amazing Grace",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "fightsongamazinggrace|0jW6R8CVyVohuUJVcuweDI|244789",

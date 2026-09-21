@@ -19,7 +19,6 @@ export const thePianoGuys3MoreThanWordsMoreThanWords = {
   ],
   title: "More Than Words",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "5aIqB5nVVvmFsvSdExz408", artistName: "Johann Sebastian Bach" },

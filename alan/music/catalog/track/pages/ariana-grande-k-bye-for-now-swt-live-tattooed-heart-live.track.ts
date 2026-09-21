@@ -19,7 +19,6 @@ export const arianaGrandeKByeForNowSwtLiveTattooedHeartLive = {
   ],
   title: "tattooed heart - live",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "tattooedheartlive|66CXWjxzNUsdJxJ2JdwvnR|203336",

@@ -19,7 +19,6 @@ export const zaraLarssonVenusYouLoveWhoYouLove = {
   ],
   title: "You Love Who You Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "youlovewhoyoulove|1Xylc3o4UrD53lo9CvFvVg|185743",

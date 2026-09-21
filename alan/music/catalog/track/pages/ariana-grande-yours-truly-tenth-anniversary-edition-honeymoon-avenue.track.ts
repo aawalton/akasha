@@ -19,7 +19,6 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenue = {
   ],
   title: "Honeymoon Avenue",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "honeymoonavenue|66CXWjxzNUsdJxJ2JdwvnR|339734",

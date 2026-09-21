@@ -19,7 +19,6 @@ export const alexandriaTheJesterAndTheQueenTheJesterAndTheQueen = {
   ],
   title: "The Jester and The Queen",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
   trackKey: "thejesterandthequeen|0SQG4wPVUlfbmbGQfqB47y|168867",

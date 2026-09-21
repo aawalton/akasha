@@ -19,7 +19,6 @@ export const coldplayYellowHelpIsRoundTheCorner = {
   ],
   title: "Help Is Round the Corner",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "helpisroundthecorner|4gzpq5DPGxSnKTe4SA8HAU|156160",

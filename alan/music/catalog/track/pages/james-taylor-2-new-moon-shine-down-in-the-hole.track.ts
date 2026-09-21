@@ -19,7 +19,6 @@ export const jamesTaylor2NewMoonShineDownInTheHole = {
   ],
   title: "Down In the Hole",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "downinthehole|0vn7UBvSQECKJm2817Yf1P|315160",

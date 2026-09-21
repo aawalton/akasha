@@ -19,7 +19,6 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2CantHelpFallingIn
   ],
   title: "Can't Help Falling In Love",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
   trackKey: "canthelpfallinginlove|2YQ4MY2VwOMv43C0GemUY5|285962",

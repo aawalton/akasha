@@ -22,7 +22,6 @@ export const sabrinaCarpenterManSBestFriendMyManOnWillpower = {
   ],
   title: "My Man on Willpower",
   trackType: "studio",
-  discNumber: 1,
   explicit: true,
   trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
   trackKey: "mymanonwillpower|74KM79TiuVKeVCqs8QtB0B|197817",

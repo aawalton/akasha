@@ -19,7 +19,6 @@ export const jamesTaylor2ThatSWhyIMHereThatsWhyImHereReprise = {
   ],
   title: "That's Why I'm Here (reprise)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
   trackKey: "thatswhyimherereprise|0vn7UBvSQECKJm2817Yf1P|25933",

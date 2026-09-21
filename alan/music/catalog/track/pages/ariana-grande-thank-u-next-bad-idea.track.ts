@@ -19,7 +19,6 @@ export const arianaGrandeThankUNextBadIdea = {
   ],
   title: "bad idea",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "badidea|66CXWjxzNUsdJxJ2JdwvnR|267106",

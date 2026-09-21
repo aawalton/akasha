@@ -19,7 +19,6 @@ export const billieEilishDontSmileAtMeMyBoy = {
   ],
   title: "my boy",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
   trackKey: "myboy|6qqNVTkY8uBg9cP3Jd7DAH|170852",

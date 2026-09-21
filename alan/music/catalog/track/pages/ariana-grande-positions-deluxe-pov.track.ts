@@ -19,7 +19,6 @@ export const arianaGrandePositionsDeluxePov = {
   ],
   title: "pov",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "pov|66CXWjxzNUsdJxJ2JdwvnR|201882",

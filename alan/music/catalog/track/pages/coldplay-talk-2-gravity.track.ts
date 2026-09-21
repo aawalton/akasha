@@ -19,7 +19,6 @@ export const coldplayTalk2Gravity = {
   ],
   title: "Gravity",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "gravity|4gzpq5DPGxSnKTe4SA8HAU|380946",

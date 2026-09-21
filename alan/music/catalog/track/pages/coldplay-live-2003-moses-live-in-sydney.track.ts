@@ -19,7 +19,6 @@ export const coldplayLive2003MosesLiveInSydney = {
   ],
   title: "Moses - Live in Sydney",
   trackType: "live",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
   trackKey: "mosesliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|329173",

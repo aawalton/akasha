@@ -19,7 +19,6 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDayCommentary = {
   ],
   title: "One Short Day - Commentary",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },

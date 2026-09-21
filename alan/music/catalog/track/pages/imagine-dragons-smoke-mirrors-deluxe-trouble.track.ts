@@ -22,7 +22,6 @@ export const imagineDragonsSmokeMirrorsDeluxeTrouble = {
   ],
   title: "Trouble",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "trouble|53XhwfbYqKCa1cC15pYq2q|191400",

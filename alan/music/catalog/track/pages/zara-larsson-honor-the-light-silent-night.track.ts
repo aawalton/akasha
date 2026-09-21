@@ -19,7 +19,6 @@ export const zaraLarssonHonorTheLightSilentNight = {
   ],
   title: "Silent Night",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
   trackKey: "silentnight|1Xylc3o4UrD53lo9CvFvVg|102066",

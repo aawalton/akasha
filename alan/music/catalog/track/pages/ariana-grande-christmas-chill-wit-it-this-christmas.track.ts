@@ -19,7 +19,6 @@ export const arianaGrandeChristmasChillWitItThisChristmas = {
   ],
   title: "Wit It This Christmas",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "wititthischristmas|66CXWjxzNUsdJxJ2JdwvnR|161269",

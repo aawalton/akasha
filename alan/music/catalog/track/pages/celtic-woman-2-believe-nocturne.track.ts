@@ -19,7 +19,6 @@ export const celticWoman2BelieveNocturne = {
   ],
   title: "Nocturne",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "0V0TbicIQ6nqAWy13mR4BH", artistName: "Rolf Løvland" },

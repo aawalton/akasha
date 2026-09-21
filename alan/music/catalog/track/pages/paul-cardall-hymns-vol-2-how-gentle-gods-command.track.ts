@@ -19,7 +19,6 @@ export const paulCardallHymnsVol2HowGentleGodsCommand = {
   ],
   title: "How Gentle God's Command",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "howgentlegodscommand|7FQRbf8gbKw8KZQZAJWxH2|140080",

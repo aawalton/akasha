@@ -19,7 +19,6 @@ export const imagineDragonsMercuryActs12TakeItEasy = {
   ],
   title: "Take It Easy",
   trackType: "studio",
-  discNumber: 2,
   explicit: false,
   trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
   trackKey: "takeiteasy|53XhwfbYqKCa1cC15pYq2q|158270",

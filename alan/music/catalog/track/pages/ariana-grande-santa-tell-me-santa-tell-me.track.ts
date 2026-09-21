@@ -19,7 +19,6 @@ export const arianaGrandeSantaTellMeSantaTellMe = {
   ],
   title: "Santa Tell Me",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
   trackKey: "santatellme|66CXWjxzNUsdJxJ2JdwvnR|204093",

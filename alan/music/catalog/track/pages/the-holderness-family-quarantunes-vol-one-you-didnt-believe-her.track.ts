@@ -19,7 +19,6 @@ export const theHoldernessFamilyQuarantunesVolOneYouDidntBelieveHer = {
   ],
   title: "You Didn't Believe Her",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
   trackKey: "youdidntbelieveher|6tITG4T8LpC0msapZ4wXGA|157492",

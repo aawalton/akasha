@@ -19,7 +19,6 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLoveTwilight
   ],
   title: "Bring Your Love - Twilight Mix",
   trackType: "remix",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "6tbjWDEIzxoDsBA1FuhfPW", artistName: "Madonna" },

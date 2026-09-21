@@ -19,7 +19,6 @@ export const celticWoman2BelieveTeirAbhaileRiu = {
   ],
   title: "Teir Abhaile Riu",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [
     { externalId: "4Jl3FibWLX8mi6TtTryovX", artistName: "David Downes" },

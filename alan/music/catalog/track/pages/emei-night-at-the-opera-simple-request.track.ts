@@ -19,7 +19,6 @@ export const emeiNightAtTheOperaSimpleRequest = {
   ],
   title: "Simple Request",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
   trackKey: "simplerequest|7E2aQQjErJocovYFjYLzWU|229185",

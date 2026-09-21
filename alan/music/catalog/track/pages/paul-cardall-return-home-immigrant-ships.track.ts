@@ -19,7 +19,6 @@ export const paulCardallReturnHomeImmigrantShips = {
   ],
   title: "Immigrant Ships",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
   trackKey: "immigrantships|7FQRbf8gbKw8KZQZAJWxH2|206442",

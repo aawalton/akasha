@@ -19,7 +19,6 @@ export const thePianoGuys310AvatarTheTheme = {
   ],
   title: "Avatar (The Theme)",
   trackType: "studio",
-  discNumber: 1,
   explicit: false,
   trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
   trackKey: "avatarthetheme|0jW6R8CVyVohuUJVcuweDI|183250",

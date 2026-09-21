@@ -22,7 +22,6 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     ],
     title: "don't wanna break up again - instrumental",
     trackType: "instrumental",
-    discNumber: 1,
     explicit: false,
     trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
     trackKey: "dontwannabreakupagaininstrumental|66CXWjxzNUsdJxJ2JdwvnR|174006",
