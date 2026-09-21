@@ -39,6 +39,14 @@ export function declaredIn(scope: ts.Node): ReadonlyMap<string, ts.Node> {
       found.set(node.name.text, node.name)
     } else if (ts.isImportClause(node) && node.name !== undefined) {
       found.set(node.name.text, node.name)
+    } else if (
+      ts.isInterfaceDeclaration(node) ||
+      ts.isTypeAliasDeclaration(node) ||
+      ts.isEnumDeclaration(node)
+    ) {
+      found.set(node.name.text, node.name)
+    } else if (ts.isModuleDeclaration(node) && ts.isIdentifier(node.name)) {
+      found.set(node.name.text, node.name)
     }
     if (node !== scope && scoping(node)) return
     ts.forEachChild(node, walk)

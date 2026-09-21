@@ -50,6 +50,13 @@ test("a name a scope above declares is bound where that scope declares it", () =
   expect(ts.isSourceFile(bound?.scope ?? source)).toBe(true)
 })
 
+test("a type, an interface, an enum and a namespace each declare a name too", () => {
+  const source = sourceOf(
+    "type Nine = number\ninterface Ten {}\nenum Eleven {}\nnamespace Twelve {}\n"
+  )
+  expect([...declaredIn(source).keys()].sort()).toEqual(["Eleven", "Nine", "Ten", "Twelve"])
+})
+
 test("an identifier no scope out to the file declares is bound by nothing", () => {
   const source = sourceOf("nowhere()\n")
   expect(bindingOf(lastNamed(source, "nowhere"))).toBeNull()

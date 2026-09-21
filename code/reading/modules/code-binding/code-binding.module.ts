@@ -39,8 +39,12 @@ export const codeBinding = {
       statement: "A name inside an import or export specifier reads as no reference.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A type, an interface, an enum and a namespace each declare a name too.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "A type, an interface, an enum and a type parameter declare no name here.",
+      statement: "A type parameter declares no name here.",
     },
     {
       decisionKind: "decision-kind/absence",
