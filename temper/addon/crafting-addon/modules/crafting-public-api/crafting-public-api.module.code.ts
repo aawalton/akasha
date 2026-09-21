@@ -12,6 +12,7 @@ import {
   cookShowCategory,
 } from "akasha/temper/addon/crafting-addon/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts"
 import { isItemStoredForTemperCrafting } from "akasha/temper/addon/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"
+import { queue } from "akasha/temper/addon/crafting-addon/modules/craft-queue/craft-queue.module.code.ts"
 import {
   closeRecipeWindow,
   recipeSearch,
@@ -40,10 +41,7 @@ import {
   controlShow,
   showMain,
 } from "akasha/temper/addon/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
-import {
-  queue,
-  travelToNode,
-} from "akasha/temper/addon/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
+import { travelToNode } from "akasha/temper/addon/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import {
   getItemQuantity,
   isLearnable,

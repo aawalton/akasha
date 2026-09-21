@@ -22,6 +22,10 @@ import {
   updateRecipeKnowledge,
 } from "akasha/temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import {
+  queue,
+  scrollText,
+} from "akasha/temper/addon/crafting-addon/modules/craft-queue/craft-queue.module.code.ts"
+import {
   addResearchItem,
   updateResearch,
 } from "akasha/temper/addon/crafting-addon/modules/craft-research/craft-research.module.code.ts"
@@ -34,10 +38,6 @@ import {
   showMain,
   updateScreen,
 } from "akasha/temper/addon/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
-import {
-  queue,
-  scrollText,
-} from "akasha/temper/addon/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import {
   CB_ADD_RESEARCH_ITEM,
   CB_CONTROL_SHOW,

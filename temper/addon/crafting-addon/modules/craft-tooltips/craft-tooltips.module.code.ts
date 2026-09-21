@@ -1,4 +1,5 @@
 import { LANG } from "akasha/temper/addon/crafting-addon/modules/craft-lang-index/craft-lang-index.module.code.ts"
+import { getTimer } from "akasha/temper/addon/crafting-addon/modules/craft-queue/craft-queue.module.code.ts"
 import * as Utilities from "akasha/temper/addon/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import * as DataValidation from "akasha/temper/addon/crafting-addon/modules/craft-validation/craft-validation.module.code.ts"
 import { MAXCRAFT } from "akasha/temper/addon/crafting-addon/modules/crafting-constants/crafting-constants.module.code.ts"
@@ -30,7 +31,7 @@ export function setTimer(control: TemperCraftingButton, hour: number): undefined
     control.SetText(Utilities.getTime(seconds - 1))
     account.timer[hour] = seconds + GetTimeStamp()
   }
-  Utilities.getTimer()
+  getTimer()
 }
 
 export interface CsTooltipOwner extends TemperCraftingControl {

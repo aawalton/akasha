@@ -199,6 +199,7 @@ export const temperCraftingAddon = {
     "module/crafting-events-handlers-station",
     "module/craft-style-rows",
     "module/craft-research-trait-icon",
+    "module/craft-queue",
   ],
   interfaces: [
     "eso-interface/craft-store-blueprint-layout",

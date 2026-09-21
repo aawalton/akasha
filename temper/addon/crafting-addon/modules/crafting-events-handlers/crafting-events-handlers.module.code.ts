@@ -12,6 +12,7 @@ import {
   updateRecipeKnowledge,
 } from "akasha/temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"
 import { updateQuest } from "akasha/temper/addon/crafting-addon/modules/craft-quest-tracking/craft-quest-tracking.module.code.ts"
+import { getTimer } from "akasha/temper/addon/crafting-addon/modules/craft-queue/craft-queue.module.code.ts"
 import { recipeLearned } from "akasha/temper/addon/crafting-addon/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import {
   updateAllStudies,
@@ -34,7 +35,6 @@ import {
   controlCloseAll,
   initPreviews,
 } from "akasha/temper/addon/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
-import { getTimer } from "akasha/temper/addon/crafting-addon/modules/craft-utilities/craft-utilities.module.code.ts"
 import { STATE } from "akasha/temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"
 import { runeView } from "akasha/temper/addon/crafting-addon/modules/rune-panel/rune-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
