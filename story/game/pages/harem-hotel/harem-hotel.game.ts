@@ -67,4 +67,5 @@ export const haremHotel = {
   ],
   loreEntries: "jsonl",
   designEntries: "jsonl",
+  mechanicRuns: "jsonl",
 } as const satisfies Game
