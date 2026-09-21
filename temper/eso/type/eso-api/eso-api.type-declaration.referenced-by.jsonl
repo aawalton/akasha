@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-inventory/craft-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-player-state/craft-player-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-research-grid/craft-research-grid.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-rune-refining/craft-rune-refining.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-rune-selection/craft-rune-selection.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
