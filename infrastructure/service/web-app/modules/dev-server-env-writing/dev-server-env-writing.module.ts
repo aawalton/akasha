@@ -27,14 +27,6 @@ export const devServerEnvWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The public copies are minted only where a Supabase key is among the secrets.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A secret the resource already names is never overwritten by a minted value.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The file is written readable by its owner alone.",
     },
     {
@@ -50,9 +42,8 @@ export const devServerEnvWriting = {
       statement: "The write is named here, so every caller names it the same way.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A value the resource names only under its public spelling is copied to the browser name too.",
+      decisionKind: "decision-kind/absence",
+      statement: "No key is written that the resource does not name.",
     },
   ],
 } as const satisfies Module

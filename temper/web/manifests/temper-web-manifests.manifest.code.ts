@@ -208,12 +208,7 @@ function webDeploymentYaml(): string {
   })
 }
 
-export const BUILD_ENV = [
-  {
-    name: "NEXT_PUBLIC_ELECTRIC_URL",
-    value: "https://supabase.alanwalton.com/electric/v1/shape",
-  },
-] as const
+export const BUILD_ENV = [] as const
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return synthWebDeploymentService(webDeploymentYaml, () =>
