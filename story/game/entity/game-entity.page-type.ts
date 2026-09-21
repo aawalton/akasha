@@ -20,6 +20,7 @@ export const gameEntity = {
       maxCount: null,
     },
     { pageProperty: "record-property/entity-traits", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/entity-titles", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -53,5 +54,6 @@ export const gameEntity = {
     "text-property/sheet-effect",
     "text-property/sheet-source",
     "record-property/entity-traits",
+    "record-property/entity-titles",
   ],
 } as const satisfies PageType
