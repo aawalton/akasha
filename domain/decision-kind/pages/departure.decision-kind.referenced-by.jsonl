@@ -2204,6 +2204,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/long-answering/long-answering.module.ts","id":"01a0956d-dad6-7000-bca1-cb148c7ff3f1"}
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}
 {"propertySlug":"decision-kind","path":"command/pages/read/read.command.ts","id":"01a04bec-10b4-7e86-aeae-ed252396f186"}
+{"propertySlug":"decision-kind","path":"command/pages/refresh/attribute/refresh-attribute.command.ts","id":"01a08209-d5d9-7d6a-8ba8-e42a8b51316b"}
 {"propertySlug":"decision-kind","path":"command/pages/refresh/message/refresh-message.command.ts","id":"01a082fe-341d-7593-8cfd-8216a7e94c2c"}
 {"propertySlug":"decision-kind","path":"command/pages/refresh/persona/refresh-persona.command.ts","id":"01a082e7-c8d0-7100-993a-5d7b2a70490d"}
 {"propertySlug":"decision-kind","path":"command/pages/seat/messaged/seat-messaged.command.ts","id":"01a0780e-7f14-71fd-ac09-b12de342c207"}
@@ -3213,6 +3214,7 @@
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/feature-request.page-type.ts","id":"01a0b79b-96bb-779c-bc1e-65ffdce6bfe0"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-backing.record-property.ts","id":"01a0c4a7-faa9-7331-b4f4-8698261e526d"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts","id":"01a0c4a6-ca45-7fb5-9213-210805796619"}
+{"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-standing.select-property.ts","id":"01a0c4af-4fde-7ecd-9cc5-4dbeb9eaf2c5"}
 {"propertySlug":"decision-kind","path":"product/kofi/kofi.domain.ts","id":"01a0b789-a595-7afe-8aee-1d895f33815c"}
 {"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/movement/movement.module.ts","id":"01a0ba9a-9aa0-7d5a-a08f-4fd31546c134"}
 {"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.ts","id":"01a0ba94-259d-76eb-abb6-1b5550909276"}
