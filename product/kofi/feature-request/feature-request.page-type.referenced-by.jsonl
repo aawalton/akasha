@@ -1,2 +1,5 @@
 {"propertySlug":"page-domain","path":"domain/initiative/pages/aine-requests.initiative.ts","id":"01a0b79c-7791-7361-9dfd-ddc209fb5fee"}
 {"propertySlug":"parts","path":"product/kofi/kofi.domain.ts","id":"01a0b789-a595-7afe-8aee-1d895f33815c"}
+{"propertySlug":"view-page-type","path":"page/view/pages/requests-open.view.ts","id":"01a0c4b3-a499-7a82-b1b0-02a39d4f0130"}
+{"propertySlug":"view-page-type","path":"page/view/pages/requests-settled.view.ts","id":"01a0c4b3-a499-7b8c-a333-9434b44deee2"}
+{"propertySlug":"view-page-type","path":"page/view/pages/requests-waiting.view.ts","id":"01a0c4b3-a499-7229-bed2-198981b838ae"}

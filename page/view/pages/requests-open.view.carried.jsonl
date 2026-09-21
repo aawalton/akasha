@@ -1,0 +1,11 @@
+{"id":"01a0c4b3-a499-7a82-b1b0-02a39d4f0130"}
+{"layout":"cards"}
+{"narrows":[{"key":"feature-request-standing","comparison":"is","values":["published"]}]}
+{"nav":"nav/requests"}
+{"pageType":"page-type/feature-request"}
+{"slug":"requests-open"}
+{"title":"Open"}
+{"type":"page-type/view"}
+{"viewPlace":0}
+{"viewSorts":[{"key":"title","descending":false}]}
+{"visibleProperties":["feature-request-product","feature-request-ask"]}
