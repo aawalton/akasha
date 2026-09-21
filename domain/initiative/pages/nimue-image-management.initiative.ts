@@ -43,6 +43,11 @@ export const nimueImageManagement = {
       workingMemory:
         "`grade` is already a rank property, `Alan's mark for how well a picture caught the persona`, on a ladder from F to S+. It is declared on `persona-anchor-image` alone, and `image.page-type.ts` declares no properties at all. Alan's word for this is rating and the repository's word is grade; one name is kept rather than two, so grade is the name.",
     },
+    {
+      statement: "Every image Alan has already graded keeps that grade.",
+      workingMemory:
+        "`~/To Process/Sorted` holds the grade as a folder and nowhere else: S+ 1, S 19, S- 29, A+ 97, A 160, A- 299, B+ 402, B 222, B- 166, 1,395 files in all. A migration reading only bytes loses every mark. 624 of those files are byte-identical to a file elsewhere in the tree, so a dedup keeping an arbitrary copy loses the mark too, and the graded copy is the one to keep. `To Sort` holds 1,520 files carrying no mark.",
+    },
   ],
   constraints: [
     "An image's bytes are a file property akasha does not commit, and the image's page is committed.",
