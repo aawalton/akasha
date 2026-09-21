@@ -24,6 +24,7 @@ export const checkCode = {
     "check-code/file-length",
     "check-code/folder-matches-a-shape",
     "check-code/global-declared-once",
+    "check-code/global-is-set-before-it-is-read",
     "check-code/hand-written-global-is-no-method",
     "check-code/held-addon-names-a-roster-addon",
     "check-code/id-is-a-uuid-version-7",

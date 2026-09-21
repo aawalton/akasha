@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"alan/track/modules/landing/track-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"name-drawing.module.code.ts","path":"check/modules/refusal-text/refusal-text.module.code.ts"}

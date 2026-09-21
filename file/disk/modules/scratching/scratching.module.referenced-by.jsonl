@@ -61,6 +61,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.check-code.audit.test.ts"}
@@ -291,6 +292,7 @@
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/file-length/file-length.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/file-length/file-length.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.audit.test.ts"}

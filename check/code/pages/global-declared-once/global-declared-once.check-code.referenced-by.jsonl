@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"global-declared-once.check-code.decision.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"global-declared-once.check-code.decision.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"global-declared-once.check-code.decision.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.decision.test.ts"}
+{"propertySlug":"import","fileName":"global-declared-once.check-code.decision.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"global-declared-once.check-code.decision.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"global-declared-once.check-code.decision.test-fixtures.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"global-declared-once.check-code.decision.test-fixtures.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.decision.test.ts"}

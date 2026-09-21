@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.test-fixtures.ts"}

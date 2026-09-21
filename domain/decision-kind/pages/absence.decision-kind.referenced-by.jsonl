@@ -740,6 +740,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.ts","id":"01a09d18-8d7c-7838-a182-93dea1d06ca2"}
 {"propertySlug":"decision-kind","path":"check/code/pages/folder-matches-a-shape/modules/one-type-only/one-type-only.module.ts","id":"01a09c36-f538-72e2-9125-1f0b39671fa5"}
 {"propertySlug":"decision-kind","path":"check/code/pages/global-declared-once/global-declared-once.check-code.ts","id":"01a061ca-2484-773a-8dc7-e6a08fe588f9"}
+{"propertySlug":"decision-kind","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.ts","id":"01a0c5ef-78de-7000-82a2-cb946db0e84d"}
 {"propertySlug":"decision-kind","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.ts","id":"01a0823c-3bff-7d55-9301-1297ad069ef4"}
 {"propertySlug":"decision-kind","path":"check/code/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.check-code.ts","id":"01a0824c-b5c0-7a41-9d3e-5c8f0b621e74"}
 {"propertySlug":"decision-kind","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.ts","id":"01a04bcb-c6f6-726e-ad7e-718958087eb4"}

@@ -50,6 +50,7 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.code.ts"}
