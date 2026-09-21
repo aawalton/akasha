@@ -2,11 +2,11 @@
 {"character":"erin-solstice"}
 {"completionCardId":"guild-sales"}
 {"displayOrder":12}
-{"dueDate":"2026-09-21"}
+{"dueDate":"2026-09-28"}
 {"effectiveCharacter":"erin-solstice"}
 {"esoCharacterId":"8796093022338107"}
 {"id":"019db533-f381-758e-8b24-0a120b8857e8"}
-{"lastCompletedAt":"2026-09-14T18:55:18.372Z"}
+{"lastCompletedAt":"2026-09-21T19:39:05.851Z"}
 {"priority":"p2"}
 {"rruleAnchorFromCompletion":false}
 {"rruleRule":"FREQ=WEEKLY;BYDAY=MO"}
