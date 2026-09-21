@@ -117,6 +117,14 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
         ? `font-semibold text-accent ${surfaceClass(2)}`
         : "text-secondary hover:bg-surface-2 hover:text-primary"
     )
+    const content = (
+      <>
+        {item.iconStatic ??
+          item.iconSlot ??
+          (item.icon && <item.icon className="h-5 w-5 shrink-0" />)}
+        <span>{item.label}</span>
+      </>
+    )
 
     if (item.external) {
       return (
@@ -127,7 +135,7 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
           rel="noopener noreferrer"
           className={linkClassName}
         >
-          <span>{item.label}</span>
+          {content}
         </a>
       )
     }
@@ -135,7 +143,7 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
     if (item.href == null) {
       return (
         <span key={item.id} className={linkClassName}>
-          <span>{item.label}</span>
+          {content}
         </span>
       )
     }
@@ -147,7 +155,7 @@ function AppShellSidebar({ config }: AppShellSidebarProps) {
         className={linkClassName}
         aria-current={isActive ? "page" : undefined}
       >
-        <span>{item.label}</span>
+        {content}
       </LayoutLink>
     )
   }
