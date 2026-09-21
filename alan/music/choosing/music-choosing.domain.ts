@@ -7,7 +7,6 @@ export const musicChoosing = {
   definition: "the choice of what Alan hears next",
   parts: [
     "module/music-exploration",
-    "module/rating-ladder",
     "module/track-candidate",
     "module/track-resolving",
     "module/unheard-picking",

@@ -43,8 +43,16 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A grade of `B-` or better is liked.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No rung of the ladder is written out here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "An artist is loved where `B-` or better rests on that artist or on a song of that artist.",
+        "An artist is loved where a liked grade rests on that artist or on a song of that artist.",
     },
     {
       decisionKind: "decision-kind/departure",

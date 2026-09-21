@@ -3,10 +3,12 @@ import {
   type Catalog,
   type CatalogArtist,
   type CatalogSong,
+  isLiked,
   selectNextArtist,
   selectNextExploration,
   selectNextSong,
 } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
+import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 
 function artist(slug: string, fields: Partial<CatalogArtist> = {}): CatalogArtist {
   return { slug, title: slug, ...fields }
@@ -25,6 +27,29 @@ function song(slug: string, artistSlug: string, fields: Partial<CatalogSong> = {
 function catalog(artists: readonly CatalogArtist[], songs: readonly CatalogSong[] = []): Catalog {
   return { artists, songs }
 }
+
+describe("isLiked", () => {
+  test("likes B- and everything above it", () => {
+    expect(isLiked("B-")).toBe(true)
+    expect(isLiked("B+")).toBe(true)
+    expect(isLiked("S+")).toBe(true)
+  })
+
+  test("does not like C+ or anything below it", () => {
+    expect(isLiked("C+")).toBe(false)
+    expect(isLiked("C")).toBe(false)
+    expect(isLiked("F")).toBe(false)
+  })
+
+  test("does not like what Alan has not graded", () => {
+    expect(isLiked(undefined)).toBe(false)
+  })
+
+  test("likes nine of the sixteen grades the ladder states", () => {
+    expect(gradeProperty.values.length).toBe(16)
+    expect(gradeProperty.values.filter((one) => isLiked(one)).length).toBe(9)
+  })
+})
 
 describe("selectNextSong", () => {
   test("offers the ungraded song that comes first by title", () => {

@@ -1,8 +1,8 @@
 import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
 import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
-import { isLiked } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
 
 export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "grade">
 
@@ -29,6 +29,16 @@ export type Exploration =
 type Named = { readonly title: string; readonly slug: string }
 
 const GRADE_WEIGHT = 100
+
+const LIKED_FROM: Grade = "B-"
+
+const LIKED_GRADES: ReadonlySet<Grade> = new Set<Grade>(
+  gradeProperty.values.slice(gradeProperty.values.indexOf(LIKED_FROM))
+)
+
+export function isLiked(grade: Grade | undefined): boolean {
+  return grade !== undefined && LIKED_GRADES.has(grade)
+}
 
 function normalizeTitle(title: string): string {
   return title.toLowerCase().replace(/[^a-z0-9]+/g, "")

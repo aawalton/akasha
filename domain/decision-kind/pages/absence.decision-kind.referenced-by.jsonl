@@ -458,7 +458,6 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/track.page-type.ts","id":"01a0a57b-23fe-7c3a-92e1-06b28a781b17"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.ts","id":"01a06281-4d9d-7002-aee3-ff60658dc599"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/playlist-reconciling/playlist-reconciling.module.ts","id":"01a0c512-2e2b-797f-b0e7-3f85dde85399"}
-{"propertySlug":"decision-kind","path":"alan/music/choosing/modules/rating-ladder/rating-ladder.module.ts","id":"01a06281-4d9d-7001-9db5-f9ea87db3f71"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/track-candidate/track-candidate.module.ts","id":"01a06281-4d9d-7003-a5cb-de0f475a7e60"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/track-picking/track-picking.module.ts","id":"01a0c578-3b36-7de0-95ef-8274663f6c91"}
 {"propertySlug":"decision-kind","path":"alan/music/choosing/modules/ungraded-picking/ungraded-picking.module.ts","id":"01a0c581-61af-764e-8d72-3588a1f73858"}
