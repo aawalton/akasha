@@ -3,7 +3,7 @@
 
 > Sex with Jen — the 20-year marital-sexual relationship given as description not narrative: the wedding night (first time for both, lights off as a sensory-management standard), the mechanics and the weight/confinement valence inversion, birth control and pacing history, the initiation contract, Jen's growth in accepting sex, the orgasm asymmetry (he ~98%, she <5% full climax), and the after-sex emotional vs. physiological drops.
 
-The 20-year marital-sexual relationship. I give it as **description, not narrative** — that is what exists in my [conceptual map](../present-tense-model.book-chapter.md#what-remembering-actually-is); twenty years compress to structure, not a story. The relational lead-up (how Jen and I met and married) is in [relational-history.md](relational-history.book-chapter.md); this note is the marriage's sexual interior.
+The 20-year marital-sexual relationship. I give it as **description, not narrative** — that is what exists in my [conceptual map](book-section/all-about-alan/present-tense-model#what-remembering-actually-is); twenty years compress to structure, not a story. The relational lead-up (how Jen and I met and married) is in [relational-history.md](book-section/all-about-alan/relational-history); this note is the marriage's sexual interior.
 
 ## The wedding night
 
@@ -18,7 +18,7 @@ Almost all of our sexual interaction has been standard intercourse: roughly **80
 ## Birth control and pacing
 
 - **Birth control.** For the first ~four years, when we weren't ready for kids, we did outercourse instead. After that we adopted condoms, and that has been our only birth-control method ever since. We had unprotected sex only when we wanted to have kids. We've had **three kids.**
-- **Pacing.** At the very beginning, about once per week. After kids were born it dropped to about once a month, and monthly has been the most common pacing throughout — though irregular, as everything is for both of us. Jen has trouble if she doesn't get intimacy around once a month, so that is her natural pacing, usually **aligned with her cycle.** (I have no comparable clock — see [horniness-as-hunger](regulation-not-desire.book-chapter.md#horniness-is-like-hunger).)
+- **Pacing.** At the very beginning, about once per week. After kids were born it dropped to about once a month, and monthly has been the most common pacing throughout — though irregular, as everything is for both of us. Jen has trouble if she doesn't get intimacy around once a month, so that is her natural pacing, usually **aligned with her cycle.** (I have no comparable clock — see [horniness-as-hunger](book-section/all-about-alan/regulation-not-desire#horniness-is-like-hunger).)
 
 ## The initiation contract
 
@@ -46,8 +46,8 @@ The remediation came later and is simple on both sides. I've learned to **linger
 
 ## Cross-references
 
-- [sexuality-knot.md](../sexuality-knot.book-chapter.md) — the marriage layer of the three-layer entanglement; this note is the "marriage / Jen" layer's contents.
-- [relational-history.md](relational-history.book-chapter.md) — how Jen and I met and married; the chaste lead-up and the marriage decision this note's interior follows from.
-- [regulation-not-desire.md → horniness is like hunger](regulation-not-desire.book-chapter.md#horniness-is-like-hunger) — why I have no cycle-clock of my own against Jen's monthly pacing; the declining-attitude reading that sits beside this account.
-- [present-tense-model.md → what remembering actually is](../present-tense-model.book-chapter.md#what-remembering-actually-is) — why twenty years come out as description, not narrative: the conceptual map holds structure, not stored episodes.
-- [central-loneliness.md](../central-loneliness.book-chapter.md) — the wider marriage frame (the conflict, the conditional landing, the eating-as-care channel) this sexual interior sits inside.
+- [sexuality-knot.md](book-section/all-about-alan/sexuality-knot) — the marriage layer of the three-layer entanglement; this note is the "marriage / Jen" layer's contents.
+- [relational-history.md](book-section/all-about-alan/relational-history) — how Jen and I met and married; the chaste lead-up and the marriage decision this note's interior follows from.
+- [regulation-not-desire.md → horniness is like hunger](book-section/all-about-alan/regulation-not-desire#horniness-is-like-hunger) — why I have no cycle-clock of my own against Jen's monthly pacing; the declining-attitude reading that sits beside this account.
+- [present-tense-model.md → what remembering actually is](book-section/all-about-alan/present-tense-model#what-remembering-actually-is) — why twenty years come out as description, not narrative: the conceptual map holds structure, not stored episodes.
+- [central-loneliness.md](book-section/all-about-alan/central-loneliness) — the wider marriage frame (the conflict, the conditional landing, the eating-as-care channel) this sexual interior sits inside.

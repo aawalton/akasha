@@ -3,7 +3,7 @@
 
 > Software and SaaS audit — inventory of every recurring software dependency I currently rely on, with a trust grade per `grading-scale.md`. Surfaces the behavior-over-structure pattern (Anthropic), concentration-is-not-trust (Cloudflare), capture-by-acquisition (Mint Mobile), and email-as-identity-recovery-anchor (Gmail).
 
-Every SaaS and recurring software dependency I currently lean on. Grades per [grading-scale.md](grading-scale.book-chapter.md). The grade is **behavior over structure** — what the organization has actually done recently, not what its governance documents promise. Concentration is **not** a trust factor; it lands in the plan as a criticality multiplier per [ranking-criterion.md](ranking-criterion.book-chapter.md), not in the trust grade.
+Every SaaS and recurring software dependency I currently lean on. Grades per [grading-scale.md](book-section/all-about-alan/grading-scale). The grade is **behavior over structure** — what the organization has actually done recently, not what its governance documents promise. Concentration is **not** a trust factor; it lands in the plan as a criticality multiplier per [ranking-criterion.md](book-section/all-about-alan/ranking-criterion), not in the trust grade.
 
 ## Inventory
 
@@ -27,13 +27,13 @@ Every SaaS and recurring software dependency I currently lean on. Grades per [gr
 
 #### Anthropic
 
-- **Service.** Claude API for Claude Code, the agent runtime that drives most of my development work, and AI-as-skill-amplifier across the household (cooking, medical, financial, auto, home repair, gardening, textiles, negotiation — see [personal-context.md](personal-context.book-chapter.md)).
+- **Service.** Claude API for Claude Code, the agent runtime that drives most of my development work, and AI-as-skill-amplifier across the household (cooking, medical, financial, auto, home repair, gardening, textiles, negotiation — see [personal-context.md](book-section/all-about-alan/personal-context)).
 - **Grade.** **D.** Downgraded from B earlier this year.
 - **Reservations — specific behaviors that drove the downgrade.**
   1. **Silent service degradation without communication.** Paying customers received a materially downgraded experience without disclosure. Textbook enshittification: extracting from paying users while withholding the information that would let them make an informed decision about staying.
-  2. **Target-selection use in the Iran strikes that killed civilians, including 120 children.** Anthropic publicly committed to no autonomous-killing-drone use of Claude, then allowed Claude to be used for target selection in strikes that killed civilians at scale. Mission betrayal at the highest stakes — failed the "demonstrated resistance under pressure" test ([trust-criterion.md → demonstrated resistance](trust-criterion.book-chapter.md#what-demonstrated-resistance-looks-like)) on the single most-publicized ethical commitment the company had made.
+  2. **Target-selection use in the Iran strikes that killed civilians, including 120 children.** Anthropic publicly committed to no autonomous-killing-drone use of Claude, then allowed Claude to be used for target selection in strikes that killed civilians at scale. Mission betrayal at the highest stakes — failed the "demonstrated resistance under pressure" test ([trust-criterion.md → demonstrated resistance](book-section/all-about-alan/trust-criterion#what-demonstrated-resistance-looks-like)) on the single most-publicized ethical commitment the company had made.
 - **Criticality.** Load-bearing for AI-as-skill-amplifier. Failure mode is graceful-degradation back to baseline amateur skill levels by domain, but the degradation is large.
-- **Notes.** Canonical worked example of **behavior over structure**. Anthropic carries every structural alignment signal the framework values — PBC governance, Long-Term Benefit Trust, an explicit public safety mission, the marketing posture of an aligned actor. None of it prevented the behaviors above. The structural signals are informational; the behavior is dispositive. Cross-link this entry from [grading-scale.md](grading-scale.book-chapter.md) when the framework note next gets revised — this is the clearest demonstration the audit has produced so far.
+- **Notes.** Canonical worked example of **behavior over structure**. Anthropic carries every structural alignment signal the framework values — PBC governance, Long-Term Benefit Trust, an explicit public safety mission, the marketing posture of an aligned actor. None of it prevented the behaviors above. The structural signals are informational; the behavior is dispositive. Cross-link this entry from [grading-scale.md](book-section/all-about-alan/grading-scale) when the framework note next gets revised — this is the clearest demonstration the audit has produced so far.
 
 #### Monarch Money
 
@@ -41,7 +41,7 @@ Every SaaS and recurring software dependency I currently lean on. Grades per [gr
 - **Grade.** **C.**
 - **Reservations.** Not actively bad. Young startup with no strong alignment signal in either direction. Specific concerns: stability (typical startup financials, no obvious path to durable independence) and the likely-to-enshittify trajectory that startups in this category have repeatedly followed.
 - **Criticality.** Medium. Convenience aggregation; replaceable but the data continuity matters.
-- **Notes.** Default C — the absence of evidence in either direction. Worth watching for capture-event signals per [capture-events.md](capture-events.book-chapter.md).
+- **Notes.** Default C — the absence of evidence in either direction. Worth watching for capture-event signals per [capture-events.md](book-section/all-about-alan/capture-events).
 
 ### Load-bearing personal-use SaaS
 
@@ -51,7 +51,7 @@ Every SaaS and recurring software dependency I currently lean on. Grades per [gr
 - **Grade.** **D.**
 - **Reservations.** Google as parent organization. The grade is on Google's behavior overall, not on Gmail-the-product.
 - **Criticality.** Life-critical, indirectly. Loss of Gmail control cascades into authentication-recovery failure on a long tail of downstream accounts.
-- **Notes.** Email-as-identity-recovery-anchor is its own framework concept — the cascading-dependency pattern where one account's control determines authentication-recovery for a downstream cluster. The framework home is [identity-recovery-anchor.md](identity-recovery-anchor.book-chapter.md), including the OAuth-login vs recovery-anchor split (OAuth = accept bucket, no viable alternative; recovery = the part to replace and potentially self-host).
+- **Notes.** Email-as-identity-recovery-anchor is its own framework concept — the cascading-dependency pattern where one account's control determines authentication-recovery for a downstream cluster. The framework home is [identity-recovery-anchor.md](book-section/all-about-alan/identity-recovery-anchor), including the OAuth-login vs recovery-anchor split (OAuth = accept bucket, no viable alternative; recovery = the part to replace and potentially self-host).
 
 #### Google Drive (Google)
 
@@ -64,7 +64,7 @@ Every SaaS and recurring software dependency I currently lean on. Grades per [gr
 
 - **Service.** Cellular carrier for 5 phones (household of 5).
 - **Grade.** **D.**
-- **Reservations.** Single-vendor concentration for household communications. **T-Mobile's acquisition of Mint Mobile closed in 2024** — that is a textbook capture event per [capture-events.md](capture-events.book-chapter.md). Trust resets to zero on the acquisition; the D grade is already reflective of the new parent.
+- **Reservations.** Single-vendor concentration for household communications. **T-Mobile's acquisition of Mint Mobile closed in 2024** — that is a textbook capture event per [capture-events.md](book-section/all-about-alan/capture-events). Trust resets to zero on the acquisition; the D grade is already reflective of the new parent.
 - **Criticality.** Life-critical. Five-person household communications.
 - **Notes.** Concrete demonstration of the capture-event rule. The pre-acquisition Mint Mobile track record is informational only — it tells me what the old entity did, not what T-Mobile will do with the asset.
 
@@ -95,10 +95,10 @@ All convenience-tier with low exposure; no urgent need to grade individually rig
 
 ## Framework patterns surfaced from this audit
 
-- **Behavior over structure.** Anthropic's downgrade is the cleanest worked example the audit has produced. PBC governance, Long-Term Benefit Trust, and a public safety mission did not prevent silent service degradation or the Iran-strikes target-selection use. The grade follows behavior, not the governance documents. Cross-link from [grading-scale.md](grading-scale.book-chapter.md) next revision.
-- **Concentration is not a trust factor.** Cloudflare's B grade is independent of how concentrated my Cloudflare dependency is. Concentration affects criticality in the plan-stage ranking per [ranking-criterion.md](ranking-criterion.book-chapter.md), not the trust grade itself. The grade is about the organization; the concentration is about my dependency graph.
-- **Capture event by acquisition.** Mint Mobile's T-Mobile acquisition triggers the capture-event rule per [capture-events.md](capture-events.book-chapter.md). Trust resets to zero. The D grade already reflects the new ownership rather than the pre-acquisition track record.
-- **Email as identity-recovery anchor.** Gmail's D status carries downstream risk because email controls password resets for most other accounts. The cascading-dependency shape — one account's control determines authentication-recovery for a downstream cluster — is its own framework concept, now in [identity-recovery-anchor.md](identity-recovery-anchor.book-chapter.md) (with the OAuth-login vs recovery-anchor split).
+- **Behavior over structure.** Anthropic's downgrade is the cleanest worked example the audit has produced. PBC governance, Long-Term Benefit Trust, and a public safety mission did not prevent silent service degradation or the Iran-strikes target-selection use. The grade follows behavior, not the governance documents. Cross-link from [grading-scale.md](book-section/all-about-alan/grading-scale) next revision.
+- **Concentration is not a trust factor.** Cloudflare's B grade is independent of how concentrated my Cloudflare dependency is. Concentration affects criticality in the plan-stage ranking per [ranking-criterion.md](book-section/all-about-alan/ranking-criterion), not the trust grade itself. The grade is about the organization; the concentration is about my dependency graph.
+- **Capture event by acquisition.** Mint Mobile's T-Mobile acquisition triggers the capture-event rule per [capture-events.md](book-section/all-about-alan/capture-events). Trust resets to zero. The D grade already reflects the new ownership rather than the pre-acquisition track record.
+- **Email as identity-recovery anchor.** Gmail's D status carries downstream risk because email controls password resets for most other accounts. The cascading-dependency shape — one account's control determines authentication-recovery for a downstream cluster — is its own framework concept, now in [identity-recovery-anchor.md](book-section/all-about-alan/identity-recovery-anchor) (with the OAuth-login vs recovery-anchor split).
 
 ## Open audit gaps (flag for future cycles)
 
