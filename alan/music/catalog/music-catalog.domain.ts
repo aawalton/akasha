@@ -50,5 +50,13 @@ export const musicCatalog = {
       statement:
         "A release reads its listening off the tracks it carries rather than holding its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One recording is one track page, whatever releases carry that recording.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track carries the grade Alan gives the recording he heard.",
+    },
   ],
 } as const satisfies Domain
