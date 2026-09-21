@@ -5,15 +5,15 @@ import {
   codeAt,
   ranAt,
 } from "akasha/story/game/mechanic/modules/mechanic-running/mechanic-running.module.code.ts"
-import { linearStat } from "akasha/story/game/mechanic/pages/linear-stat/linear-stat.game-mechanic.ts"
+import { physAtk } from "akasha/story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts"
 
 const ROOT = process.cwd()
 
-const AT = namedAs(gameMechanic.slug, linearStat.slug, null)
+const AT = namedAs(gameMechanic.slug, physAtk.slug, null)
 
 const NOWHERE = namedAs(gameMechanic.slug, "nothing-is-filed-here", null)
 
-const BESIDE = `${linearStat.slug}.${gameMechanic.slug}.code.ts`
+const BESIDE = `${physAtk.slug}.${gameMechanic.slug}.code.ts`
 
 test("an address reaches the code beside the mechanic's page", () => {
   expect(codeAt(ROOT, AT)?.endsWith(BESIDE)).toBe(true)
@@ -24,17 +24,12 @@ test("an address the index does not hold reaches no code", () => {
 })
 
 test("a name that qualifies no page type reaches no code", () => {
-  expect(codeAt(ROOT, linearStat.slug)).toBe(null)
+  expect(codeAt(ROOT, physAtk.slug)).toBe(null)
 })
 
 test("the mechanic an address names is run", async () => {
-  const ran = await ranAt(ROOT, AT, {
-    terms: [{ of: "might", by: 2 }],
-    constant: 1,
-    rounding: "none",
-    held: { might: 4 },
-  })
-  expect(ran).toEqual({ answered: 9 })
+  const ran = await ranAt(ROOT, AT, { held: { might: 4, finesse: 2, "weapon.atk": 3 } })
+  expect(ran).toEqual({ answered: 11 })
 })
 
 test("an address naming no mechanic is refused", async () => {

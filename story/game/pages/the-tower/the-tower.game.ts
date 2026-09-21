@@ -24,5 +24,5 @@ export const theTower = {
   characters: "jsonl",
   towerFloors: "jsonl",
   towerSessions: "jsonl",
-  mechanics: ["game-mechanic/linear-stat"],
+  mechanics: [],
 } as const satisfies Game

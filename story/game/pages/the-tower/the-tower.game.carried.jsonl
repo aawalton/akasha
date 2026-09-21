@@ -8,7 +8,7 @@
 {"genre":["litrpg"]}
 {"gmContext":"json"}
 {"id":"01a0673f-a3d7-7000-afc1-88181be588cb"}
-{"mechanics":["game-mechanic/linear-stat"]}
+{"mechanics":[]}
 {"mechanicsWeight":"heavy"}
 {"resolution":"formula"}
 {"resolutionMechanism":"json"}

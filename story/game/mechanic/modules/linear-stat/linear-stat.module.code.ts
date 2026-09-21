@@ -1,4 +1,4 @@
-const HERE = "story/game/mechanic/pages/linear-stat"
+const HERE = "story/game/mechanic/modules/linear-stat"
 
 export type Rounding = "none" | "down" | "up" | "nearest"
 
@@ -7,14 +7,14 @@ export type Term = {
   readonly by: number
 }
 
-export type Asking = {
+export type Summing = {
   readonly terms: readonly Term[]
   readonly constant: number
   readonly rounding: Rounding
   readonly held: Readonly<Record<string, number>>
 }
 
-export type Answered = { readonly answered: number } | { readonly refused: string }
+export type Summed = { readonly answered: number } | { readonly refused: string }
 
 function roundedBy(rounding: Rounding, sum: number): number {
   if (rounding === "down") return Math.floor(sum)
@@ -23,16 +23,12 @@ function roundedBy(rounding: Rounding, sum: number): number {
   return sum
 }
 
-export function runMechanic(asking: Asking): Answered {
-  let sum = asking.constant
-  for (const term of asking.terms) {
-    const value = asking.held[term.of]
-    if (value === undefined) {
-      return {
-        refused: `the sheet holds no \`${term.of}\`, and a term naming it counts nothing, ${HERE}`,
-      }
-    }
+export function summed(summing: Summing): Summed {
+  let sum = summing.constant
+  for (const term of summing.terms) {
+    const value = summing.held[term.of]
+    if (value === undefined) return { refused: `the sheet holds no \`${term.of}\`, ${HERE}` }
     sum += value * term.by
   }
-  return { answered: roundedBy(asking.rounding, sum) }
+  return { answered: roundedBy(summing.rounding, sum) }
 }

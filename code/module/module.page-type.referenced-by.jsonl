@@ -2518,6 +2518,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/turn-package-schema/turn-package-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/word-count/word-count.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/game-mechanic.page-type.types.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/linear-stat/linear-stat.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-controls/alert-controls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-notification/alert-notification.module.ts"}

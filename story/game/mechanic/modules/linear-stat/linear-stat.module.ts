@@ -1,10 +1,10 @@
-import type { GameMechanic } from "akasha/story/game/mechanic/game-mechanic.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const linearStat = {
-  id: "01a0c456-3843-7f99-b8c6-6f1414cceba0",
-  type: "page-type/game-mechanic",
+  id: "01a0c471-ac2e-74b8-a2de-da9cac658a5e",
+  type: "page-type/module",
   slug: "linear-stat",
-  definition: "a stat worked out as a weighted sum of the values a sheet holds",
+  definition: "a weighted sum over the values a sheet holds, rounded as asked",
   code: "ts",
   test: "ts",
   decisions: [
@@ -18,7 +18,11 @@ export const linearStat = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sum is rounded as the mechanic is asked to round it.",
+      statement: "A value a piece of equipment holds is named as the piece then the value.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here knows which mechanic is summing.",
     },
   ],
-} as const satisfies GameMechanic
+} as const satisfies Module
