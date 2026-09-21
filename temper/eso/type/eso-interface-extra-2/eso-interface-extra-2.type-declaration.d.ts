@@ -235,10 +235,6 @@ interface WindowManager {
   IsSecureRenderModeEnabled: (this: unknown) => boolean
 }
 
-interface ButtonControl {
-  SetFont: (this: unknown, font: string) => undefined
-}
-
 declare const ZO_SceneManager_ToggleGameMenuBinding: (this: void) => undefined
 
 interface BankMenuBar extends Control {

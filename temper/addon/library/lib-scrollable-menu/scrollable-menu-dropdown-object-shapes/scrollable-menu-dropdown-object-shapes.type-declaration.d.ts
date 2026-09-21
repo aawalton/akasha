@@ -153,15 +153,3 @@ interface DropdownScrollControl {
   ) => undefined
   [key: string]: unknown
 }
-
-interface AnchorObject {
-  targetId?: number
-  New: (
-    this: AnchorObject,
-    pointOnMe: number,
-    targetId: number | undefined,
-    pointOnTarget: number,
-    offsetX: number,
-    offsetY: number
-  ) => AnchorObject
-}

@@ -299,3 +299,24 @@ declare const SCENE_SHOWING: number
 declare const SCENE_SHOWN: number
 
 declare const INVENTORY_FRAGMENT: SceneFragment
+
+interface ButtonControl {
+  SetHorizontalAlignment: (alignment: number) => undefined
+  SetVerticalAlignment: (alignment: number) => undefined
+}
+
+interface ButtonControl {
+  SetFont: (this: unknown, font: string) => undefined
+}
+
+interface ButtonControl {
+  SetPressedMouseOverTexture: (texture: string) => void
+  SetDisabledTexture: (texture: string) => void
+  SetPressedOffset: (x: number, y: number) => void
+  SetTextureCoords: (left: number, right: number, top: number, bottom: number) => void
+  GetLabelControl: () => LabelControl
+  SetDesaturation: (desaturation: number) => void
+  SetModifyTextType: (modifyTextType: ModifyTextType) => void
+  SetNormalFontColor: (r: number, g: number, b: number, a: number) => undefined
+  SetMouseOverFontColor: (r: number, g: number, b: number, a: number) => undefined
+}

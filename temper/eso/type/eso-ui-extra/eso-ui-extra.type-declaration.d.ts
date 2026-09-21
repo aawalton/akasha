@@ -67,18 +67,6 @@ declare const SI_SLASH_QUIT: number
 declare const SI_LOG_OUT_GAME_CONFIRM_KEYBIND: number
 declare const SI_QUIT_GAME_CONFIRM_KEYBIND: number
 
-interface ButtonControl {
-  SetPressedMouseOverTexture: (texture: string) => void
-  SetDisabledTexture: (texture: string) => void
-  SetPressedOffset: (x: number, y: number) => void
-  SetTextureCoords: (left: number, right: number, top: number, bottom: number) => void
-  GetLabelControl: () => LabelControl
-  SetDesaturation: (desaturation: number) => void
-  SetModifyTextType: (modifyTextType: ModifyTextType) => void
-  SetNormalFontColor: (r: number, g: number, b: number, a: number) => undefined
-  SetMouseOverFontColor: (r: number, g: number, b: number, a: number) => undefined
-}
-
 interface LabelControl {
   GetTextDimensions: () => LuaMultiReturn<[number, number]>
   SetDesaturation: (desaturation: number) => void

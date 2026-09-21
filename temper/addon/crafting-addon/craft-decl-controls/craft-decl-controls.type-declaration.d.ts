@@ -227,11 +227,6 @@ interface TemperCraftingButton extends ButtonControl {
   tristate?: boolean
 }
 
-interface ButtonControl {
-  SetHorizontalAlignment: (alignment: number) => undefined
-  SetVerticalAlignment: (alignment: number) => undefined
-}
-
 interface TooltipControl {
   SetWornItem: (slotIndex: number, ...rest: unknown[]) => undefined
   SetAttachedMailItem: (mailId: Id64, attachmentIndex: number, ...rest: unknown[]) => undefined
