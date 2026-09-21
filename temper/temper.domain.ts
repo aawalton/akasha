@@ -164,6 +164,7 @@ export const temper = {
     "router-app/temper-web",
     "rust-crate/watcher-tray",
     "service-workstation/temper-watcher",
+    "domain/temper-eso",
   ],
   decisions: [
     {
