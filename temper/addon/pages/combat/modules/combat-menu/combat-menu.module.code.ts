@@ -6,7 +6,7 @@ import {
   type TemperCombatSettings,
 } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { resizeReport } from "akasha/temper/addon/pages/combat/modules/combat-ui-window/combat-ui-window.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"

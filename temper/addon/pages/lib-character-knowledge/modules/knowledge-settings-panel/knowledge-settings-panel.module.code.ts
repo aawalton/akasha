@@ -1,14 +1,14 @@
-import { LCCC } from "akasha/temper/addon/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asGlobalTable,
   asString,
 } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
 import type { SavedVars } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
+import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
 import {
   type LamRegistrar,
   registerPanel,
-} from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+} from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-character-knowledge/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"

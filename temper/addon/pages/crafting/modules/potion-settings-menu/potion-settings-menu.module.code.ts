@@ -4,7 +4,7 @@ import {
   getPlayerSettings,
 } from "akasha/temper/addon/pages/crafting/modules/potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "akasha/temper/addon/pages/crafting/modules/potion-state/potion-state.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/temper/addon/type/crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.d.ts"
 import "akasha/temper/addon/type/fcois/fcois.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"

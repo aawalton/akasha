@@ -1,4 +1,4 @@
-import { isTable } from "akasha/temper/addon/narrow/modules/is-table/is-table.module.code.ts"
+import { isTable } from "akasha/temper/addon/shared/narrow/modules/is-table/is-table.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,

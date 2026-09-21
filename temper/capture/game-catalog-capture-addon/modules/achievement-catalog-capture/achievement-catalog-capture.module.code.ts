@@ -4,7 +4,7 @@ import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 import { requireDefined } from "akasha/code/type/narrowing/modules/require-defined/require-defined.module.code.ts"
-import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
+import { requireNumericKey } from "akasha/temper/addon/shared/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import type { AchievementCatalogData } from "akasha/temper/capture/shape/modules/achievement-catalog/achievement-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture/writer/modules/run-batched/run-batched.module.code.ts"
 import {

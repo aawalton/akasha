@@ -4,7 +4,7 @@ import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.
 
 import { initializeSavedVariables } from "akasha/temper/addon/pages/events/modules/next-boss-saved-variables/next-boss-saved-variables.module.code.ts"
 import { ICT } from "akasha/temper/addon/pages/events/modules/next-boss-state/next-boss-state.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/temper/addon/pages/events/next-boss-declarations/next-boss-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 

@@ -13,15 +13,15 @@ import "akasha/temper/eso/type/eso-ttc/eso-ttc.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import {
-  createSellFlow,
-  type SellFlow,
-} from "akasha/temper/addon/modules/guild-store-poster/guild-store-poster.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/trading/modules/trading-constants/trading-constants.module.code.ts"
 import {
   getLastSold,
   putLastSold,
 } from "akasha/temper/addon/pages/trading/modules/trading-sell-price-store/trading-sell-price-store.module.code.ts"
+import {
+  createSellFlow,
+  type SellFlow,
+} from "akasha/temper/addon/shared/modules/guild-store-poster/guild-store-poster.module.code.ts"
 import {
   getItemPriceKey,
   suggestSellPrice,

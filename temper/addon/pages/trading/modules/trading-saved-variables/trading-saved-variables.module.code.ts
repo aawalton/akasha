@@ -1,13 +1,13 @@
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
-import { requireSavedVariables } from "akasha/temper/addon/narrow/modules/require-saved-variables/require-saved-variables.module.code.ts"
 import { SAVED_VARIABLES_NAME } from "akasha/temper/addon/pages/trading/modules/trading-constants/trading-constants.module.code.ts"
 import {
   type GuildSnapshot,
   SAVED_VARIABLES_DEFAULTS,
   type SavedVariablesData,
 } from "akasha/temper/addon/pages/trading/modules/trading-types/trading-types.module.code.ts"
+import { requireSavedVariables } from "akasha/temper/addon/shared/narrow/modules/require-saved-variables/require-saved-variables.module.code.ts"
 export let savedVarsInstance: SavedVariablesData | undefined
 
 export function initializeSavedVariables(): SavedVariablesData {

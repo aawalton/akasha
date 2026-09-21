@@ -1,4 +1,3 @@
-import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import {
   DROPDOWN_DATA,
   DROPDOWN_MAJOR_ACTIONABLE,
@@ -43,6 +42,7 @@ import {
   ZONE_TYPE_CHAPTER,
   ZONE_TYPES,
 } from "akasha/temper/addon/pages/antiquities/modules/leads-zones/leads-zones.module.code.ts"
+import { requireNumericKey } from "akasha/temper/addon/shared/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"

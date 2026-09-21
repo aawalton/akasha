@@ -1,4 +1,3 @@
-import { createLogger } from "akasha/temper/addon/log/modules/library-logger/library-logger.module.code.ts"
 import { asLib } from "akasha/temper/addon/pages/lib-gps/modules/gps-casts/gps-casts.module.code.ts"
 import {
   BLACKREACH_ROOT_MAP_INDEX,
@@ -11,6 +10,7 @@ import type {
   InternalState,
   Lib,
 } from "akasha/temper/addon/pages/lib-gps/modules/gps-types/gps-types.module.code.ts"
+import { createLogger } from "akasha/temper/addon/shared/log/modules/library-logger/library-logger.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-chat-message/lib-chat-message.type-declaration.d.ts"
 

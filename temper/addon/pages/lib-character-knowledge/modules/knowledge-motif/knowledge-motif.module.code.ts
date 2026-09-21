@@ -1,7 +1,7 @@
-import { LCCC } from "akasha/temper/addon/lccc/modules/lccc/lccc.module.code.ts"
 import { asNumber } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
 import type { StyleMotifItems } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
+import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"

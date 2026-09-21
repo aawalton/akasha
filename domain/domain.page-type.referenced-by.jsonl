@@ -551,11 +551,12 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/temper-addon-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/community/temper-addon-community.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/hud-component/temper-hud-component.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/lccc/temper-lccc.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/log/temper-addon-log.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/narrow/temper-narrow.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/settings-panel/temper-settings-panel.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/lccc/temper-lccc.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/log/temper-addon-log.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/narrow/temper-narrow.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/settings-panel/temper-settings-panel.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/shared/temper-addon-shared.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/type/temper-addon-type.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts"}

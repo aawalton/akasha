@@ -1,4 +1,3 @@
-import { parseLuaCapture } from "akasha/temper/addon/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import {
   asControl,
   asLamFactory,
@@ -25,6 +24,7 @@ import {
   requestRefreshIfNeeded,
   updateWarning,
 } from "akasha/temper/addon/pages/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"

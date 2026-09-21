@@ -1,9 +1,9 @@
-import { LCCC } from "akasha/temper/addon/lccc/modules/lccc/lccc.module.code.ts"
 import { STRINGS_DEFAULT } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-strings-default/knowledge-strings-default.module.code.ts"
 import { STRINGS_ES } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-strings-es/knowledge-strings-es.module.code.ts"
 import { STRINGS_FR } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-strings-fr/knowledge-strings-fr.module.code.ts"
 import { STRINGS_RU } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-strings-ru/knowledge-strings-ru.module.code.ts"
 import { STRINGS_ZH } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-strings-zh/knowledge-strings-zh.module.code.ts"
+import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 const BY_LANG: Record<string, ReadonlyArray<[string, string]>> = {

@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-daily-writs/characters-daily-writs.module.code.ts"}
@@ -158,6 +157,7 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-saved-variables/trading-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-price-store/trading-sell-price-store.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"}

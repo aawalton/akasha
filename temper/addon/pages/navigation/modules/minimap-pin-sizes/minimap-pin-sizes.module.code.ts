@@ -15,7 +15,7 @@ import type {
   AnyAsyncTask,
   LooseTable,
 } from "akasha/temper/addon/pages/navigation/modules/minimap-view-types/minimap-view-types.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"

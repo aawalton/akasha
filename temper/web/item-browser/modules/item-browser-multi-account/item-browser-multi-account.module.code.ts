@@ -1,4 +1,4 @@
-import { requireNumericKey } from "akasha/temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
+import { requireNumericKey } from "akasha/temper/addon/shared/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import {
   ADDON_NAME,
   PLEDGE_FILTER_ID,

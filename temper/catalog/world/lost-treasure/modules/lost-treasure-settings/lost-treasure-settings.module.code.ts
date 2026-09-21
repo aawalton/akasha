@@ -1,12 +1,12 @@
 import {
   type LamDropdownData,
   valueDropdown,
-} from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
+} from "akasha/temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.code.ts"
 import {
   header,
   type LamHeaderData,
-} from "akasha/temper/addon/settings-panel/modules/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+} from "akasha/temper/addon/shared/settings-panel/modules/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import {
   ADDON_DISPLAY_NAME,
   ADDON_NAME,

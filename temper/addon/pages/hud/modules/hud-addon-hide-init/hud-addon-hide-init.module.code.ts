@@ -3,7 +3,6 @@ import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 
-import { HUD_SCENE_CATALOG } from "akasha/temper/addon/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import {
   createHideRegistry,
   type HideRegistry,
@@ -13,6 +12,7 @@ import {
   readComponentVisible,
   writeComponentVisible,
 } from "akasha/temper/addon/pages/hud/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
+import { HUD_SCENE_CATALOG } from "akasha/temper/addon/shared/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const registry: HideRegistry = createHideRegistry()

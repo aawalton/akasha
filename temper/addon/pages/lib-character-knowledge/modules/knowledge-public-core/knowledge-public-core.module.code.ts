@@ -1,4 +1,3 @@
-import { LCCC } from "akasha/temper/addon/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asNumber,
   asNumberArray,
@@ -14,6 +13,7 @@ import type {
   CharacterRecord,
   Server,
 } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
+import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"

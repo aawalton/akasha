@@ -7,7 +7,7 @@ import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { asNumber } from "akasha/temper/addon/pages/companions/modules/companion-qol-casts/companion-qol-casts.module.code.ts"
 import { FCOCO } from "akasha/temper/addon/pages/companions/modules/companion-qol-state/companion-qol-state.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/companions/companions-declarations/companions-declarations.type-declaration.d.ts"
 

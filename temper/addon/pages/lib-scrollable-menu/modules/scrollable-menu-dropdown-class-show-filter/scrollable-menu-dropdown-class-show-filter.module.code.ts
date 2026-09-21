@@ -1,4 +1,3 @@
-import { parseLuaCapture } from "akasha/temper/addon/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import {
   asLsmCastIsFilterEnabledThisUnknownUnknown,
   asLsmCastMDropdownUnknown,
@@ -25,6 +24,7 @@ import {
 } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 import { getValueOrCallback } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-constants-core/scrollable-menu-constants-core.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-lib-state/scrollable-menu-lib-state.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-scrollable-menu/scrollable-menu-dropdown-object-shapes/scrollable-menu-dropdown-object-shapes.type-declaration.d.ts"

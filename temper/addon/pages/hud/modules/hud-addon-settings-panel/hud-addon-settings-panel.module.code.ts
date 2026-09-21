@@ -1,14 +1,14 @@
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
-import type { HudComponentRecord } from "akasha/temper/addon/hud-component/modules/hud-component-record/hud-component-record.module.code.ts"
-import { HUD_SCENE_CATALOG } from "akasha/temper/addon/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import {
   defaultComponentVisible,
   isComponentVisible,
   setComponentVisiblePersistent,
 } from "akasha/temper/addon/pages/hud/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"
-import { header } from "akasha/temper/addon/settings-panel/modules/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import type { HudComponentRecord } from "akasha/temper/addon/shared/hud-component/modules/hud-component-record/hud-component-record.module.code.ts"
+import { HUD_SCENE_CATALOG } from "akasha/temper/addon/shared/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
+import { header } from "akasha/temper/addon/shared/settings-panel/modules/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 
 const PANEL_ID = "TemperHudOptions"
 

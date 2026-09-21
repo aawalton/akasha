@@ -1,11 +1,11 @@
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
-import { postGuildStoreItem } from "akasha/temper/addon/modules/guild-store-poster/guild-store-poster.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { isVendorCrossCharDestination } from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
+import { postGuildStoreItem } from "akasha/temper/addon/shared/modules/guild-store-poster/guild-store-poster.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"

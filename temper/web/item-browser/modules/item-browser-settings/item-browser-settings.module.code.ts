@@ -1,5 +1,5 @@
-import { header } from "akasha/temper/addon/settings-panel/modules/header/header.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { header } from "akasha/temper/addon/shared/settings-panel/modules/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import {
   ADDON_NAME,
   ADDON_URL,

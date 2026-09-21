@@ -5,7 +5,6 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import { HUD_SCENE_CATALOG } from "akasha/temper/addon/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import {
   computeHidePlan,
   indexInventoryById,
@@ -21,6 +20,7 @@ import type {
   HidePlanEntry,
   HideRegistration,
 } from "akasha/temper/addon/pages/hud/modules/hud-addon-hide-types/hud-addon-hide-types.module.code.ts"
+import { HUD_SCENE_CATALOG } from "akasha/temper/addon/shared/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 export interface HideRegistry {

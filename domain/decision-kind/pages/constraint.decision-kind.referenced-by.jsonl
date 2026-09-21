@@ -391,11 +391,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
 {"propertySlug":"decision-kind","path":"temper/addon/community/temper-addon-community.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}
-{"propertySlug":"decision-kind","path":"temper/addon/log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
-{"propertySlug":"decision-kind","path":"temper/addon/narrow/modules/is-callback/is-callback.module.ts","id":"01a08e19-c569-71cc-8644-64f32991852e"}
-{"propertySlug":"decision-kind","path":"temper/addon/narrow/modules/lua-string-contains/lua-string-contains.module.ts","id":"01a08e17-f876-773e-b52a-6d8f314fa4fa"}
-{"propertySlug":"decision-kind","path":"temper/addon/narrow/modules/require-saved-variables/require-saved-variables.module.ts","id":"01a08e11-e16f-78aa-8cc2-9f44f46d50cf"}
-{"propertySlug":"decision-kind","path":"temper/addon/narrow/temper-narrow.domain.ts","id":"01a060b6-99a1-7f39-a4b3-1a7f8d33b445"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/leads-global-declarations/leads-global-declarations.type-declaration.ts","id":"01a06274-b08b-7d77-84f1-e4cc639b4458"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.ts","id":"01a06274-b08b-7ce4-9c42-df97b97f5da8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/modules/leads-global/leads-global.module.ts","id":"01a06274-b08a-7c2e-bec4-949ada692ff8"}
@@ -815,7 +810,12 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/modules/quests-saved-variables/quests-saved-variables.module.ts","id":"01a0635f-391c-721c-be7d-e4fb741328a6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/quests/temper-addon-quests.temper-addon.ts","id":"01a0635f-391c-765a-af94-26f3ecd9702f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/trading/modules/trading-prune/trading-prune.module.ts","id":"01a06160-2a5b-7de7-92b4-c3276f6bde81"}
-{"propertySlug":"decision-kind","path":"temper/addon/settings-panel/modules/dropdown/dropdown.module.ts","id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/narrow/modules/is-callback/is-callback.module.ts","id":"01a08e19-c569-71cc-8644-64f32991852e"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/narrow/modules/lua-string-contains/lua-string-contains.module.ts","id":"01a08e17-f876-773e-b52a-6d8f314fa4fa"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/narrow/modules/require-saved-variables/require-saved-variables.module.ts","id":"01a08e11-e16f-78aa-8cc2-9f44f46d50cf"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/narrow/temper-narrow.domain.ts","id":"01a060b6-99a1-7f39-a4b3-1a7f8d33b445"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.ts","id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
 {"propertySlug":"decision-kind","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-alliance-map/character-capture-alliance-map.module.ts","id":"01a0616b-5a16-7e5f-b792-c43a0671a8d9"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.ts","id":"01a0616b-23c3-7958-8a1f-21a8646a50db"}

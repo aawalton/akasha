@@ -7,7 +7,7 @@ import {
 } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-casts/lib-sets-casts.module.code.ts"
 import { MENU_STATE } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-tip-settings-state/lib-sets-tip-settings-state.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-misc-ids/lib-sets-misc-ids.type-declaration.d.ts"

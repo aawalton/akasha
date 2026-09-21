@@ -41,7 +41,7 @@ import {
 } from "akasha/temper/addon/pages/interface/modules/fco-panel-storage/fco-panel-storage.module.code.ts"
 import { buildTooltipsControls } from "akasha/temper/addon/pages/interface/modules/fco-panel-tooltips/fco-panel-tooltips.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/interface/modules/fco-state/fco-state.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/interface/fco-controls/fco-controls.type-declaration.d.ts"

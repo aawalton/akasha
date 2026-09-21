@@ -1,4 +1,3 @@
-import { LCCC } from "akasha/temper/addon/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asNumber,
   asNumberArray,
@@ -11,6 +10,7 @@ import type {
   ItemDescriptor,
   ItemInput,
 } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
+import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"

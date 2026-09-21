@@ -1,4 +1,3 @@
-import { isCallback } from "akasha/temper/addon/narrow/modules/is-callback/is-callback.module.code.ts"
 import { asString } from "akasha/temper/addon/pages/lib-shifter-box/modules/shifter-casts/shifter-casts.module.code.ts"
 import { LIB_IDENTIFIER } from "akasha/temper/addon/pages/lib-shifter-box/modules/shifter-constants/shifter-constants.module.code.ts"
 import {
@@ -11,6 +10,7 @@ import type {
   ShifterBoxList,
   Valued,
 } from "akasha/temper/addon/pages/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"
+import { isCallback } from "akasha/temper/addon/shared/narrow/modules/is-callback/is-callback.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"

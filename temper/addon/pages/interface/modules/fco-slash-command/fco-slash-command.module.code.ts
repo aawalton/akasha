@@ -1,4 +1,4 @@
-import { reloadUI } from "akasha/temper/addon/modules/reload-ui/reload-ui.module.code.ts"
+import { reloadUI } from "akasha/temper/addon/shared/modules/reload-ui/reload-ui.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"

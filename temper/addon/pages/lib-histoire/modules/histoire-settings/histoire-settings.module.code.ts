@@ -1,7 +1,7 @@
 import { asGlobalTable } from "akasha/temper/addon/pages/lib-histoire/modules/histoire-casts/histoire-casts.module.code.ts"
 import { internal } from "akasha/temper/addon/pages/lib-histoire/modules/histoire-state/histoire-state.module.code.ts"
 import type { LibHistoireInternal } from "akasha/temper/addon/pages/lib-histoire/modules/histoire-types/histoire-types.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-addon-menu-order-list-box/order-list-box-lam-shapes/order-list-box-lam-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-histoire/lib-histoire-controls/lib-histoire-controls.type-declaration.d.ts"

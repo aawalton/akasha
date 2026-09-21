@@ -1,4 +1,4 @@
-import { isTable } from "akasha/temper/addon/narrow/modules/is-table/is-table.module.code.ts"
+import { isTable } from "akasha/temper/addon/shared/narrow/modules/is-table/is-table.module.code.ts"
 import {
   ICON_LIST_ZONEID,
   LBOOKS_IMMERSIVE_DISABLED,

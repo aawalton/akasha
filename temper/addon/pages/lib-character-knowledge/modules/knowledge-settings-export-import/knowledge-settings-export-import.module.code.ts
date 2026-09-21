@@ -1,4 +1,3 @@
-import { LCCC } from "akasha/temper/addon/lccc/modules/lccc/lccc.module.code.ts"
 import {
   asRecord,
   asString,
@@ -17,6 +16,7 @@ import type {
   CharacterMap,
   CharacterRecord,
 } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"
+import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-character-knowledge/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"

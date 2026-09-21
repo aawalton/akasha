@@ -1,4 +1,4 @@
-import { isTable } from "akasha/temper/addon/narrow/modules/is-table/is-table.module.code.ts"
+import { isTable } from "akasha/temper/addon/shared/narrow/modules/is-table/is-table.module.code.ts"
 import "akasha/temper/addon/pages/crafting/modules/writ-public-api/writ-public-api.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"

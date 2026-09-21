@@ -1,7 +1,7 @@
-import { LCCC } from "akasha/temper/addon/lccc/modules/lccc/lccc.module.code.ts"
 import { asNumber } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-casts/knowledge-casts.module.code.ts"
 import type { ResearchReverseEntry } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-shape/knowledge-shape.module.code.ts"
 import { INTERNAL } from "akasha/temper/addon/pages/lib-character-knowledge/modules/knowledge-state/knowledge-state.module.code.ts"
+import { LCCC } from "akasha/temper/addon/shared/lccc/modules/lccc/lccc.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-character-knowledge/knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"

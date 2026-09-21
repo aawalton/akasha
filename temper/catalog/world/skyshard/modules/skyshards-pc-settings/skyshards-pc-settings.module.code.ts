@@ -1,6 +1,6 @@
-import { dropdown } from "akasha/temper/addon/settings-panel/modules/dropdown/dropdown.module.code.ts"
-import { whenPanelControlsCreated } from "akasha/temper/addon/settings-panel/modules/panel-controls-created/panel-controls-created.module.code.ts"
-import { registerPanel } from "akasha/temper/addon/settings-panel/modules/register-panel/register-panel.module.code.ts"
+import { dropdown } from "akasha/temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.code.ts"
+import { whenPanelControlsCreated } from "akasha/temper/addon/shared/settings-panel/modules/panel-controls-created/panel-controls-created.module.code.ts"
+import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import {
   ADDON_VERSION,
   ADDON_WEBSITE,

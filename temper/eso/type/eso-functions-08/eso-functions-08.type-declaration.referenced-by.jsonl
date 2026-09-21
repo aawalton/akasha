@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/capture-datamining/modules/datamining-item-miner/datamining-item-miner.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/sales-capture/sales-capture.module.code.ts"}
@@ -189,6 +188,7 @@
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-listing-facts/trading-listing-facts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/addon/shared/lccc/modules/lccc-util/lccc-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-08.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.code.ts"}
