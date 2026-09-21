@@ -7,7 +7,6 @@ export const storyEngineCore = {
   definition: "the shapes and the rules of an Awen game, shared by everything that runs one",
   parts: [
     "module/action-bar-message",
-    "module/audit-record-schema",
     "module/beat-schema",
     "module/chapter-words",
     "module/choice-action",
@@ -16,8 +15,6 @@ export const storyEngineCore = {
     "module/prose-segments",
     "module/quest-schema",
     "module/revealed",
-    "module/roll-schema",
-    "module/rulebook-schema",
     "module/state-schema",
     "module/system-window-schema",
     "module/turn-package-schema",
