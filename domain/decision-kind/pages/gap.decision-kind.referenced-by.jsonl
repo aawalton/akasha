@@ -396,7 +396,6 @@
 {"propertySlug":"decision-kind","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.ts","id":"01a08289-7b12-7814-8155-5442b3a1236b"}
 {"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/movement/movement.module.ts","id":"01a0ba9a-9aa0-7d5a-a08f-4fd31546c134"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
-{"propertySlug":"decision-kind","path":"story/game/mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"decision-kind","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-from-slugs.text-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-to-slugs.text-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}

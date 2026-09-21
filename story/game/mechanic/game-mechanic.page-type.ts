@@ -24,10 +24,6 @@ export const gameMechanic = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing a mechanic's code reaches lies outside the values handed in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A game names the mechanics that game is played by.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
