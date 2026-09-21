@@ -6,6 +6,7 @@ import {
   orchestratorCacheChownInitContainer,
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
+  webBuildInitContainer,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   orchestratorCacheEntrypointPath,
@@ -23,6 +24,7 @@ import { ADDON_BUNDLE_IMAGE } from "akasha/temper/web/deploy/addon-bundle-image.
 const NAMESPACE = temperWeb.namespace
 const APP_NAME = temperWeb.resourceName
 const SECRET_NAME = "temper-secrets"
+const PACKAGE_PATH = "temper/web"
 
 const TEMPER_WATCHER_IMAGE =
   "registry.registry.svc.cluster.local:5000/cluster/temper-watcher:latest"
@@ -147,13 +149,14 @@ function webDeploymentYaml(): string {
             }),
             initWatcherContainer(),
             initAddonsContainer(),
+            webBuildInitContainer({ packagePath: PACKAGE_PATH, secretName: SECRET_NAME }),
           ],
           containers: [
             {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("temper/web"),
+              workingDir: orchestratorCacheEntrypointPath(PACKAGE_PATH),
               command: ["bun", "run", "server.ts"],
               ports: [{ containerPort: temperWeb.containerPort, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
