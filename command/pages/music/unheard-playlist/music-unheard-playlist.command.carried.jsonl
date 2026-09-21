@@ -1,0 +1,10 @@
+{"arguments":[{"argument":"argument/json"},{"argument":"argument/plan"}]}
+{"code":"ts"}
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The tracks picked are the tracks the unheard-picking module picks."},{"decisionKind":"decision-kind/departure","statement":"An artist is followed where that artist's own page says so."},{"decisionKind":"decision-kind/departure","statement":"The playlist is named for the day it was made."},{"decisionKind":"decision-kind/departure","statement":"A run picking no track makes no playlist."},{"decisionKind":"decision-kind/departure","statement":"A planning run reaches Spotify for nothing."},{"decisionKind":"decision-kind/departure","statement":"The answer names the playlist's link."},{"decisionKind":"decision-kind/absence","statement":"Nothing here writes a page."},{"decisionKind":"decision-kind/absence","statement":"No playlist made before is read, emptied or added to."}]}
+{"definition":"the command making a playlist of what Alan's followed artists made and he has not heard"}
+{"id":"01a0c4ef-8b59-7e55-8995-fc004869dc1f"}
+{"maxWallSeconds":600}
+{"name":"unheard-playlist"}
+{"slug":"music-unheard-playlist"}
+{"test":"ts"}
+{"type":"page-type/command"}

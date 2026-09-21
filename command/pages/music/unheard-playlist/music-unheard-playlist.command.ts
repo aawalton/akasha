@@ -1,0 +1,48 @@
+import type { Command } from "akasha/command/command.page-type.types.ts"
+
+export const musicUnheardPlaylist = {
+  id: "01a0c4ef-8b59-7e55-8995-fc004869dc1f",
+  type: "page-type/command",
+  slug: "music-unheard-playlist",
+  definition:
+    "the command making a playlist of what Alan's followed artists made and he has not heard",
+  code: "ts",
+  test: "ts",
+  maxWallSeconds: 600,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tracks picked are the tracks the unheard-picking module picks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An artist is followed where that artist's own page says so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The playlist is named for the day it was made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run picking no track makes no playlist.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A planning run reaches Spotify for nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer names the playlist's link.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here writes a page.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No playlist made before is read, emptied or added to.",
+    },
+  ],
+  name: "unheard-playlist",
+  arguments: [{ argument: "argument/json" }, { argument: "argument/plan" }],
+} as const satisfies Command
