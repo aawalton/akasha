@@ -1,15 +1,15 @@
 import type { View } from "akasha/page/view/view.page-type.types.ts"
 
-export const requestsOpen = {
-  id: "01a0c4b3-a499-7a82-b1b0-02a39d4f0130",
+export const requestsProposed = {
+  id: "01a0c4ba-04f2-7301-ac55-8df02a4864bf",
   type: "page-type/view",
-  slug: "requests-open",
-  title: "Open",
+  slug: "requests-proposed",
+  title: "Proposed",
   nav: "nav/requests",
   pageType: "page-type/feature-request",
   viewPlace: 0,
-  layout: "cards",
-  narrows: [{ key: "standing", comparison: "is", values: ["published"] }],
+  layout: "list",
+  narrows: [{ key: "standing", comparison: "is", values: ["proposed"] }],
   viewSorts: [{ key: "title", descending: false }],
   visibleProperties: ["product", "ask"],
 } as const satisfies View

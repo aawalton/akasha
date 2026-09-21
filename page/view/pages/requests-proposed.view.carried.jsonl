@@ -1,10 +1,10 @@
-{"id":"01a0c4b3-a499-7a82-b1b0-02a39d4f0130"}
-{"layout":"cards"}
-{"narrows":[{"key":"standing","comparison":"is","values":["published"]}]}
+{"id":"01a0c4ba-04f2-7301-ac55-8df02a4864bf"}
+{"layout":"list"}
+{"narrows":[{"key":"standing","comparison":"is","values":["proposed"]}]}
 {"nav":"nav/requests"}
 {"pageType":"page-type/feature-request"}
-{"slug":"requests-open"}
-{"title":"Open"}
+{"slug":"requests-proposed"}
+{"title":"Proposed"}
 {"type":"page-type/view"}
 {"viewPlace":0}
 {"viewSorts":[{"key":"title","descending":false}]}
