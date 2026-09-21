@@ -165,5 +165,13 @@ export const seatLaunching = {
       statement:
         "A seat's scratch is put on the disk, because the folder above it is held in memory.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line put into a seat's pane is sent as written rather than read as key names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The newline ending such a line is sent after the line rather than with it.",
+    },
   ],
 } as const satisfies Module

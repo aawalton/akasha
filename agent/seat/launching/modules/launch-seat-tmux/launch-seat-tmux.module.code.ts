@@ -93,6 +93,8 @@ const INTERRUPTS = 2
 
 const INTERRUPT_SETTLE_MS = 1_500
 
+const LINE_SETTLE_MS = 250
+
 async function paneOf(name: string): Promise<string | null> {
   const listed = await tmux(["list-panes", "-t", `=${name}`, "-F", "#{pane_id}"])
   if (listed.code !== 0) return null
@@ -108,6 +110,15 @@ export async function liveSessionHolds(name: string): Promise<boolean> {
   if (!(await sessionHolds(name))) return false
   const pane = await paneOf(name)
   return pane !== null && (await paneIsLive(pane))
+}
+
+export async function sendLineToSeatPane(name: string, line: string): Promise<boolean> {
+  if (!(await sessionHolds(name))) return false
+  const pane = await paneOf(name)
+  if (pane === null || !(await paneIsLive(pane))) return false
+  if ((await tmux(["send-keys", "-t", pane, "-l", line])).code !== 0) return false
+  await Bun.sleep(LINE_SETTLE_MS)
+  return (await tmux(["send-keys", "-t", pane, "Enter"])).code === 0
 }
 
 export async function holdSeatPaneOpen(name: string): Promise<boolean> {
