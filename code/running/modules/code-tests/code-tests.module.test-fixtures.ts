@@ -27,6 +27,11 @@ export const BURNS =
   'test("one", () => { const until = Bun.nanoseconds() + 2e9\n' +
   "  while (Bun.nanoseconds() < until) {} })\n"
 
+export const WAITS =
+  'import { afterAll, expect, test } from "bun:test"\n' +
+  "afterAll(() => { Bun.sleepSync(8000) })\n" +
+  'test("one", () => { expect(1).toBe(1) })\n'
+
 export const THROWS = 'throw new Error("this file will not load")\n'
 
 export const SETS = "globalThis.held = true\n"

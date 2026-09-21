@@ -58,6 +58,10 @@ const PRELOADING = "--preload"
 
 const NAMING = "--test-name-pattern"
 
+const TIMING = "--timeout"
+
+const WAITS_MS = 60_000
+
 const HERE = "./"
 
 const ROOTED = "/"
@@ -301,7 +305,10 @@ function calledIn(runs: readonly Grouping[], naming: readonly string[]): readonl
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const one of group.named) {
-      held.push({ path: one, argv: [RUNNER, RUNS, ...preloading, ...naming, pathed(one)] })
+      held.push({
+        path: one,
+        argv: [RUNNER, RUNS, TIMING, String(WAITS_MS), ...preloading, ...naming, pathed(one)],
+      })
     }
   }
   return held

@@ -27,6 +27,7 @@ import {
   SETS,
   SWELLS,
   THROWS,
+  WAITS,
   WEB_BUNFIG,
 } from "akasha/code/running/modules/code-tests/code-tests.module.test-fixtures.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
@@ -271,6 +272,15 @@ check(
     const found = beyondIn(await spentOver(root, ["akasha"]), 1)
     expect(found.map((one) => one.path)).toEqual(["akasha/slow.test.ts"])
     expect(found[0]?.cpuSeconds).toBeGreaterThan(1.5)
+  },
+  30000
+)
+
+check(
+  "a file whose cleanup waits longer than the runner would allow is not ended there",
+  async () => {
+    const root = repo({ "one.test.ts": WAITS })
+    expect((await ranOver(root, ["akasha"], 1)).verdict).toBe("pass")
   },
   30000
 )

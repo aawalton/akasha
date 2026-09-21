@@ -89,6 +89,16 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The clock the runner ends a test on is stated here rather than left to the runner.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That clock is far above the seconds one file may spend, since a file beside others waits longer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Only a file past the seconds one file may spend makes a run slow.",
     },
     {
