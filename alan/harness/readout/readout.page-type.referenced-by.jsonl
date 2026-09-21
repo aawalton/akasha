@@ -44,7 +44,6 @@
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"temper/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-relay-reports-success-carrying-a-reading-nothing-refreshed.finding.ts","id":"01a05e50-ef81-7702-a7a1-1eb6d61f4033"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-group-sort-order-is-unread-in-akasha-and-its-default-contradicts-the-reader.finding.ts","id":"01a0641a-d59b-7c62-8812-dfdd279d6935"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/the-query-link-dies-while-every-query-page-it-names-is-there.finding.ts","id":"01a0641a-d59a-767f-b7f6-88ef4bbba035"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-stoplight-type-names-habit-while-the-inboxes-feed-sends-inbox.finding.ts","id":"01a0826d-707a-7c4a-a803-99c6bfa00637"}
 {"propertySlug":"parts","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/color-from.relation-property.ts","id":"01a063bd-a526-7595-8a5b-3e28242bfe2b"}
