@@ -126,8 +126,6 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/library/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-core/journal-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-tabs/journal-tabs.module.code.ts"}
@@ -184,6 +182,8 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-alchemy-station/modules/alchemy-station/alchemy-station.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-scheduler/async-scheduler.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-events/selector-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-packs/selector-packs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}

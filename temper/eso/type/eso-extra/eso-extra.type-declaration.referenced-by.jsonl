@@ -7,9 +7,6 @@
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-visit-cards-interact/housing-visit-cards-interact.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/assistant-bindings/assistant-bindings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/library/lib-data-encode/modules/data-encode-decoder/data-encode-decoder.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/library/lib-data-encode/modules/data-encode-dictionary/data-encode-dictionary.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/library/lib-data-encode/modules/data-encode-encoder/data-encode-encoder.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/library/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/library/lib-debug-logger/modules/debug-logger-tagged-logger/debug-logger-tagged-logger.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
@@ -44,4 +41,7 @@
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-update/minimap-update.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-api/async-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-task-class/async-task-class.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-data-encode/modules/data-encode-decoder/data-encode-decoder.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-data-encode/modules/data-encode-dictionary/data-encode-dictionary.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/lib-data-encode/modules/data-encode-encoder/data-encode-encoder.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

@@ -1,5 +1,5 @@
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
-import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-contextmenu-shapes/scrollable-menu-contextmenu-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-dropdown-shapes/scrollable-menu-dropdown-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/library/lib-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"

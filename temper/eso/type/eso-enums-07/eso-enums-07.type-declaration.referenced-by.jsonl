@@ -84,9 +84,6 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/items-addon/modules/inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-init/knowledge-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/submenu-text-colors/submenu-text-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-category-requests/histoire-category-requests.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-combobox/scrollable-menu-constants-combobox.module.code.ts"}
@@ -114,6 +111,9 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/map-pins-inventory-scan/map-pins-inventory-scan.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/navigation-addon/modules/minimap-toggles/minimap-toggles.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init/knowledge-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-text-colors/submenu-text-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/armor-type-constants/armor-type-constants.module.code.ts"}

@@ -2,12 +2,12 @@
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-mark-saved-variables/writ-mark-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-codec/lccc-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/lccc/modules/lccc-util/lccc-util.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-init/knowledge-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-ldei/knowledge-ldei.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-motif/knowledge-motif.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-keybinds/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init/knowledge-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-ldei/knowledge-ldei.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-motif/knowledge-motif.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-inventory-trade.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

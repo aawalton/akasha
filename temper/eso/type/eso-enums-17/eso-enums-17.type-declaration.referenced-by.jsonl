@@ -132,11 +132,6 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-scroll-list/keybinder-scroll-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/keybinder-addon/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/library/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/library/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/library/lib-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/library/lib-extended-journal/modules/journal-tooltips/journal-tooltips.module.code.ts"}
@@ -206,6 +201,11 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-submenu/addon-menu-widget-submenu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-alchemy-station/modules/alchemy-station/alchemy-station.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-lib/custom-menu-lib.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/menu-row-setup/menu-row-setup.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/selector-addon/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}

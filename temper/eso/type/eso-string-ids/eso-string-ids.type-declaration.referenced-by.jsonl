@@ -30,12 +30,6 @@
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-mail-store/fco-mail-store.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-settings-defaults/fco-settings-defaults.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-settings/fco-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-public-core/knowledge-public-core.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-public-scribing/knowledge-public-scribing.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-settings-controls/knowledge-settings-controls.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-settings-main-section/knowledge-settings-main-section.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/library/lib-histoire/modules/histoire-dialogs/histoire-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/library/lib-scrollable-menu/modules/scrollable-menu-constants-combobox/scrollable-menu-constants-combobox.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/library/lib-sets/modules/lib-sets-drop-name-names-en/lib-sets-drop-name-names-en.module.code.ts"}
@@ -49,6 +43,12 @@
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-dialogs/addon-menu-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-public-core/knowledge-public-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-public-scribing/knowledge-public-scribing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-settings-controls/knowledge-settings-controls.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-settings-main-section/knowledge-settings-main-section.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-ui-strings/lorebooks-ui-strings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-pins/lost-treasure-pins.module.code.ts"}

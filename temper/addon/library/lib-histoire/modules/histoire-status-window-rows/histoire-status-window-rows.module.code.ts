@@ -18,7 +18,7 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/crafting-addon/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/library-type/lib-custom-menu/lib-custom-menu.type-declaration.d.ts"
-import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"

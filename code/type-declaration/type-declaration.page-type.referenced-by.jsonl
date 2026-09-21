@@ -103,10 +103,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/temper-keybinder-global/temper-keybinder-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/temper-quests-global/temper-quests-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library-type/temper-saved-variables-global/temper-saved-variables-global.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-character-knowledge/knowledge-string-ids/knowledge-string-ids.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-chat-message/chat-message-declarations/chat-message-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-data-encode/data-encode-entry-declarations/data-encode-entry-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-debug-logger/debug-logger-declarations/debug-logger-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-debug-logger/debug-logger-saved-variables/debug-logger-saved-variables.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/library/lib-extended-journal/journal-control-names/journal-control-names.type-declaration.ts"}
@@ -159,6 +155,10 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-alchemy-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-alchemy-station/alchemy-station-entry-declarations/alchemy-station-entry-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-async/async-saved-vars-declarations/async-saved-vars-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-character-knowledge/knowledge-string-ids/knowledge-string-ids.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-chat-message/chat-message-declarations/chat-message-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/lib-data-encode/data-encode-entry-declarations/data-encode-entry-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/trading-addon/trading-globals-declarations/trading-globals-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-global-declarations/dungeon-champion-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/dungeon-champion-saved-vars-declarations/dungeon-champion-saved-vars-declarations.type-declaration.ts"}

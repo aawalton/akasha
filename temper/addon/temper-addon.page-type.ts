@@ -56,6 +56,10 @@ export const temperAddon = {
     "temper-addon/temper-lib-addon-menu-order-list-box",
     "temper-addon/temper-lib-alchemy-station",
     "temper-addon/temper-lib-async",
+    "temper-addon/temper-lib-character-knowledge",
+    "temper-addon/temper-lib-chat-message",
+    "temper-addon/temper-lib-custom-menu",
+    "temper-addon/temper-lib-data-encode",
   ],
   extends: ["page-type/service"],
   properties: [

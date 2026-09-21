@@ -20,7 +20,7 @@ import { searchUI } from "akasha/temper/addon/library/lib-sets/modules/lib-sets-
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/library-type/lib-sets/lib-sets.type-declaration.d.ts"
-import "akasha/temper/addon/library/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/library/lib-sets/lib-sets-misc-ids/lib-sets-misc-ids.type-declaration.d.ts"
 import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-3/lib-sets-search-ui-shapes-3.type-declaration.d.ts"
 import "akasha/temper/addon/library/lib-sets/lib-sets-search-ui-shapes-4/lib-sets-search-ui-shapes-4.type-declaration.d.ts"
