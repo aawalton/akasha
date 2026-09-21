@@ -1,0 +1,11 @@
+import type { Subagent } from "akasha/agent/subagent/subagent.page-type.types.ts"
+
+export const nimueAd694485b515a5cf7 = {
+  id: "01a0c452-b6af-7b34-8a34-718b3d80abb4",
+  type: "page-type/subagent",
+  slug: "nimue-ad694485b515a5cf7",
+  principalSeatName: "seat/nimue",
+  assignmentSlug: "initiative/nimue-auth",
+  dispatchedAs: "Explore",
+  agentId: "01a0babf-8ce8-7000-b412-bb0094c9a1c3--ad694485b515a5cf7",
+} as const satisfies Subagent
