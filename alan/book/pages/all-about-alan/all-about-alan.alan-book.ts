@@ -36,24 +36,13 @@ export const allAboutAlan = {
   directives: [
     {
       directiveKind: "directive-kind/rule",
-      name: "Authorship",
-      act: "Never write a claim about Alan he has not made.",
-      warrant:
-        "An invented sentence looks like one he said, so it reads as fact and nobody checks it again.",
-      aids: [
-        "Write what he said, never what it implies.",
-        "Mark your own reading and you may write it.",
-      ],
-    },
-    {
-      directiveKind: "directive-kind/rule",
       name: "Voice",
       act: "Write every note in Alan's first person.",
       warrant:
         "A third-person note has the same facts, so nothing but the voice shows it is not his.",
       aids: [
         "Convert every sentence, not just what he said.",
-        "Your own marked reading stays in your voice.",
+        "Your own reading stays in your voice.",
       ],
     },
   ],
