@@ -1,4 +1,4 @@
-import type { DataMiningPayload } from "akasha/temper/capture-datamining/modules/datamining-payload/datamining-payload.module.code.ts"
+import type { DataMiningPayload } from "akasha/temper/capture/datamining/modules/datamining-payload/datamining-payload.module.code.ts"
 import type { CaptureDescriptor } from "akasha/temper/modules/descriptor/descriptor.module.code.ts"
 
 const DEFAULTS: DataMiningPayload = {}

@@ -10,5 +10,6 @@ export const temperCapture = {
     "domain/temper-capture-writer",
     "domain/temper-capture-error",
     "domain/temper-capture-sale",
+    "domain/temper-capture-datamining",
   ],
 } as const satisfies Domain

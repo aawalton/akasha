@@ -22,8 +22,8 @@ import {
   getSavedVariables,
   setSavedVariablesAccessor,
 } from "akasha/temper/addon/capture-datamining-addon/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
+import { DATAMINING_CAPTURE_DESCRIPTOR } from "akasha/temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"
-import { DATAMINING_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-datamining/modules/datamining-descriptor/datamining-descriptor.module.code.ts"
 
 function onPlayerActivated(): undefined {
   EVENT_MANAGER.UnregisterForEvent(ADDON_NAME, EVENT_PLAYER_ACTIVATED)

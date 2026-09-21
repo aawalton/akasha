@@ -2,7 +2,7 @@ import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record
 import type {
   MinedItemEntry,
   MinedQuestEntry,
-} from "akasha/temper/capture-datamining/modules/datamining-payload/datamining-payload.module.code.ts"
+} from "akasha/temper/capture/datamining/modules/datamining-payload/datamining-payload.module.code.ts"
 import {
   minedItemSchema,
   minedQuestSchema,

@@ -1771,9 +1771,9 @@
 {"propertySlug":"decision-kind","path":"temper/build-support/temper-build-support.domain.ts","id":"01a0609f-53f7-7460-afb2-168bb75adada"}
 {"propertySlug":"decision-kind","path":"temper/capture-datamining-reader/modules/saved-variables-schema/saved-variables-schema.module.ts","id":"01a0609d-90df-725b-9ebe-3417953f530a"}
 {"propertySlug":"decision-kind","path":"temper/capture-datamining-reader/temper-capture-datamining-reader.domain.ts","id":"01a0609d-90dd-75fe-af4b-e55cf72da4b3"}
-{"propertySlug":"decision-kind","path":"temper/capture-datamining/modules/datamining-descriptor/datamining-descriptor.module.ts","id":"01a0608a-15b1-7b7c-a207-279aad7165d2"}
-{"propertySlug":"decision-kind","path":"temper/capture-datamining/modules/datamining-payload/datamining-payload.module.ts","id":"01a0608a-15b1-7c8a-abad-1fed4e8585a6"}
-{"propertySlug":"decision-kind","path":"temper/capture-datamining/temper-capture-datamining.domain.ts","id":"01a0608a-15b0-78f6-8e8e-282460347005"}
+{"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.ts","id":"01a0608a-15b1-7b7c-a207-279aad7165d2"}
+{"propertySlug":"decision-kind","path":"temper/capture/datamining/modules/datamining-payload/datamining-payload.module.ts","id":"01a0608a-15b1-7c8a-abad-1fed4e8585a6"}
+{"propertySlug":"decision-kind","path":"temper/capture/datamining/temper-capture-datamining.domain.ts","id":"01a0608a-15b0-78f6-8e8e-282460347005"}
 {"propertySlug":"decision-kind","path":"temper/capture/error/modules/errors-descriptor/errors-descriptor.module.ts","id":"01a0608a-15b2-78e5-a967-45a0dec13df1"}
 {"propertySlug":"decision-kind","path":"temper/capture/error/modules/errors-payload/errors-payload.module.ts","id":"01a0608a-15b2-7682-b22a-9bbc37158e7b"}
 {"propertySlug":"decision-kind","path":"temper/capture/error/temper-capture-error.domain.ts","id":"01a0608a-15b2-7b81-afe8-cbf9d7803e3f"}

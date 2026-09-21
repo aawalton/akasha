@@ -11,7 +11,7 @@ import { getSavedVariables } from "akasha/temper/addon/capture-datamining-addon/
 import type {
   MinedItemEntry,
   SetBonus,
-} from "akasha/temper/capture-datamining/modules/datamining-payload/datamining-payload.module.code.ts"
+} from "akasha/temper/capture/datamining/modules/datamining-payload/datamining-payload.module.code.ts"
 
 let currentGeneration = 0
 

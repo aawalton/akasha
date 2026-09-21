@@ -4501,8 +4501,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/build-support/modules/row-grouping/row-grouping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-datamining-reader/modules/mined-data-parse/mined-data-parse.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-datamining-reader/modules/saved-variables-schema/saved-variables-schema.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-datamining/modules/datamining-descriptor/datamining-descriptor.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-datamining/modules/datamining-payload/datamining-payload.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/datamining/modules/datamining-payload/datamining-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/error/modules/errors-descriptor/errors-descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/error/modules/errors-payload/errors-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/sale/modules/sales-descriptor/sales-descriptor.module.ts"}

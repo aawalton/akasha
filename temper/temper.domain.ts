@@ -11,7 +11,6 @@ export const temper = {
     "domain/temper-build-codec",
     "domain/temper-build-hash",
     "domain/temper-build-support",
-    "domain/temper-capture-datamining",
     "domain/temper-capture-datamining-reader",
     "domain/temper-catalog",
     "domain/temper-champion-point",
