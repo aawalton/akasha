@@ -5,10 +5,10 @@ export const alexandriaJusticeJustice = {
   type: "page-type/track",
   slug: "alexandria-justice-justice",
   ownLength: 3.2228833333333333,
-  ownProgress: 0,
+  ownProgress: 3.2228833333333333,
   partOfCollections: ["release/alexandria-justice"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {

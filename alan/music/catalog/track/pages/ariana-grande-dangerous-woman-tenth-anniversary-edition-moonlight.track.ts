@@ -5,10 +5,10 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionMoonlight = {
   type: "page-type/track",
   slug: "ariana-grande-dangerous-woman-tenth-anniversary-edition-moonlight",
   ownLength: 3.3727666666666667,
-  ownProgress: 0,
+  ownProgress: 3.3727666666666667,
   partOfCollections: ["release/ariana-grande-dangerous-woman-tenth-anniversary-edition"],
   position: 1,
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   externalIdentity: [
     {
