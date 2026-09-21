@@ -14,8 +14,6 @@
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-visit-card-send/housing-visit-card-send.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-visit-cards-interact/housing-visit-cards-interact.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-window-controls/housing-window-controls.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/hud-addon/modules/hud-addon-command/hud-addon-command.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/hud-addon/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-bindings/companion-qol-bindings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companion-qol-init/companion-qol-init.module.code.ts"}
@@ -28,6 +26,8 @@
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-events/next-boss-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-init/next-boss-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-timers/next-boss-timers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-command/hud-addon-command.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-entry/trading-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lua-sandbox.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-enchant-quality/character-capture-enchant-quality.module.code.ts"}

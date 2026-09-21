@@ -22,7 +22,6 @@
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/crafting-state/crafting-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/rune-panel/rune-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/crafting-addon/modules/writ-smith-parser-ops/writ-smith-parser-ops.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/hud-addon/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/interface-addon/modules/quiet-world/quiet-world.module.code.ts"}
@@ -55,6 +54,7 @@
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-build-export/combat-ui-build-export.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-06.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-public-research/knowledge-public-research.module.code.ts"}

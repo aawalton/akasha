@@ -1,7 +1,7 @@
 {"addonKind":"native"}
 {"addonName":"TemperHud"}
 {"adjacents":["held-addon/temper-inventory","held-addon/temper-interface"]}
-{"esoAddon":"temper-addon/temper-hud-addon"}
+{"esoAddon":"temper-addon/temper-addon-hud"}
 {"heldBy":13085}
 {"id":"01a081a1-453c-7b1d-b913-d260d874eae6"}
 {"slug":"temper-hud"}
