@@ -1,4 +1,4 @@
-import { asLibPriceTable } from "akasha/temper/addon/pages/crafting/modules/price-casts/price-casts.module.code.ts"
+import { asPriceTable } from "akasha/temper/addon/pages/crafting/modules/price-casts/price-casts.module.code.ts"
 import {
   ATT,
   CACHE_DUR_SECONDS,
@@ -25,7 +25,7 @@ import {
   TTC,
 } from "akasha/temper/addon/pages/crafting/modules/price-constants/price-constants.module.code.ts"
 
-export const lib = asLibPriceTable({
+export const lib = asPriceTable({
   day_ct_short: DAY_CT_SHORT,
   day_ct_long: DAY_CT_LONG,
   MM,

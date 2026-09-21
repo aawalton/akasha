@@ -60,7 +60,7 @@ export interface SpreadMetric {
   sum?: number
 }
 
-export interface LibPriceTable {
+export interface PriceTable {
   day_ct_short: number
   day_ct_long: number
   MM: string

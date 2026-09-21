@@ -1,14 +1,14 @@
 import type {
   GlobalTable,
   ItemPriceRecord,
-  LibPriceTable,
   OptionalNumber,
+  PriceTable,
   RawPrice,
   SourceSet,
 } from "akasha/temper/addon/pages/crafting/modules/price-types/price-types.module.code.ts"
 
-export function asLibPriceTable(value: unknown): LibPriceTable {
-  return value as LibPriceTable
+export function asPriceTable(value: unknown): PriceTable {
+  return value as PriceTable
 }
 
 export function asGlobalTable(value: unknown): GlobalTable {
