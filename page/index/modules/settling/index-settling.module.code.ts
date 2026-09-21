@@ -1,11 +1,6 @@
 import {
-  idsUnnamed,
   pagesElsewhere,
-  pagesNaming,
-  pagesOfTypes,
   pagesStranded,
-  relationsTurned,
-  typesDeclaring,
 } from "akasha/page/index/modules/beside-turning/beside-turning.module.code.ts"
 import {
   type Entry,
@@ -29,7 +24,6 @@ import {
 } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
-  shapesAt,
   shapesLaidOn,
   shapesWritten,
 } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
@@ -180,7 +174,7 @@ export function settlingOver(
   const fileProperties = new Map<string, string | null>([...filed, ...fileKeysIn(left)])
   const filedBy = filePropertiesOver(reading, left)
   const naming = reachingSettled(reading, held, moving, repo, fileProperties, filedBy)
-  const { was: wasNaming, reread } = rereadOver(
+  const { was: wasNaming } = rereadOver(
     reading,
     held,
     repo,
@@ -189,7 +183,6 @@ export function settlingOver(
     naming,
     bodyAt
   )
-  const importing = [...held, ...reread]
 
   const written = shapesWritten(reading, held)
   const bodied = new Map<string, string>()
@@ -253,47 +246,16 @@ export function settlingOver(
     })
   const wasKnown = knownIn(reading, wasPageOf)
   const known = knownIn(stepped, nowPageOf)
-  const turnedRelations = relationsTurned(shapesAt(reading), shapesAt(overShaped))
-  const relating = pagesOfTypes(
-    reading,
-    typesDeclaring(reading, [wasSource, nowSource], turnedRelations),
-    carriedAt
+  const referencedWas = held.map((one) =>
+    one.was === null
+      ? NOTHING_REFERENCED
+      : namedFrom(one.was, one.path, wasKnown, repo, rowsFor(one.path, one.was, wasKnown, wasBody))
   )
-  const rebound = pagesNaming(reading, idsUnnamed(identity), carriedAt)
-  const already = new Set(relating.map((one) => one.path))
-  const refiling = [...relating, ...rebound.filter((one) => !already.has(one.path))]
-  const referencedWas = [
-    ...held.map((one) =>
-      one.was === null
-        ? NOTHING_REFERENCED
-        : namedFrom(
-            one.was,
-            one.path,
-            wasKnown,
-            repo,
-            rowsFor(one.path, one.was, wasKnown, wasBody)
-          )
-    ),
-    ...refiling.map((one) =>
-      namedFrom(
-        one.value,
-        one.path,
-        wasKnown,
-        repo,
-        rowsFor(one.path, one.value, wasKnown, wasBody)
-      )
-    ),
-  ]
-  const referencedNow = [
-    ...held.map((one) =>
-      one.now === null
-        ? NOTHING_REFERENCED
-        : namedFrom(one.now, one.path, known, repo, rowsFor(one.path, one.now, known, nowBody))
-    ),
-    ...refiling.map((one) =>
-      namedFrom(one.value, one.path, known, repo, rowsFor(one.path, one.value, known, nowBody))
-    ),
-  ]
+  const referencedNow = held.map((one) =>
+    one.now === null
+      ? NOTHING_REFERENCED
+      : namedFrom(one.now, one.path, known, repo, rowsFor(one.path, one.now, known, nowBody))
+  )
   const arrived = new Map<string, string>()
   for (const one of held) {
     if (one.now === null) continue
@@ -320,27 +282,26 @@ export function settlingOver(
       .filter((line) => line !== "")
       .map((line) => ({ at, line }))
   )
-  const refilingAt = new Set(refiling.map((one) => under(repo, one.path)))
   const carriedOn = leftBehind.flatMap((one) => {
     const to = movedTo.get(one.at)
     if (to === undefined) return []
     const said = JSON.parse(one.line) as { readonly path?: unknown; readonly id?: unknown }
     if (typeof said.path !== "string" || typeof said.id !== "string") return []
-    if (carriedAt.has(said.path) || refilingAt.has(said.path)) return []
+    if (carriedAt.has(said.path)) return []
     return [{ at: to, line: one.line }]
   })
   const references = filingOf(
     [
       ...leftBehind,
       ...referencedWas.flatMap((one) => one.entries),
-      ...importing.flatMap((one) =>
+      ...held.flatMap((one) =>
         one.before === null ? [] : importedFrom(reading, one.before, one.path, repo, wasNaming)
       ),
     ],
     [
       ...carriedOn,
       ...referencedNow.flatMap((one) => one.entries),
-      ...importing.flatMap((one) =>
+      ...held.flatMap((one) =>
         one.after === null ? [] : importedFrom(stepped, one.after, one.path, repo, naming)
       ),
     ].filter((one) => !vacated.has(one.at))

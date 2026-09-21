@@ -72,10 +72,15 @@ function aRelation(one: string, slug: string, target: string): string {
   })
 }
 
-function repointing(root: string, at: string, body: string): Change {
+function repointing(root: string, at: string, body: string, ...carried: string[]): Change {
   const held = onDisk(root)
   const bytes = TEXT.encode(body)
-  return { root, changed: [at], before: held, after: (path) => (path === at ? bytes : held(path)) }
+  return {
+    root,
+    changed: [at, ...carried],
+    before: held,
+    after: (path) => (path === at ? bytes : held(path)),
+  }
 }
 
 test("the shadow answers exactly what the index answers once that change has really landed", () => {
@@ -294,16 +299,27 @@ test("a page no commit holds is read from the body on disk at that page's path",
   expect(cast.shadow.pageOf(UNFILED_AT)?.["slug"]).toBe("in-the-tree-alone")
 })
 
-test("a page the change leaves naming nothing is among the refusals, though the change does not carry it", () => {
+test("a page the change carries and leaves naming nothing is among the refusals", () => {
   const root = indexedRepo()
-  const cast = shadowFor(repointing(root, NOTE_AT, aRelation("b", "note", "page-property")))
+  const cast = shadowFor(
+    repointing(root, NOTE_AT, aRelation("b", "note", "page-property"), NAMER_PAGE)
+  )
   if ("refused" in cast) throw new Error(cast.refused)
   expect(cast.shadow.refusals()).toEqual([NOTE_BROKEN])
 })
 
+test("a page the change does not carry is no refusal however the change leaves that page naming", () => {
+  const root = indexedRepo()
+  const cast = shadowFor(repointing(root, NOTE_AT, aRelation("b", "note", "page-property")))
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.refusals()).toEqual([])
+})
+
 test("a refusal the world already had is no refusal the change leaves", () => {
   const root = indexedRepo({ [NOTE_AT]: aRelation("b", "note", "page-property") })
-  const cast = shadowFor(repointing(root, PARTS_AT, aRelation("c", "part-slugs", "page-type")))
+  const cast = shadowFor(
+    repointing(root, PARTS_AT, aRelation("c", "part-slugs", "page-type"), NAMER_PAGE)
+  )
   if ("refused" in cast) throw new Error(cast.refused)
   expect(cast.shadow.refusals()).toEqual([PARTS_BROKEN])
 })

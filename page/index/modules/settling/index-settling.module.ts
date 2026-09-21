@@ -77,14 +77,17 @@ export const indexSettling = {
       statement: "An edge is withdrawn against where its specifier landed before the change.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The relation filing covers pages the change does not carry.",
+      decisionKind: "decision-kind/absence",
+      statement: "The relation filing covers no page the change does not carry.",
     },
-
     {
-      decisionKind: "decision-kind/departure",
+      decisionKind: "decision-kind/absence",
       statement:
-        "A change turning a property's key or target refiles the pages of that property's declaring types.",
+        "A change turning a property's key or target refiles no page of that property's declaring types.",
+    },
+    {
+      decisionKind: "decision-kind/upkeep",
+      statement: "A reference line left stale that way is mended by a refresh rather than here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -96,9 +99,8 @@ export const indexSettling = {
       statement: "A page the index cannot read is reported rather than answered as empty.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "An importer reread is read as the change leaves that importer rather than off the disk.",
+      decisionKind: "decision-kind/absence",
+      statement: "No importer the change does not carry is read again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -106,12 +108,8 @@ export const indexSettling = {
         "The page a name reaches is read as the change leaves that page rather than off the disk.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A change leaving an id under no name refiles the pages naming that id.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page refiled for more than one reason is refiled once.",
+      decisionKind: "decision-kind/absence",
+      statement: "A change leaving an id under no name refiles no page naming that id.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -164,7 +162,7 @@ export const indexSettling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name from a page the settle refiles is left out of what moves that way.",
+      statement: "A name from a page the change carries is left out of what moves that way.",
     },
     {
       decisionKind: "decision-kind/absence",

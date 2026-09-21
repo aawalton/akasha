@@ -206,11 +206,15 @@ test("a refusal the world already had is answered apart from the refusal a chang
   const textOf = textIn(root)
   const was = textOf(NOTE_AT) ?? ""
   const now = notePointing("file-property")
+  const namer = textOf(NAMER_PAGE)
 
   const settled = settlingOver(
     readingIn(root),
     root,
-    [{ path: NOTE_AT, before: was, after: now }],
+    [
+      { path: NOTE_AT, before: was, after: now },
+      { path: NAMER_PAGE, before: namer, after: namer },
+    ],
     (path) => {
       const body = textOf(path)
       return body === null ? null : valueIn(body)
