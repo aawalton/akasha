@@ -1,0 +1,8 @@
+{"id":"01a0c64f-8b0a-7e4f-8437-07ee1a4928c4"}
+{"model":"OpenMOSS-Team/MOSS-TTS-v1.5"}
+{"operation":"voice-clone"}
+{"service":"moss-tts"}
+{"slug":"audio-85871630b68e9577"}
+{"text":"'Listen, then, Socrates, to us who have brought you up. Think not of life and children first, and of justice afterwards, but of justice first, that you may be justified before the princes of the world below. For neither will you nor any that belong to you be happier or holier or juster in this life, or happier in another, if you do as Crito bids. Now you depart in innocence, a sufferer and not a doer of evil; a victim, not of the laws, but of men. But if you go forth, returning evil for evil, and injury for injury, breaking the covenants and agreements which you have made with us, and wronging those whom you ought least of all to wrong, that is to say, yourself, your friends, your country, and us, we shall be angry with you while you live, and our brethren, the laws in the world below, will receive you as an enemy; for they will know that you have done your best to destroy us. Listen, then, to us and not to Crito.' This, dear Crito, is the voice which I seem to hear murmuring in my ears, like the sound of the flute in the ears of the mystic; that voice, I say, is humming in my ears, and prevents me from hearing any other. And I know that anything more which you may say will be vain. Yet speak, if you have anything to say. Crito: I have nothing to say, Socrates. Socrates: Leave me then, Crito, to fulfil the will of God, and to follow whither he leads."}
+{"title":"moss-tts voice-clone @ 2026-07-19T09:21:40.729Z"}
+{"type":"page-type/audio"}

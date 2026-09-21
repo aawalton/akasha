@@ -1,0 +1,12 @@
+import type { Audio } from "akasha/infrastructure/inference/generation/audio/audio.page-type.types.ts"
+
+export const audioDf9226032b3697b1 = {
+  id: "01a0c64f-8b08-7ea1-b8e8-de6b17acabbe",
+  type: "page-type/audio",
+  slug: "audio-df9226032b3697b1",
+  title: "moss-tts voice-clone @ 2026-07-19T04:22:45.385Z",
+  service: "moss-tts",
+  operation: "voice-clone",
+  model: "OpenMOSS-Team/MOSS-TTS-v1.5",
+  text: "But this is what I call the facetious riddle invented by you: the demigods or spirits are gods, and you say first that I do not believe in gods, and then again that I do believe in gods; that is, if I believe in demigods. For if the demigods are the illegitimate sons of gods, whether by the nymphs or by any other mothers, of whom they are said to be the sons—what human being will ever believe that there are no gods if they are the sons of gods? You might as well affirm the existence of mules, and deny that of horses and asses. Such nonsense, Meletus, could only have been intended by you to make trial of me. You have put this into the indictment because you had nothing real of which to accuse me. But no one who has a particle of understanding will ever be convinced by you that the same men can believe in divine and superhuman things, and yet not believe that there are gods and demigods and heroes. I have said enough in answer to the charge of Meletus: any elaborate defence is unnecessary, but I know only too well how many are the enmities which I have incurred, and this is what will be my destruction if I am destroyed;—not Meletus, nor yet Anytus, but the envy and detraction of the world, which has been the death of many good men, and will probably be the death of many more; there is no danger of my being the last of them.",
+} as const satisfies Audio
