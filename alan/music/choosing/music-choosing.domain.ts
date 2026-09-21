@@ -10,6 +10,7 @@ export const musicChoosing = {
     "module/rating-ladder",
     "module/track-candidate",
     "module/track-resolving",
+    "module/unheard-picking",
   ],
   decisions: [
     {
