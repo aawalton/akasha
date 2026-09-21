@@ -39,7 +39,7 @@ export const SLASH_COMMANDER: Lib = {
 } as Lib
 
 SLASH_COMMANDER.Log = function (this: void, message: string, ...args: unknown[]): undefined {
-  df("[LibSlashCommander] " + message, ...args)
+  df("[TemperCrafting slash commands] " + message, ...args)
 }
 
 SLASH_COMMANDER.IsCallable = function (this: void, func: unknown): boolean {
