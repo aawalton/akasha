@@ -77,6 +77,7 @@
 {"propertySlug":"extends-type","path":"page/type/page-property/page-property.page-type.ts","id":"01a04dff-9d7d-7459-a8c0-e038dc7714c3"}
 {"propertySlug":"extends-type","path":"page/type/page-type.page-type.ts","id":"01a049ae-fe2c-7343-8ab6-f94d8927164a"}
 {"propertySlug":"extends-type","path":"page/unique-kind/unique-kind.page-type.ts","id":"01a04edd-897d-7e60-9206-d1b3a52bea1f"}
+{"propertySlug":"extends-type","path":"person/access-deed/access-deed.page-type.ts","id":"01a0c4e5-b199-731b-8466-73e43f5f9395"}
 {"propertySlug":"extends-type","path":"person/access-kind/access-kind.page-type.ts","id":"01a0542d-0f75-73b3-a578-8d20baddb655"}
 {"propertySlug":"extends-type","path":"person/authority-kind/authority-kind.page-type.ts","id":"01a0542d-0f76-7ac0-97f4-c19e1d035437"}
 {"propertySlug":"extends-type","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
@@ -499,6 +500,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"page/ui/supabase/page-ui-supabase.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"page/unique-kind/unique-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"page/url/page-url.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"person/access-deed/access-deed.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"person/access-kind/access-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"person/authority-kind/authority-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"person/email/action/archive/email-action-archive.domain.ts"}

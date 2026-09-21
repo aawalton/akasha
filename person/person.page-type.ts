@@ -42,6 +42,7 @@ export const person = {
     "relation-property/answered-by",
     "text-property/supabase-auth-user-id",
     "relation-property/person-contributor",
+    "page-type/access-deed",
   ],
   properties: [
     { pageProperty: "relation-property/answered-by", required: true, many: false },

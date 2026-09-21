@@ -343,6 +343,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/unique-kind/unique-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/url-property/url-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/view/view.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/access-deed/access-deed.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/access-kind/access-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/access/person-access.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/authority-kind/authority-kind.page-type.ts"}
