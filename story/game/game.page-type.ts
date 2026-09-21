@@ -183,6 +183,14 @@ export const game = {
       decisionKind: "decision-kind/absence",
       statement: "No check of whether the machinery works takes a turn in a game being played.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every number a turn settles comes from a mechanic the game names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game master asks a mechanic for a number rather than working that number out.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
