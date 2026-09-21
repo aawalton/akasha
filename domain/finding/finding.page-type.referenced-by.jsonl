@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-crash-looping-watch-service-reads-as-well-because-it-can-never-reach-failed.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-deploy-places-every-secret-its-manifests-demand.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-deploy-that-refuses-is-judged-over-more-the-next-time.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-derived-file-a-landing-commits-can-disagree-with-the-pages-at-that-commit.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-dozen-red-test-files-is-the-ordinary-state-rather-than-a-regression.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-draft-claims-no-text-so-a-change-over-many-files-lands-only-by-being-fast.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-fence-that-keeps-its-newline-refuses-as-though-the-body-had-moved.finding.ts"}
@@ -54,6 +55,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-module-losing-its-last-importer-is-refused-by-no-check.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-move-leaves-the-pinned-tree-every-unit-runs-from-behind-including-the-deploy.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-name-place-check-reaches-the-vendored-lua-runtime.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-nav-relation-naming-an-empty-slug-makes-every-index-refresh-exit-two.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-query-holds-the-loop-while-it-reads.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-removal-is-refused-by-the-folder-shape-check-over-a-folder-it-empties.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-type-in-a-folder-named-its-plural-has-its-pages-composed-one-folder-too-deep.finding.ts"}
