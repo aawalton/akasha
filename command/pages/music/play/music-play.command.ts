@@ -4,7 +4,7 @@ export const musicPlay = {
   id: "01a062f9-5ca9-7fc5-acba-8d513404a6f9",
   type: "page-type/command",
   slug: "music-play",
-  definition: "the command playing one track, named by a query or by a track uri",
+  definition: "the command playing one track or one context, named by a query or by a uri",
   code: "ts",
   test: "ts",
   decisions: [
@@ -19,6 +19,14 @@ export const musicPlay = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A uri naming no track is played exactly as the uri was written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A playlist uri, an album uri and an artist uri each name the context played.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other uri names the track played.",
     },
     {
       decisionKind: "decision-kind/departure",

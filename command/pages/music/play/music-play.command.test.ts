@@ -22,6 +22,10 @@ const MOTION: ResolvedTrack = {
   artists: ["Phoebe Bridgers"],
 }
 
+const PLAYLIST = "spotify:playlist:2L6oEjIg7HpfRzv2FrfZcG"
+const ALBUM = "spotify:album:1ZGxGu4fMROqmZsFSoepeE"
+const ARTIST = "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+
 type Kept = {
   readonly queries: { query: string; artist: string | undefined }[]
   readonly fetched: string[]
@@ -117,6 +121,41 @@ test("a uri naming no track is played as it was written", async () => {
   expect(fake.kept.fetched).toEqual([])
   expect(fake.kept.started).toEqual([{ uris: ["spotify:episode:abc"] }])
   expect(said.report).toEqual([`▶ Playing "spotify:episode:abc"`])
+})
+
+test("a playlist uri is played as the context rather than as a track", async () => {
+  const fake = fakeFor()
+  const said = await playing(["--uri", PLAYLIST], fake.ports, CALLED)
+  expect(said.code).toBe(0)
+  expect(fake.kept.fetched).toEqual([])
+  expect(fake.kept.started).toEqual([{ contextUri: PLAYLIST }])
+})
+
+test("an album uri is played as the context", async () => {
+  const fake = fakeFor()
+  const said = await playing(["--uri", ALBUM], fake.ports, CALLED)
+  expect(said.code).toBe(0)
+  expect(fake.kept.started).toEqual([{ contextUri: ALBUM }])
+})
+
+test("an artist uri is played as the context", async () => {
+  const fake = fakeFor()
+  const said = await playing(["--uri", ARTIST], fake.ports, CALLED)
+  expect(said.code).toBe(0)
+  expect(fake.kept.started).toEqual([{ contextUri: ARTIST }])
+})
+
+test("a playlist uri played on a device named carries that device", async () => {
+  const fake = fakeFor()
+  await playing(["--uri", PLAYLIST, "--device-id", "abc123"], fake.ports, CALLED)
+  expect(fake.kept.started).toEqual([{ contextUri: PLAYLIST, deviceId: "abc123" }])
+})
+
+test("a uri of no context kind is played as a track", async () => {
+  const fake = fakeFor()
+  const said = await playing(["--uri", "spotify:show:abc"], fake.ports, CALLED)
+  expect(said.code).toBe(0)
+  expect(fake.kept.started).toEqual([{ uris: ["spotify:show:abc"] }])
 })
 
 test("a query named beside a uri refuses the call as an input fault", async () => {

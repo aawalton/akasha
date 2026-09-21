@@ -32,7 +32,8 @@ import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts
 const NAMED = [artistArgument, deviceIdArgument, json, queryArgument, uriArgument]
 
 export type StartResumeOptions = {
-  readonly uris: readonly string[]
+  readonly contextUri?: string
+  readonly uris?: readonly string[]
   readonly deviceId?: string
 }
 
@@ -41,8 +42,15 @@ export type Starting = {
   readonly startResumePlayback: (options: StartResumeOptions) => Promise<void>
 }
 
+const CONTEXT_KINDS = ["playlist", "album", "artist"]
+
+function playedAs(uri: string): StartResumeOptions {
+  const kind = uri.split(":")[1] ?? ""
+  return CONTEXT_KINDS.includes(kind) ? { contextUri: uri } : { uris: [uri] }
+}
+
 function startResumeOptionsFor(uri: string, deviceId: string | undefined): StartResumeOptions {
-  return { uris: [uri], ...(deviceId !== undefined && { deviceId }) }
+  return { ...playedAs(uri), ...(deviceId !== undefined && { deviceId }) }
 }
 
 export async function startedOn(
