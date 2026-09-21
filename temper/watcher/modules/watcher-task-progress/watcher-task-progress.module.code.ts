@@ -23,6 +23,7 @@ export type Refreshed = {
   readonly slug: string
   readonly progressCurrent: number
   readonly progressTotal: number
+  readonly effectiveCharacter: string | null
   readonly rows: readonly ProgressRow[]
 }
 
@@ -104,6 +105,7 @@ export function refreshedFor(
     slug: task.slug,
     progressCurrent: reading.progressCurrent,
     progressTotal: reading.progressTotal,
+    effectiveCharacter: reading.effectiveCharacterId ?? null,
     rows,
   }
 }

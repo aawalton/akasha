@@ -50,6 +50,14 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A task states the character it falls to as its progress lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A task falling to nobody states no character rather than the last one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every reach outside this module is an argument the caller may hand in.",
     },
     {

@@ -22,6 +22,14 @@ export const watcherTaskProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The character a task falls to is read from the index beside its totals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A task every character has finished falls to nobody.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The id a character's line already had is kept rather than minted again.",
     },
     {

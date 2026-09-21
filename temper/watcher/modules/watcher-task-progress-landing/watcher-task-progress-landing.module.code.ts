@@ -222,6 +222,7 @@ export function putsFor(
       progress: PROGRESS_ENDING,
       progressCurrent: done.progressCurrent,
       progressTotal: done.progressTotal,
+      effectiveCharacter: done.effectiveCharacter,
     })
     if (body !== null) puts.push({ path: page, content: body })
   }

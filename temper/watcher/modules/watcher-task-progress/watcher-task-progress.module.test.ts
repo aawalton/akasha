@@ -95,6 +95,37 @@ test("a task the index does not name is passed over", () => {
   expect(refreshedFor({ slug: "a" }, INDEX, "")).toBe(null)
 })
 
+test("the character a task falls to is read from the index", () => {
+  const named = {
+    characters: { c1: { label: "Durene", sortOrder: 10 }, c2: { label: "Amerys", sortOrder: 5 } },
+    paths: {
+      "daily-writs": {
+        current: 7,
+        total: 14,
+        effectiveCharacterId: "c2",
+        entries: { c1: { current: 7, total: 7 }, c2: { current: 0, total: 7 } },
+      },
+    },
+  }
+  const done = refreshedFor(
+    { slug: "crafting-writs", completionCardId: "daily-writs" },
+    named,
+    HELD,
+    () => "minted"
+  )
+  expect(done?.effectiveCharacter).toBe("c2")
+})
+
+test("a task the index names no character for falls to nobody", () => {
+  const done = refreshedFor(
+    { slug: "crafting-writs", completionCardId: "daily-writs" },
+    INDEX,
+    HELD,
+    () => "minted"
+  )
+  expect(done?.effectiveCharacter).toBe(null)
+})
+
 test("rows come back in the order the reading gave them", () => {
   const done = refreshedFor(
     { slug: "crafting-writs", completionCardId: "daily-writs" },
