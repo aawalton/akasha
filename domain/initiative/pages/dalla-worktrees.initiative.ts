@@ -11,7 +11,7 @@ export const dallaWorktrees = {
       statement:
         "A deployed service runs from a checkout at the commit it was deployed at, every file deep.",
       workingMemory:
-        "`.index` is committed whole, so a tree reset to a commit holds what a reader needs, and the `refreshedFrom` `pinnedTree` runs after that reset is dead work leaving every tree dirty. `package.json` names the package `akasha` and every tree carries one, so `akasha/…` in a tree resolves in that tree: the pin is deep. `/read` serves from one root, the checkout, with no commit in it, so the 16 wire-loaded services run live code. Cluster pods reset to `origin/main` rather than the deployed commit.",
+        "Done: the index rebuild is off `pinnedTree` (`7883811d`), and a cluster pod resets to the commit its manifest was composed at (`b11bddb3`). Every tree carries a `package.json` naming the package `akasha`, so `akasha/…` in a tree resolves in that tree. Left: `/read` serves from the checkout with no commit in it, so 16 wire-loaded services run live code; 33 drafts removing that loader are parked under subagent record `dalla-aa59d9ba86c9a7948`, waiting on where `temper-watcher`'s ordering belongs.",
     },
   ],
 } as const satisfies Initiative
