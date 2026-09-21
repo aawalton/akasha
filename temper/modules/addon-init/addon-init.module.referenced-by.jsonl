@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/collections-addon/modules/collections-addon-entry/collections-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/companions-addon/modules/companions-entry/companions-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/events-addon/modules/events-addon-entry/events-addon-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/housing-addon/modules/housing-entry/housing-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/hud-addon/modules/hud-addon-entry/hud-addon-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/keybinder-addon/modules/keybinder-entry/keybinder-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/quests-addon/modules/quests-entry/quests-entry.module.code.ts"}
@@ -11,7 +12,6 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/characters-addon/modules/characters-entry/characters-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/combat-addon/modules/combat-entry/combat-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/crafting-addon/modules/crafting-entry/crafting-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/housing-addon/modules/housing-entry/housing-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/interface-addon/modules/interface-entry/interface-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/items-addon/modules/inventory-entry/inventory-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/navigation-addon/modules/navigation-entry/navigation-entry.module.code.ts"}

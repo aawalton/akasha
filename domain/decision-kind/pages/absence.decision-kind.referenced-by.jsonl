@@ -1657,6 +1657,13 @@
 {"propertySlug":"decision-kind","path":"temper/addon/errors-addon/temper-errors-addon.eso-addon.ts","id":"01a060d8-091b-75bc-9d03-8347c2e81d2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/modules/next-boss-ui-strings/next-boss-ui-strings.module.ts","id":"01a06157-8357-7537-a6bd-307d783c5836"}
 {"propertySlug":"decision-kind","path":"temper/addon/events-addon/next-boss-declarations/next-boss-declarations.type-declaration.ts","id":"01a0620a-a165-79b6-89ee-06d189040e29"}
+{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-build-casts/housing-build-casts.module.ts","id":"01a06113-b7cd-713c-9e44-bec20c408d8d"}
+{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-holder-types/housing-holder-types.module.ts","id":"01a06113-b7ce-7f67-beb7-a7a3ee79e25d"}
+{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-house-names/housing-house-names.module.ts","id":"01a06113-b7ce-7b9b-af21-351c6f82669b"}
+{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-state-types/housing-state-types.module.ts","id":"01a06113-b7d2-7a53-af12-f4a88f37c476"}
+{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-types/housing-types.module.ts","id":"01a06113-b7d3-78a4-80ec-95d612619454"}
+{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/modules/housing-visit-cards-view/housing-visit-cards-view.module.ts","id":"01a06113-b7d3-7108-b73c-002d1663f7df"}
+{"propertySlug":"decision-kind","path":"temper/addon/housing-addon/temper-housing-addon.eso-addon.ts","id":"01a06113-b7cb-7519-aaf3-198045bc75aa"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-addon/modules/hud-addon-hide-plan/hud-addon-hide-plan.module.ts","id":"01a061c5-18dd-700b-9e4a-ac33f45c2a8f"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-addon/modules/hud-addon-hide-targets/hud-addon-hide-targets.module.ts","id":"01a061c5-18dd-7009-859a-31630f29ad1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/hud-addon/modules/hud-addon-types/hud-addon-types.module.ts","id":"01a061c5-18dd-7000-bd52-66ec64cec528"}
@@ -1790,13 +1797,6 @@
 {"propertySlug":"decision-kind","path":"temper/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.ts","id":"01a06127-6644-7d5a-b5dd-845d71c2890e"}
 {"propertySlug":"decision-kind","path":"temper/game-catalog-capture-addon/modules/item-type-constants/item-type-constants.module.ts","id":"01a06127-6646-7876-957d-a9127eb6ef26"}
 {"propertySlug":"decision-kind","path":"temper/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts","id":"01a060e2-3185-7405-a79e-40fe38c8220f"}
-{"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-build-casts/housing-build-casts.module.ts","id":"01a06113-b7cd-713c-9e44-bec20c408d8d"}
-{"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-holder-types/housing-holder-types.module.ts","id":"01a06113-b7ce-7f67-beb7-a7a3ee79e25d"}
-{"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-house-names/housing-house-names.module.ts","id":"01a06113-b7ce-7b9b-af21-351c6f82669b"}
-{"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-state-types/housing-state-types.module.ts","id":"01a06113-b7d2-7a53-af12-f4a88f37c476"}
-{"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-types/housing-types.module.ts","id":"01a06113-b7d3-78a4-80ec-95d612619454"}
-{"propertySlug":"decision-kind","path":"temper/housing-addon/modules/housing-visit-cards-view/housing-visit-cards-view.module.ts","id":"01a06113-b7d3-7108-b73c-002d1663f7df"}
-{"propertySlug":"decision-kind","path":"temper/housing-addon/temper-housing-addon.eso-addon.ts","id":"01a06113-b7cb-7519-aaf3-198045bc75aa"}
 {"propertySlug":"decision-kind","path":"temper/interface-addon/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.ts","id":"01a06115-1ac5-7e5c-8d3a-faa3aae9eba1"}
 {"propertySlug":"decision-kind","path":"temper/interface-addon/modules/fco-crafting-smithing-improve/fco-crafting-smithing-improve.module.ts","id":"01a06115-1ac7-7496-8d0d-86f1548469eb"}
 {"propertySlug":"decision-kind","path":"temper/interface-addon/modules/fco-crafting-smithing/fco-crafting-smithing.module.ts","id":"01a06115-1ac7-7093-bdbd-2f2d354a8b32"}

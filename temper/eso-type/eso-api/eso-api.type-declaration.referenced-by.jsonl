@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-init/next-boss-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/events-addon/modules/next-boss-saved-variables/next-boss-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/housing-addon/modules/housing-init/housing-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/hud-addon/modules/hud-addon-bar/hud-addon-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/hud-addon/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/trading-addon/modules/trading-browse-window/trading-browse-window.module.code.ts"}
@@ -35,5 +36,4 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/game-catalog-capture-addon/modules/companion-skill-catalog-capture/companion-skill-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/game-catalog-capture-addon/modules/skill-catalog-capture/skill-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/housing-addon/modules/housing-init/housing-init.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso-type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

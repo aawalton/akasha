@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/companions-addon/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/events-addon/modules/next-boss-menu/next-boss-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/housing-addon/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/hud-addon/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/library/lib-character-knowledge/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/addon/library/lib-histoire/modules/histoire-settings/histoire-settings.module.code.ts"}
@@ -10,7 +11,6 @@
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/crafting-addon/modules/writ-mark-settings/writ-mark-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/crafting-addon/modules/writ-settings-window/writ-settings-window.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/housing-addon/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/interface-addon/modules/fco-settings-menu/fco-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/interface-addon/modules/quiet-settings-menu/quiet-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"register-panel.module.code.ts","path":"temper/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts"}
