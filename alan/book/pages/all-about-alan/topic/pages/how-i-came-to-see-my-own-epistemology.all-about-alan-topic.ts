@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const howICameToSeeMyOwnEpistemology = {
+  id: "01a0c5a7-f112-71fe-8508-d965e0df96fc",
+  type: "page-type/all-about-alan-topic",
+  slug: "how-i-came-to-see-my-own-epistemology",
+  title: "How I Came To See My Own Epistemology",
+  definition: "swapping coherence for compactness, and the swap being the gauge run on itself",
+  parents: ["all-about-alan-topic/how-i-know-things"],
+  related: ["all-about-alan-topic/why-a-true-model-is-smaller"],
+  settled:
+    "The engine always ran. What arrived late was seeing what it was doing. The operation is innate and the model of the operation is recent.\n\nI built a map of the epistemologies, picked coherence as the nearest thing to what happens in my head, and held that for years. I swapped it for compactness only recently, reading Deutsch.\n\nThe swap was the gauge run on itself. Compactness was already the necessary account of something else: with no store of events behind me, the only thing that reaches the present is compression folded into the model I hold now. So compactness explains storage and truth-detection with one mechanism.\n\nCoherence only ever explained truth-detection, so it was a second mechanism bolted alongside. One mechanism covering two things is more compact than two covering two.\n\nCompactness out-competed coherence by compactness's own rule.",
+} as const satisfies AllAboutAlanTopic
