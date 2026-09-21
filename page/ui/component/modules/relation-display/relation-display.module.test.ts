@@ -31,8 +31,8 @@ describe("resolveRelationName", () => {
     expect(resolveRelationName(RESOLVER, { id: PAGE_ID, title: "Carried" })).toBe("Carried")
   })
 
-  it("says Untitled where the page an address reaches has no title", () => {
-    expect(resolveRelationName(NAMELESS, ADDRESS)).toBe("Untitled")
+  it("answers the address where the page that address reaches has no title", () => {
+    expect(resolveRelationName(NAMELESS, ADDRESS)).toBe(ADDRESS)
   })
 
   it("answers the value itself where nothing reaches a page", () => {

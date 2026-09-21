@@ -20,5 +20,10 @@ export const relationDisplay = {
       decisionKind: "decision-kind/departure",
       statement: "A relation value reaching no page is drawn as the text that value is.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page holding no title is drawn as the text reaching it rather than as Untitled.",
+    },
   ],
 } as const satisfies Module

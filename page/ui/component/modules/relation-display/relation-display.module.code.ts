@@ -22,11 +22,11 @@ export function resolveRelationName(
   resolver: { resolve: (id: string) => { id: string; title: string } | null } | null,
   value: RelationValue
 ): string {
-  if (typeof value === "object") return value.title !== "" ? value.title : "Untitled"
+  if (typeof value === "object") return value.title !== "" ? value.title : value.id
   if (!resolver) return value
   const entry = resolver.resolve(value)
   if (entry === null) return value
-  return entry.title !== "" ? entry.title : "Untitled"
+  return entry.title !== "" ? entry.title : value
 }
 
 export function resolveRelationVariant(
