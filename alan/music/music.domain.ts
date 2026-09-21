@@ -42,5 +42,9 @@ export const music = {
       decisionKind: "decision-kind/departure",
       statement: "Music keeps the songs made apart from the plays heard.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Music names a grade `grade` in code, in data and in text alike.",
+    },
   ],
 } as const satisfies Domain

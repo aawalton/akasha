@@ -8,9 +8,9 @@ export const eppieMusicImprovements = {
   persona: "persona/eppie",
   intentStack: [
     {
-      statement: "One name states a grade in music.",
+      statement: "Alan grades the track he just heard as readily as the one playing.",
       workingMemory:
-        "Alan asked for `grade` as the one name for this concept. The property, the data and the commands are aligned already. What is left is `alan/music/choosing/modules/rating-ladder/`, whose `MusicRating` is a second name for `Grade` and whose `MUSIC_RATINGS` is `gradeProperty.values`. Nimue holds the ladder page, which states the sixteen rungs and a color for each. `isLiked` and its `LIKED_FROM` of `B-` are a music judgement rather than a fact about the ladder.",
+        "Alan sends a bare grade while he listens, and the player has often moved on by the time the grade is read. It has cost a wrong grade once tonight and a reconstruction twice. `akasha music rate --now-playing` covers the track playing. What is left is the track before it, read from `recentlyPlayed`, whose first entry is the previous track while something plays and the last one heard when nothing does. Matching is by `carriedBy[].externalId`, as `--now-playing` matches.",
     },
   ],
 } as const satisfies Initiative
