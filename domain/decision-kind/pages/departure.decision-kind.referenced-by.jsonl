@@ -3250,6 +3250,7 @@
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/asking/feature-request-asking.module.ts","id":"01a0c537-684d-7fd0-99ad-d5b2ebf5cef4"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/listing/feature-request-listing.module.ts","id":"01a0c4bc-f055-7d82-8adf-7995b3cedca4"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/naming/feature-request-naming.module.ts","id":"01a0c506-47e8-72fc-b65b-87da14672240"}
+{"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.ts","id":"01a0c53a-aedc-79c6-ab11-c2cea9c20ed0"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.ts","id":"01a0c4b2-cf45-7ceb-8448-9eb1b945d7ad"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.ts","id":"01a0c506-47e8-7344-b421-891510dff6c4"}
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-backing.record-property.ts","id":"01a0c4a7-faa9-7331-b4f4-8698261e526d"}

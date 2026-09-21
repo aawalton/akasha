@@ -2508,6 +2508,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/asking/feature-request-asking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/listing/feature-request-listing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/naming/feature-request-naming.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/stripe/modules/movement/movement.module.ts"}

@@ -36,6 +36,7 @@ export const featureRequest = {
     "module/feature-request-writing",
     "relation-property/feature-request-proposer",
     "module/feature-request-asking",
+    "module/feature-request-propose-dialog",
   ],
   properties: [
     { pageProperty: "text-property/feature-request-ask", required: true, many: false },
