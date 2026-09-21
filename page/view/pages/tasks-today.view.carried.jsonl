@@ -11,5 +11,5 @@
 {"title":"Today"}
 {"type":"page-type/view"}
 {"viewPlace":0}
-{"viewSorts":[{"key":"to-do-priority","descending":false},{"key":"title","descending":false}]}
-{"visibleProperties":["to-do-priority","to-do-due-date","due-time","to-do-value","link","difficulty","to-do-recurrence"]}
+{"viewSorts":[{"key":"priority","descending":false},{"key":"title","descending":false}]}
+{"visibleProperties":["priority","to-do-due-date","due-time","to-do-value","link","difficulty","to-do-recurrence"]}

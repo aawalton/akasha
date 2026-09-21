@@ -11,11 +11,11 @@ export const tasksToday = {
   layout: "cards",
   narrows: [{ key: "to-do-due-date", comparison: "before", values: ["eso-day-next"] }],
   viewSorts: [
-    { key: "to-do-priority", descending: false },
+    { key: "priority", descending: false },
     { key: "title", descending: false },
   ],
   visibleProperties: [
-    "to-do-priority",
+    "priority",
     "to-do-due-date",
     "due-time",
     "to-do-value",

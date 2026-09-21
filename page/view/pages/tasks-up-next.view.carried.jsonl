@@ -7,4 +7,4 @@
 {"type":"page-type/view"}
 {"viewPlace":1}
 {"viewSorts":[{"key":"to-do-due-date","descending":false},{"key":"due-time","descending":false}]}
-{"visibleProperties":["to-do-priority","to-do-due-date","due-time"]}
+{"visibleProperties":["priority","to-do-due-date","due-time"]}

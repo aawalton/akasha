@@ -16,5 +16,5 @@ export const tasksUpNext = {
     { key: "to-do-due-date", descending: false },
     { key: "due-time", descending: false },
   ],
-  visibleProperties: ["to-do-priority", "to-do-due-date", "due-time"],
+  visibleProperties: ["priority", "to-do-due-date", "due-time"],
 } as const satisfies View
