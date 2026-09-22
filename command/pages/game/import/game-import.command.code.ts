@@ -36,7 +36,7 @@ const NAMED = [gameArgument] as const
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const FILES = [entities.propertySlug, gameCharacters.propertySlug, towerFloors.propertySlug]
+const FILES = [gameCharacters.propertySlug, towerFloors.propertySlug, entities.propertySlug]
 
 const TAB = "\t"
 
