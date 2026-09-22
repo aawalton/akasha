@@ -4,7 +4,7 @@ export const warranting = {
   id: "01a04ee0-3078-7000-9069-e5db5da797ad",
   type: "page-type/module",
   slug: "warranting",
-  definition: "the readings a change owes, and which of them the record does not answer for",
+  definition: "the readings a change owes, and which of them the record leaves unanswered",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

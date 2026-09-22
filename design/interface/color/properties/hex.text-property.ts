@@ -5,7 +5,7 @@ export const hex = {
   type: "page-type/text-property",
   slug: "hex",
   propertySlug: "hex",
-  definition: "the color written as hex, for wherever there is no palette to pick from",
+  definition: "the color written as hex, for wherever there is no palette",
   maxLength: 20,
   nameFormat: null,
   types: "ts",

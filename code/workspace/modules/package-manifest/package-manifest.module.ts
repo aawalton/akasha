@@ -4,7 +4,7 @@ export const packageManifest = {
   id: "01a05ae4-fc70-7000-89a5-77bf2b9786ae",
   type: "page-type/module",
   slug: "package-manifest",
-  definition: "the name a package is reached by and the file each way in lands on",
+  definition: "a package's name and where each way in lands",
   code: "ts",
   test: "ts",
   decisions: [

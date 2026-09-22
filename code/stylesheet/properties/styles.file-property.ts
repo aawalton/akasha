@@ -5,7 +5,7 @@ export const styles = {
   type: "page-type/file-property",
   slug: "styles",
   propertySlug: "styles",
-  definition: "the rules a browser dresses a thing by",
+  definition: "the rules dressing a thing in a browser",
   extensions: ["css"],
   toolResolvesPaths: true,
   decisions: [

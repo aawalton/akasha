@@ -4,7 +4,7 @@ export const trackNaming = {
   id: "01a0c606-f30c-74f2-8729-f3a4ba12ce86",
   type: "page-type/module",
   slug: "track-naming",
-  definition: "the track page a Spotify track points at",
+  definition: "a Spotify track's track page",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

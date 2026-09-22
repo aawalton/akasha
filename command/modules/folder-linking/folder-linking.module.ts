@@ -4,7 +4,7 @@ export const folderLinking = {
   id: "01a08e0f-1a66-7dc0-8cec-1028a7c33ae9",
   type: "page-type/module",
   slug: "folder-linking",
-  definition: "the folder a page owns linked where that page says the folder is reached from",
+  definition: "the folder a page owns linked where that page says that folder is reached",
   code: "ts",
   test: "ts",
   decisions: [

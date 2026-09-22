@@ -5,7 +5,7 @@ export const urlPath = {
   type: "page-type/text-property",
   slug: "url-path",
   propertySlug: "url-path",
-  definition: "the path a router serves a route under",
+  definition: "a route's path",
   maxLength: 100,
   nameFormat: null,
   decisions: [

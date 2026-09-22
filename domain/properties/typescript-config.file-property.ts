@@ -5,7 +5,7 @@ export const typescriptConfig = {
   type: "page-type/file-property",
   slug: "typescript-config",
   propertySlug: "typescript-config",
-  definition: "the TypeScript settings this tree is judged under",
+  definition: "this tree's TypeScript settings",
   extensions: ["json"],
   fileName: "tsconfig.json",
   toolResolvesPaths: true,

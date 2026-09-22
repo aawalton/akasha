@@ -4,7 +4,7 @@ export const temperInventoryRule = {
   id: "01a07c17-78b9-7671-8f3d-fd5136036a25",
   type: "page-type/namespace",
   slug: "temper-inventory-rule",
-  definition: "the rules an inventory is kept by",
+  definition: "an inventory's rules",
   parts: [
     "command/temper-inventory-rule-create",
     "command/temper-inventory-rule-delete",
