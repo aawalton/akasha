@@ -43,11 +43,40 @@ export function commitOver(at: string): string | null {
   return stamp === null ? null : commitAt(stamp)
 }
 
+const BUNDLE = /\/([0-9a-f]{40})\.js/
+
+const UNIT = ".service"
+
+const EXEC = "ExecStart="
+
+export function bundleCommitIn(path: string): string | null {
+  return BUNDLE.exec(path)?.[1] ?? null
+}
+
+export function unitBeside(at: string): string {
+  return `${at}${UNIT}`
+}
+
+export function bundleNamedBy(at: string): string | null {
+  let held: string
+  try {
+    held = readFileSync(unitBeside(at), "utf8")
+  } catch {
+    return null
+  }
+  for (const line of held.split("\n")) {
+    if (!line.startsWith(EXEC)) continue
+    const found = bundleCommitIn(line)
+    if (found !== null) return found
+  }
+  return null
+}
+
 export function saidOfNoStamp(at: string): string {
   return (
     `this run cannot tell whether the code it is running has moved, because no ${PINNED_AT} ` +
-    `sits at ${at} or above it, so nothing here ends this run when the tree that code came out ` +
-    "of moves, and a deploy has to restart it"
+    `sits at ${at} or above it and no unit beside it names a bundle, so nothing here ends this ` +
+    "run when the code it came out of moves, and a deploy has to restart it"
   )
 }
 
