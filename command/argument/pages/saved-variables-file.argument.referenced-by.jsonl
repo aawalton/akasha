@@ -1,2 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/temper/catalog/status/temper-catalog-status.command.ts","id":"01a0603c-c1cc-7a60-8387-08c112165535"}
+{"propertySlug":"argument","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts","id":"01a0cac9-1200-767b-9b5c-42427171acb4"}
 {"propertySlug":"import","fileName":"saved-variables-file.argument.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts"}
+{"propertySlug":"import","fileName":"saved-variables-file.argument.ts","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.code.ts"}

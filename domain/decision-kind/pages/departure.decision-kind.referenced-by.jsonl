@@ -2319,6 +2319,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts","id":"01a0685d-f8fa-7913-8b39-8d1f9f835d34"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts","id":"01a0685d-f8fa-7c84-afa7-42c2af785557"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts","id":"01a0685d-f8fa-7dc8-bf64-5a62864e6dbb"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts","id":"01a0cac9-1200-767b-9b5c-42427171acb4"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts","id":"01a0685d-f8fa-7755-9f01-412ee9b28025"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts","id":"01a0685d-f8fa-75a7-b5b7-54361655f76a"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts","id":"01a0603c-c1ce-749d-a434-9035b90e6e37"}

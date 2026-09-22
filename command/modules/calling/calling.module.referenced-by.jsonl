@@ -444,6 +444,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.test.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}

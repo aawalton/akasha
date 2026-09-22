@@ -225,6 +225,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts"}

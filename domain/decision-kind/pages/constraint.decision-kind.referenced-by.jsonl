@@ -292,6 +292,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/music/import-artist/music-import-artist.command.ts","id":"01a062fb-d2fd-72f5-b24e-22a9635b5910"}
 {"propertySlug":"decision-kind","path":"command/pages/music/rate/modules/track-naming/track-naming.module.ts","id":"01a0c606-f30c-74f2-8729-f3a4ba12ce86"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts","id":"01a0603c-c1cb-7d74-ac42-cf9ae26b02f5"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts","id":"01a0cac9-1200-767b-9b5c-42427171acb4"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts","id":"01a0685d-f8fa-7755-9f01-412ee9b28025"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.ts","id":"01a09f61-ca3e-75ea-9e65-23af74517db1"}
 {"propertySlug":"decision-kind","path":"command/pages/track/food/track-food.command.ts","id":"01a06809-250b-7ec1-99ac-2150ec2c5f74"}
