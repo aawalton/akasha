@@ -14,7 +14,7 @@ export const gitStoreSweeping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path is read against the folder every worktree of a checkout shares.",
+      statement: "A path is read against the folder git keeps the checkout in.",
     },
     {
       decisionKind: "decision-kind/departure",
