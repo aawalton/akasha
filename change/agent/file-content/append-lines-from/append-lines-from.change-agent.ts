@@ -7,7 +7,7 @@ export const appendLinesFrom = {
   changeMode: "change-mode/change-mode-append",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
-  definition: "content one path holds, put at the end of what another path holds",
+  definition: "content a path holds, put at the end of what another path holds",
   code: "ts",
   test: "ts",
   decisions: [

@@ -7,7 +7,7 @@ export const moveFile = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "one file that is no page moved to another path",
+  definition: "a file that is no page moved to another path",
   code: "ts",
   test: "ts",
   decisions: [

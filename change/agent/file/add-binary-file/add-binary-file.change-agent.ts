@@ -7,7 +7,7 @@ export const addBinaryFile = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "one body the tree already holds, landed at the path that body sits at",
+  definition: "a body the tree already holds, landed at the path that body sits at",
   code: "ts",
   test: "ts",
   decisions: [

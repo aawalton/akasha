@@ -7,7 +7,7 @@ export const removeFile = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "one file taken away, judged by the checks a landing runs",
+  definition: "a file taken away, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
   decisions: [

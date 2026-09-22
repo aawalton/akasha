@@ -7,7 +7,7 @@ export const moveCodeExport = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-code",
-  definition: "one export moved to another code body, judged by the checks a landing runs",
+  definition: "an export moved to another code body, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
   decisions: [

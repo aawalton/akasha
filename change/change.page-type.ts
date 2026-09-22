@@ -4,7 +4,7 @@ export const change = {
   id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
   type: "page-type/page-type",
   slug: "change",
-  definition: "one change to the repository, reached by name",
+  definition: "a change to the repository, reached by name",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "change" },
     { partOfSpeech: "part-of-speech/noun", spelling: "changes" },

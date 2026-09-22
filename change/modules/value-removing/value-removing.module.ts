@@ -4,7 +4,7 @@ export const valueRemoving = {
   id: "01a09c7d-7d5f-746f-8af0-c3635ccb603d",
   type: "page-type/module",
   slug: "value-removing",
-  definition: "the edits taking one value out of one page property in a page's body",
+  definition: "the edits taking a value out of a page property in a page's body",
   code: "ts",
   decisions: [
     {

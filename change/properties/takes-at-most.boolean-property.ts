@@ -5,7 +5,7 @@ export const takesAtMost = {
   type: "page-type/boolean-property",
   slug: "takes-at-most",
   propertySlug: "takes-at-most",
-  definition: "whether a change takes a ceiling on how many pages one run acts on",
+  definition: "whether a change takes a ceiling on how many pages a run acts on",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

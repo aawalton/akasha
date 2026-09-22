@@ -7,7 +7,7 @@ export const moveFolder = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/folder",
   changeTargetSubtype: "change-target-subtype/folder",
-  definition: "one folder and every file under it moved to another path",
+  definition: "a folder and every file under it moved to another path",
   code: "ts",
   test: "ts",
   decisions: [

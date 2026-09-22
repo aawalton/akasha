@@ -4,7 +4,7 @@ export const changeMode = {
   id: "01a07c24-30e1-7802-88da-aa05d0b289dd",
   type: "page-type/page-type",
   slug: "change-mode",
-  definition: "the act one change makes",
+  definition: "the act a change makes",
   parts: [
     "change-mode/change-mode-add",
     "change-mode/change-mode-add-if-not-present",

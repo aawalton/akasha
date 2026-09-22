@@ -7,7 +7,7 @@ export const changePagePagePropertyText = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value-prose",
-  definition: "the whole value one text property of one page has, stated anew in other words",
+  definition: "the whole value a text property of a page has, stated anew in other words",
   code: "ts",
   test: "ts",
   decisions: [
