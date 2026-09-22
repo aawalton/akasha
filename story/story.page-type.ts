@@ -13,11 +13,11 @@ export const story = {
   parts: [
     "domain/narrative-production",
     "domain/story-engine",
-    "domain/story-mechanic",
     "domain/ui",
     "domain/world-lore",
     "page-type/game",
     "page-type/chapter",
+    "page-type/mechanic",
     "page-type/world",
   ],
   properties: [

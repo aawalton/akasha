@@ -5,7 +5,8 @@ export const resource = {
   type: "page-type/page-type",
   slug: "resource",
   definition: "something a character spends down and gets back",
-  extends: ["page-type/page"],
+  pluralSlug: "resources",
+  extends: ["page-type/mechanic"],
   parts: [
     "number-property/resource-max-value",
     "number-property/resource-min-value",
