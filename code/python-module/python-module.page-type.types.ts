@@ -2,9 +2,11 @@ import type { BytecodeDirectory } from "akasha/code/python-module/properties/byt
 import type { Python } from "akasha/code/python-module/properties/python.code-file-property.types.ts"
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 import type { InstallPath } from "akasha/infrastructure/machine/provisioning/provisioned-file/properties/install-path.text-property.types.ts"
+import type { OnlyOn } from "akasha/infrastructure/machine/provisioning/provisioned-file/properties/only-on.select-property.types.ts"
 
 export type PythonModule = Domain & {
   python: Python
   bytecodeDirectory?: BytecodeDirectory
   installPath?: InstallPath
+  onlyOn?: OnlyOn
 }
