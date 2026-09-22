@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { VisitCard } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 import {
   asControl,
@@ -21,11 +21,8 @@ function asVcIndex(value: number | undefined): VcIndex {
 }
 
 function sortVisitCards(this: void): undefined {
-  if (
-    portToFriend.savedVars !== undefined &&
-    portToFriend.savedVars.vc.receivedCards !== undefined
-  ) {
-    const cards = portToFriend.savedVars.vc.receivedCards
+  if (houseTravel.savedVars !== undefined && houseTravel.savedVars.vc.receivedCards !== undefined) {
+    const cards = houseTravel.savedVars.vc.receivedCards
     let itemCount = cards.length
     let hasChanged = false
     do {
@@ -42,8 +39,8 @@ function sortVisitCards(this: void): undefined {
           cards[i + 1] = current
           hasChanged = true
         } else if (current.name === next.name) {
-          const currentHouse = portToFriend.HOUSES[current.houseId]
-          const nextHouse = portToFriend.HOUSES[next.houseId]
+          const currentHouse = houseTravel.HOUSES[current.houseId]
+          const nextHouse = houseTravel.HOUSES[next.houseId]
           if (currentHouse !== undefined && nextHouse !== undefined && currentHouse > nextHouse) {
             cards[i] = next
             cards[i + 1] = current
@@ -56,22 +53,22 @@ function sortVisitCards(this: void): undefined {
   }
   return undefined
 }
-portToFriend.SortVisitCards = sortVisitCards
+houseTravel.SortVisitCards = sortVisitCards
 
 function refreshVisitCards(this: void): undefined {
   if (
-    portToFriend.controls.vc !== undefined &&
-    portToFriend.savedVars !== undefined &&
-    portToFriend.savedVars.vc !== undefined &&
-    portToFriend.savedVars.vc.receivedCards !== undefined
+    houseTravel.controls.vc !== undefined &&
+    houseTravel.savedVars !== undefined &&
+    houseTravel.savedVars.vc !== undefined &&
+    houseTravel.savedVars.vc.receivedCards !== undefined
   ) {
-    const vc = asVcControls(portToFriend.controls.vc)
-    const receivedCards = portToFriend.savedVars.vc.receivedCards
+    const vc = asVcControls(houseTravel.controls.vc)
+    const receivedCards = houseTravel.savedVars.vc.receivedCards
     if (vc.cardEntry === undefined) {
       vc.cardEntry = []
     }
     const cardEntry = vc.cardEntry
-    const color = portToFriend.config.color
+    const color = houseTravel.config.color
     const scrollPanel = asControl(vc.scrollPanel)
     for (let i = 0; i < receivedCards.length; i = i + 1) {
       const cardNumber = i + 1
@@ -89,14 +86,14 @@ function refreshVisitCards(this: void): undefined {
       if (entry === undefined || card === undefined) {
         continue
       }
-      const houseName = portToFriend.HOUSES[card.houseId] ?? ""
+      const houseName = houseTravel.HOUSES[card.houseId] ?? ""
       const backdropControl = asControl(entry.backdrop)
 
-      entry.backdrop.SetDimensions(portToFriend.config.size.width - 30, 25)
+      entry.backdrop.SetDimensions(houseTravel.config.size.width - 30, 25)
       entry.backdrop.SetHidden(false)
       entry.backdrop.ClearAnchors()
       entry.backdrop.SetAnchor(TOPLEFT, scrollPanel, TOPLEFT, 5, 25 * i)
-      if (cardNumber !== portToFriend.addonState.selectedVisitCard) {
+      if (cardNumber !== houseTravel.addonState.selectedVisitCard) {
         entry.backdrop.SetCenterColor(
           color.backDropLine.R,
           color.backDropLine.G,
@@ -131,16 +128,16 @@ function refreshVisitCards(this: void): undefined {
       entry.name.ClearAnchors()
       entry.name.SetAnchor(TOPLEFT, backdropControl, TOPLEFT, 0, 0)
       entry.name.SetText(card.name)
-      entry.name.SetFont(portToFriend.config.fonts.header)
+      entry.name.SetFont(houseTravel.config.fonts.header)
       entry.name.SetMouseEnabled(true)
       entry.name.SetHandler("OnMouseEnter", () => {
-        portToFriend.VCBdOnMouseEnter(cardNumber)
+        houseTravel.VCBdOnMouseEnter(cardNumber)
       })
       entry.name.SetHandler("OnMouseExit", () => {
-        portToFriend.VCBdOnMouseExit(cardNumber)
+        houseTravel.VCBdOnMouseExit(cardNumber)
       })
       entry.name.SetHandler("OnClicked", () => {
-        portToFriend.VCBdOnClick(cardNumber)
+        houseTravel.VCBdOnClick(cardNumber)
       })
       entry.name.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
       entry.name.SetNormalFontColor(
@@ -167,16 +164,16 @@ function refreshVisitCards(this: void): undefined {
       entry.house.ClearAnchors()
       entry.house.SetAnchor(TOPLEFT, backdropControl, TOPLEFT, 215, 0)
       entry.house.SetText(houseName)
-      entry.house.SetFont(portToFriend.config.fonts.header)
+      entry.house.SetFont(houseTravel.config.fonts.header)
       entry.house.SetMouseEnabled(true)
       entry.house.SetHandler("OnMouseEnter", () => {
-        portToFriend.VCBdOnMouseEnter(cardNumber)
+        houseTravel.VCBdOnMouseEnter(cardNumber)
       })
       entry.house.SetHandler("OnMouseExit", () => {
-        portToFriend.VCBdOnMouseExit(cardNumber)
+        houseTravel.VCBdOnMouseExit(cardNumber)
       })
       entry.house.SetHandler("OnClicked", () => {
-        portToFriend.VCBdOnClick(cardNumber)
+        houseTravel.VCBdOnClick(cardNumber)
       })
       entry.house.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
       entry.house.SetNormalFontColor(
@@ -218,78 +215,78 @@ function refreshVisitCards(this: void): undefined {
         entry.house.SetAnchor(TOPLEFT, backdropControl, TOPLEFT, 0, 0)
       }
     }
-    vc.scrollPanel.SetDimensions(portToFriend.config.size.width - 10, receivedCards.length * 25)
-    portToFriend.VCBdOnMouseEnter(asVcIndex(portToFriend.addonState.highlightedVisitCard))
+    vc.scrollPanel.SetDimensions(houseTravel.config.size.width - 10, receivedCards.length * 25)
+    houseTravel.VCBdOnMouseEnter(asVcIndex(houseTravel.addonState.highlightedVisitCard))
   } else {
   }
-  portToFriend.AdjustVCSliderSize()
+  houseTravel.AdjustVCSliderSize()
 }
-portToFriend.RefreshVisitCards = refreshVisitCards
+houseTravel.RefreshVisitCards = refreshVisitCards
 
 function adjustVCSliderSize(this: void): undefined {
-  if (portToFriend.savedVars === undefined) {
+  if (houseTravel.savedVars === undefined) {
     return
   }
-  const vc = asVcControls(portToFriend.controls.vc)
-  const totalSize = 25 * portToFriend.savedVars.vc.receivedCards.length + 40
+  const vc = asVcControls(houseTravel.controls.vc)
+  const totalSize = 25 * houseTravel.savedVars.vc.receivedCards.length + 40
   const screenSize =
-    portToFriend.config.vc.size.height -
-    portToFriend.config.vc.size.headerHeightOffset -
-    portToFriend.config.vc.size.headerHeight -
-    portToFriend.config.vc.size.gap -
+    houseTravel.config.vc.size.height -
+    houseTravel.config.vc.size.headerHeightOffset -
+    houseTravel.config.vc.size.headerHeight -
+    houseTravel.config.vc.size.gap -
     95
 
   if (totalSize <= screenSize) {
-    if (portToFriend.addonState.isVCScrollable === true) {
+    if (houseTravel.addonState.isVCScrollable === true) {
       vc.slider.SetValue(0)
     }
     vc.slider.SetHidden(true)
-    portToFriend.addonState.isVCScrollable = false
+    houseTravel.addonState.isVCScrollable = false
   } else {
     vc.slider.SetHidden(false)
-    portToFriend.addonState.isVCScrollable = true
+    houseTravel.addonState.isVCScrollable = true
   }
 }
-portToFriend.AdjustVCSliderSize = adjustVCSliderSize
+houseTravel.AdjustVCSliderSize = adjustVCSliderSize
 
 function updateVisitCardList(this: void): undefined {
-  if (portToFriend.controls.vc !== undefined) {
-    if (portToFriend.addonState.taintedVisitCards === true) {
+  if (houseTravel.controls.vc !== undefined) {
+    if (houseTravel.addonState.taintedVisitCards === true) {
       let selectedEntry: VisitCard | undefined
       if (
-        portToFriend.addonState.selectedVisitCard > 0 &&
-        portToFriend.savedVars !== undefined &&
-        portToFriend.savedVars.vc !== undefined &&
-        portToFriend.savedVars.vc.receivedCards !== undefined
+        houseTravel.addonState.selectedVisitCard > 0 &&
+        houseTravel.savedVars !== undefined &&
+        houseTravel.savedVars.vc !== undefined &&
+        houseTravel.savedVars.vc.receivedCards !== undefined
       ) {
         selectedEntry =
-          portToFriend.savedVars.vc.receivedCards[portToFriend.addonState.selectedVisitCard - 1]
+          houseTravel.savedVars.vc.receivedCards[houseTravel.addonState.selectedVisitCard - 1]
       }
-      portToFriend.SortVisitCards()
-      if (selectedEntry !== undefined && portToFriend.savedVars !== undefined) {
-        for (let i = 0; i < portToFriend.savedVars.vc.receivedCards.length; i = i + 1) {
-          if (portToFriend.savedVars.vc.receivedCards[i] === selectedEntry) {
-            portToFriend.addonState.selectedVisitCard = i + 1
+      houseTravel.SortVisitCards()
+      if (selectedEntry !== undefined && houseTravel.savedVars !== undefined) {
+        for (let i = 0; i < houseTravel.savedVars.vc.receivedCards.length; i = i + 1) {
+          if (houseTravel.savedVars.vc.receivedCards[i] === selectedEntry) {
+            houseTravel.addonState.selectedVisitCard = i + 1
             break
           }
         }
       }
-      portToFriend.RefreshVisitCards()
-      portToFriend.addonState.taintedVisitCards = false
+      houseTravel.RefreshVisitCards()
+      houseTravel.addonState.taintedVisitCards = false
     }
   }
 }
-portToFriend.UpdateVisitCardList = updateVisitCardList
+houseTravel.UpdateVisitCardList = updateVisitCardList
 
 function vcPanelOnMouseWheel(this: void, _control: Control, delta: number): undefined {
-  const vc = asVcControls(portToFriend.controls.vc)
+  const vc = asVcControls(houseTravel.controls.vc)
   if (
     vc.slider.IsHidden() === false &&
-    portToFriend.savedVars !== undefined &&
-    portToFriend.savedVars.vc !== undefined &&
-    portToFriend.savedVars.vc.receivedCards !== undefined
+    houseTravel.savedVars !== undefined &&
+    houseTravel.savedVars.vc !== undefined &&
+    houseTravel.savedVars.vc.receivedCards !== undefined
   ) {
-    let size = 100 / portToFriend.savedVars.vc.receivedCards.length
+    let size = 100 / houseTravel.savedVars.vc.receivedCards.length
     if (size < 1) {
       size = 1
     }
@@ -304,21 +301,18 @@ function vcPanelOnMouseWheel(this: void, _control: Control, delta: number): unde
     vc.slider.SetValue(position)
   }
 }
-portToFriend.VCPanelOnMouseWheel = vcPanelOnMouseWheel
+houseTravel.VCPanelOnMouseWheel = vcPanelOnMouseWheel
 
 function vcAdjustSlider(this: void): undefined {
-  if (
-    portToFriend.savedVars !== undefined &&
-    portToFriend.savedVars.vc.receivedCards !== undefined
-  ) {
-    const vc = asVcControls(portToFriend.controls.vc)
+  if (houseTravel.savedVars !== undefined && houseTravel.savedVars.vc.receivedCards !== undefined) {
+    const vc = asVcControls(houseTravel.controls.vc)
     let size =
-      25 * portToFriend.savedVars.vc.receivedCards.length +
+      25 * houseTravel.savedVars.vc.receivedCards.length +
       10 -
-      (portToFriend.config.size.height -
-        portToFriend.config.size.headerHeightOffset -
-        portToFriend.config.size.headerHeight -
-        portToFriend.config.size.gap -
+      (houseTravel.config.size.height -
+        houseTravel.config.size.headerHeightOffset -
+        houseTravel.config.size.headerHeight -
+        houseTravel.config.size.gap -
         95)
     if (size < 0) {
       size = 0
@@ -330,4 +324,4 @@ function vcAdjustSlider(this: void): undefined {
   } else {
   }
 }
-portToFriend.VCAdjustSlider = vcAdjustSlider
+houseTravel.VCAdjustSlider = vcAdjustSlider

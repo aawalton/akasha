@@ -11,15 +11,15 @@ import {
   controlsTree,
   nilName,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function buildVcTab(this: void): undefined {
-  const c = controlsTree(portToFriend.controls)
-  const config = portToFriend.config
-  const constants = portToFriend.constants
+  const c = controlsTree(houseTravel.controls)
+  const config = houseTravel.config
+  const constants = houseTravel.constants
   const body = asTreeNode(c.body)
   const bodyControl = asControl(body.control)
 
@@ -63,7 +63,7 @@ export function buildVcTab(this: void): undefined {
   addFavoriteButton.SetDimensions(125, 25)
   addFavoriteButton.SetText(constants.BUTTON_ADD_FAVORITE ?? "")
   addFavoriteButton.SetClickSound("Click")
-  addFavoriteButton.SetHandler("OnClicked", asControlHandler(portToFriend.VCAddFavorite))
+  addFavoriteButton.SetHandler("OnClicked", asControlHandler(houseTravel.VCAddFavorite))
 
   const vcButton = CreateControlFromVirtual<ButtonControl>(nilName(), vcControl, "ZO_DefaultButton")
   vc.vcButton = vcButton
@@ -71,7 +71,7 @@ export function buildVcTab(this: void): undefined {
   vcButton.SetDimensions(175, 25)
   vcButton.SetText(constants.BUTTON_SEND_VISITCARD ?? "")
   vcButton.SetClickSound("Click")
-  vcButton.SetHandler("OnClicked", asControlHandler(portToFriend.VCSendVC))
+  vcButton.SetHandler("OnClicked", asControlHandler(houseTravel.VCSendVC))
 
   const portButton = CreateControlFromVirtual<ButtonControl>(
     nilName(),
@@ -83,7 +83,7 @@ export function buildVcTab(this: void): undefined {
   portButton.SetDimensions(125, 25)
   portButton.SetText(constants.BUTTON_PORT ?? "")
   portButton.SetClickSound("Click")
-  portButton.SetHandler("OnClicked", asControlHandler(portToFriend.VCPort))
+  portButton.SetHandler("OnClicked", asControlHandler(houseTravel.VCPort))
 
   const removeButton = CreateControlFromVirtual<ButtonControl>(
     nilName(),
@@ -95,7 +95,7 @@ export function buildVcTab(this: void): undefined {
   removeButton.SetDimensions(125, 25)
   removeButton.SetText(constants.BUTTON_REMOVE ?? "")
   removeButton.SetClickSound("Click")
-  removeButton.SetHandler("OnClicked", asControlHandler(portToFriend.VCRemoveVC))
+  removeButton.SetHandler("OnClicked", asControlHandler(houseTravel.VCRemoveVC))
 
   addFavoriteButton.SetEnabled(false)
   vcButton.SetEnabled(false)
@@ -123,7 +123,7 @@ export function buildVcTab(this: void): undefined {
   scrollPanel.SetDimensions(config.size.width - 10, 40)
   scrollPanel.SetAnchor(TOPLEFT, scrollControl, TOPLEFT, 0, 0)
   scrollPanel.SetMouseEnabled(true)
-  scrollPanel.SetHandler("OnMouseWheel", asControlHandler(portToFriend.VCPanelOnMouseWheel))
+  scrollPanel.SetHandler("OnMouseWheel", asControlHandler(houseTravel.VCPanelOnMouseWheel))
 
   const slider = asSliderView(
     WINDOW_MANAGER.CreateControl(undefined, vcControl, asCtControl(CT_SLIDER))
@@ -149,7 +149,7 @@ export function buildVcTab(this: void): undefined {
     50
   )
   slider.SetValueStep(1)
-  slider.SetHandler("OnValueChanged", asControlHandler(portToFriend.VCAdjustSlider))
+  slider.SetHandler("OnValueChanged", asControlHandler(houseTravel.VCAdjustSlider))
 
-  portToFriend.UpdateVisitCardList()
+  houseTravel.UpdateVisitCardList()
 }

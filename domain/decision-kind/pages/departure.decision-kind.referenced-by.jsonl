@@ -3994,7 +3994,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-menu-state/housing-menu-state.module.ts","id":"01a06113-b7d1-7b8c-b88f-ba1df4ff6bdf"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-my-houses/housing-my-houses.module.ts","id":"01a06128-d5d0-7837-b130-e565c12035cb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-porting/housing-porting.module.ts","id":"01a06128-d5d1-7c25-8c9e-09001f10d091"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-ptf-publish/housing-ptf-publish.module.ts","id":"01a06128-d5d1-7cd2-9610-4f78ee6356ae"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-publish/housing-publish.module.ts","id":"01a06128-d5d1-7cd2-9610-4f78ee6356ae"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-search/housing-search.module.ts","id":"01a06128-d5d1-76dc-adcd-583afb6e89d6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-settings-menu/housing-settings-menu.module.ts","id":"01a06128-d5d2-78a7-baa2-c7e8199cecec"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-slash/housing-slash.module.ts","id":"01a06128-d5d3-74a2-81ea-747b3975df38"}

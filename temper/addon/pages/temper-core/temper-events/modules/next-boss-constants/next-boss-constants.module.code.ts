@@ -1,4 +1,4 @@
-export const ADDON_NAME = "TemperICTheNextBoss"
+export const ADDON_NAME = "TemperNextBossAddon"
 
 export const SAVED_VARIABLES_NAME = "TemperICTheNextBoss_SavedVariables"
 

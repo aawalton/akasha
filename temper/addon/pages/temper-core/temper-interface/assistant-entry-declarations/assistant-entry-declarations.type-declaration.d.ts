@@ -1,1 +1,1 @@
-declare var TemperPersonalAssistants: Record<string, number>
+declare var TemperAssistants: Record<string, number>

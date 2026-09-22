@@ -5,7 +5,7 @@ import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaratio
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface EditboxControl {
@@ -31,7 +31,7 @@ function asTlwControl(value: unknown): TlwControl {
 }
 
 function portToFavoriteBinding(this: void, favId: number): boolean {
-  const favorites = portToFriend.savedVars?.favorites
+  const favorites = houseTravel.savedVars?.favorites
   if (favorites !== undefined && favId > 0 && favId <= 10) {
     for (let i = 0; i < favorites.length; i = i + 1) {
       const favorite = favorites[i]
@@ -39,33 +39,33 @@ function portToFavoriteBinding(this: void, favId: number): boolean {
         continue
       }
       if (favorite.id !== undefined && favorite.id === favId) {
-        portToFriend.JumpToHouse(favorite.name, favorite.houseId)
+        houseTravel.JumpToHouse(favorite.name, favorite.houseId)
         return true
       }
     }
   }
-  d(portToFriend.constants.INVALID_FAVORITE_ID ?? "")
+  d(houseTravel.constants.INVALID_FAVORITE_ID ?? "")
   return false
 }
-portToFriend.PortToFavoriteBinding = portToFavoriteBinding
+houseTravel.PortToFavoriteBinding = portToFavoriteBinding
 
 function portToMyHouseBinding(this: void, id: number, portType: number): boolean {
-  const favorites = portToFriend.savedVars?.myHousesFavorites[portType]
+  const favorites = houseTravel.savedVars?.myHousesFavorites[portType]
   if (favorites !== undefined && id > 0 && id <= 10) {
     let portOutside = false
-    if (portType === portToFriend.constants.PORT_TYPE_OUTSIDE) {
+    if (portType === houseTravel.constants.PORT_TYPE_OUTSIDE) {
       portOutside = true
     }
     const houseId = favorites[id]
     if (houseId !== undefined) {
-      portToFriend.PortToMyHousesById(houseId, portOutside)
+      houseTravel.PortToMyHousesById(houseId, portOutside)
       return true
     }
   }
-  d(portToFriend.constants.INVALID_FAVORITE_ID ?? "")
+  d(houseTravel.constants.INVALID_FAVORITE_ID ?? "")
   return false
 }
-portToFriend.PortToMyHouseBinding = portToMyHouseBinding
+houseTravel.PortToMyHouseBinding = portToMyHouseBinding
 
 function jumpToHouse(this: void, name: string, id: number): undefined {
   if (name !== "" && id !== undefined && id > 0) {
@@ -76,10 +76,10 @@ function jumpToHouse(this: void, name: string, id: number): undefined {
     }
   }
 }
-portToFriend.JumpToHouse = jumpToHouse
+houseTravel.JumpToHouse = jumpToHouse
 
 function version12NameFix(this: void, id: number): undefined {
-  const favorites = portToFriend.savedVars?.favorites
+  const favorites = houseTravel.savedVars?.favorites
   if (favorites === undefined) {
     return
   }
@@ -94,60 +94,60 @@ function version12NameFix(this: void, id: number): undefined {
     favorite.name = GetDisplayName()
   }
 }
-portToFriend.Version12NameFix = version12NameFix
+houseTravel.Version12NameFix = version12NameFix
 
 function portToLibraryEntry(this: void, id: number): undefined {
-  const entries = portToFriend.GetFilteredLibraryData()
+  const entries = houseTravel.GetFilteredLibraryData()
   if (id !== undefined && id > 0) {
     const entry = entries[id - 1]
     if (entry === undefined) {
       return
     }
-    portToFriend.JumpToHouse(entry.name, entry.houseId)
-    if (portToFriend.savedVars?.port_mode === portToFriend.constants.PORT_MODE_ON_CLICK) {
-      portToFriend.CloseWindow()
+    houseTravel.JumpToHouse(entry.name, entry.houseId)
+    if (houseTravel.savedVars?.port_mode === houseTravel.constants.PORT_MODE_ON_CLICK) {
+      houseTravel.CloseWindow()
     }
   }
 }
-portToFriend.PortToLibraryEntry = portToLibraryEntry
+houseTravel.PortToLibraryEntry = portToLibraryEntry
 
 function portToFavorite(this: void, id: number): undefined {
-  const favorites = portToFriend.savedVars?.favorites
+  const favorites = houseTravel.savedVars?.favorites
   if (favorites !== undefined && id !== undefined && id > 0) {
     const favorite = favorites[id - 1]
     if (favorite === undefined) {
       return
     }
-    portToFriend.JumpToHouse(favorite.name, favorite.houseId)
-    if (portToFriend.savedVars?.port_mode === portToFriend.constants.PORT_MODE_ON_CLICK) {
-      portToFriend.CloseWindow()
+    houseTravel.JumpToHouse(favorite.name, favorite.houseId)
+    if (houseTravel.savedVars?.port_mode === houseTravel.constants.PORT_MODE_ON_CLICK) {
+      houseTravel.CloseWindow()
     }
   }
 }
-portToFriend.PortToFavorite = portToFavorite
+houseTravel.PortToFavorite = portToFavorite
 
 function portToMyHousesById(this: void, id: number, outside: boolean): undefined {
   RequestJumpToHouse(id, outside)
-  if (portToFriend.savedVars?.port_mode === portToFriend.constants.PORT_MODE_ON_CLICK) {
-    portToFriend.CloseWindow()
+  if (houseTravel.savedVars?.port_mode === houseTravel.constants.PORT_MODE_ON_CLICK) {
+    houseTravel.CloseWindow()
   }
 }
-portToFriend.PortToMyHousesById = portToMyHousesById
+houseTravel.PortToMyHousesById = portToMyHousesById
 
 function removeFavorite(this: void, id: number): undefined {
   if (id !== undefined && id > 0) {
-    const favorites = portToFriend.savedVars?.favorites
+    const favorites = houseTravel.savedVars?.favorites
     if (favorites !== undefined) {
       favorites.splice(id - 1, 1)
     }
-    portToFriend.CreateFavorites()
-    portToFriend.BdOnMouseEnter(id)
+    houseTravel.CreateFavorites()
+    houseTravel.BdOnMouseEnter(id)
   }
 }
-portToFriend.RemoveFavorite = removeFavorite
+houseTravel.RemoveFavorite = removeFavorite
 
 function entryExists(this: void, name: string, houseId: number): boolean {
-  const favorites = portToFriend.savedVars?.favorites
+  const favorites = houseTravel.savedVars?.favorites
   if (favorites !== undefined) {
     for (let i = 0; i < favorites.length; i = i + 1) {
       const favorite = favorites[i]
@@ -161,7 +161,7 @@ function entryExists(this: void, name: string, houseId: number): boolean {
   }
   return false
 }
-portToFriend.EntryExists = entryExists
+houseTravel.EntryExists = entryExists
 
 function addFavorite(this: void, name: string, houseId: number): undefined {
   if (houseId > 0) {
@@ -173,8 +173,8 @@ function addFavorite(this: void, name: string, houseId: number): undefined {
     ) {
       name = GetDisplayName()
     }
-    if (portToFriend.EntryExists(name, houseId) === false) {
-      const favorites = portToFriend.savedVars?.favorites
+    if (houseTravel.EntryExists(name, houseId) === false) {
+      const favorites = houseTravel.savedVars?.favorites
       if (favorites !== undefined) {
         favorites[favorites.length] = { name: "", houseId: 0 }
         const added = favorites[favorites.length - 1]
@@ -184,40 +184,40 @@ function addFavorite(this: void, name: string, houseId: number): undefined {
         added.name = name
         added.houseId = houseId
       }
-      portToFriend.CreateFavorites()
+      houseTravel.CreateFavorites()
     }
   }
 }
-portToFriend.AddFavorite = addFavorite
+houseTravel.AddFavorite = addFavorite
 
 function addToFavorite(this: void): undefined {
-  const house = asHouseControls(portToFriend.controls.house)
+  const house = asHouseControls(houseTravel.controls.house)
   const name = asEditboxControl(house.editbox).GetText()
-  const houseId = portToFriend.addonState.houseId
-  portToFriend.AddFavorite(name, houseId)
+  const houseId = houseTravel.addonState.houseId
+  houseTravel.AddFavorite(name, houseId)
 }
-portToFriend.AddToFavorite = addToFavorite
+houseTravel.AddToFavorite = addToFavorite
 
 function openWindowKeyBinding(this: void): undefined {
-  const tlw = asTlwControl(portToFriend.controls.TLW)
+  const tlw = asTlwControl(houseTravel.controls.TLW)
   tlw.SetHidden(!tlw.IsHidden())
   SetGameCameraUIMode(!tlw.IsHidden())
   if (tlw.IsHidden() === false) {
-    portToFriend.CreateGuildAndFriendList()
+    houseTravel.CreateGuildAndFriendList()
   }
   if (tlw.IsHidden() === true) {
-    const callback = portToFriend.addonState.windowCallback
+    const callback = houseTravel.addonState.windowCallback
     if (callback !== undefined && type(callback) === "function") {
-      portToFriend.addonState.windowCallback = undefined
+      houseTravel.addonState.windowCallback = undefined
       callback()
     }
   }
 }
-portToFriend.OpenWindowKeyBinding = openWindowKeyBinding
+houseTravel.OpenWindowKeyBinding = openWindowKeyBinding
 
-function portToFriendHouseTab(this: void): undefined {
-  if (portToFriend.addonState.houseId > 0) {
-    const house = asHouseControls(portToFriend.controls.house)
+function houseTravelHouseTab(this: void): undefined {
+  if (houseTravel.addonState.houseId > 0) {
+    const house = asHouseControls(houseTravel.controls.house)
     let name = asEditboxControl(house.editbox).GetText()
     if (
       name.toLowerCase() === GetUnitName("player").toLowerCase() ||
@@ -226,19 +226,19 @@ function portToFriendHouseTab(this: void): undefined {
     ) {
       name = GetDisplayName()
     }
-    portToFriend.JumpToHouse(name, portToFriend.addonState.houseId)
+    houseTravel.JumpToHouse(name, houseTravel.addonState.houseId)
   }
 }
-portToFriend.PortToFriend = portToFriendHouseTab
+houseTravel.HouseTravel = houseTravelHouseTab
 
 function getIdFromName(this: void, name: string): number {
   let id = 0
-  for (const [key] of pairs(portToFriend.HOUSES)) {
-    if (name === portToFriend.HOUSES[key]) {
+  for (const [key] of pairs(houseTravel.HOUSES)) {
+    if (name === houseTravel.HOUSES[key]) {
       id = key
       break
     }
   }
   return id
 }
-portToFriend.GetIdFromName = getIdFromName
+houseTravel.GetIdFromName = getIdFromName

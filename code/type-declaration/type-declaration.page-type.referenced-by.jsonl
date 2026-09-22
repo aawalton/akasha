@@ -55,7 +55,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-events/next-boss-declarations/next-boss-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-events/next-boss-global-declarations/next-boss-global-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.ts"}
-{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/housing-ptf-publish-declarations/housing-ptf-publish-declarations.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/housing-publish-declarations/housing-publish-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-interface/assistant-entry-declarations/assistant-entry-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-interface/quiet-camera-keybind-declarations/quiet-camera-keybind-declarations.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-interface/tweak-controls/tweak-controls.type-declaration.ts"}

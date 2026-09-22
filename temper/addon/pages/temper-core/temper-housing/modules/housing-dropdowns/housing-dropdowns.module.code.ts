@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
@@ -60,12 +60,12 @@ function dropdownCallback(
   text: string,
   _choice: unknown
 ): undefined {
-  portToFriend.addonState.houseId = portToFriend.GetIdFromName(text)
-  if (portToFriend.config.houseDebug === true) {
-    d(portToFriend.addonState.houseId)
+  houseTravel.addonState.houseId = houseTravel.GetIdFromName(text)
+  if (houseTravel.config.houseDebug === true) {
+    d(houseTravel.addonState.houseId)
   }
 }
-portToFriend.DropdownCallback = dropdownCallback
+houseTravel.DropdownCallback = dropdownCallback
 
 function categoryDropdownCallback(
   this: void,
@@ -73,15 +73,15 @@ function categoryDropdownCallback(
   _text: string,
   choice: { filterId: number }
 ): undefined {
-  portToFriend.addonState.selectedLibraryFilter = choice.filterId
-  if (portToFriend.savedVars !== undefined) {
-    portToFriend.savedVars.selectedLibraryFilter = choice.filterId
+  houseTravel.addonState.selectedLibraryFilter = choice.filterId
+  if (houseTravel.savedVars !== undefined) {
+    houseTravel.savedVars.selectedLibraryFilter = choice.filterId
   }
-  if (portToFriend.addonState.categoryFilterInitialized === true) {
-    portToFriend.UpdateLibraryEntries()
+  if (houseTravel.addonState.categoryFilterInitialized === true) {
+    houseTravel.UpdateLibraryEntries()
   }
 }
-portToFriend.CategoryDropdownCallback = categoryDropdownCallback
+houseTravel.CategoryDropdownCallback = categoryDropdownCallback
 
 function librarySortDropdownCallback(
   this: void,
@@ -89,28 +89,28 @@ function librarySortDropdownCallback(
   _text: string,
   choice: { filterId: number }
 ): undefined {
-  portToFriend.addonState.selectedLibrarySort = choice.filterId
-  if (portToFriend.savedVars !== undefined) {
-    portToFriend.savedVars.selectedLibrarySort = choice.filterId
+  houseTravel.addonState.selectedLibrarySort = choice.filterId
+  if (houseTravel.savedVars !== undefined) {
+    houseTravel.savedVars.selectedLibrarySort = choice.filterId
   }
-  if (portToFriend.addonState.LibrarySortInitialized === true) {
-    portToFriend.UpdateLibraryEntries()
+  if (houseTravel.addonState.LibrarySortInitialized === true) {
+    houseTravel.UpdateLibraryEntries()
   }
 }
-portToFriend.LibrarySortDropdownCallback = librarySortDropdownCallback
+houseTravel.LibrarySortDropdownCallback = librarySortDropdownCallback
 
 function updateLibraryEntries(this: void): undefined {
-  const librarySlider = asSliderView(asSliderHost(portToFriend.controls.library).slider)
+  const librarySlider = asSliderView(asSliderHost(houseTravel.controls.library).slider)
   librarySlider.SetValue(0)
-  const entries = portToFriend.GetFilteredLibraryData()
+  const entries = houseTravel.GetFilteredLibraryData()
   if (entries !== undefined) {
-    for (let i = 0; i < portToFriend.controls.libraryEntries.length; i = i + 1) {
-      portToFriend.ClearLibraryControls(i)
+    for (let i = 0; i < houseTravel.controls.libraryEntries.length; i = i + 1) {
+      houseTravel.ClearLibraryControls(i)
     }
-    portToFriend.CreateLibraryEntries()
+    houseTravel.CreateLibraryEntries()
   }
 }
-portToFriend.UpdateLibraryEntries = updateLibraryEntries
+houseTravel.UpdateLibraryEntries = updateLibraryEntries
 
 function cloneTable(
   this: void,
@@ -122,21 +122,21 @@ function cloneTable(
   }
   return newTable
 }
-portToFriend.CloneTable = cloneTable
+houseTravel.CloneTable = cloneTable
 
 function sortHouseList(this: void, names: Record<number, string>): string[] | undefined {
-  return portToFriend.SortPairs(names)
+  return houseTravel.SortPairs(names)
 }
-portToFriend.SortHouseList = sortHouseList
+houseTravel.SortHouseList = sortHouseList
 
 function createSortedHouseList(this: void): string[] | undefined {
-  const retVal = asHousesRecord(portToFriend.CloneTable(portToFriend.HOUSES))
-  return portToFriend.SortHouseList(retVal)
+  const retVal = asHousesRecord(houseTravel.CloneTable(houseTravel.HOUSES))
+  return houseTravel.SortHouseList(retVal)
 }
-portToFriend.CreateSortedHouseList = createSortedHouseList
+houseTravel.CreateSortedHouseList = createSortedHouseList
 
 function createCategoryFilterList(this: void): Record<number, string> {
-  const c = portToFriend.constants
+  const c = houseTravel.constants
   const retVal: Record<number, string> = {}
   retVal[c.FILTER_ID_NONE] = c.FILTER_NONE ?? ""
   retVal[c.FILTER_ID_HIGHLIGHT] = c.FILTER_HIGHLIGHT ?? ""
@@ -150,68 +150,68 @@ function createCategoryFilterList(this: void): Record<number, string> {
   retVal[c.FILTER_ID_ERP] = c.FILTER_ERP ?? ""
   return retVal
 }
-portToFriend.CreateCategoryFilterList = createCategoryFilterList
+houseTravel.CreateCategoryFilterList = createCategoryFilterList
 
 function createLibrarySortFilterList(this: void): Record<number, string> {
-  const c = portToFriend.constants
+  const c = houseTravel.constants
   const retVal: Record<number, string> = {}
   retVal[c.LIBRARY_SORT_ID_NONE] = c.LIBRARY_SORT_NONE ?? ""
   retVal[c.LIBRARY_SORT_ID_NAME] = c.LIBRARY_SORT_NAME ?? ""
   retVal[c.LIBRARY_SORT_ID_HOUSE] = c.LIBRARY_SORT_HOUSE ?? ""
   return retVal
 }
-portToFriend.CreateLibrarySortFilterList = createLibrarySortFilterList
+houseTravel.CreateLibrarySortFilterList = createLibrarySortFilterList
 
 function createDropdownEntries(this: void, dropdown: unknown): undefined {
   const combo = asComboBoxView(dropdown)
   combo.SetSortsItems(false)
   combo.ClearItems()
-  const sortedHouses = portToFriend.CreateSortedHouseList()
+  const sortedHouses = houseTravel.CreateSortedHouseList()
   if (sortedHouses !== undefined) {
     for (let i = 0; i < sortedHouses.length; i = i + 1) {
       const name = sortedHouses[i]
       if (name !== undefined) {
-        const entry = combo.CreateItemEntry(name, portToFriend.DropdownCallback)
+        const entry = combo.CreateItemEntry(name, houseTravel.DropdownCallback)
         combo.AddItem(entry, ZO_COMBOBOX_SUPRESS_UPDATE)
       }
     }
   }
 }
-portToFriend.CreateDropdownEntries = createDropdownEntries
+houseTravel.CreateDropdownEntries = createDropdownEntries
 
 function createCategoryDropdownEntries(this: void, dropdown: unknown): undefined {
   const combo = asComboBoxView(dropdown)
   combo.SetSortsItems(false)
   combo.ClearItems()
-  const entries = asStringSeq(portToFriend.CreateCategoryFilterList())
+  const entries = asStringSeq(houseTravel.CreateCategoryFilterList())
   for (let i = 0; i < entries.length; i = i + 1) {
     const label = entries[i]
     if (label === undefined) {
       continue
     }
-    const entry = combo.CreateItemEntry(label, portToFriend.CategoryDropdownCallback)
+    const entry = combo.CreateItemEntry(label, houseTravel.CategoryDropdownCallback)
     entry.filterId = i + 1
     combo.AddItem(entry, ZO_COMBOBOX_SUPRESS_UPDATE)
   }
 }
-portToFriend.CreateCategoryDropdownEntries = createCategoryDropdownEntries
+houseTravel.CreateCategoryDropdownEntries = createCategoryDropdownEntries
 
 function createLibrarySortDropdownEntries(this: void, dropdown: unknown): undefined {
   const combo = asComboBoxView(dropdown)
   combo.SetSortsItems(false)
   combo.ClearItems()
-  const entries = asStringSeq(portToFriend.CreateLibrarySortFilterList())
+  const entries = asStringSeq(houseTravel.CreateLibrarySortFilterList())
   for (let i = 0; i < entries.length; i = i + 1) {
     const label = entries[i]
     if (label === undefined) {
       continue
     }
-    const entry = combo.CreateItemEntry(label, portToFriend.LibrarySortDropdownCallback)
+    const entry = combo.CreateItemEntry(label, houseTravel.LibrarySortDropdownCallback)
     entry.filterId = i + 1
     combo.AddItem(entry, ZO_COMBOBOX_SUPRESS_UPDATE)
   }
 }
-portToFriend.CreateLibrarySortDropdownEntries = createLibrarySortDropdownEntries
+houseTravel.CreateLibrarySortDropdownEntries = createLibrarySortDropdownEntries
 
 function sortDropdownCallback(
   this: void,
@@ -219,23 +219,23 @@ function sortDropdownCallback(
   _text: string,
   choice: { sortId: number }
 ): undefined {
-  portToFriend.addonState.selectedMyHousesSort = choice.sortId
-  if (portToFriend.savedVars !== undefined) {
-    portToFriend.savedVars.selectedMyHousesSort = choice.sortId
+  houseTravel.addonState.selectedMyHousesSort = choice.sortId
+  if (houseTravel.savedVars !== undefined) {
+    houseTravel.savedVars.selectedMyHousesSort = choice.sortId
   }
-  if (portToFriend.addonState.sortInitialized === true) {
-    const myHousesSlider = asSliderView(asSliderHost(portToFriend.controls.myHouses).slider)
+  if (houseTravel.addonState.sortInitialized === true) {
+    const myHousesSlider = asSliderView(asSliderHost(houseTravel.controls.myHouses).slider)
     myHousesSlider.SetValue(1)
-    portToFriend.UpdateMyHouses()
+    houseTravel.UpdateMyHouses()
   }
 }
-portToFriend.SortDropdownCallback = sortDropdownCallback
+houseTravel.SortDropdownCallback = sortDropdownCallback
 
 function createSortDropdownEntries(this: void, dropdown: unknown): undefined {
   const combo = asComboBoxView(dropdown)
   combo.SetSortsItems(false)
   combo.ClearItems()
-  const c = portToFriend.constants
+  const c = houseTravel.constants
   const entriesRec: Record<number, string> = {}
   entriesRec[c.SORT_ID_HOUSE] = c.SORT_HOUSE ?? ""
   entriesRec[c.SORT_ID_LOCATION] = c.SORT_LOCATION ?? ""
@@ -245,9 +245,9 @@ function createSortDropdownEntries(this: void, dropdown: unknown): undefined {
     if (label === undefined) {
       continue
     }
-    const entry = combo.CreateItemEntry(label, portToFriend.SortDropdownCallback)
+    const entry = combo.CreateItemEntry(label, houseTravel.SortDropdownCallback)
     entry.sortId = i + 1
     combo.AddItem(entry, ZO_COMBOBOX_SUPRESS_UPDATE)
   }
 }
-portToFriend.CreateSortDropdownEntries = createSortDropdownEntries
+houseTravel.CreateSortDropdownEntries = createSortDropdownEntries

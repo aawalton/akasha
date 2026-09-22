@@ -71,7 +71,7 @@ export interface Config {
   houseDebug: boolean
 }
 
-export interface PortToFriendControls extends Record<string, unknown> {
+export interface HouseTravelControls extends Record<string, unknown> {
   favorites: Record<number, unknown>[]
   searchResults: Record<number, unknown>[]
   searchResultsBackdrop: Control[]
@@ -80,7 +80,7 @@ export interface PortToFriendControls extends Record<string, unknown> {
   TLW?: Control
 }
 
-export interface PortToFriendAddonState {
+export interface HouseTravelAddonState {
   houseId: number
   isScrollable: boolean
   isVCScrollable: boolean
@@ -102,20 +102,20 @@ export interface PortToFriendAddonState {
   VCLocationCalculated?: boolean
 }
 
-export interface PortToFriendDefaults {
+export interface HouseTravelDefaults {
   vc_chatAllowed: VcChatAllowed
   vc: { allowSelf: boolean }
   port_mode: number
   defaultTab: number
 }
 
-export interface PortToFriendHacks {
+export interface HouseTravelHacks {
   callbackName: string
   callbackInterval: number
   contextMenuHackUpdated?: boolean
 }
 
-export interface PortToFriendData {
+export interface HouseTravelData {
   euData: LibraryEntry[]
   naData: LibraryEntry[]
   currentData: LibraryEntry[]
@@ -127,15 +127,15 @@ export interface PortToFriendData {
 
 export type LamOption = LamDropdownData | Record<string, unknown>
 
-export interface PortToFriendMenuLam extends Record<string, unknown> {
+export interface HouseTravelMenuLam extends Record<string, unknown> {
   panel?: unknown
   panelData: Record<string, unknown>
   optionsData?: LamOption[]
 }
 
-export interface PortToFriendMenuHolder {
+export interface HouseTravelMenuHolder {
   name: string
-  lam: PortToFriendMenuLam
+  lam: HouseTravelMenuLam
   Initialize: (this: void, menuName: string, vars: SavedVars) => void
   CreateMenuFromVars: (this: void, vars: SavedVars) => LamOption[]
 }

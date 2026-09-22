@@ -2,7 +2,7 @@ import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { Favorite } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
@@ -39,8 +39,8 @@ function asFavoriteEntryControls(value: unknown): FavoriteEntryControls {
 }
 
 function sortFriends(this: void): Favorite[] | undefined {
-  if (portToFriend.savedVars !== undefined && portToFriend.savedVars.favorites !== undefined) {
-    const favorites = portToFriend.savedVars.favorites
+  if (houseTravel.savedVars !== undefined && houseTravel.savedVars.favorites !== undefined) {
+    const favorites = houseTravel.savedVars.favorites
     let itemCount = favorites.length
     let hasChanged = false
     do {
@@ -57,8 +57,8 @@ function sortFriends(this: void): Favorite[] | undefined {
           favorites[i + 1] = current
           hasChanged = true
         } else if (current.name === next.name) {
-          const currentHouse = portToFriend.HOUSES[current.houseId]
-          const nextHouse = portToFriend.HOUSES[next.houseId]
+          const currentHouse = houseTravel.HOUSES[current.houseId]
+          const nextHouse = houseTravel.HOUSES[next.houseId]
           if (currentHouse === undefined || nextHouse === undefined) {
             continue
           }
@@ -74,20 +74,20 @@ function sortFriends(this: void): Favorite[] | undefined {
   }
   return undefined
 }
-portToFriend.SortFriends = sortFriends
+houseTravel.SortFriends = sortFriends
 
 function getFavorites(this: void): Favorite[] | undefined {
-  if (portToFriend.savedVars === undefined) {
+  if (houseTravel.savedVars === undefined) {
     return undefined
   }
-  return portToFriend.savedVars.favorites
+  return houseTravel.savedVars.favorites
 }
-portToFriend.GetFavorites = getFavorites
+houseTravel.GetFavorites = getFavorites
 
 function clearLibraryControls(this: void, index: number): undefined {
-  const libraryEntries = portToFriend.controls.libraryEntries
+  const libraryEntries = houseTravel.controls.libraryEntries
   if (libraryEntries !== undefined && index !== undefined && index < libraryEntries.length) {
-    const library = asScrollPanelHolder(portToFriend.controls.library)
+    const library = asScrollPanelHolder(houseTravel.controls.library)
     for (let i = index; i < libraryEntries.length; i = i + 1) {
       const entry = asLibraryEntryControls(libraryEntries[i])
       entry.backDrop.SetHidden(true)
@@ -108,12 +108,12 @@ function clearLibraryControls(this: void, index: number): undefined {
     }
   }
 }
-portToFriend.ClearLibraryControls = clearLibraryControls
+houseTravel.ClearLibraryControls = clearLibraryControls
 
 function clearFavoriteControls(this: void, index: number): undefined {
-  const favorites = portToFriend.controls.favorites
+  const favorites = houseTravel.controls.favorites
   if (favorites !== undefined && index !== undefined && index < favorites.length) {
-    const house = asScrollPanelHolder(portToFriend.controls.house)
+    const house = asScrollPanelHolder(houseTravel.controls.house)
     for (let i = index; i < favorites.length; i = i + 1) {
       const entry = asFavoriteEntryControls(favorites[i])
       entry.backDrop.SetHidden(true)
@@ -134,4 +134,4 @@ function clearFavoriteControls(this: void, index: number): undefined {
     }
   }
 }
-portToFriend.ClearFavoriteControls = clearFavoriteControls
+houseTravel.ClearFavoriteControls = clearFavoriteControls

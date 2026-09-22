@@ -1,11 +1,11 @@
-import type { PortToFriendMenuHolder } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state-types/housing-state-types.module.code.ts"
+import type { HouseTravelMenuHolder } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state-types/housing-state-types.module.code.ts"
 
-function asPortToFriendMenuHolder(value: unknown): PortToFriendMenuHolder {
-  return value as PortToFriendMenuHolder
+function asHouseTravelMenuHolder(value: unknown): HouseTravelMenuHolder {
+  return value as HouseTravelMenuHolder
 }
 
-export const portToFriendMenu: PortToFriendMenuHolder = asPortToFriendMenuHolder({
-  name: "PortToFriendMenu",
+export const houseTravelMenu: HouseTravelMenuHolder = asHouseTravelMenuHolder({
+  name: "HouseTravelMenu",
   lam: {
     panel: undefined,
     panelData: {

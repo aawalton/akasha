@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
@@ -16,31 +16,31 @@ function nextUniqueSuffix(this: void): number {
   return UNIQUE_NAME_COUNTER
 }
 
-interface PtfComboBoxItem {
+interface HouseComboBoxItem {
   name: string | number
 }
-interface PtfComboBox {
-  SetSortsItems: (this: PtfComboBox, sortsItems: boolean) => void
-  ClearItems: (this: PtfComboBox) => void
+interface HouseComboBox {
+  SetSortsItems: (this: HouseComboBox, sortsItems: boolean) => void
+  ClearItems: (this: HouseComboBox) => void
   CreateItemEntry: (
-    this: PtfComboBox,
+    this: HouseComboBox,
     name: string | number,
     callback: (this: void, control: Control, text: string | number, choice: unknown) => void
-  ) => PtfComboBoxItem
-  AddItem: (this: PtfComboBox, entry: PtfComboBoxItem, suppressUpdate?: unknown) => void
-  SetSelectedItem: (this: PtfComboBox, itemName: string | number) => void
+  ) => HouseComboBoxItem
+  AddItem: (this: HouseComboBox, entry: HouseComboBoxItem, suppressUpdate?: unknown) => void
+  SetSelectedItem: (this: HouseComboBox, itemName: string | number) => void
 }
 
 interface FavoriteComboboxControls {
   combobox?: Control
   comboboxButton?: Control
-  dropdown?: PtfComboBox
+  dropdown?: HouseComboBox
 }
 
 interface MyHouseFavoriteControls {
   combobox?: Control
   comboboxButton?: Control
-  dropdown?: PtfComboBox
+  dropdown?: HouseComboBox
   backDrop?: Control
   houseId?: number
 }
@@ -49,8 +49,8 @@ interface MyHousesControls {
   portFavorites?: Record<number, Record<number, MyHouseFavoriteControls>>
 }
 
-function asPtfComboBox(value: unknown): PtfComboBox {
-  return value as PtfComboBox
+function asHouseComboBox(value: unknown): HouseComboBox {
+  return value as HouseComboBox
 }
 function asFavoriteComboboxControls(value: unknown): FavoriteComboboxControls {
   return value as FavoriteComboboxControls
@@ -70,13 +70,13 @@ function favoriteCallback(
   _choice: unknown,
   index: number
 ): undefined {
-  if (portToFriend.savedVars === undefined) {
+  if (houseTravel.savedVars === undefined) {
     return
   }
-  const favorites = portToFriend.savedVars.favorites
+  const favorites = houseTravel.savedVars.favorites
   if (favorites !== undefined && favorites.length > 0) {
     const favId = tonumber(text)
-    const favControls = asFavoriteComboboxControls(portToFriend.controls.favorites[index])
+    const favControls = asFavoriteComboboxControls(houseTravel.controls.favorites[index])
     const favorite = favorites[index]
     if (favorite === undefined) {
       return
@@ -92,7 +92,7 @@ function favoriteCallback(
           continue
         }
         if (other.id === favId && i !== index) {
-          portToFriend.FavoriteCallback(undefined, favId + 1, undefined, i)
+          houseTravel.FavoriteCallback(undefined, favId + 1, undefined, i)
           break
         }
       }
@@ -104,7 +104,7 @@ function favoriteCallback(
     }
   }
 }
-portToFriend.FavoriteCallback = favoriteCallback
+houseTravel.FavoriteCallback = favoriteCallback
 
 function myHouseFavoriteCallback(
   this: void,
@@ -114,13 +114,13 @@ function myHouseFavoriteCallback(
   index: number,
   portType: number
 ): undefined {
-  if (portToFriend.savedVars === undefined) {
+  if (houseTravel.savedVars === undefined) {
     return
   }
-  const favorites = portToFriend.savedVars.myHousesFavorites[portType]
+  const favorites = houseTravel.savedVars.myHousesFavorites[portType]
   if (favorites !== undefined) {
     const id = tonumber(text)
-    const myHouses = asMyHousesControls(portToFriend.controls.myHouses)
+    const myHouses = asMyHousesControls(houseTravel.controls.myHouses)
     const portFavorites = asBuiltPortFavorites(myHouses.portFavorites)
     const portTypeFavorites = portFavorites[portType]
     if (portTypeFavorites === undefined) {
@@ -145,16 +145,16 @@ function myHouseFavoriteCallback(
         }
       }
     }
-    portToFriend.UpdateMyHouses()
+    houseTravel.UpdateMyHouses()
   }
 }
-portToFriend.MyHouseFavoriteCallback = myHouseFavoriteCallback
+houseTravel.MyHouseFavoriteCallback = myHouseFavoriteCallback
 
 function getFavoriteIdFromMyHouseId(this: void, id: number, portType: number): number | undefined {
-  if (portToFriend.savedVars === undefined) {
+  if (houseTravel.savedVars === undefined) {
     return undefined
   }
-  const favorites = portToFriend.savedVars.myHousesFavorites[portType]
+  const favorites = houseTravel.savedVars.myHousesFavorites[portType]
   if (favorites !== undefined) {
     for (const [key, value] of pairs(favorites)) {
       if (value === id) {
@@ -164,7 +164,7 @@ function getFavoriteIdFromMyHouseId(this: void, id: number, portType: number): n
   }
   return undefined
 }
-portToFriend.GetFavoriteIdFromMyHouseId = getFavoriteIdFromMyHouseId
+houseTravel.GetFavoriteIdFromMyHouseId = getFavoriteIdFromMyHouseId
 
 function createFavoriteCombobox(
   this: void,
@@ -185,15 +185,15 @@ function createFavoriteCombobox(
     offsetY !== undefined &&
     container !== undefined
   ) {
-    if (portToFriend.controls.favorites[index] === undefined) {
-      portToFriend.controls.favorites[index] = {}
+    if (houseTravel.controls.favorites[index] === undefined) {
+      houseTravel.controls.favorites[index] = {}
     }
-    const favControls = asFavoriteComboboxControls(portToFriend.controls.favorites[index])
+    const favControls = asFavoriteComboboxControls(houseTravel.controls.favorites[index])
     if (favControls.combobox === undefined) {
       const gameTime = GetGameTimeMilliseconds()
       const rand = nextUniqueSuffix()
       const comboboxName =
-        "PortToFriend_Combobox_Favorites_" + tostring(rand) + "_" + tostring(gameTime)
+        "HouseTravel_Combobox_Favorites_" + tostring(rand) + "_" + tostring(gameTime)
       favControls.combobox = WINDOW_MANAGER.CreateControlFromVirtual(
         comboboxName,
         container,
@@ -203,10 +203,10 @@ function createFavoriteCombobox(
       const comboboxButton = favControls.comboboxButton
       if (comboboxButton !== undefined) {
         comboboxButton.SetHandler("OnMouseEnter", () => {
-          portToFriend.BdOnMouseEnter(index)
+          houseTravel.BdOnMouseEnter(index)
         })
         comboboxButton.SetHandler("OnMouseExit", () => {
-          portToFriend.BdOnMouseExit(index)
+          houseTravel.BdOnMouseExit(index)
         })
       }
     }
@@ -216,14 +216,14 @@ function createFavoriteCombobox(
       combobox.SetAnchor(TOPLEFT, container, TOPLEFT, offsetX, offsetY)
       combobox.SetDimensions(width, height)
       combobox.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdOnMouseEnter(index)
+        houseTravel.BdOnMouseEnter(index)
       })
       combobox.SetHandler("OnMouseExit", () => {
-        portToFriend.BdOnMouseExit(index)
+        houseTravel.BdOnMouseExit(index)
       })
 
       if (favControls.dropdown === undefined) {
-        favControls.dropdown = asPtfComboBox(ZO_ComboBox_ObjectFromContainer(combobox))
+        favControls.dropdown = asHouseComboBox(ZO_ComboBox_ObjectFromContainer(combobox))
       }
       const dropdown = favControls.dropdown
 
@@ -231,12 +231,12 @@ function createFavoriteCombobox(
       dropdown.ClearItems()
 
       let entry = dropdown.CreateItemEntry("-", (control, text, choice) => {
-        portToFriend.FavoriteCallback(control, text, choice, index)
+        houseTravel.FavoriteCallback(control, text, choice, index)
       })
       dropdown.AddItem(entry, ZO_COMBOBOX_SUPRESS_UPDATE)
       for (let i = 1; i <= 10; i = i + 1) {
         entry = dropdown.CreateItemEntry(i, (control, text, choice) => {
-          portToFriend.FavoriteCallback(control, text, choice, index)
+          houseTravel.FavoriteCallback(control, text, choice, index)
         })
         dropdown.AddItem(entry, ZO_COMBOBOX_SUPRESS_UPDATE)
       }
@@ -248,7 +248,7 @@ function createFavoriteCombobox(
     }
   }
 }
-portToFriend.CreateFavoriteCombobox = createFavoriteCombobox
+houseTravel.CreateFavoriteCombobox = createFavoriteCombobox
 
 function createPortMyHouseFavorite(
   this: void,
@@ -270,7 +270,7 @@ function createPortMyHouseFavorite(
     container !== undefined &&
     portType !== undefined
   ) {
-    const myHouses = asMyHousesControls(portToFriend.controls.myHouses)
+    const myHouses = asMyHousesControls(houseTravel.controls.myHouses)
     if (myHouses.portFavorites === undefined) {
       myHouses.portFavorites = {}
     }
@@ -285,7 +285,7 @@ function createPortMyHouseFavorite(
       const gameTime = GetGameTimeMilliseconds()
       const rand = nextUniqueSuffix()
       const comboboxName =
-        "PortToFriend_Combobox_Favorites_" +
+        "HouseTravel_Combobox_Favorites_" +
         tostring(portType) +
         "_" +
         tostring(index) +
@@ -302,10 +302,10 @@ function createPortMyHouseFavorite(
       const comboboxButton = slot.comboboxButton
       if (comboboxButton !== undefined) {
         comboboxButton.SetHandler("OnMouseEnter", () => {
-          portToFriend.BdMyHousesOnMouseEnter(index)
+          houseTravel.BdMyHousesOnMouseEnter(index)
         })
         comboboxButton.SetHandler("OnMouseExit", () => {
-          portToFriend.BdMyHousesOnMouseExit(index)
+          houseTravel.BdMyHousesOnMouseExit(index)
         })
       }
     }
@@ -317,14 +317,14 @@ function createPortMyHouseFavorite(
       combobox.SetAnchor(TOPLEFT, container, TOPLEFT, offsetX, 0)
       combobox.SetDimensions(width, height)
       combobox.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdMyHousesOnMouseEnter(index)
+        houseTravel.BdMyHousesOnMouseEnter(index)
       })
       combobox.SetHandler("OnMouseExit", () => {
-        portToFriend.BdMyHousesOnMouseExit(index)
+        houseTravel.BdMyHousesOnMouseExit(index)
       })
 
       if (slot.dropdown === undefined) {
-        slot.dropdown = asPtfComboBox(ZO_ComboBox_ObjectFromContainer(combobox))
+        slot.dropdown = asHouseComboBox(ZO_ComboBox_ObjectFromContainer(combobox))
       }
     }
     const dropdown = slot.dropdown
@@ -333,12 +333,12 @@ function createPortMyHouseFavorite(
       dropdown.ClearItems()
 
       let entry = dropdown.CreateItemEntry("-", (control, text, choice) => {
-        portToFriend.MyHouseFavoriteCallback(control, text, choice, index, portType)
+        houseTravel.MyHouseFavoriteCallback(control, text, choice, index, portType)
       })
       dropdown.AddItem(entry, ZO_COMBOBOX_SUPRESS_UPDATE)
       for (let i = 1; i <= 10; i = i + 1) {
         entry = dropdown.CreateItemEntry(i, (control, text, choice) => {
-          portToFriend.MyHouseFavoriteCallback(control, text, choice, index, portType)
+          houseTravel.MyHouseFavoriteCallback(control, text, choice, index, portType)
         })
         dropdown.AddItem(entry, ZO_COMBOBOX_SUPRESS_UPDATE)
       }
@@ -350,4 +350,4 @@ function createPortMyHouseFavorite(
     }
   }
 }
-portToFriend.CreatePortMyHouseFavorite = createPortMyHouseFavorite
+houseTravel.CreatePortMyHouseFavorite = createPortMyHouseFavorite

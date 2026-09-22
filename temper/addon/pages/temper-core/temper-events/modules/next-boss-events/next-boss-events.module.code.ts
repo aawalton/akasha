@@ -159,13 +159,13 @@ function onMessageReceived(this: void, bossId: number): undefined {
 export function setupBroadcast(this: void): undefined {
   if (LibGroupBroadcast !== undefined) {
     const handler = LibGroupBroadcast.RegisterHandler(BROADCAST_HANDLER_NAME)
-    handler.SetDisplayName("ICTheNextBoss")
+    handler.SetDisplayName("TemperImperialCityBosses")
     handler.SetDescription("Shares kills with your group")
     const protocol = handler.DeclareProtocol(PROTOCOL_ID, PROTOCOL_NAME)
     protocol.AddField(LibGroupBroadcast.CreateNumericField("bossId", { minValue: 1, maxValue: 6 }))
     protocol.OnData(onMessageReceived)
     if (!protocol.Finalize({ isRelevantInCombat: false, replaceQueuedMessages: false })) {
-      error("Failed to finalize ICTheNextBoss legacy protocol")
+      error("Failed to finalize TemperImperialCityBosses legacy protocol")
     }
     ICT.handler = handler
     ICT.protocol = protocol

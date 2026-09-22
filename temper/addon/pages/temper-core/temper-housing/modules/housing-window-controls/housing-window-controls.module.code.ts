@@ -7,7 +7,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
@@ -77,7 +77,7 @@ function createEditbox(this: void, container: Control): LuaMultiReturn<[Control,
   const editbox = wm.CreateControlFromVirtual("", bd, "ZO_DefaultEditForBackdrop")
   return $multi(bd, editbox)
 }
-portToFriend.CreateEditbox = createEditbox
+houseTravel.CreateEditbox = createEditbox
 
 function createSearchBox(
   this: void,
@@ -86,7 +86,7 @@ function createSearchBox(
   offsetY: number,
   width: number
 ): Control {
-  const house = asHouseControls(portToFriend.controls.house)
+  const house = asHouseControls(houseTravel.controls.house)
   const control = asSearchBoxControl(wm.CreateControl("", container, CT_CONTROL))
   control.SetAnchor(TOPLEFT, house.control, TOPLEFT, offsetX, offsetY)
   control.SetDimensions(width, 0)
@@ -95,26 +95,26 @@ function createSearchBox(
   control.SetMouseEnabled(true)
   control.SetHandler("OnMouseWheel", (self, delta) => {
     if (typeof delta === "number") {
-      portToFriend.SearchBoxOnMouseWheel(asControl(self), delta)
+      houseTravel.SearchBoxOnMouseWheel(asControl(self), delta)
     }
   })
 
   control.backdrop = CreateControlFromVirtual(
-    portToFriend.constants.controls.SEARCH_BODY_BACKDROP,
+    houseTravel.constants.controls.SEARCH_BODY_BACKDROP,
     control,
     "ZO_SliderBackdrop"
   )
   control.backdrop.SetCenterColor(
-    portToFriend.config.color.searchBackdrop.R,
-    portToFriend.config.color.searchBackdrop.G,
-    portToFriend.config.color.searchBackdrop.B,
-    portToFriend.config.color.searchBackdrop.A
+    houseTravel.config.color.searchBackdrop.R,
+    houseTravel.config.color.searchBackdrop.G,
+    houseTravel.config.color.searchBackdrop.B,
+    houseTravel.config.color.searchBackdrop.A
   )
   control.backdrop.SetEdgeColor(
-    portToFriend.config.color.searchBackdropEdge.R,
-    portToFriend.config.color.searchBackdropEdge.G,
-    portToFriend.config.color.searchBackdropEdge.B,
-    portToFriend.config.color.searchBackdropEdge.A
+    houseTravel.config.color.searchBackdropEdge.R,
+    houseTravel.config.color.searchBackdropEdge.G,
+    houseTravel.config.color.searchBackdropEdge.B,
+    houseTravel.config.color.searchBackdropEdge.A
   )
   control.backdrop.SetDrawLayer(1)
 
@@ -130,7 +130,7 @@ function createSearchBox(
   control.bodyControl.SetDrawLayer(2)
   control.bodyControl.SetHandler("OnMouseWheel", (self, delta) => {
     if (typeof delta === "number") {
-      portToFriend.SearchBoxOnMouseWheel(asControl(self), delta)
+      houseTravel.SearchBoxOnMouseWheel(asControl(self), delta)
     }
   })
 
@@ -150,16 +150,16 @@ function createSearchBox(
     50
   )
   control.slider.SetValueStep(1)
-  control.slider.SetHandler("OnValueChanged", portToFriend.AdjustSearchSlider)
+  control.slider.SetHandler("OnValueChanged", houseTravel.AdjustSearchSlider)
 
   return control
 }
-portToFriend.CreateSearchBox = createSearchBox
+houseTravel.CreateSearchBox = createSearchBox
 
 function searchBoxOnMouseWheel(this: void, _control: Control, delta: number): undefined {
-  const searchBox = asHouseControls(portToFriend.controls.house).searchBox
+  const searchBox = asHouseControls(houseTravel.controls.house).searchBox
   if (searchBox.slider.IsHidden() === false) {
-    const searchResult = portToFriend.addonState.searchResult ?? []
+    const searchResult = houseTravel.addonState.searchResult ?? []
     let size = 100 / searchResult.length
     if (size < 1) {
       size = 1
@@ -175,14 +175,14 @@ function searchBoxOnMouseWheel(this: void, _control: Control, delta: number): un
     searchBox.slider.SetValue(position)
   }
 }
-portToFriend.SearchBoxOnMouseWheel = searchBoxOnMouseWheel
+houseTravel.SearchBoxOnMouseWheel = searchBoxOnMouseWheel
 
 function adjustSearchSlider(this: void): undefined {
-  if (portToFriend.addonState.searchResult !== undefined) {
-    const searchBox = asHouseControls(portToFriend.controls.house).searchBox
+  if (houseTravel.addonState.searchResult !== undefined) {
+    const searchBox = asHouseControls(houseTravel.controls.house).searchBox
     let size =
-      portToFriend.config.search.height * portToFriend.addonState.searchResult.length -
-      portToFriend.config.search.height * portToFriend.config.search.max
+      houseTravel.config.search.height * houseTravel.addonState.searchResult.length -
+      houseTravel.config.search.height * houseTravel.config.search.max
     if (size < 0) {
       size = 0
     }
@@ -193,7 +193,7 @@ function adjustSearchSlider(this: void): undefined {
   } else {
   }
 }
-portToFriend.AdjustSearchSlider = adjustSearchSlider
+houseTravel.AdjustSearchSlider = adjustSearchSlider
 
 interface WindowControlsTree {
   TLW: Control
@@ -213,11 +213,11 @@ function asSavedPositionWithVc(value: unknown): SavedPositionWithVc {
 }
 
 function saveWindowLocation(this: void): undefined {
-  const savedVars = portToFriend.savedVars
+  const savedVars = houseTravel.savedVars
   if (savedVars === undefined) {
     return
   }
-  const controls = asWindowControlsTree(portToFriend.controls)
+  const controls = asWindowControlsTree(houseTravel.controls)
   const position = asSavedPositionWithVc({})
   savedVars.position = position
   position.x = controls.TLW.GetLeft()
@@ -226,39 +226,39 @@ function saveWindowLocation(this: void): undefined {
     position.vc = { x: controls.vc.TLW.GetLeft(), y: controls.vc.TLW.GetTop() }
   }
 }
-portToFriend.SaveWindowLocation = saveWindowLocation
+houseTravel.SaveWindowLocation = saveWindowLocation
 
 function openWindow(this: void, callback?: (this: void) => void): undefined {
-  const tlw = asWindowControlsTree(portToFriend.controls).TLW
+  const tlw = asWindowControlsTree(houseTravel.controls).TLW
   tlw.SetHidden(false)
   SetGameCameraUIMode(!tlw.IsHidden())
-  portToFriend.CreateGuildAndFriendList()
+  houseTravel.CreateGuildAndFriendList()
   if (callback !== undefined && type(callback) === "function") {
-    portToFriend.addonState.windowCallback = callback
+    houseTravel.addonState.windowCallback = callback
   }
 }
-portToFriend.OpenWindow = openWindow
+houseTravel.OpenWindow = openWindow
 
 function closeWindow(this: void): undefined {
-  const tlw = asWindowControlsTree(portToFriend.controls).TLW
+  const tlw = asWindowControlsTree(houseTravel.controls).TLW
   tlw.SetHidden(true)
   SetGameCameraUIMode(!tlw.IsHidden())
-  const callback = portToFriend.addonState.windowCallback
+  const callback = houseTravel.addonState.windowCallback
   if (callback !== undefined && type(callback) === "function") {
-    portToFriend.addonState.windowCallback = undefined
+    houseTravel.addonState.windowCallback = undefined
     callback()
   }
 }
-portToFriend.CloseWindow = closeWindow
+houseTravel.CloseWindow = closeWindow
 
 function showHelp(this: void): undefined {
-  const c = portToFriend.constants
-  d(portToFriend.slashCmd + (c.CMD_HELP_1 ?? ""))
-  d(portToFriend.slashCmd + (c.CMD_HELP_2 ?? ""))
-  d(portToFriend.slashCmd + (c.CMD_HELP_3 ?? ""))
-  d(portToFriend.slashCmd + (c.CMD_HELP_4 ?? ""))
-  d(portToFriend.slashCmd + (c.CMD_HELP_5 ?? ""))
-  d(portToFriend.slashCmd + (c.CMD_HELP_6 ?? ""))
-  d(portToFriend.slashCmd + (c.CMD_HELP_7 ?? ""))
+  const c = houseTravel.constants
+  d(houseTravel.slashCmd + (c.CMD_HELP_1 ?? ""))
+  d(houseTravel.slashCmd + (c.CMD_HELP_2 ?? ""))
+  d(houseTravel.slashCmd + (c.CMD_HELP_3 ?? ""))
+  d(houseTravel.slashCmd + (c.CMD_HELP_4 ?? ""))
+  d(houseTravel.slashCmd + (c.CMD_HELP_5 ?? ""))
+  d(houseTravel.slashCmd + (c.CMD_HELP_6 ?? ""))
+  d(houseTravel.slashCmd + (c.CMD_HELP_7 ?? ""))
 }
-portToFriend.ShowHelp = showHelp
+houseTravel.ShowHelp = showHelp

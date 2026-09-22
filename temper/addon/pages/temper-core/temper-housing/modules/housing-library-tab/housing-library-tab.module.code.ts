@@ -5,7 +5,7 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { LibraryEntry } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
@@ -71,8 +71,8 @@ function asFiveArgEdge(value: unknown): FiveArgEdge {
 
 function getFilteredLibraryData(this: void): LibraryEntry[] {
   const retVal: LibraryEntry[] = []
-  const entries = portToFriend.libData.GetLibraryData()
-  if (portToFriend.addonState.selectedLibraryFilter === portToFriend.constants.FILTER_ID_NONE) {
+  const entries = houseTravel.libData.GetLibraryData()
+  if (houseTravel.addonState.selectedLibraryFilter === houseTravel.constants.FILTER_ID_NONE) {
     for (let i = 0; i < entries.length; i++) {
       const entry = entries[i]
       if (entry === undefined) {
@@ -89,7 +89,7 @@ function getFilteredLibraryData(this: void): LibraryEntry[] {
       }
       const categories = entry.category
       for (let j = 0; j < categories.length; j++) {
-        if (categories[j] === portToFriend.addonState.selectedLibraryFilter) {
+        if (categories[j] === houseTravel.addonState.selectedLibraryFilter) {
           retVal[currentIndex] = entry
           currentIndex = currentIndex + 1
           break
@@ -97,9 +97,9 @@ function getFilteredLibraryData(this: void): LibraryEntry[] {
       }
     }
   }
-  return portToFriend.SortFilteredLibraryData(retVal)
+  return houseTravel.SortFilteredLibraryData(retVal)
 }
-portToFriend.GetFilteredLibraryData = getFilteredLibraryData
+houseTravel.GetFilteredLibraryData = getFilteredLibraryData
 
 function sortFilteredLibraryData(this: void, data: LibraryEntry[]): LibraryEntry[] {
   const retVal: LibraryEntry[] = []
@@ -110,9 +110,9 @@ function sortFilteredLibraryData(this: void, data: LibraryEntry[]): LibraryEntry
     }
     retVal[i] = entry
   }
-  if (portToFriend.addonState.selectedLibrarySort === portToFriend.constants.LIBRARY_SORT_ID_NONE) {
+  if (houseTravel.addonState.selectedLibrarySort === houseTravel.constants.LIBRARY_SORT_ID_NONE) {
   } else if (
-    portToFriend.addonState.selectedLibrarySort === portToFriend.constants.LIBRARY_SORT_ID_NAME
+    houseTravel.addonState.selectedLibrarySort === houseTravel.constants.LIBRARY_SORT_ID_NAME
   ) {
     if (data.length > 1) {
       let itemCount = retVal.length
@@ -131,8 +131,8 @@ function sortFilteredLibraryData(this: void, data: LibraryEntry[]): LibraryEntry
             retVal[i + 1] = a
             hasChanged = true
           } else if (a.name === b.name) {
-            const houseA = portToFriend.HOUSES[a.houseId]
-            const houseB = portToFriend.HOUSES[b.houseId]
+            const houseA = houseTravel.HOUSES[a.houseId]
+            const houseB = houseTravel.HOUSES[b.houseId]
             if (houseA !== undefined && houseB !== undefined && houseA > houseB) {
               retVal[i] = b
               retVal[i + 1] = a
@@ -155,8 +155,8 @@ function sortFilteredLibraryData(this: void, data: LibraryEntry[]): LibraryEntry
           if (a === undefined || b === undefined) {
             continue
           }
-          const houseA = portToFriend.HOUSES[a.houseId]
-          const houseB = portToFriend.HOUSES[b.houseId]
+          const houseA = houseTravel.HOUSES[a.houseId]
+          const houseB = houseTravel.HOUSES[b.houseId]
           if (houseA !== undefined && houseB !== undefined && houseA > houseB) {
             retVal[i] = b
             retVal[i + 1] = a
@@ -174,11 +174,11 @@ function sortFilteredLibraryData(this: void, data: LibraryEntry[]): LibraryEntry
   }
   return retVal
 }
-portToFriend.SortFilteredLibraryData = sortFilteredLibraryData
+houseTravel.SortFilteredLibraryData = sortFilteredLibraryData
 
 function getCategoryString(this: void, categories: number[]): string {
   let retVal = ""
-  const categoryList = portToFriend.CreateCategoryFilterList()
+  const categoryList = houseTravel.CreateCategoryFilterList()
   if (categories !== undefined) {
     for (let i = 0; i < categories.length; i++) {
       const categoryId = categories[i]
@@ -199,10 +199,10 @@ function getCategoryString(this: void, categories: number[]): string {
   }
   return retVal
 }
-portToFriend.GetCategoryString = getCategoryString
+houseTravel.GetCategoryString = getCategoryString
 
 function libraryEntryNoteOnMouseEnter(this: void, index: number, control: Control): undefined {
-  const entries = portToFriend.GetFilteredLibraryData()
+  const entries = houseTravel.GetFilteredLibraryData()
   const entry = entries[index]
   if (entry !== undefined && entry.description !== undefined) {
     const description = entry.description
@@ -210,36 +210,36 @@ function libraryEntryNoteOnMouseEnter(this: void, index: number, control: Contro
     SetTooltipText(InformationTooltip, description)
   }
 }
-portToFriend.LibraryEntryNoteOnMouseEnter = libraryEntryNoteOnMouseEnter
+houseTravel.LibraryEntryNoteOnMouseEnter = libraryEntryNoteOnMouseEnter
 
 function libraryEntryNoteOnMouseExit(this: void, _index: number): undefined {
   ClearTooltip(InformationTooltip)
 }
-portToFriend.LibraryEntryNoteOnMouseExit = libraryEntryNoteOnMouseExit
+houseTravel.LibraryEntryNoteOnMouseExit = libraryEntryNoteOnMouseExit
 
 function createLibraryEntries(this: void): undefined {
-  const libData = asLibDataCurrent(portToFriend.libData)
+  const libData = asLibDataCurrent(houseTravel.libData)
   if (libData.currentData !== undefined) {
-    const entries = portToFriend.GetFilteredLibraryData()
-    const library = asLibraryPanel(portToFriend.controls.library)
-    const color = portToFriend.config.color
-    const headerFont = portToFriend.config.fonts.header
+    const entries = houseTravel.GetFilteredLibraryData()
+    const library = asLibraryPanel(houseTravel.controls.library)
+    const color = houseTravel.config.color
+    const headerFont = houseTravel.config.fonts.header
 
     for (let i = 0; i < entries.length; i++) {
       const entry = entries[i]
       if (entry === undefined) {
         continue
       }
-      if (portToFriend.controls.libraryEntries[i] === undefined) {
-        portToFriend.controls.libraryEntries[i] = {}
+      if (houseTravel.controls.libraryEntries[i] === undefined) {
+        houseTravel.controls.libraryEntries[i] = {}
       }
-      const row = asLibraryEntryRow(portToFriend.controls.libraryEntries[i])
+      const row = asLibraryEntryRow(houseTravel.controls.libraryEntries[i])
 
       if (row.backDrop === undefined) {
         row.backDrop = WINDOW_MANAGER.CreateControl(undefined, library.scrollPanel, CT_BACKDROP)
       }
       const backDrop = row.backDrop
-      backDrop.SetDimensions(portToFriend.config.size.width - 30, 25)
+      backDrop.SetDimensions(houseTravel.config.size.width - 30, 25)
       backDrop.SetHidden(false)
       backDrop.ClearAnchors()
       backDrop.SetAnchor(TOPLEFT, library.scrollPanel, TOPLEFT, 5, 25 * i + 15)
@@ -266,10 +266,10 @@ function createLibraryEntries(this: void): undefined {
       nameLabel.SetColor(color.default.R, color.default.G, color.default.B)
       nameLabel.SetMouseEnabled(true)
       nameLabel.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdLibraryEntryOnMouseEnter(i)
+        houseTravel.BdLibraryEntryOnMouseEnter(i)
       })
       nameLabel.SetHandler("OnMouseExit", () => {
-        portToFriend.BdLibraryEntryOnMouseExit(i)
+        houseTravel.BdLibraryEntryOnMouseExit(i)
       })
 
       if (row.house === undefined) {
@@ -280,15 +280,15 @@ function createLibraryEntries(this: void): undefined {
       houseLabel.SetHidden(false)
       houseLabel.ClearAnchors()
       houseLabel.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 215, 0)
-      houseLabel.SetText(asString(portToFriend.HOUSES[entry.houseId]))
+      houseLabel.SetText(asString(houseTravel.HOUSES[entry.houseId]))
       houseLabel.SetFont(headerFont)
       houseLabel.SetColor(color.default.R, color.default.G, color.default.B)
       houseLabel.SetMouseEnabled(true)
       houseLabel.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdLibraryEntryOnMouseEnter(i)
+        houseTravel.BdLibraryEntryOnMouseEnter(i)
       })
       houseLabel.SetHandler("OnMouseExit", () => {
-        portToFriend.BdLibraryEntryOnMouseExit(i)
+        houseTravel.BdLibraryEntryOnMouseExit(i)
       })
 
       if (row.category === undefined) {
@@ -299,15 +299,15 @@ function createLibraryEntries(this: void): undefined {
       categoryLabel.SetHidden(false)
       categoryLabel.ClearAnchors()
       categoryLabel.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 490, 0)
-      categoryLabel.SetText(portToFriend.GetCategoryString(entry.category))
+      categoryLabel.SetText(houseTravel.GetCategoryString(entry.category))
       categoryLabel.SetFont(headerFont)
       categoryLabel.SetColor(color.default.R, color.default.G, color.default.B)
       categoryLabel.SetMouseEnabled(true)
       categoryLabel.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdLibraryEntryOnMouseEnter(i)
+        houseTravel.BdLibraryEntryOnMouseEnter(i)
       })
       categoryLabel.SetHandler("OnMouseExit", () => {
-        portToFriend.BdLibraryEntryOnMouseExit(i)
+        houseTravel.BdLibraryEntryOnMouseExit(i)
       })
 
       if (row.noteTexture === undefined) {
@@ -328,12 +328,12 @@ function createLibraryEntries(this: void): undefined {
       noteButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 660, 0)
       noteButton.SetDimensions(25, 25)
       noteButton.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdLibraryEntryOnMouseEnter(i)
-        portToFriend.LibraryEntryNoteOnMouseEnter(i, noteButton)
+        houseTravel.BdLibraryEntryOnMouseEnter(i)
+        houseTravel.LibraryEntryNoteOnMouseEnter(i, noteButton)
       })
       noteButton.SetHandler("OnMouseExit", () => {
-        portToFriend.BdLibraryEntryOnMouseExit(i)
-        portToFriend.LibraryEntryNoteOnMouseExit(i)
+        houseTravel.BdLibraryEntryOnMouseExit(i)
+        houseTravel.LibraryEntryNoteOnMouseExit(i)
       })
 
       if (entry.description !== undefined && zo_strtrim(entry.description) !== "") {
@@ -358,22 +358,22 @@ function createLibraryEntries(this: void): undefined {
       portButton.ClearAnchors()
       portButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 675, 0)
       portButton.SetDimensions(90, 25)
-      portButton.SetText(asString(portToFriend.constants.BUTTON_PORT))
+      portButton.SetText(asString(houseTravel.constants.BUTTON_PORT))
       portButton.SetClickSound("Click")
       portButton.SetHandler("OnClicked", () => {
-        portToFriend.PortToLibraryEntry(i)
+        houseTravel.PortToLibraryEntry(i)
       })
       portButton.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdLibraryEntryOnMouseEnter(i)
+        houseTravel.BdLibraryEntryOnMouseEnter(i)
       })
       portButton.SetHandler("OnMouseExit", () => {
-        portToFriend.BdLibraryEntryOnMouseExit(i)
+        houseTravel.BdLibraryEntryOnMouseExit(i)
       })
     }
 
-    library.scrollPanel.SetDimensions(portToFriend.config.size.width - 10, entries.length * 25 + 15)
+    library.scrollPanel.SetDimensions(houseTravel.config.size.width - 10, entries.length * 25 + 15)
   } else {
   }
-  portToFriend.AdjustLibrarySliderSize()
+  houseTravel.AdjustLibrarySliderSize()
 }
-portToFriend.CreateLibraryEntries = createLibraryEntries
+houseTravel.CreateLibraryEntries = createLibraryEntries

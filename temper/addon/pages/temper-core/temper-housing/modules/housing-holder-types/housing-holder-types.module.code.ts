@@ -2,15 +2,15 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import type { PortToFriendConstants } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-constants/housing-constants.module.code.ts"
+import type { HouseTravelConstants } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-constants/housing-constants.module.code.ts"
 import type {
   Config,
-  PortToFriendAddonState,
-  PortToFriendControls,
-  PortToFriendData,
-  PortToFriendDefaults,
-  PortToFriendHacks,
-  PortToFriendMenuHolder,
+  HouseTravelAddonState,
+  HouseTravelControls,
+  HouseTravelData,
+  HouseTravelDefaults,
+  HouseTravelHacks,
+  HouseTravelMenuHolder,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state-types/housing-state-types.module.code.ts"
 import type {
   Favorite,
@@ -23,7 +23,7 @@ import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
-export interface PortToFriendHolder {
+export interface HouseTravelHolder {
   addonName: string
   version: number
   versionString: string
@@ -32,19 +32,19 @@ export interface PortToFriendHolder {
   credits: string
   slashCmd: string
   callbackName: string
-  libData: PortToFriendData
+  libData: HouseTravelData
   config: Config
-  constants: PortToFriendConstants
-  controls: PortToFriendControls
-  addonState: PortToFriendAddonState
-  defaults: PortToFriendDefaults
+  constants: HouseTravelConstants
+  controls: HouseTravelControls
+  addonState: HouseTravelAddonState
+  defaults: HouseTravelDefaults
   savedVars: SavedVars | undefined
   HOUSES: Record<number, string>
   purchasedHouses: Record<number, PurchasedHouse>
-  menu: PortToFriendMenuHolder
-  hacks: PortToFriendHacks
+  menu: HouseTravelMenuHolder
+  hacks: HouseTravelHacks
 
-  PortToFriendOnInitialize: (this: void) => undefined
+  HouseTravelOnInitialize: (this: void) => undefined
   OnPlayerDeactivated: (this: void) => void
   SaveWindowLocation: (this: void) => void
 
@@ -61,7 +61,7 @@ export interface PortToFriendHolder {
 
   ContextMenuHackOnUpdate: (this: void) => void
   AdjustContextMenus: (this: void) => void
-  SendNameToPTF: (this: void, name: string) => void
+  SendNameToLibrary: (this: void, name: string) => void
 
   CreateHouseList: (this: void) => Record<number, string>
   GetNumPurchasedHouses: (this: void) => number
@@ -73,7 +73,7 @@ export interface PortToFriendHolder {
   SearchBoxOnMouseWheel: (this: void, control: Control, delta: number) => void
 
   IsChatAllowed: (this: void, channelType: number) => boolean
-  IsValidPTFString: (this: void, text: string) => boolean
+  IsValidHouseString: (this: void, text: string) => boolean
   AddVisitCardFromString: (this: void, rawVisitCard: string) => void
   DoesVisitCardExist: (this: void, entry: { name: string; houseId: number }) => boolean
   AddVisitCard: (this: void, name: string, houseId: number | string, comment: string) => void
@@ -201,7 +201,7 @@ export interface PortToFriendHolder {
   AddFavorite: (this: void, name: string, houseId: number) => void
   AddToFavorite: (this: void) => void
 
-  PortToFriend: (this: void) => void
+  HouseTravel: (this: void) => void
   GetIdFromName: (this: void, name: string) => number
 
   DropdownCallback: (this: void, control: Control, text: string, choice: unknown) => void

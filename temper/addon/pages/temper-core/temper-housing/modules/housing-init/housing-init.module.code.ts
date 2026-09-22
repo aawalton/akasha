@@ -6,7 +6,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-ptf-publish/housing-ptf-publish.module.code.ts"
+import "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-publish/housing-publish.module.code.ts"
 
 import "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-chat-capture/housing-chat-capture.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-comboboxes/housing-comboboxes.module.code.ts"
@@ -42,7 +42,7 @@ import {
   SAVED_VARS_VERSION,
   SLASH_CMD,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-constants/housing-constants.module.code.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { SavedVars } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 import { registerUiStrings } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-ui-strings/housing-ui-strings.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -54,10 +54,10 @@ function parseLuaCapture(this: void, captured: string | undefined): string | und
   return captured
 }
 
-function ptfSlashCommand(this: void, param: string): undefined {
-  d(portToFriend.slashCmd + " " + param)
+function houseSlashCommand(this: void, param: string): undefined {
+  d(houseTravel.slashCmd + " " + param)
   const trimmed = zo_strtrim(param)
-  const [cmd, rest] = portToFriend.ParseCmd("", trimmed)
+  const [cmd, rest] = houseTravel.ParseCmd("", trimmed)
 
   if (cmd === "port") {
     const [lastWordCapture] = string.match(rest, ".* ()")
@@ -70,52 +70,52 @@ function ptfSlashCommand(this: void, param: string): undefined {
         if (target === GetUnitName("player")) {
           target = GetDisplayName()
         }
-        portToFriend.JumpToHouse(target, index)
+        houseTravel.JumpToHouse(target, index)
       } else {
-        portToFriend.JumpToDefaultHouse(rest)
+        houseTravel.JumpToDefaultHouse(rest)
       }
     } else {
-      portToFriend.JumpToDefaultHouse(rest)
+      houseTravel.JumpToDefaultHouse(rest)
     }
   } else if (cmd === "show") {
-    for (const [key, house] of pairs(portToFriend.HOUSES)) {
+    for (const [key, house] of pairs(houseTravel.HOUSES)) {
       if (house !== undefined) {
         d(tostring(key) + ": " + house)
       }
     }
   } else if (cmd === "open") {
-    portToFriend.OpenWindow()
+    houseTravel.OpenWindow()
   } else if (cmd === "fav") {
     const favId = tonumber(rest)
     if (favId !== undefined && favId > 0) {
-      portToFriend.PortToFavoriteBinding(favId)
+      houseTravel.PortToFavoriteBinding(favId)
     } else {
-      d(portToFriend.constants.INVALID_FAVORITE_ID ?? "")
+      d(houseTravel.constants.INVALID_FAVORITE_ID ?? "")
     }
   } else if (cmd === "favi") {
     const favId = tonumber(rest)
     if (favId !== undefined && favId > 0) {
-      portToFriend.PortToMyHouseBinding(favId, portToFriend.constants.PORT_TYPE_INSIDE)
+      houseTravel.PortToMyHouseBinding(favId, houseTravel.constants.PORT_TYPE_INSIDE)
     } else {
-      d(portToFriend.constants.INVALID_FAVORITE_ID ?? "")
+      d(houseTravel.constants.INVALID_FAVORITE_ID ?? "")
     }
   } else if (cmd === "favo") {
     const favId = tonumber(rest)
     if (favId !== undefined && favId > 0) {
-      portToFriend.PortToMyHouseBinding(favId, portToFriend.constants.PORT_TYPE_OUTSIDE)
+      houseTravel.PortToMyHouseBinding(favId, houseTravel.constants.PORT_TYPE_OUTSIDE)
     } else {
-      d(portToFriend.constants.INVALID_FAVORITE_ID ?? "")
+      d(houseTravel.constants.INVALID_FAVORITE_ID ?? "")
     }
   } else if (cmd === "menu") {
     if (TemperAddonMenu !== undefined) {
-      TemperAddonMenu.OpenToPanel(portToFriend.menu.lam.panel)
+      TemperAddonMenu.OpenToPanel(houseTravel.menu.lam.panel)
     }
   } else {
-    portToFriend.ShowHelp()
+    houseTravel.ShowHelp()
   }
 }
 
-SLASH_COMMANDS[SLASH_CMD] = ptfSlashCommand
+SLASH_COMMANDS[SLASH_CMD] = houseSlashCommand
 
 function isSavedVars(value: unknown): value is SavedVars {
   if (!isObjectRecord(value)) return false
@@ -144,52 +144,52 @@ function seedSavedVarsTables(raw: Record<string, unknown>): undefined {
   }
 }
 
-function portToFriendOnInitialize(this: void): undefined {
+function houseTravelOnInitialize(this: void): undefined {
   const raw: unknown = ZO_SavedVars.NewAccountWide(
     SAVED_VARS_NAME,
     SAVED_VARS_VERSION,
     undefined,
-    portToFriend.defaults
+    houseTravel.defaults
   )
   if (!isObjectRecord(raw)) {
-    throw new Error("PortToFriend SavedVariables is not a table")
+    throw new Error("HouseTravel SavedVariables is not a table")
   }
   seedSavedVarsTables(raw)
   if (!isSavedVars(raw)) {
-    throw new Error("PortToFriend SavedVariables failed validation")
+    throw new Error("HouseTravel SavedVariables failed validation")
   }
-  portToFriend.savedVars = raw
+  houseTravel.savedVars = raw
 
-  for (let i = 0; i < portToFriend.savedVars.favorites.length; i += 1) {
-    portToFriend.Version12NameFix(i)
+  for (let i = 0; i < houseTravel.savedVars.favorites.length; i += 1) {
+    houseTravel.Version12NameFix(i)
   }
 
   if (GetDisplayName() === "@s0rdrak") {
-    portToFriend.config.houseDebug = true
+    houseTravel.config.houseDebug = true
   }
 
-  if (portToFriend.savedVars.selectedMyHousesSort !== undefined) {
-    portToFriend.addonState.selectedMyHousesSort = portToFriend.savedVars.selectedMyHousesSort
+  if (houseTravel.savedVars.selectedMyHousesSort !== undefined) {
+    houseTravel.addonState.selectedMyHousesSort = houseTravel.savedVars.selectedMyHousesSort
   }
-  if (portToFriend.savedVars.selectedLibraryFilter !== undefined) {
-    portToFriend.addonState.selectedLibraryFilter = portToFriend.savedVars.selectedLibraryFilter
+  if (houseTravel.savedVars.selectedLibraryFilter !== undefined) {
+    houseTravel.addonState.selectedLibraryFilter = houseTravel.savedVars.selectedLibraryFilter
   }
-  if (portToFriend.savedVars.selectedLibrarySort !== undefined) {
-    portToFriend.addonState.selectedLibrarySort = portToFriend.savedVars.selectedLibrarySort
+  if (houseTravel.savedVars.selectedLibrarySort !== undefined) {
+    houseTravel.addonState.selectedLibrarySort = houseTravel.savedVars.selectedLibrarySort
   }
 
   if (
-    portToFriend.savedVars.myHousesFavorites[portToFriend.constants.PORT_TYPE_INSIDE] === undefined
+    houseTravel.savedVars.myHousesFavorites[houseTravel.constants.PORT_TYPE_INSIDE] === undefined
   ) {
-    portToFriend.savedVars.myHousesFavorites[portToFriend.constants.PORT_TYPE_INSIDE] = {}
+    houseTravel.savedVars.myHousesFavorites[houseTravel.constants.PORT_TYPE_INSIDE] = {}
   }
   if (
-    portToFriend.savedVars.myHousesFavorites[portToFriend.constants.PORT_TYPE_OUTSIDE] === undefined
+    houseTravel.savedVars.myHousesFavorites[houseTravel.constants.PORT_TYPE_OUTSIDE] === undefined
   ) {
-    portToFriend.savedVars.myHousesFavorites[portToFriend.constants.PORT_TYPE_OUTSIDE] = {}
+    houseTravel.savedVars.myHousesFavorites[houseTravel.constants.PORT_TYPE_OUTSIDE] = {}
   }
 
-  portToFriend.HOUSES = portToFriend.CreateHouseList()
+  houseTravel.HOUSES = houseTravel.CreateHouseList()
 
   buildWindow()
   buildHouseTab()
@@ -197,37 +197,37 @@ function portToFriendOnInitialize(this: void): undefined {
   buildMyHousesTab()
   buildLibraryTab()
 
-  portToFriend.addonState.selectedTab = portToFriend.savedVars.defaultTab
-  portToFriend.TabOnMouseExit(portToFriend.addonState.selectedTab)
-  portToFriend.TabSelected(portToFriend.addonState.selectedTab)
+  houseTravel.addonState.selectedTab = houseTravel.savedVars.defaultTab
+  houseTravel.TabOnMouseExit(houseTravel.addonState.selectedTab)
+  houseTravel.TabSelected(houseTravel.addonState.selectedTab)
 
   EVENT_MANAGER.RegisterForEvent(
-    portToFriend.addonName,
+    houseTravel.addonName,
     EVENT_CHAT_MESSAGE_CHANNEL,
-    portToFriend.ChatMessageReceived
+    houseTravel.ChatMessageReceived
   )
   EVENT_MANAGER.RegisterForEvent(
-    portToFriend.addonName,
+    houseTravel.addonName,
     EVENT_COLLECTIBLE_NOTIFICATION_NEW,
-    portToFriend.CollectibleNotification
+    houseTravel.CollectibleNotification
   )
 
-  portToFriend.menu.Initialize(portToFriend.menu.name, portToFriend.savedVars)
+  houseTravel.menu.Initialize(houseTravel.menu.name, houseTravel.savedVars)
 
   EVENT_MANAGER.RegisterForUpdate(
-    portToFriend.hacks.callbackName,
-    portToFriend.hacks.callbackInterval,
-    portToFriend.ContextMenuHackOnUpdate
+    houseTravel.hacks.callbackName,
+    houseTravel.hacks.callbackInterval,
+    houseTravel.ContextMenuHackOnUpdate
   )
   EVENT_MANAGER.RegisterForEvent(
-    portToFriend.callbackName,
+    houseTravel.callbackName,
     EVENT_PLAYER_DEACTIVATED,
-    portToFriend.OnPlayerDeactivated
+    houseTravel.OnPlayerDeactivated
   )
 }
-portToFriend.PortToFriendOnInitialize = portToFriendOnInitialize
+houseTravel.HouseTravelOnInitialize = houseTravelOnInitialize
 
-export function initPtf(this: void): undefined {
-  portToFriend.PortToFriendOnInitialize()
+export function initHouseTravel(this: void): undefined {
+  houseTravel.HouseTravelOnInitialize()
   return undefined
 }

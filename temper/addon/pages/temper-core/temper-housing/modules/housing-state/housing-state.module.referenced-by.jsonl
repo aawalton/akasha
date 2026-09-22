@@ -16,7 +16,7 @@
 {"propertySlug":"import","fileName":"housing-state.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-library-tab/housing-library-tab.module.code.ts"}
 {"propertySlug":"import","fileName":"housing-state.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-my-houses/housing-my-houses.module.code.ts"}
 {"propertySlug":"import","fileName":"housing-state.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-porting/housing-porting.module.code.ts"}
-{"propertySlug":"import","fileName":"housing-state.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-ptf-publish/housing-ptf-publish.module.code.ts"}
+{"propertySlug":"import","fileName":"housing-state.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-publish/housing-publish.module.code.ts"}
 {"propertySlug":"import","fileName":"housing-state.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-search/housing-search.module.code.ts"}
 {"propertySlug":"import","fileName":"housing-state.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-settings-menu/housing-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"housing-state.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-slash/housing-slash.module.code.ts"}

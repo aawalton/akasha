@@ -1,7 +1,7 @@
-export const ADDON_NAME = "PortToFriendsHouse"
+export const ADDON_NAME = "TemperHousing"
 export const SAVED_VARS_NAME = "TemperPortToFriendsHouse_SavedVariables"
 export const SAVED_VARS_VERSION = 1
-export const SLASH_CMD = "/ptf"
+export const SLASH_CMD = "/temperhouses"
 
 export const TAB_HOUSE = 1
 export const TAB_VC = 2
@@ -34,10 +34,10 @@ export const PORT_TYPE_INSIDE = 1
 export const PORT_TYPE_OUTSIDE = 2
 
 export const SEND_BASIC_STRING = "%s%s %d (%s)"
-export const SEND_KEY_WORD = "PTF_VisitCard: "
+export const SEND_KEY_WORD = "HouseTravel_VisitCard: "
 export const SEND_BASIC_COMMENT = "Port to Friend's House Visit Card"
 
-export interface PortToFriendConstantsMenu {
+export interface HouseTravelConstantsMenu {
   DISPLAY_NAME?: string
   AUTHOR?: string
   VERSION?: string
@@ -71,7 +71,7 @@ export interface PortToFriendConstantsMenu {
   DEFAULT_TAB?: string
 }
 
-export interface PortToFriendConstants {
+export interface HouseTravelConstants {
   sendBasicString: string
   sendKeyWord: string
   sendBasicComment: string
@@ -150,34 +150,34 @@ export interface PortToFriendConstants {
   MYHOUSES_FRONT_DOOR?: string
   MYHOUSES_PORT_INSIDE?: string
   CONTEXT_MENU_SEND?: string
-  menu: PortToFriendConstantsMenu
+  menu: HouseTravelConstantsMenu
 }
 
 export const CONTROLS = {
-  TLW_NAME: "PortToFriend_TLW",
-  TLW_VC_NAME: "PortToFriend_VC_TLW",
-  HEADER_NAME: "PortToFriend_Header",
-  HEADER_CONTROL: "PortToFriend_Header_Control",
-  HEADER_BACKDROP: "PortToFriend_Header_Backdrop",
-  HEADER_BUTTON: "PortToFriend_Header_Button",
-  BODY_CONTROL: "PortToFriend_Body_Control",
-  BODY_BACKDROP: "PortToFriend_Body_Backdrop",
-  BODY_EDITBOX: "PortToFriend_Body_Editbox",
-  BODY_DROPDOWN: "PortToFriend_Body_Dropdown",
-  SEARCH_BODY_BACKDROP: "PortToFriend_Search_Body_Dropdown",
-  SCROLL_CONTROL: "PortToFriend_Scroll_Control",
-  COMBOBOX_FAVORITES: "PortToFriend_Combobox_Favorites_%d_%d",
-  COMBOBOX_LIBRARY: "PortToFriend_Combobox_Library",
-  COMBOBOX_SORT_LIBRARY: "PortToFriend_Combobox_Sort_Library",
-  COMBOBOX_MYHOUSES: "PortToFriend_Combobox_MyHouses",
-  COMBOBOX_MYHOUSES_FAVORITES: "PortToFriend_Combobox_Favorites_%d_%d_%d_%d",
-  VC_HEADER_NAME: "PortToFriend_VC_Header",
-  VC_HEADER_CONTROL: "PortToFriend_VC_Header_Control",
-  VC_HEADER_BACKDROP: "PortToFriend_VC_Header_Backdrop",
-  VC_HEADER_BUTTON: "PortToFriend_VC_Header_Button",
-  VC_BODY_CONTROL: "PortToFriend_VC_Body_Control",
-  VC_BODY_BACKDROP: "PortToFriend_VC_Body_Backdrop",
-  VC_SCROLL_CONTROL: "PortToFriend_VC_Scroll_Control",
+  TLW_NAME: "HouseTravel_TLW",
+  TLW_VC_NAME: "HouseTravel_VC_TLW",
+  HEADER_NAME: "HouseTravel_Header",
+  HEADER_CONTROL: "HouseTravel_Header_Control",
+  HEADER_BACKDROP: "HouseTravel_Header_Backdrop",
+  HEADER_BUTTON: "HouseTravel_Header_Button",
+  BODY_CONTROL: "HouseTravel_Body_Control",
+  BODY_BACKDROP: "HouseTravel_Body_Backdrop",
+  BODY_EDITBOX: "HouseTravel_Body_Editbox",
+  BODY_DROPDOWN: "HouseTravel_Body_Dropdown",
+  SEARCH_BODY_BACKDROP: "HouseTravel_Search_Body_Dropdown",
+  SCROLL_CONTROL: "HouseTravel_Scroll_Control",
+  COMBOBOX_FAVORITES: "HouseTravel_Combobox_Favorites_%d_%d",
+  COMBOBOX_LIBRARY: "HouseTravel_Combobox_Library",
+  COMBOBOX_SORT_LIBRARY: "HouseTravel_Combobox_Sort_Library",
+  COMBOBOX_MYHOUSES: "HouseTravel_Combobox_MyHouses",
+  COMBOBOX_MYHOUSES_FAVORITES: "HouseTravel_Combobox_Favorites_%d_%d_%d_%d",
+  VC_HEADER_NAME: "HouseTravel_VC_Header",
+  VC_HEADER_CONTROL: "HouseTravel_VC_Header_Control",
+  VC_HEADER_BACKDROP: "HouseTravel_VC_Header_Backdrop",
+  VC_HEADER_BUTTON: "HouseTravel_VC_Header_Button",
+  VC_BODY_CONTROL: "HouseTravel_VC_Body_Control",
+  VC_BODY_BACKDROP: "HouseTravel_VC_Body_Backdrop",
+  VC_SCROLL_CONTROL: "HouseTravel_VC_Scroll_Control",
 } as const
 
 export type ControlNames = typeof CONTROLS

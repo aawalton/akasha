@@ -6,7 +6,7 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
@@ -31,10 +31,10 @@ function parseCmd(this: void, cmd: string, param: string): LuaMultiReturn<[strin
   }
   return $multi(cmd, param)
 }
-portToFriend.ParseCmd = parseCmd
+houseTravel.ParseCmd = parseCmd
 
 function portToMainResidence(this: void): undefined {
-  const house = asHouseControls(portToFriend.controls.house)
+  const house = asHouseControls(houseTravel.controls.house)
   let name = house.editbox.GetText()
   if (
     string.lower(name) === string.lower(GetUnitName("player")) ||
@@ -44,9 +44,9 @@ function portToMainResidence(this: void): undefined {
   ) {
     name = GetDisplayName()
   }
-  portToFriend.JumpToDefaultHouse(name)
+  houseTravel.JumpToDefaultHouse(name)
 }
-portToFriend.PortToMainResidence = portToMainResidence
+houseTravel.PortToMainResidence = portToMainResidence
 
 function jumpToDefaultHouse(this: void, player: string): undefined {
   if (player !== undefined && player !== "") {
@@ -56,4 +56,4 @@ function jumpToDefaultHouse(this: void, player: string): undefined {
     }
   }
 }
-portToFriend.JumpToDefaultHouse = jumpToDefaultHouse
+houseTravel.JumpToDefaultHouse = jumpToDefaultHouse

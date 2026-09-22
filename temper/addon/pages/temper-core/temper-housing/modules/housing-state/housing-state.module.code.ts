@@ -29,25 +29,25 @@ import {
   TAB_MYHOUSES,
   TAB_VC,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-constants/housing-constants.module.code.ts"
-import type { PortToFriendHolder } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-holder-types/housing-holder-types.module.code.ts"
-import { portToFriendMenu } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-menu-state/housing-menu-state.module.code.ts"
+import type { HouseTravelHolder } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-holder-types/housing-holder-types.module.code.ts"
+import { houseTravelMenu } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-menu-state/housing-menu-state.module.code.ts"
 import type {
-  PortToFriendData,
-  PortToFriendDefaults,
+  HouseTravelData,
+  HouseTravelDefaults,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state-types/housing-state-types.module.code.ts"
 import type {
   SavedVars,
   VcChatAllowed,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 
-function asPortToFriendHolder(value: unknown): PortToFriendHolder {
-  return value as PortToFriendHolder
+function asHouseTravelHolder(value: unknown): HouseTravelHolder {
+  return value as HouseTravelHolder
 }
-function asPortToFriendData(value: unknown): PortToFriendData {
-  return value as PortToFriendData
+function asHouseTravelData(value: unknown): HouseTravelData {
+  return value as HouseTravelData
 }
 
-const libData: PortToFriendData = asPortToFriendData({
+const libData: HouseTravelData = asHouseTravelData({
   euData: [],
   naData: [],
   currentData: [],
@@ -76,22 +76,22 @@ const VC_CHAT_ALLOWED_DEFAULTS: VcChatAllowed = {
   jpzone: false,
 }
 
-const DEFAULTS: PortToFriendDefaults = {
+const DEFAULTS: HouseTravelDefaults = {
   vc_chatAllowed: VC_CHAT_ALLOWED_DEFAULTS,
   vc: { allowSelf: false },
   port_mode: PORT_MODE_ON_DEACTIVATE,
   defaultTab: TAB_HOUSE,
 }
 
-export const portToFriend: PortToFriendHolder = asPortToFriendHolder({
+export const houseTravel: HouseTravelHolder = asHouseTravelHolder({
   addonName: ADDON_NAME,
   version: 1,
-  versionString: "2.5.46",
+  versionString: "1.0.0",
   updateInterval: 20,
-  author: "@s0rdrak (PC / EU)",
-  credits: "@Neltje, @Graham82, @Nita65",
-  slashCmd: "/ptf",
-  callbackName: "PtfOnPlayerDeactivated",
+  author: "AlanGaming",
+  credits: "",
+  slashCmd: "/temperhouses",
+  callbackName: "HouseTravelOnPlayerDeactivated",
   libData,
   config: {
     size: {
@@ -203,17 +203,17 @@ export const portToFriend: PortToFriendHolder = asPortToFriendHolder({
   savedVars: undefined,
   HOUSES: {},
   purchasedHouses: {},
-  menu: portToFriendMenu,
+  menu: houseTravelMenu,
   hacks: {
-    callbackName: "PortToFriend.ContextMenuHack",
+    callbackName: "HouseTravel.ContextMenuHack",
     callbackInterval: 500,
   },
 })
 
-export function getPtfSavedVars(this: void): SavedVars {
-  const savedVars = portToFriend.savedVars
+export function getHouseSavedVars(this: void): SavedVars {
+  const savedVars = houseTravel.savedVars
   if (savedVars === undefined) {
-    throw new Error("PortToFriend saved variables read before initialization")
+    throw new Error("HouseTravel saved variables read before initialization")
   }
   return savedVars
 }

@@ -5,7 +5,7 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
@@ -80,7 +80,7 @@ function asEdgeBackdropControl(value: unknown): EdgeBackdropControl {
 }
 
 function getTabControlNode(this: void): TabControlNode {
-  return asTabControlNode(asBodyControls(portToFriend.controls.body).tabControl)
+  return asTabControlNode(asBodyControls(houseTravel.controls.body).tabControl)
 }
 
 function createTabControl(
@@ -90,7 +90,7 @@ function createTabControl(
   index: number,
   title: string
 ): Control {
-  const config = portToFriend.config
+  const config = houseTravel.config
   const control = asTabControl(WINDOW_MANAGER.CreateControl(undefined, rootControl, CT_CONTROL))
   control.SetDimensions(config.tabWidth, config.tabHeight - config.tabOffset)
   control.SetAnchor(TOPLEFT, rootControl, TOPLEFT, offset, config.tabOffset)
@@ -139,22 +139,22 @@ function createTabControl(
   button.SetAnchor(TOPLEFT, control, TOPLEFT, 0, 0)
   button.SetDimensions(config.tabWidth, config.tabHeight - config.tabOffset)
   button.SetHandler("OnClicked", () => {
-    portToFriend.TabSelected(index)
+    houseTravel.TabSelected(index)
   })
   button.SetHandler("OnMouseEnter", () => {
-    portToFriend.TabOnMouseEnter(index)
+    houseTravel.TabOnMouseEnter(index)
   })
   button.SetHandler("OnMouseExit", () => {
-    portToFriend.TabOnMouseExit(index)
+    houseTravel.TabOnMouseExit(index)
   })
 
   return control
 }
-portToFriend.CreateTabControl = createTabControl
+houseTravel.CreateTabControl = createTabControl
 
 function tabSelected(this: void, index: number): undefined {
-  const color = portToFriend.config.color.tabNotSelected
-  const constants = portToFriend.constants
+  const color = houseTravel.config.color.tabNotSelected
+  const constants = houseTravel.constants
   const tabControl = getTabControlNode()
   if (index !== constants.TAB_HOUSE) {
     tabControl.houseTab.backdrop.SetCenterColor(color.r, color.g, color.b, color.a)
@@ -168,12 +168,12 @@ function tabSelected(this: void, index: number): undefined {
   if (index !== constants.TAB_LIBRARY) {
     tabControl.libraryTab.backdrop.SetCenterColor(color.r, color.g, color.b, color.a)
   }
-  portToFriend.addonState.selectedTab = index
+  houseTravel.addonState.selectedTab = index
 
-  const house = asBodyPanel(portToFriend.controls.house)
-  const vc = asBodyPanel(portToFriend.controls.vc)
-  const myHouses = asBodyPanel(portToFriend.controls.myHouses)
-  const library = asBodyPanel(portToFriend.controls.library)
+  const house = asBodyPanel(houseTravel.controls.house)
+  const vc = asBodyPanel(houseTravel.controls.vc)
+  const myHouses = asBodyPanel(houseTravel.controls.myHouses)
+  const library = asBodyPanel(houseTravel.controls.library)
 
   if (index === constants.TAB_HOUSE) {
     house.control.SetHidden(false)
@@ -200,10 +200,10 @@ function tabSelected(this: void, index: number): undefined {
     library.control.SetHidden(false)
   }
 }
-portToFriend.TabSelected = tabSelected
+houseTravel.TabSelected = tabSelected
 
 function getTabBackdropForIndex(this: void, index: number): TabBackdrop | undefined {
-  const constants = portToFriend.constants
+  const constants = houseTravel.constants
   const tabControl = getTabControlNode()
   if (index === constants.TAB_HOUSE) {
     return tabControl.houseTab.backdrop
@@ -222,21 +222,21 @@ function getTabBackdropForIndex(this: void, index: number): TabBackdrop | undefi
 
 function tabOnMouseEnter(this: void, index: number): undefined {
   const control = getTabBackdropForIndex(index)
-  const color = portToFriend.config.color.tabMouseOver
+  const color = houseTravel.config.color.tabMouseOver
   if (control !== undefined) {
     control.SetCenterColor(color.r, color.g, color.b, color.a)
   }
 }
-portToFriend.TabOnMouseEnter = tabOnMouseEnter
+houseTravel.TabOnMouseEnter = tabOnMouseEnter
 
 function tabOnMouseExit(this: void, index: number): undefined {
   const control = getTabBackdropForIndex(index)
-  let color = portToFriend.config.color.tabSelected
-  if (index !== portToFriend.addonState.selectedTab) {
-    color = portToFriend.config.color.tabNotSelected
+  let color = houseTravel.config.color.tabSelected
+  if (index !== houseTravel.addonState.selectedTab) {
+    color = houseTravel.config.color.tabNotSelected
   }
   if (control !== undefined) {
     control.SetCenterColor(color.r, color.g, color.b, color.a)
   }
 }
-portToFriend.TabOnMouseExit = tabOnMouseExit
+houseTravel.TabOnMouseExit = tabOnMouseExit

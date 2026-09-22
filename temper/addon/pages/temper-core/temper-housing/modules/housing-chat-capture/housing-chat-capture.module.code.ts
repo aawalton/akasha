@@ -6,8 +6,8 @@ import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import {
-  getPtfSavedVars,
-  portToFriend,
+  getHouseSavedVars,
+  houseTravel,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -18,7 +18,7 @@ function parseLuaCapture(captured: string | undefined): string | undefined {
 
 function isChatAllowed(this: void, channelType: number): boolean {
   let retVal = false
-  const allowed = getPtfSavedVars().vc_chatAllowed
+  const allowed = getHouseSavedVars().vc_chatAllowed
   if (
     channelType !== undefined &&
     ((channelType === 12 && allowed.g1 === true) ||
@@ -46,19 +46,16 @@ function isChatAllowed(this: void, channelType: number): boolean {
   }
   return retVal
 }
-portToFriend.IsChatAllowed = isChatAllowed
+houseTravel.IsChatAllowed = isChatAllowed
 
-function isValidPTFString(this: void, text: string): boolean {
+function isValidHouseString(this: void, text: string): boolean {
   let retVal = false
-  if (
-    text !== undefined &&
-    portToFriend.StringStartsWith(text, portToFriend.constants.sendKeyWord)
-  ) {
+  if (text !== undefined && houseTravel.StringStartsWith(text, houseTravel.constants.sendKeyWord)) {
     retVal = true
   }
   return retVal
 }
-portToFriend.IsValidPTFString = isValidPTFString
+houseTravel.IsValidHouseString = isValidHouseString
 
 function addVisitCardFromString(this: void, rawVisitCard: string): undefined {
   let name = ""
@@ -66,9 +63,9 @@ function addVisitCardFromString(this: void, rawVisitCard: string): undefined {
   let comment = ""
   if (
     rawVisitCard !== undefined &&
-    portToFriend.StringStartsWith(rawVisitCard, portToFriend.constants.sendKeyWord)
+    houseTravel.StringStartsWith(rawVisitCard, houseTravel.constants.sendKeyWord)
   ) {
-    let working = string.sub(rawVisitCard, string.len(portToFriend.constants.sendKeyWord))
+    let working = string.sub(rawVisitCard, string.len(houseTravel.constants.sendKeyWord))
     const [parenPos] = string.find(working, "%(")
     if (parenPos !== undefined) {
       comment = string.sub(working, parenPos + 1, string.len(working) - 1)
@@ -81,18 +78,18 @@ function addVisitCardFromString(this: void, rawVisitCard: string): undefined {
         houseId = string.sub(working, houseIndex)
         if (tonumber(houseId) !== undefined) {
           name = zo_strtrim(string.sub(working, 0, houseIndex - 1))
-          portToFriend.AddVisitCard(name, houseId, comment)
+          houseTravel.AddVisitCard(name, houseId, comment)
         }
       }
     }
   }
 }
-portToFriend.AddVisitCardFromString = addVisitCardFromString
+houseTravel.AddVisitCardFromString = addVisitCardFromString
 
 function doesVisitCardExist(this: void, entry: { name: string; houseId: number }): boolean {
   let retVal = false
   if (entry !== undefined) {
-    const receivedCards = getPtfSavedVars().vc.receivedCards
+    const receivedCards = getHouseSavedVars().vc.receivedCards
     for (const i of $range(1, receivedCards.length)) {
       const card = receivedCards[i - 1]
       if (card !== undefined && card.name === entry.name && card.houseId === entry.houseId) {
@@ -103,7 +100,7 @@ function doesVisitCardExist(this: void, entry: { name: string; houseId: number }
   }
   return retVal
 }
-portToFriend.DoesVisitCardExist = doesVisitCardExist
+houseTravel.DoesVisitCardExist = doesVisitCardExist
 
 function addVisitCard(
   this: void,
@@ -113,7 +110,7 @@ function addVisitCard(
 ): undefined {
   const numericHouseId = tonumber(houseId)
   if (numericHouseId !== undefined && numericHouseId > 0 && name !== undefined) {
-    const savedVars = getPtfSavedVars()
+    const savedVars = getHouseSavedVars()
     if (savedVars.vc === undefined) {
       savedVars.vc = { allowSelf: false, receivedCards: [] }
     }
@@ -121,14 +118,14 @@ function addVisitCard(
       savedVars.vc.receivedCards = []
     }
     const entry = { name, houseId: numericHouseId }
-    if (!portToFriend.DoesVisitCardExist(entry)) {
+    if (!houseTravel.DoesVisitCardExist(entry)) {
       savedVars.vc.receivedCards.push(entry)
-      portToFriend.addonState.taintedVisitCards = true
+      houseTravel.addonState.taintedVisitCards = true
     }
-    portToFriend.UpdateVisitCardList()
+    houseTravel.UpdateVisitCardList()
   }
 }
-portToFriend.AddVisitCard = addVisitCard
+houseTravel.AddVisitCard = addVisitCard
 
 function chatMessageReceived(
   this: void,
@@ -141,15 +138,15 @@ function chatMessageReceived(
 ): undefined {
   if (
     eventCode === EVENT_CHAT_MESSAGE_CHANNEL &&
-    portToFriend.IsChatAllowed(channelType) &&
-    portToFriend.IsValidPTFString(text)
+    houseTravel.IsChatAllowed(channelType) &&
+    houseTravel.IsValidHouseString(text)
   ) {
-    if (fromDisplayName !== GetDisplayName() || getPtfSavedVars().vc.allowSelf === true) {
-      portToFriend.AddVisitCardFromString(text)
+    if (fromDisplayName !== GetDisplayName() || getHouseSavedVars().vc.allowSelf === true) {
+      houseTravel.AddVisitCardFromString(text)
     }
   }
 }
-portToFriend.ChatMessageReceived = chatMessageReceived
+houseTravel.ChatMessageReceived = chatMessageReceived
 
 function collectibleNotification(
   this: void,
@@ -162,13 +159,13 @@ function collectibleNotification(
     const obj = data[i - 1]
     if (obj !== undefined && obj.IsHouse() === true && obj.collectibleId === collectibleId) {
       const refId = obj.GetReferenceId()
-      portToFriend.purchasedHouses[refId] = {
+      houseTravel.purchasedHouses[refId] = {
         name: obj.GetFormattedName(),
         location: zo_strformat("<<C:1>>", obj.houseLocation),
       }
-      portToFriend.UpdateMyHouses()
+      houseTravel.UpdateMyHouses()
       break
     }
   }
 }
-portToFriend.CollectibleNotification = collectibleNotification
+houseTravel.CollectibleNotification = collectibleNotification

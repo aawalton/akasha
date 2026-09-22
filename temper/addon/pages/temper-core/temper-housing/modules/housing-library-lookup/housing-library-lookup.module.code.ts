@@ -1,32 +1,32 @@
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import { EU_LIBRARY_DATA } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-library-data-eu/housing-library-data-eu.module.code.ts"
 import { NA_LIBRARY_DATA } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-library-data-na/housing-library-data-na.module.code.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { LibraryEntry } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 
 function createEuDataList(this: void) {
-  portToFriend.libData.euData = EU_LIBRARY_DATA
+  houseTravel.libData.euData = EU_LIBRARY_DATA
 }
-portToFriend.libData.CreateEuDataList = createEuDataList
+houseTravel.libData.CreateEuDataList = createEuDataList
 
 function createNaDataList(this: void) {
-  portToFriend.libData.naData = NA_LIBRARY_DATA
+  houseTravel.libData.naData = NA_LIBRARY_DATA
 }
-portToFriend.libData.CreateNaDataList = createNaDataList
+houseTravel.libData.CreateNaDataList = createNaDataList
 
 function createDataList(this: void) {
   if (GetWorldName() === "EU Megaserver") {
-    portToFriend.libData.CreateEuDataList()
+    houseTravel.libData.CreateEuDataList()
   } else {
-    portToFriend.libData.CreateNaDataList()
+    houseTravel.libData.CreateNaDataList()
   }
 }
-portToFriend.libData.CreateDataList = createDataList
+houseTravel.libData.CreateDataList = createDataList
 
 function getLibraryData(this: void): LibraryEntry[] {
-  portToFriend.libData.CreateDataList()
+  houseTravel.libData.CreateDataList()
   return GetWorldName() === "EU Megaserver"
-    ? portToFriend.libData.euData
-    : portToFriend.libData.naData
+    ? houseTravel.libData.euData
+    : houseTravel.libData.naData
 }
-portToFriend.libData.GetLibraryData = getLibraryData
+houseTravel.libData.GetLibraryData = getLibraryData

@@ -4,10 +4,10 @@ import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declarat
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-interface/assistant-entry-declarations/assistant-entry-declarations.type-declaration.d.ts"
 
-const ADDON_NAME = "TemperPersonalAssistant"
+const ADDON_NAME = "TemperAssistant"
 
-export function initPersonalAssistant(this: void): undefined {
-  globalThis.TemperPersonalAssistants = ASSISTANT_COLLECTIBLES
+export function initAssistant(this: void): undefined {
+  globalThis.TemperAssistants = ASSISTANT_COLLECTIBLES
   createBindings()
   EVENT_MANAGER.RegisterForEvent(ADDON_NAME, EVENT_COLLECTIBLE_UPDATED, createBindings)
   EVENT_MANAGER.RegisterForEvent(ADDON_NAME, EVENT_COLLECTION_UPDATED, createBindings)

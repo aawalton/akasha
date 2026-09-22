@@ -1,7 +1,7 @@
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { HOUSES_SEED } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-house-names/housing-house-names.module.code.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const PORT_TO_FAVORITE_PREFIX = "Port to favorite #"
@@ -10,9 +10,9 @@ const PORT_TO_FAVORITE_MY_HOUSE_INSIDE_SUFFIX = " (inside)"
 const PORT_TO_FAVORITE_MY_HOUSE_OUTSIDE_SUFFIX = " (outside)"
 
 export function registerUiStrings(this: void): undefined {
-  const c = portToFriend.constants
+  const c = houseTravel.constants
 
-  c.HEADER_TITLE = "Port to Friend's House"
+  c.HEADER_TITLE = "Temper Houses"
   c.LABEL_PLAYER = "Player:"
   c.BUTTON_PORT = "Port"
   c.BUTTON_ADD_FAVORITE = "Add Favorite"
@@ -30,7 +30,7 @@ export function registerUiStrings(this: void): undefined {
   c.INVALID_FAVORITE_ID = "An invalid ID has been specified"
   c.SORT_NAME = "Player"
   c.SORT_HOUSE = "House"
-  c.CMD_HELP_1 = " open: opens the Port to Friend's House menu"
+  c.CMD_HELP_1 = " open: opens the Temper Houses menu"
   c.CMD_HELP_2 = " show: displays the IDs of all possible houses"
   c.CMD_HELP_3 = " port <player> <ID>: tries to port to the specified house. The ID is optional"
   c.CMD_HELP_4 = " fav <ID>: Port to favorite <ID>"
@@ -41,8 +41,7 @@ export function registerUiStrings(this: void): undefined {
   c.TAB_VC_TITLE = "Visit Cards"
   c.TAB_MYHOUSES_TITLE = "My Houses"
   c.TAB_LIBRARY_TITLE = "Library"
-  c.LIBRARY_MESSAGE =
-    "The library contains player supplied houses. If you want your house to be part of the library, leave a note in one of the PTF threads on the ESO forums or ESOUI (AddOn comment)."
+  c.LIBRARY_MESSAGE = "The library contains player supplied houses."
   c.SORT_LABEL = "Order"
   c.SORT_LOCATION = "Location"
   c.FILTER_LABEL = "Category Filter"
@@ -62,13 +61,12 @@ export function registerUiStrings(this: void): undefined {
   c.LIBRARY_SORT_HOUSE = "House"
   c.MYHOUSES_FRONT_DOOR = "Front Door"
   c.MYHOUSES_PORT_INSIDE = "Port Inside"
-  c.CONTEXT_MENU_SEND = "Send to PTF"
+  c.CONTEXT_MENU_SEND = "Send to house library"
 
   const m = c.menu
-  m.DISPLAY_NAME = "|c4592FFPort To Friend's House Configuration|r"
-  m.AUTHOR =
-    "|cFF8174" + portToFriend.author + "|r\r\nThanks to: |cFF8174" + portToFriend.credits + "|r\r\n"
-  m.VERSION = "|cFF8174" + portToFriend.versionString + "|r"
+  m.DISPLAY_NAME = "|c4592FFTemper Houses Configuration|r"
+  m.AUTHOR = "|cFF8174" + houseTravel.author + "|r\r\n"
+  m.VERSION = "|cFF8174" + houseTravel.versionString + "|r"
   m.TITLE = "Chat Configuration"
   m.DESCRIPTION = "Configure the chats which should be allowed to add visit cards"
   m.G1 = "Guild 1"
@@ -98,13 +96,13 @@ export function registerUiStrings(this: void): undefined {
   m.PORT_MODE_DEACTIVATE = "Loading Screen"
   m.DEFAULT_TAB = "Default Tab"
 
-  portToFriend.HOUSES = HOUSES_SEED
+  houseTravel.HOUSES = HOUSES_SEED
 
   registerKeybindStrings()
 }
 
 function registerKeybindStrings(this: void): undefined {
-  const c = portToFriend.constants
+  const c = houseTravel.constants
   ZO_CreateStringId("SI_BINDING_NAME_PORTTOFRIENDSHOUSE_OPEN", c.TOGGLE_PORT_WINDOW ?? "")
 
   for (let i = 1; i <= 10; i += 1) {

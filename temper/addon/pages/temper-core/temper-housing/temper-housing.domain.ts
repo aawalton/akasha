@@ -38,7 +38,7 @@ export const temperHousing = {
     "module/housing-menu-state",
     "module/housing-my-houses",
     "module/housing-porting",
-    "module/housing-ptf-publish",
+    "module/housing-publish",
     "module/housing-search",
     "module/housing-settings-menu",
     "module/housing-slash",
@@ -54,7 +54,7 @@ export const temperHousing = {
     "module/housing-visit-cards-view",
     "module/housing-window-controls",
     "type-declaration/housing-declarations",
-    "type-declaration/housing-ptf-publish-declarations",
+    "type-declaration/housing-publish-declarations",
   ],
   decisions: [
     {

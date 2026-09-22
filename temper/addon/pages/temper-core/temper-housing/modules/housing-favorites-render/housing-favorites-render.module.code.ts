@@ -4,7 +4,7 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { Favorite } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
@@ -68,29 +68,29 @@ function asFiveArgEdge(value: unknown): FiveArgEdge {
 }
 
 function createFavorites(this: void): undefined {
-  const savedVars = asSavedFavorites(portToFriend.savedVars)
+  const savedVars = asSavedFavorites(houseTravel.savedVars)
   if (savedVars.favorites !== undefined) {
-    portToFriend.SortFriends()
+    houseTravel.SortFriends()
     const favorites = savedVars.favorites
-    const house = asHousePanel(portToFriend.controls.house)
-    const color = portToFriend.config.color
-    const headerFont = portToFriend.config.fonts.header
+    const house = asHousePanel(houseTravel.controls.house)
+    const color = houseTravel.config.color
+    const headerFont = houseTravel.config.fonts.header
 
     for (let i = 0; i < favorites.length; i++) {
       const favorite = favorites[i]
       if (favorite === undefined) {
         continue
       }
-      if (portToFriend.controls.favorites[i] === undefined) {
-        portToFriend.controls.favorites[i] = {}
+      if (houseTravel.controls.favorites[i] === undefined) {
+        houseTravel.controls.favorites[i] = {}
       }
-      const row = asFavoriteRow(portToFriend.controls.favorites[i])
+      const row = asFavoriteRow(houseTravel.controls.favorites[i])
 
       if (row.backDrop === undefined) {
         row.backDrop = WINDOW_MANAGER.CreateControl(undefined, house.scrollPanel, CT_BACKDROP)
       }
       const backDrop = row.backDrop
-      backDrop.SetDimensions(portToFriend.config.size.width - 30, 25)
+      backDrop.SetDimensions(houseTravel.config.size.width - 30, 25)
       backDrop.SetHidden(false)
       backDrop.ClearAnchors()
       backDrop.SetAnchor(TOPLEFT, house.scrollPanel, TOPLEFT, 5, 25 * i + 15)
@@ -117,10 +117,10 @@ function createFavorites(this: void): undefined {
       nameLabel.SetColor(color.default.R, color.default.G, color.default.B)
       nameLabel.SetMouseEnabled(true)
       nameLabel.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdOnMouseEnter(i)
+        houseTravel.BdOnMouseEnter(i)
       })
       nameLabel.SetHandler("OnMouseExit", () => {
-        portToFriend.BdOnMouseExit(i)
+        houseTravel.BdOnMouseExit(i)
       })
 
       if (row.house === undefined) {
@@ -131,18 +131,18 @@ function createFavorites(this: void): undefined {
       houseLabel.SetHidden(false)
       houseLabel.ClearAnchors()
       houseLabel.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 215, 0)
-      houseLabel.SetText(asString(portToFriend.HOUSES[favorite.houseId]))
+      houseLabel.SetText(asString(houseTravel.HOUSES[favorite.houseId]))
       houseLabel.SetFont(headerFont)
       houseLabel.SetColor(color.default.R, color.default.G, color.default.B)
       houseLabel.SetMouseEnabled(true)
       houseLabel.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdOnMouseEnter(i)
+        houseTravel.BdOnMouseEnter(i)
       })
       houseLabel.SetHandler("OnMouseExit", () => {
-        portToFriend.BdOnMouseExit(i)
+        houseTravel.BdOnMouseExit(i)
       })
 
-      portToFriend.CreateFavoriteCombobox(i, 60, 25, 480, 0, backDrop, favorite.id)
+      houseTravel.CreateFavoriteCombobox(i, 60, 25, 480, 0, backDrop, favorite.id)
 
       if (row.VCButton === undefined) {
         row.VCButton = asVirtualButtonFactory(WINDOW_MANAGER).CreateControlFromVirtual(
@@ -156,16 +156,16 @@ function createFavorites(this: void): undefined {
       vcButton.ClearAnchors()
       vcButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 540, 0)
       vcButton.SetDimensions(50, 25)
-      vcButton.SetText(asString(portToFriend.constants.BUTTON_VC))
+      vcButton.SetText(asString(houseTravel.constants.BUTTON_VC))
       vcButton.SetClickSound("Click")
       vcButton.SetHandler("OnClicked", () => {
-        portToFriend.FavoriteToVC(i)
+        houseTravel.FavoriteToVC(i)
       })
       vcButton.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdOnMouseEnter(i)
+        houseTravel.BdOnMouseEnter(i)
       })
       vcButton.SetHandler("OnMouseExit", () => {
-        portToFriend.BdOnMouseExit(i)
+        houseTravel.BdOnMouseExit(i)
       })
 
       if (row.portButton === undefined) {
@@ -180,16 +180,16 @@ function createFavorites(this: void): undefined {
       portButton.ClearAnchors()
       portButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 580, 0)
       portButton.SetDimensions(90, 25)
-      portButton.SetText(asString(portToFriend.constants.BUTTON_PORT))
+      portButton.SetText(asString(houseTravel.constants.BUTTON_PORT))
       portButton.SetClickSound("Click")
       portButton.SetHandler("OnClicked", () => {
-        portToFriend.PortToFavorite(i)
+        houseTravel.PortToFavorite(i)
       })
       portButton.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdOnMouseEnter(i)
+        houseTravel.BdOnMouseEnter(i)
       })
       portButton.SetHandler("OnMouseExit", () => {
-        portToFriend.BdOnMouseExit(i)
+        houseTravel.BdOnMouseExit(i)
       })
 
       if (row.removeButton === undefined) {
@@ -204,23 +204,23 @@ function createFavorites(this: void): undefined {
       removeButton.ClearAnchors()
       removeButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 670, 0)
       removeButton.SetDimensions(90, 25)
-      removeButton.SetText(asString(portToFriend.constants.BUTTON_REMOVE))
+      removeButton.SetText(asString(houseTravel.constants.BUTTON_REMOVE))
       removeButton.SetClickSound("Click")
       removeButton.SetHandler("OnClicked", () => {
-        portToFriend.RemoveFavorite(i)
+        houseTravel.RemoveFavorite(i)
       })
       removeButton.SetHandler("OnMouseEnter", () => {
-        portToFriend.BdOnMouseEnter(i)
+        houseTravel.BdOnMouseEnter(i)
       })
       removeButton.SetHandler("OnMouseExit", () => {
-        portToFriend.BdOnMouseExit(i)
+        houseTravel.BdOnMouseExit(i)
       })
     }
-    house.scrollPanel.SetDimensions(portToFriend.config.size.width - 10, favorites.length * 25 + 15)
-    portToFriend.ClearFavoriteControls(favorites.length)
+    house.scrollPanel.SetDimensions(houseTravel.config.size.width - 10, favorites.length * 25 + 15)
+    houseTravel.ClearFavoriteControls(favorites.length)
   } else {
-    portToFriend.ClearFavoriteControls(0)
+    houseTravel.ClearFavoriteControls(0)
   }
-  portToFriend.AdjustSliderSize()
+  houseTravel.AdjustSliderSize()
 }
-portToFriend.CreateFavorites = createFavorites
+houseTravel.CreateFavorites = createFavorites

@@ -13,15 +13,15 @@ import {
   controlsTree,
   nilName,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function buildHouseTab(this: void): undefined {
-  const c = controlsTree(portToFriend.controls)
-  const config = portToFriend.config
-  const constants = portToFriend.constants
+  const c = controlsTree(houseTravel.controls)
+  const config = houseTravel.config
+  const constants = houseTravel.constants
   const ctrlNames = constants.controls
   const body = asTreeNode(c.body)
   const bodyControl = asControl(body.control)
@@ -46,7 +46,7 @@ export function buildHouseTab(this: void): undefined {
   labelPlayer.SetFont(config.fonts.header)
   labelPlayer.SetColor(config.color.default.R, config.color.default.G, config.color.default.B)
 
-  const [editboxbg, editbox] = portToFriend.CreateEditbox(houseControl)
+  const [editboxbg, editbox] = houseTravel.CreateEditbox(houseControl)
   house.editboxbg = editboxbg
   house.editbox = editbox
   editboxbg.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 85, 15)
@@ -55,7 +55,7 @@ export function buildHouseTab(this: void): undefined {
   const editboxControl = asEditControl(editbox)
   editboxControl.SetText("")
   editboxControl.SetMaxInputChars(128)
-  editboxControl.SetHandler("OnTextChanged", asControlHandler(portToFriend.SearchTextChanged))
+  editboxControl.SetHandler("OnTextChanged", asControlHandler(houseTravel.SearchTextChanged))
   editboxControl.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 85, 15)
   editboxControl.SetDimensions(config.search.width, 25)
 
@@ -69,7 +69,7 @@ export function buildHouseTab(this: void): undefined {
   combobox.SetDimensions(325, 25)
   const dropdown = ZO_ComboBox_ObjectFromContainer(combobox)
   house.dropdown = dropdown
-  portToFriend.CreateDropdownEntries(dropdown)
+  houseTravel.CreateDropdownEntries(dropdown)
 
   const buttonPort = WINDOW_MANAGER.CreateControlFromVirtual<ButtonControl>(
     nilName(),
@@ -81,7 +81,7 @@ export function buildHouseTab(this: void): undefined {
   buttonPort.SetDimensions(125, 25)
   buttonPort.SetText(constants.BUTTON_PORT ?? "")
   buttonPort.SetClickSound("Click")
-  buttonPort.SetHandler("OnClicked", asControlHandler(portToFriend.PortToFriend))
+  buttonPort.SetHandler("OnClicked", asControlHandler(houseTravel.HouseTravel))
 
   const buttonAddFavorite = WINDOW_MANAGER.CreateControlFromVirtual<ButtonControl>(
     nilName(),
@@ -93,7 +93,7 @@ export function buildHouseTab(this: void): undefined {
   buttonAddFavorite.SetDimensions(125, 25)
   buttonAddFavorite.SetText(constants.BUTTON_ADD_FAVORITE ?? "")
   buttonAddFavorite.SetClickSound("Click")
-  buttonAddFavorite.SetHandler("OnClicked", asControlHandler(portToFriend.AddToFavorite))
+  buttonAddFavorite.SetHandler("OnClicked", asControlHandler(houseTravel.AddToFavorite))
 
   const buttonPortMain = WINDOW_MANAGER.CreateControlFromVirtual<ButtonControl>(
     nilName(),
@@ -105,7 +105,7 @@ export function buildHouseTab(this: void): undefined {
   buttonPortMain.SetDimensions(175, 25)
   buttonPortMain.SetText(constants.BUTTON_MAIN_RESIDENCE ?? "")
   buttonPortMain.SetClickSound("Click")
-  buttonPortMain.SetHandler("OnClicked", asControlHandler(portToFriend.PortToMainResidence))
+  buttonPortMain.SetHandler("OnClicked", asControlHandler(houseTravel.PortToMainResidence))
 
   const buttonSendVisitCard = WINDOW_MANAGER.CreateControlFromVirtual<ButtonControl>(
     nilName(),
@@ -117,7 +117,7 @@ export function buildHouseTab(this: void): undefined {
   buttonSendVisitCard.SetDimensions(175, 25)
   buttonSendVisitCard.SetText(constants.BUTTON_SEND_VISITCARD ?? "")
   buttonSendVisitCard.SetClickSound("Click")
-  buttonSendVisitCard.SetHandler("OnClicked", asControlHandler(portToFriend.SendVisitCard))
+  buttonSendVisitCard.SetHandler("OnClicked", asControlHandler(houseTravel.SendVisitCard))
 
   const scrollControl = asScrollView(
     WINDOW_MANAGER.CreateControl(ctrlNames.SCROLL_CONTROL, houseControl, CT_SCROLL)
@@ -140,7 +140,7 @@ export function buildHouseTab(this: void): undefined {
   scrollPanel.SetDimensions(config.size.width - 10, 40)
   scrollPanel.SetAnchor(TOPLEFT, scrollControl, TOPLEFT, 0, 0)
   scrollPanel.SetMouseEnabled(true)
-  scrollPanel.SetHandler("OnMouseWheel", asControlHandler(portToFriend.FavoritePanelOnMouseWheel))
+  scrollPanel.SetHandler("OnMouseWheel", asControlHandler(houseTravel.FavoritePanelOnMouseWheel))
 
   const slider = asSliderView(
     WINDOW_MANAGER.CreateControl(undefined, houseControl, asCtControl(CT_SLIDER))
@@ -166,10 +166,10 @@ export function buildHouseTab(this: void): undefined {
     50
   )
   slider.SetValueStep(1)
-  slider.SetHandler("OnValueChanged", asControlHandler(portToFriend.AdjustSlider))
+  slider.SetHandler("OnValueChanged", asControlHandler(houseTravel.AdjustSlider))
 
-  portToFriend.CreateFavorites()
-  house.searchBox = portToFriend.CreateSearchBox(houseControl, 85, 38, config.search.width)
+  houseTravel.CreateFavorites()
+  house.searchBox = houseTravel.CreateSearchBox(houseControl, 85, 38, config.search.width)
 }
 
 function asEditControl(value: Control): EditControl {

@@ -1,23 +1,23 @@
 import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import { asVcControls } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-visit-cards-view/housing-visit-cards-view.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function vcBdOnMouseEnter(this: void, index: number): undefined {
-  const vc = asVcControls(portToFriend.controls.vc)
+  const vc = asVcControls(houseTravel.controls.vc)
   const entry = vc.cardEntry !== undefined ? vc.cardEntry[index - 1] : undefined
   if (
     index !== undefined &&
     index > 0 &&
-    portToFriend.controls.vc !== undefined &&
+    houseTravel.controls.vc !== undefined &&
     vc.cardEntry !== undefined &&
     entry !== undefined &&
     entry.backdrop !== undefined
   ) {
     const backdrop = entry.backdrop
-    const color = portToFriend.config.color
-    if (index !== portToFriend.addonState.selectedVisitCard) {
+    const color = houseTravel.config.color
+    if (index !== houseTravel.addonState.selectedVisitCard) {
       backdrop.SetCenterColor(
         color.backDropLine.R,
         color.backDropLine.G,
@@ -39,25 +39,25 @@ function vcBdOnMouseEnter(this: void, index: number): undefined {
         0.0
       )
     }
-    portToFriend.addonState.highlightedVisitCard = index
+    houseTravel.addonState.highlightedVisitCard = index
   }
 }
-portToFriend.VCBdOnMouseEnter = vcBdOnMouseEnter
+houseTravel.VCBdOnMouseEnter = vcBdOnMouseEnter
 
 function vcBdOnMouseExit(this: void, index: number): undefined {
-  const vc = asVcControls(portToFriend.controls.vc)
+  const vc = asVcControls(houseTravel.controls.vc)
   const entry = vc.cardEntry !== undefined ? vc.cardEntry[index - 1] : undefined
   if (
     index !== undefined &&
     index > 0 &&
-    portToFriend.controls.vc !== undefined &&
+    houseTravel.controls.vc !== undefined &&
     vc.cardEntry !== undefined &&
     entry !== undefined &&
     entry.backdrop !== undefined
   ) {
     const backdrop = entry.backdrop
-    const color = portToFriend.config.color
-    if (index !== portToFriend.addonState.selectedVisitCard) {
+    const color = houseTravel.config.color
+    if (index !== houseTravel.addonState.selectedVisitCard) {
       backdrop.SetCenterColor(color.backDropLine.R, color.backDropLine.G, color.backDropLine.B, 0.0)
       backdrop.SetEdgeColor(color.backDropLine.R, color.backDropLine.G, color.backDropLine.B, 0.0)
     } else {
@@ -74,95 +74,93 @@ function vcBdOnMouseExit(this: void, index: number): undefined {
         0.0
       )
     }
-    portToFriend.addonState.highlightedVisitCard = undefined
+    houseTravel.addonState.highlightedVisitCard = undefined
   }
 }
-portToFriend.VCBdOnMouseExit = vcBdOnMouseExit
+houseTravel.VCBdOnMouseExit = vcBdOnMouseExit
 
 function vcBdOnClick(this: void, index: number): undefined {
   if (index !== undefined && tonumber(index) !== undefined) {
-    if (portToFriend.savedVars === undefined) {
+    if (houseTravel.savedVars === undefined) {
       return
     }
-    const vc = asVcControls(portToFriend.controls.vc)
-    const card = portToFriend.savedVars.vc.receivedCards[index - 1]
+    const vc = asVcControls(houseTravel.controls.vc)
+    const card = houseTravel.savedVars.vc.receivedCards[index - 1]
     if (card === undefined) {
       return
     }
-    vc.nameLabel.SetText((portToFriend.constants.VC_PLAYER ?? "") + card.name)
-    vc.houseLabel.SetText(
-      (portToFriend.constants.VC_HOUSE ?? "") + portToFriend.HOUSES[card.houseId]
-    )
-    portToFriend.addonState.selectedVisitCard = index
-    if (portToFriend.controls.vc !== undefined && vc.cardEntry !== undefined) {
+    vc.nameLabel.SetText((houseTravel.constants.VC_PLAYER ?? "") + card.name)
+    vc.houseLabel.SetText((houseTravel.constants.VC_HOUSE ?? "") + houseTravel.HOUSES[card.houseId])
+    houseTravel.addonState.selectedVisitCard = index
+    if (houseTravel.controls.vc !== undefined && vc.cardEntry !== undefined) {
       for (let i = 1; i <= vc.cardEntry.length; i = i + 1) {
-        portToFriend.VCBdOnMouseExit(i)
+        houseTravel.VCBdOnMouseExit(i)
       }
     }
-    portToFriend.VCBdOnMouseEnter(index)
+    houseTravel.VCBdOnMouseEnter(index)
     vc.addFavoriteButton.SetEnabled(true)
     vc.vcButton.SetEnabled(true)
     vc.portButton.SetEnabled(true)
     vc.removeButton.SetEnabled(true)
   }
 }
-portToFriend.VCBdOnClick = vcBdOnClick
+houseTravel.VCBdOnClick = vcBdOnClick
 
 function vcAddFavorite(this: void): undefined {
   if (
-    portToFriend.addonState.selectedVisitCard !== undefined &&
-    portToFriend.addonState.selectedVisitCard > 0 &&
-    portToFriend.savedVars !== undefined &&
-    portToFriend.savedVars.vc !== undefined &&
-    portToFriend.savedVars.vc.receivedCards !== undefined &&
-    portToFriend.addonState.selectedVisitCard <= portToFriend.savedVars.vc.receivedCards.length
+    houseTravel.addonState.selectedVisitCard !== undefined &&
+    houseTravel.addonState.selectedVisitCard > 0 &&
+    houseTravel.savedVars !== undefined &&
+    houseTravel.savedVars.vc !== undefined &&
+    houseTravel.savedVars.vc.receivedCards !== undefined &&
+    houseTravel.addonState.selectedVisitCard <= houseTravel.savedVars.vc.receivedCards.length
   ) {
     const card =
-      portToFriend.savedVars.vc.receivedCards[portToFriend.addonState.selectedVisitCard - 1]
+      houseTravel.savedVars.vc.receivedCards[houseTravel.addonState.selectedVisitCard - 1]
     if (card === undefined) {
       return
     }
     const name = card.name
     const houseId = card.houseId
-    portToFriend.AddFavorite(name, houseId)
+    houseTravel.AddFavorite(name, houseId)
   }
 }
-portToFriend.VCAddFavorite = vcAddFavorite
+houseTravel.VCAddFavorite = vcAddFavorite
 
 function vcSendVC(this: void): undefined {
   if (
-    portToFriend.addonState.selectedVisitCard !== undefined &&
-    portToFriend.addonState.selectedVisitCard > 0 &&
-    portToFriend.savedVars !== undefined &&
-    portToFriend.savedVars.vc !== undefined &&
-    portToFriend.savedVars.vc.receivedCards !== undefined &&
-    portToFriend.addonState.selectedVisitCard <= portToFriend.savedVars.vc.receivedCards.length
+    houseTravel.addonState.selectedVisitCard !== undefined &&
+    houseTravel.addonState.selectedVisitCard > 0 &&
+    houseTravel.savedVars !== undefined &&
+    houseTravel.savedVars.vc !== undefined &&
+    houseTravel.savedVars.vc.receivedCards !== undefined &&
+    houseTravel.addonState.selectedVisitCard <= houseTravel.savedVars.vc.receivedCards.length
   ) {
     const card =
-      portToFriend.savedVars.vc.receivedCards[portToFriend.addonState.selectedVisitCard - 1]
+      houseTravel.savedVars.vc.receivedCards[houseTravel.addonState.selectedVisitCard - 1]
     if (card === undefined) {
       return
     }
     const name = card.name
     const houseId = card.houseId
     if (name !== undefined && houseId !== undefined) {
-      portToFriend.SendVisitCardOf(name, houseId, portToFriend.constants.sendBasicComment)
+      houseTravel.SendVisitCardOf(name, houseId, houseTravel.constants.sendBasicComment)
     }
   }
 }
-portToFriend.VCSendVC = vcSendVC
+houseTravel.VCSendVC = vcSendVC
 
 function vcPort(this: void): undefined {
   if (
-    portToFriend.addonState.selectedVisitCard !== undefined &&
-    portToFriend.addonState.selectedVisitCard > 0 &&
-    portToFriend.savedVars !== undefined &&
-    portToFriend.savedVars.vc !== undefined &&
-    portToFriend.savedVars.vc.receivedCards !== undefined &&
-    portToFriend.addonState.selectedVisitCard <= portToFriend.savedVars.vc.receivedCards.length
+    houseTravel.addonState.selectedVisitCard !== undefined &&
+    houseTravel.addonState.selectedVisitCard > 0 &&
+    houseTravel.savedVars !== undefined &&
+    houseTravel.savedVars.vc !== undefined &&
+    houseTravel.savedVars.vc.receivedCards !== undefined &&
+    houseTravel.addonState.selectedVisitCard <= houseTravel.savedVars.vc.receivedCards.length
   ) {
     const card =
-      portToFriend.savedVars.vc.receivedCards[portToFriend.addonState.selectedVisitCard - 1]
+      houseTravel.savedVars.vc.receivedCards[houseTravel.addonState.selectedVisitCard - 1]
     if (card === undefined) {
       return
     }
@@ -171,36 +169,36 @@ function vcPort(this: void): undefined {
     if (name !== undefined && houseId !== undefined) {
       const numericHouseId = tonumber(houseId)
       if (numericHouseId !== undefined) {
-        portToFriend.JumpToHouse(zo_strtrim(name), numericHouseId)
+        houseTravel.JumpToHouse(zo_strtrim(name), numericHouseId)
       }
-      if (portToFriend.savedVars.port_mode === portToFriend.constants.PORT_MODE_ON_CLICK) {
-        portToFriend.CloseWindow()
+      if (houseTravel.savedVars.port_mode === houseTravel.constants.PORT_MODE_ON_CLICK) {
+        houseTravel.CloseWindow()
       }
     }
   }
 }
-portToFriend.VCPort = vcPort
+houseTravel.VCPort = vcPort
 
 function vcRemoveVC(this: void): undefined {
   if (
-    portToFriend.addonState.selectedVisitCard !== undefined &&
-    portToFriend.addonState.selectedVisitCard > 0 &&
-    portToFriend.savedVars !== undefined &&
-    portToFriend.savedVars.vc !== undefined &&
-    portToFriend.savedVars.vc.receivedCards !== undefined &&
-    portToFriend.addonState.selectedVisitCard <= portToFriend.savedVars.vc.receivedCards.length
+    houseTravel.addonState.selectedVisitCard !== undefined &&
+    houseTravel.addonState.selectedVisitCard > 0 &&
+    houseTravel.savedVars !== undefined &&
+    houseTravel.savedVars.vc !== undefined &&
+    houseTravel.savedVars.vc.receivedCards !== undefined &&
+    houseTravel.addonState.selectedVisitCard <= houseTravel.savedVars.vc.receivedCards.length
   ) {
-    const vc = asVcControls(portToFriend.controls.vc)
-    portToFriend.savedVars.vc.receivedCards.splice(portToFriend.addonState.selectedVisitCard - 1, 1)
-    portToFriend.addonState.taintedVisitCards = true
-    portToFriend.addonState.selectedVisitCard = -1
-    vc.nameLabel.SetText(portToFriend.constants.VC_PLAYER ?? "")
-    vc.houseLabel.SetText(portToFriend.constants.VC_HOUSE ?? "")
+    const vc = asVcControls(houseTravel.controls.vc)
+    houseTravel.savedVars.vc.receivedCards.splice(houseTravel.addonState.selectedVisitCard - 1, 1)
+    houseTravel.addonState.taintedVisitCards = true
+    houseTravel.addonState.selectedVisitCard = -1
+    vc.nameLabel.SetText(houseTravel.constants.VC_PLAYER ?? "")
+    vc.houseLabel.SetText(houseTravel.constants.VC_HOUSE ?? "")
     vc.addFavoriteButton.SetEnabled(false)
     vc.vcButton.SetEnabled(false)
     vc.portButton.SetEnabled(false)
     vc.removeButton.SetEnabled(false)
-    portToFriend.UpdateVisitCardList()
+    houseTravel.UpdateVisitCardList()
   }
 }
-portToFriend.VCRemoveVC = vcRemoveVC
+houseTravel.VCRemoveVC = vcRemoveVC

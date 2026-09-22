@@ -11,14 +11,14 @@ import {
   asTreeNode,
   controlsTree,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function buildMyHousesTab(this: void): undefined {
-  const c = controlsTree(portToFriend.controls)
-  const config = portToFriend.config
-  const constants = portToFriend.constants
+  const c = controlsTree(houseTravel.controls)
+  const config = houseTravel.config
+  const constants = houseTravel.constants
   const body = asTreeNode(c.body)
   const bodyControl = asControl(body.control)
 
@@ -54,8 +54,8 @@ export function buildMyHousesTab(this: void): undefined {
   const dropdown = ZO_ComboBox_ObjectFromContainer(combobox)
   myHouses.dropdown = dropdown
 
-  portToFriend.CreateSortDropdownEntries(dropdown)
-  asScrollableDropdown(dropdown).SetSelected(portToFriend.addonState.selectedMyHousesSort)
+  houseTravel.CreateSortDropdownEntries(dropdown)
+  asScrollableDropdown(dropdown).SetSelected(houseTravel.addonState.selectedMyHousesSort)
 
   const scrollControl = asScrollView(
     WINDOW_MANAGER.CreateControl(undefined, myHousesControl, CT_SCROLL)
@@ -78,7 +78,7 @@ export function buildMyHousesTab(this: void): undefined {
   scrollPanel.SetDimensions(config.size.width - 10, 0)
   scrollPanel.SetAnchor(TOPLEFT, scrollControl, TOPLEFT, 0, 40)
   scrollPanel.SetMouseEnabled(true)
-  scrollPanel.SetHandler("OnMouseWheel", asControlHandler(portToFriend.MyHousesPanelOnMouseWheel))
+  scrollPanel.SetHandler("OnMouseWheel", asControlHandler(houseTravel.MyHousesPanelOnMouseWheel))
 
   const slider = asSliderView(
     WINDOW_MANAGER.CreateControl(undefined, myHousesControl, asCtControl(CT_SLIDER))
@@ -104,9 +104,9 @@ export function buildMyHousesTab(this: void): undefined {
     50
   )
   slider.SetValueStep(1)
-  slider.SetHandler("OnValueChanged", asControlHandler(portToFriend.MyHousesAdjustSlider))
+  slider.SetHandler("OnValueChanged", asControlHandler(houseTravel.MyHousesAdjustSlider))
   slider.SetValue(1)
 
-  portToFriend.UpdateMyHouses()
-  portToFriend.addonState.sortInitialized = true
+  houseTravel.UpdateMyHouses()
+  houseTravel.addonState.sortInitialized = true
 }

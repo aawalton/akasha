@@ -12,14 +12,14 @@ import {
   asTreeNode,
   controlsTree,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export function buildLibraryTab(this: void): undefined {
-  const c = controlsTree(portToFriend.controls)
-  const config = portToFriend.config
-  const constants = portToFriend.constants
+  const c = controlsTree(houseTravel.controls)
+  const config = houseTravel.config
+  const constants = houseTravel.constants
   const body = asTreeNode(c.body)
   const bodyControl = asControl(body.control)
 
@@ -85,9 +85,9 @@ export function buildLibraryTab(this: void): undefined {
   const dropdown = ZO_ComboBox_ObjectFromContainer(combobox)
   library.dropdown = dropdown
 
-  portToFriend.libData.currentData = portToFriend.libData.GetLibraryData()
-  portToFriend.CreateCategoryDropdownEntries(dropdown)
-  asScrollableDropdown(dropdown).SetSelected(portToFriend.addonState.selectedLibraryFilter)
+  houseTravel.libData.currentData = houseTravel.libData.GetLibraryData()
+  houseTravel.CreateCategoryDropdownEntries(dropdown)
+  asScrollableDropdown(dropdown).SetSelected(houseTravel.addonState.selectedLibraryFilter)
 
   const sortLabel = WINDOW_MANAGER.CreateControl(undefined, libraryControl, CT_LABEL)
   library.sortLabel = sortLabel
@@ -109,8 +109,8 @@ export function buildLibraryTab(this: void): undefined {
   const sortDropdown = ZO_ComboBox_ObjectFromContainer(sortCombobox)
   library.sortDropdown = sortDropdown
 
-  portToFriend.CreateLibrarySortDropdownEntries(sortDropdown)
-  asScrollableDropdown(sortDropdown).SetSelected(portToFriend.addonState.selectedLibrarySort)
+  houseTravel.CreateLibrarySortDropdownEntries(sortDropdown)
+  asScrollableDropdown(sortDropdown).SetSelected(houseTravel.addonState.selectedLibrarySort)
 
   const scrollControl = asScrollView(
     WINDOW_MANAGER.CreateControl(undefined, libraryControl, CT_SCROLL)
@@ -133,7 +133,7 @@ export function buildLibraryTab(this: void): undefined {
   scrollPanel.SetDimensions(config.size.width - 10, 40)
   scrollPanel.SetAnchor(TOPLEFT, scrollControl, TOPLEFT, 0, 0)
   scrollPanel.SetMouseEnabled(true)
-  scrollPanel.SetHandler("OnMouseWheel", asControlHandler(portToFriend.LibraryPanelOnMouseWheel))
+  scrollPanel.SetHandler("OnMouseWheel", asControlHandler(houseTravel.LibraryPanelOnMouseWheel))
 
   const slider = asSliderView(
     WINDOW_MANAGER.CreateControl(undefined, libraryControl, asCtControl(CT_SLIDER))
@@ -159,9 +159,9 @@ export function buildLibraryTab(this: void): undefined {
     50
   )
   slider.SetValueStep(1)
-  slider.SetHandler("OnValueChanged", asControlHandler(portToFriend.AdjustLibrarySlider))
+  slider.SetHandler("OnValueChanged", asControlHandler(houseTravel.AdjustLibrarySlider))
 
-  portToFriend.CreateLibraryEntries()
-  portToFriend.addonState.categoryFilterInitialized = true
-  portToFriend.addonState.LibrarySortInitialized = true
+  houseTravel.CreateLibraryEntries()
+  houseTravel.addonState.categoryFilterInitialized = true
+  houseTravel.addonState.LibrarySortInitialized = true
 }

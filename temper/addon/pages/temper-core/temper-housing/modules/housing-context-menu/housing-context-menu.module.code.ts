@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
@@ -52,20 +52,20 @@ function asGuildRosterKeyboard(value: unknown): GuildRosterKeyboard {
 }
 
 function contextMenuHackOnUpdate(this: void): undefined {
-  if (portToFriend.hacks.contextMenuHackUpdated === undefined) {
-    portToFriend.hacks.contextMenuHackUpdated = true
+  if (houseTravel.hacks.contextMenuHackUpdated === undefined) {
+    houseTravel.hacks.contextMenuHackUpdated = true
   } else {
-    portToFriend.AdjustContextMenus()
-    EVENT_MANAGER.UnregisterForUpdate(portToFriend.hacks.callbackName)
+    houseTravel.AdjustContextMenus()
+    EVENT_MANAGER.UnregisterForUpdate(houseTravel.hacks.callbackName)
   }
 }
-portToFriend.ContextMenuHackOnUpdate = contextMenuHackOnUpdate
+houseTravel.ContextMenuHackOnUpdate = contextMenuHackOnUpdate
 
-function sendNameToPTF(this: void, name: string): undefined {
-  asHouseEditboxPanel(portToFriend.controls.house).editbox.SetText(name)
-  portToFriend.OpenWindow()
+function sendNameToLibrary(this: void, name: string): undefined {
+  asHouseEditboxPanel(houseTravel.controls.house).editbox.SetText(name)
+  houseTravel.OpenWindow()
 }
-portToFriend.SendNameToPTF = sendNameToPTF
+houseTravel.SendNameToLibrary = sendNameToLibrary
 
 function adjustContextMenus(this: void): undefined {
   const chatSystem = asChatSystemWithContextMenu(CHAT_SYSTEM)
@@ -76,8 +76,8 @@ function adjustContextMenus(this: void): undefined {
     rawName: string
   ): undefined {
     showPlayerContextMenu.call(this, displayName, rawName)
-    AddCustomMenuItem(portToFriend.constants.CONTEXT_MENU_SEND ?? "", () => {
-      portToFriend.SendNameToPTF(displayName)
+    AddCustomMenuItem(houseTravel.constants.CONTEXT_MENU_SEND ?? "", () => {
+      houseTravel.SendNameToLibrary(displayName)
     })
     if (ZO_Menu_GetNumMenuItems() > 0) {
       ShowMenu()
@@ -100,11 +100,11 @@ function adjustContextMenus(this: void): undefined {
     }
 
     if (data !== undefined) {
-      AddCustomMenuItem(portToFriend.constants.CONTEXT_MENU_SEND ?? "", () => {
-        portToFriend.SendNameToPTF(data.displayName)
+      AddCustomMenuItem(houseTravel.constants.CONTEXT_MENU_SEND ?? "", () => {
+        houseTravel.SendNameToLibrary(data.displayName)
       })
       this.ShowMenu(control)
     }
   }
 }
-portToFriend.AdjustContextMenus = adjustContextMenus
+houseTravel.AdjustContextMenus = adjustContextMenus

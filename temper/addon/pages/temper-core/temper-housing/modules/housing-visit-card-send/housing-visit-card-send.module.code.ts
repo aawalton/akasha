@@ -2,7 +2,7 @@ import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface HouseEditboxView {
@@ -25,40 +25,40 @@ function asChatEditControlView(value: unknown): ChatEditControlView {
 
 function calculateVCLocation(this: void): undefined {
   if (
-    portToFriend.addonState.VCLocationCalculated === undefined ||
-    portToFriend.addonState.VCLocationCalculated === false
+    houseTravel.addonState.VCLocationCalculated === undefined ||
+    houseTravel.addonState.VCLocationCalculated === false
   ) {
-    portToFriend.addonState.VCLocationCalculated = true
+    houseTravel.addonState.VCLocationCalculated = true
   }
 }
-portToFriend.CalculateVCLocation = calculateVCLocation
+houseTravel.CalculateVCLocation = calculateVCLocation
 
 function favoriteToVC(this: void, index: number): undefined {
-  const savedVars = portToFriend.savedVars
+  const savedVars = houseTravel.savedVars
   if (
     index !== undefined &&
     savedVars !== undefined &&
     savedVars.favorites !== undefined &&
     savedVars.favorites[index] !== undefined
   ) {
-    portToFriend.SendVisitCardOf(
+    houseTravel.SendVisitCardOf(
       savedVars.favorites[index].name,
       savedVars.favorites[index].houseId,
-      portToFriend.constants.sendBasicComment
+      houseTravel.constants.sendBasicComment
     )
   }
 }
-portToFriend.FavoriteToVC = favoriteToVC
+houseTravel.FavoriteToVC = favoriteToVC
 
 function myHousesToVC(this: void, id: number): undefined {
-  portToFriend.SendVisitCardOf(GetDisplayName(), id, portToFriend.constants.sendBasicComment)
+  houseTravel.SendVisitCardOf(GetDisplayName(), id, houseTravel.constants.sendBasicComment)
 }
-portToFriend.MyHousesToVC = myHousesToVC
+houseTravel.MyHousesToVC = myHousesToVC
 
 function sendVisitCardOf(this: void, name: string, houseId: number, comment: string): undefined {
   if (name !== undefined && houseId !== undefined && comment !== undefined) {
     const message =
-      portToFriend.constants.sendKeyWord + name + " " + tostring(houseId) + " (" + comment + ")"
+      houseTravel.constants.sendKeyWord + name + " " + tostring(houseId) + " (" + comment + ")"
     const chat = asChatEditControlView(CHAT_SYSTEM.textEntry.editControl)
     if (chat.HasFocus() === false) {
       StartChatInput()
@@ -66,16 +66,16 @@ function sendVisitCardOf(this: void, name: string, houseId: number, comment: str
     chat.SetText(message)
   }
 }
-portToFriend.SendVisitCardOf = sendVisitCardOf
+houseTravel.SendVisitCardOf = sendVisitCardOf
 
 function sendVisitCard(this: void): undefined {
-  let name = asHouseControlsView(portToFriend.controls.house).editbox.GetText()
-  const houseId = portToFriend.addonState.houseId
+  let name = asHouseControlsView(houseTravel.controls.house).editbox.GetText()
+  const houseId = houseTravel.addonState.houseId
   if (name === undefined || zo_strtrim(name) === "") {
     name = GetDisplayName()
   }
   if (houseId !== undefined) {
-    portToFriend.SendVisitCardOf(name, houseId, portToFriend.constants.sendBasicComment)
+    houseTravel.SendVisitCardOf(name, houseId, houseTravel.constants.sendBasicComment)
   }
 }
-portToFriend.SendVisitCard = sendVisitCard
+houseTravel.SendVisitCard = sendVisitCard

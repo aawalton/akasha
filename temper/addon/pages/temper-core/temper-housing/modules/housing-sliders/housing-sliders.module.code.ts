@@ -1,7 +1,7 @@
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 interface SliderControl extends Control {
@@ -29,117 +29,117 @@ function asPanelControls(value: unknown): PanelControls {
 }
 
 function adjustLibrarySlider(this: void): undefined {
-  const currentDataCount = portToFriend.GetFilteredLibraryData().length
+  const currentDataCount = houseTravel.GetFilteredLibraryData().length
   let size =
     25 * currentDataCount +
     25 -
-    (portToFriend.config.size.height -
-      portToFriend.config.size.headerHeightOffset -
-      portToFriend.config.size.headerHeight -
-      portToFriend.config.size.gap -
+    (houseTravel.config.size.height -
+      houseTravel.config.size.headerHeightOffset -
+      houseTravel.config.size.headerHeight -
+      houseTravel.config.size.gap -
       100)
   if (size < 0) {
     size = 0
   }
 
-  const library = asPanelControls(portToFriend.controls.library)
+  const library = asPanelControls(houseTravel.controls.library)
   const slide = (size / 100) * library.slider.GetValue()
 
   library.scrollPanel.SetSimpleAnchor(library.scrollControl, 0, -slide)
 }
-portToFriend.AdjustLibrarySlider = adjustLibrarySlider
+houseTravel.AdjustLibrarySlider = adjustLibrarySlider
 
 function adjustSlider(this: void): undefined {
-  if (portToFriend.savedVars !== undefined && portToFriend.savedVars.favorites !== undefined) {
+  if (houseTravel.savedVars !== undefined && houseTravel.savedVars.favorites !== undefined) {
     let size =
-      25 * portToFriend.savedVars.favorites.length +
+      25 * houseTravel.savedVars.favorites.length +
       25 -
-      (portToFriend.config.size.height -
-        portToFriend.config.size.headerHeightOffset -
-        portToFriend.config.size.headerHeight -
-        portToFriend.config.size.gap -
+      (houseTravel.config.size.height -
+        houseTravel.config.size.headerHeightOffset -
+        houseTravel.config.size.headerHeight -
+        houseTravel.config.size.gap -
         80)
     if (size < 0) {
       size = 0
     }
 
-    const house = asPanelControls(portToFriend.controls.house)
+    const house = asPanelControls(houseTravel.controls.house)
     const slide = (size / 100) * house.slider.GetValue()
 
     house.scrollPanel.SetSimpleAnchor(house.scrollControl, 0, -slide)
   }
 }
-portToFriend.AdjustSlider = adjustSlider
+houseTravel.AdjustSlider = adjustSlider
 
 function adjustLibrarySliderSize(this: void): undefined {
-  const currentDataCount = portToFriend.GetFilteredLibraryData().length
+  const currentDataCount = houseTravel.GetFilteredLibraryData().length
   const totalSize = 25 * currentDataCount + 25
   const screenSize =
-    portToFriend.config.size.height -
-    portToFriend.config.size.headerHeightOffset -
-    portToFriend.config.size.headerHeight -
-    portToFriend.config.size.gap -
+    houseTravel.config.size.height -
+    houseTravel.config.size.headerHeightOffset -
+    houseTravel.config.size.headerHeight -
+    houseTravel.config.size.gap -
     100
 
-  const library = asPanelControls(portToFriend.controls.library)
+  const library = asPanelControls(houseTravel.controls.library)
   if (totalSize <= screenSize) {
-    if (portToFriend.addonState.isScrollable === true) {
+    if (houseTravel.addonState.isScrollable === true) {
       library.slider.SetValue(0)
     }
     library.slider.SetHidden(true)
-    portToFriend.addonState.isScrollable = false
+    houseTravel.addonState.isScrollable = false
   } else {
     library.slider.SetHidden(false)
-    portToFriend.addonState.isScrollable = true
+    houseTravel.addonState.isScrollable = true
   }
 }
-portToFriend.AdjustLibrarySliderSize = adjustLibrarySliderSize
+houseTravel.AdjustLibrarySliderSize = adjustLibrarySliderSize
 
 function adjustMyHousesSliderSize(this: void): undefined {
-  const currentDataCount = portToFriend.GetNumPurchasedHouses()
+  const currentDataCount = houseTravel.GetNumPurchasedHouses()
   const totalSize = 25 * currentDataCount + 25
   const screenSize =
-    portToFriend.config.size.height -
-    portToFriend.config.size.headerHeightOffset -
-    portToFriend.config.size.headerHeight -
-    portToFriend.config.size.gap -
+    houseTravel.config.size.height -
+    houseTravel.config.size.headerHeightOffset -
+    houseTravel.config.size.headerHeight -
+    houseTravel.config.size.gap -
     40
 
-  const myHouses = asPanelControls(portToFriend.controls.myHouses)
+  const myHouses = asPanelControls(houseTravel.controls.myHouses)
   if (totalSize <= screenSize) {
-    if (portToFriend.addonState.isMyHousesScrollable === true) {
+    if (houseTravel.addonState.isMyHousesScrollable === true) {
       myHouses.slider.SetValue(0)
     }
     myHouses.slider.SetHidden(true)
-    portToFriend.addonState.isMyHousesScrollable = false
+    houseTravel.addonState.isMyHousesScrollable = false
   } else {
     myHouses.slider.SetHidden(false)
-    portToFriend.addonState.isMyHousesScrollable = true
+    houseTravel.addonState.isMyHousesScrollable = true
   }
 }
-portToFriend.AdjustMyHousesSliderSize = adjustMyHousesSliderSize
+houseTravel.AdjustMyHousesSliderSize = adjustMyHousesSliderSize
 
 function adjustSliderSize(this: void): undefined {
   const favoriteCount =
-    portToFriend.savedVars !== undefined ? portToFriend.savedVars.favorites.length : 0
+    houseTravel.savedVars !== undefined ? houseTravel.savedVars.favorites.length : 0
   const totalSize = 25 * favoriteCount + 25
   const screenSize =
-    portToFriend.config.size.height -
-    portToFriend.config.size.headerHeightOffset -
-    portToFriend.config.size.headerHeight -
-    portToFriend.config.size.gap -
+    houseTravel.config.size.height -
+    houseTravel.config.size.headerHeightOffset -
+    houseTravel.config.size.headerHeight -
+    houseTravel.config.size.gap -
     80
 
-  const house = asPanelControls(portToFriend.controls.house)
+  const house = asPanelControls(houseTravel.controls.house)
   if (totalSize <= screenSize) {
-    if (portToFriend.addonState.isScrollable === true) {
+    if (houseTravel.addonState.isScrollable === true) {
       house.slider.SetValue(0)
     }
     house.slider.SetHidden(true)
-    portToFriend.addonState.isScrollable = false
+    houseTravel.addonState.isScrollable = false
   } else {
     house.slider.SetHidden(false)
-    portToFriend.addonState.isScrollable = true
+    houseTravel.addonState.isScrollable = true
   }
 }
-portToFriend.AdjustSliderSize = adjustSliderSize
+houseTravel.AdjustSliderSize = adjustSliderSize

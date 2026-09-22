@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { SortedMyHouse } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 
 interface TlwView {
@@ -136,16 +136,16 @@ function asHouseId(value: unknown): HouseId {
 }
 
 function onPlayerDeactivated(this: void): undefined {
-  const savedVars = portToFriend.savedVars
+  const savedVars = houseTravel.savedVars
   if (
     savedVars !== undefined &&
-    savedVars.port_mode === portToFriend.constants.PORT_MODE_ON_DEACTIVATE &&
-    asTlwView(portToFriend.controls.TLW).IsHidden() === false
+    savedVars.port_mode === houseTravel.constants.PORT_MODE_ON_DEACTIVATE &&
+    asTlwView(houseTravel.controls.TLW).IsHidden() === false
   ) {
-    portToFriend.CloseWindow()
+    houseTravel.CloseWindow()
   }
 }
-portToFriend.OnPlayerDeactivated = onPlayerDeactivated
+houseTravel.OnPlayerDeactivated = onPlayerDeactivated
 
 function sortMyHousesByHouse(this: void, houseA: SortedMyHouse, houseB: SortedMyHouse): boolean {
   if (houseA.houseName === undefined && houseB.houseName === undefined) {
@@ -157,7 +157,7 @@ function sortMyHousesByHouse(this: void, houseA: SortedMyHouse, houseB: SortedMy
   }
   return houseA.houseName < houseB.houseName
 }
-portToFriend.SortMyHousesByHouse = sortMyHousesByHouse
+houseTravel.SortMyHousesByHouse = sortMyHousesByHouse
 
 function sortMyHousesByLocation(this: void, houseA: SortedMyHouse, houseB: SortedMyHouse): boolean {
   if (houseA.location === undefined && houseB.location === undefined) {
@@ -172,24 +172,24 @@ function sortMyHousesByLocation(this: void, houseA: SortedMyHouse, houseB: Sorte
   } else if (houseA.location > houseB.location) {
     return false
   } else {
-    return portToFriend.SortMyHousesByHouse(houseA, houseB)
+    return houseTravel.SortMyHousesByHouse(houseA, houseB)
   }
 }
-portToFriend.SortMyHousesByLocation = sortMyHousesByLocation
+houseTravel.SortMyHousesByLocation = sortMyHousesByLocation
 
 function getSortedMyHousesList(this: void): SortedMyHouse[] {
   let sortFunction: (this: void, houseA: SortedMyHouse, houseB: SortedMyHouse) => boolean
-  if (portToFriend.addonState.selectedMyHousesSort === portToFriend.constants.SORT_ID_HOUSE) {
-    sortFunction = portToFriend.SortMyHousesByHouse
+  if (houseTravel.addonState.selectedMyHousesSort === houseTravel.constants.SORT_ID_HOUSE) {
+    sortFunction = houseTravel.SortMyHousesByHouse
   } else {
-    sortFunction = portToFriend.SortMyHousesByLocation
+    sortFunction = houseTravel.SortMyHousesByLocation
   }
   const purchasedHouses: SortedMyHouse[] = []
-  if (portToFriend.purchasedHouses !== undefined) {
+  if (houseTravel.purchasedHouses !== undefined) {
     let currentIndex = 0
-    for (const key in portToFriend.purchasedHouses) {
+    for (const key in houseTravel.purchasedHouses) {
       const refId = asHouseId(key)
-      const source = portToFriend.purchasedHouses[refId]
+      const source = houseTravel.purchasedHouses[refId]
       if (source === undefined) {
         continue
       }
@@ -204,11 +204,11 @@ function getSortedMyHousesList(this: void): SortedMyHouse[] {
   }
   return purchasedHouses
 }
-portToFriend.GetSortedMyHousesList = getSortedMyHousesList
+houseTravel.GetSortedMyHousesList = getSortedMyHousesList
 
 function updateMyHouses(this: void): undefined {
-  const sortedMyHousesList = portToFriend.GetSortedMyHousesList()
-  const myHouses = asMyHousesControlsView(portToFriend.controls.myHouses)
+  const sortedMyHousesList = houseTravel.GetSortedMyHousesList()
+  const myHouses = asMyHousesControlsView(houseTravel.controls.myHouses)
 
   for (let i = 0; i < sortedMyHousesList.length; i = i + 1) {
     const rowId = i + 1
@@ -216,10 +216,10 @@ function updateMyHouses(this: void): undefined {
     if (entry === undefined) {
       continue
     }
-    if (portToFriend.controls.purchasedHouses[rowId] === undefined) {
-      portToFriend.controls.purchasedHouses[rowId] = {}
+    if (houseTravel.controls.purchasedHouses[rowId] === undefined) {
+      houseTravel.controls.purchasedHouses[rowId] = {}
     }
-    const row = asPurchasedHouseRowView(portToFriend.controls.purchasedHouses[rowId])
+    const row = asPurchasedHouseRowView(houseTravel.controls.purchasedHouses[rowId])
 
     if (row.backDrop === undefined) {
       row.backDrop = asRowBackdropView(
@@ -227,20 +227,20 @@ function updateMyHouses(this: void): undefined {
       )
     }
     const backDrop = row.backDrop
-    backDrop.SetDimensions(portToFriend.config.size.width - 30, 25)
+    backDrop.SetDimensions(houseTravel.config.size.width - 30, 25)
     backDrop.SetHidden(false)
     backDrop.ClearAnchors()
     backDrop.SetAnchor(TOPLEFT, myHouses.scrollPanel, TOPLEFT, 5, 25 * i + 15)
     backDrop.SetCenterColor(
-      portToFriend.config.color.backDropLine.R,
-      portToFriend.config.color.backDropLine.G,
-      portToFriend.config.color.backDropLine.B,
+      houseTravel.config.color.backDropLine.R,
+      houseTravel.config.color.backDropLine.G,
+      houseTravel.config.color.backDropLine.B,
       0.0
     )
     backDrop.SetEdgeColor(
-      portToFriend.config.color.backDropLine.R,
-      portToFriend.config.color.backDropLine.G,
-      portToFriend.config.color.backDropLine.B,
+      houseTravel.config.color.backDropLine.R,
+      houseTravel.config.color.backDropLine.G,
+      houseTravel.config.color.backDropLine.B,
       0.0,
       0
     )
@@ -257,15 +257,15 @@ function updateMyHouses(this: void): undefined {
     nameLabel.ClearAnchors()
     nameLabel.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 0, 0)
     nameLabel.SetText(entry.houseName)
-    nameLabel.SetFont(portToFriend.config.fonts.header)
+    nameLabel.SetFont(houseTravel.config.fonts.header)
     nameLabel.SetColor(
-      portToFriend.config.color.default.R,
-      portToFriend.config.color.default.G,
-      portToFriend.config.color.default.B
+      houseTravel.config.color.default.R,
+      houseTravel.config.color.default.G,
+      houseTravel.config.color.default.B
     )
     nameLabel.SetMouseEnabled(true)
-    nameLabel.SetHandler("OnMouseEnter", () => portToFriend.BdMyHousesOnMouseEnter(rowId))
-    nameLabel.SetHandler("OnMouseExit", () => portToFriend.BdMyHousesOnMouseExit(rowId))
+    nameLabel.SetHandler("OnMouseEnter", () => houseTravel.BdMyHousesOnMouseEnter(rowId))
+    nameLabel.SetHandler("OnMouseExit", () => houseTravel.BdMyHousesOnMouseExit(rowId))
 
     if (row.location === undefined) {
       row.location = asRowLabelView(
@@ -278,15 +278,15 @@ function updateMyHouses(this: void): undefined {
     locationLabel.ClearAnchors()
     locationLabel.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 235, 0)
     locationLabel.SetText(entry.location)
-    locationLabel.SetFont(portToFriend.config.fonts.header)
+    locationLabel.SetFont(houseTravel.config.fonts.header)
     locationLabel.SetColor(
-      portToFriend.config.color.default.R,
-      portToFriend.config.color.default.G,
-      portToFriend.config.color.default.B
+      houseTravel.config.color.default.R,
+      houseTravel.config.color.default.G,
+      houseTravel.config.color.default.B
     )
     locationLabel.SetMouseEnabled(true)
-    locationLabel.SetHandler("OnMouseEnter", () => portToFriend.BdMyHousesOnMouseEnter(rowId))
-    locationLabel.SetHandler("OnMouseExit", () => portToFriend.BdMyHousesOnMouseExit(rowId))
+    locationLabel.SetHandler("OnMouseEnter", () => houseTravel.BdMyHousesOnMouseEnter(rowId))
+    locationLabel.SetHandler("OnMouseExit", () => houseTravel.BdMyHousesOnMouseExit(rowId))
 
     if (row.VCButton === undefined) {
       row.VCButton = asRowButtonView(
@@ -302,24 +302,24 @@ function updateMyHouses(this: void): undefined {
     vcButton.ClearAnchors()
     vcButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 390, 0)
     vcButton.SetDimensions(50, 25)
-    vcButton.SetText(portToFriend.constants.BUTTON_VC ?? "")
+    vcButton.SetText(houseTravel.constants.BUTTON_VC ?? "")
     vcButton.SetClickSound("Click")
-    vcButton.SetHandler("OnClicked", () => portToFriend.MyHousesToVC(entry.houseId))
-    vcButton.SetHandler("OnMouseEnter", () => portToFriend.BdMyHousesOnMouseEnter(rowId))
-    vcButton.SetHandler("OnMouseExit", () => portToFriend.BdMyHousesOnMouseExit(rowId))
+    vcButton.SetHandler("OnClicked", () => houseTravel.MyHousesToVC(entry.houseId))
+    vcButton.SetHandler("OnMouseEnter", () => houseTravel.BdMyHousesOnMouseEnter(rowId))
+    vcButton.SetHandler("OnMouseExit", () => houseTravel.BdMyHousesOnMouseExit(rowId))
 
-    let value = portToFriend.GetFavoriteIdFromMyHouseId(
+    let value = houseTravel.GetFavoriteIdFromMyHouseId(
       entry.houseId,
-      portToFriend.constants.PORT_TYPE_INSIDE
+      houseTravel.constants.PORT_TYPE_INSIDE
     )
-    portToFriend.CreatePortMyHouseFavorite(
+    houseTravel.CreatePortMyHouseFavorite(
       rowId,
       60,
       25,
       440,
       asControl(backDrop),
       value,
-      portToFriend.constants.PORT_TYPE_INSIDE,
+      houseTravel.constants.PORT_TYPE_INSIDE,
       entry.houseId
     )
     if (row.portInsideButton === undefined) {
@@ -336,26 +336,26 @@ function updateMyHouses(this: void): undefined {
     portInsideButton.ClearAnchors()
     portInsideButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 500, 0)
     portInsideButton.SetDimensions(105, 25)
-    portInsideButton.SetText(portToFriend.constants.MYHOUSES_PORT_INSIDE ?? "")
+    portInsideButton.SetText(houseTravel.constants.MYHOUSES_PORT_INSIDE ?? "")
     portInsideButton.SetClickSound("Click")
     portInsideButton.SetHandler("OnClicked", () =>
-      portToFriend.PortToMyHousesById(entry.houseId, false)
+      houseTravel.PortToMyHousesById(entry.houseId, false)
     )
-    portInsideButton.SetHandler("OnMouseEnter", () => portToFriend.BdMyHousesOnMouseEnter(rowId))
-    portInsideButton.SetHandler("OnMouseExit", () => portToFriend.BdMyHousesOnMouseExit(rowId))
+    portInsideButton.SetHandler("OnMouseEnter", () => houseTravel.BdMyHousesOnMouseEnter(rowId))
+    portInsideButton.SetHandler("OnMouseExit", () => houseTravel.BdMyHousesOnMouseExit(rowId))
 
-    value = portToFriend.GetFavoriteIdFromMyHouseId(
+    value = houseTravel.GetFavoriteIdFromMyHouseId(
       entry.houseId,
-      portToFriend.constants.PORT_TYPE_OUTSIDE
+      houseTravel.constants.PORT_TYPE_OUTSIDE
     )
-    portToFriend.CreatePortMyHouseFavorite(
+    houseTravel.CreatePortMyHouseFavorite(
       rowId,
       60,
       25,
       605,
       asControl(backDrop),
       value,
-      portToFriend.constants.PORT_TYPE_OUTSIDE,
+      houseTravel.constants.PORT_TYPE_OUTSIDE,
       entry.houseId
     )
     if (row.portOutsideButton === undefined) {
@@ -372,27 +372,27 @@ function updateMyHouses(this: void): undefined {
     portOutsideButton.ClearAnchors()
     portOutsideButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 665, 0)
     portOutsideButton.SetDimensions(105, 25)
-    portOutsideButton.SetText(portToFriend.constants.MYHOUSES_FRONT_DOOR ?? "")
+    portOutsideButton.SetText(houseTravel.constants.MYHOUSES_FRONT_DOOR ?? "")
     portOutsideButton.SetClickSound("Click")
     portOutsideButton.SetHandler("OnClicked", () =>
-      portToFriend.PortToMyHousesById(entry.houseId, true)
+      houseTravel.PortToMyHousesById(entry.houseId, true)
     )
-    portOutsideButton.SetHandler("OnMouseEnter", () => portToFriend.BdMyHousesOnMouseEnter(rowId))
-    portOutsideButton.SetHandler("OnMouseExit", () => portToFriend.BdMyHousesOnMouseExit(rowId))
+    portOutsideButton.SetHandler("OnMouseEnter", () => houseTravel.BdMyHousesOnMouseEnter(rowId))
+    portOutsideButton.SetHandler("OnMouseExit", () => houseTravel.BdMyHousesOnMouseExit(rowId))
   }
   myHouses.scrollPanel.SetDimensions(
-    portToFriend.config.size.width - 10,
+    houseTravel.config.size.width - 10,
     sortedMyHousesList.length * 25 + 15
   )
 
-  portToFriend.AdjustMyHousesSliderSize()
+  houseTravel.AdjustMyHousesSliderSize()
 }
-portToFriend.UpdateMyHouses = updateMyHouses
+houseTravel.UpdateMyHouses = updateMyHouses
 
 function myHousesPanelOnMouseWheel(this: void, _control: Control, delta: number): undefined {
-  const myHouses = asMyHousesControlsView(portToFriend.controls.myHouses)
+  const myHouses = asMyHousesControlsView(houseTravel.controls.myHouses)
   if (myHouses.slider.IsHidden() === false) {
-    let size = 100 / portToFriend.GetNumPurchasedHouses()
+    let size = 100 / houseTravel.GetNumPurchasedHouses()
     if (size < 1) {
       size = 1
     }
@@ -407,17 +407,17 @@ function myHousesPanelOnMouseWheel(this: void, _control: Control, delta: number)
     myHouses.slider.SetValue(position)
   }
 }
-portToFriend.MyHousesPanelOnMouseWheel = myHousesPanelOnMouseWheel
+houseTravel.MyHousesPanelOnMouseWheel = myHousesPanelOnMouseWheel
 
 function myHousesAdjustSlider(this: void): undefined {
-  const myHouses = asMyHousesControlsView(portToFriend.controls.myHouses)
+  const myHouses = asMyHousesControlsView(houseTravel.controls.myHouses)
   let size =
-    25 * portToFriend.GetNumPurchasedHouses() +
+    25 * houseTravel.GetNumPurchasedHouses() +
     10 -
-    (portToFriend.config.size.height -
-      portToFriend.config.size.headerHeightOffset -
-      portToFriend.config.size.headerHeight -
-      portToFriend.config.size.gap -
+    (houseTravel.config.size.height -
+      houseTravel.config.size.headerHeightOffset -
+      houseTravel.config.size.headerHeight -
+      houseTravel.config.size.gap -
       40)
   if (size < 0) {
     size = 0
@@ -427,4 +427,4 @@ function myHousesAdjustSlider(this: void): undefined {
 
   myHouses.scrollPanel.SetSimpleAnchor(myHouses.scrollControl, 0, -slide)
 }
-portToFriend.MyHousesAdjustSlider = myHousesAdjustSlider
+houseTravel.MyHousesAdjustSlider = myHousesAdjustSlider

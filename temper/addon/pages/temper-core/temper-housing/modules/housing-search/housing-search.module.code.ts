@@ -5,7 +5,7 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { portToFriend } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
@@ -77,21 +77,21 @@ function asSearchResultBackdropList(value: unknown): SearchResultBackdropList {
   return value as SearchResultBackdropList
 }
 function getSearchResults(this: void): SearchResultControl[] {
-  return asSearchResultList(portToFriend.controls.searchResults)
+  return asSearchResultList(houseTravel.controls.searchResults)
 }
 function getSearchResultsBackdrop(this: void): SearchResultBackdrop[] {
-  return asSearchResultBackdropList(portToFriend.controls.searchResultsBackdrop)
+  return asSearchResultBackdropList(houseTravel.controls.searchResultsBackdrop)
 }
 
 function clearNameList(this: void): undefined {
-  portToFriend.addonState.names = []
+  houseTravel.addonState.names = []
 }
-portToFriend.ClearNameList = clearNameList
+houseTravel.ClearNameList = clearNameList
 
 function stringStartsWith(this: void, theString: string, startsWith: string): boolean {
   return string.sub(theString, 1, string.len(startsWith)) === startsWith
 }
-portToFriend.StringStartsWith = stringStartsWith
+houseTravel.StringStartsWith = stringStartsWith
 
 function searchEntryOnClicked(this: void, id: number): undefined {
   const searchResults = getSearchResults()
@@ -102,70 +102,70 @@ function searchEntryOnClicked(this: void, id: number): undefined {
     id < searchResults.length !== undefined &&
     entry !== undefined
   ) {
-    portToFriend.addonState.searchResultClicked = true
-    const house = asHouseControls(portToFriend.controls.house)
+    houseTravel.addonState.searchResultClicked = true
+    const house = asHouseControls(houseTravel.controls.house)
     house.editbox.SetText(entry.searchResult)
   }
 }
-portToFriend.SearchEntryOnClicked = searchEntryOnClicked
+houseTravel.SearchEntryOnClicked = searchEntryOnClicked
 
 function searchEntryOnMouseEnter(this: void, id: number): undefined {
   const backdrops = getSearchResultsBackdrop()
   const backdrop = backdrops[id]
   if (id !== undefined && id >= 0 && id < backdrops.length && backdrop !== undefined) {
     backdrop.SetCenterColor(
-      portToFriend.config.color.backDropLine.R,
-      portToFriend.config.color.backDropLine.G,
-      portToFriend.config.color.backDropLine.B,
-      portToFriend.config.color.backDropLine.A
+      houseTravel.config.color.backDropLine.R,
+      houseTravel.config.color.backDropLine.G,
+      houseTravel.config.color.backDropLine.B,
+      houseTravel.config.color.backDropLine.A
     )
   }
 }
-portToFriend.SearchEntryOnMouseEnter = searchEntryOnMouseEnter
+houseTravel.SearchEntryOnMouseEnter = searchEntryOnMouseEnter
 
 function searchEntryOnMouseExit(this: void, id: number): undefined {
   const backdrops = getSearchResultsBackdrop()
   const backdrop = backdrops[id]
   if (id !== undefined && id >= 0 && id < backdrops.length && backdrop !== undefined) {
     backdrop.SetCenterColor(
-      portToFriend.config.color.backDropLine.R,
-      portToFriend.config.color.backDropLine.G,
-      portToFriend.config.color.backDropLine.B,
+      houseTravel.config.color.backDropLine.R,
+      houseTravel.config.color.backDropLine.G,
+      houseTravel.config.color.backDropLine.B,
       0.0
     )
   }
 }
-portToFriend.SearchEntryOnMouseExit = searchEntryOnMouseExit
+houseTravel.SearchEntryOnMouseExit = searchEntryOnMouseExit
 
 function setSearchResults(this: void, names: string[] | undefined): string[] | undefined {
-  const house = asHouseControls(portToFriend.controls.house)
+  const house = asHouseControls(houseTravel.controls.house)
   if (names === undefined || names.length === 0) {
     house.searchBox.SetHidden(true)
     return
   }
-  if (portToFriend.addonState.searchResultClicked === true) {
+  if (houseTravel.addonState.searchResultClicked === true) {
     house.searchBox.SetHidden(true)
-    portToFriend.addonState.searchResultClicked = false
+    houseTravel.addonState.searchResultClicked = false
     return
   }
 
   house.searchBox.SetHidden(false)
   let height = 10
   for (let i = 1; i <= names.length; i += 1) {
-    height = height + portToFriend.config.search.height
+    height = height + houseTravel.config.search.height
   }
-  let dimensionWidth = portToFriend.config.search.width - 22
-  if (height > portToFriend.config.search.max * portToFriend.config.search.height + 10) {
-    height = portToFriend.config.search.max * portToFriend.config.search.height + 10
+  let dimensionWidth = houseTravel.config.search.width - 22
+  if (height > houseTravel.config.search.max * houseTravel.config.search.height + 10) {
+    height = houseTravel.config.search.max * houseTravel.config.search.height + 10
     house.searchBox.slider.SetHidden(false)
   } else {
     house.searchBox.slider.SetHidden(true)
-    dimensionWidth = portToFriend.config.search.width - 4
+    dimensionWidth = houseTravel.config.search.width - 4
   }
 
   const searchResults = getSearchResults()
   const backdrops = getSearchResultsBackdrop()
-  const color = portToFriend.config.color
+  const color = houseTravel.config.color
   for (let i = 0; i < names.length; i += 1) {
     const name = names[i] ?? ""
     let backdrop = backdrops[i]
@@ -176,14 +176,14 @@ function setSearchResults(this: void, names: string[] | undefined): string[] | u
       backdrops[i] = backdrop
     }
     backdrop.SetHidden(false)
-    backdrop.SetDimensions(dimensionWidth, portToFriend.config.search.height)
+    backdrop.SetDimensions(dimensionWidth, houseTravel.config.search.height)
     backdrop.ClearAnchors()
     backdrop.SetAnchor(
       TOPLEFT,
       house.searchBox.bodyControl,
       TOPLEFT,
       0,
-      portToFriend.config.search.height * i
+      houseTravel.config.search.height * i
     )
     backdrop.SetCenterColor(color.backDropLine.R, color.backDropLine.G, color.backDropLine.B, 0.0)
     backdrop.SetEdgeColor(color.backDropLine.R, color.backDropLine.G, color.backDropLine.B, 0.0, 0)
@@ -196,21 +196,21 @@ function setSearchResults(this: void, names: string[] | undefined): string[] | u
     }
     result.SetHidden(false)
     result.SetMouseEnabled(true)
-    result.SetDimensions(dimensionWidth, portToFriend.config.search.height)
+    result.SetDimensions(dimensionWidth, houseTravel.config.search.height)
     result.ClearAnchors()
     result.SetAnchor(
       TOPLEFT,
       house.searchBox.bodyControl,
       TOPLEFT,
       0,
-      portToFriend.config.search.height * i
+      houseTravel.config.search.height * i
     )
-    result.SetHandler("OnClicked", () => portToFriend.SearchEntryOnClicked(i))
-    result.SetHandler("OnMouseEnter", () => portToFriend.SearchEntryOnMouseEnter(i))
-    result.SetHandler("OnMouseExit", () => portToFriend.SearchEntryOnMouseExit(i))
+    result.SetHandler("OnClicked", () => houseTravel.SearchEntryOnClicked(i))
+    result.SetHandler("OnMouseEnter", () => houseTravel.SearchEntryOnMouseEnter(i))
+    result.SetHandler("OnMouseExit", () => houseTravel.SearchEntryOnMouseExit(i))
     result.SetText(name)
     result.searchResult = name
-    result.SetFont(portToFriend.config.fonts.header)
+    result.SetFont(houseTravel.config.fonts.header)
     result.SetNormalFontColor(color.default.R, color.default.G, color.default.B, 1.0)
     result.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     result.SetDrawLayer(3)
@@ -235,26 +235,26 @@ function setSearchResults(this: void, names: string[] | undefined): string[] | u
     }
   }
 
-  house.searchBox.SetDimensions(portToFriend.config.search.width, height)
+  house.searchBox.SetDimensions(houseTravel.config.search.width, height)
   house.searchBox.scrollControl.SetDimensions(dimensionWidth, height - 8)
   house.searchBox.bodyControl.SetDimensions(dimensionWidth, height - 8)
   house.searchBox.slider.SetDimensions(25, height)
   house.searchBox.slider.SetValue(0)
   house.searchBox.backdrop.SetDimensions(dimensionWidth, height)
 }
-portToFriend.SetSearchResults = setSearchResults
+houseTravel.SetSearchResults = setSearchResults
 
 function searchTextChanged(this: void): undefined {
-  const house = asHouseControls(portToFriend.controls.house)
+  const house = asHouseControls(houseTravel.controls.house)
   const searchTerm = house.editbox.GetText()
   let names: string[] | undefined
-  if (searchTerm !== undefined && string.len(searchTerm) >= portToFriend.config.search.minChars) {
-    names = portToFriend.SearchNames(searchTerm)
+  if (searchTerm !== undefined && string.len(searchTerm) >= houseTravel.config.search.minChars) {
+    names = houseTravel.SearchNames(searchTerm)
   }
-  portToFriend.addonState.searchResult = names
-  portToFriend.SetSearchResults(names)
+  houseTravel.addonState.searchResult = names
+  houseTravel.SetSearchResults(names)
 }
-portToFriend.SearchTextChanged = searchTextChanged
+houseTravel.SearchTextChanged = searchTextChanged
 
 type SparseNames = (string | undefined)[]
 function asSparseNames(value: unknown): SparseNames {
@@ -297,7 +297,7 @@ function sortPairs(this: void, names: Record<number, string> | undefined): strin
   }
   return names
 }
-portToFriend.SortPairs = sortPairs
+houseTravel.SortPairs = sortPairs
 
 function sortSearchNames(this: void, names: string[] | undefined): string[] | undefined {
   if (names !== undefined) {
@@ -321,41 +321,41 @@ function sortSearchNames(this: void, names: string[] | undefined): string[] | un
   }
   return undefined
 }
-portToFriend.SortSearchNames = sortSearchNames
+houseTravel.SortSearchNames = sortSearchNames
 
 function searchNames(this: void, name: string): string[] | undefined {
   const retNames: string[] = []
-  const names = portToFriend.addonState.names
+  const names = houseTravel.addonState.names
   if (names !== undefined && name !== undefined) {
     for (let i = 0; i < names.length; i += 1) {
       const candidate = names[i]
       if (
         candidate !== undefined &&
-        portToFriend.StringStartsWith(string.lower(candidate), string.lower(name))
+        houseTravel.StringStartsWith(string.lower(candidate), string.lower(name))
       ) {
         retNames.push(candidate)
       }
     }
   }
-  return portToFriend.SortSearchNames(retNames)
+  return houseTravel.SortSearchNames(retNames)
 }
-portToFriend.SearchNames = searchNames
+houseTravel.SearchNames = searchNames
 
 function addNameToNameList(this: void, name: string): undefined {
-  if (portToFriend.addonState.names !== undefined && name !== undefined) {
+  if (houseTravel.addonState.names !== undefined && name !== undefined) {
     let entryIdentified = false
-    for (let i = 0; i < portToFriend.addonState.names.length; i += 1) {
-      if (portToFriend.addonState.names[i] === name) {
+    for (let i = 0; i < houseTravel.addonState.names.length; i += 1) {
+      if (houseTravel.addonState.names[i] === name) {
         entryIdentified = true
         break
       }
     }
     if (entryIdentified === false) {
-      portToFriend.addonState.names.push(name)
+      houseTravel.addonState.names.push(name)
     }
   }
 }
-portToFriend.AddNameToNameList = addNameToNameList
+houseTravel.AddNameToNameList = addNameToNameList
 
 type UndefinedName = string
 function asUndefinedName(value: unknown): UndefinedName {
@@ -363,7 +363,7 @@ function asUndefinedName(value: unknown): UndefinedName {
 }
 
 function createGuildAndFriendList(this: void): undefined {
-  portToFriend.ClearNameList()
+  houseTravel.ClearNameList()
   for (let guildIndex = 1; guildIndex <= GetNumGuilds(); guildIndex += 1) {
     const guildId = GetGuildId(guildIndex)
     for (let memberId = 1; memberId <= GetNumGuildMembers(guildId); memberId += 1) {
@@ -374,8 +374,8 @@ function createGuildAndFriendList(this: void): undefined {
       if (charIndex !== undefined) {
         charName = string.sub(charName, 1, charIndex - 1)
       }
-      portToFriend.AddNameToNameList(charName)
-      portToFriend.AddNameToNameList(name)
+      houseTravel.AddNameToNameList(charName)
+      houseTravel.AddNameToNameList(name)
     }
   }
   for (let friendIndex = 1; friendIndex <= GetNumFriends(); friendIndex += 1) {
@@ -385,8 +385,8 @@ function createGuildAndFriendList(this: void): undefined {
     if (charIndex !== undefined) {
       characterName = string.sub(characterName, 1, charIndex - 1)
     }
-    portToFriend.AddNameToNameList(characterName)
-    portToFriend.AddNameToNameList(asUndefinedName(undefined))
+    houseTravel.AddNameToNameList(characterName)
+    houseTravel.AddNameToNameList(asUndefinedName(undefined))
   }
 }
-portToFriend.CreateGuildAndFriendList = createGuildAndFriendList
+houseTravel.CreateGuildAndFriendList = createGuildAndFriendList
