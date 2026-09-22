@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"game-mechanic-run.page-type.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"game-mechanic-run.page-type.ts","path":"story/game/mechanic-run/modules/run-paging/run-paging.module.code.ts"}
 {"propertySlug":"import","fileName":"game-mechanic-run.page-type.ts","path":"story/game/mechanic-run/modules/run-paging/run-paging.module.test.ts"}
+{"propertySlug":"import","fileName":"game-mechanic-run.page-type.ts","path":"story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"}
 {"propertySlug":"import","fileName":"game-mechanic-run.page-type.types.ts","path":"story/game/pages/harem-hotel/mechanic-runs/harem-hotel-roll-001.game-mechanic-run.ts"}
 {"propertySlug":"import","fileName":"game-mechanic-run.page-type.types.ts","path":"story/game/pages/harem-hotel/mechanic-runs/harem-hotel-roll-002.game-mechanic-run.ts"}
 {"propertySlug":"import","fileName":"game-mechanic-run.page-type.types.ts","path":"story/game/pages/harem-hotel/mechanic-runs/harem-hotel-roll-003.game-mechanic-run.ts"}

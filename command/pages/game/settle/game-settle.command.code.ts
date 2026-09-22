@@ -1,5 +1,3 @@
-import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
-import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
   type Landing,
   runMechanicalChange,
@@ -23,16 +21,21 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { gameSettle as page } from "akasha/command/pages/game/settle/game-settle.command.ts"
-import {
-  type Bonus,
-  lineOf,
-  type MechanicRun,
+import { foldedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { putting } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
+import type {
+  Bonus,
+  MechanicRun,
 } from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 import {
+  gameAt,
+  gameSlugIn,
   lastRunAt,
-  runsAt,
+  runsIn,
+  runsUnder,
   settledBy,
 } from "akasha/story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"
+import { pagedRun } from "akasha/story/game/mechanic-run/modules/run-paging/run-paging.module.code.ts"
 
 const NAMED = [
   gameArgument,
@@ -43,12 +46,10 @@ const NAMED = [
   bonusesArgument,
 ] as const
 
-const APPENDS = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
-
 const FIRST_TURN = 1
+const FIRST_RUN = 1
 const FROM = "from"
 const BY = "by"
-const BREAK = "\n"
 const TAB = "\t"
 
 export type Taken = {
@@ -156,7 +157,7 @@ async function settled(
 ): Promise<Answer> {
   const held = taken(argv, given.calledAs)
   if ("refused" in held) return refused(held.refused, INPUT)
-  const beside = runsAt(given.root, held.game)
+  const beside = gameAt(given.root, held.game)
   if (beside === null) return refused(`\`${held.game}\` names no game here`, DATA)
   const run = await settledBy({
     root: given.root,
@@ -170,9 +171,17 @@ async function settled(
     before: lastRunAt(given.root, held.game),
   })
   if ("refused" in run) return refused(run.refused, DATA)
+  const made = pagedRun({
+    gameSlug: gameSlugIn(held.game),
+    folder: runsUnder(beside),
+    run: run.answered,
+    at: runsIn(given.root, held.game).length + FIRST_RUN,
+  })
+  const folded = foldedFor(given.root, [made])
+  if ("refused" in folded) return refused(folded.refused, DATA)
   const landed = await landing(
     given.root,
-    [{ at: APPENDS, given: { at: beside, content: `${lineOf(run.answered)}${BREAK}` } }],
+    folded.puts.map(putting),
     messageFor(run.answered, held.game),
     { agentId: given.agentId, writer: given.writer, done }
   )

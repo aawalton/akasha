@@ -19,11 +19,11 @@ export const gameSettle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run is written to the game's rows before its numbers are answered.",
+      statement: "A run is written as a page of its own before its numbers are answered.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A mechanic that refuses writes no row.",
+      statement: "A mechanic that refuses writes no page.",
     },
     {
       decisionKind: "decision-kind/absence",

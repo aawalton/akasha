@@ -1,8 +1,12 @@
 import { readFileSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  slugsOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { game } from "akasha/story/game/game.page-type.ts"
 import {
   type Rolled,
   readingBy,
@@ -17,12 +21,14 @@ import {
   type MechanicRun,
 } from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 import { ranAt } from "akasha/story/game/mechanic/modules/mechanic-running/mechanic-running.module.code.ts"
+import { gameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.ts"
 
-const RUNS = "mechanic-runs"
-const JSONL = "jsonl"
+const RUN = "run"
+const WORKINGS = "workings"
+const JSON_HELD = "json"
 const UTF8 = "utf8"
-const BREAK = "\n"
 const LAST = -1
+const PARTED = "/"
 
 export type Asking = {
   readonly root: string
@@ -42,25 +48,42 @@ type Thrown =
   | { readonly answered: { readonly dice: Dice; readonly roll: Rolled } }
   | { readonly refused: string }
 
-export function runsAt(root: string, game: string): string | null {
-  const named = addressIn(game)
-  if (named.kind !== "qualified") return null
-  const listed = listedAt(root, named.pageTypeSlug, named.slug)[0]
+export function gameSlugIn(said: string): string {
+  const named = addressIn(said)
+  return named.kind === "qualified" ? named.slug : said
+}
+
+export function gameAt(root: string, said: string): string | null {
+  const listed = listedAt(root, game.slug, gameSlugIn(said))[0]
+  return listed === undefined ? null : listed.path
+}
+
+export function runsUnder(at: string): string {
+  return `${at.slice(0, at.lastIndexOf(PARTED))}${PARTED}${gameMechanicRun.pluralSlug}`
+}
+
+export function runsIn(root: string, said: string): readonly string[] {
+  const opening = `${gameSlugIn(said)}-${RUN}-`
+  return slugsOfType(root, gameMechanicRun.slug)
+    .filter((one) => one.startsWith(opening))
+    .toSorted()
+}
+
+export function workingsAt(root: string, slug: string): string | null {
+  const listed = listedAt(root, gameMechanicRun.slug, slug)[0]
   if (listed === undefined) return null
-  return besideAt(listed.path, RUNS, JSONL)
+  return besideAt(listed.path, WORKINGS, JSON_HELD)
 }
 
-export function lastLineIn(body: string): string | null {
-  const lines = body.split(BREAK).filter((one) => one.trim() !== "")
-  return lines.at(LAST) ?? null
-}
-
-export function lastRunAt(root: string, game: string): string | null {
-  const path = runsAt(root, game)
-  if (path === null) return null
-  const at = isAbsolute(path) ? path : join(root, path)
+export function lastRunAt(root: string, said: string): string | null {
+  const last = runsIn(root, said).at(LAST)
+  if (last === undefined) return null
+  const beside = workingsAt(root, last)
+  if (beside === null) return null
+  const at = isAbsolute(beside) ? beside : join(root, beside)
   if (statSync(at, { throwIfNoEntry: false }) === undefined) return null
-  return lastLineIn(readFileSync(at, UTF8))
+  const body = readFileSync(at, UTF8).trim()
+  return body === "" ? null : body
 }
 
 function thrownFrom(seed: string, said: string): Thrown {

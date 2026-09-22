@@ -14,11 +14,15 @@ export const mechanicSettling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seed is settled from the row before, before the roll is asked for.",
+      statement: "A seed is settled from the run before, before the roll is asked for.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Where no row comes before, the game's own name seeds the roll.",
+      statement: "The run before is the last run page a game has, read off the file beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where no run comes before, the game's own name seeds the roll.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,11 +34,11 @@ export const mechanicSettling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row holds the reading the mechanic saw, dice and bonuses and all.",
+      statement: "A run holds the reading the mechanic saw, dice and bonuses and all.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes a row or names a mechanic.",
+      statement: "Nothing here writes a run or names a mechanic.",
     },
   ],
 } as const satisfies Module

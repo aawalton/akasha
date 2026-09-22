@@ -1,6 +1,4 @@
 import { expect, test } from "bun:test"
-import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
-import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
@@ -24,9 +22,7 @@ const GAME = namedAs(game.slug, theTower.slug, null)
 
 const CHECK = namedAs(gameMechanic.slug, attributeCheck.slug, null)
 
-const APPENDS = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
-
-const BESIDE = `${theTower.slug}.${game.slug}.mechanic-runs.jsonl`
+const UNDER = `story/game/pages/${theTower.slug}/mechanic-runs/`
 
 const GIVEN: Given = {
   root: process.cwd(),
@@ -135,19 +131,20 @@ test("the commit says which turn was settled by which mechanic", () => {
   expect(messageFor(RAN, GAME)).toBe(`settle turn 87 of ${GAME} by ${CHECK}`)
 })
 
-test("a settled turn is written to the game's rows, and its numbers are answered", async () => {
+test("a settled turn becomes a page of its own, and its numbers are answered", async () => {
   const asked: Asking[] = []
   const answer = await gameSettle([...ARGV, "--dice", "1d20"], GIVEN, async (_root, held) => {
     asked.push(...held)
     return APPLIED
   })
   expect(answer.refusals).toEqual([])
-  const one = asked[0]
-  if (asked.length !== 1 || one === undefined || one.at !== APPENDS) {
-    throw new Error("one append and nothing else is asked for")
-  }
-  expect(one.given.at.endsWith(BESIDE)).toBe(true)
-  const row = JSON.parse(one.given.content) as MechanicRun
+  const paths = asked.map((one) => (one.given as { readonly at: string }).at)
+  expect(paths.every((one) => one.startsWith(UNDER))).toBe(true)
+  const beside = asked.find((one) =>
+    (one.given as { readonly at: string }).at.endsWith(".workings.json")
+  )
+  if (beside === undefined) throw new Error("the run itself is written beside its page")
+  const row = JSON.parse((beside.given as { readonly body: string }).body) as MechanicRun
   expect(row.turn).toBe(87)
   expect(row.mechanic).toBe(CHECK)
   expect(row.dice?.faces).toHaveLength(1)
@@ -156,7 +153,7 @@ test("a settled turn is written to the game's rows, and its numbers are answered
   expect(answer.report).toContain(`commit\t${APPLIED.commit}`)
 })
 
-test("a mechanic that refuses writes no row", async () => {
+test("a mechanic that refuses writes no page", async () => {
   const asked: Asking[] = []
   const argv = [...ARGV]
   argv[5] = namedAs(gameMechanic.slug, "nothing-is-filed-here", null)

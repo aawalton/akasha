@@ -5,9 +5,11 @@ import { gameMechanic } from "akasha/story/game/mechanic/game-mechanic.page-type
 import { lineOf } from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 import {
   type Asking,
-  lastLineIn,
+  gameAt,
+  gameSlugIn,
   lastRunAt,
-  runsAt,
+  runsIn,
+  runsUnder,
   settledBy,
 } from "akasha/story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"
 import { attributeCheck } from "akasha/story/game/mechanic/pages/attribute-check/attribute-check.game-mechanic.ts"
@@ -23,7 +25,7 @@ const CHECK = namedAs(gameMechanic.slug, attributeCheck.slug, null)
 
 const NO_MECHANIC = namedAs(gameMechanic.slug, "nothing-is-filed-here", null)
 
-const BESIDE = `${theTower.slug}.${game.slug}.mechanic-runs.jsonl`
+const BESIDE = `${theTower.slug}.${game.slug}.ts`
 
 const ASKING: Asking = {
   root: ROOT,
@@ -37,20 +39,35 @@ const ASKING: Asking = {
   before: null,
 }
 
-test("a game's runs sit beside that game's page", () => {
-  expect(runsAt(ROOT, GAME)?.endsWith(BESIDE)).toBe(true)
-  expect(runsAt(ROOT, NOWHERE)).toBe(null)
-  expect(runsAt(ROOT, theTower.slug)).toBe(null)
+test("a game is found by the address or the slug that names it", () => {
+  expect(gameSlugIn(GAME)).toBe(theTower.slug)
+  expect(gameSlugIn(theTower.slug)).toBe(theTower.slug)
+  expect(gameAt(ROOT, GAME)?.endsWith(BESIDE)).toBe(true)
+  expect(gameAt(ROOT, NOWHERE)).toBe(null)
 })
 
-test("the last row is the last line holding anything", () => {
-  expect(lastLineIn('{"a":1}\n{"b":2}\n')).toBe('{"b":2}')
-  expect(lastLineIn('{"a":1}\n\n  \n')).toBe('{"a":1}')
-  expect(lastLineIn("")).toBe(null)
+test("a game's runs sit in a folder beside that game's page", () => {
+  const at = gameAt(ROOT, GAME)
+  if (at === null) throw new Error("the tower is a page here")
+  expect(runsUnder(at).endsWith(`${theTower.slug}/mechanic-runs`)).toBe(true)
 })
 
-test("a game that is no page has no row before", () => {
+test("the runs a game has are its own, in the order they were made", () => {
+  const runs = runsIn(ROOT, GAME)
+  expect(runs.length).toBeGreaterThan(0)
+  expect(runs.every((one) => one.startsWith(`${theTower.slug}-run-`))).toBe(true)
+  expect(runs).toEqual([...runs].sort())
+  expect(runsIn(ROOT, NOWHERE)).toEqual([])
+})
+
+test("a game that is no page has no run before", () => {
   expect(lastRunAt(ROOT, NOWHERE)).toBe(null)
+})
+
+test("the run before is read off the file beside that run's page", () => {
+  const before = lastRunAt(ROOT, GAME)
+  if (before === null) throw new Error("the tower has runs")
+  expect(JSON.parse(before)).toHaveProperty("mechanic")
 })
 
 test("the numbers a turn settles come from the mechanic the game names", async () => {
