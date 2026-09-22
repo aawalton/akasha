@@ -211,7 +211,7 @@ asHooksCountView(lib.customTooltipHooks).hooksCount = customAddonTooltipControlH
 function onPlayerActivatedTooltips(this: void): undefined {
   EM.UnregisterForEvent(MAJOR + "_Tooltips", EVENT_PLAYER_ACTIVATED)
 
-  STATE.setPreviewTooltipSV = asStrRecordOpt(lib.getLibSetsSetPreviewTooltipSavedVariables())
+  STATE.setPreviewTooltipSV = asStrRecordOpt(lib.getSetsSetPreviewTooltipSavedVariables())
   if (lib.svData === undefined || STATE.setPreviewTooltipSV === undefined) {
     return
   }
@@ -223,8 +223,8 @@ function onPlayerActivatedTooltips(this: void): undefined {
     return
   }
 
-  STATE.useCustomTooltip = lib.IsLibSetsCustomTooltipEnabled()
-  lib.IsLibSetsTooltipEnabled()
+  STATE.useCustomTooltip = lib.IsSetsCustomTooltipEnabled()
+  lib.IsSetsTooltipEnabled()
 
   if (!lib.IsConsole && !IsInGamepadPreferredMode()) {
     if (!MENU_STATE.lam) {

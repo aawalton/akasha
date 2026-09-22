@@ -48,7 +48,7 @@ function lamToggle(
     getFunc: (): unknown => tt[key],
     setFunc: (value: unknown): undefined => {
       asStrRecord(sv["tooltipModifications"])[key] = value
-      lib.IsLibSetsTooltipEnabled()
+      lib.IsSetsTooltipEnabled()
     },
     default: dtt[key],
     disabled,
@@ -81,7 +81,7 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
   const sv = settings
 
   function tooltipLAMDisabledFunc(this: void): boolean {
-    return !settings["modifyTooltips"] || lib.IsLibSetsCustomTooltipEnabled()
+    return !settings["modifyTooltips"] || lib.IsSetsCustomTooltipEnabled()
   }
 
   const optionsTable: unknown[] = [
@@ -146,8 +146,8 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
       getFunc: (): unknown => settings["modifyTooltips"],
       setFunc: (value: unknown): undefined => {
         sv["modifyTooltips"] = value
-        STATE.useCustomTooltip = lib.IsLibSetsCustomTooltipEnabled()
-        lib.IsLibSetsTooltipEnabled()
+        STATE.useCustomTooltip = lib.IsSetsCustomTooltipEnabled()
+        lib.IsSetsTooltipEnabled()
       },
       default: defaultSettings["modifyTooltips"],
       disabled: (): boolean => false,
@@ -161,7 +161,7 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
       getFunc: (): unknown => tt["tooltipTextures"],
       setFunc: (value: unknown): undefined => {
         asStrRecord(sv["tooltipModifications"])["tooltipTextures"] = value
-        lib.IsLibSetsTooltipEnabled()
+        lib.IsSetsTooltipEnabled()
       },
       default: dtt["tooltipTextures"],
       disabled: tooltipLAMDisabledFunc,
@@ -211,7 +211,7 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
       getFunc: (): unknown => tt["addBossName"],
       setFunc: (value: unknown): undefined => {
         asStrRecord(sv["tooltipModifications"])["addBossName"] = value
-        lib.IsLibSetsTooltipEnabled()
+        lib.IsSetsTooltipEnabled()
       },
       default: dtt["addBossName"],
       disabled: tooltipLAMDisabledFunc,
@@ -226,7 +226,7 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
         const tmods = asStrRecord(sv["tooltipModifications"])
         tmods["addNeededTraits"] = value
         tmods["addReconstructionCost"] = value
-        lib.IsLibSetsTooltipEnabled()
+        lib.IsSetsTooltipEnabled()
       },
       default: dtt["addNeededTraits"],
       disabled: tooltipLAMDisabledFunc,
@@ -262,14 +262,14 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
       getFunc: (): unknown => settings["useCustomTooltipPattern"],
       setFunc: (value: unknown): undefined => {
         let v = asString(value)
-        STATE.useCustomTooltip = lib.IsLibSetsCustomTooltipEnabled(v)
+        STATE.useCustomTooltip = lib.IsSetsCustomTooltipEnabled(v)
         if (!STATE.useCustomTooltip) {
           v = ""
           settings["useCustomTooltipPattern"] = v
         } else {
           settings["useCustomTooltipPattern"] = v
         }
-        lib.IsLibSetsTooltipEnabled()
+        lib.IsSetsTooltipEnabled()
       },
       default: defaultSettings["useCustomTooltipPattern"],
       reference: "TemperCraftingSets_LAM_EditBox_CustomTooltipPattern",

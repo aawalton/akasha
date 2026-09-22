@@ -14,12 +14,12 @@ export function asNumToNumRecord(value: unknown): NumToNumRecord {
   return value as NumToNumRecord
 }
 
-export type NoSetIdSetsElement = LibSetsApi["noSetIdSets"][number]
+export type NoSetIdSetsElement = SetsApi["noSetIdSets"][number]
 export function asNoSetIdSetsElement(value: unknown): NoSetIdSetsElement {
   return value as NoSetIdSetsElement
 }
 
-export type SetInfoElement = LibSetsApi["setInfo"][number]
+export type SetInfoElement = SetsApi["setInfo"][number]
 export function asSetInfoElement(value: unknown): SetInfoElement {
   return value as SetInfoElement
 }

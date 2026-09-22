@@ -1,4 +1,4 @@
-interface LibSetsApi {
+interface SetsApi {
   name: string
   prefix: string
   version: number
@@ -18,7 +18,7 @@ interface LibSetsApi {
   nonExistingSetIdsAtCurrentApiVersion: { [setId: number]: boolean }
 }
 
-interface LibSetsApi {
+interface SetsApi {
   openMapOfZoneId: (
     this: void,
     zoneId: number | undefined,
@@ -50,7 +50,7 @@ interface LibSetsApi {
   IsDungeonZoneIdTrial: (this: void, zoneId: number | undefined) => boolean | undefined
 }
 
-interface LibSetsApi {
+interface SetsApi {
   IsAPerfectedOrNonPerfectedSetId: (this: void, setId: number) => boolean
   IsPerfectedSet: (this: void, setId: number | undefined) => boolean | undefined
   IsNonPerfectedSet: (this: void, setId: number | undefined) => boolean | undefined
@@ -97,7 +97,7 @@ interface LibSetsApi {
   ) => boolean | undefined
 }
 
-interface LibSetsApi {
+interface SetsApi {
   IsArmorTypeSet: (
     this: void,
     setId: number | undefined,
@@ -124,7 +124,7 @@ interface LibSetsApi {
   GetAllWeaponTypeSets: (this: void, weaponType: number | undefined) => unknown
   GetAllEquipTypeSets: (this: void, equipType: number | undefined) => unknown
 }
-interface LibSetsApi {
+interface SetsApi {
   GetWayshrineIds: (
     this: void,
     setId: number | undefined,
@@ -150,7 +150,7 @@ interface LibSetsApi {
   GetAllSetTypes: (this: void) => unknown
 }
 
-interface LibSetsApi {
+interface SetsApi {
   GetDropMechanicName: (
     this: void,
     libSetsDropMechanicId: number | undefined,
@@ -181,7 +181,7 @@ interface LibSetsApi {
   GetAllSetItemIds: (this: void) => unknown
 }
 
-interface LibSetsApi {
+interface SetsApi {
   GetSetItemId: (
     this: void,
     setId: number | undefined,
@@ -284,7 +284,7 @@ interface LibSetsApi {
       )[]
     | undefined
 }
-interface LibSetsApi {
+interface SetsApi {
   customTooltipHooks: {
     needed: { [ctrlName: string]: unknown }
     hooked: { [ctrlName: string]: unknown }
@@ -387,7 +387,7 @@ interface LibSetsApi {
 
   classData: SetsClassData
 }
-interface LibSetsApi {
+interface SetsApi {
   setInfo: { [setId: number]: { [key: string]: unknown } }
   blacklistedSetIds: { [setId: number]: boolean }
   specialBonusSets: { [setId: number]: unknown }
@@ -440,7 +440,7 @@ interface LibSetsApi {
   svData?: { [key: string]: unknown }
   svDebugData?: { [key: string]: unknown }
   LoadSavedVariables: (this: void) => void
-  getLibSetsSetPreviewTooltipSavedVariables: (this: void) => unknown
+  getSetsSetPreviewTooltipSavedVariables: (this: void) => unknown
 
   tooltipSetDataWithoutItemIdsCached: { [setId: number]: unknown }
   CachedSetItemIdsTable: { [setId: number]: { [itemId: number]: number } }
@@ -530,7 +530,7 @@ interface LibSetsApi {
   IsPublicDungeonZoneId: (this: void, zoneId: number | undefined) => boolean
   CreatePreviewTooltipAndShow?: (this: void, ...args: unknown[]) => unknown
 }
-interface LibSetsApi {
+interface SetsApi {
   itemSetCollectionBookMoreOptionsButton?: SetsMoreOptionsButton
 
   currentAPIVersion: number
@@ -543,7 +543,7 @@ interface LibSetsApi {
   ) => boolean | undefined
 }
 
-interface LibSetsApi {
+interface SetsApi {
   DebugGetWayshrineInfo: (this: void) => { [nodeId: number]: string } | undefined
   DebugResetSavedVariables: (this: void, noReloadInfo?: boolean, onlyNames?: boolean) => void
   DebugCompressSetItemIdsNow: (
@@ -593,16 +593,16 @@ interface LibSetsApi {
   ) => void
 }
 
-interface LibSetsApi {
+interface SetsApi {
   CopyDialog: SetsCopyDialog
 }
 
-interface LibSetsApi {
+interface SetsApi {
   commandsLsp?: { [langKey: string]: LibSlashCommanderCommand }
   buildLSCSetSearchAutoComplete: (this: void) => void
 }
 
-interface LibSetsApi {
+interface SetsApi {
   buildSetTypeInfo: (
     this: void,
     setData: { setType?: number; setId?: number; classId?: number; [key: string]: unknown },
@@ -647,10 +647,10 @@ interface LibSetsApi {
   ) => number | string | undefined
 }
 
-interface LibSetsApi {
+interface SetsApi {
   GetDropMechanicTexture: (this: void, dropMechanicId: number | undefined) => string | undefined
-  IsLibSetsCustomTooltipEnabled: (this: void, value?: string) => boolean
-  IsLibSetsTooltipEnabled: (this: void) => void
+  IsSetsCustomTooltipEnabled: (this: void, value?: string) => boolean
+  IsSetsTooltipEnabled: (this: void) => void
   HookTooltipControls: (
     this: void,
     onlyAddonAdded?: boolean,

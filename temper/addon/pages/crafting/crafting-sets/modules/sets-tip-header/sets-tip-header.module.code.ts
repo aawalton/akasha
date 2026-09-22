@@ -178,7 +178,7 @@ function isCustomTooltipEnabled(this: void, value?: string): boolean {
   }
   return false
 }
-lib.IsLibSetsCustomTooltipEnabled = isCustomTooltipEnabled
+lib.IsSetsCustomTooltipEnabled = isCustomTooltipEnabled
 
 function isLibSetsTooltipEnabled(this: void): undefined {
   const tooltipSV = STATE.tooltipSV
@@ -213,7 +213,7 @@ function isLibSetsTooltipEnabled(this: void): undefined {
         STATE.addReconstructionCost === true ||
         STATE.addFavorites === true))
 }
-lib.IsLibSetsTooltipEnabled = isLibSetsTooltipEnabled
+lib.IsSetsTooltipEnabled = isLibSetsTooltipEnabled
 
 const slots = asTyped<{ [slot: string]: unknown }>(lib)
 slots["_getLibSetsTooltipSavedVariables"] = getLibSetsTooltipSavedVariables

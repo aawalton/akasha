@@ -34,14 +34,14 @@ import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaratio
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
-lib.setDataPreloaded = asTyped<LibSetsApi["setDataPreloaded"]>(SET_DATA_PRELOADED)
+lib.setDataPreloaded = asTyped<SetsApi["setDataPreloaded"]>(SET_DATA_PRELOADED)
 lib.zoneIdsOfNewAPIVersionOnly = [...ZONE_IDS_OF_NEWER_API_VERSION]
 
-lib.blacklistedSetIds = asTyped<LibSetsApi["blacklistedSetIds"]>(BLACKLISTED_SET_IDS)
-lib.specialBonusSets = asTyped<LibSetsApi["specialBonusSets"]>(SPECIAL_BONUS_SETS)
+lib.blacklistedSetIds = asTyped<SetsApi["blacklistedSetIds"]>(BLACKLISTED_SET_IDS)
+lib.specialBonusSets = asTyped<SetsApi["specialBonusSets"]>(SPECIAL_BONUS_SETS)
 lib.setsOfNewerAPIVersion = [...SETS_OF_NEWER_API_VERSION]
-lib.setInfo = asTyped<LibSetsApi["setInfo"]>(SET_INFO)
-lib.noSetIdSets = asTyped<LibSetsApi["noSetIdSets"]>(NO_SET_ID_SETS)
+lib.setInfo = asTyped<SetsApi["setInfo"]>(SET_INFO)
+lib.noSetIdSets = asTyped<SetsApi["noSetIdSets"]>(NO_SET_ID_SETS)
 
 const isPTSAPIVersionLive = lib.checkIfPTSAPIVersionIsLive()
 

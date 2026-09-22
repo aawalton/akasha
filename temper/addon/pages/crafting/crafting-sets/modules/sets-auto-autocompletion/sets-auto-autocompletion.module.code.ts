@@ -30,7 +30,7 @@ const SUPPORTED_LANGUAGES_INDEX = lib.supportedLanguagesIndex
 let cachedSetNames: { [setId: number]: { [lang: string]: unknown } } | undefined
 let setPreviewTooltipSV: { [key: string]: unknown } | undefined
 
-const getLibSetsSetPreviewTooltipSavedVariables = lib.getLibSetsSetPreviewTooltipSavedVariables
+const getSetsSetPreviewTooltipSavedVariables = lib.getSetsSetPreviewTooltipSavedVariables
 
 function getLibSlashCommander(this: void): LibSlashCommanderLib | undefined {
   const handle = lib.libSlashCommander
@@ -210,7 +210,7 @@ function buildLSCSetSearchAutoComplete(this: void): undefined {
     return
   }
 
-  setPreviewTooltipSV = asStrRecordOpt(getLibSetsSetPreviewTooltipSavedVariables())
+  setPreviewTooltipSV = asStrRecordOpt(getSetsSetPreviewTooltipSavedVariables())
   if (lib.svData === undefined || setPreviewTooltipSV === undefined) {
     return
   }

@@ -177,10 +177,10 @@ function loadSavedVariables(this: void): undefined {
 }
 lib.LoadSavedVariables = loadSavedVariables
 
-function getLibSetsSetPreviewTooltipSavedVariables(this: void): unknown {
+function getSetsSetPreviewTooltipSavedVariables(this: void): unknown {
   if (lib.svData === undefined) {
     return undefined
   }
   return asTyped<{ [k: string]: unknown }>(lib.svData)["setPreviewTooltips"]
 }
-lib.getLibSetsSetPreviewTooltipSavedVariables = getLibSetsSetPreviewTooltipSavedVariables
+lib.getSetsSetPreviewTooltipSavedVariables = getSetsSetPreviewTooltipSavedVariables
