@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-settings/fco-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-ui/fco-ui.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-guild-invites/quiet-guild-invites.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-box-create/shifter-box-create.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/addon-keybinds-list-hooks/addon-keybinds-list-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-search-box/keybinder-search-box.module.code.ts"}
@@ -98,7 +99,6 @@
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-set-data-text-custom/lib-sets-tip-set-data-text-custom.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-box-create/shifter-box-create.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-map-filters/map-pins-map-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}

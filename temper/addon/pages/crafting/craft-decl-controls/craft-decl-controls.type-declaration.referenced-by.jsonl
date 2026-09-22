@@ -51,6 +51,8 @@
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-functions/fco-functions.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-guild-history/fco-guild-history.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-utils/fco-utils.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-casts/shifter-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-types/shifter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-lock-icon/inventory-tooltip-lock-icon.module.code.ts"}
@@ -65,8 +67,6 @@
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-item/submenu-item.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-rows/histoire-status-window-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-status-window-shared/histoire-status-window-shared.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-casts/shifter-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}

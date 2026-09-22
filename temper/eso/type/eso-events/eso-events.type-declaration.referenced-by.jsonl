@@ -50,6 +50,8 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-lua-errors/quiet-lua-errors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-print/quiet-print.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-world/quiet-world.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-auto-maintenance/inventory-auto-maintenance.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-equipment-lock-overlay/inventory-equipment-lock-overlay.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts"}
@@ -93,9 +95,6 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-combobox-options/scrollable-menu-combobox-options.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-loaded/lib-sets-core-lifecycle-loaded.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-hooks/lib-sets-tip-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-public-api/shifter-public-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-initialize/destinations-pins-initialize.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-language/destinations-pins-language.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"}

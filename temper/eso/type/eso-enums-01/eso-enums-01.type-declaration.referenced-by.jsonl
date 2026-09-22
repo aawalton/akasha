@@ -56,6 +56,7 @@
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-chat/fco-chat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-auto-maintenance-engine/inventory-auto-maintenance-engine.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}
@@ -93,7 +94,6 @@
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-all-classdata/lib-sets-const-all-classdata.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-alliance-colors/map-pins-alliance-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-item-events/map-pins-item-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-01.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-state/minimap-state.module.code.ts"}

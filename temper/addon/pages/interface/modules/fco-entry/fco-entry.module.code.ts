@@ -58,9 +58,9 @@ import {
 import { STATE } from "akasha/temper/addon/pages/interface/modules/fco-state/fco-state.module.code.ts"
 import { tooltipChanges } from "akasha/temper/addon/pages/interface/modules/fco-tooltips/fco-tooltips.module.code.ts"
 import { uiChanges } from "akasha/temper/addon/pages/interface/modules/fco-ui/fco-ui.module.code.ts"
+import { shifterBox as SHIFTER_BOX } from "akasha/temper/addon/pages/interface/modules/shifter-public-api/shifter-public-api.module.code.ts"
 import "akasha/temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-shifter-box/lib-shifter-box.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
@@ -206,7 +206,7 @@ export function initFcoChangeStuff(this: void): undefined {
   getSettings()
   noEnlightenedSound()
 
-  STATE.LSB = LibShifterBox
+  STATE.LSB = SHIFTER_BOX
   STATE.LAM = LibAddonMenu2
   buildAddonMenu()
 

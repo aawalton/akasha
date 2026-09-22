@@ -7,9 +7,10 @@ export const temperAddonInterface = {
   definition: "the add-on holding the interface tweaks that no other add-on has a home for",
 
   addonManifest: "json",
+  addonBinFolder: true,
   bundleEntry: "module/interface-entry",
   bindings: "xml",
-  interfaces: ["eso-interface/fcocs-virtuals"],
+  interfaces: ["eso-interface/fcocs-virtuals", "eso-interface/shifter-box-template"],
   parts: [
     "eso-interface/fcocs-virtuals",
     "module/assistant-bindings",
@@ -111,6 +112,25 @@ export const temperAddonInterface = {
     "type-declaration/interface-global-declarations",
     "type-declaration/quiet-camera-keybind-declarations",
     "module/fco-mail-settings-menu",
+    "module/shifter-box-class",
+    "module/shifter-box-create",
+    "module/shifter-box-cursor-label",
+    "module/shifter-casts",
+    "module/shifter-constants",
+    "module/shifter-drag-helpers",
+    "module/shifter-helpers",
+    "module/shifter-lib-api",
+    "module/shifter-list-class",
+    "module/shifter-list-methods-drag",
+    "module/shifter-list-methods-entries",
+    "module/shifter-list-methods-rows",
+    "module/shifter-list-ops",
+    "module/shifter-public-api",
+    "module/shifter-search-header",
+    "module/shifter-state",
+    "module/shifter-types",
+    "module/shifter-validation",
+    "eso-interface/shifter-box-template",
   ],
   decisions: [
     {
@@ -120,6 +140,34 @@ export const temperAddonInterface = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A keybind is named after the assistant the player has unlocked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shifter box is keyed by the addon name together with the box name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry is held by exactly one of the two lists.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry moves to the other list on a double click.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A dragged entry lands in the list the cursor is over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The search header is hidden until the caller asks for a search box.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The shifter box is reached by import rather than through a global.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The arrow textures the shifter box draws are shipped under this add-on.",
     },
   ],
 } as const satisfies TemperAddon

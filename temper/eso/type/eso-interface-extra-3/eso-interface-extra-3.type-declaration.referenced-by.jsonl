@@ -26,6 +26,8 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-stable/fco-stable.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-camera/quiet-camera.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-addon-list/addon-menu-addon-list.module.code.ts"}
@@ -43,8 +45,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-lifecycle-ui-buttons/lib-sets-core-lifecycle-ui-buttons.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-item-link/lib-sets-tip-item-link.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-casts/minimap-casts.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-3.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

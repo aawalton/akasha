@@ -26,6 +26,9 @@
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-tabs/housing-tabs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-window-controls/housing-window-controls.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-mail-data/fco-mail-data.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-casts/shifter-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-search-header/shifter-search-header.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-types/shifter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts"}
@@ -38,9 +41,6 @@
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-editbox/addon-menu-widget-editbox.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-slider/addon-menu-widget-slider.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-casts/shifter-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-search-header/shifter-search-header.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-addon-manager/selector-addon-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-objects-01.type-declaration.d.ts","path":"temper/addon/pages/trading/modules/trading-browse-window/trading-browse-window.module.code.ts"}

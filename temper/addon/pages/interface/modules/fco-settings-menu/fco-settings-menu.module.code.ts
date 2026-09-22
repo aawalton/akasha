@@ -2,7 +2,7 @@ import {
   noEnlightenedSound,
   noShopAdvertisement,
 } from "akasha/temper/addon/pages/interface/modules/fco-after-login/fco-after-login.module.code.ts"
-import { updateExcludedMountIdsLibShifterBox } from "akasha/temper/addon/pages/interface/modules/fco-collectibles/fco-collectibles.module.code.ts"
+import { refreshExcludedMountIdsShifterBox } from "akasha/temper/addon/pages/interface/modules/fco-collectibles/fco-collectibles.module.code.ts"
 import {
   buildActionBarsControls,
   type PreventEndlessLoopHolder,
@@ -209,7 +209,7 @@ export function buildAddonMenu(this: void): undefined {
       IS_FIRST_OPEN = false
       return
     }
-    updateExcludedMountIdsLibShifterBox(FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT)
+    refreshExcludedMountIdsShifterBox(FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT)
   }
   CALLBACK_MANAGER.RegisterCallback("LAM-PanelOpened", lamPanelOpenedCallbackFunc)
 

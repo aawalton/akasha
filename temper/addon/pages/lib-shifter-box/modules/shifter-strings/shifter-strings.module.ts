@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const shifterStrings = {
-  id: "01a06187-3646-7b53-b688-117bee7da934",
-  type: "page-type/module",
-  slug: "shifter-strings",
-  definition: "the wording the search header and the tooltips use",
-  code: "ts",
-} as const satisfies Module

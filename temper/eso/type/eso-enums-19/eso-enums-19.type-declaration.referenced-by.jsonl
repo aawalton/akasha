@@ -37,6 +37,9 @@
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-panel-action-bars/fco-panel-action-bars.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-skills/fco-skills.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-constants/shifter-constants.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-list-methods-rows/shifter-list-methods-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bank-profile/inventory-bank-profile.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
@@ -84,9 +87,6 @@
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-scan-data/lib-sets-debug-debug-scan-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-keyboard-init/lib-sets-search-ui-keyboard-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-keyboard-search/lib-sets-search-ui-keyboard-search.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-constants/shifter-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-list-methods-rows/shifter-list-methods-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-unknown-pois/destinations-pins-unknown-pois.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/minimap-init/minimap-init.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-ui-layout/selector-ui-layout.module.code.ts"}

@@ -3,9 +3,13 @@ import {
   asStringRecord,
 } from "akasha/temper/addon/pages/interface/modules/fco-casts/fco-casts.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/interface/modules/fco-state/fco-state.module.code.ts"
+import { shifterBox as SHIFTER_BOX } from "akasha/temper/addon/pages/interface/modules/shifter-public-api/shifter-public-api.module.code.ts"
+import type {
+  ShifterBox,
+  ShifterBoxCustomSettings,
+} from "akasha/temper/addon/pages/interface/modules/shifter-types/shifter-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-shifter-box/lib-shifter-box.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -24,7 +28,7 @@ export const DISABLE_SOUNDS_SHIFTER_BOX_CONTROL: { current: ShifterBox | undefin
 let SFX_SOUND_MUTED = false
 const SOUND_VOLUMES_BEFORE: Record<number, Record<number, string>> = {}
 
-const DISABLE_SOUNDS_SHIFTER_BOX_CUSTOM_SETTINGS: LibShifterBoxCustomSettings = {
+const DISABLE_SOUNDS_SHIFTER_BOX_CUSTOM_SETTINGS: ShifterBoxCustomSettings = {
   leftList: {
     title: "Available sounds",
   },
@@ -95,7 +99,7 @@ function setSoundsDisabledState(this: void): [Record<string, string>, Record<str
   return [leftListSoundsWithoutDisabledOnes, disabledSoundsFromSV]
 }
 
-export function updateDisableSoundsLibShifterBoxEntries(
+export function updateDisableSoundsShifterBoxEntries(
   this: void,
   shifterBox: ShifterBox | undefined
 ): undefined {
@@ -173,7 +177,7 @@ function myShifterBoxEventEntryHighlightedCallbackFunction(
   }
 }
 
-function updateDisableSoundsLibShifterBox(this: void, parentCtrl: Control | undefined): undefined {
+function updateDisableSoundsShifterBox(this: void, parentCtrl: Control | undefined): undefined {
   const disableSoundsShifterBox = DISABLE_SOUNDS_SHIFTER_BOX_CONTROL.current
   if (disableSoundsShifterBox === undefined || parentCtrl === undefined) {
     return
@@ -186,21 +190,21 @@ function updateDisableSoundsLibShifterBox(this: void, parentCtrl: Control | unde
     DISABLE_SOUNDS_SHIFTER_BOX_STYLE.height
   )
 
-  updateDisableSoundsLibShifterBoxEntries(disableSoundsShifterBox)
+  updateDisableSoundsShifterBoxEntries(disableSoundsShifterBox)
 
-  updateDisabledSoundsLibShifterBoxState(parentCtrl, disableSoundsShifterBox)
+  updateDisabledSoundsShifterBoxState(parentCtrl, disableSoundsShifterBox)
 
   disableSoundsShifterBox.RegisterCallback(
-    LibShifterBox.EVENT_ENTRY_MOVED,
+    SHIFTER_BOX.EVENT_ENTRY_MOVED,
     myShifterBoxEventEntryMovedCallbackFunction
   )
   disableSoundsShifterBox.RegisterCallback(
-    LibShifterBox.EVENT_ENTRY_HIGHLIGHTED,
+    SHIFTER_BOX.EVENT_ENTRY_HIGHLIGHTED,
     myShifterBoxEventEntryHighlightedCallbackFunction
   )
 }
 
-export function updateDisabledSoundsLibShifterBoxState(
+export function updateDisabledSoundsShifterBoxState(
   this: void,
   parentCtrl: Control | undefined,
   disableSoundsShifterBox?: ShifterBox | undefined
@@ -216,31 +220,31 @@ export function updateDisabledSoundsLibShifterBoxState(
   box.SetEnabled(isDisableSoundLSBEnabled)
 }
 
-function buildSoundsLibShifterBox(this: void, parentCtrl: Control | undefined): undefined {
+function buildSoundsShifterBox(this: void, parentCtrl: Control | undefined): undefined {
   if (parentCtrl === undefined) {
     return
   }
   const addonName = STATE.addonVars.addonName
 
-  STATE.LSB = LibShifterBox
-  const disableSoundsShifterBox = LibShifterBox(
+  STATE.LSB = SHIFTER_BOX
+  const disableSoundsShifterBox = SHIFTER_BOX(
     addonName,
     "FCOCHANGESTUFF_LAM_CUSTOM_SOUNDS_DISABLE_PARENT_LSB",
     parentCtrl,
     DISABLE_SOUNDS_SHIFTER_BOX_CUSTOM_SETTINGS
   )
   DISABLE_SOUNDS_SHIFTER_BOX_CONTROL.current = disableSoundsShifterBox
-  updateDisableSoundsLibShifterBox(parentCtrl)
+  updateDisableSoundsShifterBox(parentCtrl)
 }
 
-export function updateSoundsLibShifterBox(this: void, parentCtrl: Control | undefined): undefined {
+export function refreshSoundsShifterBox(this: void, parentCtrl: Control | undefined): undefined {
   if (parentCtrl === undefined) {
     return
   }
   if (DISABLE_SOUNDS_SHIFTER_BOX_CONTROL.current === undefined) {
-    buildSoundsLibShifterBox(parentCtrl)
+    buildSoundsShifterBox(parentCtrl)
   } else {
-    updateDisableSoundsLibShifterBox(parentCtrl)
+    updateDisableSoundsShifterBox(parentCtrl)
   }
 }
 

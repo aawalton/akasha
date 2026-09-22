@@ -55,6 +55,11 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/housing/modules/housing-tabs/housing-tabs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-bar/hud-addon-bar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-box-cursor-label/shifter-box-cursor-label.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-casts/shifter-casts.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-constants/shifter-constants.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-list-methods-entries/shifter-list-methods-entries.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-types/shifter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
@@ -83,11 +88,6 @@
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-interaction/scrollable-menu-dropdown-class-interaction.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-class-show/scrollable-menu-dropdown-class-show.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-dropdown-header/scrollable-menu-dropdown-header.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-box-cursor-label/shifter-box-cursor-label.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-casts/shifter-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-constants/shifter-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-list-methods-entries/shifter-list-methods-entries.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-types/shifter-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-hooks/destinations-pins-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-interface-extra-4.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}

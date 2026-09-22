@@ -66,6 +66,7 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-map/fco-map.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-overall/fco-overall.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-dialogs/quiet-dialogs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-data/inventory-browser-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
@@ -110,7 +111,6 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-search-ui-list-build/lib-sets-search-ui-list-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-drop-mechanic-collect/lib-sets-tip-drop-mechanic-collect.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-helpers/lib-sets-tip-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-list-methods-drag/shifter-list-methods-drag.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-compass-achievement-pins/destinations-compass-achievement-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-compass-collectible-fish-pins/destinations-compass-collectible-fish-pins.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-data-runtime/destinations-data-runtime.module.code.ts"}

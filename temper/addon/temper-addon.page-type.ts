@@ -59,7 +59,6 @@ export const temperAddon = {
     "temper-addon/temper-lib-saved-vars",
     "temper-addon/temper-lib-scrollable-menu",
     "temper-addon/temper-lib-sets",
-    "temper-addon/temper-lib-shifter-box",
     "domain/temper-addon-shared",
   ],
   extends: ["page-type/service"],

@@ -12,8 +12,7 @@
     "TemperHud",
     "LibAddonMenu-2.0>=41",
     "LibNotification",
-    "LibScrollableMenu>=020400",
-    "LibShifterBox>=000700"
+    "LibScrollableMenu>=020400"
   ],
   "optionalDependsOn": [
     "LibMainMenu-2.0",
@@ -22,5 +21,18 @@
     "PerfectPixel",
     "MasterMerchant"
   ],
-  "xmlFiles": { "afterBundle": ["XML/FCOCS_virtuals.xml"] }
+  "xmlFiles": {
+    "beforeBundle": ["ShifterBox/ShifterBoxTemplate.xml"],
+    "afterBundle": ["XML/FCOCS_virtuals.xml"]
+  },
+  "assets": [
+    "bin/textures/double_large_leftarrow_up.dds",
+    "bin/textures/double_large_leftarrow_down.dds",
+    "bin/textures/double_large_leftarrow_over.dds",
+    "bin/textures/double_large_leftarrow_disabled.dds",
+    "bin/textures/double_large_rightarrow_up.dds",
+    "bin/textures/double_large_rightarrow_down.dds",
+    "bin/textures/double_large_rightarrow_over.dds",
+    "bin/textures/double_large_rightarrow_disabled.dds"
+  ]
 }

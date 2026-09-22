@@ -91,6 +91,9 @@
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-inventory/fco-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-utils/fco-utils.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-box-create/shifter-box-create.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-list-methods-entries/shifter-list-methods-entries.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-casts/addon-menu-casts.module.code.ts"}
@@ -143,9 +146,6 @@
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-debug-names/lib-sets-debug-debug-names.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-debug-scan-report/lib-sets-debug-scan-report.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-hooks/lib-sets-tip-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-box-create/shifter-box-create.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-drag-helpers/shifter-drag-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-list-methods-entries/shifter-list-methods-entries.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-ach-callbacks/destinations-pins-ach-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-2.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-color-defs/destinations-pins-color-defs.module.code.ts"}

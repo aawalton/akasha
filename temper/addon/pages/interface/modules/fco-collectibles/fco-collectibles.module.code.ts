@@ -1,7 +1,11 @@
 import { STATE } from "akasha/temper/addon/pages/interface/modules/fco-state/fco-state.module.code.ts"
+import { shifterBox as SHIFTER_BOX } from "akasha/temper/addon/pages/interface/modules/shifter-public-api/shifter-public-api.module.code.ts"
+import type {
+  ShifterBox,
+  ShifterBoxCustomSettings,
+} from "akasha/temper/addon/pages/interface/modules/shifter-types/shifter-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-shifter-box/lib-shifter-box.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -110,7 +114,7 @@ export function isAnyMountAFavoriteAtThisCategory(this: void, categoryId: number
 
 export let excludedMountIdsShifterBoxControl: ShifterBox | undefined = undefined
 
-const EXCLUDED_MOUNT_IDS_LIB_SHIFTER_BOX_SETTINGS: LibShifterBoxCustomSettings = {
+const EXCLUDED_MOUNT_IDS_SHIFTER_BOX_SETTINGS: ShifterBoxCustomSettings = {
   leftList: {
     title: "Available mounts",
   },
@@ -154,8 +158,8 @@ const EXCLUDED_MOUNT_IDS_LIB_SHIFTER_BOX_SETTINGS: LibShifterBoxCustomSettings =
   },
 }
 
-const EXCLUDED_MOUNT_IDS_LIB_SHIFTER_BOX_STYLE_WIDTH = 600
-const EXCLUDED_MOUNT_IDS_LIB_SHIFTER_BOX_STYLE_HEIGHT = 200
+const EXCLUDED_MOUNT_IDS_SHIFTER_BOX_STYLE_WIDTH = 600
+const EXCLUDED_MOUNT_IDS_SHIFTER_BOX_STYLE_HEIGHT = 200
 
 export function setExcludedMountIdsState(
   this: void
@@ -189,7 +193,7 @@ export function setExcludedMountIdsState(
   return [leftListMountIdsWithoutExcludedOnes, excludedMountIdsFromSV]
 }
 
-export function updateExcludedMountIdsLibShifterBoxEntries(
+export function updateExcludedMountIdsShifterBoxEntries(
   this: void,
   shifterBox: ShifterBox | undefined
 ): undefined {
@@ -259,24 +263,24 @@ function updateExcludedMountIdsShifterBox(this: void, parentCtrl: Control | unde
 
   shifterBox.SetAnchor(TOPLEFT, parentCtrl, TOPLEFT, 0, 0)
   shifterBox.SetDimensions(
-    EXCLUDED_MOUNT_IDS_LIB_SHIFTER_BOX_STYLE_WIDTH,
-    EXCLUDED_MOUNT_IDS_LIB_SHIFTER_BOX_STYLE_HEIGHT
+    EXCLUDED_MOUNT_IDS_SHIFTER_BOX_STYLE_WIDTH,
+    EXCLUDED_MOUNT_IDS_SHIFTER_BOX_STYLE_HEIGHT
   )
 
-  updateExcludedMountIdsLibShifterBoxEntries(shifterBox)
-  updateExcludedMountIdsLibShifterBoxState(parentCtrl, shifterBox)
+  updateExcludedMountIdsShifterBoxEntries(shifterBox)
+  updateExcludedMountIdsShifterBoxState(parentCtrl, shifterBox)
 
   shifterBox.RegisterCallback(
-    LibShifterBox.EVENT_ENTRY_MOVED,
+    SHIFTER_BOX.EVENT_ENTRY_MOVED,
     myShifterBoxEventEntryMovedCallbackFunction
   )
   shifterBox.RegisterCallback(
-    LibShifterBox.EVENT_ENTRY_HIGHLIGHTED,
+    SHIFTER_BOX.EVENT_ENTRY_HIGHLIGHTED,
     myShifterBoxEventEntryHighlightedCallbackFunction
   )
 }
 
-export function updateExcludedMountIdsLibShifterBoxState(
+export function updateExcludedMountIdsShifterBoxState(
   this: void,
   parentCtrl: Control | undefined,
   excludedMountIdsShifterBox?: ShifterBox
@@ -292,26 +296,23 @@ export function updateExcludedMountIdsLibShifterBoxState(
   shifterBox.SetEnabled(isExcludeMountIdsLSBEnabled)
 }
 
-function buildExcludedMountIdsLibShifterBox(
-  this: void,
-  parentCtrl: Control | undefined
-): undefined {
+function buildExcludedMountIdsShifterBox(this: void, parentCtrl: Control | undefined): undefined {
   if (parentCtrl === undefined) {
     return
   }
   const addonName = STATE.addonVars.addonName
 
-  const excludedMountIdsShifterBox = LibShifterBox(
+  const excludedMountIdsShifterBox = SHIFTER_BOX(
     addonName,
     "FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT_LSB",
     parentCtrl,
-    EXCLUDED_MOUNT_IDS_LIB_SHIFTER_BOX_SETTINGS
+    EXCLUDED_MOUNT_IDS_SHIFTER_BOX_SETTINGS
   )
   excludedMountIdsShifterBoxControl = excludedMountIdsShifterBox
   updateExcludedMountIdsShifterBox(parentCtrl)
 }
 
-export function updateExcludedMountIdsLibShifterBox(
+export function refreshExcludedMountIdsShifterBox(
   this: void,
   parentCtrl: Control | undefined
 ): undefined {
@@ -319,7 +320,7 @@ export function updateExcludedMountIdsLibShifterBox(
     return
   }
   if (excludedMountIdsShifterBoxControl === undefined) {
-    buildExcludedMountIdsLibShifterBox(parentCtrl)
+    buildExcludedMountIdsShifterBox(parentCtrl)
   } else {
     updateExcludedMountIdsShifterBox(parentCtrl)
   }

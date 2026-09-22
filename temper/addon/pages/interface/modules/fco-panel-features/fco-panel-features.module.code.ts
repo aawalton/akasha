@@ -1,8 +1,8 @@
 import {
   excludedMountIdsShifterBoxControl,
-  updateExcludedMountIdsLibShifterBox,
-  updateExcludedMountIdsLibShifterBoxEntries,
-  updateExcludedMountIdsLibShifterBoxState,
+  refreshExcludedMountIdsShifterBox,
+  updateExcludedMountIdsShifterBoxEntries,
+  updateExcludedMountIdsShifterBoxState,
 } from "akasha/temper/addon/pages/interface/modules/fco-collectibles/fco-collectibles.module.code.ts"
 import { buildFavoriteMountsContextMenu } from "akasha/temper/addon/pages/interface/modules/fco-collectibles-mounts/fco-collectibles-mounts.module.code.ts"
 import { collectibleChanges } from "akasha/temper/addon/pages/interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"
@@ -11,9 +11,9 @@ import { questTrackerMovable } from "akasha/temper/addon/pages/interface/modules
 import {
   DISABLE_SOUNDS_SHIFTER_BOX_CONTROL,
   muteMountSound,
-  updateDisabledSoundsLibShifterBoxState,
-  updateDisableSoundsLibShifterBoxEntries,
-  updateSoundsLibShifterBox,
+  refreshSoundsShifterBox,
+  updateDisabledSoundsShifterBoxState,
+  updateDisableSoundsShifterBoxEntries,
 } from "akasha/temper/addon/pages/interface/modules/fco-sounds/fco-sounds.module.code.ts"
 import type { AddonSettings } from "akasha/temper/addon/pages/interface/modules/fco-types/fco-types.module.code.ts"
 import {
@@ -242,11 +242,11 @@ export function buildSoundsControls(
       getFunc: () => settings.disableSoundsLibShifterBox === true,
       setFunc: (value) => {
         settings.disableSoundsLibShifterBox = value
-        updateDisabledSoundsLibShifterBoxState(
+        updateDisabledSoundsShifterBoxState(
           FCOCHANGESTUFF_LAM_CUSTOM_SOUNDS_DISABLE_PARENT,
           DISABLE_SOUNDS_SHIFTER_BOX_CONTROL.current
         )
-        updateDisableSoundsLibShifterBoxEntries(DISABLE_SOUNDS_SHIFTER_BOX_CONTROL.current)
+        updateDisableSoundsShifterBoxEntries(DISABLE_SOUNDS_SHIFTER_BOX_CONTROL.current)
       },
       default: defaults.disableSoundsLibShifterBox === true,
       width: "full",
@@ -255,7 +255,7 @@ export function buildSoundsControls(
       type: "custom",
       reference: "FCOCHANGESTUFF_LAM_CUSTOM_SOUNDS_DISABLE_PARENT",
       createFunc: (customControl) => {
-        updateSoundsLibShifterBox(customControl)
+        refreshSoundsShifterBox(customControl)
       },
       minHeight: 275,
       width: "full",
@@ -280,11 +280,11 @@ export function buildMountsControls(
       setFunc: (value) => {
         settings.favoriteMountsContextMenu = value
         buildFavoriteMountsContextMenu()
-        updateExcludedMountIdsLibShifterBoxState(
+        updateExcludedMountIdsShifterBoxState(
           FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT,
           excludedMountIdsShifterBoxControl
         )
-        updateExcludedMountIdsLibShifterBoxEntries(excludedMountIdsShifterBoxControl)
+        updateExcludedMountIdsShifterBoxEntries(excludedMountIdsShifterBoxControl)
       },
       default: defaults.favoriteMountsContextMenu === true,
       width: "half",
@@ -301,7 +301,7 @@ export function buildMountsControls(
       type: "custom",
       reference: "FCOCHANGESTUFF_LAM_MOUNT_FAVORITES_EXCLUDE_PARENT",
       createFunc: (customControl) => {
-        updateExcludedMountIdsLibShifterBox(customControl)
+        refreshExcludedMountIdsShifterBox(customControl)
       },
       minHeight: 275,
       width: "full",

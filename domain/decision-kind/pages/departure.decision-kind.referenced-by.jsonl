@@ -3789,6 +3789,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/assistant-bindings/assistant-bindings.module.ts","id":"01a060e7-1bec-71bf-a376-11634f9d6337"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/assistant-collectibles/assistant-collectibles.module.ts","id":"01a060e7-1beb-7c7c-8f92-e0f5d84c2110"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/assistant-entry/assistant-entry.module.ts","id":"01a060e7-1bec-7cd5-876c-cef3639abf2a"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/modules/shifter-box-cursor-label/shifter-box-cursor-label.module.ts","id":"01a08e6e-ae39-7b0d-a20f-739be0c4cda5"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/interface/shifter-box-template/shifter-box-template.eso-interface.ts","id":"01a06187-364c-7851-b7ad-0cc5cdf2a05e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/interface/temper-addon-interface.temper-addon.ts","id":"01a060e7-1bea-7ec8-9343-b0e442437b98"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/inventory-config-file/inventory-config-file.lua-module.ts","id":"01a06258-b536-7417-855d-e9bd5aa14816"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
@@ -4175,9 +4177,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-state/lib-sets-tip-state.module.ts","id":"01a06231-8f1e-7f5a-b604-b1c73086938c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-veteran-breakdown/lib-sets-tip-veteran-breakdown.module.ts","id":"01a06231-8f1e-737c-a36f-8ed525388bae"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-sets/temper-lib-sets.temper-addon.ts","id":"01a0617b-4b72-7c64-bc02-7f49e4f6ee46"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-shifter-box/modules/shifter-box-cursor-label/shifter-box-cursor-label.module.ts","id":"01a08e6e-ae39-7b0d-a20f-739be0c4cda5"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-shifter-box/shifter-box-template/shifter-box-template.eso-interface.ts","id":"01a06187-364c-7851-b7ad-0cc5cdf2a05e"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-shifter-box/temper-lib-shifter-box.temper-addon.ts","id":"01a06187-3642-7d90-9056-320280df2e42"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/destinations-preview-controls/destinations-preview-controls.type-declaration.ts","id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/minimap-animations/minimap-animations.eso-interface.ts","id":"01a06269-2b17-76b4-a6e1-d7eb1d3b209f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/navigation/minimap-string-ids/minimap-string-ids.type-declaration.ts","id":"01a06269-2b15-7ed4-828d-87a96fe2a139"}

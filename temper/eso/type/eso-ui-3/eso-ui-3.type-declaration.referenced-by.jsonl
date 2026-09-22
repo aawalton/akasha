@@ -64,6 +64,7 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-collectibles-tooltips/fco-collectibles-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-settings-menu/fco-settings-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-tooltips/fco-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/shifter-helpers/shifter-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"}
@@ -116,7 +117,6 @@
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-header/lib-sets-tip-header.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-hooks/lib-sets-tip-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-tip-preview/lib-sets-tip-preview.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/lib-shifter-box/modules/shifter-helpers/shifter-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/navigation/modules/map-pins-tooltips/map-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-ui-3.type-declaration.d.ts","path":"temper/addon/pages/selector/modules/selector-ui-dropdown/selector-ui-dropdown.module.code.ts"}
