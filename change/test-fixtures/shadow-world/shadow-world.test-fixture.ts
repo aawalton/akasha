@@ -4,7 +4,7 @@ export const shadowWorld = {
   id: "01a0a22a-719b-7c23-993c-0df7b2eb43dd",
   type: "page-type/test-fixture",
   slug: "shadow-world",
-  definition: "the worlds, reaches and answers a change's tests are set up with",
+  definition: "the worlds, reaches and answers setting up a change's tests",
   code: "ts",
   decisions: [
     {

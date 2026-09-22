@@ -5,7 +5,7 @@ export const universalConfig = {
   type: "page-type/file-property",
   slug: "universal-config",
   propertySlug: "universal-config",
-  definition: "what a build for every Lua but 5.0 overlays the source tree with",
+  definition: "what a build for every Lua but 5.0 lays over the source tree",
   extensions: ["json"],
   fileName: "tsconfig.json",
   toolResolvesPaths: true,

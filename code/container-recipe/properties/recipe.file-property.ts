@@ -5,7 +5,7 @@ export const recipe = {
   type: "page-type/file-property",
   slug: "recipe",
   propertySlug: "recipe",
-  definition: "the steps an image is built by",
+  definition: "an image's build steps",
   extensions: ["dockerfile"],
   fileName: "Containerfile",
   generated: true,

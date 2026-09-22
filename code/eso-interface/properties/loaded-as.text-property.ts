@@ -5,7 +5,7 @@ export const loadedAs = {
   type: "page-type/text-property",
   slug: "loaded-as",
   propertySlug: "loaded-as",
-  definition: "the name an addon's manifest loads this file by",
+  definition: "this file's name in an addon's manifest",
   maxLength: 100,
   nameFormat: null,
   decisions: [

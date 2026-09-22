@@ -4,7 +4,7 @@ export const auditJob = {
   id: "01a0aaca-8cb9-701a-98aa-f28b5baab1be",
   type: "page-type/module",
   slug: "audit-job",
-  definition: "an audit round run as a job in the cluster at the commit that round answers for",
+  definition: "an audit round run as a job in the cluster at that round's commit",
   code: "ts",
   test: "ts",
   decisions: [

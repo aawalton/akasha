@@ -4,7 +4,7 @@ export const rustModule = {
   id: "01a0602d-6acf-7594-86e8-07b54a35a700",
   type: "page-type/page-type",
   slug: "rust-module",
-  definition: "code a Rust crate is built from",
+  definition: "a Rust crate's source code",
   parts: ["code-file-property/rust", "text-property/rust-module-name"],
   extends: ["page-type/domain"],
   properties: [

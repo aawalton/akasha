@@ -4,7 +4,7 @@ export const gapTreeIds = {
   id: "01a0b7a0-c25d-78d7-bebd-94055960d71c",
   type: "page-type/module",
   slug: "gap-tree-ids",
-  definition: "the strings the editor knows the gap tree's view and refresh command by",
+  definition: "the editor's strings for the gap tree's view and refresh command",
   code: "ts",
   decisions: [
     {

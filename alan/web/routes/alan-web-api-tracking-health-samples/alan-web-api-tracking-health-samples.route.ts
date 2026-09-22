@@ -4,7 +4,7 @@ export const alanWebApiTrackingHealthSamples = {
   id: "01a08835-7148-7ce8-968b-e46434e1f048",
   type: "page-type/route",
   slug: "alan-web-api-tracking-health-samples",
-  definition: "the health samples a device sends in",
+  definition: "the health samples a device sends",
   code: "ts",
   urlPath: "api/tracking/health-samples",
   decisions: [

@@ -4,7 +4,7 @@ export const typeDeclaration = {
   id: "01a0605a-98f4-7c54-8030-4fec48465bda",
   type: "page-type/page-type",
   slug: "type-declaration",
-  definition: "types a compiler reads and emits nothing from",
+  definition: "types a compiler reads without emitting anything",
   parts: [
     "file-property/ambient-types",
     "number-property/source-version",

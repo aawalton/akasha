@@ -4,7 +4,7 @@ export const serviceTreeIds = {
   id: "01a09c1e-1b2b-7d00-9af9-d732e6e67ab3",
   type: "page-type/module",
   slug: "service-tree-ids",
-  definition: "the strings the editor knows the service tree's view and refresh command by",
+  definition: "the editor's strings for the service tree's view and refresh command",
   code: "ts",
   decisions: [
     {

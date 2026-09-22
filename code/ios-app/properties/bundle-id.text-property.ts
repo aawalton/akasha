@@ -5,7 +5,7 @@ export const bundleId = {
   type: "page-type/text-property",
   slug: "bundle-id",
   propertySlug: "bundle-id",
-  definition: "the name a phone knows an app by",
+  definition: "an app's name on a phone",
   maxLength: 155,
   nameFormat: null,
   unique: "unique-kind/page-type",
