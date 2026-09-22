@@ -13,7 +13,10 @@ import {
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import { useCharacterItems } from "akasha/story/item/modules/character-items-beside/character-items-beside.module.code.ts"
+import {
+  itemsOutstanding,
+  useCharacterItems,
+} from "akasha/story/item/modules/character-items-beside/character-items-beside.module.code.ts"
 import type {
   ClientAffinity,
   ClientEquipItem,
@@ -227,27 +230,29 @@ function SkillsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefin
 
 function ItemsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
   const filed = useCharacterItems(game)
-  const items: readonly ClientItem[] = filed?.carried ?? sheet.items ?? []
-  const worn: Record<string, ClientEquipItem> = filed?.worn ?? sheet.equipment ?? {}
+  const items: readonly ClientItem[] = filed?.had?.carried ?? sheet.items ?? []
+  const worn: Record<string, ClientEquipItem> = filed?.had?.worn ?? sheet.equipment ?? {}
   const equipment = Object.entries(worn)
   return (
     <div className="flex flex-col gap-3">
-      <Section title="Inventory">
-        {items.length === 0 ? (
-          <div className="font-mono text-[12px] text-tertiary">none yet</div>
-        ) : (
-          <Rows>
-            {items.map((it, i) => (
-              <div
-                key={it.name != null ? it.name : `item-${i}`}
-                className="font-mono text-[12.5px]"
-              >
-                <NoteName name={it.name ?? ""} note={it.note} />
-              </div>
-            ))}
-          </Rows>
-        )}
-      </Section>
+      {itemsOutstanding(filed, items.length) ? null : (
+        <Section title="Inventory">
+          {items.length === 0 ? (
+            <div className="font-mono text-[12px] text-tertiary">none yet</div>
+          ) : (
+            <Rows>
+              {items.map((it, i) => (
+                <div
+                  key={it.name != null ? it.name : `item-${i}`}
+                  className="font-mono text-[12.5px]"
+                >
+                  <NoteName name={it.name ?? ""} note={it.note} />
+                </div>
+              ))}
+            </Rows>
+          )}
+        </Section>
+      )}
       {equipment.length > 0 ? (
         <Section title="Equipped">
           <Rows>

@@ -3,6 +3,7 @@ import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts
 import {
   type Filed,
   hadIn,
+  itemsOutstanding,
   slotNamesIn,
 } from "akasha/story/item/modules/character-items-beside/character-items-beside.module.code.ts"
 import { itemSlot } from "akasha/story/item/slot/item-slot.page-type.ts"
@@ -94,4 +95,20 @@ test("the carried items come back in the order their names sort", () => {
 
 test("no row at all answers nothing worn and nothing carried", () => {
   expect(hadIn([], SLOTS)).toEqual({ worn: {}, carried: [] })
+})
+
+test("a read still outstanding with nothing to draw is still outstanding", () => {
+  expect(itemsOutstanding(null, 0)).toBe(true)
+})
+
+test("a read still outstanding with items the sheet kept is not outstanding", () => {
+  expect(itemsOutstanding(null, 1)).toBe(false)
+})
+
+test("a read answering no item at all is not outstanding", () => {
+  expect(itemsOutstanding({ had: null }, 0)).toBe(false)
+})
+
+test("a read answering nothing worn and nothing carried is not outstanding", () => {
+  expect(itemsOutstanding({ had: { worn: {}, carried: [] } }, 0)).toBe(false)
 })

@@ -29,6 +29,10 @@ export type Carried = { readonly name: string; readonly note?: string }
 
 export type Had = { readonly worn: Record<string, Worn>; readonly carried: readonly Carried[] }
 
+export type Answered = { readonly had: Had | null }
+
+const NOTHING_HAD: Answered = { had: null }
+
 type Owned = { readonly title: string; readonly note: string | null; readonly slot: string | null }
 
 export function slotNamesIn(rows: readonly Filed[]): Record<string, string> {
@@ -92,30 +96,34 @@ async function hadBy(slug: string): Promise<Had | null> {
   return hadIn(asked.answer.rows, await slotNames())
 }
 
-async function readItems(game: string): Promise<Had | null> {
+async function readItems(game: string): Promise<Answered> {
   const player = await playerOf(game)
-  if (player === null) return null
+  if (player === null) return NOTHING_HAD
   const slug = slugIn(player)
-  if (slug === null || slug === "") return null
-  return hadBy(slug)
+  if (slug === null || slug === "") return NOTHING_HAD
+  return { had: await hadBy(slug) }
 }
 
-export function useCharacterItems(game: string | undefined): Had | null {
+export function itemsOutstanding(filed: Answered | null, drawn: number): boolean {
+  return filed === null && drawn === 0
+}
+
+export function useCharacterItems(game: string | undefined): Answered | null {
   const asked = game ?? ""
-  const [had, setHad] = useState<Had | null>(null)
+  const [answered, setAnswered] = useState<Answered | null>(asked === "" ? NOTHING_HAD : null)
 
   useEffect(() => {
-    setHad(null)
+    setAnswered(asked === "" ? NOTHING_HAD : null)
     if (asked === "") return
     let alive = true
     void (async () => {
-      const held = await readItems(asked).catch(() => null)
-      if (alive) setHad(held)
+      const held = await readItems(asked).catch(() => NOTHING_HAD)
+      if (alive) setAnswered(held)
     })()
     return () => {
       alive = false
     }
   }, [asked])
 
-  return had
+  return answered
 }

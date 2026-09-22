@@ -67,6 +67,15 @@ export const characterItemsBeside = {
       statement: "A character filed no item at all is answered nothing rather than an empty pair.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A read still outstanding is answered apart from a read answering no item.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel holding no item of its own draws nothing while the read is still outstanding.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },
