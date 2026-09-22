@@ -10,4 +10,9 @@ export const theTower088 = {
     { kind: "item-award", name: "Clouded lens", note: "Recovered from: the Host's seat" },
     { kind: "item-award", name: "Woven-light mantle", note: "Recovered from: the Host's seat" },
   ],
+  pools: [
+    { name: "hp", now: 121, most: 124 },
+    { name: "focus", now: 104, most: 120, change: -6 },
+    { name: "stamina", now: 48, most: 76, change: -5 },
+  ],
 } as const satisfies GameTurn
