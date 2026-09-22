@@ -6,5 +6,6 @@ export const explorerClassCancelled = {
   slug: "explorer-class-cancelled",
   title: "Explorer class cancelled.",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

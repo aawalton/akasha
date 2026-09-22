@@ -6,5 +6,6 @@ export const eternalRocksoupCook = {
   slug: "eternal-rocksoup-cook",
   title: "Eternal Rocksoup Cook",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldClass

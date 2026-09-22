@@ -6,6 +6,7 @@ export const doomspeakerPriest = {
   slug: "doomspeaker-priest",
   title: "Doomspeaker Priest",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   evolvesToSlugs: ["priest-of-wrath-and-sky"],
   references: "jsonl",
 } as const satisfies WorldClass
