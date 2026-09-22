@@ -585,8 +585,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/temper-lib-addon-menu.temper-addon.ts","id":"01a06292-8851-701c-9273-a19fa38175bb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/temper-lib-debug-logger.temper-addon.ts","id":"01a06061-408b-7657-add9-d2dfd959f9b9"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-gps/modules/gps-lib-state/gps-lib-state.module.ts","id":"01a0614d-4763-71d6-823d-0a023d0ff5b6"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-gps/temper-lib-gps.temper-addon.ts","id":"01a0614d-4767-7eb4-a5d6-68581039bf67"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/modules/main-menu-keyboard/main-menu-keyboard.module.ts","id":"01a0605b-c803-7076-8256-6e18f678aa85"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-main-menu/temper-lib-main-menu.temper-addon.ts","id":"01a0605b-c805-73f4-b1b0-5aa7831a19d4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.ts","id":"01a0605f-6261-7a99-9a87-668ce21f8a59"}
@@ -656,6 +654,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.ts","id":"01a06274-b08a-713c-8263-d0c81956cd55"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.ts","id":"01a06274-b08a-7e24-bb52-b2b7aeb6d21d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/temper-addon-world-antiquities.domain.ts","id":"01a0c6f4-6af6-74a8-8e13-9f3e2328ee42"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/gps/modules/gps-lib-state/gps-lib-state.module.ts","id":"01a0614d-4763-71d6-823d-0a023d0ff5b6"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/gps/temper-addon-world-gps.domain.ts","id":"01a0c73e-7d6a-7946-97db-4f5039b65470"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-data/modules/map-data-index-00/map-data-index-00.module.ts","id":"01a061e1-aea3-78f7-9287-3c987cf5bf24"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-data/modules/map-data-index-01/map-data-index-01.module.ts","id":"01a061e1-aea4-70e1-ab44-4d4e180e9d8e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-data/modules/map-data-index-02/map-data-index-02.module.ts","id":"01a061e1-aea5-7f0d-99ff-9f35b4f83d03"}

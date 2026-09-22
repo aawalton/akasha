@@ -1,3 +1,4 @@
+import { GPS } from "akasha/temper/addon/pages/world/gps/modules/gps-public-api/gps-public-api.module.code.ts"
 import { MAP_DATA_STATE } from "akasha/temper/addon/pages/world/map-data/modules/map-data-public-api/map-data-public-api.module.code.ts"
 import { COMPASS_PINS } from "akasha/temper/addon/pages/world/navigation/modules/compass-pins-global/compass-pins-global.module.code.ts"
 import {
@@ -29,10 +30,7 @@ import {
   asEideticRuntimeEntries,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-pins-tags/lorebooks-pins-tags.module.code.ts"
 import { PIN_TOOLTIP_STATE } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts"
-import {
-  GPS,
-  STATE,
-} from "akasha/temper/catalog/world/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
+import { STATE } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-saved-variables/lorebooks-saved-variables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
@@ -101,18 +99,21 @@ export function eideticMemoryCompassCallback(this: void): undefined {
         pinData.c ?? 0,
         pinData.b ?? 0
       )
-      const libgpsCoordinates = pinData.px !== undefined && pinData.py !== undefined
+      const globalCoordinates = pinData.px !== undefined && pinData.py !== undefined
       const normalizedCoordinates = pinData.pnx !== undefined && pinData.pny !== undefined
-      const usePrimaryLibgpsCoordinates = MAP_DATA_STATE.mapId === pinData.pm && libgpsCoordinates
+      const usePrimaryGlobalCoordinates = MAP_DATA_STATE.mapId === pinData.pm && globalCoordinates
       const usePrimaryNormalizedCoordinates =
         MAP_DATA_STATE.mapId === pinData.pm && normalizedCoordinates
       const fakePinInfo = pinData.fp === true && MAP_DATA_STATE.mapId !== pinData.pm
 
       let xLoc: number | undefined
       let yLoc: number | undefined
-      if (usePrimaryLibgpsCoordinates && !usePrimaryNormalizedCoordinates) {
-        ;[xLoc, yLoc] = GPS.GlobalToLocal(pinData.px ?? 0, pinData.py ?? 0)
-      } else if (!usePrimaryLibgpsCoordinates && usePrimaryNormalizedCoordinates) {
+      if (usePrimaryGlobalCoordinates && !usePrimaryNormalizedCoordinates) {
+        const local = GPS.GlobalToLocal(pinData.px ?? 0, pinData.py ?? 0)
+        if (local !== undefined) {
+          ;[xLoc, yLoc] = local
+        }
+      } else if (!usePrimaryGlobalCoordinates && usePrimaryNormalizedCoordinates) {
         xLoc = pinData.pnx
         yLoc = pinData.pny
       }
@@ -219,22 +220,22 @@ export function mapCallbackCreateEideticPins(this: void, pinType: string): undef
         pinData.c ?? 0,
         pinData.b ?? 0
       )
-      const libgpsCoordinates = pinData.px !== undefined && pinData.py !== undefined
-      const libgpsZoneCoordinates = pinData.zx !== undefined && pinData.zy !== undefined
+      const globalCoordinates = pinData.px !== undefined && pinData.py !== undefined
+      const globalZoneCoordinates = pinData.zx !== undefined && pinData.zy !== undefined
       const normalizedCoordinates = pinData.pnx !== undefined && pinData.pny !== undefined
       const normalizedZoneCoordinates = pinData.znx !== undefined && pinData.zny !== undefined
       const hasSourceMapId = pinData.sm !== undefined
-      let modifiedLibGpsCoordinateX: number | undefined
-      let modifiedLibGpsCoordinateY: number | undefined
+      let modifiedGlobalCoordinateX: number | undefined
+      let modifiedGlobalCoordinateY: number | undefined
       if (hasSourceMapId) {
         const measurement = GPS.GetMapMeasurementByMapId(pinData.sm ?? 0)
-        if (measurement !== undefined && libgpsCoordinates) {
-          ;[modifiedLibGpsCoordinateX, modifiedLibGpsCoordinateY] = measurement.ToLocal(
+        if (measurement !== undefined && globalCoordinates) {
+          ;[modifiedGlobalCoordinateX, modifiedGlobalCoordinateY] = measurement.ToLocal(
             pinData.px ?? 0,
             pinData.py ?? 0
           )
-        } else if (measurement !== undefined && libgpsZoneCoordinates) {
-          ;[modifiedLibGpsCoordinateX, modifiedLibGpsCoordinateY] = measurement.ToLocal(
+        } else if (measurement !== undefined && globalZoneCoordinates) {
+          ;[modifiedGlobalCoordinateX, modifiedGlobalCoordinateY] = measurement.ToLocal(
             pinData.zx ?? 0,
             pinData.zy ?? 0
           )
@@ -246,24 +247,24 @@ export function mapCallbackCreateEideticPins(this: void, pinType: string): undef
       const dualMapIds =
         zoneMapId === pinData.zm &&
         MAP_DATA_STATE.mapId !== pinData.pm &&
-        !libgpsZoneCoordinates &&
+        !globalZoneCoordinates &&
         !normalizedZoneCoordinates
-      const usePrimaryLibgpsCoordinates =
+      const usePrimaryGlobalCoordinates =
         MAP_DATA_STATE.mapId === pinData.pm &&
         hasZoneMapId &&
         zoneMapId !== pinData.zm &&
-        libgpsCoordinates
+        globalCoordinates
       const usePrimaryNormalizedCoordinates =
         MAP_DATA_STATE.mapId === pinData.pm &&
         hasZoneMapId &&
         zoneMapId !== pinData.zm &&
         normalizedCoordinates
 
-      const useZoneLibgpsCoordinates =
+      const useZoneGlobalCoordinates =
         hasZoneMapId &&
         MAP_DATA_STATE.mapId === pinData.zm &&
         MAP_DATA_STATE.mapId !== pinData.pm &&
-        libgpsZoneCoordinates
+        globalZoneCoordinates
       const useZoneNormalizedCoordinates =
         hasZoneMapId &&
         MAP_DATA_STATE.mapId === pinData.zm &&
@@ -283,12 +284,15 @@ export function mapCallbackCreateEideticPins(this: void, pinType: string): undef
 
       pinData.xLoc = undefined
       pinData.yLoc = undefined
-      if ((usePrimaryMapId || dualMapIds || usePrimaryLibgpsCoordinates) && libgpsCoordinates) {
+      if ((usePrimaryMapId || dualMapIds || usePrimaryGlobalCoordinates) && globalCoordinates) {
         if (hasSourceMapId) {
-          pinData.xLoc = modifiedLibGpsCoordinateX
-          pinData.yLoc = modifiedLibGpsCoordinateY
+          pinData.xLoc = modifiedGlobalCoordinateX
+          pinData.yLoc = modifiedGlobalCoordinateY
         } else {
-          ;[pinData.xLoc, pinData.yLoc] = GPS.GlobalToLocal(pinData.px ?? 0, pinData.py ?? 0)
+          const local = GPS.GlobalToLocal(pinData.px ?? 0, pinData.py ?? 0)
+          if (local !== undefined) {
+            ;[pinData.xLoc, pinData.yLoc] = local
+          }
         }
       } else if (
         (usePrimaryMapId ||
@@ -299,12 +303,15 @@ export function mapCallbackCreateEideticPins(this: void, pinType: string): undef
       ) {
         pinData.xLoc = pinData.pnx
         pinData.yLoc = pinData.pny
-      } else if ((useZoneMapId || useZoneLibgpsCoordinates) && libgpsZoneCoordinates) {
+      } else if ((useZoneMapId || useZoneGlobalCoordinates) && globalZoneCoordinates) {
         if (hasSourceMapId) {
-          pinData.xLoc = modifiedLibGpsCoordinateX
-          pinData.yLoc = modifiedLibGpsCoordinateY
+          pinData.xLoc = modifiedGlobalCoordinateX
+          pinData.yLoc = modifiedGlobalCoordinateY
         } else {
-          ;[pinData.xLoc, pinData.yLoc] = GPS.GlobalToLocal(pinData.zx ?? 0, pinData.zy ?? 0)
+          const local = GPS.GlobalToLocal(pinData.zx ?? 0, pinData.zy ?? 0)
+          if (local !== undefined) {
+            ;[pinData.xLoc, pinData.yLoc] = local
+          }
         }
       } else if ((useZoneMapId || useZoneNormalizedCoordinates) && normalizedZoneCoordinates) {
         pinData.xLoc = pinData.znx

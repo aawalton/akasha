@@ -3,16 +3,6 @@ import type {
   EideticBookZoneEntry,
   ShalidorMapData,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-types/lorebooks-types.module.code.ts"
-import "akasha/temper/addon/type/lib-gps/lib-gps.type-declaration.d.ts"
-
-function requireGps(): LibGps3 {
-  if (LibGPS3 === undefined) {
-    throw new Error("LoreBooks requires LibGPS3 (declared DependsOn)")
-  }
-  return LibGPS3
-}
-
-export const GPS = requireGps()
 
 export interface LoreBooksRuntimeState {
   lorebooks: ShalidorMapData | undefined

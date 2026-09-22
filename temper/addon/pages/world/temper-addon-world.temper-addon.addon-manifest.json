@@ -8,6 +8,8 @@
   "apiVersion": [
     "101041",
     "101042",
+    "101045",
+    "101046",
     "101049",
     "101050",
     "101051"
@@ -33,7 +35,6 @@
     "TemperHud",
     "LibMapPins-1.0>=10047",
     "LibAddonMenu-2.0>=41",
-    "LibGPS>=73",
     "LibDebugLogger>=274"
   ],
   "optionalDependsOn": [

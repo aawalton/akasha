@@ -19,7 +19,6 @@ export const temperAddonType = {
     "type-declaration/lib-codes-common-code",
     "type-declaration/lib-custom-menu",
     "type-declaration/lib-debug-logger",
-    "type-declaration/lib-gps",
     "type-declaration/lib-group-broadcast",
     "type-declaration/lib-lua-52",
     "type-declaration/lib-main-menu",

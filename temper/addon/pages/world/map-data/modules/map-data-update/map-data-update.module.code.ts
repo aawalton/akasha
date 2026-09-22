@@ -1,24 +1,16 @@
-import { LIB_IDENTIFIER } from "akasha/temper/addon/pages/world/map-data/modules/map-data-constants/map-data-constants.module.code.ts"
+import { GPS } from "akasha/temper/addon/pages/world/gps/modules/gps-public-api/gps-public-api.module.code.ts"
 import {
   INTERNAL,
   LIB,
 } from "akasha/temper/addon/pages/world/map-data/modules/map-data-lib-state/map-data-lib-state.module.code.ts"
 import type { Internal } from "akasha/temper/addon/pages/world/map-data/modules/map-data-types/map-data-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-gps/lib-gps.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
-
-function requireGps(this: void): LibGps3 {
-  if (LibGPS3 === undefined) {
-    error(`${LIB_IDENTIFIER} requires LibGPS`)
-  }
-  return LibGPS3
-}
 
 export function initMapUpdate(this: void): undefined {
   INTERNAL.FireCallbackEventZoneChanged = function (this: Internal): undefined {
@@ -116,9 +108,12 @@ export function initMapUpdate(this: void): undefined {
     LIB.normalizedX = normalizedX
     LIB.normalizedY = normalizedY
 
-    const [globalX, globalY] = requireGps().LocalToGlobal(normalizedX, normalizedY)
-    LIB.globalX = globalX
-    LIB.globalY = globalY
+    const global = GPS.LocalToGlobal(normalizedX, normalizedY)
+    if (global !== undefined) {
+      const [globalX, globalY] = global
+      LIB.globalX = globalX
+      LIB.globalY = globalY
+    }
 
     LIB.parentZoneMapId = LIB.GetParentMapIdFromZoneId(zoneId)
     LIB.mapType = mapType

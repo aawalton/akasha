@@ -18,15 +18,15 @@ test("a folder carrying the marker belongs to the deploy", () => {
 })
 
 test("a floor is read only from a dependency naming the addon being weighed", () => {
-  expect(parseFloorFor("LibGPS", "LibGPS>=71")).toBe(71)
-  expect(parseFloorFor("LibGPS", "LibZone>=71")).toBeUndefined()
-  expect(parseFloorFor("LibGPS", "LibGPS")).toBeUndefined()
-  expect(parseFloorFor("LibGPS", "LibGPS<=71")).toBeUndefined()
-  expect(parseFloorFor("LibGPS", "LibGPS>=v71")).toBeUndefined()
+  expect(parseFloorFor("LibHistoire", "LibHistoire>=71")).toBe(71)
+  expect(parseFloorFor("LibHistoire", "LibZone>=71")).toBeUndefined()
+  expect(parseFloorFor("LibHistoire", "LibHistoire")).toBeUndefined()
+  expect(parseFloorFor("LibHistoire", "LibHistoire<=71")).toBeUndefined()
+  expect(parseFloorFor("LibHistoire", "LibHistoire>=v71")).toBeUndefined()
 })
 
 test("every floor the fleet declares is gathered", () => {
-  expect(collectFloorsFor("LibGPS", [["LibGPS>=71"], ["LibGPS>=80", "LibZone>=3"]])).toEqual([
+  expect(collectFloorsFor("LibHistoire", [["LibHistoire>=71"], ["LibHistoire>=80", "LibZone>=3"]])).toEqual([
     71, 80,
   ])
 })

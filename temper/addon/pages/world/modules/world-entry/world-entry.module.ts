@@ -17,6 +17,10 @@ export const worldEntry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Map measuring starts before map data, which places the player with it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Map data starts before the features reading where the player is.",
     },
     {

@@ -59,7 +59,7 @@ export const temperAddonWorldMapData = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Placing the player on Tamriel needs LibGPS loaded first.",
+      statement: "Placing the player on Tamriel needs the map measuring feature started first.",
     },
   ],
 } as const satisfies Domain

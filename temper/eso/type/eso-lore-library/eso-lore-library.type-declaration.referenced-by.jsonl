@@ -65,9 +65,6 @@
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-window/submenu-window.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-state/debug-logger-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-debug-logger/modules/debug-logger-types/debug-logger-types.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-compatibility/gps-compatibility.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-types/gps-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-lib/map-ping-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-map-ping/modules/map-ping-types/map-ping-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts"}
@@ -96,6 +93,8 @@
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/lib-scrollable-menu/modules/scrollable-menu-util-menu/scrollable-menu-util-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-sort-filter-list/journal-sort-filter-list.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tabs/journal-tabs.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-types/gps-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-lib-state/map-data-lib-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-types/map-data-types.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-update/map-data-update.module.code.ts"}

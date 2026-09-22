@@ -1,3 +1,4 @@
+import { GPS } from "akasha/temper/addon/pages/world/gps/modules/gps-public-api/gps-public-api.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,
   LORE_LIBRARY_SHALIDOR,
@@ -8,7 +9,6 @@ import {
   loreBooksGetNewLoreBookInfo,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import { getQuestLocation } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-quest-location/lorebooks-quest-location.module.code.ts"
-import { GPS } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-runtime-state/lorebooks-runtime-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
@@ -156,18 +156,18 @@ export function onRowMouseUp(this: void, control: Control, button: number): unde
           const data = asEideticRowZoneEntry(rawData)
           const mapId = data.pm ?? 0
           const mapName = GetMapNameById(mapId)
-          const libgpsCoordinates = data.px !== undefined && data.py !== undefined
+          const globalCoordinates = data.px !== undefined && data.py !== undefined
           const normalizedCoordinates = data.pnx !== undefined && data.pny !== undefined
 
           if (
             data.r !== true &&
             data.fp !== true &&
-            (libgpsCoordinates || normalizedCoordinates) &&
+            (globalCoordinates || normalizedCoordinates) &&
             data.zt === undefined
           ) {
             let xLoc: number | undefined
             let yLoc: number | undefined
-            if (libgpsCoordinates) {
+            if (globalCoordinates) {
               const measurement = GPS.GetMapMeasurementByMapId(mapId)
               if (measurement !== undefined) {
                 ;[xLoc, yLoc] = measurement.ToLocal(data.px ?? 0, data.py ?? 0)

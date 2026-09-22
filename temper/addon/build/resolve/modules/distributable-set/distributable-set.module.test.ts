@@ -24,16 +24,16 @@ test("a dependency on an addon outside the set is left to the player", () => {
 
 test("an optional dependency counts the same as a required one", () => {
   const held = resolveDistributableSet(
-    setOf({ A: { dependsOn: [], optionalDependsOn: ["LibGPS"] } })
+    setOf({ A: { dependsOn: [], optionalDependsOn: ["LibHistoire"] } })
   )
-  expect(held.external).toEqual(["LibGPS"])
+  expect(held.external).toEqual(["LibHistoire"])
 })
 
 test("a version floor written after the name is cut off", () => {
-  expect(dependencyName("LibGPS>=71")).toBe("LibGPS")
-  expect(dependencyName("LibGPS")).toBe("LibGPS")
-  const held = resolveDistributableSet(setOf({ A: { dependsOn: ["LibGPS>=71"] } }))
-  expect(held.external).toEqual(["LibGPS"])
+  expect(dependencyName("LibHistoire>=71")).toBe("LibHistoire")
+  expect(dependencyName("LibHistoire")).toBe("LibHistoire")
+  const held = resolveDistributableSet(setOf({ A: { dependsOn: ["LibHistoire>=71"] } }))
+  expect(held.external).toEqual(["LibHistoire"])
 })
 
 test("an empty dependency name is no dependency", () => {

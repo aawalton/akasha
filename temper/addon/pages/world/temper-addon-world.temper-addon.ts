@@ -17,6 +17,7 @@ export const temperAddonWorld = {
     "module/world-global",
     "module/world-names",
     "type-declaration/world-declarations",
+    "domain/temper-addon-world-gps",
     "domain/temper-addon-world-map-data",
     "domain/temper-addon-world-navigation",
     "domain/temper-addon-world-quests",

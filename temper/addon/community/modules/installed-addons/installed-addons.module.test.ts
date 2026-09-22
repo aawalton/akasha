@@ -19,8 +19,8 @@ test("a version is read from the manifest's own version line", () => {
 
 test("a folder is one addon and a loose file is none", () => {
   const root = scratch.rootFor("temper-installed-")
-  mkdirSync(join(root, "LibGPS"))
-  writeFileSync(join(root, "LibGPS", "LibGPS.txt"), "## Version: 7.0\n")
+  mkdirSync(join(root, "LibHistoire"))
+  writeFileSync(join(root, "LibHistoire", "LibHistoire.txt"), "## Version: 7.0\n")
   mkdirSync(join(root, "Older"))
   writeFileSync(join(root, "Older", "Older.addon"), "## Version: 1.0\n")
   mkdirSync(join(root, "Bare"))
@@ -28,7 +28,7 @@ test("a folder is one addon and a loose file is none", () => {
   return readInstalledAddons(root).then((held) => {
     expect(held).toEqual([
       { dir: "Bare", version: undefined },
-      { dir: "LibGPS", version: "7.0" },
+      { dir: "LibHistoire", version: "7.0" },
       { dir: "Older", version: "1.0" },
     ])
   })
