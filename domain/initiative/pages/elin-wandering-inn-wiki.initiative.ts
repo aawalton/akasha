@@ -6,7 +6,5 @@ export const elinWanderingInnWiki = {
   slug: "elin-wandering-inn-wiki",
   domain: "domain/wandering-inn-wiki",
   persona: "persona/elin",
-  intentStack: [
-    { statement: "innworld.wiki shows pages through akasha's own navigation and page components." },
-  ],
+  intentStack: [],
 } as const satisfies Initiative
