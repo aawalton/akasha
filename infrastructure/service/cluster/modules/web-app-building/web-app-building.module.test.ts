@@ -369,7 +369,7 @@ test("a tree tracking every manifest it names installs", () => {
   expect(installableAt(TREES.root, TREES.whole)).toEqual({ installs: true })
 })
 
-test("the worktree is not what an install is proved against", () => {
+test("the files on disk are not what an install is proved against", () => {
   expect(installableAt(TREES.root, TREES.missing)).not.toEqual({ installs: true })
 })
 

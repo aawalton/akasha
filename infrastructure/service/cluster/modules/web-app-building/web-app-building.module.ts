@@ -35,7 +35,7 @@ export const webAppBuilding = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Whether a tree installs is asked of the manifests that tree tracks rather than of the worktree.",
+        "Whether a tree installs is asked of the manifests that tree tracks rather than of the files on disk.",
     },
     {
       decisionKind: "decision-kind/departure",
