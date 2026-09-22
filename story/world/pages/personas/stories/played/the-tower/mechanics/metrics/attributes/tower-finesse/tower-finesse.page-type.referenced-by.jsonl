@@ -2,6 +2,8 @@
 {"propertySlug":"import","fileName":"tower-finesse.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-initiative.metric-derived.formula.test.ts"}
 {"propertySlug":"import","fileName":"tower-finesse.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-attack.metric-derived.formula.code.ts"}
 {"propertySlug":"import","fileName":"tower-finesse.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-attack.metric-derived.formula.test.ts"}
+{"propertySlug":"import","fileName":"tower-finesse.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-defence.metric-derived.formula.code.ts"}
+{"propertySlug":"import","fileName":"tower-finesse.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-defence.metric-derived.formula.test.ts"}
 {"propertySlug":"import","fileName":"tower-finesse.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-stamina-max.metric-derived.formula.code.ts"}
 {"propertySlug":"import","fileName":"tower-finesse.page-type.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-stamina-max.metric-derived.formula.test.ts"}
 {"propertySlug":"import","fileName":"tower-finesse.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-finesse/pages/the-tower-alan.tower-finesse.ts"}
