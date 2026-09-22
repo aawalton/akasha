@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"git-dir.module.code.ts","path":"command/pages/deploy/modules/holding/deploy-holding.module.code.ts"}
 {"propertySlug":"import","fileName":"git-dir.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"}
+{"propertySlug":"import","fileName":"git-dir.module.code.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"git-dir.module.code.ts","path":"command/pages/git/sweep/git-sweep.command.code.ts"}
 {"propertySlug":"import","fileName":"git-dir.module.code.ts","path":"command/pages/git/sweep/git-sweep.command.test.ts"}
 {"propertySlug":"import","fileName":"git-dir.module.code.ts","path":"domain/plain-language/modules/parse-cache/parse-cache.module.code.ts"}

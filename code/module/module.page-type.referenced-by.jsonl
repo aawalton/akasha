@@ -1275,6 +1275,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/fitness/modules/cooling/cooling.module.ts"}

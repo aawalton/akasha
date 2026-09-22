@@ -74,6 +74,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.test.ts"}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/git/push/git-push.command.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts"}

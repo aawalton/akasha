@@ -278,6 +278,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/folder-clearing/folder-clearing.module.ts","id":"01a05ece-94d1-7000-ab86-b582eaade3f1"}
 {"propertySlug":"decision-kind","path":"command/pages/change/apply/change-apply.command.ts","id":"01a08179-6ebf-724c-8698-aa6e02645d0e"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.ts","id":"01a08e07-611c-798a-bc99-55b321247e50"}
+{"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.ts","id":"01a0c9aa-e537-77da-a7a4-9d0d8d08e341"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.ts","id":"01a05f90-94a7-7038-a602-193e6370fbac"}
 {"propertySlug":"decision-kind","path":"command/pages/inference/wan/extend/inference-wan-extend.command.ts","id":"01a093fb-0896-7f06-b8ca-489590932fe3"}
 {"propertySlug":"decision-kind","path":"command/pages/inference/wan/generate/inference-wan-generate.command.ts","id":"01a093fa-cf48-7c82-9dc2-020adb45aa53"}

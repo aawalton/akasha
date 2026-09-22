@@ -65,6 +65,11 @@ import {
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { installedOnSimulator } from "akasha/command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
 import { pinnedTree } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
+import {
+  foundIn,
+  PINNED,
+  takingFrom,
+} from "akasha/command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.code.ts"
 import { putUpWebApp } from "akasha/command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"
 import type { Ended } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 import { ranInCluster } from "akasha/infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"
@@ -105,16 +110,6 @@ export function saidOfUnproven(unproven: readonly string[]): string {
   )
 }
 
-const PINNED: ReadonlySet<string> = new Set([
-  WORKSTATION_SERVICE,
-  INFERENCE_SERVICE,
-  CONTAINER_RECIPE,
-  CLUSTER_SERVICE,
-  WEB_APP,
-  TEMPER_ADDON,
-  CLUSTER_FOUNDATION,
-])
-
 const RUN_IN_CLUSTER: ReadonlySet<string> = new Set([CLUSTER_SERVICE, CONTAINER_RECIPE, WEB_APP])
 
 export type Wanted = {
@@ -139,21 +134,24 @@ function wrongIn(kind: string, slug: string, wanted: Wanted): string | null {
   return `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${noUpload.said}\` says nothing about it`
 }
 
-async function putUp(
+function sweptOf(root: string): readonly string[] {
+  const swept = takingFrom(foundIn(root))
+  return [
+    ...swept.took.map((one) => `took\t${one}`),
+    ...swept.refusals.map((one) => `left\t${one}`),
+  ]
+}
+
+async function putUpFrom(
   read: Read,
   slug: string,
   commit: string,
   wanted: Wanted,
   given: Given,
-  restarting: ReadonlySet<string> | null = null,
-  up: string[] = []
+  at: string,
+  restarting: ReadonlySet<string> | null,
+  up: string[]
 ): Promise<Answer> {
-  let at = ""
-  if (PINNED.has(read.kind)) {
-    const pinned = pinnedTree(given.root, read.kind, commit)
-    if ("refused" in pinned) return refused(pinned.refused, OPERATIONAL)
-    at = pinned.at
-  }
   if (read.kind === IOS_APP) {
     return shipIosApp(slug, read.pagePath, wanted.noUpload, commit, up)
   }
@@ -180,6 +178,25 @@ async function putUp(
   const web = await putUpWebApp(slug, commit, given, at, up)
   if (bundle === null) return web
   return answeredWith([...bundle.lines, ...web.report], web.refusals, web.code)
+}
+
+async function putUp(
+  read: Read,
+  slug: string,
+  commit: string,
+  wanted: Wanted,
+  given: Given,
+  restarting: ReadonlySet<string> | null = null,
+  up: string[] = []
+): Promise<Answer> {
+  if (!PINNED.has(read.kind)) {
+    return await putUpFrom(read, slug, commit, wanted, given, "", restarting, up)
+  }
+  const pinned = pinnedTree(given.root, read.kind, commit)
+  if ("refused" in pinned) return refused(pinned.refused, OPERATIONAL)
+  const swept = sweptOf(given.root)
+  const answer = await putUpFrom(read, slug, commit, wanted, given, pinned.at, restarting, up)
+  return answeredWith([...swept, ...answer.report], answer.refusals, answer.code)
 }
 
 export type PuttingUp = (

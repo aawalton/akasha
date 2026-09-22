@@ -25,6 +25,7 @@ export const deploy = {
     "module/deploy-simulator-installing",
     "module/deploy-tree-pinning",
     "module/deploy-web-putting-up",
+    "module/deploy-tree-sweeping",
   ],
   decisions: [
     {
