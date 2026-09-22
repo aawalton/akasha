@@ -5,7 +5,7 @@ export const collectionTags = {
   type: "page-type/text-property",
   slug: "collection-tags",
   propertySlug: "tags",
-  definition: "a word a person files a collection under",
+  definition: "a person's word for a collection",
   maxLength: 100,
   nameFormat: null,
   decisions: [

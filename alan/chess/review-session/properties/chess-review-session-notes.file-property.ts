@@ -5,7 +5,7 @@ export const chessReviewSessionNotes = {
   type: "page-type/file-property",
   slug: "chess-review-session-notes",
   propertySlug: "notes",
-  definition: "what the coach said as a game was stepped through",
+  definition: "what the coach said while stepping through a game",
   extensions: ["txt"],
   decisions: [
     {

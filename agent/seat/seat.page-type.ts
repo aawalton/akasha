@@ -4,7 +4,7 @@ export const seat = {
   id: "01a05035-2609-7463-ba49-ccaf20f5c337",
   type: "page-type/page-type",
   slug: "seat",
-  definition: "a place an agent works from",
+  definition: "an agent's place of work",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "seat" },
     { partOfSpeech: "part-of-speech/noun", spelling: "seats" },

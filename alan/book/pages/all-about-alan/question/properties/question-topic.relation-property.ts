@@ -5,7 +5,7 @@ export const questionTopic = {
   type: "page-type/relation-property",
   slug: "question-topic",
   propertySlug: "topic",
-  definition: "the topic a question is open on",
+  definition: "a question's topic",
   targetPageType: "page-type/all-about-alan-topic",
   decisions: [
     {

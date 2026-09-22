@@ -5,7 +5,7 @@ export const mode = {
   type: "page-type/text-property",
   slug: "mode",
   propertySlug: "mode",
-  definition: "the mode an agent in a seat is running in",
+  definition: "the mode of an agent running in a seat",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

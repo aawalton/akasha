@@ -5,7 +5,7 @@ export const tcoAnnualMiles = {
   type: "page-type/number-property",
   slug: "tco-annual-miles",
   propertySlug: "tco-annual-miles",
-  definition: "how many miles a year the cost of owning the car is worked out over",
+  definition: "the yearly miles behind the cost of owning the car",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

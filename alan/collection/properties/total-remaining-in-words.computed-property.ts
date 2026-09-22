@@ -5,7 +5,7 @@ export const totalRemainingInWords = {
   type: "page-type/computed-property",
   slug: "total-remaining-in-words",
   propertySlug: "total-remaining-in-words",
-  definition: "how much of the collection and everything it holds is left to work through",
+  definition: "how much of the collection and everything it holds is left",
   holds: "number",
   code: "ts",
   types: "ts",

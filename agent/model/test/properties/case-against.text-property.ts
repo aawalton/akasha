@@ -5,7 +5,7 @@ export const caseAgainst = {
   type: "page-type/text-property",
   slug: "case-against",
   propertySlug: "against",
-  definition: "what a case's text is judged by",
+  definition: "what judges a case's text",
   maxLength: 2000,
   nameFormat: null,
   decisions: [

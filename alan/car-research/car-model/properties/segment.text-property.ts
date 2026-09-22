@@ -5,7 +5,7 @@ export const segment = {
   type: "page-type/text-property",
   slug: "segment",
   propertySlug: "segment",
-  definition: "the size and price bracket the model sells in",
+  definition: "the model's size and price bracket",
   maxLength: 20,
   nameFormat: null,
   types: "ts",

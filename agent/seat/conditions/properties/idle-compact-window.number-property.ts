@@ -5,7 +5,7 @@ export const idleCompactWindow = {
   type: "page-type/number-property",
   slug: "idle-compact-window",
   propertySlug: "idle-compact-window",
-  definition: "the token count an idle seat is compacted at",
+  definition: "the token count compacting an idle seat",
   max: null,
   decisions: [
     {

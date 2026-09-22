@@ -5,7 +5,7 @@ export const openingName = {
   type: "page-type/text-property",
   slug: "opening-name",
   propertySlug: "opening-name",
-  definition: "the opening a game was played into",
+  definition: "a game's opening",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

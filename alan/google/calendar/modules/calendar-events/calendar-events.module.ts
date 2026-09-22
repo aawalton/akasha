@@ -4,7 +4,7 @@ export const calendarEvents = {
   id: "01a05c02-c735-7c7d-b0df-e9fdf86fe475",
   type: "page-type/module",
   slug: "calendar-events",
-  definition: "the calendar operations an event is put through",
+  definition: "the calendar operations over an event",
   code: "ts",
   test: "ts",
   decisions: [
