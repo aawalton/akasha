@@ -5,7 +5,7 @@ export const destinationsPoiData = {
   type: "page-type/module",
   slug: "destinations-poi-data",
   definition:
-    "the keeps, the points of interest by zone and the dungeon item sets, joined from its runs",
+    "the keeps, the points of interest by zone and the dungeon item sets, joined from its sets",
   code: "ts",
   decisions: [
     {

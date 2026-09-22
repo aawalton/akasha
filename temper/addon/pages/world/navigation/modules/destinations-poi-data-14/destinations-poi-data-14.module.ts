@@ -4,7 +4,7 @@ export const destinationsPoiData14 = {
   id: "01a06269-29d1-727b-a2b4-6b11a1c50ccb",
   type: "page-type/module",
   slug: "destinations-poi-data-14",
-  definition: "a run of the keeps, the points of interest by zone and the dungeon item sets",
+  definition: "a set of the keeps, the points of interest by zone and the dungeon item sets",
   code: "ts",
   decisions: [
     {
