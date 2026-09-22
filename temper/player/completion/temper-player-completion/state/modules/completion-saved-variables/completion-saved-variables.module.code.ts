@@ -51,7 +51,10 @@ export interface SavedVariablesData {
   characters: Record<string, SavedCharacterEntry>
   tasks: Record<string, TaskData>
   completions: Record<string, number>
-  taskProgressSnapshots: Record<string, { date: string; value: number; charId?: string }>
+  taskProgressSnapshots: Record<
+    string,
+    { date: string; value: number; reached?: number; charId?: string }
+  >
   characterPriority: string[]
   completionOverrides?: Record<string, CompletionOverride[]>
   taskPanelPosition: { x: number; y: number } | undefined

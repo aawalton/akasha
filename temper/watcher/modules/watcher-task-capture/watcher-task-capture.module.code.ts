@@ -58,8 +58,11 @@ export function readTaskCompletions(content: string): TaskCompletionsRead {
   const progressed: CharacterMark[] = []
   for (const [key, held] of Object.entries(snapshots)) {
     if (namesWholeTask(key)) continue
-    const reached = asRecord(held)?.value
-    if (typeof reached !== "number" || reached <= 0) continue
+    const snapshot = asRecord(held)
+    const opened = snapshot?.value
+    const reached = snapshot?.reached
+    if (typeof opened !== "number" || typeof reached !== "number") continue
+    if (reached <= opened) continue
     progressed.push(markOf(key))
   }
 

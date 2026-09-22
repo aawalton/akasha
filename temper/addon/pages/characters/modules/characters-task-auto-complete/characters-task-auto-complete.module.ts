@@ -20,5 +20,18 @@ export const charactersTaskAutoComplete = {
       statement:
         "A task scoped to every character is marked once every character has its own mark.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A character's first reading of a task on a day opens a snapshot and marks nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading above the one a snapshot opened on is written onto that snapshot.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A daily writ rising is written onto its snapshot and marks nothing.",
+    },
   ],
 } as const satisfies Module

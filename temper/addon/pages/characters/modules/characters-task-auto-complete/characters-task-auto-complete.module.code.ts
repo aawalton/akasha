@@ -125,8 +125,16 @@ function checkTaskAutoCompletion(): undefined {
           value: delta,
           charId: currentCharId,
         }
-      } else if (delta > snapshot.value && task.completionCardId !== "daily-writs") {
-        sv.completions[completionKey] = GetTimeStamp()
+      } else if (delta > snapshot.value) {
+        sv.taskProgressSnapshots[completionKey] = {
+          date: snapshot.date,
+          value: snapshot.value,
+          reached: delta,
+          charId: snapshot.charId,
+        }
+        if (task.completionCardId !== "daily-writs") {
+          sv.completions[completionKey] = GetTimeStamp()
+        }
       }
 
       if (progress.current >= progress.total && task.completionCardId !== "daily-writs") {

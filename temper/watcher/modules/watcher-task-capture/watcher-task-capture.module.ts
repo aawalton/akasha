@@ -6,6 +6,7 @@ export const watcherTaskCapture = {
   slug: "watcher-task-capture",
   definition: "the task capture turned into whole-task completions and per-character marks",
   code: "ts",
+  test: "ts",
   testFixtures: "ts",
   decisions: [
     {
@@ -30,8 +31,17 @@ export const watcherTaskCapture = {
       statement: "The keys left out are counted beside the completions captured.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A progress snapshot holds the reading a character opened the day on.",
+    },
+    {
       decisionKind: "decision-kind/departure",
-      statement: "A progress snapshot the game holds at zero is no progress.",
+      statement:
+        "A character progressed where the snapshot reached above the reading it opened on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A snapshot that has reached nothing above its opening is no progress.",
     },
     {
       decisionKind: "decision-kind/departure",
