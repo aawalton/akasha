@@ -123,13 +123,19 @@ export function planFor(
   services: readonly Service[],
   owned: readonly string[],
   restarting: ReadonlySet<string> = new Set(),
-  shared: ReadonlyMap<string, string> = new Map()
+  shared: ReadonlyMap<string, string> = new Map(),
+  leftAlone: ReadonlySet<string> = new Set()
 ): Plan {
   const write = new Map<string, string>(shared)
   const enable: string[] = []
   const stop: string[] = []
   const restart: string[] = []
+  const left = new Set<string>()
   for (const one of services) {
+    if (leftAlone.has(one.service.slug)) {
+      for (const name of textFor(one).keys()) left.add(name)
+      continue
+    }
     for (const [name, text] of textFor(one)) write.set(name, text)
     const named = installedUnitName(one)
     if (one.service.enabled) enable.push(named)
@@ -139,7 +145,7 @@ export function planFor(
     }
   }
   const ours = new Set(write.keys())
-  const remove = owned.filter((one) => !ours.has(one)).sort()
+  const remove = owned.filter((one) => !ours.has(one) && !left.has(one)).sort()
   return {
     write,
     enable: enable.sort(),

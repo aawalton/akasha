@@ -126,5 +126,14 @@ export const serviceInstalling = {
       decisionKind: "decision-kind/departure",
       statement: "A unit whose service restarts itself is named to be restarted by nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A service left alone is written no unit, enabled by nothing, restarted by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The unit of a service left alone stays where it is rather than being taken away.",
+    },
   ],
 } as const satisfies Module

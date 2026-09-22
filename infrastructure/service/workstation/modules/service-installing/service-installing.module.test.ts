@@ -108,6 +108,32 @@ test("a unit a service does account for is not removed", () => {
   expect(planFor([pageOf({})], ["held-service.service"]).remove).toEqual([])
 })
 
+const LEFT = new Set(["left-service"])
+
+test("a service left alone is written no unit, enabled by nothing and restarted by nothing", () => {
+  const plan = planFor(
+    [pageOf({ slug: "left-service" }), pageOf({})],
+    [],
+    new Set(["left-service", "held-service"]),
+    new Map(),
+    LEFT
+  )
+  expect([...plan.write.keys()]).toEqual(["held-service.service"])
+  expect(plan.enable).toEqual(["held-service.service"])
+  expect(plan.restart).toEqual(["held-service.service"])
+})
+
+test("the unit of a service left alone stays where it is rather than being taken away", () => {
+  const plan = planFor(
+    [pageOf({ slug: "left-service" })],
+    ["left-service.service", "gone-away.service"],
+    new Set(),
+    new Map(),
+    LEFT
+  )
+  expect(plan.remove).toEqual(["gone-away.service"])
+})
+
 test("a unit is written to the staging folder and reached by a link systemd reads", () => {
   writeStaged(HOME, "y.service", "body")
   linkUnit(HOME, "y.service")

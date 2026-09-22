@@ -114,5 +114,13 @@ export const servicePuttingUp = {
       decisionKind: "decision-kind/departure",
       statement: "A teller whose command will not compose refuses the whole plan.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service left alone has no bundle built for it and no unit written for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a service goes on running the bundle the deploy before this one built.",
+    },
   ],
 } as const satisfies Module

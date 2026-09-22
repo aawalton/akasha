@@ -71,7 +71,12 @@ export type Bundled =
   | { readonly bundles: ReadonlyMap<string, string>; readonly said: readonly string[] }
   | Refused
 
-export async function bundlesBuilt(root: string, home: string, commit: string): Promise<Bundled> {
+export async function bundlesBuilt(
+  root: string,
+  home: string,
+  commit: string,
+  leftAlone: ReadonlySet<string> = new Set()
+): Promise<Bundled> {
   const bundles = new Map<string, string>()
   const said: string[] = []
   const moved = movedFrom(root, commit)
@@ -86,6 +91,7 @@ export async function bundlesBuilt(root: string, home: string, commit: string): 
   bundles.set(TELLER_STEM, teller.built.at)
   said.push(`bundled\t${TELLER_STEM}\t${teller.built.at}`)
   for (const slug of launchedFromBundle(root)) {
+    if (leftAlone.has(slug)) continue
     const made = await bundledFor(root, slug, home, commit, moved.moved)
     if (!("built" in made)) {
       return { refused: saidOfUnbuilt(slug, "unnamed" in made ? made.unnamed : made.refused) }
@@ -100,7 +106,8 @@ export function plannedEvery(
   root: string,
   restarting: ReadonlySet<string> = new Set(),
   codeAt: string = "",
-  bundles: ReadonlyMap<string, string> = new Map()
+  bundles: ReadonlyMap<string, string> = new Map(),
+  leftAlone: ReadonlySet<string> = new Set()
 ): Planned | Answer {
   const read = everyService(root, codeAt, bundles)
   if ("refused" in read) return refusedBy([read.refused], DATA)
@@ -111,7 +118,7 @@ export function plannedEvery(
   const shared = sharedUnitsIn(root, codeAt, bundles)
   if ("refused" in shared) return refusedBy([shared.refused], DATA)
 
-  const plan = planFor(read.services, ourInstalled(home), restarting, shared)
+  const plan = planFor(read.services, ourInstalled(home), restarting, shared, leftAlone)
   const report: string[] = [`service-workstation\t${read.services.length} service(s)`]
   for (const name of plan.write.keys()) report.push(`write\t${name}`)
   for (const name of plan.enable) report.push(`enable\t${name}`)
@@ -126,15 +133,16 @@ export async function putUpEvery(
   commit: string,
   restarting: ReadonlySet<string> = new Set(),
   codeAt: string = "",
-  up: string[] = []
+  up: string[] = [],
+  leftAlone: ReadonlySet<string> = new Set()
 ): Promise<Answer> {
   const home = homeAt()
   if (home === null) return refusedBy([NO_HOME], OPERATIONAL)
 
-  const built = await bundlesBuilt(root, home, commit)
+  const built = await bundlesBuilt(root, home, commit, leftAlone)
   if ("refused" in built) return refusedBy([built.refused], OPERATIONAL)
 
-  const planned = plannedEvery(root, restarting, codeAt, built.bundles)
+  const planned = plannedEvery(root, restarting, codeAt, built.bundles, leftAlone)
   if (!("plan" in planned)) return planned
 
   const done = installing(planned.home, planned.plan, systemctl, up)
