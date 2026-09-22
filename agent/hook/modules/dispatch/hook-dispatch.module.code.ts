@@ -1,4 +1,4 @@
-import { existsSync, realpathSync } from "node:fs"
+import { realpathSync } from "node:fs"
 import { join } from "node:path"
 import {
   type Answer,
@@ -23,11 +23,18 @@ import {
 } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { readingFrom } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import {
+  everyOfType,
+  readingIn,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const HOOK = "hook-dispatch"
+
+const PACKAGE = "akasha/"
 
 const PAGE_TYPE = "agent-hook"
 
@@ -95,11 +102,11 @@ export function heldFor(
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function hooksIn(root: string): readonly Valued[] {
+export function hooksIn(given: string | Reading): readonly Valued[] {
   const found: Valued[] = []
   for (const one of HOOK_TYPES) {
-    for (const listed of everyOfType(root, one)) {
-      const value = valueAt(listed.path, root)
+    for (const listed of everyOfType(given, one)) {
+      const value = valueByPath(given, listed.path)
       if (value !== null) found.push({ path: listed.path, value })
     }
   }
@@ -156,12 +163,17 @@ function judgingIn(held: unknown): Judging | null {
   return typeof found === "function" ? (found as Judging) : null
 }
 
-async function judgingAt(at: string): Promise<Judging | null> {
+async function importedAt(at: string): Promise<unknown> {
   try {
-    return judgingIn(await import(at))
+    return await import(at)
   } catch {
     return null
   }
+}
+
+async function judgingAt(root: string, at: string): Promise<Judging | null> {
+  const held = (await importedAt(`${PACKAGE}${at}`)) ?? (await importedAt(join(root, at)))
+  return held === null ? null : judgingIn(held)
 }
 
 export function ranIn(given: unknown): Ran | null {
@@ -185,9 +197,13 @@ async function judgedBy(judging: Judging, payload: Record<string, unknown>): Pro
   }
 }
 
-async function answeredAt(at: string, payload: Record<string, unknown>): Promise<Ran> {
-  const judging = await judgingAt(at)
-  if (judging === null) return await ranAt(at, JSON.stringify(payload))
+async function answeredAt(
+  root: string,
+  at: string,
+  payload: Record<string, unknown>
+): Promise<Ran> {
+  const judging = await judgingAt(root, at)
+  if (judging === null) return await ranAt(join(root, at), JSON.stringify(payload))
   return await judgedBy(judging, structuredClone(payload))
 }
 
@@ -197,8 +213,12 @@ function costKept(root: string, page: string, cost: Cost): undefined {
   } catch {}
 }
 
-async function answerFor(root: string, payload: Record<string, unknown>): Promise<Answer> {
-  const listed = hooksIn(root)
+async function answerFor(
+  root: string,
+  reading: Reading,
+  payload: Record<string, unknown>
+): Promise<Answer> {
+  const listed = hooksIn(reading)
   if (listed.length === 0) {
     return refusing(`${HOOK}: the index names no \`${PAGE_TYPE}\`, so nothing judged this call`)
   }
@@ -212,11 +232,10 @@ async function answerFor(root: string, payload: Record<string, unknown>): Promis
   const runId = Bun.randomUUIDv7()
   let before = opening()
   for (const one of heldFor(listed, event, textAt(payload, TOOL))) {
-    const at = join(root, one.at)
-    if (!existsSync(at)) {
+    if (reading.read(one.at) === null) {
       return refusing(`${HOOK}: \`${one.slug}\` names \`${one.at}\`, and nothing is there to run`)
     }
-    const answered = await answeredAt(at, carried)
+    const answered = await answeredAt(root, one.at, carried)
     const after = closing()
     const refusals = answered.code === BLOCKED ? 1 : 0
     costKept(root, one.page, costOf(before, after, runId, event, one.slug, 0, refusals))
@@ -233,7 +252,17 @@ async function answerFor(root: string, payload: Record<string, unknown>): Promis
   return rewriting(event, carried[INPUT] as Record<string, unknown>)
 }
 
-async function ran(): Promise<number> {
+function readingOver(root: string, base: string | null): Reading {
+  if (base !== null) {
+    try {
+      const found = readingFrom(root, base)
+      if (found !== null && hooksIn(found).length > 0) return found
+    } catch {}
+  }
+  return readingIn(root)
+}
+
+export async function ran(root: string | null = null, base: string | null = null): Promise<number> {
   const raw = await Bun.stdin.text()
   let payload: Record<string, unknown> | null
   try {
@@ -245,7 +274,8 @@ async function ran(): Promise<number> {
     return said(refusing(`${HOOK}: the payload would not read, so nothing judged this call`))
   }
   try {
-    return said(await answerFor(rootOf(realpathSync(import.meta.path)), payload))
+    const at = root ?? rootOf(realpathSync(import.meta.path))
+    return said(await answerFor(at, readingOver(at, base), payload))
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return said(refusing(`${HOOK}: ${why}, so nothing judged this call`))

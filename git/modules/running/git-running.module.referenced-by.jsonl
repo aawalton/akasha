@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts"}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"agent/subagent/modules/page-history/subagent-page-history.module.code.ts"}

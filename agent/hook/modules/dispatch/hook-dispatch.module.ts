@@ -7,6 +7,7 @@ export const hookDispatch = {
   definition: "the hook a client calls, running every hook the index names for that event",
   code: "ts",
   test: "ts",
+  reachedByPath: ["ran"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -19,6 +20,26 @@ export const hookDispatch = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The hooks are the pages the index names as hooks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The index read and the pages read are the ones the caller hands a reading of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller handing in no commit is read from the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A commit naming no hook is passed over, and the checkout is read instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hook's code is imported by the package name, and by its path where that fails.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hook's code is there where the reading answers a body at the path it names.",
     },
     {
       decisionKind: "decision-kind/departure",
