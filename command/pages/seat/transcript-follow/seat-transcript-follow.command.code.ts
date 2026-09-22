@@ -22,6 +22,8 @@ const ASKED_RECORD = "user"
 
 const ANSWER_RECORD = "assistant"
 
+const ANSWER_ENDED = "end_turn"
+
 const TEXT_BLOCK = "text"
 
 const TYPE = "type"
@@ -29,6 +31,8 @@ const TYPE = "type"
 const MESSAGE = "message"
 
 const CONTENT = "content"
+
+const STOP_REASON = "stop_reason"
 
 const SIDECHAIN = "isSidechain"
 
@@ -64,6 +68,8 @@ export type Reading = (from: number, upTo: number) => Scanned | null
 type Held = Record<string, unknown>
 
 type Asked = { readonly uuid: string; readonly said: string }
+
+type Answered = { readonly said: string; readonly ended: boolean }
 
 export const NOTHING_SCANNED: Scanned = { readTo: 0, text: "" }
 
@@ -113,22 +119,26 @@ function askedIn(held: Held): Asked | null {
   return typeof uuid === "string" && uuid !== "" ? { uuid, said: content } : null
 }
 
-function answeredIn(held: Held): string {
-  if (held[TYPE] !== ANSWER_RECORD || asideOf(held)) return ""
+function answeredIn(held: Held): Answered | null {
+  if (held[TYPE] !== ANSWER_RECORD || asideOf(held)) return null
   const message = messageIn(held)
-  return message === null ? "" : textOf(message[CONTENT])
+  if (message === null) return null
+  return { said: textOf(message[CONTENT]), ended: message[STOP_REASON] === ANSWER_ENDED }
 }
 
 export function exchangesIn(text: string, cursor: string | null): readonly Exchange[] {
   const every: Exchange[] = []
   let asked: Asked | null = null
   let replies: string[] = []
-  const closing = (): undefined => {
+  let ended = false
+  const closing = (over: boolean): undefined => {
     const turn = asked
     const replied = replies.join("\n")
+    const whole = ended || over
     asked = null
     replies = []
-    if (turn === null || replied === "") return
+    ended = false
+    if (turn === null || replied === "" || !whole) return
     every.push({ uuid: turn.uuid, said: turn.said, replied })
   }
   for (const line of text.split("\n")) {
@@ -136,14 +146,16 @@ export function exchangesIn(text: string, cursor: string | null): readonly Excha
     if (held === null) continue
     const next = askedIn(held)
     if (next !== null) {
-      closing()
+      closing(true)
       asked = next
       continue
     }
-    const said = answeredIn(held)
-    if (said !== "" && asked !== null) replies.push(said)
+    const heard = answeredIn(held)
+    if (heard === null || asked === null) continue
+    if (heard.said !== "") replies.push(heard.said)
+    ended = heard.ended
   }
-  closing()
+  closing(false)
   const at = cursor === null ? -1 : every.findIndex((exchange) => exchange.uuid === cursor)
   return at < 0 ? every : every.slice(at + 1)
 }

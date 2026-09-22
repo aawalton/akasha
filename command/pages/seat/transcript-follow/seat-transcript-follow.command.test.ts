@@ -42,7 +42,15 @@ function answeredWith(text: string, aside = false): string {
   return JSON.stringify({
     type: "assistant",
     isSidechain: aside,
-    message: { role: "assistant", content: [{ type: "text", text }] },
+    message: { role: "assistant", stop_reason: "end_turn", content: [{ type: "text", text }] },
+  })
+}
+
+function writtenSoFar(text: string): string {
+  return JSON.stringify({
+    type: "assistant",
+    isSidechain: false,
+    message: { role: "assistant", stop_reason: null, content: [{ type: "text", text }] },
   })
 }
 
@@ -51,6 +59,7 @@ const THINKING = JSON.stringify({
   isSidechain: false,
   message: {
     role: "assistant",
+    stop_reason: "tool_use",
     content: [
       { type: "thinking", thinking: "quietly" },
       { type: "tool_use", name: "Bash", input: { command: "ls" } },
@@ -111,12 +120,36 @@ test("thinking, a tool call and a tool answer are no part of what the agent wrot
 test("the words the agent wrote across records join into what was replied", () => {
   const text = linesOf([
     asked("u1", "hello"),
-    answeredWith("first"),
+    writtenSoFar("first"),
     THINKING,
     answeredWith("second"),
   ])
 
   expect(exchangesIn(text, null)).toEqual([{ uuid: "u1", said: "hello", replied: "first\nsecond" }])
+})
+
+test("a reply still being written is held back rather than answered in part", () => {
+  const text = linesOf([asked("u1", "hello"), writtenSoFar("the first of it"), THINKING])
+
+  expect(exchangesIn(text, null)).toEqual([])
+})
+
+test("the exchange held back is answered whole once that turn is finished", () => {
+  const begun = linesOf([asked("u1", "hello"), writtenSoFar("the first of it"), THINKING])
+  const whole = `${begun}${linesOf([answeredWith("and the rest")])}`
+
+  expect(exchangesIn(begun, null)).toEqual([])
+  expect(exchangesIn(whole, null)).toEqual([
+    { uuid: "u1", said: "hello", replied: "the first of it\nand the rest" },
+  ])
+})
+
+test("a reply the person's next turn cut short is answered as far as that reply got", () => {
+  const text = linesOf([asked("u1", "hello"), writtenSoFar("half a thought"), asked("u2", "stop")])
+
+  expect(exchangesIn(text, null)).toEqual([
+    { uuid: "u1", said: "hello", replied: "half a thought" },
+  ])
 })
 
 test("a last turn with nothing written back yet is answered nowhere", () => {
@@ -217,15 +250,15 @@ test("a wait that elapses is answered an empty list rather than a refusal", asyn
   }
 })
 
-test("an exchange finished while the call waits is answered before the wait elapses", async () => {
+test("a wait over a reply being written is answered that reply whole once it ends", async () => {
   const dir = mkdtempSync(join(SCRATCH_AT, SCRATCH_NAME))
   try {
     const path = join(dir, "seat.jsonl")
-    writeFileSync(path, linesOf([asked("u1", "hello")]))
+    writeFileSync(path, linesOf([asked("u1", "hello"), writtenSoFar("half")]))
     const waiting = followed(() => path, null, 4000, 10)
-    setTimeout(() => appendFileSync(path, linesOf([answeredWith("hi")])), 50)
+    setTimeout(() => appendFileSync(path, linesOf([answeredWith("and the rest")])), 50)
 
-    expect(await waiting).toEqual([{ uuid: "u1", said: "hello", replied: "hi" }])
+    expect(await waiting).toEqual([{ uuid: "u1", said: "hello", replied: "half\nand the rest" }])
   } finally {
     rmSync(dir, { recursive: true, force: true })
   }

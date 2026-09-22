@@ -41,6 +41,28 @@ export const seatTranscriptFollow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An exchange is answered once the agent's turn is finished rather than once any text is there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn is finished where an assistant record's message says `stop_reason` is `end_turn`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A record written before the turn ends says `stop_reason` is null or `tool_use`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reply still being written is held back, and answered whole at a call after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reply the person's next turn cuts short is answered as far as that reply got.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A call naming `--after` is answered the exchanges past the turn that uuid names.",
     },
     {
