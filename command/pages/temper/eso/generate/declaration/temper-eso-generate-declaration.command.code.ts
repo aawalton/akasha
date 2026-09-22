@@ -33,10 +33,10 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
-  generateEnumsFile,
-  generateEventsFile,
-  generateFunctionsFile,
-  generateObjectsFile,
+  enumGroups,
+  eventGroups,
+  functionGroups,
+  objectGroups,
 } from "akasha/temper/eso/declaration/modules/eso-declaration-text/eso-declaration-text.module.code.ts"
 import {
   parseEnums,
@@ -129,6 +129,10 @@ export function typeFaultsIn(selected: SelectedTokens): readonly string[] {
   return [...found].sort()
 }
 
+function joined(groups: readonly (readonly string[])[]): string {
+  return `${groups.map((one) => one.join("\n")).join("\n")}\n`
+}
+
 function ambientIn(root: string): readonly string[] {
   const carried = shadowAt(root).index.carryingOf(AMBIENT)
   if ("refused" in carried) return []
@@ -216,10 +220,10 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
   }
 
   const bodies: readonly (readonly [string, string])[] = [
-    ["enums.d.ts", stamped(generateEnumsFile(selected.enums))],
-    ["functions.d.ts", stamped(generateFunctionsFile(selected.functions))],
-    ["events.d.ts", stamped(generateEventsFile(selected.events))],
-    ["objects.d.ts", stamped(generateObjectsFile(selected.objects))],
+    ["enums.d.ts", stamped(joined(enumGroups(selected.enums)))],
+    ["functions.d.ts", stamped(joined(functionGroups(selected.functions)))],
+    ["events.d.ts", stamped(joined(eventGroups(selected.events)))],
+    ["objects.d.ts", stamped(joined(objectGroups(selected.objects)))],
     ["index.d.ts", stamped(INDEX_BODY)],
   ]
 

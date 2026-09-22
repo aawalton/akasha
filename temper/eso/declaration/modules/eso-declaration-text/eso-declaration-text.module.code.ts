@@ -5,14 +5,11 @@ import type {
   ParsedObject,
 } from "akasha/temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.code.ts"
 
-function header(title: string): string {
-  return [
-    `// ${title} (Auto-generated — opt-in scoped)`,
-    "// Generated from ESOUIDocumentation.txt by akasha temper eso generate declaration.",
-    "// Do not edit by hand; add tokens to the manifest and regenerate.",
-    "",
-  ].join("\n")
-}
+type Group = readonly string[]
+
+const NOTHING = "void"
+
+const ID64 = 'type Id64 = string & { readonly __brand: "Id64" }'
 
 function returnType(
   returns: ReadonlyArray<{ name: string; type: string }>,
@@ -30,76 +27,67 @@ function returnType(
     const tuple = returns.map((r) => `${r.name}: ${r.type}`).join(", ")
     return `LuaMultiReturn<[${tuple}]>`
   }
-  return "void"
+  return NOTHING
 }
 
-export function generateEnumsFile(enums: readonly ParsedEnum[]): string {
-  const lines: string[] = [header("ESO Enum Constants")]
-  const emittedTypes = new Set<string>()
-  for (const enumDef of enums) {
-    if (!emittedTypes.has(enumDef.name)) {
-      emittedTypes.add(enumDef.name)
-      lines.push(`// ${enumDef.name}`)
-      lines.push(`type ${enumDef.name} = number`)
+export function enumGroups(enums: readonly ParsedEnum[]): readonly Group[] {
+  const groups: Group[] = []
+  const named = new Set<string>()
+  for (const held of enums) {
+    const lines: string[] = []
+    if (!named.has(held.name)) {
+      named.add(held.name)
+      lines.push(`type ${held.name} = number`)
     }
-    for (const value of enumDef.values) {
-      lines.push(`declare const ${value}: number`)
-    }
-    lines.push("")
+    for (const value of held.values) lines.push(`declare const ${value}: number`)
+    if (lines.length > 0) groups.push(lines)
   }
-  return lines.join("\n")
+  return groups
 }
 
-export function generateFunctionsFile(functions: readonly ParsedFunction[]): string {
-  const lines: string[] = [
-    header("ESO Game API Functions"),
-    "// Id64 type for 64-bit identifiers",
-    'type Id64 = string & { readonly __brand: "Id64" }',
-    "",
-  ]
-  for (const func of functions) {
-    const params = func.params.map((p) => `${p.name}?: ${p.type}`)
+export function functionGroups(functions: readonly ParsedFunction[]): readonly Group[] {
+  const groups: Group[] = [[ID64]]
+  for (const held of functions) {
+    const params = held.params.map((one) => `${one.name}?: ${one.type}`)
     const sig = ["this: void", ...params].join(", ")
-    lines.push(
-      `declare function ${func.name}(${sig}): ${returnType(func.returns, func.hasVariableReturns)}`
-    )
-    lines.push("")
+    const answers = returnType(held.returns, held.hasVariableReturns)
+    groups.push([
+      answers === NOTHING
+        ? `declare const ${held.name}: (${sig}) => ${answers}`
+        : `declare function ${held.name}(${sig}): ${answers}`,
+    ])
   }
-  return lines.join("\n")
+  return groups
 }
 
-export function generateEventsFile(events: readonly ParsedEvent[]): string {
-  const lines: string[] = [header("ESO Events")]
-  const emitted = new Set<string>()
-  for (const event of events) {
-    if (emitted.has(event.name)) continue
-    emitted.add(event.name)
-    lines.push(`declare const ${event.name}: number`)
+export function eventGroups(events: readonly ParsedEvent[]): readonly Group[] {
+  const groups: Group[] = []
+  const named = new Set<string>()
+  for (const held of events) {
+    if (named.has(held.name)) continue
+    named.add(held.name)
+    groups.push([`declare const ${held.name}: number`])
   }
-  lines.push("")
-  return lines.join("\n")
+  return groups
 }
 
-export function generateObjectsFile(objects: readonly ParsedObject[]): string {
-  const lines: string[] = [header("ESO Object API")]
-  for (const obj of objects) {
-    const extendsClause = obj.inheritsFrom.length > 0 ? ` extends ${obj.inheritsFrom[0]}` : ""
-
-    if (obj.methods.length === 0 && obj.inheritsFrom.length === 0) {
-      lines.push(`type ${obj.name} = {}`)
-      lines.push("")
+export function objectGroups(objects: readonly ParsedObject[]): readonly Group[] {
+  const groups: Group[] = []
+  for (const held of objects) {
+    const above = held.inheritsFrom[0]
+    if (held.methods.length === 0 && above === undefined) {
+      groups.push([`type ${held.name} = {}`])
       continue
     }
-
-    lines.push(`interface ${obj.name}${extendsClause} {`)
-    for (const method of obj.methods) {
-      const params = method.params.map((p) => `${p.name}?: ${p.type}`).join(", ")
-      lines.push(
-        `  ${method.name}(${params}): ${returnType(method.returns, method.hasVariableReturns)}`
-      )
+    const opens = above === undefined ? "" : ` extends ${above}`
+    const lines = [`interface ${held.name}${opens} {`]
+    for (const method of held.methods) {
+      const params = method.params.map((one) => `${one.name}?: ${one.type}`).join(", ")
+      const answers = returnType(method.returns, method.hasVariableReturns)
+      lines.push(`  ${method.name}: (${params}) => ${answers}`)
     }
     lines.push("}")
-    lines.push("")
+    groups.push(lines)
   }
-  return lines.join("\n")
+  return groups
 }

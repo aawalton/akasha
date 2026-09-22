@@ -10,7 +10,23 @@ export const esoDeclarationText = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each file opens with a header saying the file was generated.",
+      statement: "Declarations are answered in groups rather than as one body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A group is the smallest run of lines a file may be divided between.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call answering nothing is a declared const holding a function type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An object states each method as a property holding a function type.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing written here carries a comment or a blank line.",
     },
     {
       decisionKind: "decision-kind/departure",
