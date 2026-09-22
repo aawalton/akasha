@@ -239,10 +239,6 @@ export const checkCode = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file no commit holds is named to an audit and has no body that audit can read.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "An audit asks whether a path is there rather than reading a body to find out.",
     },
   ],
