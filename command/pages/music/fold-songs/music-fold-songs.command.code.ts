@@ -47,7 +47,7 @@ const IDENTITY = "externalIdentity"
 
 const WORK_PATH = "/work/"
 
-const OWN = ["singability", "insights", "personalConnections", "reaction", "grade", "tags"] as const
+const OWN = ["singability", "insights", "personalConnections", "reaction", "tags"] as const
 
 const TAKE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 

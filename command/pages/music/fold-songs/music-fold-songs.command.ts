@@ -22,6 +22,10 @@ export const musicFoldSongs = {
       statement: "The page a person has written on is the page that stays.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement: "No grade says a song was written on, because a song carries none.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "Where no page is written on, a page whose artist is named a writer stays.",
     },
