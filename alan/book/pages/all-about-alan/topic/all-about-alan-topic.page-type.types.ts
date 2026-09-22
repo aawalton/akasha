@@ -1,4 +1,4 @@
-import type { TopicParents } from "akasha/alan/book/pages/all-about-alan/topic/properties/topic-parents.relation-property.types.ts"
+import type { TopicParents } from "akasha/alan/book/pages/all-about-alan/topic/properties/topic-parents.multi-relation-property.types.ts"
 import type { TopicRelated } from "akasha/alan/book/pages/all-about-alan/topic/properties/topic-related.relation-property.types.ts"
 import type { TopicSettled } from "akasha/alan/book/pages/all-about-alan/topic/properties/topic-settled.text-property.types.ts"
 import type { Definition } from "akasha/domain/properties/definition.standard-agent-english-property.types.ts"

@@ -7,7 +7,7 @@ export const allAboutAlanTopic = {
   definition: "a topic about Alan",
   extends: ["page-type/page"],
   parts: [
-    "relation-property/topic-parents",
+    "multi-relation-property/topic-parents",
     "relation-property/topic-related",
     "text-property/topic-settled",
   ],
@@ -15,7 +15,7 @@ export const allAboutAlanTopic = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
     {
-      pageProperty: "relation-property/topic-parents",
+      pageProperty: "multi-relation-property/topic-parents",
       required: false,
       many: true,
       maxCount: null,
