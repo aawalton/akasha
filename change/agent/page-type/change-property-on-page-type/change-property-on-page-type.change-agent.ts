@@ -7,7 +7,7 @@ export const changePropertyOnPageType = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
   changeTargetSubtype: "change-target-subtype/page-type-page-property",
-  definition: "one property's declaration on a page type stated anew, with its pages carried",
+  definition: "a property's declaration on a page type stated anew, with its pages carried",
   code: "ts",
   test: "ts",
   decisions: [

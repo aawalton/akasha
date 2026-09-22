@@ -7,7 +7,7 @@ export const movePages = {
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
-  definition: "many pages carried into the folders their lines name, in one call",
+  definition: "many pages carried into the folders their lines name, in a call",
   takesAtMost: true,
   code: "ts",
   test: "ts",

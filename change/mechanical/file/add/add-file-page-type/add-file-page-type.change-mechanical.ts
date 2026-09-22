@@ -7,7 +7,7 @@ export const addFilePageType = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page-type",
-  definition: "one page type written at one path",
+  definition: "a page type written at a path",
   code: "ts",
   test: "ts",
   decisions: [

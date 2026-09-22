@@ -7,7 +7,7 @@ export const removePropertyValue = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "one value taken out of one page property, judged by the checks a landing runs",
+  definition: "a value taken out of a page property, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
   decisions: [

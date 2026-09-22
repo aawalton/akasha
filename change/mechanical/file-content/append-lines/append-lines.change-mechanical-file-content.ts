@@ -7,7 +7,7 @@ export const appendLines = {
   changeMode: "change-mode/change-mode-append",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content",
-  definition: "content put at the end of what one path holds, with nothing else judged",
+  definition: "content put at the end of what a path holds, with nothing else judged",
   code: "ts",
   test: "ts",
   decisions: [

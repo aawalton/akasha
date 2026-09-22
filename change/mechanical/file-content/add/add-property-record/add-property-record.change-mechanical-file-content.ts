@@ -7,7 +7,7 @@ export const addPropertyRecord = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "one record put into one page property in a page's body",
+  definition: "a record put into a page property in a page's body",
   code: "ts",
   test: "ts",
   decisions: [

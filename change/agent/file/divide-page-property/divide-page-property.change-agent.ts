@@ -7,7 +7,7 @@ export const dividePageProperty = {
   changeMode: "change-mode/change-mode-divide",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file-page",
-  definition: "one page property's rows laid out again across the files the ceiling takes",
+  definition: "a page property's rows laid out again across the files the ceiling takes",
   code: "ts",
   test: "ts",
   decisions: [

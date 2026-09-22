@@ -7,7 +7,7 @@ export const changeFileContentPage = {
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page",
-  definition: "one passage of one page's body replaced, with what that page states judged",
+  definition: "a passage of a page's body replaced, with what that page states judged",
   code: "ts",
   test: "ts",
   decisions: [

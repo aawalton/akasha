@@ -7,7 +7,7 @@ export const removePropertyRecord = {
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "one record taken out of one page property in a page's body",
+  definition: "a record taken out of a page property in a page's body",
   code: "ts",
   test: "ts",
   decisions: [

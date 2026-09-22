@@ -7,7 +7,7 @@ export const addIfNotPresentFile = {
   changeMode: "change-mode/change-mode-add-if-not-present",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "one body written at one path that does not have that body already",
+  definition: "a body written at a path that does not have that body already",
   code: "ts",
   test: "ts",
   decisions: [
