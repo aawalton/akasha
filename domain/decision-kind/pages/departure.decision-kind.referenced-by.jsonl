@@ -2753,6 +2753,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/network/cloudflared/cloudflared.manifest.ts","id":"01a07387-a874-7d57-b61a-8779992b0fe9"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/headscale/headscale.manifest.ts","id":"01a0738c-9157-7c4c-906c-8ff65da0976d"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/network.domain.ts","id":"01a0658b-0f02-7e55-94d1-d612c0ed6115"}
+{"propertySlug":"decision-kind","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.ts","id":"01a0738e-d1b0-7ee3-877d-2bfed39ea842"}
 {"propertySlug":"decision-kind","path":"infrastructure/node/node.domain.ts","id":"01a0675b-16f6-70fc-b7f0-5a700f512e86"}
 {"propertySlug":"decision-kind","path":"infrastructure/resource-utilization/alan-attention/alan-attention.domain.ts","id":"01a0675b-16d4-7fec-97b7-58f61da0a03e"}
 {"propertySlug":"decision-kind","path":"infrastructure/resource-utilization/resource-utilization.domain.ts","id":"01a0675b-16f9-7b95-9d7f-cd041a034eab"}

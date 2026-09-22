@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"infrastructure/job/pod-janitor/pod-janitor.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"infrastructure/network/ddns-headscale/ddns-headscale.manifest.code.ts"}
-{"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"page/service/page-forwarder/page-forwarder.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"product/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"manifest-composing.module.code.ts","path":"product/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts"}

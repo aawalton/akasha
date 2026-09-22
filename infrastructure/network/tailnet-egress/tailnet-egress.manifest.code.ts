@@ -2,11 +2,12 @@ import {
   synthMulti,
   synthOne,
 } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { HOSTNAME_KEY } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import {
   kubernetesLabels,
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
-import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 import { tailnetEgress } from "akasha/infrastructure/service/cluster/pages/tailnet-egress/tailnet-egress.service-cluster.ts"
 
 const NAMESPACE = tailnetEgress.namespace
@@ -34,6 +35,52 @@ const DEPLOYMENT_SELECTOR_LABELS = selectorOf(DEPLOYMENT_LABELS, "name-instance"
 
 const NETPOL_LABELS = kubernetesLabels({ name: APP_NAME, managedBy: MANAGED_BY })
 
+const STATE_CLAIM = "tailnet-egress-state"
+
+const STATE_NODE = "node-05"
+
+const STATE_HOST_PATH = "/var/lib/tailnet-egress-state"
+
+const STATE_CAPACITY = "1Gi"
+
+function statePvYaml(): string {
+  return synthOne(NAMESPACE, "state-pv", {
+    apiVersion: "v1",
+    kind: "PersistentVolume",
+    metadata: { name: STATE_CLAIM, labels: DEPLOYMENT_LABELS },
+    spec: {
+      capacity: { storage: STATE_CAPACITY },
+      volumeMode: "Filesystem",
+      accessModes: ["ReadWriteOnce"],
+      persistentVolumeReclaimPolicy: "Retain",
+      storageClassName: "",
+      hostPath: { path: STATE_HOST_PATH, type: "DirectoryOrCreate" },
+      claimRef: { namespace: NAMESPACE, name: STATE_CLAIM },
+      nodeAffinity: {
+        required: {
+          nodeSelectorTerms: [
+            { matchExpressions: [{ key: HOSTNAME_KEY, operator: "In", values: [STATE_NODE] }] },
+          ],
+        },
+      },
+    },
+  })
+}
+
+function statePvcYaml(): string {
+  return synthOne(NAMESPACE, "state-pvc", {
+    apiVersion: "v1",
+    kind: "PersistentVolumeClaim",
+    metadata: { name: STATE_CLAIM, namespace: NAMESPACE, labels: DEPLOYMENT_LABELS },
+    spec: {
+      accessModes: ["ReadWriteOnce"],
+      storageClassName: "",
+      volumeName: STATE_CLAIM,
+      resources: { requests: { storage: STATE_CAPACITY } },
+    },
+  })
+}
+
 function deploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
     apiVersion: "apps/v1",
@@ -45,6 +92,7 @@ function deploymentYaml(): string {
     },
     spec: {
       replicas: tailnetEgress.replicas,
+      strategy: { type: "Recreate" },
       selector: { matchLabels: DEPLOYMENT_SELECTOR_LABELS },
       template: {
         metadata: { labels: DEPLOYMENT_LABELS },
@@ -101,7 +149,7 @@ function deploymentYaml(): string {
           volumes: [
             { name: "tmp", emptyDir: {} },
             { name: "run", emptyDir: {} },
-            { name: "state", emptyDir: {} },
+            { name: "state", persistentVolumeClaim: { claimName: STATE_CLAIM } },
           ],
         },
       },
@@ -255,11 +303,12 @@ function networkPolicyYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
-  return synthNamespaceNetworkPolicyDeploymentService(
-    NAMESPACE,
-    NAMESPACE_LABELS,
-    networkPolicyYaml,
-    deploymentYaml,
-    serviceYaml
-  )
+  return [
+    { name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) },
+    { name: "network-policy", yaml: networkPolicyYaml() },
+    { name: "pv", yaml: statePvYaml() },
+    { name: "pvc", yaml: statePvcYaml() },
+    { name: "deployment", yaml: deploymentYaml() },
+    { name: "service", yaml: serviceYaml() },
+  ]
 }

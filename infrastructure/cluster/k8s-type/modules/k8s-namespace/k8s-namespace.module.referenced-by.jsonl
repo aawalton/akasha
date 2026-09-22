@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/git-transport/manifests/git-transport-manifests.manifest.code.ts"}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts"}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/network/headscale/headscale.manifest.code.ts"}
+{"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts"}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.code.ts"}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts"}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/telemetry/prometheus/prometheus.manifest.code.ts"}
