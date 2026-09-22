@@ -4,6 +4,6 @@ export const shifterPublicApi = {
   id: "01a06187-364c-7039-9c69-731d56e74e47",
   type: "page-type/module",
   slug: "shifter-public-api",
-  definition: "the global name another addon reaches this library through",
+  definition: "the global name another addon uses for this library",
   code: "ts",
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const nextBossData = {
   id: "01a06157-8358-771d-9755-608609075ff5",
   type: "page-type/module",
   slug: "next-boss-data",
-  definition: "which boss belongs to which district, and the order the round runs in",
+  definition: "which boss belongs to which district, and the round's order",
   code: "ts",
   decisions: [
     {

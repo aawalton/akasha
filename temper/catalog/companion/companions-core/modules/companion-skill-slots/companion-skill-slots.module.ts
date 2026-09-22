@@ -4,7 +4,7 @@ export const companionSkillSlots = {
   id: "01a06119-5ca9-7ca6-b630-d90e7f111648",
   type: "page-type/module",
   slug: "companion-skill-slots",
-  definition: "the six places a companion's skill bar has a skill in",
+  definition: "the six skill places on a companion's skill bar",
   code: "ts",
   decisions: [
     {

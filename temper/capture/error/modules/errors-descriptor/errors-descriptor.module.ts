@@ -4,7 +4,7 @@ export const errorsDescriptor = {
   id: "01a0608a-15b2-78e5-a967-45a0dec13df1",
   type: "page-type/module",
   slug: "errors-descriptor",
-  definition: "the name, version and defaults error capture hands the game to save under",
+  definition: "error capture's saved-variables name, version and defaults",
   code: "ts",
   decisions: [
     {

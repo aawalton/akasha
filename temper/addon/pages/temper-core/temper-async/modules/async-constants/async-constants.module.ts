@@ -4,7 +4,7 @@ export const asyncConstants = {
   id: "01a0606a-1c54-7a06-8b76-419e5170ac50",
   type: "page-type/module",
   slug: "async-constants",
-  definition: "the frame budget, the stall bounds and the delays the scheduler is tuned by",
+  definition: "the scheduler's frame budget, stall bounds and delays",
   code: "ts",
   decisions: [
     {

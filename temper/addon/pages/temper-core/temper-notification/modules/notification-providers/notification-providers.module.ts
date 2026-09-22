@@ -4,7 +4,7 @@ export const notificationProviders = {
   id: "01a0605a-0515-7efc-a180-1aaa98828cd6",
   type: "page-type/module",
   slug: "notification-providers",
-  definition: "the game notification providers a caller's rows are handed to the panels through",
+  definition: "the game notification providers that hand a caller's rows to the panels",
   code: "ts",
   decisions: [
     {

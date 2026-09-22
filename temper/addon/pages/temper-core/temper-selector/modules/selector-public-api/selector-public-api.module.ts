@@ -4,6 +4,6 @@ export const selectorPublicApi = {
   id: "01a061ef-c8a5-7735-8ac1-30a7ea57d297",
   type: "page-type/module",
   slug: "selector-public-api",
-  definition: "the global the key bindings and another add-on reach this one by",
+  definition: "the global the key bindings and another add-on use",
   code: "ts",
 } as const satisfies Module

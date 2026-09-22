@@ -5,7 +5,7 @@ export const slotCategory = {
   type: "page-type/text-property",
   slug: "slot-category",
   propertySlug: "slot-category",
-  definition: "the group a jewelry place falls in",
+  definition: "a jewelry place's group",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

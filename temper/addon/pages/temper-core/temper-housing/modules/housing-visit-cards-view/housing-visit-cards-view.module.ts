@@ -4,7 +4,7 @@ export const housingVisitCardsView = {
   id: "01a06113-b7d3-7108-b73c-002d1663f7df",
   type: "page-type/module",
   slug: "housing-visit-cards-view",
-  definition: "the control shapes a visit-card row is made of",
+  definition: "a visit-card row's control shapes",
   code: "ts",
   decisions: [
     {

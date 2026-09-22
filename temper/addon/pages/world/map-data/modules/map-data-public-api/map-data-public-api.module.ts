@@ -4,7 +4,7 @@ export const mapDataPublicApi = {
   id: "01a061e1-aeb1-7d98-8492-0c8d3bfad094",
   type: "page-type/module",
   slug: "map-data-public-api",
-  definition: "the names the rest of the bundle reaches this feature's state by",
+  definition: "the names the rest of the bundle uses for this feature's state",
   code: "ts",
   decisions: [
     {

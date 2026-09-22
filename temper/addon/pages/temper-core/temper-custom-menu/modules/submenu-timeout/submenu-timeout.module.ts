@@ -4,7 +4,7 @@ export const submenuTimeout = {
   id: "01a0605a-5820-7660-862b-75def68c1d3b",
   type: "page-type/module",
   slug: "submenu-timeout",
-  definition: "the single delayed call a sub-menu opens and closes on",
+  definition: "the single delayed call that opens and closes a sub-menu",
   code: "ts",
   decisions: [
     {
