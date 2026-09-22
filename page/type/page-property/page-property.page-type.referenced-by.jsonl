@@ -143,6 +143,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/entity/properties/entity-affinities.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/entity/properties/entity-bonds.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/entity/properties/entity-equipment.record-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/entity/properties/entity-pools.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/entity/properties/entity-skills.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/entity/properties/entity-titles.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/entity/properties/entity-traits.record-property.types.ts"}

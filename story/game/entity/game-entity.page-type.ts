@@ -42,6 +42,7 @@ export const gameEntity = {
     { pageProperty: "number-property/base-damage", required: false, many: false },
     { pageProperty: "number-property/typical-intent", required: false, many: false },
     { pageProperty: "number-property/unspent-attribute-points", required: false, many: false },
+    { pageProperty: "record-property/entity-pools", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -108,5 +109,7 @@ export const gameEntity = {
     "number-property/unspent-attribute-points",
     "module/sheet-reading",
     "module/entity-filing",
+    "number-property/pool-now",
+    "record-property/entity-pools",
   ],
 } as const satisfies PageType

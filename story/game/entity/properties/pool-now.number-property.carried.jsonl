@@ -1,0 +1,9 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"The most a pool holds comes from a mechanic, and only what is left is written."}]}
+{"definition":"how much of a pool an entity has left"}
+{"id":"01a0c671-1075-74fd-9fb2-e5796664d4b3"}
+{"max":null}
+{"nullable":false}
+{"propertySlug":"now"}
+{"slug":"pool-now"}
+{"type":"page-type/number-property"}
+{"types":"ts"}
