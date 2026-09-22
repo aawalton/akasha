@@ -211,7 +211,7 @@ test("the track played last is never said beside a slug or beside what is playin
   )
 })
 
-test("one call grades the track played last without reaching the player", async () => {
+test("one call grades the track played last over a silent player", async () => {
   const reach = reaching({ ...LANDED, landed: [TRACK_AT] })
   const said = await musicRate(
     ["--just-played", "--grade", "S", "--tag", "attraction", "--json"],

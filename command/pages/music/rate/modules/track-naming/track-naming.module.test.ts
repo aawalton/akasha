@@ -10,6 +10,8 @@ import {
   PLAYING_ID,
   PLAYING_TITLE,
   playing,
+  SUN_ID,
+  SUN_TITLE,
   TRACK_SLUG,
 } from "akasha/command/pages/music/rate/modules/track-naming/track-naming.module.test-fixtures.ts"
 
@@ -40,19 +42,38 @@ test("a track held rather than played is named the same way", () => {
   expect(playingNamed(finding, playing(PLAYING_ID, PLAYING_TITLE, false))).toBe(TRACK_SLUG)
 })
 
-test("the track played last is the first Spotify names among the tracks played recently", () => {
+test("where nothing plays, the track played last is the first among those played recently", () => {
   const found = justPlayedNamed(
     finding,
     itemsOf([
       { id: PLAYING_ID, name: PLAYING_TITLE },
       { id: "0000000000000000000000", name: "Nowhere" },
-    ])
+    ]),
+    null
   )
   expect(found).toBe(TRACK_SLUG)
 })
 
+test("what is playing is skipped where Spotify names it among the tracks played recently", () => {
+  const found = justPlayedNamed(
+    finding,
+    itemsOf([
+      { id: SUN_ID, name: SUN_TITLE },
+      { id: PLAYING_ID, name: PLAYING_TITLE },
+    ]),
+    SUN_ID
+  )
+  expect(found).toBe(TRACK_SLUG)
+})
+
+test("a history holding only what is playing refuses rather than naming a track", () => {
+  expect(justPlayedNamed(finding, itemsOf([{ id: SUN_ID, name: SUN_TITLE }]), SUN_ID)).toEqual({
+    refused: "Spotify names no track played last, so nothing is there for `--just-played` to grade",
+  })
+})
+
 test("nothing played recently refuses rather than naming a track", () => {
-  expect(justPlayedNamed(finding, itemsOf([]))).toEqual({
+  expect(justPlayedNamed(finding, itemsOf([]), null)).toEqual({
     refused: "Spotify names no track played last, so nothing is there for `--just-played` to grade",
   })
 })
@@ -60,7 +81,8 @@ test("nothing played recently refuses rather than naming a track", () => {
 test("a track played last no page carries is refused with its Spotify id and its title", () => {
   const found = justPlayedNamed(
     finding,
-    itemsOf([{ id: "0000000000000000000000", name: "Nowhere" }])
+    itemsOf([{ id: "0000000000000000000000", name: "Nowhere" }]),
+    null
   )
   expect(found).toEqual({
     refused:

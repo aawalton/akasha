@@ -48,6 +48,7 @@ import {
   type Finding,
   justPlayedNamed,
   type PlayedReader,
+  playingIdOf,
   playingNamed,
   type Refusal,
   slugCarried,
@@ -91,9 +92,9 @@ const SLUG = slugArgument.said
 
 const WHOLE = true
 
-const LAST_ONLY = 1
+const LAST_FEW = 3
 
-export const playedLast: PlayedReader = () => getRecentlyPlayed({ limit: LAST_ONLY })
+export const playedLast: PlayedReader = () => getRecentlyPlayed({ limit: LAST_FEW })
 
 const ARTIST_PROSE = [reaction.slug]
 
@@ -271,8 +272,9 @@ async function namedFor(
   history: PlayedReader
 ): Promise<string | Refusal> {
   if (held.slug !== null) return held.slug
-  if (held.justPlayed) return justPlayedNamed(found, (await history()).items)
-  return playingNamed(found, await envelopeFor(read))
+  const envelope = await envelopeFor(read)
+  if (!held.justPlayed) return playingNamed(found, envelope)
+  return justPlayedNamed(found, (await history()).items, playingIdOf(envelope))
 }
 
 async function recorded(

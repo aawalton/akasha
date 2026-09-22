@@ -53,8 +53,24 @@ export function playingNamed(found: Finding, envelope: NowPlayingEnvelope): stri
   return trackNamed(found, track.id, track.name, IS_PLAYING)
 }
 
-export function justPlayedNamed(found: Finding, items: readonly PlayedItem[]): string | Refusal {
-  const track = items[0]?.track
+export function playingIdOf(envelope: NowPlayingEnvelope): string | null {
+  return envelope.track?.id ?? null
+}
+
+function heardBefore(
+  items: readonly PlayedItem[],
+  playingId: string | null
+): PlayedItem | undefined {
+  if (playingId === null) return items[0]
+  return items.find((one) => one.track.id !== playingId)
+}
+
+export function justPlayedNamed(
+  found: Finding,
+  items: readonly PlayedItem[],
+  playingId: string | null
+): string | Refusal {
+  const track = heardBefore(items, playingId)?.track
   if (track === undefined || track.id === null) return { refused: NOTHING_PLAYED }
   return trackNamed(found, track.id, track.name, PLAYED_LAST)
 }

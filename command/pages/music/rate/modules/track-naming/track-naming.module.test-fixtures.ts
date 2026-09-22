@@ -10,6 +10,10 @@ export const PLAYING_ID = "5CziXblfbYNLB4dELQrgq4"
 
 export const PLAYING_TITLE = "Always an Angel"
 
+export const SUN_ID = "5Uf5kobSFxwPZYlqAc4y7F"
+
+export const SUN_TITLE = "Here Comes the Sun"
+
 export const LENGTH_MS = 116250
 
 export function finding(externalId: string): string | null {
