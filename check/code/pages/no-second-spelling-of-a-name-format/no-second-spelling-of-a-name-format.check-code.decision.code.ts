@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   overEveryIn,
   textIn,
@@ -47,25 +48,26 @@ export function shapesIn(at: string, text: string): readonly Spelt[] {
   return found
 }
 
-function formatsIn(change: Change, shadow: Shadow): readonly string[] {
+function formatsOver(paths: readonly string[], paged: Paged): readonly string[] {
   const found = new Set<string>()
-  for (const one of shadow.index.everyOfType(NAME_FORMAT)) {
+  for (const one of paged.index.everyOfType(NAME_FORMAT)) {
     const at = besideAt(one.path, CODE, HELD)
     if (at !== null) found.add(at)
   }
-  for (const path of change.changed) {
+  for (const path of paths) {
     if (path.endsWith(FORMAT)) found.add(path)
   }
   return [...found].sort()
 }
 
-export function everyShapeIn(
-  change: Change,
-  shadow: Shadow
+export function everyShapeOver(
+  paths: readonly string[],
+  read: (path: string) => string | null,
+  paged: Paged
 ): ReadonlyMap<string, readonly string[]> {
   const stated = new Map<string, string[]>()
-  for (const path of formatsIn(change, shadow)) {
-    const text = textIn(change, path)
+  for (const path of formatsOver(paths, paged)) {
+    const text = read(path)
     if (text === null) continue
     for (const one of shapesIn(path, text)) {
       const already = stated.get(one.shape)
@@ -74,6 +76,13 @@ export function everyShapeIn(
     }
   }
   return stated
+}
+
+export function everyShapeIn(
+  change: Change,
+  shadow: Shadow
+): ReadonlyMap<string, readonly string[]> {
+  return everyShapeOver(change.changed, (path) => textIn(change, path), shadow)
 }
 
 export function reasonsIn(
