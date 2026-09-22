@@ -85,6 +85,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"git/modules/capping/git-capping.module.code.ts"}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"git/modules/commit-checkout/commit-checkout.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"git/modules/commit-reading/commit-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"git/modules/commit-reading/commit-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"git/modules/running/git-running.module.code.ts"}

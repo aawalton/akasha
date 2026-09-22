@@ -50,6 +50,8 @@
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/track/session/drop/track-session-drop.command.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/track/session/log/track-session-log.command.test.ts"}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"git/modules/commit-checkout/commit-checkout.module.code.ts"}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"git/modules/commit-checkout/commit-checkout.module.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"git/modules/committing/committing.module.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"git/modules/committing/committing.module.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"git/modules/head-commit/head-commit.module.code.ts"}

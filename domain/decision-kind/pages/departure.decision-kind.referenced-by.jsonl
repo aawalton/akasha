@@ -2529,6 +2529,7 @@
 {"propertySlug":"decision-kind","path":"git/git.domain.ts","id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}
 {"propertySlug":"decision-kind","path":"git/modules/answering/git-answering.module.ts","id":"01a06816-2f10-79aa-bee4-b5831ee0eaca"}
 {"propertySlug":"decision-kind","path":"git/modules/capping/git-capping.module.ts","id":"01a06893-5354-7000-a08b-3fa0ccdb05c0"}
+{"propertySlug":"decision-kind","path":"git/modules/commit-checkout/commit-checkout.module.ts","id":"01a0c9a0-60b4-71ba-858f-0defe52ed5f0"}
 {"propertySlug":"decision-kind","path":"git/modules/commit-reading/commit-reading.module.ts","id":"01a0523f-0e48-7c39-8708-125994cc3e59"}
 {"propertySlug":"decision-kind","path":"git/modules/committing/committing.module.ts","id":"01a0501a-b83f-7707-afd1-d497b00b4868"}
 {"propertySlug":"decision-kind","path":"git/modules/dir/git-dir.module.ts","id":"01a091c8-bebb-7cc6-ac6a-ed37511fe84b"}

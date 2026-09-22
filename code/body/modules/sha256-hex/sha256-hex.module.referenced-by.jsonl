@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts"}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"command/pages/inference/video-qa/inference-video-qa.command.code.ts"}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
+{"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"git/modules/commit-checkout/commit-checkout.module.code.ts"}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts"}
 {"propertySlug":"import","fileName":"sha256-hex.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts"}

@@ -1689,6 +1689,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"file/modules/lock-holder/lock-holder.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/answering/git-answering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/capping/git-capping.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/commit-checkout/commit-checkout.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/commit-reading/commit-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/committing/committing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/dir/git-dir.module.ts"}
