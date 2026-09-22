@@ -4,7 +4,7 @@ import type { DeployEndedAt } from "akasha/infrastructure/service/properties/dep
 import type { DeployRefusal } from "akasha/infrastructure/service/properties/deploy-refusal.text-property.types.ts"
 import type { DeployRefusedAt } from "akasha/infrastructure/service/properties/deploy-refused-at.instant-property.types.ts"
 import type { DeployedCommit } from "akasha/infrastructure/service/properties/deployed-commit.text-property.types.ts"
-import type { DeploysAfter } from "akasha/infrastructure/service/properties/deploys-after.relation-property.types.ts"
+import type { DeploysAfter } from "akasha/infrastructure/service/properties/deploys-after.multi-relation-property.types.ts"
 import type { RefusedCommit } from "akasha/infrastructure/service/properties/refused-commit.text-property.types.ts"
 
 export type Service = Domain & {

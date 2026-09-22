@@ -1,6 +1,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-poison-effect","unique":null,"uniquePropertySlug":null,"slug":"alchemy-effects","propertySlug":"alchemy-effects","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"graph-attribute","unique":null,"uniquePropertySlug":null,"slug":"attributes","propertySlug":"attributes","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"cover-images","propertySlug":"covers","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"service","unique":null,"uniquePropertySlug":null,"slug":"deploys-after","propertySlug":"deploys-after","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"graph-edge","unique":null,"uniquePropertySlug":null,"slug":"edges","propertySlug":"edges","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"extends-type","propertySlug":"extends","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"members","propertySlug":"members","fileName":null,"folderName":null}

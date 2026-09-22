@@ -2796,7 +2796,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/properties/deploy-refusal.text-property.ts","id":"01a0a639-6816-7619-9e65-47e19c5dba03"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/properties/deploy-refused-at.instant-property.ts","id":"01a095ca-a548-7026-b32c-6fac55373b71"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/properties/deployed-commit.text-property.ts","id":"01a09189-f956-77a0-ba59-fe66d243fae8"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/properties/deploys-after.relation-property.ts","id":"01a09575-f21d-7413-814c-80ef1a0b4ba9"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/properties/deploys-after.multi-relation-property.ts","id":"01a09575-f21d-7413-814c-80ef1a0b4ba9"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/properties/refused-commit.text-property.ts","id":"01a09205-5959-7884-8c62-22e66c54cad9"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/secret/modules/placing/secret-placing.module.ts","id":"01a06977-65e5-74e7-9c45-ae62673340e9"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/secret/modules/saying/secret-saying.module.ts","id":"01a07667-e09b-7f6e-bc84-5a76ea3566f4"}

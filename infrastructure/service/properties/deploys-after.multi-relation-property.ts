@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const deploysAfter = {
   id: "01a09575-f21d-7413-814c-80ef1a0b4ba9",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "deploys-after",
   propertySlug: "deploys-after",
   definition: "a service deployed ahead of this one",
@@ -31,4 +31,4 @@ export const deploysAfter = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

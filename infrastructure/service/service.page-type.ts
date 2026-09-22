@@ -25,7 +25,7 @@ export const service = {
     "page-type/service-workstation",
     "page-type/vendored-workload",
     "page-type/web-app",
-    "relation-property/deploys-after",
+    "multi-relation-property/deploys-after",
     "service-workstation/cluster-deploying",
     "service-workstation/container-recipe-deploying",
     "service-workstation/temper-addon-deploying",
@@ -53,7 +53,7 @@ export const service = {
     },
     { pageProperty: "number-property/cooldown-seconds", required: false, many: false },
     {
-      pageProperty: "relation-property/deploys-after",
+      pageProperty: "multi-relation-property/deploys-after",
       required: false,
       many: true,
       maxCount: null,
