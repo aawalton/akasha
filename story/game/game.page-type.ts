@@ -50,6 +50,7 @@ export const game = {
     "text-property/listed-rung",
     "page-type/game-quest",
     "page-type/game-design-entry",
+    "page-type/game-lore-entry",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

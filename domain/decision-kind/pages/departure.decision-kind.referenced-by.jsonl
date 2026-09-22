@@ -3423,6 +3423,7 @@
 {"propertySlug":"decision-kind","path":"story/game/location/properties/thing-status.text-property.ts","id":"01a0c645-f558-7eac-8d58-205cff99a22c"}
 {"propertySlug":"decision-kind","path":"story/game/location/properties/thing-use.text-property.ts","id":"01a0c645-dfc6-7a5e-90a0-d56d7f74a9bd"}
 {"propertySlug":"decision-kind","path":"story/game/location/properties/within-location.relation-property.ts","id":"01a0c643-9ff8-7920-b68e-f2f869684b86"}
+{"propertySlug":"decision-kind","path":"story/game/lore-entry/game-lore-entry.page-type.ts","id":"01a0c949-5c56-7f25-8eb3-0c04a8c40172"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/affinity-element/affinity-element.module.ts","id":"01a0c504-b68b-7a91-9eef-eb74770de901"}
