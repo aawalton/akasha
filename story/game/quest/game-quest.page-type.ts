@@ -12,6 +12,9 @@ export const gameQuest = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/holding-game", required: true, many: false },
     { pageProperty: "text-property/listed-note", required: false, many: false },
+    { pageProperty: "text-property/quest-objective", required: true, many: false },
+    { pageProperty: "text-property/quest-reward", required: false, many: false },
+    { pageProperty: "text-property/quest-status", required: true, many: false },
   ],
   decisions: [
     {
@@ -34,4 +37,9 @@ export const gameQuest = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: [
+    "text-property/quest-objective",
+    "text-property/quest-reward",
+    "text-property/quest-status",
+  ],
 } as const satisfies PageType
