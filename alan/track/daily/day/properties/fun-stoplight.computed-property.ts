@@ -5,7 +5,7 @@ export const funStoplight = {
   type: "page-type/computed-property",
   slug: "fun-stoplight",
   propertySlug: "fun-stoplight",
-  definition: "the rung the day's fun reached, as one colored light",
+  definition: "the rung the day's fun reached, as a colored light",
   holds: "text",
   code: "ts",
   types: "ts",

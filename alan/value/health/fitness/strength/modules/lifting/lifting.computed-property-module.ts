@@ -4,7 +4,7 @@ export const lifting = {
   id: "01a0c430-b805-7a8b-9fe8-22a00d76e851",
   type: "page-type/computed-property-module",
   slug: "lifting",
-  definition: "the load one set of work moves",
+  definition: "the load a set of work moves",
   code: "ts",
   test: "ts",
   decisions: [

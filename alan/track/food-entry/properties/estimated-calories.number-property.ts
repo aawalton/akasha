@@ -5,7 +5,7 @@ export const estimatedCalories = {
   type: "page-type/number-property",
   slug: "estimated-calories",
   propertySlug: "estimated-calories",
-  definition: "the calories one thing eaten was reckoned to hold",
+  definition: "the calories a thing eaten was reckoned to hold",
   max: null,
   decisions: [
     {

@@ -5,7 +5,7 @@ export const errorCount = {
   type: "page-type/number-property",
   slug: "error-count",
   propertySlug: "count",
-  definition: "how many times one error has been met",
+  definition: "how many times an error has been met",
   max: null,
   decisions: [
     {

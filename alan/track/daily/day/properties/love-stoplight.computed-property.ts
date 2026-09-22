@@ -5,7 +5,7 @@ export const loveStoplight = {
   type: "page-type/computed-property",
   slug: "love-stoplight",
   propertySlug: "love-stoplight",
-  definition: "the rung the day's love reached, as one colored light",
+  definition: "the rung the day's love reached, as a colored light",
   holds: "text",
   code: "ts",
   types: "ts",

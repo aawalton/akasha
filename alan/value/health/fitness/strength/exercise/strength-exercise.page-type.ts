@@ -4,7 +4,7 @@ export const strengthExercise = {
   id: "01a0657e-2bbf-7c1f-a05c-77af77f54cbf",
   type: "page-type/page-type",
   slug: "strength-exercise",
-  definition: "one movement Alan can be programmed to perform",
+  definition: "a movement Alan can be programmed to perform",
   extends: ["page-type/page"],
   parts: [
     "boolean-property/is-ballistic",

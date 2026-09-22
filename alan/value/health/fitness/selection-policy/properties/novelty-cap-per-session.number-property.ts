@@ -5,7 +5,7 @@ export const noveltyCapPerSession = {
   type: "page-type/number-property",
   slug: "novelty-cap-per-session",
   propertySlug: "novelty-cap-per-session",
-  definition: "how many movements new to Alan one session may hold",
+  definition: "how many movements new to Alan a session may hold",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

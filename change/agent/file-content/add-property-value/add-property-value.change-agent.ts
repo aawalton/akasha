@@ -7,7 +7,7 @@ export const addPropertyValue = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
-  definition: "one value put into one page property, judged by the checks a landing runs",
+  definition: "a value put into a page property, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
   decisions: [

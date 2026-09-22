@@ -4,7 +4,7 @@ export const alanWebApiMediaHlsSegment = {
   id: "01a082a0-97c1-789d-a1af-a13317edf032",
   type: "page-type/route",
   slug: "alan-web-api-media-hls-segment",
-  definition: "one audio segment of a page's HLS playlist",
+  definition: "an audio segment of a page's HLS playlist",
   code: "ts",
   urlPath: "api/media/:pageId/:medium/hls/:segment",
 } as const satisfies Route
