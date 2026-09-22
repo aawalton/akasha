@@ -15,8 +15,8 @@ export function buildDialogSections(this: void): LamControlData[] {
     header(GetString(SI_GAMEPAD_MAIN_MENU_CROWN_STORE_CATEGORY)),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_MARKET_ADS,
-      tooltip: STRINGS.NOTYOU_MARKET_ADS_TOOLTIP,
+      name: STRINGS.QUIET_MARKET_ADS,
+      tooltip: STRINGS.QUIET_MARKET_ADS_TOOLTIP,
       getFunc: () => savedVars.marketAnnouncement,
       setFunc: (value) => {
         savedVars.marketAnnouncement = value
@@ -24,33 +24,33 @@ export function buildDialogSections(this: void): LamControlData[] {
       default: DEFAULTS.marketAnnouncement,
       disabled: () => SCENE_MANAGER.scenes.marketAnnouncement === undefined,
     },
-    header(STRINGS.NOTYOU_MAIL_HEADER),
+    header(STRINGS.QUIET_MAIL_HEADER),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_MAIL,
-      tooltip: STRINGS.NOTYOU_MAIL_TOOLTIP,
+      name: STRINGS.QUIET_MAIL,
+      tooltip: STRINGS.QUIET_MAIL_TOOLTIP,
       getFunc: () => savedVars.emptyMail,
       setFunc: (value) => {
         savedVars.emptyMail = value
       },
       default: DEFAULTS.emptyMail,
     },
-    header(STRINGS.NOTYOU_FENCE_HEADER),
+    header(STRINGS.QUIET_FENCE_HEADER),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_FENCE,
-      tooltip: STRINGS.NOTYOU_FENCE_TOOLTIP,
+      name: STRINGS.QUIET_FENCE,
+      tooltip: STRINGS.QUIET_FENCE_TOOLTIP,
       getFunc: () => savedVars.fenceDialog,
       setFunc: (value) => {
         savedVars.fenceDialog = value
       },
       default: DEFAULTS.fenceDialog,
     },
-    header(STRINGS.NOTYOU_GROUPS_HEADER),
+    header(STRINGS.QUIET_GROUPS_HEADER),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_GROUPS_DISBAND,
-      tooltip: STRINGS.NOTYOU_GROUPS_DISBAND_TOOLTIP,
+      name: STRINGS.QUIET_GROUPS_DISBAND,
+      tooltip: STRINGS.QUIET_GROUPS_DISBAND_TOOLTIP,
       getFunc: () => savedVars.disbandDialog,
       setFunc: (value) => {
         savedVars.disbandDialog = value
@@ -59,8 +59,8 @@ export function buildDialogSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_GROUPS_LARGE,
-      tooltip: STRINGS.NOTYOU_GROUPS_LARGE_TOOLTIP,
+      name: STRINGS.QUIET_GROUPS_LARGE,
+      tooltip: STRINGS.QUIET_GROUPS_LARGE_TOOLTIP,
       getFunc: () => savedVars.largeGroupDialog,
       setFunc: (value) => {
         savedVars.largeGroupDialog = value
@@ -68,8 +68,8 @@ export function buildDialogSections(this: void): LamControlData[] {
       default: DEFAULTS.largeGroupDialog,
     },
     dropdown({
-      name: STRINGS.NOTYOU_NOPORTONLEADER,
-      tooltip: STRINGS.NOTYOU_NOPORTONLEADER_TOOLTIP,
+      name: STRINGS.QUIET_NOPORTONLEADER,
+      tooltip: STRINGS.QUIET_NOPORTONLEADER_TOOLTIP,
       choices: STRINGS.NOPORTONLEADER_OPTION,
       get: () => savedVars.noPortOnLeader,
       set: (index) => {
@@ -77,22 +77,22 @@ export function buildDialogSections(this: void): LamControlData[] {
       },
       defaultIndex: DEFAULTS.noPortOnLeader,
     }),
-    header(STRINGS.NOTYOU_CRAFT_HEADER),
+    header(STRINGS.QUIET_CRAFT_HEADER),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_CRAFT,
-      tooltip: STRINGS.NOTYOU_CRAFT_TOOLTIP,
+      name: STRINGS.QUIET_CRAFT,
+      tooltip: STRINGS.QUIET_CRAFT_TOOLTIP,
       getFunc: () => savedVars.improveDialog,
       setFunc: (value) => {
         savedVars.improveDialog = value
       },
       default: DEFAULTS.improveDialog,
     },
-    header(STRINGS.NOTYOU_CHAMELEON_HEADER),
+    header(STRINGS.QUIET_CHAMELEON_HEADER),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_CHAMELEON,
-      tooltip: STRINGS.NOTYOU_CHAMELEON_TOOLTIP,
+      name: STRINGS.QUIET_CHAMELEON,
+      tooltip: STRINGS.QUIET_CHAMELEON_TOOLTIP,
       getFunc: () => savedVars.noUniversalStones,
       setFunc: (value) => {
         savedVars.noUniversalStones = value
@@ -100,11 +100,11 @@ export function buildDialogSections(this: void): LamControlData[] {
       },
       default: DEFAULTS.noUniversalStones,
     },
-    header(STRINGS.NOTYOU_RETICLE_HEADER),
+    header(STRINGS.QUIET_RETICLE_HEADER),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_RETICLE_TAKE,
-      tooltip: STRINGS.NOTYOU_RETICLE_TAKE_TOOLTIP,
+      name: STRINGS.QUIET_RETICLE_TAKE,
+      tooltip: STRINGS.QUIET_RETICLE_TAKE_TOOLTIP,
       getFunc: () => savedVars.reticleTake,
       setFunc: (value) => {
         savedVars.reticleTake = value
@@ -113,18 +113,18 @@ export function buildDialogSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_EMPTY_INTERACT,
-      tooltip: STRINGS.NOTYOU_EMPTY_INTERACT_TOOLTIP,
+      name: STRINGS.QUIET_EMPTY_INTERACT,
+      tooltip: STRINGS.QUIET_EMPTY_INTERACT_TOOLTIP,
       getFunc: () => savedVars.emptyInteractions,
       setFunc: (value) => {
         savedVars.emptyInteractions = value
       },
       default: DEFAULTS.emptyInteractions,
     },
-    header(STRINGS.NOTYOU_GUILDS_HEADER),
+    header(STRINGS.QUIET_GUILDS_HEADER),
     dropdown({
-      name: STRINGS.NOTYOU_GUILDS,
-      tooltip: STRINGS.NOTYOU_GUILDS_TOOLTIP,
+      name: STRINGS.QUIET_GUILDS,
+      tooltip: STRINGS.QUIET_GUILDS_TOOLTIP,
       choices: STRINGS.GUILD_INV_OPTION,
       get: () => savedVars.guildInvites,
       set: (index) => {
@@ -134,8 +134,8 @@ export function buildDialogSections(this: void): LamControlData[] {
     }),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_GUILDSAPP,
-      tooltip: STRINGS.NOTYOU_GUILDSAPP_TOOLTIP,
+      name: STRINGS.QUIET_GUILDSAPP,
+      tooltip: STRINGS.QUIET_GUILDSAPP_TOOLTIP,
       getFunc: () => savedVars.guildApps,
       setFunc: (value) => {
         savedVars.guildApps = value

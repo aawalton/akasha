@@ -172,8 +172,8 @@ export function hookMarketAnnouncement(this: void): undefined {
   }
 }
 
-let notyCurrentBagId: number | undefined
-let notyCurrentSlotId: number | undefined
+let quietCurrentBagId: number | undefined
+let quietCurrentSlotId: number | undefined
 
 export function hookBindAlerts(this: void): undefined {
   const savedVars = getSavedVariables()
@@ -181,12 +181,12 @@ export function hookBindAlerts(this: void): undefined {
   function tryEquipItem(this: void): boolean | undefined {
     if (
       savedVars.noBindAlert &&
-      notyCurrentBagId !== undefined &&
-      notyCurrentSlotId !== undefined
+      quietCurrentBagId !== undefined &&
+      quietCurrentSlotId !== undefined
     ) {
-      const [equipable] = IsEquipable(notyCurrentBagId, notyCurrentSlotId)
+      const [equipable] = IsEquipable(quietCurrentBagId, quietCurrentSlotId)
       if (equipable) {
-        EquipItem(notyCurrentBagId, notyCurrentSlotId)
+        EquipItem(quietCurrentBagId, quietCurrentSlotId)
         return true
       }
     }
@@ -200,8 +200,8 @@ export function hookBindAlerts(this: void): undefined {
     slotId: number
   ): undefined {
     if (savedVars.noBindAlert) {
-      notyCurrentBagId = bagId
-      notyCurrentSlotId = slotId
+      quietCurrentBagId = bagId
+      quietCurrentSlotId = slotId
     }
   }
   EVENT_MANAGER.RegisterForEvent(

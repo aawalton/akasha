@@ -37,11 +37,11 @@ export function handleLuaErrorEvent(this: void): undefined {
           const msg = {
             dataType: NOTIFICATIONS_REQUEST_DATA,
             secsSinceRequest: ZO_NormalizeSecondsSince(0),
-            message: STRINGS.NOTYOU_LUAERR_MESSAGE,
+            message: STRINGS.QUIET_LUAERR_MESSAGE,
             note: errString,
-            heading: STRINGS.NOTYOU_LUAERR_HEADING,
+            heading: STRINGS.QUIET_LUAERR_HEADING,
             texture: "/esoui/art/miscellaneous/eso_icon_warning.dds",
-            shortDisplayText: STRINGS.NOTYOU_LUAERR_SHORT,
+            shortDisplayText: STRINGS.QUIET_LUAERR_SHORT,
             controlsOwnSounds: true,
             keyboardAcceptCallback: function (
               this: void,

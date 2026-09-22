@@ -15,10 +15,10 @@ export function safePrint(this: void, message: string): undefined {
     if (!IS_QUEUED) {
       IS_QUEUED = true
       EVENT_MANAGER.RegisterForEvent(
-        "NOTY_Print",
+        "TemperQuiet_Print",
         EVENT_PLAYER_ACTIVATED,
         function (this: void, event: number): undefined {
-          EVENT_MANAGER.UnregisterForEvent("NOTY_Print", event)
+          EVENT_MANAGER.UnregisterForEvent("TemperQuiet_Print", event)
           for (const message of STORED_MESSAGES) {
             CHAT_SYSTEM.AddMessage(message)
           }

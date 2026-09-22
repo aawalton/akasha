@@ -15,10 +15,10 @@ import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-decl
 export function buildMessageSections(this: void): LamControlData[] {
   const savedVars = getSavedVariables()
   return [
-    header(STRINGS.NOTYOU_AVA_HEADER),
+    header(STRINGS.QUIET_AVA_HEADER),
     dropdown({
-      name: STRINGS.NOTYOU_AVA,
-      tooltip: STRINGS.NOTYOU_AVA_TOOLTIP,
+      name: STRINGS.QUIET_AVA,
+      tooltip: STRINGS.QUIET_AVA_TOOLTIP,
       choices: STRINGS.AVA_MODE_OPTION,
       get: () => savedVars.ava,
       set: (index) => {
@@ -26,10 +26,10 @@ export function buildMessageSections(this: void): LamControlData[] {
       },
       defaultIndex: DEFAULTS.ava,
     }),
-    header(STRINGS.NOTYOU_GROUPZONE_HEADER),
+    header(STRINGS.QUIET_GROUPZONE_HEADER),
     dropdown({
-      name: STRINGS.NOTYOU_GROUPZONE,
-      tooltip: STRINGS.NOTYOU_GROUPZONE_TOOLTIP,
+      name: STRINGS.QUIET_GROUPZONE,
+      tooltip: STRINGS.QUIET_GROUPZONE_TOOLTIP,
       choices: STRINGS.AVA_MODE_OPTION,
       get: () => savedVars.groupZone,
       set: (index) => {
@@ -37,21 +37,21 @@ export function buildMessageSections(this: void): LamControlData[] {
       },
       defaultIndex: DEFAULTS.groupZone,
     }),
-    header(STRINGS.NOTYOU_FRIENDS_HEADER),
+    header(STRINGS.QUIET_FRIENDS_HEADER),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_FRIENDS_ACTIVITY,
-      tooltip: STRINGS.NOTYOU_FRIENDS_ACTIVITY_TOOLTIP,
+      name: STRINGS.QUIET_FRIENDS_ACTIVITY,
+      tooltip: STRINGS.QUIET_FRIENDS_ACTIVITY_TOOLTIP,
       getFunc: () => savedVars.friends,
       setFunc: (value) => {
         savedVars.friends = value
       },
       default: DEFAULTS.friends,
     },
-    header(STRINGS.NOTYOU_TEXT_ALERTS_HEADER),
+    header(STRINGS.QUIET_TEXT_ALERTS_HEADER),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_MOB_IMMUNE,
+      name: STRINGS.QUIET_MOB_IMMUNE,
       tooltip: mobImmuneTooltip(),
       getFunc: () => savedVars.boss,
       setFunc: (value) => {
@@ -61,8 +61,8 @@ export function buildMessageSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_SCREENSHOT,
-      tooltip: STRINGS.NOTYOU_SCREENSHOT_TOOLTIP,
+      name: STRINGS.QUIET_SCREENSHOT,
+      tooltip: STRINGS.QUIET_SCREENSHOT_TOOLTIP,
       getFunc: () => savedVars.screenshot,
       setFunc: (value) => {
         savedVars.screenshot = value
@@ -71,8 +71,8 @@ export function buildMessageSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_ENLIGHTENED,
-      tooltip: STRINGS.NOTYOU_ENLIGHTENED_TOOLTIP,
+      name: STRINGS.QUIET_ENLIGHTENED,
+      tooltip: STRINGS.QUIET_ENLIGHTENED_TOOLTIP,
       getFunc: () => savedVars.enlightened,
       setFunc: (value) => {
         savedVars.enlightened = value
@@ -82,7 +82,7 @@ export function buildMessageSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_CRAFTRESULT,
+      name: STRINGS.QUIET_CRAFTRESULT,
       tooltip: craftResultTooltip(),
       getFunc: () => savedVars.craftingResults,
       setFunc: (value) => {
@@ -92,8 +92,8 @@ export function buildMessageSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_REPAIR,
-      tooltip: STRINGS.NOTYOU_REPAIR_TOOLTIP,
+      name: STRINGS.QUIET_REPAIR,
+      tooltip: STRINGS.QUIET_REPAIR_TOOLTIP,
       getFunc: () => savedVars.repair,
       setFunc: (value) => {
         savedVars.repair = value
@@ -103,8 +103,8 @@ export function buildMessageSections(this: void): LamControlData[] {
     },
     {
       type: "slider",
-      name: STRINGS.NOTYOU_ALERT_THROTTLING,
-      tooltip: STRINGS.NOTYOU_ALERT_THROTTLING_TOOLTIP,
+      name: STRINGS.QUIET_ALERT_THROTTLING,
+      tooltip: STRINGS.QUIET_ALERT_THROTTLING_TOOLTIP,
       min: 3,
       max: 30,
       getFunc: () => savedVars.alertTextExpiryDelay,
@@ -114,10 +114,10 @@ export function buildMessageSections(this: void): LamControlData[] {
       },
       default: DEFAULTS.alertTextExpiryDelay,
     },
-    header(STRINGS.NOTYOU_SOUND_HEADER),
+    header(STRINGS.QUIET_SOUND_HEADER),
     dropdown({
-      name: STRINGS.NOTYOU_ULTISOUND,
-      tooltip: STRINGS.NOTYOU_ULTISOUND_TOOLTIP,
+      name: STRINGS.QUIET_ULTISOUND,
+      tooltip: STRINGS.QUIET_ULTISOUND_TOOLTIP,
       choices: STRINGS.SOUND_MODE_OPTION,
       get: () => savedVars.ultimateSound,
       set: (index) => {

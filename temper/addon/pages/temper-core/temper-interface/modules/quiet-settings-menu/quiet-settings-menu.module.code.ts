@@ -1,7 +1,6 @@
 import {
   ADDON_AUTHOR,
   ADDON_VERSION,
-  ADDON_WEBSITE,
   PANEL_ID,
   SLASH_COMMAND,
 } from "akasha/temper/addon/pages/temper-core/temper-interface/modules/quiet-identity/quiet-identity.module.code.ts"
@@ -15,13 +14,12 @@ import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-glob
 export function buildSettingsMenu(this: void): undefined {
   const panelData: LamPanelData = {
     type: "panel",
-    name: "No, thank you!",
+    name: "Temper Quiet",
     author: ADDON_AUTHOR,
     version: ADDON_VERSION,
     slashCommand: SLASH_COMMAND,
     registerForRefresh: true,
     registerForDefaults: true,
-    website: ADDON_WEBSITE,
   }
 
   const optionsData: LamControlData[] = [

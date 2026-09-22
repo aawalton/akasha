@@ -22,11 +22,11 @@ import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-decl
 export function buildWorldSections(this: void): LamControlData[] {
   const savedVars = getSavedVariables()
   return [
-    header(STRINGS.NOTYOU_CAMERA_HEADER),
+    header(STRINGS.QUIET_CAMERA_HEADER),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_CAMERA_INTERRUPT,
-      tooltip: STRINGS.NOTYOU_CAMERA_INTERRUPT_TOOLTIP,
+      name: STRINGS.QUIET_CAMERA_INTERRUPT,
+      tooltip: STRINGS.QUIET_CAMERA_INTERRUPT_TOOLTIP,
       getFunc: () => savedVars.nonstopHarvest,
       setFunc: (value) => {
         savedVars.nonstopHarvest = value
@@ -35,8 +35,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_CAMERA_ROTATE,
-      tooltip: STRINGS.NOTYOU_CAMERA_ROTATE_TOOLTIP,
+      name: STRINGS.QUIET_CAMERA_ROTATE,
+      tooltip: STRINGS.QUIET_CAMERA_ROTATE_TOOLTIP,
       getFunc: () => savedVars.noCameraSpin,
       setFunc: (value) => {
         savedVars.noCameraSpin = value
@@ -46,8 +46,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_CAMERA_ROTATE_STATS,
-      tooltip: STRINGS.NOTYOU_CAMERA_ROTATE_STATS_TOOLTIP,
+      name: STRINGS.QUIET_CAMERA_ROTATE_STATS,
+      tooltip: STRINGS.QUIET_CAMERA_ROTATE_STATS_TOOLTIP,
       getFunc: () => savedVars.noCameraSpinStats,
       setFunc: (value) => {
         savedVars.noCameraSpinStats = value
@@ -58,8 +58,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_CAMERA_ROTATE_INV,
-      tooltip: STRINGS.NOTYOU_CAMERA_ROTATE_INV_TOOLTIP,
+      name: STRINGS.QUIET_CAMERA_ROTATE_INV,
+      tooltip: STRINGS.QUIET_CAMERA_ROTATE_INV_TOOLTIP,
       getFunc: () => savedVars.noCameraSpinInv,
       setFunc: (value) => {
         savedVars.noCameraSpinInv = value
@@ -71,8 +71,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     header(GetString(SI_WINDOW_TITLE_LORE_LIBRARY)),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_NOLOREREADER,
-      tooltip: STRINGS.NOTYOU_NOLOREREADER_TOOLTIP,
+      name: STRINGS.QUIET_NOLOREREADER,
+      tooltip: STRINGS.QUIET_NOLOREREADER_TOOLTIP,
       getFunc: () => savedVars.dontReadBooks,
       setFunc: (value) => {
         savedVars.dontReadBooks = value
@@ -81,8 +81,8 @@ export function buildWorldSections(this: void): LamControlData[] {
       default: DEFAULTS.dontReadBooks,
     },
     dropdown({
-      name: STRINGS.NOTYOU_NOLOREDISCOVERIES,
-      tooltip: STRINGS.NOTYOU_NOLOREDISCOVERIES_TOOLTIP,
+      name: STRINGS.QUIET_NOLOREDISCOVERIES,
+      tooltip: STRINGS.QUIET_NOLOREDISCOVERIES_TOOLTIP,
       choices: STRINGS.AVA_MODE_OPTION,
       get: () => savedVars.dontShowLoreDiscoveries,
       set: (index) => {
@@ -93,8 +93,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     header(GetString(SI_NOTIFICATIONTYPE15)),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_NOCRAFTBAG_NOTIF,
-      tooltip: STRINGS.NOTYOU_NOCRAFTBAG_NOTIF_TOOLTIP,
+      name: STRINGS.QUIET_NOCRAFTBAG_NOTIF,
+      tooltip: STRINGS.QUIET_NOCRAFTBAG_NOTIF_TOOLTIP,
       getFunc: () => savedVars.craftBag,
       setFunc: (value) => {
         savedVars.craftBag = value
@@ -104,8 +104,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     },
     header(GetString(SI_WINDOW_TITLE_SKILLS)),
     dropdown({
-      name: STRINGS.NOTYOU_NOSKILLSPROGRESS,
-      tooltip: STRINGS.NOTYOU_NOSKILLSPROGRESS_TOOLTIP,
+      name: STRINGS.QUIET_NOSKILLSPROGRESS,
+      tooltip: STRINGS.QUIET_NOSKILLSPROGRESS_TOOLTIP,
       choices: STRINGS.AVA_MODE_OPTION,
       get: () => savedVars.dontShowSkillProgression,
       set: (index) => {
@@ -116,8 +116,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     header(zo_strformat(GetString(SI_MAIN_MENU_INVENTORY))),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_NOREPORTONITEMS,
-      tooltip: STRINGS.NOTYOU_NOREPORTONITEMS_TOOLTIP,
+      name: STRINGS.QUIET_NOREPORTONITEMS,
+      tooltip: STRINGS.QUIET_NOREPORTONITEMS_TOOLTIP,
       getFunc: () => savedVars.noReportOnItems,
       setFunc: (value) => {
         savedVars.noReportOnItems = value
@@ -126,8 +126,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_NOBINDALERT,
-      tooltip: STRINGS.NOTYOU_NOBINDALERT_TOOLTIP,
+      name: STRINGS.QUIET_NOBINDALERT,
+      tooltip: STRINGS.QUIET_NOBINDALERT_TOOLTIP,
       getFunc: () => savedVars.noBindAlert,
       setFunc: (value) => {
         savedVars.noBindAlert = value
@@ -137,8 +137,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     header(GetString(SI_MAIN_MENU_MAP)),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_TAMRIEL,
-      tooltip: STRINGS.NOTYOU_TAMRIEL_TOOLTIP,
+      name: STRINGS.QUIET_TAMRIEL,
+      tooltip: STRINGS.QUIET_TAMRIEL_TOOLTIP,
       getFunc: () => savedVars.hideTamriel,
       setFunc: (value) => {
         savedVars.hideTamriel = value
@@ -146,8 +146,8 @@ export function buildWorldSections(this: void): LamControlData[] {
       default: DEFAULTS.hideTamriel,
     },
     dropdown({
-      name: STRINGS.NOTYOU_WAYSHRINES,
-      tooltip: STRINGS.NOTYOU_WAYSHRINES_TOOLTIP,
+      name: STRINGS.QUIET_WAYSHRINES,
+      tooltip: STRINGS.QUIET_WAYSHRINES_TOOLTIP,
       choices: STRINGS.WAYSHRINE_OPTION,
       get: () => savedVars.hideTamrielWayhsrines,
       set: (index) => {
@@ -157,8 +157,8 @@ export function buildWorldSections(this: void): LamControlData[] {
       disabled: () => savedVars.hideTamriel,
     }),
     dropdown({
-      name: STRINGS.NOTYOU_DUNGEONS,
-      tooltip: STRINGS.NOTYOU_DUNGEONS_TOOLTIP,
+      name: STRINGS.QUIET_DUNGEONS,
+      tooltip: STRINGS.QUIET_DUNGEONS_TOOLTIP,
       choices: STRINGS.DUNGEONS_OPTION,
       get: () => savedVars.hideTamrielDungeons,
       set: (index) => {
@@ -168,8 +168,8 @@ export function buildWorldSections(this: void): LamControlData[] {
       disabled: () => savedVars.hideTamriel,
     }),
     dropdown({
-      name: STRINGS.NOTYOU_UNOWNED_HOUSES,
-      tooltip: STRINGS.NOTYOU_UNOWNED_HOUSES_TOOLTIP,
+      name: STRINGS.QUIET_UNOWNED_HOUSES,
+      tooltip: STRINGS.QUIET_UNOWNED_HOUSES_TOOLTIP,
       choices: STRINGS.UNOWNED_HOUSES_OPTION,
       get: () => savedVars.unownedHouses,
       set: (index) => {
@@ -179,8 +179,8 @@ export function buildWorldSections(this: void): LamControlData[] {
       defaultIndex: DEFAULTS.unownedHouses,
     }),
     dropdown({
-      name: STRINGS.NOTYOU_OWNED_HOUSES,
-      tooltip: STRINGS.NOTYOU_OWNED_HOUSES_TOOLTIP,
+      name: STRINGS.QUIET_OWNED_HOUSES,
+      tooltip: STRINGS.QUIET_OWNED_HOUSES_TOOLTIP,
       choices: STRINGS.UNOWNED_HOUSES_OPTION,
       get: () => savedVars.ownedHouses,
       set: (index) => {
@@ -192,8 +192,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     header(zo_strformat(GetString(SI_JOURNAL_MENU_QUESTS))),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_NOWRITQUESTS,
-      tooltip: STRINGS.NOTYOU_NOWRITQUESTS_TOOLTIP,
+      name: STRINGS.QUIET_NOWRITQUESTS,
+      tooltip: STRINGS.QUIET_NOWRITQUESTS_TOOLTIP,
       getFunc: () => savedVars.dontAcceptWritQuest,
       setFunc: (value) => {
         savedVars.dontAcceptWritQuest = value
@@ -204,8 +204,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     header(zo_strformat(GetString(SI_CHAT_TAB_GENERAL))),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_NOCHATAUTOCOMPLETE,
-      tooltip: STRINGS.NOTYOU_NOCHATAUTOCOMPLETE_TOOLTIP,
+      name: STRINGS.QUIET_NOCHATAUTOCOMPLETE,
+      tooltip: STRINGS.QUIET_NOCHATAUTOCOMPLETE_TOOLTIP,
       getFunc: () => savedVars.disableChatAutoComplete,
       setFunc: (value) => {
         savedVars.disableChatAutoComplete = value
@@ -215,8 +215,8 @@ export function buildWorldSections(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_NOCHATDISABLE,
-      tooltip: STRINGS.NOTYOU_NOCHATDISABLE_TOOLTIP,
+      name: STRINGS.QUIET_NOCHATDISABLE,
+      tooltip: STRINGS.QUIET_NOCHATDISABLE_TOOLTIP,
       getFunc: () => savedVars.chatForTradingHouse,
       setFunc: (value) => {
         savedVars.chatForTradingHouse = value

@@ -54,7 +54,7 @@ import { initializeSavedVariables } from "akasha/temper/addon/pages/temper-core/
 import { buildSettingsMenu } from "akasha/temper/addon/pages/temper-core/temper-interface/modules/quiet-settings-menu/quiet-settings-menu.module.code.ts"
 import "akasha/temper/eso/type/eso-interface-extra/eso-interface-extra.type-declaration.d.ts"
 
-export function initNoThankYou(this: void): undefined {
+export function initQuiet(this: void): undefined {
   initializeSavedVariables()
 
   hookAvAMessages()

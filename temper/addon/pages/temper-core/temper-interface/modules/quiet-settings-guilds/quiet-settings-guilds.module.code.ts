@@ -25,8 +25,8 @@ export function buildGuildSubmenus(this: void): LamControlData[] {
 
   const guildAlertsControls: LamControlData[] = [
     dropdown({
-      name: STRINGS.NOTYOU_GROSTER,
-      tooltip: STRINGS.NOTYOU_GROSTER_TOOLTIP,
+      name: STRINGS.QUIET_GROSTER,
+      tooltip: STRINGS.QUIET_GROSTER_TOOLTIP,
       choices: STRINGS.GALERTS_OPTION,
       get: () => savedVars.guildAlerts,
       set: (index) => {
@@ -39,8 +39,8 @@ export function buildGuildSubmenus(this: void): LamControlData[] {
 
   const raidScoreControls: LamControlData[] = [
     dropdown({
-      name: STRINGS.NOTYOU_RAIDSCORE_ONLYFOR,
-      tooltip: STRINGS.NOTYOU_RAIDSCORE_ONLYFOR_TOOLTIP,
+      name: STRINGS.QUIET_RAIDSCORE_ONLYFOR,
+      tooltip: STRINGS.QUIET_RAIDSCORE_ONLYFOR_TOOLTIP,
       choices: STRINGS.RAID_OPTION,
       get: () => savedVars.raid,
       set: (index) => {
@@ -50,7 +50,7 @@ export function buildGuildSubmenus(this: void): LamControlData[] {
     }),
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_RAIDSCORE_ENDLESS,
+      name: STRINGS.QUIET_RAIDSCORE_ENDLESS,
       getFunc: () => savedVars.endless,
       setFunc: (value) => {
         savedVars.endless = value
@@ -60,7 +60,7 @@ export function buildGuildSubmenus(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_RAIDSCORE_REDIRECT,
+      name: STRINGS.QUIET_RAIDSCORE_REDIRECT,
       getFunc: () => savedVars.raidToChat,
       setFunc: (value) => {
         savedVars.raidToChat = value
@@ -70,8 +70,8 @@ export function buildGuildSubmenus(this: void): LamControlData[] {
     },
     {
       type: "checkbox",
-      name: STRINGS.NOTYOU_RAIDSCORE_SOUND,
-      tooltip: STRINGS.NOTYOU_RAIDSCORE_SOUND_TOOLTIP,
+      name: STRINGS.QUIET_RAIDSCORE_SOUND,
+      tooltip: STRINGS.QUIET_RAIDSCORE_SOUND_TOOLTIP,
       getFunc: () => savedVars.notificationSound,
       setFunc: (value) => {
         savedVars.notificationSound = value
@@ -82,8 +82,8 @@ export function buildGuildSubmenus(this: void): LamControlData[] {
 
   const motdControls: LamControlData[] = [
     dropdown({
-      name: STRINGS.NOTYOU_MOTD_BLOCK,
-      tooltip: STRINGS.NOTYOU_MOTD_BLOCK_TOOLTIP,
+      name: STRINGS.QUIET_MOTD_BLOCK,
+      tooltip: STRINGS.QUIET_MOTD_BLOCK_TOOLTIP,
       choices: STRINGS.MOTD_OPTION,
       get: () => savedVars.motd,
       set: (index) => {
@@ -96,8 +96,8 @@ export function buildGuildSubmenus(this: void): LamControlData[] {
 
   const guildLeaveControls: LamControlData[] = [
     dropdown({
-      name: STRINGS.NOTYOU_GUILDLEAVE_BLOCK,
-      tooltip: STRINGS.NOTYOU_GUILDLEAVE_BLOCK_TOOLTIP,
+      name: STRINGS.QUIET_GUILDLEAVE_BLOCK,
+      tooltip: STRINGS.QUIET_GUILDLEAVE_BLOCK_TOOLTIP,
       choices: STRINGS.GUILDLEAVE_OPTION,
       get: () => savedVars.noGuildLeave,
       set: (index) => {
@@ -152,26 +152,26 @@ export function buildGuildSubmenus(this: void): LamControlData[] {
 
   const submenuGuildAlerts: LamSubmenuData = {
     type: "submenu",
-    name: ZO_HIGHLIGHT_TEXT.Colorize(STRINGS.NOTYOU_GROSTER_HEADER),
-    tooltip: STRINGS.NOTYOU_GROSTER_HEADER_TOOLTIP,
+    name: ZO_HIGHLIGHT_TEXT.Colorize(STRINGS.QUIET_GROSTER_HEADER),
+    tooltip: STRINGS.QUIET_GROSTER_HEADER_TOOLTIP,
     controls: guildAlertsControls,
   }
   const submenuRaidScore: LamSubmenuData = {
     type: "submenu",
-    name: ZO_HIGHLIGHT_TEXT.Colorize(STRINGS.NOTYOU_RAIDSCORE_HEADER),
-    tooltip: STRINGS.NOTYOU_RAIDSCORE_HEADER_TOOLTIP,
+    name: ZO_HIGHLIGHT_TEXT.Colorize(STRINGS.QUIET_RAIDSCORE_HEADER),
+    tooltip: STRINGS.QUIET_RAIDSCORE_HEADER_TOOLTIP,
     controls: raidScoreControls,
   }
   const submenuGuildMotD: LamSubmenuData = {
     type: "submenu",
-    name: ZO_HIGHLIGHT_TEXT.Colorize(STRINGS.NOTYOU_MOTD_HEADER),
-    tooltip: STRINGS.NOTYOU_MOTD_HEADER_TOOLTIP,
+    name: ZO_HIGHLIGHT_TEXT.Colorize(STRINGS.QUIET_MOTD_HEADER),
+    tooltip: STRINGS.QUIET_MOTD_HEADER_TOOLTIP,
     controls: motdControls,
   }
   const submenuGuildLeave: LamSubmenuData = {
     type: "submenu",
-    name: ZO_HIGHLIGHT_TEXT.Colorize(STRINGS.NOTYOU_GUILDLEAVE_HEADER),
-    tooltip: STRINGS.NOTYOU_GUILDLEAVE_HEADER_TOOLTIP,
+    name: ZO_HIGHLIGHT_TEXT.Colorize(STRINGS.QUIET_GUILDLEAVE_HEADER),
+    tooltip: STRINGS.QUIET_GUILDLEAVE_HEADER_TOOLTIP,
     controls: guildLeaveControls,
   }
 
@@ -180,10 +180,10 @@ export function buildGuildSubmenus(this: void): LamControlData[] {
     submenuRaidScore,
     submenuGuildMotD,
     submenuGuildLeave,
-    header(STRINGS.NOTYOU_LUA_HEADER),
+    header(STRINGS.QUIET_LUA_HEADER),
     dropdown({
-      name: STRINGS.NOTYOU_LUA_ERROR,
-      tooltip: STRINGS.NOTYOU_LUA_ERROR_TOOLTIP,
+      name: STRINGS.QUIET_LUA_ERROR,
+      tooltip: STRINGS.QUIET_LUA_ERROR_TOOLTIP,
       choices: STRINGS.LUAERR_OPTION,
       get: () => savedVars.luaError,
       set: (index) => {

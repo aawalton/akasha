@@ -1,6 +1,6 @@
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
-export interface NoThankYouSettings {
+export interface QuietSettings {
   ava: number
   friends: boolean
   boss: boolean
@@ -56,7 +56,7 @@ export interface NoThankYouSettings {
   reticleTake: boolean
 }
 
-export const DEFAULTS: NoThankYouSettings = {
+export const DEFAULTS: QuietSettings = {
   ava: 1,
   friends: false,
   boss: false,
