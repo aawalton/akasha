@@ -6,9 +6,4 @@ export const emberUiTesting = {
   slug: "ember-ui-testing",
   domain: "domain/temper",
   persona: "persona/ember",
-  intentStack: [
-    {
-      statement: "Every change to a Temper addon's interface is tested before Alan plays it.",
-    },
-  ],
 } as const satisfies Initiative
