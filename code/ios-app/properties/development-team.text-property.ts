@@ -5,7 +5,7 @@ export const developmentTeam = {
   type: "page-type/text-property",
   slug: "development-team",
   propertySlug: "development-team",
-  definition: "the Apple team an app is built for",
+  definition: "an app's Apple team",
   maxLength: 10,
   nameFormat: null,
   types: "ts",

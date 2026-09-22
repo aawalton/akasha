@@ -4,7 +4,7 @@ export const smilingjennyWidgetFeed = {
   id: "01a05835-69dc-778f-bb4b-dd897c3cb3e7",
   type: "page-type/ios-component",
   slug: "smilingjenny-widget-feed",
-  definition: "the fetch every tile of Jenny's app draws from",
+  definition: "the fetch drawing every tile of Jenny's app",
   swift: "swift",
   decisions: [
     {

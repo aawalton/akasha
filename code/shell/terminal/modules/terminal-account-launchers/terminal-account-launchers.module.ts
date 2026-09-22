@@ -4,7 +4,7 @@ export const terminalAccountLaunchers = {
   id: "01a0680a-fa30-7d9b-a049-f3d2011c5f5f",
   type: "page-type/module",
   slug: "terminal-account-launchers",
-  definition: "the shell opening a client on a model account in the terminal it was typed in",
+  definition: "the shell opening a client on a model account in its own terminal",
   code: "ts",
   test: "ts",
   decisions: [

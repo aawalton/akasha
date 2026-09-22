@@ -4,7 +4,7 @@ export const designInterfaceLayout = {
   id: "01a05b82-8b9b-7e30-9148-8941b6ccd5ff",
   type: "page-type/domain",
   slug: "design-interface-layout",
-  definition: "the frame, columns and panels a browser draws a page's content in",
+  definition: "the frame, columns and panels drawing a page's content in a browser",
 
   parts: [
     "module/app-shell",

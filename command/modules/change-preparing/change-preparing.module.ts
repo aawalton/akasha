@@ -4,7 +4,7 @@ export const changePreparing = {
   id: "01a0818a-874f-79bb-a981-3f70b61d6b09",
   type: "page-type/module",
   slug: "change-preparing",
-  definition: "the change the gate is judged over, worked out from the change a call asked for",
+  definition: "the change the gate is judged over, worked out from the change a call named",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

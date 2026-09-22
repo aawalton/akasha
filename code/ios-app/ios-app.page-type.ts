@@ -4,7 +4,7 @@ export const iosApp = {
   id: "01a05821-5723-7e65-88e2-045d3e49cb23",
   type: "page-type/page-type",
   slug: "ios-app",
-  definition: "the app on a phone and the shell it runs in",
+  definition: "the app on a phone and its shell",
   parts: [
     "build-folder-property/web-directory",
     "file-property/app-icon",

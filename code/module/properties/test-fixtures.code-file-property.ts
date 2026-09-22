@@ -5,7 +5,7 @@ export const testFixtures = {
   type: "page-type/code-file-property",
   slug: "test-fixtures",
   propertySlug: "test-fixtures",
-  definition: "what a page's test is set up with",
+  definition: "what sets up a page's test",
   extensions: ["ts"],
   types: "ts",
 } as const satisfies CodeFileProperty

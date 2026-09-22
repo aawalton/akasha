@@ -5,7 +5,7 @@ export const startSymbol = {
   type: "page-type/relation-property",
   slug: "start-symbol",
   propertySlug: "start-symbol",
-  definition: "the phrase kind this property's text is parsed from",
+  definition: "the phrase kind parsing this property's text",
   targetPageType: "page-type/phrase-kind",
   decisions: [
     {

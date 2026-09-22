@@ -4,7 +4,7 @@ export const designInterfaceSystem = {
   id: "01a05c95-564a-7ba2-ab36-d818c559b389",
   type: "page-type/domain",
   slug: "design-interface-system",
-  definition: "the look every product wears and the gallery showing what it is made of",
+  definition: "the look every product wears and the gallery showing its parts",
 
   parts: [
     "domain/ring",

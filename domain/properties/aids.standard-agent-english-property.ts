@@ -5,7 +5,7 @@ export const aids = {
   type: "page-type/standard-agent-english-property",
   slug: "aids",
   propertySlug: "aids",
-  definition: "the rulings on acts a reader is about to take, each for or against",
+  definition: "the rulings on acts a reader is about to take, each approving or refusing",
   maxLength: 100,
   nameFormat: null,
   decisions: [

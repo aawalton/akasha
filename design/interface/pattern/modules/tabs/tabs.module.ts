@@ -4,6 +4,6 @@ export const tabs = {
   id: "01a05c69-c065-7518-bd4e-8981ac29bd31",
   type: "page-type/module",
   slug: "tabs",
-  definition: "the tabs a page or a menu is divided into",
+  definition: "the tabs dividing a page or a menu",
   code: "tsx",
 } as const satisfies Module
