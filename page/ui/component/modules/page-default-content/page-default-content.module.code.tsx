@@ -28,6 +28,7 @@ import {
   ToggleSection,
 } from "akasha/page/ui/component/modules/page-detail-sections/page-detail-sections.module.code.tsx"
 import { PageDetailSubpages } from "akasha/page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx"
+import { RecordPropertyBadge } from "akasha/page/ui/component/modules/record-property-badge/record-property-badge.module.code.tsx"
 import { usePageDefaultContent } from "akasha/page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts"
 import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import { SupabasePageResolverProvider } from "akasha/page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
@@ -192,7 +193,22 @@ export function PageDefaultContent({
                 .filter((def) => editing || hasValue(data[def.id]))
                 .map((def) => (
                   <ToggleSection key={def.id} label={def.title} hasContent={hasValue(data[def.id])}>
-                    <JsonSectionRenderer value={data[def.id]} />
+                    {(def.fields ?? []).length === 0 ? (
+                      <JsonSectionRenderer value={data[def.id]} />
+                    ) : (
+                      <BadgeLayoutProvider
+                        truncate="fluid"
+                        popoverAlign="start"
+                        display={def.display}
+                      >
+                        <RecordPropertyBadge
+                          property={def}
+                          value={data[def.id] ?? null}
+                          context="detail"
+                          editable={false}
+                        />
+                      </BadgeLayoutProvider>
+                    )}
                   </ToggleSection>
                 ))}
 

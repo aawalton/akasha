@@ -19,5 +19,13 @@ export const pageDefaultContent = {
       decisionKind: "decision-kind/gap",
       statement: "A note is shown only where the reader may write it, for want of a reading view.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property whose fields are known draws those fields as badges of their own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property whose fields are unknown falls back to the tree drawn from its JSON.",
+    },
   ],
 } as const satisfies Module
