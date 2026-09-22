@@ -53,6 +53,15 @@ export const renameFilePages = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A page stating its page type as an address is read by the slug that address holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The address a page carries is worked out by the module renaming one page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body that cannot be read refuses the whole answer.",
     },
     {

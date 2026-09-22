@@ -9,12 +9,18 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { statedIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import {
+  addressOf,
+  type Held as Page,
+} from "akasha/change/modules/page-renaming/page-renaming.module.code.ts"
+import {
   carrying,
   reach,
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { survivingEachSaid } from "akasha/change/modules/spelling-outliving/spelling-outliving.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
@@ -29,11 +35,9 @@ export type Asked = {
   readonly moved: Readonly<Record<string, string>>
 }
 
-export type Held = {
+export type Held = Page & {
   readonly at: string
-  readonly was: string
   readonly to: string
-  readonly pageTypeSlug: string
 }
 
 type Read = { readonly held: readonly Held[] } | { readonly refused: string }
@@ -48,16 +52,22 @@ function readIn(world: World, moved: Readonly<Record<string, string>>): Read {
     const pageTypeSlug = said.get(PAGE_TYPE) ?? said.get(PAGE_TYPE_SLUG)
     if (slug === undefined) return { refused: `\`${at}\` states no \`${SLUG}\`` }
     if (pageTypeSlug === undefined) return { refused: `\`${at}\` states no \`${PAGE_TYPE_SLUG}\`` }
-    found.push({ at, was: slug.text, to, pageTypeSlug: pageTypeSlug.text })
+    found.push({
+      at,
+      to,
+      slug: slug.text,
+      pageTypeSlug: slugIn(pageTypeSlug.text) ?? pageTypeSlug.text,
+      said: new Map([...said].map(([key, one]) => [key, one.text])),
+    })
   }
   return { held: found }
 }
 
-export function addressesIn(held: readonly Held[]): Record<string, string> {
+export function addressesIn(known: Shaped, held: readonly Held[]): Record<string, string> {
   const found: Record<string, string> = {}
   for (const one of held) {
-    if (one.to === one.was) continue
-    found[`${one.pageTypeSlug}/${one.was}`] = `${one.pageTypeSlug}/${one.to}`
+    if (one.to === one.slug) continue
+    found[addressOf(known, one, one.slug)] = addressOf(known, one, one.to)
   }
   return found
 }
@@ -76,7 +86,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const read = readIn(world, given.moved)
   if ("refused" in read) return refusing(`${read.refused}, so no page is renamed`)
   if (read.held.length === 0) return refusing("no page was handed in, so no page is renamed")
-  const addresses = addressesIn(read.held)
+  const addresses = addressesIn(world.index.knownIn(), read.held)
   const answers: Answer[] = []
   let seen = world
   if (Object.keys(addresses).length > 0) {

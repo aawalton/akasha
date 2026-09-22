@@ -88,7 +88,28 @@ function tracing(): { readonly runs: Reaching; readonly reached: readonly Traced
   }
 }
 
+const TYPED_PAGE = "akasha/kept/typed.kept.ts"
+
+const TYPER_PAGE = "akasha/typer.module.ts"
+
+const TYPER_CODE = "akasha/typer.module.code.ts"
+
 const KEPT_ROOT = repoIn()
+
+const TYPED_ROOT = indexedRepo({
+  [KEPT_TYPE]: TYPE_BODY,
+  [TYPED_PAGE]: pageOf({ id: idOf("g"), pageTypeSlug: "kept", slug: "typed" }).replace(
+    '"pageTypeSlug": "kept"',
+    '"type": "page-type/kept"'
+  ),
+  [TYPER_PAGE]: pageOf({
+    id: idOf("h"),
+    pageTypeSlug: "module",
+    slug: "typer",
+    code: "ts",
+  }),
+  [TYPER_CODE]: `export const at = ["kept/typed"]\n`,
+})
 
 const ASKED = { moved: { [ONE_PAGE]: "first", [TWO_PAGE]: "second" } }
 
@@ -159,10 +180,19 @@ test("a call handing in no page is refused", async () => {
 })
 
 test("a page handed in under the slug that page carries has no address restated", () => {
-  const found = addressesIn([
-    { at: ONE_PAGE, was: "one", to: "one", pageTypeSlug: "kept" },
-    { at: TWO_PAGE, was: "two", to: "second", pageTypeSlug: "kept" },
+  const found = addressesIn(worldIn(KEPT_ROOT).index.knownIn(), [
+    { at: ONE_PAGE, slug: "one", to: "one", pageTypeSlug: "kept", said: new Map() },
+    { at: TWO_PAGE, slug: "two", to: "second", pageTypeSlug: "kept", said: new Map() },
   ])
 
   expect(found).toEqual({ "kept/two": "kept/second" })
+})
+
+test("a page stating its page type as an address has that address restated", async () => {
+  const said = await runChange(worldIn(TYPED_ROOT), { moved: { [TYPED_PAGE]: "third" } })
+
+  expect(said.refused).toBe(null)
+  expect(bodiesIn(said, textIn(TYPED_ROOT)).get(TYPER_CODE) ?? "").toBe(
+    `export const at = ["kept/third"]\n`
+  )
 })
