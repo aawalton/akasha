@@ -34,14 +34,6 @@ export const appNamespacesSynth = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No page defines the `collections-s3-creds` Secret.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "The only copy of what `collections-s3-creds` holds is the one on the cluster.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
       statement: "No workload reads the `collections-secrets` Secret.",
     },
     {
