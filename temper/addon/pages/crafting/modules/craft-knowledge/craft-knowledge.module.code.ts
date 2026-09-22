@@ -1,7 +1,7 @@
 import * as Characters from "akasha/temper/addon/pages/crafting/modules/craft-characters/craft-characters.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/crafting/modules/crafting-state/crafting-state.module.code.ts"
+import { PUBLIC as CHARACTER_KNOWLEDGE } from "akasha/temper/addon/pages/crafting/modules/knowledge-state/knowledge-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 
@@ -13,7 +13,7 @@ const RESEARCH_CRAFTS: number[] = [
 ]
 
 export function isInitialized(this: void): boolean {
-  const [firstKey] = next(LibCharacterKnowledge.GetCharacterList())
+  const [firstKey] = next(CHARACTER_KNOWLEDGE.GetCharacterList())
   return firstKey !== undefined
 }
 
@@ -26,11 +26,11 @@ export function onInitialized(
     callback()
     return
   }
-  LibCharacterKnowledge.RegisterForCallback(name, LibCharacterKnowledge.EVENT_INITIALIZED, callback)
+  CHARACTER_KNOWLEDGE.RegisterForCallback(name, CHARACTER_KNOWLEDGE.EVENT_INITIALIZED, callback)
 }
 
 export function charIdForName(this: void, char: string): string | undefined {
-  for (const [, entry] of ipairs(LibCharacterKnowledge.GetCharacterList())) {
+  for (const [, entry] of ipairs(CHARACTER_KNOWLEDGE.GetCharacterList())) {
     if (entry.name === char) {
       return entry.id
     }
@@ -44,8 +44,8 @@ export function isItemKnownByLink(this: void, char: string, link: string): boole
     return false
   }
   return (
-    LibCharacterKnowledge.GetItemKnowledgeForCharacter(link, undefined, charId) ===
-    LibCharacterKnowledge.KNOWLEDGE_KNOWN
+    CHARACTER_KNOWLEDGE.GetItemKnowledgeForCharacter(link, undefined, charId) ===
+    CHARACTER_KNOWLEDGE.KNOWLEDGE_KNOWN
   )
 }
 
@@ -55,8 +55,8 @@ export function isItemKnownById(this: void, char: string, itemId: number): boole
     return false
   }
   return (
-    LibCharacterKnowledge.GetItemKnowledgeForCharacter(itemId, undefined, charId) ===
-    LibCharacterKnowledge.KNOWLEDGE_KNOWN
+    CHARACTER_KNOWLEDGE.GetItemKnowledgeForCharacter(itemId, undefined, charId) ===
+    CHARACTER_KNOWLEDGE.KNOWLEDGE_KNOWN
   )
 }
 
@@ -71,8 +71,8 @@ export function isMotifChapterKnown(
     return false
   }
   return (
-    LibCharacterKnowledge.GetMotifKnowledgeForCharacter(styleId, chapterId, undefined, charId) ===
-    LibCharacterKnowledge.KNOWLEDGE_KNOWN
+    CHARACTER_KNOWLEDGE.GetMotifKnowledgeForCharacter(styleId, chapterId, undefined, charId) ===
+    CHARACTER_KNOWLEDGE.KNOWLEDGE_KNOWN
   )
 }
 
@@ -87,7 +87,7 @@ export function isResearchKnown(
   if (charId === undefined) {
     return false
   }
-  const [, , isKnown] = LibCharacterKnowledge.GetSmithingResearchLineTraitInfoForCharacter(
+  const [, , isKnown] = CHARACTER_KNOWLEDGE.GetSmithingResearchLineTraitInfoForCharacter(
     craft,
     line,
     trait,

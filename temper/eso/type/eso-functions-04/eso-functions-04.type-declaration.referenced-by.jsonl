@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-player-state/craft-player-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-tooltip-handler/craft-tooltip-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-utilities/craft-utilities.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-research/knowledge-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-markers/writ-mark-markers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-parser-dispatch/writ-parser-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-required-skill/writ-required-skill.module.code.ts"}
@@ -40,7 +41,6 @@
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-use/inventory-rules-dispatch-use.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-04.type-declaration.d.ts","path":"temper/addon/pages/lib-map-data/modules/map-data-update/map-data-update.module.code.ts"}

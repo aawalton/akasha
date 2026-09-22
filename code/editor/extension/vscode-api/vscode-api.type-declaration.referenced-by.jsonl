@@ -120,6 +120,9 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-message-types/combat-lib-message-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-numbers/combat-ui-chat-numbers.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-ldei/knowledge-ldei.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-shape/knowledge-shape.module.code.ts"}
+{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-types/knowledge-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-main-menu/potion-main-menu.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-state/potion-state.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/slash-commander-types/slash-commander-types.module.code.ts"}
@@ -134,9 +137,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/hud/modules/hud-addon-command-registry/hud-addon-command-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/fco-skill-action-bar-timers/fco-skill-action-bar-timers.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-types/async-types.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-ldei/knowledge-ldei.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-shape/knowledge-shape.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-types/knowledge-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-shape/journal-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-tooltip-extension/journal-tooltip-extension.module.code.ts"}

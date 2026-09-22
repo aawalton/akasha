@@ -424,6 +424,12 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/modules/companions-skill-map/companions-skill-map.module.ts","id":"01a0611d-84e2-7459-a5ca-157255030bb6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/companions/temper-addon-companions.temper-addon.ts","id":"01a0611d-84e6-7be5-8c8a-4c6082779c87"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/craft-defined/craft-defined.module.ts","id":"01a08de1-2f29-7d20-a437-b66d1cb3ba33"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/knowledge-base-data-motifs/knowledge-base-data-motifs.module.ts","id":"01a0622b-dc54-77f2-87d9-b420778a2255"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/knowledge-base-data-plans/knowledge-base-data-plans.module.ts","id":"01a0622b-dc53-778f-984b-f2eee085d95d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/knowledge-base-data-recipes/knowledge-base-data-recipes.module.ts","id":"01a0622b-dc52-79f4-bce0-fd2f65450465"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/knowledge-base-data/knowledge-base-data.module.ts","id":"01a0622b-dc55-7c17-a578-3d9496020824"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/knowledge-curated-invalid-ids/knowledge-curated-invalid-ids.module.ts","id":"01a0622b-dc57-7c4b-8f62-fa6a29f7844e"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/knowledge-ldei/knowledge-ldei.module.ts","id":"01a0621c-516c-7e6c-b88e-6a86a6f54d21"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/slash-command/slash-command.module.ts","id":"01a06066-8401-7395-abd7-61fa46d501e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/zone-geo-data-00/zone-geo-data-00.module.ts","id":"01a061e7-92f8-798e-bba4-986bf682dc1e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/crafting/modules/zone-geo-data-01/zone-geo-data-01.module.ts","id":"01a061e7-92f9-7527-bde0-4ff03ef27b8e"}
@@ -514,14 +520,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.ts","id":"01a06100-0000-7000-8000-000000000028"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-addon-menu/temper-lib-addon-menu.temper-addon.ts","id":"01a06292-8851-701c-9273-a19fa38175bb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-async/temper-lib-async.temper-addon.ts","id":"01a0606a-1c52-7326-b2c4-11a5a0c5c3fa"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-base-data-motifs/knowledge-base-data-motifs.module.ts","id":"01a0622b-dc54-77f2-87d9-b420778a2255"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-base-data-plans/knowledge-base-data-plans.module.ts","id":"01a0622b-dc53-778f-984b-f2eee085d95d"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-base-data-recipes/knowledge-base-data-recipes.module.ts","id":"01a0622b-dc52-79f4-bce0-fd2f65450465"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-base-data/knowledge-base-data.module.ts","id":"01a0622b-dc55-7c17-a578-3d9496020824"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-curated-invalid-ids/knowledge-curated-invalid-ids.module.ts","id":"01a0622b-dc57-7c4b-8f62-fa6a29f7844e"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-ldei/knowledge-ldei.module.ts","id":"01a0621c-516c-7e6c-b88e-6a86a6f54d21"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-public-api/knowledge-public-api.module.ts","id":"01a0622b-dc5a-7644-abf2-0615e1f975a5"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/lib-character-knowledge/temper-lib-character-knowledge.temper-addon.ts","id":"01a061fa-8034-72e8-8175-6440e4c91a6d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-chat-message/temper-lib-chat-message.temper-addon.ts","id":"01a06060-0d13-746b-9617-c8f4b7d288ce"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-custom-menu/temper-lib-custom-menu.temper-addon.ts","id":"01a0605a-581c-7eb1-aaf7-831f236462fa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/lib-debug-logger/temper-lib-debug-logger.temper-addon.ts","id":"01a06061-408b-7657-add9-d2dfd959f9b9"}

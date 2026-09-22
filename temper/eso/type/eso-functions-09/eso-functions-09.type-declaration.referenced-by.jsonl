@@ -38,6 +38,10 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-validation/craft-validation.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-helpers/crafting-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-init/knowledge-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-public-core/knowledge-public-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-inventory/potion-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-potion/potion-potion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-reagents/potion-reagents.module.code.ts"}
@@ -90,10 +94,6 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init/knowledge-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-public-core/knowledge-public-core.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-api/gps-api.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-map-adapter/gps-map-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/lib-gps/modules/gps-measurement/gps-measurement.module.code.ts"}

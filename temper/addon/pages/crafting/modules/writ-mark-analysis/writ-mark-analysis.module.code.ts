@@ -1,3 +1,4 @@
+import { PUBLIC as CHARACTER_KNOWLEDGE } from "akasha/temper/addon/pages/crafting/modules/knowledge-state/knowledge-state.module.code.ts"
 import { EQUIPMENT_CHAPTERS } from "akasha/temper/addon/pages/crafting/modules/writ-mark-constants/writ-mark-constants.module.code.ts"
 import {
   getMotifCharId,
@@ -6,7 +7,6 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/writ-mark-decl-writ-worthy/writ-mark-decl-writ-worthy.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -126,12 +126,12 @@ export function isWritMotifUnknown(this: void, itemLink: string): boolean {
   if (
     styleId !== undefined &&
     chapterId !== undefined &&
-    LibCharacterKnowledge.GetMotifKnowledgeForCharacter(
+    CHARACTER_KNOWLEDGE.GetMotifKnowledgeForCharacter(
       styleId,
       chapterId,
       undefined,
       getMotifCharId()
-    ) === LibCharacterKnowledge.KNOWLEDGE_UNKNOWN
+    ) === CHARACTER_KNOWLEDGE.KNOWLEDGE_UNKNOWN
   ) {
     return true
   }

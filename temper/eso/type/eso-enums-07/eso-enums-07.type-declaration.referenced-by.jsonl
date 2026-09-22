@@ -29,6 +29,8 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events-handlers-station/crafting-events-handlers-station.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-state/crafting-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-init/knowledge-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-research/knowledge-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-constants/potion-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-events/potion-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-inventory/potion-inventory.module.code.ts"}
@@ -84,8 +86,6 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-match/inventory-writ-crafting-master-match.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init/knowledge-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/lib-custom-menu/modules/submenu-text-colors/submenu-text-colors.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-category-requests/histoire-category-requests.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-legacy-event-format/histoire-legacy-event-format.module.code.ts"}

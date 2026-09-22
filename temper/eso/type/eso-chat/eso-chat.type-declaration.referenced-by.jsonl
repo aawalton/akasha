@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-helpers/crafting-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/slash-commander-chat-hooks/slash-commander-chat-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-autocompletion/zone-autocompletion.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/events/modules/next-boss-events/next-boss-events.module.code.ts"}
@@ -15,7 +16,6 @@
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/interface/modules/quiet-print/quiet-print.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-messages/addon-menu-messages.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-api/async-api.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-chat.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}

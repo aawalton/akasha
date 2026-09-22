@@ -1,13 +1,13 @@
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-constants/leads-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-item-mark/craft-item-mark.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-tooltips/craft-tooltips.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-categories/inventory-browser-categories.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-overrides/inventory-rules-core-overrides.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-core/knowledge-core.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/specialized-item-type-constants/specialized-item-type-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-constants/lost-treasure-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-10.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-utilities/lost-treasure-utilities.module.code.ts"}

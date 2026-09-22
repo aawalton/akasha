@@ -38,6 +38,9 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-utilities/craft-utilities.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events/crafting-events.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-init/knowledge-init.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-settings-main-section/knowledge-settings-main-section.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-events/potion-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-potion-craft/potion-potion-craft.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-saved-variables/potion-saved-variables.module.code.ts"}
@@ -61,9 +64,6 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master-set-select/inventory-writ-crafting-master-set-select.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/keybinder/modules/keybinder-saved-variables/keybinder-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-async/modules/async-scheduler/async-scheduler.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-init/knowledge-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-settings-main-section/knowledge-settings-main-section.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-settings-panel/knowledge-settings-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lib/chat-message-lib.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/lib-extended-journal/modules/journal-main-menu/journal-main-menu.module.code.ts"}

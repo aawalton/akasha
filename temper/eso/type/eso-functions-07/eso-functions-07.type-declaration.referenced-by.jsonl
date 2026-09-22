@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/companions/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-utilities/craft-utilities.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-public-research/knowledge-public-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-analysis/writ-mark-analysis.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/zone-dungeon-status/zone-dungeon-status.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
@@ -54,7 +55,6 @@
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-addon-menu/modules/addon-menu-widget-panel/addon-menu-widget-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-public-research/knowledge-public-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-adapter/histoire-adapter.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/lib-histoire/modules/histoire-category-managed-range/histoire-category-managed-range.module.code.ts"}

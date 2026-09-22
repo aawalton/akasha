@@ -1,8 +1,8 @@
+import { PUBLIC as CHARACTER_KNOWLEDGE } from "akasha/temper/addon/pages/crafting/modules/knowledge-state/knowledge-state.module.code.ts"
 import {
   DEFAULT_COLORS,
   type MarkerState,
 } from "akasha/temper/addon/pages/crafting/modules/writ-mark-constants/writ-mark-constants.module.code.ts"
-import "akasha/temper/addon/type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-codes-common-code/lib-codes-common-code.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-declaration.d.ts"
 
@@ -59,7 +59,7 @@ export function getMotifCharId(this: void): string | undefined {
   if (typeof motifChar === "string" && zo_strlen(motifChar) === 16) {
     return motifChar
   }
-  const char = LibCharacterKnowledge.GetCharacterList()[0]
+  const char = CHARACTER_KNOWLEDGE.GetCharacterList()[0]
   return char !== undefined ? char.id : undefined
 }
 

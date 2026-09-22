@@ -8,6 +8,12 @@
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-item-mark/craft-item-mark.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-lang-shared/craft-lang-shared.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/craft-validation/craft-validation.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-core/knowledge-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-motif/knowledge-motif.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-public-core/knowledge-public-core.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/knowledge-research/knowledge-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/potion-inventory/potion-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-mark-constants/writ-mark-constants.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/writ-smith-schema-data/writ-smith-schema-data.module.code.ts"}
@@ -20,12 +26,6 @@
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-core/knowledge-core.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-lookups/knowledge-lookups.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-motif/knowledge-motif.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-public-core/knowledge-public-core.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research-get/knowledge-research-get.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-character-knowledge/modules/knowledge-research/knowledge-research.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-const-settypes/lib-sets-const-settypes.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/addon/pages/lib-sets/modules/lib-sets-core-saved-variables/lib-sets-core-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-08.type-declaration.d.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts"}

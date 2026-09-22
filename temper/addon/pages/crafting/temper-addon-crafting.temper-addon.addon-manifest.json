@@ -15,10 +15,10 @@
     "LibZone_SV_Data",
     "LibZone_Localized_SV_Data",
     "LibZone_GeoDebug_SV_Data",
-    "LibZone_Debug_SV_Data"
+    "LibZone_Debug_SV_Data",
+    "LibCharacterKnowledgeData"
   ],
   "dependsOn": [
-    "LibCharacterKnowledge>=300040",
     "LibAddonMenu-2.0>=43",
     "LibAsync>=20100",
     "LibCustomMenu>=692",

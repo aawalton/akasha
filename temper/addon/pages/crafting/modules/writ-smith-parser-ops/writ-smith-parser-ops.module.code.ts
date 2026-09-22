@@ -1,3 +1,4 @@
+import { PUBLIC as CHARACTER_KNOWLEDGE } from "akasha/temper/addon/pages/crafting/modules/knowledge-state/knowledge-state.module.code.ts"
 import { newKnow } from "akasha/temper/addon/pages/crafting/modules/writ-know/writ-know.module.code.ts"
 import {
   add as logAdd,
@@ -32,7 +33,6 @@ import {
 import { toWritFields } from "akasha/temper/addon/pages/crafting/modules/writ-writ-fields/writ-writ-fields.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/writ-writworthy-global/writ-writworthy-global.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-character-knowledge/lib-character-knowledge.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets-api/lib-sets-api.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -56,13 +56,6 @@ function libSetsHasGetSetName(
   lib: LibSetsApi
 ): lib is LibSetsApi & TemperWritLibSetsApi {
   return "GetSetName" in lib
-}
-
-function lckHasMotifApi(
-  this: void,
-  lck: LibCharacterKnowledgeApi | undefined
-): lck is LibCharacterKnowledgeApi & TemperWritLckMotifApi {
-  return lck !== undefined
 }
 
 export function getSetBonus(this: void, _parser: SmithingParser, setId: number): SetBonus {
@@ -244,13 +237,12 @@ export function toKnowList(this: void, parser: SmithingParser): KnowList {
   const strLookup = TemperWrit.Str
   const str = (key: string): string => (strLookup !== undefined ? strLookup(key) : undefined) ?? ""
 
-  const lck = LibCharacterKnowledge
-  if (requestItem.school.motif_required && parser.motif !== undefined && lckHasMotifApi(lck)) {
-    const rr = lck.GetMotifKnowledgeForCharacter(
+  if (requestItem.school.motif_required && parser.motif !== undefined) {
+    const rr = CHARACTER_KNOWLEDGE.GetMotifKnowledgeForCharacter(
       parser.motif.motif_num,
       requestItem.motif_page ?? 0
     )
-    const motifKnown = rr === lck.KNOWLEDGE_KNOWN
+    const motifKnown = rr === CHARACTER_KNOWLEDGE.KNOWLEDGE_KNOWN
 
     const parsedMotifName = parser.motif.motif_name
     const title = "motif " + tostring(parsedMotifName)
