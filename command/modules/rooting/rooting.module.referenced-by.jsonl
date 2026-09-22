@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/answer/hook-answer.module.code.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/dispatch-boot/dispatch-boot.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/declaration/modules/seat-answering/seat-answering.module.test.ts"}

@@ -22,6 +22,7 @@ export const hook = {
     "page-type/agent-hook",
     "test-fixture/hook-judging",
     "test-fixture/hook-payload",
+    "module/dispatch-boot",
   ],
   decisions: [
     {

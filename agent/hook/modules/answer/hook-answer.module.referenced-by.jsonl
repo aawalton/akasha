@@ -29,6 +29,7 @@
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/modules/answer/hook-answer.module.test.ts"}
+{"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/modules/dispatch-boot/dispatch-boot.module.test.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts"}
 {"propertySlug":"parts","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}

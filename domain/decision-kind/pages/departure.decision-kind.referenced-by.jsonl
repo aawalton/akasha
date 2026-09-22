@@ -43,6 +43,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/modules/answer/hook-answer.module.ts","id":"01a04e16-d380-7001-96b2-4990b06a9094"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/bun-calls/bun-calls.module.ts","id":"01a04eab-d4ef-7000-bdff-3446eef0bf24"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/chain-refusal/chain-refusal.module.ts","id":"01a04f71-0570-763b-ac55-da9d9fca21da"}
+{"propertySlug":"decision-kind","path":"agent/hook/modules/dispatch-boot/dispatch-boot.module.ts","id":"01a0cab0-a954-7002-aa7c-49cccf78b92c"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/dispatch/hook-dispatch.module.ts","id":"01a08dc2-4dc4-71fe-8902-22e28eec31e2"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/git-calls/git-calls.module.ts","id":"01a04e16-d380-7000-aca5-c084a6730236"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/links/hook-links.module.ts","id":"01a08dc1-ffb8-707b-b5d8-3633bf16ddae"}
