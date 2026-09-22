@@ -364,9 +364,9 @@ describe("songValuesOver", () => {
   })
 
   test("keeps what the run judges nothing about", () => {
-    const held = { slug: "queen-yellow", grade: "S", tags: ["night"] }
+    const held = { slug: "queen-yellow", singability: "S", tags: ["night"] }
     const values = songValuesOver(held, fields())
-    expect(values["grade"]).toBe("S")
+    expect(values["singability"]).toBe("S")
     expect(values["tags"]).toEqual(["night"])
   })
 
