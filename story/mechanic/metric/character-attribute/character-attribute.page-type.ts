@@ -7,7 +7,7 @@ export const characterAttribute = {
   definition: "a number for a persistent property of a character",
   pluralSlug: "attributes",
   extends: ["page-type/metric"],
-  parts: ["page-type/tower-attribute"],
+  parts: ["page-type/tower-attribute", "page-type/tower-level"],
 
   types: "ts",
   schema: "jsonl",
