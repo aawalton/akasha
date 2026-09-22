@@ -72,7 +72,7 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The commit a run answers for is read before the tree is walked.",
+      statement: "The commit a run answers for is read as the round opens.",
     },
     {
       decisionKind: "decision-kind/departure",
