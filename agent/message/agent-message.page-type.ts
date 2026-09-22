@@ -8,6 +8,12 @@ export const agentMessage = {
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "agent message" },
     { partOfSpeech: "part-of-speech/noun", spelling: "agent messages" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "message", scope: "page-type/agent-message" },
+    {
+      partOfSpeech: "part-of-speech/noun",
+      spelling: "messages",
+      scope: "page-type/agent-message",
+    },
   ],
   extends: ["page-type/page"],
   mortal: true,
