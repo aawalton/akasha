@@ -30,6 +30,7 @@ import {
 import { putting } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { gameDesignEntry } from "akasha/story/game/design-entry/game-design-entry.page-type.ts"
 import { game } from "akasha/story/game/game.page-type.ts"
+import { gameLoreEntry } from "akasha/story/game/lore-entry/game-lore-entry.page-type.ts"
 
 const NAMED = [gameArgument, ledgerArgument] as const
 
@@ -52,9 +53,25 @@ const SUBJECT_KEY = "subject-key"
 const SOURCE_REF = "source-ref"
 const SUPERSEDES = "supersedes"
 
+const EXTERNAL = "externalId"
+const LORE_KIND = "loreKind"
+const LORE_SUBJECT = "subjectKey"
+const SOURCE_TURN = "sourceTurn"
+const CITATION = "citation"
+const QUOTE = "quote"
+const VALUE = "value"
+const SUMMARY = "summary"
+const EVENT = "event"
+const LINE = "line"
+const ATTRIBUTE = "attribute"
+const STATUS = "status"
+const ORDINAL = "ordinal"
+const SPEAKER = "speaker"
+
 const A_BREAK = /([a-z0-9])([A-Z])/g
 const A_DASH = /-/g
 const A_RUN = /\s+/
+const A_NUMBER = /(\d+)\s*$/
 
 export type Made = Naming | { readonly refused: string }
 
@@ -151,8 +168,65 @@ export function designRowed(gameSlug: string, folder: string, row: Record<string
   }
 }
 
+export function numberIn(held: unknown): number | null {
+  if (typeof held === "number") return Number.isFinite(held) ? held : null
+  const said = textIn(held)
+  if (said === null) return null
+  const found = A_NUMBER.exec(said)
+  return found === null ? null : Number(found[1])
+}
+
+export function loreRowed(gameSlug: string, folder: string, row: Record<string, unknown>): Made {
+  const external = textIn(row[EXTERNAL])
+  const kind = textIn(row[LORE_KIND])
+  const subject = textIn(row[LORE_SUBJECT])
+  if (external === null || kind === null || subject === null) {
+    return { refused: "a lore entry row names no external id, no kind or no subject" }
+  }
+  const turn = numberIn(row[SOURCE_TURN])
+  if (turn === null) return { refused: `\`${external}\` cites no turn` }
+  const content = row[CONTENT]
+  if (!isRecord(content)) return { refused: `\`${external}\` says nothing` }
+  const said =
+    textIn(content[VALUE]) ??
+    textIn(content[SUMMARY]) ??
+    textIn(content[EVENT]) ??
+    textIn(content[LINE])
+  if (said === null) return { refused: `\`${external}\` says nothing` }
+  const citation = row[CITATION]
+  const cited = isRecord(citation) ? textIn(citation[QUOTE]) : null
+  const attribute = textIn(content[ATTRIBUTE])
+  const status = textIn(content[STATUS])
+  const ordinal = numberIn(content[ORDINAL])
+  const speaker = textIn(content[SPEAKER])
+  const supersedes = textIn(row[SUPERSEDES])
+  const slug = `${gameSlug}-${external}`
+  return {
+    pageTypeSlug: gameLoreEntry.slug,
+    slug,
+    path: `${folder}${PARTED}${slug}.${gameLoreEntry.slug}.${TS}`,
+    values: {
+      title: titleOf(subject),
+      game: namedAs(game.slug, gameSlug, null),
+      kind,
+      subject,
+      said,
+      turn,
+      ...(cited === null ? {} : { quote: cited }),
+      ...(attribute === null ? {} : { attribute }),
+      ...(status === null ? {} : { status }),
+      ...(ordinal === null ? {} : { ordinal }),
+      ...(speaker === null ? {} : { speaker }),
+      ...(supersedes === null
+        ? {}
+        : { supersedes: namedAs(gameLoreEntry.slug, `${gameSlug}-${supersedes}`, null) }),
+    },
+  }
+}
+
 const LEDGERS: ReadonlyMap<string, Ledger> = new Map([
   [gameDesignEntry.pluralSlug, { under: gameDesignEntry.pluralSlug, rowed: designRowed } as Ledger],
+  [gameLoreEntry.pluralSlug, { under: gameLoreEntry.pluralSlug, rowed: loreRowed } as Ledger],
 ])
 
 export function taken(argv: readonly string[], calledAs: string): Read {

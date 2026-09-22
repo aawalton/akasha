@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
 import {
   designRowed,
+  loreRowed,
   messageFor,
   noteOf,
+  numberIn,
   rowsIn,
   taken,
   titleOf,
@@ -99,4 +101,82 @@ test("a call names the game and the rows beside it", () => {
 test("rows this command does not know are refused", () => {
   const read = taken(["--game", SAID, "--ledger", "rolls"], CALLED)
   expect("refused" in read).toBe(true)
+})
+
+test("the turn a lore row cites is read as its number", () => {
+  expect(numberIn("turn-13")).toBe(13)
+  expect(numberIn(7)).toBe(7)
+  expect(numberIn("nowhere")).toBe(null)
+})
+
+test("an entity lore row becomes a page saying what it settles about its subject", () => {
+  const made = loreRowed(theTower.slug, FOLDER, {
+    externalId: "ent-aria-age",
+    loreKind: "entity",
+    subjectKey: "aria",
+    sourceTurn: "turn-12",
+    citation: { quote: "three thousand years", turnExternalId: "turn-12" },
+    content: { kind: "entity", value: "roughly three thousand years old", attribute: "age" },
+  })
+  expect("refused" in made).toBe(false)
+  if ("refused" in made) return
+  expect(made.values["title"]).toBe("Aria")
+  expect(made.values["subject"]).toBe("aria")
+  expect(made.values["said"]).toBe("roughly three thousand years old")
+  expect(made.values["turn"]).toBe(12)
+  expect(made.values["attribute"]).toBe("age")
+  expect(made.values["quote"]).toBe("three thousand years")
+})
+
+test("a thread lore row carries whether the play has answered it", () => {
+  const made = loreRowed(theTower.slug, FOLDER, {
+    externalId: "thr-far-door",
+    loreKind: "thread",
+    subjectKey: "harem-hotel",
+    sourceTurn: "turn-3",
+    content: { kind: "thread", status: "open", summary: "the far door is still unentered" },
+  })
+  expect("refused" in made).toBe(false)
+  if ("refused" in made) return
+  expect(made.values["status"]).toBe("open")
+  expect(made.values["said"]).toBe("the far door is still unentered")
+  expect(made.values["attribute"]).toBeUndefined()
+})
+
+test("a timeline lore row carries where its beat falls", () => {
+  const made = loreRowed(theTower.slug, FOLDER, {
+    externalId: "tl-2",
+    loreKind: "timeline",
+    subjectKey: "alan",
+    sourceTurn: "turn-1",
+    content: { kind: "timeline", event: "the wall grows a doorway", ordinal: 2 },
+  })
+  expect("refused" in made).toBe(false)
+  if ("refused" in made) return
+  expect(made.values["ordinal"]).toBe(2)
+  expect(made.values["said"]).toBe("the wall grows a doorway")
+})
+
+test("a quote lore row carries who said the line", () => {
+  const made = loreRowed(theTower.slug, FOLDER, {
+    externalId: "q-aria-1",
+    loreKind: "quote",
+    subjectKey: "aria",
+    sourceTurn: "turn-9",
+    content: { kind: "quote", line: "It doesn't get to call this one.", speaker: "aria" },
+  })
+  expect("refused" in made).toBe(false)
+  if ("refused" in made) return
+  expect(made.values["speaker"]).toBe("aria")
+  expect(made.values["said"]).toBe("It doesn't get to call this one.")
+})
+
+test("a lore row citing no turn is refused", () => {
+  const made = loreRowed(theTower.slug, FOLDER, {
+    externalId: "ent-aria-age",
+    loreKind: "entity",
+    subjectKey: "aria",
+    content: { kind: "entity", value: "old", attribute: "age" },
+  })
+  expect("refused" in made).toBe(true)
 })
