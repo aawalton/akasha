@@ -24,5 +24,10 @@ export const turnFiling = {
       decisionKind: "decision-kind/departure",
       statement: "The last state row wins, because the rows before it are that state earlier.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Only the turn a state is at carries the pools, the numbers and the rungs the state held.",
+    },
   ],
 } as const satisfies Module

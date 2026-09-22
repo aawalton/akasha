@@ -7,6 +7,7 @@ import {
   detailedIn,
   everyTurnFiled,
   numberedAs,
+  pooledIn,
   raisedAt,
   raisedIn,
 } from "akasha/story/game/turn/modules/turn-filing/turn-filing.module.code.ts"
@@ -24,6 +25,14 @@ const WHERE: Where = {
 const ROW = {
   externalId: theTower.slug,
   turn: 88,
+  hud: {
+    pools: { hp: 121, hpMax: 124, stamina: 48, stamMax: 76 },
+    delta: { stamina: -5 },
+  },
+  revealed: {
+    derived: { Focus: 120 },
+    skills: [{ name: "Smithing", rung: "Apprentice", score: 1 }],
+  },
   log: [
     { id: "b134", text: "Then you climb", turn: 56, type: "narrative" },
     { id: "b139", turn: 58, type: "system", window: { type: "level-up", level: 5 } },
@@ -103,6 +112,24 @@ test("each turn becomes a page under its game, named by its number", () => {
   expect(placed.answered[0]?.body).not.toContain("windows")
   expect(placed.answered[1]?.body).toContain('{kind:"level-up",level:5}')
   expect(placed.answered[3]?.body).toContain("Recovered from: the Host's seat")
+})
+
+test("the turn the state is at carries the pools, the numbers and the rungs, and no other turn does", () => {
+  const placed = everyTurnFiled(WHERE, [ROW])
+  if ("refused" in placed) throw new Error(placed.refused)
+  const last = placed.answered[3]?.body
+  expect(last).toContain('{name:"hp",now:121,most:124}')
+  expect(last).toContain('{name:"stamina",now:48,most:76,change:-5}')
+  expect(last).toContain('{name:"Focus",number:120}')
+  expect(last).toContain('{name:"Smithing",rung:"Apprentice"}')
+  expect(placed.answered[0]?.body).not.toContain("pools")
+})
+
+test("a most keyed by a shortened name still pairs with its pool", () => {
+  expect(pooledIn({ pools: { stamina: 48, stamMax: 76 } })).toEqual([
+    { name: "stamina", now: 48, most: 76 },
+  ])
+  expect(pooledIn(undefined)).toEqual([])
 })
 
 test("a state with no row leaves no turn", () => {

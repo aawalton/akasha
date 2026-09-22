@@ -25,7 +25,14 @@ const DESCRIBED = "descriptors"
 const INSIDE = ["award", "quest", "assessment", "activation", "choice"] as const
 const NAMES = ["item", "skill", "affinity", "class", "title", "talent"] as const
 const NOTES = ["objective", "prompt", "status", "note"] as const
-const KEYS = ["game", "number", "windows"] as const
+const KEYS = ["game", "number", "windows", "pools", "derived", "rungs"] as const
+const HUD = "hud"
+const POOLS = "pools"
+const DELTA = "delta"
+const REVEALED = "revealed"
+const DERIVED = "derived"
+const SKILLS = "skills"
+const MOST = "Max"
 const WIDTH = 3
 const ZERO = "0"
 const JOIN = "; "
@@ -37,6 +44,76 @@ export type Raised = {
   readonly rung?: string
   readonly level?: number
   readonly note?: string
+}
+
+export type Pooled = {
+  readonly name: string
+  readonly now: number
+  readonly most?: number
+  readonly change?: number
+}
+
+export type Sheet = {
+  readonly pools?: readonly Pooled[]
+  readonly derived?: readonly Record<string, unknown>[]
+  readonly rungs?: readonly Record<string, unknown>[]
+}
+
+function recordIn(held: unknown, key: string): Record<string, unknown> {
+  if (!isRecord(held)) return {}
+  const one = held[key]
+  return isRecord(one) ? one : {}
+}
+
+export function pooledIn(hud: unknown): readonly Pooled[] {
+  const pools = recordIn(hud, POOLS)
+  const delta = recordIn(hud, DELTA)
+  const mosts = Object.keys(pools).filter((key) => key.endsWith(MOST))
+  const found: Pooled[] = []
+  for (const name of Object.keys(pools).filter((key) => !key.endsWith(MOST))) {
+    const now = countIn(pools[name])
+    if (now === undefined) continue
+    const mostKey = mosts.find((key) => name.startsWith(key.slice(0, -MOST.length)))
+    const most = mostKey === undefined ? undefined : countIn(pools[mostKey])
+    const change = countIn(delta[name])
+    found.push({
+      name,
+      now,
+      ...(most === undefined ? {} : { most }),
+      ...(change === undefined ? {} : { change }),
+    })
+  }
+  return found
+}
+
+export function derivedOf(revealed: unknown): readonly Record<string, unknown>[] {
+  const found: Record<string, unknown>[] = []
+  for (const [name, one] of Object.entries(recordIn(revealed, DERIVED))) {
+    const number = countIn(one)
+    if (number !== undefined) found.push({ name, number })
+  }
+  return found
+}
+
+export function rungsOf(revealed: unknown): readonly Record<string, unknown>[] {
+  const found: Record<string, unknown>[] = []
+  for (const one of listIn(isRecord(revealed) ? revealed[SKILLS] : undefined)) {
+    const name = saidIn(one["name"])
+    const rung = saidIn(one["rung"])
+    if (name !== undefined && rung !== undefined) found.push({ name, rung })
+  }
+  return found
+}
+
+export function sheetOf(row: Record<string, unknown>): Sheet {
+  const pools = pooledIn(row[HUD])
+  const derived = derivedOf(row[REVEALED])
+  const rungs = rungsOf(row[REVEALED])
+  return {
+    ...(pools.length === 0 ? {} : { pools }),
+    ...(derived.length === 0 ? {} : { derived }),
+    ...(rungs.length === 0 ? {} : { rungs }),
+  }
 }
 
 function insideOf(held: Record<string, unknown>): Record<string, unknown> {
@@ -92,7 +169,12 @@ export function numberedAs(at: number): string {
   return `${at}`.padStart(WIDTH, ZERO)
 }
 
-export function turnFiled(where: Where, at: number, raised: readonly Raised[]): Composed {
+export function turnFiled(
+  where: Where,
+  at: number,
+  raised: readonly Raised[],
+  sheet: Sheet
+): Composed {
   return filedAt({
     root: where.root,
     folder: where.folder,
@@ -104,6 +186,7 @@ export function turnFiled(where: Where, at: number, raised: readonly Raised[]): 
       game: where.game,
       number: at,
       windows: raised.length === 0 ? undefined : raised,
+      ...sheet,
     },
   })
 }
@@ -112,9 +195,10 @@ export function everyTurnFiled(where: Where, rows: readonly unknown[]): Placed {
   const last = rows.filter(isRecord).at(-1)
   if (last === undefined) return { answered: [] }
   const raised = raisedAt(last)
+  const ended = countIn(last[TURN])
   const found: Filed[] = []
   for (const at of [...raised.keys()].sort((one, two) => one - two)) {
-    const filed = turnFiled(where, at, raised.get(at) ?? [])
+    const filed = turnFiled(where, at, raised.get(at) ?? [], at === ended ? sheetOf(last) : {})
     if ("refused" in filed) return filed
     found.push(filed.answered)
   }
