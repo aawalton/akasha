@@ -83,6 +83,23 @@ export const deployTreePinning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The stamp a run reads is the nearest one at or above the folder that run was loaded from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Reading it is one read of one small file rather than a run of git.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run with no stamp above the folder it was loaded from came out of no tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stamp holding no commit reads as no commit rather than as an empty one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A tree git will not make or move is refused by naming the kind and the commit.",
     },
     {

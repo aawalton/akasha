@@ -1,4 +1,4 @@
-import { mkdirSync, renameSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { TREE_INDEXES, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
@@ -21,6 +21,30 @@ export function stampIn(at: string): string {
 
 export function saidOfNoTree(kind: string, why: string): string {
   return `\`${kind}\` is built from a tree pinned at the commit, and ${why}`
+}
+
+export function stampOver(at: string): string | null {
+  let held = at
+  let up = dirname(held)
+  while (!existsSync(stampIn(held))) {
+    if (up === held) return null
+    held = up
+    up = dirname(held)
+  }
+  return stampIn(held)
+}
+
+export function commitOver(at: string): string | null {
+  const stamp = stampOver(at)
+  if (stamp === null) return null
+  let held: string
+  try {
+    held = readFileSync(stamp, "utf8")
+  } catch {
+    return null
+  }
+  const one = held.trim()
+  return one === "" ? null : one
 }
 
 function movedTree(gitDir: string, at: string, index: string, commit: string): boolean {

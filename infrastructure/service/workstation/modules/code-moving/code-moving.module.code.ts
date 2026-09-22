@@ -1,9 +1,4 @@
-import { existsSync, readFileSync } from "node:fs"
-import { dirname } from "node:path"
-import {
-  PINNED_AT,
-  stampIn,
-} from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
+import { readFileSync } from "node:fs"
 import { RESTART_EXIT } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
 
 export type Moved = {
@@ -16,17 +11,6 @@ export type Moving =
   | { readonly moving: "still" }
   | { readonly moving: "unknown"; readonly why: string }
 
-export function stampOver(at: string): string | null {
-  let held = at
-  let up = dirname(held)
-  while (!existsSync(stampIn(held))) {
-    if (up === held) return null
-    held = up
-    up = dirname(held)
-  }
-  return stampIn(held)
-}
-
 export function commitAt(at: string): string | null {
   let held: string
   try {
@@ -36,11 +20,6 @@ export function commitAt(at: string): string | null {
   }
   const one = held.trim()
   return one === "" ? null : one
-}
-
-export function commitOver(at: string): string | null {
-  const stamp = stampOver(at)
-  return stamp === null ? null : commitAt(stamp)
 }
 
 const BUNDLE = /\/([0-9a-f]{40})\.js/
@@ -72,19 +51,11 @@ export function bundleNamedBy(at: string): string | null {
   return null
 }
 
-export function saidOfNoStamp(at: string): string {
+export function saidOfNoBundle(at: string): string {
   return (
-    `this run cannot tell whether the code it is running has moved, because no ${PINNED_AT} ` +
-    `sits at ${at} or above it and no unit beside it names a bundle, so nothing here ends this ` +
-    "run when the code it came out of moves, and a deploy has to restart it"
-  )
-}
-
-export function saidOfNoCommit(at: string): string {
-  return (
-    `this run cannot tell whether the code it is running has moved, because ${at} gave back no ` +
-    "commit, so nothing here ends this run when the tree that code came out of moves, and a " +
-    "deploy has to restart it"
+    `this run cannot tell whether the code it is running has moved, because the unit beside ` +
+    `${at} names no bundle, so nothing here ends this run when the code it came out of moves, ` +
+    "and a deploy has to restart it"
   )
 }
 
@@ -96,15 +67,9 @@ export function saidOfMoved(moved: Moved): string {
   )
 }
 
-function toldAt(at: string): { readonly to: string | null; readonly why: string } {
-  const stamp = stampOver(at)
-  if (stamp === null) return { to: bundleNamedBy(at), why: saidOfNoStamp(at) }
-  return { to: commitAt(stamp), why: saidOfNoCommit(stamp) }
-}
-
 export function movingUnder(at: string, from: string | null): Moving {
-  const { to, why } = toldAt(at)
-  if (to === null || from === null) return { moving: "unknown", why }
+  const to = bundleNamedBy(at)
+  if (to === null || from === null) return { moving: "unknown", why: saidOfNoBundle(at) }
   return from === to ? { moving: "still" } : { moving: "moved", moved: { from, to } }
 }
 
@@ -112,7 +77,7 @@ const HERE = import.meta.dir
 
 const SELF = import.meta.path
 
-const STARTED: string | null = commitOver(HERE) ?? bundleCommitIn(SELF)
+const STARTED: string | null = bundleCommitIn(SELF)
 
 export function codeMoving(): Moving {
   return movingUnder(HERE, STARTED)

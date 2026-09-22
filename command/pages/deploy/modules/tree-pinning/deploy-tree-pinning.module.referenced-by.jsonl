@@ -1,10 +1,9 @@
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"}
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.test.ts"}
+{"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.test.ts"}
-{"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"}
-{"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.test.ts"}
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"page/modules/checkout-roots/checkout-roots.module.code.ts"}
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"page/modules/checkout-roots/checkout-roots.module.test.ts"}
 {"propertySlug":"import","fileName":"deploy-tree-pinning.module.code.ts","path":"temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts"}

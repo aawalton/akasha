@@ -10,20 +10,7 @@ export const codeMoving = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A tree is a plain export with no git directory, so the stamp there says where it sits.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The commit a tree sits at is the one the stamp at the root of that tree holds.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Reading that commit is one read of one small file rather than a run of git.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A stamp holds the commit itself, so nothing is followed anywhere to read it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -32,21 +19,11 @@ export const codeMoving = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The stamp a run reads is the nearest one at or above the folder this module was loaded from.",
+        "A run asks whether the code it is running moved rather than whether a place it named moved.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A run asks whether the code it is running moved rather than whether a tree it named moved.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run with no stamp above the folder it was loaded from came out of no tree.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A run finding no stamp, or no commit in the stamp it finds, cannot tell whether its code moved.",
+      statement: "A run whose unit names no bundle cannot tell whether its code moved.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -59,12 +36,11 @@ export const codeMoving = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "What that run says names the folder it looked from or the stamp it read no commit out of.",
+      statement: "What that run says names the folder it looked from.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run that started at no commit cannot tell, however its stamp reads later.",
+      statement: "A run that started at no commit cannot tell, however its unit reads later.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -94,15 +70,11 @@ export const codeMoving = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes the stamp, which the deploy pinning that tree writes.",
+      statement: "Nothing here writes the unit, which the deploy building that bundle writes.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here asks systemd anything.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here names a kind of tree.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -120,11 +92,6 @@ export const codeMoving = {
       decisionKind: "decision-kind/departure",
       statement:
         "The commit a bundled run is leaving for is the one the unit beside that bundle names.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A stamp at or above the folder a run was loaded from is read before the unit beside it.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,4 +1,5 @@
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { commitOver } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import {
   orchestratorCacheEntrypointPath,
   orchestratorCacheVolumeMounts,
@@ -10,7 +11,6 @@ import {
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { commitOver } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
 
 interface GitAccessTokenRef {
   secretName: string
