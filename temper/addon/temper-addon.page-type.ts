@@ -189,6 +189,14 @@ export const temperAddon = {
       decisionKind: "decision-kind/constraint",
       statement: "A keybind name keeps the spelling a player's bound keys are stored under.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bundle loads under a Lua 5.1 built as the language publishes it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A table gathered from many runs is gathered a few runs at a time.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
