@@ -1,7 +1,7 @@
 import { readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
+import { pagesOriginHere } from "akasha/agent/messaging/modules/message-sending/message-sending.module.code.ts"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { landRemovals } from "akasha/change/modules/gated-landing/gated-landing.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { fileStemOf } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
 import { fileKeysAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
@@ -12,12 +12,13 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { writingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7
 
 const DAY_MS = 86_400_000
 
-const WRITER = "log-day-sweeper"
+const WRITER = "log day sweeper <log-day-sweeper@alanwalton.com>"
 
 const DAY_TYPE = "seat-log-day"
 
@@ -72,20 +73,18 @@ function removeLines(root: string, relPath: string): undefined {
   for (const one of besideOf(root, relPath, keys)) rmSync(join(root, one), { force: true })
 }
 
-async function removePages(
-  relPaths: readonly string[],
-  root: string
-): Promise<{ code: number; output: string }> {
-  const landed = await landRemovals(
+async function removePages(relPaths: readonly string[]): Promise<{ code: number; output: string }> {
+  const wrote = await writingFor(
     {
-      repo: AKASHA,
       writer: WRITER,
-      root,
       message: `past the window a log is kept for, so ${relPaths.length === 1 ? "this log day goes" : "these log days go"}: ${relPaths.map((one) => fileStemOf(one)).join(", ")}`,
+      removes: relPaths,
     },
-    relPaths
+    undefined,
+    undefined,
+    pagesOriginHere()
   )
-  return landed.ok ? { code: 0, output: "" } : { code: 1, output: landed.why }
+  return "refused" in wrote ? { code: 1, output: wrote.refused } : { code: 0, output: "" }
 }
 
 export function keepDaysFrom(argv: readonly string[]): number | null {
@@ -134,15 +133,12 @@ export async function sweepLogDays(argv: readonly string[]): Promise<number> {
 
   const held: string[] = []
   const taken: DayFacts[] = []
-  const together = await removePages(
-    rotate.map((one) => one.relPath),
-    root
-  )
+  const together = await removePages(rotate.map((one) => one.relPath))
   if (together.code === 0) {
     taken.push(...rotate)
   } else {
     for (const one of rotate) {
-      const alone = await removePages([one.relPath], root)
+      const alone = await removePages([one.relPath])
       if (alone.code === 0) taken.push(one)
       else held.push(`${one.name}: ${alone.output.trim().split("\n").slice(-1)[0] ?? "refused"}`)
     }

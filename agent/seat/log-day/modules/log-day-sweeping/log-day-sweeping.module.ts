@@ -30,7 +30,15 @@ export const logDaySweeping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The removal lands mechanically in process and owes no read record.",
+      statement: "The removal is asked of the pages service rather than landed in process.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That removal lands mechanically and owes no read record.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The origin that ask reaches is the origin a message send reaches.",
     },
     {
       decisionKind: "decision-kind/departure",
