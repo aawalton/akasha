@@ -270,6 +270,7 @@ export type Spawned = {
   readonly peakBytes: number
   readonly peakMeasured: boolean
   readonly refusals: number
+  readonly unrun?: boolean
 }
 
 export function costSpawned(given: Spawned): Cost {
@@ -290,6 +291,7 @@ export function costSpawned(given: Spawned): Cost {
     readBytes: 0,
     pathsChanged: 0,
     refusals: given.refusals,
+    ...unrunSaid(given.unrun ?? false),
     ...nodeSaid(),
   }
 }

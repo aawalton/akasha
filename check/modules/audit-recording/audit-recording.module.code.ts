@@ -102,6 +102,7 @@ export async function costKept(
     peakBytes: done.peakBytes,
     peakMeasured: done.peakMeasured,
     refusals: said.length,
+    unrun: said.some((each) => each.threw === true),
   })
   return await rowSent(
     one.page,
