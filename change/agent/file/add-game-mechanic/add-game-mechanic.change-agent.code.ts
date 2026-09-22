@@ -21,7 +21,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { game } from "akasha/story/game/game.page-type.ts"
 import { gameMechanic } from "akasha/story/game/mechanic/game-mechanic.page-type.ts"
-import { gameMechanics } from "akasha/story/game/properties/game-mechanics.relation-property.ts"
+import { gameMechanics } from "akasha/story/game/properties/game-mechanics.multi-relation-property.ts"
 
 const HERE = "change/agent/file/add-game-mechanic"
 const GAME = "game"

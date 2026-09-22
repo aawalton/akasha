@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const gameMechanics = {
   id: "01a0c458-8d2c-7f1e-9a41-8200c8c04433",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "game-mechanics",
   propertySlug: "mechanics",
   definition: "a game's mechanics",
@@ -18,4 +18,4 @@ export const gameMechanics = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

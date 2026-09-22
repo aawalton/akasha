@@ -29,7 +29,7 @@ export const game = {
     "text-property/themes",
     "text-property/tone",
     "page-type/game-mechanic",
-    "relation-property/game-mechanics",
+    "multi-relation-property/game-mechanics",
     "page-type/game-attribute",
     "relation-property/game-attributes",
     "text-property/card-vocabulary",
@@ -72,7 +72,7 @@ export const game = {
     { pageProperty: "file-property/rulebook", required: false, many: false },
     { pageProperty: "file-property/resolution-mechanism", required: false, many: false },
     {
-      pageProperty: "relation-property/game-mechanics",
+      pageProperty: "multi-relation-property/game-mechanics",
       required: false,
       many: true,
       maxCount: null,

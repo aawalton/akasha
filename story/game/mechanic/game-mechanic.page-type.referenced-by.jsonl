@@ -30,4 +30,4 @@
 {"propertySlug":"target-page-type","path":"story/game/entity/properties/entity-dice.relation-property.ts","id":"01a0c63e-5c20-742b-881f-3ab0307d15b1"}
 {"propertySlug":"target-page-type","path":"story/game/mechanic-run/properties/run-mechanic.relation-property.ts","id":"01a0c951-f200-7d32-bac4-e1b2bab05944"}
 {"propertySlug":"target-page-type","path":"story/game/properties/game-default-dice.relation-property.ts","id":"01a0c490-c585-74e8-b05c-48c21336bcce"}
-{"propertySlug":"target-page-type","path":"story/game/properties/game-mechanics.relation-property.ts","id":"01a0c458-8d2c-7f1e-9a41-8200c8c04433"}
+{"propertySlug":"target-page-type","path":"story/game/properties/game-mechanics.multi-relation-property.ts","id":"01a0c458-8d2c-7f1e-9a41-8200c8c04433"}
