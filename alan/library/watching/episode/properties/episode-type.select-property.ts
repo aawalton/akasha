@@ -5,7 +5,7 @@ export const episodeType = {
   type: "page-type/select-property",
   slug: "episode-type",
   propertySlug: "episode-type",
-  definition: "what an episode is to the run it sits in",
+  definition: "what an episode is to its own run",
   values: ["standard", "mid-season", "finale"],
   decisions: [
     {

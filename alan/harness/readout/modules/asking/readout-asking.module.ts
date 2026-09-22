@@ -4,7 +4,7 @@ export const readoutAsking = {
   id: "01a061c0-e7cc-7ec9-b512-033fcde733e7",
   type: "page-type/module",
   slug: "readout-asking",
-  definition: "the asking a readout reaches the store through",
+  definition: "the asking that reaches the store for a readout",
   code: "ts",
   testFixtures: "ts",
   decisions: [

@@ -5,7 +5,7 @@ export const app = {
   type: "page-type/relation-property",
   slug: "app",
   propertySlug: "app",
-  definition: "the app whose extension a widget is built into",
+  definition: "the app whose extension holds a widget",
   targetPageType: "page-type/ios-app",
   types: "ts",
 } as const satisfies RelationProperty

@@ -5,7 +5,7 @@ export const relationshipAliases = {
   type: "page-type/text-property",
   slug: "relationship-aliases",
   propertySlug: "relationship-aliases",
-  definition: "the other names this person is called by",
+  definition: "this person's other names",
   maxLength: 20,
   nameFormat: null,
   types: "ts",

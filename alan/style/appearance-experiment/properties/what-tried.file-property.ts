@@ -5,7 +5,7 @@ export const whatTried = {
   type: "page-type/file-property",
   slug: "what-tried",
   propertySlug: "what-tried",
-  definition: "the thing put on and what it was put on with",
+  definition: "the thing put on and what went with it",
   extensions: ["txt"],
   decisions: [
     {

@@ -5,7 +5,7 @@ export const side = {
   type: "page-type/select-property",
   slug: "side",
   propertySlug: "side",
-  definition: "which side of the body the reading is of",
+  definition: "the reading's side of the body",
   values: ["left", "right", "n-a"],
   types: "ts",
 } as const satisfies SelectProperty

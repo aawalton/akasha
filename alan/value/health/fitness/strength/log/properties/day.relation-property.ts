@@ -5,7 +5,7 @@ export const day = {
   type: "page-type/relation-property",
   slug: "day",
   propertySlug: "day",
-  definition: "the tracked day a set falls on",
+  definition: "a set's tracked day",
   targetPageType: "page-type/day",
   decisions: [
     {

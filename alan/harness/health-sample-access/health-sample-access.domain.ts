@@ -4,7 +4,7 @@ export const healthSampleAccess = {
   id: "01a05bc7-9129-7000-a4ef-ca6a1a3463b1",
   type: "page-type/domain",
   slug: "health-sample-access",
-  definition: "step and calorie readings kept on the ESO day each began in",
+  definition: "step and calorie readings kept on the ESO day each began",
   parts: [
     "module/sample-identity",
     "module/sample-rows",

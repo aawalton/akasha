@@ -4,7 +4,7 @@ export const mobileCut = {
   id: "019f5141-c410-7cd1-b491-d017f10e568d",
   type: "page-type/page-type",
   slug: "mobile-cut",
-  definition: "a build of an app, and the state of the tree it was built from",
+  definition: "a build of an app, and the state of its source tree",
   extends: ["page-type/page"],
   parts: [
     "instant-property/cut-at",

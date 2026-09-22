@@ -4,7 +4,7 @@ export const trackResolving = {
   id: "01a06281-4d9d-7004-9a0b-82fe940e4d95",
   type: "page-type/module",
   slug: "track-resolving",
-  definition: "the track and the device a play command acts on",
+  definition: "a play command's track and device",
   code: "ts",
   test: "ts",
   decisions: [
