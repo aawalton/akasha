@@ -4,7 +4,7 @@ export const comfyGraph = {
   id: "01a06810-0b68-7ef9-b759-c81fe48c15c6",
   type: "page-type/module",
   slug: "comfy-graph",
-  definition: "the nodes and links a ComfyUI workflow is made of",
+  definition: "the nodes and links making up a ComfyUI workflow",
   code: "ts",
   decisions: [
     {

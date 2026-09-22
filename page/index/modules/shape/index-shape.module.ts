@@ -4,7 +4,7 @@ export const indexShape = {
   id: "01a05867-bb6d-7a3e-875e-b5a55432fb00",
   type: "page-type/module",
   slug: "index-shape",
-  definition: "the shapes a read of the index is answered in",
+  definition: "the shapes answering a read of the index",
   code: "ts",
   decisions: [
     {

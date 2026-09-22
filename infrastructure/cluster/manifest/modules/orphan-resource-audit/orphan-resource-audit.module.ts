@@ -4,7 +4,7 @@ export const orphanResourceAudit = {
   id: "01a0686c-fd2c-7005-95f0-9e6b3cfb16bd",
   type: "page-type/module",
   slug: "orphan-resource-audit",
-  definition: "the live resources a deploy manages that no synth source accounts for",
+  definition: "the live resources a deploy manages that no synth source names",
   code: "ts",
   decisions: [
     {

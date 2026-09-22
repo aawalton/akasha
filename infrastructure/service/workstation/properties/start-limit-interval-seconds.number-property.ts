@@ -5,7 +5,7 @@ export const startLimitIntervalSeconds = {
   type: "page-type/number-property",
   slug: "start-limit-interval-seconds",
   propertySlug: "start-limit-interval-seconds",
-  definition: "the window a unit's repeated starts are counted over",
+  definition: "the window counting a unit's repeated starts",
   max: null,
   decisions: [
     {

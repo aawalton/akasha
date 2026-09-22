@@ -4,7 +4,7 @@ export const fileNarrow = {
   id: "01a05bd6-c52f-7f44-b6f3-f394856e4e4c",
   type: "page-type/module",
   slug: "file-narrow",
-  definition: "the narrows a file-backed page listing is asked by",
+  definition: "the narrows asked of a file-backed page listing",
   code: "ts",
   decisions: [
     {

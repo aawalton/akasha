@@ -5,7 +5,7 @@ export const buildEnvName = {
   type: "page-type/text-property",
   slug: "build-env-name",
   propertySlug: "name",
-  definition: "the environment variable a build is handed a value under",
+  definition: "the environment variable carrying a value to a build",
   maxLength: 253,
   nameFormat: "name-format/upper-snake-case",
   decisions: [

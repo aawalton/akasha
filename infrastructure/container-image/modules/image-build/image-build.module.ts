@@ -4,7 +4,7 @@ export const imageBuild = {
   id: "01a08de8-a521-7517-beff-3c12047e76f9",
   type: "page-type/module",
   slug: "image-build",
-  definition: "the folder, the recipe and the repository an image is built and pushed by",
+  definition: "the folder, the recipe and the repository building and pushing an image",
   code: "ts",
   test: "ts",
   decisions: [

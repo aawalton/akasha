@@ -4,7 +4,7 @@ export const homeSearchIgnore = {
   id: "01a06862-af5c-7cc1-a138-ffebf6bf1cfe",
   type: "page-type/provisioned-file",
   slug: "home-search-ignore",
-  definition: "what a search over the home directory passes over",
+  definition: "what a search over the home directory skips",
   content: "conf",
   placedBy: "link",
   onlyOn: "any",

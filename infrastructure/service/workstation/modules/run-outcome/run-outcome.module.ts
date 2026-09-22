@@ -4,7 +4,7 @@ export const runOutcome = {
   id: "01a0b71e-6a03-7c15-aa64-3cd18c31ba0c",
   type: "page-type/module",
   slug: "run-outcome",
-  definition: "whether a service's run answered or is following its work on",
+  definition: "whether a service's run answered or is still working",
   code: "ts",
   decisions: [
     {

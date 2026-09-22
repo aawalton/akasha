@@ -4,6 +4,6 @@ export const seaweedfsNamespace = {
   id: "01a06816-68b0-7eee-bf75-7911f92939d0",
   type: "page-type/module",
   slug: "seaweedfs-namespace",
-  definition: "the namespace manifest a SeaweedFS component is in",
+  definition: "a SeaweedFS component's namespace manifest",
   code: "ts",
 } as const satisfies Module

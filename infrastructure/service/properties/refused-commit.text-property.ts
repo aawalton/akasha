@@ -5,7 +5,7 @@ export const refusedCommit = {
   type: "page-type/text-property",
   slug: "refused-commit",
   propertySlug: "refused-commit",
-  definition: "the commit the last deploy that refused was made at",
+  definition: "the commit of the last deploy that refused",
   maxLength: 40,
   nameFormat: null,
   decisions: [

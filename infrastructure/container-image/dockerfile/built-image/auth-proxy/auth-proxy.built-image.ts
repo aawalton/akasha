@@ -4,7 +4,7 @@ export const authProxy = {
   id: "01a08194-1a6e-744f-aa2e-fdb20aea0fe1",
   type: "page-type/built-image",
   slug: "auth-proxy",
-  definition: "the image the authenticating proxy runs in",
+  definition: "the authenticating proxy's image",
   kind: "bun-service",
   folder: "infrastructure/network/auth-proxy",
   extensions: "json",

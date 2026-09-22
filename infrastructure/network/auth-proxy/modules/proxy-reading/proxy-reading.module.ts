@@ -4,7 +4,7 @@ export const proxyReading = {
   id: "01a0c431-b8d3-7e65-a891-4058c98aea65",
   type: "page-type/module",
   slug: "proxy-reading",
-  definition: "which caller a host's handover cookie proves a request is from",
+  definition: "the caller a host's handover cookie names behind a request",
   code: "ts",
   decisions: [
     {

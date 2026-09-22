@@ -5,7 +5,7 @@ export const namespace = {
   type: "page-type/text-property",
   slug: "namespace",
   propertySlug: "namespace",
-  definition: "the part of the cluster a resource sits in",
+  definition: "a resource's part of the cluster",
   maxLength: 63,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",
