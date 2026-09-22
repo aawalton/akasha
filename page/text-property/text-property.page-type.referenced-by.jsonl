@@ -484,7 +484,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-chapter.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-note.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/character-slug.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/mechanic-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/reading-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/properties/reading-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/doing.text-property.ts"}

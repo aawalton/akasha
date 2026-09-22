@@ -111,7 +111,7 @@ export const worldMechanic = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Thirty-one names sit in two kinds at once.",
+      statement: "Thirty-two names sit in two kinds at once.",
     },
     {
       decisionKind: "decision-kind/upkeep",

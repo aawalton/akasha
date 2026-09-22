@@ -28,7 +28,7 @@ export const world = {
     "page-type/world-mechanic",
     "select-property/reading-kind",
     "text-property/character-slug",
-    "text-property/mechanic-slug",
+    "relation-property/mechanic",
     "text-property/reading-name",
     "text-property/reading-slug",
   ],
