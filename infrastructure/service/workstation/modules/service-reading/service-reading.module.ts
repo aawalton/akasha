@@ -77,5 +77,9 @@ export const serviceReading = {
       decisionKind: "decision-kind/departure",
       statement: "A checkout stating no pages service leaves a service reading no origin.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pages service's slug is read off its page rather than spelled here.",
+    },
   ],
 } as const satisfies Module
