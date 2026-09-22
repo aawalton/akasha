@@ -1,4 +1,5 @@
 import { dirname } from "node:path"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   textIn,
   textNamed,
@@ -70,10 +71,6 @@ export function asideIn(text: string): readonly string[] {
     if (bare !== "") found.add(bare)
   }
   return [...found].filter((one) => !back.some((said) => namesAside(said, one)))
-}
-
-function asideOver(change: Change): readonly string[] {
-  return asideIn(textIn(change, IGNORE_AT) ?? "")
 }
 
 const WRITES = new Map<string, readonly number[]>([
@@ -365,25 +362,32 @@ export function reasonsOver(
   return said
 }
 
-export function rootModuleIn(shadow: Shadow): (slug: string) => boolean {
+export function rootModuleIn(paged: Paged): (slug: string) => boolean {
   return (slug) => {
-    const listed = shadow.index.listedAt(MODULE, slug)[0]
+    const listed = paged.index.listedAt(MODULE, slug)[0]
     if (listed === undefined) return false
-    return shadow.pageOf(listed.path)?.[ANSWERS_ROOT] === true
+    return paged.pageOf(listed.path)?.[ANSWERS_ROOT] === true
   }
+}
+
+export function reasonsBy(
+  read: (path: string) => string | null,
+  paged: Paged
+): (at: string, text: string) => readonly string[] {
+  const aside = asideIn(read(IGNORE_AT) ?? "")
+  const roots = rootModuleIn(paged)
+  return (at, text) => reasonsOver(at, text, aside, roots)
 }
 
 export function reasonsOf(
   change: Change,
   shadow: Shadow
 ): (at: string, text: string) => readonly string[] {
-  const aside = asideOver(change)
-  const roots = rootModuleIn(shadow)
-  return (at, text) => reasonsOver(at, text, aside, roots)
+  return reasonsBy((at) => textIn(change, at), shadow)
 }
 
-function folderOf(shadow: Shadow, slug: string): string {
-  const one = shadow.index.listedAt(PAGE_TYPE, slug)[0]
+function folderOf(paged: Paged, slug: string): string {
+  const one = paged.index.listedAt(PAGE_TYPE, slug)[0]
   if (one !== undefined) return `${dirname(one.path)}${PARTED_BY}`
   throw new Error(
     `the index names no page type \`${slug}\`, so nothing says where a change is made`
@@ -396,8 +400,8 @@ function codeNamed(path: string): boolean {
   return said !== null && said.sections.length === 1 && said.sections[0] === CODE
 }
 
-export function outsideBy(shadow: Shadow): (path: string) => boolean {
-  const changes = folderOf(shadow, CHANGE)
-  const commands = folderOf(shadow, COMMAND)
+export function outsideBy(paged: Paged): (path: string) => boolean {
+  const changes = folderOf(paged, CHANGE)
+  const commands = folderOf(paged, COMMAND)
   return (path) => codeNamed(path) && !path.startsWith(changes) && !path.startsWith(commands)
 }

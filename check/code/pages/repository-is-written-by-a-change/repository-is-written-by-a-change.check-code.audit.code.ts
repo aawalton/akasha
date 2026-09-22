@@ -1,16 +1,18 @@
 import {
   outsideBy,
-  reasonsOf,
+  reasonsBy,
 } from "akasha/check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts"
 import {
-  everythingIn,
-  overEveryIn,
-} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+  type Commit,
+  commitIn,
+  overEachIn,
+} from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+
+function refusalsFor(commit: Commit): readonly Judged[] {
+  return overEachIn(commit, outsideBy(commit), reasonsBy(commit.read, commit))
+}
 
 export function repositoryIsWrittenByAChange(root: string): readonly Judged[] {
-  const shadow = shadowAt(root)
-  const change = everythingIn(root)
-  return overEveryIn(change, outsideBy(shadow), reasonsOf(change, shadow))
+  return refusalsFor(commitIn(root))
 }
