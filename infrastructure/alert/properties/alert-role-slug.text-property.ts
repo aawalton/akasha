@@ -5,7 +5,7 @@ export const alertRoleSlug = {
   type: "page-type/text-property",
   slug: "alert-role-slug",
   propertySlug: "role-slug",
-  definition: "the role an alert is for",
+  definition: "an alert's role",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

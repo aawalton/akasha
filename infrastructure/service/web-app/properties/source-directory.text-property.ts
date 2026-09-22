@@ -5,7 +5,7 @@ export const sourceDirectory = {
   type: "page-type/text-property",
   slug: "source-directory",
   propertySlug: "source-directory",
-  definition: "the folder a web app's source sits in",
+  definition: "a web app's source folder",
   maxLength: 200,
   nameFormat: null,
   decisions: [

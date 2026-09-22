@@ -5,7 +5,7 @@ export const schedule = {
   type: "page-type/text-property",
   slug: "schedule",
   propertySlug: "schedule",
-  definition: "the times a unit is started at",
+  definition: "a unit's start times",
   maxLength: 100,
   nameFormat: null,
   decisions: [

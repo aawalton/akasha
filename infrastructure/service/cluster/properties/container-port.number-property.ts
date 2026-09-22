@@ -5,7 +5,7 @@ export const containerPort = {
   type: "page-type/number-property",
   slug: "container-port",
   propertySlug: "container-port",
-  definition: "the port a workload's container listens on",
+  definition: "a workload's container port",
   max: 65535,
   decisions: [
     {

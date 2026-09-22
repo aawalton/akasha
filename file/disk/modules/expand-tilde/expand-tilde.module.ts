@@ -4,7 +4,7 @@ export const expandTilde = {
   id: "01a05c4c-9442-70c2-948c-b1d7ad5a033f",
   type: "page-type/module",
   slug: "expand-tilde",
-  definition: "a path spelled from home turned into the path it is at",
+  definition: "a path spelled from home read as its full path",
   code: "ts",
   decisions: [
     {

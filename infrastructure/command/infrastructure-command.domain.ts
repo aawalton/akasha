@@ -4,7 +4,7 @@ export const infrastructureCommand = {
   id: "01a06809-a024-78cb-a37f-ff53624d76bd",
   type: "page-type/domain",
   slug: "infrastructure-command",
-  definition: "what an agent runs by name over what the system runs on",
+  definition: "what an agent runs by name over what holds the system up",
   parts: [],
   decisions: [
     {

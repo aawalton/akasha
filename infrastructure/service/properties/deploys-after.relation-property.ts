@@ -5,7 +5,7 @@ export const deploysAfter = {
   type: "page-type/relation-property",
   slug: "deploys-after",
   propertySlug: "deploys-after",
-  definition: "a service this one is never deployed ahead of",
+  definition: "a service deployed ahead of this one",
   targetPageType: "page-type/service",
   decisions: [
     {

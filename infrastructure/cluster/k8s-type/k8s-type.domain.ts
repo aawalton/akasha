@@ -4,7 +4,7 @@ export const k8sType = {
   id: "01a06735-dd9c-700c-89ca-ed7f38cab9b1",
   type: "page-type/domain",
   slug: "k8s-type",
-  definition: "the types a Kubernetes manifest is written from",
+  definition: "the types writing a Kubernetes manifest",
   parts: [
     "module/cdk8s-synth",
     "module/config-checksum",

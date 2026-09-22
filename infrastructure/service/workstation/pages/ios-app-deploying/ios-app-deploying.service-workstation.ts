@@ -4,7 +4,7 @@ export const iosAppDeploying = {
   id: "01a09b1a-31fc-7f84-8e3c-2b931fe57d4e",
   type: "page-type/service-workstation",
   slug: "ios-app-deploying",
-  definition: "the service putting the ios app kind up once a commit changes what it is built from",
+  definition: "the service putting the ios app kind up once a commit changes its source",
   enabled: true,
   needsSecrets: true,
   systemd: {
