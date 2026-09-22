@@ -2,6 +2,8 @@ import { dirname } from "node:path"
 import { unboundIn } from "akasha/change/modules/load-order/load-order.module.code.ts"
 import { thereIn } from "akasha/change/modules/name-binding/name-binding.module.code.ts"
 import { statedIn } from "akasha/check/code/pages/global-declared-once/global-declared-once.check-code.decision.code.ts"
+import { askedOf } from "akasha/check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   holdingOver,
   textIn,
@@ -86,20 +88,20 @@ export type Bodies = (path: string) => string | null
 type Tables = ReadonlyMap<string, readonly string[]>
 
 function codeBeside(
-  shadow: Shadow,
+  paged: Paged,
   pageTypeSlug: string,
   named: string,
   held: string
 ): string | null {
-  const page = shadow.index.listedAt(pageTypeSlug, slugOf(named))[0]
+  const page = paged.index.listedAt(pageTypeSlug, slugOf(named))[0]
   return page === undefined ? null : besideAt(page.path, held, TS)
 }
 
-function declaredIn(shadow: Shadow, parts: readonly string[], bodyAt: Bodies): ReadonlySet<string> {
+function declaredIn(paged: Paged, parts: readonly string[], bodyAt: Bodies): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of parts) {
     if (!one.startsWith(`${typeDeclaration.slug}/`)) continue
-    const at = codeBeside(shadow, typeDeclaration.slug, one, AMBIENT)
+    const at = codeBeside(paged, typeDeclaration.slug, one, AMBIENT)
     const text = at === null ? null : bodyAt(at)
     if (at === null || text === null) continue
     for (const stated of statedIn(at, text)) {
@@ -116,12 +118,15 @@ function moduleCoded(path: string): boolean {
   return said.sections.length === 1 && said.sections[0] === CODE
 }
 
-export function addonsIn(shadow: Shadow, bodyAt: Bodies): readonly Addon[] {
-  const listed = shadow.listed()
+export function addonsIn(
+  paged: Paged,
+  listed: readonly string[],
+  bodyAt: Bodies
+): readonly Addon[] {
   const found = new Map<string, Addon>()
-  for (const one of shadow.index.everyOfType(temperAddon.slug)) {
+  for (const one of paged.index.everyOfType(temperAddon.slug)) {
     if (found.has(one.path)) continue
-    const value = shadow.pageOf(one.path)
+    const value = paged.pageOf(one.path)
     if (value === null) continue
     const folder = dirname(one.path)
     const under = `${folder}/`
@@ -129,8 +134,8 @@ export function addonsIn(shadow: Shadow, bodyAt: Bodies): readonly Addon[] {
     found.set(one.path, {
       page: one.path,
       folder,
-      entry: entry === null ? null : codeBeside(shadow, modulePage.slug, entry, CODE),
-      declared: declaredIn(shadow, textsAt(value, PARTS) ?? [], bodyAt),
+      entry: entry === null ? null : codeBeside(paged, modulePage.slug, entry, CODE),
+      declared: declaredIn(paged, textsAt(value, PARTS) ?? [], bodyAt),
       modules: listed.filter((path) => path.startsWith(under) && moduleCoded(path)),
     })
   }
@@ -403,10 +408,14 @@ function readingOf(change: Change, shadow: Shadow): Reading {
   return { asked: { index: shadow.index, bodyAt, through }, bodyAt }
 }
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const { asked, bodyAt } = readingOf(change, shadow)
+export function refusalsOver(
+  paths: readonly string[],
+  paged: Paged,
+  bodyAt: Bodies
+): readonly Judged[] {
+  const asked = askedOf(paged, bodyAt)
   const found: Unreached[] = []
-  for (const addon of addonsIn(shadow, bodyAt)) {
+  for (const addon of addonsIn(paged, paths, bodyAt)) {
     found.push(...unreachedIn(addon, modulesOf(addon, bodyAt), asked))
   }
   return judgedOf(found)
@@ -416,7 +425,7 @@ export function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = new Set(change.changed)
   const { asked, bodyAt } = readingOf(change, shadow)
   const found: Unreached[] = []
-  for (const addon of addonsIn(shadow, bodyAt)) {
+  for (const addon of addonsIn(shadow, shadow.listed(), bodyAt)) {
     const under = `${addon.folder}/`
     if (!change.changed.some((one) => one.startsWith(under))) continue
     const modules = modulesOf(addon, bodyAt)

@@ -2,6 +2,7 @@ import {
   refusalsIn,
   refusalsOver,
 } from "akasha/check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.code.ts"
+import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   bodiesOver,
@@ -169,7 +170,8 @@ export function world(bodies: Readonly<Record<string, string>>): Change {
 
 export function refused(bodies: Readonly<Record<string, string>>): readonly Judged[] {
   const held = world(bodies)
-  return refusalsOver(held, shadowAt(held.root))
+  const shadow = shadowAt(held.root)
+  return refusalsOver(shadow.listed(), shadow, (path) => textIn(held, path))
 }
 
 export function pathsRefused(bodies: Readonly<Record<string, string>>): readonly string[] {

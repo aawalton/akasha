@@ -131,7 +131,8 @@ test("at change only a module the change has is refused", () => {
 test("an add-on's own globals, its entry and the setters traced are read from its page and tree", () => {
   const held = world({ [SETTING_AT]: SETTING, [READING_AT]: READING, [MAIN_AT]: MAIN })
   const bodyAt = (path: string): string | null => textIn(held, path)
-  const addons = addonsIn(shadowAt(held.root), bodyAt)
+  const shadow = shadowAt(held.root)
+  const addons = addonsIn(shadow, shadow.listed(), bodyAt)
   expect(addons).toHaveLength(1)
   const addon = addons[0]
   if (addon === undefined) throw new Error("no add-on was found")

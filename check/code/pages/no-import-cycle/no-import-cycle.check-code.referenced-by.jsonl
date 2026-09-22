@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"no-import-cycle.check-code.audit.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"no-import-cycle.check-code.check.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"no-import-cycle.check-code.decision.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"no-import-cycle.check-code.decision.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"no-import-cycle.check-code.decision.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"no-import-cycle.check-code.decision.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.test-fixtures.ts"}

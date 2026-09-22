@@ -50,7 +50,7 @@ function bodiesOf(read: Bodies): Bodies {
   }
 }
 
-function askedOf(paged: Paged, read: Bodies): Asked {
+export function askedOf(paged: Paged, read: Bodies): Asked {
   const bodyAt = bodiesOf(read)
   const through = (path: string): boolean => textNamed(path) && bodyAt(path) !== null
   return { index: paged.index, bodyAt, through }
