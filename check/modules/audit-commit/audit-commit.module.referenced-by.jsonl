@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.code.ts"}

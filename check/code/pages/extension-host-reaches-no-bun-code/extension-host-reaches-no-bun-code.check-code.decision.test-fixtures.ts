@@ -1,7 +1,9 @@
 import {
   type Indexing,
   refusalsOver,
+  type Walking,
 } from "akasha/check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts"
+import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   bodiesOver,
@@ -139,11 +141,12 @@ export function rooted(): string {
 export function tracked(bodies: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-host-bun-audit-")
   for (const [path, body] of Object.entries(bodies)) writing(root, path, body)
+  packageFiled(root)
   const done = ran(["git", "-C", root, "init", "-q"])
   if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
   const added = ran(["git", "-C", root, "add", "-A"])
   if (added.code !== 0) throw new Error(`nothing was tracked at ${root} — ${added.err.trim()}`)
-  return packageFiled(root)
+  return root
 }
 
 export const ENTRY = "extension-entry/extension-entry.module.code.ts"
@@ -201,14 +204,22 @@ export function hosted(bodies: Readonly<Record<string, string>>): Change {
 
 const MANIFESTS: readonly string[] = [MANIFEST, PACKAGED]
 
-export function hostShadow(held: Change): Shadow {
+function hostShadow(held: Change): Shadow {
   const shadow = shadowAt(held.root)
   return { ...shadow, index: { ...shadow.index, manifestsBeside: () => MANIFESTS } }
 }
 
+export function hosting(held: Change): Walking {
+  return {
+    root: held.root,
+    paths: held.changed,
+    read: (path) => textIn(held, path),
+    index: hostShadow(held).index,
+  }
+}
+
 export function refused(bodies: Readonly<Record<string, string>>): readonly Judged[] {
-  const held = hosted(bodies)
-  return refusalsOver(held, hostShadow(held), MANIFEST)
+  return refusalsOver(hosting(hosted(bodies)), MANIFEST)
 }
 
 export function pathsRefused(bodies: Readonly<Record<string, string>>): readonly string[] {

@@ -11,7 +11,7 @@ import {
   ENTRY,
   FAR,
   hosted,
-  hostShadow,
+  hosting,
   LINKED_PAGE,
   LINKED_TO,
   MANIFEST,
@@ -130,7 +130,7 @@ test("the entry itself is judged, holding nothing it was reached from", () => {
 
 test("a manifest naming no entry is refused rather than passed", () => {
   const held = change({ [ENTRY]: 'import "bun:ffi"\n' })
-  expect(refusalsOver(held, hostShadow(held), MANIFEST).map((one) => one.reason)).toEqual([
+  expect(refusalsOver(hosting(held), MANIFEST).map((one) => one.reason)).toEqual([
     "this names no entry, so what the host loads is unknown",
   ])
 })
@@ -138,7 +138,7 @@ test("a manifest naming no entry is refused rather than passed", () => {
 test("a specifier landing on nothing is passed over", () => {
   const reads = 'import { gone } from "./gone.module.code.ts"\n'
   const held = hosted({ [ENTRY]: reads })
-  expect(refusalsOver(held, hostShadow(held), MANIFEST)).toEqual([])
+  expect(refusalsOver(hosting(held), MANIFEST)).toEqual([])
 })
 
 test("a run reading the graph keeps what it reached beside this check's page", () => {
@@ -147,7 +147,7 @@ test("a run reading the graph keeps what it reached beside this check's page", (
     root,
     withManifest({ [ENTRY]: READS_NEXT, [NEXT]: "export const it = 2\n" })
   )
-  refusalsOver(held, hostShadow(held), MANIFEST)
+  refusalsOver(hosting(held), MANIFEST)
 
   expect(cachedIn(root, CHECK_PAGE)).toEqual([ENTRY, NEXT])
 })
@@ -157,7 +157,7 @@ test("a change naming nothing kept is answered with no refusal", () => {
   cacheKept(root, CHECK_PAGE, ["elsewhere/elsewhere.module.code.ts"])
   const held = changeIn(root, { [ENTRY]: 'import "bun:ffi"\n' })
 
-  expect(refusalsOver(held, hostShadow(held), MANIFEST)).toEqual([])
+  expect(refusalsOver(hosting(held), MANIFEST)).toEqual([])
 })
 
 test("a change naming a path kept is read through the graph all the same", () => {
@@ -165,14 +165,14 @@ test("a change naming a path kept is read through the graph all the same", () =>
   cacheKept(root, CHECK_PAGE, [ENTRY])
   const held = changeIn(root, withManifest({ [ENTRY]: 'import "bun:ffi"\n' }))
 
-  expect(refusalsOver(held, hostShadow(held), MANIFEST).map((one) => one.path)).toEqual([ENTRY])
+  expect(refusalsOver(hosting(held), MANIFEST).map((one) => one.path)).toEqual([ENTRY])
 })
 
 test("what a run reaches joins what was kept rather than replacing it", () => {
   const root = checkFiled(rooted())
   cacheKept(root, CHECK_PAGE, ["gone/gone.module.code.ts"])
   const held = changeIn(root, withManifest({ [ENTRY]: "export const it = 1\n" }))
-  refusalsOver(held, hostShadow(held), MANIFEST)
+  refusalsOver(hosting(held), MANIFEST)
 
   expect(cachedIn(root, CHECK_PAGE)).toEqual([ENTRY, "gone/gone.module.code.ts"])
 })

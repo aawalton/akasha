@@ -1,13 +1,12 @@
 import { dirname, join, normalize } from "node:path"
 import { cachedIn, cacheKept } from "akasha/check/modules/cache/check-cache.module.code.ts"
-import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { skimmedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placedIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import type { Edge } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { codeImports } from "akasha/graph/predicate/pages/code-imports/code-imports.graph-predicate.ts"
-import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -112,8 +111,15 @@ function reachedIn(at: string, text: string): Reached {
   }
 }
 
-function entryIn(change: Change, manifest: string): string | null {
-  const text = textIn(change, manifest)
+export type Walking = {
+  readonly root: string
+  readonly paths: readonly string[]
+  readonly read: (path: string) => string | null
+  readonly index: Answering
+}
+
+function entryIn(walking: Walking, manifest: string): string | null {
+  const text = walking.read(manifest)
   if (text === null) return null
   let read: unknown
   try {
@@ -168,8 +174,8 @@ const CHECK_CODE = "check-code"
 
 const PACKAGE = "package.json"
 
-function pageKeeping(shadow: Shadow): string | null {
-  return shadow.index.listedAt(CHECK_CODE, SLUG)[0]?.path ?? null
+function pageKeeping(index: Answering): string | null {
+  return index.listedAt(CHECK_CODE, SLUG)[0]?.path ?? null
 }
 
 function keptIn(root: string, page: string): ReadonlySet<string> | null {
@@ -183,8 +189,8 @@ function keptIn(root: string, page: string): ReadonlySet<string> | null {
   return found
 }
 
-function couldTurn(change: Change, manifest: string, kept: ReadonlySet<string>): boolean {
-  for (const path of change.changed) {
+function couldTurn(paths: readonly string[], manifest: string, kept: ReadonlySet<string>): boolean {
+  for (const path of paths) {
     if (path === manifest || kept.has(path)) return true
     if (path === PACKAGE || path.endsWith(`/${PACKAGE}`)) return true
   }
@@ -198,23 +204,23 @@ function keeping(root: string, page: string, nodes: Iterable<string>): undefined
   return undefined
 }
 
-export function refusalsOver(change: Change, shadow: Shadow, manifest: string): readonly Judged[] {
-  const page = pageKeeping(shadow)
-  const kept = page === null ? null : keptIn(change.root, page)
-  if (kept !== null && !couldTurn(change, manifest, kept)) return []
-  const entry = entryIn(change, manifest)
+export function refusalsOver(walking: Walking, manifest: string): readonly Judged[] {
+  const page = pageKeeping(walking.index)
+  const kept = page === null ? null : keptIn(walking.root, page)
+  if (kept !== null && !couldTurn(walking.paths, manifest, kept)) return []
+  const entry = entryIn(walking, manifest)
   if (entry === null) {
     return [{ path: manifest, reason: `this names no entry, so what the host loads is unknown` }]
   }
   const taken = takenIn(codeImports, [entry], {
-    index: shadow.index,
-    bodyAt: (path) => textIn(change, path),
+    index: walking.index,
+    bodyAt: (path) => walking.read(path),
   })
-  if (page !== null) keeping(change.root, page, taken.nodes)
+  if (page !== null) keeping(walking.root, page, taken.nodes)
   const from = fromOver(entry, taken.edges)
   const said: Judged[] = []
   for (const here of taken.nodes) {
-    const text = textIn(change, here)
+    const text = walking.read(here)
     if (text === null) continue
     const reached = reachedIn(here, text)
     if (reached.global) {
