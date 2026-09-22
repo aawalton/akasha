@@ -25,6 +25,8 @@ import {
   ARTIST,
   musicRate,
   RELEASE,
+  SONG,
+  TRACK,
   taken,
 } from "akasha/command/pages/music/rate/music-rate.command.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -143,6 +145,10 @@ export function gradingAurora(reach: Reach) {
   )
 }
 
+export function gradingTrack(reach: Reach) {
+  return musicRate(["--target", TRACK, "--slug", TRACK_SLUG, "--grade", "S"], GIVEN, reach.landing)
+}
+
 export function gradingRelease(reach: Reach) {
   return musicRate(
     ["--target", RELEASE, "--slug", RELEASE_SLUG, "--grade", "C"],
@@ -150,6 +156,47 @@ export function gradingRelease(reach: Reach) {
     reach.landing
   )
 }
+
+export const SONG_SLUG = "mitski-nobody"
+
+export const TAGGING_SONG: readonly string[] = [
+  "--target",
+  SONG,
+  "--slug",
+  SONG_SLUG,
+  "--tag",
+  "longing",
+  "--tag",
+  "attraction",
+]
+
+export const SAYING_TWICE: readonly string[] = [
+  "--target",
+  SONG,
+  "--slug",
+  "a",
+  "--insights",
+  "x",
+  "--insights-file",
+  "y",
+]
+
+export const INSIGHT = "it turns at the bridge"
+
+export function gradingMitski(rung: string): readonly string[] {
+  return ["--target", ARTIST, "--slug", "mitski", "--grade", rung, "--reaction", REACTION]
+}
+
+export const SAYING_OF_SONG: readonly string[] = [
+  "--target",
+  SONG,
+  "--slug",
+  SONG_SLUG,
+  "--insights",
+  INSIGHT,
+  "--personal-connections",
+  "the drive home",
+]
 
 const GAVE_OUT = new Error("the grade landed and the push gave out")
 

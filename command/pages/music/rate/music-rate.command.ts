@@ -32,7 +32,11 @@ export const musicRate = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A release is graded as a track, a song and an artist are.",
+      statement: "A release is graded as a track and an artist are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A grade named for a song is refused, because Alan grades the recording he heard.",
     },
     {
       decisionKind: "decision-kind/departure",

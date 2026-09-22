@@ -22,8 +22,11 @@ import {
   bodyAt,
   GIVEN,
   gradingAurora,
+  gradingMitski,
   gradingRelease,
   gradingThrowing,
+  gradingTrack,
+  INSIGHT,
   LANDED,
   PLAYER,
   pathsIn,
@@ -38,8 +41,12 @@ import {
   reaching,
   refusalOf,
   refusalsOf,
+  SAYING_OF_SONG,
+  SAYING_TWICE,
   SILENT,
+  SONG_SLUG,
   scratch,
+  TAGGING_SONG,
   TRACK_AT,
   takingOf,
 } from "akasha/command/pages/music/rate/music-rate.command.test-fixtures.ts"
@@ -101,17 +108,8 @@ test("a call naming a tag and no grade records something", () => {
 })
 
 test("a tag is added to the tags already carried rather than written over them", () => {
-  const held = takingOf([
-    "--target",
-    SONG,
-    "--slug",
-    "mitski-nobody",
-    "--tag",
-    "longing",
-    "--tag",
-    "attraction",
-  ])
-  const values = valuesFor({ slug: "mitski-nobody", tags: ["attraction", "night"] }, held)
+  const was = { slug: SONG_SLUG, tags: ["attraction", "night"] }
+  const values = valuesFor(was, takingOf(TAGGING_SONG))
   expect(values["tags"]).toEqual(["attraction", "night", "longing"])
 })
 
@@ -121,24 +119,20 @@ test("a page carrying no tag takes the tags the call names", () => {
 })
 
 test("a call naming no tag leaves the tags carried as they are", () => {
-  const held = takingOf(["--target", SONG, "--slug", "mitski-nobody", "--grade", "A"])
-  const values = valuesFor({ slug: "mitski-nobody", tags: ["attraction"] }, held)
+  const held = takingOf(["--target", TRACK, "--slug", TRACK_SLUG, "--grade", "A"])
+  const values = valuesFor({ slug: TRACK_SLUG, tags: ["attraction"] }, held)
   expect(values["tags"]).toEqual(["attraction"])
 })
 
-test("the values carry a track's grade under the name a song carries it under", () => {
+test("the values carry the grade Alan gives the recording he heard", () => {
   const held = takingOf(["--target", TRACK, "--slug", TRACK_SLUG, "--grade", "S"])
   expect(held.target).toBe(TRACK)
   expect(valuesFor({ slug: TRACK_SLUG }, held)["grade"]).toBe("S")
 })
 
-test("a track named by its slug is written the way a song named by its slug is", async () => {
+test("a track named by its slug is written the way a release named by its slug is", async () => {
   const reach = reaching({ ...LANDED, landed: [TRACK_AT] })
-  const said = await musicRate(
-    ["--target", TRACK, "--slug", TRACK_SLUG, "--grade", "S"],
-    GIVEN,
-    reach.landing
-  )
+  const said = await gradingTrack(reach)
   expect(said.refusals).toEqual([])
   const one = reach.reached[0]
   if (one === undefined) throw new Error("the landing was never reached")
@@ -239,7 +233,14 @@ test("a call over a silent player refuses and reaches no landing", async () => {
 })
 
 test("a grade off the ladder is refused", () => {
-  expect(refusalOf(["--target", SONG, "--slug", "a", "--grade", "A++"])).toContain("`A++`")
+  expect(refusalOf(["--target", TRACK, "--slug", "a", "--grade", "A++"])).toContain("`A++`")
+})
+
+test("a grade named for a song is refused", () => {
+  const said = refusalOf(["--target", SONG, "--slug", SONG_SLUG, "--grade", "A"])
+  expect(said).toContain("`--grade`")
+  expect(said).toContain(`\`--target ${TRACK}\``)
+  expect(said).toContain(`rather than the ${SONG}`)
 })
 
 test("insights named for an artist are refused", () => {
@@ -254,22 +255,14 @@ test("a reaction named for a song is refused", () => {
   expect(said).toContain(`--target ${ARTIST}`)
 })
 
-test("a call recording nothing is refused", () => {
-  expect(refusalOf(["--target", SONG, "--slug", "a"])).toContain("nothing is recorded")
+test("a song call recording nothing names the tag and the song's prose", () => {
+  expect(refusalOf(["--target", SONG, "--slug", "a"])).toBe(
+    "nothing is recorded by this call — name `--tag` or `--personal-connections` or `--insights`"
+  )
 })
 
 test("a value and its file together are refused", () => {
-  const said = refusalOf([
-    "--target",
-    SONG,
-    "--slug",
-    "a",
-    "--insights",
-    "x",
-    "--insights-file",
-    "y",
-  ])
-  expect(said).toContain("never said together")
+  expect(refusalOf(SAYING_TWICE)).toContain("never said together")
 })
 
 test("a flag named twice is refused", () => {
@@ -277,21 +270,11 @@ test("a flag named twice is refused", () => {
 })
 
 test("a grade and prose are taken together", () => {
-  const held = takingOf([
-    "--target",
-    SONG,
-    "--slug",
-    "mitski-nobody",
-    "--grade",
-    "S+",
-    "--insights",
-    "it turns at the bridge",
-    "--json",
-  ])
-  expect(held.target).toBe(SONG)
-  expect(held.slug).toBe("mitski-nobody")
+  const held = takingOf([...gradingMitski("S+"), "--json"])
+  expect(held.target).toBe(ARTIST)
+  expect(held.slug).toBe("mitski")
   expect(held.grade).toBe("S+")
-  expect(held.prose.get("insights")).toBe("it turns at the bridge")
+  expect(held.prose.get("reaction")).toBe(REACTION)
   expect(held.json).toBe(true)
 })
 
@@ -309,27 +292,27 @@ test("a file that is not there is refused", () => {
 })
 
 test("the values carry the grade and mark the prose beside the page", () => {
-  const held = takingOf([
-    "--target",
-    SONG,
-    "--slug",
-    "mitski-nobody",
-    "--grade",
-    "A",
-    "--personal-connections",
-    "the drive home",
-  ])
-  const values = valuesFor({ slug: "mitski-nobody", title: "Nobody" }, held)
-  expect(values["title"]).toBe("Nobody")
+  const held = takingOf(gradingMitski("A"))
+  const values = valuesFor({ slug: "mitski", title: "Mitski" }, held)
+  expect(values["title"]).toBe("Mitski")
   expect(values["grade"]).toBe("A")
+  expect(values["reaction"]).toBe("txt")
+})
+
+test("a song takes the prose Alan says of the piece and carries no grade", () => {
+  const held = takingOf(SAYING_OF_SONG)
+  expect(held.grade).toBe(null)
+  expect(held.prose.get("insights")).toBe(INSIGHT)
+  const values = valuesFor({ slug: SONG_SLUG }, held)
   expect(values["personalConnections"]).toBe("txt")
+  expect(values["grade"]).toBe(undefined)
 })
 
 test("what is recorded is said as a line or as JSON", () => {
-  const held = takingOf(["--target", SONG, "--slug", "a", "--grade", "B"])
-  expect(saidOf(held, "a")).toBe(`Recorded ${SONG} a`)
-  const asJson = takingOf(["--target", SONG, "--slug", "a", "--grade", "B", "--json"])
-  expect(JSON.parse(saidOf(asJson, "a"))).toEqual({ target: SONG, slug: "a", grade: "B" })
+  const held = takingOf(["--target", TRACK, "--slug", "a", "--grade", "B"])
+  expect(saidOf(held, "a")).toBe(`Recorded ${TRACK} a`)
+  const asJson = takingOf(["--target", TRACK, "--slug", "a", "--grade", "B", "--json"])
+  expect(JSON.parse(saidOf(asJson, "a"))).toEqual({ target: TRACK, slug: "a", grade: "B" })
 })
 
 test("the page and its prose are named to the landing at the change writing any path", async () => {

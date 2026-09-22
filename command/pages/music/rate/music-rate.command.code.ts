@@ -111,6 +111,8 @@ const PROSE_OF: ReadonlyMap<string, readonly string[]> = new Map([
 
 export const TARGETS = [...PROSE_OF.keys()]
 
+const GRADED: ReadonlySet<string> = new Set([ARTIST, TRACK, RELEASE])
+
 const TAKES = [
   json,
   slugArgument,
@@ -172,9 +174,14 @@ function wrongIn(
   if (strayed.length > 0) {
     return `${strayed.join(" and ")} rather than to \`${TARGET} ${target}\``
   }
+  if (marked !== null && !GRADED.has(target)) {
+    const taking = [...GRADED].map((one) => `\`${TARGET} ${one}\``).join(", ")
+    return `\`${GRADE}\` applies to ${taking}, and Alan grades the recording he heard rather than the ${target}`
+  }
   if (marked !== null || prose.size > 0 || tags.length > 0) return null
   const own = PROSE_OF.get(target) ?? []
-  const naming = [GRADE, TAG, ...own.map((one) => `--${one}`)].map((one) => `\`${one}\``)
+  const marking = GRADED.has(target) ? [GRADE, TAG] : [TAG]
+  const naming = [...marking, ...own.map((one) => `--${one}`)].map((one) => `\`${one}\``)
   return `nothing is recorded by this call — name ${naming.join(" or ")}`
 }
 
