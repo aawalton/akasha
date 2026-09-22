@@ -5,7 +5,7 @@
 {"definition":"the routes innworld.wiki serves to a browser"}
 {"gitIgnore":"gitignore"}
 {"id":"01a0c5eb-fefb-782b-b6d3-6a775c512d24"}
-{"parts":["app-routes/wandering-inn-wiki-web-routes","manifest/wandering-inn-wiki-web-manifests","module/innworld-app-shell","module/innworld-reader","module/innworld-reading","stylesheet/wandering-inn-wiki-web-look"]}
+{"parts":["app-routes/wandering-inn-wiki-web-routes","manifest/wandering-inn-wiki-web-manifests","module/innworld-app-shell","module/innworld-reader","module/innworld-reading","module/innworld-visitor","stylesheet/wandering-inn-wiki-web-look"]}
 {"rootRoute":"tsx"}
 {"routeTable":"ts"}
 {"routeTypesDirectory":true}

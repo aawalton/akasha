@@ -24,6 +24,7 @@ export const wanderingInnWikiWeb = {
     "module/innworld-app-shell",
     "module/innworld-reader",
     "module/innworld-reading",
+    "module/innworld-visitor",
     "stylesheet/wandering-inn-wiki-web-look",
   ],
   toolReached: ["react-dom"],

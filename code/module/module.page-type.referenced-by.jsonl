@@ -2548,6 +2548,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-app-shell/innworld-app-shell.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-visitor/innworld-visitor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/chapter-words/chapter-words.module.ts"}
