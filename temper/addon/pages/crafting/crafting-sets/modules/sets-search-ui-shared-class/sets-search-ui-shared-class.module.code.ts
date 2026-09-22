@@ -22,19 +22,19 @@ export function brandSharedSearchUIClassGlobal(
 }
 
 interface SharedSuperDispatch {
-  Initialize: (this: void, self: LibSetsSearchUISharedObject, control: SearchUIControl) => void
-  ShowUI: (this: void, self: LibSetsSearchUISharedObject) => void
-  ResetUI: (this: void, self?: LibSetsSearchUISharedObject) => void
-  ValidateSearchParams: (this: void, self: LibSetsSearchUISharedObject) => boolean | undefined
+  Initialize: (this: void, self: SetsSearchUISharedObject, control: SearchUIControl) => void
+  ShowUI: (this: void, self: SetsSearchUISharedObject) => void
+  ResetUI: (this: void, self?: SetsSearchUISharedObject) => void
+  ValidateSearchParams: (this: void, self: SetsSearchUISharedObject) => boolean | undefined
   StartSearch: (
     this: void,
-    self: LibSetsSearchUISharedObject,
+    self: SetsSearchUISharedObject,
     doNotShowUI: boolean | undefined,
     wasReset?: boolean
   ) => boolean
   OnFilterChanged: (
     this: void,
-    self: LibSetsSearchUISharedObject,
+    self: SetsSearchUISharedObject,
     dropdownControl?: SearchUIControl
   ) => void
 }

@@ -1,4 +1,4 @@
-interface LibSetsSearchUIKeyboardObject extends LibSetsSearchUISharedObject {
+interface LibSetsSearchUIKeyboardObject extends SetsSearchUISharedObject {
   resetButton: SearchUIControl
   multiSelectFilterTypeNameToDropdown: { [filterName: string]: SearchUIControl }
   multiSelectMinAndMaxData: LuaMap<SearchUIControl, LibSetsMultiSelectMinMaxData>

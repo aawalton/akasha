@@ -36,7 +36,7 @@ const sharedClass = getSharedSearchUIClass()
 const specialBonusSets = lib.specialBonusSets
 
 sharedClass.UpdateSearchHistory = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   editBoxCtrl: SearchUIEditBox
 ) {
   const searchValue = editBoxCtrl.GetText()
@@ -62,7 +62,7 @@ sharedClass.UpdateSearchHistory = function (
 }
 
 sharedClass.GetSetNameSearchString = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   tableOrString: unknown
 ): string | undefined {
   let setNameStr: string | undefined
@@ -79,7 +79,7 @@ sharedClass.GetSetNameSearchString = function (
   return setNameStr
 }
 
-sharedClass.Cancel = function (this: LibSetsSearchUISharedObject) {
+sharedClass.Cancel = function (this: SetsSearchUISharedObject) {
   CM.FireCallbacks(`${searchUIName}_SearchCanceled`, this)
 
   if (this.searchCanceledCallback !== undefined) {
@@ -91,14 +91,12 @@ sharedClass.Cancel = function (this: LibSetsSearchUISharedObject) {
   this.HideUI()
 }
 
-sharedClass.ValidateSearchParams = function (
-  this: LibSetsSearchUISharedObject
-): boolean | undefined {
+sharedClass.ValidateSearchParams = function (this: SetsSearchUISharedObject): boolean | undefined {
   return undefined
 }
 
 sharedClass.StartSearch = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   doNotShowUI: boolean | undefined,
   wasReset?: boolean
 ): boolean {
@@ -123,7 +121,7 @@ sharedClass.StartSearch = function (
 }
 
 sharedClass.Search = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   doNotShowUI: boolean | undefined,
   searchParams: LibSetsSearchParams | undefined
 ) {
@@ -239,7 +237,7 @@ function searchFilterPrefix(
 }
 
 sharedClass.CheckForMatch = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   data: LibSetsSearchRowData,
   searchInput: string
 ): boolean {
@@ -250,7 +248,7 @@ sharedClass.CheckForMatch = function (
 }
 
 sharedClass.ProcessItemEntry = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   _stringSearch: unknown,
   data: LibSetsSearchRowData,
   searchTerm: string,
@@ -263,7 +261,7 @@ sharedClass.ProcessItemEntry = function (
 }
 
 sharedClass.SearchSetBonuses = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   bonuses: (string | undefined)[] | undefined,
   searchInput: string,
   setId: number | undefined
@@ -272,14 +270,14 @@ sharedClass.SearchSetBonuses = function (
 }
 
 sharedClass.OnFilterChanged = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   _dropdownControl?: SearchUIControl,
   _editControl?: SearchUIEditBox
 ) {
   this.searchParams = this.searchParams ?? {}
 }
 
-sharedClass.DidAnyFilterChange = function (this: LibSetsSearchUISharedObject): boolean {
+sharedClass.DidAnyFilterChange = function (this: SetsSearchUISharedObject): boolean {
   const searchParams = this.searchParams
   const lastSearchParams = this.lastSearchParams
   if (lastSearchParams === undefined) {
@@ -338,7 +336,7 @@ sharedClass.DidAnyFilterChange = function (this: LibSetsSearchUISharedObject): b
 }
 
 sharedClass.ThrottledCall = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   callbackName: string,
   timer: number,
   callback: (this: void, ...args: unknown[]) => void,
@@ -356,14 +354,14 @@ sharedClass.ThrottledCall = function (
 }
 
 sharedClass.ModifyWeaponType2hd = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   weaponType: number | undefined
 ): string | undefined {
   return lib.GetWeaponTypeText(weaponType)
 }
 
 sharedClass.SetSearchEditBoxValue = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   editBoxControl: SearchUIEditBox | undefined,
   searchTerm: string
 ) {

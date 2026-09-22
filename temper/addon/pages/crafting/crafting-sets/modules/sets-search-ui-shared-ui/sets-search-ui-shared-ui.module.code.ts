@@ -23,7 +23,7 @@ import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaratio
 
 const sharedClass = getSharedSearchUIClass()
 
-sharedClass.Initialize = function (this: LibSetsSearchUISharedObject, control: SearchUIControl) {
+sharedClass.Initialize = function (this: SetsSearchUISharedObject, control: SearchUIControl) {
   this.control = control
   control._object = this
 
@@ -44,30 +44,30 @@ sharedClass.Initialize = function (this: LibSetsSearchUISharedObject, control: S
 }
 
 sharedClass.SetSearchCallbacks = function (
-  this: LibSetsSearchUISharedObject,
-  searchDoneCallback?: (this: void, selfVar: LibSetsSearchUISharedObject) => void,
-  searchErrorCallback?: (this: void, selfVar: LibSetsSearchUISharedObject) => void,
-  searchCanceledCallback?: (this: void, selfVar: LibSetsSearchUISharedObject) => void
+  this: SetsSearchUISharedObject,
+  searchDoneCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void,
+  searchErrorCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void,
+  searchCanceledCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void
 ) {
   this.searchDoneCallback = searchDoneCallback
   this.searchErrorCallback = searchErrorCallback
   this.searchCanceledCallback = searchCanceledCallback
 }
 
-sharedClass.ResetInternal = function (this: LibSetsSearchUISharedObject) {
+sharedClass.ResetInternal = function (this: SetsSearchUISharedObject) {
   this.searchParams = undefined
 }
 
-sharedClass.ResetUI = function (this: LibSetsSearchUISharedObject) {}
+sharedClass.ResetUI = function (this: SetsSearchUISharedObject) {}
 
-sharedClass.Reset = function (this: LibSetsSearchUISharedObject) {
+sharedClass.Reset = function (this: SetsSearchUISharedObject) {
   this.ResetInternal()
   this.ResetUI()
   this.StartSearch(undefined, true)
 }
 
 sharedClass.ResetMultiSelectDropdown = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   dropdownControl: SearchUIControl
 ) {
   const comboBox = getComboBoxFromDropdownControl(dropdownControl)
@@ -78,7 +78,7 @@ sharedClass.ResetMultiSelectDropdown = function (
 }
 
 sharedClass.SelectAllAtMultiSelectDropdown = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   dropdownControl: SearchUIControl
 ) {
   const comboBox = getComboBoxFromDropdownControl(dropdownControl)
@@ -89,7 +89,7 @@ sharedClass.SelectAllAtMultiSelectDropdown = function (
 }
 
 sharedClass.SelectInvertMultiSelectDropdown = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   dropdownControl: SearchUIControl
 ) {
   const comboBox = getComboBoxFromDropdownControl(dropdownControl)
@@ -100,7 +100,7 @@ sharedClass.SelectInvertMultiSelectDropdown = function (
 }
 
 sharedClass.SelectMultiSelectDropdownEntries = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   dropdownControl: SearchUIControl,
   entriesToSelect: unknown[],
   refreshResultsListAfterwards?: boolean
@@ -126,11 +126,11 @@ sharedClass.SelectMultiSelectDropdownEntries = function (
   }
 }
 
-sharedClass.IsShown = function (this: LibSetsSearchUISharedObject): boolean {
+sharedClass.IsShown = function (this: SetsSearchUISharedObject): boolean {
   return !this.control.IsHidden()
 }
 
-sharedClass.ShowUI = function (this: LibSetsSearchUISharedObject) {
+sharedClass.ShowUI = function (this: SetsSearchUISharedObject) {
   if (this.IsShown()) {
     return
   }
@@ -141,7 +141,7 @@ sharedClass.ShowUI = function (this: LibSetsSearchUISharedObject) {
   CM.FireCallbacks(`${searchUIName}_IsShown`, this)
 }
 
-sharedClass.HideUI = function (this: LibSetsSearchUISharedObject) {
+sharedClass.HideUI = function (this: SetsSearchUISharedObject) {
   if (!this.IsShown()) {
     return
   }
@@ -151,11 +151,11 @@ sharedClass.HideUI = function (this: LibSetsSearchUISharedObject) {
 }
 
 sharedClass.Show = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   searchParams?: LibSetsSearchParams,
-  searchDoneCallback?: (this: void, selfVar: LibSetsSearchUISharedObject) => void,
-  searchErrorCallback?: (this: void, selfVar: LibSetsSearchUISharedObject) => void,
-  searchCanceledCallback?: (this: void, selfVar: LibSetsSearchUISharedObject) => void
+  searchDoneCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void,
+  searchErrorCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void,
+  searchCanceledCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void
 ) {
   if (searchParams !== undefined && !ZO_IsTableEmpty(searchParams)) {
     this.searchParams = searchParams
@@ -167,7 +167,7 @@ sharedClass.Show = function (
   this.ShowUI()
 }
 
-sharedClass.ToggleUI = function (this: LibSetsSearchUISharedObject, slashOptions?: unknown) {
+sharedClass.ToggleUI = function (this: SetsSearchUISharedObject, slashOptions?: unknown) {
   if (this.IsShown()) {
     this.HideUI()
   } else {
@@ -176,7 +176,7 @@ sharedClass.ToggleUI = function (this: LibSetsSearchUISharedObject, slashOptions
 }
 
 sharedClass.UpdateSearchButtonEnabledState = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   isEnabled: boolean | undefined
 ) {
   if (isEnabled === undefined) {

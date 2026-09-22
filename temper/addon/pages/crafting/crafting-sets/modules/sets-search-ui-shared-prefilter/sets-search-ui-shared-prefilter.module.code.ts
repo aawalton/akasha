@@ -47,7 +47,7 @@ const sharedClass = getSharedSearchUIClass()
 const possibleSetSearchFavoriteCategories = lib.possibleSetSearchFavoriteCategories
 
 sharedClass.PreFilterMasterList = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   defaultMasterListBase: { [setId: number]: { [key: string]: unknown } } | undefined
 ): { [setId: number]: { [key: string]: unknown } } | undefined {
   if (defaultMasterListBase === undefined || zoite(defaultMasterListBase)) {

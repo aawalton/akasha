@@ -61,7 +61,7 @@ function settingsView(this: void): { [key: string]: unknown } | undefined {
 }
 
 sharedClass.ShowSettingsMenu = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   anchorControl: SearchUIControl
 ) {
   if (!checkLSM()) {
@@ -277,7 +277,7 @@ sharedClass.ShowSettingsMenu = function (
 sharedClass.ShowDropdownContextMenu = showDropdownContextMenu
 
 sharedClass.OnSearchEditBoxContextMenu = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   editBoxControl: SearchUIEditBox | undefined,
   _shift?: boolean,
   _alt?: boolean,

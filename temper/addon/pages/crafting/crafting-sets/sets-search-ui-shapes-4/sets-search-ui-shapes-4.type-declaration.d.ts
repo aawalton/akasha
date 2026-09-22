@@ -67,9 +67,9 @@ interface LibSetsSearchUIListClass extends LibSetsSearchUIList, ZoSortFilterList
 }
 
 interface LibSetsSearchUISharedClass
-  extends LibSetsSearchUISharedObject,
+  extends SetsSearchUISharedObject,
     ZoInitializingObjectSubclass {
-  New: (this: LibSetsSearchUISharedClass, ...args: unknown[]) => LibSetsSearchUISharedObject
+  New: (this: LibSetsSearchUISharedClass, ...args: unknown[]) => SetsSearchUISharedObject
 }
 
 interface LibSetsSearchUIKeyboardClass

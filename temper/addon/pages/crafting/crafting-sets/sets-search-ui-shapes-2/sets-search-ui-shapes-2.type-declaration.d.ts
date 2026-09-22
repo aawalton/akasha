@@ -1,4 +1,4 @@
-interface LibSetsSearchUISharedObject {
+interface SetsSearchUISharedObject {
   control: SearchUIControl
   filtersControl: SearchUIControl
   contentControl: SearchUIControl
@@ -10,9 +10,9 @@ interface LibSetsSearchUISharedObject {
   searchParams?: LibSetsSearchParams
   lastSearchParams?: LibSetsSearchParams
 
-  searchDoneCallback?: (this: void, selfVar: LibSetsSearchUISharedObject) => void
-  searchErrorCallback?: (this: void, selfVar: LibSetsSearchUISharedObject) => void
-  searchCanceledCallback?: (this: void, selfVar: LibSetsSearchUISharedObject) => void
+  searchDoneCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void
+  searchErrorCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void
+  searchCanceledCallback?: (this: void, selfVar: SetsSearchUISharedObject) => void
 
   stringSearch: ZoStringSearch
 
@@ -41,167 +41,164 @@ interface LibSetsSearchUISharedObject {
 
   itemIdRelevantFilterKeys?: { [searchParamKey: string]: boolean } | false
 
-  Initialize: (this: LibSetsSearchUISharedObject, control: SearchUIControl) => void
+  Initialize: (this: SetsSearchUISharedObject, control: SearchUIControl) => void
   SetSearchCallbacks: (
-    this: LibSetsSearchUISharedObject,
-    doneCb?: (this: void, selfVar: LibSetsSearchUISharedObject) => void,
-    errorCb?: (this: void, selfVar: LibSetsSearchUISharedObject) => void,
-    canceledCb?: (this: void, selfVar: LibSetsSearchUISharedObject) => void
+    this: SetsSearchUISharedObject,
+    doneCb?: (this: void, selfVar: SetsSearchUISharedObject) => void,
+    errorCb?: (this: void, selfVar: SetsSearchUISharedObject) => void,
+    canceledCb?: (this: void, selfVar: SetsSearchUISharedObject) => void
   ) => void
-  ResetInternal: (this: LibSetsSearchUISharedObject) => void
-  ResetUI: (this: LibSetsSearchUISharedObject) => void
-  Reset: (this: LibSetsSearchUISharedObject) => void
+  ResetInternal: (this: SetsSearchUISharedObject) => void
+  ResetUI: (this: SetsSearchUISharedObject) => void
+  Reset: (this: SetsSearchUISharedObject) => void
   ResetMultiSelectDropdown: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     dropdownControl: SearchUIControl
   ) => void
   SelectAllAtMultiSelectDropdown: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     dropdownControl: SearchUIControl
   ) => void
   SelectInvertMultiSelectDropdown: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     dropdownControl: SearchUIControl
   ) => void
   SelectMultiSelectDropdownEntries: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     dropdownControl: SearchUIControl,
     entriesToSelect: unknown[],
     refreshResultsListAfterwards?: boolean
   ) => void
-  IsShown: (this: LibSetsSearchUISharedObject) => boolean
-  ShowUI: (this: LibSetsSearchUISharedObject, slashOptions?: unknown) => void
-  HideUI: (this: LibSetsSearchUISharedObject) => void
+  IsShown: (this: SetsSearchUISharedObject) => boolean
+  ShowUI: (this: SetsSearchUISharedObject, slashOptions?: unknown) => void
+  HideUI: (this: SetsSearchUISharedObject) => void
   Show: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     searchParams?: LibSetsSearchParams,
-    doneCb?: (this: void, selfVar: LibSetsSearchUISharedObject) => void,
-    errorCb?: (this: void, selfVar: LibSetsSearchUISharedObject) => void,
-    canceledCb?: (this: void, selfVar: LibSetsSearchUISharedObject) => void
+    doneCb?: (this: void, selfVar: SetsSearchUISharedObject) => void,
+    errorCb?: (this: void, selfVar: SetsSearchUISharedObject) => void,
+    canceledCb?: (this: void, selfVar: SetsSearchUISharedObject) => void
   ) => void
-  ToggleUI: (this: LibSetsSearchUISharedObject, slashOptions?: unknown) => void
+  ToggleUI: (this: SetsSearchUISharedObject, slashOptions?: unknown) => void
   UpdateSearchButtonEnabledState: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     isEnabled: boolean | undefined
   ) => void
-  UpdateSearchHistory: (this: LibSetsSearchUISharedObject, editBoxCtrl: SearchUIEditBox) => void
+  UpdateSearchHistory: (this: SetsSearchUISharedObject, editBoxCtrl: SearchUIEditBox) => void
   GetSetNameSearchString: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     tableOrString: unknown
   ) => string | undefined
-  Cancel: (this: LibSetsSearchUISharedObject) => void
-  ValidateSearchParams: (this: LibSetsSearchUISharedObject) => boolean | undefined
+  Cancel: (this: SetsSearchUISharedObject) => void
+  ValidateSearchParams: (this: SetsSearchUISharedObject) => boolean | undefined
   StartSearch: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     doNotShowUI: boolean | undefined,
     wasReset?: boolean
   ) => boolean
   Search: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     doNotShowUI: boolean | undefined,
     searchParams: LibSetsSearchParams | undefined
   ) => void
   CheckForMatch: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     data: LibSetsSearchRowData,
     searchInput: string
   ) => boolean
   ProcessItemEntry: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     stringSearch: unknown,
     data: LibSetsSearchRowData,
     searchTerm: string,
     cache?: unknown
   ) => boolean
   SearchSetBonuses: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     bonuses: (string | undefined)[] | undefined,
     searchInput: string,
     setId: number | undefined
   ) => boolean
   OnFilterChanged: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     dropdownControl?: SearchUIControl,
     editControl?: SearchUIEditBox
   ) => void
-  DidAnyFilterChange: (this: LibSetsSearchUISharedObject) => boolean
+  DidAnyFilterChange: (this: SetsSearchUISharedObject) => boolean
   PreFilterMasterList: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     defaultMasterListBase: { [setId: number]: { [key: string]: unknown } } | undefined
   ) => { [setId: number]: { [key: string]: unknown } } | undefined
   ThrottledCall: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     callbackName: string,
     timer: number,
     callback: (this: void, ...args: unknown[]) => void,
     ...args: unknown[]
   ) => void
   ModifyWeaponType2hd: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     weaponType: number | undefined
   ) => string | undefined
   SetSearchEditBoxValue: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     editBoxControl: SearchUIEditBox | undefined,
     searchTerm: string
   ) => void
   ShowItemLinkTooltip: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     rowControl: SearchUIControl,
     data: LibSetsSearchRowData | undefined
   ) => boolean | undefined
-  HideItemLinkTooltip: (this: LibSetsSearchUISharedObject) => void
+  HideItemLinkTooltip: (this: SetsSearchUISharedObject) => void
   ShowItemLinkPopupTooltip: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     parent: SearchUIControl,
     data: LibSetsSearchRowData | undefined
   ) => void
-  HideItemLinkPopupTooltip: (this: LibSetsSearchUISharedObject) => void
+  HideItemLinkPopupTooltip: (this: SetsSearchUISharedObject) => void
   ShowSetDropLocationTooltip: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     rowControl: SearchUIControl,
     data: LibSetsSearchRowData | undefined,
     itemLinkTooltipShownLeftOfControl?: boolean
   ) => void
-  ItemLinkToChat: (
-    this: LibSetsSearchUISharedObject,
-    data: LibSetsSearchRowData | undefined
-  ) => void
+  ItemLinkToChat: (this: SetsSearchUISharedObject, data: LibSetsSearchRowData | undefined) => void
   GetAllFavoritesCategories: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     setId: number | undefined
   ) => string[] | undefined
   GetNextFavoritesCategory: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     setId: number | undefined
   ) => string | undefined
   IsSetIdInFavorites: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     setId: number | undefined,
     favoriteCategory: string | undefined
   ) => boolean
   AddSetIdToFavorites: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     rowControl: SearchUIControl,
     setId: number,
     favoriteCategory: string | undefined
   ) => void
   RemoveSetIdFromFavorites: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     rowControl: SearchUIControl,
     setId: number,
     favoriteCategory: string
   ) => void
   RemoveSetIdFromAllFavorites: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     rowControl: SearchUIControl,
     setId: number
   ) => void
-  RemoveAllSetFavorites: (this: LibSetsSearchUISharedObject, favoriteCategory: string) => void
-  ShowSettingsMenu: (this: LibSetsSearchUISharedObject, anchorControl: SearchUIControl) => void
-  ShowRowContextMenu: (this: LibSetsSearchUISharedObject, rowControl: SearchUIControl) => void
+  RemoveAllSetFavorites: (this: SetsSearchUISharedObject, favoriteCategory: string) => void
+  ShowSettingsMenu: (this: SetsSearchUISharedObject, anchorControl: SearchUIControl) => void
+  ShowRowContextMenu: (this: SetsSearchUISharedObject, rowControl: SearchUIControl) => void
   ShowDropdownContextMenu: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     dropdownControl: SearchUIControl,
     shift?: boolean,
     alt?: boolean,
@@ -209,14 +206,14 @@ interface LibSetsSearchUISharedObject {
     command?: boolean
   ) => void
   OnSearchEditBoxContextMenu: (
-    this: LibSetsSearchUISharedObject,
+    this: SetsSearchUISharedObject,
     editBoxControl: SearchUIEditBox | undefined,
     shift?: boolean,
     alt?: boolean,
     ctrl?: boolean,
     command?: boolean
   ) => void
-  ApplySearchParamsToUI: (this: LibSetsSearchUISharedObject) => void
+  ApplySearchParamsToUI: (this: SetsSearchUISharedObject) => void
 
   [key: string]: unknown
 }

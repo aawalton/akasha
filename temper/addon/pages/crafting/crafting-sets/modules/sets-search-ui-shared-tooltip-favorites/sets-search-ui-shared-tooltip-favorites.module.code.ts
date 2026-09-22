@@ -71,7 +71,7 @@ function getTooltipsPositionBasedOnSpaceLeft(
 
 function anchorAllTooltipsAutomatically(
   this: void,
-  selfVar: LibSetsSearchUISharedObject,
+  selfVar: SetsSearchUISharedObject,
   _rowControl: SearchUIControl,
   tooltipCtrl: SearchUIControl,
   anchorCtrlIn: SearchUIControl,
@@ -125,7 +125,7 @@ function anchorAllTooltipsAutomatically(
 }
 
 sharedClass.ShowItemLinkTooltip = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   rowControl: SearchUIControl,
   dataIn: LibSetsSearchRowData | undefined
 ): boolean | undefined {
@@ -154,12 +154,12 @@ sharedClass.ShowItemLinkTooltip = function (
   return shownLeftOfControl
 }
 
-sharedClass.HideItemLinkTooltip = function (this: LibSetsSearchUISharedObject) {
+sharedClass.HideItemLinkTooltip = function (this: SetsSearchUISharedObject) {
   ClearTooltip(asTooltip(this.tooltipControl))
 }
 
 sharedClass.ShowItemLinkPopupTooltip = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   parent: SearchUIControl,
   data: LibSetsSearchRowData | undefined
 ) {
@@ -203,12 +203,12 @@ sharedClass.ShowItemLinkPopupTooltip = function (
   ttControl.SetLink(data.itemLink)
 }
 
-sharedClass.HideItemLinkPopupTooltip = function (this: LibSetsSearchUISharedObject) {
+sharedClass.HideItemLinkPopupTooltip = function (this: SetsSearchUISharedObject) {
   ClearTooltip(TT_Popup)
 }
 
 sharedClass.ShowSetDropLocationTooltip = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   rowControl: SearchUIControl,
   data: LibSetsSearchRowData | undefined,
   itemLinkTooltipShownLeftOfControl?: boolean
@@ -248,7 +248,7 @@ sharedClass.ShowSetDropLocationTooltip = function (
 }
 
 sharedClass.ItemLinkToChat = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   data: LibSetsSearchRowData | undefined
 ) {
   if (data !== undefined && data.itemLink !== undefined) {
@@ -273,7 +273,7 @@ function getFavoritesSV(this: void): FavoritesSV | undefined {
 }
 
 sharedClass.GetAllFavoritesCategories = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   setId: number | undefined
 ): string[] | undefined {
   let setSearchFavoriteCategoriesOfSetId: string[] | undefined
@@ -292,7 +292,7 @@ sharedClass.GetAllFavoritesCategories = function (
 }
 
 sharedClass.GetNextFavoritesCategory = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   setId: number | undefined
 ): string | undefined {
   const setSearchFavorites = getFavoritesSV()
@@ -308,7 +308,7 @@ sharedClass.GetNextFavoritesCategory = function (
 }
 
 sharedClass.IsSetIdInFavorites = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   setId: number | undefined,
   favoriteCategory: string | undefined
 ): boolean {
@@ -324,7 +324,7 @@ sharedClass.IsSetIdInFavorites = function (
 }
 
 sharedClass.AddSetIdToFavorites = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   rowControl: SearchUIControl,
   setId: number,
   favoriteCategory: string | undefined
@@ -358,7 +358,7 @@ sharedClass.AddSetIdToFavorites = function (
 }
 
 sharedClass.RemoveSetIdFromFavorites = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   rowControl: SearchUIControl,
   setId: number,
   favoriteCategory: string
@@ -396,7 +396,7 @@ sharedClass.RemoveSetIdFromFavorites = function (
 }
 
 sharedClass.RemoveSetIdFromAllFavorites = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   rowControl: SearchUIControl,
   setId: number
 ) {
@@ -429,7 +429,7 @@ sharedClass.RemoveSetIdFromAllFavorites = function (
 }
 
 sharedClass.RemoveAllSetFavorites = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   favoriteCategory: string
 ) {
   if (POSSIBLE_SET_SEARCH_FAVORITE_CATEGORIES_UNSORTED[favoriteCategory] === undefined) {

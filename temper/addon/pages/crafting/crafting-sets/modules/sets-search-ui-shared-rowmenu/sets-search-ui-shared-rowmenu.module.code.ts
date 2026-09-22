@@ -58,7 +58,7 @@ const possibleSetSearchFavoriteCategories = lib.possibleSetSearchFavoriteCategor
 const favoriteIconTexts = searchUI.favoriteIconTexts
 
 sharedClass.ShowRowContextMenu = function (
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   rowControl: SearchUIControl
 ) {
   if (!checkLSM()) {

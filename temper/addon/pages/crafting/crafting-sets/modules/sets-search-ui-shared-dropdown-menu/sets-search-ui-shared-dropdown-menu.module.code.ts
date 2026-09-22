@@ -16,7 +16,7 @@ import "akasha/temper/eso/type/eso-lib-sets-strings-2/eso-lib-sets-strings-2.typ
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
 export function showDropdownContextMenu(
-  this: LibSetsSearchUISharedObject,
+  this: SetsSearchUISharedObject,
   dropdownControl: SearchUIControl,
   _shift?: boolean,
   _alt?: boolean,

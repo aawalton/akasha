@@ -74,7 +74,7 @@ function scanAndAddDataToSetsMasterListBase(
 
 export function updateSetsInfoWithDataAndNames(
   this: void,
-  selfVar: LibSetsSearchUISharedObject
+  selfVar: SetsSearchUISharedObject
 ): undefined {
   if (!wasSetsDataScannedAndAdded) {
     const setsData = lib.setInfo
