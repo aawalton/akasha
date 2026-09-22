@@ -329,3 +329,30 @@ interface SliderControl extends Control {
   SetValue: (value?: number) => void
   SetValueStep: (step?: number) => void
 }
+CalculateSizeWithoutLeadingEdgeForValue: (value?: number) => number
+ClearFadeOutLossAdjustedTopValue: () => void EnableFadeOut
+: (enabled?: boolean) => void
+  EnableLeadingEdge: (enabled?: boolean) => void
+  EnableScrollingOverlay: (enabled?: boolean) => void
+  GetMinMax: () => LuaMultiReturn<[min: number, max: number]>
+  GetValue: () => number
+  IsPixelRoundingEnabled: () => boolean
+  SetBarAlignment: (barAlignment?: BarAlignment) => void
+  SetColor: (r?: number, g?: number, b?: number, a?: number) => void
+  SetFadeOutGainColor: (r?: number, g?: number, b?: number, a?: number) => void
+  SetFadeOutLossAdjustedTopValue: (topValue?: number) => void
+  SetFadeOutLossColor: (r?: number, g?: number, b?: number, a?: number) => void
+  SetFadeOutLossSetValueToAdjust: (adjustValue?: number) => void
+  SetFadeOutTexture: (filename?: string) => void
+  SetFadeOutTime: (fadeOutSeconds?: number, fadeOutDelaySeconds?: number) => void
+  SetGradientColors: (startR?: number, startG?: number, startB?: number, startA?: number, endR?: number, endG?: number, endB?: number, endA?: number) => void
+  SetLeadingEdge: (textureFile?: string, width?: number, height?: number) => void
+  SetLeadingEdgeTextureCoords: (left?: number, right?: number, top?: number, bottom?: number) => void
+  SetMinMax: (aMin?: number, aMax?: number) => void
+  SetOrientation: (orientation?: ControlOrientation) => void
+  SetPixelRoundingEnabled: (pixelRoundingEnabled?: boolean) => void
+  SetTexture: (filename?: string) => void
+  SetTextureCoords: (left?: number, right?: number, top?: number, bottom?: number) => void
+  SetValue: (aValue?: number) => void
+  SetupScrollingOverlay: (textureFile?: string, width?: number, height?: number, duration?: number) => void
+}
