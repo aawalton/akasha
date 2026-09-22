@@ -1037,7 +1037,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 25,
+            "numCompleted": 26,
             "numRequired": 30
           }
         }
