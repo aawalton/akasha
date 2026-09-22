@@ -99,27 +99,26 @@ export const serviceWorkstation = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A workstation service runs the code its kind's deploy pinned at a commit, as a tree or a bundle.",
+      statement: "A workstation service runs the bundle its kind's deploy built at a commit.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A running workstation service takes the commit its tree sat at as it started.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A service a deploy would restart has the test beside its page judged before that tree moves.",
+      statement: "A running workstation service takes the commit its bundle is named for.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A service that test refuses leaves the tree, and every service running, as they were.",
+        "A service a deploy would restart has the test beside its page judged before a unit is written.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A service that finds the tree moved leaves at a point that service itself calls safe.",
+        "A service that test refuses leaves every unit, and every service running, as they were.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A service that finds its code moved leaves at a point that service itself calls safe.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -209,11 +208,11 @@ export const serviceWorkstation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A landing rewrites a unit from the checkout without moving the tree it names.",
+      statement: "A landing rewrites no unit, a unit naming a bundle only a deploy builds.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A unit's path and the tree that unit runs from come from one commit.",
+      decisionKind: "decision-kind/departure",
+      statement: "A unit and the bundle that unit runs from name one commit.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -222,7 +221,7 @@ export const serviceWorkstation = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The pages a workstation service reads and writes sit in the main checkout rather than that tree.",
+        "The pages a workstation service reads and writes sit in the checkout rather than beside its bundle.",
     },
   ],
   types: "ts",
