@@ -5,7 +5,7 @@ export type AgentActionEvent =
       interruptMessage: string | null
       restartArmedAt: number | null
     }
-  | { action: "swap-proxy" }
+  | { action: "swap-gateway" }
 
 export type PendingAgentAction = {
   event: AgentActionEvent

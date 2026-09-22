@@ -29,7 +29,7 @@ export function buildAgentActionSubsystem(opts: {
   const armDeferred = opts.armDeferred ?? armDeferredRestart
   const clearAction = opts.clearAction ?? clearRequestedAction
   let supervisorKilledProc = false
-  let proxySwapInFlight = false
+  let gatewaySwapInFlight = false
   const pendingEvent: { value: PendingAgentAction | null } = { value: null }
   const deferredRestart: { cancel: (() => void) | null } = { cancel: null }
 
@@ -69,14 +69,14 @@ export function buildAgentActionSubsystem(opts: {
   })
 
   const handleAgentAction = async (event: AgentActionEvent): Promise<undefined> => {
-    if (event.action === "swap-proxy") {
-      if (proxySwapInFlight) return
-      proxySwapInFlight = true
+    if (event.action === "swap-gateway") {
+      if (gatewaySwapInFlight) return
+      gatewaySwapInFlight = true
       log(
-        `Received swap-proxy for agent ${getAgentId()} — consuming the request then swapping proxy`
+        `Received swap-gateway for agent ${getAgentId()} — consuming the request then swapping the gateway`
       )
       void onProxySwap().finally(() => {
-        proxySwapInFlight = false
+        gatewaySwapInFlight = false
       })
       return
     }

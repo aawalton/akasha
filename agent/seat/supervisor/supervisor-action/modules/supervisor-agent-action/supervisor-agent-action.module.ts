@@ -4,7 +4,7 @@ export const supervisorAgentAction = {
   id: "01a0683e-3dbe-7004-8bbe-59a26d9fc3ec",
   type: "page-type/module",
   slug: "supervisor-agent-action",
-  definition: "a running seat's answer to a restart, a deferred restart or a proxy swap",
+  definition: "a running seat's answer to a restart, a deferred restart or a gateway swap",
   code: "ts",
   decisions: [
     {
@@ -17,7 +17,7 @@ export const supervisorAgentAction = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A second proxy swap while a first swap is in flight is dropped.",
+      statement: "A second gateway swap while a first swap is in flight is dropped.",
     },
     {
       decisionKind: "decision-kind/departure",

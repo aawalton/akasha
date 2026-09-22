@@ -28,7 +28,7 @@ import { liveSeats } from "akasha/command/pages/model/gateway/modules/live-gatew
 import { modelGatewaySwap as page } from "akasha/command/pages/model/gateway/swap/model-gateway-swap.command.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
-const ACTION = "swap-proxy"
+const ACTION = "swap-gateway"
 
 const STAGGER_MS = 1_000
 

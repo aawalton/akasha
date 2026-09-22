@@ -16,7 +16,7 @@ export const supervisorAction = {
     "module/supervisor-poll-agent-action",
     "supervisor-action/restart",
     "supervisor-action/restart-now",
-    "supervisor-action/swap-proxy",
+    "supervisor-action/swap-gateway",
   ],
   extends: ["page-type/domain"],
   decisions: [

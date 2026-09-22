@@ -15,7 +15,7 @@ const DEFAULT_POLL_MS = 500
 export type AgentActionRequest =
   | { action: "restart-now"; interruptMessage?: string }
   | { action: "restart"; interruptMessage?: string }
-  | { action: "swap-proxy"; interruptMessage?: never }
+  | { action: "swap-gateway"; interruptMessage?: never }
 
 export type ActionAckOutcome =
   | { readonly ok: true }
@@ -28,7 +28,7 @@ export type ActionAckOutcome =
       }
     }
 
-export type AckVerb = "restart" | "swap-proxy"
+export type AckVerb = "restart" | "swap-gateway"
 
 type AckTimeoutReason = Extract<ActionAckOutcome, { ok: false }>["reason"]
 

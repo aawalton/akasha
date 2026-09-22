@@ -3,7 +3,7 @@ import type { AgentActionEvent } from "akasha/agent/seat/supervisor/supervisor-a
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const ACTIONS: readonly AgentActionEvent["action"][] = ["restart", "restart-now", "swap-proxy"]
+const ACTIONS: readonly AgentActionEvent["action"][] = ["restart", "restart-now", "swap-gateway"]
 
 function actionOf(value: unknown): AgentActionEvent["action"] | null {
   if (typeof value !== "string") return null
@@ -14,7 +14,7 @@ function actionOf(value: unknown): AgentActionEvent["action"] | null {
 function extractAgentAction(attrs: Record<string, unknown> | null): AgentActionEvent | null {
   const action = actionOf(attrs?.requestedAction)
   if (action === null) return null
-  if (action === "swap-proxy") return { action }
+  if (action === "swap-gateway") return { action }
   const interruptMessage =
     typeof attrs?.interruptMessage === "string" ? attrs.interruptMessage : null
   if (action === "restart-now") return { action, interruptMessage }

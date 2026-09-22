@@ -9,7 +9,7 @@ export const supervisorAgentActionTypes = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An action is restart or restart-now or swap-proxy.",
+      statement: "An action is restart or restart-now or swap-gateway.",
     },
     {
       decisionKind: "decision-kind/absence",
