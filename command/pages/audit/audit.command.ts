@@ -68,10 +68,6 @@ export const audit = {
       statement: "The round a run asks for names the commit that run needs judged.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A round underway at an older commit is opened beside rather than waited for.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "No run narrows which files the checks see.",
     },
