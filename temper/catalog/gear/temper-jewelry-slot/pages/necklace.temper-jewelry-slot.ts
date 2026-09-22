@@ -8,5 +8,5 @@ export const necklace = {
   key: "necklace",
   icon: "/resources/gearslot_neck.png",
   displayOrder: 0,
-  jewelryType: "necklace",
+  jewelryType: "temper-jewelry-type/necklace",
 } as const satisfies TemperJewelrySlot

@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"temper-jewelry-type.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-type/pages/necklace.temper-jewelry-type.ts"}
 {"propertySlug":"import","fileName":"temper-jewelry-type.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-type/pages/ring.temper-jewelry-type.ts"}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-jewelry-slot/properties/jewelry-type.relation-property.ts","id":"01a05fd1-d43c-7d49-81c6-a1c0aa409075"}

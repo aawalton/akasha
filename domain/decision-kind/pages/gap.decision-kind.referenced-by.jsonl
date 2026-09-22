@@ -477,7 +477,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.ts","id":"01a060b8-08c6-7381-8ac1-7788bdbe2c6c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/set-ids/set-ids.module.ts","id":"01a060d5-2f12-7886-bf98-e23a2afc639d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.text-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-jewelry-slot/properties/jewelry-type-id.text-property.ts","id":"01a05fd1-d43c-7d49-81c6-a1c0aa409075"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.text-property.ts","id":"01a05fd1-d439-7027-bdca-1804e14d6caf"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/reagent-names.text-property.ts","id":"01a05fd1-d43d-7249-ac3e-8dcf8869e271"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-class-id.text-property.ts","id":"01a05fd1-d43e-7ece-af53-4be28ed6067d"}
