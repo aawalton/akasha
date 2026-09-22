@@ -1,4 +1,5 @@
 import { dirname, join } from "node:path"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import {
   type Selector,
   textIn,
@@ -10,7 +11,7 @@ import {
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
   slugAt,
   textAt,
@@ -52,25 +53,35 @@ type Beside = {
   readonly text: string
 }
 
-const kindsFor = heldPerShadow((shadow: Shadow) => shadow.index.kindsUnder(CHANGE))
+type Reader = (path: string) => string | null
 
-function pageOfChange(path: string, shadow: Shadow): string | null {
+const KINDS = new WeakMap<Paged, ReadonlySet<string>>()
+
+function kindsFor(paged: Paged): ReadonlySet<string> {
+  const found = KINDS.get(paged)
+  if (found !== undefined) return found
+  const made = paged.index.kindsUnder(CHANGE)
+  KINDS.set(paged, made)
+  return made
+}
+
+function pageOfChange(path: string, paged: Paged): string | null {
   const said = partedIn(path)
-  if (said === null || !kindsFor(shadow).has(said.pageType)) return null
+  if (said === null || !kindsFor(paged).has(said.pageType)) return null
   if (said.sections.length === 0) return said.held === TS ? path : null
   if (said.sections.length !== 1 || said.sections[0] !== CODE) return null
   return join(dirname(path), `${said.slug}.${said.pageType}.${TS}`)
 }
 
-function reachingIn(change: Change, shadow: Shadow): readonly Reaching[] {
+function reachingIn(paths: readonly string[], read: Reader, paged: Paged): readonly Reaching[] {
   const seen = new Set<string>()
   const found: Reaching[] = []
-  for (const path of change.changed) {
-    const page = pageOfChange(path, shadow)
+  for (const path of paths) {
+    const page = pageOfChange(path, paged)
     if (page === null || seen.has(page)) continue
     seen.add(page)
-    if (change.after(page) === null) continue
-    const value = shadow.pageOf(page)
+    if (read(page) === null) continue
+    const value = paged.pageOf(page)
     if (value !== null) found.push({ path: page, value })
   }
   return found
@@ -123,12 +134,12 @@ function addressesIn(path: string, text: string, kinds: ReadonlySet<string>): re
   return found
 }
 
-function besideOf(change: Change, path: string, value: Value): Beside | null {
+function besideOf(read: Reader, path: string, value: Value): Beside | null {
   const held = textAt(value, CODE)
   if (held === null) return null
   const at = besideAt(path, CODE, held)
   if (at === null) return null
-  const text = textIn(change, at)
+  const text = read(at)
   return text === null ? null : { at, text }
 }
 
@@ -138,12 +149,12 @@ function actingIn(value: Value, path: string): Acting | null {
   return { slug: textAt(value, SLUG) ?? path, target }
 }
 
-function reachedBy(address: string, shadow: Shadow): Acting | null {
+function reachedBy(address: string, paged: Paged): Acting | null {
   const at = address.indexOf(PARTED_BY)
   if (at < 0) return null
-  const one = shadow.index.listedAt(address.slice(0, at), address.slice(at + 1))[0]
+  const one = paged.index.listedAt(address.slice(0, at), address.slice(at + 1))[0]
   if (one === undefined) return null
-  const value = shadow.pageOf(one.path)
+  const value = paged.pageOf(one.path)
   return value === null ? null : actingIn(value, one.path)
 }
 
@@ -161,14 +172,14 @@ function across(address: string, here: Acting, there: Acting): string {
   )
 }
 
-function reasonsFor(change: Change, shadow: Shadow, one: Reaching): readonly string[] {
-  const beside = besideOf(change, one.path, one.value)
+function reasonsFor(read: Reader, paged: Paged, one: Reaching): readonly string[] {
+  const beside = besideOf(read, one.path, one.value)
   if (beside === null) return []
   const here = actingIn(one.value, one.path)
   const said: string[] = []
   const seen = new Set<string>()
   const lines = new Set<number>()
-  for (const named of addressesIn(beside.at, beside.text, kindsFor(shadow))) {
+  for (const named of addressesIn(beside.at, beside.text, kindsFor(paged))) {
     if (named.address === null) {
       if (lines.has(named.line)) continue
       lines.add(named.line)
@@ -177,23 +188,35 @@ function reasonsFor(change: Change, shadow: Shadow, one: Reaching): readonly str
     }
     if (here === null || seen.has(named.address)) continue
     seen.add(named.address)
-    const there = reachedBy(named.address, shadow)
+    const there = reachedBy(named.address, paged)
     if (there === null || there.target === here.target) continue
     said.push(across(named.address, here, there))
   }
   return said
 }
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+export function judgedOver(
+  paths: readonly string[],
+  read: Reader,
+  paged: Paged
+): readonly Judged[] {
   const said: Judged[] = []
-  for (const one of reachingIn(change, shadow)) {
-    for (const reason of reasonsFor(change, shadow, one)) said.push({ path: one.path, reason })
+  for (const one of reachingIn(paths, read, paged)) {
+    for (const reason of reasonsFor(read, paged, one)) said.push({ path: one.path, reason })
   }
   return said
+}
+
+function readingOf(change: Change): Reader {
+  return (at) => textIn(change, at)
+}
+
+export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+  return judgedOver(change.changed, readingOf(change), shadow)
 }
 
 export const CHANGES: Selector<Reaching> = {
   named: "change pages and the code beside them",
   isInput: (path, shadow) => pageOfChange(path, shadow) !== null,
-  from: reachingIn,
+  from: (change, shadow) => reachingIn(change.changed, readingOf(change), shadow),
 }
