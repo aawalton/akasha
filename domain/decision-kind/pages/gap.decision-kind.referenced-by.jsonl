@@ -155,7 +155,6 @@
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/daily-tracking.text-property.ts","id":"01a05fd8-c30f-7127-badb-476efde0211e"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/end-time.text-property.ts","id":"01a05fd8-c30f-7276-a32d-648df6a73f30"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/relationships.text-property.ts","id":"01a05fd8-c30f-754a-bb2e-de6ec74d6e4a"}
-{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/session-owner.text-property.ts","id":"01a05fd8-c30f-7600-86de-1d33a70265bd"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/start-time.text-property.ts","id":"01a05fd8-c30f-7ca9-8fb4-9d1d3b574b45"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts","id":"01a05fd8-c30f-799b-aa06-004072744b31"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/to-do-slug.text-property.ts","id":"01a05fd8-c30f-7596-9f3a-87a4dbea614a"}

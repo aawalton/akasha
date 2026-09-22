@@ -32,7 +32,7 @@ export const sessions = {
     "text-property/difficulty-level",
     "text-property/end-time",
     "text-property/relationships",
-    "text-property/session-owner",
+    "relation-property/session-owner",
     "text-property/start-time",
   ],
   properties: [
@@ -46,7 +46,7 @@ export const sessions = {
     { pageProperty: "number-property/capacity-rate", required: false, many: false },
     { pageProperty: "text-property/relationships", required: false, many: false },
     { pageProperty: "instant-property/asserted-at", required: false, many: false },
-    { pageProperty: "text-property/session-owner", required: false, many: false },
+    { pageProperty: "relation-property/session-owner", required: false, many: false },
     { pageProperty: "number-property/breathing-sets", required: false, many: false },
   ],
   decisions: [
