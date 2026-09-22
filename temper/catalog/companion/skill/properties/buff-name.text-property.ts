@@ -5,7 +5,7 @@ export const buffName = {
   type: "page-type/text-property",
   slug: "buff-name",
   propertySlug: "buff",
-  definition: "the helpful effect an effect puts on whoever it lands on",
+  definition: "the helpful effect an effect puts on its target",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

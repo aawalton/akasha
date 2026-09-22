@@ -4,6 +4,6 @@ export const lostTreasureStart = {
   id: "01a06141-8005-7891-895c-923cbfaed196",
   type: "page-type/module",
   slug: "lost-treasure-start",
-  definition: "the order the parts of the add-on are brought up in",
+  definition: "the start order of the add-on's parts",
   code: "ts",
 } as const satisfies Module

@@ -5,7 +5,7 @@ export const esoCategoryIndex = {
   type: "page-type/number-property",
   slug: "eso-category-index",
   propertySlug: "eso-category-index",
-  definition: "the number The Elder Scrolls Online names a collectible category by",
+  definition: "a collectible category's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

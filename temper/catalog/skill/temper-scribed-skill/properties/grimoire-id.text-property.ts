@@ -5,7 +5,7 @@ export const grimoireId = {
   type: "page-type/text-property",
   slug: "grimoire-id",
   propertySlug: "grimoire-id",
-  definition: "the grimoire a scribed skill is scribed from",
+  definition: "a scribed skill's grimoire",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

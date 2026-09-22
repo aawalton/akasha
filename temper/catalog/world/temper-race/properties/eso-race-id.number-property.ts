@@ -5,7 +5,7 @@ export const esoRaceId = {
   type: "page-type/number-property",
   slug: "eso-race-id",
   propertySlug: "eso-race-id",
-  definition: "the number The Elder Scrolls Online names a race by",
+  definition: "a race's number in The Elder Scrolls Online",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

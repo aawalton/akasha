@@ -5,7 +5,7 @@ export const esoVampireStageId = {
   type: "page-type/number-property",
   slug: "eso-vampire-stage-id",
   propertySlug: "eso-vampire-stage-id",
-  definition: "the ability The Elder Scrolls Online marks a vampire stage by",
+  definition: "a vampire stage's marking ability in The Elder Scrolls Online",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

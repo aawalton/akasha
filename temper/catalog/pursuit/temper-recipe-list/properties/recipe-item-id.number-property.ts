@@ -5,7 +5,7 @@ export const recipeItemId = {
   type: "page-type/number-property",
   slug: "recipe-item-id",
   propertySlug: "recipe-item-id",
-  definition: "the game's own id for the item a recipe is learned from",
+  definition: "the game's own id for the item teaching a recipe",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

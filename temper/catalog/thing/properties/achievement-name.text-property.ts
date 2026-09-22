@@ -5,7 +5,7 @@ export const achievementName = {
   type: "page-type/text-property",
   slug: "achievement-name",
   propertySlug: "name",
-  definition: "the name an achievement is shown under",
+  definition: "an achievement's name",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

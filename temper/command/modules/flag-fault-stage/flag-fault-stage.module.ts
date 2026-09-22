@@ -4,7 +4,7 @@ export const flagFaultStage = {
   id: "01a07bca-476d-73d6-89a9-15c0d6172d43",
   type: "page-type/module",
   slug: "flag-fault-stage",
-  definition: "a fault said in one line, and a folder staged to write into",
+  definition: "a fault said in one line, and a folder staged for writing",
   code: "ts",
   test: "ts",
   decisions: [

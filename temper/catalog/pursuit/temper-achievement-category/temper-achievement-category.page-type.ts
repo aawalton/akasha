@@ -4,7 +4,7 @@ export const temperAchievementCategory = {
   id: "01a06168-7245-7000-bc3b-b40339a88d31",
   type: "page-type/page-type",
   slug: "temper-achievement-category",
-  definition: "a heading the game files a player's achievements under",
+  definition: "a game heading over a player's achievements",
   extends: ["page-type/temper-pursuit-thing"],
   parts: [
     "number-property/achievement-points",

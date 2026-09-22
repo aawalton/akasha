@@ -5,7 +5,7 @@ export const skillEffectType = {
   type: "page-type/text-property",
   slug: "skill-effect-type",
   propertySlug: "type",
-  definition: "what a thing a companion's skill does is a case of",
+  definition: "the kind of thing a companion's skill does",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

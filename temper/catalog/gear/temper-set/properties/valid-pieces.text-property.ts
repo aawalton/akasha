@@ -5,7 +5,7 @@ export const validPieces = {
   type: "page-type/text-property",
   slug: "valid-pieces",
   propertySlug: "valid",
-  definition: "the pieces a set is made in",
+  definition: "a set's pieces",
   maxLength: 100,
   nameFormat: null,
   decisions: [

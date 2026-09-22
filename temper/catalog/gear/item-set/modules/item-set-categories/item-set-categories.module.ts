@@ -4,7 +4,7 @@ export const itemSetCategories = {
   id: "01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed",
   type: "page-type/module",
   slug: "item-set-categories",
-  definition: "the category and subcategory the game hangs an item set collection under",
+  definition: "the game's category and subcategory for an item set collection",
   code: "ts",
   decisions: [
     {

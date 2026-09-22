@@ -5,7 +5,7 @@ export const lineRankNeeded = {
   type: "page-type/number-property",
   slug: "line-rank-needed",
   propertySlug: "line-rank-needed",
-  definition: "the skill line rank a skill is learned from",
+  definition: "the skill line rank teaching a skill",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

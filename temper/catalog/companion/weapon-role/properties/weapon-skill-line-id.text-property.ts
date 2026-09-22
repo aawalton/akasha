@@ -5,7 +5,7 @@ export const weaponSkillLineId = {
   type: "page-type/text-property",
   slug: "weapon-skill-line-id",
   propertySlug: "weapon-skill-line-id",
-  definition: "the skill line a weapon pairing draws from",
+  definition: "a weapon pairing's skill line",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

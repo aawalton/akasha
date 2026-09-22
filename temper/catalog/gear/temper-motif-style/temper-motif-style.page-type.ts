@@ -4,7 +4,7 @@ export const temperMotifStyle = {
   id: "01a05fd1-d433-75e8-b089-3c870c7d6917",
   type: "page-type/page-type",
   slug: "temper-motif-style",
-  definition: "a crafting style a piece is made in the look of",
+  definition: "a crafting style giving a piece its look",
   extends: ["page-type/temper-catalog-thing"],
   parts: [
     "number-property/collection-index",
