@@ -33,6 +33,11 @@ export const dallaResourceManagement = {
         "A guard is an agent hook, and hook-dispatch spawns each one and records a cost row against that hook's page. No hook states either ceiling and nothing judges the run. The seconds recorded are the dispatcher's child seconds and so the guard's, while the peak is the dispatcher's own mark rather than the guard's. A guard runs on every tool call of every seat. clear-reads sweeps the read record at every session start, opening 35,216 files in 31,591 folders to read one moment from each.",
     },
     {
+      statement: "Every deploy an agent runs has a processor and a memory ceiling of its own.",
+      workingMemory:
+        "The deploy command records one cost row against the page it put up and states neither ceiling, so a deploy is measured and never judged. A dry run records nothing. A deploy reaches a machine rather than the repository, so a run past a ceiling has already left its work on that machine, and refusing what the run answered undoes none of it.",
+    },
+    {
       statement:
         "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
     },
@@ -96,11 +101,6 @@ export const dallaResourceManagement = {
         "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
     },
     { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
-    {
-      statement: "Every deploy an agent runs has a processor and a memory ceiling of its own.",
-      workingMemory:
-        "The deploy command records one cost row against the page it put up and states neither ceiling, so a deploy is measured and never judged. A dry run records nothing. A deploy reaches a machine rather than the repository, so a run past a ceiling has already left its work on that machine, and refusing what the run answered undoes none of it.",
-    },
     {
       statement: "Every command an agent runs has a processor and a memory ceiling of its own.",
       workingMemory:
