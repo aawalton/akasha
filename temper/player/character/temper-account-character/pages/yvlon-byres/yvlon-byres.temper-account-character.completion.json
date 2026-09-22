@@ -1169,13 +1169,13 @@
       }
     },
     "2612": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 29,
+            "numCompleted": 30,
             "numRequired": 30
           }
         }
