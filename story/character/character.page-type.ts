@@ -7,7 +7,11 @@ export const character = {
   definition: "someone a story happens to",
   pluralSlug: "characters",
   extends: ["page-type/page"],
-  parts: ["relation-property/character-story", "page-type/character-player"],
+  parts: [
+    "relation-property/character-story",
+    "page-type/character-player",
+    "page-type/character-other",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/character-story", required: true, many: false },
