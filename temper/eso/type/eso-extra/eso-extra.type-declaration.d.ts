@@ -30,6 +30,15 @@ declare const zo_strtrim: (this: void, text: string) => string
 
 declare const SI_COLLECTIBLE_NAME_FORMATTER: number
 
+declare const CT_SLIDER: CtSlider
+
+declare const ITEM_STYLE_CHAPTER_MAX_VALUE: number
+
+declare function FormatAchievementLinkTimestamp(
+  this: void,
+  timestamp?: string | number
+): LuaMultiReturn<[date: string, time: string]>
+
 interface ZoObjectClass {
   Initialize: (this: void, self: object, ...args: unknown[]) => void
 }

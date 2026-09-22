@@ -152,10 +152,6 @@ declare function GetTrackedIsAssisted(
   param1?: number,
   param2?: number
 ): boolean
-declare function FormatAchievementLinkTimestamp(
-  this: void,
-  timestamp?: string | number
-): LuaMultiReturn<[date: string, time: string]>
 declare function GetAbilityProgressionInfo(
   this: void,
   progressionIndex?: number
