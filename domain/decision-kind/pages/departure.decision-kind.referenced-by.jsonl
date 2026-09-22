@@ -3387,7 +3387,7 @@
 {"propertySlug":"decision-kind","path":"story/game/design-entry/properties/superseded-entry.relation-property.ts","id":"01a0c93e-5e1e-76a3-bc34-ec69b13733e2"}
 {"propertySlug":"decision-kind","path":"story/game/encounter/game-encounter.page-type.ts","id":"01a0c646-f4a2-7d92-926e-fd2c7fef9eb1"}
 {"propertySlug":"decision-kind","path":"story/game/encounter/properties/dropped-reward.text-property.ts","id":"01a0c647-f617-7073-b780-e750fb447f14"}
-{"propertySlug":"decision-kind","path":"story/game/encounter/properties/encounter-entities.relation-property.ts","id":"01a0c647-77ab-7f56-928d-9a09312c406d"}
+{"propertySlug":"decision-kind","path":"story/game/encounter/properties/encounter-entities.multi-relation-property.ts","id":"01a0c647-77ab-7f56-928d-9a09312c406d"}
 {"propertySlug":"decision-kind","path":"story/game/encounter/properties/encounter-gates.record-property.ts","id":"01a0c648-61be-7877-89a6-1452a1e9b7aa"}
 {"propertySlug":"decision-kind","path":"story/game/encounter/properties/gate-multiplier.number-property.ts","id":"01a0c648-438e-75d3-8dc0-9756a5727a38"}
 {"propertySlug":"decision-kind","path":"story/game/encounter/properties/readable-trait.text-property.ts","id":"01a0c647-b128-79cf-ac79-1fc82beaa792"}

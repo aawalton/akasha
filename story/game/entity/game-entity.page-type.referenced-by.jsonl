@@ -45,6 +45,6 @@
 {"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/the-violet-hour/entities/the-violet-hour-natalie.game-entity.ts"}
 {"propertySlug":"import","fileName":"game-entity.page-type.types.ts","path":"story/game/pages/the-violet-hour/entities/the-violet-hour-zadi.game-entity.ts"}
 {"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
-{"propertySlug":"target-page-type","path":"story/game/encounter/properties/encounter-entities.relation-property.ts","id":"01a0c647-77ab-7f56-928d-9a09312c406d"}
+{"propertySlug":"target-page-type","path":"story/game/encounter/properties/encounter-entities.multi-relation-property.ts","id":"01a0c647-77ab-7f56-928d-9a09312c406d"}
 {"propertySlug":"target-page-type","path":"story/game/entity/properties/bound-entity.relation-property.ts","id":"01a0c63b-cd7b-7e55-a800-340fe1e73f90"}
 {"propertySlug":"target-page-type","path":"story/game/properties/player-entity.relation-property.ts","id":"01a0c672-20f9-7a90-bb66-260cb787c093"}

@@ -45,7 +45,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"panel-place","unique":null,"uniquePropertySlug":null,"slug":"drawn-in","propertySlug":"place","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-account-character","unique":null,"uniquePropertySlug":null,"slug":"effective-character","propertySlug":"effective-character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"email-rule-code-forward-to","propertySlug":"forward-to","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-entity","unique":null,"uniquePropertySlug":null,"slug":"encounter-entities","propertySlug":"entities","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-location","unique":null,"uniquePropertySlug":null,"slug":"encounter-location","propertySlug":"location","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-mechanic","unique":null,"uniquePropertySlug":null,"slug":"entity-dice","propertySlug":"dice","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"strength-exercise-implement","unique":null,"uniquePropertySlug":null,"slug":"equipment","propertySlug":"equipment","fileName":null,"folderName":null}

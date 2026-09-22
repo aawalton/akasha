@@ -1,7 +1,7 @@
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { DroppedReward } from "akasha/story/game/encounter/properties/dropped-reward.text-property.types.ts"
-import type { EncounterEntities } from "akasha/story/game/encounter/properties/encounter-entities.relation-property.types.ts"
+import type { EncounterEntities } from "akasha/story/game/encounter/properties/encounter-entities.multi-relation-property.types.ts"
 import type { EncounterGates } from "akasha/story/game/encounter/properties/encounter-gates.record-property.types.ts"
 import type { EncounterLocation } from "akasha/story/game/encounter/properties/encounter-location.relation-property.types.ts"
 import type { EncounterTrigger } from "akasha/story/game/encounter/properties/encounter-trigger.text-property.types.ts"
