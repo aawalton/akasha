@@ -492,54 +492,21 @@ export const CONSOLIDATION_MIGRATIONS = [
     mode: "append",
     runFor: "Temper",
     spec: {
-      absorbedFileBase: "LibChatMessage",
-      absorbedGlobal: "LibChatMessageSettings",
-      targetFileBase: "Temper",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "Temper",
-    spec: {
-      absorbedFileBase: "LibChatMessage",
-      absorbedGlobal: "LibChatMessageHistory",
-      targetFileBase: "Temper",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "Temper",
-    spec: {
       absorbedFileBase: "LibAsync",
       absorbedGlobal: "AsyncSavedVars",
       targetFileBase: "Temper",
     },
   },
   {
-    mode: "append",
+    mode: "rename-in-place",
     runFor: "Temper",
-    spec: {
-      absorbedFileBase: "LibScrollableMenu",
-      absorbedGlobal: "LibScrollableMenu_SavedVars",
-      targetFileBase: "Temper",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "Temper",
-    spec: {
-      absorbedFileBase: "LibDebugLogger",
-      absorbedGlobal: "LibDebugLoggerSettings",
-      targetFileBase: "Temper",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "Temper",
-    spec: {
-      absorbedFileBase: "LibDebugLogger",
-      absorbedGlobal: "LibDebugLoggerLog",
-      targetFileBase: "Temper",
-    },
+    fileBase: "Temper",
+    renames: [
+      [/^LibChatMessageSettings\s*=/m, "TemperChatMessageSettings ="],
+      [/^LibChatMessageHistory\s*=/m, "TemperChatMessageHistory ="],
+      [/^LibScrollableMenu_SavedVars\s*=/m, "TemperScrollableMenu_SavedVars ="],
+      [/^LibDebugLoggerSettings\s*=/m, "TemperDebugLoggerSettings ="],
+      [/^LibDebugLoggerLog\s*=/m, "TemperDebugLoggerLog ="],
+    ],
   },
 ] as const satisfies readonly ConsolidationMigration[]
