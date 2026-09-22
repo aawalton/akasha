@@ -4,7 +4,7 @@ export const housingHolderTypes = {
   id: "01a06113-b7ce-7f67-beb7-a7a3ee79e25d",
   type: "page-type/module",
   slug: "housing-holder-types",
-  definition: "the shape of the holder every housing module hangs a function on",
+  definition: "the shape of every housing module's function holder",
   code: "ts",
   decisions: [
     {

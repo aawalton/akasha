@@ -4,7 +4,7 @@ export const guildHistory = {
   id: "01a0c707-6e29-746b-b07d-01dff2a8933a",
   type: "page-type/domain",
   slug: "guild-history",
-  definition: "the guild event stream a player's own store sales are read out of",
+  definition: "the guild event stream holding a player's own store sales",
   parts: [
     "type-declaration/sales-history-controls",
     "module/sales-history-adapter",

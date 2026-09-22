@@ -4,7 +4,7 @@ export const leadsGlobal = {
   id: "01a06274-b08a-7c2e-bec4-949ada692ff8",
   type: "page-type/module",
   slug: "leads-global",
-  definition: "the table the lead window's markup and other add-ons call into",
+  definition: "the global table the lead window's markup and other add-ons call",
   code: "ts",
   decisions: [
     {

@@ -4,6 +4,6 @@ export const tweakTypes = {
   id: "01a06115-1ad8-7915-9fab-a12529c26b4d",
   type: "page-type/module",
   slug: "tweak-types",
-  definition: "the shapes the interface tweaks keep their own values in",
+  definition: "the shapes of the interface tweaks' own values",
   code: "ts",
 } as const satisfies Module

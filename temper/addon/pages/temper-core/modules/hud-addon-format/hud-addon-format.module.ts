@@ -4,7 +4,7 @@ export const hudAddonFormat = {
   id: "01a061c5-18dd-7001-884c-e18901d8f626",
   type: "page-type/module",
   slug: "hud-addon-format",
-  definition: "the words a bar cell reads a rate, a delay and a span in",
+  definition: "the wording a bar cell gives a rate, a delay and a span",
   code: "ts",
   decisions: [
     {

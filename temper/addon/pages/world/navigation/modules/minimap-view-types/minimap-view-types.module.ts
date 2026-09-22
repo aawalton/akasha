@@ -4,7 +4,7 @@ export const minimapViewTypes = {
   id: "01a06269-2b11-7ab4-91ef-f78f20b801bc",
   type: "page-type/module",
   slug: "minimap-view-types",
-  definition: "the minimap's loose views of the game tables the minimap reaches into",
+  definition: "the minimap's loose views of the game tables it reads",
   code: "ts",
   decisions: [
     {
