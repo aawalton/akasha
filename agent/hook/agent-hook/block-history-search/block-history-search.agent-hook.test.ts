@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import {
+  judgedFor,
   refusalFor,
   refusalIn,
   SCOPE,
@@ -12,6 +13,19 @@ import { payloadOf } from "akasha/agent/hook/test-fixtures/payload/hook-payload.
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-history-search.agent-hook.code.ts")
+
+test("the judgement this hook exports refuses what its rule refuses", () => {
+  const said = judgedFor({ tool_input: { command: "git log -S one" } })
+
+  expect(parseRefusal(said.out).reason).toContain("block-history-search refused this call.")
+})
+
+test("the judgement this hook exports leaves a call its rule lets through alone", () => {
+  const said = judgedFor({ tool_input: { command: "git log --oneline" } })
+
+  expect(said.out).toBe("")
+  expect(said.err).toBe("")
+})
 
 function searching(command: string): boolean {
   const call = gitCallIn(command)
