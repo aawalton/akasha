@@ -4,7 +4,7 @@ export const seatName = {
   id: "01a09c43-0bf5-7991-a2dc-650268201505",
   type: "page-type/domain",
   slug: "seat-name",
-  definition: "the name a seat goes by",
+  definition: "a seat's name",
   parts: [
     "module/compose-seat-name",
     "module/initiative-seat-name",
