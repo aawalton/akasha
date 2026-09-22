@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/lorebooks-public-api-declarations/lorebooks-public-api-declarations.type-declaration.d.ts"}
 {"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-init/lorebooks-init.module.code.ts"}
 {"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library-filter/lorebooks-library-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-library-rows/lorebooks-library-rows.module.code.ts"}
@@ -8,7 +7,6 @@
 {"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-init/lorebooks-pins-init.module.code.ts"}
 {"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts"}
 {"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins/lorebooks-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-public-api/lorebooks-public-api.module.code.ts"}
 {"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-reports-eidetic/lorebooks-reports-eidetic.module.code.ts"}
 {"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-reports/lorebooks-reports.module.code.ts"}
 {"propertySlug":"import","fileName":"lorebooks-data-accessors.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-slash-command/lorebooks-slash-command.module.code.ts"}

@@ -1,5 +1,3 @@
-import "akasha/temper/catalog/world/lorebook/modules/lorebooks-public-api/lorebooks-public-api.module.code.ts"
-
 import { ADDON_NAME } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-constants/lorebooks-constants.module.code.ts"
 import { loreBooksGetMissingEideticBooks } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-data-accessors/lorebooks-data-accessors.module.code.ts"
 import {
