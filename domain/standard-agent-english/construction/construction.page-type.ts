@@ -4,7 +4,7 @@ export const construction = {
   id: "01a0c57b-2a6d-776f-861f-adfa84782205",
   type: "page-type/page-type",
   slug: "construction",
-  definition: "one way a phrase kind is written",
+  definition: "a way a phrase kind is written",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "construction" },
     { partOfSpeech: "part-of-speech/noun", spelling: "constructions" },

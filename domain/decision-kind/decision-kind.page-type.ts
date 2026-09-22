@@ -4,7 +4,7 @@ export const decisionKind = {
   id: "01a04e11-9f98-775b-846d-a9985a5ebd21",
   type: "page-type/page-type",
   slug: "decision-kind",
-  definition: "which sort one decision is",
+  definition: "which sort a decision is",
   parts: [
     "decision-kind/absence",
     "decision-kind/constraint",

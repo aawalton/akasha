@@ -4,7 +4,7 @@ export const holding = {
   id: "01a04df0-eccd-725e-9745-6888f36628bf",
   type: "page-type/module",
   slug: "holding",
-  definition: "the hold one landing takes over a worktree while it judges, writes and commits",
+  definition: "the hold a landing takes over a worktree while it judges, writes and commits",
   code: "ts",
   test: "ts",
   decisions: [

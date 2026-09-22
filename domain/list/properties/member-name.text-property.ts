@@ -5,7 +5,7 @@ export const memberName = {
   type: "page-type/text-property",
   slug: "member-name",
   propertySlug: "member-name",
-  definition: "what one member of a list is called",
+  definition: "what a member of a list is called",
   maxLength: 60,
   nameFormat: null,
   types: "ts",

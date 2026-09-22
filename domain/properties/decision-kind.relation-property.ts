@@ -5,7 +5,7 @@ export const decisionKind = {
   type: "page-type/relation-property",
   slug: "decision-kind",
   propertySlug: "decision-kind",
-  definition: "which sort of decision one entry is",
+  definition: "which sort of decision an entry is",
   targetPageType: "page-type/decision-kind",
   decisions: [
     {

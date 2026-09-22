@@ -4,7 +4,7 @@ export const commonLanguageTerm = {
   id: "01a07c6e-d2b5-7a30-95da-e46d29cd2e27",
   type: "page-type/page-type",
   slug: "common-language-term",
-  definition: "one word or phrase with its ordinary sense",
+  definition: "a word or phrase with its ordinary sense",
   extends: ["page-type/allowed-term"],
   decisions: [
     {

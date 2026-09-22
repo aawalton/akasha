@@ -4,7 +4,7 @@ export const promiseAllSettled = {
   id: "01a08c58-f256-740f-adb3-d7598ffc807a",
   type: "page-type/lualib-helper",
   slug: "promise-all-settled",
-  definition: "one promise answering how each of many turned out",
+  definition: "a promise answering how each of many turned out",
   code: "ts",
   luaExport: "__TS__PromiseAllSettled",
 } as const satisfies LualibHelper

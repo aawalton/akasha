@@ -4,7 +4,7 @@ export const warrantSaying = {
   id: "01a095e0-7f50-7b43-ba43-173e2cd13a40",
   type: "page-type/module",
   slug: "warrant-saying",
-  definition: "what a refusal says of one reading owed, composed from the warrant that owed it",
+  definition: "what a refusal says of a reading owed, composed from the warrant that owed it",
   code: "ts",
   test: "ts",
   decisions: [

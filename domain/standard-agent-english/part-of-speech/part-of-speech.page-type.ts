@@ -4,7 +4,7 @@ export const partOfSpeech = {
   id: "01a0c564-e79a-7e94-a65a-e5acd2dacc9f",
   type: "page-type/page-type",
   slug: "part-of-speech",
-  definition: "one job a word does in a phrase",
+  definition: "a job a word does in a phrase",
   parts: [
     "part-of-speech/noun",
     "relation-property/part-of-speech",
