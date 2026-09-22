@@ -34,7 +34,7 @@ export function initializeSavedVariables(): SavedVariablesData {
 
 function getSavedVariables(): SavedVariablesData {
   if (savedVarsInstance === undefined) {
-    throw new Error("TemperLeads saved variables not initialized")
+    throw new Error("TemperWorldLeads saved variables not initialized")
   }
   return savedVarsInstance
 }

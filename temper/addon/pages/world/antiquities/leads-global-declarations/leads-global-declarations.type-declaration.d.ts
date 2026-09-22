@@ -1,4 +1,4 @@
-interface TemperLeadsApi {
+interface TemperWorldLeadsApi {
   toggleRDL: (this: void, extra?: string) => undefined
   SetupDropdown: (this: void, control: Control) => undefined
   DropdownShowTooltip: (
@@ -24,4 +24,4 @@ interface TemperLeadsApi {
   getAntiquityDigZoneName: (this: void, antiquityId: number) => string | undefined
 }
 
-declare var TemperLeads: TemperLeadsApi | undefined
+declare var TemperWorldLeads: TemperWorldLeadsApi | undefined

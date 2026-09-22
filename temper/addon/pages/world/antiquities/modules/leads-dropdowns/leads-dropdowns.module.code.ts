@@ -102,7 +102,7 @@ export function createInventoryDropdown(dropdownName: DropdownName): undefined {
   const controlName = string.format("%s%s", "TemperLeads_Dropdown", dropdownName)
   const control = WINDOW_MANAGER.GetControlByName<DropdownContainerControl>(controlName)
   if (control === undefined) {
-    throw new Error(string.format("TemperLeads dropdown control missing: %s", controlName))
+    throw new Error(string.format("TemperWorldLeads dropdown control missing: %s", controlName))
   }
   const validChoices = getChoices(dropdownName)
   const choicesTooltips = getChoicesTooltips(dropdownName)

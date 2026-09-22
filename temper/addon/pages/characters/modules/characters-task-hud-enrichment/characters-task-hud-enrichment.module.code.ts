@@ -211,7 +211,7 @@ interface AntiquityLeadsView {
 }
 
 interface LeadsHost {
-  TemperLeads?: AntiquityLeadsView
+  TemperWorldLeads?: AntiquityLeadsView
 }
 
 function asLeadsHost(this: void, value: unknown): LeadsHost {
@@ -219,7 +219,7 @@ function asLeadsHost(this: void, value: unknown): LeadsHost {
 }
 
 function resolveAntiquityDigZone(this: void, antiquityId: number): string | undefined {
-  return asLeadsHost(globalThis).TemperLeads?.getAntiquityDigZoneName(antiquityId)
+  return asLeadsHost(globalThis).TemperWorldLeads?.getAntiquityDigZoneName(antiquityId)
 }
 
 export function getAntiquityLeadEnrichment(cardId: string): AntiquityLeadEnrichment {

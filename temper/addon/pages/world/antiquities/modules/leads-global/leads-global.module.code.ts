@@ -22,7 +22,7 @@ import {
 import { STRINGS } from "akasha/temper/addon/pages/world/antiquities/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
 import "akasha/temper/addon/pages/world/antiquities/leads-global-declarations/leads-global-declarations.type-declaration.d.ts"
 
-globalThis.TemperLeads = {
+globalThis.TemperWorldLeads = {
   toggleRDL: toggleLeadsWindow,
   SetupDropdown: setupDropdown,
   DropdownShowTooltip: dropdownShowTooltip,

@@ -15,36 +15,36 @@
 							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="17" offsetY="7"/>
 							<Dimensions x="220" y="28" />
 							<OnMouseEnter>
-								TemperLeads.AlertsMouseEnter(self)
+								TemperWorldLeads.AlertsMouseEnter(self)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.AlertsMouseExit(self)
+								TemperWorldLeads.AlertsMouseExit(self)
 							</OnMouseExit>
 						</Label>
 						<Control name="TemperLeads_DropdownMajor" inherits="ZO_ScrollableComboBox" mouseEnabled="true" >
 							<Anchor point="TOPLEFT"   relativeTo="$(parent)Alerts" relativePoint="TOPRIGHT" offsetX="15" offsetY="-2"/>
 							<Dimensions x="275" y="28" />
-							<OnShow>    TemperLeads.SetupDropdown(self)</OnShow>
-							<OnMouseEnter>  TemperLeads.DropdownShowTooltip(self, "major", true)</OnMouseEnter>
-							<OnMouseExit>  TemperLeads.DropdownHideTooltip(self)</OnMouseExit>
+							<OnShow>    TemperWorldLeads.SetupDropdown(self)</OnShow>
+							<OnMouseEnter>  TemperWorldLeads.DropdownShowTooltip(self, "major", true)</OnMouseEnter>
+							<OnMouseExit>  TemperWorldLeads.DropdownHideTooltip(self)</OnMouseExit>
 						</Control>
 						<Control name="TemperLeads_DropdownZone" inherits="ZO_ScrollableComboBox" mouseEnabled="true" >
 							<Anchor point="TOPLEFT"   relativeTo="TemperLeads_DropdownMajor" relativePoint="TOPRIGHT" offsetX="69"/>
 							<Dimensions x="274" y="28" />
-							<OnShow>    TemperLeads.SetupDropdown(self)</OnShow>
-							<OnMouseEnter>  TemperLeads.DropdownShowTooltip(self, "zone", true)</OnMouseEnter>
-							<OnMouseExit>  TemperLeads.DropdownHideTooltip(self)</OnMouseExit>
+							<OnShow>    TemperWorldLeads.SetupDropdown(self)</OnShow>
+							<OnMouseEnter>  TemperWorldLeads.DropdownShowTooltip(self, "zone", true)</OnMouseEnter>
+							<OnMouseExit>  TemperWorldLeads.DropdownHideTooltip(self)</OnMouseExit>
 						</Control>
 						<Control name="TemperLeads_DropdownSetType" inherits="ZO_ScrollableComboBox" mouseEnabled="true">
 							<Anchor point="TOPLEFT"   relativeTo="TemperLeads_DropdownZone" relativePoint="TOPRIGHT" offsetX="69"/>
 							<Dimensions x="275" y="28" />
-							<OnShow>    TemperLeads.SetupDropdown(self)</OnShow>
-							<OnMouseEnter>  TemperLeads.DropdownShowTooltip(self, "settype", true)</OnMouseEnter>
-							<OnMouseExit>  TemperLeads.DropdownHideTooltip(self)</OnMouseExit>
+							<OnShow>    TemperWorldLeads.SetupDropdown(self)</OnShow>
+							<OnMouseEnter>  TemperWorldLeads.DropdownShowTooltip(self, "settype", true)</OnMouseEnter>
+							<OnMouseExit>  TemperWorldLeads.DropdownHideTooltip(self)</OnMouseExit>
 						</Control>
 						<Button name="$(parent)Close">
                             <Anchor point="TOPRIGHT"  offsetX="-5" offsetY="5"/>
-                            <OnClicked>TemperLeads.toggleRDL()</OnClicked>
+                            <OnClicked>TemperWorldLeads.toggleRDL()</OnClicked>
                             <Dimensions x="25" y="25" />
                             <Textures normal="/esoui/art/buttons/decline_up.dds" pressed="/esoui/art/buttons/decline_down.dds" mouseOver="/esoui/art/buttons/decline_over.dds" />
                         </Button>
@@ -58,14 +58,14 @@
 							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="7" offsetY="7"/>
 							<Dimensions x="220" y="28" />
 							<OnMouseEnter>
-								TemperLeads.LeadfoundMouseEnter(self)
+								TemperWorldLeads.LeadfoundMouseEnter(self)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.LeadfoundMouseExit(self)
+								TemperWorldLeads.LeadfoundMouseExit(self)
 							</OnMouseExit>
 							<OnMouseUp>
 								if upInside then
-									TemperLeads.transmogrify()
+									TemperWorldLeads.transmogrify()
 								end
 							</OnMouseUp>
 						</Label>
@@ -76,10 +76,10 @@
 							<Controls>
 								<EditBox name="TemperLeadsLocationBox"  inherits="ZO_DefaultEditForBackdrop" ZO_EditDefaultText="" maxInputCharacters="300">
 									<OnMouseEnter>
-										TemperLeads.LocationBoxMouseEnter(self)
+										TemperWorldLeads.LocationBoxMouseEnter(self)
 									</OnMouseEnter>
 									<OnMouseExit>
-										TemperLeads.LocationBoxMouseExit(self)
+										TemperWorldLeads.LocationBoxMouseExit(self)
 									</OnMouseExit>
 								</EditBox>
 							</Controls>
@@ -93,104 +93,104 @@
 
                         <Control name="$(parent)Lead" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperLeads.SORTHEADER_NAMES[1], "Lead", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[1], "Lead", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
                            </OnInitialized>
 							<OnMouseEnter>
-								TemperLeads.HeaderMouseEnter(self, 1)
+								TemperWorldLeads.HeaderMouseEnter(self, 1)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.HeaderMouseExit(self, 1)
+								TemperWorldLeads.HeaderMouseExit(self, 1)
 							</OnMouseExit>
                             <Anchor point="TOPLEFT" />
                             <Dimensions x="300" y="32" />
                         </Control>
                         <Control name="$(parent)Zone" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperLeads.SORTHEADER_NAMES[2], "Zone", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[2], "Zone", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
                            </OnInitialized>
 							<OnMouseEnter>
-								TemperLeads.HeaderMouseEnter(self, 2)
+								TemperWorldLeads.HeaderMouseEnter(self, 2)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.HeaderMouseExit(self, 2)
+								TemperWorldLeads.HeaderMouseExit(self, 2)
 							</OnMouseExit>
                             <Anchor point="TOPLEFT" relativeTo="$(parent)Lead" relativePoint="TOPRIGHT"/>
                             <Dimensions x="170" y="32" />
                         </Control>
                        <Control name="$(parent)Location" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperLeads.SORTHEADER_NAMES[3], "Location", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[3], "Location", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
                            </OnInitialized>
 							<OnMouseEnter>
-								TemperLeads.HeaderMouseEnter(self, 3)
+								TemperWorldLeads.HeaderMouseEnter(self, 3)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.HeaderMouseExit(self, 3)
+								TemperWorldLeads.HeaderMouseExit(self, 3)
 							</OnMouseExit>
                             <Anchor point="TOPLEFT" relativeTo="$(parent)Zone" relativePoint="TOPRIGHT"/>
                             <Dimensions x="220" y="32" />
                         </Control>
 						<Control name="$(parent)Diff" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperLeads.SORTHEADER_NAMES[4], "Diff", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[4], "Diff", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
                            </OnInitialized>
 							<OnMouseEnter>
-								TemperLeads.HeaderMouseEnter(self, 4)
+								TemperWorldLeads.HeaderMouseEnter(self, 4)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.HeaderMouseExit(self, 4)
+								TemperWorldLeads.HeaderMouseExit(self, 4)
 							</OnMouseExit>
                             <Anchor point="TOPLEFT" relativeTo="$(parent)Location" relativePoint="TOPRIGHT" />
                             <Dimensions x="64" y="32" />
                         </Control>
 						<Control name="$(parent)Lore" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperLeads.SORTHEADER_NAMES[5], "Lore", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[5], "Lore", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
                            </OnInitialized>
 							<OnMouseEnter>
-								TemperLeads.HeaderMouseEnter(self, 5)
+								TemperWorldLeads.HeaderMouseEnter(self, 5)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.HeaderMouseExit(self, 5)
+								TemperWorldLeads.HeaderMouseExit(self, 5)
 							</OnMouseExit>
                             <Anchor point="TOPLEFT" relativeTo="$(parent)Diff" relativePoint="TOPRIGHT" />
                             <Dimensions x="64" y="32" />
                         </Control>
 						<Control name="$(parent)Dug" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperLeads.SORTHEADER_NAMES[6], "Dug", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[6], "Dug", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
                            </OnInitialized>
 							<OnMouseEnter>
-								TemperLeads.HeaderMouseEnter(self, 6)
+								TemperWorldLeads.HeaderMouseEnter(self, 6)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.HeaderMouseExit(self, 6)
+								TemperWorldLeads.HeaderMouseExit(self, 6)
 							</OnMouseExit>
                             <Anchor point="TOPLEFT" relativeTo="$(parent)Lore" relativePoint="TOPRIGHT" />
                             <Dimensions x="64" y="32" />
                         </Control>
 						<Control name="$(parent)Set" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperLeads.SORTHEADER_NAMES[7], "Set", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[7], "Set", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
                             </OnInitialized>
 							<OnMouseEnter>
-								TemperLeads.HeaderMouseEnter(self, 7)
+								TemperWorldLeads.HeaderMouseEnter(self, 7)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.HeaderMouseExit(self, 7)
+								TemperWorldLeads.HeaderMouseExit(self, 7)
 							</OnMouseExit>
                             <Anchor point="TOPLEFT" relativeTo="$(parent)Dug" relativePoint="TOPRIGHT" />
                             <Dimensions x="220" y="32" />
                         </Control>
                         <Control name="$(parent)Expiration" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperLeads.SORTHEADER_NAMES[8], "Expiration", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[8], "Expiration", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
                             </OnInitialized>
 							<OnMouseEnter>
-								TemperLeads.HeaderMouseEnter(self, 8)
+								TemperWorldLeads.HeaderMouseEnter(self, 8)
 							</OnMouseEnter>
 							<OnMouseExit>
-								TemperLeads.HeaderMouseExit(self, 8)
+								TemperWorldLeads.HeaderMouseExit(self, 8)
 							</OnMouseExit>
                             <Anchor point="TOPLEFT" relativeTo="$(parent)Set" relativePoint="TOPRIGHT" />
                             <Dimensions x="110" y="32" />
@@ -207,13 +207,13 @@
             <Dimensions y="30" />
             <Anchor point="RIGHT" relativeTo="$(parent)" />
             <OnMouseEnter>
-                TemperLeads.RowMouseEnter(self)
+                TemperWorldLeads.RowMouseEnter(self)
             </OnMouseEnter>
             <OnMouseExit>
-                TemperLeads.RowMouseExit(self)
+                TemperWorldLeads.RowMouseExit(self)
             </OnMouseExit>
 			<OnMouseUp>
-				TemperLeads.RowMouseUp(self)
+				TemperWorldLeads.RowMouseUp(self)
 			</OnMouseUp>
             <Controls>
                 <Label name="$(parent)Lead" font="ZoFontWinH4" wrapMode="ELLIPSIS">

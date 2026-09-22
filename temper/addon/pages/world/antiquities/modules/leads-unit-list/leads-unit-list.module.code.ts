@@ -70,7 +70,7 @@ leadsUnitList.SORT_KEYS = {
 function getScrollData(list: Control): ZoScrollListDataEntry<LeadsUnitData>[] {
   const scrollData = ZO_ScrollList_GetDataList<LeadsUnitData>(list)
   if (scrollData === undefined) {
-    throw new Error("TemperLeads scroll data list missing")
+    throw new Error("TemperWorldLeads scroll data list missing")
   }
   return scrollData
 }
@@ -78,7 +78,7 @@ function getScrollData(list: Control): ZoScrollListDataEntry<LeadsUnitData>[] {
 function getRowLabel(control: LeadsRowControl, suffix: string): LeadsRowLabel {
   const label = GetControl<LeadsRowLabel>(control, suffix)
   if (label === undefined) {
-    throw new Error(string.format("TemperLeads row label missing: %s", suffix))
+    throw new Error(string.format("TemperWorldLeads row label missing: %s", suffix))
   }
   return label
 }
@@ -343,7 +343,7 @@ export function createUnitList(): UnitList {
 
 export function getUnitList(): UnitList {
   if (unitListInstance === undefined) {
-    throw new Error("TemperLeads unit list not initialized")
+    throw new Error("TemperWorldLeads unit list not initialized")
   }
   return unitListInstance
 }
