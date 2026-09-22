@@ -5,5 +5,5 @@ export const mechanic = {
   type: "page-type/domain",
   slug: "mechanic",
   definition: "a rule a game runs the same way every time",
-  parts: ["domain/attribute", "domain/resource"],
+  parts: ["domain/attribute", "domain/resource", "domain/skill"],
 } as const satisfies Domain
