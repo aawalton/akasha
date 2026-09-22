@@ -6,6 +6,7 @@ import {
   waysIn,
 } from "akasha/domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   recordsIn,
   textAt,
@@ -25,6 +26,10 @@ const SPELLING = "spelling"
 
 const PART_OF_SPEECH = "partOfSpeech"
 
+const SCOPE = "scope"
+
+const SLUG = "slug"
+
 const PHRASE_KIND = "phraseKind"
 
 const WRITTEN_FROM = "writtenFrom"
@@ -38,16 +43,51 @@ export function ruleIn(value: Value): Rule | null {
   return { phraseKind, writtenFrom }
 }
 
-export function spelledIn(value: Value, lexicon: Map<string, Set<string>>): undefined {
+export type Spellings = {
+  readonly global: Lexicon
+  readonly scoped: ReadonlyMap<string, Lexicon>
+}
+
+type Held = Map<string, Set<string>>
+
+function heldAt(scoped: Map<string, Held>, scope: string): Held {
+  const already = scoped.get(scope)
+  if (already !== undefined) return already
+  const made: Held = new Map()
+  scoped.set(scope, made)
+  return made
+}
+
+export function spelledIn(value: Value, global: Held, scoped: Map<string, Held>): undefined {
   for (const one of recordsIn(value[SPELLINGS])) {
     const spelling = textAt(one, SPELLING)
     const partOfSpeech = textAt(one, PART_OF_SPEECH)
     if (spelling === null || partOfSpeech === null) continue
+    const said = textAt(one, SCOPE)
+    const lexicon = said === null ? global : heldAt(scoped, slugIn(said) ?? said)
     const already = lexicon.get(spelling)
     if (already === undefined) lexicon.set(spelling, new Set([partOfSpeech]))
     else already.add(partOfSpeech)
   }
   return undefined
+}
+
+export function lexiconAt(spellings: Spellings, slug: string): Lexicon {
+  const reaching: Lexicon[] = []
+  for (const [scope, lexicon] of spellings.scoped) {
+    if (slug === scope || slug.startsWith(`${scope}-`)) reaching.push(lexicon)
+  }
+  if (reaching.length === 0) return spellings.global
+  const found: Held = new Map()
+  for (const [spelling, parts] of spellings.global) found.set(spelling, new Set(parts))
+  for (const lexicon of reaching) {
+    for (const [spelling, parts] of lexicon) {
+      const already = found.get(spelling)
+      if (already === undefined) found.set(spelling, new Set(parts))
+      else for (const part of parts) already.add(part)
+    }
+  }
+  return found
 }
 
 export function rulesIn(index: Answering): readonly Rule[] {
@@ -60,12 +100,15 @@ export function rulesIn(index: Answering): readonly Rule[] {
   return found
 }
 
-export function lexiconIn(index: Answering): Lexicon {
-  const lexicon = new Map<string, Set<string>>()
+export function lexiconIn(index: Answering): Spellings {
+  const global: Held = new Map()
+  const scoped = new Map<string, Held>()
   for (const pageTypeSlug of index.pageTypesIn()) {
-    for (const [, value] of index.valuesByPath(pageTypeSlug)) spelledIn(value, lexicon)
+    for (const [, value] of index.valuesByPath(pageTypeSlug)) {
+      spelledIn(value, global, scoped)
+    }
   }
-  return lexicon
+  return { global, scoped }
 }
 
 export function whyRefused(
@@ -86,10 +129,11 @@ export function reasonsIn(
   path: string,
   value: Value,
   rules: readonly Rule[],
-  lexicon: Lexicon
+  spellings: Spellings
 ): readonly Judged[] {
   const phrase = textAt(value, DEFINITION)
   if (phrase === null) return []
+  const lexicon = lexiconAt(spellings, textAt(value, SLUG) ?? "")
   const why = whyRefused(phrase, rules, lexicon, START)
   return why === null ? [] : [{ path, reason: why }]
 }

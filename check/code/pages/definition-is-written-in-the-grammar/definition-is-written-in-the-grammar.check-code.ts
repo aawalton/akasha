@@ -38,6 +38,11 @@ export const definitionIsWrittenInTheGrammar = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges a property other than a definition.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A spelling stating a scope is read only on the pages whose slug opens with that scope's slug.",
+    },
   ],
   decision: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 120 },

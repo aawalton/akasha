@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  lexiconAt,
   reasonsIn,
   ruleIn,
   START,
@@ -32,6 +33,13 @@ const LEXICON = new Map([
   ["rock", new Set([NOUN])],
 ])
 
+const SPELLINGS = { global: LEXICON, scoped: new Map() }
+
+const SCOPED = {
+  global: LEXICON,
+  scoped: new Map([["rock-cluster", new Map([["boulder", new Set([NOUN])]])]]),
+}
+
 test("a construction is read as a rule, and a page missing either half is left out", () => {
   expect(ruleIn({ phraseKind: NOUN_PHRASE, writtenFrom: [NOUN_GROUP] })).toEqual({
     phraseKind: NOUN_PHRASE,
@@ -42,11 +50,39 @@ test("a construction is read as a rule, and a page missing either half is left o
 })
 
 test("a page's spellings are gathered under the words they spell", () => {
-  const lexicon = new Map<string, Set<string>>()
-  spelledIn({ spellings: [{ partOfSpeech: NOUN, spelling: "rock" }] }, lexicon)
-  spelledIn({ spellings: [{ partOfSpeech: DETERMINER, spelling: "rock" }] }, lexicon)
-  spelledIn({ spellings: "not a list" }, lexicon)
-  expect(lexicon.get("rock")).toEqual(new Set([NOUN, DETERMINER]))
+  const global = new Map<string, Set<string>>()
+  const scoped = new Map<string, Map<string, Set<string>>>()
+  spelledIn({ spellings: [{ partOfSpeech: NOUN, spelling: "rock" }] }, global, scoped)
+  spelledIn({ spellings: [{ partOfSpeech: DETERMINER, spelling: "rock" }] }, global, scoped)
+  spelledIn({ spellings: "not a list" }, global, scoped)
+  expect(global.get("rock")).toEqual(new Set([NOUN, DETERMINER]))
+  expect(scoped.size).toBe(0)
+})
+
+test("a spelling stating a scope is gathered under that scope rather than the global words", () => {
+  const global = new Map<string, Set<string>>()
+  const scoped = new Map<string, Map<string, Set<string>>>()
+  const spellings = [{ partOfSpeech: NOUN, spelling: "boulder", scope: "domain/rock-cluster" }]
+  spelledIn({ spellings }, global, scoped)
+  expect(global.has("boulder")).toBe(false)
+  expect(scoped.get("rock-cluster")?.get("boulder")).toEqual(new Set([NOUN]))
+})
+
+test("a scoped word is read on the pages its scope reaches and nowhere else", () => {
+  expect(lexiconAt(SCOPED, "rock-cluster").has("boulder")).toBe(true)
+  expect(lexiconAt(SCOPED, "rock-cluster-machine").has("boulder")).toBe(true)
+  expect(lexiconAt(SCOPED, "rock-clustering").has("boulder")).toBe(false)
+  expect(lexiconAt(SCOPED, "rock").has("boulder")).toBe(false)
+})
+
+test("a page no scope reaches is handed the global words alone", () => {
+  expect(lexiconAt(SCOPED, "rock")).toBe(LEXICON)
+})
+
+test("a scoped word is read beside the global words rather than in place of them", () => {
+  const found = lexiconAt(SCOPED, "rock-cluster")
+  expect(found.get("rock")).toEqual(new Set([NOUN]))
+  expect(found.get("boulder")).toEqual(new Set([NOUN]))
 })
 
 test("a phrase written one way is let through", () => {
@@ -67,11 +103,11 @@ test("a phrase written more than one way is refused as ambiguous", () => {
 })
 
 test("a page stating no definition is judged nothing", () => {
-  expect(reasonsIn("somewhere.ts", {}, RULES, LEXICON)).toEqual([])
+  expect(reasonsIn("somewhere.ts", {}, RULES, SPELLINGS)).toEqual([])
 })
 
 test("a definition is judged from the phrase kind the definition property names", () => {
-  const said = reasonsIn("somewhere.ts", { definition: "a rock" }, RULES, LEXICON)
+  const said = reasonsIn("somewhere.ts", { definition: "a rock" }, RULES, SPELLINGS)
   expect(said).toHaveLength(1)
   expect(said[0]?.reason ?? "").toContain(START)
 })
