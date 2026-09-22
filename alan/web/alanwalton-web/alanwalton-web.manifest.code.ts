@@ -18,7 +18,7 @@ import {
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { placedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { alanwaltonWeb } from "akasha/infrastructure/service/cluster/pages/alanwalton-web/alanwalton-web.service-cluster.ts"
 
 const NAMESPACE = alanwaltonWeb.namespace
@@ -61,11 +61,11 @@ function webDeploymentYaml(): string {
       template: {
         metadata: {
           annotations: {
-            "checksum/s3-creds": secretChecksum(NAMESPACE, S3_CREDS_SECRET_NAME, [
+            "checksum/s3-creds": placedSecretChecksum(S3_CREDS_SECRET_NAME, [
               "access_key",
               "secret_key",
             ]),
-            "checksum/secrets": secretChecksum(NAMESPACE, SECRET_NAME),
+            "checksum/secrets": placedSecretChecksum(SECRET_NAME),
           },
           labels: RESOURCE_LABELS,
         },

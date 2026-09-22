@@ -4,7 +4,7 @@ import {
   workloadClassMemberSelector,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { mintedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import {
   configmapYaml,
   policyConfigmapYaml,
@@ -88,7 +88,10 @@ function statefulsetYaml(): string {
         metadata: {
           labels: CONTROL_PLANE_LABELS,
           annotations: {
-            "checksum/tls": secretChecksum(NAMESPACE, TLS_SECRET_NAME, ["tls.crt", "tls.key"]),
+            "checksum/tls": mintedSecretChecksum(NAMESPACE, TLS_SECRET_NAME, [
+              "tls.crt",
+              "tls.key",
+            ]),
           },
         },
         spec: {

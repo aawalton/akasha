@@ -4,7 +4,7 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-s
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { placedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { grafana } from "akasha/infrastructure/service/cluster/pages/grafana/grafana.service-cluster.ts"
 
 const NAMESPACE = grafana.namespace
@@ -131,7 +131,7 @@ function deploymentYaml(dashboards: Readonly<Record<string, string>>): string {
         metadata: {
           annotations: {
             "checksum/config": configChecksum({ ...DATASOURCES_DATA, ...dashboards }),
-            "checksum/grafana-secrets": secretChecksum(NAMESPACE, SECRETS_NAME, SECRETS_KEYS),
+            "checksum/grafana-secrets": placedSecretChecksum(SECRETS_NAME, SECRETS_KEYS),
           },
           labels: RESOURCE_LABELS,
         },

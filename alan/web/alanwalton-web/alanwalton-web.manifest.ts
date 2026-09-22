@@ -23,7 +23,8 @@ export const alanwaltonWeb = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every key that secret carries is hashed, the pod reading them all.",
+      statement:
+        "Every key the secret pages place into that secret is hashed, the pod reading them all.",
     },
   ],
 } as const satisfies Manifest

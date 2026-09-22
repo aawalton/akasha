@@ -5,7 +5,7 @@ import {
   workloadClassMemberSelector,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { placedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { tunnelConfigData } from "akasha/infrastructure/cluster/manifest/modules/tunnel-config/tunnel-config.module.code.ts"
 import { cloudflared } from "akasha/infrastructure/service/cluster/pages/cloudflared/cloudflared.service-cluster.ts"
 
@@ -74,7 +74,7 @@ function deploymentYaml(data: Readonly<Record<string, string>>): string {
         metadata: {
           annotations: {
             "checksum/config": configChecksum(data),
-            "checksum/creds": secretChecksum(NAMESPACE, CREDS_NAME, CREDS_KEYS),
+            "checksum/creds": placedSecretChecksum(CREDS_NAME, CREDS_KEYS),
           },
           labels: DEPLOYMENT_LABELS,
         },

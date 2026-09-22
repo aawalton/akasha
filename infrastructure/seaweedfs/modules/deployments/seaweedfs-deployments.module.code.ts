@@ -1,6 +1,6 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
-import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { placedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import {
   COMPONENT_FILER,
   COMPONENT_MASTER,
@@ -246,7 +246,7 @@ export function s3GatewayDeploymentYaml(): string {
       template: {
         metadata: {
           annotations: {
-            "checksum/s3-config": secretChecksum(NAMESPACE, CREDS_NAME, [S3_CONFIG_KEY]),
+            "checksum/s3-config": placedSecretChecksum(CREDS_NAME, [S3_CONFIG_KEY]),
           },
           labels: componentLabels(COMPONENT_S3_GATEWAY),
         },
