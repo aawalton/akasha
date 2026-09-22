@@ -17,7 +17,7 @@ import "akasha/temper/addon/pages/lib-sets/lib-sets-constant-shapes/lib-sets-con
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 const isConsole = lib.IsConsole
 

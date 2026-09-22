@@ -6,7 +6,7 @@ import "akasha/temper/addon/pages/lib-sets/lib-sets-set-type-ids/lib-sets-set-ty
 import "akasha/temper/addon/pages/lib-sets/modules/lib-sets-const-dropmechanics/lib-sets-const-dropmechanics.module.code.ts"
 import "akasha/temper/addon/pages/lib-sets/modules/lib-sets-const-settype-ids/lib-sets-const-settype-ids.module.code.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 const checkIfPTSAPIVersionIsLive = lib.checkIfPTSAPIVersionIsLive
 

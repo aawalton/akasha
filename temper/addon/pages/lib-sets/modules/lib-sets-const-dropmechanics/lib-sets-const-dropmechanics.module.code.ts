@@ -7,7 +7,8 @@ import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-drop-mechanic-ids/lib-sets-drop-mechanic-ids.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-sets/lib-sets-misc-ids/lib-sets-misc-ids.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
+
 const G = asGlobalTable(globalThis)
 
 const checkIfPTSAPIVersionIsLive = lib.checkIfPTSAPIVersionIsLive

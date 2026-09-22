@@ -18,7 +18,7 @@ import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-shared-globals/eso-lib-sets-shared-globals.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 function toboolean(this: void, value: unknown): unknown {
   const trueStrings = new LuaMap<string | number, boolean>()

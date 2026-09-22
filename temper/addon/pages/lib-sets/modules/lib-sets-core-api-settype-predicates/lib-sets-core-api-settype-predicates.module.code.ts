@@ -7,7 +7,7 @@ import { asTrialSetEntryOpt } from "akasha/temper/addon/pages/lib-sets/modules/l
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 type SetIdTable = { [setId: number]: unknown }
 function setTypeTable(this: void, name: string): SetIdTable {

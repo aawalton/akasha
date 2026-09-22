@@ -7,7 +7,7 @@ import { safeReturnAPItable } from "akasha/temper/addon/pages/lib-sets/modules/l
 import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
-const lib = LibSets
+import { lib } from "akasha/temper/addon/pages/lib-sets/modules/lib-sets-lib/lib-sets-lib.module.code.ts"
 
 function checkIfSetsAreLoadedProperly(this: void, setId?: number): boolean {
   return lib.checkIfSetsAreLoadedProperly(setId)
