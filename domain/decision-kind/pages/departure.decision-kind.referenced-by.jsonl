@@ -2775,7 +2775,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/replicas.number-property.ts","id":"01a05b26-f8b6-7a90-82f8-63a141d99dab"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/resource-kind.text-property.ts","id":"01a05a41-58c4-774b-900e-126b3c832eb0"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/resource-name.text-property.ts","id":"01a05a41-58c5-7070-8223-2b245078d3b9"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/secrets.relation-property.ts","id":"01a081fd-c5ac-72ac-acff-a780301c30e4"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/secrets.multi-relation-property.ts","id":"01a081fd-c5ac-72ac-acff-a780301c30e4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/service-cluster-config.file-property.ts","id":"01a07c92-3daf-72f1-8010-749415723ba4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/service-cluster-schedule.text-property.ts","id":"01a06587-c73c-74e9-8542-4de33139539f"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/properties/service-manifest.multi-relation-property.ts","id":"01a07317-ae51-7f69-a24e-d94859315637"}

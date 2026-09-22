@@ -18,7 +18,7 @@ export const serviceCluster = {
     "module/workload-deploying",
     "number-property/container-port",
     "number-property/replicas",
-    "relation-property/secrets",
+    "multi-relation-property/secrets",
     "multi-relation-property/service-manifest",
     "service-cluster/alanwalton-atlas",
     "service-cluster/alanwalton-web",
@@ -79,7 +79,7 @@ export const serviceCluster = {
     },
     { pageProperty: "file-property/service-cluster-config", required: false, many: false },
     {
-      pageProperty: "relation-property/secrets",
+      pageProperty: "multi-relation-property/secrets",
       required: false,
       many: true,
       maxCount: null,

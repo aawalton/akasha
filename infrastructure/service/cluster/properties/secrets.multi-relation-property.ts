@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const secrets = {
   id: "01a081fd-c5ac-72ac-acff-a780301c30e4",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "secrets",
   propertySlug: "secrets",
   definition: "a secret a workload reads",
@@ -27,4 +27,4 @@ export const secrets = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty
