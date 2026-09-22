@@ -4,7 +4,7 @@ export const deploySimulatorInstalling = {
   id: "01a08e07-611c-798a-bc99-55b321247e50",
   type: "page-type/module",
   slug: "deploy-simulator-installing",
-  definition: "one iOS app built on the mac and installed on a simulator there",
+  definition: "an iOS app built on the mac and installed on a simulator there",
   code: "ts",
   test: "ts",
   decisions: [

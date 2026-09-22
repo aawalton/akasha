@@ -4,7 +4,7 @@ export const codePathBetween = {
   id: "01a06558-3a62-7fa9-90c6-0d6dc35875f0",
   type: "page-type/module",
   slug: "code-path-between",
-  definition: "the folder a path sits in, and the way from one folder to a path",
+  definition: "the folder a path sits in, and the way from a folder to a path",
   code: "ts",
   decisions: [
     {

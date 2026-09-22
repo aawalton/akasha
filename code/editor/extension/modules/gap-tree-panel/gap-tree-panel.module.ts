@@ -4,7 +4,7 @@ export const gapTreePanel = {
   id: "01a0b7a0-c25d-7f18-85bd-47f61888ed1b",
   type: "page-type/module",
   slug: "gap-tree-panel",
-  definition: "the Gaps panel brought up, and the gaps drawn into it from one file",
+  definition: "the Gaps panel brought up, and the gaps drawn into it from a file",
   code: "ts",
   decisions: [
     {

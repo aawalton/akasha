@@ -4,7 +4,7 @@ export const changeRunning = {
   id: "01a0818f-bf8a-746c-8cff-6a16f214e396",
   type: "page-type/module",
   slug: "change-running",
-  definition: "one mechanical change run for the edits it answers",
+  definition: "a mechanical change run for the edits it answers",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

@@ -4,7 +4,7 @@ export const pageTreePanel = {
   id: "01a06867-dbcb-79af-8a3f-3679e67742a9",
   type: "page-type/module",
   slug: "page-tree-panel",
-  definition: "the Pages panel brought up, and the pages drawn into it from one file",
+  definition: "the Pages panel brought up, and the pages drawn into it from a file",
   code: "ts",
   decisions: [
     {

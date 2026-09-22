@@ -4,7 +4,7 @@ export const bashCallWeighing = {
   id: "01a0925a-998e-7907-84cc-2bd7c9823491",
   type: "page-type/shell-script",
   slug: "bash-call-weighing",
-  definition: "what weighs one bash call from inside that call's own shell",
+  definition: "what weighs a bash call from inside that call's own shell",
   shell: "sh",
   sourced: true,
   decisions: [

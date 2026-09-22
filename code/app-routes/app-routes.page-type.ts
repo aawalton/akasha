@@ -4,7 +4,7 @@ export const appRoutes = {
   id: "01a08bde-996d-7a1b-9c3e-1dba85f9060d",
   type: "page-type/page-type",
   slug: "app-routes",
-  definition: "the routes one router app serves",
+  definition: "the routes a router app serves",
   parts: ["code-file-property/app-layout"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "code-file-property/app-layout", required: false, many: false }],

@@ -4,7 +4,7 @@ export const recordField = {
   id: "01a08e04-e54a-7ebc-acbf-ba372a5763fe",
   type: "page-type/module",
   slug: "record-field",
-  definition: "what one field holds on a value that may be no record at all",
+  definition: "what a field holds on a value that may be no record at all",
   code: "ts",
   decisions: [
     {

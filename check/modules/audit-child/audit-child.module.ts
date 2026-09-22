@@ -4,7 +4,7 @@ export const auditChild = {
   id: "01a0a064-3e4a-7000-ad1d-00f2d5f33c09",
   type: "page-type/module",
   slug: "audit-child",
-  definition: "one check's audit run in a process of its own, answered into a file it is handed",
+  definition: "a check's audit run in a process of its own, answered into a file it is handed",
   code: "ts",
   test: "ts",
   decisions: [

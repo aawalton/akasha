@@ -5,7 +5,7 @@ export const said = {
   type: "page-type/text-property",
   slug: "said",
   propertySlug: "said",
-  definition: "how one thing a command takes is spelled on the command line",
+  definition: "how a thing a command takes is spelled on the command line",
   maxLength: 100,
   nameFormat: null,
   decisions: [

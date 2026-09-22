@@ -4,7 +4,7 @@ export const deployAddonInstalling = {
   id: "01a090bd-a195-7917-b992-02729e839291",
   type: "page-type/module",
   slug: "deploy-addon-installing",
-  definition: "one ESO addon compiled and put where the game reads it",
+  definition: "an ESO addon compiled and put where the game reads it",
   code: "ts",
   decisions: [
     {

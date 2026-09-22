@@ -4,7 +4,7 @@ export const checkCost = {
   id: "01a06dc1-5cd3-7e3e-b1c7-133ae3f5ec38",
   type: "page-type/module",
   slug: "check-cost",
-  definition: "what one run cost, appended beside the page of what ran",
+  definition: "what a run cost, appended beside the page of what ran",
   code: "ts",
   test: "ts",
   decisions: [

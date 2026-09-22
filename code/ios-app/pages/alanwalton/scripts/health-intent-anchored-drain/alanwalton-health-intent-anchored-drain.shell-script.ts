@@ -4,7 +4,7 @@ export const alanwaltonHealthIntentAnchoredDrain = {
   id: "01a0595b-ef59-76d9-9265-f63a151d0fc6",
   type: "page-type/shell-script",
   slug: "alanwalton-health-intent-anchored-drain",
-  definition: "the Swift draining one metric from its anchor",
+  definition: "the Swift draining a metric from its anchor",
   shell: "sh",
   sourced: true,
   decisions: [

@@ -4,7 +4,7 @@ export const pageAnswering = {
   id: "01a0958c-22fc-7986-9f8d-a89cff5c57f4",
   type: "page-type/module",
   slug: "page-answering",
-  definition: "the one way into a command, its call read against that command's own page",
+  definition: "the way into a command, its call read against that command's own page",
   code: "ts",
   test: "ts",
   decisions: [

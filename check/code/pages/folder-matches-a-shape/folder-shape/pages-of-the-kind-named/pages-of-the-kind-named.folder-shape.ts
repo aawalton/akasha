@@ -5,7 +5,7 @@ export const pagesOfTheKindNamed = {
   type: "page-type/folder-shape",
   slug: "pages-of-the-kind-named",
   definition:
-    "the shape of a folder named for one page type, under that type's plural, with its pages",
+    "the shape of a folder named for a page type, under that type's plural, with its pages",
   code: "ts",
   test: "ts",
   enabled: true,

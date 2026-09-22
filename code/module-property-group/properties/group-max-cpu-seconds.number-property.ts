@@ -5,7 +5,7 @@ export const groupMaxCpuSeconds = {
   type: "page-type/number-property",
   slug: "group-max-cpu-seconds",
   propertySlug: "max-cpu-seconds",
-  definition: "the most processor time one run of a group's code may spend, in seconds",
+  definition: "the most processor time a run of a group's code may spend, in seconds",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
