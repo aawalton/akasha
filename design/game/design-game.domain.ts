@@ -5,5 +5,5 @@ export const designGame = {
   type: "page-type/domain",
   slug: "design-game",
   definition: "how progression in games and in gamified life is built",
-  parts: ["page-type/achievement", "page-type/drive"],
+  parts: ["domain/mechanic", "page-type/achievement", "page-type/drive"],
 } as const satisfies Domain
