@@ -5,7 +5,7 @@ export const pluralSlug = {
   type: "page-type/text-property",
   slug: "plural-slug",
   propertySlug: "plural-slug",
-  definition: "the name many pages of a page type are gathered under",
+  definition: "the name under which many pages of a page type are gathered",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

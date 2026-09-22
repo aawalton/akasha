@@ -4,7 +4,7 @@ export const pathClaiming = {
   id: "01a08205-e6f0-73c3-9c32-f05a518dd3f3",
   type: "page-type/module",
   slug: "path-claiming",
-  definition: "the paths a page's value claims, and the page a path is claimed by",
+  definition: "the paths a page's value claims, and the page claiming a path",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

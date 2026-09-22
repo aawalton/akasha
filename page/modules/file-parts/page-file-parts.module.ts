@@ -4,7 +4,7 @@ export const pageFileParts = {
   id: "01a0610b-6431-783b-94f0-006f071dfd63",
   type: "page-type/module",
   slug: "page-file-parts",
-  definition: "the ordered files a property of a page is held in",
+  definition: "the ordered files of a page's property",
   code: "ts",
   test: "ts",
   decisions: [

@@ -5,7 +5,7 @@ export const members = {
   type: "page-type/multi-relation-property",
   slug: "members",
   propertySlug: "members",
-  definition: "a slug naming a property a one-of property admits a value of",
+  definition: "a slug naming a property whose value a one-of property admits",
   targetPageType: "page-type/page-property",
   types: "ts",
 } as const satisfies MultiRelationProperty

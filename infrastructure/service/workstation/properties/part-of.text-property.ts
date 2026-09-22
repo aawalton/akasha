@@ -5,7 +5,7 @@ export const partOf = {
   type: "page-type/text-property",
   slug: "part-of",
   propertySlug: "part-of",
-  definition: "the unit this unit stops and restarts along with",
+  definition: "the unit this unit follows in stopping and restarting",
   maxLength: 100,
   nameFormat: null,
   decisions: [

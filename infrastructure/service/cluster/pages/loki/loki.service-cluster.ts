@@ -4,7 +4,7 @@ export const loki = {
   id: "01a06816-68b2-782a-9997-af90e9fdae8a",
   type: "page-type/service-cluster",
   slug: "loki",
-  definition: "the store every log is shipped to and queried out of",
+  definition: "the store holding every log and answering every log query",
   resourceKind: "Deployment",
   namespace: "loki",
   resourceName: "loki",

@@ -4,7 +4,7 @@ export const network = {
   id: "01a0658b-0f02-7e55-94d1-d612c0ed6115",
   type: "page-type/domain",
   slug: "network",
-  definition: "what a program reaches other machines over",
+  definition: "the way a program reaches other machines",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "network" },
     { partOfSpeech: "part-of-speech/noun", spelling: "networks" },

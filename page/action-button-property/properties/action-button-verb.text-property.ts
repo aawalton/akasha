@@ -5,7 +5,7 @@ export const actionButtonVerb = {
   type: "page-type/text-property",
   slug: "action-button-verb",
   propertySlug: "verb-id",
-  definition: "the verb an action button runs over the page it is drawn on",
+  definition: "the verb an action button runs over the page on which it is drawn",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

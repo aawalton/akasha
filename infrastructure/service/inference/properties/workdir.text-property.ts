@@ -5,7 +5,7 @@ export const workdir = {
   type: "page-type/text-property",
   slug: "workdir",
   propertySlug: "workdir",
-  definition: "the folder a service's command runs in",
+  definition: "the folder of a service's command",
   maxLength: 200,
   nameFormat: null,
   decisions: [

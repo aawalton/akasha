@@ -5,7 +5,7 @@ export const basePort = {
   type: "page-type/number-property",
   slug: "base-port",
   propertySlug: "base-port",
-  definition: "the port a web app's dev server counts up from",
+  definition: "the port from which a web app's dev server counts up",
   max: 65535,
   decisions: [
     {

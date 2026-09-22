@@ -4,8 +4,7 @@ export const selectOptionCreate = {
   id: "01a05b92-a9c7-7db1-a085-4bc1d77ce702",
   type: "page-type/module",
   slug: "select-option-create",
-  definition:
-    "an option a select value takes, by its id, the label it shows and the color it draws in",
+  definition: "an option a select value takes, by its id, the label it shows and its color",
   code: "ts",
   decisions: [
     {
