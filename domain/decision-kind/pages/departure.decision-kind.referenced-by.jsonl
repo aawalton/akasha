@@ -4936,6 +4936,7 @@
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/temper-value.domain.ts","id":"01a0b760-9c78-7f15-bcd1-231796bec651"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-declaration-chunking/eso-declaration-chunking.module.ts","id":"01a0ca7b-b401-7208-9822-ee9af5a08724"}
+{"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-declaration-narrowing/eso-declaration-narrowing.module.ts","id":"01a0ca7d-ccfa-7d68-ad8a-cc8ae5982e94"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-declaration-text/eso-declaration-text.module.ts","id":"01a0673e-3ddf-7003-bbda-94a1b1824f32"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts","id":"01a0673e-3ddf-7001-acad-9b0751ef4567"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.ts","id":"01a0686c-fd2c-7000-ae86-fd9462cb29d6"}
