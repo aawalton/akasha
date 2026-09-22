@@ -21,6 +21,8 @@
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.test.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-achievement-tally/completion-achievement-tally.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-achievement-tally/completion-achievement-tally.module.test.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.test.ts"}

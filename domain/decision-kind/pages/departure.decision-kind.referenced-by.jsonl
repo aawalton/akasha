@@ -5336,6 +5336,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.ts","id":"01a06121-f0d0-722c-807d-db30e0d75f2d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.ts","id":"01a06358-4f7c-7797-8df7-6ca950b9bf86"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.ts","id":"01a06358-4f7c-710b-83bf-54c15075a3ce"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-achievement-tally/completion-achievement-tally.module.ts","id":"01a0c97d-26ba-7368-9891-829c322ea135"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.ts","id":"01a06358-4f7c-77e7-a32e-20a4046028cd"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.ts","id":"01a06358-4f7c-7d6d-8881-1e898924e3ff"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-progress/completion-cadwell-progress.module.ts","id":"01a06358-4f7c-7c27-bdbb-10ed9f4e7578"}

@@ -16,6 +16,15 @@ export const completionCardCheckers = {
       statement: "A card stating no picker is one leaf at the empty path.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An achievement card answers a path naming one achievement and no other path.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "Which achievements a category holds is on the catalog pages rather than reachable here.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A branch the picker offers is counted again in the whole card.",
     },

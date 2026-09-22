@@ -18,6 +18,7 @@ export const temperPlayerCompletion = {
     "module/completion-account-union-progress",
     "module/completion-account-zone-poi-union",
     "module/completion-achievement-progress",
+    "module/completion-achievement-tally",
     "module/completion-antiquity-lore-progress",
     "module/completion-cadwell-lookup",
     "module/completion-cadwell-progress",

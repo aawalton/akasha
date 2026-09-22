@@ -5963,6 +5963,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-achievement-tally/completion-achievement-tally.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cadwell-progress/completion-cadwell-progress.module.ts"}
