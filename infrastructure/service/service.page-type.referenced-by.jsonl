@@ -16,6 +16,5 @@
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"infrastructure/service/web-app/web-app.page-type.types.ts"}
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"infrastructure/service/workstation/service-workstation.page-type.types.ts"}
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"temper/addon/temper-addon.page-type.types.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/service-watching-shares-one-launch-path-with-every-service-it-reports-on.finding.ts","id":"01a09b1d-8727-706c-a3dc-317ca8272682"}
 {"propertySlug":"parts","path":"infrastructure/infrastructure.domain.ts","id":"01a0658b-0f02-735b-af6a-28559398ee59"}
 {"propertySlug":"target-page-type","path":"infrastructure/service/properties/deploys-after.multi-relation-property.ts","id":"01a09575-f21d-7413-814c-80ef1a0b4ba9"}
