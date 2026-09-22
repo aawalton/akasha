@@ -76,7 +76,7 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tree is walked once for a round rather than once for each check.",
+      statement: "No round walks the tree, each check collecting what that check judges.",
     },
     {
       decisionKind: "decision-kind/departure",
