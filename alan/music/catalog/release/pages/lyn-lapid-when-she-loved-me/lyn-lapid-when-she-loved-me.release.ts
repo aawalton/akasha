@@ -4,15 +4,14 @@ export const lynLapidWhenSheLovedMe = {
   id: "01a0676a-d730-7058-9441-f78a1666f390",
   type: "page-type/release",
   slug: "lyn-lapid-when-she-loved-me",
-  title: "When She Loved Me",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 3.128483,
-  ownProgress: 3.128483,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2021-05-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidWhenSheLovedMe = {
       externalLink: "https://open.spotify.com/album/3nGZB91emd3OVE25ra3Ovp",
     },
   ],
+  title: "When She Loved Me",
 } as const satisfies Release

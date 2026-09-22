@@ -4,7 +4,7 @@ export const lynLapidOneGoodThing = {
   id: "01a0c95e-aa20-7acf-af88-43e721ab8ffd",
   type: "page-type/release",
   slug: "lyn-lapid-one-good-thing",
-  ownLength: 3.2678166666666666,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,

@@ -4,14 +4,13 @@ export const kDaMore = {
   id: "01a0676a-d725-7000-954f-056dac84a608",
   type: "page-type/release",
   slug: "k-da-more",
-  title: "MORE",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/k-da"],
   position: 0,
-  ownLength: 3.618133,
-  ownProgress: 3.618133,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-10-28",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const kDaMore = {
       externalLink: "https://open.spotify.com/album/5v3ALaT37zXgVHr3MZTVVx",
     },
   ],
+  title: "MORE",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const lilithMaxAmIFree = {
   id: "01a0676a-d716-7037-91aa-3aff8bbcaf0d",
   type: "page-type/release",
   slug: "lilith-max-am-i-free",
-  title: "Am I Free",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,
-  ownLength: 2.380767,
-  ownProgress: 2.380767,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-11-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lilithMaxAmIFree = {
       externalLink: "https://open.spotify.com/album/1jKhdbNfkHIYzm2NYGXpLI",
     },
   ],
+  title: "Am I Free",
 } as const satisfies Release

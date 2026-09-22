@@ -4,7 +4,7 @@ export const lilithMaxSalemWitch = {
   id: "01a0c95d-fbd8-7bbb-91dd-a094296bcb03",
   type: "page-type/release",
   slug: "lilith-max-salem-witch",
-  ownLength: 2.876133333333333,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,

@@ -4,15 +4,14 @@ export const lynLapidProducerMan = {
   id: "01a0676a-d727-7026-933e-aa53a850d836",
   type: "page-type/release",
   slug: "lyn-lapid-producer-man",
-  title: "Producer Man",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 2.3612,
-  ownProgress: 2.3612,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2020-10-14",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidProducerMan = {
       externalLink: "https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4",
     },
   ],
+  title: "Producer Man",
 } as const satisfies Release

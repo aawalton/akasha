@@ -4,7 +4,7 @@ export const lilithMaxCallingOnTheWindClassicalVersion = {
   id: "01a0c95d-fb55-7be0-a465-79d2e15f4565",
   type: "page-type/release",
   slug: "lilith-max-calling-on-the-wind-classical-version",
-  ownLength: 3.4057833333333334,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,

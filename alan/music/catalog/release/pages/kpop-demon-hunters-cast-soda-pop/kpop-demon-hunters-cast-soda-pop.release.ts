@@ -4,7 +4,7 @@ export const kpopDemonHuntersCastSodaPop = {
   id: "01a0c958-5a74-720d-bd60-5e289c429d55",
   type: "page-type/release",
   slug: "kpop-demon-hunters-cast-soda-pop",
-  ownLength: 9.992366666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/kpop-demon-hunters-cast"],
   position: 0,

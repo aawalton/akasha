@@ -4,14 +4,13 @@ export const kDaPopStars = {
   id: "01a0676a-d727-7006-9fcf-952905cdd20e",
   type: "page-type/release",
   slug: "k-da-pop-stars",
-  title: "POP/STARS",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/k-da"],
   position: 0,
-  ownLength: 3.185,
-  ownProgress: 3.185,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2018-11-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const kDaPopStars = {
       externalLink: "https://open.spotify.com/album/6kCiN9VNYVhF2TDekK1mzz",
     },
   ],
+  title: "POP/STARS",
 } as const satisfies Release

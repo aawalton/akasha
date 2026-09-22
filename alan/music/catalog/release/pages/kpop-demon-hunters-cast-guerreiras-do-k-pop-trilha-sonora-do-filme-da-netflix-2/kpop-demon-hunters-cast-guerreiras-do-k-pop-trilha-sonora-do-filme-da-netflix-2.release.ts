@@ -4,7 +4,7 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflix2 =
   id: "01a0c958-59f7-795b-bd42-9cc786b8da85",
   type: "page-type/release",
   slug: "kpop-demon-hunters-cast-guerreiras-do-k-pop-trilha-sonora-do-filme-da-netflix-2",
-  ownLength: 5.711216666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/kpop-demon-hunters-cast"],
   position: 0,

@@ -4,15 +4,14 @@ export const lynLapidMySunnyDayKinaRemix = {
   id: "01a0676a-d725-7036-8930-5e2ef460ffac",
   type: "page-type/release",
   slug: "lyn-lapid-my-sunny-day-kina-remix",
-  title: "My Sunny Day (Kina Remix)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 1.934217,
-  ownProgress: 1.934217,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-03-25",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidMySunnyDayKinaRemix = {
       externalLink: "https://open.spotify.com/album/4GKIrekHWizVNtsyHFeWgV",
     },
   ],
+  title: "My Sunny Day (Kina Remix)",
 } as const satisfies Release

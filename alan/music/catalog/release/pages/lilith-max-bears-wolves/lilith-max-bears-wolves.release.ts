@@ -4,15 +4,14 @@ export const lilithMaxBearsWolves = {
   id: "01a0676a-d718-7024-8315-d22a60eb897f",
   type: "page-type/release",
   slug: "lilith-max-bears-wolves",
-  title: "Bears & Wolves",
+  grade: "A",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,
-  ownLength: 3.313167,
-  ownProgress: 3.313167,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "A",
   publishedAt: "2024-11-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lilithMaxBearsWolves = {
       externalLink: "https://open.spotify.com/album/2pQqwJbB4bS6kJN1Cw4dlK",
     },
   ],
+  title: "Bears & Wolves",
 } as const satisfies Release

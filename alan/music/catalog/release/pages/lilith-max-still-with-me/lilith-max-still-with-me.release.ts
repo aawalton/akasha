@@ -4,15 +4,14 @@ export const lilithMaxStillWithMe = {
   id: "01a0676a-d72a-701f-814c-75fe6622d3d7",
   type: "page-type/release",
   slug: "lilith-max-still-with-me",
-  title: "Still with Me",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,
-  ownLength: 3.070583,
-  ownProgress: 3.070583,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2024-03-15",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lilithMaxStillWithMe = {
       externalLink: "https://open.spotify.com/album/2XFZGyKpNRX0FFT07EiYYh",
     },
   ],
+  title: "Still with Me",
 } as const satisfies Release

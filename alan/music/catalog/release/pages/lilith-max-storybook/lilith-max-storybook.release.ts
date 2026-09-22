@@ -4,15 +4,14 @@ export const lilithMaxStorybook = {
   id: "01a0676a-d72a-7027-aa78-adf1321f9b19",
   type: "page-type/release",
   slug: "lilith-max-storybook",
-  title: "Storybook",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,
-  ownLength: 16.166217,
-  ownProgress: 16.166217,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-11-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lilithMaxStorybook = {
       externalLink: "https://open.spotify.com/album/3To2YTLFipG2F2TqHRau1r",
     },
   ],
+  title: "Storybook",
 } as const satisfies Release

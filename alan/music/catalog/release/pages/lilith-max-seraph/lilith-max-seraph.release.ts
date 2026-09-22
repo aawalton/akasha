@@ -4,15 +4,14 @@ export const lilithMaxSeraph = {
   id: "01a0676a-d728-7062-91d1-20cc16856160",
   type: "page-type/release",
   slug: "lilith-max-seraph",
-  title: "Seraph",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,
-  ownLength: 6.505333,
-  ownProgress: 6.505333,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-02-21",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lilithMaxSeraph = {
       externalLink: "https://open.spotify.com/album/5GFkYfiLMu1nInWDh0AtQY",
     },
   ],
+  title: "Seraph",
 } as const satisfies Release

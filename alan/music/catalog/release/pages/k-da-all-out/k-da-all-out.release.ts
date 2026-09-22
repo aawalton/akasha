@@ -4,14 +4,13 @@ export const kDaAllOut = {
   id: "01a0676a-d716-7024-9785-d113f7278972",
   type: "page-type/release",
   slug: "k-da-all-out",
-  title: "ALL OUT",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/k-da"],
   position: 0,
-  ownLength: 16.305633,
-  ownProgress: 16.305633,
-  unit: "unit/minutes",
-  status: "completed",
   publishedAt: "2020-11-06",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -19,4 +18,5 @@ export const kDaAllOut = {
       externalLink: "https://open.spotify.com/album/3wX4yrxMuHapSLvadxQkVV",
     },
   ],
+  title: "ALL OUT",
 } as const satisfies Release

@@ -4,15 +4,14 @@ export const lynLapidItsyBitsy = {
   id: "01a0676a-d722-7019-bc24-6dd0bbe0b737",
   type: "page-type/release",
   slug: "lyn-lapid-itsy-bitsy",
-  title: "Itsy Bitsy",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 2.950217,
-  ownProgress: 2.950217,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2021-01-29",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidItsyBitsy = {
       externalLink: "https://open.spotify.com/album/54DolYpYf4Ai92P5TV6IfB",
     },
   ],
+  title: "Itsy Bitsy",
 } as const satisfies Release

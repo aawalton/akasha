@@ -4,15 +4,14 @@ export const lynLapidRoomForYou = {
   id: "01a0676a-d728-701f-ab30-22400a2f0839",
   type: "page-type/release",
   slug: "lyn-lapid-room-for-you",
-  title: "Room For You",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 3.056217,
-  ownProgress: 3.056217,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2024-07-26",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidRoomForYou = {
       externalLink: "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu",
     },
   ],
+  title: "Room For You",
 } as const satisfies Release

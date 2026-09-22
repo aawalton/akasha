@@ -4,15 +4,14 @@ export const lynLapidTheSimlishSong = {
   id: "01a0676a-d72e-700a-a80b-de9d37c817d2",
   type: "page-type/release",
   slug: "lyn-lapid-the-simlish-song",
-  title: "the simlish song",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 3.317467,
-  ownProgress: 3.317467,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-10-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -21,4 +20,5 @@ export const lynLapidTheSimlishSong = {
       lastSyncedAt: "2025-10-30",
     },
   ],
+  title: "the simlish song",
 } as const satisfies Release

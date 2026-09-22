@@ -4,7 +4,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflix =
   id: "01a0c958-56c6-7878-b968-c71553a2054f",
   type: "page-type/release",
   slug: "kpop-demon-hunters-cast-kpop-demon-hunters-la-bande-originale-du-film-netflix",
-  ownLength: 37.79516666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/kpop-demon-hunters-cast"],
   position: 0,

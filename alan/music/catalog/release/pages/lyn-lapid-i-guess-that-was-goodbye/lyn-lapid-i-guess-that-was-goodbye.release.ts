@@ -4,15 +4,14 @@ export const lynLapidIGuessThatWasGoodbye = {
   id: "01a0676a-d721-701f-a57c-6038ea375171",
   type: "page-type/release",
   slug: "lyn-lapid-i-guess-that-was-goodbye",
-  title: "I Guess That Was Goodbye",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 3.170717,
-  ownProgress: 3.170717,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2022-02-04",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidIGuessThatWasGoodbye = {
       externalLink: "https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl",
     },
   ],
+  title: "I Guess That Was Goodbye",
 } as const satisfies Release

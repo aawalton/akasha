@@ -4,15 +4,14 @@ export const lilithMaxOrion = {
   id: "01a0676a-d726-704c-af77-d3d4a92a54c2",
   type: "page-type/release",
   slug: "lilith-max-orion",
-  title: "Orion",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,
-  ownLength: 5.901883,
-  ownProgress: 5.901883,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-09-12",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lilithMaxOrion = {
       externalLink: "https://open.spotify.com/album/5XV5vYFUWD0ilmoa5ZnpWK",
     },
   ],
+  title: "Orion",
 } as const satisfies Release

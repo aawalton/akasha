@@ -4,15 +4,14 @@ export const lynLapidBuzzkillForever = {
   id: "01a0676a-d719-704d-bab1-d8802beb7baf",
   type: "page-type/release",
   slug: "lyn-lapid-buzzkill-forever",
-  title: "BUZZKILL (forever)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 46.137733,
-  ownProgress: 46.137733,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-09-19",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidBuzzkillForever = {
       externalLink: "https://open.spotify.com/album/5shzwC9p2nNFivMx37PFoD",
     },
   ],
+  title: "BUZZKILL (forever)",
 } as const satisfies Release

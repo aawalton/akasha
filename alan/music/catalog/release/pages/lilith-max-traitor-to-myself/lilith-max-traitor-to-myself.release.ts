@@ -4,7 +4,7 @@ export const lilithMaxTraitorToMyself = {
   id: "01a0c95d-faa6-78d9-87fb-91746248618d",
   type: "page-type/release",
   slug: "lilith-max-traitor-to-myself",
-  ownLength: 3.303516666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,

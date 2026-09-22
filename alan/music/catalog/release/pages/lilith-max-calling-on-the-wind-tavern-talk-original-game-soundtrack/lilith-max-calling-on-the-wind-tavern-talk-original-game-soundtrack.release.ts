@@ -4,15 +4,14 @@ export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
   id: "01a0676a-d719-7055-a0de-43870288bd0c",
   type: "page-type/release",
   slug: "lilith-max-calling-on-the-wind-tavern-talk-original-game-soundtrack",
-  title: "Calling on the Wind (Tavern Talk Original Game Soundtrack)",
+  grade: "C",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,
-  ownLength: 3.292067,
-  ownProgress: 3.292067,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "C",
   publishedAt: "2024-06-20",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
       externalLink: "https://open.spotify.com/album/43Ug7sD5QSLVJXFyUt64Dn",
     },
   ],
+  title: "Calling on the Wind (Tavern Talk Original Game Soundtrack)",
 } as const satisfies Release

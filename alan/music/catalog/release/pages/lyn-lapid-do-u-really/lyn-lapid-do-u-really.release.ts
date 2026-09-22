@@ -4,15 +4,14 @@ export const lynLapidDoUReally = {
   id: "01a0676a-d71c-7019-96b7-a9646151303b",
   type: "page-type/release",
   slug: "lyn-lapid-do-u-really",
-  title: "do u really?",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 2.685383,
-  ownProgress: 2.685383,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2023-02-03",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidDoUReally = {
       externalLink: "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6",
     },
   ],
+  title: "do u really?",
 } as const satisfies Release

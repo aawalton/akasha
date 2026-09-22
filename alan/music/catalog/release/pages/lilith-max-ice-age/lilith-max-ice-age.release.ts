@@ -4,15 +4,14 @@ export const lilithMaxIceAge = {
   id: "01a0676a-d721-704c-a74a-bd11f88ef6a1",
   type: "page-type/release",
   slug: "lilith-max-ice-age",
-  title: "Ice Age",
+  grade: "C",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lilith-max"],
   position: 0,
-  ownLength: 3.141183,
-  ownProgress: 3.141183,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "C",
   publishedAt: "2022-02-11",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lilithMaxIceAge = {
       externalLink: "https://open.spotify.com/album/344KqSvf67AwF4KbF4ckNc",
     },
   ],
+  title: "Ice Age",
 } as const satisfies Release

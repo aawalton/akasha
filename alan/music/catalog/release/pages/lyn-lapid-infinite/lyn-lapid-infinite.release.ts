@@ -4,15 +4,14 @@ export const lynLapidInfinite = {
   id: "01a0676a-d721-7071-962d-eb377e8e65ef",
   type: "page-type/release",
   slug: "lyn-lapid-infinite",
-  title: "Infinite",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 3.7906,
-  ownProgress: 3.7906,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2021-06-23",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidInfinite = {
       externalLink: "https://open.spotify.com/album/65CkIcNtt9s4JQAboajshU",
     },
   ],
+  title: "Infinite",
 } as const satisfies Release

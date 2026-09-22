@@ -4,15 +4,14 @@ export const lynLapidWishIDidnTCareFeatLynLapid = {
   id: "01a0676a-d731-7028-b7e4-0b76829308a8",
   type: "page-type/release",
   slug: "lyn-lapid-wish-i-didn-t-care-feat-lyn-lapid",
-  title: "Wish I Didn't Care (feat. Lyn Lapid)",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 2.673333,
-  ownProgress: 2.673333,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2024-05-09",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidWishIDidnTCareFeatLynLapid = {
       externalLink: "https://open.spotify.com/album/0JqYditFjqjSPmhA7QKZpU",
     },
   ],
+  title: "Wish I Didn't Care (feat. Lyn Lapid)",
 } as const satisfies Release

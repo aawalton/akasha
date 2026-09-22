@@ -4,15 +4,14 @@ export const lynLapidCoraline = {
   id: "01a0676a-d71b-7029-bba6-7288bafea8f3",
   type: "page-type/release",
   slug: "lyn-lapid-coraline",
-  title: "coraline",
+  grade: "B",
+  ownLength: 0,
+  ownProgress: 0,
   partOfCollections: ["artist/lyn-lapid"],
   position: 0,
-  ownLength: 2.816883,
-  ownProgress: 2.816883,
-  unit: "unit/minutes",
-  status: "completed",
-  grade: "B",
   publishedAt: "2025-01-31",
+  status: "completed",
+  unit: "unit/minutes",
   externalIdentity: [
     {
       source: "spotify",
@@ -20,4 +19,5 @@ export const lynLapidCoraline = {
       externalLink: "https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2",
     },
   ],
+  title: "coraline",
 } as const satisfies Release
