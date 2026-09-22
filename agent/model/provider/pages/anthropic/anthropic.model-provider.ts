@@ -5,5 +5,6 @@ export const anthropic = {
   type: "page-type/model-provider",
   slug: "anthropic",
   definition: "the provider that serves Claude",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Anthropic" }],
   apiBase: "https://api.anthropic.com",
 } as const satisfies ModelProvider
