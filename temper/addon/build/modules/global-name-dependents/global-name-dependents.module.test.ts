@@ -10,8 +10,8 @@ function markup(source: string): readonly DependentSourceFile[] {
 
 test("a control the markup names is a dependent of that name", () => {
   const report = enumerateGlobalDependents({
-    global: "USPF_GUI",
-    files: markup('<GuiXml>\n\t<Controls>\n\t\t<TopLevelControl name="USPF_GUI" />\n'),
+    global: "TemperCharactersSkillPointFinder_GUI",
+    files: markup('<GuiXml>\n\t<Controls>\n\t\t<TopLevelControl name="TemperCharactersSkillPointFinder_GUI" />\n'),
   })
 
   expect(report.verdict).toBe("keep-name-required")
@@ -21,21 +21,21 @@ test("a control the markup names is a dependent of that name", () => {
 
 test("a template a control inherits is a dependent of that name", () => {
   const report = enumerateGlobalDependents({
-    global: "USPF_TooltipTarget",
+    global: "TemperCharactersSkillPointFinder_TooltipTarget",
     files: markup(
-      '<Control name="TemperCharactersRow" inherits="ZO_ComboBox USPF_TooltipTarget" />'
+      '<Control name="TemperCharactersRow" inherits="ZO_ComboBox TemperCharactersSkillPointFinder_TooltipTarget" />'
     ),
   })
 
   expect(report.verdict).toBe("keep-name-required")
   expect(report.dependents.map((one) => one.kind)).toEqual(["xml-inherits-ref"])
-  expect(report.dependents[0]?.detail).toBe('inherits="ZO_ComboBox USPF_TooltipTarget"')
+  expect(report.dependents[0]?.detail).toBe('inherits="ZO_ComboBox TemperCharactersSkillPointFinder_TooltipTarget"')
 })
 
 test("a control an anchor is placed against is a dependent of that name", () => {
   const report = enumerateGlobalDependents({
-    global: "ItemBrowserFrame",
-    files: markup('<Anchor point="TOPLEFT" relativeTo="ItemBrowserFrame" />'),
+    global: "TemperWorldItemBrowserFrame",
+    files: markup('<Anchor point="TOPLEFT" relativeTo="TemperWorldItemBrowserFrame" />'),
   })
 
   expect(report.verdict).toBe("keep-name-required")
@@ -44,8 +44,8 @@ test("a control an anchor is placed against is a dependent of that name", () => 
 
 test("a name a longer name starts with is no dependent of that longer name", () => {
   const report = enumerateGlobalDependents({
-    global: "USPF_GUI",
-    files: markup('<Backdrop name="USPF_GUI_BG" relativeTo="USPF_GUI_Header" />'),
+    global: "TemperCharactersSkillPointFinder_GUI",
+    files: markup('<Backdrop name="TemperCharactersSkillPointFinder_GUI_BG" relativeTo="TemperCharactersSkillPointFinder_GUI_Header" />'),
   })
 
   expect(report.verdict).toBe("rename-safe")
@@ -54,8 +54,8 @@ test("a name a longer name starts with is no dependent of that longer name", () 
 
 test("a name in a markup comment is no dependent", () => {
   const report = enumerateGlobalDependents({
-    global: "ShifterBoxTemplate",
-    files: markup('<!-- <Control name="ShifterBoxTemplate" /> -->'),
+    global: "TemperShifterBox_Template",
+    files: markup('<!-- <Control name="TemperShifterBox_Template" /> -->'),
   })
 
   expect(report.verdict).toBe("rename-safe")
