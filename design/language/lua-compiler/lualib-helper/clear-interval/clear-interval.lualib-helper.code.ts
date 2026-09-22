@@ -1,5 +1,4 @@
 import { __TS__Timers } from "akasha/design/language/lua-compiler/lualib-helper/timers/timers.lualib-helper.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 interface EventManager {
   RegisterForUpdate: (

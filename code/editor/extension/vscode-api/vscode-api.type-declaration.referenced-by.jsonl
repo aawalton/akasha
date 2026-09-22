@@ -62,12 +62,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/gemstone-colors/gemstone-colors.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/surface-elevation/surface-elevation.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/interface/system/modules/text-colors/text-colors.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/clear-interval/clear-interval.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/set-interval/set-interval.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/string-replace-all/string-replace-all.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/string-replace/string-replace.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/using-async/using-async.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/using/using.lualib-helper.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"git/modules/commit-reading/commit-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/action-button-property/action-button-property.page-type.property-badge-component.code.tsx"}

@@ -1,4 +1,3 @@
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function __TS__Using<TArgs extends Disposable[], TReturn>(
