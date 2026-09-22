@@ -33,6 +33,7 @@ export const construction = {
     "construction/verb-alone",
     "construction/be-verb-with-a-past-participle",
     "construction/be-verb-with-a-present-participle",
+    "construction/verb-with-a-noun-phrase",
   ],
   extends: ["page-type/domain"],
   properties: [

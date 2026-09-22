@@ -2501,6 +2501,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-past-participle.construction.ts","id":"01a0c96f-a254-7982-aacd-b072d43b1006"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/possessive-noun-run-with-a-determiner.construction.ts","id":"01a0c932-0974-771f-b07a-c900f1a63592"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/possessive-noun-run.construction.ts","id":"01a0c931-ef71-74f5-adf2-95deb30632f0"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/verb-with-a-noun-phrase.construction.ts","id":"01a0ca51-817d-7cab-945d-077f7d12ffff"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.ts","id":"01a0c57a-e7ac-7d09-ad25-98343aab07cf"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","id":"01a0c5a0-dcdf-78bc-b3a9-d53923805df8"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.ts","id":"01a08220-6498-71cb-af30-b73f6642f5fe"}
