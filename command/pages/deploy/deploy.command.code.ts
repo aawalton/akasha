@@ -25,8 +25,8 @@ import { putUpAddon } from "akasha/command/pages/deploy/modules/addon-installing
 import { publishedBundleFor } from "akasha/command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"
 import {
   changedBetween,
-  judgedOnDeploy,
-  saidOf,
+  judgementOf,
+  saidOfHeldBack,
   sinceCommit,
 } from "akasha/command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
 import {
@@ -81,7 +81,10 @@ import {
   servableNamed,
 } from "akasha/infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"
 import { appliedFoundation } from "akasha/infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"
-import { putUpEvery } from "akasha/infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"
+import {
+  notPutUpAt,
+  putUpEvery,
+} from "akasha/infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"
 import { provingFor } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
@@ -102,13 +105,6 @@ const NOTHING_UP =
 
 export function stoppedPartWay(up: readonly string[]): string {
   return partWay(up)[0] ?? NOTHING_UP
-}
-
-export function saidOfUnproven(unproven: readonly string[]): string {
-  return (
-    "a workstation service is put up only where the test beside its page proves it runs, and " +
-    `this commit holds no such test: ${unproven.join(", ")}`
-  )
 }
 
 const RUN_IN_CLUSTER: ReadonlySet<string> = new Set([CLUSTER_SERVICE, CONTAINER_RECIPE, WEB_APP])
@@ -151,6 +147,7 @@ async function putUpFrom(
   given: Given,
   at: string,
   restarting: ReadonlySet<string> | null,
+  leftAlone: ReadonlySet<string>,
   up: string[]
 ): Promise<Answer> {
   if (read.kind === IOS_APP) {
@@ -158,7 +155,8 @@ async function putUpFrom(
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, at, up)
   if (read.kind === WORKSTATION_SERVICE) {
-    return await putUpEvery(given.root, commit, restarting ?? new Set<string>(), at, up)
+    const since = restarting ?? new Set<string>()
+    return await putUpEvery(given.root, commit, since, at, up, leftAlone)
   }
   if (read.kind === INFERENCE_SERVICE) {
     return await putUpInferenceService(given.root, slug, at, up)
@@ -188,15 +186,17 @@ async function putUp(
   wanted: Wanted,
   given: Given,
   restarting: ReadonlySet<string> | null = null,
+  leftAlone: ReadonlySet<string> = new Set(),
   up: string[] = []
 ): Promise<Answer> {
   if (!PINNED.has(read.kind)) {
-    return await putUpFrom(read, slug, commit, wanted, given, "", restarting, up)
+    return await putUpFrom(read, slug, commit, wanted, given, "", restarting, leftAlone, up)
   }
   const pinned = pinnedTree(given.root, read.kind, commit)
   if ("refused" in pinned) return refused(pinned.refused, OPERATIONAL)
   const swept = sweptOf(given.root)
-  const answer = await putUpFrom(read, slug, commit, wanted, given, pinned.at, restarting, up)
+  const at = pinned.at
+  const answer = await putUpFrom(read, slug, commit, wanted, given, at, restarting, leftAlone, up)
   return answeredWith([...swept, ...answer.report], answer.refusals, answer.code)
 }
 
@@ -207,6 +207,7 @@ export type PuttingUp = (
   wanted: Wanted,
   given: Given,
   restarting: ReadonlySet<string> | null,
+  leftAlone: ReadonlySet<string>,
   up: string[]
 ) => Promise<Answer>
 
@@ -274,20 +275,6 @@ export async function deploy(
   return "refused" in alone ? refused(alone.refused, OPERATIONAL) : alone.value
 }
 
-async function unjudgedIn(
-  root: string,
-  slug: string,
-  was: string | null,
-  commit: string,
-  built: ReadonlySet<string>,
-  proving: readonly string[]
-): Promise<readonly string[]> {
-  const unproven = proving.filter((one) => !built.has(one))
-  if (unproven.length > 0) return [saidOfUnproven(unproven)]
-  const judging = await judgedOnDeploy(root, slug, was, commit, built, proving)
-  return "broken" in judging ? [judging.broken] : saidOf(judging.judged)
-}
-
 async function deployHeld(
   read: Read,
   slug: string,
@@ -303,24 +290,28 @@ async function deployHeld(
   const built = closures === null ? closureFor(given.root, slug, read, commit) : unionOf(closures)
   const was = sinceCommit(given.root, await commitRecordedIn(read.pagePath, keeping))
   const moved = was === null ? null : changedBetween(given.root, was, commit)
-  const restarting = closures === null ? null : touchedIn(closures, moved)
+  const touched = closures === null ? null : touchedIn(closures, moved)
+  const restarting =
+    read.kind === WORKSTATION_SERVICE && touched !== null ? notPutUpAt(touched, commit) : touched
   const proving =
     read.kind === WORKSTATION_SERVICE && restarting !== null
       ? provingFor(given.root, restarting)
       : []
-  const unjudged = await unjudgedIn(given.root, slug, was, commit, built, proving)
+  const judged = await judgementOf(given.root, slug, was, commit, built, proving, closures)
   const noting = async (why: readonly string[]): Promise<readonly string[]> => [
     ...(await recordedRefusal(slug, read.pagePath, commit, why, keeping)),
     ...(await recordedEnding(slug, read.pagePath, true, new Date(), keeping)),
   ]
-  if (unjudged.length > 0) {
-    return answeredWith([`commit\t${commit}`], [...unjudged, ...(await noting(unjudged))], DATA)
+  const holding = judged.heldBack ?? new Set<string>()
+  if (judged.why.length > 0 && holding.size === 0) {
+    const why = judged.why
+    return answeredWith([`commit\t${commit}`], [...why, ...(await noting(why))], DATA)
   }
   const before = opening()
   const up: string[] = []
   let answer: Answer
   try {
-    answer = await putting(read, slug, commit, wanted, given, restarting, up)
+    answer = await putting(read, slug, commit, wanted, given, restarting, holding, up)
   } catch (thrown) {
     costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
     const why = [whyOf(thrown), stoppedPartWay(up)]
@@ -332,6 +323,10 @@ async function deployHeld(
   if (answer.code !== OK || answer.refusals.length > 0) {
     const why = [...answer.refusals, ...partWay(up)]
     return answeredWith(lines, [...why, ...(await noting(why))], answer.code)
+  }
+  if (holding.size > 0) {
+    const why = [saidOfHeldBack([...holding].sort()), ...judged.why]
+    return answeredWith(lines, [...why, ...(await noting(why))], DATA)
   }
   const wrong = [
     ...(await recordedCommit(slug, read.pagePath, commit, keeping)),

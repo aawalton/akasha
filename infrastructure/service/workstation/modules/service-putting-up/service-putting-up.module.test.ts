@@ -1,7 +1,13 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { dirname } from "node:path"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { TELLER_STEM } from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
 import {
+  TELLER_STEM,
+  unitAt,
+} from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
+import {
+  notPutUpAt,
   plannedEvery,
   sharedUnitsIn,
 } from "akasha/infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"
@@ -12,6 +18,36 @@ const ROOT = rootOf(import.meta.dir)
 const HOME = "/home/one"
 
 const BUNDLE = `${HOME}/.local/state/workstation-services/${TELLER_STEM}/${"a".repeat(40)}.js`
+
+const WAS = "b".repeat(40)
+
+const NOW = "c".repeat(40)
+
+const STAGED = mkdtempSync("/var/tmp/service-putting-up-")
+
+afterAll(() => rmSync(STAGED, { recursive: true, force: true }))
+
+function unitNaming(slug: string, commit: string): undefined {
+  const unit = unitAt(STAGED, slug)
+  const at = `${STAGED}/.local/state/workstation-services/${slug}/${commit}.js`
+  mkdirSync(dirname(unit), { recursive: true })
+  writeFileSync(unit, `[Service]\nExecStart=/usr/bin/env bun ${at}\n`)
+}
+
+test("a service whose unit already names this commit is put up by nothing again", () => {
+  unitNaming("up-to-date", NOW)
+  unitNaming("behind", WAS)
+  const found = notPutUpAt(new Set(["up-to-date", "behind"]), NOW, STAGED)
+  expect([...found]).toEqual(["behind"])
+})
+
+test("a service whose unit names no bundle is one to put up", () => {
+  expect([...notPutUpAt(new Set(["never-up"]), NOW, STAGED)]).toEqual(["never-up"])
+})
+
+test("a home nothing states leaves every service to be put up", () => {
+  expect([...notPutUpAt(new Set(["behind"]), NOW, null)]).toEqual(["behind"])
+})
 
 test("the teller every unit names on failing is among the units written", () => {
   const shared = sharedUnitsIn(ROOT)

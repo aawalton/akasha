@@ -112,8 +112,11 @@ export const serviceWorkstation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A service that test refuses leaves every unit, and every service running, as they were.",
+      statement: "A service that test refuses goes on running what that service was running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every service built from nothing that test names is put up all the same.",
     },
     {
       decisionKind: "decision-kind/departure",

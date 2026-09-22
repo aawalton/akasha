@@ -152,12 +152,33 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A refusal holds back the services built from the folder that refusal names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal naming what no service is built from holds back every service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every service a refusal does not hold back is put up at this commit all the same.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The kind keeps this commit as its own only where no service was held back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service whose unit already names this commit is restarted by nothing again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The test proving a workstation service runs is judged wherever that service would restart.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A service whose test is refused leaves every unit and every tree as they were.",
+      statement: "A service whose test is refused leaves its own unit and bundle as they were.",
     },
     {
       decisionKind: "decision-kind/departure",

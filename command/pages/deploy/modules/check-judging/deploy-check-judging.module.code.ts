@@ -4,7 +4,10 @@ import {
   commitAt,
   pathsIn,
 } from "akasha/command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
-import { carriedWith } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import {
+  carriedWith,
+  heldBackIn,
+} from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import {
   bodyAt,
   readingEnded,
@@ -58,6 +61,52 @@ export function saidOf(judged: readonly Judged[]): readonly string[] {
 }
 
 export type Judging = { readonly judged: readonly Judged[] } | { readonly broken: string }
+
+export function saidOfUnproven(unproven: readonly string[]): string {
+  return (
+    "a workstation service is put up only where the test beside its page proves it runs, and " +
+    `this commit holds no such test: ${unproven.join(", ")}`
+  )
+}
+
+export function saidOfHeldBack(held: readonly string[]): string {
+  return (
+    "every other service was put up, and these were left running what they ran, being built " +
+    `from what a check refused: ${held.join(", ")}`
+  )
+}
+
+export type Judgement = {
+  readonly why: readonly string[]
+  readonly heldBack: ReadonlySet<string> | null
+}
+
+const REFUSES_EVERY: ReadonlySet<string> | null = null
+
+export async function judgementOf(
+  root: string,
+  slug: string,
+  was: string | null,
+  now: string,
+  built: ReadonlySet<string>,
+  proving: readonly string[],
+  closures: ReadonlyMap<string, ReadonlySet<string>> | null
+): Promise<Judgement> {
+  const unproven = proving.filter((one) => !built.has(one))
+  if (unproven.length > 0) return { why: [saidOfUnproven(unproven)], heldBack: REFUSES_EVERY }
+  const judging = await judgedOnDeploy(root, slug, was, now, built, proving)
+  if ("broken" in judging) return { why: [judging.broken], heldBack: REFUSES_EVERY }
+  const why = saidOf(judging.judged)
+  if (why.length === 0) return { why, heldBack: new Set<string>() }
+  if (closures === null) return { why, heldBack: REFUSES_EVERY }
+  return {
+    why,
+    heldBack: heldBackIn(
+      closures,
+      judging.judged.map((one) => one.path)
+    ),
+  }
+}
 
 export async function judgedOnDeploy(
   root: string,

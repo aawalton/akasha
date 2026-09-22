@@ -83,6 +83,14 @@ export const deployCheckJudging = {
       statement: "Nothing here says which files a deploy is built from.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The judging answers which services its refusals hold back, and the words for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy of a kind with one closure has every refusal hold that kind back whole.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here puts anything up.",
     },

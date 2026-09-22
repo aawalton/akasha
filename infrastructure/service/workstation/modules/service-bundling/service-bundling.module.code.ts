@@ -6,6 +6,7 @@ import {
   parsePorcelainStatusZ,
 } from "akasha/git/modules/porcelain-status/porcelain-status.module.code.ts"
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
+import { bundleCommitIn } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
 import {
   SERVICE_SUFFIX,
   TELLING_TEMPLATE,
@@ -269,6 +270,14 @@ export function launchedIn(home: string, slug: string, names: readonly string[])
   const lines = startedFrom(home, slug)
   for (const one of names) {
     if (lines.some((line) => line.includes(join(STATE, slug, one)))) return one
+  }
+  return null
+}
+
+export function launchedCommitIn(home: string, slug: string): string | null {
+  for (const one of startedFrom(home, slug)) {
+    const found = bundleCommitIn(one)
+    if (found !== null) return found
   }
   return null
 }

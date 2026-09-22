@@ -13,7 +13,6 @@ import type {
 } from "akasha/command/pages/deploy/deploy.command.code.ts"
 import {
   deploy as deploying,
-  saidOfUnproven,
   stoppedPartWay,
 } from "akasha/command/pages/deploy/deploy.command.code.ts"
 import { committed, given } from "akasha/command/pages/deploy/deploy.command.test-fixtures.ts"
@@ -215,7 +214,7 @@ const IMAGE = "the image one/web:abc, built and pushed to the registry"
 
 test("a deploy that threw part way names in its refusal what it had put up", async () => {
   const world = pastTheChecks()
-  const putting: PuttingUp = (_read, _slug, _commit, _wanted, _given, _restarting, up) => {
+  const putting: PuttingUp = (_read, _slug, _commit, _wanted, _given, _restarting, _left, up) => {
     up.push(IMAGE)
     up.push(`${world.commit}, pushed to origin main`)
     throw new Error("kubectl apply was killed")
@@ -230,7 +229,16 @@ test("a deploy that threw part way names in its refusal what it had put up", asy
 
 test("a deploy refused without a throw names in its refusal what it had put up", async () => {
   const world = pastTheChecks()
-  const putting: PuttingUp = async (_read, _slug, _commit, _wanted, _given, _restarting, up) => {
+  const putting: PuttingUp = async (
+    _read,
+    _slug,
+    _commit,
+    _wanted,
+    _given,
+    _restarting,
+    _left,
+    up
+  ) => {
     up.push(IMAGE)
     return await Promise.resolve({
       report: [],
@@ -264,13 +272,6 @@ test("a deploy that threw before anything reached a machine says that rather tha
   expect(answer.code).toBe(3)
   expect(answer.refusals[1]).toContain("nothing it puts up had reached a machine")
   expect(answer.refusals[1]).not.toContain("may be")
-})
-
-test("the refusal names each service with no test proving it runs", () => {
-  const said = saidOfUnproven(["one.running.test.ts", "two.running.test.ts"])
-  expect(said).toContain("one.running.test.ts")
-  expect(said).toContain("two.running.test.ts")
-  expect(said).toContain("proves it runs")
 })
 
 test("what a deploy put up is named in the refusal rather than counted", () => {

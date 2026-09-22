@@ -3,7 +3,9 @@ import {
   blamedIn,
   changeFrom,
   saidOf,
+  saidOfHeldBack,
   saidOfNoGate,
+  saidOfUnproven,
   sinceCommit,
 } from "akasha/command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
@@ -88,4 +90,18 @@ test("checks that will not load refuse the deploy by name", () => {
   const said = saidOfNoGate("atlas", "the file is not there")
   expect(said).toContain("atlas")
   expect(said).toContain("the file is not there")
+})
+
+test("the refusal names each service with no test proving it runs", () => {
+  const said = saidOfUnproven(["one.running.test.ts", "two.running.test.ts"])
+  expect(said).toContain("one.running.test.ts")
+  expect(said).toContain("two.running.test.ts")
+  expect(said).toContain("proves it runs")
+})
+
+test("the refusal names each service left running what that service was running", () => {
+  const said = saidOfHeldBack(["one", "two"])
+  expect(said).toContain("one, two")
+  expect(said).toContain("left running")
+  expect(said).toContain("every other service was put up")
 })

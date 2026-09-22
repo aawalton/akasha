@@ -17,6 +17,7 @@ import {
 import {
   bundledFor,
   bundledTeller,
+  launchedCommitIn,
   launchedFromBundle,
   movedFrom,
   saidOfUnbuilt,
@@ -65,6 +66,19 @@ export function sharedUnitsIn(
   const pagePath = pathOf(root, TELLER)
   if (typeof pagePath !== "string") return pagePath
   return new Map([[TELLING_TEMPLATE, tellingUnitText({ command: said.command, pagePath })]])
+}
+
+export function notPutUpAt(
+  restarting: ReadonlySet<string>,
+  commit: string,
+  home: string | null = homeAt()
+): ReadonlySet<string> {
+  if (home === null) return restarting
+  const found = new Set<string>()
+  for (const slug of restarting) {
+    if (launchedCommitIn(home, slug) !== commit) found.add(slug)
+  }
+  return found
 }
 
 export type Bundled =

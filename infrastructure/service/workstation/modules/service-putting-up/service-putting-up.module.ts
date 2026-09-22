@@ -122,5 +122,10 @@ export const servicePuttingUp = {
       decisionKind: "decision-kind/departure",
       statement: "Such a service goes on running the bundle the deploy before this one built.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A service whose unit already names a commit is put up at that commit no second time.",
+    },
   ],
 } as const satisfies Module

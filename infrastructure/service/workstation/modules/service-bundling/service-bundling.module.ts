@@ -265,5 +265,9 @@ export const serviceBundling = {
       statement:
         "A named service's unit names its bundle in its ExecStart, so the sweep reads which one to keep.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The commit a service was last put up at is read off the bundle its unit names.",
+    },
   ],
 } as const satisfies Module

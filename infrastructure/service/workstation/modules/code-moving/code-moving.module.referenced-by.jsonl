@@ -4,5 +4,6 @@
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"infrastructure/service/workstation/modules/code-moving/code-moving.module.test.ts"}
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"infrastructure/service/workstation/modules/service-beating/service-beating.module.code.ts"}
+{"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"}
 {"propertySlug":"import","fileName":"code-moving.module.code.ts","path":"infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
