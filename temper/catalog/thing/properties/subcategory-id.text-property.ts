@@ -19,7 +19,7 @@ export const subcategoryId = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Three of the groups named here are no pages: scribed, crown and class.",
+      statement: "A set names its class group by that page's key rather than by that page's slug.",
     },
     {
       decisionKind: "decision-kind/departure",

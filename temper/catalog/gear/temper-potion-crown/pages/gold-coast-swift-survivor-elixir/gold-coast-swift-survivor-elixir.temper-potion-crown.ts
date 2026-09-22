@@ -12,7 +12,6 @@ export const goldCoastSwiftSurvivorElixir = {
   icon: "/esoui/art/icons/crownpotion_speed.dds",
   itemId: 124674,
   categoryId: "potions",
-  subcategoryId: "crown",
   level: "Scaled",
   seconds: 36.3,
   effects: "jsonl",

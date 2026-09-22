@@ -12,7 +12,6 @@ export const crownTriRestorationPotion = {
   icon: "/esoui/art/icons/crownpotion_trires.dds",
   itemId: 64710,
   categoryId: "potions",
-  subcategoryId: "crown",
   level: "Scaled",
   seconds: 36.3,
   effects: "jsonl",
