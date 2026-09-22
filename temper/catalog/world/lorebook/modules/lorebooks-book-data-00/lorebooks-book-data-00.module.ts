@@ -4,7 +4,7 @@ export const lorebooksBookData00 = {
   id: "01a0617f-925f-7cbc-a32a-62339a5fd8a1",
   type: "page-type/module",
   slug: "lorebooks-book-data-00",
-  definition: "a run of the Eidetic Memory book table, in the order the whole table names them",
+  definition: "a set of the Eidetic Memory book table, in the order the whole table names them",
   code: "ts",
   decisions: [
     {
