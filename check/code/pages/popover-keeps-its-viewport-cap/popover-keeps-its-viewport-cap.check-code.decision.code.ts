@@ -98,18 +98,22 @@ export function tagsIn(sources: Iterable<Source>): ReadonlyMap<string, string> {
   return tags
 }
 
-function markedIn(change: Change): readonly string[] {
-  const found = new Set(pathsSearched(change.root, [CAP_MARK], TSX_KINDS))
-  for (const path of change.changed) {
+function markedIn(root: string, paths: readonly string[]): readonly string[] {
+  const found = new Set(pathsSearched(root, [CAP_MARK], TSX_KINDS))
+  for (const path of paths) {
     if (tsxNamed(path)) found.add(path)
   }
   return [...found].sort()
 }
 
-function tagsOver(change: Change): ReadonlyMap<string, string> {
+export function tagsOf(
+  root: string,
+  paths: readonly string[],
+  read: (path: string) => string | null
+): ReadonlyMap<string, string> {
   const sources: Source[] = []
-  for (const path of markedIn(change)) {
-    const text = textIn(change, path)
+  for (const path of markedIn(root, paths)) {
+    const text = read(path)
     if (text === null || !text.includes(CAP_MARK)) continue
     sources.push({ path, text })
   }
@@ -127,7 +131,7 @@ const TAGS = new WeakMap<Shadow, ReadonlyMap<string, string>>()
 function tagsFor(change: Change, shadow: Shadow): ReadonlyMap<string, string> {
   const held = TAGS.get(shadow)
   if (held !== undefined) return held
-  const made = tagsOver(change)
+  const made = tagsOf(change.root, change.changed, (path) => textIn(change, path))
   TAGS.set(shadow, made)
   return made
 }

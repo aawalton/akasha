@@ -138,7 +138,6 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.check.test.ts"}
