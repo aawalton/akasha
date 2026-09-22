@@ -4,7 +4,7 @@ export const scribedSkills02 = {
   id: "01a0617c-86c2-7238-abc6-efd6f770c6a9",
   type: "page-type/module",
   slug: "scribed-skills-02",
-  definition: "a run of scribed skills, in the order the whole table names them",
+  definition: "a set of scribed skills, in the order the whole table names them",
   code: "ts",
   decisions: [
     {
