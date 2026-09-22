@@ -15,7 +15,6 @@ import {
   PROPERTY_BADGE_DRAWINGS,
 } from "akasha/page/ui/component/modules/property-badge-drawings/property-badge-drawings.module.code.ts"
 import type { ComponentType } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const FALLS_BACK_TO = "page-property"
 

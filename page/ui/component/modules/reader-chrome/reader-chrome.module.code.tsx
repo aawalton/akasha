@@ -7,7 +7,6 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 import { useEffect, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export interface ReaderNeighborLink {
   readonly href: string

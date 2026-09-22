@@ -27,14 +27,6 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-card-cover/page-card-cover.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/page-table-header/page-table-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/property-badge/property-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/property-visibility-picker/property-visibility-picker.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/archive-of-worlds/web/root.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.code.tsx"}

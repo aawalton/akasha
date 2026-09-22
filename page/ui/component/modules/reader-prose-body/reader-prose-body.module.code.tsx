@@ -20,7 +20,6 @@ import {
 import { ProseBlockView } from "akasha/page/ui/component/modules/reader-prose-block/reader-prose-block.module.code.tsx"
 import type { BlockSentenceLayout } from "akasha/page/ui/component/modules/reader-sentence-layout/reader-sentence-layout.module.code.ts"
 import { memo, type RefObject, useImperativeHandle, useMemo, useRef } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export interface ReaderPositionAnchor {
   readonly fractionAt: (scrollTop: number) => number

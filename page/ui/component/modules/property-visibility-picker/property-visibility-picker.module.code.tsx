@@ -39,7 +39,6 @@ import {
   SortablePropertyRow,
 } from "akasha/page/ui/component/modules/property-visibility-picker-rows/property-visibility-picker-rows.module.code.tsx"
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface PropertyVisibilityPickerProps {

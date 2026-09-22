@@ -18,7 +18,6 @@ import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type
 import { Plus } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { z } from "zod"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const NAV_SLUG = toPageTypeSlug("nav")
 const NAV_ITEM_LIMIT = 200
