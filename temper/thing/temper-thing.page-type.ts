@@ -4,7 +4,7 @@ export const temperThing = {
   id: "01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3",
   type: "page-type/page-type",
   slug: "temper-thing",
-  definition: "anything temper keeps a page for",
+  definition: "anything temper gives a page",
   extends: ["page-type/page"],
   owner: "text-property/account-page",
   parts: [
