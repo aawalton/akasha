@@ -1,6 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { stat } from "node:fs/promises"
-import { readTranscriptSessionId } from "akasha/agent/claude-code/modules/session-jsonl/session-jsonl.module.code.ts"
+import { readTranscriptSessionId } from "akasha/agent/claude-code/session/modules/session-jsonl/session-jsonl.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { sessionOf } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import { keepSeatTranscript } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"

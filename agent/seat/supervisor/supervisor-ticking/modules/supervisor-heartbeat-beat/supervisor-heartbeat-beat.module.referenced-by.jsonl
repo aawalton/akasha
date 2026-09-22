@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/claude-code/modules/session-watch/session-watch.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"}

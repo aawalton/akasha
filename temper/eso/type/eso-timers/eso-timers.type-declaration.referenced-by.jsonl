@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/claude-code/modules/session-watch/session-watch.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/messaging/modules/message-file-watch/message-file-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/messaging/modules/messages-delivery-witness/messages-delivery-witness.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/messaging/modules/messages-mcp/messages-mcp.module.code.ts"}

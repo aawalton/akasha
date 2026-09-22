@@ -1,3 +1,3 @@
 {"propertySlug":"import","fileName":"transcript-materialize.module.code.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
 {"propertySlug":"import","fileName":"transcript-materialize.module.code.ts","path":"agent/seat/stopping/modules/takeover-seat/takeover-seat.module.code.ts"}
-{"propertySlug":"parts","path":"agent/claude-code/claude-code.domain.ts","id":"01a065b0-2100-7a41-9c02-3e5197d4b91f"}
+{"propertySlug":"parts","path":"agent/claude-code/session/claude-code-session.domain.ts","id":"01a0c9aa-9160-7910-b58e-7182271d836f"}

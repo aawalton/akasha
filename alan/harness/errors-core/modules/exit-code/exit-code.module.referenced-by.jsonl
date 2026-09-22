@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/claude-code/modules/transcript-materialize/transcript-materialize.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"}

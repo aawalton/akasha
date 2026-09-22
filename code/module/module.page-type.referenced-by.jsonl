@@ -41,10 +41,10 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/modules/session-jsonl-schema/session-jsonl-schema.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/modules/session-jsonl/session-jsonl.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/modules/session-watch/session-watch.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/modules/transcript-materialize/transcript-materialize.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl/session-jsonl.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/agent-hook/agent-hook.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/answer/hook-answer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/bun-calls/bun-calls.module.ts"}

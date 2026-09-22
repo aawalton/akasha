@@ -3,7 +3,7 @@ import {
   MODELED_TYPES,
   RawSessionLine,
   SessionMessage,
-} from "akasha/agent/claude-code/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts"
+} from "akasha/agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const ResultSubtypePresence = SHAPE.looseObject({ subtype: SHAPE.string() })

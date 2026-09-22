@@ -1,4 +1,4 @@
-import { materializeLocalTranscript } from "akasha/agent/claude-code/modules/transcript-materialize/transcript-materialize.module.code.ts"
+import { materializeLocalTranscript } from "akasha/agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts"
 import { liveAgentPidsFromProc } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
 import { seatRecord } from "akasha/agent/seat/fleet/modules/seat-facts/seat-facts.module.code.ts"

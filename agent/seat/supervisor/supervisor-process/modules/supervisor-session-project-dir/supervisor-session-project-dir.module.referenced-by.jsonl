@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/claude-code/modules/transcript-materialize/transcript-materialize.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.test.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-process/supervisor-process.domain.ts","id":"01a09c62-651a-7488-a701-7a1b46e37c2d"}

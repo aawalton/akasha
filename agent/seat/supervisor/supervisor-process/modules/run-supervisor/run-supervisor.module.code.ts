@@ -1,4 +1,4 @@
-import { watchSessionFile } from "akasha/agent/claude-code/modules/session-watch/session-watch.module.code.ts"
+import { watchSessionFile } from "akasha/agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"
 import { openSeatGroup } from "akasha/agent/seat/launching/modules/seat-grouping/seat-grouping.module.code.ts"
 import { refuseSeatName } from "akasha/agent/seat/name-claiming/modules/seat-name-bind/seat-name-bind.module.code.ts"
 import { resolveSeatSpawnDecisions } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-seat-spawn-decisions/supervisor-seat-spawn-decisions.module.code.ts"

@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
 {"propertySlug":"part-of-speech","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
+{"propertySlug":"part-of-speech","path":"agent/claude-code/session/claude-code-session.domain.ts","id":"01a0c9aa-9160-7910-b58e-7182271d836f"}
 {"propertySlug":"part-of-speech","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}
 {"propertySlug":"part-of-speech","path":"agent/messaging/message/message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
 {"propertySlug":"part-of-speech","path":"agent/messaging/notice/notice.page-type.ts","id":"019ffe7f-d49d-7000-ba76-13378b883aa0"}
