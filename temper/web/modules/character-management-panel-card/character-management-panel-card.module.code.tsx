@@ -21,7 +21,6 @@ import { getCharacterVersions } from "akasha/temper/web/modules/version-actions/
 import { VersionHistoryDialog } from "akasha/temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"
 import { useState } from "react"
 import { toast } from "sonner"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 interface CharacterManagementPanelCardProps {
   buildId: BuildId

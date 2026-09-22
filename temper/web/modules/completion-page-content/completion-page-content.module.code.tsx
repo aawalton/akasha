@@ -56,7 +56,6 @@ import type {
 import { CompletionSearchContext } from "akasha/temper/web/player-completion-ui/modules/completion-search-context/completion-search-context.module.code.tsx"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 function skeletonFor(initialTab: string | undefined) {
   return tabbedPageSkeleton({

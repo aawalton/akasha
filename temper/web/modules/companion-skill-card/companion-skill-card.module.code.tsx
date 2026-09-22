@@ -28,7 +28,6 @@ import {
 import { TimingBadges } from "akasha/temper/web/modules/timing-badges/timing-badges.module.code.tsx"
 import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
 import type { ReactNode } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 interface CompanionSkillCardProps {
   skill: CompanionSkillTemplate

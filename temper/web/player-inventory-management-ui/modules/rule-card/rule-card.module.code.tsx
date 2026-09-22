@@ -18,7 +18,6 @@ import type { DestinationOptions } from "akasha/temper/web/player-inventory-mana
 import type { RuleCardOnUpdate } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import { memo, useEffect, useState } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const noopUpdate: RuleCardOnUpdate = () => {}
 

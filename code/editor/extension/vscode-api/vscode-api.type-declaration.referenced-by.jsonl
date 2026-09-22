@@ -1,13 +1,5 @@
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/character-management-panel-card/character-management-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/companion-management-panel-card/companion-management-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/completion-page-content/completion-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/formula-display/formula-display.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/plan-tab/plan-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card/rule-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"temper/web/root.tsx"}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

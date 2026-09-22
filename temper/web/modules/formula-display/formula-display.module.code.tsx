@@ -7,7 +7,6 @@ import type { DisplayFormulaNode } from "akasha/temper/player/character/formula-
 import katex from "katex"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { createPortal } from "react-dom"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 interface ActiveLabel {
   label: string

@@ -7,7 +7,6 @@ import { skillLines } from "akasha/temper/player/character/skill/line/modules/sk
 import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { CollapsibleSkillCard } from "akasha/temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 import type { ReactNode } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 interface SkillCollapsibleCardProps {
   skill: Skill

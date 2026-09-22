@@ -21,7 +21,6 @@ import { CharactersPlanEmpty } from "akasha/temper/web/modules/characters-plan-e
 import { decidePlanEmptyState } from "akasha/temper/web/modules/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
 import type { useCompletionCharactersByUser } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useCallback, useMemo } from "react"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 type CompletionCharacterRows = ReturnType<typeof useCompletionCharactersByUser>["characters"]
 type OptimisticPatch = ReturnType<typeof useOptimisticPatchPage>
