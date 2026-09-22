@@ -5,11 +5,11 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionLaissez
   type: "page-type/track",
   slug: "renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version-laissez-moi-tout-icarly",
   ownLength: 1.36645,
-  ownProgress: 0,
+  ownProgress: 1.36645,
   partOfCollections: [
     "release/renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Laissez Moi Tout (iCarly Theme Song)",
   trackType: "studio",

@@ -5,11 +5,11 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionStupidW
   type: "page-type/track",
   slug: "renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version-stupid-with-love-reprise",
   ownLength: 2.0998666666666668,
-  ownProgress: 0,
+  ownProgress: 2.0998666666666668,
   partOfCollections: [
     "release/renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Stupid with Love - Reprise",
   trackType: "studio",

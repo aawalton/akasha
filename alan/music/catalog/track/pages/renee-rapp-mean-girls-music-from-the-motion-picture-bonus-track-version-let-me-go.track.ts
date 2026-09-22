@@ -5,11 +5,11 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionLetMeGo
   type: "page-type/track",
   slug: "renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version-let-me-go",
   ownLength: 1.9396333333333333,
-  ownProgress: 0,
+  ownProgress: 1.9396333333333333,
   partOfCollections: [
     "release/renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Let Me Go",
   trackType: "studio",

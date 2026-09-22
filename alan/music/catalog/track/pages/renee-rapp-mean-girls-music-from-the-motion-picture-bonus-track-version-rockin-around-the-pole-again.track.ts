@@ -6,11 +6,11 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionRockinA
     type: "page-type/track",
     slug: "renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version-rockin-around-the-pole-again",
     ownLength: 2.4617666666666667,
-    ownProgress: 0,
+    ownProgress: 2.4617666666666667,
     partOfCollections: [
       "release/renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version",
     ],
-    status: "not-started",
+    status: "completed",
     unit: "unit/minutes",
     title: "Rockin' Around The Pole Again",
     trackType: "studio",

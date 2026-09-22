@@ -5,11 +5,11 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionSomeone
   type: "page-type/track",
   slug: "renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version-someone-gets-hurt-reprise",
   ownLength: 0.8441,
-  ownProgress: 0,
+  ownProgress: 0.8441,
   partOfCollections: [
     "release/renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Someone Gets Hurt - Reprise",
   trackType: "studio",
