@@ -5,7 +5,7 @@ export const icon = {
   type: "page-type/text-property",
   slug: "icon",
   propertySlug: "icon",
-  definition: "the icon a thing is shown with",
+  definition: "a thing's icon",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

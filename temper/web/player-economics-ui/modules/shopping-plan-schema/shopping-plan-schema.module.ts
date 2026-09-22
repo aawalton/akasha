@@ -4,7 +4,7 @@ export const shoppingPlanSchema = {
   id: "01a063a1-8cc1-700b-9802-5c6240a89c0e",
   type: "page-type/module",
   slug: "shopping-plan-schema",
-  definition: "the shape a shopping plan arrives in",
+  definition: "a shopping plan's shape",
   code: "ts",
   test: "ts",
 } as const satisfies Module
