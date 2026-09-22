@@ -6,5 +6,6 @@ export const splintersprayShatterbolt = {
   slug: "splinterspray-shatterbolt",
   title: "Splinterspray Shatterbolt",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

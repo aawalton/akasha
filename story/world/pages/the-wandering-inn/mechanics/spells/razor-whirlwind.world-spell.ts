@@ -6,5 +6,6 @@ export const razorWhirlwind = {
   slug: "razor-whirlwind",
   title: "Razor Whirlwind",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

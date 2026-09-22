@@ -6,5 +6,6 @@ export const razorwindDisc = {
   slug: "razorwind-disc",
   title: "Razorwind Disc",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

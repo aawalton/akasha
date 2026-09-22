@@ -6,5 +6,6 @@ export const removeHangover = {
   slug: "remove-hangover",
   title: "Remove Hangover",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

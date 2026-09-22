@@ -6,5 +6,6 @@ export const royalCastingReinforcementOfSteel = {
   slug: "royal-casting-reinforcement-of-steel",
   title: "Royal Casting: Reinforcement of Steel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

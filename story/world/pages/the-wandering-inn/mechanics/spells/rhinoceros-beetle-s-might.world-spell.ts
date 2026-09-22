@@ -6,5 +6,6 @@ export const rhinocerosBeetleSMight = {
   slug: "rhinoceros-beetle-s-might",
   title: "Rhinoceros Beetle’s Might",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

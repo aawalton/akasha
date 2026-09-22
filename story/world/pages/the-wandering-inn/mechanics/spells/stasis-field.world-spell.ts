@@ -6,5 +6,6 @@ export const stasisField = {
   slug: "stasis-field",
   title: "Stasis Field",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSpell

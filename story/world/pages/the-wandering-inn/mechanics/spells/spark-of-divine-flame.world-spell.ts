@@ -6,5 +6,6 @@ export const sparkOfDivineFlame = {
   slug: "spark-of-divine-flame",
   title: "Spark of Divine Flame",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

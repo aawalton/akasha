@@ -6,5 +6,6 @@ export const reinforceBindings = {
   slug: "reinforce-bindings",
   title: "Reinforce Bindings",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

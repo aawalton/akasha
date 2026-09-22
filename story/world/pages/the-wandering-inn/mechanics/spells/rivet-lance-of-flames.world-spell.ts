@@ -6,5 +6,6 @@ export const rivetLanceOfFlames = {
   slug: "rivet-lance-of-flames",
   title: "Rivet-Lance of Flames",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

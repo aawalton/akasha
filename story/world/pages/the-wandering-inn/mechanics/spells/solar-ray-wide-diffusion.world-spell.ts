@@ -6,5 +6,6 @@ export const solarRayWideDiffusion = {
   slug: "solar-ray-wide-diffusion",
   title: "Solar Ray: Wide Diffusion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

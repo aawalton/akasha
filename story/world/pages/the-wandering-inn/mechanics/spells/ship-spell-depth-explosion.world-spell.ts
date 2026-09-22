@@ -6,5 +6,6 @@ export const shipSpellDepthExplosion = {
   slug: "ship-spell-depth-explosion",
   title: "Ship Spell: Depth Explosion",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

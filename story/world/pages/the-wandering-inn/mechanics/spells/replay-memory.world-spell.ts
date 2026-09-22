@@ -6,5 +6,6 @@ export const replayMemory = {
   slug: "replay-memory",
   title: "Replay Memory",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

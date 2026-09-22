@@ -6,5 +6,6 @@ export const snapFroze = {
   slug: "snap-froze",
   title: "Snap Froze",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

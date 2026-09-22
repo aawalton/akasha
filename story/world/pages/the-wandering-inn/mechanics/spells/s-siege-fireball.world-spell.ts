@@ -6,5 +6,6 @@ export const sSiegeFireball = {
   slug: "s-siege-fireball",
   title: "S-Siege Fireball",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

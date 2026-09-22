@@ -6,5 +6,6 @@ export const sealingGatesOfTheFiveSages = {
   slug: "sealing-gates-of-the-five-sages",
   title: "Sealing Gates of the Five Sages",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

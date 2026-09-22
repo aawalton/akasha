@@ -6,5 +6,6 @@ export const sphereOfAnonymity = {
   slug: "sphere-of-anonymity",
   title: "Sphere of Anonymity",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell

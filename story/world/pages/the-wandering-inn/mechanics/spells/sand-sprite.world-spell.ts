@@ -6,5 +6,6 @@ export const sandSprite = {
   slug: "sand-sprite",
   title: "Sand Sprite",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSpell
