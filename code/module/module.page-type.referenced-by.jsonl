@@ -5205,7 +5205,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-staging/ui-staging.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-windows/ui-windows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/backpack-settings-types/backpack-settings-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/capture-instant/capture-instant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.ts"}

@@ -1373,6 +1373,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.ts","id":"01a0959d-e8ec-72b0-95be-efffc8405b8a"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.ts","id":"01a0603c-c1d9-7f77-bcad-d46ad5150baa"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.ts","id":"01a09b33-22e4-76f4-8c16-420d5f6923df"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/picture/temper-picture.command.ts","id":"01a0ca66-a24e-707c-9316-688e7ba7452b"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.ts","id":"01a0603c-c1da-7a8b-ad5e-79907918ed2a"}
 {"propertySlug":"decision-kind","path":"command/pages/track/food/track-food.command.ts","id":"01a06809-250b-7ec1-99ac-2150ec2c5f74"}
 {"propertySlug":"decision-kind","path":"command/pages/track/health-import/track-health-import.command.ts","id":"01a0620c-6340-70c9-a176-730aa9470e96"}
@@ -1971,7 +1972,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts","id":"01a0c9dd-cc82-7f73-b0c4-69cb07323425"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.ts","id":"01a0c9e5-f156-7ff3-866f-f671da96312f"}
-{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/temper-eso-ui-harness.domain.ts","id":"01a0c977-ed0f-7969-a841-8e503fdcfb0b"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-windows/ui-windows.module.ts","id":"01a0ca65-c4cb-73a7-ad02-0bed65be11c3"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-event-model/ui-event-model.lua-module.ts","id":"01a0c98b-f0fa-7635-957c-f4b8fc656fe0"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-text-model/ui-text-model.lua-module.ts","id":"01a0c9f5-7be6-7247-880c-a8fde9d42eb2"}

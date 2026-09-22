@@ -9,6 +9,7 @@ export const temper = {
     "command/temper-auto-quest-trace",
     "command/temper-error-list",
     "command/temper-package-typecheck",
+    "command/temper-picture",
     "namespace/temper-addon",
     "namespace/temper-catalog",
     "namespace/temper-community",

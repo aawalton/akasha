@@ -263,6 +263,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts"}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/picture/temper-picture.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/watcher/log/temper-watcher-log.command.code.ts"}
