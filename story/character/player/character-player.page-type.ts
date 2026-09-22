@@ -9,5 +9,5 @@ export const characterPlayer = {
   types: "ts",
   schema: "jsonl",
   properties: [{ pageProperty: "relation-property/person", required: true, many: false }],
-  parts: ["relation-property/person"],
+  parts: [],
 } as const satisfies PageType
