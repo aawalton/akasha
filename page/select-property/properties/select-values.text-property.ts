@@ -5,7 +5,7 @@ export const selectValues = {
   type: "page-type/text-property",
   slug: "select-values",
   propertySlug: "values",
-  definition: "one value a select property admits",
+  definition: "a value a select property admits",
   maxLength: 100,
   nameFormat: null,
   decisions: [

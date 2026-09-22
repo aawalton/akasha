@@ -4,7 +4,7 @@ export const indexBuilding = {
   id: "01a0a120-e0b6-7e06-a347-7282763bf802",
   type: "page-type/module",
   slug: "index-building",
-  definition: "the index built for a checkout by running one file",
+  definition: "the index built for a checkout by running a file",
   code: "ts",
   test: "ts",
   decisions: [

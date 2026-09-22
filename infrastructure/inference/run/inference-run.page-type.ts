@@ -4,7 +4,7 @@ export const inferenceRun = {
   id: "019ea7d8-5e16-7237-b2e0-4ce47633aa58",
   type: "page-type/page-type",
   slug: "inference-run",
-  definition: "one loading of a model to make something, and how it went",
+  definition: "a loading of a model to make something, and how it went",
   extends: ["page-type/page"],
   parts: [
     "module/generation-log",

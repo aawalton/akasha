@@ -5,7 +5,7 @@ export const entries = {
   type: "page-type/file-property",
   slug: "entries",
   propertySlug: "entries",
-  definition: "what one run cost, one line appended as that run ends",
+  definition: "what a run cost, a line appended as that run ends",
   extensions: ["jsonl"],
   generated: true,
   decisions: [

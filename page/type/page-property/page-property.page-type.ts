@@ -6,7 +6,7 @@ export const pageProperty = {
   id: "01a04dff-9d7d-7459-a8c0-e038dc7714c3",
   type: "page-type/page-type",
   slug: "page-property",
-  definition: "one value a page carries",
+  definition: "a value a page carries",
   pluralSlug: "properties",
   parts: [
     "boolean-property/holds-bytes",

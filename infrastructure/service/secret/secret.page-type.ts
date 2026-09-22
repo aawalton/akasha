@@ -4,7 +4,7 @@ export const secret = {
   id: "01a0684a-7d55-7000-bf3d-deee6d805174",
   type: "page-type/page-type",
   slug: "secret",
-  definition: "one secret value under a name of its own",
+  definition: "a secret value under a name of its own",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "secret" },
     { partOfSpeech: "part-of-speech/noun", spelling: "secrets" },

@@ -5,7 +5,7 @@ export const mediaVariantAxis = {
   type: "page-type/text-property",
   slug: "media-variant-axis",
   propertySlug: "variant-axis",
-  definition: "what a page's audio is rendered once per, so one page has several renditions",
+  definition: "what a page's audio is rendered once per, so a page has several renditions",
   maxLength: 64,
   nameFormat: null,
   decisions: [

@@ -4,7 +4,7 @@ export const image = {
   id: "019f14c3-27e4-7b72-bc0c-6e12bbd8577a",
   type: "page-type/page-type",
   slug: "image",
-  definition: "one picture the system has",
+  definition: "a picture the system has",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "image" },
     { partOfSpeech: "part-of-speech/noun", spelling: "images" },

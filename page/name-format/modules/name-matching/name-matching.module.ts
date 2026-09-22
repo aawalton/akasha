@@ -4,7 +4,7 @@ export const nameMatching = {
   id: "01a04eba-7459-7284-8c06-c79e5963387d",
   type: "page-type/module",
   slug: "name-matching",
-  definition: "the one rule by which a name format answers whether a name is written in it",
+  definition: "the rule by which a name format answers whether a name is written in it",
   code: "ts",
   test: "ts",
   decisions: [

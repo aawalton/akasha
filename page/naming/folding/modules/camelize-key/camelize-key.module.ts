@@ -4,7 +4,7 @@ export const camelizeKey = {
   id: "01a090e5-14b5-76c8-a2aa-3fc1519a8db3",
   type: "page-type/module",
   slug: "camelize-key",
-  definition: "a name rewritten as one word with a capital opening every word after the first",
+  definition: "a name rewritten as a word with a capital opening every word after the first",
   code: "ts",
   decisions: [
     {

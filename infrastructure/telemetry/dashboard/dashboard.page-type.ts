@@ -4,7 +4,7 @@ export const dashboard = {
   id: "01a07c67-a724-7337-8adc-5a5e3a393057",
   type: "page-type/page-type",
   slug: "dashboard",
-  definition: "what a chart server draws over one subject",
+  definition: "what a chart server draws over a subject",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "dashboard" },
     { partOfSpeech: "part-of-speech/noun", spelling: "dashboards" },

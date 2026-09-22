@@ -4,7 +4,7 @@ export const deployLooping = {
   id: "01a09586-62c0-7ed5-a9a3-5dbfbfbbabbe",
   type: "page-type/module",
   slug: "deploy-looping",
-  definition: "one tick of the loop putting up the service of one kind that is furthest behind",
+  definition: "a tick of the loop putting up the service of a kind that is furthest behind",
   code: "ts",
   test: "ts",
   decisions: [

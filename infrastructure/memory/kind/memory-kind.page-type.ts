@@ -4,7 +4,7 @@ export const memoryKind = {
   id: "01a0912d-e1a4-76ac-8b44-8632c97fc053",
   type: "page-type/page-type",
   slug: "memory-kind",
-  definition: "one measure a reading of memory is taken in",
+  definition: "a measure a reading of memory is taken in",
   extends: ["page-type/domain"],
   parts: [
     "memory-kind/available",
