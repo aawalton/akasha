@@ -4,7 +4,7 @@ export const watcherDispatch = {
   id: "01a063c7-b03c-7191-b9c8-91abbe234ffd",
   type: "page-type/module",
   slug: "watcher-dispatch",
-  definition: "which imports and exports one kind of saved-variables file is carried across by",
+  definition: "which imports and exports a kind of saved-variables file is carried across by",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const temperCompanionProgress = {
   id: "01a05fcd-f54b-7497-b549-b7f8ef55b323",
   type: "page-type/page-type",
   slug: "temper-companion-progress",
-  definition: "how far a companion has come with one account",
+  definition: "how far a companion has come with an account",
   extends: ["page-type/temper-character-thing"],
   parts: ["relation-property/companion-roles"],
   properties: [

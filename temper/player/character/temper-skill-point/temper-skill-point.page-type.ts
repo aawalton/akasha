@@ -4,7 +4,7 @@ export const temperSkillPoint = {
   id: "01a05fcd-f559-75c5-bd78-0041c552d484",
   type: "page-type/page-type",
   slug: "temper-skill-point",
-  definition: "one source a character earns skill points from",
+  definition: "a source a character earns skill points from",
   extends: ["page-type/temper-character-thing"],
   parts: [
     "boolean-property/pvp",

@@ -4,7 +4,7 @@ export const temperSale = {
   id: "019f71f3-8523-7dcc-a2c3-ae8bbddd28ad",
   type: "page-type/page-type",
   slug: "temper-sale",
-  definition: "one item sold through a guild store, and what it fetched",
+  definition: "an item sold through a guild store, and what it fetched",
   extends: ["page-type/temper-thing"],
   parts: [
     "instant-property/sold-at",

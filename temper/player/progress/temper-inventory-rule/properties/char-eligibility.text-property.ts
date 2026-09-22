@@ -5,7 +5,7 @@ export const charEligibility = {
   type: "page-type/text-property",
   slug: "char-eligibility",
   propertySlug: "char-eligibility",
-  definition: "which characters one leg of a destination chain will send an item to",
+  definition: "which characters a leg of a destination chain will send an item to",
   maxLength: 500,
   nameFormat: null,
   decisions: [

@@ -4,7 +4,7 @@ export const completionCardTaskProgress = {
   id: "01a0641c-83b4-7fba-b338-0d13a366420a",
   type: "page-type/module",
   slug: "completion-card-task-progress",
-  definition: "how far along one completion card is for one character, card by card",
+  definition: "how far along a completion card is for a character, card by card",
   code: "ts",
   decisions: [
     {

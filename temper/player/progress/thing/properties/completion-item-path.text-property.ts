@@ -5,7 +5,7 @@ export const completionItemPath = {
   type: "page-type/text-property",
   slug: "completion-item-path",
   propertySlug: "completion-item-path",
-  definition: "one step of the way down a completion card to the item counted",
+  definition: "a step of the way down a completion card to the item counted",
   maxLength: 100,
   nameFormat: null,
   decisions: [

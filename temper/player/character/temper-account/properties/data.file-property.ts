@@ -5,7 +5,7 @@ export const data = {
   type: "page-type/file-property",
   slug: "data",
   propertySlug: "data",
-  definition: "the bytes one whole reading was written as",
+  definition: "the bytes a whole reading was written as",
   extensions: ["json"],
   decisions: [
     {

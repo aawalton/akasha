@@ -5,7 +5,7 @@ export const merchantValue = {
   type: "page-type/number-property",
   slug: "merchant-value",
   propertySlug: "merchant-value",
-  definition: "what a merchant pays for one item",
+  definition: "what a merchant pays for an item",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
