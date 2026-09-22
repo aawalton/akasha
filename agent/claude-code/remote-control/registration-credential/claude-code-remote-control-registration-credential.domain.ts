@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const seatCredential = {
+export const claudeCodeRemoteControlRegistrationCredential = {
   id: "01a08866-f117-71ad-a4ee-7c213a9155b8",
   type: "page-type/domain",
-  slug: "seat-credential",
-  definition: "the credential that signs in a seat's account",
+  slug: "claude-code-remote-control-registration-credential",
+  definition: "a registration account's credential in the file Claude Code reads",
   parts: ["module/account-terminal", "module/oauth-health-lines", "module/supervisor-credentials"],
 } as const satisfies Domain

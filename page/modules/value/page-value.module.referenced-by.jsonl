@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/account/modules/measuring/model-account-measuring.module.code.ts"}
@@ -8,7 +9,6 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"}

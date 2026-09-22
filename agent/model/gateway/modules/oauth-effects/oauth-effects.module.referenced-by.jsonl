@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/model/account/modules/credential-file/model-account-credential-file.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/model/account/modules/refreshing/model-account-refreshing.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/model/account/modules/renewing/model-account-renewing.module.code.ts"}
@@ -10,7 +11,6 @@
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/model/gateway/modules/proxy-start/proxy-start.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/model/gateway/modules/proxy-start/proxy-start.module.test.ts"}
-{"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
 {"propertySlug":"import","fileName":"oauth-effects.module.test-fixtures.ts","path":"agent/model/gateway/modules/account-picker/account-picker.module.test.ts"}

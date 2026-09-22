@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
@@ -23,7 +24,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/modules/read-record/read-record.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"}

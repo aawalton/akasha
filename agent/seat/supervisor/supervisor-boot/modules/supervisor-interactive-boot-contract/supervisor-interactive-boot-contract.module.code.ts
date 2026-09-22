@@ -1,5 +1,5 @@
+import type { buildCredentialSubsystem } from "akasha/agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import type { ToolRestrictions } from "akasha/agent/modules/tool-access/tool-access.module.code.ts"
-import type { buildCredentialSubsystem } from "akasha/agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import type { ProxyLivenessRuleSource } from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import type { startPerAgentMonitors } from "akasha/agent/seat/supervisor/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"

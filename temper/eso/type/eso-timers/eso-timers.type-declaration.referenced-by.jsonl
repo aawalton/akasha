@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/delivery-witness/agent-message-delivery-witness.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/message/modules/file-watch/agent-message-file-watch.module.code.ts"}
@@ -21,7 +22,6 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/model/gateway/modules/server-error-retry/server-error-retry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.test.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/model/modules/asking/model-asking.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/launching/seat-launching.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/modules/tmux-session/tmux-session.module.code.ts"}

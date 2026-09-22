@@ -21,7 +21,7 @@ export const seat = {
     "domain/oauth-proxy",
     "domain/pty",
     "domain/seat-capability",
-    "domain/seat-credential",
+
     "domain/seat-declaration",
     "domain/seat-fleet",
     "domain/seat-name",

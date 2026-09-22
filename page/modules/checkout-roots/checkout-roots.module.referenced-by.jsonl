@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/claude-code/remote-control/modules/env/claude-code-remote-control-env.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/modules/links/hook-links.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/modules/links/hook-links.module.test.ts"}
@@ -17,7 +18,6 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/gateway/modules/proxy-entry/proxy-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/declaration/modules/seat-args/seat-args.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/declaration/modules/seat-initiative/seat-initiative.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"}

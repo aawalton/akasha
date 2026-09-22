@@ -1,4 +1,13 @@
 import {
+  clearAccountTerminal,
+  isAccountTerminal,
+  markAccountTerminal,
+} from "akasha/agent/claude-code/remote-control/registration-credential/modules/account-terminal/account-terminal.module.code.ts"
+import {
+  reportOAuthRecovered,
+  reportTerminalOAuthError,
+} from "akasha/agent/claude-code/remote-control/registration-credential/modules/oauth-health-lines/oauth-health-lines.module.code.ts"
+import {
   DOORS,
   fileRefreshedFrom,
   fileWatched,
@@ -8,15 +17,6 @@ import {
   DOORS as EFFECT_DOORS,
   markedOn,
 } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import {
-  clearAccountTerminal,
-  isAccountTerminal,
-  markAccountTerminal,
-} from "akasha/agent/seat/credential/modules/account-terminal/account-terminal.module.code.ts"
-import {
-  reportOAuthRecovered,
-  reportTerminalOAuthError,
-} from "akasha/agent/seat/credential/modules/oauth-health-lines/oauth-health-lines.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   type SupervisorOAuthProxyHandle,

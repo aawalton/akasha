@@ -47,6 +47,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/degraded-state/claude-code-remote-control-degraded-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/degraded-thresholds/claude-code-remote-control-degraded-thresholds.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/env/claude-code-remote-control-env.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/registration-credential/modules/account-terminal/account-terminal.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/registration-credential/modules/oauth-health-lines/oauth-health-lines.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl/session-jsonl.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.ts"}
@@ -180,9 +183,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/tool-access/tool-access.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/turn-drawn/agent-turn-drawn.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/credential/modules/account-terminal/account-terminal.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/credential/modules/oauth-health-lines/oauth-health-lines.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-answering/seat-answering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-args/seat-args.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-attribute/seat-attribute.module.ts"}
