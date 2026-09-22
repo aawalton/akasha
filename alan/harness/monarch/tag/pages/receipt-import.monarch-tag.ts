@@ -7,6 +7,6 @@ export const receiptImport = {
   title: "Receipt Import",
   definition: "the tag marking a transaction as Receipt Import",
   monarchId: "252673595024481032",
-  tagColour: "#8e4ec6",
+  tagColor: "#8e4ec6",
   tagPlace: 11,
 } as const satisfies MonarchTag

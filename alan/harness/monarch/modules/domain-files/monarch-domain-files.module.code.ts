@@ -181,7 +181,7 @@ function categoryWanted(c: MonarchCategory): Wanted {
 
 function tagWanted(t: MonarchTag): Wanted {
   const values: Record<string, Value> = {}
-  if (t.color !== null) values.tagColour = t.color
+  if (t.color !== null) values.tagColor = t.color
   if (t.order !== null) values.tagPlace = t.order
   return {
     monarchId: t.id,

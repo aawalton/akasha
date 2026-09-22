@@ -156,7 +156,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/statement-line.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/transaction-note.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/record/properties/monarch-id.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/tag/properties/tag-colour.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/monarch/tag/properties/tag-color.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-body.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-kind.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-link.text-property.ts"}

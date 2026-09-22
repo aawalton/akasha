@@ -7,6 +7,6 @@ export const ai = {
   title: "AI",
   definition: "the tag marking a transaction as AI spending",
   monarchId: "251487307081586966",
-  tagColour: "#bdee63",
+  tagColor: "#bdee63",
   tagPlace: 10,
 } as const satisfies MonarchTag
