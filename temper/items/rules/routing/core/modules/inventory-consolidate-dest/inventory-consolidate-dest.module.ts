@@ -4,7 +4,7 @@ export const inventoryConsolidateDest = {
   id: "01a06151-3707-766e-bfa9-91d05b3b9c5c",
   type: "page-type/module",
   slug: "inventory-consolidate-dest",
-  definition: "whether a destination gathers one thing from every character into one place",
+  definition: "whether a destination gathers a thing from every character into a place",
   code: "ts",
   decisions: [
     {

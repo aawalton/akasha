@@ -5,7 +5,7 @@ export const ruleConditionEval = {
   type: "page-type/module",
   slug: "rule-condition-eval",
   definition:
-    "the fixed order of condition checkers run against one compiled rule and one item's facts",
+    "the fixed order of condition checkers run against a compiled rule and an item's facts",
   code: "ts",
   decisions: [
     {
