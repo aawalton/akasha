@@ -47,6 +47,10 @@ export const messageSending = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A send names its writer as a name and an address, as a write to the pages does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message the pages refused is refused with what the pages said.",
     },
     {
