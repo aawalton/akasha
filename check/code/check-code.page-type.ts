@@ -222,10 +222,6 @@ export const checkCode = {
         "The shadow's listing, its holding and its page reading are the reaches a check may make.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "An audit reads the checkout to make the change an overlay is laid over.",
-    },
-    {
       decisionKind: "decision-kind/gap",
       statement: "A check's decision is handed the shadow wherever that decision lists.",
     },
