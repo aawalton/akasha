@@ -20,5 +20,5 @@ export const scribedTorchbearerFlameDamage = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/flame-damage",
-  grimoireId: "torchbearer",
+  grimoireId: "temper-grimoire/torchbearer",
 } as const satisfies TemperScribedSkill

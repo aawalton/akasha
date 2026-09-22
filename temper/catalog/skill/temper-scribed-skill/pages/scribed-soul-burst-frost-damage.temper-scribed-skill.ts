@@ -20,5 +20,5 @@ export const scribedSoulBurstFrostDamage = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/frost-damage",
-  grimoireId: "soul-burst",
+  grimoireId: "temper-grimoire/soul-burst",
 } as const satisfies TemperScribedSkill

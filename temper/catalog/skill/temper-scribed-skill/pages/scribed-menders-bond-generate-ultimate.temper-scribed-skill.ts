@@ -19,5 +19,5 @@ export const scribedMendersBondGenerateUltimate = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/generate-ultimate",
-  grimoireId: "menders-bond",
+  grimoireId: "temper-grimoire/menders-bond",
 } as const satisfies TemperScribedSkill

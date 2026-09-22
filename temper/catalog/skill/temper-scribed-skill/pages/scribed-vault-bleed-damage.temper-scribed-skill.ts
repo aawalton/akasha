@@ -20,5 +20,5 @@ export const scribedVaultBleedDamage = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/bleed-damage",
-  grimoireId: "vault",
+  grimoireId: "temper-grimoire/vault",
 } as const satisfies TemperScribedSkill

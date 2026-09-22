@@ -20,5 +20,5 @@ export const scribedTravelingKnifePull = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/pull",
-  grimoireId: "traveling-knife",
+  grimoireId: "temper-grimoire/traveling-knife",
 } as const satisfies TemperScribedSkill

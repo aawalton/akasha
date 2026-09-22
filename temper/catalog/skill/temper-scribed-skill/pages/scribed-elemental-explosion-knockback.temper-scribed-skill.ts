@@ -19,5 +19,5 @@ export const scribedElementalExplosionKnockback = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/knockback",
-  grimoireId: "elemental-explosion",
+  grimoireId: "temper-grimoire/elemental-explosion",
 } as const satisfies TemperScribedSkill

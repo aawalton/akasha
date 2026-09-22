@@ -19,5 +19,5 @@ export const scribedShieldThrowTaunt = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/taunt",
-  grimoireId: "shield-throw",
+  grimoireId: "temper-grimoire/shield-throw",
 } as const satisfies TemperScribedSkill

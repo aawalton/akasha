@@ -20,5 +20,5 @@ export const scribedMendersBondDamageShield = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/damage-shield",
-  grimoireId: "menders-bond",
+  grimoireId: "temper-grimoire/menders-bond",
 } as const satisfies TemperScribedSkill

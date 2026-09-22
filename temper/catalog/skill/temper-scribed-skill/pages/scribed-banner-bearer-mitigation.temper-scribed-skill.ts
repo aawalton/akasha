@@ -19,5 +19,5 @@ export const scribedBannerBearerMitigation = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/mitigation",
-  grimoireId: "banner-bearer",
+  grimoireId: "temper-grimoire/banner-bearer",
 } as const satisfies TemperScribedSkill

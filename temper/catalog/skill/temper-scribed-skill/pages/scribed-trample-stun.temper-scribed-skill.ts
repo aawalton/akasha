@@ -19,5 +19,5 @@ export const scribedTrampleStun = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/stun",
-  grimoireId: "trample",
+  grimoireId: "temper-grimoire/trample",
 } as const satisfies TemperScribedSkill

@@ -20,5 +20,5 @@ export const scribedUlfsildsContingencyImmobilize = {
   skillType: "temper-skill-type/active",
   subcategoryId: "scribed",
   focusScriptId: "temper-focus-script/immobilize",
-  grimoireId: "ulfsilds-contingency",
+  grimoireId: "temper-grimoire/ulfsilds-contingency",
 } as const satisfies TemperScribedSkill
