@@ -34,6 +34,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-condition-field","unique":null,"uniquePropertySlug":null,"slug":"condition-field","propertySlug":"condition-field","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"craft-day-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-inventory-currency","unique":null,"uniquePropertySlug":null,"slug":"currency-key","propertySlug":"currency-key","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"day","unique":null,"uniquePropertySlug":null,"slug":"daily-tracking","propertySlug":"daily-tracking","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"day","unique":null,"uniquePropertySlug":null,"slug":"day","propertySlug":"day","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"decision-group","unique":null,"uniquePropertySlug":null,"slug":"decision-group","propertySlug":"decision-group","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"decision-kind","unique":null,"uniquePropertySlug":null,"slug":"decision-kind","propertySlug":"decision-kind","fileName":null,"folderName":null}

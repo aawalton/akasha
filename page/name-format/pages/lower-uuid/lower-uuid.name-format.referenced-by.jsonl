@@ -14,7 +14,6 @@
 {"propertySlug":"name-format","path":"agent/model/account/properties/account-uuid.text-property.ts","id":"01a054d8-1d39-7b26-b3d7-5857ea15a1b4"}
 {"propertySlug":"name-format","path":"agent/seat/properties/claude-code-session-uuid.text-property.ts","id":"01a053e4-cf4a-7e0c-a936-1a0a62a7b7e5"}
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/meals.text-property.ts","id":"01a05fd8-c30f-7952-9ba0-4a131ba3347a"}
-{"propertySlug":"name-format","path":"alan/track/daily/day/properties/sessions/properties/daily-tracking.text-property.ts","id":"01a05fd8-c30f-7127-badb-476efde0211e"}
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/sessions/properties/relationships.text-property.ts","id":"01a05fd8-c30f-754a-bb2e-de6ec74d6e4a"}
 {"propertySlug":"name-format","path":"page/properties/id.text-property.ts","id":"01a049b9-856c-7ee7-b958-f63eead00582"}
 {"propertySlug":"name-format","path":"person/device-secret/properties/device-secret-user-id.text-property.ts","id":"01a05b39-f50c-7103-abe2-bf3c03f7aab4"}

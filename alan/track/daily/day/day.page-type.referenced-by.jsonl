@@ -289,4 +289,5 @@
 {"propertySlug":"import","fileName":"day.page-type.types.ts","path":"alan/track/daily/day/properties/strength-calories.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"day.page-type.types.ts","path":"alan/track/daily/day/properties/wealth-level.computed-property.code.ts"}
 {"propertySlug":"parts","path":"alan/track/daily/track-daily.domain.ts","id":"01a062dc-1b7f-7c99-a886-e67035171fdf"}
+{"propertySlug":"target-page-type","path":"alan/track/daily/day/properties/sessions/properties/daily-tracking.relation-property.ts","id":"01a05fd8-c30f-7127-badb-476efde0211e"}
 {"propertySlug":"target-page-type","path":"alan/value/health/fitness/strength/log/properties/day.relation-property.ts","id":"01a077c9-150b-7560-ba89-d3c1c8821d62"}

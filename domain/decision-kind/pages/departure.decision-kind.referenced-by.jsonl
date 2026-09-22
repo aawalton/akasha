@@ -1132,6 +1132,7 @@
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/project-hours.computed-property.ts","id":"01a079c7-08a2-7126-a95c-29853fc8e604"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/safety-level.text-property.ts","id":"01a05fd8-c30f-757c-bda6-861e73844e8b"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/capacity-rate.number-property.ts","id":"01a05fd8-c30f-7486-b22b-7e17134582db"}
+{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/daily-tracking.relation-property.ts","id":"01a05fd8-c30f-7127-badb-476efde0211e"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/difficulty-level.text-property.ts","id":"01a05fd8-c30f-7785-9331-9f5fa8347452"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts","id":"01a05fd8-c30f-799b-aa06-004072744b31"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sleep-hours.computed-property.ts","id":"01a072ee-1b88-7477-8c90-7b5dc8e4d472"}
