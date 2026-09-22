@@ -4,7 +4,7 @@ export const rruleWording = {
   id: "01a0c4f9-83fa-7dde-aee6-9ce457c3ea99",
   type: "page-type/module",
   slug: "rrule-wording",
-  definition: "what a recurrence rule reads as where a page shows one",
+  definition: "what a recurrence rule is worded as where a page shows one",
   code: "ts",
   test: "ts",
   decisions: [

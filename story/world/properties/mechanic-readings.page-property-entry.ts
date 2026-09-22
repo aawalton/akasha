@@ -5,7 +5,7 @@ export const mechanicReadings = {
   type: "page-type/page-property-entry",
   slug: "mechanic-readings",
   propertySlug: "mechanic-readings",
-  definition: "how each name a world's text uses is read as a mechanic, one name to a line",
+  definition: "how each name a world's text uses is taken as a mechanic, one name to a line",
   properties: [
     { pageProperty: "text-property/reading-slug", required: true, many: false },
     { pageProperty: "text-property/reading-name", required: true, many: false },

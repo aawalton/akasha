@@ -5,7 +5,7 @@ export const characterReadings = {
   type: "page-type/page-property-entry",
   slug: "character-readings",
   propertySlug: "character-readings",
-  definition: "how each name a world's text uses is read as a character, one name to a line",
+  definition: "how each name a world's text uses is taken as a character, one name to a line",
   properties: [
     { pageProperty: "text-property/reading-slug", required: true, many: false },
     { pageProperty: "text-property/reading-name", required: true, many: false },

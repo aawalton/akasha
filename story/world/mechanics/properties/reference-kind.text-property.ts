@@ -5,7 +5,7 @@ export const referenceKind = {
   type: "page-type/text-property",
   slug: "reference-kind",
   propertySlug: "kind",
-  definition: "which kind of mechanic a naming reads as",
+  definition: "which kind of mechanic a naming is taken as",
   maxLength: 36,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

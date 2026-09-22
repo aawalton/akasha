@@ -5,7 +5,7 @@ export const claimedBySlug = {
   type: "page-type/text-property",
   slug: "claimed-by-slug",
   propertySlug: "claimed-by-slug",
-  definition: "the character the text is read as giving it to",
+  definition: "the character the text is taken as giving it to",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

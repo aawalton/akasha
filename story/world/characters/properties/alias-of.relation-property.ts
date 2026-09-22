@@ -5,7 +5,7 @@ export const aliasOf = {
   type: "page-type/relation-property",
   slug: "alias-of",
   propertySlug: "alias-of",
-  definition: "the character another name for that character is read as",
+  definition: "the character another name for that character is taken as",
   targetPageType: "page-type/world-character",
   decisions: [
     {
