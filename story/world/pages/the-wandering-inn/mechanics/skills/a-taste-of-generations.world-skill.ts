@@ -6,5 +6,6 @@ export const aTasteOfGenerations = {
   slug: "a-taste-of-generations",
   title: "A Taste of Generations",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

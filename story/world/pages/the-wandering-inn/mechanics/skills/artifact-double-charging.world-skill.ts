@@ -6,5 +6,6 @@ export const artifactDoubleCharging = {
   slug: "artifact-double-charging",
   title: "Artifact: Double Charging",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

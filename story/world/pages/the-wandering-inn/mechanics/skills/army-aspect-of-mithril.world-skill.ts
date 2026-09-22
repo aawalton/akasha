@@ -6,5 +6,6 @@ export const armyAspectOfMithril = {
   slug: "army-aspect-of-mithril",
   title: "Army: Aspect of Mithril",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

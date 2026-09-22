@@ -6,5 +6,6 @@ export const animalsBasicCommand = {
   slug: "animals-basic-command",
   title: "Animals: Basic Command",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

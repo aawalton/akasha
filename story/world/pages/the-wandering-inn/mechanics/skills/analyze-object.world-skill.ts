@@ -6,5 +6,6 @@ export const analyzeObject = {
   slug: "analyze-object",
   title: "Analyze Object",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

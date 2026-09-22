@@ -6,5 +6,6 @@ export const aegisOfRoshalSChosen = {
   slug: "aegis-of-roshal-s-chosen",
   title: "Aegis of Roshal’s Chos—",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

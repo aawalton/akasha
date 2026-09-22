@@ -6,5 +6,6 @@ export const appraise = {
   slug: "appraise",
   title: "Appraise",
   world: "world/the-wandering-inn",
+  appearanceCount: 11,
   references: "jsonl",
 } as const satisfies WorldSkill

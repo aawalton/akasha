@@ -6,5 +6,6 @@ export const adeptIceform = {
   slug: "adept-iceform",
   title: "Adept Iceform",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldSkill

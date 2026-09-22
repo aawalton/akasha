@@ -6,5 +6,6 @@ export const antiMagicSlash = {
   slug: "anti-magic-slash",
   title: "Anti-magic Slash",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

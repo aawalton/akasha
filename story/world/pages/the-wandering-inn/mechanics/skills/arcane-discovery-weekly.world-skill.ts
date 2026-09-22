@@ -6,5 +6,6 @@ export const arcaneDiscoveryWeekly = {
   slug: "arcane-discovery-weekly",
   title: "Arcane Discovery (Weekly)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

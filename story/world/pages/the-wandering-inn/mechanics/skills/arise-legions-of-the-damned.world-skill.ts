@@ -6,5 +6,6 @@ export const ariseLegionsOfTheDamned = {
   slug: "arise-legions-of-the-damned",
   title: "Arise, Legions of the Damned",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

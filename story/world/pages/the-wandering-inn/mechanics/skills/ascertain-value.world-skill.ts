@@ -6,5 +6,6 @@ export const ascertainValue = {
   slug: "ascertain-value",
   title: "Ascertain Value",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

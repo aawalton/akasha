@@ -6,5 +6,6 @@ export const antiniumTelepathyWeak = {
   slug: "antinium-telepathy-weak",
   title: "Antinium Telepathy (Weak)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

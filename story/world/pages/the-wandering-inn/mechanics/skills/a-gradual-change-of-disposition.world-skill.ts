@@ -6,5 +6,6 @@ export const aGradualChangeOfDisposition = {
   slug: "a-gradual-change-of-disposition",
   title: "A Gradual Change of Disposition",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

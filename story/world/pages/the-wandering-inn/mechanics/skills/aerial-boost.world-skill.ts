@@ -6,5 +6,6 @@ export const aerialBoost = {
   slug: "aerial-boost",
   title: "Aerial Boost",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

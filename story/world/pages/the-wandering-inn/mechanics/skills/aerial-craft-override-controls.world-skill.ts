@@ -6,5 +6,6 @@ export const aerialCraftOverrideControls = {
   slug: "aerial-craft-override-controls",
   title: "Aerial Craft: Override Controls",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

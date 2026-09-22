@@ -6,5 +6,6 @@ export const armySpringwoodSupplies = {
   slug: "army-springwood-supplies",
   title: "Army: Springwood Supplies",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

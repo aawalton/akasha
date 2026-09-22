@@ -6,5 +6,6 @@ export const againAgainAndEverAgain = {
   slug: "again-again-and-ever-again",
   title: "Again, Again, and Ever Again",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

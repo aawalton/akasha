@@ -6,6 +6,7 @@ export const armformRazorkind = {
   slug: "armform-razorkind",
   title: "Armform: Razorkind",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   aliases: ["Armform (Razorkind)"],
   references: "jsonl",
 } as const satisfies WorldSkill

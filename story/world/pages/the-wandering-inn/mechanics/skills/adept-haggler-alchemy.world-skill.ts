@@ -6,5 +6,6 @@ export const adeptHagglerAlchemy = {
   slug: "adept-haggler-alchemy",
   title: "Adept Haggler (Alchemy)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const arrowguardShield = {
   slug: "arrowguard-shield",
   title: "Arrowguard Shield",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

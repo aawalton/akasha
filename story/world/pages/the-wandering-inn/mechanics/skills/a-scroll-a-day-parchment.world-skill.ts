@@ -6,5 +6,6 @@ export const aScrollADayParchment = {
   slug: "a-scroll-a-day-parchment",
   title: "A Scroll A Day: Parchment",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

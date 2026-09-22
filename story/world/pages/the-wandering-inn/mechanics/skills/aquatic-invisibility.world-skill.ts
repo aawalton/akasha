@@ -6,5 +6,6 @@ export const aquaticInvisibility = {
   slug: "aquatic-invisibility",
   title: "Aquatic Invisibility",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

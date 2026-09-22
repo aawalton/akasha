@@ -6,5 +6,6 @@ export const aspectOfTheChampionSupremeWisdom = {
   slug: "aspect-of-the-champion-supreme-wisdom",
   title: "Aspect of the Champion: Supreme Wisdom",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

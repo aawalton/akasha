@@ -6,5 +6,6 @@ export const alchemicalCoatingDullwitSLiquor = {
   slug: "alchemical-coating-dullwit-s-liquor",
   title: "Alchemical Coating: Dullwit’s Liquor",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

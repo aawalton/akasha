@@ -6,5 +6,6 @@ export const apistaFormChangeAshbringerScourgebee = {
   slug: "apista-form-change-ashbringer-scourgebee",
   title: "Apista: Form Change (Ashbringer Scourgebee)",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

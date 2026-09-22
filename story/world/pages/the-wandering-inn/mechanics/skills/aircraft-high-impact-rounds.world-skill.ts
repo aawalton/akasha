@@ -6,5 +6,6 @@ export const aircraftHighImpactRounds = {
   slug: "aircraft-high-impact-rounds",
   title: "Aircraft: High Impact Rounds",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const advantageTheUnchained = {
   slug: "advantage-the-unchained",
   title: "Advantage: The Unchained",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

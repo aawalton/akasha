@@ -6,5 +6,6 @@ export const armyCombinedActionPush = {
   slug: "army-combined-action-push",
   title: "Army: Combined Action — Push",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

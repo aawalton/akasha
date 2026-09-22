@@ -6,5 +6,6 @@ export const armformLiquid = {
   slug: "armform-liquid",
   title: "Armform: Liquid",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

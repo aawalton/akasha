@@ -6,5 +6,6 @@ export const aFineCopy = {
   slug: "a-fine-copy",
   title: "A Fine Copy",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

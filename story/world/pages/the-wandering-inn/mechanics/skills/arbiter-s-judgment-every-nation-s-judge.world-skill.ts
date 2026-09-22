@@ -6,5 +6,6 @@ export const arbiterSJudgmentEveryNationSJudge = {
   slug: "arbiter-s-judgment-every-nation-s-judge",
   title: "Arbiter’s Judgment: Every Nation’s Judge",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,6 +6,7 @@ export const advancedCooking = {
   slug: "advanced-cooking",
   title: "Advanced Cooking",
   world: "world/the-wandering-inn",
+  appearanceCount: 37,
   aliases: ["Advanced Cooking?"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -6,5 +6,6 @@ export const aerialDanceWaterfallStrikes = {
   slug: "aerial-dance-waterfall-strikes",
   title: "Aerial Dance: Waterfall Strikes",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

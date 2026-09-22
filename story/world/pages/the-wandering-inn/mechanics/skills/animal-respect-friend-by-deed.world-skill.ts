@@ -6,5 +6,6 @@ export const animalRespectFriendByDeed = {
   slug: "animal-respect-friend-by-deed",
   title: "Animal Respect: Friend by Deed",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

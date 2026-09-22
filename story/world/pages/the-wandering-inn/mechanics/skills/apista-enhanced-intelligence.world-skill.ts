@@ -6,5 +6,6 @@ export const apistaEnhancedIntelligence = {
   slug: "apista-enhanced-intelligence",
   title: "Apista: Enhanced Intelligence",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

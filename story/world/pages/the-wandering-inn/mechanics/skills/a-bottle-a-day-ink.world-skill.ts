@@ -6,5 +6,6 @@ export const aBottleADayInk = {
   slug: "a-bottle-a-day-ink",
   title: "A Bottle A Day: Ink",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

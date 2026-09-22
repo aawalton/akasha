@@ -6,5 +6,6 @@ export const anchoringShot = {
   slug: "anchoring-shot",
   title: "Anchoring Shot",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

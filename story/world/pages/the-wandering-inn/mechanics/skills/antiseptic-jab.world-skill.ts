@@ -6,5 +6,6 @@ export const antisepticJab = {
   slug: "antiseptic-jab",
   title: "Antiseptic Jab",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

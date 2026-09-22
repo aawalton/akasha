@@ -6,5 +6,6 @@ export const antiInvisibilitySight = {
   slug: "anti-invisibility-sight",
   title: "Anti-Invisibility Sight",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

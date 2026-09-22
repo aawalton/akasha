@@ -6,5 +6,6 @@ export const armoredAdvance = {
   slug: "armored-advance",
   title: "Armored Advance",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   references: "jsonl",
 } as const satisfies WorldSkill

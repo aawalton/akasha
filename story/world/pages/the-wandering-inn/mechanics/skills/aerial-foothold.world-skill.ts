@@ -6,5 +6,6 @@ export const aerialFoothold = {
   slug: "aerial-foothold",
   title: "Aerial Foothold",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill

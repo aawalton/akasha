@@ -6,5 +6,6 @@ export const areaFleetOfFoot = {
   slug: "area-fleet-of-foot",
   title: "Area: Fleet of Foot",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldSkill
