@@ -102,7 +102,6 @@
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/find-session/find-session.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/link-making/link-making.shell-script.ts"}
-{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/provision-macbook/provision-macbook.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/provision-workstation/provision-workstation.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/repo-roots/repo-roots.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"infrastructure/machine/provisioning/scripts/rg/rg.shell-script.ts"}
