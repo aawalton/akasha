@@ -6,7 +6,6 @@ export const innworldReading = {
   slug: "innworld-reading",
   definition: "the collections this wiki names in its sidebar",
   code: "ts",
-  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

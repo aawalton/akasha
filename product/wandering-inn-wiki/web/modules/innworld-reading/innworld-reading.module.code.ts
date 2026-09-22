@@ -1,5 +1,6 @@
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -11,13 +12,6 @@ export type Collection = {
   readonly slug: string
   readonly name: string
   readonly definition: string | null
-}
-
-export function titledAs(slug: string): string {
-  return slug
-    .split("-")
-    .map((word) => `${word.slice(0, 1).toUpperCase()}${word.slice(1)}`)
-    .join(" ")
 }
 
 export async function collectionsRead(): Promise<readonly Collection[]> {
