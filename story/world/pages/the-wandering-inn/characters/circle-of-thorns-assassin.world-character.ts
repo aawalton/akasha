@@ -6,6 +6,7 @@ export const circleOfThornsAssassin = {
   slug: "circle-of-thorns-assassin",
   title: "The Masked Assassin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 462,
   lastChapter: 462,
   characterClaims: "jsonl",

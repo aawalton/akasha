@@ -6,6 +6,7 @@ export const calistoca = {
   slug: "calistoca",
   title: "Calistoca",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 663,
   lastChapter: 663,
   characterClaims: "jsonl",

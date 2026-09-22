@@ -6,6 +6,7 @@ export const barelle = {
   slug: "barelle",
   title: "Barelle",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 671,
   lastChapter: 797,
   characterClaims: "jsonl",

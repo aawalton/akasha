@@ -6,6 +6,7 @@ export const cazmaw = {
   slug: "cazmaw",
   title: "Cazmaw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 716,
   lastChapter: 716,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const calac = {
   slug: "calac",
   title: "Calac",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 179,
   lastChapter: 370,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const caleffeUmbalt = {
   slug: "caleffe-umbalt",
   title: "Caleffe Umbalt",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 317,
   lastChapter: 317,
   characterClaims: "jsonl",

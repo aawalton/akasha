@@ -6,6 +6,7 @@ export const bearclaw = {
   slug: "bearclaw",
   title: "Bearclaw",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 379,
   lastChapter: 429,
   characterClaims: "jsonl",

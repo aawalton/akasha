@@ -6,6 +6,7 @@ export const bethScastein = {
   slug: "beth-scastein",
   title: "Elizabeth Scastein",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 14,
   eventCount: 15,
   firstChapter: 643,

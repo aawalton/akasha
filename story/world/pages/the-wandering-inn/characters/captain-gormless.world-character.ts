@@ -6,6 +6,7 @@ export const captainGormless = {
   slug: "captain-gormless",
   title: "Gormless",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 811,
   lastChapter: 811,
   characterClaims: "jsonl",

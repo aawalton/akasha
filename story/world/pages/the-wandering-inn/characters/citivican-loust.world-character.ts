@@ -6,6 +6,7 @@ export const citivicanLoust = {
   slug: "citivican-loust",
   title: "Citivican Loust",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 515,
   lastChapter: 515,
   characterClaims: "jsonl",

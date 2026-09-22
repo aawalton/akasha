@@ -6,6 +6,7 @@ export const calidus = {
   slug: "calidus",
   title: "Calidus Reinhart",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 819,
   lastChapter: 819,
   characterClaims: "jsonl",

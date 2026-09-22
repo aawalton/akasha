@@ -6,6 +6,7 @@ export const cetrule = {
   slug: "cetrule",
   title: "Cetrule",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 564,
   lastChapter: 565,
   characterClaims: "jsonl",

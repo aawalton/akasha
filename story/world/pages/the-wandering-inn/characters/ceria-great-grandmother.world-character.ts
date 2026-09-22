@@ -6,6 +6,7 @@ export const ceriaGreatGrandmother = {
   slug: "ceria-great-grandmother",
   title: "Ceria's great-grandmother",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 133,
   lastChapter: 133,
   characterClaims: "jsonl",

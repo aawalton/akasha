@@ -6,6 +6,7 @@ export const calirn = {
   slug: "calirn",
   title: "Calirn",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 358,
   lastChapter: 507,
   characterClaims: "jsonl",

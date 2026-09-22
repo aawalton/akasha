@@ -6,6 +6,7 @@ export const amerysCalmFlower = {
   slug: "amerys-calm-flower",
   title: "Amerys",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 704,
   lastChapter: 704,
   characterClaims: "jsonl",

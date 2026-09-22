@@ -6,6 +6,7 @@ export const antiniumSoldiers = {
   slug: "antinium-soldiers",
   title: "Antinium Soldiers",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 364,
   lastChapter: 364,
   characterClaims: "jsonl",

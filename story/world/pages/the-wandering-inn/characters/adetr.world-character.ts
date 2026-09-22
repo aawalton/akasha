@@ -6,6 +6,7 @@ export const adetr = {
   slug: "adetr",
   title: "Adetr",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 564,
   lastChapter: 585,
   characterClaims: "jsonl",

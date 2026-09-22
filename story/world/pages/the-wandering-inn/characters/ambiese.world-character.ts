@@ -6,6 +6,7 @@ export const ambiese = {
   slug: "ambiese",
   title: "Ambiese",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 784,
   lastChapter: 785,
   characterClaims: "jsonl",

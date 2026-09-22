@@ -6,6 +6,7 @@ export const alcaz = {
   slug: "alcaz",
   title: "Alcaz",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 597,
   lastChapter: 689,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const armorCaptainShailt = {
   slug: "armor-captain-shailt",
   title: "Armor Captain Shailt",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 335,
   lastChapter: 335,
   characterClaims: "jsonl",

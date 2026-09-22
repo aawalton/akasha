@@ -6,6 +6,7 @@ export const agrathaWitch = {
   slug: "agratha-witch",
   title: "Agratha",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 349,
   lastChapter: 349,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const ci = {
   slug: "ci",
   title: "Ci",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 416,
   lastChapter: 468,
   characterClaims: "jsonl",

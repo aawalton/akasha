@@ -6,6 +6,7 @@ export const calacCrusland = {
   slug: "calac-crusland",
   title: "Calac Crusland",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 557,
   lastChapter: 559,
   characterClaims: "jsonl",

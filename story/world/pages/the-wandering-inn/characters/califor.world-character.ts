@@ -6,6 +6,7 @@ export const califor = {
   slug: "califor",
   title: "Miss Califor",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 351,
   lastChapter: 495,
   characterClaims: "jsonl",

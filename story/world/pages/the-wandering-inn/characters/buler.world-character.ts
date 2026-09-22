@@ -6,6 +6,7 @@ export const buler = {
   slug: "buler",
   title: "Buler",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 670,
   lastChapter: 671,
   characterClaims: "jsonl",

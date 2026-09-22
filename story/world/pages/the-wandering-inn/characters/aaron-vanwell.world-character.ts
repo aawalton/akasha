@@ -6,6 +6,7 @@ export const aaronVanwell = {
   slug: "aaron-vanwell",
   title: "Aaron Vanwell",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 275,
   lastChapter: 652,
   characterClaims: "jsonl",

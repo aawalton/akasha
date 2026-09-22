@@ -6,6 +6,7 @@ export const calescent = {
   slug: "calescent",
   title: "Calescent",
   world: "world/the-wandering-inn",
+  appearanceCount: 7,
   firstChapter: 409,
   lastChapter: 737,
   characterClaims: "jsonl",

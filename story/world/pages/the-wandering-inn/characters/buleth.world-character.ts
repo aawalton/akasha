@@ -6,6 +6,7 @@ export const buleth = {
   slug: "buleth",
   title: "Buleth",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 58,
   lastChapter: 58,
   characterClaims: "jsonl",

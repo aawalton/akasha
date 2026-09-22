@@ -6,6 +6,7 @@ export const bethalWalchai = {
   slug: "bethal-walchai",
   title: "Lady Bethal Walchai",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 264,
   lastChapter: 264,
   characterClaims: "jsonl",

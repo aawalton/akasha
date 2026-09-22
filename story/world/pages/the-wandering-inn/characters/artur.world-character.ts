@@ -6,6 +6,7 @@ export const artur = {
   slug: "artur",
   title: "Artur",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   maxLevel: 17,
   eventCount: 11,
   firstChapter: 562,

@@ -6,6 +6,7 @@ export const brunkrSilverfang = {
   slug: "brunkr-silverfang",
   title: "Brunkr Silverfang",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 508,
   lastChapter: 508,
   characterClaims: "jsonl",

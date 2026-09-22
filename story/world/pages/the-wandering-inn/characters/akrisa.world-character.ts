@@ -6,6 +6,7 @@ export const akrisa = {
   slug: "akrisa",
   title: "Akrisa Silverfang",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 485,
   lastChapter: 564,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const ceriaSpringwalker = {
   slug: "ceria-springwalker",
   title: "Ceria Springwalker",
   world: "world/the-wandering-inn",
+  appearanceCount: 53,
   maxLevel: 40,
   eventCount: 23,
   firstChapter: 35,

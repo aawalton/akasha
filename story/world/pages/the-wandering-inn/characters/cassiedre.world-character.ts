@@ -6,6 +6,7 @@ export const cassiedre = {
   slug: "cassiedre",
   title: "Cassiedre",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 735,
   lastChapter: 735,
   characterClaims: "jsonl",

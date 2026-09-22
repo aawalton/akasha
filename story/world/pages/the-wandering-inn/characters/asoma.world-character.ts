@@ -6,6 +6,7 @@ export const asoma = {
   slug: "asoma",
   title: "Asoma",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 460,
   lastChapter: 460,
   characterClaims: "jsonl",

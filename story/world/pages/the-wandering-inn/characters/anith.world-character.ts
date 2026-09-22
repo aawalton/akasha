@@ -6,6 +6,7 @@ export const anith = {
   slug: "anith",
   title: "Anith",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 185,
   lastChapter: 255,
   characterClaims: "jsonl",

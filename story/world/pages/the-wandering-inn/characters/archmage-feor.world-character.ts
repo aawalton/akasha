@@ -6,6 +6,7 @@ export const archmageFeor = {
   slug: "archmage-feor",
   title: "Feor",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 164,
   lastChapter: 556,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const bviora = {
   slug: "bviora",
   title: "Bviora Stormless",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 647,
   lastChapter: 678,
   characterClaims: "jsonl",

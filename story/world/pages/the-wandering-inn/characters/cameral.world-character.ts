@@ -6,6 +6,7 @@ export const cameral = {
   slug: "cameral",
   title: "Cameral",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 111,
   lastChapter: 381,
   characterClaims: "jsonl",

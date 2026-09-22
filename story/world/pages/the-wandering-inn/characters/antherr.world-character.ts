@@ -6,6 +6,7 @@ export const antherr = {
   slug: "antherr",
   title: "Antherr Twotwentyonethree Herodotus",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 616,
   lastChapter: 747,
   characterClaims: "jsonl",

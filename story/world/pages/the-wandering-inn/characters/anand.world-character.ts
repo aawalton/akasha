@@ -6,6 +6,7 @@ export const anand = {
   slug: "anand",
   title: "Anand",
   world: "world/the-wandering-inn",
+  appearanceCount: 19,
   firstChapter: 147,
   lastChapter: 688,
   characterClaims: "jsonl",

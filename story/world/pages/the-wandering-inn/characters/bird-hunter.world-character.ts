@@ -6,6 +6,7 @@ export const birdHunter = {
   slug: "bird-hunter",
   title: "Bird",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 434,
   lastChapter: 434,
   characterClaims: "jsonl",

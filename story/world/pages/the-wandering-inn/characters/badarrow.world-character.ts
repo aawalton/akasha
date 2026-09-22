@@ -6,6 +6,7 @@ export const badarrow = {
   slug: "badarrow",
   title: "Badarrow",
   world: "world/the-wandering-inn",
+  appearanceCount: 24,
   maxLevel: 25,
   eventCount: 3,
   firstChapter: 143,

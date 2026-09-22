@@ -6,6 +6,7 @@ export const archmageValeterisa = {
   slug: "archmage-valeterisa",
   title: "Archmage Valeterisa",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 448,
   lastChapter: 545,
   characterClaims: "jsonl",

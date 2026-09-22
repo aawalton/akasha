@@ -6,6 +6,7 @@ export const captainCikroleth = {
   slug: "captain-cikroleth",
   title: "Cikroleth",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 808,
   lastChapter: 808,
   characterClaims: "jsonl",

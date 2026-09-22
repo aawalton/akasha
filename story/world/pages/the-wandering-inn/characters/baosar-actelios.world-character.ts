@@ -6,6 +6,7 @@ export const baosarActelios = {
   slug: "baosar-actelios",
   title: "Baosar of A'ctelios",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 399,
   lastChapter: 399,
   characterClaims: "jsonl",

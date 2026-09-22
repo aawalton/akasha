@@ -6,6 +6,7 @@ export const blackguard = {
   slug: "blackguard",
   title: "the escort",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 347,
   lastChapter: 347,
   characterClaims: "jsonl",

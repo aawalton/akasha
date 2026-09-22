@@ -6,6 +6,7 @@ export const circleOfThorns = {
   slug: "circle-of-thorns",
   title: "Circle of Thorns",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 139,
   lastChapter: 139,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const alchemistIrurx = {
   slug: "alchemist-irurx",
   title: "Alchemist Irurx",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 552,
   lastChapter: 553,
   characterClaims: "jsonl",

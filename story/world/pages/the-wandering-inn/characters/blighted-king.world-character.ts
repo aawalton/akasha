@@ -6,6 +6,7 @@ export const blightedKing = {
   slug: "blighted-king",
   title: "the Blighted King",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 12,
   lastChapter: 310,
   characterClaims: "jsonl",

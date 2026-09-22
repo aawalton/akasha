@@ -6,6 +6,7 @@ export const cawe = {
   slug: "cawe",
   title: "Cawe",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 523,
   lastChapter: 529,
   characterClaims: "jsonl",

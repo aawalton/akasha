@@ -6,6 +6,7 @@ export const belchausMeron = {
   slug: "belchaus-meron",
   title: "Belchaus Meron",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 503,
   lastChapter: 503,
   characterClaims: "jsonl",

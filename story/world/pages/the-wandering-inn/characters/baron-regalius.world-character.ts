@@ -6,6 +6,7 @@ export const baronRegalius = {
   slug: "baron-regalius",
   title: "Baron Regalius du Ecte",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 527,
   lastChapter: 533,
   characterClaims: "jsonl",

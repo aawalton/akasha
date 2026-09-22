@@ -6,6 +6,7 @@ export const charlesDeTrevalier = {
   slug: "charles-de-trevalier",
   title: "Charles de Trevalier",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 158,
   lastChapter: 161,
   characterClaims: "jsonl",

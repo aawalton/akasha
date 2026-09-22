@@ -6,6 +6,7 @@ export const caleisBerkesson = {
   slug: "caleis-berkesson",
   title: "Caleis Berkesson",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 623,
   lastChapter: 623,
   characterClaims: "jsonl",

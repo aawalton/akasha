@@ -6,6 +6,7 @@ export const bugear = {
   slug: "bugear",
   title: "Bugear",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 146,
   lastChapter: 220,
   characterClaims: "jsonl",

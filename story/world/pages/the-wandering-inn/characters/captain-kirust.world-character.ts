@@ -6,6 +6,7 @@ export const captainKirust = {
   slug: "captain-kirust",
   title: "Captain Kirust",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 216,
   lastChapter: 216,
   characterClaims: "jsonl",

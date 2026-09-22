@@ -6,6 +6,7 @@ export const admiralPaethex = {
   slug: "admiral-paethex",
   title: "Admiral Paethex",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 797,
   lastChapter: 797,
   characterClaims: "jsonl",

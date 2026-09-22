@@ -6,6 +6,7 @@ export const captainTodi = {
   slug: "captain-todi",
   title: "Captain Todi",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 708,
   lastChapter: 763,
   characterClaims: "jsonl",

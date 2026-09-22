@@ -6,6 +6,7 @@ export const bault = {
   slug: "bault",
   title: "Bault",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 316,
   lastChapter: 316,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const bograms = {
   slug: "bograms",
   title: "Bograms",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 677,
   lastChapter: 684,
   characterClaims: "jsonl",

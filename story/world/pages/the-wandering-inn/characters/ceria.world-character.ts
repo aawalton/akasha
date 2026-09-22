@@ -6,6 +6,7 @@ export const ceria = {
   slug: "ceria",
   title: "Ceria",
   world: "world/the-wandering-inn",
+  appearanceCount: 113,
   firstChapter: 29,
   lastChapter: 796,
   characterClaims: "jsonl",

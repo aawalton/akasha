@@ -6,6 +6,7 @@ export const beatica = {
   slug: "beatica",
   title: "Beatica",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 350,
   lastChapter: 350,
   characterClaims: "jsonl",

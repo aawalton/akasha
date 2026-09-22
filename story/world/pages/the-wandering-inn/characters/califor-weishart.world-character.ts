@@ -6,6 +6,7 @@ export const califorWeishart = {
   slug: "califor-weishart",
   title: "Califor Weishart",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 362,
   lastChapter: 362,
   characterClaims: "jsonl",

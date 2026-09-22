@@ -6,6 +6,7 @@ export const amerysArchmage = {
   slug: "amerys-archmage",
   title: "Archmage Amerys",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 431,
   lastChapter: 559,
   characterClaims: "jsonl",

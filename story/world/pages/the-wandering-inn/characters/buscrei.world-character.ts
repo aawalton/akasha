@@ -6,6 +6,7 @@ export const buscrei = {
   slug: "buscrei",
   title: "Buscrei",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 568,
   lastChapter: 568,
   characterClaims: "jsonl",

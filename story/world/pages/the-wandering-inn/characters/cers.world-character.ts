@@ -6,6 +6,7 @@ export const cers = {
   slug: "cers",
   title: "Cers",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 564,
   lastChapter: 564,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const anazurhe = {
   slug: "anazurhe",
   title: "Anazurhe",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 539,
   lastChapter: 718,
   characterClaims: "jsonl",

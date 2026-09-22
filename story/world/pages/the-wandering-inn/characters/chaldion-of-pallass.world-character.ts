@@ -6,6 +6,7 @@ export const chaldionOfPallass = {
   slug: "chaldion-of-pallass",
   title: "Chaldion of Pallass",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 468,
   lastChapter: 468,
   characterClaims: "jsonl",

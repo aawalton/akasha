@@ -6,6 +6,7 @@ export const boyd = {
   slug: "boyd",
   title: "Boyd Sunver",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 822,
   lastChapter: 822,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const brigandaRishaw = {
   slug: "briganda-rishaw",
   title: "Briganda Rishaw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 446,
   lastChapter: 446,
   characterClaims: "jsonl",

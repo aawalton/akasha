@@ -6,6 +6,7 @@ export const cervial = {
   slug: "cervial",
   title: "Cervial Dermondy",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 40,
   lastChapter: 62,
   characterClaims: "jsonl",

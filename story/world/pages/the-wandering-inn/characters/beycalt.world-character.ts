@@ -6,6 +6,7 @@ export const beycalt = {
   slug: "beycalt",
   title: "Beycalt Newman",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 346,
   lastChapter: 346,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const beriad = {
   slug: "beriad",
   title: "Beriad",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 563,
   lastChapter: 563,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const asiv = {
   slug: "asiv",
   title: "Asiv",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 760,
   lastChapter: 760,
   characterClaims: "jsonl",

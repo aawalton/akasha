@@ -6,6 +6,7 @@ export const cauwine = {
   slug: "cauwine",
   title: "Cauwine",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 581,
   lastChapter: 758,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const carenGlover = {
   slug: "caren-glover",
   title: "caren glover",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 67,
   lastChapter: 67,
   characterClaims: "jsonl",

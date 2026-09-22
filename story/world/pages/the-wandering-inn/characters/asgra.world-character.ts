@@ -6,6 +6,7 @@ export const asgra = {
   slug: "asgra",
   title: "Asgra",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 728,
   lastChapter: 817,
   characterClaims: "jsonl",

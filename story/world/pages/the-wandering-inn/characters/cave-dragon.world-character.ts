@@ -6,6 +6,7 @@ export const caveDragon = {
   slug: "cave-dragon",
   title: "the dragon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 2,
   lastChapter: 2,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const andra = {
   slug: "andra",
   title: "Andra",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 676,
   lastChapter: 814,
   characterClaims: "jsonl",

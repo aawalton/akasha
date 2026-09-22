@@ -6,6 +6,7 @@ export const adoive = {
   slug: "adoive",
   title: "Adoive",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 807,
   lastChapter: 808,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const asdf = {
   slug: "asdf",
   title: "asdf",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 67,
   lastChapter: 67,
   characterClaims: "jsonl",

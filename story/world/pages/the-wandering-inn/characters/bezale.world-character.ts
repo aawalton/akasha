@@ -6,6 +6,7 @@ export const bezale = {
   slug: "bezale",
   title: "Bezale",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 379,
   lastChapter: 746,
   characterClaims: "jsonl",

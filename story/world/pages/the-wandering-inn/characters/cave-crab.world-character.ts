@@ -6,6 +6,7 @@ export const caveCrab = {
   slug: "cave-crab",
   title: "large crustacean monster",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 2,
   lastChapter: 2,
   characterClaims: "jsonl",

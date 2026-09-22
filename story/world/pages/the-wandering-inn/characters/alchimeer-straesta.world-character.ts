@@ -6,6 +6,7 @@ export const alchimeerStraesta = {
   slug: "alchimeer-straesta",
   title: "Alchimeer Straesta",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 515,
   lastChapter: 515,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const arnel = {
   slug: "arnel",
   title: "Arnel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 47,
   lastChapter: 47,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const chefMoirmen = {
   slug: "chef-moirmen",
   title: "Moirmen",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 646,
   lastChapter: 646,
   characterClaims: "jsonl",

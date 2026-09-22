@@ -6,6 +6,7 @@ export const calliope = {
   slug: "calliope",
   title: "Calliope",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 181,
   lastChapter: 323,
   characterClaims: "jsonl",

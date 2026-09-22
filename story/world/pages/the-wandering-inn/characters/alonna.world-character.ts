@@ -6,6 +6,7 @@ export const alonna = {
   slug: "alonna",
   title: "Alonna",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 365,
   lastChapter: 365,
   characterClaims: "jsonl",

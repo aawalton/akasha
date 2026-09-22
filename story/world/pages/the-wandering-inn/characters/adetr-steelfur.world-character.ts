@@ -6,6 +6,7 @@ export const adetrSteelfur = {
   slug: "adetr-steelfur",
   title: "Adetr",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   maxLevel: 27,
   eventCount: 2,
   firstChapter: 520,

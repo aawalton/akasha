@@ -6,6 +6,7 @@ export const almanSanito = {
   slug: "alman-sanito",
   title: "Alman Sanito",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 628,
   lastChapter: 628,
   characterClaims: "jsonl",

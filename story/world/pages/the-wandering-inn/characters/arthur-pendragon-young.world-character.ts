@@ -6,6 +6,7 @@ export const arthurPendragonYoung = {
   slug: "arthur-pendragon-young",
   title: "Arthur Pendragon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 724,
   lastChapter: 724,
   characterClaims: "jsonl",

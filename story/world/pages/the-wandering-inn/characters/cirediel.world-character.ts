@@ -6,6 +6,7 @@ export const cirediel = {
   slug: "cirediel",
   title: "Cirediel Anvi'dualln Olicuemerdn",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 508,
   lastChapter: 722,
   characterClaims: "jsonl",

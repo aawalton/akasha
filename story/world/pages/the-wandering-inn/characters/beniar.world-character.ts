@@ -6,6 +6,7 @@ export const beniar = {
   slug: "beniar",
   title: "Beniar",
   world: "world/the-wandering-inn",
+  appearanceCount: 10,
   firstChapter: 202,
   lastChapter: 355,
   characterClaims: "jsonl",

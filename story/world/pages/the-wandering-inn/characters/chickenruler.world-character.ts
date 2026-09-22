@@ -6,6 +6,7 @@ export const chickenruler = {
   slug: "chickenruler",
   title: "Chickenruler",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 717,
   lastChapter: 818,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const berrTheBerserker = {
   slug: "berr-the-berserker",
   title: "Berr",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 638,
   lastChapter: 638,
   characterClaims: "jsonl",

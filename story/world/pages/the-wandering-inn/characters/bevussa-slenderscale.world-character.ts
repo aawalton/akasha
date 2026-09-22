@@ -6,6 +6,7 @@ export const bevussaSlenderscale = {
   slug: "bevussa-slenderscale",
   title: "Bevussa Slenderscale",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 278,
   lastChapter: 373,
   characterClaims: "jsonl",

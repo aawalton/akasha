@@ -6,6 +6,7 @@ export const alkedFellbow = {
   slug: "alked-fellbow",
   title: "Alked Fellbow",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 624,
   lastChapter: 806,
   characterClaims: "jsonl",

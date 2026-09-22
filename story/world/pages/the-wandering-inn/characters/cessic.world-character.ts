@@ -6,6 +6,7 @@ export const cessic = {
   slug: "cessic",
   title: "Cessic",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 159,
   lastChapter: 159,
   characterClaims: "jsonl",

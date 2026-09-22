@@ -6,6 +6,7 @@ export const belavierrDonamia = {
   slug: "belavierr-donamia",
   title: "Belavierr Donamia",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 586,
   lastChapter: 586,
   characterClaims: "jsonl",

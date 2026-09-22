@@ -6,6 +6,7 @@ export const bird = {
   slug: "bird",
   title: "Bird",
   world: "world/the-wandering-inn",
+  appearanceCount: 64,
   maxLevel: 42,
   eventCount: 29,
   firstChapter: 65,

@@ -6,6 +6,7 @@ export const bastiom = {
   slug: "bastiom",
   title: "Bastiom",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 199,
   lastChapter: 575,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const azkerash = {
   slug: "azkerash",
   title: "Az'kerash",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 232,
   lastChapter: 322,
   characterClaims: "jsonl",

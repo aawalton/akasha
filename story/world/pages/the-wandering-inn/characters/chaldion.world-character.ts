@@ -6,6 +6,7 @@ export const chaldion = {
   slug: "chaldion",
   title: "Chaldion",
   world: "world/the-wandering-inn",
+  appearanceCount: 33,
   firstChapter: 352,
   lastChapter: 793,
   characterClaims: "jsonl",

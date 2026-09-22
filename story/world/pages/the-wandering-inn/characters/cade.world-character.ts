@@ -6,6 +6,7 @@ export const cade = {
   slug: "cade",
   title: "Cade",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 413,
   lastChapter: 446,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const aikoNonomura = {
   slug: "aiko-nonomura",
   title: "Aiko Nonomura",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 195,
   lastChapter: 318,
   characterClaims: "jsonl",

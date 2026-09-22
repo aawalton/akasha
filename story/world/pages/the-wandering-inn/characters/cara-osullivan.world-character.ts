@@ -6,6 +6,7 @@ export const caraOsullivan = {
   slug: "cara-osullivan",
   title: "Cara O'Sullivan",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 422,
   lastChapter: 574,
   characterClaims: "jsonl",

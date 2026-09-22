@@ -6,6 +6,7 @@ export const batman = {
   slug: "batman",
   title: "batman",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 67,
   lastChapter: 67,
   characterClaims: "jsonl",

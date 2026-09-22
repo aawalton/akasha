@@ -6,6 +6,7 @@ export const canrel = {
   slug: "canrel",
   title: "Canrel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 440,
   lastChapter: 440,
   characterClaims: "jsonl",

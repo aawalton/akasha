@@ -6,6 +6,7 @@ export const afnild = {
   slug: "afnild",
   title: "Afnild",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 591,
   lastChapter: 591,
   characterClaims: "jsonl",

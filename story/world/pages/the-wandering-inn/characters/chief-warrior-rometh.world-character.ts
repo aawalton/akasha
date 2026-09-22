@@ -6,6 +6,7 @@ export const chiefWarriorRometh = {
   slug: "chief-warrior-rometh",
   title: "Chief Warrior Rometh",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 58,
   lastChapter: 58,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const beilmark = {
   slug: "beilmark",
   title: "Beilmark",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 6,
   lastChapter: 785,
   characterClaims: "jsonl",

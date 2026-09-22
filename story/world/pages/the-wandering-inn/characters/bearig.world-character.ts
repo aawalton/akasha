@@ -6,6 +6,7 @@ export const bearig = {
   slug: "bearig",
   title: "Bearig",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   eventCount: 1,
   firstChapter: 529,
   lastChapter: 552,

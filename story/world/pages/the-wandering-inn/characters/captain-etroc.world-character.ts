@@ -6,6 +6,7 @@ export const captainEtroc = {
   slug: "captain-etroc",
   title: "Captain Etroc d'Anametis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 786,
   lastChapter: 786,
   characterClaims: "jsonl",

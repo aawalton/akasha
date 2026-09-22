@@ -6,6 +6,7 @@ export const aldrail = {
   slug: "aldrail",
   title: "Aldrail",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 685,
   lastChapter: 685,
   characterClaims: "jsonl",

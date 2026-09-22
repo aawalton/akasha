@@ -6,6 +6,7 @@ export const bastionGeneralQuiteil = {
   slug: "bastion-general-quiteil",
   title: "Quiteil",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 437,
   lastChapter: 799,
   characterClaims: "jsonl",

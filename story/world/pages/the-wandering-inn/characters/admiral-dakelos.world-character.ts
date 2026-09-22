@@ -6,6 +6,7 @@ export const admiralDakelos = {
   slug: "admiral-dakelos",
   title: "Dakelos",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   maxLevel: 40,
   eventCount: 7,
   firstChapter: 646,
