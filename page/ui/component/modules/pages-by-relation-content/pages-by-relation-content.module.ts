@@ -30,5 +30,9 @@ export const pagesByRelationContent = {
       statement:
         "A listing drawn for another view is drawn afresh, so it keeps no sort of the last.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which view a listing last showed is remembered under the page type it lists.",
+    },
   ],
 } as const satisfies Module

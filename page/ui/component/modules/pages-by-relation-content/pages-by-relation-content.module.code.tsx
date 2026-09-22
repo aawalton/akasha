@@ -169,6 +169,7 @@ export function PagesFilteredContent({
                 ? viewTabs
                 : [{ id: "list", label: pageTypeName, icon: undefined }]
           }
+          storagePrefix={`pages-filtered-${pageTypeSlug}`}
           activeTab={viewTabs.length > 0 ? shownView : undefined}
           onActiveTabChange={viewTabs.length > 0 ? handleShowView : undefined}
           loading={loading}
