@@ -11,8 +11,19 @@ const PART_OF_SPEECH = `${partOfSpeech.slug}/`
 
 const MANY = 2
 
+const CLITIC = "'s"
+
 export function wordsIn(phrase: string): readonly string[] {
-  return phrase.split(" ").filter((one) => one.length > 0)
+  const found: string[] = []
+  for (const one of phrase.split(" ")) {
+    if (one.length === 0) continue
+    if (one.length > CLITIC.length && one.endsWith(CLITIC)) {
+      found.push(one.slice(0, -CLITIC.length), CLITIC)
+      continue
+    }
+    found.push(one)
+  }
+  return found
 }
 
 export function waysIn(

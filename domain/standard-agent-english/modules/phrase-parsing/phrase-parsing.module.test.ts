@@ -57,6 +57,14 @@ test("a phrase is split on spaces and empty runs are left out", () => {
   expect(wordsIn("  a  rock ")).toEqual(["a", "rock"])
 })
 
+test("a word closing with the possessive mark is split from that mark", () => {
+  expect(wordsIn("a machine's rock")).toEqual(["a", "machine", "'s", "rock"])
+})
+
+test("a word that is the possessive mark alone is left whole", () => {
+  expect(wordsIn("'s")).toEqual(["'s"])
+})
+
 test("one noun is a noun group and a noun phrase alike", () => {
   expect(waysIn("rock", RULES, LEXICON, NOUN_GROUP)).toBe(1)
   expect(waysIn("rock", RULES, LEXICON, NOUN_PHRASE)).toBe(1)

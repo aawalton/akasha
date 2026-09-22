@@ -2478,6 +2478,8 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/possessive-noun-run-with-a-determiner.construction.ts","id":"01a0c932-0974-771f-b07a-c900f1a63592"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/possessive-noun-run.construction.ts","id":"01a0c931-ef71-74f5-adf2-95deb30632f0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.ts","id":"01a0c57a-e7ac-7d09-ad25-98343aab07cf"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","id":"01a0c5a0-dcdf-78bc-b3a9-d53923805df8"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.ts","id":"01a08220-6498-71cb-af30-b73f6642f5fe"}

@@ -36,5 +36,9 @@ export const phraseParsing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a page out of the index.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A word closing with an apostrophe and an s is split into the word and that mark.",
+    },
   ],
 } as const satisfies Module

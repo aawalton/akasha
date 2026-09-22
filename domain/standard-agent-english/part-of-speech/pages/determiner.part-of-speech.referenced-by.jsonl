@@ -15,3 +15,4 @@
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-with-a-determiner.construction.ts","id":"01a0c58c-287b-70be-abf3-05d84f4c124b"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/possessive-noun-run-with-a-determiner.construction.ts","id":"01a0c932-0974-771f-b07a-c900f1a63592"}
