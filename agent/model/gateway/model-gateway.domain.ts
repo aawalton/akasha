@@ -4,7 +4,7 @@ export const modelGateway = {
   id: "01a06227-7bc1-72a3-8056-41b5ba88f99d",
   type: "page-type/domain",
   slug: "model-gateway",
-  definition: "what sits between an agent and the model it is asking",
+  definition: "how an agent session calls a model",
   parts: [
     "module/account-picker",
     "module/account-walk",
