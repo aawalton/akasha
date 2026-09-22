@@ -33,4 +33,5 @@ export const partnersIi = {
     "game-panel/story-so-far",
     "game-panel/prose-channel",
   ],
+  player: "game-entity/partners-ii-partners-alan",
 } as const satisfies Game

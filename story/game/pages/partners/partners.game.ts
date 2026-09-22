@@ -13,4 +13,5 @@ export const partners = {
   states: "jsonl",
   rolls: "jsonl",
   panels: ["game-panel/prose-channel"],
+  player: "game-entity/partners-partners-alan",
 } as const satisfies Game
