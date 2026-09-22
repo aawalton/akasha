@@ -5,13 +5,20 @@ import type { Settling } from "akasha/page/index/modules/settling/index-settling
 
 const CHANGE = "change"
 
-function loadFrom(name: string): Promise<Record<string, unknown>> {
-  return import(name) as Promise<Record<string, unknown>>
-}
-
 export const CHECKING_IN = "akasha/check/modules/checking/checking.module.code.ts"
 
 export const INDEXING_IN = "akasha/page/index/modules/indexing/indexing.module.code.ts"
+
+const LOADED_BY: Readonly<Record<string, () => Promise<unknown>>> = {
+  [CHECKING_IN]: () => import("akasha/check/modules/checking/checking.module.code.ts"),
+  [INDEXING_IN]: () => import("akasha/page/index/modules/indexing/indexing.module.code.ts"),
+}
+
+async function loadFrom(name: string): Promise<Record<string, unknown>> {
+  const load = LOADED_BY[name]
+  if (load === undefined) throw new Error(`\`${name}\` is no module this file loads by name`)
+  return (await load()) as Record<string, unknown>
+}
 
 export const NO_GATE: Judging = { named: [], checksFor: () => [], over: async () => [] }
 

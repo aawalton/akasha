@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"check/modules/checking/checking.module.test.ts"}
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"check/test/fixture/minting/minting.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"checking.module.code.ts","path":"command/modules/gate-building/gate-building.module.code.ts"}
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"command/pages/audit/audit.command.code.ts"}
 {"propertySlug":"import","fileName":"checking.module.code.ts","path":"command/pages/audit/audit.command.test.ts"}
 {"propertySlug":"import","fileName":"checking.module.test-fixtures.ts","path":"check/modules/checking/checking.module.test.ts"}

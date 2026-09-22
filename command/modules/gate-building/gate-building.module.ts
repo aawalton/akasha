@@ -103,5 +103,10 @@ export const gateBuilding = {
       decisionKind: "decision-kind/gap",
       statement: "The checks a change alters are loaded as that change leaves those checks.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name loaded late is spelled where it is imported, so a bundler carries the module in.",
+    },
   ],
 } as const satisfies Module
