@@ -1,5 +1,4 @@
 import type { ErrorReport } from "akasha/alan/harness/errors-core/modules/error-report/error-report.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 export type ReportErrorInput = Omit<ErrorReport, "url" | "userAgent">
 

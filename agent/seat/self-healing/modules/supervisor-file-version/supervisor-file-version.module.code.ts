@@ -6,7 +6,6 @@ import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicat
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
 
 const UNREADABLE = "\u0000unreadable"
 
