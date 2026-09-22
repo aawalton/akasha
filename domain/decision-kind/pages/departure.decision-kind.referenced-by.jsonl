@@ -3428,6 +3428,10 @@
 {"propertySlug":"decision-kind","path":"story/game/lore-entry/properties/lore-subject.text-property.ts","id":"01a0c949-d283-74c2-86bb-6ca1d8350a74"}
 {"propertySlug":"decision-kind","path":"story/game/lore-entry/properties/superseded-lore.relation-property.ts","id":"01a0c94a-7b8e-7c09-966b-1c207111ec60"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic-run/game-mechanic-run.page-type.ts","id":"01a0c951-6739-72ed-a7e2-63f36a4d5cbe"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic-run/properties/run-follows.text-property.ts","id":"01a0c952-37a9-726d-a83b-35d226fe3eab"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic-run/properties/run-mechanic.relation-property.ts","id":"01a0c951-f200-7d32-bac4-e1b2bab05944"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic-run/properties/run-seed.text-property.ts","id":"01a0c952-1e0c-71c7-87a7-ad9e38ef7a05"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic-run/properties/run-workings.file-property.ts","id":"01a0c952-501c-7817-a9d1-3c36070b1986"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/modules/affinity-element/affinity-element.module.ts","id":"01a0c504-b68b-7a91-9eef-eb74770de901"}

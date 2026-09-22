@@ -12,6 +12,11 @@ export const gameMechanicRun = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/holding-game", required: true, many: false },
     { pageProperty: "number-property/source-turn", required: true, many: false },
+    { pageProperty: "relation-property/run-mechanic", required: false, many: false },
+    { pageProperty: "text-property/run-said", required: false, many: false },
+    { pageProperty: "text-property/run-seed", required: false, many: false },
+    { pageProperty: "text-property/run-follows", required: false, many: false },
+    { pageProperty: "file-property/run-workings", required: true, many: false },
   ],
   decisions: [
     {
@@ -45,4 +50,11 @@ export const gameMechanicRun = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: [
+    "relation-property/run-mechanic",
+    "text-property/run-said",
+    "text-property/run-seed",
+    "text-property/run-follows",
+    "file-property/run-workings",
+  ],
 } as const satisfies PageType
