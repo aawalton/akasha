@@ -5,7 +5,7 @@ function asHouseTravelMenuHolder(value: unknown): HouseTravelMenuHolder {
 }
 
 export const houseTravelMenu: HouseTravelMenuHolder = asHouseTravelMenuHolder({
-  name: "HouseTravelMenu",
+  name: "TemperHousingTravelMenu",
   lam: {
     panel: undefined,
     panelData: {

@@ -4,5 +4,5 @@ export const ADDON_AUTHOR = "AlanGaming"
 
 export const SAVED_VARIABLES_NAME = "TemperNoThankYou_SavedVariables"
 
-export const PANEL_ID = "QUIET_Panel"
+export const PANEL_ID = "TemperQuietPanel"
 export const SLASH_COMMAND = "/temperquiet"

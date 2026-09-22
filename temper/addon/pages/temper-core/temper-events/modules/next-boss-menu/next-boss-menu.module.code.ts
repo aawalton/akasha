@@ -8,7 +8,7 @@ import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules
 import "akasha/temper/addon/pages/temper-core/temper-events/next-boss-declarations/next-boss-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
-const PANEL_ID = "ICTS"
+const PANEL_ID = "TemperEventsNextBoss"
 
 ICT.initializeSettingsMenu = function (this: void): undefined {
   initializeSavedVariables()
