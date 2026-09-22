@@ -8,7 +8,7 @@ export const tasksStolen = {
   key: "tasks-stolen",
   description:
     "Launders stolen task-type items (writs, maps, etc.) so they can be completed or banked.",
-  categoryId: "tasks",
+  categoryId: "temper-item-category-tree/tasks",
   displayOrder: 18,
   action: "temper-item-action/fence-launder",
   active: false,

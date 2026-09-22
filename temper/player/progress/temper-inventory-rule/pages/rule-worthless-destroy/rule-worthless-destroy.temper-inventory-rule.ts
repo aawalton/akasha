@@ -10,7 +10,7 @@ export const ruleWorthlessDestroy = {
   goal: "temper-rule-goal/destroy",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "all",
+  categoryId: "temper-item-category-tree/all",
   displayOrder: 77,
   action: "temper-item-action/destroy",
   active: true,

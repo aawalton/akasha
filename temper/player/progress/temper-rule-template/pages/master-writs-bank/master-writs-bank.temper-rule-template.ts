@@ -8,7 +8,7 @@ export const masterWritsBank = {
   key: "master-writs-bank",
   description:
     "Stashes master writs in the bank. Master writs reward writ vouchers for high-end crafting station furnishings.",
-  categoryId: "master-writs",
+  categoryId: "temper-item-category-tree/master-writs",
   displayOrder: 20,
   action: "temper-item-action/move-to",
   active: false,

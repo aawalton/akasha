@@ -1,6 +1,8 @@
+{"propertySlug":"import","fileName":"temper-item-category-tree.page-type.ts","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts"}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/additives.temper-item-category-tree.ts"}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/al-furn-mat.temper-item-category-tree.ts"}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/alchemy.temper-item-category-tree.ts"}
+{"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/all.temper-item-category-tree.ts"}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/alliance-war.temper-item-category-tree.ts"}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/appearance.temper-item-category-tree.ts"}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/armor-traits.temper-item-category-tree.ts"}
@@ -439,3 +441,4 @@
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/ww-resins.temper-item-category-tree.ts"}
 {"propertySlug":"parts","path":"temper/player/holdings/temper-holdings.domain.ts","id":"01a05fac-7582-7d58-82ce-cb03ba05751f"}
 {"propertySlug":"target-page-type","path":"temper/player/holdings/temper-item-category-tree/properties/item-category-parent.relation-property.ts","id":"01a0cae0-e5ff-7843-96e5-b49bc28783d9"}
+{"propertySlug":"target-page-type","path":"temper/player/progress/temper-rule/properties/item-category.relation-property.ts","id":"01a0cb28-5b39-7c29-84fb-966ab4410f94"}

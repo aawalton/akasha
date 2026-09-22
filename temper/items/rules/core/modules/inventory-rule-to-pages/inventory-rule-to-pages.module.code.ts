@@ -15,6 +15,8 @@ const RULE_GOAL = "temper-rule-goal"
 
 const CONDITION_FIELD = "temper-condition-field"
 
+const ITEM_CATEGORY = "temper-item-category-tree"
+
 function slugOf(key: string): string {
   let out = ""
   for (const letter of key) {
@@ -75,7 +77,7 @@ export function pageFromRule(
   const page = {
     slug: `${SLUG_PREFIX}${rule.id}`,
     accountPage,
-    categoryId: rule.categoryId,
+    categoryId: namedAs(ITEM_CATEGORY, rule.categoryId, null),
     displayOrder,
     action: namedAs(ITEM_ACTION, rule.action, null),
     active: rule.active !== false,

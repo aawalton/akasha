@@ -8,7 +8,7 @@ export const rule8edf08cb = {
   description: "Disposal spine step 5: learned + sellable + sub-list-line. Closes gap A3.",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "style-pages",
+  categoryId: "temper-item-category-tree/style-pages",
   displayOrder: 80,
   action: "temper-item-action/sell",
   active: true,

@@ -11,7 +11,7 @@ export const ruleSoulGemsEmptyBank = {
   conditions: "jsonl",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "soul-gems",
+  categoryId: "temper-item-category-tree/soul-gems",
   displayOrder: 52,
   action: "temper-item-action/move-to",
   active: true,

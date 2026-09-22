@@ -10,7 +10,7 @@ export const ruleUnlockStolen = {
   goal: "temper-rule-goal/unlock",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "knowledge",
+  categoryId: "temper-item-category-tree/knowledge",
   displayOrder: 26,
   action: "temper-item-action/fence-launder",
   active: true,

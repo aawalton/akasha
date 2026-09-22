@@ -8,7 +8,7 @@ export const unlockByPriority = {
   key: "unlock-by-priority",
   description:
     "Uses items that teach something new — motifs, recipes, style pages, furnishing plans, etc. If the current character can learn the item, it's used immediately. For recipes (character-specific knowledge), the addon checks the current character only (ESO API limitation).",
-  categoryId: "knowledge",
+  categoryId: "temper-item-category-tree/knowledge",
   displayOrder: 11,
   action: "temper-item-action/use",
   active: false,

@@ -8,7 +8,7 @@ export const unlockStolen = {
   key: "unlock-stolen",
   description:
     "Launders stolen items that can teach something (motifs, recipes, etc.) so they can be used. Place before other unlock rules.",
-  categoryId: "knowledge",
+  categoryId: "temper-item-category-tree/knowledge",
   displayOrder: 10,
   action: "temper-item-action/fence-launder",
   active: false,

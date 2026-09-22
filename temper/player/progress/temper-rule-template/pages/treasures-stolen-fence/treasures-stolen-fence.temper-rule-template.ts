@@ -8,7 +8,7 @@ export const treasuresStolenFence = {
   key: "treasures-stolen-fence",
   description:
     "Sells stolen treasures at a fence. Stolen treasures can't be sold to normal merchants.",
-  categoryId: "treasures",
+  categoryId: "temper-item-category-tree/treasures",
   displayOrder: 40,
   action: "temper-item-action/fence-sell",
   active: false,

@@ -10,7 +10,7 @@ export const ruleToolsBank = {
   destination: "bank",
   stockScope: "any-character",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "tools",
+  categoryId: "temper-item-category-tree/tools",
   displayOrder: 61,
   action: "temper-item-action/stock",
   active: true,

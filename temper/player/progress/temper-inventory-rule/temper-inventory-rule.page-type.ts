@@ -16,7 +16,6 @@ export const temperInventoryRule = {
   ],
   properties: [
     { pageProperty: "text-property/account-page", required: true, many: false },
-    { pageProperty: "text-property/category-id", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "relation-property/action", required: true, many: false },
     { pageProperty: "boolean-property/active", required: true, many: false },
@@ -24,6 +23,7 @@ export const temperInventoryRule = {
     { pageProperty: "boolean-property/rule-locked", required: false, many: false },
     { pageProperty: "relation-property/from-template", required: false, many: false },
     { pageProperty: "page-property-entry/destination-chain", required: false, many: false },
+    { pageProperty: "relation-property/item-category", required: true, many: false },
   ],
   decisions: [
     {

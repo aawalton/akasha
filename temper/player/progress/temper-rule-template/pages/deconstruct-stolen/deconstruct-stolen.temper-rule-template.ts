@@ -8,7 +8,7 @@ export const deconstructStolen = {
   key: "deconstruct-stolen",
   description:
     "Launders stolen equipment that no higher-priority rule claimed, so it can be deconstructed. Place directly before the leftover equipment deconstruct rule.",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 26,
   action: "temper-item-action/fence-launder",
   active: false,

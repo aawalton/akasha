@@ -11,7 +11,7 @@ export const ruleDf7b2fe2 = {
   conditions: "jsonl",
   destination: "character:8796093022338107",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "style-pages",
+  categoryId: "temper-item-category-tree/style-pages",
   displayOrder: 29,
   action: "temper-item-action/list",
   active: true,

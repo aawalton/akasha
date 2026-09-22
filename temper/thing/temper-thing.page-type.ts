@@ -10,7 +10,6 @@ export const temperThing = {
   parts: [
     "number-property/display-order",
     "text-property/account-page",
-    "text-property/category-id",
     "relation-property/companion-id",
     "text-property/eso-character-id",
     "text-property/icon",
@@ -23,7 +22,6 @@ export const temperThing = {
     { pageProperty: "text-property/icon", required: false, many: false },
     { pageProperty: "number-property/display-order", required: false, many: false },
     { pageProperty: "text-property/account-page", required: false, many: false },
-    { pageProperty: "text-property/category-id", required: false, many: false },
     { pageProperty: "relation-property/companion-id", required: false, many: false },
     { pageProperty: "text-property/eso-character-id", required: false, many: false },
   ],

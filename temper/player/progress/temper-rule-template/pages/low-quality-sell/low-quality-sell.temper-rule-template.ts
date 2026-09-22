@@ -8,7 +8,7 @@ export const lowQualitySell = {
   key: "low-quality-sell",
   description:
     "Sells items of fine (green) quality or lower at a merchant. Higher-quality items are preserved for other rules. Place near the bottom — items caught by higher-priority rules are unaffected.",
-  categoryId: "all",
+  categoryId: "temper-item-category-tree/all",
   displayOrder: 47,
   action: "temper-item-action/sell",
   active: false,

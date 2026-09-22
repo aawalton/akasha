@@ -8,7 +8,7 @@ export const otherCurrencyBank = {
   key: "other-currency-bank",
   description:
     "Deposits alliance points, tel var stones, and writ vouchers into the bank when visiting.",
-  categoryId: "currency",
+  categoryId: "temper-item-category-tree/currency",
   displayOrder: 1,
   action: "temper-item-action/move-to",
   active: false,

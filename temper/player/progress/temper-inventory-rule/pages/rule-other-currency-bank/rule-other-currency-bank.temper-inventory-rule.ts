@@ -10,7 +10,7 @@ export const ruleOtherCurrencyBank = {
   goal: "temper-rule-goal/hoard",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "currency",
+  categoryId: "temper-item-category-tree/currency",
   displayOrder: 6,
   action: "temper-item-action/move-to",
   active: true,

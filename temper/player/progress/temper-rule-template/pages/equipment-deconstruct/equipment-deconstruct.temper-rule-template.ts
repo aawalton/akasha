@@ -8,7 +8,7 @@ export const equipmentDeconstruct = {
   key: "equipment-deconstruct",
   description:
     "Deconstructs non-crafted equipment that wasn't caught by higher-priority rules. Place below equip, research, and inspire rules to only deconstruct what's left over.",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 27,
   action: "temper-item-action/deconstruct",
   active: false,

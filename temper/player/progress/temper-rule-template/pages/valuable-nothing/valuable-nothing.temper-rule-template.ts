@@ -8,7 +8,7 @@ export const valuableNothing = {
   key: "valuable-nothing",
   description:
     "Prevents items with a guild store value of 10,000g or more from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard items worth trading.",
-  categoryId: "all",
+  categoryId: "temper-item-category-tree/all",
   displayOrder: 12,
   action: "temper-item-action/nothing",
   active: false,

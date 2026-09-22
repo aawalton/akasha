@@ -202,6 +202,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/action.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/condition-field.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/goal.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/item-category.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/effective-character.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/thing/properties/character.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/thing/properties/completion-card.relation-property.ts"}

@@ -7,7 +7,7 @@ export const rule03ee5fa2 = {
   title: "Knowledge-collectibles fragments to Trophies chest",
   destination: "house-storage:4680",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "knowledge-collectibles",
+  categoryId: "temper-item-category-tree/knowledge-collectibles",
   displayOrder: 30,
   action: "temper-item-action/move-to",
   active: true,

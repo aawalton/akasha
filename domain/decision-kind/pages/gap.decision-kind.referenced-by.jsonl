@@ -743,7 +743,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/node-id.text-property.ts","id":"01a05fc6-81fc-7831-9ded-1ba2e1d47ca1"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"decision-kind","path":"temper/thing/properties/account-page.text-property.ts","id":"01a05fba-ce37-7ab7-ac79-b568699606b3"}
-{"propertySlug":"decision-kind","path":"temper/thing/properties/category-id.text-property.ts","id":"01a05fba-ce38-7da7-8f2a-a30aa8bbacae"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.ts","id":"01a063c7-b064-74a3-9ffc-0be1edaadd02"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.ts","id":"01a06381-35cf-7009-899f-7e56d47c8435"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.ts","id":"01a06381-35cf-7af7-aa60-01ed66da5e3b"}

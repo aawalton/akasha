@@ -9,11 +9,11 @@ export const temperRuleTemplate = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
-    { pageProperty: "text-property/category-id", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "relation-property/action", required: true, many: false },
     { pageProperty: "boolean-property/active", required: true, many: false },
     { pageProperty: "relation-property/goal", required: true, many: false },
+    { pageProperty: "relation-property/item-category", required: true, many: false },
   ],
   decisions: [
     {
@@ -24,4 +24,5 @@ export const temperRuleTemplate = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: [],
 } as const satisfies PageType

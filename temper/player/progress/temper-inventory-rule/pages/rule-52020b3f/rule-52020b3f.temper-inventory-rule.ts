@@ -8,7 +8,7 @@ export const rule52020b3f = {
   conditions: "jsonl",
   destination: "character:8796093022338107",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "scrolls",
+  categoryId: "temper-item-category-tree/scrolls",
   displayOrder: 0,
   action: "temper-item-action/move-to",
   active: true,

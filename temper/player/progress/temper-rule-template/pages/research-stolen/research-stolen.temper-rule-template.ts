@@ -8,7 +8,7 @@ export const researchStolen = {
   key: "research-stolen",
   description:
     "Launders stolen equipment with a researchable trait so it can be submitted at a crafting station. Place before other research rules.",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 13,
   action: "temper-item-action/fence-launder",
   active: false,

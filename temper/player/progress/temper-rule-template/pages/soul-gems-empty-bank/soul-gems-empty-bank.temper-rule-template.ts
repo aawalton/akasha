@@ -8,7 +8,7 @@ export const soulGemsEmptyBank = {
   key: "soul-gems-empty-bank",
   description:
     "Deposits empty (white quality) soul gems in the bank. Filled and crown soul gems are kept.",
-  categoryId: "soul-gems",
+  categoryId: "temper-item-category-tree/soul-gems",
   displayOrder: 23,
   action: "temper-item-action/move-to",
   active: false,

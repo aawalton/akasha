@@ -9,7 +9,7 @@ export const rule26fb56ce = {
   goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "lockpicks",
+  categoryId: "temper-item-category-tree/lockpicks",
   displayOrder: 36,
   action: "temper-item-action/fence-launder",
   active: true,

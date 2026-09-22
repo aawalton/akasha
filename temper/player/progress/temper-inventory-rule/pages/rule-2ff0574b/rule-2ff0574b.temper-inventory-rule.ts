@@ -6,7 +6,7 @@ export const rule2ff0574b = {
   slug: "rule-2ff0574b",
   destination: "character:8796093022338107",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "treasure-maps",
+  categoryId: "temper-item-category-tree/treasure-maps",
   displayOrder: 50,
   action: "temper-item-action/move-to",
   active: true,

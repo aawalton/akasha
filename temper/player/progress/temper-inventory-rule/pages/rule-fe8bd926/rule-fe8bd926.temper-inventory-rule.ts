@@ -8,7 +8,7 @@ export const ruleFe8bd926 = {
   conditions: "jsonl",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "scrolls",
+  categoryId: "temper-item-category-tree/scrolls",
   displayOrder: 34,
   action: "temper-item-action/move-to",
   active: true,

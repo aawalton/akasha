@@ -10,7 +10,7 @@ export const ruleB2aa4438 = {
   conditions: "jsonl",
   destination: "house-storage:4674",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "potions",
+  categoryId: "temper-item-category-tree/potions",
   displayOrder: 21,
   action: "temper-item-action/move-to",
   active: true,

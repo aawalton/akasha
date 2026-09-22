@@ -88,6 +88,5 @@
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/guild-name.text-property.ts","id":"01a0685d-89aa-7d2f-948c-fbca509592a2"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/char-eligibility.text-property.ts","id":"01a07283-f298-7cad-8c9f-82f3ca167ff1"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule/properties/condition-value.text-property.ts","id":"01a05fd0-3aa5-7e12-bb0a-a40ab13f2405"}
-{"propertySlug":"decision-kind","path":"temper/thing/properties/category-id.text-property.ts","id":"01a05fba-ce38-7da7-8f2a-a30aa8bbacae"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-pricing-tables/watcher-pricing-tables.module.ts","id":"01a06381-35cf-7f9a-8a86-81d472cd7c24"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

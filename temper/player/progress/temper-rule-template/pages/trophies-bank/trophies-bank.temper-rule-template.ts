@@ -8,7 +8,7 @@ export const trophiesBank = {
   key: "trophies-bank",
   description:
     "Deposits miscellaneous trophies (keys, key fragments, toys, dungeon buff ingredients, material upgraders) in the bank for safekeeping.",
-  categoryId: "trophies",
+  categoryId: "temper-item-category-tree/trophies",
   displayOrder: 34,
   action: "temper-item-action/move-to",
   active: false,

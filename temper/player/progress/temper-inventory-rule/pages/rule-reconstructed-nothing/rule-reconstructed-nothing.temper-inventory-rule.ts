@@ -10,7 +10,7 @@ export const ruleReconstructedNothing = {
   goal: "temper-rule-goal/equip",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 24,
   action: "temper-item-action/nothing",
   active: true,

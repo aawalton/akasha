@@ -10,7 +10,7 @@ export const ruleDd546170 = {
   goal: "temper-rule-goal/destroy",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "style-pages",
+  categoryId: "temper-item-category-tree/style-pages",
   displayOrder: 28,
   action: "temper-item-action/destroy",
   active: true,

@@ -10,7 +10,7 @@ export const ruleTreasureMapsBank = {
   goal: "temper-rule-goal/task",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "treasure-maps",
+  categoryId: "temper-item-category-tree/treasure-maps",
   displayOrder: 51,
   action: "temper-item-action/move-to",
   active: true,

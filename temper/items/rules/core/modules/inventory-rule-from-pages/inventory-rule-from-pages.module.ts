@@ -51,7 +51,7 @@ export const inventoryRuleFromPages = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An action, a goal and a condition field are read as the slug alone, whatever page type names each.",
+        "An action, a goal, a category and a condition field are read as the slug alone, whatever names each.",
     },
     {
       decisionKind: "decision-kind/gap",

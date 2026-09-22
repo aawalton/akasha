@@ -8,7 +8,7 @@ export const containersOpen = {
   key: "containers-open",
   description:
     "Opens containers automatically. The Can Open filter skips containers on game cooldown or when transmute crystal storage is full. The Can Give Max Rewards filter skips containers during the 20-hour reward cooldown.",
-  categoryId: "containers",
+  categoryId: "temper-item-category-tree/containers",
   displayOrder: 3,
   action: "temper-item-action/open",
   active: false,

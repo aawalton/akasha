@@ -8,7 +8,7 @@ export const treasuresEpicStolen = {
   key: "treasures-epic-stolen",
   description:
     "Launders stolen treasures of epic quality or higher. These are worth keeping — sell them legitimately or bank for later.",
-  categoryId: "treasures",
+  categoryId: "temper-item-category-tree/treasures",
   displayOrder: 31,
   action: "temper-item-action/fence-launder",
   active: false,

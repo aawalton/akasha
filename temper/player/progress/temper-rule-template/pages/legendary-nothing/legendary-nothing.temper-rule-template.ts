@@ -8,7 +8,7 @@ export const legendaryNothing = {
   key: "legendary-nothing",
   description:
     "Prevents legendary (gold) quality equipment from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard your best gear.",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 5,
   action: "temper-item-action/nothing",
   active: false,

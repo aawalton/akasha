@@ -10,7 +10,7 @@ export const ruleAcb23368 = {
   goal: "temper-rule-goal/sell",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "recipe-fragments",
+  categoryId: "temper-item-category-tree/recipe-fragments",
   displayOrder: 27,
   action: "temper-item-action/sell",
   active: true,

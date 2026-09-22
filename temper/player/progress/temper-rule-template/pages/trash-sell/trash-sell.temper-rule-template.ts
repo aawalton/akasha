@@ -7,7 +7,7 @@ export const trashSell = {
   title: "Sell trash",
   key: "trash-sell",
   description: "Sells items categorized as trash. These have no crafting or collectible value.",
-  categoryId: "trash",
+  categoryId: "temper-item-category-tree/trash",
   displayOrder: 37,
   action: "temper-item-action/sell",
   active: false,

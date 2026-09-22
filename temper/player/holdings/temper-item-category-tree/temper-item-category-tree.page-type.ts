@@ -84,6 +84,10 @@ export const temperItemCategoryTree = {
       decisionKind: "decision-kind/departure",
       statement: "A branch naming no parent is a root.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The branch stating no test takes every item, and every rule may name it.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

@@ -4,14 +4,13 @@ import type { RuleLocked } from "akasha/temper/player/progress/temper-inventory-
 import type { UpdatedAt } from "akasha/temper/player/progress/temper-inventory-rule/properties/updated-at.instant-property.types.ts"
 import type { Action } from "akasha/temper/player/progress/temper-rule/properties/action.relation-property.types.ts"
 import type { Active } from "akasha/temper/player/progress/temper-rule/properties/active.boolean-property.types.ts"
+import type { ItemCategory } from "akasha/temper/player/progress/temper-rule/properties/item-category.relation-property.types.ts"
 import type { TemperRule } from "akasha/temper/player/progress/temper-rule/temper-rule.page-type.types.ts"
 import type { AccountPage } from "akasha/temper/thing/properties/account-page.text-property.types.ts"
-import type { CategoryId } from "akasha/temper/thing/properties/category-id.text-property.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
 
 export type TemperInventoryRule = TemperRule & {
   accountPage: AccountPage
-  categoryId: CategoryId
   displayOrder: DisplayOrder
   action: Action
   active: Active
@@ -19,4 +18,5 @@ export type TemperInventoryRule = TemperRule & {
   locked?: RuleLocked
   fromTemplate?: FromTemplate
   destinationChain?: DestinationChain
+  categoryId: ItemCategory
 }

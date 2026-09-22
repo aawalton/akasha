@@ -8,7 +8,7 @@ export const ruleF0ce7528 = {
   conditions: "jsonl",
   stockScope: "any-character",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "potions",
+  categoryId: "temper-item-category-tree/potions",
   displayOrder: 18,
   action: "temper-item-action/stock",
   active: true,

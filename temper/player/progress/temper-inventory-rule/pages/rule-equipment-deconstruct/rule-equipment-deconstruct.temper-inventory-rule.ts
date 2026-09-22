@@ -10,7 +10,7 @@ export const ruleEquipmentDeconstruct = {
   goal: "temper-rule-goal/hoard",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 55,
   action: "temper-item-action/deconstruct",
   active: true,

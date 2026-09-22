@@ -10,7 +10,7 @@ export const ruleMasterWritsBank = {
   goal: "temper-rule-goal/task",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "master-writs",
+  categoryId: "temper-item-category-tree/master-writs",
   displayOrder: 48,
   action: "temper-item-action/move-to",
   active: true,

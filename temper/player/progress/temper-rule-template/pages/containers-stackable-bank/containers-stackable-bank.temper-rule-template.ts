@@ -8,7 +8,7 @@ export const containersStackableBank = {
   key: "containers-stackable-bank",
   description:
     "Deposits stackable containers (reward coffers, event boxes, etc.) in the bank. Open them later in bulk or save for events.",
-  categoryId: "container-stackable",
+  categoryId: "temper-item-category-tree/container-stackable",
   displayOrder: 2,
   action: "temper-item-action/move-to",
   active: false,

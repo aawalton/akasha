@@ -10,7 +10,7 @@ export const ruleD21e3976 = {
   conditions: "jsonl",
   destination: "house-storage:4675",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "drink",
+  categoryId: "temper-item-category-tree/drink",
   displayOrder: 16,
   action: "temper-item-action/move-to",
   active: true,

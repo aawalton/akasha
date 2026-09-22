@@ -1,3 +1,11 @@
+{"propertySlug":"item-category","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-epic-bank/rule-treasures-epic-bank.temper-inventory-rule.ts","id":"01a0728b-8ec0-751b-8b72-78d2913de4d2"}
+{"propertySlug":"item-category","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-epic-stolen/rule-treasures-epic-stolen.temper-inventory-rule.ts","id":"01a0728b-8ec0-725b-bf83-228a199a5876"}
+{"propertySlug":"item-category","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-sell/rule-treasures-sell.temper-inventory-rule.ts","id":"01a0728b-8ec1-76a0-b421-1147ce64b46f"}
+{"propertySlug":"item-category","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts","id":"01a0728b-8ec1-7536-8fc5-234be5e73ba0"}
+{"propertySlug":"item-category","path":"temper/player/progress/temper-rule-template/pages/treasures-epic-bank/treasures-epic-bank.temper-rule-template.ts","id":"019e3104-2620-7fe8-87df-816b5a447437"}
+{"propertySlug":"item-category","path":"temper/player/progress/temper-rule-template/pages/treasures-epic-stolen/treasures-epic-stolen.temper-rule-template.ts","id":"019e3104-261f-7668-98d5-65fc2dc8d58a"}
+{"propertySlug":"item-category","path":"temper/player/progress/temper-rule-template/pages/treasures-sell/treasures-sell.temper-rule-template.ts","id":"019e3104-2627-7b26-8ce5-f198e4be0e34"}
+{"propertySlug":"item-category","path":"temper/player/progress/temper-rule-template/pages/treasures-stolen-fence/treasures-stolen-fence.temper-rule-template.ts","id":"019e3104-2626-7e2a-8df5-d83385768ba5"}
 {"propertySlug":"item-category-parent","path":"temper/player/holdings/temper-item-category-tree/pages/monster-trophies.temper-item-category-tree.ts","id":"01a05fcf-f82d-7ab9-a641-c5e4f5db9f45"}
 {"propertySlug":"item-category-parent","path":"temper/player/holdings/temper-item-category-tree/pages/rare-fish.temper-item-category-tree.ts","id":"01a05fcf-f832-715c-82e8-cffc41f00b6c"}
 {"propertySlug":"item-category-parent","path":"temper/player/holdings/temper-item-category-tree/pages/trash.temper-item-category-tree.ts","id":"01a05fcf-f844-7560-aa44-caf65bb248e3"}

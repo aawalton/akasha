@@ -8,7 +8,7 @@ export const rule263273e9 = {
   conditions: "jsonl",
   destination: "house-storage:4677",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "scrolls",
+  categoryId: "temper-item-category-tree/scrolls",
   displayOrder: 35,
   action: "temper-item-action/move-to",
   active: true,

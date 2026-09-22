@@ -7,7 +7,7 @@ export const toolsBank = {
   title: "Bank tools",
   key: "tools-bank",
   description: "Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping.",
-  categoryId: "tools",
+  categoryId: "temper-item-category-tree/tools",
   displayOrder: 32,
   action: "temper-item-action/move-to",
   active: false,

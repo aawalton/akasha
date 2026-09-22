@@ -8,7 +8,7 @@ export const poisonsNormalSell = {
   key: "poisons-normal-sell",
   description:
     "Sells normal (white) quality non-crafted poisons. Crafted and higher-quality poisons are kept.",
-  categoryId: "poisons",
+  categoryId: "temper-item-category-tree/poisons",
   displayOrder: 44,
   action: "temper-item-action/sell",
   active: false,

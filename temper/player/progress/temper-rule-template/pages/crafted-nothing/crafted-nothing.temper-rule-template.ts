@@ -8,7 +8,7 @@ export const craftedNothing = {
   key: "crafted-nothing",
   description:
     "Prevents crafted equipment from being affected by lower-priority rules. Useful for keeping gear you've invested materials into.",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 6,
   action: "temper-item-action/nothing",
   active: false,

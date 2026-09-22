@@ -8,7 +8,7 @@ export const holidayWritsBank = {
   key: "holiday-writs-bank",
   description:
     "Stashes holiday event writs in the bank. Complete them during events for bonus rewards.",
-  categoryId: "holiday-writs",
+  categoryId: "temper-item-category-tree/holiday-writs",
   displayOrder: 19,
   action: "temper-item-action/move-to",
   active: false,

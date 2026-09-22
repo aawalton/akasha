@@ -8,7 +8,7 @@ export const ornateSell = {
   key: "ornate-sell",
   description:
     "Sells equipment with the Ornate trait. Ornate items sell for more gold at merchants and have no crafting use.",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 15,
   action: "temper-item-action/sell",
   active: false,

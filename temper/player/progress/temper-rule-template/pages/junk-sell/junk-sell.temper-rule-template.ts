@@ -7,7 +7,7 @@ export const junkSell = {
   title: "Sell junk",
   key: "junk-sell",
   description: "Sells items in the junk category at a merchant.",
-  categoryId: "junk",
+  categoryId: "temper-item-category-tree/junk",
   displayOrder: 38,
   action: "temper-item-action/sell",
   active: false,

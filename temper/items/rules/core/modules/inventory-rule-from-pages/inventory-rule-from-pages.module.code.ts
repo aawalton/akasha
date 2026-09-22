@@ -217,7 +217,7 @@ export function ruleFromPage(held: HeldRule): CategoryRule {
   const destinationChain = chainOf(held.chain ?? [])
   return {
     id: page.slug.startsWith(SLUG_PREFIX) ? page.slug.slice(SLUG_PREFIX.length) : page.slug,
-    categoryId: page.categoryId,
+    categoryId: slugOf(page.categoryId),
     action: slugOf(page.action) as ItemAction,
     active: page.active,
     updatedAt: epochOf(page.updatedAt),

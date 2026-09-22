@@ -7,6 +7,7 @@ import {
   valuesFor,
   writesFor,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import { temperItemCategoryTree } from "akasha/temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts"
 import { known } from "akasha/temper/player/progress/temper-condition-field/pages/known.temper-condition-field.ts"
 import { temperConditionField } from "akasha/temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts"
 import { sell } from "akasha/temper/player/progress/temper-item-action/pages/sell.temper-item-action.ts"
@@ -30,7 +31,7 @@ function heldOf(id: string, at: number, over: Partial<HeldRule["page"]> = {}): H
     page: {
       slug: `rule-${id}`,
       accountPage: ACCOUNT,
-      categoryId: "scripts",
+      categoryId: `${temperItemCategoryTree.slug}/scripts` as const,
       displayOrder: at,
       action: `${temperItemAction.slug}/${sell.slug}` as const,
       active: true,
@@ -49,7 +50,7 @@ test("a rule the pages already say is written again by nothing", () => {
 test("a rule the pages do not hold is written", () => {
   const said = writesFor([ruleOf("one")], [], ACCOUNT)
   expect(said.upserts.map((one) => one.slug)).toEqual(["rule-one"])
-  expect(said.upserts[0]?.values.categoryId).toBe("scripts")
+  expect(said.upserts[0]?.values.categoryId).toBe(`${temperItemCategoryTree.slug}/scripts`)
   expect(said.upserts[0]?.values.displayOrder).toBe(0)
 })
 

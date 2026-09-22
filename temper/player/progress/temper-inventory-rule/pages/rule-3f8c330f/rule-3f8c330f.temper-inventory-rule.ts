@@ -10,7 +10,7 @@ export const rule3f8c330f = {
   conditions: "jsonl",
   destination: "guild-bank:Walton Mountain",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "container-stackable",
+  categoryId: "temper-item-category-tree/container-stackable",
   displayOrder: 7,
   action: "temper-item-action/move-to",
   active: true,

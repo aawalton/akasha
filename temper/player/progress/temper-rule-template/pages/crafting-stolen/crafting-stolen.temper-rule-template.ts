@@ -7,7 +7,7 @@ export const craftingStolen = {
   title: "Launder crafting materials",
   key: "crafting-stolen",
   description: "Launders stolen crafting materials so they can be deposited or used.",
-  categoryId: "crafting",
+  categoryId: "temper-item-category-tree/crafting",
   displayOrder: 29,
   action: "temper-item-action/fence-launder",
   active: false,

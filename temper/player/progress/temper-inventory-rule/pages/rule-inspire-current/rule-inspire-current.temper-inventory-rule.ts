@@ -11,7 +11,7 @@ export const ruleInspireCurrent = {
   conditions: "jsonl",
   destination: "character:by-priority",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 45,
   action: "temper-item-action/deconstruct",
   active: true,

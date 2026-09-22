@@ -8,7 +8,7 @@ export const transmutedNothing = {
   key: "transmuted-nothing",
   description:
     "Prevents transmuted equipment from being affected by lower-priority rules. Transmuted gear represents a transmute crystal investment.",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 9,
   action: "temper-item-action/nothing",
   active: false,

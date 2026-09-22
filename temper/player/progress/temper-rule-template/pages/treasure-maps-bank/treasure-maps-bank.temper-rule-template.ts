@@ -8,7 +8,7 @@ export const treasureMapsBank = {
   key: "treasure-maps-bank",
   description:
     "Stashes treasure maps in the bank for later use. Treasure maps lead to chests with set gear.",
-  categoryId: "treasure-maps",
+  categoryId: "temper-item-category-tree/treasure-maps",
   displayOrder: 22,
   action: "temper-item-action/move-to",
   active: false,

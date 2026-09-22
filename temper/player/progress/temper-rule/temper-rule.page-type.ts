@@ -15,6 +15,7 @@ export const temperRule = {
     "select-property/stock-scope",
     "text-property/condition-value",
     "text-property/destination",
+    "relation-property/item-category",
   ],
   properties: [
     { pageProperty: "relation-property/action", required: false, many: false },
@@ -23,6 +24,7 @@ export const temperRule = {
     { pageProperty: "page-property-entry/conditions", required: false, many: false },
     { pageProperty: "text-property/destination", required: false, many: false },
     { pageProperty: "select-property/stock-scope", required: false, many: false },
+    { pageProperty: "relation-property/item-category", required: false, many: false },
   ],
   decisions: [
     {

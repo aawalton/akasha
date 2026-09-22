@@ -8,7 +8,7 @@ export const surveyReportsBank = {
   key: "survey-reports-bank",
   description:
     "Stashes survey reports in the bank for later use. Survey reports lead to rich crafting material nodes.",
-  categoryId: "survey-reports",
+  categoryId: "temper-item-category-tree/survey-reports",
   displayOrder: 21,
   action: "temper-item-action/move-to",
   active: false,

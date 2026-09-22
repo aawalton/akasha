@@ -10,7 +10,7 @@ export const ruleTreasuresStolenFence = {
   goal: "temper-rule-goal/sell",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "treasures",
+  categoryId: "temper-item-category-tree/treasures",
   displayOrder: 69,
   action: "temper-item-action/fence-sell",
   active: true,

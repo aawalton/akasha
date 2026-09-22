@@ -11,7 +11,7 @@ export const ruleFc1c9638 = {
   conditions: "jsonl",
   destination: "character:8796093022338107",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "recipes",
+  categoryId: "temper-item-category-tree/recipes",
   displayOrder: 70,
   action: "temper-item-action/list",
   active: true,

@@ -8,7 +8,7 @@ export const rule8d1e1c96 = {
   description: "Disposal spine step 5. Closes gap A4.",
   conditions: "jsonl",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "motif-chapters",
+  categoryId: "temper-item-category-tree/motif-chapters",
   displayOrder: 81,
   action: "temper-item-action/sell",
   active: true,

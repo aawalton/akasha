@@ -8,7 +8,7 @@ export const treasuresSell = {
   key: "treasures-sell",
   description:
     "Sells treasures up to superior (blue) quality at a merchant. Higher-quality treasures are preserved for banking or guild store listing.",
-  categoryId: "treasures",
+  categoryId: "temper-item-category-tree/treasures",
   displayOrder: 41,
   action: "temper-item-action/sell",
   active: false,

@@ -27,7 +27,8 @@ export const inventoryRuleToPages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An action and a goal are written by the page type and slug naming each.",
+      statement:
+        "An action, a goal and a category are written by the page type and slug naming each.",
     },
     {
       decisionKind: "decision-kind/departure",

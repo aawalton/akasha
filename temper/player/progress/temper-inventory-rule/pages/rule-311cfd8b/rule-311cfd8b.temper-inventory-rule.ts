@@ -9,7 +9,7 @@ export const rule311cfd8b = {
     "Gap A2: fuzzy reserve parked with the other trophies (Alan 2026-07-03). First-class category since #14629.",
   destination: "house-storage:4680",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "skill-scrolls",
+  categoryId: "temper-item-category-tree/skill-scrolls",
   displayOrder: 39,
   action: "temper-item-action/move-to",
   active: true,

@@ -6,7 +6,7 @@ export const rule2524af23 = {
   slug: "rule-2524af23",
   destination: "character:8796093022338107",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "survey-reports",
+  categoryId: "temper-item-category-tree/survey-reports",
   displayOrder: 49,
   action: "temper-item-action/move-to",
   active: true,

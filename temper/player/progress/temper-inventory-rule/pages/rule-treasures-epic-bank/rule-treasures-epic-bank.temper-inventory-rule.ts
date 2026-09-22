@@ -10,7 +10,7 @@ export const ruleTreasuresEpicBank = {
   conditions: "jsonl",
   destination: "bank",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  categoryId: "treasures",
+  categoryId: "temper-item-category-tree/treasures",
   displayOrder: 62,
   action: "temper-item-action/move-to",
   active: true,

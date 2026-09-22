@@ -8,7 +8,7 @@ export const inspireStolen = {
   key: "inspire-stolen",
   description:
     "Launders stolen equipment that would give useful crafting inspiration, so it can be deconstructed. Place before other inspiration rules.",
-  categoryId: "equipment",
+  categoryId: "temper-item-category-tree/equipment",
   displayOrder: 16,
   action: "temper-item-action/fence-launder",
   active: false,
