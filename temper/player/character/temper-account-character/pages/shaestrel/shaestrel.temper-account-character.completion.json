@@ -524,6 +524,7 @@
     5737,
     5738,
     5739,
+    5744,
     5745,
     5778,
     5779,
@@ -1034,7 +1035,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 26,
+            "numCompleted": 27,
             "numRequired": 30
           }
         }
@@ -3117,7 +3118,7 @@
       "currentRank": 10
     },
     "55": {
-      "currentXP": 170,
+      "currentXP": 180,
       "nextRankXP": 200,
       "skills": {
         "39298": {
@@ -13027,7 +13028,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-21"
+    "date": "2026-09-22"
   },
   "dailyWritStates": {
     "completed": {
@@ -13035,7 +13036,7 @@
       "2": 7,
       "3": 6,
       "4": 6,
-      "5": 3,
+      "5": 4,
       "6": 4,
       "7": 5
     },
@@ -13048,7 +13049,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-21"
+    "date": "2026-09-22"
   },
   "motifKnowledge": {
     "6": {
