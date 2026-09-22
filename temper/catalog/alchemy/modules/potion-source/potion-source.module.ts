@@ -4,7 +4,7 @@ export const potionSource = {
   id: "01a06076-1b6c-74d2-820b-7207017f2a40",
   type: "page-type/module",
   slug: "potion-source",
-  definition: "every potion a character drinks, gathered into one table",
+  definition: "every potion a character drinks, put into one table",
   code: "ts",
   decisions: [
     {

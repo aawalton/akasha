@@ -4,7 +4,7 @@ export const companionMetrics = {
   id: "01a06152-c2cb-7faa-af35-b220143e5186",
   type: "page-type/module",
   slug: "companion-metrics",
-  definition: "every companion metric gathered into one table, keyed by metric id",
+  definition: "every companion metric put into one table, keyed by metric id",
   code: "ts",
   decisions: [
     {

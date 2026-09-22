@@ -4,7 +4,7 @@ export const temperCaptureWriter = {
   id: "01a060b5-5ba6-79b3-9194-4261a9b83de6",
   type: "page-type/domain",
   slug: "temper-capture-writer",
-  definition: "the add-on side of a capture, where the game is asked to save what was gathered",
+  definition: "the add-on side of a capture, where the game is asked to save what was taken",
   parts: ["module/account-wide-vars", "module/capture-writer", "module/run-batched"],
   decisions: [
     {

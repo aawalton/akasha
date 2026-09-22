@@ -4,7 +4,7 @@ export const potionsCrafted = {
   id: "01a06076-1b6a-7cba-9441-c81e409dbcd4",
   type: "page-type/module",
   slug: "potions-crafted",
-  definition: "every crafted essence, gathered into one table",
+  definition: "every crafted essence, put into one table",
   code: "ts",
   decisions: [
     {

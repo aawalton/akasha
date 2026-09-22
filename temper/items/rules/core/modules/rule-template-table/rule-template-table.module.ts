@@ -4,7 +4,7 @@ export const ruleTemplateTable = {
   id: "01a06100-3bfd-7c3a-a467-2c2131163905",
   type: "page-type/module",
   slug: "rule-template-table",
-  definition: "the 49 rule templates gathered from the two groups with them, in one order",
+  definition: "the 49 rule templates taken from the two groups with them, in one order",
   code: "ts",
   decisions: [
     {

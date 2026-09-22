@@ -4,7 +4,7 @@ export const skyshardsData2 = {
   id: "01a061a8-9c64-7729-aae4-bba854813fa0",
   type: "page-type/module",
   slug: "skyshards-data-2",
-  definition: "a set of the zones of the skyshard table, gathered from the sets holding its maps",
+  definition: "a set of the zones of the skyshard table, taken from the sets holding its maps",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const companionSkills = {
   id: "01a06119-5caa-75f4-bbef-65ed8a22afa9",
   type: "page-type/module",
   slug: "companion-skills",
-  definition: "every skill a companion may put on its bar, gathered in one table",
+  definition: "every skill a companion may put on its bar, held in one table",
   code: "ts",
   decisions: [
     {

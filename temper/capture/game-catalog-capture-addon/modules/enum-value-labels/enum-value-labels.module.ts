@@ -5,7 +5,7 @@ export const enumValueLabels = {
   type: "page-type/module",
   slug: "enum-value-labels",
   definition:
-    "the display text the game client gives each number of an enumeration, gathered under that number",
+    "the display text the game client gives each number of an enumeration, filed under that number",
   code: "ts",
   decisions: [
     {

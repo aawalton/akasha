@@ -4,7 +4,7 @@ export const ruleDestinations = {
   id: "01a06100-3bf9-7a3d-a409-5e876219979c",
   type: "page-type/module",
   slug: "rule-destinations",
-  definition: "where each rule sends what it matches, gathered as one map from rule to destination",
+  definition: "where each rule sends what it matches, held as one map from rule to destination",
   code: "ts",
   decisions: [
     {

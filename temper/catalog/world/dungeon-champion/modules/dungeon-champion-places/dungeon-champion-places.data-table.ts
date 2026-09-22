@@ -4,7 +4,7 @@ export const dungeonChampionPlaces = {
   id: "01a060f9-bad1-7202-bef3-dc48b30536e9",
   type: "page-type/data-table",
   slug: "dungeon-champion-places",
-  definition: "every champion position gathered, reached by zone name or by map id",
+  definition: "every champion position in one table, reached by zone name or by map id",
   code: "ts",
   decisions: [
     {
