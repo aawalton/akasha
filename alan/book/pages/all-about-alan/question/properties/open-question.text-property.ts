@@ -5,7 +5,7 @@ export const openQuestion = {
   type: "page-type/text-property",
   slug: "open-question",
   propertySlug: "ask",
-  definition: "what is still open about a topic, put as one question",
+  definition: "what is still open about a topic, put as a question",
   maxLength: 200,
   nameFormat: null,
   decisions: [

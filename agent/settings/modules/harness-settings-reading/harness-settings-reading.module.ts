@@ -4,7 +4,7 @@ export const harnessSettingsReading = {
   id: "01a08e0b-50f6-74fe-b9fc-1347ef93435b",
   type: "page-type/module",
   slug: "harness-settings-reading",
-  definition: "the settings body beside one agent-settings page, read and narrowed to its shape",
+  definition: "the settings body beside an agent-settings page, read and narrowed to its shape",
   code: "ts",
   decisions: [
     {

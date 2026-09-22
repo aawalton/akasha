@@ -5,7 +5,7 @@ export const composeBoot = {
   type: "page-type/module",
   slug: "compose-boot",
   definition:
-    "a seat's system prompt: who it is, and the one read that loads everything it is bound to",
+    "a seat's system prompt: who it is, and the read that loads everything it is bound to",
   code: "ts",
   decisions: [
     {

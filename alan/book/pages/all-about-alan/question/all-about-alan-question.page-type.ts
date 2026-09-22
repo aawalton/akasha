@@ -4,7 +4,7 @@ export const allAboutAlanQuestion = {
   id: "01a077d9-ec56-7451-945a-1b2355aa31dc",
   type: "page-type/page-type",
   slug: "all-about-alan-question",
-  definition: "one thing still open about a topic about Alan",
+  definition: "a thing still open about a topic about Alan",
   extends: ["page-type/page"],
   mortal: true,
   parts: ["relation-property/question-topic", "text-property/open-question"],

@@ -4,7 +4,7 @@ export const allAboutAlanTopic = {
   id: "01a01acb-287b-7001-a5dd-b90e367fe4f8",
   type: "page-type/page-type",
   slug: "all-about-alan-topic",
-  definition: "one topic about Alan",
+  definition: "a topic about Alan",
   extends: ["page-type/page"],
   parts: [
     "relation-property/topic-parents",

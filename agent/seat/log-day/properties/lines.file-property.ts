@@ -5,7 +5,7 @@ export const lines = {
   type: "page-type/file-property",
   slug: "lines",
   propertySlug: "lines",
-  definition: "the console lines a source wrote for one seat on one day",
+  definition: "the console lines a source wrote for a seat on a day",
   extensions: ["jsonl"],
   decisions: [
     {

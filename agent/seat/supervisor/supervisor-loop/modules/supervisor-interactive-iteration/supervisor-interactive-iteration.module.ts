@@ -4,7 +4,7 @@ export const supervisorInteractiveIteration = {
   id: "01a06871-3115-7006-b87f-63a3b2e561a3",
   type: "page-type/module",
   slug: "supervisor-interactive-iteration",
-  definition: "one pass of a seat's loop: its agent, its child, and the process record it leaves",
+  definition: "a pass of a seat's loop: its agent, its child, and the process record it leaves",
   code: "ts",
   decisions: [
     {

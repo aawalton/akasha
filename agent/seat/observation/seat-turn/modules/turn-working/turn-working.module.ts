@@ -5,7 +5,7 @@ export const turnWorking = {
   type: "page-type/module",
   slug: "turn-working",
   definition:
-    "what one read of a seat's transcript says about the turn and the commands still running",
+    "what a read of a seat's transcript says about the turn and the commands still running",
   code: "ts",
   test: "ts",
   decisions: [

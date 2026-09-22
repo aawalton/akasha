@@ -4,7 +4,7 @@ export const allAboutAlanExperiment = {
   id: "01a0657f-a729-7906-84f8-825c8af36228",
   type: "page-type/page-type",
   slug: "all-about-alan-experiment",
-  definition: "one measured trial about Alan",
+  definition: "a measured trial about Alan",
   extends: ["page-type/page"],
   parts: ["file-property/line-set"],
   properties: [

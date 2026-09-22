@@ -4,7 +4,7 @@ export const seatRecord = {
   id: "01a06949-b281-7a28-8dc0-ad7ecff7be76",
   type: "page-type/module",
   slug: "seat-record",
-  definition: "one value a seat carries under a key, read from akasha and kept beside the seat",
+  definition: "a value a seat carries under a key, read from akasha and kept beside the seat",
   code: "ts",
   decisions: [
     {

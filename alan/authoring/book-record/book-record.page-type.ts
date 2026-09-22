@@ -4,7 +4,7 @@ export const bookRecord = {
   id: "01a0657d-b91d-7500-8bc9-4bbfb71443f8",
   type: "page-type/page-type",
   slug: "book-record",
-  definition: "one record kept about a book Alan is writing",
+  definition: "a record kept about a book Alan is writing",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [

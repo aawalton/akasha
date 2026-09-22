@@ -5,7 +5,7 @@ export const subagentPrompt = {
   type: "page-type/file-property",
   slug: "subagent-prompt",
   propertySlug: "subagent-prompt",
-  definition: "what a subagent of one kind is told before its work is handed to it",
+  definition: "what a subagent of a kind is told before its work is handed to it",
   extensions: ["md"],
   decisions: [
     {

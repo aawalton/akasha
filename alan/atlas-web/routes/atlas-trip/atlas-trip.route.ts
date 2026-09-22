@@ -4,7 +4,7 @@ export const atlasTrip = {
   id: "01a0883e-5a1e-7450-ac91-ba1c3f52e21b",
   type: "page-type/route",
   slug: "atlas-trip",
-  definition: "one location collection and the locations naming it, listed as that trip's stops",
+  definition: "a location collection and the locations naming it, listed as that trip's stops",
   code: "tsx",
   urlPath: "trip/:tripParam",
   decisions: [

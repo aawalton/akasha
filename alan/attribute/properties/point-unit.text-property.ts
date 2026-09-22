@@ -5,7 +5,7 @@ export const pointUnit = {
   type: "page-type/text-property",
   slug: "point-unit",
   propertySlug: "point-unit",
-  definition: "what earns one point in an attribute",
+  definition: "what earns a point in an attribute",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

@@ -4,7 +4,7 @@ export const masteryLevel = {
   id: "01a0784a-cdb9-75af-be55-75cc37d93123",
   type: "page-type/page-type",
   slug: "mastery-level",
-  definition: "one rung on the scale a topic's mastery is scored against",
+  definition: "a rung on the scale a topic's mastery is scored against",
   extends: ["page-type/domain"],
   parts: [
     "mastery-level/doctor",
