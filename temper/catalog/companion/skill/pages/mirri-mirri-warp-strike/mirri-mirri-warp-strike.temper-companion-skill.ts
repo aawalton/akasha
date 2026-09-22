@@ -9,7 +9,7 @@ export const mirriMirriWarpStrike = {
   icon: "/esoui/art/icons/ability_companion_nightblade_008.dds",
   description:
     "Your Companion flashes through the shadows and ambushes an enemy, dealing $1 Magic Damage.",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   abilityId: 153853,
   skillLineId: "companion-mirri-deadly-assassin",
   skillType: "temper-skill-type/active",

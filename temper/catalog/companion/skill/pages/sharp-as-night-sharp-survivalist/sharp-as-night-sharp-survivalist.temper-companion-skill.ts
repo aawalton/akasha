@@ -8,7 +8,7 @@ export const sharpAsNightSharpSurvivalist = {
   title: "Survivalist",
   icon: "/esoui/art/icons/ability_companion_warden_passive.dds",
   description: "Increases Physical and Spell Resistance by 3% and healing done by 3%.",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 193973,
   skillLineId: "companion-sharp-as-night",
   skillType: "temper-skill-type/passive",

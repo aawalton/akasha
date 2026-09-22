@@ -9,7 +9,7 @@ export const azandarAzandarShieldsOfErudition = {
   icon: "/esoui/art/icons/ability_companion_arcanist_tidalshield.dds",
   description:
     "Your Companion manifests spinning discs of pure knowledge to surround themselves and up to 2 allies, granting a damage shield that absorbs $1 damage for $$1 seconds.",
-  companionId: "azandar",
+  companionId: "temper-eso-companion/azandar",
   abilityId: 192937,
   skillLineId: "companion-azandar-revitalizing-researcher",
   skillType: "temper-skill-type/active",

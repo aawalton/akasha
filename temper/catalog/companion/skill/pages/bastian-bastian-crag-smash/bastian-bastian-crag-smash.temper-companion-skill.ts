@@ -8,7 +8,7 @@ export const bastianBastianCragSmash = {
   title: "Crag Smash",
   icon: "/esoui/art/icons/ability_companion_dragonknight_013.dds",
   description: "Your Companion hurls a chunk of rock at an enemy, dealing $1 Physical Damage.",
-  companionId: "bastian",
+  companionId: "temper-eso-companion/bastian",
   abilityId: 155186,
   skillLineId: "companion-bastian-ardent-warrior",
   skillType: "temper-skill-type/active",

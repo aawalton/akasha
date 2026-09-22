@@ -9,7 +9,7 @@ export const zerithVarZerithVarCrescentScythe = {
   icon: "/esoui/art/icons/ability_companion_necromancer_scythe.dds",
   description:
     "Your Companion summons an implement of moonlight that slashes the enemy's life force, dealing $1 Magic Damage. They heal for $2 Health every 2 seconds for $$2 seconds. The healing of this ability scales off their Max Health.",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   abilityId: 213164,
   skillLineId: "companion-zerith-var-guardians-commitment",
   skillType: "temper-skill-type/active",

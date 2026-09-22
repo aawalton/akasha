@@ -36,6 +36,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"collection-type","unique":null,"uniquePropertySlug":null,"slug":"collection-type","propertySlug":"collection-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"unit","unique":null,"uniquePropertySlug":null,"slug":"collection-unit","propertySlug":"unit","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"readout","unique":null,"uniquePropertySlug":null,"slug":"color-from","propertySlug":"color-from","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-eso-companion","unique":null,"uniquePropertySlug":null,"slug":"companion-id","propertySlug":"companion-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-completion-category","unique":null,"uniquePropertySlug":null,"slug":"completion-card","propertySlug":"completion-card","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-component","unique":null,"uniquePropertySlug":null,"slug":"component","propertySlug":"component","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-condition-field","unique":null,"uniquePropertySlug":null,"slug":"condition-field","propertySlug":"condition-field","fileName":null,"folderName":null}

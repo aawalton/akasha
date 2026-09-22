@@ -9,7 +9,7 @@ export const zerithVarZerithVarVarmiinasVisage = {
   icon: "/esoui/art/icons/ability_companion_necromancer_flameskull.dds",
   description:
     "Your Companion launches a nightmarish exploding skull at an enemy, dealing $1 Flame Damage.",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   abilityId: 213157,
   skillLineId: "companion-zerith-var-warriors-banishment",
   skillType: "temper-skill-type/active",

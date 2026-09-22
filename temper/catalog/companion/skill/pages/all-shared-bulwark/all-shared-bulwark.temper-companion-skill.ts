@@ -9,7 +9,6 @@ export const allSharedBulwark = {
   icon: "/esoui/art/icons/ability_companion_armor_heavy.dds",
   description:
     "Your Companion becomes an unstoppable defender, blocking and reflecting all attacks for $$1 seconds.",
-  companionId: "all",
   abilityId: 156599,
   skillLineId: "armor-heavy",
   skillType: "temper-skill-type/active",

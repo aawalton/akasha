@@ -9,7 +9,7 @@ export const isobelIsobelGallantBlitz = {
   icon: "/esoui/art/icons/ability_companion_templar_focused_charge.dds",
   description:
     "Your Companion charges toward their enemy with a vibrant spear that bursts in a flash of light, setting all enemies in the area Off Balance for $$1 seconds.",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   abilityId: 163590,
   skillLineId: "companion-isobel-brilliant-shield",
   skillType: "temper-skill-type/active",

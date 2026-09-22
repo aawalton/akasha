@@ -9,7 +9,7 @@ export const azandarAzandarZoneOfRecuperation = {
   icon: "/esoui/art/icons/ability_companion_arcanist_domain.dds",
   description:
     "Your Companion outlines a domain of eldritch power, healing them and their allies standing within for $1 Health over $$1 seconds and granting 150 Health, Magicka, and Stamina Recovery.",
-  companionId: "azandar",
+  companionId: "temper-eso-companion/azandar",
   abilityId: 193126,
   skillLineId: "companion-azandar-revitalizing-researcher",
   skillType: "temper-skill-type/active",

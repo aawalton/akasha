@@ -9,7 +9,7 @@ export const sharpAsNightSharpFungalForage = {
   icon: "/esoui/art/icons/ability_companion_warden_fungalgrowth.dds",
   description:
     "Your Companion musters a cluster of mushrooms, healing you and your allies for $1 Health. Heals for 50% more on allies that are within 8 meters of Your Companion.",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186598,
   skillLineId: "companion-sharp-as-night-verdant-growth",
   skillType: "temper-skill-type/active",

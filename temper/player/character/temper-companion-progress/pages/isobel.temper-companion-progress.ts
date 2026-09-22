@@ -5,6 +5,6 @@ export const isobel = {
   type: "page-type/temper-companion-progress",
   slug: "isobel",
   title: "Isobel Veloise",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
 } as const satisfies TemperCompanionProgress

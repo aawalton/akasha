@@ -5,6 +5,6 @@ export const bastian = {
   type: "page-type/temper-companion-progress",
   slug: "bastian",
   title: "Bastian Hallix",
-  companionId: "bastian",
+  companionId: "temper-eso-companion/bastian",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
 } as const satisfies TemperCompanionProgress

@@ -9,7 +9,7 @@ export const bastianBastianScorchingStrike = {
   icon: "/esoui/art/icons/ability_companion_dragonknight_003.dds",
   description:
     "Your Companion slashes an enemy with flame, dealing $1 Flame Damage and an additional $2 Flame Damage over $$2 seconds.",
-  companionId: "bastian",
+  companionId: "temper-eso-companion/bastian",
   abilityId: 154923,
   skillLineId: "companion-bastian-ardent-warrior",
   skillType: "temper-skill-type/active",

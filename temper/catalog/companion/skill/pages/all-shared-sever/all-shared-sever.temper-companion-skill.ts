@@ -8,7 +8,6 @@ export const allSharedSever = {
   title: "Sever",
   icon: "/esoui/art/icons/ability_companion_2handed_004.dds",
   description: "Your Companion spins around and strikes an enemy down, dealing $1 Physical Damage.",
-  companionId: "all",
   abilityId: 152624,
   skillLineId: "weapon-two-handed",
   skillType: "temper-skill-type/active",

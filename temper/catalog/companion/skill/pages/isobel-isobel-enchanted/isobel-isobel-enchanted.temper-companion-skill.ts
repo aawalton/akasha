@@ -8,7 +8,7 @@ export const isobelIsobelEnchanted = {
   title: "Cunning",
   icon: "/esoui/art/icons/ability_companion_templar_cunning.dds",
   description: "Decreases ability cooldowns by 3% and damage taken by 3%.",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   abilityId: 169474,
   skillLineId: "companion-isobel",
   skillType: "temper-skill-type/passive",

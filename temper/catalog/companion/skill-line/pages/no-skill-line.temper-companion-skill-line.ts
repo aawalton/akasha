@@ -6,7 +6,6 @@ export const noSkillLine = {
   slug: "no-skill-line",
   key: "no-skill-line",
   title: "No Skill Line",
-  companionId: "all",
   category: "weapon",
   displayOrder: 0,
 } as const satisfies TemperCompanionSkillLine

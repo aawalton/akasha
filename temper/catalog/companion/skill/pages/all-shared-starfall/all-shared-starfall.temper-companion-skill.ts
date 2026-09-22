@@ -9,7 +9,6 @@ export const allSharedStarfall = {
   icon: "/esoui/art/icons/ability_companion_mageguild_005.dds",
   description:
     "Your Companion calls a comet down from the constellations to blast an enemy, dealing $1 Flame Damage.",
-  companionId: "all",
   abilityId: 155403,
   skillLineId: "guild-mages",
   skillType: "temper-skill-type/active",

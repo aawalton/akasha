@@ -9,7 +9,7 @@ export const mirriMirriShadowSlash = {
   icon: "/esoui/art/icons/ability_companion_nightblade_002.dds",
   description:
     "Your Companion slashes an enemy, dealing $1 Magic Damage and setting them Off Balance for $$2 seconds.",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   abilityId: 156182,
   skillLineId: "companion-mirri-deadly-assassin",
   skillType: "temper-skill-type/active",

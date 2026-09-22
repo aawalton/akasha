@@ -9,7 +9,7 @@ export const tanlorinTanlorinVolcanicArms = {
   icon: "/esoui/art/icons/ability_companion_dragonknight_volcanicarms.dds",
   description:
     "Your Companion charges their and their grouped allies' weapons with volcanic power to gain Major Brutality and Sorcery, increasing Weapon and Spell Damage by 20% for $$1 seconds.",
-  companionId: "tanlorin",
+  companionId: "temper-eso-companion/tanlorin",
   abilityId: 214703,
   skillLineId: "companion-tanlorin-radiating-heart",
   skillType: "temper-skill-type/active",

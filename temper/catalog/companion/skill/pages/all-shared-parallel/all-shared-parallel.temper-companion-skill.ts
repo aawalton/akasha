@@ -8,7 +8,6 @@ export const allSharedParallel = {
   title: "Parallel",
   icon: "/esoui/art/icons/ability_companion_mageguild_003.dds",
   description: "Your Companion barters with Oblivion for power, generating 50 Ultimate.",
-  companionId: "all",
   abilityId: 155411,
   skillLineId: "guild-mages",
   skillType: "temper-skill-type/active",

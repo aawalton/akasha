@@ -8,7 +8,7 @@ export const zerithVarZerithVarThirdMoonsChosen = {
   title: "Third Moon's Chosen",
   icon: "/esoui/art/icons/ability_companion_zerith_passive.dds",
   description: "Decreases ability cooldowns by 3% and increases Health by 3%.",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   abilityId: 214162,
   skillLineId: "companion-zerith-var",
   skillType: "temper-skill-type/passive",

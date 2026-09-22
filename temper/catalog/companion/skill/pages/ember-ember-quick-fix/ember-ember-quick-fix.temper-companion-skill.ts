@@ -9,7 +9,7 @@ export const emberEmberQuickFix = {
   icon: "/esoui/art/icons/ability_companion_sorcerer_quickfix.dds",
   description:
     "Your Companion patches themselves or an ally with restorative magic, healing for $1 Health.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 166018,
   skillLineId: "companion-ember-playful-schemer",
   skillType: "temper-skill-type/active",

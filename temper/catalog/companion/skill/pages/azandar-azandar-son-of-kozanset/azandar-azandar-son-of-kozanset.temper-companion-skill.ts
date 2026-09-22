@@ -8,7 +8,7 @@ export const azandarAzandarSonOfKozanset = {
   title: "Son of Kozanset",
   icon: "/esoui/art/icons/ability_companion_arcanist_passive.dds",
   description: "Increases Max Health by 3% and decreases ability cooldowns by 3%.",
-  companionId: "azandar",
+  companionId: "temper-eso-companion/azandar",
   abilityId: 193971,
   skillLineId: "companion-azandar",
   skillType: "temper-skill-type/passive",

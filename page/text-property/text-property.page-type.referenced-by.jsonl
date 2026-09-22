@@ -633,7 +633,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/account-page.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/category-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/category.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/companion-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/eso-character-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/icon.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/key.text-property.ts"}

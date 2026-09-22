@@ -9,7 +9,7 @@ export const mirriMirriMasqueOfTorment = {
   icon: "/esoui/art/icons/ability_companion_nightblade_016.dds",
   description:
     "Your Companion terrifies nearby enemies, causing them to cower in fear for $$1 seconds.",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   abilityId: 153856,
   skillLineId: "companion-mirri-living-shade",
   skillType: "temper-skill-type/active",

@@ -9,7 +9,7 @@ export const azandarAzandarAborsAugmentedWard = {
   icon: "/esoui/art/icons/ability_companion_arcanist_fatewovenarmor.dds",
   description:
     "Your Companion draws on advanced research to gain a damage shield that absorbs up to 25% of their Max Health for $$1 seconds. The first time they take direct damage after casting, the shield retaliates and deals $2 Magic Damage to the attacker.",
-  companionId: "azandar",
+  companionId: "temper-eso-companion/azandar",
   abilityId: 191939,
   skillLineId: "companion-azandar-quill-knight",
   skillType: "temper-skill-type/active",

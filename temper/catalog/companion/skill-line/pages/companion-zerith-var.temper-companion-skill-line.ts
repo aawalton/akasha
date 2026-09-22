@@ -6,7 +6,7 @@ export const companionZerithVar = {
   slug: "companion-zerith-var",
   key: "companion-zerith-var",
   title: "Zerith-var",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   category: "class",
   displayOrder: 29,
 } as const satisfies TemperCompanionSkillLine

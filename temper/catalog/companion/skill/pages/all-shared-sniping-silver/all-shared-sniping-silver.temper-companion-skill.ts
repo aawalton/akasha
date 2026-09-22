@@ -9,7 +9,6 @@ export const allSharedSnipingSilver = {
   icon: "/esoui/art/icons/ability_companion_fightersguild_003.dds",
   description:
     "Your Companion fires a Dawnguard Vampire Hunter's crossbow bolt at an enemy, dealing $1 Physical Damage. Deals double damage if the enemy is an Undead, Daedra, or Werewolf.",
-  companionId: "all",
   abilityId: 153686,
   skillLineId: "guild-fighters",
   skillType: "temper-skill-type/active",

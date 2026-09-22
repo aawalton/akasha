@@ -6,7 +6,7 @@ export const companionEmberLightningCaller = {
   slug: "companion-ember-lightning-caller",
   key: "companion-ember-lightning-caller",
   title: "Lightning Caller",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   category: "class",
   displayOrder: 2,
 } as const satisfies TemperCompanionSkillLine

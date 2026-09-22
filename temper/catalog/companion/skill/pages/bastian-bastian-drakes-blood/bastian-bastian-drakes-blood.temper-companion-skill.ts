@@ -9,7 +9,7 @@ export const bastianBastianDrakesBlood = {
   icon: "/esoui/art/icons/ability_companion_dragonknight_011.dds",
   description:
     "Your Companion draws on their draconic blood, healing for 25% of their Max Health and reducing their damage taken by 20% for $$2 seconds.",
-  companionId: "bastian",
+  companionId: "temper-eso-companion/bastian",
   abilityId: 155268,
   skillLineId: "companion-bastian-draconic-armor",
   skillType: "temper-skill-type/active",

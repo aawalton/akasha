@@ -9,7 +9,7 @@ export const emberEmberSecondWind = {
   icon: "/esoui/art/icons/ability_companion_sorcerer_dark_exchange.dds",
   description:
     "Your Companion uses their backup resources, reducing the cooldown of all their other abilities by 5 seconds.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 166068,
   skillLineId: "companion-ember-playful-schemer",
   skillType: "temper-skill-type/active",

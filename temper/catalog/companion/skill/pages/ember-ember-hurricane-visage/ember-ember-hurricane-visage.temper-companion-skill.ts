@@ -9,7 +9,7 @@ export const emberEmberHurricaneVisage = {
   icon: "/esoui/art/icons/ability_companion_sorcerer_lightning_form.dds",
   description:
     "Your Companion manifests themselves as pure lightning, zapping nearby enemies with electricity dealing $1 Shock Damage over $$2 seconds. While in this form their damage taken is reduced by 20%.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 165860,
   skillLineId: "companion-ember-mischievous-caster",
   skillType: "temper-skill-type/active",

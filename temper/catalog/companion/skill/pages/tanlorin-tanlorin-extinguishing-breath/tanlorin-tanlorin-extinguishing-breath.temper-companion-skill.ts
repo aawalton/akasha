@@ -9,7 +9,7 @@ export const tanlorinTanlorinExtinguishingBreath = {
   icon: "/esoui/art/icons/ability_companion_tanlorin_extinguishingbreath.dds",
   description:
     "Your Companion channels draconic energy to suck in the air around them, dealing $1 Flame Damage to nearby enemies and healing themselves for $2 Health. Any enemy hit that is casting is interrupted and stunned for $$4 seconds. After 2.5 seconds, they exhale fire dealing $3 Flame Damage to nearby enemies.",
-  companionId: "tanlorin",
+  companionId: "temper-eso-companion/tanlorin",
   abilityId: 215042,
   skillLineId: "companion-tanlorin-draconic-armor",
   skillType: "temper-skill-type/active",

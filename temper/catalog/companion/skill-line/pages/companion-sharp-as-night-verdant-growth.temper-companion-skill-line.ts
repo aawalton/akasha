@@ -6,7 +6,7 @@ export const companionSharpAsNightVerdantGrowth = {
   slug: "companion-sharp-as-night-verdant-growth",
   key: "companion-sharp-as-night-verdant-growth",
   title: "Verdant Growth",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   category: "class",
   displayOrder: 19,
 } as const satisfies TemperCompanionSkillLine

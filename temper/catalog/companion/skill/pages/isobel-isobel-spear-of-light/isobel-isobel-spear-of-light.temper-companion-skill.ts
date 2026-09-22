@@ -9,7 +9,7 @@ export const isobelIsobelSpearOfLight = {
   icon: "/esoui/art/icons/ability_companion_templar_returning_spear.dds",
   description:
     "Your Companion hurls a barrage of spears made of radiant light at all targets in front of them, dealing $1 Magic Damage and knocking them down for $$3 seconds. This attack ignores the enemy's Resistances.",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   abilityId: 163725,
   skillLineId: "companion-isobel-brilliant-shield",
   skillType: "temper-skill-type/active",

@@ -9,7 +9,6 @@ export const allSharedStaggeringSwing = {
   icon: "/esoui/art/icons/ability_companion_2handed_001.dds",
   description:
     "Your Companion slams an enemy with an upward swing and sends them flying, dealing $1 Physical Damage, stunning them for $$2 seconds, and knocking them back 4 meters.",
-  companionId: "all",
   abilityId: 152433,
   skillLineId: "weapon-two-handed",
   skillType: "temper-skill-type/active",

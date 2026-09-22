@@ -9,7 +9,7 @@ export const sharpAsNightSharpChar = {
   icon: "/esoui/art/icons/ability_companion_warden_scorch.dds",
   description:
     "Your Companion unearths a group of fiery shalk that attack dealing $1 Magic Damage to enemies in front of them. After the shalk complete their attack, they burrow underground for 3 seconds and resurface again, dealing $2 Magic Damage to enemies in front of them.",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186486,
   skillLineId: "companion-sharp-as-night-beasts-of-the-hunt",
   skillType: "temper-skill-type/active",

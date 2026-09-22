@@ -9,7 +9,7 @@ export const emberEmberRagingStorm = {
   icon: "/esoui/art/icons/ability_companion_sorcerer_ragingstorm.dds",
   description:
     "Your Companion creates a thunderstorm that follows the target, striking all enemies within for $1 Shock Damage every 1 second for 8 seconds. The final strike deals 300% additional damage to enemies under 25% Health.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 164191,
   skillLineId: "companion-ember",
   skillType: "temper-skill-type/ultimate",

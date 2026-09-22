@@ -6,7 +6,6 @@ export const weaponOneHandShield = {
   slug: "weapon-one-hand-shield",
   key: "weapon-one-hand-shield",
   title: "One Hand and Shield",
-  companionId: "all",
   category: "weapon",
   displayOrder: 34,
 } as const satisfies TemperCompanionSkillLine

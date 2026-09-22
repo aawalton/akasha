@@ -8,7 +8,7 @@ export const emberEmberTrickstersTrap = {
   title: "Trickster's Trap",
   icon: "/esoui/art/icons/ability_companion_sorcerer_dark_fog.dds",
   description: "Your Companion dazzles an enemy in a ball of magic, stunning them for $$1 seconds.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 165865,
   skillLineId: "companion-ember-mischievous-caster",
   skillType: "temper-skill-type/active",

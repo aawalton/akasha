@@ -9,7 +9,7 @@ export const sharpAsNightSharpPetalsOfTheHunter = {
   icon: "/esoui/art/icons/ability_companion_warden_lotusflower.dds",
   description:
     "Your Companion calls on the essence of a carnivorous bloom, causing their Light Attacks to restore $1 Health to themselves or up to 2 nearby allies for $$1 seconds.",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186601,
   skillLineId: "companion-sharp-as-night-verdant-growth",
   skillType: "temper-skill-type/active",

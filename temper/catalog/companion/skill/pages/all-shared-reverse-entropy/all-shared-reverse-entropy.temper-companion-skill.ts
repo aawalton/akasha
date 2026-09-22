@@ -9,7 +9,6 @@ export const allSharedReverseEntropy = {
   icon: "/esoui/art/icons/ability_companion_mageguild_004.dds",
   description:
     "Your Companion envelops an ally with stabilizing magic, healing them for $1 Health over $$1 seconds.",
-  companionId: "all",
   abilityId: 155408,
   skillLineId: "guild-mages",
   skillType: "temper-skill-type/active",

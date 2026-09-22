@@ -9,7 +9,7 @@ export const isobelIsobelDivineDestruction = {
   icon: "/esoui/art/icons/ability_companion_templar_over_exposure.dds",
   description:
     "Your Companion unleashes a concentrated beam of divine energy at an enemy, dealing $1 Magic Damage over $$1 seconds.",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   abilityId: 163564,
   skillLineId: "companion-isobel-blazing-might",
   skillType: "temper-skill-type/active",

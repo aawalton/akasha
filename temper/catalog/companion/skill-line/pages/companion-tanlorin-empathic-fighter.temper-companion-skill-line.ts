@@ -6,7 +6,7 @@ export const companionTanlorinEmpathicFighter = {
   slug: "companion-tanlorin-empathic-fighter",
   key: "companion-tanlorin-empathic-fighter",
   title: "Empathic Fighter",
-  companionId: "tanlorin",
+  companionId: "temper-eso-companion/tanlorin",
   category: "class",
   displayOrder: 27,
 } as const satisfies TemperCompanionSkillLine

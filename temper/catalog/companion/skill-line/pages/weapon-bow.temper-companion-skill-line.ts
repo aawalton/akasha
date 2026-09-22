@@ -6,7 +6,6 @@ export const weaponBow = {
   slug: "weapon-bow",
   key: "weapon-bow",
   title: "Bow",
-  companionId: "all",
   category: "weapon",
   displayOrder: 36,
 } as const satisfies TemperCompanionSkillLine

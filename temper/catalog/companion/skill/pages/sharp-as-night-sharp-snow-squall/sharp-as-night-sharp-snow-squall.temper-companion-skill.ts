@@ -9,7 +9,7 @@ export const sharpAsNightSharpSnowSquall = {
   icon: "/esoui/art/icons/ability_companion_warden_arcticwind.dds",
   description:
     "Your Companion envelops themselves in winter winds, instantly healing for $1 Health and an additional $2 Health every 2 seconds over $$2 seconds. This ability scales off their Max Health.",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186605,
   skillLineId: "companion-sharp-as-night-winters-bite",
   skillType: "temper-skill-type/active",

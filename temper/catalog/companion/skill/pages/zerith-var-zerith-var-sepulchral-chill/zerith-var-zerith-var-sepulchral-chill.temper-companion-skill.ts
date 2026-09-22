@@ -9,7 +9,7 @@ export const zerithVarZerithVarSepulchralChill = {
   icon: "/esoui/art/icons/ability_companion_necromancer_boneyard.dds",
   description:
     "Your Companion sanctifies the ground at the target location, dealing $1 Frost Damage every 2 seconds over 8 seconds and applying Major Breach to enemies within, reducing their Spell and Physical Resistance by 5948 for $$2 seconds.",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   abilityId: 213158,
   skillLineId: "companion-zerith-var-warriors-banishment",
   skillType: "temper-skill-type/active",

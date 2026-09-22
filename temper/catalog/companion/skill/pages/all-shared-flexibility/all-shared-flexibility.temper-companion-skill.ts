@@ -9,7 +9,6 @@ export const allSharedFlexibility = {
   icon: "/esoui/art/icons/passive_companion_armor_medium.dds",
   description:
     "Increases damage done by 1% for each piece of Medium Armor equipped. Decreases Roll Dodge cooldown by 5% for each piece of Medium Armor equipped.",
-  companionId: "all",
   abilityId: 157729,
   skillLineId: "armor-medium",
   skillType: "temper-skill-type/passive",

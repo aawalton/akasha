@@ -9,7 +9,7 @@ export const emberEmberThunderousStrike = {
   icon: "/esoui/art/icons/ability_companion_sorcerer_mage_fury.dds",
   description:
     "Your Companion calls down an explosion of lightning to finish off an enemy, dealing $1 Shock Damage and an additional $2 Shock Damage to other nearby enemies.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 164291,
   skillLineId: "companion-ember-lightning-caller",
   skillType: "temper-skill-type/active",

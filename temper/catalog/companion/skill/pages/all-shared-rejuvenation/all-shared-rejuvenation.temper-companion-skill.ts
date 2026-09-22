@@ -9,7 +9,6 @@ export const allSharedRejuvenation = {
   icon: "/esoui/art/icons/ability_companion_restorationstaff_002.dds",
   description:
     "Your Companion shares their staff's life-giving energy, healing themselves and a nearby ally for $1 Health over $$1 seconds.",
-  companionId: "all",
   abilityId: 153066,
   skillLineId: "weapon-restoration-staff",
   skillType: "temper-skill-type/active",

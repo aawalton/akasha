@@ -9,7 +9,7 @@ export const mirriMirriBloodTransfusion = {
   icon: "/esoui/art/icons/ability_companion_nightblade_unique.dds",
   description:
     "Your Companion infuses an ally with blood, healing them for $1 Health over $$1 seconds.",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   abilityId: 157287,
   skillLineId: "companion-mirri-soul-thief",
   skillType: "temper-skill-type/active",

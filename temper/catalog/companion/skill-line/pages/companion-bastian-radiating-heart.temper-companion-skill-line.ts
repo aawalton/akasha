@@ -6,7 +6,7 @@ export const companionBastianRadiatingHeart = {
   slug: "companion-bastian-radiating-heart",
   key: "companion-bastian-radiating-heart",
   title: "Radiating Heart",
-  companionId: "bastian",
+  companionId: "temper-eso-companion/bastian",
   category: "class",
   displayOrder: 7,
 } as const satisfies TemperCompanionSkillLine

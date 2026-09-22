@@ -9,7 +9,6 @@ export const allSharedFlow = {
   icon: "/esoui/art/icons/passive_companion_armor_light.dds",
   description:
     "Increases healing done by 1% for each piece of Light Armor equipped. Decreases Break Free cooldown by 5% for each piece of Light Armor equipped.",
-  companionId: "all",
   abilityId: 157728,
   skillLineId: "armor-light",
   skillType: "temper-skill-type/passive",

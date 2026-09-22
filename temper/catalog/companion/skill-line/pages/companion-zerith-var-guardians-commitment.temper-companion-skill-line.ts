@@ -6,7 +6,7 @@ export const companionZerithVarGuardiansCommitment = {
   slug: "companion-zerith-var-guardians-commitment",
   key: "companion-zerith-var-guardians-commitment",
   title: "Guardian's Commitment",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   category: "class",
   displayOrder: 30,
 } as const satisfies TemperCompanionSkillLine

@@ -9,7 +9,7 @@ export const emberEmberEntomb = {
   icon: "/esoui/art/icons/ability_companion_sorcerer_cyclone.dds",
   description:
     "Your Companion uses binding magic to immobilize enemies in front of them for $$1 seconds and heal themselves for $1 Health over $$2 seconds.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 165871,
   skillLineId: "companion-ember-mischievous-caster",
   skillType: "temper-skill-type/active",

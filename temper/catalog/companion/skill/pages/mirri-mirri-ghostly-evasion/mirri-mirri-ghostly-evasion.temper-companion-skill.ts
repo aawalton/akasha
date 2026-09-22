@@ -9,7 +9,7 @@ export const mirriMirriGhostlyEvasion = {
   icon: "/esoui/art/icons/ability_companion_nightblade_009.dds",
   description:
     "Your Companion surrounds themselves in a phantasmic aura, dodging the next attack made against them while also reducing their damage taken by 20% for $$2 seconds.",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   abilityId: 157197,
   skillLineId: "companion-mirri-living-shade",
   skillType: "temper-skill-type/active",

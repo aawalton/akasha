@@ -9,7 +9,7 @@ export const zerithVarZerithVarPenanceOfLorkhaj = {
   icon: "/esoui/art/icons/ability_companion_zerith_renderflesh.dds",
   description:
     "Your Companion sacrifices their own power to repair damaged flesh, healing themselves or an ally in front of them for $1 Health but applying Minor Defile to themselves for 4 seconds, reducing their healing received and damage shield strength by 6%.",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   abilityId: 213160,
   skillLineId: "companion-zerith-var-remedy-of-atonement",
   skillType: "temper-skill-type/active",

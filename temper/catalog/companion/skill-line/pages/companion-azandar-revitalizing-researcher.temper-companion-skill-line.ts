@@ -6,7 +6,7 @@ export const companionAzandarRevitalizingResearcher = {
   slug: "companion-azandar-revitalizing-researcher",
   key: "companion-azandar-revitalizing-researcher",
   title: "Revitalizing Researcher",
-  companionId: "azandar",
+  companionId: "temper-eso-companion/azandar",
   category: "class",
   displayOrder: 23,
 } as const satisfies TemperCompanionSkillLine

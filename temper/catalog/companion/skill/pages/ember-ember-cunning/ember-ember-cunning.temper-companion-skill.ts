@@ -8,7 +8,7 @@ export const emberEmberCunning = {
   title: "Enchanted",
   icon: "/esoui/art/icons/ability_companion_sorcerer_enchanted.dds",
   description: "Increases Critical Chance by 3% and damage done by 3%.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 169465,
   skillLineId: "companion-ember",
   skillType: "temper-skill-type/passive",

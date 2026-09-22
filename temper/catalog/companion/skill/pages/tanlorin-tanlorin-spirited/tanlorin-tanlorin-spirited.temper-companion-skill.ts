@@ -8,7 +8,7 @@ export const tanlorinTanlorinSpirited = {
   title: "Spirited",
   icon: "/esoui/art/icons/ability_companion_tanlorin_passive.dds",
   description: "Decreases damage taken by 3% and increases damage done by 3%.",
-  companionId: "tanlorin",
+  companionId: "temper-eso-companion/tanlorin",
   abilityId: 214685,
   skillLineId: "companion-tanlorin",
   skillType: "temper-skill-type/passive",

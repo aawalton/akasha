@@ -8,7 +8,7 @@ export const bastianBastianTough = {
   title: "Tough",
   icon: "/esoui/art/icons/passive_companion_dragonknight_017.dds",
   description: "Increases Max Health by 3% and increases damage done by 3%.",
-  companionId: "bastian",
+  companionId: "temper-eso-companion/bastian",
   abilityId: 157245,
   skillLineId: "companion-bastian",
   skillType: "temper-skill-type/passive",

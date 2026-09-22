@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"companion-id.text-property.types.ts","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.types.ts"}
-{"propertySlug":"import","fileName":"companion-id.text-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"companion-id.relation-property.types.ts","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.types.ts"}
+{"propertySlug":"import","fileName":"companion-id.relation-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.ts","id":"01a05fcd-f54b-7497-b549-b7f8ef55b323"}
 {"propertySlug":"page-property","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"parts","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}

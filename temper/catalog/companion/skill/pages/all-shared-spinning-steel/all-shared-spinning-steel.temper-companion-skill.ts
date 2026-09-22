@@ -9,7 +9,6 @@ export const allSharedSpinningSteel = {
   icon: "/esoui/art/icons/ability_companion_dualwield_005.dds",
   description:
     "Your Companion launches themselves in a lethal spin, dealing $1 Physical Damage to nearby enemies. Deals triple damage to enemies below 25% Health.",
-  companionId: "all",
   abilityId: 152693,
   skillLineId: "weapon-dual-wield",
   skillType: "temper-skill-type/active",

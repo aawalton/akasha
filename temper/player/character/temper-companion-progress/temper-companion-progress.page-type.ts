@@ -8,7 +8,7 @@ export const temperCompanionProgress = {
   extends: ["page-type/temper-character-thing"],
   parts: ["multi-relation-property/companion-roles"],
   properties: [
-    { pageProperty: "text-property/companion-id", required: true, many: false },
+    { pageProperty: "relation-property/companion-id", required: true, many: false },
     { pageProperty: "text-property/account-page", required: true, many: false },
     {
       pageProperty: "multi-relation-property/companion-roles",

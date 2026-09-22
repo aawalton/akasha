@@ -9,7 +9,7 @@ export const tanlorinTanlorinInternalConflict = {
   icon: "/esoui/art/icons/ability_companion_tanlorin_internalconflict.dds",
   description:
     "Your Companion lays claim to an enemy's soul, dealing $1 Magic Damage to their target over $$1 seconds.",
-  companionId: "tanlorin",
+  companionId: "temper-eso-companion/tanlorin",
   abilityId: 214865,
   skillLineId: "companion-tanlorin-empathic-fighter",
   skillType: "temper-skill-type/active",

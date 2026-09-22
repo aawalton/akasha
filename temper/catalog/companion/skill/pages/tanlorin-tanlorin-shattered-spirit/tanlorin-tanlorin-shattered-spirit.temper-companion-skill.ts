@@ -9,7 +9,7 @@ export const tanlorinTanlorinShatteredSpirit = {
   icon: "/esoui/art/icons/ability_companion_tanlorin_shattersoul.dds",
   description:
     "Your Companion burns an enemy from the inside with soulfire, dealing $1 Magic Damage over $$1 seconds. Upon completion, the soulfire overflows and explodes from the enemy, dealing $2 Magic Damage to all enemies near them.",
-  companionId: "tanlorin",
+  companionId: "temper-eso-companion/tanlorin",
   abilityId: 215001,
   skillLineId: "companion-tanlorin-empathic-fighter",
   skillType: "temper-skill-type/active",

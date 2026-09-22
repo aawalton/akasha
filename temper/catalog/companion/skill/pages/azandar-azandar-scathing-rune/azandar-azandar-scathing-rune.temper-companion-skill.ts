@@ -9,7 +9,7 @@ export const azandarAzandarScathingRune = {
   icon: "/esoui/art/icons/ability_companion_arcanist_runicjab.dds",
   description:
     "Your Companion uses a runic technique to taunt their enemy to attack them for $$1 seconds, applying Minor Maim to them for $$2 seconds, reducing their damage done by 5%.",
-  companionId: "azandar",
+  companionId: "temper-eso-companion/azandar",
   abilityId: 193130,
   skillLineId: "companion-azandar-quill-knight",
   skillType: "temper-skill-type/active",

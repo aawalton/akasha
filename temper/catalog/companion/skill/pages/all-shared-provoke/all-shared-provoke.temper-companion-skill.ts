@@ -9,7 +9,6 @@ export const allSharedProvoke = {
   icon: "/esoui/art/icons/ability_companion_1handed_002.dds",
   description:
     "Your Companion thrusts their weapon with disciplined precision at an enemy, dealing $1 Physical Damage and taunting the enemy to attack them for $$2 seconds.",
-  companionId: "all",
   abilityId: 152625,
   skillLineId: "weapon-one-hand-shield",
   skillType: "temper-skill-type/active",

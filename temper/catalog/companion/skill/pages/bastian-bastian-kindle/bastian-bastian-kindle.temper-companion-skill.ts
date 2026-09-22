@@ -9,7 +9,7 @@ export const bastianBastianKindle = {
   icon: "/esoui/art/icons/ability_companion_dragonknight_002_b.dds",
   description:
     "Your Companion launches a searing fireball at themselves or an ally to cauterize their wounds, healing for $1 Health.",
-  companionId: "bastian",
+  companionId: "temper-eso-companion/bastian",
   abilityId: 154925,
   skillLineId: "companion-bastian-radiating-heart",
   skillType: "temper-skill-type/active",

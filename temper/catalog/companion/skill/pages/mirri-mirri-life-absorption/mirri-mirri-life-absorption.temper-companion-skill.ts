@@ -9,7 +9,7 @@ export const mirriMirriLifeAbsorption = {
   icon: "/esoui/art/icons/ability_companion_nightblade_012.dds",
   description:
     "Your Companion steals an enemy's life force, dealing $1 Magic Damage and healing themselves or an ally around them for $2 Health.",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   abilityId: 154790,
   skillLineId: "companion-mirri-soul-thief",
   skillType: "temper-skill-type/active",

@@ -9,7 +9,6 @@ export const allSharedSkeletalAegis = {
   icon: "/esoui/art/icons/ability_companion_undaunted_005.dds",
   description:
     "Your Companion surrounds themselves with a whirlwind of bones, granting a damage shield for 30% of their Max Health for $$1 seconds. While the damage shield holds, an ally near them can activate the Bone Aegis synergy, granting them a damage shield for 50% of their Max Health for $$2 seconds.",
-  companionId: "all",
   abilityId: 155693,
   skillLineId: "guild-undaunted",
   skillType: "temper-skill-type/active",

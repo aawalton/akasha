@@ -9,7 +9,6 @@ export const allSharedMysticFortress = {
   icon: "/esoui/art/icons/ability_companion_restorationstaff_001.dds",
   description:
     "Your Companion calls on their staff's strength to protect themselves or the lowest health ally around them, granting a damage shield that absorbs $1 damage over $$1 seconds.",
-  companionId: "all",
   abilityId: 153685,
   skillLineId: "weapon-restoration-staff",
   skillType: "temper-skill-type/active",

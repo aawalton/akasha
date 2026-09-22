@@ -9,7 +9,6 @@ export const allSharedArcaneNova = {
   icon: "/esoui/art/icons/ability_companion_destructionstaff_008.dds",
   description:
     "Your Companion releases a surge of magic to enemies around them, dealing $1 Magic Damage. Fire Nova applies the Burning status effect for $$2 seconds. Frost Nova applies the Chill status effect for $$3 seconds. Shock Nova applies the Concussion status effect for $$4 seconds.",
-  companionId: "all",
   abilityId: 157230,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/active",

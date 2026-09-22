@@ -9,7 +9,7 @@ export const isobelIsobelSolarWard = {
   icon: "/esoui/art/icons/ability_companion_templar_sun_shield.dds",
   description:
     "Your Companion summons the power of the sun to defend themselves from harm, reducing incoming damage by 20% and granting a damage shield that absorbs up to 12.5% of their Max Health for $$1 seconds.",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   abilityId: 163442,
   skillLineId: "companion-isobel-brilliant-shield",
   skillType: "temper-skill-type/active",

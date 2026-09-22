@@ -9,7 +9,6 @@ export const allSharedElementalBarricade = {
   icon: "/esoui/art/icons/ability_companion_destructionstaff_002.dds",
   description:
     "Your Companion slams their staff down to create an elemental wall in front of them, dealing $1 Magic Damage over $$1 seconds.",
-  companionId: "all",
   abilityId: 157140,
   skillLineId: "weapon-destruction-staff",
   skillType: "temper-skill-type/active",

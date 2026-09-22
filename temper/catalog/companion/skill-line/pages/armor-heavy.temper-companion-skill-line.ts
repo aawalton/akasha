@@ -6,7 +6,6 @@ export const armorHeavy = {
   slug: "armor-heavy",
   key: "armor-heavy",
   title: "Heavy Armor",
-  companionId: "all",
   category: "armor",
   displayOrder: 44,
 } as const satisfies TemperCompanionSkillLine

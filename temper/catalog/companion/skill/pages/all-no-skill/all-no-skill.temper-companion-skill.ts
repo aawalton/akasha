@@ -7,7 +7,6 @@ export const allNoSkill = {
   key: "no-skill",
   title: "No Skill",
   description: "No skill selected",
-  companionId: "all",
   abilityId: 0,
   skillLineId: "weapon-two-handed",
   skillType: "temper-skill-type/active",

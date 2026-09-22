@@ -9,7 +9,7 @@ export const azandarAzandarTriptychPhysic = {
   icon: "/esoui/art/icons/ability_companion_arcanist_runemend.dds",
   description:
     "Your Companion launches a trio of restorative runes at themselves or an ally, healing for $1 Health three times.",
-  companionId: "azandar",
+  companionId: "temper-eso-companion/azandar",
   abilityId: 192574,
   skillLineId: "companion-azandar-revitalizing-researcher",
   skillType: "temper-skill-type/active",

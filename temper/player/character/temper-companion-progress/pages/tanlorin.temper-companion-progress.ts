@@ -5,6 +5,6 @@ export const tanlorin = {
   type: "page-type/temper-companion-progress",
   slug: "tanlorin",
   title: "Tanlorin",
-  companionId: "tanlorin",
+  companionId: "temper-eso-companion/tanlorin",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
 } as const satisfies TemperCompanionProgress

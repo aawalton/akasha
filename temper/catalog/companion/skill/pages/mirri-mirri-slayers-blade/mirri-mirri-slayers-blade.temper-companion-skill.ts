@@ -9,7 +9,7 @@ export const mirriMirriSlayersBlade = {
   icon: "/esoui/art/icons/ability_companion_nightblade_017.dds",
   description:
     "Your Companion thrusts a magic blade with lethal precision to finish off an enemy, dealing $1 Magic Damage.",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   abilityId: 153855,
   skillLineId: "companion-mirri-deadly-assassin",
   skillType: "temper-skill-type/active",

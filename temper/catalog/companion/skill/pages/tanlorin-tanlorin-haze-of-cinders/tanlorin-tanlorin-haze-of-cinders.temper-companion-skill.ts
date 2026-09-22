@@ -9,7 +9,7 @@ export const tanlorinTanlorinHazeOfCinders = {
   icon: "/esoui/art/icons/ability_companion_dragonknight_hazeofcinders.dds",
   description:
     "Your Companion summons a scorching cloud of ash at the target location for $$1 seconds, reducing enemy Movement Speed by 70% and healing them and their allies for $1 Health every 2 seconds.",
-  companionId: "tanlorin",
+  companionId: "temper-eso-companion/tanlorin",
   abilityId: 214708,
   skillLineId: "companion-tanlorin-radiating-heart",
   skillType: "temper-skill-type/active",

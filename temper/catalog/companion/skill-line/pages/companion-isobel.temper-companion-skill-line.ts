@@ -6,7 +6,7 @@ export const companionIsobel = {
   slug: "companion-isobel",
   key: "companion-isobel",
   title: "Isobel",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   category: "class",
   displayOrder: 13,
 } as const satisfies TemperCompanionSkillLine

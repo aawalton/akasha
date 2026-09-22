@@ -6,7 +6,7 @@ export const companionZerithVarRemedyOfAtonement = {
   slug: "companion-zerith-var-remedy-of-atonement",
   key: "companion-zerith-var-remedy-of-atonement",
   title: "Remedy of Atonement",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   category: "class",
   displayOrder: 31,
 } as const satisfies TemperCompanionSkillLine

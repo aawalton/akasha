@@ -9,7 +9,7 @@ export const sharpAsNightSharpSleetmail = {
   icon: "/esoui/art/icons/ability_companion_warden_frostcloak.dds",
   description:
     "Your Companion conjures ice armor for themselves and nearby grouped allies. Your Companion reduces their Damage Taken by 20% for $$1 seconds. Allies gain Major Resolve, increasing Physical and Spell Resistance by 5948 for $$2 seconds.",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186603,
   skillLineId: "companion-sharp-as-night-winters-bite",
   skillType: "temper-skill-type/active",

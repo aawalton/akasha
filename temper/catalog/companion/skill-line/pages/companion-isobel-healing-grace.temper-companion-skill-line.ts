@@ -6,7 +6,7 @@ export const companionIsobelHealingGrace = {
   slug: "companion-isobel-healing-grace",
   key: "companion-isobel-healing-grace",
   title: "Healing Grace",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   category: "class",
   displayOrder: 16,
 } as const satisfies TemperCompanionSkillLine

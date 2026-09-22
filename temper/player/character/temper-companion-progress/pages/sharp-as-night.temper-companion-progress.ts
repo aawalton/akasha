@@ -5,6 +5,6 @@ export const sharpAsNight = {
   type: "page-type/temper-companion-progress",
   slug: "sharp-as-night",
   title: "Sharp-as-Night",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
 } as const satisfies TemperCompanionProgress

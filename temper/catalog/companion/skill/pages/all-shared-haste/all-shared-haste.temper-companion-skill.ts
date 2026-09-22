@@ -9,7 +9,6 @@ export const allSharedHaste = {
   icon: "/esoui/art/icons/ability_companion_armor_light.dds",
   description:
     "Your Companion focuses their magical energies inward, resetting the cooldown of all their other abilities.",
-  companionId: "all",
   abilityId: 156340,
   skillLineId: "armor-light",
   skillType: "temper-skill-type/active",

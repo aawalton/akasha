@@ -6,7 +6,7 @@ export const companionZerithVarWarriorsBanishment = {
   slug: "companion-zerith-var-warriors-banishment",
   key: "companion-zerith-var-warriors-banishment",
   title: "Warrior's Banishment",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   category: "class",
   displayOrder: 32,
 } as const satisfies TemperCompanionSkillLine

@@ -9,7 +9,7 @@ export const bastianBastianUnleashedRage = {
   icon: "/esoui/art/icons/ability_companion_ultimate_bastian_001.dds",
   description:
     "Your Companion builds up rage, then unleashes it in a devastating explosion around them. The explosion deals $1 Flame Damage to enemies and stuns them for $$2 seconds, while also releasing four lines of fire in a cross formation over 10 seconds that deal an additional $2 Flame Damage to any enemy they hit.",
-  companionId: "bastian",
+  companionId: "temper-eso-companion/bastian",
   abilityId: 157016,
   skillLineId: "companion-bastian",
   skillType: "temper-skill-type/ultimate",

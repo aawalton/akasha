@@ -9,7 +9,7 @@ export const isobelIsobelBlessedSacrament = {
   icon: "/esoui/art/icons/ability_companion_templar_rushed_ceremony.dds",
   description:
     "Your Companion sends out a burst of soothing light, healing themselves or a nearby ally for $1 Health, and an additional $2 every 2 seconds for $$2 seconds as the light momentarily lingers.",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   abilityId: 163614,
   skillLineId: "companion-isobel-healing-grace",
   skillType: "temper-skill-type/active",

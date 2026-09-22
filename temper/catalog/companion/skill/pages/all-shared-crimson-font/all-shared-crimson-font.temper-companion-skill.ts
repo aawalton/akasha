@@ -9,7 +9,6 @@ export const allSharedCrimsonFont = {
   icon: "/esoui/art/icons/ability_companion_undaunted_001.dds",
   description:
     "Your Companion conjures a fountain of blood to sustain themselves and allies around it, healing for $1 Health every 1 second for 16 seconds. Allies near the fountain can activate the Crimson Funnel synergy, healing for 50% of their Max Health.",
-  companionId: "all",
   abilityId: 155515,
   skillLineId: "guild-undaunted",
   skillType: "temper-skill-type/active",

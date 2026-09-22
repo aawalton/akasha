@@ -9,7 +9,7 @@ export const zerithVarZerithVarAtoningSpirit = {
   icon: "/esoui/art/icons/ability_companion_zerith_mendingspirit.dds",
   description:
     "Your Companion conjures a ghostly spirit of a fallen Khajiit to redeem its soul in service to Azurah for $$1 seconds. The spirit heals them or the lowest Health ally around them every 2 seconds restoring $1 Health.",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   abilityId: 222209,
   skillLineId: "companion-zerith-var-remedy-of-atonement",
   skillType: "temper-skill-type/active",

@@ -9,7 +9,6 @@ export const allSharedOnGuard = {
   icon: "/esoui/art/icons/ability_companion_1handed_004.dds",
   description:
     "Your Companion bolsters their defenses, granting a damage shield that absorbs up to 25% of their Max Health for $$1 seconds.",
-  companionId: "all",
   abilityId: 155328,
   skillLineId: "weapon-one-hand-shield",
   skillType: "temper-skill-type/active",

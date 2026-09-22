@@ -9,7 +9,7 @@ export const emberEmberCrystalBlast = {
   icon: "/esoui/art/icons/ability_companion_sorcerer_thunderclap.dds",
   description:
     "Your Companion conjures dark crystals to bombard an enemy, dealing $1 Magic Damage.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 164289,
   skillLineId: "companion-ember-lightning-caller",
   skillType: "temper-skill-type/active",

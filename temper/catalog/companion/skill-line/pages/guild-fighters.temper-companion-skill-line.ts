@@ -6,7 +6,6 @@ export const guildFighters = {
   slug: "guild-fighters",
   key: "guild-fighters",
   title: "Fighters Guild",
-  companionId: "all",
   category: "guild",
   displayOrder: 39,
 } as const satisfies TemperCompanionSkillLine

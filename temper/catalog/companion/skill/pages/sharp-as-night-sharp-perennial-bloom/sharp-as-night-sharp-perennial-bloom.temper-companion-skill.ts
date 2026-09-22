@@ -9,7 +9,7 @@ export const sharpAsNightSharpPerennialBloom = {
   icon: "/esoui/art/icons/ability_companion_warden_healingseed.dds",
   description:
     "Your Companion summons a field of blooming flowers, healing you and nearby allies for $1 Health every 2 seconds over $$1 seconds.",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186602,
   skillLineId: "companion-sharp-as-night-verdant-growth",
   skillType: "temper-skill-type/active",

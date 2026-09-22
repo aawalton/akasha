@@ -6,7 +6,7 @@ export const companionMirriLivingShade = {
   slug: "companion-mirri-living-shade",
   key: "companion-mirri-living-shade",
   title: "Living Shade",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   category: "class",
   displayOrder: 12,
 } as const satisfies TemperCompanionSkillLine

@@ -6,7 +6,6 @@ export const weaponDualWield = {
   slug: "weapon-dual-wield",
   key: "weapon-dual-wield",
   title: "Dual Wield",
-  companionId: "all",
   category: "weapon",
   displayOrder: 35,
 } as const satisfies TemperCompanionSkillLine

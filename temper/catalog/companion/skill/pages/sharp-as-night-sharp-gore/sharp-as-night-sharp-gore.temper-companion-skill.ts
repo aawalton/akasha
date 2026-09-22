@@ -9,7 +9,7 @@ export const sharpAsNightSharpGore = {
   icon: "/esoui/art/icons/ability_companion_warden_gore.dds",
   description:
     "Your Companion provokes a spectral kagouti to charge and toss the enemy for $1 Physical Damage, stunning them for $$2 seconds. This ability deals 150% more damage to enemies below 25% Health.",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   abilityId: 186488,
   skillLineId: "companion-sharp-as-night",
   skillType: "temper-skill-type/ultimate",

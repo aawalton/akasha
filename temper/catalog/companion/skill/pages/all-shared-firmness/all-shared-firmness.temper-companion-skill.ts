@@ -9,7 +9,6 @@ export const allSharedFirmness = {
   icon: "/esoui/art/icons/passive_companion_armor_heavy.dds",
   description:
     "Increases healing received by 1% for each piece of Heavy Armor equipped. Increases damage blocked by 1% for each piece of Heavy Armor equipped.",
-  companionId: "all",
   abilityId: 157730,
   skillLineId: "armor-heavy",
   skillType: "temper-skill-type/passive",

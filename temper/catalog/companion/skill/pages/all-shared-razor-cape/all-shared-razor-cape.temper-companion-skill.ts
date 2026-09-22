@@ -9,7 +9,6 @@ export const allSharedRazorCape = {
   icon: "/esoui/art/icons/ability_companion_dualwield_004.dds",
   description:
     "Your Companion envelops themselves in a ring of floating razors, dealing $1 Physical Damage to nearby enemies every 2 seconds for $$1 seconds. The razors also shield them from attacks, reducing their damage taken by 20%.",
-  companionId: "all",
   abilityId: 152696,
   skillLineId: "weapon-dual-wield",
   skillType: "temper-skill-type/active",

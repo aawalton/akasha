@@ -9,7 +9,7 @@ export const emberEmberSharedWards = {
   icon: "/esoui/art/icons/ability_companion_sorcerer_hurricane.dds",
   description:
     "Your Companion conjures wards made of energy for protection, granting a damage shield for them and their nearby allies that absorbs $1 damage for $$1 seconds. Targets affected by the shield are also healed for $2 Health over $$2 seconds.",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   abilityId: 166069,
   skillLineId: "companion-ember-playful-schemer",
   skillType: "temper-skill-type/active",

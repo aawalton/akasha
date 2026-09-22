@@ -9,7 +9,7 @@ export const mirriMirriTwilightMantle = {
   icon: "/esoui/art/icons/ability_companion_nightblade_004.dds",
   description:
     "Your Companion shrouds themselves in refreshing shadows, healing for 25% of their Max Health and becoming invisible for $$2 seconds.",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   abilityId: 157201,
   skillLineId: "companion-mirri-living-shade",
   skillType: "temper-skill-type/active",

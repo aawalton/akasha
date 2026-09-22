@@ -9,7 +9,7 @@ export const azandarAzandarFearOfTheUnknown = {
   icon: "/esoui/art/icons/ability_companion_arcanist_runeofeldritchhorror.dds",
   description:
     "Your Companion confronts an enemy with the unknowable truth of reality, applying Fear to them for $$1 seconds.",
-  companionId: "azandar",
+  companionId: "temper-eso-companion/azandar",
   abilityId: 194266,
   skillLineId: "companion-azandar-quill-knight",
   skillType: "temper-skill-type/active",

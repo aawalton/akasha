@@ -8,7 +8,7 @@ export const mirriMirriDynamic = {
   title: "Dynamic",
   icon: "/esoui/art/icons/passive_companion_weapon_023.dds",
   description: "Increases damage done by 3% and healing done by 3%.",
-  companionId: "mirri",
+  companionId: "temper-eso-companion/mirri",
   abilityId: 157250,
   skillLineId: "companion-mirri",
   skillType: "temper-skill-type/passive",

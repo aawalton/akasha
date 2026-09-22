@@ -6,7 +6,7 @@ export const companionSharpAsNightBeastsOfTheHunt = {
   slug: "companion-sharp-as-night-beasts-of-the-hunt",
   key: "companion-sharp-as-night-beasts-of-the-hunt",
   title: "Beasts of the Hunt",
-  companionId: "sharp-as-night",
+  companionId: "temper-eso-companion/sharp-as-night",
   category: "class",
   displayOrder: 18,
 } as const satisfies TemperCompanionSkillLine

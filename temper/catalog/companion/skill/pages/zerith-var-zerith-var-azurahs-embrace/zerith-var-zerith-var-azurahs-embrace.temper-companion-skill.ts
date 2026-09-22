@@ -9,7 +9,7 @@ export const zerithVarZerithVarAzurahsEmbrace = {
   icon: "/esoui/art/icons/ability_companion_necromancer_lifeamiddeath.dds",
   description:
     "Your Companion absolves the misdeeds of fallen souls at the target location, healing themselves and their allies for $1 Health and removing up to 3 negative effects.",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   abilityId: 213162,
   skillLineId: "companion-zerith-var-remedy-of-atonement",
   skillType: "temper-skill-type/active",

@@ -9,7 +9,7 @@ export const isobelIsobelHolyGround = {
   icon: "/esoui/art/icons/ability_companion_templar_cleansing_ritual.dds",
   description:
     "Your Companion consecrates the ground under them for $$1 seconds, healing themselves and nearby allies $1 Health every 2 seconds and snaring enemies by 50%.",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   abilityId: 163660,
   skillLineId: "companion-isobel-healing-grace",
   skillType: "temper-skill-type/active",

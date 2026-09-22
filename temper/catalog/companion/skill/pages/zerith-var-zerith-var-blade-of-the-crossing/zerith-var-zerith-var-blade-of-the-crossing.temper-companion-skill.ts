@@ -9,7 +9,7 @@ export const zerithVarZerithVarBladeOfTheCrossing = {
   icon: "/esoui/art/icons/ability_companion_zerith_mooncrescent.dds",
   description:
     "Your Companion calls upon the power of Azurah, swinging a blade of lunar light in front of them, dealing $1 Magic Damage. Enemies damaged by this ability have Minor Magickasteal applied for $$2 seconds, causing them and their allies to restore 168 Magicka to attackers every 1 second when damaging enemies.",
-  companionId: "zerith-var",
+  companionId: "temper-eso-companion/zerith-var",
   abilityId: 213169,
   skillLineId: "companion-zerith-var",
   skillType: "temper-skill-type/ultimate",

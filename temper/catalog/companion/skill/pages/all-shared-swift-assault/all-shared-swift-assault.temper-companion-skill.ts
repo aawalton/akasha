@@ -9,7 +9,6 @@ export const allSharedSwiftAssault = {
   icon: "/esoui/art/icons/ability_companion_dualwield_002.dds",
   description:
     "Your Companion floods an enemy with steel, battering them with five consecutive attacks that each deal $1 Physical Damage.",
-  companionId: "all",
   abilityId: 152629,
   skillLineId: "weapon-dual-wield",
   skillType: "temper-skill-type/active",

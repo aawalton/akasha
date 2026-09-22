@@ -9,7 +9,7 @@ export const isobelIsobelSunBrand = {
   icon: "/esoui/art/icons/ability_companion_templar_sun_fire.dds",
   description:
     "Your Companion hurls a blazing ball of fire at an enemy, dealing $1 Flame Damage on impact and an additional $2 Flame Damage over $$2 seconds.",
-  companionId: "isobel",
+  companionId: "temper-eso-companion/isobel",
   abilityId: 163452,
   skillLineId: "companion-isobel-blazing-might",
   skillType: "temper-skill-type/active",

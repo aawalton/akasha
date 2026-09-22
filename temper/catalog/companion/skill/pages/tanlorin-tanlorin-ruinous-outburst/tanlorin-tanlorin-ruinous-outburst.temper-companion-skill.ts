@@ -9,7 +9,7 @@ export const tanlorinTanlorinRuinousOutburst = {
   icon: "/esoui/art/icons/ability_companion_tanlorin_wavesofpower.dds",
   description:
     "Your Companion swipes each hand, sending a massive wave of power to crash into enemies in front of them, dealing $1 Magic Damage followed by a second wave after 0.5 seconds dealing $2 Magic Damage. Enemies hit are knocked back and stunned for $$4 seconds.",
-  companionId: "tanlorin",
+  companionId: "temper-eso-companion/tanlorin",
   abilityId: 215215,
   skillLineId: "companion-tanlorin",
   skillType: "temper-skill-type/ultimate",

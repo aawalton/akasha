@@ -6,7 +6,7 @@ export const companionEmberPlayfulSchemer = {
   slug: "companion-ember-playful-schemer",
   key: "companion-ember-playful-schemer",
   title: "Playful Schemer",
-  companionId: "ember",
+  companionId: "temper-eso-companion/ember",
   category: "class",
   displayOrder: 4,
 } as const satisfies TemperCompanionSkillLine

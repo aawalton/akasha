@@ -9,7 +9,6 @@ export const allSharedVanish = {
   icon: "/esoui/art/icons/ability_companion_armor_medium.dds",
   description:
     "Your Companion disappears in a puff of smoke, healing to full Health and becoming invisible for $$2 seconds.",
-  companionId: "all",
   abilityId: 156596,
   skillLineId: "armor-medium",
   skillType: "temper-skill-type/active",

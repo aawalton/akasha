@@ -9,7 +9,7 @@ export const bastianBastianFieryFlail = {
   icon: "/esoui/art/icons/ability_companion_dragonknight_001.dds",
   description:
     "Your Companion lashes an enemy with flame, dealing $1 Flame Damage and setting them Off Balance for $$2 seconds.",
-  companionId: "bastian",
+  companionId: "temper-eso-companion/bastian",
   abilityId: 153687,
   skillLineId: "companion-bastian-ardent-warrior",
   skillType: "temper-skill-type/active",
