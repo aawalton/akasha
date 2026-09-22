@@ -29,7 +29,16 @@ function driverPathIn(root: string): string {
   return join(root, at)
 }
 
-const DEFAULT_BIN_PATH = "lua5.1"
+const BIN_CANDIDATES: readonly string[] = ["lua5.1", "luajit", "lua"]
+
+function firstBinOnPath(): string {
+  for (const candidate of BIN_CANDIDATES) {
+    if (Bun.which(candidate) !== null) return candidate
+  }
+  throw new Error(
+    `lua-runner: none of ${BIN_CANDIDATES.join(", ")} is on the path, so no Lua subprocess would come up`
+  )
+}
 
 const DEFAULT_HANDSHAKE_RETRIES = 2
 
@@ -141,7 +150,7 @@ async function tryStartVm(args: StartArgs): Promise<PersistentVm> {
         return payload
       }
       const { value, done } = await stdoutReader.read()
-      if (done) throw new Error("lua5.1 subprocess closed stdout before answering")
+      if (done) throw new Error("the Lua subprocess closed stdout before answering")
       buffer += decoder.decode(value, { stream: true })
     }
   }
@@ -245,7 +254,7 @@ async function tryStartVm(args: StartArgs): Promise<PersistentVm> {
 export async function spawnPersistentVm(
   options: SpawnPersistentVmOptions = {}
 ): Promise<PersistentVm> {
-  const binPath = options.binPath ?? DEFAULT_BIN_PATH
+  const binPath = options.binPath ?? firstBinOnPath()
   const driverPath = options.driverPath ?? driverPathIn(akashaRoot())
   const maxRetries = options.handshakeRetries ?? DEFAULT_HANDSHAKE_RETRIES
   const timeoutMs = options.handshakeTimeoutMs ?? DEFAULT_HANDSHAKE_TIMEOUT_MS

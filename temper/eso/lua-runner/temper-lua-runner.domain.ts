@@ -18,8 +18,11 @@ export const temperLuaRunner = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement:
-        "The interpreter is the `lua5.1` binary on the path rather than a binary bundled here.",
+      statement: "The interpreter is a binary on the path rather than a binary bundled here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The first of `lua5.1`, `luajit` and `lua` on the path is the interpreter.",
     },
     {
       decisionKind: "decision-kind/departure",
