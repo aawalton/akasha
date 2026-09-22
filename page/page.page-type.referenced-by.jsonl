@@ -107,6 +107,7 @@
 {"propertySlug":"extends-type","path":"story/game/mechanic-run/game-mechanic-run.page-type.ts","id":"01a0c951-6739-72ed-a7e2-63f36a4d5cbe"}
 {"propertySlug":"extends-type","path":"story/game/quest/game-quest.page-type.ts","id":"01a0c6ab-e5a8-7bc3-a0c8-83d4a81beda0"}
 {"propertySlug":"extends-type","path":"story/game/turn/game-turn.page-type.ts","id":"01a0c67d-107c-7e63-8791-38c9b6c7128d"}
+{"propertySlug":"extends-type","path":"story/mechanic/resource/resource.page-type.ts","id":"01a0c9d2-5f3d-7dd9-b045-d1b69e79a27a"}
 {"propertySlug":"extends-type","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
 {"propertySlug":"extends-type","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"extends-type","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
@@ -253,6 +254,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/mechanic-run/game-mechanic-run.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/quest/game-quest.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/turn/game-turn.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/mechanic/resource/resource.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/characters/world-character.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/decisions/story-decision.page-type.types.ts"}

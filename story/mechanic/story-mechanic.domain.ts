@@ -5,4 +5,5 @@ export const storyMechanic = {
   type: "page-type/domain",
   slug: "story-mechanic",
   definition: "the pieces a game's rules are built from",
+  parts: ["page-type/resource"],
 } as const satisfies Domain

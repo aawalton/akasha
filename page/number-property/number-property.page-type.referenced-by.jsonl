@@ -293,6 +293,9 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/turn/properties/pool-most.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/turn/properties/pool-now.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/turn/properties/turn-number.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/resource/properties/resource-max-value.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/resource/properties/resource-min-value.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/resource/properties/resource-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/builds/properties/build-level.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/characters/properties/appearance-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/characters/properties/event-count.number-property.ts"}
