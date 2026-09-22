@@ -1,9 +1,9 @@
 import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
 
-export const blankCheckAtNightAndAffordabilityByDay = {
+export const howWeSplitTheDayAndTheNight = {
   id: "01a0c5e9-165b-7063-a1a9-f1b81eb4939c",
   type: "page-type/all-about-alan-topic",
-  slug: "blank-check-at-night-and-affordability-by-day",
+  slug: "how-we-split-the-day-and-the-night",
   title: "Blank Check At Night And Affordability By Day",
   definition: "one policy per window in the marriage, split by where the value is",
   parents: [

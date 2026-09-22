@@ -8,7 +8,7 @@ export const theFloorInsideTheBlankCheck = {
   definition: "what the rule against spending myself becomes during the hours I write the check",
   parents: ["all-about-alan-topic/the-rule-that-i-may-not-spend-myself"],
   related: [
-    "all-about-alan-topic/blank-check-at-night-and-affordability-by-day",
+    "all-about-alan-topic/how-we-split-the-day-and-the-night",
     "all-about-alan-topic/what-guards-the-blank-check",
   ],
   settled:
