@@ -122,7 +122,6 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.decision.test-fixtures.ts"}

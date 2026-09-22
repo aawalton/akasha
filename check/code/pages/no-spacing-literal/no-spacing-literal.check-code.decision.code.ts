@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -38,22 +39,22 @@ export function swiftNamed(path: string): boolean {
   return path.endsWith(SWIFT_ENDING)
 }
 
-function swiftAt(shadow: Shadow, pageTypeSlug: string, slug: string): string {
-  const named = shadow.index.listedAt(pageTypeSlug, slug)[0]
+function swiftAt(paged: Paged, pageTypeSlug: string, slug: string): string {
+  const named = paged.index.listedAt(pageTypeSlug, slug)[0]
   if (named === undefined) {
     throw new Error(`the index files no \`${pageTypeSlug}/${slug}\`, so its Swift is unreachable`)
   }
-  const value = shadow.index.pageByPath(named.path)
+  const value = paged.index.pageByPath(named.path)
   const held = value === null ? null : textAt(value, SWIFT)
   const beside = held === null ? null : besideAt(named.path, SWIFT, held)
   if (beside === null) throw new Error(`${named.path} states no Swift file beside it`)
   return beside
 }
 
-export function passingIn(shadow: Shadow): Passing {
+export function passingIn(paged: Paged): Passing {
   return {
     granted: new Map(
-      GRANTS.map((one) => [swiftAt(shadow, one.pageTypeSlug, one.slug), new Set(one.values)])
+      GRANTS.map((one) => [swiftAt(paged, one.pageTypeSlug, one.slug), new Set(one.values)])
     ),
   }
 }
