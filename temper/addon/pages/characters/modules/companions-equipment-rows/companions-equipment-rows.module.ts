@@ -4,7 +4,7 @@ export const companionsEquipmentRows = {
   id: "01a0611d-84d8-7602-83da-54ad2d53b4dd",
   type: "page-type/module",
   slug: "companions-equipment-rows",
-  definition: "the controls one gear section of the equipment panel is drawn from",
+  definition: "the controls a gear section of the equipment panel is drawn from",
   code: "ts",
   decisions: [
     {

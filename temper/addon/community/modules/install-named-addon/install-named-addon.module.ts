@@ -4,7 +4,7 @@ export const installNamedAddon = {
   id: "01a06069-b790-7f2c-a237-0a215f888c46",
   type: "page-type/module",
   slug: "install-named-addon",
-  definition: "one addon named by hand, looked up on ESOUI and laid into the addons directory",
+  definition: "an addon named by hand, looked up on ESOUI and laid into the addons directory",
   code: "ts",
   decisions: [
     {

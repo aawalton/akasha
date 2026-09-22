@@ -5,7 +5,7 @@ export const inventoryItemData = {
   type: "page-type/module",
   slug: "inventory-item-data",
   definition:
-    "reading one slot into the saved item shape, with its price source, lock state and junk state",
+    "reading a slot into the saved item shape, with its price source, lock state and junk state",
   code: "ts",
   decisions: [
     {

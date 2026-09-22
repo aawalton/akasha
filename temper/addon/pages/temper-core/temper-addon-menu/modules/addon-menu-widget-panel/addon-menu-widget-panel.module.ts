@@ -4,7 +4,7 @@ export const addonMenuWidgetPanel = {
   id: "01a06100-0000-7000-8000-000000000025",
   type: "page-type/module",
   slug: "addon-menu-widget-panel",
-  definition: "the scrolling page of one addon's settings, headed by its name and author",
+  definition: "the scrolling page of an addon's settings, headed by its name and author",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const charactersTaskProgressResolver = {
   id: "01a062ee-f0bd-7071-8b01-5c61376d23f5",
   type: "page-type/module",
   slug: "characters-task-progress-resolver",
-  definition: "how far one task has got, worked out from the completion card that task names",
+  definition: "how far a task has got, worked out from the completion card that task names",
   code: "ts",
   decisions: [
     {

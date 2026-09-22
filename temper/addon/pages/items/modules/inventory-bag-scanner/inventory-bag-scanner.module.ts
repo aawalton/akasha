@@ -5,6 +5,6 @@ export const inventoryBagScanner = {
   type: "page-type/module",
   slug: "inventory-bag-scanner",
   definition:
-    "reading every slot of one bag, whether it is a real bag, the craft bag, or an iterated one",
+    "reading every slot of a bag, whether it is a real bag, the craft bag, or an iterated one",
   code: "ts",
 } as const satisfies Module
