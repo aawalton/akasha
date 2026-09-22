@@ -8,12 +8,10 @@ import type { ValidRoles } from "akasha/temper/catalog/companion/skill/propertie
 import type { TemperCompanionThing } from "akasha/temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts"
 import type { SkillLineId } from "akasha/temper/catalog/thing/properties/skill-line-id.text-property.types.ts"
 import type { SkillType } from "akasha/temper/catalog/thing/properties/skill-type.relation-property.types.ts"
-import type { CompanionId } from "akasha/temper/thing/properties/companion-id.text-property.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 
 export type TemperCompanionSkill = TemperCompanionThing & {
   key: Key
-  companionId: CompanionId
   abilityId: AbilityId
   skillLineId: SkillLineId
   skillType: SkillType

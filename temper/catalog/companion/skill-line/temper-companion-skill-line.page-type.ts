@@ -8,7 +8,6 @@ export const temperCompanionSkillLine = {
   extends: ["page-type/temper-companion-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
-    { pageProperty: "text-property/companion-id", required: true, many: false },
     { pageProperty: "text-property/category", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
