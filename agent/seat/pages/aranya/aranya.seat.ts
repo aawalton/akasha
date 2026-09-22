@@ -11,4 +11,5 @@ export const aranya = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "980d34cf-08f2-479b-bc83-c3b1a336f513",
 } as const satisfies Seat
