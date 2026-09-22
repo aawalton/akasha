@@ -5,5 +5,8 @@ export const choose = {
   type: "page-type/common-language-term",
   slug: "choose",
   definition: "settling which one it is, as somebody takes the one they want",
-  spellings: [{ partOfSpeech: "part-of-speech/past-participle", spelling: "chosen" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "chosen" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "chooses" },
+  ],
 } as const satisfies CommonLanguageTerm
