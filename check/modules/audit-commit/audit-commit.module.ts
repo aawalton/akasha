@@ -38,11 +38,17 @@ export const auditCommit = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here says which files a check judges.",
+      statement:
+        "A check says which of a commit's files that check judges, and this reads the rest.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges anything.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A rule is handed in here, and a refusal it gives back names the path it was read at.",
     },
   ],
 } as const satisfies Module

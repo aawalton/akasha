@@ -1,3 +1,8 @@
+import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import {
+  classifyExtension,
+  typeScripted,
+} from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { sortedOnce } from "akasha/code/type/narrowing/modules/sorted-once/sorted-once.module.code.ts"
 import {
@@ -48,6 +53,36 @@ export function filesIn(root: string): readonly string[] {
   }
   const found = done.out.split(APART).filter((one) => one !== "")
   return sortedOnce(found).filter((one) => !underIndex(one))
+}
+
+export type Taking = (path: string) => boolean
+
+export type Saying = (path: string, text: string) => readonly string[]
+
+const BODIED: ReadonlySet<string> = new Set(["ts", "tsx", "css"])
+
+export function bodied(path: string): boolean {
+  const kind = classifyExtension(path)
+  return kind !== null && BODIED.has(kind)
+}
+
+export function overEachIn(commit: Commit, taking: Taking, saying: Saying): readonly Judged[] {
+  const said: Judged[] = []
+  for (const path of commit.paths) {
+    if (!taking(path)) continue
+    const text = commit.read(path)
+    if (text === null) continue
+    for (const reason of saying(path, text)) said.push({ path, reason })
+  }
+  return said
+}
+
+export function overEachText(commit: Commit, saying: Saying): readonly Judged[] {
+  return overEachIn(commit, typeScripted, saying)
+}
+
+export function overEachBody(commit: Commit, saying: Saying): readonly Judged[] {
+  return overEachIn(commit, bodied, saying)
 }
 
 export function commitIn(root: string): Commit {

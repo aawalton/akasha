@@ -1,7 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { commitIn, filesIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
+import {
+  bodied,
+  commitIn,
+  filesIn,
+  overEachIn,
+  overEachText,
+} from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 const SCRATCH = mkdtempSync("/var/tmp/audit-commit-")
@@ -52,4 +58,31 @@ test("a path holding no page is read as no page, and read once", () => {
   const commit = commitIn(root)
   expect(commit.pageOf("one.txt")).toBe(null)
   expect(commit.pageOf("one.txt")).toBe(null)
+})
+
+test("a rule handed in is asked of each file the check takes", () => {
+  const root = indexed("each", { "one.ts": "one\n", "two.md": "two\n" })
+  const commit = commitIn(root)
+  expect(overEachText(commit, (path, text) => [`${path} says ${text.trim()}`])).toEqual([
+    { path: "one.ts", reason: "one.ts says one" },
+  ])
+})
+
+test("a body is read from TypeScript and from styles, and from nothing else", () => {
+  expect(bodied("one.ts")).toBe(true)
+  expect(bodied("one.tsx")).toBe(true)
+  expect(bodied("one.css")).toBe(true)
+  expect(bodied("one.md")).toBe(false)
+})
+
+test("a check saying it takes nothing is asked about nothing", () => {
+  const root = indexed("takes-nothing", { "one.ts": "one\n" })
+  const commit = commitIn(root)
+  expect(
+    overEachIn(
+      commit,
+      () => false,
+      (path) => [path]
+    )
+  ).toEqual([])
 })
