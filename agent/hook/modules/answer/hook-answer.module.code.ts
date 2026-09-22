@@ -170,6 +170,14 @@ export function judgingCommandHook(
   return judgingHook(hook, "command", at, judging)
 }
 
+export async function ranAsJudgedOnly(hook: string, judged: Judging): Promise<number> {
+  const raw = await Bun.stdin.text()
+  if (raw.trim() === "") return ASIDE
+  const payload = payloadIn(raw)
+  if (payload === null) return said(unreadable(hook, "the hook payload would not read"))
+  return said(await judged(payload))
+}
+
 export async function ranAsJudged(
   hook: string,
   scope: readonly string[],

@@ -9,8 +9,7 @@ import {
   type Answer,
   refusing as blocking,
   LET_THROUGH,
-  payloadIn,
-  unreadable,
+  ranAsJudgedOnly,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
 import {
@@ -479,23 +478,8 @@ export function judgedFor(payload: Record<string, unknown>): Answer {
   return said === null ? LET_THROUGH : blocking(said)
 }
 
-async function main(): Promise<number> {
-  const raw = await Bun.stdin.text()
-  if (raw.trim() === "") return 0
-  const payload = payloadIn(raw)
-  if (payload === null) {
-    const unread = unreadable(HOOK_NAME, "the hook payload would not read")
-    process.stderr.write(`${unread.err}\n`)
-    return unread.code
-  }
-  const answer = judgedFor(payload)
-  if (answer.err !== "") process.stderr.write(`${answer.err}\n`)
-  if (answer.out !== "") process.stdout.write(`${answer.out}\n`)
-  return answer.code
-}
-
 async function ran(): Promise<number> {
-  return await main()
+  return await ranAsJudgedOnly(HOOK_NAME, judgedFor)
 }
 
 if (import.meta.main) process.exit(await ran())
