@@ -5,7 +5,7 @@ export const proxy = {
   type: "page-type/record-property",
   slug: "proxy",
   propertySlug: "proxy",
-  definition: "the proxy a seat reaches its model through",
+  definition: "the proxy between a seat and its model",
   properties: [
     { pageProperty: "process-property/proxy-process", required: true, many: false },
     { pageProperty: "number-property/proxy-port", required: true, many: false },

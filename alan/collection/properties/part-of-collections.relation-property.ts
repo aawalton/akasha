@@ -5,7 +5,7 @@ export const partOfCollections = {
   type: "page-type/relation-property",
   slug: "part-of-collections",
   propertySlug: "part-of-collections",
-  definition: "the collections a collection is part of",
+  definition: "a collection's parent collections",
   targetPageType: "page-type/collection",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const cases = {
   type: "page-type/page-property-entry",
   slug: "cases",
   propertySlug: "cases",
-  definition: "the labelled texts a prompt is judged by",
+  definition: "the labelled texts saying whether a prompt works",
   quoted: true,
   properties: [
     { pageProperty: "text-property/case-page", required: true, many: false },

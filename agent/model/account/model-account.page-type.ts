@@ -4,7 +4,7 @@ export const modelAccount = {
   id: "01a054d8-1d38-788f-a073-7cf3603acd3f",
   type: "page-type/page-type",
   slug: "model-account",
-  definition: "an account a provider serves calls on",
+  definition: "an account whose calls a provider serves",
   extends: ["page-type/page"],
   parts: [
     "computed-property-module/five-hour-reset",

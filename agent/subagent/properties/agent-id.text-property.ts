@@ -5,7 +5,7 @@ export const agentId = {
   type: "page-type/text-property",
   slug: "agent-id",
   propertySlug: "agent-id",
-  definition: "the id an agent acts under",
+  definition: "an agent's id",
   maxLength: 100,
   nameFormat: null,
   decisions: [

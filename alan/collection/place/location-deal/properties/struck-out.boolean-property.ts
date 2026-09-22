@@ -5,6 +5,6 @@ export const struckOut = {
   type: "page-type/boolean-property",
   slug: "struck-out",
   propertySlug: "struck-out",
-  definition: "whether the offer is done with",
+  definition: "whether the offer is finished",
   types: "ts",
 } as const satisfies BooleanProperty

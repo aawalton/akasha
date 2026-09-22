@@ -5,7 +5,7 @@ export const externalLink = {
   type: "page-type/url-property",
   slug: "external-link",
   propertySlug: "external-link",
-  definition: "the page at the source a collection was read from",
+  definition: "the page at a collection's source",
   maxLength: 200,
   types: "ts",
 } as const satisfies UrlProperty

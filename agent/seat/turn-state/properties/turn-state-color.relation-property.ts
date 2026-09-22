@@ -5,7 +5,7 @@ export const turnStateColor = {
   type: "page-type/relation-property",
   slug: "turn-state-color",
   propertySlug: "color",
-  definition: "the color a seat in this turn state is drawn in",
+  definition: "the color drawing a seat in this turn state",
   targetPageType: "page-type/color",
   decisions: [
     {

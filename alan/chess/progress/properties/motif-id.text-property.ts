@@ -5,7 +5,7 @@ export const motifId = {
   type: "page-type/text-property",
   slug: "motif-id",
   propertySlug: "motif-id",
-  definition: "the Lichess theme a motif is named by",
+  definition: "a motif's Lichess theme",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

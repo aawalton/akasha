@@ -4,7 +4,7 @@ export const supervisorRemoteControlEnv = {
   id: "01a06876-abda-700a-9970-c937e1deae9a",
   type: "page-type/module",
   slug: "supervisor-remote-control-env",
-  definition: "the environment a remote-controlled agent is spawned with",
+  definition: "a remote-controlled agent's spawn environment",
   code: "ts",
   decisions: [
     {

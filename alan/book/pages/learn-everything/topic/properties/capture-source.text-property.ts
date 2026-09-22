@@ -5,7 +5,7 @@ export const captureSource = {
   type: "page-type/text-property",
   slug: "capture-source",
   propertySlug: "capture-source",
-  definition: "the transcript a topic's score was read out of",
+  definition: "the transcript holding a topic's score",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
