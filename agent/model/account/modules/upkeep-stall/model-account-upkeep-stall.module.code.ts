@@ -14,6 +14,8 @@ const ACCESS_TOKEN_EXPIRES_AT = "accessTokenExpiresAt"
 
 const USAGE_READ_AT = "usageReadAt"
 
+const SUBSCRIPTION_DISABLED_REASON = "subscriptionDisabledReason"
+
 const NOTHING_BESIDE = "nothing sits beside its page, or nothing that parsed"
 
 const MS_AN_HOUR = 60 * 60 * 1000
@@ -31,6 +33,7 @@ export const USAGE_CEILING_MS = PERIODS_OF_USAGE_SLACK * UPKEEP_PERIOD_MS
 
 export type StallVerdict =
   | "current"
+  | "withdrawn"
   | "expired"
   | "expiry-behind"
   | "usage-behind"
@@ -54,6 +57,7 @@ export type UpkeepStall = {
   readonly judged: number
   readonly current: number
   readonly stalled: readonly string[]
+  readonly withdrawn: readonly string[]
   readonly unread: readonly string[]
   readonly entries: readonly StallEntry[]
 }
@@ -82,6 +86,15 @@ export function judgeAccount(reading: AccountReading, nowMs: number): StallEntry
   if (reading.why !== null) return { slug, verdict: "unread", detail: reading.why }
   if (reading.beside === null) {
     return { slug, verdict: "unread", detail: "nothing was held to look at" }
+  }
+
+  const withdrawn = reading.beside[SUBSCRIPTION_DISABLED_REASON]
+  if (typeof withdrawn === "string" && withdrawn.trim() !== "") {
+    return {
+      slug,
+      verdict: "withdrawn",
+      detail: `its subscription is withdrawn, so upkeep passes it over — ${withdrawn}`,
+    }
   }
 
   const expiry = stampAt(reading.beside, ACCESS_TOKEN_EXPIRES_AT)
@@ -148,14 +161,15 @@ export function judgeAccount(reading: AccountReading, nowMs: number): StallEntry
 export function stallAcross(readings: readonly AccountReading[], nowMs: number): UpkeepStall {
   const entries = readings.map((one) => judgeAccount(one, nowMs))
   const unread = entries.filter((one) => one.verdict === "unread").map((one) => one.slug)
-  const stalled = entries
-    .filter((one) => one.verdict !== "current" && one.verdict !== "unread")
-    .map((one) => one.slug)
+  const withdrawn = entries.filter((one) => one.verdict === "withdrawn").map((one) => one.slug)
+  const passedOver: readonly StallVerdict[] = ["current", "withdrawn", "unread"]
+  const stalled = entries.filter((one) => !passedOver.includes(one.verdict)).map((one) => one.slug)
   return {
     pages: readings.length,
-    judged: entries.length - unread.length,
+    judged: entries.length - unread.length - withdrawn.length,
     current: entries.filter((one) => one.verdict === "current").length,
     stalled,
+    withdrawn,
     unread,
     entries,
   }
@@ -165,7 +179,8 @@ export function stallLines(stall: UpkeepStall): readonly string[] {
   const lines = stall.entries.map((one) => `${one.slug}: ${one.verdict} — ${one.detail}`)
   lines.push(
     `${stall.current} of ${stall.pages} account page(s) current; ` +
-      `${stall.stalled.length} behind upkeep, ${stall.unread.length} could not be looked at`
+      `${stall.stalled.length} behind upkeep, ${stall.withdrawn.length} withdrawn, ` +
+      `${stall.unread.length} could not be looked at`
   )
   return lines
 }

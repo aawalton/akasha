@@ -108,6 +108,35 @@ describe("judgeAccount", () => {
     )
   })
 
+  test("an account whose subscription is withdrawn is withdrawn rather than behind", () => {
+    const one = judgeAccount(
+      reading({ ...stamps(5 * AN_HOUR, 9 * AN_HOUR), subscriptionDisabledReason: "cancelled" }),
+      NOW
+    )
+    expect(one.verdict).toBe("withdrawn")
+    expect(one.detail).toBe("its subscription is withdrawn, so upkeep passes it over — cancelled")
+  })
+
+  test("a withdrawn account with an expired token is still withdrawn", () => {
+    const one = judgeAccount(
+      reading({ ...stamps(-AN_HOUR, 9 * AN_HOUR), subscriptionDisabledReason: "cancelled" }),
+      NOW
+    )
+    expect(one.verdict).toBe("withdrawn")
+  })
+
+  test("a reason sitting beside as anything but words leaves the account judged on its stamps", () => {
+    const besides: readonly Value[] = [
+      { ...stamps(5 * AN_HOUR, AN_HOUR), subscriptionDisabledReason: null },
+      { ...stamps(5 * AN_HOUR, AN_HOUR), subscriptionDisabledReason: "" },
+      { ...stamps(5 * AN_HOUR, AN_HOUR), subscriptionDisabledReason: "  " },
+      { ...stamps(5 * AN_HOUR, AN_HOUR), subscriptionDisabledReason: 1 },
+    ]
+    for (const beside of besides) {
+      expect(judgeAccount(reading(beside), NOW).verdict).toBe("current")
+    }
+  })
+
   test("an account holding neither stamp has never been reached", () => {
     const one = judgeAccount(reading({}), NOW)
     expect(one.verdict).toBe("never-reached")
@@ -194,6 +223,11 @@ describe("stallAcross", () => {
     { slug: "expired-one", beside: stamps(-AN_HOUR, AN_HOUR), why: null },
     { slug: "never-one", beside: {}, why: null },
     { slug: "unread-one", beside: null, why: "nothing to look at" },
+    {
+      slug: "withdrawn-one",
+      beside: { ...stamps(5 * AN_HOUR, 9 * AN_HOUR), subscriptionDisabledReason: "cancelled" },
+      why: null,
+    },
   ]
 
   test("every reading handed in is judged, in the order it was handed in", () => {
@@ -203,17 +237,19 @@ describe("stallAcross", () => {
       "expired-one",
       "never-one",
       "unread-one",
+      "withdrawn-one",
     ])
     expect(stall.entries.map((one) => one.verdict)).toEqual([
       "current",
       "expired",
       "never-reached",
       "unread",
+      "withdrawn",
     ])
   })
 
   test("the pages counted are the readings handed in", () => {
-    expect(stallAcross(readings, NOW).pages).toBe(4)
+    expect(stallAcross(readings, NOW).pages).toBe(5)
   })
 
   test("an account that reads as unread is counted out of the accounts judged", () => {
@@ -228,6 +264,16 @@ describe("stallAcross", () => {
     expect(stall.current).toBe(1)
   })
 
+  test("a withdrawn account is named among neither the stalled nor the current", () => {
+    const stall = stallAcross(readings, NOW)
+    expect(stall.withdrawn).toEqual(["withdrawn-one"])
+    expect(stall.stalled).not.toContain("withdrawn-one")
+  })
+
+  test("a withdrawn account is counted out of the accounts judged", () => {
+    expect(stallAcross(readings, NOW).judged).toBe(3)
+  })
+
   test("no readings at all is no pages, none judged and none current", () => {
     const stall = stallAcross([], NOW)
     expect(stall).toEqual({
@@ -235,6 +281,7 @@ describe("stallAcross", () => {
       judged: 0,
       current: 0,
       stalled: [],
+      withdrawn: [],
       unread: [],
       entries: [],
     })
@@ -248,9 +295,11 @@ describe("stallAcross", () => {
     expect(stall.unread).toEqual([])
   })
 
-  test("every account judged is either current, stalled or unread", () => {
+  test("every account is either current, stalled, withdrawn or unread", () => {
     const stall = stallAcross(readings, NOW)
-    expect(stall.current + stall.stalled.length + stall.unread.length).toBe(stall.pages)
+    const counted =
+      stall.current + stall.stalled.length + stall.withdrawn.length + stall.unread.length
+    expect(counted).toBe(stall.pages)
   })
 })
 
@@ -266,26 +315,31 @@ describe("stallLines", () => {
     expect(stallLines(stall)).toEqual([
       "current-one: current — 5.0h of token life left, usage read 1.0h ago",
       "unread-one: unread — nothing to look at",
-      "1 of 2 account page(s) current; 0 behind upkeep, 1 could not be looked at",
+      "1 of 2 account page(s) current; 0 behind upkeep, 0 withdrawn, 1 could not be looked at",
     ])
   })
 
   test("a ruling on nothing is the closing count alone", () => {
     expect(stallLines(stallAcross([], NOW))).toEqual([
-      "0 of 0 account page(s) current; 0 behind upkeep, 0 could not be looked at",
+      "0 of 0 account page(s) current; 0 behind upkeep, 0 withdrawn, 0 could not be looked at",
     ])
   })
 
-  test("the closing count states the stalled and the unread apart", () => {
+  test("the closing count states the stalled, the withdrawn and the unread apart", () => {
     const stall = stallAcross(
       [
         { slug: "expired-one", beside: stamps(-AN_HOUR, AN_HOUR), why: null },
         { slug: "unread-one", beside: null, why: "nothing to look at" },
+        {
+          slug: "withdrawn-one",
+          beside: { ...stamps(5 * AN_HOUR, AN_HOUR), subscriptionDisabledReason: "cancelled" },
+          why: null,
+        },
       ],
       NOW
     )
     expect(stallLines(stall).at(-1)).toBe(
-      "0 of 2 account page(s) current; 1 behind upkeep, 1 could not be looked at"
+      "0 of 3 account page(s) current; 1 behind upkeep, 1 withdrawn, 1 could not be looked at"
     )
   })
 })

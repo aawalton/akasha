@@ -45,6 +45,27 @@ export const modelAccountUpkeepStall = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An account whose subscription is withdrawn is withdrawn rather than fallen behind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Upkeep passes a withdrawn account over, so its stamps say nothing about upkeep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A withdrawn account is counted out of the accounts judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A withdrawn account is named among neither the stalled nor the current.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reason that is no words leaves the account judged on its stamps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stamp sitting beside a page as anything but a timestamp reads as unread.",
     },
     {
@@ -64,6 +85,10 @@ export const modelAccountUpkeepStall = {
       decisionKind: "decision-kind/departure",
       statement:
         "Every ruling states the count of pages and the count judged and the count current.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every ruling states the stalled, the withdrawn and the unread apart.",
     },
     {
       decisionKind: "decision-kind/departure",
