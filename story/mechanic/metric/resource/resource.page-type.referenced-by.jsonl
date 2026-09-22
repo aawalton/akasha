@@ -1,6 +1,8 @@
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-attribute-point/tower-attribute-point.page-type.ts","id":"01a0ca2a-d87e-7dc2-9e16-74e77554a0ba"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-health/tower-health.page-type.ts","id":"01a0c9d4-9bff-7a43-87a6-fc93e4246d38"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-mana/tower-mana.page-type.ts","id":"01a0c9d4-c7da-77c4-9f49-c9efea20881a"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-stamina/tower-stamina.page-type.ts","id":"01a0c9d4-f409-77dd-b9df-5575d1f8d994"}
+{"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-attribute-point/tower-attribute-point.page-type.types.ts"}
 {"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-health/tower-health.page-type.types.ts"}
 {"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-mana/tower-mana.page-type.types.ts"}
 {"propertySlug":"import","fileName":"resource.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-stamina/tower-stamina.page-type.types.ts"}

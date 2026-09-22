@@ -7,7 +7,12 @@ export const resource = {
   definition: "something a character spends down and gets back",
   pluralSlug: "resources",
   extends: ["page-type/metric"],
-  parts: ["page-type/tower-health", "page-type/tower-mana", "page-type/tower-stamina"],
+  parts: [
+    "page-type/tower-health",
+    "page-type/tower-mana",
+    "page-type/tower-stamina",
+    "page-type/tower-attribute-point",
+  ],
 
   types: "ts",
   schema: "jsonl",
