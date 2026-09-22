@@ -92,7 +92,7 @@ export interface CompanionsConfigFileInputs {
 }
 
 export function serializeCompanionsConfigFile(inputs: CompanionsConfigFileInputs): string {
-  return configFile("TemperCompanionsConfig", [
+  return configFile("TemperCharactersCompanionsConfig", [
     numericKeyedBlock("companionTargetBuilds", inputs.companionTargetBuilds),
     numericKeyedBlock("companionTargetTimestamps", inputs.companionTargetTimestamps),
   ])

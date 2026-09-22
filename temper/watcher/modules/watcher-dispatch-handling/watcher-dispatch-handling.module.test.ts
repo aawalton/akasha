@@ -32,7 +32,7 @@ const STABLE: StableRead = { content: CONTENT, snapshot: SNAPSHOT }
 const CONFIG_PATHS = {
   inventoryConfigPath: "/addons/TemperInventory/TemperInventoryConfig.lua",
   charactersConfigPath: "/addons/TemperCharacters/TemperCharactersConfig.lua",
-  companionsConfigPath: "/addons/TemperCompanions/TemperCompanionsConfig.lua",
+  companionsConfigPath: "/addons/TemperCharacters/TemperCharactersCompanionsConfig.lua",
 }
 
 function answerOf(over: Partial<DispatchAnswer> = {}): DispatchAnswer {

@@ -9,7 +9,7 @@ export interface WatcherConfig {
   savedVarsDir: string
   addonsDir: string
   temperCharactersPath: string
-  temperCompanionsPath: string
+  companionsPath: string
   temperCatalogPath: string
   dataMiningPath: string
   inventoryPath: string
@@ -29,7 +29,7 @@ export interface ConfigDirs {
 const SOURCE_KEY = {
   catalog: "temperCatalogPath",
   characters: "temperCharactersPath",
-  companions: "temperCompanionsPath",
+  companions: "companionsPath",
   "data-mining": "dataMiningPath",
   errors: "temperErrorsPath",
   inventory: "inventoryPath",
@@ -48,14 +48,18 @@ export function buildConfig(dirs: ConfigDirs = {}): WatcherConfig {
     savedVarsDir,
     addonsDir,
     temperCharactersPath: join(savedVarsDir, "TemperCharacters.lua"),
-    temperCompanionsPath: join(savedVarsDir, "TemperCompanions.lua"),
+    companionsPath: join(savedVarsDir, "TemperCharacters.lua"),
     temperCatalogPath: join(savedVarsDir, "TemperCatalog.lua"),
     dataMiningPath: join(savedVarsDir, "TemperCatalog.lua"),
     inventoryPath: join(savedVarsDir, "TemperInventory.lua"),
     inventoryConfigPath: addonConfig(addonsDir, "TemperInventory"),
     catalogConfigPath: addonConfig(addonsDir, "TemperCatalog"),
     charactersConfigPath: addonConfig(addonsDir, "TemperCharacters"),
-    companionsConfigPath: addonConfig(addonsDir, "TemperCompanions"),
+    companionsConfigPath: join(
+      addonsDir,
+      "TemperCharacters",
+      "TemperCharactersCompanionsConfig.lua"
+    ),
     temperErrorsPath: join(savedVarsDir, "TemperErrors.lua"),
     temperSalesPath: join(savedVarsDir, "TemperSales.lua"),
   }

@@ -17,7 +17,7 @@ test("the directories the caller names are the directories used", () => {
 test("a saved-variables file sits in the saved-variables directory", () => {
   for (const path of [
     CONFIG.temperCharactersPath,
-    CONFIG.temperCompanionsPath,
+    CONFIG.companionsPath,
     CONFIG.temperCatalogPath,
     CONFIG.dataMiningPath,
     CONFIG.inventoryPath,
@@ -36,7 +36,7 @@ test("a config file written back sits in its own addon's directory", () => {
     "/game/AddOns/TemperCharacters/TemperCharactersConfig.lua"
   )
   expect(CONFIG.companionsConfigPath).toBe(
-    "/game/AddOns/TemperCompanions/TemperCompanionsConfig.lua"
+    "/game/AddOns/TemperCharacters/TemperCharactersCompanionsConfig.lua"
   )
 })
 
@@ -50,16 +50,20 @@ test("every kind of file the watcher knows names the file that kind is read from
 
 test("the catalog kind and the data-mining kind are read from the one file the catalog add-on writes", () => {
   expect(sourcePathFor("data-mining", CONFIG)).toBe(sourcePathFor("catalog", CONFIG))
-  const others = FILE_TYPES.filter((kind) => kind !== "data-mining").map((kind) =>
-    sourcePathFor(kind, CONFIG)
+  const others = FILE_TYPES.filter((kind) => kind !== "data-mining" && kind !== "companions").map(
+    (kind) => sourcePathFor(kind, CONFIG)
   )
   expect(new Set(others).size).toBe(others.length)
+})
+
+test("the characters kind and the companions kind are read from the one file the characters add-on writes", () => {
+  expect(sourcePathFor("companions", CONFIG)).toBe(sourcePathFor("characters", CONFIG))
 })
 
 test("each kind is read from the file its name says", () => {
   expect(sourcePathFor("catalog", CONFIG)).toBe(CONFIG.temperCatalogPath)
   expect(sourcePathFor("characters", CONFIG)).toBe(CONFIG.temperCharactersPath)
-  expect(sourcePathFor("companions", CONFIG)).toBe(CONFIG.temperCompanionsPath)
+  expect(sourcePathFor("companions", CONFIG)).toBe(CONFIG.companionsPath)
   expect(sourcePathFor("data-mining", CONFIG)).toBe(CONFIG.dataMiningPath)
   expect(sourcePathFor("errors", CONFIG)).toBe(CONFIG.temperErrorsPath)
   expect(sourcePathFor("inventory", CONFIG)).toBe(CONFIG.inventoryPath)
@@ -68,7 +72,7 @@ test("each kind is read from the file its name says", () => {
 
 test("a saved-variables file is named for the addon that writes it", () => {
   expect(CONFIG.temperCharactersPath).toBe("/game/SavedVariables/TemperCharacters.lua")
-  expect(CONFIG.temperCompanionsPath).toBe("/game/SavedVariables/TemperCompanions.lua")
+  expect(CONFIG.companionsPath).toBe("/game/SavedVariables/TemperCharacters.lua")
   expect(CONFIG.temperCatalogPath).toBe("/game/SavedVariables/TemperCatalog.lua")
   expect(CONFIG.dataMiningPath).toBe("/game/SavedVariables/TemperCatalog.lua")
   expect(CONFIG.inventoryPath).toBe("/game/SavedVariables/TemperInventory.lua")

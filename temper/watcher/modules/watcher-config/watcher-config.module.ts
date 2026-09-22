@@ -41,5 +41,10 @@ export const watcherConfig = {
       statement:
         "The catalog kind and the data-mining kind are read from the one file the catalog add-on writes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The characters kind and the companions kind are read from the one file the characters add-on writes.",
+    },
   ],
 } as const satisfies Module
