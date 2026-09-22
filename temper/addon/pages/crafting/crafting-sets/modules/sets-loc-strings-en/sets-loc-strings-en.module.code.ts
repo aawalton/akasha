@@ -121,7 +121,7 @@ export const EN = {
   defaultActionLeftClick: "Default action at",
   popupTooltipPosition: "Popup tooltip position",
   linkToChat: GetString(SI_ITEM_ACTION_LINK_TO_CHAT),
-  showLibSetsSettingsMenu: "Show set settings",
+  showSetsSettingsMenu: "Show set settings",
   headerItemLinks: "Set ItemLinks",
   addSetCollectionsSearchItemLink: "Set Items: Contextmenu-> Set Collections",
   setCollectionsSearchItemLink: "Show %q in: Set-Collections",

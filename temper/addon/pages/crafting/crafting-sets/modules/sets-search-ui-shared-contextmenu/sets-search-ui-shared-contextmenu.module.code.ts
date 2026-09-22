@@ -37,7 +37,7 @@ import {
   setSearchDropLocationTooltipPosStr,
   settingsIconText,
   showAsTooltipStr,
-  showLibSetsSettingsStr,
+  showSetsSettingsStr,
   tooltipsStr,
   topStr,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
@@ -73,7 +73,7 @@ sharedClass.ShowSettingsMenu = function (
     `${settingsIconText} ${GetString(SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES1305)}`
   )
 
-  AddCustomScrollableMenuEntry(showLibSetsSettingsStr, () => {
+  AddCustomScrollableMenuEntry(showSetsSettingsStr, () => {
     sets_showSettingsMenu()
   })
 

@@ -97,7 +97,7 @@ export const DE = {
   invertSelection: "≠ Auswahl invertieren",
   defaultActionLeftClick: "Aktion beim",
   popupTooltipPosition: "Angehefteter Tooltip Position",
-  showLibSetsSettingsMenu: "Set-Einstellungen anzeigen",
+  showSetsSettingsMenu: "Set-Einstellungen anzeigen",
   headerItemLinks: "Set ItemLinks",
   addSetCollectionsSearchItemLink: "Set Items: Kontextmenü-> Set Sammlungen",
   setCollectionsSearchItemLink: "Zeige %q in: Set-Sammlungen",

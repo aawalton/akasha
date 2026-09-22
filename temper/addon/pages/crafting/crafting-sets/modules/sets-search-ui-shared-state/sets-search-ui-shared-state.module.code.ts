@@ -40,7 +40,7 @@ export const bottomStr = getLocalizedText("bottom")
 export const leftStr = getLocalizedText("left")
 export const setNamesStr = getLocalizedText("setNames")
 export const favoritesStr = getLocalizedText("favorites")
-export const showLibSetsSettingsStr = getLocalizedText("showLibSetsSettingsMenu")
+export const showSetsSettingsStr = getLocalizedText("showSetsSettingsMenu")
 
 const POSSIBLE_SET_SEARCH_FAVORITE_CATEGORIES_UNSORTED =
   lib.possibleSetSearchFavoriteCategoriesUnsorted

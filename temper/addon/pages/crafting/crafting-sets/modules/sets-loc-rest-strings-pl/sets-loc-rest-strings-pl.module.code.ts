@@ -106,5 +106,5 @@ export const PL = {
   defaultActionLeftClick: "Domyślna akcja na",
   popupTooltipPosition: "Pozycja podpowiedzi popup",
   linkToChat: GetString(SI_ITEM_ACTION_LINK_TO_CHAT),
-  showLibSetsSettingsMenu: "Pokaż ustawienia zestawów",
+  showSetsSettingsMenu: "Pokaż ustawienia zestawów",
 }

@@ -21,7 +21,7 @@ export const NON_OFFICIAL_LANGUAGES = lib.nonOfficialLanguages
 
 export const libPrefix = lib.prefix
 export const libPrefixWithVersion = "[" + MAJOR + " v" + tostring(MINOR) + "]"
-export const storedInSVFileLibSetsInTable =
+export const storedInSVFileSetsInTable =
   "->Stored in SaveVariables file '" + MAJOR + ".lua', in the table "
 export const PLEASE_RELOAD_UI = ">Please do a /reloadui to update the file properly!"
 

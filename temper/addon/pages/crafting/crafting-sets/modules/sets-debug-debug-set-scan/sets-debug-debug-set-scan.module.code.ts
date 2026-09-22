@@ -15,7 +15,7 @@ import {
   libPrefix,
   PLEASE_RELOAD_UI,
   SCAN_STATE,
-  storedInSVFileLibSetsInTable,
+  storedInSVFileSetsInTable,
   UNKNOWN_NAME,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-state/sets-debug-debug-state.module.code.ts"
 import { showSetCountsScanned } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-scan-report/sets-debug-scan-report.module.code.ts"
@@ -138,7 +138,7 @@ function debugGetAllSetNames(this: void, noReloadInfo?: boolean): undefined {
       }
     }
     d(
-      storedInSVFileLibSetsInTable +
+      storedInSVFileSetsInTable +
         "'" +
         SETS_TABLEKEY_SETNAMES +
         "', language: '" +

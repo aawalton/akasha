@@ -14,7 +14,7 @@ import {
   libPrefix,
   libPrefixWithVersion,
   MAJOR,
-  storedInSVFileLibSetsInTable,
+  storedInSVFileSetsInTable,
   UNKNOWN_NAME,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-state/sets-debug-debug-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -311,7 +311,7 @@ function debugGetAllZoneInfo(this: void): undefined {
     const zoneSV = asLangRecord(sv[SETS_TABLEKEY_ZONE_DATA])
     zoneSV[clientLang] = zoneData[clientLang]
     d(
-      storedInSVFileLibSetsInTable +
+      storedInSVFileSetsInTable +
         "'" +
         SETS_TABLEKEY_ZONE_DATA +
         "', language: '" +
@@ -335,7 +335,7 @@ function debugGetAllMapNames(this: void): undefined {
     const mapsSV = asLangRecord(sv[SETS_TABLEKEY_MAPS])
     mapsSV[clientLang] = maps
     d(
-      storedInSVFileLibSetsInTable +
+      storedInSVFileSetsInTable +
         "'" +
         SETS_TABLEKEY_MAPS +
         "', language: '" +
@@ -383,7 +383,7 @@ function debugGetAllWayshrineInfoOfCurrentMap(this: void): undefined {
         for (const [wsNodeId, wsData] of pairs(ws)) {
           wsSV[wsNodeId] = wsData
         }
-        d(storedInSVFileLibSetsInTable + "'" + SETS_TABLEKEY_WAYSHRINES + "'")
+        d(storedInSVFileSetsInTable + "'" + SETS_TABLEKEY_WAYSHRINES + "'")
       }
     }, delay)
   }
@@ -402,7 +402,7 @@ function debugGetAllWayshrineNames(this: void): undefined {
     const wsNamesSV = asLangRecord(sv[SETS_TABLEKEY_WAYSHRINE_NAMES])
     wsNamesSV[clientLang] = wsNames[clientLang]
     d(
-      storedInSVFileLibSetsInTable +
+      storedInSVFileSetsInTable +
         "'" +
         SETS_TABLEKEY_WAYSHRINE_NAMES +
         "', language: '" +

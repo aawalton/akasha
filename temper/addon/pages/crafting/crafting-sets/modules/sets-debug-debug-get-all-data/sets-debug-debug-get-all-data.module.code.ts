@@ -18,7 +18,7 @@ import {
   numSupportedLangsForDebug,
   SCAN_STATE,
   SUPPORTED_LANGUAGES,
-  storedInSVFileLibSetsInTable,
+  storedInSVFileSetsInTable,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-debug-debug-state/sets-debug-debug-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
@@ -251,7 +251,7 @@ function debugBuildMixedSetNames(this: void): undefined {
     const sv = asPresent(lib.svDebugData)
     sv[SETS_TABLEKEY_MIXED_SETNAMES] = copyOfPreloadedSetNames
     d(
-      storedInSVFileLibSetsInTable +
+      storedInSVFileSetsInTable +
         "'" +
         SETS_TABLEKEY_MIXED_SETNAMES +
         "'\nPlease do a /reloadui or logout to update the SavedVariables data now!"

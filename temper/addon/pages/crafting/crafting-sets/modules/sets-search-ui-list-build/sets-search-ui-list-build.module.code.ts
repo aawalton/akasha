@@ -223,7 +223,7 @@ listClass.CreateEntryForSet = function (
     type: searchUI.searchTypeDefault,
   })
 
-  itemData._LibSets_setData = setData
+  itemData._Sets_setData = setData
 
   zo_mixin(itemData, setData)
 

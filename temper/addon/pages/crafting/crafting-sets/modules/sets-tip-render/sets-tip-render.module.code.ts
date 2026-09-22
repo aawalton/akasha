@@ -42,21 +42,14 @@ export function addTooltipLine(
     const getStyle = tooltipControl.GetStyle
     const addSection = tooltipControl.AddSection
     if (acquire !== undefined && getStyle !== undefined && addSection !== undefined) {
-      const libSetsSection = acquire.call(
-        tooltipControl,
-        getStyle.call(tooltipControl, "bodySection")
-      )
-      libSetsSection.AddLine.call(
-        libSetsSection,
-        "Sets",
-        getStyle.call(tooltipControl, "bodyHeader")
-      )
-      libSetsSection.AddLine.call(
-        libSetsSection,
+      const setsSection = acquire.call(tooltipControl, getStyle.call(tooltipControl, "bodySection"))
+      setsSection.AddLine.call(setsSection, "Sets", getStyle.call(tooltipControl, "bodyHeader"))
+      setsSection.AddLine.call(
+        setsSection,
         setInfoText,
         getStyle.call(tooltipControl, "bodyDescription")
       )
-      addSection.call(tooltipControl, libSetsSection)
+      addSection.call(tooltipControl, setsSection)
     }
   }
 }
