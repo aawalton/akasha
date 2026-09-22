@@ -6,5 +6,6 @@
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.test.ts"}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/service-telling/service-telling.module.code.ts"}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.test.ts"}
 {"propertySlug":"parts","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

@@ -1511,6 +1511,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.ts","id":"01a08cef-2ffd-70db-abdd-5cf7f3cfaf21"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.ts","id":"01a05a64-6ba1-7aaa-847b-316b27475e49"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-running/service-running.module.ts","id":"01a09573-1d3f-7d99-82f9-932723a87bdd"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-telling/service-telling.module.ts","id":"01a0c995-1c76-7a32-9357-a382d356cdac"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.ts","id":"01a08c77-e4ed-7a27-8a82-acaacd3068bd"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/tick-ratchet/tick-ratchet.module.ts","id":"01a06885-0bab-7001-9235-a701e25dd098"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.ts","id":"01a0686a-7a57-7c23-b825-02e6e8625bad"}

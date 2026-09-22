@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.code.ts"}
 {"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.test.ts"}
 {"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-health/service-health.module.test.ts"}
+{"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-telling/service-telling.module.code.ts"}
 {"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.code.ts"}
 {"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.test.ts"}

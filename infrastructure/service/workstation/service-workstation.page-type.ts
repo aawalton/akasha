@@ -56,6 +56,7 @@ export const serviceWorkstation = {
     "text-property/unbound",
     "text-property/wanted-by",
     "text-property/wants",
+    "module/service-telling",
   ],
   properties: [
     { pageProperty: "boolean-property/enabled", required: true, many: false },

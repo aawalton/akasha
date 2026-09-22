@@ -1885,6 +1885,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-telling/service-telling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/tick-deadline/tick-deadline.module.ts"}
