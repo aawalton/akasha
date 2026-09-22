@@ -42,10 +42,10 @@ export function registerLifecycle(this: void): undefined {
       const chat = createChatProxy("TemperChatMessage", "TCM")
       registerSlashCommand(chat)
 
-      const settingsStore = LibChatMessageSettings ?? ({} as StringRecord)
-      LibChatMessageSettings = settingsStore
-      const historyStore = LibChatMessageHistory ?? ({} as StringRecord)
-      LibChatMessageHistory = historyStore
+      const settingsStore = TemperChatMessageSettings ?? ({} as StringRecord)
+      TemperChatMessageSettings = settingsStore
+      const historyStore = TemperChatMessageHistory ?? ({} as StringRecord)
+      TemperChatMessageHistory = historyStore
 
       const settings = asSettings(
         settingsStore[saveDataKey] ?? ZO_ShallowTableCopy(CHAT_MESSAGE_API.defaultSettings)

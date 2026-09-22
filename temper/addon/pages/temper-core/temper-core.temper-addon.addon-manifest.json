@@ -15,12 +15,12 @@
     "TemperKeybinder_SavedVariables",
     "TemperNoThankYou_SavedVariables",
     "TemperFCOChangeStuff_SavedVariables",
-    "LibChatMessageSettings",
-    "LibChatMessageHistory",
+    "TemperChatMessageSettings",
+    "TemperChatMessageHistory",
     "AsyncSavedVars",
-    "LibScrollableMenu_SavedVars",
-    "LibDebugLoggerSettings",
-    "LibDebugLoggerLog"
+    "TemperScrollableMenu_SavedVars",
+    "TemperDebugLoggerSettings",
+    "TemperDebugLoggerLog"
   ],
   "additionalLuaFiles": [],
   "dependsOn": [],

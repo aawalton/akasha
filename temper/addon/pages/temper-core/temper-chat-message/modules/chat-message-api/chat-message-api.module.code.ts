@@ -68,8 +68,8 @@ export const CHAT_MESSAGE_API: ChatMessageApi = {
 
   ClearHistory(this: ChatMessageApi) {
     this.chatHistory = []
-    if (this.saveDataKey !== undefined && LibChatMessageHistory !== undefined) {
-      LibChatMessageHistory[this.saveDataKey] = this.chatHistory
+    if (this.saveDataKey !== undefined && TemperChatMessageHistory !== undefined) {
+      TemperChatMessageHistory[this.saveDataKey] = this.chatHistory
     }
   },
 

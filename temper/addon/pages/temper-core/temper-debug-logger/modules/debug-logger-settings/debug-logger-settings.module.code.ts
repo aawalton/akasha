@@ -82,9 +82,9 @@ function handleSlashCommand(this: void, params: string): undefined {
 
 function doInitializeSettings(this: typeof INTERNAL): Settings {
   if (INTERNAL.ignoreSavedVars !== true) {
-    if (LibDebugLoggerSettings !== undefined) {
+    if (TemperDebugLoggerSettings !== undefined) {
       const tempSettings = INTERNAL.settings
-      INTERNAL.settings = LibDebugLoggerSettings
+      INTERNAL.settings = TemperDebugLoggerSettings
 
       for (const [key, value] of pairs(tempSettings)) {
         if (INTERNAL.settings[key] === undefined) {
@@ -100,11 +100,11 @@ function doInitializeSettings(this: typeof INTERNAL): Settings {
 
       INTERNAL.settings.version = tempSettings.version
     } else {
-      LibDebugLoggerSettings = INTERNAL.settings
+      TemperDebugLoggerSettings = INTERNAL.settings
     }
 
-    if (LibDebugLoggerSettings !== undefined && LibDebugLoggerSettings.version < 2) {
-      LibDebugLoggerSettings.version = 2
+    if (TemperDebugLoggerSettings !== undefined && TemperDebugLoggerSettings.version < 2) {
+      TemperDebugLoggerSettings.version = 2
     }
   }
 

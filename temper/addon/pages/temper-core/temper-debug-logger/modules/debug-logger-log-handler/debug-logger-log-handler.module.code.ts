@@ -44,7 +44,7 @@ function pruneLog(): undefined {
     }
 
     INTERNAL.log = newLog
-    LibDebugLoggerLog = newLog
+    TemperDebugLoggerLog = newLog
     INTERNAL.FireCallbacks(CALLBACK_LOG_PRUNED, startIndex)
   }
 }
@@ -252,9 +252,9 @@ function logMessage(
 }
 
 function doInitializeLog(this: typeof INTERNAL): undefined {
-  if (LibDebugLoggerLog !== undefined) {
+  if (TemperDebugLoggerLog !== undefined) {
     const startUpLog = INTERNAL.log
-    const oldLog = LibDebugLoggerLog
+    const oldLog = TemperDebugLoggerLog
     const newLog: LogEntry[] = []
 
     const startIndex = math.max(1, oldLog.length + startUpLog.length - INTERNAL.NUM_MAX_ENTRIES)
@@ -272,9 +272,9 @@ function doInitializeLog(this: typeof INTERNAL): undefined {
     }
 
     INTERNAL.log = newLog
-    LibDebugLoggerLog = newLog
+    TemperDebugLoggerLog = newLog
   } else {
-    LibDebugLoggerLog = INTERNAL.log
+    TemperDebugLoggerLog = INTERNAL.log
   }
 }
 

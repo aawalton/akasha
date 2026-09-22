@@ -16,9 +16,9 @@ interface ChatEditControl {
 
 declare const ZO_VALID_LINK_TYPES_CHAT: Record<string, boolean>
 
-declare let LibChatMessageSettings: Record<string, unknown> | undefined
+declare let TemperChatMessageSettings: Record<string, unknown> | undefined
 
-declare let LibChatMessageHistory: Record<string, unknown> | undefined
+declare let TemperChatMessageHistory: Record<string, unknown> | undefined
 
 declare const TEMPER_CHATMESSAGE_UNKNOWN_DESCRIPTION: number
 

@@ -56,7 +56,7 @@ lib.Debug = {
 const libDebug = lib.Debug
 
 lib.SVConstans = {
-  name: "LibScrollableMenu_SavedVars",
+  name: "TemperScrollableMenu_SavedVars",
   version: 1,
   profile: "LSM",
   defaults: {

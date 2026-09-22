@@ -87,7 +87,7 @@ export function initApi(): undefined {
 
   LIB.ClearLog = function (this: Lib) {
     INTERNAL.log = []
-    LibDebugLoggerLog = INTERNAL.log
+    TemperDebugLoggerLog = INTERNAL.log
     INTERNAL.FireCallbacks(CALLBACK_LOG_CLEARED, INTERNAL.log)
     return INTERNAL.log
   }
