@@ -87,9 +87,14 @@ const TEXT_SAMPLES: readonly BadgeSample[] = [
       id: "ds-property-rich-document",
       title: "Body",
       type: "rich-document",
-      drawnBy: ["rich-document-property", "text-property", "page-property", "domain", "page"],
+      drawnBy: ["rich-document-property", "page-property", "domain", "page"],
     },
-    value: "The opening paragraph of a long document.",
+    value: {
+      blocks: [
+        { id: "one", type: "paragraph", text: "The opening paragraph of a long document." },
+        { id: "two", type: "paragraph", text: "A second paragraph the badge never reaches." },
+      ],
+    },
   },
 ]
 
@@ -325,8 +330,10 @@ export function TextPropertyBadgesPanel() {
   return (
     <PanelCard id="ds-text-property-badges" collapsible title="Text Property Badges">
       <p className="text-secondary text-sm">
-        <code>markdown</code>, <code>url</code> and <code>json</code> carry a drawing of their own.
-        The rest fall back to the plain <code>page-property</code> badge.
+        <code>markdown</code>, <code>url</code>, <code>json</code> and <code>rich-document</code>
+        carry a drawing of their own, and plain text falls back to the <code>page-property</code>{" "}
+        badge. A rich document is edited in place on the page carrying it, so away from one it reads
+        as its opening line.
       </p>
       <SampleRows samples={TEXT_SAMPLES} />
     </PanelCard>
