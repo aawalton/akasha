@@ -6,5 +6,6 @@ export const trueLightning = {
   slug: "true-lightning",
   title: "True Lightning",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldMiracle

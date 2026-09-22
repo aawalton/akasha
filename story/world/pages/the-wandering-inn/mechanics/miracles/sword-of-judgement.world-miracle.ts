@@ -6,5 +6,6 @@ export const swordOfJudgement = {
   slug: "sword-of-judgement",
   title: "Sword of Judgement",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldMiracle

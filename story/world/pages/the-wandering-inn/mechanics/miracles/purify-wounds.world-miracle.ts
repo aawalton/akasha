@@ -6,5 +6,6 @@ export const purifyWounds = {
   slug: "purify-wounds",
   title: "Purify Wounds",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   references: "jsonl",
 } as const satisfies WorldMiracle

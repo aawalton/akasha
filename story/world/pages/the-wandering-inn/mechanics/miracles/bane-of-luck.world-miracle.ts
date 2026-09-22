@@ -6,5 +6,6 @@ export const baneOfLuck = {
   slug: "bane-of-luck",
   title: "Bane of Luck",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   references: "jsonl",
 } as const satisfies WorldMiracle
