@@ -4,15 +4,12 @@ import {
   dropdownShowTooltip,
   setupDropdown,
 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-dropdowns/leads-dropdowns.module.code.ts"
-import { transmogrify } from "akasha/temper/addon/pages/world/antiquities/modules/leads-reporting/leads-reporting.module.code.ts"
 import { toggleLeadsWindow } from "akasha/temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"
 import {
   alertsMouseEnter,
   alertsMouseExit,
   headerMouseEnter,
   headerMouseExit,
-  leadFoundMouseEnter,
-  leadFoundMouseExit,
   locationBoxMouseEnter,
   locationBoxMouseExit,
   rowMouseEnter,
@@ -32,13 +29,10 @@ globalThis.TemperWorldLeads = {
   RowMouseEnter: rowMouseEnter,
   RowMouseExit: rowMouseExit,
   RowMouseUp: rowMouseUp,
-  LeadfoundMouseEnter: leadFoundMouseEnter,
-  LeadfoundMouseExit: leadFoundMouseExit,
   AlertsMouseEnter: alertsMouseEnter,
   AlertsMouseExit: alertsMouseExit,
   LocationBoxMouseEnter: locationBoxMouseEnter,
   LocationBoxMouseExit: locationBoxMouseExit,
-  transmogrify,
   SORTHEADER_NAMES: STRINGS.SORTHEADER_NAMES,
   getAntiquityDigZoneName,
 }

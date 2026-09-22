@@ -1,6 +1,5 @@
 declare var TemperLeadsMainWindow: TopLevelWindow
 declare var TemperLeadsMainWindowTitleAlerts: LabelControl
-declare var TemperLeadsMainWindowLocationURL: LabelControl
 declare var TemperLeadsLocationBox: EditControl
 
 interface LeadsUnitData {

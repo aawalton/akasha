@@ -4,16 +4,7 @@ export const leadsReporting = {
   id: "01a06274-b08a-73da-8f48-24bcfd5a231a",
   type: "page-type/module",
   slug: "leads-reporting",
-  definition: "the lead last found, and the report of a new location for it",
+  definition: "the lead last found, and where the window says that lead is dug",
   code: "ts",
-  decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A location is sent to an external site rather than kept here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The player consents to the browser opening before anything is sent.",
-    },
-  ],
+  decisions: [],
 } as const satisfies Module

@@ -29,7 +29,6 @@ export function initLeads(this: void): undefined {
   createInventoryDropdown("Zone")
   createInventoryDropdown("SetType")
   TemperLeadsLocationBox.SetText(STRINGS.EDITBOX_INITIAL)
-  TemperLeadsMainWindowLocationURL.SetText(STRINGS.LABEL_URL_INITIAL)
   EVENT_MANAGER.RegisterForEvent(ADDON_NAME, EVENT_ANTIQUITY_LEAD_ACQUIRED, antiquityFound)
   SCENE_MANAGER.RegisterTopLevel(TemperLeadsMainWindow, false)
 }

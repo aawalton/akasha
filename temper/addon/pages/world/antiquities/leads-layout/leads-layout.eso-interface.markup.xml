@@ -54,24 +54,9 @@
 					<Anchor point="TOPLEFT"  relativeTo="$(parent)Title" relativePoint="BOTTOMLEFT" offsetX="10" offsetY="0"/>
 					<Dimensions y="30" />
 					<Controls>
-						<Label name="$(parent)URL" font="ZoFontGameLarge" color="2DC50E" wrapMode="ELLIPSIS"  mouseEnabled="true" text="">
-							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="7" offsetY="7"/>
-							<Dimensions x="220" y="28" />
-							<OnMouseEnter>
-								TemperWorldLeads.LeadfoundMouseEnter(self)
-							</OnMouseEnter>
-							<OnMouseExit>
-								TemperWorldLeads.LeadfoundMouseExit(self)
-							</OnMouseExit>
-							<OnMouseUp>
-								if upInside then
-									TemperWorldLeads.transmogrify()
-								end
-							</OnMouseUp>
-						</Label>
 						<Backdrop name="$(parent)LocationEditBackdrop" inherits="ZO_MultiLineEditBackdrop_Keyboard" alpha="1.0" centerColor="77777766" edgeColor="88FFFFFF">
 							<Edge edgeSize="1"/>
-							<Anchor point="TOPLEFT" relativeTo="$(parent)URL" relativePoint="TOPRIGHT" offsetX="15" offsetY="0"/>
+							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="7" offsetY="7"/>
 							<Dimensions x="960" y="28"/>
 							<Controls>
 								<EditBox name="TemperLeadsLocationBox"  inherits="ZO_DefaultEditForBackdrop" ZO_EditDefaultText="" maxInputCharacters="300">

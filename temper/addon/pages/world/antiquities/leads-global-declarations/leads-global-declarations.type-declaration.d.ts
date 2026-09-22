@@ -13,13 +13,10 @@ interface TemperWorldLeadsApi {
   RowMouseEnter: (this: void, control: LeadsRowControl) => undefined
   RowMouseExit: (this: void, control: LeadsRowControl) => undefined
   RowMouseUp: (this: void, control: LeadsRowControl) => undefined
-  LeadfoundMouseEnter: (this: void, control: Control) => undefined
-  LeadfoundMouseExit: (this: void, control: Control) => undefined
   AlertsMouseEnter: (this: void, control: Control) => undefined
   AlertsMouseExit: (this: void, control: Control) => undefined
   LocationBoxMouseEnter: (this: void, control: Control) => undefined
   LocationBoxMouseExit: (this: void, control: Control) => undefined
-  transmogrify: (this: void) => undefined
   SORTHEADER_NAMES: readonly string[]
   getAntiquityDigZoneName: (this: void, antiquityId: number) => string | undefined
 }

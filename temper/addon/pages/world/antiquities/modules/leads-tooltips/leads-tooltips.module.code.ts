@@ -113,9 +113,6 @@ export function rowMouseEnter(this: void, control: LeadsRowControl): undefined {
       InformationTooltip.AddVerticalPadding(6)
       ZO_Tooltip_AddDivider(InformationTooltip)
     }
-    for (const line of STRINGS.TOOLTIP_LEAD_HOWUPDATE) {
-      InformationTooltip.AddLine(line, "ZoFontGameSmall")
-    }
     addInkling()
   }
   getUnitList().Row_OnMouseEnter(control)
@@ -136,34 +133,6 @@ export function rowMouseUp(this: void, control: LeadsRowControl): undefined {
   if (data !== undefined) {
     antiquityFound(0, data.Aid)
   }
-}
-
-export function leadFoundMouseEnter(this: void, control: Control): undefined {
-  InitializeTooltip(InformationTooltip, control, BOTTOMLEFT, 0, 0)
-  const [minX, minY, maxX, maxY] = InformationTooltip.GetDimensionConstraints()
-  origTooltipMaxX = maxX
-  InformationTooltip.SetDimensionConstraints(minX, minY, 450, maxY)
-  for (const line of STRINGS.TOOLTIP_URL) {
-    InformationTooltip.AddLine(
-      line,
-      "",
-      1,
-      1,
-      1,
-      LEFT,
-      MODIFY_TEXT_TYPE_NONE,
-      TEXT_ALIGN_LEFT,
-      true
-    )
-  }
-  addInkling()
-}
-
-export function leadFoundMouseExit(this: void, _control: Control): undefined {
-  if (origTooltipMaxX !== undefined) {
-    restoreTooltipMaxX(origTooltipMaxX)
-  }
-  ClearTooltip(InformationTooltip)
 }
 
 export function alertsMouseEnter(this: void, control: Control): undefined {

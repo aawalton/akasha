@@ -4,7 +4,7 @@ export const temperAddonWorldAntiquities = {
   id: "01a0c6f4-6af6-74a8-8e13-9f3e2328ee42",
   type: "page-type/domain",
   slug: "temper-addon-world-antiquities",
-  definition: "antiquity leads browsed in a window that reports where each one is found",
+  definition: "antiquity leads browsed in a window that says where each one is dug",
   parts: [
     "eso-interface/leads-layout",
     "module/antiquities-entry",
@@ -70,6 +70,10 @@ export const temperAddonWorldAntiquities = {
       decisionKind: "decision-kind/departure",
       statement:
         "The pledge tracker is read where that tracker is installed and skipped where that tracker is not.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A lead's location reaches no machine but this one.",
     },
   ],
 } as const satisfies Domain

@@ -64,36 +64,7 @@ export const STRINGS = {
   TOOLTIP_ALERTS_UD_NONEFOUND: "No Undaunted Dailies have Leads for you",
   TOOLTIP_ALERTS_UD_SCRYFIRST: " (You already have this Lead, Scry/Excavate it first)",
 
-  LABEL_URL_INITIAL: "No Leads discovered so far",
-  LABEL_URL_LEADFOUND: "|c3A92FFReport latest Lead with ID %d|r",
-
-  TOOLTIP_URL: [
-    "To streamline reporting new locations: ",
-    "If you find a Lead this Addon will:",
-    " - post Lead ID Info into this Box",
-    " - post existing Location into Field to the right",
-    "   (if I thought Location Info was complete it will post ",
-    "    a plea instead to doublecheck your info really is new)",
-    " - If you found the Lead elsewhere please:",
-    "   - remove what is in EditField",
-    "   - describe your Location",
-    "   - Click this Field here",
-    "Addon will then:",
-    " - transmogrify info into an URL",
-    " - open URL in browser after you consent to ZOS Popup",
-  ],
-
-  EDITBOX_INITIAL:
-    "If you find NEW Location: Replace what will appear here; Click Label on left to send to browser",
-  EDITBOX_LOCATION_DATA_COMPLETE:
-    "Location Info considered complete. Please only Submit if your find is not already covered by existing description",
-  EDITBOX_NO_LEAD_FOUND_OR_SELECTED:
-    "Find a lead first, or Click Row of Lead you would like to report",
-  EDITBOX_NOT_EDITED:
-    "To submit new find: Replace what is in this Editbox with your new Location first. Then click Label to the left.",
-  EDITBOX_LOCDATA_EMPTY:
-    "You need to enter your new Location into this Editbox. Then click Label to the left.",
-  EDITBOX_THANKS: "Thank you for submitting new Location data",
+  EDITBOX_INITIAL: "Find a lead, or click a row, to read where that lead is dug",
 
   SORTHEADER_NAMES: ["Lead", "Zone", "Location", "Diff", "Lore", "Dug", "Set", "Expiration"],
   SORTHEADER_TOOLTIP: [
@@ -105,12 +76,6 @@ export const STRINGS = {
     "How many times has the antiquity been dug out already",
     "Name of the Set that will be rewarded if multipart Antiquity\n. Or type of Reward if single Lead Antiquity",
     "Time until Lead expires.\n For some Leads expiraton time does not go down for the first couple of days.",
-  ],
-
-  TOOLTIP_LEAD_HOWUPDATE: [
-    "If you know about additional Location:",
-    "Click Row to activate Location Data Update for this Lead.",
-    "Replace Editbox content with your Location then click Label to the left of it",
   ],
 
   TOOLTIP_INKLING: [
