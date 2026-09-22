@@ -106,6 +106,18 @@ test("pinning again writes what changed, adds what was added and takes away what
   }
 })
 
+test("a tracked file written over in the tree goes back to what the commit holds", () => {
+  const repo = madeRepo()
+  try {
+    const at = pinnedAt(repo, firstCommit(repo))
+    writeFileSync(join(at, "steady.txt"), "written over in the tree")
+    pinnedAt(repo, secondCommit(repo))
+    expect(readFileSync(join(at, "steady.txt"), "utf8")).toBe("steady")
+  } finally {
+    repo.cleanup()
+  }
+})
+
 test("a file git ignores is left where it is when the tree moves", () => {
   const repo = madeRepo()
   try {
