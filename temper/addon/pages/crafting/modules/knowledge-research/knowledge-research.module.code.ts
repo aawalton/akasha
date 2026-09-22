@@ -178,7 +178,7 @@ export function initializeResearch(this: void): undefined {
 
   if (DIAGNOSTICS.vars.researchTraits !== index) {
     if (DIAGNOSTICS.vars.researchTraits !== undefined) {
-      INTERNAL.MsgTag(GetString(SI_LCK_SCAN_RESEARCH_BAD_TRAITS))
+      INTERNAL.MsgTag(GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SCAN_RESEARCH_BAD_TRAITS))
     }
     DIAGNOSTICS.vars.researchTraits = index
   }
@@ -186,7 +186,7 @@ export function initializeResearch(this: void): undefined {
   const signatureHash = HashString(table.concat(signature, ","))
   if (DIAGNOSTICS.vars.researchSignature !== signatureHash) {
     if (DIAGNOSTICS.vars.researchSignature !== undefined) {
-      INTERNAL.MsgTag(GetString(SI_LCK_SCAN_RESEARCH_BAD_SIG))
+      INTERNAL.MsgTag(GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SCAN_RESEARCH_BAD_SIG))
     }
     DIAGNOSTICS.vars.researchSignature = signatureHash
   }

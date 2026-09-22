@@ -146,7 +146,7 @@ INTERNAL.ReadMasterList = function (this: void, finalizeBaseDataLoad?: boolean):
   }
 
   if (finalizeBaseDataLoad === true) {
-    INTERNAL.MsgTag(GetString(SI_LCK_SCAN_COMPLETE))
+    INTERNAL.MsgTag(GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SCAN_COMPLETE))
     INTERNAL.MigrateData("flush")
     INTERNAL.InitializeCharacterData()
   } else if (
@@ -187,20 +187,20 @@ INTERNAL.WriteMasterList = function (this: void, maxId: number): undefined {
     masterListRec["maxId_" + key] = INTERNAL.maxIds[key]
   }
 
-  INTERNAL.MsgTag(GetString(SI_LCK_SCAN_COMPLETE))
+  INTERNAL.MsgTag(GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SCAN_COMPLETE))
   INTERNAL.MigrateData("flush")
   INTERNAL.InitializeCharacterData()
 }
 
 INTERNAL.Datamine = function (this: void): undefined {
-  INTERNAL.MsgTag(GetString(SI_LCK_SCAN_START))
+  INTERNAL.MsgTag(GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SCAN_START))
 
   if (INTERNAL.DoesValidBaseDataExist()) {
     INTERNAL.vars.masterList = INTERNAL.BaseData
     INTERNAL.ReadMasterList(true)
     return
   } else if (ZO_IsConsoleOrGameCoreUI()) {
-    INTERNAL.MsgTag(GetString(SI_LCK_SCAN_CONSOLE))
+    INTERNAL.MsgTag(GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SCAN_CONSOLE))
     return
   }
 

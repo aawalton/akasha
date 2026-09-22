@@ -18,7 +18,7 @@ INTERNAL.SettingsBuildOptionsList = function (
   labelFunc: (this: void, i: number, min: number, max: number) => string
 ): LuaMultiReturn<[number[], string[], number[], string[]]> {
   const values: number[] = [0]
-  const labels: string[] = [GetString(SI_LCK_SETTINGS_USE_DEFAULT)]
+  const labels: string[] = [GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_USE_DEFAULT)]
   const valuesND: number[] = []
   const labelsND: string[] = []
 
@@ -176,20 +176,20 @@ INTERNAL.SettingsBuildControlCluster = function (
   if (showDefaultPriority) {
     controls.push({
       type: "checkbox",
-      name: SI_LCK_SETTINGS_PRIORITY_DEFAULT,
+      name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_PRIORITY_DEFAULT,
       getFunc: isDefaultPriority,
       setFunc: function (this: void, enabled: boolean): undefined {
         const fn = setFunc("priority", 0, true)
         fn(enabled ? 0 : INTERNAL.PRIORITY_RANK_DEFAULT)
       },
       disabled: diabledFunc,
-      tooltip: SI_LCK_SETTINGS_PRIORITY_HELP,
+      tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_PRIORITY_HELP,
     })
   }
 
   controls.push({
     type: "slider",
-    name: SI_LCK_SETTINGS_PRIORITY,
+    name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_PRIORITY,
     min: 1,
     max: INTERNAL.PRIORITY_RANKS,
     step: 1,
@@ -205,13 +205,13 @@ INTERNAL.SettingsBuildControlCluster = function (
         return false
       }
     },
-    tooltip: SI_LCK_SETTINGS_PRIORITY_HELP,
+    tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_PRIORITY_HELP,
   })
 
   if (showExport) {
     controls.push({
       type: "checkbox",
-      name: SI_LCK_SETTINGS_EXPORT,
+      name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_EXPORT,
       getFunc: function (this: void): boolean {
         return base["export"] === true
       },

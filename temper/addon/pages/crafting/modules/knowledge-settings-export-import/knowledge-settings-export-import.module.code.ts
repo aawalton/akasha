@@ -70,7 +70,10 @@ INTERNAL.CountExportSelection = function (this: void): number {
 }
 
 INTERNAL.GetExportSelectedText = function (this: void): string {
-  return string.format(GetString(SI_LCK_SETTINGS_SHARE_EXPORTS), INTERNAL.CountExportSelection())
+  return string.format(
+    GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTS),
+    INTERNAL.CountExportSelection()
+  )
 }
 
 INTERNAL.ExportSelectText = function (this: void): undefined {
@@ -143,14 +146,14 @@ INTERNAL.ExportMultiple = function (this: void, exportAll): undefined {
 
   INTERNAL.shareText =
     LDEI.ExportMultiple(entries, function (this: void, ...args: unknown[]): undefined {
-      INTERNAL.Msg(zo_strformat(SI_LCK_SHARE_EXPORT_LIMIT, ...args))
+      INTERNAL.Msg(zo_strformat(SI_TEMPER_CRAFTING_KNOWLEDGE_SHARE_EXPORT_LIMIT, ...args))
     }) + " "
   INTERNAL.ExportSelectText()
 }
 
 INTERNAL.Import = function (this: void): undefined {
   if (!LDEI.Import(asString(INTERNAL.shareText), SHARE_TAG)) {
-    INTERNAL.Msg(GetString(SI_LCK_SHARE_IMPORT_INVALID))
+    INTERNAL.Msg(GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SHARE_IMPORT_INVALID))
   }
 }
 
@@ -163,7 +166,7 @@ INTERNAL.ProcessImportData = function (
 
   for (const [, data] of ipairs(dataset)) {
     if (SHARE_VERSION_COMPATIBILITY[data.version] !== true) {
-      return $multi(imported, SI_LCK_SHARE_IMPORT_BADVERSION, newCharacter)
+      return $multi(imported, SI_TEMPER_CRAFTING_KNOWLEDGE_SHARE_IMPORT_BADVERSION, newCharacter)
     }
 
     const [server, account, charName, charId, apiVersion, rawTimestamp, knowledge] = zo_strsplit(
@@ -191,7 +194,9 @@ INTERNAL.ProcessImportData = function (
       )
 
       if (char.timestamp !== undefined && char.timestamp >= timestamp) {
-        INTERNAL.Msg(zo_strformat(SI_LCK_SHARE_IMPORT_STALE, server, charName))
+        INTERNAL.Msg(
+          zo_strformat(SI_TEMPER_CRAFTING_KNOWLEDGE_SHARE_IMPORT_STALE, server, charName)
+        )
       } else {
         char.account = DecorateDisplayName(asString(account))
         char.name = asString(charName)
@@ -211,7 +216,7 @@ INTERNAL.ProcessImportData = function (
 
         INTERNAL.Msg(
           zo_strformat(
-            SI_LCK_SHARE_IMPORT_DONE,
+            SI_TEMPER_CRAFTING_KNOWLEDGE_SHARE_IMPORT_DONE,
             server,
             charName,
             os.date("%Y/%m/%d %H:%M", timestamp)
@@ -219,7 +224,7 @@ INTERNAL.ProcessImportData = function (
         )
       }
     } else {
-      INTERNAL.Msg(zo_strformat(SI_LCK_SHARE_IMPORT_API, server, charName))
+      INTERNAL.Msg(zo_strformat(SI_TEMPER_CRAFTING_KNOWLEDGE_SHARE_IMPORT_API, server, charName))
     }
   }
 
@@ -240,10 +245,10 @@ LCCC.RunAfterInitialLoadscreen(function (this: void): undefined {
     }
 
     if (newCharacter) {
-      INTERNAL.Msg(GetString(SI_LCK_SHARE_IMPORT_NEWCHARACTER))
+      INTERNAL.Msg(GetString(SI_TEMPER_CRAFTING_KNOWLEDGE_SHARE_IMPORT_NEWCHARACTER))
     }
 
-    INTERNAL.Msg(zo_strformat(SI_LCK_SHARE_IMPORT_TALLY, importedCount))
+    INTERNAL.Msg(zo_strformat(SI_TEMPER_CRAFTING_KNOWLEDGE_SHARE_IMPORT_TALLY, importedCount))
     INTERNAL.shareText = ""
   })
 })

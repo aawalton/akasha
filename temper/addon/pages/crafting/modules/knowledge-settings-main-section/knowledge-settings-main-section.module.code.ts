@@ -54,7 +54,7 @@ INTERNAL.SettingsBuildMainSection = function (this: void): unknown[] {
       1,
       4,
       function (this: void, idx: number): string {
-        return GetString("SI_LCK_SETTINGS_TRACKING", idx)
+        return GetString("SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_TRACKING", idx)
       }
     )
     asOptionSet(options["tracking"]).values = values
@@ -94,7 +94,7 @@ INTERNAL.SettingsBuildMainSection = function (this: void): unknown[] {
   const controls: unknown[] = [
     {
       type: "header",
-      name: SI_LCK_SETTINGS_MAIN_SECTION,
+      name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_MAIN_SECTION,
     },
     {
       type: "submenu",
@@ -102,7 +102,7 @@ INTERNAL.SettingsBuildMainSection = function (this: void): unknown[] {
       controls: [
         {
           type: "description",
-          text: SI_LCK_SETTINGS_SYSTEM_DEFAULTS,
+          text: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SYSTEM_DEFAULTS,
         },
         ...INTERNAL.SettingsBuildControlCluster(optionsND),
       ],
@@ -131,7 +131,7 @@ INTERNAL.SettingsBuildMainSection = function (this: void): unknown[] {
         text: function (this: void): string {
           return INTERNAL.SettingsRankingsGetList(server)
         },
-        title: SI_LCK_SETTINGS_RANKING_PREVIEW,
+        title: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_RANKING_PREVIEW,
       },
       {
         type: "submenu",
@@ -141,7 +141,7 @@ INTERNAL.SettingsBuildMainSection = function (this: void): unknown[] {
         controls: [
           {
             type: "description",
-            text: SI_LCK_SETTINGS_SERVER_DEFAULTS,
+            text: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SERVER_DEFAULTS,
           },
           ...INTERNAL.SettingsBuildControlCluster(options, server),
         ],
@@ -158,7 +158,7 @@ INTERNAL.SettingsBuildMainSection = function (this: void): unknown[] {
           controls: [
             {
               type: "description",
-              text: SI_LCK_SETTINGS_ACCOUNT_DEFAULTS,
+              text: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_ACCOUNT_DEFAULTS,
             },
             ...INTERNAL.SettingsBuildControlCluster(options, server, account),
           ],

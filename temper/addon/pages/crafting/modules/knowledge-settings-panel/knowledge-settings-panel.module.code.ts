@@ -43,7 +43,7 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
     const controls: unknown[] = [
       {
         type: "description",
-        text: SI_LCK_SETTINGS_CHATCOMMAND,
+        text: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_CHATCOMMAND,
       },
       ...INTERNAL.SettingsBuildMainSection(),
     ]
@@ -52,11 +52,11 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
       LCCC.ConcatTables(controls, [
         {
           type: "header",
-          name: SI_LCK_SETTINGS_SHARE_SECTION,
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_SECTION,
         },
         {
           type: "editbox",
-          name: SI_LCK_SETTINGS_SHARE_CAPTION,
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_CAPTION,
           getFunc: function (this: void): string {
             return asShareText(INTERNAL.shareText)
           },
@@ -71,29 +71,29 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
         },
         {
           type: "button",
-          name: SI_LCK_SETTINGS_SHARE_EXPORTC,
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTC,
           func: INTERNAL.ExportCurrent,
-          tooltip: SI_LCK_SETTINGS_SHARE_EXPORTCT,
+          tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTCT,
           width: "half",
         },
         {
           type: "button",
-          name: SI_LCK_SETTINGS_SHARE_IMPORT,
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_IMPORT,
           func: INTERNAL.Import,
           width: "half",
         },
         {
           type: "button",
-          name: SI_LCK_SETTINGS_SHARE_EXPORTA,
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTA,
           func: function (this: void): undefined {
             INTERNAL.ExportMultiple(true)
           },
-          tooltip: SI_LCK_SETTINGS_SHARE_EXPORTAT,
+          tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTAT,
           width: "half",
         },
         {
           type: "button",
-          name: SI_LCK_SETTINGS_SHARE_CLEAR,
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_CLEAR,
           func: function (this: void): undefined {
             INTERNAL.shareText = ""
           },
@@ -105,7 +105,7 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
           func: function (this: void): undefined {
             INTERNAL.ExportMultiple(false)
           },
-          tooltip: SI_LCK_SETTINGS_SHARE_EXPORTST,
+          tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_SHARE_EXPORTST,
           width: "half",
           disabled: function (this: void): boolean {
             return INTERNAL.CountExportSelection() === 0
@@ -115,7 +115,7 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
 
         {
           type: "header",
-          name: SI_LCK_SETTINGS_RESET_SECTION,
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_RESET_SECTION,
         },
         {
           type: "custom",
@@ -128,19 +128,19 @@ INTERNAL.RegisterSettingsPanel = function (this: void): undefined {
             asGlobalTable(globalThis).LibCharacterKnowledgeData = asResetVars({})
             ReloadUI()
           },
-          tooltip: SI_LCK_SETTINGS_RESET_WARNING,
+          tooltip: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_RESET_WARNING,
           width: "half",
           isDangerous: true,
-          warning: SI_LCK_SETTINGS_RESET_WARNING,
+          warning: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_RESET_WARNING,
         },
 
         {
           type: "header",
-          name: SI_LCK_SETTINGS_NOSAVE_SECTION,
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_NOSAVE_SECTION,
         },
         {
           type: "editbox",
-          name: SI_LCK_SETTINGS_NOSAVE_CAPTION,
+          name: SI_TEMPER_CRAFTING_KNOWLEDGE_SETTINGS_NOSAVE_CAPTION,
           getFunc: function (this: void): string {
             const accounts: string[] = []
             if (INTERNAL.vars.noSave !== undefined) {
