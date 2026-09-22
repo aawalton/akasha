@@ -164,9 +164,21 @@ async function judgingAt(at: string): Promise<Judging | null> {
   }
 }
 
+export function ranIn(given: unknown): Ran | null {
+  if (given === null || typeof given !== "object" || Array.isArray(given)) return null
+  const held = given as Record<string, unknown>
+  const code = held["code"]
+  const out = held["out"]
+  const err = held["err"]
+  if (typeof code !== "number" || typeof out !== "string" || typeof err !== "string") return null
+  return { code, out, err }
+}
+
 async function judgedBy(judging: Judging, payload: Record<string, unknown>): Promise<Ran> {
   try {
-    return await judging(payload)
+    const given = ranIn(await judging(payload))
+    if (given !== null) return given
+    return { code: UNREADABLE, out: "", err: `${HOOK}: the judgement answered no exit` }
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return { code: UNREADABLE, out: "", err: why }
