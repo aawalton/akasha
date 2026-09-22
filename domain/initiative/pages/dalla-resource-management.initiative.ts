@@ -15,7 +15,7 @@ export const dallaResourceManagement = {
     {
       statement: "Every audit collects the files that audit judges rather than listing the tree.",
       workingMemory:
-        "A body comes only from the commit, and a file no commit holds is a name an audit sees and no body it reads. `everyFileInside` adds back 16,467 gitignored `.uncommitted.` entry and log files totalling 16.8 GB, against the 858 MB the commit holds. Seven audits reach for them, wanting existence rather than contents: `page-property-has-its-file`, `folder-matches-a-shape`, `no-unused-exports`, `no-unused-modules`, `restatement-narrows-something`, `no-page-address-spelled`.\n",
+        "In a pod the tree is a fresh clone at the commit, so the 16,467 gitignored `.uncommitted.` files are not there and every file present has a body. What is left is repetition: each of 64 audits runs the same two `git ls-files` passes, 0.87s apiece, about 56s a round discovering the same 164,434 files. `ls-tree -r` answers 368,138 paths in 0.20s, and `rg --files` globbed to the page types a check carries answered 726 paths in 0.135s against 0.482s over everything.\n",
     },
     {
       statement: "Every check an agent runs has a memory ceiling of its own.",
