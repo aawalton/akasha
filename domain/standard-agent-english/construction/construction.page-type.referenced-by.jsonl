@@ -7,6 +7,8 @@
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-group-with-an-adjective.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-run-alone.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts"}
+{"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-past-participle-and-a-preposition-phrase.construction.ts"}
+{"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-past-participle.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-preposition-phrase.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/noun-with-a-noun-run.construction.ts"}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/possessive-noun-run-with-a-determiner.construction.ts"}

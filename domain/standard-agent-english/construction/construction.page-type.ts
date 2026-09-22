@@ -28,6 +28,8 @@ export const construction = {
     "construction/free-relative-pronoun-with-a-clause",
     "construction/possessive-noun-run",
     "construction/possessive-noun-run-with-a-determiner",
+    "construction/noun-run-with-a-past-participle",
+    "construction/noun-run-with-a-past-participle-and-a-preposition-phrase",
   ],
   extends: ["page-type/domain"],
   properties: [
