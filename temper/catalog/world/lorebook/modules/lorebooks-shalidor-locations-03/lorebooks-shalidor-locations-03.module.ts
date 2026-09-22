@@ -5,7 +5,7 @@ export const lorebooksShalidorLocations03 = {
   type: "page-type/module",
   slug: "lorebooks-shalidor-locations-03",
   definition:
-    "one run of the Shalidor's Library location table, in the order the whole table names it",
+    "a run of the Shalidor's Library location table, in the order the whole table names it",
   code: "ts",
   decisions: [
     {
