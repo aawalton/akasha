@@ -4,6 +4,7 @@ import {
   claiming,
   edging,
   founded,
+  tracked,
   typed,
   wrote,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
@@ -45,7 +46,7 @@ function rooted(at: string): string {
 test("an audit refuses every property page the index files outside its page's folder", () => {
   const root = rooted(APART)
   edging(root, HELD, PARTS, OWNER, OWNER_AT)
-  const said = propertySitsUnderThePageItIsAPartOf(root)
+  const said = propertySitsUnderThePageItIsAPartOf(tracked(root))
 
   expect(said.map((one) => one.path)).toEqual([APART])
   expect(said[0]?.reason).toContain("`akasha/one/properties`")
@@ -55,11 +56,11 @@ test("an audit lets through a property page beside the page naming it a part", (
   const root = rooted(BESIDE)
   edging(root, HELD, PARTS, OWNER, OWNER_AT)
 
-  expect(propertySitsUnderThePageItIsAPartOf(root)).toEqual([])
+  expect(propertySitsUnderThePageItIsAPartOf(tracked(root))).toEqual([])
 })
 
 test("an audit passes over a property page no page names a part", () => {
   const root = rooted(APART)
 
-  expect(propertySitsUnderThePageItIsAPartOf(root)).toEqual([])
+  expect(propertySitsUnderThePageItIsAPartOf(tracked(root))).toEqual([])
 })

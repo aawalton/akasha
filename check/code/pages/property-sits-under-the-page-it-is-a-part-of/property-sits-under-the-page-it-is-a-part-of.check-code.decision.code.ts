@@ -1,7 +1,7 @@
 import { dirname } from "node:path"
 import { namersOf } from "akasha/check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.code.ts"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { filedById, type Known } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 export const PROPERTY = "page-property"
 
@@ -27,9 +27,9 @@ function reasonFor(shown: string, sits: string, wanted: string, owner: string): 
 
 export type Judging = (id: string, shown: string, path: string) => string | null
 
-export function judgingBy(shadow: Shadow, known: Known): Judging {
+export function judgingBy(paged: Paged, known: Known): Judging {
   return (id, shown, path) => {
-    const namers = namersOf(shadow, id)
+    const namers = namersOf(paged, id)
     if (namers.length !== ONE) return null
     const first = namers[0]
     if (first === undefined) return null
