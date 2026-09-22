@@ -7,5 +7,5 @@ export const namedEventsChronological = {
   title: "Chronological",
   pageType: "page-type/named-event",
   viewPlace: 0,
-  viewSorts: [{ key: "evidence-beat", descending: false }],
+  viewSorts: [{ key: "first-chapter", descending: false }],
 } as const satisfies View
