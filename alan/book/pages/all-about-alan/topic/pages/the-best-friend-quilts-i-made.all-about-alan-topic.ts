@@ -12,5 +12,5 @@ export const theBestFriendQuiltsIMade = {
     "all-about-alan-topic/everyone-standing-at-the-same-distance",
   ],
   settled:
-    "Quilting was never graded. Nobody held a standard over a quilt of mine that I could not read.\n\nThere is some pain there all the same. I made my two closest friends best friend quilts, each one featuring the other, because they were best friends with each other.\n\nThey were only friend level with me, and they were my best friends. The asymmetry hurt, so there is some associated pain.",
+    "Quilting was never graded. Nobody held a standard over a quilt of mine that I could not read.\n\nThere is some pain there all the same. I made my two closest friends best friend quilts, each one featuring the other, because they were best friends with each other.\n\nThey were only friend level with me, and they were my best friends. The asymmetry hurt, so there is some associated pain.\n\nThat pain is a scar, and it came later rather than at the sewing. It attached when I left on my mission and we lost even the friend level of connection.",
 } as const satisfies AllAboutAlanTopic
