@@ -6,6 +6,7 @@ export const mavika = {
   slug: "mavika",
   title: "Mavika",
   world: "world/the-wandering-inn",
+  appearanceCount: 10,
   firstChapter: 350,
   lastChapter: 611,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const masterIert = {
   slug: "master-iert",
   title: "Iert",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 682,
   lastChapter: 682,
   characterClaims: "jsonl",

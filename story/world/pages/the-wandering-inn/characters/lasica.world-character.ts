@@ -6,6 +6,7 @@ export const lasica = {
   slug: "lasica",
   title: "Lasica",
   world: "world/the-wandering-inn",
+  appearanceCount: 11,
   firstChapter: 320,
   lastChapter: 644,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const marian = {
   slug: "marian",
   title: "Marian",
   world: "world/the-wandering-inn",
+  appearanceCount: 10,
   firstChapter: 60,
   lastChapter: 575,
   characterClaims: "jsonl",

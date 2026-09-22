@@ -6,6 +6,7 @@ export const klbkchTheSlayer = {
   slug: "klbkch-the-slayer",
   title: "Klbkch",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 113,
   lastChapter: 113,
   characterClaims: "jsonl",

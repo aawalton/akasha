@@ -6,6 +6,7 @@ export const khorpe = {
   slug: "khorpe",
   title: "Major Khorpe",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 662,
   lastChapter: 681,
   characterClaims: "jsonl",

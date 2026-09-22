@@ -6,6 +6,7 @@ export const masterPelt = {
   slug: "master-pelt",
   title: "Master Pelt",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 788,
   lastChapter: 788,
   characterClaims: "jsonl",

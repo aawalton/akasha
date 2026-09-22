@@ -6,6 +6,7 @@ export const kasigna = {
   slug: "kasigna",
   title: "the three women in one",
   world: "world/the-wandering-inn",
+  appearanceCount: 17,
   firstChapter: 495,
   lastChapter: 758,
   characterClaims: "jsonl",

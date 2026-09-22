@@ -6,6 +6,7 @@ export const karsaeuDequoa = {
   slug: "karsaeu-dequoa",
   title: "Karsaeu-Dequoa",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 443,
   lastChapter: 443,
   characterClaims: "jsonl",

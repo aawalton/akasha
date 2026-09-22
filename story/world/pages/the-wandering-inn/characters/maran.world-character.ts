@@ -6,6 +6,7 @@ export const maran = {
   slug: "maran",
   title: "Maran",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 189,
   lastChapter: 192,
   characterClaims: "jsonl",

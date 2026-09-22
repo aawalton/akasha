@@ -6,6 +6,7 @@ export const lasc = {
   slug: "lasc",
   title: "Captain Lasc",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 404,
   lastChapter: 404,
   characterClaims: "jsonl",

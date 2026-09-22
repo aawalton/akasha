@@ -6,6 +6,7 @@ export const jaganismetHeroph = {
   slug: "jaganismet-heroph",
   title: "Jaganismet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 704,
   lastChapter: 704,
   characterClaims: "jsonl",

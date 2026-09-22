@@ -6,6 +6,7 @@ export const knightCommanderCalirn = {
   slug: "knight-commander-calirn",
   title: "Calirn",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 360,
   lastChapter: 490,
   characterClaims: "jsonl",

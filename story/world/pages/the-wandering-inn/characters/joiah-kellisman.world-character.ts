@@ -6,6 +6,7 @@ export const joiahKellisman = {
   slug: "joiah-kellisman",
   title: "Joiah Kellisman",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 283,
   lastChapter: 283,
   characterClaims: "jsonl",

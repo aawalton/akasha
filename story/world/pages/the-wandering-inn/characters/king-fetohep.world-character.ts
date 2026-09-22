@@ -6,6 +6,7 @@ export const kingFetohep = {
   slug: "king-fetohep",
   title: "King Fetohep",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 369,
   lastChapter: 652,
   characterClaims: "jsonl",

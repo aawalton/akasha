@@ -6,6 +6,7 @@ export const larracel = {
   slug: "larracel",
   title: "Larracel Delais",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 770,
   lastChapter: 772,
   characterClaims: "jsonl",

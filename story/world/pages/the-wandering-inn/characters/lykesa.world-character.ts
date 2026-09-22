@@ -6,6 +6,7 @@ export const lykesa = {
   slug: "lykesa",
   title: "Lykesa",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 400,
   lastChapter: 400,
   characterClaims: "jsonl",

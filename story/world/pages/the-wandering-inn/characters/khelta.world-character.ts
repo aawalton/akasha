@@ -6,6 +6,7 @@ export const khelta = {
   slug: "khelta",
   title: "Khelta",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 577,
   lastChapter: 589,
   characterClaims: "jsonl",

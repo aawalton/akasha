@@ -6,6 +6,7 @@ export const makhir = {
   slug: "makhir",
   title: "Makhir",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 345,
   lastChapter: 663,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const meisa = {
   slug: "meisa",
   title: "Dame Meisa",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 608,
   lastChapter: 648,
   characterClaims: "jsonl",

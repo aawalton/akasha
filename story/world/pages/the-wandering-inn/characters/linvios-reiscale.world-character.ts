@@ -6,6 +6,7 @@ export const linviosReiscale = {
   slug: "linvios-reiscale",
   title: "Linvios Reiscale",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 662,
   lastChapter: 662,
   characterClaims: "jsonl",

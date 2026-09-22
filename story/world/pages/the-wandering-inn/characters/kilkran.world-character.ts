@@ -6,6 +6,7 @@ export const kilkran = {
   slug: "kilkran",
   title: "Kilkran",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 382,
   lastChapter: 382,
   characterClaims: "jsonl",

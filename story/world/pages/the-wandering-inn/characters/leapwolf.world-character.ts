@@ -6,6 +6,7 @@ export const leapwolf = {
   slug: "leapwolf",
   title: "Leapwolf",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 409,
   lastChapter: 752,
   characterClaims: "jsonl",

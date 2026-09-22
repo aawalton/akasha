@@ -6,6 +6,7 @@ export const lenxiol = {
   slug: "lenxiol",
   title: "Lenxiol",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 797,
   lastChapter: 798,
   characterClaims: "jsonl",

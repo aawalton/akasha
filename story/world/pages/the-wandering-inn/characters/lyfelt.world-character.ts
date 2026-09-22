@@ -6,6 +6,7 @@ export const lyfelt = {
   slug: "lyfelt",
   title: "Lyfelt",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 326,
   lastChapter: 492,
   characterClaims: "jsonl",

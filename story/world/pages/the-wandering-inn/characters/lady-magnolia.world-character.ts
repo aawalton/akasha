@@ -6,6 +6,7 @@ export const ladyMagnolia = {
   slug: "lady-magnolia",
   title: "Lady Magnolia Reinhart",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 43,
   lastChapter: 205,
   characterClaims: "jsonl",

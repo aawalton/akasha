@@ -6,6 +6,7 @@ export const kirne = {
   slug: "kirne",
   title: "Kirne",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 565,
   lastChapter: 565,
   characterClaims: "jsonl",

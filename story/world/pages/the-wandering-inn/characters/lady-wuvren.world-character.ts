@@ -6,6 +6,7 @@ export const ladyWuvren = {
   slug: "lady-wuvren",
   title: "Wuvren",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 338,
   lastChapter: 416,
   characterClaims: "jsonl",

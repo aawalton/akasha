@@ -6,6 +6,7 @@ export const krshia = {
   slug: "krshia",
   title: "Krshia",
   world: "world/the-wandering-inn",
+  appearanceCount: 50,
   firstChapter: 20,
   lastChapter: 821,
   characterClaims: "jsonl",

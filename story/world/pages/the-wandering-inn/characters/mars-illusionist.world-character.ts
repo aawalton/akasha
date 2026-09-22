@@ -6,6 +6,7 @@ export const marsIllusionist = {
   slug: "mars-illusionist",
   title: "Mars",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 323,
   lastChapter: 704,
   characterClaims: "jsonl",

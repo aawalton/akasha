@@ -6,6 +6,7 @@ export const magnoliaReinhart = {
   slug: "magnolia-reinhart",
   title: "Magnolia Reinhart",
   world: "world/the-wandering-inn",
+  appearanceCount: 65,
   maxLevel: 57,
   eventCount: 3,
   firstChapter: 21,

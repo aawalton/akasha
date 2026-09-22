@@ -6,6 +6,7 @@ export const maresar = {
   slug: "maresar",
   title: "Maresar",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 179,
   lastChapter: 558,
   characterClaims: "jsonl",

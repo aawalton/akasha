@@ -6,6 +6,7 @@ export const loranGrimnar = {
   slug: "loran-grimnar",
   title: "Loran Grimnar",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 67,
   lastChapter: 111,
   characterClaims: "jsonl",

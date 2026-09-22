@@ -6,6 +6,7 @@ export const lastimeth = {
   slug: "lastimeth",
   title: "Lastimeth",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 703,
   lastChapter: 807,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const ladyRie = {
   slug: "lady-rie",
   title: "Rie Valerund",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 221,
   lastChapter: 463,
   characterClaims: "jsonl",

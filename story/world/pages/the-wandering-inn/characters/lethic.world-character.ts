@@ -6,6 +6,7 @@ export const lethic = {
   slug: "lethic",
   title: "Lethic",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 196,
   lastChapter: 196,
   characterClaims: "jsonl",

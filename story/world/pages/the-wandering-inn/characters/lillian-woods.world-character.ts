@@ -6,6 +6,7 @@ export const lillianWoods = {
   slug: "lillian-woods",
   title: "Lillian Woods",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 422,
   lastChapter: 422,
   characterClaims: "jsonl",

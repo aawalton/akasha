@@ -6,6 +6,7 @@ export const kingPerric = {
   slug: "king-perric",
   title: "Perric",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 712,
   lastChapter: 712,
   characterClaims: "jsonl",

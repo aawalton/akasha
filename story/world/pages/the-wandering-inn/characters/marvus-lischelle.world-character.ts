@@ -6,6 +6,7 @@ export const marvusLischelle = {
   slug: "marvus-lischelle",
   title: "Marvus Lischelle",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 819,
   lastChapter: 819,
   characterClaims: "jsonl",

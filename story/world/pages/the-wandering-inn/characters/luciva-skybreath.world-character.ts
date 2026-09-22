@@ -6,6 +6,7 @@ export const lucivaSkybreath = {
   slug: "luciva-skybreath",
   title: "Luciva Skybreath",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 345,
   lastChapter: 391,
   characterClaims: "jsonl",

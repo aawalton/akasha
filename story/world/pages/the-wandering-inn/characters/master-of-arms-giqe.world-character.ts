@@ -6,6 +6,7 @@ export const masterOfArmsGiqe = {
   slug: "master-of-arms-giqe",
   title: "Giqe",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 646,
   lastChapter: 646,
   characterClaims: "jsonl",

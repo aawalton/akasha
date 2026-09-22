@@ -6,6 +6,7 @@ export const lorent = {
   slug: "lorent",
   title: "the armed shopkeeper",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 320,
   lastChapter: 320,
   characterClaims: "jsonl",

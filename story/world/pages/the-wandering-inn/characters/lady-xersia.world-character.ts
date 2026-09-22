@@ -6,6 +6,7 @@ export const ladyXersia = {
   slug: "lady-xersia",
   title: "Lady Xersia",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 217,
   lastChapter: 217,
   characterClaims: "jsonl",

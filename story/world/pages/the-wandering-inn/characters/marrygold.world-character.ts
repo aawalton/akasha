@@ -6,6 +6,7 @@ export const marrygold = {
   slug: "marrygold",
   title: "Marrygold",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 822,
   lastChapter: 822,
   characterClaims: "jsonl",

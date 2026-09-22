@@ -6,6 +6,7 @@ export const jasi = {
   slug: "jasi",
   title: "Jasi",
   world: "world/the-wandering-inn",
+  appearanceCount: 8,
   maxLevel: 25,
   eventCount: 4,
   firstChapter: 141,

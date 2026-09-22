@@ -6,6 +6,7 @@ export const matha = {
   slug: "matha",
   title: "Matha",
   world: "world/the-wandering-inn",
+  appearanceCount: 5,
   firstChapter: 767,
   lastChapter: 805,
   characterClaims: "jsonl",

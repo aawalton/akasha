@@ -6,6 +6,7 @@ export const klbkchhezeimSlayer = {
   slug: "klbkchhezeim-slayer",
   title: "Klbkchhezeim",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 464,
   lastChapter: 464,
   characterClaims: "jsonl",

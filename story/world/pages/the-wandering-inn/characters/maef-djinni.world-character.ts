@@ -6,6 +6,7 @@ export const maefDjinni = {
   slug: "maef-djinni",
   title: "Maef",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 694,
   lastChapter: 694,
   characterClaims: "jsonl",

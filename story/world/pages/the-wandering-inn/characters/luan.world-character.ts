@@ -6,6 +6,7 @@ export const luan = {
   slug: "luan",
   title: "Luan",
   world: "world/the-wandering-inn",
+  appearanceCount: 10,
   firstChapter: 196,
   lastChapter: 695,
   characterClaims: "jsonl",

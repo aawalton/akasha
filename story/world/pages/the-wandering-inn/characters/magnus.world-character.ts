@@ -6,6 +6,7 @@ export const magnus = {
   slug: "magnus",
   title: "Magnus",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 64,
   lastChapter: 64,
   characterClaims: "jsonl",

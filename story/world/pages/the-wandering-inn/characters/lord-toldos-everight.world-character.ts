@@ -6,6 +6,7 @@ export const lordToldosEveright = {
   slug: "lord-toldos-everight",
   title: "Lord Toldos Everight",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 472,
   lastChapter: 472,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const jewelOfGlitterblade = {
   slug: "jewel-of-glitterblade",
   title: "Jewel of Glitterblade",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 641,
   lastChapter: 641,
   characterClaims: "jsonl",

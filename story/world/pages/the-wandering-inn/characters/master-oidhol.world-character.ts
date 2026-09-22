@@ -6,6 +6,7 @@ export const masterOidhol = {
   slug: "master-oidhol",
   title: "Master Oidhol",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 824,
   lastChapter: 824,
   characterClaims: "jsonl",

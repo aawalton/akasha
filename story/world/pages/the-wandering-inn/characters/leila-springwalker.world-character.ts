@@ -6,6 +6,7 @@ export const leilaSpringwalker = {
   slug: "leila-springwalker",
   title: "Leila Springwalker",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 710,
   lastChapter: 710,
   characterClaims: "jsonl",

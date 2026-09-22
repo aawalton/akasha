@@ -6,6 +6,7 @@ export const mefaa = {
   slug: "mefaa",
   title: "Mefaa",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 398,
   lastChapter: 398,
   characterClaims: "jsonl",

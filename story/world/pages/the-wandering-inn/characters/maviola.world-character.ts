@@ -6,6 +6,7 @@ export const maviola = {
   slug: "maviola",
   title: "Maviola",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 419,
   lastChapter: 770,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const khedal = {
   slug: "khedal",
   title: "Prince Khedal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 594,
   lastChapter: 594,
   characterClaims: "jsonl",

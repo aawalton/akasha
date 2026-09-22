@@ -6,6 +6,7 @@ export const ladyTheras = {
   slug: "lady-theras",
   title: "Theras",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 215,
   lastChapter: 217,
   characterClaims: "jsonl",

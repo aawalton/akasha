@@ -6,6 +6,7 @@ export const kerash = {
   slug: "kerash",
   title: "Kerash",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 102,
   lastChapter: 412,
   characterClaims: "jsonl",

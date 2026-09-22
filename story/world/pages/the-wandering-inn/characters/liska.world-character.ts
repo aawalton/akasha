@@ -6,6 +6,7 @@ export const liska = {
   slug: "liska",
   title: "Liska",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   maxLevel: 34,
   eventCount: 7,
   firstChapter: 610,

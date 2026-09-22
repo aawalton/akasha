@@ -6,6 +6,7 @@ export const majorHotwing = {
   slug: "major-hotwing",
   title: "Major Hotwing",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 754,
   lastChapter: 754,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const izikere = {
   slug: "izikere",
   title: "Izikere the Guardian",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 594,
   lastChapter: 810,
   characterClaims: "jsonl",

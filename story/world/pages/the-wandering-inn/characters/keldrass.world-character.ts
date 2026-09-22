@@ -6,6 +6,7 @@ export const keldrass = {
   slug: "keldrass",
   title: "Keldrass",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 289,
   lastChapter: 364,
   characterClaims: "jsonl",

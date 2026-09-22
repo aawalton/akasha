@@ -6,6 +6,7 @@ export const jurix = {
   slug: "jurix",
   title: "Jurix",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 162,
   lastChapter: 163,
   characterClaims: "jsonl",

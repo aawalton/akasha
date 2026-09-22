@@ -6,6 +6,7 @@ export const lyonetteDuMarquin = {
   slug: "lyonette-du-marquin",
   title: "Lyonette du Marquin",
   world: "world/the-wandering-inn",
+  appearanceCount: 26,
   maxLevel: 38,
   eventCount: 19,
   firstChapter: 115,

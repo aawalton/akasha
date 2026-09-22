@@ -6,6 +6,7 @@ export const lordBeinTerland = {
   slug: "lord-bein-terland",
   title: "Lord Bein Terland",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 416,
   lastChapter: 416,
   characterClaims: "jsonl",

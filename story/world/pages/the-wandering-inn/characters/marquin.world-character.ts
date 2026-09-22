@@ -6,6 +6,7 @@ export const marquin = {
   slug: "marquin",
   title: "Marquin",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 569,
   lastChapter: 582,
   characterClaims: "jsonl",

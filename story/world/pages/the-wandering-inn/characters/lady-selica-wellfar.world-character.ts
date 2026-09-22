@@ -6,6 +6,7 @@ export const ladySelicaWellfar = {
   slug: "lady-selica-wellfar",
   title: "Selica",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 646,
   lastChapter: 646,
   characterClaims: "jsonl",

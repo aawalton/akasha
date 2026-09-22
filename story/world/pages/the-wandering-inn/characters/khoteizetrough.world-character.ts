@@ -6,6 +6,7 @@ export const khoteizetrough = {
   slug: "khoteizetrough",
   title: "Khoteizetrough",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 584,
   lastChapter: 584,
   characterClaims: "jsonl",

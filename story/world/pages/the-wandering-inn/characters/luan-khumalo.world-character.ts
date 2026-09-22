@@ -6,6 +6,7 @@ export const luanKhumalo = {
   slug: "luan-khumalo",
   title: "Luan Khumalo",
   world: "world/the-wandering-inn",
+  appearanceCount: 10,
   maxLevel: 14,
   eventCount: 10,
   firstChapter: 195,

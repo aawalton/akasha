@@ -6,6 +6,7 @@ export const lamont = {
   slug: "lamont",
   title: "Lamont",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 311,
   lastChapter: 591,
   characterClaims: "jsonl",

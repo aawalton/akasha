@@ -6,6 +6,7 @@ export const kenjiroMurata = {
   slug: "kenjiro-murata",
   title: "Kenjiro Murata",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   maxLevel: 4,
   eventCount: 5,
   firstChapter: 195,

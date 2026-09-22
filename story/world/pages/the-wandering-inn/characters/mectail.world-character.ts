@@ -6,6 +6,7 @@ export const mectail = {
   slug: "mectail",
   title: "Mectail",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 542,
   lastChapter: 797,
   characterClaims: "jsonl",

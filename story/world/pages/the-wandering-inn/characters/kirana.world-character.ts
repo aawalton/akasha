@@ -6,6 +6,7 @@ export const kirana = {
   slug: "kirana",
   title: "Kirana",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 316,
   lastChapter: 695,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const lekaThri = {
   slug: "leka-thri",
   title: "the warrior",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 541,
   lastChapter: 541,
   characterClaims: "jsonl",

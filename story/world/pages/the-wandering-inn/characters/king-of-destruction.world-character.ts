@@ -6,6 +6,7 @@ export const kingOfDestruction = {
   slug: "king-of-destruction",
   title: "Flos",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 207,
   lastChapter: 207,
   characterClaims: "jsonl",

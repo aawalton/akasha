@@ -6,6 +6,7 @@ export const kilmet = {
   slug: "kilmet",
   title: "Kilmet",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 291,
   lastChapter: 291,
   characterClaims: "jsonl",

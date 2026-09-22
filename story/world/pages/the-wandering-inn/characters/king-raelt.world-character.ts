@@ -6,6 +6,7 @@ export const kingRaelt = {
   slug: "king-raelt",
   title: "King Raelt",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 398,
   lastChapter: 400,
   characterClaims: "jsonl",

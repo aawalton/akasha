@@ -6,6 +6,7 @@ export const kingEvein = {
   slug: "king-evein",
   title: "Evein",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 712,
   lastChapter: 712,
   characterClaims: "jsonl",

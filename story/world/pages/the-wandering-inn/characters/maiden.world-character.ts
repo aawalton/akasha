@@ -6,6 +6,7 @@ export const maiden = {
   slug: "maiden",
   title: "The Maiden",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 758,
   lastChapter: 758,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const lordTyrion = {
   slug: "lord-tyrion",
   title: "Lord Tyrion",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 111,
   lastChapter: 250,
   characterClaims: "jsonl",

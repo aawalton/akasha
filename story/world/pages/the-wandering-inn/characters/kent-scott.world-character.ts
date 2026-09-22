@@ -6,6 +6,7 @@ export const kentScott = {
   slug: "kent-scott",
   title: "Kent Scott",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 67,
   lastChapter: 487,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const lureshGreenpaw = {
   slug: "luresh-greenpaw",
   title: "Luresh Greenpaw",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 624,
   lastChapter: 624,
   characterClaims: "jsonl",

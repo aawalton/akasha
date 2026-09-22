@@ -6,6 +6,7 @@ export const kenMurata = {
   slug: "ken-murata",
   title: "Ken",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   maxLevel: 4,
   eventCount: 4,
   firstChapter: 198,

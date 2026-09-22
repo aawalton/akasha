@@ -6,6 +6,7 @@ export const lyon = {
   slug: "lyon",
   title: "Lyon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 104,
   lastChapter: 104,
   characterClaims: "jsonl",

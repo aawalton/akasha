@@ -6,6 +6,7 @@ export const jelov = {
   slug: "jelov",
   title: "Jelov",
   world: "world/the-wandering-inn",
+  appearanceCount: 3,
   firstChapter: 203,
   lastChapter: 221,
   characterClaims: "jsonl",

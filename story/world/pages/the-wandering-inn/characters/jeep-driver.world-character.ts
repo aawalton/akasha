@@ -6,6 +6,7 @@ export const jeepDriver = {
   slug: "jeep-driver",
   title: "the Jeep Driver",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 756,
   lastChapter: 756,
   characterClaims: "jsonl",

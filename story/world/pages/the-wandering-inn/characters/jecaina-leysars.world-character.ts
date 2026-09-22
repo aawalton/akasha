@@ -6,6 +6,7 @@ export const jecainaLeysars = {
   slug: "jecaina-leysars",
   title: "Princess Jecaina Leysars",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 453,
   lastChapter: 453,
   characterClaims: "jsonl",

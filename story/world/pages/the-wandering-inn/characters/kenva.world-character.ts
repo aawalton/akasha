@@ -6,6 +6,7 @@ export const kenva = {
   slug: "kenva",
   title: "Kenva",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 641,
   lastChapter: 641,
   characterClaims: "jsonl",

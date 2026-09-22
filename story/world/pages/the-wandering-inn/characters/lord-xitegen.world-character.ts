@@ -6,6 +6,7 @@ export const lordXitegen = {
   slug: "lord-xitegen",
   title: "Lord Xitegen",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 756,
   lastChapter: 778,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const lyonetteDelSol = {
   slug: "lyonette-del-sol",
   title: "Lyonette del Sol",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 812,
   lastChapter: 812,
   characterClaims: "jsonl",

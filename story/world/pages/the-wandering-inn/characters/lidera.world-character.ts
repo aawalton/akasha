@@ -6,6 +6,7 @@ export const lidera = {
   slug: "lidera",
   title: "Lidera",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 685,
   lastChapter: 685,
   characterClaims: "jsonl",

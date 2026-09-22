@@ -6,6 +6,7 @@ export const jerad = {
   slug: "jerad",
   title: "Jerad Riels",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 119,
   lastChapter: 119,
   characterClaims: "jsonl",

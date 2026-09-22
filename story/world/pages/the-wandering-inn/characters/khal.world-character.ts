@@ -6,6 +6,7 @@ export const khal = {
   slug: "khal",
   title: "Brigadier General Khal",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 242,
   lastChapter: 242,
   characterClaims: "jsonl",

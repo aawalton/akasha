@@ -6,6 +6,7 @@ export const mageElementalist = {
   slug: "mage-elementalist",
   title: "the [Elementalist] mage",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 30,
   lastChapter: 30,
   characterClaims: "jsonl",

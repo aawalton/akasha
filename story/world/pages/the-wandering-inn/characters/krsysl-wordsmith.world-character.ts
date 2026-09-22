@@ -6,6 +6,7 @@ export const krsyslWordsmith = {
   slug: "krsysl-wordsmith",
   title: "Krsysl Wordsmith",
   world: "world/the-wandering-inn",
+  appearanceCount: 2,
   firstChapter: 112,
   lastChapter: 235,
   characterClaims: "jsonl",

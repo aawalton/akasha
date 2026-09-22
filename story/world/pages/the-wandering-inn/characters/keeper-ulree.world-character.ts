@@ -6,6 +6,7 @@ export const keeperUlree = {
   slug: "keeper-ulree",
   title: "Keeper Ulree",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 399,
   lastChapter: 399,
   characterClaims: "jsonl",

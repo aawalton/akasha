@@ -6,6 +6,7 @@ export const jelaquaIvirith = {
   slug: "jelaqua-ivirith",
   title: "Jelaqua Ivirith",
   world: "world/the-wandering-inn",
+  appearanceCount: 9,
   firstChapter: 153,
   lastChapter: 792,
   characterClaims: "jsonl",

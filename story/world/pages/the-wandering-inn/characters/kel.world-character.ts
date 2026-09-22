@@ -6,6 +6,7 @@ export const kel = {
   slug: "kel",
   title: "Kel",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 390,
   lastChapter: 390,
   characterClaims: "jsonl",

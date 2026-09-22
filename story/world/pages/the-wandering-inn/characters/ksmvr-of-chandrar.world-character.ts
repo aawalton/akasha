@@ -6,6 +6,7 @@ export const ksmvrOfChandrar = {
   slug: "ksmvr-of-chandrar",
   title: "Ksmvr of Chandrar",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 553,
   lastChapter: 553,
   characterClaims: "jsonl",

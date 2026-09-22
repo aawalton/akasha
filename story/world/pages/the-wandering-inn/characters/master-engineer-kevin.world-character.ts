@@ -6,6 +6,7 @@ export const masterEngineerKevin = {
   slug: "master-engineer-kevin",
   title: "Master Engineer Kevin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 756,
   lastChapter: 756,
   characterClaims: "jsonl",

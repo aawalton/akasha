@@ -6,6 +6,7 @@ export const lehraRuinstrider = {
   slug: "lehra-ruinstrider",
   title: "Lehra Ruinstrider",
   world: "world/the-wandering-inn",
+  appearanceCount: 6,
   firstChapter: 470,
   lastChapter: 586,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const maughin = {
   slug: "maughin",
   title: "Maughin",
   world: "world/the-wandering-inn",
+  appearanceCount: 13,
   maxLevel: 3,
   eventCount: 6,
   firstChapter: 320,

@@ -6,6 +6,7 @@ export const lism = {
   slug: "lism",
   title: "Lism",
   world: "world/the-wandering-inn",
+  appearanceCount: 16,
   firstChapter: 14,
   lastChapter: 821,
   characterClaims: "jsonl",

@@ -6,6 +6,7 @@ export const lewdquill = {
   slug: "lewdquill",
   title: "Lewdquill",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 804,
   lastChapter: 804,
   characterClaims: "jsonl",

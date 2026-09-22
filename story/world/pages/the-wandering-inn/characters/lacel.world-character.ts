@@ -6,6 +6,7 @@ export const lacel = {
   slug: "lacel",
   title: "Lacel the Leaper",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 413,
   lastChapter: 413,
   characterClaims: "jsonl",

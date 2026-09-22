@@ -6,6 +6,7 @@ export const kevinDeceased = {
   slug: "kevin-deceased",
   title: "Kevin",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 716,
   lastChapter: 716,
   characterClaims: "jsonl",

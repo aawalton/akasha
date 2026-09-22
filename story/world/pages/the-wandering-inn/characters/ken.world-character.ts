@@ -6,6 +6,7 @@ export const ken = {
   slug: "ken",
   title: "Kenjiro Murata",
   world: "world/the-wandering-inn",
+  appearanceCount: 4,
   firstChapter: 199,
   lastChapter: 695,
   characterClaims: "jsonl",

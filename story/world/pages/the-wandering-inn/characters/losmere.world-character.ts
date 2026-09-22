@@ -6,6 +6,7 @@ export const losmere = {
   slug: "losmere",
   title: "Losmere",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 823,
   lastChapter: 823,
   characterClaims: "jsonl",

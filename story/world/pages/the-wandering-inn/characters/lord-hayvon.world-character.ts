@@ -6,6 +6,7 @@ export const lordHayvon = {
   slug: "lord-hayvon",
   title: "Hayvon",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 437,
   lastChapter: 437,
   characterClaims: "jsonl",

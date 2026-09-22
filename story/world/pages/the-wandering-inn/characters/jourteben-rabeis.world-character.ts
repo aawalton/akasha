@@ -6,6 +6,7 @@ export const jourtebenRabeis = {
   slug: "jourteben-rabeis",
   title: "Jourteben Rabeis",
   world: "world/the-wandering-inn",
+  appearanceCount: 1,
   firstChapter: 823,
   lastChapter: 823,
   characterClaims: "jsonl",
