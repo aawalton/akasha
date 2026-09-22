@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"companion-skill-effect-components.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-skill-effect-components.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-skill-effect-components.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-skill-effect-components.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-skill-effect-components.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-skill-effect-components.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-baseline/companion-support-baseline.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-skill-effect-components.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-contributions/companion-support-contributions.module.code.ts"}

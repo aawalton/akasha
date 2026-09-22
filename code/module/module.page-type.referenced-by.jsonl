@@ -4804,6 +4804,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-skills-00/companion-skills-00.module.ts"}

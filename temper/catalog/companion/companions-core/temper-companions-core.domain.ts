@@ -93,6 +93,7 @@ export const temperCompanionsCore = {
     "module/rotation-types",
     "module/skill-lines-by-companion",
     "module/companion-skill-line-reading",
+    "module/companion-skill-reading",
   ],
   decisions: [
     {
