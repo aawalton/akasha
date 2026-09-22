@@ -10,7 +10,7 @@ export const awenEngineImprovements = {
     {
       statement: "A game is made of pages rather than rows holding whole documents.",
       workingMemory:
-        "Every game is imported: 45 entity, 24 location and 11 encounter pages, by `akasha game import --game <game>`, which leaves a page already filed as it is. Left: fill each encounter's gates from its prose; point the gm-context and resolution-mechanism at the pages; take entities, characters and tower-floors off the game page type; then states, turns and tower-sessions go, the log becomes a system-window record on the turn page and a session number lands there.\n",
+        "Every game's world is pages: 45 entity, 24 location, 11 encounter, by `akasha game import --game <game>`. The tower's encounters carry their gates; the gm-context and resolution-mechanism point at the pages; each game names the one its player runs; an entity carries the pools play spends. Left: the state. `states.jsonl` still holds the turn, the pools, the revealed sheet, the log, the chapters and the quests, and `played-shell` reads its last row.\n",
     },
   ],
 } as const satisfies Initiative
