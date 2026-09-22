@@ -20,28 +20,6 @@ export const theTowerCompanionAelwyn = {
     { attribute: "game-attribute/vitality", score: 17 },
     { attribute: "game-attribute/will", score: 15 },
   ],
-  traits: [
-    {
-      name: "Guardian",
-      effect:
-        "Can interpose for an ally — take a hit meant for Alan onto her far larger HP pool (168 vs his 70). The structural fix for his VIT 6 fragility.",
-    },
-    {
-      name: "Immovable",
-      effect:
-        "VITALITY 17 + WILL 15 — resists knockback, grapples, fear, and attrition. Hard to move, hard to break, hard to rattle.",
-    },
-    {
-      name: "Heavy Hitter",
-      effect:
-        "MIGHT 16, physAtk 36 — the party's reliable damage floor. Where Alan's 1d20 swings wild, Aelwyn's blows land steady and hard (2d10 bell).",
-    },
-    {
-      name: "Deep Wind",
-      effect:
-        "Stamina 92 — sustains long fights, sustained pushes, and carries. The party's stamina anchor for marches and prolonged combat.",
-    },
-  ],
   equipment: [{ name: "worn but sound brigandine", slot: "armor", defense: 3 }],
   dice: "game-mechanic/two-d-ten",
   unspentAttributePoints: 0,

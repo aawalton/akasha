@@ -6,7 +6,7 @@ export const entityClass = {
   slug: "entity-class",
   propertySlug: "class",
   definition: "what this one is called in the game's own rules, as its sheet shows it",
-  maxLength: 60,
+  maxLength: 120,
   nameFormat: null,
   decisions: [
     {
