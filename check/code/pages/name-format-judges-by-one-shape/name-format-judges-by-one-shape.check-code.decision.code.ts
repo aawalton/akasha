@@ -1,3 +1,4 @@
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
@@ -115,17 +116,23 @@ function untouchedBy(why: string, beside: string): string {
   )
 }
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const carried = new Set(change.changed)
-  const formatting = matchingIn(change.root, shadow.index, shadow.codeAt)
-  const named = shadow.index.listedAt(MODULE, MATCHING_SLUG)[0]
+export function refusalsIn(
+  root: string,
+  paged: Paged,
+  paths: readonly string[],
+  read: (path: string) => string | null,
+  codeAt: (path: string) => string | null = (path) => path
+): readonly Judged[] {
+  const carried = new Set(paths)
+  const formatting = matchingIn(root, paged.index, codeAt)
+  const named = paged.index.listedAt(MODULE, MATCHING_SLUG)[0]
   if (named === undefined) {
     throw new Error(`the index files no \`${MODULE}/${MATCHING_SLUG}\`, so no shape is findable`)
   }
   const matchingAt = besideAt(named.path, CODE, TS)
   if (matchingAt === null) throw new Error(`${named.path} has no code file beside it`)
   const found: Judged[] = []
-  for (const one of shadow.index.everyOfType(NAME_FORMAT)) {
+  for (const one of paged.index.everyOfType(NAME_FORMAT)) {
     const said = partedIn(one.path)
     const beside = besideAt(one.path, CODE, TS)
     if (said === null || beside === null) {
@@ -135,7 +142,7 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
       })
       continue
     }
-    const text = textIn(change, beside)
+    const text = read(beside)
     if (text === null) {
       found.push({
         path: one.path,
@@ -159,4 +166,14 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
     }
   }
   return found
+}
+
+export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+  return refusalsIn(
+    change.root,
+    shadow,
+    change.changed,
+    (path) => textIn(change, path),
+    shadow.codeAt
+  )
 }
