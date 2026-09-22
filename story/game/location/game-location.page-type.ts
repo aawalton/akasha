@@ -14,7 +14,6 @@ export const gameLocation = {
     { pageProperty: "relation-property/within-location", required: false, many: false },
     { pageProperty: "number-property/location-depth", required: false, many: false },
     { pageProperty: "text-property/location-theme", required: false, many: false },
-    { pageProperty: "text-property/location-description", required: false, many: false },
     { pageProperty: "text-property/location-exits", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/location-exhausted", required: false, many: false },
     {
@@ -55,7 +54,6 @@ export const gameLocation = {
     "relation-property/within-location",
     "number-property/location-depth",
     "text-property/location-theme",
-    "text-property/location-description",
     "text-property/location-exits",
     "boolean-property/location-exhausted",
     "record-property/location-conditions",
