@@ -4,7 +4,7 @@ import type { Phone } from "akasha/person/properties/phone.phone-number-property
 import type { AnchorImage } from "akasha/persona/properties/anchor-image.relation-property.types.ts"
 import type { Appearance } from "akasha/persona/properties/appearance.file-property.types.ts"
 import type { ChampionedDomain } from "akasha/persona/properties/championed-domain.relation-property.types.ts"
-import type { CoverImages } from "akasha/persona/properties/cover-images.relation-property.types.ts"
+import type { CoverImages } from "akasha/persona/properties/cover-images.multi-relation-property.types.ts"
 import type { DesktopWallpaper } from "akasha/persona/properties/desktop-wallpaper.relation-property.types.ts"
 import type { EmailAddress } from "akasha/persona/properties/email-address.email-address-property.types.ts"
 import type { History } from "akasha/persona/properties/history.text-property.types.ts"

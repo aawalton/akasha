@@ -1,8 +1,8 @@
-import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
 export const coverImages = {
   id: "01a0c5ea-6e76-73f6-b81b-71e1f401d9e4",
-  type: "page-type/relation-property",
+  type: "page-type/multi-relation-property",
   slug: "cover-images",
   propertySlug: "covers",
   definition: "the pictures a persona is shown by, each at a rung of closeness",
@@ -18,4 +18,4 @@ export const coverImages = {
     },
   ],
   types: "ts",
-} as const satisfies RelationProperty
+} as const satisfies MultiRelationProperty

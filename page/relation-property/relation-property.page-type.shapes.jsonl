@@ -36,7 +36,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-component","unique":null,"uniquePropertySlug":null,"slug":"component","propertySlug":"component","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-component","unique":null,"uniquePropertySlug":null,"slug":"components","propertySlug":"components","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-condition-field","unique":null,"uniquePropertySlug":null,"slug":"condition-field","propertySlug":"condition-field","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"cover-images","propertySlug":"covers","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"craft-day-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-inventory-currency","unique":null,"uniquePropertySlug":null,"slug":"currency-key","propertySlug":"currency-key","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"day","unique":null,"uniquePropertySlug":null,"slug":"day","propertySlug":"day","fileName":null,"folderName":null}

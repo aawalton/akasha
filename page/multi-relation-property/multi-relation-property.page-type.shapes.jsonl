@@ -1,3 +1,4 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-poison-effect","unique":null,"uniquePropertySlug":null,"slug":"alchemy-effects","propertySlug":"alchemy-effects","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"cover-images","propertySlug":"covers","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"extends-type","propertySlug":"extends","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"parts","propertySlug":"parts","fileName":null,"folderName":null}

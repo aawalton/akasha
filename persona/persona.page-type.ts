@@ -76,7 +76,7 @@ export const persona = {
     "persona/zeli",
     "relation-property/anchor-image",
     "relation-property/championed-domain",
-    "relation-property/cover-images",
+    "multi-relation-property/cover-images",
     "relation-property/desktop-wallpaper",
     "relation-property/mobile-wallpaper",
     "relation-property/origin",
@@ -139,7 +139,12 @@ export const persona = {
     { pageProperty: "relation-property/desktop-wallpaper", required: false, many: false },
     { pageProperty: "relation-property/mobile-wallpaper", required: false, many: false },
     { pageProperty: "relation-property/anchor-image", required: false, many: false },
-    { pageProperty: "relation-property/cover-images", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "multi-relation-property/cover-images",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     {
       pageProperty: "relation-property/wallpaper-images",
       required: false,
