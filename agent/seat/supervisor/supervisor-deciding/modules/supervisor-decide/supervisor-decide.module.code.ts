@@ -1,3 +1,5 @@
+import { decideRemoteControlBatch } from "akasha/agent/claude-code/remote-control/modules/decide/claude-code-remote-control-decide.module.code.ts"
+import { decideRcDegradedBatch } from "akasha/agent/claude-code/remote-control/modules/degraded-decide/claude-code-remote-control-degraded-decide.module.code.ts"
 import { decideClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-redelivery-decide/agent-message-supervisor-claimed-redelivery-decide.module.code.ts"
 import { notices } from "akasha/agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"
 import {
@@ -10,8 +12,6 @@ import {
   parseWaitResume,
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
 import { RULE_DECISIONS } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
-import { decideRemoteControlBatch } from "akasha/agent/seat/supervisor/supervisor-remote-control/modules/decide/supervisor-remote-control-decide.module.code.ts"
-import { decideRcDegradedBatch } from "akasha/agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
 import {
   planRestartNotice,
   type ResumeNotices,

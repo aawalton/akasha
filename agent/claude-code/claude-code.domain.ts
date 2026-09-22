@@ -6,5 +6,10 @@ export const claudeCode = {
   slug: "claude-code",
   definition: "an akasha agent's program",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Claude Code" }],
-  parts: ["domain/claude-code-session", "domain/claude-code-tool", "module/claude-launch-args"],
+  parts: [
+    "domain/claude-code-session",
+    "domain/claude-code-tool",
+    "module/claude-launch-args",
+    "domain/claude-code-remote-control",
+  ],
 } as const satisfies Domain

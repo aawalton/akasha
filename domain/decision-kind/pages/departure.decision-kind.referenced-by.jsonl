@@ -1,5 +1,10 @@
 {"propertySlug":"decision-kind","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts","id":"01a0695a-d2ea-7745-a7c8-079b5840aab1"}
+{"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/decide/claude-code-remote-control-decide.module.ts","id":"01a0686d-9d5e-7006-ba17-a047d0b1fdbc"}
+{"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/degraded-decide/claude-code-remote-control-degraded-decide.module.ts","id":"01a0686d-9d5e-7002-ae93-c2861807113f"}
+{"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/degraded-state/claude-code-remote-control-degraded-state.module.ts","id":"01a0686d-9d5e-7001-9ae5-1b049c3d76dc"}
+{"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/degraded-thresholds/claude-code-remote-control-degraded-thresholds.module.ts","id":"01a0686d-9d5e-7000-9ba6-012f0d13fc71"}
+{"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/env/claude-code-remote-control-env.module.ts","id":"01a06876-abda-700a-9970-c937e1deae9a"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/claude-code-session.domain.ts","id":"01a0c9aa-9160-7910-b58e-7182271d836f"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/event/claude-code-session-event.domain.ts","id":"01a0c9d8-4cc0-7474-8d6d-18890c44e6a5"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/modules/session-watch/session-watch.module.ts","id":"01a06983-278f-7765-a092-a4267cf79118"}
@@ -387,11 +392,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.ts","id":"01a0683e-3dbe-700a-81ce-5968abd14734"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.ts","id":"01a0683e-3dbe-7014-bf13-b392ad858c1e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.ts","id":"01a0683e-3dbe-7020-aab5-a279b45af99d"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-remote-control/modules/decide/supervisor-remote-control-decide.module.ts","id":"01a0686d-9d5e-7006-ba17-a047d0b1fdbc"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-remote-control/modules/env/supervisor-remote-control-env.module.ts","id":"01a06876-abda-700a-9970-c937e1deae9a"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.ts","id":"01a0686d-9d5e-7002-ae93-c2861807113f"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-state/supervisor-rc-degraded-state.module.ts","id":"01a0686d-9d5e-7001-9ae5-1b049c3d76dc"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.ts","id":"01a0686d-9d5e-7000-9ba6-012f0d13fc71"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.ts","id":"01a0683e-3dbe-701b-b09a-df583a1df918"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.ts","id":"01a0683e-3dbe-701c-bda1-241e26dc0af9"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.ts","id":"01a0683e-3dbe-701d-8d02-1a1db2476e25"}

@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"claude-code-remote-control-decide.module.code.ts","path":"agent/claude-code/remote-control/modules/decide/claude-code-remote-control-decide.module.test.ts"}
+{"propertySlug":"import","fileName":"claude-code-remote-control-decide.module.code.ts","path":"agent/claude-code/remote-control/modules/default/claude-code-remote-control-default.module.code.ts"}
+{"propertySlug":"import","fileName":"claude-code-remote-control-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"}
+{"propertySlug":"import","fileName":"claude-code-remote-control-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide/supervisor-decide.module.code.ts"}
+{"propertySlug":"parts","path":"agent/claude-code/remote-control/claude-code-remote-control.domain.ts","id":"01a09c78-e5b9-709e-bc75-2a6425da7d7b"}

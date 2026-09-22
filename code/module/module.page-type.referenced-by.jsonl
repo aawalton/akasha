@@ -41,6 +41,12 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/decide/claude-code-remote-control-decide.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/default/claude-code-remote-control-default.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/degraded-decide/claude-code-remote-control-degraded-decide.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/degraded-state/claude-code-remote-control-degraded-state.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/degraded-thresholds/claude-code-remote-control-degraded-thresholds.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/env/claude-code-remote-control-env.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl/session-jsonl.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.ts"}
@@ -365,12 +371,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor/supervisor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-remote-control/modules/decide/supervisor-remote-control-decide.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-remote-control/modules/default/supervisor-remote-control-default.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-remote-control/modules/env/supervisor-remote-control-env.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-state/supervisor-rc-degraded-state.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-remote-control/modules/supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.ts"}

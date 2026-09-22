@@ -15,7 +15,7 @@ export const seatSupervisor = {
     "domain/supervisor-loop",
     "domain/supervisor-process",
     "domain/supervisor-rebinding",
-    "domain/supervisor-remote-control",
+
     "domain/supervisor-restarting",
     "domain/supervisor-resuming",
     "domain/supervisor-shutdown",

@@ -1,8 +1,8 @@
+{"propertySlug":"import","fileName":"harness-settings-reading.module.code.ts","path":"agent/claude-code/remote-control/modules/env/claude-code-remote-control-env.module.code.ts"}
 {"propertySlug":"import","fileName":"harness-settings-reading.module.code.ts","path":"agent/modules/launch-flags/launch-flags.module.code.ts"}
 {"propertySlug":"import","fileName":"harness-settings-reading.module.code.ts","path":"agent/modules/tool-access/tool-access.module.code.ts"}
 {"propertySlug":"import","fileName":"harness-settings-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"}
 {"propertySlug":"import","fileName":"harness-settings-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"harness-settings-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.test.ts"}
 {"propertySlug":"import","fileName":"harness-settings-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"harness-settings-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-remote-control/modules/env/supervisor-remote-control-env.module.code.ts"}
 {"propertySlug":"parts","path":"agent/settings/agent-settings.page-type.ts","id":"01a0657b-ad3f-7ce8-99f8-04da79375570"}

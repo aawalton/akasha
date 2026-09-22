@@ -126,6 +126,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/modules/address/page-address.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/claude-code.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/remote-control/claude-code-remote-control.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/claude-code-session.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/event/claude-code-session-event.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/claude-code/session/state/claude-code-session-state.domain.ts"}
@@ -166,7 +167,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-loop/supervisor-loop.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-process/supervisor-process.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-rebinding/supervisor-rebinding.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-remote-control/supervisor-remote-control.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-restarting/supervisor-restarting.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-resuming/supervisor-resuming.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-shutdown/supervisor-shutdown.domain.ts"}
