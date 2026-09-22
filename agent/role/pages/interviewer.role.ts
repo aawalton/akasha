@@ -17,8 +17,11 @@ export const interviewer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A change during an interview is landed by a subagent rather than by a second seat.",
+      statement: "A change during an interview is landed by a recorder in a second seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The interviewer lands nothing during an interview.",
     },
     {
       decisionKind: "decision-kind/departure",
