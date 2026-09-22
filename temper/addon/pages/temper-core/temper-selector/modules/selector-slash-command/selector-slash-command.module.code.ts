@@ -76,7 +76,7 @@ export function registerSlashCommands(): undefined {
     }
   }
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/temperaddons",
     description: "Manage saved addon packs (load/list)",
     addon: "TemperHud",

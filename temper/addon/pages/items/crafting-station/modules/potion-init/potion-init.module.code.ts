@@ -109,7 +109,7 @@ export function initializeTemperPotions(this: void): undefined {
 
   SLASH_COMMANDS["/temperpotions"] = toggleTemperPotions
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/temperpotions",
     description: "Alchemy potion-maker window",
     addon: "TemperItems",

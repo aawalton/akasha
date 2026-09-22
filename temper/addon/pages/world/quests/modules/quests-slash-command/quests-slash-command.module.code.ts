@@ -11,12 +11,12 @@ export function registerSlashCommands(): undefined {
   SLASH_COMMANDS["/temperautoquest"] = toggleAutoQuest
   SLASH_COMMANDS["/temperautoquestdebug"] = toggleAutoQuestDebug
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/temperautoquest",
     description: "Toggle auto-quest on/off",
     addon: ADDON_NAME,
   })
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/temperautoquestdebug",
     description: "Toggle auto-quest debug logging",
     addon: ADDON_NAME,

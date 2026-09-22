@@ -48,7 +48,7 @@ export function resetSession(): undefined {
   }
   lastKnownNetWorth = sv.session.startNetWorth
   burst = EMPTY_BURST
-  globalThis.TemperHud?.refresh()
+  globalThis.Temper?.refresh()
 }
 
 export function reseedNetWorthBaseline(): undefined {
@@ -62,7 +62,7 @@ export function recomputeNetWorthAndUpdateHud(): undefined {
   const change = current - lastKnownNetWorth
   lastKnownNetWorth = current
   if (change !== 0) burst = applyBurstChange(burst, change, GetTimeStamp())
-  globalThis.TemperHud?.refresh()
+  globalThis.Temper?.refresh()
 }
 
 function bagCell(): HudCell {
@@ -86,17 +86,17 @@ function burstCell(): HudCell {
 export function registerHudFields(): undefined {
   if (getSavedVariables().session.startTime === 0) resetSession()
   lastKnownNetWorth = currentNetWorth()
-  globalThis.TemperHud?.registerField({
+  globalThis.Temper?.registerField({
     id: "inventory:bag",
     order: 40,
     compute: bagCell,
   })
-  globalThis.TemperHud?.registerField({
+  globalThis.Temper?.registerField({
     id: "inventory:networth",
     order: 50,
     compute: netWorthDeltaCell,
   })
-  globalThis.TemperHud?.registerField({
+  globalThis.Temper?.registerField({
     id: "inventory:burst",
     order: 60,
     compute: burstCell,

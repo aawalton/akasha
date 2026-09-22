@@ -64,7 +64,7 @@ defineCaptureWriter(
         d(`[${ADDON_NAME}] Usage: /tempercatalog clear all|<domainKey> | status`)
       }
     }
-    globalThis.TemperHud?.registerCommand({
+    globalThis.Temper?.registerCommand({
       name: "/tempercatalog",
       description: "Clear or view catalog collection status",
       addon: "TemperCatalog",

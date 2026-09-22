@@ -37,7 +37,7 @@ export function initLeads(this: void): undefined {
 SLASH_COMMANDS[SLASH_COMMAND] = toggleLeadsWindow
 ZO_CreateStringId("SI_BINDING_NAME_TOGGLE_TEMPER_LEADS", STRINGS.KEYBINDINGTEXT)
 
-globalThis.TemperHud?.registerCommand({
+globalThis.Temper?.registerCommand({
   name: "/temperleads",
   description: "Toggle antiquity leads window",
   addon: WORLD_ADDON_NAME,

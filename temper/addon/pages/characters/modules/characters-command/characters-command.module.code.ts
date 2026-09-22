@@ -147,7 +147,7 @@ export function registerCommands(): undefined {
   SLASH_COMMANDS["/tempertaskreset"] = onTemperTaskResetCommand
 
   for (const listing of SLASH_COMMAND_LISTINGS) {
-    globalThis.TemperHud?.registerCommand({
+    globalThis.Temper?.registerCommand({
       name: listing.name,
       description: listing.description,
       addon: ADDON_NAME,

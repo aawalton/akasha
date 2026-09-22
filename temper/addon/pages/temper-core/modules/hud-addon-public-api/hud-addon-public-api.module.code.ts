@@ -8,7 +8,7 @@ import {
 import { registerTemperCommand } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-command/hud-addon-command.module.code.ts"
 import { getHideRegistry } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"
 
-globalThis.TemperHud = {
+globalThis.Temper = {
   registerField: registerHudField,
   registerCommand: registerTemperCommand,
   refresh: refreshHudBar,

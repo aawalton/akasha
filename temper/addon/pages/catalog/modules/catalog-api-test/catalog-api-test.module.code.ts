@@ -165,7 +165,7 @@ export function registerApiTestCommand(): undefined {
   SLASH_COMMANDS["/tempercatalogtest"] = function (this: void): undefined {
     testApis()
   }
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/tempercatalogtest",
     description: "Catalog API test harness",
     addon: "TemperCatalog",

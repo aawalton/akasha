@@ -319,7 +319,7 @@ function registerCraftingCommands(this: void): undefined {
   SLASH_COMMANDS["/tcremovechar"] = removeCharacter
   registerInstrumentStatsCommand()
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/tempercraft",
     description: "Crafting storage & research window",
     addon: "TemperItems",

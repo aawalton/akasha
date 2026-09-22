@@ -111,14 +111,14 @@ function initialize(): undefined {
 
   runMigrations()
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "characters",
     description: "Toggle the completion tracker window",
     addon: ADDON_NAME,
     handler: toggleWindow,
   })
   SLASH_COMMANDS["/temperwritprobe"] = probeDailyWrits
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/temperwritprobe",
     description: "Probe daily writs",
     addon: ADDON_NAME,

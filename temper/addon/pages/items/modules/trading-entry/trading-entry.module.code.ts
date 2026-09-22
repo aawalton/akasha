@@ -88,7 +88,7 @@ function startAddon(): undefined {
     d(`[${ADDON_NAME}] Total: ${totalListings} listings`)
   }
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/temperlistings",
     description: "Print guild listing counts",
     addon: "TemperItems",

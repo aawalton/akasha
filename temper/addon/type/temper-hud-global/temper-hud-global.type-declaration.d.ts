@@ -32,4 +32,4 @@ interface TemperHudApi {
   ) => undefined
 }
 
-declare var TemperHud: TemperHudApi | undefined
+declare var Temper: TemperHudApi | undefined

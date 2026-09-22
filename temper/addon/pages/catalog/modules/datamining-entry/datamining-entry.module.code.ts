@@ -95,7 +95,7 @@ defineCaptureWriter(DATAMINING_CAPTURE_DESCRIPTOR, (writer) => {
     }
   }
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/temperdatamine",
     description: "Run a datamining capture",
     addon: ADDON_NAME,
@@ -105,7 +105,7 @@ defineCaptureWriter(DATAMINING_CAPTURE_DESCRIPTOR, (writer) => {
     testItemLinkRanges()
   }
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/temperdataminetest",
     description: "Test item-link ID ranges",
     addon: ADDON_NAME,

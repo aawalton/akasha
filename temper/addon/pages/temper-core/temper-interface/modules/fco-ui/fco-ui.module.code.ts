@@ -21,7 +21,7 @@ function registerPromoTrackerHide(this: void): undefined {
     return
   }
   PROMO_TRACKER_HIDE_REGISTERED = true
-  globalThis.TemperHud?.registerHideableComponent(
+  globalThis.Temper?.registerHideableComponent(
     PROMO_TRACKER_COMPONENT_ID,
     () => PROMOTIONAL_EVENT_TRACKER?.GetFragment(),
     PROMO_TRACKER_HIDE_REASON
@@ -49,7 +49,7 @@ function updatePromotionalEventTrackerVisibilityState(this: void, doHide: boolea
       hide = true
     }
   }
-  globalThis.TemperHud?.setComponentHidden(PROMO_TRACKER_COMPONENT_ID, hide)
+  globalThis.Temper?.setComponentHidden(PROMO_TRACKER_COMPONENT_ID, hide)
 }
 
 let lastTrackedGoldenPursuitCampaignKey: number | undefined

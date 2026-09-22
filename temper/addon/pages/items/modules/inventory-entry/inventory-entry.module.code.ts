@@ -126,7 +126,7 @@ function initialize(): undefined {
     toggleInventoryBrowser()
   }
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "inventory",
     description: "Inventory rule diagnostics (explain / explain-buy)",
     addon: "TemperItems",
@@ -146,7 +146,7 @@ function initialize(): undefined {
     { name: "/temperbrowse", description: "Toggle the inventory browser" },
     { name: "/tempermwprobe", description: "Probe master writs" },
   ]) {
-    globalThis.TemperHud?.registerCommand({
+    globalThis.Temper?.registerCommand({
       name: entry.name,
       description: entry.description,
       addon: "TemperItems",

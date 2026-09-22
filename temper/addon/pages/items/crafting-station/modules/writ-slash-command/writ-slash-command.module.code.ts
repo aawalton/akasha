@@ -133,7 +133,7 @@ export function registerSlashCommands(this: void): undefined {
     subAuto.SetDescription(wwStr("slash_auto_desc"))
   }
 
-  globalThis.TemperHud?.registerCommand({
+  globalThis.Temper?.registerCommand({
     name: "/temperwrit",
     description: "Master-writ crafting helper",
     addon: "TemperItems",
