@@ -1,4 +1,4 @@
-import { realpathSync } from "node:fs"
+import { readFileSync, realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
@@ -22,12 +22,31 @@ import { temperEsoGenerateChatterName as page } from "akasha/command/pages/tempe
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import {
+  recordsIn,
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { chatterNamesModule } from "akasha/temper/command/modules/eso-chatter-names/eso-chatter-names.module.code.ts"
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const NAMED = [codeRootArgument]
 
-const SOURCE_REL = "temper/addons/types/eso/generated/enums.d.ts"
+const DECLARATION = "type-declaration"
+
+const AMBIENT = "d"
+
+const AMBIENT_KIND = "ts"
+
+const GENERATED = "generated"
+
+const WRITTEN_BY = "writtenBy"
+
+const SLUG = "slug"
+
+const WRITER = "akasha temper eso generate declaration"
 
 const MODULE = "module"
 
@@ -38,6 +57,31 @@ const CODE = "code"
 const PUT = `${changeMechanical.slug}/${addFileCode.slug}` as const
 
 const MESSAGE = "the chatter and interaction name registry, read out of the emitted declarations"
+
+type Declared = {
+  readonly slug: string
+  readonly at: string
+}
+
+function writtenHere(value: Value): boolean {
+  for (const one of recordsIn(value[GENERATED])) {
+    if (textAt(one, WRITTEN_BY) === WRITER) return true
+  }
+  return false
+}
+
+function declaredIn(root: string): readonly Declared[] {
+  const shadow = shadowAt(root)
+  const found: Declared[] = []
+  for (const listed of shadow.index.everyOfType(DECLARATION)) {
+    const value = shadow.index.pageByPath(listed.path)
+    if (value === null || !writtenHere(value)) continue
+    const beside = besideAt(listed.path, AMBIENT, AMBIENT_KIND)
+    if (beside === null) continue
+    found.push({ slug: textAt(value, SLUG) ?? listed.path, at: beside })
+  }
+  return found.sort((one, other) => one.slug.localeCompare(other.slug))
+}
 
 type Taken = Taking<typeof page, typeof NAMED>
 
@@ -53,23 +97,47 @@ async function generated(done: string[], taken: Taken): Promise<Answer> {
     )
   }
 
-  const sourcePath = resolve(root, SOURCE_REL)
-  let source: string
+  let declared: readonly Declared[]
   try {
-    source = await readFile(sourcePath, "utf8")
+    declared = declaredIn(root)
   } catch (thrown) {
     return refused(
-      `${sourcePath} is what this registry is drawn from and it is not there — ` +
-        "`akasha temper eso generate declaration` is what writes it — " +
-        saidShort(thrown),
+      `the index under ${root} would not say which declarations \`${WRITER}\` writes, so there was ` +
+        `nothing to read the registry out of — ${saidShort(thrown)}`,
       DATA
     )
   }
 
-  const registry = chatterNamesModule(source)
+  if (declared.length === 0) {
+    return refused(
+      `no page under ${root} states \`${WRITER}\` wrote it, and those are the declarations this ` +
+        "registry is drawn from, so nothing was written.",
+      DATA
+    )
+  }
+
+  const bodies: string[] = []
+  for (const one of declared) {
+    const at = resolve(root, one.at)
+    let body: string
+    try {
+      body = readFileSync(at, "utf8")
+    } catch (thrown) {
+      return refused(
+        `${at} is the declaration the \`${one.slug}\` page carries and it is not there, so the ` +
+          `registry would be drawn from less than the pages state — ${saidShort(thrown)}`,
+        DATA
+      )
+    }
+    bodies.push(body)
+  }
+
+  const drawn = `${String(declared.length)} declaration(s) \`${WRITER}\` writes`
+
+  const registry = chatterNamesModule(bodies.join("\n"))
   if (registry.chatter.length === 0 || registry.interaction.length === 0) {
     return refused(
-      `${sourcePath} declares ${String(registry.chatter.length)} CHATTER_ and ` +
+      `${drawn} declare ${String(registry.chatter.length)} CHATTER_ and ` +
         `${String(registry.interaction.length)} INTERACTION_ constant(s). An empty registry reads to ` +
         "the trace as a clean answer, so nothing was written.",
       DATA
@@ -97,7 +165,7 @@ async function generated(done: string[], taken: Taken): Promise<Answer> {
     `${String(registry.chatter.length)} CHATTER_ and ` +
     `${String(registry.interaction.length)} INTERACTION_ name(s)`
   if (held === registry.text) {
-    return told([`${outPath} already holds ${many}`, `read from ${sourcePath}`])
+    return told([`${outPath} already holds ${many}`, `read from ${drawn} under ${root}`])
   }
 
   const landed = await runMechanicalChange(
@@ -111,7 +179,7 @@ async function generated(done: string[], taken: Taken): Promise<Answer> {
     return keeping(done, refused(why, OPERATIONAL))
   }
 
-  return told([`wrote ${many} into ${outPath}`, `read from ${sourcePath}`])
+  return told([`wrote ${many} into ${outPath}`, `read from ${drawn} under ${root}`])
 }
 
 export async function chattering(

@@ -230,6 +230,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}

@@ -185,6 +185,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/rate-parts/music-rate-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts"}

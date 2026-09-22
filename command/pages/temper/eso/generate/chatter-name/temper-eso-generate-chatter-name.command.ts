@@ -20,6 +20,22 @@ export const temperEsoGenerateChatterName = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which declarations those are is read from each page's stamp rather than a path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every declaration carrying that stamp is read, in the order their slugs sort.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A checkout carrying no page with that stamp refuses the call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declaration a stamped page names and the checkout has not refuses the call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A call naming no checkout reads and writes what `CODE_ROOT` names, else this repository.",
     },
