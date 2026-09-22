@@ -87,18 +87,38 @@ export function besideThe(tracked: readonly string[], pagePath: string): readonl
   return underFolder(tracked, folderOf(pagePath))
 }
 
-export function carriedWith(
-  root: string,
-  commit: string,
-  built: ReadonlySet<string>
+const TEST_HELD = ".test.ts"
+
+export function testWrittenForAPage(path: string): boolean {
+  return path.endsWith(TEST_HELD)
+}
+
+export function carriedOver(
+  tracked: readonly string[],
+  built: ReadonlySet<string>,
+  changed: readonly string[]
 ): readonly string[] {
   const folders = new Set<string>()
   for (const one of built) folders.add(folderOf(one))
+  const judging = new Set<string>()
+  for (const one of changed) judging.add(folderOf(one))
   const found = new Set<string>(built)
-  for (const one of trackedAt(root, commit)) {
-    if (folders.has(folderOf(one))) found.add(one)
+  for (const one of tracked) {
+    const folder = folderOf(one)
+    if (!folders.has(folder)) continue
+    if (testWrittenForAPage(one) && !judging.has(folder)) continue
+    found.add(one)
   }
   return [...found]
+}
+
+export function carriedWith(
+  root: string,
+  commit: string,
+  built: ReadonlySet<string>,
+  changed: readonly string[] = []
+): readonly string[] {
+  return carriedOver(trackedAt(root, commit), built, changed)
 }
 
 function webSeeds(root: string, slug: string, tracked: readonly string[]): readonly string[] {

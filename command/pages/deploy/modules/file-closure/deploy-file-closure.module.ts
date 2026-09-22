@@ -81,6 +81,18 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A test is carried only where the folder it sits in holds a file being judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test beside no file being judged is run by nothing and imported by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test the deploy is built from is carried whatever folder that test sits in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The types written for a page are reached by no addon, and neither is whatever only they reach.",
     },

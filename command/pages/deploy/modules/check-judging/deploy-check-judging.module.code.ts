@@ -30,13 +30,16 @@ export function changeFrom(
   also: readonly string[] = []
 ): Change {
   const at = (path: string) => bodyAt(root, now, path)
-  const carried = carriedWith(root, now, built)
-  if (was === null) return { root, changed: [...built], carried, before: at, after: at }
+  if (was === null) {
+    const changed = [...built]
+    return { root, changed, carried: carriedWith(root, now, built, changed), before: at, after: at }
+  }
   const moved = changedBetween(root, was, now).filter((one) => built.has(one))
+  const changed = [...new Set([...moved, ...also])]
   return {
     root,
-    changed: [...new Set([...moved, ...also])],
-    carried,
+    changed,
+    carried: carriedWith(root, now, built, changed),
     before: (path) => bodyAt(root, was, path),
     after: at,
   }

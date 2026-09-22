@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
 import {
   besideThe,
+  carriedOver,
   kindSeeds,
   onwardOf,
   readingOver,
+  testWrittenForAPage,
   typesWrittenForAPage,
   underFolder,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
@@ -87,6 +89,52 @@ test("a body that is no TypeScript is read for no import", () => {
     "apps/one/logo.png",
   ])
   expect(found.has("shared/helper.ts")).toBe(false)
+})
+
+const CARRIED_TRACKED = [
+  "apps/one/main.ts",
+  "apps/one/main.test.ts",
+  "apps/one/still.ts",
+  "apps/one/still.test.ts",
+  "shared/helper.ts",
+  "shared/helper.test.ts",
+  "apart/apart.ts",
+  "apart/apart.test.ts",
+]
+
+const CARRIED_BUILT = new Set(["apps/one/main.ts", "apps/one/still.ts", "shared/helper.ts"])
+
+test("a test beside a file being judged is carried, so the run that names it can read it", () => {
+  const found = carriedOver(CARRIED_TRACKED, CARRIED_BUILT, ["apps/one/main.ts"])
+  expect(found).toContain("apps/one/main.test.ts")
+  expect(found).toContain("apps/one/still.test.ts")
+})
+
+test("a test in a folder holding nothing being judged is carried by nothing", () => {
+  const found = carriedOver(CARRIED_TRACKED, CARRIED_BUILT, ["apps/one/main.ts"])
+  expect(found).not.toContain("shared/helper.test.ts")
+})
+
+test("a file that is no test is carried for sitting in a folder the deploy is built from", () => {
+  const found = carriedOver(CARRIED_TRACKED, CARRIED_BUILT, [])
+  expect(found).toContain("shared/helper.ts")
+  expect(found).toContain("apps/one/still.ts")
+})
+
+test("a file in a folder the deploy is built from nowhere is carried by nothing", () => {
+  const found = carriedOver(CARRIED_TRACKED, CARRIED_BUILT, ["apps/one/main.ts"])
+  expect(found).not.toContain("apart/apart.ts")
+  expect(found).not.toContain("apart/apart.test.ts")
+})
+
+test("a test the deploy is built from is carried whatever folder that test sits in", () => {
+  const built = new Set([...CARRIED_BUILT, "shared/helper.test.ts"])
+  expect(carriedOver(CARRIED_TRACKED, built, [])).toContain("shared/helper.test.ts")
+})
+
+test("a test is named by the tail of the file holding it", () => {
+  expect(testWrittenForAPage("apps/one/main.test.ts")).toBe(true)
+  expect(testWrittenForAPage("apps/one/main.ts")).toBe(false)
 })
 
 const ADDON_PAGE = "addons/one/one.temper-addon.ts"
