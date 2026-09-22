@@ -11,11 +11,11 @@ export const registrationAccount = {
   decisions: [
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "No account is a page.",
+      statement: "A running supervisor writes this value and hands it on as a bare name.",
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to an account.",
+      statement: "This property is a relation to a model account.",
     },
   ],
   types: "ts",
