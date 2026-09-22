@@ -5,7 +5,7 @@ export const itemFilterTypeConstants = {
   type: "page-type/module",
   slug: "item-filter-type-constants",
   definition:
-    "the inventory filter numbers the game client has, each under the name the client spells it with",
+    "the inventory filter numbers the game client has, each under the client's own spelling",
   code: "ts",
   decisions: [
     {

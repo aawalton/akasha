@@ -5,7 +5,7 @@ export const abbreviation = {
   type: "page-type/text-property",
   slug: "abbreviation",
   propertySlug: "abbreviation",
-  definition: "the short form a name is written by",
+  definition: "a name's short form",
   maxLength: 10,
   nameFormat: null,
   types: "ts",

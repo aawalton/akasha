@@ -4,7 +4,7 @@ export const treasureIcons = {
   id: "01a061d5-d0b4-719c-ba34-e58d5ca2aa19",
   type: "page-type/module",
   slug: "treasure-icons",
-  definition: "the textures a treasure pin is drawn with",
+  definition: "the textures drawing a treasure pin",
   code: "ts",
   decisions: [
     {

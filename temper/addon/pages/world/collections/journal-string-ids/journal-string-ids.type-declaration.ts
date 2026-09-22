@@ -4,6 +4,6 @@ export const journalStringIds = {
   id: "01a0617d-5453-7974-9ae9-bf0bd8b2f42d",
   type: "page-type/type-declaration",
   slug: "journal-string-ids",
-  definition: "the string ids the journal registers its own text under",
+  definition: "the string ids of the journal's own registered text",
   d: "ts",
 } as const satisfies TypeDeclaration
