@@ -10,4 +10,8 @@ export const theTower088 = {
     { kind: "item-award", name: "Clouded lens", note: "Recovered from: the Host's seat" },
     { kind: "item-award", name: "Woven-light mantle", note: "Recovered from: the Host's seat" },
   ],
+  changes: [
+    { name: "focus", change: -6 },
+    { name: "stamina", change: -5 },
+  ],
 } as const satisfies GameTurn
