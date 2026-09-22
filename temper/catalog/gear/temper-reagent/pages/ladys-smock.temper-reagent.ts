@@ -8,5 +8,10 @@ export const ladysSmock = {
   key: "ladys-smock",
   icon: "resources/ladysmock.png",
   itemId: 30158,
-  alchemyEffects: ["increase-spell-power", "restore-magicka", "breach", "spell-critical"],
+  alchemyEffects: [
+    "temper-poison-effect/increase-spell-power",
+    "temper-poison-effect/restore-magicka",
+    "temper-poison-effect/breach",
+    "temper-poison-effect/spell-critical",
+  ],
 } as const satisfies TemperReagent

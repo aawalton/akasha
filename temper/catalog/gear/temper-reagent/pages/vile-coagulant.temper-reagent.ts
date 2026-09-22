@@ -8,5 +8,10 @@ export const vileCoagulant = {
   key: "vile-coagulant",
   icon: "resources/crafting_vile_coagula.png",
   itemId: 150670,
-  alchemyEffects: ["timidity", "ravage-health", "restore-magicka", "protection"],
+  alchemyEffects: [
+    "temper-poison-effect/timidity",
+    "temper-poison-effect/ravage-health",
+    "temper-poison-effect/restore-magicka",
+    "temper-poison-effect/protection",
+  ],
 } as const satisfies TemperReagent

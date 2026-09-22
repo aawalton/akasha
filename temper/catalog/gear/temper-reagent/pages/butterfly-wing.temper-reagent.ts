@@ -8,5 +8,10 @@ export const butterflyWing = {
   key: "butterfly-wing",
   icon: "resources/reagent_butterfly_wing.png",
   itemId: 77585,
-  alchemyEffects: ["restore-health", "uncertainty", "lingering-health", "vitality"],
+  alchemyEffects: [
+    "temper-poison-effect/restore-health",
+    "temper-poison-effect/uncertainty",
+    "temper-poison-effect/lingering-health",
+    "temper-poison-effect/vitality",
+  ],
 } as const satisfies TemperReagent

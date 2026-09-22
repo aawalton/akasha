@@ -8,5 +8,10 @@ export const fleshflyLarva = {
   key: "fleshfly-larva",
   icon: "resources/reagent_fleshfly_larva.png",
   itemId: 77587,
-  alchemyEffects: ["ravage-stamina", "vulnerability", "gradual-ravage-health", "vitality"],
+  alchemyEffects: [
+    "temper-poison-effect/ravage-stamina",
+    "temper-poison-effect/vulnerability",
+    "temper-poison-effect/gradual-ravage-health",
+    "temper-poison-effect/vitality",
+  ],
 } as const satisfies TemperReagent

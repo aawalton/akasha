@@ -8,5 +8,10 @@ export const blessedThistle = {
   key: "blessed-thistle",
   icon: "resources/blessed_thistle.png",
   itemId: 30157,
-  alchemyEffects: ["restore-stamina", "increase-weapon-power", "ravage-health", "speed"],
+  alchemyEffects: [
+    "temper-poison-effect/restore-stamina",
+    "temper-poison-effect/increase-weapon-power",
+    "temper-poison-effect/ravage-health",
+    "temper-poison-effect/speed",
+  ],
 } as const satisfies TemperReagent

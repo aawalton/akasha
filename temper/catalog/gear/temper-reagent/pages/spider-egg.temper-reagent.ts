@@ -8,5 +8,10 @@ export const spiderEgg = {
   key: "spider-egg",
   icon: "resources/reagent_spider_egg.png",
   itemId: 77584,
-  alchemyEffects: ["hindrance", "invisible", "lingering-health", "defile"],
+  alchemyEffects: [
+    "temper-poison-effect/hindrance",
+    "temper-poison-effect/invisible",
+    "temper-poison-effect/lingering-health",
+    "temper-poison-effect/defile",
+  ],
 } as const satisfies TemperReagent

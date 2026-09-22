@@ -8,5 +8,10 @@ export const scribJelly = {
   key: "scrib-jelly",
   icon: "resources/reagent_scrib_jelly.png",
   itemId: 77589,
-  alchemyEffects: ["ravage-magicka", "speed", "vulnerability", "lingering-health"],
+  alchemyEffects: [
+    "temper-poison-effect/ravage-magicka",
+    "temper-poison-effect/speed",
+    "temper-poison-effect/vulnerability",
+    "temper-poison-effect/lingering-health",
+  ],
 } as const satisfies TemperReagent

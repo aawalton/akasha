@@ -8,5 +8,10 @@ export const powderedMotherOfPearl = {
   key: "powdered-mother-of-pearl",
   icon: "resources/reagent_scrib_powered_pearl.png",
   itemId: 139019,
-  alchemyEffects: ["lingering-health", "speed", "vitality", "protection"],
+  alchemyEffects: [
+    "temper-poison-effect/lingering-health",
+    "temper-poison-effect/speed",
+    "temper-poison-effect/vitality",
+    "temper-poison-effect/protection",
+  ],
 } as const satisfies TemperReagent

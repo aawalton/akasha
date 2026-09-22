@@ -8,5 +8,10 @@ export const waterHyacinth = {
   key: "water-hyacinth",
   icon: "resources/plant_water_hyacinth_r1.png",
   itemId: 30166,
-  alchemyEffects: ["restore-health", "spell-critical", "increase-weapon-crit", "entrapment"],
+  alchemyEffects: [
+    "temper-poison-effect/restore-health",
+    "temper-poison-effect/spell-critical",
+    "temper-poison-effect/increase-weapon-crit",
+    "temper-poison-effect/entrapment",
+  ],
 } as const satisfies TemperReagent

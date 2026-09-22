@@ -8,5 +8,10 @@ export const luminousRussula = {
   key: "luminous-russula",
   icon: "resources/luminous_russula_r1.png",
   itemId: 30155,
-  alchemyEffects: ["ravage-stamina", "maim", "restore-health", "hindrance"],
+  alchemyEffects: [
+    "temper-poison-effect/ravage-stamina",
+    "temper-poison-effect/maim",
+    "temper-poison-effect/restore-health",
+    "temper-poison-effect/hindrance",
+  ],
 } as const satisfies TemperReagent

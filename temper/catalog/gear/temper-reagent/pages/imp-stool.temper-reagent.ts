@@ -8,5 +8,10 @@ export const impStool = {
   key: "imp-stool",
   icon: "resources/imp_stool_r2.png",
   itemId: 30156,
-  alchemyEffects: ["maim", "ravage-stamina", "increase-armor", "enervation"],
+  alchemyEffects: [
+    "temper-poison-effect/maim",
+    "temper-poison-effect/ravage-stamina",
+    "temper-poison-effect/increase-armor",
+    "temper-poison-effect/enervation",
+  ],
 } as const satisfies TemperReagent

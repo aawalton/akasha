@@ -8,5 +8,10 @@ export const bugloss = {
   key: "bugloss",
   icon: "resources/vipers_bugloss_r1.png",
   itemId: 30160,
-  alchemyEffects: ["increase-spell-resist", "restore-health", "cowardice", "restore-magicka"],
+  alchemyEffects: [
+    "temper-poison-effect/increase-spell-resist",
+    "temper-poison-effect/restore-health",
+    "temper-poison-effect/cowardice",
+    "temper-poison-effect/restore-magicka",
+  ],
 } as const satisfies TemperReagent

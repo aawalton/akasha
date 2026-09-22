@@ -180,7 +180,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-potion-crafted/properties/reagent-names.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/thing/properties/valid-slots.text-property.types.ts"}

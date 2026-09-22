@@ -8,5 +8,10 @@ export const namirasRot = {
   key: "namiras-rot",
   icon: "resources/namiras_rot_r1.png",
   itemId: 30153,
-  alchemyEffects: ["spell-critical", "speed", "invisible", "unstoppable"],
+  alchemyEffects: [
+    "temper-poison-effect/spell-critical",
+    "temper-poison-effect/speed",
+    "temper-poison-effect/invisible",
+    "temper-poison-effect/unstoppable",
+  ],
 } as const satisfies TemperReagent

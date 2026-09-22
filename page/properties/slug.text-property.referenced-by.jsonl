@@ -188,6 +188,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/addon/properties/lua-modules.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-poison-effect/properties/opposite.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/world/temper-dungeon/properties/quest-giver.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-account-character/properties/character-roles.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.types.ts"}

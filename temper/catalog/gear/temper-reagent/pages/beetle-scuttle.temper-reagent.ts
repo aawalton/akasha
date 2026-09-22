@@ -8,5 +8,10 @@ export const beetleScuttle = {
   key: "beetle-scuttle",
   icon: "resources/reagent_scuttle.png",
   itemId: 77583,
-  alchemyEffects: ["breach", "increase-armor", "protection", "vitality"],
+  alchemyEffects: [
+    "temper-poison-effect/breach",
+    "temper-poison-effect/increase-armor",
+    "temper-poison-effect/protection",
+    "temper-poison-effect/vitality",
+  ],
 } as const satisfies TemperReagent

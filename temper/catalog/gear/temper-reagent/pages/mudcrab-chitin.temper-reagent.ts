@@ -8,5 +8,10 @@ export const mudcrabChitin = {
   key: "mudcrab-chitin",
   icon: "resources/reagent_mudcrab_chitin.png",
   itemId: 77591,
-  alchemyEffects: ["increase-spell-resist", "increase-armor", "protection", "defile"],
+  alchemyEffects: [
+    "temper-poison-effect/increase-spell-resist",
+    "temper-poison-effect/increase-armor",
+    "temper-poison-effect/protection",
+    "temper-poison-effect/defile",
+  ],
 } as const satisfies TemperReagent

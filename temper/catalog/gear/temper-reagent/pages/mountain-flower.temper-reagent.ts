@@ -8,5 +8,10 @@ export const mountainFlower = {
   key: "mountain-flower",
   icon: "resources/mountain_flower_r1.png",
   itemId: 30163,
-  alchemyEffects: ["increase-armor", "restore-health", "maim", "restore-stamina"],
+  alchemyEffects: [
+    "temper-poison-effect/increase-armor",
+    "temper-poison-effect/restore-health",
+    "temper-poison-effect/maim",
+    "temper-poison-effect/restore-stamina",
+  ],
 } as const satisfies TemperReagent

@@ -8,5 +8,10 @@ export const wormwood = {
   key: "wormwood",
   icon: "resources/wormwood_r1.png",
   itemId: 30159,
-  alchemyEffects: ["increase-weapon-crit", "hindrance", "detection", "unstoppable"],
+  alchemyEffects: [
+    "temper-poison-effect/increase-weapon-crit",
+    "temper-poison-effect/hindrance",
+    "temper-poison-effect/detection",
+    "temper-poison-effect/unstoppable",
+  ],
 } as const satisfies TemperReagent

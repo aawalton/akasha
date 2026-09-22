@@ -8,5 +8,10 @@ export const dragonthorn = {
   key: "dragonthorn",
   icon: "resources/dragonthorn.png",
   itemId: 30162,
-  alchemyEffects: ["increase-weapon-power", "restore-stamina", "fracture", "increase-weapon-crit"],
+  alchemyEffects: [
+    "temper-poison-effect/increase-weapon-power",
+    "temper-poison-effect/restore-stamina",
+    "temper-poison-effect/fracture",
+    "temper-poison-effect/increase-weapon-crit",
+  ],
 } as const satisfies TemperReagent

@@ -8,5 +8,10 @@ export const torchbugThorax = {
   key: "torchbug-thorax",
   icon: "resources/reagent_torchbug_thorax.png",
   itemId: 77581,
-  alchemyEffects: ["fracture", "enervation", "detection", "vitality"],
+  alchemyEffects: [
+    "temper-poison-effect/fracture",
+    "temper-poison-effect/enervation",
+    "temper-poison-effect/detection",
+    "temper-poison-effect/vitality",
+  ],
 } as const satisfies TemperReagent

@@ -8,5 +8,10 @@ export const nightshade = {
   key: "nightshade",
   icon: "resources/nightshade_01.png",
   itemId: 77590,
-  alchemyEffects: ["ravage-health", "protection", "gradual-ravage-health", "defile"],
+  alchemyEffects: [
+    "temper-poison-effect/ravage-health",
+    "temper-poison-effect/protection",
+    "temper-poison-effect/gradual-ravage-health",
+    "temper-poison-effect/defile",
+  ],
 } as const satisfies TemperReagent

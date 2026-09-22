@@ -8,5 +8,10 @@ export const chaurusEgg = {
   key: "chaurus-egg",
   icon: "resources/crafting_chaurus_eggs.png",
   itemId: 150669,
-  alchemyEffects: ["timidity", "ravage-magicka", "restore-stamina", "detection"],
+  alchemyEffects: [
+    "temper-poison-effect/timidity",
+    "temper-poison-effect/ravage-magicka",
+    "temper-poison-effect/restore-stamina",
+    "temper-poison-effect/detection",
+  ],
 } as const satisfies TemperReagent

@@ -8,5 +8,10 @@ export const dragonRheum = {
   key: "dragon-rheum",
   icon: "resources/dragonrheum.png",
   itemId: 150671,
-  alchemyEffects: ["restore-magicka", "heroism", "enervation", "speed"],
+  alchemyEffects: [
+    "temper-poison-effect/restore-magicka",
+    "temper-poison-effect/heroism",
+    "temper-poison-effect/enervation",
+    "temper-poison-effect/speed",
+  ],
 } as const satisfies TemperReagent

@@ -32,3 +32,4 @@
 {"propertySlug":"import","fileName":"temper-poison-effect.page-type.types.ts","path":"temper/catalog/gear/temper-poison-effect/pages/vulnerability/vulnerability.temper-poison-effect.ts"}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
 {"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-poison-effect/properties/opposite.relation-property.ts","id":"01a05fd1-d43d-7ade-8dad-6cb14825b926"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.relation-property.ts","id":"01a05fd1-d435-7be6-b06d-cee7752f59c6"}

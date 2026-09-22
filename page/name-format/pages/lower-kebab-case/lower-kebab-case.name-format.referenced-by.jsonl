@@ -104,7 +104,6 @@
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.text-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-jewelry-slot/properties/jewelry-type-id.text-property.ts","id":"01a05fd1-d43c-7d49-81c6-a1c0aa409075"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.text-property.ts","id":"01a05fd1-d439-7027-bdca-1804e14d6caf"}
-{"propertySlug":"name-format","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.text-property.ts","id":"01a05fd1-d435-7be6-b06d-cee7752f59c6"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/set-class-id.text-property.ts","id":"01a05fd1-d43e-7ece-af53-4be28ed6067d"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/thing/properties/buff-id.text-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}

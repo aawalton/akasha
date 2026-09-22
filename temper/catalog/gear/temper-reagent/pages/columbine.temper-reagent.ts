@@ -8,5 +8,10 @@ export const columbine = {
   key: "columbine",
   icon: "resources/columbine_r1.png",
   itemId: 30164,
-  alchemyEffects: ["restore-health", "restore-magicka", "restore-stamina", "unstoppable"],
+  alchemyEffects: [
+    "temper-poison-effect/restore-health",
+    "temper-poison-effect/restore-magicka",
+    "temper-poison-effect/restore-stamina",
+    "temper-poison-effect/unstoppable",
+  ],
 } as const satisfies TemperReagent

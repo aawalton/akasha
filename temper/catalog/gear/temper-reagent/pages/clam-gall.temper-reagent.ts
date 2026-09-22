@@ -8,5 +8,10 @@ export const clamGall = {
   key: "clam-gall",
   icon: "resources/reagent_clam_gall.png",
   itemId: 139020,
-  alchemyEffects: ["increase-spell-resist", "hindrance", "vulnerability", "defile"],
+  alchemyEffects: [
+    "temper-poison-effect/increase-spell-resist",
+    "temper-poison-effect/hindrance",
+    "temper-poison-effect/vulnerability",
+    "temper-poison-effect/defile",
+  ],
 } as const satisfies TemperReagent

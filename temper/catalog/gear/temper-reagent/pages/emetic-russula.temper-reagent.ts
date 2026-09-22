@@ -8,5 +8,10 @@ export const emeticRussula = {
   key: "emetic-russula",
   icon: "resources/emetic_russula_r1.png",
   itemId: 30151,
-  alchemyEffects: ["ravage-health", "ravage-magicka", "ravage-stamina", "entrapment"],
+  alchemyEffects: [
+    "temper-poison-effect/ravage-health",
+    "temper-poison-effect/ravage-magicka",
+    "temper-poison-effect/ravage-stamina",
+    "temper-poison-effect/entrapment",
+  ],
 } as const satisfies TemperReagent

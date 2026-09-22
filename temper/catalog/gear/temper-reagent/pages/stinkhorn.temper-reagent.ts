@@ -8,5 +8,10 @@ export const stinkhorn = {
   key: "stinkhorn",
   icon: "resources/stinkhorn_cap_r1.png",
   itemId: 30149,
-  alchemyEffects: ["fracture", "ravage-health", "increase-weapon-power", "ravage-stamina"],
+  alchemyEffects: [
+    "temper-poison-effect/fracture",
+    "temper-poison-effect/ravage-health",
+    "temper-poison-effect/increase-weapon-power",
+    "temper-poison-effect/ravage-stamina",
+  ],
 } as const satisfies TemperReagent

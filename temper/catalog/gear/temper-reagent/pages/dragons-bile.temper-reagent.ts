@@ -8,5 +8,10 @@ export const dragonsBile = {
   key: "dragons-bile",
   icon: "resources/dragonsbile.png",
   itemId: 150789,
-  alchemyEffects: ["heroism", "vulnerability", "invisible", "vitality"],
+  alchemyEffects: [
+    "temper-poison-effect/heroism",
+    "temper-poison-effect/vulnerability",
+    "temper-poison-effect/invisible",
+    "temper-poison-effect/vitality",
+  ],
 } as const satisfies TemperReagent

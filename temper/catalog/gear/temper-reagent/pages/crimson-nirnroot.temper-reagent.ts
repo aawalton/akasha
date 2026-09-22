@@ -8,5 +8,10 @@ export const crimsonNirnroot = {
   key: "crimson-nirnroot",
   icon: "resources/crafting_water_plant_nirnroot_crimson.png",
   itemId: 150672,
-  alchemyEffects: ["timidity", "spell-critical", "gradual-ravage-health", "restore-health"],
+  alchemyEffects: [
+    "temper-poison-effect/timidity",
+    "temper-poison-effect/spell-critical",
+    "temper-poison-effect/gradual-ravage-health",
+    "temper-poison-effect/restore-health",
+  ],
 } as const satisfies TemperReagent

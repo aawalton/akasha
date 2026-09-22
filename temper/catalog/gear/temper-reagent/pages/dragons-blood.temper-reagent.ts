@@ -8,5 +8,10 @@ export const dragonsBlood = {
   key: "dragons-blood",
   icon: "resources/dragonsblood.png",
   itemId: 150731,
-  alchemyEffects: ["lingering-health", "restore-stamina", "heroism", "defile"],
+  alchemyEffects: [
+    "temper-poison-effect/lingering-health",
+    "temper-poison-effect/restore-stamina",
+    "temper-poison-effect/heroism",
+    "temper-poison-effect/defile",
+  ],
 } as const satisfies TemperReagent

@@ -8,5 +8,10 @@ export const blueEntoloma = {
   key: "blue-entoloma",
   icon: "resources/blue_entoloma_cap_r1.png",
   itemId: 30148,
-  alchemyEffects: ["ravage-magicka", "cowardice", "restore-health", "invisible"],
+  alchemyEffects: [
+    "temper-poison-effect/ravage-magicka",
+    "temper-poison-effect/cowardice",
+    "temper-poison-effect/restore-health",
+    "temper-poison-effect/invisible",
+  ],
 } as const satisfies TemperReagent

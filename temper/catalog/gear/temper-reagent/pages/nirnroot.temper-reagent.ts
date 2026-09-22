@@ -8,5 +8,10 @@ export const nirnroot = {
   key: "nirnroot",
   icon: "resources/plant_nirnroot_r1.png",
   itemId: 30165,
-  alchemyEffects: ["ravage-health", "uncertainty", "enervation", "invisible"],
+  alchemyEffects: [
+    "temper-poison-effect/ravage-health",
+    "temper-poison-effect/uncertainty",
+    "temper-poison-effect/enervation",
+    "temper-poison-effect/invisible",
+  ],
 } as const satisfies TemperReagent

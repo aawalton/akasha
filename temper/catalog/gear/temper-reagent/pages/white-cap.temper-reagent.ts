@@ -8,5 +8,10 @@ export const whiteCap = {
   key: "white-cap",
   icon: "resources/white_cap_r1.png",
   itemId: 30154,
-  alchemyEffects: ["cowardice", "ravage-magicka", "increase-spell-resist", "detection"],
+  alchemyEffects: [
+    "temper-poison-effect/cowardice",
+    "temper-poison-effect/ravage-magicka",
+    "temper-poison-effect/increase-spell-resist",
+    "temper-poison-effect/detection",
+  ],
 } as const satisfies TemperReagent
