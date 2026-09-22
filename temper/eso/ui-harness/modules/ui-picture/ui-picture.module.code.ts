@@ -4,6 +4,7 @@ import {
 } from "akasha/code/browser/test-harness/modules/harness-launch/harness-launch.module.code.ts"
 import { charcoal } from "akasha/design/interface/color/pages/charcoal.color.ts"
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
+import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
 import type {
   UiColor,
   UiControl,
@@ -17,13 +18,15 @@ export type UiRect = {
   readonly height: number
 }
 
-const CT_LABEL = 2
+const DRAWN = engineConstantsTable().numbers
 
-const CT_TEXTURE = 3
+const CT_LABEL = DRAWN.CT_LABEL
 
-const CT_BUTTON = 4
+const CT_TEXTURE = DRAWN.CT_TEXTURE
 
-const CT_BACKDROP = 8
+const CT_BUTTON = DRAWN.CT_BUTTON
+
+const CT_BACKDROP = DRAWN.CT_BACKDROP
 
 const SCREEN_WIDTH = 1920
 
@@ -70,14 +73,18 @@ const FONT_SHADOWS: Readonly<Record<string, string>> = {
 
 const FONT_NAMED = /\$\(([A-Z_0-9]+)\)/
 
-const ALIGN_START = 0
+const START = "flex-start"
 
-const ALIGN_MIDDLE = 1
+const ALIGN_ACROSS: Readonly<Record<number, string>> = {
+  [DRAWN.TEXT_ALIGN_LEFT ?? 0]: START,
+  [DRAWN.TEXT_ALIGN_CENTER ?? 1]: "center",
+  [DRAWN.TEXT_ALIGN_RIGHT ?? 2]: "flex-end",
+}
 
-const ALIGN_WAYS: Readonly<Record<number, string>> = {
-  0: "flex-start",
-  1: "center",
-  2: "flex-end",
+const ALIGN_DOWN: Readonly<Record<number, string>> = {
+  [DRAWN.TEXT_ALIGN_TOP ?? 3]: START,
+  [DRAWN.TEXT_ALIGN_CENTER ?? 1]: "center",
+  [DRAWN.TEXT_ALIGN_BOTTOM ?? 4]: "flex-end",
 }
 
 const CLEAR: UiColor = [0, 0, 0, 0]
@@ -166,9 +173,11 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
     const shadow = face.shadow === "" ? "" : `text-shadow:${face.shadow};`
     const framed =
       one.controlType === CT_BUTTON ? `box-shadow:inset 0 0 0 1px ${asCss(FRAME)};` : ""
-    const middled = one.controlType === CT_BUTTON ? ALIGN_MIDDLE : ALIGN_START
-    const across = ALIGN_WAYS[one.alignH ?? middled] ?? ALIGN_WAYS[ALIGN_START]
-    const down = ALIGN_WAYS[one.alignV ?? middled] ?? ALIGN_WAYS[ALIGN_START]
+    const centred = one.controlType === CT_BUTTON
+    const acrossBy = centred ? DRAWN.TEXT_ALIGN_CENTER : DRAWN.TEXT_ALIGN_LEFT
+    const downBy = centred ? DRAWN.TEXT_ALIGN_CENTER : DRAWN.TEXT_ALIGN_TOP
+    const across = ALIGN_ACROSS[one.alignH ?? acrossBy ?? 0] ?? START
+    const down = ALIGN_DOWN[one.alignV ?? downBy ?? 0] ?? START
     const laid = `display:flex;justify-content:${across};align-items:${down};`
     const type = `font-family:${face.family};font-weight:${face.weight};font-size:${face.size}px;line-height:${face.size + LINE_OVER_SIZE}px;`
     return `<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${laid}${framed}">${escaped(one.text ?? "")}</div>`

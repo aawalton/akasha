@@ -1,6 +1,17 @@
 import { describe, expect, test } from "bun:test"
+import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
 import type { UiControl } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import { pictureHtml } from "akasha/temper/eso/ui-harness/modules/ui-picture/ui-picture.module.code.ts"
+
+const DRAWN = engineConstantsTable().numbers
+
+const CT_CONTROL = DRAWN.CT_CONTROL ?? 0
+
+const CT_LABEL = DRAWN.CT_LABEL ?? 1
+
+const CT_TEXTURE = DRAWN.CT_TEXTURE ?? 3
+
+const CT_BACKDROP = DRAWN.CT_BACKDROP ?? 14
 
 type Part = {
   readonly name?: string
@@ -24,7 +35,7 @@ type Part = {
 function control(part: Part): UiControl {
   return {
     name: part.name,
-    controlType: part.controlType ?? 1,
+    controlType: part.controlType ?? CT_CONTROL,
     hidden: part.hidden ?? false,
     left: part.left ?? 0,
     top: part.top ?? 0,
@@ -54,7 +65,7 @@ describe("pictureHtml", () => {
         children: [
           control({
             name: "FrameTitle",
-            controlType: 2,
+            controlType: CT_LABEL,
             left: 8,
             top: 8,
             width: 344,
@@ -80,7 +91,7 @@ describe("pictureHtml", () => {
     const html = pictureHtml(
       control({
         name: "FrameBG",
-        controlType: 8,
+        controlType: CT_BACKDROP,
         width: 10,
         height: 10,
         centerColor: [0, 0, 0, 0.85],
@@ -93,7 +104,7 @@ describe("pictureHtml", () => {
     const html = pictureHtml(
       control({
         name: "FrameBG",
-        controlType: 8,
+        controlType: CT_BACKDROP,
         width: 10,
         height: 10,
         centerColor: [0, 0, 0, 1],
@@ -107,7 +118,7 @@ describe("pictureHtml", () => {
     const html = pictureHtml(
       control({
         name: "FrameBG",
-        controlType: 8,
+        controlType: CT_BACKDROP,
         width: 10,
         height: 10,
         centerColor: [0, 0, 0, 1],
@@ -122,7 +133,7 @@ describe("pictureHtml", () => {
     const html = pictureHtml(
       control({
         name: "FrameBG",
-        controlType: 8,
+        controlType: CT_BACKDROP,
         width: 10,
         height: 10,
         edgeTexture: "EsoUI/Art/Tooltips/UI-Border.dds",
@@ -135,7 +146,7 @@ describe("pictureHtml", () => {
     const html = pictureHtml(
       control({
         name: "FrameTitle",
-        controlType: 2,
+        controlType: CT_LABEL,
         width: 10,
         height: 10,
         text: "Temper",
@@ -157,9 +168,9 @@ describe("pictureHtml", () => {
           control({
             name: "FrameGone",
             hidden: true,
-            children: [control({ name: "FrameUnder", controlType: 2, text: "buried" })],
+            children: [control({ name: "FrameUnder", controlType: CT_LABEL, text: "buried" })],
           }),
-          control({ name: "FrameHere", controlType: 2, text: "shown" }),
+          control({ name: "FrameHere", controlType: CT_LABEL, text: "shown" }),
         ],
       })
     )
@@ -177,7 +188,7 @@ describe("pictureHtml", () => {
     const html = pictureHtml(
       control({
         name: "FrameIcon",
-        controlType: 3,
+        controlType: CT_TEXTURE,
         width: 40,
         height: 40,
         texture: "EsoUI/Art/Icons/icon.dds",
@@ -191,7 +202,7 @@ describe("pictureHtml", () => {
     const html = pictureHtml(
       control({
         name: "FrameIcon",
-        controlType: 3,
+        controlType: CT_TEXTURE,
         width: 40,
         height: 40,
         texture: "EsoUI/Art/Icons/icon.dds",
@@ -204,7 +215,7 @@ describe("pictureHtml", () => {
 
   test("escapes text the game would show", () => {
     const html = pictureHtml(
-      control({ name: "FrameText", controlType: 2, width: 10, height: 10, text: "<b>&</b>" })
+      control({ name: "FrameText", controlType: CT_LABEL, width: 10, height: 10, text: "<b>&</b>" })
     )
     expect(html).toContain("&lt;b&gt;&amp;&lt;/b&gt;")
   })

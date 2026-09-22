@@ -3,6 +3,10 @@ import { join } from "node:path"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  constantsLua,
+  engineConstantsTable,
+} from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
 import { marshalLuaValue } from "akasha/temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
 import {
   ESO_BANNED_GLOBALS,
@@ -31,6 +35,15 @@ const HARNESS_BANNED_GLOBALS: readonly string[] = ESO_BANNED_GLOBALS.filter(
 )
 
 let cachedModels: readonly string[] | null = null
+
+let cachedConstants: readonly string[] | null = null
+
+function constantTexts(): readonly string[] {
+  if (cachedConstants === null) {
+    cachedConstants = constantsLua(engineConstantsTable(akashaRoot()))
+  }
+  return cachedConstants
+}
 
 function modelPathIn(root: string, slug: string): string {
   const page = listedAt(root, LUA_MODULE, slug)[0]
@@ -154,7 +167,7 @@ export type OpenUiHarnessOptions = {
 export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise<UiHarness> {
   const vm = await makeSandboxedLuaVm({
     bannedGlobals: options.bannedGlobals ?? HARNESS_BANNED_GLOBALS,
-    loadedFirst: modelTexts(),
+    loadedFirst: [...constantTexts(), ...modelTexts()],
   })
   return {
     seed(name, value): undefined {

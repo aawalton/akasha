@@ -1,22 +1,24 @@
 local rawget = rawget
 
+local TOPLEFT = _G.TOPLEFT
+
 local ANCHOR_FRACTIONS = {
-  [1] = { 0, 0 },
-  [2] = { 0.5, 0 },
-  [4] = { 1, 0 },
-  [8] = { 0, 0.5 },
-  [16] = { 0.5, 0.5 },
-  [32] = { 1, 0.5 },
-  [64] = { 0, 1 },
-  [128] = { 0.5, 1 },
-  [256] = { 1, 1 },
+  [TOPLEFT] = { 0, 0 },
+  [_G.TOP] = { 0.5, 0 },
+  [_G.TOPRIGHT] = { 1, 0 },
+  [_G.LEFT] = { 0, 0.5 },
+  [_G.CENTER] = { 0.5, 0.5 },
+  [_G.RIGHT] = { 1, 0.5 },
+  [_G.BOTTOMLEFT] = { 0, 1 },
+  [_G.BOTTOM] = { 0.5, 1 },
+  [_G.BOTTOMRIGHT] = { 1, 1 },
 }
 
 local placing = {}
 local place
 
 local function fractionOf(point)
-  return ANCHOR_FRACTIONS[point] or ANCHOR_FRACTIONS[1]
+  return ANCHOR_FRACTIONS[point] or ANCHOR_FRACTIONS[TOPLEFT]
 end
 
 local function known(control)

@@ -13,6 +13,10 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A point is keyed by the number the game gives it rather than by a number here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control with one anchor takes the width and the height the control states.",
     },
     {

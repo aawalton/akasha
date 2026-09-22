@@ -1075,6 +1075,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.ts","id":"01a0c97e-4173-73b6-a373-3a2f933756b3"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts","id":"01a0c9dd-cc82-7f73-b0c4-69cb07323425"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-windows/ui-windows.module.ts","id":"01a0ca65-c4cb-73a7-ad02-0bed65be11c3"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/capture-instant/capture-instant.module.ts","id":"01a0ba6c-9beb-78b6-ae42-ea76022acdac"}

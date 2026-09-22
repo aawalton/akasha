@@ -6,48 +6,17 @@ local tostring = tostring
 local insert = table.insert
 
 local ANCHOR_POINTS = {
-  TOPLEFT = 1,
-  TOP = 2,
-  TOPRIGHT = 4,
-  LEFT = 8,
-  CENTER = 16,
-  RIGHT = 32,
-  BOTTOMLEFT = 64,
-  BOTTOM = 128,
-  BOTTOMRIGHT = 256,
+  TOPLEFT = _G.TOPLEFT,
+  BOTTOMRIGHT = _G.BOTTOMRIGHT,
 }
 
 local ANCHOR_CONSTRAINTS = {
-  ANCHOR_CONSTRAINS_X = 1,
-  ANCHOR_CONSTRAINS_Y = 2,
-  ANCHOR_CONSTRAINS_XY = 3,
+  ANCHOR_CONSTRAINS_XY = _G.ANCHOR_CONSTRAINS_XY,
 }
 
 local CONTROL_TYPES = {
-  CT_INVALID = 0,
-  CT_CONTROL = 1,
-  CT_LABEL = 2,
-  CT_TEXTURE = 3,
-  CT_BUTTON = 4,
-  CT_TOPLEVELCONTROL = 5,
-  CT_SCROLL = 6,
-  CT_EDITBOX = 7,
-  CT_BACKDROP = 8,
-  CT_SLIDER = 9,
-  CT_STATUSBAR = 10,
-  CT_COOLDOWN = 11,
-  CT_LINE = 12,
-  CT_TEXTURECOMPOSITE = 13,
-  CT_COLORSELECT = 14,
-  CT_TOOLTIP = 15,
-}
-
-local TEXT_ALIGNMENTS = {
-  TEXT_ALIGN_LEFT = 0,
-  TEXT_ALIGN_TOP = 0,
-  TEXT_ALIGN_CENTER = 1,
-  TEXT_ALIGN_RIGHT = 2,
-  TEXT_ALIGN_BOTTOM = 2,
+  CT_CONTROL = _G.CT_CONTROL,
+  CT_TOPLEVELCONTROL = _G.CT_TOPLEVELCONTROL,
 }
 
 local named = {}
@@ -331,11 +300,6 @@ end
 
 function WindowManager:GetMouseOverControl() return nil end
 function WindowManager:SetMouseCursor() end
-
-for key, value in pairs(ANCHOR_POINTS) do _G[key] = value end
-for key, value in pairs(ANCHOR_CONSTRAINTS) do _G[key] = value end
-for key, value in pairs(CONTROL_TYPES) do _G[key] = value end
-for key, value in pairs(TEXT_ALIGNMENTS) do _G[key] = value end
 
 _G.WINDOW_MANAGER = WindowManager
 _G.GuiRoot = birth("GuiRoot", nil, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)

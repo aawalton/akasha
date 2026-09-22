@@ -22,6 +22,20 @@ export const uiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The engine's captured constants are loaded before the models that read them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A model takes what a constant is numbered from the capture rather than saying it.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A number a model made up is self-consistent, so nothing shows it is not the game's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller naming no control is answered with the tree under the screen.",
     },
     {

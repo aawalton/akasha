@@ -109,8 +109,10 @@ end
 function __eso_constants(given)
   local count = 0
   for name, value in _pairs(given) do
-    _rawset(__eso_env, name, value)
-    count = count + 1
+    if not banned[name] then
+      _rawset(_G, name, value)
+      count = count + 1
+    end
   end
   return count
 end

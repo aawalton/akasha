@@ -88,8 +88,9 @@ export const uiControlModel = {
         "A control made from a template no caller handed in is a control with nothing on it.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "What each alignment is numbered is settled here rather than read from the game.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a constant is numbered is read from the game's capture rather than settled here.",
     },
     {
       decisionKind: "decision-kind/departure",

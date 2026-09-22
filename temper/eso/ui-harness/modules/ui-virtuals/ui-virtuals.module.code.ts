@@ -1,42 +1,62 @@
+import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
 import { JSDOM } from "jsdom"
 
-const CONTROL_TYPES: Readonly<Record<string, number>> = {
-  Control: 1,
-  Label: 2,
-  Texture: 3,
-  Button: 4,
-  TopLevelControl: 5,
-  Scroll: 6,
-  EditBox: 7,
-  Backdrop: 8,
-  Slider: 9,
-  StatusBar: 10,
-  Cooldown: 11,
-  Line: 12,
-  TextureComposite: 13,
-  ColorSelect: 14,
-  Tooltip: 15,
+function numbered(
+  named: (key: string) => string,
+  keys: readonly string[]
+): Readonly<Record<string, number>> {
+  const held = engineConstantsTable().numbers
+  const found: Record<string, number> = {}
+  for (const key of keys) {
+    const value = held[named(key)]
+    if (value !== undefined) found[key] = value
+  }
+  return found
 }
 
-const ANCHOR_POINTS: Readonly<Record<string, number>> = {
-  TOPLEFT: 1,
-  TOP: 2,
-  TOPRIGHT: 4,
-  LEFT: 8,
-  CENTER: 16,
-  RIGHT: 32,
-  BOTTOMLEFT: 64,
-  BOTTOM: 128,
-  BOTTOMRIGHT: 256,
-}
+const CONTROL_TAGS: readonly string[] = [
+  "Control",
+  "Label",
+  "Texture",
+  "Button",
+  "TopLevelControl",
+  "Scroll",
+  "EditBox",
+  "Backdrop",
+  "Slider",
+  "StatusBar",
+  "Cooldown",
+  "Line",
+  "TextureComposite",
+  "ColorSelect",
+  "Tooltip",
+]
 
-const ALIGNMENTS: Readonly<Record<string, number>> = {
-  LEFT: 0,
-  TOP: 0,
-  CENTER: 1,
-  RIGHT: 2,
-  BOTTOM: 2,
-}
+const POINT_NAMES: readonly string[] = [
+  "TOPLEFT",
+  "TOP",
+  "TOPRIGHT",
+  "LEFT",
+  "CENTER",
+  "RIGHT",
+  "BOTTOMLEFT",
+  "BOTTOM",
+  "BOTTOMRIGHT",
+]
+
+const ALIGN_NAMES: readonly string[] = ["LEFT", "TOP", "CENTER", "RIGHT", "BOTTOM"]
+
+const CONTROL_TYPES: Readonly<Record<string, number>> = numbered(
+  (tag) => `CT_${tag.toUpperCase()}`,
+  CONTROL_TAGS
+)
+
+const ANCHOR_POINTS: Readonly<Record<string, number>> = numbered((name) => name, POINT_NAMES)
+
+const ALIGNMENTS: Readonly<Record<string, number>> = numbered(
+  (name) => `TEXT_ALIGN_${name}`,
+  ALIGN_NAMES
+)
 
 const HEX_RADIX = 16
 

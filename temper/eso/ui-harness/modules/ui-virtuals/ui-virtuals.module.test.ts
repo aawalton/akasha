@@ -1,8 +1,11 @@
 import { describe, expect, test } from "bun:test"
+import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
 import {
   virtualsFrom,
   virtualsLua,
 } from "akasha/temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.code.ts"
+
+const HELD = engineConstantsTable().numbers
 
 const ROW = `<GuiXml><Controls>
   <Control name="TemperRow" virtual="true" mouseEnabled="true">
@@ -60,9 +63,9 @@ describe("virtualsFrom", () => {
 
   test("takes the kind of control off the element's own tag", () => {
     const table = virtualsFrom([ROW])
-    expect(table.TemperRow?.controlType).toBe(1)
-    expect(table.TemperRow?.children[0]?.controlType).toBe(3)
-    expect(table.TemperRow?.children[2]?.controlType).toBe(2)
+    expect(table.TemperRow?.controlType).toBe(HELD.CT_CONTROL)
+    expect(table.TemperRow?.children[0]?.controlType).toBe(HELD.CT_TEXTURE)
+    expect(table.TemperRow?.children[2]?.controlType).toBe(HELD.CT_LABEL)
   })
 
   test("takes the size the template states", () => {
@@ -75,9 +78,9 @@ describe("virtualsFrom", () => {
   test("turns a point named by word into the number the game holds", () => {
     const qty = virtualsFrom([ROW]).TemperRow?.children[2]
     expect(qty?.anchors[0]).toEqual({
-      point: 1,
+      point: HELD.TOPLEFT ?? 0,
       relativeTo: "$(parent)Icon",
-      relativePoint: 4,
+      relativePoint: HELD.TOPRIGHT ?? 0,
       offsetX: 8,
       offsetY: -3,
     })
@@ -85,8 +88,8 @@ describe("virtualsFrom", () => {
 
   test("reads the alignment a label states", () => {
     const qty = virtualsFrom([ROW]).TemperRow?.children[2]
-    expect(qty?.alignH).toBe(2)
-    expect(qty?.alignV).toBe(1)
+    expect(qty?.alignH).toBe(HELD.TEXT_ALIGN_RIGHT)
+    expect(qty?.alignV).toBe(HELD.TEXT_ALIGN_CENTER)
     expect(qty?.font).toBe("ZoFontGameShadow")
   })
 
@@ -110,7 +113,7 @@ describe("virtualsFrom", () => {
 
   test("reads a backdrop's middle and edge", () => {
     const back = virtualsFrom([COLORED]).TemperBack
-    expect(back?.controlType).toBe(8)
+    expect(back?.controlType).toBe(HELD.CT_BACKDROP)
     expect(back?.centerColor).toEqual([0, 0, 0, 0.85])
     expect(back?.edgeColor).toEqual([1, 0.5, 0, 1])
   })
@@ -141,7 +144,7 @@ describe("virtualsLua", () => {
     expect(chunks).toHaveLength(1)
     expect(chunks[0]).toContain("__ui_virtuals({")
     expect(chunks[0]).toContain('["TemperRow"]')
-    expect(chunks[0]).toContain("controlType = 1")
+    expect(chunks[0]).toContain(`controlType = ${String(HELD.CT_CONTROL)}`)
     expect(chunks[0]).toContain("width = 300")
     expect(chunks[0]).toContain("anchorFill = true")
   })
