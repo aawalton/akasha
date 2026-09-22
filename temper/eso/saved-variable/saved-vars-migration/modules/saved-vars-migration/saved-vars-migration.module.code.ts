@@ -71,6 +71,7 @@ export type AppendSpec = {
   readonly absorbedFileBase: string
   readonly absorbedGlobal: string
   readonly targetFileBase: string
+  readonly renamedTo?: string
 }
 
 export type AppendMigrationOutcome =
