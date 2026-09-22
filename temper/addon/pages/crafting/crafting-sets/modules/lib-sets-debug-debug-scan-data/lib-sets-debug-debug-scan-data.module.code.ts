@@ -19,7 +19,6 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-debug-debug-state/lib-sets-debug-debug-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import {
   LIBSETS_TABLEKEY_ACHIEVEMENT_CATEGORY_NAMES,
   LIBSETS_TABLEKEY_COLLECTIBLE_DLC_NAMES,

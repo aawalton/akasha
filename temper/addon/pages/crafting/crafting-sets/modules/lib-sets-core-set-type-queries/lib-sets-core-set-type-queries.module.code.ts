@@ -13,7 +13,6 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import {
   LIBSETS_TABLEKEY_DROPMECHANIC,
   LIBSETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,

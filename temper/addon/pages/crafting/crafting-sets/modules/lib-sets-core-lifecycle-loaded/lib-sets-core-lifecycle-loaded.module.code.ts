@@ -1,7 +1,6 @@
 import { asLibSlotFns } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts/lib-sets-core-casts.module.code.ts"
 import { asDebugGetAllDataSvOpt } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import { getKeyboardSearchUI } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-searchui-globals/lib-sets-search-ui-searchui-globals.module.code.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"

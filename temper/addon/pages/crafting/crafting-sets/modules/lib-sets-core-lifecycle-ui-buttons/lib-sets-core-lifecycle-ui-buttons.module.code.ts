@@ -10,7 +10,6 @@ import {
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-casts-tables/lib-sets-core-casts-tables.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-scrollable-menu/lib-scrollable-menu.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/addon/pages/lib-custom-menu/custom-menu-declarations/custom-menu-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/crafting/crafting-sets/lib-sets-constant-shapes/lib-sets-constant-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"

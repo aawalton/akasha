@@ -16,7 +16,6 @@ import {
   type LoadSetsState,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-core-load-sets-checktype/lib-sets-core-load-sets-checktype.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import {
   LIBSETS_SET_ITEMID_TABLE_VALUE_OK,
   LIBSETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING,

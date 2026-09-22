@@ -7,7 +7,6 @@ import {
   setupFilterDropdown,
 } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/lib-sets-search-ui-keyboard-filters-setup/lib-sets-search-ui-keyboard-filters-setup.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/lib-sets/lib-sets.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-strings-2/eso-lib-sets-strings-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
