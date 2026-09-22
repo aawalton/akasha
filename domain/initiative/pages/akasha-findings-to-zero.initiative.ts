@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "193 are left. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad, and has taken 70. Next is `mortal-sparing-never-reaches-a-referenced-by-file-so-audit-rounds-refuse-them`, entry 105 of 275. A drop needs no answer; only a proposal to do work is put to Alan. Other seats delete findings as this runs, so check each slug is still there. Verify by running, not reading.\n",
+        "166 are left. The first run is done: 344 read, 67 dropped. The second run is with Alan, in panel order down `kept-order.tsv` in the scratchpad. Next is `a-checks-ceiling-fires-on-a-busy-machine-rather-than-on-a-check-that-slowed`, entry 131 of 275. A drop needs no answer; only a proposal to do work is put to Alan. Other seats delete findings as this runs, so check each slug is still there. Verify by running, not reading.\n",
     },
     {
       statement: "No module nothing reaches is left.",
