@@ -33,8 +33,21 @@ export const uiVirtuals = {
       statement: "A point an anchor names by word becomes the number the game holds for that word.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No handler an interface document writes inline is read here.",
+      decisionKind: "decision-kind/departure",
+      statement: "An element's child whose tag opens with On is a handler that element writes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A handler is written out as Lua, so the sandbox compiles it rather than a caller.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A handler is handed the control it is on, and whatever else the game hands it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The templates go over in batches, because one Lua chunk holds only so much.",
     },
     {
       decisionKind: "decision-kind/absence",

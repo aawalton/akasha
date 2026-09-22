@@ -70,6 +70,7 @@ export type VirtualNode = {
   readonly edgeColor?: readonly number[]
   readonly anchorFill: boolean
   readonly anchors: readonly VirtualAnchor[]
+  readonly handlers: Readonly<Record<string, string>>
   readonly children: readonly VirtualNode[]
 }
 
@@ -154,6 +155,17 @@ function anchorsIn(element: Element): readonly VirtualAnchor[] {
   return found
 }
 
+function handlersIn(element: Element): Readonly<Record<string, string>> {
+  const found: Record<string, string> = {}
+  for (const child of element.children) {
+    if (!child.tagName.startsWith("On")) continue
+    const body = child.textContent ?? ""
+    if (body.trim() === "") continue
+    found[child.tagName] = body
+  }
+  return found
+}
+
 function nodeOf(element: Element): VirtualNode {
   const dimensions = childNamed(element, "Dimensions")
   const backdropCenter = childNamed(element, "CenterColor")
@@ -183,6 +195,7 @@ function nodeOf(element: Element): VirtualNode {
     edgeColor: backdropEdge === null ? undefined : colorOf(backdropEdge),
     anchorFill: childNamed(element, "AnchorFill") !== null,
     anchors: anchorsIn(element),
+    handlers: handlersIn(element),
     children: holder === null ? [] : [...holder.children].map((child) => nodeOf(child as Element)),
   }
 }
@@ -212,8 +225,76 @@ function merged(base: VirtualNode, over: VirtualNode): VirtualNode {
     edgeColor: over.edgeColor ?? base.edgeColor,
     anchorFill: over.anchorFill || base.anchorFill,
     anchors: over.anchors.length === 0 ? base.anchors : over.anchors,
+    handlers: { ...base.handlers, ...over.handlers },
     children: [...base.children, ...over.children],
   }
+}
+
+const LOW_CEILING = 32
+
+function luaText(text: string): string {
+  const safe: string[] = []
+  for (const one of text) {
+    const code = one.charCodeAt(0)
+    if (one === "\\") safe.push("\\\\")
+    else if (one === '"') safe.push('\\"')
+    else if (code < LOW_CEILING) safe.push(`\\${code}`)
+    else safe.push(one)
+  }
+  return `"${safe.join("")}"`
+}
+
+function luaAnchor(anchor: VirtualAnchor): string {
+  const towards =
+    anchor.relativeTo === undefined ? "" : `relativeTo = ${luaText(anchor.relativeTo)}, `
+  return `{ point = ${anchor.point}, ${towards}relativePoint = ${anchor.relativePoint}, offsetX = ${anchor.offsetX}, offsetY = ${anchor.offsetY} }`
+}
+
+function luaNode(node: VirtualNode): string {
+  const parts: string[] = [`controlType = ${node.controlType}`]
+  if (node.name !== undefined) parts.push(`name = ${luaText(node.name)}`)
+  if (node.hidden !== undefined) parts.push(`hidden = ${node.hidden}`)
+  if (node.alpha !== undefined) parts.push(`alpha = ${node.alpha}`)
+  if (node.mouseEnabled !== undefined) parts.push(`mouseEnabled = ${node.mouseEnabled}`)
+  if (node.width !== undefined) parts.push(`width = ${node.width}`)
+  if (node.height !== undefined) parts.push(`height = ${node.height}`)
+  if (node.font !== undefined) parts.push(`font = ${luaText(node.font)}`)
+  if (node.text !== undefined) parts.push(`text = ${luaText(node.text)}`)
+  if (node.alignH !== undefined) parts.push(`alignH = ${node.alignH}`)
+  if (node.alignV !== undefined) parts.push(`alignV = ${node.alignV}`)
+  if (node.texture !== undefined) parts.push(`texture = ${luaText(node.texture)}`)
+  if (node.color !== undefined) parts.push(`color = { ${node.color.join(", ")} }`)
+  if (node.centerColor !== undefined) {
+    parts.push(`centerColor = { ${node.centerColor.join(", ")} }`)
+  }
+  if (node.edgeColor !== undefined) parts.push(`edgeColor = { ${node.edgeColor.join(", ")} }`)
+  if (node.anchorFill) parts.push("anchorFill = true")
+  if (node.anchors.length > 0) {
+    parts.push(`anchors = { ${node.anchors.map(luaAnchor).join(", ")} }`)
+  }
+  const handlers = Object.entries(node.handlers).map(
+    ([event, body]) => `[${luaText(event)}] = function(self, ...)
+${body}
+end`
+  )
+  if (handlers.length > 0) parts.push(`handlers = { ${handlers.join(", ")} }`)
+  if (node.children.length > 0) {
+    parts.push(`children = { ${node.children.map(luaNode).join(", ")} }`)
+  }
+  return `{ ${parts.join(", ")} }`
+}
+
+export function virtualsLua(table: VirtualTable, perChunk: number): readonly string[] {
+  const names = Object.keys(table)
+  const chunks: string[] = []
+  for (let at = 0; at < names.length; at += perChunk) {
+    const written = names.slice(at, at + perChunk).flatMap((name) => {
+      const node = table[name]
+      return node === undefined ? [] : [`[${luaText(name)}] = ${luaNode(node)},`]
+    })
+    chunks.push(`__ui_virtuals({ ${written.join(" ")} })`)
+  }
+  return chunks
 }
 
 export function virtualsFrom(documents: readonly string[]): VirtualTable {

@@ -80,6 +80,18 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control made from a template keeps every handler that template writes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The handler for being made is run once the control's own controls are there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A handler for being made that raises leaves the control as that handler left it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control the game makes that an addon extends is made here under the screen.",
     },
     {

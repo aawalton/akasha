@@ -115,6 +115,13 @@ dress = function(control, spec)
       dress(birth(child.name, control, child.controlType, nil), child)
     end
   end
+  if spec.handlers ~= nil then
+    for event, made in pairs(spec.handlers) do
+      control.uiHandlers[event] = made
+    end
+    local first = spec.handlers.OnInitialized
+    if first ~= nil then pcall(first, control) end
+  end
   return control
 end
 

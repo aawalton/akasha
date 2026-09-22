@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { virtualsFrom } from "akasha/temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.code.ts"
+import {
+  virtualsFrom,
+  virtualsLua,
+} from "akasha/temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.code.ts"
 
 const ROW = `<GuiXml><Controls>
   <Control name="TemperRow" virtual="true" mouseEnabled="true">
@@ -37,6 +40,16 @@ const COLORED = `<GuiXml><Controls>
     <EdgeColor r="1" g="0.5" b="0" a="1" />
   </Backdrop>
   <Label name="TemperTinted" virtual="true" color="FF8000" />
+</Controls></GuiXml>`
+
+const READY = `<GuiXml><Controls>
+  <Control name="TemperReady" virtual="true">
+    <OnInitialized>ZO_Ready(self)</OnInitialized>
+  </Control>
+</Controls></GuiXml>`
+
+const QUOTED = `<GuiXml><Controls>
+  <Label name="TemperQuoted" virtual="true" text="he said &quot;no&quot;" />
 </Controls></GuiXml>`
 
 describe("virtualsFrom", () => {
@@ -114,5 +127,37 @@ describe("virtualsFrom", () => {
       '<GuiXml><Controls><Control name="TemperReal" /></Controls></GuiXml>',
     ])
     expect(Object.keys(table)).toEqual([])
+  })
+
+  test("reads the handler an element writes inline", () => {
+    const table = virtualsFrom([READY])
+    expect(table.TemperReady?.handlers.OnInitialized).toContain("ZO_Ready(self)")
+  })
+})
+
+describe("virtualsLua", () => {
+  test("writes each template into a chunk the sandbox reads", () => {
+    const chunks = virtualsLua(virtualsFrom([ROW]), 10)
+    expect(chunks).toHaveLength(1)
+    expect(chunks[0]).toContain("__ui_virtuals({")
+    expect(chunks[0]).toContain('["TemperRow"]')
+    expect(chunks[0]).toContain("controlType = 1")
+    expect(chunks[0]).toContain("width = 300")
+    expect(chunks[0]).toContain("anchorFill = true")
+  })
+
+  test("writes a handler as a Lua function the sandbox compiles", () => {
+    const chunks = virtualsLua(virtualsFrom([READY]), 10)
+    expect(chunks[0]).toContain('["OnInitialized"] = function(self, ...)')
+    expect(chunks[0]).toContain("ZO_Ready(self)")
+  })
+
+  test("breaks the templates into batches of the size it is given", () => {
+    expect(virtualsLua(virtualsFrom([INHERITING]), 1)).toHaveLength(2)
+  })
+
+  test("escapes a quotation mark inside text", () => {
+    const chunks = virtualsLua(virtualsFrom([QUOTED]), 10)
+    expect(chunks[0]).toContain('he said \\"no\\"')
   })
 })

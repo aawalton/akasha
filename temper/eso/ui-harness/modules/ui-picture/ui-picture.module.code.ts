@@ -90,6 +90,7 @@ export type UiPictureOptions = {
   readonly screen?: UiRect
   readonly backdrop?: string
   readonly whole?: boolean
+  readonly origin?: { readonly left: number; readonly top: number }
   readonly textureAt?: (texture: string) => string | null
 }
 
@@ -145,7 +146,8 @@ function shownOnly(root: UiControl): ReadonlySet<UiControl> {
 function boxHtml(box: UiBox, options: UiPictureOptions): string {
   const one = box.control
   const rect = box.rect
-  const place = `left:${rect.left}px;top:${rect.top}px;width:${rect.width}px;height:${rect.height}px;`
+  const from = options.origin ?? { left: 0, top: 0 }
+  const place = `left:${rect.left - from.left}px;top:${rect.top - from.top}px;width:${rect.width}px;height:${rect.height}px;`
   const fade = one.alpha >= 1 ? "" : `opacity:${one.alpha};`
   const told = one.name === undefined ? "" : ` title="${escaped(one.name)}"`
   if (one.controlType === CT_BACKDROP) {
@@ -211,25 +213,19 @@ export async function takePicture(
   const boxes = layOut(root, { screen })
   const first = boxes[0]
   const taken: UiRect = options.whole === true || first === undefined ? screen : first.rect
+  const wide = Math.max(1, Math.round(taken.width))
+  const tall = Math.max(1, Math.round(taken.height))
   const browser = await chromium.launch({
     headless: true,
     args: CHROMIUM_ARGS,
     env: CHROMIUM_LAUNCH_ENV,
   })
   try {
-    const page = await browser.newPage({
-      viewport: { width: screen.width, height: screen.height },
+    const page = await browser.newPage({ viewport: { width: wide, height: tall } })
+    await page.setContent(pictureHtml(root, { ...options, screen, origin: taken }), {
+      waitUntil: "load",
     })
-    await page.setContent(pictureHtml(root, { ...options, screen }), { waitUntil: "load" })
-    await page.screenshot({
-      path: at,
-      clip: {
-        x: taken.left,
-        y: taken.top,
-        width: Math.max(1, taken.width),
-        height: Math.max(1, taken.height),
-      },
-    })
+    await page.screenshot({ path: at })
   } finally {
     await browser.close()
   }
