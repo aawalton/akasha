@@ -37,5 +37,6 @@ export const rynStandardAgentEnglish = {
     '"A word the domain around it gives a sense to is declared by that domain rather than entering the lexicon."',
     '"A word enters the lexicon only where that word is one part of speech everywhere akasha writes that word."',
     '"Which word or construction is put to Alan next is chosen here rather than asked of Alan."',
+    '"A construction is put to Alan only where the phrases it admits cannot be restated plainly in the grammar as it is."',
   ],
 } as const satisfies Initiative
