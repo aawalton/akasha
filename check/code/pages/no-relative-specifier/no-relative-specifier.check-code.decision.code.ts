@@ -29,6 +29,20 @@ function found(path: string, text: string): readonly string[] {
 
 export const reasonsIn: (given: Body) => readonly string[] = overEachText(found)
 
+export function refusalsIn(
+  paths: readonly string[],
+  read: (path: string) => string | null
+): readonly Judged[] {
+  const said: Judged[] = []
+  for (const path of paths) {
+    if (!textNamed(path)) continue
+    const text = read(path)
+    if (text === null) continue
+    for (const reason of found(path, text)) said.push({ path, reason })
+  }
+  return said
+}
+
 export function refusalsOver(change: Change): readonly Judged[] {
   return overEachFile(change, textNamed, reasonsIn)
 }
