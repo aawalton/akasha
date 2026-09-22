@@ -89,13 +89,13 @@ function createOrUpdateScrollBarButton(
         scrollButtonCtrl = CreateControlFromVirtual(
           scrollbar.GetName() + "_TweakScrollToTopButton",
           scrollbar,
-          "TweakVerticalScroll_ToTop_Template"
+          "TemperTweakVerticalScroll_ToTop_Template"
         )
       } else {
         scrollButtonCtrl = CreateControlFromVirtual(
           scrollbar.GetName() + "_TweakScrollToBottomButton",
           scrollbar,
-          "TweakVerticalScroll_ToBottom_Template"
+          "TemperTweakVerticalScroll_ToBottom_Template"
         )
       }
       if (scrollButtonCtrl !== undefined && directionCache !== undefined) {
