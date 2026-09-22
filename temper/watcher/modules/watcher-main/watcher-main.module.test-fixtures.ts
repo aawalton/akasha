@@ -239,7 +239,8 @@ export function syncOf(
     serverUrl: "https://server.test",
     fileState: initialFileState(),
     dispatch: dispatched(),
-    readWhenStable: () => Promise.resolve({ content: "{ }", snapshot: { size: 3, mtimeMs: 5 } }),
+    readWhenStable: () =>
+      Promise.resolve({ content: "TemperItems = { }", snapshot: { size: 17, mtimeMs: 5 } }),
     stillMatches: () => true,
     writeBack: (_path: string, content: string) => {
       written.push(content)

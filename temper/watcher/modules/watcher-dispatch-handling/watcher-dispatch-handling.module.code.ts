@@ -36,7 +36,9 @@ export const FILE_NOT_FOUND = "file not found"
 
 export const NEVER_STABILIZED = "file never stabilized"
 
-export const LOOKS_TRUNCATED = "content looks truncated (no closing brace)"
+export const LOOKS_TRUNCATED = "content is no whole saved-variables file"
+
+export const WRITE_BACK_REFUSED = "write-back refused — it is no whole saved-variables file"
 
 export const CHANGED_SINCE_STABLE_READ = "file changed since the stable read"
 
@@ -178,7 +180,7 @@ export function makeDispatchHandler(args: DispatchHandlerArgs): () => void {
       if (shouldSkipSelfWrite(hashContent(content), fileState.lastWriteBackContentHash)) return
 
       if (!looksStructurallyComplete(content)) {
-        note(`${name} skipped — ${LOOKS_TRUNCATED}`)
+        note(`${name} is broken — carrying on so a whole write-back can replace it`)
         await args.report(
           preDispatchOperations({
             fileType,
@@ -188,7 +190,6 @@ export function makeDispatchHandler(args: DispatchHandlerArgs): () => void {
             detail: LOOKS_TRUNCATED,
           })
         )
-        return
       }
 
       note(`${name} changed, uploading...`)
@@ -219,6 +220,10 @@ export function makeDispatchHandler(args: DispatchHandlerArgs): () => void {
       if (answer.writeBack === null) return
       if (!fileUnchanged(filePath, snapshot)) {
         note(`${name} write-back skipped — ${CHANGED_SINCE_STABLE_READ}`)
+        return
+      }
+      if (!looksStructurallyComplete(answer.writeBack)) {
+        noteFailure(`${name} ${WRITE_BACK_REFUSED}`)
         return
       }
       writeBackTo(filePath, answer.writeBack)

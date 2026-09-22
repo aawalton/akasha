@@ -43,7 +43,15 @@ export const watcherDispatchHandling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Content closing with no brace is reported as a parse failure.",
+      statement: "Content whole at neither end is reported as a parse failure.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file already broken is dispatched anyway, so a write-back can replace it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write-back whole at neither end is refused rather than written.",
     },
     {
       decisionKind: "decision-kind/departure",

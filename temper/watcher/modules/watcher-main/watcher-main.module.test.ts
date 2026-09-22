@@ -110,15 +110,32 @@ test("an inventory that never settled is skipped", async () => {
   ])
 })
 
-test("a truncated inventory is skipped", async () => {
+test("a broken inventory is synced anyway so a whole write-back can replace it", async () => {
   const said = lines()
+  const written: string[] = []
   await syncInventoryAtStart(
-    syncOf(said, [], {
+    syncOf(said, written, {
       readWhenStable: () =>
         Promise.resolve({ content: "{ oops", snapshot: { size: 6, mtimeMs: 5 } }),
+      dispatch: dispatched({ writeBack: "TemperItems = { back }" }),
     })
   )
-  expect(said.info[1]).toBe("Inventory sync skipped — content looks truncated (no closing brace)")
+  expect(said.info[1]).toBe(
+    "Inventory file is broken — syncing anyway so a whole write-back can replace it"
+  )
+  expect(written).toEqual(["TemperItems = { back }"])
+})
+
+test("a write-back that is no whole saved-variables file is refused", async () => {
+  const said = lines()
+  const written: string[] = []
+  await syncInventoryAtStart(
+    syncOf(said, written, { dispatch: dispatched({ writeBack: '["sell"] = { }' }) })
+  )
+  expect(written).toEqual([])
+  expect(said.error).toEqual([
+    "Inventory sync write-back refused — it is no whole saved-variables file",
+  ])
 })
 
 test("an inventory with nothing to write back is up to date", async () => {
@@ -143,10 +160,13 @@ test("a write-back is applied and remembered by its hash", async () => {
   const said = lines()
   const written: string[] = []
   const sync = syncOf(said, written, {
-    dispatch: dispatched({ writeBack: "{ back }", inventoryConfigSideFileHash: "side-hash" }),
+    dispatch: dispatched({
+      writeBack: "TemperItems = { back }",
+      inventoryConfigSideFileHash: "side-hash",
+    }),
   })
   await syncInventoryAtStart(sync)
-  expect(written).toEqual(["{ back }"])
+  expect(written).toEqual(["TemperItems = { back }"])
   expect(said.info[1]).toBe("Inventory settings synced")
   expect(sync.fileState.lastInventoryConfigWriteBackHash).toBe("side-hash")
   expect(sync.fileState.lastWriteBackContentHash).toHaveLength(64)
@@ -158,7 +178,7 @@ test("a write-back for a file that changed since the stable read is skipped", as
   await syncInventoryAtStart(
     syncOf(said, written, {
       stillMatches: () => false,
-      dispatch: dispatched({ writeBack: "{ back }" }),
+      dispatch: dispatched({ writeBack: "TemperItems = { back }" }),
     })
   )
   expect(written).toEqual([])

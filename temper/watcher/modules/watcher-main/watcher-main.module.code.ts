@@ -6,10 +6,11 @@ import {
   sourcePathFor,
   type WatcherConfig,
 } from "akasha/temper/watcher/modules/watcher-config/watcher-config.module.code.ts"
-import type {
-  DispatchAnswer,
-  DispatchAsk,
-  DispatchHandlerArgs,
+import {
+  type DispatchAnswer,
+  type DispatchAsk,
+  type DispatchHandlerArgs,
+  WRITE_BACK_REFUSED,
 } from "akasha/temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
 import { FILE_TYPES } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
 import {
@@ -159,8 +160,7 @@ export async function syncInventoryAtStart(sync: InventorySync): Promise<undefin
       return undefined
     }
     if (!looksStructurallyComplete(stable.content)) {
-      log("Inventory sync skipped — content looks truncated (no closing brace)")
-      return undefined
+      log("Inventory file is broken — syncing anyway so a whole write-back can replace it")
     }
 
     const answer = await sync.dispatch({
@@ -185,6 +185,10 @@ export async function syncInventoryAtStart(sync: InventorySync): Promise<undefin
     }
     if (!sync.stillMatches(sync.inventoryPath, stable.snapshot)) {
       log("Inventory sync write-back skipped — file changed since the stable read")
+      return undefined
+    }
+    if (!looksStructurallyComplete(answer.writeBack)) {
+      logError(`Inventory sync ${WRITE_BACK_REFUSED}`)
       return undefined
     }
     sync.writeBack(sync.inventoryPath, answer.writeBack)

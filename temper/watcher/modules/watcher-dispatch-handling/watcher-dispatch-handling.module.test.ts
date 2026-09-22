@@ -10,6 +10,7 @@ import {
   makeDispatchHandler,
   NEVER_STABILIZED,
   sideFileKeysFor,
+  WRITE_BACK_REFUSED,
 } from "akasha/temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
 import {
   FILE_TYPES,
@@ -212,9 +213,36 @@ test("content with no closing brace is reported as a parse failure", async () =>
   const r = rig({ stable: { content: "TemperItemsData = {", snapshot: SNAPSHOT } })
   r.handler()
   await r.drain()
-  expect(r.notes).toEqual([`Inventory skipped — ${LOOKS_TRUNCATED}`])
+  expect(r.notes[0]).toBe("Inventory is broken — carrying on so a whole write-back can replace it")
   expect(r.reported[0]?.[0]?.state).toBe("parse_failed")
   expect(r.reported[0]?.[0]?.detail).toBe(LOOKS_TRUNCATED)
+})
+
+test("content whose head was lost is reported as a parse failure too", async () => {
+  const r = rig({ stable: { content: '["sell"] = { }', snapshot: SNAPSHOT } })
+  r.handler()
+  await r.drain()
+  expect(r.reported[0]?.[0]?.state).toBe("parse_failed")
+})
+
+test("a file already broken is dispatched anyway so a write-back can replace it", async () => {
+  const r = rig({
+    stable: { content: '["sell"] = { }', snapshot: SNAPSHOT },
+    answer: answerOf({ writeBack: "new = {}" }),
+  })
+  r.handler()
+  await r.drain()
+  expect(r.asks).toHaveLength(1)
+  expect(r.written).toEqual([{ path: PATH, content: "new = {}" }])
+})
+
+test("a write-back that is no whole saved-variables file is refused", async () => {
+  const r = rig({ answer: answerOf({ writeBack: '["sell"] = { }' }) })
+  r.handler()
+  await r.drain()
+  expect(r.written).toHaveLength(0)
+  expect(r.failures).toEqual([`Inventory ${WRITE_BACK_REFUSED}`])
+  expect(r.fileState.lastWriteBackContentHash).toBeNull()
 })
 
 test("the ask carries the path, the modification time and the side file config path", async () => {
