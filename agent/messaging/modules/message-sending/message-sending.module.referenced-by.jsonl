@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"message-sending.module.code.ts","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"message-sending.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}
 {"propertySlug":"import","fileName":"message-sending.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"}
+{"propertySlug":"import","fileName":"message-sending.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"message-sending.module.code.ts","path":"alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"message-sending.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"message-sending.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-sweeping/orphan-sweeping.module.code.ts"}
