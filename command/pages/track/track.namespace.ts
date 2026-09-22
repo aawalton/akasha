@@ -13,6 +13,7 @@ export const track = {
     "module/session-rows",
     "module/waking",
     "namespace/track-session",
+    "command/track-topic-words",
   ],
   name: "track",
 } as const satisfies Namespace

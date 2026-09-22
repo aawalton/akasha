@@ -8,6 +8,7 @@
 {"propertySlug":"argument","path":"command/pages/track/session/open/track-session-open.command.ts","id":"01a07979-7e12-70a2-94c9-93c43aec2949"}
 {"propertySlug":"argument","path":"command/pages/track/session/split/track-session-split.command.ts","id":"01a07979-7fe5-72fa-8982-e069a28c90c2"}
 {"propertySlug":"argument","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
+{"propertySlug":"argument","path":"command/pages/track/topic-words/track-topic-words.command.ts","id":"01a0ca3d-3f9d-7bc5-8a46-b199902bf3ac"}
 {"propertySlug":"argument","path":"command/pages/track/weight/track-weight.command.ts","id":"01a07bfe-36da-7166-8f06-6fa75c6f8c29"}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/session/amend/track-session-amend.command.code.ts"}
@@ -28,4 +29,5 @@
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/session/split/track-session-split.command.test.ts"}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/session/switch/track-session-switch.command.code.ts"}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/session/switch/track-session-switch.command.test.ts"}
+{"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/topic-words/track-topic-words.command.code.ts"}
 {"propertySlug":"import","fileName":"day.argument.ts","path":"command/pages/track/weight/track-weight.command.code.ts"}

@@ -560,6 +560,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/track/session/split/track-session-split.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.test.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/track/topic-words/track-topic-words.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/track/weight/track-weight.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/track/weight/track-weight.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}

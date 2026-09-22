@@ -280,6 +280,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/track/session/open/track-session-open.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/track/session/split/track-session-split.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.code.ts"}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/track/topic-words/track-topic-words.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/track/weight/track-weight.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/argument/modules/taking/argument-taking.module.test.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/modules/page-answering/page-answering.module.test.ts"}

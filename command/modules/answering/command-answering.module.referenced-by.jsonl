@@ -446,6 +446,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/track/session/file/track-session-file.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/track/session/list/track-session-list.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/track/session/modules/session-acting/session-acting.module.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/track/topic-words/track-topic-words.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/track/weight/track-weight.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/track/weight/track-weight.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
