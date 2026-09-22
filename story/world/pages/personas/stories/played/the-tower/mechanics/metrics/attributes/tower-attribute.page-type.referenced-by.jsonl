@@ -1,0 +1,17 @@
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-finesse/tower-finesse.page-type.ts","id":"01a0c9f7-e86e-7225-9d40-1dfc8c0359db"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-intellect/tower-intellect.page-type.ts","id":"01a0c9f8-07ea-7aa5-a99c-f754925d3688"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-luck/tower-luck.page-type.ts","id":"01a0c9f8-452d-7de5-835a-96d69661cb13"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-might/tower-might.page-type.ts","id":"01a0c9f7-d963-7f53-8012-54fb59cc1f57"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-perception/tower-perception.page-type.ts","id":"01a0c9f8-162a-7188-9342-52e4f83219de"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-presence/tower-presence.page-type.ts","id":"01a0c9f8-360e-7730-8d24-e99143f25029"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-vitality/tower-vitality.page-type.ts","id":"01a0c9f7-f79f-742c-9dd7-88f6a43f93f5"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-will/tower-will.page-type.ts","id":"01a0c9f8-25ca-73ff-9748-427d547e9ab1"}
+{"propertySlug":"import","fileName":"tower-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-finesse/tower-finesse.page-type.types.ts"}
+{"propertySlug":"import","fileName":"tower-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-intellect/tower-intellect.page-type.types.ts"}
+{"propertySlug":"import","fileName":"tower-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-luck/tower-luck.page-type.types.ts"}
+{"propertySlug":"import","fileName":"tower-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-might/tower-might.page-type.types.ts"}
+{"propertySlug":"import","fileName":"tower-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-perception/tower-perception.page-type.types.ts"}
+{"propertySlug":"import","fileName":"tower-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-presence/tower-presence.page-type.types.ts"}
+{"propertySlug":"import","fileName":"tower-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-vitality/tower-vitality.page-type.types.ts"}
+{"propertySlug":"import","fileName":"tower-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-will/tower-will.page-type.types.ts"}
+{"propertySlug":"parts","path":"story/mechanic/metric/character-attribute/character-attribute.page-type.ts","id":"01a0c9f6-f0c6-7de0-acb3-6f5f9252d4e2"}

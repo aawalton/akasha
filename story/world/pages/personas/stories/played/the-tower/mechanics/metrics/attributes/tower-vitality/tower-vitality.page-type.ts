@@ -5,7 +5,7 @@ export const towerVitality = {
   type: "page-type/page-type",
   slug: "tower-vitality",
   definition: "how much a character in the Tower endures",
-  extends: ["page-type/character-attribute"],
+  extends: ["page-type/tower-attribute"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

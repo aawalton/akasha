@@ -5,7 +5,7 @@ export const towerIntellect = {
   type: "page-type/page-type",
   slug: "tower-intellect",
   definition: "how well a character in the Tower reasons",
-  extends: ["page-type/character-attribute"],
+  extends: ["page-type/tower-attribute"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

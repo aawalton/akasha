@@ -5,7 +5,7 @@ export const towerPresence = {
   type: "page-type/page-type",
   slug: "tower-presence",
   definition: "how strongly a character in the Tower carries a room",
-  extends: ["page-type/character-attribute"],
+  extends: ["page-type/tower-attribute"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

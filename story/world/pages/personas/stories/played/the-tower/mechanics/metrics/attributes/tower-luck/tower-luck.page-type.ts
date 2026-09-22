@@ -5,7 +5,7 @@ export const towerLuck = {
   type: "page-type/page-type",
   slug: "tower-luck",
   definition: "how far chance favours a character in the Tower",
-  extends: ["page-type/character-attribute"],
+  extends: ["page-type/tower-attribute"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

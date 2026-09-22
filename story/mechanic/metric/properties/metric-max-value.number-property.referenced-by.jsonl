@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"metric-max-value.number-property.types.ts","path":"story/mechanic/metric/metric.page-type.types.ts"}
+{"propertySlug":"import","fileName":"metric-max-value.number-property.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-attribute.page-type.types.ts"}
 {"propertySlug":"page-property","path":"story/mechanic/metric/metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
+{"propertySlug":"page-property","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-attribute.page-type.ts","id":"01a0ca26-9ce6-7a3c-8e2d-eb3199a1ecdd"}
 {"propertySlug":"parts","path":"story/mechanic/metric/metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
