@@ -98,7 +98,6 @@
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-tmp/no-tmp.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-tmp/no-tmp.check-code.check.code.ts"}
-{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.check.code.ts"}

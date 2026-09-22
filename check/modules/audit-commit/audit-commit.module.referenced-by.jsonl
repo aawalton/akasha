@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-method-signature/no-method-signature.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-re-export/no-re-export.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-relative-specifier/no-relative-specifier.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.code.ts"}
