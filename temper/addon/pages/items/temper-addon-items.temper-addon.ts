@@ -331,5 +331,14 @@ export const temperAddonItems = {
       decisionKind: "decision-kind/departure",
       statement: "Each half of the add-on registers its own load under a namespace of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A module's top level touches no global only the game declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chat command, a string id and a listener are installed by a function the add-on's load calls.",
+    },
   ],
 } as const satisfies TemperAddon

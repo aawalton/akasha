@@ -96,8 +96,6 @@ export interface TemperItemsCraftingState {
   Sets: Record<number, CraftedSetEntry>
 }
 
-ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE", "Temper Crafting")
-
 const [, , maxTraits] = GetSmithingResearchLineInfo(1, 1)
 const [, , jewelryMaxTraits] = GetSmithingResearchLineInfo(7, 1)
 

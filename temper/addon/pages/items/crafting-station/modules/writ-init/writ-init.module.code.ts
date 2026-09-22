@@ -7,9 +7,9 @@ import "akasha/temper/addon/pages/items/crafting-station/modules/writ-parser-dis
 import "akasha/temper/addon/pages/items/crafting-station/modules/writ-public-api/writ-public-api.module.code.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_WRIT_WORTHY", "TemperWrit")
-
 export function initializeTemperWrit(): undefined {
+  ZO_CreateStringId("SI_KEYBINDINGS_CATEGORY_WRIT_WORTHY", "TemperWrit")
+
   initSavedVariables()
 
   registerSlashCommands()

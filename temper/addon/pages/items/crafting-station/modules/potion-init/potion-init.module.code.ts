@@ -48,9 +48,9 @@ import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declar
 
 PotMaker.language = EN_LANGUAGE
 
-registerStrings()
-
 export function initializeTemperPotions(this: void): undefined {
+  registerStrings()
+
   const language = GetCVar("language.2") ?? "en"
   PotMaker.languageSupported = PotMaker.language.name === language
 

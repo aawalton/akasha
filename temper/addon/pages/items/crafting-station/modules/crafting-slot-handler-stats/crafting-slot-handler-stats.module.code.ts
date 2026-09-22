@@ -82,4 +82,6 @@ function reportInstrumentStats(this: void): undefined {
   }
 }
 
-SLASH_COMMANDS["/tcstats"] = reportInstrumentStats
+export function registerInstrumentStatsCommand(this: void): undefined {
+  SLASH_COMMANDS["/tcstats"] = reportInstrumentStats
+}

@@ -6,4 +6,14 @@ export const craftingSlotHandlerStats = {
   slug: "crafting-slot-handler-stats",
   definition: "how long an inventory slot handler took",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A module's top level touches no global only the game declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chat command is installed by a function the add-on's load calls.",
+    },
+  ],
 } as const satisfies Module

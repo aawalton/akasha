@@ -13,6 +13,7 @@ import {
   ADDON_NAME,
   BANK_BAGS,
   PERSONAL_BAGS,
+  registerItemsStringIds,
 } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   scanAccountCurrencies,
@@ -63,6 +64,7 @@ import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declar
 
 function initialize(): undefined {
   const perfStart = startPerfTrace()
+  registerItemsStringIds()
   initializeSavedVariables()
   cleanupExpiredCooldowns()
   registerTooltipHook()

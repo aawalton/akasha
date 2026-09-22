@@ -77,7 +77,10 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"
 import { filterPublishedItems } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { TEMPER_ITEMS_CRAFTING_API } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-public-api/crafting-public-api.module.code.ts"
-import { timed } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-slot-handler-stats/crafting-slot-handler-stats.module.code.ts"
+import {
+  registerInstrumentStatsCommand,
+  timed,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-slot-handler-stats/crafting-slot-handler-stats.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
 import { initializeTemperPotions } from "akasha/temper/addon/pages/items/crafting-station/modules/potion-init/potion-init.module.code.ts"
 import { initializeTemperWrit } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-init/writ-init.module.code.ts"
@@ -138,6 +141,7 @@ export function onAddOnLoaded(this: void): undefined {
     STATE.Character.income[2] = GetCurrentMoney()
   }
 
+  ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE", "Temper Crafting")
   ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE_WINDOW", STATE.Loc.TT[14])
 
   ZO_CreateStringId("SI_BINDING_NAME_CRAFTSTORE_STYLES", STATE.Loc.TT[35])
@@ -277,9 +281,11 @@ export function onAddOnLoaded(this: void): undefined {
   Knowledge.onInitialized("TemperMasterWritInventoryMarker", () => {
     initializeMasterWritInventoryMarker()
   })
+
+  registerCraftingCommands()
 }
 
-if (STATE.Debug) {
+function registerDebugCommands(this: void): undefined {
   _CS = STATE
   SLASH_COMMANDS["//"] =
     SLASH_COMMANDS["/reloadui"] ?? error("TemperItemsCrafting: missing /reloadui")
@@ -297,15 +303,22 @@ if (STATE.Debug) {
   }
 }
 
-SLASH_COMMANDS["/tempercraft"] = showMain
-SLASH_COMMANDS["/tc"] = showMain
-SLASH_COMMANDS["/tcpurge"] = storagePurge
-SLASH_COMMANDS["/tcrepair"] = repairStored
-SLASH_COMMANDS["/tcrepairknowledge"] = updateRecipeKnowledge
-SLASH_COMMANDS["/tcremovechar"] = removeCharacter
+function registerCraftingCommands(this: void): undefined {
+  if (STATE.Debug) {
+    registerDebugCommands()
+  }
 
-globalThis.TemperHud?.registerCommand({
-  name: "/tempercraft",
-  description: "Crafting storage & research window",
-  addon: "TemperItems",
-})
+  SLASH_COMMANDS["/tempercraft"] = showMain
+  SLASH_COMMANDS["/tc"] = showMain
+  SLASH_COMMANDS["/tcpurge"] = storagePurge
+  SLASH_COMMANDS["/tcrepair"] = repairStored
+  SLASH_COMMANDS["/tcrepairknowledge"] = updateRecipeKnowledge
+  SLASH_COMMANDS["/tcremovechar"] = removeCharacter
+  registerInstrumentStatsCommand()
+
+  globalThis.TemperHud?.registerCommand({
+    name: "/tempercraft",
+    description: "Crafting storage & research window",
+    addon: "TemperItems",
+  })
+}
