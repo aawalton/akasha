@@ -237,9 +237,6 @@ export function onAddOnLoaded(this: void): undefined {
 
 if (STATE.Debug) {
   _CS = STATE
-  SLASH_COMMANDS["/_"] = () => {
-    STATE.Chat.Print(_)
-  }
   SLASH_COMMANDS["//"] =
     SLASH_COMMANDS["/reloadui"] ?? error("TemperItemsCrafting: missing /reloadui")
   SLASH_COMMANDS["/langfr"] = () => {

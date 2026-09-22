@@ -255,5 +255,3 @@ interface ScaleAnimation extends ZO_Animation {
   SetStartScale: (scale: number) => undefined
   SetEndScale: (scale: number) => undefined
 }
-
-declare const _: string | undefined
