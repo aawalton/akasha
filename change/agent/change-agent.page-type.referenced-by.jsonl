@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.ts"}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/rename-spellings/rename-spellings.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/add-file/add-file.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.ts"}

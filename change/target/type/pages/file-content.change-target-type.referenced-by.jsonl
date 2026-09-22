@@ -19,6 +19,7 @@
 {"propertySlug":"change-target-type","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.ts","id":"01a095d5-f114-71cc-888d-338de89fc74b"}
 {"propertySlug":"change-target-type","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.ts","id":"01a07718-c9b6-7d80-aebd-b1155f08ab77"}
 {"propertySlug":"change-target-type","path":"change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.ts","id":"01a08dc4-e449-7081-b339-7a0d9b4ca947"}
+{"propertySlug":"change-target-type","path":"change/agent/file-content/rename-spellings/rename-spellings.change-agent.ts","id":"01a0c6a4-1550-79dd-90c7-9032b858cc71"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts","id":"01a08174-b09a-7bbd-acf1-6892ecfb3575"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.ts","id":"01a081d9-419a-72bf-ae0b-5318df5fce07"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file-content/add/add-property-to-pages/add-property-to-pages.change-mechanical-file-content.ts","id":"01a0c66c-5c3f-7947-95c5-50580ca3f4ba"}

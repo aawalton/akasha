@@ -2,6 +2,7 @@
 {"propertySlug":"change-target-subtype","path":"change/agent/file-content/append-lines/append-lines.change-agent.ts","id":"01a08c38-a17c-70de-985a-a097e3dced7d"}
 {"propertySlug":"change-target-subtype","path":"change/agent/file-content/change-file/change-file.change-agent.ts","id":"01a07813-6e3d-7d39-a28a-164766ab0fed"}
 {"propertySlug":"change-target-subtype","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.ts","id":"01a0c51c-4184-74e1-bdcc-12ed5a5f6bf5"}
+{"propertySlug":"change-target-subtype","path":"change/agent/file-content/rename-spellings/rename-spellings.change-agent.ts","id":"01a0c6a4-1550-79dd-90c7-9032b858cc71"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts","id":"01a08c36-f87f-791e-99a3-e195153103fb"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.ts","id":"01a0826c-1190-79a9-aa7d-6eaf11dec403"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts","id":"01a07810-fb33-7e75-8e1e-ce1e302d5668"}

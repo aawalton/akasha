@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/rename-spellings/rename-spellings.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file/add-file/add-file.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file/rename-page/rename-page.change-agent.test.ts"}
