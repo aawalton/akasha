@@ -5,7 +5,7 @@ export const gmailDecision = {
   type: "page-type/text-property",
   slug: "gmail-decision",
   propertySlug: "decision",
-  definition: "what was settled about a message the mailbox went through",
+  definition: "what the mailbox settled about a message",
   maxLength: 40,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

@@ -4,7 +4,7 @@ export const answer = {
   id: "01a05bd6-c528-7413-9995-26f888309a61",
   type: "page-type/module",
   slug: "answer",
-  definition: "what a page or page-type query is answered with",
+  definition: "what answers a page or page-type query",
   code: "ts",
   test: "ts",
   decisions: [

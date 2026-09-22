@@ -4,7 +4,7 @@ export const packageName = {
   id: "01a04fed-2fc1-7a67-b2fe-8402f52dd5c8",
   type: "page-type/name-place",
   slug: "package-name",
-  definition: "the name a package is required by",
+  definition: "a package's name",
   nameFormat: null,
   decisions: [
     {

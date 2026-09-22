@@ -4,6 +4,6 @@ export const useNotesViewProps = {
   id: "01a05cba-9cbb-7772-89aa-fee7462330b0",
   type: "page-type/module",
   slug: "use-notes-view-props",
-  definition: "what a notes view is drawn from",
+  definition: "what draws a notes view",
   code: "ts",
 } as const satisfies Module

@@ -4,7 +4,7 @@ export const pageCover = {
   id: "01a0617e-0d2d-7009-84e0-cb261f506633",
   type: "page-type/module",
   slug: "page-cover",
-  definition: "a page's cover image and the popover setting the url it loads from",
+  definition: "a page's cover image and the popover setting its url",
   code: "tsx",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const title = {
   type: "page-type/text-property",
   slug: "title",
   propertySlug: "title",
-  definition: "the name a thing is shown under",
+  definition: "a thing's name",
   maxLength: 200,
   nameFormat: null,
   decisions: [

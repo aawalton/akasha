@@ -5,7 +5,7 @@ export const supabaseAuthUserId = {
   type: "page-type/text-property",
   slug: "supabase-auth-user-id",
   propertySlug: "supabase-auth-user-id",
-  definition: "the account a person signs in with",
+  definition: "a person's sign-in account",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
   decisions: [

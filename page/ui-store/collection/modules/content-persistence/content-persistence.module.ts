@@ -4,6 +4,6 @@ export const contentPersistence = {
   id: "01a05b69-453e-733e-b49f-b2a6010daa7f",
   type: "page-type/module",
   slug: "content-persistence",
-  definition: "the port a page's content is kept through",
+  definition: "the port keeping a page's content",
   code: "ts",
 } as const satisfies Module

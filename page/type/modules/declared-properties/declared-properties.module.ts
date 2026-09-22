@@ -4,8 +4,7 @@ export const declaredProperties = {
   id: "01a053f6-7bab-764e-b69d-af9ebf0f1558",
   type: "page-type/module",
   slug: "declared-properties",
-  definition:
-    "the properties a page type or a record property carries, each under the key it is read by",
+  definition: "the properties a page type or a record property carries, each under its reading key",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
