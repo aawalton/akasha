@@ -4,7 +4,7 @@ export const palette = {
   id: "01a064d3-f9f9-7259-a38b-0eb2aede39cb",
   type: "page-type/module",
   slug: "palette",
-  definition: "the color names the editor admits and the hex triplet each name answers with",
+  definition: "the color names the editor admits and each name's hex triplet",
   code: "ts",
   test: "ts",
   decisions: [

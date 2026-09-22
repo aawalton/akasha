@@ -4,6 +4,6 @@ export const changeTarget = {
   id: "01a0814e-c10e-7ebb-9a24-ec1c319fb801",
   type: "page-type/domain",
   slug: "change-target",
-  definition: "the thing a change acts on",
+  definition: "the thing under a change",
   parts: ["page-type/change-target-subtype", "page-type/change-target-type"],
 } as const satisfies Domain

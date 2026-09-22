@@ -4,7 +4,7 @@ export const changeMirror = {
   id: "01a080b1-5322-7000-ae97-da48e0382c61",
   type: "page-type/module",
   slug: "change-mirror",
-  definition: "a folder with the bodies a change has, each at the path it is filed at",
+  definition: "a folder with the bodies a change has, each at its own filed path",
   code: "ts",
   test: "ts",
   decisions: [
