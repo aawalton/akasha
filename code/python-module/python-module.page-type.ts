@@ -5,11 +5,16 @@ export const pythonModule = {
   type: "page-type/page-type",
   slug: "python-module",
   definition: "code in the Python language",
-  parts: ["build-folder-property/bytecode-directory", "code-file-property/python"],
+  parts: [
+    "build-folder-property/bytecode-directory",
+    "code-file-property/python",
+    "text-property/install-path",
+  ],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "code-file-property/python", required: true, many: false },
     { pageProperty: "build-folder-property/bytecode-directory", required: false, many: false },
+    { pageProperty: "text-property/install-path", required: false, many: false },
   ],
   decisions: [
     {
