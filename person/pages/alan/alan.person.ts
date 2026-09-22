@@ -5,6 +5,7 @@ export const alan = {
   type: "page-type/person",
   slug: "alan",
   definition: "the person akasha answers to",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "Alan" }],
   directives: [
     {
       directiveKind: "directive-kind/principle",
