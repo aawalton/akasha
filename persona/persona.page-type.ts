@@ -26,7 +26,6 @@ export const persona = {
     "module/desktop-wallpaper-setting",
     "module/persona-reading",
     "module/persona-targets",
-    "module/voice-spec",
     "module/wallpaper-order",
     "page-type/closeness-level",
     "page-type/origin-kind",
