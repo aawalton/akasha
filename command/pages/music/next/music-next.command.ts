@@ -4,7 +4,7 @@ export const musicNext = {
   id: "01a062f8-fe5a-7000-a955-ec84925efd37",
   type: "page-type/command",
   slug: "music-next",
-  definition: "the command choosing what Alan hears next out of the songs and artists he keeps",
+  definition: "the command choosing what Alan hears next out of the tracks and artists he keeps",
   code: "ts",
   test: "ts",
   decisions: [
@@ -14,11 +14,23 @@ export const musicNext = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The catalogue is read from the song pages and the artist pages.",
+      statement: "The catalogue is read from the track pages, the song pages and the artist pages.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A song reaches its artist whether or not it names that artist's page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track reaches its artist through the song that track records.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track naming no song is left out of the catalogue.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A track stating no Spotify id on any release is left out of the catalogue.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,7 +39,16 @@ export const musicNext = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A song page stating nothing performed is read as a song Alan holds no recording of.",
+        "The id answered is the one Spotify gives on the first release by slug carrying it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The uri answered is `spotify:track:` and that id, which `play` takes whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The play query stays beside the uri, because a Spotify id dies where a release does.",
     },
     {
       decisionKind: "decision-kind/departure",

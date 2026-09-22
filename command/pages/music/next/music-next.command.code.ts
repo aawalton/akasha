@@ -2,6 +2,7 @@ import type {
   Catalog,
   CatalogArtist,
   CatalogSong,
+  CatalogTrack,
   Exploration,
 } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
 import { selectNextExploration } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
@@ -18,7 +19,11 @@ import { musicNext as page } from "akasha/command/pages/music/next/music-next.co
 import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  recordsIn,
+  slugOf,
+  textIn,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"
 import { propertiesIfNamedOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
@@ -26,7 +31,17 @@ const ARTIST = "artist"
 
 const SONG = "song"
 
+const TRACK = "track"
+
 const GRADE = "grade"
+
+const CARRIED_BY = "carriedBy"
+
+const RELEASE = "release"
+
+const EXTERNAL_ID = "externalId"
+
+const URI_FROM = "spotify:track:"
 
 type Held = Record<string, unknown>
 
@@ -38,7 +53,9 @@ type Named = {
 export type Selection = {
   readonly kind: Exploration["kind"]
   readonly artist?: Named
-  readonly song?: Named
+  readonly track?: Named
+  readonly spotifyId?: string
+  readonly uri?: string
   readonly playQuery?: string
 }
 
@@ -68,7 +85,7 @@ export function undeclaredIn(root: string, pageTypeSlug: string): string | null 
 }
 
 export function gradeAmiss(root: string): string | null {
-  return undeclaredIn(root, ARTIST) ?? undeclaredIn(root, SONG)
+  return undeclaredIn(root, ARTIST) ?? undeclaredIn(root, SONG) ?? undeclaredIn(root, TRACK)
 }
 
 function artistIn(held: Held): CatalogArtist {
@@ -86,30 +103,67 @@ function songIn(held: Held): CatalogSong {
   const named = text(held, ARTIST)
   return {
     slug: text(held, "slug") ?? "",
-    title: text(held, "title") ?? "",
     artist: named === undefined ? "" : slugOf(named),
-    performed: held["performed"] === true,
     ...(graded === undefined ? {} : { grade: graded }),
   }
 }
 
-export function catalogIn(root: string): Catalog {
-  return {
-    artists: valuesOfType(root, ARTIST).map((one) => artistIn(one.value)),
-    songs: valuesOfType(root, SONG).map((one) => songIn(one.value)),
+export function idIn(held: Held): string | undefined {
+  let earliest: string | undefined
+  let found: string | undefined
+  for (const one of recordsIn(held[CARRIED_BY])) {
+    const named = textIn(one, RELEASE)
+    const id = textIn(one, EXTERNAL_ID)
+    if (named === null || id === null) continue
+    const release = slugOf(named)
+    if (earliest === undefined || release < earliest) {
+      earliest = release
+      found = id
+    }
   }
+  return found
+}
+
+function trackIn(held: Held, artistOf: ReadonlyMap<string, string>): readonly CatalogTrack[] {
+  const named = text(held, SONG)
+  if (named === undefined) return []
+  const song = slugOf(named)
+  const artist = artistOf.get(song)
+  const spotifyId = idIn(held)
+  if (artist === undefined || artist === "" || spotifyId === undefined) return []
+  const graded = gradeOf(held)
+  return [
+    {
+      slug: text(held, "slug") ?? "",
+      title: text(held, "title") ?? "",
+      artist,
+      song,
+      spotifyId,
+      ...(graded === undefined ? {} : { grade: graded }),
+    },
+  ]
+}
+
+export function catalogIn(root: string): Catalog {
+  const artists = valuesOfType(root, ARTIST).map((one) => artistIn(one.value))
+  const songs = valuesOfType(root, SONG).map((one) => songIn(one.value))
+  const artistOf = new Map(songs.map((one): readonly [string, string] => [one.slug, one.artist]))
+  const tracks = valuesOfType(root, TRACK).flatMap((one) => trackIn(one.value, artistOf))
+  return { artists, songs, tracks }
 }
 
 export function selectionOf(exploration: Exploration): Selection {
   if (exploration.kind === "exhausted") return { kind: "exhausted" }
-  const song =
-    exploration.kind === "song-in-liked-artist" ? exploration.song : exploration.firstSong
+  const track =
+    exploration.kind === "track-in-liked-artist" ? exploration.track : exploration.firstTrack
   const artist = exploration.artist
   return {
     kind: exploration.kind,
     artist: { slug: artist.slug, title: artist.title },
-    song: { slug: song.slug, title: song.title },
-    playQuery: `${artist.title} ${song.title}`,
+    track: { slug: track.slug, title: track.title },
+    spotifyId: track.spotifyId,
+    uri: `${URI_FROM}${track.spotifyId}`,
+    playQuery: `${artist.title} ${track.title}`,
   }
 }
 
@@ -118,13 +172,14 @@ export function saidOf(selection: Selection): readonly string[] {
     return ["Catalog exhausted — nothing new to surface right now."]
   }
   const artist = selection.artist?.title ?? "?"
-  const song = selection.song?.title ?? "?"
+  const track = selection.track?.title ?? "?"
   const label =
-    selection.kind === "song-in-liked-artist" ? "more from a loved artist" : "a new artist"
+    selection.kind === "track-in-liked-artist" ? "more from a loved artist" : "a new artist"
   return [
-    `${label}: ${song} — ${artist}`,
+    `${label}: ${track} — ${artist}`,
     `  artist slug ${selection.artist?.slug ?? "?"}`,
-    `  song slug   ${selection.song?.slug ?? "?"}`,
+    `  track slug  ${selection.track?.slug ?? "?"}`,
+    `  uri         ${selection.uri ?? "?"}`,
   ]
 }
 

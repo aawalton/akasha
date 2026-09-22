@@ -6,27 +6,39 @@ import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts
 
 export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "grade">
 
-export type CatalogSong = Pick<Song, "slug" | "title" | "artist" | "performed" | "grade">
+export type CatalogSong = Pick<Song, "slug" | "artist" | "grade">
+
+export type CatalogTrack = {
+  readonly slug: string
+  readonly title: string
+  readonly artist: string
+  readonly song: string
+  readonly spotifyId: string
+  readonly grade?: Grade
+}
 
 export type Catalog = {
   readonly artists: readonly CatalogArtist[]
   readonly songs: readonly CatalogSong[]
+  readonly tracks: readonly CatalogTrack[]
 }
 
 export type Exploration =
   | {
-      readonly kind: "song-in-liked-artist"
+      readonly kind: "track-in-liked-artist"
       readonly artist: CatalogArtist
-      readonly song: CatalogSong
+      readonly track: CatalogTrack
     }
   | {
       readonly kind: "new-artist"
       readonly artist: CatalogArtist
-      readonly firstSong: CatalogSong
+      readonly firstTrack: CatalogTrack
     }
   | { readonly kind: "exhausted" }
 
 type Named = { readonly title: string; readonly slug: string }
+
+type Made = { readonly artist: string }
 
 const GRADE_WEIGHT = 100
 
@@ -49,64 +61,88 @@ function byTitleThenSlug(a: Named, b: Named): number {
   return a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0
 }
 
-function isRecorded(song: CatalogSong): boolean {
-  return song.performed
+function artistSlugOf(one: Made): string {
+  return slugOf(one.artist)
 }
 
-function artistSlugOf(song: CatalogSong): string {
-  return slugOf(song.artist)
+type Kept = {
+  readonly songs: ReadonlyMap<string, readonly CatalogSong[]>
+  readonly tracks: ReadonlyMap<string, readonly CatalogTrack[]>
+  readonly judgedSongs: ReadonlySet<string>
 }
 
-export function selectNextSong(catalog: Catalog, artistSlug: string): CatalogSong | null {
-  const recorded = catalog.songs
-    .filter((song) => artistSlugOf(song) === artistSlug && isRecorded(song))
-    .sort(byTitleThenSlug)
-  const graded = new Set<string>()
-  const offered = new Map<string, CatalogSong>()
-  for (const song of recorded) {
-    const key = normalizeTitle(song.title)
-    if (song.grade !== undefined) {
-      graded.add(key)
-      continue
-    }
-    if (!offered.has(key)) offered.set(key, song)
-  }
-  for (const [key, song] of offered) {
-    if (!graded.has(key)) return song
-  }
-  return null
-}
-
-function songsByArtist(catalog: Catalog): Map<string, CatalogSong[]> {
-  const byArtist = new Map<string, CatalogSong[]>()
-  for (const song of catalog.songs) {
-    const held = byArtist.get(artistSlugOf(song))
-    if (held === undefined) byArtist.set(artistSlugOf(song), [song])
-    else held.push(song)
+function gatheredBy<T extends Made>(all: readonly T[]): ReadonlyMap<string, readonly T[]> {
+  const byArtist = new Map<string, T[]>()
+  for (const one of all) {
+    const slug = artistSlugOf(one)
+    const held = byArtist.get(slug)
+    if (held === undefined) byArtist.set(slug, [one])
+    else held.push(one)
   }
   return byArtist
 }
 
-type SongsByArtist = ReadonlyMap<string, readonly CatalogSong[]>
-
-function songsOf(byArtist: SongsByArtist, artist: CatalogArtist): readonly CatalogSong[] {
-  return byArtist.get(artist.slug) ?? []
+function keptIn(catalog: Catalog): Kept {
+  const judgedSongs = new Set<string>()
+  for (const one of catalog.songs) if (one.grade !== undefined) judgedSongs.add(one.slug)
+  return { songs: gatheredBy(catalog.songs), tracks: gatheredBy(catalog.tracks), judgedSongs }
 }
 
-function isGraded(artist: CatalogArtist, byArtist: SongsByArtist): boolean {
+function judged(kept: Kept, track: CatalogTrack): boolean {
+  return track.grade !== undefined || kept.judgedSongs.has(slugOf(track.song))
+}
+
+function trackFrom(kept: Kept, artistSlug: string): CatalogTrack | null {
+  const mine = [...(kept.tracks.get(artistSlug) ?? [])].sort(byTitleThenSlug)
+  const settled = new Set<string>()
+  const offered = new Map<string, CatalogTrack>()
+  for (const track of mine) {
+    const key = normalizeTitle(track.title)
+    if (judged(kept, track)) {
+      settled.add(key)
+      continue
+    }
+    if (!offered.has(key)) offered.set(key, track)
+  }
+  for (const [key, track] of offered) {
+    if (!settled.has(key)) return track
+  }
+  return null
+}
+
+export function selectNextTrack(catalog: Catalog, artistSlug: string): CatalogTrack | null {
+  return trackFrom(keptIn(catalog), artistSlug)
+}
+
+function songsOf(kept: Kept, artist: CatalogArtist): readonly CatalogSong[] {
+  return kept.songs.get(artist.slug) ?? []
+}
+
+function tracksOf(kept: Kept, artist: CatalogArtist): readonly CatalogTrack[] {
+  return kept.tracks.get(artist.slug) ?? []
+}
+
+function isGraded(artist: CatalogArtist, kept: Kept): boolean {
   if (artist.grade !== undefined) return true
-  return songsOf(byArtist, artist).some((song) => song.grade !== undefined)
+  if (songsOf(kept, artist).some((one) => one.grade !== undefined)) return true
+  return tracksOf(kept, artist).some((one) => one.grade !== undefined)
 }
 
-function artistIsLiked(artist: CatalogArtist, byArtist: SongsByArtist): boolean {
+function artistIsLiked(artist: CatalogArtist, kept: Kept): boolean {
   if (isLiked(artist.grade)) return true
-  return songsOf(byArtist, artist).some((song) => isLiked(song.grade))
+  if (songsOf(kept, artist).some((one) => isLiked(one.grade))) return true
+  return tracksOf(kept, artist).some((one) => isLiked(one.grade))
 }
 
-function loveOf(artist: CatalogArtist, byArtist: SongsByArtist): number {
-  const liked = songsOf(byArtist, artist).filter((song) => isLiked(song.grade)).length
+function likedIn(kept: Kept, artist: CatalogArtist): number {
+  const songs = songsOf(kept, artist).filter((one) => isLiked(one.grade)).length
+  const tracks = tracksOf(kept, artist).filter((one) => isLiked(one.grade)).length
+  return songs + tracks
+}
+
+function loveOf(artist: CatalogArtist, kept: Kept): number {
   const rung = artist.grade === undefined ? -1 : gradeProperty.values.indexOf(artist.grade)
-  return rung * GRADE_WEIGHT + liked
+  return rung * GRADE_WEIGHT + likedIn(kept, artist)
 }
 
 function genresOf(artist: CatalogArtist): readonly string[] {
@@ -131,14 +167,13 @@ type ScoredArtist = {
   readonly shared: number
 }
 
-export function selectNextArtist(catalog: Catalog): CatalogArtist | null {
-  const byArtist = songsByArtist(catalog)
+function artistFrom(catalog: Catalog, kept: Kept): CatalogArtist | null {
   const candidates = catalog.artists.filter(
-    (artist) => !isGraded(artist, byArtist) && selectNextSong(catalog, artist.slug) !== null
+    (artist) => !isGraded(artist, kept) && trackFrom(kept, artist.slug) !== null
   )
   if (candidates.length === 0) return null
 
-  const loved = catalog.artists.filter((artist) => artistIsLiked(artist, byArtist))
+  const loved = catalog.artists.filter((artist) => artistIsLiked(artist, kept))
   if (loved.length === 0) return [...candidates].sort(byTitleThenSlug)[0] ?? null
 
   const lovedGenres = new Set<string>()
@@ -162,30 +197,32 @@ export function selectNextArtist(catalog: Catalog): CatalogArtist | null {
   return scored[0]?.artist ?? null
 }
 
+export function selectNextArtist(catalog: Catalog): CatalogArtist | null {
+  return artistFrom(catalog, keptIn(catalog))
+}
+
 export function selectNextExploration(catalog: Catalog): Exploration {
-  const byArtist = songsByArtist(catalog)
+  const kept = keptIn(catalog)
 
   const likedWithMore = catalog.artists
-    .filter(
-      (artist) => artistIsLiked(artist, byArtist) && selectNextSong(catalog, artist.slug) !== null
-    )
+    .filter((artist) => artistIsLiked(artist, kept) && trackFrom(kept, artist.slug) !== null)
     .sort((a, b) => {
-      const mine = loveOf(a, byArtist)
-      const theirs = loveOf(b, byArtist)
+      const mine = loveOf(a, kept)
+      const theirs = loveOf(b, kept)
       if (mine !== theirs) return theirs - mine
       return byTitleThenSlug(a, b)
     })
 
   const likedArtist = likedWithMore[0]
   if (likedArtist !== undefined) {
-    const song = selectNextSong(catalog, likedArtist.slug)
-    if (song !== null) return { kind: "song-in-liked-artist", artist: likedArtist, song }
+    const track = trackFrom(kept, likedArtist.slug)
+    if (track !== null) return { kind: "track-in-liked-artist", artist: likedArtist, track }
   }
 
-  const newArtist = selectNextArtist(catalog)
+  const newArtist = artistFrom(catalog, kept)
   if (newArtist !== null) {
-    const firstSong = selectNextSong(catalog, newArtist.slug)
-    if (firstSong !== null) return { kind: "new-artist", artist: newArtist, firstSong }
+    const firstTrack = trackFrom(kept, newArtist.slug)
+    if (firstTrack !== null) return { kind: "new-artist", artist: newArtist, firstTrack }
   }
 
   return { kind: "exhausted" }

@@ -4,21 +4,21 @@ export const musicExploration = {
   id: "01a06281-4d9d-7002-aee3-ff60658dc599",
   type: "page-type/module",
   slug: "music-exploration",
-  definition: "the next artist or song for Alan to hear for the first time",
+  definition: "the next artist or recording for Alan to hear for the first time",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A song offered is a song the artist performs.",
+      statement: "A track offered is a track of the artist that track names.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Whose composition a song is settles nothing about offering that song.",
+      statement: "What kind of recording a track is settles nothing about offering that track.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Songs of one artist sharing a normalised title are one song.",
+      statement: "Tracks of one artist sharing a normalised title are one piece.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,20 +26,24 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A song Alan has graded is never offered.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A song sharing a normalised title with a graded song is never offered.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Songs are ordered by title and then by slug.",
+      statement: "A track Alan has graded is never offered.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An artist is new where no grade rests on that artist or on any song of that artist.",
+        "A grade on a track reaches only the tracks sharing that track's normalised title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No recording of a song Alan has graded is offered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Tracks are ordered by title and then by slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An artist is new where no grade rests on them, on a song or a track of theirs.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -51,12 +55,11 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An artist is loved where a liked grade rests on that artist or on a song of that artist.",
+      statement: "An artist is loved where a liked grade rests on them, on a song or a track.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A new artist with no song left to offer is no candidate.",
+      statement: "A new artist with no track left to offer is no candidate.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,7 +83,7 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A song by a loved artist is offered before a new artist.",
+      statement: "A track by a loved artist is offered before a new artist.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -88,7 +91,8 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Love is an artist's own grade weighed a hundredfold over their liked songs.",
+      statement:
+        "Love is an artist's grade weighed a hundredfold over their liked songs and tracks.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -100,7 +104,7 @@ export const musicExploration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The answer is exhausted where no song and no artist is left to offer.",
+      statement: "The answer is exhausted where no track and no artist is left to offer.",
     },
     {
       decisionKind: "decision-kind/absence",
