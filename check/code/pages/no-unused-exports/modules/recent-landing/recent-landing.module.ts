@@ -41,5 +41,15 @@ export const recentLanding = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a body or reaches the index.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tree holding part of its history says no path landed lately, so no refusal drops.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A commit whose parents a tree does not hold reads as holding every file it names.",
+    },
   ],
 } as const satisfies Module

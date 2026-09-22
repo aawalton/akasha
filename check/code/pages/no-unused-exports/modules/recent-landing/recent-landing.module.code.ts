@@ -17,11 +17,16 @@ function pathsIn(said: string): ReadonlySet<string> {
   return new Set(said.split(APART).filter((one) => one !== NOTHING))
 }
 
+function wholeHistory(root: string): boolean {
+  return told(root, ["rev-parse", "--is-shallow-repository"])?.trim() === "false"
+}
+
 function landedLately(
   root: string,
   paths: readonly string[],
   now: number
 ): ReadonlySet<string> | null {
+  if (!wholeHistory(root)) return null
   const from = Math.floor((now - A_DAY) / A_SECOND)
   const said = told(root, [
     "log",
