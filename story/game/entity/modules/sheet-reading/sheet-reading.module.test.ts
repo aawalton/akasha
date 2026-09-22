@@ -14,6 +14,7 @@ import {
   equipmentIn,
   joinedOf,
   markedIn,
+  nowOf,
   saidIn,
   skillsIn,
 } from "akasha/story/game/entity/modules/sheet-reading/sheet-reading.module.code.ts"
@@ -81,9 +82,13 @@ test("a skill holds how far it has come rather than the rung that reaches", () =
       effect: "sees it",
     },
   ])
-  expect(found).toEqual([
-    { name: "Read the Room", progress: 9, effect: "sees it", source: undefined },
-  ])
+  expect(found).toEqual([{ name: "Read the Room", progress: 9, effect: "sees it" }])
+})
+
+test("what a game master appended turn by turn is history, and comes off", () => {
+  expect(nowOf("a clean bind | TURN 65: PROMOTED | TURN 80: again")).toBe("a clean bind")
+  expect(nowOf("a clean bind")).toBe("a clean bind")
+  expect(nowOf(undefined)).toBe(undefined)
 })
 
 test("an affinity holds its tier in the words the ladder uses", () => {
@@ -95,9 +100,7 @@ test("an affinity holds its tier in the words the ladder uses", () => {
 })
 
 test("a trait says what it does, and says so when it says nothing", () => {
-  expect(markedIn([{ name: "Steady" }])).toEqual([
-    { name: "Steady", effect: "none stated", source: undefined },
-  ])
+  expect(markedIn([{ name: "Steady" }])).toEqual([{ name: "Steady", effect: "none stated" }])
 })
 
 test("a listed thing with no name is called by the name it is filed under", () => {

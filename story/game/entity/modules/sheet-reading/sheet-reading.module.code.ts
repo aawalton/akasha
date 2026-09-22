@@ -13,6 +13,8 @@ const UNSTATED = "none stated"
 const INBOUND = "inbound"
 const AFFINITY = "affinity"
 const NONE = 0
+const LOG = " | "
+const FIRST = 0
 
 export type Scored = { readonly attribute: string; readonly score: number }
 
@@ -25,7 +27,7 @@ export type Carried = {
   readonly note?: string
 }
 
-export type Marked = { readonly name: string; readonly effect: string; readonly source?: string }
+export type Marked = { readonly name: string; readonly effect: string }
 
 export type Skilled = Marked & { readonly progress: number }
 
@@ -35,7 +37,6 @@ export type Attuned = {
   readonly tier: string
   readonly counter: number
   readonly effect?: string
-  readonly source?: string
 }
 
 export type Bonded = {
@@ -47,7 +48,6 @@ export type Bonded = {
   readonly grows?: boolean
   readonly establishedTurn?: number
   readonly note?: string
-  readonly source?: string
 }
 
 export function saidIn(held: unknown): string | undefined {
@@ -57,6 +57,10 @@ export function saidIn(held: unknown): string | undefined {
 
 export function countIn(held: unknown): number | undefined {
   return asNumber(held) ?? undefined
+}
+
+export function nowOf(held: unknown): string | undefined {
+  return saidIn(saidIn(held)?.split(LOG)[FIRST])
 }
 
 export function listIn(held: unknown): readonly Record<string, unknown>[] {
@@ -99,7 +103,7 @@ function carriedFrom(one: Record<string, unknown>, slot: string | undefined): Ca
     attack: countIn(one["atk"]),
     defense: countIn(one["def"]),
     scaling: attributeAt(one["scaling"]),
-    note: joinedOf(one, ["note", "affinity"]),
+    note: nowOf(joinedOf(one, ["note", "affinity"])),
   }
 }
 
@@ -117,8 +121,7 @@ export function equipmentIn(held: unknown): readonly Carried[] {
 export function markedIn(held: unknown): readonly Marked[] {
   return listIn(held).map((one) => ({
     name: namedOf(one),
-    effect: saidIn(one["effect"]) ?? UNSTATED,
-    source: saidIn(one["source"]),
+    effect: nowOf(one["effect"]) ?? UNSTATED,
   }))
 }
 
@@ -126,8 +129,7 @@ export function skillsIn(held: unknown): readonly Skilled[] {
   return listIn(held).map((one) => ({
     name: namedOf(one),
     progress: countIn(one["displayed"]) ?? countIn(one["score"]) ?? NONE,
-    effect: saidIn(one["effect"]) ?? UNSTATED,
-    source: joinedOf(one, ["source", "status", "talent"]),
+    effect: nowOf(one["effect"]) ?? UNSTATED,
   }))
 }
 
@@ -137,8 +139,7 @@ export function affinitiesIn(held: unknown): readonly Attuned[] {
     type: saidIn(one["type"]) ?? UNSTATED,
     tier: (saidIn(one["tier"]) ?? AFFINITY).toLowerCase(),
     counter: countIn(one["counter"]) ?? NONE,
-    effect: saidIn(one["effect"]),
-    source: saidIn(one["source"]),
+    effect: nowOf(one["effect"]),
   }))
 }
 
@@ -155,8 +156,7 @@ export function bondsIn(held: unknown, game: string): readonly Bonded[] {
       boundAttribute: attributeAt(one["boundTrait"]),
       grows: typeof one["grows"] === "boolean" ? one["grows"] : undefined,
       establishedTurn: countIn(one["establishedTurn"]),
-      note: saidIn(one["description"]),
-      source: saidIn(one["source"]),
+      note: nowOf(one["description"]),
     })
   }
   return found

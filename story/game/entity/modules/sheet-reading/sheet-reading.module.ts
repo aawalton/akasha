@@ -28,5 +28,13 @@ export const sheetReading = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page or reaches the index.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a game master appended to a sheet turn by turn is history, and comes off.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No sheet carries where one of its lines came from, because git holds that.",
+    },
   ],
 } as const satisfies Module

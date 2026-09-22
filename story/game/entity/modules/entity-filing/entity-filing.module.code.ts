@@ -9,6 +9,7 @@ import {
   equipmentIn,
   joinedOf,
   markedIn,
+  nowOf,
   saidIn,
   skillsIn,
 } from "akasha/story/game/entity/modules/sheet-reading/sheet-reading.module.code.ts"
@@ -108,7 +109,7 @@ export function entityFiled(where: Where, named: string, row: Record<string, unk
       typicalIntent: countIn(held["intentTypical"]),
       unspentAttributePoints: countIn(held["attributePointsUnspent"]),
       revealGate: countIn(held["revealGate"]),
-      note: joinedOf(held, NOTES),
+      note: nowOf(joinedOf(held, NOTES)),
     },
   })
 }
