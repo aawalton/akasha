@@ -1,4 +1,3 @@
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const NO_ANSWER = Symbol("no answer")
