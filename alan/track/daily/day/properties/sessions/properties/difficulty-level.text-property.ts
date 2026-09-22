@@ -11,7 +11,7 @@ export const difficultyLevel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A difficulty level reads as a number and is written as text.",
+      statement: "A difficulty level is taken as a number and is written as text.",
     },
     {
       decisionKind: "decision-kind/departure",

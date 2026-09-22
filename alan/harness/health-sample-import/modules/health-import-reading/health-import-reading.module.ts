@@ -17,7 +17,7 @@ export const healthImportReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run that cannot tell which records the run lost reads as unsettled.",
+      statement: "A run that cannot tell which records the run lost is taken as unsettled.",
     },
   ],
 } as const satisfies Module

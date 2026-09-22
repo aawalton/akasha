@@ -41,7 +41,7 @@ export const monarchAmazonOrder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A date that cannot be parsed is refused rather than read as nothing.",
+      statement: "A date that cannot be parsed is refused rather than taken as nothing.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -13,7 +13,7 @@ export const verdictReading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A reading never reads as passing or failing.",
+      statement: "A reading is never taken as passing or failing.",
     },
     {
       decisionKind: "decision-kind/departure",

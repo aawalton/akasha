@@ -33,7 +33,7 @@ export const monarchHistory = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A missing field reads as empty rather than as absent.",
+      statement: "A missing field is taken as empty rather than as absent.",
     },
     {
       decisionKind: "decision-kind/departure",

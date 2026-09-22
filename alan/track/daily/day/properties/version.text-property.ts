@@ -11,7 +11,7 @@ export const version = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A version reads as a number and is written as text.",
+      statement: "A version is taken as a number and is written as text.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -26,7 +26,7 @@ export const spotifyCacheFile = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A missing file reads as nothing.",
+      statement: "A missing file is taken as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

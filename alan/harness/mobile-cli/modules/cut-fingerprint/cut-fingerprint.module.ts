@@ -53,7 +53,7 @@ export const cutFingerprint = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An app with no `mobile-cut` page reads as no cut rather than raising.",
+      statement: "An app with no `mobile-cut` page is taken as no cut rather than raising.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -20,7 +20,7 @@ export const deviceSecretSync = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A shell that says no keychain domain reads as unsaid.",
+      statement: "A shell that says no keychain domain is taken as unsaid.",
     },
     {
       decisionKind: "decision-kind/departure",

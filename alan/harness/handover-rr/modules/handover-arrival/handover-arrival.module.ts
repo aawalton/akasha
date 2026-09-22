@@ -18,7 +18,7 @@ export const handoverArrival = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A code that reads as nobody sends the person back to alanwalton.com rather than signing anyone in.",
+        "A code taken as nobody sends the person back to alanwalton.com rather than signing anyone in.",
     },
     {
       decisionKind: "decision-kind/departure",

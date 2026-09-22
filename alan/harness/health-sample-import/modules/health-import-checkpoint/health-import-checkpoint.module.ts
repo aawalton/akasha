@@ -13,7 +13,7 @@ export const healthImportCheckpoint = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A checkpoint that will not parse is read as no checkpoint.",
+      statement: "A checkpoint that will not parse is taken as no checkpoint.",
     },
     {
       decisionKind: "decision-kind/departure",

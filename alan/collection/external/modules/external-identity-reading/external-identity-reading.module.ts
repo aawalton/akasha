@@ -22,7 +22,7 @@ export const externalIdentityReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value that is no list of records is read as no record at all.",
+      statement: "A value that is no list of records is taken as no record at all.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -9,7 +9,7 @@ export const agentChannel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The header values are joined and read as one lowercase string.",
+      statement: "The header values are joined and taken as one lowercase string.",
     },
     {
       decisionKind: "decision-kind/departure",

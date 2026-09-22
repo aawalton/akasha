@@ -38,7 +38,7 @@ export const topicWords = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file that moved is read as the move rather than as the whole file written.",
+      statement: "A file that moved is taken as the move rather than as the whole file written.",
     },
     {
       decisionKind: "decision-kind/departure",

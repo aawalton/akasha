@@ -38,7 +38,7 @@ export const deepLinkOpenSync = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "One link arriving twice reads as two identical links arriving.",
+      statement: "One link arriving twice is taken as two identical links arriving.",
     },
     {
       decisionKind: "decision-kind/stopgap",

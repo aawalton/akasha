@@ -34,7 +34,7 @@ export const spotifyClient = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A gap that is no positive whole number is read as the hundred milliseconds.",
+      statement: "A gap that is no positive whole number is taken as the hundred milliseconds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,7 +42,7 @@ export const spotifyClient = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A `Retry-After` other than a positive number is read as one second.",
+      statement: "A `Retry-After` other than a positive number is taken as one second.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -38,7 +38,7 @@ export const widgetTapCounting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A count that is no number is refused rather than read as no tap.",
+      statement: "A count that is no number is refused rather than taken as no tap.",
     },
     {
       decisionKind: "decision-kind/departure",

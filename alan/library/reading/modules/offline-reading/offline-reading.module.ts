@@ -29,7 +29,7 @@ export const offlineReading = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A chapter Alan finished reads as finished.",
+      statement: "A chapter Alan finished is taken as finished.",
     },
     {
       decisionKind: "decision-kind/gap",

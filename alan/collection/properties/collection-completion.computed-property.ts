@@ -12,7 +12,7 @@ export const collectionCompletion = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A collection whose length or progress is absent reads as not started.",
+      statement: "A collection whose length or progress is absent is taken as not started.",
     },
   ],
   types: "ts",

@@ -71,7 +71,7 @@ export const readoutReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A reading in the file with one half alone is refused rather than read as no reading.",
+        "A reading in the file with one half alone is refused rather than taken as no reading.",
     },
     {
       decisionKind: "decision-kind/departure",

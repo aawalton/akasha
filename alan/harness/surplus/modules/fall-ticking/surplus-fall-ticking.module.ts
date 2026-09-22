@@ -41,7 +41,7 @@ export const surplusFallTicking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A feed that cannot be read is thrown on rather than read as nothing said today.",
+      statement: "A feed that cannot be read is thrown on rather than taken as nothing said today.",
     },
     {
       decisionKind: "decision-kind/departure",

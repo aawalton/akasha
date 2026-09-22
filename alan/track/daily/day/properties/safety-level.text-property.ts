@@ -11,7 +11,7 @@ export const safetyLevel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A safety level reads as a number and is written as text.",
+      statement: "A safety level is taken as a number and is written as text.",
     },
     {
       decisionKind: "decision-kind/departure",

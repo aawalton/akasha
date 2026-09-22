@@ -18,7 +18,7 @@ export const songWords = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reach that throws is read as words unread rather than as words absent.",
+      statement: "A reach that throws is taken as words unread rather than as words absent.",
     },
     {
       decisionKind: "decision-kind/departure",

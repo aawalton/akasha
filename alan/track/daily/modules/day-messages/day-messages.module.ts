@@ -26,7 +26,7 @@ export const dayMessages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row missing a name or a count is passed over rather than read as a zero.",
+      statement: "A row missing a name or a count is passed over rather than taken as a zero.",
     },
     {
       decisionKind: "decision-kind/departure",
