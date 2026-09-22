@@ -55,6 +55,18 @@ export const moveFilePage = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A folder the page claims is carried to the folder the page lands in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a folder is carried after the page's own file has moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That carry is left to the change moving a folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal from any change reached here refuses the whole move.",
     },
     {
