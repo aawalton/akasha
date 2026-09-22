@@ -24,18 +24,9 @@ export const PIN_TEXTURES: Record<number, readonly [string, string]> = {
     "EsoUI/Art/Icons/lore_book4_detail4_color5.dds",
     "EsoUI/Art/Icons/lore_book4_detail4_color5.dds",
   ],
-  [PIN_ICON_SET1]: [
-    "TemperCollections/Icons/book1.dds",
-    "TemperCollections/Icons/book1-invert.dds",
-  ],
-  [PIN_ICON_SET2]: [
-    "TemperCollections/Icons/book2.dds",
-    "TemperCollections/Icons/book2-invert.dds",
-  ],
-  [PIN_ICON_ESOHEAD]: [
-    "TemperCollections/Icons/book3.dds",
-    "TemperCollections/Icons/book3-invert.dds",
-  ],
+  [PIN_ICON_SET1]: ["TemperWorld/Icons/book1.dds", "TemperWorld/Icons/book1-invert.dds"],
+  [PIN_ICON_SET2]: ["TemperWorld/Icons/book2.dds", "TemperWorld/Icons/book2-invert.dds"],
+  [PIN_ICON_ESOHEAD]: ["TemperWorld/Icons/book3.dds", "TemperWorld/Icons/book3-invert.dds"],
 }
 
 export const MISSING_TITLE = "Untitled (Missing Translation)"

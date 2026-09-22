@@ -111,60 +111,6 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
-    runFor: "TemperCollections",
-    spec: {
-      absorbedFileBase: "TemperSkyShards",
-      absorbedGlobal: "TemperSkyShards_SavedVariables",
-      targetFileBase: "TemperCollections",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperCollections",
-    spec: {
-      absorbedFileBase: "TemperLoreBooks",
-      absorbedGlobal: "TemperLoreBooks_SavedVariables",
-      targetFileBase: "TemperCollections",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperCollections",
-    spec: {
-      absorbedFileBase: "TemperLostTreasure",
-      absorbedGlobal: "TemperLostTreasure_Account",
-      targetFileBase: "TemperCollections",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperCollections",
-    spec: {
-      absorbedFileBase: "TemperLostTreasure",
-      absorbedGlobal: "TemperLostTreasure_Character",
-      targetFileBase: "TemperCollections",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperCollections",
-    spec: {
-      absorbedFileBase: "TemperDungeonChampions",
-      absorbedGlobal: "TemperDungeonChampions_SavedVariables",
-      targetFileBase: "TemperCollections",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperCollections",
-    spec: {
-      absorbedFileBase: "TemperItemBrowser",
-      absorbedGlobal: "TemperItemBrowser_SavedVariables",
-      targetFileBase: "TemperCollections",
-    },
-  },
-  {
-    mode: "append",
     runFor: "TemperEvents",
     spec: {
       absorbedFileBase: "TemperICTheNextBoss",
@@ -203,6 +149,69 @@ export const CONSOLIDATION_MIGRATIONS = [
     spec: {
       absorbedFileBase: "TemperAntiquities",
       absorbedGlobal: "TemperLeads_SavedVariables",
+      targetFileBase: "TemperWorld",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperWorld",
+    spec: {
+      absorbedFileBase: "TemperCollections",
+      absorbedGlobal: "TemperSkyShards_SavedVariables",
+      targetFileBase: "TemperWorld",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperWorld",
+    spec: {
+      absorbedFileBase: "TemperCollections",
+      absorbedGlobal: "TemperLoreBooks_SavedVariables",
+      targetFileBase: "TemperWorld",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperWorld",
+    spec: {
+      absorbedFileBase: "TemperCollections",
+      absorbedGlobal: "TemperLostTreasure_Account",
+      targetFileBase: "TemperWorld",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperWorld",
+    spec: {
+      absorbedFileBase: "TemperCollections",
+      absorbedGlobal: "TemperLostTreasure_Character",
+      targetFileBase: "TemperWorld",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperWorld",
+    spec: {
+      absorbedFileBase: "TemperCollections",
+      absorbedGlobal: "TemperDungeonChampions_SavedVariables",
+      targetFileBase: "TemperWorld",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperWorld",
+    spec: {
+      absorbedFileBase: "TemperCollections",
+      absorbedGlobal: "TemperItemBrowser_SavedVariables",
+      targetFileBase: "TemperWorld",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperWorld",
+    spec: {
+      absorbedFileBase: "TemperCollections",
+      absorbedGlobal: "TemperCollections_TooltipColors",
       targetFileBase: "TemperWorld",
     },
   },

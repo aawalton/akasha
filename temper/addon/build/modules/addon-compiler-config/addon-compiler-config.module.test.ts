@@ -136,7 +136,7 @@ function addonReaching(
   mkdirSync(held, { recursive: true })
   writeFileSync(
     join(dir, "collections-addon.temper-addon.addon-manifest.json"),
-    JSON.stringify({ name: "TemperCollections", dependsOn: [`${dependedOn}>=3`] })
+    JSON.stringify({ name: "TemperWorld", dependsOn: [`${dependedOn}>=3`] })
   )
   writeFileSync(
     join(held, "lib-lorebooks.temper-addon.addon-manifest.json"),
@@ -170,7 +170,7 @@ test("the written settings reach every declaration an addon this addon depends o
     compilerConfigBody({
       repoRoot: "/repo",
       addonDir: "/repo/temper/addon/pages/collections",
-      canonicalName: "TemperCollections",
+      canonicalName: "TemperWorld",
       entryPath: "/repo/temper/addon/pages/collections/e/e.module.code.ts",
       reachedDirs: ["/repo/temper/addon/library/lib-lorebooks"],
       declaringDirs: ["/repo/temper/eso/type"],

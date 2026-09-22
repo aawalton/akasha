@@ -4264,8 +4264,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-state/leads-unit-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-zone-name/leads-zone-name.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/antiquities/modules/leads-zones/leads-zones.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/collections-addon-global/collections-addon-global.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/collections-addon-names/collections-addon-names.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/collections-entry/collections-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/collections-loaded/collections-loaded.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/journal-casts/journal-casts.module.ts"}

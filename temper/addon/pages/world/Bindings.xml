@@ -33,6 +33,14 @@
 				<Down>TemperWorld.toggleRDL()</Down>
 			</Action>
 		</Category>
+		<Category name="SI_KEYBINDINGS_CATEGORY_EXTENDED_JOURNAL">
+			<Action name="EXTENDED_JOURNAL">
+				<Down>TemperWorld.ShowJournal()</Down>
+			</Action>
+			<Action name="ITEMBROWSER">
+				<Down>TemperWorld.ShowItemBrowser()</Down>
+			</Action>
+		</Category>
 	</Layer>
 	<Layer name="SI_KEYBINDINGS_LAYER_SIEGE" allowFallthrough="false">
 		<Category name="SI_KEYBINDINGS_CATEGORY_TemperVotansMiniMap">

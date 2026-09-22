@@ -53,17 +53,17 @@ export const PIN_TEXTURES: {
   collected: Record<number, string>
 } = {
   unknown: {
-    [1]: "TemperCollections/Icons/Skyshard-unknown.dds",
-    [2]: "TemperCollections/Icons/Skyshard-unknown-alternative.dds",
-    [3]: "TemperCollections/Icons/Skyshard-unknown-Esohead.dds",
-    [4]: "TemperCollections/Icons/Skyshard-unknown-Rushmik.dds",
-    [5]: "TemperCollections/Icons/Skyshard-unknown-Heidra.dds",
+    [1]: "TemperWorld/Icons/Skyshard-unknown.dds",
+    [2]: "TemperWorld/Icons/Skyshard-unknown-alternative.dds",
+    [3]: "TemperWorld/Icons/Skyshard-unknown-Esohead.dds",
+    [4]: "TemperWorld/Icons/Skyshard-unknown-Rushmik.dds",
+    [5]: "TemperWorld/Icons/Skyshard-unknown-Heidra.dds",
   },
   collected: {
-    [1]: "TemperCollections/Icons/Skyshard-collected.dds",
-    [2]: "TemperCollections/Icons/Skyshard-collected-alternative.dds",
-    [3]: "TemperCollections/Icons/Skyshard-collected-Esohead.dds",
-    [4]: "TemperCollections/Icons/Skyshard-collected-Rushmik.dds",
-    [5]: "TemperCollections/Icons/Skyshard-collected-Heidra.dds",
+    [1]: "TemperWorld/Icons/Skyshard-collected.dds",
+    [2]: "TemperWorld/Icons/Skyshard-collected-alternative.dds",
+    [3]: "TemperWorld/Icons/Skyshard-collected-Esohead.dds",
+    [4]: "TemperWorld/Icons/Skyshard-collected-Rushmik.dds",
+    [5]: "TemperWorld/Icons/Skyshard-collected-Heidra.dds",
   },
 }

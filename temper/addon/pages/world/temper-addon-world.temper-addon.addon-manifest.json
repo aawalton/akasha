@@ -1,7 +1,7 @@
 {
   "name": "TemperWorld",
   "title": "Temper World",
-  "description": "The world around the player: world-map and compass pins, POI and destination pins, and the minimap window.",
+  "description": "The world around the player: world-map and compass pins, POI and destination pins, the minimap, quest dialogue answered in the player's place, the antiquity lead window, and the skyshard, lorebook, treasure, champion and item-set trackers with their journal.",
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,
@@ -20,7 +20,14 @@
     "TemperDestinations_SavedVariables",
     "TemperVotansMiniMap_SavedVariables",
     "TemperQuests_SavedVariables",
-    "TemperLeads_SavedVariables"
+    "TemperLeads_SavedVariables",
+    "TemperSkyShards_SavedVariables",
+    "TemperLoreBooks_SavedVariables",
+    "TemperLostTreasure_Account",
+    "TemperLostTreasure_Character",
+    "TemperDungeonChampions_SavedVariables",
+    "TemperItemBrowser_SavedVariables",
+    "TemperCollections_TooltipColors"
   ],
   "dependsOn": [
     "TemperHud",
@@ -36,14 +43,20 @@
     "DebugLogViewer",
     "TweakIt",
     "TrueExploration",
-    "UndauntedDaily"
+    "UndauntedDaily",
+    "LibMultiAccountSets",
+    "LibUndauntedPledges"
   ],
   "xmlFiles": {
     "beforeBundle": [
-      "TemperWorld_Controls.xml"
+      "TemperWorld_Controls.xml",
+      "Controls.xml"
     ],
     "afterBundle": [
-      "Leads.xml"
+      "Leads.xml",
+      "LoreBooks.xml",
+      "LostTreasure.xml",
+      "Browser.xml"
     ]
   },
   "assets": [
@@ -61,6 +74,22 @@
     "Treasure_3.dds",
     "Treasure_4.dds",
     "ViewLimit.dds",
-    "WorldMapFrame.dds"
+    "WorldMapFrame.dds",
+    "Icons/book1.dds",
+    "Icons/book1-invert.dds",
+    "Icons/book2.dds",
+    "Icons/book2-invert.dds",
+    "Icons/book3.dds",
+    "Icons/book3-invert.dds",
+    "Icons/Skyshard-unknown.dds",
+    "Icons/Skyshard-unknown-alternative.dds",
+    "Icons/Skyshard-unknown-Esohead.dds",
+    "Icons/Skyshard-unknown-Rushmik.dds",
+    "Icons/Skyshard-unknown-Heidra.dds",
+    "Icons/Skyshard-collected.dds",
+    "Icons/Skyshard-collected-alternative.dds",
+    "Icons/Skyshard-collected-Esohead.dds",
+    "Icons/Skyshard-collected-Rushmik.dds",
+    "Icons/Skyshard-collected-Heidra.dds"
   ]
 }

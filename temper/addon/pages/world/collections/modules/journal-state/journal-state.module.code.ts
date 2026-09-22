@@ -1,4 +1,3 @@
-import { ADDON_NAME } from "akasha/temper/addon/pages/world/collections/modules/collections-addon-names/collections-addon-names.module.code.ts"
 import {
   asInternalTable,
   asPublicTable,
@@ -7,6 +6,7 @@ import type {
   InternalTable,
   PublicTable,
 } from "akasha/temper/addon/pages/world/collections/modules/journal-shape/journal-shape.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 
 const Public: PublicTable = asPublicTable({
   Used: false,
