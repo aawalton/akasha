@@ -4,7 +4,7 @@ export const asRecord = {
   id: "01a05c94-2bfb-7908-974d-2bd990ac9a56",
   type: "page-type/module",
   slug: "as-record",
-  definition: "a value read as a record of unknown values, or nothing where it is not one",
+  definition: "a value narrowed to a record of unknown values, or nothing where it is not one",
   code: "ts",
   test: "ts",
   decisions: [

@@ -4,7 +4,7 @@ export const codeSource = {
   id: "01a05026-bc17-76c6-8a84-242b988bdd57",
   type: "page-type/module",
   slug: "code-source",
-  definition: "a body read as TypeScript, and where in that reading a thing is",
+  definition: "a body taken as TypeScript, and where a thing sits in it",
   code: "ts",
   test: "ts",
   decisions: [

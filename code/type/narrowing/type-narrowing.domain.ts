@@ -4,7 +4,7 @@ export const typeNarrowing = {
   id: "01a05c94-2c03-7ab7-b93f-49a8ed498a29",
   type: "page-type/domain",
   slug: "type-narrowing",
-  definition: "how a wide value is read as the narrow one it must be, or refused",
+  definition: "how a wide value is narrowed to the one it must be, or refused",
   parts: [
     "module/as-boolean",
     "module/as-instant",

@@ -4,7 +4,7 @@ export const windowIdentity = {
   id: "01a064e4-627c-7ce5-80a9-ec7e71522da3",
   type: "page-type/module",
   slug: "window-identity",
-  definition: "the pid and the start time a process is said by, read as one name",
+  definition: "the pid and the start time a process is said by, taken as one name",
   code: "ts",
   decisions: [
     {

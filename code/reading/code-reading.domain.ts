@@ -4,7 +4,7 @@ export const codeReading = {
   id: "01a09b3a-9daa-7aac-8778-f72dbc1e9b71",
   type: "page-type/domain",
   slug: "code-reading",
-  definition: "a body read as TypeScript, and what that reading says its spellings mean",
+  definition: "a body taken as TypeScript, and what its spellings mean once taken that way",
   parts: [
     "module/code-importing",
     "module/code-naming",

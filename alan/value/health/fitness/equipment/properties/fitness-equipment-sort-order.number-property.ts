@@ -5,7 +5,7 @@ export const fitnessEquipmentSortOrder = {
   type: "page-type/number-property",
   slug: "fitness-equipment-sort-order",
   propertySlug: "sort-order",
-  definition: "where a piece of kit sits when the kit is read as a list",
+  definition: "where a piece of kit sits when the kit is shown as a list",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
