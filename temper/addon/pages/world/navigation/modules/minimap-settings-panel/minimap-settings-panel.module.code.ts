@@ -33,8 +33,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
 
   optionsTable.push({
     type: "checkbox",
-    name: GetString(SI_TEMPERMINIMAP_WORLD_MAP_TWEAKS),
-    tooltip: GetString(SI_TEMPERMINIMAP_WORLD_MAP_TWEAKS_TOOLTIP),
+    name: GetString(SI_TEMPER_MINIMAP_WORLD_MAP_TWEAKS),
+    tooltip: GetString(SI_TEMPER_MINIMAP_WORLD_MAP_TWEAKS_TOOLTIP),
     default: this.accountDefaults.enableTweaks,
     getFunc: () => this.account.enableTweaks,
     setFunc: (value) => {
@@ -44,7 +44,7 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
   optionsTable.push({
     type: "checkbox",
     name: GetString(SI_KEYBINDINGS_CATEGORY_TEMPER_MINIMAP),
-    tooltip: GetString(SI_TEMPERMINIMAP_MINI_MAP_TOOLTIP),
+    tooltip: GetString(SI_TEMPER_MINIMAP_MINI_MAP_TOOLTIP),
     default: this.accountDefaults.enableMap,
     getFunc: () => this.account.enableMap,
     setFunc: (value) => {
@@ -54,7 +54,7 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
   optionsTable.push({ type: "description", text: "" })
   optionsTable.push({
     type: "button",
-    name: GetString(SI_TEMPERMINIMAP_APPLY_BUTTON),
+    name: GetString(SI_TEMPER_MINIMAP_APPLY_BUTTON),
     func: () => {
       const reloadui = asAnyTable(SLASH_COMMANDS)["/reloadui"]
       if (reloadui != null) {
@@ -70,8 +70,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_ZOOM),
-      tooltip: GetString(SI_TEMPERMINIMAP_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_ZOOM),
+      tooltip: GetString(SI_TEMPER_MINIMAP_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -84,8 +84,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_SUB_ZONE_ZOOM),
-      tooltip: GetString(SI_TEMPERMINIMAP_SUB_ZONE_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_SUB_ZONE_ZOOM),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SUB_ZONE_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -98,8 +98,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_DUNGEON_ZOOM),
-      tooltip: GetString(SI_TEMPERMINIMAP_DUNGEON_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_DUNGEON_ZOOM),
+      tooltip: GetString(SI_TEMPER_MINIMAP_DUNGEON_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -112,8 +112,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_MOUNTED_ZOOM),
-      tooltip: GetString(SI_TEMPERMINIMAP_MOUNTED_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_MOUNTED_ZOOM),
+      tooltip: GetString(SI_TEMPER_MINIMAP_MOUNTED_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -126,8 +126,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_BG_ZOOM),
-      tooltip: GetString(SI_TEMPERMINIMAP_BG_ZOOM_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_BG_ZOOM),
+      tooltip: GetString(SI_TEMPER_MINIMAP_BG_ZOOM_TOOLTIP),
       min: 0.0,
       max: 2,
       step: 0.05,
@@ -140,8 +140,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_UNIT_PINS_MINIMUM_SIZE),
-      tooltip: GetString(SI_TEMPERMINIMAP_UNIT_PINS_MINIMUM_SIZE_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_UNIT_PINS_MINIMUM_SIZE),
+      tooltip: GetString(SI_TEMPER_MINIMAP_UNIT_PINS_MINIMUM_SIZE_TOOLTIP),
       min: 0.65,
       max: 1,
       step: 0.01,
@@ -154,8 +154,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: GetString(SI_TEMPERMINIMAP_SHOW_MAP),
-      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_MAP_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_SHOW_MAP),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_MAP_TOOLTIP),
       default: this.defaults.showMap,
       getFunc: () => this.player.showMap,
       setFunc: (value) => {
@@ -165,8 +165,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_HUD),
-      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_HUD_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPER_MINIMAP_SHOW_HUD),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_HUD_TOOLTIP),
       default: this.accountDefaults.showHUD,
       getFunc: () => this.account.showHUD,
       setFunc: (value) => {
@@ -176,8 +176,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_LOOTING),
-      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_LOOTING_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPER_MINIMAP_SHOW_LOOTING),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_LOOTING_TOOLTIP),
       default: this.accountDefaults.showLoot,
       getFunc: () => this.account.showLoot,
       setFunc: (value) => {
@@ -187,8 +187,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_MOUNTED),
-      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_MOUNTED_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPER_MINIMAP_SHOW_MOUNTED),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_MOUNTED_TOOLTIP),
       default: this.accountDefaults.showMounted,
       getFunc: () => this.account.showMounted,
       setFunc: (value) => {
@@ -198,8 +198,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_COMBAT),
-      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_COMBAT_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPER_MINIMAP_SHOW_COMBAT),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_COMBAT_TOOLTIP),
       default: this.accountDefaults.showCombat,
       getFunc: () => this.account.showCombat,
       setFunc: (value) => {
@@ -209,8 +209,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_SIEGE),
-      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_SIEGE_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPER_MINIMAP_SHOW_SIEGE),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_SIEGE_TOOLTIP),
       default: this.accountDefaults.showSiege,
       getFunc: () => this.account.showSiege,
       setFunc: (value) => {
@@ -220,8 +220,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_SHOW_IN_HOUSING),
-      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_IN_HOUSING_TOOLTIP),
+      name: " |u12:0::|u" + GetString(SI_TEMPER_MINIMAP_SHOW_IN_HOUSING),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_IN_HOUSING_TOOLTIP),
       default: this.accountDefaults.showInHousing,
       getFunc: () => this.account.showInHousing,
       setFunc: (value) => {
@@ -231,19 +231,19 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "checkbox",
-      name: GetString(SI_TEMPERMINIMAP_ASYNC_UPDATE),
-      tooltip: GetString(SI_TEMPERMINIMAP_ASYNC_UPDATE_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_ASYNC_UPDATE),
+      tooltip: GetString(SI_TEMPER_MINIMAP_ASYNC_UPDATE_TOOLTIP),
       default: this.accountDefaults.asyncUpdate,
       getFunc: () => this.account.asyncUpdate,
       setFunc: (value) => {
         this.account.asyncUpdate = asBoolean(value)
       },
     })
-    optionsTable.push(header(GetString(SI_TEMPERMINIMAP_KEYBINDINGS_ZOOM)))
+    optionsTable.push(header(GetString(SI_TEMPER_MINIMAP_KEYBINDINGS_ZOOM)))
     optionsTable.push({
       type: "checkbox",
-      name: GetString(SI_TEMPERMINIMAP_ZOOM_TO_PLAYER),
-      tooltip: GetString(SI_TEMPERMINIMAP_ZOOM_TO_PLAYER_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_ZOOM_TO_PLAYER),
+      tooltip: GetString(SI_TEMPER_MINIMAP_ZOOM_TO_PLAYER_TOOLTIP),
       default: this.accountDefaults.zoomToPlayer,
       getFunc: () => this.account.zoomToPlayer,
       setFunc: (value) => {
@@ -252,8 +252,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_ZOOM_OUT),
-      tooltip: GetString(SI_TEMPERMINIMAP_ZOOM_OUT_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_ZOOM_OUT),
+      tooltip: GetString(SI_TEMPER_MINIMAP_ZOOM_OUT_TOOLTIP),
       min: 0.0,
       max: 1,
       step: 0.05,
@@ -266,8 +266,8 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
     })
     optionsTable.push({
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_ZOOM_IN),
-      tooltip: GetString(SI_TEMPERMINIMAP_ZOOM_IN_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_ZOOM_IN),
+      tooltip: GetString(SI_TEMPER_MINIMAP_ZOOM_IN_TOOLTIP),
       min: 1,
       max: 2,
       step: 0.05,
@@ -278,11 +278,11 @@ holder.InitSettings = function (this: TemperMiniMap): undefined {
         this.account.zoomIn = asNumber(value)
       },
     })
-    optionsTable.push(header(GetString(SI_TEMPERMINIMAP_APPEARANCE)))
+    optionsTable.push(header(GetString(SI_TEMPER_MINIMAP_APPEARANCE)))
     optionsTable.push({
       type: "checkbox",
-      name: GetString(SI_TEMPERMINIMAP_LOCK_POSITION),
-      tooltip: GetString(SI_TEMPERMINIMAP_LOCK_POSITION_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_LOCK_POSITION),
+      tooltip: GetString(SI_TEMPER_MINIMAP_LOCK_POSITION_TOOLTIP),
       default: this.accountDefaults.lockWindow,
       getFunc: () => this.account.lockWindow,
       setFunc: (value) => {

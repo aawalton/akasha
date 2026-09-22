@@ -1,181 +1,181 @@
 declare const SI_KEYBINDINGS_CATEGORY_TEMPER_MINIMAP: number
 
-declare const SI_TEMPERMINIMAP_APPEARANCE: number
+declare const SI_TEMPER_MINIMAP_APPEARANCE: number
 
-declare const SI_TEMPERMINIMAP_APPLY_BUTTON: number
+declare const SI_TEMPER_MINIMAP_APPLY_BUTTON: number
 
-declare const SI_TEMPERMINIMAP_ASYNC_UPDATE: number
+declare const SI_TEMPER_MINIMAP_ASYNC_UPDATE: number
 
-declare const SI_TEMPERMINIMAP_ASYNC_UPDATE_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_ASYNC_UPDATE_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_BG_ZOOM: number
+declare const SI_TEMPER_MINIMAP_BG_ZOOM: number
 
-declare const SI_TEMPERMINIMAP_BG_ZOOM_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_BG_ZOOM_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_BORDER_OPACITY: number
+declare const SI_TEMPER_MINIMAP_BORDER_OPACITY: number
 
-declare const SI_TEMPERMINIMAP_BORDER_OPACITY_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_BORDER_OPACITY_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_BORDER_STYLE: number
+declare const SI_TEMPER_MINIMAP_BORDER_STYLE: number
 
-declare const SI_TEMPERMINIMAP_CAMERA_HEADING_ANGLE: number
+declare const SI_TEMPER_MINIMAP_CAMERA_HEADING_ANGLE: number
 
-declare const SI_TEMPERMINIMAP_CAMERA_HEADING_ANGLE_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_CAMERA_HEADING_ANGLE_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_COMPASSMODE_HIDDEN: number
+declare const SI_TEMPER_MINIMAP_COMPASSMODE_HIDDEN: number
 
-declare const SI_TEMPERMINIMAP_COMPASSMODE_SHOWN: number
+declare const SI_TEMPER_MINIMAP_COMPASSMODE_SHOWN: number
 
-declare const SI_TEMPERMINIMAP_COMPASSMODE_UNTOUCHED: number
+declare const SI_TEMPER_MINIMAP_COMPASSMODE_UNTOUCHED: number
 
-declare const SI_TEMPERMINIMAP_DUNGEON_ZOOM: number
+declare const SI_TEMPER_MINIMAP_DUNGEON_ZOOM: number
 
-declare const SI_TEMPERMINIMAP_DUNGEON_ZOOM_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_DUNGEON_ZOOM_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_FRAMEDROP_DEBUG: number
+declare const SI_TEMPER_MINIMAP_FRAMEDROP_DEBUG: number
 
-declare const SI_TEMPERMINIMAP_GRID_H: number
+declare const SI_TEMPER_MINIMAP_GRID_H: number
 
-declare const SI_TEMPERMINIMAP_GRID_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_GRID_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_GRID_W: number
+declare const SI_TEMPER_MINIMAP_GRID_W: number
 
-declare const SI_TEMPERMINIMAP_GRID_X: number
+declare const SI_TEMPER_MINIMAP_GRID_X: number
 
-declare const SI_TEMPERMINIMAP_GRID_Y: number
+declare const SI_TEMPER_MINIMAP_GRID_Y: number
 
-declare const SI_TEMPERMINIMAP_KEEP_SQUARE: number
+declare const SI_TEMPER_MINIMAP_KEEP_SQUARE: number
 
-declare const SI_TEMPERMINIMAP_KEEP_SQUARE_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_KEEP_SQUARE_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_KEYBINDINGS_ZOOM: number
+declare const SI_TEMPER_MINIMAP_KEYBINDINGS_ZOOM: number
 
-declare const SI_TEMPERMINIMAP_LOCK_POSITION: number
+declare const SI_TEMPER_MINIMAP_LOCK_POSITION: number
 
-declare const SI_TEMPERMINIMAP_LOCK_POSITION_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_LOCK_POSITION_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_MINI_MAP: number
+declare const SI_TEMPER_MINIMAP_MINI_MAP: number
 
-declare const SI_TEMPERMINIMAP_MINI_MAP_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_MINI_MAP_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_MOUNTED_ZOOM: number
+declare const SI_TEMPER_MINIMAP_MOUNTED_ZOOM: number
 
-declare const SI_TEMPERMINIMAP_MOUNTED_ZOOM_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_MOUNTED_ZOOM_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_PINSIZE_DISTRICTS: number
+declare const SI_TEMPER_MINIMAP_PINSIZE_DISTRICTS: number
 
-declare const SI_TEMPERMINIMAP_PINSIZE_KEEP_FAST_TRAVEL: number
+declare const SI_TEMPER_MINIMAP_PINSIZE_KEEP_FAST_TRAVEL: number
 
-declare const SI_TEMPERMINIMAP_PINSIZE_KEEPS: number
+declare const SI_TEMPER_MINIMAP_PINSIZE_KEEPS: number
 
-declare const SI_TEMPERMINIMAP_SHOW_ALL_TRAVEL_NODES: number
+declare const SI_TEMPER_MINIMAP_SHOW_ALL_TRAVEL_NODES: number
 
-declare const SI_TEMPERMINIMAP_SHOW_ALL_TRAVEL_NODES_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_ALL_TRAVEL_NODES_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_CAMERA_HEADING: number
+declare const SI_TEMPER_MINIMAP_SHOW_CAMERA_HEADING: number
 
-declare const SI_TEMPERMINIMAP_SHOW_CAMERA_HEADING_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_CAMERA_HEADING_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_CLOCK: number
+declare const SI_TEMPER_MINIMAP_SHOW_CLOCK: number
 
-declare const SI_TEMPERMINIMAP_SHOW_CLOCK0: number
+declare const SI_TEMPER_MINIMAP_SHOW_CLOCK0: number
 
-declare const SI_TEMPERMINIMAP_SHOW_CLOCK1: number
+declare const SI_TEMPER_MINIMAP_SHOW_CLOCK1: number
 
-declare const SI_TEMPERMINIMAP_SHOW_CLOCK2: number
+declare const SI_TEMPER_MINIMAP_SHOW_CLOCK2: number
 
-declare const SI_TEMPERMINIMAP_SHOW_CLOCK3: number
+declare const SI_TEMPER_MINIMAP_SHOW_CLOCK3: number
 
-declare const SI_TEMPERMINIMAP_SHOW_CLOCK_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_CLOCK_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_COMBAT: number
+declare const SI_TEMPER_MINIMAP_SHOW_COMBAT: number
 
-declare const SI_TEMPERMINIMAP_SHOW_COMBAT_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_COMBAT_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_COMPASS: number
+declare const SI_TEMPER_MINIMAP_SHOW_COMPASS: number
 
-declare const SI_TEMPERMINIMAP_SHOW_COMPASS_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_COMPASS_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_FREEZE_WARNING: number
+declare const SI_TEMPER_MINIMAP_SHOW_FREEZE_WARNING: number
 
-declare const SI_TEMPERMINIMAP_SHOW_FREEZE_WARNING_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_FREEZE_WARNING_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_FULL_TITLE: number
+declare const SI_TEMPER_MINIMAP_SHOW_FULL_TITLE: number
 
-declare const SI_TEMPERMINIMAP_SHOW_FULL_TITLE_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_FULL_TITLE_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_HUD: number
+declare const SI_TEMPER_MINIMAP_SHOW_HUD: number
 
-declare const SI_TEMPERMINIMAP_SHOW_HUD_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_HUD_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_IN_HOUSING: number
+declare const SI_TEMPER_MINIMAP_SHOW_IN_HOUSING: number
 
-declare const SI_TEMPERMINIMAP_SHOW_IN_HOUSING_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_IN_HOUSING_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_IN_SETTINGS: number
+declare const SI_TEMPER_MINIMAP_SHOW_IN_SETTINGS: number
 
-declare const SI_TEMPERMINIMAP_SHOW_LOOTING: number
+declare const SI_TEMPER_MINIMAP_SHOW_LOOTING: number
 
-declare const SI_TEMPERMINIMAP_SHOW_LOOTING_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_LOOTING_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_MAP: number
+declare const SI_TEMPER_MINIMAP_SHOW_MAP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_MAP_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_MAP_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_MOUNTED: number
+declare const SI_TEMPER_MINIMAP_SHOW_MOUNTED: number
 
-declare const SI_TEMPERMINIMAP_SHOW_MOUNTED_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_MOUNTED_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_ON_TOP: number
+declare const SI_TEMPER_MINIMAP_SHOW_ON_TOP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_ON_TOP_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_ON_TOP_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SHOW_SIEGE: number
+declare const SI_TEMPER_MINIMAP_SHOW_SIEGE: number
 
-declare const SI_TEMPERMINIMAP_SHOW_SIEGE_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SHOW_SIEGE_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_SUB_ZONE_ZOOM: number
+declare const SI_TEMPER_MINIMAP_SUB_ZONE_ZOOM: number
 
-declare const SI_TEMPERMINIMAP_SUB_ZONE_ZOOM_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_SUB_ZONE_ZOOM_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_TIME_FORMAT: number
+declare const SI_TEMPER_MINIMAP_TIME_FORMAT: number
 
-declare const SI_TEMPERMINIMAP_TITLE_COLOR: number
+declare const SI_TEMPER_MINIMAP_TITLE_COLOR: number
 
-declare const SI_TEMPERMINIMAP_TITLE_FONT: number
+declare const SI_TEMPER_MINIMAP_TITLE_FONT: number
 
-declare const SI_TEMPERMINIMAP_TITLE_FONT_SIZE: number
+declare const SI_TEMPER_MINIMAP_TITLE_FONT_SIZE: number
 
-declare const SI_TEMPERMINIMAP_TITLE_POSITION: number
+declare const SI_TEMPER_MINIMAP_TITLE_POSITION: number
 
-declare const SI_TEMPERMINIMAP_UNIT_PINS_MINIMUM_SIZE: number
+declare const SI_TEMPER_MINIMAP_UNIT_PINS_MINIMUM_SIZE: number
 
-declare const SI_TEMPERMINIMAP_UNIT_PINS_MINIMUM_SIZE_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_UNIT_PINS_MINIMUM_SIZE_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_WORLD_MAP_TWEAKS: number
+declare const SI_TEMPER_MINIMAP_WORLD_MAP_TWEAKS: number
 
-declare const SI_TEMPERMINIMAP_WORLD_MAP_TWEAKS_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_WORLD_MAP_TWEAKS_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_ZONEALERTMODE_ALWAYS: number
+declare const SI_TEMPER_MINIMAP_ZONEALERTMODE_ALWAYS: number
 
-declare const SI_TEMPERMINIMAP_ZONEALERTMODE_MAP_HIDDEN: number
+declare const SI_TEMPER_MINIMAP_ZONEALERTMODE_MAP_HIDDEN: number
 
-declare const SI_TEMPERMINIMAP_ZONEALERTMODE_NEVER: number
+declare const SI_TEMPER_MINIMAP_ZONEALERTMODE_NEVER: number
 
-declare const SI_TEMPERMINIMAP_ZONE_CHANGE_ALERT: number
+declare const SI_TEMPER_MINIMAP_ZONE_CHANGE_ALERT: number
 
-declare const SI_TEMPERMINIMAP_ZOOM: number
+declare const SI_TEMPER_MINIMAP_ZOOM: number
 
-declare const SI_TEMPERMINIMAP_ZOOM_IN: number
+declare const SI_TEMPER_MINIMAP_ZOOM_IN: number
 
-declare const SI_TEMPERMINIMAP_ZOOM_IN_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_ZOOM_IN_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_ZOOM_OUT: number
+declare const SI_TEMPER_MINIMAP_ZOOM_OUT: number
 
-declare const SI_TEMPERMINIMAP_ZOOM_OUT_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_ZOOM_OUT_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_ZOOM_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_ZOOM_TOOLTIP: number
 
-declare const SI_TEMPERMINIMAP_ZOOM_TO_PLAYER: number
+declare const SI_TEMPER_MINIMAP_ZOOM_TO_PLAYER: number
 
-declare const SI_TEMPERMINIMAP_ZOOM_TO_PLAYER_TOOLTIP: number
+declare const SI_TEMPER_MINIMAP_ZOOM_TO_PLAYER_TOOLTIP: number

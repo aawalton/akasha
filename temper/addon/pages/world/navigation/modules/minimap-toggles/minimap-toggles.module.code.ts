@@ -149,7 +149,7 @@ CALLBACK_MANAGER.RegisterCallback(
 {
   holder.ToggleShowMap = function (this: TemperMiniMap): undefined {
     this.player.showMap = !this.player.showMap
-    const label = GetString(SI_TEMPERMINIMAP_SHOW_MAP)
+    const label = GetString(SI_TEMPER_MINIMAP_SHOW_MAP)
     const stateText = GetString(this.player.showMap ? SI_CHECK_BUTTON_ON : SI_CHECK_BUTTON_OFF)
     asAnyTable(CENTER_SCREEN_ANNOUNCE).AddMessage(
       EVENT_BROADCAST,

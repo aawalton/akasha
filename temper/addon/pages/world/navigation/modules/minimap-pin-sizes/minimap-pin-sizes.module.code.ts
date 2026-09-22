@@ -168,15 +168,15 @@ holder.InitPinSizes = function (this: TemperMiniMap): undefined {
   addPins(
     asAnyTable(zoMapPinAny.FAST_TRAVEL_KEEP_PIN_TYPES),
     "Keep Fast Travel",
-    SI_TEMPERMINIMAP_PINSIZE_KEEP_FAST_TRAVEL
+    SI_TEMPER_MINIMAP_PINSIZE_KEEP_FAST_TRAVEL
   )
 
   addPins(asAnyTable(zoMapPinAny.OBJECTIVE_PIN_TYPES), "AvA Objectives", SI_MAPFILTER2)
-  addPins(asAnyTable(zoMapPinAny.KEEP_PIN_TYPES), "Keeps", SI_TEMPERMINIMAP_PINSIZE_KEEPS)
+  addPins(asAnyTable(zoMapPinAny.KEEP_PIN_TYPES), "Keeps", SI_TEMPER_MINIMAP_PINSIZE_KEEPS)
   addPins(
     asAnyTable(zoMapPinAny.DISTRICT_PIN_TYPES),
     "Districts",
-    SI_TEMPERMINIMAP_PINSIZE_DISTRICTS
+    SI_TEMPER_MINIMAP_PINSIZE_DISTRICTS
   )
   addPins(asAnyTable(zoMapPinAny.KILL_LOCATION_PIN_TYPES), "Kill Locations", SI_MAPFILTER3)
   addPins(asAnyTable(zoMapPinAny.FORWARD_CAMP_PIN_TYPES), "Forward Camps", SI_TOOLTIP_FORWARD_CAMP)

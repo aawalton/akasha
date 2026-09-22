@@ -28,7 +28,7 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
 
   controls.push(
     valueDropdown<string>({
-      name: GetString(SI_TEMPERMINIMAP_BORDER_STYLE),
+      name: GetString(SI_TEMPER_MINIMAP_BORDER_STYLE),
       choices: LOOKUP.frameStyles.map((s) => s.name),
       values: LOOKUP.frameStyles.map((s) => s.data.value),
       get: () => self.account.frameStyle,
@@ -47,8 +47,8 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   )
   controls.push({
     type: "slider",
-    name: GetString(SI_TEMPERMINIMAP_BORDER_OPACITY),
-    tooltip: GetString(SI_TEMPERMINIMAP_BORDER_OPACITY_TOOLTIP),
+    name: GetString(SI_TEMPER_MINIMAP_BORDER_OPACITY),
+    tooltip: GetString(SI_TEMPER_MINIMAP_BORDER_OPACITY_TOOLTIP),
     min: 0,
     max: 100,
     step: 1,
@@ -62,7 +62,7 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   })
   controls.push(
     valueDropdown<string>({
-      name: GetString(SI_TEMPERMINIMAP_TITLE_FONT),
+      name: GetString(SI_TEMPER_MINIMAP_TITLE_FONT),
       choices: LOOKUP.fonts.map((f) => f.name),
       values: LOOKUP.fonts.map((f) => f.data),
       get: () => self.account.titleFont,
@@ -75,7 +75,7 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   )
   controls.push(
     valueDropdown<number>({
-      name: GetString(SI_TEMPERMINIMAP_TITLE_FONT_SIZE),
+      name: GetString(SI_TEMPER_MINIMAP_TITLE_FONT_SIZE),
       choices: LOOKUP.fontSizes.map((s) => s.name),
       values: LOOKUP.fontSizes.map((s) => s.data.size),
       get: () => self.account.titleFontSize,
@@ -89,7 +89,7 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   )
   controls.push({
     type: "colorpicker",
-    name: GetString(SI_TEMPERMINIMAP_TITLE_COLOR),
+    name: GetString(SI_TEMPER_MINIMAP_TITLE_COLOR),
     default: self.accountDefaults.titleColor,
     getFunc: () => {
       return asColorDef(self.titleColor).UnpackRGB()
@@ -105,7 +105,7 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   })
   controls.push(
     dropdown({
-      name: GetString(SI_TEMPERMINIMAP_TITLE_POSITION),
+      name: GetString(SI_TEMPER_MINIMAP_TITLE_POSITION),
       choices: ["Top", "Bottom"],
       get: () => (self.account.titleAtTop ? 0 : 1),
       set: (i) => {
@@ -117,8 +117,8 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   )
   controls.push({
     type: "checkbox",
-    name: GetString(SI_TEMPERMINIMAP_SHOW_FULL_TITLE),
-    tooltip: GetString(SI_TEMPERMINIMAP_SHOW_FULL_TITLE_TOOLTIP),
+    name: GetString(SI_TEMPER_MINIMAP_SHOW_FULL_TITLE),
+    tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_FULL_TITLE_TOOLTIP),
     default: self.accountDefaults.showFullTitle,
     getFunc: () => self.account.showFullTitle,
     setFunc: (value) => {
@@ -130,8 +130,8 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   })
   controls.push({
     type: "checkbox",
-    name: GetString(SI_TEMPERMINIMAP_KEEP_SQUARE),
-    tooltip: GetString(SI_TEMPERMINIMAP_KEEP_SQUARE_TOOLTIP),
+    name: GetString(SI_TEMPER_MINIMAP_KEEP_SQUARE),
+    tooltip: GetString(SI_TEMPER_MINIMAP_KEEP_SQUARE_TOOLTIP),
     default: true,
     getFunc: () => asBoolean(self.modeData?.keepSquare),
     setFunc: (value) => {
@@ -143,13 +143,13 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   })
   controls.push(
     dropdown({
-      name: GetString(SI_TEMPERMINIMAP_SHOW_CLOCK),
-      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_CLOCK_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_SHOW_CLOCK),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_CLOCK_TOOLTIP),
       choices: [
-        GetString(SI_TEMPERMINIMAP_SHOW_CLOCK0),
-        GetString(SI_TEMPERMINIMAP_SHOW_CLOCK1),
-        GetString(SI_TEMPERMINIMAP_SHOW_CLOCK2),
-        GetString(SI_TEMPERMINIMAP_SHOW_CLOCK3),
+        GetString(SI_TEMPER_MINIMAP_SHOW_CLOCK0),
+        GetString(SI_TEMPER_MINIMAP_SHOW_CLOCK1),
+        GetString(SI_TEMPER_MINIMAP_SHOW_CLOCK2),
+        GetString(SI_TEMPER_MINIMAP_SHOW_CLOCK3),
       ],
       get: () => {
         let mode = 0
@@ -182,7 +182,7 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   )
   controls.push(
     valueDropdown<number>({
-      name: GetString(SI_TEMPERMINIMAP_TIME_FORMAT),
+      name: GetString(SI_TEMPER_MINIMAP_TIME_FORMAT),
       choices: ["12h", "24h"],
       values: [TIME_FORMAT_PRECISION_TWELVE_HOUR, TIME_FORMAT_PRECISION_TWENTY_FOUR_HOUR],
       get: () => self.account.timeFormat,
@@ -194,8 +194,8 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   )
   controls.push({
     type: "checkbox",
-    name: GetString(SI_TEMPERMINIMAP_SHOW_CAMERA_HEADING),
-    tooltip: GetString(SI_TEMPERMINIMAP_SHOW_CAMERA_HEADING_TOOLTIP),
+    name: GetString(SI_TEMPER_MINIMAP_SHOW_CAMERA_HEADING),
+    tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_CAMERA_HEADING_TOOLTIP),
     default: self.accountDefaults.showCameraAngle,
     getFunc: () => self.account.showCameraAngle,
     setFunc: (value) => {
@@ -214,8 +214,8 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   })
   controls.push({
     type: "slider",
-    name: " |u12:0::|u" + GetString(SI_TEMPERMINIMAP_CAMERA_HEADING_ANGLE),
-    tooltip: GetString(SI_TEMPERMINIMAP_CAMERA_HEADING_ANGLE_TOOLTIP),
+    name: " |u12:0::|u" + GetString(SI_TEMPER_MINIMAP_CAMERA_HEADING_ANGLE),
+    tooltip: GetString(SI_TEMPER_MINIMAP_CAMERA_HEADING_ANGLE_TOOLTIP),
     min: 20,
     max: 70,
     step: 1,
@@ -230,11 +230,11 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   })
   controls.push(
     valueDropdown<string>({
-      name: GetString(SI_TEMPERMINIMAP_ZONE_CHANGE_ALERT),
+      name: GetString(SI_TEMPER_MINIMAP_ZONE_CHANGE_ALERT),
       choices: [
-        GetString(SI_TEMPERMINIMAP_ZONEALERTMODE_ALWAYS),
-        GetString(SI_TEMPERMINIMAP_ZONEALERTMODE_MAP_HIDDEN),
-        GetString(SI_TEMPERMINIMAP_ZONEALERTMODE_NEVER),
+        GetString(SI_TEMPER_MINIMAP_ZONEALERTMODE_ALWAYS),
+        GetString(SI_TEMPER_MINIMAP_ZONEALERTMODE_MAP_HIDDEN),
+        GetString(SI_TEMPER_MINIMAP_ZONEALERTMODE_NEVER),
       ],
       values: [
         self.zoneAlertMode.Always,
@@ -250,12 +250,12 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   )
   controls.push(
     valueDropdown<string>({
-      name: GetString(SI_TEMPERMINIMAP_SHOW_COMPASS),
-      tooltip: GetString(SI_TEMPERMINIMAP_SHOW_COMPASS_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_SHOW_COMPASS),
+      tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_COMPASS_TOOLTIP),
       choices: [
-        GetString(SI_TEMPERMINIMAP_COMPASSMODE_UNTOUCHED),
-        GetString(SI_TEMPERMINIMAP_COMPASSMODE_HIDDEN),
-        GetString(SI_TEMPERMINIMAP_COMPASSMODE_SHOWN),
+        GetString(SI_TEMPER_MINIMAP_COMPASSMODE_UNTOUCHED),
+        GetString(SI_TEMPER_MINIMAP_COMPASSMODE_HIDDEN),
+        GetString(SI_TEMPER_MINIMAP_COMPASSMODE_SHOWN),
       ],
       values: [self.compassMode.Untouched, self.compassMode.Hidden, self.compassMode.Shown],
       get: () => self.account.enableCompass,
@@ -268,8 +268,8 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   )
   controls.push({
     type: "checkbox",
-    name: GetString(SI_TEMPERMINIMAP_SHOW_ON_TOP),
-    tooltip: GetString(SI_TEMPERMINIMAP_SHOW_ON_TOP_TOOLTIP),
+    name: GetString(SI_TEMPER_MINIMAP_SHOW_ON_TOP),
+    tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_ON_TOP_TOOLTIP),
     default: self.accountDefaults.showOnTop,
     getFunc: () => self.account.showOnTop,
     setFunc: (value) => {
@@ -279,19 +279,19 @@ export function buildAppearanceSettings(self: TemperMiniMap): LamControlData[] {
   })
   controls.push({
     type: "checkbox",
-    name: GetString(SI_TEMPERMINIMAP_SHOW_ALL_TRAVEL_NODES),
-    tooltip: GetString(SI_TEMPERMINIMAP_SHOW_ALL_TRAVEL_NODES_TOOLTIP),
+    name: GetString(SI_TEMPER_MINIMAP_SHOW_ALL_TRAVEL_NODES),
+    tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_ALL_TRAVEL_NODES_TOOLTIP),
     default: self.accountDefaults.showAllTravelNodes,
     getFunc: () => self.account.showAllTravelNodes,
     setFunc: (value) => {
       self.account.showAllTravelNodes = asBoolean(value)
     },
   })
-  controls.push(header(GetString(SI_TEMPERMINIMAP_FRAMEDROP_DEBUG)))
+  controls.push(header(GetString(SI_TEMPER_MINIMAP_FRAMEDROP_DEBUG)))
   controls.push({
     type: "checkbox",
-    name: GetString(SI_TEMPERMINIMAP_SHOW_FREEZE_WARNING),
-    tooltip: GetString(SI_TEMPERMINIMAP_SHOW_FREEZE_WARNING_TOOLTIP),
+    name: GetString(SI_TEMPER_MINIMAP_SHOW_FREEZE_WARNING),
+    tooltip: GetString(SI_TEMPER_MINIMAP_SHOW_FREEZE_WARNING_TOOLTIP),
     default: false,
     getFunc: () => async.GetDebug(),
     setFunc: (value) => {

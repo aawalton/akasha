@@ -50,7 +50,7 @@ export function buildLocationSettings(self: TemperMiniMap): LamControlData[] {
   return [
     {
       type: "checkbox",
-      name: GetString(SI_TEMPERMINIMAP_SHOW_IN_SETTINGS),
+      name: GetString(SI_TEMPER_MINIMAP_SHOW_IN_SETTINGS),
       default: false,
       getFunc: () => self.wasMapAdded ?? false,
       setFunc: (value) => {
@@ -63,8 +63,8 @@ export function buildLocationSettings(self: TemperMiniMap): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_GRID_X),
-      tooltip: GetString(SI_TEMPERMINIMAP_GRID_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_GRID_X),
+      tooltip: GetString(SI_TEMPER_MINIMAP_GRID_TOOLTIP),
       min: -w2,
       max: w2,
       step: 1,
@@ -78,8 +78,8 @@ export function buildLocationSettings(self: TemperMiniMap): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_GRID_Y),
-      tooltip: GetString(SI_TEMPERMINIMAP_GRID_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_GRID_Y),
+      tooltip: GetString(SI_TEMPER_MINIMAP_GRID_TOOLTIP),
       min: -h2,
       max: h2,
       step: 1,
@@ -93,8 +93,8 @@ export function buildLocationSettings(self: TemperMiniMap): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_GRID_W),
-      tooltip: GetString(SI_TEMPERMINIMAP_GRID_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_GRID_W),
+      tooltip: GetString(SI_TEMPER_MINIMAP_GRID_TOOLTIP),
       min: 14,
       max: w,
       step: 1,
@@ -115,8 +115,8 @@ export function buildLocationSettings(self: TemperMiniMap): LamControlData[] {
     },
     {
       type: "slider",
-      name: GetString(SI_TEMPERMINIMAP_GRID_H),
-      tooltip: GetString(SI_TEMPERMINIMAP_GRID_TOOLTIP),
+      name: GetString(SI_TEMPER_MINIMAP_GRID_H),
+      tooltip: GetString(SI_TEMPER_MINIMAP_GRID_TOOLTIP),
       min: 14,
       max: h,
       step: 1,
