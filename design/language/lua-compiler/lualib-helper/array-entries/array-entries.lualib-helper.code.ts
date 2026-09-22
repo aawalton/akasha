@@ -1,5 +1,3 @@
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
-
 export function __TS__ArrayEntries<T>(this: void, array: T[]): IterableIterator<[number, T]> {
   let key = 0
   return {
