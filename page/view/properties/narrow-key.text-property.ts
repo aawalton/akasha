@@ -5,7 +5,7 @@ export const narrowKey = {
   type: "page-type/text-property",
   slug: "narrow-key",
   propertySlug: "key",
-  definition: "the key one narrow reads off a page",
+  definition: "the key a narrow reads off a page",
   namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,

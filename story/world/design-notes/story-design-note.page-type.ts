@@ -4,7 +4,7 @@ export const storyDesignNote = {
   id: "01a06578-d638-794d-b1f4-f5c46500a7e9",
   type: "page-type/page-type",
   slug: "story-design-note",
-  definition: "one document worked out while a story's design was being settled",
+  definition: "a document worked out while a story's design was being settled",
   pluralSlug: "design-notes",
   extends: ["page-type/page"],
   runsTabooCheck: false,

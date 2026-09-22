@@ -5,7 +5,7 @@ export const galleryCardSize = {
   type: "page-type/select-property",
   slug: "gallery-card-size",
   propertySlug: "gallery-card-size",
-  definition: "how large a gallery draws one card",
+  definition: "how large a gallery draws a card",
   values: ["small", "medium", "large"],
   types: "ts",
 } as const satisfies SelectProperty

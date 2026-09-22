@@ -4,7 +4,7 @@ export const ctwAchievement = {
   id: "01a06579-e4f7-7cac-8aa3-87b59725c97d",
   type: "page-type/page-type",
   slug: "ctw-achievement",
-  definition: "one mark a player of Clear the World earns by passing a threshold",
+  definition: "a mark a player of Clear the World earns by passing a threshold",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: ["number-property/threshold", "select-property/ctw-scope", "text-property/metric"],

@@ -4,7 +4,7 @@ export const personaCraftDay = {
   id: "01a0655b-4a9b-700e-86cf-9bc6a7104f89",
   type: "page-type/page-type",
   slug: "persona-craft-day",
-  definition: "what the persona who makes personas did on one day",
+  definition: "what the persona who makes personas did on a day",
   extends: ["page-type/page"],
   parts: [
     "number-property/advance-count",

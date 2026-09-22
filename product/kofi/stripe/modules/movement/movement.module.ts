@@ -4,7 +4,7 @@ export const movement = {
   id: "01a0ba9a-9aa0-7d5a-a08f-4fd31546c134",
   type: "page-type/module",
   slug: "movement",
-  definition: "what one Stripe event moves in a contributor's points",
+  definition: "what a Stripe event moves in a contributor's points",
   code: "ts",
   test: "ts",
   decisions: [

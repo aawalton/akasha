@@ -5,6 +5,6 @@ export const choiceAction = {
   type: "page-type/module",
   slug: "choice-action",
   definition:
-    "a player picking one option out of a system window, and how that pick reads back as a line of text",
+    "a player picking an option out of a system window, and how that pick reads back as a line of text",
   code: "ts",
 } as const satisfies Module

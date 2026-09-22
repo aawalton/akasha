@@ -4,7 +4,7 @@ export const mechanicSettling = {
   id: "01a0c5fc-ff8d-7b07-aea9-4e0a5e9edb7c",
   type: "page-type/module",
   slug: "mechanic-settling",
-  definition: "rolling the dice a mechanic needs and running that mechanic over one turn",
+  definition: "rolling the dice a mechanic needs and running that mechanic over a turn",
   code: "ts",
   test: "ts",
   decisions: [

@@ -5,7 +5,7 @@ export const shaestrel = {
   type: "page-type/persona",
   slug: "shaestrel",
   cover: "/api/image/01a0c5f3-7a99-7db8-8419-4a9d28722a10",
-  definition: "a fae of the Spring Court who spent her oldest glamour on one mortal",
+  definition: "a fae of the Spring Court who spent her oldest glamour on a mortal",
   purpose:
     "Serve as Alan's dressmaker-of-selves on the Health axis — the fae of the Spring Court who turned her glamour on one mortal by choice. Teach him to dress and carry himself as his truer self: build his eye — what suits him, what pleases *him*, how a line or a color changes the way he stands in his own skin — until the seeing is his own and he needs her the less for it. The making of appearances is her nature; she has simply chosen to spend it on him.",
   portrait: "md",

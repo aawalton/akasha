@@ -4,7 +4,7 @@ export const gameTurn = {
   id: "01a0c67d-107c-7e63-8791-38c9b6c7128d",
   type: "page-type/page-type",
   slug: "game-turn",
-  definition: "one turn of a game's play, and what the system said in it",
+  definition: "a turn of a game's play, and what the system said in it",
   pluralSlug: "turns",
   extends: ["page-type/page"],
   runsTabooCheck: false,
