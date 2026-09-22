@@ -2741,11 +2741,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/antiquities/modules/leads-unit-state/leads-unit-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/antiquities/modules/leads-zone-name/leads-zone-name.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/antiquities/modules/leads-zones/leads-zones.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/capture-datamining/modules/datamining-constants/datamining-constants.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/capture-datamining/modules/datamining-entry/datamining-entry.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/capture-datamining/modules/datamining-item-miner/datamining-item-miner.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/capture-datamining/modules/datamining-quest-miner/datamining-quest-miner.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/capture-datamining/modules/datamining-saved-variables/datamining-saved-variables.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/capture-sales/modules/histoire-adapter-gap-rows/histoire-adapter-gap-rows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/capture-sales/modules/histoire-adapter/histoire-adapter.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/capture-sales/modules/histoire-api/histoire-api.module.ts"}
@@ -2807,6 +2802,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/catalog-invalidations/catalog-invalidations.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/catalog-public-api/catalog-public-api.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-constants/datamining-constants.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-alliance-rank/characters-alliance-rank.module.ts"}

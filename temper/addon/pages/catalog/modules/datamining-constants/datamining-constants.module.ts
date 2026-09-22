@@ -4,7 +4,7 @@ export const dataminingConstants = {
   id: "01a06341-d9e8-7002-a0ab-0c2c0932a9ad",
   type: "page-type/module",
   slug: "datamining-constants",
-  definition: "the fixed name, batch sizes and delays datamining runs by",
+  definition: "the fixed batch sizes and delays datamining runs by",
   code: "ts",
   decisions: [
     {

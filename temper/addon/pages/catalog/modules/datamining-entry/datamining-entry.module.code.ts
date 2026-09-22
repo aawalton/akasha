@@ -1,25 +1,23 @@
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
-import {
-  ADDON_NAME,
-  AUTO_START_DELAY,
-} from "akasha/temper/addon/pages/capture-datamining/modules/datamining-constants/datamining-constants.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/addon/pages/catalog/modules/catalog-constants/catalog-constants.module.code.ts"
+import { AUTO_START_DELAY } from "akasha/temper/addon/pages/catalog/modules/datamining-constants/datamining-constants.module.code.ts"
 import {
   printStatus,
   resetMining,
   startMining,
   stopMining,
   testItemLinkRanges,
-} from "akasha/temper/addon/pages/capture-datamining/modules/datamining-item-miner/datamining-item-miner.module.code.ts"
+} from "akasha/temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.code.ts"
 import {
   printQuestStatus,
   resetQuestMining,
   startQuestMining,
   stopQuestMining,
-} from "akasha/temper/addon/pages/capture-datamining/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts"
+} from "akasha/temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts"
 import {
   getSavedVariables,
   setSavedVariablesAccessor,
-} from "akasha/temper/addon/pages/capture-datamining/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
+} from "akasha/temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
 import { DATAMINING_CAPTURE_DESCRIPTOR } from "akasha/temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -29,8 +27,10 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
+const PLAYER_ACTIVATED_NAMESPACE = `${ADDON_NAME}Datamining`
+
 function onPlayerActivated(): undefined {
-  EVENT_MANAGER.UnregisterForEvent(ADDON_NAME, EVENT_PLAYER_ACTIVATED)
+  EVENT_MANAGER.UnregisterForEvent(PLAYER_ACTIVATED_NAMESPACE, EVENT_PLAYER_ACTIVATED)
 
   const savedVars = getSavedVariables()
 
@@ -98,7 +98,7 @@ defineCaptureWriter(DATAMINING_CAPTURE_DESCRIPTOR, (writer) => {
   globalThis.TemperHud?.registerCommand({
     name: "/temperdatamine",
     description: "Run a datamining capture",
-    addon: "TemperDataMining",
+    addon: ADDON_NAME,
   })
 
   SLASH_COMMANDS["/temperdataminetest"] = function (this: void): undefined {
@@ -108,11 +108,11 @@ defineCaptureWriter(DATAMINING_CAPTURE_DESCRIPTOR, (writer) => {
   globalThis.TemperHud?.registerCommand({
     name: "/temperdataminetest",
     description: "Test item-link ID ranges",
-    addon: "TemperDataMining",
+    addon: ADDON_NAME,
   })
 
   EVENT_MANAGER.RegisterForEvent(
-    ADDON_NAME,
+    PLAYER_ACTIVATED_NAMESPACE,
     EVENT_PLAYER_ACTIVATED,
     function (this: void): undefined {
       onPlayerActivated()

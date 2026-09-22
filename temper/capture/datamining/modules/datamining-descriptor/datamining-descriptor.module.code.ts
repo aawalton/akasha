@@ -4,7 +4,7 @@ import type { CaptureDescriptor } from "akasha/temper/modules/descriptor/descrip
 const DEFAULTS: DataMiningPayload = {}
 
 export const DATAMINING_CAPTURE_DESCRIPTOR: CaptureDescriptor<DataMiningPayload> = {
-  addonName: "TemperDataMining",
+  addonName: "TemperCatalog",
   savedVariablesName: "TemperDataMining_SavedVariables",
   version: 1,
   defaults: DEFAULTS,

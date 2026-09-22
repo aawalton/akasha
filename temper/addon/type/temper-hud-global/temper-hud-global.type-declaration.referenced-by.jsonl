@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-init/leads-init.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/capture-datamining/modules/datamining-entry/datamining-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"temper-hud-global.type-declaration.d.ts","path":"temper/addon/pages/crafting/modules/crafting-events/crafting-events.module.code.ts"}

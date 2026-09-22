@@ -402,7 +402,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/modules/leads-init/leads-init.module.ts","id":"01a06274-b08a-713c-8263-d0c81956cd55"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/modules/leads-unit-list/leads-unit-list.module.ts","id":"01a06274-b08a-7e24-bb52-b2b7aeb6d21d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/antiquities/temper-addon-antiquities.temper-addon.ts","id":"01a06275-5d2d-7594-903b-3f31fdbba41e"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/capture-datamining/temper-addon-capture-datamining.temper-addon.ts","id":"01a06341-d9e8-7008-91c3-2fcab6b143bf"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.ts","id":"01a062e9-b6ff-701b-ad38-42cae450de18"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts","id":"01a062e9-b6ff-701c-9ee8-9608dc0eea33"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-collector-merge/characters-collector-merge.module.ts","id":"01a062e9-b6fe-7010-ab1f-3d8afc6a9e8e"}

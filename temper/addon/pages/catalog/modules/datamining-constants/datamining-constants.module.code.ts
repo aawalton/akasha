@@ -1,5 +1,3 @@
-export const ADDON_NAME = "TemperDataMining"
-
 export const MAX_CONSECUTIVE_MISSES = 100000
 export const BATCH_SIZE = 100
 export const BATCH_DELAY = 100

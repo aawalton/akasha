@@ -1,13 +1,13 @@
+import { ADDON_NAME } from "akasha/temper/addon/pages/catalog/modules/catalog-constants/catalog-constants.module.code.ts"
 import {
-  ADDON_NAME,
   AUTO_START_DELAY,
   BATCH_DELAY,
   BATCH_SIZE,
   ITEM_LINK_TEMPLATE,
   MAX_CONSECUTIVE_MISSES,
-} from "akasha/temper/addon/pages/capture-datamining/modules/datamining-constants/datamining-constants.module.code.ts"
-import { startQuestMining } from "akasha/temper/addon/pages/capture-datamining/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts"
-import { getSavedVariables } from "akasha/temper/addon/pages/capture-datamining/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
+} from "akasha/temper/addon/pages/catalog/modules/datamining-constants/datamining-constants.module.code.ts"
+import { startQuestMining } from "akasha/temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts"
+import { getSavedVariables } from "akasha/temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
 import type {
   MinedItemEntry,
   SetBonus,

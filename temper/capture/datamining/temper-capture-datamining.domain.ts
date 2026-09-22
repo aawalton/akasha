@@ -13,7 +13,7 @@ export const temperCaptureDatamining = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The mining add-on and every reader of the add-on's capture agree here.",
+      statement: "The mining capture and every reader of that capture agree here.",
     },
     {
       decisionKind: "decision-kind/absence",

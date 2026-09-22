@@ -1,4 +1,5 @@
 import "akasha/temper/addon/pages/catalog/modules/catalog-public-api/catalog-public-api.module.code.ts"
+import "akasha/temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts"
 
 import {
   type CaptureWriter,

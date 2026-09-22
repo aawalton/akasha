@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/antiquities/modules/leads-init/leads-init.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/capture-datamining/modules/datamining-entry/datamining-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/capture-sales/modules/histoire-state/histoire-state.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/datamining-entry/datamining-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-events-build/characters-events-build.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-event-manager.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-events-knowledge/characters-events-knowledge.module.code.ts"}

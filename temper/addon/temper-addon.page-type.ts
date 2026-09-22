@@ -23,7 +23,6 @@ export const temperAddon = {
     "domain/temper-addon-build",
     "domain/temper-addon-community",
     "temper-addon/temper-addon-antiquities",
-    "temper-addon/temper-addon-capture-datamining",
     "temper-addon/temper-addon-capture-sales",
     "temper-addon/temper-addon-catalog",
     "temper-addon/temper-addon-characters",

@@ -1,11 +1,12 @@
 {
   "name": "TemperCatalog",
   "title": "Temper Catalog",
-  "description": "Collect game reference data for Temper static data generation",
+  "description": "Collect game reference data for Temper static data generation, and mine the game's item and quest data one id at a time",
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,
-  "savedVariables": ["TemperCatalog_SavedVariables"],
+  "apiVersion": ["101041", "101042", "101049"],
+  "savedVariables": ["TemperCatalog_SavedVariables", "TemperDataMining_SavedVariables"],
   "additionalLuaFiles": ["TemperCatalogConfig.lua"],
   "dependsOn": ["TemperHud"]
 }
