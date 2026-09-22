@@ -130,6 +130,7 @@ export const pageService = {
     "module/page-composing",
     "module/page-listening",
     "module/page-placing",
+    "module/page-putting",
     "module/page-reading",
     "module/page-serving",
     "module/page-writing",

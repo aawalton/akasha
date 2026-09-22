@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/chess/play/chess-play.command.test.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.test.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/game/unpack/game-unpack.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/heard-tracks/music-heard-tracks.command.code.ts"}
@@ -31,6 +32,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-putting/page-putting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}

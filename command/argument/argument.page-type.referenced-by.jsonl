@@ -186,6 +186,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/label.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/lang.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/last.argument.ts"}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/ledger.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/library.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/lightning.argument.ts"}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/limit.argument.ts"}
