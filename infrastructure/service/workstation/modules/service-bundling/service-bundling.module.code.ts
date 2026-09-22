@@ -67,6 +67,7 @@ export const LAUNCHED_FROM_BUNDLE: ReadonlySet<string> = new Set([
   "inbox-tracking-poll",
   "inference-deploying",
   "ios-app-deploying",
+  "maintain-seat-pending",
   "model-account-upkeep-service",
   "model-account-upkeep-stall",
   "monarch-poll",
