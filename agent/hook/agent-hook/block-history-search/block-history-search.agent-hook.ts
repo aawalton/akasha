@@ -20,7 +20,7 @@ export const blockHistorySearch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "`log` and `rev-list` are the two acts read as such a search.",
+      statement: "`log` and `rev-list` are the two acts taken as such a search.",
     },
     {
       decisionKind: "decision-kind/departure",

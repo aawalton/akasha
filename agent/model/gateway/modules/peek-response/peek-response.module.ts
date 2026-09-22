@@ -18,7 +18,7 @@ export const peekResponse = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body that cannot be read reads as an empty body.",
+      statement: "A body that cannot be read is taken as an empty body.",
     },
     {
       decisionKind: "decision-kind/absence",

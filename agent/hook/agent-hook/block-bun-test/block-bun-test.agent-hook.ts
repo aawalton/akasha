@@ -16,7 +16,7 @@ export const blockBunTest = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A `bun test` this reads as a command word is refused whatever paths it names.",
+      statement: "A `bun test` this takes as a command word is refused whatever paths it names.",
     },
     {
       decisionKind: "decision-kind/departure",

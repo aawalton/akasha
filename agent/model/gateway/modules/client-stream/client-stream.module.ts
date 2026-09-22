@@ -10,11 +10,11 @@ export const clientStream = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request body that is no JSON reads as no stream.",
+      statement: "A request body that is no JSON is taken as no stream.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A missing request body reads as no stream.",
+      statement: "A missing request body is taken as no stream.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,7 +22,7 @@ export const clientStream = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A `stream` key below the body's top level reads as no stream.",
+      statement: "A `stream` key below the body's top level is taken as no stream.",
     },
     {
       decisionKind: "decision-kind/departure",

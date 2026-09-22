@@ -21,7 +21,7 @@ export const modelVocab = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A wire id no longer served reads as the logical name that took its place.",
+      statement: "A wire id no longer served is taken as the logical name that took its place.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -49,7 +49,7 @@ export const modelVocab = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A raw name that reads as nothing throws nothing.",
+      statement: "A raw name taken as nothing throws nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

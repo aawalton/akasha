@@ -16,7 +16,7 @@ export const blockDestructiveGit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An act this hook reads as a command word is refused wherever that act is.",
+      statement: "An act this hook takes as a command word is refused wherever that act is.",
     },
     {
       decisionKind: "decision-kind/departure",

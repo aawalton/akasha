@@ -15,12 +15,12 @@ export const modelAccountHealth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A refresh that failed reads as terminal where the failure says the refresh is terminal.",
+        "A refresh that failed is taken as terminal where the failure says the refresh is terminal.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A refresh that failed reads as retryable where the failure says that refresh is not terminal.",
+        "A refresh that failed is taken as retryable where the failure says that refresh is not terminal.",
     },
     {
       decisionKind: "decision-kind/departure",

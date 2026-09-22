@@ -10,7 +10,7 @@ export const parseErrorType = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An empty body text reads as no error type.",
+      statement: "An empty body text is taken as no error type.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,7 +42,7 @@ export const parseErrorType = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "An `error` key present only on `Object.prototype` reads as absent.",
+      statement: "An `error` key present only on `Object.prototype` is taken as absent.",
     },
   ],
 } as const satisfies Module

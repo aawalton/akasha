@@ -39,7 +39,7 @@ export const modelAccountReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An account whose credential is one key is read as that key rather than as a pair.",
+        "An account whose credential is one key is taken as that key rather than as a pair.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -57,7 +57,7 @@ export const modelAccountReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The old `retry-after` key is read as `retryAllowedAt`.",
+      statement: "The old `retry-after` key is taken as `retryAllowedAt`.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -151,7 +151,7 @@ export const modelAccountReading = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "An account's scopes are read as text and are matched against no declared scope.",
+      statement: "An account's scopes are taken as text and are matched against no declared scope.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -199,7 +199,7 @@ export const transportLog = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A chunk opening partway through a line is read as opening a line.",
+      statement: "A chunk opening partway through a line is taken as opening a line.",
     },
     {
       decisionKind: "decision-kind/gap",

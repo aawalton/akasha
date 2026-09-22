@@ -22,11 +22,11 @@ export const parseBootEnv = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An absent OAUTH_PROXY_VERSION reads as the word unknown.",
+      statement: "An absent OAUTH_PROXY_VERSION is taken as the word unknown.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An absent OAUTH_PROXY_PORT reads as port zero.",
+      statement: "An absent OAUTH_PROXY_PORT is taken as port zero.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,7 +38,7 @@ export const parseBootEnv = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A blank timeout key reads as that key's default.",
+      statement: "A blank timeout key is taken as that key's default.",
     },
     {
       decisionKind: "decision-kind/departure",

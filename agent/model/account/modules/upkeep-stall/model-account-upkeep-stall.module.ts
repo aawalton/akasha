@@ -74,12 +74,11 @@ export const modelAccountUpkeepStall = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An account that reads as unread is counted out of the accounts judged.",
+      statement: "An account taken as unread is counted out of the accounts judged.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An account that reads as unread is named among neither the stalled nor the current.",
+      statement: "An account taken as unread is named among neither the stalled nor the current.",
     },
     {
       decisionKind: "decision-kind/departure",
