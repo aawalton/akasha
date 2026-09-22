@@ -1,3 +1,0 @@
-certmanager_certificate_expiration_timestamp_seconds has no series.
-
-The cert-expiry alert path itself is blind; check the cert-manager scrape (job cert-manager, :9402) and the controller.

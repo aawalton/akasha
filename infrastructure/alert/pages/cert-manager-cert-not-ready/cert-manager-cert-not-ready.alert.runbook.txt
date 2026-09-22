@@ -1,3 +1,0 @@
-certmanager_certificate_ready_status reports condition=False for {{ $labels.namespace }}/{{ $labels.name }} — issuance or renewal is failing.
-
-Check: kubectl describe certificate -n {{ $labels.namespace }} {{ $labels.name }}

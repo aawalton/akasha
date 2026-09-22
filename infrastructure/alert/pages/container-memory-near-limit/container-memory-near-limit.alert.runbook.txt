@@ -1,5 +1,0 @@
-15-minute peak working set is above 90% of the container's memory limit — it is on track to be OOM-killed, and this fires BEFORE the kill (ContainerOOMKilled only fires after).
-
-Size the limit against the container's LOADED ceiling plus burst headroom, not its idle baseline.
-
-Check: kubectl get pods -n {{ $labels.namespace }}

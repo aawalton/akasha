@@ -1,1 +1,0 @@
-claude_account_token_expiry_seconds has no series, and nothing publishes it. The query that fed it lived in the postgres exporter, which went with the database. The refresh-stall alert is blind until something else publishes the metric.

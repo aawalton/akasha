@@ -1,5 +1,0 @@
-{{ $value }} reinitialization(s) of the pods watch cache in the last 15 min.
-
-One init at apiserver boot is normal; >1 in the watchdog's cooldown window indicates the cache is being repeatedly invalidated (precedes / co-occurs with K3sCacheWatchdogExhausted).
-
-Runbook: packages/infra/k8s/docs/dr/k3s-apiserver-pods-cache-desync.md

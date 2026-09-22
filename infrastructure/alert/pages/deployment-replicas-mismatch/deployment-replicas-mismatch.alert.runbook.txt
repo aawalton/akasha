@@ -1,1 +1,0 @@
-Desired {{ $labels.spec_replicas }} but {{ $labels.available_replicas }} available.

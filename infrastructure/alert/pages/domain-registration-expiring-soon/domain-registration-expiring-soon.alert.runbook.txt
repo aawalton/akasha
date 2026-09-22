@@ -1,7 +1,0 @@
-The registry expiration for {{ $labels.domain }} is inside 30 days and no longer receding, so auto-renew is not renewing it.
-
-Renewal is a HUMAN action, not a machine one: sign in to the Cloudflare Registrar dashboard for {{ $labels.domain }}, confirm the payment card on file is valid and unexpired, and renew the registration.
-
-The 30-day window is sized for that round trip — noticing, a working card, and the actual transaction.
-
-If the domain lapses, every hostname, cert, and deploy target under it goes down at once.

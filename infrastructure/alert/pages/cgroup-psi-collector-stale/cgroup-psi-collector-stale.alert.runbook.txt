@@ -1,1 +1,0 @@
-The cgroup-psi-collector sidecar on {{ $labels.instance }} has missed at least ten 30s cycles. Every cgroup pressure series from this node is now frozen at its last value, which reads exactly like a calm node. Check the sidecar: kubectl logs -n kube-system -l app.kubernetes.io/name=node-exporter -c cgroup-psi-collector --tail=50.

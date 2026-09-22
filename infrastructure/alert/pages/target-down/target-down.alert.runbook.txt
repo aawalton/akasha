@@ -1,5 +1,0 @@
-Prometheus has been unable to scrape {{ $labels.instance }} (job {{ $labels.job }}) for over 10 minutes — up == 0.
-
-A permanently-down target hides real failures and trains blindness; fix the target or remove its scrape job.
-
-Sleep-prone personal hosts are excluded from this alert.

@@ -1,5 +1,0 @@
-kube_node_status_condition reports {{ $labels.node }} has not held Ready=true for over 10 minutes.
-
-Workloads on it are at risk.
-
-Check: kubectl describe node {{ $labels.node }}
