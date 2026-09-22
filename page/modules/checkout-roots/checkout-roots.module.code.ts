@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { dirOfModule } from "akasha/code/path/modules/module-directory/module-directory.module.code.ts"
+import { PINNED_AT } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import type { Repo } from "akasha/page/modules/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import { canonicalize } from "akasha/page/modules/repo-path/repo-path.module.code.ts"
@@ -12,7 +13,11 @@ const MARKER = ".git"
 
 const REPOS: readonly string[] = [AKASHA, "code-editor"]
 
-function checkoutFrom(dir: string): string {
+function marked(at: string): boolean {
+  return existsSync(`${at}/${MARKER}`) || existsSync(`${at}/${PINNED_AT}`)
+}
+
+export function checkoutFrom(dir: string): string {
   if (typeof existsSync !== "function") {
     throw new Error(
       `nothing here looks on disk, so nothing says where \`${AKASHA}\` is —` +
@@ -20,7 +25,7 @@ function checkoutFrom(dir: string): string {
     )
   }
   let at = resolve(dir)
-  while (!existsSync(`${at}/${MARKER}`)) {
+  while (!marked(at)) {
     const up = dirname(at)
     if (up === at) return resolve(dir, "..", "..")
     at = up
@@ -94,12 +99,6 @@ export function rootBeside(repo: string): string {
   const here = akashaHere()
   if (repo === AKASHA) return here
   return resolve(here, "..", repo)
-}
-
-export function checkoutBeside(repo: string): string {
-  const at = checkoutHere()
-  if (repo === AKASHA) return at
-  return resolve(at, "..", repo)
 }
 
 function rootOf(repo: string): string {

@@ -141,6 +141,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/index/modules/building/index-building.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/modules/checkout-roots/checkout-roots.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/modules/code-root/code-root.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}

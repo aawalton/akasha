@@ -6,10 +6,27 @@ export const checkoutRoots = {
   slug: "checkout-roots",
   definition: "the repositories checked out beside this one and where a path sits among them",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A checkout is found by the `.git` at the top of that checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pinned tree is found by the `.pinned-commit` at the top of that tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pinned tree sits inside a checkout, and a path in the tree answers the tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where the running code came out of and where the database is are two answers.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing answers a repository beside the code a run came out of.",
     },
     {
       decisionKind: "decision-kind/stopgap",
