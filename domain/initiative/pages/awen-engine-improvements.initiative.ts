@@ -6,5 +6,15 @@ export const awenEngineImprovements = {
   slug: "awen-engine-improvements",
   domain: "domain/story-engine",
   persona: "persona/awen",
-  intentStack: [],
+  intentStack: [
+    {
+      statement: "The story page types are one designed set under `story/schema`.",
+      workingMemory:
+        "50 page types under `story/` sit in two disjoint trees. `page-type/game` is not among `world`'s parts, nor `world` among `game`'s, and the only join is a slug match in `game-beside.module.code.ts`. Duplicates: `story-wiki-entry` against `game-lore-entry`; `story-design` and `story-design-note` against `game-design-entry`, both carried by The Tower.",
+    },
+    { statement: "Every page under `story/` is of a page type in that set." },
+  ],
+  constraints: [
+    "Alan approves the shape of each page type in `story/schema` before that page type is built.",
+  ],
 } as const satisfies Initiative
