@@ -472,7 +472,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/set-ids/set-ids.module.ts","id":"01a060d5-2f12-7886-bf98-e23a2afc639d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/reagent-names.text-property.ts","id":"01a05fd1-d43d-7249-ac3e-8dcf8869e271"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/buff-id.text-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/debuff-id.text-property.ts","id":"01a05fd1-d439-75b3-92b0-1243e1ad274a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-category/properties/eso-antiquity-set-id.number-property.ts","id":"01a06176-a912-7000-8819-19b71a0dafd6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}

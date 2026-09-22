@@ -202,6 +202,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/set-class-id.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-slot/properties/weapon-slot.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-trait/properties/weapon-trait.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/thing/properties/debuff-id.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/line/properties/skill-line-class.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/class-id.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/script-id.relation-property.types.ts"}

@@ -10,3 +10,4 @@
 {"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-uncertainty/minor-uncertainty.temper-debuff-minor.ts"}
 {"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-vulnerability/minor-vulnerability.temper-debuff-minor.ts"}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/thing/properties/debuff-id.relation-property.ts","id":"01a05fd1-d439-75b3-92b0-1243e1ad274a"}

@@ -9,7 +9,7 @@ export const temperGearThing = {
   parts: [
     "number-property/potion-seconds",
     "text-property/buff-id",
-    "text-property/debuff-id",
+    "relation-property/debuff-id",
     "text-property/eso-enchant-constant-name",
     "text-property/essence-rune",
     "text-property/glyph-name",

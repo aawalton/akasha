@@ -899,6 +899,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.ts","id":"01a0610f-45bb-7d20-aedf-7d954ebf2ec5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/item-set/temper-item-set.domain.ts","id":"01a090e4-78c9-7073-9166-03b462dd7c7e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.one-of-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/debuff-id.relation-property.ts","id":"01a05fd1-d439-75b3-92b0-1243e1ad274a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
