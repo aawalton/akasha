@@ -1,4 +1,5 @@
 import { dirname, join } from "node:path"
+import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type {
@@ -8,6 +9,7 @@ import type {
 import {
   claimantOf,
   filesClaimedIn,
+  type Listing,
   pagingBy,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -17,22 +19,40 @@ import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const TS = ".ts"
 
-export function pagesTouchedBy(
-  change: Change,
+export type Walking = {
+  readonly root: string
+  readonly paths: readonly string[]
+  readonly read: (path: string) => string | null
+  readonly holds: (path: string) => boolean
+  readonly listed: Listing
+}
+
+export function walkingOver(change: Change, shadow: Shadow): Walking {
+  return {
+    root: change.root,
+    paths: change.changed,
+    read: (path) => textIn(change, path),
+    holds: (path) => change.after(path) !== null,
+    listed: shadow.listed,
+  }
+}
+
+export function pagesTouchedIn(
+  walking: Walking,
   pageTypes: ReadonlySet<string>,
-  shadow: Shadow
+  paged: Paged
 ): readonly string[] {
-  const paging = pagingBy((folder) => shadow.listed(folder))
-  const fileProperties = shadow.index.filePropertiesAt()
-  const folders = shadow.index.folderPropertiesAt()
-  const extensions = shadow.index.extensionPropertiesAt()
+  const paging = pagingBy(walking.listed)
+  const fileProperties = paged.index.filePropertiesAt()
+  const folders = paged.index.folderPropertiesAt()
+  const extensions = paged.index.extensionPropertiesAt()
   const kinds = new Set(pageTypes)
-  for (const path of change.changed) {
+  for (const path of walking.paths) {
     const slug = typeSlugIn(path)
-    if (slug !== null && change.after(path) !== null) kinds.add(slug)
+    if (slug !== null && walking.holds(path)) kinds.add(slug)
   }
   const found = new Set<string>()
-  for (const path of change.changed) {
+  for (const path of walking.paths) {
     if (pageNamed(path, kinds)) found.add(path)
     const one = claimantOf(paging, path, kinds, fileProperties, folders, extensions)
     if (one !== null) found.add(one)
@@ -69,21 +89,21 @@ export function statedBy(
 }
 
 function missingFor(
-  change: Change,
+  walking: Walking,
   page: string,
   fileProperties: ReadonlyMap<string, string | null>,
   filedBy: FilePropertiesBy,
   withheld: UncommittedBy
 ): readonly Judged[] {
-  const text = textIn(change, page)
+  const text = walking.read(page)
   if (text === null) return []
   const value = valueIn(text)
   if (value === null) return []
   const said: Judged[] = []
-  for (const one of filesClaimedIn(value, page, change.root, filedBy, withheld)) {
+  for (const one of filesClaimedIn(value, page, walking.root, filedBy, withheld)) {
     if (one.at === page) continue
     if (one.uncommitted) continue
-    if (change.after(one.at) !== null) continue
+    if (walking.holds(one.at)) continue
     said.push({
       path: page,
       reason: `states ${statedBy(page, one.at, fileProperties)}, and no file stands at ${one.at}`,
@@ -92,14 +112,18 @@ function missingFor(
   return said
 }
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const pageTypes = shadow.index.pageTypesIn()
-  const fileProperties = shadow.index.fileKeysAt()
-  const filedBy = shadow.index.filePropertiesAt()
-  const withheld = shadow.index.uncommittedFiledAt()
+export function refusalsIn(walking: Walking, paged: Paged): readonly Judged[] {
+  const pageTypes = paged.index.pageTypesIn()
+  const fileProperties = paged.index.fileKeysAt()
+  const filedBy = paged.index.filePropertiesAt()
+  const withheld = paged.index.uncommittedFiledAt()
   const said: Judged[] = []
-  for (const page of pagesTouchedBy(change, pageTypes, shadow)) {
-    said.push(...missingFor(change, page, fileProperties, filedBy, withheld))
+  for (const page of pagesTouchedIn(walking, pageTypes, paged)) {
+    said.push(...missingFor(walking, page, fileProperties, filedBy, withheld))
   }
   return said
+}
+
+export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+  return refusalsIn(walkingOver(change, shadow), shadow)
 }

@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  pagesTouchedBy,
+  pagesTouchedIn,
   refusalsOver,
   statedBy,
+  walkingOver,
 } from "akasha/check/code/pages/page-property-has-its-file/page-property-has-its-file.check-code.decision.code.ts"
 import {
   BESIDE,
@@ -31,7 +32,7 @@ const judged = judgingBy(refusalsOver)
 function touched(change: Change, pageTypes: ReadonlySet<string>): readonly string[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  return pagesTouchedBy(change, pageTypes, cast.shadow)
+  return pagesTouchedIn(walkingOver(change, cast.shadow), pageTypes, cast.shadow)
 }
 
 test("a page whose stated code file stands in the change is let through", () => {
