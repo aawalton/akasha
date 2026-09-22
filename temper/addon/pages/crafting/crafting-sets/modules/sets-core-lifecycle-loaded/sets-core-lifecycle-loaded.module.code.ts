@@ -11,7 +11,7 @@ import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/se
 import { ADDON_NAME } from "akasha/temper/addon/pages/crafting/modules/crafting-constants/crafting-constants.module.code.ts"
 
 const EM = EVENT_MANAGER
-const MAJOR = "LibSets"
+const MAJOR = "TemperCraftingSets"
 const apiVersion = GetAPIVersion()
 const IsConsole = lib.IsConsole
 

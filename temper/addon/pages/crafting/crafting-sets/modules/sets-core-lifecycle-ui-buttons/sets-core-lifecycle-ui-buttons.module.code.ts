@@ -23,7 +23,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
 const WM = WINDOW_MANAGER
-const MAJOR = "LibSets"
+const MAJOR = "TemperCraftingSets"
 const libPrefix = lib.prefix
 
 const checkLSM = lib.CheckLSM

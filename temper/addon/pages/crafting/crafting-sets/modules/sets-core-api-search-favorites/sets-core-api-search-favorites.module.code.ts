@@ -6,7 +6,7 @@ import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaratio
 
 import { lib } from "akasha/temper/addon/pages/crafting/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
-const MAJOR = "LibSets"
+const MAJOR = "TemperCraftingSets"
 
 const customContextMenuErrorPrefixStr =
   "[" + MAJOR + "]:registerCustomSetSearchResultsListContextMenu ERROR - addon: %q"
