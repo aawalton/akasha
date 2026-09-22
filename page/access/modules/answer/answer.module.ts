@@ -39,6 +39,14 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A question naming a beside-the-page key is answered with that key's rows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A named key the page type does not declare is passed over rather than refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The keys a listing asks for are named in the question rather than trimmed after.",
     },
     {

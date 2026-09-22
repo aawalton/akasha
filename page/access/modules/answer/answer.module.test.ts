@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   answerPages,
   answerPageTypes,
+  carriedKeys,
   listedKeys,
   type PagesDeps,
   type PageTypeReading,
@@ -185,6 +186,46 @@ test("a listing asks for every key but the ones whose rows are filed beside the 
   })
   expect(answered.status).toBe(200)
   expect(under).toEqual([["slug"]])
+})
+
+test("a listing naming a beside-the-page key is asked for that key too", async () => {
+  const under: (readonly string[] | undefined)[] = []
+  const answered = await answerPages(new Request(`${AT}?carry=stacks`), "readout", {
+    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    mayRead: whenSignedIn,
+    ask: async (_pageTypeSlug, _limit, keys) => {
+      under.push(keys)
+      return { rows: [], n: 0 }
+    },
+    readPageType: async () => ({ pageTypeId: "one", definitions: CARRIED }),
+    definitionsFor: async () => [],
+  })
+  expect(answered.status).toBe(200)
+  expect(under).toEqual([["slug", "stacks"]])
+})
+
+test("a named key the page type does not declare leaves the listing as it was", async () => {
+  const under: (readonly string[] | undefined)[] = []
+  const answered = await answerPages(new Request(`${AT}?carry=nothing-of-the-sort`), "readout", {
+    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    mayRead: whenSignedIn,
+    ask: async (_pageTypeSlug, _limit, keys) => {
+      under.push(keys)
+      return { rows: [], n: 0 }
+    },
+    readPageType: async () => ({ pageTypeId: "one", definitions: CARRIED }),
+    definitionsFor: async () => [],
+  })
+  expect(answered.status).toBe(200)
+  expect(under).toEqual([["slug"]])
+})
+
+test("a key named twice or padded is read as the one key it names", () => {
+  expect(carriedKeys(new Request(`${AT}?carry=%20stacks%20,stacks,`))).toEqual(new Set(["stacks"]))
+})
+
+test("a listing naming no key carries nothing filed beside the page", () => {
+  expect(carriedKeys(new Request(AT))).toEqual(new Set())
 })
 
 test("a page type stating no property is asked for no keys rather than for an empty list", () => {

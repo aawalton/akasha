@@ -141,12 +141,28 @@ export function pagesDeps(readUser: ReadUser, mayRead: MayRead = signedInMayRead
 
 const ENTRY_PROPERTY = "page-property-entry"
 
+const CARRIED = "carry"
+
+const NOTHING_CARRIED: ReadonlySet<string> = new Set()
+
+export function carriedKeys(request: Request): ReadonlySet<string> {
+  const said = new URL(request.url).searchParams.get(CARRIED)
+  if (said === null) return NOTHING_CARRIED
+  const held = new Set<string>()
+  for (const one of said.split(",")) {
+    const key = one.trim()
+    if (key !== "") held.add(key)
+  }
+  return held
+}
+
 export function listedKeys(
-  definitions: readonly PropertyDefinition[]
+  definitions: readonly PropertyDefinition[],
+  carried: ReadonlySet<string> = NOTHING_CARRIED
 ): readonly string[] | undefined {
   const wanted: string[] = []
   for (const one of definitions) {
-    if (one.drawnBy?.includes(ENTRY_PROPERTY) === true) continue
+    if (one.drawnBy?.includes(ENTRY_PROPERTY) === true && !carried.has(one.id)) continue
     wanted.push(one.id)
   }
   return wanted.length === 0 ? undefined : wanted
@@ -225,7 +241,7 @@ export async function answerPages(
   const asked = await deps.ask(
     pageTypeSlug,
     LISTING_CEILING,
-    listedKeys(reading.definitions),
+    listedKeys(reading.definitions, carriedKeys(request)),
     narrowed
   )
   if ("refused" in asked) {
