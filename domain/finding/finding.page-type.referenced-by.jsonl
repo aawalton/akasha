@@ -94,7 +94,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/five-alert-runbooks-name-a-namespace-the-cluster-no-longer-holds.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/fork-is-dispatched-with-no-kind-page.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/landing-concurrency-needs-a-read-set.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/landing-one-inference-row-rewrites-a-whole-part-so-a-run-costs-a-megabyte-of-objects.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/most-mentions-of-page-type-slug-are-not-the-page-key.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/most-of-what-tests-pass-refuses-is-a-race-rather-than-a-broken-test.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/move-code-export-carries-the-imports-a-declaration-names-and-not-the-siblings-it-names.finding.ts"}
