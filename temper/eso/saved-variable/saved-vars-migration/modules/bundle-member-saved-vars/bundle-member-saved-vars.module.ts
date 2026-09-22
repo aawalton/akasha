@@ -17,6 +17,10 @@ export const bundleMemberSavedVars = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A member named for the bundle file is skipped, as no file holds itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A migration already done leaves a marker naming the globals written.",
     },
     {

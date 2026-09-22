@@ -69,6 +69,7 @@ export function migrateBundleMemberSavedVars(
   }
 
   const mergedBase = io.mergedBundleBase ?? DEFAULT_MERGED_BASE
+  if (member === mergedBase) return { kind: "skip-no-source", member }
   const mergedFile = join(io.savedVarsDir, `${mergedBase}.lua`)
   if (!existsSync(mergedFile)) return { kind: "skip-no-source", member }
 
