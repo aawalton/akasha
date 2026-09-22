@@ -16,5 +16,7 @@ export function taskHasCardAndPathEntry(
   index: number,
   value: string | number
 ): boolean {
-  return taskHasCard(task, cardId) && taskPathEntry(task, index) === value
+  if (!taskHasCard(task, cardId)) return false
+  const held = taskPathEntry(task, index)
+  return held !== undefined && `${held}` === `${value}`
 }

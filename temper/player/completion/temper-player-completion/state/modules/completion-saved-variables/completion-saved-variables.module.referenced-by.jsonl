@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.test.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts"}
 {"propertySlug":"import","fileName":"completion-saved-variables.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"}

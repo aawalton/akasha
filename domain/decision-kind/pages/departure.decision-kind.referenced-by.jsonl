@@ -3637,6 +3637,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-public-api/characters-public-api.module.ts","id":"01a06324-9ff8-7061-9aeb-8aa8acce0372"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.ts","id":"01a062ed-39c9-700c-9df3-7f4288c3c504"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-auto-complete/characters-task-auto-complete.module.ts","id":"01a06306-f94f-700b-8c39-f425d7ea4a81"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.ts","id":"01a062ee-efdd-7065-b808-78f99e6b809a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.ts","id":"01a062ee-f050-706b-865b-cca0db9bf255"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-story-zone-quests/characters-task-hud-story-zone-quests.module.ts","id":"01a0c668-c0bf-7f02-b4ff-ef9773265644"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-bindings/companion-qol-bindings.module.ts","id":"01a0611d-84c3-76da-bd79-5f0adf6ca49f"}
