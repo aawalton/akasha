@@ -5,7 +5,7 @@ export const towerAttributePoint = {
   type: "page-type/page-type",
   slug: "tower-attribute-point",
   definition: "a point a character in the Tower has left to raise an attribute with",
-  extends: ["page-type/resource"],
+  extends: ["page-type/metric-character-resource"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

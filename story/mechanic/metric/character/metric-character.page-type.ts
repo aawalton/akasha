@@ -9,7 +9,7 @@ export const metricCharacter = {
   parts: [
     "relation-property/metric-of-character",
     "page-type/metric-character-attribute",
-    "page-type/resource",
+    "page-type/metric-character-resource",
   ],
   properties: [
     { pageProperty: "relation-property/metric-of-character", required: true, many: false },
