@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"metric-derived.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-initiative.metric-derived.ts"}
 {"propertySlug":"import","fileName":"metric-derived.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mana-max.metric-derived.ts"}
 {"propertySlug":"import","fileName":"metric-derived.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-attack.metric-derived.ts"}
+{"propertySlug":"import","fileName":"metric-derived.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-defence.metric-derived.ts"}
 {"propertySlug":"import","fileName":"metric-derived.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-attack.metric-derived.ts"}
 {"propertySlug":"import","fileName":"metric-derived.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-defence.metric-derived.ts"}
 {"propertySlug":"import","fileName":"metric-derived.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-stamina-max.metric-derived.ts"}
