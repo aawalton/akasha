@@ -4,8 +4,7 @@ export const monarch = {
   id: "01a0538f-7c09-7c69-a9d0-d209d9a480db",
   type: "page-type/domain",
   slug: "monarch",
-  definition:
-    "the outside service that gathers every account Alan has into one picture of his money",
+  definition: "the outside service that gathers every account Alan has into a picture of his money",
   parts: [
     "domain/monarch-eval",
     "module/monarch-agree",

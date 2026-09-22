@@ -4,7 +4,7 @@ export const readoutWidget = {
   id: "01a05480-1c86-7e95-b799-63b1c0152f62",
   type: "page-type/page-type",
   slug: "readout-widget",
-  definition: "one tile a person places on a phone",
+  definition: "a tile a person places on a phone",
   parts: [
     "instant-property/last-tapped-at",
     "number-property/taps",

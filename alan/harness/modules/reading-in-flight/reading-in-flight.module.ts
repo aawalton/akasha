@@ -4,7 +4,7 @@ export const readingInFlight = {
   id: "01a0c54e-ace3-73fc-853c-2f33dfe5c8f7",
   type: "page-type/module",
   slug: "reading-in-flight",
-  definition: "the reader every page read under one request is answered for",
+  definition: "the reader every page read under a request is answered for",
   code: "ts",
   test: "ts",
   decisions: [

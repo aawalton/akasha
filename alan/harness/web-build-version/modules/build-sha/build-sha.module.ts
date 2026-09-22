@@ -4,7 +4,7 @@ export const buildSha = {
   id: "01a05c48-deeb-700e-a808-4f4784f43278",
   type: "page-type/module",
   slug: "build-sha",
-  definition: "the forty hexadecimal characters a commit is named by, read out of one string",
+  definition: "the forty hexadecimal characters a commit is named by, read out of a string",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const monarchApply = {
   id: "01a06867-e5ed-7dbd-9dc1-7068e19aad4f",
   type: "page-type/module",
   slug: "monarch-apply",
-  definition: "one rule's decision written onto the transaction it decided",
+  definition: "a rule's decision written onto the transaction it decided",
   code: "ts",
   decisions: [
     {

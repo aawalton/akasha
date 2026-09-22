@@ -4,7 +4,7 @@ export const traceShape = {
   id: "01a05bc7-9129-700b-ba7b-804847cebb2b",
   type: "page-type/module",
   slug: "trace-shape",
-  definition: "what one recorded place carries",
+  definition: "what a recorded place carries",
   code: "ts",
   decisions: [
     {

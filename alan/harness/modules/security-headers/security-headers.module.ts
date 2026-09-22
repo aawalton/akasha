@@ -4,7 +4,7 @@ export const securityHeaders = {
   id: "01a05c48-deeb-7008-8b99-8ccaf9ccafa6",
   type: "page-type/module",
   slug: "security-headers",
-  definition: "the content security policy and the fixed headers built for one response",
+  definition: "the content security policy and the fixed headers built for a response",
   code: "ts",
   decisions: [
     {

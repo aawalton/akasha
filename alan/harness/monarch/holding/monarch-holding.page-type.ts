@@ -4,7 +4,7 @@ export const monarchHolding = {
   id: "01a0680a-1a00-7016-b283-5a9c7e1f1116",
   type: "page-type/page-type",
   slug: "monarch-holding",
-  definition: "how much of one investment an account holds",
+  definition: "how much of an investment an account holds",
   extends: ["page-type/monarch-record"],
   parts: [
     "number-property/cost-basis",

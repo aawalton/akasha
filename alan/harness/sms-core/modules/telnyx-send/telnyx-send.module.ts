@@ -4,7 +4,7 @@ export const telnyxSend = {
   id: "01a05b6f-999d-731e-a182-ed95ac7ecc35",
   type: "page-type/module",
   slug: "telnyx-send",
-  definition: "one outgoing message put into the request Telnyx wants and the answer read back",
+  definition: "an outgoing message put into the request Telnyx wants and the answer read back",
   code: "ts",
   test: "ts",
   decisions: [

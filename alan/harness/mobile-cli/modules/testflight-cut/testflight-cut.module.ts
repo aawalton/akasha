@@ -4,7 +4,7 @@ export const testflightCut = {
   id: "01a0611b-8cc6-7a38-9968-530fd511dd04",
   type: "page-type/module",
   slug: "testflight-cut",
-  definition: "the run taking one iOS app from a pinned commit to a TestFlight build",
+  definition: "the run taking an iOS app from a pinned commit to a TestFlight build",
   code: "ts",
   test: "ts",
   decisions: [

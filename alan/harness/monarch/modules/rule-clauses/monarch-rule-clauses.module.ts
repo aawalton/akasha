@@ -4,7 +4,7 @@ export const monarchRuleClauses = {
   id: "01a06865-ecc3-70d0-8b6b-c9ad4a35783b",
   type: "page-type/module",
   slug: "monarch-rule-clauses",
-  definition: "what one rule page states, read into a checked rule",
+  definition: "what a rule page states, read into a checked rule",
   code: "ts",
   decisions: [
     {

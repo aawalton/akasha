@@ -4,7 +4,7 @@ export const answerErrorReport = {
   id: "01a08e53-e866-7aa9-87b1-bfd7879250ca",
   type: "page-type/module",
   slug: "answer-error-report",
-  definition: "the answer a site gives a browser reporting one error",
+  definition: "the answer a site gives a browser reporting an error",
   code: "ts",
   decisions: [
     {

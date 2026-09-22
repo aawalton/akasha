@@ -4,7 +4,7 @@ export const readout = {
   id: "01a05446-e760-7cb2-848b-4fcfc7ed45d4",
   type: "page-type/page-type",
   slug: "readout",
-  definition: "one reading a person is shown",
+  definition: "a reading a person is shown",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "readout" },
     { partOfSpeech: "part-of-speech/noun", spelling: "readouts" },

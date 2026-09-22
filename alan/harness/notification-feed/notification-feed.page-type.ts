@@ -4,7 +4,7 @@ export const notificationFeed = {
   id: "01a06861-e7cd-7f8b-a674-034ea5efe956",
   type: "page-type/page-type",
   slug: "notification-feed",
-  definition: "everything this system has pushed at one person",
+  definition: "everything this system has pushed at a person",
   extends: ["page-type/page"],
   parts: [
     "instant-property/notification-read-at",

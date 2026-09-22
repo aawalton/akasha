@@ -5,7 +5,7 @@ export const surplusFallReadout = {
   type: "page-type/module",
   slug: "surplus-fall-readout",
   definition:
-    "the one readout of the surplus group, its scale, and the two readings a day is judged by",
+    "the readout of the surplus group, its scale, and the two readings a day is judged by",
   code: "ts",
   decisions: [
     {

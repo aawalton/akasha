@@ -4,7 +4,7 @@ export const monarchEvalRun = {
   id: "01a06868-1535-7f9d-812e-7f071e571d5b",
   type: "page-type/module",
   slug: "monarch-eval-run",
-  definition: "one scored run of the agent over a drawn sample, kept as a file",
+  definition: "a scored run of the agent over a drawn sample, kept as a file",
   code: "ts",
   decisions: [
     {

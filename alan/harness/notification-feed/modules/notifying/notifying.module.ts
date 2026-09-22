@@ -4,7 +4,7 @@ export const notifying = {
   id: "01a06a00-6837-71bf-b475-d3320bf5baab",
   type: "page-type/module",
   slug: "notifying",
-  definition: "sending one person a notification, credited to whoever asked for it",
+  definition: "sending a person a notification, credited to whoever asked for it",
   code: "ts",
   decisions: [
     {

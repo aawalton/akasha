@@ -4,7 +4,7 @@ export const readoutServing = {
   id: "01a05bc9-a678-768f-ba6e-f91fdcf9ec6d",
   type: "page-type/module",
   slug: "readout-serving",
-  definition: "what a route answers when a caller asks for one readout's reading",
+  definition: "what a route answers when a caller asks for a readout's reading",
   code: "ts",
   test: "ts",
   decisions: [

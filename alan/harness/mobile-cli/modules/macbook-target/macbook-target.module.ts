@@ -4,7 +4,7 @@ export const macbookTarget = {
   id: "01a05cee-e560-7367-9a9b-49ae85f1844f",
   type: "page-type/module",
   slug: "macbook-target",
-  definition: "the one macbook's ssh target: its user, its address and its key path",
+  definition: "the macbook's ssh target: its user, its address and its key path",
   code: "ts",
   decisions: [
     {

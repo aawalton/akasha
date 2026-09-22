@@ -4,7 +4,7 @@ export const monarchAccount = {
   id: "01a0680a-1a00-7008-8d64-7a3b9e1f1109",
   type: "page-type/page-type",
   slug: "monarch-account",
-  definition: "one balance, whether it is money held or money owed",
+  definition: "a balance, whether it is money held or money owed",
   extends: ["page-type/monarch-record"],
   parts: [
     "boolean-property/account-active",
