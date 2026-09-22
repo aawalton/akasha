@@ -1,32 +1,33 @@
 import { expect, test } from "bun:test"
+import { readFileSync } from "node:fs"
+import { join } from "node:path"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { filing } from "akasha/page/service/modules/file-answering/file-answering.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
-const A_WALLPAPER = { pageTypeSlug: "persona", slug: "amy", key: "mobileWallpaper" }
+const A_PORTRAIT = { pageTypeSlug: "persona", slug: "amy", key: "portrait" }
 
-const PNG_OPENS = [0x89, 0x50, 0x4e, 0x47]
-
-const PNG_CLOSES = [0x00, 0x00, 0x00, 0x00, 0x49, 0x45, 0x4e, 0x44, 0xae, 0x42, 0x60, 0x82]
+const PORTRAIT_AT = "persona/pages/amy/amy.persona.portrait.md"
 
 test("a page's file property is answered as the whole undecoded bytes", () => {
-  const said = filing(ROOT, A_WALLPAPER)
+  const said = filing(ROOT, A_PORTRAIT)
   expect("bytes" in said).toBe(true)
   if (!("bytes" in said)) return
+  const whole = readFileSync(join(ROOT, PORTRAIT_AT))
   expect({
-    opens: Array.from(said.bytes.slice(0, PNG_OPENS.length)),
-    closes: Array.from(said.bytes.slice(-PNG_CLOSES.length)),
-  }).toEqual({ opens: PNG_OPENS, closes: PNG_CLOSES })
+    length: said.bytes.length,
+    same: said.bytes.every((one, at) => one === whole[at]),
+  }).toEqual({ length: whole.length, same: true })
 })
 
 test("a key the page type has no property for is refused", () => {
-  const said = filing(ROOT, { ...A_WALLPAPER, key: "wallpaperOfTheDay" })
+  const said = filing(ROOT, { ...A_PORTRAIT, key: "wallpaperOfTheDay" })
   expect("refused" in said && said.refused).toContain("has no")
 })
 
 test("a key naming a property that keeps no file is refused", () => {
-  const said = filing(ROOT, { ...A_WALLPAPER, key: "purpose" })
+  const said = filing(ROOT, { ...A_PORTRAIT, key: "purpose" })
   expect("refused" in said && said.refused).toContain("names no file property")
 })
 
@@ -37,16 +38,16 @@ test("a file property held outside the commit is named by the ending its propert
 })
 
 test("a property outside the commit that keeps no file is refused for keeping no file", () => {
-  const said = filing(ROOT, { ...A_WALLPAPER, key: "lastMessagedAt" })
+  const said = filing(ROOT, { ...A_PORTRAIT, key: "lastMessagedAt" })
   expect("refused" in said && said.refused).toContain("names no file property")
 })
 
 test("a slug naming no page is refused", () => {
-  const said = filing(ROOT, { ...A_WALLPAPER, slug: "nobody-by-this-name" })
+  const said = filing(ROOT, { ...A_PORTRAIT, slug: "nobody-by-this-name" })
   expect("refused" in said && said.refused).toContain("is no page here")
 })
 
 test("a page stating no such file is refused rather than answered empty", () => {
-  const said = filing(ROOT, { pageTypeSlug: "persona", slug: "akasha", key: "mobileWallpaper" })
+  const said = filing(ROOT, { pageTypeSlug: "persona", slug: "akasha", key: "portrait" })
   expect("refused" in said && said.refused).toContain("states no")
 })
