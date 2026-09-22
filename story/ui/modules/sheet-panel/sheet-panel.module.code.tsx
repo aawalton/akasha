@@ -13,8 +13,11 @@ import {
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { useCharacterItems } from "akasha/story/item/modules/character-items-beside/character-items-beside.module.code.ts"
 import type {
   ClientAffinity,
+  ClientEquipItem,
+  ClientItem,
   ClientSheet,
 } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import { useTowerAttunements } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts"
@@ -216,9 +219,11 @@ function SkillsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefin
   )
 }
 
-function ItemsTab({ sheet }: { sheet: ClientSheet }) {
-  const items = sheet.items ?? []
-  const equipment = Object.entries(sheet.equipment ?? {})
+function ItemsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
+  const filed = useCharacterItems(game)
+  const items: readonly ClientItem[] = filed?.carried ?? sheet.items ?? []
+  const worn: Record<string, ClientEquipItem> = filed?.worn ?? sheet.equipment ?? {}
+  const equipment = Object.entries(worn)
   return (
     <div className="flex flex-col gap-3">
       <Section title="Inventory">
@@ -303,7 +308,7 @@ export function SheetPanel({ sheet, game }: { sheet: ClientSheet | null; game?: 
           <SkillsTab sheet={sheet} game={game} />
         </TabsContent>
         <TabsContent value="items">
-          <ItemsTab sheet={sheet} />
+          <ItemsTab sheet={sheet} game={game} />
         </TabsContent>
       </Tabs>
     </SurfaceProvider>
