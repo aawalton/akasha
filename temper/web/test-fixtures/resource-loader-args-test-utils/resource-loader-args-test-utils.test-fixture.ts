@@ -4,7 +4,7 @@ export const resourceLoaderArgsTestUtils = {
   id: "01a08ee4-41a2-7873-81b7-b181807acb88",
   type: "page-type/test-fixture",
   slug: "resource-loader-args-test-utils",
-  definition: "the arguments a test hands a resource route's loader for one path",
+  definition: "the arguments a test hands a resource route's loader for a path",
   code: "ts",
   decisions: [
     {

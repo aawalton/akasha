@@ -4,7 +4,7 @@ export const temperPlayerInventoryManagementUi = {
   id: "01a0636c-5da1-77be-aadf-aea8caa7006f",
   type: "page-type/domain",
   slug: "temper-player-inventory-management-ui",
-  definition: "the pages a browser manages one player's inventory from",
+  definition: "the pages a browser manages a player's inventory from",
   parts: [
     "module/action-filter-cascades",
     "module/action-filter-utils",
