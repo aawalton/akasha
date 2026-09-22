@@ -20,8 +20,12 @@ export function agentIdOf(seatId: string, own: string): string {
   return `${seatId}${SUBAGENT_MARK}${own}`
 }
 
-export function subagentsAt(root: string = ownRepoRoot()): string {
+function subagentsAt(root: string = ownRepoRoot()): string {
   return pagesAtFor(root, SUBAGENT)
+}
+
+export function akashaSubagentsDirIn(root: string): string {
+  return `${root}/${subagentsAt(root)}`
 }
 
 export function pathOf(slug: string): string {
