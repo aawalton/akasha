@@ -243,7 +243,7 @@ test("a rotating task states the character it falls to as a relation", () => {
   ])
   const page = puts.find((one) => one.path === PAGE_PATH)?.content ?? ""
   expect(page).toContain('character: "temper-account-character/amerys",')
-  expect(page).toContain('effectiveCharacter: "amerys",')
+  expect(page).toContain('effectiveCharacter: "temper-account-character/amerys",')
 })
 
 test("a task pinned to one character is left naming the character it names", () => {
@@ -252,7 +252,8 @@ test("a task pinned to one character is left naming the character it names", () 
     { path: ROWS_PATH, content: null },
   ])
   const page = puts.find((one) => one.path === PAGE_PATH)?.content ?? ""
-  expect(page).not.toContain("temper-account-character/")
+  expect(page).toContain('effectiveCharacter: "temper-account-character/amerys",')
+  expect(page).not.toContain("\n  character: ")
 })
 
 test("a rotating task no character is owed states none", () => {

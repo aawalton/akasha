@@ -14,6 +14,6 @@ export const vateshranHollowsWeeklyLeaderboard = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "character",
   priority: "p3",
-  effectiveCharacter: "erin-solstice",
+  effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-09-21T19:39:01.507Z",
 } as const satisfies TemperTask

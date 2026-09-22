@@ -15,7 +15,7 @@ export const storyZoneQuestSkillPoints = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "next_character",
   priority: "p3",
-  effectiveCharacter: "maviola-el",
+  effectiveCharacter: "temper-account-character/maviola-el",
   progress: "jsonl",
   progressTotal: 3280,
   progressCurrent: 1410,

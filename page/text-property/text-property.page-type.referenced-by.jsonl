@@ -644,7 +644,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/condition-value.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/destination.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/character-name.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/effective-character.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/last-run-outcome.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-hash.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-name.text-property.ts"}

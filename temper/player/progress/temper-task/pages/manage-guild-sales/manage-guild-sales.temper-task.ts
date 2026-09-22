@@ -15,6 +15,6 @@ export const manageGuildSales = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "character",
   priority: "p2",
-  effectiveCharacter: "erin-solstice",
+  effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-09-21T19:39:05.851Z",
 } as const satisfies TemperTask

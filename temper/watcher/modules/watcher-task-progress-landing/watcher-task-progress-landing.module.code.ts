@@ -220,14 +220,13 @@ export function putsFor(
     const held = contentIn(bodies, page)
     if (held === null) continue
     const falls = done.effectiveCharacter
+    const named = falls === null ? null : `${CHARACTER_TYPE}/${falls}`
     const body = taskBodyWith(held, {
       progress: PROGRESS_ENDING,
       progressCurrent: done.progressCurrent,
       progressTotal: done.progressTotal,
-      effectiveCharacter: falls,
-      ...(falls !== null && rotatesOverCharacters(task)
-        ? { character: `${CHARACTER_TYPE}/${falls}` }
-        : {}),
+      effectiveCharacter: named,
+      ...(named !== null && rotatesOverCharacters(task) ? { character: named } : {}),
     })
     if (body !== null) puts.push({ path: page, content: body })
   }

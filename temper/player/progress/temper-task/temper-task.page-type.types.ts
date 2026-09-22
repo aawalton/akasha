@@ -2,7 +2,7 @@ import type { Priority } from "akasha/page/properties/priority.select-property.t
 import type { CharacterSortOrder } from "akasha/temper/player/progress/temper-task/properties/character-sort-order.number-property.types.ts"
 import type { CompletedAt } from "akasha/temper/player/progress/temper-task/properties/completed-at.instant-property.types.ts"
 import type { DueTime } from "akasha/temper/player/progress/temper-task/properties/due-time.calendar-time-property.types.ts"
-import type { EffectiveCharacter } from "akasha/temper/player/progress/temper-task/properties/effective-character.text-property.types.ts"
+import type { EffectiveCharacter } from "akasha/temper/player/progress/temper-task/properties/effective-character.relation-property.types.ts"
 import type { LastCompletedAt } from "akasha/temper/player/progress/temper-task/properties/last-completed-at.instant-property.types.ts"
 import type { PendingSync } from "akasha/temper/player/progress/temper-task/properties/pending-sync.boolean-property.types.ts"
 import type { Progress } from "akasha/temper/player/progress/temper-task/properties/progress.temper-task-progress.types.ts"

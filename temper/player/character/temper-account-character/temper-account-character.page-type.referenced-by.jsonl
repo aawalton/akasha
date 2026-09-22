@@ -19,5 +19,6 @@
 {"propertySlug":"import","fileName":"temper-account-character.page-type.types.ts","path":"temper/player/character/temper-account-character/pages/valeterisa/valeterisa.temper-account-character.ts"}
 {"propertySlug":"import","fileName":"temper-account-character.page-type.types.ts","path":"temper/player/character/temper-account-character/pages/yvlon-byres/yvlon-byres.temper-account-character.ts"}
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
+{"propertySlug":"target-page-type","path":"temper/player/progress/temper-task/properties/effective-character.relation-property.ts","id":"01a0c931-a8fd-73bf-9d92-c50b03800442"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/thing/properties/character.relation-property.ts","id":"01a05fc6-81fb-7d2b-9860-e72705b8dd8f"}
 {"propertySlug":"view-page-type","path":"page/view/pages/temper-characters-list.view.ts","id":"01a06577-2615-700e-880d-7fc36e8b213b"}

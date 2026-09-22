@@ -142,7 +142,6 @@
 {"propertySlug":"name-format","path":"temper/player/progress/temper-activity-category/properties/badge-variant.text-property.ts","id":"01a05fc9-9a00-724c-8bd4-be27362863ab"}
 {"propertySlug":"name-format","path":"temper/player/progress/temper-completion-category/properties/tab.text-property.ts","id":"01a05fcb-d656-76c2-a3f2-90971971c3c3"}
 {"propertySlug":"name-format","path":"temper/player/progress/temper-metric-tree/properties/node-type.text-property.ts","id":"01a05fcb-d655-73ba-a6da-f60c6c48e6b4"}
-{"propertySlug":"name-format","path":"temper/player/progress/temper-task/properties/effective-character.text-property.ts","id":"01a05fd3-435d-7270-818b-8846a738e4c8"}
 {"propertySlug":"name-format","path":"temper/thing/properties/category-id.text-property.ts","id":"01a05fba-ce38-7da7-8f2a-a30aa8bbacae"}
 {"propertySlug":"name-format","path":"temper/thing/properties/category.text-property.ts","id":"01a05fba-ce38-7d43-8178-11d7822b6825"}
 {"propertySlug":"name-format","path":"temper/thing/properties/companion-id.text-property.ts","id":"01a05fba-ce39-74ad-926f-d6a5d9908dfc"}

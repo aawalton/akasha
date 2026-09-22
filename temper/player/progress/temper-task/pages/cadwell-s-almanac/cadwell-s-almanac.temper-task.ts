@@ -6,7 +6,7 @@ export const cadwellSAlmanac = {
   slug: "cadwell-s-almanac",
   title: "Cadwell's Almanac",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
-  effectiveCharacter: "belavierr",
+  effectiveCharacter: "temper-account-character/belavierr",
   esoCharacterId: "8796093041077613",
   scope: "next_character",
   priority: "p3",

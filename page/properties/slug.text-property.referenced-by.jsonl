@@ -190,6 +190,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/action.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/condition-field.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/goal.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-task/properties/effective-character.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/thing/properties/character.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/thing/properties/completion-card.relation-property.types.ts"}
 {"propertySlug":"page-property","path":"alan/car-research/car-make/properties/trims.page-property-entry.ts","id":"01a0c541-1a15-7388-aa49-2af02f70d6c0"}

@@ -15,6 +15,6 @@ export const antiquityLore = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "character",
   priority: "p2",
-  effectiveCharacter: "erin-solstice",
+  effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-09-15T22:23:12.878Z",
 } as const satisfies TemperTask

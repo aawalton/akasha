@@ -50,7 +50,7 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A task states the character it falls to as its progress lands.",
+      statement: "A task states the character it falls to as a relation, as its progress lands.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -58,7 +58,7 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rotating task names the character it falls to as a relation to that character.",
+      statement: "A rotating task names that same character as the character the task is about.",
     },
     {
       decisionKind: "decision-kind/departure",

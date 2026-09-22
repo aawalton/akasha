@@ -15,7 +15,7 @@ export const dragonguardDailyQuests = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "all_characters",
   priority: "p3",
-  effectiveCharacter: "archmage-amerys",
+  effectiveCharacter: "temper-account-character/archmage-amerys",
   lastCompletedAt: "2026-09-19T18:05:56.683Z",
   progress: "jsonl",
   progressTotal: 600,

@@ -15,6 +15,6 @@ export const hirelingMails = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "character",
   priority: "p3",
-  effectiveCharacter: "erin-solstice",
+  effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-09-21T19:36:20.000Z",
 } as const satisfies TemperTask

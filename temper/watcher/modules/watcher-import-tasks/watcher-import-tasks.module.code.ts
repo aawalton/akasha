@@ -273,7 +273,7 @@ async function rollOnProgress(
         return {
           taskId: task.id,
           scope: asText(task.scope),
-          effectiveCharacterId: falls === undefined ? undefined : idBySlug.get(falls),
+          effectiveCharacterId: falls === undefined ? undefined : idBySlug.get(slugOf(falls)),
         }
       }),
       completed: read.completed,
