@@ -4,7 +4,7 @@ export const skillPointGroupDungeons = {
   id: "01a06108-2ff8-7e0f-a1bc-51a0856188bc",
   type: "page-type/module",
   slug: "skill-point-group-dungeons",
-  definition: "the one skill point each group dungeon hands a character for its quest",
+  definition: "the skill point each group dungeon hands a character for its quest",
   code: "ts",
   decisions: [
     {

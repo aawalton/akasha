@@ -4,7 +4,7 @@ export const completionAccountRecipeScribingUnion = {
   id: "01a06121-f0d0-7909-91ae-6949dbbffa0f",
   type: "page-type/module",
   slug: "completion-account-recipe-scribing-union",
-  definition: "the recipes and the scribing scripts any one character of an account knows",
+  definition: "the recipes and the scribing scripts any character of an account knows",
   code: "ts",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const temperConditionField = {
   id: "01a07202-f0fd-7b35-bff8-c4cc5e25da86",
   type: "page-type/page-type",
   slug: "temper-condition-field",
-  definition: "one thing about an item that a rule condition tests",
+  definition: "a thing about an item that a rule condition tests",
   extends: ["page-type/temper-progress-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

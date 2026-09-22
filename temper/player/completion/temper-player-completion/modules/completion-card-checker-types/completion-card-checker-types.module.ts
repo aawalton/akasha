@@ -4,7 +4,7 @@ export const completionCardCheckerTypes = {
   id: "01a06108-2fec-7da2-b7d1-16867e88fcd1",
   type: "page-type/module",
   slug: "completion-card-checker-types",
-  definition: "the shape of what answers whether one completion card is finished",
+  definition: "the shape of what answers whether a completion card is finished",
   code: "ts",
   decisions: [
     {

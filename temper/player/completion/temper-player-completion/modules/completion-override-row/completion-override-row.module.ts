@@ -4,7 +4,7 @@ export const completionOverrideRow = {
   id: "01a06108-2ff4-791d-9194-955da44a9b86",
   type: "page-type/module",
   slug: "completion-override-row",
-  definition: "reading one stored override off an untyped row",
+  definition: "reading a stored override off an untyped row",
   code: "ts",
   test: "ts",
   decisions: [

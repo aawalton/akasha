@@ -4,8 +4,7 @@ export const completionSummary = {
   id: "01a063a1-6ec2-7027-8d27-e1641844f7dc",
   type: "page-type/module",
   slug: "completion-summary",
-  definition:
-    "the numbers one character's summary card shows, folded from that character's progress",
+  definition: "the numbers a character's summary card shows, folded from that character's progress",
   code: "ts",
   decisions: [
     {
