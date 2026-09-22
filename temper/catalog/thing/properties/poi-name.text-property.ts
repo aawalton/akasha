@@ -5,7 +5,7 @@ export const poiName = {
   type: "page-type/text-property",
   slug: "poi-name",
   propertySlug: "poi-name",
-  definition: "the name a point of interest is shown under",
+  definition: "a point of interest's name",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

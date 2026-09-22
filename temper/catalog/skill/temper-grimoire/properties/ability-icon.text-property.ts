@@ -5,7 +5,7 @@ export const abilityIcon = {
   type: "page-type/text-property",
   slug: "ability-icon",
   propertySlug: "ability-icon",
-  definition: "the icon the skill a grimoire grants is shown with",
+  definition: "the icon of the skill a grimoire grants",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

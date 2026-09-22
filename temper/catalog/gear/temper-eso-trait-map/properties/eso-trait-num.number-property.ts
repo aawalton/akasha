@@ -5,7 +5,7 @@ export const esoTraitNum = {
   type: "page-type/number-property",
   slug: "eso-trait-num",
   propertySlug: "eso-trait-num",
-  definition: "the number The Elder Scrolls Online names a trait by",
+  definition: "the number The Elder Scrolls Online gives a trait",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

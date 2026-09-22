@@ -5,7 +5,7 @@ export const alchemyEffects = {
   type: "page-type/multi-relation-property",
   slug: "alchemy-effects",
   propertySlug: "alchemy-effects",
-  definition: "the four effects a reagent can lend what it is brewed into",
+  definition: "the four effects a reagent can lend a drink",
   targetPageType: "page-type/temper-poison-effect",
   decisions: [
     {

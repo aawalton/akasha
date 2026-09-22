@@ -4,6 +4,6 @@ export const companionEffectLabels = {
   id: "01a06110-abe3-70be-9801-313e54937033",
   type: "page-type/module",
   slug: "companion-effect-labels",
-  definition: "the label a companion skill effect is shown by",
+  definition: "a companion skill effect's label",
   code: "ts",
 } as const satisfies Module

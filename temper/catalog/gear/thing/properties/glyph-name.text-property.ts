@@ -5,7 +5,7 @@ export const glyphName = {
   type: "page-type/text-property",
   slug: "glyph-name",
   propertySlug: "glyph-name",
-  definition: "what the game calls the glyph an enchant is carried by",
+  definition: "what the game calls an enchant's glyph",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

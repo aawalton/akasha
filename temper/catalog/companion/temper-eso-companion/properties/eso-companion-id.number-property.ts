@@ -5,7 +5,7 @@ export const esoCompanionId = {
   type: "page-type/number-property",
   slug: "eso-companion-id",
   propertySlug: "eso-companion-id",
-  definition: "the number The Elder Scrolls Online names a companion by",
+  definition: "the number The Elder Scrolls Online gives a companion",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

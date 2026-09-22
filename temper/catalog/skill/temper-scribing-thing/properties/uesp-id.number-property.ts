@@ -5,7 +5,7 @@ export const uespId = {
   type: "page-type/number-property",
   slug: "uesp-id",
   propertySlug: "uesp-id",
-  definition: "the number UESP names a thing by",
+  definition: "the number UESP gives a thing",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

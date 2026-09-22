@@ -4,7 +4,7 @@ export const temperCompanionEquipmentQuality = {
   id: "01a05fcd-aed0-75bf-9fe4-d95291c165fb",
   type: "page-type/page-type",
   slug: "temper-companion-equipment-quality",
-  definition: "a grade a piece of companion equipment comes at",
+  definition: "the grade of a piece of companion equipment",
   extends: ["page-type/temper-companion-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

@@ -5,7 +5,7 @@ export const bookName = {
   type: "page-type/text-property",
   slug: "book-name",
   propertySlug: "book-name",
-  definition: "the name a lore book is shown under",
+  definition: "a lore book's name",
   maxLength: 200,
   nameFormat: null,
   types: "ts",

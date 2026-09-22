@@ -5,7 +5,7 @@ export const enemyTypes = {
   type: "page-type/text-property",
   slug: "enemy-types",
   propertySlug: "enemy-types",
-  definition: "the sort of enemy a test holds for",
+  definition: "the sort of enemy a test covers",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   types: "ts",

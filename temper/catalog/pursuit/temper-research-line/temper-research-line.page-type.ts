@@ -4,7 +4,7 @@ export const temperResearchLine = {
   id: "01a0616b-2cdf-7005-a903-e1d072da4881",
   type: "page-type/page-type",
   slug: "temper-research-line",
-  definition: "a shape of item a player researches traits on",
+  definition: "a shape of item whose traits a player researches",
   extends: ["page-type/temper-pursuit-thing"],
   parts: ["number-property/trait-index", "page-property-entry/traits", "text-property/trait-name"],
   properties: [

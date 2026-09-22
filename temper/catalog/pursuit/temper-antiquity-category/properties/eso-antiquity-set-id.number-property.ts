@@ -5,7 +5,7 @@ export const esoAntiquitySetId = {
   type: "page-type/number-property",
   slug: "eso-antiquity-set-id",
   propertySlug: "eso-antiquity-set-id",
-  definition: "the number The Elder Scrolls Online names a set of antiquity leads by",
+  definition: "the number The Elder Scrolls Online gives a set of antiquity leads",
   max: null,
   decisions: [
     {
