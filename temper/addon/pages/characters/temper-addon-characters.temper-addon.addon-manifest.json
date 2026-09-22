@@ -26,10 +26,10 @@
   ],
   "xmlFiles": {
     "afterBundle": [
-      "USPF.xml"
+      "TemperCharactersSkillPointFinder.xml"
     ]
   },
   "assets": [
-    "USPF.xml"
+    "TemperCharactersSkillPointFinder.xml"
   ]
 }

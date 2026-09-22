@@ -6,7 +6,7 @@ export const skillPointFinderLayout = {
   slug: "skill-point-finder-layout",
   definition: "the window, table rows and tooltips the skill point finder draws into",
   markup: "xml",
-  loadedAs: "USPF.xml",
+  loadedAs: "TemperCharactersSkillPointFinder.xml",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
