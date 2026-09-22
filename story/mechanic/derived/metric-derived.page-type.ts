@@ -6,7 +6,9 @@ export const metricDerived = {
   slug: "metric-derived",
   definition: "a number worked out from a character's other metrics",
   pluralSlug: "derived",
-  extends: ["page-type/metric"],
+  extends: ["page-type/mechanic"],
+  parts: ["module-property-group/formula"],
+  properties: [{ pageProperty: "module-property-group/formula", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

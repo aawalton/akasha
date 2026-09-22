@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"infrastructure/service/workstation/properties/running.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
+{"propertySlug":"import","fileName":"module-property-group.page-type.ts","path":"story/mechanic/derived/properties/formula.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"agent/settings/properties/telling.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"alan/harness/readout/properties/reading.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"check/code/properties/audit.module-property-group.ts"}
@@ -23,5 +24,6 @@
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/extending.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/filling.module-property-group.ts"}
 {"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"infrastructure/service/workstation/properties/running.module-property-group.ts"}
+{"propertySlug":"import","fileName":"module-property-group.page-type.types.ts","path":"story/mechanic/derived/properties/formula.module-property-group.ts"}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"target-page-type","path":"page/file-property/properties/file-written-by.relation-property.ts","id":"01a08e02-7592-7e87-a191-ee10ed3f6058"}
