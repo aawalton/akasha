@@ -12,5 +12,5 @@ export const zeroOrNoLimits = {
     "all-about-alan-topic/what-i-let-myself-take-on",
   ],
   settled:
-    "I have a hard time moderating, so zero and no limits are my most stable positions.\n\nA bounded rule between them still is not really stable for me.\n\nWith Legos I cannot afford no limits yet, so what I run is a long zero and a rare splurge, thrown by my overall budget rather than by a rule.",
+    "I have a hard time moderating, so zero and no limits are my most stable positions.\n\nA bounded rule between them still is not really stable for me. I have tried to set them, and they tend to break in one direction or the other. That is what I mean by unstable.\n\nWith Legos I cannot afford no limits yet, so what I run is a long zero and a rare splurge, thrown by my overall budget rather than by a rule.",
 } as const satisfies AllAboutAlanTopic
