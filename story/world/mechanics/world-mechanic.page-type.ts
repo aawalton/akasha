@@ -12,6 +12,7 @@ export const worldMechanic = {
     "boolean-property/claimed",
     "boolean-property/effect-claimed",
     "domain/ability",
+    "number-property/appearance-count",
     "number-property/paragraph",
     "number-property/reference-level",
     "page-property-entry/references",
@@ -51,6 +52,7 @@ export const worldMechanic = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
+    { pageProperty: "number-property/appearance-count", required: false, many: false },
     { pageProperty: "text-property/aliases", required: false, many: true, maxCount: null },
     {
       pageProperty: "text-property/evolves-from-slugs",
@@ -115,6 +117,10 @@ export const worldMechanic = {
     {
       decisionKind: "decision-kind/upkeep",
       statement: "Every mechanic a world's readings name is a page of a type this domain has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mechanic's appearances are how many chapters that mechanic is referenced in.",
     },
   ],
   types: "ts",
