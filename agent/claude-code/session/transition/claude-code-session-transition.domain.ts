@@ -8,6 +8,16 @@ export const claudeCodeSessionTransition = {
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code session transition" },
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code session transitions" },
+    {
+      partOfSpeech: "part-of-speech/noun",
+      spelling: "session transition",
+      scope: "domain/claude-code",
+    },
+    {
+      partOfSpeech: "part-of-speech/noun",
+      spelling: "session transitions",
+      scope: "domain/claude-code",
+    },
   ],
   decisions: [
     {
