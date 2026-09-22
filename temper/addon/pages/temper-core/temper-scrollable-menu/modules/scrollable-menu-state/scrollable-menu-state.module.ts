@@ -4,7 +4,7 @@ export const scrollableMenuState = {
   id: "01a06275-c449-7718-96d3-f0cd0abfd3ab",
   type: "page-type/module",
   slug: "scrollable-menu-state",
-  definition: "the library callback object and the one mutable reference to the context menu",
+  definition: "the library callback object and the mutable reference to the context menu",
   code: "ts",
   decisions: [
     {

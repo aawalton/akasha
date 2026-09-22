@@ -5,7 +5,7 @@ export const bundleEntry = {
   type: "page-type/relation-property",
   slug: "bundle-entry",
   propertySlug: "bundle-entry",
-  definition: "the module the transpiler starts an addon's one Lua file from",
+  definition: "the module the transpiler starts an addon's Lua file from",
   targetPageType: "page-type/module",
   types: "ts",
 } as const satisfies RelationProperty

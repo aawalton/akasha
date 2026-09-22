@@ -4,7 +4,7 @@ export const menuRowSetup = {
   id: "01a0605a-5821-7f11-b1c6-61c921c020da",
   type: "page-type/module",
   slug: "menu-row-setup",
-  definition: "the tooltip, divider and header work one menu row takes",
+  definition: "the tooltip, divider and header work a menu row takes",
   code: "ts",
   decisions: [
     {

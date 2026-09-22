@@ -4,6 +4,6 @@ export const savedVarsProtectedMigrate = {
   id: "01a06177-abfb-7913-83a5-ec279a64ae25",
   type: "page-type/module",
   slug: "saved-vars-protected-migrate",
-  definition: "the copy that spreads one server's settings across every megaserver profile",
+  definition: "the copy that spreads a server's settings across every megaserver profile",
   code: "ts",
 } as const satisfies Module

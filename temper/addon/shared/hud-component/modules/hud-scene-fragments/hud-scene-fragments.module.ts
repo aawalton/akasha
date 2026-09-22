@@ -4,7 +4,7 @@ export const hudSceneFragments = {
   id: "01a060a4-fa3b-7a5a-9dbd-b12ae75da9e4",
   type: "page-type/module",
   slug: "hud-scene-fragments",
-  definition: "the HUD parts one scene adds for itself",
+  definition: "the HUD parts a scene adds for itself",
   code: "ts",
   decisions: [
     {

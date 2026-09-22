@@ -4,7 +4,7 @@ export const tweakMailData = {
   id: "01a06115-1acc-7d0b-a919-d0ba8caa2953",
   type: "page-type/module",
   slug: "tweak-mail-data",
-  definition: "what the interface tweaks keep about one mail",
+  definition: "what the interface tweaks keep about a mail",
   code: "ts",
   decisions: [
     {

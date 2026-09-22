@@ -4,7 +4,7 @@ export const scrollableMenuComboboxBaseHighlight = {
   id: "01a06275-c445-75f3-be93-84376c5556c2",
   type: "page-type/module",
   slug: "scrollable-menu-combobox-base-highlight",
-  definition: "the choice of highlight template and tint for one row",
+  definition: "the choice of highlight template and tint for a row",
   code: "ts",
   decisions: [
     {
