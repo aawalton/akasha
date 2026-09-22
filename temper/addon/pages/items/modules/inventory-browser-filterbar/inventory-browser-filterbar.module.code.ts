@@ -1,3 +1,7 @@
+import {
+  TEXT_PRIMARY,
+  TEXT_SECONDARY,
+} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { BROWSER_CATEGORIES } from "akasha/temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts"
 import type {
   BrowserFilterState,
@@ -9,7 +13,6 @@ import type {
 import { BROWSER_QUALITY_ANY } from "akasha/temper/addon/pages/items/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import {
   type BarButton,
-  COLOR_SECONDARY,
   setButtonActive,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -31,8 +34,6 @@ export interface BrowserFilterBarParams {
 export interface BrowserFilterBarHandle {
   setLocationOptions: (this: void, options: readonly LocationViewOption[]) => undefined
 }
-
-const COLOR_PRIMARY: readonly [number, number, number] = [0.8442, 0.8442, 0.8442]
 
 const PAD = 6
 const CAT_W = 78
@@ -68,13 +69,13 @@ function makeButton(
   backdrop.SetAnchor(TOPLEFT, parent, TOPLEFT, x, y)
   backdrop.SetDimensions(w, h)
   backdrop.SetCenterColor(0, 0, 0, 0.6)
-  backdrop.SetEdgeColor(COLOR_SECONDARY[0], COLOR_SECONDARY[1], COLOR_SECONDARY[2], 0.6)
+  backdrop.SetEdgeColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 0.6)
   backdrop.SetEdgeTexture(undefined, 1, 1, 1)
 
   const label = WINDOW_MANAGER.CreateControl(`${name}Label`, backdrop, CT_LABEL)
   label.SetAnchorFill()
   label.SetFont("$(BOLD_FONT)|14|shadow")
-  label.SetColor(COLOR_PRIMARY[0], COLOR_PRIMARY[1], COLOR_PRIMARY[2], 1)
+  label.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
   label.SetHorizontalAlignment(TEXT_ALIGN_CENTER)
   label.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   label.SetText(text)
@@ -101,14 +102,14 @@ function makeEditBox(
   bg.SetAnchor(TOPLEFT, parent, TOPLEFT, x, y)
   bg.SetDimensions(w, h)
   bg.SetCenterColor(0, 0, 0, 0.6)
-  bg.SetEdgeColor(COLOR_SECONDARY[0], COLOR_SECONDARY[1], COLOR_SECONDARY[2], 0.6)
+  bg.SetEdgeColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 0.6)
   bg.SetEdgeTexture(undefined, 1, 1, 1)
 
   const edit = WINDOW_MANAGER.CreateControl(name, parent, CT_EDITBOX)
   edit.SetAnchor(TOPLEFT, bg, TOPLEFT, 4, 0)
   edit.SetAnchor(BOTTOMRIGHT, bg, BOTTOMRIGHT, -4, 0)
   edit.SetFont("$(BOLD_FONT)|14|shadow")
-  edit.SetColor(COLOR_PRIMARY[0], COLOR_PRIMARY[1], COLOR_PRIMARY[2], 1)
+  edit.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
   edit.SetDefaultText(placeholder)
   edit.SetMaxInputChars(64)
   edit.SetMouseEnabled(true)

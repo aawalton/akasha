@@ -13,10 +13,12 @@ import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import {
+  TEXT_PRIMARY,
+  TEXT_SECONDARY,
+} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import type { BrowseResultListing } from "akasha/temper/addon/pages/items/modules/trading-browse-engine/trading-browse-engine.module.code.ts"
 import {
-  COLOR_PRIMARY,
-  COLOR_SECONDARY,
   CONTROL_HEIGHT,
   PADDING_X,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
@@ -55,7 +57,7 @@ function makeColumnLabel(
   label.SetAnchor(LEFT, parent, LEFT, xOffset, 0)
   label.SetDimensions(width, ROW_HEIGHT)
   label.SetFont(bold ? "$(BOLD_FONT)|14|shadow" : "$(MEDIUM_FONT)|14|soft-shadow-thin")
-  const color = bold ? COLOR_SECONDARY : COLOR_PRIMARY
+  const color = bold ? TEXT_SECONDARY : TEXT_PRIMARY
   label.SetColor(color[0], color[1], color[2], 1)
   label.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   return label

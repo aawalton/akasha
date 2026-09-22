@@ -13,6 +13,10 @@ import "akasha/temper/eso/type/eso-ttc/eso-ttc.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import {
+  TEXT_PRIMARY,
+  TEXT_SECONDARY,
+} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/trading-constants/trading-constants.module.code.ts"
 import {
   getLastSold,
@@ -27,13 +31,15 @@ import {
   suggestSellPrice,
 } from "akasha/temper/economy/trading/listing/modules/sell-pricing/sell-pricing.module.code.ts"
 import {
-  COLOR_PRIMARY,
-  COLOR_SECONDARY,
   CONTROL_HEIGHT,
   createBarButton,
   PADDING_X,
   PADDING_Y,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+import {
+  drawSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
@@ -54,6 +60,9 @@ const WINDOW_WIDTH = 320
 const LINE_HEIGHT = 20
 const LINE_GAP = 4
 const BUTTON_HEIGHT = CONTROL_HEIGHT
+const PANEL_OPACITY = 0.7
+const PANEL_LEVEL: SurfaceLevel = 1
+const BORDER_OPACITY = 0.6
 
 const SOURCE_LABEL: Record<string, string> = {
   "last-sold": "last sold",
@@ -170,11 +179,8 @@ function buildSellWindow(this: void): SellWidgets {
   tlw.SetClampedToScreen(true)
   tlw.SetMovable(true)
 
-  const bg = WINDOW_MANAGER.CreateControl("$(parent)BG", tlw, CT_BACKDROP)
-  bg.SetAnchorFill()
-  bg.SetCenterColor(0, 0, 0, 0.7)
-  bg.SetEdgeColor(COLOR_SECONDARY[0], COLOR_SECONDARY[1], COLOR_SECONDARY[2], 0.6)
-  bg.SetEdgeTexture(undefined, 1, 1, 1)
+  const bg = drawSurface(tlw, PANEL_LEVEL, PANEL_OPACITY)
+  bg.SetEdgeColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], BORDER_OPACITY)
 
   let y = PADDING_Y
   const nameLabel = buildLine(tlw, "Name", y, true)
@@ -224,7 +230,7 @@ function buildLine(
   label.SetAnchor(TOPLEFT, parent, TOPLEFT, PADDING_X, top)
   label.SetDimensions(WINDOW_WIDTH - PADDING_X * 2, LINE_HEIGHT)
   label.SetFont(bold ? "$(BOLD_FONT)|16|shadow" : "$(MEDIUM_FONT)|14|soft-shadow-thin")
-  const color = bold ? COLOR_SECONDARY : COLOR_PRIMARY
+  const color = bold ? TEXT_SECONDARY : TEXT_PRIMARY
   label.SetColor(color[0], color[1], color[2], 1)
   label.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   return label
